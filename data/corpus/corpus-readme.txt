@@ -1,19 +1,33 @@
 Explanation of corpus.txt file
-The file is a tab delimited file listing the URL and other details of corpus source documents. Fields:
+===============================================================================
+The file is a tab delimited file listing the URL and other details of corpus 
+source documents. Fields:
 
-ID: An identifier of the source document
+ID: An identifier of the text document
+
+Document Name: An identifier of the sutra or other source document. There may be 
+  multiple versions of the same source document, including translations
+  in different languages or multiple translations.
 
 Type: File for local files, url for web documents
 
-Character set: iast - International Alphabet for Sanskrit Transcription, traditional - traditional Chinese
+Language: Human language that the document was written in.
 
-Document URL: Either the file name for local files or the URL for a web document
+Character set: iast - International Alphabet for Sanskrit Transcription, 
+  traditional - traditional Chinese
 
-Start marker: Text to identify start of text to be analyzed. Used to exclude header information on web documents. Start marker itself is excluded. The text '\N' indicates the text starts at the top of the document. Any text before the start marker is ignored.
+Document URI: Either the file name for local files or the URL for a web document
+  or a book ISBN.
 
-End marker: Similar to the start marker. Anything after the end marker will be ignored.
+Source: A human friendly name for the document.
 
-Name: A human friendly name for the document.
+Start marker: Text to identify start of text to be analyzed. Used to exclude 
+  header information on web documents. Start marker itself is excluded. The text 
+  '\N' indicates the text starts at the top of the document. Any text before the 
+  start marker is ignored.
+
+End marker: Similar to the start marker. Anything after the end marker will be 
+  ignored.
 
 Description: A longer description for the document.
 

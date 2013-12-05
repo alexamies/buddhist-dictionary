@@ -1,2 +1,2 @@
-diamond-sutra-ch1	file	iast	diamond-sutra-sanskrit1.txt	\N	---END---	First chapter in the Diamond Sutra, demonstrates use of corpus with a local file.
-diamond-sutra	url	iast	http://www.dsbcproject.org./vajracchedik%C4%81-n%C4%81ma-tri%C5%9Batik%C4%81-praj%C3%B1%C4%81p%C4%81ramit%C4%81/vajracchedik%C4%81-n%C4%81ma-tri%C5%9Batik%C4%81-praj%C3%B1%C4%81p%C4%81ramit%C4%81	Diamond Sutra	vajracchedikā nāma triśatikā prajñāpāramitā|	||āryavajracchedikā bhagavatī prajñāpāramitā samāptā||	Full version of the Diamond Sutra from UWest Sanksrit Buddhist Canon
+1	Diamond Sutra Chapter 1	file	Sanskrit	IAST	diamond-sutra-sanskrit1.txt	UWest Sanskrit Buddhist Canon	\N	---END---	First chapter in the Diamond Sutra, demonstrates use of the corpus.
+2	Diamond Sutra	file	Sanskrit	IAST	diamond-sutra-sanskrit.txt	UWest Sanskrit Buddhist Canon	\N	---END---	Full version of the Diamond Sutra from UWest Sanksrit Buddhist Canon
