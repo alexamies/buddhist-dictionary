@@ -40,15 +40,17 @@ def LoadCorpusMeta():
             if len(tokens) > 4:
                 entry['charset'] = tokens[4]
             if len(tokens) > 5:
-                entry['uri'] = tokens[5]
+                entry['doc_type'] = tokens[5]
             if len(tokens) > 6:
-                entry['source'] = tokens[6]
+                entry['uri'] = tokens[6]
             if len(tokens) > 7:
-                entry['start'] = tokens[7]
+                entry['source'] = tokens[7]
             if len(tokens) > 8:
-                entry['end'] = tokens[8]
+                entry['start'] = tokens[8]
             if len(tokens) > 9:
-                entry['description'] = tokens[9]
+                entry['end'] = tokens[9]
+            if len(tokens) > 10:
+                entry['description'] = tokens[10]
             corpus.append(entry)
     return corpus
 
