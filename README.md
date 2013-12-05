@@ -3,7 +3,7 @@ buddhist-dictionary
 
 A Chinese-Sanskrit-English Buddhist Dictionary and linguistic tools.
 
-This is a non-profit, open source project for use in reading and analyzing Chinese
+This is a non-profit, open source project operated by Nan Tien Institute for use in reading and analyzing Chinese
 and Sanskrit Buddhist texts.
 
 Goals:
@@ -22,4 +22,4 @@ There are three parts to the project:
 3. Command line tools. For building vocabulary. These are in Python.
 
 ----------
-Copyright chinesenotes.com 2013.
+Copyright Nan Tien Institute 2013, http://www.nantien.edu.au.
