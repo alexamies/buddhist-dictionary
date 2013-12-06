@@ -9,14 +9,15 @@
     <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
     <link rel="shortcut icon" href="http://nantien.edu.au/sites/default/files/Nan%20Tien%20Institute%20Logo.jpg" 
           type="image/jpeg" />
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
     <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
-    <p>
-      <a href="index.html">Home</a> | 
-      <a href="corpus.html">Corpus</a> | 
-      <a href="dict_resources.html">Resources</a> | 
-      <a href="about.html">About</a>
+    <p class="menu">
+      <a class="menu" href="corpus.html">Home</a> | 
+      <a class="menu" href="corpus.html">Corpus</a> | 
+      <a class="menu" href="dict_resources.html">Resources</a> | 
+      <a class="menu" href="about.html">About</a>
     </p>
     <div class="breadcrumbs">
       <a href="index.html">Home</a> &gt; 
@@ -28,15 +29,16 @@
         $searchTerm = $_REQUEST['word'];
     }
 ?>
-	<div class='search'>
-	  <form action='sanskrit_query.php' method='post' id='searchForm'>
-	    <fieldset>
-	      <input type='text' name='word' id='searchWord' size='50'
-	             value='<?php echo htmlspecialchars($searchTerm, ENT_QUOTES) ?>'/>
-	      <input id='searchButton' type='submit' value='Search' title='Search'/>
-	    </fieldset>
-	  </form>
-	</div>
+    <div class="content">
+      <div class='search'>
+        <form action='sanskrit_query.php' method='post' id='searchForm'>
+          <fieldset>
+            <input type='text' name='word' id='searchWord' size='50'
+                   value='<?php echo htmlspecialchars($searchTerm, ENT_QUOTES) ?>'/>
+            <input id='searchButton' type='submit' value='Search' title='Search'/>
+          </fieldset>
+        </form>
+      </div>
 <?php
 
     if (isset($_REQUEST['word'])) {
@@ -100,13 +102,14 @@
 		}
 	}
 ?>
-    <p>
-      Enter IAST, plain Latin, Devanagari, Traditional Chinese, or English and click Search.
-      Examples: tathāgata, Tathagata, तथागत, 如來, or Buddha.
-    </p>
-    <hr/>
-    <p>
-      Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
-    </p>
+      <p>
+        Enter IAST, plain Latin, Devanagari, Traditional Chinese, or English and click Search.
+        Examples: tathāgata, Tathagata, तथागत, 如來, or Buddha.
+      </p>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
+      </p>
+    </div>
   </body>
 </html>
