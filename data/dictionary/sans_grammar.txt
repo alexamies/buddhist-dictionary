@@ -1,0 +1,28 @@
+# Copyright chinesenotes.com 2012-2013
+proper_noun	Proper noun	A noun that names a unique person, place, or thing
+noun	Noun	Names a person, place, thing, or abstract idea
+fragment	Fragment	A string of words
+pronoun	Pronoun	Substitutes for a noun in a sentence
+phrase	Phrase	A group of words that form a constituent
+adverb	Adverb	A modifier of a verb or other part of speech besides a noun
+adjective	Adjective	Modifies a noun
+cardinal	Cardinal	A number used to count things (as opposed to a number giving a position in an order)
+conjunction	Conjunction	Connects two words, phrases, or clauses
+preposition	Preposition	Marks certain syntactic functions and semantic roles
+particle	Particle	A function word that does not belong to any more specific word classes, such as nouns, pronouns, verbs, or adjectives
+verb	Verb	Conveys an action, occurrence, or state of being
+verb1	Verb of class I	A verb that undergoes a thematic inflection
+verb1_3rd	Verb of class I in the third person	A verb that undergoes a thematic inflection in the third person form, usually with <em>ti</em> appended
+verb4	Verb of class IV	A verb that undergoes a thematic inflection
+verb4_3rd	Verb of class IV in the third person	A verb that undergoes a thematic inflection in the third person form, usually with <em>ti</em> appended
+verb6	Verb of class VI	A verb that undergoes a thematic inflection
+verb6_3rd	Verb of class VI in the third person	A verb that undergoes a thematic inflection in the third person form, usually with <em>ti</em> appended
+indecl_adj	indeclinable adjective	An adjective that is not modified based on grammatical usage
+masculine	Masculine noun	noun with masculine grammatical gender
+feminine	Feminine noun	noun with feminine grammatical gender
+neuter	Neuter noun	noun with neuter grammatical gender
+indecl	Indeclinable adjectives	Adjectives that do not change in form
+compound	Compound	A compound word
+verb8	Class VIII verb	\N
+number	Number	\N
+pp	past participle	\N

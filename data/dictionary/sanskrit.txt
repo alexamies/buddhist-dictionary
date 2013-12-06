@@ -42,7 +42,7 @@
 42	518	tam	taṃ	तं	\N	他	he	\N	pronoun	\N
 43	519	tam	tāṃ	तां	\N	她	she	\N	pronoun	tat
 44	3167	sutra	sūtra	सूत्र	sutta	經、佛經、長行	sutra	Literally, to sew	noun	\N
-45	6270	atman	ātman	आत्मन्	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
+45	6270	atman	ātman	आत्मन्	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 46	28009	jnana	jñāna	ज्ञान	\N	闍那、智	jnana	wisdom / knowing	noun	\N
 47	17994	dharma	dhárma	धर्म	dhamma	法	dharma /  natural law	\N	masculine	\N
 48	3166	bodhisattva	bodhisattva	बोधिसत्त्व	bodhisatta	菩薩	bodhisattva	\N	noun	\N
@@ -73,12 +73,12 @@
 73	28015	samskara	saṃskāra	संस्कार	saṅkhāra	行	volition / volitional formations / that which has been put together	\N	masculine	\N
 74	17742	yoga	yoga	योग	\N	瑜伽、瑜珈	yoga	\N	noun	\N
 75	24948	Siva	Śiva	शिव	\N	濕婆	Shiva	\N	proper_noun	\N
-76	13326	deva deva	देव	\N	天	deva / a god	\N	noun	\N
+76	13326	deva	deva	देव	\N	天	deva / a god	\N	noun	\N
 77	28392	devi	devī	देवी	\N	提毗	devi / a goddess	Same root as the male deva but ending in <em>i</em> to indicate female gender	noun	\N
 78	4187	dhyana	dhyāna	ध्यान	jhāna	禪、禪那、禪修、禪定	to medidate	\N	verb	\N
 79	28016	sila	śīla	शील	sīla	尸羅、戒	commitment to harmony and self-restraint	The second of the six paramitas	noun	\N
 80	17658	panca-silani	pañca-śīlāni	पञ्चशीलानि	pañca-sīlāni	五戒	the Five Precepts	\N	phrase	\N
-81	6895	samadhi	samādhi	समाधि		samādhi	三昧	samadhi / mental concentration	\N	noun	\N
+81	6895	samadhi	samādhi	समाधि	samādhi	三昧	samadhi / mental concentration	\N	noun	\N
 82	22994	veda	véda	वेदा	\N	吠陀	Veda	Literally, knowledge in Sanskrit	noun	\N
 83	17766	siddhartha	siddhārtha	सिद्धार्थ	Siddhattha	悉達多	Siddhartha	The Buddha's personal name	proper_noun	\N
 84	3618	buddhatva	buddhatva	बुद्धत्व	buddhatta	佛	buddhahood	The state of being a Buddha	noun	\N
@@ -101,7 +101,7 @@
 101	27447	virupaksa	virūpākṣa	विरूपाक्ष	Virūpakkha	廣目天王、广目、毗琉璃天	Virupaksa	Guardian of the west	proper_noun	\N
 102	27467	lumbini	lumbinī	लुम्बिनी	\N	藍毗尼、岚毘尼、腊伐尼	Lumbini	Literally, the lovely	proper_noun	\N
 103	25288	magadha	magadha	मगध	\N	摩揭陀、摩伽陀国、摩竭提国、摩竭陀国、摩羯陀国	Magadha	\N	proper_noun	\N
-104	25286	kosala	kosala	कोसल		\N	憍薩羅	Kosala	\N	proper_noun	\N
+104	25286	kosala	kosala	कोसल	\N	憍薩羅	Kosala	\N	proper_noun	\N
 105	27577	buddhacaritam	buddhacaritam	बुद्धचरितम्	\N	佛所行讚	Buddhacarita	\N	proper_noun	\N
 106	27735	buddhaghosa	buddhaghoṣa	बुद्धघोष	\N	覺音	Buddhaghosa	\N	proper_noun	\N
 107	25095	jataka	jātaka	जातक	\N	本生經	The Jataka Tales	\N	proper_noun	\N
@@ -110,7 +110,7 @@
 110	28018	ajnata kaundinya	ajñāta kaundinya	अञ्ञ कोन्दञ्ञ	Añña Kondañña	阿若憍陳如	Ajnata Kaundinya / Kaundinya	\N	proper_noun	\N
 111	28018	kaundinya	kauṇḍinya	कौण्डिन्य	kondañña	阿若憍陳如	Ajnata Kaundinya / Kaundinya	The first disciple of the Buddha	proper_noun	\N
 112	28019	samgha	saṃgha	संघ	saṅgha	僧伽	Sangha / the monastic community	\N	proper_noun	\N
-113	25164	sindhu	sindhu	सिन्धु	印度河	Indus River	\N	proper_noun	\N
+113	25164	sindhu	sindhu	सिन्धु	\N	印度河	Indus River	\N	proper_noun	\N
 114	3728	ganga	gaṅgā	गङ्गा	\N	恆河	Ganges / Ganga	\N	proper_noun	\N
 115	27580	himalaya	himālaya	हिमालय	\N	喜馬拉雅	The Himalayas	Literally, the abode of snow	proper_noun	\N
 116	5051	sariputra	śāriputra	शारिपुत्र	sāriputta	舍利子、舍利弗	Sariputra	\N	proper_noun	\N
@@ -120,7 +120,7 @@
 120	18636	ananda	ānanda	आनन्द	\N	阿难陀、阿难	Ananda	\N	proper_noun	\N
 121	6607	bhiksu	bhikṣu	भिक्षु	bhikkhu	比丘、出家人、僧侣、僧人、苾蒭、備芻	a monk / a bhikkhu	The Sanskrit term applies to monks, bhikṣuṇī is the term for nuns	noun	\N
 122	7201	bhiksuni	bhikṣuṇī	भिक्षुणी		比丘尼	a nun	\N	noun	\N
-123	6173	aryastangamarga	āryāṣṭāṅgamārga	आर्याष्टाङ्गमार्ग		ariyo aṭṭhaṅgiko maggo	八正道、八支正道、八支聖道、八聖道	The Noble Eightfold Path	\N	phrase	\N
+123	6173	aryastangamarga	āryāṣṭāṅgamārga	आर्याष्टाङ्गमार्ग	ariyo aṭṭhaṅgiko maggo	八正道、八支正道、八支聖道、八聖道	The Noble Eightfold Path	\N	phrase	\N
 124	17656	pratityasamutpada	pratītyasamutpāda	प्रतीत्यसमुत्पाद	paticcasamuppāda	緣起	dependent arising	\N	noun	\N
 125	25035	buddhagaya	buddhagayā	बुद्धगया	\N	菩提伽耶	Bodh Gaya	\N	proper_noun	\N
 126	21832	kamadhatu	kāmadhātu	कामधातु	\N	慾界	The Realm of Desire	\N	proper_noun	\N
@@ -157,14 +157,14 @@
 157	2650	iha	iha	इह	\N	這裡	here	\N	pronoun	\N
 158	27452	laksmi	lakṣmī	लक्ष्मी	\N	功德天、寶藏天女、吉祥天女	Lakshmi	\N	proper_noun	\N
 159	17722	bodhidharma	bodhidharma	बोधिधर्म	\N	菩提达摩	Bodhidharma	\N	proper_noun	\N
-160	18509	lankavatarasutra	laṅkāvatārasūtra	लंकावतारसूत्र		\N	楞伽經、楞伽、楞伽阿跋多羅寶經	Lankavatara Sutra	\N	proper_noun	\N
-161	25199	stupa	stūpa	स्तूप	thūpa	窣堵波、塔、舍利塔、寶塔	\N	stupa / pagoda	Literally, a heap	noun	\N
+160	18509	lankavatarasutra	laṅkāvatārasūtra	लंकावतारसूत्र	\N	楞伽經、楞伽、楞伽阿跋多羅寶經	Lankavatara Sutra	\N	proper_noun	\N
+161	25199	stupa	stūpa	स्तूप	thūpa	窣堵波、塔、舍利塔、寶塔	stupa / pagoda	Literally, a heap	noun	\N
 162	19669	vasubandu	vasubandu	वसुबन्दु	\N	世親	Vasubandhu	\N	proper_noun	\N
 163	17740	trikaya	trikāya	त्रिकाय	\N	三身	Trikaya	Literally, three bodies	proper_noun	\N
 164	28075	dakini	ḍākinī	डाकिनी	\N	空行母	a dakini	\N	noun	\N
 165	28076	guru	guru	गुरु	\N	上師	a guru	\N	noun	\N
 166	28077	yogi	yogi	योगी	\N	瑜伽士	a yogi	\N	noun	\N
-167	28078	yogini	yoginī	\N	瑜伽女	a yogini	\N	noun	\N
+167	28078	yogini	yoginī	योगिनी	\N	瑜伽女	a yogini	\N	noun	\N
 168	28079	kali	kālī	काली	\N	時母	Kali	\N	proper_noun	\N
 169	28080	vajrayogini	vajrayoginī	वज्रयोगिनी	\N	瑜伽空行母	Vajrayogini	Literally, the diamond dakini	proper_noun	\N
 170	28081	sadhu	sādhu	साधु	\N	苦行僧	a sadhu	\N	noun	\N
@@ -181,14 +181,14 @@
 181	28084	purana	purāṇa	पुराण	\N	往世書	Puranas	A genre of narratives of the history of the universe	proper_noun	\N
 182	28085	saktam	śāktaṃ	शाक्तं	\N	性力派	Shaktism	\N	proper_noun	\N
 183	5043	prajnaparamita	prajñāpāramitā	प्रज्ञापारमिता	\N	般若波羅蜜多	Prajnaparamita	Perfection of wisdom	proper_noun	\N
-184	19518	nalanda	nālandā	नालंदा		nālandā	那爛陀	Nalanda	\N	proper_noun	\N
+184	19518	nalanda	nālandā	नालंदा	nālandā	那爛陀	Nalanda	\N	proper_noun	\N
 185	27271	atisa	atiśa	अतिश	\N	阿底峽	Atisa / Atisha	\N	proper_noun	\N
 186	3163	anitya	anitya	अनित्य	anicca	無常、無主、非常	impermanence	\N	noun	\N
 187	28088	anuttara	anuttara	अनुत्तर	anuttara	阿耨多羅	unsurpassed / supreme	\N	adjective	\N
 188	3941	dana	dāna	दान	dāna	布施、檀那、施	dana / the practice of giving	\N	noun	\N
 189	17768	dharmacakra	dharmacakra	धर्मचक्र	dhammacakka	法輪	Dharma Wheel / Dharmacakra	\N	proper_noun	\N
 190	27712	mahasiddha	mahāsiddha	महासिद्ध	\N	大成就、大究竟	Mahasiddha	\N	proper_noun	\N
-191	7135	punya	puṇya	पुण्य	puñña	\N	功德、福、福德	merit / virtue	\N	noun	\N
+191	7135	punya	puṇya	पुण्य	puñña	功德、福、福德	merit / virtue	\N	noun	\N
 192	21375	madhyamapratipad	madhyamāpratipad	मध्यमाप्रतिपद्	majjhimāpaṭipadā	中道	The Middle Way	\N	phrase	\N
 193	21176	moksa	mokṣa	मोक्ष	\N	解脫	liberation	\N	masculine	\N
 194	7205	namah	namaḥ	नमः	namo	南無	to take refuge / to call the name of	\N	verb	\N
@@ -199,7 +199,7 @@
 199	28103	humsvaranadini tara	hūmsvaranādinī tārā	हूम्स्वरनादिनी तारा	\N	虛空吽音救度	Humsvaranadini Tara	\N	proper_noun	\N
 200	28104	vijayatara	vijayatārā	विजयतारा	\N	能胜三界救度	Vijaya Tara	\N	proper_noun	\N
 201	2892	bhaisajyaguru	bhaiṣajyaguru	भैषज्यगुरु	\N	藥師佛、藥師琉璃光佛、藥師琉璃光如來	Medicine Buddha	\N	proper_noun	\N
-202	28106	bhaisajyaguruvaiduryaprabharaja	bhaiṣajyaguruvaiḍūryaprabhārāja	भैषज्यगुरुवैडूर्यप्रभाराज	\N	藥師琉璃光佛、藥師琉璃光如來、藥師佛	Medicine Buddha	Literally, Medicine Master and King of Lapis Lazuli Light	\N	proper_noun	\N
+202	28106	bhaisajyaguruvaiduryaprabharaja	bhaiṣajyaguruvaiḍūryaprabhārāja	भैषज्यगुरुवैडूर्यप्रभाराज	\N	藥師琉璃光佛、藥師琉璃光如來、藥師佛	Medicine Buddha	Literally, Medicine Master and King of Lapis Lazuli Light	proper_noun	\N
 203	28108	suryaprabha	sūryaprabha	सूर्यप्रभ	\N	日光菩薩	Suryaprabha Bodhisattva	\N	proper_noun	\N
 204	26770	brahmanah	brāhmaṇaḥ	ब्राह्मणः	\N	婆羅門	Brahmin	\N	proper_noun	\N
 205	28110	vaiduryanirbhasa	vaidūryanirbhāsā	वैडूर्यनिर्भास	\N	淨琉璃世界	The Land of Pure Crystal	\N	proper_noun	\N
@@ -236,7 +236,7 @@
 236	21068	grihastha	grihastha	ग्रिहस्थ	gahattha	居士	a lay person	\N	noun	\N
 237	21068	grhapati	gṛhapati	गृहपति	gahapati	居士	a lay person	\N	noun	\N
 238	3091	sraddha	śraddhā	श्रद्धा	saddhā	信	to have faith	\N	verb	\N
-239	22085	devadatta	devadatta	देवदत्त		\N	提婆達多	Devadatta	\N	proper_noun	\N
+239	22085	devadatta	devadatta	देवदत्त	\N	提婆達多	Devadatta	\N	proper_noun	\N
 240	25307	sravasti	śrāvastī	श्रावस्ती	sāvatthī	舍衛	Sravasti	\N	proper_noun	\N
 241	28124	kosala	kosala	कोसल	\N	拘薩羅	Kosala	\N	proper_noun	\N
 242	8847	mahasattva	mahāsattva	महासत्त्व	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	\N	noun	\N
@@ -275,7 +275,7 @@
 275	315	ayuta	ayuta	अयुत	\N	萬	ten thousand	\N	cardinal	\N
 276	28368	laksa	lakṣa	लक्ष	\N	十萬	one hundred thousand	\N	cardinal	\N
 277	10945	koti	koṭi	कोटि	\N	千萬	ten million	\N	cardinal	\N
-278	28369	sanku	śaṅku	शङ्कु	\N	萬億	one trillion	\N	cardinal	proper_noun	\N
+278	28369	sanku	śaṅku	शङ्कु	\N	萬億	one trillion	\N	cardinal	\N
 279	28374	vajradhatu	vajradhātu	वज्धातु	\N	金剛界	Vajradhatu / the Diamond Realm	\N	proper_noun	\N
 280	18096	vairocana	vairocana	वैरोचन	\N	大日如來、盧舍那佛、毗盧遮那佛	Vairocana Buddha	\N	proper_noun	\N
 281	17645	aksobhya	akṣobhya	अक्षोभ्य	\N	阿閃如來、阿閦如來、阿閦佛、東方動不如來	Aksobhya Buddha	Literally, the Immovable One	proper_noun	\N
@@ -309,7 +309,7 @@
 309	446	budhavasara	budhavāsara	बुधवासर	\N	星期三、周三、礼拜三	Wednesday	\N	proper_noun	\N
 310	447	guruvasara	guruvāsara	गुरुवासर	\N	星期四、周四、礼拜四	Thursday	\N	proper_noun	\N
 311	447	brhaspativasarah	bṛhaspativāsaraḥ	बृहस्पतिवासरः	\N	星期四、周四、礼拜四	Thursday	\N	proper_noun	\N
-312	448	sukravasara	śukravāsara		शुक्रवासर	\N	星期五、周五、礼拜五	Friday	\N	proper_noun	\N
+312	448	sukravasara	śukravāsara	शुक्रवासर	\N	星期五、周五、礼拜五	Friday	\N	proper_noun	\N
 313	449	sanivasara	śanivāsara	शनिवासर	\N	星期六、周六、礼拜六	Thursday	\N	proper_noun	\N
 314	28390	surya	sūrya	सूर्य	\N	苏利耶	Surya / the Sun	\N	proper_noun	\N
 315	28391	cakra	cakra	चक्र	\N	查克拉	chakra	From cakraṃ (wheel or to turn)	noun	\N
@@ -356,7 +356,7 @@
 356	25099	sumga rajavamsa	śuṃga rājavaṃśa	शुंग राजवंश	\N	巽伽王朝	Saka Dynasty / Shaka Dynasty / Indo-Scythian Dynasty	185 &mdash; 73 BCE), dynasty in Northern India	proper_noun	\N
 357	23337	hindudharmah	hindūdharmaḥ	हिन्दूधर्मः	\N	印度教	Hinduism	\N	proper_noun	\N
 358	27372	isvara	īśvara	ईश्वर	\N	自在	Isvara	A Hindu god	proper_noun	\N
-359	28427	vardhamana	vardhamāna	वर्धमान	\N	Vardhamana	Indian sage, established the tenets of Jainism	proper_noun	\N
+359	28427	vardhamana	vardhamāna	वर्धमान	\N	笩駄摩那	Vardhamana	An Indian sage, established the tenets of Jainism	proper_noun	\N
 360	26489	saranganada	saraṅganāda	सरङ्गनाद	\N	鹿野苑	Sarnath / Sarnatha / Deer Park / Mrigadava / Migadaya / Rishipattana / Isipatana	Located in Uttar Pradesh, the place where the Buddha first taught the Dharma	proper_noun	\N
 361	28430	varsah	varṣaḥ	वर्षः	\N	結夏安居	Vassa / Rains Retreat	The English term is borrowed from Pali	proper_noun	\N
 362	25294	vihara	vihāra	विहार	\N	精舍、僧院、毗訶羅窟	a vihara / a Buddhist monastery	\N	noun	\N
@@ -385,10 +385,10 @@
 385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 387	3368	upavisati	upaviśati	उपविशति	\N	坐	he sits down	The affix <em>ti</em> indicates that a male is performing the action	verb6_3rd	viś
-388	343	gacchati	gacchati	गच्छति	\N	去	he goes / she goes / it goes \N	verb1_3rd	gam
+388	343	gacchati	gacchati	गच्छति	\N	去	he goes / she goes / it goes	\N	verb1_3rd	gam
 389	370	agacchati	āgacchati	आगच्छति	\N	來	to come / he comes	The affix <em>ti</em> indicates that a male is performing the action	verb1_3rd	\N
 390	1843	na	na	न	\N	無	no / not	Negation of the following verb	adverb	\N
-391	28501	sarvastivada	sarvāstivāda	सर्वास्तिवाद	\N	Sarvastivada	An early Buddhist school	proper_noun	\N
+391	28501	sarvastivada	sarvāstivāda	सर्वास्तिवाद	\N	說一切有部	Sarvastivada	An early Buddhist school	proper_noun	\N
 392	26859	udyana	udyāna	उद्यान	\N	烏杖那、烏仗那、烏仗那國、烏孫國、烏長國、烏場國	Udyana / Wusun / Oddiyana	Literally, garden or orchard; an ancient kingdom in present day Afganistan	proper_noun	\N
 393	17767	sthaviravāda	sthaviravāda	स्थविरवाद	\N	上座部	Sthaviravada	Literally meaning <em>Teaching Of The Elders</em>, an early Buddhist school	proper_noun	\N
 394	28502	mahasamghika	mahāsāṃghika	महासांघिक	\N	大眾部	Mahasamghika	An early Buddhist school	proper_noun	\N
@@ -408,7 +408,7 @@
 408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	\N	verb1_3rd	smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa / Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
-411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison	preposition.  The particle is enclitic.  That is the sound will be modified depending on the word that it follows.	conjunction	\N
+411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	\N
 412	2231	kim	kim	किम्	\N	如何	what	A pronoun used in questions	pronoun	\N
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	pronoun	\N
@@ -416,11 +416,11 @@
 416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	\N
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
 418	340	jayati	jayati	जयति	\N	勝利、勝、贏、獲勝	he conquers	\N	verb1_3rd	ji
-419	2940	pasyati	paśyati	पश्यति \N	見、看到、看	he sees / he looks	\N	verb1_3rd	dṛś
+419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees / he looks	\N	verb1_3rd	dṛś
 420	4969	gai	gai	गै	\N	唱歌、唱	to sing	\N	verb1	gai
 421	340	ji	ji	जि	\N	勝利、勝、贏、獲勝	to conquer / to win	\N	verb1	\N
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
-423	2940	drs	dṛś	दृश् \N	見、看到、看	to see / to look	\N	verb1	\N
+423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see / to look	\N	verb1	\N
 424	3837	ni	nī	नी	\N	導	to lead / to take	\N	verb1	\N
 425	3837	nayati	nayati	नयति	\N	導	to lead / to take	\N	verb1_3rd	nī
 426	4794	bhram	bhram	भ्रम्	\N	流浪	to wander / to be confused	\N	verb1	\N
@@ -457,9 +457,9 @@
 457	28602	brahmagupta	brahmagupta	ब्रह्मगुप्त	\N	婆羅摩笈多	Brahmagupta	598–668 CE, Indian mathematician and astronomer	proper_noun	\N
 458	28659	asamkhyeya	asaṃkhyeya	असंख्येय	\N	阿僧祇、阿僧企耶	asamkhyeya / ten to the power one hundred and forty	10<sup>140</sup>, listed in the Avatamsaka Sutra	noun	\N
 459	28666	advaita vedanta	advaita vedānta	अद्वैत वेदान्त	\N	不二論	Advaita Vedanta	An important sub-school of the Vedanta school of Hindu philosophy	proper_noun	\N
-460	28667	vedanta	vedānta	वेदान्त	\N	Vedanta	a Hindu philosophy tradition	proper_noun	\N
+460	28667	vedanta	vedānta	वेदान्त	\N	吠檀多	Vedanta	a Hindu philosophy tradition	proper_noun	\N
 461	18697	karandavyuha sutra	kāraṇḍavyūha sūtra	कारण्ढव्यूह सूत्र	\N	佛說大乘莊嚴寶王經	The Mahayana Sublime Treasure King Sutra / Karandavyuha Sutra	Notable for introducing the mantra Om mani padme hum	proper_noun	\N
-462	28670	agni purana	agni purāṇa	अग्नि पुराण	\N	火神往世書	A genre of Hindu texts with stories of incarnations of Vishnu	proper_noun	\N
+462	28670	agni purana	agni purāṇa	अग्नि पुराण	\N	火神往世書	Agni Purana	A genre of Hindu texts with stories of incarnations of Vishnu	proper_noun	\N
 463	28671	vyasa	vyāsa	व्यास	\N	廣博仙人	Vyasa / Veda Vyasa / Krishna Dvaipayana	An author and character in the Mahabharata	proper_noun	\N
 464	28672	pancatantra	pañcatantra	पञ्चतन्त्र	\N	五捲書	Panchatantra	A collection of ancient Indian animal fables	proper_noun	\N
 465	21176	mukti	mukti	मुक्ति	\N	解脫	to liberate / to release	\N	verb	\N
@@ -502,7 +502,7 @@
 502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	\N	noun	\N
 503	28788	vidyacaranasampanna	vidyācaraṇasampanna	विद्याचरणसम्पन्न	\N	明行圓滿	Activity of Full Brightness	One of the epithets of a Buddha	proper_noun	\N
 504	28789	sugata	sugata	सुगत	\N	善逝	Immaculately Departed One / Well-Gone	One of the epithets of a Buddha	proper_noun	\N
-505	28790	lokavid	lokavid	लोकविद्	\N	世間解	knowing the world	One of the epithets of a Buddha	proper_nounadjective	\N
+505	28790	lokavid	lokavid	लोकविद्	\N	世間解	knowing the world	One of the epithets of a Buddha	proper_noun	\N
 506	28792	purusadamyasarathi	puruṣadamyasārathi	पुरुषदम्यसारथि	\N	調禦士	driver or guide of men / One who Tames and Harmonizes	One of the epithets of a Buddha	proper_noun	\N
 507	4557	sastra	śāstra	शास्त्र	\N	論	a theory	\N	noun	\N
 508	28804	purusa	puruṣa	पुरुष	\N	丈夫	a man / a great man	\N	noun	\N
@@ -539,7 +539,7 @@
 539	28903	namarupa	nāmarūpa	नामरूप	nāmarūpa	名色	name and form	A dvandva compound	noun	\N
 540	27854	sadayatana	ṣaḍāyatana	षडायतन	saḷāyatana	六處、六入、六情、六根	the six sense organs / sadayatana	\N	noun	\N
 541	4495	sparsa	sparśa	स्पर्श	phassa	觸	touch / contact	One of the Twelve Nidanas	masculine	\N
-542	28913	trsna	trsnā	तृष्णा	taṇhā	taṇhā	愛	desire	One of the Twelve Nidanas	feminine	\N
+542	28913	trsna	trsnā	तृष्णा	taṇhā	愛	desire	One of the Twelve Nidanas	feminine	\N
 543	28914	bhava	bhāva	भाव	bhāva	有	becoming / state	One of the Twelve Nidanas	masculine	\N
 544	28915	jati	jāti	जाति 	jāti	生	birth	One of the Twelve Nidanas	feminine	\N
 545	28916	jaramarana	jarāmaraṇa	जरामरण	jarāmaraṇa	老死	old age and death	One of the Twelve Nidanas	noun	\N
@@ -560,7 +560,7 @@
 560	388	sisya	śiṣya	शिष्य	\N	學生	a student / a pupil	Reference form	masculine	\N
 561	388	sisyah	śiṣyaḥ	शिष्यः	\N	學生	a student / a pupil	Nominative case, used for the subject	masculine	\N
 562	388	sisyam	śiṣyaṃ	शिष्यं	\N	學生	a student / a pupil	Accusative case, used for the object	masculine	\N
-563	3409	citra	citra	चित्र	\N	a picture	Reference form	noun	\N
+563	3409	citra	citra	चित्र	\N	畫	a picture	Reference form	noun	\N
 564	947	nagara	nagara	नगर	\N	城、城市	a city / a town	Reference case	noun	\N
 565	947	nagaram	nagaraṃ	नगरं	\N	城、城市	a city / a town	Accusative case, used for the object	noun	\N
 566	3223	bala	bāla	बाल	\N	子	child / boy	\N	masculine	\N
@@ -589,7 +589,7 @@
 589	1422	dvaya	dvaya	द्वय	\N	對	a pair / a couple	\N	noun	\N
 590	285	priya	priya	प्रिय	\N	好、良	favourable / loved / favorite	\N	adjective	\N
 591	3778	sauharda	sauhārda	सौहार्द	\N	誼、友誼	friendship	\N	noun	\N
-592	28979	catasrah parsada	catasraḥ pārṣada	चतस्रः पार्षद	\N	四眾	the fourfold assembly / the four communities	Buddhist monks, nuns, male laypeople, and female laypeople	\N	phrase	\N
+592	28979	catasrah parsada	catasraḥ pārṣada	चतस्रः पार्षद	\N	四眾	the fourfold assembly / the four communities	Buddhist monks, nuns, male laypeople, and female laypeople	phrase	\N
 593	21069	upasika	upāsikā	उपासिका	\N	優婆夷	a female Buddhist layperson	\N	feminine	\N
 594	26469	mahasthamaprapta	mahāsthāmaprāpta	महास्थामप्राप्त	\N	大勢至、大勢至菩薩	Mahasthamaprapta Bodhisattva	Literally, the bodhisattva of the arrival of the great strength	proper_noun	\N
 595	28990	akasagarbha	ākāśagarbha	आकाशगर्भ	\N	虛空藏菩薩	Akasagarbha Bodhisattva	\N	proper_noun	\N
@@ -629,7 +629,7 @@
 629	412	udita	udita	उदित	\N	說、云、言、曰、告	spoken	Past particle of the stem vad	adjective	vad
 630	412	grhita	gṛhīta	गृहीत	\N	說、云、言、曰、告	seized	Past particle of the stem grah	adjective	grah
 631	412	grah	grah	ग्रह्	\N	說、云、言、曰、告	to seize	Stem form	verb	pat
-632	29092	dharmapada	dharmapada	धर्मपद		dhamapada	法句經	Dharmapada	\N	proper_noun	\N
+632	29092	dharmapada	dharmapada	धर्मपद	dhamapada	法句經	Dharmapada	\N	proper_noun	\N
 633	29093	magahi	magahī	मगही	\N	摩揭陀語	Magahi language / Magadhi / Magadhi Prakrit	Believed to be the language spoken by the Buddha. Magadhi is the modern descendant.	proper_noun	\N
 634	29094	kaithi	kaithī	कैथी	\N	凱提文	Kaithi script / Kayathi / Kayasthi	\N	proper_noun	\N
 635	29095	bimbisarah	bimbisāraḥ	बिम्बिसारः	\N	頻婆娑羅	Bimbisara	558–491 BCE, Ruler of the Magadha empire	proper_noun	\N
@@ -695,11 +695,11 @@
 695	5049	pancaskandha	pañcaskandha	पञ्चस्कन्ध	pañca khandhā	五蘊	the five aggregates / five skandhas / five dharmas	\N	phrase	\N
 696	29718	alayavijnana	ālayavijñāna	आलयविज्ञान	\N	阿賴耶識	Alaya Consciousness / Store-house Consciousness	One of the eight kinds of conciousness	proper_noun	\N
 697	5438	alaya	ālaya	आलय	\N	屋、房、家	home / house / abode /  dwelling / place	\N	masculine	\N
-698	19473	amoghavajra	amoghavajra	अमोघवज्र	\N	Amoghavajra	c. 705&mdash;774 CE, one of the four great translators	proper_noun	\N
+698	19473	amoghavajra	amoghavajra	अमोघवज्र	\N	不空	Amoghavajra	c. 705&mdash;774 CE, one of the four great translators	proper_noun	\N
 699	29734	kalika	kālika	कालिक	\N	迦理迦、騎象羅漢	Kalika / The Elephant Riding Arhat	One of the Eighteen Arhats	proper_noun	\N
 700	29743	kanakabharadraja	kanakabharadrāja	कनकभरद्राज	\N	迦諾迦跋釐堕闍、舉缽羅漢	Kanakabhaharadvaja / The Bowl Raising Arhat	One of the Eighteen Arhats	proper_noun	\N
 701	29747	nagasena	nāgasena	नागसेन	\N	那迦犀那、挖耳羅漢	Nagasena / The Ear Picking Arhat	One of the Eighteen Arhats	proper_noun	\N
-702	29748	vanavasa	vanavāsa	वनवास	\N	Vanavasin / Vanavasa / The Banana Tree Arhat	One of the Eighteen Arhats	proper_noun	\N
+702	29748	vanavasa	vanavāsa	वनवास	\N	芭蕉羅漢	Vanavasin / Vanavasa / The Banana Tree Arhat	One of the Eighteen Arhats	proper_noun	\N
 703	20350	avaivartika	avaivartika	अवैवर्तिक	\N	阿鞞跋致、阿鞞拔致、阿惟越致	never returning	\N	adjective	\N
 704	20350	avaivartika	avaivartika	अवैवर्तिक	\N	阿鞞跋致、阿鞞拔致、阿惟越致	Avaivartika / a non-returner	A bodhisattva who will not regress on the path to Buddhahood	proper_noun	\N
 705	29780	avīci	avici	अवीचि	\N	無間地獄、阿鼻地獄、阿鼻旨	Avici Hell	The lowest level of Hell, characterized by five kinds of uninterupted torment	proper_noun	\N
@@ -759,12 +759,12 @@
 759	29915	krtsna	kṛtsna	कृत्स्न	\N	遍	whole / entire / all / pervasive	\N	adjective	\N
 760	3220	prasava	prasava	प्रसव	\N	生	birth / delivery / generation	\N	masculine	\N
 761	1626	brhat	bṛhat	बृहत्	\N	廣	big / great / large / vast / abundant	\N	adjective	\N
-762	1291	sattva	sattva	सत्त्व	\N	存在	sattva	existence / reality	\N	noun	\N
+762	1291	sattva	sattva	सत्त्व	\N	存在	existence / reality	\N	noun	\N
 763	3286	tapa	tapa	तप	\N	熱	heat / warmth	\N	masculine	\N
 764	29949	sudarsana	sudarśana	सुदर्शन	\N	善見	skillful vision / keen sighted	\N	masculine	\N
 765	29955	akimcanya	ākiṃcanya	आकिंचन्य	\N	無所有	nothingness	\N	noun	\N
 766	29953	vijnananantyayatana	vijñānānantyāyatana	विज्ञानानन्त्यायतन	viññānañcāyatana	識無邊處、識無邊處天、無邊識處、識無邊處地、無量識處天、識入處	Vijnananantyayatana Heaven / The Heaven of Limitless Space	\N	proper_noun	\N
-767	21191	vipaka	vipāka	विपाक	vipāka	the result of karma / result / effect / consequence	\N	noun	\N
+767	21191	vipaka	vipāka	विपाक	vipāka	果報	the result of karma / result / effect / consequence	\N	noun	\N
 768	762	ksaudrakya	kṣaudrakya	क्षौद्रक्य	\N	小	small	\N	adjective	\N
 769	2407	yukta	yukta	युक्त	\N	連	joined / connected	\N	adjective	\N
 770	11794	agama	āgama	आगम	āgama	阿含經、阿鋡、阿含暮、阿笈摩、阿含	Agama / sacred work / scripture	The divisions of the Sutra Pitaka	masculine	\N
@@ -818,15 +818,15 @@
 818	541	vadhvah	vadhvāḥ	वध्वाः	\N	女人	a woman	Singular genetive form	feminine	vadhū
 819	541	vadhvah	vadhvām	वध्वाम्	\N	女人	a woman	Singular locative form	feminine	vadhū
 820	541	vadhu	vadhu	वधु	\N	女人	a woman	Singular vocative form	feminine	vadhū
-821	30031	vivartakalpa	vivartakalpa	विवर्तकल्प	\N	成劫	The kalpa of formation	The first of the four kalpas of the cycle of a world system	\N
-822	1932	vivarta	vivarta	विवर्त	\N	成	transformation / an  	altered form or condition	\N masculine	\N
-823	30032	vivartasthayikalpa	vivartasthāyikalpa	विवर्तस्थायिकल्प	\N	住劫	The kalpa of abiding	The second of the four kalpas of the cycle of a world system	\N
-824	30035	samvartakalpa	saṃvartakalpa	संवर्तकल्प	\N	壊劫	The kalpa of destruction	The third of the four kalpas of the cycle of a world system	\N
-825	30036	samvartasthayikalpa	saṃvartasthāyikalpa	संवर्तस्थायिकल्प	\N	空劫	The kalpa of void	The forth of the four kalpas of the cycle of a world system	\N
-826	30042	krtayuga	kṛtayuga	कृतयुग	\N	圓滿時	krtayuga	The first of the four ages of the world, approximately 1,728,000 years	proper_noun
-827	30043	tretayuga	tretāyuga	त्रेतायुग	\N	三分時	tretayuga	The second of the four ages of the world, approximately 1,296,000 years	proper_noun
-828	30044	dvayuga	dvāyuga	द्वायुग	\N	二分時	dvayuga	The third of the four ages of the world, approximately 864,000 years	proper_noun
-829	30045	kaliyuga	kaliyuga	कलियुग	\N	爭鬥時	Kaliyuga / Kali Age	The last of the four ages of the world, approximately 432,000 years	proper_noun
+821	30031	vivartakalpa	vivartakalpa	विवर्तकल्प	\N	成劫	The kalpa of formation	The first of the four kalpas of the cycle of a world system	proper_noun	\N
+822	1932	vivarta	vivarta	विवर्त	\N	成	transformation / an altered form or condition	\N	masculine	\N
+823	30032	vivartasthayikalpa	vivartasthāyikalpa	विवर्तस्थायिकल्प	\N	住劫	The kalpa of abiding	The second of the four kalpas of the cycle of a world system	proper_noun	\N
+824	30035	samvartakalpa	saṃvartakalpa	संवर्तकल्प	\N	壊劫	The kalpa of destruction	The third of the four kalpas of the cycle of a world system	proper_noun	\N
+825	30036	samvartasthayikalpa	saṃvartasthāyikalpa	संवर्तस्थायिकल्प	\N	空劫	The kalpa of void	The forth of the four kalpas of the cycle of a world system	proper_noun	\N
+826	30042	krtayuga	kṛtayuga	कृतयुग	\N	圓滿時	krtayuga	The first of the four ages of the world, approximately 1,728,000 years	proper_noun	\N
+827	30043	tretayuga	tretāyuga	त्रेतायुग	\N	三分時	tretayuga	The second of the four ages of the world, approximately 1,296,000 years	proper_noun	\N
+828	30044	dvayuga	dvāyuga	द्वायुग	\N	二分時	dvayuga	The third of the four ages of the world, approximately 864,000 years	proper_noun	\N
+829	30045	kaliyuga	kaliyuga	कलियुग	\N	爭鬥時	Kaliyuga / Kali Age	The last of the four ages of the world, approximately 432,000 years	proper_noun	\N
 830	30046	mahakalpa	mahākalpa	महाकल्प	\N	大劫	Maha-Kalpa	The largest unit of time in Buddhism.  It is divided into four Asankhyeya Kalpas: (1) the kalpa of formation 成劫 (2) the kalpa of abiding 住劫 (3) the kalpa of destruction 壊劫 (4) the kalpa of void 空劫	noun	\N
 831	20994	sala	sāla	साल	\N	娑羅	sala tree / sal tree / shala tree	The Buddha entered Nirvana under two Sala trees	noun	\N
 832	30070	hiranyavati	hiraṇyavatī	हिरण्यवती	\N	阿恃多伐底河、阿恃多跋底河、阿尔多嚩底河、跋提河	Hiranyavati River	Visited by the Buddha, near where he attained Nirvana	proper_noun	\N
@@ -846,7 +846,7 @@
 846	30767	prthagjana	pṛthagjana	पृथग्जन	\N	凡夫、凡	an ordinary person	A person that has not studied or practiced Buddhism	masculine	\N
 847	26952	grdhrakuta	gṛdhrakūṭa	गृध्रकूट	\N	靈鷲山	Vulture Peak / Grdhrakuta / Griddhkuta / Gridhra-kuta / Griddhraj Parvat	a mountain in India in the Rajgir area in the state of Bihar.  It was visited by the Buddha and mentioned in a number of sutras	proper_noun	\N
 848	25022	vajrasana	vajrāsana	वज्रासन	\N	金剛座、金剛齊	Vajrasana / Diamond throne / Bodhimanda	The place of enlightenment associated with a Buddha	proper_noun	\N
-849	21379	tapasa	tāpasa	तापस	\N	苦行者、苦行人	an ascetic	A person that practices asceticism	\N	masculine	\N
+849	21379	tapasa	tāpasa	तापस	\N	苦行者、苦行人	an ascetic	A person that practices asceticism	masculine	\N
 850	7150	rsi	ṛṣi	ऋषि	\N	仙人	a rishi / a sage / a seer	A Yogi who attains Asamprajyat Samadhi	masculine	\N
 851	31565	aranyaka	āraṇyaka	आरण्यक	\N	森林書	Aranyakas / Forest Books	Part of the Vedas	proper_noun	\N
 852	2889	sakyamuni	śākyamuni	शाक्यमुनि	\N	釋迦牟尼	Shakyamuni Buddha	Literally, Sage of the Sakyas.	proper_noun	\N
@@ -864,17 +864,17 @@
 864	27280	urna	ūrṇā	 ऊर्णा	uṇṇā	白毫、白毫相、毫眉、毫相、白毛相	urna	white hair between the eyes that can emit light	feminine	\N
 865	22089	sahalokadhatu	sahalokadhātu	सहलोकधातु	\N	娑婆世界	Saha World / Sahā World / the World of Suffering	The Earth or the world inhabited by men	proper_noun	\N
 866	21193	karmaphala	karmaphala	कर्मफल	\N	業報	karmic retribution / cause and effect / fruit of actions	\N	noun	\N
-867	31998	parivyaya	parivyaya	परिव्यय	\N	辛	a pungent spice	\N	\N
+867	31998	parivyaya	parivyaya	परिव्यय	\N	辛	a pungent spice	\N	noun	\N
 868	2681	natha	nātha	नाथ	\N	主	lord / master	\N	masculine	\N
 869	11832	nayaka	nāyaka	नायक	\N	導師	guide / teacher	\N	masculine	\N
 870	32058	maharsi	maharṣi	महर्षि	\N	大仙	a great sage / a saint	\N	masculine	\N
 871	32059	mahavira	mahāvīra	महावीर	\N	大雄、大雄者	a great hero	\N	masculine	\N
-872	32061	tayin	tāyin	तायिन्	\N	救度者	救度者	a protector	\N	masculine	\N
+872	32061	tayin	tāyin	तायिन्	\N	救度者	a protector	\N	masculine	\N
 873	25155	dharmaraja	dharmarāja	धर्मराज	\N	法王	the Buddha	literally, the Dhárma King	proper_noun	\N
-874	32095	samprajnana	samprajñāna	संप्रज्ञान	sampajañña	正知力	clear comprehension /  	full consciousness	\N	neuter	\N
+874	32095	samprajnana	samprajñāna	संप्रज्ञान	sampajañña	正知力	clear comprehension / full consciousness	\N	neuter	\N
 875	32096	manasikara	manasikāra	मनसिकार	manasikara	如理作意	attention / engagement	A Buddhist term	masculine	\N
-876	32098	smrtyupasthana	smṛtyupasthāna	स्मृत्युपस्थान		satipaṭṭhāna	念住	a foundation of mindfulness	\N	phrase	\N
-877	32102	bodhicaryavatara	bodhicaryāvatāra	बोधिचर्यावतार	\N	入菩薩行論	A Guide to the Bodhisattva's Way of Life	A treatise written by Shantideva (寂天)	\N
+876	32098	smrtyupasthana	smṛtyupasthāna	स्मृत्युपस्थान	satipaṭṭhāna	念住	a foundation of mindfulness	\N	phrase	\N
+877	32102	bodhicaryavatara	bodhicaryāvatāra	बोधिचर्यावतार	\N	入菩薩行論	A Guide to the Bodhisattva's Way of Life	A treatise written by Shantideva (寂天)	proper_noun	\N
 878	32103	caitasika	caitasika	चैतसिक	\N	心所、心所法	a mental factor	\N	noun	\N
 879	17993	citta	citta	चित्त	citta	心	mind	Usually refers to the emotive side of mind compared to manas, which usually refers to the intellect	neuter	\N
 880	28010	skandha	skandha	स्कन्ध	khandha	蘊	aggregate	A Buddhist term that means the aspects that make up a human being	noun	\N
@@ -908,16 +908,16 @@
 908	21706	atapah	ātapaḥ	आतपः	atappa	勇猛	ardency	A mental factor in Buddhism	masculine	\N
 909	32135	samatha	śamatha	शमथ	samatha	止	calm abiding / cessation	A mental factor in Buddhism	feminine	\N
 910	27318	bhavana	bhāvanā	भावना	bhāvanā	修習、修、修行	cultivation / spiritual cultivation	\N	feminine	\N
-911	32139	cetana	cetanā	चेतना	cetanā	volition	A mental factor in Buddhism	masculine	\N
+911	32139	cetana	cetanā	चेतना	cetanā	思	volition	A mental factor in Buddhism	masculine	\N
 912	30023	upeksa	upeksā	उपेक्सा	upekkha	捨	equanimity	A mental factor in Buddhism	neuter	\N
 913	3923	moha	 moha	मोह	moha	癡	ignorance / confusion / stupidity / naivety / delusion	A mental factor in Buddhism	masculine	\N
 914	21791	pramada	pramāda	प्रमाद	\N	放逸	heedlessness / carelessness / pleasure-seeking / unruliness	A mental factor in Buddhism	masculine	\N
 915	21660	kausidya	kausīdya	कौसीद्य	\N	懈怠	slackness / laziness	One of the six root unwholesome mental factors in Buddhism	neuter	\N
 916	21790	asraddhya	āśraddhya	आश्रद्ध्य	\N	不信	disbelief / lack of faith	One of the six root unwholesome mental factors in Buddhism	neuter	\N
-917	32144	styana	styāna	स्त्यान	\N	lethargy / gloominess	One of the six root unwholesome mental factors in Buddhism	neuter	\N
-918	32145	auddhatya	auddhatya	अउद्धत्य	uddhacca	excitement / restlessness / ebulience	One of the six root unwholesome mental factors in Buddhism	neuter	\N
-919	32146	ahrikya	āhrīkya	आह्रीक्य	ahirika	shamelessness	A mental factor in Buddhism	neuter	\N
-920	32147	anapatrapya	anapatrāpya	अनपत्राप्य	anottappa	disregard / lack of propriety	A mental factor in Buddhism	neuter	\N
+917	32144	styana	styāna	स्त्यान	\N	惛沈	lethargy / gloominess	One of the six root unwholesome mental factors in Buddhism	neuter	\N
+918	32145	auddhatya	auddhatya	अउद्धत्य	uddhacca	掉舉	excitement / restlessness / ebulience	One of the six root unwholesome mental factors in Buddhism	neuter	\N
+919	32146	ahrikya	āhrīkya	आह्रीक्य	ahirika	shamelessness	無慚	A mental factor in Buddhism	neuter	\N
+920	32147	anapatrapya	anapatrāpya	अनपत्राप्य	anottappa	無愧	disregard / lack of propriety	A mental factor in Buddhism	neuter	\N
 921	32151	dharmata	dharmatā	धर्मता	\N	法性、真如法性、真法性、真性	inherent nature / essence / true nature	\N	feminine	\N
 922	32155	asrava	āsrāva	आस्राव	āsava	漏	flow / influx / discharge	Defiles, bringing renewal of existence	masculine	\N
 923	32156	sasrava	sāsrava	सास्रव	\N	有漏	having flow	Defiles, bringing renewal of existence	adjective	\N
@@ -939,8 +939,8 @@
 939	469	lohita	lohita	लोहित	lohita	紅	red	\N	masculine	\N
 940	491	avadata	avadāta	अवदात	odāta	白	white / pure / clean	\N	adjective	\N
 941	3876	akasa	ākāśa	आकाश	ākāsa	空	the sky / space	\N	neuter	\N
-942	1229	aloka	āloka	आलोक	āloka	光	light	masculine	\N
-943	32298	samahita	samāhita	समाहित	samāhita	入定	\N	adjective	\N
+942	1229	aloka	āloka	आलोक	āloka	光	light	\N	masculine	\N
+943	32298	samahita	samāhita	समाहित	samāhita	入定	entered into meditation / settled / composed / collected of mind	\N	adjective	\N
 944	32299	karmaniya	karmaṇīya	कर्मणीय	kammanīya	適業	fit for work	\N	adjective	\N
 945	27397	parisuddha	pariśuddha	परिशुद्ध	parisuddha	清淨	clean / pure	\N	adjective	\N
 946	27397	visuddha	viśuddha	विशुद्ध	visuddha	清淨	clean / pure	\N	adjective	\N
@@ -951,8 +951,8 @@
 951	32313	laukika	laukika	लौकिक	lokiya	凡俗	ordinary / commonplace / mundane / worldly	\N	adjective	\N
 952	28937	sugati	sugati	सुगति	sugati	善趣、善道	a benevolent rebirth / a benevolent destiny / heaven / a fortunate realm	\N	feminine	\N
 953	32315	bhavangavijnana	bhavaṅgavijñana	भवङ्गविज्ञन	bhavaṅga	有分識	subconscious / most fundamental level of the mind	\N	neuter	\N
-954	5624	javana	javana	जवन	javana	衝動、敏捷、機敏	impulse / impetuous / agility / speed	迅速	\N	neuter	\N
-955	32317	javana	javana	जवन	javana	衝動、敏捷、機敏	the active part of the thought process	勢速	\N	neuter	\N
+954	5624	javana	javana	जवन	javana	衝動、敏捷、機敏	impulse / impetuous / agility / speed	\N	neuter	\N
+955	32317	javana	javana	जवन	javana	勢速	the active part of the thought process	\N	neuter	\N
 956	384	upasama	upaśama	उपशम	upasama	寂靜、休息	calm / quiet / appeasement	\N	masculine	\N
 957	32318	nivarana	nivāraṇa	निवारण	nīvaraṇāni	蓋	a hindrance / an obstacle	\N	neuter	\N
 958	32319	upaklesa	upakleśa	उपक्लेश	upakkilesa	污染	a defilement / an impurity	\N	masculine	\N
@@ -990,7 +990,7 @@
 990	2978	mahanada	mahānada	महानद	\N	河	a great river / a stream	\N	masculine	\N
 991	401	tavat	tāvat	तावत्	\N	多	so many	\N	adjective	\N
 992	2978	nada	nada	नद	\N	河	a river / a stream	\N	masculine	\N
-993	3597	caksu	cakṣu	चक्षु	\N	眼	an 	eye	\N	masculine	\N
+993	3597	caksu	cakṣu	चक्षु	\N	眼	an eye	\N	masculine	\N
 994	3374	caitya	caitya	चैत्य	\N	塔	a stupa / a shrine	\N	masculine	\N
 995	363	lokadhatu	lokadhātu	लोकधातु	\N	世界	a world / a region of the world	\N	masculine	\N
 996	29304	parinispattyi	pariniṣpattyi	परिनिष्पत्ति	\N	具足	perfection / perfect development	\N	feminine	\N
@@ -1010,7 +1010,7 @@
 1010	32465	paramanu	paramāṇu	परमाणु	\N	微塵	an atom	\N	masculine	\N
 1011	401	bahu	bahu	बहु	\N	多	many	\N	adjective	\N
 1012	412	bhasita	bhāṣita	भाषित	\N	說	said	\N	adjective	\N
-1013	32344	atma	ātma	आत्म	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
+1013	32344	atma	ātma	आत्म	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 1014	412	vadamana	vadamāna	वदमान	\N	說	saying / speaking	\N	adjective	\N
 1015	3896	jnata	jñāta	ज्ञात	\N	知	known	\N	adjective	\N
 1016	21940	adhimukta	adhimukta	अधिमुक्त	\N	知	known	\N	adjective	\N
@@ -1064,8 +1064,8 @@
 1064	32823	susukla	suśukla	सुशुक्ल	\N	牙白	very white	\N	adjective	\N
 1065	5066	jihva	jihvā	जिह्वा	\N	舌	tongue	\N	feminine	\N
 1066	4079	pundarika	puṇḍarīka	पुण्डरीक	\N	蓮花	a lotus flower	\N	neuter	\N
-1067	2421	yamaka	yamaka	यमक	\N	twin / doubled / twofold	\N	adjective	\N
-1068	32824	ekayāna	ekayāna	एकयान	\N	一乘	One Vehicle	proper_noun	\N
+1067	2421	yamaka	yamaka	यमक	\N	雙	twin / doubled / twofold	\N	adjective	\N
+1068	32824	ekayāna	ekayāna	एकयान	\N	一乘	One Vehicle	\N	proper_noun	\N
 1069	3164	niratmaka	nirātmaka	निरात्मक	\N	無我	non-self	\N	adjective	\N
 1070	3947	patra	pātra	पात्र	\N	缽	bowl / dish / vessel / pot	\N	neuter	\N
 1071	3953	civara	cīvara	चीवर	\N	衣	robe / dress or rags of a religious monk	\N	neuter	\N
@@ -1081,7 +1081,7 @@
 1081	32830	pudgalasamjna	pudgalasaṃjñā	पुद्गलसंज्ञा	\N	人相	the notion of a person	One of the four notions (四相). The notion of a person is mistaken because there is no difference between self and others.	phrase	\N
 1082	32831	sattvasamjna	sattvasaṃjñā	सत्त्वसंज्ञा	\N	眾生相	the notion of a being	One of the four notions (四相). The notion of a being is mistaken because beings are made up of the five aggregates (五蕴).	phrase	\N
 1083	32832	jivasamjna	jīvasaṃjñā	जीवसंज्ञा	\N	壽者相	the notion of a lifespan	One of the four notions (四相). The mistaken notion that one will live forever.	phrase	\N
-1084	32833	dharmasamjna	dharmasaṃjñā	धर्मसंज्ञा	\N	法相	the essential nature of different phenomena	phrase	\N
+1084	32833	dharmasamjna	dharmasaṃjñā	धर्मसंज्ञा	\N	法相	the essential nature of different phenomena	\N	phrase	\N
 1085	6722	arya	ārya	आर्य	\N	賢	noble	\N	adjective	\N
 1086	32839	aryapudgala	āryapudgala	आर्यपुद्गल	\N	賢	noble	A compound of the two words ārya and pudgala	adjective	\N
 1087	5284	bahutara	bahutara	बहुतर	\N	勝	surpassing / greater / exceeding	\N	adjective	\N
@@ -1089,7 +1089,7 @@
 1089	533	srotas	srotas	स्रोतस्	\N	流	a stream	\N	neuter	\N
 1090	11052	sam	saṃ	सं	\N	同	together	\N	indecl	\N
 1091	32851	vedanga	vedāṅga	वेदाङ्ग	\N	吠陀支	Vedanga	Six disciplines associated with the study of the Vedas	proper_noun	\N
-1092	32854	kalpa	kalpa	कल्प	\N	劫波、宗教儀軌	One of the six disciplines associated with the study of the Vedas	masculine	\N
+1092	32854	kalpa	kalpa	कल्प	\N	劫波、宗教儀軌	a ritual	One of the six disciplines associated with the study of the Vedas	masculine	\N
 1093	32853	vyakarana	vyākaraṇa	व्याकरण	\N	毗迦羅那、語法學	grammar	One of the six disciplines associated with the study of the Vedas	neuter	\N
 1094	32856	nirukta	nirukta	निरुक्त	\N	尼禄多	etymology	One of the six disciplines associated with the study of the Vedas	neuter	\N
 1095	32859	chandas	chandas	छन्दस्	\N	闡陀、韻律學	 meter	One of the six disciplines associated with the study of the Vedas	neuter	\N
@@ -1109,10 +1109,10 @@
 1109	3576	anga	aṅga	अङ्ग	\N	支	a stem / a limb	\N	neuter	\N
 1110	4779	tin	tiṅ	तिङ्	\N	詞尾	suffix	\N	neuter	\N
 1111	1149	uttama	uttama	उत्तम	\N	後	last	\N	adjective	\N
-1112	343	gacchasi	gacchasi	गच्छसि	去	you go	Second person	verb	gaccha
+1112	343	gacchasi	gacchasi	गच्छसि	\N	去	you go	Second person	verb	gaccha
 1113	3723	prcchami	prcchāmi	प्र्च्छामि	\N	問	I ask	First person form of the verb	verb	prach
 1114	375	bhavati	bhavati	भवति	\N	作	they become / they are	Third person form of the verb	verb1	bhava
-1115	27699	aranya	araṇya	अरण्य		\N	阿蘭若、蘭若、阿蘭那、阿練茹、阿練若、阿蘭攘、阿蘭拏、練若	a forest / a secluded place to practice	A secluded or wilderness location for a person to practice Buddhism and live.	neuter	\N
+1115	27699	aranya	araṇya	अरण्य	\N	阿蘭若、蘭若、阿蘭那、阿練茹、阿練若、阿蘭攘、阿蘭拏、練若	a forest / a secluded place to practice	A secluded or wilderness location for a person to practice Buddhism and live.	neuter	\N
 1116	32876	aranyaka	āranyaka	आरन्यक	\N	arañña	阿蘭若迦	a person who dwells in the wilderness to practice Buddhism and live.	masculine	\N
 1117	2401	dipa	dīpa	दीप	dīpa	燈	light / lantern / lamp	\N	masculine	\N
 1118	19614	ostha	oṣṭha	ओष्ठ	\N	唇	lip	\N	masculine	\N
@@ -1136,7 +1136,7 @@
 1136	343	gacchathah	gacchathaḥ	गच्छथः	\N	去	you two go	Dual form, second person form of the verb with stem gaccha	verb	gaccha
 1137	343	gacchavah	gacchāvaḥ	गच्छावः	\N	去	we two go	Dual form, first person form of the verb with stem gaccha	verb	gaccha
 1138	10355	kutra	kutra	कुत्र	\N	哪裡	where	Interrogative pronoun	indecl	kutra
-1139	32889	samdhi	saṃdhi	संधि	連音	sandhi	The alteration of sounds due to sounds of neighboring words or fusion of sounds.	masculine	\N
+1139	32889	samdhi	saṃdhi	संधि	\N	連音	sandhi	The alteration of sounds due to sounds of neighboring words or fusion of sounds.	masculine	\N
 1140	375	bhava	bhava	भव	\N	作	becoming	\N	masculine	bhava
 1141	375	bhavasi	bhavasi	भवसि	\N	作	you become / you are	Second person singular form of the verb	verb	bhava
 1142	375	bhavami	bhavāmi	भवामि	\N	作	I become / I am	First person singular form of the verb	verb	bhava
