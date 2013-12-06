@@ -4,41 +4,47 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
-    <title>Buddhist Dictionary</title>
+    <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
+    <link rel="shortcut icon" href="http://nantien.edu.au/sites/default/files/Nan%20Tien%20Institute%20Logo.jpg" 
+          type="image/jpeg" />
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
-    <h1>Chinese-Sanskrit-English Buddhist Dictionary</h1>
-    <p>
-      <a href="index.html">Home</a> | 
-      Corpus | 
-      <a href="dict_resources.html">Resources</a> | 
-      <a href="about.html">About</a>
+    <img id="logo" src="images/NTI-logo_2.png" alt="Home" />
+    <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
+    <p class="menu">
+      <a class="menu" class="menu" href="index.html">Home</a> | 
+      <span class="selected">Corpus</span> | 
+      <a class="menu" href="dict_resources.html">Resources</a> | 
+      <a class="menu" href="about.html">About</a>
     </p>
-    <p>
-      REDESIGN - preview
-    </p>
-    <h2>Buddhist Text Corpus</h2>
-    <table>
-      <tbody>
-        <tr><th>ID</th><th>Source Name</th><th>Language</th><th>Type</th><th>Source</th></tr>
-        {% for entry in corpus %}
-          <tr>
-            <td>{{ entry.id }}</td>
-            {% if  entry.type == 'site' %}
-            <td><a href="{{ entry.uri}}">{{ entry.source_name }}</a></td>
-            {% else %}
-            <td>{{ entry.source_name }}</td>
-            {% endif %}
-            <td>{{ entry.language }}</td>
-            <td>{{ entry.doc_type }}</td>
-            <td>{{ entry.source }}</td>
-          </tr>
-        {% endfor %}
-      </tbody>
-    </table>
-    <hr/>
-    <p>
-      Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
-    </p>
+    <div class="content">
+      <p>
+        REDESIGN - preview
+      </p>
+      <h2>Buddhist Text Corpus</h2>
+      <table>
+        <tbody>
+          <tr><th>ID</th><th>Source Name</th><th>Language</th><th>Type</th><th>Source</th></tr>
+          {% for entry in corpus %}
+            <tr>
+              <td>{{ entry.id }}</td>
+              {% if  entry.type == 'site' %}
+              <td><a href="{{ entry.uri}}">{{ entry.source_name }}</a></td>
+              {% else %}
+              <td>{{ entry.source_name }}</td>
+              {% endif %}
+              <td>{{ entry.language }}</td>
+              <td>{{ entry.doc_type }}</td>
+              <td>{{ entry.source }}</td>
+            </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
+      </p>
+    </div>
   </body>
 </<html>
