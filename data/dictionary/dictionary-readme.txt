@@ -17,15 +17,17 @@ database. They work directly from the text files.
 
    > create database cse_dict;
 
+   The database must be set to a UTF8 character set.
+
 4) Define the database tables. Log into the mysql command line client and run
    DDL commands in dictionary.ddl.
 
    > source dictionary.ddl
 
-   The first time that you execute this you will get some Unknown table errors.
-   Don't worry about this. It is from the drop table statements. 
    If you want to reload the data then the drop table statements will help you
-   delete the old data.
+   delete the old data. To drop the tables use the command
+
+   > source drop.sql
 
 5) Load the data into the tables. Execute this command.
 
