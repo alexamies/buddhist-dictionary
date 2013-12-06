@@ -21,5 +21,7 @@ There are three parts to the project:
    collections. The corpus documents are the source of the vocabulary.
 3. Command line tools. For building vocabulary. These are in Python.
 
+The license for the web site and dictionary content is Creative Commons Attribution-Share Alike 3.0. The license for source code and markup templates, is Apache 2.0.
+
 ----------
 Copyright Nan Tien Institute 2013, http://www.nantien.edu.au.
