@@ -1,2 +1,13 @@
-1	Diamond Sutra Chapter 1	file	Sanskrit	IAST	diamond-sutra-sanskrit1.txt	UWest Sanskrit Buddhist Canon	\N	---END---	First chapter in the Diamond Sutra, demonstrates use of the corpus.
-2	Diamond Sutra	file	Sanskrit	IAST	diamond-sutra-sanskrit.txt	UWest Sanskrit Buddhist Canon	\N	---END---	Full version of the Diamond Sutra from UWest Sanksrit Buddhist Canon
+1	Diamond Sutra Chapter 1	file	Sanskrit	IAST	Raw text	diamond-sutra-sanskrit1.txt	UWest Sanskrit Buddhist Canon.	\N	---END---	First chapter in the Diamond Sutra, small file to demonstrate use of the corpus, used with permission.
+2	Diamond Sutra	file	Sanskrit	IAST	Raw text	diamond-sutra-sanskrit.txt	UWest Sanskrit Buddhist Canon	\N	---END---	Full version of the Diamond Sutra from UWest Sanksrit Buddhist Canon, used with permission
+3	Diamond Sutra Commentary	site	English	HTML	Commentary	/diamond_sutra_toc.html	This web site	\N	\N	Sutra in Chinese, Sanskrit, and English with commentary in English. Compiled as part of this project.
+4	Diamond Sutra	web	Chinese	Traditional	Raw text	http://www.cbeta.org/result/normal/T08/0235_001.htm	Taisho Tripitaka	\N	\N	Original text, as translated by Kumārajīva. Taishō Tripiṭaka volume 8, Number 235, c. 400a. CBETA.
+5	Diamond Sutra	web	English	HTML	English translation	http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html	Lapis Lazuli Texts	\N	\N	English translation by Lapis Lazuli Texts. Dedicated to the public domain.
+6	Sutra of the Great Vow of Ksitigarbha Bodhisattva	site	Chinese-English	HTML	English translation	/buddhism_dizang.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka
+7	Sutra of the Medicine Buddha	site	Chinese-English	HTML	English translation	/buddhism_medicine_buddha.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka
+8	Prajnaparamita Heart Sutra	site	Chinese-English	HTML	English translation	/heart_sutra.html	Venerable Yifa	\N	\N	English translation with source text
+9	The Amitabha Sutra	site	Chinese-English	HTML	English translation	/buddhism_amituo_jing.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka
+10	Sutra on the Eight Realizations of the Great Beings	site	Chinese-English	UTF8	English translation	/eight_realizations.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka
+11	Great Compassion Dharani	site	Chinese	Simplified	Chinese with Pinyin	/great_compassion_mantra.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka
+12	Universal Gate Sutra	site	Chinese-English	HTML	English translation	/buddhism_pumenpin.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka
+13	The Sutra of Forty-Two Sections	site	Chinese-English	HTML	English translation	/buddhism_42chapters.html	This web site	\N	\N	English translation with source text from Taisho Tripitaka

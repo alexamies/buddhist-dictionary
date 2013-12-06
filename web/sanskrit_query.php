@@ -104,7 +104,9 @@
 ?>
       <p>
         Enter IAST, plain Latin, Devanagari, Traditional Chinese, or English and click Search.
-        Examples: tathāgata, Tathagata, तथागत, 如來, or Buddha.
+        Examples: tathāgata, Tathagata, तथागत, 如來, or Buddha. See 
+        <a href="/sanskrit_in_buddhism.html">Understanding Buddhist Sanskrit Terms</a> for 
+        and introduction to Sanskrit Buddhist terms and use electronic documents.
       </p>
       <hr/>
       <p>
