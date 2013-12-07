@@ -9,10 +9,10 @@
  * words: A Chinese to English word dictionary (not here yet)
  *
  * characters: A character dictionary. Includes tables characters. Includes
- *     tables characters, character_types, character_rend.txt, and radicals. 
- *     This table only
+ *     tables characters, character_rend, character_types, 
+ *     font_names, radicals, and variants. This table only
  *     has a small number of characters (3425) at the moment. It is not 
- *     large enough for a dictionary of Chinese characters but it is used by
+ *     large enough for a dictionary of Chinese characters. However, t is used by
  *     some web pages explaining Chinese radicals, fonts, Sanskrit, and IPA.
  *
  * sanskrit: A Sanskrit to Chinese dictionary with English meanings added.
@@ -28,7 +28,6 @@
  */
 
 use cse_dict;
-
 
 /*
  * Table for Kangxi radicals
@@ -120,6 +119,40 @@ CREATE TABLE variants (
 	FOREIGN KEY (c2) REFERENCES characters(c),
 	INDEX (c1),
 	INDEX (c2)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
+ * Table for font names
+ * font_name_en	The name of the font that the character is rendered in (English)
+ * font_name_zh	The name of the font that the character is rendered in (Chinese)
+ */
+CREATE TABLE font_names (
+	font_name_en VARCHAR(80) NOT NULL,
+	font_name_zh VARCHAR(80) NOT NULL,
+	PRIMARY KEY (font_name_en)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
+ * Table for character renderings in different fonts
+ * unicode		The Unicode unique identifier for the character (decimal)
+ * font_name_en	The name of the font that the character is rendered in (English)
+ * image		The name of the image file
+ * svg			The name of the svg file
+ */
+CREATE TABLE character_rend (
+	unicode INT UNSIGNED NOT NULL,
+	font_name_en VARCHAR(80) NOT NULL,
+	image VARCHAR(80) NOT NULL,
+	svg VARCHAR(80) NOT NULL,
+	PRIMARY KEY (unicode, font_name_en),
+	FOREIGN KEY (unicode) REFERENCES characters(unicode),
+	FOREIGN KEY (font_name_en) REFERENCES font_names(font_name_en)
 	)
 	CHARACTER SET UTF8
 	COLLATE utf8_general_ci
