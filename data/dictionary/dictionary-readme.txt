@@ -24,11 +24,6 @@ database. They work directly from the text files.
 
    > source dictionary.ddl
 
-   If you want to reload the data then the drop table statements will help you
-   delete the old data. To drop the tables use the command
-
-   > source drop.sql
-
 5) Load the data into the tables. Execute this command.
 
    > source load_data.sql
@@ -38,6 +33,11 @@ database. They work directly from the text files.
 
 TROUBLESHOOTING
 ===============================================================================
+If you want to reload the data then the drop table statements will help you
+delete the old data. To drop the tables use the command
+
+> source drop.sql
+
 1. Foreign key problems when loading data.
    MySQL is poor on informing you which rows have foreign key violations.
    However, it prevents you from doing the entire load operation.
@@ -57,6 +57,16 @@ TROUBLESHOOTING
    For the character table use a statement like
 
    > SELECT unicode FROM characters WHERE type NOT IN (SELECT type FROM character_types);
+
+   For the variants table use statements like
+
+   > SELECT c1 FROM variants WHERE c1 NOT IN (SELECT c FROM characters);
+   > SELECT c2 FROM variants WHERE c2 NOT IN (SELECT c FROM characters);
+
+   For the illustrations table use statements like
+
+   > SELECT medium_resolution, author FROM illustrations WHERE author NOT IN (SELECT name FROM authors);
+   > SELECT medium_resolution, license FROM illustrations WHERE license NOT IN (SELECT name FROM licenses);
 
    Fix the problems by editing the data text file then set the relational check on with
 
