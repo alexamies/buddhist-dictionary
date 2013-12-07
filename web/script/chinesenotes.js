@@ -14,38 +14,38 @@ function openVocab(page) {
  * @param unicode The Unicode character to display information about.
  */
 function openCharDetail(unicode) {
-	var w = window.open('/character_detail.php?unicode=' + unicode,'CharacterDetail', 'width=400,height=380,status=yes,resizable=yes');
+    var w = window.open('/character_detail.php?unicode=' + unicode,'CharacterDetail', 'width=400,height=380,status=yes,resizable=yes');
     if (w) {
-		w.focus();
-	}
+        w.focus();    
+    }
 }
 
 /**
  * Shows a tooltip for the Pinyin and English of the given word.
- * @param pinyin	The Pinyin of the word to display the information for
- * @param english	The English of the word to display the information for
+ * @param pinyin   The Pinyin of the word to display the information for
+ * @param english  The English of the word to display the information for
  */
 function showToolTip(element, pinyin, english) {
-	var pinyinSpan = document.getElementById('pinyinSpan');
-	var englishSpan = document.getElementById('englishSpan');
-	var toolTip = document.getElementById('toolTip');
-	if (pinyinSpan && englishSpan && toolTip) {
-		pinyinSpan.innerHTML = pinyin;
-		englishSpan.innerHTML = english;
-		toolTip.style.left = getX(element) + element.offsetWidth + "px";
-		toolTip.style.top = getY(element) + element.offsetHeight + "px";
-		toolTip.style.display = 'block';
-	}
+    var pinyinSpan = document.getElementById('pinyinSpan');
+    var englishSpan = document.getElementById('englishSpan');
+    var toolTip = document.getElementById('toolTip');
+    if (pinyinSpan && englishSpan && toolTip) {
+        pinyinSpan.innerHTML = pinyin;
+        englishSpan.innerHTML = english;
+        toolTip.style.left = getX(element) + element.offsetWidth + "px";
+        toolTip.style.top = getY(element) + element.offsetHeight + "px";
+        toolTip.style.display = 'block';
+    }
 }
 
 /**
  * Hides the tooltip.
  */
 function hideToolTip() {
-	var toolTip = document.getElementById('toolTip');
-	if (toolTip) {
-		toolTip.style.display = 'none';
-	}
+    var toolTip = document.getElementById('toolTip');
+    if (toolTip) {
+        toolTip.style.display = 'none';
+    }
 }
 
 /**
@@ -55,12 +55,12 @@ function hideToolTip() {
  *         the page
  */
 function getX(element) {
-	var x = 0;
-	while (element) {
-		x += element.offsetLeft;
-		element = element.offsetParent; 
-	}
-	return x;
+    var x = 0;
+    while (element) {
+        x += element.offsetLeft;
+        element = element.offsetParent; 
+    }
+    return x;
 }
 
 /**
@@ -70,12 +70,12 @@ function getX(element) {
  *         the page
  */
 function getY(element) {
-	var y = 0;
-	while (element) {
-		y += element.offsetTop;
-		element = element.offsetParent; 
-	}
-	return y;
+    var y = 0;
+    while (element) {
+        y += element.offsetTop;
+        element = element.offsetParent; 
+    }
+    return y;
 }
 
 

@@ -9,10 +9,11 @@
  * words: A Chinese to English word dictionary (not here yet)
  *
  * characters: A character dictionary. Includes tables characters. Includes
- *     tables characters, character_types, and radicals. This table only
+ *     tables characters, character_types, character_rend.txt, and radicals. 
+ *     This table only
  *     has a small number of characters (3425) at the moment. It is not 
  *     large enough for a dictionary of Chinese characters but it is used by
- *     some web pages explaining radicals, Sanskrit, and IPA.
+ *     some web pages explaining Chinese radicals, fonts, Sanskrit, and IPA.
  *
  * sanskrit: A Sanskrit to Chinese dictionary with English meanings added.
  *     Includes tables sans_grammar and sanskrit.
@@ -86,7 +87,7 @@ CREATE TABLE character_types (
  * notes:         Miscellaneous notes about the character, if any
  */
 CREATE TABLE characters (unicode INT UNSIGNED NOT NULL,
-                         c VARCHAR(10) binary NOT NULL,
+                         c VARCHAR(10) NOT NULL,
                          pinyin VARCHAR(80),
                          radical VARCHAR(10),
                          strokes INT UNSIGNED NOT NULL,
@@ -102,6 +103,26 @@ CREATE TABLE characters (unicode INT UNSIGNED NOT NULL,
                         )
     CHARACTER SET UTF8
     COLLATE utf8_general_ci
+;
+
+/*
+ * Table for relationship between character variants, traditional / simplified and other variant
+ * c1             The UTF-8 text for the subject character
+ * c2:            The UTF-8 text for the variant character
+ * relation_type: Traditional / simplified or other variant
+ */
+CREATE TABLE variants (
+	c1 VARCHAR(10) NOT NULL,
+	c2 VARCHAR(10) NOT NULL,
+	relation_type VARCHAR(255) NOT NULL,
+	PRIMARY KEY (c1,c2),
+	FOREIGN KEY (c1) REFERENCES characters(c),
+	FOREIGN KEY (c2) REFERENCES characters(c),
+	INDEX (c1),
+	INDEX (c2)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
 ;
 
 /*

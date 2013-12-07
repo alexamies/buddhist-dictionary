@@ -114,3 +114,27 @@ td {
     padding: 0.5em;
 }
 
+
+/* Character Detail */
+#largeChar {
+	font-size: 100pt;
+}
+
+#largeCharacter {
+	text-align: center;
+}
+
+#charDetailPinyin {
+	text-align: center;
+}
+
+/* Tool Tips */
+#toolTip {
+	position: absolute;
+	max-width: 200px;
+	display: none; 
+	border: solid gray 1px;
+	background-color: #FF8;
+	padding: 5px;
+}
+
