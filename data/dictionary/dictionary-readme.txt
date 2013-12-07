@@ -41,16 +41,24 @@ TROUBLESHOOTING
 1. Foreign key problems when loading data.
    MySQL is poor on informing you which rows have foreign key violations.
    However, it prevents you from doing the entire load operation.
+   If additional data is added to the tables and not formatted properly then
+   you might have this problem.
+
    If you have errors about foreign keys, then drop the tables and disable the 
    foreign key constraints with this command:
 
    > SET foreign_key_checks = 0;
 
-   Load the data. Look for the foreign key problem with a select statement like
+   Load the data. Look for the foreign key problem with a select statement.
+   For the Sanskrit table use a statement like
 
    > SELECT id FROM sanskrit WHERE grammar NOT IN (SELECT id FROM sans_grammar);
 
-   Fix the problems then set the relational check on with
+   For the character table use a statement like
+
+   > SELECT unicode FROM characters WHERE type NOT IN (SELECT type FROM character_types);
+
+   Fix the problems by editing the data text file then set the relational check on with
 
    > SET foreign_key_checks = 1;
 
