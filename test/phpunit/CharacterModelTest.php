@@ -1,39 +1,105 @@
 <?php
 /**
- * Unit test for CharacterModel class.
+ * Unit test for Character, CharacterModel, CharacterDAO, and VariantChar classes.
  */
-require dirname(__FILE__) . '/../../web/inc/character.php';
+require_once dirname(__FILE__) . '/../../web/inc/character_dao.php';
 
 class CharacterModelTest extends PHPUnit_Framework_TestCase {
 
-    public function testGetters() {
+    public function testCharacterModelGetters() {
         $unicode = 12008;
         $c = '⻨';
         $pinyin = 'mài';
         $radical = '⻨';
-        $strokes = 'http://chinesenotes.com';
-        $license = 'CCA';
-        $licenseUrl = 'http://creativecommons.org/licenses/by/2.5/';
-        $licenseFullName = 'Creative Commons with Attribution 2.5';
-        $highResolution = 'xuanzang1000.jpg';
-        $charModel = new CharacterModel($unicode, 
-                           $c, 
-                           $pinyin, 
-                           $radical,
-                           $strokes,
-                           $license,
-                           $licenseUrl,
-                           $licenseFullName,
-                           $highResolution);
+        $strokes = 7;
+        $otherStrokes = 0;
+        $english = 'Wheat';
+        $notes = 'CJK Radical C-Simplified Wheat';
+        $type = 'radical';
+        $diacritic = NULL;
+        $charModel = new CharacterModel($unicode, $c,  $pinyin, $radical, $strokes,
+                                        $otherStrokes, $english, $notes, $type, $diacritic);
         $this->assertEquals($unicode, $charModel->getUnicode());
         $this->assertEquals($c, $charModel->getC());
         $this->assertEquals($pinyin, $charModel->getPinyin());
         $this->assertEquals($radical, $charModel->getRadical());
         $this->assertEquals($strokes, $charModel->getStrokes());
-        $this->assertEquals($license, $charModel->getLicense());
-        $this->assertEquals($licenseUrl, $charModel->getLicenseUrl());
-        $this->assertEquals($licenseFullName, $charModel->getLicenseFullName());
-        $this->assertEquals($highResolution, $charModel->getHighResolution());
+        $this->assertEquals($otherStrokes, $charModel->getOtherStrokes());
+        $this->assertEquals($english, $charModel->getEnglish());
+        $this->assertEquals($notes, $charModel->getNotes());
+        $this->assertEquals($type, $charModel->getType());
+        $this->assertEquals($diacritic, $charModel->getDiacritic());
     }
+
+    public function testCharacterGetIntCode() {
+        $character = new Character('!');
+        $this->assertEquals(33, $character->getIntCode());
+
+        $character = new Character('⻨');
+        $this->assertEquals(12008, $character->getIntCode());
+    }
+
+    public function testCharacterIsCJKLetter() {
+        $character1 = new Character('⻨');
+        $this->assertEquals(TRUE, $character1->isCJKLetter());
+
+        $character2 = new Character('一');
+        $this->assertEquals(TRUE, $character2->isCJKLetter());
+
+        $character3 = new Character('A');
+        $this->assertEquals(FALSE, $character3->isCJKLetter());
+    }
+
+    public function testCharacterIsPunctuation() {
+        $character1 = new Character('⻨');
+        $this->assertEquals(FALSE, $character1->isPunctuation());
+
+        $character1 = new Character('。');
+        $this->assertEquals(TRUE, $character1->isPunctuation());
+    }
+
+    public function testGetCharacterByUnicode1() {
+	$characterDAO = new CharacterDAO();
+	$character = $characterDAO->getCharacterByValue("⺀");
+        $this->assertEquals(11904, $character->getUnicode());
+        $this->assertEquals("⺀", $character->getC());
+        $this->assertEquals('dié', $character->getPinyin());
+        $this->assertEquals(2, $character->getStrokes());
+        $this->assertEquals(0, $character->getOtherStrokes());
+        $this->assertEquals('Repeat', $character->getEnglish());
+        $this->assertTrue(strlen($character->getNotes()) > 0);
+        $this->assertEquals('radical', $character->getType());
+        $this->assertEquals(0, count($character->getVariants()));
+    }
+
+    public function testGetCharacterByUnicode2() {
+	$characterDAO = new CharacterDAO();
+	$character = $characterDAO->getCharacterByValue('导');
+        $this->assertEquals(23548, $character->getUnicode());
+        $this->assertEquals('导', $character->getC());
+        $this->assertEquals('dǎo dào', $character->getPinyin());
+        $this->assertEquals(6, $character->getStrokes());
+        $this->assertEquals(3, $character->getOtherStrokes());
+        $this->assertTrue(strlen($character->getEnglish()) > 0);
+        $this->assertEquals(NULL, $character->getNotes());
+        $this->assertEquals('simplified', $character->getType());
+        $variants = $character->getVariants();
+        $this->assertEquals(1, count($variants));
+        $variant = $variants[0];
+        $this->assertEquals('导', $variant->getC1());
+        $this->assertEquals('導', $variant->getC2());
+        $this->assertEquals('Traditional', $variant->getRelationType());
+    }
+
+    public function testVariantCharGetters() {
+        $c1 = '导';
+        $c2 = '導';
+        $relationType = 'Traditional';
+        $variant = new VariantChar($c1, $c2, $relationType);
+        $this->assertEquals($c1, $variant->getC1());
+        $this->assertEquals($c2, $variant->getC2());
+        $this->assertEquals($relationType, $variant->getRelationType());
+    }
+
 }
 ?>
