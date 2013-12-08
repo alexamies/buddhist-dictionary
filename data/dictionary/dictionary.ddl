@@ -30,6 +30,60 @@
 use cse_dict;
 
 /*
+ * Table for illustration licenses
+ *
+ * name:              The type of license
+ * license_full_name: The unabbreviated name of the license
+ * license_url:	      The URL of the license
+ */
+CREATE TABLE licenses (name VARCHAR(255) NOT NULL,
+                       license_full_name VARCHAR(255) NOT NULL,
+                       license_url VARCHAR(255),
+                       PRIMARY KEY (name)
+                      )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+;
+
+/*
+ * Table for illustration authors
+ *
+ * name:        The name of the creator of the image
+ * author_url:	The URL of the home page of the creator of the image
+ */
+CREATE TABLE authors (name VARCHAR(255),
+                      author_url VARCHAR(255),
+                      PRIMARY KEY (name)
+                     )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+;
+
+/*
+ * Table for illustrations
+ *
+ * medium_resolution: The file name of a medium resolution image
+ * title_zh_cn:       A title in simplified Chinese
+ * title_en:          A title in English
+ * author:            The creator of the illustration
+ * license:           The type of license
+ * high_resolution:   The file name of a high resolution image
+ */
+CREATE TABLE illustrations (medium_resolution VARCHAR(255),
+                            title_zh_cn VARCHAR(255) NOT NULL,
+                            title_en VARCHAR(255) NOT NULL,
+                            author VARCHAR(255),
+                            license VARCHAR(255) NOT NULL,
+                            high_resolution VARCHAR(255),
+                            PRIMARY KEY (medium_resolution),
+                            FOREIGN KEY (author) REFERENCES authors(name),
+                            FOREIGN KEY (license) REFERENCES licenses(name)
+                           )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+;
+
+/*
  * Table for Kangxi radicals
  *
  * id           A unique identifier for the radical
