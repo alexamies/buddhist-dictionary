@@ -68,7 +68,6 @@ class SanskritTest extends PHPUnit_Framework_TestCase {
     }
 
     public function testSuggest() {
-        echo 'testSuggest';
         $sanskritDAO = new SanskritDAO();
         $suggestions = $sanskritDAO->suggest('bhavasi');
         $this->assertEquals(1, count($suggestions));

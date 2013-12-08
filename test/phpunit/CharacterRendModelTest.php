@@ -2,33 +2,30 @@
 /**
  * Unit test for CharacterModel class.
  */
-require dirname(__FILE__) . '/../../web/inc/character.php';
+require_once dirname(__FILE__) . '/../../web/inc/character_rend_dao.php';
 
 class CharacterRendModelTest extends PHPUnit_Framework_TestCase {
 
     public function testGetters() {
-        $unicode = 12008;
-        $c = '⻨';
-        $pinyin = 'mài';
-        $radical = '⻨';
-        $strokes = 7;
-        $otherStrokes = 0;
-        $english = 'Wheat';
-        $notes = 'CJK Radical C-Simplified Wheat';
-        $type = 'radical';
-        $diacritic = NULL;
-        $charModel = new CharacterRendModel($unicode, $c,  $pinyin, $radical, $strokes,
-                                        $otherStrokes, $english, $notes, $type, $diacritic);
-        $this->assertEquals($unicode, $charModel->getUnicode());
-        $this->assertEquals($c, $charModel->getC());
-        $this->assertEquals($pinyin, $charModel->getPinyin());
-        $this->assertEquals($radical, $charModel->getRadical());
-        $this->assertEquals($strokes, $charModel->getStrokes());
-        $this->assertEquals($otherStrokes, $charModel->getOtherStrokes());
-        $this->assertEquals($english, $charModel->getEnglish());
-        $this->assertEquals($notes, $charModel->getNotes());
-        $this->assertEquals($type, $charModel->getType());
-        $this->assertEquals($diacritic, $charModel->getDiacritic());
+	$unicode = 11917;
+	$fontNameEn = "Yan";
+	$image = "yan/2e8d.png";
+	$svg = "yan/2e8d.svg";
+        $charRend = new CharacterRendModel($unicode, $fontNameEn,  $image, $svg);
+        $this->assertEquals($unicode, $charRend->getUnicode());
+        $this->assertEquals($fontNameEn, $charRend->getFontNameEn());
+        $this->assertEquals($image, $charRend->getImage());
+        $this->assertEquals($svg, $charRend->getSvg());
+    }
+
+    public function testGetCharacterRendByUnicode() {
+        $unicode = 11917;
+        $characterRendDAO = new CharacterRendDAO();
+	$characterRendModel = $characterRendDAO->getCharacterRendByUnicode($unicode);
+        $this->assertEquals($unicode, $characterRendModel->getUnicode());
+        $this->assertEquals('Yan', $characterRendModel->getFontNameEn());
+        $this->assertEquals('yan/2e8d.png', $characterRendModel->getImage());
+        $this->assertEquals('yan/2e8d.svg', $characterRendModel->getSvg());
     }
 }
 ?>

@@ -24,11 +24,11 @@
 55	7	\N	\N	\N	\N	Digit seven	\N	ascii
 56	8	\N	\N	\N	\N	Digit eight	\N	ascii
 57	9	\N	\N	\N	\N	Digit nine	\N	ascii
-58	:	\N	\N	\N	\N	Colon	ascii
-59	;	\N	\N	\N	\N	Semicolon	ascii
+58	:	\N	\N	\N	\N	Colon	\N	ascii
+59	;	\N	\N	\N	\N	Semicolon	\N	ascii
 60	<	\N	\N	\N	\N	Less-than sign	\N	ascii
 61	=	\N	\N	\N	\N	Equals sign	\N	ascii
-62	>	\N	\N	\N	\N	Greater-than \N	sign	\N	ascii
+62	>	\N	\N	\N	\N	Greater-than sign	\N	ascii
 63	?	\N	\N	\N	\N	Question mark	\N	ascii
 64	@	\N	\N	\N	\N	Commercial at	\N	ascii
 65	A	\N	\N	\N	\N	Latin letter capital A	\N	ascii
@@ -58,7 +58,7 @@
 89	Y	\N	\N	\N	\N	Latin letter capital Y	\N	ascii
 90	Z	\N	\N	\N	\N	Latin letter capital Z	\N	ascii
 91	[	\N	\N	\N	\N	Left square bracket	\N	ascii
-92	\	\N	\N	\N	\N	Reverse solidus / backslash	\N	ascii
+92	\\	\N	\N	\N	\N	Reverse solidus / backslash	\N	ascii
 93	]	\N	\N	\N	\N	Right square bracket	\N	ascii
 94	^	\N	\N	\N	\N	Circumflex accent	\N	ascii
 95	_	\N	\N	\N	\N	Low line / underline	\N	ascii
@@ -81,7 +81,7 @@
 112	p	\N	\N	\N	\N	Lower case Latin letter p / voiceless bilabial plosive	English: <u>p</u>ack, <u>p</u>at; IPA number 101; IPA and ASCII character are the same	ipa
 113	q	\N	\N	\N	\N	Lower case Latin letter q / voiceless uvular plosive	Not found in English; IPA number 111; IPA and ASCII character are the same	ipa
 114	r	\N	\N	\N	\N	Lower case Latin letter r / alveolar trill	Scottish English: cu<u>r</u>d; IPA number 122	ipa
-115	s	\N	\N	\N	\N	Lower case Latin letter s / voiceless alveolar sibilant	English: <u>s</u>and, <u>s</u>ue; IPA number 132	api
+115	s	\N	\N	\N	\N	Lower case Latin letter s / voiceless alveolar sibilant	English: <u>s</u>and, <u>s</u>ue; IPA number 132	ipa
 116	t	\N	\N	\N	\N	Latin letter t / voiceless alveolar plosive	English: <u>t</u>ick, <u>t</u>ip; IPA number 103	ipa
 117	u	\N	\N	\N	\N	Lower case Latin letter u / close back rounded vowel / high back rounded vowel	English: b<u>oo</u>t; Mandarin: u in 菇 gū​; IPA number 308	ipa
 118	v	\N	\N	\N	\N	Lower case Latin letter v / voiced labiodental fricative	English: <u>v</u>alve, <u>v</u>ine; IPA number 129	ipa
@@ -127,7 +127,7 @@
 611	ɣ	\N	\N	\N	\N	Voiced velar fricative	Not found in English; IPA number 141	ipa
 612	ɤ	\N	\N	\N	\N	close-mid back unrounded vowel / high-mid back unrounded vowel	Not found in English; Mandarin: e in 喝 hē; IPA number 315	ipa
 613	ɥ	\N	\N	\N	\N	Labial-palatal approximant	Not found in English; Mandarin: y in 月 yuè; IPA number 171	ipa
-614	ɦ	\N	\N	\N	\N	Voiced 	glottal fricative	English: be<u>h</u>ind; IPA number 147	ipa
+614	ɦ	\N	\N	\N	\N	Voiced glottal fricative	English: be<u>h</u>ind; IPA number 147	ipa
 615	ɧ	\N	\N	\N	\N	Voiceless multiple-place fricative	\N	ipa
 616	ɨ	\N	\N	\N	\N	Close central unrounded vowel / high central unrounded vowel	English: ros<u>e</u>s; IPA number 317	ipa
 618	ɪ	\N	\N	\N	\N	Lax close front unrounded vowel	English: b<u>i</u>t; IPA number 319	ipa
@@ -358,7 +358,7 @@
 8599	↗	\N	\N	\N	\N	Global rise	\N	ipa
 8600	↘	\N	\N	\N	\N	Global fall	\N	ipa
 11904	⺀	dié	⺀	2	0	Repeat	CJK Radical Repeat	radical
-11905	⺁	hǎn​	⺁	2	0	Cliff		CJK Radical Cliff	radical
+11905	⺁	hǎn​	⺁	2	0	Cliff	CJK Radical Cliff	radical
 11906	⺂	cì​	⺂	1	0	Second	CJK Radical Second One	radical
 11907	⺃	yǐn	⺃	1	0	Second	CJK Radical Second Two	radical
 11908	⺄	cì	⺄	1	0	Second	CJK Radical Second Three	radical
@@ -407,7 +407,7 @@
 11952	⺰	sī	⺰	3	0	Silk	CJK Radical C-Simplified Silk	radical
 11953	⺱	gāng	⺱	4	0	Net	CJK Radical Net One	radical
 11954	⺲	wǎng	⺲	5	0	Net	CJK Radical Net Two	radical
-11955	⺳	wǎng	⺳	⺲	4	0	Net	CJK Radical Net Three	radical
+11955	⺳	wǎng	⺳	4	0	Net	CJK Radical Net Three	radical
 11956	⺴	gāng	⺴	4	0	Net	CJK Radical Net Four	radical
 11957	⺵	wǎng	⺵	4	0	Mesh	CJK Radical Mesh	radical
 11958	⺶	yáng	⺶	6	0	Sheep	CJK Radical Sheep	radical
@@ -641,7 +641,7 @@
 20143	亯	xiǎng	亠	9	7	to receive / to enjoy	\N	archaic
 20144	亰	jīng	亠	9	7	capital city	\N	archaic
 20145	亱	yè	亠	9	7	night / dark / in night / by night	\N	archaic
-20146	亲	qīn xīn qìng	亠	9	7	relatives / parents / intimate / the hazel nut / filbert tree / a thorny tree	\N	simplfiied
+20146	亲	qīn xīn qìng	亠	9	7	relatives / parents / intimate / the hazel nut / filbert tree / a thorny tree	\N	simplified
 20147	亳	bó	亠	10	8	name of district in Anhui / capital of Yin	\N	both
 20149	亵	xiè	亠	12	10	slight / insult / treat with disrespect	\N	simplified
 20150	亶	dǎn dàn	亠	13	11	sincere / real / true / truth	\N	both
@@ -654,7 +654,7 @@
 20158	亾	wáng wú	人	3	1	death / destroyed / lose / perish	\N	archaic
 20159	亿	yì	人	3	1	hundred million / many	\N	simplified
 20160	什	shí shén	人	4	2	file of ten soldiers / mixed / miscellaneous	\N	both
-20161	仁	rén	人	4	2	humaneness / benevolence / kindness	\N
+20161	仁	rén	人	4	2	humaneness / benevolence / kindness	\N	both
 20162	仂	lè	人	4	2	surplus or excess / remainder	\N	both
 20163	仃	dīng	人	4	2	lonely / solitary	\N	both
 20164	仄	zè	人	4	2	slanting / oblique / oblique tones	\N	both
@@ -708,7 +708,7 @@
 20234	伊	yī	人	6	4	third person pronoun / he / she / this / that	\N	both
 20235	伋	jí	人	6	4	deceptive	\N	both
 20237	伍	wǔ	人	6	4	five / company of five / troops	\N	both
-20238	伎	jì qí	人	6	4	talent / skill / ability	\N
+20238	伎	jì qí	人	6	4	talent / skill / ability	\N	both
 20239	伏	fú	人	6	4	crouch / crawl / lie hidden / conceal	\N	both
 20240	伐	fá	人	6	4	cut down / subjugate / attack	\N	both
 20241	休	xiū	人	6	4	rest / stop / retire / do not!	\N	both
@@ -776,7 +776,7 @@
 20321	佡	xuān	人	7	5	make effort / endeavor	\N	archaic
 20322	佢	qú	人	7	5	he / she / it	Cantonese	archaic
 20323	佣	yòng yōng yóng	人	7	5	a commission / a fee	\N	simplified
-20325	佥	qiān	人	7	5	all / together / unanimous	\N
+20325	佥	qiān	人	7	5	all / together / unanimous	\N	simplified
 20329	佩	pèi	人	8	6	belt ornament / pendant / wear at waist / tie to the belt / respect	\N	both
 20330	佪	huí huái	人	8	6	hesitate	\N	archaic
 20332	佬	lǎo	人	8	6	man / person / mature	Cantonese	archaic
@@ -796,7 +796,7 @@
 20436	俔	xiàn	人	9	7	to like	\N	traditional
 20446	俞	yú	人	9	7	to accede / to assent	\N	both
 20465	俱	jù	人	10	8	all / together / to accompany	\N	both
-20480	倀	chāng	人	10	8	bewildered / rash / wildly / the ghost of one devoured by tiger	\N	 traditional
+20480	倀	chāng	人	10	8	bewildered / rash / wildly / the ghost of one devoured by tiger	\N	traditional
 20489	倉	cāng	人	10	8	granary / berth / sea	\N	traditional
 20491	個	gè gě	人	10	8	a piece / single	\N	traditional
 20497	們	men	人	10	8	adjunct pronoun indicate plural	\N	traditional
@@ -849,14 +849,14 @@
 20851	关	guān wān	八	6	4	frontier pass / close / relation	\N	simplified
 20852	兴	xīng xìng	八	6	4	thrive / prosper / flourish	\N	simplified
 20853	兵	bīng	八	7	5	soldier / troops	\N	both
-20854	其 	qí jī	八	8	6	his / her / its / their / that	\N	both
-20855	具 	jù	八	8	6	tool / implement / draw up / write	\N	both
-20856	典 	diǎn	八	8	6	law / canon / documentation / classic / scripture	\N	both
-20857	兹 	zī cí	八	9	7	now / here / this / time / year	\N	simplified
+20854	其	qí jī	八	8	6	his / her / its / their / that	\N	both
+20855	具	jù	八	8	6	tool / implement / draw up / write	\N	both
+20856	典	diǎn	八	8	6	law / canon / documentation / classic / scripture	\N	both
+20857	兹	zī cí	八	9	7	now / here / this / time / year	\N	simplified
 20859	养	yǎng yàng	八	9	7	raise / rear / bring up / support	\N	simplified
 20860	兼	jiān	八	10	8	unite / combine / connect / and	\N	both
 20861	兽	shòu	八	11	9	beast / animal / bestial	\N	simplified
-20862	兾 	jì	八	13	11	to hope for / to wish	\N	both
+20862	兾	jì	八	13	11	to hope for / to wish	\N	both
 20864	冀	jì	八	16	14	hope for / wish / Hebei province	\N	both
 20865	冁	chǎn	八	18	16	smile	\N	simplified
 20866	冂	jiōng	冂	2	0	wide	Kangxi radical 13	radical
@@ -866,28 +866,28 @@
 20872	冈	gāng	冂	4	2	ridge or crest of hill	\N	simplified
 20873	冉	rǎn	冂	5	3	tender / weak / proceed gradually	\N	archaic
 20874	冊	cè	冂	5	3	book / volume	\N	simplified
-20875	冋 	jiōng	冂	5	3	a desert / a border	\N	archaic
+20875	冋	jiōng	冂	5	3	a desert / a border	\N	archaic
 20876	册	cè	冂	5	3	book / volume	\N	traditional
-20877	再 	zài	冂	6	4	again / twice / re-	\N	both
+20877	再	zài	冂	6	4	again / twice / re-	\N	both
 20880	冐	mào mò	冂	8	6	risk / brave / dare	\N	archaic
-20881	冑 	zhòu	冂	9	7	helmet	\N	archaic
+20881	冑	zhòu	冂	9	7	helmet	\N	archaic
 20882	冒	mào mòu mò	冂	9	7	risk / brave / dare	\N	archaic
 20883	冓	gòu gōu	冂	10	8	a secluded place / secret cabinet	\N	archaic
 20885	冕	miǎn	冂	11	9	crown / ceremonial cap	\N	both
-26368	最 	zuì	冂	12	10	most / extremely / exceedingly	\N	both
+26368	最	zuì	冂	12	10	most / extremely / exceedingly	\N	both
 20886	冖	mì	冖	2	0	cover	Kangxi radical 14	radical
 20887	冗	rǒng	冖	4	2	excessive / superfluous	\N	both
 20888	冘	yín yóu	冖	4	2	to move on	\N	both
-20889	写 	xiě	冖	5	3	write / draw / sketch / compose	\N	simplified
+20889	写	xiě	冖	5	3	write / draw / sketch / compose	\N	simplified
 20890	冚	kǎn	冖	5	3	cover / lid	Cantonese	archaic
-20891	军 	jūn	冖	6	4	army / military / soldiers / troops	\N	simplified
+20891	军	jūn	冖	6	4	army / military / soldiers / troops	\N	simplified
 20892	农	nóng	冖	6	4	agriculture / farming / farmer	\N	simplified
-20893	冝 	yí	冖	7	5	suitable / right / fitting / proper	\N	archaic
+20893	冝	yí	冖	7	5	suitable / right / fitting / proper	\N	archaic
 20894	冞	mí	冖	8	6	far	\N	archaic
 20896	冠	guān guàn	冖	9	7	cap / crown / headgear	\N	both
 20898	冢	zhǒng	冖	10	8	burial mound / mausoleum / grand	\N	archaic
 20900	冤	yuān	冖	10	8	grievance / injustice / wrong	\N	both
-20901	冥 	míng	冖	10	8	dark / gloomy / night / deep	\N	both
+20901	冥	míng	冖	10	8	dark / gloomy / night / deep	\N	both
 20902	冦 	kòu	冖	10	8	bandits / thieves / enemy / invade	\N	archaic
 20904	冨 	fù	冖	11	9	abundant / ample / rich / wealthy	\N	archaic
 20905	冩 	xiě	冖	14	12	write / draw / sketch / compose	\N	archaic
@@ -961,7 +961,7 @@
 21165	劭	shào	力	7	5	to encourage / to excel / excellent	\N	both
 21169	励 	lì	力	7	5	to strive / to encourage	\N	simplified
 21205	動	dòng	力	11	9	to move / to happen / a movement / action	\N	traditional
-21207	勗	xù	曰	11	7	enjoin / advise / excite	\N
+21207	勗	xù	曰	11	7	enjoin / advise / excite	\N	both
 21209	務	wù	力	11	9	affairs / a business / must / should	\N	traditional
 21233	勱	mài	力	15	13	to put forth effort / to strive forward	\N	traditional
 21237	勵	lì	力	17	15	to strive / to encourage	\N	traditional
@@ -1029,7 +1029,7 @@
 21340	卜	bǔ	卜	2	0	fortune telling / prophesy	Kangxi radical 25	radical
 21341	卝	kuàng	卜	4	2	a hair style / an ore	\N	archaic
 21342	卞	biàn	卜	4	2	to be impatient / in a hurry / excitable	\N	archaic
-21343	卟	bǔ	卜	5	3	a chemical compound / divination / to consider	\N	卟
+21343	卟	bǔ	卜	5	3	a chemical compound / divination / to consider	\N	both
 21344	占	zhān zhàn	卜	5	3	to divine / to observe / to versify	\N	both
 21345	卡	qiǎ kǎ	卜	5	3	a card / a punch card / calorie	\N	both
 21346	卢	lú	卜	5	3	a cottage / a hut / a surname / black	\N	simplified
@@ -1161,6 +1161,7 @@
 22317	圭	guī	土	6	3	jade pointed at top	\N	both
 22318	圮	pǐ	土	6	3	to be destroyed / to be ruined / to subvert to injure	\N	archaic
 22319	圯	yí	土	6	3	a bridge / a bank	\N	archaic
+22351	坏	huài pī péi	土	7	4	rotten / spoilt / bad / broken down	\N	simplified	
 22402	垂	chuí	士	8	5	to let down / to suspend / to hand / down	\N	both
 22478	城	chéng	土	9	6	a castle / a city / a town / a municipality	\N	both
 22522	基	jī	土	11	8	foundation / base	\N	both
@@ -1299,7 +1300,7 @@
 23552	尀	pǒ	寸	8	3	cannot / thereupon	\N	archaic
 23553	封	fēng	寸	9	6	a letter / an envelope / feudal	\N	both
 23554	専	zhuān	寸	9	6	to monopolize / to take sole possession	\N	japanese
-23558	将	jiāng jiàng qiāng	寸	9	6	will / going to / future / general	\N
+23558	将	jiāng jiàng qiāng	寸	9	6	will / going to / future / general	\N	simplified
 23560	專	zhuān	寸	11	8	to monopolize / to take sole possession	\N	traditional
 23561	尉	wèi​	寸	11	8	a military officer	\N	both
 23563	尋	xún xín	寸	12	9	to seek / to search / to look for / ancient	\N	traditional
@@ -1337,7 +1338,7 @@
 23606	尶	gān	尢	17	14	to be embarrassed / ill at ease	\N	archaic
 23607	尷	gān	尢	17	14	to be embarrassed / ill at ease	\N	both
 23608	尸	shī	尸	3	0	a corpse / to impersonate the dead / to preside	Kangxi radical 44	radical
-23609	尹	yǐn	丿	4	3	to govern / to oversee / a director	\N
+23609	尹	yǐn	丿	4	3	to govern / to oversee / a director	\N	both
 23610	尺	chǐ chě	尸	4	1	a Chinese foot	\N	both
 23611	尻	kāo	尸	5	2	end of spine / buttocks / sacrum	\N	both
 23612	尼	ní	尸	5	2	a Buddhist nun / transliteration	\N	both
@@ -1372,6 +1373,7 @@
 23731	岳	yuè	山	8	5	Yue (a name)	The simplified character was also used in historic times.	simplified	악
 23777	峡	xiá	山	9	6	gorge / strait / ravine / isthmus	\N	simplified
 23805	峽	xiá	山	10	7	gorge / strait / ravine / isthmus	\N	traditional
+23812	崄	xiǎn	山	10	7	high / steep / precipitous	\N	traditional
 23994	嶺	lǐng	山	17	14	mountain range / mountain peak	\N	traditional
 23996	嶼	yǔ xù	山	17	14	an island	\N	traditional
 23997	嶽	yuè	山	16	13	Yue (a name)	The simplified was also used in historic times.	traditional
@@ -1415,7 +1417,7 @@
 24075	帋	zhǐ	巾	7	4	paper / stationary / a document	\N	archaic
 24076	希	xī	巾	7	4	rare / to hope / to expect / to strive for	\N	both
 24078	帎	dàn	巾	7	4	a way of playing snooker	Cantonese	archaic
-24079	帏	wéi	巾	7	4	a curtain that forms a wall	\N	simplfied
+24079	帏	wéi	巾	7	4	a curtain that forms a wall	\N	simplified
 24101	帥	shuài shuò	巾	9	6	a commander	\N	traditional
 24107	師	shī	巾	10	7	a teacher / a master / a specialist	\N	traditional
 24130	幂	mì	巾	12	9	a cover-cloth / a cover with cloth	\N	simplified
@@ -1492,6 +1494,7 @@
 24352	张	zhāng zhàng	弓	7	4	stretch / extend / expand / sheet	\N	simplified
 24354	弢	tāo	弓	8	5	bow case / scabbard / sheathe	\N	archaic
 24355	弣	fǔ	弓	8	5	middle	\N	archaic
+24358	弦	xián	弓	8	5	string / hypotenuse / crescent	\N	both
 24400	彐	jì	彐	3	0	snout	Kangxi radical 58	radical
 24401	彑	jì	彐	3	0	snout	Variant of Kangxi radical 58	radical
 24402	归	guī kuì	彐	5	2	to return / to return to / to revert to	\N	simplified
@@ -1609,7 +1612,7 @@
 25343	拿	ná	手	10	6	take / hold / grasp / bring / with	\N	both
 25351	指	zhǐ	手	9	6	finger / to point	\N	both	지
 25357	挍	jiào	手	9	6	to collate / to scratch	Cantonese	archaic
-25448	捨	shè shě shì	手	11	8	to discard / to give up willingly / to give alms	\N	 traditional
+25448	捨	shè shě shì	手	11	8	to discard / to give up willingly / to give alms	\N	traditional
 25505	採	cǎi	手	11	8	to gather / to collect / to pick / to select	\N	traditional
 25552	提	tí dī	手	12	9	to carry / to lift / to raise / to mention	\N	both
 25778	撲	pū bū	手	15	12	to pound / to beat / to strike / to attack	\N	traditional
@@ -1730,7 +1733,7 @@
 26387	朓	tiào tiǎo	月	10	6	sacrifice	\N	archaic
 26388	朔	shuò	月	10	6	first day of lunar month / the north	\N	both
 26389	朕	zhèn	月	10	6	I / we	As a pronoun	archaic
-26390	朖	lǎng	月	11	7	clear / bright / distinct	\N
+26390	朖	lǎng	月	11	7	clear / bright / distinct	\N	both
 26393	朙	míng	月	11	7	bright / clear / intelligent / light / brilliant / to understand / to illustrate	\N	archaic
 26408	木	mù	木	4	0	a tree / wood / lumber	Kangxi radical 75	radical
 26409	朩	děng	木	4	0	rank / grade / to wait / equal / etc	Also used in Korean	archaic
@@ -1877,10 +1880,12 @@
 27849	泉	quán	水	9	6	a fountain / a spring	\N	both
 27927	洗	xǐ	水	9	6	to wash / to bathe	\N	both
 28014	浮	fú	水	10	7	to float	\N	both
+28037	涅	niè	水	10	7	blacken / black mud / slime / tatto	\N	both
 28149	淵	yuān	水	11	8	an abyss	\N	traditional	연
 28152	淸	qīng	水	11	8	clear	Archaic and Hanja form	archaic	청
-28165	清	qīng qìng	水	11	8	clear	both	청
+28165	清	qīng qìng	水	11	8	clear	\N	both
 28201	温	wēn	水	12	9	warm / lukewarm / to warm up	The simplified form was also used in historic times before the modern simplification	simplified
+28284	湼	niè	水	12	9	black mud / slime	\N	both
 28331	溫	wēn	水	12	9	warm / lukewarm / to warm up	The simplified form was also used in historic times before the modern simplification	traditional
 28357	滅	miè	水	13	9	to extinguish / to wipe out / tp exterminate	\N	traditional
 28652	濬	jùn	水	18	15	to deepen / to extract / to manage / ladle	\N	archaic
@@ -1900,7 +1905,9 @@
 28866	烂	làn	火	9	5	rotten / spoiled / decayed	\N	simplified
 28879	烏	wū wù	火	10	6	a crow / a rook / a raven / black / dark	\N	traditional
 28961	無	wú mó	火	12	8	negative / no / not / to lack / to have no	\N	both
+28976	焰	yàn	火	12	8	flame / blaze / glowing / blazing	\N	both
 29100	熬	āo áo	火	15	11	to boil	\N	both
+29124	燄	yàn	火	16	12	flame / blazing / brilliant	\N	both
 29128	燈	dēng	火	16	12	a lantern / a lamp	\N	traditional
 29211	爛	làn	火	21	17	rotten / spoiled / decayed	\N	traditional
 29226	爪	zhuǎ zhǎo	爪	4	0	a claw / a nail / a talon / animal feet	Kangxi radical 87	radical
@@ -2164,7 +2171,7 @@
 31103	祿	lù	示	13	8	blessing / happiness / prosperity	\N	traditional
 31108	禄	lù	示	12	7	blessing / happiness / prosperity	\N	simplified
 31137	禡	mà	示	15	10	a sacrifice at the beginning of a military campaign	\N	traditional
-31142	禦	yù	示	16	11	to defend / to resist	The modern simplified variant was also in use in historic times	traditionl
+31142	禦	yù	示	16	11	to defend / to resist	The modern simplified variant was also in use in historic times	traditional
 31150	禮	lǐ	示	18	13	a social custom / manners / courtesy	\N	traditional
 31160	禸	róu	禸	5	0	rump	Kangxi radical 114	radical
 31161	禹	yǔ	禸	9	4	legendary Xia dynasty founder	\N	both
@@ -2196,7 +2203,7 @@
 31359	穿	chuān	穴	9	4	penetrate / pierce / drill / wear	\N	both
 31360	窀	zhūn tún	穴	9	4	to bury	\N	archaic
 31361	突	tū tú	穴	9	4	suddenly / abruptly / unexpectedly	\N	both
-31308	穌	sū	禾	16	11	to revive / to rise again / to collect	\N	 traditional
+31308	穌	sū	禾	16	11	to revive / to rise again / to collect	\N	traditional
 31406	窮	qióng	穴	15	10	poor / destitute / impoverished	\N	traditional
 31432	竈	zào	穴	21	16	a kitchen stove / a cooking stove	\N	traditional
 31435	立	lì wèi	立	5	0	stand / let stand / establish / set	Kangxi radical 117	radical
@@ -2208,10 +2215,10 @@
 31452	竜	lóng	立	10	5	dragon / symbolic of emperor	\N	japanese
 31453	竝	bìng bàng	立	10	5	to combine / annex / also / what's more	\N	archaic
 31454	竞	jìng	立	10	5	to contend / to vie / to compete	\N	simplified
-31455	竟	jìng	音	11	2	finally / after all / at last	\N
-31456	章	zhāng zhàng	音	11	2	composition / chapter / section	\N
-31458	竢	sì	立	12	7	to wait for / to wait until / as soon as	\N
-31459	竣	jùn	立	12	7	to terminate / to end / to finish / to quit	\N
+31455	竟	jìng	音	11	2	finally / after all / at last	\N	both
+31456	章	zhāng zhàng	音	11	2	composition / chapter / section	\N	both
+31458	竢	sì	立	12	7	to wait for / to wait until / as soon as	\N	both
+31459	竣	jùn	立	12	7	to terminate / to end / to finish / to quit	\N	both
 31466	竪	shù	立	13	8	perpendicular / vertical / to erect	\N	traditional
 31478	競	jìng	立	20	15	to contend / to vie / to compete	\N	traditional
 31481	竹	zhú	竹	6	0	bamboo / a flute	Kangxi radical 118	radical
@@ -2225,6 +2232,7 @@
 31496	笈	jí	竹	10	4	a bamboo box used carry books	\N	archaic
 31498	笊	zhào	竹	10	4	a ladle / a bamboo skimmer	\N	both
 31499	笋	sǔn	竹	10	4	a bamboo shoot	\N	simplified
+31529	笩	fá	竹	11	5	denseness of grass-foliage	\N	both
 31565	筍	sǔn	竹	12	6	a bamboo shoot	\N	traditional
 31680	節	jié	竹	13	7	a festival / a section / a segment / to economize / to save / a joint / to regulate / to restrain	\N	traditional
 31716	篤	dǔ	竹	16	10	deep / true / sincere / genuine	\N	traditional
@@ -2253,10 +2261,12 @@
 32007	紇	hé gē jié	糸	9	3	inferior silk / a tassel / a fringe	\N	traditional
 32008	紈	wán	糸	9	3	white silk / fine silk / gauze	Origin: this character combines the silk radical 糸 for context with the 丸 character part for pronunciation.	traditional
 32009	紉	rèn	糸	9	3	thread needle / sew stitch / string	\N	traditional
+32013	納	nà	糸	10	4	admit / take / receive / accept	\N	traditional
 32024	紘	hóng	糸	10	4	vast / expansive / a string / a ribbon	\N	traditional
 32025	紙	zhǐ	糸	10	4	paper	\N	traditional
 32026	級	jí	糸	10	4	level / rank / class / grade	\N	traditional
-32114	絲	sī	糸	silk / fine thread / wire / strings	\N	traditional
+32067	絃	xián	糸	11	5	a string / a bowstring	\N	both
+32114	絲	sī	糸	12	6	silk / fine thread / wire / strings	\N	traditional
 32147	經	jīng	糸	13	7	to go through / to experience / a classic / a scripture / a sutra	\N	traditional
 32178	網	wǎng	糸	14	8	net / network	\N	traditional
 32191	綿	mián	糸	14	8	silk down / to continue uninterrupted / soft / weak	\N	traditional
@@ -2279,6 +2289,7 @@
 32426	纪 	jì jǐ	纟	6	3	to record / annal / historical account	\N	simplified
 32427	纫	rèn	纟	6	3	thread needle / sew stitch / string	Origin: the character combines the silk / thread radical 纟/糸 for context with the 刀 character part to mean needle.	simplified
 32430	纮	hóng	纟	7	4	string / vast / expansive	\N	simplified
+32435	纳	nà	纟	7	4	admit / take / receive / accept	\N	simplified
 32440	纸	zhǐ	纟	7	4	paper	\N	simplified
 32463	经	jīng	纟	8	5	to go through / to experience / a classic / a scripture / a sutra	\N	simplified
 32501	绵	mián	纟	11	8	silk down / to continue uninterrupted / soft / weak	\N	simplified
@@ -2293,7 +2304,7 @@
 32577	罁	gāng	缶	14	8	a cistern / an earthenware jar of large dimensions / a vat / a crock	\N	archaic
 32578	罂	yīng	缶	14	8	long necked jar or bottle	Origin: the pottery radical 缶 gives the context and the 賏 character part gives the pronunciation.	simplified
 32579	罃	yīng	缶	16	10	long necked jar or bottle	\N	archaic
-32588	罌	yīng	缶	20	14	long necked jar or bottle	\	traditional
+32588	罌	yīng	缶	20	14	long necked jar or bottle	\N	traditional
 32593	网	wǎng	罒	6	0	net / network	Kangxi radical 122	radical
 32594	罒	wǎng	罒	5	0	net / network	Variation of Kangxi radical 122	radical
 32595	罓	gāng	罒	4	0	variant of Kangxi radical 122	\N	radical
@@ -2400,7 +2411,7 @@
 32923	肛	gāng	月	7	3	anus	Related to 肉 radical	both
 32924	肜	róng chēn	月	7	3	to sacrifice on two successive days	Related to 肉 radical	archaic
 32925	肝	gān	月	7	3	liver	Related to 肉 radical	both
-32942	肮	āng kǎng	月	dirty	\N	simplified
+32942	肮	āng kǎng	8	4	月	dirty	\N	simplified
 32980	胔	zì	肉	11	5	rotten meat / bones of dead animals	\N	both
 32993	胡	hú	月	9	5	recklessly / foolishly / wildly / a lane / an alley / a hutong	When the meaning is lane / alley / hutong the traditional character 衚 should be used, for example, 胡同 / 衚衕.  When the meaning is beard / mustache / whiskers, then the traditional form 鬍 should be used, for example, 胡子 / 鬍子.  Otherwise, this character can be used directly in traditional text.	both
 33004	胬	nǔ nú	肉	11	5	a disease's name in Chinese medicine	\N	archaic
@@ -2492,6 +2503,7 @@
 33467	芻	chú	艹	10	4	to mow / to cut grass / hay / fodder	\N	traditional
 33487	苏	sū	艹	10	4	to revive / to resurrect / a species of thyme / transliteration of Soviet	\N	simplified
 33586	茲	zī cí	艹	12	6	now / here / this / time / year	\N	traditional
+33591	茷	fá fèi	艹	12	6	flutter / flower	\N	both
 33606	荆	jīng	艹	12	6	thorns / brambles / my wife / cane	The modern simplified form was also used in historic times	simplified
 33610	荊	jīng	艹	12	6	thorns / brambles / my wife / cane	The modern simplified form was also used in historic times	traditional
 33616	荐	jiàn	艹	12	6	to repeat / to reoccur / to recommend	The modern simplified form was also used in historic times	simplified
@@ -2501,9 +2513,11 @@
 33836	萬	wàn	禸	15	10	ten thousand / innumerable	\N	traditional
 33945	蒙	méng mēng měng máng	艹	16	10	cover / ignorant / suffer / Mongolia	\N	both
 34028	蓬	péng pèng	艹	17	11	a type of raspberry / fairyland	\N	both
+34117	蕅	ǒu	艹	18	12	lotus root	\N	both
 34180	薄	báo bó bò bù	艹	19	13	thin / slight / weak / poor / stingy	\N	both
 34269	藝	yì	艹	21	15	art / a talent / an ability / a craft	\N	traditional
 34214	薦	jiàn	艹	19	13	to repeat / to reoccur / to recommend	The modern simplified form was also used in historic times	traditional
+34261	藕	ǒu	艹	21	15	lotus root	\N	both
 34311	蘇	sū	艹	22	16	to revive / to resurrect / a species of thyme / transliteration of Soviet	\N	traditional
 34381	虍	hū	虍	6	0	a tiger	Kangxi radical 141	radical
 34382	虎	hǔ hù	虍	8	2	a tiger / brave / fierce / a surname	\N	both
@@ -2589,7 +2603,7 @@
 35211	見	jiàn xiàn	見	7	0	to see / to observe / to behold / to perceive	Kangxi radical 147	radical
 35212	覌	guān guàn	見	9	2	to see / to observe / view / appearance	\N	archaic
 35225	覙	luó	見	9	2	to explain in detail	\N	archaic
-35214	覎	yàn	見	10	3	Yan	a place name	\N	traditional
+35214	覎	yàn	見	10	3	Yan, a place name	\N	traditional
 35215	規	guī kuī xù guì	見	11	4	rules / regulations / customs / law	\N	traditional
 35216	覐	jué jiào	見	11	4	to sleep / to realize / feel	\N	archaic
 35219	覓	mì	見	11	4	to seek / to search	\N	traditional
@@ -2735,7 +2749,7 @@
 36008	貨	huò	貝	11	4	goods / commodities / products	\N	traditional
 36009	販	fàn	貝	11	4	a peddler / a hawker / a street merchant	\N	traditional
 36010	貪	tān	貝	11	4	greedy / covet / covetous	\N	traditional
-36012	責	zé zhài	貝	11	4	responsibility / duty	\N	traditinoal
+36012	責	zé zhài	貝	11	4	responsibility / duty	\N	traditional
 36023	買	mǎi	貝	12	5	to buy / to purchase / to bribe / to persuade	\N	traditional
 36042	賊	zéi zé	貝	13	6	a thief / a traitor	\N	traditional
 36066	賢	xián	貝	15	8	virtuous / worthy / good / able	\N	traditional
@@ -2764,7 +2778,7 @@
 36199	赧	nǎn	赤	11	4	to blush / to turn red	\N	both
 36202	赪	chēng	赤	13	6	deep red	\N	simplified
 36203	赫	hè xì shì	赤	13	6	bright / radiant / glowing	\N	both
-36204	赬	chēng	赤	13	6	deep red	\N	tradtional
+36204	赬	chēng	赤	13	6	deep red	\N	traditional
 36205	赭	zhě	赤	13	6	reddish brown / hematite / ochre	\N	both
 36208	走	zǒu	走	7	0	to walk / to go on foot / to run / to leave	Kangxi radical 156	radical
 36209	赱	zǒu	走	7	0	to walk / to go on foot / to run / to leave	\N	archaic
@@ -2835,11 +2849,11 @@
 36773	辥	xuē	辛	16	9	variety of marsh grass	\N	archaic
 36774	辦	bàn	辛	16	9	to manage / to do / to handle / to deal with	\N	traditional
 36781	辭	cí	辛	19	12	words / speech / expression / phrase	\N	traditional
-36784	辰	chén	辰	7	0	early morning / 5th terrestrial branch	Kangxi radical 161
+36784	辰	chén	辰	7	0	early morning / 5th terrestrial branch	Kangxi radical 161	radical
 36785	辱	rǔ rù	辰	10	3	to humiliate / to insult / to abuse	\N	both
 36786	農	nóng	辰	13	6	agriculture / farming / a farmer	\N	traditional
 36671	輿	yú	車	17	10	a cart / a palanquin / a sedan chair	\N	traditional
-36710	车	chē jū	车	4	0	a cart / a vehicle / carry in cart	Simplified variant of Kangxi radical 159
+36710	车	chē jū	车	4	0	a cart / a vehicle / carry in cart	Simplified variant of Kangxi radical 159	simplified
 36711	轧	yà gá zhá	车	5	1	rush by weight / grind	\N	simplified
 36712	轨	guǐ	车	6	2	a track / a rut / a path	\N	simplified
 36713	轩	xuān	车	7	3	a carriage / high / wide / balcony	\N	simplified
@@ -2870,7 +2884,7 @@
 36983	遷	qiān gān	辶	16	12	to move / to shift / to change / to transfer / to relocate a capital city	\N	traditional
 36988	遼	liáo	辶	16	12	distant / far	\N	traditional
 37002	邊	biān bian	辶	19	15	an edge / a margin / a side / a border	\N	traditional
-37009	邑	yì è	邑	7	0	an area / a district / a city / a state	Kangxi radical 163
+37009	邑	yì è	邑	7	0	an area / a district / a city / a state	Kangxi radical 163	radical
 37011	邓	dèng	邑	5	2	Deng	a surname	simplified
 37013	邕	yōng yǒng	邑	10	3	former name for Nanning	\N	both
 37015	邗	hán	邑	6	3	Han	An ancient place in the state of Wu	both
@@ -2944,7 +2958,7 @@
 38026	钊	zhāo	钅	7	2	to endeavor / to strive / to encourage / to cut	\N	simplified
 38027	钋	pò	钅	7	2	polonium	\N	simplified
 38028	钌	diǎo liǎo	钅	7	2	ruthenium	\N	simplified
-38029	钍	tǔ	钅	8	3	thorium	\N	simplifed
+38029	钍	tǔ	钅	8	3	thorium	\N	simplified
 38030	钎	qiān	钅	8	3	a tool for boring holes	\N	simplified
 38031	钏	chuàn	钅	8	3	a bracelet / an armlet	\N	simplified
 38032	钐	shàn shān xiān	钅	8	3	samarium	\N	simplified
@@ -2999,8 +3013,10 @@
 38446	阮	ruǎn juàn yuán	阜	7	4	an ancient musical instrument: a surname	\N	both
 38447	阯	zhǐ	阜	7	4	a foundation / a site / an address	\N	archaic
 38463	阿	ā ǎ à a ē ě	阜	8	5	prefix for names / used in transliteration	\N	both
+38505	险	xiǎn yán	阜	10	7	narrow pass / strategic point	\N	simplified
 38517	陵	líng	阜	11	8	a hill / a mound / a mausoleum	\N	both
 38538	隊	duì suì zhuì	阜	12	9	a team / a group / an army unit	\N	traditional
+38570	險	xiǎn yán jiǎn	阜	16	13	narrow pass / strategic point / dangerous	\N	traditional
 38582	隶	lì dài yì dì	隶	8	0	subservient / servant	Kangxi radical 171	radical
 38583	隷	lì	隶	16	8	be subservient to / servant	\N	japanese
 38584	隸	lì	隶	17	6	be subservient to / servant	\N	traditional
@@ -3020,7 +3036,7 @@
 38613	雕	diāo	隹	16	8	to engrave / to inlay / to carve / to exhaust	\N	simplified
 38614	雖	suī	隹	17	9	although / even if	\N	traditional
 38617	雙	shuāng	隹	18	10	a set of two / a pair / a couple / both	\N	traditional
-38622	雞	jī	隹	18	10	a chickens / a domestic fowl	\N	 traditional
+38622	雞	jī	隹	18	10	a chickens / a domestic fowl	\N	traditional
 38626	離	lí chī lì	隹	19	11	to leave / to depart / to go away / from / rare beast / strange / elegant	\N	traditional
 38627	難	nán nàn nuó	隹	19	11	difficult / arduous / hard / unable	\N	traditional
 38632	雨	yǔ yù	雨	8	0	rain	Kangxi radical 173	radical
@@ -3089,7 +3105,7 @@
 38893	韭	jiǔ	韭	9	0	a scallion / a leek	Kangxi radical 179	radical
 38894	韮	jiǔ	韭	13	4	a scallion / a leek	\N	archaic
 38895	韯	xiān	韭	15	6	wild onions or leeks	\N	archaic
-38897	韱	xiān	韭	17	8	wild onions or leeks	\N
+38897	韱	xiān	韭	17	8	wild onions or leeks	\N	both
 38898	韲	jī	韭	19	10	to break or smash into pieces / to pulverize	\N	archaic
 38899	音	yīn yìn	音	9	0	a sound / a tone / a pitch / pronunciation	Kangxi radical 180	radical
 38901	韵	yùn	音	13	4	rhyme / a vowel	\N	simplified
@@ -3189,7 +3205,7 @@
 39151	飯	fàn	食	13	4	cooked rice / food / meal	\N	traditional
 39154	飲	yǐn yìn	食	13	4	to drink / swallow / a drink	\N	traditional
 39178	養	yǎng yàng	食	15	6	raise / rear / bring up / support	\N	traditional
-39192	餘	yú xú	食	16	7	surplus / excess / remainder	\N	 traditional
+39192	餘	yú xú	食	16	7	surplus / excess / remainder	\N	traditional
 39219	餳	xíng	食	18	9	sugar / syrup / malt sugar / sticky	\N	traditional
 39228	餼	xì	食	19	10	a sacrficial victim / a gift / grain	\N	traditional
 39255	饗	xiǎng	食	22	13	to host a banquet / banquet	\N	traditional
@@ -3206,6 +3222,7 @@
 39277	饭	fàn	饣	7	4	cooked rice / food / meal	\N	simplified
 39278	饮	yǐn yìn	饣	7	4	to drink / swallow / a drink	\N	simplified
 39296	馀	yú	饣	10	7	a surplus / excess / remainder	\N	archaic
+39364	駄	tuó	馬	14	4	to carry on one's back	\N	both
 39380	駔	zǎng zǔ zù	馬	15	5	an excellent horse / a noble steed	\N	traditional
 39387	駛	shǐ	馬	15	5	to sail / to drive / to pilot / fast / quick	\N	traditional
 39391	駟	sì	馬	15	5	a team of four horses / horses	\N	traditional
@@ -3216,7 +3233,7 @@
 39535	驯	xún xùn	马	6	3	tame / docile / obedient	\N	simplified
 39536	驰	chí	马	6	3	go quickly or swiftly / hurry	\N	simplified
 39537	驱	qū	马	7	4	spur a horse on / expel / drive away	\N	simplified
-39538	驲	rì	马	7	4	post horse / relay horse	\N	simplifed
+39538	驲	rì	马	7	4	post horse / relay horse	\N	simplified
 39539	驳	bó	马	7	4	varicolored / variegated / mixed	\N	simplified
 39540	驴	lǘ	马	7	4	donkey / ass	\N	simplified
 39541	驵	zǎng zǔ zù	马	8	5	excellent horse / noble steed	\N	simplified
@@ -3361,8 +3378,8 @@
 40486	鸦	yā	鸟	9	4	a crow / Corvus species	\N	simplified
 40487	鸧	cāng qiāng	鸟	9	4	an oriole	\N	simplified
 40488	鸨	bǎo	鸟	9	4	a bustard / procuress / Otis species	\N	simplified
-40489	鸩	zhèn	鸟	9	4	a bird resembling the secretary falcon	\N	simplifed
-40517	鹅	é	鸟	12	7	goose	\N	simplifed
+40489	鸩	zhèn	鸟	9	4	a bird resembling the secretary falcon	\N	simplified
+40517	鹅	é	鸟	12	7	goose	\N	simplified
 40852	龔	gōng	龍	22	6	to give / to present / reverential	\N	traditional
 40853	龕	kān	龍	22	6	a niche / a shrine	\N	traditional
 40857	龙	lóng lǒng máng	龙	5	0	a dragon / symbolic of emperor	Simplified variant of Kangxi radical 212	radical
@@ -3392,7 +3409,7 @@
 40783	齏	jī	齊	23	9	to break or smash into pieces / to pulverize / to hash	\N	traditional
 40784	齐	qí jī jì jiǎn zhāi zī	文	6	2	even / uniform / of equal length	\N	simplified
 40785	齑	jī	文	15	11	break or smash into pieces / pulverize / hash	\N	simplified
-40786	齒	chǐ	齒	15	0	teeth / gears / cogs / age	\N	Traditional variant of Kangxi radical 211	radical
+40786	齒	chǐ	齒	15	0	teeth / gears / cogs / age	Traditional variant of Kangxi radical 211	radical
 40788	齔	chèn	齒	17	2	to lose baby teeth and get adult teeth	\N	traditional
 40789	齕	hé	齒	18	3	to gnaw / to bite / to nibble	\N	traditional
 40791	齗	kěn yín	齒	19	4	gums (of the teeth) / to dispute	\N	traditional
