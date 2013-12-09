@@ -1644,8 +1644,8 @@
 1644	进	進	jìn	to advance / to enter	verb	方向	Direction	移动	Movement	\N	\N	\N	jin4.mp3	\N	1	\N	
 1645	卖	賣	mài	to sell	verb	\N	\N	商务	Commerce	\N	\N	\N	mai4.mp3	\N	1	\N	
 1646	柴	\N	chái	firewood	noun	\N	\N	家庭用品	Household Article	\N	\N	200px-Stackingwood.jpg	chai2.mp3	\N	\N	\N	
-1647	温州	溫州	Wēnzhōu	Wenzhou	pronoun	城市	City	地方	Places	中国	China	280px-ChinaZhejiangWenzhou.png	wen1zhou1.mp3	City in Zhejiang	\N	\N	
-1648	浙江	\N	Zhèjiāng	Zhejiang	pronoun	省	Province	地方	Places	中国	China	China-Zhejiang.png	\N	\N	\N	\N	
+1647	温州	溫州	Wēnzhōu	Wenzhou	proper noun	城市	City	地方	Places	中国	China	280px-ChinaZhejiangWenzhou.png	wen1zhou1.mp3	City in Zhejiang	\N	\N	
+1648	浙江	\N	Zhèjiāng	Zhejiang	proper noun	省	Province	地方	Places	中国	China	China-Zhejiang.png	\N	\N	\N	\N	
 1649	信用	\N	xìnyòng	credit	noun	\N	\N	经济	Economics	\N	\N	\N	xin4yong4.mp3	\N	4	\N	
 1650	信用鸟鞋业	信用鳥鞋業	Xìnyòng Niǎo Xié Yè	Xinyong Niao Xie Ye	proper noun	\N	\N	\N	\N	\N	\N	\N	xin4yong4niao3xie2ye4.mp3	 Name of a company	\N	\N	
 1651	有限公司	\N	yǒuxiàn gōngsī	limited liability company / corporation	noun	\N	\N	商务	Commerce	\N	\N	\N	you3xian4gong1si1.mp3	\N	\N	\N	
@@ -1685,18 +1685,18 @@
 1685	最新	\N	zuìxīn	recently / latest	adverb	\N	\N	时间	Time	\N	\N	\N	zui4xin1.mp3	\N	\N	\N	
 1686	地理	\N	dìlǐ	geography	noun	\N	\N	地理	Geography	\N	\N	\N	\N	\N	3	\N	
 1687	长三角	长三長	Cháng Sānjiǎo	Yangtze River Triange	proper noun	\N	\N	地方	Places	\N	\N	450px-Lower_yangtze_3.png	chang2san1jiao3.mp3	Geographic area in the lower Yangtze, including 上海 (Shànghǎi)，南京 (Nánjīng)，杭州 (Hángzhōu)，苏州 (Sūzhōu)，无锡 (Wúxī)，扬州 (Yángzhōu)，南通 (Nántōng)，镇江 (Zhènjiāng)，湖州 (Húzhōu)，宁波 (Níngbō)，绍兴 (Shàoxīng)，舟山 (Zhōushān)，温州 (Wēnzhōu)，嘉兴 (Jiāxīng)，常州 (Chángzhōu)	\N	\N	
-1688	杭州	\N	Hángzhōu	Hangzhou	pronoun	城市	City	地方	Places	中国	China	290px-ChinaZhejiangHangzhou.png	\N	Capital city of Zhejiang province	\N	30.261440,120.179443	6
-1689	苏州	蘇州	Sūzhōu	Suzhou	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	31.233940,120.404663	7
-1690	无锡	無錫	Wúxī	Wuxi	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	31.515337,120.322266	7
-1691	扬州	揚州	Yángzhōu	Yangzhou	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	\N	
-1692	南通	\N	Nántōng	Nantong	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	\N	
-1693	镇江	鎮江	Zhènjiāng	Zhenjiang	pronoun	城市	City	地方	Places	中国	China	\N	zhen4jiang1.mp3	City in Jiangsu province	\N	\N	
-1694	湖州	\N	Húzhōu	Huzhou	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
-1695	宁波	寧波	Níngbō	Ningbo	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
-1696	绍兴	紹興	Shàoxīng	Shaoxing	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
-1697	舟山	\N	Zhōushān	Zhoushan	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
-1698	嘉兴	嘉興	Jiāxīng	Jiaxing	pronoun	城市	City	地方	Places	中国	China	\N	jia1xing1.mp3	City in Zhejiang province	\N	\N	
-1699	常州	\N	Chángzhōu	Changzhou	pronoun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	\N	
+1688	杭州	\N	Hángzhōu	Hangzhou	proper noun	城市	City	地方	Places	中国	China	290px-ChinaZhejiangHangzhou.png	\N	Capital city of Zhejiang province	\N	30.261440,120.179443	6
+1689	苏州	蘇州	Sūzhōu	Suzhou	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	31.233940,120.404663	7
+1690	无锡	無錫	Wúxī	Wuxi	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	31.515337,120.322266	7
+1691	扬州	揚州	Yángzhōu	Yangzhou	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	\N	
+1692	南通	\N	Nántōng	Nantong	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	\N	
+1693	镇江	鎮江	Zhènjiāng	Zhenjiang	proper noun	城市	City	地方	Places	中国	China	\N	zhen4jiang1.mp3	City in Jiangsu province	\N	\N	
+1694	湖州	\N	Húzhōu	Huzhou	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
+1695	宁波	寧波	Níngbō	Ningbo	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
+1696	绍兴	紹興	Shàoxīng	Shaoxing	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
+1697	舟山	\N	Zhōushān	Zhoushan	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Zhejiang province	\N	\N	
+1698	嘉兴	嘉興	Jiāxīng	Jiaxing	proper noun	城市	City	地方	Places	中国	China	\N	jia1xing1.mp3	City in Zhejiang province	\N	\N	
+1699	常州	\N	Chángzhōu	Changzhou	proper noun	城市	City	地方	Places	中国	China	\N	\N	City in Jiangsu province	\N	\N	
 1700	求	\N	qiú	to request	verb	\N	\N	语言	Language	\N	\N	\N	qiu2.mp3	Synonym discussion: in this sense 求 is similar in meaning to 请求.	2	\N
 1701	文章	\N	wénzhāng	article / essay	noun	\N	\N	写作	Writing	\N	\N	\N	wen2zhang1.mp3	\N	1	\N	
 1702	观	觀	guān	to look at / to watch / to observe	verb	\N	\N	观察	Observation	\N	\N	\N	guan1.mp3	\N	\N	\N	
@@ -1790,11 +1790,11 @@
 1790	信息	\N	xìnxī	information / message / news	noun	\N	\N	信息	Information	\N	\N	\N	xin4xi1.mp3	\N	3	\N	
 1791	副总理	副總理	fù zǒnglǐ	vice-premier	noun	\N	\N	政治	Politics	\N	\N	\N	fu4zong3li3.mp3	\N	\N	\N	
 1792	吴仪	吳儀	Wú Yí	Wu Yi	proper noun	人	Person	政治	Politics	\N	\N	Wu_Yi.jpg	wu2yi2.mp3	 Vice-premier of the PRC State Council	\N	\N	
-1793	江西	\N	Jiāngxī	Jiangxi	pronoun	省	Province	地方	Places	中国	China	China-Jiangxi.png	jiang1xi1.mp3	Abbreviation 赣	\N	\N	
+1793	江西	\N	Jiāngxī	Jiangxi	proper noun	省	Province	地方	Places	中国	China	China-Jiangxi.png	jiang1xi1.mp3	Abbreviation 赣	\N	\N	
 1794	赣	贛	Gàn	Jiangxi	proper noun	省	Province	地方	Places	江西	Jiangxi	China-Jiangxi.png	\N	Abbreviation for 江西 (Jiāngxī)	\N	\N	
-1795	南昌	\N	Nánchāng	Nanchang	pronoun	城市	City	地方	Places	中国	China	290px-Nanchang_location.png	nan2chang1.mp3	Capital of Jiangxi province, abbreviation 洪 (Hóng)	\N	28.736356,115.828857	6
-1796	甘肃	甘肅	Gānsù	Gansu	pronoun	省	Province	地方	Places	中国	China	China-Gansu.png	gan1su4.mp3	Abbreviation 甘 or 陇	\N	\N	
-1797	兰州	蘭州	Lánzhōu	Lanzhou	pronoun	城市	City	地方	Places	中国	China	280px-Location_of_Lanzhou_Prefecture_within_Gansu_(China).png	lan2zhou1.mp3	Capital of Gansu province	\N	36.069082,103.760376	6
+1795	南昌	\N	Nánchāng	Nanchang	proper noun	城市	City	地方	Places	中国	China	290px-Nanchang_location.png	nan2chang1.mp3	Capital of Jiangxi province, abbreviation 洪 (Hóng)	\N	28.736356,115.828857	6
+1796	甘肃	甘肅	Gānsù	Gansu	proper noun	省	Province	地方	Places	中国	China	China-Gansu.png	gan1su4.mp3	Abbreviation 甘 or 陇	\N	\N	
+1797	兰州	蘭州	Lánzhōu	Lanzhou	proper noun	城市	City	地方	Places	中国	China	280px-Location_of_Lanzhou_Prefecture_within_Gansu_(China).png	lan2zhou1.mp3	Capital of Gansu province	\N	36.069082,103.760376	6
 1798	地主	\N	dìzhǔ	landlord / land-owner	noun	\N	\N	历史	History	\N	\N	\N	\N	\N	3	\N	
 1799	持	\N	chí	to grasp / to hold / to support / to manage / to maintain	verb	\N	\N	行为	Actions	\N	\N	\N	chi2.mp3	\N	\N	\N	
 1800	医疗保险	醫療保險	yīliáo bǎoxiǎn	medical insurance	noun	\N	\N	健康	Health	\N	\N	\N	yi1liao2bao3xian3.mp3	\N	\N	\N	
@@ -18404,7 +18404,7 @@
 18404	明十三陵	\N	Míng Shísān Líng	Ming Tombs	proper noun	名胜古迹	Historical Sites and Scenic Places	历史	History	北京	Beijing	\N	\N	\N	\N	40.312978,116.236897	9
 18405	周口店	\N	Zhōukǒudiàn	Zhoukoudian	proper noun	名胜古迹	Historical Sites and Scenic Places	历史	History	北京	Beijing	\N	\N	Site of the discovery of Peking Man	\N	39.685657,115.927391	9
 18406	北京猿人	\N	Běijīng Yuánrén	Peking Man / Homo erectus pekinensis	proper noun	\N	\N	人类学	Anthropology	\N	\N	\N	\N	(c. 600,000 BC), discovered in Zhoukoudian 周口店 in 1921	\N	\N	\N
-18407	北京人	\N	Běijīng rén	a person from Beijing	noun	\N	\N	地方	Places	\N	\N	\N	\N	\N	\N	\N	
+18407	北京人	\N	Běijīng rén	a person from Beijing	noun	\N	\N	文化	Culture	\N	\N	\N	\N	\N	\N	\N	
 18408	五台山	五臺山	Wǔtái Shān	Mount Wutai	proper noun	佛教名山	Sacred Buddhist Mountain	佛教	Buddhism	山西	Shanxi	\N	\N	One of the four sacred Buddhist mountains in China	\N	39.067962,113.578033	7	
 18409	台怀镇	臺懷鎮	Táihuái Zhèn	Town of Taihuai	proper noun	镇	Town	地方	Places	山西	Shanxi	\N	\N	\N	\N	39.006094,113.594513	7	
 18410	搭便车	搭便車	dā biàn chē	to hitch a ride	phrase	交通工具	Means of Transportation	交通	Transportation	\N	\N	\N	\N	\N	\N	\N	
@@ -30877,7 +30877,7 @@
 30877	获	獲	huò	to suffer / to sustain / to be subject to	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonym discussion: in this sense 获 is similar in meaning to 遭受.	\N	\N	
 30878	获	獲	huò	game (hunting)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N	\N	\N
 30879	获	獲	huò	a female servant	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonym discussion: in this sense 获 is similar in meaning to 奴婢.	\N	\N	
-30880	获	獲	Huái	Huai	verb	\N	\N	地方	Places	\N	\N	\N	\N	When used in place names this character is read as Huái.	\N	\N	
+30880	获	獲	Huái	Huai	proper noun	\N	\N	地方	Places	\N	\N	\N	\N	When used in place names this character is read as Huái.	\N	\N
 30881	言	\N	yán	a particle with no meaning	particle	\N	\N	虚词	Function Words	\N	\N	\N	yan2.mp3	\N	\N	\N	
 30882	业缘	業緣	yè yuán	karmic conditions / karmic connections	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N	\N	\N
 30883	阎浮	閻浮	Yǎn Fú	Jambudvipa / Jambu-dvipa / Jambu-dipa / the Terrestrial World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: jambudvīpa, Pali: jambu-dīpa; the southernmost of the Four Great Continents 四洲 in Hinduism, Buddhism, and Jainism	\N	\N	
@@ -32887,3 +32887,5 @@
 32887	锭光佛	錠光佛	Dìngguāng Fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanksrit: dīpaṃkara, Pali: dīpaṃkara. Literally, lamp bearer, a Buddha who reached enlightenment eons prior to the historic Buddha.	\N	\N	
 32888	第四	\N	dì sì	fourth / the fourth is	ordinal	\N	\N	数量	Quantity	\N	\N	\N	\N	\N	\N	\N
 32889	连音	連音	liányīn	sandhi	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	Sanskrit: saṃdhi; the alteration of sounds due to sounds of neighboring words or fusion of sounds.	\N	\N
+32890	南天大学	南天大學	Nán Tiān Dàxué	Nan Tien Institute	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Buddhist educational institution located in Australia.	\N	\N
+
