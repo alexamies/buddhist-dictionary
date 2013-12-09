@@ -3,35 +3,94 @@
 Reads and processes the words.txt text file. The words may be checked
 for consistency and dumped out to file again.
 """
+import getopt
+import sys
+
 
 DIR_NAME = '../data/dictionary/'
-FILE_NAME = 'words.txt'
+WORDS_FILE = 'words.txt'
+PLACES_FILE = 'places.txt'
 
 
-def CheckWords(words):
-    """Checks the words for consistency.
+def GetHSK(words):
+    """Get all the words that have a HSK level.
     
-    The words may be loaded from the words.txt and checked for 
-    consistency. For example, it has been necessary to remove geographic coordinates
+    I am in the process of extracting HSK from the main table into a secondary
+    table because most of the entries do not have a HSK level, which
+    makes it cumbersome to maintain.
+
+    Args:
+        words: List of words loaded from the words.txt file.
+
+    Return:
+        A list of words that have HSK levels.
+    """
+    print('%d words being checked.' % len(words))
+    entries = []
+    for word in words:
+        iden = word['id']
+        simplified = word['simplified']
+        if 'hsk' in word:
+            hsk = word['hsk']
+            if hsk not in ['1', '2', '3', '4']:
+                print('(%d , "%s") has hsk level %s.' % (iden, simplified, hsk))
+            else:
+                entries.append(word)
+    print('Got %d words with HSK levels' % len(entries))
+    return entries
+
+
+def GetPlaces(words):
+    """Gets all the words that represent a place.
+    
+    Determine whether the word is a place based on topic and grammar (proper noun).
     from place names.
 
     Args:
         words: List of words loaded from the words.txt file.
+
+    Return:
+        A list of words that are places.
     """
     print('%d words being checked.' % len(words))
-    problems = []
+    places = []
     for word in words:
         iden = word['id']
         simplified = word['simplified']
+        grammar = word['grammar']
         if 'topic_en' not in word:
             print('(%d , "%s") does not have a topic.' % (iden, simplified))
             continue
         topic_en = word['topic_en']
-        places = []
-        if 'Places' == topic_en:
+        if  topic_en in ['Places', 'Geography'] and grammar == 'proper noun':
             # print('(%d , "%s") is a place.' % (iden, simplified))
             places.append(word)
-    print('%d places found.' % len(places))
+    return places
+
+
+def ExportPlaces(places):
+    """Writes words that are places out to the place file.
+
+    Args:
+        places: List of words that are places.
+    """
+    print('Writing %d places to file.' % len(places))
+    fullpath = '%s%s' % (DIR_NAME, PLACES_FILE)
+    with open(fullpath, 'w') as f:
+        for place in places:
+            iden = place['id']
+            simplified = place['simplified']
+            traditional = place['traditional']
+            english = place['english']
+            ll = r'\N'
+            zoom = r'\N'
+            if 'll' in place and place['ll'].strip():
+                ll = place['ll']
+            if 'zoom' in place and place['zoom'].strip():
+                zoom = place['zoom']
+            f.write('%d\t%s\t%s\t%s\t%s\t%s\n' % (iden, simplified, traditional, 
+                                                  english, ll, zoom))
+        f.close()
 
 
 def LoadWords():
@@ -40,13 +99,15 @@ def LoadWords():
     Returns:
         A list of words entries.
     """
-    fullpath = '%s%s' % (DIR_NAME, FILE_NAME)
+    fullpath = '%s%s' % (DIR_NAME, WORDS_FILE)
     with open(fullpath, 'r') as f:
         words = []
         for line in f:
             tokens = line.split('\t')
             if tokens:
                 entry = {}
+                if len(tokens) < 2:
+                    continue
                 entry['id'] = int(tokens[0])
                 if len(tokens) > 1:
                     entry['simplified'] = tokens[1]
@@ -77,7 +138,9 @@ def LoadWords():
                 if len(tokens) > 14:
                     entry['notes'] = tokens[14]
                 if len(tokens) > 15:
-                    entry['hsk'] = tokens[15]
+                    hsk = tokens[15].strip()
+                    if hsk and hsk != r'\N':
+                        entry['hsk'] = hsk
                 if len(tokens) > 16:
                     entry['ll'] = tokens[16]
                 if len(tokens) > 17:
@@ -86,9 +149,35 @@ def LoadWords():
     return words
 
 
+def PrintUsage():
+    print('Usage: python words.py command')
+    print('where command is one of:')
+    print('    export_places: Exports places from word file to places.txt')
+    print('    export_hsk: Exports words with HSK levels from word file to hsk_words.txt')
+
+
 def main():
-    words = LoadWords()
-    CheckWords(words)
+    """Accepts commands as arguments after the program name.
+    """
+    try:
+        opts, args = getopt.getopt(sys.argv[1:], "", ["help", "output="])
+        if 'export_places' in args:
+            print('Exporting places file')
+            words = LoadWords()
+            places = GetPlaces(words)
+            ExportPlaces(places)
+        elif 'export_hsk' in args:
+            print('Exporting hsk file')
+            words = LoadWords()
+            entries = GetHSK(words)
+        else:
+            PrintUsage()
+            sys.exit(2)
+    except getopt.GetoptError as err:
+        print str(err)
+        PrintUsage()
+        sys.exit(2)
+
 
 if __name__ == "__main__":
     main()
