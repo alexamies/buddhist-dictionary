@@ -6,8 +6,8 @@
 /*
  * There are three dictionaries and related tables:
  *
- * words: A Chinese to English word dictionary (not here yet).
- *     Tables include hsk, ...
+ * words: A Chinese to English word dictionary. Tables include hsk, grammar,
+ *     topics, and words.
  *
  * characters: A character dictionary. Includes tables characters. Includes
  *     tables characters, character_rend, character_types, 
@@ -44,7 +44,7 @@ CREATE TABLE grammar (english VARCHAR(125) NOT NULL,
 ;
 
 /*
- * Table for Chinese Language Proficiency Test (HSK)
+ * Table for Chinese Language Proficiency Test Hanyu Shuiping Kaoshi (HSK)
  *
  * The hsk levels are pre-2010 levels. They are indicative of the frequency
  * of use and difficulty of the word in modern Chinese. I hope to update them 
@@ -79,6 +79,60 @@ CREATE TABLE topics (simplified VARCHAR(125) NOT NULL,
     CHARACTER SET UTF8
     COLLATE utf8_general_ci
 ;
+
+/*
+ * Table for Chinese to English mapping of words
+ *
+ * Each entry in the table represents one sense of a Chinese word.
+ *
+ * id           A unique identifier for the word
+ * simplified:	Simplified Chinese text for the word
+ * traditional:	Traditional Chinese text for the word (if different)
+ * pinyin:      Hanyu pinyin
+ * english:     English text for the word 
+ * function:	Grammatical function 
+ * concept_cn:	The general concept for the word in Chinese (country, chemical, etc)
+ * concept_en:	The general concept for the word in English (country, chemical, etc)
+ * topic_cn:	The general topic for the word in Chinese (geography, technology, etc)
+ * topic_en:	The general topic for the word in English (geography, technology, etc)
+ * parent_cn:	The parent for the concept (Chinese)
+ * parent_en:	The parent for the concept (English)
+ * mp3:         Name of an audio file for the word
+ * image:       The name of a file for an image illustrating the concept
+ * notes:       Notes about the word
+ * hsk:	        If the word is listed then the Hanyu Shuiping Kaoshi (HSK) level
+ * ll;	        Latitude and longitude for the point (if any)
+ * zoom;        The zoom for the map, a positive integer (used in Google Map API), optional
+ */
+CREATE TABLE words (id INT UNSIGNED NOT NULL,
+                    simplified VARCHAR(255) NOT NULL,
+                    traditional VARCHAR(255),
+                    pinyin VARCHAR(255) NOT NULL,
+                    english VARCHAR(255) NOT NULL,
+                    grammar VARCHAR(255),
+                    concept_cn VARCHAR(255),
+                    concept_en VARCHAR(255),
+                    topic_cn VARCHAR(125),
+                    topic_en VARCHAR(125),
+                    parent_cn VARCHAR(255),
+                    parent_en VARCHAR(255),
+                    image VARCHAR(255),
+                    mp3 VARCHAR(255),
+                    notes TEXT,
+                    hsk INT UNSIGNED DEFAULT NULL,
+                    ll VARCHAR(255) DEFAULT NULL,
+                    zoom INT UNSIGNED DEFAULT NULL,
+                    PRIMARY KEY (id),
+                    /*FOREIGN KEY (topic_cn, topic_en) REFERENCES topics(simplified, english),*/
+                    FOREIGN KEY (grammar) REFERENCES grammar(english),
+                    /*FOREIGN KEY (hsk) REFERENCES hsk(level),*/
+                    INDEX (simplified),
+                    INDEX (traditional),
+                    INDEX (english)
+    )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+    ;
 
 /*
  * Table for illustration licenses
