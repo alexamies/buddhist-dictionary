@@ -7,9 +7,7 @@
  * There are three dictionaries and related tables:
  *
  * words: A Chinese to English word dictionary (not here yet).
- *     The hsk levels are pre-2010 levels. They are indicative of the frequency
- *     of use and difficulty of the word in modern Chinese. I hope to update them 
- *     to the new levels are time permits.
+ *     Tables include hsk, ...
  *
  * characters: A character dictionary. Includes tables characters. Includes
  *     tables characters, character_rend, character_types, 
@@ -31,6 +29,56 @@
  */
 
 use cse_dict;
+
+/*
+ * Table for grammar for Chinese words.
+ *
+ * Each word in the words table should have an entry that matches a record
+ * in the grammar table.
+ */
+CREATE TABLE grammar (english VARCHAR(125) NOT NULL,
+                      PRIMARY KEY (english)
+                     )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+;
+
+/*
+ * Table for Chinese Language Proficiency Test (HSK)
+ *
+ * The hsk levels are pre-2010 levels. They are indicative of the frequency
+ * of use and difficulty of the word in modern Chinese. I hope to update them 
+ * to the new levels are time permits.
+ *
+ * level One of the four levels (1, 2, 3, 4) for the pre-2010 HSK.
+ */
+CREATE TABLE hsk (level INT UNSIGNED NOT NULL,
+                  PRIMARY KEY (level)
+                 )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+;
+
+/*
+ * Table for topics
+ *
+ * Words can be classified into topics. This helps the user know the context within
+ * which a word is used.
+ *
+ * simplified:  Simplified Chinese text describing the topic
+ * english:     English text describing the topic
+ * url:	        The URL of a page to display information about the topic
+ * title:       The title of the page to display information about the topic
+ */
+CREATE TABLE topics (simplified VARCHAR(125) NOT NULL,
+                     english VARCHAR(125) NOT NULL,
+                     url VARCHAR(125),
+                     title TEXT,
+                     PRIMARY KEY (simplified, english)
+                    )
+    CHARACTER SET UTF8
+    COLLATE utf8_general_ci
+;
 
 /*
  * Table for illustration licenses
