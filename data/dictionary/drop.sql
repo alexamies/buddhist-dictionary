@@ -21,4 +21,8 @@ drop table font_names;
 drop table variants;
 drop table characters;
 drop table character_types;
-drop table radicals
+drop table radicals;
+drop table illustrations;
+drop table authors;
+drop table licenses;
+

@@ -6,7 +6,10 @@
 /*
  * There are three dictionaries and related tables:
  *
- * words: A Chinese to English word dictionary (not here yet)
+ * words: A Chinese to English word dictionary (not here yet).
+ *     The hsk levels are pre-2010 levels. They are indicative of the frequency
+ *     of use and difficulty of the word in modern Chinese. I hope to update them 
+ *     to the new levels are time permits.
  *
  * characters: A character dictionary. Includes tables characters. Includes
  *     tables characters, character_rend, character_types, 
@@ -97,7 +100,7 @@ CREATE TABLE illustrations (medium_resolution VARCHAR(255),
 CREATE TABLE radicals (id INT UNSIGNED NOT NULL AUTO_INCREMENT,
                        traditional VARCHAR(10) NOT NULL,
                        simplified VARCHAR(10),
-                       pinyin VARCHAR(10),
+                       pinyin VARCHAR(30),
                        strokes INT UNSIGNED NOT NULL,
                        simplified_strokes INT UNSIGNED,
                        other_forms VARCHAR(255),
@@ -143,12 +146,11 @@ CREATE TABLE characters (unicode INT UNSIGNED NOT NULL,
                          c VARCHAR(10) NOT NULL,
                          pinyin VARCHAR(80),
                          radical VARCHAR(10),
-                         strokes INT UNSIGNED NOT NULL,
-                         other_strokes INT UNSIGNED NOT NULL,
+                         strokes INT UNSIGNED,
+                         other_strokes INT UNSIGNED,
                          english VARCHAR(255) NOT NULL,
                          notes TEXT,
                          type VARCHAR(125) NOT NULL,
-                         hangul VARCHAR(10),
                          PRIMARY KEY (unicode),
                          FOREIGN KEY (type) REFERENCES character_types(type),
                          UNIQUE (c),

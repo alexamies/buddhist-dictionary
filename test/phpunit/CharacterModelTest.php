@@ -136,5 +136,7 @@ class CharacterModelTest extends PHPUnit_Framework_TestCase {
         $this->assertEquals($relationType, $variant->getRelationType());
     }
 
+    // TO DO: add variant dao tests
+
 }
 ?>
