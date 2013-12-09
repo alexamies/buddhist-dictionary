@@ -5,17 +5,17 @@
 管理	Administration	\N	\N
 附类	Affixes	\N	\N
 农业	Agriculture	\N	\N
-人类学	Anthropology	\N	\N
+人类学	Anthropology	http://chinesenotes.com/ethnic_groups.php	Chinese Ethnic Groups
 建筑学	Architecture	\N	\N
-艺术	Art	\N	\N
+艺术	Art	http://chinesenotes.com/decorative_designs.php	Decorative Designs in Chinese Art
 天文	Astronomy	\N	\N
 试行	Attempt	\N	\N
 航空	Aviation	\N	\N
 美丽	Beauty	\N	\N
 生物学	Biology	\N	\N
 植物学	Botany	\N	\N
-佛教	Buddhism	\N	\N
-书法	Calligraphy	\N	\N
+佛教	Buddhism	http://chinesenotes.com/buddhism_intro.html	List of Basic Buddhist Terms
+书法	Calligraphy	http://chinesenotes.com/calligraphy.php	Introduction to Calligraphy
 种类	Category	\N	\N
 特点	Characteristic	\N	\N
 化学	Chemistry	\N	\N
@@ -24,7 +24,7 @@
 中医	Chinese Medicine	\N	\N
 基督教	Christianity	\N	\N
 土木	Civil Engineering	\N	\N
-古文	Classical Chinese	\N	\N
+古文	Classical Chinese	http://chinesenotes.com/classical_chinese.php	Introduction to Classical Chinese
 气候	Climate	\N	\N
 服装	Clothing	\N	\N
 口语	Colloquial	\N	\N
@@ -67,10 +67,10 @@
 地理	Geography	\N	\N
 地质	Geology	\N	\N
 政府	Government	\N	\N
-语法	Grammar	\N	\N
+语法	Grammar	http://chinesenotes.com/grammar.php	An Introduction to Chinese Grammar
 健康	Health	\N	\N
 帮助	Help	\N	\N
-历史	History	\N	\N
+历史	History	http://chinesenotes.com/timeline.php	Chinese History Database
 荣誉	Honor	\N	\N
 家庭用品	Household Article	\N	\N
 幽默	Humor	\N	\N
@@ -116,7 +116,7 @@
 摄影术	Photography	\N	\N
 物理	Physics	\N	\N
 偏旁	Pianpang	\N	\N
-地方	Places	\N	\N
+地方	Places	http://chinesenotes.com/maps.php	Maps
 诗	Poetry	\N	\N
 政治	Politics	\N	\N
 位	Position	\N	\N
@@ -125,7 +125,7 @@
 心理学	Psychology	\N	\N
 公安	Public Security	\N	\N
 数量	Quantity	\N	\N
-部首	Radicals	\N	\N
+部首	Radicals	http://chinesenotes.com/ref_pianpang.php	Names of Radicals and Character Parts
 联系	Relationship	\N	\N
 宗教	Religion	\N	\N
 重复	Repetition	\N	\N
