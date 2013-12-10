@@ -93,6 +93,12 @@ img { border: 0; }
     font-style: italic
 }
 
+/* Search page */
+div.search {
+	text-align: center;
+  	padding: 10px;
+}
+
 /* Tables */
 table {
     background-color: #EEEEEE;
@@ -117,24 +123,38 @@ td {
 
 /* Character Detail */
 #largeChar {
-	font-size: 100pt;
+    background-color: #EEEEEE;
+    font-size: 100pt;
+    padding: 0em;
 }
 
 #largeCharacter {
-	text-align: center;
+    background-color: #EEEEEE;
+    text-align: center;
 }
 
 #charDetailPinyin {
-	text-align: center;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+p.intable {
+    background-color: #EEEEEE;
+    padding: 0em;
+}
+
+form.intable {
+    background-color: #EEEEEE;
+    padding: 0em;
 }
 
 /* Tool Tips */
 #toolTip {
-	position: absolute;
-	max-width: 200px;
-	display: none; 
-	border: solid gray 1px;
-	background-color: #FF8;
-	padding: 5px;
+    position: absolute;
+    max-width: 200px;
+    display: none; 
+    border: solid gray 1px;
+    background-color: #FF8;
+    padding: 5px;
 }
 

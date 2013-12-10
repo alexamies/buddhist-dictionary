@@ -35,6 +35,7 @@ class WordsDAO {
      * Gets the word for the given Chinese text.
      *
      * @param $word simplified Chinese, traditional Chinese, or English text for the word
+     * @param $matchType If this string equals 'exact' then an exact match will be searched
      * @return An array of Word objects
      */
     function getWords($word, $matchType) {
@@ -153,8 +154,8 @@ class WordsDAO {
                                 $row[4], 
                                 $row[5], 
                                 $row[6], 
-                                $row[7], 
                                 $conceptEn, 
+                                $row[7], 
                                 $row[8], 
                                 $row[9], 
                                 $row[10], 
@@ -211,7 +212,8 @@ class WordsDAO {
     }
 	
     /**
-     * Gets the word for the given id
+     * Gets the word for the given id.
+     *
      * @param $id Unique identifier for the word
      * @return An array of Word objects
      */
@@ -220,92 +222,76 @@ class WordsDAO {
         $databaseUtils->getConnection();
         // Perform SQL select operation 
         $id = $databaseUtils->escapeString($id);
-		$query = 
-				"SELECT simplified, traditional, pinyin, english, grammar, concept_cn, concept_en, topic_cn, " .
-				"topic_en, parent_cn, parent_en, image, mp3, notes, hsk, ll, zoom " .
-				"FROM words " .
-				"WHERE id = '$id'"
-				;
-		//error_log("getWordForId, query: " . $query);
-		$result =& $databaseUtils->executeQuery($query);
-		$words = array();
-		if ($row = $databaseUtils->fetch_array($result)) {
-			$words[] = new Word(
-					$id,
-					$row[0], 
-					$row[1], 
-					$row[2], 
-					$row[3], 
-					$row[4], 
-					$row[5], 
-					$row[6], 
-					$row[7], 
-					$row[8], 
-					$row[9], 
-					$row[10], 
-					$row[11],
-					$row[12],
-					$row[13],
-					$row[14],
-					$row[15],
-					$row[16]
-					);
-		} else {
-			error_log("getWordForId, no results found for id: $id");
-		}
-		//error_log("getWordForId, results returned: " . count($words));
-		$databaseUtils->free_result($result);
-
-		$databaseUtils->close();
-		return $words;
-	}
+        $query = "SELECT simplified, traditional, pinyin, english, grammar, concept_cn, concept_en, topic_cn, " .
+                 "topic_en, parent_cn, parent_en, image, mp3, notes " .
+                 "FROM words " .
+                 "WHERE id = '$id'";
+        //error_log("getWordForId, query: " . $query);
+        $result =& $databaseUtils->executeQuery($query);
+        $words = array();
+        if ($row = $databaseUtils->fetch_array($result)) {
+        $words[] = new Word($id,
+                            $row[0], 
+                            $row[1], 
+                            $row[2], 
+                            $row[3], 
+                            $row[4], 
+                            $row[5], 
+                            $row[6], 
+                            $row[7], 
+                            $row[8], 
+                            $row[9], 
+                            $row[10], 
+                            $row[11],
+                            $row[12],
+                            $row[13]);
+        } else {
+            error_log("getWordForId, no results found for id: $id");
+        }
+        //error_log("getWordForId, results returned: " . count($words));
+        $databaseUtils->free_result($result);
+        $databaseUtils->close();
+        return $words;
+    }
 	
-	/** getWordForChinese
-	 * Gets the word for the given english text
-	 * @param $english english text for the word
-	 * @return An array of Word objects
-	 */
-	function getWordForEnglish($english) {
-
-		$databaseUtils = new DatabaseUtils();
-		$databaseUtils->getConnection();
-
-		// Perform SQL select operation 
-		$query = 
-				"SELECT id, simplified, traditional, pinyin, grammar, concept_cn, concept_en, topic_cn, " .
-				"topic_en, parent_cn, parent_en, image, mp3, notes " .
-				"FROM words " .
-				"WHERE english = '$english'"
-				;
-		//error_log("getWordForId, query: " . $query);
-		$result =& $databaseUtils->executeQuery($query);
-		$words = array();
-		if ($row = $databaseUtils->fetch_array($result)) {
-			$words[] = new Word(
-					$row[0], 
-					$row[1], 
-					$row[2], 
-					$row[3], 
-					$english,
-					$row[4], 
-					$row[5], 
-					$row[6], 
-					$row[7], 
-					$row[8], 
-					$row[9], 
-					$row[10], 
-					$row[11],
-					$row[12],
-					$row[13]
-					);
-		}
-		//error_log("getWordForEnglish, results returned: " . count($words));
-		$databaseUtils->free_result($result);
-
-		$databaseUtils->close();
-
-		return $words;
-	}
-
+    /** 
+     * Gets the word for the given english text.
+     *
+     * @param $english english text for the word
+     * @return An array of Word objects
+     */
+    function getWordForEnglish($english) {
+        $databaseUtils = new DatabaseUtils();
+        $databaseUtils->getConnection();
+        // Perform SQL select operation 
+        $query = "SELECT id, simplified, traditional, pinyin, grammar, concept_cn, concept_en, topic_cn, " .
+                 "topic_en, parent_cn, parent_en, image, mp3, notes " .
+                 "FROM words " .
+                 "WHERE english = '$english'";
+        //error_log("getWordForId, query: " . $query);
+        $result =& $databaseUtils->executeQuery($query);
+        $words = array();
+        if ($row = $databaseUtils->fetch_array($result)) {
+            $words[] = new Word($row[0], 
+                                $row[1], 
+                                $row[2], 
+                                $row[3], 
+                                $english,
+                                $row[4], 
+                                $row[5], 
+                                $row[6], 
+                                $row[7], 
+                                $row[8], 
+                                $row[9], 
+                                $row[10], 
+                                $row[11],
+                                $row[12],
+                                $row[13]);
+        }
+        //error_log("getWordForEnglish, results returned: " . count($words));
+        $databaseUtils->free_result($result);
+        $databaseUtils->close();
+        return $words;
+    }
 }
 ?>
