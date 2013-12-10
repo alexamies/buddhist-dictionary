@@ -10,11 +10,6 @@ BASE_URL = 'http://chinesenotes.com/images/'
 BASE_DIR = '../web/images/'
 
 
-def main():
-    illustrations = LoadIllustrations()
-    CopyFiles(illustrations)
-
-
 def CopyFiles(illustrations):
     """Copies files from the web site to the local system.
 
@@ -57,6 +52,39 @@ def LoadIllustrations():
     return illustrations
 
 
+def LoadIllustrationsAsDict():
+    """Loads the illustrations text file into a dictionary.
+
+    The medium_resolution field is used as the key for the entries.
+    
+    Returns:
+        A dictionary of illustration entries.
+    """
+    dirname = '../data/dictionary/'
+    filename = 'illustrations.txt'
+    fullpath = '%s%s' % (dirname, filename)
+    f = open(fullpath, 'r')
+    image_dict = {}
+    for line in f:
+        tokens = line.split('\t')
+        if tokens:
+            entry = {}
+            medium_resolution = tokens[0]
+            entry['medium_resolution'] = medium_resolution
+            if len(tokens) > 1:
+                entry['title_zh_cn'] = tokens[1]
+            if len(tokens) > 2:
+                entry['title_en'] = tokens[2]
+            if len(tokens) > 3:
+                entry['author'] = tokens[3]
+            if len(tokens) > 4:
+                entry['license'] = tokens[4]
+            if len(tokens) > 5:
+                entry['high_resolution'] = tokens[5]
+            image_dict[medium_resolution] = entry
+    return image_dict
+
+
 def WriteFile(imagename):
     if (imagename.find(r'\N') == -1) and (not os.path.isfile(imagename)):
         try:
@@ -68,6 +96,14 @@ def WriteFile(imagename):
                 f.write(image)
         except URLError as e:
             print("Problem copying imagename '%s', reason: %s" % (imagename, e.reason))
+
+"""Command line entry point.
+
+No command line arguments are supported yet.
+"""
+def main():
+    illustrations = LoadIllustrations()
+    CopyFiles(illustrations)
 
 
 if __name__ == "__main__":

@@ -10,6 +10,7 @@ import sys
 DIR_NAME = '../data/dictionary/'
 WORDS_FILE = 'words.txt'
 PLACES_FILE = 'places.txt'
+HSK_FILE = 'hsk_words.txt'
 
 
 def GetHSK(words):
@@ -68,6 +69,26 @@ def GetPlaces(words):
     return places
 
 
+def ExportHSK(entries):
+    """Writes HSK words out to the hsk_words file.
+
+    Args:
+        entries: List of words have HSK levels.
+    """
+    fullpath = '%s%s' % (DIR_NAME, HSK_FILE)
+    print('Writing %d entries to file %s.' % (len(entries), fullpath))
+    with open(fullpath, 'w') as f:
+        for entry in entries:
+            iden = entry['id']
+            simplified = entry['simplified']
+            traditional = entry['traditional']
+            english = entry['english']
+            hsk = entry['hsk']
+            f.write('%d\t%s\t%s\t%s\t%s\n' % (iden, simplified, traditional, 
+                                                  english, hsk))
+        f.close()
+
+
 def ExportPlaces(places):
     """Writes words that are places out to the place file.
 
@@ -88,6 +109,44 @@ def ExportPlaces(places):
                 ll = place['ll']
             if 'zoom' in place and place['zoom'].strip():
                 zoom = place['zoom']
+            f.write('%d\t%s\t%s\t%s\t%s\t%s\n' % (iden, simplified, traditional, 
+                                                  english, ll, zoom))
+        f.close()
+
+
+def ExportWords(words):
+    """Exports the words to a file.
+    
+    Removes additional fields for words (hsk, ll, zoom) and unwanted images. 
+
+    Args:
+        words: List of words loaded to write to the file.
+
+    """
+    fullpath = '%s%s' % (DIR_NAME, PLACES_FILE)
+    print('%d words being exported to file %s.' % (len(words), fullpath))
+    with open(fullpath, 'w') as f:
+        for word in words:
+            iden = word['id']
+            simplified = word['simplified']
+            traditional = word['traditional']
+            pinyin = word['pinyin']
+            english = word['english']
+            grammar = word['grammar']
+            concept_cn = word['concept_cn']
+            concept_en = word['concept_en']
+            topic_cn = word['topic_cn']
+            topic_en = word['topic_en']
+            parent_cn = word['parent_cn']
+            parent_en = word['parent_en']
+            image = word['image']
+            mp3 = word['mp3']
+            iden = word['id']
+            iden = word['id']
+            iden = word['id']
+            iden = word['id']
+            iden = word['id']
+            iden = word['id']
             f.write('%d\t%s\t%s\t%s\t%s\t%s\n' % (iden, simplified, traditional, 
                                                   english, ll, zoom))
         f.close()
@@ -170,6 +229,7 @@ def main():
             print('Exporting hsk file')
             words = LoadWords()
             entries = GetHSK(words)
+            ExportHSK(entries)
         else:
             PrintUsage()
             sys.exit(2)

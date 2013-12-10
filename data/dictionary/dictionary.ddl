@@ -119,12 +119,9 @@ CREATE TABLE words (id INT UNSIGNED NOT NULL,
                     image VARCHAR(255),
                     mp3 VARCHAR(255),
                     notes TEXT,
-                    hsk INT UNSIGNED DEFAULT NULL,
-                    ll VARCHAR(255) DEFAULT NULL,
-                    zoom INT UNSIGNED DEFAULT NULL,
                     PRIMARY KEY (id),
                     /*FOREIGN KEY (topic_cn, topic_en) REFERENCES topics(simplified, english),*/
-                    FOREIGN KEY (grammar) REFERENCES grammar(english),
+                    /*FOREIGN KEY (grammar) REFERENCES grammar(english),*/
                     /*FOREIGN KEY (hsk) REFERENCES hsk(level),*/
                     INDEX (simplified),
                     INDEX (traditional),
