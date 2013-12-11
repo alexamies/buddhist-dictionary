@@ -32,7 +32,7 @@
               {% if  entry.type == 'site' %}
               <td><a href="{{ entry.uri}}">{{ entry.source_name }}</a></td>
               {% else %}
-              <td>{{ entry.source_name }}</td>
+              <td><a href="corpus_entry.php?text={{ entry.source_name }}">{{ entry.source_name }}</a></td>
               {% endif %}
               <td>{{ entry.language }}</td>
               <td>{{ entry.doc_type }}</td>
