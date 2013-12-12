@@ -20,7 +20,7 @@ There are three parts to the project:
    There is also a corpus directory, which contains the literature to build the vocabulary
    from. These are Chinese and Sanksrit texts from the Buddhist canon and related 
    collections. The corpus documents are the source of the vocabulary.  
- 3. Command line tools. For building vocabulary. These are in Python.  
+3. Command line tools. For building vocabulary. These are in Python.  
 
 The license for the web site and dictionary content is Creative Commons 
 Attribution-Share Alike 3.0. The license for source code and markup templates, 
