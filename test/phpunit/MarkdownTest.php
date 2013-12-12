@@ -28,12 +28,20 @@ class MarkdownTest extends PHPUnit_Framework_TestCase {
         $this->assertTrue(strpos($html, '<p>Good bye</p>') > -1);
     }
 
-    public function testLinks() {
-        $text = "[an example](http://example.com/ 'Title')";
+    public function testLinks1() {
+        $text = '[an example](http://example.com/ title="Title")';
         $markdown = new Markdown($text);
         $html = $markdown->getHTML();
-        $expected = "<a href='http://example.com/' title='Title'>an example</a>";
-        $this->assertEqual(strpos($expected, $html);
+        $expected = '<a href="http://example.com/" title="Title">an example</a>';
+        $this->assertEquals($expected, $html);
+    }
+
+    public function testLink2() {
+        $text = "[an example](http://example.com/ title='Title')";
+        $markdown = new Markdown($text);
+        $html = $markdown->getHTML();
+        $expected = '<a href="http://example.com/" title="Title">an example</a>';
+        $this->assertEquals($expected, $html);
     }
 
 }
