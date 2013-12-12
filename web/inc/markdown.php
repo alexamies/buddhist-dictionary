@@ -28,6 +28,7 @@ class Markdown {
     $html = $this->replaceHeaders($html);
     $html = $this->formParagraphs($html);
     $html = $this->replaceLinks($html);
+    $html = $this->cbetaSpecial($html);
     return $html;
   }
 
@@ -37,7 +38,7 @@ class Markdown {
    * @return A string value
    */
   protected function formParagraphs($text) {
-    $html = preg_replace('{^(.*)\n\s*\n}m', "<p>$1</p>", $text);
+    $html = preg_replace('{^(.*)\n\s*\n}m', "<p>$1</p>\n", $text);
     return $html;
   }
 
@@ -84,14 +85,29 @@ class Markdown {
    * @return A string value
    */
   protected function replaceLinks($markdown) {
-    $html = preg_replace('{\[(.*)\]\s*\((.*)\stitle="(.*)"\)}xm', 
+    $html = preg_replace('{\[(.*)\]\s*\((.*)\s+"(.*)"\)}xm', 
                          '<a href="$2" title="$3">$1</a>', 
                          $markdown);  
-    $html = preg_replace('{\[(.*)\]\s*\((.*)\stitle=\'(.*)\'\)}xm', 
+    $html = preg_replace('{\[(.*)\]\s*\((.*)\s+\'(.*)\'\)}xm', 
                          '<a href="$2" title="$3">$1</a>', 
                          $html);  
     return $html;
   }
 
+  /**
+   * Special conversion rules for documents from CBETA.
+   *
+   * H1 and H2 Headers are both mapped to H2 headers
+   * So far the only markdown styles supported are:
+   *
+   * # Header 1
+   * ## Header 2
+   *
+   * @return A string value
+   */
+  protected function cbetaSpecial($text) {
+    $html = preg_replace('{^【(.*)}', "【$1<br/>\n", $text);  
+    return $html;
+  }
 }
 ?>
