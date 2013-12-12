@@ -1,22 +1,10 @@
-"""Command line to compile a vocabulary from a text file.
+"""Command line to compile a vocabulary from a text file. =====================
 
 The words in the text file will be compared agains the Sanskrit dictionary.
 """
 import sys
 
-
-def main():
-    if len(sys.argv) < 2:
-        print('Please supply the name of a file.')
-        sys.exit(2)
-    else:
-        infile = sys.argv[1]
-        print('Compiling vocabulary from file: %s' % (infile))
-        ddirname = '../data/dictionary/'
-        dfilename = 'sanskrit.txt'
-        fullpath = '%s%s' % (ddirname, dfilename)
-        sdict = OpenDictionary(fullpath)
-        BuildVocabulary(infile, sdict)
+from bdict import SanskritVocab
 
 
 def BuildVocabulary(infile, sdict):
@@ -42,7 +30,7 @@ def BuildVocabulary(infile, sdict):
     PrintVocab(known_words)
     print()
     print('New words')
-    PrintVocab(new_words)
+    return new_words
 
 
 def OpenDictionary(fullpath):
@@ -64,11 +52,19 @@ def OpenDictionary(fullpath):
     return sdict
 
 
-def PrintVocab(words):
-    """Prints the set of words to the console
-    """
-    for word in words:
-      print(word)
+def main():
+    if len(sys.argv) < 2:
+        print('Please supply the name of a file.')
+        sys.exit(2)
+    else:
+        infile = sys.argv[1]
+        print('Compiling vocabulary from file: %s' % (infile))
+        ddirname = '../data/dictionary/'
+        dfilename = 'sanskrit.txt'
+        fullpath = '%s%s' % (ddirname, dfilename)
+        sdict = OpenDictionary(fullpath)
+        new_words = BuildVocabulary(infile, sdict)
+        SanskritVocab.PrintVocab(new_words)
 
 
 if __name__ == "__main__":
