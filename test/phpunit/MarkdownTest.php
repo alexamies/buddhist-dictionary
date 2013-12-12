@@ -45,7 +45,7 @@ class MarkdownTest extends PHPUnit_Framework_TestCase {
     }
 
     public function testLink3() {
-        $text = '[University of the West Sanskrit Buddhist Canon](http://www.dsbcproject.org./node/6348 "Sanskrit Buddhist Canon")';
+        $text = '[University of the West Sanskrit Buddhist Canon](http://www.dsbcproject.org./node/6348/ "Sanskrit Buddhist Canon")';
         $markdown = new Markdown($text);
         $html = $markdown->getHTML();
         $expected = '<a href="http://www.dsbcproject.org./node/6348/" title="Sanskrit Buddhist Canon">University of the West Sanskrit Buddhist Canon</a>';
@@ -53,10 +53,28 @@ class MarkdownTest extends PHPUnit_Framework_TestCase {
     }
 
     public function testCBETA1() {
+        $text = "T08n0235_p0748c15(00)║\n";
+        $markdown = new Markdown($text);
+        $html = $markdown->getHTML();
+        $expected = "T08n0235_p0748c15(00)║<br/>\n";
+        $this->assertEquals($expected, $html);
+    }
+
+    public function testCBETA2() {
         $text = "【經錄部類】〔般若部類〕〔般若部〕\n";
         $markdown = new Markdown($text);
         $html = $markdown->getHTML();
-        $expected = '【經錄部類】〔般若部類〕〔般若部〕<br/>\n';
+        $expected = "【經錄部類】〔般若部類〕〔般若部〕<br/>\n";
+        $this->assertEquals($expected, $html);
+    }
+
+    public function testCBETA3() {
+        $text = "【T08n0235_p0748c15(00)║\n" .
+                "T08n0235_p0748c16(00)║　　No. 235 [Nos. 220(9), 236-239]\n";
+        $markdown = new Markdown($text);
+        $html = $markdown->getHTML();
+        $expected = "【T08n0235_p0748c15(00)║<br/>\n" .
+                    "T08n0235_p0748c16(00)║　　No. 235 [Nos. 220(9), 236-239]<br/>\n";
         $this->assertEquals($expected, $html);
     }
 

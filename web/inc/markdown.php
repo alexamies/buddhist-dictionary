@@ -21,7 +21,7 @@ class Markdown {
    *
    * This is the method that a client should call to transform markdown to HTML.
    *
-   * @return A string value
+   * @return A formatted string
    */
   public function getHTML() {
     $html = $this->prepareDoc($this->text);
@@ -35,7 +35,7 @@ class Markdown {
   /**
    * Form paragraphs from blank lines.
    *
-   * @return A string value
+   * @return A formatted string
    */
   protected function formParagraphs($text) {
     $html = preg_replace('{^(.*)\n\s*\n}m', "<p>$1</p>\n", $text);
@@ -47,7 +47,7 @@ class Markdown {
    *
    * Replace BOM, Mac and Windows to Unix linebreaks
    *
-   * @return A string value
+   * @return A formatted string
    */
   protected function prepareDoc($text) {
     $text = preg_replace('{^\xEF\xBB\xBF|\x1A}', '', $text);
@@ -64,7 +64,7 @@ class Markdown {
    * # Header 1
    * ## Header 2
    *
-   * @return A string value
+   * @return A formatted string
    */
   protected function replaceHeaders($text) {
     $html = preg_replace('{^(\#{1,2})[ ]+(.+?)[ ]*\#*\n+}xm', "<h2>$2</h2>\n", $text);  
@@ -82,7 +82,7 @@ class Markdown {
    *
    * <a href='http://example.com/' title="Title">an example</a>
    *
-   * @return A string value
+   * @return A formatted string
    */
   protected function replaceLinks($markdown) {
     $html = preg_replace('{\[(.*)\]\s*\((.*)\s+"(.*)"\)}xm', 
@@ -97,16 +97,13 @@ class Markdown {
   /**
    * Special conversion rules for documents from CBETA.
    *
-   * H1 and H2 Headers are both mapped to H2 headers
-   * So far the only markdown styles supported are:
-   *
-   * # Header 1
-   * ## Header 2
-   *
-   * @return A string value
+   * Adds line breaks for certain styles of lines in the 
+   * text.
+   * @return A formatted string
    */
   protected function cbetaSpecial($text) {
-    $html = preg_replace('{^【(.*)}', "【$1<br/>\n", $text);  
+    $html = preg_replace('/^[【](.*)$/u', '${0}<br/>', $text);  
+    $html = preg_replace('/^T(.*)$/u', '${0}<br/>', $html);  
     return $html;
   }
 }

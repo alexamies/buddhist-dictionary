@@ -1,14 +1,26 @@
+# Diamond Sutra Chinese Text
+
+Description: The Chinese text of the Diamond Sutra
+
+Character Set: Traditional Chinese
+
+Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org/result/normal/T08/0235_001.htm "CBETA web site")
+
+Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
+
 【經錄部類】〔般若部類〕〔般若部〕
 【經文資訊】大正新脩大藏經 第八冊 No. 235《金剛般若波羅蜜經》
 【版本記錄】CBETA 電子佛典 V1.35 (Big5) 普及版，完成日期：2010/03/18
 【編輯說明】本資料庫由中華電子佛典協會（CBETA）依大正新脩大藏經所編輯
 【原始資料】佛教電腦資訊庫功德會提供，CBETA 自行掃瞄辨識，佛教電腦資訊庫功德會提供新式標點，其他
 【其他事項】本資料庫可自由免費流通，詳細內容請參閱【中華電子佛典協會版權宣告】
-# Taisho Tripitaka Vol. 8, No. 235 金剛般若波羅蜜經
-# CBETA Chinese Electronic Tripitaka V1.35 (Big5) Normalized Version, Release Date: 2010/03/18
-# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
-# Source material obtained from: Text as provided by Electronic Buddhadharma Society (EBS), CBETA OCR Group, Punctuated text as provided by Electronic Buddhadharma Society (EBS), Others
-# Distributed free of charge. For details please read at The Copyright of CBETA
+
+Taisho Tripitaka Vol. 8, No. 235 金剛般若波羅蜜經
+CBETA Chinese Electronic Tripitaka V1.35 (Big5) Normalized Version, Release Date: 2010/03/18
+Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+Source material obtained from: Text as provided by Electronic Buddhadharma Society (EBS), CBETA OCR Group, Punctuated text as provided by Electronic Buddhadharma Society (EBS), Others
+Distributed free of charge. For details please read at The Copyright of CBETA
+
 T08n0235_p0748c15(00)║
 T08n0235_p0748c16(00)║　　No. 235 [Nos. 220(9), 236-239]
 T08n0235_p0748c17(00)║金剛般若波羅蜜經

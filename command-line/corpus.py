@@ -49,8 +49,6 @@ def LoadCorpusMeta():
                 entry['start'] = tokens[8]
             if len(tokens) > 9:
                 entry['end'] = tokens[9]
-            if len(tokens) > 10:
-                entry['description'] = tokens[10]
             corpus.append(entry)
     return corpus
 
