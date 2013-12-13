@@ -28,7 +28,7 @@ def BuildVocabulary(infile, sdict):
     PrintVocab(known_words)
     print()
     print('New words')
-   PrintVocab(new_words)
+    PrintVocab(new_words)
 
 
 def PrintVocab(words):

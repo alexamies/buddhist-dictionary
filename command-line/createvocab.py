@@ -7,32 +7,6 @@ import sys
 from bdict import SanskritVocab
 
 
-def BuildVocabulary(infile, sdict):
-    """Builds the list of known and unknown words from the input file.
-    """
-    f = open(infile, 'r')
-    wc = 0
-    known_words = set()
-    new_words = set()
-    for line in f:
-        if line.find('---END---') != -1:
-            break
-        words = line.split()
-        wc += len(words)
-        for word in words:
-            if word in sdict:
-                known_words.add(word)
-            else:
-                new_words.add(word)
-    print('Word count: %d, known words: %d, new words: %d' % 
-          (wc, len(known_words), len(new_words)))
-    print('Known words:')
-    PrintVocab(known_words)
-    print()
-    print('New words')
-    return new_words
-
-
 def OpenDictionary(fullpath):
     """Reads the dictionary into memory
     """
@@ -63,8 +37,7 @@ def main():
         dfilename = 'sanskrit.txt'
         fullpath = '%s%s' % (ddirname, dfilename)
         sdict = OpenDictionary(fullpath)
-        new_words = BuildVocabulary(infile, sdict)
-        SanskritVocab.PrintVocab(new_words)
+        SanskritVocab.BuildVocabulary(infile, sdict)
 
 
 if __name__ == "__main__":
