@@ -1,13 +1,12 @@
 <?php
   // A page to display a corpus entry based in mark down or plain text.
+require_once 'inc/markdown.php';
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
-    <link rel="shortcut icon" href="http://nantien.edu.au/sites/default/files/Nan%20Tien%20Institute%20Logo.jpg" 
-          type="image/jpeg" />
     <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
@@ -20,17 +19,22 @@
       <a class="menu" href="about.html">About</a>
     </p>
     <div class="breadcrumbs">
-      <a href="index.html">Corpus</a> &gt; 
+      <a href="corpus.html">Corpus</a> &gt; 
       Corpus Entry
     </div>
     <div class="content">
 <?php
-
 if (isset($_REQUEST['text'])) {
     $text = $_REQUEST['text'];
-    print($text);
+} elseif (isset($_REQUEST['uri'])) {
+    $uri = $_REQUEST['uri'];
+    $text = file_get_contents('corpus/' . $uri);
 } else {
-    print();
+    print("<p>No text to display.</p>");
+}
+if (isset($text)) {
+    $markdown = new Markdown($text);
+    print($markdown->getHTML());
 }
 ?>
       <hr/>

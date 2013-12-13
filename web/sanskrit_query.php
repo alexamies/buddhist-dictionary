@@ -7,8 +7,6 @@
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
-    <link rel="shortcut icon" href="http://nantien.edu.au/sites/default/files/Nan%20Tien%20Institute%20Logo.jpg" 
-          type="image/jpeg" />
     <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>

@@ -3,33 +3,31 @@
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
-    <link rel="shortcut icon" href="http://nantien.edu.au/sites/default/files/Nan%20Tien%20Institute%20Logo.jpg" 
-          type="image/jpeg" />
     <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
-    <img id="logo" src="images/NTI-logo_2.png" alt="Home" />
     <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
     <p class="menu">
       <a class="menu" href="index.html">Home</a> | 
       <a class="menu" href="tools.html">Tools</a> | 
       <a class="menu" href="corpus.html">Corpus</a> | 
       <a class="menu" href="dict_resources.html">Resources</a> | 
-      <span class="selected">About</span>
+      <a class="menu" href="about.html">About</a>
     </p>
+    <div class="breadcrumbs">
+      <a href="dict_resources.html">Resources</a> &gt; 
+      FAQ
+    </div>
     <div class="content">
       <p>
         REDESIGN - preview
       </p>
-      <p>
-        Answers to more questions are in the <a href="faq.html">Frequently 
-        Asked Questions</a> page.
-      </p>
       <h2>Translation and Document Analysis Workflows</h2>
       <p>
         This page describes the ways that the web site can be used in 
-        different translation workflows. Besides translations document analysis
-        includes 
+        different translation workflows. Besides translations, document analysis
+        also includes 
+      </p>
       <ol>
         <li>
           Reading a document, historic or modern, and using the web site to 
@@ -41,21 +39,24 @@
           the content and nature of the document.
         </li>
         <li>
-          Commentary or annotations in a modern language, say for commentary 
-          in modern Chinese or English of a historic Chinese document. Additional
-          notes may be about the meanings of the words, the identity of certain
-          people or places, or notes about difficult phrases.
+          Commentary or annotations in a modern language, say for research 
+          of a historic Chinese document. The output of the research may be a paper 
+          in modern Chinese or English. Additional notes may be create about 
+          the meanings of the words, the identity of certain people or places, 
+          or notes about difficult phrases.
         </li>
         <li>
-          Translation memory. Tat is, once a new translation term or phrase has been
+          Translation memory. That is, once a new translation term or phrase has been
           discovered the user wants to record it so that it can be easily
           identified next time it is encountered.
         </li>
+        <li>
+          Reuse material found on the web site.
+        </li>
       </ol>
-      </p>
       <h3><a name="casual">Casual use for a private translation</a></h3>
       <p>
-        In this workflow the user does not join the dictionary GitHub project but simply
+        In this workflow a user does not join the GitHub project but simply
         wants to use the web site as tool for a private translation. The user has
         their own private copy of the document and does not wish to share it.
         The user wants to use the site to search word meanings and for translation
@@ -64,16 +65,66 @@
       <ol>
         <li>
           Phrases or words are cut-and-paste from the private Word document into the
-          word search to find the word meanings.
+          word or phrase search page to find the word meanings.
         </li>
         <li>
           If a word is found that is not in the dictionary then the user can open a
-          
+          <a href="https://github.com/alexamies/buddhist-dictionary/issues">GitHub issue</a> 
+          describing the word to add.
+          The content will periodically be incorporated into the dictionary by a 
+          project member and the web site refreshed.
         </li>
         <li>
-          
+          The user can copy material from the web site under the terms of the 
+          <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative 
+          Commons Attribution-Share Alike 3.0 License</a> license.
         </li>
       </ol>
+      <h3><a name="sense">Use to get the sense of a historic Chinese document</a></h3>
+      <p>
+        In this workflow the user does not have a deep knowledge of Chinese but wants
+        to get the overall sense of a document. The user is not a project member.
+      </p>
+      <ol>
+        <li>
+          If the document is short then phrases are cut-and-paste from the private 
+          Word document into the word or phrase search page to find the tabulated list of 
+          word meanings.
+        </li>
+        <li>
+          If the document is long the user downloads the project from 
+          <a href="https://github.com/alexamies/buddhist-dictionary"></a> and uses the 
+          command line tools to analyze the text. Please note that the command line tools
+          are not complete yet.
+        </li>
+      </ol>
+      <h3><a name="contributor">Project team member for a publicly available translation</a></h3>
+      <p>
+        In this workflow a user <a href="faq.html#join">joins the GitHub project</a>, uses the web site 
+        as tool for translation, and contributes the content back to the project.
+      </p>
+      <ol>
+        <li>
+          A new corpus document will be created. The orginal text will be saved as a
+          plain text document and a <a href="http://en.wikipedia.org/wiki/Markdown">mark down</a> 
+          document will be created to save links to words and commments about the 
+          content of the source document.
+        </li>
+        <li>
+          Phrases or words are cut-and-paste from the source document into the
+          word search to find the word meanings. As new words and additional
+          information about existings words are discovered the project member 
+          adds these directly to the text-based data files.
+        </li>
+        <li>
+          The GitHub content will periodically be incorporated into the web site by the
+          project member resulting in a the web site refresh.
+        </li>
+      </ol>
+      <p>
+        Answers to more questions are in the <a href="faq.html">Frequently 
+        Asked Questions</a> page.
+      </p>
       <hr/>
       <p>
         Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
