@@ -13,7 +13,7 @@ require_once 'words_dao.php' ;
 // require_once 'example_dao.php' ;
 require_once 'measure_word_dao.php' ;
 require_once 'synonym_dao.php' ;
-// require_once 'related_dao.php' ;
+require_once 'related_dao.php' ;
 require_once 'grammar_lookup.php';
   	
 /*
@@ -29,8 +29,8 @@ function utf8_urldecode($str) {
  * Get text for related words
  */
 function getRelatedText($term) {
-    // $relatedDAO = new RelatedDAO();
-    // $related = $relatedDAO->getRelated($term);
+    $relatedDAO = new RelatedDAO();
+    $related = $relatedDAO->getRelated($term);
     $text = "";
     if (isset($related) && count($related) > 0) {
         $text = "<div>Related: ";
