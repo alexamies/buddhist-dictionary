@@ -206,9 +206,9 @@ CREATE TABLE measure_words (
 CREATE TABLE synonyms (
 	simplified1 VARCHAR(125) NOT NULL,
 	simplified2 VARCHAR(125) NOT NULL,
-	PRIMARY KEY (simplified1, simplified2)/*,
+	PRIMARY KEY (simplified1, simplified2),
 	FOREIGN KEY (simplified1) REFERENCES words(simplified),
-	FOREIGN KEY (simplified2) REFERENCES words(simplified)*/
+	FOREIGN KEY (simplified2) REFERENCES words(simplified)
 	)
 	CHARACTER SET UTF8
 	COLLATE utf8_general_ci

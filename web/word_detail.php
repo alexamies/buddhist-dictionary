@@ -113,12 +113,9 @@ require_once 'inc/word_detail_top.php' ;
             "<span>\t&nbsp;&nbsp;&nbsp;\t" . $word->getEnglish() . "</span>" .
             "</p>\n");
       print("<div>" . 
-            "<a href='" . $_SERVER['SCRIPT_NAME'] . 
-            "?english=" . urlencode('traditional characters') . "'>" . 
-            "繁体" . "</a>" . 
-            " traditional: " . $word->getTraditional() . "</div>\n");
+            "Traditional: " . $word->getTraditional() . "</div>\n");
       if ($word->getMp3()) {
-        print("<div>听 listen: <a href='mp3/" . $word->getMp3() . "'>" .
+        print("<div>Listen: <a href='mp3/" . $word->getMp3() . "'>" .
               "<img src='images/audio.gif' alt='Play audio'/>" . 
               "</a>" .
               "</div>\n");
@@ -135,8 +132,8 @@ require_once 'inc/word_detail_top.php' ;
       }
 		
       // Synonyms
-      // $synonymDAO = new SynonymDAO();
-      // $synonyms = $synonymDAO->getSynonyms($simplified);
+      $synonymDAO = new SynonymDAO();
+      $synonyms = $synonymDAO->getSynonyms($simplified);
       if (isset($synonyms) && count($synonyms) > 0) {
         print("<div>Synonyms: ");
         foreach ($synonyms as  $synonym) {
@@ -150,7 +147,7 @@ require_once 'inc/word_detail_top.php' ;
 
       // Description of concept
       if ($word->getConceptCn()) {
-        print("<div>概念 concept: " . $word->getConceptCn() . " " . $word->getConceptEn() . "</div>\n");
+        print("<div>Concept: " . $word->getConceptCn() . " " . $word->getConceptEn() . "</div>\n");
       }
 
       // Link to parent concept
@@ -179,7 +176,7 @@ require_once 'inc/word_detail_top.php' ;
         if (isset($mws) && count($mws) > 0) {
           print("<p>Measure words: ");
           foreach ($mws as  $mw) {
-            print("<a href=\"/word_detail.php?id=" . $mw->getId() . "\">" .
+            print("<a href=\"word_detail.php?id=" . $mw->getId() . "\">" .
                   $mw->getSimplified() .
                   "</a> ");
           }

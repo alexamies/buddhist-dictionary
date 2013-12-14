@@ -22,6 +22,8 @@ drop table variants;
 drop table characters;
 drop table character_types;
 drop table radicals;
+drop table synonyms;
+drop table measure_words;
 drop table illustrations;
 drop table authors;
 drop table licenses;
