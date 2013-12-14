@@ -153,7 +153,7 @@ if (isset($words) && count($words) <> 1) {
                   '</div><div>' . $example->getEnglish() . 
                   "</div>\n");
             if ($example->getAudioFile()) {
-                print("<div>听 (listen): <a href='mp3/" . $example->getAudioFile() . "' target='audio'>" .
+                print("<div>Listen: <a href='mp3/" . $example->getAudioFile() . "' target='audio'>" .
                       "<img src='images/audio.gif' alt='Play audio' border='0'/>" . 
                       "</a>" .
                       "</div>\n");

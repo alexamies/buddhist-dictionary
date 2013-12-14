@@ -27,7 +27,7 @@ require_once 'inc/word_detail_top.php' ;
 <?php
     // HTML form 
     print("<div class='search'>\n" .
-          "<form action='/word_detail1.php' method='post' id='searchForm'>\n" .
+          "<form action='word_detail1.php' method='post' id='searchForm'>\n" .
           "<fieldset>\n" .
           "<input type='text' name='word' id='searchWord' size='50' value='$searchTerm'/>\n" .
           "<textarea name='sentence' rows='2' cols='50' id='searchPhrase'>$searchTerm</textarea>\n" .
@@ -174,8 +174,8 @@ require_once 'inc/word_detail_top.php' ;
 		
       // Get nominal measure words
       if ($grammarEn == 'noun') {
-        // $measureWordDAO = new MeasureWordDAO();
-        // $mws = $measureWordDAO->getMeasureWordsForNoun($word->getSimplified());
+        $measureWordDAO = new MeasureWordDAO();
+        $mws = $measureWordDAO->getMeasureWordsForNoun($word->getSimplified());
         if (isset($mws) && count($mws) > 0) {
           print("<p>Measure words: ");
           foreach ($mws as  $mw) {
@@ -188,8 +188,8 @@ require_once 'inc/word_detail_top.php' ;
 			
         // get nouns matching measure words
       } else if ($grammarEn == 'measure word') {
-        // $measureWordDAO = new MeasureWordDAO();
-        // $nouns = $measureWordDAO->getNounsForMeasureWord($word->getSimplified());
+        $measureWordDAO = new MeasureWordDAO();
+        $nouns = $measureWordDAO->getNounsForMeasureWord($word->getSimplified());
         if (isset($mws) && count($nouns) > 0) {
           print("<p>Matching nouns: ");
           foreach ($nouns as  $noun) {
