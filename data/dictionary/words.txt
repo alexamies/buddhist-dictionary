@@ -21894,7 +21894,7 @@
 21894	凡人	\N	fánrén	an ordinary person / a mortal	noun	\N	\N	生活	Life	\N	\N	\N	\N	\N
 21895	圣智	聖智	shèngzhì	intelligent and wise	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 21896	圣知	聖知	shèngzhī	intelligent and wise	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
-21897	睿智\N	ruìzhì	wise and farsighted	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N	\N
+21897	睿智	\N	ruìzhì	wise and farsighted	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 21898	善业	善業	shànyè	good actions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 21899	十善	\N	shíshàn	the ten virtues	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 21900	证果	證果	zhèngguǒ	the rewards of the different stages of attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
@@ -22312,7 +22312,7 @@
 22312	失色	\N	shīsè	to lose color / to turn pale	verb	\N	\N	颜色	Color	\N	\N	\N	\N	\N
 22313	大惊	大驚	dàjīng	with great alarm	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 22314	照对	照對	zhàoduì	to contrast / to compare	verb	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
-22315	核对覈對	héduì	to check / to audit	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N	\N
+22315	核对	覈對	héduì	to check / to audit	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 22316	改嫁	\N	gǎijià	to remarry (of a widow)	verb	\N	\N	家	Family	\N	\N	\N	\N	\N
 22317	摆手	擺手	bǎishǒu	to wave one's hands	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
 22318	冷落	\N	lěngluò	to treat somebody coldly / to snub / to cold shoulder	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
@@ -23592,10 +23592,10 @@
 23592	帝制	\N	dìzhì	a monarchy / an imperial regime	noun	制度	Institution	历史	History	中国	China	\N	\N	\N
 23593	退守	\N	tuìshǒu	to retreat and defend / to withdraw	verb	\N	\N	军事	Military	\N	\N	\N	\N	\N
 23594	斯大林	\N	Sīdàlín	Joseph Stalin	proper noun	\N	\N	历史	History	俄罗斯	Russia	\N	\N	(1879－1953) Soviet dictator
-23595	根系	根繫	gēnxì	a root system	\N	\N	联系	Relationship	\N	\N	\N	\N	\N	\N
+23595	根系	根繫	gēnxì	a root system	noun	\N	\N	联系	Relationship	\N	\N	\N	\N	\N
 23596	升华	升華	shēng Huà	to sublimate / to raise / to refine / to promote	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
 23597	陶文	\N	táowén	pottery writing	noun	\N	\N	语言	Language	\N	\N	\N	\N	A precursor to Chinese characters
-23598	远祖	遠祖	yuǎnzǔ	a remote ancestor	\N	\N	世系	Genealogy	\N	\N	\N	\N	\N	\N
+23598	远祖	遠祖	yuǎnzǔ	a remote ancestor	noun	\N	\N	世系	Genealogy	\N	\N	\N	\N	\N
 23599	主治	\N	zhǔ zhì	the healing efficiency of medicine	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 23600	以降	\N	yǐ jiàng	since	preposition	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 23601	中国大陆	中國大陸	Zhōngguó dàlù	Chinese mainland 	proper noun	\N	\N	地理	Geography	亚洲	Asia	\N	\N	\N
@@ -23981,7 +23981,7 @@
 23981	书院	書院	shūyuàn	an academy of classical learning	noun	\N	\N	历史	History	\N	\N	\N	\N	An archaic term, Tang Dynasty - Qing Dynasty
 23982	为时	為時	wèishí	timewise / pertaining to time	adjective	\N	\N	时间	Time	\N	\N	\N	\N	\N
 23983	奠基人	\N	diànjī rén	founder	noun	\N	\N	组织	Organization	\N	\N	\N	\N	\N
-23984	拯	\N	zhěng	to raise / to aid / to support / to save / to rescue	\N	\N	帮助	Help	\N	\N	\N	\N	\N	\N
+23984	拯	\N	zhěng	to raise / to aid / to support / to save / to rescue	verb	\N	\N	帮助	Help	\N	\N	\N	\N	\N
 23985	废止	廢止	fèi zhǐ	to repeal / to put an end to / to abolish	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 23986	取胜	取勝	qǔ shèng	to score a victory / to prevail	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 23987	关乎	關乎	guān hū	to relate to	verb	\N	\N	联系	Relationship	\N	\N	\N	\N	\N
@@ -24128,7 +24128,7 @@
 24128	隆武	\N	Lóngwǔ	Zhu Yujian / Emperor Longwu / Emperor Shaozong	proper noun	皇帝	Emperor	历史	History	明朝	Ming Dynasty	\N	\N	(Lived 1602－1646 reigned 1645－1646) reign name of eighteenth Ming Emperor, who was recognized briefly in the South after the collapse of the Ming in the North
 24129	明绍宗	明紹宗	Míng Shàozōng	Zhu Yujian / Emperor Longwu / Emperor Shaozong	proper noun	皇帝	Emperor	历史	History	明朝	Ming Dynasty	\N	\N	(Lived 1602－1646 reigned 1645－1646) temple name of eighteenth Ming Emperor, who was recognized briefly in the South after the collapse of the Ming in the North
 24130	大力水手	\N	Dàlì Shuǐshǒu	Popeye	proper noun	\N	\N	文化	Culture	\N	\N	\N	\N	\N
-24131	水手	\N	shuǐshǒu	a mariner / a sailor / a seaman	\N	\N	海上	Maritime	\N	\N	\N	\N	\N	\N
+24131	水手	\N	shuǐshǒu	a mariner / a sailor / a seaman	noun	\N	\N	海上	Maritime	\N	\N	\N	\N	\N
 24132	福王	\N	Fú Wáng	Fu Wang / Zhu Yousong / Emperor Hongguang	proper noun	皇帝	Emperor	历史	History	明朝	Ming Dynasty	\N	\N	(Lived 1607－1646 reigned 1644－1645) another name for seventeenth Ming Emperor, who was recognized in the South briefly after the collapse of the Ming in the North
 24133	唐王	\N	Táng Wáng	Tang Wang / Zhu Yujian / Emperor Longwu / Emperor Shaozong	proper noun	皇帝	Emperor	历史	History	明朝	Ming Dynasty	\N	\N	(Lived 1602－1646 reigned 1645－1646) another name for eighteenth Ming Emperor, who was recognized briefly in the South after the collapse of the Ming in the North
 24134	朱由榔	\N	Zhū Yóuláng	Gui Wang / Zhu Youliang / Emperor Yongli	proper noun	皇帝	Emperor	历史	History	明朝	Ming Dynasty	\N	\N	(Lived 1623－1662 reigned 1646－1661) personal name of nineteenth Ming Emperor, who was recognized briefly in the South after the collapse of the Ming in the North
@@ -24288,7 +24288,7 @@
 24288	谎报	謊報	huǎngbào	to lie	verb	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
 24289	濒	瀕	bīn	to approach / to border on / to be near	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	bin1.mp3	\N
 24290	濒	瀕	bīn	riverside	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	bin1.mp3	\N
-24291	濒临	瀕臨	bīnlín	adjective	\N	\N	位	Position	\N	\N	\N	\N	\N	\N
+24291	濒临	瀕臨	bīnlín	on the verge of / close to	adjective	\N	\N	位	Position	\N	\N	\N	\N	\N
 24292	彪	\N	biāo	stripes / streaks / veins	noun	\N	\N	形态	Form	\N	\N	\N	biao1.mp3	\N
 24293	彪	\N	biāo	a tiger cub	noun	动物	Animal	大自然	Nature	\N	\N	\N	biao1.mp3	\N
 24294	彪	\N	biāo	clear / apparent	adjective	\N	\N	观察	Observation	\N	\N	\N	biao1.mp3	\N
@@ -24304,7 +24304,7 @@
 24304	韬光养晦	韜光養晦	tāo guāng yǎng huì	 to conceal one's strengths and bide one's time	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	Literally, to cover light and nurture in the dark
 24305	亚丁湾	亞丁灣	Yàdīng Wān	Gulf of Aden	proper noun	海湾	Gulf	地方	Places	中东	Middle East	\N	\N	Located in the Arabian Sea between Yemen
 24306	比例尺	\N	bǐlìchǐ	scale / an architect's scale / an engineer's scale	noun	\N	\N	测控	Measurement and Control	\N	\N	\N	\N	\N
-24307	地形图	地形圖	dìxíng tú	a topographic map	\N	\N	地理	Geography	\N	\N	\N	\N	\N	\N
+24307	地形图	地形圖	dìxíng tú	a topographic map	noun	\N	\N	地理	Geography	\N	\N	\N	\N	\N
 24308	编成	編成	biānchéng	to organize / to edit	verb	\N	\N	写作	Writing	\N	\N	\N	\N	\N
 24309	制图	制圖	zhìtú	cartography	noun	\N	\N	地理	Geography	\N	\N	\N	\N	\N
 24310	制图	制圖	zhìtú	to map / to chart / to draft	verb	\N	\N	地理	Geography	\N	\N	\N	\N	\N
@@ -24554,8 +24554,8 @@
 24554	中轴	中軸	zhōngzhóu	a central axis / a core	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
 24555	僧院	\N	sēngyuàn	an abbey / a monastery / a vihara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vihāra
 24556	辐	輻	fú	a spoke of a wheel	noun	\N	\N	形态	Form	\N	\N	\N	fu2.mp3	\N
-24557	钿	鈿	diàn	gold inlaid work	\N	\N	艺术	Art	\N	\N	\N	\N	\N	\N
-24558	钿	鈿	tián	gold inlaid work	\N	\N	艺术	Art	\N	\N	\N	\N	\N	\N
+24557	钿	鈿	diàn	gold inlaid work	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
+24558	钿	鈿	tián	gold inlaid work	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 24559	古董	\N	gǔdǒng	a curio / an antique	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 24560	纪念品	紀念品	jìniànpǐn	a souvenir	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 24561	左尖横	左尖橫	zuǒ jiān héng	left sharp pointed stroke	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	\N	\N	N 
@@ -24645,7 +24645,7 @@
 24645	关圣帝君	關聖帝君	Guān Shèng Dì Jūn	Guan Yu	proper noun	\N	\N	历史	History	三国	Three Kingdoms	\N	\N	\N 
 24646	关圣	關聖	Guān Shèng	Guan Yu	proper noun	\N	\N	历史	History	三国	Three Kingdoms	\N	\N	\N 
 24647	斓	斕	lán	multicolored	adjective	\N	\N	颜色	Color	\N	\N	\N	lan2.mp3	\N
-24648	斑斕	斑斓	bānlán	gorgeous / brightly colored / multi-colored	\N	\N	颜色	Color	\N	\N	\N	\N	\N	\N
+24648	斑斕	斑斓	bānlán	gorgeous / brightly colored / multi-colored	adjective	\N	\N	颜色	Color	\N	\N	\N	\N	\N
 24649	卧钩	臥鉤	wò gōu	flat hook stroke / CJK Stroke BXG	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	\N	\N	Name of Unicode character 31c3
 24650	塌肩折	\N	tā jiān zhé	Turn with Flat Shoulder / CJK Stroke HZ	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	\N	\N	Name of Unicode character 31d5 with rounded shoulder
 24651	耸肩折	聳肩折	sǒng jiān zhé	Turn with Raised Shoulder / CJK Stroke HZ	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	\N	\N	Name of Unicode character 31d5 with raised shoulder
@@ -24882,7 +24882,7 @@
 24882	连云港	連雲港	Lián Yún Gǎng	Lian Yun Gang	proper noun	城市	City	地方	Places	江苏	Jiangsu	\N	\N	\N
 24883	花果山	\N	Huā Guǒ Shān	Hua Guo Shan	proper noun	区	District	地方	Places	江苏	Jiangsu	\N	\N	\N
 24884	恢弘	\N	huīhóng	vast / extensive	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	\N
-24885	昕	\N	xīn dawn	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N	\N
+24885	昕	\N	xīn	dawn	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 24886	天圣	天聖	Tiān Shèng	Tian Sheng / reign of Emperor Renzong of Song	proper noun	年号	Reign Name	历史	History	宋朝	Song Dynasty	\N	\N	(Lived 1010－1063, ruled 1022－1063) reign name of the fourth ruler of the Song Dynasty
 24887	积淀	積澱	jīdiàn	deposits accumulated over long periods / accumulated wisdom	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 24888	衢	\N	qú	a thoroughfare	noun	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
@@ -24935,7 +24935,7 @@
 24935	波隆摩罗阇	波隆摩羅闍	Bōlóngmóluóshé	Borommaracha	proper noun	\N	\N	历史	History	泰国	Thailand	\N	\N	Name of several Thai a monarchs
 24936	菩斯里善佩佛	\N	pú sī lǐ shàn pèi Fó	Phra Si Sanphet Buddha	proper noun	佛陀	Buddha	佛教	Buddhism	泰国	Thailand	\N	\N	\N
 24937	开光	開光	kāiguāng	to consecrate / to bless	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-24938	声名	聲名shēngmíng	reputation / declaration	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N	\N
+24938	声名	聲名	shēngmíng	reputation / declaration	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
 24939	阿瑜陀耶遺址	\N	Āyútuóyē Yízhǐ	Ayutthaya Historical Park	proper noun	\N	\N	历史	History	泰国	Thailand	\N	\N	\N
 24940	轴线	軸線	zhóu xiàn	an axis / an axis line	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
 24941	安放	\N	ān fàng	to lay / to place	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
@@ -24944,7 +24944,7 @@
 24944	素可泰遗址	素可泰遺址	Sùkětài yízhǐ	Sukhothai Historical Park	proper noun	\N	\N	历史	History	泰国	Thailand	\N	\N	\N
 24945	未完成	\N	wèi wánchéng	imperfect / incomplete	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 24946	砖块	磚塊	zhuānkuài	bricks	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
-24947	层层	層層	céng céng	adjective	\N	\N	形态	Form	\N	\N	\N	\N	\N	\N
+24947	层层	層層	céng céng	layer-upon-layer	adjective	\N	\N	形态	Form	\N	\N	\N	\N	\N
 24948	湿婆	濕婆	shīpó	Shiva	proper noun	神	Deity	宗教	Religion	印度教	Hinduism	\N	\N	Sanskrit: Śiva, the destroyer of evil
 24949	毗湿奴	毗濕奴	Píshīnú	Vishnu	proper noun	神	Deity	宗教	Religion	印度教	Hinduism	\N	\N	Sanskrit: viṣṇu, the preserver, one of the primary forms of God
 24950	外围	外圍	wàiwéi	to surround	verb	\N	\N	形态	Form	\N	\N	\N	\N	\N
@@ -24953,7 +24953,7 @@
 24953	苏提普山	蘇提普山	Sū Tí Pǔ Shān	Doi Suthep	proper noun	山	Mountain	地方	Places	泰国	Thailand	\N	\N	Located in Chiang Mai, Thailand
 24954	伫	佇	zhù	to look towards / to turn one's back on	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zhu4.mp3	\N
 24955	佇立	伫立	zhùlì	to stand for a long time	verb	\N	\N	历史	History	\N	\N	\N	\N	\N
-24956	通体	通體	whole body	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N	\N
+24956	通体	通體	tōngtǐ	whole body	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
 24957	雕花	\N	diāohuā	carving / decorative carved pattern	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 24958	束腰	\N	shùyāo	a girdle / a hourglass shape	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
 24959	须弥	須彌	Xūmí	Mt Meru / Sumeru	proper noun	山	Mountain	佛教	Buddhism	印度	India	\N	\N	A sacred mountain in India
@@ -25197,7 +25197,7 @@
 25197	庭院	\N	tíngyuàn	courtyard	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 25198	窣	\N	sù	to rush out of a den / to rustle	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	su4.mp3	\N
 25199	窣堵波	\N	sùdǔbō	a stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: stūpa, transliteation of the Sanskrit term
-25200	建筑群	建築群	an architectural complex / a building complex	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N	\N
+25200	建筑群	建築群	jiànzhù qún	an architectural complex / a building complex	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 25201	泥砖结构	泥磚結構	nízhuān jiégòu	an adobe structure	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 25202	瓮	甕	wèng	a pottery container	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 25203	为主	為主	wèi zhǔ	to rely mainly on / to attach most importance to / mainly	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
@@ -25839,7 +25839,7 @@
 25839	狮子座	獅子座	Shīzizuò	Leo	proper noun	星座	Constellation	天文	Astronomy	\N	\N	\N	\N	\N
 25840	转法轮	轉法輪	zhuǎn fǎlún	to transmit Buddhist teaching / dharma-cakra / dharmacakra	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 25841	转法轮印	轉法輪印	zhuǎn fǎlún yìn	Dharmacakra mudra	set phrase	手印	Mudra	佛教	Buddhism	\N	\N	\N	\N	Symbolizing propogating of the Dharma
-25842	复制件	複製件	fùzhìjiàn	a reproduction	\N	\N	技术	Technology	\N	\N	\N	\N	\N	\N
+25842	复制件	複製件	fùzhìjiàn	a reproduction	noun	\N	\N	技术	Technology	\N	\N	\N	\N	\N
 25843	分经器	分經器	fēnjīng qì	a weaving implement	noun	\N	\N	服装	Clothing	\N	\N	weaving_neolithic400.jpg	\N	\N
 25844	飞天	飛天	fēitiān	an apsara / something that flies	noun	\N	\N	神话	Mythology	印度	India	feitian_lingyinsi400.jpg	\N	In Indian mythology, a celestial maiden or nymph
 25845	脇	\N	xié	side of the human body	noun	\N	\N	健康	Health	\N	\N	\N	\N	from the armpit to the waist
@@ -26049,7 +26049,7 @@
 26049	厝	\N	cuò	to bury / to place / to dispose	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	cuo4.mp3	\N
 26050	学金	學金	xuéjīn	educational assistance	noun	\N	\N	教育	Education	\N	\N	\N	\N	\N
 26051	初审	初審	chūshěn	preliminary trial / preliminary investigation	noun	\N	\N	组织	Organization	\N	\N	\N	\N	\N
-26052	访查	訪查	fǎngchá	to investigate	\N	\N	工作	Work	\N	\N	\N	\N	By visting or interviewing someone	\N
+26052	访查	訪查	fǎngchá	to investigate	verb	\N	\N	工作	Work	\N	\N	\N	\N	By visting or interviewing someone
 26053	夏令营	夏令營	xiàlìngyíng	summer camp	noun	\N	\N	教育	Education	\N	\N	\N	\N	\N
 26054	陶记	陶記	Táo Jì	The Records of Ceramics	proper noun	书	Book	历史	History	\N	\N	\N	c. 1214 to 1234, historic book on production of ceramics by Yuan Dynasty author Jiang Qi 蒋祈.	\N
 26055	天工开物	天工開物	tiān Gōng Kāi wù	Heavenly Creations	proper noun	书	Book	历史	History	\N	\N	\N	Historic book on agriculture and crafts by Ming Dynasty author Song Yingxing.	\N
@@ -26064,7 +26064,7 @@
 26064	缘饰	緣飾	yuánshì	a fringe / a border	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
 26065	菱格山形	\N	línggéshān xíng	a rhombus	noun	形状	Shape	形态	Form	\N	\N	\N	\N	\N
 26066	相间	相間	xiāngjiān	to sow discord / to alternate with	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-26067	酒器	\N	jiǔqì	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N	\N
+26067	酒器	\N	jiǔqì	wine vessel	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
 26068	乳钉	乳釘	rǔdīng	nipple / metal stud	noun	形状	Shape	形态	Form	\N	\N	\N	\N	\N
 26069	烹煮	\N	pēngzhǔ	to cook / to boil	verb	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
 26070	黏土	\N	niántǔ	clay / loam	noun	\N	\N	地质	Geology	\N	\N	\N	\N	\N
@@ -26159,7 +26159,7 @@
 26159	八十八佛忏悔文	八十八佛懺悔文	Bāshíbā Fó Chànhuǐ Wén	Eighty Eight Buddhas Repentance Text	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 26160	器皿	\N	qìmǐn	household utensils	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
 26161	花冠	\N	huāguān	a headdress / a corolla	noun	\N	\N	艺术	Art	\N	\N	\N	\N	A band or envelope of flowers 
-26162	花饰	花飾	huāshì	a floral decoration / an ornament / a floral pattern	\N	\N	艺术	Art	\N	\N	porcelain_pitcher_qing400.jpg	\N	A band or envelope of flowers 	\N
+26162	花饰	花飾	huāshì	a floral decoration / an ornament / a floral pattern	noun	\N	\N	艺术	Art	\N	\N	porcelain_pitcher_qing400.jpg	\N	A band or envelope of flowers
 26163	铆	鉚	mǎo	a rivet	noun	\N	\N	工具	Tools	\N	\N	\N	\N	\N
 26164	铆	鉚	liǔ	a rivet	noun	\N	\N	工具	Tools	\N	\N	\N	liu3.mp3	\N
 26165	铆钉	鉚釘	mǎodīng	a rivet	noun	\N	\N	工具	Tools	\N	\N	\N	\N	\N
@@ -26348,7 +26348,7 @@
 26348	花鬘	\N	huāmán	headdress	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
 26349	长发	長髮	chángfà	long hair	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 26350	缯	繒	zēng	silk fabric	noun	\N	\N	服装	Clothing	\N	\N	\N	zeng1.mp3	\N
-26351	宝缯	寶繒	bǎozēng	a stole	\N	\N	服装	Clothing	\N	\N	\N	\N	Especially, a cape or robe worn by religious figures	\N
+26351	宝缯	寶繒	bǎozēng	a stole	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	Especially, a cape or robe worn by religious figures
 26352	飘拂	飄拂	piāofú	to drift lightly / to float	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
 26353	下身	\N	xiàshēn	lower body	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 26354	长裙	長裙	chángqún	a cheong sam / a long skirt / a dhoti / a robe	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
@@ -26752,7 +26752,7 @@
 26752	健陀罗	健陀羅	Jiàntuóluó	Gandhara	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	Kingdom in northwest India, c. 600 BCE&mdash;11 CE, on Kabul River in present day Peshawar
 26753	大月氏	\N	Dàyuèshì	Tokhara / Tokharians	proper noun	民族	Ethnic Group	历史	History	亚洲	Asia	\N	\N	Historic people of central Asia
 26754	迨	\N	dài	until / while	preposition	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-26755	堪达哈尔	堪達哈爾	Kāndáhā'ěr	Kandahar	\N	\N	地方	Places	阿富汗	Afghanistan	\N	\N	City and province in Afghanistan	\N
+26755	堪达哈尔	堪達哈爾	Kāndáhā'ěr	Kandahar	proper noun	\N	\N	地方	Places	阿富汗	Afghanistan	\N	\N	City and province in Afghanistan
 26756	故地	\N	gùdì	former territory / once familiar places	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
 26757	斯瓦特	\N	Sīwǎté	Swat	proper noun	省	Province	地方	Places	巴基斯坦	Pakistan	\N	\N	\N
 26758	水波	\N	shuǐbō	a wave / a ripple	noun	\N	\N	水	Water	\N	\N	\N	\N	\N
@@ -26805,7 +26805,7 @@
 26805	朝觐	朝覲	cháojǐn	to give audience (of an emperor)	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 26806	朝觐	朝覲	cháojǐn	hajj / to make a pilgrimage to Mecca	verb	\N	\N	宗教	Religion	伊斯兰教	Islam	\N	\N	\N
 26807	军旅	軍旅	jūnlǚ	an army	noun	\N	\N	军事	Military	\N	\N	\N	\N	\N
-26808	田役	\N	tiányì	to do farm work	\N	\N	农业	Agriculture	\N	\N	\N	\N	\N	\N
+26808	田役	\N	tiányì	to do farm work	verb	\N	\N	农业	Agriculture	\N	\N	\N	\N	\N
 26809	丧荒	喪荒	sànghuāng	a mourning ceremony	noun	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
 26810	长柄	長柄	chángbǐng	a long handle / a stem	noun	\N	\N	工具	Tools	\N	\N	\N	\N	\N
 26811	烟气	煙氣	yānqì	smoke	noun	\N	\N	化学	Chemistry	\N	\N	\N	\N	\N
@@ -26983,8 +26983,8 @@
 26983	华渚	華渚	Huàhuà	God	proper noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 26984	历山	歷山	Lìshān	Mount Li	proper noun	山	Mountain	神话	Mythology	中国	China	\N	\N	Where mythical character Shun 舜 lived
 26985	骈	駢	pián	to pull side by side / to be side by side / to be fused together	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-26986	胄	\N	zhòu	descendants	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N	\N
-26987	胄	\N	zhòu	a helmet	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N	\N
+26986	胄	\N	zhòu	descendants	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+26987	胄	\N	zhòu	a helmet	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 26988	调控	調控	tiáo kòng	to regulate / to control	verb	\N	\N	测控	Measurement and Control	\N	\N	\N	\N	\N
 26989	成败	成敗	chéng bài	success or failure	expression	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 26990	暴利	\N	bào lì	sudden huge profits	expression	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
@@ -27048,8 +27048,8 @@
 27048	肩部	\N	jiānbù	shoulder	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 27049	臂膀	\N	bìbǎng	an arm	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 27050	齊肩	齊肩	qíjiān	up to one's shoulder in height / equal in height	adjective	\N	\N	位	Position	\N	\N	\N	\N	\N
-27051	踝	\N	huái an ankle / malleolus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N	\N
-27052	踝部	\N	huáibù an ankle / malleolus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N	\N
+27051	踝	\N	huái	an ankle / malleolus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+27052	踝部	\N	huáibù	an ankle / malleolus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 27053	靠背	\N	kàobèi	a backrest	noun	\N	\N	家具	Furniture	\N	\N	\N	\N	of a chair
 27054	半跏坐	\N	bàn jiā zuò	to sit with one leg crossed	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	usually of a bodhisattva 
 27055	下颌	下頜	xiàhé	upper jaw / mandible	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
@@ -27057,7 +27057,7 @@
 27057	蚪	\N	dǒu	a tadpole	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	\N
 27058	蝌蚪	\N	kēdǒu	a tadpole	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	\N
 27059	腿部	\N	tuǐbù	a leg	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
-27060	龙华树	龍華樹	naga-puspa / Ceylon ironwood / Indian rose chestnut	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	Sanskrit: nāga-puspa; scientific name: Mesuna roxburghii Wigh or Mesuna ferrea L. 	\N
+27060	龙华树	龍華樹	Lóng Huà shù	naga-puspa / Ceylon ironwood / Indian rose chestnut	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	Sanskrit: nāga-puspa; scientific name: Mesuna roxburghii Wigh or Mesuna ferrea L.
 27061	潜心	潛心	qiánxīn	to concentrate single-mindedly	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 27062	悟道	\N	wù dào	to awaken to the truth / to awaken to the way	expression	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N 
 27063	墨笔	墨筆	mòbǐ	a writing brush	noun	\N	\N	书法	Calligraphy	\N	\N	\N	\N	\N
@@ -27106,7 +27106,7 @@
 27106	生硬	\N	shēngyìng	stiff / harsh	adjective	\N	\N	形态	Form	\N	\N	\N	\N	\N
 27107	残损	殘損	cánsǔn	to be damaged	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 27108	前倾	前傾	qiánqīng	to lean forward	verb	\N	\N	身姿	Posture	\N	\N	\N	\N	\N
-27109	低头	低頭	dītóu	to bow the head	/ to lower the head	verb	\N	\N	身姿	Posture	\N	\N	\N	\N
+27109	低头	低頭	dītóu	to bow the head / to lower the head	verb	\N	\N	身姿	Posture	\N	\N	\N	\N	\N
 27110	踮	\N	diǎn	to stand on tiptoes	verb	\N	\N	身姿	Posture	\N	\N	\N	dian3.mp3	\N
 27111	小字脸	小字臉	xiǎozì liǎn	a small character face	noun	\N	\N	艺术	Art	\N	\N	\N	\N	A style from the Northern Liang to the Western Wei with face painted with white nose, eyes, etc  
 27112	翩	\N	piān	to fly / to flutter	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
@@ -27169,9 +27169,9 @@
 27169	无尽意	無盡意	Wújì Yì	Aksayamati Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	The bodhisattva of infinite intention
 27170	无尽意菩萨	無盡意菩薩	Wújì Yì Púsà	Aksayamati Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	The bodhisattva of infinite intention
 27171	庆尚南道	慶尚南道	Qìng Shàng Nán Dào	   South Gyeongsang Province	proper noun	\N	\N	地方	Places	韩国	South Korea	\N	\N	\N
-27172	宜宁郡	宜寧郡	Yí Níng Jùn	Uiryeong County		   proper noun	\N	\N	地方	Places	韩国	\N	\N	\N
+27172	宜宁郡	宜寧郡	Yí Níng Jùn	Uiryeong County	proper noun	\N	\N	地方	Places	韩国	South Korea	\N	\N	\N
 27173	大义面	大義面	dà yì miàn	Daeui-myeon	proper noun	\N	\N	地方	Places	韩国	South Korea	\N	\N	\N
-27174	己未	\N	jǐwèi fifty sixth year of the 60 year cycle	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N	\N
+27174	己未	\N	jǐwèi	fifty sixth year of the 60 year cycle	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 27175	平壤	\N	Píngrǎng	Pyongyang	proper noun	\N	\N	地方	Places	朝鲜	North Korea	\N	\N	\N
 27176	国宝	國寶	guó bǎo	National Treasure	proper noun	\N	\N	历史	History	中国	China	\N	hui1.mp3	\N
 27177	厚实	厚實	hòushí	thick / substantial / sturdy / solid	adjective	\N	\N	形态	Form	\N	\N	\N	\N	\N
@@ -27344,12 +27344,12 @@
 27344	帝释	帝釋	Dìshì	Sakra / Sakka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: Śakra, Pali: Sakka; the ruler of the Trāyastriṃśa Heaven
 27345	兰叶描	蘭葉描	lán yè miáo	an orchid petal coloring technique	phrase	\N	\N	艺术	Art	\N	\N	\N	\N	Originated by the Tang Dynasty painter Wu Daozi
 27346	钉头鼠尾描	釘頭鼠尾描	dīng tóu shǔ wěi miáo	a dotted coloring technique	phrase	\N	\N	艺术	Art	\N	\N	\N	\N	A classical Chinese painting technique
-27347	奇异	\N	zhēnqiē	vivid / distinct / clear 	adjective	\N	\N	视力	Vision	\N	\N	\N	\N	\N
+27347	奇异	\N	zhēnqiē	vivid / distinct / clear 	adjective	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 27348	朱	硃	zhū	vermilion / cinnabar / mercuric sulfide (HgS)	noun	\N	\N	颜色	Color	\N	\N	\N	zhu1.mp3	\N
 27349	朱砂	硃砂	zhūshā	vermilion / cinnabar / mercuric sulfide (HgS)	noun	\N	\N	颜色	Color	\N	\N	\N	zhu1.mp3	\N
 27350	沥粉贴金	瀝粉貼金	lì fěn tiē jīn	powder laced with gold	phrase	\N	\N	艺术	Art	\N	\N	\N	\N	A classical Chinese painting technique
 27351	金碧辉煌	金碧輝煌	jīn bì huīhuáng	gold and jade in glorious splendor	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	A classical Chinese painting technique
-27352	画士	畫士	huàshì	painter / artist	nount	\N	\N	艺术	Art	\N	\N	\N	\N	\N
+27352	画士	畫士	huàshì	painter / artist	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 27353	瑰丽	瑰麗	guīlì	elegant / magnificent / exceptionally beautiful	adjective	\N	\N	美丽	Beauty	\N	\N	\N	\N	\N
 27354	阇那崛多	闍那崛多	Shénàjuéduō	Jnanagupta	proper noun	高僧	Senior Monk	佛教	Buddhism	印度	India	\N	\N	(c. 523&mdash;600) Sanskrit: Jñānagupta, Indian monk who travelled to China during the Sui dynasty, well known for translating the popular version of the Universal Gate Sutra to Chinese
 27355	珀	\N	pò	amber	noun	宝石	Gemstone	地质	Geology	\N	\N	\N	po4.mp3	\N
@@ -27422,7 +27422,7 @@
 27422	赴会	赴會	fùhuì	to go to a meeting	verb	\N	\N	组织	Organization	\N	\N	\N	\N	\N
 27423	绽放	綻放	zhànfàng	to bloom / to blosom	verb	\N	\N	植物学	Botany	\N	\N	\N	\N	\N
 27424	花木	\N	huāmù	flowers and trees / plants / flora 	noun	\N	\N	植物学	Botany	\N	\N	\N	\N	\N
-27425	布景	\N	bùjǐng	a scene / a stage set	nount	\N	\N	艺术	Art	\N	\N	\N	\N	\N
+27425	布景	\N	bùjǐng	a scene / a stage set	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 27426	上行菩萨	上行菩薩	Shàng Xíng Púsà	Visista-caritra / Viitacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: Viśista-cāritra, one of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra
 27427	无边行菩萨	無邊行菩薩	Wú Biān Xíng Púsà	Anantacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	One of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra
 27428	无边行	無邊行	Wú Biān Xíng	Anantacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	One of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra
@@ -27639,7 +27639,7 @@
 27639	幢幡	\N	chuángfān	a hanging banner	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 27640	异兽	異獸	yì shòu	a rare animal / mythical beast	noun	\N	\N	神话	Mythology	\N	\N	\N	\N	\N
 27641	外披	\N	wàipī	to drape	verb	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
-27642	形制	\N	xíngzhì	layout	\N	\N	形态	Form	\N	\N	\N	\N	\N	\N
+27642	形制	\N	xíngzhì	layout	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
 27643	金翅鸟	金翅鳥	jīn chì niǎo	a garuda	noun	\N	\N	神话	Mythology	印度	India	\N	\N	Sanskrit: garuḍa, Pali: garuḷa
 27644	阿里地区	阿里地區	Ālǐ Dìqū	Ngari Prefecture	proper noun	地区	Prefecture	地方	Places	西藏	Tibet	\N	\N	Tibetan: Mnga' ris sa khul
 27645	札达县	札達縣	Zhádá Xiàn	Zanda county	proper noun	县	County	地方	Places	西藏	Tibet	\N	\N	 In Ngari prefecture, Tibet, Tibetan: Rtsa mda' rdzong
@@ -27684,8 +27684,8 @@
 27684	戒除	\N	jièchú	to quit	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 27685	心力	\N	xīnlì	mental and physical effort	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 27686	表相	\N	biǎoxiàng	an externally expressed characteristic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-27687	建構	建构	jiàngòu	to build / to construct	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
-27688	建構	建构	jiàngòu	a construction (abstract) / architecture	noun	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+27687	建构	建構	jiàngòu	to build / to construct	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+27688	建构	建構	jiàngòu	a construction (abstract) / architecture	noun	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 27689	潜藏	潛藏	qiáncáng	to hide / to conceal	verb	\N	\N	位	Position	\N	\N	\N	\N	\N
 27690	心理学	心理學	xīnlǐxué	psychology	noun	\N	\N	心理学	Psychology	\N	\N	\N	\N	\N
 27691	情结	情結	qíngjié	a complex	noun	\N	\N	心理学	Psychology	\N	\N	\N	\N	\N
@@ -27965,7 +27965,7 @@
 27965	斯拉夫	\N	Sīlāfū	Slavic	adjective	\N	\N	人类学	Anthropology	\N	\N	\N	\N	\N
 27966	波罗	波羅	Bōluó	Baltic	proper noun	\N	\N	地理	Geography	\N	\N	\N	\N	\N
 27967	梨俱吠陀	\N	Líjū Fèituó	Rigveda	proper noun	书	Book	宗教	Religion	印度教	Hindu	\N	\N	Sanskrit: ṛgveda, first of the Vedas, an ancient Indian collection of Vedic hymns
-27968	至關重要	至關重要	zhìguān zhòngyào	extremely important / vital / crucial / essential	phase	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
+27968	至關重要	至關重要	zhìguān zhòngyào	extremely important / vital / crucial / essential	phrase	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 27969	娑摩吠陀	\N	Suōmó Fèituó	Samaveda	proper noun	书	Book	宗教	Religion	印度教	Hindu	\N	\N	Sanskrit: sāmaveda, second of the four Vedas
 27970	夜柔吠陀	\N	Yèróu Fèituó	Yajurveda	proper noun	书	Book	宗教	Religion	印度教	Hindu	\N	\N	Sanskrit: yajurveda, one of the four Vedas
 27971	阿闼婆吠陀	阿闥婆吠陀	Ātàpó Fèituó	Atharvaveda	proper noun	书	Book	宗教	Religion	印度教	Hindu	\N	\N	Sanskrit: atharvaveda, one of the four Vedas
@@ -28172,9 +28172,9 @@
 28172	罗睺	羅睺	Luóhóu	Rahu	proper noun	阿修罗	Asura	宗教	Religion	印度教	Hinduism	\N	\N	An asura in mythical stories that swallows the sun or moon causing eclipses
 28173	制	製	zhì	to overpower / to control	verb	\N	\N	过程	Process	\N	\N	\N	zhi4.mp3	\N
 28174	制	製	zhì	to mortgage	verb	\N	\N	商务	Commerce	\N	\N	\N	zhi4.mp3	\N
-28175	制	製	zhì	a style	moun	\N	\N	艺术	Art	\N	\N	\N	zhi4.mp3	\N
-28176	制	製	zhì	dimension / proportion / scale	moun	\N	\N	规模	Scale	\N	\N	\N	zhi4.mp3	\N
-28177	制	製	zhì	an imperial order	moun	\N	\N	历史	History	\N	\N	\N	zhi4.mp3	\N
+28175	制	製	zhì	a style	noun	\N	\N	艺术	Art	\N	\N	\N	zhi4.mp3	\N
+28176	制	製	zhì	dimension / proportion / scale	noun	\N	\N	规模	Scale	\N	\N	\N	zhi4.mp3	\N
+28177	制	製	zhì	an imperial order	noun	\N	\N	历史	History	\N	\N	\N	zhi4.mp3	\N
 28178	成熟度母	\N	Chéngshú Dù Mǔ	Pacaka Tara	proper noun	度母	Tara	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pācakatārā
 28179	毕竟成熟度母	畢竟成熟度母	Bìjìng Chéngshú Dù Mǔ	Pacaka Tara	proper noun	度母	Tara	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pācakatārā
 28180	国际音标	國際音標	guójì yīnbiāo	International Phonetic Symbol (IPA)	proper noun	\N	\N	语言学	Linguistics	语音学	Phonetics	\N	\N	\N
@@ -28222,7 +28222,7 @@
 28222	宽式音标	寬式音標	kuānshì yīnbiāo	a broad transcription	noun	\N	\N	语言学	Linguistics	语音学	Phonetics	\N	\N	A coarse phonetic transcription
 28223	后者	後者	hòuzhě	the latter	noun	\N	\N	位	Position	\N	\N	\N	\N	\N
 28224	标注	標注	biāozhù	to mark out / to tag / to annotate	verb	\N	\N	写作	Writing	\N	\N	\N	\N	\N
-28225	模棱两可	模稜兩可	模棱两可	mó léng liǎng kě	to equivocate / to hold two contradictory views / to sit on the fence	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N
+28225	模棱两可	模稜兩可	mó léng liǎng kě	to equivocate / to hold two contradictory views / to sit on the fence	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 28226	双唇	雙唇	shuāngchún	both lips	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 28227	唇齿	唇齒	chúnchǐ	a labiodental consonant	noun	辅音	Consonant	语言学	Linguistics	语音学	Phonetics	\N	\N	A consonant articulated with the lower lip and the upper teeth
 28228	齿音	齒音	chǐyīn	a dental consonant	noun	辅音	Consonant	语言学	Linguistics	语音学	Phonetics	\N	\N	A consonant articulated with the tongue against the upper teeth
@@ -28412,8 +28412,8 @@
 28412	月光遍照菩萨	月光遍照菩薩	Yuèguāng Biàn Zhào Púsà	Candraprabha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: candraprabha, the Medicine Buddha's assistant
 28413	药师琉璃光七佛本愿功德经	藥師琉璃光七佛本願功德經	Yàoshī Liúlí Guāng Qī Fó Běn Yuàn Gōngdé Jīng	Sutra of the Medicine Buddha / Sutra on the Master of Healing	proper noun	佛经	Buddhist Scripture	佛教	Buddhism	大乘	Mahayana Buddhism	\N	\N	Sanskrit: bhaisajyaguruvaiduryaprabharajasutram
 28414	跋伽	\N	bájiā	bhaga / lord / patron / wealth / prosperity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bhaga
-28415	三藏法师义净	三藏法師義淨	Sān Zàng Fǎshī yì Jìng	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	(635&mdash;713), well known Tang Dynasty monk who travelled to India	\N
-28416	三藏沙门义净	三藏沙門義淨	Sān Zàng Shāmén yì Jìng	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	(635&mdash;713), well known Tang Dynasty monk who travelled to India	\N
+28415	三藏法师义净	三藏法師義淨	Sān Zàng Fǎshī Yì Jìng	Venerable Yi Jing / Venerable Yijing	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	(635&mdash;713), well known Tang Dynasty monk who travelled to India
+28416	三藏沙门义净	三藏沙門義淨	Sān Zàng Shāmén Yì Jìng	Venerable Yi Jing / Venerable Yijing	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	(635&mdash;713), well known Tang Dynasty monk who travelled to India
 28417	三佛齐	三佛齊	Sānfóqí	Srivijaya	proper noun	王国	Kingdom	历史	History	亚洲	Asia	\N	\N	Sanskrit: śrīvijayarājavaṃśaḥ; an ancient kingdom on the island of Sumatra in modern day Indonesia
 28418	巨港	\N	Jù Gǎng	Palembang	proper noun	城市	City	地方	Places	亚洲	Asia	\N	\N	City in Sumatra, Indonesia, former capital of the Kingdom of Srivijaya
 28419	吉打	\N	Jí Dǎ	Kedah	proper noun	州	State	地方	Places	亚洲	Asia	\N	\N	State in Sumatra, Indonesia
@@ -29035,7 +29035,7 @@
 29035	牧女献乳糜	牧女獻乳糜	mù nǚ xiàn rǔmí	Sujata Offering Milk Porridge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about a shepherd girl offering milk to Sidartha in the Jataka Tales
 29036	廊道	\N	lángdào	a corridor	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 29037	七政宝	七政寶	qī zhèng bǎo	the seven administrative treasures	phrase	\N	\N	艺术	Art	\N	\N	\N	\N	\N
-29038	事迹	事蹟	shìjì	major events from something / a footprint / a mark / a trace / a vestige / a sign	\N	\N	历史	History	\N	\N	\N	\N	\N	\N
+29038	事迹	事蹟	shìjì	major events from something / a footprint / a mark / a trace / a vestige / a sign	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
 29039	云游	雲遊	yúnyóu	to roam	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of a Buddhist monk
 29040	侵扰	侵擾	qīnrǎo	to invade and harass	verb	\N	\N	暴力	Violence	\N	\N	\N	\N	\N
 29041	时态	時態	shítài	tense	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
@@ -29100,7 +29100,7 @@
 29100	满富	滿富	mǎnfù	rich	adjective	\N	\N	财富	Wealth	\N	\N	\N	\N	\N
 29101	满财	滿財	mǎncái	rich	adjective	\N	\N	财富	Wealth	\N	\N	\N	\N	\N
 29102	引领	引領	yǐnlǐng	to lead / to receive	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
-29103	筵	\N	yán	to lead / to receive	a bamboo mat / a feast / a banquet 	\N	\N	古文	Classical Chinese	\N	\N	\N	yan2.mp3	\N
+29103	筵	\N	yán	a bamboo mat / a feast / a banquet 	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yan2.mp3	\N
 29104	酒筵	\N	jiǔyán	a feast / a banquet	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
 29105	粗鄙	\N	cūbǐ	vulgar / coarse / uncouth	adjective	\N	\N	文化	Culture	\N	\N	\N	\N	\N
 29106	簇拥	簇擁	cùyōng	to crowd around / to escort	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
@@ -30442,18 +30442,18 @@
 30442	平等性智	\N	píngděng xìng zhì	Wisdom of universal equality	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the four kinds of wisdom
 30443	大圆镜智	大圓鏡智	dà yuán jìng zhì	Perfect mirror-like wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The forth of the four kinds of wisdom
 30444	彊	\N	qiáng	strong / powerful	adjective	\N	\N	力气	Strength	\N	\N	\N	qiang2.mp3	Variant of 强/強
-30445	彊	\N	jiàng	stubborn / unyielding	adjective	\N	力气	Strength	\N	\N	\N	\N	\N	Variant of 强/強
-30446	彊	\N	qiǎng	to strive / to make an effort	verb	\N	力气	Strength	\N	\N	\N	\N	\N	Variant of 强/強
-30447	刚强	剛強	gāngqiáng	staunch / strong / stubborn	verb	\N	力气	Strength	\N	\N	\N	\N	\N	\N
-30448	刚彊	剛彊	gāngqiáng	staunch / strong / stubborn	verb	\N	力气	Strength	\N	\N	\N	\N	\N	\N
-30449	刚强	剛強	gāngqiáng	a person prone to violence	noun	\N	力气	Strength	\N	\N	\N	\N	\N	\N
-30450	刚彊	剛彊	gāngqiáng	a person prone to violence	noun	\N	力气	Strength	\N	\N	\N	\N	\N	\N
+30445	彊	\N	jiàng	stubborn / unyielding	adjective	\N	\N	力气	Strength	\N	\N	\N	\N	Variant of 强/強
+30446	彊	\N	qiǎng	to strive / to make an effort	verb	\N	\N	力气	Strength	\N	\N	\N	\N	Variant of 强/強
+30447	刚强	剛強	gāngqiáng	staunch / strong / stubborn	verb	\N	\N	力气	Strength	\N	\N	\N	\N	\N
+30448	刚彊	剛彊	gāngqiáng	staunch / strong / stubborn	verb	\N	\N	力气	Strength	\N	\N	\N	\N	\N
+30449	刚强	剛強	gāngqiáng	a person prone to violence	noun	\N	\N	力气	Strength	\N	\N	\N	\N	\N
+30450	刚彊	剛彊	gāngqiáng	a person prone to violence	noun	\N	\N	力气	Strength	\N	\N	\N	\N	\N
 30451	调伏	調伏	diàofú	to mediate between physical, verbal, and mental karma and overcome evil	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	to lead people away from evil
-30452	问讯	問訊	wènxùn	to inquire / to greet	verb	\N	语言	Language	\N	\N	\N	\N	\N	\N
-30453	问讯	問訊	wènxùn	to join palms as a greeting	verb	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pratisammodana; especially to a teacher	\N
-30454	侍者	\N	shìzhě	an attendant / a waiter	noun	\N	古文	Classical Chinese	\N	\N	\N	\N	\N	\N
+30452	问讯	問訊	wènxùn	to inquire / to greet	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
+30453	问讯	問訊	wènxùn	to join palms as a greeting	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pratisammodana; especially to a teacher
+30454	侍者	\N	shìzhě	an attendant / a waiter	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 30455	五浊恶世	五濁惡世	Wŭ Zhuó è Shì	Saha World / Sahā World / Sahalokadhatu / the World of Suffering / the Evil World of the Five Turbidities	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-30456	赞叹	讚歎	zàntàn	to praise	verb	\N	语言	Language	\N	\N	\N	\N	\N	\N
+30456	赞叹	讚歎	zàntàn	to praise	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
 30457	檀波罗蜜	檀波羅蜜	tán bōluómì	dana-paramita / the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: dāna-pāramitā; the first of the six paramitas 六度
 30458	尸波罗蜜	尸波羅蜜	shī bōluómì	sila-paramita / the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śīla-pāramitā; the second of the six paramitas 六度
 30459	毘离耶	毘離耶	pílíyē	virya / diligence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vīrya; the third of the six paramitas 六度
@@ -30480,7 +30480,7 @@
 30480	噉	\N	dàn	to entice / to lure	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 30481	测度	測度	cèdù	to measure	verb	\N	\N	测控	Measurement and Control	\N	\N	\N	\N	\N
 30482	果	\N	guǒ	fruit	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	guo3.mp3	\N
-30483	果	\N	guǒ	as expected / really	acverb	\N	\N	虚词	Function Words	\N	\N	\N	guo3.mp3	\N
+30483	果	\N	guǒ	as expected / really	adverb	\N	\N	虚词	Function Words	\N	\N	\N	guo3.mp3	\N
 30484	果	\N	guǒ	if really / if expected	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	guo3.mp3	\N
 30485	设使	設使	shèshǐ	in case / if suppose	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 30486	愿	願	yuàn	cautious and honest	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	yuan4.mp3	\N
@@ -30754,7 +30754,7 @@
 30754	讫	訖	qì	all	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	qi4.mp3	Synonym discussion: in this sense 讫 has the same meaning as 尽 or 都.
 30755	讫	訖	qì	continuously / always	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	qi4.mp3	Synonym discussion: in this sense 讫 has the same meaning as 毕竟 or 终究.
 30756	讫	訖	qì	indicates completion of an action	auxiliary verb	\N	\N	虚词	Function Words	\N	\N	\N	qi4.mp3	Used after a verb to indicate that the action has completed.
-30757	财首菩萨	財首菩薩	Cái Shǒu Púsà	Bodhisattva Foremost Wealth	auxiliary proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘	Mahayana	\N	qi4.mp3	\N
+30757	财首菩萨	財首菩薩	Cái Shǒu Púsà	Bodhisattva Foremost Wealth	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘	Mahayana	\N	qi4.mp3	\N
 30758	不可思	\N	bù kě sī	unthinkable / unimaginable	phrase	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 30759	不可议	不可議	bù kě yì	indescribable	phrase	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 30760	不可量	\N	bù kě liàng	uncountable / unmeasurable	phrase	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
@@ -31053,7 +31053,7 @@
 31053	时	時	shí	tense	noun	\N	\N	语法	Grammar	\N	\N	\N	shi2.mp3	Synonym discussion: in this sense 时 is similar in meaning to 时态.
 31054	时	時	shí	o'clock	noun	\N	\N	时间	Time	\N	\N	\N	shi2.mp3	Synonym discussion: in this sense 时 is similar in meaning to 钟点.
 31055	光阴	光陰	guāngyīn	available time	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
-31056	时	時	shí	days / years	\N	\N	时间	Time	\N	\N	\N	\N	Synonym discussion: in this sense 时 is similar in meaning to 岁月.	\N
+31056	时	時	shí	days / years	noun	\N	\N	时间	Time	\N	\N	\N	\N	Synonym discussion: in this sense 时 is similar in meaning to 岁月.
 31057	时势	時勢	shíshì	the current situation	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 31058	时局	時局	shíjú	the current political situation	noun	\N	\N	政治	Politics	\N	\N	\N	\N	\N
 31059	时	時	shí	the current situation / the current political situation	noun	\N	\N	状况	Condition	\N	\N	\N	shi2.mp3	Synonym discussion: in this sense 时 is similar in meaning to 时势 or 时局.
@@ -31284,7 +31284,7 @@
 31284	慧又	\N	Huì Yòu	Hye U	proper noun	师父	Venerable	佛教	Buddhism	朝鲜	Korea	\N	\N	Hangul: 혜우; a Korean monk
 31285	快宗	\N	Kuài Zōng	Kwae Jong	proper noun	师父	Venerable	佛教	Buddhism	朝鲜	Korea	\N	\N	Hangul: 쾌종; a Korean monk
 31286	井然有序	\N	jǐngrán yǒu xù	everything clear and in good order / neat and tidy	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
-31287	在生	\N	zài shēng	while alive / during one's lifetime phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	In this phrase 生 means lifetime	\N
+31287	在生	\N	zài shēng	while alive / during one's lifetime	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	In this phrase 生 means lifetime
 31288	答言	\N	dá yán	to reply	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	In this phrase 言 acts as a particle with no meaning
 31289	鳖	鱉	biē	freshwater soft-shelled turtle	noun	\N	\N	动物学	Zoology	\N	\N	\N	\N	\N
 31290	食噉	\N	shídàn	to eat	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -31596,13 +31596,13 @@
 31596	行	\N	hèng	to go / to walk / to move / to travel / to circulate	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
 31597	行	\N	hàng	to go / to walk / to move / to travel / to circulate	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
 31598	行	\N	héng	to go / to walk / to move / to travel / to circulate	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
-31599	脚踝	腳踝	jiǎohuái an ankle / malleolus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N	\N
+31599	脚踝	腳踝	jiǎohuái	an ankle / malleolus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 31600	联珠	聯珠	liánzhū	beads / a string of beads	noun	\N	\N	配饰	Jewelry	\N	\N	\N	\N	\N
-31601	高鼻	\N	gāo bí a tall nose / a high bridged nose	phrase	\N	\N	健康	Health	\N	\N	\N	\N	\N	\N
-31602	握柄	\N	wòbǐng to wield power / to be in power	verb	\N	\N	社会	Society	\N	\N	\N	\N	\N	\N
-31603	掌权	\N	zhǎngquán to wield power / to be in power	verb	\N	\N	社会	Society	\N	\N	\N	\N	\N	\N
-31604	开经偈	開經偈	Kāi Jīng Jì Sutra Opening Verse	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Composed by Wu Ze Tiang 武則天, used in Dharma services.	\N
-31605	七佛灭罪真言	七佛滅罪真言	Qī Fó Miè Zuì Zhēnyán Bhisajya Sapta Jina Bhasitam Papa Vinas ana Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, Seven Buddhas Elimination of Sins Dharani	\N
+31601	高鼻	\N	gāo bí	a tall nose / a high bridged nose	phrase	\N	\N	健康	Health	\N	\N	\N	\N	\N
+31602	握柄	\N	wòbǐng	to wield power / to be in power	verb	\N	\N	社会	Society	\N	\N	\N	\N	\N
+31603	掌权	\N	zhǎngquán	to wield power / to be in power	verb	\N	\N	社会	Society	\N	\N	\N	\N	\N
+31604	开经偈	開經偈	Kāi Jīng Jì	Sutra Opening Verse	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Composed by Wu Ze Tiang 武則天, used in Dharma services.
+31605	七佛灭罪真言	七佛滅罪真言	Qī Fó Miè Zuì Zhēnyán	Bhisajya Sapta Jina Bhasitam Papa Vinas ana Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, Seven Buddhas Elimination of Sins Dharani
 31606	眉心	\N	méixīn	the flat area of forehead between the eyebrows / glabella	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 31607	高妙	\N	gāomiào	masterful	adjective	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 31608	毘卢遮那	毘盧遮那	Pílúzhēnà	Vairocana Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vairocana
@@ -31809,7 +31809,7 @@
 31809	善根	\N	shàngēn	virtuous roots / good roots 	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 31810	主命鬼王	\N	Zhǔ Mìng Guǐ Wáng	Master of Life Ghost King 	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Ksitigarbha Sutra
 31811	形	\N	xíng	a shape / a form	noun	\N	\N	形态	Form	\N	\N	\N	xing2.mp3	In this sense 形 is synonomous with 形体.
-31812	容貌	\N	róngsè	countenance / personage	noun	\N	\N	人	People	\N	\N	\N	\N	\N
+31812	容色	\N	róngsè	countenance / personage	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
 31813	形	\N	xíng	the natural environment or a natural characteristic	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xing2.mp3	\N
 31814	形	\N	xíng	circumstances / situation	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xing2.mp3	In this sense 形 is synonomous with 情势 or 形势.
 31815	情势	情勢	xíngshì	circumstances / situation	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -31928,7 +31928,7 @@
 31928	日轮	日輪	rìlún	the Sun	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 31929	月轮	月輪	yuèlún	the Moon	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 31930	同音	\N	tóngyīn	in unison	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-31931	同音	\N	tóngyīn	a homophone	noun	\N	\N	Linguistics	语音学	\N	\N	\N	\N	\N
+31931	同音	\N	tóngyīn	a homophone	noun	\N	\N	语言学	Linguistics	语音学	Phonetics	\N	\N	\N
 31932	向者	\N	xiàngzhě	in the past / formerly	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 31933	沙门	沙門	shāmén	the Shramana movement	noun	\N	\N	宗教	Religion	印度	India	\N	\N	Sanskrit: śramaṇa, Pali: samaṇa; a non-Vedic religious movement in ancient India
 31934	并称	並稱	bìngchēng	a compound word	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
@@ -32156,7 +32156,7 @@
 32156	有漏	\N	yǒulòu	having flow / sāsrava	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	lou4.mp3	Sanskrit: sāsrava
 32157	思惟	\N	sīwéi	intention / saṃkalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: saṃkalpa, Pali: sankappa; as the second element of the Noble Eightfold Path the meaning is closer to intention than thought (Sanskrit cintana)
 32158	正志	正誌	zhèng zhì	Right Intention / Right Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyak-saṃkalpa, Pali: sammā sankappa, the second element of the Eight-fold Noble Path 八正道, includes avoiding the three poisons of greed, hatred, and ignorance
-32159	正分別	\N	zhèng fēnbié	Right Intention / Right Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyak-saṃkalpa, Pali: sammā sankappa, the second element of the Eight-fold Noble Path 八正道, includes avoiding the three poisons of greed, hatred, and ignorance
+32159	正分别	正分別	zhèng fēnbié	Right Intention / Right Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyak-saṃkalpa, Pali: sammā sankappa, the second element of the Eight-fold Noble Path 八正道, includes avoiding the three poisons of greed, hatred, and ignorance
 32160	谛念	諦念	dì niàn	Right Intention / Right Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyak-saṃkalpa, Pali: sammā sankappa, the second element of the Eight-fold Noble Path 八正道, includes avoiding the three poisons of greed, hatred, and ignorance
 32161	正方便	\N	zhèng fāngbiàn	Right Effort	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyag-vyāyāma, Pali: sammā-vāyāma; the sixth element of the Eight-fold Noble Path 八正道
 32162	正治	\N	zhèng zhì	Right Effort	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyag-vyāyāma, Pali: sammā-vāyāma; the sixth element of the Eight-fold Noble Path 八正道
@@ -32344,9 +32344,9 @@
 32344	我	\N	wǒ	self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	wo3.mp3	Sanskrit: ātman
 32345	萧统	蕭統	Xiāo Tǒng	Xiao Tong / Prince Chao Ming / Prince Zhao Ming	proper noun	太子	Prince	佛教	Buddhism	中国	China	\N	\N	501-531, known for creating the 32 divisions of Kumārajīva's translation of the Diamond Sutra
 32346	昭明太子	\N	Zhāo Míng Tàizǐ	Xiao Tong / Prince Chao Ming / Prince Zhao Ming	proper noun	太子	Prince	佛教	Buddhism	中国	China	\N	\N	501-531, known for creating the 32 divisions of Kumārajīva's translation of the Diamond Sutra
-32347	盘长	盤長 páncháng	endless knot / eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝	\N
-32348	西藏结	西藏結 Xīzàng jié	endless knot / eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝	\N
-32349	藏结	藏結 Zàng jié	endless knot / eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝	\N
+32347	盘长	盤長	páncháng	endless knot / eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝
+32348	西藏结	西藏結	Xīzàng jié	endless knot / eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝
+32349	藏结	藏結	Zàng jié	endless knot / eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝
 32350	身	\N	shēn	body / kaya / kāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shen1.mp3	Sanskrit: kāya
 32351	大身	\N	dà shēn	great body / mahakaya / mahākāya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: mahākāya
 32352	四句偈	\N	sì jù jì	a four line gatha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An especially common form in Buddhist texts
@@ -32609,7 +32609,7 @@
 32609	印谱	印譜	yìnpǔ	a collection of seal stamps	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 32610	鄙人	\N	bǐrén	your humble servant / I	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32611	天帝释	天帝釋	Tiān Dì Shì	Sakra	proper noun	\N	\N	宗教	Religion	印度教	Hinduism	\N	\N	Sanskrit: śakra
-32612	寺观	寺觀	sì guān	exterior of a temple	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N	\N
+32612	寺观	寺觀	sì guān	exterior of a temple	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 32613	铁线描	鐵線描	tiěxiàn miáo	iron-wire drawing	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 32614	武宗	\N	Wǔ Zōng	Emperor Zhengde / Wu Zong	proper noun	皇帝	Emperor	历史	History	明朝	Ming Dynasty	\N	\N	(Lived 1491－1521 reigned 1506－1521) Tenth Ming Emperor
 32615	孟津	\N	Mèngjīn	Mengjin	proper noun	\N	\N	地方	Places	河南	Henan	\N	\N	\N
@@ -32642,7 +32642,7 @@
 32642	邙	\N	Máng	Mount Mang	proper noun	\N	\N	地方	Places	中国	China	\N	\N	In Luoyang, Henan, the location of many Han, Wei and Jin dynasty royal tombs
 32643	邙山	\N	Máng Shān	Mount Mang	proper noun	\N	\N	地方	Places	中国	China	\N	\N	In Luoyang, Henan, the location of many Han, Wei and Jin dynasty royal tombs
 32644	景德	\N	Jǐng Dé	Jing De reign	proper noun	年号	Reign Name	历史	History	中国	China	\N	\N	1004–1007, second reign period of Emperor Zhenzong of Song
-32645	玉清昭应宫	玉清昭應宮	Yù Qīng Zhāo Yīng Gōng Yu Qing Zhao Ying Temple	proper noun	宫	Temple	历史	History	中国	China	\N	\N	Name of a Taoist temple built from 1009&mdash;1014	\N
+32645	玉清昭应宫	玉清昭應宮	Yù Qīng Zhāo Yīng Gōng	Yu Qing Zhao Ying Temple	proper noun	宫	Temple	历史	History	中国	China	\N	\N	Name of a Taoist temple built from 1009&mdash;1014
 32646	名列	\N	míngliè	to rank / to be among	verb	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 32647	榜首	\N	bǎngshǒu	the top of the list	noun	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 32648	檀香	\N	zhāntán	sandalwood	noun	\N	\N	植物学	Botany	\N	\N	\N	\N	\N
@@ -32888,3 +32888,5 @@
 32888	第四	\N	dì sì	fourth / the fourth is	ordinal	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 32889	连音	連音	liányīn	sandhi	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	Sanskrit: saṃdhi; the alteration of sounds due to sounds of neighboring words or fusion of sounds.
 32890	南天大学	南天大學	Nán Tiān Dàxué	Nan Tien Institute	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Buddhist educational institution located in Australia.
+32891	旃檀	\N	zhāntán	sandalwood	noun	\N	\N	植物学	Botany	\N	\N	\N	\N	\N
+

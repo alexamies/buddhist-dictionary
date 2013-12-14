@@ -70,6 +70,16 @@ database. They work directly from the text files.
    > SELECT medium_resolution, author FROM illustrations WHERE author NOT IN (SELECT name FROM authors);
    > SELECT medium_resolution, license FROM illustrations WHERE license NOT IN (SELECT name FROM licenses);
 
+   For the words table use statements like
+
+   > SELECT id, topic_cn FROM words WHERE topic_cn NOT IN (SELECT simplified FROM topics);
+   > SELECT id, grammar FROM words WHERE grammar NOT IN (SELECT english FROM grammar);
+
+   For the synonyms table use statements like
+
+   > SELECT simplified1, simplified2 FROM synonyms WHERE simplified1 NOT IN (SELECT simplified FROM words);
+   > SELECT simplified1, simplified2 FROM synonyms WHERE simplified2 NOT IN (SELECT simplified FROM words);
+
    Fix the problems by editing the data text file then set the relational check on with
 
    > SET foreign_key_checks = 1;

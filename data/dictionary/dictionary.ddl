@@ -185,6 +185,36 @@ CREATE TABLE illustrations (medium_resolution VARCHAR(255),
 ;
 
 /*
+ * Table for mapping nominal measure words to matching nouns
+ * measure_word:	Simplified Chinese text for the measure word
+ * noun:			Simplified Chinese text for the matching noun
+ */
+CREATE TABLE measure_words (
+	measure_word VARCHAR(80),
+	noun VARCHAR(80),
+	PRIMARY KEY (measure_word, noun),
+	FOREIGN KEY (measure_word) REFERENCES words(simplified),
+	FOREIGN KEY (noun) REFERENCES words(simplified)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
+ * Table for synonyms
+ */
+CREATE TABLE synonyms (
+	simplified1 VARCHAR(125) NOT NULL,
+	simplified2 VARCHAR(125) NOT NULL,
+	PRIMARY KEY (simplified1, simplified2)/*,
+	FOREIGN KEY (simplified1) REFERENCES words(simplified),
+	FOREIGN KEY (simplified2) REFERENCES words(simplified)*/
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
  * Table for Kangxi radicals
  *
  * id           A unique identifier for the radical
