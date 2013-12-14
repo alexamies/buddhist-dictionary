@@ -33,10 +33,10 @@ require_once 'inc/word_detail_top.php' ;
           "<textarea name='sentence' rows='2' cols='50' id='searchPhrase'>$searchTerm</textarea>\n" .
           "<input id='searchButton' type='submit' value='Search' title='Search'/>\n" .
           "<input type='radio' name='searchtype' id='word' value='word' checked='checked' 
-                  onclick=\"showSearch('searchWord', 'searchPhrase', '/word_detail1.php')\"/>\n" .
+                  onclick=\"showSearch('searchWord', 'searchPhrase', 'word_detail1.php')\"/>\n" .
           "<label for='word'>Word</label>\n" .
           "<input type='radio' name='searchtype' id='phrase' value='phrase' 
-                  onclick=\"showSearch('searchPhrase', 'searchWord', '/sentence_lookup.php')\"/>\n" .
+                  onclick=\"showSearch('searchPhrase', 'searchWord', 'sentence_lookup.php')\"/>\n" .
           "<label for='phrase'>Phrase</label>\n" .
           "<p/><a href='#' id='advancedLink' onclick=\"showBlock('advancedDiv')\">Advanced</a>\n" .
           "<div id='advancedDiv'>\n" .
@@ -190,10 +190,10 @@ require_once 'inc/word_detail_top.php' ;
       } else if ($grammarEn == 'measure word') {
         $measureWordDAO = new MeasureWordDAO();
         $nouns = $measureWordDAO->getNounsForMeasureWord($word->getSimplified());
-        if (isset($mws) && count($nouns) > 0) {
+        if (isset($nouns) && count($nouns) > 0) {
           print("<p>Matching nouns: ");
           foreach ($nouns as  $noun) {
-            print("<a href=\"/word_detail.php?id=" . $noun->getId() . "\">" .
+            print("<a href=\"word_detail.php?id=" . $noun->getId() . "\">" .
                   $noun->getSimplified() .
                   "</a> ");
           }

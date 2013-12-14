@@ -12,7 +12,7 @@ $script = $_SERVER['SCRIPT_NAME'];
 require_once 'words_dao.php' ;
 // require_once 'example_dao.php' ;
 require_once 'measure_word_dao.php' ;
-// require_once 'synonym_dao.php' ;
+require_once 'synonym_dao.php' ;
 // require_once 'related_dao.php' ;
 require_once 'grammar_lookup.php';
   	
