@@ -2,18 +2,19 @@
 
 ### Word count
 
-Word count: 68, known words: 6, new words: 52
+Word count: 68, known words: 8, new words: 50
 
 ### Frequency of known words:
-bhagavān : 3<br/>
-nāma : 1<br/>
-śrutam : 1<br/>
-mayā : 1<br/>
-prajñāpāramitā : 1<br/>
-prakṣālya : 1<br/>
+[khalu](sanskrit_query.php?word=khalu khalu) : 3<br/>
+[bhagavān](sanskrit_query.php?word=bhagavān bhagavān) : 3<br/>
+[nāma](sanskrit_query.php?word=nāma nāma) : 1<br/>
+[śrutam](sanskrit_query.php?word=śrutam śrutam) : 1<br/>
+[evaṃ](sanskrit_query.php?word=evaṃ evaṃ) : 1<br/>
+[mayā](sanskrit_query.php?word=mayā mayā) : 1<br/>
+[prajñāpāramitā](sanskrit_query.php?word=prajñāpāramitā prajñāpāramitā) : 1<br/>
+[prakṣālya](sanskrit_query.php?word=prakṣālya prakṣālya) : 1<br/>
 
 ### Frequency of new words
-khalu : 3<br/>
 atha : 3<br/>
 piṇḍāya : 2<br/>
 mahānagarīṃ : 2<br/>
@@ -31,7 +32,6 @@ pratimukhīṃ : 1<br/>
 nyaṣīdatprajñapta : 1<br/>
 śrāvastyāṃ : 1<br/>
 pātracīvaramādāya : 1<br/>
-evaṃ : 1<br/>
 pūrvāhṇakālasamaye : 1<br/>
 nyaṣīdan : 1<br/>
 ekānte : 1<br/>

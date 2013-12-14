@@ -1,11 +1,12 @@
+# -*- coding: utf-8 -*-
 """Command line to compile a vocabulary from a document. ======================
 
 The analysis is output in markdown format.
 """
-import re
-import string
+import regex
 
 DICT_FILE_NAME = '../data/dictionary/sanskrit.txt'
+PATTERN = regex.compile('(\D+)', regex.UNICODE)
 
 
 def BuildVocabulary(directory, infile):
@@ -28,6 +29,9 @@ def BuildVocabulary(directory, infile):
         wc += len(words)
         for token in words:
             word = _StripPunctuation(token)
+            if not word:
+                continue
+            word = _ConvertNonStandard(word)
             if word in sdict:
                 if word not in known_words:
                     known_words[word] = 1
@@ -42,10 +46,11 @@ def BuildVocabulary(directory, infile):
     print('### Word count\n')
     print('Word count: %d, known words: %d, new words: %d' % 
           (wc, len(known_words), len(new_words)))
-    print('### Known words:')
+    print('')
+    print('### Frequency of known words:')
     _PrintFrequency(known_words)
-    print()
-    print('### New words')
+    print('')
+    print('### Frequency of new words')
     _PrintFrequency(new_words)
 
 
@@ -74,19 +79,25 @@ def _PrintFrequency(word_freq):
     args:
         word_freq: A dictionary of words
     """
-    for k, v in word_freq.items():
-        print("%s : %d<br/>" % (k, v))
+    keys = sorted(word_freq, key=lambda key: -word_freq[key])
+    for k in keys:
+        print("%s : %d<br/>" % (k, word_freq[k]))
 
 
 def _StripPunctuation(token):
-    """Strips punction from the token
+    """Strips punction and numbers from the token to make it a word.
 
     args:
-        token: A token parsed from a line of text
+        token: A string token
     """
-    #p = re.compile(r'([^\|])+')
-    #word = p.sub(token, r'{\1}')
-    #return word.strip()
-    #to_strip = string.punctuation + ' -'
-    return token.strip(string.punctuation)
+    return regex.sub('[\|\-\(\)\?0-9]', '', token)
+
+
+def _ConvertNonStandard(token):
+    """Strips punction and numbers from the token to make it a word.
+
+    args:
+        token: A string token
+    """
+    return regex.sub('ṁ', 'ṃ', token)
 
