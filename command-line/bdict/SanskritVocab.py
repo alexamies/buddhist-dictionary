@@ -6,7 +6,6 @@ The analysis is output in markdown format.
 import regex
 
 DICT_FILE_NAME = '../data/dictionary/sanskrit.txt'
-PATTERN = regex.compile('(\D+)', regex.UNICODE)
 
 
 def BuildVocabulary(directory, infile):
@@ -48,7 +47,7 @@ def BuildVocabulary(directory, infile):
           (wc, len(known_words), len(new_words)))
     print('')
     print('### Frequency of known words:')
-    _PrintFrequency(known_words)
+    _PrintFrequencyLinks(known_words)
     print('')
     print('### Frequency of new words')
     _PrintFrequency(new_words)
@@ -73,8 +72,19 @@ def _OpenDictionary():
     return sdict
 
 
+def _PrintFrequencyLinks(word_freq):
+    """Prints the set of words with markdown links
+
+    args:
+        word_freq: A dictionary of words
+    """
+    keys = sorted(word_freq, key=lambda key: -word_freq[key])
+    for k in keys:
+        print("[%s](sanskrit_query.php?word=%s '%s') : %d<br/>" % (k, k, k, word_freq[k]))
+
+
 def _PrintFrequency(word_freq):
-    """Prints the set of words to the console
+    """Prints the set of words without links
 
     args:
         word_freq: A dictionary of words
@@ -90,7 +100,7 @@ def _StripPunctuation(token):
     args:
         token: A string token
     """
-    return regex.sub('[\|\-\(\)\?0-9]', '', token)
+    return regex.sub('[\|\-\(\)\?\,0-9]', '', token)
 
 
 def _ConvertNonStandard(token):
