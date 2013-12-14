@@ -47,7 +47,7 @@
 47	17994	dharma	dhárma	धर्म	dhamma	法	dharma /  natural law	\N	masculine	\N
 48	3166	bodhisattva	bodhisattva	बोधिसत्त्व	bodhisatta	菩薩	bodhisattva	\N	noun	\N
 49	3174	bodhi	bodhi	बोधि	bodhi	菩提	enlightenment	\N	noun	\N
-50	21078	sattva	sattva	सत्त्व	\N	有情	sattva	a being	noun	\N
+50	21078	sattva	sattva	सत्त्व	\N	有情	sattva	a being / a creature	noun	\N
 51	18698	manjusri	mañjuśrī	मञ्जुश्री	\N	文殊	Manjusri	\N	proper_noun	\N
 52	11853	ksitigarbha	kṣitigarbha	क्षितिगर्भ	\N	地藏	Ksitigarbha	Literally, earth (kṣiti) store	proper_noun	\N
 53	18705	samantabhadra	samantabhadra	समन्तभद्र	\N	普贤	Samantabhadra	\N	proper_noun	\N
@@ -206,7 +206,7 @@
 206	19666	sukhavati	sukhāvatī	सुखावती	\N	極樂世界	Western Pure Land / Sukhavati	\N	proper_noun	\N
 207	18686	amitayurdhyana sutra	amitāyurdhyāna sūtra	अमितायुर्ध्यान सूत्र	\N	觀無量壽佛經	The Sutra on the Visualization of the Buddha of Infinite Lifespan / Amitayurdhyana Sutra	\N	proper_noun	\N
 208	27612	rahula	rāhula	राहुल	\N	羅睺羅、羅睺睺	Rahula	\N	proper_noun	\N
-209	6645	subhuti	subhūti	सुभूति	\N	須菩提	Subhuti	\N	proper_noun	\N
+209	6645	subhute	subhūte	सुभूते	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case.	proper_noun	\N
 210	18620	sariputra	śāriputra	शारिपुत्र	sāriputta	舍利弗	Sariputra / Sariputta	\N	proper_noun	\N
 211	28111	rama	rāma	राम	\N	羅摩	Rama	\N	proper_noun	\N
 212	21961	avatara	avatāra	अवतार	\N	化身	avatar / incarnation	\N	noun	\N
@@ -367,7 +367,7 @@
 367	17992	vedana	vedanā	वेदना	vedanā	受、感受	feelings / sensations	One of the five aggregates	feminine	\N
 368	28434	vijnana	vijñāna	विज्ञान	\N	識	knowledge / mind / consciousness	\N	noun	\N
 369	28435	ayatana	āyatana	आयतन	āyatana	十二處	ayatana / sense bases / sense-media	\N	noun	\N
-370	8840	evam	evaṁ	एवं	\N	如是	thus / so	\N	pronoun	\N
+370	8840	evam	evaṃ	एवं	\N	如是	thus / so	\N	pronoun	\N
 371	321	maya	mayā	मया	\N	我	I / me	\N	pronoun	\N
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	to hear	\N	verb	\N
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
@@ -961,7 +961,7 @@
 961	21176	vimoksa	vimokṣa	विमोक्ष	vimokkha	解脫	liberation	\N	masculine	\N
 962	32326	tyaga	tyāga	त्याग	cāga	棄捨	abandoning / giving up / generosity	\N	masculine	\N
 963	399	pudgala	pudgala	पुद्गल	\N	人	person / soul	The standard translation by Kumārajīva is 人	masculine	\N
-964	32828	ātmasaṃjñā	atmasamjna	आत्मसंज्ञा	\N	我相	the notion of a self	One of the four notions (四相). The notion of a self is mistaken.	phrase	\N
+964	32828	atmasamjna	ātmasaṃjñā	आत्मसंज्ञा	\N	我相	the notion of a self	One of the four notions (四相). The notion of a self is mistaken.	phrase	\N
 965	28120	srivatsa	śrīvatsa	श्रीवत्स	\N	盤長、吉祥結、藏結、西藏結	endless knot / eternal knot	\N	noun	\N
 966	3348	bhuta	bhūta	भूत	\N	真、正、眞、實	true /genuine	\N	adjective	\N
 967	8840	tatha	tathā	तथा	\N	如是	thus	\N	indecl	\N
@@ -1143,5 +1143,48 @@
 1143	747	vasa	vasa	वस	\N	住	to live / to dwell	Stem form of the verb	verb1	vasa
 1144	747	vasasi	vasasi	वससि	\N	住	you live / you dwell	Second person singular form of the verb	verb1	vasa
 1145	747	vasami	vasāmi	वसामि	\N	住	I live / I dwell	First person singular form of the verb	verb1	vasa
-1146	6645	subhute	subhūte	सुभूते	\N	須菩提	Subhuti	Word ending changed for Sanskrit grammatical function	proper_noun	\N
+1146	28422	bhagavan	bhagavan	भगवन्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat / Bhagavan / Bhagwan / Bhagawan	Normally written as Bhagavān, the <em>ā</em> may change to an <em>a</em> for Sandhi.	proper_noun	\N
+1147	3811	khalu	khalu	खलु	\N	爾	now then / indeed / certainly	\N	indecl	khalu
+1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
+1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana / the practice of giving	Word ending modified for the accusive case	noun	\N
+1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. The suffix ṃ is added for the accusative case.	noun	\N
+1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	\N
+1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
+1153	21078	sattva	sattvā	सत्त्वा	\N	有情	sattva	a being / a creature	\N	noun	\N
+1154	28804	puruso	puruṣo	पुरुषो	\N	丈夫	a man / a great man	Normally written as puruṣa but the word ending is modified here for Sanskrit grammar	noun	\N
+1155	3166	bodhisattvo	bodhisattvo	बोधिसत्त्वो	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
+1156	3166	bodhisattva	bodhisattvā	बोधिसत्त्वा	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
+1157	17994	dharmo	dharmo	धर्मो	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
+1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed / supreme	Normally written as anuttara but the word ending is modified here for sandhi	masculine	adjective	\N
+1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Normally written as puruṣa but the word ending is modified here for the accusive case	masculine	\N
+1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	sattva	a being / a creature	Normally written as puruṣa but the word ending is modified here for the nominative case	noun	\N
+1161	17994	dharma	dharmā	धर्मा	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
+1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	noun	\N
+1163	7135	punyaskandha	puṇyaskandha	पुण्यस्कन्ध	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze	noun	\N
+1164	6645	subhute	subhute	सुभुते	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case. Normally written as subhūte but changed here for sandhi.	proper_noun	\N
+1165	412	bhasitah	bhāṣitaḥ	भाषितः	\N	說	said	Common form is bhāṣita	adjective	\N
+1166	412	bhasita	bhāṣitā	भाषिता	\N	說	said	Common form is bhāṣita	adjective	\N
+1167	412	bhasitah	bhāṣitāḥ	भाषिताः	\N	說	said	Common form is bhāṣita	adjective	\N
+1168	31047	atha	atha	अथ	\N	時	now / at that time	\N	indecl	\N
+1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. The suffix ḥ is added for the nominative case.	noun	\N
+1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma / the teachings of the Buddha	\N	proper_noun	\N
+1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat / Bhagavan / Bhagwan / Bhagawan	Literally, Blessed One. Normally written as Bhagavān.	proper_noun	\N
+1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	\N
+1173	4250	sukaram	sukaraṃ	सुकरं	\N	易	easy	Normally written as sukara but the word ending is modified here for Sanskrit grammar	adjective	\N
+1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
+1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world / a region of the world	Normally written as lokadhātu but the word ending is modified here for the accusive case	masculine	\N
+1176	3618	buddha	buddhā	बुद्धा	\N	佛	Buddha	Normally written as buddha but the word ending is modified here for Sandhi	proper_noun	\N
+1177	8847	mahasattva	mahāsattvā	महासत्त्वा	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	noun	\N
+1178	363	lokadhatun	lokadhātūn	लोकधातून्	\N	世界	a world / a region of the world	Normally written as lokadhātu but the word ending is modified here for Sanskrit grammar	masculine	\N
+1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Common form is bhāṣita	adjective	\N
+1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna / Srotapanna / Stream-Enterer	\N	proper_noun	\N
+1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	\N	须陀洹、入流	Sotapanna / Srotapanna / Stream-Enterer	\N	proper_noun	\N
+1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Common form is satya	noun	\N
+1183	6645	subhūti	subhūtiḥ	सुभूतिः	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case. The final letter ḥ indicates the nominative case.	proper_noun	\N
+1184	28804	purusah	puruṣaḥ	पुरुष	\N	丈夫	a man / a great man	The final letter ḥ indicates the nominative case.	noun	\N
+1185	6892	arhan	arhan	अर्हन्	arahant	阿羅漢、羅漢	Arhat	Common Sanskrit form is arhat	proper_noun	\N
+1186	6888	gathe	gāthe	गाथे	\N	偈	a verse / stanza	Common Sanskrit form is arhat, may be modified to this form for grammatical reasons	feminine	\N
+1187	17994	dharma	dharma	धर्म	dhamma	法	dharma /  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
+1188	3167	sutram	sūtraṃ	सूत्रं	sutta	經、佛經、長行	sutra	Common Sanskrit form is sūtra, may be modified to this form for grammatical reasons	noun	\N
+1189	17994	dharmah	dharmāḥ	धर्माः	dhamma	法	dharma /  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
 

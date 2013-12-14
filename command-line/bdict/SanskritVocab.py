@@ -47,7 +47,7 @@ def BuildVocabulary(directory, infile):
           (wc, len(known_words), len(new_words)))
     print('')
     print('### Frequency of known words:')
-    _PrintFrequencyLinks(known_words)
+    _PrintFrequencyLinks(known_words, sdict)
     print('')
     print('### Frequency of new words')
     _PrintFrequency(new_words)
@@ -64,23 +64,32 @@ def _OpenDictionary():
             continue
         fields = line.split('\t')
         if fields and len(fields) >= 10:
-            sid = fields[0]
-            cid = fields[1]
-            slatin = fields[2]
-            iast = fields[3]
-            sdict[iast] = fields
+            entry = {}
+            entry['id'] = fields[0]
+            entry['word_id'] = fields[1]
+            entry['latin'] = fields[2]
+            entry['iast'] = fields[3]
+            entry['pali'] = fields[4]
+            entry['traditional'] = fields[5]
+            entry['english'] = fields[6]
+            sdict[iast] = entry
     return sdict
 
 
-def _PrintFrequencyLinks(word_freq):
+def _PrintFrequencyLinks(word_freq, sdict):
     """Prints the set of words with markdown links
 
     args:
         word_freq: A dictionary of words
+        sdict: The dictionary
     """
     keys = sorted(word_freq, key=lambda key: -word_freq[key])
     for k in keys:
-        print("[%s](sanskrit_query.php?word=%s '%s') : %d<br/>" % (k, k, k, word_freq[k]))
+        word = sdict[k]
+        english = word['english']
+        traditinal = word['traditinal']
+        print('[%s](sanskrit_query.php?word=%s '%s %s') : %d<br/>'
+              '' % (k, k, english, traditinal, word_freq[k]))
 
 
 def _PrintFrequency(word_freq):

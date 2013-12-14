@@ -2,20 +2,20 @@
 
 ### Word count
 
-Word count: 68, known words: 8, new words: 50
+Word count: 68, unique words: 58, known words: 9, new words: 49
 
 ### Frequency of known words:
-[khalu](sanskrit_query.php?word=khalu khalu) : 3<br/>
-[bhagavān](sanskrit_query.php?word=bhagavān bhagavān) : 3<br/>
-[nāma](sanskrit_query.php?word=nāma nāma) : 1<br/>
-[śrutam](sanskrit_query.php?word=śrutam śrutam) : 1<br/>
-[evaṃ](sanskrit_query.php?word=evaṃ evaṃ) : 1<br/>
-[mayā](sanskrit_query.php?word=mayā mayā) : 1<br/>
-[prajñāpāramitā](sanskrit_query.php?word=prajñāpāramitā prajñāpāramitā) : 1<br/>
-[prakṣālya](sanskrit_query.php?word=prakṣālya prakṣālya) : 1<br/>
+[atha](sanskrit_query.php?word=atha 'now / at that time 時') : 3<br/>
+[khalu](sanskrit_query.php?word=khalu 'now then / indeed / certainly 爾') : 3<br/>
+[bhagavān](sanskrit_query.php?word=bhagavān 'Bhagavat / Bhagavan / Bhagwan / Bhagawan 薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵') : 3<br/>
+[nāma](sanskrit_query.php?word=nāma 'called 號、名') : 1<br/>
+[śrutam](sanskrit_query.php?word=śrutam 'to hear 聞') : 1<br/>
+[evaṃ](sanskrit_query.php?word=evaṃ 'thus / so 如是') : 1<br/>
+[mayā](sanskrit_query.php?word=mayā 'I / me 我') : 1<br/>
+[prajñāpāramitā](sanskrit_query.php?word=prajñāpāramitā 'prajna-paramita / perfection of wisdom 智慧波羅蜜、慧波羅蜜、般若波羅蜜、明慧度無極') : 1<br/>
+[prakṣālya](sanskrit_query.php?word=prakṣālya 'having washed / to be washed / to be purified 洗') : 1<br/>
 
 ### Frequency of new words
-atha : 3<br/>
 piṇḍāya : 2<br/>
 mahānagarīṃ : 2<br/>
 pādau : 2<br/>

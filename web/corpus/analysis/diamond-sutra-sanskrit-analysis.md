@@ -2,85 +2,110 @@
 
 ### Word count
 
-Word count: 3313, known words: 76, new words: 989
+Word count: 3313, unique words: 1065, known words: 101, new words: 964
 
 ### Frequency of known words:
-[subhūte](sanskrit_query.php?word=subhūte subhūte) : 147<br/>
-[na](sanskrit_query.php?word=na na) : 96<br/>
-[vā](sanskrit_query.php?word=vā vā) : 81<br/>
-[hetoḥ](sanskrit_query.php?word=hetoḥ hetoḥ) : 61<br/>
-[bhagavan](sanskrit_query.php?word=bhagavan bhagavan) : 54<br/>
-[iti](sanskrit_query.php?word=iti iti) : 53<br/>
-[khalu](sanskrit_query.php?word=khalu khalu) : 35<br/>
-[evaṃ](sanskrit_query.php?word=evaṃ evaṃ) : 30<br/>
-[punaḥ](sanskrit_query.php?word=punaḥ punaḥ) : 28<br/>
-[api](sanskrit_query.php?word=api api) : 27<br/>
-[dānaṃ](sanskrit_query.php?word=dānaṃ dānaṃ) : 20<br/>
-[puṇyaskandhaṃ](sanskrit_query.php?word=puṇyaskandhaṃ puṇyaskandhaṃ) : 16<br/>
-[ca](sanskrit_query.php?word=ca ca) : 15<br/>
-[tathāgato](sanskrit_query.php?word=tathāgato tathāgato) : 14<br/>
-[eva](sanskrit_query.php?word=eva eva) : 14<br/>
-[nāsti](sanskrit_query.php?word=nāsti nāsti) : 13<br/>
-[sattvā](sanskrit_query.php?word=sattvā sattvā) : 11<br/>
-[kulaputro](sanskrit_query.php?word=kulaputro kulaputro) : 11<br/>
-[nāma](sanskrit_query.php?word=nāma nāma) : 11<br/>
-[puruṣo](sanskrit_query.php?word=puruṣo puruṣo) : 10<br/>
-[sugata](sanskrit_query.php?word=sugata sugata) : 10<br/>
-[bahu](sanskrit_query.php?word=bahu bahu) : 9<br/>
-[sattvasaṃjñā](sanskrit_query.php?word=sattvasaṃjñā sattvasaṃjñā) : 9<br/>
-[bodhisattvo](sanskrit_query.php?word=bodhisattvo bodhisattvo) : 9<br/>
-[bodhisattvā](sanskrit_query.php?word=bodhisattvā bodhisattvā) : 8<br/>
-[dharmo](sanskrit_query.php?word=dharmo dharmo) : 8<br/>
-[jīvasaṃjñā](sanskrit_query.php?word=jīvasaṃjñā jīvasaṃjñā) : 8<br/>
-[bodhisattva](sanskrit_query.php?word=bodhisattva bodhisattva) : 7<br/>
-[anuttarā](sanskrit_query.php?word=anuttarā anuttarā) : 7<br/>
-[sā](sanskrit_query.php?word=sā sā) : 7<br/>
-[pudgalasaṃjñā](sanskrit_query.php?word=pudgalasaṃjñā pudgalasaṃjñā) : 6<br/>
-[tathāgata](sanskrit_query.php?word=tathāgata tathāgata) : 6<br/>
-[cittaṃ](sanskrit_query.php?word=cittaṃ cittaṃ) : 6<br/>
-[mayā](sanskrit_query.php?word=mayā mayā) : 6<br/>
-[sattvāḥ](sanskrit_query.php?word=sattvāḥ sattvāḥ) : 6<br/>
-[yathā](sanskrit_query.php?word=yathā yathā) : 5<br/>
-[bhagavān](sanskrit_query.php?word=bhagavān bhagavān) : 5<br/>
-[dharmā](sanskrit_query.php?word=dharmā dharmā) : 4<br/>
-[subhute](sanskrit_query.php?word=subhute subhute) : 4<br/>
-[prajñāpāramitā](sanskrit_query.php?word=prajñāpāramitā prajñāpāramitā) : 4<br/>
-[puṇyaskandha](sanskrit_query.php?word=puṇyaskandha puṇyaskandha) : 4<br/>
-[mahāsattvāḥ](sanskrit_query.php?word=mahāsattvāḥ mahāsattvāḥ) : 4<br/>
-[sādhu](sanskrit_query.php?word=sādhu sādhu) : 4<br/>
-[kuśalā](sanskrit_query.php?word=kuśalā kuśalā) : 3<br/>
-[dharmasaṃjñā](sanskrit_query.php?word=dharmasaṃjñā dharmasaṃjñā) : 3<br/>
-[tāni](sanskrit_query.php?word=tāni tāni) : 3<br/>
-[bhavati](sanskrit_query.php?word=bhavati bhavati) : 3<br/>
-[deśita](sanskrit_query.php?word=deśita deśita) : 3<br/>
-[mahākāya](sanskrit_query.php?word=mahākāya mahākāya) : 2<br/>
-[iha](sanskrit_query.php?word=iha iha) : 2<br/>
-[kaḥ](sanskrit_query.php?word=kaḥ kaḥ) : 2<br/>
-[dadāti](sanskrit_query.php?word=dadāti dadāti) : 2<br/>
-[tat](sanskrit_query.php?word=tat tat) : 1<br/>
-[śṛṇu](sanskrit_query.php?word=śṛṇu śṛṇu) : 1<br/>
-[dharmatā](sanskrit_query.php?word=dharmatā dharmatā) : 1<br/>
-[acintya](sanskrit_query.php?word=acintya acintya) : 1<br/>
-[jarāyujā](sanskrit_query.php?word=jarāyujā jarāyujā) : 1<br/>
-[dṛṣṭa](sanskrit_query.php?word=dṛṣṭa dṛṣṭa) : 1<br/>
-[śrutam](sanskrit_query.php?word=śrutam śrutam) : 1<br/>
-[āgacchati](sanskrit_query.php?word=āgacchati āgacchati) : 1<br/>
-[pañca](sanskrit_query.php?word=pañca pañca) : 1<br/>
-[kuladuhitrā](sanskrit_query.php?word=kuladuhitrā kuladuhitrā) : 1<br/>
-[buddha](sanskrit_query.php?word=buddha buddha) : 1<br/>
-[vālukā](sanskrit_query.php?word=vālukā vālukā) : 1<br/>
-[saṃjñā](sanskrit_query.php?word=saṃjñā saṃjñā) : 1<br/>
-[kiṃ](sanskrit_query.php?word=kiṃ kiṃ) : 1<br/>
-[kṣāntipāramitā](sanskrit_query.php?word=kṣāntipāramitā kṣāntipāramitā) : 1<br/>
-[mahāsattva](sanskrit_query.php?word=mahāsattva mahāsattva) : 1<br/>
-[tathā](sanskrit_query.php?word=tathā tathā) : 1<br/>
-[prakṣālya](sanskrit_query.php?word=prakṣālya prakṣālya) : 1<br/>
-[niṣīdati](sanskrit_query.php?word=niṣīdati niṣīdati) : 1<br/>
-[gacchati](sanskrit_query.php?word=gacchati gacchati) : 1<br/>
-[rūpa](sanskrit_query.php?word=rūpa rūpa) : 1<br/>
-[bhāṣita](sanskrit_query.php?word=bhāṣita bhāṣita) : 1<br/>
-[kuru](sanskrit_query.php?word=kuru kuru) : 1<br/>
-[tiṣṭhati](sanskrit_query.php?word=tiṣṭhati tiṣṭhati) : 1<br/>
+[subhūte](sanskrit_query.php?word=subhūte 'Subhuti 須菩提') : 147<br/>
+[na](sanskrit_query.php?word=na 'no / not 無') : 96<br/>
+[vā](sanskrit_query.php?word=vā '或 or') : 81<br/>
+[hetoḥ](sanskrit_query.php?word=hetoḥ 'whence / why 何以') : 61<br/>
+[bhagavan](sanskrit_query.php?word=bhagavan 'Bhagavat / Bhagavan / Bhagwan / Bhagawan 薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵') : 54<br/>
+[iti](sanskrit_query.php?word=iti 'thus 爾、如是') : 53<br/>
+[khalu](sanskrit_query.php?word=khalu 'now then / indeed / certainly 爾') : 35<br/>
+[evaṃ](sanskrit_query.php?word=evaṃ 'thus / so 如是') : 30<br/>
+[punaḥ](sanskrit_query.php?word=punaḥ 'again 再、又、復、重') : 28<br/>
+[api](sanskrit_query.php?word=api 'is it or not 是不是') : 27<br/>
+[dānaṃ](sanskrit_query.php?word=dānaṃ 'dana / the practice of giving 布施、檀那、施') : 20<br/>
+[bhāṣitaḥ](sanskrit_query.php?word=bhāṣitaḥ 'said 說') : 16<br/>
+[puṇyaskandhaṃ](sanskrit_query.php?word=puṇyaskandhaṃ 'a quantity of merit / a quantity of virtue 功德、福、福德') : 16<br/>
+[ca](sanskrit_query.php?word=ca 'and 和、與、及、而、跟') : 15<br/>
+[tathāgato](sanskrit_query.php?word=tathāgato 'Tathagata 如來') : 14<br/>
+[eva](sanskrit_query.php?word=eva 'true / only / very 真、眞') : 14<br/>
+[bhāṣitā](sanskrit_query.php?word=bhāṣitā 'said 說') : 13<br/>
+[nāsti](sanskrit_query.php?word=nāsti 'non existence 無有') : 13<br/>
+[sattvā](sanskrit_query.php?word=sattvā 'sattva 有情') : 11<br/>
+[nāma](sanskrit_query.php?word=nāma 'called 號、名') : 11<br/>
+[kulaputro](sanskrit_query.php?word=kulaputro 'a good man / a son of a noble family 善男子') : 11<br/>
+[puruṣo](sanskrit_query.php?word=puruṣo 'a man / a great man 丈夫') : 10<br/>
+[sugata](sanskrit_query.php?word=sugata 'Immaculately Departed One / Well-Gone 善逝') : 10<br/>
+[bahu](sanskrit_query.php?word=bahu 'many 多') : 9<br/>
+[sattvasaṃjñā](sanskrit_query.php?word=sattvasaṃjñā 'the notion of a being 眾生相') : 9<br/>
+[bhāṣitāḥ](sanskrit_query.php?word=bhāṣitāḥ 'said 說') : 9<br/>
+[bodhisattvo](sanskrit_query.php?word=bodhisattvo 'bodhisattva 菩薩') : 9<br/>
+[jīvasaṃjñā](sanskrit_query.php?word=jīvasaṃjñā 'the notion of a lifespan 壽者相') : 8<br/>
+[bodhisattvā](sanskrit_query.php?word=bodhisattvā 'bodhisattva 菩薩') : 8<br/>
+[dharmo](sanskrit_query.php?word=dharmo 'dharma /  natural law 法') : 8<br/>
+[atha](sanskrit_query.php?word=atha 'now / at that time 時') : 7<br/>
+[anuttarā](sanskrit_query.php?word=anuttarā 'unsurpassed / supreme 阿耨多羅') : 7<br/>
+[puṇyaskandhaḥ](sanskrit_query.php?word=puṇyaskandhaḥ 'a quantity of merit / a quantity of virtue 功德、福、福德') : 7<br/>
+[bodhisattva](sanskrit_query.php?word=bodhisattva 'bodhisattva 菩薩') : 7<br/>
+[sā](sanskrit_query.php?word=sā 'that 那') : 7<br/>
+[pudgalasaṃjñā](sanskrit_query.php?word=pudgalasaṃjñā 'the notion of a person 人相') : 6<br/>
+[sattvāḥ](sanskrit_query.php?word=sattvāḥ 'sattva 有情') : 6<br/>
+[cittaṃ](sanskrit_query.php?word=cittaṃ 'mind 心') : 6<br/>
+[mayā](sanskrit_query.php?word=mayā 'I / me 我') : 6<br/>
+[tathāgata](sanskrit_query.php?word=tathāgata 'Tathagata 如來') : 6<br/>
+[buddhadharmā](sanskrit_query.php?word=buddhadharmā 'the Dharma / the teachings of the Buddha 妙法、薩達摩、佛法') : 5<br/>
+[bhagavān](sanskrit_query.php?word=bhagavān 'Bhagavat / Bhagavan / Bhagwan / Bhagawan 薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵') : 5<br/>
+[bhagavato](sanskrit_query.php?word=bhagavato 'Bhagavat / Bhagavan / Bhagwan / Bhagawan 薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵') : 5<br/>
+[yathā](sanskrit_query.php?word=yathā 'thus / thusly 如是') : 5<br/>
+[prajñāpāramitā](sanskrit_query.php?word=prajñāpāramitā 'prajna-paramita / perfection of wisdom 智慧波羅蜜、慧波羅蜜、般若波羅蜜、明慧度無極') : 4<br/>
+[sādhu](sanskrit_query.php?word=sādhu 'excellent 善哉') : 4<br/>
+[dharmā](sanskrit_query.php?word=dharmā 'dharma /  natural law 法') : 4<br/>
+[mahāsattvāḥ](sanskrit_query.php?word=mahāsattvāḥ 'mahasattva / mohasattva / a great being 摩訶薩、摩訶薩埵') : 4<br/>
+[tathāgataḥ](sanskrit_query.php?word=tathāgataḥ 'Tathagata 如來') : 4<br/>
+[subhute](sanskrit_query.php?word=subhute 'Subhuti 須菩提') : 4<br/>
+[puṇyaskandha](sanskrit_query.php?word=puṇyaskandha 'a quantity of merit / a quantity of virtue 功德、福、福德') : 4<br/>
+[kulaputrā](sanskrit_query.php?word=kulaputrā 'a good man / a son of a noble family 善男子') : 3<br/>
+[bhavati](sanskrit_query.php?word=bhavati 'they become / they are 作') : 3<br/>
+[dharmasaṃjñā](sanskrit_query.php?word=dharmasaṃjñā 'the essential nature of different phenomena 法相') : 3<br/>
+[buddhā](sanskrit_query.php?word=buddhā 'Buddha 佛') : 3<br/>
+[sukaraṃ](sanskrit_query.php?word=sukaraṃ 'easy 易') : 3<br/>
+[tāni](sanskrit_query.php?word=tāni 'those 它們') : 3<br/>
+[deśita](sanskrit_query.php?word=deśita 'instructed / directed / shown 說') : 3<br/>
+[kuśalā](sanskrit_query.php?word=kuśalā 'wholesome / virtuous / benevolent / well-disposed 善') : 3<br/>
+[mahāsattvā](sanskrit_query.php?word=mahāsattvā 'mahasattva / mohasattva / a great being 摩訶薩、摩訶薩埵') : 3<br/>
+[ātmasaṃjñā](sanskrit_query.php?word=ātmasaṃjñā 'the notion of a self 我相') : 3<br/>
+[lokadhātuṃ](sanskrit_query.php?word=lokadhātuṃ 'a world / a region of the world 世界') : 3<br/>
+[mahākāya](sanskrit_query.php?word=mahākāya 'great body 大身') : 2<br/>
+[kaḥ](sanskrit_query.php?word=kaḥ 'who 谁') : 2<br/>
+[lokadhātūn](sanskrit_query.php?word=lokadhātūn 'a world / a region of the world 世界') : 2<br/>
+[iha](sanskrit_query.php?word=iha 'here 這裡') : 2<br/>
+[satyaṃ](sanskrit_query.php?word=satyaṃ 'truth 諦') : 2<br/>
+[bhāṣitam](sanskrit_query.php?word=bhāṣitam 'said 說') : 2<br/>
+[srotaāpanna](sanskrit_query.php?word=srotaāpanna 'Sotapanna / Srotapanna / Stream-Enterer 须陀洹、入流') : 2<br/>
+[dadāti](sanskrit_query.php?word=dadāti 'a gift 禮') : 2<br/>
+[śṛṇu](sanskrit_query.php?word=śṛṇu 'to listen 聽') : 1<br/>
+[jarāyujā](sanskrit_query.php?word=jarāyujā 'born from a womb / viviparous 胎生') : 1<br/>
+[acintya](sanskrit_query.php?word=acintya 'inconceivable / unimaginable / unfathomable 不可思議') : 1<br/>
+[vālukā](sanskrit_query.php?word=vālukā 'sand 沙') : 1<br/>
+[bhāṣita](sanskrit_query.php?word=bhāṣita 'said 說') : 1<br/>
+[gacchati](sanskrit_query.php?word=gacchati 'he goes / she goes / it goes 去') : 1<br/>
+[sūtraṃ](sanskrit_query.php?word=sūtraṃ 'sutra 經、佛經、長行') : 1<br/>
+[gāthe](sanskrit_query.php?word=gāthe 'a verse / stanza 偈') : 1<br/>
+[dharmatā](sanskrit_query.php?word=dharmatā 'inherent nature / essence / true nature 法性、真如法性、真法性、真性') : 1<br/>
+[buddha](sanskrit_query.php?word=buddha 'awakened 覺') : 1<br/>
+[arhan](sanskrit_query.php?word=arhan 'Arhat 阿羅漢、羅漢') : 1<br/>
+[prakṣālya](sanskrit_query.php?word=prakṣālya 'having washed / to be washed / to be purified 洗') : 1<br/>
+[niṣīdati](sanskrit_query.php?word=niṣīdati 'to sit 坐') : 1<br/>
+[rūpa](sanskrit_query.php?word=rūpa 'form 色') : 1<br/>
+[subhūtiḥ](sanskrit_query.php?word=subhūtiḥ 'Subhuti 須菩提') : 1<br/>
+[dṛṣṭa](sanskrit_query.php?word=dṛṣṭa 'seen 見') : 1<br/>
+[puruṣaḥ](sanskrit_query.php?word=puruṣaḥ 'a man / a great man 丈夫') : 1<br/>
+[śrutam](sanskrit_query.php?word=śrutam 'to hear 聞') : 1<br/>
+[kṣāntipāramitā](sanskrit_query.php?word=kṣāntipāramitā 'ksanti-paramita / the paramita of tolerance / the paramita of forbearance 忍辱波羅蜜、忍波羅蜜、羼提波羅蜜、忍辱度無極') : 1<br/>
+[mahāsattva](sanskrit_query.php?word=mahāsattva 'mahasattva / mohasattva / a great being 摩訶薩、摩訶薩埵') : 1<br/>
+[tiṣṭhati](sanskrit_query.php?word=tiṣṭhati 'he stands / he halts 站、停止、停、停住') : 1<br/>
+[tathā](sanskrit_query.php?word=tathā 'thus 如是') : 1<br/>
+[āgacchati](sanskrit_query.php?word=āgacchati 'to come / he comes 來') : 1<br/>
+[tat](sanskrit_query.php?word=tat 'he 他、它') : 1<br/>
+[pañca](sanskrit_query.php?word=pañca 'five 五') : 1<br/>
+[kuladuhitrā](sanskrit_query.php?word=kuladuhitrā 'a good woman / a daughter of a noble family 善女人') : 1<br/>
+[saṃjñā](sanskrit_query.php?word=saṃjñā 'perception / cognition / conceptualization / saṃjñā / samjna 想蘊、想') : 1<br/>
+[kiṃ](sanskrit_query.php?word=kiṃ 'what 如何') : 1<br/>
+[dharma](sanskrit_query.php?word=dharma 'dharma /  natural law 法') : 1<br/>
+[dharmāḥ](sanskrit_query.php?word=dharmāḥ 'dharma /  natural law 法') : 1<br/>
+[kuru](sanskrit_query.php?word=kuru 'Kuru 俱盧') : 1<br/>
 
 ### Frequency of new words
 sa : 69<br/>
@@ -93,7 +118,6 @@ tatkiṃ : 21<br/>
 kaściddharmo : 19<br/>
 hīdaṃ : 18<br/>
 hi : 18<br/>
-bhāṣitaḥ : 16<br/>
 subhūtirāhano : 16<br/>
 nu : 16<br/>
 tu : 15<br/>
@@ -101,7 +125,6 @@ bhagavānāha : 15<br/>
 bhavet : 14<br/>
 yaśca : 14<br/>
 draṣṭavyaḥ : 14<br/>
-bhāṣitā : 13<br/>
 bhaviṣyanti : 12<br/>
 kuladuhitā : 12<br/>
 ye : 12<br/>
@@ -120,7 +143,6 @@ bodhisattvena : 9<br/>
 yo : 9<br/>
 tenocyante : 9<br/>
 āyuṣmān : 9<br/>
-bhāṣitāḥ : 9<br/>
 bhagavānāhatatkiṃ : 9<br/>
 samaye : 9<br/>
 cittamutpādayitavyam : 8<br/>
@@ -139,9 +161,7 @@ teṣāṃ : 7<br/>
 māṃ : 7<br/>
 imaṃ : 7<br/>
 bhaveyuḥ : 7<br/>
-atha : 7<br/>
 tathāgatebhyo'rhadbhayaḥ : 7<br/>
-puṇyaskandhaḥ : 7<br/>
 samyaksaṃbodhimabhisaṃbuddhaḥ : 7<br/>
 subhūtirāhaevametadbhagavan : 7<br/>
 ayameva : 6<br/>
@@ -170,7 +190,6 @@ sarvadharmā : 5<br/>
 mahāsattvena : 5<br/>
 paścimāyāṃ : 5<br/>
 jīvagrāhaḥ : 5<br/>
-buddhadharmā : 5<br/>
 pañcaśatyāṃ : 5<br/>
 sattvagrāho : 5<br/>
 sarve : 5<br/>
@@ -178,7 +197,6 @@ pravartate : 5<br/>
 dharmaparyāyādantaśaścatuṣpādikāmapi : 5<br/>
 dharmaparyāyaḥ : 5<br/>
 kāle : 5<br/>
-bhagavato : 5<br/>
 dīpaṃkarasya : 5<br/>
 subhūtirāha : 5<br/>
 vitathaṃ : 4<br/>
@@ -188,7 +206,6 @@ prasunuyāt : 4<br/>
 ātmabhāva : 4<br/>
 ito : 4<br/>
 vaktavyaḥ : 4<br/>
-tathāgataḥ : 4<br/>
 tathāgatasyārhataḥ : 4<br/>
 bhāṣitasyārthamājānāmi : 4<br/>
 nopalabhyate : 4<br/>
@@ -205,15 +222,15 @@ gaṅgānadīvālukāsamānātmabhāvān : 4<br/>
 kṣetravyūhā : 4<br/>
 arhattvaṃ : 4<br/>
 sattvān : 3<br/>
+āścaryaṃ : 3<br/>
 pudgalagrāho : 3<br/>
 draṣṭavyam : 3<br/>
-sukaraṃ : 3<br/>
 pramāṇamudgrahītum : 3<br/>
 parebhyo : 3<br/>
 śrutvā : 3<br/>
 lokadhāturiti : 3<br/>
 dharmaparyāyastathāgatena : 3<br/>
-āścaryaṃ : 3<br/>
+gaṅgānadyo : 3<br/>
 pragrahītavyam : 3<br/>
 buddhacakṣuṣā : 3<br/>
 subhūtirāhabahu : 3<br/>
@@ -225,7 +242,6 @@ nādharmaḥ : 3<br/>
 syāt : 3<br/>
 dharmo'bhisaṃbuddho : 3<br/>
 saddharmavipralope : 3<br/>
-kulaputrā : 3<br/>
 tathāgatasyaivaṃ : 3<br/>
 dharmaparyāyamudgrahīṣyanti : 3<br/>
 asya : 3<br/>
@@ -233,14 +249,11 @@ samyaksaṃbuddha : 3<br/>
 buddhāste : 3<br/>
 khalvāyuṣmān : 3<br/>
 sacetsubhūte : 3<br/>
-lokadhātuṃ : 3<br/>
 trisāhasramahāsāhasraṃ : 3<br/>
-ātmasaṃjñā : 3<br/>
 kuladuhitaro : 3<br/>
 sacetpunaḥ : 3<br/>
 sūtrāntapadeṣu : 3<br/>
 sattvānāmarthāya : 3<br/>
-babhūva : 3<br/>
 kaścitsubhūte : 3<br/>
 mahānadyāṃ : 3<br/>
 lokadhātavo : 3<br/>
@@ -253,22 +266,21 @@ imānevaṃrūpān : 3<br/>
 srotaāpannasyaivaṃ : 3<br/>
 jñātāste : 3<br/>
 gaṅgāyāṃ : 3<br/>
+babhūva : 3<br/>
 bahuḥ : 3<br/>
 buddhajñānena : 3<br/>
 lokadhātau : 3<br/>
 no : 3<br/>
 bhāṣyamāṇeṣu : 3<br/>
-buddhā : 3<br/>
 draṣṭavyo : 3<br/>
 prasaviṣyanti : 3<br/>
-gaṅgānadyo : 3<br/>
 dṛṣṭāste : 3<br/>
 puṇyaskandhasya : 3<br/>
 tathāgato'rhan : 3<br/>
-mahāsattvā : 3<br/>
 srotaāpattiphalaṃ : 3<br/>
 pratigrahīṣyanti : 3<br/>
 ayaṃ : 3<br/>
+etadadhivacanam : 2<br/>
 tvaṃ : 2<br/>
 cittadhāreti : 2<br/>
 parigrahītavyaḥ : 2<br/>
@@ -281,7 +293,6 @@ paśyet : 2<br/>
 nāsaṃjñā : 2<br/>
 rūpakāyapariniṣpattiriti : 2<br/>
 mṛṣā : 2<br/>
-etadadhivacanam : 2<br/>
 samyaksaṃbuddhasyāntikādanuttarāṃ : 2<br/>
 ahamasmi : 2<br/>
 samyaksaṃbodhirabhisaṃbuddhā : 2<br/>
@@ -347,7 +358,7 @@ paramāścaryaṃ : 2<br/>
 parinirvāpya : 2<br/>
 caiṣā : 2<br/>
 māṃsacakṣuḥ : 2<br/>
-lokadhātūn : 2<br/>
+samaye'bhaviṣyat : 2<br/>
 piṇḍāya : 2<br/>
 asatodgṛhītena : 2<br/>
 śatatamīmapi : 2<br/>
@@ -386,8 +397,6 @@ dharmacakṣuḥ : 2<br/>
 va : 2<br/>
 prajñāpāramitāyā : 2<br/>
 bhāṣyamāṇe : 2<br/>
-bhāṣitam : 2<br/>
-srotaāpanna : 2<br/>
 kecitsattvā : 2<br/>
 yāvadeva : 2<br/>
 anāgate'dhvani : 2<br/>
@@ -415,14 +424,12 @@ tasyātmagrāho : 2<br/>
 bhagavānāhayaḥ : 2<br/>
 tā : 2<br/>
 lokasya : 2<br/>
-samaye'bhaviṣyat : 2<br/>
 trisāhasramahāsāhasre : 2<br/>
 bhavetmayā : 2<br/>
 bhagavantaḥ : 2<br/>
 vyāpādasaṃjñāpi : 2<br/>
 parinirvāpayitavyāḥ : 2<br/>
 sattvaiḥ : 2<br/>
-satyaṃ : 2<br/>
 nirvāṇadhātau : 2<br/>
 kaścidevaṃ : 2<br/>
 subhūtirbhagavantametadavocat : 2<br/>
@@ -432,7 +439,6 @@ prajñapyate : 1<br/>
 bhagavānāhaevaṃ : 1<br/>
 yāvatpudgalasaṃjñā : 1<br/>
 yattasyaivaṃ : 1<br/>
-bhūtatathatāyā : 1<br/>
 koṭiniyutaśatasahasratamīmapi : 1<br/>
 pratiṣṭhitena : 1<br/>
 vyākariṣyatbhaviṣyasi : 1<br/>
@@ -440,7 +446,6 @@ jānumaṇḍalaṃ : 1<br/>
 suṣṭhu : 1<br/>
 paramapāramiteti : 1<br/>
 subhutistasyāmeva : 1<br/>
-yo'nāgāmitvamāpannaḥ : 1<br/>
 bhagavānāhaparigrahītavyaḥ : 1<br/>
 nyaṣīdan : 1<br/>
 bhagavānāhaiha : 1<br/>
@@ -459,15 +464,15 @@ cittamutpādayitavyamyāvantaḥ : 1<br/>
 bhāṣitastrisāhasramahāsāhasro : 1<br/>
 dharmaparyāyadantaśaścatuṣpādikāmapi : 1<br/>
 nirdiṣṭaḥ : 1<br/>
-bhagavaṃstathāgatenārhatā : 1<br/>
+sma : 1<br/>
 paramāṇusaṃcayo'bhaviṣyat : 1<br/>
 sacetsattvasaṃjñā : 1<br/>
 yo'pyasau : 1<br/>
-sumeravaḥ : 1<br/>
 vītarāga : 1<br/>
 paryavāptuṃ : 1<br/>
 vaktavyo : 1<br/>
 udgrahītavyo : 1<br/>
+bhūtatathatāyā : 1<br/>
 vyākariṣyadaraṇāvihāriṇāmagryaḥ : 1<br/>
 bodhisattvayānasaṃprasthito : 1<br/>
 abhūtasaṃjñā : 1<br/>
@@ -502,12 +507,11 @@ grahītavyaḥ : 1<br/>
 ātmabhāvaḥ : 1<br/>
 saṃskṛtam : 1<br/>
 cādrākṣurye : 1<br/>
+yo'nāgāmitvamāpannaḥ : 1<br/>
 samantāddaśasu : 1<br/>
-subhūtiḥ : 1<br/>
 pṛthivīpradeśaścaityabhūto : 1<br/>
 nāmopalabhyate : 1<br/>
 saṃjñino : 1<br/>
-puruṣaḥ : 1<br/>
 pātracīvaramādāya : 1<br/>
 dharmasaṃjñāyāmapi : 1<br/>
 saptaratnaparipurṇaṃ : 1<br/>
@@ -575,7 +579,7 @@ bhagavatī : 1<br/>
 yasya : 1<br/>
 rājāpi : 1<br/>
 saṃsvedajā : 1<br/>
-ityākhyātaḥ : 1<br/>
+budbudam : 1<br/>
 dhārayeddeśayedvācayet : 1<br/>
 puṇyaskandho'bhaviṣyat : 1<br/>
 sthānaṃ : 1<br/>
@@ -607,6 +611,7 @@ saṃbahulā : 1<br/>
 sakṛdāgāmīti : 1<br/>
 triśatikā : 1<br/>
 pratyaśrauṣīt : 1<br/>
+sumeravaḥ : 1<br/>
 cakravartī : 1<br/>
 sāyāhnakālasamaye : 1<br/>
 yāvadupaniṣadamapi : 1<br/>
@@ -637,13 +642,12 @@ bhāṣatesarvadharmā : 1<br/>
 tathāgatānāmarhatāṃ : 1<br/>
 dharmānāpannaḥ : 1<br/>
 kalpairasaṃkhyeyatarairdīpaṃkarasya : 1<br/>
-sma : 1<br/>
+bhagavaṃstathāgatenārhatā : 1<br/>
 lokadhātuṣu : 1<br/>
 smṛtimupasthāpya : 1<br/>
 pratiśāmya : 1<br/>
 lokadhāturabhaviṣyat : 1<br/>
 tāvatāṃ : 1<br/>
-bhāṣitasyārthamājānāti : 1<br/>
 naivasaṃjñino : 1<br/>
 sthātavyam : 1<br/>
 caturaśītibuddhakoṭiniyutaśatasahasrāṇyabhūvan : 1<br/>
@@ -673,10 +677,8 @@ anutpādo : 1<br/>
 bhagavānasyaitadavocatiha : 1<br/>
 prāmuñcat : 1<br/>
 dhāraya : 1<br/>
-dānaparityāgaḥ : 1<br/>
 sacenmama : 1<br/>
 anekabuddhaśatasahasraparyupāsitā : 1<br/>
-prajñapto : 1<br/>
 janāḥ : 1<br/>
 rūpapratiṣṭhitena : 1<br/>
 yo'nuttarāṃ : 1<br/>
@@ -705,21 +707,19 @@ adha : 1<br/>
 prāvikṣat : 1<br/>
 dharmapratiṣṭhitaṃ : 1<br/>
 loko : 1<br/>
-budbudam : 1<br/>
 atītaṃ : 1<br/>
 yaiva : 1<br/>
 kaściddharmastathāgatenābhisaṃbuddho'bhaviṣyat : 1<br/>
 bahūni : 1<br/>
 śīlavantaḥ : 1<br/>
-aṇḍajā : 1<br/>
 jñānamutpannam : 1<br/>
 niṣpudgalatvena : 1<br/>
-saṃkhyāmapi : 1<br/>
 tenocyata : 1<br/>
 dīpo : 1<br/>
 subhūteasti : 1<br/>
 lokadhātūnāmevaṃrūpaṃ : 1<br/>
 niṣpoṣā : 1<br/>
+dānaparityāgaḥ : 1<br/>
 vajracchedikā : 1<br/>
 subhūtelakṣaṇasaṃpadā : 1<br/>
 yatra : 1<br/>
@@ -738,6 +738,7 @@ prakāśayet : 1<br/>
 vandanīyaḥ : 1<br/>
 gaṅgānadīvālukāsamān : 1<br/>
 dharmadeśaneti : 1<br/>
+saṃkhyāmapi : 1<br/>
 prabhātāyāṃ : 1<br/>
 ye'pi : 1<br/>
 sarvaiḥ : 1<br/>
@@ -756,6 +757,7 @@ samā : 1<br/>
 koṭiśatatamīmapi : 1<br/>
 samayenāyuṣmān : 1<br/>
 tathāgatasyāntikādanuttarāṃ : 1<br/>
+parinirvāpayiṣyāmiti : 1<br/>
 mahākāyo : 1<br/>
 sakalasamāptaṃ : 1<br/>
 mahākāyaḥ : 1<br/>
@@ -799,7 +801,7 @@ tathāgato'bhaviṣyat : 1<br/>
 bhāṣateapratiṣṭhitena : 1<br/>
 kṣetravyūhān : 1<br/>
 yastathāgatenānuttarā : 1<br/>
-arhan : 1<br/>
+nāmāyaṃ : 1<br/>
 hyāryapudgalāḥ : 1<br/>
 paribhūtatayā : 1<br/>
 maṣiṃ : 1<br/>
@@ -828,14 +830,12 @@ udgṛhṇīyāddhārayedvācayetparyavāpnuyāt : 1<br/>
 rasān : 1<br/>
 nivāsya : 1<br/>
 yo'vastupatito : 1<br/>
-nāmāyaṃ : 1<br/>
 bhagavāṃstasyāṃ : 1<br/>
 asattvāḥ : 1<br/>
 yāvatsubhūte : 1<br/>
 ātmadṛṣṭistathāgatena : 1<br/>
 āryavajracchedikā : 1<br/>
 nirjīvā : 1<br/>
-dharmaparyāyo : 1<br/>
 tāvanna : 1<br/>
 yāvantyo : 1<br/>
 agrāhyaḥ : 1<br/>
@@ -847,7 +847,7 @@ yo'rhannāma : 1<br/>
 bhāṣyamāṇamavakalpayāmi : 1<br/>
 saṃbahulaiśca : 1<br/>
 parimocitā : 1<br/>
-parinirvāpayiṣyāmiti : 1<br/>
+prajñapto : 1<br/>
 saivālakṣaṇasaṃpat : 1<br/>
 anuttarāyāṃ : 1<br/>
 vivarjayitvā : 1<br/>
@@ -882,14 +882,14 @@ samāṃśena : 1<br/>
 yaścaiva : 1<br/>
 atīte'dhvanyasaṃkhyeyaiḥ : 1<br/>
 saptānāṃ : 1<br/>
+ityākhyātaḥ : 1<br/>
 bhavediti : 1<br/>
 yatpratiṣṭhitaṃ : 1<br/>
 sattvadhātau : 1<br/>
 saṃgṛhītā : 1<br/>
-gāthe : 1<br/>
 nāyakāḥ : 1<br/>
 parvatarājānaḥ : 1<br/>
-paryāyeṇa : 1<br/>
+bhāṣitasyārthamājānāti : 1<br/>
 dharmocchedasyaitadadhivacanam : 1<br/>
 gaṅgānadīvālukāsamāllokadhātūn : 1<br/>
 kaṃciddharmamāpannaḥ : 1<br/>
@@ -900,7 +900,7 @@ jīvadṛṣṭikairna : 1<br/>
 pareṇa : 1<br/>
 parīnditāstathāgatena : 1<br/>
 agrāha : 1<br/>
-dharma : 1<br/>
+aṇḍajā : 1<br/>
 lakṣaṇasaṃpat : 1<br/>
 dharme : 1<br/>
 mṛṣeti : 1<br/>
@@ -942,6 +942,7 @@ yāvān : 1<br/>
 pramāṇāmudgrahītum : 1<br/>
 bhāṣeyam : 1<br/>
 tathāca : 1<br/>
+paryāyeṇa : 1<br/>
 ṛjuṃ : 1<br/>
 śāstā : 1<br/>
 sarve'nupadhiśeṣe : 1<br/>
@@ -982,7 +983,6 @@ digvidikṣu : 1<br/>
 bhāṣiṣye'haṃ : 1<br/>
 kiṃcidapi : 1<br/>
 abhiśraddhāsyanti : 1<br/>
-yaiṣā : 1<br/>
 parīnditāḥ : 1<br/>
 rūpamāpanno : 1<br/>
 gandhān : 1<br/>
@@ -1024,6 +1024,7 @@ saṃtrasiṣyanti : 1<br/>
 sattvānāṃ : 1<br/>
 āttamanāḥ : 1<br/>
 atyantānutpannasyaitadadhivacanam : 1<br/>
+yaiṣā : 1<br/>
 evamavastupatito : 1<br/>
 tasmādahaṃ : 1<br/>
 yoniśaśca : 1<br/>
@@ -1036,9 +1037,9 @@ agrāhaḥ : 1<br/>
 nedaṃ : 1<br/>
 ghoṣeṇa : 1<br/>
 bahavaste : 1<br/>
-sūtraṃ : 1<br/>
 asaṃskṛtaprabhāvitā : 1<br/>
 praṇidhāya : 1<br/>
+dharmaparyāyo : 1<br/>
 subhūtirbhagavantametadavocatko : 1<br/>
 sacedadharmasaṃjñā : 1<br/>
 pratimukhīṃ : 1<br/>
@@ -1069,6 +1070,5 @@ gaccheyuḥ : 1<br/>
 jetavane'nāthapiṇḍadasyārāme : 1<br/>
 dhārayituṃ : 1<br/>
 anekabuddhaśatasahasrāvaropitakuśalamūlāste : 1<br/>
-dharmāḥ : 1<br/>
 kalpāṃstānātmabhāvān : 1<br/>
 piṇḍagrāho'bhaviṣyat : 1<br/>
