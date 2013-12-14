@@ -1150,14 +1150,14 @@
 1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. The suffix ṃ is added for the accusative case.	noun	\N
 1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	\N
 1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
-1153	21078	sattva	sattvā	सत्त्वा	\N	有情	sattva	a being / a creature	\N	noun	\N
+1153	21078	sattva	sattvā	सत्त्वा	\N	有情	a being / a creature	\N	noun	\N
 1154	28804	puruso	puruṣo	पुरुषो	\N	丈夫	a man / a great man	Normally written as puruṣa but the word ending is modified here for Sanskrit grammar	noun	\N
 1155	3166	bodhisattvo	bodhisattvo	बोधिसत्त्वो	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
 1156	3166	bodhisattva	bodhisattvā	बोधिसत्त्वा	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
 1157	17994	dharmo	dharmo	धर्मो	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
-1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed / supreme	Normally written as anuttara but the word ending is modified here for sandhi	masculine	adjective	\N
+1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed / supreme	Normally written as anuttara but the word ending is modified here for sandhi	masculine	\N
 1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Normally written as puruṣa but the word ending is modified here for the accusive case	masculine	\N
-1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	sattva	a being / a creature	Normally written as puruṣa but the word ending is modified here for the nominative case	noun	\N
+1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	a being / a creature	Normally written as puruṣa but the word ending is modified here for the nominative case	noun	\N
 1161	17994	dharma	dharmā	धर्मा	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
 1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	noun	\N
 1163	7135	punyaskandha	puṇyaskandha	पुण्यस्कन्ध	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze	noun	\N
@@ -1187,4 +1187,3 @@
 1187	17994	dharma	dharma	धर्म	dhamma	法	dharma /  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
 1188	3167	sutram	sūtraṃ	सूत्रं	sutta	經、佛經、長行	sutra	Common Sanskrit form is sūtra, may be modified to this form for grammatical reasons	noun	\N
 1189	17994	dharmah	dharmāḥ	धर्माः	dhamma	法	dharma /  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
-

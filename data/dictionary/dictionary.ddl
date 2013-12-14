@@ -121,8 +121,7 @@ CREATE TABLE words (id INT UNSIGNED NOT NULL,
                     notes TEXT,
                     PRIMARY KEY (id),
                     FOREIGN KEY (topic_cn, topic_en) REFERENCES topics(simplified, english),
-                    /*FOREIGN KEY (grammar) REFERENCES grammar(english),*/
-                    /*FOREIGN KEY (hsk) REFERENCES hsk(level),*/
+                    FOREIGN KEY (grammar) REFERENCES grammar(english),
                     INDEX (simplified),
                     INDEX (traditional),
                     INDEX (english)
