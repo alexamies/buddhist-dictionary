@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Command line to compile a vocabulary from a document. ======================
+"""Command line to compile a vocabulary from a Chinese document. ==============
 
 The analysis is output in markdown format.
 """

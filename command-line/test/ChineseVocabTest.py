@@ -5,12 +5,15 @@ Tests the methods for building vocabuary from a Sanskrit document.
 """
 
 import unittest
-import sys, os
 
-from bdict import SanskritVocab
+from bdict import ChineseVocab
+
+TARGET_TEST_DIR = '..'
+
+sys.path.insert(0, os.path.dirname(TARGET_TEST_DIR))
 
 
-class SanskritVocabTest(unittest.TestCase):
+class ChineseVocabTest(unittest.TestCase):
 
     def testOpenDictionary(self):
         sdict = SanskritVocab._OpenDictionary()
