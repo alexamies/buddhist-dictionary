@@ -1,10 +1,12 @@
 # Diamond Sutra Chinese Text
 
-Description: The Chinese text of the Diamond Sutra
+Description: The Chinese text of the Diamond Sutra from the Taisho Tripitaka
 
 Character Set: Traditional Chinese
 
-Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org/result/normal/T08/0235_001.htm "CBETA web site")
+Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
+
+Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/normal/T08/0235_001.htm "Diamond Sutra Chinese Text")
 
 Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
 

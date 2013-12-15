@@ -2,13 +2,13 @@
 
 Description: Demonstrates the use of languages tools. See separate entry for the full text of the Diamond Sutra.
 
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-sanskrit1-analysis.md "Vocabulary analysis")
+
 Character Set: IAST
 
 Source: [University of the West Sanskrit Buddhist Canon] (http://www.dsbcproject.org./node/6348 "Sanskrit Buddhist Canon")
 
 Alternate formats: [Plain text file] (corpus/diamond-sutra-sanskrit1.txt "Diamond Sutra Chapter 1 Plain Text")
-
-Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-sanskrit1-analysis.txt "Vocabulary analysis")
 
 ### Text
 vajracchedikā nāma triśatikā prajñāpāramitā|
