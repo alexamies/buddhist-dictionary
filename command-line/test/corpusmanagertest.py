@@ -11,9 +11,9 @@ from bdict import corpusmanager
 class CorpusManagerTest(unittest.TestCase):
 
     def testLoadCorpus(self):
-        print('testLoadCorpus')
         manager = corpusmanager.CorpusManager()
         corpus = manager.LoadCorpus()
         self.assertTrue(corpus)
         self.assertTrue(len(corpus) > 0)
-        self.assertEquals(corpus[0]['plain_text'], config['diamond-sutra-taisho.txt'])
+        entry = corpus[0]
+        self.assertEquals(entry['plain_text'], 'diamond-sutra-sanskrit1.txt')

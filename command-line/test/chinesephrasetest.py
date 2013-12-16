@@ -6,7 +6,7 @@ Tests the methods for building vocabuary from a Sanskrit document.
 import unicodedata
 import unittest
 
-from bdict import ChinesePhrase
+from bdict import chinesephrase
 
 
 class ChinesePhraseTest(unittest.TestCase):
@@ -16,7 +16,7 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords1 : c1: %s' % unicodedata.name(w1))
         text = w1
         wdict = {}
-        splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(1, len(words))
         self.assertEquals(w1, words[0])
@@ -29,7 +29,7 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords2 : w1: %s, w2: %s' % (unicodedata.name(w1), unicodedata.name(w2)))
         text = w1 + w2
         wdict = {w1: e1, w2: e2}
-        splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(2, len(words))
         self.assertEquals(w1, words[0])
@@ -42,11 +42,10 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords3 : w1: %s, w2: %s' % (unicodedata.name(w1), unicodedata.name(w2)))
         text = w1 + w2
         wdict = {w1: e1}
-        splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(1, len(words))
         self.assertEquals(w1, words[0])
-        print('\n')
 
     def testExtractWords4(self):
         w1 = u'般'
@@ -58,12 +57,11 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords4 : w1: %s, w3: %s' % (unicodedata.name(w1), unicodedata.name(w3)))
         text = w1 + w2 + w3
         wdict = {w1: e1, w3: e3}
-        splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(2, len(words))
         self.assertEquals(w1, words[0])
         self.assertEquals(w3, words[1])
-        print('\n')
 
     def testExtractWords5(self):
         w1 = u'如是我聞' # 0-3
@@ -82,12 +80,12 @@ class ChinesePhraseTest(unittest.TestCase):
         e7 = 'at'
         w8 = u'舍衛國'   # 11-13
         e8 = 'Sravasti'
-        print('testExtractWords5')
+        # print('testExtractWords5')
         text = w1 + w2 + w3 + w4 + w5 + w6 + w7 + w8
         wdict = {w1: e1, w4: e4, w6: e6, w7: e7, w8: e8}
         self.assertTrue(w1 in wdict)
         self.assertEquals(14, len(text))
-        splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(5, len(words))
         self.assertEquals(w1, words[0])
@@ -95,7 +93,6 @@ class ChinesePhraseTest(unittest.TestCase):
         self.assertEquals(w6, words[2])
         self.assertEquals(w7, words[3])
         self.assertEquals(w8, words[4])
-        print('\n')
 
     def testExtractWords6(self):
         w1 = u'如是我聞' # 0-3
@@ -114,11 +111,10 @@ class ChinesePhraseTest(unittest.TestCase):
         e7 = 'at'
         w8 = u'舍衛國'   # 11-13
         e8 = 'Sravasti'
-        print('testExtractWords5')
         text = w1 + w2 + w3 + w4 + w5 + w6 + w7 + w8
         wdict = {}
         self.assertEquals(14, len(text))
-        splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(11, len(words))
         self.assertEquals(w1[0], words[0])
@@ -132,47 +128,46 @@ class ChinesePhraseTest(unittest.TestCase):
         self.assertEquals(w8[0], words[8])
         self.assertEquals(w8[1], words[9])
         self.assertEquals(w8[2], words[10])
-        print('\n')
 
     def testIsCJKLetter1(self):
         c = u'.'
-        splitter = ChinesePhrase.ChinesePhraseSplitter( {})
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        splitter = chinesephrase.ChinesePhraseSplitter( {})
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = splitter.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter2(self):
         c = u'般'
-        splitter = ChinesePhrase.ChinesePhraseSplitter( {})
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        splitter = chinesephrase.ChinesePhraseSplitter( {})
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = splitter.isCJKLetter(c)
         self.assertTrue(result)
 
     def testIsCJKLetter3(self):
-        splitter = ChinesePhrase.ChinesePhraseSplitter({})
+        splitter = chinesephrase.ChinesePhraseSplitter({})
         c = u'。'
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = splitter.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter4(self):
         c = u'！'
-        splitter = ChinesePhrase.ChinesePhraseSplitter( {})
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        splitter = chinesephrase.ChinesePhraseSplitter( {})
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = splitter.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter5(self):
         c = u'「'
-        splitter = ChinesePhrase.ChinesePhraseSplitter( {})
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        splitter = chinesephrase.ChinesePhraseSplitter( {})
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = splitter.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter6(self):
         c = u'T'
-        splitter = ChinesePhrase.ChinesePhraseSplitter( {})
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        splitter = chinesephrase.ChinesePhraseSplitter( {})
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = splitter.isCJKLetter(c)
         self.assertFalse(result)
 

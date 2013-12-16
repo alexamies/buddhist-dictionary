@@ -31,8 +31,7 @@ Start marker: Text to identify start of text to be analyzed. Used to exclude
 End marker: Similar to the start marker. Anything after the end marker will be 
   ignored.
 
-Plain Text: The plain text source document that the markdown is based on. 
-  Used for word frequency analysis.
+Description: A longer description for the document.
 
 Notes:
 (1) Only UTF-8 is supported

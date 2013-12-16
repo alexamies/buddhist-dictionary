@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Unit tests for the bdict.SanskritVocab module.
+"""Unit tests for the bdict.chinesevocab module.
 
-Tests the methods for building vocabuary from a Sanskrit document.
+Tests the methods for building vocabuary from a Chinese document.
 """
 
 import unittest

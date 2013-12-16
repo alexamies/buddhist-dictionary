@@ -14,3 +14,4 @@ class ConfigManagerTest(unittest.TestCase):
         manager = configmanager.ConfigurationManager()
         config = manager.LoadConfig()
         self.assertTrue(config)
+        self.assertEquals('../web/corpus', config['corpus_directory'])

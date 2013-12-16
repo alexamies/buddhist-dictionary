@@ -46,7 +46,7 @@ class ChineseVocabulary:
                 lines += 1
                 if line.find('---END---') != -1:
                     break
-                splitter = ChinesePhrase.ChinesePhraseSplitter(wdict)
+                splitter = chinesephrase.ChinesePhraseSplitter(wdict)
                 words = splitter.ExtractWords(line)
                 wc += len(words)
                 for word in words:
