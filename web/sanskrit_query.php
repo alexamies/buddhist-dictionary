@@ -14,7 +14,7 @@
     <p class="menu">
       <a class="menu" href="index.html">Home</a> | 
       <a class="menu" href="tools.html">Tools</a> | 
-      <a class="menu" href="corpus.html">Corpus</a> | 
+      <a class="menu" href="corpus.html">Library</a> | 
       <a class="menu" href="dict_resources.html">Resources</a> | 
       <a class="menu" href="about.html">About</a>
     </p>
