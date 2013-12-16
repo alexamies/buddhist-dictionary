@@ -10,7 +10,6 @@ import unicodedata
 class ChinesePhraseSplitter:
     """Splits a prhase into parts based on presence of words in a word dictionary.
 
-        Not finished yet.
     """
 
     def __init__(self, wdict):
@@ -32,8 +31,38 @@ class ChinesePhraseSplitter:
           A list of words
         """
         words = []
-        for c in text:
-            words.append(c)
+        i = 0
+        length = len(text)
+        # print('ExtractWords length = %d' % length)
+        while i < length:
+            c = text[i]
+            # print('i = %d, name[i]: %s' % (i, unicodedata.name(c)))
+            j = i + 1
+            if self.isCJKLetter(c):
+                # Find position of next puncutation mark
+                while j < length:
+                    if not self.isCJKLetter(text[j]):
+                        break
+                    j += 1
+                # print('j = %d' % j)
+
+                # Search back from next punction mark to find longest word
+                j -= 1
+                while j >= i :
+                    if j == i:
+                        # print('Adding word at j == i to list')
+                        words.append(text[i])
+                        break
+                    # print('j = %d, name[j]: %s' % (j, unicodedata.name(text[j])))
+                    possible = text[i:j+1]
+                    # print('Testing if possible word of length %d is in dictionary' % len(possible))
+                    if possible in self.wdict:
+                        # print('Adding dictionary word length %d' % len(possible))
+                        words.append(possible)
+                        break
+                    j -= 1
+                j += 1
+            i = j
         return words
 
     def isCJKLetter(self, c):
@@ -47,6 +76,9 @@ class ChinesePhraseSplitter:
         Returns:
           True or false
         """
-        print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        return c in self.wdict
+        try:
+            return (unicodedata.name(c).find('CJK UNIFIED IDEOGRAPH') > -1)
+        except ValueError:
+            pass
+        return False
 

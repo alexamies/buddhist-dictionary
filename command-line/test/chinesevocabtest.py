@@ -7,13 +7,14 @@ Tests the methods for building vocabuary from a Sanskrit document.
 import unittest
 
 from bdict import app_exceptions
-from bdict import ChineseVocab
+from bdict import chinesevocab
 
 
 class ChineseVocabTest(unittest.TestCase):
 
     def testOpenDictionary(self):
-        wdict = ChineseVocab._OpenDictionary()
+        vocab = chinesevocab.ChineseVocabulary()
+        wdict = vocab._OpenDictionary()
         self.assertTrue(wdict)
         self.assertTrue(len(wdict) > 0)
         w = u'賓頭廬尊者'
@@ -21,7 +22,8 @@ class ChineseVocabTest(unittest.TestCase):
 
     def testBuildVocabulary(self):
         try:
-            ChineseVocab.BuildVocabulary('', '', 'testoutput.md')
+            vocab = chinesevocab.ChineseVocabulary()
+            vocab.BuildVocabulary('', '', 'testoutput.md')
         except app_exceptions.BDictException:
             pass
         else:
