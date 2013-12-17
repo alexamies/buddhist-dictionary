@@ -13,14 +13,6 @@ from bdict import configmanager
 
 class ChineseVocabTest(unittest.TestCase):
 
-    def testOpenDictionary(self):
-        vocab = chinesevocab.ChineseVocabulary()
-        wdict = vocab._OpenDictionary()
-        self.assertTrue(wdict)
-        self.assertTrue(len(wdict) > 0)
-        w = u'賓頭廬尊者'
-        self.assertTrue(w in wdict)
-
     def testBuildVocabulary1(self):
         try:
             corpus_entry = {}

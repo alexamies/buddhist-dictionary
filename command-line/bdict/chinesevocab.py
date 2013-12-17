@@ -7,10 +7,10 @@ import codecs
 import os.path
 
 from bdict import app_exceptions
+from bdict import cedict
 from bdict import chinesephrase
 from bdict import configmanager
 
-DICT_FILE_NAME = '../data/dictionary/words.txt'
 DEFAULT_OUTFILE = 'temp.md'
 
 
@@ -35,7 +35,8 @@ class ChineseVocabulary:
           BDictException: If the input file does not exist
         """
         # print('Creating vocabulary based on a Chinese language document.')
-        wdict = self._OpenDictionary() # Word dictionary
+        dictionary = cedict.ChineseEnglishDict()
+        wdict = dictionary.OpenDictionary() # Word dictionary
 
         directory = self.config['corpus_directory']
         infile = corpus_entry['plain_text']
@@ -97,64 +98,71 @@ class ChineseVocabulary:
             outf.write('Word count: %d, unique words: %d, known words: %d, new words: %d\n' % 
                   (wc, num_known + num_new, num_known, num_new))
             outf.write('')
-            outf.write('### Frequency of known words:\n')
-            self._PrintFrequencyLinks(known_words, wdict, outf)
+            self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('')
-            outf.write('### Frequency of new words\n')
-            self._PrintFrequency(new_words, outf)
+            self._PrintFrequencyNew(new_words, outf, wc)
 
-    def _OpenDictionary(self):
-        """Reads the dictionary into memory
-        """
-        wdict = {}
-        with codecs.open(DICT_FILE_NAME, 'r', "utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                fields = line.split('\t')
-                if fields and len(fields) >= 10:
-                    entry = {}
-                    entry['id'] = fields[0]
-                    entry['simplified'] = fields[1]
-                    entry['traditional'] = fields[2]
-                    entry['pinyin'] = fields[3]
-                    entry['english'] = fields[4]
-                    entry['grammar'] = fields[5]
-                    traditional = entry['traditional']
-                    if traditional == '\\N':
-                        traditional = entry['simplified']
-                    wdict[traditional] = entry
-        return wdict
+    def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
+        """Prints the set of known words with markdown links.
 
-    def _PrintFrequencyLinks(self, word_freq, sdict, outf):
-        """Prints the set of words with markdown links
+        Split the set into functional and non-functional words.
 
         args:
           word_freq: A dictionary of words
           sdict: The dictionary
           outf: file object to send output to
+          wc: the total word count
         """
-        keys = sorted(word_freq, key=lambda key: -word_freq[key])
-        for k in keys:
+        function_words = {}
+        nonfunction_words = {}
+        for k in word_freq.keys():
             word = sdict[k]
-            word_id = word['id']
-            english = word['english']
-            traditional = word['traditional']
-            outf.write('[%s](word_detail.php?id=%s "%s %s") : %d<br/>\n'
-                       '' % (k, word_id, english, traditional, word_freq[k]))
+            if cedict.isFunctionWord(word):
+                function_words[k] = word_freq[k]
+            else:
+                nonfunction_words[k] = word_freq[k]
+        outf.write('### Frequency of non-function words:\n')
+        outf.write('Word, frequency, relative frequency per 1000 words\n\n')
+        for k in sorted(nonfunction_words, key=lambda key: -nonfunction_words[key]):
+            self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
+        outf.write('### Frequency of function words:\n')
+        outf.write('Word, frequency, relative frequency per 1000 words\n\n')
+        for k in sorted(function_words, key=lambda key: -function_words[key]):
+            self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
 
-    def _PrintFrequency(self, word_freq, outf):
-        """Prints the set of words without links
+    def _PrintFrequencyNew(self, word_freq, outf, wc):
+        """Prints the set of words without links.
+
+        Since the words are not known there are no links to the dictionary.
 
         args:
           word_freq: A dictionary of words
           outf: file object to send output to
+          wc: the total word count
         """
+        outf.write('### Frequency of new words\n')
         if not word_freq:
-            print('None<br/>\n')
+            outf.write('None<br/>\n')
         else:
-            keys = sorted(word_freq, key=lambda key: -word_freq[key])
-            for k in keys:
-                outf.write("%s : %d<br/>\n" % (k, word_freq[k]))
+            for k in sorted(word_freq, key=lambda key: -word_freq[key]):
+                outf.write("%s, %d<br/>\n" % (k, word_freq[k]))
+
+    def _PrintKnownWord(self, traditional, freq, sdict, outf, wc):
+        """Prints the known words with a markdown link.
+
+        Prints the word with frequency and relative frequency.
+
+        args:
+          traditional: The traditional text of the word to print
+          freq: The absolute frequency of the word
+          sdict: The dictionary
+          outf: file object to send output to
+          wc: the total word count
+        """
+        word = sdict[traditional]
+        word_id = word['id']
+        english = word['english']
+        rel_freq = 1000 * freq / float(wc)
+        outf.write('[%s](word_detail.php?id=%s "%s %s"), %d, %.2f<br/>\n'
+                   '' % (traditional, word_id, english, traditional, freq, rel_freq))
 
