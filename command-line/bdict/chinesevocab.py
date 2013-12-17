@@ -151,7 +151,10 @@ class ChineseVocabulary:
           word_freq: A dictionary of words
           outf: file object to send output to
         """
-        keys = sorted(word_freq, key=lambda key: -word_freq[key])
-        for k in keys:
-            outf.write("%s : %d<br/>\n" % (k, word_freq[k]))
+        if not word_freq:
+            print('None<br/>\n')
+        else:
+            keys = sorted(word_freq, key=lambda key: -word_freq[key])
+            for k in keys:
+                outf.write("%s : %d<br/>\n" % (k, word_freq[k]))
 
