@@ -5,9 +5,8 @@ The words in the text file will be compared agains the Sanskrit dictionary.
 import locale
 import sys
 
-from bdict import configmanager
-from bdict import corpusmanager
 from bdict import chinesevocab
+from bdict import corpusmanager
 from bdict import sanskritvocab
 
 
@@ -38,21 +37,18 @@ def main():
         cmanager = corpusmanager.CorpusManager()
         corpus = cmanager.LoadCorpus()
         corpus_entry = corpus[doc_num]
-        infile = corpus_entry['plain_text']
         language = corpus_entry['language']
         languages = ['Sanskrit', 'Chinese']
         if language not in languages:
             print('Language found %s is not supported' % language) 
             print('Please use one of these languages: %s' % languages) 
             sys.exit(2)
-        manager = configmanager.ConfigurationManager()
-        config = manager.LoadConfig()
-        corpus_directory = config['corpus_directory']
         if language == 'Sanskrit':
-            sanskritvocab.BuildVocabulary(corpus_directory, infile)
+            vocab = sanskritvocab.SanskritVocabulary()
+            vocab.BuildVocabulary(corpus_entry)
         elif language == 'Chinese':
             vocab = chinesevocab.ChineseVocabulary()
-            vocab.BuildVocabulary(corpus_directory, infile)
+            vocab.BuildVocabulary(corpus_entry)
     elif command == 'listcorpus':
         cmanager = corpusmanager.CorpusManager()
         cmanager.PrintCorpus()
