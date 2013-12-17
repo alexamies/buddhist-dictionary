@@ -3,11 +3,12 @@
 
 Tests the methods for building vocabuary from a Chinese document.
 """
-
+import os.path
 import unittest
 
 from bdict import app_exceptions
 from bdict import chinesevocab
+from bdict import configmanager
 
 
 class ChineseVocabTest(unittest.TestCase):
@@ -36,6 +37,24 @@ class ChineseVocabTest(unittest.TestCase):
         corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
         vocab = chinesevocab.ChineseVocabulary()
         vocab.BuildVocabulary(corpus_entry)
+        manager = configmanager.ConfigurationManager()
+        self.config = manager.LoadConfig()
+        directory = self.config['corpus_directory']
+        fullpath = '%s/%s' % (directory, chinesevocab.DEFAULT_OUTFILE)
+        self.assertTrue(os.path.isfile(fullpath))
+
+    def testBuildVocabulary3(self):
+        corpus_entry = {}
+        corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
+        corpus_entry['start'] = u'如是我聞'
+        corpus_entry['end'] = u'本網站係採用'
+        vocab = chinesevocab.ChineseVocabulary()
+        vocab.BuildVocabulary(corpus_entry)
+        manager = configmanager.ConfigurationManager()
+        self.config = manager.LoadConfig()
+        directory = self.config['corpus_directory']
+        fullpath = '%s/%s' % (directory, chinesevocab.DEFAULT_OUTFILE)
+        self.assertTrue(os.path.isfile(fullpath))
 
 
 if __name__ == '__main__':
