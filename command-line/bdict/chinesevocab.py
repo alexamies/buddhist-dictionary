@@ -8,6 +8,7 @@ import os.path
 
 from bdict import app_exceptions
 from bdict import chinesephrase
+from bdict import configmanager
 
 DICT_FILE_NAME = '../data/dictionary/words.txt'
 DEFAULT_OUTFILE = 'temp.md'
@@ -18,12 +19,16 @@ class ChineseVocabulary:
 
     """
 
-    def BuildVocabulary(self, directory, infile, outfile=DEFAULT_OUTFILE):
+    def __init__(self):
+        manager = configmanager.ConfigurationManager()
+        self.config = manager.LoadConfig()
+
+    def BuildVocabulary(self, corpus_entry, outfile=DEFAULT_OUTFILE):
         """Builds the list of known and unknown words from the input file.
 
         Args:
-          directory: the directory that contains the target file
-          infile: name the target file
+          corpus_entry: the corpus entry that contains the source file and other
+                        information
           outfile: name the output file
 
         Raises:
@@ -32,6 +37,8 @@ class ChineseVocabulary:
         # print('Creating vocabulary based on a Chinese language document.')
         wdict = self._OpenDictionary() # Word dictionary
 
+        directory = self.config['corpus_directory']
+        infile = corpus_entry['plain_text']
         fullpath = '%s/%s' % (directory, infile)
         if not os.path.isfile(fullpath):
             raise app_exceptions.BDictException('%s is not a file' % infile)
@@ -40,12 +47,30 @@ class ChineseVocabulary:
         lines = 0
         known_words = {}
         new_words = {}
+        found_start = False
+        start_marker = None
+        if 'start' in corpus_entry:
+            start_marker = corpus_entry['start']
+        else:
+            found_start = True
+        end_marker = None
+        if 'end' in corpus_entry:
+            end_marker = corpus_entry['end']
+
         with codecs.open(fullpath, 'r', "utf-8") as f:
-            print('Reading input file %s ' % fullpath)
+            # print('Reading input file %s ' % fullpath)
             for line in f:
                 lines += 1
-                if line.find('---END---') != -1:
+                if not found_start:
+                    # Look for start marker
+                    if line.find(start_marker) != -1:
+                        found_start = True
+                    else:
+                        continue
+                    
+                if end_marker and line.find(end_marker) != -1:
                     break
+
                 splitter = chinesephrase.ChinesePhraseSplitter(wdict)
                 words = splitter.ExtractWords(line)
                 wc += len(words)
@@ -113,9 +138,11 @@ class ChineseVocabulary:
         keys = sorted(word_freq, key=lambda key: -word_freq[key])
         for k in keys:
             word = sdict[k]
+            word_id = word['id']
             english = word['english']
-            traditinal = word['traditional']
-            outf.write("[%s](sanskrit_query.php?word=%s '%s %s') : %d<br/>\n" % (k, k, english, traditinal, word_freq[k]))
+            traditional = word['traditional']
+            outf.write('[%s](word_detail.php?id=%s "%s %s") : %d<br/>\n'
+                       '' % (k, word_id, english, traditional, word_freq[k]))
 
     def _PrintFrequency(self, word_freq, outf):
         """Prints the set of words without links
