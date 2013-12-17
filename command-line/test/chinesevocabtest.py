@@ -20,14 +20,22 @@ class ChineseVocabTest(unittest.TestCase):
         w = u'賓頭廬尊者'
         self.assertTrue(w in wdict)
 
-    def testBuildVocabulary(self):
+    def testBuildVocabulary1(self):
         try:
+            corpus_entry = {}
+            corpus_entry['plain_text'] = 'bogus.txt'
             vocab = chinesevocab.ChineseVocabulary()
-            vocab.BuildVocabulary('', '', 'testoutput.md')
+            vocab.BuildVocabulary(corpus_entry)
         except app_exceptions.BDictException:
             pass
         else:
             self.assertFalse('Did not catch expected BDictException')
+
+    def testBuildVocabulary2(self):
+        corpus_entry = {}
+        corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
+        vocab = chinesevocab.ChineseVocabulary()
+        vocab.BuildVocabulary(corpus_entry)
 
 
 if __name__ == '__main__':

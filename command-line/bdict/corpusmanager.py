@@ -15,7 +15,7 @@ class CorpusManager:
         Returns:
             A list of corpus entries.
         """
-        dirname = '../data/corpus/'
+        dirname = '../data/dictionary/'
         filename = 'corpus.txt'
         fullpath = '%s%s' % (dirname, filename)
         f = open(fullpath, 'r')
@@ -44,7 +44,7 @@ class CorpusManager:
                 if len(tokens) > 9:
                     entry['end'] = tokens[9]
                 if len(tokens) > 10:
-                    entry['plain_text'] = tokens[10]
+                    entry['plain_text'] = tokens[10].strip()
                 corpus.append(entry)
         return corpus
 
