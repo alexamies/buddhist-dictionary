@@ -1,13 +1,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
                       "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="bdictApp">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <link rel="stylesheet" type="text/css" href="styles.css"/>
     <script src="script/angular.min.js"></script>
+    <script src="script/controllers.js"></script>
   </head>
-  <body>
+  <body ng-controller="CorpusListCtrl">
+    <img id="logo" src="images/yan.png" alt="Logo"/>
     <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
     <p class="menu">
       <a class="menu" class="menu" href="index.html">Home</a> | 
@@ -21,143 +24,50 @@
         REDESIGN - preview
       </p>
       <h2>Library of Buddhist Texts</h2>
-      <p>Nothing here {{'yet' + '!'}}</p>
+      <p>
+        Filter: <input ng-model="query">
+        Sort by:
+        <select ng-model="orderProp">
+          <option value="id">ID</option>
+          <option value="source_name">Name</option>
+          <option value="language">Language</option>
+          <option value="doc_type">Type</option>
+          <option value="translator">Translator</option>
+          <option value="source">Source</option>
+        </select>
+      </p>
       <table>
         <tbody>
-          <tr><th>ID</th><th>Source Name</th><th>Language</th><th>Type</th><th>Source</th></tr>
-          
-            <tr>
-              <td>1</td>
-              
-              <td><a href="corpus_entry.php?uri=diamond-sutra-sanskrit1.md">Diamond Sutra Chapter 1</a></td>
-              
-              <td>Sanskrit</td>
-              <td>Raw text</td>
-              <td>UWest Sanskrit Buddhist Canon.</td>
-            </tr>
-          
-            <tr>
-              <td>2</td>
-              
-              <td><a href="corpus_entry.php?uri=diamond-sutra-sanskrit.md">Diamond Sutra</a></td>
-              
-              <td>Sanskrit</td>
-              <td>Raw text</td>
-              <td>UWest Sanskrit Buddhist Canon</td>
-            </tr>
-          
-            <tr>
-              <td>3</td>
-              
-              <td><a href="corpus_entry.php?uri=diamond-sutra-taisho.md">Diamond Sutra</a></td>
-              
-              <td>Chinese</td>
-              <td>Raw text</td>
-              <td>Taisho Tripitaka CBETA</td>
-            </tr>
-          
-            <tr>
-              <td>4</td>
-              
-              <td><a href="corpus_entry.php?uri=vajracchedika_prajnaparamita_sutra_lapis.md">Diamond Sutra</a></td>
-              
-              <td>English</td>
-              <td>English translation</td>
-              <td>Lapis Lazuli Texts</td>
-            </tr>
-          
-            <tr>
-              <td>5</td>
-              
-              <td><a href="corpus_entry.php?uri=diamond_sutra_english_commentary.md">Diamond Sutra Commentary</a></td>
-              
-              <td>English</td>
-              <td>Commentary</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>6</td>
-              
-              <td><a href="corpus_entry.php?uri=ksitigarbha_english.md">Sutra of the Great Vow of Ksitigarbha Bodhisattva</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>7</td>
-              
-              <td><a href="corpus_entry.php?uri=medicine_buddha_sutra.md">Sutra of the Medicine Buddha</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>8</td>
-              
-              <td><a href="/heart_sutra.html">Prajnaparamita Heart Sutra</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>Venerable Yifa</td>
-            </tr>
-          
-            <tr>
-              <td>9</td>
-              
-              <td><a href="/buddhism_amituo_jing.html">The Amitabha Sutra</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>10</td>
-              
-              <td><a href="/eight_realizations.html">Sutra on the Eight Realizations of the Great Beings</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>11</td>
-              
-              <td><a href="/great_compassion_mantra.html">Great Compassion Dharani</a></td>
-              
-              <td>Chinese</td>
-              <td>Chinese with Pinyin</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>12</td>
-              
-              <td><a href="/buddhism_pumenpin.html">Universal Gate Sutra</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>This web site</td>
-            </tr>
-          
-            <tr>
-              <td>13</td>
-              
-              <td><a href="/buddhism_42chapters.html">The Sutra of Forty-Two Sections</a></td>
-              
-              <td>Chinese-English</td>
-              <td>English translation</td>
-              <td>This web site</td>
-            </tr>
-          
+          <tr><th>ID</th><th>Source Name</th><th>Language</th><th>Type</th><th>Translator</th><th>Source</th></tr>
+          <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp"">
+            <td>{{doc.id}}</td>
+            <td><a href="{{doc.uri}}">{{doc.source_name}}</a></td>
+            <td>{{doc.language}}</td>
+            <td>{{doc.doc_type}}</td>
+            <td>{{doc.translator}}</td>
+            <td>{{doc.source}}</td>
+          </tr>
         </tbody>
       </table>
+      <script></script>
+      <noscript>
+        Your browser does not support JavaScript! Here are the links:
+        <ul>
+          <li><a href="corpus_entry.php?uri=diamond-sutra-sanskrit1.md">Diamond Sutra Chapter 1</a></li>
+          <li><a href="corpus_entry.php?uri=diamond-sutra-sanskrit.md">Diamond Sutra Sanskrit</a></li>
+          <li><a href="corpus_entry.php?uri=diamond-sutra-taisho.md">Diamond Sutra Taisho</a></li>
+          <li><a href="corpus_entry.php?uri=vajracchedika_prajnaparamita_sutra_lapis.md">Diamond Sutra English</a></li>
+          <li><a href="corpus_entry.php?uri=diamond_sutra_english_commentary.md">Diamond Sutra Commentary</a></li>
+          <li><a href="corpus_entry.php?uri=ksitigarbha_english.md">Ksitigarbha Bodhisattva Sutra</a></li>
+          <li><a href="corpus_entry.php?uri=medicine_buddha_sutra.md">Sutra of the Medicine Buddha</a></li>
+          <li><a href="corpus_entry.php?uri=/heart_sutra.html">Prajnaparamita Heart Sutra</a></li>
+          <li><a href="corpus_entry.php?uri=/buddhism_amituo_jing.html">The Amitabha Sutra</a></li>
+          <li><a href="corpus_entry.php?uri=/eight_realizations.html">Sutra on the Eight Realizations of the Great Beings</a></li>
+          <li><a href="corpus_entry.php?uri=/great_compassion_mantra.html">Great Compassion Dharani</a></li>
+          <li><a href="corpus_entry.php?uri=/buddhism_pumenpin.html">Universal Gate Sutra</a></li>
+          <li><a href="corpus_entry.php?uri=/buddhism_42chapters.html">The Sutra of Forty-Two Sections</a></li>
+        </ul>
+      </noscript>
       <hr/>
       <p>
         Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
