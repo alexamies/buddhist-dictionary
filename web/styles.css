@@ -99,6 +99,18 @@ div.search {
   	padding: 10px;
 }
 
+#searchPhrase {
+	display: none;
+}
+
+#advancedDiv {
+	display: none;
+}
+
+fieldset {
+    border: none;
+}
+
 /* Tables */
 table {
     background-color: #EEEEEE;
@@ -156,5 +168,18 @@ form.intable {
     border: solid gray 1px;
     background-color: #FF8;
     padding: 5px;
+}
+
+/* Pictures */
+
+div.caption {
+	font-weight: bold;
+	text-align: center;
+	padding: 20px;
+}
+
+div.picture {
+	text-align: center;
+	border: 0;
 }
 
