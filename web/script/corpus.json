@@ -30,7 +30,9 @@
 ,
 {"doc_type": "Dhāranī","source_name": "Great Compassion Dharani","reference": "","language": "Chinese","start": "","charset": "Simplified","plain_text": "","uri": "/great_compassion_mantra.html","translator": "","source": "This web site","end": "","type": "site","id": "16"}
 ,
-{"doc_type": "Sutra","source_name": "Universal Gate Sūtra","reference": "Vol. 9, No. 262","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_pumenpin.html","translator": "Jñānagupta","source": "This web site","end": "","type": "site","id": "17"}
+{"doc_type": "Sūtra","source_name": "Universal Gate Sūtra","reference": "Vol. 9, No. 262","language": "Chinese","start": "爾時","charset": "Traditional","plain_text": "universal-sutra-taisho.txt","uri": "corpus_entry.php?uri=universal-sutra-taisho.md","translator": "Jñānagupta","source": "Taisho Tripitaka","end": "本網站係採用","type": "site","id": "17"}
 ,
-{"doc_type": "Sūtra","source_name": "The Sūtra of Forty-Two Sections","reference": "","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_42chapters.html","translator": "Kasyapamatanga and Dharmaratna","source": "This web site","end": "","type": "site","id": "18"}
+{"doc_type": "Sūtra","source_name": "Universal Gate Sūtra","reference": "Vol. 9, No. 262","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_pumenpin.html","translator": "Jñānagupta","source": "This web site","end": "","type": "site","id": "18"}
+,
+{"doc_type": "Sūtra","source_name": "The Sūtra of Forty-Two Sections","reference": "","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_42chapters.html","translator": "Kasyapamatanga and Dharmaratna","source": "This web site","end": "","type": "site","id": "19"}
 ]

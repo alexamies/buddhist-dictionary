@@ -10,9 +10,11 @@
 10	Sūtra of the Medicine Buddha	file	Chinese	HTML	Sūtra	corpus_entry.php?uri=medicine_buddha_sutra.md	Taisho Tripitaka	如是我聞	本網站係採用	medicine_buddha_sutra.txt	Xuanzang	Vol. 14, No. 450
 11	Sūtra of the Medicine Buddha	file	English	HTML	Sūtra	/buddhism_medicine_buddha.html	Qian Long Tripitaka	\N	\N	\N	Xuanzang	\N
 12	The Amitābha Sūtra	file	Chinese	Traditional	Sūtra	corpus_entry.php?uri=amitabha-sutra-kumarajiva.md	Taisho Tripitaka	如是我聞	本網站係採用	amitabha-sutra-kumarajiva.txt	Kumārajīva	Vol. 12 No. 0366
-13	The Amitābha Sūtra	site	English	HTML	Sūtra	/buddhism_amituo_jing.html	This web site	\N	\N	\N	Kumārajīva	\N
-14	Sūtra on the Eight Realizations of the Great Beings	file	Chinese	Traditional	Sūtra	corpus_entry.php?uri=eight-ealizations-anshigao.md	Taisho Tripitaka	\N	\N	\N	An Shih Kao	Vol. 17, No. 779
-15	Sūtra on the Eight Realizations of the Great Beings	site	English	UTF8	Sūtra	/eight_realizations.html	This web site	\N	\N	\N	An Shih Kao	\N
+13	The Amitābha Sūtra	site	English	HTML	Sūtra	/buddhism_amituo_jing.html	This web site	\N	\N	\N	Kumārajīva	Vol. 12 No. 0366
+14	Sūtra on the Eight Realizations of the Great Beings	file	Chinese	Traditional	Sūtra	corpus_entry.php?uri=eight-ealizations-anshigao.md	Taisho Tripitaka	為佛弟子	本網站係採用	eight-ealizations-anshigao.txt	An Shih Kao	Vol. 17, No. 779
+15	Sūtra on the Eight Realizations of the Great Beings	site	English	UTF8	Sūtra	/eight_realizations.html	This web site	\N	\N	\N	An Shih Kao	Vol. 17, No. 779
 16	Great Compassion Dharani	site	Chinese	Simplified	Dhāranī	/great_compassion_mantra.html	This web site	\N	\N	\N	\N	\N
-17	Universal Gate Sūtra	site	English	HTML	Sutra	/buddhism_pumenpin.html	This web site	\N	\N	\N	Jñānagupta	Vol. 9, No. 262
-18	The Sūtra of Forty-Two Sections	site	English	HTML	Sūtra	/buddhism_42chapters.html	This web site	\N	\N	\N	Kasyapamatanga and Dharmaratna	\N
+17	Universal Gate Sūtra	site	Chinese	Traditional	Sūtra	corpus_entry.php?uri=universal-sutra-taisho.md	Taisho Tripitaka	爾時	本網站係採用	universal-sutra-taisho.txt	Jñānagupta	Vol. 9, No. 262
+18	Universal Gate Sūtra	site	English	HTML	Sūtra	/buddhism_pumenpin.html	This web site	\N	\N	\N	Jñānagupta	Vol. 9, No. 262
+19	The Sūtra of Forty-Two Sections	site	Chinese	Traditional	Sūtra	corpus_entry.php?uri=sutra-42-taisho.md	Taisho Tripitaka	\N	\N	\N	Kasyapamatanga and Dharmaratna	Vol. 17, No. 784
+20	The Sūtra of Forty-Two Sections	site	English	HTML	Sūtra	/buddhism_42chapters.html	This web site	\N	\N	\N	Kasyapamatanga and Dharmaratna	Vol. 17, No. 784
