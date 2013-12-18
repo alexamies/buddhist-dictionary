@@ -1,6 +1,8 @@
-# Diamond Sutra Chinese Text
+# Diamond Sūtra Chinese Text
 
-Description: The Chinese text of the Diamond Sutra from the Taisho Tripitaka
+Description: The Chinese text of the Diamond Sūtra from the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
+
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 

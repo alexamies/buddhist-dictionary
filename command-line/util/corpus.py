@@ -2,8 +2,10 @@
 
 The corpus documents are listed in the file /data/corpos/corpus.txt
 """
+import codecs
+import json
 
-from jinja2 import Environment, FileSystemLoader, Template
+from bdict import corpusmanager
 
 
 def main():
@@ -11,62 +13,25 @@ def main():
     
     Use this if you want to drive this module from the command line directly.
     """
-    corpus = LoadCorpusMeta()
+    cmanager = corpusmanager.CorpusManager()
+    corpus = cmanager.LoadCorpus()
     PrintCorpusMeta(corpus)
 
 
-def LoadCorpusMeta():
-    """Loads the corpus text file into memory.
-    
-    Returns:
-        A list of corpus entries.
-    """
-    dirname = '../data/corpus/'
-    filename = 'corpus.txt'
-    fullpath = '%s%s' % (dirname, filename)
-    f = open(fullpath, 'r')
-    corpus = []
-    for line in f:
-        tokens = line.split('\t')
-        if tokens:
-            entry = {}
-            entry['id'] = tokens[0]
-            if len(tokens) > 1:
-                entry['source_name'] = tokens[1]
-            if len(tokens) > 2:
-                entry['type'] = tokens[2]
-            if len(tokens) > 3:
-                entry['language'] = tokens[3]
-            if len(tokens) > 4:
-                entry['charset'] = tokens[4]
-            if len(tokens) > 5:
-                entry['doc_type'] = tokens[5]
-            if len(tokens) > 6:
-                entry['uri'] = tokens[6]
-            if len(tokens) > 7:
-                entry['source'] = tokens[7]
-            if len(tokens) > 8:
-                entry['start'] = tokens[8]
-            if len(tokens) > 9:
-                entry['end'] = tokens[9]
-            corpus.append(entry)
-    return corpus
-
-
 def PrintCorpusMeta(corpus):
-    """Loads the corpus text file into memory.
-    
+    """Prints the corpus data out in json format.
+ 
     Args:
         corpus: a list of corpus entries
     """
-    dirname = 'templates'
-    output_dir = '../web/'
-    filename = 'corpus.html'
+    output_dir = ''
+    filename = 'corpus.json'
     output_file = '%s%s' % (output_dir, filename)
-    loader = FileSystemLoader(dirname)
-    env = Environment(loader=loader)
-    template = env.get_template(filename)
-    template.stream(corpus=corpus).dump(output_file)
+    print('Writing %d entries to file %s' % (len(corpus), output_file))
+    print(json.dumps({'corpus': ['a list']}))
+    with codecs.open(output_file, 'w') as f:
+        f.write(json.dumps({'corpus': corpus}))
+        f.close()
 
 
 if __name__ == "__main__":

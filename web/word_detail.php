@@ -6,12 +6,14 @@ require_once 'inc/word_detail_top.php' ;
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <link rel="stylesheet" type="text/css" href="styles.css"/>
     <script type="text/javascript" src="script/prototype.js"></script>
     <script type="text/javascript" src="script/search.js"></script>
     <script type="text/javascript" src="script/chinesenotes.js"></script>
   </head>
   <body>
+    <img id="logo" src="images/yan.png" alt="Logo"/>
     <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
     <p class="menu">
       <a class="menu" class="menu" href="index.html">Home</a> |
