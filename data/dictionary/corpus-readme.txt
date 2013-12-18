@@ -34,5 +34,10 @@ End marker: Similar to the start marker. Anything after the end marker will be
 Plain Text: The plain text source document that the markdown is based on. 
   Used for word frequency analysis.
 
+Translator: The original translator that translated the document from Sanskrit 
+  or other language to Chinese.
+
+Reference: The reference in the Tripitaka, usually Taisho, including volume, number, and scroll.
+
 Notes:
 (1) Only UTF-8 is supported
