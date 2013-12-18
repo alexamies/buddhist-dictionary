@@ -1,28 +1,32 @@
-[{"doc_type": "Sūtra","source_name": "Diamond Sūtra Chapter 1","language": "Sanskrit","start": "","charset": "IAST","plain_text": "diamond-sutra-sanskrit1.txt","uri": "corpus_entry.php?uri=diamond-sutra-sanskrit1.md","translator": "","source": "UWest Sanskrit Buddhist Canon","end": "---END---","type": "file","id": "1"}
+[{"doc_type": "Sūtra","source_name": "Diamond Sūtra Chapter 1","reference": "","language": "Sanskrit","start": "","charset": "IAST","plain_text": "diamond-sutra-sanskrit1.txt","uri": "corpus_entry.php?uri=diamond-sutra-sanskrit1.md","translator": "","source": "UWest Sanskrit Buddhist Canon","end": "---END---","type": "file","id": "1"}
 ,
-{"doc_type": "Sūtra","source_name": "Diamond Sūtra","language": "Sanskrit","start": "","charset": "IAST","plain_text": "diamond-sutra-sanskrit.txt","uri": "corpus_entry.php?uri=diamond-sutra-sanskrit.md","translator": "","source": "UWest Sanskrit Buddhist Canon","end": "---END---","type": "file","id": "2"}
+{"doc_type": "Sūtra","source_name": "Diamond Sūtra","reference": "","language": "Sanskrit","start": "","charset": "IAST","plain_text": "diamond-sutra-sanskrit.txt","uri": "corpus_entry.php?uri=diamond-sutra-sanskrit.md","translator": "","source": "UWest Sanskrit Buddhist Canon","end": "---END---","type": "file","id": "2"}
 ,
-{"doc_type": "Sūtra","source_name": "Diamond Sūtra","language": "Chinese","start": "如是我聞","charset": "Traditional","plain_text": "diamond-sutra-taisho.txt","uri": "corpus_entry.php?uri=diamond-sutra-taisho.md","translator": "Kumārajīva","source": "Taisho Tripitaka","end": "本網站係採用","type": "file","id": "3"}
+{"doc_type": "Sūtra","source_name": "Diamond Sūtra","reference": "Vol. 8, No. 235","language": "Chinese","start": "如是我聞","charset": "Traditional","plain_text": "diamond-sutra-taisho.txt","uri": "corpus_entry.php?uri=diamond-sutra-taisho.md","translator": "Kumārajīva","source": "Taisho Tripitaka","end": "本網站係採用","type": "file","id": "3"}
 ,
-{"doc_type": "Sūtra","source_name": "Diamond Sūtra","language": "English","start": "","charset": "HTML","plain_text": "","uri": "corpus_entry.php?uri=vajracchedika_prajnaparamita_sutra_lapis.md","translator": "Kumārajīva","source": "Lapis Lazuli Texts","end": "","type": "file","id": "4"}
+{"doc_type": "Sūtra","source_name": "Diamond Sūtra","reference": "Vol. 8, No. 235","language": "English","start": "","charset": "HTML","plain_text": "","uri": "corpus_entry.php?uri=vajracchedika_prajnaparamita_sutra_lapis.md","translator": "Kumārajīva","source": "Lapis Lazuli Texts","end": "","type": "file","id": "4"}
 ,
-{"doc_type": "Commentary","source_name": "Diamond Sūtra Commentary","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/diamond_sutra_toc.html","translator": "Kumārajīva","source": "This web site","end": "","type": "file","id": "5"}
+{"doc_type": "Commentary","source_name": "Diamond Sūtra Commentary","reference": "","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/diamond_sutra_toc.html","translator": "Kumārajīva","source": "This web site","end": "","type": "file","id": "5"}
 ,
-{"doc_type": "Sūtra","source_name": "Prajñāpāramitā Heart Sūtra","language": "Chinese","start": "觀自在菩薩行深","charset": "Traditionl","plain_text": "heart-sutra-xuanzang.txt","uri": "corpus_entry.php?uri=heart-sutra-xuanzang.md","translator": "Xuanzang","source": "Taisho Tripitaka","end": "本網站係採用","type": "file","id": "6"}
+{"doc_type": "Sūtra","source_name": "Prajñāpāramitā Heart Sūtra","reference": "Vol. 8, No. 251","language": "Chinese","start": "觀自在菩薩行深","charset": "Traditionl","plain_text": "heart-sutra-xuanzang.txt","uri": "corpus_entry.php?uri=heart-sutra-xuanzang.md","translator": "Xuanzang","source": "Taisho Tripitaka","end": "本網站係採用","type": "file","id": "6"}
 ,
-{"doc_type": "Sūtra","source_name": "Prajñāpāramitā Heart Sūtra","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/heart_sutra.html","translator": "Xuanzang","source": "Venerable Yifa","end": "","type": "site","id": "7"}
+{"doc_type": "Sūtra","source_name": "Prajñāpāramitā Heart Sūtra","reference": "Vol. 8, No. 251","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/heart_sutra.html","translator": "Xuanzang","source": "Venerable Yifa","end": "","type": "site","id": "7"}
 ,
-{"doc_type": "Sūtra","source_name": "Sūtra of the Great Vow of Ksitigarbha Bodhisattva","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_dizang.html","translator": "","source": "This web site","end": "","type": "file","id": "8"}
+{"doc_type": "Sūtra","source_name": "Sūtra of the Great Vow of Ksitigarbha Bodhisattva","reference": "Vol. 13, No. 412","language": "Chinese","start": "如是我聞","charset": "Traditional","plain_text": "ksitigarbha_taisho.txt","uri": "corpus_entry.php?uri=ksitigarbha_taisho.md","translator": "Śiksānanda","source": "Taisho Tripitaka","end": "本網站係採用","type": "file","id": "8"}
 ,
-{"doc_type": "Sūtra","source_name": "Sūtra of the Medicine Buddha","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_medicine_buddha.html","translator": "","source": "This web site","end": "","type": "file","id": "9"}
+{"doc_type": "Sūtra","source_name": "Sūtra of the Great Vow of Ksitigarbha Bodhisattva","reference": "Vol. 13, No. 412","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_dizang.html","translator": "Śiksānanda","source": "This web site","end": "","type": "file","id": "9"}
 ,
-{"doc_type": "Sūtra","source_name": "The Amitabha Sūtra","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_amituo_jing.html","source": "This web site","end": "","type": "site","id": "10"}
+{"doc_type": "Sūtra","source_name": "Sūtra of the Medicine Buddha","reference": "Vol. 14, No. 450","language": "Chinese","start": "如是我聞","charset": "HTML","plain_text": "medicine_buddha_sutra.txt","uri": "corpus_entry.php?uri=medicine_buddha_sutra.md","translator": "Xuanzang","source": "Taisho Tripitaka","end": "本網站係採用","type": "file","id": "10"}
 ,
-{"doc_type": "Sūtra","source_name": "Sūtra on the Eight Realizations of the Great Beings","language": "Chinese-English","start": "","charset": "UTF8","plain_text": "","uri": "/eight_realizations.html","translator": "","source": "This web site","end": "","type": "site","id": "11"}
+{"doc_type": "Sūtra","source_name": "Sūtra of the Medicine Buddha","reference": "","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_medicine_buddha.html","translator": "Xuanzang","source": "Qian Long Tripitaka","end": "","type": "file","id": "11"}
 ,
-{"doc_type": "Dhāranī","source_name": "Great Compassion Dharani","language": "Chinese","start": "","charset": "Simplified","plain_text": "","uri": "/great_compassion_mantra.html","translator": "","source": "This web site","end": "","type": "site","id": "12"}
+{"doc_type": "Sūtra","source_name": "The Amitabha Sūtra","reference": "","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_amituo_jing.html","translator": "Kumārajīva","source": "This web site","end": "","type": "site","id": "12"}
 ,
-{"doc_type": "Sutra","source_name": "Universal Gate Sūtra","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_pumenpin.html","translator": "","source": "This web site","end": "","type": "site","id": "13"}
+{"doc_type": "Sūtra","source_name": "Sūtra on the Eight Realizations of the Great Beings","reference": "","language": "English","start": "","charset": "UTF8","plain_text": "","uri": "/eight_realizations.html","translator": "An Shih Kao","source": "This web site","end": "","type": "site","id": "13"}
 ,
-{"doc_type": "Sūtra","source_name": "The Sūtra of Forty-Two Sections","language": "Chinese-English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_42chapters.html","translator": "","source": "This web site","end": "","type": "site","id": "14"}
+{"doc_type": "Dhāranī","source_name": "Great Compassion Dharani","reference": "","language": "Chinese","start": "","charset": "Simplified","plain_text": "","uri": "/great_compassion_mantra.html","translator": "","source": "This web site","end": "","type": "site","id": "14"}
+,
+{"doc_type": "Sutra","source_name": "Universal Gate Sūtra","reference": "Vol. 9, No. 262","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_pumenpin.html","translator": "Jñānagupta","source": "This web site","end": "","type": "site","id": "15"}
+,
+{"doc_type": "Sūtra","source_name": "The Sūtra of Forty-Two Sections","reference": "","language": "English","start": "","charset": "HTML","plain_text": "","uri": "/buddhism_42chapters.html","translator": "Kasyapamatanga and Dharmaratna","source": "This web site","end": "","type": "site","id": "16"}
 ]

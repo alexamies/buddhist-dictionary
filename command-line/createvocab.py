@@ -16,7 +16,7 @@ def PrintUsage():
     print('The buildvocab command builds a vocabulary with word frequency '
           'analysis from a corpus document.')
     print('Usage: python createvocab.py buildvocab <doc_num>')
-    print('Example: python createvocab.py buildvocab 0')
+    print('Example: python createvocab.py buildvocab 1')
     print('Get the corpus document number from the listcorpus command.')
     print('The listcorpus command lists all the documents in the corpus (aka library).')
     print('Usage: python createvocab.py listcorpus')
@@ -36,7 +36,7 @@ def main():
         doc_num = int(sys.argv[2])
         cmanager = corpusmanager.CorpusManager()
         corpus = cmanager.LoadCorpus()
-        corpus_entry = corpus[doc_num]
+        corpus_entry = corpus[doc_num-1]
         language = corpus_entry['language']
         languages = ['Sanskrit', 'Chinese']
         if language not in languages:

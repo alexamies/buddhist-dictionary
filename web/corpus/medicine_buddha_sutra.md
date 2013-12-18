@@ -1,8 +1,8 @@
-# Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
-Description: Translated by Tripiṭaka monk Śiksānanda, Khotan, Tang Dynasty. Original Chinese Text from Taisho Tripitaka and Matching English translation.
+# Sutra of the Vows of the Medicine Buddha of Lapis Lazuli Crystal Radiance
+Description: Primary source text from Taisho Tripitaka 藥師琉璃光如來本願功德經
 
-Character Set: ASCII
+Character Set: Unicode
 
 Source:  [NTI Chinese-Sanskrit-English Buddhist Dictionary Web Site] (/index.html "Main Page of Web Site")
-Document: [Sūtra of the Great Vow of Kṣitigarbha Bodhisattva] (/buddhism_dizang.html "Link to document")
+Document: [Sutra of the Vows of the Medicine Buddha] (/buddhism_medicine_buddha.html "Link to document")
 

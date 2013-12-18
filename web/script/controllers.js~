@@ -3,6 +3,7 @@
 /**
  * Retrieves the corpus data. 
  */
+
 var bdictApp = angular.module('bdictApp', []);
 
 bdictApp.controller('CorpusListCtrl', function($scope, $http) {

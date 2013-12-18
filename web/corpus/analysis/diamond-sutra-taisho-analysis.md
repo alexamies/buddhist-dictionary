@@ -1,4 +1,8 @@
-## Vocabulary for diamond-sutra-taisho.txt
+## Vocabulary for source document Diamond Sūtra
+Source file: diamond-sutra-taisho.txt<br/>
+Source: Taisho Tripitaka<br/>
+Reference: Vol. 8, No. 235<br/>
+Translator: Kumārajīva<br/>
 Lines read: 355<br/>
 ### Word count
 Word count: 3362, unique words: 519, known words: 519, new words: 0

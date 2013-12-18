@@ -1,4 +1,8 @@
-## Vocabulary for heart-sutra-xuanzang.txt
+## Vocabulary for source document Prajñāpāramitā Heart Sūtra
+Source file: heart-sutra-xuanzang.txt<br/>
+Source: Taisho Tripitaka<br/>
+Reference: Vol. 8, No. 251<br/>
+Translator: Xuanzang<br/>
 Lines read: 35<br/>
 ### Word count
 Word count: 187, unique words: 101, known words: 101, new words: 0
