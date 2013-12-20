@@ -313,9 +313,26 @@ Word, frequency, relative frequency per 1000 words
 [吾](word_detail.php?id=17099 "I / my 吾"), 1, 2.22<br/>
 [忽](word_detail.php?id=6114 "suddenly 忽"), 1, 2.22<br/>
 [被](word_detail.php?id=426 "by 被"), 1, 2.22<br/>
-### Frequency of new words
+### Frequency of New Words
 厨, 1<br/>
 擣, 1<br/>
 欝, 1<br/>
 寤, 1<br/>
 熏, 1<br/>
+### Frequency of Bigrams
+琴鼓樂, 3<br/>
+彈琴, 3<br/>
+乘白象, 3<br/>
+不復, 2<br/>
+燒香來, 2<br/>
+王意, 2<br/>
+今我, 2<br/>
+花香, 2<br/>
+日夫人, 2<br/>
+皆來, 2<br/>
+不欲, 2<br/>
+花燒香, 2<br/>
+散花, 2<br/>
+我上, 2<br/>
+大王, 2<br/>
+迦羅, 2<br/>

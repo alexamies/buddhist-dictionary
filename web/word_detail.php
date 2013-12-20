@@ -235,16 +235,16 @@ require_once 'inc/word_detail_top.php' ;
       $server = "";
       //$server = "http://chinesenotes.com";
       $pinyin = $word->getPinyin();
+      $trad = $word->getSimplified()
       if ($word->getTraditional()) {
-        $pinyin = $word->getTraditional() . " " . $pinyin;
+        $trad = $word->getTraditional();
+        $pinyin = $word->getSimplified() . " " . $pinyin;
       }
       $english = $word->getEnglish();
-      print("<h2 class='wordDetail'>HTML</h2>\n" .
+      $id = $word->getId();
+      print("<h2 class='wordDetail'>Markdown</h2>\n" .
             "<textarea cols='120' rows='2'>" .
-            "&lt;a href='$server$script?id=" . $word->getId() . "'" .
-            " onmouseover=\"showToolTip(this, '$pinyin', '$english')\" onmouseout='hideToolTip()'" . 
-            "&gt;" . $word->getSimplified() . 
-            "&lt;/a&gt;" . 
+            "[$trad] ($server$script?id=$id '$pinyin $english')" .
             "</textarea>\n");
     }
 

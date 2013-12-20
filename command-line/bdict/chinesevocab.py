@@ -10,6 +10,7 @@ from bdict import app_exceptions
 from bdict import cedict
 from bdict import chinesephrase
 from bdict import configmanager
+from bdict import ngramfinder
 
 DEFAULT_OUTFILE = 'temp.md'
 
@@ -48,6 +49,7 @@ class ChineseVocabulary:
         lines = 0
         known_words = {}
         new_words = {}
+        finder = ngramfinder.NGramFinder(2)
         found_start = False
         start_marker = None
         if 'start' in corpus_entry:
@@ -76,6 +78,7 @@ class ChineseVocabulary:
                 words = splitter.ExtractWords(line)
                 wc += len(words)
                 for word in words:
+                    finder.AddWord(word)
                     if word in wdict:
                         if word not in known_words:
                             known_words[word] = 1
@@ -90,7 +93,15 @@ class ChineseVocabulary:
         full_outfile = '%s/%s' % (directory, outfile)
         with codecs.open(full_outfile, 'w', "utf-8") as outf:
             print('Writing output file %s ' % full_outfile)
-            outf.write('## Vocabulary for %s\n' % infile)
+            source_name = corpus_entry['source_name']
+            source = corpus_entry['source']
+            reference = corpus_entry['reference']
+            translator = corpus_entry['translator']
+            outf.write('## Vocabulary for source document %s\n' % source_name)
+            outf.write('Source file: %s<br/>\n' % infile)
+            outf.write('Source: %s<br/>\n' % source)
+            outf.write('Reference: %s<br/>\n' % reference)
+            outf.write('Translator: %s<br/>\n' % translator)
             outf.write('Lines read: %d<br/>\n' % lines)
             outf.write('### Word count\n')
             num_known = len(known_words)
@@ -100,7 +111,9 @@ class ChineseVocabulary:
             outf.write('')
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('')
-            self._PrintFrequencyNew(new_words, outf, wc)
+            self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
+            bigrams = finder.GetNGrams()
+            self._PrintFrequencyNew(bigrams, outf, wc, 'Bigrams')
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.
@@ -130,7 +143,7 @@ class ChineseVocabulary:
         for k in sorted(function_words, key=lambda key: -function_words[key]):
             self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
 
-    def _PrintFrequencyNew(self, word_freq, outf, wc):
+    def _PrintFrequencyNew(self, word_freq, outf, wc, title):
         """Prints the set of words without links.
 
         Since the words are not known there are no links to the dictionary.
@@ -140,7 +153,7 @@ class ChineseVocabulary:
           outf: file object to send output to
           wc: the total word count
         """
-        outf.write('### Frequency of new words\n')
+        outf.write('### Frequency of %s\n', % title)
         if not word_freq:
             outf.write('None<br/>\n')
         else:

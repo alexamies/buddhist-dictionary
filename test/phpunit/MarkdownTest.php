@@ -52,6 +52,15 @@ class MarkdownTest extends PHPUnit_Framework_TestCase {
         $this->assertEquals($expected, $html);
     }
 
+    public function testLink4() {
+        $text = "[an example](http://example.com/ 'Title')\n[an example 2](http://example.com/ 'Title 2')";
+        $markdown = new Markdown($text);
+        $html = $markdown->getHTML();
+        $expected = "<a href=\"http://example.com/\" title=\"Title\">an example</a>\n" .
+                    "<a href=\"http://example.com/\" title=\"Title 2\">an example 2</a>";
+        $this->assertEquals($expected, $html);
+    }
+
     public function testCBETA1() {
         $text = "T08n0235_p0748c15(00)║\n";
         $markdown = new Markdown($text);
