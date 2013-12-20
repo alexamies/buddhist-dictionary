@@ -112,7 +112,7 @@ class ChineseVocabulary:
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('')
             self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
-            bigrams = finder.GetNGrams()
+            bigrams = finder.GetNGrams(2)
             self._PrintFrequencyNew(bigrams, outf, wc, 'Bigrams')
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
@@ -153,7 +153,7 @@ class ChineseVocabulary:
           outf: file object to send output to
           wc: the total word count
         """
-        outf.write('### Frequency of %s\n', % title)
+        outf.write('### Frequency of %s\n' % title)
         if not word_freq:
             outf.write('None<br/>\n')
         else:
