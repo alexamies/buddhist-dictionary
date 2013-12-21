@@ -357,6 +357,7 @@
 8595	↓	\N	\N	\N	\N	Downstep	\N	ipa
 8599	↗	\N	\N	\N	\N	Global rise	\N	ipa
 8600	↘	\N	\N	\N	\N	Global fall	\N	ipa
+9553	║	\N	\N	\N	\N	CJK double pipe	\N	cjk-punctuation
 11904	⺀	dié	⺀	2	0	Repeat	CJK Radical Repeat	radical
 11905	⺁	hǎn​	⺁	2	0	Cliff	CJK Radical Cliff	radical
 11906	⺂	cì​	⺂	1	0	Second	CJK Radical Second One	radical
@@ -472,6 +473,12 @@
 12017	⻱	guī	⻱	16	0	Turtle	CJK Radical Turtle	radical
 12018	⻲	guī	⻲	12	0	Turtle	CJK Radical J-Simplified Turtle	radical
 12019	⻳	guī	⻳	7	0	Turtle	CJK Radical C-Simplified Turtle	radical
+12304	【	\N	\N	\N	\N	CJK Left heavy square bracket	\N	cjk-punctuation
+12305	】	\N	\N	\N	\N	CJK Right heavy square bracket	\N	cjk-punctuation
+12308	〔	\N	\N	\N	\N	CJK Left square bracket	\N	cjk-punctuation
+12309	〕	\N	\N	\N	\N	CJK Right square bracket	\N	cjk-punctuation
+12298	《	\N	\N	\N	\N	CJK Left angle bracket	\N	cjk-punctuation
+12299	》	\N	\N	\N	\N	CJK Right angle bracket	\N	cjk-punctuation
 12736	㇀	tí	丶	1	0	Up and Rightwards Flick	提	stroke
 12737	㇁	shù​ gōu	亅	1	0	Vertical Hooked Stroke	竖钩	stroke
 12738	㇂	xiégōu	乙	1	0	Hooked Arc	斜钩（狐钩）	stroke
@@ -1065,6 +1072,7 @@
 21400	厘	lí xī	厂	9	7	to manage / to control / 1/1000 of a foot	\N	simplified
 21401	厙	shè	厂	9	7	She	a surname	traditional
 21407	原	yuán	厂	10	8	former / original / primary / raw	\N	both
+21416	厨	chú	厂	12	10	kitchen	\N	simplified
 21421	厭	yàn yā yān	厂	14	12	to dislike / to detest / to reject / to satiate	\N	traditional
 21426	厲	lì	厂	15	13	a whetstone / to grind / to sharpen / to whet	\N	traditional
 21430	厶	sī mǒu	厶	2	0	private / secret	Kangxi radical 28	radical
@@ -1451,6 +1459,7 @@
 24200	庈	qín	广	7	4	used in names	\N	archaic
 24201	庉	dùn	广	7	4	a village / to dwell together	\N	archaic
 24202	床	chuáng	广	7	4	a bed / a couch / a framework / a chassis	\N	both
+24282	廚	chú	广	15	12	kitchen	\N	traditional
 24288	廠	chǎng hàn ān	广	15	12	a factory / a workshop	\N	traditional
 24291	廣	yǎn ān guǎng	广	15	12	wide / extensive / broad	\N	traditional
 24307	廳	tīng	广	25	22	a hall / a central room	\N	traditional
@@ -3440,4 +3449,6 @@
 40845	龍	lóng	龍	16	0	a dragon / symbolic of emperor	\N	radical
 40846	龎	páng	龍	18	2	disorderly / messy / huge / big	\N	traditional
 63912	令	lìng líng lǐng	人	5	3	command / order / commandant / magistrate / allow / cause	\N	archaic
+65292	，	\N	\N	\N	\N	CJK comma	\N	cjk-punctuation
+65306	：	\N	\N	\N	\N	CJK colon	\N	cjk-punctuation
 151681	𥂁	yán yàn	皿	13	8	Salt	\N	archaic

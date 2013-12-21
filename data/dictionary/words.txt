@@ -12284,7 +12284,7 @@
 12284	横	橫	hēng	humph	interjection	\N	\N	叹词	Interjection	\N	\N	\N	\N	\N
 12285	王小花	\N	Wáng Xiǎohuā	Wang Xiaohua	proper noun	人物	Character	老舍茶馆	Teahouse by Lao She	\N	\N	\N	\N	A character in Teahouse by Lao She 
 12286	包办	包辦	bāobàn	to take care of everything concerning a job	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
-12287	厨	廚	chú	kitchen	noun	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
+12287	厨	廚	chú	kitchen	noun	\N	\N	饮食	Food and Drink	烹调	Cooking	\N	\N	\N
 12288	邹福远	鄒福遠	Zōu Fúyuǎn	Zou Fuyuan	proper noun	人物	Character	老舍茶馆	Teahouse by Lao She	\N	\N	\N	\N	A character in Teahouse by Lao She 
 12289	评书	評書	píngshū	folk theatrical form, a monologue discussion historical events	noun	\N	\N	戏剧	Drama	\N	\N	\N	\N	\N
 12290	名手	\N	míngshǒu	master / famous artist / sportsman	noun	\N	\N	人	People	\N	\N	\N	\N	\N
@@ -14325,7 +14325,7 @@
 14325	出神	\N	chūshén	entranced	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 14326	出世	\N	chūshì	to be born / to come into being	verb	\N	\N	生活	Life	\N	\N	\N	\N	\N
 14327	出售	\N	chūshòu	to sell / to offer for sale	verb	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
-14328	厨师	廚師	chúshī	a cook	noun	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
+14328	厨师	廚師	chúshī	a cook	noun	\N	\N	饮食	Food and Drink	烹调	Cooking	\N	\N	\N
 14329	锄	鋤	chú	to hoe	verb	\N	\N	农业	Agriculture	\N	\N	\N	chu2.mp3	\N
 14330	除此之外	\N	chú cǐ zhīwài	apart from this / except / besides	phrase	\N	\N	虚词	Function Words	\N	\N	\N	bu4.mp3	\N
 14331	除外	\N	chúwài	to exclude / not including / except for	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
@@ -19376,7 +19376,7 @@
 19376	父子	\N	fù zǐ	father and son	noun	\N	\N	家	Family	\N	\N	\N	\N	\N
 19377	联贯	聯貫	liánguàn	to be connected	verb	\N	\N	联系	Relationship	\N	\N	\N	\N	\N
 19378	一来	一來	yī lái	on one hand	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
-19379	厨子	廚子	chúzi	a cook	noun	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
+19379	厨子	廚子	chúzi	a cook	noun	\N	\N	饮食	Food and Drink	烹调	Cooking	\N	\N	\N
 19380	说书	說書	shuōshū	story telling	noun	\N	\N	戏剧	Drama	\N	\N	\N	\N	\N
 19381	顺口	順口	shùnkǒu	to read smoothly / to blurt out / to suit one's taste	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 19382	失传	失傳	shīchuán	to not be transmitted	verb	\N	\N	通讯	Communications	\N	\N	\N	\N	\N
@@ -32913,3 +32913,4 @@
 32913	重码	重碼	chóngmǎ	a repeated code	noun	\N	\N	信息	Information	\N	\N	\N	\N	\N
 32914	乘积	乘積	chéngjī	a product	noun	\N	\N	信息	Information	\N	\N	\N	\N	The result of multiplication
 32915	语料	語料	yùliào	a corpus	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
+32916	厨	厨	chú	kitchen	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 廚
