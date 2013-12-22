@@ -39,5 +39,7 @@ Translator: The original translator that translated the document from Sanskrit
 
 Reference: The reference in the Tripitaka, usually Taisho, including volume, number, and scroll.
 
+Genre: The genre of the text, such as Prajnaparamita, Jataka, etc.
+
 Notes:
 (1) Only UTF-8 is supported

@@ -48,6 +48,10 @@ class CorpusManager:
                         entry['plain_text'] = tokens[10].strip()
                     if len(tokens) > 11:
                         entry['translator'] = tokens[11].strip()
+                    if len(tokens) > 12:
+                        entry['reference'] = tokens[12].strip()
+                    if len(tokens) > 13:
+                        entry['genre'] = tokens[13].strip()
                     corpus.append(entry)
         return corpus
 

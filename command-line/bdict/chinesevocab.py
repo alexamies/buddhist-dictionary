@@ -95,13 +95,21 @@ class ChineseVocabulary:
             print('Writing output file %s ' % full_outfile)
             source_name = corpus_entry['source_name']
             source = corpus_entry['source']
+            uri = corpus_entry['uri']
             reference = corpus_entry['reference']
-            translator = corpus_entry['translator']
+            start = corpus_entry['start']
             outf.write('## Vocabulary for source document %s\n' % source_name)
             outf.write('Source file: %s<br/>\n' % infile)
+            outf.write('Document Source URL: %s<br/>\n' % uri)
             outf.write('Source: %s<br/>\n' % source)
             outf.write('Reference: %s<br/>\n' % reference)
-            outf.write('Translator: %s<br/>\n' % translator)
+            if 'translator' in corpus_entry:
+                translator = corpus_entry['translator']
+                outf.write('Translator: %s<br/>\n' % translator)
+            outf.write('Start marker: %s<br/>\n' % start)
+            if 'end' in corpus_entry:
+                end = corpus_entry['end']
+                outf.write('End marker: %s<br/>\n' % end)
             outf.write('Lines read: %d<br/>\n' % lines)
             outf.write('### Word count\n')
             num_known = len(known_words)

@@ -165,7 +165,7 @@ require_once 'inc/word_detail_top.php' ;
       // Topic
       if ($word->getTopicCn()) {
         print("<div>Topic: " . 
-              "<a href='" . $_SERVER['SCRIPT_NAME'] . "?english=" . 
+              "<a href='topic.php?english==" . 
               $word->getTopicEn() . "'>" . 
               $word->getTopicCn() . "</a> (" . $word->getTopicEn() . 
               ")</div>\n");
@@ -235,7 +235,7 @@ require_once 'inc/word_detail_top.php' ;
       $server = "";
       //$server = "http://chinesenotes.com";
       $pinyin = $word->getPinyin();
-      $trad = $word->getSimplified()
+      $trad = $word->getSimplified();
       if ($word->getTraditional()) {
         $trad = $word->getTraditional();
         $pinyin = $word->getSimplified() . " " . $pinyin;
@@ -244,7 +244,7 @@ require_once 'inc/word_detail_top.php' ;
       $id = $word->getId();
       print("<h2 class='wordDetail'>Markdown</h2>\n" .
             "<textarea cols='120' rows='2'>" .
-            "[$trad] ($server$script?id=$id '$pinyin $english')" .
+            "[$trad]($server$script?id=$id '$pinyin, $english')" .
             "</textarea>\n");
     }
 
