@@ -95,12 +95,13 @@ class ChineseVocabulary:
             print('Writing output file %s ' % full_outfile)
             source_name = corpus_entry['source_name']
             source = corpus_entry['source']
-            uri = corpus_entry['uri']
             reference = corpus_entry['reference']
             start = corpus_entry['start']
             outf.write('## Vocabulary for source document %s\n' % source_name)
             outf.write('Source file: %s<br/>\n' % infile)
-            outf.write('Document Source URL: %s<br/>\n' % uri)
+            if 'uri' in corpus_entry:
+                uri = corpus_entry['uri']
+                outf.write('Document Source URL: %s<br/>\n' % uri)
             outf.write('Source: %s<br/>\n' % source)
             outf.write('Reference: %s<br/>\n' % reference)
             if 'translator' in corpus_entry:

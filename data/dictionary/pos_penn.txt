@@ -3,18 +3,19 @@ VC	Copula	為 为 是
 VE	Existential verb	有 沒有 没有 沒 没 無 无
 VV	Other verbs	\N
 NR	Proper noun	\N
-NT	Noun
-NN	Noun
-PN	Pronoun
-DT	Determiner
-CD	?
-OD	?
-M	Measure word
-AD	Adverb
-P	Preposition
-CC	Conjunction
-CS	Conjunction
-DEC	Particle	的
+NT	Temporal noun	\N
+NN	Other noun	\N
+LC	Localizer	前 后 後 里 裡 外 内 內 东 東 南 西 北 边 邊 旁 底 侧 側 间 間 未 前后 前後 上下 左右 东北 東北 西北 东南 東南 西南 为止 為止 以来 以來 在内 在內
+PN	Pronoun	\N
+DT	Determiner	这 這 那 每 各
+CD	Cardinal number	\N
+OD	Ordinal number	\N
+M	Measure word	\N
+AD	Adverb	\N
+P	Preposition	\N
+CC	Coordinating conjunction	\N
+CS	Subordinating Conjunction
+DEC	Particle	的 之
 DEG	Particle
 DER	Particle
 DEV	Particle

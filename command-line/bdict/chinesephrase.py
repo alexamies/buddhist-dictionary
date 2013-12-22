@@ -82,3 +82,9 @@ class ChinesePhraseSplitter:
             pass
         return False
 
+
+class ChinesePhraseLoader:
+    """Loads phrases from the phrases.txt file.
+
+    """
+

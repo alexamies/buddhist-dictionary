@@ -51,6 +51,8 @@ chinese_phrase: Plain text in traditional Chinese
 
 pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word and phrase gloss
 
+sanskrit: the Sanskrit equivalent, if known
+
 source_doc_no: The id of the corpus source document
 
 source_doc_name: The name of the source document. Included to make the phrase list stand alone more easily.
