@@ -1,4 +1,6 @@
-Explanation of corpus.txt file
+Explanation of corpus.txt and phrases.txt files
+
+corpus.txt
 ===============================================================================
 The file is a tab delimited file listing the URL and other details of corpus 
 source documents. Fields:
@@ -40,6 +42,18 @@ Translator: The original translator that translated the document from Sanskrit
 Reference: The reference in the Tripitaka, usually Taisho, including volume, number, and scroll.
 
 Genre: The genre of the text, such as Prajnaparamita, Jataka, etc.
+
+phrases.txt
+===============================================================================
+This a phrase dataset. The fields are:
+
+chinese_phrase: Plain text in traditional Chinese
+
+pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word and phrase gloss
+
+source_doc_no: The id of the corpus source document
+
+source_doc_name: The name of the source document. Included to make the phrase list stand alone more easily.
 
 Notes:
 (1) Only UTF-8 is supported

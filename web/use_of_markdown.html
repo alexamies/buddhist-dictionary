@@ -17,74 +17,40 @@
       <a class="menu" href="about.html">About</a>
     </p>
     <div class="content">
-      <h2>Word Frequency Analysis</h2>
+      <h2>Use of Markdown, Corpus Management, and Part-of-Speech Tagging</h2>
+      <h3>Use of markdown and corpus management</h2>
       <p>
-        See the <a href="https://github.com/alexamies/buddhist-dictionary">Buddhist Dictionary GitHub project</a> 
-        for a description on how to do word frequency analysis on Buddhist texts in Chinese and Sanskrit using
-        the createvocab.py Python command line tool.
+        See the Buddhist Dictionary GitHub project
+        <a href="https://github.com/alexamies/buddhist-dictionary/tree/master/web/corpus">corpus directory</a> 
+        for a list of markdown files used in the project.
       </p>
       <p>
-        <div class='picture'>
-          <img src='images/diamond_sutra_wfreq.png' alt='Diamond Sutra Word Frequency Analysis' 
-               title='Diamond Sutra Word Frequency Analysis'/><br/>
-          <div class='caption'>Diamond Sutra Word Frequency Analysis (Non-Functional Words)</div>
-        </div>
-      </p>
-      <h3>Uses of word frequency analysis</h3>
-      <p>
-        Word frequency analysis is useful in getting an idea of an untranslated text.
-        This is important because there is more untranslated text than translated text
-        in the Chinese Mahayana Tripitaka.  Even for translated texts a word frequency
-        analysis can be useful for writing a commentary or doing a close reading.
-        It can also be useful for comparing different translations for style and quality or
-        for comparing different historic recensions of the same source document.
+        <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> can allow people who are not 
+        software or web design specialists to easily work with plain text that can be transformed
+        to HTML later. Markdown consists of simple and intuitive patterns, such has headers and 
+        bullet lists for making plan text more readable.  This makes it easy to add annotations to
+        primary source documents or copies of them.
       </p>
       <p>
-        Study texts in a quantitative way rather than qualitative, covering a broader 
-        range of texts than is possible than reading every text yourself.
-      </p>
-      <h3>Types of word frequency analysis</h3>
-      <p>
-        A frequency distribution of non-functional words can give an idea of the content 
-        of a text at a quick glance. A frequency distribution of functional words can 
-        give an idea of the style of a translator, the histoic period written, and the 
-        translation source (e.g.,Sanskrit). A frequency distribution of proper nouns 
-        (not implemented yet) can give an idea of the principal actors in a text.
-        A character frequency distribution may be more useful when your are missing 
-        vocabulary.
-      </p>
-      <h3>Difficulties with word frequency analysis</h3>
-      <p>
-        You need a good base vocabulary to do a word frequency analysis in Chinese.
-        Since Chinese text does not have spaces in between words you need the vocabulary
-        to find the boundaries between the words. Otherwise, you will simply end of with
-        a character frequency distribution.
+        The collection of primary texts and markdown documents is through a corpus schema, including 
+        start and end markers for primary text. Adaptations for easy display of primary source text 
+        from common repositories of primary sources, particulary CBETA. For details on the corpus schema see the 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/corpus-readme.txt">corpus-readme.txt</a>
+        document.
       </p>
       <p>
-        Sanskrit word morphology is a challenge since there is a large number of different
-        inflections of Sanskrit words. It is useful to both list the different
-        forms of common words in the dictionary and to do transformations for common
-        inflictions. There is an infinite number of compounds that can be formed in
-        Sanskrit. This provides an additional challenge. 
-      </p>
+        Markdown viewers and parsers widely available, so it is a good medium for transfering 
+        text between systems. In particular, users of the web site can use the markdown generated on 
+        the web site, copying that elsewere to to another site. The 
+        <a href="about.html">terms and conditions</a> of the the web site allow direct copying, with 
+        attribution.
+      <h2>Part-of-Speech Tagging</h2>
       <p>
-        Synonyms and Chinese character variants are an additional obstacle. The Buddha
-        has ten titles, such as Tathāgata, Bhagavān. It would be useful to group these
-        together.
+        This is a new effort. I am following the part-of-speech (PoS) Tagging format documented by UPenn 
+        for the UPen Chinese Treebank project. However, that was designed for modern Chinese and this
+        project is mainly in literary Chinese, which has a different grammar. Still, the UPenn format 
+        is used as the best choice at the moment.
       </p>
-      <p>
-        See the links below for the full data sets. 
-      </p>
-      <ul>
-        <li><a href='corpus_entry.php?uri=analysis/diamond-sutra-taisho-analysis.md'>Diamond Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/diamond-sutra-sanskrit-analysis.md'>Diamond Sūtra (Sanskrit)</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/heart-sutra-xuanzang-analysis.md'>Heart Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/medicine_buddha_sutra_analysis.md'>Sūtra of the Medicine Buddha</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/amitabha-sutra-kumarajiva-analysis.md'>Amitābha Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/ksitigarbha_taisho_analysis.md'>Sūtra of the Great Vow of Kṣitigarbha Bodhisattva</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/eight-ealizations-anshigao-analysis.md'>Sūtra on the Eight Realizations of the Great Beings</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/universal-sutra-taisho-analysis.md'>Universal Gate Sūtra</a></li>
-      </ul>
       <hr/>
       <p>
         Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
