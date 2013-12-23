@@ -51,7 +51,7 @@ class ChineseVocabulary:
         lines = 0
         known_words = {}
         new_words = {}
-        finder = ngramfinder.NGramFinder(2)
+        finder = ngramfinder.NGramFinder(5)
         found_start = False
         start_marker = None
         if 'start' in corpus_entry:
@@ -100,7 +100,7 @@ class ChineseVocabulary:
             source_name = corpus_entry['source_name']
             source = corpus_entry['source']
             reference = corpus_entry['reference']
-            outf.write('## Vocabulary for source document %s\n' % source_name)
+            outf.write('## Vocabulary analysis for source document %s\n' % source_name)
             outf.write('Source file: %s<br/>\n' % infile)
             if 'uri' in corpus_entry:
                 uri = corpus_entry['uri']
@@ -122,16 +122,16 @@ class ChineseVocabulary:
             num_new = len(new_words)
             outf.write('Word count: %d, unique words: %d, known words: %d, new words: %d\n' % 
                   (wc, num_known + num_new, num_known, num_new))
-            outf.write('')
-            self._PrintFrequencyKnown(known_words, wdict, outf, wc)
-            outf.write('')
-            self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
-            bigrams = finder.GetNGrams(2)
-            self._PrintFrequencyNew(bigrams, outf, wc, 'Bigrams')
+            outf.write('\n')
             matcher = phrasematcher.PhraseDataset()
             matcher.Load()
             phrases = matcher.Matches(text)
             self._PrintPhrases(phrases, outf, wc, 'Matching entries in phrase dataset')
+            bigrams = finder.GetNGrams(2)
+            self._PrintFrequencyNew(bigrams, outf, wc, 'N-grams with frequency greater than 2')
+            self._PrintFrequencyKnown(known_words, wdict, outf, wc)
+            outf.write('\n')
+            self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.
@@ -153,13 +153,17 @@ class ChineseVocabulary:
             else:
                 nonfunction_words[k] = word_freq[k]
         outf.write('### Frequency of non-function words:\n')
+        outf.write('For words with frequency greater than 1\n\n')
         outf.write('Word, frequency, relative frequency per 1000 words\n\n')
         for k in sorted(nonfunction_words, key=lambda key: -nonfunction_words[key]):
-            self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
+            if 1 < word_freq[k]:
+                self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
         outf.write('### Frequency of function words:\n')
+        outf.write('For words with frequency greater than 1\n\n')
         outf.write('Word, frequency, relative frequency per 1000 words\n\n')
         for k in sorted(function_words, key=lambda key: -function_words[key]):
-            self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
+            if 1 < word_freq[k]:
+                self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
 
     def _PrintFrequencyNew(self, word_freq, outf, wc, title):
         """Prints the set of words without links.
@@ -193,9 +197,10 @@ class ChineseVocabulary:
         word = sdict[traditional]
         word_id = word['id']
         english = word['english']
+        gloss = cedict.getGloss(word)
         rel_freq = 1000 * freq / float(wc)
-        outf.write('[%s](word_detail.php?id=%s "%s %s"), %d, %.2f<br/>\n'
-                   '' % (traditional, word_id, english, traditional, freq, rel_freq))
+        outf.write('[%s](word_detail.php?id=%s "%s %s") [%s], %d, %.2f<br/>\n'
+                   '' % (traditional, word_id, english, traditional, gloss, freq, rel_freq))
 
     def _PrintPhrases(self, phrases, outf, wc, title):
         """Prints out the set of phrase entries.

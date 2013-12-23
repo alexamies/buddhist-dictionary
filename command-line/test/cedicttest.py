@@ -8,7 +8,7 @@ import unittest
 from bdict import cedict
 
 
-class ChineseVocabTest(unittest.TestCase):
+class CEDictTest(unittest.TestCase):
 
     def testOpenDictionary(self):
         dictionary = cedict.ChineseEnglishDict()
@@ -44,6 +44,24 @@ class ChineseVocabTest(unittest.TestCase):
         word2 = {'id': '4321', 'traditional': u'尊者', 'grammar': 'pronoun'}
         word = cedict.preferWord(word1, word2)
         self.assertTrue('1234', word['id'])
+
+    def testGetGloss1(self):
+        word_entry = {}
+        gloss = cedict.getGloss(word_entry)
+        expected = ''
+        self.assertEqual(expected, gloss)
+
+    def testGetGloss3(self):
+        word = {'id': '4321', 'traditional': u'尊者', 'grammar': 'pronoun'}
+        gloss = cedict.getGloss(word)
+        expected = ''
+        self.assertEqual(expected, gloss)
+
+    def testGetGloss3(self):
+        word = {'english': 'hello / hi / good day'}
+        gloss = cedict.getGloss(word)
+        expected = 'hello'
+        self.assertEqual(expected, gloss)
 
 
 if __name__ == '__main__':

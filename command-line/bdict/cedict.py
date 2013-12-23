@@ -88,3 +88,25 @@ def preferWord(entry1, entry2):
         return entry1
     return entry2
 
+
+def getGloss(word_entry):
+    """Extracts the English gloss from a word definition.
+
+    Because some definitions are long, containing many English synonymns, and different
+    shades of meaning, they can be inconvenient to display in gloss. This function
+    takes the first term, up to the '/' delimiter.
+
+    Args:
+      word_entry: The entry of the word in the dictionary.
+
+    Returns:
+      The gloss as a Unicode string.
+    """
+    if not word_entry:
+        return ''
+    if not 'english' in word_entry:
+        return ''
+    english = word_entry['english']
+    gloss = english.split('/')
+    return gloss[0].strip()
+
