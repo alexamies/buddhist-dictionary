@@ -49,3 +49,11 @@ class NGramFinderTest(unittest.TestCase):
         keys = bigrams.keys()
         self.assertTrue(2, bigrams[key])
 
+    def testNGramFinder4(self):
+        finder = ngramfinder.NGramFinder(2)
+        words = [u'觀自在菩薩', u'行', u'深', u'行', u'深']
+        for word in words:
+            finder.AddWord(word)
+        bigrams = finder.GetNGrams(2)
+        self.assertTrue(1, len(bigrams))
+

@@ -43,15 +43,20 @@ class CorpusManager:
                     if len(tokens) > 8:
                         entry['start'] = tokens[8]
                     if len(tokens) > 9:
-                        entry['end'] = tokens[9]
+                        if tokens[9] != '\\N':
+                        	entry['end'] = tokens[9]
                     if len(tokens) > 10:
-                        entry['plain_text'] = tokens[10].strip()
+                        if tokens[10] != '\\N':
+                        	entry['plain_text'] = tokens[10].strip()
                     if len(tokens) > 11:
-                        entry['translator'] = tokens[11].strip()
+                        if tokens[11] != '\\N':
+                        	entry['translator'] = tokens[11].strip()
                     if len(tokens) > 12:
-                        entry['reference'] = tokens[12].strip()
+                        if tokens[12] != '\\N':
+                        	entry['reference'] = tokens[12].strip()
                     if len(tokens) > 13:
-                        entry['genre'] = tokens[13].strip()
+                        if tokens[13] != '\\N':
+                        	entry['genre'] = tokens[13].strip()
                     corpus.append(entry)
         return corpus
 

@@ -27,6 +27,10 @@ class ChineseVocabTest(unittest.TestCase):
     def testBuildVocabulary2(self):
         corpus_entry = {}
         corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
+        corpus_entry['source_name'] = 'Test Name'
+        corpus_entry['source'] = 'Test Source'
+        corpus_entry['reference'] = 'Vol. 1, No. 2'
+        corpus_entry['translator'] = 'A Translator'
         vocab = chinesevocab.ChineseVocabulary()
         vocab.BuildVocabulary(corpus_entry)
         manager = configmanager.ConfigurationManager()
@@ -40,6 +44,10 @@ class ChineseVocabTest(unittest.TestCase):
         corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
         corpus_entry['start'] = u'如是我聞'
         corpus_entry['end'] = u'本網站係採用'
+        corpus_entry['source_name'] = 'Test Name'
+        corpus_entry['source'] = 'Test Source'
+        corpus_entry['reference'] = 'Vol. 1, No. 2'
+        corpus_entry['translator'] = 'A Translator'
         vocab = chinesevocab.ChineseVocabulary()
         vocab.BuildVocabulary(corpus_entry)
         manager = configmanager.ConfigurationManager()

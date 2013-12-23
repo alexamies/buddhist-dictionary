@@ -2,7 +2,7 @@
 """Module to extract words from a chunk of Chinese text. ======================
 
 In this module:
-  ExtractWords: Extracts words from a chunk of text.
+  ChinesePhraseSplitter: Extracts words from a chunk of text.
 """
 import unicodedata
 
