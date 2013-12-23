@@ -2,7 +2,7 @@
 
 Description: The Chinese text for a fragment of the Sutra from the Taisho Tripitaka. Vol. 3, No. 185, p. 473 c01 to 474 a02.
 
-Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/??? "Vocabulary analysis")
+Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/taizi-ruiying-scroll1-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 
@@ -10,9 +10,9 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [佛說太子瑞應本起經卷上] (http://tripitaka.cbeta.org/T03n0184_001 "佛說太子瑞應本起經卷上")
 
-Alternate formats: [Plain text file] (corpus/carya-nidana-scroll1-taisho.txt "Diamond Sutra Plain Text")
+Alternate formats: [Plain text file] (corpus/taizi-ruiying-scroll1-taisho.txt "Plain text file")
 
-Notes: This text relates to the birth of the Buddha
+Notes: This text relates to the birth of the Buddha.
 
 T03n0185_p0472c02(00)║　　No. 185
 T03n0185_p0472c03(00)║佛說太子瑞應本起經卷上

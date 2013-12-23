@@ -1,8 +1,13 @@
 # Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
 Description: Translated by Tripiṭaka monk Śiksānanda, Khotan, Tang Dynasty. Original Chinese Text from Taisho Tripitaka and Matching English translation.
 
-Character Set: Unicode
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/ksitigarbha_taisho_analysis.md "Vocabulary analysis")
 
-Source:  [NTI Chinese-Sanskrit-English Buddhist Dictionary Web Site] (/index.html "Main Page of Web Site")
-Document: [Sūtra of the Great Vow of Kṣitigarbha Bodhisattva] (/buddhism_dizang.html "Link to document")
+Character Set: Traditional Chinese
+
+Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
+
+Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/T13/T13n0412.htm "Diamond Sutra Chinese Text") 
+
+Alternate formats: [Plain text file] (corpus/ksitigarbha_taisho.txt "Diamond Sutra Plain Text") (Both scrolls)
 

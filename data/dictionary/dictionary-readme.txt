@@ -80,6 +80,10 @@ database. They work directly from the text files.
    > SELECT simplified1, simplified2 FROM synonyms WHERE simplified1 NOT IN (SELECT simplified FROM words);
    > SELECT simplified1, simplified2 FROM synonyms WHERE simplified2 NOT IN (SELECT simplified FROM words);
 
+   For the related terms table use statements like
+
+   > SELECT simplified1, simplified2 FROM related WHERE simplified1 NOT IN (SELECT simplified FROM words);
+
    Fix the problems by editing the data text file then set the relational check on with
 
    > SET foreign_key_checks = 1;

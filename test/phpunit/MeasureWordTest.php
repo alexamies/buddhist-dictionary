@@ -1,6 +1,6 @@
 <?php
 /**
- * Unit test for Topic and TopicDAO classes.
+ * Unit test for MeasureWord and MeasureWordDAO classes.
  */
 require_once dirname(__FILE__) . '/../../web/inc/measure_word_dao.php';
 

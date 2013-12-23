@@ -201,7 +201,10 @@ CREATE TABLE measure_words (
 ;
 
 /*
- * Table for synonyms
+ * Table for synonyms.
+ *
+ * simplified1: the first word in the synonym pair
+ * simplified2: the second word in the synonym pair
  */
 CREATE TABLE synonyms (
 	simplified1 VARCHAR(125) NOT NULL,
@@ -209,6 +212,29 @@ CREATE TABLE synonyms (
 	PRIMARY KEY (simplified1, simplified2),
 	FOREIGN KEY (simplified1) REFERENCES words(simplified),
 	FOREIGN KEY (simplified2) REFERENCES words(simplified)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
+ * Table for related words.
+ *
+ * Related words are not synonyms but connected because one is an 
+ * abbreviation or different way of writing the other
+ *
+ * simplified1: the first term in the related terms pair, must be a word in the words table
+ * simplified2: the second term in the synonym pair, not necessarily a word in the words table
+ * note:        describes the type of relationship (abbreviation, etc)
+ * link:        a URL describing more about the word relationship
+ */
+CREATE TABLE related (
+	simplified1 VARCHAR(125) NOT NULL,
+	simplified2 VARCHAR(125) NOT NULL,
+	note VARCHAR(125),
+	link VARCHAR(125),
+	PRIMARY KEY (simplified1, simplified2),
+	FOREIGN KEY (simplified1) REFERENCES words(simplified)
 	)
 	CHARACTER SET UTF8
 	COLLATE utf8_general_ci

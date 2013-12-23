@@ -130,7 +130,7 @@ print("<p>$pinyin</p>");
 
 // Print out HTML for the phrase
 $html = $phrase->getHtml();
-print("<h4>HTML Links and Mouseover for Chinese Words " .
+print("<h4>Markdown for Chinese Words " .
       "<a href='#' onclick=\"openVocab('/help_html.php');\">?</a></h4>" .
       //"<p>$html</p>" .
       "<p><textarea cols='120' rows='3'>$html</textarea></p>" .

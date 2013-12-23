@@ -1,6 +1,7 @@
 # Diamond Sutra Chapter 1 Sanskrit Text
 
-Description: Demonstrates the use of languages tools. See separate entry for the full text of the Diamond Sutra.
+Description: A short files to demonstrate the use of languages tools. 
+See separate entry for the full text of the Diamond Sutra.
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-sanskrit1-analysis.md "Vocabulary analysis")
 
@@ -19,3 +20,8 @@ evaṁ mayā śrutam| ekasmin samaye bhagavān śrāvastyāṁ viharati sma jeta
 
 ### Copyright 
 The rights of the materials herein are as indicated by the source(s) cited. Rights in the compilation, indexing, and transliteration are held by University of the West where permitted by law. See Usage Policy for details. Reproduced with permission
+
+### Markdown experiment
+Generated markdown from the Chinese dictionary for one character:
+
+[有] (/buddhistdict/word_detail.php?id=32458 'yǒu to have / to possess')

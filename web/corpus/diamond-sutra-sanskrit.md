@@ -2,13 +2,13 @@
 
 Description: The full text of the Sanskrit version of the Diamond Sutra.
 
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-sanskrit-analysis.md "Vocabulary analysis")
+
 Character Set: IAST
 
 Source: [University of the West Sanskrit Buddhist Canon] (http://www.dsbcproject.org./node/6348 "Sanskrit Buddhist Canon")
 
 Alternate formats: [Plain text file] (corpus/diamond-sutra-sanskrit.txt "Diamond Sutra Plain Text")
-
-Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-sanskrit-analysis.md "Vocabulary analysis")
 
 ### Text
 vajracchedikā nāma triśatikā prajñāpāramitā|

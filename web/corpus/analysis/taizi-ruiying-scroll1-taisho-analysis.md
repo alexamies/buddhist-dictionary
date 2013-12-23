@@ -298,8 +298,9 @@ None<br/>
 皆下, 2<br/>
 諸婇女, 2<br/>
 ### Phrase matches
-Phrase, Part-of-Speech Tagged Phrase, Source<br/>
-當此, 當/P[at] 此/PN[this] <at that time>, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
-宮中, 宮/NN[palace] 中/P[in] <in the palace>, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
-八天, 八/CD[eight] 天/NN[day] <eight days>, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
-上二十, 上/VA[more than] 二十/CD[twenty] <more than twenty>, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
+Phrase, Part-of-Speech Tagged Phrase, Source
+
+當此, 當/P[at] 此/PN[this] &lt;at that time&gt;, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
+宮中, 宮/NN[palace] 中/P[in] &lt;in the palace&gt;, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
+八天, 八/CD[eight] 天/NN[day] &lt;eight days&gt;, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>
+上二十, 上/VA[more than] 二十/CD[twenty] &lt;more than twenty&gt;, Sūtra on the Life of the Prince in Accordance with Good Omens<br/>

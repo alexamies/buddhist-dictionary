@@ -165,10 +165,9 @@ require_once 'inc/word_detail_top.php' ;
       // Topic
       if ($word->getTopicCn()) {
         print("<div>Topic: " . 
-              "<a href='topic.php?english==" . 
-              $word->getTopicEn() . "'>" . 
-              $word->getTopicCn() . "</a> (" . $word->getTopicEn() . 
-              ")</div>\n");
+              "<a href='/topic.php?english=" . 
+              urlencode($word->getTopicEn()) . "'>" . 
+              $word->getTopicEn() . "</a></div>\n");
       }
 		
       // Get nominal measure words

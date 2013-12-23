@@ -4,9 +4,8 @@ require_once 'inc/character_dao.php' ;
 require_once 'inc/character_rend_dao.php' ;
 require_once 'inc/radical_dao.php' ;
 $characterDAO = new CharacterDAO();
-	
+
 // Search for the character
-error_log("character_detail_frag.php, " . $_REQUEST['character']);
 if (isset($_REQUEST['character']) && ($_REQUEST['inputType'] != 'multiple')) {
   $c = $_REQUEST['character'];
 		
@@ -55,11 +54,11 @@ if (isset($characterInfo)) {
   print("<table><tbody><tr>" .
         "<td><p id='largeCharacter'><span id='largeChar'>$character</span></p>\n".
         "<p id='charDetailPinyin'>$pinyin</p></td>\n" .
-        "<td><p>English: $english</p>\n"
+        "<td><p class='intable'>English: $english</p>\n"
        );
   $type = $characterInfo->getType();
   if (isset($type) && (strlen(trim($type)) > 0)) {
-    print("<p>Type: $type</p>\n");
+    print("<p class='intable'>Type: $type</p>\n");
   }
 		
   $n = count($variants);
@@ -69,26 +68,26 @@ if (isset($characterInfo)) {
       $c2 = $variant->getC2();
       $relationshipType = $variant->getRelationType();
       $formId = "searchVariant$i";
-      print("<form action='character_search.php' method='post' id='$formId'>\n" .
+      print("<form class='intable' action='character_search.php' method='post' id='$formId'>\n" .
             "<input type='hidden' name='character' value='$c2'/>\n" .
-            "<p>$relationshipType: <a href=\"javascript:$('$formId').submit();false;\">$c2</a></p>\n" .
+            "$relationshipType: <a href=\"javascript:$('$formId').submit();false;\">$c2</a>\n" .
             "</form>\n"
            );
     }
   }
-  print("<form action='character_search.php' method='post' id='searchRadical'>\n" .
+  print("<form class='intable' action='character_search.php' method='post' id='searchRadical'>\n" .
         "<input type='hidden' name='character' value='$radical'/>\n" .
         "<input type='hidden' name='radical' id='radical' value='1'/>\n" .
         "Radical: <a href=\"javascript:$('searchRadical').submit();false;\">$radical</a>\n" .
         "</form>\n" .
-        "<p>Total strokes: $strokes, other strokes: $otherStrokes</p>\n"
+        "<p class='intable'>Total strokes: $strokes, other strokes: $otherStrokes</p>\n"
        );
   if (isset($notes)) {
-    print("<p>Notes: $notes</p>\n");
+    print("<p class='intable'>Notes: $notes</p>\n");
   }
 
   $unihex = dechex($unicode);
-  print("<p>Unicode: $unicode (Decimal), $unihex (Hexadecimal)</p>\n");
+  print("<p class='intable'>Unicode: $unicode (Decimal), $unihex (Hexadecimal)</p>\n");
 		
   // Radical information
   if (isset($_REQUEST['radical'])) {

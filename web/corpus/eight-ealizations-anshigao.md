@@ -1,14 +1,14 @@
-# Diamond Sūtra Chinese Text
+# Sūtra on the Eight Realizations of the Great Beings: Chinese Text
 
-Description: The Chinese text of the Diamond Sūtra from the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
+Description: The Chinese text of the Sūtra on the Eight Realizations of the Great Beings from the Taisho Tripitaka. Translated to Chinese by An Shi Gao.
 
-Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-taisho-analysis.md "Vocabulary analysis")
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/eight-ealizations-anshigao-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
-Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/normal/T08/0235_001.htm "Diamond Sutra Chinese Text")
+Document: [Diamond Sutra Chinese Text] (http://tripitaka.cbeta.org/T17n0779_001/ "Sūtra on the Eight Realizations of the Great Beings Chinese Text")
 
 Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
 

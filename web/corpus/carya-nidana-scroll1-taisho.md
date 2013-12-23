@@ -10,7 +10,7 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Cārya-nidāna, Scroll 1] (http://tripitaka.cbeta.org/T03n0184_001 "Cārya-nidāna, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/carya-nidana-scroll1-taisho.txt "Diamond Sutra Plain Text")
+Alternate formats: [Plain text file] (corpus/carya-nidana-scroll1-taisho.txt "Plain text file")
 
 Notes: This text describes the birth of the Buddha on the 4th day of the 8th month. He came to his mother in a dream riding a white elephant.
 

@@ -40,7 +40,7 @@ class RadicalTest extends PHPUnit_Framework_TestCase {
 
     public function testGetRadical() {
         $radicalDAO = new RadicalDAO();
-        $radical = $radicalDAO->getRadical('今');
+        $radical = $radicalDAO->getRadical('人');
         $this->assertEquals(9, $radical->getId());
         $this->assertEquals('人', $radical->getTraditional());
         $this->assertEquals('rén', $radical->getPinyin());

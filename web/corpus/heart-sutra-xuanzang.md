@@ -18,11 +18,16 @@ Alternate formats: [Plain text file] (corpus/heart-sutra-xuanzang.txt "Heart Sū
 【編輯說明】本資料庫由中華電子佛典協會（CBETA）依大正新脩大藏經所編輯
 【原始資料】莊德明大德提供，CBETA 自行掃瞄辨識，摩訶工作室提供新式標點，其他
 【其他事項】本資料庫可自由免費流通，詳細內容請參閱【中華電子佛典協會版權宣告】
-# Taisho Tripitaka Vol. 8, No. 251 般若波羅蜜多心經
-# CBETA Chinese Electronic Tripitaka V1.13 (Big5) Normalized Version, Release Date: 2009/04/23
-# Distributor: Chinese Buddhist Electronic Text Association (CBETA)
-# Source material obtained from: Text as provided by Mr. Zhuang Derming, CBETA OCR Group, Punctuated text as provided by Maha Studio, Others
-# Distributed free of charge. For details please read at The Copyright of CBETA
+
+Taisho Tripitaka Vol. 8, No. 251 般若波羅蜜多心經
+
+CBETA Chinese Electronic Tripitaka V1.13 (Big5) Normalized Version, Release Date: 2009/04/23
+
+Distributor: Chinese Buddhist Electronic Text Association (CBETA)
+
+Source material obtained from: Text as provided by Mr. Zhuang Derming, CBETA OCR Group, Punctuated text as provided by Maha Studio, Others
+
+Distributed free of charge. For details please read at The Copyright of CBETA
 
 T08n0251_p0848c04(00)║般若波羅蜜多心經
 T08n0251_p0848c05(00)║
