@@ -5,6 +5,7 @@ The analysis is output in markdown format.
 """
 import codecs
 import os.path
+import re
 
 from bdict import app_exceptions
 from bdict import cedict
@@ -130,7 +131,7 @@ class ChineseVocabulary:
             matcher = phrasematcher.PhraseDataset()
             matcher.Load()
             phrases = matcher.Matches(text)
-            self._PrintFrequencyNew(phrases, outf, wc, 'Matching entries in phrase dataset')
+            self._PrintPhrases(phrases, outf, wc, 'Matching entries in phrase dataset')
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.
@@ -195,4 +196,25 @@ class ChineseVocabulary:
         rel_freq = 1000 * freq / float(wc)
         outf.write('[%s](word_detail.php?id=%s "%s %s"), %d, %.2f<br/>\n'
                    '' % (traditional, word_id, english, traditional, freq, rel_freq))
+
+    def _PrintPhrases(self, phrases, outf, wc, title):
+        """Prints out the set of phrase entries.
+
+        Prints the phrase with pos tags out.
+
+        args:
+          phrases: A list of phrase entries
+        """
+        outf.write('### Phrase matches\n')
+        if not phrases:
+            outf.write('None<br/>\n')
+        else:
+            outf.write('Phrase, Part-of-Speech Tagged Phrase, Source\n\n')
+            for phrase in phrases:
+                chinese_phrase = phrase['chinese_phrase']
+                pos_tagged = phrase['pos_tagged']
+                pos_tagged = re.sub("<", "&lt;", pos_tagged)
+                pos_tagged = re.sub(">", "&gt;", pos_tagged)
+                source_name = phrase['source_name']
+                outf.write("%s, %s, %s<br/>\n" % (chinese_phrase, pos_tagged, source_name))
 
