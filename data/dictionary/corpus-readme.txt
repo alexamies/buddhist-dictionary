@@ -1,4 +1,4 @@
-Explanation of corpus.txt and phrases.txt files
+Explanation of corpus.txt, phrases.txt, and pos_penn.txt files
 
 corpus.txt
 ===============================================================================
@@ -39,7 +39,8 @@ Plain Text: The plain text source document that the markdown is based on.
 Translator: The original translator that translated the document from Sanskrit 
   or other language to Chinese.
 
-Reference: The reference in the Tripitaka, usually Taisho, including volume, number, and scroll.
+Reference: The reference in the Tripitaka, usually Taisho, including volume,
+           number, and scroll.
 
 Genre: The genre of the text, such as Prajnaparamita, Jataka, etc.
 
@@ -49,13 +50,26 @@ This a phrase dataset. The fields are:
 
 chinese_phrase: Plain text in traditional Chinese
 
-pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word and phrase gloss
+pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word
+            and phrase gloss
 
 sanskrit: the Sanskrit equivalent, if known
 
 source_no: The id of the corpus source document
 
-source_name: The name of the source document. Included to make the phrase list stand alone more easily.
+source_name: The name of the source document. Included to make the phrase list 
+             stand alone more easily. 
+
+pos_penn.txt
+===============================================================================
+This table enumerates the part-of-speech tags used
+
+tag: the text of the tag
+
+name: a descriptive name of the tag
+
+list: if the list is a closed set then the list of words is given. Both simplified
+      and traditional are included.
 
 Notes:
 (1) Only UTF-8 is supported

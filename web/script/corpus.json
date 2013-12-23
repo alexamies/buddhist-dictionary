@@ -40,5 +40,7 @@
 ,
 {"doc_type": "Sūtra","source_name": "Cārya-nidāna, Scroll 1 Fragment","reference": "Vol. 3, No. 184, p. 463, b12-c21","language": "Chinese","start": "於是能仁菩薩","charset": "Traditional","plain_text": "carya-nidana-scroll1-taisho.txt","uri": "corpus_entry.php?uri=carya-nidana-scroll1-taisho.md","source": "Taisho Tripitaka","genre": "Jataka","type": "file","id": "21"}
 ,
-{"doc_type": "Sūtra","source_name": "Sutra on the Life of the Prince in Accordance with Good Omens Fragment","reference": "Vol. 3, No. 185","language": "Chinese","start": "到四月八日夜明星出時","charset": "Traditional","plain_text": "taizi-ruiying-scroll1-taisho.txt","uri": "corpus_entry.php?uri=taizi-ruiying-scroll1-taisho.md","translator": "Zhi Qian","source": "Taisho Tripitaka","genre": "Jataka","type": "file","id": "22"}
+{"doc_type": "Sūtra","source_name": "Sūtra on the Life of the Prince in Accordance with Good Omens Fragment","reference": "Vol. 3, No. 185","language": "Chinese","start": "到四月八日夜明星出時","charset": "Traditional","plain_text": "taizi-ruiying-scroll1-taisho.txt","uri": "corpus_entry.php?uri=taizi-ruiying-scroll1-taisho.md","translator": "Zhi Qian","source": "Taisho Tripitaka","genre": "Jataka","type": "file","id": "22"}
+,
+{"doc_type": "Sūtra","source_name": "Abhiniṣkramaṇa (Sūtra), Scroll 1 Fragment","reference": "Vol. 3, No. 188","language": "Chinese","start": "太子以四月八日","charset": "Traditional","plain_text": "abhiniskramana-scroll1-taisho.txt","uri": "corpus_entry.php?uri=abhiniskramana-scroll1-taisho.md","translator": "Nie Dao Zhen","source": "Taisho Tripitaka","genre": "Jataka","type": "file","id": "23"}
 ]
