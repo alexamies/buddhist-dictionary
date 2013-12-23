@@ -53,9 +53,9 @@ pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word 
 
 sanskrit: the Sanskrit equivalent, if known
 
-source_doc_no: The id of the corpus source document
+source_no: The id of the corpus source document
 
-source_doc_name: The name of the source document. Included to make the phrase list stand alone more easily.
+source_name: The name of the source document. Included to make the phrase list stand alone more easily.
 
 Notes:
 (1) Only UTF-8 is supported

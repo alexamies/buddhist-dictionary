@@ -11,6 +11,7 @@ from bdict import cedict
 from bdict import chinesephrase
 from bdict import configmanager
 from bdict import ngramfinder
+from bdict import phrasematcher
 
 DEFAULT_OUTFILE = 'temp.md'
 
@@ -59,6 +60,7 @@ class ChineseVocabulary:
         end_marker = None
         if 'end' in corpus_entry:
             end_marker = corpus_entry['end']
+        text = ''
 
         with codecs.open(fullpath, 'r', "utf-8") as f:
             # print('Reading input file %s ' % fullpath)
@@ -79,6 +81,7 @@ class ChineseVocabulary:
                 wc += len(words)
                 for word in words:
                     finder.AddWord(word)
+                    text += word
                     if word in wdict:
                         if word not in known_words:
                             known_words[word] = 1
@@ -96,7 +99,6 @@ class ChineseVocabulary:
             source_name = corpus_entry['source_name']
             source = corpus_entry['source']
             reference = corpus_entry['reference']
-            start = corpus_entry['start']
             outf.write('## Vocabulary for source document %s\n' % source_name)
             outf.write('Source file: %s<br/>\n' % infile)
             if 'uri' in corpus_entry:
@@ -107,7 +109,9 @@ class ChineseVocabulary:
             if 'translator' in corpus_entry:
                 translator = corpus_entry['translator']
                 outf.write('Translator: %s<br/>\n' % translator)
-            outf.write('Start marker: %s<br/>\n' % start)
+            if 'start' in corpus_entry:
+                start = corpus_entry['start']
+                outf.write('Start marker: %s<br/>\n' % start)
             if 'end' in corpus_entry:
                 end = corpus_entry['end']
                 outf.write('End marker: %s<br/>\n' % end)
@@ -123,6 +127,10 @@ class ChineseVocabulary:
             self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
             bigrams = finder.GetNGrams(2)
             self._PrintFrequencyNew(bigrams, outf, wc, 'Bigrams')
+            matcher = phrasematcher.PhraseDataset()
+            matcher.Load()
+            phrases = matcher.Matches(text)
+            self._PrintFrequencyNew(phrases, outf, wc, 'Matching entries in phrase dataset')
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.

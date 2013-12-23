@@ -45,13 +45,16 @@ class Markdown {
   /**
    * Basic formatting of doc.
    *
-   * Replace BOM, Mac and Windows to Unix linebreaks
+   * Replace BOM, Mac and Windows to Unix linebreaks, HTML entities.
    *
    * @return A formatted string
    */
   protected function prepareDoc($text) {
     $text = preg_replace('{^\xEF\xBB\xBF|\x1A}', '', $text);
     $text = preg_replace('{\r\n?}', "\n", $text);
+    $text = preg_replace('{&}', "&amp;", $text);
+    $text = preg_replace('{<}', "&lt;", $text);
+    $text = preg_replace('{>}', "&gt;", $text);
     return $text;
   }
 
@@ -102,8 +105,8 @@ class Markdown {
    * @return A formatted string
    */
   protected function cbetaSpecial($text) {
-    $html = preg_replace('/^[【](.*)$/u', '${0}<br/>', $text);  
-    $html = preg_replace('/^T(.*)$/u', '${0}<br/>', $html);  
+    $html = preg_replace('/^[【](.*)$/mu', '${0}<br/>', $text);  
+    $html = preg_replace('/^T(.*)$/mu', '${0}<br/>', $html);  
     return $html;
   }
 }

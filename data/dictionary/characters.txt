@@ -1294,6 +1294,7 @@
 23478	家	jiā jie gū	宀	10	7	a house / a home / a residence / a family	\N	both
 23500	富	fù	宀	12	9	abundant / ample / rich / wealthy	\N	both
 23519	察	chá	宀	14	11	to examine / to investigate / to notice	\N	both
+23524	寤	wù	宀	14	11	to awake / to realize	\N	both
 23526	實	shí	宀	14	11	real / true / solid / honest	\N	traditional
 23527	寧	níng zhù nìng	宀	14	11	calm / peaceful / serene / healthy	\N	traditional
 23531	寫	xiě	宀	15	12	to write / to draw / to sketch / to compose	\N	traditional
@@ -1626,6 +1627,7 @@
 25552	提	tí dī	手	12	9	to carry / to lift / to raise / to mention	\N	both
 25778	撲	pū bū	手	15	12	to pound / to beat / to strike / to attack	\N	traditional
 25802	擊	jí jī	手	17	13	to strike / to hit / to beat / to attack / to fight	\N	traditional
+25827	擣	dǎo	手	17	14	to hull / to thresh / to beat / to attack / to stir / to pound	\N	both
 25903	支	zhī	支	4	0	to disperse / to pay / to support / branch	Kangxi radical 65	radical
 25904	攰	guì	支	6	2	totally exhausted	Cantonese	archaic
 25906	攲	qī jī yī	支	12	8	up / uneven	\N	archaic
@@ -1766,6 +1768,7 @@
 27138	樂	lè yuè yào luò liáo	木	15	11	happy / glad / enjoyable / music	\N	traditional
 27192	樸	pò pú pō piáo pǔ	木	16	12	simple / unadorned / sincere / a surname / a tree	\N	traditional
 27311	檯	tái	木	18	14	a table	\N	traditional
+27421	欝	yù	木	26	22	luxuriant / dense / thick / moody	\N	archaic
 27424	欠	qiàn quē	欠	4	0	owe / lack / be deficient	Kangxi radical 76	radical
 27425	次	cì	欠	6	2	order / sequence / next	\N	both
 27426	欢	huān	欠	6	2	happy / pleased / glad / joy / enjoy	\N	simplified
@@ -1915,9 +1918,11 @@
 28879	烏	wū wù	火	10	6	a crow / a rook / a raven / black / dark	\N	traditional
 28961	無	wú mó	火	12	8	negative / no / not / to lack / to have no	\N	both
 28976	焰	yàn	火	12	8	flame / blaze / glowing / blazing	\N	both
+29071	熏	xūn xùn	火	14	10	to smoke / to scent / to fumigate	\N	simplified
 29100	熬	āo áo	火	15	11	to boil	\N	both
 29124	燄	yàn	火	16	12	flame / blazing / brilliant	\N	both
 29128	燈	dēng	火	16	12	a lantern / a lamp	\N	traditional
+29179	燻	xūn xùn	火	18	14	to smoke / to scent / to fumigate	\N	traditional
 29211	爛	làn	火	21	17	rotten / spoiled / decayed	\N	traditional
 29226	爪	zhuǎ zhǎo	爪	4	0	a claw / a nail / a talon / animal feet	Kangxi radical 87	radical
 29227	爫	zhuǎ zhǎo	爪	4	0	a claw / a nail / a talon / animal feet	Variant of Kangxi radical 87	radical
@@ -2904,6 +2909,7 @@
 37024	邠	bīn	邑	7	4	Bin	A county in Shaanxi province	both
 37026	邢	xíng gěng	邑	7	4	a surname / a county in Hebei	\N	both
 37027	那	nà nā nǎ né něi nèi nuó nuò	邑	7	4	that / that one / those	\N	both
+37057	郁	yù	邑	9	6	sweet smelling / rich in aroma	\N	simplified
 37070	郎	láng làng	邑	9	6	a gentleman / a young man / a husband	\N	both
 37073	郑	zhèng	邑	9	6	Zheng	A name	simplified
 37089	郡	jùn	邑	10	7	an administrative division	\N	both

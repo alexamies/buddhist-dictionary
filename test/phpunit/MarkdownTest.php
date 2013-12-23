@@ -87,4 +87,12 @@ class MarkdownTest extends PHPUnit_Framework_TestCase {
         $this->assertEquals($expected, $html);
     }
 
+    public function testPhraseGloss() {
+        $text = '當此, 當/P[at] 此/PN[this] <at that time>';
+        $markdown = new Markdown($text);
+        $html = $markdown->getHTML();
+        $expected = '當此, 當/P[at] 此/PN[this] &lt;at that time&gt;';
+        $this->assertEquals($expected, $html);
+    }
+
 }
