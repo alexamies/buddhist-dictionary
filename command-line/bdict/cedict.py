@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Module to loads the Chinese to English dictionary. =========================
+"""Module to load the Chinese to English dictionary. =========================
 
 The dictionary is loaded into a dict structure
 """

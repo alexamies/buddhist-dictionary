@@ -4,7 +4,8 @@ Python Readme
 The Python utilities here were created using Python 2.7. I have not tried them 
 with Python 3.x.
 
-create_vocab.py is the command to do word frequency analysis. You can use it by
+bdictutil.py is the command to do vocabulary analysis, HTML gloss generation,
+and list corpus entries. You can use it by
 downloading the Python packages under this directory. Run the command with
 the parameter 'help' to get information on how to use it.
 

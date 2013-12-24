@@ -58,3 +58,6 @@ class CJKTextReaderTest(unittest.TestCase):
         self.assertTrue(-1 < characters.find(punctuation))
 
 
+if __name__ == '__main__':
+    unittest.main()
+

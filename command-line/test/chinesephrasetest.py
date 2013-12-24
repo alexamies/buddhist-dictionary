@@ -16,7 +16,7 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords1 : c1: %s' % unicodedata.name(w1))
         text = w1
         wdict = {}
-        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(1, len(words))
         self.assertEquals(w1, words[0])
@@ -29,7 +29,7 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords2 : w1: %s, w2: %s' % (unicodedata.name(w1), unicodedata.name(w2)))
         text = w1 + w2
         wdict = {w1: e1, w2: e2}
-        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(2, len(words))
         self.assertEquals(w1, words[0])
@@ -42,7 +42,7 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords3 : w1: %s, w2: %s' % (unicodedata.name(w1), unicodedata.name(w2)))
         text = w1 + w2
         wdict = {w1: e1}
-        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(1, len(words))
         self.assertEquals(w1, words[0])
@@ -57,7 +57,7 @@ class ChinesePhraseTest(unittest.TestCase):
         # print('testExtractWords4 : w1: %s, w3: %s' % (unicodedata.name(w1), unicodedata.name(w3)))
         text = w1 + w2 + w3
         wdict = {w1: e1, w3: e3}
-        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(2, len(words))
         self.assertEquals(w1, words[0])
@@ -85,7 +85,7 @@ class ChinesePhraseTest(unittest.TestCase):
         wdict = {w1: e1, w4: e4, w6: e6, w7: e7, w8: e8}
         self.assertTrue(w1 in wdict)
         self.assertEquals(14, len(text))
-        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(5, len(words))
         self.assertEquals(w1, words[0])
@@ -114,7 +114,7 @@ class ChinesePhraseTest(unittest.TestCase):
         text = w1 + w2 + w3 + w4 + w5 + w6 + w7 + w8
         wdict = {}
         self.assertEquals(14, len(text))
-        splitter = chinesephrase.ChinesePhraseSplitter(wdict)
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text)
         self.assertEquals(11, len(words))
         self.assertEquals(w1[0], words[0])

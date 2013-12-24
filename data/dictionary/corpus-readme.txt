@@ -48,6 +48,8 @@ phrases.txt
 ===============================================================================
 This a phrase dataset. The fields are:
 
+id: An id for the phrase.
+
 chinese_phrase: Plain text in traditional Chinese
 
 pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word

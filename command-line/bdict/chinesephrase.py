@@ -8,9 +8,8 @@ import unicodedata
 
 CJK_PUNCTUATION = u'，。：！「」'
 
-class ChinesePhraseSplitter:
-    """Splits a prhase into parts based on presence of words in a word dictionary.
-
+class ChineseWordExtractor:
+    """Splits Chinese text into parts based on presence of words in the word dictionary.
     """
 
     def __init__(self, wdict):

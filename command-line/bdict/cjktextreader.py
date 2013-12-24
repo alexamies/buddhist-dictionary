@@ -63,10 +63,11 @@ class CJKTextReader:
                     else:
                         continue
                     
-                end_pos = line.find(end_marker)
-                if end_marker and end_pos != -1:
-                    line = line[0:end_pos]
-                    break
+                if end_marker:
+                    end_pos = line.find(end_marker)
+                    if end_pos > -1:
+                        line = line[0:end_pos]
+                        break
                 cjk = ''
                 for c in line:
                     if chinesephrase.isCJKLetter(c) or chinesephrase.isCJKPunctuation(c):

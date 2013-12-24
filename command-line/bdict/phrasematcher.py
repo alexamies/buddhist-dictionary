@@ -31,12 +31,13 @@ class PhraseDataset:
                 fields = line.split('\t')
                 if fields and len(fields) >= 5:
                     entry = {}
-                    entry['chinese_phrase'] = fields[0]
-                    entry['pos_tagged'] = fields[1]
-                    entry['sanskrit'] = fields[2]
-                    entry['source_no'] = fields[3]
-                    entry['source_name'] = fields[4]
-                    self.phrases[fields[0]] = entry
+                    entry['id'] = fields[0]
+                    entry['chinese_phrase'] = fields[1]
+                    entry['pos_tagged'] = fields[2]
+                    entry['sanskrit'] = fields[3]
+                    entry['source_no'] = fields[4]
+                    entry['source_name'] = fields[5]
+                    self.phrases[fields[1]] = entry
         return self.phrases
 
     def Matches(self, text):
