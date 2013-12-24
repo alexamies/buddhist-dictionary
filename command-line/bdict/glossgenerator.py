@@ -34,7 +34,8 @@ class HTMLGlossGenerator:
         html = ''
         if 'source_name' in corpus_entry:
             source_name = corpus_entry['source_name']
-            html += '<h2>English gloss for source document %s</h2>\n' % source_name
+            html += '<h2>%s</h2>\n' % source_name
+        html += '<p>Mouse over Chinese words for English gloss</p>'
         if 'source_name' in corpus_entry:
             source = corpus_entry['source']
             html += '<p>Source of document: %s</p>\n' % source
@@ -53,17 +54,23 @@ class HTMLGlossGenerator:
         pdict = dataset.Load()
         combined_dict = dict(wdict.items() + pdict.items())
         splitter = chinesephrase.ChineseWordExtractor(combined_dict)
-        elements = splitter.ExtractWords(text)
-
-        html += '<script>elements = ' + _GenerateJSON(elements, combined_dict) + ';</script>'
+        elements = splitter.ExtractWords(text, leave_punctuation=True)
 
         for element in elements:
-            entry = combined_dict[element]
-            entry_id = entry['id']
-            cname = 'word'
-            if 'chinese_phrase' in entry:
-                cname = 'phrase'
-            html += '<span id="%s" \nclass="%s">%s</span>' % (entry_id, cname, element)
+            if element in combined_dict:
+                entry = combined_dict[element]
+                entry_id = entry['id']
+                url = ''
+                title = ''
+                if 'pos_tagged' in entry:
+                    title = entry['pos_tagged']
+                    url = '/buddistdict/phrase.phpid=%s' % entry_id
+                else:
+                    title = '%s %s' % (entry['pinyin'], entry['english'])
+                    url = '/buddistdict/word_detail.phpid=%s' % entry_id
+                html += '<a href="%s" \n title="%s">%s</a>' % (url, title, element)
+            else:
+                html += element
 
         return html
 

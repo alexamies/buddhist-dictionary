@@ -15,7 +15,7 @@ class ChineseWordExtractor:
     def __init__(self, wdict):
         self.wdict = wdict
 
-    def ExtractWords(self, text):
+    def ExtractWords(self, text, leave_punctuation=False):
         """Extracts words from a chunk of text.
 
         Algorithm is based on matching words in the dictionary maximizing the length
@@ -62,6 +62,8 @@ class ChineseWordExtractor:
                         break
                     j -= 1
                 j += 1
+            elif leave_punctuation and isCJKPunctuation(c):
+               words.append(c)
             i = j
         return words
 
