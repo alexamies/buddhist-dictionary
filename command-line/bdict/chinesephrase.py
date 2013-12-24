@@ -6,6 +6,7 @@ In this module:
 """
 import unicodedata
 
+CJK_PUNCTUATION = u'，。：！「」'
 
 class ChinesePhraseSplitter:
     """Splits a prhase into parts based on presence of words in a word dictionary.
@@ -38,10 +39,10 @@ class ChinesePhraseSplitter:
             c = text[i]
             # print('i = %d, name[i]: %s' % (i, unicodedata.name(c)))
             j = i + 1
-            if self.isCJKLetter(c):
+            if isCJKLetter(c):
                 # Find position of next puncutation mark
                 while j < length:
-                    if not self.isCJKLetter(text[j]):
+                    if not isCJKLetter(text[j]):
                         break
                     j += 1
                 # print('j = %d' % j)
@@ -65,20 +66,29 @@ class ChinesePhraseSplitter:
             i = j
         return words
 
-    def isCJKLetter(self, c):
-        """Tests whether the given character is not punctuation, either European or CJK.
+def isCJKLetter(c):
+    """Tests whether the given character is not punctuation, either European or CJK.
 
-        Not finished yet.
+    Args: 
+      character: the character to test
 
-        Args: 
-          character: the character to test
+    Returns:
+      True or false
+    """
+    try:
+        return (unicodedata.name(c).find('CJK UNIFIED IDEOGRAPH') > -1)
+    except ValueError:
+        pass
+    return False
 
-        Returns:
-          True or false
-        """
-        try:
-            return (unicodedata.name(c).find('CJK UNIFIED IDEOGRAPH') > -1)
-        except ValueError:
-            pass
-        return False
+def isCJKPunctuation(c):
+    """Tests whether the given character is CJK punctuation.
+
+    Args: 
+      character: the character to test
+
+    Returns:
+      True or false
+    """
+    return (CJK_PUNCTUATION.find(c) > -1)
 

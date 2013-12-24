@@ -37,13 +37,13 @@ class CEDictTest(unittest.TestCase):
         word1 = {'id': '1234', 'traditional': u'尊者', 'grammar': 'noun'}
         word2 = {'id': '4321', 'traditional': u'尊者', 'grammar': 'pronoun'}
         word = cedict.preferWord(word1, word2)
-        self.assertTrue('4321', word['id'])
+        self.assertEqual('4321', word['id'])
 
     def testPreferWord2(self):
         word1 = {'id': '1234', 'traditional': u'尊者', 'grammar': 'noun', 'topic_en': 'Buddhism'}
         word2 = {'id': '4321', 'traditional': u'尊者', 'grammar': 'pronoun'}
         word = cedict.preferWord(word1, word2)
-        self.assertTrue('1234', word['id'])
+        self.assertEqual('1234', word['id'])
 
     def testGetGloss1(self):
         word_entry = {}

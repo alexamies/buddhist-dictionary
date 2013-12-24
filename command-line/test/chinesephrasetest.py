@@ -131,45 +131,58 @@ class ChinesePhraseTest(unittest.TestCase):
 
     def testIsCJKLetter1(self):
         c = u'.'
-        splitter = chinesephrase.ChinesePhraseSplitter( {})
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        result = splitter.isCJKLetter(c)
+        result = chinesephrase.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter2(self):
         c = u'般'
-        splitter = chinesephrase.ChinesePhraseSplitter( {})
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        result = splitter.isCJKLetter(c)
+        result = chinesephrase.isCJKLetter(c)
         self.assertTrue(result)
 
     def testIsCJKLetter3(self):
-        splitter = chinesephrase.ChinesePhraseSplitter({})
         c = u'。'
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        result = splitter.isCJKLetter(c)
+        result = chinesephrase.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter4(self):
         c = u'！'
-        splitter = chinesephrase.ChinesePhraseSplitter( {})
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        result = splitter.isCJKLetter(c)
+        result = chinesephrase.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter5(self):
         c = u'「'
-        splitter = chinesephrase.ChinesePhraseSplitter( {})
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        result = splitter.isCJKLetter(c)
+        result = chinesephrase.isCJKLetter(c)
         self.assertFalse(result)
 
     def testIsCJKLetter6(self):
         c = u'T'
-        splitter = chinesephrase.ChinesePhraseSplitter( {})
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
-        result = splitter.isCJKLetter(c)
+        result = chinesephrase.isCJKLetter(c)
         self.assertFalse(result)
+
+    def testIsCJKPunctuation1(self):
+        c = u'，'
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        result = chinesephrase.isCJKPunctuation(c)
+        self.assertTrue(result)
+
+    def testIsCJKPunctuation2(self):
+        c = u'「'
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        result = chinesephrase.isCJKPunctuation(c)
+        self.assertTrue(result)
+
+    def testIsCJKPunctuation2(self):
+        c = u'。'
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        result = chinesephrase.isCJKPunctuation(c)
+        self.assertTrue(result)
+
 
 if __name__ == '__main__':
     unittest.main()
