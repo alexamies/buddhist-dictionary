@@ -7,7 +7,7 @@ NT	Temporal noun	\N
 NN	Other noun	\N
 LC	Localizer	中 间 里 内 外 底 上 下 前 后 未 边 旁 侧 初 东 南 西 北 左 右 以上 一下 以后 以前 以内 以外 之间 之前 之外 之后 之中 之内 左右 前后 上下 来 以来 时 起 为止 开始 在内 处 止 东北 西北 东南 西南 为止 間 裡 內 後 邊 側 東 以後 以內 之間 之後 之內 前後 來 以來 時 為止 開始 在內 處 東北 東南 為止
 PN	Personal pronoun	他 我 你 您 她 它 之 我们 你们 他们 她们 它们 其 自己 大家 对方 双方 自身 我們 你們 他們 她們 它們 對方 雙方 吾
-DT	Determiner	这 这些 此 该 本 那 那些 上 下 前 后 头 另 其余 其他 其它 某 某些 各 诸 每 何 什么 任何 全 全体 全都 一切 所有 同 有的 有些 這 這些 該 後 頭 諸 什麼 全體
+DT	Determiner	这 这些 此 该 本 那 那些 上 下 前 后 头 另 其余 其他 其它 某 某些 各 诸 每 何 什么 任何 全 全体 全都 一切 所有 同 有的 有些 這 這些 該 後 頭 諸 什麼 全體 是
 CD	Cardinal number	\N
 OD	Ordinal number	\N
 M	Measure word	\N
