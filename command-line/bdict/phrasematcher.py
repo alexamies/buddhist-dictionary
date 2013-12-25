@@ -29,7 +29,7 @@ class PhraseDataset:
                 if not line:
                     continue
                 fields = line.split('\t')
-                if fields and len(fields) >= 5:
+                if fields and len(fields) > 5:
                     entry = {}
                     entry['id'] = fields[0]
                     entry['chinese_phrase'] = fields[1]

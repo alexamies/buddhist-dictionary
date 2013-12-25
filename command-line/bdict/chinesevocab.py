@@ -37,7 +37,6 @@ class ChineseVocabulary:
         wdict = dictionary.OpenDictionary() # Word dictionary
 
         wc = 0
-        lines = 0
         known_words = {}
         new_words = {}
         finder = ngramfinder.NGramFinder(5)
@@ -81,7 +80,6 @@ class ChineseVocabulary:
             if 'end' in corpus_entry:
                 end = corpus_entry['end']
                 outf.write('End marker: %s<br/>\n' % end)
-            outf.write('Lines read: %d<br/>\n' % lines)
             outf.write('### Word count\n')
             num_known = len(known_words)
             num_new = len(new_words)
