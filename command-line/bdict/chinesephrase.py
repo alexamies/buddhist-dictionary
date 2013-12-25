@@ -6,7 +6,7 @@ In this module:
 """
 import unicodedata
 
-CJK_PUNCTUATION = u'，。：！「」'
+CJK_PUNCTUATION = u'，、。：！？「」'
 
 class ChineseWordExtractor:
     """Splits Chinese text into parts based on presence of words in the word dictionary.

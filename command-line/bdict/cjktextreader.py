@@ -18,6 +18,8 @@ class CJKTextReader:
     """
 
     def __init__(self):
+        """Constructor for CJKTextReader class.
+        """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
 

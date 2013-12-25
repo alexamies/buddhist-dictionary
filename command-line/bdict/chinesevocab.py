@@ -21,7 +21,13 @@ class ChineseVocabulary:
     """Compiles vocabulary from Chinese language documents.
     """
 
-    def BuildVocabulary(self, corpus_entry, outfile=DEFAULT_OUTFILE):
+    def __init__(self):
+        """Constructor for ChineseVocabulary class.
+        """
+        manager = configmanager.ConfigurationManager()
+        self.config = manager.LoadConfig()
+
+    def BuildVocabulary(self, corpus_entry):
         """Builds the list of known and unknown words from the input file.
 
         Args:
@@ -43,20 +49,30 @@ class ChineseVocabulary:
         reader = cjktextreader.CJKTextReader()
         text = reader.ReadText(corpus_entry)
         splitter = chinesephrase.ChineseWordExtractor(wdict)
-        words = splitter.ExtractWords(text)
+        words = splitter.ExtractWords(text, leave_punctuation=True)
         wc += len(words)
         for word in words:
             finder.AddWord(word)
-            if word in wdict:
-                if word not in known_words:
-                    known_words[word] = 1
+            if not chinesephrase.isCJKPunctuation(word):
+                if word in wdict:
+                    if word not in known_words:
+                        known_words[word] = 1
+                    else:
+                        known_words[word] += 1
                 else:
-                    known_words[word] += 1
-            else:
-                if word not in new_words:
-                    new_words[word] = 1
-                else:
-                    new_words[word] += 1
+                    if word not in new_words:
+                        new_words[word] = 1
+                    else:
+                        new_words[word] += 1
+
+        infile = corpus_entry['plain_text']
+        period_pos = infile.find('.')
+        outfile = DEFAULT_OUTFILE
+        if infile.find('.') > -1:
+            outfile = '%s-analysis.md' % infile[0:period_pos]
+        if self.config['analysis_directory']:
+            analysis_directory = self.config['analysis_directory']
+            outfile = '%s/%s' % (analysis_directory, outfile)
 
         with codecs.open(outfile, 'w', "utf-8") as outf:
             print('Writing output file %s ' % outfile)
@@ -64,7 +80,6 @@ class ChineseVocabulary:
             source = corpus_entry['source']
             reference = corpus_entry['reference']
             outf.write('## Vocabulary analysis for source document %s\n' % source_name)
-            infile = corpus_entry['plain_text']
             outf.write('Source file: %s<br/>\n' % infile)
             if 'uri' in corpus_entry:
                 uri = corpus_entry['uri']

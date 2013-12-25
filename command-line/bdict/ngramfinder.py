@@ -4,6 +4,8 @@ This module should be created and used to accumulated a collection of n-grams
 when scanning a stream of text.
 """
 
+from bdict import chinesephrase
+
 
 class NGramFinder:
     """Finds n-grams of a given size. Only bigrams supported at the moment.
@@ -26,19 +28,22 @@ class NGramFinder:
     def AddWord(self, word):
         text_len = len(self.words)
         # print('AddWord word: %s, text_len: %d\n' % (word, text_len))
-        for i in range(1, self.size): # length of n-gram, n = i + 1
-            # print('AddWord i = %d\n' % i)
-            if i <= text_len:
-                key = ''
-                for j in range(text_len-i, text_len):
-                    # print('AddWord j = %d\n' % j)
-                    key += self.words[j]
-                key += word
-                # print('AddWord key = %s\n' % key)
-                if key in self.ngrams:
-                    self.ngrams[key] += 1
-                else:
-                    self.ngrams[key] = 1
+        if not chinesephrase.isCJKPunctuation(word.strip()):
+            for i in range(1, self.size): # length of n-gram, n = i + 1
+                # print('AddWord i = %d\n' % i)
+                if i <= text_len:
+                    key = ''
+                    for j in range(text_len-i, text_len):
+                        # print('AddWord j = %d\n' % j)
+                        key += self.words[j]
+                    key += word
+                    # print('AddWord key = %s\n' % key)
+                    if ContainsPunctuation(key):
+                        continue
+                    if key in self.ngrams:
+                        self.ngrams[key] += 1
+                    else:
+                        self.ngrams[key] = 1
         self.words.append(word)
 
     def GetNGrams(self, min_frequency=1):
@@ -54,4 +59,18 @@ class NGramFinder:
             else:
                 break
         return min_ngrams
+
+def ContainsPunctuation(word):
+    """Tests whether the given word contains any punctuation.
+
+    Args: 
+      character: the character to test
+
+    Returns:
+      True or false
+    """
+    for c in word:
+        if chinesephrase.isCJKPunctuation(c):
+            return True
+    return False
 

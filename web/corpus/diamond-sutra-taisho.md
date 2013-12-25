@@ -16,7 +16,11 @@ Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/normal/T08/0
 
 Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
 
-Start: 如是我聞
+Start marker: 如是我聞
 
-End: 本網站係採用
+End marker: 本網站係採用
+
+English	translation (Lapis Lazuli Texts): [Vajracchedikā Prajñāpāramitā Sūtra] (http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html "Vajracchedikā Prajñāpāramitā Sūtra")
+
+Diamond Sūtra Commentary (this site): [Commentary] (/diamond_sutra_toc.html)
 

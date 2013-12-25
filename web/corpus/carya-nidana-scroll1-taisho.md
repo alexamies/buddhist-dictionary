@@ -1,4 +1,4 @@
-## Cārya-nidāna, Scroll 1 Fragment
+## Cārya-nidāna, Scroll 1 Fragment 修行本起經卷1部分
 
 Description: The Chinese text for a fragment of the Cārya-nidāna, Scroll 1 from the Taisho Tripitaka. Vol. 3, No. 184, p. 463, b12-c21.
 

@@ -5,6 +5,7 @@ Tests the methods for building n-grams from a text document.
 """
 import unittest
 
+from bdict import chinesephrase
 from bdict import ngramfinder
 
 
@@ -60,6 +61,16 @@ class NGramFinderTest(unittest.TestCase):
             finder.AddWord(word)
         bigrams = finder.GetNGrams(2)
         self.assertEqual(1, len(bigrams))
+
+    def testNGramFinderBigram5(self):
+        finder = ngramfinder.NGramFinder(2)
+        words = [u'善男子', u'、', u'善女人', u'善男子', u'、', u'善女人']
+        for word in words:
+            finder.AddWord(word)
+        bigrams = finder.GetNGrams(2)
+        for bigram in bigrams:
+            print('testNGramFinderBigram5 bigram: %s' % bigram)
+        self.assertEqual(0, len(bigrams))
 
     def testNGramFinderTrigram1(self):
         finder = ngramfinder.NGramFinder(3)

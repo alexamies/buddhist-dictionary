@@ -129,6 +129,23 @@ class ChinesePhraseTest(unittest.TestCase):
         self.assertEquals(w8[1], words[9])
         self.assertEquals(w8[2], words[10])
 
+    def testExtractWords7(self):
+        w1 = u'善男子' # 0-2
+        e1 = u'good man'
+        w2 = u'、'       # 3
+        e2 = u'list separator'
+        w3 = u'善女人'       # 4-6
+        e3 = u'good woman'
+        text = w1 + w2 + w3
+        wdict = {w1: e1, w3:e3}
+        self.assertEquals(7, len(text))
+        splitter = chinesephrase.ChineseWordExtractor(wdict)
+        words = splitter.ExtractWords(text, leave_punctuation=True)
+        self.assertEquals(3, len(words))
+        self.assertEquals(w1, words[0])
+        self.assertEquals(w2, words[1])
+        self.assertEquals(w3, words[2])
+
     def testIsCJKLetter1(self):
         c = u'.'
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
@@ -177,8 +194,14 @@ class ChinesePhraseTest(unittest.TestCase):
         result = chinesephrase.isCJKPunctuation(c)
         self.assertTrue(result)
 
-    def testIsCJKPunctuation2(self):
+    def testIsCJKPunctuation3(self):
         c = u'。'
+        # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
+        result = chinesephrase.isCJKPunctuation(c)
+        self.assertTrue(result)
+
+    def testIsCJKPunctuation4(self):
+        c = u'、'
         # print('cat: %s : name: %s' % (unicodedata.category(c), unicodedata.name(c)))
         result = chinesephrase.isCJKPunctuation(c)
         self.assertTrue(result)
