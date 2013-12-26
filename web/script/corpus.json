@@ -21,4 +21,8 @@
 {"doc_type": "Sūtra","source_name": "Sūtra on the Life of the Prince in Accordance with Good Omens Fragment 佛說太子瑞應本起經卷上部分","reference": "Vol. 3, No. 185","language": "Chinese","start": "到四月八日夜明星出時","charset": "Traditional","plain_text": "taizi-ruiying-scroll1-taisho.txt","uri": "corpus_entry.php?uri=taizi-ruiying-scroll1-taisho.md","translator": "Zhi Qian","source": "Taisho Tripitaka","genre": "Jataka","type": "file","id": "11"}
 ,
 {"doc_type": "Sūtra","source_name": "Abhiniṣkramaṇa (Sūtra), Scroll 1 Fragment 異出菩薩本起經部分","reference": "Vol. 3, No. 188","language": "Chinese","start": "太子以四月八日","charset": "Traditional","plain_text": "abhiniskramana-scroll1-taisho.txt","uri": "corpus_entry.php?uri=abhiniskramana-scroll1-taisho.md","translator": "Nie Dao Zhen","source": "Taisho Tripitaka","genre": "Jataka","type": "file","id": "12"}
+,
+{"doc_type": "Sūtra","source_name": "Guan Xi Fo Xingxiang Sūtra, Scroll 1 Fragment 佛說灌洗佛形像經卷1部分","reference": "Vol. 3, No. 188","language": "Chinese","start": "以四月八日夜半","charset": "Traditional","plain_text": "guanxifo-scroll1-taisho.txt","uri": "corpus_entry.php?uri=guanxifo-scroll1-taisho.md","translator": "Fa Ju","source": "Taisho Tripitaka","genre": "Jataka","end": "諸善男子善女人","type": "file","id": "13"}
+,
+{"doc_type": "Sūtra","source_name": "Mahāparinirvāṇasūtra, Scroll 1 Fragment 佛般泥洹經卷1部分","reference": "Vol. 1, No. 5, p. 165, a27-b10","language": "Chinese","start": "佛為阿難說","charset": "Traditional","plain_text": "nirvana-sutra-scroll1.txt","uri": "corpus_entry.php?uri=nirvana-sutra-scroll1.md","source": "Taisho Tripitaka","genre": "Jataka","end": "阿難聞佛自期三月","type": "file","id": "14"}
 ]
