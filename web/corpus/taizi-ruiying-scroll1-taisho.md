@@ -2,6 +2,8 @@
 
 Description: The Chinese text for a fragment of the Sutra from the Taisho Tripitaka. Vol. 3, No. 185, p. 473 c01 to 474 a02.
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/taizi-ruiying-scroll1-taisho-gloss.html "HTML file")
+
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/taizi-ruiying-scroll1-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
@@ -16,5 +18,7 @@ Start marker: 到四月八日夜明星出時
 
 End marker: end of file
 
-Notes: This text relates to the birth of the Buddha.
+English translation: none
+
+Notes: This text relates to the birth of the Buddha. It describes the birth of the buddha on the eighth day of the fourth month from the right side of his mother's body. The Buddha takes seven steps, holds up his right hand, and makes a statement. Brahma released deities from the heavens. It describes thirty two auspicious signs that fell from the heavens.
 

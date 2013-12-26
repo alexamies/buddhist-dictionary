@@ -33,7 +33,6 @@ class ChineseVocabulary:
         Args:
           corpus_entry: the corpus entry that contains the source file and other
                         information
-          outfile: name the output file
 
         Raises:
           BDictException: If the input file does not exist

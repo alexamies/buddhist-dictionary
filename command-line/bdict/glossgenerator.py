@@ -10,6 +10,7 @@ from bdict import app_exceptions
 from bdict import cedict
 from bdict import cjktextreader
 from bdict import chinesephrase
+from bdict import configmanager
 from bdict import phrasematcher
 
 DEFAULT_OUTFILE = 'temp.html'
@@ -18,6 +19,12 @@ DEFAULT_OUTFILE = 'temp.html'
 class HTMLGlossGenerator:
     """Generates the HTML document.
    """
+
+    def __init__(self):
+        """Constructor for HTMLGlossGenerator class.
+        """
+        manager = configmanager.ConfigurationManager()
+        self.config = manager.LoadConfig()
 
     def GenerateDoc(self, corpus_entry):
         """Generates HTML text for the glossed version of the Chinese document.
@@ -64,22 +71,21 @@ class HTMLGlossGenerator:
                 title = ''
                 if 'pos_tagged' in entry:
                     title = entry['pos_tagged']
-                    url = '/buddistdict/phrase.phpid=%s' % entry_id
+                    url = '/buddhistdict/phrase_detail.php?id=%s' % entry_id
                 else:
                     title = '%s %s' % (entry['pinyin'], entry['english'])
-                    url = '/buddistdict/word_detail.phpid=%s' % entry_id
+                    url = '/buddhistdict/word_detail.php?id=%s' % entry_id
                 html += '<a href="%s" \n title="%s">%s</a>' % (url, title, element)
             else:
                 html += element
 
         return html
 
-    def WriteDoc(self, corpus_entry, outfile=DEFAULT_OUTFILE):
+    def WriteDoc(self, corpus_entry):
         """Generates and writes HTML text for the glossed version of the Chinese document.
 
         Args:
           corpus_entry: the corpus entry for the source document.
-          outfile: the file to write the HTML to
 
         Returns:
           A string with the generated HTML
@@ -87,6 +93,14 @@ class HTMLGlossGenerator:
         Raises:
           BDictException: If the input file does not exist
         """
+        infile = corpus_entry['plain_text']
+        period_pos = infile.find('.')
+        outfile = DEFAULT_OUTFILE
+        if infile.find('.') > -1:
+            outfile = '%s-gloss.html' % infile[0:period_pos]
+        if self.config['gloss_directory']:
+            gloss_directory = self.config['gloss_directory']
+            outfile = '%s/%s' % (gloss_directory, outfile)
         print('Writing HTML output to file %s' % outfile)
         html = self.GenerateDoc(corpus_entry)
         with codecs.open(outfile, 'w', "utf-8") as outf:

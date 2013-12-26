@@ -1,3 +1,4 @@
 corpus_directory: ../web/corpus
 analysis_directory: ../web/corpus/analysis
+gloss_directory: ../web/corpus/gloss
 

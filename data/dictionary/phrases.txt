@@ -1,32 +1,37 @@
-1	何以故	何/DT[why] 以/P[because] 故/NN[purpose] <why?>	 tatkasya hetoḥ	2	Diamond Sūtra
-2	於意云何	於/P[in] 意/NN[idea] 云何/DT[what] <what do you think?>	\N	2	Diamond Sūtra
-3	如來說	如來/NR[Tathāgata] 說/VV[speaks] <the Tathāgata speaks>	tathāgatena bhāṣitaḥ	2	Diamond Sūtra
-4	須菩提言	須菩提/NR[Subhūti] 言/VV[said] <Subhūti said>	\N	2	Diamond Sūtra
-5	不也	不/AD[no] 也/SP[final particle] <certainly not>	no hīdaṃ	2	Diamond Sūtra
-6	須菩提白佛言	須菩提/NR[Subhūti] 白/VV[addressed] 佛/NR[Buddha] 言/VV[said] <Subhūti addressed the Buddha>	\N	2	Diamond Sūtra
-7	佛告須菩提	佛/NR[Buddha] 告/VV[said] 須菩提/NR[Subhūti] <the Buddha told Subhūti>	bhagavānasyaitadavocat-iha subhūte	3	Diamond Sūtra
-8	作是念	作/VV[do] 是/DT[this] 念/NN[thought] <have the thought>	\N	2	Diamond Sūtra
-9	是經	是/DT[this] 經/NN[sūtra] <this sūtra>	\N	2	Diamond Sūtra
-10	諸菩薩	諸/DT[all] 菩薩/NN[bodhisattva] <all the bodhisattvas>	\N	2	Diamond Sūtra
-11	一切法	一切/DT[all] 法/NN[dhárma] <all dhármas>	\N	2	Diamond Sūtra
-12	恒河沙	恒河/NR[Ganges River] 沙/NN[sand] <sand in the Ganges River>	gaṅgānadīvālukā	2	Diamond Sūtra
-13	若復有人	若/CS[if] 復有/AD[once again] 人/NN[person] <also, if a person>\N	2	Diamond Sūtra
-14	發阿耨多羅三藐三菩提心	發/VV[develop] 阿耨多羅三藐三菩提/NR[Anuttarā Samyaksaṃbodhi] 心/NN[mind] <develop the mind of Anuttarā Samyaksaṃbodhi>	\N	2	Diamond Sūtra
-15	所說義	所/DT[it] 說/VV[explain] 義/NN[meaning] <explain the meaning>	\N	2	Diamond Sūtra
-16	降伏其心	降伏/VV[pacify] 其/DT[his] 心/NN[mind] <pacify their minds>	cittaṃ pragrahītavyam	2	Diamond Sūtra
-17	一合相	一/CD[one] 合/VV[combine] 相/NN[appearance] <single unified appearance>	\N	2	Diamond Sūtra
-18	用布施	用/VV[use] 布施/NN[giving] <the practice of giving>	dānaṃ dadyāt	2	Diamond Sūtra
-19	無有法	無/AD[no] 有/VE[no] 法/NN[dhárma] <there is no dhárma>	\N	2	Diamond Sūtra
-20	不應住	不/AD[no] 應/VV[ought] 住/VV[dwell] <not dwell in>	\N	2	Diamond Sūtra
-21	乘白象	乘/VV[chéng ride] 白/VA[bái white] 象/NN[xiàng elephant] <riding a white elephant>	\N	10	Cārya-nidāna, Scroll 1
-22	彈琴	彈/VV[tán play] 琴/NN[qín string instrument] <playing a string instrument>	\N	10	Cārya-nidāna, Scroll 1
-23	宮中	宮/NN[gōng palace] 中/P[zhōng in] <in the palace>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
-24	八天	八/CD[bā eight] 天/NN[tiān day] <eight days>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
-25	上二十	上/VA[shàng more than] 二十/CD[èrshí twenty] <more than twenty>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
-26	當此	當/P[dāng at] 此/PN[cǐ this] <at that time>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
-27	太子生時	太子/NN[tàizǐ prince] 生/VV[shēng born] 時/NT[shí time] <at the time the prince was born>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
-28	王與夫人	王/NN[wáng king] 與/CC[yǔ and] 夫人/NN[fūren queen] <the king and the queen>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
-29	千人	千/CD[qiān thousand] 人/NN[rén person] <a thousand people>
-30	吾子	吾/PN[wú I] 子/NN[zǐ son] <my son>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
-31	太子生	太子/NN[tàizǐ prince] 生/VV[shēng born] <the prince was born>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
-32	疊毛布	疊/VV[dié fold] 毛布/NN[máobù wool cloth] <folded the wool cloth>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+1	何以故	何/DT[hé why] 以/P[yǐ | because] 故/NN[gù | purpose] <why?>	 tatkasya hetoḥ	2	Diamond Sūtra
+2	於意云何	於/P[yú in] 意/NN[yì | idea] 云何/DT[yúnhé | what] <what do you think?>	\N	2	Diamond Sūtra
+3	如來說	如來/NR[Rúlái | Tathāgata] 說/VV[shuō | speaks] <the Tathāgata speaks>	tathāgatena bhāṣitaḥ	2	Diamond Sūtra
+4	須菩提言	須菩提/NR[Xūpútí | Subhūti] 言/VV[yán | said] <Subhūti said>	\N	2	Diamond Sūtra
+5	不也	不/AD[bù | no] 也/SP[yě | final particle] <certainly not>	no hīdaṃ	2	Diamond Sūtra
+6	須菩提白佛言	須菩提/NR[Xūpútí | Subhūti] 白/VV[bái | addressed] 佛/NR[Fó | Buddha] 言/VV[yán | said] <Subhūti addressed the Buddha>	\N	2	Diamond Sūtra
+7	佛告須菩提	佛/NR[Fó | Buddha] 告/VV[gào | said] 須菩提/NR[Xūpútí | Subhūti] <the Buddha told Subhūti>	bhagavānasyaitadavocat-iha subhūte	3	Diamond Sūtra
+8	作是念	作/VV[zuò | do] 是/DT[shì | this] 念/NN[niàn | thought] <have the thought>	\N	2	Diamond Sūtra
+9	是經	是/DT[shì | this] 經/NN[jīng | sūtra] <this sūtra>	\N	2	Diamond Sūtra
+10	諸菩薩	諸/DT[zhū | all] 菩薩/NN[púsà | bodhisattva] <all the bodhisattvas>	\N	2	Diamond Sūtra
+11	一切法	一切/DT[yīqiè | all] 法/NN[fǎ | dhárma] <all dhármas>	\N	2	Diamond Sūtra
+12	恒河沙	恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] <sand in the Ganges River>	gaṅgānadīvālukā	2	Diamond Sūtra
+13	若復有人	若/CS[ruò | if] 復有/AD[fùyǒu | once again] 人/NN[rén | person] <also, if a person>\N	2	Diamond Sūtra
+14	發阿耨多羅三藐三菩提心	發/VV[fā | develop] 阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi] 心/NN[xīn | mind] <develop the mind of Anuttarā Samyaksaṃbodhi>	\N	2	Diamond Sūtra
+15	所說義	所/DT[suǒ | it] 說/VV[shuō | explain] 義/NN[yì | meaning] <explain the meaning>	\N	2	Diamond Sūtra
+16	降伏其心	降伏/VV[xiángfú | pacify] 其/DT[qí | his] 心/NN[xīn | mind] <pacify their minds>	cittaṃ pragrahītavyam	2	Diamond Sūtra
+17	一合相	一/CD[yī | one] 合/VV[hé | combine] 相/NN[xiāng | appearance] <single unified appearance>	\N	2	Diamond Sūtra
+18	用布施	用/VV[yòng | use] 布施/NN[bùshī | giving] <the practice of giving>	dānaṃ dadyāt	2	Diamond Sūtra
+19	無有法	無/AD[wú yǒu | no] 有/VE[no] 法/NN[fǎ | dhárma] <there is no dhárma>	\N	2	Diamond Sūtra
+20	不應住	不/AD[bù | no] 應/VV[yīng | ought] 住/VV[zhù | dwell] <not dwell in>	\N	2	Diamond Sūtra
+21	乘白象	乘/VV[chéng | ride] 白/VA[bái | white] 象/NN[xiàng | elephant] <riding a white elephant>	\N	10	Cārya-nidāna, Scroll 1
+22	彈琴	彈/VV[tán | play] 琴/NN[qín | string instrument] <playing a string instrument>	\N	10	Cārya-nidāna, Scroll 1
+23	宮中	宮/NN[gōng | palace] 中/P[zhōng | in] <in the palace>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
+24	八天	八/CD[bā | eight] 天/NN[tiān | day] <eight days>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
+25	上二十	上/VA[shàng | more than] 二十/CD[èrshí | twenty] <more than twenty>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
+26	當此	當/P[dāng | at] 此/PN[cǐ | this] <at that time>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
+27	太子生時	太子/NN[tàizǐ | prince] 生/VV[shēng | born] 時/NT[shí | time] <at the time the prince was born>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+28	王與夫人	王/NN[wáng | king] 與/CC[yǔ | and] 夫人/NN[fūren | queen] <the king and the queen>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+29	千人	千/CD[qiān | thousand] 人/NN[rén | person] <a thousand people>
+30	吾子	吾/PN[wú | I] 子/NN[zǐ | son] <my son>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+31	太子生	太子/NN[tàizǐ | prince] 生/VV[shēng | born] <the prince was born>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+32	疊毛布	疊/VV[dié | fold] 毛布/NN[máobù | wool cloth] <folded the wool cloth>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+33	八日	八/CD[bā | eight] 日/NT[rì | day] <eighth day of the month>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+34	四月八日	四月/NT[sìyuè | Fourth month] 八/CD[bā | eight] 日/NT[rì | day] <eighth day of the fourth month>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+35	其母	其/PN[qí | his / hers] 母/NN[mǔ | mother] <his mother>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
+36	四月八日夜半	四月/NT[sìyuè | Fourth month] 八/CD[bā | eight] 日/NT[rì | day] 夜半/NN[bànyè | middle of the night] <the middle of the night on the eighth day of the fourth month>	\N	13	Guan Xi Fo Xingxiang Sūtra, Scroll 1
+37	十方諸佛皆用四月八日	十方諸佛/NR[Shí Fāng zhū Fó | the Buddhas of the Ten Directions] 皆/DT[jiē | all] 用/VV[yòng | use] 四月/[sìyuè | the fourth month] 八/CD[bā | eight] 日/NT[rì | day] <All Buddhas of the ten directions use the 8th day of the 4th month>	\N	13	Guan Xi Fo Xingxiang Sūtra, Scroll 1
