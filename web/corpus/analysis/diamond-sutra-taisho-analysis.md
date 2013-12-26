@@ -11,24 +11,44 @@ Word count: 4615, unique words: 520, known words: 520, new words: 0
 ### Phrase Memory Matches
 Phrase, Part-of-Speech Tagged Phrase, Source
 
-一切法, 一切/DT[all] 法/NN[dhárma] &lt;all dhármas&gt;, Diamond Sūtra<br/>
-作是念, 作/VV[do] 是/DT[this] 念/NN[thought] &lt;have the thought&gt;, Diamond Sūtra<br/>
-須菩提言, 須菩提/NR[Subhūti] 言/VV[said] &lt;Subhūti said&gt;, Diamond Sūtra<br/>
-用布施, 用/VV[use] 布施/NN[giving] &lt;the practice of giving&gt;, Diamond Sūtra<br/>
-所說義, 所/DT[it] 說/VV[explain] 義/NN[meaning] &lt;explain the meaning&gt;, Diamond Sūtra<br/>
-恒河沙, 恒河/NR[Ganges River] 沙/NN[sand] &lt;sand in the Ganges River&gt;, Diamond Sūtra<br/>
-無有法, 無/AD[no] 有/VE[no] 法/NN[dhárma] &lt;there is no dhárma&gt;, Diamond Sūtra<br/>
-如來說, 如來/NR[Tathāgata] 說/VV[speaks] &lt;the Tathāgata speaks&gt;, Diamond Sūtra<br/>
-不也, 不/AD[no] 也/SP[final particle] &lt;certainly not&gt;, Diamond Sūtra<br/>
-何以故, 何/DT[why] 以/P[because] 故/NN[purpose] &lt;why?&gt;, Diamond Sūtra<br/>
-須菩提白佛言, 須菩提/NR[Subhūti] 白/VV[addressed] 佛/NR[Buddha] 言/VV[said] &lt;Subhūti addressed the Buddha&gt;, Diamond Sūtra<br/>
-發阿耨多羅三藐三菩提心, 發/VV[develop] 阿耨多羅三藐三菩提/NR[Anuttarā Samyaksaṃbodhi] 心/NN[mind] &lt;develop the mind of Anuttarā Samyaksaṃbodhi&gt;, Diamond Sūtra<br/>
-是經, 是/DT[this] 經/NN[sūtra] &lt;this sūtra&gt;, Diamond Sūtra<br/>
-一合相, 一/CD[one] 合/VV[combine] 相/NN[appearance] &lt;single unified appearance&gt;, Diamond Sūtra<br/>
-諸菩薩, 諸/DT[all] 菩薩/NN[bodhisattva] &lt;all the bodhisattvas&gt;, Diamond Sūtra<br/>
-降伏其心, 降伏/VV[pacify] 其/DT[his] 心/NN[mind] &lt;pacify their minds&gt;, Diamond Sūtra<br/>
-於意云何, 於/P[in] 意/NN[idea] 云何/DT[what] &lt;what do you think?&gt;, Diamond Sūtra<br/>
-佛告須菩提, 佛/NR[Buddha] 告/VV[said] 須菩提/NR[Subhūti] &lt;the Buddha told Subhūti&gt;, Diamond Sūtra<br/>
+一切法, 一切/DT[yīqiè | all] 法/NN[fǎ | dhárma] &lt;all dhármas&gt;, Diamond Sūtra
+
+作是念, 作/VV[zuò | do] 是/DT[shì | this] 念/NN[niàn | thought] &lt;have the thought&gt;, Diamond Sūtra
+
+須菩提言, 須菩提/NR[Xūpútí | Subhūti] 言/VV[yán | said] &lt;Subhūti said&gt;, Diamond Sūtra
+
+用布施, 用/VV[yòng | use] 布施/NN[bùshī | giving] &lt;the practice of giving&gt;, Diamond Sūtra
+
+所說義, 所/DT[suǒ | it] 說/VV[shuō | explain] 義/NN[yì | meaning] &lt;explain the meaning&gt;, Diamond Sūtra
+
+恒河沙, 恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] &lt;sand in the Ganges River&gt;, Diamond Sūtra
+
+無有法, 無/AD[wú yǒu | no] 有/VE[no] 法/NN[fǎ | dhárma] &lt;there is no dhárma&gt;, Diamond Sūtra
+
+如來說, 如來/NR[Rúlái | Tathāgata] 說/VV[shuō | speaks] &lt;the Tathāgata speaks&gt;, Diamond Sūtra
+
+不也, 不/AD[bù | no] 也/SP[yě | final particle] &lt;certainly not&gt;, Diamond Sūtra
+
+不應住, 不/AD[bù | no] 應/VV[yīng | ought] 住/VV[zhù | dwell] &lt;not dwell in&gt;, Diamond Sūtra
+
+何以故, 何/DT[hé why] 以/P[yǐ | because] 故/NN[gù | purpose] &lt;why?&gt;, Diamond Sūtra
+
+須菩提白佛言, 須菩提/NR[Xūpútí | Subhūti] 白/VV[bái | addressed] 佛/NR[Fó | Buddha] 言/VV[yán | said] &lt;Subhūti addressed the Buddha&gt;, Diamond Sūtra
+
+發阿耨多羅三藐三菩提心, 發/VV[fā | develop] 阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi] 心/NN[xīn | mind] &lt;develop the mind of Anuttarā Samyaksaṃbodhi&gt;, Diamond Sūtra
+
+是經, 是/DT[shì | this] 經/NN[jīng | sūtra] &lt;this sūtra&gt;, Diamond Sūtra
+
+一合相, 一/CD[yī | one] 合/VV[hé | combine] 相/NN[xiāng | appearance] &lt;single unified appearance&gt;, Diamond Sūtra
+
+諸菩薩, 諸/DT[zhū | all] 菩薩/NN[púsà | bodhisattva] &lt;all the bodhisattvas&gt;, Diamond Sūtra
+
+降伏其心, 降伏/VV[xiángfú | pacify] 其/DT[qí | his] 心/NN[xīn | mind] &lt;pacify their minds&gt;, Diamond Sūtra
+
+於意云何, 於/P[yú in] 意/NN[yì | idea] 云何/DT[yúnhé | what] &lt;what do you think?&gt;, Diamond Sūtra
+
+佛告須菩提, 佛/NR[Fó | Buddha] 告/VV[gào | said] 須菩提/NR[Xūpútí | Subhūti] &lt;the Buddha told Subhūti&gt;, Diamond Sūtra
+
 ### Frequency of N-grams with frequency greater than 2
 何以故, 38<br/>
 於意云何, 30<br/>

@@ -52,6 +52,7 @@ class CJKTextReader:
         if 'end' in corpus_entry:
             end_marker = corpus_entry['end']
         text = ''
+        found_end = False
 
         with codecs.open(fullpath, 'r', "utf-8") as f:
             # print('Reading input file %s ' % fullpath)
@@ -64,12 +65,13 @@ class CJKTextReader:
                         line = line[pos:]
                     else:
                         continue
-                    
+                if found_end:
+                    break;
                 if end_marker:
                     end_pos = line.find(end_marker)
                     if end_pos > -1:
                         line = line[0:end_pos]
-                        break
+                        found_end = True
                 cjk = ''
                 for c in line:
                     if chinesephrase.isCJKLetter(c) or chinesephrase.isCJKPunctuation(c):

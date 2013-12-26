@@ -16,4 +16,4 @@ class CorpusManagerTest(unittest.TestCase):
         self.assertTrue(corpus)
         self.assertTrue(len(corpus) > 0)
         entry = corpus[0]
-        self.assertEquals(entry['plain_text'], 'diamond-sutra-sanskrit1.txt')
+        self.assertEquals(entry['plain_text'], 'diamond-sutra-sanskrit.txt')

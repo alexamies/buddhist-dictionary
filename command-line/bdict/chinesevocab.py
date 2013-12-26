@@ -198,5 +198,5 @@ class ChineseVocabulary:
                 pos_tagged = re.sub("<", "&lt;", pos_tagged)
                 pos_tagged = re.sub(">", "&gt;", pos_tagged)
                 source_name = phrase['source_name']
-                outf.write("%s, %s, %s<br/>\n" % (chinese_phrase, pos_tagged, source_name))
+                outf.write("%s, %s, %s\n\n" % (chinese_phrase, pos_tagged, source_name))
 

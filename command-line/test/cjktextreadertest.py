@@ -57,6 +57,21 @@ class CJKTextReaderTest(unittest.TestCase):
         punctuation = u'，'
         self.assertTrue(-1 < characters.find(punctuation))
 
+    def testReadText4(self):
+        corpus_entry = {}
+        corpus_entry['plain_text'] = 'guanxifo-scroll1-taisho.txt'
+        start = u'以四月八日夜半'
+        corpus_entry['start'] = start
+        end = u'諸善男子善女人'
+        corpus_entry['end'] = end
+        reader = cjktextreader.CJKTextReader()
+        characters = reader.ReadText(corpus_entry)
+        self.assertTrue(characters)
+        self.assertEquals(0, characters.find(start))
+        self.assertEquals(-1, characters.find(end))
+        last = u'正是佛生之日。'
+        self.assertTrue(-1 < characters.find(last))
+
 
 if __name__ == '__main__':
     unittest.main()
