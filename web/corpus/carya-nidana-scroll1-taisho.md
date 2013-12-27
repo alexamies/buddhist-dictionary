@@ -2,6 +2,8 @@
 
 Description: The Chinese text for a fragment of the Cārya-nidāna, Scroll 1 from the Taisho Tripitaka. Vol. 3, No. 184, p. 463, b12-c21.
 
+Period: c. 197
+
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/carya-nidana-scroll1-taisho-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/carya-nidana-scroll1-taisho-analysis.md "Vocabulary analysis")
@@ -16,7 +18,7 @@ Alternate formats: [Plain text file] (corpus/carya-nidana-scroll1-taisho.txt "Pl
 
 Start marker: 於是能仁菩薩
 
-End marker: end of file
+End marker: 「王聞太子生
 
 English translation: none
 

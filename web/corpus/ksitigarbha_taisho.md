@@ -1,5 +1,8 @@
 # Sūtra of the Great Vow of Kṣitigarbha Bodhisattva 地藏菩薩本願經
+
 Description: Translated by Tripiṭaka monk Śiksānanda, Khotan, Tang Dynasty. Original Chinese Text from Taisho Tripitaka and Matching English translation.
+
+Period: 652－710
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/ksitigarbha_taisho_analysis.md "Vocabulary analysis")
 

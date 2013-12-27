@@ -2,6 +2,8 @@
 
 Description: Primary source text from Taisho Tripitaka 藥師琉璃光如來本願功德經
 
+Period: 602－664
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/medicine_buddha_sutra_analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

@@ -34,18 +34,20 @@
           <option value="doc_type">Type</option>
           <option value="translator">Translator</option>
           <option value="source">Source</option>
+          <option value="period">Period</option>
+          <option value="genre">Genre</option>
         </select>
       </p>
       <table>
         <tbody>
-          <tr><th>ID</th><th>Source Name</th><th>Language</th><th>Type</th><th>Translator</th><th>Source</th></tr>
+          <tr><th>ID</th><th>Source Name</th><th>Type</th><th>Translator</th><th>Period</th><th>Genre</th></tr>
           <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp"">
             <td>{{doc.id}}</td>
             <td><a href="{{doc.uri}}">{{doc.source_name}}</a></td>
-            <td>{{doc.language}}</td>
             <td>{{doc.doc_type}}</td>
             <td>{{doc.translator}}</td>
-            <td>{{doc.source}}</td>
+            <td>{{doc.period}}</td>
+            <td>{{doc.genre}}</td>
           </tr>
         </tbody>
       </table>

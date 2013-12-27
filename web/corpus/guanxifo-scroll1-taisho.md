@@ -2,6 +2,8 @@
 
 Description: The Chinese text for a fragment of the Guan Xi Fo Xingxiang Sūtra, Scroll 1 from the Taisho Tripitaka. Vol. 16, No. 695, p. 796, c10-22.
 
+Period: Western Jin 265－316
+
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/guanxifo-scroll1-taisho-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/guanxifo-scroll1-taisho-analysis.md "Vocabulary analysis")

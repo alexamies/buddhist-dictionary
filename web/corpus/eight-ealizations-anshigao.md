@@ -1,6 +1,8 @@
 # Sūtra on the Eight Realizations of the Great Beings 佛說八大人覺經
 
-Description: The Chinese text of the Sūtra on the Eight Realizations of the Great Beings from the Taisho Tripitaka. 
+Description: The Chinese text of the Sūtra on the Eight Realizations of the Great Beings from the Taisho Tripitaka.
+
+Period: c. 168
 
 Translator: An Shi Gao.
 
@@ -10,9 +12,9 @@ Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
-Document: [Diamond Sutra Chinese Text] (http://tripitaka.cbeta.org/T17n0779_001/ "Sūtra on the Eight Realizations of the Great Beings Chinese Text")
+Document: [Realizations of the Great Beings Chinese Text] (http://tripitaka.cbeta.org/T17n0779_001/ "Realizations of the Great Beings Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
+Alternate formats: [Plain text file] (corpus/eight-ealizations-anshigao.txt "Realizations of the Great Beings")
 
 Start marker: 為佛弟子
 

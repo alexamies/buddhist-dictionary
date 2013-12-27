@@ -22,6 +22,8 @@ class CorpusManager:
         corpus = []
         with codecs.open(fullpath, 'r', "utf-8") as f:
             for line in f:
+                if not line.strip():
+                    continue
                 tokens = line.split('\t')
                 if tokens:
                     entry = {}
@@ -57,6 +59,9 @@ class CorpusManager:
                     if len(tokens) > 13:
                         if tokens[13] != '\\N':
                         	entry['genre'] = tokens[13].strip()
+                    if len(tokens) > 14:
+                        if tokens[14] != '\\N':
+                        	entry['period'] = tokens[14].strip()
                     corpus.append(entry)
         return corpus
 

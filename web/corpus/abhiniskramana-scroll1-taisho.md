@@ -2,6 +2,8 @@
 
 Description: The Chinese text for a fragment of the Sutra from the Taisho Tripitaka. Vol. 3, No. 188, 618, a17-b14.
 
+Period: Western Jin 265 - 316
+
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/abhiniskramana-scroll1-taisho-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/abhiniskramana-scroll1-taisho-analysis.md "Vocabulary analysis")

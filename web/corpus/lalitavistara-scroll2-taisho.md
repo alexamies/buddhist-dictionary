@@ -1,6 +1,9 @@
 ## Lalitavistara (sūtra), Scroll 2 Fragment 普曜經卷2部分
 
-Description: The Chinese text for a fragment of the Lalitavistara, Scroll 2 from the Taisho Tripitaka. Vol. 3, no. 186, p. 493, c13-p. 494, b28.
+Description: The Chinese text for a fragment of the Lalitavistara, Scroll 2 from the Taisho Tripitaka. 
+Vol. 3, no. 186, p. 493, c13-p. 494, b28.
+
+Period: Western Jin 265－316
 
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/lalitavistara-scroll2-taisho-gloss.html "HTML file")
 

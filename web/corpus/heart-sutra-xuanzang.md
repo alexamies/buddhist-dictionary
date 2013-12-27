@@ -2,6 +2,8 @@
 
 Description: The Chinese text of the Heart Sūtra from the Taisho Tripitaka. Translated to Chinese by Xuanzang.
 
+Period: 602－664
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/heart-sutra-xuanzang-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

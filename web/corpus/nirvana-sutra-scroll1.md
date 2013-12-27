@@ -2,6 +2,8 @@
 
 Description: The Chinese text for a fragment of the Mahāparinirvāṇa Sūtra, Scroll 1 from the Taisho Tripitaka. Vol. 1, No. 5, p. 165, a27-b10.
 
+Period: Western Jin 265－316
+
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/nirvana-sutra-scroll1-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/nirvana-sutra-scroll1-analysis.md "Vocabulary analysis")

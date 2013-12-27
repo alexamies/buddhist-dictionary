@@ -2,6 +2,8 @@
 
 Description: The Chinese text for a fragment of the Sarvāstivādavinayavibhāṣā, Scroll 2 from the Taisho Tripitaka. Vol. 23, no. 1440, p. 510, b21-29.
 
+Period: Western Qin (385－431) 西秦
+
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/sarvastivadavinayavibhasa-scroll2-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/sarvastivadavinayavibhasa-scroll2-analysis.md "Vocabulary analysis")
@@ -20,3 +22,4 @@ End marker: 佛三阿僧祇劫習菩薩行
 
 English translation: none
 
+Notes: The texts gives the dates for key events in the Buddha's life. On the eighth day of the second month the Buddha attained enlightenment. On the eighth day of the eighth month the Buddha turned the Dharma Wheel. On the eighth day of the eighth month the Buddha reached Nirvana.

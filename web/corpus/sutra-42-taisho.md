@@ -1,6 +1,8 @@
 # The Sūtra of Forty-Two Sections 四十二章經
 
-Description: The Chinese text of The Sūtra of Forty-Two Sections from the Taisho Tripitaka. 
+Description: The Chinese text of The Sūtra of Forty-Two Sections from the Taisho Tripitaka.
+
+Period: First century
 
 Translators: Kasyapamatanga and Dharmaratna.
 

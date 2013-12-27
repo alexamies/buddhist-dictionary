@@ -2,6 +2,8 @@
 
 Description: The Chinese text of the Diamond Sūtra from the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
 
+Period: 334—413
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

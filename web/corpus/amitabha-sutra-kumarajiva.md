@@ -2,6 +2,8 @@
 
 Description: The Chinese text of the Amitābha Sūtra from the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
 
+Period: 334－413
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/amitabha-sutra-kumarajiva-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
