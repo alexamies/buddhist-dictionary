@@ -25,4 +25,12 @@
 {"doc_type": "Sūtra","source_name": "Guan Xi Fo Xingxiang Sūtra, Scroll 1 Fragment 佛說灌洗佛形像經卷1部分","reference": "Vol. 3, No. 188","language": "Chinese","start": "以四月八日夜半","charset": "Traditional","plain_text": "guanxifo-scroll1-taisho.txt","uri": "corpus_entry.php?uri=guanxifo-scroll1-taisho.md","translator": "Fa Ju","source": "Taisho Tripitaka","genre": "Jataka","end": "諸善男子善女人","type": "file","id": "13"}
 ,
 {"doc_type": "Sūtra","source_name": "Mahāparinirvāṇasūtra, Scroll 1 Fragment 佛般泥洹經卷1部分","reference": "Vol. 1, No. 5, p. 165, a27-b10","language": "Chinese","start": "佛為阿難說","charset": "Traditional","plain_text": "nirvana-sutra-scroll1.txt","uri": "corpus_entry.php?uri=nirvana-sutra-scroll1.md","source": "Taisho Tripitaka","genre": "Jataka","end": "阿難聞佛自期三月","type": "file","id": "14"}
+,
+{"doc_type": "Sūtra","source_name": "Mahāparinirvāṇasūtra, Scroll 2 Fragment 佛般泥洹經卷2部分","reference": "Vol. 1, No. 5, p. 175, c16-20","language": "Chinese","start": "經曰：佛以四月八日生","charset": "Traditional","plain_text": "nirvana-sutra-scroll2.txt","uri": "corpus_entry.php?uri=nirvana-sutra-scroll2.md","source": "Taisho Tripitaka","genre": "Jataka","end": "從佛般泥洹","type": "file","id": "15"}
+,
+{"doc_type": "Sūtra","source_name": "Lalitavistara, Scroll 2 Fragment A 普曜經卷2部分","reference": "Vol. 3, no. 186, p. 493, c13-p. 494, b28","language": "Chinese","start": "「爾時王后坐師子床","charset": "Traditional","plain_text": "lalitavistara-scroll2-taisho.txt","uri": "corpus_entry.php?uri=lalitavistara-scroll2-taisho.md","translator": "Dharmarakṣa","source": "Taisho Tripitaka","genre": "Jataka","end": "「時三萬二千梵志","type": "file","id": "16"}
+,
+{"doc_type": "Sūtra","source_name": "Mahāparinirvāṇasūtra, Scroll 2 Fragment B 佛般泥洹經卷2部分","reference": "Vol. 1, no. 6, p. 190, c4-8","language": "Chinese","start": "佛從四月八日生","charset": "Traditional","plain_text": "nirvana-sutra-scroll2b.txt","uri": "corpus_entry.php?uri=nirvana-sutra-scroll2b.md","translator": "Bu Zai","source": "Taisho Tripitaka","genre": "Jataka","end": "既分舍利","type": "file","id": "17"}
+,
+{"doc_type": "Sūtra","source_name": "Sarvāstivādavinayavibhāṣā, Scroll 2 Fragment 薩婆多毘尼毘婆沙卷2","reference": "Vol. 23, no. 1440, p. 510, b21-29","language": "Chinese","start": "佛以二月八日弗星現時","charset": "Traditional","plain_text": "sarvastivadavinayavibhasa-scroll2.txt","uri": "corpus_entry.php?uri=sarvastivadavinayavibhasa-scroll2.md","translator": "Bu Zai","source": "Taisho Tripitaka","genre": "Jataka","end": "佛三阿僧祇劫習菩薩行","type": "file","id": "18"}
 ]

@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
+    <link rel="stylesheet" type="text/css" href="styles.css"/>
+  </head>
+  <body>
+    <img id="logo" src="images/yan.png" alt="Logo"/>
+    <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
+    <p class="menu">
+      <a class="menu" href="index.html">Home</a> | 
+      <span class="selected"><a class="menu" href="tools.html">Tools</a></span> | 
+      <a class="menu" href="corpus.html">Library</a> | 
+      <a class="menu" href="dict_resources.html">Resources</a> | 
+      <a class="menu" href="about.html">About</a>
+    </p>
+    <div class="content">
+      <h2>Text Management, Annotation, and Gloss</h2>
+      <h3>Background</h2>
+      <p>
+        The collection of texts in this web site are managed as a <i>text corpus</i>.
+        A text corpus, or simply <i>corpus</i>, is a term used in linguistics to 
+        mean a representative collection of texts used to 
+        study the linguistic characteristics of a language. 
+        The Brown Corpus, first published in 1961 [Francis 1964], was the first large corpus developed.
+        It consists of about 1 million English words.
+        The word <i>library</i> is used in the web site menu, as a more familiar and
+        friendly term than corpus because the target users of the web site are mostly
+        not linguistics researchers.
+        The target users of the site are primarily students, researchers, and lay
+        people studying Buddhist texts.
+      </p>
+      <p>
+        An <i>annotated corpus</i> or <i>treebank</i> adds information about the structure 
+        of the text, particularly part of speech and semantic information.  The Penn Treebank Project 
+        [Penn Treebank Project] was the first large-scale treebank developed.
+        The NTI Chinese-Sanskrit-English Buddhist Dictionary is just beginning to include
+        parsed text in the form of a phrase dataset.
+        The use of a phrase dataset consisting of short phrases can be used in a very 
+        practical way in the Buddhist texts because:
+        <ol>
+          <li>
+            Most Buddhist literature is written in Literary Chinese, starting in the first
+            century CE to the present day and remains untranslated.
+          </li>
+          <li>
+            Phrases in the text are repeated frequently. For example, the phrase 於意云何
+            &lt;what do you think?&gt; is repeated 30 times in the Diamond Sutra, which contains
+            a total of only 4615 words.
+          </li>
+          <li>
+            The Chinese language has a long history during which words have acquired many meanings
+            resulting in a great deal of ambiguity when looking up words in the dictionary.
+            The context of the word is needed to determine word sense and the simplest way to 
+            to determine context is to check if the word is used in a similar phrase with 
+            a known translation.
+          <li>
+            Short phrases can be easily matched into untranslated sentences.
+          </li>
+          </li>
+        </ol>
+      </p>
+      <p>
+        This project does not include bracketed structure to indicate the structure of different
+        types of phrases (noun phrases, verb phrases, etc) within sentences.
+        Rather it simply takes a practical approach to matching phrases and words to input 
+        text, starting with the longest phrases and words and covering the remaining
+        text with words one character in length.
+      </p>
+      <p>
+        Each corpus entry includes meta data about a primary source document, such as
+        the source and links to plain text versions, English translations, vocabulary
+        analysis, and other information.
+      </p>
+      <p>
+        <i>Gloss</i> is a form of annotation that explains the meanings of words in texts.
+        A collection of glosses is called a <i>glossary</i>.
+        A historic example is Biblical gloss that was used to annotate the meanings of
+        words in the Bible. Biblical gloss was usually added in margins and included
+        commentaries as well. <i>Interlinear gloss</i> is gloss added between the lines.
+        Historic annotations are valuable in themselves and may
+        give explainations of the source text that would not be known otherwise.
+        However, they have often been ommitted when documents were new versions of 
+        documents were published, retaining the original text only.
+      </p>
+      <p>
+        Gloss is also used in a modern context by linguists to help them study and 
+        discuss languages that they cannot understand themselves. Typically, this 
+        kind of gloss in added after the native terms in square brackets, such as
+        佛 [Buddha]. Besides the meaning of foreign words in English, linguists also
+        sometimes indicate pronunciation with gloss.
+        The Penn Chinese Treebank has a particular style of gloss used
+        that includes gloss for indivual words in square brackets and angle brackets
+        for the phrase as a whole [Nianwen 2005]. For example, 乘 [riding] 白 [white] 
+        象 [elephant] &lt;riding a white elephant&gt;.
+        This web site follows that style 
+        in the phrase memory dataset, putting in mouse-over for the convenience
+        of readers.
+      </p>
+      <h3>Use of markdown and corpus management</h2>
+      <p>
+        Each corpus entry has a text file that uses a markdown file. Markdown is a plain
+        <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> can allow people who are not 
+        software or web design specialists to easily work with plain text that can be transformed
+        to HTML later. Markdown consists of simple and intuitive patterns, such has headers and 
+        bullet lists for making plan text more readable.  This makes it easy to add annotations to
+        primary source documents or copies of them.
+        See the Buddhist Dictionary GitHub project
+        <a href="https://github.com/alexamies/buddhist-dictionary/tree/master/web/corpus">corpus directory</a> 
+        for a list of markdown files used in the project.
+      </p>
+      <p>
+        The collection of primary texts and markdown documents is through a corpus schema, including 
+        start and end markers for primary text. Adaptations for easy display of primary source text 
+        from common repositories of primary sources, particulary CBETA. For details on the corpus schema see the 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/corpus-readme.txt">corpus-readme.txt</a>
+        document.
+      </p>
+      <p>
+        Markdown viewers and parsers widely available, so it is a good medium for transfering 
+        text between systems. In particular, users of the web site can use the markdown generated on 
+        the web site, copying that elsewere to to another site. The 
+        <a href="about.html">terms and conditions</a> of the the web site allow direct copying, with 
+        attribution.
+      <h3>Part-of-Speech Tagging</h3>
+      <p>
+        This is a new effort. At the moment, part-of-speech (PoS) tagging is only used in the phrase 
+        dataset. Initially, only commonly occuring phrases identified through ngram scanning will be
+        tagged.
+        The PoS tags are not used in any linguistic analysis.
+      </p>
+      <p>
+        It follows the PoS tagging format documented by the Penn Chinese Treebank project. 
+        That was designed for modern Chinese but this
+        project is mainly in literary Chinese, which has a different grammar. Still, the Penn format 
+        is used as the best choice at the moment. See the 
+        <a href="http://www.cis.upenn.edu/~chinese/">Penn Chinese Treebank</a> web site for more
+        details.
+      </p>
+      <h3>References</h3>
+      <ol>
+        <li>
+          Fei Xia. <i>The Part-of-Speech Tagging Guidelines for the Penn Chinese TreeBank (3.0)</i>.
+          October 17, 2000. 
+          <a href="http://www.cis.upenn.edu/~chinese/posguide.3rd.ch.pdf">http://www.cis.upenn.edu/~chinese/posguide.3rd.ch.pdf</a>.
+        </li>
+        <li>
+           W. N. Francis and H. Kucera. <i>BROWN CORPUS MANUAL: MANUAL OF INFORMATION</i>
+           to accompany A Standard Corpus of Present-Day, Edited American English, for use
+           with Digital Computers. Brown University, Providence, Rhode Island, Department of Linguistics
+           1964.
+        </li>
+        <li>
+          Nianwen Xue, et. al. <i>The Penn Chinese TreeBank: Phrase Structure Annotation of a Large Corpus</i>.
+          <a href="http://verbs.colorado.edu/~mpalmer/papers/ctb.pdf">http://verbs.colorado.edu/~mpalmer/papers/ctb.pdf</a>.
+          Natural Language Engineering, Volume 11 Issue 2, June 2005, Pages 207 - 238, Cambridge University 
+          Press New York, NY, USA.
+        </li>
+        <li>
+          Penn Treebank Project, <a href="http://www.cis.upenn.edu/~treebank/">http://www.cis.upenn.edu/~treebank/</a>.
+        </li>
+      </ol>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
+      </p>
+    </div>
+  </body>
+</<html>
