@@ -1,646 +1,518 @@
-## Vocabulary for source document The Sūtra of Forty-Two Sections
+## Vocabulary analysis for source document The Sūtra of Forty-Two Sections 四十二章經
 Source file: sutra-42-taisho.txt<br/>
+Document Source URL: corpus_entry.php?uri=sutra-42-taisho.md<br/>
 Source: Taisho Tripitaka<br/>
 Reference: Vol. 17, No. 784<br/>
 Translator: Kasyapamatanga and Dharmaratna<br/>
-Lines read: 189<br/>
+Start marker: 佛言<br/>
+End marker: 本網站係採用<br/>
 ### Word count
-Word count: 1984, unique words: 631, known words: 627, new words: 4
+Word count: 2597, unique words: 634, known words: 634, new words: 0
+
+### Phrase Memory Matches
+Phrase, Part-of-Speech Tagged Phrase, Source
+
+佛告, 佛/NR[Fó | Buddha] 告/VV[gào | told] &lt;the Buddha said&gt;, Sūtra of the Medicine Buddha
+
+常念, 常/AD[cháng | frequently] 念/VV[niàn | recite] &lt;frequently recite&gt;, Sūtra on the Eight Realizations
+
+樹下, 樹/NN[shù | tree] 下/LC[xià | under] &lt;under a tree&gt;, Lalitavistara, Scroll 2
+
+佛國土, 佛/NR[Fó | Buddha] 國土/NN[guótǔ | land] &lt;Buddha land&gt;, Amitābha Sūtra
+
+彈琴, 彈/VV[tán | play] 琴/NN[qín | string instrument] &lt;playing a string instrument&gt;, Cārya-nidāna, Scroll 1
+
+### Frequency of N-grams with frequency greater than 2
+佛言, 42<br/>
+為道, 12<br/>
+不如飯, 8<br/>
+愛欲, 8<br/>
+不為, 6<br/>
+人為道, 6<br/>
+飯一, 6<br/>
+人為, 6<br/>
+得道, 6<br/>
+不如飯一, 6<br/>
+難既, 5<br/>
+行道, 5<br/>
+學道, 4<br/>
+何者, 4<br/>
+得阿羅漢, 4<br/>
+對曰, 4<br/>
+為道者, 4<br/>
+億不如, 4<br/>
+十事, 3<br/>
+諸沙門, 3<br/>
+不見道, 3<br/>
+佛告, 3<br/>
+幾間, 3<br/>
+吾何, 3<br/>
+亦不, 3<br/>
+必得道, 3<br/>
+次為, 3<br/>
+一人, 3<br/>
+念道, 3<br/>
+道矣, 3<br/>
+在幾間, 3<br/>
+在幾, 3<br/>
+人命在幾, 3<br/>
+人命在, 3<br/>
+心垢, 3<br/>
+善人, 3<br/>
+慎無, 3<br/>
+當如, 3<br/>
+道也, 3<br/>
+億不如飯, 3<br/>
+甚於, 3<br/>
+之患, 3<br/>
+念非常, 3<br/>
+人命在幾間, 3<br/>
+華名, 2<br/>
+睹其影, 2<br/>
+言者, 2<br/>
+欲生, 2<br/>
+以善往, 2<br/>
+飯持, 2<br/>
+以十, 2<br/>
+為道亦苦, 2<br/>
+賢者, 2<br/>
+世難, 2<br/>
+無與, 2<br/>
+子未能為, 2<br/>
+為善, 2<br/>
+無不, 2<br/>
+處于, 2<br/>
+與色會, 2<br/>
+逆風, 2<br/>
+自見形, 2<br/>
+得為人, 2<br/>
+佛世, 2<br/>
+即得, 2<br/>
+得無, 2<br/>
+得阿羅漢次, 2<br/>
+未能為道, 2<br/>
+如之, 2<br/>
+善往, 2<br/>
+事為, 2<br/>
+漸深, 2<br/>
+睹其, 2<br/>
+得道矣, 2<br/>
+得阿羅漢次為, 2<br/>
+未能為, 2<br/>
+佛世難, 2<br/>
+值佛世難, 2<br/>
+道亦苦, 2<br/>
+阿羅漢次, 2<br/>
+惡盡, 2<br/>
+見形, 2<br/>
+以十事, 2<br/>
+以自, 2<br/>
+飯善, 2<br/>
+於人, 2<br/>
+即自見, 2<br/>
+必有, 2<br/>
+意惱, 2<br/>
+之於, 2<br/>
+慎無與, 2<br/>
+斷陰, 2<br/>
+夫為道者, 2<br/>
+之禍, 2<br/>
+既得, 2<br/>
+人愚, 2<br/>
+自見, 2<br/>
+持歸, 2<br/>
+重以, 2<br/>
+以禮, 2<br/>
+猶若, 2<br/>
+愚者, 2<br/>
+者為, 2<br/>
+其心, 2<br/>
+飯辟支佛, 2<br/>
+無能, 2<br/>
+一食, 2<br/>
+狂愚, 2<br/>
+復問一, 2<br/>
+愛欲之, 2<br/>
+吾保, 2<br/>
+為沙門, 2<br/>
+不納, 2<br/>
+以善, 2<br/>
+值佛, 2<br/>
+自燒, 2<br/>
+身疲, 2<br/>
+睹其影者, 2<br/>
+生菩薩, 2<br/>
+數千, 2<br/>
+道可, 2<br/>
+其影者, 2<br/>
+吾保其, 2<br/>
+飯持五戒, 2<br/>
+二親, 2<br/>
+阿羅漢次為, 2<br/>
+知宿命, 2<br/>
+奉佛道, 2<br/>
+影者, 2<br/>
+清淨無, 2<br/>
+不污, 2<br/>
+佛告沙門, 2<br/>
+問一沙門, 2<br/>
+保其, 2<br/>
+與色, 2<br/>
+而不, 2<br/>
+問一, 2<br/>
+夫人為道, 2<br/>
+一沙門, 2<br/>
+萬人, 2<br/>
+億不如飯一, 2<br/>
+菩薩家, 2<br/>
+持五戒者, 2<br/>
+於彼, 2<br/>
+守志, 2<br/>
+即自見形, 2<br/>
+觸岸, 2<br/>
+與言, 2<br/>
+五戒者, 2<br/>
+飯善人, 2<br/>
+欲之, 2<br/>
+沙門問, 2<br/>
+其影, 2<br/>
+而行, 2<br/>
+其福, 2<br/>
+即自, 2<br/>
+難既得, 2<br/>
+何益, 2<br/>
+夫為, 2<br/>
+以十事為, 2<br/>
+子未能為道, 2<br/>
+無不見, 2<br/>
+亦苦, 2<br/>
+飯持五戒者, 2<br/>
+夫人為, 2<br/>
+以惡, 2<br/>
+值佛世, 2<br/>
+為道亦, 2<br/>
+告沙門, 2<br/>
+道亦, 2<br/>
+生菩薩家, 2<br/>
+之於人, 2<br/>
+以惡來, 2<br/>
+有沙門, 2<br/>
+十事為, 2<br/>
+為惡, 2<br/>
+持五戒, 2<br/>
+色會, 2<br/>
+汝意, 2<br/>
+得道也, 2<br/>
+人有, 2<br/>
+復問一沙門, 2<br/>
+行退, 2<br/>
+惡來, 2<br/>
+子未能, 2<br/>
+復問, 2<br/>
 ### Frequency of non-function words:
+For words with frequency greater than 1
+
 Word, frequency, relative frequency per 1000 words
 
-[佛](word_detail.php?id=3618 "Buddha / Awakened One 佛"), 60, 30.24<br/>
-[道](word_detail.php?id=3247 "direction / way / method / road / path 道"), 56, 28.23<br/>
-[人](word_detail.php?id=399 "person / people 人"), 32, 16.13<br/>
-[欲](word_detail.php?id=3889 "desire 欲"), 18, 9.07<br/>
-[行](word_detail.php?id=1259 "capable / competent 行"), 18, 9.07<br/>
-[飯](word_detail.php?id=4352 "food / cuisine / cooked rice / meal 飯"), 17, 8.57<br/>
-[沙門](word_detail.php?id=17887 "a Buddhist monk / a wandering monk / a shramana / a sramana 沙門"), 15, 7.56<br/>
-[意](word_detail.php?id=1730 "idea / meaning 意"), 15, 7.56<br/>
-[曰](word_detail.php?id=5110 "to speak / to say 曰"), 12, 6.05<br/>
-[心](word_detail.php?id=1849 "heart 心"), 12, 6.05<br/>
-[愛](word_detail.php?id=2861 "to love 愛"), 11, 5.54<br/>
-[念](word_detail.php?id=3905 "to read aloud / to recite 念"), 9, 4.54<br/>
-[阿羅漢](word_detail.php?id=6892 "Arhat 阿羅漢"), 8, 4.03<br/>
-[譬如](word_detail.php?id=6902 "for example / for instance / such as 譬如"), 8, 4.03<br/>
-[知](word_detail.php?id=3896 "to know / to be aware 知"), 7, 3.53<br/>
-[睹](word_detail.php?id=15603 "to see / to observe / to witness 睹"), 7, 3.53<br/>
-[愚](word_detail.php?id=3920 "ignorance 愚"), 7, 3.53<br/>
-[間](word_detail.php?id=748 "measure word for rooms, houses, luggage, etc 間"), 6, 3.02<br/>
-[禍](word_detail.php?id=10063 "a disaster 禍"), 6, 3.02<br/>
-[持](word_detail.php?id=1799 "to grasp / to hold / to support / to manage / to maintain 持"), 6, 3.02<br/>
-[垢](word_detail.php?id=5061 "dirt / filth 垢"), 6, 3.02<br/>
-[福](word_detail.php?id=2558 "good fortune / happiness / luck 福"), 6, 3.02<br/>
-[罪](word_detail.php?id=3869 "an offense / guilt / a crime / a sin 罪"), 5, 2.52<br/>
-[火](word_detail.php?id=2132 "fire 火"), 5, 2.52<br/>
-[上](word_detail.php?id=584 "above / previous 上"), 5, 2.52<br/>
-[滅](word_detail.php?id=568 "to extinguish / to destroy 滅"), 5, 2.52<br/>
-[須陀洹](word_detail.php?id=27417 "Sotapanna / Srotapanna / Stream-Enterer 須陀洹"), 5, 2.52<br/>
-[水](word_detail.php?id=1609 "water / river 水"), 5, 2.52<br/>
-[情欲](word_detail.php?id=21699 "to lust / to desire 情欲"), 5, 2.52<br/>
-[十](word_detail.php?id=310 "ten 十"), 5, 2.52<br/>
-[百](word_detail.php?id=313 "one hundred 百"), 5, 2.52<br/>
-[大](word_detail.php?id=1114 "big / great / huge / large / major 大"), 5, 2.52<br/>
-[問](word_detail.php?id=3723 "to ask 問"), 5, 2.52<br/>
-[事](word_detail.php?id=1219 "matter / thing / item 事"), 5, 2.52<br/>
-[不見](word_detail.php?id=8307 "to not see / to not meet 不見"), 5, 2.52<br/>
-[中](word_detail.php?id=332 "middle / during 中"), 5, 2.52<br/>
-[親](word_detail.php?id=3580 "related by blood or marriage / dear / intimate / closely related 親"), 5, 2.52<br/>
-[學](word_detail.php?id=3924 "to study / to learn 學"), 5, 2.52<br/>
-[退](word_detail.php?id=6126 "to retreat / to decline / to move back / to withdraw 退"), 4, 2.02<br/>
-[斯陀含](word_detail.php?id=27416 "Sakridagami / Sakadagami / Once-Returner 斯陀含"), 4, 2.02<br/>
-[婬](word_detail.php?id=27366 "lewd / obscene 婬"), 4, 2.02<br/>
-[視](word_detail.php?id=967 "to look at / to regard / to inspect 視"), 4, 2.02<br/>
-[罵](word_detail.php?id=7657 "to scold / to abuse 罵"), 4, 2.02<br/>
-[色](word_detail.php?id=2482 "color / look / appearance 色"), 4, 2.02<br/>
-[處](word_detail.php?id=2665 "a place / location / spot / point / office / department / bureau 處"), 4, 2.02<br/>
-[值](word_detail.php?id=3202 "value / worth 值"), 4, 2.02<br/>
-[明](word_detail.php?id=3062 "clear / bright 明"), 4, 2.02<br/>
-[泥](word_detail.php?id=7414 "mud / paste / pulp 泥"), 4, 2.02<br/>
-[夫人](word_detail.php?id=10227 "lady / madam / Mrs. 夫人"), 4, 2.02<br/>
-[貪](word_detail.php?id=3892 "to be greedy 貪"), 4, 2.02<br/>
-[死](word_detail.php?id=3880 "to die 死"), 4, 2.02<br/>
-[佛道](word_detail.php?id=22258 "Buddhist practice 佛道"), 4, 2.02<br/>
-[患](word_detail.php?id=3943 "to suffer from a misfortune 患"), 4, 2.02<br/>
-[天](word_detail.php?id=434 "day 天"), 4, 2.02<br/>
-[天地](word_detail.php?id=6400 "heaven and earth / the world 天地"), 4, 2.02<br/>
-[志](word_detail.php?id=32739 "consciousness / state of mind 志"), 4, 2.02<br/>
-[聞](word_detail.php?id=3925 "to hear 聞"), 4, 2.02<br/>
-[阿那含](word_detail.php?id=27415 "Anagamin / Anagami / Non-Returner 阿那含"), 4, 2.02<br/>
-[污](word_detail.php?id=13459 "dirty / filthy / foul / corrupt 污"), 4, 2.02<br/>
-[離](word_detail.php?id=3222 "to leave / to depart / to go away / from 離"), 4, 2.02<br/>
-[冥](word_detail.php?id=8952 "dark / deep 冥"), 4, 2.02<br/>
-[信](word_detail.php?id=3091 "to believe 信"), 4, 2.02<br/>
-[億](word_detail.php?id=316 "one hundred million  億"), 4, 2.02<br/>
-[為人](word_detail.php?id=12221 "behavior / conduct 為人"), 4, 2.02<br/>
-[苦](word_detail.php?id=3864 "bitter 苦"), 4, 2.02<br/>
-[守](word_detail.php?id=3903 "to guard / to practice 守"), 4, 2.02<br/>
-[千](word_detail.php?id=314 "one thousand 千"), 4, 2.02<br/>
-[五](word_detail.php?id=305 "five 五"), 3, 1.51<br/>
-[燒](word_detail.php?id=3214 "to burn 燒"), 3, 1.51<br/>
-[惱](word_detail.php?id=15619 "to get angry 惱"), 3, 1.51<br/>
-[成](word_detail.php?id=1932 "to finish / to complete / to accomplish / to succeed 成"), 3, 1.51<br/>
-[清淨](word_detail.php?id=27397 "peaceful / quiet / tranquil / purified of defiling illusion 清淨"), 3, 1.51<br/>
-[日](word_detail.php?id=738 "day of the month / day 日"), 3, 1.51<br/>
-[憂](word_detail.php?id=1438 "to worry / to be concerned 憂"), 3, 1.51<br/>
-[次](word_detail.php?id=667 "time 次"), 3, 1.51<br/>
-[炬](word_detail.php?id=21927 "a torch 炬"), 3, 1.51<br/>
-[家](word_detail.php?id=745 "family / home 家"), 3, 1.51<br/>
-[三尊](word_detail.php?id=27856 "the three honored ones 三尊"), 3, 1.51<br/>
-[取](word_detail.php?id=3026 "to take / to get / to choose / to fetch 取"), 3, 1.51<br/>
-[告](word_detail.php?id=3012 "to tell / to say 告"), 3, 1.51<br/>
-[炬火](word_detail.php?id=27651 "a torch 炬火"), 3, 1.51<br/>
-[人命](word_detail.php?id=11364 "human life 人命"), 3, 1.51<br/>
-[諦](word_detail.php?id=5111 "truth 諦"), 3, 1.51<br/>
-[形](word_detail.php?id=3879 "appearance 形"), 3, 1.51<br/>
-[二](word_detail.php?id=302 "two 二"), 3, 1.51<br/>
-[禮](word_detail.php?id=3761 "social custom / manners / courtesy 禮"), 3, 1.51<br/>
-[流](word_detail.php?id=533 "to flow / to spread / to circulate / to move 流"), 3, 1.51<br/>
-[奉](word_detail.php?id=7127 "to receive / to offer / to revere 奉"), 3, 1.51<br/>
-[萬](word_detail.php?id=315 "ten thousand 萬"), 3, 1.51<br/>
-[四](word_detail.php?id=304 "four 四"), 3, 1.51<br/>
-[施](word_detail.php?id=3935 "to distribute alms / to give / to practice giving 施"), 3, 1.51<br/>
-[食](word_detail.php?id=4355 "food 食"), 3, 1.51<br/>
-[疲](word_detail.php?id=12999 "weary 疲"), 3, 1.51<br/>
-[影](word_detail.php?id=4385 "picture / image / reflection / shadow 影"), 3, 1.51<br/>
-[世](word_detail.php?id=809 "life / generation / era / world / lifetime 世"), 3, 1.51<br/>
-[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生"), 3, 1.51<br/>
-[名](word_detail.php?id=573 "measure word for people 名"), 3, 1.51<br/>
-[男](word_detail.php?id=417 "male 男"), 3, 1.51<br/>
-[以為](word_detail.php?id=5911 "to believe / to think / to consider / to assume 以為"), 3, 1.51<br/>
-[癡](word_detail.php?id=3923 "ignorance / confusion / stupidity / naivety / delusion / moha 癡"), 3, 1.51<br/>
-[謂](word_detail.php?id=4267 "to speak of 謂"), 2, 1.01<br/>
-[俗](word_detail.php?id=3944 "popular / common / secular 俗"), 2, 1.01<br/>
-[愚癡](word_detail.php?id=21779 "ignorance / stupidity 愚癡"), 2, 1.01<br/>
-[外](word_detail.php?id=3044 "outside / in addition / foreign / external 外"), 2, 1.01<br/>
-[唾](word_detail.php?id=10001 "spittle / saliva 唾"), 2, 1.01<br/>
-[穢](word_detail.php?id=16577 "dirt / filth 穢"), 2, 1.01<br/>
-[摘](word_detail.php?id=3364 "to pick / to pluck / to take / to select / to borrow 摘"), 2, 1.01<br/>
-[緩](word_detail.php?id=7828 "slow / sluggish / gradual 緩"), 2, 1.01<br/>
-[覆](word_detail.php?id=802 "to cover / to overflow / to reply to a letter / to overturn / to capsize 覆"), 2, 1.01<br/>
-[精進](word_detail.php?id=3912 "diligence / perseverance 精進"), 2, 1.01<br/>
-[氣](word_detail.php?id=3260 "air / gas 氣"), 2, 1.01<br/>
-[岸](word_detail.php?id=3643 "bank / shore / beach / coast 岸"), 2, 1.01<br/>
-[教](word_detail.php?id=3929 "to teach / to educate 教"), 2, 1.01<br/>
-[宿命](word_detail.php?id=27617 "predestination / destiny 宿命"), 2, 1.01<br/>
-[逆](word_detail.php?id=5032 "contrary / opposite / backwards 逆"), 2, 1.01<br/>
-[趣](word_detail.php?id=4061 "to interest / to be interesting 趣"), 2, 1.01<br/>
-[足](word_detail.php?id=3631 "sufficient 足"), 2, 1.01<br/>
-[釋](word_detail.php?id=5625 "to release 釋"), 2, 1.01<br/>
-[中國](word_detail.php?id=37 "China 中國"), 2, 1.01<br/>
-[濟](word_detail.php?id=3957 "to aid / to ferry 濟"), 2, 1.01<br/>
-[絃](word_detail.php?id=27781 "a string / a bowstring 絃"), 2, 1.01<br/>
-[狂](word_detail.php?id=5567 "unrestrained / mad 狂"), 2, 1.01<br/>
-[住](word_detail.php?id=747 "to live / to reside / to dwell 住"), 2, 1.01<br/>
-[戰](word_detail.php?id=3463 "war / battle / fight 戰"), 2, 1.01<br/>
-[病](word_detail.php?id=4679 "ailment / sickness / illness / disease 病"), 2, 1.01<br/>
-[辟支佛](word_detail.php?id=30500 "Pratyeka-Buddha / Pratyekabuddha 辟支佛"), 2, 1.01<br/>
-[七](word_detail.php?id=307 "seven 七"), 2, 1.01<br/>
-[觀](word_detail.php?id=1702 "to look at / to watch / to observe 觀"), 2, 1.01<br/>
-[手](word_detail.php?id=922 "hand 手"), 2, 1.01<br/>
-[免](word_detail.php?id=4175 "to exempt / to remove / to avoid / to excuse 免"), 2, 1.01<br/>
-[菩薩](word_detail.php?id=3166 "bodhisattva 菩薩"), 2, 1.01<br/>
-[聲](word_detail.php?id=608 "sound / voice 聲"), 2, 1.01<br/>
-[修](word_detail.php?id=3676 "to decorate / to embellish / to repair / to build 修"), 2, 1.01<br/>
-[危](word_detail.php?id=3862 "dangerous, precarious 危"), 2, 1.01<br/>
-[寶](word_detail.php?id=3707 "a jewel / gem / a treasure 寶"), 2, 1.01<br/>
-[妻子](word_detail.php?id=9187 "wife 妻子"), 2, 1.01<br/>
-[普](word_detail.php?id=3457 "general / popular / everywhere / universal 普"), 2, 1.01<br/>
-[三](word_detail.php?id=303 "three 三"), 2, 1.01<br/>
-[求](word_detail.php?id=1700 "to request 求"), 2, 1.01<br/>
-[無量](word_detail.php?id=20347 "unlimited / immeasurable 無量"), 2, 1.01<br/>
-[自悔](word_detail.php?id=27773 "to regret 自悔"), 2, 1.01<br/>
-[悲](word_detail.php?id=3431 "sadness / sorrow / grief  悲"), 2, 1.01<br/>
-[觸](word_detail.php?id=4495 "to knock against / to touch / to feel 觸"), 2, 1.01<br/>
-[牢獄](word_detail.php?id=20866 "prison / jail 牢獄"), 2, 1.01<br/>
-[生死](word_detail.php?id=18496 "Sansara / Samsara 生死"), 2, 1.01<br/>
-[內](word_detail.php?id=2836 "inside / interior 內"), 2, 1.01<br/>
-[鬼神](word_detail.php?id=26718 "spirits and devils / a demon 鬼神"), 2, 1.01<br/>
-[香](word_detail.php?id=5068 "fragrant / savory / appetizing / sweet / scented / popular 香"), 2, 1.01<br/>
-[魂靈](word_detail.php?id=27650 "soul / spirit / mind / idea 魂靈"), 2, 1.01<br/>
-[博](word_detail.php?id=5155 "extensive / ample / rich / plentiful 博"), 2, 1.01<br/>
-[保](word_detail.php?id=997 "to defend / to protect / to insure or guarantee / to maintain 保"), 2, 1.01<br/>
-[眾人](word_detail.php?id=16808 "everyone 眾人"), 2, 1.01<br/>
-[敬](word_detail.php?id=6651 "to respect / to venerate / to salute / to offer 敬"), 2, 1.01<br/>
-[風](word_detail.php?id=2024 "wind 風"), 2, 1.01<br/>
-[五戒](word_detail.php?id=17658 "the Five Precepts 五戒"), 2, 1.01<br/>
-[功曹](word_detail.php?id=27752 "police chief 功曹"), 2, 1.01<br/>
-[左](word_detail.php?id=2776 "left / left-hand 左"), 2, 1.01<br/>
-[投](word_detail.php?id=2679 "to throw 投"), 2, 1.01<br/>
-[蜜](word_detail.php?id=5040 "honey 蜜"), 2, 1.01<br/>
-[思想](word_detail.php?id=1387 "thought / ideology 思想"), 2, 1.01<br/>
-[華](word_detail.php?id=2865 "Hua 華"), 2, 1.01<br/>
-[執](word_detail.php?id=5261 "to execute a plan / to grasp 執"), 2, 1.01<br/>
-[後](word_detail.php?id=1149 "after / later / behind 後"), 2, 1.01<br/>
-[無視](word_detail.php?id=24156 "to ignore / to disregard 無視"), 2, 1.01<br/>
-[根](word_detail.php?id=2437 "origin / cause / basis 根"), 2, 1.01<br/>
-[凡人](word_detail.php?id=21894 "an ordinary person / a mortal 凡人"), 2, 1.01<br/>
-[臨](word_detail.php?id=4429 "to face / to overlook 臨"), 2, 1.01<br/>
-[女](word_detail.php?id=419 "female 女"), 2, 1.01<br/>
-[未能](word_detail.php?id=2091 "to fail to 未能"), 2, 1.01<br/>
-[不可](word_detail.php?id=8863 "cannot / should not / must not 不可"), 2, 1.01<br/>
-[濁](word_detail.php?id=6416 "turbid / muddy / impure 濁"), 2, 1.01<br/>
-[不止](word_detail.php?id=11629 "to be incessant / to be without end / to be more than / not to be limited to 不止"), 2, 1.01<br/>
-[下](word_detail.php?id=580 "next 下"), 2, 1.01<br/>
-[納](word_detail.php?id=4532 "to accept / to pay 納"), 2, 1.01<br/>
-[悔](word_detail.php?id=15005 "to regret 悔"), 2, 1.01<br/>
-[益](word_detail.php?id=5290 "increase / benefit 益"), 2, 1.01<br/>
-[心中](word_detail.php?id=16417 "in mind 心中"), 2, 1.01<br/>
-[六情](word_detail.php?id=27851 "the six sense organs / sadayatana 六情"), 2, 1.01<br/>
-[三者](word_detail.php?id=29542 "the third / thirldy 三者"), 2, 1.01<br/>
-[入](word_detail.php?id=916 "to enter 入"), 2, 1.01<br/>
-[息](word_detail.php?id=2779 "interest 息"), 2, 1.01<br/>
-[殃](word_detail.php?id=16669 "calamity 殃"), 2, 1.01<br/>
-[甜](word_detail.php?id=4752 "sweet 甜"), 2, 1.01<br/>
-[害](word_detail.php?id=4550 "to do harm to / to cause trouble to 害"), 2, 1.01<br/>
-[流俗](word_detail.php?id=27656 "a prevalent custom / a current fashion 流俗"), 2, 1.01<br/>
-[執心](word_detail.php?id=27654 "to have a natural disposition / to be firm and resolute 執心"), 2, 1.01<br/>
-[口](word_detail.php?id=746 "measure word for people,pigs, and kitcheware 口"), 2, 1.01<br/>
-[急](word_detail.php?id=4876 "hurried / worried 急"), 2, 1.01<br/>
-[天神](word_detail.php?id=21746 "a god / a deity 天神"), 2, 1.01<br/>
-[坋](word_detail.php?id=27614 "dust, earth / a bank of earth 坋"), 2, 1.01<br/>
-[賢](word_detail.php?id=6722 "to be worthy / noble / bhadra 賢"), 2, 1.01<br/>
-[海](word_detail.php?id=3593 "sea / ocean 海"), 2, 1.01<br/>
-[合](word_detail.php?id=1540 "to join / to combine 合"), 1, 0.50<br/>
-[弊](word_detail.php?id=14021 "detriment / fraud / harm / defeat 弊"), 1, 0.50<br/>
-[舌](word_detail.php?id=5066 "tongue 舌"), 1, 0.50<br/>
-[綺語](word_detail.php?id=21522 "flowery writing 綺語"), 1, 0.50<br/>
-[小兒](word_detail.php?id=27657 "a son / a small boy 小兒"), 1, 0.50<br/>
-[母](word_detail.php?id=4262 "mother 母"), 1, 0.50<br/>
-[不足](word_detail.php?id=11631 "insufficient / lacking / deficiency / not enough / inadequate / not worth 不足"), 1, 0.50<br/>
-[消滅](word_detail.php?id=7168 "to perish / to annihilate / to eliminate / to perish / to pass away 消滅"), 1, 0.50<br/>
-[遠](word_detail.php?id=848 "far / distant 遠"), 1, 0.50<br/>
-[去世](word_detail.php?id=15866 "to pass away / to die 去世"), 1, 0.50<br/>
-[原赦](word_detail.php?id=27668 "to pardon 原赦"), 1, 0.50<br/>
-[國土](word_detail.php?id=3874 "homeland / country 國土"), 1, 0.50<br/>
-[十戒](word_detail.php?id=29299 "Ten Precepts 十戒"), 1, 0.50<br/>
-[名譽](word_detail.php?id=4812 "fame / reputation / honor 名譽"), 1, 0.50<br/>
-[貧窮](word_detail.php?id=13008 "poor / impoverished 貧窮"), 1, 0.50<br/>
-[恚怒](word_detail.php?id=21884 "to hate / to be in a rage 恚怒"), 1, 0.50<br/>
-[之間](word_detail.php?id=389 "between / among 之間"), 1, 0.50<br/>
-[暴](word_detail.php?id=3186 "violence 暴"), 1, 0.50<br/>
-[改](word_detail.php?id=3098 "to change / to alter / to transform / to correct 改"), 1, 0.50<br/>
-[疾](word_detail.php?id=5806 "disease / sickness / ailment 疾"), 1, 0.50<br/>
-[守道](word_detail.php?id=21524 "to practice 守道"), 1, 0.50<br/>
-[倒見](word_detail.php?id=29538 "a delusion where the opposite of the truth is believed 倒見"), 1, 0.50<br/>
-[毒](word_detail.php?id=2452 "poison / narcotics 毒"), 1, 0.50<br/>
-[惡人](word_detail.php?id=22087 "an evil-doer / a malefactor / an ugly person 惡人"), 1, 0.50<br/>
-[孝](word_detail.php?id=16395 "to be filial 孝"), 1, 0.50<br/>
-[兩舌](word_detail.php?id=31418 "double-tongued 兩舌"), 1, 0.50<br/>
-[戒](word_detail.php?id=3772 "to warn against / to quit 戒"), 1, 0.50<br/>
-[世俗](word_detail.php?id=26140 "secular / worldly / profane 世俗"), 1, 0.50<br/>
-[用](word_detail.php?id=721 "to use 用"), 1, 0.50<br/>
-[便](word_detail.php?id=2282 "ordinary / plain / convenient / handy / easy 便"), 1, 0.50<br/>
-[仁慈](word_detail.php?id=15893 "benevolent 仁慈"), 1, 0.50<br/>
-[豐熾](word_detail.php?id=27653 "rich and abundant 豐熾"), 1, 0.50<br/>
-[惑](word_detail.php?id=15561 "to confuse 惑"), 1, 0.50<br/>
-[受](word_detail.php?id=1978 "to receive / to accept / to suffer / to be subjected to 受"), 1, 0.50<br/>
-[福德](word_detail.php?id=19571 "merit / good fortune and good moral conduct 福德"), 1, 0.50<br/>
-[勝](word_detail.php?id=5284 "to beat / to surpass / to win / to be equal to / to be competent enough 勝"), 1, 0.50<br/>
-[民](word_detail.php?id=1021 "the people / citizen 民"), 1, 0.50<br/>
-[緣](word_detail.php?id=3310 "cause / reason / karma / fate / predestined affinity 緣"), 1, 0.50<br/>
-[牢](word_detail.php?id=12764 "firm 牢"), 1, 0.50<br/>
-[燒香](word_detail.php?id=9113 "to burn incense 燒香"), 1, 0.50<br/>
-[無畏](word_detail.php?id=32713 "non-fear / confidence in yourself 無畏"), 1, 0.50<br/>
-[智](word_detail.php?id=3927 "wisdom / knowledge 智"), 1, 0.50<br/>
-[澄](word_detail.php?id=8346 "clear / limpid 澄"), 1, 0.50<br/>
-[六](word_detail.php?id=306 "six 六"), 1, 0.50<br/>
-[期](word_detail.php?id=1311 "a period of time / phase / stage 期"), 1, 0.50<br/>
-[無疑](word_detail.php?id=1448 "no doubt / undoubtedly 無疑"), 1, 0.50<br/>
-[偈](word_detail.php?id=6888 "hymn / gatha / verse 偈"), 1, 0.50<br/>
-[四大](word_detail.php?id=3875 "the four elements 四大"), 1, 0.50<br/>
-[四真道](word_detail.php?id=27873 "the Four Noble Truths 四真道"), 1, 0.50<br/>
-[賴](word_detail.php?id=5422 "to depend on / to disclaim / to blame someone else 賴"), 1, 0.50<br/>
-[佛經](word_detail.php?id=2905 "Buddhist Scripture / Sutra 佛經"), 1, 0.50<br/>
-[交錯](word_detail.php?id=15137 "to crisscross / to intertwine 交錯"), 1, 0.50<br/>
-[今](word_detail.php?id=6691 "today / modern / present / current / this / now 今"), 1, 0.50<br/>
-[積](word_detail.php?id=5213 "to amass / to accumulate / to store 積"), 1, 0.50<br/>
-[弟子](word_detail.php?id=3172 "disciple 弟子"), 1, 0.50<br/>
-[五彩](word_detail.php?id=25743 "wucai / five colors / multi-colored 五彩"), 1, 0.50<br/>
-[乞求](word_detail.php?id=15768 "to beg 乞求"), 1, 0.50<br/>
-[行者](word_detail.php?id=22105 "a pedestrian / a walker / an itinerant monk 行者"), 1, 0.50<br/>
-[所在](word_detail.php?id=6319 "place / location 所在"), 1, 0.50<br/>
-[護](word_detail.php?id=6281 "to protect 護"), 1, 0.50<br/>
-[不信](word_detail.php?id=21790 "disbelief / lack of faith 不信"), 1, 0.50<br/>
-[精銳](word_detail.php?id=27777 "elite 精銳"), 1, 0.50<br/>
-[調適](word_detail.php?id=27823 "to adapt 調適"), 1, 0.50<br/>
-[力](word_detail.php?id=972 "power / force / strength 力"), 1, 0.50<br/>
-[在內](word_detail.php?id=4593 "to include 在內"), 1, 0.50<br/>
-[女人](word_detail.php?id=541 "woman / women 女人"), 1, 0.50<br/>
-[義](word_detail.php?id=3613 "meaning / sense 義"), 1, 0.50<br/>
-[攪](word_detail.php?id=12618 "to disturb / to annoy / to mix / to stir 攪"), 1, 0.50<br/>
-[礫石](word_detail.php?id=25259 "gravel / pebbles 礫石"), 1, 0.50<br/>
-[革囊](word_detail.php?id=27671 "a leather sack / the human body 革囊"), 1, 0.50<br/>
-[膽](word_detail.php?id=11808 "gall bladder 膽"), 1, 0.50<br/>
-[鉀](word_detail.php?id=18560 "potassium 鉀"), 1, 0.50<br/>
-[進行](word_detail.php?id=1612 "to advance / to conduct / to carry out 進行"), 1, 0.50<br/>
-[深重](word_detail.php?id=15980 "grave 深重"), 1, 0.50<br/>
-[鏡](word_detail.php?id=9402 "mirror 鏡"), 1, 0.50<br/>
-[廣](word_detail.php?id=1626 "wide / large / vast 廣"), 1, 0.50<br/>
-[器](word_detail.php?id=3211 "a device / a tool / a utensil / an implement 器"), 1, 0.50<br/>
-[四十二章經](word_detail.php?id=18677 "The Sutra of Forty-Two Sections 四十二章經"), 1, 0.50<br/>
-[中水](word_detail.php?id=19604 "recycled water 中水"), 1, 0.50<br/>
-[五蓋](word_detail.php?id=27649 "the five covers / the five hindrances / the five obstructions 五蓋"), 1, 0.50<br/>
-[疊](word_detail.php?id=7872 "to layer / to fold / to repeat 疊"), 1, 0.50<br/>
-[愍](word_detail.php?id=21693 "to pity / to sympathize 愍"), 1, 0.50<br/>
-[美](word_detail.php?id=2388 "beautiful 美"), 1, 0.50<br/>
-[腐敗](word_detail.php?id=9412 "to be corrupt / to be rotten 腐敗"), 1, 0.50<br/>
-[隨](word_detail.php?id=955 "to follow 隨"), 1, 0.50<br/>
-[自視](word_detail.php?id=25249 "to view oneself 自視"), 1, 0.50<br/>
-[貴](word_detail.php?id=1211 "expensive / noble / precious 貴"), 1, 0.50<br/>
-[所有](word_detail.php?id=1049 "all 所有"), 1, 0.50<br/>
-[敕](word_detail.php?id=27154 "imperial orders 敕"), 1, 0.50<br/>
-[牛](word_detail.php?id=2614 "ox / cow / bull 牛"), 1, 0.50<br/>
-[飯食](word_detail.php?id=6617 "food 飯食"), 1, 0.50<br/>
-[顧](word_detail.php?id=4872 "to look after / to take into consideration / to attend to 顧"), 1, 0.50<br/>
-[實](word_detail.php?id=3386 "real / true / honest / really / solid 實"), 1, 0.50<br/>
-[無益](word_detail.php?id=21391 "to be no good / to not be beneficial 無益"), 1, 0.50<br/>
-[出門](word_detail.php?id=11695 "to go on a journey / to go out the door 出門"), 1, 0.50<br/>
-[鳴](word_detail.php?id=8373 "to cry / to chirp (of birds) 鳴"), 1, 0.50<br/>
-[高遷](word_detail.php?id=27776 "to promote (honorific) 高遷"), 1, 0.50<br/>
-[洄](word_detail.php?id=27672 "an eddy / a whirlpool 洄"), 1, 0.50<br/>
-[尊](word_detail.php?id=6609 "to honor / to respect 尊"), 1, 0.50<br/>
-[誑](word_detail.php?id=7151 "to deceive / to lie 誑"), 1, 0.50<br/>
-[濁世](word_detail.php?id=27432 "the world in chaos 濁世"), 1, 0.50<br/>
-[夜](word_detail.php?id=4071 "night 夜"), 1, 0.50<br/>
-[踞](word_detail.php?id=21767 "to be based upon 踞"), 1, 0.50<br/>
-[木](word_detail.php?id=2646 "wood 木"), 1, 0.50<br/>
-[弊帛](word_detail.php?id=27872 "old and tattered silk 弊帛"), 1, 0.50<br/>
-[進](word_detail.php?id=1644 "to advance / to enter 進"), 1, 0.50<br/>
-[無形](word_detail.php?id=5870 "formless / invisible / intangible / virtual 無形"), 1, 0.50<br/>
-[彈](word_detail.php?id=3838 "to pluck a string / to play 彈"), 1, 0.50<br/>
-[恒](word_detail.php?id=32905 "permanent 恒"), 1, 0.50<br/>
-[法](word_detail.php?id=3506 "method / way 法"), 1, 0.50<br/>
-[毛](word_detail.php?id=6862 "hair 毛"), 1, 0.50<br/>
-[試](word_detail.php?id=1006 "to test / to try / to experiment 試"), 1, 0.50<br/>
-[豪](word_detail.php?id=13860 "grand / heroic / despotic / bullying / luxurious / extravagant / bold 豪"), 1, 0.50<br/>
-[形體](word_detail.php?id=20272 "shape / body / form 形體"), 1, 0.50<br/>
-[音](word_detail.php?id=2413 "sound / noise / news 音"), 1, 0.50<br/>
-[不當](word_detail.php?id=14081 "unsuitable / improper / inappropriate 不當"), 1, 0.50<br/>
-[懷](word_detail.php?id=8057 "to think of 懷"), 1, 0.50<br/>
-[壽](word_detail.php?id=6238 "life / long life 壽"), 1, 0.50<br/>
-[常在](word_detail.php?id=21359 "to be long lasting 常在"), 1, 0.50<br/>
-[猛](word_detail.php?id=5902 "ferocious / suddenly / fierce / violent / abrupt 猛"), 1, 0.50<br/>
-[不久](word_detail.php?id=10185 "not long / soon 不久"), 1, 0.50<br/>
-[長者](word_detail.php?id=19161 "the elderly 長者"), 1, 0.50<br/>
-[誦](word_detail.php?id=4060 "to recite / to read aloud 誦"), 1, 0.50<br/>
-[頭](word_detail.php?id=3414 "head 頭"), 1, 0.50<br/>
-[支](word_detail.php?id=3575 "to support / to sustain / to erect / to raise 支"), 1, 0.50<br/>
-[鐵](word_detail.php?id=5234 "iron 鐵"), 1, 0.50<br/>
-[熟食](word_detail.php?id=32004 "cooked food 熟食"), 1, 0.50<br/>
-[毀](word_detail.php?id=7266 "to destroy 毀"), 1, 0.50<br/>
-[報](word_detail.php?id=3053 "newspaper / report 報"), 1, 0.50<br/>
-[里](word_detail.php?id=7032 "Kangxi radical 166 里"), 1, 0.50<br/>
-[財色](word_detail.php?id=21355 "wealth and female companionship 財色"), 1, 0.50<br/>
-[瑕](word_detail.php?id=19972 "a flaw in a piece of jade/ a shortcoming / a weakness 瑕"), 1, 0.50<br/>
-[鍛](word_detail.php?id=9711 "a forge / wrought metal 鍛"), 1, 0.50<br/>
-[釜](word_detail.php?id=27648 "a kettle / a cauldron 釜"), 1, 0.50<br/>
-[問曰](word_detail.php?id=30738 "to ask 問曰"), 1, 0.50<br/>
-[珠](word_detail.php?id=4935 "pearl / bead 珠"), 1, 0.50<br/>
-[質](word_detail.php?id=4539 "substance / nature / quality 質"), 1, 0.50<br/>
-[布施](word_detail.php?id=3941 "dana / the practice of giving / generosity 布施"), 1, 0.50<br/>
-[刀刃](word_detail.php?id=14429 "knife blade / crucial point 刀刃"), 1, 0.50<br/>
-[宅](word_detail.php?id=8477 "residence 宅"), 1, 0.50<br/>
-[疑](word_detail.php?id=5313 "to doubt / to misbelieve / to suspect 疑"), 1, 0.50<br/>
-[存](word_detail.php?id=2800 "exist / deposit / store / keep / survive 存"), 1, 0.50<br/>
-[鬚](word_detail.php?id=4498 "beard / mustache 鬚"), 1, 0.50<br/>
-[最大](word_detail.php?id=2337 "biggest / largest / maximum 最大"), 1, 0.50<br/>
-[怨](word_detail.php?id=3936 "to blame / to complain 怨"), 1, 0.50<br/>
-[辭](word_detail.php?id=4475 "refined language / diction / wording / poetic genre 辭"), 1, 0.50<br/>
-[天下](word_detail.php?id=13329 "the whole world / China / a realm 天下"), 1, 0.50<br/>
-[露](word_detail.php?id=6460 "to show / to reveal / to expose 露"), 1, 0.50<br/>
-[妹](word_detail.php?id=4033 "younger sister  妹"), 1, 0.50<br/>
-[日中](word_detail.php?id=17367 "noon 日中"), 1, 0.50<br/>
-[忍](word_detail.php?id=7140 "to beat / to endure / to tolerate 忍"), 1, 0.50<br/>
-[沸](word_detail.php?id=12032 "to boil 沸"), 1, 0.50<br/>
-[神](word_detail.php?id=5105 "divine / mysterious / unusual / lively 神"), 1, 0.50<br/>
-[赦](word_detail.php?id=17493 "to pardon 赦"), 1, 0.50<br/>
-[其事](word_detail.php?id=31331 "that thing / this thing 其事"), 1, 0.50<br/>
-[其二](word_detail.php?id=5564 "second / number two of the above 其二"), 1, 0.50<br/>
-[追](word_detail.php?id=8199 "to pursue / to chase 追"), 1, 0.50<br/>
-[幼](word_detail.php?id=10073 "young 幼"), 1, 0.50<br/>
-[殊](word_detail.php?id=4588 "unique 殊"), 1, 0.50<br/>
-[頓](word_detail.php?id=3499 "a time / a jerk / a meal 頓"), 1, 0.50<br/>
-[負](word_detail.php?id=909 "to bear / to carry 負"), 1, 0.50<br/>
-[不淨](word_detail.php?id=29839 "dirty / filthy 不淨"), 1, 0.50<br/>
-[金玉](word_detail.php?id=27869 "gold and jade / precious  金玉"), 1, 0.50<br/>
-[殺](word_detail.php?id=2451 "to kill / to murder / to slaughter 殺"), 1, 0.50<br/>
-[哀](word_detail.php?id=7308 "sad / mournful / pitiful 哀"), 1, 0.50<br/>
-[過客](word_detail.php?id=27868 "a passing traveler / a ransient guest / a sojourner 過客"), 1, 0.50<br/>
-[位](word_detail.php?id=283 "position / location / place / seat 位"), 1, 0.50<br/>
-[其中](word_detail.php?id=2047 "among 其中"), 1, 0.50<br/>
-[拔](word_detail.php?id=5020 "to pull up / to pull out / to select / to promote 拔"), 1, 0.50<br/>
-[出家](word_detail.php?id=3770 "to become a monk 出家"), 1, 0.50<br/>
-[盜](word_detail.php?id=4466 "to steal / to rob / to plunder 盜"), 1, 0.50<br/>
-[其一](word_detail.php?id=5548 "first / number one of the above 其一"), 1, 0.50<br/>
-[磨](word_detail.php?id=6503 "to sharpen / to delay / to suffer hardship / to grind / to rub 磨"), 1, 0.50<br/>
-[三毒](word_detail.php?id=17987 "Three Poisons 三毒"), 1, 0.50<br/>
-[名曰](word_detail.php?id=31453 "to be named / to be called 名曰"), 1, 0.50<br/>
-[財](word_detail.php?id=1551 "money / wealth / riches / property 財"), 1, 0.50<br/>
-[素](word_detail.php?id=3237 "plain / white 素"), 1, 0.50<br/>
-[截](word_detail.php?id=7144 "to cut 截"), 1, 0.50<br/>
-[逮](word_detail.php?id=11800 "to arrest / to catch / to seize 逮"), 1, 0.50<br/>
-[不惑](word_detail.php?id=27778 "without doubt 不惑"), 1, 0.50<br/>
-[德](word_detail.php?id=3388 "Germany 德"), 1, 0.50<br/>
-[蘇息](word_detail.php?id=27857 "to rest 蘇息"), 1, 0.50<br/>
-[宿](word_detail.php?id=8434 "to lodge for the night 宿"), 1, 0.50<br/>
-[琴](word_detail.php?id=3241 "a generic names for certain musical instruments / zither / heptachord 琴"), 1, 0.50<br/>
-[諸侯](word_detail.php?id=17514 "the feudal lords 諸侯"), 1, 0.50<br/>
-[慈](word_detail.php?id=3623 "compassionate / gentle / merciful / kind / humane 慈"), 1, 0.50<br/>
-[答](word_detail.php?id=3635 "to reply / to answer / to return / to respond / to echo 答"), 1, 0.50<br/>
-[童](word_detail.php?id=4937 "boy / child / children 童"), 1, 0.50<br/>
-[遮](word_detail.php?id=6583 "to cover up / to hide / to conceal / to block 遮"), 1, 0.50<br/>
-[走](word_detail.php?id=1343 "to walk / to go / to move / to leave 走"), 1, 0.50<br/>
-[空](word_detail.php?id=3876 "empty / void 空"), 1, 0.50<br/>
-[問道](word_detail.php?id=32185 "to ask the way / to ask 問道"), 1, 0.50<br/>
-[三惡道](word_detail.php?id=18530 "Three Lower Realms / Three Hell Realms 三惡道"), 1, 0.50<br/>
-[妄言](word_detail.php?id=21521 "lies / wild talk / lies / nonsense / fantasy 妄言"), 1, 0.50<br/>
-[少](word_detail.php?id=1449 "few / little 少"), 1, 0.50<br/>
-[忍辱](word_detail.php?id=27320 "to tolerate disgrace and insult / to have patience 忍辱"), 1, 0.50<br/>
-[飛行](word_detail.php?id=3208 "to fly 飛行"), 1, 0.50<br/>
-[無憂](word_detail.php?id=31358 "no suffering, misery, or hardship 無憂"), 1, 0.50<br/>
-[室](word_detail.php?id=769 "room / bedroom 室"), 1, 0.50<br/>
-[不行](word_detail.php?id=10513 "will not do / will not work 不行"), 1, 0.50<br/>
-[說](word_detail.php?id=412 "to say / said / to speak 說"), 1, 0.50<br/>
-[鋃鐺](word_detail.php?id=27666 "iron chains / shackles 鋃鐺"), 1, 0.50<br/>
-[寄](word_detail.php?id=6352 "to mail / to send 寄"), 1, 0.50<br/>
-[懈](word_detail.php?id=3909 "lax / negligent 懈"), 1, 0.50<br/>
-[生畏](word_detail.php?id=27775 "to feel intimidated 生畏"), 1, 0.50<br/>
-[九](word_detail.php?id=309 "nine 九"), 1, 0.50<br/>
-[可信](word_detail.php?id=22924 "trustworthy 可信"), 1, 0.50<br/>
-[山](word_detail.php?id=3122 "mountain / hill 山"), 1, 0.50<br/>
-[懸](word_detail.php?id=4885 "to hang / to suspend 懸"), 1, 0.50<br/>
-[萌](word_detail.php?id=15559 "people / sprout 萌"), 1, 0.50<br/>
-[誓](word_detail.php?id=14562 "to vow / to pledge / to swear 誓"), 1, 0.50<br/>
-[記](word_detail.php?id=2683 "to remember / to memorize / to bear in mind 記"), 1, 0.50<br/>
-[人見](word_detail.php?id=32836 "the notion of a person 人見"), 1, 0.50<br/>
-[人身](word_detail.php?id=15890 "a person's life, health, activities, etc 人身"), 1, 0.50<br/>
-[惡行](word_detail.php?id=28932 "evil conduct / wicked conduct  惡行"), 1, 0.50<br/>
-[踰](word_detail.php?id=24454 "to exceed / to transcend / to cross over 踰"), 1, 0.50<br/>
-[今日](word_detail.php?id=12650 "today 今日"), 1, 0.50<br/>
-[致力](word_detail.php?id=8112 "to work for / to devote one's efforts to 致力"), 1, 0.50<br/>
-[資](word_detail.php?id=3069 "resources / capital / money / expense 資"), 1, 0.50<br/>
-[呼吸](word_detail.php?id=5826 "to breathe 呼吸"), 1, 0.50<br/>
-[死難](word_detail.php?id=32191 "to die in an accident / to die for a just cause 死難"), 1, 0.50<br/>
-[盛](word_detail.php?id=3496 "to fill / to hold / contain / to ladle / to pick up with a utensil 盛"), 1, 0.50<br/>
-[川](word_detail.php?id=4299 "Sichuan 川"), 1, 0.50<br/>
-[優婆塞](word_detail.php?id=21067 "upasaka / upasika / a male lay Buddhist 優婆塞"), 1, 0.50<br/>
-[呼](word_detail.php?id=3415 "to call / to cry / to shout 呼"), 1, 0.50<br/>
-[刃](word_detail.php?id=14428 "the edge of blade 刃"), 1, 0.50<br/>
-[甘心](word_detail.php?id=14771 "to want to do something 甘心"), 1, 0.50<br/>
-[奈何](word_detail.php?id=6017 "to deal with / to cope 奈何"), 1, 0.50<br/>
-[格鬥](word_detail.php?id=21750 "to wrestle 格鬥"), 1, 0.50<br/>
-[減](word_detail.php?id=908 "to decrease / to subtract 減"), 1, 0.50<br/>
-[怯](word_detail.php?id=4970 "afraid / rustic 怯"), 1, 0.50<br/>
-[弱](word_detail.php?id=4721 "weak / feeble / young / inferior 弱"), 1, 0.50<br/>
-[側](word_detail.php?id=7762 "side 側"), 1, 0.50<br/>
-[老者](word_detail.php?id=27749 "an old person / old people / the aged 老者"), 1, 0.50<br/>
-[棄](word_detail.php?id=4413 "to abandon / to relinquish / to discard / to throw away 棄"), 1, 0.50<br/>
-[草](word_detail.php?id=3980 "grass / straw 草"), 1, 0.50<br/>
-[姊](word_detail.php?id=27750 "older sister / elder sister 姊"), 1, 0.50<br/>
-[完具](word_detail.php?id=27855 "whole / complete / entire / intact 完具"), 1, 0.50<br/>
-[繫](word_detail.php?id=7747 "to connect / to tie 繫"), 1, 0.50<br/>
-[仰](word_detail.php?id=3369 "Yang 仰"), 1, 0.50<br/>
-[兵](word_detail.php?id=7281 "soldier / troops 兵"), 1, 0.50<br/>
-[幻](word_detail.php?id=7198 "fantasy 幻"), 1, 0.50<br/>
-[變化](word_detail.php?id=504 "change 變化"), 1, 0.50<br/>
-[布](word_detail.php?id=3624 "cotton cloth 布"), 1, 0.50<br/>
-[踊躍](word_detail.php?id=27560 "eager / enthusiastic 踊躍"), 1, 0.50<br/>
-[通](word_detail.php?id=3252 "to go through / to open 通"), 1, 0.50<br/>
-[解釋](word_detail.php?id=1941 "to explain / to interpret / to resolve 解釋"), 1, 0.50<br/>
-[斧](word_detail.php?id=9813 "hatchet 斧"), 1, 0.50<br/>
-[助](word_detail.php?id=3578 "to help / to assist 助"), 1, 0.50<br/>
-[玉女](word_detail.php?id=27670 "a beautiful woman / a beautiful maiden 玉女"), 1, 0.50<br/>
-[種](word_detail.php?id=1590 "kind / type / race / breed / seed / species 種"), 1, 0.50<br/>
-[十方](word_detail.php?id=27646 "Ten Directions 十方"), 1, 0.50<br/>
-[虎口](word_detail.php?id=27669 "a tiger's den 虎口"), 1, 0.50<br/>
-[情](word_detail.php?id=3461 "feeling / emotion / situation 情"), 1, 0.50<br/>
-[嫉](word_detail.php?id=15061 "to envy / to be jealous 嫉"), 1, 0.50<br/>
-[道德](word_detail.php?id=1883 "moral / morality / virtue 道德"), 1, 0.50<br/>
-[操](word_detail.php?id=2409 "to hold / to drill / to exercise / to act / to do / to take in hand / to keep / to manage 操"), 1, 0.50<br/>
-[務](word_detail.php?id=4218 "affair / business / matter 務"), 1, 0.50<br/>
-[恚](word_detail.php?id=21775 "rage 恚"), 1, 0.50<br/>
-[迦葉佛](word_detail.php?id=27774 "Kassapa Buddha 迦葉佛"), 1, 0.50<br/>
-[快](word_detail.php?id=1181 "fast / quick 快"), 1, 0.50<br/>
-[思歸](word_detail.php?id=27780 "to miss home / to wish to return to one's village 思歸"), 1, 0.50<br/>
-[右](word_detail.php?id=2778 "right / right-hand 右"), 1, 0.50<br/>
-[歡喜](word_detail.php?id=7202 "joyful 歡喜"), 1, 0.50<br/>
-[國](word_detail.php?id=1075 "country 國"), 1, 0.50<br/>
-[涌](word_detail.php?id=5511 "to bubble up / to rush forth / to gush / to surge 涌"), 1, 0.50<br/>
-[意念](word_detail.php?id=30852 "an idea / a thought 意念"), 1, 0.50<br/>
-[度](word_detail.php?id=4058 "capacity / degree / standard 度"), 1, 0.50<br/>
-[樹](word_detail.php?id=2647 "tree 樹"), 1, 0.50<br/>
-[默然](word_detail.php?id=21965 "silent / speechless 默然"), 1, 0.50<br/>
-[左右](word_detail.php?id=851 "approximately 左右"), 1, 0.50<br/>
-[響應](word_detail.php?id=7433 "to respond / to answer 響應"), 1, 0.50<br/>
-[壽命](word_detail.php?id=6239 "life span / life expectancy 壽命"), 1, 0.50<br/>
-[苦難](word_detail.php?id=4788 "suffering 苦難"), 1, 0.50<br/>
-[有名](word_detail.php?id=10431 "famous / well-known 有名"), 1, 0.50<br/>
-[四者](word_detail.php?id=31073 "fourth / the fourth is 四者"), 1, 0.50<br/>
-[獻](word_detail.php?id=7438 "to offer 獻"), 1, 0.50<br/>
-[須臾](word_detail.php?id=17880 "a moment 須臾"), 1, 0.50<br/>
-[桎梏](word_detail.php?id=27662 "shackles / a restraint / a yoke 桎梏"), 1, 0.50<br/>
-[物](word_detail.php?id=1463 "thing / object / matter / abbreviation for physics 物"), 1, 0.50<br/>
-[髮](word_detail.php?id=1602 "hair 髮"), 1, 0.50<br/>
-[塵](word_detail.php?id=6041 "dust / dirt / earth 塵"), 1, 0.50<br/>
-[蓮花](word_detail.php?id=4079 "a lotus 蓮花"), 1, 0.50<br/>
-[命](word_detail.php?id=4838 "life 命"), 1, 0.50<br/>
-[健](word_detail.php?id=4366 "healthy 健"), 1, 0.50<br/>
+[佛](word_detail.php?id=3618 "Buddha / Awakened One 佛") [Buddha], 59, 22.72<br/>
+[道](word_detail.php?id=3247 "direction / way / method / road / path 道") [direction], 51, 19.64<br/>
+[人](word_detail.php?id=399 "person / people 人") [person], 31, 11.94<br/>
+[欲](word_detail.php?id=3889 "desire 欲") [desire], 18, 6.93<br/>
+[行](word_detail.php?id=1259 "capable / competent 行") [capable], 18, 6.93<br/>
+[飯](word_detail.php?id=4352 "food / cuisine / cooked rice / meal 飯") [food], 17, 6.55<br/>
+[沙門](word_detail.php?id=17887 "a Buddhist monk / a wandering monk / a shramana / a sramana 沙門") [a Buddhist monk], 15, 5.78<br/>
+[意](word_detail.php?id=1730 "idea / meaning 意") [idea], 15, 5.78<br/>
+[曰](word_detail.php?id=5110 "to speak / to say 曰") [to speak], 12, 4.62<br/>
+[心](word_detail.php?id=1849 "heart 心") [heart], 12, 4.62<br/>
+[愛](word_detail.php?id=2861 "to love 愛") [to love], 11, 4.24<br/>
+[念](word_detail.php?id=3905 "to read aloud / to recite 念") [to read aloud], 9, 3.47<br/>
+[阿羅漢](word_detail.php?id=6892 "Arhat 阿羅漢") [Arhat], 8, 3.08<br/>
+[譬如](word_detail.php?id=6902 "for example / for instance / such as 譬如") [for example], 8, 3.08<br/>
+[知](word_detail.php?id=3896 "to know / to be aware 知") [to know], 7, 2.70<br/>
+[睹](word_detail.php?id=15603 "to see / to observe / to witness 睹") [to see], 7, 2.70<br/>
+[愚](word_detail.php?id=3920 "ignorance 愚") [ignorance], 7, 2.70<br/>
+[禍](word_detail.php?id=10063 "a disaster 禍") [a disaster], 6, 2.31<br/>
+[福](word_detail.php?id=2558 "good fortune / happiness / luck 福") [good fortune], 6, 2.31<br/>
+[持](word_detail.php?id=1799 "to grasp / to hold / to support / to manage / to maintain 持") [to grasp], 6, 2.31<br/>
+[垢](word_detail.php?id=5061 "dirt / filth 垢") [dirt], 6, 2.31<br/>
+[罪](word_detail.php?id=3869 "an offense / guilt / a crime / a sin 罪") [an offense], 5, 1.93<br/>
+[火](word_detail.php?id=2132 "fire 火") [fire], 5, 1.93<br/>
+[滅](word_detail.php?id=568 "to extinguish / to destroy 滅") [to extinguish], 5, 1.93<br/>
+[須陀洹](word_detail.php?id=27417 "Sotapanna / Srotapanna / Stream-Enterer 須陀洹") [Sotapanna], 5, 1.93<br/>
+[水](word_detail.php?id=1609 "water / river 水") [water], 5, 1.93<br/>
+[情欲](word_detail.php?id=21699 "to lust / to desire 情欲") [to lust], 5, 1.93<br/>
+[十](word_detail.php?id=310 "ten 十") [ten], 5, 1.93<br/>
+[百](word_detail.php?id=313 "one hundred 百") [one hundred], 5, 1.93<br/>
+[大](word_detail.php?id=1114 "big / great / huge / large / major 大") [big], 5, 1.93<br/>
+[問](word_detail.php?id=3723 "to ask 問") [to ask], 5, 1.93<br/>
+[事](word_detail.php?id=1219 "matter / thing / item 事") [matter], 5, 1.93<br/>
+[不見](word_detail.php?id=8307 "to not see / to not meet 不見") [to not see], 5, 1.93<br/>
+[親](word_detail.php?id=3580 "related by blood or marriage / dear / intimate / closely related 親") [related by blood or marriage], 5, 1.93<br/>
+[退](word_detail.php?id=6126 "to retreat / to decline / to move back / to withdraw 退") [to retreat], 4, 1.54<br/>
+[斯陀含](word_detail.php?id=27416 "Sakridagami / Sakadagami / Once-Returner 斯陀含") [Sakridagami], 4, 1.54<br/>
+[婬](word_detail.php?id=27366 "lewd / obscene 婬") [lewd], 4, 1.54<br/>
+[視](word_detail.php?id=967 "to look at / to regard / to inspect 視") [to look at], 4, 1.54<br/>
+[罵](word_detail.php?id=7657 "to scold / to abuse 罵") [to scold], 4, 1.54<br/>
+[色](word_detail.php?id=2482 "color / look / appearance 色") [color], 4, 1.54<br/>
+[處](word_detail.php?id=2665 "a place / location / spot / point / office / department / bureau 處") [a place], 4, 1.54<br/>
+[值](word_detail.php?id=3202 "value / worth 值") [value], 4, 1.54<br/>
+[明](word_detail.php?id=3062 "clear / bright 明") [clear], 4, 1.54<br/>
+[泥](word_detail.php?id=7414 "mud / paste / pulp 泥") [mud], 4, 1.54<br/>
+[夫人](word_detail.php?id=10227 "lady / madam / Mrs. 夫人") [lady], 4, 1.54<br/>
+[貪](word_detail.php?id=3892 "to be greedy 貪") [to be greedy], 4, 1.54<br/>
+[死](word_detail.php?id=3880 "to die 死") [to die], 4, 1.54<br/>
+[佛道](word_detail.php?id=22258 "Buddhist practice 佛道") [Buddhist practice], 4, 1.54<br/>
+[患](word_detail.php?id=3943 "to suffer from a misfortune 患") [to suffer from a misfortune], 4, 1.54<br/>
+[天](word_detail.php?id=434 "day 天") [day], 4, 1.54<br/>
+[天地](word_detail.php?id=6400 "heaven and earth / the world 天地") [heaven and earth], 4, 1.54<br/>
+[志](word_detail.php?id=32739 "consciousness / state of mind 志") [consciousness], 4, 1.54<br/>
+[聞](word_detail.php?id=3925 "to hear 聞") [to hear], 4, 1.54<br/>
+[阿那含](word_detail.php?id=27415 "Anagamin / Anagami / Non-Returner 阿那含") [Anagamin], 4, 1.54<br/>
+[污](word_detail.php?id=13459 "dirty / filthy / foul / corrupt 污") [dirty], 4, 1.54<br/>
+[離](word_detail.php?id=3222 "to leave / to depart / to go away / from 離") [to leave], 4, 1.54<br/>
+[冥](word_detail.php?id=8952 "dark / deep 冥") [dark], 4, 1.54<br/>
+[信](word_detail.php?id=3091 "to believe 信") [to believe], 4, 1.54<br/>
+[億](word_detail.php?id=316 "one hundred million  億") [one hundred million], 4, 1.54<br/>
+[為人](word_detail.php?id=12221 "behavior / conduct 為人") [behavior], 4, 1.54<br/>
+[苦](word_detail.php?id=3864 "bitter 苦") [bitter], 4, 1.54<br/>
+[道者](word_detail.php?id=32944 "a devotee / a practioner / a follower 道者") [a devotee], 4, 1.54<br/>
+[學](word_detail.php?id=3924 "to study / to learn 學") [to study], 4, 1.54<br/>
+[守](word_detail.php?id=3903 "to guard / to practice 守") [to guard], 4, 1.54<br/>
+[千](word_detail.php?id=314 "one thousand 千") [one thousand], 4, 1.54<br/>
+[五](word_detail.php?id=305 "five 五") [five], 3, 1.16<br/>
+[燒](word_detail.php?id=3214 "to burn 燒") [to burn], 3, 1.16<br/>
+[惱](word_detail.php?id=15619 "to get angry 惱") [to get angry], 3, 1.16<br/>
+[成](word_detail.php?id=1932 "to finish / to complete / to accomplish / to succeed 成") [to finish], 3, 1.16<br/>
+[清淨](word_detail.php?id=27397 "peaceful / quiet / tranquil / purified of defiling illusion 清淨") [peaceful], 3, 1.16<br/>
+[日](word_detail.php?id=738 "day of the month / day 日") [day of the month], 3, 1.16<br/>
+[憂](word_detail.php?id=1438 "to worry / to be concerned 憂") [to worry], 3, 1.16<br/>
+[次](word_detail.php?id=667 "time 次") [time], 3, 1.16<br/>
+[炬](word_detail.php?id=21927 "a torch 炬") [a torch], 3, 1.16<br/>
+[家](word_detail.php?id=745 "family / home 家") [family], 3, 1.16<br/>
+[三尊](word_detail.php?id=27856 "the three honored ones 三尊") [the three honored ones], 3, 1.16<br/>
+[取](word_detail.php?id=3026 "to take / to get / to choose / to fetch 取") [to take], 3, 1.16<br/>
+[告](word_detail.php?id=3012 "to tell / to say 告") [to tell], 3, 1.16<br/>
+[炬火](word_detail.php?id=27651 "a torch 炬火") [a torch], 3, 1.16<br/>
+[人命](word_detail.php?id=11364 "human life 人命") [human life], 3, 1.16<br/>
+[諦](word_detail.php?id=5111 "truth 諦") [truth], 3, 1.16<br/>
+[形](word_detail.php?id=3879 "appearance 形") [appearance], 3, 1.16<br/>
+[二](word_detail.php?id=302 "two 二") [two], 3, 1.16<br/>
+[禮](word_detail.php?id=3761 "social custom / manners / courtesy 禮") [social custom], 3, 1.16<br/>
+[流](word_detail.php?id=533 "to flow / to spread / to circulate / to move 流") [to flow], 3, 1.16<br/>
+[奉](word_detail.php?id=7127 "to receive / to offer / to revere 奉") [to receive], 3, 1.16<br/>
+[萬](word_detail.php?id=315 "ten thousand 萬") [ten thousand], 3, 1.16<br/>
+[四](word_detail.php?id=304 "four 四") [four], 3, 1.16<br/>
+[施](word_detail.php?id=3935 "to distribute alms / to give / to practice giving 施") [to distribute alms], 3, 1.16<br/>
+[食](word_detail.php?id=4355 "food 食") [food], 3, 1.16<br/>
+[疲](word_detail.php?id=12999 "weary 疲") [weary], 3, 1.16<br/>
+[影](word_detail.php?id=4385 "picture / image / reflection / shadow 影") [picture], 3, 1.16<br/>
+[世](word_detail.php?id=809 "life / generation / era / world / lifetime 世") [life], 3, 1.16<br/>
+[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生") [All living things], 3, 1.16<br/>
+[名](word_detail.php?id=573 "measure word for people 名") [measure word for people], 3, 1.16<br/>
+[男](word_detail.php?id=417 "male 男") [male], 3, 1.16<br/>
+[以為](word_detail.php?id=5911 "to believe / to think / to consider / to assume 以為") [to believe], 3, 1.16<br/>
+[癡](word_detail.php?id=3923 "ignorance / confusion / stupidity / naivety / delusion / moha 癡") [ignorance], 3, 1.16<br/>
+[謂](word_detail.php?id=4267 "to speak of 謂") [to speak of], 2, 0.77<br/>
+[俗](word_detail.php?id=3944 "popular / common / secular 俗") [popular], 2, 0.77<br/>
+[愚癡](word_detail.php?id=21779 "ignorance / stupidity 愚癡") [ignorance], 2, 0.77<br/>
+[唾](word_detail.php?id=10001 "spittle / saliva 唾") [spittle], 2, 0.77<br/>
+[穢](word_detail.php?id=16577 "dirt / filth 穢") [dirt], 2, 0.77<br/>
+[摘](word_detail.php?id=3364 "to pick / to pluck / to take / to select / to borrow 摘") [to pick], 2, 0.77<br/>
+[緩](word_detail.php?id=7828 "slow / sluggish / gradual 緩") [slow], 2, 0.77<br/>
+[覆](word_detail.php?id=802 "to cover / to overflow / to reply to a letter / to overturn / to capsize 覆") [to cover], 2, 0.77<br/>
+[精進](word_detail.php?id=3912 "diligence / perseverance 精進") [diligence], 2, 0.77<br/>
+[氣](word_detail.php?id=3260 "air / gas 氣") [air], 2, 0.77<br/>
+[岸](word_detail.php?id=3643 "bank / shore / beach / coast 岸") [bank], 2, 0.77<br/>
+[教](word_detail.php?id=3929 "to teach / to educate 教") [to teach], 2, 0.77<br/>
+[宿命](word_detail.php?id=27617 "predestination / destiny 宿命") [predestination], 2, 0.77<br/>
+[逆](word_detail.php?id=5032 "contrary / opposite / backwards 逆") [contrary], 2, 0.77<br/>
+[趣](word_detail.php?id=4061 "to interest / to be interesting 趣") [to interest], 2, 0.77<br/>
+[足](word_detail.php?id=3631 "sufficient 足") [sufficient], 2, 0.77<br/>
+[釋](word_detail.php?id=5625 "to release 釋") [to release], 2, 0.77<br/>
+[中國](word_detail.php?id=37 "China 中國") [China], 2, 0.77<br/>
+[濟](word_detail.php?id=3957 "to aid / to ferry 濟") [to aid], 2, 0.77<br/>
+[絃](word_detail.php?id=27781 "a string / a bowstring 絃") [a string], 2, 0.77<br/>
+[狂](word_detail.php?id=5567 "unrestrained / mad 狂") [unrestrained], 2, 0.77<br/>
+[住](word_detail.php?id=747 "to live / to reside / to dwell 住") [to live], 2, 0.77<br/>
+[戰](word_detail.php?id=3463 "war / battle / fight 戰") [war], 2, 0.77<br/>
+[病](word_detail.php?id=4679 "ailment / sickness / illness / disease 病") [ailment], 2, 0.77<br/>
+[辟支佛](word_detail.php?id=30500 "Pratyeka-Buddha / Pratyekabuddha 辟支佛") [Pratyeka-Buddha], 2, 0.77<br/>
+[七](word_detail.php?id=307 "seven 七") [seven], 2, 0.77<br/>
+[觀](word_detail.php?id=1702 "to look at / to watch / to observe 觀") [to look at], 2, 0.77<br/>
+[益](word_detail.php?id=5290 "increase / benefit 益") [increase], 2, 0.77<br/>
+[手](word_detail.php?id=922 "hand 手") [hand], 2, 0.77<br/>
+[免](word_detail.php?id=4175 "to exempt / to remove / to avoid / to excuse 免") [to exempt], 2, 0.77<br/>
+[菩薩](word_detail.php?id=3166 "bodhisattva 菩薩") [bodhisattva], 2, 0.77<br/>
+[聲](word_detail.php?id=608 "sound / voice 聲") [sound], 2, 0.77<br/>
+[修](word_detail.php?id=3676 "to decorate / to embellish / to repair / to build 修") [to decorate], 2, 0.77<br/>
+[危](word_detail.php?id=3862 "dangerous, precarious 危") [dangerous, precarious], 2, 0.77<br/>
+[寶](word_detail.php?id=3707 "a jewel / gem / a treasure 寶") [a jewel], 2, 0.77<br/>
+[妻子](word_detail.php?id=9187 "wife 妻子") [wife], 2, 0.77<br/>
+[普](word_detail.php?id=3457 "general / popular / everywhere / universal 普") [general], 2, 0.77<br/>
+[三](word_detail.php?id=303 "three 三") [three], 2, 0.77<br/>
+[求](word_detail.php?id=1700 "to request 求") [to request], 2, 0.77<br/>
+[無量](word_detail.php?id=20347 "unlimited / immeasurable 無量") [unlimited], 2, 0.77<br/>
+[自悔](word_detail.php?id=27773 "to regret 自悔") [to regret], 2, 0.77<br/>
+[悲](word_detail.php?id=3431 "sadness / sorrow / grief  悲") [sadness], 2, 0.77<br/>
+[觸](word_detail.php?id=4495 "to knock against / to touch / to feel 觸") [to knock against], 2, 0.77<br/>
+[牢獄](word_detail.php?id=20866 "prison / jail 牢獄") [prison], 2, 0.77<br/>
+[生死](word_detail.php?id=18496 "Sansara / Samsara 生死") [Sansara], 2, 0.77<br/>
+[鬼神](word_detail.php?id=26718 "spirits and devils / a demon 鬼神") [spirits and devils], 2, 0.77<br/>
+[香](word_detail.php?id=5068 "fragrant / savory / appetizing / sweet / scented / popular 香") [fragrant], 2, 0.77<br/>
+[魂靈](word_detail.php?id=27650 "soul / spirit / mind / idea 魂靈") [soul], 2, 0.77<br/>
+[博](word_detail.php?id=5155 "extensive / ample / rich / plentiful 博") [extensive], 2, 0.77<br/>
+[保](word_detail.php?id=997 "to defend / to protect / to insure or guarantee / to maintain 保") [to defend], 2, 0.77<br/>
+[眾人](word_detail.php?id=16808 "everyone 眾人") [everyone], 2, 0.77<br/>
+[敬](word_detail.php?id=6651 "to respect / to venerate / to salute / to offer 敬") [to respect], 2, 0.77<br/>
+[風](word_detail.php?id=2024 "wind 風") [wind], 2, 0.77<br/>
+[五戒](word_detail.php?id=17658 "the Five Precepts 五戒") [the Five Precepts], 2, 0.77<br/>
+[功曹](word_detail.php?id=27752 "police chief 功曹") [police chief], 2, 0.77<br/>
+[左](word_detail.php?id=2776 "left / left-hand 左") [left], 2, 0.77<br/>
+[投](word_detail.php?id=2679 "to throw 投") [to throw], 2, 0.77<br/>
+[蜜](word_detail.php?id=5040 "honey 蜜") [honey], 2, 0.77<br/>
+[思想](word_detail.php?id=1387 "thought / ideology 思想") [thought], 2, 0.77<br/>
+[華](word_detail.php?id=2865 "Hua 華") [Hua], 2, 0.77<br/>
+[執](word_detail.php?id=5261 "to execute a plan / to grasp 執") [to execute a plan], 2, 0.77<br/>
+[後](word_detail.php?id=1149 "after / later / behind 後") [after], 2, 0.77<br/>
+[無視](word_detail.php?id=24156 "to ignore / to disregard 無視") [to ignore], 2, 0.77<br/>
+[根](word_detail.php?id=2437 "origin / cause / basis 根") [origin], 2, 0.77<br/>
+[凡人](word_detail.php?id=21894 "an ordinary person / a mortal 凡人") [an ordinary person], 2, 0.77<br/>
+[臨](word_detail.php?id=4429 "to face / to overlook 臨") [to face], 2, 0.77<br/>
+[女](word_detail.php?id=419 "female 女") [female], 2, 0.77<br/>
+[未能](word_detail.php?id=2091 "to fail to 未能") [to fail to], 2, 0.77<br/>
+[不可](word_detail.php?id=8863 "cannot / should not / must not 不可") [cannot], 2, 0.77<br/>
+[濁](word_detail.php?id=6416 "turbid / muddy / impure 濁") [turbid], 2, 0.77<br/>
+[不止](word_detail.php?id=11629 "to be incessant / to be without end / to be more than / not to be limited to 不止") [to be incessant], 2, 0.77<br/>
+[納](word_detail.php?id=4532 "to accept / to pay 納") [to accept], 2, 0.77<br/>
+[悔](word_detail.php?id=15005 "to regret 悔") [to regret], 2, 0.77<br/>
+[心中](word_detail.php?id=16417 "in mind 心中") [in mind], 2, 0.77<br/>
+[六情](word_detail.php?id=27851 "the six sense organs / sadayatana 六情") [the six sense organs], 2, 0.77<br/>
+[三者](word_detail.php?id=29542 "the third / thirldy 三者") [the third], 2, 0.77<br/>
+[入](word_detail.php?id=916 "to enter 入") [to enter], 2, 0.77<br/>
+[息](word_detail.php?id=2779 "interest 息") [interest], 2, 0.77<br/>
+[殃](word_detail.php?id=16669 "calamity 殃") [calamity], 2, 0.77<br/>
+[甜](word_detail.php?id=4752 "sweet 甜") [sweet], 2, 0.77<br/>
+[害](word_detail.php?id=4550 "to do harm to / to cause trouble to 害") [to do harm to], 2, 0.77<br/>
+[流俗](word_detail.php?id=27656 "a prevalent custom / a current fashion 流俗") [a prevalent custom], 2, 0.77<br/>
+[執心](word_detail.php?id=27654 "to have a natural disposition / to be firm and resolute 執心") [to have a natural disposition], 2, 0.77<br/>
+[口](word_detail.php?id=746 "measure word for people,pigs, and kitcheware 口") [measure word for people,pigs, and kitcheware], 2, 0.77<br/>
+[急](word_detail.php?id=4876 "hurried / worried 急") [hurried], 2, 0.77<br/>
+[天神](word_detail.php?id=21746 "a god / a deity 天神") [a god], 2, 0.77<br/>
+[坋](word_detail.php?id=27614 "dust, earth / a bank of earth 坋") [dust, earth], 2, 0.77<br/>
+[賢](word_detail.php?id=6722 "to be worthy / noble / bhadra 賢") [to be worthy], 2, 0.77<br/>
+[海](word_detail.php?id=3593 "sea / ocean 海") [sea], 2, 0.77<br/>
 ### Frequency of function words:
+For words with frequency greater than 1
+
 Word, frequency, relative frequency per 1000 words
 
-[言](word_detail.php?id=30881 "a particle with no meaning 言"), 47, 23.69<br/>
-[為](word_detail.php?id=372 "for / to 為"), 41, 20.67<br/>
-[之](word_detail.php?id=730 "him / her / it 之"), 38, 19.15<br/>
-[不](word_detail.php?id=502 "not / no 不"), 34, 17.14<br/>
-[者](word_detail.php?id=671 "used after a verb to indicate a person who does the action 者"), 31, 15.62<br/>
-[以](word_detail.php?id=650 "so as to 以"), 25, 12.60<br/>
-[得](word_detail.php?id=411 "a sentence particle used after a verb to show effect / degree or possibility 得"), 24, 12.10<br/>
-[其](word_detail.php?id=1574 "his / her / its / theirs / that 其"), 22, 11.09<br/>
-[一](word_detail.php?id=11131 "as soon as / throughout 一"), 19, 9.58<br/>
-[有](word_detail.php?id=398 "is / are 有"), 19, 9.58<br/>
-[吾](word_detail.php?id=17099 "I / my 吾"), 19, 9.58<br/>
-[無](word_detail.php?id=1843 "-less / no / none / not / un- / regardless of 無"), 18, 9.07<br/>
-[矣](word_detail.php?id=8355 "final particle 矣"), 16, 8.06<br/>
-[即](word_detail.php?id=1964 " promptly / right away 即"), 16, 8.06<br/>
-[自](word_detail.php?id=2806 "naturally / of course / certainly 自"), 15, 7.56<br/>
-[難](word_detail.php?id=1209 "hardly possible 難"), 14, 7.06<br/>
-[在](word_detail.php?id=328 "in / at 在"), 14, 7.06<br/>
-[何](word_detail.php?id=3087 "what / how / why / which 何"), 13, 6.55<br/>
-[生](word_detail.php?id=30576 "very / extremely 生"), 13, 6.55<br/>
-[猶](word_detail.php?id=7929 "also / as if / still 猶"), 12, 6.05<br/>
-[也](word_detail.php?id=925 "also 也"), 12, 6.05<br/>
-[不如](word_detail.php?id=20848 "inferior to / it would be better to 不如"), 11, 5.54<br/>
-[如](word_detail.php?id=2567 "if 如"), 11, 5.54<br/>
-[亦](word_detail.php?id=5060 "also 亦"), 11, 5.54<br/>
-[身](word_detail.php?id=30079 "personally 身"), 10, 5.04<br/>
-[善](word_detail.php?id=30110 "numerous / frequent / easy 善"), 10, 5.04<br/>
-[而](word_detail.php?id=1336 "and / as well as / but (not) / yet (not) 而"), 9, 4.54<br/>
-[所](word_detail.php?id=1198 "introduces a relative clause 所"), 9, 4.54<br/>
-[惡](word_detail.php?id=17796 "how? 惡"), 9, 4.54<br/>
-[與](word_detail.php?id=509 "and 與"), 8, 4.03<br/>
-[來](word_detail.php?id=371 "indicates an approximate quantity 來"), 8, 4.03<br/>
-[去](word_detail.php?id=27849 "in / at 去"), 8, 4.03<br/>
-[子](word_detail.php?id=9327 "indicates that the the word is used as a noun 子"), 8, 4.03<br/>
-[彼](word_detail.php?id=6890 "that / those 彼"), 8, 4.03<br/>
-[於](word_detail.php?id=1710 "in / at / to / from 於"), 8, 4.03<br/>
-[見](word_detail.php?id=17665 "passive marker 見"), 7, 3.53<br/>
-[必](word_detail.php?id=2270 "certainly / must / will / necessarily 必"), 6, 3.02<br/>
-[慎](word_detail.php?id=31993 "do not 慎"), 6, 3.02<br/>
-[除](word_detail.php?id=622 "except 除"), 6, 3.02<br/>
-[當](word_detail.php?id=1167 "at or in the very same 當"), 6, 3.02<br/>
-[爾](word_detail.php?id=3811 "thus / so / like that / you / thou 爾"), 6, 3.02<br/>
-[斷](word_detail.php?id=789 "absolutely / decidedly (in negative constructions) 斷"), 6, 3.02<br/>
-[若](word_detail.php?id=2850 "for example 若"), 6, 3.02<br/>
-[至](word_detail.php?id=844 "arrive / to / until 至"), 6, 3.02<br/>
-[諸](word_detail.php?id=17036 "plural 諸"), 6, 3.02<br/>
-[甚](word_detail.php?id=3447 "what 甚"), 5, 2.52<br/>
-[終](word_detail.php?id=16799 "in the end 終"), 5, 2.52<br/>
-[還](word_detail.php?id=397 "also / in addition / more 還"), 5, 2.52<br/>
-[既](word_detail.php?id=1457 "already / since 既"), 5, 2.52<br/>
-[能](word_detail.php?id=1263 "can / able 能"), 5, 2.52<br/>
-[眾](word_detail.php?id=29896 "again 眾"), 4, 2.02<br/>
-[己](word_detail.php?id=6800 "self 己"), 4, 2.02<br/>
-[從](word_detail.php?id=1383 "from 從"), 4, 2.02<br/>
-[深](word_detail.php?id=27832 "very 深"), 4, 2.02<br/>
-[歸](word_detail.php?id=12226 "indicates responsiblity 歸"), 4, 2.02<br/>
-[最](word_detail.php?id=945 "most 最"), 4, 2.02<br/>
-[斯](word_detail.php?id=3458 "this 斯"), 4, 2.02<br/>
-[對](word_detail.php?id=723 "to 對"), 4, 2.02<br/>
-[然](word_detail.php?id=3300 "so / thus 然"), 4, 2.02<br/>
-[盡](word_detail.php?id=17905 "all / every 盡"), 4, 2.02<br/>
-[會](word_detail.php?id=606 "able to 會"), 4, 2.02<br/>
-[邪](word_detail.php?id=17904 "interrogative particle 邪"), 4, 2.02<br/>
-[復](word_detail.php?id=4048 "again 復"), 3, 1.51<br/>
-[重](word_detail.php?id=14301 "again 重"), 3, 1.51<br/>
-[止](word_detail.php?id=4427 "until 止"), 3, 1.51<br/>
-[陰](word_detail.php?id=27772 "in secret / in private 陰"), 3, 1.51<br/>
-[耳](word_detail.php?id=17675 "and that is all 耳"), 3, 1.51<br/>
-[乃](word_detail.php?id=5071 "thus / so / therefore / then / only / thereupon 乃"), 3, 1.51<br/>
-[故](word_detail.php?id=14849 "so 故"), 3, 1.51<br/>
-[都](word_detail.php?id=757 "all 都"), 3, 1.51<br/>
-[或](word_detail.php?id=2027 "or 或"), 3, 1.51<br/>
-[乎](word_detail.php?id=3641 "expresses question or doubt 乎"), 3, 1.51<br/>
-[可](word_detail.php?id=1251 "but 可"), 3, 1.51<br/>
-[數](word_detail.php?id=2820 "frequently / repeatedly  數"), 3, 1.51<br/>
-[何如](word_detail.php?id=17186 "what / how 何如"), 3, 1.51<br/>
-[幾](word_detail.php?id=351 "how many 幾"), 3, 1.51<br/>
-[我](word_detail.php?id=321 "I / me 我"), 3, 1.51<br/>
-[必得](word_detail.php?id=18889 "must 必得"), 3, 1.51<br/>
-[真](word_detail.php?id=16934 "really / truely / genuinely 真"), 3, 1.51<br/>
-[非常](word_detail.php?id=1190 "very 非常"), 3, 1.51<br/>
-[汝](word_detail.php?id=6690 "you / thou 汝"), 3, 1.51<br/>
-[要](word_detail.php?id=336 "if 要"), 2, 1.01<br/>
-[常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常"), 2, 1.01<br/>
-[惟](word_detail.php?id=3900 "only / but 惟"), 2, 1.01<br/>
-[已](word_detail.php?id=1007 "already 已"), 2, 1.01<br/>
-[好](word_detail.php?id=10303 "indicates completion or readiness 好"), 2, 1.01<br/>
-[往](word_detail.php?id=10400 "in the direction of 往"), 2, 1.01<br/>
-[可謂](word_detail.php?id=5237 "it could even be said 可謂"), 2, 1.01<br/>
-[經](word_detail.php?id=30281 "often / regularly / frequently 經"), 2, 1.01<br/>
-[本](word_detail.php?id=2037 "this (city, week, etc) 本"), 2, 1.01<br/>
-[漸](word_detail.php?id=3872 "gradually 漸"), 2, 1.01<br/>
-[動](word_detail.php?id=31990 "often 動"), 2, 1.01<br/>
-[此](word_detail.php?id=624 "this, these 此"), 2, 1.01<br/>
-[老](word_detail.php?id=9326 "indicates seniority or age 老"), 2, 1.01<br/>
-[皆](word_detail.php?id=5046 "all / each and every / in all cases 皆"), 2, 1.01<br/>
-[時](word_detail.php?id=31047 "at that time 時"), 2, 1.01<br/>
-[夫](word_detail.php?id=17182 "this / that 夫"), 2, 1.01<br/>
-[唯](word_detail.php?id=6692 "yes 唯"), 2, 1.01<br/>
-[過](word_detail.php?id=1202 "too 過"), 2, 1.01<br/>
-[使](word_detail.php?id=30858 "if 使"), 2, 1.01<br/>
-[一一](word_detail.php?id=13599 "one by one / one after another 一一"), 1, 0.50<br/>
-[一切](word_detail.php?id=1490 "all / every / everything 一切"), 1, 0.50<br/>
-[須](word_detail.php?id=4497 "necessary / must 須"), 1, 0.50<br/>
-[再](word_detail.php?id=368 "again / once more / re- / second / another 再"), 1, 0.50<br/>
-[各](word_detail.php?id=282 "each / every 各"), 1, 0.50<br/>
-[千萬](word_detail.php?id=10946 "countless / many 千萬"), 1, 0.50<br/>
-[被](word_detail.php?id=426 "by 被"), 1, 0.50<br/>
-[未](word_detail.php?id=2188 "not yet / did not / have not / not 未"), 1, 0.50<br/>
-[萬分](word_detail.php?id=8881 "very much / extremely 萬分"), 1, 0.50<br/>
-[半](word_detail.php?id=1280 "incomplete 半"), 1, 0.50<br/>
-[近](word_detail.php?id=1045 "recently 近"), 1, 0.50<br/>
-[敢](word_detail.php?id=17195 "to dare to 敢"), 1, 0.50<br/>
-[願](word_detail.php?id=13692 "to be ready / to be willing 願"), 1, 0.50<br/>
-[非](word_detail.php?id=1003 "non- / not- / un- 非"), 1, 0.50<br/>
-[早](word_detail.php?id=31113 "already 早"), 1, 0.50<br/>
-[不得](word_detail.php?id=4507 "must not / may not / not be allowed / cannot 不得"), 1, 0.50<br/>
-[忽](word_detail.php?id=6114 "suddenly 忽"), 1, 0.50<br/>
-[如此](word_detail.php?id=3599 "in this way / so 如此"), 1, 0.50<br/>
-[尋](word_detail.php?id=31302 "often / frequently 尋"), 1, 0.50<br/>
-[君](word_detail.php?id=8338 "you 君"), 1, 0.50<br/>
-[多](word_detail.php?id=402 "more 多"), 1, 0.50<br/>
-[假](word_detail.php?id=4523 "if 假"), 1, 0.50<br/>
-[等](word_detail.php?id=17035 "plural 等"), 1, 0.50<br/>
-[不用](word_detail.php?id=10184 "need not 不用"), 1, 0.50<br/>
-[著](word_detail.php?id=29935 "expresses motion or a continuation of a state 著"), 1, 0.50<br/>
-[因](word_detail.php?id=3020 "because 因"), 1, 0.50<br/>
-[共](word_detail.php?id=2588 "all together / to share / in common / in general / all together / in total 共"), 1, 0.50<br/>
-[極](word_detail.php?id=1113 "extremely 極"), 1, 0.50<br/>
-[直](word_detail.php?id=11216 "directly / continuously 直"), 1, 0.50<br/>
-[絕](word_detail.php?id=1340 "absolutely 絕"), 1, 0.50<br/>
-[其實](word_detail.php?id=3428 "actually / in fact / really 其實"), 1, 0.50<br/>
-[雖](word_detail.php?id=3952 "although / even though 雖"), 1, 0.50<br/>
-[熟](word_detail.php?id=17369 "which? 熟"), 1, 0.50<br/>
-[將](word_detail.php?id=1317 "will, shall (future tense) 將"), 1, 0.50<br/>
-[莫](word_detail.php?id=6713 "do not / there is none / neither 莫"), 1, 0.50<br/>
-[焉](word_detail.php?id=17185 "where / how 焉"), 1, 0.50<br/>
-[從來](word_detail.php?id=3105 "always / at all times / never (if used in a negative sentence) 從來"), 1, 0.50<br/>
-[耶](word_detail.php?id=6557 "final interogative 耶"), 1, 0.50<br/>
-[遂](word_detail.php?id=16991 "thereupon 遂"), 1, 0.50<br/>
-[善哉](word_detail.php?id=29592 "excellent  善哉"), 1, 0.50<br/>
-[向](word_detail.php?id=526 "towards / to 向"), 1, 0.50<br/>
-[莫大](word_detail.php?id=27616 "greatest / most important 莫大"), 1, 0.50<br/>
-[邊](word_detail.php?id=20915 "on the one hand / on the other hand / doing while 邊"), 1, 0.50<br/>
-[就](word_detail.php?id=902 "right away / only / precisely 就"), 1, 0.50<br/>
-[反](word_detail.php?id=3542 "instead / anti- 反"), 1, 0.50<br/>
-[正](word_detail.php?id=11208 "just doing something 正"), 1, 0.50<br/>
-[照](word_detail.php?id=5045 "according to / in accordance with 照"), 1, 0.50<br/>
-[未有](word_detail.php?id=32208 "is not / has never been 未有"), 1, 0.50<br/>
-[具](word_detail.php?id=28823 "in detail / entirely / completely 具"), 1, 0.50<br/>
-[卻](word_detail.php?id=4854 "but / yet / however / while / nevertheless 卻"), 1, 0.50<br/>
-### Frequency of new words
-于, 6<br/>
-制, 1<br/>
-熏, 1<br/>
-万, 1<br/>
+[言](word_detail.php?id=30881 "a particle with no meaning 言") [a particle with no meaning], 47, 18.10<br/>
+[為](word_detail.php?id=372 "for / to 為") [for], 41, 15.79<br/>
+[之](word_detail.php?id=730 "him / her / it 之") [him], 38, 14.63<br/>
+[不](word_detail.php?id=502 "not / no 不") [not], 34, 13.09<br/>
+[者](word_detail.php?id=671 "used after a verb to indicate a person who does the action 者") [used after a verb to indicate a person who does the action], 27, 10.40<br/>
+[以](word_detail.php?id=650 "so as to 以") [so as to], 25, 9.63<br/>
+[得](word_detail.php?id=411 "a sentence particle used after a verb to show effect / degree or possibility 得") [a sentence particle used after a verb to show effect], 24, 9.24<br/>
+[其](word_detail.php?id=1574 "his / her / its / theirs / that 其") [his], 22, 8.47<br/>
+[一](word_detail.php?id=11131 "as soon as / throughout 一") [as soon as], 19, 7.32<br/>
+[吾](word_detail.php?id=17099 "I / my 吾") [I], 19, 7.32<br/>
+[有](word_detail.php?id=398 "is / are 有") [is], 18, 6.93<br/>
+[無](word_detail.php?id=1843 "-less / no / none / not / un- / regardless of 無") [-less], 18, 6.93<br/>
+[矣](word_detail.php?id=8355 "final particle 矣") [final particle], 16, 6.16<br/>
+[即](word_detail.php?id=1964 " promptly / right away 即") [promptly], 16, 6.16<br/>
+[自](word_detail.php?id=2806 "naturally / of course / certainly 自") [naturally], 15, 5.78<br/>
+[難](word_detail.php?id=1209 "hardly possible 難") [hardly possible], 14, 5.39<br/>
+[在](word_detail.php?id=328 "in / at 在") [in], 14, 5.39<br/>
+[何](word_detail.php?id=3087 "what / how / why / which 何") [what], 13, 5.01<br/>
+[生](word_detail.php?id=30576 "very / extremely 生") [very], 13, 5.01<br/>
+[猶](word_detail.php?id=7929 "also / as if / still 猶") [also], 12, 4.62<br/>
+[也](word_detail.php?id=925 "also 也") [also], 12, 4.62<br/>
+[不如](word_detail.php?id=20848 "inferior to / it would be better to 不如") [inferior to], 11, 4.24<br/>
+[如](word_detail.php?id=2567 "if 如") [if], 11, 4.24<br/>
+[亦](word_detail.php?id=5060 "also 亦") [also], 11, 4.24<br/>
+[身](word_detail.php?id=30079 "personally 身") [personally], 10, 3.85<br/>
+[善](word_detail.php?id=30110 "numerous / frequent / easy 善") [numerous], 10, 3.85<br/>
+[而](word_detail.php?id=1336 "and / as well as / but (not) / yet (not) 而") [and], 9, 3.47<br/>
+[所](word_detail.php?id=1198 "introduces a relative clause 所") [introduces a relative clause], 9, 3.47<br/>
+[惡](word_detail.php?id=17796 "how? 惡") [how?], 9, 3.47<br/>
+[與](word_detail.php?id=509 "and 與") [and], 8, 3.08<br/>
+[來](word_detail.php?id=371 "indicates an approximate quantity 來") [indicates an approximate quantity], 8, 3.08<br/>
+[見](word_detail.php?id=17665 "passive marker 見") [passive marker], 8, 3.08<br/>
+[去](word_detail.php?id=27849 "in / at 去") [in], 8, 3.08<br/>
+[子](word_detail.php?id=9327 "indicates that the the word is used as a noun 子") [indicates that the the word is used as a noun], 8, 3.08<br/>
+[彼](word_detail.php?id=6890 "that / those 彼") [that], 8, 3.08<br/>
+[於](word_detail.php?id=1710 "in / at / to / from 於") [in], 8, 3.08<br/>
+[必](word_detail.php?id=2270 "certainly / must / will / necessarily 必") [certainly], 6, 2.31<br/>
+[慎](word_detail.php?id=31993 "do not 慎") [do not], 6, 2.31<br/>
+[除](word_detail.php?id=622 "except 除") [except], 6, 2.31<br/>
+[爾](word_detail.php?id=3811 "thus / so / like that / you / thou 爾") [thus], 6, 2.31<br/>
+[當](word_detail.php?id=1167 "at or in the very same 當") [at or in the very same], 6, 2.31<br/>
+[間](word_detail.php?id=32952 "between / among 間") [between], 6, 2.31<br/>
+[斷](word_detail.php?id=789 "absolutely / decidedly (in negative constructions) 斷") [absolutely], 6, 2.31<br/>
+[若](word_detail.php?id=2850 "for example 若") [for example], 6, 2.31<br/>
+[至](word_detail.php?id=844 "arrive / to / until 至") [arrive], 6, 2.31<br/>
+[于](word_detail.php?id=33038 "in / at / to / from 于") [in], 6, 2.31<br/>
+[諸](word_detail.php?id=3556 "all / many / various 諸") [all], 6, 2.31<br/>
+[甚](word_detail.php?id=3447 "what 甚") [what], 5, 1.93<br/>
+[終](word_detail.php?id=16799 "in the end 終") [in the end], 5, 1.93<br/>
+[還](word_detail.php?id=397 "also / in addition / more 還") [also], 5, 1.93<br/>
+[既](word_detail.php?id=1457 "already / since 既") [already], 5, 1.93<br/>
+[上](word_detail.php?id=585 "the position on or above something 上") [the position on or above something], 5, 1.93<br/>
+[能](word_detail.php?id=1263 "can / able 能") [can], 5, 1.93<br/>
+[中](word_detail.php?id=32951 "middle / during 中") [middle], 5, 1.93<br/>
+[眾](word_detail.php?id=29896 "again 眾") [again], 4, 1.54<br/>
+[己](word_detail.php?id=6800 "self 己") [self], 4, 1.54<br/>
+[從](word_detail.php?id=1383 "from 從") [from], 4, 1.54<br/>
+[深](word_detail.php?id=27832 "very 深") [very], 4, 1.54<br/>
+[歸](word_detail.php?id=12226 "indicates responsiblity 歸") [indicates responsiblity], 4, 1.54<br/>
+[最](word_detail.php?id=945 "most 最") [most], 4, 1.54<br/>
+[斯](word_detail.php?id=3458 "this 斯") [this], 4, 1.54<br/>
+[對](word_detail.php?id=723 "to 對") [to], 4, 1.54<br/>
+[然](word_detail.php?id=3300 "so / thus 然") [so], 4, 1.54<br/>
+[盡](word_detail.php?id=17905 "all / every 盡") [all], 4, 1.54<br/>
+[會](word_detail.php?id=606 "able to 會") [able to], 4, 1.54<br/>
+[邪](word_detail.php?id=17904 "interrogative particle 邪") [interrogative particle], 4, 1.54<br/>
+[復](word_detail.php?id=4048 "again 復") [again], 3, 1.16<br/>
+[重](word_detail.php?id=14301 "again 重") [again], 3, 1.16<br/>
+[止](word_detail.php?id=4427 "until 止") [until], 3, 1.16<br/>
+[陰](word_detail.php?id=27772 "in secret / in private 陰") [in secret], 3, 1.16<br/>
+[耳](word_detail.php?id=17675 "and that is all 耳") [and that is all], 3, 1.16<br/>
+[乃](word_detail.php?id=5071 "thus / so / therefore / then / only / thereupon 乃") [thus], 3, 1.16<br/>
+[故](word_detail.php?id=14849 "so 故") [so], 3, 1.16<br/>
+[都](word_detail.php?id=757 "all 都") [all], 3, 1.16<br/>
+[或](word_detail.php?id=2027 "or 或") [or], 3, 1.16<br/>
+[乎](word_detail.php?id=3641 "expresses question or doubt 乎") [expresses question or doubt], 3, 1.16<br/>
+[可](word_detail.php?id=1251 "but 可") [but], 3, 1.16<br/>
+[數](word_detail.php?id=2820 "frequently / repeatedly  數") [frequently], 3, 1.16<br/>
+[何如](word_detail.php?id=17186 "what / how 何如") [what], 3, 1.16<br/>
+[幾](word_detail.php?id=351 "how many 幾") [how many], 3, 1.16<br/>
+[我](word_detail.php?id=321 "I / me 我") [I], 3, 1.16<br/>
+[必得](word_detail.php?id=18889 "must 必得") [must], 3, 1.16<br/>
+[真](word_detail.php?id=16934 "really / truely / genuinely 真") [really], 3, 1.16<br/>
+[非常](word_detail.php?id=1190 "very 非常") [very], 3, 1.16<br/>
+[汝](word_detail.php?id=6690 "you / thou 汝") [you], 3, 1.16<br/>
+[要](word_detail.php?id=336 "if 要") [if], 2, 0.77<br/>
+[外](word_detail.php?id=32955 "outside 外") [outside], 2, 0.77<br/>
+[常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常") [always], 2, 0.77<br/>
+[惟](word_detail.php?id=3900 "only / but 惟") [only], 2, 0.77<br/>
+[經](word_detail.php?id=30281 "often / regularly / frequently 經") [often], 2, 0.77<br/>
+[已](word_detail.php?id=1007 "already 已") [already], 2, 0.77<br/>
+[好](word_detail.php?id=10303 "indicates completion or readiness 好") [indicates completion or readiness], 2, 0.77<br/>
+[往](word_detail.php?id=10400 "in the direction of 往") [in the direction of], 2, 0.77<br/>
+[可謂](word_detail.php?id=5237 "it could even be said 可謂") [it could even be said], 2, 0.77<br/>
+[內](word_detail.php?id=32954 "inside / interior 內") [inside], 2, 0.77<br/>
+[本](word_detail.php?id=2037 "this (city, week, etc) 本") [this (city, week, etc)], 2, 0.77<br/>
+[漸](word_detail.php?id=3872 "gradually 漸") [gradually], 2, 0.77<br/>
+[下](word_detail.php?id=580 "next 下") [next], 2, 0.77<br/>
+[動](word_detail.php?id=31990 "often 動") [often], 2, 0.77<br/>
+[此](word_detail.php?id=624 "this, these 此") [this, these], 2, 0.77<br/>
+[老](word_detail.php?id=9326 "indicates seniority or age 老") [indicates seniority or age], 2, 0.77<br/>
+[皆](word_detail.php?id=5046 "all / each and every / in all cases 皆") [all], 2, 0.77<br/>
+[時](word_detail.php?id=31047 "at that time 時") [at that time], 2, 0.77<br/>
+[夫](word_detail.php?id=17182 "this / that 夫") [this], 2, 0.77<br/>
+[唯](word_detail.php?id=6692 "yes 唯") [yes], 2, 0.77<br/>
+[過](word_detail.php?id=1202 "too 過") [too], 2, 0.77<br/>
+[使](word_detail.php?id=30858 "if 使") [if], 2, 0.77<br/>
+
+### Frequency of New Words
+None<br/>

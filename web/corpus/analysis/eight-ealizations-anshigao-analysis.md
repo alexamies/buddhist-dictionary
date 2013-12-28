@@ -1,198 +1,80 @@
-## Vocabulary for source document Sūtra on the Eight Realizations of the Great Beings
+## Vocabulary analysis for source document Sūtra on the Eight Realizations of the Great Beings 佛說八大人覺經
 Source file: eight-ealizations-anshigao.txt<br/>
+Document Source URL: corpus_entry.php?uri=eight-ealizations-anshigao.md<br/>
 Source: Taisho Tripitaka<br/>
 Reference: Vol. 17, No. 779<br/>
 Translator: An Shih Kao<br/>
-Lines read: 27<br/>
+Start marker: 為佛弟子<br/>
+End marker: 本網站係採用<br/>
 ### Word count
-Word count: 259, unique words: 182, known words: 182, new words: 0
+Word count: 336, unique words: 182, known words: 182, new words: 0
+
+### Phrase Memory Matches
+Phrase, Part-of-Speech Tagged Phrase, Source
+
+八事, 八/CD[bā | eight] 事/NN[shì | thing] &lt;eight things&gt;, Sūtra on the Eight Realizations
+
+佛弟子, 佛/NR[Fó | Buddha] 弟子/NN[dìzi | disciple] &lt;Buddhist disciple&gt;, Sūtra on the Eight Realizations
+
+常念, 常/AD[cháng | frequently] 念/VV[niàn | recite] &lt;frequently recite&gt;, Sūtra on the Eight Realizations
+
+### Frequency of N-grams with frequency greater than 2
+八事, 3<br/>
+令諸眾, 2<br/>
+五欲, 2<br/>
+大樂, 2<br/>
+佛弟子, 2<br/>
+令諸眾生, 2<br/>
+諸眾生, 2<br/>
+常念, 2<br/>
 ### Frequency of non-function words:
+For words with frequency greater than 1
+
 Word, frequency, relative frequency per 1000 words
 
-[念](word_detail.php?id=3905 "to read aloud / to recite 念"), 7, 27.03<br/>
-[生死](word_detail.php?id=18496 "Sansara / Samsara 生死"), 7, 27.03<br/>
-[覺知](word_detail.php?id=3897 "awareness 覺知"), 5, 19.31<br/>
-[欲](word_detail.php?id=3889 "desire 欲"), 4, 15.44<br/>
-[菩薩](word_detail.php?id=3166 "bodhisattva 菩薩"), 4, 15.44<br/>
-[覺悟](word_detail.php?id=3861 "awareness 覺悟"), 4, 15.44<br/>
-[苦](word_detail.php?id=3864 "bitter 苦"), 4, 15.44<br/>
-[事](word_detail.php?id=1219 "matter / thing / item 事"), 3, 11.58<br/>
-[五](word_detail.php?id=305 "five 五"), 3, 11.58<br/>
-[樂](word_detail.php?id=3930 "happy / cheerful / joyful 樂"), 3, 11.58<br/>
-[心](word_detail.php?id=1849 "heart 心"), 3, 11.58<br/>
-[佛](word_detail.php?id=3618 "Buddha / Awakened One 佛"), 3, 11.58<br/>
-[八](word_detail.php?id=308 "eight 八"), 3, 11.58<br/>
-[無量](word_detail.php?id=20347 "unlimited / immeasurable 無量"), 3, 11.58<br/>
-[行](word_detail.php?id=1259 "capable / competent 行"), 2, 7.72<br/>
-[罪](word_detail.php?id=3869 "an offense / guilt / a crime / a sin 罪"), 2, 7.72<br/>
-[精進](word_detail.php?id=3912 "diligence / perseverance 精進"), 2, 7.72<br/>
-[守道](word_detail.php?id=21524 "to practice 守道"), 2, 7.72<br/>
-[道](word_detail.php?id=3247 "direction / way / method / road / path 道"), 2, 7.72<br/>
-[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生"), 2, 7.72<br/>
-[增長](word_detail.php?id=847 "to increase 增長"), 2, 7.72<br/>
-[慧](word_detail.php?id=3904 "wisdom / understanding 慧"), 2, 7.72<br/>
-[慈悲](word_detail.php?id=3951 "mercy / compassion 慈悲"), 2, 7.72<br/>
-[大](word_detail.php?id=1114 "big / great / huge / large / major 大"), 2, 7.72<br/>
-[弟子](word_detail.php?id=3172 "disciple 弟子"), 2, 7.72<br/>
-[諸眾](word_detail.php?id=30771 "numerous 諸眾"), 2, 7.72<br/>
-[離](word_detail.php?id=3222 "to leave / to depart / to go away / from 離"), 2, 7.72<br/>
-[成就](word_detail.php?id=807 "accomplishment / success 成就"), 1, 3.86<br/>
-[脆](word_detail.php?id=3863 "fragile / crispy 脆"), 1, 3.86<br/>
-[煩惱](word_detail.php?id=3914 "vexed 煩惱"), 1, 3.86<br/>
-[大人](word_detail.php?id=10570 "adult / grownup 大人"), 1, 3.86<br/>
-[第五](word_detail.php?id=28810 "fifth 第五"), 1, 3.86<br/>
-[自在](word_detail.php?id=3893 "at ease 自在"), 1, 3.86<br/>
-[無常](word_detail.php?id=3163 "impermanence 無常"), 1, 3.86<br/>
-[無主](word_detail.php?id=21242 "impermanence 無主"), 1, 3.86<br/>
-[陰界](word_detail.php?id=21666 "the five skandhas and the eighteen dhatu 陰界"), 1, 3.86<br/>
-[怨](word_detail.php?id=3936 "to blame / to complain 怨"), 1, 3.86<br/>
-[厭](word_detail.php?id=3899 "to loathe / to pursue 厭"), 1, 3.86<br/>
-[無我](word_detail.php?id=3164 "selflessness / non-self 無我"), 1, 3.86<br/>
-[破](word_detail.php?id=3913 "to break / to split / to be damaged / to be worn out 破"), 1, 3.86<br/>
-[第二](word_detail.php?id=395 "second 第二"), 1, 3.86<br/>
-[貪欲](word_detail.php?id=28013 "raga / attachment / passion / desire 貪欲"), 1, 3.86<br/>
-[生滅](word_detail.php?id=26933 "life and death 生滅"), 1, 3.86<br/>
-[第四](word_detail.php?id=32888 "fourth / the fourth is 第四"), 1, 3.86<br/>
-[廣](word_detail.php?id=1626 "wide / large / vast 廣"), 1, 3.86<br/>
-[形](word_detail.php?id=3879 "appearance 形"), 1, 3.86<br/>
-[國土](word_detail.php?id=3874 "homeland / country 國土"), 1, 3.86<br/>
-[發](word_detail.php?id=1603 "to send out / to show / to issue 發"), 1, 3.86<br/>
-[身心](word_detail.php?id=21056 "body and mind 身心"), 1, 3.86<br/>
-[第七](word_detail.php?id=28843 "seventh 第七"), 1, 3.86<br/>
-[第一](word_detail.php?id=394 "first 第一"), 1, 3.86<br/>
-[四魔](word_detail.php?id=21661 "the four kinds of evil 四魔"), 1, 3.86<br/>
-[涅槃](word_detail.php?id=17983 "Nirvana / Nirvāṇa 涅槃"), 1, 3.86<br/>
-[第三](word_detail.php?id=28480 "third 第三"), 1, 3.86<br/>
-[源](word_detail.php?id=1367 "root / source / origin 源"), 1, 3.86<br/>
-[多聞](word_detail.php?id=27449 "Vaisravaṇa / Vaisravaṇa Deva King of the North 多聞"), 1, 3.86<br/>
-[無為](word_detail.php?id=23018 "to let things take their own course 無為"), 1, 3.86<br/>
-[墜](word_detail.php?id=3911 "to fall 墜"), 1, 3.86<br/>
-[速](word_detail.php?id=852 "speed 速"), 1, 3.86<br/>
-[菩提](word_detail.php?id=3174 "Bodhi / enlightenment / awakening 菩提"), 1, 3.86<br/>
-[親](word_detail.php?id=3580 "related by blood or marriage / dear / intimate / closely related 親"), 1, 3.86<br/>
-[愚癡](word_detail.php?id=21779 "ignorance / stupidity 愚癡"), 1, 3.86<br/>
-[疲](word_detail.php?id=12999 "weary 疲"), 1, 3.86<br/>
-[岸](word_detail.php?id=3643 "bank / shore / beach / coast 岸"), 1, 3.86<br/>
-[三衣](word_detail.php?id=22161 "the three robes of monk 三衣"), 1, 3.86<br/>
-[覺](word_detail.php?id=3894 "to feel / to find that / to think / to be awake / to be aware / to realize 覺"), 1, 3.86<br/>
-[熾](word_detail.php?id=3955 "flame / blaze 熾"), 1, 3.86<br/>
-[貧苦](word_detail.php?id=3934 "poverty-stricken / poor 貧苦"), 1, 3.86<br/>
-[至心](word_detail.php?id=29307 "sincerity 至心"), 1, 3.86<br/>
-[出家](word_detail.php?id=3770 "to become a monk 出家"), 1, 3.86<br/>
-[高遠](word_detail.php?id=3950 "lofty 高遠"), 1, 3.86<br/>
-[藪](word_detail.php?id=3870 "marsh 藪"), 1, 3.86<br/>
-[業](word_detail.php?id=1091 "business / occupation / industry 業"), 1, 3.86<br/>
-[大乘](word_detail.php?id=3616 "Mahayana / the Great Vehicle 大乘"), 1, 3.86<br/>
-[危](word_detail.php?id=3862 "dangerous, precarious 危"), 1, 3.86<br/>
-[四大](word_detail.php?id=3875 "the four elements 四大"), 1, 3.86<br/>
-[登](word_detail.php?id=4062 "to scale / to climb / to ascend / to mount / to go up 登"), 1, 3.86<br/>
-[出](word_detail.php?id=275 "to go out 出"), 1, 3.86<br/>
-[安貧](word_detail.php?id=21657 "to be content with a simple life 安貧"), 1, 3.86<br/>
-[快樂](word_detail.php?id=4065 "happy / merry 快樂"), 1, 3.86<br/>
-[辯才](word_detail.php?id=3921 "eloquence 辯才"), 1, 3.86<br/>
-[悉](word_detail.php?id=3922 "to know / to learn / to be informed of 悉"), 1, 3.86<br/>
-[舊](word_detail.php?id=3940 "old / former 舊"), 1, 3.86<br/>
-[世](word_detail.php?id=809 "life / generation / era / world / lifetime 世"), 1, 3.86<br/>
-[以前](word_detail.php?id=8509 "before / formerly / previous / ago 以前"), 1, 3.86<br/>
-[乃是](word_detail.php?id=4042 "to be 乃是"), 1, 3.86<br/>
-[勞](word_detail.php?id=9495 "to toil 勞"), 1, 3.86<br/>
-[足](word_detail.php?id=3631 "sufficient 足"), 1, 3.86<br/>
-[教化](word_detail.php?id=21926 "to civilize / to cultivate / to enlighten / to educate 教化"), 1, 3.86<br/>
-[求](word_detail.php?id=1700 "to request 求"), 1, 3.86<br/>
-[滅](word_detail.php?id=568 "to extinguish / to destroy 滅"), 1, 3.86<br/>
-[獄](word_detail.php?id=3917 "prison 獄"), 1, 3.86<br/>
-[結](word_detail.php?id=3938 "to bond / to tie / to bind 結"), 1, 3.86<br/>
-[染](word_detail.php?id=3945 "to catch / to pursue 染"), 1, 3.86<br/>
-[世間](word_detail.php?id=3873 "world 世間"), 1, 3.86<br/>
-[代](word_detail.php?id=3962 "to represent / to substitute / to replace 代"), 1, 3.86<br/>
-[受](word_detail.php?id=1978 "to receive / to accept / to suffer / to be subjected to 受"), 1, 3.86<br/>
-[聖](word_detail.php?id=3181 "holy / sacred / spiritual 聖"), 1, 3.86<br/>
-[度脫](word_detail.php?id=29591 "to save / to rescue / to relieve them from the suffering of this world and take them nirvana  度脫"), 1, 3.86<br/>
-[罪惡](word_detail.php?id=13887 "sin / evil 罪惡"), 1, 3.86<br/>
-[濟](word_detail.php?id=3957 "to aid / to ferry 濟"), 1, 3.86<br/>
-[緣](word_detail.php?id=3310 "cause / reason / karma / fate / predestined affinity 緣"), 1, 3.86<br/>
-[鉢](word_detail.php?id=24497 "an alms bowl / patra 鉢"), 1, 3.86<br/>
-[梵行](word_detail.php?id=22109 "to live peacefully and free from desires 梵行"), 1, 3.86<br/>
-[變異](word_detail.php?id=3866 "to change / to transform 變異"), 1, 3.86<br/>
-[普](word_detail.php?id=3457 "general / popular / everywhere / universal 普"), 1, 3.86<br/>
-[摧伏](word_detail.php?id=21844 "to subdue / to control 摧伏"), 1, 3.86<br/>
-[學](word_detail.php?id=3924 "to study / to learn 學"), 1, 3.86<br/>
-[懈怠](word_detail.php?id=21660 "slackness / laziness 懈怠"), 1, 3.86<br/>
-[空](word_detail.php?id=3876 "empty / void 空"), 1, 3.86<br/>
-[俗人](word_detail.php?id=22108 "common people / laity 俗人"), 1, 3.86<br/>
-[誦念](word_detail.php?id=3173 "Chant / recite 誦念"), 1, 3.86<br/>
-[修心](word_detail.php?id=22306 "to cultivate one's nature 修心"), 1, 3.86<br/>
-[智慧](word_detail.php?id=3928 "wisdom / knowledge 智慧"), 1, 3.86<br/>
-[第八](word_detail.php?id=28846 "Eighth 第八"), 1, 3.86<br/>
-[少](word_detail.php?id=1449 "few / little 少"), 1, 3.86<br/>
-[修](word_detail.php?id=3676 "to decorate / to embellish / to repair / to build 修"), 1, 3.86<br/>
-[志願](word_detail.php?id=3948 "aspiration / wish / ideal 志願"), 1, 3.86<br/>
-[冤](word_detail.php?id=13674 "injustice / grievance 冤"), 1, 3.86<br/>
-[誦](word_detail.php?id=4060 "to recite / to read aloud 誦"), 1, 3.86<br/>
-[中](word_detail.php?id=332 "middle / during 中"), 1, 3.86<br/>
-[觀察](word_detail.php?id=3871 "to observe 觀察"), 1, 3.86<br/>
-[清白](word_detail.php?id=3949 "pure 清白"), 1, 3.86<br/>
-[進趣](word_detail.php?id=22287 "to enter into 進趣"), 1, 3.86<br/>
-[船](word_detail.php?id=3781 "boat / vessel / ship 船"), 1, 3.86<br/>
-[人](word_detail.php?id=399 "person / people 人"), 1, 3.86<br/>
-[落](word_detail.php?id=1264 "to fall / to drop 落"), 1, 3.86<br/>
-[苦惱](word_detail.php?id=3956 "annoyed / distressed / vexed 苦惱"), 1, 3.86<br/>
-[起](word_detail.php?id=1257 "to get up 起"), 1, 3.86<br/>
-[憎惡](word_detail.php?id=3942 "to loathe / to hate 憎惡"), 1, 3.86<br/>
-[過患](word_detail.php?id=22136 "suffering and hardship 過患"), 1, 3.86<br/>
-[正覺](word_detail.php?id=22335 "samadhi 正覺"), 1, 3.86<br/>
-[知足](word_detail.php?id=3901 "to be content 知足"), 1, 3.86<br/>
-[乘法](word_detail.php?id=4043 "multiplication 乘法"), 1, 3.86<br/>
-[常住](word_detail.php?id=21225 "permanence 常住"), 1, 3.86<br/>
-[八大人覺](word_detail.php?id=4074 "Sutra on the Eight Realizations of the Great Beings 八大人覺"), 1, 3.86<br/>
-[第六](word_detail.php?id=28811 "sixth 第六"), 1, 3.86<br/>
-[開導](word_detail.php?id=21016 "to straighten something out / to enlighten 開導"), 1, 3.86<br/>
-[布施](word_detail.php?id=3941 "dana / the practice of giving / generosity 布施"), 1, 3.86<br/>
-[瓶](word_detail.php?id=9619 "bottle / vase / pitcher 瓶"), 1, 3.86<br/>
-[偽](word_detail.php?id=16303 "false / fake / forged / bogus 偽"), 1, 3.86<br/>
-[法器](word_detail.php?id=22163 "a Dharma instrument 法器"), 1, 3.86<br/>
+[念](word_detail.php?id=3905 "to read aloud / to recite 念") [to read aloud], 7, 20.83<br/>
+[生死](word_detail.php?id=18496 "Sansara / Samsara 生死") [Sansara], 7, 20.83<br/>
+[覺知](word_detail.php?id=3897 "awareness 覺知") [awareness], 5, 14.88<br/>
+[欲](word_detail.php?id=3889 "desire 欲") [desire], 4, 11.90<br/>
+[菩薩](word_detail.php?id=3166 "bodhisattva 菩薩") [bodhisattva], 4, 11.90<br/>
+[覺悟](word_detail.php?id=3861 "awareness 覺悟") [awareness], 4, 11.90<br/>
+[苦](word_detail.php?id=3864 "bitter 苦") [bitter], 4, 11.90<br/>
+[事](word_detail.php?id=1219 "matter / thing / item 事") [matter], 3, 8.93<br/>
+[五](word_detail.php?id=305 "five 五") [five], 3, 8.93<br/>
+[樂](word_detail.php?id=3930 "happy / cheerful / joyful 樂") [happy], 3, 8.93<br/>
+[心](word_detail.php?id=1849 "heart 心") [heart], 3, 8.93<br/>
+[佛](word_detail.php?id=3618 "Buddha / Awakened One 佛") [Buddha], 3, 8.93<br/>
+[八](word_detail.php?id=308 "eight 八") [eight], 3, 8.93<br/>
+[無量](word_detail.php?id=20347 "unlimited / immeasurable 無量") [unlimited], 3, 8.93<br/>
+[行](word_detail.php?id=1259 "capable / competent 行") [capable], 2, 5.95<br/>
+[罪](word_detail.php?id=3869 "an offense / guilt / a crime / a sin 罪") [an offense], 2, 5.95<br/>
+[精進](word_detail.php?id=3912 "diligence / perseverance 精進") [diligence], 2, 5.95<br/>
+[守道](word_detail.php?id=21524 "to practice 守道") [to practice], 2, 5.95<br/>
+[道](word_detail.php?id=3247 "direction / way / method / road / path 道") [direction], 2, 5.95<br/>
+[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生") [All living things], 2, 5.95<br/>
+[增長](word_detail.php?id=847 "to increase 增長") [to increase], 2, 5.95<br/>
+[慧](word_detail.php?id=3904 "wisdom / understanding 慧") [wisdom], 2, 5.95<br/>
+[慈悲](word_detail.php?id=3951 "mercy / compassion 慈悲") [mercy], 2, 5.95<br/>
+[大](word_detail.php?id=1114 "big / great / huge / large / major 大") [big], 2, 5.95<br/>
+[弟子](word_detail.php?id=3172 "disciple 弟子") [disciple], 2, 5.95<br/>
+[諸眾](word_detail.php?id=30771 "numerous 諸眾") [numerous], 2, 5.95<br/>
+[離](word_detail.php?id=3222 "to leave / to depart / to go away / from 離") [to leave], 2, 5.95<br/>
 ### Frequency of function words:
+For words with frequency greater than 1
+
 Word, frequency, relative frequency per 1000 words
 
-[一切](word_detail.php?id=1490 "all / every / everything 一切"), 4, 15.44<br/>
-[不](word_detail.php?id=502 "not / no 不"), 4, 15.44<br/>
-[為](word_detail.php?id=372 "for / to 為"), 4, 15.44<br/>
-[惡](word_detail.php?id=17796 "how? 惡"), 4, 15.44<br/>
-[常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常"), 4, 15.44<br/>
-[多](word_detail.php?id=402 "more 多"), 3, 11.58<br/>
-[唯](word_detail.php?id=6692 "yes 唯"), 2, 7.72<br/>
-[生](word_detail.php?id=30576 "very / extremely 生"), 2, 7.72<br/>
-[是](word_detail.php?id=17908 "this / that 是"), 2, 7.72<br/>
-[於](word_detail.php?id=1710 "in / at / to / from 於"), 2, 7.72<br/>
-[令](word_detail.php?id=31974 "if 令"), 2, 7.72<br/>
-[所](word_detail.php?id=1198 "introduces a relative clause 所"), 1, 3.86<br/>
-[以](word_detail.php?id=650 "so as to 以"), 1, 3.86<br/>
-[雖](word_detail.php?id=3952 "although / even though 雖"), 1, 3.86<br/>
-[漸](word_detail.php?id=3872 "gradually 漸"), 1, 3.86<br/>
-[得](word_detail.php?id=411 "a sentence particle used after a verb to show effect / degree or possibility 得"), 1, 3.86<br/>
-[從](word_detail.php?id=1383 "from 從"), 1, 3.86<br/>
-[無](word_detail.php?id=1843 "-less / no / none / not / un- / regardless of 無"), 1, 3.86<br/>
-[復](word_detail.php?id=4048 "again 復"), 1, 3.86<br/>
-[身](word_detail.php?id=30079 "personally 身"), 1, 3.86<br/>
-[如是](word_detail.php?id=8840 "so / thus 如是"), 1, 3.86<br/>
-[斷](word_detail.php?id=789 "absolutely / decidedly (in negative constructions) 斷"), 1, 3.86<br/>
-[然](word_detail.php?id=3300 "so / thus 然"), 1, 3.86<br/>
-[永](word_detail.php?id=4064 "forever / always / perpetual 永"), 1, 3.86<br/>
-[爾](word_detail.php?id=3811 "thus / so / like that / you / thou 爾"), 1, 3.86<br/>
-[等](word_detail.php?id=17035 "plural 等"), 1, 3.86<br/>
-[晝夜](word_detail.php?id=4073 "continuously 晝夜"), 1, 3.86<br/>
-[之](word_detail.php?id=730 "him / her / it 之"), 1, 3.86<br/>
-[還](word_detail.php?id=397 "also / in addition / more 還"), 1, 3.86<br/>
-[願](word_detail.php?id=13692 "to be ready / to be willing 願"), 1, 3.86<br/>
-[虛](word_detail.php?id=31913 "in vain / to no purpose / for nothing 虛"), 1, 3.86<br/>
-[此](word_detail.php?id=624 "this, these 此"), 1, 3.86<br/>
-[如此](word_detail.php?id=3599 "in this way / so 如此"), 1, 3.86<br/>
-[若](word_detail.php?id=2850 "for example 若"), 1, 3.86<br/>
-[捨](word_detail.php?id=30025 "my 捨"), 1, 3.86<br/>
-[橫](word_detail.php?id=12284 "humph 橫"), 1, 3.86<br/>
-[陰](word_detail.php?id=27772 "in secret / in private 陰"), 1, 3.86<br/>
-[至](word_detail.php?id=844 "arrive / to / until 至"), 1, 3.86<br/>
-[諸](word_detail.php?id=17036 "plural 諸"), 1, 3.86<br/>
-[畢竟](word_detail.php?id=3959 "after all / all in all 畢竟"), 1, 3.86<br/>
-### Frequency of new words
+[一切](word_detail.php?id=1490 "all / every / everything 一切") [all], 4, 11.90<br/>
+[不](word_detail.php?id=502 "not / no 不") [not], 4, 11.90<br/>
+[為](word_detail.php?id=372 "for / to 為") [for], 4, 11.90<br/>
+[惡](word_detail.php?id=17796 "how? 惡") [how?], 4, 11.90<br/>
+[常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常") [always], 4, 11.90<br/>
+[多](word_detail.php?id=402 "more 多") [more], 3, 8.93<br/>
+[唯](word_detail.php?id=6692 "yes 唯") [yes], 2, 5.95<br/>
+[生](word_detail.php?id=30576 "very / extremely 生") [very], 2, 5.95<br/>
+[是](word_detail.php?id=17908 "this / that 是") [this], 2, 5.95<br/>
+[於](word_detail.php?id=1710 "in / at / to / from 於") [in], 2, 5.95<br/>
+[令](word_detail.php?id=31974 "if 令") [if], 2, 5.95<br/>
+
+### Frequency of New Words
 None<br/>

@@ -12,7 +12,7 @@ Translator: Kumārajīva
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
-Document: [Diamond Sutra Chinese Text] (http://tripitaka.cbeta.org/T12n0366_001 "Amitābha Sutra Chinese Text")
+Document: [CBETA Chinese Text] (http://tripitaka.cbeta.org/T12n0366_001 "CBETA Chinese Text")
 
 Alternate formats: [Plain text file] (corpus/amitabha-sutra-kumarajiva.txt "Amitābha Sutra Plain Text")
 

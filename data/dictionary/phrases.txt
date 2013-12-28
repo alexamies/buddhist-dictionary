@@ -52,6 +52,85 @@
 52	弗星出時	弗星/NR[Fúxīng | Puṣya] 出/VV[chū | appear] 時/AD[shí | at that time] <at the time that Puṣya appeared>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
 53	七日	七/CD[qī |seven] 日/NN[rì | day] <seven days>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
 54	弗星出	弗星/NR[Fúxīng | Puṣya] 出/VV[chū | appear] <Puṣya appeared>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
-55	八月八日	八月/NT[eighth month] 八/OD[eight] 日/NT[rì | day] <eighth day of the eighth month>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
-56	二月八日	二月/NT[second month] 八/OD[eight] 日/NT[rì | day] <eighth day of the eighth month>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
-
+55	八月八日	八月/NT[bāyuè | eighth month] 八/OD[bā | eight] 日/NT[rì | day] <eighth day of the eighth month>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
+56	二月八日	二月/NT[èryuè | second month] 八/OD[bā | eight] 日/NT[rì | day] <eighth day of the eighth month>	\N	18	Sarvāstivādavinayavibhāṣā, Scroll 2
+57	四寸	四/CD[sì | four] 寸/NN[cùn | inch] <four inches>	\N	20	Shi Er You Sūtra, Scroll 1
+58	有二子	有/VC[yǒu | have] 二/CD[èr | two] 子/NN[zǐ | son] <had two sons>	\N	20	Shi Er You Sūtra, Scroll 1
+59	長子名	長子/NN[zhǎngzǐ | eldest son] 名/VV [míng | named] <the eldest son was named>	\N	20	Shi Er You Sūtra, Scroll 1
+60	小子名	小子/NN[xiǎozi | youngest son] 名/VV [míng | named] <the youngest son was named>	\N	20	Shi Er You Sūtra, Scroll 1
+61	依般若波羅蜜多故	依P/[yī | maintain] 般若波羅蜜多/NR[bānruòbōluómìduō | prajñāpāramitā] 故/[gù | cause] <maintain prajñāpāramitā>	\N	3	Prajñāpāramitā Heart Sūtra
+62	度一切苦厄	度/VV[dù | overcome] 一切/DT[yīqiè | all] 苦厄/NN[kŭ è | suffering] <overcoming all suffering>	\N	3	Prajñāpāramitā Heart Sūtra
+63	亦復如是	亦復/AD[yìfù | also] 如是/DT[rúshì | thus] <are also like this>	\N	3	Prajñāpāramitā Heart Sūtra
+64	是諸法空相	是/DT[shì | this] 諸DT[zhū | all] 法/NN[fǎ | dhárma] 空/NN[kōng | emptiness] 相/NN[xiāng | appearance] <this is the emptiness of all dharmas>	\N	3	Prajñāpāramitā Heart Sūtra
+65	無得	無/DT[wú | nothing] 得/VV[dé | attain] <no attainment>	\N	3	Prajñāpāramitā Heart Sūtra
+66	心無罣礙	心/NN[xīn | heart] 無/VC[wú | without] 罣/[guà | to be anxious] 礙/VV[ài | to hinder] <their heart is without hindrance>	\N	3	Prajñāpāramitā Heart Sūtra
+67	無等等咒	無/VC[wú | no] 等/NN[děng | equal] 等/NN[děng | equal] 咒/NN[zhòu | mantra] <the unequalled mantra>	\N	3	Prajñāpāramitā Heart Sūtra
+68	真實不虛	真實/VA[zhēnshí | true] 不/AD[bù | not] 虛/VA[xū | false] <this is true, not false>	\N	3	Prajñāpāramitā Heart Sūtra
+69	即說咒曰	即/VV[jí | thus] 說/VV[shuō | recite] 咒/NN[zhòu | mantra] 曰/VV[yuē | speak] <recite the mantra thus>	\N	3	Prajñāpāramitā Heart Sūtra
+70	是时	是/DT[shì | that] 时/NN[shí | time] <at that time>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+71	他世界	他/DT[tā | other] 世界/NN[shìjiè | world] <other worlds>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+72	鬼王	鬼/NN[guǐ | ghost] 王/NN[king | wáng] <ghost king>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+73	是人	是/DT[shì | those] 人/NN[rén | person] <those people>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+74	若有	若/CS[ruò | if] 有/VC[yǒu | is] <if there is>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+75	若遇	若/NR[Fó | Buddha] 告/VV[gào | said] <the Buddha said>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+76	復有地獄	復有/[fùyǒu ] 地獄/NN[dìyù] <there is another hell>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+77	男子女人	男子/NN[nánzǐ | man] 女人/NN[nǚrén | woman] <men and women>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+78	唯願	唯/AD[wěi | only] 願/VV[yuàn | wish] <I only wish>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+79	聞是	聞/VV[wén | hear] 是/DT[shì | that] <hear that>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+80	若有男子女人	若/SC[ruò | if] 有/VC[yǒu | are] 男子/NN[nánzǐ | man] 女人/NN[nǚrén | woman]	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+81	臨命終	臨/VA[lín | near] 命/NN[mìng | life] 終/NN[zhōng | end] <end of their life>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+82	險道	險/VA[xiǎn | dangerous] 道/NN[dào | road] <a dangerous road>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+83	塑畫	塑/NN[sù | ] 畫/NN[huà | picture] <sculpture and picture>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+84	聞是佛名	聞/VV[wén | hear] 是/DT[shì | this] 佛/NR[Fó | Buddha] 名/NN[míng | name] <hear this Buddha's name>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+85	受勝妙樂	受/VV[shòu | receive] 勝妙/VA[shèngmiào | wonderful] 樂/NN[lè | joy] <enjoy wonderful bliss>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+86	我母	我/PN[wǒ | I] 母/NN[mǔ | mother] <my mother>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+87	墮惡道	墮/VV[duò | degenerate] 惡道/NN[è dào | evil rebirth] <degenerate into an evil rebirth>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+88	久遠劫	久遠/VA[jiǔyuǎn | ancient] 劫/[jié | kalpa] <kalpas in the ancient past>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+89	千劫	千/CD[qiān | thousand] 劫/NN[jié | kalpa] <a thousand kalpas>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+90	得解脫	得/VV[dé | obtain] 解脫/NN[jiětuō | liberation] <obtained liberation>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+91	是命終	是/DT[shì | this] 命/NN[mìng | life] 終/NN[zhōng | end] < end of their life>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+92	命終時	命終/VV[mìng zhōng | to die] 時/NN[shí | time] <at the time of death>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+93	菩薩像	菩薩/NN[púsà | bodhisattva] 像/NN[xiàng | image] <an image of a bodhisattva>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+94	聽我說之	聽/VV[tīng | listen] 我/PN[wǒ | me] 說/VV[shuō | say] 之/DT[zhī | it] <listen to what I have to say>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+96	菩薩摩訶薩	菩薩/NN[púsà | bodhisattva] 摩訶薩/NN[móhēsà | mahasattva] <bodhisattva>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+97	承佛威神	承/VV[chéng | receive] 佛/NR[Fó | Buddha] 威/NN[wēi | great strength] shén/VA[shén | divine] <by virtue of the Buddha's great strength>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+98	合掌恭敬	合掌/VV[hézhǎng | to join palms] 恭敬/VA[gōngjìng | deferential] <deferentially joined palms>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+99	千萬劫	千萬/CD[qiānwàn |ten million] 劫/NN[jié | kalpa] <ten million>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+100	布施供養	布施/NN[bùshī | dana] 供養/VV[gōngyǎng | make offerings] <make offerings>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+101	一偈	一/CD[yī | one] 偈/NN[jì | gatha] <a gatha>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+102	夢中	夢/NN[mèng | dream] 中/P[zhōng | in] <in a dream>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+103	是國王	是/DT[shì | that] 國王/NN[guówáng | king] <that king>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+104	若男若女	若/CC[ruò | or] 男/NN[nán | male] 若/CC[ruò | or] 女/NN[nǚ | female] <either male or female>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+105	七日內	七/CD[qī | seven] 日/NN[rì | day] 內/P[nèi | in] <within seven days>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+106	地獄罪報	地獄/NN[dìyù | hell] 罪報/NN[zuìbào | retribution] <retribution in hell>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+107	其事云何	其/DT[qí | that] 事/NN[shì | thing] 云何/DT[yúnhé | how] <What is it like?>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+108	七日中	七/CD[qī | seven] 日/NN[rì | day] 中/P[zhōng | in] <for seven days>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+109	佛告文殊師利	佛/NR[Fó | Buddha] 告/VV[gào | told] 文殊師利/NR[Wénshūshīlì | Mañjuśrī] <The Buddha told Mañjuśrī>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+110	地藏本願	地藏/NR[Dìzàng | Kṣitigarbha] 本/VV[běn | to be one's own] 願/NN[yuàn | vow] <the vow of Kṣitigarbha>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+111	墮於惡道	墮/VV[duò | fall] 於/P[yú | in] 惡道/NN[è dào | evil rebirth] <fall into an evil rebirth>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+112	迴向法界	迴向/VV[huíxiàng | transfer merit] 法界/NN[fǎjiè | Dharma realm] <transfer merit back to the Dharma realm>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+113	白佛言	白/VV[bái | say] 佛/NR[Fó | Buddha] 言/VV[yán | speak] <said to the Buddha>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+114	不可計	不可/VV[bù kě | cannot] 計/VV[jì count] <uncountable>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+115	永不墮惡道	永/AD[yǒng | forever] 不/AD[bù | not] 墮/VV[duò | fall] 惡道/NN[è dào | evil rebirth] <never degenerate into an evil rebirth>	\N	4	Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+116	我來世得	我/PN[wǒ | I] 來世/NN[lái shì | future life] 得/VV[dé | attain] <in a future life I will attain>	\N	5	Sūtra of the Medicine Buddha
+117	得菩提時	得/VV[dé | obtain] 菩提/[pútí | enlightenment] 時/P[ shí | when] <when attaining enlightenment>	\N	5	Sūtra of the Medicine Buddha
+118	我來世得菩提	我/PN[wǒ | I] 來世/NN[lái shì | future life] 得/VV[dé | attain] 菩提/[pútí | enlightenment] <In a future life when I have attained enlightenment>	\N	5	Sūtra of the Medicine Buddha
+119	此經	此/DT[cǐ | this] 經/NN[jīng | sūtra] <this sūtra>	\N	5	Sūtra of the Medicine Buddha
+120	淨信	淨/VA[jìng | pure] 信/NN[xìn | faith] <pure faith>	\N	5	Sūtra of the Medicine Buddha
+121	淨信善男子	淨/VA[jìng | pure] 信/NN[xìn | faith] 善男子/FW[shàn nánzǐ | a good man (kulaputra)] <a good man of pure faith>	\N	5	Sūtra of the Medicine Buddha
+122	佛告	佛/NR[Fó | Buddha] 告/VV[gào | told] <the Buddha said>	\N	5	Sūtra of the Medicine Buddha
+123	曼殊室利童子	曼殊室利/NR[Mànshūshìlì | Mañjuśrī] 童子/NN[tóngzǐ | boy] <the boy Mañjuśrī>	\N	5	Sūtra of the Medicine Buddha
+124	女身	女/VA[female] 身/NN[form] <female form>	\N	5	Sūtra of the Medicine Buddha
+125	深行	深/VA[profound] 行/VV[practice] <profound practice>	\N	5	Sūtra of the Medicine Buddha
+126	童子言	童子/NN[tóngzǐ | boy] 言/VV[yán | say] <the boy said>	\N	5	Sūtra of the Medicine Buddha
+127	善巧方便	善巧/VA[shànqiǎo | ingenious] 方便/NN[fāngbiàn | skillful means] <ingenious skillful means>	\N	5	Sūtra of the Medicine Buddha
+128	不可思議功德	不/AD[bù | not] 可/AD[kě | able] 思議/VV[sīyì | imagine] 功德/NN[gōngdé | merit] <inconceivable merit>	\N	6	Amitābha Sūtra
+129	彼佛	彼/DT[that] 佛/NR[Buddha] <that Buddha>	\N	6	Amitābha Sūtra
+130	長舌	長/VA[zhǎng | long] 舌/NN[shé | tongue] <long tongue>	\N	6	Amitābha Sūtra
+131	廣長舌	廣/VA[guǎng | vast] 長/VA[zhǎng | long] 舌/NN[shé | tongue] <long tongue>	\N	6	Amitābha Sūtra
+132	佛國土	佛/NR[Fó | Buddha] 國土/NN[guótǔ | land] <Buddha land>	\N	6	Amitābha Sūtra
+133	恒河沙數	恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] 數/NN[shǔ | number] <number of grains of sand in the Ganges River>	gaṅgānadīvālukā	\N	6	Amitābha Sūtra
+134	八事	八/CD[bā | eight] 事/NN[shì | thing] <eight things>	\N	7	Sūtra on the Eight Realizations
+135	令诸众生	令/VV[lìng | lead] 诸/DT[zhū | all] 众生/NN[zhòngshēng | sentient beings] <lead all sentient beings>	\N	7	Sūtra on the Eight Realizations
+136	佛弟子	佛/NR[Fó | Buddha] 弟子/NN[dìzi | disciple] <Buddhist disciple>	\N	7	Sūtra on the Eight Realizations
+137	常念	常/AD[cháng | frequently] 念/VV[niàn | recite] <frequently recite>	\N	7	Sūtra on the Eight Realizations

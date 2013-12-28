@@ -4,7 +4,7 @@ Description: Translated by Tripiṭaka monk Śiksānanda, Khotan, Tang Dynasty. 
 
 Period: 652－710
 
-Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/ksitigarbha_taisho_analysis.md "Vocabulary analysis")
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/ksitigarbha_taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 
@@ -12,9 +12,9 @@ Translator: Śiksānanda
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
-Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/T13/T13n0412.htm "Diamond Sutra Chinese Text") 
+Document: [CBETA Sūtra Text] (http://www.cbeta.org/result/T13/T13n0412.htm "CBETA Sūtra Text") 
 
-Alternate formats: [Plain text file] (corpus/ksitigarbha_taisho.txt "Diamond Sutra Plain Text") (Both scrolls)
+Alternate formats: [Plain text file] (corpus/ksitigarbha_taisho.txt "Sūtra Text") (Both scrolls)
 
 English	translation and commentary (this site): [Sūtra of the Great Vow of Ksitigarbha Bodhisattva English] (/buddhism_dizang.html "Sūtra of the Great Vow of Ksitigarbha Bodhisattva English")
 

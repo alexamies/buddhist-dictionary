@@ -18,5 +18,5 @@ Start marker: 觀自在菩薩行深
 
 End marker: 本網站係採用
 
-English translation (Venerable Yifa): [Heart Sūtra English] (/heart_sutra.html "Heart Sūtra English")
+English translation (by Venerable Yifa) with gloss: [Heart Sūtra English] (/heart_sutra.html "Heart Sūtra English")
 

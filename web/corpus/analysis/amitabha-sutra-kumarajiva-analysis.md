@@ -1,474 +1,508 @@
-## Vocabulary for source document The Amitābha Sūtra
+## Vocabulary analysis for source document The Amitābha Sūtra 佛說阿彌陀經
 Source file: amitabha-sutra-kumarajiva.txt<br/>
+Document Source URL: corpus_entry.php?uri=amitabha-sutra-kumarajiva.md<br/>
 Source: Taisho Tripitaka<br/>
 Reference: Vol. 12 No. 0366<br/>
 Translator: Kumārajīva<br/>
-Lines read: 64<br/>
+Start marker: 如是我聞<br/>
+End marker: 本網站係採用<br/>
 ### Word count
-Word count: 1349, unique words: 459, known words: 455, new words: 4
+Word count: 1707, unique words: 460, known words: 459, new words: 1
+
+### Phrase Memory Matches
+Phrase, Part-of-Speech Tagged Phrase, Source
+
+亦復如是, 亦復/AD[yìfù | also] 如是/DT[rúshì | thus] &lt;are also like this&gt;, Prajñāpāramitā Heart Sūtra
+
+佛告, 佛/NR[Fó | Buddha] 告/VV[gào | told] &lt;the Buddha said&gt;, Sūtra of the Medicine Buddha
+
+聞是, 聞/VV[wén | hear] 是/DT[shì | that] &lt;hear that&gt;, Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+
+是經, 是/DT[shì | this] 經/NN[jīng | sūtra] &lt;this sūtra&gt;, Diamond Sūtra
+
+若有, 若/CS[ruò | if] 有/VC[yǒu | is] &lt;if there is&gt;, Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+
+菩薩摩訶薩, 菩薩/NN[púsà | bodhisattva] 摩訶薩/NN[móhēsà | mahasattva] &lt;bodhisattva&gt;, Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+
+此經, 此/DT[cǐ | this] 經/NN[jīng | sūtra] &lt;this sūtra&gt;, Sūtra of the Medicine Buddha
+
+命終時, 命終/VV[mìng zhōng | to die] 時/NN[shí | time] &lt;at the time of death&gt;, Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+
+諸菩薩, 諸/DT[zhū | all] 菩薩/NN[púsà | bodhisattva] &lt;all the bodhisattvas&gt;, Diamond Sūtra
+
+恒河沙, 恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] &lt;sand in the Ganges River&gt;, Diamond Sūtra
+
+是人, 是/DT[shì | those] 人/NN[rén | person] &lt;those people&gt;, Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+
+七日, 七/CD[qī |seven] 日/NN[rì | day] &lt;seven days&gt;, Sarvāstivādavinayavibhāṣā, Scroll 2
+
+臨命終, 臨/VA[lín | near] 命/NN[mìng | life] 終/NN[zhōng | end] &lt;end of their life&gt;, Sūtra of the Great Vow of Kṣitigarbha Bodhisattva
+
+### Frequency of N-grams with frequency greater than 2
+諸佛, 18<br/>
+佛所, 9<br/>
+不可思議功德, 9<br/>
+一切諸, 9<br/>
+如是等, 9<br/>
+所護念, 8<br/>
+一切諸佛, 8<br/>
+諸佛所, 8<br/>
+其國, 8<br/>
+彼佛, 7<br/>
+所護念經, 7<br/>
+一切諸佛所護念, 7<br/>
+當信, 7<br/>
+諸佛所護念經, 7<br/>
+護念經, 7<br/>
+諸佛所護念, 7<br/>
+一切諸佛所, 7<br/>
+汝等, 7<br/>
+佛所護念經, 7<br/>
+佛所護念, 7<br/>
+如是等恒, 6<br/>
+其國出, 6<br/>
+長舌, 6<br/>
+稱讚不可思議功德一切, 6<br/>
+信是稱讚, 6<br/>
+國出廣長舌, 6<br/>
+等恒河, 6<br/>
+汝等眾生, 6<br/>
+河沙數, 6<br/>
+河沙數諸, 6<br/>
+當信是稱讚, 6<br/>
+如是等恒河沙, 6<br/>
+是稱讚不可思議, 6<br/>
+功德一切諸佛, 6<br/>
+國出廣, 6<br/>
+是稱讚不可思議功德一切, 6<br/>
+是稱讚, 6<br/>
+其國出廣長, 6<br/>
+出廣長, 6<br/>
+不可思議功德一切, 6<br/>
+國出, 6<br/>
+廣長, 6<br/>
+其國出廣, 6<br/>
+國出廣長, 6<br/>
+各於, 6<br/>
+各於其國, 6<br/>
+恒河, 6<br/>
+出廣長舌相, 6<br/>
+等恒, 6<br/>
+於其國出, 6<br/>
+等恒河沙, 6<br/>
+數諸佛, 6<br/>
+稱讚不可思議功德一切諸, 6<br/>
+沙數, 6<br/>
+說誠實, 6<br/>
+是稱讚不可思議功德, 6<br/>
+恒河沙, 6<br/>
+覆三千大千世界, 6<br/>
+遍覆, 6<br/>
+於其國出廣, 6<br/>
+等眾生, 6<br/>
+沙數諸佛, 6<br/>
+於其, 6<br/>
+不可思議功德一切諸佛, 6<br/>
+於其國, 6<br/>
+稱讚不可思議功德, 6<br/>
+恒河沙數諸, 6<br/>
+廣長舌, 6<br/>
+沙數諸, 6<br/>
+各於其, 6<br/>
+誠實言, 6<br/>
+數諸, 6<br/>
+廣長舌相, 6<br/>
+出廣, 6<br/>
+佛國土, 6<br/>
+各於其國出, 6<br/>
+信是稱讚不可思議功德, 6<br/>
+等恒河沙數, 6<br/>
+信是稱讚不可思議, 6<br/>
+不可思議功德一切諸, 6<br/>
+河沙數諸佛, 6<br/>
+出廣長舌, 6<br/>
+如是等恒河, 6<br/>
+恒河沙數, 6<br/>
+長舌相, 6<br/>
+河沙, 6<br/>
+功德一切諸, 6<br/>
+極樂國土, 6<br/>
+又舍利弗, 6<br/>
+信是, 6<br/>
+舌相, 6<br/>
+功德一切諸佛所, 6<br/>
+當信是, 6<br/>
+遍覆三千大千世界, 6<br/>
+說誠實言, 6<br/>
+當信是稱讚不可思議, 6<br/>
+稱讚不可思議, 6<br/>
+功德一切, 6<br/>
+世界有, 5<br/>
+皆是, 4<br/>
+彼佛國土, 4<br/>
+若有, 4<br/>
+彼國, 4<br/>
+阿彌, 4<br/>
+成就如是功德, 4<br/>
+成就如是功德莊嚴, 4<br/>
+如是功德, 4<br/>
+此呪, 4<br/>
+功德莊嚴, 4<br/>
+成就如是, 4<br/>
+聞是, 4<br/>
+生彼, 4<br/>
+如是功德莊嚴, 4<br/>
+國土成就如是功德, 3<br/>
+國土成就如是, 3<br/>
+無量無邊, 3<br/>
+為一切, 3<br/>
+彼國土, 3<br/>
+眾生聞, 3<br/>
+何故, 3<br/>
+國土成就, 3<br/>
+阿彌唎, 3<br/>
+七重, 3<br/>
+一切世間, 3<br/>
+國土成就如是功德莊嚴, 3<br/>
+彌唎, 3<br/>
+應當發願, 3<br/>
+不退轉於阿耨多羅三藐三菩提, 2<br/>
+名曰極樂, 2<br/>
+七遍, 2<br/>
+彌唎哆, 2<br/>
+難信, 2<br/>
+不退轉於, 2<br/>
+是諸眾鳥, 2<br/>
+是故舍利弗, 2<br/>
+所能知, 2<br/>
+說此, 2<br/>
+為一切諸, 2<br/>
+得阿耨多羅三藐三菩提, 2<br/>
+得不退轉, 2<br/>
+婆毘阿, 2<br/>
+信之法, 2<br/>
+應當發願生彼國土, 2<br/>
+如我今者, 2<br/>
+甚難, 2<br/>
+毘阿彌唎, 2<br/>
+是音, 2<br/>
+發願生彼國土, 2<br/>
+大焰肩佛, 2<br/>
+為甚, 2<br/>
+等諸, 2<br/>
+念法, 2<br/>
+能知, 2<br/>
+何故名為, 2<br/>
+毘阿, 2<br/>
+其人, 2<br/>
+人俱, 2<br/>
+所說, 2<br/>
+與如是, 2<br/>
+於汝, 2<br/>
+於汝意, 2<br/>
+是諸眾, 2<br/>
+念僧, 2<br/>
+之後任運, 2<br/>
+婆毘阿彌唎, 2<br/>
+皆得不, 2<br/>
+婆毘, 2<br/>
+此難, 2<br/>
+夜哆, 2<br/>
+其國眾生, 2<br/>
+之後任運往生, 2<br/>
+者何, 2<br/>
+意云何, 2<br/>
+如是等諸大, 2<br/>
+如是等諸, 2<br/>
+誦此呪, 2<br/>
+信受, 2<br/>
+非是, 2<br/>
+不退轉, 2<br/>
+以金, 2<br/>
+毘阿彌, 2<br/>
+極樂國土成就如是, 2<br/>
+三七遍, 2<br/>
+十萬億, 2<br/>
+如我今, 2<br/>
+命終之後任運往生, 2<br/>
+等諸大, 2<br/>
+其佛國土, 2<br/>
+應當發願生彼, 2<br/>
+誦三, 2<br/>
+三七, 2<br/>
+應當發願生, 2<br/>
+極樂國土成就, 2<br/>
+任運往生, 2<br/>
+諸菩薩, 2<br/>
+生彼國, 2<br/>
+我今者, 2<br/>
+命終之後, 2<br/>
+是算數, 2<br/>
+於汝意云何, 2<br/>
+無邊阿僧祇劫, 2<br/>
+若有善男子, 2<br/>
+誦三七遍, 2<br/>
+皆得不退轉於, 2<br/>
+耶舍三藏, 2<br/>
+得不, 2<br/>
+命終之後任運, 2<br/>
+誦此, 2<br/>
+今者, 2<br/>
+所以者何, 2<br/>
+毘阿彌唎哆, 2<br/>
+汝意云何, 2<br/>
+非是算數, 2<br/>
+舍三藏, 2<br/>
+誦三七, 2<br/>
+佛所說, 2<br/>
+信之, 2<br/>
+如我, 2<br/>
+耶舍, 2<br/>
+是諸, 2<br/>
+眾生聞是, 2<br/>
+行樹, 2<br/>
+於阿耨多羅三藐三菩提, 2<br/>
+退轉於阿耨多羅三藐三菩提, 2<br/>
+諸善男子, 2<br/>
+諸大, 2<br/>
+發願生, 2<br/>
+者是諸, 2<br/>
+無量無邊阿僧祇劫, 2<br/>
+之所, 2<br/>
+皆得不退轉, 2<br/>
+難信之法, 2<br/>
+有善男子, 2<br/>
+唎哆, 2<br/>
+得不退轉於阿耨多羅三藐三菩提, 2<br/>
+號阿彌陀, 2<br/>
+所能, 2<br/>
+故名, 2<br/>
+婆毘阿彌, 2<br/>
+皆得, 2<br/>
+阿彌唎哆, 2<br/>
+我今, 2<br/>
+生彼國土, 2<br/>
+退轉於, 2<br/>
+所以者, 2<br/>
+聞是音, 2<br/>
+長老舍利弗, 2<br/>
+其佛, 2<br/>
+故名為, 2<br/>
+國眾生, 2<br/>
+晝夜六時, 2<br/>
+其土, 2<br/>
+汝意, 2<br/>
+難信之, 2<br/>
+者是, 2<br/>
+諸眾鳥, 2<br/>
+願生, 2<br/>
+及諸, 2<br/>
+發願生彼, 2<br/>
+之法, 2<br/>
+得不退轉於, 2<br/>
+極樂國土成就如是功德, 2<br/>
+為甚難, 2<br/>
 ### Frequency of non-function words:
+For words with frequency greater than 1
+
 Word, frequency, relative frequency per 1000 words
 
-[佛](word_detail.php?id=3618 "Buddha / Awakened One 佛"), 43, 31.88<br/>
-[舍利弗](word_detail.php?id=18620 "Sariputra / Sariputta 舍利弗"), 38, 28.17<br/>
-[國](word_detail.php?id=1075 "country 國"), 16, 11.86<br/>
-[國土](word_detail.php?id=3874 "homeland / country 國土"), 15, 11.12<br/>
-[功德](word_detail.php?id=7135 "achievements and virtue / merit 功德"), 15, 11.12<br/>
-[說](word_detail.php?id=412 "to say / said / to speak 說"), 14, 10.38<br/>
-[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生"), 12, 8.90<br/>
-[信](word_detail.php?id=3091 "to believe 信"), 11, 8.15<br/>
-[不可思議](word_detail.php?id=7158 "inconceivable / unimaginable / unfathomable 不可思議"), 10, 7.41<br/>
-[極樂](word_detail.php?id=20321 "bliss 極樂"), 10, 7.41<br/>
-[人](word_detail.php?id=399 "person / people 人"), 8, 5.93<br/>
-[護念](word_detail.php?id=32072 "for a Buddha, bodhisattva, or demigod to protect a Buddhist disciple 護念"), 8, 5.93<br/>
-[遍](word_detail.php?id=7214 "turn / one time 遍"), 8, 5.93<br/>
-[出](word_detail.php?id=275 "to go out 出"), 8, 5.93<br/>
-[阿彌陀佛](word_detail.php?id=2891 "Amitabha Buddha 阿彌陀佛"), 8, 5.93<br/>
-[沙](word_detail.php?id=3729 "sand / powder 沙"), 7, 5.19<br/>
-[日](word_detail.php?id=738 "day of the month / day 日"), 7, 5.19<br/>
-[七](word_detail.php?id=307 "seven 七"), 7, 5.19<br/>
-[稱讚](word_detail.php?id=10545 "to praise / to acclaim / to commend / to compliment 稱讚"), 7, 5.19<br/>
-[菩薩](word_detail.php?id=3166 "bodhisattva 菩薩"), 7, 5.19<br/>
-[法](word_detail.php?id=3506 "method / way 法"), 7, 5.19<br/>
-[恒](word_detail.php?id=32905 "permanent 恒"), 7, 5.19<br/>
-[聞](word_detail.php?id=3925 "to hear 聞"), 7, 5.19<br/>
-[舌](word_detail.php?id=5066 "tongue 舌"), 6, 4.45<br/>
-[河](word_detail.php?id=2978 "a river / a stream 河"), 6, 4.45<br/>
-[覆](word_detail.php?id=802 "to cover / to overflow / to reply to a letter / to overturn / to capsize 覆"), 6, 4.45<br/>
-[三千大千世界](word_detail.php?id=26967 "a great chiliocosm 三千大千世界"), 6, 4.45<br/>
-[廣](word_detail.php?id=1626 "wide / large / vast 廣"), 6, 4.45<br/>
-[音](word_detail.php?id=2413 "sound / noise / news 音"), 6, 4.45<br/>
-[世界](word_detail.php?id=363 "world 世界"), 6, 4.45<br/>
-[誠實](word_detail.php?id=9311 "honest / honorable / truthful 誠實"), 6, 4.45<br/>
-[發願](word_detail.php?id=20352 "to make a vow 發願"), 6, 4.45<br/>
-[哆](word_detail.php?id=6556 "quiver / woolen cloth 哆"), 6, 4.45<br/>
-[今](word_detail.php?id=6691 "today / modern / present / current / this / now 今"), 5, 3.71<br/>
-[彌](word_detail.php?id=6591 "full / complete 彌"), 5, 3.71<br/>
-[大](word_detail.php?id=1114 "big / great / huge / large / major 大"), 5, 3.71<br/>
-[無量](word_detail.php?id=20347 "unlimited / immeasurable 無量"), 5, 3.71<br/>
-[阿彌陀](word_detail.php?id=20320 "Amitabha / Amithaba 阿彌陀"), 5, 3.71<br/>
-[善女人](word_detail.php?id=32439 "a good woman / a daughter of a noble family 善女人"), 4, 2.97<br/>
-[念](word_detail.php?id=3905 "to read aloud / to recite 念"), 4, 2.97<br/>
-[五](word_detail.php?id=305 "five 五"), 4, 2.97<br/>
-[受](word_detail.php?id=1978 "to receive / to accept / to suffer / to be subjected to 受"), 4, 2.97<br/>
-[行](word_detail.php?id=1259 "capable / competent 行"), 4, 2.97<br/>
-[莊嚴](word_detail.php?id=6897 "stately 莊嚴"), 4, 2.97<br/>
-[夜](word_detail.php?id=4071 "night 夜"), 4, 2.97<br/>
-[鳥](word_detail.php?id=3968 "bird 鳥"), 4, 2.97<br/>
-[阿耨多羅三藐三菩提](word_detail.php?id=5104 "anuttara-samyak-sambodhi 阿耨多羅三藐三菩提"), 4, 2.97<br/>
-[往生](word_detail.php?id=19662 "a future life 往生"), 4, 2.97<br/>
-[善男子](word_detail.php?id=32438 "a good man / a son of a noble family 善男子"), 4, 2.97<br/>
-[誦](word_detail.php?id=4060 "to recite / to read aloud 誦"), 4, 2.97<br/>
-[作](word_detail.php?id=375 "to do / to make / use as 作"), 4, 2.97<br/>
-[四](word_detail.php?id=304 "four 四"), 4, 2.97<br/>
-[成就](word_detail.php?id=807 "accomplishment / success 成就"), 4, 2.97<br/>
-[名](word_detail.php?id=573 "measure word for people 名"), 4, 2.97<br/>
-[六時](word_detail.php?id=29373 "The six four hour periods of the day 六時"), 3, 2.22<br/>
-[金](word_detail.php?id=3371 "metal / gold 金"), 3, 2.22<br/>
-[知](word_detail.php?id=3896 "to know / to be aware 知"), 3, 2.22<br/>
-[號](word_detail.php?id=317 "number, such as day of a month or name of a ship 號"), 3, 2.22<br/>
-[樂](word_detail.php?id=3930 "happy / cheerful / joyful 樂"), 3, 2.22<br/>
-[土](word_detail.php?id=3731 "earth / dust / soil 土"), 3, 2.22<br/>
-[僧](word_detail.php?id=3366 "monk / Sangha 僧"), 3, 2.22<br/>
-[十](word_detail.php?id=310 "ten 十"), 3, 2.22<br/>
-[寶](word_detail.php?id=3707 "a jewel / gem / a treasure 寶"), 3, 2.22<br/>
-[婆](word_detail.php?id=5113 "grandmother / matron / mother-in-law 婆"), 3, 2.22<br/>
-[世間](word_detail.php?id=3873 "world 世間"), 3, 2.22<br/>
-[赤](word_detail.php?id=7015 "red / scarlet 赤"), 3, 2.22<br/>
-[三](word_detail.php?id=303 "three 三"), 3, 2.22<br/>
-[天](word_detail.php?id=434 "day 天"), 3, 2.22<br/>
-[池](word_detail.php?id=8705 "pool / pond / reservoir 池"), 3, 2.22<br/>
-[應當](word_detail.php?id=8077 "should / ought to 應當"), 3, 2.22<br/>
-[命終](word_detail.php?id=30586 "to die / to end a life 命終"), 3, 2.22<br/>
-[無邊](word_detail.php?id=20348 "without boundaries 無邊"), 3, 2.22<br/>
-[悉](word_detail.php?id=3922 "to know / to learn / to be informed of 悉"), 3, 2.22<br/>
-[諸眾](word_detail.php?id=30771 "numerous 諸眾"), 3, 2.22<br/>
-[毘](word_detail.php?id=17643 "to adjoin / to border 毘"), 3, 2.22<br/>
-[西方](word_detail.php?id=3609 "the West 西方"), 2, 1.48<br/>
-[之後](word_detail.php?id=443 "after / following / later 之後"), 2, 1.48<br/>
-[欲](word_detail.php?id=3889 "desire 欲"), 2, 1.48<br/>
-[阿羅漢](word_detail.php?id=6892 "Arhat 阿羅漢"), 2, 1.48<br/>
-[任運](word_detail.php?id=28887 "to accomplish something by letting it occur naturally 任運"), 2, 1.48<br/>
-[上](word_detail.php?id=584 "above / previous 上"), 2, 1.48<br/>
-[實](word_detail.php?id=3386 "real / true / honest / really / solid 實"), 2, 1.48<br/>
-[舍](word_detail.php?id=4053 "residence 舍"), 2, 1.48<br/>
-[前](word_detail.php?id=681 "in front of / before 前"), 2, 1.48<br/>
-[弟子](word_detail.php?id=3172 "disciple 弟子"), 2, 1.48<br/>
-[比丘](word_detail.php?id=6607 "a monk / a bhikkhu 比丘"), 2, 1.48<br/>
-[算數](word_detail.php?id=7171 "to do arithmetic 算數"), 2, 1.48<br/>
-[銀](word_detail.php?id=2381 "silver 銀"), 2, 1.48<br/>
-[分](word_detail.php?id=1427 "to divide into parts 分"), 2, 1.48<br/>
-[三藏](word_detail.php?id=4067 "Xuanzang / Tripitaka 三藏"), 2, 1.48<br/>
-[頗梨](word_detail.php?id=20327 "a kind of crystal 頗梨"), 2, 1.48<br/>
-[心](word_detail.php?id=1849 "heart 心"), 2, 1.48<br/>
-[名為](word_detail.php?id=30937 "to be called 名為"), 2, 1.48<br/>
-[百](word_detail.php?id=313 "one hundred 百"), 2, 1.48<br/>
-[長老](word_detail.php?id=6643 "an elder 長老"), 2, 1.48<br/>
-[無量壽佛](word_detail.php?id=20364 "Amitayus Buddha / Measureless Life Buddha 無量壽佛"), 2, 1.48<br/>
-[琉璃](word_detail.php?id=20325 "lapis lazuli / lazurite 琉璃"), 2, 1.48<br/>
-[二](word_detail.php?id=302 "two 二"), 2, 1.48<br/>
-[受持](word_detail.php?id=6887 "to accept and maintain faith / to uphold 受持"), 2, 1.48<br/>
-[其中](word_detail.php?id=2047 "among 其中"), 2, 1.48<br/>
-[名曰](word_detail.php?id=31453 "to be named / to be called 名曰"), 2, 1.48<br/>
-[大焰肩](word_detail.php?id=20361 "Maharciskamdha / Great Blazing Shoulders Buddha 大焰肩"), 2, 1.48<br/>
-[華](word_detail.php?id=2865 "Hua 華"), 2, 1.48<br/>
-[阿僧祇劫](word_detail.php?id=20346 "an asankhyeya kalpa 阿僧祇劫"), 2, 1.48<br/>
-[少](word_detail.php?id=1449 "few / little 少"), 2, 1.48<br/>
-[佛說阿彌陀經](word_detail.php?id=20280 "The Amitabha Sutra 佛說阿彌陀經"), 2, 1.48<br/>
-[事](word_detail.php?id=1219 "matter / thing / item 事"), 2, 1.48<br/>
-[微妙](word_detail.php?id=4221 "subtle / delicate / fine / tricky / skillful 微妙"), 2, 1.48<br/>
-[十萬](word_detail.php?id=28368 "one hundred thousand 十萬"), 2, 1.48<br/>
-[羅網](word_detail.php?id=20345 "a net / a fishing net / a bird net 羅網"), 2, 1.48<br/>
-[億](word_detail.php?id=316 "one hundred million  億"), 2, 1.48<br/>
-[退轉](word_detail.php?id=30764 "to degenerate / to regress 退轉"), 2, 1.48<br/>
-[意](word_detail.php?id=1730 "idea / meaning 意"), 2, 1.48<br/>
-[五濁惡世](word_detail.php?id=30455 "Saha World / Sahā World / Sahalokadhatu / the World of Suffering / the Evil World of the Five Turbidities 五濁惡世"), 2, 1.48<br/>
-[滅](word_detail.php?id=568 "to extinguish / to destroy 滅"), 2, 1.48<br/>
-[中](word_detail.php?id=332 "middle / during 中"), 2, 1.48<br/>
-[樹](word_detail.php?id=2647 "tree 樹"), 2, 1.48<br/>
-[千](word_detail.php?id=314 "one thousand 千"), 2, 1.48<br/>
-[念佛](word_detail.php?id=18348 "to pray to Buddha / to chant sutras 念佛"), 2, 1.48<br/>
-[謂](word_detail.php?id=4267 "to speak of 謂"), 1, 0.74<br/>
-[合成](word_detail.php?id=11360 "to compose / to constitute 合成"), 1, 0.74<br/>
-[法幢佛](word_detail.php?id=20380 "Dharmadhvaja Buddha / Dharma Curtain Buddha 法幢佛"), 1, 0.74<br/>
-[八聖道](word_detail.php?id=22291 "Noble Eightfold Path / Eightfold Noble Way 八聖道"), 1, 0.74<br/>
-[如是我聞](word_detail.php?id=30374 "Thus I have heard 如是我聞"), 1, 0.74<br/>
-[周匝](word_detail.php?id=24659 "to go around / to go through 周匝"), 1, 0.74<br/>
-[希有](word_detail.php?id=8844 "uncommon 希有"), 1, 0.74<br/>
-[馱](word_detail.php?id=6569 "to carry on one's back 馱"), 1, 0.74<br/>
-[作禮](word_detail.php?id=31531 "to salute / to greet / to bow to 作禮"), 1, 0.74<br/>
-[南無](word_detail.php?id=7205 "to take refuge 南無"), 1, 0.74<br/>
-[香火](word_detail.php?id=18077 "to burn incense 香火"), 1, 0.74<br/>
-[罪](word_detail.php?id=3869 "an offense / guilt / a crime / a sin 罪"), 1, 0.74<br/>
-[劫濁](word_detail.php?id=22099 "Kalpakashaya / period of degeneration 劫濁"), 1, 0.74<br/>
-[第一](word_detail.php?id=394 "first 第一"), 1, 0.74<br/>
-[三惡趣](word_detail.php?id=28936 "the three evil rebirths / the three evil realms  三惡趣"), 1, 0.74<br/>
-[香](word_detail.php?id=5068 "fragrant / savory / appetizing / sweet / scented / popular 香"), 1, 0.74<br/>
-[阿難陀](word_detail.php?id=18636 "Ananda 阿難陀"), 1, 0.74<br/>
-[釋提桓因](word_detail.php?id=20318 "Sakra / Sakka 釋提桓因"), 1, 0.74<br/>
-[淨土](word_detail.php?id=3171 "Pure Land 淨土"), 1, 0.74<br/>
-[鸚鵡](word_detail.php?id=3969 "parrot 鸚鵡"), 1, 0.74<br/>
-[嚴](word_detail.php?id=3277 "tight / stern / serious / strict / severe 嚴"), 1, 0.74<br/>
-[名光佛](word_detail.php?id=20378 "Yasahprabha Buddha / Famous Light Buddha 名光佛"), 1, 0.74<br/>
-[如須彌山佛](word_detail.php?id=20392 "Sumerukalpa Buddha / Such as Mount Sumeru Buddha 如須彌山佛"), 1, 0.74<br/>
-[見一切義佛](word_detail.php?id=20391 "Sarvarthadarsa Buddha / Vision of all Meaning Buddha 見一切義佛"), 1, 0.74<br/>
-[演](word_detail.php?id=3813 "to perform / to play / to act 演"), 1, 0.74<br/>
-[所知](word_detail.php?id=30688 "known / what one knows 所知"), 1, 0.74<br/>
-[祇樹](word_detail.php?id=20293 "Jetavana 祇樹"), 1, 0.74<br/>
-[薄俱羅](word_detail.php?id=20310 "Vakkula 薄俱羅"), 1, 0.74<br/>
-[聞說](word_detail.php?id=29317 "to hear told / to hear what was said 聞說"), 1, 0.74<br/>
-[最勝音佛](word_detail.php?id=20372 "Dumdubhisvaranirghosa Buddha / Most Victorious Sound Buddha 最勝音佛"), 1, 0.74<br/>
-[須彌燈](word_detail.php?id=20362 "Merupradipa / Sumeru Lamp Buddha 須彌燈"), 1, 0.74<br/>
-[宿王佛](word_detail.php?id=20383 "Naksatraraja Buddha / King of Past Lives Buddha 宿王佛"), 1, 0.74<br/>
-[因緣](word_detail.php?id=7179 "principal and secondary causes / chain of cause and effect / primary cause / a karma story 因緣"), 1, 0.74<br/>
-[雅](word_detail.php?id=7291 "elegant / graceful / refined 雅"), 1, 0.74<br/>
-[白色](word_detail.php?id=492 "white 白色"), 1, 0.74<br/>
-[潔](word_detail.php?id=4844 "Jie 潔"), 1, 0.74<br/>
-[聖](word_detail.php?id=3181 "holy / sacred / spiritual 聖"), 1, 0.74<br/>
-[福德](word_detail.php?id=19571 "merit / good fortune and good moral conduct 福德"), 1, 0.74<br/>
-[充滿](word_detail.php?id=1662 "to fill to capacity 充滿"), 1, 0.74<br/>
-[色](word_detail.php?id=2482 "color / look / appearance 色"), 1, 0.74<br/>
-[我見](word_detail.php?id=21807 "the notion of a self 我見"), 1, 0.74<br/>
-[無量相佛](word_detail.php?id=20365 "Amitaskmdha Buddha / Measureless Appearance Buddha 無量相佛"), 1, 0.74<br/>
-[清](word_detail.php?id=3355 "clear / distinct / complete / pure 清"), 1, 0.74<br/>
-[合掌](word_detail.php?id=7207 "to join palms 合掌"), 1, 0.74<br/>
-[謗](word_detail.php?id=7181 "to slander / to defame / to speak ill of 謗"), 1, 0.74<br/>
-[周梨槃陀迦](word_detail.php?id=20303 "Suddhipanthaka 周梨槃陀迦"), 1, 0.74<br/>
-[寶華德佛](word_detail.php?id=20388 "Ratnorpalasri Buddha / Jewelled Flower Virtue Buddha 寶華德佛"), 1, 0.74<br/>
-[須彌光](word_detail.php?id=20357 "Meruprabhasa / Sumeru Light Buddha 須彌光"), 1, 0.74<br/>
-[吹](word_detail.php?id=10191 "to blow 吹"), 1, 0.74<br/>
-[處](word_detail.php?id=2665 "a place / location / spot / point / office / department / bureau 處"), 1, 0.74<br/>
-[甚多](word_detail.php?id=32455 "extremely many 甚多"), 1, 0.74<br/>
-[下方](word_detail.php?id=26398 "beneath / underneath / underside 下方"), 1, 0.74<br/>
-[憍梵波提](word_detail.php?id=20306 "Gavampati 憍梵波提"), 1, 0.74<br/>
-[八](word_detail.php?id=308 "eight 八"), 1, 0.74<br/>
-[上聲](word_detail.php?id=29235 "falling and rising tone / third tone 上聲"), 1, 0.74<br/>
-[常精進](word_detail.php?id=20316 "Nityodyukta 常精進"), 1, 0.74<br/>
-[大光佛](word_detail.php?id=20367 "Mahaprabha Buddha / Great Light Buddha 大光佛"), 1, 0.74<br/>
-[力](word_detail.php?id=972 "power / force / strength 力"), 1, 0.74<br/>
-[黃金](word_detail.php?id=14998 "gold 黃金"), 1, 0.74<br/>
-[名聞光](word_detail.php?id=20360 "Yashprabha / Well-Known Light Buddha 名聞光"), 1, 0.74<br/>
-[共命之鳥](word_detail.php?id=20344 "a jivajivaka bird 共命之鳥"), 1, 0.74<br/>
-[夢](word_detail.php?id=756 "dream 夢"), 1, 0.74<br/>
-[劫](word_detail.php?id=7156 "to rob / to plunder / to seize by force / to coerce 劫"), 1, 0.74<br/>
-[無量幢佛](word_detail.php?id=20366 "Amitadhvaja Buddha / Measureless Curtain Buddha 無量幢佛"), 1, 0.74<br/>
-[到](word_detail.php?id=603 "arrive / receive 到"), 1, 0.74<br/>
-[水](word_detail.php?id=1609 "water / river 水"), 1, 0.74<br/>
-[孔雀](word_detail.php?id=20341 "a peacock 孔雀"), 1, 0.74<br/>
-[黃](word_detail.php?id=5355 "yellow 黃"), 1, 0.74<br/>
-[馬瑙](word_detail.php?id=20331 "carnelian 馬瑙"), 1, 0.74<br/>
-[晨](word_detail.php?id=4089 "morning / dawn / daybreak 晨"), 1, 0.74<br/>
-[持](word_detail.php?id=1799 "to grasp / to hold / to support / to manage / to maintain 持"), 1, 0.74<br/>
-[阿鞞跋致](word_detail.php?id=20350 "Avaivartika / a non-returner 阿鞞跋致"), 1, 0.74<br/>
-[聲聞](word_detail.php?id=20517 "Sravaka / Śrāvaka / a distinguished disciple of the Buddha 聲聞"), 1, 0.74<br/>
-[奇妙](word_detail.php?id=13285 "fantastic / wonderful 奇妙"), 1, 0.74<br/>
-[網明佛](word_detail.php?id=20375 "Jaleniprabha Buddha / Net Brightness Buddha 網明佛"), 1, 0.74<br/>
-[摩訶迦栴延](word_detail.php?id=20299 "Mahakatyayana / Katyayana 摩訶迦栴延"), 1, 0.74<br/>
-[香光佛](word_detail.php?id=20385 "Gamdhaprabhasa Buddha / Fragrant Light Buddha 香光佛"), 1, 0.74<br/>
-[微](word_detail.php?id=3232 "micro / tiny / miniature 微"), 1, 0.74<br/>
-[迦陵頻伽](word_detail.php?id=20343 "a kalavinka bird 迦陵頻伽"), 1, 0.74<br/>
-[隸](word_detail.php?id=6586 "to be attached to 隸"), 1, 0.74<br/>
-[種種](word_detail.php?id=7155 "all kinds of 種種"), 1, 0.74<br/>
-[娑婆國土](word_detail.php?id=20393 "Saha Lokadhatu / Saha Land 娑婆國土"), 1, 0.74<br/>
-[跪](word_detail.php?id=9098 "to kneel 跪"), 1, 0.74<br/>
-[六](word_detail.php?id=306 "six 六"), 1, 0.74<br/>
-[平](word_detail.php?id=5361 "flat / level / equal 平"), 1, 0.74<br/>
-[讚歎](word_detail.php?id=30456 "to praise 讚歎"), 1, 0.74<br/>
-[明](word_detail.php?id=3062 "clear / bright 明"), 1, 0.74<br/>
-[純](word_detail.php?id=954 "pure 純"), 1, 0.74<br/>
-[供養](word_detail.php?id=7121 "to provide for one's elders / to support one's parents 供養"), 1, 0.74<br/>
-[迦留陀夷](word_detail.php?id=20308 "Kalodayin 迦留陀夷"), 1, 0.74<br/>
-[無有](word_detail.php?id=32461 "is not 無有"), 1, 0.74<br/>
-[舍衛國](word_detail.php?id=20292 "Sravasti / Savatthi 舍衛國"), 1, 0.74<br/>
-[告](word_detail.php?id=3012 "to tell / to say 告"), 1, 0.74<br/>
-[佛土](word_detail.php?id=20319 "a Buddha land 佛土"), 1, 0.74<br/>
-[娑羅樹王佛](word_detail.php?id=20387 "Salendraraja Buddha / Sala Tree King Buddha 娑羅樹王佛"), 1, 0.74<br/>
-[十方](word_detail.php?id=27646 "Ten Directions 十方"), 1, 0.74<br/>
-[龍樹](word_detail.php?id=19633 "Nagarjuna 龍樹"), 1, 0.74<br/>
-[日夜](word_detail.php?id=8206 "day and night / around the clock 日夜"), 1, 0.74<br/>
-[階](word_detail.php?id=9603 "stairs 階"), 1, 0.74<br/>
-[阿逸多](word_detail.php?id=20314 "Ajita 阿逸多"), 1, 0.74<br/>
-[焰肩佛](word_detail.php?id=20371 "Maharcislamdha Buddha / Blazing Shoulders Buddha 焰肩佛"), 1, 0.74<br/>
-[說法](word_detail.php?id=2041 "a statement / wording 說法"), 1, 0.74<br/>
-[難陀](word_detail.php?id=20304 "Nanda 難陀"), 1, 0.74<br/>
-[善根](word_detail.php?id=31809 "virtuous roots / good roots  善根"), 1, 0.74<br/>
-[耽](word_detail.php?id=11803 "to indulge in / to delay 耽"), 1, 0.74<br/>
-[人民](word_detail.php?id=1117 "the people 人民"), 1, 0.74<br/>
-[諸天](word_detail.php?id=27530 "devas 諸天"), 1, 0.74<br/>
-[舍利](word_detail.php?id=18550 "ashes or relics after cremation 舍利"), 1, 0.74<br/>
-[一生補處](word_detail.php?id=20351 "Ekajatipratibuddha / a being that will become a Buddha in this life 一生補處"), 1, 0.74<br/>
-[樓閣](word_detail.php?id=20332 "a tower / a building / a pavilion 樓閣"), 1, 0.74<br/>
-[梵音佛](word_detail.php?id=20382 "Brahmaghosa Buddha / Pure Sound Buddha 梵音佛"), 1, 0.74<br/>
-[珠](word_detail.php?id=4935 "pearl / bead 珠"), 1, 0.74<br/>
-[常住](word_detail.php?id=21225 "permanence 常住"), 1, 0.74<br/>
-[苦](word_detail.php?id=3864 "bitter 苦"), 1, 0.74<br/>
-[鬼神](word_detail.php?id=26718 "spirits and devils / a demon 鬼神"), 1, 0.74<br/>
-[誦讀](word_detail.php?id=21063 "to read aloud 誦讀"), 1, 0.74<br/>
-[菩提](word_detail.php?id=3174 "Bodhi / enlightenment / awakening 菩提"), 1, 0.74<br/>
-[稱說](word_detail.php?id=31334 "to declare / to state / to call / to name 稱說"), 1, 0.74<br/>
-[惱亂](word_detail.php?id=28946 "to disrupt / to disturb / to bother / to trouble  惱亂"), 1, 0.74<br/>
-[妙](word_detail.php?id=4220 "clever / wonderful 妙"), 1, 0.74<br/>
-[枝](word_detail.php?id=8415 "branch 枝"), 1, 0.74<br/>
-[見濁](word_detail.php?id=22100 "Drishtikashaya / degenerating views / period of degenerating views 見濁"), 1, 0.74<br/>
-[上方](word_detail.php?id=29188 "top 上方"), 1, 0.74<br/>
-[膩](word_detail.php?id=23121 "greasy / soft / unctuous / intimate 膩"), 1, 0.74<br/>
-[煩惱濁](word_detail.php?id=22101 "Kleshakashaya / period where the degenerated delusions of prevail 煩惱濁"), 1, 0.74<br/>
-[名聞佛](word_detail.php?id=20377 "Yasas Buddha / Well-Known Buddha 名聞佛"), 1, 0.74<br/>
-[離婆多](word_detail.php?id=20302 "Revata 離婆多"), 1, 0.74<br/>
-[不可](word_detail.php?id=8863 "cannot / should not / must not 不可"), 1, 0.74<br/>
-[淨光佛](word_detail.php?id=20370 "Suddharasmi Buddha / Pure Light Buddha 淨光佛"), 1, 0.74<br/>
-[阿閦鞞](word_detail.php?id=20354 "Aksothya / Aksobhya 阿閦鞞"), 1, 0.74<br/>
-[摩訶迦葉](word_detail.php?id=18626 "Mahakassapa 摩訶迦葉"), 1, 0.74<br/>
-[裓](word_detail.php?id=20334 "clothes worn by a monk 裓"), 1, 0.74<br/>
-[青](word_detail.php?id=483 "green or blue / young 青"), 1, 0.74<br/>
-[羅睺羅](word_detail.php?id=27612 "Rahula 羅睺羅"), 1, 0.74<br/>
-[賓頭盧頗羅墮](word_detail.php?id=20307 "Pindola 賓頭盧頗羅墮"), 1, 0.74<br/>
-[寶相佛](word_detail.php?id=20369 "Maharatnaketu Buddha / Jewelled Appearance Buddha 寶相佛"), 1, 0.74<br/>
-[給孤獨園](word_detail.php?id=20294 "Anathapimdasya arama 給孤獨園"), 1, 0.74<br/>
-[風](word_detail.php?id=2024 "wind 風"), 1, 0.74<br/>
-[圍繞](word_detail.php?id=7163 "to revolve around / to center on / to circumambulate 圍繞"), 1, 0.74<br/>
-[嚼](word_detail.php?id=15146 "to chew 嚼"), 1, 0.74<br/>
-[流](word_detail.php?id=533 "to flow / to spread / to circulate / to move 流"), 1, 0.74<br/>
-[難沮佛](word_detail.php?id=20373 "Duspradharsa Buddha / Hard to Injure Buddha 難沮佛"), 1, 0.74<br/>
-[天雨](word_detail.php?id=17155 "a rain shower 天雨"), 1, 0.74<br/>
-[道](word_detail.php?id=3247 "direction / way / method / road / path 道"), 1, 0.74<br/>
-[衣](word_detail.php?id=3953 "clothes 衣"), 1, 0.74<br/>
-[旦](word_detail.php?id=6629 "dawn / morning / day-break / day 旦"), 1, 0.74<br/>
-[車輪](word_detail.php?id=25765 "a wheel 車輪"), 1, 0.74<br/>
-[寺](word_detail.php?id=3620 "temple 寺"), 1, 0.74<br/>
-[南方](word_detail.php?id=5735 "the South 南方"), 1, 0.74<br/>
-[摩訶劫賓那](word_detail.php?id=20309 "Mahakaphina 摩訶劫賓那"), 1, 0.74<br/>
-[欄](word_detail.php?id=3984 "fence / railing / hurdle 欄"), 1, 0.74<br/>
-[摩訶薩](word_detail.php?id=8847 "mahasattva / mohasattva / mahāsattva / a great being 摩訶薩"), 1, 0.74<br/>
-[佛光](word_detail.php?id=11787 "Foguang 佛光"), 1, 0.74<br/>
-[北方](word_detail.php?id=8973 "The North 北方"), 1, 0.74<br/>
-[成佛](word_detail.php?id=21014 "to become a Buddha 成佛"), 1, 0.74<br/>
-[三惡道](word_detail.php?id=18530 "Three Lower Realms / Three Hell Realms 三惡道"), 1, 0.74<br/>
-[阿修羅](word_detail.php?id=7120 "an asura 阿修羅"), 1, 0.74<br/>
-[亂](word_detail.php?id=1509 "disorderly / chaotic 亂"), 1, 0.74<br/>
-[大眾](word_detail.php?id=6644 "people / public / masses / assembly / audience 大眾"), 1, 0.74<br/>
-[曼陀羅](word_detail.php?id=20333 "mandarava flower 曼陀羅"), 1, 0.74<br/>
-[暢](word_detail.php?id=13254 "joyful / happy / smooth / fluent 暢"), 1, 0.74<br/>
-[大明佛](word_detail.php?id=20368 "Maharasmiprabha Buddha / Great Brightness Buddha 大明佛"), 1, 0.74<br/>
-[蘭](word_detail.php?id=3477 "Lan 蘭"), 1, 0.74<br/>
-[根](word_detail.php?id=2437 "origin / cause / basis 根"), 1, 0.74<br/>
-[名號](word_detail.php?id=27367 "name 名號"), 1, 0.74<br/>
-[七寶](word_detail.php?id=26512 "the Seven Treasures / the Seven Precious Jewels 七寶"), 1, 0.74<br/>
-[一心](word_detail.php?id=9096 "wholeheartedly 一心"), 1, 0.74<br/>
-[形象](word_detail.php?id=7723 "image / form / figure 形象"), 1, 0.74<br/>
-[障礙](word_detail.php?id=1386 "barrier / obstruction / hindrance / impediment / obstacle 障礙"), 1, 0.74<br/>
-[飯食](word_detail.php?id=6617 "food 飯食"), 1, 0.74<br/>
-[釋迦牟尼](word_detail.php?id=2889 "Sakyamuni Buddha / Śākyamuni Buddha 釋迦牟尼"), 1, 0.74<br/>
-[臨](word_detail.php?id=4429 "to face / to overlook 臨"), 1, 0.74<br/>
-[飾](word_detail.php?id=3585 "to adorn / to decorate 飾"), 1, 0.74<br/>
-[師子佛](word_detail.php?id=20376 "Simha Buddha / Lion Buddha 師子佛"), 1, 0.74<br/>
-[須彌相](word_detail.php?id=20355 "Merudhvaja / Sumeru Appearance Buddha 須彌相"), 1, 0.74<br/>
-[養](word_detail.php?id=4943 "to raise / to bring up (children, animals) / to keep / to support / to give birth 養"), 1, 0.74<br/>
-[文殊師利法王子](word_detail.php?id=20313 "Dharma Prince Manjusri 文殊師利法王子"), 1, 0.74<br/>
-[盛](word_detail.php?id=3496 "to fill / to hold / contain / to ladle / to pick up with a utensil 盛"), 1, 0.74<br/>
-[澡](word_detail.php?id=11312 "bath 澡"), 1, 0.74<br/>
-[經受](word_detail.php?id=15220 "to undergo / to endure / to withstand 經受"), 1, 0.74<br/>
-[日生佛](word_detail.php?id=20374 "Adityasambhava Buddha / Sun Birth Buddha 日生佛"), 1, 0.74<br/>
-[大須彌](word_detail.php?id=20356 "Mahameru / Great Sumeru Buddha 大須彌"), 1, 0.74<br/>
-[日月燈](word_detail.php?id=20359 "Candrasuryapradipa / Sun Moon Lamp Buddha 日月燈"), 1, 0.74<br/>
-[楊](word_detail.php?id=5460 "Yang 楊"), 1, 0.74<br/>
-[白鵠](word_detail.php?id=20340 "a white swan 白鵠"), 1, 0.74<br/>
-[食](word_detail.php?id=4355 "food 食"), 1, 0.74<br/>
-[樓](word_detail.php?id=3803 "storied building 樓"), 1, 0.74<br/>
-[香上佛](word_detail.php?id=20384 "Gamdhottama Buddha / Superior Fragrance Buddha 香上佛"), 1, 0.74<br/>
-[達摩佛](word_detail.php?id=20379 "Dharma Buddha 達摩佛"), 1, 0.74<br/>
-[東方](word_detail.php?id=8149 "The East / The Orient 東方"), 1, 0.74<br/>
-[漱](word_detail.php?id=19824 "to rinse one's mouth with water / to gargle 漱"), 1, 0.74<br/>
-[五逆](word_detail.php?id=29558 "Anantarika-karma / Five Cardinal Sins / the five heinous crimes 五逆"), 1, 0.74<br/>
-[今生](word_detail.php?id=19050 "this life 今生"), 1, 0.74<br/>
-[譬如](word_detail.php?id=6902 "for example / for instance / such as 譬如"), 1, 0.74<br/>
-[外國](word_detail.php?id=9173 "foreign country 外國"), 1, 0.74<br/>
-[命濁](word_detail.php?id=22103 "Ayukashaya / degenerated human lifespan / the period of shortened human lifespan 命濁"), 1, 0.74<br/>
-[佛說](word_detail.php?id=20960 "the Buddha's verbal teaching 佛說"), 1, 0.74<br/>
-[青色](word_detail.php?id=27515 "green blue / cyan 青色"), 1, 0.74<br/>
-[變化](word_detail.php?id=504 "change 變化"), 1, 0.74<br/>
-[布](word_detail.php?id=3624 "cotton cloth 布"), 1, 0.74<br/>
-[云](word_detail.php?id=3399 "to say 云"), 1, 0.74<br/>
-[無量精進](word_detail.php?id=20363 "Arantavirya / Measureless Vigor Buddha 無量精進"), 1, 0.74<br/>
-[摩訶拘絺羅](word_detail.php?id=20300 "Mahakausthila 摩訶拘絺羅"), 1, 0.74<br/>
-[法師](word_detail.php?id=11850 "Dharma Master / Venerable 法師"), 1, 0.74<br/>
-[乾陀訶提](word_detail.php?id=20315 "Gandhastin 乾陀訶提"), 1, 0.74<br/>
-[宣](word_detail.php?id=8519 "to declare / to announce 宣"), 1, 0.74<br/>
-[執持](word_detail.php?id=20353 "to hold firmly 執持"), 1, 0.74<br/>
-[種](word_detail.php?id=1590 "kind / type / race / breed / seed / species 種"), 1, 0.74<br/>
-[妙音佛](word_detail.php?id=20358 "Manjughosa / Wonderful Sound Buddha 妙音佛"), 1, 0.74<br/>
-[銹](word_detail.php?id=13530 "to corrode / to rust 銹"), 1, 0.74<br/>
-[顛倒](word_detail.php?id=5092 "to turn upside-down / to reverse / to invert 顛倒"), 1, 0.74<br/>
-[摩訶目乾連](word_detail.php?id=20297 "Mahamaudgalyayana / Maudgalyayana 摩訶目乾連"), 1, 0.74<br/>
-[兔](word_detail.php?id=2616 "rabbit 兔"), 1, 0.74<br/>
-[識](word_detail.php?id=5057 "knowledge 識"), 1, 0.74<br/>
-[口](word_detail.php?id=746 "measure word for people,pigs, and kitcheware 口"), 1, 0.74<br/>
-[眾生濁](word_detail.php?id=22102 "Sattvakashaya / the period of corruption of all living beings 眾生濁"), 1, 0.74<br/>
-[車璩](word_detail.php?id=20330 "mother-of-pearl 車璩"), 1, 0.74<br/>
-[爾時](word_detail.php?id=29350 "at that time 爾時"), 1, 0.74<br/>
-[歡喜](word_detail.php?id=7202 "joyful 歡喜"), 1, 0.74<br/>
-[日日](word_detail.php?id=31545 "every day 日日"), 1, 0.74<br/>
-[罪報](word_detail.php?id=30884 "retribution 罪報"), 1, 0.74<br/>
-[持法佛](word_detail.php?id=20381 "Dharmadhara Buddha / Dharma Maintaining Buddha 持法佛"), 1, 0.74<br/>
-[語](word_detail.php?id=5965 "dialect / language / speech 語"), 1, 0.74<br/>
-[利](word_detail.php?id=3673 "advantage / benefit 利"), 1, 0.74<br/>
-[壽命](word_detail.php?id=6239 "life span / life expectancy 壽命"), 1, 0.74<br/>
-[黃色](word_detail.php?id=12368 "yellow 黃色"), 1, 0.74<br/>
-[雜色](word_detail.php?id=20337 "multi-colored 雜色"), 1, 0.74<br/>
-[雜色寶華嚴身佛](word_detail.php?id=20386 "Ratnakusumasampuspitagatra Buddha / Multi-colored Jewel and Flower Adornmed Body Buddha 雜色寶華嚴身佛"), 1, 0.74<br/>
-[楯](word_detail.php?id=20322 "a horizontal railing 楯"), 1, 0.74<br/>
-[蓮花](word_detail.php?id=4079 "a lotus 蓮花"), 1, 0.74<br/>
+[佛](word_detail.php?id=3618 "Buddha / Awakened One 佛") [Buddha], 43, 25.19<br/>
+[舍利弗](word_detail.php?id=18620 "Sariputra / Sariputta 舍利弗") [Sariputra], 38, 22.26<br/>
+[國](word_detail.php?id=1075 "country 國") [country], 16, 9.37<br/>
+[國土](word_detail.php?id=3874 "homeland / country 國土") [homeland], 15, 8.79<br/>
+[功德](word_detail.php?id=7135 "achievements and virtue / merit 功德") [achievements and virtue], 15, 8.79<br/>
+[說](word_detail.php?id=412 "to say / said / to speak 說") [to say], 14, 8.20<br/>
+[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生") [All living things], 12, 7.03<br/>
+[信](word_detail.php?id=3091 "to believe 信") [to believe], 11, 6.44<br/>
+[不可思議](word_detail.php?id=7158 "inconceivable / unimaginable / unfathomable 不可思議") [inconceivable], 10, 5.86<br/>
+[極樂](word_detail.php?id=20321 "bliss 極樂") [bliss], 10, 5.86<br/>
+[護念](word_detail.php?id=32072 "for a Buddha, bodhisattva, or demigod to protect a Buddhist disciple 護念") [for a Buddha, bodhisattva, or demigod to protect a Buddhist disciple], 8, 4.69<br/>
+[遍](word_detail.php?id=7214 "turn / one time 遍") [turn], 8, 4.69<br/>
+[出](word_detail.php?id=275 "to go out 出") [to go out], 8, 4.69<br/>
+[阿彌陀佛](word_detail.php?id=2891 "Amitabha Buddha 阿彌陀佛") [Amitabha Buddha], 8, 4.69<br/>
+[沙](word_detail.php?id=3729 "sand / powder 沙") [sand], 7, 4.10<br/>
+[人](word_detail.php?id=399 "person / people 人") [person], 7, 4.10<br/>
+[日](word_detail.php?id=738 "day of the month / day 日") [day of the month], 7, 4.10<br/>
+[七](word_detail.php?id=307 "seven 七") [seven], 7, 4.10<br/>
+[稱讚](word_detail.php?id=10545 "to praise / to acclaim / to commend / to compliment 稱讚") [to praise], 7, 4.10<br/>
+[菩薩](word_detail.php?id=3166 "bodhisattva 菩薩") [bodhisattva], 7, 4.10<br/>
+[法](word_detail.php?id=3506 "method / way 法") [method], 7, 4.10<br/>
+[恒](word_detail.php?id=32905 "permanent 恒") [permanent], 7, 4.10<br/>
+[聞](word_detail.php?id=3925 "to hear 聞") [to hear], 7, 4.10<br/>
+[舌](word_detail.php?id=5066 "tongue 舌") [tongue], 6, 3.51<br/>
+[河](word_detail.php?id=2978 "a river / a stream 河") [a river], 6, 3.51<br/>
+[覆](word_detail.php?id=802 "to cover / to overflow / to reply to a letter / to overturn / to capsize 覆") [to cover], 6, 3.51<br/>
+[三千大千世界](word_detail.php?id=26967 "a great chiliocosm 三千大千世界") [a great chiliocosm], 6, 3.51<br/>
+[廣](word_detail.php?id=1626 "wide / large / vast 廣") [wide], 6, 3.51<br/>
+[呪](word_detail.php?id=33055 "mantra 呪") [mantra], 6, 3.51<br/>
+[音](word_detail.php?id=2413 "sound / noise / news 音") [sound], 6, 3.51<br/>
+[世界](word_detail.php?id=363 "world 世界") [world], 6, 3.51<br/>
+[誠實](word_detail.php?id=9311 "honest / honorable / truthful 誠實") [honest], 6, 3.51<br/>
+[發願](word_detail.php?id=20352 "to make a vow 發願") [to make a vow], 6, 3.51<br/>
+[哆](word_detail.php?id=6556 "quiver / woolen cloth 哆") [quiver], 6, 3.51<br/>
+[今](word_detail.php?id=6691 "today / modern / present / current / this / now 今") [today], 5, 2.93<br/>
+[彌](word_detail.php?id=6591 "full / complete 彌") [full], 5, 2.93<br/>
+[大](word_detail.php?id=1114 "big / great / huge / large / major 大") [big], 5, 2.93<br/>
+[無量](word_detail.php?id=20347 "unlimited / immeasurable 無量") [unlimited], 5, 2.93<br/>
+[阿彌陀](word_detail.php?id=20320 "Amitabha / Amithaba 阿彌陀") [Amitabha], 5, 2.93<br/>
+[善女人](word_detail.php?id=32439 "a good woman / a daughter of a noble family 善女人") [a good woman], 4, 2.34<br/>
+[念](word_detail.php?id=3905 "to read aloud / to recite 念") [to read aloud], 4, 2.34<br/>
+[五](word_detail.php?id=305 "five 五") [five], 4, 2.34<br/>
+[受](word_detail.php?id=1978 "to receive / to accept / to suffer / to be subjected to 受") [to receive], 4, 2.34<br/>
+[行](word_detail.php?id=1259 "capable / competent 行") [capable], 4, 2.34<br/>
+[莊嚴](word_detail.php?id=6897 "stately 莊嚴") [stately], 4, 2.34<br/>
+[夜](word_detail.php?id=4071 "night 夜") [night], 4, 2.34<br/>
+[鳥](word_detail.php?id=3968 "bird 鳥") [bird], 4, 2.34<br/>
+[阿耨多羅三藐三菩提](word_detail.php?id=5104 "anuttara-samyak-sambodhi 阿耨多羅三藐三菩提") [anuttara-samyak-sambodhi], 4, 2.34<br/>
+[往生](word_detail.php?id=19662 "a future life 往生") [a future life], 4, 2.34<br/>
+[善男子](word_detail.php?id=32438 "a good man / a son of a noble family 善男子") [a good man], 4, 2.34<br/>
+[誦](word_detail.php?id=4060 "to recite / to read aloud 誦") [to recite], 4, 2.34<br/>
+[作](word_detail.php?id=375 "to do / to make / use as 作") [to do], 4, 2.34<br/>
+[四](word_detail.php?id=304 "four 四") [four], 4, 2.34<br/>
+[成就](word_detail.php?id=807 "accomplishment / success 成就") [accomplishment], 4, 2.34<br/>
+[名](word_detail.php?id=573 "measure word for people 名") [measure word for people], 4, 2.34<br/>
+[六時](word_detail.php?id=29373 "The six four hour periods of the day 六時") [The six four hour periods of the day], 3, 1.76<br/>
+[金](word_detail.php?id=3371 "metal / gold 金") [metal], 3, 1.76<br/>
+[知](word_detail.php?id=3896 "to know / to be aware 知") [to know], 3, 1.76<br/>
+[號](word_detail.php?id=317 "number, such as day of a month or name of a ship 號") [number, such as day of a month or name of a ship], 3, 1.76<br/>
+[樂](word_detail.php?id=3930 "happy / cheerful / joyful 樂") [happy], 3, 1.76<br/>
+[土](word_detail.php?id=3731 "earth / dust / soil 土") [earth], 3, 1.76<br/>
+[僧](word_detail.php?id=3366 "monk / Sangha 僧") [monk], 3, 1.76<br/>
+[十](word_detail.php?id=310 "ten 十") [ten], 3, 1.76<br/>
+[寶](word_detail.php?id=3707 "a jewel / gem / a treasure 寶") [a jewel], 3, 1.76<br/>
+[婆](word_detail.php?id=5113 "grandmother / matron / mother-in-law 婆") [grandmother], 3, 1.76<br/>
+[世間](word_detail.php?id=3873 "world 世間") [world], 3, 1.76<br/>
+[赤](word_detail.php?id=7015 "red / scarlet 赤") [red], 3, 1.76<br/>
+[三](word_detail.php?id=303 "three 三") [three], 3, 1.76<br/>
+[天](word_detail.php?id=434 "day 天") [day], 3, 1.76<br/>
+[池](word_detail.php?id=8705 "pool / pond / reservoir 池") [pool], 3, 1.76<br/>
+[應當](word_detail.php?id=8077 "should / ought to 應當") [should], 3, 1.76<br/>
+[命終](word_detail.php?id=30586 "to die / to end a life 命終") [to die], 3, 1.76<br/>
+[無邊](word_detail.php?id=20348 "without boundaries 無邊") [without boundaries], 3, 1.76<br/>
+[悉](word_detail.php?id=3922 "to know / to learn / to be informed of 悉") [to know], 3, 1.76<br/>
+[諸眾](word_detail.php?id=30771 "numerous 諸眾") [numerous], 3, 1.76<br/>
+[毘](word_detail.php?id=17643 "to adjoin / to border 毘") [to adjoin], 3, 1.76<br/>
+[西方](word_detail.php?id=3609 "the West 西方") [the West], 2, 1.17<br/>
+[之後](word_detail.php?id=443 "after / following / later 之後") [after], 2, 1.17<br/>
+[欲](word_detail.php?id=3889 "desire 欲") [desire], 2, 1.17<br/>
+[阿羅漢](word_detail.php?id=6892 "Arhat 阿羅漢") [Arhat], 2, 1.17<br/>
+[任運](word_detail.php?id=28887 "to accomplish something by letting it occur naturally 任運") [to accomplish something by letting it occur naturally], 2, 1.17<br/>
+[實](word_detail.php?id=3386 "real / true / honest / really / solid 實") [real], 2, 1.17<br/>
+[舍](word_detail.php?id=4053 "residence 舍") [residence], 2, 1.17<br/>
+[弟子](word_detail.php?id=3172 "disciple 弟子") [disciple], 2, 1.17<br/>
+[比丘](word_detail.php?id=6607 "a monk / a bhikkhu 比丘") [a monk], 2, 1.17<br/>
+[算數](word_detail.php?id=7171 "to do arithmetic 算數") [to do arithmetic], 2, 1.17<br/>
+[銀](word_detail.php?id=2381 "silver 銀") [silver], 2, 1.17<br/>
+[分](word_detail.php?id=1427 "to divide into parts 分") [to divide into parts], 2, 1.17<br/>
+[三藏](word_detail.php?id=4067 "Xuanzang / Tripitaka 三藏") [Xuanzang], 2, 1.17<br/>
+[頗梨](word_detail.php?id=20327 "a kind of crystal 頗梨") [a kind of crystal], 2, 1.17<br/>
+[心](word_detail.php?id=1849 "heart 心") [heart], 2, 1.17<br/>
+[名為](word_detail.php?id=30937 "to be called 名為") [to be called], 2, 1.17<br/>
+[百](word_detail.php?id=313 "one hundred 百") [one hundred], 2, 1.17<br/>
+[長老](word_detail.php?id=6643 "an elder 長老") [an elder], 2, 1.17<br/>
+[無量壽佛](word_detail.php?id=20364 "Amitayus Buddha / Measureless Life Buddha 無量壽佛") [Amitayus Buddha], 2, 1.17<br/>
+[琉璃](word_detail.php?id=20325 "lapis lazuli / lazurite 琉璃") [lapis lazuli], 2, 1.17<br/>
+[二](word_detail.php?id=302 "two 二") [two], 2, 1.17<br/>
+[受持](word_detail.php?id=6887 "to accept and maintain faith / to uphold 受持") [to accept and maintain faith], 2, 1.17<br/>
+[其中](word_detail.php?id=2047 "among 其中") [among], 2, 1.17<br/>
+[名曰](word_detail.php?id=31453 "to be named / to be called 名曰") [to be named], 2, 1.17<br/>
+[大焰肩](word_detail.php?id=20361 "Maharciskamdha / Great Blazing Shoulders Buddha 大焰肩") [Maharciskamdha], 2, 1.17<br/>
+[華](word_detail.php?id=2865 "Hua 華") [Hua], 2, 1.17<br/>
+[阿僧祇劫](word_detail.php?id=20346 "an asankhyeya kalpa 阿僧祇劫") [an asankhyeya kalpa], 2, 1.17<br/>
+[少](word_detail.php?id=1449 "few / little 少") [few], 2, 1.17<br/>
+[佛說阿彌陀經](word_detail.php?id=20280 "The Amitabha Sutra 佛說阿彌陀經") [The Amitabha Sutra], 2, 1.17<br/>
+[事](word_detail.php?id=1219 "matter / thing / item 事") [matter], 2, 1.17<br/>
+[微妙](word_detail.php?id=4221 "subtle / delicate / fine / tricky / skillful 微妙") [subtle], 2, 1.17<br/>
+[十萬](word_detail.php?id=28368 "one hundred thousand 十萬") [one hundred thousand], 2, 1.17<br/>
+[羅網](word_detail.php?id=20345 "a net / a fishing net / a bird net 羅網") [a net], 2, 1.17<br/>
+[億](word_detail.php?id=316 "one hundred million  億") [one hundred million], 2, 1.17<br/>
+[退轉](word_detail.php?id=30764 "to degenerate / to regress 退轉") [to degenerate], 2, 1.17<br/>
+[意](word_detail.php?id=1730 "idea / meaning 意") [idea], 2, 1.17<br/>
+[五濁惡世](word_detail.php?id=30455 "Saha World / Sahā World / Sahalokadhatu / the World of Suffering / the Evil World of the Five Turbidities 五濁惡世") [Saha World], 2, 1.17<br/>
+[滅](word_detail.php?id=568 "to extinguish / to destroy 滅") [to extinguish], 2, 1.17<br/>
+[樹](word_detail.php?id=2647 "tree 樹") [tree], 2, 1.17<br/>
+[千](word_detail.php?id=314 "one thousand 千") [one thousand], 2, 1.17<br/>
+[念佛](word_detail.php?id=18348 "to pray to Buddha / to chant sutras 念佛") [to pray to Buddha], 2, 1.17<br/>
 ### Frequency of function words:
+For words with frequency greater than 1
+
 Word, frequency, relative frequency per 1000 words
 
-[諸](word_detail.php?id=17036 "plural 諸"), 31, 22.98<br/>
-[是](word_detail.php?id=17908 "this / that 是"), 27, 20.01<br/>
-[等](word_detail.php?id=17035 "plural 等"), 21, 15.57<br/>
-[有](word_detail.php?id=398 "is / are 有"), 19, 14.08<br/>
-[其](word_detail.php?id=1574 "his / her / its / theirs / that 其"), 18, 13.34<br/>
-[彼](word_detail.php?id=6890 "that / those 彼"), 17, 12.60<br/>
-[所](word_detail.php?id=1198 "introduces a relative clause 所"), 16, 11.86<br/>
-[如是](word_detail.php?id=8840 "so / thus 如是"), 15, 11.12<br/>
-[若](word_detail.php?id=2850 "for example 若"), 15, 11.12<br/>
-[於](word_detail.php?id=1710 "in / at / to / from 於"), 15, 11.12<br/>
-[者](word_detail.php?id=671 "used after a verb to indicate a person who does the action 者"), 13, 9.64<br/>
-[一切](word_detail.php?id=1490 "all / every / everything 一切"), 12, 8.90<br/>
-[生](word_detail.php?id=30576 "very / extremely 生"), 12, 8.90<br/>
-[皆](word_detail.php?id=5046 "all / each and every / in all cases 皆"), 11, 8.15<br/>
-[當](word_detail.php?id=1167 "at or in the very same 當"), 10, 7.41<br/>
-[之](word_detail.php?id=730 "him / her / it 之"), 10, 7.41<br/>
-[經](word_detail.php?id=30281 "often / regularly / frequently 經"), 10, 7.41<br/>
-[汝](word_detail.php?id=6690 "you / thou 汝"), 10, 7.41<br/>
-[此](word_detail.php?id=624 "this, these 此"), 9, 6.67<br/>
-[言](word_detail.php?id=30881 "a particle with no meaning 言"), 8, 5.93<br/>
-[各](word_detail.php?id=282 "each / every 各"), 8, 5.93<br/>
-[得](word_detail.php?id=411 "a sentence particle used after a verb to show effect / degree or possibility 得"), 8, 5.93<br/>
-[為](word_detail.php?id=372 "for / to 為"), 8, 5.93<br/>
-[數](word_detail.php?id=2820 "frequently / repeatedly  數"), 7, 5.19<br/>
-[又](word_detail.php?id=1632 "again / also 又"), 6, 4.45<br/>
-[故](word_detail.php?id=14849 "so 故"), 6, 4.45<br/>
-[相](word_detail.php?id=2909 "each other / one another / mutually 相"), 6, 4.45<br/>
-[以](word_detail.php?id=650 "so as to 以"), 6, 4.45<br/>
-[不](word_detail.php?id=502 "not / no 不"), 6, 4.45<br/>
-[長](word_detail.php?id=1322 "director / chief / head / elder 長"), 6, 4.45<br/>
-[難](word_detail.php?id=1209 "hardly possible 難"), 5, 3.71<br/>
-[阿](word_detail.php?id=4798 "prefix to names of people 阿"), 5, 3.71<br/>
-[及](word_detail.php?id=962 "and 及"), 5, 3.71<br/>
-[何](word_detail.php?id=3087 "what / how / why / which 何"), 5, 3.71<br/>
-[已](word_detail.php?id=1007 "already 已"), 5, 3.71<br/>
-[我](word_detail.php?id=321 "I / me 我"), 5, 3.71<br/>
-[眾](word_detail.php?id=29896 "again 眾"), 4, 2.97<br/>
-[重](word_detail.php?id=14301 "again 重"), 4, 2.97<br/>
-[俱](word_detail.php?id=6116 "entirely / without exception 俱"), 4, 2.97<br/>
-[與](word_detail.php?id=509 "and 與"), 4, 2.97<br/>
-[是故](word_detail.php?id=27382 "therefore / so / consequently 是故"), 4, 2.97<br/>
-[光](word_detail.php?id=1232 "only 光"), 4, 2.97<br/>
-[伽](word_detail.php?id=6577 "ga 伽"), 4, 2.97<br/>
-[能](word_detail.php?id=1263 "can / able 能"), 4, 2.97<br/>
-[亦](word_detail.php?id=5060 "also 亦"), 4, 2.97<br/>
-[而](word_detail.php?id=1336 "and / as well as / but (not) / yet (not) 而"), 3, 2.22<br/>
-[唎](word_detail.php?id=6558 "li 唎"), 3, 2.22<br/>
-[常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常"), 3, 2.22<br/>
-[如](word_detail.php?id=2567 "if 如"), 3, 2.22<br/>
-[多](word_detail.php?id=402 "more 多"), 3, 2.22<br/>
-[他](word_detail.php?id=518 "he / him 他"), 3, 2.22<br/>
-[地](word_detail.php?id=1330 "subordinate particle 地"), 3, 2.22<br/>
-[時](word_detail.php?id=31047 "at that time 時"), 3, 2.22<br/>
-[現在](word_detail.php?id=264 "at present / in the process of 現在"), 3, 2.22<br/>
-[晝夜](word_detail.php?id=4073 "continuously 晝夜"), 3, 2.22<br/>
-[即](word_detail.php?id=1964 " promptly / right away 即"), 3, 2.22<br/>
-[一](word_detail.php?id=11131 "as soon as / throughout 一"), 2, 1.48<br/>
-[甚](word_detail.php?id=3447 "what 甚"), 2, 1.48<br/>
-[云何](word_detail.php?id=29318 "why 云何"), 2, 1.48<br/>
-[所以](word_detail.php?id=4851 "therefore / as a result / so 所以"), 2, 1.48<br/>
-[方](word_detail.php?id=30546 "at the time when / just when 方"), 2, 1.48<br/>
-[但](word_detail.php?id=1182 "but / yet / however 但"), 2, 1.48<br/>
-[願](word_detail.php?id=13692 "to be ready / to be willing 願"), 2, 1.48<br/>
-[非](word_detail.php?id=1003 "non- / not- / un- 非"), 2, 1.48<br/>
-[來](word_detail.php?id=371 "indicates an approximate quantity 來"), 2, 1.48<br/>
-[從](word_detail.php?id=1383 "from 從"), 2, 1.48<br/>
-[無](word_detail.php?id=1843 "-less / no / none / not / un- / regardless of 無"), 2, 1.48<br/>
-[迦](word_detail.php?id=6564 "jia 迦"), 2, 1.48<br/>
-[何況](word_detail.php?id=6721 "much less / let alone 何況"), 2, 1.48<br/>
-[本](word_detail.php?id=2037 "this (city, week, etc) 本"), 2, 1.48<br/>
-[耶](word_detail.php?id=6557 "final interogative 耶"), 2, 1.48<br/>
-[安](word_detail.php?id=3908 "where / how / why 安"), 1, 0.74<br/>
-[自然](word_detail.php?id=4585 "naturally 自然"), 1, 0.74<br/>
-[那](word_detail.php?id=754 "that 那"), 1, 0.74<br/>
-[復](word_detail.php?id=4048 "again 復"), 1, 0.74<br/>
-[然](word_detail.php?id=3300 "so / thus 然"), 1, 0.74<br/>
-[一時](word_detail.php?id=11141 "temporarily / momentarily / simultaneously 一時"), 1, 0.74<br/>
-[終](word_detail.php?id=16799 "in the end 終"), 1, 0.74<br/>
-[除](word_detail.php?id=622 "except 除"), 1, 0.74<br/>
-[勿](word_detail.php?id=6359 "do not 勿"), 1, 0.74<br/>
-[還](word_detail.php?id=397 "also / in addition / more 還"), 1, 0.74<br/>
-[和](word_detail.php?id=387 "and 和"), 1, 0.74<br/>
-[令](word_detail.php?id=31974 "if 令"), 1, 0.74<br/>
-[可以](word_detail.php?id=604 "can / may / possible / able to 可以"), 1, 0.74<br/>
-[尚無](word_detail.php?id=23638 "not yet / not so far 尚無"), 1, 0.74<br/>
-[共](word_detail.php?id=2588 "all together / to share / in common / in general / all together / in total 共"), 1, 0.74<br/>
-[頂](word_detail.php?id=11921 "most 頂"), 1, 0.74<br/>
-[底](word_detail.php?id=31009 "what 底"), 1, 0.74<br/>
-[在](word_detail.php?id=328 "in / at 在"), 1, 0.74<br/>
-[去](word_detail.php?id=27849 "in / at 去"), 1, 0.74<br/>
-[爾](word_detail.php?id=3811 "thus / so / like that / you / thou 爾"), 1, 0.74<br/>
-[過](word_detail.php?id=1202 "too 過"), 1, 0.74<br/>
-[動](word_detail.php?id=31990 "often 動"), 1, 0.74<br/>
-[惡](word_detail.php?id=17796 "how? 惡"), 1, 0.74<br/>
-[同時](word_detail.php?id=958 "at the same time / simultaneously 同時"), 1, 0.74<br/>
-[莎婆訶](word_detail.php?id=32094 "svāhā 莎婆訶"), 1, 0.74<br/>
-[都](word_detail.php?id=757 "all 都"), 1, 0.74<br/>
-[會](word_detail.php?id=606 "able to 會"), 1, 0.74<br/>
-[善](word_detail.php?id=30110 "numerous / frequent / easy 善"), 1, 0.74<br/>
-[邊](word_detail.php?id=20915 "on the one hand / on the other hand / doing while 邊"), 1, 0.74<br/>
-[復次](word_detail.php?id=31554 "furthermore / moreover 復次"), 1, 0.74<br/>
-[及其](word_detail.php?id=1503 "as well as 及其"), 1, 0.74<br/>
-[邪](word_detail.php?id=17904 "interrogative particle 邪"), 1, 0.74<br/>
-[感](word_detail.php?id=14774 "sense 感"), 1, 0.74<br/>
-[照](word_detail.php?id=5045 "according to / in accordance with 照"), 1, 0.74<br/>
-[白](word_detail.php?id=30817 "in vain / to no purpose / for nothing 白"), 1, 0.74<br/>
-### Frequency of new words
-呪, 6<br/>
-卷, 1<br/>
-抧, 1<br/>
+[諸](word_detail.php?id=3556 "all / many / various 諸") [all], 31, 18.16<br/>
+[是](word_detail.php?id=17908 "this / that 是") [this], 27, 15.82<br/>
+[等](word_detail.php?id=17035 "plural 等") [plural], 21, 12.30<br/>
+[有](word_detail.php?id=398 "is / are 有") [is], 18, 10.54<br/>
+[其](word_detail.php?id=1574 "his / her / its / theirs / that 其") [his], 18, 10.54<br/>
+[彼](word_detail.php?id=6890 "that / those 彼") [that], 17, 9.96<br/>
+[所](word_detail.php?id=1198 "introduces a relative clause 所") [introduces a relative clause], 16, 9.37<br/>
+[如是](word_detail.php?id=8840 "so / thus 如是") [so], 15, 8.79<br/>
+[若](word_detail.php?id=2850 "for example 若") [for example], 15, 8.79<br/>
+[於](word_detail.php?id=1710 "in / at / to / from 於") [in], 15, 8.79<br/>
+[者](word_detail.php?id=671 "used after a verb to indicate a person who does the action 者") [used after a verb to indicate a person who does the action], 13, 7.62<br/>
+[一切](word_detail.php?id=1490 "all / every / everything 一切") [all], 12, 7.03<br/>
+[生](word_detail.php?id=30576 "very / extremely 生") [very], 12, 7.03<br/>
+[皆](word_detail.php?id=5046 "all / each and every / in all cases 皆") [all], 11, 6.44<br/>
+[當](word_detail.php?id=1167 "at or in the very same 當") [at or in the very same], 10, 5.86<br/>
+[之](word_detail.php?id=730 "him / her / it 之") [him], 10, 5.86<br/>
+[經](word_detail.php?id=30281 "often / regularly / frequently 經") [often], 10, 5.86<br/>
+[汝](word_detail.php?id=6690 "you / thou 汝") [you], 10, 5.86<br/>
+[此](word_detail.php?id=624 "this, these 此") [this, these], 9, 5.27<br/>
+[言](word_detail.php?id=30881 "a particle with no meaning 言") [a particle with no meaning], 8, 4.69<br/>
+[各](word_detail.php?id=282 "each / every 各") [each], 8, 4.69<br/>
+[得](word_detail.php?id=411 "a sentence particle used after a verb to show effect / degree or possibility 得") [a sentence particle used after a verb to show effect], 8, 4.69<br/>
+[為](word_detail.php?id=372 "for / to 為") [for], 8, 4.69<br/>
+[數](word_detail.php?id=2820 "frequently / repeatedly  數") [frequently], 7, 4.10<br/>
+[又](word_detail.php?id=1632 "again / also 又") [again], 6, 3.51<br/>
+[故](word_detail.php?id=14849 "so 故") [so], 6, 3.51<br/>
+[相](word_detail.php?id=2909 "each other / one another / mutually 相") [each other], 6, 3.51<br/>
+[以](word_detail.php?id=650 "so as to 以") [so as to], 6, 3.51<br/>
+[不](word_detail.php?id=502 "not / no 不") [not], 6, 3.51<br/>
+[長](word_detail.php?id=1322 "director / chief / head / elder 長") [director], 6, 3.51<br/>
+[難](word_detail.php?id=1209 "hardly possible 難") [hardly possible], 5, 2.93<br/>
+[阿](word_detail.php?id=4798 "prefix to names of people 阿") [prefix to names of people], 5, 2.93<br/>
+[及](word_detail.php?id=962 "and 及") [and], 5, 2.93<br/>
+[何](word_detail.php?id=3087 "what / how / why / which 何") [what], 5, 2.93<br/>
+[已](word_detail.php?id=1007 "already 已") [already], 5, 2.93<br/>
+[我](word_detail.php?id=321 "I / me 我") [I], 5, 2.93<br/>
+[眾](word_detail.php?id=29896 "again 眾") [again], 4, 2.34<br/>
+[重](word_detail.php?id=14301 "again 重") [again], 4, 2.34<br/>
+[俱](word_detail.php?id=6116 "entirely / without exception 俱") [entirely], 4, 2.34<br/>
+[與](word_detail.php?id=509 "and 與") [and], 4, 2.34<br/>
+[是故](word_detail.php?id=27382 "therefore / so / consequently 是故") [therefore], 4, 2.34<br/>
+[伽](word_detail.php?id=6577 "ga 伽") [ga], 4, 2.34<br/>
+[光](word_detail.php?id=1232 "only 光") [only], 4, 2.34<br/>
+[能](word_detail.php?id=1263 "can / able 能") [can], 4, 2.34<br/>
+[而](word_detail.php?id=1336 "and / as well as / but (not) / yet (not) 而") [and], 3, 1.76<br/>
+[唎](word_detail.php?id=6558 "li 唎") [li], 3, 1.76<br/>
+[常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常") [always], 3, 1.76<br/>
+[如](word_detail.php?id=2567 "if 如") [if], 3, 1.76<br/>
+[多](word_detail.php?id=402 "more 多") [more], 3, 1.76<br/>
+[地](word_detail.php?id=1330 "subordinate particle 地") [subordinate particle], 3, 1.76<br/>
+[時](word_detail.php?id=31047 "at that time 時") [at that time], 3, 1.76<br/>
+[現在](word_detail.php?id=264 "at present / in the process of 現在") [at present], 3, 1.76<br/>
+[亦](word_detail.php?id=5060 "also 亦") [also], 3, 1.76<br/>
+[他](word_detail.php?id=518 "he / him 他") [he], 3, 1.76<br/>
+[晝夜](word_detail.php?id=4073 "continuously 晝夜") [continuously], 3, 1.76<br/>
+[即](word_detail.php?id=1964 " promptly / right away 即") [promptly], 3, 1.76<br/>
+[一](word_detail.php?id=11131 "as soon as / throughout 一") [as soon as], 2, 1.17<br/>
+[甚](word_detail.php?id=3447 "what 甚") [what], 2, 1.17<br/>
+[云何](word_detail.php?id=29318 "why 云何") [why], 2, 1.17<br/>
+[所以](word_detail.php?id=4851 "therefore / as a result / so 所以") [therefore], 2, 1.17<br/>
+[方](word_detail.php?id=30546 "at the time when / just when 方") [at the time when], 2, 1.17<br/>
+[但](word_detail.php?id=1182 "but / yet / however 但") [but], 2, 1.17<br/>
+[願](word_detail.php?id=13692 "to be ready / to be willing 願") [to be ready], 2, 1.17<br/>
+[非](word_detail.php?id=1003 "non- / not- / un- 非") [non-], 2, 1.17<br/>
+[來](word_detail.php?id=371 "indicates an approximate quantity 來") [indicates an approximate quantity], 2, 1.17<br/>
+[從](word_detail.php?id=1383 "from 從") [from], 2, 1.17<br/>
+[無](word_detail.php?id=1843 "-less / no / none / not / un- / regardless of 無") [-less], 2, 1.17<br/>
+[迦](word_detail.php?id=6564 "jia 迦") [jia], 2, 1.17<br/>
+[何況](word_detail.php?id=6721 "much less / let alone 何況") [much less], 2, 1.17<br/>
+[上](word_detail.php?id=585 "the position on or above something 上") [the position on or above something], 2, 1.17<br/>
+[本](word_detail.php?id=2037 "this (city, week, etc) 本") [this (city, week, etc)], 2, 1.17<br/>
+[耶](word_detail.php?id=6557 "final interogative 耶") [final interogative], 2, 1.17<br/>
+[中](word_detail.php?id=32951 "middle / during 中") [middle], 2, 1.17<br/>
+[前](word_detail.php?id=13069 "former 前") [former], 2, 1.17<br/>
+
+### Frequency of New Words
 并, 1<br/>
