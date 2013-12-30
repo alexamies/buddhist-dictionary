@@ -6,13 +6,13 @@ require_once 'inc/markdown.php';
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
-    <title>NTI Chinese-Sanskrit-English Buddhist Dictionary</title>
+    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <link rel="stylesheet" type="text/css" href="styles.css"/>
   </head>
   <body>
     <img id="logo" src="images/yan.png" alt="Logo"/>
-    <h1>NTI Chinese-Sanskrit-English Buddhist Dictionary</h1>
+    <h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1>
     <p class="menu">
       <a class="menu" href="index.html">Home</a> | 
       <a class="menu" href="tools.html">Tools</a> | 
