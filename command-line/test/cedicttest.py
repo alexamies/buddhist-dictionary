@@ -47,19 +47,19 @@ class CEDictTest(unittest.TestCase):
 
     def testGetGloss1(self):
         word_entry = {}
-        gloss = cedict.getGloss(word_entry)
+        gloss = cedict.GetEnglishGloss(word_entry)
         expected = ''
         self.assertEqual(expected, gloss)
 
     def testGetGloss3(self):
         word = {'id': '4321', 'traditional': u'尊者', 'grammar': 'pronoun'}
-        gloss = cedict.getGloss(word)
+        gloss = cedict.GetEnglishGloss(word)
         expected = ''
         self.assertEqual(expected, gloss)
 
     def testGetGloss3(self):
         word = {'english': 'hello / hi / good day'}
-        gloss = cedict.getGloss(word)
+        gloss = cedict.GetEnglishGloss(word)
         expected = 'hello'
         self.assertEqual(expected, gloss)
 

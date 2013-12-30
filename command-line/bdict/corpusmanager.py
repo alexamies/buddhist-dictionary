@@ -62,6 +62,9 @@ class CorpusManager:
                     if len(tokens) > 14:
                         if tokens[14] != '\\N':
                         	entry['period'] = tokens[14].strip()
+                    if len(tokens) > 15:
+                        if tokens[15] != '\\N':
+                        	entry['pos_tagged'] = tokens[15].strip()
                     corpus.append(entry)
         return corpus
 

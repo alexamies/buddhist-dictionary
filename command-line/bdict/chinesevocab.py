@@ -34,10 +34,12 @@ class ChineseVocabulary:
           corpus_entry: the corpus entry that contains the source file and other
                         information
 
+        Returns:
+          The name of the file written to
+
         Raises:
           BDictException: If the input file does not exist
         """
-        # print('Creating vocabulary based on a Chinese language document.')
         dictionary = cedict.ChineseEnglishDict()
         wdict = dictionary.OpenDictionary() # Word dictionary
 
@@ -74,7 +76,6 @@ class ChineseVocabulary:
             outfile = '%s/%s' % (analysis_directory, outfile)
 
         with codecs.open(outfile, 'w', "utf-8") as outf:
-            print('Writing output file %s ' % outfile)
             source_name = corpus_entry['source_name']
             source = corpus_entry['source']
             reference = corpus_entry['reference']
@@ -109,6 +110,7 @@ class ChineseVocabulary:
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('\n')
             self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
+        return outfile
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.
@@ -174,7 +176,7 @@ class ChineseVocabulary:
         word = sdict[traditional]
         word_id = word['id']
         english = word['english']
-        gloss = cedict.getGloss(word)
+        gloss = cedict.GetEnglishGloss(word)
         rel_freq = 1000 * freq / float(wc)
         outf.write('[%s](word_detail.php?id=%s "%s %s") [%s], %d, %.2f<br/>\n'
                    '' % (traditional, word_id, english, traditional, gloss, freq, rel_freq))

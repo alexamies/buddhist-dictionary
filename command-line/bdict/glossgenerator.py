@@ -1,7 +1,8 @@
-"""Module to HTML with mouseover gloss from a Chinese text document. ==========
+"""Module to generate output text with gloss from a Chinese text document. ====
 
-The analysis is output in HTML format with links back to the phrase memory and
-dictionary for each phrase and word in the Chinese text.
+The analysis is output in either HTML format with links back to the phrase 
+memory and dictionary for each phrase and word in the Chinese text or POS tag 
+format.
 """
 
 import codecs
@@ -12,46 +13,53 @@ from bdict import cjktextreader
 from bdict import chinesephrase
 from bdict import configmanager
 from bdict import phrasematcher
+from bdict import postagger
 
-DEFAULT_OUTFILE = 'temp.html'
+DEFAULT_OUTFILE_HTML = 'temp.html'
+DEFAULT_OUTFILE_POS = 'temp.txt'
+HTML_TYPE = 'html'  # Output type
+POS_TAGGED_TYPE = 'pos_tagged'  # Output type
 
 
-class HTMLGlossGenerator:
-    """Generates the HTML document.
+class GlossGenerator:
+    """Generates a document annotated with English gloss and other information.
    """
 
-    def __init__(self):
-        """Constructor for HTMLGlossGenerator class.
+    def __init__(self, output_type=HTML_TYPE):
+        """Constructor for GlossGenerator class.
         """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
+        self.output_type = output_type
+        self.tagger = postagger.POSTagger()
 
     def GenerateDoc(self, corpus_entry):
-        """Generates HTML text for the glossed version of the Chinese document.
+        """Generates output text for the glossed version of the Chinese document.
 
         Args:
           corpus_entry: the corpus entry for the source document.
 
         Returns:
-          A string with the generated HTML
+          A string with the generated output text.
 
         Raises:
           BDictException: If the input file does not exist
         """
-        html = ''
+        markup = ''
         if 'source_name' in corpus_entry:
             source_name = corpus_entry['source_name']
-            html += '<h2>%s</h2>\n' % source_name
-        html += '<p>Mouse over Chinese words for English gloss</p>'
+            markup += self._Title2(source_name)
+        if self.output_type == HTML_TYPE:
+            markup += self._Paragraph('Mouse over Chinese words for English gloss')
         if 'source_name' in corpus_entry:
             source = corpus_entry['source']
-            html += '<p>Source of document: %s</p>\n' % source
+            markup += self._Paragraph('Source of document: %s' % source)
         if 'reference' in corpus_entry:
             reference = corpus_entry['reference']
-            html += '<p>Reference: %s</p>\n' % reference
+            markup += self._Paragraph('Reference: %s\n' % reference)
         if 'translator' in corpus_entry:
             translator = corpus_entry['translator']
-            html += '<p>Translator: %s</p>\n' % translator
+            markup += self._Paragraph('Translator: %s' % translator)
 
         reader = cjktextreader.CJKTextReader()
         text = reader.ReadText(corpus_entry)
@@ -69,43 +77,97 @@ class HTMLGlossGenerator:
                 entry_id = entry['id']
                 url = ''
                 title = ''
-                if 'pos_tagged' in entry:
-                    title = entry['pos_tagged']
-                    url = '/buddhistdict/phrase_detail.php?id=%s' % entry_id
-                else:
-                    title = '%s %s' % (entry['pinyin'], entry['english'])
-                    url = '/buddhistdict/word_detail.php?id=%s' % entry_id
-                html += '<a href="%s" \n title="%s">%s</a>' % (url, title, element)
+                if 'pos_tagged' in entry: # Phrase
+                    markup += self._Phrase(element, entry)
+                else: # Word
+                    markup += self._Word(element, entry)
             else:
-                html += element
+                markup += self._Punctuation(element)
 
-        return html
+        return markup
 
     def WriteDoc(self, corpus_entry):
-        """Generates and writes HTML text for the glossed version of the Chinese document.
+        """Generates and writes output text for the glossed version of the Chinese document.
 
         Args:
           corpus_entry: the corpus entry for the source document.
 
         Returns:
-          A string with the generated HTML
+          The file name that the output text was written to.
 
         Raises:
           BDictException: If the input file does not exist
         """
         infile = corpus_entry['plain_text']
         period_pos = infile.find('.')
-        outfile = DEFAULT_OUTFILE
-        if infile.find('.') > -1:
+        outfile = DEFAULT_OUTFILE_HTML
+        if self.output_type == POS_TAGGED_TYPE:
+            outfile = DEFAULT_OUTFILE_POS
+            if infile.find('.') > -1:
+                outfile = '%s-gen-tagged.txt' % infile[0:period_pos]
+            if self.config['tagged_directory']:
+                tagged_directory = self.config['tagged_directory']
+                outfile = '%s/%s' % (tagged_directory, outfile)
+        elif infile.find('.') > -1:
             outfile = '%s-gloss.html' % infile[0:period_pos]
-        if self.config['gloss_directory']:
-            gloss_directory = self.config['gloss_directory']
-            outfile = '%s/%s' % (gloss_directory, outfile)
-        print('Writing HTML output to file %s' % outfile)
-        html = self.GenerateDoc(corpus_entry)
+            if self.config['gloss_directory']:
+                gloss_directory = self.config['gloss_directory']
+                outfile = '%s/%s' % (gloss_directory, outfile)
+        markup = self.GenerateDoc(corpus_entry)
         with codecs.open(outfile, 'w', "utf-8") as outf:
-            outf.write(html)
+            outf.write(markup)
             outf.close()
+        return outfile
+
+    def _Paragraph(self, text):
+        """Generates output text formatted for a paragraph.
+        """
+        if self.output_type == POS_TAGGED_TYPE:
+            #  return '%s\n\n' % text
+            return ''
+        return '<p>%s</p>\n' % text
+
+    def _Phrase(self, element_text, phrase_entry):
+        """Generates output text formatted for a phrase.
+        """
+        gloss = phrase_entry['pos_tagged']
+        if self.output_type == POS_TAGGED_TYPE:
+            tagged_entries = self.tagger.GetTaggedWords(phrase_entry)
+            text = ''
+            for entry in tagged_entries:
+                text += '%s\n' % entry
+            return text
+        entry_id = phrase_entry['id']
+        url = '/buddhistdict/phrase_detail.php?id=%s' % entry_id
+        return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
+
+    def _Punctuation(self, element_text):
+        """Generates output text formatted for a punctuation element.
+        """
+        if self.output_type == POS_TAGGED_TYPE:
+            pos = 'PU'
+            return '%s/%s\n' % (element_text, pos)
+        return element_text
+
+    def _Title2(self, text):
+        """Generates output text formatted for a a level 2 header.
+        """
+        if self.output_type == POS_TAGGED_TYPE:
+            # return '## %s' % text
+            return ''
+        return '<h2>%s</h2>\n' % text
+
+    def _Word(self, element_text, entry):
+        """Generates output text formatted for a word.
+        """
+
+        gloss = cedict.GetGloss(entry)
+        if self.output_type == POS_TAGGED_TYPE:
+            pos = self.tagger.GetTag(entry)
+            return '%s/%s[%s]\n' % (element_text, pos, gloss)
+        entry_id = entry['id']
+        url = '/buddhistdict/word_detail.php?id=%s' % entry_id
+        return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
 
 
 def _GenerateJSON(elements, combined_dict):

@@ -5,44 +5,46 @@ corpus.txt
 The file is a tab delimited file listing the URL and other details of corpus 
 source documents. Fields:
 
-ID: An identifier of the text document
+id: An identifier of the text document
 
-Document Name: An identifier of the sutra or other source document. There may be 
+source_name: An identifier of the sutra or other source document. There may be 
   multiple versions of the same source document, including translations
   in different languages or multiple translations.
 
-Type: File for local files, url for web documents
+type: File for local files, url for web documents
 
-Language: Human language that the document was written in.
+language: Human language that the document was written in.
 
-Character set: iast - International Alphabet for Sanskrit Transcription, 
+charset: iast - International Alphabet for Sanskrit Transcription, 
   traditional - traditional Chinese
 
-Document Tyle: Raw text in the historic language, translated into a modern language, or a commentary.
+doc_type: Raw text in the historic language, translated into a modern language, or a commentary.
 
-Document URI: Either the file name for local files or the URL for a web document
+uri: Either the file name for local files or the URL for a web document
   or a book ISBN.
 
-Source: A human friendly name for the document.
+source: A human friendly name for the document.
 
-Start marker: Text to identify start of text to be analyzed. Used to exclude 
+start: Text to identify start of text to be analyzed. Used to exclude 
   header information on web documents. Start marker itself is excluded. The text 
   '\N' indicates the text starts at the top of the document. Any text before the 
   start marker is ignored.
 
-End marker: Similar to the start marker. Anything after the end marker will be 
-  ignored.
+endr: Similar to the start marker. Anything after the end marker will be ignored.
 
-Plain Text: The plain text source document that the markdown is based on. 
+plain_text: The plain text source document that the markdown is based on. 
   Used for word frequency analysis.
 
-Translator: The original translator that translated the document from Sanskrit 
+translator: The original translator that translated the document from Sanskrit 
   or other language to Chinese.
 
-Reference: The reference in the Tripitaka, usually Taisho, including volume,
+reference: The reference in the Tripitaka, usually Taisho, including volume,
            number, and scroll.
 
-Genre: The genre of the text, such as Prajnaparamita, Jataka, etc.
+genre: The genre of the text, such as Prajnaparamita, Jataka, etc.
+
+period: The period that the text was translated to Chinese or created if 
+        written in another language.
 
 phrases.txt
 ===============================================================================

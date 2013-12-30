@@ -3171,7 +3171,7 @@
 3171	净土	淨土	Jìng Tŭ	Pure Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing4tu3.mp3	\N
 3172	弟子	\N	dìzi	disciple	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 3173	诵念	誦念	sòngnián	Chant / recite	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
-3174	菩提	\N	pútí	Bodhi / enlightenment / awakening	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bodhi
+3174	菩提	\N	pútí	bodhi / enlightenment / awakening	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bodhi
 3175	菩提心	\N	pútíxīn	bodhicitta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bodhicitta; a mind that strives for enlightenment and to benefit of all sentient beings
 3176	魔	\N	mó	evil / vice	noun	\N	\N	道德	Ethics	\N	\N	\N	mo2.mp3	\N
 3177	魔	\N	mó	Mara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	mo2.mp3	Sanskrit: māra
@@ -5039,8 +5039,8 @@
 5039	般	\N	bān	sort / kind / class / way / manner	noun	\N	\N	种类	Category	\N	\N	\N	ban1.mp3	\N
 5040	蜜	\N	mì	honey	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	mi4.mp3	\N
 5041	心经	心經	Xīnjīng	The Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: Prajñāpāramitā Hṛdaya
-5042	般若波罗蜜多心经	般若波羅蜜多心經	Bānruòluómìduō Xīnjīng	The Prajnaparamita Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: Prajñāpāramitā Hṛdaya
-5043	般若波罗蜜多	般若波羅蜜多	bānruòbōluómìduō	prajnaparamita / perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: prajñāpāramitā
+5042	般若波罗蜜多心经	般若波羅蜜多心經	Bōruòluómìduō Xīnjīng	The Prajnaparamita Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: Prajñāpāramitā Hṛdaya
+5043	般若波罗蜜多	般若波羅蜜多	bōruòbōluómìduō	prajnaparamita / perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: prajñāpāramitā
 5044	照	\N	zhào	to photograph / to shine / to illuminate / to reflect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zhao4.mp3	\N
 5045	照	\N	zhào	according to / in accordance with	adverb	\N	\N	特点	Characteristic	\N	\N	\N	zhao4.mp3	\N
 5046	皆	\N	jiē	all / each and every / in all cases	adverb	\N	\N	虚词	Function Words	\N	\N	\N	jie1.mp3	\N
@@ -5067,7 +5067,7 @@
 5067	舌头	舌頭	shétóu	tongue	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 5068	香	\N	xiāng	fragrant / savory / appetizing / sweet / scented / popular	adjective	味道	Flavor	饮食	Food and Drink	\N	\N	\N	xiang1.mp3	\N
 5069	味	\N	wèi	taste	noun	味道	Flavor	饮食	Food and Drink	\N	\N	\N	wei4.mp3	\N
-5070	眼界	\N	yǎnjiè	scope / sight	noun	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+5070	眼界	\N	yǎnjiè	sight / scope	noun	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 5071	乃	\N	nǎi	thus / so / therefore / then / only / thereupon	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 5072	乃	\N	nǎi	to be	verb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 5073	乃	\N	nǎi	you / yours	pronoun	\N	\N	书	Written Chinese	\N	\N	\N	\N	\N
@@ -17969,7 +17969,7 @@
 17969	洲际弹道导弹	洲際彈道導彈	zhōu jì dàn dào dǎodàn	intercontinental ballistic missile (ICBM)	noun	\N	\N	军事	Military	\N	\N	\N	\N	\N
 17970	韭菜	\N	jiǔcài	leek	noun	蔬菜	Vegetable	饮食	Food and Drink	\N	\N	\N	\N	\N
 17971	四圣谛	四聖諦	Sì Shèng Dì	Four Noble Truths	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: cattāri ariyasaccāni, namely: all life is suffering 苦, the cause of suffering is desire 集, emancipation comes only by eliminating passions 滅｜灭, the way 道 to emancipation is the Eight-fold Noble Way 八正道 / also called 苦集灭道
-17972	集	\N	jí	desire / greed / craving	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ji2.mp3	\N
+17972	集	\N	jí	to desire / to crave	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ji2.mp3	\N
 17973	正见	正見	zhèng jiàn	Right Understanding / Right View	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samyag-dṛṣṭi, Pali: sammā-diṭṭhi, the first element of the Eight-fold Noble Path 八正道, in particular, understanding of the Four Noble Truths (四聖諦).
 17974	蚩	\N	chī	ignorance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17975	思惟	\N	sīwéi	thought / thinking	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -33055,4 +33055,10 @@
 33055	呪	\N	zhòu	mantra	noun	\N	\N	宗教	Religion	\N	\N	\N	zhou4.mp3	Sanskrit: mantra
 33056	抧	\N	zhǐ	to open	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33057	万	\N	wàn	ten thousand	numeral	\N	\N	古文	Classical Chinese	\N	\N	\N	wan4.mp3	Besides being the simplified form, 万 is also an archaic variant of 萬.
-
+33058	香	\N	xiāng	fragrance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xiang1.mp3	\N
+33059	意识界	意識界	yìshí jiè	consciousness / awareness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xiang1.mp3	\N
+33060	集	\N	jí	desire / greed / craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji2.mp3	\N
+33061	揭帝	\N	jiēdì	gate / gone	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: gate. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
+33062	般罗揭帝	般羅揭帝	bōluójiēdì	paragate / pāragate / gone beyond	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pāragate. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
+33063	般罗僧揭帝	般羅僧揭帝	bōluósēngjiēdì	parasamgate / pārasaṃgate / gone altogether beyond	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pārasaṃgate. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
+33064	僧莎诃	僧莎訶	sēngshāhē	svaha / svāhā	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: svāhā. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.

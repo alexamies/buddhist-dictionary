@@ -89,7 +89,7 @@ def preferWord(entry1, entry2):
     return entry2
 
 
-def getGloss(word_entry):
+def GetEnglishGloss(word_entry):
     """Extracts the English gloss from a word definition.
 
     Because some definitions are long, containing many English synonymns, and different
@@ -109,4 +109,19 @@ def getGloss(word_entry):
     english = word_entry['english']
     gloss = english.split('/')
     return gloss[0].strip()
+
+
+def GetGloss(word_entry):
+    """Extracts the English gloss from a word definition and combines with the pinyin.
+
+    The gloss will be returned in the form pinyin | english. The English gloss will be
+    simplified as in GetEnglishGloss()
+
+    Args:
+      word_entry: The entry of the word in the dictionary.
+
+    Returns:
+      The gloss as a Unicode string.
+    """
+    return '%s | %s' % (word_entry['pinyin'], GetEnglishGloss(word_entry))
 
