@@ -12,9 +12,15 @@ class POSTaggerTest(unittest.TestCase):
 
     def testGetTag1(self):
         tagger = postagger.POSTagger()
-        word_entry = {'grammar': 'noun'}
+        word_entry = {'grammar': 'noun', 'traditional': u'苦厄'}
         tag = tagger.GetTag(word_entry)
         self.assertEqual('NN', tag)
+
+    def testGetTag2(self):
+        tagger = postagger.POSTagger()
+        word_entry = {'grammar': 'verb', 'traditional': u'為'}
+        tag = tagger.GetTag(word_entry)
+        self.assertEqual('VC', tag)
 
     def testGetTaggedWords1(self):
         tagger = postagger.POSTagger()
@@ -38,6 +44,28 @@ class POSTaggerTest(unittest.TestCase):
             # print(word)
         self.assertEqual(3, len(tagged_words))
         self.assertEqual(u'度/VV[dù | overcome]', tagged_words[0])
+
+    def testLoad(self):
+        tagger = postagger.POSTagger()
+        tag_defs = tagger._Load()
+        self.assertTrue(tag_defs)
+        self.assertEqual(31, len(tag_defs))
+        for tag_def in tag_defs:
+            if tag_def['tag'] == u'VC':
+                self.assertTrue('words' in tag_def)
+                self.assertTrue(u'為' in tag_def['words'])
+            if tag_def['tag'] == u'VE':
+                self.assertTrue('words' in tag_def)
+                self.assertTrue(u'無' in tag_def['words'])
+            if tag_def['tag'] == u'LC':
+                self.assertTrue('words' in tag_def)
+                self.assertTrue(u'北' in tag_def['words'])
+            if tag_def['tag'] == u'DT':
+                self.assertTrue('words' in tag_def)
+                self.assertTrue(u'各' in tag_def['words'])
+            if tag_def['tag'] == u'CC':
+                self.assertTrue('words' in tag_def)
+                self.assertTrue(u'與' in tag_def['words'])
 
 
 if __name__ == '__main__':

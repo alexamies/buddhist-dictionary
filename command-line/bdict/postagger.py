@@ -3,8 +3,42 @@
 The part-of-speech (POS) is given in Penn Chinese Treebank format. At present,
 the POS is returned based on dictionary lookup. 
 """
-
+import codecs
 import re
+
+TAG_DEF_FILE = '../data/dictionary/pos_penn.txt'
+
+DICT_2_PENN = {  # Dictionary for lookup of POS tag based on word entry grammar.
+               'noun': 'NN',
+               'adjective': 'VA',
+               'proper noun': 'NR',
+               'verb': 'VV',
+               'adverb': 'AD',
+               'particle': 'MSP',
+               'pronoun': 'PN',
+               'numeral': 'CD',
+               'ordinal': 'OD',
+               'preposition': 'P',
+               'measure word': 'M',
+               'conjunction': 'CC',
+               'interrogative pronoun': 'PN',
+               'auxiliary verb': 'VV',
+               'idiom': 'UNKOWN',
+               'phrase': 'UNKOWN',
+               'quantity': 'CD',
+               'onomatopoeia': 'ON',
+               'phonetic': 'ON',
+               'suffix': 'MSP',
+               'prefix': 'MSP',
+               'radical': 'UNKOWN',
+               'interjection': 'IJ',
+               'pattern': 'UNKOWN',
+               'set phrase': 'NR',
+               'expression': 'UNKOWN',
+               'number': 'CD',
+               'foreign': 'FW'
+              }
+
 
 class POSTagger:
     """Class for POS tagging.
@@ -13,38 +47,7 @@ class POSTagger:
     def __init__(self):
         """Constructor for POSTagger class.
         """
-        dict_2_pen = {  # Dictionary for lookup of POS tag based on word entry grammar.
-                      
-                      'noun': 'NN',
-                      'adjective': 'VA',
-                      'proper noun': 'NR',
-                      'verb': 'VV',
-                      'adverb': 'AD',
-                      'particle': '',
-                      'pronoun': 'PN',
-                      'numeral': 'CD',
-                      'ordinal': 'OD',
-                      'preposition': 'P',
-                      'measure word': 'M',
-                      'conjunction': 'CC',
-                      'interrogative pronoun': 'PN',
-                      'auxiliary verb': 'VV',
-                      'idiom': 'UNKOWN',
-                      'phrase': 'UNKOWN',
-                      'quantity': 'UNKOWN',
-                      'onomatopoeia': 'ON',
-                      'phonetic': 'ON',
-                      'suffix': 'UNKOWN',
-                      'prefix': 'UNKOWN',
-                      'radical': 'UNKOWN',
-                      'interjection': 'IJ',
-                      'pattern': 'UNKOWN',
-                      'set phrase': 'UNKOWN',
-                      'expression': 'UNKOWN',
-                      'number': 'CD',
-                      'foreign': 'FW'
-                     }
-        self.dict_2_pen = dict_2_pen
+        self.tag_defs = self._Load()
 
     def GetTag(self, word_entry):
         """Given the word entry, find the POS tag.
@@ -55,10 +58,14 @@ class POSTagger:
         Returns:
           A string representing the POS tag
         """
+        for tag_def in self.tag_defs:
+            if 'words' in tag_def:
+                if word_entry['traditional'] in tag_def['words']:
+                    return tag_def['tag']
         if 'grammar' in word_entry:
             grammar = word_entry['grammar']
-            if grammar in self.dict_2_pen:
-                return self.dict_2_pen[grammar]
+            if grammar in DICT_2_PENN:
+                return DICT_2_PENN[grammar]
         return 'UNKOWN'
 
     def GetTaggedWords(self, phrase_entry):
@@ -83,4 +90,25 @@ class POSTagger:
             tagged_word = '%s/%s' % (chinese_phrase, 'PHRASE')
             tagged_words.append(tagged_word)
         return tagged_words
+
+    def _Load(self):
+        """Reads the POS tag definitions into memory.
+
+        Puts the words for the closed sets into set structures.
+        """
+        tag_defs = []
+        with codecs.open(TAG_DEF_FILE, 'r', "utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                fields = line.split('\t')
+                if fields and len(fields) >= 3:
+                    tag_def = {}
+                    tag_def['tag'] = fields[0]
+                    tag_def['name'] = fields[1]
+                    if fields[2] != '\\N':
+                        tag_def['words'] = set(fields[2].split())
+                    tag_defs.append(tag_def)
+        return tag_defs
 

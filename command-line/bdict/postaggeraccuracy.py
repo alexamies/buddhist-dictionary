@@ -8,6 +8,8 @@ import codecs
 
 from bdict import app_exceptions
 
+MAX_DIFFERENCES = 5
+
 def TaggerAccuracy(standard, subject):
     """Compares the sequences for accuracy.
 
@@ -24,6 +26,16 @@ def TaggerAccuracy(standard, subject):
     if not standard or not subject:
         raise app_exceptions.BDictException('Input sequence null or empty')
     if len(standard) != len(subject):
+        print('Length of standard: %d. Length of subject: %d.' % (len(standard), len(subject)))
+        no_diff = 0
+        for i in range(len(standard)):
+            if standard[i] != subject[i]:
+                print('Files differ at line %d.' % i)
+                no_diff += 1
+                if no_diff >= MAX_DIFFERENCES:
+                    break
+            else:
+                no_diff = 0
         raise app_exceptions.BDictException('Sequence lengths do not match')
     no_matches = 0
     for i in range(len(standard)):

@@ -31,7 +31,7 @@ class GlossGeneratorTest(unittest.TestCase):
         generator = glossgenerator.GlossGenerator(output_type=glossgenerator.POS_TAGGED_TYPE)
         markup = generator.GenerateDoc(corpus_entry)
         self.assertTrue(markup)
-        self.assertTrue(markup.find(start) == 0)
+        self.assertTrue(markup.find(u'如') == 0)
 
     def testWriteDoc1(self):
         corpus_entry = {}

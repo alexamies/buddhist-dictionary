@@ -744,7 +744,7 @@
 744	年代	\N	niándài	decade / age / era / period	noun	\N	\N	时间	time	\N	\N	\N	nian2dai4.mp3	\N
 745	家	\N	jiā	family / home	noun	\N	\N	家	Family	\N	\N	\N	jia1a.mp3	\N
 746	口	\N	kǒu	measure word for people,pigs, and kitcheware	measure word	\N	\N	数量	Quantity	\N	\N	\N	kou3.mp3	Used for (1) people in families (2) pigs and (3) kitchenware
-747	住	\N	zhù	to live / to reside / to dwell	verb	\N	\N	住宿	Accommodation	\N	\N	\N	zhu4.mp3	\N
+747	住	\N	zhù	to dwell / to live / to reside	verb	\N	\N	住宿	Accommodation	\N	\N	\N	zhu4.mp3	\N
 748	间	間	jiān	measure word for rooms, houses, luggage, etc	measure word	\N	\N	数量	Quantity	\N	\N	\N	jian1.mp3	\N
 749	平方米	\N	píngfāngmǐ	square metre	measure word	\N	\N	数量	Quantity	\N	\N	\N	ping2fang1mi3.mp3	\N
 750	平房	\N	píngfáng	single-storey house	noun	\N	\N	建筑学	Architecture	\N	\N	\N	ping2fang2.mp3	\N
@@ -1000,7 +1000,7 @@
 1000	分别	分別	fēnbié	to differentiate / to distinguish	verb	\N	\N	比较	Comparison	\N	\N	\N	fen1bie2.mp3	\N
 1001	达到	達到	dádào	to reach / to attain	verb	\N	\N	行为	Actions	\N	\N	\N	da2dao4.mp3	\N
 1002	覆盖	覆蓋	fùgài	to cover	verb	\N	\N	行为	Actions	\N	\N	\N	fu4gai4.mp3	\N
-1003	非	\N	fēi	non- / not- / un-	adverb	\N	\N	虚词	Function Words	\N	\N	\N	fei1.mp3	The pattern 非…不… is a pattern of double negation commonly used to emphasize a point. In classical Chinese 非 is always used to negate nouns.
+1003	非	\N	fēi	not / non- / un-	adverb	\N	\N	虚词	Function Words	\N	\N	\N	fei1.mp3	The pattern 非…不… is a pattern of double negation commonly used to emphasize a point. In classical Chinese 非 is always used to negate nouns.
 1004	就业	就業	jiùyè	to get a job / to start a career	verb	\N	\N	工作	Work	\N	\N	\N	jiu4ye4.mp3	\N
 1005	人口	\N	rénkǒu	population	noun	\N	\N	数量	Quantity	\N	\N	\N	ren2kou3.mp3	\N
 1006	试	試	shì	to test / to try / to experiment	verb	\N	\N	试行	Attempt	\N	\N	\N	shi4.mp3	\N
@@ -1344,7 +1344,7 @@
 1344	回头	\N	huítóu	to turn round	verb	方向	Direction	移动	Movement	\N	\N	\N	hui2tou2.mp3	\N
 1345	谢伏瞻	謝伏瞻	Xiè Fúzhān	Fuzhan Xie (name of a person)	proper noun	人	Person	名字	Names	\N	\N	\N	xie4fu2zhan1.mp3	\N
 1346	坦承	\N	tǎnchéng	to speak candidly	verb	\N	\N	语言	Language	\N	\N	\N	tan3cheng2.mp3	\N
-1347	性	\N	xìng	sex / nature / surname / suffix corresponding to -ness	noun	\N	\N	健康	Health	\N	\N	\N	xing4.mp3	\N
+1347	性	\N	xìng	sex	noun	\N	\N	健康	Health	\N	\N	\N	xing4.mp3	Male or female
 1348	过剩	過剩	guòshèng	surplus / excess	noun	\N	\N	数量	Quantity	\N	\N	\N	guo4sheng4.mp3	\N
 1349	比较	比較	bǐjiào	to compare / to contrast	verb	\N	\N	比较	Comparison	\N	\N	\N	bi3jiao4.mp3	\N
 1350	比较	比較	bǐjiào	fairly / comparatively / relatively / quite / rather	adverb	\N	\N	比较	Comparison	\N	\N	\N	bi3jiao4.mp3	\N
@@ -1523,7 +1523,7 @@
 1523	转变	轉變	zhuǎnbiàn	to change / to transform	verb	\N	\N	变化	Change	\N	\N	\N	zhuan1bian4.mp3	\N
 1524	政协	政協	Zhèngxié	Chinese People's Political Consultative Committee (CPPCC)	proper noun	\N	\N	政治	Politics	\N	\N	\N	zheng4xie2.mp3	\N
 1525	陈清泰	陳清泰	Chén Qīngtài	Qingtai Chen (name of a person)	proper noun	人	Person	名字	Names	\N	\N	\N	chen2qing1tai4.mp3	\N
-1526	提出	\N	tíchū	to raise (an issue) / to propose / to put forward / to suggest	verb	\N	\N	语言	Language	\N	\N	\N	ti2chu1.mp3	\N
+1526	提出	\N	tíchū	to raise (an issue) / to propose / to put forward / to suggest / to initiate	verb	\N	\N	语言	Language	\N	\N	\N	ti2chu1.mp3	\N
 1527	改变	改變	gǎibiàn	to change / to alter / to transform	verb	\N	\N	变化	Change	\N	\N	\N	gai3bian4.mp3	\N
 1528	驾驭	駕馭	jiàyù	to control / to drive	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 1529	地位	\N	dìwèi	position / status / place	noun	\N	\N	位	Position	\N	\N	\N	di4wei4.mp3	\N
@@ -1571,7 +1571,7 @@
 1571	步伐	\N	bùfá	a pace / a measured step	noun	\N	\N	移动	Movement	\N	\N	\N	bu4fa1.mp3	\N
 1572	公有制	\N	gōngyǒuzhì	public ownership	noun	\N	\N	经济	Economics	\N	\N	\N	gong1you3zhi4.mp3	\N
 1573	优化	優化	yōuhuà	to optimize / to make superior	verb	\N	\N	变化	Change	\N	\N	\N	you1hua4.mp3	\N
-1574	其	\N	qí	his / her / its / theirs / that	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	qi2.mp3	\N
+1574	其	\N	qí	that / his / her / its / theirs	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	qi2.mp3	\N
 1575	外部	\N	wàibù	external part	noun	\N	\N	位	Position	\N	\N	\N	wai4bu4.mp3	\N
 1576	垄断	壟斷	lǒngduàn	to dominate a market / to monopolize	verb	\N	\N	经济	Economics	\N	\N	\N	long2duan4.mp3	\N
 1577	措施	\N	cuòshī	measure / step (to be taken)	noun	\N	\N	过程	Process	\N	\N	\N	cuo4shi1.mp3	\N
@@ -1600,7 +1600,7 @@
 1600	印	\N	yìn	to stamp / to seal / to mark / to print	verb	\N	\N	行为	Actions	\N	\N	\N	yin4.mp3	\N
 1601	印	\N	Yìn	India	proper noun	国家	Country	地理	Geography	印度	India	\N	yin4.mp3	Abbreviation for 印度.
 1602	发	髮	fà	hair	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
-1603	发	發	fā	to send out / to show / to issue	verb	\N	\N	行为	Actions	\N	\N	\N	fa1.mp3	\N
+1603	发	發	fā	to send out / to issue	verb	\N	\N	行为	Actions	\N	\N	\N	fa1.mp3	\N
 1604	方案	\N	fāngàn	plan / program / proposal	noun	\N	\N	工作	Work	\N	\N	\N	fang1an4.mp3	\N
 1605	通知	\N	tōngzhī	to notify / to inform	verb	\N	\N	信息	Information	\N	\N	\N	tong1zhi1.mp3	\N
 1606	通知	\N	tōngzhī	notice / notification	noun	\N	\N	信息	Information	\N	\N	\N	tong1zhi1.mp3	\N
@@ -1840,7 +1840,7 @@
 1840	少数	少數	shǎoshù	small number / few / minority	noun	\N	\N	数量	Quantity	\N	\N	\N	shao3shu4.mp3	\N
 1841	跨国	跨國	kuàguó	transnational / multinational	adjective	\N	\N	商务	Commerce	\N	\N	\N	kua4guo2.mp3	\N
 1842	跨国公司	跨國公司	kuàguó gōngsī	multinational corporation	noun	\N	\N	商务	Commerce	\N	\N	\N	kua4guo2gong1si1.mp3	\N
-1843	无	無	wú	-less / no / none / not / un- / regardless of	adverb	\N	\N	虚词	Function Words	\N	\N	\N	wu2.mp3	In classical Chinese 无 always negates a noun.
+1843	无	無	wú	no / not / -less / none / un- / regardless of	adverb	\N	\N	虚词	Function Words	\N	\N	\N	wu2.mp3	In classical Chinese 无 always negates a noun.
 1844	芯	\N	xīn	lamp pith / core / silicon chip	noun	\N	\N	电子	Electronics	\N	\N	\N	xin1.mp3	\N
 1845	痛	\N	tòng	aching / painful / sorrowful	adjective	症状	Symptom	健康	Health	\N	\N	\N	tong4.mp3	\N
 1846	长期	長期	chángqī	long term / long time	adjective	\N	\N	时间	Time	\N	\N	\N	chang2qi1.mp3	\N
@@ -2563,8 +2563,8 @@
 2563	根据	根據	gēnjù	to be according to / to be based on	verb	\N	\N	状况	Condition	\N	\N	\N	gen1ju4.mp3	\N
 2564	根据	根據	gēnjù	according to	preposition	方式	Mode	虚词	Function Words	\N	\N	\N	gen1ju4.mp3	\N
 2565	特点	特點	tèdiǎn	characteristic / trait / feature	noun	\N	\N	特点	Characteristic	\N	\N	\N	te4dian3.mp3	\N
-2566	如	\N	rú	as (if) / such as / for example / to appear / to seem / to exceed	verb	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	\N
-2567	如	\N	rú	if	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	\N
+2566	如	\N	rú	such as / for example / for instance	verb	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	\N
+2567	如	\N	rú	if	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	A subordinate conjunction
 2568	代替	\N	dàitì	to replace / to substitute for	verb	\N	\N	行为	Actions	\N	\N	\N	dai4ti4.mp3	\N
 2569	横	橫	héng	horizontal / across	adjective	\N	\N	位	Position	\N	\N	\N	heng2.mp3	\N
 2570	横	橫	héng	to organize horizontally / to traverse	verb	\N	\N	位	Position	\N	\N	\N	heng2.mp3	\N
@@ -3163,8 +3163,8 @@
 3163	无常	無常	wúcháng	impermanence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: anitya, Pali: anicca
 3164	无我	無我	wúwǒ	selflessness / non-self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: anātman, Pali: anattā, or Sanskrit niṣpudgala; a term used in Buddhist sutras, anatta (Pali)
 3165	佛法	\N	Fófǎ	Dharma / Dhárma / Dhamma / Buddha-Dhárma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrt: dhárma, Pali: dhamma; the teachings of the Buddha
-3166	菩萨	菩薩	púsà	bodhisattva	proper noun	\N	\N	佛教	Buddhism	大乘	Mahayana	guanyin_beiguang400.jpg	pu2sa4.mp3	Sanskrit: bodhisattva, Pali: bodhisatta
-3167	经	經	jīng	a classic / a scripture / sutra	noun	\N	\N	文学	Literature	\N	\N	sutra_med.jpg	\N	Sanskrit: sūtra; synonym discussion: in this sense 经 is has the same meaning as 经书, 经典, 道经,or 佛经.
+3166	菩萨	菩薩	púsà	bodhisattva	noun	\N	\N	佛教	Buddhism	大乘	Mahayana	guanyin_beiguang400.jpg	pu2sa4.mp3	Sanskrit: bodhisattva, Pali: bodhisatta
+3167	经	經	jīng	a sutra / a sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	sutra_med.jpg	\N	Sanskrit: sūtra; synonym discussion; usually refers to words spoken by the Buddha.
 3168	修行	\N	xiūxíng	to cultivate spiritually	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bhāvanā, Pali: bhāvanā
 3169	藏	\N	zàng	Tripitaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 3170	佛说八大人觉经	佛說八大人覺經	Fóshuō Bā Dàrén Jué Jīng	Sutra on the Eight Realizations of the Great Beings	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
@@ -3177,7 +3177,7 @@
 3177	魔	\N	mó	Mara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	mo2.mp3	Sanskrit: māra
 3178	梵	\N	fàn	Sanskrit	proper noun	语言	Language	外语	Foreign Language	印度	India	sanskrit400.jpg	\N	\N
 3179	梵	\N	Fàn	Brahma	proper noun	\N	\N	宗教	Religion	印度教	Hinduism	\N	\N	Sanskrit: bráhman, a supreme, universal spirit
-3180	众生	眾生	zhòngshēng	All living things / all sentient beings	noun	\N	\N	大自然	Nature	\N	\N	\N	\N	\N
+3180	众生	眾生	zhòngshēng	a being / all living things / all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sattva
 3181	圣	聖	shèng	holy / sacred / spiritual	adjective	\N	\N	宗教	Religion	\N	\N	\N	sheng4.mp3	\N
 3182	禅	禪	Chán	Chan / Zen	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	chan2.mp3	\N
 3183	打坐	\N	dǎzuò	to do sitting meditation	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
@@ -3383,7 +3383,7 @@
 3383	方	\N	Fāng	Fang	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	fang1.mp3	\N
 3384	证	證	zhèng	certificate / proof	noun	\N	\N	写作	Writing	\N	\N	\N	zheng4.mp3	\N
 3385	证	證	zhèng	to prove / to demonstrate / to confirm	verb	\N	\N	思想	Thought	\N	\N	\N	zheng4.mp3	\N
-3386	实	實	shí	real / true / honest / really / solid	adjective	\N	\N	思想	Thought	\N	\N	\N	shi4.mp3	\N
+3386	实	實	shí	real / true / honest / really	adjective	\N	\N	思想	Thought	\N	\N	\N	shi4.mp3	\N
 3387	曼	\N	màn	large / long / handsome	adjective	\N	\N	规模	Scale	\N	\N	\N	man4.mp3	\N
 3388	德	\N	Dé	Germany	proper noun	国家	Country	地理	Geography	德国	Germany	\N	de2.mp3	Abbreviation for 德国 (Déguó)
 3389	德	\N	dé	virtue / goodness / morality / ethics / kindness / favor / character	noun	\N	\N	道德	Ethics	\N	\N	\N	de2.mp3	\N
@@ -3509,7 +3509,7 @@
 3509	法	\N	fǎ	the teachings of the Buddha / Dharma / Dhárma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fa3.mp3	Sanskrt: dhárma, short form of 佛法
 3510	法国	法國	Fǎguó	France	proper noun	国家	Country	地理	Geography	欧洲	Europe	\N	fa3guo2.mp3	Abbreviation  is 法
 3511	做法	\N	zuòfǎ	a way of doing things / a practice / a behavior	noun	\N	\N	行为	Actions	\N	\N	\N	zuo4fa3.mp3	\N
-3512	言	\N	yán	to speak / to say	verb	\N	\N	语言	Language	\N	\N	\N	yan2.mp3	\N
+3512	言	\N	yán	to speak / to say / said	verb	\N	\N	语言	Language	\N	\N	\N	yan2.mp3	\N
 3513	言	\N	yán	language / talk / word	noun	\N	\N	语言	Language	\N	\N	\N	yan2.mp3	\N
 3514	具体而言	 具體而言	jùtǐ ér yán	speaking concretely	phrase	\N	\N	语言	Language	\N	\N	\N	ju4ti3er2yan2.mp3	\N
 3515	闪	閃	shǎn	lightning / flash	noun	\N	\N	光纤	Light	\N	\N	\N	shan3.mp3	\N
@@ -3667,7 +3667,7 @@
 3667	弘	\N	hóng	great / liberal	adjective	\N	\N	规模	Scale	\N	\N	\N	hong2.mp3	\N
 3668	扬	揚	yáng	to raise / to hoist / the action of tossing / to flutter / to propagate	verb	\N	\N	行为	Actions	\N	\N	\N	yang2.mp3	\N
 3669	人才	\N	réncái	a talented person	noun	\N	\N	人	People	\N	\N	\N	\N	\N
-3670	善	\N	shàn	wholesome / virtuous / benevolent / well-disposed	adjective	\N	\N	道德	Ethics	\N	\N	\N	shan4.mp3	\N
+3670	善	\N	shàn	virtuous / wholesome / benevolent / well-disposed	adjective	\N	\N	道德	Ethics	\N	\N	\N	shan4.mp3	\N
 3671	戕	\N	qiāng	to kill / to injure 	verb	\N	\N	法律	Law	\N	\N	\N	qiang1.mp3	\N
 3672	慈善	\N	císhàn	benevolent / charitable	adjective	\N	\N	慈善会	Charity	\N	\N	\N	\N	\N
 3673	利	\N	lì	advantage / benefit	noun	\N	\N	状况	Condition	\N	\N	\N	li4.mp3	\N
@@ -3808,7 +3808,7 @@
 3808	巴	\N	bā	bar	measure word	\N	\N	科学	Science	\N	\N	\N	ba1.mp3	A unit of pressure
 3809	巴	\N	Bā	Ba	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	ba1.mp3	\N
 3810	巴勒斯坦	\N	Bālèsītǎn	Palestine	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	\N	Abbreviation is 巴
-3811	尔	爾	ěr	thus / so / like that / you / thou	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+3811	尔	爾	ěr	thus / so / like that	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 3812	马拉巴尔	馬拉巴爾	Mǎlābāěr	Mallabar	proper noun	地方	Place	地方	Places	\N	\N	\N	ma1la1ba1er3.mp3	\N
 3813	演	\N	yǎn	to perform / to play / to act	verb	\N	\N	戏剧	Drama	\N	\N	\N	yan3.mp3	\N
 3814	演	\N	yǎn	to practice	verb	\N	\N	行为	Actions	\N	\N	\N	yan2.mp3	\N
@@ -3928,7 +3928,7 @@
 3928	智慧	\N	zhìhuì	wisdom / knowledge	noun	\N	\N	思想	Thought	\N	\N	\N	zhi4hui4.mp3	The sixth of the six paramitas
 3929	教	\N	jiāo	to teach / to educate	verb	\N	\N	教育	Education	\N	\N	\N	jiao1.mp3	\N
 3930	乐	樂	lè	happy / cheerful / joyful	adjective	\N	\N	感情	Emotion	\N	\N	\N	le4.mp3	\N
-3931	乐	樂	lè	to laugh / to be happy / to be cheerful	verb	\N	\N	幽默	Humor	\N	\N	\N	le4.mp3	\N
+3931	乐	樂	lè	to take joy in / to laugh / to be happy / to be cheerful	verb	\N	\N	幽默	Humor	\N	\N	\N	le4.mp3	\N
 3932	乐	樂	Lè	Le	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	le4.mp3	\N
 3933	乐	樂	yuè	music	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yue4.mp3	\N
 3934	贫苦	貧苦	pínkǔ	poverty-stricken / poor	adjective	\N	\N	经济	Economics	\N	\N	\N	\N	\N
@@ -5071,7 +5071,7 @@
 5071	乃	\N	nǎi	thus / so / therefore / then / only / thereupon	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 5072	乃	\N	nǎi	to be	verb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 5073	乃	\N	nǎi	you / yours	pronoun	\N	\N	书	Written Chinese	\N	\N	\N	\N	\N
-5074	乃至	\N	nǎizhì	and even	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+5074	乃至	\N	nǎizhì	and even	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 5075	无明	無明	wúmíng	ignorance / avidyā / avijjā	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: avidyā, Pali: avijjā
 5076	苦集灭道	苦集滅道	kǔ jí miè dào	The Four Noble Truths	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	namely: all life is suffering 苦, the cause of suffering is desire 集, emancipation comes only by eliminating passions 滅｜灭, the way 道 to emancipation is the Eight-fold Noble Way 八正道 / also called 四諦｜四谛
 5077	四谛	四諦	sì dì	The Four Noble Truths	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	namely: all life is suffering 苦, the cause of suffering is desire 集, emancipation comes only by eliminating passions 滅｜灭, the way 道 to emancipation is the Eight-fold Noble Way 八正道 / also called 苦集滅道
@@ -6641,7 +6641,7 @@
 6641	崇拜	\N	chóngbài	to worship / to adore	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 6642	白搭	\N	báidā	no use / no good	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 6643	长老	長老	zhǎnglǎo	an elder	noun	\N	\N	社会	Society	\N	\N	\N	\N	Sanskrit: sthavira
-6644	大众	大眾	dàzhòng	people / public / masses / assembly / audience	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	da4zhong4.mp3	\N
+6644	大众	大眾	dàzhòng	assembly / people / public / masses / audience	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	da4zhong4.mp3	\N
 6645	须菩提	須菩提	xūpútí	Subhuti	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: subhūti, first in understanding of emptiness
 6646	袒	\N	tǎn	to bare	verb	\N	\N	行为	Actions	\N	\N	\N	tan3.mp3	\N
 6647	偏袒	\N	piāntǎn	to side with / to discriminate in favor of	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -6657,7 +6657,7 @@
 6657	三顾茅庐	三顧茅廬	sān gù máo lú	three humble visits to a thatched cottage	phrase	\N	\N	文学	Literature	三国演义	Romance of Three Kingdoms	\N	\N	Episode in the fictional Romance of Three Kingdoms
 6658	三国演义	三國演義	Sān Guó Yǎn yì	Romance of Three Kingdoms	proper noun	长篇小说	Long Novel	文学	Literature	明朝	Ming Dynasty	\N	\N	c. 1400 By Luo Guanzhong 罗贯中, one of the Four Classic Novels of Chinese literature 四大名著. A fictional account of the Three Kingdoms at the break-up of the Han around 200 CE, including characters Liu Bei 刘备 of Shu Han and Cao Cao 曹操  of Wei
 6659	解	\N	jiě	to divide / to break up / to split / to separate / to dissolve / to solve / to melt / to untie / to loosen / to open / to emancipate	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
-6660	解	\N	jiě	to explain / to understand	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+6660	解	\N	jiě	to explain	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 6661	解	\N	jiě	a solution / a dissection	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 6662	解	\N	jiè	to transport under guard 	verb	\N	\N	移动	Movement	\N	\N	\N	jie4.mp3	\N
 6663	解	\N	Xiè	Xie 	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	xie4.mp3	\N
@@ -6699,9 +6699,9 @@
 6699	不住	\N	bùzhù	repeatedly / continuously / constantly	adverb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 6700	思量	\N	sīliáng	to reckon / to consider and measure	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 6701	理	\N	lǐ	reason / logic / science / inner principle or structure	noun	\N	\N	思想	Thought	\N	\N	\N	li3.mp3	\N
-6702	凡	\N	fán	ordinary / every / all / whatever / worldly	adverb	\N	\N	特点	Characteristic	\N	\N	\N	fan2.mp3	\N
+6702	凡	\N	fán	ordinary	adjective	\N	\N	特点	Characteristic	\N	\N	\N	fan2.mp3	\N
 6703	妄	\N	wàng	absurd / fantastic / presumptuous / rash	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	wang4.mp3	\N
-6704	虚妄	虛妄	xūwàng	fabricated / not real	adjective	\N	\N	特点	Characteristic	\N	\N	\N	\N	\N
+6704	虚妄	虛妄	xūwàng	not real / fabricated	adjective	\N	\N	特点	Characteristic	\N	\N	\N	\N	\N
 6705	压缩	壓縮	yāsuō	to compress	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 6706	压缩	壓縮	yāsuō	compression	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 6707	算法	\N	suànfǎ	arithmetic / algorithm / method of calculation	noun	\N	\N	数学	Mathematics	\N	\N	\N	\N	\N
@@ -6889,7 +6889,7 @@
 6889	偈	\N	jié	forceful / martial 	adjective	\N	\N	暴力	Violence	\N	\N	\N	jie2.mp3	\N
 6890	彼	\N	bǐ	that / those	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	bi3.mp3	\N
 6891	洹	\N	Huán	Huan	proper noun	\N	\N	地方	Places	\N	\N	\N	huan2.mp3	\N
-6892	阿罗汉	阿羅漢	Āluóhàn	Arhat	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: arhat, Pali: arahant, a holy man who has left behind all earthly desires and concerns and attained Nirvana
+6892	阿罗汉	阿羅漢	Āluóhàn	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: arhat, Pali: arahant, a holy man who has left behind all earthly desires and concerns and attained Nirvana
 6893	昧	\N	mèi	to conceal	verb	\N	\N	行为	Actions	\N	\N	\N	mei4.mp3	\N
 6894	昧	\N	mèi	dark	adjective	\N	\N	光纤	Light	\N	\N	\N	mei4.mp3	\N
 6895	三昧	\N	sānmèi	samadhi / mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samādhi, Pali: samādhi; a higher level of concentrated meditation.  There are four kinds of samadhi: (1) constant sitting samadhi 常坐三昧; (2) constant walking samadhi 常行三昧; (3) half walking, half sitting samadhi 半行半坐三昧; 4 non-walking, non-sitting samadhi 非行非坐三昧
@@ -8836,8 +8836,8 @@
 8836	夭	\N	yāo	tender / gentle	adjective	\N	\N	书	Written Chinese	\N	\N	\N	yao1.mp3	\N
 8837	夭折	\N	yāozhé	to die young / to end prematurely	verb	\N	\N	书	Written Chinese	\N	\N	\N	yao1zhe2.mp3	\N
 8838	夭折	\N	yāozhé	to abort	verb	\N	\N	医疗	Medicine	\N	\N	\N	yao1zhe2.mp3	\N
-8839	如	\N	rú	at	preposition	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	\N
-8840	如是	\N	rúshì	so / thus	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+8839	如	\N	rú	at / in accordance with	preposition	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	Synonymous with 按照
+8840	如是	\N	rúshì	thus / so	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 8841	舍卫大城	舍衛大城	Shèwèi Dà Chéng	city of Shravasti	proper noun	\N	\N	地方	Places	印度	India	\N	\N	Mentioned in the Diamond Sutra
 8842	希	\N	xī	to hope	verb	\N	\N	感情	Emotion	\N	\N	\N	xi1.mp3	\N
 8843	希	\N	xī	to look	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
@@ -9486,7 +9486,7 @@
 9486	严肃	嚴肅	yánsù	to become solemn	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 9487	晒	曬	shài	to dry in the sunshine / to sunbathe	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 9488	晒	曬	shài	to share web files	verb	\N	\N	信息技术	Information Technology	网络	Networking	\N	\N	\N
-9489	衣服	\N	yīfu	clothes	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
+9489	衣服	\N	yīfu	clothes / attire	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
 9490	品德	\N	pǐndé	moral character	noun	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
 9491	床单	床單	chuángdān	bed sheet	noun	\N	\N	家庭用品	Household Article	\N	\N	\N	\N	\N
 9492	单音	單音	dānyīn	monosyllabic	adjective	\N	\N	语言	Language	\N	\N	\N	\N	\N
@@ -11138,7 +11138,7 @@
 11138	一齐	一齊	yīqí	simultaneously	adverb	\N	\N	时间	Time	\N	\N	\N	\N	\N
 11139	一生	\N	yīshēng	all one's life	noun	\N	\N	生活	Life	\N	\N	\N	\N	\N
 11140	一时	一時	yīshí	a period of time / a while	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
-11141	一时	一時	yīshí	temporarily / momentarily / simultaneously	adverb	\N	\N	时间	Time	\N	\N	\N	\N	\N
+11141	一时	一時	yīshí	at one time / temporarily / momentarily / simultaneously	adverb	\N	\N	时间	Time	\N	\N	\N	\N	\N
 11142	一同	\N	yītóng	along / together	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 11143	一下子	\N	yī xiàzi	in a short while / all at once / all of a sudden	phrase	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 11144	一道	\N	yīdào	together	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
@@ -11490,7 +11490,7 @@
 11490	茶叶	茶葉	cháyè	tea / tea-leaves	noun	饮料	Beverage	饮食	Food and Drink	\N	\N	\N	\N	Although this term is translated to <b>tea</b> the literal meaning is tea leaves.  The character 茶 by itself means the actual drink.
 11491	每	\N	měi	each / every	adverb	\N	\N	数量	Quantity	\N	\N	\N	mei3.mp3	\N
 11492	名	\N	míng	to do something under some other name	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
-11493	如	\N	rú	to be appropriate	verb	\N	\N	状况	Condition	\N	\N	\N	ru2.mp3	\N
+11493	如	\N	rú	to be appropriate / should	verb	\N	\N	状况	Condition	\N	\N	\N	ru2.mp3	\N
 11494	生	\N	shēng	a student	noun	\N	\N	教育	Education	\N	\N	\N	sheng1.mp3	\N
 11495	生	\N	shēng	life	noun	\N	\N	生活	Life	\N	\N	\N	sheng1.mp3	\N
 11496	数	數	shù	number / figure / amount / count	noun	\N	\N	数量	Quantity	\N	\N	\N	shu4.mp3	\N
@@ -13405,13 +13405,13 @@
 13405	万万	萬萬	wànwàn	absolutely / wholly	adverb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 13406	万一	萬一	wànyī	just in case / if by any chance	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 13407	万一	萬一	wànyī	contingency	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-13408	往来	往來	wǎnglái	to come and go	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+13408	往来	往來	wǎnglái	to come and go / to return	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 13409	微小	\N	wēixiǎo	very small / little	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	\N
 13410	危险	危險	wēixiǎn	danger	noun	\N	\N	状况	Condition	\N	\N	\N	wei1xian3.mp3	\N
 13411	为难	為難	wéinán	to make things difficult for	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 13412	为	為	wéi	to act as	verb	\N	\N	状况	Condition	\N	\N	\N	wei2.mp3	\N
 13413	为	為	wéi	to change into	verb	\N	\N	变化	Change	\N	\N	\N	wei2.mp3	\N
-13414	为	為	wéi	to be	verb	\N	\N	状况	Condition	\N	\N	\N	wei2.mp3	\N
+13414	为	為	wéi	to be / is	verb	\N	\N	状况	Condition	\N	\N	\N	wei2.mp3	\N
 13415	为	為	wéi	to do	verb	\N	\N	过程	Process	\N	\N	\N	wei2.mp3	\N
 13416	为首	為首	wéishǒu	to be the leader	verb	\N	\N	管理	Administration	\N	\N	\N	\N	\N
 13417	为止	為止	wéizhǐ	until / up to	verb	\N	\N	时间	Time	\N	\N	\N	\N	\N
@@ -13462,7 +13462,7 @@
 13462	蔑	\N	miè	nothing	noun	\N	\N	形态	Form	\N	\N	\N	mie4.mp3	\N
 13463	诬蔑	誣蔑	wūmiè	to slander / to smear / to vilify	verb	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
 13464	无比	無比	wúbǐ	incomparable / unparalleled	adjective	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
-13465	无	無	wú	to not have	verb	\N	\N	状况	Condition	\N	\N	\N	wu2.mp3	\N
+13465	无	無	wú	to not have	verb	\N	\N	虚词	Function Words	\N	\N	\N	wu2.mp3	\N
 13466	无产阶级	無產階級	wú chǎn jiējí	proletariat / working class	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
 13467	无论如何	無論如何	wúlùn rúhé	anyhow / anyway / whatever	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 13468	无情	無情	wúqíng	pitiless / ruthless / merciless / heartless	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
@@ -16229,7 +16229,7 @@
 16229	脱落	脫落	tuōluò	to fall off	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 16230	妥善	\N	tuǒshàn	appropriate	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 16231	妥协	妥協	tuǒxié	to compromise	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
-16232	挖掘	\N	wājué	to excavate	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+16232	挖掘	\N	wājué	to excavate	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
 16233	瓦解	\N	wǎjiě	to disintegrate	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
 16234	外表	\N	wàibiǎo	external appearance	noun	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 16235	外宾	外賓	wàibīn	a foreign guest	noun	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
@@ -17173,7 +17173,7 @@
 17173	自	\N	zì	to come from	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zi4.mp3	\N
 17174	遽	\N	jù	to be swift	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ju4.mp3	\N
 17175	契	\N	qì	to cut / to carve	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	qi4.mp3	\N
-17176	以	\N	yǐ	to grasp / to use	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	yi3.mp3	\N
+17176	以	\N	yǐ	to use / to grasp	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	yi3.mp3	\N
 17177	弗	\N	fú	no	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu2.mp3	\N
 17178	鬻	\N	yù	to sell	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	yu4.mp3	\N
 17179	誉	譽	yù	to praise	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	yu4.mp3	\N
@@ -17423,7 +17423,7 @@
 17423	谏	諫	jiàn	to remonstrate / to admonish	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	jian4.mp3	\N
 17424	被	\N	pī	to wear	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	pi1.mp3	\N
 17425	士	\N	shì	an officer / a warrior	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
-17426	俱	\N	jū	together	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	ju1.mp3	\N
+17426	俱	\N	jū	together / along with	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	ju1.mp3	\N
 17427	反	\N	fǎn	to go back	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fan3.mp3	\N
 17428	旷	曠	kuàng	to be pointless / to be empty	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	kuang4.mp3	\N
 17429	师	師	shī	multitude	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -17921,7 +17921,7 @@
 17921	兴	興	xīng	to move	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xing1.mp3	\N
 17922	兴	興	xīng	interesting	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	xing1.mp3	\N
 17923	勃	\N	bó	sudden / abrupt	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	bo2.mp3	\N
-17924	衣	\N	yì	to wear (clothes)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yi4.mp3	\N
+17924	衣	\N	yì	to wear (clothes) / to put on	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yi4.mp3	\N
 17925	师	師	shī	host	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17926	食	\N	shí	to feed	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi2.mp3	\N
 17927	蒭	\N	chú	to cut grass, hay, or fodder	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	chu2.mp3	\N
@@ -17991,7 +17991,7 @@
 17991	四念住	\N	Sì Niàn Zhù	Four Foundations of Mindfulness / Satipatthana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: catvāri smrty-upasthānāni, Pali: cattāro sati-patthānāni; (1) Contemplate the impurities of the body 观身不净 (2) contemplate the suffering of feelings 观受是苦 (3) contemplate the impermanence of the mind 观心无常 (4) contemplate the non-selfhood of phenomena 观法无我
 17992	受	\N	shòu	feelings / sensations	noun	蕴	Aggregate	佛教	Buddhism	\N	\N	\N	shou4.mp3	Sanskrit: vedanā, Pali: vedanā; one of the five aggregates
 17993	心	\N	xīn	mind / consciousness	noun	\N	\N	思想	Thought	\N	\N	\N	xin1.mp3	\N
-17994	法	\N	fǎ	a natural law / dharmas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrt: dhárma, Pali: dhamma
+17994	法	\N	fǎ	a dharma / a natural law	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrt: dhárma, Pali: dhamma
 17995	四静虑	四靜慮	Sì Jìnglǜ	Four Jhanas / four stages of meditative concentration	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 17996	静虑	靜慮	jìnglǜ	a jhanas / a dhyana / a stage of meditative concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 17997	门第	門第	méndì	family status	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
@@ -19891,7 +19891,7 @@
 19891	炝	熗	qiàng	to stir-fry then cook with sauce and water / to boil food briefly then dress with soy	verb	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
 19892	时蔬	\N	shíshū	seasonal vegetables	noun	蔬菜	Vegetable	饮食	Food and Drink	\N	\N	\N	\N	\N
 19893	口味	\N	kǒuwèi	tastes / flavor	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
-19894	崇尚	\N	chóngshàng	to hold in esteem / to revere / to advocate	verb	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
+19894	崇尚	\N	chóngshàng	to respect / to hold in esteem / to revere / to advocate	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 19895	秉承	\N	bǐngchéng	to take orders / to receive commands / to perform / to carry out	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 19896	美式	\N	Měishì	American style	adjective	\N	\N	文化	Culture	\N	\N	\N	\N	\N
 19897	美式咖啡	\N	Měishì kāfēi	cafe Americano	set phrase	饮料	Beverage	饮食	Food and Drink	\N	\N	\N	\N	\N
@@ -19906,7 +19906,7 @@
 19906	布满	佈滿	bùmǎn	to be full of	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 19907	夹住	夾住	jiāzhù	to grip	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 19908	磁极	磁極	cíjí	magnetic pole	noun	\N	\N	物理	Physics	\N	\N	\N	\N	\N
-19909	铺展	鋪展	pūzhǎn	spread out	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+19909	铺展	鋪展	pūzhǎn	spread out	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 19910	同音词	同音詞	tóngyīncí	homonym / a homophonic word	noun	\N	\N	语言	Language	\N	\N	\N	\N	Same spelling and pronunciation but different meaning
 19911	同音字	\N	tóngyīn zì	a homophonic character	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
 19912	网桥	網橋	wǎngqiáo	a bridge	noun	\N	\N	信息技术	Information Technology	网络	Networking	\N	\N	\N
@@ -19964,7 +19964,7 @@
 19964	功德宝山神咒	功德寶山神咒	Gōngdé Bǎo Shān Shén Zhòu	Guna - Ratna Dharani	proper noun	咒	Dharani	佛教	Buddhism	\N	\N	\N	\N	\N
 19965	洲际大酒店	洲際大酒店	Zhōujì Dà Jiǔdiàn	The Intercontinental Hotel	proper noun	饭店	Hotel	住宿	Accommodation	\N	\N	\N	\N	\N
 19966	浦东	浦東	Pǔdōng	Pudong	proper noun	区	District	地方	Places	上海	Shanghai	\N	\N	\N
-19967	张扬	張揚	zhāngyáng	to publicize / to make known / to show off	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
+19967	张扬	張揚	zhāngyáng	to publicize / to make known / to show off / to spread	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
 19968	张扬	張揚	Zhāng Yáng	Zhang Yang	proper noun	\N	\N	戏剧	Drama	\N	\N	\N	\N	\N
 19969	盘片	盤片	pánpiān	a disk / a platter	noun	\N	\N	信息技术	Information Technology	存储	Storage	\N	\N	In a hard disk
 19970	底座	\N	dǐzuò	a base / a seating	noun	\N	\N	形态	Form	\N	\N	\N	\N	\N
@@ -20990,7 +20990,7 @@
 20990	虚荣	虛榮	xūróng	vanity	noun	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 20991	无上	無上	wúshàng	supreme  / unexcelled	adjective	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 20992	无上正觉	無上正覺	Wú shàng zhèng jué	Anuttara bodhi / supreme enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-20993	说法	說法	shuōfa	to expound Buddhist teachings / dharma-desana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	shuo1fa3.mp3	Sanskrit dharma-deśanā, Pali dhamma-desanā 
+20993	说法	說法	shuōfa	to teach the Dharma / to expound Buddhist teachings / dharma-desana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	shuo1fa3.mp3	Sanskrit dharma-deśanā, Pali dhamma-desanā 
 20994	娑罗	娑羅	suōluó	sala tree / sal tree / shala tree	proper noun	树	Tree	植物学	Botany	\N	\N	\N	\N	Sanskrit: sāla;the Buddha entered Nirvana under two Sala trees
 20995	升官发财	升官發財	shēng guān fā cái	to be promoted and gain wealth	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 20996	菩提萨埵	菩提薩埵	pútísàduǒ	bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
@@ -21191,7 +21191,7 @@
 21191	果报	果報	guǒbào	the result of karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vipāka, Pali: vipāka
 21192	业因	業因	yèyīn	cause	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 21193	业报	業報	yèbào	karmic retribution / cause and effect / fruit of actions / karma and results	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: karmaphala
-21194	遮盖	遮蓋	zhēgài	to hide / to cover	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+21194	遮盖	遮蓋	zhēgài	to hide / to cover / to wrap / to bind	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 21195	沦	淪	lún	to sink / to be reduced to	verb	\N	\N	变化	Change	\N	\N	\N	\N	\N
 21196	沉沦	沉淪	chénlún	to sink / to be reduced to	verb	\N	\N	变化	Change	\N	\N	\N	\N	bad connotation
 21197	自如	\N	zìrú	unobstructed / unconstrained / smooth / with ease / free	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
@@ -22026,7 +22026,7 @@
 22026	浣	\N	huàn	to wash / to rinse	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 22027	抖擞	抖擻	dǒusǒu	to rouse / to invigorate / to enliven	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 22028	浣洗	\N	huànxǐ	to wash / to rinse	verb	\N	\N	卫生	Hygiene	\N	\N	\N	\N	\N
-22029	后世	後世	hòushì	later generations	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
+22029	后世	後世	hòushì	later generations / posterity	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
 22030	僧人	\N	sēngrén	a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 22031	杜多	\N	dùduō	dhuta / a monk that begs for food	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 22032	富翁	\N	fùwēng	a rich person	noun	\N	\N	财富	Wealth	\N	\N	\N	\N	\N
@@ -22102,7 +22102,7 @@
 22102	众生浊	眾生濁	zhòngshēng zhuó	Sattvakashaya / the period of corruption of all living beings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五浊 the five periods of impurity
 22103	命浊	命濁	mìng zhuó	Ayukashaya / degenerated human lifespan / the period of shortened human lifespan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Where human lifespan is reduced to ten years. See 五浊 the five periods of impurity
 22104	逆境	\N	nìjìng	adversity / a predicament	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-22105	行者	\N	xíngzhě	a pedestrian / a walker / an itinerant monk	noun	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
+22105	行者	\N	xíngzhě	an itinerant monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 22106	五欲	五慾	wŭ yù	the five desires	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Outside Buddhism the five desires are (1) 财 wealth, (2) 色 sex, (3)名 fame, (4) 食 food, (5)睡 laziness. In Buddhism the five desires arise from the objects of the five senses: (1) 色 sex, (2) 声 hearing, (3)香 smell, (4) 味 taste and, (5) 触 touch
 22107	五境	\N	wŭ jìng	the objects of the five senses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The objects of the five senses (1) 色 sight, (2) 声 hearing, (3)香 smell, (4) 味 taste and, (5) 触 touch
 22108	俗人	\N	súrén	common people / laity	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
@@ -24576,7 +24576,7 @@
 24576	彩色玻璃	\N	cǎisè bōli	stained glass	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 24577	泰式	\N	Tài shì	Thai style	phrase	\N	\N	文化	Culture	\N	\N	\N	\N	\N
 24578	图样	圖樣	túyàng	a diagram / a blueprint / a design	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
-24579	迴廊	\N	huíláng	corridor	noun	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N
+24579	迴廊	\N	huíláng	corridor	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 24580	正殿	\N	zhèngdiàn	main hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 24581	垂露竖	垂露豎	chuí lù shù	straight vertical stroke	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	straight_vertical.png	\N	N 
 24582	悬针竖	懸針豎	xuánzhēnshù	hanging vertical stroke	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	hanging_vertical.png	\N	\N 
@@ -25008,7 +25008,7 @@
 25008	受戒	\N	shòu jiè	to take precepts	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 25009	三界论	三界論	Sān Jiè Lùn	Tribhumikatha / the Three Worlds of Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Thai Buddhist work of literature
 25010	敏捷开发	敏捷開發	Mǐnjié kāifā	Agile development	set phrase	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
-25011	重现	重現	chóngxiàn	to reappear	verb	verb	\N	\N	观察	Observation	\N	\N	\N	\N
+25011	重现	重現	chóngxiàn	to reappear	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 25012	銮	鑾	luán	imperial	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 25013	普拉拍銮寺	普拉拍鑾寺	Pǔ Lā Pāi Luán sì	Wat Phra Phai Luang	proper noun	寺院	Temple	佛教	Buddhism	泰国	Thailand	\N	\N	Located in the Sukhothai Historical Park, Thailand
 25014	西昌寺	\N	Xī Chāng sì	Wat Si Chum	proper noun	寺院	Temple	佛教	Buddhism	泰国	Thailand	\N	\N	Located in the Sukhothai Historical Park, Thailand
@@ -25432,7 +25432,7 @@
 25432	苏利耶跋摩	蘇利耶跋摩	Sūlìyēbámó	Suryavarman	proper noun	君主	Monarch	历史	History	柬埔寨	Cambodia	\N	\N	Name of several Khmer monarchs
 25433	苏利耶跋摩一世	蘇利耶跋摩一世	Sūlìyēbámó yīshì	Suryavarman I	proper noun	君主	Monarch	历史	History	柬埔寨	Cambodia	\N	\N	Khmer monarch, reigned 1010&mdash;1050,  known for building Bayon.
 25434	阇耶跋摩七世	闍耶跋摩七世	Shéyēbámó qī shì	Jayavarman VII	proper noun	君主	Monarch	历史	History	柬埔寨	Cambodia	\N	\N	Khmer monarch, reigned c. 1181&mdash;1220.  Known for changing the Khmer nation from Hinduism to Mahayana Buddhism
-25435	尊崇	\N	zūnchóng	to revere / to admire / to honor / to venerate	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+25435	尊崇	\N	zūnchóng	to / respect / to revere / to admire / to honor / to venerate	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 25436	脸孔	臉孔	liǎnkǒng	a face	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 25437	独具匠心	獨具匠心	dú jù jiàng xīn	original and ingenious	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 25438	吴哥寺	吳哥寺	Wúgē sì	Angkor Wat	proper noun	寺院	Temple	历史	History	柬埔寨	Cambodia	\N	\N	Temple complex in Cambodia
@@ -26816,7 +26816,7 @@
 26816	漩涡	漩渦	xuànwō	spiral / whirlpool / eddy / vortex	noun	an eddy / a whirlpool	noun	\N	\N	移动	Movement	\N	\N	\N
 26817	旋涡	旋渦	xuánwō	spiral / whirlpool / eddy / vortex	noun	an eddy / a whirlpool	noun	\N	\N	移动	Movement	\N	\N	\N
 26818	官服	\N	guānfú	official clothes	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
-26819	帻	幘	zé	a conical cap	noun	noun	\N	\N	历史	History	\N	\N	\N	\N
+26819	帻	幘	zé	a conical cap	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
 26820	佩带	佩帶	pèi dài	to wear as an accessory / to carry at the waist	verb	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
 26821	砺	礪	lì	a whetstone / a grindstone	noun	\N	\N	工具	Tools	\N	\N	\N	li4.mp3	\N
 26822	砺	礪	lì	to sharpen / to grind	noun	\N	\N	工具	Tools	\N	\N	\N	li4.mp3	\N
@@ -27092,7 +27092,7 @@
 27092	欢悦	歡悅	huānyuè	to be happy / to be joyous	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 27093	净瓶	淨瓶	jìngpíng	a vase / a jar	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: kalaśa, used in a Buddhist context
 27094	持	\N	chí	to guard / to resist / to oppose / to follow	verb	\N	\N	安全	Safety	\N	\N	\N	chi2.mp3	\N
-27095	拈	\N	niān	to nip / to grasp with fingers / to draw lots	verb		\N	\N	古文	Classical Chinese	\N	\N	\N	\N
+27095	拈	\N	niān	to nip / to grasp with fingers / to draw lots	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 27096	花枝	\N	huāzhī	a flowering branch	noun	\N	\N	大自然	Nature	\N	\N	\N	\N	\N
 27097	交叠	交疊	jiāodié	to fold / folded	verb	\N	\N	形态	Form	\N	\N	\N	\N	\N
 27098	裙腰	\N	qúnyāo	the waistband of a skirt	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
@@ -28809,7 +28809,7 @@
 28809	三聚戒	\N	sān jù jiè	the Tri-Vidhani Silani / Mahayana Boddhisattva precepts	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One who has awakened the Truth through their own effort
 28810	第五	\N	dì wŭ	fifth	ordinal	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 28811	第六	\N	dì liù	sixth	ordinal	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
-28812	根	\N	gēn	a plant root	noun	\N	\N	植物学	Botany	\N	\N	\N	gen1.mp3	\N
+28812	根	\N	gēn	a root	noun	\N	\N	植物学	Botany	\N	\N	\N	gen1.mp3	\N
 28813	根	\N	gēn	base / foot	noun	\N	\N	形态	Form	\N	\N	\N	gen1.mp3	\N
 28814	根	\N	gēn	a chronic illness	noun	\N	\N	健康	Health	\N	\N	\N	gen1.mp3	\N
 28815	根	\N	gēn	offspring	noun	\N	\N	家	Family	\N	\N	\N	gen1.mp3	\N
@@ -30464,7 +30464,7 @@
 30464	兜率陀	\N	Dōushuàituó	Tusita / Tushita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: tuṣita, Pali: tusita, one of the heavenly realms in Buddhist cosmology 
 30465	色究竟天	\N	Sè Jiūjìng Tiān	The Heaven of Ultimate Form	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	\N 
 30466	摩醯首罗	摩醯首羅	Móxīshǒuluó	The Maheshvara Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	\N 
-30467	悉	\N	xī	all / entire	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
+30467	悉	\N	xī	all / entire	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
 30468	海神	\N	hǎi shén	a sea spirit	noun	神	spirit	宗教	Religion	\N	\N	\N	\N	\N
 30469	江神	\N	jiāng shén	a river spirit	noun	神	spirit	宗教	Religion	\N	\N	\N	\N	\N
 30470	河神	\N	hé shén	a stream spirit	noun	神	spirit	宗教	Religion	\N	\N	\N	\N	\N
@@ -30577,7 +30577,7 @@
 30577	生	\N	shēng	having academic or professional knowledge	noun	\N	\N	教育	Education	\N	\N	\N	sheng1.mp3	As in 医生 (doctor)
 30578	生	\N	shēng	a male role in traditional theatre	noun	\N	\N	戏剧	Drama	\N	\N	\N	sheng1.mp3	As in 小生 (young boy) or 老生 (old man)
 30579	生	\N	shēng	gender	noun	\N	\N	健康	Health	\N	\N	\N	sheng1.mp3	As in 男生 (male) or 女生 (female)
-30580	生	\N	shēng	to grow	verb	\N	\N	健康	Health	\N	\N	\N	sheng1.mp3	\N
+30580	生	\N	shēng	to develop / to grow	verb	\N	\N	健康	Health	\N	\N	\N	sheng1.mp3	\N
 30581	生	\N	shēng	to set up	verb	\N	\N	过程	Process	\N	\N	\N	sheng1.mp3	Synonym discussion: in this sense 生 has the same meaning as 安装.
 30582	生	\N	shēng	a prostitute	noun	\N	\N	工作	Work	\N	\N	\N	sheng1.mp3	Synonym discussion: in this sense 生 has the same meaning as 妓女.
 30583	生	\N	shēng	a captive	noun	\N	\N	暴力	Violence	\N	\N	\N	sheng1.mp3	Synonym discussion: in this sense 生 has the same meaning as 俘虏.
@@ -30755,7 +30755,7 @@
 30755	讫	訖	qì	continuously / always	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	qi4.mp3	Synonym discussion: in this sense 讫 has the same meaning as 毕竟 or 终究.
 30756	讫	訖	qì	indicates completion of an action	auxiliary verb	\N	\N	虚词	Function Words	\N	\N	\N	qi4.mp3	Used after a verb to indicate that the action has completed.
 30757	财首菩萨	財首菩薩	Cái Shǒu Púsà	Bodhisattva Foremost Wealth	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘	Mahayana	\N	qi4.mp3	\N
-30758	不可思	\N	bù kě sī	unthinkable / unimaginable	phrase	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+30758	不可思	\N	bù kě sī	inconceivable / unthinkable / unimaginable	phrase	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 30759	不可议	不可議	bù kě yì	indescribable	phrase	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 30760	不可量	\N	bù kě liàng	uncountable / unmeasurable	phrase	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 30761	不可说	不可說	bù kě shuō	indescribable / unspeakable	phrase	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
@@ -30766,7 +30766,7 @@
 30766	退失	\N	tuìshī	to degenerate / to regress	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	To loose bodhicitta and regress in level of practice or no longer practice Buddhism.
 30767	凡夫	\N	fánfū	an ordinary person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pṛthagjana; a person that has not studied or practiced Buddhism
 30768	凡庸	\N	fányōng	ordinary	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-30769	凡	\N	fán	an ordinary person	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pṛthagjana; a person that has not studied or practiced Buddhism.  Synonym discussion: in this sense 凡 means the same as 凡夫.
+30769	凡	\N	fán	an ordinary person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pṛthagjana; a person that has not studied or practiced Buddhism.  Synonym discussion: in this sense 凡 means the same as 凡夫.
 30770	二乘	\N	èr chéng	the two vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either (1) Mahayana and Theravada or (2) the Sravaka Vehicle and the Pratyeka-buddha Vehicle
 30771	诸众	諸眾	zhūzhòng	numerous	adjective	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 30772	果证	果證	guǒzhèng	realized attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
@@ -32830,14 +32830,14 @@
 32830	人相	\N	rén xiāng	the notion of a person	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pudgalasaṃjñā, one of the four notions (四相). The notion of a person is mistaken because there is no difference between self and others.
 32831	众生相	眾生相	zhòngshēng xiāng	the notion of a being	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sattvasaṃjñā, one of the four notions (四相). The notion of a being is mistaken because beings are made up of the five aggregates (五蕴).
 32832	寿者相	壽者相	shòuzhě xiāng	the notion of a lifespan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: jīvasaṃjñā, one of the four notions (四相). The mistaken notion that one will live forever.
-32833	法相	\N	fǎ xiāng	the essential nature of different phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 Sanskrit: dharmasaṃjñā
+32833	法相	\N	fǎ xiāng	notions of dharmas / the essential nature of different phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 Sanskrit: dharmasaṃjñā
 32834	法相	\N	fǎ xiāng	the essential differences between different teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: dharmasaṃjñā
 32835	法相	\N	fǎ xiāng	the truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: dharmasaṃjñā
 32836	人见	人見	rén jiàn	the notion of a person	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pudgalasaṃjñā, one of the four notions (四相). The notion of a person is mistaken because there is no difference between self and others.
 32837	众生见	眾生見	zhòngshēng jiàn	the notion of a being	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sattvasaṃjñā, one of the four notions (四相). The notion of a being is mistaken because beings are made up of the five aggregates (五蕴).
 32838	寿者见	壽者見	shòuzhě jiàn	the notion of a lifespan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: jīvasaṃjñā, one of the four notions (四相). The mistaken notion that one will live forever.
 32839	贤圣	賢聖	xián shèng	noble one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: āryapudgala
-32840	入流	\N	Rùliú	Sotapanna / Srotapanna / Stream-Enterer	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: Srotāpanna, Pali: Sotāpanna; the first of the four stages of enlightenment
+32840	入流	\N	Rùliú	Sotapanna / Srotapanna / Stream-Enterer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: Srotāpanna, Pali: Sotāpanna; the first of the four stages of enlightenment
 32841	宁	寧	níng	to mourn	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32842	宁	寧	níng	to settle down	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32843	宁	寧	níng	to return	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -32938,17 +32938,17 @@
 32938	机	\N	jī	opportunity / chance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji1.mp3	In traditional Chinese text the use of the present simplified form 机 is actually an archaic use.
 32939	霁	霽	jì	sky clearing up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32940	聶道真	\N	Niè Dào Zhēn	Nie Dao Zhen	proper noun	译师	Translator	佛教	Buddhism	中国	China	\N	\N	Translated the Abhiniṣkramaṇa Sūtra 異出菩薩本起經, Taisho Tripitaka Vol. 3, No. 188
-32941	妓	\N	jì	a prostitute	noun	\N	\N	社会	Society	\N	\N	\N	\N
-32942	鞬	\N	jiān	a quiver on a horse / a store	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N
-32943	道人	\N	dàorén	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N
-32944	道者	\N	dàozhě	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N
-32945	道士	\N	dàoshì	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N
+32941	妓	\N	jì	a prostitute	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
+32942	鞬	\N	jiān	a quiver on a horse / a store	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+32943	道人	\N	dàorén	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
+32944	道者	\N	dàozhě	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
+32945	道士	\N	dàoshì	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 32946	头	頭	tóu	the first	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	tou2.mp3	Also classified as a determiner.
 32947	另	\N	lìng	another	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	ling4.mp3	Also classified as a determiner.
 32948	全	\N	quán	all / whole / entire / every	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	quan2.mp3	Also classified as a determiner.
 32949	前	\N	qián	to go forward	verb	\N	\N	移动	Movement	\N	\N	\N	qian2.mp3	\N
 32950	前	\N	qián	before	preposition	\N	\N	虚词	Function Words	\N	\N	\N	qian2.mp3	\N
-32951	中	\N	zhōng	middle / during	preposition	\N	\N	虚词	Function Words	\N	\N	\N	zhong1.mp3	May be classified as a localizer.
+32951	中	\N	zhōng	in / amongst	preposition	\N	\N	虚词	Function Words	\N	\N	\N	zhong1.mp3	May be classified as a localizer.
 32952	间	間	jiān	between / among	preposition	\N	\N	虚词	Function Words	\N	\N	\N	jian1.mp3	May be classified as a localizer.
 32953	里	裡	lǐ	inside	preposition	\N	\N	虚词	Function Words	\N	\N	\N	li3.mp3	May be classified as a localizer.
 32954	内	內	nèi	inside / interior	preposition	\N	\N	虚词	Function Words	\N	\N	\N	nei4.mp3	May be classified as a localizer.
@@ -32976,8 +32976,8 @@
 32976	葩	\N	pā	the corolla of flower	noun	\N	\N	植物学	Botany	\N	\N	\N	\N	\N
 32977	床	\N	chuáng	bed	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Besides being the simplified form, 床 is also an archaic variant of 牀.
 32978	席	\N	xí	a banquet	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xi2.mp3	Besides being the simplified form, 席 is also an archaic variant of 蓆.
-32979	驹	駒	jū	a colt	noun	动物	Animal	动物学	Zoology	\N	\N	\N	
-32980	羔	\N	gāo	a lamb	noun	动物	Animal	动物学	Zoology	\N	\N	\N	
+32979	驹	駒	jū	a colt	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	\N
+32980	羔	\N	gāo	a lamb	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	\N	
 32981	痒	\N	yǎng	itchy	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	yang3.mp3	Besides being the simplified form, 痒 is also an archaic variant of 癢.
 32982	夙	\N	sù	morning	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32983	夙	\N	sù	early / long-held / long-cherished	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -33055,10 +33055,204 @@
 33055	呪	\N	zhòu	mantra	noun	\N	\N	宗教	Religion	\N	\N	\N	zhou4.mp3	Sanskrit: mantra
 33056	抧	\N	zhǐ	to open	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33057	万	\N	wàn	ten thousand	numeral	\N	\N	古文	Classical Chinese	\N	\N	\N	wan4.mp3	Besides being the simplified form, 万 is also an archaic variant of 萬.
-33058	香	\N	xiāng	fragrance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xiang1.mp3	\N
+33058	香	\N	xiāng	fragrance / scent	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xiang1.mp3	\N
 33059	意识界	意識界	yìshí jiè	consciousness / awareness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xiang1.mp3	\N
 33060	集	\N	jí	desire / greed / craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji2.mp3	\N
 33061	揭帝	\N	jiēdì	gate / gone	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: gate. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
 33062	般罗揭帝	般羅揭帝	bōluójiēdì	paragate / pāragate / gone beyond	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pāragate. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
 33063	般罗僧揭帝	般羅僧揭帝	bōluósēngjiēdì	parasamgate / pārasaṃgate / gone altogether beyond	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pārasaṃgate. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
 33064	僧莎诃	僧莎訶	sēngshāhē	svaha / svāhā	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: svāhā. A Sanskrit term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.
+33065	俱	\N	jū	together	adverb	\N	\N	状况	Condition	\N	\N	\N	ju1.mp3	\N
+33066	尔	爾	ěr	near	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33067	浅近	淺近	qiǎnjìn	simple	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+33068	尔	爾	ěr	simple	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	Synomymous with 浅近.
+33069	尔	爾	ěr	you / thou	pronoun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33070	尔	爾	ěr	this / that	pronoun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33071	食时	食時	shíshí	mealtime	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33072	衣着	\N	yīzhuo	clothes / attire	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
+33073	衣冠	\N	yīguān	clothes / attire / clothes and hats	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
+33074	衣	\N	yī	a cover / a coating	noun	\N	\N	物料	Materials	\N	\N	\N	\N	\N
+33075	糖衣	\N	tángyī	frosting or icing / sugarcoating	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	On cakes, etc
+33076	肠衣	腸衣	chángyī	sausage casing	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+33077	胎盘	胎盤	tāipán	placenta	noun	\N	\N	医疗	Medicine	\N	\N	\N	\N	\N
+33078	权能	權能	quánnéng	power	noun	\N	\N	力气	Strength	\N	\N	\N	\N	\N
+33079	衣	\N	yī	uppergarment / robe	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33080	衣	\N	yī	to cover	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33081	包扎	\N	bāozhā	to hide / to cover / to wrap / to bind	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+33082	勘定	\N	kāndìng	to demarcate / to survey and determine	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+33083	敷	\N	fū	to appraise merit	verb	\N	\N	思想	Thought	\N	\N	\N	fu1.mp3	\N
+33084	铺开	鋪開	pūkāi	to spread out	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+33085	敷	\N	fū	to spread out	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33086	搽	\N	chá	to apply / to smear / to paint on	verb	\N	\N	行为	Actions	\N	\N	\N	\N	 Ointment, powder, etc
+33087	敷	\N	fū	to apply / to smear / to paint on	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
+33088	敷	\N	fū	to open / to bloom	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
+33089	敷	\N	fū	to be enough / to be sufficient	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
+33090	敷	\N	fū	to grow	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
+33091	敷	\N	fū	universal / general / widespread / commonplace	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
+33092	浅薄	淺薄	qiǎnbáo	superficial	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+33093	敷	\N	fū	superficial	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
+33094	右	\N	yòu	help	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	you4.mp3	\N
+33095	右	\N	yòu	to / respect / to revere / to admire / to honor / to venerate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	you4.mp3	\N
+33096	右	\N	yòu	to bless and protect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	you4.mp3	Synomymous with 祐 in this sense.
+33097	右	\N	yòu	an official position	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	you4.mp3	\N
+33098	右	\N	yòu	the west	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	you4.mp3	\N
+33099	右	\N	yòu	conservative	adjective	\N	\N	政治	Politics	\N	\N	\N	you4.mp3	\N
+33100	右	\N	yòu	super	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	you4.mp3	\N
+33101	发	發	fā	to hand over / to deliver	verb	\N	\N	商务	Commerce	\N	\N	\N	fa1.mp3	In a wholesale trading context
+33102	发	發	fā	to express / to show	verb	\N	\N	观察	Observation	\N	\N	\N	fa1.mp3	\N
+33103	发	發	fā	to start out / to set off	verb	\N	\N	交通	Transportation	\N	\N	\N	fa1.mp3	\N
+33104	上路	\N	shànglù	to start out / to set off	verb	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
+33105	发	發	fā	to start out / to open	verb	\N	\N	行为	Actions	\N	\N	\N	fa1.mp3	\N
+33106	征发	徵發	zhēngfà	to requisition	verb	\N	\N	管理	Administration	\N	\N	\N	\N	\N
+33107	征调	徵調	zhēngtiáo	to requisition	verb	\N	\N	管理	Administration	\N	\N	\N	\N	\N
+33108	发	發	fā	to requisition	verb	\N	\N	管理	Administration	\N	\N	\N	fa1.mp3	\N
+33109	发	發	fā	to occur	verb	\N	\N	行为	Actions	\N	\N	\N	fa1.mp3	\N
+33110	发	發	fā	to declare / to proclaim	verb	\N	\N	语言	Language	\N	\N	\N	fa1.mp3	\N
+33111	抒发	抒發	shūfā	to express / to give vent 	verb	\N	\N	语言	Language	\N	\N	\N	\N	 To an emotion
+33112	发泄	發洩	fāxiè 	to express / to give vent 	verb	\N	\N	语言	Language	\N	\N	\N	\N	 To an emotion
+33113	发	發	fā	to express / to give vent	verb	\N	\N	语言	Language	\N	\N	\N	fa1.mp3	To an emotion
+33114	发	發	fā	to excavate	verb	\N	\N	工作	Work	\N	\N	\N	fa1.mp3	\N
+33115	发	發	fā	to bloom / to flower	verb	\N	\N	植物学	Botany	\N	\N	\N	fa1.mp3	\N
+33116	发	發	fā	to get rich	verb	\N	\N	财富	Wealth	\N	\N	\N	fa1.mp3	\N
+33117	酵	\N	jiào	yeast / leaven	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+33118	酵	\N	xiào	yeast / leaven	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+33119	发酵	發酵	fājiào	to ferment	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+33120	发酵	發酵	fājiào	fermentation	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+33121	发	發	fā	to expand / to inflate / to swell	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	fa1.mp3	Such as with bread made with yeast expanding
+33122	卖出	賣出	màichū	to sell	verb	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
+33123	发	發	fā	to sell	verb	\N	\N	商务	Commerce	\N	\N	\N	fa1.mp3	\N
+33124	繁育	\N	fányù	to breed	verb	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
+33125	发	發	fā	to develop / to cultivate / to grow	verb	\N	\N	生物学	Biology	\N	\N	\N	fa1.mp3	\N
+33126	发	發	fā	to elucidate	verb	\N	\N	语言	Language	\N	\N	\N	fa1.mp3	\N
+33127	举事	舉事	jǔshì	to rise in revolt	verb	\N	\N	冲突	Conflict	\N	\N	\N	\N	\N
+33128	发难	發難	fànán	to rise in revolt	verb	\N	\N	冲突	Conflict	\N	\N	\N	\N	\N
+33129	发	發	fā	to rise in revolt	verb	\N	\N	冲突	Conflict	\N	\N	\N	fa1.mp3	\N
+33130	倡始	\N	chàngshǐ	to raise (an issue) / to propose / to put forward / to suggest / to initiate	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
+33131	发	發	fā	to propose / to put forward / to suggest / to initiate	verb	\N	\N	语言	Language	\N	\N	\N	fa1.mp3	\N
+33132	发	發	fā	to enlighten / to inspire	verb	\N	\N	思想	Thought	\N	\N	\N	fa1.mp3	\N
+33133	传扬	傳揚	chuányáng	to publicize / to make known / to show off / to spread	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
+33134	发	發	fā	to publicize / to make known / to show off / to spread	verb	\N	\N	语言	Language	\N	\N	\N	fa1.mp3	\N
+33135	发	發	fā	to ignite / to set on fire	verb	\N	\N	火	Fire	\N	\N	\N	fa1.mp3	\N
+33136	发	發	fā	to make / to manufacture	verb	\N	\N	工业	Industry	\N	\N	\N	fa1.mp3	\N
+33137	发	發	fā	to sing / to play	verb	\N	\N	音乐	Music	\N	\N	\N	\N	\N
+33138	发	發	fā	to feel / to sense	verb	\N	\N	感情	Emotion	\N	\N	\N	fa1.mp3	\N
+33139	发	發	fā	to act / to do	verb	\N	\N	行为	Actions	\N	\N	\N	fa1.mp3	\N
+33140	发	發	fā	to loose one's temple	verb	\N	\N	感情	Emotion	\N	\N	\N	fa1.mp3	\N
+33141	发	發	fà	grass and trees	noun	\N	\N	植物学	Botany	\N	\N	\N	fa1.mp3	\N
+33142	住	\N	zhù	to retain / to hold back / to reserve / to preserve / to maintain	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zhu4.mp3	\N
+33143	如	\N	rú	to follow	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	\N
+33144	如	\N	rú	it is so / it is thus / can be compared with	verb	\N	\N	虚词	Function Words	\N	\N	\N	ru2.mp3	\N
+33145	如	\N	rú	to go	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	\N
+33146	如	\N	rú	to meet	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	\N
+33147	如	\N	rú	to appear / to seem	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	\N
+33148	如	\N	rú	to resist	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	\N
+33149	相敌	\N	xiāngdí	to resist	verb	\N	\N	冲突	Conflict	\N	\N	\N	\N	\N
+33150	抵挡	抵擋	dǐdǎng	to resist	verb	\N	\N	冲突	Conflict	\N	\N	\N	\N	\N
+33151	如	\N	rú	and	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	A coordinating conjunction, synonymous with 与 or 和
+33152	如	\N	rú	or	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	A coordinating conjunction, synonymous with 或
+33153	如	\N	rú	but	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	A subordinating conjunction, synonymous with 而
+33154	如	\N	rú	then	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	A subordinating conjunction, synonymous with 则
+33155	如	\N	rú	naturally	particle	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	A particle used after a phrase like 然
+33156	如	\N	rú	expresses a question or doubt	particle	\N	\N	古文	Classical Chinese	\N	\N	\N	ru2.mp3	A particle used after a phrase like 乎
+33157	如许	如許	rúxǔ	thus / so	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+33158	唯然	\N	wěirán	just so	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33159	无	無	wú	singing and dancing	noun	\N	\N	音乐	Music	\N	\N	\N	wu2.mp3	\N
+33160	无名	無名	wúmíng	nameless	adjective	\N	\N	语言	Language	\N	\N	\N	\N	\N
+33161	虚无	虛無	xūwú	nothingness	noun	\N	\N	哲学	Philosophy	\N	\N	\N	\N	\N
+33162	无	無	wú	nothingness	noun	\N	\N	哲学	Philosophy	\N	\N	\N	wu2.mp3	\N
+33163	无	無	wú	do not	adverb	\N	\N	虚词	Function Words	\N	\N	\N	wu2.mp3	\N
+33164	无	無	wú	need not	adverb	\N	\N	虚词	Function Words	\N	\N	\N	wu2.mp3	\N
+33165	无	無	wú	regardless of	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	wu2.mp3	Subordinate conjunction, synonymous with 无论
+33166	于	於	yú	to rely on / to depend on	verb	\N	\N	联系	Relationship	\N	\N	\N	yu2.mp3	Synonymous with 依靠.
+33167	于	於	yú	to reside	verb	\N	\N	住宿	Accommodation	\N	\N	\N	yu2.mp3	Synonymous with 居.
+33168	厚待	\N	hòudài	to treat generously / to be hospitable	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
+33169	于	於	yú	to treat generously / to be hospitable	verb	\N	\N	交际	Social Interaction	\N	\N	\N	yu2.mp3	Synonymous with 厚待.
+33170	于	於	yú	to treat	verb	\N	\N	交际	Social Interaction	\N	\N	\N	yu2.mp3	Synonymous with 对待.
+33171	于	於	yú	oppposing	preposition	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	Synonymous with 对于.
+33172	于	於	yú	and	preposition	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	\N
+33173	于	於	yú	compared to	preposition	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	\N
+33174	于	於	yú	passive construction	preposition	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	Synonymous with 被.
+33175	于	於	yú	and / as well as	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	Synonymous with 而.
+33176	于	於	yú	an auxilliary or structural particle	particle	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	\N
+33177	语助词	語助詞	yǔ zhùcí	an auxilliary word	conjunction	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
+33178	于	於	yú	interjection	interjection	\N	\N	虚词	Function Words	\N	\N	\N	yu2.mp3	\N
+33179	凡	\N	fán	commonplace / mediocre	adjective	\N	\N	比较	Comparison	\N	\N	\N	fan2.mp3	\N
+33180	略举	略舉	lüèjǔ	to highlight / to give examples	verb	\N	\N	信息	Information	\N	\N	\N	fan2.mp3	\N
+33181	凡	\N	fán	an outline	noun	\N	\N	写作	Writing	\N	\N	\N	fan2.mp3	\N
+33182	凡	\N	fán	the ordinary world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+33183	皆	\N	jiē	all together	adverb	\N	\N	虚词	Function Words	\N	\N	\N	jie1.mp3	\N
+33184	则	則	zé	a criteria / a norm / a standard	noun	\N	\N	比较	Comparison	\N	\N	\N	ze2.mp3	\N
+33185	则	則	zé	a grade / a level	noun	\N	\N	比较	Comparison	\N	\N	\N	ze2.mp3	\N
+33186	则	則	zé	an example / a model	noun	\N	\N	比较	Comparison	\N	\N	\N	ze2.mp3	\N
+33187	则	則	zé	a weighing device	noun	\N	\N	测控	Measurement and Control	\N	\N	\N	ze2.mp3	\N
+33188	则	則	zé	to grade / to rank	verb	\N	\N	比较	Comparison	\N	\N	\N	ze2.mp3	\N
+33189	则	則	zé	to copy / to imitate	verb	\N	\N	过程	Process	\N	\N	\N	ze2.mp3	\N
+33190	则	則	zé	to do	verb	\N	\N	行为	Actions	\N	\N	\N	ze2.mp3	Synonymous with 做 or 作
+33191	颇	頗	pō	biased	adjective	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
+33192	颇	頗	pō	oblique / inclined / slanting	adjective	\N	\N	位	Position	\N	\N	\N	\N	\N
+33193	颇	頗	pō	very / extremely	adverb	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
+33194	颇	頗	pō	should not / 	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	Synonymous with 叵.
+33195	叵	\N	pǒ	not	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33196	章	\N	zhāng	a song	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang1.mp3	\N
+33197	章	\N	zhāng	a decorative pattern / an embroidered pattern	noun	\N	\N	艺术	Art	\N	\N	\N	zhang1.mp3	\N
+33198	章	\N	zhāng	a rule / a regulation	noun	\N	\N	法律	Law	\N	\N	\N	zhang1.mp3	Synonymous with 规章.
+33199	章	\N	zhāng	a seal	noun	\N	\N	艺术	Art	\N	\N	\N	zhang1.mp3	Synonymous with 印章.
+33200	章	\N	zhāng	a badge / an emblem / an insignia	noun	\N	\N	艺术	Art	\N	\N	\N	zhang1.mp3	Synonymous with 徽章.
+33201	章	\N	zhāng	a report given to the emperor	noun	\N	\N	历史	History	\N	\N	\N	zhang1.mp3	Synonymous with 徽章.
+33202	奏章	\N	zòuzhāng	a report given to the emperor	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
+33203	臣下	\N	chénxià	an official in feudal court	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
+33204	呈给	呈給	chénggěi	to give / to hand	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
+33205	章	\N	zhāng	a large piece of wood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang1.mp3	\N
+33206	彰明	\N	zhāngmíng	to show clearly / to make public	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33207	彰明	\N	zhāngmíng	obvious	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33208	章	\N	zhāng	remarkable / outstanding / notable	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang1.mp3	\N
+33209	条理化	條理化	tiáolǐhuà	to make systematic	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
+33210	章	\N	zhāng	systematic	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang1.mp3	\N
+33211	句	\N	gōu	to bend / to strike / to catch	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33212	句	\N	gōu	to tease	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33213	逗引	\N	dòuyǐn	to tease	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
+33214	句	\N	gōu	to delineate	verb	\N	\N	艺术	Art	\N	\N	\N	\N	Synonymous with 勾画.
+33215	句	\N	gōu	if	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 如果.
+33216	初生	\N	chūshēng	newborn / nascent / primary	adjective	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
+33217	句	\N	gōu	a young bud	noun	\N	\N	生物学	Biology	\N	\N	\N	\N	Synonymous with 幼芽.
+33218	章句	\N	zhāng jù	words /sentences and phrases	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
+33219	后	後	hòu	sovereign	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	\N
+33220	后	後	hòu	a duke / a high official	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	\N
+33221	后	後	hòu	the earth	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	\N
+33222	后	後	hòu	to arrive late	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	\N
+33223	后	後	hòu	to inherit	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	\N
+33224	后	後	hòu	offspring	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	Synonymous with 后代.
+33225	后	後	hòu	posterity	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	Synonymous with 后世.
+33226	后	後	hòu	after / later / behind / back	adjective	\N	\N	时间	Time	\N	\N	\N	hou4.mp3	\N
+33227	悉	\N	xī	detailed	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
+33228	悉	\N	xī	to elaborate / to expound	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
+33229	详尽	詳盡	xiángjìn	thorough / detailed / exhaustive	adjective	\N	\N	信息	Information	\N	\N	\N	\N	\N
+33230	悉	\N	xī	to exhaust / to use up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
+33231	着	著	zhāo	to attach	verb	\N	\N	佛教	Buddhism	\N	\N	\N	zhao3.mp3	\N
+33232	解	\N	jiě	to understand	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33233	无为	無為	wúwèi	unconditioned	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+33234	性	\N	xìng	nature / a property / a characteristic	noun	\N	\N	特点	Characteristic	\N	\N	\N	xing4.mp3	\N
+33235	性	\N	xìng	a suffix corresponding to -ness	particle	\N	\N	虚词	Function Words	\N	\N	\N	xing4.mp3	\N
+33236	经	經	jīng	a classic / a scripture	noun	\N	\N	文学	Literature	\N	\N	\N	\N	In this sense 经 is has the same meaning as 经书, 经典, 道经,or 佛经.
+33237	名	\N	míng	to be called / to name	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33238	实	實	shí	wealthy	adjective	\N	\N	财富	Wealth	\N	\N	\N	shi4.mp3	\N
+33239	实	實	shí	vast / extensive	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33240	实	實	shí	solid / firm	adjective	\N	\N	形态	Form	\N	\N	\N	shi4.mp3	\N
+33241	实	實	shí	wealth	noun	\N	\N	财富	Wealth	\N	\N	\N	shi4.mp3	\N
+33242	实	實	shí	reality / a fact	noun	\N	\N	信息	Information	\N	\N	\N	shi4.mp3	\N
+33243	实	實	shí	an honest person	noun	\N	\N	道德	Ethics	\N	\N	\N	shi4.mp3	\N
+33244	实	實	shí	really / certainly	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33245	实	實	shí	finally	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33246	实	實	shí	truly / in reality / in fact / actually	adverb	\N	\N	信息	Information	\N	\N	\N	shi4.mp3	\N
+33247	实	實	shí	to fill	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33248	实	實	shí	to practice	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33249	实	實	shí	to result in	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33250	实	實	shí	to strengthen	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33251	实	實	shí	to report	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33252	实	實	shí	namely	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33253	实	實	shí	to verify / to check	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33254	无诤三昧	無諍三昧	wú zhèng sānmèi	Samādhi of Non-contention	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: araṇa-samādhi
+33255	无诤	無諍	wú zhèng sānmèi	non-contention	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: araṇa
+33256	行者	\N	xíngzhě	a pedestrian / a walker	noun	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
+33257	恒河	\N	Hénghé	Ganges River	proper noun	河	River	佛教	Buddhism	印度	India	\N	\N	Sanskrit: gaṅgā. In Buddhist texts an archaic form that matches the modern simplified form is also used instead of the modern traditional form 恆河.
+

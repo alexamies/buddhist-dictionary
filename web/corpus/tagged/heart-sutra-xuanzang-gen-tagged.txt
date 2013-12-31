@@ -2,7 +2,7 @@
 行/VA[xíng | capable]
 深/AD[shēn | very]
 般若波羅蜜多/NN[bōruòbōluómìduō | prajnaparamita]
-時/AD[shí | at that time]
+時/LC[shí | at that time]
 ，/PU
 照/AD[zhào | according to]
 見/[jiàn | passive marker]
@@ -27,13 +27,13 @@
 異/VA[yì | different]
 色/NN[sè | color]
 色/NN[sè | color]
-即/AD[jí | promptly]
-是/PN[shì | this]
+即/CC[jí | promptly]
+是/VC[shì | this]
 空/VA[kōng | empty]
 ，/PU
 空/VA[kōng | empty]
-即/AD[jí | promptly]
-是/PN[shì | this]
+即/CC[jí | promptly]
+是/VC[shì | this]
 色/NN[sè | color]
 。/PU
 受/VV[shòu | to receive]
@@ -78,7 +78,7 @@
 無/VC[wú | none]
 色/VA[sè | form]
 ，/PU
-無/AD[wú | -less]
+無/VE[wú | no]
 受/VV[shòu | to receive]
 、/PU
 想/VV[xiǎng | to think]
@@ -86,7 +86,7 @@
 行/VA[xíng | capable]
 、/PU
 識/NN[shí | knowledge]
-無/AD[wú | -less]
+無/VE[wú | no]
 眼/NN[yǎn | eye]
 、/PU
 耳/[ěr | and that is all]
@@ -109,28 +109,28 @@
 觸/VV[chù | to knock against]
 、/PU
 法/NN[fǎ | method]
-無/AD[wú | -less]
+無/VE[wú | no]
 眼界/NN[yǎnjiè | sight]
 ，/PU
 乃至/CC[nǎizhì | and even]
 無意/VV[wúyì | to have no intention]
 識/NN[shí | knowledge]
 界/UNKOWN[jiè | circles]
-無/AD[wú | -less]
+無/VE[wú | no]
 無明/NN[wúmíng | ignorance]
 亦/AD[yì | also]
-無/AD[wú | -less]
+無/VE[wú | no]
 無明/NN[wúmíng | ignorance]
 盡/AD[jìn | all]
 ，/PU
 乃至/CC[nǎizhì | and even]
-無/AD[wú | -less]
+無/VE[wú | no]
 老死/NN[lǎo sǐ | old age and death]
 亦/AD[yì | also]
-無/AD[wú | -less]
+無/VE[wú | no]
 老死/NN[lǎo sǐ | old age and death]
 盡/AD[jìn | all]
-無/AD[wú | -less]
+無/VE[wú | no]
 苦/VA[kŭ | bitter]
 、/PU
 集/VV[jí | to gather]
@@ -138,7 +138,7 @@
 滅/VV[miè | to extinguish]
 、/PU
 道/NN[dào | direction]
-無/AD[wú | -less]
+無/VE[wú | no]
 智/NN[zhì | wisdom]
 ，/PU
 亦/AD[yì | also]
@@ -147,7 +147,7 @@
 。/PU
 「/PU
 以/CC[yǐ | so as to]
-無/AD[wú | -less]
+無/VE[wú | no]
 所得/NN[suǒdé | what one acquires]
 故/CC[gù | so]
 ，/PU
@@ -160,7 +160,7 @@
 無/VC[wú | without]
 罣/[guà | to be anxious]
 礙/VV[ài | to hinder]
-無/AD[wú | -less]
+無/VE[wú | no]
 罣/VV[guà | to be anxious]
 礙/VV[ài | to hinder]
 故/CC[gù | so]
@@ -177,13 +177,13 @@
 。/PU
 三/CD[sān | three]
 世/NN[shì | life]
-諸/PN[zhū | all]
+諸/DT[zhū | all]
 佛/NR[Fó | Buddha]
 依P/[yī | maintain]
 般若波羅蜜多/NR[bānruòbōluómìduō | prajñāpāramitā]
 故/[gù | cause]
 ，/PU
-得/[de | a sentence particle used after a verb to show effect]
+得/DER[de | a sentence particle used after a verb to show effect]
 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara-samyak-sambodhi]
 。/PU
 「/PU
@@ -191,21 +191,21 @@
 知/VV[zhī | to know]
 般若波羅蜜多/NN[bōruòbōluómìduō | prajnaparamita]
 ，/PU
-是/PN[shì | this]
+是/VC[shì | this]
 大/VA[dà | big]
 神/VA[shén | divine]
 咒/NN[zhòu | mantra]
 ，/PU
-是/PN[shì | this]
+是/VC[shì | this]
 大/VA[dà | big]
 明/VA[míng | clear]
 咒/NN[zhòu | mantra]
 ，/PU
-是/PN[shì | this]
+是/VC[shì | this]
 無上/VA[wúshàng | supreme]
 咒/NN[zhòu | mantra]
 ，/PU
-是/PN[shì | this]
+是/VC[shì | this]
 無/VC[wú | no]
 等/NN[děng | equal]
 等/NN[děng | equal]
@@ -213,7 +213,7 @@
 ，/PU
 能/VV[néng | can]
 除/P[chú | except]
-一切/PN[yīqiè | all]
+一切/DT[yīqiè | all]
 苦/VA[kŭ | bitter]
 真實/VA[zhēnshí | true]
 不/AD[bù | not]

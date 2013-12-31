@@ -73,6 +73,7 @@ database. They work directly from the text files.
    For the words table use statements like
 
    > SELECT id, topic_cn FROM words WHERE topic_cn NOT IN (SELECT simplified FROM topics);
+   > SELECT id, topic_en FROM words WHERE topic_en NOT IN (SELECT english FROM topics);
    > SELECT id, grammar FROM words WHERE grammar NOT IN (SELECT english FROM grammar);
 
    For the synonyms table use statements like
