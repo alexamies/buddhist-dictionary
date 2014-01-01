@@ -24,5 +24,5 @@ End marker: 本網站係採用
 
 English	translation (Lapis Lazuli Texts): [Vajracchedikā Prajñāpāramitā Sūtra] (http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html "Vajracchedikā Prajñāpāramitā Sūtra")
 
-Diamond Sūtra Commentary (this site): [Commentary] (/diamond_sutra_toc.html)
+Commentary: [Diamond Sūtra Commentary and English Gloss] (/diamond_sutra_toc.html "Diamond Sūtra Commentary and English Gloss")
 
