@@ -298,22 +298,22 @@
 298	月份	\N	yuèfèn	month	noun	\N	\N	时间	Time	\N	\N	\N	yue2fen4.mp3	\N
 299	时间	時間	shíjiān	time	noun	\N	\N	时间	Time	\N	\N	\N	shi2jian1.mp3	\N
 300	日历	日曆	rìlì	calendar	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
-301	一	\N	yī	one	numeral	\N	\N	数量	Quantity	\N	\N	\N	yi1.mp3	\N
-302	二	\N	èr	two	numeral	\N	\N	数量	Quantity	\N	\N	\N	er4.mp3	两 is used rather than 二 when measuring quantities.  二 is used for dates and to indicate order.
-303	三	\N	sān	three	numeral	\N	\N	数量	Quantity	\N	\N	\N	san1.mp3	\N
-304	四	\N	sì	four	numeral	\N	\N	数量	Quantity	\N	\N	\N	si4.mp3	\N
-305	五	\N	wŭ	five	numeral	\N	\N	数量	Quantity	\N	\N	\N	wu3.mp3	\N
-306	六	\N	liù	six	numeral	\N	\N	数量	Quantity	\N	\N	\N	liu4.mp3	\N
-307	七	\N	qī	seven	numeral	\N	\N	数量	Quantity	\N	\N	\N	qi1.mp3	\N
-308	八	\N	bā	eight	numeral	\N	\N	数量	Quantity	\N	\N	\N	ba1.mp3	\N
-309	九	\N	jiǔ	nine	numeral	\N	\N	数量	Quantity	\N	\N	\N	jiu3.mp3	\N
-310	十	\N	shí	ten	numeral	\N	\N	数量	Quantity	\N	\N	\N	shi2.mp3	\N
-311	零	\N	líng	zero	numeral	\N	\N	数量	Quantity	\N	\N	\N	ling2.mp3	\N
-312	两	兩	liǎng	two	numeral	\N	\N	数量	Quantity	\N	\N	\N	liang3.mp3	两 is used rather than 二 when measuring quantities.  二 is used for dates and to indicate order.
-313	百	\N	bǎi	one hundred	numeral	\N	\N	数量	Quantity	\N	\N	\N	bai3.mp3	\N
-314	千	\N	qiān	one thousand	numeral	\N	\N	数量	Quantity	\N	\N	\N	qian1.mp3	\N
-315	万	萬	wàn	ten thousand	numeral	\N	\N	数量	Quantity	\N	\N	\N	wan4.mp3	\N
-316	亿	億	yì	one hundred million 	numeral	\N	\N	数量	Quantity	\N	\N	\N	yi4.mp3	\N
+301	一	\N	yī	one	number	\N	\N	数量	Quantity	\N	\N	\N	yi1.mp3	\N
+302	二	\N	èr	two	number	\N	\N	数量	Quantity	\N	\N	\N	er4.mp3	两 is used rather than 二 when measuring quantities.  二 is used for dates and to indicate order.
+303	三	\N	sān	three	number	\N	\N	数量	Quantity	\N	\N	\N	san1.mp3	\N
+304	四	\N	sì	four	number	\N	\N	数量	Quantity	\N	\N	\N	si4.mp3	\N
+305	五	\N	wŭ	five	number	\N	\N	数量	Quantity	\N	\N	\N	wu3.mp3	\N
+306	六	\N	liù	six	number	\N	\N	数量	Quantity	\N	\N	\N	liu4.mp3	\N
+307	七	\N	qī	seven	number	\N	\N	数量	Quantity	\N	\N	\N	qi1.mp3	\N
+308	八	\N	bā	eight	number	\N	\N	数量	Quantity	\N	\N	\N	ba1.mp3	\N
+309	九	\N	jiǔ	nine	number	\N	\N	数量	Quantity	\N	\N	\N	jiu3.mp3	\N
+310	十	\N	shí	ten	number	\N	\N	数量	Quantity	\N	\N	\N	shi2.mp3	\N
+311	零	\N	líng	zero	number	\N	\N	数量	Quantity	\N	\N	\N	ling2.mp3	\N
+312	两	兩	liǎng	two	number	\N	\N	数量	Quantity	\N	\N	\N	liang3.mp3	两 is used rather than 二 when measuring quantities.  二 is used for dates and to indicate order.
+313	百	\N	bǎi	one hundred	number	\N	\N	数量	Quantity	\N	\N	\N	bai3.mp3	\N
+314	千	\N	qiān	one thousand	number	\N	\N	数量	Quantity	\N	\N	\N	qian1.mp3	\N
+315	万	萬	wàn	ten thousand	number	\N	\N	数量	Quantity	\N	\N	\N	wan4.mp3	\N
+316	亿	億	yì	one hundred million 	number	\N	\N	数量	Quantity	\N	\N	\N	yi4.mp3	\N
 317	号	號	hào	number, such as day of a month or name of a ship	noun	\N	\N	数量	Quantity	\N	\N	\N	hao4.mp3	\N
 318	时事	時事	shíshì	current events	noun	\N	\N	媒体	Media	\N	\N	\N	shi2shi4.mp3	\N
 319	经纬	經緯	jīngwěi	main points / longitude and latitude	noun	\N	\N	位	Position	\N	\N	\N	jing1wei3.mp3	\N
@@ -347,7 +347,7 @@
 347	并	並	bìng	emphasizes negation	adverb	\N	\N	虚词	Function Words	\N	\N	\N	bing4.mp3	并 can also function as an conjunction. See separate entry.
 348	会见	會見	huìjiàn	to meet with	verb	\N	\N	工作	Work	\N	\N	\N	hui4jian4.mp3	 Somebody who is paying a visit
 349	重量	\N	zhòngliàng	weight	noun	\N	\N	数量	Quantity	\N	\N	\N	zhong4liang4.mp3	\N
-350	几	幾	jǐ	several	numeral	\N	\N	数量	Quantity	\N	\N	\N	ji3.mp3	几 can represent an approximate number between one and nine.
+350	几	幾	jǐ	several	number	\N	\N	数量	Quantity	\N	\N	\N	ji3.mp3	几 can represent an approximate number between one and nine.
 351	几	幾	jǐ	how many	pronoun	疑问代词	Interrogative Pronoun	数量	Quantity	\N	\N	\N	ji3.mp3	Use when an integer number between 1 and 9 is expected.
 352	国会议员	國會議員	Guóhuì yìyuán	Member of Congress	pronoun	\N	\N	政治	Politics	\N	\N	\N	guo2hui4yi4yuan2.mp3	\N
 353	超级	超級	chāojí	super	adjective	\N	\N	规模	Scale	\N	\N	\N	chao1ji2.mp3	\N
@@ -397,7 +397,7 @@
 397	还	還	hái	also / in addition / more	adverb	\N	\N	重复	Repetition	\N	\N	\N	hai2.mp3	\N
 398	有	\N	yǒu	is / are	verb	\N	\N	虚词	Function Words	\N	\N	\N	you3.mp3	See <a href='http://chinesenotes.com/grammar_special_predicates.php#you'>有 Sentences</a>.
 399	人	\N	rén	person / people	noun	\N	\N	人	People	\N	\N	\N	ren2.mp3	\N
-400	多	\N	duō	indicates a number greater than the number preceding it	numeral	\N	\N	数量	Quantity	\N	\N	\N	duo1.mp3	There are numeral, adjective, verb, and adverb forms for 多.  See separate entries for each.
+400	多	\N	duō	indicates a number greater than the number preceding it	number	\N	\N	数量	Quantity	\N	\N	\N	duo1.mp3	There are numeral, adjective, verb, and adverb forms for 多.  See separate entries for each.
 401	多	\N	duō	many / much	adjective	\N	\N	数量	Quantity	\N	\N	\N	duo1.mp3	There are numeral, adjective, verb, and adverb forms for 多.  See separate entries for each.
 402	多	\N	duō	more	adverb	程度	Degree	数量	Quantity	\N	\N	\N	duo1.mp3	There are numeral, adjective, verb, and adverb forms for 多.  See separate entries for each.
 403	多	\N	duō	add / increase	verb	\N	\N	数量	Quantity	\N	\N	\N	duo1.mp3	There are numeral, adjective, verb, and adverb forms for 多.  See separate entries for each.
@@ -1276,7 +1276,7 @@
 1276	局	\N	jú	measure word for part of a game	measure word	\N	\N	数量	Quantity	\N	\N	\N	ju2.mp3	\N
 1277	数据	數據	shùjù	data / numbers	noun	\N	\N	信息	Information	\N	\N	\N	shu4ju4.mp3	\N
 1278	显示	顯示	xiǎnshì	to show / to illustrate / to display	verb	\N	\N	行为	Actions	\N	\N	\N	xian3shi4.mp3	\N
-1279	半	\N	bàn	half	numeral	\N	\N	数量	Quantity	\N	\N	\N	ban4.mp3	\N
+1279	半	\N	bàn	half	number	\N	\N	数量	Quantity	\N	\N	\N	ban4.mp3	\N
 1280	半	\N	bàn	incomplete	adverb	\N	\N	状况	Condition	\N	\N	\N	ban4.mp3	\N
 1281	四环	四環	sìhuán	Fourth Ring Road	proper noun	\N	\N	地方	Places	\N	\N	\N	si4huan2.mp3	Full name is 四环路, located in Beijing
 1282	以内	以內	yǐnèi	inside / within / less than	noun	\N	\N	位	Position	\N	\N	\N	yi3nei4.mp3	\N
@@ -1456,7 +1456,7 @@
 1456	触动	觸動	chùdòng	to touch / to stir up (trouble or emotions)	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 1457	既	\N	jì	already / since	adverb	\N	\N	时间	Time	\N	\N	\N	ji4.mp3	\N
 1458	既	\N	jì	both ... (and ...)	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	ji4.mp3	\N
-1459	得	\N	dé	to obtain / to get / to gain	verb	\N	\N	行为	Actions	\N	\N	\N	de2.mp3	\N
+1459	得	\N	dé	to obtain / to get / to gain / to attain	verb	\N	\N	行为	Actions	\N	\N	\N	de2.mp3	\N
 1460	得	\N	děi	must / ought to	adverb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 1461	得	\N	děi	to want to / to need to	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 1462	出路	\N	chūlù	way out	noun	\N	\N	交通	Transportation	\N	\N	\N	chu1lu4.mp3	\N
@@ -2099,7 +2099,7 @@
 2099	会员国	會員國	huìyuánguó	member nation	noun	\N	\N	政治	Politics	\N	\N	\N	hui4yuan2guo2.mp3	\N
 2100	微软公司	微軟公司	Wéiruǎn Gōngsī	Microsoft Corporation	proper noun	公司	Company	信息技术	Information Technology	\N	\N	\N	wei2ruan3gong1si1.mp3	\N
 2101	赢得	贏得	yíngdé	to win / to gain	verb	\N	\N	行为	Actions	\N	\N	\N	ying2de2.mp3	\N
-2102	三分之二	\N	sān fēnzhī èr	two-thirds	numeral	\N	\N	数量	Quantity	\N	\N	\N	san1fen1zhi2er4.mp3	\N
+2102	三分之二	\N	sān fēnzhī èr	two-thirds	number	\N	\N	数量	Quantity	\N	\N	\N	san1fen1zhi2er4.mp3	\N
 2103	成员	成員	chéngyuán	member	noun	\N	\N	政治	Politics	\N	\N	\N	cheng2yuan2.mp3	\N
 2104	获得	獲得	huòdé	to obtain / to receive / to get	verb	\N	\N	行为	Actions	\N	\N	\N	huo4de2.mp3	\N
 2105	少于	少於	shǎoyú	less than	adjective	\N	\N	数量	Quantity	\N	\N	\N	shao3yu2.mp3	\N
@@ -2346,7 +2346,7 @@
 2346	光盘刻录机	光盤刻錄機	guāngpán kèlùjī	CD writer	set phrase	\N	\N	信息技术	Information Technology	硬件	Hardware	\N	guang1pan2ke4lu4ji1.mp3	\N
 2347	刻录	刻錄	kèlù	to write, cut or copy (a CD or DVD)	verb	\N	\N	信息技术	Information Technology	硬件	Hardware	\N	ke4lu4.mp3	\N
 2348	路由器	\N	lùyóuqì	router	noun	\N	\N	信息技术	Information Technology	网络	Networking	\N	lu4you2qi4.mp3	\N
-2349	兆	\N	zhào	trillion / million / mega-	numeral	\N	\N	数量	Quantity	\N	\N	\N	zhao4.mp3	\N
+2349	兆	\N	zhào	trillion / million / mega-	number	\N	\N	数量	Quantity	\N	\N	\N	zhao4.mp3	\N
 2350	网卡	網卡	wǎngkǎ	network card	noun	\N	\N	信息技术	Information Technology	网络	Networking	\N	wang3ka3.mp3	\N
 2351	接口	\N	jiēkǒu	interface / port / connector	noun	\N	\N	信息技术	Information Technology	硬件	Hardware	\N	jie1kou3.mp3	\N
 2352	读卡器	讀卡器	dúkǎqì	card reader	noun	\N	\N	信息技术	Information Technology	硬件	Hardware	\N	du2ka3qi4.mp3	\N
@@ -2418,7 +2418,7 @@
 2418	卓越	\N	zhuóyuè	distinction / excellence / splendid	adjective	\N	\N	特点	Characteristic	\N	\N	\N	zhuo2yue4.mp3	\N
 2419	移动	移動	yídòng	to move	verb	\N	\N	移动	Movement	\N	\N	\N	yi2dong4.mp3	\N
 2420	移动	移動	yídòng	mobile / portable	adjective	\N	\N	移动	Movement	\N	\N	\N	yi2dong4.mp3	\N
-2421	双	雙	shuāng	two / double / pair	numeral	\N	\N	数量	Quantity	\N	\N	\N	shuang1.mp3	\N
+2421	双	雙	shuāng	two / double / pair	number	\N	\N	数量	Quantity	\N	\N	\N	shuang1.mp3	\N
 2422	场景	場景	chǎngjǐng	scene / scenario / setting	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 2423	娱乐	娛樂	yúlè	entertainment / amusement	noun	\N	\N	休闲	Leisure	\N	\N	\N	yu2le4.mp3	\N
 2424	大溪地	\N	Dàxīdì	Tahiti	proper noun	海岛	Island	地理	Geography	大洋洲	Oceania	\N	\N	The largest island in French Polynesia (法属波利尼西亚 - Fǎshǔ Pōlìníxīyà).
@@ -2816,7 +2816,7 @@
 2816	转存	轉存	zhuǎncún	to redeposit	verb	\N	\N	经济	Economics	\N	\N	\N	zhuan3cun2.mp3	\N
 2817	合适	合適	héshì	suitable / fit / decent	adjective	\N	\N	比较	Comparison	\N	\N	\N	he2shi4.mp3	\N
 2818	数	數	shǔ	to count	verb	\N	\N	数量	Quantity	\N	\N	\N	shu3.mp3	\N
-2819	数	數	shù	number / figure	numeral	\N	\N	数量	Quantity	\N	\N	\N	shu4.mp3	\N
+2819	数	數	shù	number / figure	number	\N	\N	数量	Quantity	\N	\N	\N	shu4.mp3	\N
 2820	数	數	shuò	frequently / repeatedly 	adverb	\N	\N	数量	Quantity	\N	\N	\N	shuo4.mp3	\N
 2821	资金	資金	zījīn	funds / funding	noun	\N	\N	经济	Economics	\N	\N	\N	zi1jin1.mp3	\N
 2822	仔细	仔細	zǐxì	careful / attentive / cautious	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -3445,7 +3445,7 @@
 3445	罗	羅	luó	to collect / to gather / to catch / to shift	verb	\N	\N	行为	Actions	\N	\N	\N	luo2.mp3	\N
 3446	罗	囉	luō	fussy / talkative 	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 3447	什	甚	shén	what	pronoun	\N	\N	古文	Classical Chinese	\N	\N	\N	shen2.mp3	\N
-3448	什	\N	shí	tenth	numeral	\N	\N	数量	Quantity	\N	\N	\N	shi2.mp3	\N
+3448	什	\N	shí	tenth	number	\N	\N	数量	Quantity	\N	\N	\N	shi2.mp3	\N
 3449	吉	\N	Jí	Ji	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	ji2.mp3	\N
 3450	吉	\N	Jí	Jilin	proper noun	省	Province	地方	Places	吉林	Jilin	\N	ji2.mp3	Abbreviation for 吉林 (Jílín)
 3451	吉	\N	jí	lucky	adjective	\N	\N	运气	Luck	\N	\N	cloisonne_qing400.jpg	ji2.mp3	\N
@@ -4774,7 +4774,7 @@
 4774	感觉	感覺	gǎnjué	to feel / to become aware of / to sense / to perceive	verb	\N	\N	感情	Emotion	\N	\N	\N	gan3jue2.mp3	\N
 4775	么	\N	ma	final interrogative particle	particle	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 4776	么	麽	me	interrogative suffix	suffix	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
-4777	么	幺	yāo	one / ace	numeral	\N	\N	数量	Quantity	\N	\N	\N	yao1.mp3	\N
+4777	么	幺	yāo	one / ace	number	\N	\N	数量	Quantity	\N	\N	\N	yao1.mp3	\N
 4778	么	幺	yāo	youngest / most junior / tiny	adjective	\N	\N	特点	Characteristic	\N	\N	\N	yao1.mp3	\N
 4779	词尾	詞尾	cíwěi	suffix	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 4780	那么	那麼	nàme	or so / so / so very much / about / in that case	conjunction	推论	Inference	虚词	Function Words	\N	\N	\N	na4me.mp3	\N
@@ -4896,7 +4896,7 @@
 4896	折	\N	zhē	to turn over / to turn upside-down / to tip out	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 4897	折	\N	shé	to break	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 4898	折	\N	shé	a loss	noun	\N	\N	经济	Economics	\N	\N	\N	\N	\N
-4899	折	\N	zhé	tenth	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+4899	折	\N	zhé	tenth	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 4900	鹤	鶴	hè	crane	noun	鸟	Bird	大自然	Nature	\N	\N	\N	he4.mp3	\N
 4901	巧克力	\N	qiǎokèlì	chocolate	noun	甜食	Dessert	饮食	Food and Drink	\N	\N	\N	\N	\N
 4902	相信	\N	xiāngxìn	to believe	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -5040,7 +5040,7 @@
 5040	蜜	\N	mì	honey	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	mi4.mp3	\N
 5041	心经	心經	Xīnjīng	The Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: Prajñāpāramitā Hṛdaya
 5042	般若波罗蜜多心经	般若波羅蜜多心經	Bōruòluómìduō Xīnjīng	The Prajnaparamita Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: Prajñāpāramitā Hṛdaya
-5043	般若波罗蜜多	般若波羅蜜多	bōruòbōluómìduō	prajnaparamita / perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: prajñāpāramitā
+5043	般若波罗蜜多	般若波羅蜜多	bōruòbōluómìduō	prajnaparamita / prajñāpāramitā / perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: prajñāpāramitā
 5044	照	\N	zhào	to photograph / to shine / to illuminate / to reflect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zhao4.mp3	\N
 5045	照	\N	zhào	according to / in accordance with	adverb	\N	\N	特点	Characteristic	\N	\N	\N	zhao4.mp3	\N
 5046	皆	\N	jiē	all / each and every / in all cases	adverb	\N	\N	虚词	Function Words	\N	\N	\N	jie1.mp3	\N
@@ -5183,7 +5183,7 @@
 5183	壮	壯	zhuàng	to strengthen	verb	\N	\N	行为	Actions	\N	\N	\N	zhuang4.mp3	\N
 5184	广西壮族自治区	廣西壯族自治區	Guǎngxī Zhuàngzú Zìzhìqū	Guangxi Zhuang Autonomous Region	proper noun	自治区	Autonomous Region	地方	Places	中国	China	\N	guang3xi1zhuang4zu2zi4zhi4qu1.mp3	\N
 5185	伍	\N	Wǔ	Wu	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	wu3.mp3	\N
-5186	伍	\N	wǔ	five	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	wu3.mp3	\N
+5186	伍	\N	wǔ	five	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	wu3.mp3	\N
 5187	伍	\N	wǔ	squad of five soldiers	noun	\N	\N	军事	Military	\N	\N	\N	wu3.mp3	\N
 5188	伍	\N	wǔ	to associate with	verb	\N	\N	行为	Actions	\N	\N	\N	wu3.mp3	\N
 5189	县级市	縣級市	xiànjíshì	county level city	noun	\N	\N	地理	Geography	\N	\N	\N	xian4ji2shi4.mp3	\N
@@ -5719,17 +5719,17 @@
 5719	力求	\N	lìqiú	to make every effort to / to do one's best	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 5720	罕	\N	hǎn	rare	adjective	\N	\N	特点	Characteristic	\N	\N	\N	han3.mp3	\N
 5721	大写	大寫	dàxiě	capital letters / block letters / banker's anti-fraud numerals / Accounting numerals	noun	\N	\N	语言	Language	\N	\N	\N	\N	banker's anti-fraud numerals are 壹, 貳, 叁, 肆, 伍, 陸, 柒, 捌, 玖, 拾, 佰, 仟
-5722	壹	\N	yī	one	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	yi1.mp3	\N
-5723	贰	貳	èr	two	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	er4.mp3	\N
-5724	叁	叄	sān	three	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	san1.mp3	\N
-5725	肆	\N	sì	four	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	si4.mp3	\N
+5722	壹	\N	yī	one	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	yi1.mp3	\N
+5723	贰	貳	èr	two	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	er4.mp3	\N
+5724	叁	叄	sān	three	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	san1.mp3	\N
+5725	肆	\N	sì	four	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	si4.mp3	\N
 5726	肆	\N	sì	market	noun	大写	Accounting numeral	商务	Commerce	\N	\N	\N	si4.mp3	\N
-5727	柒	\N	qī	seven	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	qi1.mp3	\N
-5728	捌	\N	bā	eight	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	ba1.mp3	\N
-5729	玖	\N	jiǔ	nine	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	jiu3.mp3	\N
-5730	拾	\N	shí	ten	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	shi2.mp3	\N
-5731	佰	\N	bǎi	hundred	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	bai3.mp3	\N
-5732	仟	\N	qiān	thousand	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	qian1.mp3	\N
+5727	柒	\N	qī	seven	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	qi1.mp3	\N
+5728	捌	\N	bā	eight	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	ba1.mp3	\N
+5729	玖	\N	jiǔ	nine	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	jiu3.mp3	\N
+5730	拾	\N	shí	ten	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	shi2.mp3	\N
+5731	佰	\N	bǎi	hundred	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	bai3.mp3	\N
+5732	仟	\N	qiān	thousand	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	qian1.mp3	\N
 5733	虐	\N	nüè	oppressive / tyrannical	adjective	\N	\N	特点	Characteristic	\N	\N	\N	\N	\N
 5734	肆虐	\N	sìnüè	to wreak havoc / to devastate	verb	\N	\N	暴力	Violence	\N	\N	\N	\N	\N
 5735	南方	\N	Nánfāng	the South	proper noun	\N	\N	地理	Geography	\N	\N	\N	\N	In China this refers to the area south of the Yangze River
@@ -6806,7 +6806,7 @@
 6806	毛巾	\N	máojīn	towel	noun	\N	\N	家庭用品	Household Article	\N	\N	\N	\N	\N
 6807	巾	\N	jīn	Kangxi radical 50	noun	\N	\N	部首	Radicals	\N	\N	\N	jin1.mp3	towel
 6808	干	\N	gān	Kangxi radical 51	noun	\N	\N	部首	Radicals	\N	\N	\N	gan1.mp3	dry
-6809	幺	\N	yāo	one	numeral	\N	\N	数量	Quantity	\N	\N	\N	yao1.mp3	\N
+6809	幺	\N	yāo	one	number	\N	\N	数量	Quantity	\N	\N	\N	yao1.mp3	\N
 6810	幺	\N	yāo	Kangxi radical 52	noun	\N	\N	部首	Radicals	\N	\N	\N	yao1.mp3	one
 6811	乡	鄉	xiāng	village	noun	\N	\N	地理	Geography	\N	\N	\N	xiang1.mp3	\N
 6812	乡	鄉	xiāng	Kangxi radical 52	noun	\N	\N	部首	Radicals	\N	\N	\N	xiang1.mp3	Village, alterate form for 幺
@@ -7193,7 +7193,7 @@
 7193	卧	臥	wò	to lie / to crouch	verb	\N	\N	身姿	Posture	\N	\N	\N	wo4.mp3	\N
 7194	碎	\N	suì	to break down / to break into pieces	verb	\N	\N	行为	Actions	\N	\N	\N	sui4.mp3	\N
 7195	碎	\N	suì	fragmentary	adjective	\N	\N	特点	Characteristic	\N	\N	\N	sui4.mp3	\N
-7196	阿僧祗	\N	āsēngzhī	Asamkhyeyas / a large number / innumerable	numeral	\N	\N	神话	Mythology	印度	India	\N	\N	From the Sanskrit asaṃkhyeyas, a very large number
+7196	阿僧祗	\N	āsēngzhī	Asamkhyeyas / a large number / innumerable	number	\N	\N	神话	Mythology	印度	India	\N	\N	From the Sanskrit asaṃkhyeyas, a very large number
 7197	演说	 演說	yǎnshuō	to give a speech	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
 7198	幻	\N	huàn	fantasy	noun	\N	\N	思想	Thought	\N	\N	\N	huan4.mp3	\N
 7199	梦幻	夢幻	mènghuàn	illusion	noun	\N	\N	思想	Thought	\N	\N	\N	meng4huan4.mp3	\N
@@ -8062,7 +8062,7 @@
 8062	篇章	\N	piānzhāng	writing / sections and chapters	noun	\N	\N	写作	Writing	\N	\N	\N	pian1zhang1.mp3	\N
 8063	搭建	\N	dājiàn	to build	verb	\N	\N	建筑学	Architecture	\N	\N	\N	da1jian4.mp3	\N
 8064	空前	\N	kōngqián	unprecedented	adjective	\N	\N	状况	Condition	\N	\N	\N	kong1qian2.mp3	\N
-8065	亿万	億萬	yìwàn	millions and millions	numeral	\N	\N	数量	Quantity	\N	\N	\N	yi4wan4.mp3	\N
+8065	亿万	億萬	yìwàn	millions and millions	number	\N	\N	数量	Quantity	\N	\N	\N	yi4wan4.mp3	\N
 8066	姿	\N	zī	beauty / disposition / looks / appearance	noun	\N	\N	观察	Observation	\N	\N	\N	zi1.mp3	\N
 8067	厚	\N	hòu	thick / generous	adjective	\N	\N	形态	Form	\N	\N	\N	hou4.mp3	\N
 8068	深厚	\N	shēnhòu	deep / profound	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -9504,15 +9504,15 @@
 9504	雄蕊	\N	xióngruǐ	stamen	noun	\N	\N	植物学	Botany	\N	\N	\N	\N	male part of flower
 9505	数目	數目	shùmù	amount / number	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 9506	简化	簡化	jiǎnhuà	to simplify	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
-9507	〇	\N	líng	zero	numeral	\N	\N	数量	Quantity	\N	\N	\N	ling2.mp3	\N
+9507	〇	\N	líng	zero	number	\N	\N	数量	Quantity	\N	\N	\N	ling2.mp3	\N
 9508	维基百科	維基百科	Wéijībǎikē	Wikipedia	proper noun	\N	\N	教育	Education	\N	\N	\N	\N	\N
 9509	百科	\N	bǎikē	encyclopedia	noun	\N	\N	教育	Education	\N	\N	\N	\N	Abbreviation for 百科全书
 9510	百科全书	百科全書	bǎikē quánshū	encyclopedia	noun	\N	\N	教育	Education	\N	\N	\N	\N	\N
 9511	大写数字	大寫數字	dàxiě shùzì	banker's anti-fraud numerals / accounting numerals	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 9512	拾	\N	shí	to pick up	verb	\N	\N	行为	Actions	\N	\N	\N	shi2.mp3	\N
-9513	弌	\N	yī	one	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	yi1.mp3	Archaic variant
-9514	弎	\N	sān	three	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	san1.mp3	Archaic variant
-9515	弍	\N	èr	two	numeral	大写	Accounting numeral	数量	Quantity	\N	\N	\N	er4.mp3	Archaic variant
+9513	弌	\N	yī	one	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	yi1.mp3	Archaic variant
+9514	弎	\N	sān	three	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	san1.mp3	Archaic variant
+9515	弍	\N	èr	two	number	大写	Accounting numeral	数量	Quantity	\N	\N	\N	er4.mp3	Archaic variant
 9516	玖	\N	jiǔ	black jade	noun	宝石	Gemstone	地质	Geology	\N	\N	\N	jiu3.mp3	\N
 9517	整数	整數	zhěngshù	whole number / integer	noun	\N	\N	数学	Mathematics	\N	\N	\N	\N	\N
 9518	别的	別的	biéde	other / else	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
@@ -10339,7 +10339,7 @@
 10339	劳动	勞動	láodòng	to do physical labor	noun	\N	\N	工作	Work	\N	\N	\N	lao2dong4.mp3	\N
 10340	劳驾	勞駕	láojià	excuse me	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
 10341	立刻	\N	lìkè	immediately / promptly / promptly	adverb	\N	\N	时间	Time	\N	\N	\N	\N	\N
-10342	俩	倆	liǎ	two	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+10342	俩	倆	liǎ	two	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 10343	连_都_	連_都_	lián_dōu_	even ...	pattern	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 10344	凉快	涼快	liángkuai	pleasantly cool	adjective	\N	\N	特点	Characteristic	\N	\N	\N	\N	\N
 10345	留念	\N	liúniàn	to keep as a souvenir / to recall fondly	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -10942,7 +10942,7 @@
 10942	气	氣	qì	to be angry	verb	\N	\N	感情	Emotion	\N	\N	\N	qi4.mp3	\N
 10943	气温	氣溫	qìwēn	air temperature	noun	\N	\N	温度	Temperature	\N	\N	\N	\N	\N
 10944	汽油	\N	qìyóu	gas / gasoline	noun	\N	\N	能源	Energy	\N	\N	\N	\N	\N
-10945	千万	千萬	qiānwàn	ten million	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+10945	千万	千萬	qiānwàn	ten million	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 10946	千万	千萬	qiānwàn	countless / many	adverb	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 10947	前年	\N	qiánnián	the year before last	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 10948	前天	\N	qiántiān	the day before yesterday	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
@@ -11499,7 +11499,7 @@
 11499	行	\N	xíng	to do	verb	\N	\N	行为	Actions	\N	\N	\N	xing2.mp3	\N
 11500	行	\N	xíng	all right / OK / okay	adjective	\N	\N	口语	Colloquial	\N	\N	\N	xing2.mp3	\N
 11501	学	學	xué	to imitate	verb	\N	\N	行为	Actions	\N	\N	\N	xue2.mp3	\N
-11502	一	\N	yī	placed in front of nouns to indicate an abstract nature or an action	numeral	\N	\N	数量	Quantity	\N	\N	\N	yi1.mp3	\N
+11502	一	\N	yī	placed in front of nouns to indicate an abstract nature or an action	adverb	\N	\N	数量	Quantity	\N	\N	\N	yi1.mp3	\N
 11503	跟头	跟頭	gēntou	a somersault	noun	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 11504	跟头	跟頭	gēntou	to trip / to fall down / to tumble	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 11505	正	\N	zhèng	fundamental	adjective	\N	\N	状况	Condition	\N	\N	\N	zheng4.mp3	\N
@@ -13050,7 +13050,7 @@
 13050	通用公共许可証	通用公共許可証	Tōngyòng Gōnggòng Xǔkě Zhèng	General Public Licence (GPL)	proper noun	\N	\N	法律	Law	\N	\N	\N	\N	\N
 13051	地理信息系统	地理信息系統	dìlǐ xìnxī xìtǒng	geographical information system (GIS)	set phrase	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
 13052	图形交换格式	圖形交換格式	Túxíng Jiāohuàn Géshì	Graphics Interchange Format (GIF)	proper noun	\N	\N	信息技术	Information Technology	多媒体	Multimedia	\N	\N	\N
-13053	千兆位	\N	Qiān Zhàowèi	gigabit	numeral	\N	\N	信息技术	Information Technology	数据	Data	\N	\N	\N
+13053	千兆位	\N	Qiān Zhàowèi	gigabit	number	\N	\N	信息技术	Information Technology	数据	Data	\N	\N	\N
 13054	不肯	\N	bùkěn	not willing	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 13055	示弱	\N	shìruò	to show weakness	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 13056	愤	憤	fèn	indignant	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
@@ -13595,7 +13595,7 @@
 13595	夜间	夜間	yèjiān	nighttime / evening	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 13596	液体	液體	yètǐ	a liquid	noun	\N	\N	化学	Chemistry	\N	\N	\N	\N	\N
 13597	一带	一帶	yīdài	region / district	noun	\N	\N	地理	Geography	\N	\N	\N	\N	\N
-13598	一	\N	yī	placed in front of nouns to indicate a complete unit	numeral	\N	\N	数量	Quantity	\N	\N	\N	yi1.mp3	\N
+13598	一	\N	yī	placed in front of nouns to indicate a complete unit	adverb	\N	\N	数量	Quantity	\N	\N	\N	yi1.mp3	\N
 13599	一一	\N	yīyī	one by one / one after another	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 13600	一口气	一口氣	yī kǒu qì	in one breath / without a break	adverb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 13601	一连	一連	yīlián	in a row / in succession / continuously	adverb	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
@@ -17659,7 +17659,7 @@
 17659	戒律	\N	jiè lǜ	monastic discipline / Vinaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali: vinaya
 17660	三昧地	\N	sānmèidì	Samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samādhi, Pali: samādhi; a higher level of concentrated meditation.  There are four kinds of samadhi: (1) constant sitting samadhi 常坐三昧; (2) constant walking samadhi 常行三昧; (3) half walking, half sitting samadhi 半行半坐三昧; 4 non-walking, non-sitting samadhi 非行非坐三昧
 17661	三法印	\N	sān fǎ yìn	Three Dharma Seals / Three Marks of Existence	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: trilakṣaṇa, Pali: tilakkhaṇa; the Three Dharma Seals are 无常 impermanence, 无我 non-self, and 涅盘 Nirvana
-17662	数	數	shù	several / a few	numeral	\N	\N	古文	Classical Chinese	\N	\N	\N	shu4.mp3	\N
+17662	数	數	shù	several / a few	number	\N	\N	古文	Classical Chinese	\N	\N	\N	shu4.mp3	\N
 17663	妪	嫗	yù	an old woman	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yu4.mp3	\N
 17664	妪	嫗	yù	to brood over / to protect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	yu4.mp3	\N
 17665	见	見	jiàn	passive marker	particle	\N	\N	古文	Classical Chinese	\N	\N	\N	jian4.mp3	\N
@@ -17819,7 +17819,7 @@
 17819	眙	\N	chì	to stare at	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	chi4.mp3	\N
 17820	珥	\N	ěr	an earring	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17821	簪	\N	zān	hairpin	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-17822	参	參	cān	three	numeral	\N	\N	古文	Classical Chinese	\N	\N	\N	can1.mp3	\N
+17822	参	參	cān	three	number	\N	\N	古文	Classical Chinese	\N	\N	\N	can1.mp3	\N
 17823	曹	\N	cáo	a companion	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17824	阑	闌	lán	exhausted / late	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	lan2.mp3	\N
 17825	促坐	\N	cùzuò	to sit close together	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -17953,7 +17953,7 @@
 17953	厥	\N	jué	him / it	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	jue2.mp3	\N
 17954	右厥	\N	yòu jué	right combined horizontal and vertical hook stroke	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	you_jue.png	\N	N 
 17955	二十国集团	二十國集團	èrshí Guó Jítuán	G20	proper noun	\N	\N	经济	Economics	\N	\N	\N	\N	\N
-17956	二十	\N	èrshí	twenty	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+17956	二十	\N	èrshí	twenty	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 17957	伦	倫	lún	human relationship / order / coherence	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	lun2.mp3	\N
 17958	敦	\N	dūn	kind-hearted	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	dun1.mp3	\N
 17959	伦敦	倫敦	Lúndūn	London	proper noun	城市	City	地方	Places	英国	England	\N	\N	\N
@@ -20092,7 +20092,7 @@
 20092	十部	\N	shí bù	name of Kangxi radical 24	noun	偏旁名称	Name of part of a character	语言	Language	\N	\N	\N	\N	十 radical
 20093	卆	\N	zú	a soldier	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Variant of 卒
 20094	卆	\N	zú	to die	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Variant of 卒
-20095	卅	\N	sà	thirty	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+20095	卅	\N	sà	thirty	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 20096	私字	\N	sī zì	name of Kangxi radical 28	noun	偏旁名称	Name of part of a character	语言	Language	\N	\N	\N	\N	厶 radical
 20097	厾	\N	dū	to tap lightly	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 20098	厹	\N	qiú	a spear	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -20162,7 +20162,7 @@
 20162	工部	\N	gōng bù	name of Kangxi radical 48	noun	偏旁名称	Name of part of a character	语言	Language	\N	\N	\N	\N	工 radical
 20163	弓部	\N	gōng bù	name of Kangxi radical 57	noun	偏旁名称	Name of part of a character	语言	Language	\N	\N	\N	\N	弓 radical
 20164	弄字底	\N	nòng zì dǐ	name of Kangxi radical 55	noun	偏旁名称	Name of part of a character	语言	Language	\N	\N	\N	\N	廾 radical
-20165	廿	\N	niàn	twenty	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+20165	廿	\N	niàn	twenty	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 20166	弁	\N	biàn	a cap	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 20167	广字旁	\N	Guǎng zì páng	name of Kangxi radical 53	noun	偏旁名称	Name of part of a character	语言	Language	\N	\N	\N	\N	广 radical
 20168	庀	\N	pǐ	to prepare	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -28792,11 +28792,11 @@
 28792	调御士	調禦士	tiáo yù shì	the One who Tames and Harmonizes / Tamer / the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: puruṣadamyasārathi; one of the ten epithets of a Buddha 佛陀十号
 28793	天人师	天人師	tiānrén shī	Teacher of Devas and Human Beings / the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sastra deva-manusyanam; one of the ten epithets of a Buddha 佛陀十号
 28794	菩萨道	菩薩道	Púsà Dào	Bodhisattva Path	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bodhisattva-caryā
-28795	十二	\N	shí èr	twelve	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+28795	十二	\N	shí èr	twelve	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 28796	大愿	\N	dà yuàn	a vow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 28797	炽然	\N	chìrán	to burn fiercely / to have a very bright appearance	verb	\N	\N	火	Fire	\N	\N	\N	\N	\N
 28798	照曜	\N	zhàoyào	to shine / to illuminate	verb	\N	\N	光纤	Light	\N	\N	\N	\N	\N
-28799	十一	\N	shí yī	eleven	numeral	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+28799	十一	\N	shí yī	eleven	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 28800	印契	\N	yìnqì	a mudra	noun	\N	\N	佛教	Buddhism	密宗	Tantric Buddhism	\N	\N	This is usually used in the context of Tantric Buddhism
 28801	除盖障	除蓋障	Chú Gài Zhàng	Sarvanivaranaviskambhin Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	\N
 28802	研判	\N	yánpàn	to study and come to a decision	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -29835,7 +29835,7 @@
 29835	观	觀	guān	mindfulness / contemplation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	guan1.mp3	Sanskrit: smṛti; as in the Five Contemplations 五停心观
 29836	垢	\N	gòu	disgrace / shame / humiliation	noun	\N	\N	道德	Ethics	\N	\N	\N	gou4.mp3	\N
 29837	垢	\N	gòu	evil	noun	\N	\N	道德	Ethics	\N	\N	\N	gou4.mp3	\N
-29838	垢	\N	gòu	dirty / filthy	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	gou4.mp3	\N
+29838	垢	\N	gòu	dirty / filthy / unclean	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	gou4.mp3	\N
 29839	不净	不淨	bù jìng	dirty / filthy	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	gou4.mp3	Sanskrit: aśubha
 29840	四大部洲	\N	sì dà bù zhōu	the Four Great Continents	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Purvavideha (2) Jambudvipa (3) Aparagodaniya (4) Uttarakuru
 29841	东胜身州	東勝身州	dōng shèng shēn zhōu	Purvavideha	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pūrvavideha; the easternmost of the Four Great Continents 四洲
@@ -32111,7 +32111,7 @@
 32111	伺	\N	sì	vicāra / vicara / sustained application / sustained thinking / selectiveness / subtle discernment / discernment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	si4.mp3	Sanskrit: vicāra, Pali: vicāra; one of the four changeable mental factors in the Mahayana teachings
 32112	四禅	四禪	sì chán	the four meditations / the four dhyānas / the four jhānas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: catvāri dhyānāni, Pali: cattāri jhānāni; they are the first dhyāna 初禪、second dhyāna 二禪、third dhyāna 三禪、and fourth dhyāna 四禪
 32113	业处	業處	yè chù	karmasthana / kammaṭṭhāna / an object of meditation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: karmasthāna, Pali: kammaṭṭhāna
-32114	无色	無色	wúsè	formless / arupa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: arūpa
+32114	无色	無色	wúsè	formless / no form / arupa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: arūpa
 32115	结缚	結縛	jiéfú	a mental fetter or bond	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: bandhana, Pali: samyojana
 32116	瞋	\N	chēn	to be angry	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32117	无瞋	無瞋	wúchēn	non-aggression / non-hatred / imperturbability	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: adveṣa, Pali: adosa
@@ -33054,7 +33054,7 @@
 33054	四十	\N	sì shí	fourty	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 33055	呪	\N	zhòu	mantra	noun	\N	\N	宗教	Religion	\N	\N	\N	zhou4.mp3	Sanskrit: mantra
 33056	抧	\N	zhǐ	to open	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-33057	万	\N	wàn	ten thousand	numeral	\N	\N	古文	Classical Chinese	\N	\N	\N	wan4.mp3	Besides being the simplified form, 万 is also an archaic variant of 萬.
+33057	万	\N	wàn	ten thousand	number	\N	\N	古文	Classical Chinese	\N	\N	\N	wan4.mp3	Besides being the simplified form, 万 is also an archaic variant of 萬.
 33058	香	\N	xiāng	fragrance / scent	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	xiang1.mp3	\N
 33059	意识界	意識界	yìshí jiè	consciousness / awareness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xiang1.mp3	\N
 33060	集	\N	jí	desire / greed / craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji2.mp3	\N
@@ -33281,4 +33281,4 @@
 33281	之	\N	zhī	genetive marker	particle	\N	\N	虚词	Function Words	\N	\N	\N	zhi1.mp3	\N
 33282	如如不动	如如不動	rú rú bù dòng	in unmoving suchness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 33283	电	電	diàn	lightning	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	dian4.mp3	\N
-
+33284	行	\N	xíng	practice	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N

@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 """Unit tests for the bdict.postaggeraccuracy module.
 
-Tests the methods for building documents with English gloss and POS tags.
+Tests the methods for testing accuracy of tagged documents with English gloss and POS tags.
 """
 import unittest
 
 from bdict import postaggeraccuracy
+from bdict import taggeddoc
 
 
 class TaggerAccuracyTest(unittest.TestCase):
@@ -24,16 +25,11 @@ class TaggerAccuracyTest(unittest.TestCase):
 
     def testTaggerAccuracy3(self):
         filename1 = '../web/corpus/tagged/heart-sutra-xuanzang-tagged.txt'
-        standard = postaggeraccuracy.LoadTaggedDoc(filename1)
+        standard = taggeddoc.LoadTaggedDoc(filename1)
         filename2 = '../web/corpus/tagged/heart-sutra-xuanzang-gen-tagged.txt'
-        subject = postaggeraccuracy.LoadTaggedDoc(filename2)
+        subject = taggeddoc.LoadTaggedDoc(filename2)
         result = postaggeraccuracy.TaggerAccuracy(standard, subject)
         self.assertTrue(0 < result <= 1)
-
-    def testLoadTaggedDoc1(self):
-        filename = '../web/corpus/tagged/heart-sutra-xuanzang-gen-tagged.txt'
-        tagged_words = postaggeraccuracy.LoadTaggedDoc(filename)
-        self.assertTrue(tagged_words)
 
 
 if __name__ == '__main__':

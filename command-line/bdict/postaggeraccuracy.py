@@ -4,11 +4,10 @@ The sequence will be compared to a standard and the accuracy of the match
 reported.
 """
 
-import codecs
-
 from bdict import app_exceptions
 
 MAX_DIFFERENCES = 5
+
 
 def TaggerAccuracy(standard, subject):
     """Compares the sequences for accuracy.
@@ -42,29 +41,4 @@ def TaggerAccuracy(standard, subject):
         if standard[i] == subject[i]:
             no_matches += 1
     return no_matches / float(len(standard))
-
-
-def LoadTaggedDoc(filename):
-    """Loads the POS tagged document.
-
-    Args:
-      filename: the file name of the tagged document
-
-    Return:
-      The sequence of tagged words
-    """
-    tagged_words = []
-    with codecs.open(filename, 'r', "utf-8") as f:
-        # print('Reading input file %s ' % filename)
-        for line in f:
-            if not line.strip():
-                continue
-            tokens = line.split('/')
-            element_text = tokens[0]
-            element = {'element_text': element_text}
-            if len(tokens) > 1:
-                tokens = tokens[1].split('[')
-                element['tag'] = tokens[0]
-            tagged_words.append(element)
-    return tagged_words
 

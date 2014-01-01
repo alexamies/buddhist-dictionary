@@ -36,10 +36,10 @@ class ChineseEnglishDict:
                         traditional = entry['simplified']
                         entry['traditional'] = traditional
                     if traditional not in wdict:
+                        entry['other_entries'] = []
                         wdict[traditional] = entry
                     else:
-                        previous_word = wdict[traditional]
-                        wdict[traditional] = preferWord(previous_word,entry)
+                        wdict[traditional]['other_entries'].append(entry)
         return wdict
 
 def isFunctionWord(entry):

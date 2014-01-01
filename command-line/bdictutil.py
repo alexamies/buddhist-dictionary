@@ -12,6 +12,7 @@ from bdict import corpusmanager
 from bdict import glossgenerator
 from bdict import postaggeraccuracy
 from bdict import sanskritvocab
+from bdict import taggeddoc
 
 
 def PrintUsage():
@@ -109,8 +110,8 @@ def main():
                 config = manager.LoadConfig()
                 tagged_directory = config['tagged_directory']
                 standard_file = '%s/%s' % (tagged_directory, pos_tagged)
-                standard = postaggeraccuracy.LoadTaggedDoc(standard_file)
-                subject = postaggeraccuracy.LoadTaggedDoc(filename)
+                standard = taggeddoc.LoadTaggedDoc(standard_file)
+                subject = taggeddoc.LoadTaggedDoc(filename)
                 accuracy = postaggeraccuracy.TaggerAccuracy(standard, subject)
                 print('Tagging accuracy: %f' % accuracy)
             except app_exceptions.BDictException as e:
