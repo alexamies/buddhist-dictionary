@@ -66,7 +66,7 @@ source_name: The name of the source document. Included to make the phrase list
 
 pos_penn.txt
 ===============================================================================
-This table enumerates the part-of-speech tags used
+This table enumerates the part-of-speech tags used.  The fields are:
 
 tag: the text of the tag
 
@@ -75,5 +75,19 @@ name: a descriptive name of the tag
 list: if the list is a closed set then the list of words is given. Both simplified
       and traditional are included.
 
+unigram_freq.txt
+===============================================================================
+This table is for word sense frequency derived from POS tagged documents.
+The fields are:
+
+pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+
+element_text: The element text in traditional Chinese
+
+word_id: Matching id in the word table
+
+frequency: The frequency of occurence of the word sense
+
 Notes:
+===============================================================================
 (1) Only UTF-8 is supported

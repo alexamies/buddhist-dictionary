@@ -89,7 +89,7 @@ def SaveWordSenseFreq(wfreq, filename):
                 print('Warning: could not find %s in dictionary.' % element_text)
                 continue
             word_id = word_entry['id']
-            f.write("%s, %s, %s, %d\n" % (k, element_text, word_id, freq))
+            f.write("%s\t%s\t%s\t%d\n" % (k, element_text, word_id, freq))
 
 
 def WordSenseFrequency(filename):
