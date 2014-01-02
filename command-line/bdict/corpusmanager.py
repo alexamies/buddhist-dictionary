@@ -1,14 +1,29 @@
 """Module to read the corpus (aka library) data. ==============================
 
-The corpus documents are listed in the file $PROJECT_HOMEA/data/corpos/corpus.txt
+The corpus documents are listed in the file $PROJECT_HOME/data/corpos/corpus.txt
 """
 import codecs
 
+CORPUS_FILE = 'corpus.txt'
 
 class CorpusManager:
     """Reads and prints the corpus data.
 
+    Loads the corpus based on entries in corpus file.
     """
+
+    def GetAllTagged(self):
+        """Returns a list of corpus entries for all POS tagged documents in the corpus.
+
+        Returns:
+            A list of corpus entries.
+        """
+        tagged_entries = []
+        corpus = self.LoadCorpus()
+        for entry in corpus:
+            if 'pos_tagged' in entry:
+                tagged_entries.append(entry)
+        return tagged_entries
 
     def LoadCorpus(self):
         """Loads the corpus text file into memory.
@@ -17,8 +32,7 @@ class CorpusManager:
             A list of corpus entries.
         """
         dirname = '../data/dictionary/'
-        filename = 'corpus.txt'
-        fullpath = '%s%s' % (dirname, filename)
+        fullpath = '%s%s' % (dirname, CORPUS_FILE)
         corpus = []
         with codecs.open(fullpath, 'r', "utf-8") as f:
             for line in f:
@@ -45,25 +59,25 @@ class CorpusManager:
                     if len(tokens) > 8:
                         entry['start'] = tokens[8]
                     if len(tokens) > 9:
-                        if tokens[9] != '\\N':
+                        if tokens[9].strip() != u'\\N':
                         	entry['end'] = tokens[9]
                     if len(tokens) > 10:
-                        if tokens[10] != '\\N':
+                        if tokens[10].strip() != u'\\N':
                         	entry['plain_text'] = tokens[10].strip()
                     if len(tokens) > 11:
-                        if tokens[11] != '\\N':
+                        if tokens[11].strip() != u'\\N':
                         	entry['translator'] = tokens[11].strip()
                     if len(tokens) > 12:
-                        if tokens[12] != '\\N':
+                        if tokens[12].strip() != u'\\N':
                         	entry['reference'] = tokens[12].strip()
                     if len(tokens) > 13:
-                        if tokens[13] != '\\N':
+                        if tokens[13].strip() != u'\\N':
                         	entry['genre'] = tokens[13].strip()
                     if len(tokens) > 14:
-                        if tokens[14] != '\\N':
+                        if tokens[14].strip() != u'\\N':
                         	entry['period'] = tokens[14].strip()
                     if len(tokens) > 15:
-                        if tokens[15] != '\\N':
+                        if tokens[15].strip() != u'\\N':
                         	entry['pos_tagged'] = tokens[15].strip()
                     corpus.append(entry)
         return corpus

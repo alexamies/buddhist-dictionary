@@ -26,28 +26,13 @@ class ChineseVocabTest(unittest.TestCase):
 
     def testBuildVocabulary2(self):
         corpus_entry = {}
-        corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
-        corpus_entry['source_name'] = 'Test Name'
-        corpus_entry['source'] = 'Test Source'
-        corpus_entry['reference'] = 'Vol. 1, No. 2'
-        corpus_entry['translator'] = 'A Translator'
-        vocab = chinesevocab.ChineseVocabulary()
-        vocab.BuildVocabulary(corpus_entry)
-        manager = configmanager.ConfigurationManager()
-        self.config = manager.LoadConfig()
-        directory = self.config['corpus_directory']
-        fullpath = '%s/%s' % (directory, chinesevocab.DEFAULT_OUTFILE)
-        self.assertTrue(os.path.isfile(fullpath))
-
-    def testBuildVocabulary3(self):
-        corpus_entry = {}
-        corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
-        corpus_entry['start'] = u'如是我聞'
+        corpus_entry['plain_text'] = 'heart-sutra-xuanzang.txt'
+        corpus_entry['start'] = u'觀自在菩薩行深'
         corpus_entry['end'] = u'本網站係採用'
-        corpus_entry['source_name'] = 'Test Name'
-        corpus_entry['source'] = 'Test Source'
-        corpus_entry['reference'] = 'Vol. 1, No. 2'
-        corpus_entry['translator'] = 'A Translator'
+        corpus_entry['source_name'] = u'Prajñāpāramitā Heart Sūtra 般若波羅蜜多心經'
+        corpus_entry['source'] = u'Taisho Tripitaka'
+        corpus_entry['reference'] = u'Vol. 8, No. 251'
+        corpus_entry['translator'] = u'Xuanzang'
         vocab = chinesevocab.ChineseVocabulary()
         vocab.BuildVocabulary(corpus_entry)
         manager = configmanager.ConfigurationManager()

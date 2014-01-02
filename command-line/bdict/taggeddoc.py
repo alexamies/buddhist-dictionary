@@ -6,7 +6,10 @@ distribitions of word senses compiled.
 
 import codecs
 
+from bdict import app_exceptions
 from bdict import cedict
+from bdict import configmanager
+from bdict import corpusmanager
 
 PENN_2_DICT = {  # Dictionary for lookup of word entry grammar based on POS tag.
                'VA': 'adjective',
@@ -28,12 +31,11 @@ PENN_2_DICT = {  # Dictionary for lookup of word entry grammar based on POS tag.
                'CS': 'conjunction',
                'DEC': 'particle',
                'DEG': 'particle',
-               'MSP': 'particle',
+               'MSP': ['particle', 'suffix'],
                'DEV': 'particle',
                'SP': 'particle',
                'AS': 'particle',
                'ETC': 'particle',
-               'MSP': 'particle',
                'IJ': 'interjection',
                'ON': 'onomatopoeia',
                'PU': 'punctuation',
@@ -76,33 +78,64 @@ def SaveWordSenseFreq(wfreq, filename):
       wfreq: a dictionary structure with the word sense frequency.
       filename: the file name to save the frequency distribution to.
     """
-    dictionary = cedict.ChineseEnglishDict()
-    wdict = dictionary.OpenDictionary() # Word dictionary
     with codecs.open(filename, 'w', "utf-8") as f:
         # print('Writing  to output file %s ' % filename)
         for k in sorted(wfreq, key=lambda key: -wfreq[key]['freq']):
+            tagged_text = wfreq[k]['tagged_text']
             freq = wfreq[k]['freq']
             element_text = wfreq[k]['element_text']
-            tag = wfreq[k]['tag']
-            word_entry = _GetBestWordSense(wdict, wfreq[k])
-            if not word_entry:
-                print('Warning: could not find %s in dictionary.' % element_text)
-                continue
-            word_id = word_entry['id']
-            f.write("%s\t%s\t%s\t%d\n" % (k, element_text, word_id, freq))
+            f.write("%s\t%s\t%s\t%d\n" % (tagged_text, element_text, k, freq))
 
 
-def WordSenseFrequency(filename):
-    """Finds the word sense frequency from words in the POS tagged document.
-
-    Puncution is removed from the tokens read from input file.
-
-    Args:
-      filename: the file name of the tagged document
+def WordSenseForCorpus():
+    """Finds the word sense frequency for the entire tagged corpus.
 
     Return:
       A dictionary structure with the word sense frequency.
     """
+    cmanager = corpusmanager.CorpusManager()
+    tagged_entries = cmanager.GetAllTagged()
+    wfreq = {}
+    for entry in tagged_entries:
+        wfreq_entry =WordSenseFrequency(entry)
+        if not wfreq:
+            wfreq =  wfreq_entry
+        else:
+            for key in wfreq_entry.keys():
+                if key not in wfreq:
+                    wfreq[key] = wfreq_entry[key]
+                else:
+                    wfreq[key]['freq'] += wfreq_entry[key]['freq']
+    return wfreq
+
+def WordSenseFrequency(corpus_entry):
+    """Finds the word sense frequency from words in the corpus entry.
+
+    The corpus entry should include a POS tagged document. Otherwise,
+    an exception will be generated. Puncution is removed from the
+    tokens read from input file. The key is the word id from the
+    words table.
+
+    Args:
+      corpus_entry: including the file name of the tagged document
+
+    Return:
+      A dictionary structure with the word sense frequency.
+
+    Raises:
+      BDictException: If the input file does not exist
+    """
+    if 'pos_tagged' not in corpus_entry:
+        raise app_exceptions.BDictException('Cannot compute word sense '
+                                            'frequency without a POS tagged doc '
+                                            'in the corpus.')
+    pos_tagged = corpus_entry['pos_tagged']
+    manager = configmanager.ConfigurationManager()
+    config = manager.LoadConfig()
+    directory = config['tagged_directory']
+    filename = '%s/%s' % (directory, pos_tagged)
+    dictionary = cedict.ChineseEnglishDict()
+    wdict = dictionary.OpenDictionary() # Word dictionary
     wfreq = {}
     with codecs.open(filename, 'r', "utf-8") as f:
         # print('Reading input file %s ' % filename)
@@ -114,21 +147,25 @@ def WordSenseFrequency(filename):
             if 'tag' not in element:
                 print('Warning: element has no tag "%s"' % element)
                 continue
-            tag = element['tag'].strip()
+            tag = element['tag']
             if tag == u'PU':
                 continue
-            #  print('tag is "%s"' % tag)
-            if line in wfreq:
-                elem = wfreq[line]
+            word_entry = _GetBestWordSense(wdict, element)
+            element_text = element['element_text']
+            if not word_entry:
+                print('Warning: could not find %s in dictionary.' % element_text)
+                continue
+            word_id = word_entry['id']
+            if word_id in wfreq:
+                elem = wfreq[word_id]
                 elem['freq'] += 1
             else:
                 element['freq'] = 1
-                wfreq[line] = element
+                wfreq[word_id] = element
     return wfreq
 
 
 def _GetBestWordSense(wdict, wfreq_entry):
-    element_text = wfreq_entry['element_text']
     element_text = wfreq_entry['element_text']
     tag = wfreq_entry['tag']
     if element_text not in wdict:
@@ -140,6 +177,9 @@ def _GetBestWordSense(wdict, wfreq_entry):
     else:
         # find best match based on grammar
         grammar = word_entry['grammar']
+        if 'english' not in wfreq_entry:
+            print('No English text for entry %s' % wfreq_entry['tagged_text'])
+            return word_entry
         english = wfreq_entry['english']
         if not _GrammarMatch(tag, grammar) or not _GlossMatch(wfreq_entry, word_entry):
             # print('Tag %s for word %s grammar %s does not match grammar.' % (tag, element_text, grammar))
@@ -155,6 +195,7 @@ def _GetBestWordSense(wdict, wfreq_entry):
                     print('Could not find match for element text %s tag %s gloss "%s" among %d'
                           ' entries based on grammar or gloss.' % (element_text, tag, english, len(other_entries)+1))
     return word_entry
+
 
 def _GlossMatch(wfreq_entry, wdict_entry):
     """True if the dictionary word entry english matches the word frequency gloss.
@@ -175,9 +216,10 @@ def _GrammarMatch(tag, grammar):
            )
 
 def _ParseLine(line):
+    element = {'tagged_text': line}
     tokens = line.split('/')
     element_text = tokens[0]
-    element = {'element_text': element_text}
+    element['element_text'] = element_text
     if len(tokens) > 1:
         tokens = tokens[1].split('[')
         element['tag'] = tokens[0]

@@ -18,7 +18,7 @@ from bdict import taggeddoc
 def PrintUsage():
     print(
 """Usage: python bdictutil.py <command> <arguments.
-Supported commands: buildvocab, generategloss, help, listcorpus, tag.
+Supported commands: buildvocab, generategloss, help, listcorpus, tag wordsensefreq.
 
 The buildvocab command builds a vocabulary with word frequency analysis from a
 corpus document. Usage:
@@ -44,6 +44,12 @@ The tag command generates part-of-speech tags for a document in the corpus.
 Usage:
 
     python bdictutil.py tag <doc_num>
+
+
+The wordsensefreq command generates word sense frequency from part-of-speech
+tagged documents in the corpus. Usage:
+
+    python bdictutil.py wordsensefreq <doc_num>
 """)
 
 def main():
@@ -118,6 +124,23 @@ def main():
                 print('Could not compute accuracy: %s.' % e)
         else:
             print('Could not compute accuracy: no standard tagged file.')
+    elif command == 'wordsensefreq':
+        outfile = 'unigram_freq.txt'
+        if len(sys.argv) < 3:
+            print('Word sense frequency will be computed for all corpus entries '
+                  'with a tagged document.')
+            wfreq = taggeddoc.WordSenseForCorpus()
+            taggeddoc.SaveWordSenseFreq(wfreq, outfile)
+        else:
+            doc_num = int(sys.argv[2])
+            cmanager = corpusmanager.CorpusManager()
+            corpus = cmanager.LoadCorpus()
+            corpus_entry = corpus[doc_num-1]
+            try:
+                wfreq = taggeddoc.WordSenseFrequency(corpus_entry)
+                taggeddoc.SaveWordSenseFreq(wfreq, outfile)
+            except app_exceptions.BDictException as e:
+                print(e)
     else:
         print('Did not understand command.')
         PrintUsage()
