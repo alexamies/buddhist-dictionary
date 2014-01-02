@@ -23,12 +23,12 @@
 俱/AD[jū | together]
 。/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 食時/NN[shíshí | mealtime]
 ，/PU
-著/VV[zhe | wear]
+著/VV[zhuó | wear]
 衣/NN[yī | robe]
 持/VV[chí | to grasp]
 缽/NN[bō | a bowl]
@@ -104,7 +104,7 @@
 諸/DT[zhū | all]
 菩薩/NN[púsà | bodhisattva]
 ，/PU
-善/AD[shàn | skillful]
+善/VA[shàn | skillful]
 付囑/VV[chóuyōu | to entrust something to somebody]
 諸/DT[zhū | all]
 菩薩/NN[púsà | bodhisattva]
@@ -118,7 +118,7 @@
 女人/NN[nǚrén | woman]
 ，/PU
 發/VV[fā | to develop]
-阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi]
+阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]
 心/NN[xīn | mind]
 ，/PU
 應/VV[yīng | ought]
@@ -132,7 +132,7 @@
 ？/PU
 」/PU
 佛/NR[Fó | Buddha]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 善哉/IJ[shànzāi | excellent]
@@ -160,7 +160,7 @@
 汝/PN[rǔ | you]
 今/NN[jīn | today]
 諦/VV[dì | examine]
-聽VV/[tīng | listen]
+聽/VV[tīng | listen]
 ，/PU
 當/P[dāng | at or in the very same]
 為/VC[wèi | is]
@@ -174,7 +174,7 @@
 女人/NN[nǚrén | woman]
 ，/PU
 發/VV[fā | to develop]
-阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi]
+阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]
 心/NN[xīn | mind]
 ，/PU
 應/VV[yīng | ought]
@@ -271,11 +271,11 @@
 實/AD[shí | truly]
 無/AD[wú | no]
 眾生/NN[zhòngshēng | a being]
-得/[dé | to obtain]
+得/VV[dé | to obtain]
 滅度/VV[mièdù | to extinguish worries and the sea of grief]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -284,7 +284,7 @@
 若/CS[ruò | if]
 菩薩/NN[púsà | bodhisattva]
 有/VE[yǒu | to have]
-我/PN[wǒ | self]
+我/NN[wǒ | self]
 相/NN[xiàng | a notion]
 、/PU
 人/NN[rén | person]
@@ -317,44 +317,44 @@
 ，/PU
 行/VV[xíng | to do]
 於/P[yú | in]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 所謂/VA[suǒwèi | so-called]
 不/AD[bù | not]
-住/VV[to dwell]
+住/VV[zhù | to dwell]
 色/NN[sè | form]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 不/AD[bù | not]
-住/VV[to dwell]
+住/VV[zhù | to dwell]
 聲/NN[shēng | sound]
 香味/NN[xiāngwèi | fragrance]
 觸/NN[chù | touch]
 法/NN[fǎ | a dhárma]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 。/PU
 須菩提/NR[xūpútí | Subhuti]
 ！/PU
 菩薩/NN[púsà | bodhisattva]
 應/VV[yīng | ought]
 如是/PN[rúshì | so]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 不/AD[bù | not]
-住/VV[to dwell]
+住/VV[zhù | to dwell]
 於/P[yú | in]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
 若/CS[ruò | if]
 菩薩/NN[púsà | bodhisattva]
 不/AD[bù | not]
-住/VV[to dwell]
-相/AD[xiāng | a notion]
-布施/VV[bùshī | dana]
+住/VV[zhù | to dwell]
+相/NN[xiāng | a notion]
+布施/NN[bùshī | dana]
 ，/PU
 其/PN[qí | his]
 福德/NN[fúdé | merit]
@@ -379,7 +379,7 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
@@ -401,7 +401,7 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
@@ -411,9 +411,9 @@
 ！/PU
 菩薩/NN[púsà | bodhisattva]
 無/AD[wú | no]
-住/VV[to dwell]
+住/VV[zhù | to dwell]
 相/NN[xiāng | a sign]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 福德/NN[fúdé | merit]
 亦復/AD[yìfù | also]
@@ -451,19 +451,19 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
 不可/VV[bù kě | cannot]
 以/CC[yǐ | so as to]
 身/NN[shēn | body]
-相/AD[xiāng | a notion]
-得/[de | a sentence particle used after a verb to show effect]
+相/NN[xiāng | a notion]
+得/VV[dé | to obtain]
 見/VV[jiàn | to see]
 如來/NR[Rúlái | Tathagata]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -549,9 +549,9 @@
 ，/PU
 有/VE[yǒu | to have]
 持/VV[chí | to maintain]
-戒/NN[a precept]
+戒/NN[jiè | a precept]
 修福/VV[xiū fú | to do good deeds]
-者/[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 於/P[yú | in]
 此/PN[cǐ | this, these]
@@ -621,7 +621,7 @@
 無量/VA[wúliàng | unlimited]
 福德/NN[fúdé | merit]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -630,7 +630,7 @@
 生/VV[shēng | to develop]
 無/AD[wú | no]
 復/AD[fù | again]
-我/PN[wǒ | self]
+我/NN[wǒ | self]
 相/NN[xiàng | a notion]
 、/PU
 人/NN[rén | person]
@@ -645,14 +645,14 @@
 。/PU
 「/PU
 無法/AD[wúfǎ | unable]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 ，/PU
 亦/AD[yì | also]
 無非/AD[wúfēi | nothing but]
 法/NN[fǎ | a dhárma]
 相/NN[xiàng | a notion]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -662,11 +662,11 @@
 若/CS[ruò | if]
 心/NN[xīn | mind]
 取/VV[qǔ | to grasp]
-相/AD[xiāng | a sign]
+相/NN[xiāng | a sign]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 為/P[wèi | for]
-著/VV[zhe | attachment]
+著/VV[zhāo | to attach]
 我/NN[wǒ | self]
 、/PU
 人/NN[rén | person]
@@ -693,7 +693,7 @@
 壽/NN[shòu | life]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -771,7 +771,7 @@
 ？/PU
 如來/NR[Rúlái | Tathagata]
 有/VE[yǒu | to have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 說/VV[shuō | to teach]
 法/NN[fǎ | a dhárma]
 耶/MSP[yē | final interogative]
@@ -806,7 +806,7 @@
 可/CS[kě | but]
 說/VV[shuō | to say]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -870,7 +870,7 @@
 ，/PU
 寧/VV[nìng | to return]
 為/P[wèi | for]
-多/AD[duō | many]
+多/VA[duō | many]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -883,7 +883,7 @@
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -898,7 +898,7 @@
 如來/NR[Rúlái | Tathāgata]
 說/VV[shuō | speaks]
 福德/NN[fúdé | merit]
-多/AD[duō | much]
+多/VA[duō | much]
 。/PU
 」/PU
 「/PU
@@ -928,7 +928,7 @@
 勝/VV[shèng | to surpass]
 彼/PN[bǐ | that]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -952,12 +952,12 @@
 須菩提/NR[xūpútí | Subhuti]
 ！/PU
 所謂/VA[suǒwèi | so-called]
-佛法/NN[Fófǎ | dhárma]
+佛法/NR[Fófǎ | Dhárma]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 即/AD[jí | promptly]
 非/VC[fēi | not]
-佛法/NN[Fófǎ | Dhárma]
+佛法/NR[Fófǎ | Dhárma]
 。/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
@@ -985,11 +985,11 @@
 ：/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1047,11 +1047,11 @@
 ：/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1096,11 +1096,11 @@
 ：/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1145,15 +1145,15 @@
 ：/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
-實/DA[shí | truly]
+實/AD[shí | truly]
 無/VE[wú | to not have]
 有/VE[yǒu | is]
 法/NN[fǎ | a dhárma]
@@ -1273,7 +1273,7 @@
 於/P[yú | in]
 法/NN[fǎ | a dhárma]
 有/VE[yǒu | to have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 得/VV[dé | to obtain]
 不/AD[bù | not]
 ？/PU
@@ -1290,7 +1290,7 @@
 法/NN[fǎ | a dhárma]
 實/AD[shí | truly]
 無/VE[wú | to not have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 得/VV[dé | to obtain]
 。/PU
 」/PU
@@ -1309,11 +1309,11 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1400,12 +1400,12 @@
 言/VV[yán | said]
 ：/PU
 「/PU
-甚/PN[shén | what]
+甚/AD[shén | extremely]
 大/VA[dà | big]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1428,7 +1428,7 @@
 中/P[zhōng | in]
 所有/PN[suǒyǒu | all]
 沙/NN[shā | sand]
-數/AD[shuò | number]
+數/NN[shuò | number]
 ，/PU
 如是/PN[rúshì | so]
 沙/NN[shā | sand]
@@ -1445,7 +1445,7 @@
 沙/NN[shā | sand]
 寧/CC[nìng | rather]
 為/P[wèi | for]
-多/AD[duō | many]
+多/VA[duō | many]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -1504,7 +1504,7 @@
 ，/PU
 得/VV[dé | to obtain]
 福/NN[fú | merit]
-多/AD[duō | much]
+多/VA[duō | much]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -1628,12 +1628,12 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 須菩提/NR[Xūpútí | Subhūti]
 白/VV[bái | to address]
 佛/NR[Fó | Buddha]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 世尊/NR[Shìzūn | Bhagavān]
@@ -1688,7 +1688,7 @@
 ？/PU
 如來/NR[Rúlái | Tathagata]
 有/VE[yǒu | to have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 說/VV[shuō | to teach]
 法/NN[fǎ | a dhárma]
 不/AD[bù | not]
@@ -1697,7 +1697,7 @@
 須菩提/NR[Xūpútí | Subhūti]
 白/VV[bái | to address]
 佛/NR[Fó | Buddha]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 世尊/NR[Shìzūn | Bhagavān]
@@ -1720,12 +1720,12 @@
 微塵/NN[wēichén | an atom]
 是/PN[shì | this]
 為/P[wèi | for]
-多/AD[duō | many]
+多/VA[duō | many]
 不/AD[bù | not]
 ？/PU
 」/PU
 須菩提/NR[Xūpútí | Subhūti]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 甚/AD[shén | extremely]
@@ -1778,7 +1778,7 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
@@ -1790,7 +1790,7 @@
 見/VV[jiàn | to see]
 如來/NR[Rúlái | Tathagata]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1827,7 +1827,7 @@
 等/MSP[děng | plural]
 身/NN[shēn | body]
 命/NN[mìng | life]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 若/CS[ruò | if]
 復有/AD[fùyǒu | moreover]
 人/NN[rén | person]
@@ -1856,14 +1856,14 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 須菩提/NR[xūpútí | Subhuti]
 聞說/VV[wénshuō | to hear told]
 是/DT[shì | this]
 經/NN[jīng | sūtra]
 ，/PU
-深/AD[shēn | profound]
+深/VA[shēn | profound]
 解/VV[jiě | to understand]
 義趣/NN[yìqù | meaning and purpose]
 ，/PU
@@ -1873,7 +1873,7 @@
 而/CC[ér | and]
 白/VV[bái | to address]
 佛/NR[Fó | Buddha]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 希有/VA[xīyǒu | uncommon]
@@ -1883,8 +1883,8 @@
 佛/NR[Fó | Buddha]
 說/VV[shuō | to teach]
 如是/PN[rúshì | so]
-甚/PN[shén | extremely]
-深/AD[shēn | prodound]
+甚/AD[shén | extremely]
+深/VA[shēn | profound]
 經典/NN[jīngdiǎn | sūtra]
 ，/PU
 我/PN[wǒ | I]
@@ -1943,7 +1943,7 @@
 是故/CS[shìgù | therefore]
 如來/NR[Rúlái | Tathāgata]
 說/VV[shuō | speaks]
-名/NN[míng | to be called]
+名/VV[míng | to be called]
 真/VA[zhēn | true]
 相/NN[xiāng | appearance]
 。/PU
@@ -1990,7 +1990,7 @@
 第一/OD[dì yī | first]
 希有/VA[xīyǒu | uncommon]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -2035,14 +2035,14 @@
 非/VC[fēi | not]
 相/NN[xiàng | a notion]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
 離/VV[lí | to leave]
 一切/PN[yīqiè | all]
 諸/PN[zhū | all]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 名/VV[míng | to be called]
@@ -2084,7 +2084,7 @@
 甚為/AD[shènwéi | very]
 希有/VA[xīyǒu | uncommon]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -2113,7 +2113,7 @@
 非/VC[fēi | not]
 忍辱波羅蜜/NR[rěnrǔ bōluómì | ksanti-paramita]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -2131,7 +2131,7 @@
 我/PN[wǒ | I]
 於/P[yú | in]
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 無/VE[wú | to not have]
 我/NN[wǒ | self]
@@ -2139,7 +2139,7 @@
 、/PU
 無/VE[wú | to not have]
 人/NN[rén | person]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 、/PU
 無/VE[wú | to not have]
 眾生/NN[zhòngshēng | a being]
@@ -2150,7 +2150,7 @@
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 相/NN[xiàng | a notion]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -2159,7 +2159,7 @@
 往昔/NN[wǎngxī | in the past]
 節/NN[jié | piece]
 節/NN[jié | piece]
-支/VV[zhī | a limb]
+支/NN[zhī | a limb]
 解/VV[jiě | to divide]
 時/AD[shí | at that time]
 ，/PU
@@ -2206,7 +2206,7 @@
 、/PU
 無/VE[wú | to not have]
 人/NN[rén | person]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 、/PU
 無/VE[wú | to not have]
 眾生/NN[zhòngshēng | a being]
@@ -2224,10 +2224,10 @@
 應/VV[yīng | ought]
 離/VV[lí | to leave]
 一切/PN[yīqiè | all]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 ，/PU
 發/VV[fā | to develop]
-阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi]
+阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]
 心/NN[xīn | mind]
 ，/PU
 不/AD[bù | no]
@@ -2274,7 +2274,7 @@
 應/VV[yīng | ought]
 住/VV[zhù | dwell]
 色/NN[sè | form]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 。/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
@@ -2287,14 +2287,14 @@
 ，/PU
 應/VV[yīng | ought]
 如是/PN[rúshì | so]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 。/PU
 如來/NR[Rúlái | Tathāgata]
 說/VV[shuō | speaks]
 ：/PU
 一切/PN[yīqiè | all]
 諸/PN[zhū | all]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 ，/PU
 即/AD[jí | promptly]
 是/VV[shì | is exactly]
@@ -2362,7 +2362,7 @@
 法/NN[fǎ | a dhárma]
 而/CC[ér | and]
 行/VV[xíng | to do]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 如/CS[rú | if]
 人/NN[rén | person]
@@ -2376,11 +2376,11 @@
 菩薩/NN[púsà | bodhisattva]
 心/NN[xīn | mind]
 不/AD[bù | not]
-住/VV[to dwell]
+住/VV[zhù | to dwell]
 法/NN[fǎ | a dhárma]
 而/CC[ér | and]
 行/VV[xíng | to do]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 如/CS[rú | if]
 人/NN[rén | person]
@@ -2459,7 +2459,7 @@
 沙/NN[shā | sand]
 等/MSP[děng | plural]
 身/NN[shēn | body]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 中/P[zhōng | in]
 日/M[rì | day of the month]
@@ -2470,7 +2470,7 @@
 沙/NN[shā | sand]
 等/MSP[děng | plural]
 身/NN[shēn | body]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 後/NN[hòu | after]
 日/M[rì | day of the month]
@@ -2481,7 +2481,7 @@
 沙/NN[shā | sand]
 等/MSP[děng | plural]
 身/NN[shēn | body]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 ，/PU
 如是/PN[rúshì | so]
 無量/VA[wúliàng | unlimited]
@@ -2490,7 +2490,7 @@
 劫/VV[jié | to rob]
 以/CC[yǐ | so as to]
 身/NN[shēn | body]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 若/CS[ruò | if]
 復有/AD[fùyǒu | moreover]
 人/NN[rén | person]
@@ -2591,10 +2591,10 @@
 、/PU
 無/VC[wú | no]
 有/VE[yǒu | to have]
-邊/AD[biān | boundary]
+邊/NN[biān | boundary]
 、/PU
 不/AD[bù | not]
-可/AD[kě | able]
+可/VV[kě | able]
 思議/VV[sīyì | imagine]
 功德/NN[gōngdé | merit]
 ，/PU
@@ -2609,7 +2609,7 @@
 如來/NR[Rúlái | Tathagata]
 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara-samyak-sambodhi]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -2869,7 +2869,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 須菩提/NR[Xūpútí | Subhūti]
 白/VV[bái | to address]
@@ -2886,7 +2886,7 @@
 女人/NN[nǚrén | woman]
 ，/PU
 發/VV[fā | to develop]
-阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi]
+阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]
 心/NN[xīn | mind]
 ，/PU
 云何/PN[yúnhé | how]
@@ -2939,7 +2939,7 @@
 滅度/VV[mièdù | to extinguish worries and the sea of grief]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3000,7 +3000,7 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
@@ -3025,7 +3025,7 @@
 。/PU
 」/PU
 佛/NR[Fó | Buddha]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 如是/PN[rúshì | so]
@@ -3101,7 +3101,7 @@
 號/NN[hào | a name]
 釋迦牟尼/NR[Shìjiāmóuní | Sakyamuni Buddha]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3156,7 +3156,7 @@
 法/NN[fǎ | dhárma]
 皆/AD[jiē | all]
 是/PN[shì | this]
-佛法/NN[Fófǎ | dhárma]
+佛法/NR[Fófǎ | Dhárma]
 。/PU
 須菩提/NR[xūpútí | Subhuti]
 ！/PU
@@ -3230,7 +3230,7 @@
 名/VV[míng | to be called]
 菩薩/NN[púsà | bodhisattva]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3279,7 +3279,7 @@
 名/VV[míng | to be called]
 菩薩/NN[púsà | bodhisattva]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3309,7 +3309,7 @@
 如來/NR[Rúlái | Tathāgata]
 說/VV[shuō | speaks]
 名/VV[míng | to be called]
-真是/UNKOWN[zhēnshì | really]
+真是/VA[zhēnshì | really]
 菩薩/NN[púsà | bodhisattva]
 。/PU
 「/PU
@@ -3390,7 +3390,7 @@
 ？/PU
 如來/NR[Rúlái | Tathagata]
 有/VV[yǒu | is]
-法眼/NR[Fǎyǎn | Dhárma eyes]
+法眼/NN[Fǎyǎn | dhárma eye]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -3401,7 +3401,7 @@
 ！/PU
 如來/NR[Rúlái | Tathagata]
 有/VV[yǒu | is]
-法眼/NR[Fǎyǎn | Dhárma eyes]
+法眼/NN[Fǎyǎn | dhárma eye]
 。/PU
 」/PU
 「/PU
@@ -3481,14 +3481,14 @@
 恒河/NR[Hénghé | Ganges River]
 所有/PN[suǒyǒu | all]
 沙/NN[shā | sand]
-數/AD[shuò | number]
+數/NN[shuò | number]
 佛/NR[Fó | Buddha]
 世界/NN[shìjiè | world]
 ，/PU
 如是/PN[rúshì | so]
 寧/CC[nìng | rather]
 為/P[wèi | for]
-多/AD[duō | many]
+多/VA[duō | many]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -3520,7 +3520,7 @@
 悉/VV[xī | to know]
 知/VV[zhī | to know]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3583,7 +3583,7 @@
 ，/PU
 得/VV[dé | to obtain]
 福/NN[fú | merit]
-多/AD[duō | much]
+多/VA[duō | much]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -3616,7 +3616,7 @@
 說/VV[shuō | to say]
 得/VV[dé | to obtain]
 福德/NN[fúdé | merit]
-多/AD[duō | much]
+多/VA[duō | much]
 以/CC[yǐ | so as to]
 福德/NN[fúdé | merit]
 無故/VA[wú gù | unconditioned]
@@ -3625,7 +3625,7 @@
 說/VV[shuō | speaks]
 得/VV[dé | to obtain]
 福德/NN[fúdé | merit]
-多/AD[duō | much]
+多/VA[duō | much]
 。/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
@@ -3645,7 +3645,7 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
@@ -3657,7 +3657,7 @@
 色身/NN[sè shēn | the physical body]
 見/VV[jiàn | to see]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3696,7 +3696,7 @@
 」/PU
 「/PU
 不/AD[bù | no]
-也/SP[yě | final particle]
+也/SP[yě | final modal particle]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
@@ -3709,14 +3709,14 @@
 相/NN[xiāng | a sign]
 見/VV[jiàn | to see]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
 如來/NR[Rúlái | Tathāgata]
 說/VV[shuō | speaks]
 諸/PN[zhū | all]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 具足/VA[jùzú | perfect]
 ，/PU
 即/AD[jí | promptly]
@@ -3726,7 +3726,7 @@
 是/PN[shì | this]
 名/VV[míng | to be called]
 諸/PN[zhū | all]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 具足/VA[jùzú | perfect]
 。/PU
 」/PU
@@ -3744,7 +3744,7 @@
 我/PN[wǒ | I]
 當/P[dāng | at or in the very same]
 有/VE[yǒu | to have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 說/VV[shuō | to teach]
 法/NN[fǎ | a dhárma]
 。/PU
@@ -3753,7 +3753,7 @@
 是/DT[shì | this]
 念/NN[niàn | thought]
 ，/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3763,7 +3763,7 @@
 ：/PU
 如來/NR[Rúlái | Tathagata]
 有/VE[yǒu | to have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 說/VV[shuō | to teach]
 法/NN[fǎ | a dhárma]
 。/PU
@@ -3795,7 +3795,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 慧命/VV[huìmìng | to spread the teaching of the Buddha]
 須菩提/NR[Xūpútí | Subhūti]
@@ -3824,7 +3824,7 @@
 ？/PU
 」/PU
 佛/NR[Fó | Buddha]
-言/[yán | said]
+言/VV[yán | said]
 ：/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
@@ -3837,7 +3837,7 @@
 不/AD[bù | not]
 眾生/NN[zhòngshēng | a being]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -3872,7 +3872,7 @@
 ，/PU
 為/P[wèi | for]
 無/VE[wú | to not have]
-所/AD[suǒ | it]
+所/PN[suǒ | it]
 得/VV[dé | to obtain]
 耶/MSP[yē | final interogative]
 ？/PU
@@ -4038,7 +4038,7 @@
 是/DT[shì | this]
 念/NN[niàn | thought]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -4179,7 +4179,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CC[ér | and]
@@ -4221,7 +4221,7 @@
 不/AD[bù | not]
 以/CC[yǐ | so as to]
 具足/VA[jùzú | perfect]
-相/AD[xiāng | a sign]
+相/NN[xiāng | a sign]
 故/CC[gù | so]
 ，/PU
 得/VV[dé | to obtain]
@@ -4238,7 +4238,7 @@
 不/AD[bù | not]
 以/CC[yǐ | so as to]
 具足/VA[jùzú | perfect]
-相/AD[xiāng | a sign]
+相/NN[xiāng | a sign]
 故/CC[gù | so]
 ，/PU
 得/VV[dé | to obtain]
@@ -4261,19 +4261,19 @@
 諸/PN[zhū | all]
 法/NN[fǎ | a dhárma]
 斷滅/VV[duànmiè | annihilate]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 。/PU
 莫/AD[mò | do not]
 作/VV[zuò | to do]
 是/DT[shì | this]
 念/NN[niàn | thought]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
 發/VV[fā | to develop]
-阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi]
+阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]
 心/NN[xīn | mind]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
@@ -4282,7 +4282,7 @@
 不/AD[bù | not]
 說/VV[shuō | to say]
 斷滅/VV[duànmiè | annihilate]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 。/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
@@ -4296,7 +4296,7 @@
 等/MSP[děng | plural]
 世界/NN[shìjiè | world]
 七寶/NR[qī bǎo | the Seven Treasures]
-布施/VV[bùshī | dana]
+布施/NN[bùshī | dana]
 若/CS[ruò | if]
 復有/AD[fùyǒu | moreover]
 人/NN[rén | person]
@@ -4355,7 +4355,7 @@
 不/AD[bù | not]
 應/VV[yīng | ought]
 貪/VV[tān | to be greedy]
-著/VV[zhe | expresses motion or a continuation of a state]
+著/VV[zhāo | to attach]
 ，/PU
 是故/CS[shìgù | therefore]
 說/VV[shuō | to say]
@@ -4375,7 +4375,7 @@
 若/CS[ruò | if]
 來/VV[lái | to come]
 若/CS[ruò | if]
-去/P[qù | to go]
+去/VV[qù | to go]
 、/PU
 若/CS[ruò | if]
 坐/VV[zuò | to sit]
@@ -4390,7 +4390,7 @@
 說/VV[shuō | explain]
 義/NN[yì | meaning]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -4404,7 +4404,7 @@
 亦/AD[yì | also]
 無/VE[wú | to not have]
 所/PN[suǒ | it]
-去/P[qù | to go]
+去/VV[qù | to go]
 ，/PU
 故/CC[gù | so]
 名/VV[míng | to be called]
@@ -4435,7 +4435,7 @@
 眾/AD[zhòng | again]
 寧/CC[nìng | rather]
 為/P[wèi | for]
-多/AD[duō | many]
+多/VA[duō | many]
 不/AD[bù | not]
 ？/PU
 」/PU
@@ -4445,7 +4445,7 @@
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -4498,7 +4498,7 @@
 名/VV[míng | to be called]
 世界/NN[shìjiè | world]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -4552,8 +4552,9 @@
 之/DEG[zhī | genetive marker]
 人/NN[rén | person]
 貪/VV[tān | to be greedy]
-著/VV[zhe | expresses motion or a continuation of a state]
-其事/UNKOWN[qí shì | that thing]
+著/VV[zhāo | to attach]
+其/DT[qí | that]
+事/NN[shì | thing]
 。/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
@@ -4604,7 +4605,7 @@
 說/VV[shuō | explain]
 義/NN[yì | meaning]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -4658,7 +4659,7 @@
 須菩提/NR[xūpútí | Subhuti]
 ！/PU
 發/VV[fā | to develop]
-阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi]
+阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]
 心/NN[xīn | mind]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
@@ -4761,14 +4762,14 @@
 不/AD[bù | not]
 取/VV[qǔ | to take]
 於/P[yú | in]
-相/AD[xiāng | a notion]
+相/NN[xiāng | a notion]
 ，/PU
 如/VV[rú | to follow]
 如/VV[rú | to follow]
 不/AD[bù | not]
 動/VV[dòng | to move]]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -4778,7 +4779,7 @@
 為/P[wèi | for]
 法/NN[fǎ | a dhárma]
 ，/PU
-如/CS[rú | such as]
+如/VV[rú | such as]
 夢/NN[mèng | dream]
 、/PU
 幻/NN[huàn | fantasy]
@@ -4787,7 +4788,7 @@
 、/PU
 影/NN[yǐng | picture]
 ，/PU
-如/CS[rú | such as]
+如/VV[rú | such as]
 露/NN[lù | dew]
 亦/AD[yì | also]
 如/CS[rú | if]

@@ -11,6 +11,8 @@ Goals:
 
 1. Create a dictionary that is easy to use for everybody interested in Buddhism, 
    including lay people reading Buddhist texts, students, translators, and academics.
+   Importanly, the goal is to create useful tools rather than a collection of 
+   precise and authoritative definitions of terms.
 
 2. Create tools that are useful for lingustic analysis of Buddhist texts, including 
    identification of specialist Buddhist terms and comparison of Chinese and

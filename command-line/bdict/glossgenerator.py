@@ -131,6 +131,7 @@ class GlossGenerator:
         """Generates output text formatted for a phrase.
         """
         gloss = phrase_entry['pos_tagged']
+        # print('Output for phrase "%s"' % gloss)
         if self.output_type == POS_TAGGED_TYPE:
             tagged_entries = self.tagger.GetTaggedWords(phrase_entry)
             text = ''
@@ -161,10 +162,10 @@ class GlossGenerator:
         """Generates output text formatted for a word.
         """
 
-        gloss = cedict.GetGloss(entry)
         if self.output_type == POS_TAGGED_TYPE:
-            pos = self.tagger.GetTag(entry)
-            return '%s/%s[%s]\n' % (element_text, pos, gloss)
+            return self.tagger.TagWord(entry['traditional']) + '\n'
+        entry = self.tagger.MostFrequentWord(entry['traditional'])
+        gloss = cedict.GetGloss(entry)
         entry_id = entry['id']
         url = '/buddhistdict/word_detail.php?id=%s' % entry_id
         return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)

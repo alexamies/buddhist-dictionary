@@ -11,6 +11,8 @@ from bdict import cedict
 from bdict import configmanager
 from bdict import corpusmanager
 
+WORD_FREQ_FILE = 'unigram_freq.txt'
+
 PENN_2_DICT = {  # Dictionary for lookup of word entry grammar based on POS tag.
                'VA': 'adjective',
                'VC': 'verb',
@@ -67,6 +69,46 @@ def LoadTaggedDoc(filename):
             tagged_words.append(element)
     return tagged_words
 
+
+def LoadWordSenseFreq():
+    """Loads the word sense frequency distribution from a file.
+
+    Use the WordSenseFrequency() method to find the frequency
+    distribution and this method to save it.
+
+    Args:
+      wfreq: a dictionary structure with the word sense frequency.
+      filename: the file name to save the frequency distribution to.
+
+    Returns:
+      A dictionary structure indexed by traditional text for the Chinese word.
+      The frequency data is given as a list on the dictionary entry.
+    """
+    manager = configmanager.ConfigurationManager()
+    config = manager.LoadConfig()
+    directory = config['data_directory']
+    filename = '%s/%s' % (directory, WORD_FREQ_FILE)
+    wfreq = {}
+    with codecs.open(filename, 'r', "utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            tokens = line.split('\t')
+            entry = {'pos_tagged_text': tokens[0].strip()}
+            if len(tokens) == 4:
+                element_text = tokens[1].strip()
+                entry['element_text'] = element_text
+                entry['word_id'] = tokens[2].strip()
+                entry['frequency'] = int(tokens[3])
+                if element_text not in wfreq:
+                    wfreq[element_text] = [entry]
+                else:
+                    wfreq[element_text].append(entry)
+            else:
+                print('Did not get expected number of tokens for line: %s' % line)
+    return wfreq
+    
 
 def SaveWordSenseFreq(wfreq, filename):
     """Saves the word sense frequency distribution to a file.

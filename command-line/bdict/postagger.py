@@ -6,6 +6,9 @@ the POS is returned based on dictionary lookup.
 import codecs
 import re
 
+from bdict import cedict
+from bdict import taggeddoc
+
 TAG_DEF_FILE = '../data/dictionary/pos_penn.txt'
 
 DICT_2_PENN = {  # Dictionary for lookup of POS tag based on word entry grammar.
@@ -47,7 +50,10 @@ class POSTagger:
     def __init__(self):
         """Constructor for POSTagger class.
         """
-        self.tag_defs = self._Load()
+        self.tag_defs = self._LoadTagDefs()
+        self.wfreq = taggeddoc.LoadWordSenseFreq() # Word sense frequencies
+        dictionary = cedict.ChineseEnglishDict()
+        self.wdict = dictionary.OpenDictionary() # Word dictionary
 
     def GetTag(self, word_entry):
         """Given the word entry, find the POS tag.
@@ -91,7 +97,54 @@ class POSTagger:
             tagged_words.append(tagged_word)
         return tagged_words
 
-    def _Load(self):
+    def MostFrequentWord(self, traditional):
+        """Find the most frequently used word sense.
+
+        Given the traditional word text, find the best word based on word sense
+        frequency.
+
+        Args:
+          traditional: traditional Chinese text for the word
+
+        Returns:
+          A dictionary word entry
+        """
+        word_entry = self.wdict[traditional]
+        tag = self.GetTag(word_entry)
+        if (traditional in self.wfreq):
+            # Most frequently occuring is at the head of the list
+            wf_entry = self.wfreq[traditional][0]
+            word_id = wf_entry['word_id']
+            # print('%s looking for word id %s' % (traditional, word_id))
+            if word_id != word_entry['id']:
+                for w_entry in word_entry['other_entries']:
+                    # print('%s found id %s' % (traditional, w_entry['id']))
+                    if word_id == w_entry['id']:
+                        word_entry = w_entry
+                        break
+        return word_entry
+
+    def TagWord(self, traditional):
+        """Find the most frequently used word sense and tag it.
+
+        Given the traditional word text, find the best word based on word sense
+        frequency and create the tag for the word.
+
+        Args:
+          traditional: traditional Chinese text for the word
+
+        Returns:
+          A string representing the POS tag
+        """
+        if traditional not in self.wdict:
+            return '%s/%s[%s | %s]' % (traditional, 'UNKNOWN', 'PINYIN', 'ENGLISH')
+        word_entry = self.MostFrequentWord(traditional)
+        tag = self.GetTag(word_entry)
+        pinyin = word_entry['pinyin']
+        gloss = cedict.GetGloss(word_entry)
+        return '%s/%s[%s]' % (traditional, tag, gloss)
+
+    def _LoadTagDefs(self):
         """Reads the POS tag definitions into memory.
 
         Puts the words for the closed sets into set structures.

@@ -10,11 +10,17 @@ from bdict import phrasematcher
 
 class PhraseTest(unittest.TestCase):
 
-    def testLoad(self):
+    def testLoad1(self):
         dataset = phrasematcher.PhraseDataset()
         phrases = dataset.Load()
         self.assertTrue(phrases)
         self.assertTrue(u'乘白象' in phrases)
+
+    def testLoad2(self):
+        dataset = phrasematcher.PhraseDataset()
+        phrases = dataset.Load()
+        self.assertTrue(phrases)
+        self.assertTrue(u'至心诵念' in phrases)
 
     def testMatches1(self):
         dataset = phrasematcher.PhraseDataset()

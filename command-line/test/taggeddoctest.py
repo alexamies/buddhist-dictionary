@@ -17,6 +17,11 @@ class TaggedDocTest(unittest.TestCase):
         tagged_words = taggeddoc.LoadTaggedDoc(filename)
         self.assertTrue(tagged_words)
 
+    def testLoadWordSenseFreq1(self):
+        wfreq = taggeddoc.LoadWordSenseFreq()
+        self.assertTrue(wfreq)
+        self.assertTrue(u'須菩提' in wfreq)
+
     def testSaveWordSenseFreq1(self):
         corpus_entry = {'pos_tagged': 'heart-sutra-xuanzang-tagged.txt'}
         wfreq = taggeddoc.WordSenseFrequency(corpus_entry)

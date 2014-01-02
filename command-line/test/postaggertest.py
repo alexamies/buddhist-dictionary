@@ -47,7 +47,7 @@ class POSTaggerTest(unittest.TestCase):
 
     def testLoad(self):
         tagger = postagger.POSTagger()
-        tag_defs = tagger._Load()
+        tag_defs = tagger._LoadTagDefs()
         self.assertTrue(tag_defs)
         self.assertEqual(31, len(tag_defs))
         for tag_def in tag_defs:
@@ -66,6 +66,34 @@ class POSTaggerTest(unittest.TestCase):
             if tag_def['tag'] == u'CC':
                 self.assertTrue('words' in tag_def)
                 self.assertTrue(u'與' in tag_def['words'])
+
+    def testTagWord1(self):
+        tagger = postagger.POSTagger()
+        traditional = u'hello'
+        tagged_word = tagger.TagWord(traditional)
+        expected = u'hello/UNKNOWN[PINYIN | ENGLISH]'
+        self.assertEqual(expected, tagged_word)
+
+    def testTagWord2(self):
+        tagger = postagger.POSTagger()
+        traditional = u'為'
+        tagged_word = tagger.TagWord(traditional)
+        expected = u'為/VC[wèi | for]'
+        self.assertEqual(expected, tagged_word)
+
+    def testTagWord3(self):
+        tagger = postagger.POSTagger()
+        traditional = u'是'
+        tagged_word = tagger.TagWord(traditional)
+        expected = u'是/VC[shì | this]'
+        self.assertEqual(expected, tagged_word)
+
+    def testMostFrequentWord1(self):
+        tagger = postagger.POSTagger()
+        traditional = u'是'
+        word = tagger.MostFrequentWord(traditional)
+        expected = u'17908'
+        self.assertEqual(expected, word['id'])
 
 
 if __name__ == '__main__':
