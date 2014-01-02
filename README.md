@@ -28,7 +28,7 @@ There are three parts to the project:
    Sanksrit texts from the Buddhist canon and related collections. The corpus 
    files include part-of-speech (POS) tagged documents.
 
-3. Command line tools. For building vocabulary. These are in Python. This include
+3. Command line tools. For building vocabulary. These are in Python. This includes
    a POS tagger.
 
 The license for the web site and dictionary content is Creative Commons 
