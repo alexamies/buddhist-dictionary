@@ -49,9 +49,9 @@
         <h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1>
       </div>
       <div>
-        <h2>Text Search Tool</h2>
+        <h2>Chinese Text Dictionary Search</h2>
         <p>
-          Paste Chinese text into the text input field below.
+          Paste Chinese text into the text input field below to find each word and its meaning.
         </p>
         <form name="textForm" role="form" class="simple-form" ng-submit="submit()">
           <div class="form-group">
@@ -65,11 +65,10 @@
             Try this example: 觀自在菩薩行深般若波羅蜜多時.
           </span>
         </form>
-        <p>Results</p>
-        <table>
+        <table ng-if="results.words">
           <tbody>
             <tr><th>Words</th></tr>
-            <tr ng-repeat="word in results"">
+            <tr ng-repeat="word in results.words"">
               <td>{{word}}</td>
             </tr>
           </tbody>
