@@ -52,9 +52,9 @@ class Markdown {
   protected function prepareDoc($text) {
     $text = preg_replace('{^\xEF\xBB\xBF|\x1A}', '', $text);
     $text = preg_replace('{\r\n?}', "\n", $text);
-    $text = preg_replace('{&}', "&amp;", $text);
-    $text = preg_replace('{<}', "&lt;", $text);
-    $text = preg_replace('{>}', "&gt;", $text);
+    //$text = preg_replace('{&}', "&amp;", $text);
+    //$text = preg_replace('{<}', "&lt;", $text);
+    //$text = preg_replace('{>}', "&gt;", $text);
     return $text;
   }
 

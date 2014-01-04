@@ -20,7 +20,7 @@ class DatabaseUtils {
      */
     function getConnection() {
         if (!isset($this->connection)) {
-        $this->connection = mysql_connect('localhost', 'root', 'resetme!')
+        $this->connection = mysql_connect('localhost', 'root', 'admin!')
             or die('Page unavailable'); // Use in production
             // or die('Could not connect: ' . mysql_error()); 
 

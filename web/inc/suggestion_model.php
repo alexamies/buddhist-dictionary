@@ -9,8 +9,8 @@ class Suggestion {
 
     /**
      * Constructor for a Word object
-     * @param $alternate	The alternate word suggested
-     * @param $reason      	The reason for suggesting the alternate word
+     * @param $alternate  The alternate word suggested
+     * @param $reason     The reason for suggesting the alternate word
      */
     function Suggestion ($alternate, $reason) {
         $this->alternate = $alternate;

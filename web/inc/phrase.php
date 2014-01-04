@@ -13,7 +13,7 @@ class Phrase {
     var $pinyin;      // Hanyu Pinyin for the phrase
     var $html;        // HTML for the phrase linking each word to the word detail page
                       // Changing to markdown now
-    //var $host = "http://chinesenotes.com";
+    //var $host = "http://chinesenotes.com/";
     var $host = "";
 
     /**
@@ -126,12 +126,13 @@ class Phrase {
                             if ($words[0]->getTraditional()) {
                                 $trad .= $words[0]->getTraditional() . " ";
                             }
-                            $mouse_over = $pinyinEsc . $englishEsc;
+                            $url = $this->host . "word_detail.php?id=" . $words[0]->getId();
+                            $mouse_over = "$pinyinEsc, $englishEsc";
                             $chinese = $words[0]->getTraditional();
                             if (($this->outputType == 'simplified') || !$words[0]->getTraditional()) {	
                                 $chinese = $words[0]->getSimplified();
                             }
-                            $this->html .= "[$chinese] ($url '$mouse_over')";
+                            $this->html .= "[$chinese] ($url '$mouse_over')\n";
                             $i += $j;
                             break;
 
@@ -141,13 +142,13 @@ class Phrase {
                             $this->pinyin .= $words[0]->getPinyin() . " ";
                             $englishEsc = str_replace("'", "\\'", $words[0]->getEnglish());
                             $pinyinEsc = str_replace("'", "\\'", $words[0]->getPinyin());
-                            $url = $this->host . "/word_detail.php?id=" . $words[0]->getId();
-                            $mouse_over = $pinyinEsc . $englishEsc;
+                            $url = $this->host . "word_detail.php?id=" . $words[0]->getId();
+                            $mouse_over = "$pinyinEsc, $englishEsc";;
                             $chinese = $words[0]->getTraditional();
                             if (($this->outputType == 'simplified') || !$words[0]->getTraditional()) {	
                                 $chinese = $words[0]->getSimplified();
                             }
-                            $this->html .= "[$chinese] ($url '$mouse_over')";
+                            $this->html .= "[$chinese] ($url '$mouse_over')\n";
                             $i += $j;
                             break;
 

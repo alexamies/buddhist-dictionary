@@ -9,6 +9,7 @@ textApp.controller('textCtrl', function($scope, $http) {
            data: $.param($scope.formData),
            headers : {'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8'}
     }).success(function(data) {
+      $("#lookup-help-block").hide();
       $scope.results = data;
     }).error(function(data, status, headers, config) {
       alert('Error: ' + data);

@@ -72,8 +72,8 @@ class Sanskrit {
     }
 
     /**
-     * Accessor method for the IAST for the word with the diacritics removed
-     * @return IAST for the word with the diacritics removed
+     * Accessor method for the Latin for the word with the diacritics removed
+     * @return Latin for the word with the diacritics removed
      */
     function getLatin() {
     	return $this->latin;

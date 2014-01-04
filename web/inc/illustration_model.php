@@ -16,14 +16,14 @@ class Illustration {
   /**
    * Constructor for an Illustration object
    * @param $mediumResolution;	The file name of a medium resolution image
-   * @param $titleZhCn;			A title in simplified Chinese
-   * @param $titleEn;				A title in English
-   * @param $author;				The creator of the illustration
-   * @param $authorURL;			URL of the author's home page
-   * @param $license;				The type of license
-   * @param $licenseUrl;			The URL of the license
-   * @param $licenseFullName		The unabbreviated name of the license
-   * @param $highResolution;		The file name of a high resolution image
+   * @param $titleZhCn;	        A title in simplified Chinese
+   * @param $titleEn;           A title in English
+   * @param $author;            The creator of the illustration
+   * @param $authorURL;	        URL of the author's home page
+   * @param $license;           The type of license
+   * @param $licenseUrl;        The URL of the license
+   * @param $licenseFullName    The unabbreviated name of the license
+   * @param $highResolution;    The file name of a high resolution image
    */
   function Illustration($mediumResolution, 
                         $titleZhCn, 

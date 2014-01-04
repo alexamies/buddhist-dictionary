@@ -27,7 +27,6 @@ class SanskritDAO {
         //error_log("getSanskritByID, query: " . $query);
         $result =& $databaseUtils->executeQuery($query);
         if ($row = $databaseUtils->fetch_array($result)) {
-            $related_terms[] = new Sanskrit($row[0], $row[1], $row[2], $row[3]);
             $sanskrit = new Sanskrit($row[0], $row[1], $row[2], $row[3], 
                                      $row[4], $row[5], $row[6], $row[7], 
                                      $row[8], $row[9], $row[10]);
@@ -65,7 +64,6 @@ class SanskritDAO {
         $MAX = 200;
         $i = 0;
         while (($row = $databaseUtils->fetch_array($result)) && ($i < $MAX)) {
-                $related_terms[] = new Sanskrit($row[0], $row[1], $row[2], $row[3]);
                 $sanskrit[] = new Sanskrit($row[0], $row[1], $row[2], $row[3], 
       	                                   $row[4], $row[5], $row[6], $row[7], 
                                            $row[8], $row[9], $row[10]);
