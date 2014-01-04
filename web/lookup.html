@@ -71,12 +71,18 @@
         <table class="table table-bordered table-hover" ng-if="results.words">
           <caption>Terms in Input Text</caption>
           <thead>
-            <tr><th>Input Text</th><th>English</th><th>Notes</th></tr>
+            <tr>
+              <th>Input Text</th>
+              <th><a href="/syllables_ipa.html" title="Pinyin and IPA Representations" target="_window2">Pinyin</a></th>
+              <th>English</th>
+              <th>Notes</th>
+          </tr>
           </thead>
           <tbody>
             <tr ng-repeat="word in results.words"">
               <td ng-if="word.count == 0">{{word.text}}</td>
               <td ng-if="word.count > 0"><a href="word_detail.php?id={{word.id}}">{{word.text}}</a></td>
+              <td>{{word.pinyin}}</td>
               <td>{{word.english}}</td>
               <td ng-if="word.count==1">{{word.notes}}</td>
               <td ng-if="word.count>1">{{word.notes}} 

@@ -19,17 +19,20 @@ if (strlen($text) > 100) {
         $english = "";
         $notes = "";
         $id = "";
+        $pinyin = "";
         if (($elemType == 1) || ($elemType == 2)) {
             $wordSenses = $phraseElement->getWords();
             $english = $wordSenses[0]->getEnglish();
             $notes = $wordSenses[0]->getNotes();
             $id = $wordSenses[0]->getId();
+            $pinyin = $wordSenses[0]->getPinyin();
         }
         $count = count($wordSenses);
         $words .= '{"text":"' . $elemText . '",' .
                    '"english":"' . $english . '",' .
                    '"notes":"' . $notes . '",' .
                    '"id":"' . $id . '",' .
+                   '"pinyin":"' . $pinyin . '",' .
                    '"count":"' . $count . '"' .
                   '},';
     }
