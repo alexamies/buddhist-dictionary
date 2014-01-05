@@ -86,7 +86,7 @@
               <td>{{word.english}}</td>
               <td ng-if="word.count==1">{{word.notes}}</td>
               <td ng-if="word.count>1">{{word.notes}} 
-                <a href="word_detail.php?word={{word.text}}">{{word.count}} additional word senses</a>.
+                <a href="word_detail.php?word={{word.text}}&matchType=exact">{{word.count}} additional word senses</a>.
               </td>
             </tr>
           </tbody>

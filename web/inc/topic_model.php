@@ -6,7 +6,7 @@ class Topic {
     var $simplified;  // Simplified Chinese text for the topic
     var $english;     // English translation for topic
     var $url;         // The URL of a page to display information about the topic
-    var $title;         // The URL of a page to display information about the topic
+    var $title;       // The URL of a page to display information about the topic
 
     /**
      * Constructor for a Topic object

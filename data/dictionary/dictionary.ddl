@@ -241,6 +241,29 @@ CREATE TABLE related (
 ;
 
 /*
+ * Table for unigram frequency.
+ *
+ * This table records the frequency for the word sense of single words in the 
+ * tagged corpus. The Penn Treebank syntax is used for part-of-speech tags.
+ *
+ * pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+ * element_text:    The element text in traditional Chinese
+ * word_id:         Matching id in the word table (positive integer)
+ * frequency:       The frequency of occurence of the word sense (positive integer)
+ */
+CREATE TABLE unigram (
+	pos_tagged_text VARCHAR(125) NOT NULL,
+	element_text VARCHAR(125) NOT NULL,
+	word_id INT UNSIGNED NOT NULL,
+	frequency INT UNSIGNED NOT NULL,
+	PRIMARY KEY (pos_tagged_text),
+	FOREIGN KEY (word_id) REFERENCES words(id)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
  * Table for Kangxi radicals
  *
  * id           A unique identifier for the radical

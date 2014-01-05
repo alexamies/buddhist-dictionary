@@ -15,19 +15,19 @@ if (strlen($text) > 100) {
     foreach ($elements as $element) {
         $elemText = $element->getText();
         $elemType = $element->getType();
-        $wordSenses = array();
+        $count = $element->getNumWords();
+        $word = "";
         $english = "";
         $notes = "";
         $id = "";
         $pinyin = "";
         if (($elemType == 1) || ($elemType == 2)) {
-            $wordSenses = $element->getWords();
-            $english = $wordSenses[0]->getEnglish();
-            $notes = $wordSenses[0]->getNotes();
-            $id = $wordSenses[0]->getId();
-            $pinyin = $wordSenses[0]->getPinyin();
+            $word = $element->getWord();
+            $english = $word->getEnglish();
+            $notes = $word->getNotes();
+            $id = $word->getId();
+            $pinyin = $word->getPinyin();
         }
-        $count = count($wordSenses);
         $words .= '{"text":"' . $elemText . '",' .
                    '"english":"' . $english . '",' .
                    '"notes":"' . $notes . '",' .

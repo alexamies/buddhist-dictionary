@@ -7,6 +7,55 @@ require_once 'words_model.php' ;
  * Data access object for word entries
  */
 class WordsDAO {
+
+    /**
+     * Gets the most frequently used word sense for the given word text.
+     * If the word does not have a fequency entry then look up the word
+     * in the word table. If the word does not have an entry in the word
+     * table, return null.
+     *
+     * @return A Word object or null
+     */
+    function getBestWordSense($wordText) {
+
+        $databaseUtils = new DatabaseUtils();
+        $databaseUtils->getConnection();
+
+        // Perform SQL select operation 
+        $query = "SELECT id, simplified, traditional, pinyin, english, " .
+                 "grammar, concept_cn, concept_en, topic_cn, " .
+                 "topic_en, parent_cn, parent_en, image, mp3, notes " .
+                 "FROM words, unigram " .
+                 "WHERE words.id = unigram.word_id AND unigram.element_text = '$wordText' " .
+                 "ORDER BY unigram.frequency DESC";
+        //error_log("getBestWordSense, query: " . $query);
+        $result =& $databaseUtils->executeQuery($query);
+        $word = null;
+        if ($row = $databaseUtils->fetch_array($result)) {
+            $word = new Word($row[0], $row[1], $row[2], $row[3], $row[4],
+                               $row[5], $row[6], $row[7], $row[8], $row[9],
+                               $row[10], $row[11], $row[12], $row[13], $row[14]
+                              );
+        } else {
+            $query = "SELECT id, simplified, traditional, pinyin, english, " .
+                     "grammar, concept_cn, concept_en, topic_cn, " .
+                     "topic_en, parent_cn, parent_en, image, mp3, notes " .
+                     "FROM words " .
+                     "WHERE simplified = '$wordText' OR traditional = '$wordText'";
+            //error_log("getBestWordSense, query: " . $query);
+            $result =& $databaseUtils->executeQuery($query);
+            if ($row = $databaseUtils->fetch_array($result)) {
+                $word = new Word($row[0], $row[1], $row[2], $row[3], $row[4],
+                               $row[5], $row[6], $row[7], $row[8], $row[9],
+                               $row[10], $row[11], $row[12], $row[13], $row[14]
+                              );
+            }
+        }
+        //error_log("getBestWordSense, results returned: " . count($words));
+        $databaseUtils->free_result($result);
+        $databaseUtils->close();
+        return $word;
+    }
 	
     /**
      * Gets the count of words in the database for a given topic (in English).

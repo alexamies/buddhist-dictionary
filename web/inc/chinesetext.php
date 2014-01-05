@@ -95,25 +95,26 @@ class ChineseText {
                         $num = count($words);
                         if ($num == 1) {
                             // Single word found
-                            $elements[] = new TextElement($wordCandidate, 1, $words);
+                            $elements[] = new TextElement($wordCandidate, 1, $words[0], 1);
                             $i += $j;
                             break;
 
                         } else if ($num > 1) {
                             // Multiple words found
-                            $elements[] = new TextElement($wordCandidate, 2, $words);
+                            $word = $wordsDAO->getBestWordSense($wordCandidate);
+                            $elements[] = new TextElement($wordCandidate, 2, $word, count($words));
                             $i += $j;
                             break;
 
                         } else if ($j == 0) {
                             // We have got up to the last character but it is not in the dictionary
-                            $elements[] = new TextElement($wordCandidate, 3, null);
+                            $elements[] = new TextElement($wordCandidate, 3, null, 0);
                        } 
                    }
                }
            } else {
                // This chunk is non CJK.  
-               $elements[] = new TextElement($chunkText, 0, null);
+               $elements[] = new TextElement($chunkText, 0, null, 0);
             }
         }
         return $elements;
@@ -125,10 +126,11 @@ class ChineseText {
  * An object encapsulating a text element, such as a word, punctuation, a number, ASCII text, or white space
  */
 class TextElement {
-    var $text;  // The text element text
-    var $type;  // The type of chunk, an integer (0 = punctuation, white space, non-Chinese text, 1 = single word, 
-                // 2 = mulitple words, 3 = character)
-    var $words; // An array of words matching this phrase element (if type == 1 or 2)
+    var $text;      // The text element text
+    var $type;      // The type of chunk, an integer (0 = punctuation, white space, non-Chinese text, 1 = single word, 
+                    // 2 = mulitple words, 3 = character)
+    var $word;      // The best word matching this phrase element (if type == 1 or 2)
+    var $numWords;  // The number of possible words matching this phrase element (if type == 1 or 2)
 
     /**
      * Constructor for a TextElement object
@@ -136,12 +138,14 @@ class TextElement {
      * @param $text	The phrase element text
      * @param $type	The type of phrase element, an integer (0 = punctuation, white space, non-Chinese text, 1 = word, 
      * 				2 = mulitple words, 3 = character)
-     * @param $words	An array of words matching this phrase element (if type == 1 or 2)
-    */
-    function TextElement($text, $type, $words) {
+     * @param $word	The best word matching this phrase element (if type == 1 or 2)
+     * @param $numWords	The number of possible words matching this phrase element (if type == 1 or 2)
+     */
+    function TextElement($text, $type, $word, $numWords) {
         $this->text = $text;
         $this->type = $type;
-        $this->words = $words;
+        $this->word = $word;
+        $this->numWords = $numWords;
     }
 
     /**
@@ -163,12 +167,21 @@ class TextElement {
     }
 
     /**
-     * Get the words matching this phrase element (if type == 1 or 2).
+     * Get the best word matching this phrase element (if type == 1 or 2)
      *
-     * @return an array
+     * @return a string
      */
-    function getWords() {
-        return $this->words;
+    function getWord() {
+        return $this->word;
+    }
+
+    /**
+     * Get the number of possible words matching this phrase element (if type == 1 or 2)
+     *
+     * @return an integer
+     */
+    function getNumWords() {
+        return $this->numWords;
     }
 }
 
