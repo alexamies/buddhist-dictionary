@@ -130,7 +130,7 @@ if (isset($characterInfo)) {
   // print info for multiple characters
 } else if (isset($characterArr)) {
   print("<p>" . count($characterArr) . " characters found</p>");
-  print("<table><tbody>");
+  print("<table class='table table-bordered table-hover'><thead>");
   print("<tr>" .
         "<th>Character</th>" .
         "<th>Pinyin</th>" .
@@ -138,7 +138,7 @@ if (isset($characterInfo)) {
         "<th>Notes</th>" .
         "<th>Unicode</th>" .
         "<th>Type</th>" .
-        "</tr>");
+        "</tr></thead><tbody>");
   foreach ($characterArr as $characterInfo) {
     $character = $characterInfo->getC();
     $english = $characterInfo->getEnglish();
@@ -170,7 +170,7 @@ if (isset($characterInfo)) {
 	    
   print("<h4>HTML Links and Mouseover for Characters <a href='#' onclick=\"openVocab('/help_html.php');\">?</a></h4>");
   $escapedText = htmlspecialchars($mouseOverText);
-  print("<p>$mouseOverText</p><p><textarea cols='130' rows='2'>$escapedText</textarea><p>");
+  print("<p>$mouseOverText</p>");
 }
 ?>
 

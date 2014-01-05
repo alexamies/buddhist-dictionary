@@ -8,3 +8,17 @@ body {
 #logo{
   padding: 15px;
 }
+
+/* Tool Tips */
+#toolTip {
+    position: absolute;
+    max-width: 200px;
+    display: none; 
+    border: solid gray 1px;
+    background-color: #FF8;
+    padding: 5px;
+}
+
+#wordImage {
+	float:	right;
+}

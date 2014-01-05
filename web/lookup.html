@@ -41,7 +41,7 @@
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li><a href="corpus.html">Texts</a></li>
-            <li class="active"><a href="tools.html">Tools</a></li>
+            <li><a href="tools.html">Tools</a></li>
             <li><a href="dict_resources.html">Resources</a></li>
             <li><a href="about.html">About</a></li>
           </ul>
@@ -64,15 +64,17 @@
             <button type="submit" class="btn btn-default">Search</button>
           </div>
           <span id="lookup-help-block" class="help-block">
+            Search for words using Chinese text or English words or analyze an entire text block.
             Try this example: 觀自在菩薩行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。
+            English examples: Buddha, Dhárma.
             (Maximum of 100 characters).
           </span>
         </form>
         <table class="table table-bordered table-hover" ng-if="results.words">
-          <caption>Terms in Input Text</caption>
+          <caption>Dictionary Search Results</caption>
           <thead>
             <tr>
-              <th>Input Text</th>
+              <th>Chinese Text</th>
               <th><a href="/syllables_ipa.html" title="Pinyin and IPA Representations" target="_window2">Pinyin</a></th>
               <th>English</th>
               <th>Notes</th>

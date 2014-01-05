@@ -5,60 +5,57 @@ require_once 'inc/word_detail_top.php' ;
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
     <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
-    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
     <script type="text/javascript" src="script/prototype.js"></script>
     <script type="text/javascript" src="script/search.js"></script>
     <script type="text/javascript" src="script/chinesenotes.js"></script>
   </head>
   <body>
-    <img id="logo" src="images/yan.png" alt="Logo"/>
-    <h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1>
-    <p class="menu">
-      <a class="menu" class="menu" href="index.html">Home</a> |
-      <a class="menu" href="tools.html">Tools</a> | 
-      <a class="menu" href="corpus.html">Library</a> | 
-      <a class="menu" href="dict_resources.html">Resources</a> | 
-      <a class="menu" href="about.html">About</a>
-    </p>
-    <div class="breadcrumbs">
-      <a href="index.html">Home</a> &gt; 
-      Chinese-English Word Detail
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+      </div>
     </div>
-<?php
-    // HTML form 
-    print("<div class='search'>\n" .
-          "<form action='word_detail1.php' method='post' id='searchForm'>\n" .
-          "<fieldset>\n" .
-          "<input type='text' name='word' id='searchWord' size='50' value='$searchTerm'/>\n" .
-          "<textarea name='sentence' rows='2' cols='50' id='searchPhrase'>$searchTerm</textarea>\n" .
-          "<input id='searchButton' type='submit' value='Search' title='Search'/>\n" .
-          "<input type='radio' name='searchtype' id='word' value='word' checked='checked' 
-                  onclick=\"showSearch('searchWord', 'searchPhrase', 'word_detail1.php')\"/>\n" .
-          "<label for='word'>Word</label>\n" .
-          "<input type='radio' name='searchtype' id='phrase' value='phrase' 
-                  onclick=\"showSearch('searchPhrase', 'searchWord', 'sentence_lookup.php')\"/>\n" .
-          "<label for='phrase'>Phrase</label>\n" .
-          "<p/><a href='#' id='advancedLink' onclick=\"showBlock('advancedDiv')\">Advanced</a>\n" .
-          "<div id='advancedDiv'>\n" .
-          "Match: \n" .
-          "<input type='radio' name='matchType' id='exactRadio' value='exact' checked='checked'/>\n" .
-          "<label for='exactRadio'>Exact</label>\n" .
-          "<input type='radio' name='matchType' id='partOfRadio' value='partOf'/>\n" .
-          "<label for='partOfRadio'>Part of</label><br/>\n" .
-          "Output: \n" .
-          "<input type='radio' name='outputType' id='simplifiedRadio' value='simplified'/>\n" .
-          "<label for='simplifiedRadio'>Simplified</label>\n" .
-          "<input type='radio' name='outputType' id='traditionalRadio' value='traditional' checked='checked'/>\n" .
-          "<label for='traditionalRadio'>Traditional</label><br/>\n" .
-          "</div>\n" .
-          "</fieldset>\n" .
-          "</form>\n" .
-          "</div>\n" .
-          "<div id='searching' style='display:none;'>Searching ...</div>\n" .
-          "<div id='results'>\n");
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="corpus.html">Texts</a></li>
+            <li class="active"><a href="tools.html">Tools</a></li>
+            <li><a href="dict_resources.html">Resources</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
 
+    <div class="container">
+      <h2>Chinese Word Detail</h2>
+<?php
     // Print a list of words
     if (isset($words) && count($words) <> 1) {
       $len = count($words);
@@ -229,22 +226,6 @@ require_once 'inc/word_detail_top.php' ;
         }
       print("</ol>\n");
       }
-
-      // Annotation markup
-      $server = "";
-      //$server = "http://chinesenotes.com";
-      $pinyin = $word->getPinyin();
-      $trad = $word->getSimplified();
-      if ($word->getTraditional()) {
-        $trad = $word->getTraditional();
-        $pinyin = $word->getSimplified() . " " . $pinyin;
-      }
-      $english = $word->getEnglish();
-      $id = $word->getId();
-      print("<h2 class='wordDetail'>Markdown</h2>\n" .
-            "<textarea cols='120' rows='2'>" .
-            "[$trad]($server$script?id=$id '$pinyin, $english')" .
-            "</textarea>\n");
     }
 
     print("</div><p/><p/>");
@@ -253,8 +234,10 @@ require_once 'inc/word_detail_top.php' ;
       <span id="toolTip"><span id="pinyinSpan">Pinyin</span> <span id="englishSpan">English</span></span>
     </div>
       <hr/>
-    <p>
-      Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
-    </p>
+      <p>
+        Copyright Nan Tien Institute 2013-2014, 
+        <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
+      </p>
+    </div>
   </body>
 </html>
