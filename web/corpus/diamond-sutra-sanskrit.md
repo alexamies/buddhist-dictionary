@@ -12,5 +12,5 @@ Plain Text: [Plain text file] (corpus/diamond-sutra-sanskrit.txt "Diamond Sutra 
 
 End marker: ---END---
 
-Diamond Sūtra Commentary (this site): [Commentary] (/diamond_sutra_toc.html)
+Diamond Sūtra Commentary (this site): [Commentary] (/diamond_sutra_toc.html "Diamond Sutra Commentary")
 
