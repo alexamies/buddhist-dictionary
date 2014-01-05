@@ -241,6 +241,32 @@ CREATE TABLE related (
 ;
 
 /*
+ * Table for phrase entries.
+ *
+ * Entries in the phrase table may be identified when parsing new text data.
+ * Phrases are tagged using Penn Chinese part-of-speech tag definitions.
+ *
+ * id:             An id for the phrase entry
+ * chinese_phrase: Plain text Chinese
+ * pos_tagged:     The phrase tagged with PoS tags, including word and phrase gloss
+ * sanskrit:       The Sanskrit equivalent, if known
+ * source_no:      The id of the corpus source document
+ * source_name:    The name of the source document
+ */
+CREATE TABLE phrases (
+	id INT UNSIGNED NOT NULL,
+	chinese_phrase VARCHAR(125) NOT NULL,
+	pos_tagged TEXT NOT NULL,
+	sanskrit TEXT,
+	source_no INT UNSIGNED NOT NULL,
+	source_name TEXT NOT NULL,
+	PRIMARY KEY (id)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
  * Table for unigram frequency.
  *
  * This table records the frequency for the word sense of single words in the 

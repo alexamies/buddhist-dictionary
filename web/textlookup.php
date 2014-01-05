@@ -4,7 +4,7 @@ require_once 'inc/chinesetext.php' ;
 mb_internal_encoding('UTF-8');
 header('Content-Type: text/json;charset=utf-8');
 $text = $_POST['text'];
-error_log("Length of text: " . strlen($text));
+// error_log("Length of text: " . strlen($text));
 if (strlen($text) > 100) {
     print('{"error":"Too long. Text cannot exceed 100 characters."}' .
           '{"words":"[]"}');
@@ -37,7 +37,7 @@ if (strlen($text) > 100) {
                   '},';
     }
     $words = rtrim($words, ",") . "]";
-    error_log("words: $words \n");
+    // error_log("words: $words \n");
     print('{"words":' . $words . "}");
 }
 ?>

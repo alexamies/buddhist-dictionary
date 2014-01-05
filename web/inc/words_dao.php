@@ -313,6 +313,7 @@ class WordsDAO {
         $databaseUtils = new DatabaseUtils();
         $databaseUtils->getConnection();
         // Perform SQL select operation 
+        $english = $databaseUtils->escapeString($english);
         $query = "SELECT id, simplified, traditional, pinyin, grammar, concept_cn, concept_en, topic_cn, " .
                  "topic_en, parent_cn, parent_en, image, mp3, notes " .
                  "FROM words " .

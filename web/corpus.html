@@ -12,10 +12,6 @@
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="http://code.angularjs.org/1.2.6/angular.min.js"></script>
-    <script src="script/controllers.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -73,9 +69,9 @@
           <tr><th>ID</th><th>Source Name</th><th>Type</th><th>Translator</th><th>Period</th><th>Genre</th></tr>
         </thead>
         <tbody>
-          <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp"">
+          <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
             <td>{{doc.id}}</td>
-            <td><a href="{{doc.uri}}">{{doc.source_name}}</a></td>
+            <td><a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a></td>
             <td>{{doc.doc_type}}</td>
             <td>{{doc.translator}}</td>
             <td>{{doc.period}}</td>
@@ -108,5 +104,9 @@
         title="Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
     </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="http://code.angularjs.org/1.2.6/angular.min.js"></script>
+    <script src="script/controllers.js"></script>
   </body>
 </<html>

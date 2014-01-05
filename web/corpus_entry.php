@@ -52,7 +52,7 @@ require_once 'inc/markdown.php';
     </div>
 
     <div class="container">
-      <h2>Library Entry</h2>
+      <h2>Text Entry</h2>
 <?php
 if (isset($_REQUEST['text'])) {
     $text = $_REQUEST['text'];
@@ -69,7 +69,8 @@ if (isset($text)) {
 ?>
       <hr/>
       <p>
-        Copyright Nan Tien Institute 2013, <a href="http://www.nantien.edu.au/">www.nantien.edu.au</a>.
+        Copyright Nan Tien Institute 2013 - 2014, 
+        <a href="http://www.nantien.edu.au/" title="Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
     </div>
   </body>

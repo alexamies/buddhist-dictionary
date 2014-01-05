@@ -1,8 +1,4 @@
-<?php
-// A stand-alone version of the word detail content.  
-require_once 'inc/word_detail_top.php' ;
-?>
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" ng-app="phraseApp">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -13,8 +9,6 @@ require_once 'inc/word_detail_top.php' ;
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -50,21 +44,42 @@ require_once 'inc/word_detail_top.php' ;
       </div>
     </div>
 
-    <div class="container">
+    <div class="container" ng-controller="phraseCtrl">
+      <script>
+        id = "<?= $_REQUEST['id'] ?>";
+      </script>
       <h2>Phrase Detail</h2>
-    <p>
-      [UNDER DEVELOPMENT] Phrase detail for phrase with id
-<?php
-    echo $_REQUEST['id']
-?>
-    </p>
-    <div>
-      <span id="toolTip"><span id="pinyinSpan">Pinyin</span> <span id="englishSpan">English</span></span>
-    </div>
+      <table class="table table-bordered table-hover">
+        <thead>
+          <tr><th>Chinese Text</th><th>Phrase Detail</th></tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="phrase in results">
+            <td>{{phrase.chinese_phrase}}</td>
+            <td>
+              {{phrase.pos_tagged}}
+              <div ng-if="phrase.sanskrit">
+                Sanskrit: {{phrase.sanskrit}}
+              </div>
+              <div>
+                Source: {{phrase.source_name}}
+              </div>
+            </td>
+          <tr>
+        </tbody>
+      </table>
+      <div>
+        <span id="toolTip"><span id="pinyinSpan">Pinyin</span> <span id="englishSpan">English</span></span>
+      </div>
       <hr/>
-    <p>
-      Copyright Nan Tien Institute 2013 - 2014, 
-      <a href="http://www.nantien.edu.au/" title="Nan Tien Institute">www.nantien.edu.au</a>.
-    </p>
+      <p>
+        Copyright Nan Tien Institute 2013 - 2014, 
+        <a href="http://www.nantien.edu.au/" title="Nan Tien Institute">www.nantien.edu.au</a>.
+      </p>
+    <div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="http://code.angularjs.org/1.2.6/angular.min.js"></script>
+    <script src="script/phrase.js"></script>
   </body>
 </html>

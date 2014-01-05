@@ -1,4 +1,4 @@
-1	何以故	何/DT[hé why] 以/P[yǐ | because] 故/NN[gù | purpose] <why?>	 tatkasya hetoḥ	2	Diamond Sūtra
+1	何以故	何/DT[hé why] 以/P[yǐ | because] 故/NN[gù | purpose] <why?>	tatkasya hetoḥ	2	Diamond Sūtra
 2	於意云何	於/P[yú | in] 意/NN[yì | idea] 云何/DT[yúnhé | what] <what do you think?>	\N	2	Diamond Sūtra
 3	如來說	如來/NR[Rúlái | Tathāgata] 說/VV[shuō | speaks] <the Tathāgata speaks>	tathāgatena bhāṣitaḥ	2	Diamond Sūtra
 4	須菩提言	須菩提/NR[Xūpútí | Subhūti] 言/VV[yán | said] <Subhūti said>	\N	2	Diamond Sūtra
@@ -10,7 +10,7 @@
 10	諸菩薩	諸/DT[zhū | all] 菩薩/NN[púsà | bodhisattva] <all the bodhisattvas>	\N	2	Diamond Sūtra
 11	一切法	一切/DT[yīqiè | all] 法/NN[fǎ | dhárma] <all dhármas>	\N	2	Diamond Sūtra
 12	恒河沙	恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] <sand in the Ganges River>	gaṅgānadīvālukā	2	Diamond Sūtra
-13	若復有人	若/CS[ruò | if] 復有/AD[fùyǒu | once again] 人/NN[rén | person] <also, if a person>\N	2	Diamond Sūtra
+13	若復有人	若/CS[ruò | if] 復有/AD[fùyǒu | once again] 人/NN[rén | person] <also, if a person>\N	\N	2	Diamond Sūtra
 14	發阿耨多羅三藐三菩提心	發/VV[fā | to develop] 阿耨多羅三藐三菩提/NR[ānòuduōluó sānmiǎo sānpútí | Anuttarā Samyaksaṃbodhi] 心/NN[xīn | mind] <develop the mind of Anuttarā Samyaksaṃbodhi>	\N	2	Diamond Sūtra
 15	所說義	所/DT[suǒ | it] 說/VV[shuō | explain] 義/NN[yì | meaning] <explain the meaning>	\N	2	Diamond Sūtra
 16	降伏其心	降伏/VV[xiángfú | pacify] 其/DT[qí | their] 心/NN[xīn | mind] <pacify their minds>	cittaṃ pragrahītavyam	2	Diamond Sūtra
@@ -26,7 +26,7 @@
 26	當此	當/P[dāng | at] 此/PN[cǐ | this] <at that time>	\N	11	Sūtra on the Life of the Prince in Accordance with Good Omens
 27	太子生時	太子/NN[tàizǐ | prince] 生/VV[shēng | born] 時/NT[shí | time] <at the time the prince was born>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
 28	王與夫人	王/NN[wáng | king] 與/CC[yǔ | and] 夫人/NN[fūren | queen] <the king and the queen>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
-29	千人	千/CD[qiān | thousand] 人/NN[rén | person] <a thousand people>
+29	千人	千/CD[qiān | thousand] 人/NN[rén | person] <a thousand people>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
 30	吾子	吾/PN[wú | I] 子/NN[zǐ | son] <my son>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
 31	太子生	太子/NN[tàizǐ | prince] 生/VV[shēng | born] <the prince was born>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
 32	疊毛布	疊/VV[dié | fold] 毛布/NN[máobù | wool cloth] <folded the wool cloth>	\N	12	Abhiniṣkramaṇa Sūtra, Scroll 1
@@ -129,7 +129,7 @@
 129	長舌	長/VA[zhǎng | long] 舌/NN[shé | tongue] <long tongue>	\N	6	Amitābha Sūtra
 130	廣長舌	廣/VA[guǎng | vast] 長/VA[zhǎng | long] 舌/NN[shé | tongue] <long tongue>	\N	6	Amitābha Sūtra
 131	佛國土	佛/NR[Fó | Buddha] 國土/NN[guótǔ | land] <Buddha land>	\N	6	Amitābha Sūtra
-132	恒河沙數	恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] 數/NN[shǔ | number] <number of grains of sand in the Ganges River>	gaṅgānadīvālukā	\N	6	Amitābha Sūtra
+132	恒河沙數	恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] 數/NN[shǔ | number] <number of grains of sand in the Ganges River>	gaṅgānadīvālukā	2	Diamond Sūtra
 133	八事	八/CD[bā | eight] 事/NN[shì | thing] <eight things>	\N	7	Sūtra on the Eight Realizations
 134	令诸众生	令/VV[lìng | lead] 诸/DT[zhū | all] 众生/NN[zhòngshēng | sentient beings] <lead all sentient beings>	\N	7	Sūtra on the Eight Realizations
 135	佛弟子	佛/NR[Fó | Buddha] 弟子/NN[dìzi | disciple] <Buddhist disciple>	\N	7	Sūtra on the Eight Realizations

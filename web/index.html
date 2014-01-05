@@ -10,10 +10,6 @@
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="http://code.angularjs.org/1.2.6/angular.min.js"></script>
-    <script src="script/buddhistdict.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -88,7 +84,7 @@
               <td>{{word.english}}</td>
               <td ng-if="word.count==1">{{word.notes}}</td>
               <td ng-if="word.count>1">{{word.notes}} 
-                <a href="word_detail.php?word={{word.text}}&matchType=exact">{{word.count}} additional word senses</a>.
+                <a href="word_detail.php?word={{word.text}}&matchType=exact">{{word.count}} word senses</a>.
               </td>
             </tr>
           </tbody>
@@ -103,5 +99,9 @@
         for details.
       </p>
     </div><!-- /.container -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="http://code.angularjs.org/1.2.6/angular.min.js"></script>
+    <script src="script/buddhistdict.js"></script>
   </body>
 </html>

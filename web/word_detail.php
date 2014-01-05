@@ -13,16 +13,11 @@ require_once 'inc/word_detail_top.php' ;
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-    <script type="text/javascript" src="script/prototype.js"></script>
-    <script type="text/javascript" src="script/search.js"></script>
-    <script type="text/javascript" src="script/chinesenotes.js"></script>
   </head>
   <body>
     <div class="starter-template">
@@ -162,7 +157,7 @@ require_once 'inc/word_detail_top.php' ;
       // Topic
       if ($word->getTopicCn()) {
         print("<div>Topic: " . 
-              "<a href='/topic.php?english=" . 
+              "<a href='topic.php?english=" . 
               urlencode($word->getTopicEn()) . "'>" . 
               $word->getTopicEn() . "</a></div>\n");
       }
@@ -239,5 +234,7 @@ require_once 'inc/word_detail_top.php' ;
         <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
     </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
   </body>
 </html>

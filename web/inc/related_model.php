@@ -10,6 +10,7 @@ class Related {
 
     /**
      * Constructor for a Related object
+     *
      * @param $simplified1	Simplified Chinese text for the key word
      * @param $simplified2	Simplified Chinese text for the related word or phrase
      * @param $note			A note about the relationship
@@ -24,6 +25,7 @@ class Related {
 
     /**
      * Accessor method for Simplified Chinese text for the key word
+     *
      * @return Simplified Chinese text for the first word
      */
     function getSimplified1() {
@@ -32,6 +34,7 @@ class Related {
 
     /**
      * Accessor method for Simplified Chinese text for the second word
+     *
      * @return Simplified Chinese text for the second word
      */
     function getSimplified2() {
@@ -40,6 +43,7 @@ class Related {
 
     /**
      * Accessor method for link for the note
+     *
      * @return text for the link for the note
      */
     function getLink() {
@@ -48,6 +52,7 @@ class Related {
 
     /**
      * Accessor method for the note about the relationship
+     *
      * @return text for the note about the relationship
      */
     function getNote() {
