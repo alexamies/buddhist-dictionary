@@ -10,8 +10,6 @@
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -49,6 +47,12 @@
 
     <div class="container">
       <h2>Text Management, Annotation, and Gloss</h2>
+      <p>
+        This page gives some background on the data and 
+        <a href="https://github.com/alexamies/buddhist-dictionary/tree/master/command-line"
+        title="Command line tool on GitHub">bdictutil.py</a> command line tool that was used
+        to generate the data that drives this web site.
+      </p>
       <h3>Background</h2>
       <p>
         The collection of texts in this web site are managed as a <i>text corpus</i>.
@@ -57,11 +61,6 @@
         study the linguistic characteristics of a language. 
         The Brown Corpus, first published in 1961 [Francis 1964], was the first large corpus developed.
         It consists of about 1 million English words.
-        The word <i>library</i> is used in the web site menu, as a more familiar and
-        friendly term than corpus because the target users of the web site are mostly
-        not linguistics researchers.
-        The target users of the site are primarily students, researchers, and lay
-        people studying Buddhist texts.
       </p>
       <p>
         An <i>annotated corpus</i> or <i>treebank</i> adds information about the structure 
@@ -94,13 +93,6 @@
         </ol>
       </p>
       <p>
-        This project does not include bracketed structure to indicate the structure of different
-        types of phrases (noun phrases, verb phrases, etc) within sentences.
-        Rather it simply takes a practical approach to matching phrases and words to input 
-        text, starting with the longest phrases and words and covering the remaining
-        text with words one character in length.
-      </p>
-      <p>
         Each corpus entry includes meta data about a primary source document, such as
         the source and links to plain text versions, English translations, vocabulary
         analysis, and other information.
@@ -129,8 +121,12 @@
         This web site follows that style 
         in the phrase memory dataset, putting in mouse-over for the convenience
         of readers.
+        You can see the Penn Treebank format gloss used in the phrase detail pages on
+        this web site. For example, 
+        <a href="http://localhost/buddhistdict/phrase_detail.php?id=21"
+        title="To to this web page to see an example of a phrase detail with annotation">乘白象</a>.
       </p>
-      <h3>Use of markdown and corpus management</h2>
+      <h3>Use of markdown and corpus management</h3>
       <p>
         Each corpus entry has a text file that uses a markdown file. Markdown is a plain
         <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> can allow people who are not 
@@ -160,7 +156,6 @@
         This is a new effort. At the moment, part-of-speech (PoS) tagging is only used in the phrase 
         dataset. Initially, only commonly occuring phrases identified through ngram scanning will be
         tagged.
-        The PoS tags are not used in any linguistic analysis.
       </p>
       <p>
         It follows the PoS tagging format documented by the Penn Chinese Treebank project. 
@@ -169,6 +164,8 @@
         is used as the best choice at the moment. See the 
         <a href="http://www.cis.upenn.edu/~chinese/">Penn Chinese Treebank</a> web site for more
         details.
+        See the <a href="pos_tags.html">Part-of-Speech Tag Definitions</a> for a list of the tags used in
+        this project.
       </p>
       <h3>References</h3>
       <ol>
@@ -199,5 +196,7 @@
         <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
     </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
   </body>
 </<html>

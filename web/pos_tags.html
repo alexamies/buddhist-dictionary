@@ -1,0 +1,249 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
+    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+      </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="corpus.html">Texts</a></li>
+            <li><a href="tools.html">Tools</a></li>
+            <li class="active"><a href="dict_resources.html">Resources</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container" ng-controller="phraseCtrl">
+      <script>
+        id = "<?= $_REQUEST['id'] ?>";
+      </script>
+      <h2>Part-of-Speech Tag Definitions</h2>
+      <table class="table table-bordered table-hover">
+        <thead>
+          <tr>
+            <th>Tag</th>
+            <th>Name</th>
+            <th>List for closed sets</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>VA</td>
+            <td>Verb adjective</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>VC</td>
+            <td>Copula</td>
+            <td>為 为 是 非</td>
+          </tr>
+          <tr>
+            <td>VE</td>
+            <td>Existential verb</td>
+            <td>有 沒有 没有 沒 没 無 无</td>
+          </tr>
+          <tr>
+            <td>VV</td>
+            <td>Other verbs</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>NR</td>
+            <td>Proper noun</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>NT</td>
+            <td>Temporal noun</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>NN</td>
+            <td>Other noun</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>LC</td>
+            <td>Localizer</td>
+            <td>中 间 里 内 外 底 上 下 前 后 未 边 旁 侧 初 东 南 西 北 左 右 以上 一下 以后 以前 以内 以外 之间 之前 之外 之后 之中 之内 左右 前后 上下 来 以来 时 起 为止 开始 在内 处 止 东北 西北 东南 西南 为止 間 裡 內 後 邊 側 東 以後 以內 之間 之後 之內 前後 來 以來 時 為止 開始 在內 處 東北 東南 為止</td>
+          </tr>
+          <tr>
+            <td>PN</td>
+            <td>Personal pronoun</td>
+            <td>他 我 你 您 她 它 之 我们 你们 他们 她们 它们 其 自己 大家 对方 双方 自身 我們 你們 他們 她們 它們 對方 雙方 吾</td>
+          </tr>
+          <tr>
+            <td>DT</td>
+            <td>Determiner</td>
+            <td>这 这些 此 该 本 那 那些 上 下 前 后 头 另 其余 其他 其它 某 某些 各 诸 每 何 什么 任何 全 全体 全都 一切 所有 同 有的 有些 這 這些 該 後 頭 諸 什麼 全體 是 悉 之</td>
+          </tr>
+          <tr>
+            <td>CD</td>
+            <td>Cardinal number</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>OD</td>
+            <td>Ordinal number</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>M</td>
+            <td>Measure word</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>AD</td>
+            <td>Adverb</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>P</td>
+            <td>Preposition</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>CC</td>
+            <td>Coordinating conjunction</td>
+            <td>与 和 跟 同 及 以及 并 并且 而 而且 且 或 或者 还是 即 又 不仅 至 到 與 並 並且 還是 不僅</td>
+          </tr>
+          <tr>
+            <td>CS</td>
+            <td>Subordinating conjunction</td>
+            <td>如果 如 若 假如 不管 不论 不但 尽管 虽然 虽 只要 只有 一旦 不論 儘管 雖然 雖 則 是故 已 故</td>
+          </tr>
+          <tr>
+            <td>DEC</td>
+            <td>Nominalizer</td>
+            <td>的 之</td>
+          </tr>
+          <tr>
+            <td>DEG</td>
+            <td>Genetive marker</td>
+            <td>的 之</td>
+          </tr>
+          <tr>
+            <td>DER</td>
+            <td>Resultative particle</td>
+            <td>得</td>
+          </tr>
+          <tr>
+            <td>DEV</td>
+            <td>Manner particle</td>
+            <td>地</td>
+          </tr>
+          <tr>
+            <td>SP</td>
+            <td>Sentence final particle</td>
+            <td>了 吧 呢 啊 呀 吗 嗎</td>
+          </tr>
+          <tr>
+            <td>AS</td>
+            <td>Aspectual particle</td>
+            <td>了 着 过 過 的</td>
+          </tr>
+          <tr>
+            <td>ETC</td>
+            <td>Etc particle</td>
+            <td>等 等等</td>
+          </tr>
+          <tr>
+            <td>MSP</td>
+            <td>Other particle</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>IJ</td>
+            <td>Interjection</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>ON</td>
+            <td>Onomatopoeia</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>PU</td>
+            <td>Punctuation</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>JJ</td>
+            <td>Other modifier</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>FW</td>
+            <td>Foreign word</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>LB</td>
+            <td>Bei- construction</td>
+            <td>被</td>
+          </tr>
+          <tr>
+            <td>SB</td>
+            <td>Other</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>BA</td>
+            <td>Ba- construction</td>
+            <td>把 将</td>
+          </tr>
+        </tbody>
+      </table>
+      <h3>References</h3>
+      <ol>
+        <li>
+          Fei Xia. <i>The Part-of-Speech Tagging Guidelines for the Penn Chinese TreeBank (3.0)</i>.
+          October 17, 2000. 
+          <a href="http://www.cis.upenn.edu/~chinese/posguide.3rd.ch.pdf">http://www.cis.upenn.edu/~chinese/posguide.3rd.ch.pdf</a>.
+        </li>
+      </ol>
+      <div>
+        <span id="toolTip"><span id="pinyinSpan">Pinyin</span> <span id="englishSpan">English</span></span>
+      </div>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013 - 2014, 
+        <a href="http://www.nantien.edu.au/" title="Nan Tien Institute">www.nantien.edu.au</a>.
+      </p>
+    <div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="script/phrase.js"></script>
+  </body>
+</html>

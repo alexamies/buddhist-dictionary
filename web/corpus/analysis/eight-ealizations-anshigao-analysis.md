@@ -14,6 +14,8 @@ Phrase, Part-of-Speech Tagged Phrase, Source
 
 八事, 八/CD[bā | eight] 事/NN[shì | thing] &lt;eight things&gt;, Sūtra on the Eight Realizations
 
+至心誦念, 至心/AD[zhìxīn | sincerely] 誦念/VV[sòngnián | recite], Sūtra on the Eight Realizations of the Great Beings
+
 佛弟子, 佛/NR[Fó | Buddha] 弟子/NN[dìzi | disciple] &lt;Buddhist disciple&gt;, Sūtra on the Eight Realizations
 
 常念, 常/AD[cháng | frequently] 念/VV[niàn | recite] &lt;frequently recite&gt;, Sūtra on the Eight Realizations
@@ -38,7 +40,9 @@ Word, frequency, relative frequency per 1000 words
 [欲](word_detail.php?id=3889 "desire 欲") [desire], 4, 11.90<br/>
 [菩薩](word_detail.php?id=3166 "bodhisattva 菩薩") [bodhisattva], 4, 11.90<br/>
 [覺悟](word_detail.php?id=3861 "awareness 覺悟") [awareness], 4, 11.90<br/>
+[惡](word_detail.php?id=3868 "evil / vice 惡") [evil], 4, 11.90<br/>
 [苦](word_detail.php?id=3864 "bitter 苦") [bitter], 4, 11.90<br/>
+[多](word_detail.php?id=400 "indicates a number greater than the number preceding it 多") [indicates a number greater than the number preceding it], 3, 8.93<br/>
 [事](word_detail.php?id=1219 "matter / thing / item 事") [matter], 3, 8.93<br/>
 [五](word_detail.php?id=305 "five 五") [five], 3, 8.93<br/>
 [樂](word_detail.php?id=3930 "happy / cheerful / joyful 樂") [happy], 3, 8.93<br/>
@@ -49,12 +53,15 @@ Word, frequency, relative frequency per 1000 words
 [行](word_detail.php?id=1259 "capable / competent 行") [capable], 2, 5.95<br/>
 [罪](word_detail.php?id=3869 "an offense / guilt / a crime / a sin 罪") [an offense], 2, 5.95<br/>
 [精進](word_detail.php?id=3912 "diligence / perseverance 精進") [diligence], 2, 5.95<br/>
+[是](word_detail.php?id=277 "is / are / am / yes / to be 是") [is], 2, 5.95<br/>
 [守道](word_detail.php?id=21524 "to practice 守道") [to practice], 2, 5.95<br/>
 [道](word_detail.php?id=3247 "direction / way / method / road / path 道") [direction], 2, 5.95<br/>
-[眾生](word_detail.php?id=3180 "All living things / all sentient beings 眾生") [All living things], 2, 5.95<br/>
+[令](word_detail.php?id=3958 "to make / to cause to be / to lead 令") [to make], 2, 5.95<br/>
+[眾生](word_detail.php?id=3180 "a being / all living things / all sentient beings 眾生") [a being], 2, 5.95<br/>
 [增長](word_detail.php?id=847 "to increase 增長") [to increase], 2, 5.95<br/>
 [慧](word_detail.php?id=3904 "wisdom / understanding 慧") [wisdom], 2, 5.95<br/>
 [慈悲](word_detail.php?id=3951 "mercy / compassion 慈悲") [mercy], 2, 5.95<br/>
+[生](word_detail.php?id=3220 "to be born / to give birth / to grow / to live 生") [to be born], 2, 5.95<br/>
 [大](word_detail.php?id=1114 "big / great / huge / large / major 大") [big], 2, 5.95<br/>
 [弟子](word_detail.php?id=3172 "disciple 弟子") [disciple], 2, 5.95<br/>
 [諸眾](word_detail.php?id=30771 "numerous 諸眾") [numerous], 2, 5.95<br/>
@@ -66,15 +73,10 @@ Word, frequency, relative frequency per 1000 words
 
 [一切](word_detail.php?id=1490 "all / every / everything 一切") [all], 4, 11.90<br/>
 [不](word_detail.php?id=502 "not / no 不") [not], 4, 11.90<br/>
-[為](word_detail.php?id=372 "for / to 為") [for], 4, 11.90<br/>
-[惡](word_detail.php?id=17796 "how? 惡") [how?], 4, 11.90<br/>
 [常](word_detail.php?id=3858 "always / ever / often / frequently / common / general 常") [always], 4, 11.90<br/>
-[多](word_detail.php?id=402 "more 多") [more], 3, 8.93<br/>
+[為](word_detail.php?id=372 "for / to 為") [for], 4, 11.90<br/>
 [唯](word_detail.php?id=6692 "yes 唯") [yes], 2, 5.95<br/>
-[生](word_detail.php?id=30576 "very / extremely 生") [very], 2, 5.95<br/>
-[是](word_detail.php?id=17908 "this / that 是") [this], 2, 5.95<br/>
 [於](word_detail.php?id=1710 "in / at / to / from 於") [in], 2, 5.95<br/>
-[令](word_detail.php?id=31974 "if 令") [if], 2, 5.95<br/>
 
 ### Frequency of New Words
 None<br/>

@@ -51,7 +51,10 @@
       <h2>Phrase Detail</h2>
       <table class="table table-bordered table-hover">
         <thead>
-          <tr><th>Chinese Text</th><th>Phrase Detail</th></tr>
+          <tr>
+            <th>Chinese Text</th>
+            <th><a href="annotation.html" title="More information on the phrase detail format">Phrase Detail</a></th>
+          </tr>
         </thead>
         <tbody>
           <tr ng-repeat="phrase in results">
@@ -68,6 +71,9 @@
           <tr>
         </tbody>
       </table>
+      <p>
+        See the <a href="pos_tags.html">Part-of-Speech Tag Definitions</a> for a list of the tags used.
+      </p>
       <div>
         <span id="toolTip"><span id="pinyinSpan">Pinyin</span> <span id="englishSpan">English</span></span>
       </div>
@@ -79,7 +85,7 @@
     <div>
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="http://code.angularjs.org/1.2.6/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.min.js"></script>
     <script src="script/phrase.js"></script>
   </body>
 </html>
