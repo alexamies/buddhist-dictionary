@@ -58,7 +58,7 @@ require_once 'inc/word_detail_top.php' ;
         print("<p>No matches found</p>\n");
       } else {
         print("<p>$len matches found</p>\n" .
-              "<table id='wordTable'>\n" .
+              "<table id='wordTable' class='table table-bordered table-hover'>\n" .
               "<tbody id='wordTabBody'>\n" .
               "<tr>" . 
               "<th class='portlet'>Simplified</th>" .
@@ -190,37 +190,7 @@ require_once 'inc/word_detail_top.php' ;
           print("</p>\n");
         }
       }
-
-      // Examples
-      // $exampleDAO = new ExampleDAO();
-      // $examples = $exampleDAO->getExamplesForWord($word->getId());
-      if (isset($examples) && count($examples) > 0) {
-        print("<p>Examples:</p>" .
-              "<ol>");
-        foreach ($examples as  $example) {
-          print("<li>" .
-                "<div>" . 
-                $example->getSimplified() . 
-                '</div><div>' . $example->getPinyin(). 
-                '</div><div>' . $example->getEnglish() . 
-                "</div>\n");
-          if ($example->getAudioFile()) {
-            print("<div>Listen: <a href='mp3/" . $example->getAudioFile() . 
-                  "' target='audio'>" .
-                  "<img src='images/audio.gif' alt='Play audio' border='0'/>" . 
-                  "</a>" .
-                  "</div>\n");
-          }
-          if ($example->getSourceLink()) {
-            print("<div>Source: <a href='" . $example->getSourceLink() . 
-                  "'>" . $example->getSource() . "</a></div>\n");
-          } elseif ($example->getSource()) {
-            print("<div>Source: " . $example->getSource() . "</div>\n");
-          }
-          print("</li>\n");
-        }
-      print("</ol>\n");
-      }
+      print("<p>Other senses of the word: <a href=\"word_detail.php?word=$simplified&matchType=exact\">$simplified</a></p>\n");
     }
 
     print("</div><p/><p/>");

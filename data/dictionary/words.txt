@@ -3059,7 +3059,7 @@
 3059	满	滿	mǎn	satisfied	adjective	\N	\N	感情	Emotion	\N	\N	\N	man3.mp3	\N
 3060	满	滿	mǎn	to be satisfied	verb	\N	\N	行为	Actions	\N	\N	\N	man3.mp3	\N
 3061	后勤	後勤	hòuqín	logistics	noun	\N	\N	工作	Work	\N	\N	\N	hou4qin2.mp3	\N
-3062	明	\N	míng	clear / bright	adjective	\N	\N	光纤	Light	\N	\N	\N	ming2.mp3	\N
+3062	明	\N	míng	clear / bright / brilliant	adjective	\N	\N	光纤	Light	\N	\N	\N	ming2.mp3	\N
 3063	明	\N	Míng	Ming	proper noun	名字	Name	名字	Names	\N	\N	\N	ming2.mp3	\N
 3064	明	\N	Míng	Ming Dynasty	proper noun	朝代	Dynasty	历史	History	\N	\N	\N	ming2.mp3	1368&mdash;1644 CE
 3065	奎	\N	Kuí	Kui	proper noun	名字	Name	名字	Names	\N	\N	\N	kui2.mp3	\N
@@ -3196,7 +3196,7 @@
 3196	猎	獵	liè	to hunt	verb	\N	\N	打猎	Hunting	\N	\N	\N	lie4.mp3	\N
 3197	猎户座	獵戶座	Lièhùzuò	Orion	proper noun	星座	Constellation	天文	Astronomy	\N	\N	\N	lie4hu4zuo4.mp3	\N
 3198	星座	\N	xīngzuò	star constellation	noun	\N	\N	天文	Astronomy	\N	\N	\N	\N	\N
-3199	星	\N	xīng	star / satellite	noun	\N	\N	大自然	Nature	\N	\N	\N	xing1.mp3	\N
+3199	星	\N	xīng	a star	noun	\N	\N	大自然	Nature	\N	\N	\N	xing1.mp3	\N
 3200	雨	\N	yǔ	rain	noun	天气	Weather	水	Water	\N	\N	\N	yu3.mp3	\N
 3201	流星雨	\N	liúxīng yǔ	meteor shower	noun	\N	\N	天文	Astronomy	\N	\N	\N	liu2xing1yu3.mp3	\N
 3202	值	\N	zhí	value / worth	noun	\N	\N	经济	Economics	\N	\N	\N	zhi2.mp3	\N
@@ -7162,7 +7162,7 @@
 7162	处处	處處	chùchù	everywhere	adverb	\N	\N	位	Position	\N	\N	\N	chu2chu2.mp3	\N
 7163	围绕	圍繞	wéirǎo	to revolve around / to center on / to circumambulate	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
 7164	贱	賤	jiàn	inexpensive / lowly	adjective	\N	\N	特点	Characteristic	\N	\N	\N	jian4.mp3	\N
-7165	堕	墮	duò	to degenerate / to fall	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+7165	堕	墮	duò	to descend / to fall	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 7166	世人	\N	shìrén	common people	noun	\N	\N	社会	Society	\N	\N	\N	shi4ren2.mp3	\N
 7167	消	\N	xiāo	to consume / to subside / to disappear / to vanish	verb	\N	\N	行为	Actions	\N	\N	\N	xiao1.mp3	\N
 7168	消灭	消滅	xiāomiè	to perish / to annihilate / to eliminate / to perish / to pass away	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
@@ -33349,3 +33349,41 @@
 33349	灭	滅	miè	death	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	mie4.mp3	\N
 33350	照	\N	zhào	to photograph	verb	\N	\N	艺术	Art	\N	\N	\N	zhao4.mp3	\N
 33351	仙人掌	\N	xiānrénzhǎng	cactus	noun	植物	Plant	植物学	Botany	\N	\N	\N	\N	\N
+33352	咎	\N	jiù	a catastrophe / a disaster / a calamity / a misfortune	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33353	咎	\N	jiù	to cause a catastrophe	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33354	咎	\N	jiù	to blame / to punish	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33355	匍	\N	pú	to crawl / to lie prostrate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33356	匐	\N	fú	to fall prostrate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33357	刈	\N	fú	to mow / to cut down	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33358	烟	\N	fú	smoke / mist / vapour	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	The simplified character is also used in old texts as an archaic variant of 煙.
+33359	麁	\N	cū	coarse / rough	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 粗.
+33360	涎	\N	xián	saliva	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33361	鎌	\N	lián	scythe / sickle	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 鐮｜镰.
+33362	犊	犢	dú	a calf / a sacrificial victim	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33363	瓫	\N	pén	a basin	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33364	峯	\N	fēng	peak / summit	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 峰.
+33365	愦	憒	kuì	confused / troubled	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33366	悕	\N	xī	to wish	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33367	眴	\N	xuàn	dazzled / dizzy	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33368	塈	\N	jì	to brick a grave / to snuff out	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33369	姙	\N	rèn	to be pregnant	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 妊.
+33370	鍮	\N	tōu	brass	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33371	明	\N	míng	obvious / explicit / clear	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	In the sense that an explanation is clear. Synonymous with 明白 or 清楚.
+33372	明	\N	míng	intelligent / clever / wise	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 明慧，聪明.
+33373	爽直	\N	shuǎngzhí	straightforward / direct	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33374	明	\N	míng	to illuminate / to shine	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 照亮.
+33375	明	\N	míng	to ignite	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 点燃 or 点亮.
+33376	明	\N	míng	to understand / to comprehend	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 懂得 or 了解.
+33377	明	\N	míng	to explain / to clarify	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 阐明 or 表明.
+33378	松明	\N	sōngmíng	a pine torch	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33379	明	\N	míng	a pine torch	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 松明.
+33380	人世	\N	rénshì	the world / the human world / the world of the living	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33381	阳世	陽世	yángshì	the world / the human world / the world of the living	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33382	明	\N	míng	the world / the human world / the world of the living	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 人世 or 阳世.
+33383	明	\N	míng	sight / eyesight / vision	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 视力.
+33384	明	\N	míng	a god / a spirit	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 神 or 神灵.
+33385	明	\N	míng	fame / renown	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 声名 or 名誉.
+33386	明	\N	míng	open / public	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	ming2.mp3	Synonymous with 公开.
+33387	星	\N	xīng	a satellite	noun	\N	\N	航天	Space Flight	\N	\N	\N	xing1.mp3	\N
+33388	堕	墮	duò	to degenerate	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+

@@ -11,7 +11,7 @@ from bdict import cedict
 from bdict import configmanager
 from bdict import corpusmanager
 
-WORD_FREQ_FILE = 'unigram_freq.txt'
+WORD_FREQ_FILE = 'unigram.txt'
 
 PENN_2_DICT = {  # Dictionary for lookup of word entry grammar based on POS tag.
                'VA': 'adjective',
