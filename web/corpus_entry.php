@@ -61,13 +61,17 @@ if (isset($_REQUEST['text'])) {
     print("<p>No text to display.</p>");
 }
 if (isset($text)) {
-    $markdown = new Markdown($text);
-    print($markdown->getHTML());
+    if (isset($_REQUEST['html']) && ($_REQUEST['html'] == 'true')) {
+        print($text);
+    } else{
+        $markdown = new Markdown($text);
+        print($markdown->getHTML());
+    }
 }
 ?>
       <hr/>
       <p>
-        Copyright Nan Tien Institute 2013 - 2014, 
+        Web site design copyright Nan Tien Institute 2013 - 2014, 
         <a href="http://www.nantien.edu.au/" title="Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
     </div>
