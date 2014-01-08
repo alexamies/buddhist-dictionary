@@ -4,6 +4,8 @@ Description: The Chinese text of the Heart Sūtra from the Taisho Tripitaka. Tra
 
 Period: 602－664
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/heart-sutra-xuanzang-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/heart-sutra-xuanzang-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

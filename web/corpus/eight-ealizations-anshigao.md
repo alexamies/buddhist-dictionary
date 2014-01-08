@@ -6,6 +6,8 @@ Period: c. 168
 
 Translator: An Shi Gao.
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/eight-ealizations-anshigao-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/eight-ealizations-anshigao-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

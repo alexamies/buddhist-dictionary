@@ -26,12 +26,13 @@ class GlossGenerator:
     """Generates a document annotated with English gloss and other information.
    """
 
-    def __init__(self, output_type=HTML_TYPE):
+    def __init__(self, output_type=HTML_TYPE, wholetext=False):
         """Constructor for GlossGenerator class.
         """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
         self.output_type = output_type
+        self.wholetext = wholetext
         self.tagger = postagger.POSTagger()
 
     def GenerateDoc(self, corpus_entry):
@@ -63,14 +64,18 @@ class GlossGenerator:
             markup += self._Paragraph('Translator: %s' % translator)
 
         reader = cjktextreader.CJKTextReader()
-        text = reader.ReadText(corpus_entry)
+        text = None
+        if self.wholetext:
+            text = reader.ReadWholeText(corpus_entry)
+        else:
+            text = reader.ReadText(corpus_entry)
         dictionary = cedict.ChineseEnglishDict()
         wdict = dictionary.OpenDictionary() # Word dictionary
         dataset = phrasematcher.PhraseDataset()
         pdict = dataset.Load()
         combined_dict = dict(wdict.items() + pdict.items())
         splitter = chinesephrase.ChineseWordExtractor(combined_dict)
-        elements = splitter.ExtractWords(text, leave_punctuation=True)
+        elements = splitter.ExtractWords(text, leave_punctuation=True, wholetext = self.wholetext)
 
         for element in elements:
             if element in combined_dict:
@@ -165,6 +170,8 @@ class GlossGenerator:
         if self.output_type == POS_TAGGED_TYPE:
             pos = 'PU'
             return '%s/%s\n' % (element_text, pos)
+        elif element_text == '\n':
+            return '<br/>\n'
         return element_text
 
     def _Title2(self, text):
@@ -185,7 +192,7 @@ class GlossGenerator:
         gloss = cedict.GetGloss(entry)
         entry_id = entry['id']
         url = '/buddhistdict/word_detail.php?id=%s' % entry_id
-        return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
+        return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)
 
 
 def _GenerateJSON(elements, combined_dict):

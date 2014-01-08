@@ -72,6 +72,15 @@ class CJKTextReaderTest(unittest.TestCase):
         last = u'正是佛生之日。'
         self.assertTrue(-1 < characters.find(last))
 
+    def testReadWholeText1(self):
+        corpus_entry = {}
+        corpus_entry['plain_text'] = 'diamond-sutra-taisho.txt'
+        reader = cjktextreader.CJKTextReader()
+        text = reader.ReadWholeText(corpus_entry)
+        self.assertTrue(text)
+        start = u'【經錄部類】'
+        self.assertEquals(0, text.find(start))
+
 
 if __name__ == '__main__':
     unittest.main()

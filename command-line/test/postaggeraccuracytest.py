@@ -5,6 +5,7 @@ Tests the methods for testing accuracy of tagged documents with English gloss an
 """
 import unittest
 
+from bdict import glossgenerator
 from bdict import postaggeraccuracy
 from bdict import taggeddoc
 
@@ -24,10 +25,19 @@ class TaggerAccuracyTest(unittest.TestCase):
         self.assertEqual(result, 0.5)
 
     def testTaggerAccuracy3(self):
+        corpus_entry = {}
+        corpus_entry['plain_text'] = 'heart-sutra-xuanzang.txt'
+        corpus_entry['start'] = u'觀自在菩薩行深'
+        corpus_entry['end'] = u'本網站係採用'
+        corpus_entry['source_name'] = u'Prajñāpāramitā Heart Sūtra 般若波羅蜜多心經'
+        corpus_entry['source'] = u'Taisho Tripitaka'
+        corpus_entry['reference'] = u'Vol. 8, No. 251'
+        corpus_entry['translator'] = u'Xuanzang'
+        generator = glossgenerator.GlossGenerator(output_type=glossgenerator.POS_TAGGED_TYPE)
+        filename = generator.WriteDoc(corpus_entry)
         filename1 = '../web/corpus/tagged/heart-sutra-xuanzang-tagged.txt'
         standard = taggeddoc.LoadTaggedDoc(filename1)
-        filename2 = '../web/corpus/tagged/heart-sutra-xuanzang-gen-tagged.txt'
-        subject = taggeddoc.LoadTaggedDoc(filename2)
+        subject = taggeddoc.LoadTaggedDoc(filename)
         result = postaggeraccuracy.TaggerAccuracy(standard, subject)
         self.assertTrue(0 < result <= 1)
 

@@ -33,7 +33,10 @@ Get the corpus document number from the listcorpus command.
 
 The generategloss command generates a file with gloss in HTML format. Usage:
 
-    python bdictutil.py generategloss <doc_num>
+    python bdictutil.py generategloss <doc_num> [--wholetext]
+
+If the --wholetext option is included then the whole text will be output,
+ignoring start and end markers.
 
 The listcorpus command lists all the documents in the corpus (aka library).
 Usage:
@@ -49,7 +52,7 @@ Usage:
 The wordsensefreq command generates word sense frequency from part-of-speech
 tagged documents in the corpus. Usage:
 
-    python bdictutil.py wordsensefreq <doc_num>
+    python bdictutil.py wordsensefreq [doc_num]
 """)
 
 def main():
@@ -89,7 +92,11 @@ def main():
         cmanager = corpusmanager.CorpusManager()
         corpus = cmanager.LoadCorpus()
         corpus_entry = corpus[doc_num-1]
-        generator = glossgenerator.GlossGenerator()
+        wholetext = False
+        if len(sys.argv) == 4:
+            wholetext = sys.argv[3] == '--wholetext'
+        print('Reading whole text: %s' % wholetext)
+        generator = glossgenerator.GlossGenerator(wholetext=wholetext)
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
     elif command == 'help':

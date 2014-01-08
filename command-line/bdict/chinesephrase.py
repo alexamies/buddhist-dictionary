@@ -13,9 +13,14 @@ class ChineseWordExtractor:
     """
 
     def __init__(self, wdict):
+        """Constructor for ChineseWordExtractor
+
+        Args:
+          wdict: the dictionary to use to look up the words in
+        """
         self.wdict = wdict
 
-    def ExtractWords(self, text, leave_punctuation=False):
+    def ExtractWords(self, text, leave_punctuation=False, wholetext=False):
         """Extracts words from a chunk of text.
 
         Algorithm is based on matching words in the dictionary maximizing the length
@@ -25,7 +30,8 @@ class ChineseWordExtractor:
 
         Args:
           text: the text to match
-          wdict: the dictionary to use to look up the words in
+          leave_punctuation: If true then retain CJK punctuation
+          wholetext: If true then retain all text, CJK and non-CJK
 
         Returns:
           A list of words
@@ -62,7 +68,7 @@ class ChineseWordExtractor:
                         break
                     j -= 1
                 j += 1
-            elif leave_punctuation and isCJKPunctuation(c):
+            elif leave_punctuation and isCJKPunctuation(c) or wholetext:
                words.append(c)
             i = j
         return words

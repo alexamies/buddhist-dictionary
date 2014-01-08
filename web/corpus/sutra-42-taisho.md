@@ -6,6 +6,8 @@ Period: First century
 
 Translators: Kasyapamatanga and Dharmaratna.
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/sutra-42-taisho-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/sutra-42-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

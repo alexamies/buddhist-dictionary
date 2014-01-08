@@ -20,7 +20,7 @@ class PhraseTest(unittest.TestCase):
         dataset = phrasematcher.PhraseDataset()
         phrases = dataset.Load()
         self.assertTrue(phrases)
-        self.assertTrue(u'至心诵念' in phrases)
+        self.assertTrue(u'何以故' in phrases)
 
     def testMatches1(self):
         dataset = phrasematcher.PhraseDataset()

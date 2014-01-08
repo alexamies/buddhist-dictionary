@@ -4,6 +4,8 @@ Description: Translated by Tripiṭaka monk Śiksānanda, Khotan, Tang Dynasty. 
 
 Period: 652－710
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/ksitigarbha_taisho-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/ksitigarbha_taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

@@ -4,6 +4,8 @@ Description: The Chinese text of the Diamond Sūtra from the Taisho Tripitaka. T
 
 Period: 334—413
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/diamond-sutra-taisho-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

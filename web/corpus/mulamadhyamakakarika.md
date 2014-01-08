@@ -4,6 +4,8 @@ Description: The Chinese text of the treatise by Nāgārjuna from the Taisho Tri
 
 Period: 334—413
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/mulamadhyamakakarika-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/mulamadhyamakakarika-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

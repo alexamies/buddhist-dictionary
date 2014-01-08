@@ -4,6 +4,8 @@ Description: The Chinese text of the Amitābha Sūtra from the Taisho Tripitaka.
 
 Period: 334－413
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/amitabha-sutra-kumarajiva-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/amitabha-sutra-kumarajiva-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

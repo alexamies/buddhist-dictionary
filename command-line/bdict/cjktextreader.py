@@ -26,6 +26,10 @@ class CJKTextReader:
     def ReadText(self, corpus_entry):
         """Reads the given corpus entry into memory.
 
+        This method scans to the start of the document as defined by the start marker in
+        the corpus table and ignores text including and after the end marker. Within
+        the body of the text non-Chinese characters are stripped.
+
         Args:
           corpus_entry: the corpus entry that contains the source file and other
                         information
@@ -77,5 +81,34 @@ class CJKTextReader:
                     if chinesephrase.isCJKLetter(c) or chinesephrase.isCJKPunctuation(c):
                         cjk += c
                 text += cjk
+        return text
+
+    def ReadWholeText(self, corpus_entry):
+        """Reads whole text of the given corpus entry into memory.
+
+        This method ignores the start and end markers in the corpus table, reading in the 
+        whole text into memory. Non-Chinese characters within the body are retained.
+
+        Args:
+          corpus_entry: the corpus entry that contains the source file and other
+                        information
+
+        Returns:
+          A string of text.
+
+        Raises:
+          BDictException: If the input file does not exist
+        """
+        directory = self.config['corpus_directory']
+        infile = corpus_entry['plain_text']
+        fullpath = '%s/%s' % (directory, infile)
+        if not os.path.isfile(fullpath):
+            raise app_exceptions.BDictException('%s is not a file' % infile)
+
+        with codecs.open(fullpath, 'r', "utf-8") as f:
+            # print('ReadWholeText: Reading input file %s ' % fullpath)
+            text = ''
+            for line in f:
+                text += line
         return text
 

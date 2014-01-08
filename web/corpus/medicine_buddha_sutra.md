@@ -4,6 +4,8 @@ Description: Primary source text from Taisho Tripitaka 藥師琉璃光如來本�
 
 Period: 602－664
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/medicine_buddha_sutra-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/medicine_buddha_sutra-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese

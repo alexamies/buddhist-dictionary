@@ -5,6 +5,8 @@ Chapter 24 of the Lotus Sutra, Vol. 9, No. 262, Scroll 7.
 
 Period: 602－664
 
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/universal-sutra-taisho-gloss.html&html=true "HTML file")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/universal-sutra-taisho-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
