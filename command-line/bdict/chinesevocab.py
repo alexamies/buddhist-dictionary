@@ -104,12 +104,13 @@ class ChineseVocabulary:
             matcher = phrasematcher.PhraseDataset()
             matcher.Load()
             phrases = matcher.Matches(text)
-            self._PrintPhrases(phrases, outf, wc, 'Matching entries in phrase dataset')
+            self._PrintPhrases(phrases, outf, 'Matching entries in phrase dataset')
             bigrams = finder.GetNGrams(2)
-            self._PrintFrequencyNew(bigrams, outf, wc, 'N-grams with frequency greater than 2')
+            phrase_dict = matcher.Load()
+            self._PrintFrequencyNew(bigrams, outf, phrase_dict, 'N-grams with frequency greater than 2')
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('\n')
-            self._PrintFrequencyNew(new_words, outf, wc, 'New Words')
+            self._PrintFrequencyNew(new_words, outf, phrase_dict, 'New Words')
         return outfile
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
@@ -144,7 +145,7 @@ class ChineseVocabulary:
             if 1 < word_freq[k]:
                 self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
 
-    def _PrintFrequencyNew(self, word_freq, outf, wc, title):
+    def _PrintFrequencyNew(self, word_freq, outf, phrase_dict, title):
         """Prints the set of words without links.
 
         Since the words are not known there are no links to the dictionary.
@@ -152,14 +153,24 @@ class ChineseVocabulary:
         args:
           word_freq: A dictionary of words
           outf: file object to send output to
-          wc: the total word count
+          phrase_dict: the dictionary of phrases
         """
         outf.write('### Frequency of %s\n' % title)
         if not word_freq:
             outf.write('None<br/>\n')
         else:
             for k in sorted(word_freq, key=lambda key: -word_freq[key]):
-                outf.write("%s, %d<br/>\n" % (k, word_freq[k]))
+                if k not in phrase_dict:
+                    outf.write("%s, %d<br/>\n" % (k, word_freq[k]))
+                else:
+                    phrase = phrase_dict[k]
+                    pid = phrase['id']
+                    chinese_phrase = phrase['chinese_phrase']
+                    pos_tagged = phrase['pos_tagged']
+                    pos_tagged = re.sub("<", "&lt;", pos_tagged)
+                    pos_tagged = re.sub(">", "&gt;", pos_tagged)
+                    source_name = phrase['source_name']
+                    outf.write('[%s] (phrase_detail.php?id=%s "%s"), %d\n\n' % (chinese_phrase, pid, pos_tagged, word_freq[k]))
 
     def _PrintKnownWord(self, traditional, freq, sdict, outf, wc):
         """Prints the known words with a markdown link.
@@ -181,24 +192,36 @@ class ChineseVocabulary:
         outf.write('[%s](word_detail.php?id=%s "%s %s") [%s], %d, %.2f<br/>\n'
                    '' % (traditional, word_id, english, traditional, gloss, freq, rel_freq))
 
-    def _PrintPhrases(self, phrases, outf, wc, title):
-        """Prints out the set of phrase entries.
+    def _PrintPhrase(self, phrase, outf):
+        """Prints out a phrase entry.
 
         Prints the phrase with pos tags out.
 
         args:
-          phrases: A list of phrase entries
+          phrase: A list of phrase entries
         """
-        outf.write('### Phrase Memory Matches\n')
+        pid = phrase['id']
+        chinese_phrase = phrase['chinese_phrase']
+        pos_tagged = phrase['pos_tagged']
+        pos_tagged = re.sub("<", "&lt;", pos_tagged)
+        pos_tagged = re.sub(">", "&gt;", pos_tagged)
+        source_name = phrase['source_name']
+        outf.write('[%s] (phrase_detail.php?id=%s "%s"), %s\n\n' % (chinese_phrase, pid, pos_tagged, source_name))
+
+    def _PrintPhrases(self, phrases, outf, title):
+        """Prints out the set of phrase entries.
+
+        Prints the phrases with pos tags out.
+
+        args:
+          phrases: A list of phrase entries
+          outf: the file to write the output to
+
+        """
+        outf.write('### %s\n\n' % title)
         if not phrases:
             outf.write('None<br/>\n')
         else:
-            outf.write('Phrase, Part-of-Speech Tagged Phrase, Source\n\n')
             for phrase in phrases:
-                chinese_phrase = phrase['chinese_phrase']
-                pos_tagged = phrase['pos_tagged']
-                pos_tagged = re.sub("<", "&lt;", pos_tagged)
-                pos_tagged = re.sub(">", "&gt;", pos_tagged)
-                source_name = phrase['source_name']
-                outf.write("%s, %s, %s\n\n" % (chinese_phrase, pos_tagged, source_name))
+                self._PrintPhrase(phrase, outf)
 

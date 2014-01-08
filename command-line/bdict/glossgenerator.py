@@ -6,6 +6,7 @@ format.
 """
 
 import codecs
+import os.path
 
 from bdict import app_exceptions
 from bdict import cedict
@@ -105,19 +106,35 @@ class GlossGenerator:
             outfile = DEFAULT_OUTFILE_POS
             if infile.find('.') > -1:
                 outfile = '%s-gen-tagged.txt' % infile[0:period_pos]
-            if self.config['tagged_directory']:
-                tagged_directory = self.config['tagged_directory']
+            if self._CheckTagDirectory():
+                tagged_directory = self._CheckTagDirectory()
                 outfile = '%s/%s' % (tagged_directory, outfile)
         elif infile.find('.') > -1:
             outfile = '%s-gloss.html' % infile[0:period_pos]
-            if self.config['gloss_directory']:
-                gloss_directory = self.config['gloss_directory']
+            if self._CheckGlossDirectory():
+                gloss_directory = self._CheckGlossDirectory()
                 outfile = '%s/%s' % (gloss_directory, outfile)
         markup = self.GenerateDoc(corpus_entry)
         with codecs.open(outfile, 'w', "utf-8") as outf:
             outf.write(markup)
             outf.close()
         return outfile
+
+    def _CheckGlossDirectory(self):
+        """If the directory does not already exist it will be created.
+        """
+        dirname = self.config['gloss_directory']
+        if not os.path.isdir(dirname):
+            os.makedirs(dirname)
+        return dirname
+
+    def _CheckTagDirectory(self):
+        """If the directory does not already exist it will be created.
+        """
+        dirname = self.config['tagged_directory']
+        if not os.path.isdir(dirname):
+            os.makedirs(dirname)
+        return dirname
 
     def _Paragraph(self, text):
         """Generates output text formatted for a paragraph.
