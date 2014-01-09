@@ -1,6 +1,6 @@
 ## Madhyamāgama , Scroll 8 Abdhutadharma Section 《中阿含經》卷8〈4 未曾有法品〉
 
-Description: A passage from the Chinese text of the Sūtra from the Taisho Tripitaka. Translated to Chinese by Sajghadeva.
+Description: A passage from the Chinese text of the Sūtra from the Āgama Section of the Taisho Tripitaka.
 
 Period: Eastern Jin 317 - 420
 

@@ -1,6 +1,6 @@
 ## Mahāparinirvāṇasūtra, Scroll 1 Fragment 佛般泥洹經卷1部分
 
-Description: The Chinese text for a fragment of the Mahāparinirvāṇa Sūtra, Scroll 1 from the Taisho Tripitaka. Vol. 1, No. 5, p. 165, a27-b10.
+Description: The Chinese text for a fragment of the Mahāparinirvāṇa Sūtra, Scroll 1 from the Āgama Section of the Taisho Tripitaka. Vol. 1, No. 5, p. 165, a27-b10.
 
 Period: Western Jin 265－316
 

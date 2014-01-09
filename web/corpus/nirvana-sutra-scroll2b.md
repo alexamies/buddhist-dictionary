@@ -1,6 +1,6 @@
 ## Mahāparinirvāṇasūtra, Scroll 2 Fragment 佛般泥洹經卷2部分
 
-Description: The Chinese text for a fragment of the Mahāparinirvāṇa Sūtra, Scroll 2 from the Taisho Tripitaka. 
+Description: The Chinese text for a fragment of the Mahāparinirvāṇa Sūtra, Scroll 2 from the Āgama Section of the Taisho Tripitaka. 
 Vol. 1, no. 6, p. 190, c4-8.
 
 Period: Eastern Jin 317 - 420

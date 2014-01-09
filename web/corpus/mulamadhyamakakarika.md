@@ -1,4 +1,4 @@
-## Nāgārjuna's Middle Way: Mulamadhyamakakarika Chinese Text 中論
+## Nāgārjuna's Middle Way: Mulamadhyamakakarika Chinese Text 龍樹中論
 
 Description: The Chinese text of the treatise by Nāgārjuna from the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
 
@@ -26,4 +26,6 @@ End marker: 本網站係採用
 
 English	translation: Mark Siderits and shoryu Katsura, <i>Nāgārjuna's Middle Way: Mūlamadhyamakakārikā</i>. 
 2013, Wisdom Publications, ISBN 978-1-61429-050-6.
+
+Notes: The English translation is derived from a Sanskrit version of the śāstra.
 

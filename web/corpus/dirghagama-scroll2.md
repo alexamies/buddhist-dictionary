@@ -1,6 +1,6 @@
 ## Dīrghāgama, Scroll 2 Fragment 長阿含經卷2部分
 
-Description: A passage from the Chinese text of the Sūtra from the Taisho Tripitaka. 
+Description: A passage from the Chinese text of the Sūtra from the Āgama Section of the Taisho Tripitaka. 
 
 Period: Later Qin 384－417
 
