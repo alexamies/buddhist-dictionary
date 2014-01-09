@@ -26,5 +26,9 @@ End marker: 爾時，世尊即說偈言
 
 English	translation: None
 
-Notes: 
+Summary: The Buddha explains to Ananda that there are eight causes of the Earth shaking. The first cause is water on the Earth.
+The second cause is a monk or nun using psychic powers. A bodhisattva descending from Tusita Heaven is the third cause. 
+A bodhisattva being born is the forth cause. A bodhisattva becoming enlightened is the fifth cause.
+A Buddha turning the Dharma Wheel is the sixth cause. A Buddha teaching medition and abandoning of desire is the seventh cause.
+A Buddha reaching Nirvana without Remainder is the eighth cause.
 
