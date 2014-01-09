@@ -3,19 +3,12 @@
 	
 header('Content-Type: text/html;charset=utf-8');
 
-// Session variables used for the breadcrumbs
-session_start();
-$conceptTitle = $_SESSION['conceptTitle'];
-$conceptURL = $_SESSION['conceptURL'];
-$script = $_SERVER['SCRIPT_NAME'];
-
 require_once 'words_dao.php' ;
-// require_once 'example_dao.php' ;
 require_once 'measure_word_dao.php' ;
 require_once 'synonym_dao.php' ;
 require_once 'related_dao.php' ;
 require_once 'grammar_lookup.php';
-  	
+
 /*
  * Decode strings escaped in URL
  * @param str The string to decode

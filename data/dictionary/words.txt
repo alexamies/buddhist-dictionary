@@ -3510,7 +3510,7 @@
 3510	法国	法國	Fǎguó	France	proper noun	国家	Country	地理	Geography	欧洲	Europe	\N	fa3guo2.mp3	Abbreviation  is 法
 3511	做法	\N	zuòfǎ	a way of doing things / a practice / a behavior	noun	\N	\N	行为	Actions	\N	\N	\N	zuo4fa3.mp3	\N
 3512	言	\N	yán	to speak / to say / said	verb	\N	\N	语言	Language	\N	\N	\N	yan2.mp3	\N
-3513	言	\N	yán	language / talk / word	noun	\N	\N	语言	Language	\N	\N	\N	yan2.mp3	\N
+3513	言	\N	yán	language / talk / words / discussion	noun	\N	\N	语言	Language	\N	\N	\N	yan2.mp3	\N
 3514	具体而言	 具體而言	jùtǐ ér yán	speaking concretely	phrase	\N	\N	语言	Language	\N	\N	\N	ju4ti3er2yan2.mp3	\N
 3515	闪	閃	shǎn	lightning / flash	noun	\N	\N	光纤	Light	\N	\N	\N	shan3.mp3	\N
 3516	闪电	閃電	shǎndiàn	lightning / flash	noun	\N	\N	光纤	Light	\N	\N	\N	shan3dian4.mp3	\N
@@ -6210,7 +6210,7 @@
 6210	远期	遠期	yuǎnqī	long term	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 6211	演变	演變	yǎnbiàn	to develop / to evolve	verb	\N	\N	行为	Actions	\N	\N	\N	yan3bian4.mp3	\N
 6212	超市	\N	chāoshì	supermarket	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	Abbreviation for 超级市场 (chāojí shìchǎng)
-6213	序	\N	xù	order / sequence / preface	noun	\N	\N	位	Position	\N	\N	\N	xu4.mp3	\N
+6213	序	\N	xù	preface	noun	\N	\N	位	Position	\N	\N	\N	xu4.mp3	\N
 6214	工序	\N	gōngxù	working procedure / process	noun	\N	\N	过程	Process	\N	\N	\N	\N	\N
 6215	向导	嚮導	xiàngdǎo	a guide	noun	\N	\N	人	People	\N	\N	\N	\N	\N
 6216	避	\N	bì	to avoid / to shun / to flee / to escape / to leave / to keep away / to hide	verb	\N	\N	行为	Actions	\N	\N	\N	bi4.mp3	\N
@@ -6220,7 +6220,7 @@
 6220	料理	\N	liàolǐ	cuisine	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	especially for foreign restaurants
 6221	料理	\N	liàolǐ	to arrange / to handle	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
 6222	马丁路德金	馬丁路德金	Mǎdīng Lùdé Jīn	Martin Luther King	proper noun	\N	\N	历史	History	\N	\N	\N	\N	\N
-6223	物品	\N	wùpǐn	materials / articles / goods	noun	\N	\N	设备	Facilities	\N	\N	\N	wu4pin3.mp3	\N
+6223	物品	\N	wùpǐn	materials / articles / goods	noun	\N	\N	写作	Writing	\N	\N	\N	wu4pin3.mp3	\N
 6224	存贷	存貸	cúndài	stock	noun	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
 6225	制造商	製造商	zhìzào shāng	manufacturer	noun	\N	\N	工业	Industry	\N	\N	\N	\N	\N
 6226	职员	職員	zhíyuán	employee / office worker / staff member	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
@@ -6885,7 +6885,7 @@
 6885	犬	\N	quǎn	Kangxi radical 94	noun	\N	\N	部首	Radicals	\N	\N	\N	\N	dog
 6886	犭	\N	quǎn	Kangxi radical 94	noun	\N	\N	部首	Radicals	\N	\N	\N	\N	Alternate form for 犬.  Notice that the modern word for dog 狗 contains this radical.
 6887	受持	\N	shòuchí	to accept and maintain faith / to uphold	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-6888	偈	\N	jì	hymn / gatha / verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji4.mp3	Sanskrit: gāthā; records the teachings of the Buddha in verse form; one of the twelve divisions of the sutras 十二部经
+6888	偈	\N	jì	gatha / hymn / verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji4.mp3	Sanskrit: gāthā; records the teachings of the Buddha in verse form; one of the twelve divisions of the sutras 十二部经
 6889	偈	\N	jié	forceful / martial 	adjective	\N	\N	暴力	Violence	\N	\N	\N	jie2.mp3	\N
 6890	彼	\N	bǐ	that / those	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	bi3.mp3	\N
 6891	洹	\N	Huán	Huan	proper noun	\N	\N	地方	Places	\N	\N	\N	huan2.mp3	\N
@@ -22932,7 +22932,7 @@
 22932	评级	評級	píngjí	a rating	noun	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 22933	样本	樣本	yàngběn	a sample / a specimen	noun	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 22934	概率	\N	gàilǜ	probability	noun	\N	\N	数学	Mathematics	概率	Probability	\N	\N	\N
-22935	金山	\N	Jīnshān	Kingsoft	proper noun	公司	Company	信息技术	Information Technology	\N	\N	\N	\N	A Chinese software vendor
+22935	金山	\N	jīn shān	a golden mountain	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 22936	金山	\N	Jīnshān	Jinshan	proper noun	\N	\N	地方	Places	上海	Shanghai	\N	\N	\N
 22937	瑞星	\N	Ruìxīng	Rixing	proper noun	公司	Company	信息技术	Information Technology	\N	\N	\N	\N	A Chinese software vendor, web site: <a href='http://www.rising.com.cn/'>www.rising.com.cn</a>
 22938	略为	\N	lüèwèi	as yet / until	adverb	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
@@ -29966,8 +29966,8 @@
 29966	阿鋡	\N	Āhán	Agama / The divisions of the Sutra Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: āgama, Pali: āgama
 29967	阿含暮	\N	Āhánmù	Agama / The divisions of the Sutra Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: āgama, Pali: āgama
 29968	阿笈摩	\N	Ājímó	Agama / The divisions of the Sutra Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: āgama, Pali: āgama
-29969	中阿含经	中阿含經	Zhōng Āhán Jīng	Madhyama Āgama / Madhyama Agama / Middle-length Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A division of the Sutra Pitaka
-29970	中阿含	\N	Zhōng Āhán	Madhyama Āgama / Madhyama Agama / Middle-length Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A division of the Sutra Pitaka
+29969	中阿含经	中阿含經	Zhōng Āhán Jīng	Madhyama Āgama / Madhyama Agama / Madhyamāgama / Middle-length Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A division of the Sutra Pitaka
+29970	中阿含	\N	Zhōng Āhán	Madhyama Āgama / Madhyama Agama / Madhyamāgama / Middle-length Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A division of the Sutra Pitaka
 29971	法蕴足论	法蘊足論	Fǎ Yùn Zú Lùn	Dharmaskandha / Dharma-skandha-sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	An early Buddhist treatise, composed by either Sariputra or Maudgalyayana
 29972	成实论	成實論	Chéng Shí Lùn	Satyasiddhi-sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	A Buddhist treatise
 29973	大毗婆沙论	大毘婆沙論	Dàpípóshā Lùn	Mahavibhasa Sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	Mahāvibhāṣa Śāstra; a Buddhist treatise
@@ -32359,7 +32359,7 @@
 32359	望柱	\N	wàngzhù	a balustrade post / a railing post	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 32360	肩荷	\N	jiānhé	to carry on the shoulders	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
 32361	金刚仙论	金剛仙論	Jīngāng Xiān Lùn	Jingang Xian Lun	proper noun	论	Treatise	佛教	Buddhism	\N	\N	\N	\N	Commentary on the Commentary Diamond Sūtra of Vasubandhu by Vajrarsi
-32362	论	論	lùn	a treatise / a thesis	noun	\N	\N	写作	Writing	\N	\N	\N	lun4.mp3	\N
+32362	论	論	lùn	a treatise / a thesis / śastra	noun	\N	\N	写作	Writing	\N	\N	\N	lun4.mp3	Sanskrit: śastra
 32363	金刚经注	金剛經註	Jīngāng Jīng Zhù	Jingang Jing Zhu	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Commentary on the Diamond Sūtra by Qing writer Yu Yue 俞樾
 32364	金刚般若注	金剛般若註	Jīngāng Bōrě Zhù	Jingang Bore Zhu	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Commentary on the Diamond Sūtra by Xie Yinglun 385-433
 32365	金刚般若经疏	金剛般若經疏	Jīngāng Bōrě Jīng Shū	Jingang Bore Jing Shu	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Commentary on the Diamond Sūtra by Zhiyi 智顗 521-596, Taisho Tripitaka No. 1698
@@ -33400,4 +33400,31 @@
 33400	裨	\N	pí	assistant	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33401	裨	\N	pí	small	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33402	袪	\N	qū	a sleeve opening	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-33403	衿	\N	jīn	lapel / collar	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 襟
+33403	衿	\N	jīn	lapel / collar	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 襟.
+33404	释	釋	shì	to dissipate / to scatter / to undo	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
+33405	释	釋	shì	to give up / to abandon	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 舍弃 or 抛弃.
+33406	释	釋	shì	to put down	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 放下 or 放开.
+33407	释	釋	shì	to disappear	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 消失.
+33408	释	釋	shì	to melt	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 溶化 or 消融.
+33409	消融	釋	xiāoróng	to melt	verb	\N	\N	物料	Materials	\N	\N	\N	\N	\N
+33410	释	釋	shì	to soak	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 泡.
+33411	释	釋	shì	to shoot	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 射出.
+33412	释	釋	shì	to wash rice	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 淘米.
+33413	释	釋	shì	Śākyamuni	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	This sense of the word is synonymous with 釋迦牟尼.
+33414	序	\N	xù	order / sequence	noun	\N	\N	位	Position	\N	\N	\N	xu4.mp3	\N
+33415	胎	\N	tāi	womb	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+33416	幼体	幼體	yòutǐ	larva	noun	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
+33417	胎	\N	tāi	the number of times a female has become pregnant	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+33418	胎	\N	tāi	origin / root	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33419	胎	\N	tāi	an automobile tire	noun	\N	\N	机械	Mechanical	\N	\N	\N	\N	\N
+33420	兜瑟哆天	兜瑟哆天	Dōusèduōtiān	Tusita / Tushita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: tuṣita, Pali tusita; the fourth of the Six Heavens of the Realm of Desire in Buddhist cosmology 
+33421	威神	\N	Wēishén	 Anubhāva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: anubhāva, Pali: anubhāva
+33422	品位	\N	pǐnwèi	rank / grade / quality	noun	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
+33423	品位	\N	pǐnwèi	taste	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+33424	灭绝	滅絕	mièjué	to extinguish / to become extinct / to die out	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+33425	测知	測知	cèzhī	to detect / to sense	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33426	姝	\N	shū	a pretty woman	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33427	光耀	\N	guāngyào	dazzling / brilliant	adjective	\N	\N	美丽	Beauty	\N	\N	\N	\N	\N
+33428	暐	\N	wěi	the bright shining of the sun	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33429	金山	\N	Jīnshān	Kingsoft	proper noun	公司	Company	信息技术	Information Technology	\N	\N	\N	\N	A Chinese software vendor
+

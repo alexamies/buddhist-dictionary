@@ -67,6 +67,9 @@
             (Maximum of 100 characters).
           </span>
         </form>
+        <p ng-if="results.error">
+          Error: {{results.error}}
+        </p>
         <table class="table table-bordered table-hover" ng-if="results.words">
           <caption>Dictionary Search Results</caption>
           <thead>
