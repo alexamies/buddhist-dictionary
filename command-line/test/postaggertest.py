@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Unit tests for the bdict.glossgenerator module.
+"""Unit tests for the bdict.taggeddoc module.
 
 Tests the methods for part-of-speech tagging.
 """
@@ -45,7 +45,7 @@ class POSTaggerTest(unittest.TestCase):
         self.assertEqual(3, len(tagged_words))
         self.assertEqual(u'度/VV[dù | overcome]', tagged_words[0])
 
-    def testLoad(self):
+    def testLoadTagDefs(self):
         tagger = postagger.POSTagger()
         tag_defs = tagger._LoadTagDefs()
         self.assertTrue(tag_defs)

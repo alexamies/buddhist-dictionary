@@ -7,7 +7,7 @@ import codecs
 import re
 
 from bdict import cedict
-from bdict import taggeddoc
+from bdict import unigram
 
 TAG_DEF_FILE = '../data/dictionary/pos_penn.txt'
 
@@ -51,8 +51,7 @@ class POSTagger:
         """Constructor for POSTagger class.
         """
         self.tag_defs = self._LoadTagDefs()
-        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
-        self.wfreq = doc_analyzer.LoadWordSenseFreq() # Word sense frequencies
+        self.unigram_tagger = unigram.UnigramTagger()
         dictionary = cedict.ChineseEnglishDict()
         self.wdict = dictionary.OpenDictionary() # Word dictionary
 
@@ -110,20 +109,7 @@ class POSTagger:
         Returns:
           A dictionary word entry
         """
-        word_entry = self.wdict[traditional]
-        tag = self.GetTag(word_entry)
-        if (traditional in self.wfreq):
-            # Most frequently occuring is at the head of the list
-            wf_entry = self.wfreq[traditional][0]
-            word_id = wf_entry['word_id']
-            # print('%s looking for word id %s' % (traditional, word_id))
-            if word_id != word_entry['id']:
-                for w_entry in word_entry['other_entries']:
-                    # print('%s found id %s' % (traditional, w_entry['id']))
-                    if word_id == w_entry['id']:
-                        word_entry = w_entry
-                        break
-        return word_entry
+        return self.unigram_tagger.MostFrequentWord(traditional)
 
     def TagWord(self, traditional):
         """Find the most frequently used word sense and tag it.
