@@ -1147,7 +1147,7 @@
 1147	下岗	下崗	xiàgǎng	to be laid-off	verb	\N	\N	工作	Work	\N	\N	\N	xia4gang3.mp3	\N
 1148	朝代	\N	cháodài	dynasty	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
 1149	后	後	hòu	after / later / behind	noun	\N	\N	时间	Time	\N	\N	\N	hou4.mp3	\N
-1150	后	後	hòu	empress	noun	\N	\N	历史	History	\N	\N	\N	hou4.mp3	\N
+1150	后	後	hòu	empress / queen	noun	\N	\N	历史	History	\N	\N	\N	hou4.mp3	\N
 1151	一直	\N	yīzhí	straight (in a straight line) / continuously	adverb	\N	\N	时间	Time	\N	\N	\N	yi1zhi2.mp3	\N
 1152	零星	\N	língxīng	partial / fragmentary / scattered and few	adjective	\N	\N	数量	Quantity	\N	\N	\N	ling2xing1.mp3	\N
 1153	打工	\N	dǎgōng	to do manual labor for a living / to work in a part time job	verb	\N	\N	工作	Work	\N	\N	\N	da3gong1.mp3	\N
@@ -10923,7 +10923,7 @@
 10923	拼命	\N	pīnmìng	to do one's utmost	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 10924	拼命	\N	pīnmìng	doing one's utmost / with all one's might / at all costs	adverb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 10925	品种	品種	pǐnzhǒng	breed / variety	noun	\N	\N	种类	Category	\N	\N	\N	\N	\N
-10926	平安	\N	píng ān	safe and sound / peaceful	adjective	\N	\N	安全	Safety	\N	\N	\N	\N	\N
+10926	平安	\N	píng ān	safe and sound / peaceful	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 10927	平常	\N	píngcháng	ordinary / common	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 10928	平常	\N	píngcháng	ordinary times	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 10929	平时	平時	píngshí	ordinary times	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
@@ -25092,7 +25092,7 @@
 25092	山丘	\N	shānqiū	a hill	noun	\N	\N	地理	Geography	地形	Topography	\N	\N	\N
 25093	土墩	\N	tǔdūn	a mound	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 25094	竖立	豎立	shù lì	to erect / to set upright / to stand	verb	\N	\N	身姿	Posture	\N	\N	\N	\N	\N
-25095	本生经	本生經	běn shēng jīng	The Jataka Tales / Jataka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: , strories about the previous births of the Buddha
+25095	本生经	本生經	běn shēng jīng	The Jataka Tales / Jataka / Jātaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: jātaka, Pali: jātaka; strories about the previous births of the Buddha
 25096	巽	\N	xùn	to obey	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xun4.mp3	\N
 25097	巽	\N	Xùn	one of the Eight Trigrams symbolizing wood and wind / ☴	proper noun	\N	\N	神话	Mythology	中国	China	\N	\N	\N 
 25098	巽伽	\N	Xùnjiā	Saka / Shaka / Indo-Scythian	proper noun	\N	\N	历史	History	印度	India	\N	\N	Dynasty (185 BCE&mdash;73 BCE) in Northern India founded by the Saka or Scythian from Central Asia 
@@ -33464,4 +33464,36 @@
 33464	九	\N	jiǔ	ninth	ordinal	\N	\N	数量	Quantity	\N	\N	\N	jiu3.mp3	\N
 33465	十	\N	shí	tenth	ordinal	\N	\N	数量	Quantity	\N	\N	\N	shi2.mp3	\N
 33466	右	\N	yòu	right	adjective	\N	\N	位	Position	\N	\N	right.png	you4.mp3	\N
+33467	庠	\N	xiáng	a school / a country school	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33468	庠	\N	xiáng	to educate / to bring up / to nurture	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33469	骇	駭	hài	to astonish / to startle	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33470	惊惧	驚懼	jīngjù	panic / fright	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33471	惊起	驚起	jīngqǐ	to start in surprise / to give a jolt of surprise	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33472	骇	駭	hài	to hack	verb	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
+33473	后	\N	hòu	empress / queen	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	hou4.mp3	The modern simplified form was also an archaic variant of 後.
+33474	怵	\N	chù	to fear / to be timid	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33475	怵	\N	xù	to entice / to lure / to tempt	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33476	氷	\N	bīng	ice	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 冰.
+33477	凶	\N	xiōng	ominous / vicious / fierce / terrible / fearful	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	This modern simplified form was also an archaic variant of 兇.
+33478	趾	\N	zhǐ	toe	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33479	趾	\N	zhǐ	foot	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33480	趾	\N	zhǐ	foundation	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33481	偃寝	偃寢	yǎnqǐn	to lie supine / to lie down	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 仰卧 or 躺下.
+33482	仰卧	仰臥	yǎnqǐn	to lie supine	verb	\N	\N	身姿	Posture	\N	\N	\N	\N	\N
+33483	躺下	\N	tǎngxià	to lie down	verb	\N	\N	身姿	Posture	\N	\N	\N	\N	\N
+33484	安胜	安勝	ānshèng	peaceful	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 平安 or 安好.
+33485	安好	\N	ānhǎo	safe and sound / peaceful	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+33486	悲	\N	bēi	grieved / sorrowful 	adjective	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	\N
+33487	悲	\N	bēi	solemn and stirring / moving and tragic	adjective	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	\N
+33488	悲壮	悲壯	bēizhuàng	solemn and stirring / moving and tragic	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33489	悲凉	悲涼	bēiliáng	sorrowful / dismal	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33490	悲	\N	bēi	grieved and indignant	adjective	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	\N
+33491	眷念	\N	juànniàn	to think fondly of	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33492	悲	\N	bēi	to think fondly of	verb	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	Synonymous in this sense with 眷念.
+33493	悲	\N	bēi	to pity / to mercy / to have compassion for	verb	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	Synonymous in this sense with 哀怜 or 怜悯.
+33494	哀怜	\N	āilián	to pity / to mercy	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33495	悲	\N	bēi	to sigh	verb	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	Synonymous in this sense with 感叹 or 慨叹.
+33496	慨叹	\N	kǎitàn	to sigh with regret / to lament	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33497	可悲	\N	kěbēi	to be lamentable	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33498	悲	\N	bēi	suffering / misery	noun	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	Synonymous in this sense with 苦.
 
