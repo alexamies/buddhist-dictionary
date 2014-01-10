@@ -14,24 +14,28 @@ class TaggedDocTest(unittest.TestCase):
 
     def testLoadTaggedDoc1(self):
         filename = '../web/corpus/tagged/heart-sutra-xuanzang-tagged.txt'
-        tagged_words = taggeddoc.LoadTaggedDoc(filename)
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        tagged_words = doc_analyzer.LoadTaggedDoc(filename)
         self.assertTrue(tagged_words)
 
     def testLoadWordSenseFreq1(self):
-        wfreq = taggeddoc.LoadWordSenseFreq()
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        wfreq = doc_analyzer.LoadWordSenseFreq()
         self.assertTrue(wfreq)
         self.assertTrue(u'須菩提' in wfreq)
 
     def testSaveWordSenseFreq1(self):
         corpus_entry = {'pos_tagged': 'heart-sutra-xuanzang-tagged.txt'}
-        wfreq = taggeddoc.WordSenseFrequency(corpus_entry)
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        wfreq = doc_analyzer.WordSenseFrequency(corpus_entry)
         outfile = 'unigram_freq.txt'
-        taggeddoc.SaveWordSenseFreq(wfreq, outfile)
+        doc_analyzer.SaveWordSenseFreq(wfreq, outfile)
         self.assertTrue(os.path.isfile(outfile))
 
     def testWordSenseFrequency1(self):
         corpus_entry = {'pos_tagged': 'heart-sutra-xuanzang-tagged.txt'}
-        wfreq = taggeddoc.WordSenseFrequency(corpus_entry)
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        wfreq = doc_analyzer.WordSenseFrequency(corpus_entry)
         self.assertTrue(wfreq)
 
     def testParseLine1(self):
@@ -67,7 +71,8 @@ class TaggedDocTest(unittest.TestCase):
                          word_entry['english'])
 
     def testWordSenseForCorpus1(self):
-        wfreq = taggeddoc.WordSenseForCorpus()
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        wfreq = doc_analyzer.WordSenseForCorpus()
         self.assertTrue(wfreq)
 
 

@@ -36,8 +36,9 @@ class TaggerAccuracyTest(unittest.TestCase):
         generator = glossgenerator.GlossGenerator(output_type=glossgenerator.POS_TAGGED_TYPE)
         filename = generator.WriteDoc(corpus_entry)
         filename1 = '../web/corpus/tagged/heart-sutra-xuanzang-tagged.txt'
-        standard = taggeddoc.LoadTaggedDoc(filename1)
-        subject = taggeddoc.LoadTaggedDoc(filename)
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        standard = doc_analyzer.LoadTaggedDoc(filename1)
+        subject = doc_analyzer.LoadTaggedDoc(filename)
         result = postaggeraccuracy.TaggerAccuracy(standard, subject)
         self.assertTrue(0 < result <= 1)
 

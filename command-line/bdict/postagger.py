@@ -51,7 +51,8 @@ class POSTagger:
         """Constructor for POSTagger class.
         """
         self.tag_defs = self._LoadTagDefs()
-        self.wfreq = taggeddoc.LoadWordSenseFreq() # Word sense frequencies
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+        self.wfreq = doc_analyzer.LoadWordSenseFreq() # Word sense frequencies
         dictionary = cedict.ChineseEnglishDict()
         self.wdict = dictionary.OpenDictionary() # Word dictionary
 

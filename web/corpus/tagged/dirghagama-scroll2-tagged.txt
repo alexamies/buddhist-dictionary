@@ -5,7 +5,7 @@
 「/PU
 凡/VA[fán | ordinary]
 世/NN[shì | life]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 動/VV[dòng | to move]
 ，/PU
 有/VE[yǒu | to have]
@@ -16,7 +16,7 @@
 八/CD[bā | eight]
 ？/PU
 夫/MSP[fú | still]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 在/P[zài | in]
 水/NN[shuǐ | water]
 上/VA[shàng | above]
@@ -27,7 +27,7 @@
 風/NN[fēng | wind]
 ，/PU
 風/NN[fēng | wind]
-止/LC[zhǐ | to stop]
+止/VV[zhǐ | to stop]
 於/P[yú | in]
 空/NN[kòng | space]
 ，/PU
@@ -36,7 +36,7 @@
 風/NN[fēng | wind]
 有時/AD[yǒushí | sometimes]
 自/PN[zì | itself]
-起/LC[qǐ | to arise]
+起/VV[qǐ | to arise]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 大/VA[dà | big]
@@ -48,12 +48,12 @@
 擾/VV[rǎo | to disturb]
 則/CS[zé | expresses contrast with a previous sentence or clause]
 普/VA[pǔ | general]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 動/VV[dòng | to act]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-一/OD[yī | one]
+一/OD[yī | first]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -61,7 +61,7 @@
 阿難/NR[Ānán | Ananda]
 ！/PU
 有時/AD[yǒushí | sometimes]
-得/DER[dé | to obtain]
+得/VV[dé | to obtain]
 道/NN[dào | the path leading to the cessation of suffering]
 比丘/NN[bǐqiū | a monk]
 、/PU
@@ -78,7 +78,7 @@
 多/VA[duō | many]
 ，/PU
 觀/VV[guān | to look at]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 性/NN[xìng | nature]
 少/VA[shǎo | few]
 ，/PU
@@ -89,12 +89,12 @@
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 普/VA[pǔ | general]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 動/VV[dòng | to move]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-二/OD[èr | two]
+二/OD[èr | second]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -121,9 +121,9 @@
 大/VA[dà | great]
 動/VV[dòng | move]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-三/OD[sān | three]
+三/OD[sān | third]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -137,7 +137,7 @@
 胎/NN[tāi | womb]
 ，/PU
 從/P[cóng | from]
-右/LC[yòu | right]
+右/VA[yòu | right]
 脇/NN[xié | side of the human body]
 生/VV[shēng | to develop]
 ，/PU
@@ -151,9 +151,9 @@
 地/NR[dì | the Earth]
 動/VV[dòng | to move]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-四/OD[sì | four]
+四/OD[sì | fourth]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -161,7 +161,7 @@
 阿難/NR[Ānán | Ananda]
 ！/PU
 菩薩/NN[púsà | bodhisattva]
-初/LC[chū | at first]
+初/AD[chū | at first]
 成/VV[chéng | to finish]
 無上正覺/NR[Wú shàng zhèng jué | Anuttara bodhi]
 ，/PU
@@ -170,13 +170,13 @@
 此/DT[cǐ | this]
 時/NN[shí | time]
 ，/PU
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 大/VA[dà | big]
 震動/VV[zhèndòng | to shake]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-五/OD[wŭ | five]
+五/OD[wŭ | fifth]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -184,7 +184,7 @@
 阿難/NR[Ānán | Ananda]
 ！/PU
 佛/NR[Fó | Buddha]
-初/LC[chū | at first]
+初/AD[chū | at first]
 成道/VV[chéng dào | to become enlightened]
 ，/PU
 轉/VV[zhuǎn | to convey]
@@ -211,12 +211,12 @@
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 普/VA[pǔ | general]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 動/VV[dòng | to move]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-六/OD[liù | six]
+六/OD[liù | sixth]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -238,12 +238,12 @@
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 普/VA[pǔ | general]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 動/VV[dòng | to act]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-七/OD[qī | seven]
+七/OD[qī | seventh]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 復次/CC[fùcì | furthermore]
@@ -261,9 +261,9 @@
 大/VA[dà | big]
 振動/VV[zhèndòng | to shake]
 ，/PU
-是/VC[shì | this]
+是/PN[shì | this]
 為/VC[wèi | for]
-八/OD[bā | eight]
+八/OD[bā | eighth]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 以是/CC[yǐshì | for that reason]
@@ -271,7 +271,7 @@
 因緣/NN[yīnyuán | principal and secondary causes]
 ，/PU
 令/VV[lìng | to make]
-地/DEV[dì | the Earth]
+地/NR[dì | the Earth]
 大/VA[dà | great]
 動/VV[dòng | move]
 。/PU

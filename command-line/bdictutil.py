@@ -132,20 +132,21 @@ def main():
         else:
             print('Could not compute accuracy: no standard tagged file.')
     elif command == 'wordsensefreq':
-        outfile = 'unigram_freq.txt'
+        outfile = 'unigram.txt'
+        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
         if len(sys.argv) < 3:
             print('Word sense frequency will be computed for all corpus entries '
-                  'with a tagged document.')
-            wfreq = taggeddoc.WordSenseForCorpus()
-            taggeddoc.SaveWordSenseFreq(wfreq, outfile)
+                  'with a tagged document to %s.' % outfile)
+            wfreq = doc_analyzer.WordSenseForCorpus()
+            doc_analyzer.SaveWordSenseFreq(wfreq, outfile)
         else:
             doc_num = int(sys.argv[2])
             cmanager = corpusmanager.CorpusManager()
             corpus = cmanager.LoadCorpus()
             corpus_entry = corpus[doc_num-1]
             try:
-                wfreq = taggeddoc.WordSenseFrequency(corpus_entry)
-                taggeddoc.SaveWordSenseFreq(wfreq, outfile)
+                wfreq = doc_analyzer.WordSenseFrequency(corpus_entry)
+                doc_analyzer.SaveWordSenseFreq(wfreq, outfile)
             except app_exceptions.BDictException as e:
                 print(e)
     else:
