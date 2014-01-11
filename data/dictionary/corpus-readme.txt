@@ -1,4 +1,5 @@
-Explanation of corpus.txt, phrases.txt, and pos_penn.txt files
+Explanation of files used by Python programs. See dictionary.ddl for other tables.
+
 
 corpus.txt
 ===============================================================================
@@ -46,6 +47,7 @@ genre: The genre of the text, such as Prajnaparamita, Jataka, etc.
 period: The period that the text was translated to Chinese or created if 
         written in another language.
 
+
 phrases.txt
 ===============================================================================
 This a phrase dataset. The fields are:
@@ -78,6 +80,7 @@ name: a descriptive name of the tag
 list: if the list is a closed set then the list of words is given. Both simplified
       and traditional are included.
 
+
 unigram.txt
 ===============================================================================
 This table is for word sense frequency derived from POS tagged documents.
@@ -90,6 +93,23 @@ element_text: The element text in traditional Chinese
 word_id: Matching id in the word table
 
 frequency: The frequency of occurence of the word sense
+
+
+bigram.txt
+===============================================================================
+This table is for bigram frequency derived from POS tagged documents.
+The Penn Treebank tag definitions are used for part-of-speech tags. The fields are:
+
+pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+
+previous_text: The element text of the first word in traditional Chinese
+
+element_text: The element text of the second (target) word in traditional Chinese
+
+word_id: Matching id of the target word in the word table
+
+frequency: The frequency of occurence of the bigram
+
 
 Notes:
 ===============================================================================

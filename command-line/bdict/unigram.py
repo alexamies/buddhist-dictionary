@@ -27,7 +27,7 @@ class UnigramTagger:
         """
         dictionary = cedict.ChineseEnglishDict()
         self.wdict = dictionary.OpenDictionary() # Word dictionary
-        self.wfreq = self.LoadUnigramFreq() # unigram word sense frequencies
+        self.wfreq = self.LoadFreqTable() # unigram word sense frequencies
         self.wcount = 0
 
     def FindFreqCorpus(self):
@@ -52,7 +52,7 @@ class UnigramTagger:
                         wfreq[key]['freq'] += wfreq_entry[key]['freq']
         return taggeddocparser.AnalysisResults(wfreq, self.wcount)
 
-    def LoadUnigramFreq(self):
+    def LoadFreqTable(self):
         """Loads the unigram word sense frequency distribution from a file.
 
         The unigram frequencies are stored in a file. This method is used

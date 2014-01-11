@@ -11,7 +11,7 @@ from bdict import configmanager
 from bdict import corpusmanager
 from bdict import taggeddocparser
 
-WORD_FREQ_FILE = 'biigram.txt'
+WORD_FREQ_FILE = 'bigram.txt'
 
 
 class BigramTagger:
@@ -25,6 +25,7 @@ class BigramTagger:
         """
         dictionary = cedict.ChineseEnglishDict()
         self.wdict = dictionary.OpenDictionary() # Word dictionary
+        self.wfreq = self.LoadFreqTable() # bigram word sense frequencies
         self.wcount = 0
 
 
@@ -50,7 +51,7 @@ class BigramTagger:
                         wfreq[key]['freq'] += wfreq_entry[key]['freq']
         return taggeddocparser.AnalysisResults(wfreq, self.wcount)
 
-    def LoadBigramFreq(self):
+    def LoadFreqTable(self):
         """Loads the bigram word sense frequency distribution from a file.
 
         The bigram frequencies are stored in a file. This method is used
@@ -60,22 +61,60 @@ class BigramTagger:
           A dictionary structure indexed by traditional text for the Chinese words.
           The frequency data is given as a list on the dictionary entry.
         """
+        manager = configmanager.ConfigurationManager()
+        config = manager.LoadConfig()
+        directory = config['data_directory']
+        filename = '%s/%s' % (directory, WORD_FREQ_FILE)
         wfreq = {}
+        with codecs.open(filename, 'r', "utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                tokens = line.split('\t')
+                entry = {'pos_tagged_text': tokens[0].strip()}
+                if len(tokens) == 5:
+                    previous_text = tokens[1].strip()
+                    entry['previous_text'] = previous_text
+                    element_text = tokens[2].strip()
+                    entry['element_text'] = element_text
+                    key = previous_text, element_text
+                    entry['word_id'] = tokens[3].strip()
+                    entry['frequency'] = int(tokens[4])
+                    if key not in wfreq:
+                        wfreq[key] = [entry]
+                    else:
+                        wfreq[key].append(entry)
+                else:
+                    print('Did not get expected number of tokens for line: %s' % line)
         return wfreq
 
-    def MostFrequentWord(self, traditional):
+    def MostFrequentWord(self, previous, traditional):
         """Find the most frequently used word sense based on bigram frequency.
 
         Given the traditional word text, find the best word based on word sense
         frequency.
 
         Args:
+          previous: traditional Chinese text for the previous word
           traditional: traditional Chinese text for the word
 
         Returns:
           A dictionary word entry
         """
         word_entry = self.wdict[traditional]
+        key = previous, traditional
+        if (key in self.wfreq):
+            # Most frequently occuring is at the head of the list
+            wf_entry = self.wfreq[key][0]
+            word_id = wf_entry['word_id']
+            # print('%s looking for word id %s' % (traditional, word_id))
+            if word_id != word_entry['id']:
+                for w_entry in word_entry['other_entries']:
+                    # print('%s found id %s' % (traditional, w_entry['id']))
+                    if word_id == w_entry['id']:
+                        word_entry = w_entry
+                        break
         return word_entry
 
     def SaveFreq(self, wfreq, filename):

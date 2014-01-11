@@ -6,6 +6,7 @@ the POS is returned based on dictionary lookup.
 import codecs
 import re
 
+from bdict import bigram
 from bdict import cedict
 from bdict import unigram
 
@@ -52,6 +53,7 @@ class POSTagger:
         """
         self.tag_defs = self._LoadTagDefs()
         self.unigram_tagger = unigram.UnigramTagger()
+        self.bigram_tagger = bigram.BigramTagger()
         dictionary = cedict.ChineseEnglishDict()
         self.wdict = dictionary.OpenDictionary() # Word dictionary
 
@@ -97,7 +99,7 @@ class POSTagger:
             tagged_words.append(tagged_word)
         return tagged_words
 
-    def MostFrequentWord(self, traditional):
+    def MostFrequentWord(self, traditional, previous=None):
         """Find the most frequently used word sense.
 
         Given the traditional word text, find the best word based on word sense
@@ -109,9 +111,14 @@ class POSTagger:
         Returns:
           A dictionary word entry
         """
-        return self.unigram_tagger.MostFrequentWord(traditional)
+        word = None
+        if previous:
+            word = self.bigram_tagger.MostFrequentWord(previous, traditional)
+        if not word:
+            word = self.unigram_tagger.MostFrequentWord(traditional)
+        return word
 
-    def TagWord(self, traditional):
+    def TagWord(self, traditional, previous=None):
         """Find the most frequently used word sense and tag it.
 
         Given the traditional word text, find the best word based on word sense

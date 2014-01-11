@@ -11,9 +11,9 @@ from bdict import unigram
 
 class UnigramTaggerTaggerTest(unittest.TestCase):
 
-    def testLoadUnigramFreq(self):
+    def testLoadFreqTable(self):
         tagger = unigram.UnigramTagger()
-        wfreq = tagger.LoadUnigramFreq()
+        wfreq = tagger.LoadFreqTable()
         self.assertTrue(wfreq)
         key = u'須菩提'
         self.assertTrue(key in wfreq)
