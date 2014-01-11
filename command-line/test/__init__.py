@@ -7,4 +7,6 @@ $ python -m unittest discover test '*.py'
 or run specific unit tests like
 
 $ python -m unittest test.<UNIT_TEST_MODULE>
+$ python -m unittest test.<UNIT_TEST_MODULE>.<TEST_CLASS>
+$ python -m unittest test.<UNIT_TEST_MODULE>.<TEST_CLASS>.<TEST_METHOD>
 """

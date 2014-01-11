@@ -13,6 +13,7 @@ from bdict import glossgenerator
 from bdict import postaggeraccuracy
 from bdict import sanskritvocab
 from bdict import taggeddoc
+from bdict import taggeddocparser
 
 
 def PrintUsage():
@@ -123,8 +124,8 @@ def main():
                 config = manager.LoadConfig()
                 tagged_directory = config['tagged_directory']
                 standard_file = '%s/%s' % (tagged_directory, pos_tagged)
-                standard = taggeddoc.LoadTaggedDoc(standard_file)
-                subject = taggeddoc.LoadTaggedDoc(filename)
+                standard = taggeddocparser.LoadTaggedDoc(standard_file)
+                subject = taggeddocparser.LoadTaggedDoc(filename)
                 accuracy = postaggeraccuracy.TaggerAccuracy(standard, subject)
                 print('Tagging accuracy: %f' % accuracy)
             except app_exceptions.BDictException as e:
@@ -132,23 +133,16 @@ def main():
         else:
             print('Could not compute accuracy: no standard tagged file.')
     elif command == 'wordsensefreq':
-        outfile = 'unigram.txt'
-        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
         if len(sys.argv) < 3:
-            print('Word sense frequency will be computed for all corpus entries '
-                  'with a tagged document to %s.' % outfile)
-            wfreq = doc_analyzer.WordSenseForCorpus()
-            doc_analyzer.SaveWordSenseFreq(wfreq, outfile)
+            doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
+            results = doc_analyzer.WordSenseForCorpus()
+            print('Word count for corpus: %d' % results[0])
+            print('Unigram word sense frequency compiled to %s.' % results[1])
+            print('Bigram word sense frequency compiled to %s.' % results[2])
         else:
-            doc_num = int(sys.argv[2])
-            cmanager = corpusmanager.CorpusManager()
-            corpus = cmanager.LoadCorpus()
-            corpus_entry = corpus[doc_num-1]
-            try:
-                wfreq = doc_analyzer.WordSenseFrequency(corpus_entry)
-                doc_analyzer.SaveWordSenseFreq(wfreq, outfile)
-            except app_exceptions.BDictException as e:
-                print(e)
+            print('A document number is required for the wordsensefreq command')
+            PrintUsage()
+            sys.exit(2)
     else:
         print('Did not understand command.')
         PrintUsage()

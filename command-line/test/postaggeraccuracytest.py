@@ -8,6 +8,7 @@ import unittest
 from bdict import glossgenerator
 from bdict import postaggeraccuracy
 from bdict import taggeddoc
+from bdict import taggeddocparser
 
 
 class TaggerAccuracyTest(unittest.TestCase):
@@ -36,9 +37,8 @@ class TaggerAccuracyTest(unittest.TestCase):
         generator = glossgenerator.GlossGenerator(output_type=glossgenerator.POS_TAGGED_TYPE)
         filename = generator.WriteDoc(corpus_entry)
         filename1 = '../web/corpus/tagged/heart-sutra-xuanzang-tagged.txt'
-        doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
-        standard = doc_analyzer.LoadTaggedDoc(filename1)
-        subject = doc_analyzer.LoadTaggedDoc(filename)
+        standard = taggeddocparser.LoadTaggedDoc(filename1)
+        subject = taggeddocparser.LoadTaggedDoc(filename)
         result = postaggeraccuracy.TaggerAccuracy(standard, subject)
         self.assertTrue(0 < result <= 1)
 

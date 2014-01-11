@@ -6,7 +6,6 @@ Tests the methods for unigram part-of-speech tagging.
 import os.path
 import unittest
 
-from bdict import cedict
 from bdict import unigram
 
 
@@ -26,44 +25,31 @@ class UnigramTaggerTaggerTest(unittest.TestCase):
         expected = u'17908'
         self.assertEqual(expected, word['id'])
 
-    def testSaveWordSenseFreq1(self):
+    def testSaveWordSenseFreq(self):
         corpus_entry = {'pos_tagged': 'heart-sutra-xuanzang-tagged.txt'}
         tagger = unigram.UnigramTagger()
         wfreq = tagger.WordSenseFrequency(corpus_entry)
-        outfile = 'unigram_test.txt'
-        tagger.SaveUnigramFreq(wfreq, outfile)
+        outfile = 'unigram_heart_test.txt'
+        tagger.SaveFreq(wfreq, outfile)
         self.assertTrue(os.path.isfile(outfile))
 
     def testWordSenseFrequency1(self):
+        corpus_entry = {'pos_tagged': 'test-tagged.txt'}
+        tagger = unigram.UnigramTagger()
+        wfreq = tagger.WordSenseFrequency(corpus_entry)
+        self.assertTrue(wfreq)
+        self.assertEquals(5, len(wfreq))
+        key = u'5047'
+        self.assertTrue(key in wfreq)
+        self.assertTrue(1, wfreq[key])
+
+    def testWordSenseFrequency2(self):
         corpus_entry = {'pos_tagged': 'heart-sutra-xuanzang-tagged.txt'}
         tagger = unigram.UnigramTagger()
         wfreq = tagger.WordSenseFrequency(corpus_entry)
         self.assertTrue(wfreq)
-
-    def testGetBestWordSense1(self):
-        dictionary = cedict.ChineseEnglishDict()
-        wdict = dictionary.OpenDictionary() # Word dictionary
-        line = u'咒/NN[zhòu | mantra]'
-        wfreq_entry = {'tagged_text': line,
-                       'element_text': u'咒',
-                       'tag': 'NN',
-                       'english': 'mantra'
-                      }
-        word_entry = unigram._GetBestWordSense(wdict, wfreq_entry)
-        self.assertEqual(u'mantra', word_entry['english'])
-
-    def testGetBestWordSense2(self):
-        dictionary = cedict.ChineseEnglishDict()
-        wdict = dictionary.OpenDictionary() # Word dictionary
-        line = u'阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi]'
-        wfreq_entry = {'tagged_text': line,
-                       'element_text': u'阿耨多羅三藐三菩提',
-                       'tag': 'NN',
-                       'english': u'anuttara samyaksaṃbodhi'
-                      }
-        word_entry = unigram._GetBestWordSense(wdict, wfreq_entry)
-        self.assertEqual(u'anuttara-samyak-sambodhi / anuttara samyaksaṃbodhi / anuttarasamyaksaṃbodhi', 
-                         word_entry['english'])
+        key = u'5047'
+        self.assertTrue(key in wfreq)
 
 
 if __name__ == '__main__':

@@ -14,41 +14,6 @@ from bdict import taggeddocparser
 
 WORD_FREQ_FILE = 'unigram.txt'
 
-PENN_2_DICT = {  # Dictionary for lookup of word entry grammar based on POS tag.
-               'VA': 'adjective',
-               'VC': 'verb',
-               'VE': 'verb',
-               'VV': ['verb', 'auxiliary verb'],
-               'NR': 'proper noun',
-               'NT': 'noun',
-               'NN': 'noun',
-               'LC': 'preposition',
-               'PN': 'pronoun',
-               'DT': 'pronoun',
-               'CD': 'number',
-               'OD': 'ordinal',
-               'M': 'measure word',
-               'AD': 'adverb',
-               'P': 'preposition',
-               'CC': 'conjunction',
-               'CS': 'conjunction',
-               'DEC': 'particle',
-               'DEG': 'particle',
-               'MSP': ['particle', 'suffix'],
-               'DEV': 'particle',
-               'SP': 'particle',
-               'AS': 'particle',
-               'ETC': 'particle',
-               'IJ': 'interjection',
-               'ON': 'onomatopoeia',
-               'PU': 'punctuation',
-               'JJ': 'other modifier',
-               'FW': 'foreign',
-               'LB': 'bei- construction',
-               'SB': 'other',
-               'BA': 'ba- construction'
-              }
-
 
 class UnigramTagger:
     """Class analyzes the PoS tagged documents to compile statistics.
@@ -64,6 +29,28 @@ class UnigramTagger:
         self.wdict = dictionary.OpenDictionary() # Word dictionary
         self.wfreq = self.LoadUnigramFreq() # unigram word sense frequencies
         self.wcount = 0
+
+    def FindFreqCorpus(self):
+        """Finds the unigram word sense frequency for the entire tagged corpus.
+
+        Return:
+          A taggeddocparser.AnalysisResults object, including a dictionary structure 
+          with the word sense frequency.
+        """
+        cmanager = corpusmanager.CorpusManager()
+        tagged_entries = cmanager.GetAllTagged()
+        wfreq = {}
+        for entry in tagged_entries:
+            wfreq_entry = self.WordSenseFrequency(entry)
+            if not wfreq:
+                wfreq =  wfreq_entry
+            else:
+                for key in wfreq_entry.keys():
+                    if key not in wfreq:
+                        wfreq[key] = wfreq_entry[key]
+                    else:
+                        wfreq[key]['freq'] += wfreq_entry[key]['freq']
+        return taggeddocparser.AnalysisResults(wfreq, self.wcount)
 
     def LoadUnigramFreq(self):
         """Loads the unigram word sense frequency distribution from a file.
@@ -126,7 +113,7 @@ class UnigramTagger:
                         break
         return word_entry
 
-    def SaveUnigramFreq(self, wfreq, filename):
+    def SaveFreq(self, wfreq, filename):
         """Saves the unigram word sense frequency distribution to a file.
 
         Use the FindUnigramFreq() method to find the frequency
@@ -143,28 +130,6 @@ class UnigramTagger:
                 freq = wfreq[k]['freq']
                 element_text = wfreq[k]['element_text']
                 f.write("%s\t%s\t%s\t%d\n" % (tagged_text, element_text, k, freq))
-
-    def FindUnigramFreqCorpus(self):
-        """Finds the unigram word sense frequency for the entire tagged corpus.
-
-        Return:
-          A dictionary structure with the word sense frequency.
-        """
-        cmanager = corpusmanager.CorpusManager()
-        tagged_entries = cmanager.GetAllTagged()
-        wfreq = {}
-        for entry in tagged_entries:
-            wfreq_entry = self.WordSenseFrequency(entry)
-            if not wfreq:
-                wfreq =  wfreq_entry
-            else:
-                for key in wfreq_entry.keys():
-                    if key not in wfreq:
-                        wfreq[key] = wfreq_entry[key]
-                    else:
-                        wfreq[key]['freq'] += wfreq_entry[key]['freq']
-        print('WordSenseForCorpus, word count for corpus: %d' % self.wcount)
-        return wfreq
 
     def WordSenseFrequency(self, corpus_entry):
         """Finds the unigram word sense frequency from words in the corpus entry.
@@ -193,84 +158,28 @@ class UnigramTagger:
         directory = config['tagged_directory']
         filename = '%s/%s' % (directory, pos_tagged)
         wfreq = {}
-        with codecs.open(filename, 'r', "utf-8") as f:
-            # print('Reading input file %s ' % filename)
-            for line in f:
-                line = line.strip()
-                if not line:
-                    continue
-                element = taggeddocparser.ParseLine(line)
-                if 'tag' not in element:
-                    print('Warning: element has no tag "%s"' % element)
-                    continue
-                tag = element['tag']
-                if tag == u'PU':
-                    continue
-                self.wcount += 1
-                word_entry = _GetBestWordSense(self.wdict, element)
-                element_text = element['element_text']
-                if not word_entry:
-                    print('Warning: could not find %s in dictionary.' % element_text)
-                    continue
-                word_id = word_entry['id']
-                if word_id in wfreq:
-                    elem = wfreq[word_id]
-                    elem['freq'] += 1
-                else:
-                    element['freq'] = 1
-                    wfreq[word_id] = element
-        return wfreq
-
-
-def _GetBestWordSense(wdict, wfreq_entry):
-    element_text = wfreq_entry['element_text']
-    tag = wfreq_entry['tag']
-    if element_text not in wdict:
-        print('Warning: could not find %s in dictionary.' % element_text)
-        return None
-    word_entry = wdict[element_text]
-    if tag not in PENN_2_DICT:
-        print('Warning: could not find tag %s in mapping for word %s.' % (tag, element_text))
-    else:
-        # find best match based on grammar
-        grammar = word_entry['grammar']
-        if 'english' not in wfreq_entry:
-            print('No English text for entry %s' % wfreq_entry['tagged_text'])
-            return word_entry
-        english = wfreq_entry['english']
-        if not _GrammarMatch(tag, grammar) or not _GlossMatch(wfreq_entry, word_entry):
-            # print('Tag %s for word %s grammar %s does not match grammar.' % (tag, element_text, grammar))
-            if 'other_entries' not in word_entry or not word_entry['other_entries']:
-                print('No other entries for word %s grammar %s gloss %s.' % (element_text, grammar, english))
+        tagged_words = taggeddocparser.LoadTaggedDoc(filename)
+        for element in tagged_words:
+            if 'tag' not in element:
+                print('Warning: element has no tag "%s"' % element)
+                continue
+            tag = element['tag']
+            if tag == u'PU':
+                continue
+            self.wcount += 1
+            word_entry = taggeddocparser.GetBestWordSense(self.wdict, element)
+            element_text = element['element_text']
+            # tagged_text = element['tagged_text']
+            # print('WordSenseFrequency tag "%s", element_text "%s" tagged_text "%s"' % (tag, element_text, tagged_text))
+            if not word_entry:
+                print('WordSenseFrequency warning: could not find %s in dictionary.' % element_text)
+                continue
+            word_id = word_entry['id']
+            if word_id in wfreq:
+                elem = wfreq[word_id]
+                elem['freq'] += 1
             else:
-                other_entries = word_entry['other_entries']
-                for entry in other_entries:
-                    if _GrammarMatch(tag, entry['grammar']) and _GlossMatch(wfreq_entry, entry):
-                        word_entry = entry
-                        break
-                if not _GrammarMatch(tag, word_entry['grammar']) or not _GlossMatch(wfreq_entry, word_entry):
-                    print('_GetBestWordSense: Could not find match for element '
-                          'text %s tag %s gloss "%s" among %d entries based on '
-                          'grammar or gloss.' % (element_text, tag, english, 
-                          len(other_entries)+1))
-    return word_entry
-
-
-def _GlossMatch(wfreq_entry, wdict_entry):
-    """True if the dictionary word entry english matches the word frequency gloss.
-    """
-    if 'english' not in wfreq_entry:
-        print('No English gloss for wfreq_entry %' % wfreq_entry['element_text'])
-        return False
-    gloss = wfreq_entry['english']
-    english = wdict_entry['english']
-    return english.find(gloss) > -1
-
-def _GrammarMatch(tag, grammar):
-    """True if the dictionary word entry grammar matches the Penn POS tag
-    """
-    return (grammar == PENN_2_DICT[tag] 
-            or
-            (type(PENN_2_DICT[tag]) is list and grammar in PENN_2_DICT[tag])
-           )
+                element['freq'] = 1
+                wfreq[word_id] = element
+        return wfreq
 
