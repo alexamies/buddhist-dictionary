@@ -25,7 +25,8 @@ $grammarCnLookup = array('noun'  => "<a href='/grammar.php#nouns'>Noun</a>",
                          'interjection' => "<a href='/grammar.php#interjections'>Interjection</a>",
                          'pattern' => "Pattern",
                          'set phrase' => "<a href='/grammar_phrases.php#set_phrases'>Set Phrase</a>",
-                         'expression' => "Expression"
+                         'expression' => "Expression",
+                         'foreign' => "Foreign Word"
 			);
 
 ?>

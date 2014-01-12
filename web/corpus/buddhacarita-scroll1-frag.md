@@ -1,6 +1,6 @@
 ##  Buddhacarita, Scroll 1 Fragment 北涼曇無讖 《佛所行讚》卷1〈1 生品〉
 
-Description: The Chinese text of the Diamond Sūtra from the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
+Description: The Chinese text of the Sūtra from the Taisho Tripitaka.
 
 Period: Northern Liang 398－439
 
@@ -18,7 +18,7 @@ Translator: Dharmakṣema
 
 Document: [Buddhacarita, Scroll 1] (tripitaka.cbeta.org/zh-cn/T04n0192_001 "Buddhacarita, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/buddhacarita-scroll1-frag.txt "Diamond Sutra Plain Text")
+Alternate formats: [Plain text file] (corpus/buddhacarita-scroll1-frag.txt "Plain Text Document")
 
 Start marker: 爾時摩耶后，
 

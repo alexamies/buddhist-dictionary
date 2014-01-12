@@ -581,8 +581,8 @@
 581	下	\N	xià	bottom / down	noun	\N	\N	位	Position	\N	\N	\N	xia4.mp3	\N
 582	下	\N	xià	to go down / to get off	verb	方向	Direction	移动	Movement	\N	\N	\N	xia4.mp3	Frequently used as a <a href='http://chinesenotes.com/grammar_sentence_elements.php#potential'>potential complement</a> (可能补语).
 583	下	\N	xià	measure word for time	measure word	\N	\N	时间	Time	\N	\N	\N	xia4.mp3	\N
-584	上	\N	shàng	above / previous	adjective	\N	\N	数量	Quantity	\N	\N	\N	shang4.mp3	\N
-585	上	\N	shàng	the position on or above something	pronoun	\N	\N	数量	Quantity	\N	\N	\N	shang4.mp3	Also classified as a determiner.
+584	上	\N	shàng	above / previous	adjective	\N	\N	位	Position	\N	\N	\N	shang4.mp3	\N
+585	上	\N	shàng	the position on or above something	noun	\N	\N	位	Position	\N	\N	\N	shang4.mp3	Also classified as a determiner.
 586	上	\N	shàng	to go up / to go forward	verb	方向	Direction	移动	Movement	\N	\N	\N	shang4.mp3	One of the most versatile verbs in Chinese it is used to indicate progression or advancment in a variety of contexts.
 587	轮	輪	lún	round	measure word	\N	\N	数量	Quantity	\N	\N	\N	lun2.mp3	Used for natural cyclic events, such as sun rises or human events that are expected to repeat, such as rounds of sports competitions.
 588	轮	輪	lún	wheel	noun	\N	\N	机械	Mechanical	\N	\N	\N	lun2.mp3	\N
@@ -4076,7 +4076,7 @@
 4076	小标题	小標題	xiǎo biāotí	caption / subtitle	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N
 4077	菜刀	\N	cài dāo	meat cleaver / knife	noun	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
 4078	刀	\N	dāo	knife	noun	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
-4079	莲花	蓮花	liánhuā	a lotus	noun	花	Flower	植物学	Botany	\N	\N	\N	\N	\N
+4079	莲花	蓮花	liánhuā	a lotus / a lotus flower	noun	花	Flower	植物学	Botany	\N	\N	\N	\N	\N
 4080	承蒙	承矇	chéngméng	to be indebted	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 4081	你	\N	nǐ	you	pronoun	人称代词	Personal Pronoun	人	People	\N	\N	\N	\N	\N
 4082	造	\N	zào	to make / to build / to invent / to manufacture	verb	\N	\N	行为	Actions	\N	\N	\N	zao4.mp3	\N
@@ -4675,7 +4675,7 @@
 4675	妊	\N	rèn	to be pregnant	verb	\N	\N	健康	Health	\N	\N	\N	ren4.mp3	\N
 4676	娠	\N	shēn	to be pregnant	verb	\N	\N	健康	Health	\N	\N	\N	shen1.mp3	\N
 4677	妊娠	\N	rènshēn	pregnancy / gestation	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
-4678	牙	\N	yá	tooth / ivory	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+4678	牙	\N	yá	tooth / tusk	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 4679	病	\N	bìng	ailment / sickness / illness / disease	noun	\N	\N	健康	Health	\N	\N	\N	bing4.mp3	\N
 4680	病	\N	bìng	to be sick	verb	\N	\N	健康	Health	\N	\N	\N	bing4.mp3	\N
 4681	早	\N	zǎo	early / morning	noun	\N	\N	时间	Time	\N	\N	\N	zao3.mp3	\N
@@ -33559,3 +33559,30 @@
 33559	他	\N	tā	ta	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	ta1.mp3	Used for the sound in mantras
 33560	打乱	打亂	dǎluàn	to disturb / to upset	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 33561	白	\N	bái	white	adjective	颜色	Color	颜色	Color	\N	\N	\N	bai2.mp3	White in color
+33562	求那跋陀罗	求那跋陀羅	qiúnàbátuóluó	 Gunabhadra	proper noun	译师	Translator	佛教	Buddhism	印度	India	\N	\N	Sanskrit: guṇabhadra; 394 - 468, Indian monk and sutra translator, translated the Sūtra on Past and Present Causes and Effects 過去現在因果經
+33563	慈和	\N	cíhé	kindly / amiable	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33564	劝化	勸化	quànhuà	to persuade / to urge virtue	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+33565	敕	\N	chì	imperial orders	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33566	敕	勅	chì	imperial orders	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 敕.
+33567	晡	\N	bū	3-5 p.m.	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33568	鹥	鷖	yī	wigeon	noun	鸟	Bird	动物学	Zoology	\N	\N	\N	\N	Anas penelope, a Eurasian duck
+33569	鹥	鷖	yī	a seagull	noun	鸟	Bird	古文	Classical Chinese	\N	\N	\N	\N	\N
+33570	陛	\N	bì	the steps to the throne	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33571	悚	\N	sǒng	frightened	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33572	歛	\N	hān	to desire	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 欲念 in this sense.
+33573	歛	\N	hān	to give	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 给予 in this sense.
+33574	歛	\N	liǎn	to assemble / to gather	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 敛 in this sense.
+33575	歛	\N	liàn	to assemble / to gather	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 敛 in this sense.
+33576	欲念	\N	yùniàn	to desire	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33577	蓝毘尼	藍毘尼	Lánpíní	Lumbini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: lumbinī, place of birth of the Buddha
+33578	难陀龙王	難陀龍王	Nántuó Lóng Wáng	Nanda	proper noun	龙王	Dragon King	佛教	Buddhism	\N	\N	\N	\N	Dragon king that appears in stories of the birth of the Buddha, such as the Sūtra on Past and Present Causes and Effects 過去現在因果經. One of the eight great dragon kings.
+33579	十九	\N	shíjiǔ	nineteen	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+33580	牙	\N	yá	ivory	noun	\N	\N	配饰	Jewelry	\N	\N	\N	\N	\N
+33581	车辇	車輦	chēniǎn	the emperor's carriage	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33582	车辇	車輦	chēniǎn	a vehicle	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 车辆 in this sense.
+33583	恬静	恬靜	tiánjìng	still / peaceful / quiet	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33584	毘舍	\N	Píshè	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
+33585	吠奢	\N	Fèishē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
+33586	毘奢	\N	Píshē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
+33587	鞞舍	鞞舍	Bīshē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
+
