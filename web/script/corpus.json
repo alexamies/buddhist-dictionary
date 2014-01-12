@@ -8,7 +8,7 @@
 ,
 {"doc_type": "Sūtra","source_name": "Sūtra of the Medicine Buddha 藥師琉璃光如來本願功德經","reference": "Vol. 14, No. 450","language": "Chinese","start": "如是我聞","charset": "HTML","plain_text": "medicine_buddha_sutra.txt","uri": "corpus_entry.php?uri=medicine_buddha_sutra.md","period": "602－664","translator": "Xuanzang","source": "Taisho Tripitaka","genre": "Mahāyāna","end": "本網站係採用","type": "file","id": "5"}
 ,
-{"doc_type": "Sūtra","source_name": "The Amitābha Sūtra 佛說阿彌陀經","reference": "Vol. 12 No. 0366","language": "Chinese","start": "如是我聞","charset": "Traditional","plain_text": "amitabha-sutra-kumarajiva.txt","uri": "corpus_entry.php?uri=amitabha-sutra-kumarajiva.md","period": "334－413","translator": "Kumārajīva","source": "Taisho Tripitaka","genre": "Pure Land","end": "本網站係採用","type": "file","id": "6"}
+{"doc_type": "Sūtra","source_name": "The Amitābha Sūtra 佛說阿彌陀經","reference": "Vol. 12 No. 0366","language": "Chinese","start": "如是我聞","charset": "Traditional","plain_text": "amitabha-sutra-kumarajiva.txt","uri": "corpus_entry.php?uri=amitabha-sutra-kumarajiva.md","period": "334－413","translator": "Kumārajīva","source": "Taisho Tripitaka","pos_tagged": "amitabha-sutra-kumarajiva-tagged.txt","genre": "Pure Land","end": "本網站係採用","type": "file","id": "6"}
 ,
 {"doc_type": "Sūtra","source_name": "Sūtra on the Eight Realizations of the Great Beings 佛說八大人覺經","reference": "Vol. 17, No. 779","language": "Chinese","start": "為佛弟子","charset": "Traditional","plain_text": "eight-ealizations-anshigao.txt","uri": "corpus_entry.php?uri=eight-ealizations-anshigao.md","period": "c. 168","translator": "An Shih Kao","source": "Taisho Tripitaka","pos_tagged": "eight-ealizations-anshigao-tagged.txt","genre": "Mahāyāna","end": "本網站係採用","type": "file","id": "7"}
 ,
@@ -45,4 +45,8 @@
 {"doc_type": "Sūtra","source_name": "Dīrghāgama, Scroll 2 Fragment 長阿含經卷2部分","reference": "Vol. 1, No. 1","language": "Chinese","start": "佛告阿難：「凡世地動，有八因緣。","charset": "Traditional","plain_text": "dirghagama-scroll2.txt","uri": "corpus_entry.php?uri=dirghagama-scroll2.md","period": "Later Qin 384－417","source": "Taisho Tripitaka","pos_tagged": "dirghagama-scroll2-tagged.txt","genre": "Āgama","end": "爾時，世尊即說偈言","type": "file","id": "23"}
 ,
 {"doc_type": "Sūtra","source_name": "Buddhacarita, Scroll 1 Fragment 佛所行讚卷1部分","reference": "Vol. 4, No. 192","language": "Chinese","start": "爾時摩耶后，","charset": "Traditional","plain_text": "buddhacarita-scroll1-frag.txt","uri": "corpus_entry.php?uri=buddhacarita-scroll1-frag.md","period": "Northern Liang 398－439","translator": "Dharmakṣema","source": "Taisho Tripitaka","genre": "Jātaka","end": "時彼林中有，","type": "file","id": "24"}
+,
+{"doc_type": "Sūtra","source_name": "Past and Present Causes and Effects Fragment, Scroll 1 過去現在因果經卷1部分","reference": "Vol. 3, no. 189, p. 624, a20-p. 626, a22","language": "Chinese","start": "爾時菩薩觀降胎時至","charset": "Traditional","plain_text": "past-present-causes-scroll1-frag.txt","uri": "corpus_entry.php?uri=past-present-causes-scroll1-frag.md","period": "Liu Song 435-443","translator": "Gunabhadra","source": "Taisho Tripitaka","genre": "Jātaka","end": "當爾之時，諸釋種姓","type": "file","id": "25"}
+,
+{"doc_type": "Sūtra","source_name": "Shijia Pu, Scroll 1 釋迦譜卷1","reference": "Vol. 50, no. 2040, p. 10, a22-23","language": "Chinese","start": "","charset": "Traditional","plain_text": "shijia-pu-scroll1.txt","uri": "corpus_entry.php?uri=shijia-pu-scroll1.md","period": "Liang 502-557","translator": "Seng You","source": "Taisho Tripitaka","genre": "Jātaka","type": "file","id": "26"}
 ]
