@@ -804,7 +804,7 @@
 804	社会主义	社會主義	shèhuì zhǔyì	socialism	noun	\N	\N	政治	Politics	\N	\N	\N	sh4hui4zhu3yi4.mp3	\N
 805	现代化	現代化	xiàndàihuà	modernization	noun	\N	\N	政治	Politics	\N	\N	\N	xian4dai4hua2.mp3	\N
 806	建设	建設	jiànshè	to build	verb	\N	\N	建筑学	Architecture	\N	\N	\N	jian4she4.mp3	\N
-807	成就	\N	chéngjiù	accomplishment / success	noun	\N	\N	状况	Condition	\N	\N	\N	cheng2jiu4.mp3	\N
+807	成就	\N	chéngjiù	accomplishment / success / achievement	noun	\N	\N	状况	Condition	\N	\N	\N	cheng2jiu4.mp3	\N
 808	举	舉	jǔ	to lift / to hold up / to raise	verb	\N	\N	行为	Actions	\N	\N	\N	ju3.mp3	\N
 809	世	\N	shì	life / generation / era / world / lifetime	noun	\N	\N	生活	Life	\N	\N	\N	shi4.mp3	\N
 810	翠微大厦	翠微大廈	Cuì Wēi Dà Shà	Cui Wei Tower	proper noun	楼房	Building	建筑学	Architecture	\N	\N	\N	cui4wei1da4sha4.mp3	The name of an office or apartment building
@@ -1259,7 +1259,7 @@
 1259	行	\N	xíng	capable / competent	adjective	\N	\N	特点	Characteristic	\N	\N	\N	xing2.mp3	\N
 1260	行	\N	xíng	to walk	verb	\N	\N	移动	Movement	\N	\N	\N	xing2.mp3	\N
 1261	行	\N	háng	profession	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
-1262	行	\N	háng	measure word for lines of text	measure word	\N	\N	语言	Language	\N	\N	\N	\N	\N
+1262	行	\N	háng	line / row	measure word	\N	\N	语言	Language	\N	\N	\N	\N	\N
 1263	能	\N	néng	can / able	auxiliary verb	\N	\N	状况	Condition	\N	\N	\N	neng2.mp3	Expresses either (1) the physical ability to do something or (2) possibility.
 1264	落	\N	luò	to fall / to drop	verb	方向	Direction	移动	Movement	\N	\N	\N	luo4.mp3	\N
 1265	外企	\N	wàiqǐ	foreign owned business	noun	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
@@ -5676,7 +5676,7 @@
 5676	验	驗	yàn	to examine / to test / to check	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 5677	经验	經驗	jīngyàn	experience	noun	\N	\N	生活	Life	\N	\N	\N	\N	\N
 5678	经验	經驗	jīngyàn	to experience	verb	\N	\N	生活	Life	\N	\N	\N	\N	\N
-5679	顶	頂	dǐng	peak / top / most	noun	\N	\N	形态	Form	\N	\N	\N	ding3.mp3	\N
+5679	顶	頂	dǐng	peak / top / most / head	noun	\N	\N	形态	Form	\N	\N	\N	ding3.mp3	\N
 5680	顶	頂	dǐng	to replace / to substitute / to go against	noun	\N	\N	行为	Actions	\N	\N	\N	ding3.mp3	\N
 5681	顶	頂	dǐng	measure word for things that have a top	measure word	\N	\N	数量	Quantity	\N	\N	\N	ding3.mp3	\N
 5682	顶级	頂級	dǐngjí	top level	noun	\N	\N	位	Position	\N	\N	\N	ding3ji2.mp3	\N
@@ -6554,14 +6554,14 @@
 6554	啰	\N	luō	final exclamatory particle	particle	\N	\N	虚词	Function Words	\N	\N	\N	luo2.mp3	\N
 6555	怛	\N	dá	distressed / alarmed / shocked / grieved	adjective	\N	\N	感情	Emotion	\N	\N	\N	da2.mp3	\N
 6556	哆	\N	duō	quiver / woolen cloth	noun	\N	\N	服装	Clothing	\N	\N	\N	duo1.mp3	\N
-6557	耶	\N	yē	final interogative	particle	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-6558	唎	\N	lì	li	phonetic	\N	\N	外语	Foreign Language	\N	\N	\N	li4.mp3	\N
+6557	耶	\N	yé	final interogative	particle	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+6558	唎	\N	lì	li	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	li4.mp3	\N
 6559	卢	盧	Lú	Lu	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	\N
 6560	羯	\N	jié	a ram / deer's skin	noun	\N	\N	农业	Agriculture	\N	\N	\N	jie2.mp3	\N
 6561	帝	\N	dì	emperor	noun	\N	\N	历史	History	\N	\N	\N	di4.mp3	\N
 6562	烁	爍	shuò	bright / luminous	adjective	\N	\N	光纤	Light	\N	\N	\N	\N	\N
 6563	摩	\N	mó	to rub	verb	\N	\N	行为	Actions	\N	\N	\N	mo2.mp3	\N
-6564	迦	\N	jiā	jia	phonetic	\N	\N	外语	Foreign Language	\N	\N	\N	jia1a.mp3	\N
+6564	迦	\N	jiā	ga	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	jia1a.mp3	\N
 6565	唵	\N	ǎn	Om	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	Sanskrit: oṃ ॐ
 6566	皤	\N	pó	white	noun	\N	\N	颜色	Color	\N	\N	\N	\N	\N
 6567	曳	\N	yè	to drag	verb	\N	\N	行为	Actions	\N	\N	\N	ye4.mp3	\N
@@ -6574,7 +6574,7 @@
 6574	咩	\N	miē	the bleating of sheep	phonetic	\N	\N	声	Sound	\N	\N	\N	\N	\N
 6575	豆	荳	dòu	bean / pea	noun	豆类	Bean	饮食	Food and Drink	\N	\N	\N	\N	\N
 6576	逝	\N	shì	to depart / to die	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	\N
-6577	伽	\N	jiā	ga	phonetic	\N	\N	外语	Foreign Language	\N	\N	\N	jia1a.mp3	\N
+6577	伽	\N	jiā	ga	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	jia1a.mp3	\N
 6578	侄	\N	zhí	nephew	noun	亲戚	Relative	家	Family	\N	\N	\N	zhi2.mp3	\N
 6579	夷	\N	yí	non-Han people	noun	\N	\N	人类学	Anthropology	\N	\N	\N	yi2.mp3	especially those to the east of China
 6580	夷	\N	yí	to wipe out / to exterminate / to tear down / to raze	verb	\N	\N	暴力	Violence	\N	\N	\N	yi2.mp3	\N
@@ -7112,7 +7112,7 @@
 7112	龠	\N	yuè	flute	noun	\N	\N	音乐	Music	\N	\N	\N	yue4.mp3	\N
 7113	龠	\N	yuè	pipe	noun	\N	\N	形态	Form	\N	\N	\N	yue4.mp3	\N
 7114	龠	\N	yuè	Kangxi radical 214	noun	\N	\N	部首	Radicals	\N	\N	\N	yue4.mp3	Flute
-7115	故	\N	gù	happening / instance / reason / cause / purpose	noun	\N	\N	行为	Actions	\N	\N	\N	gu4.mp3	\N
+7115	故	\N	gù	reason / cause / purpose	noun	\N	\N	行为	Actions	\N	\N	\N	gu4.mp3	\N
 7116	故	\N	gù	to be deceased	verb	\N	\N	生活	Life	\N	\N	\N	gu4.mp3	\N
 7117	宁	寧	nìng	rather	conjunction	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 7118	宁	寧	níng	peaceful	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
@@ -7165,7 +7165,7 @@
 7165	堕	墮	duò	to descend / to fall	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 7166	世人	\N	shìrén	common people	noun	\N	\N	社会	Society	\N	\N	\N	shi4ren2.mp3	\N
 7167	消	\N	xiāo	to consume / to subside / to disappear / to vanish	verb	\N	\N	行为	Actions	\N	\N	\N	xiao1.mp3	\N
-7168	消灭	消滅	xiāomiè	to perish / to annihilate / to eliminate / to perish / to pass away	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+7168	消灭	消滅	xiāomiè	to perish / to annihilate / to eliminate / to pass away	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 7169	消灭	消滅	xiāomiè	annihilation	noun	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 7170	末世	\N	mòshì	last phase of an age	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 7171	算数	算數	suànshù	to do arithmetic / to count	verb	\N	\N	数学	Mathematics	\N	\N	\N	\N	\N
@@ -17619,7 +17619,7 @@
 17619	肤	膚	fū	skin	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	fu1.mp3	\N
 17620	闾	閭	lǘ	the gate of a village / a village	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17621	闾里	閭里	lǘlǐ	a village	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-17622	知识	知識	zhīshi	an acquaintance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhi1shi1.mp3	\N
+17622	知识	知識	zhīshi	an acquaintance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhi1shi1.mp3	Especially an acquaintance with an understanding of the person that they are an aquaintance of and, by extension, a knowledgeable person.
 17623	矉	\N	pín	to glare angrily / to open the eyes with anger / to scowl / to knit the brows	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	pin2.mp3	\N
 17624	蹙	\N	cù	wrinkled / contracted	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	cu4.mp3	\N
 17625	蹙	\N	cù	urgent	adjective	\N	\N	状况	Condition	\N	\N	\N	cu4.mp3	\N
@@ -20318,7 +20318,7 @@
 20318	释提桓因	釋提桓因	Shìtíhuányīn	Sakra / Sakka	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N
 20319	佛土	\N	Fótǔ	a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 20320	阿弥陀	阿彌陀	Āmítuó	Amitabha / Amithaba	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	amitabha_bronze_sui400.jpg	\N	Sanskrit: amitābha 
-20321	极乐	極樂	jí lè	bliss	noun	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+20321	极乐	極樂	jílè	bliss	noun	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 20322	楯	\N	shǔn	a horizontal railing	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 20323	楯	\N	shǔn	to draw forth	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 20324	匝	\N	zā	to go round	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -22288,7 +22288,7 @@
 22288	进趋	進趨	jìnqū	to enter into	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
 22289	推敲	\N	tuīqiāo	to deliberate / to consider	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 22290	行门	行門	xíngmén	Buddhist practice 	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-22291	八圣道	八聖道	Bā Shèng Dào	Noble Eightfold Path / Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	正见 Right Understanding, 正思惟 Right Thought, 正语 Right Speech, 正业 Right Action, 正命 Right Livelihood, 正精进 Right Effort, 正念 Right Mindfulness, 正定 Right Concentration
+22291	八圣道	八聖道	Bā Shèng Dào	Noble Eightfold Path / Eightfold Noble Way	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	正见 Right Understanding, 正思惟 Right Thought, 正语 Right Speech, 正业 Right Action, 正命 Right Livelihood, 正精进 Right Effort, 正念 Right Mindfulness, 正定 Right Concentration
 22292	沽名钓誉	沽名釣譽	gū míng diào yù	to fish for a good reputation	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 22293	三轮	三輪	Sān Lún	the Three Cycles of actions, speech, and thoughts	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 22294	不无	不無	bùwú	to be not without	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
@@ -25099,7 +25099,7 @@
 25099	巽伽王朝	\N	Xùnjiā Wángcháo	Saka Dynasty / Shaka Dynasty / Indo-Scythian Dynasty	proper noun	王朝	Dynasty	历史	History	印度	India	\N	\N	Sanskrit: śuṃga rājavaṃśa; (185 BCE&mdash;73 BCE), dynasty in Northern India founded by the Saka or Scythian people from Central Asia
 25100	巽加	\N	Xùnjiā	Saka / Shaka / Indo-Scythian	proper noun	\N	\N	历史	History	印度	India	\N	\N	Dynasty (185 BCE&mdash;73 BCE) in Northern India founded by the Saka or Scythian from Central Asia 
 25101	巽加王朝	\N	Xùnjiā Wángcháo	Saka Dynasty / Shaka Dynasty / Indo-Scythian Dynasty	proper noun	王朝	Dynasty	历史	History	印度	India	\N	\N	Dynasty (185 BCE&mdash;73 BCE) in Northern India founded by the Saka or Scythian people from Central Asia
-25102	欄楯	栏楯	lánshǔn	balustrade / railing / a hand rail	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
+25102	栏楯	欄楯	lánshǔn	balustrade / railing / a hand rail	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 25103	萨塔瓦哈纳	薩塔瓦哈納	Sàtǎwǎhānà	Satavahana	proper noun	王朝	Dynasty	历史	History	印度	India	\N	\N	Dynasty (232 BCE&mdash;225 CE) in India
 25104	回教	\N	Huíjiāo	Islam	proper noun	\N	\N	宗教	Religion	伊斯兰教	Islam	\N	\N	\N
 25105	泰勒	\N	Tàilè	Taylor	proper noun	姓氏	Surname	名字	Names	英文	English	\N	\N	\N
@@ -25829,7 +25829,7 @@
 25829	庵摩罗果	庵摩羅果	ānmóluóguǒ	amalaka	noun	水果	Fruit	饮食	Food and Drink	\N	\N	\N	\N	A bulbous stone finial named after an Indian fruit
 25830	贝德萨	貝德薩	Bèidésà	Bedsa Caves	proper noun	石窟	Caves	佛教	Buddhism	印度	India	\N	\N	Caves in India
 25831	贝德萨石窟	貝德薩石窟	Bèidésà Shíkū	Bedsa Caves	proper noun	石窟	Caves	佛教	Buddhism	印度	India	\N	\N	Caves in India
-25832	西方极乐世界	西方極樂世界	Xīfāng Jílè Shìjiè	Western Pure Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sukhāvatī; founded by Amitabha Buddha
+25832	西方极乐世界	西方極樂世界	Xīfāng Jílè Shìjiè	Western Pure Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sukhāvatī; created by Amitabha Buddha
 25833	大日遍照	\N	Dàrì biànzhào	Vairocana / Mahavairocana / Buddha of supreme enlightenment	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	buddha_gilt_dali400.jpg	\N	\N
 25834	大理国	大理國	Dàlǐ Guó	Kingdom of Dali	proper noun	王国	Kingdom	历史	History	\N	\N	\N	\N	\N
 25835	佛龛	佛龕	Fó kān	a niche for a Buddha statue	noun	\N	\N	佛教	Buddhism	\N	\N	foxiangshibei_nqi400.jpg	\N	\N
@@ -27643,7 +27643,7 @@
 27643	金翅鸟	金翅鳥	jīn chì niǎo	a garuda	noun	\N	\N	神话	Mythology	印度	India	\N	\N	Sanskrit: garuḍa, Pali: garuḷa
 27644	阿里地区	阿里地區	Ālǐ Dìqū	Ngari Prefecture	proper noun	地区	Prefecture	地方	Places	西藏	Tibet	\N	\N	Tibetan: Mnga' ris sa khul
 27645	札达县	札達縣	Zhádá Xiàn	Zanda county	proper noun	县	County	地方	Places	西藏	Tibet	\N	\N	 In Ngari prefecture, Tibet, Tibetan: Rtsa mda' rdzong
-27646	十方	\N	Shí Fāng	Ten Directions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	East, west, south, north, northeast, southeast, northwest, southwest, up, and down
+27646	十方	\N	Shí Fāng	Ten Directions	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	East, west, south, north, northeast, southeast, northwest, southwest, up, and down
 27647	十方	\N	Shí Fāng	a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 27648	釜	\N	fǔ	a kettle / a cauldron	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu3.mp3	\N
 27649	五盖	五蓋	wŭ gài	the five covers / the five hindrances / the five obstructions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: pañca nivāraṇa, Pali: pañca nīvaraṇāni; desire, anger, drowsiness, excitability, and doubt
@@ -29370,7 +29370,7 @@
 29370	续命	續命	xù mìng	to extend lifespan	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 29371	业	業	yè	karma / karmic deeds	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: karma
 29372	救脱菩萨	救脫菩薩	Jiùtuō Púsà	Salvation Bodhisattva / Rescuing Aid Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Sutra of the Medicine Buddha
-29373	六时	六時	liù shí	The six four hour periods of the day	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	According to the traditional Chinese time system: 初夜 early evening (6:00 &mdash; 10:00 pm), 中夜 late evening (10:00 pm &mdash; 2:00 am), 后夜 early hours of the morning (2:00 am &mdash; 6:00 am), 晨朝 early morning (6:00 am &mdash; 10:00 am), 日中 midday (10:00 am &mdash; 2:00 pm), 日末 late afternoon (2:00 pm &mdash; 6:00 pm)
+29373	六时	六時	liù shí	the six four hour periods of the day	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	According to the traditional Chinese time system: 初夜 early evening (6:00 &mdash; 10:00 pm), 中夜 late evening (10:00 pm &mdash; 2:00 am), 后夜 early hours of the morning (2:00 am &mdash; 6:00 am), 晨朝 early morning (6:00 am &mdash; 10:00 am), 日中 midday (10:00 am &mdash; 2:00 pm), 日末 late afternoon (2:00 pm &mdash; 6:00 pm)
 29374	晨朝	\N	chéncháo	early morning	noun	\N	\N	时间	Time	\N	\N	\N	\N	06:00-10:00; a four hour period in the traditional Chinese time of day.
 29375	日没	日沒	rìmò	sunset / sundown	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 29376	初夜	\N	chū yè	early evening	noun	\N	\N	时间	Time	\N	\N	\N	\N	18:00-22:00; a four hour period in the traditional Chinese time of day.
@@ -29555,7 +29555,7 @@
 29555	尸鬼	屍鬼	shīguǐ	a zombie / a demon in the form of a corpse	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 29556	琰魔王	\N	Yǎn Mó Wáng	Yama / Yamaraja	proper noun	神	Deity	宗教	Religion	印度教	Hinduism	yama400.jpg	\N	Sanskrit: Yama, the lord of death
 29557	阎罗王	閻羅王	Yán Luó Wáng	Yama / Yamaraja	proper noun	神	Deity	宗教	Religion	印度教	Hinduism	yama400.jpg	\N	Sanskrit: Yama, the lord of death
-29558	五逆	\N	wŭ nì	Anantarika-karma / Five Cardinal Sins / the five heinous crimes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) patricide (2) matricide (3) killing an arahant (4) wounding a buddha (5) creating a schism in the sangha
+29558	五逆	\N	wŭ nì	Anantarika-karma / Five Cardinal Sins / the five heinous crimes	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) patricide (2) matricide (3) killing an arahant (4) wounding a buddha (5) creating a schism in the sangha
 29559	五逆罪	\N	wŭ nì zuì	Anantarika-karma / the Five Great Violations / Five Cardinal Sins / the five heinous crimes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) patricide (2) matricide (3) killing an arahant (4) wounding a buddha (5) creating a schism in the sangha
 29560	五重罪	\N	wŭ zhòng zuì	Anantarika-karma / Five Cardinal Sins / the five heinous crimes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) patricide (2) matricide (3) killing an arahant (4) wounding a buddha (5) creating a schism in the sangha
 29561	君臣	\N	jūn chén	a ruler and his ministers	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -32091,7 +32091,7 @@
 32091	置身	\N	zhìshēn	to place oneself / to stay	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32092	宿命	\N	sùmìng	a past life	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 32093	念	\N	niàn	mindfulness	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	nian4.mp3	Sanskrit: smṛti, Pali: sati; awareness or presence of mind, a key concept in Buddhist meditation theory
-32094	莎婆诃	莎婆訶	shā pó hē	svāhā	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: svāhā, used in mantras
+32094	莎婆诃	莎婆訶	shā pó hē	svāhā	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: svāhā, used in mantras
 32095	正知力	\N	zhèng zhī lì	clear comprehension	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samprajñāna, Pali: sampajañña
 32096	如理作意	\N	rú lǐ zuò yì	attention / engagement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: manasikāra, Pali: manasikāra
 32097	不放逸座	\N	bù fàngyì zuò	vigilance / heedfulness / conscientious	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: apramāda, Pali: appamada
@@ -33497,3 +33497,65 @@
 33497	可悲	\N	kěbēi	to be lamentable	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 33498	悲	\N	bēi	suffering / misery	noun	\N	\N	感情	Emotion	\N	\N	\N	bei1.mp3	Synonymous in this sense with 苦.
 33499	给	給	jǐ	to supply / to provide	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33500	博识	博識	bóshí	knowledgeable / erudite / erudition / proficient	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33501	𨸒	\N	Qiǎo	Qiao	proper noun	\N	\N	地方	Places	\N	\N	\N	\N	A place name
+33502	土	\N	tǔ	land / territory	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	This sense of the word is synonymous with 土地.
+33503	土	\N	tǔ	blocked / not open	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	This sense of the word is synonymous with 不开通.
+33504	土	\N	tǔ	despised / mocked	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	This sense of the word is synonymous with 蔑视 or 讥讽.
+33505	讥讽	譏諷	jīfěng	loathed / mocked	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33506	故	\N	gù	happening / instance	noun	\N	\N	行为	Actions	\N	\N	\N	gu4.mp3	\N
+33507	衍生	\N	yǎnshēng	to give rise to / to derive	verb	\N	\N	过程	Process	\N	\N	\N	gu4.mp3	\N
+33508	国	國	guó	an emperor / a regent / a monarch	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	guo2.mp3	This sense of the word is synymous with 帝王.
+33509	国	國	guó	a tribe	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	guo2.mp3	This sense of the word is synymous with 部落.
+33510	国	國	guó	a place	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	guo2.mp3	This sense of the word is synymous with 地方.
+33511	国	國	guó	hometown	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	guo2.mp3	This sense of the word is synymous with 家乡.
+33512	行	\N	háng	line / row	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33513	赤	\N	chì	red / scarlet	adjective	\N	\N	颜色	Color	\N	\N	\N	chi4.mp3	\N
+33514	黄	黃	huáng	yellow	adjective	\N	\N	颜色	Color	\N	\N	\N	huang2.mp3	\N
+33515	雨	\N	yǔ	to rain	verb	天气	Weather	水	Water	\N	\N	\N	yu3.mp3	\N
+33516	光明	\N	guāngmíng	glorious	adjective	\N	\N	特点	Characteristic	\N	\N	\N	guang1ming2.mp3	\N
+33517	光明	\N	guāngmíng	light	noun	\N	\N	光纤	Light	\N	\N	\N	guang1ming2.mp3	\N
+33518	光明	\N	guāngmíng	righteous / having hope	adjective	\N	\N	道德	Ethics	\N	\N	\N	guang1ming2.mp3	\N
+33519	光明	\N	guāngmíng	unselfish	adjective	\N	\N	道德	Ethics	\N	\N	\N	guang1ming2.mp3	\N
+33520	私心	\N	sīxīn	selfish	adjective	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
+33521	乱	亂	luàn	to administer	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 乱政 in this sense.
+33522	乱政	亂政	luànzhèng	to administer	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	\N
+33523	乱	亂	luàn	to disturb / to upset	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 扰乱 or 打乱 in this sense.
+33524	乱	亂	luàn	to be promiscuous	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 淫乱 in this sense.
+33525	淫乱	淫亂	yínluàn	to be promiscuous	verb	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
+33526	乱	亂	luàn	to ruin / to corrupt / to undermine	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 败坏 or 破坏 in this sense.
+33527	乱	亂	luàn	to violate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 违反 in this sense.
+33528	乱	亂	luàn	to confuse	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 混淆 in this sense.
+33529	乱	亂	luàn	to be agitated	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 烦乱 in this sense.
+33530	乱	亂	luàn	to ferry across	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 横渡 in this sense.
+33531	乱	亂	luàn	mixed	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 混杂 or 杂 in this sense.
+33532	乱	亂	luàn	arbitrarily	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 随意, 随便, or 任意 in this sense.
+33533	乱	亂	luàn	a rebellion / turmoil / upheaval	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	luan4.mp3	Synonymous with 叛乱 or 动乱 in this sense.
+33534	阿	\N	ā	a	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used for the sound in mantras
+33535	弥	彌	mí	mi	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	mi2.mp3	Used for the sound in mantras
+33536	多	\N	duō	duo	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	duo1.mp3	Used for the sound in mantras
+33537	婆	\N	pó	po	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used for the sound in mantras
+33538	夜	\N	yè	ye	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	ye4.mp3	Used for the sound in mantras
+33539	哆	\N	duō	duo	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	duo1.mp3	Used for the sound in mantras
+33540	他	\N	tā	a	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	ta1.mp3	Used for the sound in mantras
+33541	地	\N	dì	di	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	di4.mp3	Used for the sound in mantras
+33542	上	\N	shàng	shang	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	shang4.mp3	Used for the sound in mantras
+33543	声	聲	shēng	sheng	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	sheng1.mp3	Used for the sound in mantras
+33544	都	\N	dū	du	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	du1.mp3	Used for the sound in mantras
+33545	毘	\N	pí	pi	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used for the sound in mantras
+33546	悉	\N	xī	xi	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	xi1.mp3	Used for the sound in mantras
+33547	耽	\N	dān	dan	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	dan1.mp3	Used for the sound in mantras
+33548	腻	膩	nì	ni	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used for the sound in mantras
+33549	那	\N	nà	na	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	na4.mp3	Used for the sound in mantras
+33550	抧	\N	zhǐ	zhi	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used for the sound in mantras
+33551	隶	隸	lì	li	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	li4.mp3	Used for the sound in mantras
+33552	安养	安養	ānyǎng	Western Pure Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: sukhāvatī; created by Amitabha Buddha
+33553	锈	銹	Xiù	Xiu	proper noun	\N	\N	名字	Names	\N	\N	\N	xiu4.mp3	\N
+33554	耶	\N	yē	ye	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+33555	遍	\N	biàn	turn / one time	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	bian4.mp3	\N
+33556	澡	\N	zǎo	to wash / to bathe	verb	\N	\N	卫生	Hygiene	\N	\N	\N	zao3.mp3	\N
+33557	除灭	除滅	chúmiè	to eliminate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33558	兰	蘭	lán	lan	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	lan2.mp3	Used for the sound in mantras
+33559	他	\N	tā	ta	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	ta1.mp3	Used for the sound in mantras
+33560	打乱	打亂	dǎluàn	to disturb / to upset	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+33561	白	\N	bái	white	adjective	颜色	Color	颜色	Color	\N	\N	\N	bai2.mp3	White in color

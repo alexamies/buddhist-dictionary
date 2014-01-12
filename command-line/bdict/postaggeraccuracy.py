@@ -6,7 +6,7 @@ reported.
 
 from bdict import app_exceptions
 
-MAX_DIFFERENCES = 10
+MAX_DIFFERENCES = 40
 
 
 def TaggerAccuracy(standard, subject):
