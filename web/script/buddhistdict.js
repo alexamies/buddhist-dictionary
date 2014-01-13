@@ -2,6 +2,7 @@
 var textApp = angular.module('textApp', []);
 textApp.controller('textCtrl', function($scope, $http) {
   $scope.formData = {};
+  $scope.formData.langtype = 'literary';
   $scope.results = {};
   $scope.submit = function() {
     var re = /[\u0041-\u007F\u0080-\u00FF\u0100-\u017F\u0180-\u024F\u0300-\u036F]/;

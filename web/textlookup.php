@@ -8,7 +8,12 @@ $text = $_POST['text'];
 if (mb_strlen($text) > 100) {
     print('{"error":"Too long. Text cannot exceed 100 characters."}');
 } else {
-    $chineseText = new ChineseText($text, 'traditional');
+    $langType = 'literary';
+    if (isset($_POST['langtype']) && $_POST['langtype'].trim()) {
+        $langType = $_POST['langtype'].trim();
+    }
+    error_log("langType: $langType\n");
+    $chineseText = new ChineseText($text, $langType);
     $elements = $chineseText->getTextElements();
     $words = "[";
     foreach ($elements as $element) {

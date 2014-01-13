@@ -49,6 +49,13 @@ class WordTest extends PHPUnit_Framework_TestCase {
     }
 
     public function testGetBestWordSense2() {
+        $wordText = '行';
+        $wordsDAO = new WordsDAO();
+        $word = $wordsDAO->getBestWordSense($wordText, $langType='modern');
+        $this->assertEquals(1259, $word->getId());
+    }
+
+    public function testGetBestWordSense3() {
         $wordText = '佛光山';
         $wordsDAO = new WordsDAO();
         $word = $wordsDAO->getBestWordSense($wordText);

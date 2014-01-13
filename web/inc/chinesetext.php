@@ -8,15 +8,19 @@ require_once 'words_dao.php';
  * An object encapsulating Chinese text information
  */
 class ChineseText {
-    var $text;        // The phrase text
+    var $text;      // The phrase text
+    var $langType;  // The type of language, literary Chinese or modern Chinese
 
     /**
      * Constructor for a ChineseText object
      *
      * @param $text  The phrase text
+     * @param $langType The type of language, literary Chinese with value 
+     *                  'literary' or modern Chinese with any other value
      */
-    function ChineseText($text) {
+    function ChineseText($text, $langType='literary') {
         $this->text = $text;
+        $this->langType = $langType;
     }
 
     /**
@@ -101,7 +105,7 @@ class ChineseText {
 
                         } else if ($num > 1) {
                             // Multiple words found
-                            $word = $wordsDAO->getBestWordSense($wordCandidate);
+                            $word = $wordsDAO->getBestWordSense($wordCandidate, $this->langType);
                             $elements[] = new TextElement($wordCandidate, 2, $word, count($words));
                             $i += $j;
                             break;

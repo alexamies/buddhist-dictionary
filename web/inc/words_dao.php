@@ -14,20 +14,32 @@ class WordsDAO {
      * in the word table. If the word does not have an entry in the word
      * table, return null.
      *
+     * @param $wordText The text of the word
+     * @param $langType The type of language, literary Chinese with value 
+     *                  'literary' or modern Chinese with any other value
      * @return A Word object or null
      */
-    function getBestWordSense($wordText) {
+    function getBestWordSense($wordText, $langType='literary') {
 
         $databaseUtils = new DatabaseUtils();
         $databaseUtils->getConnection();
 
-        // Perform SQL select operation 
-        $query = "SELECT id, simplified, traditional, pinyin, english, " .
-                 "grammar, concept_cn, concept_en, topic_cn, " .
-                 "topic_en, parent_cn, parent_en, image, mp3, notes " .
-                 "FROM words, unigram " .
-                 "WHERE words.id = unigram.word_id AND unigram.element_text = '$wordText' " .
-                 "ORDER BY unigram.frequency DESC";
+        // Perform SQL select operation
+        $query = '';
+        if ($langType == 'literary') {
+            $query = "SELECT id, simplified, traditional, pinyin, english, " .
+                     "grammar, concept_cn, concept_en, topic_cn, " .
+                     "topic_en, parent_cn, parent_en, image, mp3, notes " .
+                     "FROM words, unigram " .
+                     "WHERE words.id = unigram.word_id AND unigram.element_text = '$wordText' " .
+                     "ORDER BY unigram.frequency DESC";
+        } else {
+            $query = "SELECT id, simplified, traditional, pinyin, english, " .
+                     "grammar, concept_cn, concept_en, topic_cn, " .
+                     "topic_en, parent_cn, parent_en, image, mp3, notes " .
+                     "FROM words " .
+                     "WHERE words.simplified = '$wordText' OR words.traditional = '$wordText' ";
+        }
         //error_log("getBestWordSense, query: " . $query);
         $result =& $databaseUtils->executeQuery($query);
         $word = null;
