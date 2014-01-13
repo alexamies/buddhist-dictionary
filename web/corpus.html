@@ -52,25 +52,20 @@
       <p>
         Filter: <input ng-model="query">
         Sort by:
-        <select ng-model="orderProp">
-          <option value="id">ID</option>
-          <option value="source_name">Name</option>
-          <option value="language">Language</option>
+        <select ng-model="orderProp" ng-init="orderProp='source_name'">
+          <option value="source_name" selected="selected">Source Name</option>
           <option value="doc_type">Type</option>
           <option value="translator">Translator</option>
-          <option value="source">Source</option>
           <option value="period">Period</option>
           <option value="genre">Genre</option>
         </select>
       </p>
       <table class="table table-bordered table-hover">
-        <caption>List of Texts</caption>
         <thead>
-          <tr><th>ID</th><th>Source Name</th><th>Type</th><th>Translator</th><th>Period</th><th>Genre</th></tr>
+          <tr><th>Source Name</th><th>Type</th><th>Translator</th><th>Period</th><th>Genre</th></tr>
         </thead>
         <tbody>
           <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
-            <td>{{doc.id}}</td>
             <td><a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a></td>
             <td>{{doc.doc_type}}</td>
             <td>{{doc.translator}}</td>
