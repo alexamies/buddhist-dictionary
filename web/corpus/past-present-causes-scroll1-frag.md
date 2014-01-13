@@ -26,5 +26,9 @@ End marker: 當爾之時，諸釋種姓
 
 English	translation: None
 
-Summary: The bodhisattva (Prince Siddhartha) descended to his mother's womb riding a six tusked white elephant. From the Tusita Palace with innumerable devas, musicians, and falling flowers accompanied the bodhisattva. The prince was born on the eighth day of the forth month when the bright star was shining. The bodhisattva was born from the right side of his mother's body. King Suddhodana talked about the wonderful nature of the auspicious signs.
+Summary: The bodhisattva (Prince Siddhartha) descended to his mother's womb riding a six tusked white elephant. From the Tusita Palace with innumerable devas, musicians, and falling flowers accompanied the bodhisattva on the eighth day of the forth month when a bright star was shining.. The queen awoke from her sleep to see the bodhisattva riding the elephant enter the right side of her body. She was full of joy. King Suddhodana said that he had a dream with auspicious signs and a great light. The queen then told the king about the bodhisattva. 
+
+A Brahmin explained the dream to the king: the queen is thinking about the prince. This is a wonerful sign. The prince would either leave home to become a monk or become a Chakravarti raja. The king gave gold, silver, and jewels to the Brahmin.
+
+A deity in Tusita Heaven heard discovered this and decided to be born in the human world so that he could listen to the Dharma when the bodhisattva became a Buddha. He was born in the city of Rajgir. Another deva was born in Śrāvastī.
 

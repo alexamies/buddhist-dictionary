@@ -6561,7 +6561,7 @@
 6561	帝	\N	dì	emperor	noun	\N	\N	历史	History	\N	\N	\N	di4.mp3	\N
 6562	烁	爍	shuò	bright / luminous	adjective	\N	\N	光纤	Light	\N	\N	\N	\N	\N
 6563	摩	\N	mó	to rub	verb	\N	\N	行为	Actions	\N	\N	\N	mo2.mp3	\N
-6564	迦	\N	jiā	ga	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	jia1a.mp3	\N
+6564	迦	\N	jiā	jia	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	jia1a.mp3	\N
 6565	唵	\N	ǎn	Om	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	Sanskrit: oṃ ॐ
 6566	皤	\N	pó	white	noun	\N	\N	颜色	Color	\N	\N	\N	\N	\N
 6567	曳	\N	yè	to drag	verb	\N	\N	行为	Actions	\N	\N	\N	ye4.mp3	\N
@@ -7181,7 +7181,7 @@
 7181	谤	謗	bàng	to slander / to defame / to speak ill of	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
 7182	平等	\N	píngděng	equal	adjective	\N	\N	比较	Comparison	\N	\N	\N	ping2deng3.mp3	\N
 7183	高下	\N	gāoxià	better or worse / stronger or weaker	noun	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
-7184	转轮圣王	轉輪聖王	Zhuànlún Shèng Wáng	Chakravarti raja (King of Kings) / emperor in Hindu mythology	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N
+7184	转轮圣王	轉輪聖王	Zhuànlún Shèng Wáng	Chakravarti raja / an emperor in Hindu mythology	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	A wheel turning king.
 7185	邪	\N	xié	demonic / iniquitous / nefarious / evil	adjective	\N	\N	宗教	Religion	\N	\N	\N	xie2.mp3	\N
 7186	邪道	\N	xiédào	depraved life / evil ways / fornication	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 7187	断灭	斷滅	duànmiè	annihilate	verb	\N	\N	行为	Actions	\N	\N	\N	\N	of soul, Sanskrit uccheda
@@ -22047,7 +22047,7 @@
 22047	一无所有	一無所有	yī wú suǒ yǒu	not having anything at all / utterly lacking	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 22048	含笑	\N	hánxiào	to smile	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
 22049	慈颜	慈顏	cíyán	a kind face	noun	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
-22050	容颜	容顔	róngyán	countenance / personage	noun	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
+22050	容颜	容顔	róngyán	countenance / complexion / personage	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 22051	身行	\N	shēnxíng	behavior / moral conduct	noun	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
 22052	操行	\N	cāoxíng	behavior / moral conduct	noun	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
 22053	资身	資身	zīshēn	to give one's time and resources to others	verb	\N	\N	慈善会	Charity	\N	\N	\N	\N	\N
@@ -29643,13 +29643,13 @@
 29643	聶	\N	Niè	Nie	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	\N
 29644	佛般泥洹经	佛般泥洹經	Fó Bān Ní Huán Jīng	Nirvana Sutra / Mahaparinirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 29645	大般泥洹经	大般泥洹經	Dà Bān Ní Huán Jīng	Nirvana Sutra / Mahaparinirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-29646	普曜经	普曜經	Pǔ Yào Jīng	Lalitavistara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
+29646	普曜经	普曜經	Pǔ Yào Jīng	Lalitavistara Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
 29647	涅槃经	涅槃經	Dà Bān Nièpán Jīng	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 29648	托胎	託胎	tuōtāi	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven
 29649	托生	託生	tuōshēng	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven
 29650	入胎	\N	rùtāi	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven
-29651	方等本起经	方等本起經	Fāng Děng Běn Qǐ Jīng	Lalitavistara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
-29652	佛说普曜经	佛說普曜經	Fó Shuō Pǔ Yào Jīng	Lalitavistara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
+29651	方等本起经	方等本起經	Fāng Děng Běn Qǐ Jīng	Lalitavistara Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
+29652	佛说普曜经	佛說普曜經	Fó Shuō Pǔ Yào Jīng	Lalitavistara Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
 29653	永嘉	\N	Yǒng Jiā	Yong Jia	proper noun	年号	Reign Name	历史	History	\N	\N	\N	\N	 Reign name 307-313 of Jin Emperor Huai 晋怀帝
 29654	降生	\N	jiàngshēng	to be born	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 29655	泥洹经	泥洹經	Nièpán Jīng	The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A version of the Nirvana Sutra translated in the Tang Kai Yuan reign (712-756)
@@ -33585,4 +33585,10 @@
 33585	吠奢	\N	Fèishē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
 33586	毘奢	\N	Píshē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
 33587	鞞舍	鞞舍	Bīshē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśya; one of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders
-
+33588	白王	\N	Bái Wáng	Shuddhodana / Suddhodana	proper noun	王	King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: śuddhodana, Pali: suddhodana; the Buddha, Siddhartha Gautama's father
+33589	颜貌	顏貌	yánmào	complexion / countenance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33590	体貌	體貌	tǐmào	appearance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33591	迹	\N	jī	a footprint / a mark / a trace / a vestige / a sign	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji1.mp3	The simplified character is also a variant of 跡.
+33592	厩	\N	jiù	a stable / a barn	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33593	普曜	\N	Pǔ Yào	Lalitavistara Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
+33594	天祠	\N	tiāncí	deva-kula	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An Indian sacrifial hall

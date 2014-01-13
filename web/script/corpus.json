@@ -48,5 +48,7 @@
 ,
 {"doc_type": "Sūtra","source_name": "Past and Present Causes and Effects Fragment, Scroll 1 過去現在因果經卷1部分","reference": "Vol. 3, no. 189, p. 624, a20-p. 626, a22","language": "Chinese","start": "爾時菩薩觀降胎時至","charset": "Traditional","plain_text": "past-present-causes-scroll1-frag.txt","uri": "corpus_entry.php?uri=past-present-causes-scroll1-frag.md","period": "Liu Song 435-443","translator": "Gunabhadra","source": "Taisho Tripitaka","genre": "Jātaka","end": "當爾之時，諸釋種姓","type": "file","id": "25"}
 ,
-{"doc_type": "Sūtra","source_name": "Shijia Pu, Scroll 1 釋迦譜卷1","reference": "Vol. 50, no. 2040, p. 10, a22-23","language": "Chinese","start": "","charset": "Traditional","plain_text": "shijia-pu-scroll1.txt","uri": "corpus_entry.php?uri=shijia-pu-scroll1.md","period": "Liang 502-557","translator": "Seng You","source": "Taisho Tripitaka","genre": "Jātaka","type": "file","id": "26"}
+{"doc_type": "Sūtra","source_name": "Shijia Pu, Scroll 1 釋迦譜卷1","reference": "Vol. 50, no. 2040, p. 10, a22-23","language": "Chinese","start": "蓋聞。菩提之為極也","charset": "Traditional","plain_text": "shijia-pu-scroll1.txt","uri": "corpus_entry.php?uri=shijia-pu-scroll1.md","period": "Liang 502-557","translator": "Seng You","source": "Taisho Tripitaka","genre": "Jātaka","end": "【編輯說明】本資料庫由中華電子佛典協會","type": "file","id": "26"}
+,
+{"doc_type": "Sūtra","source_name": "Shijia Shi Pu, Scroll 1 Fragment 釋迦氏譜卷1部分","reference": "Vol. 50, no. 2040, p. 10, a22-23","language": "Chinese","start": "現生誕靈迹第三","charset": "Traditional","plain_text": "shijiashi-pu-scroll1.txt","uri": "corpus_entry.php?uri=shijiashi-pu-scroll1.md","period": "Liang 502-557","translator": "Seng You","source": "Taisho Tripitaka","genre": "Jātaka","end": "集藝歷試迹第四","type": "file","id": "27"}
 ]
