@@ -22,5 +22,9 @@ End marker: 歎未曾有。
 
 English translation: none
 
-Notes: This text relates to the birth of the Buddha. It describes the birth of the buddha on the eighth day of the fourth month from the right side of his mother's body. The Buddha takes seven steps, holds up his right hand, and makes a statement. Brahma released deities from the heavens. It describes thirty two auspicious signs that fell from the heavens.
+Summary: This text relates to the birth of the Buddha. It describes the birth of the buddha on the eighth day of the fourth month from the right side of his mother's body. The Buddha takes seven steps, holds up his right hand, and makes a statement. Brahma released deities from the heavens. It describes thirty two auspicious signs that fell from the heavens.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 

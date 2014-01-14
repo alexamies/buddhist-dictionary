@@ -26,3 +26,8 @@ End marker: 阿難聞佛自期三月
 A Buddha is born on the 8th day of the 4th month; gives up his home on the 8th day of the 4th month; attains the way of the Buddha on the 8th day of the 4th month; and achieves nirvāṇa on the 8th day of the 4th month. Each takes place at the rising of the stars of puṣya. At this time, all the flowers are in blossom, and the trees lush with growth.
 
 Source: Chapman, “Carnival Canons,” 270.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+

@@ -26,6 +26,10 @@ End marker: 我聞世尊一時在父白淨王家
 
 English	translation: None
 
-Notes: The passage describes the time when the Buddha was born. The heavens and earth shook. All places were filled with wonderful
+Summary: The passage describes the time when the Buddha was born. The heavens and earth shook. All places were filled with wonderful
 sound and light. The Buddha was born from his mother's right side.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 

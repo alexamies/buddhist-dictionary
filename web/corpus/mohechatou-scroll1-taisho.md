@@ -22,4 +22,9 @@ End marker: 佛言。我為菩薩在世時
 
 English translation: none
 
-Notes: This passage describes the prince descending to be born in the middle of the night on the eigth day of the forth month. He took seven steps, raised his right hand, and spoke to the world. The Buddhas of the ten directions are all born in the middle of the night on the eigth day of the forth month. They all achieve enlightenment and reach Nirvana on the eigth day of the forth month.
+Summary: This passage describes the prince descending to be born in the middle of the night on the eigth day of the forth month. He took seven steps, raised his right hand, and spoke to the world. The Buddhas of the ten directions are all born in the middle of the night on the eigth day of the forth month. They all achieve enlightenment and reach Nirvana on the eigth day of the forth month.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+

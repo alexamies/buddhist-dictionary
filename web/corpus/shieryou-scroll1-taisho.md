@@ -24,4 +24,9 @@ End marker: 菩薩外家，去城八百里
 
 English translation: none
 
-Notes: The text describes the bodhisattva in Tusita Heaven watching for the right conditions to be born in the world below. He decided to be born in King Shuddhodana's household.
+Summary: The text describes the bodhisattva in Tusita Heaven watching for the right conditions to be born in the world below. He decided to be born in King Shuddhodana's household.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+

@@ -32,3 +32,7 @@ A Brahmin explained the dream to the king: the queen is thinking about the princ
 
 A deity in Tusita Heaven heard discovered this and decided to be born in the human world so that he could listen to the Dharma when the bodhisattva became a Buddha. He was born in the city of Rajgir. Another deva was born in Śrāvastī.
 
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+

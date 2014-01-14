@@ -22,5 +22,9 @@ End marker: end of file
 
 English translations: None
 
-Notes: This text describes the Prince Siddhartha being born on the night of the 8th day of the 4th month. He was born from the right hand side of his mother's body. After he was born he took seven steps with his feet four inches off the ground.
+Summary: This text describes the Prince Siddhartha being born on the night of the 8th day of the 4th month. He was born from the right hand side of his mother's body. After he was born he took seven steps with his feet four inches off the ground.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 

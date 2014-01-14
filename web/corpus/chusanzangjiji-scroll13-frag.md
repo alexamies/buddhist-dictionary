@@ -1,6 +1,6 @@
 ##  Chu San Zang Ji Ji, Scroll 13 Fragment 梁僧祐 《出三藏記集》卷13部分
 
-Description: The Chinese text of the Sūtra from the Taisho Tripitaka.
+Description: The Chinese text of the document from the Taisho Tripitaka.
 
 Period: Liang 502-557
 
@@ -26,5 +26,7 @@ End marker: 會在吳朝亟說正法。
 
 English	translation: None
 
-Summary: ...
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 

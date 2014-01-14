@@ -22,6 +22,9 @@ End marker: 「王聞太子生
 
 English translation: none
 
-Notes: This text describes the birth of the Buddha on the 8th day of the 4th month. He came to his mother in a dream riding a white elephant.
+Summary: This text describes the birth of the Buddha on the 8th day of the 4th month. He came to his mother in a dream riding a white elephant.
 
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 

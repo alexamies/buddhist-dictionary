@@ -21,5 +21,11 @@ Start marker: 佛為阿難說
 
 End marker: 阿難聞佛自期三月
 
-Notes: The short passage explains that the Buddha was born, left home to practice cultivation, attained enlightenment, and reached nirvāṇa all on the eighth day of the fourth month.
+English translation: none
+
+Summary: The short passage explains that the Buddha was born, left home to practice cultivation, attained enlightenment, and reached nirvāṇa all on the eighth day of the fourth month.
+
+Notes: This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+
+[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 
