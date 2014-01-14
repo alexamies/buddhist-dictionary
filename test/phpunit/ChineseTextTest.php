@@ -43,4 +43,16 @@ class ChineseTextTest extends PHPUnit_Framework_TestCase {
         $word2 = $elements[1]->getWord();
         $this->assertEquals('农业', $word2->getSimplified());
     }
+
+    public function testGetTextElements5() {
+        $text = '哆他';
+        $chineseText = new ChineseText($text, $langType='literary');
+        $elements = $chineseText->getTextElements();
+        $this->assertEquals(2, count($elements));
+        $word1 = $elements[0]->getWord();
+        $this->assertEquals('哆', $word1->getSimplified());
+        $word2 = $elements[1]->getWord();
+        $this->assertEquals('他', $word2->getSimplified());
+        $this->assertEquals(33559, $word2->getId());
+    }
 }

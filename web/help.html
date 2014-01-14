@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="textApp">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
+    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body ng-controller="textCtrl">
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+      </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="corpus.html">Texts</a></li>
+            <li class="active"><a href="tools.html">Tools</a></li>
+            <li><a href="dict_resources.html">Resources</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Dictionary Help</h2>
+      <p>
+        There are number of features of the NTI Buddhist Dictionary intended to improve usability.
+        Those are explained here as well as some of the more advanced uses.
+      </p>
+      <h3 class='article'>Contents</h3>
+      <ul>
+        <li><a href='#introduction'>Introduction</a></li>
+        <li><a href='#basic'>Basic Use</a></li>
+        <li><a href='#matches'>No matches found</a></li>
+        <li><a href='#text'>Breaking Chinese phrases into words</a></li>
+        <li><a href='#results'>Disambiguating different senses of a Chinese word</a></li>
+      </ul>
+      <a name='introduction'></a>
+      <h3>Introduction</h3>
+      <p>
+        There are number of features of the NTI Buddhist Dictionary intended to improve usability. 
+        You can find definitions of modern and literary Chinese (文言文) and Buddhist words.
+        You do not have to look words up one at a time in the NTI Buddhist Dictionary. You can
+        simply paste an entire block of text into the input field.
+        Even though Chinese text does not have spaces separating the words, you
+        should be able to use the dictionary without knowing where words start or end in a text. 
+        In addition, the dictionary will help you find the best word sense.
+      </p>
+      <a name='basic'></a>
+      <h3>Basic Use</h3>
+      <p>
+        For basic use of the dictionary type in or cut and paste in the Chinese or English for the word
+        that you are looking for and click the Search button.  
+        You can enter either simplified or traditional Chinese to search on.
+        If you don't get what you are looking for 
+        or don't understand the results then keep reading or look at the list of Help topics above.
+      </p>
+      <a name='matches'></a>
+      <h3>No matches found</h3>
+      <p>
+        If you do not get any matches found in your search try searching the whole block of text that you are
+        studying. This mode will always find a result if the input is one or more Chinese characters because
+        it will break the string of characters down into individual characters.
+        At least the individual characters will have entries. See the description in the section 
+        <a href='#text'>Breaking Chinese text into words</a> for more details on this mode.
+      </p>
+      <p>
+        If the individual characters do not entries or if you have a word that you feel should be in the
+        dictionary please let me know by sending an email to alex@chinesenotes.com.
+      </p>
+      <a name='text'></a>
+      <h3 class='article'>Breaking Chinese text into words</h3>
+      <p>
+        The dictionary can help you look up individual words or all the words in a block of text.  
+        Because Chinese words do not have spaces between them in sentences it can help to look up all the 
+        words in the text.  Especially if you are a beginner or trying to make the jump from study to using 
+        Chinese in real life it can often be hard to figure out the boundaries between the words.  
+        This is where pasting a whole block of text into the dictionary search input field can help.
+      </p>
+      <a name='results'></a>
+      <h3>Disambiguating different senses of a Chinese word</h3>
+      <p>
+         Chinese is a rich language with a long history and this leads to words that have many different 
+         meanings.  That is, the same character or combination of characters has different meanings in 
+         different contexts.  There are two different cases of this: (a) a <i>homonym</i>, where the words are 
+         truly different, and (b) <i>polysemy</i>, where there a multiple related senses of the word.  
+         Chinese is a little different from languages, like English, where more-or-less phonetic 
+         spellings are used because the same character may have multiple different pronunciations.  
+         In fact, 'spelling' does not really apply to Chinese. Determining the correct meaning for a 
+         word in a particular sentence or other context is called word-sense disambiguation. 
+      </p>
+      <p>
+        The English defintitions in the dictionary are often separated by <i>/</i> characters.
+        It is useful to give more than one English word describing a single Chinese word because 
+        the English words themselves can have multiple meanings. In addition, words usually have
+        a range of meanings and can be used in a range of contexts. So, giving several English words
+        can give a sense of the range of uses of a Chinese word.
+      </p>
+      <p>
+        Let's look at an example, the character 是 (pinyin: shì), which is one of the most common words in 
+        Chinese that most often means 'is.'  There are at least six different meanings found for this character.
+        The most common word sense in modern Chinese is verb <em>is</em>. However, the most common sense in 
+        literary Chinese is the pronoun <em>this</em>.
+        Think of the word returned in the summary table as the word sense with the most likely best
+        fit.
+      </p>
+      <p>
+        To disambiguate between modern and literary Chinese click the use <em>Options</em> link on the
+        dictionary page and select the <em>type</em> radio button.
+        Because there are so many different word senses of words in literary Chinese it can be hard to pick
+        the most appropriate one. 
+        The other word senses can be seen by cliking on the <em>word senses</em> link.
+      </p>
+      <p>
+        When reading an article or a book you are aware of the sense of words based on the words around them.
+        The NTI Dictionary helps you in the same way although it is only a statistical selection because
+        computers cannot really think like people. If you paste a block of text into the input field
+        in literary Chinese mode (the default) then it will select words based on both preceding words
+        and the overall most frequently used words.
+      </p>
+      <p>
+        Consider another example: the word 他 (tā), which usually means <em>he</em>, the singular second person 
+        masculine pronoun in modern Chinese. That is what you find in the dictionary if you do a lookup
+        in modern Chinese mode. However, if you lookup the word in literary Chinese mode, you will find
+        that the first definition listed is the pronoun <em>other / another</em>. However, if you 
+        paste a block of text in you may get a better suggestion as the first entry. Try pasting the 
+        text block 哆他伽哆夜 from the dhāranī ending the Amitabha Sutra. You will find that the 
+        word sense listed first for 他 is <em>ta</em>, with the note <em>used for the sound in mantras</em>.
+      </p>
+      <p>
+        The dictionary does all this by basing the suggested word in the table of returned results 
+        based on statistical selection compiled from a treebank. A treebank, also known as a tagged corpus, is a body of 
+        text tagged for part of speech (noun, verb, adjective, etc). The 
+        <a href="https://github.com/alexamies/buddhist-dictionary/tree/master/web/corpus/tagged">NTI Dictionary treebank</a> 
+        is based on literary Chinese Buddhist texts. It is tagged for both part of speech and word sense. 
+        There are two frequency tables: a unigram table for the overall frequency of words and a bigram
+        table that records how common a word is given the word that came before it.
+      </p>
+      <hr/>
+      <p>
+        佛光山南天大學中英詞典與佛教文本項目。
+        Copyright Fo Guang Shan Nan Tien Institute 佛光山南天大學 2013-2014, 
+        <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>. Materials may be reused
+        in accordance with the open source license. See the <a href="about.html">About</a> 
+        for details.
+      </p>
+    </div><!-- /.container -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.7/angular.min.js"></script>
+    <script src="script/buddhistdict.js"></script>
+  </body>
+</html>

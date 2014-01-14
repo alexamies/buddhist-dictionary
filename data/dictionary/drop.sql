@@ -23,6 +23,7 @@ drop table characters;
 drop table character_types;
 drop table radicals;
 drop table unigram;
+drop table bigram;
 drop table phrases;
 drop table related;
 drop table synonyms;

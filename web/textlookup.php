@@ -12,7 +12,7 @@ if (mb_strlen($text) > 100) {
     if (isset($_POST['langtype']) && $_POST['langtype'].trim()) {
         $langType = $_POST['langtype'].trim();
     }
-    error_log("langType: $langType\n");
+    // error_log("langType: $langType\n");
     $chineseText = new ChineseText($text, $langType);
     $elements = $chineseText->getTextElements();
     $words = "[";

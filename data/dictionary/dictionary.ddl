@@ -290,6 +290,31 @@ CREATE TABLE unigram (
 ;
 
 /*
+ * Table for bigram frequency.
+ *
+ * This table records the frequency for the word sense of sequences of two words 
+ * in the tagged corpus.
+ *
+ * pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+ * previous_text:    The element text in traditional Chinese
+ * element_text:    The element text in traditional Chinese
+ * word_id:         Matching id in the word table (positive integer)
+ * frequency:       The frequency of occurence of the word sense (positive integer)
+ */
+CREATE TABLE bigram (
+	pos_tagged_text VARCHAR(125) NOT NULL,
+	previous_text VARCHAR(125) NOT NULL,
+	element_text VARCHAR(125) NOT NULL,
+	word_id INT UNSIGNED NOT NULL,
+	frequency INT UNSIGNED NOT NULL,
+	PRIMARY KEY (pos_tagged_text),
+	FOREIGN KEY (word_id) REFERENCES words(id)
+	)
+	CHARACTER SET UTF8
+	COLLATE utf8_general_ci
+;
+
+/*
  * Table for Kangxi radicals
  *
  * id           A unique identifier for the radical

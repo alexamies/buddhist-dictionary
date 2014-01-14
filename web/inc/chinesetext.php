@@ -79,6 +79,7 @@ class ChineseText {
         $chunks = $this->getChunks();
 
         // Iterate through each chunk scanning for words
+        $previous = null;
         foreach ($chunks as $chunk) {
             $chunkText = $chunk->getText();
             $len = mb_strlen($chunkText);
@@ -101,24 +102,34 @@ class ChineseText {
                             // Single word found
                             $elements[] = new TextElement($wordCandidate, 1, $words[0], 1);
                             $i += $j;
+                            $previous = $words[0];
                             break;
 
                         } else if ($num > 1) {
                             // Multiple words found
-                            $word = $wordsDAO->getBestWordSense($wordCandidate, $this->langType);
+                            $previousTrad = null;
+                            if ($previous != null) {
+                                if ($previous->getTraditional() != null) {
+                                    $previousTrad = $previous->getTraditional();
+                                } else {
+                                    $previousTrad = $previous->getSimplified();
+                                }
+                            }
+                            $word = $wordsDAO->getBestWordSense($wordCandidate, $this->langType, $previousTrad);
                             $elements[] = new TextElement($wordCandidate, 2, $word, count($words));
                             $i += $j;
+                            $previous = $word;
                             break;
 
                         } else if ($j == 0) {
                             // We have got up to the last character but it is not in the dictionary
                             $elements[] = new TextElement($wordCandidate, 3, null, 0);
-                       } 
-                   }
-               }
-           } else {
-               // This chunk is non CJK.  
-               $elements[] = new TextElement($chunkText, 0, null, 0);
+                        } 
+                    }
+                }
+            } else {
+                // This chunk is non CJK.  
+                $elements[] = new TextElement($chunkText, 0, null, 0);
             }
         }
         return $elements;
