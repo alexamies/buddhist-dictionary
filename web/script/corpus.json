@@ -63,4 +63,6 @@
 {"doc_type": "Historic Doc.","source_name": "Fa Yuan Zhu Lin Scroll 91 法苑珠林卷第九十一","reference": "Vol. 53, No. 2122","language": "Chinese","start": "法苑珠林卷第九十一","charset": "Traditional","plain_text": "fayuanzhulin-scroll91.txt","uri": "corpus_entry.php?uri=fayuanzhulin-scroll91.md","translator": "Dao Shi","source": "Taisho Tripitaka","genre": "Historic Doc.","end": "中華電子佛典協會","type": "file","id": "32"}
 ,
 {"doc_type": "Historic Doc.","source_name": "Gao Seng Zhuan Scroll 9 Zhu Fotudeng 《高僧傳卷第九》‧竺佛圖澄","reference": "Vol. 50, No. 2059","language": "Chinese","start": "石虎有子名斌","charset": "Traditional","plain_text": "gaosengzhuan-scroll9.txt","uri": "corpus_entry.php?uri=gaosengzhuan-scroll9.md","period": "Liang 502—557","translator": "Shi Hui Jiao","source": "Taisho Tripitaka","genre": "Historic Doc.","end": "至建平","type": "file","id": "33"}
+,
+{"doc_type": "Historic Doc.","source_name": "Ye Zhong Ji 《鄴中記》","language": "Chinese","start": "石虎性好佞佛","charset": "Traditional","plain_text": "yezhongji.txt","uri": "corpus_entry.php?uri=yezhongji.md","period": "334 – 349","source": "Chinese Text Project","genre": "Historic Doc.","end": "石虎少好游獵","type": "file","id": "34"}
 ]
