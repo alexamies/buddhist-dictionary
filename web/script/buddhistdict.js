@@ -1,6 +1,17 @@
 // Angular code for main search page
-var textApp = angular.module('textApp', []);
-textApp.controller('textCtrl', function($scope, $http) {
+var textApp = angular.module('textApp', ['ngSanitize']).
+  filter('processNotes', function() {
+    return function(input) {
+      var re = /Sanskrit:([^,])/;
+      if (re.test(input)) {
+        return input.replace(re, "SANSKRIT: <a href='#'>$1</a>");
+      }
+      return input;
+    }
+  });
+
+textApp.controller('textCtrl', function($scope, $http, $sce) {
+  var self = this;
   $scope.formData = {};
   $scope.formData.langtype = 'literary';
   $scope.results = {};
@@ -18,9 +29,17 @@ textApp.controller('textCtrl', function($scope, $http) {
     }).success(function(data) {
       $("#lookup-help-block").hide();
       $scope.results = data;
+      if ($scope.results.words) {
+        for (var word in $scope.results.words) {
+          if (word.notes) {
+            self.explicitlyTrustedHtml = word.notes;
+          }
+        }
+      }
     }).error(function(data, status, headers, config) {
       $("#lookup-help-block").hide();
       $scope.results = {"error": data};
     });
   };
 });
+
