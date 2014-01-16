@@ -581,8 +581,8 @@
 581	下	\N	xià	bottom / down	noun	\N	\N	位	Position	\N	\N	\N	xia4.mp3	\N
 582	下	\N	xià	to go down / to get off	verb	方向	Direction	移动	Movement	\N	\N	\N	xia4.mp3	Frequently used as a <a href='http://chinesenotes.com/grammar_sentence_elements.php#potential'>potential complement</a> (可能补语).
 583	下	\N	xià	measure word for time	measure word	\N	\N	时间	Time	\N	\N	\N	xia4.mp3	\N
-584	上	\N	shàng	above / previous	adjective	\N	\N	位	Position	\N	\N	\N	shang4.mp3	\N
-585	上	\N	shàng	the position on or above something	noun	\N	\N	位	Position	\N	\N	\N	shang4.mp3	Also classified as a determiner.
+584	上	\N	shàng	above	adjective	\N	\N	位	Position	\N	\N	\N	shang4.mp3	\N
+585	上	\N	shàng	the position on or above something	verb	\N	\N	位	Position	\N	\N	\N	shang4.mp3	Also classified as a determiner.
 586	上	\N	shàng	to go up / to go forward	verb	方向	Direction	移动	Movement	\N	\N	\N	shang4.mp3	One of the most versatile verbs in Chinese it is used to indicate progression or advancment in a variety of contexts.
 587	轮	輪	lún	round	measure word	\N	\N	数量	Quantity	\N	\N	\N	lun2.mp3	Used for natural cyclic events, such as sun rises or human events that are expected to repeat, such as rounds of sports competitions.
 588	轮	輪	lún	wheel	noun	\N	\N	机械	Mechanical	\N	\N	\N	lun2.mp3	\N
@@ -1257,7 +1257,7 @@
 1257	起	\N	qǐ	to arise / to get up	verb	\N	\N	移动	Movement	\N	\N	\N	qi3.mp3	\N
 1258	房子	\N	fángzi	house	noun	\N	\N	住宿	Accommodation	\N	\N	\N	fang2zi.mp3	\N
 1259	行	\N	xíng	capable / competent	adjective	\N	\N	特点	Characteristic	\N	\N	\N	xing2.mp3	\N
-1260	行	\N	xíng	to walk	verb	\N	\N	移动	Movement	\N	\N	\N	xing2.mp3	\N
+1260	行	\N	xíng	to walk / to move	verb	\N	\N	移动	Movement	\N	\N	\N	xing2.mp3	\N
 1261	行	\N	háng	profession	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
 1262	行	\N	háng	line / row	measure word	\N	\N	语言	Language	\N	\N	\N	\N	\N
 1263	能	\N	néng	can / able	auxiliary verb	\N	\N	状况	Condition	\N	\N	\N	neng2.mp3	Expresses either (1) the physical ability to do something or (2) possibility.
@@ -1321,7 +1321,7 @@
 1321	大学	大學	dàxué	university / college	noun	\N	\N	教育	Education	\N	\N	\N	da4xue2.mp3	\N
 1322	长	長	zhǎng	director / chief / head / elder	suffix	\N	\N	工作	Work	\N	\N	\N	zhang3.mp3	\N
 1323	长	長	zhǎng	to grow / to develop	verb	\N	\N	行为	Actions	\N	\N	\N	zhang3.mp3	\N
-1324	长	長	cháng	long	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	1
+1324	长	長	cháng	long	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	Either long in dimension or long in time
 1325	于永达	於永達	Yú Yǒngdá	Yongda Yu (name of a person)	proper noun	人	Person	名字	Names	\N	\N	\N	yu2yong3da2.mp3	\N
 1326	容	\N	róng	to hold / to contain / to allow / to permit	verb	\N	\N	状况	Condition	\N	\N	\N	rong2.mp3	\N
 1327	容	\N	róng	appearance / look / countenance	noun	\N	\N	形态	Form	\N	\N	\N	rong2.mp3	\N
@@ -3240,7 +3240,7 @@
 3240	素	\N	Sù	Su	proper noun	名字	Name	名字	Names	\N	\N	\N	su4.mp3	\N
 3241	琴	\N	qín	a generic names for certain musical instruments / zither / heptachord	noun	\N	\N	音乐	Music	\N	\N	\N	qin2.mp3	\N
 3242	琴	\N	Qín	Qin	proper noun	名字	Name	名字	Names	\N	\N	\N	qin2.mp3	\N
-3243	绕	繞	rào	to go around / to wind / to orbit	verb	\N	\N	移动	Movement	\N	\N	\N	rao4.mp3	\N
+3243	绕	繞	rào	to go around / to wind / to orbit / to circumambulate	verb	\N	\N	移动	Movement	\N	\N	\N	rao4.mp3	\N
 3244	测	測	cè	to survey / to measure / to lean	verb	\N	\N	测控	Measurement and Control	\N	\N	\N	ce4.mp3	\N
 3245	观测	觀測	guāncè	to observe	verb	\N	\N	观察	Observation	\N	\N	\N	guan1ce4.mp3	\N
 3246	观测	觀測	guāncè	observation	noun	\N	\N	观察	Observation	\N	\N	\N	guan1ce4.mp3	\N
@@ -3724,7 +3724,7 @@
 3724	壳	殻	ké	shell	noun	\N	\N	大自然	Nature	\N	\N	\N	\N	\N
 3725	壳	殻	qiào	shell	noun	\N	\N	大自然	Nature	\N	\N	\N	\N	\N
 3726	立像	\N	lìxiàng	a standing image	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
-3727	恒	恆	héng	permanent	adjective	\N	\N	时间	Time	\N	\N	\N	heng2.mp3	\N
+3727	恒	恆	héng	permanent / ordinarily	adjective	\N	\N	时间	Time	\N	\N	\N	heng2.mp3	\N
 3728	恒河	恆河	Hénghé	Ganges River	proper noun	河	River	地理	Geography	印度	India	\N	\N	Sanskrit: gaṅgā
 3729	沙	\N	shā	sand / powder	noun	\N	\N	大自然	Nature	\N	\N	\N	sha1.mp3	\N
 3730	沙	\N	Shā	Sha	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	sha1.mp3	\N
@@ -3753,7 +3753,7 @@
 3753	输	輸	shū	to transport / to lose	verb	\N	\N	交通	Transportation	\N	\N	\N	shu1.mp3	\N
 3754	输送	輸送	shūsòng	to transport / to carry	verb	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
 3755	海峡	海峽	hǎixiá	channel / strait	noun	\N	\N	地理	Geography	\N	\N	\N	hai3xia2.mp3	\N
-3756	佛像	\N	fóxiàng	figure or image of Buddha	noun	\N	\N	佛教	Buddhism	\N	\N	foxiangshibei_nqi400.jpg	\N	\N
+3756	佛像	\N	fóxiàng	figure, statue, or image of a Buddha	noun	\N	\N	佛教	Buddhism	\N	\N	foxiangshibei_nqi400.jpg	\N	\N
 3757	启	啟	qǐ	to open / to begin /to commence / to explain	verb	\N	\N	行为	Actions	\N	\N	\N	qi3.mp3	\N
 3758	启用	啟用	qǐyòng	to start using / to enable	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 3759	落成	\N	luòchéng	to be completed / to complete a construction project	verb	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
@@ -3963,7 +3963,7 @@
 3963	代	\N	dài	generation / dynasty / age / period / era	noun	\N	\N	时间	Time	\N	\N	\N	dai4.mp3	\N
 3964	石头	石頭	shítou	rock / stone	noun	\N	\N	大自然	Nature	\N	\N	\N	\N	\N
 3965	吊车	吊車	diàochē	a hoist / a crane	noun	\N	\N	机械	Mechanical	\N	\N	\N	\N	\N
-3966	车	車	chē	vehicle	noun	交通工具	Means of Transportation	交通	Transportation	\N	\N	\N	\N	\N
+3966	车	車	chē	vehicle / carriage	noun	交通工具	Means of Transportation	交通	Transportation	\N	\N	\N	\N	\N
 3967	卡车	卡車	kǎchē	truck	noun	交通工具	Means of Transportation	交通	Transportation	\N	\N	\N	\N	\N
 3968	鸟	鳥	niǎo	bird	noun	鸟	Bird	大自然	Nature	\N	\N	\N	niao3.mp3	\N
 3969	鹦鹉	鸚鵡	yīngwǔ	parrot	noun	鸟	Bird	大自然	Nature	\N	\N	\N	\N	\N
@@ -4963,7 +4963,7 @@
 4963	团长	團長	tuánzhǎng	head of a delegation / head of a troup / regimental command	noun	\N	\N	管理	Administration	\N	\N	\N	\N	\N
 4964	淑	\N	Shū	Shu	proper noun	名字	Name	名字	Names	\N	\N	\N	shu1.mp3	\N
 4965	淑	\N	shū	warm and virtuous	adjective	\N	\N	思想	Thought	\N	\N	\N	shu1.mp3	\N
-4966	永远	永遠	yǒngyuǎn	forever / eternal / always	adverb	\N	\N	时间	Time	\N	\N	\N	yong3yuan3.mp3	\N
+4966	永远	永遠	yǒngyuǎn	forever / eternal / always / permanent	adverb	\N	\N	时间	Time	\N	\N	\N	yong3yuan3.mp3	\N
 4967	忘	\N	wàng	to forget / to overlook / to neglect	verb	\N	\N	思想	Thought	\N	\N	\N	wang4.mp3	\N
 4968	不了	\N	bù liǎo	to be unable to / without end	adverb	\N	\N	行为	Actions	\N	\N	\N	bu4liao3.mp3	\N
 4969	唱	\N	chàng	to sing / to call loudly / to chant	verb	\N	\N	音乐	Music	\N	\N	\N	chang4.mp3	\N
@@ -5385,7 +5385,7 @@
 5385	纪	紀	jì	to record	verb	\N	\N	写作	Writing	\N	\N	\N	ji4.mp3	\N
 5386	纪	紀	jì	age / era / period / discipline / order	noun	\N	\N	时间	Time	\N	\N	\N	ji4.mp3	\N
 5387	纪	紀	jì	discipline / order	noun	\N	\N	法律	Law	\N	\N	\N	ji4.mp3	\N
-5388	纪	紀	Jì	Ji	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	ji4.mp3	\N
+5388	纪	紀	Jǐ	Ji	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	ji4.mp3	\N
 5389	纪律	紀律	jìlǜ	discipline	noun	\N	\N	法律	Law	\N	\N	\N	\N	\N
 5390	中纪委	中紀委	Zhōng Jì Wěi	Chinese Communist Pary Central Discipline and Investigation Committee	proper noun	\N	\N	政治	Politics	\N	\N	\N	\N	an abbreviation for 中国共产党中央纪律检查委
 5391	腐	\N	fǔ	corruption	noun	\N	\N	特点	Characteristic	\N	\N	\N	\N	\N
@@ -5521,7 +5521,7 @@
 5521	无数	無數	wúshù	countless / innumerable	adjective	\N	\N	数量	Quantity	\N	\N	\N	wu2shu4.mp3	\N
 5522	实例	實例	shílì	an actual example	noun	\N	\N	状况	Condition	\N	\N	\N	shi2li4.mp3	\N
 5523	实例	實例	shílì	UNIX shell	noun	\N	\N	信息技术	Information Technology	操作系统	Operating Systems	\N	shi2li4.mp3	\N
-5524	长久	長久	chángjiǔ	long term	adjective	\N	\N	时间	Time	\N	\N	\N	chang2jiu3.mp3	\N
+5524	长久	長久	chángjiǔ	long term / permanent	adjective	\N	\N	时间	Time	\N	\N	\N	chang2jiu3.mp3	\N
 5525	诚	誠	chéng	honest / sincere / true	adjective	\N	\N	道德	Ethics	\N	\N	\N	cheng2.mp3	\N
 5526	科	\N	kē	branch of study / administrative section / division / field / branch / stage directions / rules / laws	noun	\N	\N	教育	Education	\N	\N	\N	ke1.mp3	\N
 5527	科	\N	kē	family	noun	\N	\N	生物学	Biology	\N	\N	\N	ke1.mp3	In taxonomy
@@ -8984,7 +8984,7 @@
 8984	起名	\N	qǐmíng	to name	verb	\N	\N	语言	Language	\N	\N	\N	qi3ming2.mp3	\N
 8985	段辽	段遼	Duàn Liáo	Duan Liao	proper noun	人	Person	历史	History	中国	China	\N	duan4liao2.mp3	A Northern Chinese ruler in the Later Zhao
 8986	渔阳成	漁陽成	Yúyáng Chéng	Yuyang City	proper noun	城市	City	历史	History	\N	\N	\N	yu2yang2cheng2.mp3	A city in ancient China in the Beijing area
-8987	像	\N	xiàng	appearance / image / portrait	noun	\N	\N	形态	Form	\N	\N	shijia_liang400.jpg	xiang4.mp3	\N
+8987	像	\N	xiàng	appearance / image / portrait / statue	noun	\N	\N	形态	Form	\N	\N	shijia_liang400.jpg	xiang4.mp3	\N
 8988	黄牛	黃牛	huángniú	scalper of tickets	noun	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
 8989	演唱会	演唱會	yǎnchàng huì	concert / vocal recital	noun	\N	\N	音乐	Music	\N	\N	\N	\N	\N
 8990	位子	\N	wèizi	place / seat	noun	\N	\N	家具	Furniture	\N	\N	\N	\N	\N
@@ -9996,7 +9996,7 @@
 9996	瓜子	\N	guāzǐ	melon seeds	noun	小吃	Snack	饮食	Food and Drink	\N	\N	\N	\N	\N
 9997	地雷	\N	dìléi	landmine	noun	\N	\N	武器	Weapons	\N	\N	\N	\N	\N
 9998	吐	\N	tù	to vomit / to throw up	verb	症状	Symptom	健康	Health	\N	\N	\N	\N	\N
-9999	吐	\N	tǔ	to spit / to put / to say	verb	症状	Symptom	卫生	Hygiene	\N	\N	\N	tu3.mp3	\N
+9999	吐	\N	tǔ	to spit / to spurt	verb	\N	\N	卫生	Hygiene	\N	\N	\N	tu3.mp3	\N
 10000	痰	\N	tán	phlegm / spittle	noun	\N	\N	健康	Health	\N	\N	\N	tan2.mp3	\N
 10001	唾	\N	tuò	spittle / saliva	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 10002	唾沫	\N	tuòmò	spittle / saliva	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
@@ -10915,7 +10915,7 @@
 10915	盆	\N	pén	unit of volume equal to 12 dou and 8 sheng	measure word	\N	\N	数量	Quantity	\N	\N	\N	\N	Approximately 128 liters
 10916	碰见	碰見	pèngjiàn	to run into / to meet unexpectedly / to bump into	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 10917	批判	\N	pīpàn	to criticize	verb	\N	\N	冲突	Conflict	\N	\N	\N	\N	\N
-10918	披	\N	pī	to scatter / to separate / to open / to unroll / to spread out	verb	\N	\N	行为	Actions	\N	\N	\N	pi1.mp3	\N
+10918	披	\N	pī	to scatter / to separate / to open / to unroll / to spread out / to wear	verb	\N	\N	行为	Actions	\N	\N	\N	pi1.mp3	\N
 10919	脾气	脾氣	píqì	temperament / disposition / temper	noun	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 10920	皮肤	皮膚	pífū	skin	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 10921	片面	\N	piànmiàn	unilateral / one-sided	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -32705,7 +32705,7 @@
 32705	嚫	\N	chèn	aspect marker of injury 	particle	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Cantonese
 32706	达嚫	達嚫	dáchèn	dana / the practice of giving / generosity	verb	\N	\N	佛教	Buddhism	\N	\N	\N	bu4shi1.mp3	Sanskrit: dāna, Pali: dāna; the first of the six paramitas; one of the seven kinds of spiritual wealth 七圣财
 32707	泗	\N	sì	sì 	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-32708	轰动一时	轟動一時	hōngdòng yī shí	to cause a sensation	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+32708	轰动一时	轟動一時	hōngdòng yī shí	to cause a sensation	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 32709	如意轮	如意輪	Rúyì Lún	Cinta-mani-cakra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskri: Cintā-maṇi-cakra, a wish granting wheel
 32710	宝印菩萨	寶印菩薩	Bǎo Yìn Púsà	Seal Bearing Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 32711	宝檀花	寶檀花	Bǎo Tán Huā	Ratnapani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskri: ratnapāṇi
@@ -32902,7 +32902,7 @@
 32902	萨埵那太子舍身饲虎	薩埵那太子捨身飼虎	Sàduǒnà Tàizǐ Shěshēn Sì Hǔ	Prince Mahasattva Jataka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about the prince giving his life to a tiger
 32903	西藏自治区	西藏自治區	Xīzàng Zìzhìqū	Tibet	proper noun	自治区	Autonomous Region	地方	Places	中国	China	\N	\N	Full form is 西藏自治区 (Xīzàng Zìzhìqū)
 32904	静坐罗汉	靜坐羅漢	Jìngzuò Luóhàn	 Nakula / The Meditating Arhat	proper noun	罗汉	Arhat	佛教	Buddhism	\N	\N	\N	\N	One of the Eighteen Arhats
-32905	恒	\N	héng	permanent	adjective	\N	\N	时间	Time	\N	\N	\N	heng2.mp3	Variant of 恆
+32905	恒	\N	héng	permanent / ordinarily	adjective	\N	\N	时间	Time	\N	\N	\N	heng2.mp3	Variant of 恆
 32906	弭	\N	mǐ	to stop / to repress	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32907	瞄	\N	miáo	to aim	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32908	相邻	相鄰	xiānglín	neighboring / adjacent	adjective	\N	\N	位	Position	\N	\N	\N	\N	\N
@@ -32940,9 +32940,9 @@
 32940	聶道真	\N	Niè Dào Zhēn	Nie Dao Zhen	proper noun	译师	Translator	佛教	Buddhism	中国	China	\N	\N	Translated the Abhiniṣkramaṇa Sūtra 異出菩薩本起經, Taisho Tripitaka Vol. 3, No. 188
 32941	妓	\N	jì	a prostitute	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
 32942	鞬	\N	jiān	a quiver on a horse / a store	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-32943	道人	\N	dàorén	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
-32944	道者	\N	dàozhě	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
-32945	道士	\N	dàoshì	a devotee / a practioner / a follower	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
+32943	道人	\N	dàorén	a devotee / a practioner / a follower / a monk	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
+32944	道者	\N	dàozhě	a devotee / a practioner / a follower / a monk	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
+32945	道士	\N	dàoshì	a devotee / a practioner / a follower / a monk	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 32946	头	頭	tóu	the first	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	tou2.mp3	Also classified as a determiner.
 32947	另	\N	lìng	another	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	ling4.mp3	Also classified as a determiner.
 32948	全	\N	quán	all / whole / entire / every	pronoun	\N	\N	虚词	Function Words	\N	\N	\N	quan2.mp3	Also classified as a determiner.
@@ -33614,4 +33614,75 @@
 33614	澄	\N	dèng	clear / pure	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33615	佛圖澄	\N	Fótúdèng	Fotudeng	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	232–348, Monk from Kucha who was important in the early spread of Buddhism in China
 33616	迺	\N	nǎi	thus / so / therefore / then / only / thereupon	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 乃
+33617	佞	\N	nìng	to flatter / to praise	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33618	佞	\N	nìng	somebody who flatters	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33619	佞	\N	nìng	wise	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33620	佞	\N	nìng	hypocritical	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33621	伪善	偽善	wěishàn	hypocritical	adjective	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
+33622	解飞	解飛	Jiěfēi	Jiefei	proper noun	\N	\N	历史	History	\N	\N	\N	\N	A person mentioned in Ye Zhong Ji 《鄴中記》
+33623	丈	\N	zhàng	ten chi (3.3 meters)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang4.mp3	There are 10 尺 in one 丈 in the Chinese Market System of Weights and Measures
+33624	长	長	cháng	length	noun	\N	\N	规模	Scale	\N	\N	\N	\N	\N
+33625	长	長	cháng	distant	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	Synonymous with 遥远 in this sense
+33626	长	長	cháng	tall	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	Synonymous with 高 in this sense
+33627	长	長	cháng	excellent / correct / proper	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33628	长	長	cháng	profound	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 深长 in this sense
+33629	深长	深長	shēncháng	profound	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33630	长	長	cháng	deep	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 深厚 in this sense
+33631	长	長	cháng	good aspects / strong points	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 长处 in this sense
+33632	长	長	Cháng	Chang	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	A family name
+33633	长	長	cháng	forever / eternal / always / permanent	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 长久 or 永远 in this sense
+33634	长	長	cháng	frequently / constantly / regularly / often	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 经常 in this sense
+33635	长	長	cháng	straight	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 直 in this sense
+33636	长	長	cháng	smoothly and quickly	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33637	长	長	zhǎng	old	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33638	长	長	zhǎng	adult	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 成年的 in this sense
+33639	长	長	zhǎng	older / eldest / senior	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33640	长	長	zhǎng	to respect / to hold in esteem	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 崇尚 in this sense
+33641	长	長	zhǎng	to be a leader	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 为首 in this sense
+33642	长	長	Zhǎng	Zhang	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	A family name
+33643	九龙	九龍	jiǔ lóng	nine dragons	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33644	吐	\N	tǔ	to say	verb	\N	\N	语言	Language	\N	\N	\N	tu3.mp3	\N
+33645	吐	\N	tǔ	to issue	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	Synonymous with 发出 in this sense
+33646	吐	\N	tǔ	to put on	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	\N
+33647	吐	\N	tǔ	to appear	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	Synonymous with 显露 or 呈现 in this sense
+33648	吐	\N	tǔ	to express	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	tu3.mp3	Synonymous with 抒发 in this sense
+33649	恒	\N	héng	perseverance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	heng2.mp3	Archaic variant of 恆, synonymous with 恒心 in this sense
+33650	恒	恆	héng	perseverance	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	heng2.mp3	Synonymous with 恒心 in this sense
+33651	持之以恒	持之以恆	chí zhī yǐ héng	to pursue unremittingly / to persevere	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+33652	恒	\N	héng	law / rule / code	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	heng2.mp3	Archaic variant of 恆, synonymous with 恒心 in this sense
+33653	恒	恆	héng	law / rule / code	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	heng2.mp3	Synonymous with 法则 in this sense
+33654	恒	\N	héng	frequently	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	heng2.mp3	Archaic variant of 恆, synonymous with 恒心 in this sense
+33655	恒	恆	héng	frequently / constantly	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	heng2.mp3	Synonymous with 法则 in this sense
+33656	礼	禮	lǐ	to bow	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	li3.mp3	\N
+33657	巧	\N	qiǎo	beautiful	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	qiao3.mp3	Synonymous with 美好 or 美丽 in this sense
+33658	巧	\N	qiǎo	false	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	qiao3.mp3	Synonymous with 伪 in this sense
+33659	头绪	頭緒	tóuxù	outline / main threads	noun	\N	\N	文学	Literature	\N	\N	\N	\N	\N
+33660	纪	紀	jì	main threads	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 头绪 in this sense
+33661	纪	紀	jì	to govern / to administer	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 治理 in this sense
+33662	纪	紀	jì	to run / to operate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 经营 in this sense
+33663	纪	紀	jì	an outline / a summary	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 纲要 in this sense
+33664	纪	紀	jì	reason / principle	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 道理 in this sense
+33665	纪	紀	jì	orbit	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 轨道 in this sense
+33666	纪	紀	jì	change	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 改 in this sense
+33667	纪	紀	jì	foundation	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ji4.mp3	Synonymous with 基 in this sense
+33668	上	\N	shàng	previous	adjective	\N	\N	位	Position	\N	\N	\N	shang4.mp3	\N
+33669	上	\N	shàng	high	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	shang4.mp3	\N
+33670	上	\N	shàng	advanced	adjective	\N	\N	比较	Comparison	\N	\N	\N	shang4.mp3	Synonymous with 上级 in this sense
+33671	上	\N	shàng	a monarch / a sovereign	adjective	\N	\N	比较	Comparison	\N	\N	\N	shang4.mp3	Synonymous with 君主 in this sense
+33672	上	\N	shàng	time	noun	\N	\N	时间	Time	\N	\N	\N	shang4.mp3	Synonymous with 时间 in this sense
+33673	上	\N	shàng	to do something at a set time	verb	\N	\N	时间	Time	\N	\N	\N	shang4.mp3	For example 上班 (go to work) or 上学 (go to school)
+33674	上	\N	shàng	far	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	shang4.mp3	Synonymous with 远 in this sense
+33675	上	\N	shàng	big	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	shang4.mp3	Synonymous with 广大 in this sense
+33676	上	\N	shàng	abundant / plentiful	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	shang4.mp3	Synonymous with 丰足 in this sense
+33677	上	\N	shàng	to report	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shang4.mp3	Synonymous with 上报 or 呈报 in this sense
+33678	上	\N	shàng	to offer	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shang4.mp3	Synonymous with 进献 or 送上 in this sense
+33679	进献	進獻	jìnxiàn	to offer	verb	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
+33680	送上	\N	sòngshàng	to offer	verb	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
+33681	上	\N	shàng	to go / to arrive	verb	\N	\N	移动	Movement	\N	\N	\N	shang4.mp3	Synonymous with 去 or 到 in this sense
+33682	上	\N	shàng	to take office / to assume a post	verb	\N	\N	移动	Movement	\N	\N	\N	shang4.mp3	Synonymous with 就职 in this sense
+33683	上	\N	shàng	to install / to erect	verb	\N	\N	过程	Process	\N	\N	\N	shang4.mp3	Synonymous with 安装 in this sense
+33684	上	\N	shàng	to suffer / to sustain	verb	\N	\N	过程	Process	\N	\N	\N	shang4.mp3	Synonymous with 陷入 or 遭受 in this sense
+33685	上	\N	shàng	to burn	verb	\N	\N	过程	Process	\N	\N	\N	shang4.mp3	Synonymous with 上火 in this sense
+33686	上	\N	shàng	to remember	verb	\N	\N	过程	Process	\N	\N	\N	shang4.mp3	Synonymous with 上心 in this sense
+33687	心腹	\N	xīn fù	heart and abdomen	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 

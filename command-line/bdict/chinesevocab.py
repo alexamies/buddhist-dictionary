@@ -78,14 +78,15 @@ class ChineseVocabulary:
         with codecs.open(outfile, 'w', "utf-8") as outf:
             source_name = corpus_entry['source_name']
             source = corpus_entry['source']
-            reference = corpus_entry['reference']
             outf.write('## Vocabulary analysis for source document %s\n' % source_name)
             outf.write('Source file: %s<br/>\n' % infile)
             if 'uri' in corpus_entry:
                 uri = corpus_entry['uri']
                 outf.write('Document Source URL: %s<br/>\n' % uri)
             outf.write('Source: %s<br/>\n' % source)
-            outf.write('Reference: %s<br/>\n' % reference)
+            if 'reference' in corpus_entry:
+                reference = corpus_entry['reference']
+                outf.write('Reference: %s<br/>\n' % reference)
             if 'translator' in corpus_entry:
                 translator = corpus_entry['translator']
                 outf.write('Translator: %s<br/>\n' % translator)
