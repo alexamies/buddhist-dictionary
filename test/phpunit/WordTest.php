@@ -126,6 +126,31 @@ class WordTest extends PHPUnit_Framework_TestCase {
         $this->assertEquals($term, $words[0]->getSimplified());
     }
 
+    public function testGetWords4() {
+        $term = 'a';
+        $matchType = 'not exact';
+        $wordsDAO = new WordsDAO();
+        $words = $wordsDAO->getWords($term, $matchType);
+        $this->assertEquals(50, count($words));
+    }
+
+    public function testGetWords5() {
+        $term = 'jiansuo';
+        $matchType = 'not exact';
+        $wordsDAO = new WordsDAO();
+        $words = $wordsDAO->getWords($term, $matchType);
+        $this->assertTrue(count($words) > 0);
+        $this->assertEquals('jiǎnsuǒ', $words[0]->getPinyin());
+    }
+
+    public function testGetWords6() {
+        $term = 'jian';
+        $matchType = 'exact';
+        $wordsDAO = new WordsDAO();
+        $words = $wordsDAO->getWords($term, $matchType);
+        $this->assertTrue(count($words) > 0);
+    }
+
     public function testGetWordsByGrammar() {
         $grammar = 'noun';
         $wordsDAO = new WordsDAO();

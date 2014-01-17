@@ -5,6 +5,7 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
   var re = /[\u0041-\u007F\u0080-\u00FF\u0100-\u017F\u0180-\u024F\u0300-\u036F]/;
   $scope.formData = {};
   $scope.formData.langtype = 'literary';
+  $scope.formData.matchtype = 'approximate';
   $scope.results = {};
   $scope.submit = function() {
     var englishSearch = re.exec($scope.formData.text);  

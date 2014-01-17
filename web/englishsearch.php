@@ -4,13 +4,14 @@ require_once 'inc/words_dao.php' ;
 mb_internal_encoding('UTF-8');
 header('Content-Type: text/json;charset=utf-8');
 $text = $_POST['text'];
-error_log("Query text: $text");
+//error_log("Query text: $text");
 if (strlen($text) > 100) {
     print('{"error":"Too long. Text cannot exceed 100 characters."}' .
           '{"words":"[]"}');
 } else {
+    $matchType = $_POST['matchtype'];
     $wordsDAO = new WordsDAO();
-    $results = $wordsDAO->getWords($text, 'fuzzy');
+    $results = $wordsDAO->getWords($text, $matchType);
     $words = "[";
     foreach ($results as $word) {
         $count = 1;
