@@ -1,22 +1,12 @@
 // Angular code for main search page
-var textApp = angular.module('textApp', ['ngSanitize']).
-  filter('processNotes', function() {
-    return function(input) {
-      var re = /Sanskrit:([^,])/;
-      if (re.test(input)) {
-        return input.replace(re, "SANSKRIT: <a href='#'>$1</a>");
-      }
-      return input;
-    }
-  });
+var textApp = angular.module('textApp', ['ngSanitize']);
 
 textApp.controller('textCtrl', function($scope, $http, $sce) {
-  var self = this;
+  var re = /[\u0041-\u007F\u0080-\u00FF\u0100-\u017F\u0180-\u024F\u0300-\u036F]/;
   $scope.formData = {};
   $scope.formData.langtype = 'literary';
   $scope.results = {};
   $scope.submit = function() {
-    var re = /[\u0041-\u007F\u0080-\u00FF\u0100-\u017F\u0180-\u024F\u0300-\u036F]/;
     var englishSearch = re.exec($scope.formData.text);  
     var url = "textlookup.php";
     if (englishSearch) {
@@ -29,10 +19,15 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
     }).success(function(data) {
       $("#lookup-help-block").hide();
       $scope.results = data;
+      var sans_re = /Sanskrit:[\s]+([^,]*)(.*)/;
       if ($scope.results.words) {
-        for (var word in $scope.results.words) {
+        for (var i=0; i < $scope.results.words.length; i++) {
+          word = $scope.results.words[i];
           if (word.notes) {
-            self.explicitlyTrustedHtml = word.notes;
+            if (sans_re.test(word.notes)) {
+              word.notes =  word.notes.replace(sans_re, "Sanskrit: <a href='sanskrit_query.php?word=$1'>$1</a> $2");
+            }
+            self.explicitlyTrustedHtml = word.notes
           }
         }
       }

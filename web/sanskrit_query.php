@@ -67,67 +67,59 @@
         </form>
       </div>
 <?php
-
-    if (isset($_REQUEST['word'])) {
-        $word = $_REQUEST['word'];
-	    $sanskritDAO = new SanskritDAO();
-	    $words = $sanskritDAO->getSanskrit($word);
+$words = array();
+if (isset($_REQUEST['word'])) {
+  $word = $_REQUEST['word'];
+  $sanskritDAO = new SanskritDAO();
+  $words = $sanskritDAO->getSanskrit($word);
 	
-	    // Print list of words
-	    if (isset($words)) {
-		    $len = count($words);
-		    if ($len == 0) {
-		        $suggestions = $sanskritDAO->suggest($word);
-			    print("<p>No matches found.</p>\n");
-			    $len = count($suggestions);
-		        if ($len == 0) {
-			        print("<p>No suggestions found.</p>\n");
-			    } else {
-			        print("<p>Suggestions:\n");
-			        for ($i=0; $i<$len; $i++) {
-			            $alternate = $suggestions[$i]->getAlternate();
-			            print(
-			                "<a href='?word=" . $alternate . "'>" .
-			                $alternate . "</a> (" .
-			                $suggestions[$i]->getReason() . ") "
-			            );
-			        }
-			        print("</p>\n");
-			    }
-		    } else {
-			    print(
-					"<table id='wordTable' class='table table-bordered table-hover'>\n" .
-					"<tbody id='wordTabBody'>\n" .
-					"<tr>" . 
-					"<th class='portlet'>IAST</th>" .
-					"<th class='portlet'>Devanagari</th>" .
-					"<th class='portlet'>Pali</th>" .
-					"<th class='portlet'>Chinese</th>" .
-					"<th class='portlet'>English</th>" . 
-					"<th class='portlet'>Grammar</th>" .
-					"<th class='portlet'>Notes</th>" .
-					"</tr>\n"
-					);
-			    for ($i=0; $i<$len; $i++) {
-				    print(
-						"<tr>\n" .
-						"<td>" . $words[$i]->getIast() . "</td>" .
-						"<td>" . $words[$i]->getDevan() . "</td>" .
-						"<td>" . $words[$i]->getPali() . "</td>" .
-						"<td>" . $words[$i]->getTraditional() . "</td>" .
-						"<td>" . $words[$i]->getEnglish() . "</td>" .
-						"<td>" . $words[$i]->getGrammar() . "</td>" .
-						"<td>" . $words[$i]->getNotes() . "</td>" .
-						"</tr>\n"
-						);
-			    }
-			    print(
-					"</tbody>\n" .
-					"</table>\n"
-					);
-		    }
-		}
-	}
+  // Print list of words
+  if (isset($words)) {
+    $len = count($words);
+    if ($len == 0) {
+      $suggestions = $sanskritDAO->suggest($word);
+      print("<p>No matches found.</p>\n");
+      $len = count($suggestions);
+      if ($len == 0) {
+        print("<p>No suggestions found.</p>\n");
+      } else {
+        print("<p>Suggestions:\n");
+        for ($i=0; $i<$len; $i++) {
+          $alternate = $suggestions[$i]->getAlternate();
+          print("<a href='?word=" . $alternate . "'>" .
+                $alternate . "</a> (" .
+                $suggestions[$i]->getReason() . ") ");
+        }
+        print("</p>\n");
+      }
+    } else {
+      print("<table id='wordTable' class='table table-bordered table-hover'>\n" .
+            "<tbody id='wordTabBody'>\n" .
+            "<tr>" . 
+            "<th class='portlet'>IAST</th>" .
+            "<th class='portlet'>Devanagari</th>" .
+            "<th class='portlet'>Pali</th>" .
+            "<th class='portlet'>Chinese</th>" .
+            "<th class='portlet'>English</th>" . 
+            "<th class='portlet'>Grammar</th>" .
+            "<th class='portlet'>Notes</th>" .
+            "</tr>\n");
+      for ($i=0; $i<$len; $i++) {
+        print("<tr>\n" .
+              "<td>" . $words[$i]->getIast() . "</td>" .
+              "<td>" . $words[$i]->getDevan() . "</td>" .
+              "<td>" . $words[$i]->getPali() . "</td>" .
+              "<td>" . $words[$i]->getTraditional() . "</td>" .
+              "<td>" . $words[$i]->getEnglish() . "</td>" .
+              "<td>" . $words[$i]->getGrammar() . "</td>" .
+              "<td>" . $words[$i]->getNotes() . "</td>" .
+              "</tr>\n");
+      }
+      print("</tbody>\n" .
+            "</table>\n");
+    }
+  }
+}
 ?>
       <p>
         Enter IAST, plain Latin, Devanagari, Traditional Chinese, or English and click Search.
