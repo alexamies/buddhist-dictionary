@@ -3495,7 +3495,7 @@
 3495	发起	發起	fāqǐ	to originate / to initiate / to start	verb	\N	\N	行为	Actions	\N	\N	\N	fa1qi3.mp3	\N
 3496	盛	\N	chéng	to fill / to hold / contain / to ladle / to pick up with a utensil	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	cheng2.mp3	\N
 3497	盛	\N	Shèng	Sheng	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	sheng4.mp3	\N
-3498	盛	\N	shèng	flourishing	adjective	\N	\N	特点	Characteristic	\N	\N	\N	sheng4.mp3	\N
+3498	盛	\N	shèng	flourishing / prosperous	adjective	\N	\N	特点	Characteristic	\N	\N	\N	sheng4.mp3	\N
 3499	顿	頓	dùn	a time / a jerk / a meal	measure word	\N	\N	数量	Quantity	\N	\N	\N	dun4.mp3	\N
 3500	华盛顿	華盛頓	Huáshèngdùn	Washington D.C.	proper noun	城市	City	地方	Places	美国	United States	\N	hua2sheng4dun4.mp3	\N
 3501	精	\N	jīng	 spirit / soul / vitality / energy	noun	\N	\N	感情	Emotion	\N	\N	\N	jing1.mp3	\N
@@ -8316,7 +8316,7 @@
 8316	雀	\N	què	bird	noun	鸟	Bird	大自然	Nature	\N	\N	\N	que4.mp3	\N
 8317	涣	渙	huàn	dispersed / expansive	adjective	\N	\N	特点	Characteristic	\N	\N	\N	huan4.mp3	\N
 8318	王之涣	王之涣渙	Wáng Zhīhuàn	Wang Zhihuan	proper noun	诗人	Poet	诗	Poetry	\N	\N	\N	\N	Tang poet, (688 - 742AD)
-8319	日	\N	rì	day / sun	noun	\N	\N	大自然	Nature	\N	\N	\N	ri4.mp3	When used for dates year (年) is always placed first, then month (月), day (日), and finally time.
+8319	日	\N	rì	day	noun	\N	\N	大自然	Nature	\N	\N	\N	ri4.mp3	When used for dates year (年) is always placed first, then month (月), day (日), and finally time.
 8320	日	\N	Rì	Japan	proper noun	国家	Japan	地理	Geography	日本	Japan	\N	ri4.mp3	Abbreviation for 日本.
 8321	黄河	黃河	Huánghé	Yellow River	proper noun	河	River	地理	Geography	中国	China	\N	\N	\N
 8322	目	\N	mù	to look	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	mu4.mp3	\N
@@ -9291,10 +9291,10 @@
 9291	数词	數詞	shùcí	numeral	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 9292	代词	代詞	dàicí	pronoun	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 9293	叹词	嘆詞	tàncí	interjection / exclamation	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
-9294	象词	象詞	xiàngcí	onomatope	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
+9294	象词	象詞	xiàngcí	onomatopoeia	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 9295	词类	詞類	cílèi	parts of speech / lexical category	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 9296	附类	附類	fùlèi	Affix	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
-9297	象声词	象聲詞	xiàngshēngcí	onomatope	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
+9297	象声词	象聲詞	xiàngshēngcí	onomatopoeia	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 9298	词头	詞頭	cítóu	prefix	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
 9299	名量词	名量詞	míngliàngcí	nominal measure word	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	Applies to objects
 9300	动量词	動量詞	dòngliàngcí	verbal measure word	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	Applies to actions
@@ -33731,4 +33731,15 @@
 33731	庄	莊	zhuāng	a piece	measure word	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 33732	庄	莊	zhuāng	to decorate / to make up	verb	\N	\N	美丽	Beauty	\N	\N	\N	\N	\N
 33733	徒跣	\N	túxiǎn	to go bearfoot	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33734	拟声词	擬聲詞	nǐshēngcí	onomatopoeia	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
+33735	异议	異議	yìyì	objection / dissent	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33736	互文	\N	hùwén	paired phrases	noun	\N	\N	文学	Literature	\N	\N	\N	\N	A poetic device
+33737	赤壁之战	赤壁之戰	chì bì zhī zhàn	Battle of Redcliff	proper noun	\N	\N	历史	History	\N	\N	\N	\N	208 at Chibi in Huangzhou
+33738	毉	\N	yī	medicine / doctor	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yi1.mp3	Archaic variant of 医 (traditional 醫)
+33739	民人	\N	mínrén	people / citizen / inhabitants	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33740	日	\N	rì	sun	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ri4.mp3	\N
+33741	然灯	然燈	rándēng	to burn a lamp	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33742	栌	櫨	lú	the capital of a column	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33743	栌	櫨	lú	smoke tree	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33744	㲲	\N	dié	fine cotton cloth / fine woolen cloth	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 
