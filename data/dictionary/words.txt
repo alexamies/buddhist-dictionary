@@ -17338,7 +17338,7 @@
 17338	竖钩	豎鉤	shù gōu	vertical hooked stroke	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	shugou300.png	\N	N 
 17339	斜点	斜點	xié diǎn	upper dot stroke	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	upper_dot.png	\N	N 
 17340	右下点	右下点點	yòu xià diǎn	lower right dot	noun	基本笔画	Fundamental Stroke	书法	Calligraphy	\N	\N	lower_right_dot.png	\N	N 
-17341	揠	\N	yà	to eradicate / to pull up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ya4.mp3	\N
+17341	揠	\N	yà	to eradicate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ya4.mp3	\N
 17342	浩然	\N	hàorán	vast / expansive / overwhelming	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17343	至	\N	zhì	most	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	zhi4.mp3	\N
 17344	馁	餒	něi	hungry	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -30191,7 +30191,7 @@
 30191	六字	\N	Liù Zì	Namo Amitofo / Mantra of Six Syllables / Om mani padme hum	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 30192	六师外道	六師外道	liù shī wài dào	Six Non-Buddhist schools	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) The Sanjaya-Vairatiputra Sect (2) the Ajita-Kesakambala Sect (3) the Maskari-Gosaliputra Sect (4) the Purana-Kasyapa Sect (5) the Kakuda-Katyayana Sect (6) the Nirgrantha-Jnatiputra Sect
 30193	四事供养	四事供養	sì shì gōngyǎng	the Four Offerings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Food and drink 饮食 (2) clothing 衣服 (3) bedding 卧具 (4) medicine 汤药
-30194	汤药	湯藥	tāng yào	tisane / decoction / medicine	noun	\N	\N	中医	Chinese Medicine	\N	\N	\N	\N	\N
+30194	汤药	湯藥	tāng yào	medicine / tisane / decoction	noun	\N	\N	中医	Chinese Medicine	\N	\N	\N	\N	\N
 30195	佛知如海	\N	Fó zhī rú hǎi	omniscience of the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 30196	一心二门	一心二門	yīxīn èr mén	One mind opens two doors	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) The door of suchness 心真入门 (2) the door of arising and ceasing 心生灭门
 30197	心真入门	心真入門	xīn zhēn rùmén	The door of suchness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
@@ -33742,4 +33742,15 @@
 33742	栌	櫨	lú	the capital of a column	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33743	栌	櫨	lú	smoke tree	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33744	㲲	\N	dié	fine cotton cloth / fine woolen cloth	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33745	中国	中國	Zhōngguó	Middle Kingdom	proper noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhong1guo2.mp3	China in ancient times
+33746	卯月	\N	Mǎoyuè	Fourth Month	proper noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhong1guo2.mp3	In the Chinese lunar calendar
+33747	层	層	céng	a layer / a level	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ceng2.mp3	\N
+33748	戟	\N	jǐ	to single somebody out	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33749	戟	\N	jǐ	to stimulate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 刺激 in this sense
+33750	揠	\N	yà	to erect / to put up / to pull up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ya4.mp3	\N
+33751	揠	\N	yà	to promote	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ya4.mp3	Synonymous with 提拔 in this sense
+33752	疋	\N	shū	a foot	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33753	疋	\N	yǎ	straight	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33754	疋	\N	pǐ	for example	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	pi3.mp3	\N
+33755	庄校	莊校	zhuāngjiào	to decorate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 
