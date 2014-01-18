@@ -6,7 +6,7 @@ reported.
 
 from bdict import app_exceptions
 
-MAX_DIFFERENCES = 40
+MAX_DIFFERENCES = 20
 
 
 def TaggerAccuracy(standard, subject):
@@ -28,6 +28,8 @@ def TaggerAccuracy(standard, subject):
         print('Length of standard: %d. Length of subject: %d.' % (len(standard), len(subject)))
         no_diff = 0
         for i in range(len(standard)):
+            if i == len(subject):
+                break
             if standard[i] != subject[i]:
                 print('Files differ at line %d.' % i)
                 no_diff += 1

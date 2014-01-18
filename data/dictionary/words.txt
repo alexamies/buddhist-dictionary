@@ -4248,7 +4248,7 @@
 4248	个性化	個性化	gèxìnghuā	personalization	noun	\N	\N	信息技术	Information Technology	用户界面	User Interface	\N	\N	\N
 4249	友情	\N	yǒuqíng	feeling of friendship	noun	\N	\N	友谊	Friendship	\N	\N	\N	\N	\N
 4250	易	\N	yì	easy / simple	adjective	\N	\N	特点	Characteristic	\N	\N	\N	yi4.mp3	\N
-4251	易	\N	yì	to change	noun	\N	\N	变化	Change	\N	\N	\N	yi4.mp3	\N
+4251	易	\N	yì	to change	verb	\N	\N	变化	Change	\N	\N	\N	yi4.mp3	\N
 4252	易	\N	yì	Yi	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	yi4.mp3	\N
 4253	易体验	易體驗	yì Tǐyàn	Yi Tiyan	proper noun	公司	Company	信息技术	Information Technology	\N	\N	\N	\N	Literally, Simple Ease of Use.  The company website is at <a href='http://www.etiyan.com/'>www.etiyan.com</a>.
 4254	天空	\N	tiānkōng	sky / aviation	noun	\N	\N	大自然	Nature	\N	\N	\N	\N	\N
@@ -6893,7 +6893,7 @@
 6893	昧	\N	mèi	to conceal	verb	\N	\N	行为	Actions	\N	\N	\N	mei4.mp3	\N
 6894	昧	\N	mèi	dark	adjective	\N	\N	光纤	Light	\N	\N	\N	mei4.mp3	\N
 6895	三昧	\N	sānmèi	samadhi / mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: samādhi, Pali: samādhi; a higher level of concentrated meditation.  There are four kinds of samadhi: (1) constant sitting samadhi 常坐三昧; (2) constant walking samadhi 常行三昧; (3) half walking, half sitting samadhi 半行半坐三昧; 4 non-walking, non-sitting samadhi 非行非坐三昧
-6896	庄	莊	zhuāng	farm / village / manor	noun	\N	\N	地理	Geography	\N	\N	\N	zhuang1.mp3	\N
+6896	庄	莊	zhuāng	a village	noun	\N	\N	地理	Geography	\N	\N	\N	zhuang1.mp3	\N
 6897	庄严	莊嚴	zhuāngyán	stately	adjective	\N	\N	特点	Characteristic	\N	\N	\N	zhuang1yan2.mp3	\N
 6898	昔	\N	xī	long ago / past / former	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	xi1.mp3	\N
 6899	然灯	然燈	Rándēng	Dipankara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanksrit: dīpaṃkara, Pali: dīpaṃkara. Literally, lamp bearer, a Buddha who reached enlightenment eons prior to the historic Buddha.
@@ -8321,7 +8321,7 @@
 8321	黄河	黃河	Huánghé	Yellow River	proper noun	河	River	地理	Geography	中国	China	\N	\N	\N
 8322	目	\N	mù	to look	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	mu4.mp3	\N
 8323	目	\N	mù	an eye	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	mu4.mp3	\N
-8324	里	裡	lǐ	unit of length equal to 150 zhang (500 meters)	measure word	\N	\N	数量	Quantity	\N	\N	\N	li3.mp3	There are 150 丈 in one 里 (500 meters) in the Chinese Market System of Weights and Measures
+8324	里	\N	lǐ	li / unit of length equal to 150 zhang (500 meters)	measure word	\N	\N	数量	Quantity	\N	\N	\N	li3.mp3	There are 150 丈 in one 里 (500 meters) in the Chinese Market System of Weights and Measures
 8325	仞	\N	rèn	Chinese fathom	measure word	\N	\N	古文	Classical Chinese	\N	\N	\N	ren4.mp3	Approximately 8 feet
 8326	羌	\N	Qiāng	Qiang nationality	proper noun	民族	Ethnic Group	人类学	Anthropology	中国	China	\N	qiang1.mp3	\N
 8327	羌	\N	Qiāng	Qiang nationality	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	qiang1.mp3	\N
@@ -8984,7 +8984,7 @@
 8984	起名	\N	qǐmíng	to name	verb	\N	\N	语言	Language	\N	\N	\N	qi3ming2.mp3	\N
 8985	段辽	段遼	Duàn Liáo	Duan Liao	proper noun	人	Person	历史	History	中国	China	\N	duan4liao2.mp3	A Northern Chinese ruler in the Later Zhao
 8986	渔阳成	漁陽成	Yúyáng Chéng	Yuyang City	proper noun	城市	City	历史	History	\N	\N	\N	yu2yang2cheng2.mp3	A city in ancient China in the Beijing area
-8987	像	\N	xiàng	appearance / image / portrait / statue	noun	\N	\N	形态	Form	\N	\N	shijia_liang400.jpg	xiang4.mp3	\N
+8987	像	\N	xiàng	image / portrait / statue	noun	\N	\N	艺术	Art	\N	\N	shijia_liang400.jpg	xiang4.mp3	\N
 8988	黄牛	黃牛	huángniú	scalper of tickets	noun	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
 8989	演唱会	演唱會	yǎnchàng huì	concert / vocal recital	noun	\N	\N	音乐	Music	\N	\N	\N	\N	\N
 8990	位子	\N	wèizi	place / seat	noun	\N	\N	家具	Furniture	\N	\N	\N	\N	\N
@@ -9553,7 +9553,7 @@
 9553	尺	\N	chǐ	a ruler / a tape-measure	noun	\N	\N	测控	Measurement and Control	\N	\N	\N	\N	\N
 9554	尺	\N	chǐ	a musical note on the traditional Chinese scale	noun	\N	\N	音乐	Music	\N	\N	\N	\N	\N
 9555	尺	\N	chǐ	one of the three acupoints for measuring pulse	noun	\N	\N	中医	Chinese Medicine	\N	\N	\N	\N	\N
-9556	丈	\N	zhàng	ten chi (3.3 meters)	measure word	\N	\N	数量	Quantity	\N	\N	\N	zhang4.mp3	There are 10 尺 in one 丈 in the Chinese Market System of Weights and Measures
+9556	丈	\N	zhàng	zhang / ten chi (3.3 meters)	measure word	\N	\N	数量	Quantity	\N	\N	\N	zhang4.mp3	There are 10 尺 in one 丈 in the Chinese Market System of Weights and Measures
 9557	英里	\N	Yīnglǐ	mile	measure word	\N	\N	数量	Quantity	\N	\N	\N	li3.mp3	\N
 9558	米制	\N	mǐzhì	metric system	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 9559	毫米	\N	háomǐ	millimeter	measure word	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
@@ -25145,7 +25145,7 @@
 25145	嚈	\N	yà	ya	phonetic	\N	\N	外语	Foreign Language	\N	\N	\N	ya4.mp3	Used in ancient loan words
 25146	嚈哒	嚈噠	Yàdā	Hephthalites / White Huns	proper noun	民族	People	历史	History	亚洲	Asia	\N	\N	According to Chinese records they were originally a tribe who lived to the north of the Great Wall.  They migrated to Central Asia and Northern India.
 25147	嚈哒人	嚈噠人	Yàdā rén	Hephthalites / White Huns	proper noun	民族	People	历史	History	亚洲	Asia	\N	\N	According to Chinese records they were originally a tribe who lived to the north of the Great Wall.  They migrated to Central Asia and Northern India.
-25148	伽蓝	伽藍	qiēlán	sangharama / samgharama / samghārama / temple / monastery	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Samghārama (samgharama or sangharama) is a Sanskrit name for temple or monastery
+25148	伽蓝	伽藍	qiēlán	sangharama / samgharama / samghārama / temple / monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Samghārama (samgharama or sangharama) is a Sanskrit name for temple or monastery
 25149	僧伽蓝摩	僧伽藍摩	sēngjiālánmó	sangharama / samgharama / samghārama / temple / monastery	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Samghārama (samgharama or sangharama) is a Sanskrit name for temple or monastery
 25150	芜	蕪	wú	a luxurious growth of weeds	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	wu2.mp3	\N
 25151	荒芜	荒蕪	huāngwú	overgrown / grown wild	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -33620,7 +33620,7 @@
 33620	佞	\N	nìng	hypocritical	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33621	伪善	偽善	wěishàn	hypocritical	adjective	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
 33622	解飞	解飛	Jiěfēi	Jiefei	proper noun	\N	\N	历史	History	\N	\N	\N	\N	A person mentioned in Ye Zhong Ji 《鄴中記》
-33623	丈	\N	zhàng	ten chi (3.3 meters)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang4.mp3	There are 10 尺 in one 丈 in the Chinese Market System of Weights and Measures
+33623	丈	\N	zhàng	zhang / ten chi (3.3 meters)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhang4.mp3	There are 10 尺 in one 丈 in the Chinese Market System of Weights and Measures
 33624	长	長	cháng	length	noun	\N	\N	规模	Scale	\N	\N	\N	\N	\N
 33625	长	長	cháng	distant	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	Synonymous with 遥远 in this sense
 33626	长	長	cháng	tall	adjective	\N	\N	规模	Scale	\N	\N	\N	\N	Synonymous with 高 in this sense
@@ -33687,3 +33687,48 @@
 33687	心腹	\N	xīn fù	heart and abdomen	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 33688	尺	\N	chǐ	a Chinese foot / unit of length equal to 1/3 m / a foot	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	The noun is used in literary Chinese in a similar way to the modern measure word
 33689	简缩	簡縮	jiǎnsuō	an abbreviation / a short form	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
+33690	采	\N	cǎi	to pick / to pluck / to collect / to select / to choose / to gather	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	cai3.mp3	This character is also an archaic variant of the modern traditional character 採.
+33691	帏	幃	wéi	a curtain / a women's apartment / a tent	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33692	衆	\N	zhòng	many	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	zhong4.mp3	Archaic variant of 众 (traditional 眾)
+33693	彫	\N	diāo	to engrave / to carve	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 雕
+33694	裏	\N	lǐ	inside	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	li3.mp3	Archaic variant of 里 (traditional 裡)
+33695	餝	\N	shì	to adorn / to decorate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	Archaic variant of 饰 (traditional 飾)
+33696	巷陌	\N	xiàngmò	an alley / a street	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33697	帏幕	幃幕	wéimù	a screen / a backdrop	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33698	采女	\N	cǎinǚ	a title for an imperial concubine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33699	妃嫔	妃嬪	fēipín	an imperial concubine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33700	采女	\N	Cǎi Nǚ	Cai Nu	proper noun	\N	\N	神话	Mythology	\N	\N	\N	\N	The name of a goddess
+33701	像	\N	xiàng	appearance	noun	\N	\N	形态	Form	\N	\N	shijia_liang400.jpg	xiang4.mp3	\N
+33702	月日	\N	yuèrì	a month	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33703	月日	\N	yuè rì	the sun and the moon	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33704	月日	\N	yuèrì	time / days	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Especially, when emphasizing how short time is
+33705	十四	\N	shí sì	fourteen	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+33706	一日	\N	yī rì	first of the month	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
+33707	便	\N	biàn	fat / obese	adjective	\N	\N	健康	Health	\N	\N	\N	\N	\N
+33708	肥胖	\N	féipàng	fat / obese	adjective	\N	\N	健康	Health	\N	\N	\N	\N	\N
+33709	便	\N	biàn	to cheepen	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33710	便	\N	biàn	an unearned advantage	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33711	事事	\N	shìshì	everything	pronoun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33712	瞿	\N	qú	a halberd	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33713	戳	\N	chuō	to jab / to poke / to stab / to sprain / to blunt	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33714	戳	\N	chuō	a halberd	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33715	瞿	\N	qú	a thoroughfare	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 衢 in this sense
+33716	瞿	\N	qú	Buddhism or a Buddhist object	proper noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33717	迫近	\N	pòjìn	to approach / to press in	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33718	迫近	\N	pòjìn	to approach / to press in	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33719	摩	\N	mó	to approach / to press in	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 迫近 in this sense
+33720	摩	\N	mó	to sharpen	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 磨 in this sense
+33721	摩	\N	mó	to obliterate / to erase	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 磨灭 in this sense
+33722	切磋	\N	qiēcuō	to compare notes / to learn by interaction	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+33723	摩	\N	mó	to compare notes / to learn by interaction	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 切磋 in this sense
+33724	摩	\N	mó	to rub a monk's head for taking a vow	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+33725	瞿摩帝	\N	Qúmódì	Gomati Monastery	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	Mentioned in Records of Buddhistic Kingdoms
+33726	里	\N	lǐ	li / unit of length equal to 150 zhang (500 meters)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33727	庄	莊	zhuāng	a manor	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhuang1.mp3	\N
+33728	四通八达	四通八達	sì tōng bā dá	roads open in all directions / accessible from all sides	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+33729	庄	莊	zhuāng	accessible from all sides	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33730	庄	莊	zhuāng	deferential / with respect	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+33731	庄	莊	zhuāng	a piece	measure word	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+33732	庄	莊	zhuāng	to decorate / to make up	verb	\N	\N	美丽	Beauty	\N	\N	\N	\N	\N
+33733	徒跣	\N	túxiǎn	to go bearfoot	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+

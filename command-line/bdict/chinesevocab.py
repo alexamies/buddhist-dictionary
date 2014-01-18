@@ -82,7 +82,7 @@ class ChineseVocabulary:
             outf.write('Source file: %s<br/>\n' % infile)
             if 'uri' in corpus_entry:
                 uri = corpus_entry['uri']
-                outf.write('Document Source URL: %s<br/>\n' % uri)
+                outf.write('[Document Record] (%s "Document Record")<br/>\n' % uri)
             outf.write('Source: %s<br/>\n' % source)
             if 'reference' in corpus_entry:
                 reference = corpus_entry['reference']
