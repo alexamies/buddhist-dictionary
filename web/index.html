@@ -104,8 +104,8 @@
             or if you have problems.
           </span>
         </form>
-        <p ng-if="results.error">
-          Error: {{results.error}}
+        <p ng-if="results.msg">
+          {{results.msg}}
         </p>
         <table class="table table-bordered table-hover" ng-if="results.words">
           <caption>Dictionary Search Results</caption>

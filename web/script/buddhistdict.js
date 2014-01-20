@@ -8,6 +8,7 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
   $scope.formData.matchtype = 'approximate';
   $scope.results = {};
   $scope.submit = function() {
+    $scope.results = {"msg": "Searching"};
     var englishSearch = re.exec($scope.formData.text);  
     var url = "textlookup.php";
     if (englishSearch) {
@@ -21,7 +22,7 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
       $("#lookup-help-block").hide();
       $scope.results = data;
       var sans_re = /Sanskrit:[\s]+([^,]*)(.*)/;
-      if ($scope.results.words) {
+      if ($scope.results.words && $scope.results.words.length > 0) {
         for (var i=0; i < $scope.results.words.length; i++) {
           word = $scope.results.words[i];
           if (word.notes) {
@@ -31,10 +32,13 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
             self.explicitlyTrustedHtml = word.notes
           }
         }
+        delete $scope.results.msg;
+      } else {
+          $scope.results = {"msg": "No results found"};
       }
     }).error(function(data, status, headers, config) {
       $("#lookup-help-block").hide();
-      $scope.results = {"error": data};
+      $scope.results = {"msg": data};
     });
   };
 });
