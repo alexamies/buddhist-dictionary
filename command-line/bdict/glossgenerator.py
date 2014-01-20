@@ -77,6 +77,7 @@ class GlossGenerator:
         splitter = chinesephrase.ChineseWordExtractor(combined_dict)
         elements = splitter.ExtractWords(text, leave_punctuation=True, wholetext = self.wholetext)
 
+        previous = None
         for element in elements:
             if element in combined_dict:
                 entry = combined_dict[element]
@@ -86,7 +87,8 @@ class GlossGenerator:
                 if 'pos_tagged' in entry: # Phrase
                     markup += self._Phrase(element, entry)
                 else: # Word
-                    markup += self._Word(element, entry)
+                    markup += self._Word(element, entry, previous)
+                    previous = entry['traditional']
             else:
                 markup += self._Punctuation(element)
 
@@ -182,13 +184,13 @@ class GlossGenerator:
             return ''
         return '<h2>%s</h2>\n' % text
 
-    def _Word(self, element_text, entry):
+    def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
         """
 
         if self.output_type == POS_TAGGED_TYPE:
             return self.tagger.TagWord(entry['traditional']) + '\n'
-        entry = self.tagger.MostFrequentWord(entry['traditional'])
+        entry = self.tagger.MostFrequentWord(entry['traditional'], previous)
         gloss = cedict.GetGloss(entry)
         entry_id = entry['id']
         url = '/buddhistdict/word_detail.php?id=%s' % entry_id
