@@ -1,4 +1,4 @@
-##  Gao Seng Zhuan, Scroll 1 《高僧傳》卷第一
+##  Records of Eminent Monks, Scroll 1 《高僧傳》卷第一
 
 Description: The Chinese text of the document from the Taisho Tripitaka.
 

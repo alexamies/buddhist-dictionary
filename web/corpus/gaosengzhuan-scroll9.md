@@ -1,4 +1,4 @@
-##  Gao Seng Zhuan Scroll 9 Zhu Fotudeng 《高僧傳卷第九》‧竺佛圖澄
+##  Records of Eminent Monks Scroll 9, Zhu Fotudeng 《高僧傳》卷第九‧竺佛圖澄
 
 Description: The Chinese text of the document from the Taisho Tripitaka.
 
