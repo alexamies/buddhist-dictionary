@@ -5,6 +5,8 @@ The corpus documents are listed in the file $PROJECT_HOME/data/corpos/corpus.txt
 import codecs
 
 CORPUS_FILE = 'corpus.txt'
+JSON_FILE = 'corpus.json'
+JSON_DIR = '../web/script/'
 
 class CorpusManager:
     """Reads and prints the corpus data.
@@ -79,6 +81,9 @@ class CorpusManager:
                     if len(tokens) > 15:
                         if tokens[15].strip() != u'\\N':
                         	entry['pos_tagged'] = tokens[15].strip()
+                    if len(tokens) > 16:
+                        if tokens[16].strip() != u'\\N':
+                        	entry['analysis_file'] = tokens[16].strip()
                     corpus.append(entry)
         return corpus
 
@@ -97,3 +102,33 @@ class CorpusManager:
             if 'plain_text' in entry:
                 print('%s\t%s\t%s' % (entry['id'], entry['source_name'], entry['plain_text']))
 
+    def GenCorpusJSON(self):
+        """Prints the corpus data out in json format.
+ 
+        Loads the corpus from the corpus.txt file and translates into JSON.
+
+        Returns:
+          The name of the file written to.
+        """
+        corpus = self.LoadCorpus()
+        output_file = '%s%s' % (JSON_DIR, JSON_FILE)
+        with codecs.open(output_file, 'w', "utf-8") as f:
+            f.write('[')
+            for i in range(len(corpus)):
+                doc = corpus[i]
+                f.write('{')
+                j = 0
+                for key in doc.keys():
+                    if doc[key] == '\\N':
+                        f.write('"%s": ""' % (key))
+                    else:
+                        f.write('"%s": "%s"' % (key, doc[key]))
+                    if j != len(doc.keys()) - 1:
+                        f.write(',')
+                    j += 1
+                f.write('}\n')
+                if i != len(corpus) - 1:
+                    f.write(',\n')
+            f.write(']')
+            f.close()
+        return output_file

@@ -32,6 +32,12 @@ Example:
 
 Get the corpus document number from the listcorpus command.
 
+The generatejson command generates a JSON file with corpus metadata. Usage:
+
+    python bdictutil.py generatejson
+
+The data will be written to a file called corpus.json.
+
 The generategloss command generates a file with gloss in HTML format. Usage:
 
     python bdictutil.py generategloss <doc_num> [--wholetext]
@@ -53,7 +59,7 @@ Usage:
 The wordsensefreq command generates word sense frequency from part-of-speech
 tagged documents in the corpus. Usage:
 
-    python bdictutil.py wordsensefreq [doc_num]
+    python bdictutil.py wordsensefreq
 """)
 
 def main():
@@ -100,6 +106,10 @@ def main():
         generator = glossgenerator.GlossGenerator(wholetext=wholetext)
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
+    elif command == 'generatejson':
+        cmanager = corpusmanager.CorpusManager()
+        filename = cmanager.GenCorpusJSON()
+        print('Generated corpus JSON as file: %s' % filename)
     elif command == 'help':
         PrintUsage()
     elif command == 'listcorpus':

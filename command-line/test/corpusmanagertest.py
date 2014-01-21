@@ -3,6 +3,7 @@
 Tests the methods for loading the corpus file.
 """
 
+import os.path
 import unittest
 
 from bdict import corpusmanager
@@ -18,11 +19,16 @@ class CorpusManagerTest(unittest.TestCase):
         entry = corpus[0]
         self.assertEquals(entry['plain_text'], 'diamond-sutra-sanskrit.txt')
 
-
     def testGetAllTagged(self):
         manager = corpusmanager.CorpusManager()
         entries = manager.GetAllTagged()
         self.assertTrue(entries)
+
+    def testGenCorpusJSON(self):
+        manager = corpusmanager.CorpusManager()
+        filename = manager.GenCorpusJSON()
+        self.assertTrue(filename)
+        self.assertTrue(os.path.isfile(filename))
 
 
 if __name__ == '__main__':

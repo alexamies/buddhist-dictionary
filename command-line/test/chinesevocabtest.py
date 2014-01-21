@@ -33,6 +33,7 @@ class ChineseVocabTest(unittest.TestCase):
         corpus_entry['source'] = u'Taisho Tripitaka'
         corpus_entry['reference'] = u'Vol. 8, No. 251'
         corpus_entry['translator'] = u'Xuanzang'
+        corpus_entry['type'] = 'file'
         vocab = chinesevocab.ChineseVocabulary()
         vocab.BuildVocabulary(corpus_entry)
         manager = configmanager.ConfigurationManager()

@@ -76,6 +76,11 @@ database. They work directly from the text files.
    > SELECT id, topic_en FROM words WHERE topic_en NOT IN (SELECT english FROM topics);
    > SELECT id, grammar FROM words WHERE grammar NOT IN (SELECT english FROM grammar);
 
+   For the measure_words table use statemenst like
+
+   > SELECT measure_word, noun FROM measure_words WHERE measure_word NOT IN (SELECT simplified FROM words);
+   > SELECT measure_word, noun FROM measure_words WHERE noun NOT IN (SELECT simplified FROM words);
+
    For the synonyms table use statements like
 
    > SELECT simplified1, simplified2 FROM synonyms WHERE simplified1 NOT IN (SELECT simplified FROM words);
