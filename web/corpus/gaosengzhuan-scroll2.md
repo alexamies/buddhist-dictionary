@@ -24,5 +24,5 @@ End marker: 中華電子佛典協會
 
 English	translation: None
 
-Summary: This scroll contains biographical entries for Kumarajiva, Punyatāra, Dharmaruci, Vimalāksa, and others
+Summary: This scroll contains biographical entries for Kumarajiva, Punyatāra, Dharmaruci, Vimalāksa, Buddhayaśas, Buddhabhadra, and Dharmaksema.
 
