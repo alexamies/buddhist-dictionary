@@ -28110,7 +28110,7 @@
 28110	净琉璃世界	淨琉璃世界	Jìng Liúlí Shìjiè	The Land of Pure Crystal	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vaidūryanirbhāsā, established by the Medicine Buddha
 28111	罗摩	羅摩	Luómó	Rama	proper noun	\N	\N	宗教	Religion	印度教	Hinduism	\N	\N	Sanskrit: rāma, the seventh avatar of Vishnu
 28112	维摩诘所说经	維摩詰所說經	Wéimójié Suǒ Shuō Jīng	Vimalakirti Sutra / Vimalakirti Nirdesa Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vimalakīrti nirdeśa sūtra
-28113	支娄迦谶	支婁迦讖	Zhīlóujiāchèn	Lokaksema	noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Sanskrit: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras
+28113	支娄迦谶	支婁迦讖	Zhīlóujiāchèn	Lokaksema	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Sanskrit: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras
 28114	吐火罗语	吐火羅語	Tùhuǒluó Yǔ	Tocharian languages	proper noun	\N	\N	历史	History	\N	\N	\N	\N	An extinct language family from the present day Xinjiang
 28115	毗舍离	毗舍離	Píshèlí	Vaisali / Vaissali / Vaishali / City of Vaisali	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	Sanskrit: vaiśālī, Pali: vesāli; an ancient city in Bihar state, India visited by the Buddha many times
 28116	金刚般若波罗蜜多经	金剛般若波羅蜜多經	Jīngāng Bānruòbōmì Jīng	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vajracchedikā prajñāpāramitā sūtra
@@ -34009,3 +34009,18 @@
 34009	劾	\N	hé	to impeach	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34010	坼	\N	hé	to crack / to split / to break / to chap	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34011	殭	\N	jiāng	numb	adjective	\N	\N	健康	Health	\N	\N	\N	jiang1.mp3	Archaic variant of 僵
+34012	弗若多罗	弗若多羅	Fúruòduōluó	 Punyatāra	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	Indian monk who travelled to China in the Later Qin
+34013	若多罗	若多羅	Fúruòduōluó	 Punyatāra	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	Indian monk who travelled to China in the Later Qin
+34014	昙摩流支	曇摩流支	Tán Mó Liú Zhī	Bodhiruci / Dharmaruci	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from Southern India who resided in Luoyang in the Tang and helped to translate the Avatamsaka Sutra
+34015	卑摩罗叉	卑摩羅叉	Bēi Mó Luó Chā	Vimalāksa	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	\N
+34016	摄摩腾	攝摩騰	Shèmóténg	Kasyapamatanga	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	One of the first Indian monks to travell to China, sometime in the Eastern Han.
+34017	支楼迦谶	支樓迦讖	Zhīlóujiāchèn	Lokaksema	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Sanskrit: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras
+34018	维祇难	維祇難	wéizhǐnán	Vighna	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Indian monk that travelled to China circa 224
+34019	帛远	帛遠	Bó Yuǎn	Bo Yuan	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Indian monk that stayed in China during the Wei and Jin dynasties
+34020	帛尸梨密	\N	Bóshīlímì	 Śrīmitra	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from the Western Regions that stayed in China during the Jin dynasty.
+34021	帛尸梨密多罗	帛尸棃密多羅	Bóshīlímìduōluó	 Śrīmitra	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from the Western Regions that stayed in China during the Jin dynasty.
+34022	僧伽跋澄	\N	Sēngjiābáchéng	  Sajghabhūti	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Indian monk that stayed in China during the Eastern Jin dynasty (317 - 420).
+34023	昙摩难提	曇摩難提	Tánmónántí	  Dharma-nandi	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Monk from the Western Regions that stayed in China circa 384.
+34024	竺佛念	\N	Zhú Fó Niàn	  Fo Nian	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Monk from Gansu that stayed in China during the Eastern Jin (317 - 420).
+34025	昙摩耶舍	曇摩耶舍	Tánmóyēshè	  Dharma-yaśas	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	Monk from Kashmir that stayed in China during the Eastern Jin (317 - 420).
+

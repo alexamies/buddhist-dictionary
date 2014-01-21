@@ -12,4 +12,8 @@ the parameter 'help' to get information on how to use it.
 The modules in the bdict package use the config.yaml file to minize the parameters
 passed in on the command line and to help support unit testing.
 
+There is a dependency on Beautiful Soup (http://www.crummy.com/software/BeautifulSoup/) 
+for parsing HTML web documents.
+
+$ sudo pip install beautifulsoup4
 

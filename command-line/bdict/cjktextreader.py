@@ -10,6 +10,7 @@ import os.path
 from bdict import app_exceptions
 from bdict import chinesephrase
 from bdict import configmanager
+from bdict import htmldoc
 
 
 class CJKTextReader:
@@ -40,11 +41,20 @@ class CJKTextReader:
         Raises:
           BDictException: If the input file does not exist
         """
-        directory = self.config['corpus_directory']
-        infile = corpus_entry['plain_text']
-        fullpath = '%s/%s' % (directory, infile)
-        if not os.path.isfile(fullpath):
-            raise app_exceptions.BDictException('%s is not a file' % infile)
+        strings = []
+        if 'type' in corpus_entry and corpus_entry['type'] == 'web':
+            doc_url = corpus_entry['plain_text']
+            strings = htmldoc.readWebToPlainStrings(doc_url)
+        else:
+            directory = self.config['corpus_directory']
+            infile = corpus_entry['plain_text']
+            fullpath = '%s/%s' % (directory, infile)
+            if not os.path.isfile(fullpath):
+                raise app_exceptions.BDictException('%s is not a file' % infile)
+            with codecs.open(fullpath, 'r', "utf-8") as f:
+                # print('Reading input file %s ' % fullpath)
+                for line in f:
+                    strings.append(line)
 
         found_start = False
         start_marker = None
@@ -58,29 +68,27 @@ class CJKTextReader:
         text = ''
         found_end = False
 
-        with codecs.open(fullpath, 'r', "utf-8") as f:
-            # print('Reading input file %s ' % fullpath)
-            for line in f:
-                if not found_start:
-                    # Look for start marker
-                    pos = line.find(start_marker)
-                    if pos != -1:
-                        found_start = True
-                        line = line[pos:]
-                    else:
-                        continue
-                if found_end:
-                    break;
-                if end_marker:
-                    end_pos = line.find(end_marker)
-                    if end_pos > -1:
-                        line = line[0:end_pos]
-                        found_end = True
-                cjk = ''
-                for c in line:
-                    if chinesephrase.isCJKLetter(c) or chinesephrase.isCJKPunctuation(c):
-                        cjk += c
-                text += cjk
+        for input_str in strings:
+            if not found_start:
+                # Look for start marker
+                pos = input_str.find(start_marker)
+                if pos != -1:
+                    found_start = True
+                    input_str = input_str[pos:]
+                else:
+                    continue
+            if found_end:
+                break;
+            if end_marker:
+                end_pos = input_str.find(end_marker)
+                if end_pos > -1:
+                    input_str = input_str[0:end_pos]
+                    found_end = True
+            cjk = ''
+            for c in input_str:
+                if chinesephrase.isCJKLetter(c) or chinesephrase.isCJKPunctuation(c):
+                    cjk += c
+            text += cjk
         return text
 
     def ReadWholeText(self, corpus_entry):
@@ -99,6 +107,11 @@ class CJKTextReader:
         Raises:
           BDictException: If the input file does not exist
         """
+        strings = []
+        if 'type' in corpus_entry and corpus_entry['type'] == 'web':
+            doc_url = corpus_entry['plain_text']
+            return htmldoc.readWebToPlainText(doc_url)
+
         directory = self.config['corpus_directory']
         infile = corpus_entry['plain_text']
         fullpath = '%s/%s' % (directory, infile)

@@ -81,6 +81,19 @@ class CJKTextReaderTest(unittest.TestCase):
         start = u'【經錄部類】'
         self.assertEquals(0, text.find(start))
 
+    def testReadWeb(self):
+        start = u'高僧傳卷第二'
+        end = u'中華電子佛典協會'
+        corpus_entry = {}
+        corpus_entry['type'] = 'web'
+        corpus_entry['plain_text'] = 'http://www.cbeta.org/result/normal/T50/2059_002.htm'
+        corpus_entry['start'] = start
+        corpus_entry['end'] = end
+        reader = cjktextreader.CJKTextReader()
+        text = reader.ReadText(corpus_entry)
+        self.assertTrue(text)
+        self.assertEquals(0, text.find(start))
+
 
 if __name__ == '__main__':
     unittest.main()
