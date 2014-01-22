@@ -116,8 +116,8 @@ class GlossGenerator:
             if self._CheckTagDirectory():
                 tagged_directory = self._CheckTagDirectory()
                 outfile = '%s/%s' % (tagged_directory, outfile)
-        elif corpus_entry['type'] == 'file' and infile.find('.') > -1:
-            outfile = '%s-gloss.html' % infile[0:period_pos]
+        elif 'gloss_file' in corpus_entry:
+            outfile = corpus_entry['gloss_file']
             if self._CheckGlossDirectory():
                 gloss_directory = self._CheckGlossDirectory()
                 outfile = '%s/%s' % (gloss_directory, outfile)

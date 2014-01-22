@@ -24,5 +24,4 @@ End marker: 中華電子佛典協會
 
 English	translation: None
 
-Summary: This scroll contains biographical entries for Fa Xian, Gunabhadra, and others.
-
+Summary: This scroll contains biographical entries for Fa Xian, Dharmodgata, Buddhavarman, Zhi Yan, Bao Yun, Gunavarman,  Sajghavarman, Dharma-mitra, Zhi Meng,  Kālayaśas, Gunabhadra, Gunavrddhi, and one other.

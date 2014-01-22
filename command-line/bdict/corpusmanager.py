@@ -84,6 +84,9 @@ class CorpusManager:
                     if len(tokens) > 16:
                         if tokens[16].strip() != u'\\N':
                         	entry['analysis_file'] = tokens[16].strip()
+                    if len(tokens) > 17:
+                        if tokens[17].strip() != u'\\N':
+                        	entry['gloss_file'] = tokens[17].strip()
                     corpus.append(entry)
         return corpus
 

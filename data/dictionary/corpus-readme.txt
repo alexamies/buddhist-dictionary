@@ -52,7 +52,10 @@ pos_tagged: The name of a file with part-of-speech tagged text (optional).
 
 analysis_file: The name of the file for vocabulary analysis. The bdicttil.py
                command line utility will generate a file with this name
-                (optional).
+               (optional).
+
+gloss_file: The name of the file for HTML mouse-over gloss. The bdicttil.py
+            command line utility will generate a file with this name (optional).
 
 
 phrases.txt
