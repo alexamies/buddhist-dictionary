@@ -69,8 +69,8 @@ class ChineseVocabulary:
         infile = corpus_entry['plain_text']
         period_pos = infile.find('.')
         outfile = DEFAULT_OUTFILE
-        if corpus_entry['type'] == 'file' and infile.find('.') > -1:
-            outfile = '%s-analysis.md' % infile[0:period_pos]
+        if 'analysis_file' in corpus_entry:
+            outfile = corpus_entry['analysis_file']
         if self.config['analysis_directory']:
             analysis_directory = self.config['analysis_directory']
             outfile = '%s/%s' % (analysis_directory, outfile)
