@@ -1,4 +1,4 @@
-##  Records of Eminent Monks, Scroll 2 《高僧傳》卷第二
+##  Biographies of Eminent Monks, Scroll 2 《高僧傳》卷第二
 
 Description: The Chinese text of the document from the Taisho Tripitaka.
 

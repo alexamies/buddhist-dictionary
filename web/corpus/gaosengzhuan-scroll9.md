@@ -1,4 +1,4 @@
-##  Records of Eminent Monks Scroll 9 《高僧傳》卷第九
+##  Biographies of Eminent Monks, Scroll 9 《高僧傳》卷第九
 
 Description: The Chinese text of the document from the Taisho Tripitaka.
 
