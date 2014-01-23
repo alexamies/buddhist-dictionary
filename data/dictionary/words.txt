@@ -29654,7 +29654,7 @@
 29654	降生	\N	jiàngshēng	to be born	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 29655	泥洹经	泥洹經	Nièpán Jīng	The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A version of the Nirvana Sutra translated in the Tang Kai Yuan reign (712-756)
 29656	如来藏	如來藏	Rúlái Zàng	Buddha-nature / Buddha-dhatu / Buddha Principle / Tathagatagarbha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: buddhadhātu, tathāgatagarbha
-29657	高僧传	高僧傳	Gāo Sēng Zhuàn	Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	\N	\N	\N	\N	Biographies of monks in China
+29657	高僧传	高僧傳	Gāo Sēng Zhuàn	Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	\N	\N	\N	\N	A collection of biographies of monks in China, compiled in the Liang dynasty by Huijiao 慧皎
 29658	大本经	大本經	Dà Běn Jīng	Mahapadana Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A Theravada text
 29659	弊宿经	弊宿經	Bì Sù Jīng	Payasi Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A Theravada text
 29660	大缘经	大緣經	Bì Yuán Jīng	Mahanidana Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A Theravada text
@@ -34104,15 +34104,42 @@
 34104	赙	賻	fù	to contribute to funeral expenses	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34105	詺	\N	mìng	to name	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 名
 34106	烬	燼	jìn	ashes / embers	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 名
-34107	释昙无竭	釋曇無竭	Shì Tánwújié	   Dharmodgata	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from Youzhou mentioned in the Liang Record of Eminent Monks, Scroll 3 梁高僧傳卷第三.
-34108	昙无竭	曇無竭	Tánwújié	Dharmodgata	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from Youzhou mentioned in the Liang Record of Eminent Monks, Scroll 3 梁高僧傳卷第三.
-34109	浮陀跋摩	\N	Fútuóbámó	Buddhavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from the Western Regions who travelled to China c 437, mentioned in the Liang Record of Eminent Monks, Scroll 3 梁高僧傳卷第三.
-34110	智严	智嚴	Zhì Yán	Zhi Yan	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	350 - 427, Monk from Gansu who travelled to China in the Eastern Jin, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
-34111	宝云	寶雲	Bǎo Yún	Bao Yun	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	376 - 449, Monk from Gansu mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
+34107	释昙无竭	釋曇無竭	Shì Tánwújié	   Dharmodgata	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from Youzhou mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34108	昙无竭	曇無竭	Tánwújié	Dharmodgata	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from Youzhou mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34109	浮陀跋摩	\N	Fútuóbámó	Buddhavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from the Western Regions who travelled to China c 437, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34110	智严	智嚴	Zhì Yán	Zhi Yan	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	350 - 427, Monk from Gansu who travelled to China in the Eastern Jin, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34111	宝云	寶雲	Bǎo Yún	Bao Yun	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	376 - 449, Monk from Gansu mentioned in the Liang Biographies of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
 34112	涼州	\N	Liángzhōu	Liangzhou	proper noun	城市	City	地方	Places	甘肃	Gansu	\N	\N	Name of a city in Gansu
-34113	求那跋摩	\N	Qiúnàbámó    Gunavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	367 - 431, Monk from India who travelled to China in the Liu Song, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
-34114	僧伽跋摩	\N	Sēngjiābámó     Sajghavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from India who travelled to China in the Liu Song, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
-34115	昙摩密多	曇摩密多	Tánmómìduō      Dharma-mitra	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	356 - 442, Monk from India who travelled to China in the Liu Song, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
-34116	智猛	\N	Zhì Měng      Zhi Meng	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Liu Song (420 - 479) monk from Shaanxi, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
-34117	疆良耶舍	\N	Jiāngliángyéshè       Kālayaśas	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	356 - 442, Monk from the Western Regions who travelled to China in the Liu Song, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
-34118	求那毘地	\N	Qiúnàpídì        Gunavrddhi	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	? - 502, Monk from India who travelled to China, mentioned in the Liang Record of Eminent Monks, Scroll 3 Scroll 3 梁高僧傳卷第三.
+34113	求那跋摩	\N	Qiúnàbámó	Gunavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	367 - 431, Monk from India who travelled to China in the Liu Song, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34114	僧伽跋摩	\N	Sēngjiābámó	Sajghavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk from India who travelled to China in the Liu Song, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34115	昙摩密多	曇摩密多	Tánmómìduō	Dharma-mitra	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	356 - 442, Monk from India who travelled to China in the Liu Song, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34116	智猛	\N	Zhì Měng      Zhi Meng	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Liu Song (420 - 479) monk from Shaanxi, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34117	疆良耶舍	\N	Jiāngliángyéshè	Kālayaśas	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	356 - 442, Monk from the Western Regions who travelled to China in the Liu Song, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34118	求那毘地	\N	Qiúnàpídì        Gunavrddhi	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	? - 502, Monk from India who travelled to China, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三.
+34119	释慧皎	釋慧皎	Shì Huìjiǎo       Hui Jiao	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	497 - 554, Liang Monk from Shangyu (in present-day Zhejiang) who compiled the Biographies of Eminent Monks 高僧傳.
+34120	慧皎	\N	Huìjiǎo       Hui Jiao	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	497 - 554, Liang Monk from Shangyu (in present-day Zhejiang) who compiled the Biographies of Eminent Monks 高僧傳.
+34121	上虞	\N	Shàngyú	Shangyu	proper noun	\N	\N	地方	Places	\N	\N	\N	\N	Name of an ancient place in present-day Zhejiang
+34122	德高望重	\N	dé gāo wàng zhòng	a person of virtue and prestige	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+34123	四朝高僧传	四朝高僧傳	Sì Cháo Gāo Sēng Zhuàn	Four Collections of Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	中國	China	\N	\N	Starting with the original Biographies of Eminent Monks 高僧传 compiled in the Liang dynasty by Huijiao 慧皎, secondly the Continued Biographies of Eminent Monks 续高僧传 by Dao An in the Tang, thirdly the Song Biographies of Eminent Monks 宋高僧传, and finally the Ming Biographies of Eminent Monks 大明高僧传.
+34124	梁高僧传	梁高僧傳	Liáng Gāo Sēng Zhuàn	Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	中國	China	\N	\N	A collection of biographies of monks in China, compiled in the Liang dynasty by Huijiao 慧皎
+34125	续高僧传	續高僧傳	Xù Gāo Sēng Zhuàn	Continued Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	中國	China	\N	\N	A collection of biographies of monks in China after the Liang, compiled in the Tang dynasty by Dao An 道宣
+34126	大明高僧传	大明高僧傳	Dà Míng Gāo Sēng Zhuàn	Continued Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	中國	China	\N	\N	A collection of biographies of monks in China after the Song, compiled in the Ming dynasty
+34127	剡	\N	Shàn	Shan	proper noun	河	River	地方	Places	浙江	Zhejiang	\N	\N	A river in Zhejiang
+34128	剡	\N	yǎn	sharp	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34129	朱士行	\N	Zhū Shìxíng       Zhu Shixing	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	203 - 282, Wei dynasty monk, the first Chinese monk to travel to the Western Regions, mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34130	颍川	潁川	Yǐngchuān	Yingchuan	proper noun	\N	\N	历史	History	\N	\N	\N	\N	An ancient place in present-day Henan province
+34131	支孝龙	支孝龍	Zhī Xiàolóng       Zhi Xiaolong	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Wei and Jin dynasty monk, mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34132	康僧渊	康僧淵	Kāng Sēngyuān       Kang Sengyuan	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Eastern Jin dynasty monk from the Western Regions, mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34133	竺法雅	\N	Zhú Fǎyǎ       Zhu Faya	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk from Hebei, mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34134	康法朗	\N	Kāng Fǎlǎng       Kang Falang	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk from Henan, mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34135	竺法乘	\N	Zhú Fǎchéng       Zhu Facheng	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34136	竺潜深	竺潛深	Zhú Qiánshēn       Zhu Qianshen	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34137	支道林	\N	Zhī Dàolín       Zhi Daolin	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34138	于法兰	于法蘭	Yú Fǎlán       Yu Falan	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk from Hebei mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34139	于法开	于法開	Yú Fǎkāi       Yu Fakai	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34140	于道邃	\N	Yú Fǎsuì       Yu Fasui	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34141	竺法崇	\N	Zhú Fǎchóng       Zhu Fachong	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34142	竺法义	竺法義	Zhú Fǎyì       Zhu Fayi	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	307 - 380, Jin dynasty monk, a disciple of 竺道潛, from Jiangsu, mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+34143	竺道潜	竺道潛	Zhú Dàoqián       Zhu Daoqian	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Jin dynasty monk
+34144	竺僧度	\N	Zhú Fǎdù       Zhu Fadu	proper noun	法师	Venerable	佛教	Buddhism	中國	China	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 4 梁高僧傳卷第四.
+
