@@ -106,3 +106,8 @@ database. They work directly from the text files.
    Python 3 may be better but NLTK does not support Python 3 yet. Font support for these new 
    characters is spotty as well and they may easily be corrupted with cut-and-paste.
 
+4. To detect skipped rows, create a duplicate table with no primary key constraint and then do a select
+   statements like
+
+   > select count(medium_resolution) as num_dups, medium_resolution from illustrations1 group by medium_resolution having num_dups > 1;
+
