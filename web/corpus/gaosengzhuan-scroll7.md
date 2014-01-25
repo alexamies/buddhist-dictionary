@@ -16,7 +16,7 @@ Reference: Taisho Tripitaka Vol. 50, No. 2059, Scroll 7
 
 Compiled by: Shi Hui Jiao
 
-Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T50/2059_006.htm "Document at CBETA")
+Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T50/2059_007.htm "Document at CBETA")
 
 Start marker: 高僧傳卷第七
 
