@@ -115,7 +115,8 @@ class BigramTagger:
                     if word_id == w_entry['id']:
                         word_entry = w_entry
                         break
-        return word_entry
+            return word_entry
+        return None
 
     def SaveFreq(self, wfreq, filename):
         """Saves the bigram word sense frequency distribution to a file.

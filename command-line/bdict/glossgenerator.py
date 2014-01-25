@@ -187,12 +187,13 @@ class GlossGenerator:
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
         """
-
+        # print('_Word element_text = %s' % element_text)
         if self.output_type == POS_TAGGED_TYPE:
             return self.tagger.TagWord(entry['traditional']) + '\n'
         entry = self.tagger.MostFrequentWord(entry['traditional'], previous)
         gloss = cedict.GetGloss(entry)
         entry_id = entry['id']
+        # print('_Word entry_id = %s' % entry_id)
         url = '/buddhistdict/word_detail.php?id=%s' % entry_id
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)
 

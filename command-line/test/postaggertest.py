@@ -103,6 +103,13 @@ class POSTaggerTest(unittest.TestCase):
         expected = u'7115'
         self.assertEqual(expected, word['id'])
 
+    def testMostFrequentWord3(self):
+        tagger = postagger.POSTagger()
+        traditional = u'也'
+        word = tagger.MostFrequentWord(traditional)
+        expected = u'8853'
+        self.assertEqual(expected, word['id'])
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -112,6 +112,7 @@ class POSTagger:
           A dictionary word entry
         """
         word = None
+        # print('MostFrequentWord traditional = %s, previous = %s' % (traditional, previous))
         if previous:
             word = self.bigram_tagger.MostFrequentWord(previous, traditional)
         if not word:
