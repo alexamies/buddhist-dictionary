@@ -21639,7 +21639,7 @@
 21639	安于	安於	ānyú	to feel contented with	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 21640	火机	火機	huǒjī	a cigarette lighter	noun	\N	\N	火	Fire	\N	\N	\N	\N	\N
 21641	舂	\N	chōng	to pound (grain) / to beat	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
-21642	计算机科学	計算機科學	jìsuànjī kēxué	computer science	set phrase	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
+21642	计算机科学	計算機科學	jìsuànjī kēxué	computer science	set phrase	\N	\N	信息技术	Information Technology	计算机科学	Computer Science	\N	\N	\N
 21643	电筒	電筒	diàntǒng	a flashlight	noun	\N	\N	光纤	Light	\N	\N	\N	\N	\N
 21644	降解	\N	jiàngjiě	to breakdown	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 21645	钥匙扣	鑰匙釦	yàoshi kòu	a key ring	noun	\N	\N	家庭用品	Household Article	\N	\N	\N	\N	\N
@@ -29681,7 +29681,7 @@
 29681	经律异相	經律異相	Jīng Lǜ Yì Xiāng	Different Aspects of the Sutras and Vinaya	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	\N
 29682	法苑珠林	\N	Fǎ Yuàn Zhū Lín	Fayuan Zhulin	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An encyclopedia by Daoshi 道世
 29683	魏书	魏書	Wèi Shū	Book of Wei	proper noun	书	Book	历史	History	中国	China	\N	\N	An encyclopedia by Daoshi 道世
-29684	佛祖统纪	佛祖統紀	Fó Zǔ Tǒng Jì	Chronicle of the Buddhas and the Patriarchs	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	By Zhipan 志磐
+29684	佛祖统纪	佛祖統紀	Fó Zǔ Tǒng Jì	Chronicle of the Buddhas and the Patriarchs	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	Compiled by Zhipan 志磐 in the Southern Song, 54 scrolls.
 29685	菩萨受斋经	菩薩受齋經	Púsà Shòu Zhāi Jīng	Bodhisattva Fasting Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 29686	三慧经	三慧經	Púsà Shòu Zhāi Jīng	Sutra on the Three Wisdoms	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 29687	民居	\N	mínjū	a house / a home / a residence	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
@@ -34491,3 +34491,33 @@
 34491	擭	\N	huò	to trap	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34492	棹	\N	zhào	to paddle / to row / a boat	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34493	棹	\N	zhào	an oar / a scull / a paddle	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34494	词汇功能语法	詞彙功能語法	cíhuì gōngnéng yǔfǎ	lexical functional grammar	noun	\N	\N	语言学	Linguistics	计算语言学	Computational Linguistics	\N	\N	\N
+34495	计算语言学	計算語言學	jìsuàn yǔyánxué	computational linguistics	noun	\N	\N	语言学	Linguistics	计算语言学	Computational Linguistics	\N	\N	\N
+34496	生成文法	\N	shēngchéng wénfǎ	generative grammar	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
+34497	语法分析器	語法分析器	yǔfǎ fēnxī qì	parser	noun	\N	\N	信息技术	Information Technology	计算机科学	Computer Science	\N	\N	\N
+34498	志磐	\N	Zhì Pán	Zhi Pan	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Southern Song monk who compiled Chronicle of the Buddhas and the Patriarchs《佛祖統紀》.
+34499	讷	訥	nè	to speak cautiously	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34500	讷	訥	nè	large	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34501	讷	奘	zhuǎng	fat / stout	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34502	讷	奘	zàng	great	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34503	笺	箋	jiān	a letter / note-paper	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34504	缗	緡	mín	cord / fishing-line / string of coins	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34505	諡	\N	shì	posthumous name or title	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Variant of 谥
+34506	蹂	\N	róu	to trample	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34507	孥	\N	nú	child / offspring	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34508	窦	竇	dòu	hole / aperture	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34509	窦	竇	dòu	cavity / sinus	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+34510	矩	\N	jǔ	a set square / a rule / a regulation / a pattern	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ju3.mp3	This simplified character is also an archaic variant of 榘.
+34511	俶	\N	chù	to begin	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34512	晅	\N	xuān	the light of the sun	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34513	晅	\N	xuān	to dry in the sun	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34514	驸	駙	fù	prince consort	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34515	琏	璉	liǎn	vessel used for grain offerings	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34516	昉	\N	fǎng	dawn	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34517	昉	\N	fǎng	to begin	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34518	泸	瀘	Lú	Lu River	proper noun	河	River	地方	Places	江西	Jiangxi	\N	\N	\N
+34519	詹	\N	zhān	excellent / verbose	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34520	楫	\N	jí	an oar	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34521	岩	\N	yán	precipice / cliff	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yan2.mp3	The simplified character is also an archaic variant of 巖.
+34522	孝文	\N	Xiàowén	Emperor Xiaowen of Wei	proper noun	皇帝	Emperor	历史	History	北魏	Wei of the Northern Dynasties	\N	\N	(Lived 467－499, reigned 471－499) reign name
+34523	阚	闞	kàn	to glance / to peep	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	
