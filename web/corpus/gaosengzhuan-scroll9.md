@@ -14,7 +14,7 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Reference: Taisho Tripitaka Vol. 50, No. 2059
 
-Compiled by: Shi Hui Jiao
+Compiled by: Hui Jiao
 
 Document: [Document at CBETA] (http://www.cbeta.org/result2/normal/T50/2059_009.htm "Document at CBETA")
 
