@@ -34521,24 +34521,60 @@
 34521	岩	\N	yán	precipice / cliff	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yan2.mp3	The simplified character is also an archaic variant of 巖.
 34522	孝文	\N	Xiàowén	Emperor Xiaowen of Wei	proper noun	皇帝	Emperor	历史	History	北魏	Wei of the Northern Dynasties	\N	\N	(Lived 467－499, reigned 471－499) reign name
 34523	阚	闞	kàn	to glance / to peep	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34554	竺僧显	竺僧顯	Zhú Sēngxiǎn	Zhu Sengxian	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34555	帛僧光	\N	Bó Sēngguāng	Zhu Sengxian	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34556	竺昙猷	竺曇猷	Zhú Tányóu	Zhu Tanyou	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34557	慧嵬	\N	Huìwéi	Huiwei	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34558	贤护	賢護	Xiánhù	Xianhu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34559	支昙兰	支曇蘭	Zhī Tán Lán	Zhi Tan Lan	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34560	法绪	法緒	Fǎxù	Faxu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34561	玄高	\N	Xuángāo	Xuangao	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	402 - 444 Northern Wei monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
-34562	狁	\N	Yǔn	Yun people	proper noun	民族	Ethnic Group	古文	Classical Chinese	\N	\N	\N	\N	Name of an ethnic group from the Northern China
-34563	涪	\N	Fú	Fu River	proper noun	河	River	地方	Places	四川	Sichuan	\N	\N	A river in Sichuan
-34564	柩	\N	jiù	bier	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34565	猃	獫	xiǎn	a kind of dog with a long snout	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34566	抟	摶	tuán	to roll up into a ball with one's hands	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34567	抟	摶	tuán	round	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34568	笳	\N	jiā	a whistle made of reed	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34569	萤	螢	yíng	a firefly / glow-worm	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34570	搔	\N	sāo	to scratch	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34571	袷	\N	jiá	to press from either side / to sandwich	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 夹 in this sense.
-34572	絷	縶	zhí	to connect / to tie up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34573	爝	\N	jué	a torch	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34574	燔	\N	fán	to burn / to roast meat for sacrifice	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34524	竺僧显	竺僧顯	Zhú Sēngxiǎn	Zhu Sengxian	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34525	帛僧光	\N	Bó Sēngguāng	Zhu Sengguang	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34526	竺昙猷	竺曇猷	Zhú Tányóu	Zhu Tanyou	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34527	慧嵬	\N	Huìwéi	Huiwei	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34528	贤护	賢護	Xiánhù	Xianhu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34529	支昙兰	支曇蘭	Zhī Tán Lán	Zhi Tan Lan	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34530	法绪	法緒	Fǎxù	Faxu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34531	玄高	\N	Xuángāo	Xuangao	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	402 - 444 Northern Wei monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34532	狁	\N	Yǔn	Yun people	proper noun	民族	Ethnic Group	古文	Classical Chinese	\N	\N	\N	\N	Name of an ethnic group from the Northern China
+34533	涪	\N	Fú	Fu River	proper noun	河	River	地方	Places	四川	Sichuan	\N	\N	A river in Sichuan
+34534	柩	\N	jiù	bier	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34535	猃	獫	xiǎn	a kind of dog with a long snout	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34536	抟	摶	tuán	to roll up into a ball with one's hands	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34537	抟	摶	tuán	round	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34538	笳	\N	jiā	a whistle made of reed	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34539	萤	螢	yíng	a firefly / glow-worm	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34540	搔	\N	sāo	to scratch	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34541	袷	\N	jiá	to press from either side / to sandwich	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 夹 in this sense.
+34542	絷	縶	zhí	to connect / to tie up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34543	爝	\N	jué	a torch	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34544	燔	\N	fán	to burn / to roast meat for sacrifice	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34545	僧周	\N	Sēngzhōu	Sengzhou	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 11 梁高僧傳卷第十一.
+34546	僧群	\N	Sēngqún	Sengqun	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34547	昙称	曇稱	Tánchēng	Tancheng	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34548	法进	法進	Fǎjìn	Fajin	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34549	僧富	\N	Sēngfù	Sengfu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34550	法羽	\N	Fǎyǔ	Fayu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34551	慧绍	慧紹	Huìshào	Huishao	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34552	僧瑜	\N	SēngYú	Sengyu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34553	慧益	\N	Huìyì	Huiyi	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34554	僧庆	僧慶	Sēngqìng	Sengqing	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34555	法光	\N	Fǎguāng	Faguang	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34556	昙弘	曇弘	Tánhóng	Tanhong	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Monk mentioned in the Liang Biographies of Eminent Monks, Scroll 12 梁高僧傳卷第十二.
+34557	圊	\N	qīng	a pigsty / rest-room	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34558	觋	覡	xí	a wizard	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34559	虱	\N	shī	a louse	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34560	滂	\N	pāng	rushing	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	As in rushing water
+34561	蚤	\N	zǎo	a flea	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	\N
+34562	苋	莧	xiàn	amaranth / Chinese spinach	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34563	鸩	鴆	zhèn	a legendary bird whose feathers can be used as poison	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34564	鸩	鴆	zhèn	poisonous	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34565	鸩	鴆	zhèn	to poison	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34566	廪	廩	lǐn	a government granary	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34567	菽	\N	shū	legumes	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34568	恫	\N	dòng	to frighten	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34569	懍	\N	lǐn	to be afraid of / to be awed by	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34570	俳	\N	pái	not serious	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34571	朮	\N	pái	not serious	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+345722	朮	\N	shù	a method / a technique	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	shu4.mp3	Archaic variant of 术 (traditional 術)
+34573	蒱	\N	pú	a gambling-game / sedges	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34574	刳	\N	kū	to cut open / to rip up / to scoop out	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34575	豢	\N	huàn	to rear / to raise	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	As in to raise animals
+34576	醪	\N	láo	wine or liquor with sediment	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34577	暝	\N	míng	dark	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34578	暝	\N	míng	to become dark	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34579	唼	\N	shǎ	to speak evil / to make a gobbling sound	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	As in the sound made by ducks
+34580	狸	\N	lí	a raccoon dog / a fox-like animal	noun	动物	Animal	大自然	Nature	\N	\N	\N	\N	\N

@@ -25,5 +25,5 @@ End marker: 中華電子佛典協會
 English	translation: None
 
 ### Summary
-This scroll includes entries for ..
+This scroll includes entries for Zhu Sengxian, Sengguang, Zhu Tanyou, Zhu Tanyou, Huiwei, Xianhu, Zhi Tan Lan, Faxu, Xuangao, Sengzhou, Huitong, and others.
 
