@@ -564,7 +564,7 @@
 564	放下	\N	fàngxia	lay down / put down / let go	verb	\N	\N	行为	Actions	\N	\N	\N	fang4xia.mp3	\N
 565	武器	\N	wǔqì	weapon / arms	noun	\N	\N	武器	Weapons	\N	\N	\N	wu3qi4.mp3	\N
 566	否则	否則	fǒuzé	if not / otherwise / else / or else	conjunction	\N	\N	虚词	Function Words	\N	\N	\N	fou3ze2.mp3	\N
-567	会	會	huì	can / be possible / be able to / to assemble / to meet	verb	\N	\N	\N	\N	\N	\N	\N	hui4.mp3	\N
+567	会	會	huì	can / be possible / be able to / to assemble / to meet	verb	\N	\N	商务	Commerce	\N	\N	\N	hui4.mp3	\N
 568	灭	滅	miè	to extinguish / to destroy	verb	\N	\N	暴力	Violence	\N	\N	\N	mie4.mp3	\N
 569	面临	面臨	miànlín	to be confronted with	verb	\N	\N	状况	Condition	\N	\N	\N	mian4lin2.mp3	\N
 570	进一步	進一步	jìnyībù	one step further	adverb	\N	\N	移动	Movement	\N	\N	\N	jin4yi2bu4.mp3	\N
@@ -1582,7 +1582,7 @@
 1582	调	調	diào	to move (troops) / to transfer	verb	\N	\N	工作	Work	\N	\N	\N	diao4.mp3	\N
 1583	调	調	diào	mode / tune / tone	noun	\N	\N	音乐	Music	\N	\N	\N	diao4.mp3	\N
 1584	音乐	音樂	yīnyuè	music	noun	\N	\N	音乐	Music	\N	\N	\N	\N	\N
-1585	铅	\N	qiān	lead	noun	元素	Chemical Element	化学	Chemistry	\N	\N	\N	qian1.mp3	\N
+1585	铅	鉛	qiān	lead	noun	元素	Chemical Element	化学	Chemistry	\N	\N	\N	qian1.mp3	\N
 1586	化学	 化學	huàxué	chemistry	noun	\N	\N	化学	Chemistry	\N	\N	\N	hua4xue2.mp3	\N
 1587	锌	鋅	xīn	zinc	noun	元素	Chemical Element	化学	Chemistry	\N	\N	\N	xin1.mp3	\N
 1588	铜	銅	tóng	copper	noun	元素	Chemical Element	化学	Chemistry	\N	\N	\N	tong2.mp3	\N
@@ -34629,4 +34629,26 @@
 34629	鍱	\N	yè	thin plates of metal	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34630	籴	糴	dí	to buy up grain	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34631	罹	\N	lí	to happen to / sorrow / suffer from	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34632	跼	\N	jú	cramped / narrow 	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34632	跼	\N	jú	cramped / narrow	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34633	嘉祥寺	\N	Jiāxiáng Sì	Jiaxiang Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Kuaiji mentioned in the Liang Biographies of Eminent Monks 梁高僧.
+34633	会	會	kuài	to balance an account	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34635	会稽	會稽	Kuàijī	Kuaiji Mountain	proper noun	山	Mountain	地方	Places	四川	\N	\N	\N	An ancient place name
+34636	揄	\N	yú	to draw out / to let hanging	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34637	揩	\N	kāi	to wipe	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34638	黎	\N	Lí	Li People	proper noun	民族	Ethnic Group	人类学	Anthropology	\N	\N	\N	li2.mp3	\N
+34639	俚	\N	lǐ	Li People	proper noun	民族	Ethnic Group	古文	Classical Chinese	\N	\N	\N	\N	Archaic form synonymous with 黎 in this sense
+34640	俚	\N	lǐ	rustic / vulgar / unrefined	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34641	糅	\N	róu	to mix	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34642	挈	\N	qiè	to raise / to lift / to take along	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34643	摭	\N	zhí	to pick up / to select	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34644	湓	\N	pén	to flow	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34645	掎	\N	jǐ	to drag	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34646	簉	\N	zào	deputy / subordinate / concubine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34647	嘘	噓	xū	to exhale slowly / to hiss	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34648	筴	\N	cè	method / plan / policy / scheme	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ce4.mp3	Archaic variant of 策.
+34649	诮	誚	qiào	to ridicule / to blame	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34650	电子佛典	電子佛典	Diànzǐ Fó Diǎn	CBETA	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+34651	史传部	史傳部	Shǐchuán Bù	Historical Biography Section	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, of the Tripiṭaka
+34652	史传	史傳	shǐchuán	historical biography	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
+34653	经录部	經錄部	Jīng Lù Bù	Sūtra Record Section	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, of the Tripiṭaka
+34654	普及版	\N	pǔjí bǎn	universal edition	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N

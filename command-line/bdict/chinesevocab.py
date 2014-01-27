@@ -52,9 +52,11 @@ class ChineseVocabulary:
         splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text, leave_punctuation=True)
         wc += len(words)
+        char_count = 0
         for word in words:
             finder.AddWord(word)
             if not chinesephrase.isCJKPunctuation(word):
+                char_count += len(word)
                 if word in wdict:
                     if word not in known_words:
                         known_words[word] = 1
@@ -99,8 +101,8 @@ class ChineseVocabulary:
             outf.write('### Word count\n')
             num_known = len(known_words)
             num_new = len(new_words)
-            outf.write('Word count: %d, unique words: %d, known words: %d, new words: %d\n' % 
-                  (wc, num_known + num_new, num_known, num_new))
+            outf.write('Character count: %d, word count: %d, unique words: %d, known words: %d, new words: %d\n' % 
+                  (char_count, wc, num_known + num_new, num_known, num_new))
             outf.write('\n')
             matcher = phrasematcher.PhraseDataset()
             matcher.Load()

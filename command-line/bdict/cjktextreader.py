@@ -75,6 +75,7 @@ class CJKTextReader:
                 if pos != -1:
                     found_start = True
                     input_str = input_str[pos:]
+                    # print('CJKTextReader.ReadText start_marker: %s found' % start_marker)
                 else:
                     continue
             if found_end:
