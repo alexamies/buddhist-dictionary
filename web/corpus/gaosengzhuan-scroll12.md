@@ -25,5 +25,5 @@ End marker: 中華電子佛典協會
 English	translation: None
 
 ### Summary
-This scroll includes entries for Sengqun, Tancheng, Fajin, Sengfu, Fayu, Huishao, ..
+This scroll includes entries for Sengqun, Tancheng, Fajin, Sengfu, Fayu, Huishao, Sengyu, Huiyi, Sengqing, Faguang, and Tanhong.
 
