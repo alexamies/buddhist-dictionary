@@ -78,8 +78,8 @@ class CJKTextReaderTest(unittest.TestCase):
         reader = cjktextreader.CJKTextReader()
         text = reader.ReadWholeText(corpus_entry)
         self.assertTrue(text)
-        start = u'【經錄部類】'
-        self.assertEquals(0, text.find(start))
+        start = u'如是我聞'
+        self.assertTrue(text.find(start) > 0)
 
     def testReadWeb(self):
         start = u'高僧傳卷第二'
