@@ -108,8 +108,13 @@ def main():
         print('Wrote output to file %s' % filename)
     elif command == 'generatejson':
         cmanager = corpusmanager.CorpusManager()
-        filename = cmanager.GenCorpusJSON()
-        print('Generated corpus JSON as file: %s' % filename)
+        if len(sys.argv) == 2:
+            filename = cmanager.GenCorpusJSON()
+            print('Generated corpus JSON as file: %s' % filename)
+        else:
+            corpus_file = sys.argv[2]
+            filename = cmanager.GenCorpusJSON(corpus_file)
+            print('Generated corpus JSON as file: %s' % filename)
     elif command == 'help':
         PrintUsage()
     elif command == 'listcorpus':

@@ -1,10 +1,10 @@
-Explanation of files used by Python programs. See dictionary.ddl for other tables.
+Explanation of files used to describe the text collection.
 
 
 corpus.txt
 ===============================================================================
-The file is a tab delimited file listing the URL and other details of corpus 
-source documents. Fields:
+The file is a tab delimited file listing the URL and other details of all the 
+text documents. The fields are:
 
 id: An identifier of the text document
 
@@ -56,69 +56,6 @@ analysis_file: The name of the file for vocabulary analysis. The bdicttil.py
 
 gloss_file: The name of the file for HTML mouse-over gloss. The bdicttil.py
             command line utility will generate a file with this name (optional).
-
-
-phrases.txt
-===============================================================================
-This a phrase dataset. The fields are:
-
-id: An id for the phrase.
-
-chinese_phrase: Plain text in traditional Chinese
-
-id: An id for the phrase entry
-
-pos_tagged: the phrase tagged with Penn TreeBank style PoS tags, including word
-            and phrase gloss
-
-sanskrit: the Sanskrit equivalent, if known
-
-source_no: The id of the corpus source document
-
-source_name: The name of the source document. Included to make the phrase list 
-             stand alone more easily. 
-
-pos_penn.txt
-===============================================================================
-This table enumerates the part-of-speech tags used.  The Penn Treebank tag 
-definitions are used for part-of-speech tags. The fields are:
-
-tag: the text of the tag
-
-name: a descriptive name of the tag
-
-list: if the list is a closed set then the list of words is given. Both simplified
-      and traditional are included.
-
-
-unigram.txt
-===============================================================================
-This table is for word sense frequency derived from POS tagged documents.
-The Penn Treebank tag definitions are used for part-of-speech tags. The fields are:
-
-pos_tagged_text: The element text with POS tag and gloss in pinyin and English
-
-element_text: The element text in traditional Chinese
-
-word_id: Matching id in the word table
-
-frequency: The frequency of occurence of the word sense
-
-
-bigram.txt
-===============================================================================
-This table is for bigram frequency derived from POS tagged documents.
-The Penn Treebank tag definitions are used for part-of-speech tags. The fields are:
-
-pos_tagged_text: The element text with POS tag and gloss in pinyin and English
-
-previous_text: The element text of the first word in traditional Chinese
-
-element_text: The element text of the second (target) word in traditional Chinese
-
-word_id: Matching id of the target word in the word table
-
-frequency: The frequency of occurence of the bigram
 
 
 Notes:
