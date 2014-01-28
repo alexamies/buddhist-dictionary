@@ -5,9 +5,11 @@
  */
 var bdictApp = angular.module('bdictCollection', []);
 
-bdictApp.controller('CorpusListCtrl', function($scope, $http) {
+bdictApp.controller('CorpusListCtrl', function($scope, $http, $location) {
 
-  $http.get('script/gaosengzhuan.json').success(function(data) {
+  var collection = "script" + $location.path() + ".json";
+
+  $http.get(collection).success(function(data) {
     $scope.docs = data;
   });
 
