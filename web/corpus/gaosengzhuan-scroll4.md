@@ -24,4 +24,4 @@ End marker: 中華電子佛典協會
 
 English	translation: None
 
-Summary: This scroll contains biographical entries for Zhu Shixing, Zhi Xiaolong, Kang Sengyuan, Zhu Faya, Kang Falang, Zhu Facheng, Zhu Qianshen, Zhi Daolin, Yu Falan, Yu Fakai, ...
+Summary: This scroll contains biographical entries for Zhu Shixing, Zhi Xiaolong, Kang Sengyuan, Zhu Faya, Kang Falang, Zhu Facheng, Zhu Qianshen, Zhi Daolin, Yu Falan, Yu Fakai, and Zhu Fadu.
