@@ -34,9 +34,11 @@ Get the corpus document number from the listcorpus command.
 
 The generatejson command generates a JSON file with corpus metadata. Usage:
 
-    python bdictutil.py generatejson
+    python bdictutil.py generatejson [collection_name]
 
-The data will be written to a file called corpus.json.
+If no collection name is supplied then the data will be written to a file
+called corpus.json. If a collection name is supplied, for example,
+'gaosengzhuan', then the file will be written to collection_name.json.
 
 The generategloss command generates a file with gloss in HTML format. Usage:
 

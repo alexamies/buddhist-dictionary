@@ -12,7 +12,8 @@ source_name: An identifier of the sutra or other source document. There may be
   multiple versions of the same source document, including translations
   in different languages or multiple translations.
 
-type: 'file' for local files, 'web' for web documents
+type: 'file' for local files, 'web' for web documents, or 'collection' for
+      text collections that have a collection.txt / collection.json file.
 
 language: Human language that the document was written in.
 
@@ -56,6 +57,18 @@ analysis_file: The name of the file for vocabulary analysis. The bdicttil.py
 
 gloss_file: The name of the file for HTML mouse-over gloss. The bdicttil.py
             command line utility will generate a file with this name (optional).
+
+Other files:
+===============================================================================
+The other files are collections of documents with the same format as corpus.txt.
+The name of the file matches the collection name in the corpus.txt file.
+There are also two extra field:
+
+short_name: The short name of the document, for use in text collections.
+            For example, Scroll 1, Scroll 2, etc (optional).
+
+description: A short description of the document, for use in text collections
+             (optional).
 
 
 Notes:
