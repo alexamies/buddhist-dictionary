@@ -48,7 +48,12 @@
     </div>
 
     <div class="container">
-      <h2>Collection of Buddhist Texts</h2>
+      <h2 ng-if="main_doc.source_name">{{main_doc.source_name}}</h2>
+      <p ng-if="main_doc.source">Source: {{main_doc.source}}</p>
+      <p ng-if="main_doc.reference">Reference: {{main_doc.reference}}</p>
+      <p ng-if="main_doc.period">Period: {{main_doc.period}}</p>
+      <p ng-if="main_doc.translator">Compiled / translated by: {{main_doc.translator}}</p>
+      <p ng-if="main_doc.genre">Genre: {{main_doc.genre}}</p>
       <p>
         Filter: <input ng-model="query">
       </p>
@@ -58,8 +63,11 @@
         </thead>
         <tbody>
           <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
-            <td>
+            <td ng-if="main_doc.hasOwnProperty('short_name')">
               <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.short_name}}</a>
+            </td>
+            <td ng-if="!main_doc.hasOwnProperty('short_name')">
+              <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
             </td>
             <td>
               {{doc.description}}

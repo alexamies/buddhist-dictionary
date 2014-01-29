@@ -4,7 +4,7 @@ Description: The Chinese text of the Amitābha Sūtra from the Taisho Tripitaka.
 
 Period: 334－413
 
-HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/amitabha-sutra-kumarajiva-gloss.html&html=true "HTML file")
+Chinese-English text in HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/amitabha-sutra-kumarajiva-gloss.html&html=true "HTML file")
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/amitabha-sutra-kumarajiva-analysis.md "Vocabulary analysis")
 
@@ -20,7 +20,5 @@ Alternate formats: [Plain text file] (corpus/amitabha-sutra-kumarajiva.txt "Amit
 
 Start marker: 如是我聞
 
-End marker: 本網站係採用
-
-English translation: [Amitābha Sūtra English] (/buddhism_amituo_jing.html "Amitābha Sūtra English")
+End marker: 姓名標示
 
