@@ -1,6 +1,6 @@
 # Sūtra of the Vows of the Medicine Buddha of Lapis Lazuli Crystal Radiance
 
-Description: Primary source text from Taisho Tripitaka 藥師琉璃光如來本願功德經
+Description: Primary source text from Sūtra Collection Section of the Taisho Tripitaka 藥師琉璃光如來本願功德經
 
 Period: 602－664
 

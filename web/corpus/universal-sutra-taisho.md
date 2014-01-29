@@ -1,6 +1,6 @@
 # The Universal Gate Sūtra Chinese Text 觀世音菩薩普門品
 
-Description: The Chinese text of The Universal Gate Sūtra from the Taisho Tripitaka, 
+Description: The Chinese text of The Universal Gate Sūtra from the The Lotus Sūtra in the Taisho Tripitaka, 
 Chapter 24 of the Lotus Sutra, Vol. 9, No. 262, Scroll 7.
 
 Period: 602－664
@@ -15,7 +15,7 @@ Translator: Jñānagupta
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
-Document: [Universal Gate Sūtra Chinese Text] (http://www.cbeta.org/result/normal/T08/0235_001.htm "Universal Gate Sūtra Chinese Text")
+Document at CBETA: [Universal Gate Sūtra Chinese Text] (http://www.cbeta.org/result/normal/T09/0262_007.htm "Universal Gate Sūtra Chinese Text")
 
 Alternate formats: [Plain text file] (corpus/universal-sutra-taisho.txt "The Universal Gate Sūtra Chinese Text")
 

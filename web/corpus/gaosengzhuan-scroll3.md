@@ -1,6 +1,6 @@
 ##  Biographies of Eminent Monks, Scroll 3 《高僧傳》卷第三
 
-Description: The Chinese text of the document from the Taisho Tripitaka.
+Description: The Chinese text of the document from the Historical Biographies section of the Taisho Tripitaka.
 
 Period: Liang 502—557
 
