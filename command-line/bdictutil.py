@@ -24,13 +24,15 @@ Supported commands: buildvocab, generategloss, help, listcorpus, tag wordsensefr
 The buildvocab command builds a vocabulary with word frequency analysis from a
 corpus document. Usage:
 
-    python bdictutil.py buildvocab <doc_num>
+    python bdictutil.py buildvocab <doc_num>  [collection_name]
 
 Example:
 
     python bdictutil.py buildvocab 1
 
-Get the corpus document number from the listcorpus command.
+Get the corpus document number from the listcorpus command. If a 
+collection_name is supplied then the document should be in file
+collection_name.txt rather than corpus.txt.
 
 The generatejson command generates a JSON file with corpus metadata. Usage:
 
@@ -42,7 +44,7 @@ called corpus.json. If a collection name is supplied, for example,
 
 The generategloss command generates a file with gloss in HTML format. Usage:
 
-    python bdictutil.py generategloss <doc_num> [--wholetext]
+    python bdictutil.py generategloss <doc_num> [--wholetext] [collection_name]
 
 If the --wholetext option is included then the whole text will be output,
 ignoring start and end markers.
@@ -77,7 +79,12 @@ def main():
             sys.exit(2)
         doc_num = int(sys.argv[2])
         cmanager = corpusmanager.CorpusManager()
-        corpus = cmanager.LoadCorpus()
+        collection_name = 'corpus'
+        if len(sys.argv) == 4:
+            collection_name = sys.argv[3]
+        collection_file = '%s.txt' % collection_name
+        corpus = cmanager.LoadCorpus(collection_file)
+        # print('Corpus lenth is %d' % len(corpus))
         corpus_entry = corpus[doc_num-1]
         language = corpus_entry['language']
         languages = ['Sanskrit', 'Chinese']
@@ -99,12 +106,17 @@ def main():
             sys.exit(2)
         doc_num = int(sys.argv[2])
         cmanager = corpusmanager.CorpusManager()
-        corpus = cmanager.LoadCorpus()
-        corpus_entry = corpus[doc_num-1]
         wholetext = False
-        if len(sys.argv) == 4:
+        if len(sys.argv) > 3:
             wholetext = sys.argv[3] == '--wholetext'
-        print('Reading whole text: %s' % wholetext)
+        print('Reading doc %d, whole text: %s' % (doc_num, wholetext))
+        collection_name = 'corpus'
+        if len(sys.argv) > 3 and sys.argv[-1] != '--wholetext':
+            collection_name = sys.argv[-1]
+        collection_file = '%s.txt' % collection_name
+        print('Reading from %s' % collection_file)
+        corpus = cmanager.LoadCorpus(collection_file)
+        corpus_entry = corpus[doc_num-1]
         generator = glossgenerator.GlossGenerator(wholetext=wholetext)
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)

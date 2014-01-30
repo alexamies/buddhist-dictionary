@@ -62,7 +62,7 @@
           <tr><th>Name</th><th>Description</th></tr>
         </thead>
         <tbody>
-          <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
+          <tr ng-repeat="doc in docs | filter:query | orderBy:'source_name'">
             <td ng-if="main_doc.hasOwnProperty('short_name')">
               <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.short_name}}</a>
             </td>
