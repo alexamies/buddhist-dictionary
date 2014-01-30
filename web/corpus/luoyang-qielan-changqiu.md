@@ -1,4 +1,4 @@
-## A Record of Buddhist Monasteries in Lo-Yang (Inside City), Scroll 1 – Ch’ang-chiu Temple《洛陽伽藍記》城內卷第一‧長秋寺 
+## A Record of Buddhist Monasteries in Luoyang (Inside the City), Scroll 1 – Changqiu Temple《洛陽伽藍記》城內卷第一‧長秋寺
 
 Description: The Chinese text of the document from the History Section of the Taisho Tripitaka.
 
@@ -23,7 +23,7 @@ Start marker: 作六牙白象
 English	translation: None
 
 ### Summary
-This scroll includes the passage in the link above.
+This link above includes the English translation for the passage in this scroll.
 
 ### Notes: 
 This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see

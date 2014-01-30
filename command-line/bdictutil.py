@@ -57,7 +57,7 @@ Usage:
 The tag command generates part-of-speech tags for a document in the corpus.
 Usage:
 
-    python bdictutil.py tag <doc_num>
+    python bdictutil.py tag <doc_num> [collection_name]
 
 
 The wordsensefreq command generates word sense frequency from part-of-speech
@@ -79,10 +79,7 @@ def main():
             sys.exit(2)
         doc_num = int(sys.argv[2])
         cmanager = corpusmanager.CorpusManager()
-        collection_name = 'corpus'
-        if len(sys.argv) == 4:
-            collection_name = sys.argv[3]
-        collection_file = '%s.txt' % collection_name
+        collection_file = GetCollectionFile(sys.argv)
         corpus = cmanager.LoadCorpus(collection_file)
         # print('Corpus lenth is %d' % len(corpus))
         corpus_entry = corpus[doc_num-1]
@@ -110,11 +107,7 @@ def main():
         if len(sys.argv) > 3:
             wholetext = sys.argv[3] == '--wholetext'
         print('Reading doc %d, whole text: %s' % (doc_num, wholetext))
-        collection_name = 'corpus'
-        if len(sys.argv) > 3 and sys.argv[-1] != '--wholetext':
-            collection_name = sys.argv[-1]
-        collection_file = '%s.txt' % collection_name
-        print('Reading from %s' % collection_file)
+        collection_file = GetCollectionFile(sys.argv)
         corpus = cmanager.LoadCorpus(collection_file)
         corpus_entry = corpus[doc_num-1]
         generator = glossgenerator.GlossGenerator(wholetext=wholetext)
@@ -141,7 +134,8 @@ def main():
             sys.exit(2)
         doc_num = int(sys.argv[2])
         cmanager = corpusmanager.CorpusManager()
-        corpus = cmanager.LoadCorpus()
+        collection_file = GetCollectionFile(sys.argv)
+        corpus = cmanager.LoadCorpus(collection_file)
         corpus_entry = corpus[doc_num-1]
         generator = glossgenerator.GlossGenerator(output_type=glossgenerator.POS_TAGGED_TYPE)
         filename = generator.WriteDoc(corpus_entry)
@@ -175,6 +169,15 @@ def main():
     else:
         print('Did not understand command.')
         PrintUsage()
+
+def GetCollectionFile(argv):
+    collection_name = 'corpus'
+    if len(argv) > 3 and argv[-1] != '--wholetext':
+        collection_name = argv[-1]
+    collection_file = '%s.txt' % collection_name
+    print('Reading from %s' % collection_file)
+    return collection_file
+
 
 if __name__ == "__main__":
     main()
