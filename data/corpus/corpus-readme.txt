@@ -1,5 +1,36 @@
 Explanation of files used to describe the text collection.
 
+Adding a new document to the text collection
+===============================================================================
+1. Add a new entry in the corpus.txt file. The format is described below.
+
+2. Run the command 
+
+$ python bdictutil.py generatejson
+
+This will convert the tab delimited file corpus.txt to a json format for use by
+the web site.
+
+3. Create a markdown file for the text entry. This should be saved in the
+   web/corpus directory and referred to in the copus.txt entry.
+
+4. Run the command 
+
+$ python bdictutil.py buildvocab <doc_number>
+
+This will generate the vocabulary analysis file. The name of the file is
+given in the output.
+
+5. Run the command
+
+$ 
+
+Type 
+
+$ python bdictutil.py help 
+
+for more instructions on using the command line utility.
+
 
 corpus.txt
 ===============================================================================

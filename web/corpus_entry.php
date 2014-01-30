@@ -71,8 +71,11 @@ if (isset($text)) {
 ?>
       <hr/>
       <p>
-        Web site design copyright Nan Tien Institute 2013 - 2014, 
+        Web site design copyright Nan Tien Institute 2013 - 2014
         <a href="http://www.nantien.edu.au/" title="Nan Tien Institute">www.nantien.edu.au</a>.
+        Text from <a href="http://www.cbeta.org">CBETA</a> is used in accordance with the 
+        <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/">Attribution-NonCommercial-ShareAlike 2.5</a> and
+        the <a href="http://www.cbeta.org/copyright_e.htm">CBETA Copyright</a> conditions.
       </p>
     </div>
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
