@@ -32836,7 +32836,7 @@
 32836	人见	人見	rén jiàn	the view of a person	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 32837	众生见	眾生見	zhòngshēng jiàn	the view of a being	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 32838	寿者见	壽者見	shòuzhě jiàn	the view of a lifespan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-32839	贤圣	賢聖	xián shèng	noble one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: āryapudgala
+32839	贤圣	賢聖	xián shèng	noble ones / āryapudgala	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: āryapudgala. Includes (1) srotaāpanna, (2) sakṛdāgāmin, (3) anāgāmin, (4) arhat.
 32840	入流	\N	Rùliú	Sotapanna / Srotapanna / Stream-Enterer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: Srotāpanna, Pali: Sotāpanna; the first of the four stages of enlightenment
 32841	宁	寧	níng	to mourn	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 32842	宁	寧	níng	to settle down	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -34680,10 +34680,10 @@
 34680	迭相	\N	diéxiàng	in succession / following closely / one after another	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34681	轮番	輪番	lúnfān	in turn / one after another	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34682	践	踐	jiàn	to fulfill	verb	\N	\N	行为	Actions	\N	\N	\N	jian4.mp3	\N
-34683	长秋寺	長秋寺	Chángqiū Sì	Changqiu Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang 《洛陽伽藍記》.
+34683	长秋寺	長秋寺	Chángqiū Sì	Changqiu Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》卷第一.
 34684	铎	鐸	duó	a large ancient bell	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34685	景乐寺	景樂寺	Jǐnglè Sì	Jingle Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang 《洛陽伽藍記》.
-34686	昭仪尼寺	昭儀尼寺	Zhāoyíní Sì	Zhaoyini Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang 《洛陽伽藍記》.
+34685	景乐寺	景樂寺	Jǐnglè Sì	Jingle Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》卷第一.
+34686	昭仪尼寺	昭儀尼寺	Zhāoyí Nísì	Zhaoyi Nunnery	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》卷第一.
 34687	甍	\N	méng	rafters supporting tiles / the ridge of a roof	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34688	阍	閽	hūn	a door-keeper	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34689	椿	\N	chūn	Chinese toon (Toona sinensis) / tree of heaven	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	Ailanthus altissima
@@ -34730,3 +34730,52 @@
 34730	剽	\N	piāo	swift / nimble	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34731	剽	\N	piāo	to rob	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34732	鍼	\N	zhēn	a needle / a pin	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhen1.mp3	Variant of 针 (traditional 針)
+34733	宗聖寺	宗聖寺	Zōngshèng Sì	Zongsheng Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang, Scroll 2 《洛陽伽藍記》卷第二.
+34734	尼寺	\N	nísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+34735	景兴尼寺	景興尼寺	Jǐngxīng Nísì	Jingxing Nunnery	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Luoyang mentioned in A Record of Buddhist Monasteries in Luoyang, Scroll 2 《洛陽伽藍記》卷第二.
+34736	仵	\N	wǔ	equal / well-matched / to violate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34737	仵	\N	wǔ	five	number	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 五
+34738	箓	籙	lù	records / book	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34739	箓	籙	lù	a Taoist charm	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34740	箓	籙	lù	book of prophecy	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34741	喁	\N	yóng	breathing	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of fish at the surface of water
+34742	异	\N	yì	different / other / hetero- / unusual / strange / surprising	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	yi4.mp3	This simplified character is also an archaic variant of 異.
+34743	沅	\N	Yuán	Yuan River	proper noun	河	River	地方	Places	中国	China	\N	\N	In Guizhou and Hunan
+34744	纥	紇	gē	knot	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34745	纥	紇	hé	tassels	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34746	柽	檉	chēng	tamarisk	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	\N
+34747	瞑	\N	míng	to close	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	the eyes
+34748	逦	邐	lǐ	winding	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34749	纾	紓	shū	to free from / to relieve	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34750	鸰	鴒	líng	a wagtail / a lark	noun	鸟	Bird	动物学	Zoology	\N	\N	\N	\N	\N
+34751	嵚	嶔	líng	loftiness	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a mountain
+34752	稗	\N	bài	barnyard millet / polished rice	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34753	瀛	\N	yíng	sea / ocean	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34754	崟	\N	yín	high / steep	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34755	莠	\N	yǒu	green foxtail / green bristlegrass	noun	植物	Plant	植物学	Botany	\N	\N	\N	\N	A kind of grass
+34756	夤	\N	yín	to respoect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Similar to 恭敬
+34757	槟	檳	bīng	betel palm / betel nut	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34758	瘴	\N	zhàng	malaria / miasma	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+34759	欹	\N	yī	inclined / leaning / slanting / tilted	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Synonymous with 倾斜 in this sense
+34760	蔻	\N	kòu	cardamon	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34761	萝	蘿	luó	radish	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34762	帘	簾	lián	a hanging screen / a curtain	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34763	噀	\N	xùn	to spurt out of the mouth	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34764	捃	\N	jùn	to gather / to sort	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34765	蹊	\N	xī	a footpath	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34766	嗍	\N	suō	to suck	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34767	臛	\N	huò	meat broth	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34768	慝	\N	tè	an evil thought	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34769	噞	\N	yǎn	movement of a fish's mouth at the surface of the water	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34770	苎	苧	zhù	Boehmeria nivea / Chinese grass	noun	植物	Plant	植物学	Botany	\N	\N	\N	\N	\N
+34771	淩	\N	líng	to encroach / to soar	verb	\N	\N	古文	Classical	\N	\N	\N	ling2.mp3	Variant of 凌
+34772	遨	\N	áo	to ramble / to travel	verb	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+34773	瘿	癭	yǐng	goiter	noun	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+34774	瘿	癭	yǐng	a knob on tree	noun	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+34775	慱	\N	tuán	to be sad	verb	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+34776	菰	\N	gū	a kind of mushroom	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34777	莼	蓴	chún	an edible water plant	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+34778	呷	\N	tuán	to suck / to swallow / to drink	verb	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+34779	蟹	\N	xiè	a crab	noun	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+34780	塿	\N	lǒu	a small mound	noun	\N	\N	古文	Classical	\N	\N	\N	\N	\N
+

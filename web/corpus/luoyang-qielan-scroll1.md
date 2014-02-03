@@ -2,7 +2,7 @@
 
 Description: The Chinese text of the document from the History Section of the Taisho Tripitaka.
 
-Period: 497
+Period: 495 – 534
 
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/luoyang-qielan-scroll1-gloss.html&html=true "HTML file")
 
@@ -39,7 +39,7 @@ The Chao-i Nunnery (Nunnery of the Exemplar) The nunnery housed statues of one B
 Source: Yang, A Record of Buddhist Monasteries in Lo-Yang, 53–54.
 
 ### Notes:
-The British style transliterations from Wang have been converted to Pinyin elsewhere. So Lo-Yang becomes Luoyang, Ching-lo Nunnery becomes Jingle Nunnery, and Chao-i Nunnery becomes Zhaoyi Nunnery.
+The old British style transliterations from Wang have been converted to Pinyin elsewhere. So Lo-Yang becomes Luoyang, Ching-lo Nunnery becomes Jingle Nunnery, and Chao-i Nunnery becomes Zhaoyi Nunnery.
 
 This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
 
