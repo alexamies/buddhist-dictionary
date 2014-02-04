@@ -1,4 +1,4 @@
-# Diamond Sutra Sanskrit Text
+## Diamond Sutra Sanskrit Text
 
 Description: The full text of the Sanskrit version of the Diamond Sutra.
 

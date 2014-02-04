@@ -1,4 +1,4 @@
-# Diamond Sūtra Chinese Text 金剛般若波羅蜜經
+## Diamond Sūtra Chinese Text 金剛般若波羅蜜經
 
 Description: The Chinese text of the Diamond Sūtra from the Prajñāpāramitā section of the Taisho Tripitaka. Translated to Chinese by Kumārajīva.
 
