@@ -20,11 +20,10 @@ Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/normal/T08/0
 
 Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
 
-Start marker: 如是我聞
+English translation by Venerable Yifa, M. C. Owens, and P. M. Romaskiewicz (2nd Ed., Buddha's Ligh Publishing 2006): [Vajra Prajnaparamita Sutra] (http://www.woodenfish.org/sutra/texts "Vajra Prajnaparamita Sutra")
+Used with permission.
 
-End marker: 本網站係採用
-
-English	translation (Lapis Lazuli Texts): [Vajracchedikā Prajñāpāramitā Sūtra] (http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html "Vajracchedikā Prajñāpāramitā Sūtra")
+Another English translation (Lapis Lazuli Texts): [Vajracchedikā Prajñāpāramitā Sūtra] (http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html "Vajracchedikā Prajñāpāramitā Sūtra")
 
 Commentary: [Diamond Sūtra Commentary and English Gloss] (/diamond_sutra_toc.html "Diamond Sūtra Commentary and English Gloss")
 

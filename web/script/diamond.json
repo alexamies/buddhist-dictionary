@@ -2,7 +2,7 @@
 ,
 {"doc_type": "Sūtra","source_name": "Diamond Sūtra (Sanskrit)","description": "Full Sanskrit text of the Sūtra","language": "Sanskrit","start": "","charset": "IAST","plain_text": "diamond-sutra-sanskrit.txt","uri": "corpus_entry.php?uri=diamond-sutra-sanskrit.md","source": "UWest Sanskrit Buddhist Canon","genre": "Prajnaparamita","end": "---END---","type": "file","id": "02","analysis_file": "diamond-sutra-sanskrit-analysis.md"}
 ,
-{"doc_type": "Commentary","source_name": "Diamond Sūtra Introduction to Commentary","description": "Introduction to commentary on the Diamond Sūtra","language": "Chinese","start": "","charset": "Traditional","uri": "corpus_entry.php?uri=diamond-sutra-commentary-intro.md","source": "Taisho Tripitaka","genre": "Prajnaparamita","type": "file","id": "03"}
+{"doc_type": "Commentary","source_name": "Diamond Sūtra Introduction to Commentary","description": "Introduction to commentary on the Diamond Sūtra","language": "Chinese","start": "般若","charset": "Traditional","plain_text": "diamond-sutra-commentary-intro.txt","uri": "corpus_entry.php?uri=gloss/diamond-sutra-commentary-intro-gloss.html&html=true","source": "Taisho Tripitaka","genre": "Prajnaparamita","type": "file","id": "03","gloss_file": "diamond-sutra-commentary-intro-gloss.html"}
 ,
 {"doc_type": "Commentary","source_name": "Diamond Sūtra Chapter 1 Commentary","description": "The convocation of the assembly 法會因由","language": "Chinese","start": "法會因由","charset": "Traditional","plain_text": "diamond-sutra-commentary-ch1.txt","uri": "corpus_entry.php?uri=gloss/diamond-sutra-commentary-ch1-gloss.html&html=true","source": "Taisho Tripitaka","genre": "Prajnaparamita","type": "file","id": "04","gloss_file": "diamond-sutra-commentary-ch1-gloss.html"}
 ,
