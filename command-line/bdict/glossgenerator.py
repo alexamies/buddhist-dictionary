@@ -8,6 +8,8 @@ format.
 import codecs
 import os.path
 
+from datetime import date
+
 from bdict import app_exceptions
 from bdict import cedict
 from bdict import cjktextreader
@@ -91,7 +93,7 @@ class GlossGenerator:
                     previous = entry['traditional']
             else:
                 markup += self._Punctuation(element)
-
+        markup += self._Timestamp()
         return markup
 
     def WriteDoc(self, corpus_entry):
@@ -177,12 +179,19 @@ class GlossGenerator:
         return element_text
 
     def _Title2(self, text):
-        """Generates output text formatted for a a level 2 header.
+        """Generates output text formatted for a level 2 header.
         """
         if self.output_type == POS_TAGGED_TYPE:
             # return '## %s' % text
             return ''
         return '<h2>%s</h2>\n' % text
+
+    def _Timestamp(self):
+        """Creates a timestamp if the docs is HTML
+        """
+        if self.output_type == POS_TAGGED_TYPE:
+            return ''
+        return '<p>Page last updated on %s.</p>\n' % date.isoformat(date.today())
 
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
