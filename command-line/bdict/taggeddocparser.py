@@ -118,7 +118,7 @@ def GetBestWordSense(wdict, wfreq_entry):
         if not GrammarMatch(tag, grammar) or not GlossMatch(wfreq_entry, word_entry):
             # print('Tag %s for word %s grammar %s does not match grammar.' % (tag, element_text, grammar))
             if 'other_entries' not in word_entry or not word_entry['other_entries']:
-                print('No other entries for word %s grammar %s gloss %s.' % (element_text, grammar, english))
+                print('No other entries for word %s grammar "%s" gloss "%s".' % (element_text, grammar, english))
             else:
                 other_entries = word_entry['other_entries']
                 for entry in other_entries:

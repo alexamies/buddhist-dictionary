@@ -4,7 +4,10 @@ The corpus documents are listed in the file $PROJECT_HOME/data/corpos/corpus.txt
 """
 import codecs
 
+from bdict import configmanager
+
 CORPUS_FILE = 'corpus.txt'
+WHOLE_COLLECTION = 'corpus'
 JSON_FILE = 'corpus.json'
 JSON_DIR = '../web/script/'
 
@@ -13,6 +16,12 @@ class CorpusManager:
 
     Loads the corpus based on entries in corpus file.
     """
+
+    def __init__(self):
+        """Constructor for ChineseVocabulary class.
+        """
+        manager = configmanager.ConfigurationManager()
+        self.config = manager.LoadConfig()
 
     def GetAllTagged(self):
         """Returns a list of corpus entries for all POS tagged documents in the corpus.
@@ -25,16 +34,23 @@ class CorpusManager:
         for entry in corpus:
             if 'pos_tagged' in entry:
                 tagged_entries.append(entry)
+            if 'type' in entry and entry['type'] == 'collection':
+                collection_file = '%s.txt' % entry['uri']
+                collection = self.LoadCorpus(collection_file)
+                for col_entry in collection:
+                    if 'pos_tagged' in col_entry:
+                        tagged_entries.append(col_entry)
         return tagged_entries
 
-    def LoadCorpus(self):
+    def LoadCorpus(self, corpus_file=CORPUS_FILE):
         """Loads the corpus text file into memory.
 
         Returns:
             A list of corpus entries.
         """
-        dirname = '../data/dictionary/'
-        fullpath = '%s%s' % (dirname, CORPUS_FILE)
+        corpus_data_dir = self.config['corpus_data_dir']
+        fullpath = '%s/%s' % (corpus_data_dir, corpus_file)
+        # print('Loading corpus from %s' % fullpath)
         corpus = []
         with codecs.open(fullpath, 'r', "utf-8") as f:
             for line in f:
@@ -46,6 +62,7 @@ class CorpusManager:
                     entry['id'] = tokens[0]
                     if len(tokens) > 1:
                         entry['source_name'] = tokens[1]
+                    # print('%s : %s' % (entry['id'], entry['source_name']))
                     if len(tokens) > 2:
                         entry['type'] = tokens[2]
                     if len(tokens) > 3:
@@ -87,6 +104,12 @@ class CorpusManager:
                     if len(tokens) > 17:
                         if tokens[17].strip() != u'\\N':
                         	entry['gloss_file'] = tokens[17].strip()
+                    if len(tokens) > 18:
+                        if tokens[18].strip() != u'\\N':
+                        	entry['short_name'] = tokens[18].strip()
+                    if len(tokens) > 19:
+                        if tokens[19].strip() != u'\\N':
+                        	entry['description'] = tokens[19].strip()
                     corpus.append(entry)
         return corpus
 
@@ -105,7 +128,7 @@ class CorpusManager:
             if 'plain_text' in entry:
                 print('%s\t%s\t%s' % (entry['id'], entry['source_name'], entry['plain_text']))
 
-    def GenCorpusJSON(self):
+    def GenCorpusJSON(self, collection=WHOLE_COLLECTION):
         """Prints the corpus data out in json format.
  
         Loads the corpus from the corpus.txt file and translates into JSON.
@@ -113,8 +136,10 @@ class CorpusManager:
         Returns:
           The name of the file written to.
         """
-        corpus = self.LoadCorpus()
-        output_file = '%s%s' % (JSON_DIR, JSON_FILE)
+        input_file = '%s.txt' % collection
+        corpus = self.LoadCorpus(input_file)
+        output_file = '%s.json' % collection
+        output_file = '%s%s' % (JSON_DIR, output_file)
         with codecs.open(output_file, 'w', "utf-8") as f:
             f.write('[')
             for i in range(len(corpus)):

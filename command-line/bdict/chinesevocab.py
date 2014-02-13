@@ -6,6 +6,8 @@ The analysis is output in markdown format.
 import codecs
 import re
 
+from datetime import date
+
 from bdict import app_exceptions
 from bdict import cedict
 from bdict import cjktextreader
@@ -114,6 +116,7 @@ class ChineseVocabulary:
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('\n')
             self._PrintFrequencyNew(new_words, outf, phrase_dict, 'New Words')
+            outf.write('\nPage last updated on %s.\n' % date.isoformat(date.today()))
         return outfile
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):

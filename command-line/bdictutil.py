@@ -18,7 +18,7 @@ from bdict import taggeddocparser
 
 def PrintUsage():
     print(
-"""Usage: python bdictutil.py <command> <arguments.
+"""Usage: python bdictutil.py <command> [arguments].
 Supported commands: buildvocab, generategloss, help, listcorpus, tag wordsensefreq.
 
 The buildvocab command builds a vocabulary with word frequency analysis from a
