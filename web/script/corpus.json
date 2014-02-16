@@ -19,4 +19,6 @@
 {"doc_type": "śāstra","source_name": "Nāgārjuna's Middle Way: Mulamadhyamakakarika 龍樹中論","reference": "Vol. 30 No. 1564","language": "Chinese","start": "問曰。何故造此論","gloss_file": "mulamadhyamakakarika-gloss.html","charset": "Traditional","plain_text": "mulamadhyamakakarika.txt","uri": "corpus_entry.php?uri=mulamadhyamakakarika.md","period": "334－413","translator": "Kumārajīva","source": "Taisho Tripitaka","genre": "Prajnaparamita","end": "本網站採用","type": "file","id": "11","analysis_file": "mulamadhyamakakarika-analysis.md"}
 ,
 {"doc_type": "Historic Doc.","source_name": "Biographies of Eminent Monks《高僧傳》","reference": "Vol. 50, No. 2059","language": "Chinese","start": "","charset": "Traditional","uri": "gaosengzhuan","period": "Liang 502—557","translator": "Hui Jiao","source": "Taisho Tripitaka","genre": "Historic Doc.","type": "collection","id": "12"}
+,
+{"doc_type": "Historic Doc.","source_name": "Buddhist Monasteries in Luoyang 《洛陽伽藍記》","reference": "Vol. 51, No. 2092","language": "Chinese","start": "","charset": "Traditional","uri": "luoyang","period": "Northern Wei 495 – 534","translator": "Yang Xuanzhi","source": "Taisho Tripitaka","genre": "Historic Doc.","type": "collection","id": "13"}
 ]

@@ -1,8 +1,8 @@
-## A Record of Buddhist Monasteries in Luoyang (Inside the City), Scroll 1《洛陽伽藍記》城內卷第一
+## A Record of Buddhist Monasteries in Luoyang (Inner City), Scroll 1《洛陽伽藍記》城內卷第一
 
-Description: The Chinese text of the document from the History Section of the Taisho Tripitaka.
+Description: The Chinese text of the document from the History Section of the Taisho Tripitaka. Preface and Scroll 1.
 
-Period: 495 – 534
+Period: Northern Wei 495 – 534
 
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/luoyang-qielan-scroll1-gloss.html&html=true "HTML file")
 

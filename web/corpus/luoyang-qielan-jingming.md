@@ -2,7 +2,7 @@
 
 Description: The Chinese text from scroll 3 (City South) of the document from the History Section of the Taisho Tripitaka.
 
-Period: 495 – 534
+Period: Northern Wei 495 – 534
 
 HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/luoyang-qielan-jingming-gloss.html&html=true "HTML file")
 

@@ -116,7 +116,7 @@ class ChineseVocabulary:
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('\n')
             self._PrintFrequencyNew(new_words, outf, phrase_dict, 'New Words')
-            outf.write('\nPage last updated on %s.\n' % date.isoformat(date.today()))
+            outf.write('\nThis page was last updated on %s.\n' % date.isoformat(date.today()))
         return outfile
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
