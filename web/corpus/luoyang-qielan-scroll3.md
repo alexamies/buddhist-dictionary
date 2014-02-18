@@ -16,13 +16,13 @@ Reference: Taisho Tripitaka Vol. 51, No. 2092
 
 Compiled by: Yang Xuanzhi 楊衒之
 
-Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T51/2092_001.htm "Document at CBETA")
+Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T51/2092_003.htm "Document at CBETA")
 
 Start marker: 洛陽城南伽藍記卷第三
 
 End marker: 中華電子佛典協會
 
-English translation: Xuanzhi Yang, A Record of Buddhist Monasteries in Lo-Yang, trans. Yi-t’ung Wang (Princeton N.J.: Princeton University Press, 1984), 51.
+English translation: Xuanzhi Yang, A Record of Buddhist Monasteries in Lo-Yang, trans. Yi-t’ung Wang (Princeton N.J.: Princeton University Press, 1984).
 
 ### Summary
 Describes the monasteries in the south part of the city.
@@ -32,4 +32,6 @@ Describes the monasteries in the south part of the city.
 This scroll contains a passage on Jingming Monastery that is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
 
 [Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+
+This page was last edited on February 18, 2014.
 
