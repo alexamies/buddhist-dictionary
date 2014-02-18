@@ -1,6 +1,6 @@
 ##  Biographies of Eminent Monks, Scroll 1 《高僧傳》卷第一
 
-Description: The Chinese text of the document from the Historical Biographies section of the Taisho Tripitaka.
+Description: The Chinese text of the document from the Historical Biographies section of the Taisho Tripitaka. Scroll 1 of the five scroll set.
 
 Period: Liang 502—557
 
@@ -36,4 +36,4 @@ This passage is included in a collection of texts about accounts of Buddha’s b
 
 [Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 
-
+This page was last edited on February 19, 2014.

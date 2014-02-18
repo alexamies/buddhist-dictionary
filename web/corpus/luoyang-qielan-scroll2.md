@@ -1,6 +1,6 @@
 ## A Record of Buddhist Monasteries in Luoyang (City East), Scroll 2《洛陽城東伽藍記》卷第二
 
-Description: The Chinese text of the document from the History Section of the Taisho Tripitaka.
+Description: The Chinese text of the document from the History Section of the Taisho Tripitaka. Scroll 2 of the five scroll set.
 
 Period: Northern Wei 495 – 534
 
@@ -45,3 +45,4 @@ This passage is included in a collection of texts about accounts of Buddha’s b
 
 [Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 
+This page was last edited on February 19, 2014.

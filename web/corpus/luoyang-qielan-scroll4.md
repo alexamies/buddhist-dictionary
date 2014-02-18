@@ -1,6 +1,6 @@
 ## A Record of Buddhist Monasteries in Luoyang (City West), Scroll 4《洛陽城西伽藍記》卷第四
 
-Description: The Chinese text of the document from the History Section of the Taisho Tripitaka.
+Description: The Chinese text of the document from the History Section of the Taisho Tripitaka. Scroll 4 of the five scroll set.
 
 Period: Northern Wei 495 – 534
 
@@ -27,4 +27,4 @@ English translation: Xuanzhi Yang, A Record of Buddhist Monasteries in Lo-Yang, 
 ### Summary
 Describes the monasteries in the west part of the city.
 
-This page was last edited on February 18, 2014.
+This page was last edited on February 19, 2014.

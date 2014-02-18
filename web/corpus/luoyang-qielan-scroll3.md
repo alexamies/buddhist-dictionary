@@ -1,6 +1,6 @@
 ## A Record of Buddhist Monasteries in Luoyang (City South), Scroll 3《洛陽城南伽藍記》卷第三
 
-Description: The Chinese text of the document from the History Section of the Taisho Tripitaka.
+Description: The Chinese text of the document from the History Section of the Taisho Tripitaka. Scroll 3 of the five scroll set.
 
 Period: Northern Wei 495 – 534
 
@@ -33,5 +33,5 @@ This scroll contains a passage on Jingming Monastery that is included in a colle
 
 [Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
 
-This page was last edited on February 18, 2014.
+This page was last edited on February 19, 2014.
 
