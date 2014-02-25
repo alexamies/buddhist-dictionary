@@ -3371,7 +3371,7 @@
 3371	金	\N	jīn	gold	noun	元素	Chemical Element	化学	Chemistry	\N	\N	gold_plate400.jpg	jin1.mp3	\N
 3372	金	\N	jīn	money / gold	noun	\N	\N	经济	Economics	\N	\N	\N	jin1.mp3	\N
 3373	金	\N	jīn	Jin / Kim	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	jin1.mp3	Kim is used in some Chinese dialects and Korean
-3374	塔	\N	tǎ	a pagoda / a tower / a stupa	noun	\N	\N	建筑学	Architecture	\N	\N	pagoda_med.jpg	ta3.mp3	Sanskrit: stūpa; or Sanskrit: caitya; use the proper English term depending on the shape of the tower or stupa.  Pagodas are taller and thinner and are common in China.  Stupas shorter and bowl shaped and are more common in South Asia and Southeast Asia.
+3374	塔	\N	tǎ	a pagoda / a tower / a stupa	noun	\N	\N	建筑学	Architecture	\N	\N	\N	ta3.mp3	Sanskrit: stūpa, or Sanskrit: caitya, the most appropriate English term can be used depending on the shape of the tower or stupa.  Pagodas are taller and thinner and are common in China.  Stupas shorter and bowl shaped and are more common in South Asia and Southeast Asia.
 3375	钟	鐘	zhōng	clock	noun	\N	\N	时间	Time	\N	\N	\N	zhong1.mp3	\N
 3376	钟	鐘	zhōng	o'clock	measure word	\N	\N	时间	Time	\N	\N	\N	zhong1.mp3	\N
 3377	钟	鐘	zhōng	bell	noun	打击乐器	Percussion Instrument	音乐	Music	\N	\N	yongle_bell400.jpg	zhong1.mp3	\N
@@ -18499,7 +18499,7 @@
 18499	生死	\N	shēng sǐ	life and death	noun	\N	\N	生活	Life	\N	\N	\N	\N	\N
 18500	终日	終日	zhōngrì	all day	adverb	\N	\N	时间	Time	\N	\N	\N	\N	\N
 18501	福田	\N	fútián	domain for practices leading to enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, field for growing happiness
-18502	苦海	\N	kǔhǎi	abyss of worldly suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, sea of bitterness
+18502	苦海	\N	kǔhǎi	sea of suffering / abyss of worldly suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, sea of bitterness
 18503	禀	禀	bǐng	a natural property or endowment	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 18504	禀	禀	bǐng	to report to	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 18505	神秀	\N	Shén Xiù	Shen Xiu	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Platform Sutra
@@ -20291,7 +20291,7 @@
 20291	龟茲	龜茲	Guīcí	Kezil / Kizil / Kuqa	proper noun	人	Person	历史	History	\N	\N	\N	\N	An ancient kingdom in the Western Regions
 20292	舍卫国	舍衛國	Shèwèi Guó	Sravasti / Savatthi	proper noun	王国	Kingdom	历史	History	古印度	Ancient India	\N	\N	Śrāvastī or Sāvatthī, the kingdom where the Buddha delivered the Amitabha Sutra, located in present day Uttar Pradesh.
 20293	只树	祇樹	Zhǐshù	Jetavana	proper noun	地点	Place	佛教	Buddhism	\N	\N	\N	\N	The place where the Buddha delivered the Amitabha Sutra
-20294	给孤独园	給孤獨園	Jǐgūdú Yuán	Anathapimdasya arama	proper noun	地点	Place	佛教	Buddhism	\N	\N	\N	\N	The place where the Buddha delivered the Amitabha Sutra
+20294	给孤独园	給孤獨園	Jǐgūdú Yuán	Anāthapiṇḍada’s park / Anathapimdasya arama	proper noun	地点	Place	佛教	Buddhism	\N	\N	\N	\N	The place where the Buddha delivered the Diamond Sutra, Amitabha Sutra, and others.
 20295	牵连	牵連	qiānlián	to be involved	verb	\N	\N	联系	Relationship	\N	\N	\N	\N	\N
 20296	干连	乾連	gànlián	to be involved	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 20297	摩诃目干连	摩訶目乾連	Móhēmùgànlián	Mahamaudgalyayana / Maudgalyayana	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Also called, 目连, first in ascetic practice
@@ -29092,7 +29092,7 @@
 29092	法句经	法句經	Fǎ Jù Jīng	Dharmapada / Dhamapada	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: dharmapada, Pali: dhamapada
 29093	摩揭陀语	摩揭陀語	Mójiētuó Yǔ	Magahi language / Magadhi / Magadhi Prakrit	proper noun	\N	\N	语言学	Linguistics	印度	India	\N	\N	Sanskrit: magahī; Magadhi Prakrit is believed to be the language spoken by the Buddha.  Magadhi is the modern descendant.
 29094	凯提文	凱提文	Kǎití Wén	Kaithi script / Kayathi / Kayasthi	proper noun	\N	\N	语言学	Linguistics	印度	India	\N	\N	Sanskrit: magahī; a script used in historical times in India.
-29095	频婆娑罗	頻婆娑羅	Pínpósuōluó	Bimbisara	proper noun	王	King	历史	History	印度	India	\N	\N	Sanskrit: bimbisāraḥ; 558–491 BCE, Ruler of the Magadha empire
+29095	频婆娑罗	頻婆娑羅	Pínpósuōluó	Bimbisara	proper noun	王	King	历史	History	印度	India	\N	\N	Sanskrit: bimbisāra, 558–491 BCE, Ruler of the Magadha empire
 29096	比哈尔邦	比哈爾邦	Bìhā'ěr	Bihar	proper noun	邦	State	地方	Places	印度	India	\N	\N	Sanskrit: bihārarājyam, a state in Northern India
 29097	摩诃菩提寺	摩訶菩提寺	Móhē Pútí Sì	Mahabodhi Temple	proper noun	寺	Temple	佛教	Buddhism	印度	India	\N	\N	Sanskrit: mahābodhi maṃdira, temple in Bodh Gaya, the locatation where the Buddha attained enlightenment
 29098	须摩提女经	須摩提女經	Xūmótí Nǚ Jīng	Sumagadha Avadana	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
