@@ -34,16 +34,12 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_4"/>
         <dc:title>Religions of South Asia: An Introduction</dc:title>
         <dcterms:abstract>This textbook introduces the contemporary religions of South Asia, from the indigenous religions such as the Hindu, Jain, Buddhist and Sikh traditions, to incoming influences such as Christianity, Judaism and Islam.</dcterms:abstract>
         <dc:date>2006</dc:date>
         <z:language>Chinese</z:language>
         <dc:identifier>ISBN 978-0415223904</dc:identifier>
     </bib:Book>
-    <bib:Memo rdf:about="#item_4">
-        <rdf:value>&lt;p>Definition of dharma applicable to Hinduism, Buddhism, Jainism, and Sikh, p7&lt;/p></rdf:value>
-    </bib:Memo>
     <bib:Book rdf:about="urn:isbn:9781614290506%20%201614290504%20%209781614290612%20%20161429061X">
         <z:itemType>book</z:itemType>
         <bib:authors>
@@ -205,6 +201,7 @@
             </rdf:Seq>
         </bib:authors>
         <dc:title>Jingang Jing Zhu 金剛經註</dc:title>
+        <z:shortTitle>Manji Shinsan Dainihon Zokuzokyo, Vol. 24, No. 0461</z:shortTitle>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://tripitaka.cbeta.org/en/X24n0461</rdf:value>
@@ -237,7 +234,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_18"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>English</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -259,9 +255,6 @@
            <dcterms:LCC><rdf:value>PK666 .E5 1996</rdf:value></dcterms:LCC>
         </dc:subject>
     </bib:Book>
-    <bib:Memo rdf:about="#item_18">
-       <rdf:value>&lt;p>Vol 2: 1st ed&lt;/p></rdf:value>
-    </bib:Memo>
     <bib:Document rdf:about="http://etext.fgs.org.tw/etext6/search-1.htm">
         <z:itemType>webpage</z:itemType>
         <dcterms:isPartOf>
@@ -442,7 +435,9 @@
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
-                   <foaf:Person><foaf:surname>Xingyun</foaf:surname></foaf:Person>
+                    <foaf:Person>
+                       <foaf:surname>Hsing Yun</foaf:surname>
+                    </foaf:Person>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
@@ -456,7 +451,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:contributors>
-        <dcterms:isReferencedBy rdf:resource="#item_30"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>Criticism, interpretation, etc</rdf:value>
@@ -475,9 +469,6 @@
            <dcterms:LCC><rdf:value>BQ1997 .X46 2001</rdf:value></dcterms:LCC>
         </dc:subject>
     </bib:Book>
-    <bib:Memo rdf:about="#item_30">
-        <rdf:value>&lt;p>Includes the translation of the Diamond Sutra&lt;/p></rdf:value>
-    </bib:Memo>
     <bib:Book rdf:about="urn:isbn:9781932293548">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -493,7 +484,9 @@
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
-                   <foaf:Person><foaf:surname>Xingyun</foaf:surname></foaf:Person>
+                    <foaf:Person>
+                       <foaf:surname>Hsing Yun</foaf:surname>
+                    </foaf:Person>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
@@ -506,7 +499,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:contributors>
-        <dcterms:isReferencedBy rdf:resource="#item_32"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>Tripiṭaka</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -520,9 +512,6 @@
            <dcterms:LCC><rdf:value>BQ1997 .X45913 2011</rdf:value></dcterms:LCC>
         </dc:subject>
     </bib:Book>
-    <bib:Memo rdf:about="#item_32">
-        <rdf:value>Contains English translation of Kumārajīva's Chinese translation of Diamond Sutra--publisher's e-mail</rdf:value>
-    </bib:Memo>
     <bib:Document rdf:about="http://tripitaka.cbeta.org/X24n0459">
         <z:itemType>webpage</z:itemType>
         <dcterms:isPartOf>
@@ -539,6 +528,7 @@
         </bib:authors>
         <dc:title>Exegesis on the Diamond Sutra 金剛經解義</dc:title>
         <dc:date>Tang</dc:date>
+        <z:shortTitle>Manji Shinsan Dainihon Zokuzokyo, Vol 24, No. 0459</z:shortTitle>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://tripitaka.cbeta.org/X24n0459</rdf:value>
@@ -588,6 +578,7 @@
         </bib:authors>
         <dc:title>Prajñāpāramitā Diamond Sūtra《金剛般若波羅蜜經》</dc:title>
         <dc:date>400</dc:date>
+        <z:shortTitle>T.8, Number 235</z:shortTitle>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.cbeta.org/result/normal/T08/0235_001.htm</rdf:value>
@@ -596,7 +587,7 @@
         <dcterms:dateSubmitted>2014-02-27 05:21:45</dcterms:dateSubmitted>
         <z:language>Chinese</z:language>
         <dc:rights>Copyright ©1998-2011 CBETA,  Creative Commons 2.5</dc:rights>
-        <dc:description>Taishō Tripiṭaka volume 8, Number 235</dc:description>
+        <dc:description>Taishō Tripiṭaka Volume 8, Number 235</dc:description>
     </bib:Document>
     <bib:Document rdf:about="http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html">
         <z:itemType>webpage</z:itemType>
@@ -654,7 +645,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:contributors>
-        <dcterms:isReferencedBy rdf:resource="#item_42"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>Bibliography</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -684,9 +674,6 @@
            <dcterms:LCC><rdf:value>Z7862.3 BQ1217 .L35</rdf:value></dcterms:LCC>
         </dc:subject>
     </bib:Book>
-    <bib:Memo rdf:about="#item_42">
-       <rdf:value>English, Chinese and Korean Includes indexes</rdf:value>
-    </bib:Memo>
     <bib:Book rdf:about="urn:isbn:041593687X">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -739,6 +726,7 @@
         <link:link rdf:resource="#item_45"/>
         <dc:title>Great Treatise on the Perfection of Wisdom 大智度論</dc:title>
         <dc:date>Later Qin</dc:date>
+        <z:shortTitle>T.25, No. 1509</z:shortTitle>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://tripitaka.cbeta.org/T25n1509</rdf:value>
@@ -819,161 +807,6 @@
         <z:shortTitle>The platform sutra</z:shortTitle>
         <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
     </bib:Book>
-    <bib:Article rdf:about="#item_49">
-        <z:itemType>journalArticle</z:itemType>
-        <dcterms:isPartOf rdf:resource="urn:issn:0006-2944"/>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Makar</foaf:surname>
-                        <foaf:givenname>A B</foaf:givenname>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>McMartin</foaf:surname>
-                        <foaf:givenname>K E</foaf:givenname>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Palese</foaf:surname>
-                        <foaf:givenname>M</foaf:givenname>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Tephly</foaf:surname>
-                        <foaf:givenname>T R</foaf:givenname>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <link:link rdf:resource="#item_50"/>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Aldehyde Oxidoreductases</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Animals</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Body Fluids</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Carbon Dioxide</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Formates</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Haplorhini</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Hydrogen-Ion Concentration</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Kinetics</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Methanol</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Methods</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Pseudomonas</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:title>Formate assay in body fluids: application in methanol poisoning</dc:title>
-        <bib:pages>117-126</bib:pages>
-        <dc:date>Jun 1975</dc:date>
-        <z:language>eng</z:language>
-        <z:shortTitle>Formate assay in body fluids</z:shortTitle>
-        <z:libraryCatalog>NCBI PubMed</z:libraryCatalog>
-        <dc:description>PMID: 1</dc:description>
-    </bib:Article>
-    <bib:Journal rdf:about="urn:issn:0006-2944">
-        <dc:title>Biochemical medicine</dc:title>
-        <prism:volume>13</prism:volume>
-        <prism:number>2</prism:number>
-        <dcterms:alternative>Biochem Med</dcterms:alternative>
-        <dc:identifier>ISSN 0006-2944</dc:identifier>
-    </bib:Journal>
-    <z:Attachment rdf:about="#item_50">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>PubMed entry</dc:title>
-        <dcterms:dateSubmitted>2014-02-27 05:31:52</dcterms:dateSubmitted>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/1</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <link:type>text/html</link:type>
-    </z:Attachment>
-    <bib:Article rdf:about="#item_53">
-        <z:itemType>journalArticle</z:itemType>
-        <dcterms:isPartOf rdf:resource="urn:issn:0001-5415"/>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Kofránek</foaf:surname>
-                        <foaf:givenname>I</foaf:givenname>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <link:link rdf:resource="#item_54"/>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Adult</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Aged</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Ankle Joint</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Arthrodesis</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-           <z:AutomaticTag><rdf:value>Middle Aged</rdf:value></z:AutomaticTag>
-        </dc:subject>
-        <dc:title>[Personal results with ankle joint arthordesis (author's transl)]</dc:title>
-        <bib:pages>142-146</bib:pages>
-        <dc:date>Apr 1977</dc:date>
-        <z:language>cze</z:language>
-        <z:libraryCatalog>NCBI PubMed</z:libraryCatalog>
-        <dc:description>PMID: 899579</dc:description>
-    </bib:Article>
-    <bib:Journal rdf:about="urn:issn:0001-5415">
-        <dc:title>Acta chirurgiae orthopaedicae et traumatologiae Cechoslovaca</dc:title>
-        <prism:volume>44</prism:volume>
-        <prism:number>2</prism:number>
-        <dcterms:alternative>Acta Chir Orthop Traumatol Cech</dcterms:alternative>
-        <dc:identifier>ISSN 0001-5415</dc:identifier>
-    </bib:Journal>
-    <z:Attachment rdf:about="#item_54">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>PubMed entry</dc:title>
-        <dcterms:dateSubmitted>2014-02-27 05:31:56</dcterms:dateSubmitted>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/899579</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <bib:Book rdf:about="urn:isbn:1899579583%20%209781899579587">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -1003,34 +836,6 @@
         <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
     </bib:Book>
     <bib:Document rdf:about="http://www.schoyencollection.com/buddhism.html#2385">
-        <z:itemType>webpage</z:itemType>
-        <dcterms:isPartOf>
-            <z:Website>
-               <dc:title>Schøyen Collection | Buddhism</dc:title>
-            </z:Website>
-        </dcterms:isPartOf>
-        <link:link rdf:resource="#item_60"/>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>http://www.schoyencollection.com/buddhism.html#2385</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2014-02-27 05:33:31</dcterms:dateSubmitted>
-        <dc:description>MS 2385</dc:description>
-    </bib:Document>
-    <z:Attachment rdf:about="#item_60">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>Schøyen Collection | Buddhism</dc:title>
-        <dcterms:dateSubmitted>2014-02-27 05:33:32</dcterms:dateSubmitted>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>http://www.schoyencollection.com/buddhism.html#2385</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <link:type>text/html</link:type>
-        <link:charset>1</link:charset>
-    </z:Attachment>
-    <bib:Document rdf:about="#item_61">
         <z:itemType>webpage</z:itemType>
         <dcterms:isPartOf>
             <z:Website>
@@ -1158,7 +963,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:contributors>
-        <dcterms:isReferencedBy rdf:resource="#item_67"/>
         <dc:subject>
            <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
         </dc:subject>
@@ -1176,9 +980,6 @@
            <dcterms:LCC><rdf:value>BQ1997 .N4413 2010</rdf:value></dcterms:LCC>
         </dc:subject>
     </bib:Book>
-    <bib:Memo rdf:about="#item_67">
-        <rdf:value>&lt;p>&quot;The Vajracchedika Prajñaparamita Sutra was translated from the Chinese by Thich Nhat Hanh, Annabel Laity, and Anh Huong Nguyen. The Commentaries were translated from the Vietnamese by Anh Huong Nguyen.&quot; First ed. published 1992&lt;/p></rdf:value>
-    </bib:Memo>
     <bib:Book rdf:about="urn:isbn:9781932293555">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -1327,6 +1128,7 @@
         </bib:authors>
         <dc:title>Jingang Jing Zuan Yao Kan Ding Ji 金剛經纂要刊定記</dc:title>
         <dc:date>Song</dc:date>
+        <z:shortTitle>T.33, No. 1702</z:shortTitle>
         <dc:identifier>
             <dcterms:URI>
                <rdf:value>http://tripitaka.cbeta.org/zh-cn/T33n1702</rdf:value>
