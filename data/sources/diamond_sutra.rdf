@@ -1,0 +1,1339 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Book rdf:about="urn:isbn:978-0415223904">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London and New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mittal, Sushil</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Thursby, Gene</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_4"/>
+        <dc:title>Religions of South Asia: An Introduction</dc:title>
+        <dcterms:abstract>This textbook introduces the contemporary religions of South Asia, from the indigenous religions such as the Hindu, Jain, Buddhist and Sikh traditions, to incoming influences such as Christianity, Judaism and Islam.</dcterms:abstract>
+        <dc:date>2006</dc:date>
+        <z:language>Chinese</z:language>
+        <dc:identifier>ISBN 978-0415223904</dc:identifier>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_4">
+        <rdf:value>&lt;p>Definition of dharma applicable to Hinduism, Buddhism, Jainism, and Sikh, p7&lt;/p></rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:9781614290506%20%201614290504%20%209781614290612%20%20161429061X">
+        <z:itemType>book</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nāgārjuna</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siderits</foaf:surname>
+                        <foaf:givenname>Mark</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katsura</foaf:surname>
+                        <foaf:givenname>Shōryū</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Nāgārjuna's Middle way: the Mūlamadhyamakākarikā</dc:title>
+        <dc:date>2013</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9781614290506  1614290504  9781614290612  161429061X</dc:identifier>
+        <z:shortTitle>Nāgārjuna's Middle way</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0861713311%209780861713318">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wisdom Publications</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Bodhi</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The connected discourses of the Buddha a new translation of the Saṃyutta Nikāya ; translated from the Pāli by Bhikkhu Bodhi.</dc:title>
+        <dc:date>2000</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0861713311 9780861713318</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://site.ebrary.com/id/10407950</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 04:56:57</dcterms:dateSubmitted>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.bl.uk/onlinegallery/ttp/sutra/accessible/introduction.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wight</foaf:surname>
+                        <foaf:givenname>Colin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>090</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>diamond sutra</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>earliest book</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>earliest printed</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>first book</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Virtual books: images only - The Diamond Sutra: Introduction</dc:title>
+        <dcterms:abstract>Introduction to the Diamond Sutra</dcterms:abstract>
+        <z:type>Text</z:type>
+        <z:shortTitle>Virtual books</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.bl.uk/onlinegallery/ttp/sutra/accessible/introduction.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 04:57:32</dcterms:dateSubmitted>
+        <z:language>eng</z:language>
+        <dc:description>Introduction to the Diamond Sutra</dc:description>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:9780691157863">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Princeton</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Princeton University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buswell</foaf:surname>
+                        <foaf:givenname>Robert E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez</foaf:surname>
+                        <foaf:givenname>Donald S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Princeton dictionary of Buddhism</dc:title>
+        <dc:date>2014</dc:date>
+        <z:numPages>1265</z:numPages>
+        <dc:identifier>ISBN 9780691157863</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ130 .P75 2014</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://tripitaka.cbeta.org/en/X24n0461">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CBETA</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Dao Chuan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Jingang Jing Zhu 金剛經註</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/en/X24n0461</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:00:44</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+        <dc:rights>Copyright © 2014 CBETA.  Creative Commons 3.0.</dc:rights>
+        <dc:description>Manji Shinsan Dainihon Zokuzokyo, Vol. 24, No. 0461</dc:description>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:8120811402">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Delhi</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Motilal Banarsidass Publishers</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Egenes</foaf:surname>
+                        <foaf:givenname>Thomas</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_18"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>English</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grammar</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sanskrit language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Introduction to Sanskrit</dc:title>
+        <prism:edition>2nd rev. ed</prism:edition>
+        <dc:date>1996</dc:date>
+        <z:numPages>2</z:numPages>
+        <dc:identifier>ISBN 8120811402</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>PK666 .E5 1996</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_18">
+       <rdf:value>&lt;p>Vol 2: 1st ed&lt;/p></rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="http://etext.fgs.org.tw/etext6/search-1.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Fo Guang Shan</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hsing Yun</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fo Guang Shan Online Dictionary 佛光山電子大藏經</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://etext.fgs.org.tw/etext6/search-1.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:04:00</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:1928706002%20%209781928706007%20%201928706010%20%209781928706014">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Seattle, WA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>BPE Pariyatti Editions</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Buddhaghosa</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ñāṇamoli</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The path of purification: Visuddhimagga</dc:title>
+        <dc:date>1999</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 1928706002  9781928706007  1928706010  9781928706014</dc:identifier>
+        <z:shortTitle>The path of purification</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9780521859424%20%200521859425%20%209780521676748%20%200521676746">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cambridge</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Cambridge University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harvey</foaf:surname>
+                        <foaf:givenname>Peter</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An introduction to Buddhism: teachings, history and practices</dc:title>
+        <dc:date>1990</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9780521859424  0521859425  9780521676748  0521676746</dc:identifier>
+        <z:shortTitle>An introduction to Buddhism</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9780191587894%20%200191587893%20%200585111588%20%209780585111582">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Oxford University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gethin</foaf:surname>
+                        <foaf:givenname>Rupert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The foundations of Buddhism</dc:title>
+        <dcterms:abstract>Buddhism is a vast and complex religious and philosophical tradition with a history that stretches over 2,500 years, and which is now followed by around 115 million people. In this introduction to the foundations of Buddhism, Rupert Gethin concentrates on the ideas and practices which constitute the common heritage of the different traditions of Buddhism (Thervada, Tibetan, and Eastern) which exist in the world today. From the narrative of the story of the Buddha, throughdiscussions of aspects such as textual traditions, the framework of the Four Noble Truths, the interaction between the monas.</dcterms:abstract>
+        <dc:date>1998</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 9780191587894  0191587893  0585111588  9780585111582</dc:identifier>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://public.eblib.com/EBLPublic/PublicView.do?ptiID=684592</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:11:11</dcterms:dateSubmitted>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.lapislazulitexts.com/anatmalaksana_sutra.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lapis Lazuli Texts</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Saṃyukta Āgama: 34. Five Bhikṣus</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.lapislazulitexts.com/anatmalaksana_sutra.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:11:51</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="#item_28">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0193-600XX"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harrison</foaf:surname>
+                        <foaf:givenname>Paul</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Experimental core samples of Chinese translations of two Buddhist sūtras analysed in the light of recent Sanskrit manuscript discoveries</dc:title>
+        <bib:pages>205-249</bib:pages>
+        <dc:date>2008</dc:date>
+        <z:language>English</z:language>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0193-600XX">
+        <dc:title>Journal of the International Association of Buddhist Studies</dc:title>
+        <prism:volume>31</prism:volume>
+        <prism:number>1-2</prism:number>
+        <dc:identifier>ISSN 0193-600XX</dc:identifier>
+    </bib:Journal>
+    <bib:Book rdf:about="urn:isbn:0861711866">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Wisdom</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Xingyun</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Graham</foaf:surname>
+                        <foaf:givenname>Tom</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_30"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Criticism, interpretation, etc</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tripiṭaka</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Describing the indescribable: a commentary on the Diamond Sutra</dc:title>
+        <dc:date>2001</dc:date>
+        <z:numPages>210</z:numPages>
+        <dc:identifier>ISBN 0861711866</dc:identifier>
+        <z:shortTitle>Describing the indescribable</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ1997 .X46 2001</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_30">
+        <rdf:value>&lt;p>Includes the translation of the Diamond Sutra&lt;/p></rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:9781932293548">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Los Angeles</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Buddha's Light Pub</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Xingyun</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kumārajīva</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_32"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tripiṭaka</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Four insights for finding fulfillment: [a practical guide to the Buddha's Diamond Sutra]</dc:title>
+        <dc:date>2011</dc:date>
+        <z:numPages>268</z:numPages>
+        <dc:identifier>ISBN 9781932293548</dc:identifier>
+        <z:shortTitle>Four insights for finding fulfillment</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ1997 .X45913 2011</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_32">
+        <rdf:value>Contains English translation of Kumārajīva's Chinese translation of Diamond Sutra--publisher's e-mail</rdf:value>
+    </bib:Memo>
+    <bib:Document rdf:about="http://tripitaka.cbeta.org/X24n0459">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CBETA</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hui Neng</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Exegesis on the Diamond Sutra 金剛經解義</dc:title>
+        <dc:date>Tang</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/X24n0459</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:16:35</dcterms:dateSubmitted>
+        <dc:description>Manji Shinsan Dainihon Zokuzokyo, Vol 24, No. 0459</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://book.bfnn.org/books2/1108.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jiang</foaf:surname>
+                        <foaf:givenname>Wei Zhen</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Lectures on the Diamond Sutra 金剛般若波羅蜜經講義</dc:title>
+        <dc:date>1941</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://book.bfnn.org/books2/1108.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:19:52</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.cbeta.org/result/normal/T08/0235_001.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CBETA</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kumārajīva</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Prajñāpāramitā Diamond Sūtra《金剛般若波羅蜜經》</dc:title>
+        <dc:date>400</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cbeta.org/result/normal/T08/0235_001.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:21:45</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+        <dc:rights>Copyright ©1998-2011 CBETA,  Creative Commons 2.5</dc:rights>
+        <dc:description>Taishō Tripiṭaka volume 8, Number 235</dc:description>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lapis Lazuli Texts</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Vajracchedikā Prajñāpāramitā Sūtra</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:25:05</dcterms:dateSubmitted>
+        <z:language>English</z:language>
+        <dc:description>Translated from Taishō Tripiṭaka volume 8, number 235</dc:description>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:0520031598">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>University of California Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lancaster</foaf:surname>
+                        <foaf:givenname>Lewis R.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Park</foaf:surname>
+                        <foaf:givenname>Sung-bae</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_42"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Bibliography</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Sacred books Bibliography</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ta tsang ching</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Korean Buddhist canon: a descriptive catalogue</dc:title>
+        <dc:date>1979</dc:date>
+        <z:numPages>724</z:numPages>
+        <dc:identifier>ISBN 0520031598</dc:identifier>
+        <z:shortTitle>The Korean Buddhist canon</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.buddhism.org/board/read.cgi?board=BuddhistStudies&amp;y_number=67</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>Z7862.3 BQ1217 .L35</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_42">
+       <rdf:value>English, Chinese and Korean Includes indexes</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:041593687X">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McQuillan</foaf:surname>
+                        <foaf:givenname>Martin</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deconstruction</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Deconstruction: a reader</dc:title>
+        <dc:date>2001</dc:date>
+        <z:numPages>579</z:numPages>
+        <dc:identifier>ISBN 041593687X</dc:identifier>
+        <z:shortTitle>Deconstruction</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>PN98.D43 D418 2001</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://tripitaka.cbeta.org/T25n1509">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CBETA</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nāgārjuna</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_45"/>
+        <dc:title>Great Treatise on the Perfection of Wisdom 大智度論</dc:title>
+        <dc:date>Later Qin</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/T25n1509</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:28:21</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+        <dc:description>Translated in the Later Qin by Kumārajīva. Taisho Tripitaka Vol. 25, No. 1509</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_45">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>T25n1509 大智度論 | CBETA 漢文大藏經</dc:title>
+        <dcterms:dateSubmitted>2014-02-27 05:28:22</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/T25n1509</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:1582430594%20%209781582430591%20%201582432562%209781582432564">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Washington, D.C.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Counterpoint</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Red Pine</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Diamond Sutra: the perfection of wisdom</dc:title>
+        <dc:date>2001</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 1582430594  9781582430591  1582432562 9781582432564</dc:identifier>
+        <z:shortTitle>The Diamond Sutra</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9781593761776%20%201593761775">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley, Calif.; London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Counterpoint ; Turnaround [distributor]</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Huineng</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Red Pine</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The platform sutra: the Zen teaching of Hui-neng</dc:title>
+        <dc:date>2009</dc:date>
+        <z:language>Translated from the Chinese.</z:language>
+        <dc:identifier>ISBN 9781593761776  1593761775</dc:identifier>
+        <z:shortTitle>The platform sutra</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Article rdf:about="#item_49">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0006-2944"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Makar</foaf:surname>
+                        <foaf:givenname>A B</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McMartin</foaf:surname>
+                        <foaf:givenname>K E</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palese</foaf:surname>
+                        <foaf:givenname>M</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tephly</foaf:surname>
+                        <foaf:givenname>T R</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_50"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Aldehyde Oxidoreductases</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Animals</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Body Fluids</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Carbon Dioxide</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Formates</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Haplorhini</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Hydrogen-Ion Concentration</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Kinetics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Methanol</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Methods</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Pseudomonas</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Formate assay in body fluids: application in methanol poisoning</dc:title>
+        <bib:pages>117-126</bib:pages>
+        <dc:date>Jun 1975</dc:date>
+        <z:language>eng</z:language>
+        <z:shortTitle>Formate assay in body fluids</z:shortTitle>
+        <z:libraryCatalog>NCBI PubMed</z:libraryCatalog>
+        <dc:description>PMID: 1</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0006-2944">
+        <dc:title>Biochemical medicine</dc:title>
+        <prism:volume>13</prism:volume>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Biochem Med</dcterms:alternative>
+        <dc:identifier>ISSN 0006-2944</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_50">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dcterms:dateSubmitted>2014-02-27 05:31:52</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_53">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0001-5415"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kofránek</foaf:surname>
+                        <foaf:givenname>I</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_54"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Adult</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Aged</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Ankle Joint</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Arthrodesis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Humans</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Middle Aged</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>[Personal results with ankle joint arthordesis (author's transl)]</dc:title>
+        <bib:pages>142-146</bib:pages>
+        <dc:date>Apr 1977</dc:date>
+        <z:language>cze</z:language>
+        <z:libraryCatalog>NCBI PubMed</z:libraryCatalog>
+        <dc:description>PMID: 899579</dc:description>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0001-5415">
+        <dc:title>Acta chirurgiae orthopaedicae et traumatologiae Cechoslovaca</dc:title>
+        <prism:volume>44</prism:volume>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Acta Chir Orthop Traumatol Cech</dcterms:alternative>
+        <dc:identifier>ISSN 0001-5415</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_54">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PubMed entry</dc:title>
+        <dcterms:dateSubmitted>2014-02-27 05:31:56</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.ncbi.nlm.nih.gov/pubmed/899579</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:1899579583%20%209781899579587">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Birmingham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Windhorse</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Sangharakshita</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The eternal legacy: an introduction to the canonical literature of Buddhism</dc:title>
+        <dc:date>2006</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 1899579583  9781899579587</dc:identifier>
+        <z:shortTitle>The eternal legacy</z:shortTitle>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.schoyencollection.com/buddhism.html#2385">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Schøyen Collection | Buddhism</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_60"/>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.schoyencollection.com/buddhism.html#2385</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:33:31</dcterms:dateSubmitted>
+        <dc:description>MS 2385</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_60">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Schøyen Collection | Buddhism</dc:title>
+        <dcterms:dateSubmitted>2014-02-27 05:33:32</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.schoyencollection.com/buddhism.html#2385</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>1</link:charset>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_61">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Schøyen Collection | Buddhism</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Diamond Sutra</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.schoyencollection.com/buddhism.html#2385</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:35:23</dcterms:dateSubmitted>
+        <z:language>Sanskrit</z:language>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:8186569367">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Pilgrimage &amp; cosmology series</dc:title>
+                <dc:identifier>5</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Varanasi</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Indica Books</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenname>Rana P. B.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Buddhist pilgrims and pilgrimages</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Gautama Buddha</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>India</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Shrines</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Where the Buddha walked: a companion to the Buddhist places of India</dc:title>
+        <prism:edition>1st ed</prism:edition>
+        <dc:date>2003</dc:date>
+        <z:numPages>330</z:numPages>
+        <dc:identifier>ISBN 8186569367</dc:identifier>
+        <z:shortTitle>Where the Buddha walked</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ6460 .S48 2003</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.accesstoinsight.org/tipitaka/an/an04/an04.170.than.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Access to Insight</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Thanissaro</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Yuganaddha Sutta: In Tandem</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.accesstoinsight.org/tipitaka/an/an04/an04.170.than.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:37:56</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:9781935209447">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berkeley, Calif</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Parallax Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nhá̂t Hạnh</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Laity</foaf:surname>
+                        <foaf:givenname>Annabel</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenname>Anh Huong</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dcterms:isReferencedBy rdf:resource="#item_67"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Commentaries</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tripiṭaka</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The diamond that cuts through illusion: commentaries on the Prajñaparamita Diamond Sutra</dc:title>
+        <prism:edition>Rev. ed</prism:edition>
+        <dc:date>2010</dc:date>
+        <z:numPages>152</z:numPages>
+        <dc:identifier>ISBN 9781935209447</dc:identifier>
+        <z:shortTitle>The diamond that cuts through illusion</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ1997 .N4413 2010</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Memo rdf:about="#item_67">
+        <rdf:value>&lt;p>&quot;The Vajracchedika Prajñaparamita Sutra was translated from the Chinese by Thich Nhat Hanh, Annabel Laity, and Anh Huong Nguyen. The Commentaries were translated from the Vietnamese by Anh Huong Nguyen.&quot; First ed. published 1992&lt;/p></rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:9781932293555">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Los Angeles</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Buddha's Light Pub</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Cizhuang</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smitheram</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Spiritual life</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Faxiang: a Buddhist practitioner's encyclopedia</dc:title>
+        <prism:edition>1st ed</prism:edition>
+        <dc:date>2012</dc:date>
+        <z:numPages>405</z:numPages>
+        <dc:identifier>ISBN 9781932293555</dc:identifier>
+        <z:shortTitle>Faxiang</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ128 .C5913 2012</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.dsbcproject.org./node/6348">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Digital Sanskrit Buddhist Canon</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Vaidya, P. L. (Ed)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>vajracchedikā nāma triśatikā prajñāpāramitā</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.dsbcproject.org./node/6348</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:39:58</dcterms:dateSubmitted>
+        <z:language>Sanskrit</z:language>
+        <dc:description>University of the West</dc:description>
+    </bib:Document>
+    <rdf:Description rdf:about="http://www.bps.lk/olib/wh/wh020.pdf">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>The Wheel Publication</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wijesekera</foaf:surname>
+                        <foaf:givenname>O. H.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Three Signata: Anicca, Dukkha, Anattā</dc:title>
+        <dc:date>2008</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.bps.lk/olib/wh/wh020.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>No. 20</dc:description>
+    </rdf:Description>
+    <bib:Book rdf:about="http://www.woodenfish.org/sutra/texts">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Buddha's Light Pub</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Yifa</foaf:surname></foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Owens</foaf:surname>
+                        <foaf:givenname>M. C.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Romaskiewicz</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Vajra Prajnaparamita Sutra</dc:title>
+        <dc:date>2006</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.woodenfish.org/sutra/texts</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <bib:Document rdf:about="http://tripitaka.cbeta.org/zh-cn/T33n1702">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CBETA</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Zi Xuan</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Jingang Jing Zuan Yao Kan Ding Ji 金剛經纂要刊定記</dc:title>
+        <dc:date>Song</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/zh-cn/T33n1702</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-02-27 05:48:01</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+        <dc:description>Taisho Tripitaka, Vol. 33, No. 1702</dc:description>
+    </bib:Document>
+</rdf:RDF>
