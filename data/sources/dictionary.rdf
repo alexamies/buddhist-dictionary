@@ -1,0 +1,315 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:9780691157863">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Princeton</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Princeton University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Buswell</foaf:surname>
+                        <foaf:givenname>Robert E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez</foaf:surname>
+                        <foaf:givenname>Donald S.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Princeton dictionary of Buddhism</dc:title>
+        <dc:date>2014</dc:date>
+        <z:numPages>1265</z:numPages>
+        <dc:identifier>ISBN 9780691157863</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ130 .P75 2014</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://cc-cedict.org/wiki/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>CEDICT project</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>CC-CEDICT</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://cc-cedict.org/wiki/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:30:09</dcterms:dateSubmitted>
+        <dc:description>Chinese-English Dictionary</dc:description>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:7100035155%209787100035156">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beijing</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>China Commercial Press 商务印书馆</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Chen Fu Hua 陈复华</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>Gudai Hanyu Cidian 《古代汉语词典》</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>Chinese</z:language>
+        <dc:identifier>ISBN 7100035155 9787100035156</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:7119037862">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beijing</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Foriegn Languages Press 外文出版社</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenname>Guansheng</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenname>Peizhu</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Chinese</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Chinese language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>English</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Chinese-English dictionary of Buddhist terms 《中英佛教词典》</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 7119037862</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ130 .C424 2005</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://ctext.org/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Chinese Text Project</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://ctext.org/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:35:13</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="http://etext.fgs.org.tw/etext6/search-1.htm">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Fo Guang Shan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Online Buddhist Dictionary 佛光山電子大藏經</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://etext.fgs.org.tw/etext6/search-1.htm</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:35:43</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+    </bib:Document>
+    <bib:Document rdf:about="http://www.sanskrit-lexicon.uni-koeln.de/monier/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Monier Williams Online Dictionary</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.sanskrit-lexicon.uni-koeln.de/monier/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:38:37</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="http://dsal.uchicago.edu/dictionaries/pali/index.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>The Pali Text Society's Pali-English dictionary</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dsal.uchicago.edu/dictionaries/pali/index.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:39:17</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Document rdf:about="http://spokensanskrit.de/index.php">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Sanskrit Dictionary for Spoken Sanskrit</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://spokensanskrit.de/index.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:39:50</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="#item_91">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Kegan Paul, Trench, Trubner, and Co. Ltd</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soothhill</foaf:surname>
+                        <foaf:givenname>W. E.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hodous</foaf:surname>
+                        <foaf:givenname>L. A.</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Dictionary of Chinese Buddhist Terms</dc:title>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:9781932293555">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Los Angeles</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Buddha's Light Pub</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Cizhuang</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smitheram</foaf:surname>
+                        <foaf:givenname>Robert</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Spiritual life</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Faxiang: a Buddhist practitioner's encyclopedia</dc:title>
+        <prism:edition>1st ed</prism:edition>
+        <dc:date>2012</dc:date>
+        <z:numPages>405</z:numPages>
+        <dc:identifier>ISBN 9781932293555</dc:identifier>
+        <z:shortTitle>Faxiang</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ128 .C5913 2012</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.zdic.net/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>汉典 zdic.net</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://www.zdic.net/</rdf:value></dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 00:42:39</dcterms:dateSubmitted>
+        <z:language>Chinese</z:language>
+        <dc:description>Classical Chinese Dictionary</dc:description>
+    </bib:Document>
+</rdf:RDF>
