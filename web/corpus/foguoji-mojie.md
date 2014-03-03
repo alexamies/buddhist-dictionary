@@ -28,7 +28,7 @@ The cities and towns of this country are the greatest of all in the Middle Kingd
 
 Source of translation
 
-Faxian and James Legge, A Record of Buddhistic Kingdoms: Being an Account by the Chinese Monk Fâ-Hien of His Travels in India and Ceylon, A.d. 399-414, in Search of the Buddhist Books of Discipline. Translated and Annotated with a Corean Recension of the Chinese Text (Clarendon Press, 1886), 18–19.
+Source of translation: Legge (1886), p79.
 
 ### Notes
 
@@ -36,7 +36,14 @@ The translation is based on a Korean recension, which is slightly different to t
 
 This passage is in the Mojie section of the document.
 
-This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.
 
-[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+1. Juewei. “Literature: Buddha’s Birthday Celebration Accounts.” Buddha’s Birthday Education Project. Accessed March 2, 2014. <a href="http://www.paradeofthebuddhas.org">http://www.paradeofthebuddhas.org</a>.
 
+2. Juewei. Parading the Buddha: Localizing Buddha’s Birthday Celebrations. First Edition. Los Angeles: Buddha’s Light Publishing, 2013.
+
+3. Legge, James. A Record of Buddhistic Kingdoms: Being an Account by the Chinese Monk Fâ-Hien of His Travels in India and Ceylon, A.d. 399-414, in Search of the Buddhist Books of Discipline. Clarendon Press, 1886.
+
+4. Wong, Poh Yee. “Acculturation as Seen through Buddha’s Birthday Parades in Northern Wei Luoyang: A Micro Perspective on the Making of Buddhism as a World Religion.” University of the West, 2012.
+
+Last modified: 2014-03-02

@@ -24,16 +24,22 @@ End marker: 中華電子佛典協會
 
 English	translation: None
 
-Summary: This scroll contains biographical entries for Kasyapamatanga, Dharmaratna, An Shi Gao, Lokakṣema, Kang Seng Hui, Vighna, Śrīmitra, Sajghabhūti, Dharma-nandi, Sajghadeva, and others.
+### Summary
+This scroll contains biographical entries for Kasyapamatanga, Dharmaratna, An Shi Gao, Lokakṣema, Kang Seng Hui, Vighna, Śrīmitra, Sajghabhūti, Dharma-nandi, Sajghadeva, and others.
 
-Notes: The scroll has a passage about the monk Kang Seng Hui 康僧會:
+### Notes
+The scroll has a passage about the monk Kang Seng Hui 康僧會:
 
 僧會欲使道振江左興立圖寺。乃杖錫東遊。以吳赤烏十年。初達建鄴營立茅茨設像行道。
 
 This passage describes Kang Seng Hui going to the City of Ye.
 
-This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.
 
-[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+1. Juewei. “Literature: Buddha’s Birthday Celebration Accounts.” Buddha’s Birthday Education Project. Accessed March 2, 2014. <a href="http://www.paradeofthebuddhas.org">http://www.paradeofthebuddhas.org</a>.
 
-This page was last edited on February 19, 2014.
+2. Juewei. Parading the Buddha: Localizing Buddha’s Birthday Celebrations. First Edition. Los Angeles: Buddha’s Light Publishing, 2013.
+
+3. Wong, Poh Yee. “Acculturation as Seen through Buddha’s Birthday Parades in Northern Wei Luoyang: A Micro Perspective on the Making of Buddhism as a World Religion.” University of the West, 2012.
+
+Last modified: 2014-03-02

@@ -36,7 +36,15 @@ This passage is line 50 of the document Ye Zhong Ji.
 
 石虎性好佞佛，眾巧奢靡，不可紀也。嘗作檀車，廣丈餘，長二丈，四輪。作金佛像，坐於車上，九龍吐水灌之。又作木道人，恒以手摩佛心腹之間。又十餘木道人，長二尺。餘皆披袈裟繞佛行，當佛前，輒揖禮佛。又以手撮香投爐中，與人無異。車行則木人行，龍吐水，車止則止。亦解飛所造也。
 
-The passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+The passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.
 
-[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+1. Juewei. “Literature: Buddha’s Birthday Celebration Accounts.” Buddha’s Birthday Education Project. Accessed March 2, 2014. <a href="http://www.paradeofthebuddhas.org">http://www.paradeofthebuddhas.org</a>.
+
+2. Juewei. Parading the Buddha: Localizing Buddha’s Birthday Celebrations. First Edition. Los Angeles: Buddha’s Light Publishing, 2013.
+
+3. Wong, Poh Yee. “Acculturation as Seen through Buddha’s Birthday Parades in Northern Wei Luoyang: A Micro Perspective on the Making of Buddhism as a World Religion.” University of the West, 2012.
+
+4. Ming-chiu, Lai. On the Image Procession in China from the Second to the Sixth Centuries AD: An Interpretation of an Elephant Sculpture at the Kongwangshan Site. Hong Kong: Chinese University Press, 1999.
+
+Last modified: 2014-03-02
 

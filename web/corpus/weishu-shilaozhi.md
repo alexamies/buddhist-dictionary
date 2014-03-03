@@ -26,9 +26,7 @@ End marker: 世祖平赫連昌
 
 At that time Shih-tsu had just ascended the throne. He also, continuing the actions of T’ai-tsu and T’ai-tsung, always used to invite śramaṇas (should read 'monks') of high character and discuss with them. On the eighth day of the fourth month he used to mount the Buddha images on carriages and march them through the wide streets. The Emperor would personally drive to the gate tower and watch; he would scatter flowers and thus perform acts of veneration.
 
-Source of translation
-
-Shou Wei, Treatise on Buddhism and Taoism: An English Translation of the Original Chinese Text of Wei-Shu Cxiv and the Japanese Annot. of Tsukamoto Zenryû by Leon Hurvitz, trans. Leon Hurvitz (Kyoto: Kyoto Univ., 1956), 56.
+Source of translation: Hurvitz (1956), p56.
 
 This is a translation of the passage
 
@@ -36,7 +34,14 @@ This is a translation of the passage
 
 ### Notes
 
-This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by  Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.
 
-[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+1. Juewei. “Literature: Buddha’s Birthday Celebration Accounts.” Buddha’s Birthday Education Project. Accessed March 2, 2014. <a href="http://www.paradeofthebuddhas.org">http://www.paradeofthebuddhas.org</a>.
 
+2. Juewei. Parading the Buddha: Localizing Buddha’s Birthday Celebrations. First Edition. Los Angeles: Buddha’s Light Publishing, 2013.
+
+3. Hurvitz, Leon. Shou Wei, Treatise on Buddhism and Taoism: An English Translation of the Original Chinese Text of Wei-Shu Cxiv and the Japanese Annot. of Tsukamoto Zenryû. Kyoto: Kyoto University, 1956.
+
+4. Wong, Poh Yee. “Acculturation as Seen through Buddha’s Birthday Parades in Northern Wei Luoyang: A Micro Perspective on the Making of Buddhism as a World Religion.” University of the West, 2012.
+
+Last modified: 2014-03-02

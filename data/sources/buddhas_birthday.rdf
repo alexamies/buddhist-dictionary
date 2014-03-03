@@ -1,0 +1,126 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Thesis rdf:about="#item_95">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>University of the West</foaf:name>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Los Angeles</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wong</foaf:surname>
+                        <foaf:givenname>Poh Yee</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Acculturation as Seen through Buddha's Birthday Parades in Northern Wei Luoyang: A Micro Perspective on the Making of Buddhism as a World Religion</dc:title>
+        <dcterms:abstract>A Dissertation Presented to the Faculty of the Department of Religious Studies University of the West In Partial Fulfillment of the Requirements for the Degree Doctor of Philosophy in Religious Studies</dcterms:abstract>
+        <dc:date>Spring 2012</dc:date>
+        <z:language>English</z:language>
+    </bib:Thesis>
+    <bib:Book rdf:about="urn:isbn:9781932293838">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Los Angeles</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Buddha's Light Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Juewei</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Anniversaries, etc</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Birth</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Buddhism</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Buddhism and culture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>China</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>China Luoyang Shi</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Fasts and feasts</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Gautama Buddha</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>To 581</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Parading the Buddha: localizing Buddha's birthday celebrations</dc:title>
+        <prism:edition>First Edition</prism:edition>
+        <dc:date>2013</dc:date>
+        <dc:identifier>ISBN 9781932293838</dc:identifier>
+        <z:shortTitle>Parading the Buddha</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ5720.B6 J84 2013</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Document rdf:about="http://www.paradeofthebuddhas.org/?page_id=197#Luoyang495c">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+               <dc:title>Buddha's Birthday Education Project</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Juewei</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Literature: Buddha’s Birthday Celebration Accounts | Buddha's Birthday Education Project</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.paradeofthebuddhas.org/?page_id=197#Luoyang495c</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-03-02 23:20:35</dcterms:dateSubmitted>
+    </bib:Document>
+</rdf:RDF>

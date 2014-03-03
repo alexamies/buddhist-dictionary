@@ -29,20 +29,26 @@ This scroll contains the two passages below.
 
 In the Tsung-sheng Temple was an image that was thirty-eight Chinese feet high. Its countenance was unusually grave, and it had all [the thirty-two marks and eighty signs on the body]. People held the statue in high esteem and could not take their eyes off it. Whenever the statue was on parade, [they would leave their homes or the marketplace to see it, so that] all the homes and marketplaces were virtually empty. The aureole of this statue had no parallel in its time. The skillful games and miscellaneous music performed here were second in excellence only to those in Liu Teng’s [Ch'ang-ch'iu Temple]. Men and women living in the eastern section of the city often came to this temple to watch the shows.
 
-Source: Xuanzhi Yang, A Record of Buddhist Monasteries in Lo-Yang, trans. Yi-t’ung Wang (Princeton N.J.: Princeton University Press, 1984), 72–73.
+Source: Wang (1984), p72–73.
 
 
 景興尼寺 … 有金像輦。去地三尺。施寶蓋。四面垂金鈴七寶珠。飛天伎樂。望之雲表。作工甚精。難可揚推。像出之日。常詔羽林一百人舉此像。絲竹雜伎皆由旨給。
 
 The Ching-hsing Nunnery (Flourishing Prospect Nunnery … There was a gold carriage with an image, which was thirty Chinese feet off the ground. A jeweled canopy was hung above the carriage, from which were suspended gold bells, beads made out of seven varieties of precious materials, and images of Buddhist musicians and entertainers who appeared high up in the clouds. The craftsmanship was so superb it was hard to describe. When the [carriage-held] image was on parade, the emperor as a rule would order one hundred yu-lin guards to carry it, with the accompanying music and variety shows all provided for by the court.
 
-Source: Yang, A Record of Buddhist Monasteries in Lo-Yang, 77–78.
+Source: Wang (1984), p77–78.
 
 ### Notes:
 The old British style transliterations from Wang have been converted to Hanyu Pinyin elsewhere. So Lo-Yang becomes Luoyang, Tsung-sheng Temple becomes Zongsheng Temple, and Ching-hsing Nunnery becomes Jingxing Nunnery.
 
-This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the book <em>Parading the Buddha</em> by Venerable Juewei (2013) ISBN: 978-1-932293-83-8. Also see
+This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.
 
-[Literature: Buddha’s Birthday Celebrations Accounts] (http://www.paradeofthebuddhas.org/?page_id=197 "Literature: Buddha’s Birthday Celebrations Accounts")
+1. Juewei. “Literature: Buddha’s Birthday Celebration Accounts.” Buddha’s Birthday Education Project. Accessed March 2, 2014. <a href="http://www.paradeofthebuddhas.org">http://www.paradeofthebuddhas.org</a>.
 
-This page was last edited on February 19, 2014.
+2. Juewei. Parading the Buddha: Localizing Buddha’s Birthday Celebrations. First Edition. Los Angeles: Buddha’s Light Publishing, 2013.
+
+3. Wong, Poh Yee. “Acculturation as Seen through Buddha’s Birthday Parades in Northern Wei Luoyang: A Micro Perspective on the Making of Buddhism as a World Religion.” University of the West, 2012.
+
+4. Yang, Xuanzhi. A Record of Buddhist Monasteries in Lo-Yang. Englsih translation by  Yi-t’ung Wang. Princeton, New Jersey: Princeton University Press, 1984.
+
+Last modified: 2014-03-02
