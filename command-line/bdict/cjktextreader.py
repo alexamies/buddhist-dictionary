@@ -41,10 +41,13 @@ class CJKTextReader:
         Raises:
           BDictException: If the input file does not exist
         """
-        strings = []
+        lines = []
         if 'type' in corpus_entry and corpus_entry['type'] == 'web':
             doc_url = corpus_entry['plain_text']
+            # print('Reading from URL %s ' % doc_url)
             strings = htmldoc.readWebToPlainStrings(doc_url)
+            line = ''.join(strings)
+            lines.append(line)
         else:
             directory = self.config['corpus_directory']
             infile = corpus_entry['plain_text']
@@ -54,7 +57,7 @@ class CJKTextReader:
             with codecs.open(fullpath, 'r', "utf-8") as f:
                 # print('Reading input file %s ' % fullpath)
                 for line in f:
-                    strings.append(line)
+                    lines.append(line)
 
         found_start = False
         start_marker = None
@@ -62,13 +65,15 @@ class CJKTextReader:
             start_marker = corpus_entry['start']
         else:
             found_start = True
+        print('Start marker: %s ' % start_marker)
         end_marker = None
         if 'end' in corpus_entry:
             end_marker = corpus_entry['end']
+        print('End marker: %s ' % end_marker)
         text = ''
         found_end = False
 
-        for input_str in strings:
+        for input_str in lines:
             if not found_start:
                 # Look for start marker
                 pos = input_str.find(start_marker)
@@ -81,10 +86,12 @@ class CJKTextReader:
             if found_end:
                 break;
             if end_marker:
+                # print('CJKTextReader.ReadText scanning string %s' % input_str)
                 end_pos = input_str.find(end_marker)
                 if end_pos > -1:
                     input_str = input_str[0:end_pos]
                     found_end = True
+                    # print('CJKTextReader.ReadText end_marker: %s found' % end_marker)
             cjk = ''
             for c in input_str:
                 if chinesephrase.isCJKLetter(c) or chinesephrase.isCJKPunctuation(c):
