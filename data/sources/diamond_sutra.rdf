@@ -578,7 +578,7 @@
         </bib:authors>
         <dc:title>Prajñāpāramitā Diamond Sūtra《金剛般若波羅蜜經》</dc:title>
         <dc:date>400</dc:date>
-        <z:shortTitle>T.8, Number 235</z:shortTitle>
+        <z:shortTitle>T8, No. 235</z:shortTitle>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.cbeta.org/result/normal/T08/0235_001.htm</rdf:value>
@@ -1138,4 +1138,45 @@
         <z:language>Chinese</z:language>
         <dc:description>Taisho Tripitaka, Vol. 33, No. 1702</dc:description>
     </bib:Document>
+    <bib:Book rdf:about="urn:isbn:0415356156">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London ; New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Avari</foaf:surname>
+                        <foaf:givenname>Burjor</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>1000-1526</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>History</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>India</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>India: the ancient past: a history of the Indian sub-continent from c. 7000 BC to AD 1200</dc:title>
+        <dc:date>2007</dc:date>
+        <z:numPages>284</z:numPages>
+        <dc:identifier>ISBN 0415356156</dc:identifier>
+        <z:shortTitle>India</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>DS451 .A87 2007</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
 </rdf:RDF>
