@@ -7,6 +7,38 @@
  xmlns:bib="http://purl.org/net/biblio#"
  xmlns:dcterms="http://purl.org/dc/terms/"
  xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
+    <bib:Book rdf:about="urn:isbn:978-0415223904">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>London and New York</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Routledge</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mittal, Sushil</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Thursby, Gene</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Religions of South Asia: An Introduction</dc:title>
+        <dcterms:abstract>This textbook introduces the contemporary religions of South Asia, from the indigenous religions such as the Hindu, Jain, Buddhist and Sikh traditions, to incoming influences such as Christianity, Judaism and Islam.</dcterms:abstract>
+        <dc:date>2006</dc:date>
+        <z:language>Chinese</z:language>
+        <dc:identifier>ISBN 978-0415223904</dc:identifier>
+    </bib:Book>
     <bib:Book rdf:about="urn:isbn:9780691157863">
         <z:itemType>book</z:itemType>
         <dc:publisher>
