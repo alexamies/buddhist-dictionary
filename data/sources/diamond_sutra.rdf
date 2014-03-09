@@ -1179,4 +1179,63 @@
            <dcterms:LCC><rdf:value>DS451 .A87 2007</rdf:value></dcterms:LCC>
         </dc:subject>
     </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0877040486">
+        <z:itemType>book</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+               <dc:title>Wheel series</dc:title><dc:identifier>1</dc:identifier>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bolinas</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Four Seasons Foundation; distributed by Book People, Berkeley</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conze</foaf:surname>
+                        <foaf:givenname>Edward</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <dc:title>The perfection of wisdom in eight thousand lines &amp; its verse summary</dc:title>
+        <dc:date>1973</dc:date>
+        <z:numPages>325</z:numPages>
+        <dc:identifier>ISBN 0877040486</dc:identifier>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ1912.E5 C66 1973</rdf:value></dcterms:LCC>
+        </dc:subject>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:0044402597%20%209780044402596%20%200042940907%20%209780042940908">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Unwin Paperbacks</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conze</foaf:surname>
+                        <foaf:givenname>Edward</foaf:givenname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Buddhist wisdom books</dc:title>
+        <dc:date>1988</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>ISBN 0044402597  9780044402596  0042940907  9780042940908</dc:identifier>
+        <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
 </rdf:RDF>

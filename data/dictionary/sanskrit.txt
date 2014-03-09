@@ -369,7 +369,7 @@
 369	28435	ayatana	āyatana	आयतन	āyatana	十二處	ayatana / sense bases / sense-media	\N	noun	\N
 370	8840	evam	evaṃ	एवं	\N	如是	thus / so	\N	pronoun	\N
 371	321	maya	mayā	मया	\N	我	I / me	\N	pronoun	\N
-372	3925	srutam	śrutam	श्रुतम्	\N	聞	to hear	\N	verb	\N
+372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to / heard	\N	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
 374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be / to exist	\N	verb	\N
 375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb	\N
@@ -1211,3 +1211,4 @@
 1211	34968	srutamayiprajna	śrutamayīprajñā	श्रुतमयीप्रज्ञा	\N	聞慧	wisdom from listening	\N	noun	\N
 1212	34969	srotravijnana	śrotravijñāna	श्रोत्रविज्ञान	\N	耳識	auditory consciousness	\N	noun	\N
 1213	33029	gautami	gautamī	गौतमी	gotamī	憍曇彌、瞿曇彌	Gautamī / Mahāprajāpatī Gautamī / Mahāpajāpatī Gotamī	The Buddha's aunt and foster mother	proper_noun	\N
+1214	3925	sruta	śruta	श्रुत	\N	聞	listened to / orally transmitted	\N	adjective	śruta
