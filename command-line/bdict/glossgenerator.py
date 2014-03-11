@@ -123,6 +123,18 @@ class GlossGenerator:
             if self._CheckGlossDirectory():
                 gloss_directory = self._CheckGlossDirectory()
                 outfile = '%s/%s' % (gloss_directory, outfile)
+        else:
+            # Give information about possible problem in corpus entry
+            print('gloss_file is not in corpus_entry')
+            print('infile: %s' % infile)
+            if 'source_name' in corpus_entry:
+              print('source_name: %s' % corpus_entry['source_name'])
+            else:
+              print('source_name: none')
+            if 'reference' in corpus_entry:
+              print('reference: %s' % corpus_entry['reference'])
+            else:
+              print('reference: none')
         markup = self.GenerateDoc(corpus_entry)
         with codecs.open(outfile, 'w', "utf-8") as outf:
             outf.write(markup)

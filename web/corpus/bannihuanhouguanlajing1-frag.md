@@ -25,7 +25,7 @@ End marker: 諸弟子聞經歡喜
 English translation: none
 
 ### Summary
-???
+Ananda kneeled, joined his palms, and said to the Buddha that the Devas in Heaven desire to hear the Buddha talk. After the Buddha has attained Nirvāṇa, the four kinds of disciples, monks, nuns, male lay people, and female lay people, on the eighth day of the Fourth Month and the fifteenth day of the Seventh Month, how should they bathe a Buddha statue? The Buddha told Ananda, someone who bathes a Buddha statue with water is making a vow to liberate people. They give up money and precious things, hoping to attain merit from saving other people. They can give by lighting lamps and burning incense at a temple or transcribing sūtras for a teacher as an offering. They should bow to the Buddha statue. At that time devas, dragons, and spirits will be aware of this. This person will not regress. A person who bows to a Buddha statue on the fifteenth day of the Seventh month may liberate deceased family members who have been reborn in a hell realm.
 
 ### Notes:
 This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.
