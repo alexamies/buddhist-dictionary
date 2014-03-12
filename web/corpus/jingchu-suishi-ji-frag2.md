@@ -1,12 +1,12 @@
-## Festivals and Seasonal Customs of the Jing-Chu Region - Fragment 1《荊楚歲時記》部分1
+## Festivals and Seasonal Customs of the Jing-Chu Region - Fragment 2《荊楚歲時記》部分2
 
-Description: A fragment of the text describing the 8th day of the 2nd month.
+Description: A fragment of the text describing the 8th day of the 4th month.
 
 Period:  Liang 502-557
 
-HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/jingchu-suishi-ji-frag-gloss.html&html=true "HTML file")
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/jingchu-suishi-ji-frag2-gloss.html&html=true "HTML file")
 
-Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/jingchu-suishi-ji-frag-analysis.md "Vocabulary analysis")
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/jingchu-suishi-ji-frag2-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 
@@ -14,10 +14,10 @@ Source: [Wiki Source] (http://zh.wikisource.org/zh-hant/%E8%8D%8A%E6%A5%9A%E6%AD
 
 Compiled by: Zong Lin 宗懍
 
-Document: [Text file] (corpus_entry.php?uri=jingchu-suishi-ji-frag.txt "Text file")
+Document: [Text file] (corpus_entry.php?uri=jingchu-suishi-ji-frag2.txt "Text file")
 
 ### Summary
-This link above includes the English translation for the passage in this scroll. Chapman, “Carnival Canons,” 298-301.
+This link above includes the English translation for the passage in this scroll. Chapman, “Carnival Canons,” 297.
 
 ### Notes: 
 This passage is included in a collection of texts about accounts of Buddha’s birthday parades compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.

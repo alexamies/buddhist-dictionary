@@ -203,7 +203,7 @@ class GlossGenerator:
         """
         if self.output_type == POS_TAGGED_TYPE:
             return ''
-        return '<p>Page last updated on %s.</p>\n' % date.isoformat(date.today())
+        return '<br/><br/><p>Page last updated on %s.</p>\n' % date.isoformat(date.today())
 
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
