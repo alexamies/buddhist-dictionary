@@ -464,7 +464,7 @@
 464	28672	pancatantra	pañcatantra	पञ्चतन्त्र	\N	五捲書	Panchatantra	A collection of ancient Indian animal fables	proper_noun	\N
 465	21176	mukti	mukti	मुक्ति	\N	解脫	to liberate / to release	\N	verb	\N
 466	28673	ksatriyah	kṣatriyaḥ	क्षत्रियः	\N	刹帝利	Kshatriya / Kashtriya	The military and ruling elite of the Hindu social system	proper_noun	\N
-467	28675	vayu	vāyu	वायु	vāyo	伐由	air	\N	noun	\N
+467	28675	vayu	vāyu	वायु	vāyo	伐由	air / wind	\N	noun	\N
 468	28675	vayu	vāyu	वायु	vāyo	伐由	Vayu	Literally, air; Hindu lord of the winds	proper_noun	\N
 469	13044	prana	prāṇa	प्रान	\N	氣、氣息、入息	breath / respiration	\N	noun	\N
 470	28677	hanuman	hanumān	हनुमान्	\N	哈奴曼	Hanuman	Indian diety and central character in the Ramayan	proper_noun	\N
@@ -1147,7 +1147,7 @@
 1147	3811	khalu	khalu	खलु	\N	爾	now then / indeed / certainly	\N	indecl	khalu
 1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
 1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana / the practice of giving	Word ending modified for the accusive case	noun	\N
-1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. The suffix ṃ is added for the accusative case.	noun	\N
+1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. (Conze 1958, p36) The suffix ṃ is added for the accusative case.	noun	\N
 1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	\N
 1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
 1153	21078	sattva	sattvā	सत्त्वा	\N	有情	a being / a creature	\N	noun	\N
@@ -1212,3 +1212,4 @@
 1212	34969	srotravijnana	śrotravijñāna	श्रोत्रविज्ञान	\N	耳識	auditory consciousness	\N	noun	\N
 1213	33029	gautami	gautamī	गौतमी	gotamī	憍曇彌、瞿曇彌	Gautamī / Mahāprajāpatī Gautamī / Mahāpajāpatī Gotamī	The Buddha's aunt and foster mother	proper_noun	\N
 1214	3925	sruta	śruta	श्रुत	\N	聞	listened to / orally transmitted	\N	adjective	śruta
+1215	32457	nispadayati	niṣpādayati	निष्पादयति	\N	莊嚴	to accomplish / to perfect / to achieve / to ripen	Used in the Diamond Sutra as <em>to adorn</em> [Buddha-lands] / <em>to create a harmonious</em> [Buddhafield] (Conze 1958, p44)	verb	\N

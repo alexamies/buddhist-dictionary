@@ -362,7 +362,8 @@
             </rdf:Seq>
         </bib:authors>
         <dc:title>Buddhist wisdom books</dc:title>
-        <dc:date>1988</dc:date>
+        <dcterms:abstract>Translations of the Heart and Diamond sutras</dcterms:abstract>
+        <dc:date>1958</dc:date>
         <z:language>English</z:language>
         <dc:identifier>ISBN 0044402597  9780044402596  0042940907  9780042940908</dc:identifier>
         <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
