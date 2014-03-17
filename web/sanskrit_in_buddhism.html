@@ -1,0 +1,2984 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
+    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+   </head>
+  <body>
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+      </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="corpus.html">Texts</a></li>
+            <li><a href="tools.html">Tools</a></li>
+            <li class="active"><a href="dict_resources.html">Resources</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+    <h2>Understanding Buddhist Sanskrit Terms</h2>
+    <h2 class='article'>Contents</h2>
+    <ul>
+      <li><a href='#introduction'>Introduction</a></li>
+      <li><a href='#background'>Background</a>
+        <ul>
+        <li><a href='#tools'>Tools</a></li>
+          <li><a href='#background'>Historic background</a></li>
+          <li><a href='#translations'>Translations of Buddhist classics to Chinese</a></li>
+          <li><a href='#written'>Written Sanskrit</a></li>
+        </ul>
+      </li>
+      <li><a href='#alphabet'>The Sanksrit alphabet and pronunciation</a></li>
+      <li><a href='#sandhi'>Sandhi</a></li>
+      <li><a href='#numbers'>Numbers in Sanksrit</a></li>
+      <li>
+        <a href='#grammar'>Sanskrit grammar</a>
+        <ul>
+          <li><a href='#nouns'>Nouns</a></li>
+          <li><a href='#verbs'>Verbs</a>
+            <ul>
+              <li><a href='#past_participle'>Past Participle</a></li>
+            </ul>
+          </li>
+          <li><a href='#function'>Function Words</a></li>
+          <li><a href='#compound'>Compound words</a></li>
+          <li><a href='#sentences'>Sentences</a></li>
+        </ul>
+      </li>
+      <li><a href='#sutras'>Reading Sanskrit sutras and mantras</a></li>
+      <li><a href='#phonetics'>Basics of phonetics</a></li>
+      <li><a href='#electronic'>Working with Sanskrit in electronic form</a></li>
+      <li><a href='#ipa'>Displaying and Working with International Phonetic Alphabet Symbols</a></li>
+      <li><a href='#references'>References</a></li>
+      <li><a href='sanskrit_appendix1.html'>Appendix 1: Combining Letters in Devanagari</a></li>
+     </ul>
+    <h2><a name='introduction'></a>Introduction</h2>
+    <p>
+      This document is intended to give the reader some understanding of Sanskrit terms and text, primarily relating to Buddhism.
+      It is incomplete and just a collection of notes at the moment.
+    </p>
+    <p>
+      You may wonder why Sanskrit and not Pali, since it is the language for the Theravada Canon.
+      Sanskrit was the main language for religious, literary, and academic use throughout Indian history and it is significant 
+      that the Mahayana texts were primarily written in Sanskrit.
+    </p>
+    <p>
+      I hope that readers can overcome several questions obstacles that Buddhists will encounter seeing Sanksrit terms in 
+      studying Buddhism:
+      <ul>
+        <li>
+          What are the strange looking diacritics found on Romanizations of Sanksrit terms?
+          I will describe the Sanskrit alphabet, use of the diacritics in the International Alphabet for Sanskrit Transliteration
+          (IAST), and introduce some tools to decipher them.
+          How can I search for Sanskrit words if I don't know the diacritics?
+          This is a more difficult question because Internet and dictionary search tools may not work but having some knowledge
+          of IAST can help.
+        </li>
+        <li>
+          What are the Indic scripts used to write Sanskrit and how can I read them?
+          I will describe the Devanagari writing system for Sanskrit and introduce analysis and transliteration tools.
+        </li>
+        <li>
+          Why are some Sanskrit words so long?
+          Long compound words are a characteristic of Sanskrit words and there number of combinations is not fixed.
+          Tools are important to break them apart for deciphering them meaning.
+        </li>
+        <li>
+          Why are there some many different forms for the same word?
+          Sanskrit is more phonetic than English and subtle changes are spelled out with rules called Sandhi.
+          These are listed below in tabular form.
+          In addition, there are many more forms of inflection of words and Sanskrit grammar is more complex than English.
+          I will give a brief outline of Sanskrit grammar and provide pointers to tools.
+        </li>
+      </ul>
+    </p>
+    <h2><a name='background'></a>Background</h2>
+    <h3><a name='tools'></a>Tools</h3>
+    <p>
+      One of the challenges in learning Sanskrit is recognizing the letters, which can be especially difficult with the many
+      diacritics that are used with Devanagari.
+      Many people are also not familiar with International Alphabet for Sanskrit Transliteration (IAST) and International
+      Phonetic Alphabet (IPA) symbols.  
+      If you find any characters, including Devanagari, IAST, or IPA, that you do not recognize then you can use the 
+      <a href='character_search.php'>Character Lookup Tool</a> in multiple character mode to list the individual letters.
+      Select the <em>Multiple characters</em> radio button, enter the Devagari text into the text field, 
+      and click the <em>Search</em> button to list the individual letters.  
+      In addition, you can mouse over many of the Devanagari, IPA, and Chinese text in the document to find out what they are.
+      Mousing over will give basic information and clicking will give more details.
+    </p>
+    <p>
+      The <a href='sanskrit_query.php'>Sanksrit - Chinese - English Dictionary</a> gives a three way 
+      translation for a limited set of Sanksrit words.
+    </p>
+    <p>
+      We will see below in the <a href='#grammar'>Sanskrit grammar</a> that Sanskrit words are subject to changes based
+      on their grammtical function.  These rules can be more complex than English.
+      For example, the letters <em>ḥ</em> or <em>ṃ</em> are added to Sanskrit nouns depending on whether they are used
+      as subject (nominative case) or object (accusative case).  These changes in word morphology may not be listed
+      in dictionaries, which usually on list the reference form.
+      The section <a href='#grammar'>Sanskrit grammar</a> will give some to help using online dictionaries.
+    </p>
+    <p>
+      I have found one of the most useful IAST-Devanagari-IAST Converter.  See the 
+      <a href='#references'>References</a> section for a pointer to this and other tools.
+    </p>
+    <h3><a name='historic_background'></a>Historic background</h3>
+    <p>
+      It is informative to give some background on Sanskrit to save the reader from doing his or her own independent study
+      to be able to understand the content of the document.
+      Since English is more closely related to Sanskrit than it is to Chinese and English words for Buddhist concepts, it is 
+      important to make direct use of Sanskrit terms, which can be much more meaningful to English readers than Chinese.
+    <p>
+      Sanskrit is one of the oldest Indo-European languages.
+      It belongs to the Indo-Iranian branch of languages of the Indo-European family.
+      A precursor language to Sanskrit was brought to India by the Aryans sometime after the decline of the 
+      Indus Valley Civilization (3300–1300 BCE).
+      The English word Sanskrit (Chinese: 梵語) is derived from the word संस्कृतम्  Saṃskṛtam, literally meaning 'refined speech.'
+      The English word 'Aryan' (Chinese: 雅利安人) is derived from the Sanskrit आर्य ārya, meaning 'noble.'
+      The table below comparing names for several numbers in different languages shows the relationship of some
+      core words shared by Indo-European languages.
+    </p>
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>
+          Table 1: Comparison of names for several numbers in different languages (after Baker and Hengeveld, 2012)
+        </caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Language</th>
+            <th class='grammar'>Three</th>
+            <th class='grammar'>Four</th>
+            <th class='grammar'>Five</th>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>German</td>
+            <td class='grammar'>drei</td>
+            <td class='grammar'>vier</td>
+            <td class='grammar'>funf</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Dutch</td>
+            <td class='grammar'>Drie</td>
+            <td class='grammar'>vier</td>
+            <td class='grammar'>vijf</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Gothic</td>
+            <td class='grammar'>threis</td>
+            <td class='grammar'>fidwor</td>
+            <td class='grammar'>fimf</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>French</td>
+            <td class='grammar'>trois</td>
+            <td class='grammar'>quatre</td>
+            <td class='grammar'>cinq</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Spanish</td>
+            <td class='grammar'>tres</td>
+            <td class='grammar'>cuatro</td>
+            <td class='grammar'>cinco</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Latin</td>
+            <td class='grammar'>tres</td>
+            <td class='grammar'>quattuor</td>
+            <td class='grammar'>quinque</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Greek</td>
+            <td class='grammar'>treis</td>
+            <td class='grammar'>tetra</td>
+            <td class='grammar'>penta</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Sanskrit</td>
+            <td class='grammar'>tri / trayas</td>
+            <td class='grammar'>catur</td>
+            <td class='grammar'>pañca</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Chinese</td>
+            <td class='grammar'>san</td>
+            <td class='grammar'>si</td>
+            <td class='grammar'>wu</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      There are many changes that languages undergo over time but there is a fundamental genetic relation between English
+      and Sanskrit that is apparent from core words in the languages, as the table above shows.
+      Systematic phonetic transformations and splitting of language groups are studied by linguists to explain the 
+      evolution of languages and give interesting insights cultures and the exchange of ideas between cultures.
+      Sanksrit is from an early branch that split off from a Proto-Indo-Europan language and English is based on 
+      a proto-Germanic language also derived from this Proto-Indo-Europan language (Baker and Hengeveld, 2012, chaper 17).
+      Ancient Greek is a comparatively close relative of Sanskrit.
+      This can be seen by comparing the words for five: penta (Greek) and pañca (Sanskrit).
+      Other examples are mother - mātár (Vedic Sanksrit), mḗtēr (Greek); 
+      and brother - bhrā́tar (Vedic Sanksrit), phrā́tēr (Greek).
+      The lineage of English is Proto-Indo-Europan, Germanic, West Germanic, Old English, Middle English, and
+      finally Modern English [Shay 2008].
+    </p>
+    <p>
+      Chinese is a member of a completely different language family, Sino-Tibetan.  
+      It can be seen from the table above that the Chinese words for three, four, and five are not related to the other entries
+      in the table.
+    </p>
+    <p>
+      Some changes in over time can be explained by consonant shift and can help us predict some similarities
+      between Sanskrit and English.
+      Grimm's law describes a shift in consonants from Proto-Indo-European to Germanic, also known as Old German.
+      The table below lists these [Shay 2008].
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>
+          Table 2: Consonant shift from Proto-Indo-European to Germanic
+        </caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Proto-Indo-European</th>
+            <th class='grammar'>Germanic</th>
+            <th class='grammar'>Sanskrit example</th>
+            <th class='grammar'>English example</th>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>b<sup>h</sup></td>
+            <td class='grammar'>b</td>
+            <td class='grammar'><b>bh</b>ratar</td>
+            <td class='grammar'><b>b</b>rother</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>d<sup>h</sup></td>
+            <td class='grammar'>d</td>
+            <td class='grammar'><b>dh</b>rajati</td>
+            <td class='grammar'><b>d</b>rag</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>g<sup>h</sup>/g<sup>wh</sup></td>
+            <td class='grammar'>g/gw</td>
+            <td class='grammar'></td>
+            <td class='grammar'></td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>b</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'></td>
+            <td class='grammar'></td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>d</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'></td>
+            <td class='grammar'></td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>g/g<sup>w</sup></td>
+            <td class='grammar'>k/k<sup>w</sup></td>
+            <td class='grammar'></td>
+            <td class='grammar'></td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>p</td>
+            <td class='grammar'>f</td>
+            <td class='grammar'><b>p</b>ad</td>
+            <td class='grammar'><b>f</b>oot</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>t</td>
+            <td class='grammar'>th</td>
+            <td class='grammar'></td>
+            <td class='grammar'></td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      Sanskrit can be divided into three periods: Old or Vedic, Middle or Classical, and Modern.
+      Old Sanskrit dates back to about 1500 BCE.
+      The earliest Sanskrit text is the Rigveda (Devanagari: ऋग्वेद ; IAST: ṛgveda ; Chinese: 梨俱吠陀), 
+      which contains a collection of hymns, dates to this time.
+      The Vedas were transmitted orally and only written down in text much later.
+      Classical Sanskrit diverges from Vedic Sanskrit when it diverged from spoken language evolving into a language for
+      religious and scholarly purposes.
+      Classical Sanskrit is defined by a text written by Panini (Devanagari: पाणिनि  ; IAST: pāṇini ; Chinese: 波你尼) 
+      describing the grammar of the language in the 4th century BCE.
+      Panini's text is called Ashtadhyayi (Devanagari: अष्टाध्यायी ; IAST: Aṣṭādhyāyī ; Chinese: 八篇書), literally meaning 'eight chapters.'
+      In this respect, there are some parallels between Sanskrit and literary Chinese, in that literary Chinese 
+      continued use in literature long after it diverged from spoken Chinese and is still common today.
+      Spoken Indian languages are often called Prakrit.
+    </p>
+    <p>
+      Buddhist sutras were originally recited in one or more Prakrit languages and then later written in Sanskrit and Pali.
+      Pāḷi (Chinese: 巴利文) is a Prakrit language from the Middle Indo-Aryan language family and is the language
+      that the Theravada Buddhist Canon is preserved in.
+      It was only several hundred years after the time of the Buddha that the sutras and other Buddhist literature 
+      was written in Sanskrit.
+      Asvaghosa (Devanagari: अश्वघोषः ; IAST: Aśvaghoṣa ; Chinese: 馬鳴) was one of the first Buddhist writers to use Sanskrit.
+      He was very influential in Buddhism, especially in Mahayana Buddhism, and also in classical Sanskrit literature in general.
+      The early origins of Mahayana Buddhist text and how they came to be written down in Sanskrit is still largely
+      a mystery [Williams 2009] but they gave rise to a voluminous collection of Mahayana literature.
+      The Korean Tripitaka is composed of over 50 million characters.
+      By comparison, the total number of suriving texts written in Old English is only 400 manuscripts [Shay 2008], all written
+      near the end of the First Millenium.
+    </p>
+    <p>
+      Modern Indo-Aryan languages include Hindi, Urdu, Bengali, Nepali, and Kashmiri.
+      They are closely related to Sanskrit.
+    </p>
+    <p>
+      The Buddha was born as Siddhartha Gautama and lived circa 566 to 486 BCE.
+      These dates estimated in relation to the Mayuran king
+      Ashoka (Devanagari: अशोकः, IAST: aśoka, Chinese: 阿育王).
+      The life of the Buddha is described in several sources, including the Mahāvastu, Lalitavistara, 
+      and Buddhacarita.
+    </p>
+    <h3><a name='translations'></a>Translations of Buddhist classics to Chinese</h3>
+    <p>
+      There was cultural exchange between India and China in both directions: Chinese Buddhists travelled to India and
+      Indian monks travelled to China.
+      In addtion, the Silk Road and many kingdoms along it were important in the transmission of Buddhism to China.
+      Translators of the classic texts came from each of these areas and these translators are still used in modern times in Chinese
+      Buddhism.
+      Most texts begin with a statement about the identity of the translator.
+      The first sutra to be translated to Chinese was the <em>Sutra of Forty-Two Sections</em> (Chinese: 佛說四十二章經) 
+      by the Monks Kasyapamatanga and Dharmaratna, who arrived in Luoyang, the capital of the Eastern Han in 63 CE.
+      Some of the most prolific translators of Buddhist texts include Kumarajiva (Chinese: 鳩摩羅什) from India and 
+      Xuanzang (Chinese: 玄奘) from the Luoyang area in China. 
+      Some were from areas along the Silk Road, including An Shi Gao (Chinese: 安世高) from Parthia; Lokaksema (Chinese: 支婁迦讖), 
+      Zhi Yao (Chinese: 支曜), Zhi Qian (Chinese: 支谦), and Jnanagupta (Chinese: 阇那崛多) from Gandhara; 
+     Kang Seng Hiu (Chinese: 康僧会) from Sogdia, and Dharmaraksa (Chinese: 竺法護) from Dunhuang.
+      Yi Jing (Chinese: 義淨) from China, rather than travelling over the Silk Road, travelled to India by sea stopping 
+      in Srivijaya in present-day Indonesia, which
+      was a major Buddhist center at the time, translating texts to Chinese.
+    </p>
+    <p>
+      Many ethnic groups along the Silk Road, such as the Yuezhi (Chinese: 月氏), located in areas in present-day 
+     Afganistan and Xinjiang, China,  and Sogdian (Chinese: 粟特). located in areas in present-day Iran, 
+     and the Xianbei (Chinese: 鮮卑) located in present-day Mongolia and the Chinese central plains, 
+      besides producing translators, were important for the
+      transmission of Budhism to China by means of their strong beliefs.
+      These peoples used other languages in addition to Sanskrit.  
+      The wide geographic range of people and places involved in translating Buddhist texts indicates the extensive influence of 
+      Buddhism, Sanskrit, and Indian culture throughout Asia in the first millenium.
+      Bodhidharma (Chinese: 菩提达摩), who travelled to China from India in the 6th century, is known as the patriarch
+      of the Chan (also known as Zen) school in China, which is one of the largest schools of Buddhism today.
+      We know of this cultural exchange between China, India, and other neighboring areas through the classic texts
+      Fa Xian's <em>A Record of Buddhist Kingdoms</em> (4th century), 
+      <em>The Record of the Buddhist Monasteries of Luoyang</em> (6th century), 
+      Xuan Zang's <em>Record of the Western Regions</em> (7th century), others.
+      The picture below shows a statue of Xuanzang returning to China from India with the scriptures from the city of Luoyang.
+    </p>
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=xuanzang400.jpg'><img class='use' src='images/xuanzang400.jpg' alt='Venerable Xuanzang / Tripitaka' 
+        title='Venerable Xuanzang / Tripitaka'/></a><br/>
+        Statue of Xuanzang, Luoyang, China
+      </div>
+    </p>
+    <p>
+      The earliest Buddhist scriptures that were brought to China were written Sanskrit in the first century (Shen 2009).
+      In the early stages of translation some scriptures were translated based on oral recitation by travelling monks.
+      In addition, some scriptures were translated to Chinese from Prakrit languages or the languages of ethnic groups along the 
+      Silk Road.
+      Given the circumstances and the difficulty of translating Sanskrit into Chinese the different Chinese translations are 
+      incredibly similar.
+    </p>
+    <p>
+      Sanskrit had a strong influence on the Chinese language after its introduction to China with Buddhist scriptures.
+      It led to the use of <i>fanqie</i> ryhming style to indicate the pronunciation of Chinese characters.
+      It influenced Chinese literary style, leading more use of metaphors, and a style more closely resembling everyday
+      speech.
+      The scriptures and related Buddhist stories also gave rise to Chinese folk literature, such as <i>Xiang Mo Bian Wen</i>.
+      It is estimated that approximately 30,000 Sanskrit words were introduced into Chinese, all connected with Buddhism
+      (Shen 2009).
+      Many of the manuscripts providing us with this knowledge come from Dunhuang, an oasis town in the dessert and
+      ancient cross-roads between East and West.
+      The Library Cave at Mogao Caves (Chinese: 莫高窟) is a major archeological discovery of historic texts written in Chinese,
+      Sanskrit, and other languages.  Most of the texts relate to Buddhism.
+    </p>      
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=mogaoshiku400.jpg'><img class='use' src='images/mogaoshiku400.jpg' 
+        alt='Mogao Caves, Dunhuang' 
+        title='Mogao Caves, Dunhuang'/></a><br/>
+        Mogao Caves, Dunhuang, China
+      </div>
+    </p>
+    <h3 class='article'><a name='written'></a>Written Sanskrit</h3>
+    <p>
+      Sanskrit has been written using different scripts at different times and places in history.
+      Early text in India was written in Brahmi script (Devanagari: ब्राह्मीलिपः  ; IAST: Brāhmīlipiḥ ; Chinese: 婆羅米文).
+      The earliest writing in Brahmi is in inscriptions from King Ashoka, who unified India circa 269 BCE.
+      The picture below shows an Ashokan inscription from Lumbini, recording that it is the place of birth of the Buddha, that
+      King Ashoka visited, and that the area is entitled to a reduction in tax.
+    </p>
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=ashoka_pillar_inscription_400.jpg'><img class='use' src='images/ashoka_pillar_inscription_400.jpg' alt='Brahmi script' 
+        title='Brahmi script'/></a><br/>
+        Brahmi Inscription on the Ashoka Pillar at Lumbini, Nepal (circa 304–232 BCE)
+      </div>
+    </p>
+    <p>
+      Brahmi script probably originated from Aramaic script.
+      Most inscriptions in Brahmi script are for Prakrit, rather than Sanskrit.
+      The Ashokan inscriptions were mostly written in Magadhi Prakrit in the eastern part of India and
+      Kharoshthi script in the western part.
+      Magadhi Prakrit is the language believed to be spoken by the Buddha.
+      Kharosthi was another script used to write the Gandhari language, a kind of Prakrit, and Sanskrit.
+      Kharosthi was derived from used in Aramaic in Gandhara at about the same time as Brahmi script.
+      The Gandharan Buddhist Texts were written in Kharosthi have been discovered in Afghanistan.
+      They date to the 1st century CE and are the oldest written Buddhist scripts known at present.
+    </p>
+    <p>
+      Buddhist texts were also written in Brahmi.  An example from a fragment of a Sanskrit manuscript from Dunhuang
+      is shown below.
+    </p>
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=brahmi_sanksrit400.jpg'><img class='use' src='images/brahmi_sanksrit400.jpg' 
+        alt='Fragment of a Sanskrit Manuscript written in Brahmi script' 
+        title='Fragment of a Sanskrit Manuscript written in Brahmi script'/></a><br/>
+        Fragment of a Sanskrit Manuscript written in Brahmi script, Dunhuang, Yuan (1271–1368 BCE)
+      </div>
+    </p>
+    <p>
+      Some Buddhist text were written in Sanskrit with Gupta script (Chinese: 笈多文).  Gupta script evolved from Brahmi.
+      A version of the Medicine Buddha Sutra written in Gupta Script was discovered in Gilgit, Pakistan.
+      The picture below shows Sanskrit text from a dharani unearthed in Chengdu, China.
+    </p>
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=sanskrit400.jpg'><img class='use' src='images/sanskrit400.jpg' alt='Sanskrit' 
+        title='Sanskrit'/></a><br/>
+        Sanskrit text, Tang (618&mdash;907), National Museum of China, Beijing
+      </div>
+    </p>
+    <p>
+      Gupta Script gave rise to a number of other scripts, including Siddham (Devanagari: सिद्धं; IAST: siddhaṃ, 
+      Chinese: 悉曇文字), used circa 600 to 1200.
+      Siddham then gave rise to Devanagari.
+      Devanagari (Devanagari: देवनागरी ; IAST: devanāgarī ; Chinese: 天城文) has emerged in the last several hundred years as the standard way of writing Sanskrit.
+      Ranjana script (Chinese: 蘭札文), which is similar to Devanagari, was used to write some sutras in historic times.
+      Ranjana script was the official script in Nepal and was transmitted to China via Tibet.
+      The text of the Dvadasanga Ppratityasamutpada Dhrani writtin in Ranjana script from Dunhuang is shown below.
+    </p>
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=ranjana_script400.jpg'><img class='use' src='images/ranjana_script400.jpg' 
+        alt='Ranjana script' 
+        title='Ranjana script'/></a><br/>
+        Ranjana script, Yuan (1271&mdash;1368), Dunhuang Institute, Dunhuang
+      </div>
+    </p>
+    <p>
+      Newar (Prachalit) is another script for writing Sanskrit that has been used for writing Buddhist
+      sūtras in Newari Buddhist tradition in Nepal. (see ScriptSource entry on Newar). Some of the 
+      manuscripts, such as Advayaparamārthā nāmasaṅgītiḥ, in the University of the West Digital Sanskrit Buddhist
+      Canon were written in Newar. (UWest DSBC manuscript entry on Advayaparamārthā nāmasaṅgītiḥ)
+    </p>
+    <p>
+      Devanagari is now the standard script used to Hindi and Nepali.
+      The picture below shows an inscription for the place of birth of the Buddha at Lumbini, Nepal.
+    </p>
+    <p>
+      <div class='picture'>
+        <a href='illustrations_use.php?mediumResolution=devanagari_nepali400.jpg'><img class='use' 
+        src='images/devanagari_nepali400.jpg' alt='Devanagari' title='Devanagari'/></a><br/>
+        Nepali text written in Devanagari (Modern)
+      </div>
+    </p>
+    <p>
+      This document will use Devanagari.  The <a href='#alphabet'>Sanksrit Alphabet</a> section below will introduce it.
+      There are several schemes for transliterating Sanskrit into a representation that English speakers can read.
+      The standard for academic publications is the International Alphabet of Sanskrit Transliteration (IAST).
+      That is the system that I have used in this article.  It uses many diacritics that are easy to read but difficult to type
+      with a standard US keyboard.  For example, Saṃskṛtam for Sanskrit and Aṣṭādhyāyī for Panini's text on Sanskrit grammar.
+      To turn this into Latin just remove the diacritics.
+      This may be the best course to follow for articles targeted for general readers because it will be a considerable detour
+      for readers to learn IAST.
+      However, be aware that you cannot reconstruct Devanagari if you remove the diacritics from IAST.
+      Harvard-Kyoto and ITRANS are transliteration schemes that use only ASCII.  They are easy to input
+      but difficult to read because of their use of capitals in the middle of words and extra letters to take the place
+      of diacritics.
+      My suggestion for casual typing of Sanskrit is to work in Devanagari using online conversion tools (see below for tools)
+      to convert into IAST.  
+      Use Harvard-Kyoto for input because it requires only ASCII.
+    </p>
+    <p>
+      There is no capitalization in Devanagari, so I write all proper nouns beginning with a lower case letter in IAST in this
+      document.
+    </p>
+    <h2><a name='alphabet'></a>The Sanksrit alphabet and pronunciation</h2>
+    <p>
+      The Brahmic family of scripts, including Devanagari, are actually abugidas rather than alphabets proper.
+      An abugida, also called a alphasyllabary, is a writing system that writes each consonant–vowel sequences as a unit.
+      Each consontant forms the basis of the unit with the vowel following indicated with notation, usually a diacritic.
+      This will probably be your first surprise and barrier to learning Devanagari.
+    </p>
+    <p>
+      There are thirteen vowels in Sanskrit.
+      If not otherwise written each consonant is understood to be followed by schwa 'a' (pronounced like 'u' in but).
+      The virama diacritic suppresses this inherent vowel (schwa a) when it should be omitted.
+      Various other diacritics are added above, below, and besides consonants in Devanagari to indicate other vowels.
+      Table 4, shown below, lists the vowels as they decorate the consonant त् t.
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 4: Vowels accompanying consonants</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Devanagari<br/>(decorating त्)</th>
+            <th class='grammar'>Devanagari<br/>(used independently)</th>
+            <th class='grammar'>Diacritic</th>
+            <th class='grammar'>IAST</th>
+            <th class='grammar'>Harvard-Kyoto</th>
+            <th class='grammar'>IPA</th>
+            <th class='grammar'>Pronunciation</th>
+            <th class='grammar'>Chinese (Pinyin)</th>
+            <th class='grammar'>Example</th>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='9'>Simple Vowels</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>त्</td>
+            <td class='grammar'>अ</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>ta</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>tou</b>gh</td>
+            <td class='grammar'>
+              達 (dá)
+            </td>
+            <td class='grammar'>पण्डि<b>त</b> paṇḍi<b>ta</b> 班智達 (pundit)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ता</td>
+            <td class='grammar'>आ</td>
+            <td class='grammar'>ा</td>
+            <td class='grammar'>tā</td>
+            <td class='grammar'>tA</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=593' onmouseover="showToolTip(this, '', 'Open back unrounded vowel / low back unrounded vowel')" 
+              onmouseout="hideToolTip()">ɑ</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>ta</b>rdy</td>
+            <td class='grammar'>
+              多 (duō)
+            </td>
+            <td class='grammar'>प्रज्ञापारमि<b>ता</b> prajñāpārami<b>tā</b> &nbsp; 般若波羅蜜多
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ति</td>
+            <td class='grammar'>इ</td>
+            <td class='grammar'>ि</td>
+            <td class='grammar'>ti</td>
+            <td class='grammar'>ti</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=105' onmouseover="showToolTip(this, '', 'Lower case Latin letter i / close front unrounded vowel')" 
+              onmouseout="hideToolTip()">i</a>]
+            </td>
+            <td class='grammar'><b>ti</b>n</td>
+            <td class='grammar'>
+              提 (tí)
+            </td>
+            <td class='grammar'>सुभू<b>ति</b> &nbsp; subhū<b>ti</b> &nbsp; 須菩提
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ती</td>
+            <td class='grammar'>ई</td>
+            <td class='grammar'>ी</td>
+            <td class='grammar'>tī</td>
+            <td class='grammar'>tI</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=105' onmouseover="showToolTip(this, '', 'Lower case Latin letter i / close front unrounded vowel')" 
+              onmouseout="hideToolTip()">i</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>tee</b>th</td>
+            <td class='grammar'>
+              提 (tí)
+            </td>
+            <td class='grammar'>श्रावस्<b>ती</b> &nbsp; śrāvas<b>tī</b> &nbsp; 舍衛
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तु</td>
+            <td class='grammar'>उ</td>
+            <td class='grammar'>ु</td>
+            <td class='grammar'>tu</td>
+            <td class='grammar'>tu</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=117' onmouseover="showToolTip(this, '', 'Lower case Latin letter u / close back rounded vowel / high back rounded vowel')" 
+              onmouseout="hideToolTip()">u</a>]
+            </td>
+            <td class='grammar'><b>too</b>k</td>
+            <td class='grammar'>兜 (dōu)
+            </td>
+            <td class='grammar'><b>तु</b>षित <b>tu</b>ṣita 兜率 (Tusita Heaven)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तू</td>
+            <td class='grammar'>ऊ</td>
+            <td class='grammar'>ू</td>
+            <td class='grammar'>tū</td>
+            <td class='grammar'>tU</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=117' onmouseover="showToolTip(this, '', 'Lower case Latin letter u / close back rounded vowel / high back rounded vowel')" 
+              onmouseout="hideToolTip()">u</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>two</b></td>
+            <td class='grammar'>
+              堵 (dǔ)
+            </td>
+            <td class='grammar'>स्<b>तू</b>प &nbsp; s<b>tū</b>pa &nbsp; 窣堵波
+            </td>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='9'>Syllabic Liquids</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>तृ</td>
+            <td class='grammar'>ऋ</td>
+            <td class='grammar'>ृ</td>
+            <td class='grammar'>tṛ</td>
+            <td class='grammar'>tR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=635' onmouseover="showToolTip(this, '', 'Voiced retroflex approximant')" 
+              onmouseout="hideToolTip()">ɻ</a>]
+            </td>
+            <td class='grammar'>but<b>ter</b></td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'><b>तृ</b>ष्णा <b>tṛ</b>ṣṇā 貪 (desire)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तॄ</td>
+            <td class='grammar'>ॠ</td>
+            <td class='grammar'>ॄ</td>
+            <td class='grammar'>tṝ</td>
+            <td class='grammar'>tRR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=635' onmouseover="showToolTip(this, '', 'Voiced retroflex approximant')" 
+              onmouseout="hideToolTip()">ɻ</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>tri</b>ll (rolling)</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तॢ</td>
+            <td class='grammar'>ऌ</td>
+            <td class='grammar'>ॢ</td>
+            <td class='grammar'>tḷ</td>
+            <td class='grammar'>tlR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=621' onmouseover="showToolTip(this, '', 'Voiced retroflex lateral consonant')" 
+              onmouseout="hideToolTip()">ɭ</a>]
+            </td>
+            <td class='grammar'>tab<b>le</b></td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तॣ</td>
+            <td class='grammar'>ॡ</td>
+            <td class='grammar'>ॣ</td>
+            <td class='grammar'>tḹ</td>
+            <td class='grammar'>tlRR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=621' onmouseover="showToolTip(this, '', 'Voiced retroflex lateral consonant')" 
+              onmouseout="hideToolTip()">ɭ</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='9'>Long vowels</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>ते</td>
+            <td class='grammar'>ए</td>
+            <td class='grammar'>े</td>
+            <td class='grammar'>te</td>
+            <td class='grammar'>te</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=101' onmouseover="showToolTip(this, '', 'Lower case Latin letter e / close-mid front unrounded vowel, or high-mid front unrounded vowel')" 
+              onmouseout="hideToolTip()">e</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>ta</b>me</td>
+            <td class='grammar'></td>
+            <td class='grammar'>अवलोकि<b>ते</b>श्वर &nbsp; avaloki<b>te</b>śvara &nbsp; 觀音
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तै</td>
+            <td class='grammar'>ऐ</td>
+            <td class='grammar'>ै</td>
+            <td class='grammar'>tai</td>
+            <td class='grammar'>tai</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a><a href='/character_search.php?unicode=105' onmouseover="showToolTip(this, '', 'Lower case Latin letter i / close front unrounded vowel')" 
+              onmouseout="hideToolTip()">i</a>]
+            </td>
+            <td class='grammar'><b>ti</b>me</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तो</td>
+            <td class='grammar'>ओ</td>
+            <td class='grammar'>ो</td>
+            <td class='grammar'>to</td>
+            <td class='grammar'>to</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=111' onmouseover="showToolTip(this, '', 'Lower case Latin letter o / close-mid back rounded vowel / high-mid back rounded vowel')" 
+              onmouseout="hideToolTip()">o</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>to</b>te</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>तौ</td>
+            <td class='grammar'>औ</td>
+            <td class='grammar'>ौ</td>
+            <td class='grammar'>tau</td>
+            <td class='grammar'>tau</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a><a href='/character_search.php?unicode=117' onmouseover="showToolTip(this, '', 'Lower case Latin letter u / close back rounded vowel / high back rounded vowel')" 
+              onmouseout="hideToolTip()">u</a>]
+            </td>
+            <td class='grammar'><b>tow</b>n</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'><b>तौ</b> &nbsp; tau (them)</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      The sounds that are not present in English are described using phonetic terms and using International Phonetic Alphabet
+      IPA) symbols.  
+      These terms are explained in the <a href='#phonetics'>Basics of phonetics</a> section below.
+      Mouse over or click on the IPA symbols to find out more about the individual symbols.
+    </p>
+    <p>
+      The vowels are mostly commonly seen decorating a consonant, as in the first column.
+      Vowels are sometimes seen as initial letters, as in the second column.
+      This are listed in Table 2 below.
+      The vowel 'a' does not need a diacritic to decorate the consonant that it follows.
+      So, if a consonant does not have a diacritic then 'a' is assumed to follow.
+      For example प is 'pa'.
+      The last column in the table above gives the approximate pronunciation using an English example.  
+      The 'a' sound in IAST is like a 'u' in b<b>u</b>t.
+      For example, pundit in Sanskrit is पण्डित, IAST paṇḍita, and Harvard-Kyoto paNDita.
+    </p>
+    <p>
+      Anusvāra uses the diacritic ं  (decimal Unicode 2306) to indicate nasalization with a final n or m.
+      This is represented with an ṃ in IAST or M in Harvard-Kyoto.
+      For example, तं taṃ (he in English) and तां tāṃ (her in English).
+      The chandrabindu diacritic ँ is sometimes used instead for nazalization but is usually omitted from Devagari charts.
+      It is used in the context of Vedic Sanskrit, for example पँ.
+    </p>
+    <p>
+      Visarga is the diacritic &#2307; (decimal Unicode 2307) that looks like two dots in the shape of a colon after a syllable to 
+      represent aspiration.
+      It is written in IAST as ḥ and H in Harvard-Kyoto.
+      For example, तः, which is taḥ in IAST and taH in Harvard-Kyoto.
+    </p>
+    <p>
+      The Devanagari letters for initial vowels are written differently.
+      The table above lists the initial vowels as they match the equivalent forms that accompany consonants.
+      Table 5 lists them as they would be written as the first letter in a sentence or entry in the 
+      dictionary.
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 5: Initial Vowels</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Devanagari<br/>(letter)</th>
+            <th class='grammar'>IAST</th>
+            <th class='grammar'>Harvard-Kyoto</th>
+            <th class='grammar'>IPA</th>
+            <th class='grammar'>Pronunciation</th>
+            <th class='grammar'>Chinese (Pinyin)</th>
+            <th class='grammar'>Example</th>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='7'>Simple Vowels</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>अ</td>
+            <td class='grammar'>a</td>
+            <td class='grammar'>a</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>u</b>nder</td>
+            <td class='grammar'>
+              鵝 (é)、阿 (ā)
+            </td>
+            <td class='grammar'><b>अ</b>सुर &nbsp; <b>a</b>sura &nbsp; 阿修羅 &nbsp; (a kind of spirit)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>आ</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>A</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=593' onmouseover="showToolTip(this, '', 'Open back unrounded vowel / low back unrounded vowel')" 
+              onmouseout="hideToolTip()">ɑ</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>au</b>nt (RP / British English)</td>
+            <td class='grammar'>
+              啊 (ā)
+            </td>
+            <td class='grammar'><b>आ</b>त्मन् &nbsp; <b>ā</b>tman &nbsp; 自我 &nbsp; (self)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>इ</td>
+            <td class='grammar'>i</td>
+            <td class='grammar'>i</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=105' onmouseover="showToolTip(this, '', 'Lower case Latin letter i / close front unrounded vowel')" 
+              onmouseout="hideToolTip()">i</a>]
+            </td>
+            <td class='grammar'><b>i</b>nk</td>
+            <td class='grammar'>
+              衣 (yī)
+            </td>
+            <td class='grammar'><b>इ</b>ष् &nbsp; <b>i</b>ṣṭa &nbsp; 尊 (to revere)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ई</td>
+            <td class='grammar'>ī</td>
+            <td class='grammar'>I</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=105' onmouseover="showToolTip(this, '', 'Lower case Latin letter i / close front unrounded vowel')" 
+              onmouseout="hideToolTip()">i</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>ea</b>t</td>
+            <td class='grammar'>
+              衣 (yī)
+            </td>
+            <td class='grammar'><b>ई</b>श्वर &nbsp; īśvara (Isvara)</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>उ</td>
+            <td class='grammar'>u</td>
+            <td class='grammar'>u</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=117' onmouseover="showToolTip(this, '', 'Lower case Latin letter u / close back rounded vowel / high back rounded vowel')" 
+              onmouseout="hideToolTip()">u</a>]
+            </td>
+            <td class='grammar'>f<b>oo</b>t</td>
+            <td class='grammar'>
+              烏 (wū)、奥 (ào)
+            </td>
+            <td class='grammar'><b>उ</b>पनिषद् &nbsp; <b>u</b>paniṣad &nbsp; 奧義書
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ऊ</td>
+            <td class='grammar'>ū</td>
+            <td class='grammar'>U</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=117' onmouseover="showToolTip(this, '', 'Lower case Latin letter u / close back rounded vowel / high back rounded vowel')" 
+              onmouseout="hideToolTip()">u</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'>c<b>oo</b>l</td>
+            <td class='grammar'>
+              烏 (wū)
+            </td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='7'>Syllabic Liquids</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>ऋ</td>
+            <td class='grammar'>ṛ</td>
+            <td class='grammar'>R</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=635' onmouseover="showToolTip(this, '', 'Voiced retroflex approximant')" 
+              onmouseout="hideToolTip()">ɻ</a>]
+            </td>
+            <td class='grammar'>butt<b>er</b></td>
+            <td class='grammar'>
+              日 (rì)
+            </td>
+            <td class='grammar'><b>ऋ</b>ग्वेद &nbsp; <b>ṛ</b>gveda &nbsp; 梨俱吠陀 &nbsp; (Rigveda)
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ॠ</td>
+            <td class='grammar'>ṝ</td>
+            <td class='grammar'>RR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=635' onmouseover="showToolTip(this, '', 'Voiced retroflex approximant')" 
+              onmouseout="hideToolTip()">ɻ</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'></td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ऌ</td>
+            <td class='grammar'>ḷ</td>
+            <td class='grammar'>IR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=621' onmouseover="showToolTip(this, '', 'Voiced retroflex lateral consonant')" 
+              onmouseout="hideToolTip()">ɭ</a>]
+            </td>
+            <td class='grammar'>turt<b>le</b></td>
+            <td class='grammar'>
+              利 (lì)
+            </td>
+            <td class='grammar'>पा<b>ऌ</b>इ &nbsp; pā<b>ḷ</b>i &nbsp; 巴利文
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ॡ</td>
+            <td class='grammar'>ḹ</td>
+            <td class='grammar'>lRR</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=621' onmouseover="showToolTip(this, '', 'Voiced retroflex lateral consonant')" 
+              onmouseout="hideToolTip()">ɭ</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='7'>Diphthongs</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>ए</td>
+            <td class='grammar'>e</td>
+            <td class='grammar'>e</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=101' onmouseover="showToolTip(this, '', 'Lower case Latin letter e / close-mid front unrounded vowel, or high-mid front unrounded vowel')" 
+              onmouseout="hideToolTip()">e</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'><b>ai</b>m</td>
+            <td class='grammar'>
+              誒 (ēi)
+            </td>
+            <td class='grammar'><b>ए</b>क &nbsp; eka (one)</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ऐ</td>
+            <td class='grammar'>ai</td>
+            <td class='grammar'>ai</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a><a href='/character_search.php?unicode=105' onmouseover="showToolTip(this, '', 'Lower case Latin letter i / close front unrounded vowel')" 
+              onmouseout="hideToolTip()">i</a>]
+            </td>
+            <td class='grammar'><b>eye</b></td>
+            <td class='grammar'>
+              哀 (āi)
+            </td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ओ</td>
+            <td class='grammar'>o</td>
+            <td class='grammar'>o</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=111' onmouseover="showToolTip(this, '', 'Lower case Latin letter o / close-mid back rounded vowel / high-mid back rounded vowel')" 
+              onmouseout="hideToolTip()">o</a><a href='/character_search.php?unicode=720' onmouseover="showToolTip(this, '', 'Length mark')" 
+              onmouseout="hideToolTip()">ː</a>]
+            </td>
+            <td class='grammar'>r<b>ow</b> (General American)</td>
+            <td class='grammar'>
+              歐 (ōu)、嗡 (wēng)
+            </td>
+            <td class='grammar'><b>ओं</b> मणिपद्मे हूं &nbsp; <b>O</b>ṃ maṇi padme hūṃ &nbsp; 嗡嘛呢叭咩吽
+            </td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>औ</td>
+            <td class='grammar'>au</td>
+            <td class='grammar'>au</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a><a href='/character_search.php?unicode=117' onmouseover="showToolTip(this, '', 'Lower case Latin letter u / close back rounded vowel / high back rounded vowel')" 
+              onmouseout="hideToolTip()">u</a>]
+            </td>
+            <td class='grammar'>h<b>ou</b>se</td>
+            <td class='grammar'>
+              熬 (áo)
+            </td>
+            <td class='grammar'>&nbsp;</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      There are many more consonants in Sanskrit than English.
+      One reason is the large number of plosive consonants (stops).
+      These are listed in the table below.
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 6: Consonants</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Devanagari</th>
+            <th class='grammar'>IAST</th>
+            <th class='grammar'>Harvard-Kyoto</th>
+            <th class='grammar'>IPA</th>
+            <th class='grammar'>Pronunciation</th>
+            <th class='grammar'>Chinese (Pinyin)</th>
+            <th class='grammar'>Examples</th>
+            <th class='grammar'>Notes</th>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='8'>Stops</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>प</td>
+            <td class='grammar'>pa</td>
+            <td class='grammar'>pa</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=112' onmouseover="showToolTip(this, '', 'Lower case Latin letter p / voiceless bilabial plosive')" 
+              onmouseout="hideToolTip()">p</a><a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>s<b>pu</b>n</td>
+            <td class='grammar'>
+              班 (bān)
+            </td>
+            <td class='grammar'><b>प</b>ण्डित &nbsp; <b>pa</b>ṇḍita &nbsp; 班智達 &nbsp; (<b>pu</b>ndit)
+            </td>
+            <td class='grammar'>Labial unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ब</td>
+            <td class='grammar'>ba</td>
+            <td class='grammar'>ba</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=98' onmouseover="showToolTip(this, '', 'Lower case Latin letter b / voiced bilabial plosive')" 
+              onmouseout="hideToolTip()">b</a><a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+              菩 (pú)
+            </td>
+            <td class='grammar'><b>बु</b>द्ध &nbsp; <b>bu</b>ddha &nbsp; 佛, <b>बो</b>धिसत्त्व &nbsp; <b>bo</b>dhisattva &nbsp; 菩提薩埵
+            </td>
+            <td class='grammar'>Labial unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>फ</td>
+            <td class='grammar'>pha</td>
+            <td class='grammar'>pha</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=112' onmouseover="showToolTip(this, '', 'Lower case Latin letter p / voiceless bilabial plosive')" 
+              onmouseout="hideToolTip()">p</a><a href='/character_search.php?unicode=688' onmouseover="showToolTip(this, '', 'Aspirated')" 
+              onmouseout="hideToolTip()">ʰ</a><a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>pu</b>n</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'><b>फ</b>ल &nbsp; phala (fruit)</td>
+            <td class='grammar'>Labial aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>भ</td>
+            <td class='grammar'>bha</td>
+            <td class='grammar'>bha</td>
+            <td class='grammar'>
+              [<a href='/character_search.php?unicode=98' onmouseover="showToolTip(this, '', 'Lower case Latin letter b / voiced bilabial plosive')" 
+              onmouseout="hideToolTip()">b</a><a href='/character_search.php?unicode=689' onmouseover="showToolTip(this, '', 'Breathy-voice-aspirated')" 
+              onmouseout="hideToolTip()">ʱ</a><a href='/character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>bu</b>n</td>
+            <td class='grammar'>
+              薄 (báo)
+            </td>
+            <td class='grammar'><b>भ</b>गवान् &nbsp; <b>bha</b>gavān &nbsp; 薄伽梵 (Blessed One)
+            </td>
+            <td class='grammar'>Labial aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>त</td>
+            <td class='grammar'>ta</td>
+            <td class='grammar'>ta</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=116_810' onmouseover="showToolTip(this, '', 'Latin letter t / voiceless alveolar plosive')" onmouseout="hideToolTip()">t̪</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>s<b>tu</b>b</td>
+            <td class='grammar'>
+              得 (de)
+            </td>
+            <td class='grammar'><b>त</b>थागत &nbsp; <b>ta</b>thāgata &nbsp; 如來 (a name for the Buddha)
+            </td>
+            <td class='grammar'>Dental unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>द</td>
+            <td class='grammar'>da</td>
+            <td class='grammar'>da</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=100_810' onmouseover="showToolTip(this, '', 'Lower case Latin letter d / voiced alveolar plosive')" onmouseout="hideToolTip()">d̪</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'></td>
+            <td class='grammar'>
+              大 (dà)
+            </td>
+            <td class='grammar'>सिकन्<b>द</b>र &nbsp; sikan<b>da</b>ra &nbsp; 亞歷山大 &nbsp; (Alexander)
+            </td>
+            <td class='grammar'>Dental unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>थ</td>
+            <td class='grammar'>tha</td>
+            <td class='grammar'>tha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=116_810' onmouseover="showToolTip(this, '', 'Latin letter t / voiceless alveolar plosive')" onmouseout="hideToolTip()">t̪</a><a href='character_search.php?unicode=688' onmouseover="showToolTip(this, '', 'Aspirated')" onmouseout="hideToolTip()">ʰ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>thu</b>nder</td>
+            <td class='grammar'>
+              多 (duō)
+            </td>
+            <td class='grammar'>सिद्धा<b>र्थ</b> &nbsp; siddhār<b>tha</b> &nbsp; 悉達多
+            </td>
+            <td class='grammar'>Dental aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ध</td>
+            <td class='grammar'>dha</td>
+            <td class='grammar'>dha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=100_810' onmouseover="showToolTip(this, '', 'Lower case Latin letter d / voiced alveolar plosive')" onmouseout="hideToolTip()">d̪</a><a href='character_search.php?unicode=689' onmouseover="showToolTip(this, '', 'Breathy-voice-aspirated')" onmouseout="hideToolTip()">ʱ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+              達 (dá)
+            </td>
+            <td class='grammar'>स्कन्<b>ध</b> &nbsp; skan<b>dha</b> &nbsp; 蕴 &nbsp; (aggregate)
+            </td>
+            <td class='grammar'>Dental aspirated</td>
+          <tr class='grammar'>
+            <td class='grammar'>ट</td>
+            <td class='grammar'>ṭa</td>
+            <td class='grammar'>Ta</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=648' onmouseover="showToolTip(this, '', 'Voiceless retroflex plosive')" onmouseout="hideToolTip()">ʈ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>s<b>tu</b>n</td>
+            <td class='grammar'></td>
+            <td class='grammar'><b>टृ</b>णं &nbsp; <b>ṭ</b>ṛṇaṃ &nbsp; 草 (grass)
+            </td>
+            <td class='grammar'>Retroflex unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ड</td>
+            <td class='grammar'>ḍa</td>
+            <td class='grammar'>Da</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=598' onmouseover="showToolTip(this, '', 'Voiced retroflex plosive')" onmouseout="hideToolTip()">ɖ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>do</b>ne</td>
+            <td class='grammar'>達 (dá)
+            </td>
+            <td class='grammar'>गरु<b>ड</b> &nbsp; garu<b>ḍa</b> &nbsp; 迦樓羅 (a mythical bird)
+            </td>
+            <td class='grammar'>Retroflex unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ठ</td>
+            <td class='grammar'>ṭha</td>
+            <td class='grammar'>Tha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=648_688' onmouseover="showToolTip(this, '', 'Voiceless retroflex plosive')" onmouseout="hideToolTip()">ʈʰ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>tu</b>ck</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>Retroflex aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ढ</td>
+            <td class='grammar'>ḍha</td>
+            <td class='grammar'>Dha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=598_689' onmouseover="showToolTip(this, '', 'Voiced retroflex plosive')" onmouseout="hideToolTip()">ɖʱ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>a<b>dh</b>ere</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>ज<b>ढ</b> &nbsp; ja<b>ḍa</b> &nbsp; 種子
+            </td>
+            <td class='grammar'>Retroflex unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>च</td>
+            <td class='grammar'>ca</td>
+            <td class='grammar'>ca</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=99_865' onmouseover="showToolTip(this, '', 'Lower case Latin letter c / voiceless palatal plosive')" onmouseout="hideToolTip()">c͡</a><a href='character_search.php?unicode=231' onmouseover="showToolTip(this, '', 'Voiceless palatal fricative')" onmouseout="hideToolTip()">ç</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>ex<b>ch</b>ange</td>
+            <td class='grammar'>
+              基 (jī)
+            </td>
+            <td class='grammar'><b>चु</b>न्दी &nbsp; <b>cu</b>ndī &nbsp; 準提 (Maha Cundi Bodhisattva)
+            </td>
+            <td class='grammar'>Palatal unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ज</td>
+            <td class='grammar'>ja</td>
+            <td class='grammar'>ja</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=607_865' onmouseover="showToolTip(this, '', 'Voiced palatal plosive')" onmouseout="hideToolTip()">ɟ͡</a><a href='character_search.php?unicode=669' onmouseover="showToolTip(this, '', 'Voiced palatal fricative')" onmouseout="hideToolTip()">ʝ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>ju</b>nk</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'><b>जा</b>तक &nbsp; <b>jā</b>taka &nbsp; 本生經 (The Jataka Tales)
+            </td>
+            <td class='grammar'>Palatal unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>छ</td>
+            <td class='grammar'>cha</td>
+            <td class='grammar'>cha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=99_865' onmouseover="showToolTip(this, '', 'Lower case Latin letter c / voiceless palatal plosive')" onmouseout="hideToolTip()">c͡</a><a href='character_search.php?unicode=231_688' onmouseover="showToolTip(this, '', 'Voiceless palatal fricative')" onmouseout="hideToolTip()">çʰ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>ch</b>uck</td>
+            <td class='grammar'>
+              欺 (qī)
+            </td>
+            <td class='grammar'><b>छ</b>त्ररत्न &nbsp; <b>cha</b>traratna &nbsp; 傘 (parasol)
+            </td>
+            <td class='grammar'>Palatal aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>झ</td>
+            <td class='grammar'>jha</td>
+            <td class='grammar'>jha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=607_865' onmouseover="showToolTip(this, '', 'Voiced palatal plosive')" onmouseout="hideToolTip()">ɟ͡</a><a href='character_search.php?unicode=669_689' onmouseover="showToolTip(this, '', 'Voiced palatal fricative')" onmouseout="hideToolTip()">ʝʱ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'><b>झ</b>टिति	 &nbsp; <b>jh</b>aṭiti &nbsp; 馬上 (at once)
+            </td>
+            <td class='grammar'>Palatal aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>क</td>
+            <td class='grammar'>ka</td>
+            <td class='grammar'>ka</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=107' onmouseover="showToolTip(this, '', 'Lower case Latin letter k / voiceless velar plosive')" onmouseout="hideToolTip()">k</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>s<b>ku</b>nk</td>
+            <td class='grammar'>
+              哥 (gē)、鳩 (jiū)
+            </td>
+            <td class='grammar'><b>कु</b>मारजीव &nbsp; <b>ku</b>mārajīva &nbsp; 鳩摩羅什
+            </td>
+            <td class='grammar'>Velar unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ग</td>
+            <td class='grammar'>ga</td>
+            <td class='grammar'>ga</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=103' onmouseover="showToolTip(this, '', 'Lower case Latin letter g / voiced velar plosive')" onmouseout="hideToolTip()">g</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>g</b>ame</td>
+            <td class='grammar'>
+              迦 (jiā)
+            </td>
+            <td class='grammar'><b>ग</b>रुड &nbsp; <b>ga</b>ruḍa &nbsp; 迦樓羅
+            </td>
+            <td class='grammar'>Velar unaspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ख</td>
+            <td class='grammar'>kha</td>
+            <td class='grammar'>kha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=107_688' onmouseover="showToolTip(this, '', 'Lower case Latin letter k / voiceless velar plosive')" onmouseout="hideToolTip()">kʰ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>co</b>me</td>
+            <td class='grammar'>
+              科 (kē)
+            </td>
+            <td class='grammar'>दुः<b>ख</b> &nbsp; &nbsp; duḥ<b>kha</b> &nbsp; 苦 (suffering)
+            </td>
+            <td class='grammar'>Velar aspirated</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>घ</td>
+            <td class='grammar'>gha</td>
+            <td class='grammar'>gha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=609_689' onmouseover="showToolTip(this, '', 'Voiced velar plosive / open tail g')" onmouseout="hideToolTip()">ɡʱ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>lo<b>gh</b>ouse</td>
+            <td class='grammar'>
+              伽 (jiā)
+            </td>
+            <td class='grammar'>सं<b>घ</b> &nbsp; saṃ<b>gha</b> &nbsp; 僧伽 (Sangha / the monastic community)
+            </td>
+            <td class='grammar'>Velar aspirated</td>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='8'>Nasal</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>म</td>
+            <td class='grammar'>ma</td>
+            <td class='grammar'>ma</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=109' onmouseover="showToolTip(this, '', 'Lower case Latin letter m / bilabial nasal consonant')" onmouseout="hideToolTip()">m</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>mo</b>nk</td>
+            <td class='grammar'>
+              曼 (màn)
+            </td>
+            <td class='grammar'><b>म</b>ण्डल &nbsp; <b>ma</b>ṇḍala &nbsp; 曼荼羅
+            </td>
+            <td class='grammar'>Labial</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>न</td>
+            <td class='grammar'>na</td>
+            <td class='grammar'>na</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=110_810' onmouseover="showToolTip(this, '', 'Lower case Latin letter n / alveolar nasal consonant')" onmouseout="hideToolTip()">n̪</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+              那 (nà)
+            </td>
+            <td class='grammar'><b>ना</b>ग &nbsp; <b>n</b>āga &nbsp; 那伽 (dragon)
+            </td>
+            <td class='grammar'>Dental</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ण</td>
+            <td class='grammar'>ṇa</td>
+            <td class='grammar'>Na</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=627' onmouseover="showToolTip(this, '', 'Retroflex nasal consonant')" onmouseout="hideToolTip()">ɳ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>nu</b>mber</td>
+            <td class='grammar'>
+              拿 (ná)
+            </td>
+            <td class='grammar'>निर्वा<b>ण</b> &nbsp; nirvā<b>ṇa</b> &nbsp; 涅盤 | वरु<b>ण</b> &nbsp; varu<b>ṇa</b> 伐樓拿
+            </td>
+            <td class='grammar'>Retroflex</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ञ</td>
+            <td class='grammar'>ña</td>
+            <td class='grammar'>Ja</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=626' onmouseover="showToolTip(this, '', 'Palatal nasal consonant')" onmouseout="hideToolTip()">ɲ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>bu<b>n</b>k</td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>प्रज्<b>ञा</b> &nbsp; praj<b>ñ</b>ā &nbsp; 般若
+            </td>
+            <td class='grammar'>Palatal</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ङ</td>
+            <td class='grammar'>ṅa</td>
+            <td class='grammar'>Ga</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=331' onmouseover="showToolTip(this, '', 'Velar nasal consonant')" onmouseout="hideToolTip()">ŋ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+              昂 (áng)
+            </td>
+            <td class='grammar'>ग<b>ङ्</b>गा &nbsp; ga<b>ṅ</b>gā &nbsp; 恆河 (Ganges River)
+            </td>
+            <td class='grammar'>Velar</td>
+          </tr>
+          <tr class='grammar'><th class='grammar' colspan='8'>Sonorants</th></tr>
+          <tr class='grammar'>
+            <td class='grammar'>व</td>
+            <td class='grammar'>va</td>
+            <td class='grammar'>va</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=651' onmouseover="showToolTip(this, '', 'Voiced labiodental approximant')" onmouseout="hideToolTip()">ʋ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>v</b>an</td>
+            <td class='grammar'>
+              婆 (pó)
+            </td>
+            <td class='grammar'>दे<b>व</b>दत्त	 &nbsp; de<b>va</b>datta &nbsp; 提婆達多
+            </td>
+            <td class='grammar'>Labiodental</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>य</td>
+            <td class='grammar'>ya</td>
+            <td class='grammar'>ya</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=106' onmouseover="showToolTip(this, '', 'Lower case Latin letter j / palatal approximant')" onmouseout="hideToolTip()">j</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>y</b>onder</td>
+            <td class='grammar'>
+              夜 (yè)
+            </td>
+            <td class='grammar'><b>य</b>म &nbsp; <b>ya</b>ma &nbsp; 夜摩
+            </td>
+            <td class='grammar'>Palatal</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>र</td>
+            <td class='grammar'>ra</td>
+            <td class='grammar'>ra</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=637' onmouseover="showToolTip(this, '', 'Voiced retroflex flap')" onmouseout="hideToolTip()">ɽ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+               羅 (luó)
+            </td>
+            <td class='grammar'>असु<b>र</b> &nbsp; asu<b>ra</b> &nbsp; 
+              阿修羅 (a kind of spirit)
+            </td>
+            <td class='grammar'>Retroflex approximant</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ल</td>
+            <td class='grammar'>la</td>
+            <td class='grammar'>la</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=108_810' onmouseover="showToolTip(this, '', 'Lower case Latin letter l / alveolar lateral approximant')" onmouseout="hideToolTip()">l̪</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+               爛 (làn)
+            </td>
+            <td class='grammar'>ना<b>लं</b>दा	 &nbsp; nālandā &nbsp; 
+              那爛陀 (a place name)
+            </td>
+            <td class='grammar'>Dental approximant</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>स</td>
+            <td class='grammar'>sa</td>
+            <td class='grammar'>sa</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=115_810' onmouseover="showToolTip(this, '', 'Lower case Latin letter s / voiceless alveolar sibilant')" onmouseout="hideToolTip()">s̪</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>su</b>nk</td>
+            <td class='grammar'>
+              三 (sān)
+            </td>
+            <td class='grammar'><b>स</b>माधि &nbsp; <b>sa</b>mādhi 三昧
+            </td>
+            <td class='grammar'>Dental</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ष</td>
+            <td class='grammar'>ṣa</td>
+            <td class='grammar'>Sa</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=642' onmouseover="showToolTip(this, '', 'Voiceless retroflex fricative / voiceless retroflex sibilant')" onmouseout="hideToolTip()">ʂ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>
+              詩 (shī)
+            </td>
+            <td class='grammar'>उपनि<b>ष</b>द् &nbsp; upani<b>ṣa</b>d 奧義書
+            </td>
+            <td class='grammar'>Retroflex</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>श</td>
+            <td class='grammar'>śa</td>
+            <td class='grammar'>za</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=597' onmouseover="showToolTip(this, '', 'Voiceless alveolopalatal fricative')" onmouseout="hideToolTip()">ɕ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'><b>shu</b>t</td>
+            <td class='grammar'>
+              峽 (xiá)、思 (sī)
+            </td>
+            <td class='grammar'>अति<b>श</b> &nbsp; ati<b>śa</b> &nbsp; 阿底峽
+            </td>
+            <td class='grammar'>Palatal</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ः</td>
+            <td class='grammar'>ḥ</td>
+            <td class='grammar'>H</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=104' onmouseover="showToolTip(this, '', 'Lower case Latin letter h / voiceless glottal fricative')" onmouseout="hideToolTip()">h</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'></td>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>नमः &nbsp; namaḥ &nbsp; 南無 (to take refuge)
+            </td>
+            <td class='grammar'>Glottal</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>ह</td>
+            <td class='grammar'>ha</td>
+            <td class='grammar'>ha</td>
+            <td class='grammar'>
+              [<a href='character_search.php?unicode=614' onmouseover="showToolTip(this, '', 'Voiced ')" onmouseout="hideToolTip()">ɦ</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, '', 'Schwa')" 
+              onmouseout="hideToolTip()">ə</a>]
+            </td>
+            <td class='grammar'>a<b>h</b>oy</td>
+            <td class='grammar'>
+              訶 (hē)、喝 (hē)
+            </td>
+            <td class='grammar'>म<b>हा</b>सत्त्व &nbsp; ma<b>hā</b>sattva &nbsp; 摩诃萨埵
+            </td>
+            <td class='grammar'>Glottal</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      Tones are used in Vedic Sanskrit.  There are three tones: उदात्त udātta (raised), अनुदात्त anudātta (not raised), and स्वरित svarita
+      (sounded). The udātta is marked with an acute accent (e.g. í, ó) and the other tones are not marked.
+      However, sometimes svarita may be marked with a grave accent (e.g. à) in situations where independent svarita is caused by 
+      sandhi of adjacent vowels.  See the discussion below on sandhi.
+    </p>
+    <h2><a name='sandhi'></a>Sandhi</h2>
+    <p>
+      <em>Sandhi</em> is a set of phonological rules used to combine sounds into words and to combine words into sentences.
+      An example in English is the use of the word <em>the</em>.  If <em>the</em> precedes a word beginning with a consonant then
+      it is pronounced <a href='character_search.php?unicode=240' onmouseover="showToolTip(this, 'Voiced dental fricative', '')" onmouseout="hideToolTip()">ð</a><a href='character_search.php?unicode=601' onmouseover="showToolTip(this, 'Schwa', '')" 
+      onmouseout="hideToolTip()">ə</a>, as in <em>the bus</em> (General American and British English).  
+      If it precedes a word begining in a vowel it is pronounced
+      <a href='character_search.php?unicode=240' onmouseover="showToolTip(this, 'Voiced dental fricative', '')" onmouseout="hideToolTip()">ð</a><a href='character_search.php?unicode=105' onmouseover="showToolTip(this, 'Lower case Latin letter i / close front unrounded vowel', '')" 
+      onmouseout="hideToolTip()">i</a>, as in <em>the end</em>.
+      In English these phonetic differences are spelled the same.  
+      However, in Sanskrit these differences are spelled out and prescribed by sandhi.
+      The term <em>sandhi</em> is also used today by phonetitions to refer to similar phonetic changes in languages other than Sanskrit.
+    </p>
+    <p>
+      Sandhi between two words depends on whether the final sound in the first word is a vowel or a consonant and whether the initial
+      sound in the second word is a vowel or a consonant.
+      Table 4a below lists Sandhi for combinations where the first word ends in a vowel and the second word begins in a vowel.
+      Table 4b lists sandhi for combinations where the first word ends in a consonants.
+      For example, for the words तत्र tatra + इव iva (English: as if there) find the column <em>a / ā</em> and the row
+      <em>i / ī</em> and see that the table cell contains an <em>a</em>.  So the word result is तत्रेव tatr<b>e</b>va.
+      As a second example, for the words वने vane + इव iva (English: as if in the forest) find the column <em>e</em>
+      and the row <em>i / ī</em>.  The column contains the two letters a i so the result is वन इव van<b>a</b> <b>i</b>va.
+      So the combination remains as two separate words, which is indicated by the space between the two letters in the table cell.
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 7a: Sandhi for vowels</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>&nbsp;</th>
+            <th class='grammar' colspan='8'>Final vowel of first word</th>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Initial vowel of second word</th>
+            <th class='grammar'>a / ā</th>
+            <th class='grammar'>i / ī</th>
+            <th class='grammar'>u / ū</th>
+            <th class='grammar'>ṛ</th>
+            <th class='grammar'>e</th>
+            <th class='grammar'>ai</th>
+            <th class='grammar'>o</th>
+            <th class='grammar'>au</th>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>a</th>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>ya</td>
+            <td class='grammar'>va</td>
+            <td class='grammar'>ra</td>
+            <td class='grammar'>e</td>
+            <td class='grammar'>ā a</td>
+            <td class='grammar'>o</td>
+            <td class='grammar'>āva</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ā</th>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>yā</td>
+            <td class='grammar'>vā</td>
+            <td class='grammar'>rā</td>
+            <td class='grammar'>a ā</td>
+            <td class='grammar'>ā ā</td>
+            <td class='grammar'>a ā</td>
+            <td class='grammar'>āvā</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>i / ī</th>
+            <td class='grammar'>e</td>
+            <td class='grammar'>ī</td>
+            <td class='grammar'>vi / vī</td>
+            <td class='grammar'>ri / rī</td>
+            <td class='grammar'>a i / ī</td>
+            <td class='grammar'>ā i / ī</td>
+            <td class='grammar'>a i / ī</td>
+            <td class='grammar'>āvi/ī</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>u / ū</th>
+            <td class='grammar'>o</td>
+            <td class='grammar'>yu / yū</td>
+            <td class='grammar'>ū</td>
+            <td class='grammar'>ru / rū</td>
+            <td class='grammar'>a ṛ</td>
+            <td class='grammar'>ā u / ū</td>
+            <td class='grammar'>a u / ū</td>
+            <td class='grammar'>āvu/ū</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ṛ</th>
+            <td class='grammar'>ar</td>
+            <td class='grammar'>yṛ</td>
+            <td class='grammar'>vṛ</td>
+            <td class='grammar'>ṝ</td>
+            <td class='grammar'>a u / ū</td>
+            <td class='grammar'>ā ṛ</td>
+            <td class='grammar'>a ṛ</td>
+            <td class='grammar'>āvṛ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>e</th>
+            <td class='grammar'>ai</td>
+            <td class='grammar'>ye</td>
+            <td class='grammar'>ve</td>
+            <td class='grammar'>re</td>
+            <td class='grammar'>a e</td>
+            <td class='grammar'>ā e</td>
+            <td class='grammar'>a e</td>
+            <td class='grammar'>āve</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ai</th>
+            <td class='grammar'>ai</td>
+            <td class='grammar'>yai</td>
+            <td class='grammar'>vai</td>
+            <td class='grammar'>rai</td>
+            <td class='grammar'>a ai</td>
+            <td class='grammar'>ā ai</td>
+            <td class='grammar'>a ai</td>
+            <td class='grammar'>āvai</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>o</th>
+            <td class='grammar'>au</td>
+            <td class='grammar'>yo</td>
+            <td class='grammar'>vo</td>
+            <td class='grammar'>ro</td>
+            <td class='grammar'>a o</td>
+            <td class='grammar'>ā o</td>
+            <td class='grammar'>a o</td>
+            <td class='grammar'>āvo</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>au</th>
+            <td class='grammar'>au</td>
+            <td class='grammar'>yau</td>
+            <td class='grammar'>vau</td>
+            <td class='grammar'>rau</td>
+            <td class='grammar'>a au</td>
+            <td class='grammar'>ā au</td>
+            <td class='grammar'>a au</td>
+            <td class='grammar'>āvau</td>
+          </tr>
+       </tbody>
+     </table>
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 7b: Sandhi for consonants</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>&nbsp;</th>
+            <th class='grammar' colspan='10'>Final consonant of first word</th>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Initial consonant of second word</th>
+            <th class='grammar'>k</th>
+            <th class='grammar'>ṭ</th>
+            <th class='grammar'>t</th>
+            <th class='grammar'>p</th>
+            <th class='grammar'>ṅ</th>
+            <th class='grammar'>n</th>
+            <th class='grammar'>m</th>
+            <th class='grammar'>ḥ/r (except āḥ,aḥ)</th>
+            <th class='grammar'>āḥ</th>
+            <th class='grammar'>aḥ</th>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>k / kh</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>ḥ</td>
+            <td class='grammar'>āḥ</td>
+            <td class='grammar'>aḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>g / gh</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>d</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>c / ch</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>c</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ṃś</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>ś</td>
+            <td class='grammar'>āś</td>
+            <td class='grammar'>aś</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>j / jh</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>j</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ñ</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ṭ / ṭh</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ṃṣ</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>ṣ</td>
+            <td class='grammar'>āṣ</td>
+            <td class='grammar'>aṣ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ḍ / ḍh</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ṇ</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>t / th</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ṃs</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>s</td>
+            <td class='grammar'>ās</td>
+            <td class='grammar'>as</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>d / dh</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>d</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>p / ph</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>ḥ</td>
+            <td class='grammar'>āḥ</td>
+            <td class='grammar'>aḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>b / bh</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>d</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>n / m</th>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ṇ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>m</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>y / v</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>d</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>r</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>d</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>omit<sup>1</sup></td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>l</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>l</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>iँ<sup>2</sup></td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ś</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>c(ch)</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>ñ(ś/ch)</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>ḥ</td>
+            <td class='grammar'>āḥ</td>
+            <td class='grammar'>aḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>ṣ / s</th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>ḥ</td>
+            <td class='grammar'>āḥ</td>
+            <td class='grammar'>aḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>h</th>
+            <td class='grammar'>g(gh)</td>
+            <td class='grammar'>ḍ(ḍh)</td>
+            <td class='grammar'>d(dh)</td>
+            <td class='grammar'>b(bh)</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>ṃ</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>o</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>vowel</th>
+            <td class='grammar'>g</td>
+            <td class='grammar'>ḍ</td>
+            <td class='grammar'>d</td>
+            <td class='grammar'>b</td>
+            <td class='grammar'>ṅ/ṅṅ<sup>3</sup></td>
+            <td class='grammar'>n/nm<sup>3</sup></td>
+            <td class='grammar'>m</td>
+            <td class='grammar'>r</td>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>a<sup>4</sup></td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>end<sup>5</sup></th>
+            <td class='grammar'>k</td>
+            <td class='grammar'>ṭ</td>
+            <td class='grammar'>t</td>
+            <td class='grammar'>p</td>
+            <td class='grammar'>ṅ</td>
+            <td class='grammar'>n</td>
+            <td class='grammar'>m</td>
+            <td class='grammar'>ḥ</td>
+            <td class='grammar'>āḥ</td>
+            <td class='grammar'>aḥ</td>
+          </tr>
+       </tbody>
+     </table>
+     Notes:
+     <ol>
+       <li>Omit ḥ or r.  If this is preceded by a, i, or u then they become lengthened to ā, ī, or ū</li>
+       <li>...</li>
+       <li>Doubling occurs when the preceding vowel is short</li>
+       <li>Exception: aḥ + a becomes os</li>
+       <li>End of a sentence</li>
+     </ol>
+    </p>
+    <p>
+      The cells of Table 4b represent the letter that the last letter of the first word should be changed to.
+      For example, ...
+    </p>
+    <p>
+      If a word ending in a vowel is followed by a word starting with a vowel then there is no change.
+      There is an exception to this for short vowels followed by ch.  The ch is changed to cch.
+      If a long vowel is followed by ch then the ch may or may not change to cch.
+    </p>
+    <h2><a name='numbers'></a>Numbers in Sanksrit</h2>
+    <p>
+      Table 5 below shows the Sanskrit numbers.
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 8: Sanskrit numbers</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Devanagari</th>
+            <th class='grammar'>Name</th>
+            <th class='grammar'>IAST</th>
+            <th class='grammar'>Arabic</th>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>०</td>
+            <td class='grammar'>शून्य</td>
+            <td class='grammar'>śūnya</td>
+            <td class='grammar'>0</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>१</td>
+            <td class='grammar'>एक</td>
+            <td class='grammar'>eka</td>
+            <td class='grammar'>1</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>२</td>
+            <td class='grammar'>द्वि</td>
+            <td class='grammar'>dvi</td>
+            <td class='grammar'>2</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>३</td>
+            <td class='grammar'>त्रि</td>
+            <td class='grammar'>tri</td>
+            <td class='grammar'>3</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>४</td>
+            <td class='grammar'>चतुर्</td>
+            <td class='grammar'>catur</td>
+            <td class='grammar'>4</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>५</td>
+            <td class='grammar'>पञ्च</td>
+            <td class='grammar'>pañca</td>
+            <td class='grammar'>5</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>६</td>
+            <td class='grammar'>षष्</td>
+            <td class='grammar'>ṣaṣ</td>
+            <td class='grammar'>6</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>७</td>
+            <td class='grammar'>सप्त</td>
+            <td class='grammar'>sapta</td>
+            <td class='grammar'>7</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>८</td>
+            <td class='grammar'>अष्ट</td>
+            <td class='grammar'>aṣṭa</td>
+            <td class='grammar'>8</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>९</td>
+            <td class='grammar'>नव</td>
+            <td class='grammar'>nava</td>
+            <td class='grammar'>9</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+      Table 6 below lists the powers of ten for numbers in Sanskrit.
+      I have left out some of the very largest numbers.
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 9: Powers of Ten</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Devanagari</th>
+            <th class='grammar'>IAST</th>
+            <th class='grammar'>Arabic</th>
+            <th class='grammar'>English</th>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>दश</td>
+            <td class='grammar'>daśa</td>
+            <td class='grammar'>10</td>
+            <td class='grammar'>Ten</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>शत</td>
+            <td class='grammar'>śata</td>
+            <td class='grammar'>100</td>
+            <td class='grammar'>One hundred</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>सहस्र</td>
+            <td class='grammar'>sahasra</td>
+            <td class='grammar'>1000</td>
+            <td class='grammar'>One thousand</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>अयुत</td>
+            <td class='grammar'>ayuta</td>
+            <td class='grammar'>10,000</td>
+            <td class='grammar'>Ten thousand</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>लक्ष</td>
+            <td class='grammar'>lakṣa</td>
+            <td class='grammar'>100,000</td>
+            <td class='grammar'>One hundred thousand</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>कोटि</td>
+            <td class='grammar'>koṭi</td>
+            <td class='grammar'>10<sup>7</sup></td>
+            <td class='grammar'>Ten million</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>शङ्कु</td>
+            <td class='grammar'>śaṅku</td>
+            <td class='grammar'>10<sup>12</sup></td>
+            <td class='grammar'>one trillion</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>महाशङ्कु</td>
+            <td class='grammar'>mahāśaṅku</td>
+            <td class='grammar'>10<sup>17</sup></td>
+            <td class='grammar'>one hundred quadrillion</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>वृन्द</td>
+            <td class='grammar'>vṛnda</td>
+            <td class='grammar'>10<sup>22</sup></td>
+            <td class='grammar'>ten sextillion</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>महावृन्द</td>
+            <td class='grammar'>mahāvṛnda</td>
+            <td class='grammar'>10<sup>27</sup></td>
+            <td class='grammar'>one octillion</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <h2><a name='grammar'></a>Sanskrit grammar</h2>
+    <p>
+      Sanskrit has a number of grammatical characteristics that are not found in English.
+      Some of these are found in other European languages and even more of these characteristics
+      are found in ancient European languages and is generally closer in form to the Proto-Indo-European parent.
+      Sanskrit is an example of a <b>fusional language</b>, that is, a language where words are heavily inflected based
+      on gramatical function.
+      The characteristic of fusional languages is that there are many more morphemes than words.
+      English retains some of original fusional nature of the common parent Proto-Indo-European but word order  
+      and use of prepositions are much more important in determining gramatical function.
+      An <b>isolating language</b> has few words are inflected based on gramatical function.
+      Chinese is the classic example of an isolating language because it has no inflection of words.
+      English is regarded as largely an isolating language because there are far fewer inflections than fusional languages
+      like Sanskrit.
+    </p>
+    <p>
+      A <b>morpheme</b> is the smallest meaningful unit in a language.
+      It is not necessarily the same thing as a word, which may consist of several morphemes.
+      For example, <i>sing</i>, <i>sang</i>, and <i>sang</i> are all morphemes for one word.
+      In a good English dictionary you can find all the irregular inflections of words.
+      However, in Sanskrit there are far too many inflections for the dictionary to list them all.
+      This makes learning and analysing Sanskrit text a particular challenge.
+      See <i>The History of English: a Linguistic Introduction</i> [Scott 2008] for a readable introduction to
+      the kinds of inflections and gramatical structure of Proto-Indo-European examples in modern English.
+    </p>
+    <p>
+      This section will give a brief overview of Sanskrit grammar.
+      The basic goal of this section is to gain an overall picture of Sanskrit grammar and be able to apply that to the task
+      of looking up words you may encounter in a Sanskrit dictionary.
+      For a more comprehensive information on Sanksrit grammar see the <a href='#references'>References</a> section.
+    </p>
+    <h3><a name='nouns'></a>Nouns</h3>
+    <p>
+      Sanskrit nouns can be inflected with gender (male, female, and neuter), number (singular, dual, and plural), and case.
+      Grammatical case is inflection of a noun or pronoun to indicate its function within a sentence.
+      nouns can change when used within different grammatical contexts.
+      The two most fundamental cases are the <b>nominative case</b>, which usually marks a subject, and the 
+      <b>accusative case</b>, which marks the direct object of a transitive verb.  
+      In English there are no changes in case for nouns but there are some changes for pronouns. 
+      For example, in the English sentence, 'I saw him,' the word <em>I</em> is the nominative case and the word
+      <em>him</em> is the accusative case.  By contrast, in the English sentence, 'He saw me,' the word <em>me</em>
+      is the accusative case and the word <em>he</em> is the nominative.
+      This section will give a brief description of the ways that nouns are inflected.
+    </p>
+    <p>
+      There are eight grammatical cases in Sanskrit, which is the same as Proto-Indo-European.
+      Old English nouns had four of these: nominative, genative, dative, and accusative [Shay 2008].
+      The table below summarizes the different cases.
+    </p>
+    <p>
+      <table class='table table-bordered table-hover'>
+        <caption>Table 10: Summary of noun changes for grammatical case</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Case</th>
+            <th class='grammar'>Role</th>
+            <th class='grammar'>English</th>
+            <th class='grammar'>Example, vadhū (woman, singular)</th>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Nominative</td>
+            <td class='grammar'>Subject</td>
+            <td class='grammar'>I: <b>I</b> drank the water.</td>
+            <td class='grammar'>vadhūḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Vocative</td>
+            <td class='grammar'>Indicates the person addressed</td>
+            <td class='grammar'>Waiter: <b>Waiter</b>, please bring me some water.</td>
+            <td class='grammar'>vadhu</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Accusive</td>
+            <td class='grammar'>Direct object</td>
+            <td class='grammar'>Me: The waiter saw <b>me</b>.</td>
+            <td class='grammar'>vadhūm</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Instrumental</td>
+            <td class='grammar'>The instrument of an action</td>
+            <td class='grammar'>With water: I washed the dirt away <b>with water</b>.</td>
+            <td class='grammar'>vadhvā</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Dative</td>
+            <td class='grammar'>Indirect object</td>
+            <td class='grammar'>To me: The waiter gave some water <b>to me</b>.</td>
+            <td class='grammar'>vadhvai</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Ablative</td>
+            <td class='grammar'>Away from</td>
+            <td class='grammar'>From the house: The water ran away <b>from the house</b>.</td>
+            <td class='grammar'>vadhvāḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Genetive</td>
+            <td class='grammar'>Possessive</td>
+            <td class='grammar'>My: That is <b>my</b> water.</td>
+            <td class='grammar'>vadhvāḥ</td>
+          </tr>
+          <tr class='grammar'>
+            <td class='grammar'>Locative</td>
+            <td class='grammar'>Indicates a position</td>
+            <td class='grammar'>In the fridge: The water is <b>in the fridge</b>.</td>
+            <td class='grammar'>vadhvām</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      In the table above the last column give the inflected forms for the singular for vadhū woman 
+      (Devanagari: <a href='character_search.php?unicode=2357' onmouseover="showToolTip(this, 'Devanagari letter va', '')" onmouseout="hideToolTip()">व</a><a href='character_search.php?unicode=2343_2370' onmouseover="showToolTip(this, 'ध Devanagari letter dha + diacritic ू Devanagari vowel sign long u (IAST ū)', '')" 
+      onmouseout="hideToolTip()">धू</a>; IAST: vadhū; Chinese: 女人).
+      The stem form is vadhū.
+      The nominative case is usually marked with a <em>ḥ</em> ending and the accusative case is often marked with 
+      a <em>ṃ</em> ending.
+      For example, the stem form for teacher is ācārya (Devanagari: आचार्य; IAST: ācārya; Chinese: 阿阇黎), the nominative case is ācāryaḥ (Devanagari: आचार्यः), and the accusative case
+      is ācāryaṃ (Devanagari: आचार्यं).
+    <p>
+      This provides an important rule when searching dictionaries for Sanskrit words: 
+      when searching for a word ending in <em>ḥ</em> or <em>ṃ</em> remove the final letter to give the most likely
+      text for the reference form of the noun.
+      Usually, dictionaries will only list the reference form.
+      We will see below in the section <a href='#sentences'>Sentence Types</a> that adjectives describing nouns
+      are often modified to match the case of the noun.  So, this same convention applies to looking for adjectives
+      in dictionaries.
+    </p>
+    <p>
+      The instrumental case is used when a noun is the instrument of an action.  For example, if water 
+      (Denanagari: <a href='character_search.php?unicode=2332' onmouseover="showToolTip(this, 'Devanagari letter ja', '')" onmouseout="hideToolTip()">ज</a><a href='character_search.php?unicode=2354' onmouseover="showToolTip(this, 'Devanagari letter la', '')" 
+      onmouseout="hideToolTip()">ल</a>, IAST: jala, Chinese: 水)
+      is the agent of an action then the instrumental case jalena <a href='character_search.php?unicode=2332' onmouseover="showToolTip(this, 'Devanagari letter ja', '')" onmouseout="hideToolTip()">ज</a><a href='character_search.php?unicode=2354_2375' onmouseover="showToolTip(this, 'ल Devanagari letter la + diacritic े Devanagari vowel sign e', '')" onmouseout="hideToolTip()">ले</a><a href='character_search.php?unicode=2344' onmouseover="showToolTip(this, 'Devanagari letter na', '')" 
+      onmouseout="hideToolTip()">न</a> should be used.
+      More examples are the instrumental case for the word for the word for suffering (Devanagari: <a href='character_search.php?unicode=2342_2307' onmouseover="showToolTip(this, 'द Devanagari letter da + diacritic ः Devanagari sign visarga', '')" onmouseout="hideToolTip()">दः</a><a href='character_search.php?unicode=2326' onmouseover="showToolTip(this, 'Devanagari letter kha', '')" 
+      onmouseout="hideToolTip()">ख</a>, IAST: duḥkha, Chinese: 苦) duḥkhena <a href='character_search.php?unicode=2342_2366' onmouseover="showToolTip(this, 'द Devanagari letter da + diacritic ा Devanagari vowel sign ā', '')" onmouseout="hideToolTip()">दा</a><a href='character_search.php?unicode=2360_2375' onmouseover="showToolTip(this, 'स Devanagari letter sa + diacritic े Devanagari vowel sign e', '')" onmouseout="hideToolTip()">से</a><a href='character_search.php?unicode=2344' onmouseover="showToolTip(this, 'Devanagari letter na', '')" 
+      onmouseout="hideToolTip()">न</a>, and for yoga (Devanagari: <a href='character_search.php?unicode=2351_2379' onmouseover="showToolTip(this, 'य Devanagari letter ya + diacritic ो Devanagari vowel sign o', '')" onmouseout="hideToolTip()">यो</a><a href='character_search.php?unicode=2327' onmouseover="showToolTip(this, 'Devanagari letter ga', '')" 
+      onmouseout="hideToolTip()">ग</a>, IAST: yoga, Chinese: 瑜伽) yogena <a href='character_search.php?unicode=2351_2379' onmouseover="showToolTip(this, 'य Devanagari letter ya + diacritic ो Devanagari vowel sign o', '')" onmouseout="hideToolTip()">यो</a><a href='character_search.php?unicode=2327_2375' onmouseover="showToolTip(this, 'ग Devanagari letter ga + diacritic े Devanagari vowel sign e', '')" onmouseout="hideToolTip()">गे</a><a href='character_search.php?unicode=2344' onmouseover="showToolTip(this, 'Devanagari letter na', '')" 
+      onmouseout="hideToolTip()">न</a>.
+    </p>
+    <p>
+      The ablative case is the fifth case in Sanskrit.  It indicates motion away from an object or that the object is the
+      source of an action.
+    </p>
+    <h3><a name='verbs'></a>Verbs</h3>
+    <p>
+      Sanskrit verbs can be modified based on tense, aspect, mood, number, and person.
+      This modification is known as <strong>inflection</strong>, which is the modification of words to fit with the 
+      grammatical structure of the text that they are part of.
+      For example, in English the inflected forms of the stem <i>work</i> are work, works, working, and worked.
+      There are also other forms with prefixes, for example <i>rework</i>.
+      Inflection is a source of great difficulty for learners of English as a second lanugage but Sanskrit is much richer in 
+      inflected forms of verbs.
+      For more on the concepts behind inflection in languages in general see the book <i>Linguistics</i> 
+      [Baker and Hengeveld, 2012 chaper 12].
+    </p>
+    <p>
+      A simple example of verb inflection is for first second and third person is shown in the table below.
+      <table class='table table-bordered table-hover'>
+        <caption>Table 11: Verb Inflection for First, Second, and Third Person</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>&nbsp;</th>
+            <th class='grammar'>English<br/>Pronoun</th>
+            <th class='grammar' colspan='4'>Sanskrit Verbs</th>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Root</th>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>√gam</td>
+            <td class='grammar'>√prach</td>
+            <td class='grammar'>√bhū</td>
+            <td class='grammar'>√vas</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Stem</th>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>gaccha</td>
+            <td class='grammar'>pṛccha</td>
+            <td class='grammar'>bhava</td>
+            <td class='grammar'>vasa</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>English</th>
+            <td class='grammar'>&nbsp;</td>
+            <td class='grammar'>go</td>
+            <td class='grammar'>ask</td>
+            <td class='grammar'>become</td>
+            <td class='grammar'>live</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Third Person</th>
+            <td class='grammar'>He, she</td>
+            <td class='grammar'>gacchati</td>
+            <td class='grammar'>pṛcchati</td>
+            <td class='grammar'>bhavati</td>
+            <td class='grammar'>vasati</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Second Person</th>
+            <td class='grammar'>You</td>
+            <td class='grammar'>gacchasi</td>
+            <td class='grammar'>pṛcchasi</td>
+            <td class='grammar'>bhavasi</td>
+            <td class='grammar'>vasasi</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>First Person</th>
+            <td class='grammar'>I</td>
+            <td class='grammar'>gacchāmi</td>
+            <td class='grammar'>pṛcchāmi</td>
+            <td class='grammar'>bhavāmi</td>
+            <td class='grammar'>vasāmi</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      Sanskrit has dual verbs, which is a concept that English does not.
+      This combines with the first, second, and third person forms.
+      For example, gaccha (go) becomes gacchatah (gaccha + tas) those two go
+      <table class='table table-bordered table-hover'>
+        <caption>Table 12: Dual Forms of Verbs</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>Person</th>
+            <th class='grammar'>Dual</th>
+            <th class='grammar'>Stem + Suffix</th>
+            <th class='grammar'>English</th>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Third person</th>
+            <td class='grammar'>gacchataḥ</td>
+            <td class='grammar'>gaccha + tas</td>
+            <td class='grammar'>those two go</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>Second person</th>
+            <td class='grammar'>gacchathaḥ</td>
+            <td class='grammar'>gaccha + thas</td>
+            <td class='grammar'>you two go</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>First person</th>
+            <td class='grammar'>gacchāvaḥ</td>
+            <td class='grammar'>gaccha + a + vas</td>
+            <td class='grammar'>we two go</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      The ending tas becomes taḥ when the word is a verb. Similarly, for the first and second 
+      person forms.
+    </p>
+    <p>
+      Thematic vowels are inserted into words after the stem and before the ending.
+      Thematic vowels are not used in English.
+      In Sanskrit the theme vowel is <a href='character_search.php?unicode=2309' onmouseover="showToolTip(this, 'Devanagari letter a', '')" 
+      onmouseout="hideToolTip()">अ</a>(a).
+      The presence or absence of thematic vowels divides verbs into thematic verbs and athematic verbs.
+    </p>
+    <p>
+      There are ten classes of conjugation of Sanskrit verbs.  These are referred to as classes I through X.
+      Classes I, IV, VI, and X are thematic and the other classes are athematic.
+      Conjugation is based on a stem, which may not be a verb in its own right.
+      Conjugation of thematic verbs is by strengthening vowels.  
+      There are two successive grades of strengthening: guṇa and vṛddhi.
+      The vowel strengthening is shown in the table below.
+      <table class='table table-bordered table-hover'>
+        <caption>Table 13: Vowel Strengthening</caption>
+        <tbody class='grammar'>
+          <tr class='grammar'>
+            <th class='grammar'>basic</th>
+            <td class='grammar'>a,ā</td>
+            <td class='grammar'>i, ī</td>
+            <td class='grammar'>u, ū</td>
+            <td class='grammar'>ṛ, ṝ</td>
+            <td class='grammar'>ḷ</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>guṇa</th>
+            <td class='grammar'>a</td>
+            <td class='grammar'>e</td>
+            <td class='grammar'>o</td>
+            <td class='grammar'>ar</td>
+            <td class='grammar'>al</td>
+          </tr>
+          <tr class='grammar'>
+            <th class='grammar'>vṛddhi</th>
+            <td class='grammar'>ā</td>
+            <td class='grammar'>ai</td>
+            <td class='grammar'>au</td>
+            <td class='grammar'>ār</td>
+            <td class='grammar'>āl</td>
+          </tr>
+        </tbody>
+      </table>
+    </p>
+    <p>
+      In many examples the third person singular ति ti (English he) is added to the stem.
+      For thematic classes an 'a' will inserted before this.
+      For example, the class I form भर् bhar (English: bear) becomes भरति bharati (English: he bears).
+      This is dervied from the stem भ्र् bhr by the vowel degredation process above.
+    </p>
+    <p>
+      There are four tense systems in Sanskrit:
+      <ul>
+        <li>Present</li>
+        <li>Perfect</li>
+        <li>Aorist</li>
+        <li>Future</li>
+      </ul>
+    </p>
+    <p>
+      There are four forms in the present system: present tense, imperfect, operative mood, and imperative mood.
+    </p>
+    <h4 class='table table-bordered table-hover'><a name='past_participle'></a>Past Participle</h4>
+    <p>
+      A participle is the form of a verb used when it acts as a modifier.  For example, in English the 
+      word <i>acting</i> is the present participle of the verb <i>act</i>, as in the phrase <i>acting director</i>.
+      The word <i>attached</i> is the past participle of the verb <i>attach</i>, as in the phrase <i>attached files</i>.
+      Another example in English is the past particle <i>sunken</i>, as used in the phrase <i>sunken treasure</i>.
+      In Sanskrit the past particple is formed by appending one of <i>-ta</i>, <i>-ita</i>, or <i>-na</i> to the stem.
+    </p>
+    <p>
+      Examples of the first form with ending in <i>-ta</i> are <i>hata</i> (Devanagari: <a href='character_search.php?unicode=2361' onmouseover="showToolTip(this, 'Devanagari letter ha', '')" onmouseout="hideToolTip()">ह</a><a href='character_search.php?unicode=2340' onmouseover="showToolTip(this, 'Devanagari letter ta', '')" 
+      onmouseout="hideToolTip()">त</a>, IAST: hata, Chinese: 殺) meaning killed, which modifies the stem <i>han</i>, and
+      <i>sthita</i> (Devanagari: <a href='character_search.php?unicode=2360_2381' onmouseover="showToolTip(this, 'स Devanagari letter sa + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" onmouseout="hideToolTip()">स्</a><a href='character_search.php?unicode=2341_2367' onmouseover="showToolTip(this, 'थ Devanagari letter tha + diacritic ि Devanagari vowel sign i', '')" onmouseout="hideToolTip()">थि</a><a href='character_search.php?unicode=2340' onmouseover="showToolTip(this, 'Devanagari letter ta', '')" 
+      onmouseout="hideToolTip()">त</a>, IAST: sthita, Chinese: 站) meaning standing or remaining standing, which modifies the stem 
+      <i>sthā</i>.
+      In some cases there are modifications for internal sandhi.
+    </p>
+    <p>
+      An example of the second form with ending in <i>-ita</i> is patita (Devanagari: <a href='character_search.php?unicode=2346' onmouseover="showToolTip(this, 'Devanagari letter pa', '')" onmouseout="hideToolTip()">प</a><a href='character_search.php?unicode=2340_2367' onmouseover="showToolTip(this, 'त Devanagari letter ta + diacritic ि Devanagari vowel sign i', '')" onmouseout="hideToolTip()">ति</a><a href='character_search.php?unicode=2340' onmouseover="showToolTip(this, 'Devanagari letter ta', '')" 
+      onmouseout="hideToolTip()">त</a>, IAST: patita, Chinese: 落) meaning fallen.
+    </p>
+    <h3><a name='function'></a>Function Words</h3>
+    <p>
+      A clitic is a function word that depends on a connected word for its pronunciation.
+      For example, in English either the clitic <i>a</i> or the clitic <i>an</i> is chosen based on the word
+      that follows it.  For example, <i>a</i> banana or <i>an</i> orange.
+      The English articles <i>a</i> and <i>an</i> are proclitics because they appear before their hosts.
+      The English possessive marker <i>'s</i> is an enclitic because appears after its host.
+      Clitics are often particles, which are uninflected function words.
+      Sanskrit also has clitics but they are different in form compared to English.
+    </p>
+    <p>
+      The Sanskrit enclitic particle <i>eva</i> (Devanagari: <a href='character_search.php?unicode=2319' onmouseover="showToolTip(this, 'Devanagari letter e', '')" onmouseout="hideToolTip()">ए</a><a href='character_search.php?unicode=2357' onmouseover="showToolTip(this, 'Devanagari letter va', '')" 
+      onmouseout="hideToolTip()">व</a>) emphasizes the previous word.
+      It may be translated into Enlish or Chinese as <i>really</i> (Chinese: 真).
+    </p>
+    <p>
+      The enclitic particle <i>vā</i> (Devanagari: <a href='character_search.php?unicode=2357_2366' onmouseover="showToolTip(this, 'व Devanagari letter va + diacritic ा Devanagari vowel sign ā', '')" 
+      onmouseout="hideToolTip()">वा</a>, Chinese: 
+      The enclitic particle <i>vā</i> (Devanagari: <a href='character_search.php?unicode=2357_2366' onmouseover="showToolTip(this, 'व Devanagari letter va + diacritic ा Devanagari vowel sign ā', '')" 
+      onmouseout="hideToolTip()">वा</a>, Chinese: 或) is an enclytic particle used to form a disjunction (or), as in ... vā ... 
+      vā (either .. or ..).
+      The enclitic particle <i>ca</i> (Devanagari: <a href='character_search.php?unicode=2330' onmouseover="showToolTip(this, 'Devanagari letter ca', '')" 
+      onmouseout="hideToolTip()">च</a>, Chinese: 和) is similar for the English word <i>and</i>.
+    </p>
+    <p>
+      A demonstrative pronoun is a function word that refers to something, usually represented by a noun or pronoun
+      elsewhere in the text.  Examples of demonstrative pronouns in English are <i>this</i> and <i>that</i>.
+      The Sanskrit word eṣaḥ (Devanagari: <a href='character_search.php?unicode=2319' onmouseover="showToolTip(this, 'Devanagari letter e', '')" onmouseout="hideToolTip()">ए</a><a href='character_search.php?unicode=2359_2307' onmouseover="showToolTip(this, 'ष Devanagari letter ssa + diacritic ः Devanagari sign visarga', '')" 
+      onmouseout="hideToolTip()">षः</a>, Chinese: 这) is similar to the word <i>this</i> in English.
+      The Sanskrit word saḥ (Devanagari: <a href='character_search.php?unicode=2360_2307' onmouseover="showToolTip(this, 'स Devanagari letter sa + diacritic ः Devanagari sign visarga', '')" 
+      onmouseout="hideToolTip()">सः</a>, Chinese: 那) is the masculine form of the word <i>that</i> in English.
+      The Sanskrit word sā(Devanagari: <a href='character_search.php?unicode=2360_2366' onmouseover="showToolTip(this, 'स Devanagari letter sa + diacritic ा Devanagari vowel sign ā', '')" 
+      onmouseout="hideToolTip()">सा</a>, Chinese: 那) is the feminine form of the word <i>that</i> in English.
+      Notice that Chinese, like English, does not use gender in pronouns, except in the personal pronouns
+      <i>he</i> and <i>she</i>.
+    </p>
+    <p>
+      The words <i>kṛtam</i> (Devanagari: <a href='character_search.php?unicode=2325_2371' onmouseover="showToolTip(this, 'क Devanagari letter ka + diacritic ृ Devanagari vowel sign vocalic r (IAST ṛ)', '')" onmouseout="hideToolTip()">कृ</a><a href='character_search.php?unicode=2340' onmouseover="showToolTip(this, 'Devanagari letter ta', '')" onmouseout="hideToolTip()">त</a><a href='character_search.php?unicode=2350_2381' onmouseover="showToolTip(this, 'म Devanagari letter ma + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" 
+      onmouseout="hideToolTip()">म्</a>, Chinese: 夠) and <i>alam</i> (Devanagari: <a href='character_search.php?unicode=2309' onmouseover="showToolTip(this, 'Devanagari letter a', '')" onmouseout="hideToolTip()">अ</a><a href='character_search.php?unicode=2354' onmouseover="showToolTip(this, 'Devanagari letter la', '')" onmouseout="hideToolTip()">ल</a><a href='character_search.php?unicode=2350_2381' onmouseover="showToolTip(this, 'म Devanagari letter ma + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" 
+      onmouseout="hideToolTip()">म्</a>, Chinese: 夠) mean <i>enough</i>. They are used to exhort somebody against doing something.
+    </p>
+    <p>
+      Sanskrit interrogative words usually begin with a <em>k</em>, like the <em>wh</em> words in
+      English (what, where, etc). The Sanskrit word for where is kutra.
+    </p>
+    <h3><a name='compound'></a>Compound Words</h3>
+    <p>
+      A compound word is one formed from multiple stems.
+      This is also one of the major processes of forming new words in the world's languages.
+      For example, <em>barefoot</em> in English.
+      Sanskrit has both short and long compound words but
+      long compound words is one of the particular characteristics of the language.
+      An example of a short compund is हिमालय himālaya, formed from two words, literally meaning abode of snow.
+      An example of a longer compound is the Sanskrit name for the Sutra of the Medicine Buddha भैषज्यगुरुवैदूर्यप्रभराजसूत्रम्
+      (IAST: bhaiṣajyaguruvaidūryaprabharājasūtram).
+      The lack of space between the words makes it very difficult for native English speakers to read.
+      Also, unlike English and Chinese, the number of combinations is unlimited and cannot be listed in dictionaries.
+    </p>
+    <p>
+      If we do not recognise the parts of a compound word, how can we find out what they are?
+      There are a number of characteristics of compound words that give clues.
+      One clue is that, whereas most Sanskrit words are inflected in some way,
+      the indivual parts, except the last part, of Sanskrit compound words are all in stem form.
+      Stem form is the form given in dictionaries and lacks an ending that indicates case.
+      For example, aśva (horse) is a stem form.
+    </p>
+    <p>
+      A coordinative compound is compound that joins the parts together with the same meaning as the English
+      conjunction <i>and</i>.
+      For example, ācārya-śiṣya (Devanagari: <a href='character_search.php?unicode=2310' onmouseover="showToolTip(this, 'Devanagari letter a', '')" onmouseout="hideToolTip()">आ</a><a href='character_search.php?unicode=2330_2366' onmouseover="showToolTip(this, 'च Devanagari letter ca + diacritic ा Devanagari vowel sign ā', '')" onmouseout="hideToolTip()">चा</a><a href='character_search.php?unicode=2352_2381' onmouseover="showToolTip(this, 'र Devanagari letter ra + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" onmouseout="hideToolTip()">र्</a><a href='character_search.php?unicode=2351' onmouseover="showToolTip(this, 'Devanagari letter ya', '')" onmouseout="hideToolTip()">य</a><a href='character_search.php?unicode=2358_2367' onmouseover="showToolTip(this, 'श Devanagari letter sha + diacritic ि Devanagari vowel sign i', '')" onmouseout="hideToolTip()">शि</a><a href='character_search.php?unicode=2359_2381' onmouseover="showToolTip(this, 'ष Devanagari letter ssa + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" onmouseout="hideToolTip()">ष्</a><a href='character_search.php?unicode=2351' onmouseover="showToolTip(this, 'Devanagari letter ya', '')" 
+      onmouseout="hideToolTip()">य</a>) means teacher and pupil.
+      The number of the compound is the sum of the number of each part.  For example,
+      the word for parents, literally mother and father, mātāpitarau (Devanagari: <a href='character_search.php?unicode=2350_2366' onmouseover="showToolTip(this, 'म Devanagari letter ma + diacritic ा Devanagari vowel sign ā', '')" onmouseout="hideToolTip()">मा</a><a href='character_search.php?unicode=2340_2366' onmouseover="showToolTip(this, 'त Devanagari letter ta + diacritic ा Devanagari vowel sign ā', '')" onmouseout="hideToolTip()">ता</a><a href='character_search.php?unicode=2346_2367' onmouseover="showToolTip(this, 'प Devanagari letter pa + diacritic ि Devanagari vowel sign i', '')" onmouseout="hideToolTip()">पि</a><a href='character_search.php?unicode=2340' onmouseover="showToolTip(this, 'Devanagari letter ta', '')" onmouseout="hideToolTip()">त</a><a href='character_search.php?unicode=2352_2380' onmouseover="showToolTip(this, 'र Devanagari letter ra + diacritic ौ Devanagari vowel sign au', '')" 
+      onmouseout="hideToolTip()">रौ</a>; Chinese: 父母) is in dual form.
+    </p>
+    <h3><a name='sentences'></a>Sentences</h3>
+    <p>
+      One of the simplest types of sentence in Sanskrit is the nominal sentence.
+      In this type of sentence an adjective is placed in front of a verb.
+      The type and number of the adjective has to agree with the type and number of the noun.
+      For example, 
+    </p>
+    <p>
+      &nbsp; &nbsp; <a href='character_search.php?unicode=2358_2368' onmouseover="showToolTip(this, 'श Devanagari letter sha + diacritic ी Devanagari vowel sign long i (IAST ī)', '')" onmouseout="hideToolTip()">शी</a><a href='character_search.php?unicode=2328_2381' onmouseover="showToolTip(this, 'घ Devanagari letter gha + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" onmouseout="hideToolTip()">घ्</a><a href='character_search.php?unicode=2352_2380' onmouseover="showToolTip(this, 'र Devanagari letter ra + diacritic ौ Devanagari vowel sign au', '')" onmouseout="hideToolTip()">रौ</a><a href='character_search.php?unicode=32' onmouseover="showToolTip(this, 'Space', '')" onmouseout="hideToolTip()"> </a><a href='character_search.php?unicode=2309' onmouseover="showToolTip(this, 'Devanagari letter a', '')" onmouseout="hideToolTip()">अ</a><a href='character_search.php?unicode=2358_2381' onmouseover="showToolTip(this, 'श Devanagari letter sha + diacritic ् Devanagari vowel sign virama (omit schwa a)', '')" onmouseout="hideToolTip()">श्</a><a href='character_search.php?unicode=2357_2380' onmouseover="showToolTip(this, 'व Devanagari letter va + diacritic ौ Devanagari vowel sign au', '')" 
+      onmouseout="hideToolTip()">वौ</a> | śīghrau aśvau | the two horses are swift
+    </p>
+    <p>
+      Here the dual form for horse <em>aśvau</em> is used so the adjective swift <em>śīghrau</em> must match it.
+      Compare that to the reference forms for horse <em>aśva</em> and swift <em>śīghra</em>.
+      This example can also act as a phrase meaning the two swift horses.
+      This kind of adjective-noun agreement provides another example of word changes that need to be accounted for
+      when searching for the reference forms in dictionaries.
+    </p>
+    <p>
+      In English and Chinese grammatical function within a sentence is usually determined by word order.
+      Most often in English and Chinese the subject comes first followed by a verb followed by the object.
+      For example, if we change the sentence <em>The batsman hit the ball</em> to 
+      <em>The ball hit the batsman</em>, the meaning is changed entirely.
+      In contrast, grammatical function is most often marked by changes in word forms in Sanskrit than word order.
+      The word order may be changed without changing the meaning.
+    </p>
+    <h3>Translation and transliteration conventions</h2>
+    <p>
+      When transliteration is used and when meaning is translated in translating from Sanskrit to Chinese.
+      Transliteration was mostly used when for names of a people and places.
+      In addition, according to ..., transliteration was used when (1) there was no 
+      equivalent word in Chinese, (2) when there was more than one meaning, and (3) when there was a secret meaning.
+    </p>
+    <h2><a name='phonetics'></a>Basics of phonetics</h2>
+    <p>
+      Some of the vowels and consonants in Sanskrit can be difficult to describe without some technical phonetics terms.
+      In addition, the are various resources on Sanskrit can be difficult to understand without a background in phonetics.
+      This section is included to provide a simple explanation of some of the basic terms.
+      Often the IPA symbols are written in between forward slashes //, used for a phonetic description of how the sounds should be
+      understood.
+      Usually, a <em>broad transcription</em>, which is a phonetic approximation, is given.
+      Occasionally, square brackets [] are used, indicating what is actually spoken.
+      In this case, a <em>narrow transcription</em>, which is a more accurate phonetic description, may be given.
+    </p>
+    <p>
+      A <em>voiced consonant</em> is articulated with the vocal chords vibrating producing sound.
+      The English consonant [b] is an example of a voiced consonant.
+      An <em>voiceless sound</em> is articulated without the vocal chords vibrating.
+      For example, the English consonant [p] is the voiceless equivalent of the voiced consonant [b].
+    </p>
+    <p>
+      An oral stop, also known as a plosive consonant, blocks all of the airflow for a brief period as the sound is articulated.
+      The air can be blocked with the blade of the tongue, the body of the tongue, or the lips.
+      If the air is blocked with the blade of the tongue, as with the English consonants [t] and [d], it is called a
+      <em>apical consonant</em>.
+      If the air is blocked with the body of the tongue, as with the English consonants [k] and [g], then it is called a
+      <em>velar consonant</em>.
+      If the air is blocked with the lips, as with the English consonants [b] and [p] then it is called a
+      <em>bilabial consonant</em>.
+    </p>
+    <p>
+      With a <em>nasal stop</em> sound is articulated through the nose, for example with English [m] and [n].
+    </p>
+    <p>
+      An <em>approximant consonant</em> is between a fricative and a vowel.
+      An important class of approximant is the <em>liquid consonant</em> class.
+      A liquid consonant is either a lateral consonant or a rhotic consonant.
+      A <em>lateral consonant</em> is articulated with air flowing through the sides of the mouth and the center blocked.
+      An example is the English consonant l.
+      A <em>rhotic consonant</em> is an r-like sound.
+    </p>
+    <p>
+      An <em>aspirated</em> is one that is accompanied by a burst of air.
+      For example, in English the b in <u>b</u>in is aspirated but the p in <u>p</u>in is not.
+    </p>
+    <p>
+      A <em>retroflex consonant</em> is articulated with a curled tongue as in the English
+      sh in <u>sh</u>ip, ch in <u>ch</u>ip and s in vi<u>s</u>ion, and also s in <u>s</u>ip and z in <u>z</u>ip.
+    </p>
+    <p>
+      A <em>fricative consonant</em> is produced by forcing air in the mouth through a narrow channel.
+      English examples are s and z.
+    </p>
+    <p>
+      See the University College London
+      <em>Educational Resources in Speech, Hearing and Phonetic Sciences</em> page listed in the 
+      <a href='#references'>References</a> section for web tutorials on phonetics.
+      For more comprehensive information see the book <em>Phonetics: Transcription, Production, Acoustics, and Perception</em> (2011)
+      by Henning Reetz and Allard Jongman.
+    </p>
+    <h2><a name='electronic'></a>Working with Sanskrit in electronic form</h2>
+    <h3>Displaying Indic text</h2>
+    <p>
+      To display Sanskrit text you will need at least one font installed that can display Devanagari.
+      You will most likely be reading Unicode encoded documents.
+      It is wise to have a Unicode font installed with a wide range that includes the Devanagari Unicode range.
+      It is likely that the basic Unicode font that you have installed will not cover the Devanagari Extended range.
+      However, you may be able to do without that to display most documents.
+      See Alan Wood’s Unicode Resources listed in the <a href='#references'>References</a> section for links to fonts that can
+      display Devanagari text and instructions for installing the fonts on different platforms.
+    </p>
+    <p>
+      For information on Pracalita script and fonts, see the SIL ScriptSource page on Newar and the proposal to add Newar script to
+      Unicode (Pandey 2012).
+      For information on Ranjana script and fonts, see the SIL ScriptSource page on Ranjana.
+    </p>
+    <h3>Searching text</h2>
+    <p>
+      One initial difficulty with Devanagari for searching within single text documents are the diacritics for vowels after 
+      consonants in addition to anusvāra (nasalization).
+      Commonly, you will see a letter in a word and search for it but not find it in a table of Devanagari letters.
+      This is because the diacritics interfere with the search mechanism.
+      If you are dealing with your own documents then the solution is to use a transliteration tool to find out how to pronounce
+      the letter.
+    </p>
+    <p>
+      A similar problem occurs when search for terms on the web.
+      This can be troublesome when searching for difficult terms, especially names or people 
+      and places in historic times, on the web.
+      Again you can use transliteration tools if you are doing the searching.
+      If you are creating web pages then it is a good practice to provide the Devanagari and also the IAST and Latin transliterations.
+    </p>
+    <h3>Entering and saving Sanskrit text</h2>
+    <p>
+      Store files in UTF-8 format.  You should see this as an option when saving files.
+      That way you will be able to work with Devanagari, IAST, and Chinese all in the same file.
+    </p>
+    <p>
+      To read Sanskrit you will need to have the correct fonts installed.  You will know if you do not have the correct fonts 
+      installed if you see square boxes.  A good Unicode font may provide all the support you need. If that is not sufficient
+      then try installing fonts for Sanskrit, Devanagari, Indian languages, and Hindi.  If you have trouble with IAST characters
+      try installing extended Latin.
+    </p>
+    <p>
+      Input methods for Devanagari are readily available.  They may be listed as either Sanskrit, Devanagari, or Hindi.
+      Try Sanskrit as a first choice and Devanagari or Hindi as second choice.
+      On my workstation, a Linux Ubuntu system, Sanksrit is supported directing as a system language.
+    </p>
+    <p>
+      IAST may be more of a challenge to input.  You will probably need conversion tool to convert Devanagari to IAST.  
+      Try the IAST-Devanagari-IAST Converter listed in the <a href="#references">References</a> section.
+      This tool is also useful for converting IAST to Devanagari.
+      If you are stuck on an input tool for Devanagari then you can use the Harvard-Kyoto scheme, which relies only on 
+      Latin characters.  Then you can use a converter like Indian.language.unicode.converters
+      (see <a href="#references">References</a>) to convert to Devanagari.
+    </p>
+    <p>
+      In addition to Unicode ranges for Devanagari and Devanagari Extended there are also Unicode ranges for Brahmi and also for
+      Vedic Extensions.
+      See Alan Wood’s Unicode Resources listed in the <a href='#references'>References</a> section for listings of these
+      Unicode ranges with numeric codes.
+    </p>
+    <h3><a name='ipa'></a>Displaying and Working with International Phonetic Alphabet Symbols</h2>
+    <p>
+      You may have problems displaying International Phonetic Alphabet (IPA) Symbols if you do not have the correct fonts
+      installed.
+      See the page <em>The International Phonetic Alphabet in Unicode</em> by John Wells for links to fonts capable of displaying
+      IPA Symbols and for their Unicode values.
+      Diacritics can be specified by adding the Unicode symbol for the diacritic after the regular Latin letter.
+      For example, to add a tilda &nbsp; &#771; to the symbol /&#596;/ enter the HTML code below.
+    </p>
+    <div class="code">&amp;#596;&amp;#771; /&#596;&#771;/</div>
+    <p>
+      The web page <em>Unicode Entity Codes for Phonetic Diacritics</em> by Penn State University lists the 
+      codes for the diacritics and explains how to use them in HTML pages.
+    </p>
+    <h2><a name="references"></a>References</h2>
+    <p>
+      There are a number of useful software tools below. In preparing this page I constantly used the 
+      IAST-Devanagari-IAST Converter from ePandit Labs.
+      The Sanskrit Heritage Site has a number of tools for analyzing Sanskrit grammar, including tools for declination of stems,
+      conjugation of verbs, segmenting sentences, and sandhi conversion.
+      The Spoken Sanskrit site has a dictionary that is easy to use and a Sandhi tool.
+      This is the dictionary that I have had the best experience with.
+    </p>
+    <p>
+      There are many resources for learning more about Sanskrit below.
+      The Sanskrit Voice and Sanskrit Studies web site has resources for contemporary use of Sanskrit and links to places to study 
+      Sanksrit in India.
+      The American Sanskrit Institute web site has links for places to study in the United States.
+      The ITT Madras Learn Sanskrit page has online resources for learning Sanskrit, including sound files.
+      The book Fanyu Keben [Luo Shifang, 2012] is a good resource for Chinese to Sanskrit, although it is written in 
+      Chinese.
+    </p>
+    <p>
+      The National University of Taiwan Digital Library and Buddhist Studies page has resources for Buddhist texts written in 
+      Sanskrit and online Sanskrit lessons with based on Buddhist texts.
+      The Buddhist Door Dictionary has IAST transliterations of many Buddhist terms.
+      Many dictionaries and sources do not use standard transliterations, making it hard to determine the 
+      Devanagari text.
+    </p>
+    <p>
+      A number of references on Sanskrit used technical linguistics concepts.
+      Understanding these concepts can be very useful in studying Sanskrit and you can find books explaining the subject
+      in list below, including Baker and Hengeveld [2012], Culicover [2009], Henning Reetz and Allard Jongman, and 
+      Saeed [2011].
+      The book <i>The History of English: a Linguistic Introduction</i> by Shay [2008] gives a background on the 
+      history of Indo-European languages and the principles of the changes that took place over time.
+    </p>
+    <p>
+      For an introduction to Hindu concepts see the explanation in the book 
+      <i>Bhagavad Gita</i> [Schweig 2007].
+    </p>
+    <ol>
+      <li>
+        <i>American Sanskrit Institute</i>, web site at 
+        <a href='http://www.americansanskrit.com/'>www.americansanskrit.com/</a>.
+      </li>
+      <li>
+        Ashtanga Yoga, <i>Transliteration & Transkription Tool</i>, at 
+        <a href='http://www.ashtangayoga.info/philosophy/transkription-tool/'>www.ashtangayoga.info/philosophy/transkription-tool/</a>.
+      </li>
+      <li>
+        Baker, A. E. and Hengeveld K., 2012.  <i>Linguistics</i>.  Wiley-Blackwell, ISBN 978-0-631-23035-9 (cloth),
+        ISBN 978-0-631-23036-6 (pbk).
+      </li>
+      <li>
+        <i>Buddhist Door Dictionary</i>, <a href='http://glossary.buddhistdoor.com/en/'>glossary.buddhistdoor.com/en/</a>.
+      </li>
+      <li>
+        Culicover, P., 2009. <i>Natural Language Syntax</i>, Oxford University Press, ISBN 978-0-19-923018-1. 
+      </li>
+      <li>
+        Egenes, Thomas. <i>Introduction to Sanskrit: Part One</i>. Motilal Barnarsidass Publishers, 
+        New Delhi, Forth Edition, 2011. ISBN 978-81-208-1140-9.
+      </li>
+      <li>
+        <i>Gayathrimanthra Library</i>, at <a href='http://www.gayathrimanthra.com/Library.html'>www.gayathrimanthra.com/Library.html</a>.  
+        Hindu texts in Sanskrit.
+      </li>
+      <li>
+        Gethin 1998. <i>The Foundations of Buddhism</i>, Oxford University Press, ISBN 0-19-289223-1.
+      </li>
+      <li>
+        Henning Reetz and Allard Jongman, <i>Phonetics: Transcription, Production, Acoustics, and Perception</i>,
+        John Wiley, ISBN-13: 9781444358544. 
+      </li>
+      <li>
+        ITT Madras, <i>Learn Sanskrit</i> page, 
+        <a href='http://acharya.iitm.ac.in/sanskrit/tutor.html'>acharya.iitm.ac.in/sanskrit/tutor.html</a>.
+      </li>
+      <li>
+        Jayapal Chandran, <i>Sanskrit (Harvard-Kyoto scheme) converter</i>, at 
+        <a href='http://vikku.info/indian-language-unicode-converter/sanskrit-unicode-converter.html'>vikku.info/indian-language-unicode-converter/sanskrit-unicode-converter.html</a>.
+      </li>
+      <li>
+        Luo Shifang, 2012.  Fanyu Keben (Sanskrit Textbook), Commercial Press, ISBN 978-7-100-01005-4 (in Chinese).
+      </li>
+      <li>
+        Macdonnell, Arthur Anthony, 2009.  <i>A Practical Sanskrit Dictionary</i>. Online at 
+        <a href='http://dsal.uchicago.edu/dictionaries/macdonell/index.html'>http://dsal.uchicago.edu/dictionaries/macdonell/index.html</a>.
+      </li>
+      <li>
+        National University of Taiwan, <i>Digital Library and Institute of Buddhist Studies</i>,
+        <a href='http://buddhism.lib.ntu.edu.tw/BDLM/en/'>buddhism.lib.ntu.edu.tw/BDLM/en/</a>
+      </li>
+      <li>
+        Omniglot <i>International Phonetic Alphabet</i> page, 
+        <a href='http://www.omniglot.com/writing/ipa.htm'>www.omniglot.com/writing/ipa.htm</a>.
+      </li>
+      <li>
+        Omniglot <i>Sanskrit</i> page, <a href='http://www.omniglot.com/writing/sanskrit.htm'>www.omniglot.com/writing/sanskrit.htm</a>.
+      </li>
+      <li>
+        Pandey, Anshuman. <i>Proposal to Encode the Newar Script in ISO/IEC 10646</i>. February 29, 2012. 
+        <a href="http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4184.pdf">http://std.dkuug.dk/jtc1/sc2/wg2/docs/n4184.pdf</a>.
+      </li>
+      <li>
+        Penn State University, 2011.  <i>Unicode Entity Codes for Phonetic Diacritics</i>, at 
+        <a href='http://tlt.its.psu.edu/suggestions/international/bylanguage/ipavowels.html'>http://tlt.its.psu.edu/suggestions/international/bylanguage/ipavowels.html</a>
+      </li>
+      <li>
+        Saeed, J., 2011.  <i>Semantics (Introducing Linguistics)</i>, Wiley-Blackwell, ASIN: B005UQCWQO.
+      </li>
+      <li>
+        Sanskrit Documents, <i>Conjungate Consonants</i> page, at 
+        <a href='http://sanskritdocuments.org/learning_tutorial_wikner/P058.html'>sanskritdocuments.org/learning_tutorial_wikner/P058.html</a>.
+      </li>
+      <li>
+        <i>Sanskrit Heritage</i> web site, at <a href='http://sanskrit.inria.fr/'>http://sanskrit.inria.fr/</a>.
+      </li>
+      <li>
+        <i>Sanskrit Library</i>, web site, <a href='http://sanskritlibrary.org/'>sanskritlibrary.org</a>.
+      </li>
+      <li>
+        <i>Sanskrit Studies</i>, web site, <a href='http://www.sanskritstudies.org/'>www.sanskritstudies.org</a>.
+      </li>
+      <li>
+        <i>Sanskrit Vocie</i>, web site, <a href='http://sanskritvoice.com/'>sanskritvoice.com</a>.
+      </li>
+      <li>
+        SIL, ScriptSource Project, entry on Newar (Prachalit) script, 
+        <a href='http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qabc'>http://scriptsource.org/cms/scripts/page.php?item_id=script_detail&key=Qabc</a>.
+      </li>
+      <li>
+        SIL, ScriptSource Project, entry on Ranjana script, 
+        <a href='http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=lpplwxbtb7'>http://scriptsource.org/cms/scripts/page.php?item_id=entry_detail&uid=lpplwxbtb7</a>.
+      </li>
+      <li>
+        Shay, Scott, 2008. <i>The History of English: a Linguistic Introduction</i>, Wardja Press, 
+        ISBN 978-0-6151-6817-3.
+      </li>
+      <li>
+        Shen Fuwei, 2009.  <i>Cultural Flow between China and the Outside World throughout History</i>, 
+        Foreign Languages Press, Beijing, ISBN 978-7-119-05753-8.
+      </li>
+      <li>
+        Shrish Benjwal, <i>IAST-Devanagari-IAST Converter</i>, at 
+        <a href='http://epandit.shrish.in/tools/IAST-DV-IAST/'>epandit.shrish.in/tools/IAST-DV-IAST/</a>.
+      </li>
+      <li>
+        <i>Spoken Sanskrit</i> dictionary, <a href='http://spokensanskrit.de/index.php'>http://spokensanskrit.de/index.php</a>.
+      </li>
+      <li>
+        Schweig, G., M., 2007. <i>Bhagavad Gita</i>, Harper-Collins, ISBN 978-0-06-I99730-3.
+      </li>
+      <li>
+        Thomas Malten, <i>Sanskrit and Tamil Dictionaries</i>, at 
+        <a href='http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/tamil/index.html'>www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/tamil/index.html</a>.
+      </li>
+      <li>
+        <i>Vedanta Spiritual Library</i>, at <a href='http://www.celextel.org/'>www.celextel.org</a>.  Hindu texts in English.
+      </li>
+      <li>
+        University College London, <i>Educational Resources in Speech, Hearing and Phonetic Sciences</i>, at
+        <a href='http://www.phon.ucl.ac.uk/resource/educational.php'>www.phon.ucl.ac.uk/resource/educational.php</a>.
+      </li>
+      <li>
+        University of Texas, <i>Ancient Sanskrit Online</i>, 
+        <a href='http://www.utexas.edu/cola/centers/lrc/eieol/vedol-0-X.html'>www.utexas.edu/cola/centers/lrc/eieol/vedol-0-X.html</a>.
+      </li>
+      <li>
+        University of the West, <i>Digital Sanskrit Buddhist Cannon</i>, at <a href='http://www.dsbcproject.org/'>http://www.dsbcproject.org/</a>.
+      </li>
+      <li>
+        Wells, J., 2010. <i>The International Phonetic Alphabet in Unicode</i>, University College London, at
+        <a href='http://www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm'>www.phon.ucl.ac.uk/home/wells/ipa-unicode.htm</a>.
+      </li>
+      <li>
+        Williams, P., 2009. <i>Mahayana Buddhism: The Doctinal Foundations</i>. 2nd Edition, Routledge, 
+        ISBN13: 978-0-415-35652-7 (hbk), ISBN13: 978-0-415-35653-4 (pbk), ISBN13: 978-0-203-42847-4 (ebk).
+      </li>
+      <li>
+        Wood, Alan, 2011. <i>Alan Wood’s Unicode resources</i> at 
+        <a href='http://www.alanwood.net/unicode/'>www.alanwood.net/unicode/</a>
+      </li>
+    </ol>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013-2014, 
+        <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
+      </p>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  </body>
+</<html>
