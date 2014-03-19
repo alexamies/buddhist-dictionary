@@ -50,7 +50,6 @@ require_once 'inc/markdown.php';
     </div>
 
     <div class="container">
-      <h2>Text Entry</h2>
 <?php
 if (isset($_REQUEST['text'])) {
     $text = $_REQUEST['text'];
