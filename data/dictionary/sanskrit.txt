@@ -191,7 +191,7 @@
 191	7135	punya	puṇya	पुण्य	puñña	功德、福、福德	merit / virtue	\N	noun	\N
 192	21375	madhyamapratipad	madhyamāpratipad	मध्यमाप्रतिपद्	majjhimāpaṭipadā	中道	The Middle Way	\N	phrase	\N
 193	21176	moksa	mokṣa	मोक्ष	\N	解脫	liberation	\N	masculine	\N
-194	7205	namah	namaḥ	नमः	namo	南無	to take refuge / to call the name of	\N	verb	\N
+194	7205	namah	namaḥ	नमः	namo	南無	to take refuge / to praise / to call the name of	\N	verb	nama
 195	28089	parinirvana	parinirvāṇa	परिनिर्वाण	parinibbāna	般涅槃	parinirvana	\N	proper_noun	\N
 196	22264	sarana	śaraṇa	शरण	saraṇa	歸依	to take refuge	\N	verb	\N
 197	6463	triratna	triratna	त्रिरत्न	\N	三寶	Triple Gem	\N	proper_noun	\N
@@ -1216,3 +1216,12 @@
 1216	394	param	param	परम्	\N	第一	foremost / first / completely / beyond	\N	indecl_adj	param
 1217	1449	anu	aṇu	अणु	\N	少	least / slightest / few / little	\N	indecl_adj	aṇu
 1218	3199	taraka	tārakā	तारका	\N	星	a star	\N	feminine	\N
+1219	7205	nama	nama	नम	namo	南無	to take refuge / to praise / to call the name of	\N	verb	nama
+1220	35018	anusvara	anusvāra	अनुस्वार	\N	隨韻	Anusvara / anusvāra	Causes the last vowel before it to be nasal (मं / ṃ)	masculine	\N
+1221	35019	visarga	visarga	विसर्ग	\N	止韻	visarga	A kind of unvoiced aspiration in Sanskrit and other Indic languages (ः / ḥ).	masculine	\N
+1222	343	gacchanti	gacchanti	गच्छन्ति	\N	去	they (all) go	The third person plural form of the verb gaccha	verb	gaccha
+1223	343	gacchatha	gacchatha	गच्छथ	\N	去	you (all) go	Second person plural form of the verb with stem gaccha	verb	gaccha
+1224	343	gacchamah	gacchāmaḥ	गच्छामः	\N	去	we (all) go	First person plural form of the verb with stem gaccha	verb	gaccha
+1225	28530	upagraha	upagraha	उपग्रह	\N	語態	grammatical voice	\N	masculine	\N
+1226	29052	parasmaipada	parasmaipada	परस्मैपद	\N	主動語態	active voice	\N	masculine	\N
+1227	35021	atmanepada	ātmanepada	आत्मनेपद	\N	中間語態	middle voice	Between active and passive voice	masculine	\N
