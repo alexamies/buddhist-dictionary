@@ -486,7 +486,7 @@ CREATE TABLE sanskrit (id INT UNSIGNED NOT NULL,
                        grammar VARCHAR(255),
                        root VARCHAR(255),
                        PRIMARY KEY (id),
-                       FOREIGN KEY (word_id) REFERENCES words(id),
+                       /* FOREIGN KEY (word_id) REFERENCES words(id),*/
                        FOREIGN KEY (grammar) REFERENCES sans_grammar(id)
                       )
     CHARACTER SET UTF8
