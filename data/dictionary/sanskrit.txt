@@ -146,14 +146,14 @@
 146	28049	praviratara	pravīratārā	प्रवीरतारा	\N	尊者速勇救度	Pravira Tara	\N	proper_noun	\N
 147	28050	candrakantitara	candrakāntitārā	चन्द्रकान्ति तारा	\N	大善秋月救度	Candrakanti Tara	\N	proper_noun	\N
 148	28051	kanakavarnatara	kanakavarṇatārā	कनकवर्णतारा	\N	大慈金色救度	Kanakavarna Tara	\N	proper_noun	\N
-149	5500	gajah	gajaḥ	गजः	\N	大象、象	an elephant	Nominative case	noun	\N
+149	5500	gajah	gajaḥ	गजः	\N	大象、象	an elephant	Nominative case, singular form	masculine	gaja
 150	7956	jada	jaḍa	जढ	\N	种子	a seed	\N	noun	\N
 151	6289	jhatiti	jhaṭiti	झटिति	\N	馬上	at once	\N	noun	\N
 152	2704	badham	bāḍhaṃ	बाडं	\N	肯定	certainly	\N	adverb	\N
 153	3980	trnam	ṭṛṇaṃ	टृणं	\N	草	grass	\N	noun	\N
 154	1387	mati	mati	मति	\N	思想	thought	\N	noun	\N
 155	5052	rupa	rūpa	रूप	\N	色	form	\N	noun	\N
-156	9698	virah	vīraḥ	वीरः	\N	英雄、雄	hero	\N	noun	\N
+156	9698	virah	vīraḥ	वीरः	\N	英雄、雄	hero	Nominative case, singular form	masculine	vīra
 157	2650	iha	iha	इह	\N	這裡	here	\N	pronoun	\N
 158	27452	laksmi	lakṣmī	लक्ष्मी	\N	功德天、寶藏天女、吉祥天女	Lakshmi	\N	proper_noun	\N
 159	17722	bodhidharma	bodhidharma	बोधिधर्म	\N	菩提达摩	Bodhidharma	\N	proper_noun	\N
@@ -208,7 +208,7 @@
 208	27612	rahula	rāhula	राहुल	\N	羅睺羅、羅睺睺	Rahula	\N	proper_noun	\N
 209	6645	subhute	subhūte	सुभूते	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case.	proper_noun	\N
 210	18620	sariputra	śāriputra	शारिपुत्र	sāriputta	舍利弗	Sariputra / Sariputta	\N	proper_noun	\N
-211	28111	rama	rāma	राम	\N	羅摩	Rama	\N	proper_noun	\N
+211	28111	rama	rāma	राम	\N	羅摩	Rama	Stem form	proper_noun	rāma
 212	21961	avatara	avatāra	अवतार	\N	化身	avatar / incarnation	\N	noun	\N
 213	28112	vimalakirti nirdesa sutra	vimalakīrti nirdeśa sūtra	विमलकीर्ति निर्देश सूत्र	\N	維摩詰所說經	Vimalakirti Sutra / Vimalakirti Nirdesa Sutra	\N	proper_noun	\N
 214	28113	lokaksema	lokakṣema	लोकक्षेम	\N	支婁迦讖	Lokaksema	\N	proper_noun	\N
@@ -380,7 +380,7 @@
 380	3996	svapati	svapati	स्वपति	\N	睡、睡覺	to sleep	\N	verb	\N
 381	343	gam	gam	गम्	\N	去	to go	\N	verb1	\N
 382	707	man	man	मन्	\N	想、思	to think	\N	verb	\N
-383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says / he is speaking	The affix <em>ti</em> indicates that a male is performing the action	verb1_3rd	vad
+383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says / he is speaking	Singular third person form (~ti)	verb1_3rd	vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti</em> indicates that a male is performing the action	verb4_3rd	nṛt
 385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
@@ -400,12 +400,12 @@
 400	2893	bhaisajyaguruvaiduryaprabharajasutram	bhaiṣajyaguruvaidūryaprabharājasūtram	भैषज्यगुरुवैदूर्यप्रभराजसूत्रम्	\N	藥師經、藥師琉璃光七佛本願功德經	Sutra of the Medicine Buddha	\N	proper_noun	\N
 401	3236	raja	rāja	राज	\N	王	king / monarch	\N	noun	\N
 402	1114	maha	mahā	महा	mahā	大	great	\N	adjective	\N
-403	2618	asvah	aśvaḥ	अश्वः	\N	馬	horse	\N	noun	\N
+403	2618	asvah	aśvaḥ	अश्वः	\N	馬	horse	Nominative case, singular form	masculine	aśva
 404	7979	asthah	asthāḥ	अस्थाः	\N	站	you stood	\N	verb	\N
 405	343	gatih	gatiḥ	गतिः	\N	去	to go	\N	verb	\N
 406	2137	dvah	dvāḥ	द्वाः	\N	門	door	\N	noun	\N
 407	1437	avagacchati	avagacchati	अवगच्छसि	\N	瞭解、明白、懂	he understands	\N	verb1_3rd	\N
-408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	\N	verb1_3rd	smṛ
+408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person singlular form	verb1_3rd	smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa / Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
 411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	\N
@@ -427,13 +427,13 @@
 427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders / he is confused	\N	verb1_3rd	bhram
 428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say / to speak	\N	verb1	\N
 429	747	vas	vas	वस्	\N	住	to live / to dwell	Root form of the verb	verb1	\N
-430	747	vasati	vasati	वसति	\N	住	he lives / he dwells	\N	verb1_3rd	vasa
+430	747	vasati	vasati	वसति	\N	住	he lives / he dwells	Third person singular form	verb1_3rd	vasa
 431	10477	suc	śuc	शुच्	\N	悲痛、難過、悲哀、忉、慟	to grieve	\N	verb1	\N
 432	10477	socati	śocati	शोचति	\N	悲痛、難過、悲哀、忉、慟	he grieves	\N	verb1_3rd	śuc
 433	7979	stha	sthā	स्था	\N	站、停止、停、停住	to stand / to halt	\N	verb1	\N
-434	7979	tisthati	tiṣṭhati	तिष्ठति	\N	站、停止、停、停住	he stands / he halts	\N	verb1_3rd	sthā
-435	2683	smr	smṛ	स्मृ	\N	記、憶、念	to remember	Root form	verb1	\N
-436	2683	smarati	smarati	स्मृ	\N	記、憶、念	he remembers	\N	verb1_3rd	\N
+434	7979	tisthati	tiṣṭhati	तिष्ठति	\N	站、停止、停、停住	he stands / he halts	Third person singular	verb1_3rd	sthā
+435	2683	smr	smṛ	स्मृ	\N	記、憶、念	to remember	Root form	verb1	smṛ
+436	2683	putram	putram	पुत्र	\N	子、兒	a son / a child	Accusative singular form	masculine	putra
 437	2556	nrt	nṛt	नृत्यति	\N	舞、跳舞	to dance	\N	verb4	\N
 438	15293	mad	mad	मद्	\N	開心	to rejoice	\N	verb4	\N
 439	15293	madyati	mādyati	माद्यति	\N	開心	he rejoices	\N	verb4_3rd	mad
@@ -445,9 +445,9 @@
 445	20325	rajanyavartaka	rājanyāvartaka	राजन्यावर्तक	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 446	20325	rajavarta	rājāvarta	राजावर्त	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 447	20325	suvarnabha	suvarṇābha	सुवर्णाभ	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
-448	584	upa	upa	उप	\N	上	above	\N	indecl_adj	\N
+448	584	upa	upa	उप	\N	上	above	\N	indecl	\N
 449	3723	prach	prach	प्रछ्	\N	問	to ask	\N	verb6	\N
-450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	\N	verb6_3rd	pṛccha
+450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	Third person, singular form	verb6_3rd	pṛccha
 451	916	pravisati	praviśati	प्रविशति	\N	入	he enters / he goes into	\N	verb6_3rd	\N
 452	4283	likh	likh	लिख्	\N	寫、記載、書寫、筆、書	to write	\N	verb6	\N
 453	4283	likhati	likhati	लिखति	\N	寫、記載、書寫、筆、書	he writes	\N	verb6_3rd	likh
@@ -516,7 +516,7 @@
 516	4071	tamasi	tāmasī	तामसी	\N	夜	night	\N	feminine	\N
 517	1497	cirat	cirāt	चिरात्	\N	久	for a long time	\N	adverb	\N
 518	2618	asva	aśva	अश्व	\N	馬	a horse	\N	masculine	asva
-519	2618	asvau	aśvau	अश्वौ	\N	馬	two horses	Dual	masculine	asva
+519	2618	asvau	aśvau	अश्वौ	\N	馬	two horses	Dual nominative and accusative forms	masculine	asva
 520	6006	phala	phala	फल	\N	水果、果	fruit / reward	\N	neuter	phala
 521	6006	phalani	phalāni	फलानि	\N	水果、果	fruits	Plural	neuter	phala
 522	321	asmat	asmat	अस्मत्	\N	我	me	\N	pronoun	asmat
@@ -563,12 +563,12 @@
 563	3409	citra	citra	चित्र	\N	畫	a picture	Reference form	noun	\N
 564	947	nagara	nagara	नगर	\N	城、城市	a city / a town	Reference case	noun	\N
 565	947	nagaram	nagaraṃ	नगरं	\N	城、城市	a city / a town	Accusative case, used for the object	noun	\N
-566	3223	bala	bāla	बाल	\N	子	child / boy	\N	masculine	\N
+566	3223	bala	bāla	बाल	\N	子	child / boy	Stem form	masculine	bāla
 567	3777	vayasya	vayasya	वयस्य	\N	友、朋友	a friend	Of the same age	masculine	\N
 568	2388	sobhana	śobhana	शोभन	\N	美	beautiful	\N	adjective	\N
 569	1609	jala	jala	जल	\N	水	water	\N	noun	\N
 570	27358	raksasa	rākṣasa	राक्षस	\N	羅剎、邏剎娑、羅叉娑、羅乞察娑、阿落剎娑	a raksasa	A kind of demon that eats people's flesh	masculine	\N
-571	5500	gaja	gaja	गज	\N	大象、象	an elephant	Reference form	noun	\N
+571	5500	gaja	gaja	गज	\N	大象、象	an elephant	Stem form	masculine	gaja
 572	1181	sighra	śīghra	शीघ्र	\N	快	swift / fast	\N	adjective	\N
 573	1181	sighrau	śīghrau	शीघ्रौ	\N	快	swift / fast	\N	adjective	\N
 574	1449	svalpa	svalpa	स्वल्प	\N	少	few / small / little	\N	adjective	\N
@@ -601,7 +601,7 @@
 601	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	mother and father / parents	A coordinative compound word in dual form	masculine	\N
 602	29015	rajarsi	rājarṣi	राजर्षि	\N	聖王、賢王	a sage-king	\N	masculine	\N
 603	399	jana	jana	जन	\N	人	a person	\N	masculine	\N
-604	418	nara	nara	नर	\N	男、男子	a man	\N	masculine	\N
+604	418	nara	nara	नर	\N	男、男子	a man	<em>Nara</em> is the stem form.	masculine	nara
 605	3122	parvata	parvata	पर्वत	\N	山	a mountain	\N	masculine	\N
 606	28021	ksetra	kṣetra	क्षेत्र	\N	界	a realm / a field / a domain	\N	neuter	\N
 607	4355	bhojana	bhojana	भोजन	\N	食	food	\N	neuter	\N
@@ -684,7 +684,7 @@
 684	615	krtam	kṛtam	कृतम्	\N	夠	enough	\N	adjective	\N
 685	2413	kolahalena	kolāhalena	कोलाहलेन	\N	音	noise	Instrumental case	noun	\N
 686	17742	yogena	yogena	योगेन	\N	瑜伽、瑜珈	yoga	Instrumental case of yoga	noun	yoga
-687	2618	asvena	aśvena	अश्वेन	\N	馬	a horse	Instrumental case of asva	masculine	asva
+687	2618	asvena	aśvena	अश्वेन	\N	馬	a horse	Instrumental case, singular form of asva	masculine	aśva
 688	6006	phalena	phalena	फलेन	\N	水果、果	fruit / reward	Instrumental case of phala	neuter	phala
 689	2647	vrksat	vṛkṣāt	वृक्षात्	\N	樹	tree	Ablative case, indicating movement away from the tree	noun	\N
 690	29712	saddharma	saddharma	सद्धर्म	\N	正法	The Age of the Right Dharma	The first of the Three Ages of the Dharma, which is the period not long after the Buddha has passed into Nirvana and his disciples are properly able to uphold his teachings	proper_noun	\N
@@ -800,7 +800,7 @@
 800	3368	nisanna	niṣaṇṇa	निषण्ण	\N	坐	seated	Past particple with the prefix ni (down)	verb	sad
 801	3076	kusuma	kusuma	कुसुम	\N	花	a flower / blossom / fruit	\N	noun	\N
 802	12447	avasara	avasara	अवसर	\N	機	an opportunity / a chance	\N	masculine	\N
-803	3223	putra	putra	पुत्र	\N	子、兒	a son / a child	\N	masculine	\N
+803	3223	putra	putra	पुत्र	\N	子、兒	a son / a child	Stem form	masculine	putra
 804	758	grha	gṛha	गृह	\N	房	a house / a home	\N	noun	\N
 805	809	jivita	jīvita	जीवित	\N	世、生	a life / a lifetime	\N	noun	\N
 806	5035	jivita	jīvita	जीवित	\N	活	alive / living	\N	adjective	\N
@@ -1037,7 +1037,7 @@
 1037	8394	anusmrta	anusmṛta	अनुस्मृत	\N	念	remembered	\N	adjective	\N
 1038	8851	pratisthita	pratiṣṭhita	प्रतिष्ठित	\N	住	abiding	\N	adjective	\N
 1039	32731	kvacit	kvacit	क्वचित्	\N	所	anywhere / at all / at any time	\N	adverb	\N
-1040	8840	yatha	yathā	यथा	\N	如是	thus / thusly	\N	indecl_adj	\N
+1040	8840	yatha	yathā	यथा	\N	如是	thus / thusly	\N	indecl	\N
 1041	32732	lokottaravada	lokottaravāda	लोकोत्तरवाद	\N	說出世部	lokottaravada	An early Mahāyāna school	proper_noun	\N
 1042	30222	carya	caryā	चर्या	cariyā	行	conduct / behaviour	\N	feminine	\N
 1043	30222	carita	carita	चरित	carita	行	conduct / behaviour	\N	feminine	\N
@@ -1051,8 +1051,8 @@
 1051	3382	diz	diz	दिश्	\N	方	direction	\N	feminine	\N
 1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south	\N	adjective	\N
 1053	1802	pascima	paścima	पश्चिम	\N	西	west	\N	adjective	\N
-1054	581	adhah	adhaḥ	अधः	\N	下	bottom / below	\N	indecl_adj	\N
-1055	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	top / above	\N	indecl_adj	\N
+1054	581	adhah	adhaḥ	अधः	\N	下	bottom / below	\N	indecl	\N
+1055	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	top / above	\N	indecl	\N
 1056	1324	ayata	āyata	आयत	\N	長	stretching / extending	\N	adjective	\N
 1057	8352	pralamba	pralamba	प्रलम्ब	\N	垂	hanging down / pendent	\N	adjective	\N
 1058	32821	nyagrodha	nyagrodha	न्यग्रोध	\N	尼拘樹	Indian fig tree	\N	masculine	\N
@@ -1074,7 +1074,7 @@
 1074	1007	pasca	paścā	पश्चा	\N	已	after	\N	adjective	\N
 1075	16222	pratikrāmati	pratikramati	प्रतिक्रामति	\N	還	to come back / to return	\N	verb	\N
 1076	16222	pratikram	pratikram	प्रतिक्रम्	\N	還	to come back / to return	\N	verb	\N
-1077	6045	praksalya	prakṣālya	प्रक्षाल्य	\N	洗	having washed / to be washed / to be purified	\N	indecl_adj	\N
+1077	6045	praksalya	prakṣālya	प्रक्षाल्य	\N	洗	having washed / to be washed / to be purified	\N	indecl	\N
 1078	6644	parsad	parṣad	पर्षद्	\N	大眾	assembly / audience / society	\N	feminine	\N
 1079	280	srnu	śṛṇu	शृणु	\N	聽	to listen	\N	verb	\N
 1080	3513	bhasya	bhāṣya	भाष्य	\N	言	speech / explanation	\N	neuter	\N
@@ -1110,8 +1110,8 @@
 1110	4779	tin	tiṅ	तिङ्	\N	詞尾	suffix	\N	neuter	\N
 1111	1149	uttama	uttama	उत्तम	\N	後	last	\N	adjective	\N
 1112	343	gacchasi	gacchasi	गच्छसि	\N	去	you go	Second person	verb	gaccha
-1113	3723	prcchami	prcchāmi	प्र्च्छामि	\N	問	I ask	First person form of the verb	verb	prach
-1114	375	bhavati	bhavati	भवति	\N	作	they become / they are	Third person form of the verb	verb1	bhava
+1113	3723	prcchami	prcchāmi	प्र्च्छामि	\N	問	I ask	First person form of the verb	verb1_1st	prach
+1114	375	bhavati	bhavati	भवति	\N	作	they become / they are	Third person singular form of the verb	verb1_3rd	bhava
 1115	27699	aranya	araṇya	अरण्य	\N	阿蘭若、蘭若、阿蘭那、阿練茹、阿練若、阿蘭攘、阿蘭拏、練若	a forest / a secluded place to practice	A secluded or wilderness location for a person to practice Buddhism and live.	neuter	\N
 1116	32876	aranyaka	āranyaka	आरन्यक	\N	arañña	阿蘭若迦	a person who dwells in the wilderness to practice Buddhism and live.	masculine	\N
 1117	2401	dipa	dīpa	दीप	dīpa	燈	light / lantern / lamp	\N	masculine	\N
@@ -1213,8 +1213,8 @@
 1213	33029	gautami	gautamī	गौतमी	gotamī	憍曇彌、瞿曇彌	Gautamī / Mahāprajāpatī Gautamī / Mahāpajāpatī Gotamī	The Buddha's aunt and foster mother	proper_noun	\N
 1214	3925	sruta	śruta	श्रुत	\N	聞	listened to / orally transmitted	\N	adjective	śruta
 1215	32457	nispadayati	niṣpādayati	निष्पादयति	\N	莊嚴	to accomplish / to perfect / to achieve / to ripen	Used in the Diamond Sutra as <em>to adorn</em> [Buddha-lands] / <em>to create a harmonious</em> [Buddhafield] (Conze 1958, p44)	verb	\N
-1216	394	param	param	परम्	\N	第一	foremost / first / completely / beyond	\N	indecl_adj	param
-1217	1449	anu	aṇu	अणु	\N	少	least / slightest / few / little	\N	indecl_adj	aṇu
+1216	394	param	param	परम्	\N	第一	foremost / first / completely / beyond	\N	indecl	param
+1217	1449	anu	aṇu	अणु	\N	少	least / slightest / few / little	\N	indecl	aṇu
 1218	3199	taraka	tārakā	तारका	\N	星	a star	\N	feminine	\N
 1219	7205	nama	nama	नम	namo	南無	to take refuge / to praise / to call the name of	\N	verb	nama
 1220	35018	anusvara	anusvāra	अनुस्वार	\N	隨韻	Anusvara / anusvāra	Causes the last vowel before it to be nasal (मं / ṃ)	masculine	\N
@@ -1234,3 +1234,55 @@
 1234	412	vadami	vadāmi	वदामि	\N	說、告、云、言、曰	I say / I am speaking	The affix <em>āmi</em> indicates first person singular	verb1_1st	vad
 1235	375	bhavathah	bhavathaḥ	भवथः	\N	作	you two are	Second person dual form of the verb	verb	bhava
 1236	747	vasathah	vasathaḥ	वसथः	\N	住	you two live	Second person dual form of the verb	verb1_2nd	vasa
+1237	418	narah	naraḥ	नरः	\N	男、男子	a man	Nominative case, singular form	masculine	nara
+1238	418	naram	naram	नरम्	\N	男、男子	a man	Accusative case, singular form	masculine	nara
+1239	418	narau	narau	नरौ	\N	男、男子	two men	Nominative and accusative case, dual form	masculine	nara
+1240	418	narah	narāḥ	नराः	\N	男、男子	men	Nominative case, plural form	masculine	nara
+1241	418	narah	narān	नरान्	\N	男、男子	men	Accusative case, plural form	masculine	nara
+1242	3223	putrah	putraḥ	पुत्रः	\N	子、兒	a son / a child	Nominative case	masculine	putra
+1243	7076	mrga	mṛga	मृग	\N	鹿	a deer	Stem form	masculine	mṛga
+1244	7076	mrgah	mṛgaḥ	मृगरः	\N	鹿	a deer	Nominative case, singular form	masculine	mṛga
+1245	7076	mrgam	mṛgam	मृगम्	\N	鹿	a deer	Accusative case, singular form	masculine	mṛga
+1246	2683	smaranti	smaranti	स्मरन्ति	\N	記、念	he remembers	Third person plural form	verb1_1st	smṛ
+1247	28111	ramah	rāmaḥ	रामः	\N	羅摩	Rama	Nominative case, singular form	proper_noun	rāma
+1248	747	vasanti	vasanti	वसन्ति	\N	住	he lives / he dwells	Third person plural form (~nti)	verb1_1st	vasa
+1249	412	vadatah	vadataḥ	वदतः	\N	說、告、云、言、曰	they say / they are speaking	Dual third person form (~ti)	verb1_3rd	vad
+1250	747	vasatah	vasataḥ	वसतः	\N	住	those two live	Third person dual form of the verb	verb1_3rd	vasa
+1251	375	bhavanti	bhavanti	भवन्ति	\N	作	they become / they are	Third person plural form of the verb	verb1_3rd	bhava
+1252	5500	gajena	gajena	गजेन	\N	大象、象	an elephant	Instrumental case, singular form	noun	gaja
+1253	1957	saha	saha	सह	\N	與	with	\N	indecl	saha
+1254	3223	putraya	putrāya	पुत्राय	\N	子、兒	a son / a child	Dative case	masculine	putra
+1255	2543	pustaka	pustaka	पुस्तक	\N	書	a book	Stem form	masculine	pustaka
+1256	2543	pustakam	pustakam	पुस्तकम्	\N	書	a book	Accusative  case, singular form	masculine	pustaka
+1257	4000	pathati	pathaṭi	पथटि	\N	讀	to read	\N	verb	\N
+1258	418	narena	nareṇa	नरेण	\N	男、男子	a man	Instrumental case, singular form	masculine	nara
+1259	418	narabhyam	narābhyām	नराभ्याम्	\N	男、男子	two men	Instrumental case, dual form	masculine	nara
+1260	418	naraih	naraiḥ	नरैः	\N	男、男子	some men	Instrumental case, plural form	masculine	nara
+1261	418	naraya	narāya	नराय	\N	男、男子	a man	Dative case, singular form	masculine	nara
+1262	418	narayabhyam	narāyābhyām	नरायाभ्याम्	\N	男、男子	two men	Dative case, dual form	masculine	nara
+1263	418	narebhyah	narebhyaḥ	नरेभ्यः	\N	男、男子	some men	Dative case, plural form	masculine	nara
+1264	2683	putrena	putreṇa	पुत्रेण	\N	子、兒	a son / a child	Instrumental case, singular form	masculine	putra
+1265	3546	tatra	tatra	तत्र	\N	那裡	there	\N	indecl	tatra
+1266	7076	mrgena	mṛgeṇa	मृगेण	\N	鹿	a deer	Instrumental case, singular form	masculine	mṛga
+1267	3236	nrpa	nṛpa	नृप	\N	王	a king	Stem form	masculine	nṛpa
+1268	3236	nrpah	nṛpaḥ	नृपः	\N	王	a king	Nominative case, singular form	masculine	nṛpa
+1269	3223	balah	bālaḥ	बालः	\N	子	child / boy	Nominative case, singular form	masculine	bāla
+1270	9698	vira	vīra	वीर	\N	英雄、雄	hero	Stem form	masculine	vīra
+1271	9698	virah	vīrāḥ	वीराः	\N	英雄、雄	heros	Nominative case, plural form	masculine	vīra
+1272	7979	tisthanti	tiṣṭhanti	तिष्ठन्ति	\N	站、停止、停、停住	they stand / they halt	Third person plural	verb1_3rd	sthā
+1273	3223	balau	bālau	बालौ	\N	子	two children / two boys	Accusative case, dual form	masculine	bāla
+1274	375	bhavatah	bhavataḥ	भवतः	\N	作	they become / they are	Third person dual form of the verb	verb1_3rd	bhava
+1275	3236	nrpan	nṛpān	नृपन्	\N	王	kings	Accusative case, plural form	masculine	nṛpa
+1276	5500	gajaih	gajaiḥ	गजैः	\N	大象、象	an elephant	Instrumental case, plural form	masculine	gaja
+1277	3223	balah	bālāḥ	बालाः	\N	子	child / boy	Nominative case, plural form	masculine	bāla
+1278	412	vadanti	vadanti	वदन्ति	\N	說、告、云、言、曰	they say / they are speaking	Plural third person form (~nti)	verb1_3rd	vad
+1279	7076	mrgan	mṛgān	मृगान्	\N	鹿	deer	Accusative case, plural form	masculine	mṛga
+1280	3723	prcchanti 	pṛcchanti	पृच्छन्ति	\N	問	they ask	Third person, plural form	verb6_3rd	pṛccha
+1281	3236	nrpaya	nṛpāya	नृपाय	\N	王	a king	Dative case, singular form	masculine	nṛpa
+1282	2618	asvaih	aśvaiḥ	अश्वैः	\N	馬	horses	Instrumental case, plural form	masculine	aśva
+1283	9698	virau	vīrau	वीरौ	\N	英雄、雄	two heros	Nominative and accusative case, dual form	masculine	vīra
+1284	7979	tisthatah	tiṣṭhataḥ	तिष्ठतः	\N	站、停止、停、停住	they both stand / they both halt	Third person dual	verb1_3rd	sthā
+1285	7076	mrgah	mṛgāḥ	मृगाः	\N	鹿	deer	Nominative case, plural form	masculine	mṛga
+1286	3223	balabhyam	bālābhyām	बालाभ्याम्	\N	子	to children / two boys	Dative case, dual form	masculine	bāla
+1287	7076	mrgaih	mṛgaiḥ	मृगैः	\N	鹿	deer	Instrumental case, plural form	masculine	mṛga
+1288	7979	tisthamah	tiṣṭhāmaḥ	तिष्ठामः	\N	站、停止、停、停住	we stand / we halt	First person plural	verb1_3rd	sthā
