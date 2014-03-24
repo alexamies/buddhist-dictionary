@@ -1,5 +1,5 @@
 1	27875	devanagari	devanāgarī	देवनागरी	\N	天城文	Devanagari	\N	proper_noun	\N
-2	13326	deva	deva	देव	deva	天	deity	\N	noun	\N
+2	13326	deva	deva	देव	deva	天	a deity / a god	Stem form	masculine	deva
 3	27877	Brahmilipiḥ	Brāhmīlipiḥ	ब्राह्मीलिपिः	\N	婆羅米文	Brahmi script	\N	proper_noun	\N
 4	21021	Samskrtam	Saṃskṛtam	संस्कृतम्	\N	梵文	Sanskrit	\N	proper_noun	\N
 5	21021	Samskrtam vak	saṃskṛtā vāk	संस्कृता वाक्	\N	梵文	Sanskrit	\N	proper_noun	\N
@@ -73,8 +73,8 @@
 73	28015	samskara	saṃskāra	संस्कार	saṅkhāra	行	volition / volitional formations / that which has been put together	\N	masculine	\N
 74	17742	yoga	yoga	योग	\N	瑜伽、瑜珈	yoga	\N	noun	\N
 75	24948	Siva	Śiva	शिव	\N	濕婆	Shiva	\N	proper_noun	\N
-76	13326	deva	deva	देव	\N	天	deva / a god	\N	noun	\N
-77	28392	devi	devī	देवी	\N	提毗	devi / a goddess	Same root as the male deva but ending in <em>i</em> to indicate female gender	noun	\N
+76	13326	devata	devatā	देवता	\N	天	deity / a god	\N	feminine	\N
+77	28392	devi	devī	देवी	\N	提毗	devi / a goddess	Same root as the male deva but ending in <em>i</em> to indicate female gender	feminine	\N
 78	4187	dhyana	dhyāna	ध्यान	jhāna	禪、禪那、禪修、禪定	to medidate	\N	verb	\N
 79	28016	sila	śīla	शील	sīla	尸羅、戒	commitment to harmony and self-restraint	The second of the six paramitas	noun	\N
 80	17658	panca-silani	pañca-śīlāni	पञ्चशीलानि	pañca-sīlāni	五戒	the Five Precepts	\N	phrase	\N
@@ -82,7 +82,7 @@
 82	22994	veda	véda	वेदा	\N	吠陀	Veda	Literally, knowledge in Sanskrit	noun	\N
 83	17766	siddhartha	siddhārtha	सिद्धार्थ	Siddhattha	悉達多	Siddhartha	The Buddha's personal name	proper_noun	\N
 84	3618	buddhatva	buddhatva	बुद्धत्व	buddhatta	佛	buddhahood	The state of being a Buddha	noun	\N
-85	6686	tathagata	tathāgata	तथागत	\N	如來	Tathagata	\N	proper_noun	\N
+85	6686	tathagata	tathāgata	तथागत	\N	如來	Tathagata	Stem form	proper_noun	tathāgata
 86	20517	sravaka	śrāvaka	श्रावक	sāvaka	声闻	Sravaka / Shravaka	\N	proper_noun	\N
 87	9060	maitreya	maitreya	मैत्रेय	metteyya	彌勒	Maitreya	\N	proper_noun	\N
 88	26490	Trayastrimsa	Trāyastriṃśa	त्रयस्त्रिंश	Tāvatiṃsa	忉利天	Trayastrimsa	\N	proper_noun	\N
@@ -237,7 +237,7 @@
 237	21068	grhapati	gṛhapati	गृहपति	gahapati	居士	a lay person	\N	noun	\N
 238	3091	sraddha	śraddhā	श्रद्धा	saddhā	信	to have faith	\N	verb	\N
 239	22085	devadatta	devadatta	देवदत्त	\N	提婆達多	Devadatta	\N	proper_noun	\N
-240	25307	sravasti	śrāvastī	श्रावस्ती	sāvatthī	舍衛	Sravasti	\N	proper_noun	\N
+240	25307	sravasti	śrāvastī	श्रावस्ती	sāvatthī	舍衛	Sravasti	Stem form	proper_noun	śrāvastī
 241	28124	kosala	kosala	कोसल	\N	拘薩羅	Kosala	\N	proper_noun	\N
 242	8847	mahasattva	mahāsattva	महासत्त्व	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	\N	noun	\N
 243	25140	gandhara	gandḥārā	गन्धार	\N	犍陀羅	Gandhara	\N	proper_noun	\N
@@ -258,7 +258,7 @@
 258	28159	vasudhara	vasudhārā	वसुधारा	\N	增祿天母、增祿佛母、財續佛母、財續天母	Vasudhara	\N	proper_noun	\N
 259	28163	kumbha mela	kumbha melā	कुम्भ मेला	\N	寶瓶節	Kumbh Mela / Kumbha Mela	\N	proper_noun	\N
 260	28166	haridvaram	haridvāram	हरिद्वारम्	\N	哈裡迪瓦爾	Haridwar / Hardwar	\N	proper_noun	\N
-261	26965	amrta	amṛta	अमृत	\N	甘露	amrita / sweet dew / the nectar of immortality / merit	\N	noun	\N
+261	26965	amrta	amṛta	अमृत	\N	甘露	amrita / sweet dew / the nectar of immortality / merit	\N	noun	amṛta
 262	311	sunya	śūnya	शून्य	\N	零	zero	Digit: ०	cardinal	\N
 263	301	eka	eka	एक	\N	一	one	Digit: १	cardinal	\N
 264	302	dvi	dvi	द्वि	\N	二	two	Digit: २	cardinal	\N
@@ -331,7 +331,7 @@
 331	10229	pitr	pitṛ	पितृ	\N	父親、父、爸爸、爸	father	\N	noun	\N
 332	526	pran	prāṅ	प्राङ्	\N	向	towards	\N	verb	\N
 333	922	pani	pāņi	पाņइ	\N	手	hand	\N	noun	\N
-334	9097	pada	pāda	पाद	\N	足、腳	foot	\N	noun	\N
+334	9097	pada	pāda	पाद	\N	足、腳	foot	\N	masculine	\N
 335	3826	vrihi	vrīhi	व्रीहि	\N	米	rice	\N	noun	\N
 336	14209	ksana	kṣaṇa	क्षण	\N	剎那	an instant	\N	noun	\N
 337	4060	patha	pāṭha	पाठ	\N	誦、誦念	to recite	\N	verb	\N
@@ -385,7 +385,7 @@
 385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 387	3368	upavisati	upaviśati	उपविशति	\N	坐	he sits down	The affix <em>ti</em> indicates that a male is performing the action	verb6_3rd	viś
-388	343	gacchati	gacchati	गच्छति	\N	去	he goes / she goes / it goes	\N	verb1_3rd	gam
+388	343	gacchati	gacchati	गच्छति	\N	去	he goes / she goes / it goes	Third person, singular form	verb1_3rd	gam
 389	370	agacchati	āgacchati	आगच्छति	\N	來	to come / he comes	The affix <em>ti</em> indicates that a male is performing the action	verb1_3rd	\N
 390	1843	na	na	न	\N	無	no / not	Negation of the following verb	adverb	\N
 391	28501	sarvastivada	sarvāstivāda	सर्वास्तिवाद	\N	說一切有部	Sarvastivada	An early Buddhist school	proper_noun	\N
@@ -412,7 +412,7 @@
 412	2231	kim	kim	किम्	\N	如何	what	A pronoun used in questions	pronoun	\N
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	pronoun	\N
-415	3811	iti	iti	इति	\N	爾、如是	thus	Used to mark the end of a sentence	particle	\N
+415	3811	iti	iti	इति	\N	爾、如是	thus	Used to mark the end of a sentence or a smaller part, espcially a quotation.	particle	\N
 416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	\N
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
 418	340	jayati	jayati	जयति	\N	勝利、勝、贏、獲勝	he conquers	\N	verb1_3rd	ji
@@ -995,7 +995,7 @@
 995	363	lokadhatu	lokadhātu	लोकधातु	\N	世界	a world / a region of the world	\N	masculine	\N
 996	29304	parinispattyi	pariniṣpattyi	परिनिष्पत्ति	\N	具足	perfection / perfect development	\N	feminine	\N
 997	6690	bhavati	bhavati	भवती	\N	汝	you	A respectful term of address with feminine gender	pronoun	\N
-998	32460	desita	deśita	देशित	\N	說	instructed / directed / shown	\N	adjective	\N
+998	32460	desita	deśita	देशित	\N	說	instructed / directed / shown	Stem form	adjective	deśita
 999	32461	nasti	nāsti	नास्ति	\N	無有	non existence	\N	masculine	\N
 1000	7182	sama	sama	सम	\N	平等	equal / same	\N	adjective	\N
 1001	32462	nirjiva	nirjīva	निर्जीव	\N	無壽	no life / dead	\N	adjective	\N
@@ -1070,7 +1070,7 @@
 1070	3947	patra	pātra	पात्र	\N	缽	bowl / dish / vessel / pot	\N	neuter	\N
 1071	3953	civara	cīvara	चीवर	\N	衣	robe / dress or rags of a religious monk	\N	neuter	\N
 1072	947	nagari	nagarī	नगरी	\N	城	a city	\N	feminine	\N
-1073	4355	pinda	piṇḍa	पिण्ड	\N	食	alms / food / subsistence / a ball of rice / meat / a morsel	\N	masculine	\N
+1073	4355	pinda	piṇḍa	पिण्ड	\N	食	alms / food / subsistence / a ball of rice / meat / a morsel	Stem form	masculine	piṇḍa
 1074	1007	pasca	paścā	पश्चा	\N	已	after	\N	adjective	\N
 1075	16222	pratikrāmati	pratikramati	प्रतिक्रामति	\N	還	to come back / to return	\N	verb	\N
 1076	16222	pratikram	pratikram	प्रतिक्रम्	\N	還	to come back / to return	\N	verb	\N
@@ -1148,7 +1148,7 @@
 1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
 1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana / the practice of giving	Word ending modified for the accusive case	noun	\N
 1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. (Conze 1958, p36) The suffix ṃ is added for the accusative case.	noun	\N
-1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	\N
+1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	tathāgata
 1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
 1153	21078	sattva	sattvā	सत्त्वा	\N	有情	a being / a creature	\N	noun	\N
 1154	28804	puruso	puruṣo	पुरुषो	\N	丈夫	a man / a great man	Normally written as puruṣa but the word ending is modified here for Sanskrit grammar	noun	\N
@@ -1169,7 +1169,7 @@
 1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. The suffix ḥ is added for the nominative case.	noun	\N
 1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma / the teachings of the Buddha	\N	proper_noun	\N
 1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat / Bhagavan / Bhagwan / Bhagawan	Literally, Blessed One. Normally written as Bhagavān.	proper_noun	\N
-1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	\N
+1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	tathāgata
 1173	4250	sukaram	sukaraṃ	सुकरं	\N	易	easy	Normally written as sukara but the word ending is modified here for Sanskrit grammar	adjective	\N
 1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
 1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world / a region of the world	Normally written as lokadhātu but the word ending is modified here for the accusive case	masculine	\N
@@ -1256,11 +1256,11 @@
 1256	2543	pustakam	pustakam	पुस्तकम्	\N	書	a book	Accusative  case, singular form	masculine	pustaka
 1257	4000	pathati	pathaṭi	पथटि	\N	讀	to read	\N	verb	\N
 1258	418	narena	nareṇa	नरेण	\N	男、男子	a man	Instrumental case, singular form	masculine	nara
-1259	418	narabhyam	narābhyām	नराभ्याम्	\N	男、男子	two men	Instrumental case, dual form	masculine	nara
+1259	418	narabhyam	narābhyām	नराभ्याम्	\N	男、男子	two men	Instrumental and ablative cases, dual form	masculine	nara
 1260	418	naraih	naraiḥ	नरैः	\N	男、男子	some men	Instrumental case, plural form	masculine	nara
 1261	418	naraya	narāya	नराय	\N	男、男子	a man	Dative case, singular form	masculine	nara
 1262	418	narayabhyam	narāyābhyām	नरायाभ्याम्	\N	男、男子	two men	Dative case, dual form	masculine	nara
-1263	418	narebhyah	narebhyaḥ	नरेभ्यः	\N	男、男子	some men	Dative case, plural form	masculine	nara
+1263	418	narebhyah	narebhyaḥ	नरेभ्यः	\N	男、男子	some men	Dative and ablative case, plural form	masculine	nara
 1264	2683	putrena	putreṇa	पुत्रेण	\N	子、兒	a son / a child	Instrumental case, singular form	masculine	putra
 1265	3546	tatra	tatra	तत्र	\N	那裡	there	\N	indecl	tatra
 1266	7076	mrgena	mṛgeṇa	मृगेण	\N	鹿	a deer	Instrumental case, singular form	masculine	mṛga
@@ -1286,3 +1286,32 @@
 1286	3223	balabhyam	bālābhyām	बालाभ्याम्	\N	子	to children / two boys	Dative case, dual form	masculine	bāla
 1287	7076	mrgaih	mṛgaiḥ	मृगैः	\N	鹿	deer	Instrumental case, plural form	masculine	mṛga
 1288	7979	tisthamah	tiṣṭhāmaḥ	तिष्ठामः	\N	站、停止、停、停住	we stand / we halt	First person plural	verb1_3rd	sthā
+1289	29703	pancami	pañcamī	पञ्चमी	\N	離格	ablative case	A grammatical case for Sanskrit nouns that marks them as a source or origin. The Sanskrit term indicates that it is the fifth grammatical case.	feminine	\N
+1290	28457	sasthi	ṣaṣṭhi	षष्ठि	\N	屬格	genitive / possessive case	A grammatical case for Sanskrit nouns that marks possession	feminine	\N
+1291	28105	prathama	prathamā	प्रथमा	\N	主格	nominative case	A grammatical case for Sanskrit nouns that marks the subject of a verb	masculine	\N
+1292	28443	dvitiya	dvitīyā	द्वितीया	\N	對格	accusative case	A grammatical case for Sanskrit nouns that marks the direct object of a verb	masculine	\N
+1293	28531	vibhakti	vibhakti	विभक्ति	\N	格	grammatical case	Used to classify nouns for function in sentences	masculine	\N
+1294	29702	trtiya	tṛtīyā	तृतीया	\N	工具格	instrumental case	The form of a noun or related word to indicate that it is the agent of an action.  The Sanskrit term indicates that it is the third grammatical case.	masculine	\N
+1295	28449	caturthi	caturthī	चतुर्थी	\N	與格	dative case	The form of a noun that indicates the object to which something is given.  The Sanskrit term indicates that it is the fourth grammatical case.	feminine	\N
+1296	5500	gajat	gajat	गजत्	\N	大象、象	from the elephant	Ablative case, singular form	masculine	gaja
+1297	418	narasya	narasya	नरस्य	\N	男、男子	of the man / belonging to a man	Genitive case, singular form	masculine	nara
+1298	28111	ramasya	rāmasya	रामः	\N	羅摩	Rama's	Genitive case, singular form	proper_noun	rāma
+1299	26965	amrtasya	amṛtasya	अमृत	\N	甘露	of immortality	Genitive case, singular form	noun	amṛta
+1300	418	narat	narāt	नरात्	\N	男、男子	from the man	Ablative case, singular form	masculine	nara
+1301	418	narayoh	narayoḥ	नरयोः	\N	男、男子	of two men / belonging to two men	Genitive case, dual form	masculine	nara
+1302	418	naranam	narāṇām	नराणाम्	\N	男、男子	of the men / belonging to the men	Genitive case, plural form	masculine	nara
+1303	5500	gajanam	gajānām	गजानाम्	\N	大象、象	of the elephants / belonging to the elephants	Genitive case, plural form	masculine	gaja
+1304	3223	balanam	bālānām	बालानाम्	\N	子	of the boys / belonging to the boys 	Genitive case, plural form	masculine	bāla
+1305	2650	arta	arta	अर्त	\N	這裡	here	\N	indecl	arta
+1306	890	gramah	grāmaḥ	ग्रामः	\N	村	a village	Nominative case, singular form	masculine	grāma
+1307	9097	padau	pādau	पादौ	\N	足、腳	two feet	Nominative and accusative case, dual form	masculine	\N
+1308	412	vadasi	vadasi	वदसि	\N	說、告、云、言、曰	you say / you are speaking	Singular second person form (~si)	verb1_3rd	vad
+1309	3223	balasya	bālasya	बालस्य	\N	子	child / boy	Genitive case, singular form	masculine	bāla
+1310	890	gramam	grāmam	ग्रामम्	\N	村	a village	Accusative case, singular form	masculine	grāma
+1311	890	gramat	grāmat	ग्रामत्	\N	村	a village	Ablative case, singular form	masculine	grāma
+1312	25307	sravastim	śrāvastīṃ	श्रावस्तीं	\N	舍衛	Sravasti	Accusative case	proper_noun	śrāvastī
+1313	35028	mahanagari	mahānagarī	महानगरी	\N	大城	a great city	The stem form of a compound composed of mahā (great) and nagarī (city)	proper_noun	mahānagarī
+1314	35028	mahanagarim	mahānagarīṃ	महानगरीं	\N	大城	a great city	Accusative case	proper_noun	mahānagarī
+1315	4355	pindaya	piṇḍāya	पिण्डाय	\N	食	alms / food / subsistence / a ball of rice / meat / a morsel	Dative case form	masculine	piṇḍa
+1316	32460	desitah	deśitaḥ	देशितः	\N	說	instructed / directed / shown	Nominal case	adjective	deśita
+1317	6686	tathagatena	tathāgatena	तथागतेन	\N	如來	Tathagata	Instrumental case	proper_noun	tathāgata
