@@ -22,6 +22,7 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
       $("#lookup-help-block").hide();
       $scope.results = data;
       var sans_re = /Sanskrit:[\s]+([^,]*)(.*)/;
+      //alert($scope.results.words)
       if ($scope.results.words && $scope.results.words.length > 0) {
         for (var i=0; i < $scope.results.words.length; i++) {
           word = $scope.results.words[i];

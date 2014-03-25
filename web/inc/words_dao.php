@@ -31,13 +31,14 @@ class WordsDAO {
         $query = '';
         $word = null;
         if (($previous != null) && ($langType == 'literary')) {
-            $query = "SELECT id, simplified, traditional, pinyin, english, " .
+            $query = "SELECT words.id, simplified, traditional, pinyin, english, " .
                      "grammar, concept_cn, concept_en, topic_cn, " .
                      "topic_en, parent_cn, parent_en, image, mp3, notes " .
                      "FROM words, bigram " .
                      "WHERE words.id = bigram.word_id AND bigram.element_text = '$wordText' AND " .
                      "bigram.previous_text = '$previous' " .
                      "ORDER BY bigram.frequency DESC";
+            //error_log("getBestWordSense, query: " . $query);
             $result =& $databaseUtils->executeQuery($query);
             if ($row = $databaseUtils->fetch_array($result)) {
                 $word = new Word($row[0], $row[1], $row[2], $row[3], $row[4],
@@ -47,7 +48,7 @@ class WordsDAO {
             }
         }
         if (($word == null) && ($langType == 'literary')) {
-            $query = "SELECT id, simplified, traditional, pinyin, english, " .
+            $query = "SELECT words.id, simplified, traditional, pinyin, english, " .
                      "grammar, concept_cn, concept_en, topic_cn, " .
                      "topic_en, parent_cn, parent_en, image, mp3, notes " .
                      "FROM words, unigram " .
@@ -62,7 +63,7 @@ class WordsDAO {
             }
         } 
         if (($word == null)) {
-            $query = "SELECT id, simplified, traditional, pinyin, english, " .
+            $query = "SELECT words.id, simplified, traditional, pinyin, english, " .
                      "grammar, concept_cn, concept_en, topic_cn, " .
                      "topic_en, parent_cn, parent_en, image, mp3, notes " .
                      "FROM words " .

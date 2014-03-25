@@ -77,6 +77,7 @@ class ChineseText {
 
         // Break into chunks of either letters or non-letters
         $chunks = $this->getChunks();
+        //error_log("count chunks: " . count($chunks));
 
         // Iterate through each chunk scanning for words
         $previous = null;
@@ -115,7 +116,9 @@ class ChineseText {
                                     $previousTrad = $previous->getSimplified();
                                 }
                             }
+                            //error_log("wordCandidate: $wordCandidate, previousTrad: $previousTrad");
                             $word = $wordsDAO->getBestWordSense($wordCandidate, $this->langType, $previousTrad);
+                            //error_log("Best word sense: $word");
                             $elements[] = new TextElement($wordCandidate, 2, $word, count($words));
                             $i += $j;
                             $previous = $word;

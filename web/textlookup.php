@@ -9,12 +9,13 @@ if (mb_strlen($text) > 100) {
     print('{"error":"Too long. Text cannot exceed 100 characters."}');
 } else {
     $langType = 'literary';
-    if (isset($_POST['langtype']) && $_POST['langtype'].trim()) {
-        $langType = $_POST['langtype'].trim();
+    if (isset($_POST['langtype'])) {
+        $langType = trim($_POST['langtype']);
     }
-    // error_log("langType: $langType\n");
+    //error_log("langType: $langType");
     $chineseText = new ChineseText($text, $langType);
     $elements = $chineseText->getTextElements();
+    error_log("No elements: " . count($elements));
     $words = "[";
     foreach ($elements as $element) {
         $elemText = $element->getText();
@@ -41,7 +42,7 @@ if (mb_strlen($text) > 100) {
                   '},';
     }
     $words = rtrim($words, ",") . "]";
-    // error_log("words: $words \n");
+    //error_log("words: $words");
     print('{"words":' . $words . "}");
 }
 ?>

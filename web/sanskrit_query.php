@@ -96,13 +96,14 @@ if (isset($_REQUEST['word'])) {
       print("<table id='wordTable' class='table table-bordered table-hover'>\n" .
             "<tbody id='wordTabBody'>\n" .
             "<tr>" . 
-            "<th class='portlet'>IAST</th>" .
-            "<th class='portlet'>Devanagari</th>" .
-            "<th class='portlet'>Pali</th>" .
-            "<th class='portlet'>Chinese</th>" .
-            "<th class='portlet'>English</th>" . 
-            "<th class='portlet'>Grammar</th>" .
-            "<th class='portlet'>Notes</th>" .
+            "<th>IAST</th>" .
+            "<th>Devanagari</th>" .
+            "<th>Pali</th>" .
+            "<th>Chinese</th>" .
+            "<th>English</th>" . 
+            "<th>Grammar</th>" .
+            "<th>Root / Stem</th>" .
+            "<th>Notes</th>" .
             "</tr>\n");
       for ($i=0; $i<$len; $i++) {
         print("<tr>\n" .
@@ -112,6 +113,7 @@ if (isset($_REQUEST['word'])) {
               "<td>" . $words[$i]->getTraditional() . "</td>" .
               "<td>" . $words[$i]->getEnglish() . "</td>" .
               "<td>" . $words[$i]->getGrammar() . "</td>" .
+              "<td>" . $words[$i]->getRoot() . "</td>" .
               "<td>" . $words[$i]->getNotes() . "</td>" .
               "</tr>\n");
       }
