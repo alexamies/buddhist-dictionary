@@ -1,4 +1,4 @@
-##  Book of Wei – Shi Lao Zhi《魏書 釋老志》
+##  Book of Wei – Shi Lao Zhi Fragment A《魏書 釋老志》部分A
 
 Description: A passage from the Book of Wei describing celebration of the Buddha's birthday
 
