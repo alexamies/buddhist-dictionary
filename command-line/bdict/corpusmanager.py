@@ -73,6 +73,7 @@ class CorpusManager:
                         entry['doc_type'] = tokens[5]
                     if len(tokens) > 6:
                         entry['uri'] = tokens[6]
+                    # print('URI: %s' % entry['uri'])
                     if len(tokens) > 7:
                         entry['source'] = tokens[7]
                     if len(tokens) > 8:

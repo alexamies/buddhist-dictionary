@@ -27,7 +27,7 @@ English	translation: None
 ### Summary
 This scroll has a large section on Fotudeng 竺佛圖澄. It also includes entries on Dan Dao Kai, Zhu Fotiao, and Qi Yu.
 
-In the scroll there is a passage that describes Shi Hu's son Bin. Bin paid respect after his fathers' passing away by saying mantras, errecting a monument in a Buddhist temple. Every year on the eighth day of the fourth month he would go to the temlple, pour water over the Buddha's head, and make a vow.
+In the scroll there is a passage that describes Shi Hu's son Bin. Bin paid respect after his fathers' passing away by saying mantras, erecting a monument in a Buddhist temple. Every year on the eighth day of the fourth month he would go to the temple, pour water over the Buddha's head, and make a vow.
 
 ### Notes: 
 Shi Hu was an Emperor of the Later Zhao dynasty

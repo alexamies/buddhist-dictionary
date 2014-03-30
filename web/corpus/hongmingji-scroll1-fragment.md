@@ -27,7 +27,7 @@ End marker: 王常使隨太子。
 English	translation: None
 
 ### Summary
-This passage contains a commentary by Mouzi (牟子) about the Buddha's life in India being born the son of King Suddhodana on the eighth day of the Fourth Month. According to the Fo Guang Shan Online Dictionary Mouzi was a figure at the end of the Eastern Han who critized the Chinese classics and defended Buddhism, although it is not clear whether this is the same person.
+This passage contains a commentary by Mouzi (牟子) about the Buddha's life in India being born the son of King Suddhodana on the eighth day of the Fourth Month. According to the Fo Guang Shan Online Dictionary Mouzi was a figure at the end of the Eastern Han who criticized the Chinese classics and defended Buddhism, although it is not clear whether this is the same person.
 
 ### Notes
 This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.

@@ -24,7 +24,7 @@ English translation: none
 
 ### Summary
 
-The benefit aquired from bathing a Buddha statue can be separated into three parts. Firstly, the money can be used to repair statues. Secondly, the money may be used to build stupas. The third part of the money can be used to support the Sangha. The money must not be used irresponsibly. If somebody uses that money for personal benefit then they will suffer greatly in future lives.
+The benefit acquired from bathing a Buddha statue can be separated into three parts. Firstly, the money can be used to repair statues. Secondly, the money may be used to build stupas. The third part of the money can be used to support the Sangha. The money must not be used irresponsibly. If somebody uses that money for personal benefit then they will suffer greatly in future lives.
 
 ### Notes
 This passage is included in a collection of texts about the birth of the Buddha and spread of Buddhism in China compiled by Venerable Jue Wei of Fo Guang Shan. See the references below.

@@ -2401,7 +2401,7 @@
 2401	灯	燈	dēng	lamp / light / lantern	noun	\N	\N	光纤	Light	\N	\N	\N	deng1.mp3	\N
 2402	效	傚	xiào	effect / efficacy	noun	\N	\N	行为	Actions	\N	\N	\N	xiao4.mp3	\N
 2403	效	傚	xiào	to imitate	verb	\N	\N	行为	Actions	\N	\N	\N	xiao4.mp3	\N
-2404	尽	盡	jìn	to use up / to exhaust / to end / to finish / to the utmost / to be finished	verb	\N	\N	行为	Actions	\N	\N	\N	jin4.mp3	\N
+2404	尽	儘	jìn	to use up / to exhaust / to end / to finish / to the utmost / to be finished	verb	\N	\N	行为	Actions	\N	\N	\N	jin4.mp3	\N
 2405	人性	\N	rénxìng	human nature / humanity	noun	\N	\N	感情	Emotion	\N	\N	\N	ren2xing4.mp3	\N
 2406	关怀	關懷	guānhuái	to show loving care for / to show solicitude for	verb	\N	\N	感情	Emotion	\N	\N	\N	guan1huai2.mp3	\N
 2407	连	連	lián	to join / to link	verb	\N	\N	行为	Actions	\N	\N	\N	lian2.mp3	\N
@@ -4773,7 +4773,7 @@
 4773	也许	也許	yěxǔ	perhaps / maybe	adverb	估计	Estimation	特点	Characteristic	\N	\N	\N	ye3xu3.mp3	\N
 4774	感觉	感覺	gǎnjué	to feel / to become aware of / to sense / to perceive	verb	\N	\N	感情	Emotion	\N	\N	\N	gan3jue2.mp3	\N
 4775	么	\N	ma	final interrogative particle	particle	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
-4776	么	麽	me	interrogative suffix	suffix	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+4776	么	麼	me	interrogative suffix	suffix	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
 4777	么	幺	yāo	one / ace	number	\N	\N	数量	Quantity	\N	\N	\N	yao1.mp3	\N
 4778	么	幺	yāo	youngest / most junior / tiny	adjective	\N	\N	特点	Characteristic	\N	\N	\N	yao1.mp3	\N
 4779	词尾	詞尾	cíwěi	suffix	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
@@ -35034,4 +35034,87 @@
 35034	肴	\N	yáo	meat dishes / mixed viands	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	The simplified character is also an archaic variant of 殽.
 35035	钱	錢	qián	a coin / a copper coin	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	qian2.mp3	In this sense 钱 is a metallic coin (金属货币)
 35036	钱	錢	qián	a copper item	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	qian2.mp3	In this sense 钱 is synonymous with 铜钱.
-35037	天安	\N	Tiān Ān	Tian An Reign	proper noun	年号	Reign Name	历史	History	北魏	Northern Wei	\N	\N	466-467, the first of the two reign names of Emperor Xianwen of Northern Wei 
+35037	天安	\N	Tiān Ān	Tian An Reign	proper noun	年号	Reign Name	历史	History	北魏	Northern Wei	\N	\N	466-467, the first of the two reign names of Emperor Xianwen of Northern Wei
+35038	只	\N	zhī	measure word for birds and certain animals, one of a pair, etc	measure word	\N	\N	数量	Quantity	\N	\N	\N	zhi3.mp3	The simplified form is also used in some traditional texts
+35039	秘	\N	mì	secret	noun	\N	\N	思想	Thought	\N	\N	\N	mi4.mp3	The simplified form is also used in some traditional texts
+35040	讱	訒	rèn	slow in speech	noun	\N	\N	书	Written Chinese	\N	\N	\N	mi4.mp3	\N
+35041	侪	儕	chái	a class / a company / companion	noun	\N	\N	社会	Society	\N	\N	\N	mi4.mp3	\N
+35042	譭	\N	huǐ	to destroy	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Variant of 毁 (traditional 毀)
+35043	惺	\N	xīng	tranquil	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35044	惺	\N	xīng	to understand	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35045	紊	\N	wěn	involved / tangled / disorderly / confused / chaotic	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35046	紊	\N	wěn	to harass	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35047	芊	\N	qiān	green / luxuriant / lush	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35048	顸	頇	hān	dawdling / stupid	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35049	儆	\N	jǐng	to warn / to admonish	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35050	茍	\N	jí	to be urgent	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35051	茍	\N	jì	to be careful	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35052	醐	\N	hú	the purest cream	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35053	儱	\N	lǒng	rude / barbarous	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35054	煆	\N	xiā	a raging fire	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35055	煆	\N	yā	a raging fire	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35056	醍	\N	tí	essential oil of butter	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35057	醍	\N	tǐ	a kind of pink wine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35058	橛	\N	jué	a peg / low post	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35059	颟	顢	mān	dawdling / careless	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35060	仿	\N	fǎng	to imitate / to copy	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fang3.mp3	The simplified character is also an archaic variant of 倣
+35061	咛	嚀	níng	to enjoin	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35062	撋	\N	ruán	to rub between the hands	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35063	诟	詬	gòu	to shame / to abuse	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35064	檗	\N	bò	a cork tree	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	\N
+35065	盡	\N	jìn	to use up / to exhaust / to end / to finish / to the utmost / to be finished	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	jin4.mp3	Archaic variant of 尽 (traditional 儘)
+35066	閟	\N	bì	to hide	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35067	閟	\N	bì	hidden / catious	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35068	暡	\N	wěng	twilight before dawn	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35069	霨	\N	wèi	rising of clouds	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35070	掫	\N	zōu	to be on night watches / to grasp	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35071	矾	礬	fán	alum	noun	\N	\N	化学	Chemistry	\N	\N	\N	\N	\N
+35072	甯	\N	níng	peaceful	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 宁 (traditional 寧)
+35073	麮	\N	qù	porridge	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35074	觑	覷	qù	to spy / to watch for	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35075	詈	\N	lì	to curse / to scold	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35076	轾	輊	zhì	back and lower parts of a chariot 	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35077	轾	輊	zhì	short / low 	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35078	谆	諄	zhūn	sincere / earnest / untiring 	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35079	荏	\N	rěn	mint / perilla 	noun	植物	Plant	植物学	Botany	\N	\N	\N	\N	\N
+35080	荏	\N	rěn	soft / weak 	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35081	滓	\N	zǐ	dregs / sediment 	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35082	苒	\N	rǎn	luxuriant 	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35083	苒	\N	rǎn	passing of time 	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35084	寖	\N	jìn	to immerse / to soak / to steep	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	jin4.mp3	Archaic variant of 浸
+35085	龃	齟	jǔ	irregular	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35086	龃	齟	jǔ	uneven teeth	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35087	煞	\N	shā	to terminate / to cut short / to squeeze / to tighten / to reduce	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35088	煞	\N	shà	a fiend / an evil spirit	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35089	煞	\N	shà	very	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35090	嗤	\N	chī	to laugh at / to jeer / to scoff at / to sneer at	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35091	躐	\N	liè	to step across	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35092	饫	飫	yù	full	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	 As of eating
+35093	龉	齬	yǔ	irregular teeth	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	 \N
+35094	呓	囈	yì	to talk in one's sleep	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	 \N
+35095	磲	\N	qú	giant clam	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	 \N
+35096	砗	硨	chē	giant clam	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	 \N
+35097	观照	觀照	guānzhào	to observe with wisdom	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
+35098	适	\N	shì	to fit / to suit	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	shi4.mp3	The simplified character is also an archaic variant of 適.
+35099	窍	竅	qiào	hole / opening / orifice	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35100	砭	\N	biān	to criticize / to pierce	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35101	砭	\N	biān	an ancient stone acupuncture needle	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35102	绊	絆	bàn	to trip / to stumble / to hinder	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35103	瞶	\N	kuì	to have dim or blurred vision	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35104	瞶	\N	guì	to have dim or blurred vision	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35105	剜	\N	wān	to scoop out / to gouge out	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35106	旚	\N	piāo	a loan character	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35107	廝	\N	sī	a loan character	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35108	腑	\N	fǔ	internal organs	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35109	聆	\N	líng	to hear / to listen / to understand clearly	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35110	鎉	\N	tà	thallium	noun	元素	Chemical Element	化学	Chemistry	\N	\N	\N	\N	\N
+35111	蚋	\N	ruì	a mosquito / a blackfly	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35112	鍭	\N	hóu	a metal arrowhead	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35113	撏	\N	xián	to pull out / to pick / to pluck / to extract	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35114	噎	\N	yē	to choke / to choke up / to suffocate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35115	棱	\N	léng	corner / square beam / edge / protrusion	noun	\N	\N	形态	Form	\N	\N	\N	\N	The simplified character is also an archaic variant of 稜.
+35116	炯	\N	jiǒng	bright / clear	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35117	轗	\N	kǎn	to be unable to reach one's aim / to be full of misfortune	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35118	撄	攖	yīng	to oppose / to attack	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35119	豋	\N	dēng	a ceremonial vessel	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35120	剀	剴	kǎi	carefully / moderately	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
