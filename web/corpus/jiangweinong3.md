@@ -4,7 +4,7 @@ Description: Part 3 of the full text of a well respected commentary on the Diamo
 
 Period: 1941
 
-HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/jiangweinong3-gloss.html "HTML file")
+HTML with English gloss: [HTML file] (corpus_entry.html#/jiangweinong3-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/jiangweinong3-analysis.md "Vocabulary analysis")
 
@@ -20,5 +20,5 @@ Start marker: （己）次，約心明
 
 English translation: none
 
-Last modified: 2014-03-30
+Last modified: 2014-04-01
 

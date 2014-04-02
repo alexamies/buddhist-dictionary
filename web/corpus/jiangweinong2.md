@@ -4,7 +4,7 @@ Description: Part 2 of the full text of a well respected commentary on the Diamo
 
 Period: 1941
 
-HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/jiangweinong2-gloss.html "HTML file")
+HTML with English gloss: [HTML file] (corpus_entry.html#/jiangweinong2-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/jiangweinong2-analysis.md "Vocabulary analysis")
 
@@ -20,5 +20,5 @@ Start marker: （癸）次，顯勝所以
 
 English translation: none
 
-Last modified: 2014-03-29
+Last modified: 2014-04-01
 

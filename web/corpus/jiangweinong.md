@@ -4,7 +4,7 @@ Description: The first part of the full text of a well respected commentary on t
 
 Period: 1941
 
-HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/jiangweinong-gloss.html "HTML file")
+HTML with English gloss: [HTML file] (corpus_entry.html#/jiangweinong-gloss.html "HTML file")
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/jiangweinong-analysis.md "Vocabulary analysis")
 
@@ -20,5 +20,5 @@ Start marker: 金剛經講義
 
 English translation: none
 
-Last modified: 2014-03-30
+Last modified: 2014-04-01
 
