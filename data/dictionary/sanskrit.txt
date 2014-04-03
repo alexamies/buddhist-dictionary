@@ -43,7 +43,7 @@
 43	519	tam	tāṃ	तां	\N	她	she	\N	pronoun	tat
 44	3167	sutra	sūtra	सूत्र	sutta	經、佛經、長行	sutra	Literally, to sew	noun	\N
 45	6270	atman	ātman	आत्मन्	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
-46	28009	jnana	jñāna	ज्ञान	\N	闍那、智	jnana	wisdom / knowing	noun	\N
+46	28009	jnana	jñāna	ज्ञान	\N	闍那、智	wisdom / knowledge	Stem form	neuter	jñāna
 47	17994	dharma	dhárma	धर्म	dhamma	法	dharma /  natural law	\N	masculine	\N
 48	3166	bodhisattva	bodhisattva	बोधिसत्त्व	bodhisatta	菩薩	bodhisattva	Stem form	noun	bodhisattva
 49	3174	bodhi	bodhi	बोधि	bodhi	菩提	enlightenment	Stem form	feminine	bodhi
@@ -258,7 +258,7 @@
 258	28159	vasudhara	vasudhārā	वसुधारा	\N	增祿天母、增祿佛母、財續佛母、財續天母	Vasudhara	\N	proper_noun	\N
 259	28163	kumbha mela	kumbha melā	कुम्भ मेला	\N	寶瓶節	Kumbh Mela / Kumbha Mela	\N	proper_noun	\N
 260	28166	haridvaram	haridvāram	हरिद्वारम्	\N	哈裡迪瓦爾	Haridwar / Hardwar	\N	proper_noun	\N
-261	26965	amrta	amṛta	अमृत	\N	甘露	amrita / sweet dew / the nectar of immortality / merit	\N	noun	amṛta
+261	26965	amrta	amṛta	अमृत	\N	甘露	amrita / sweet dew / the nectar of immortality / merit	Stem form	neuter	amṛta
 262	311	sunya	śūnya	शून्य	\N	零	zero	Digit: ०	cardinal	\N
 263	301	eka	eka	एक	\N	一	one	Digit: १	cardinal	\N
 264	302	dvi	dvi	द्वि	\N	二	two	Digit: २	cardinal	\N
@@ -334,7 +334,7 @@
 334	9097	pada	pāda	पाद	\N	足、腳	foot	\N	masculine	\N
 335	3826	vrihi	vrīhi	व्रीहि	\N	米	rice	\N	noun	\N
 336	14209	ksana	kṣaṇa	क्षण	\N	剎那	an instant	\N	noun	\N
-337	4060	patha	pāṭha	पाठ	\N	誦、誦念	to recite	\N	verb	\N
+337	4060	patha	pāṭha	पाठ	\N	誦、誦念	to recite / to read	\N	verb	√pāṭh
 338	27996	sparsa	sparśa	स्पर्श	\N	塞音、爆破音	a plosive / a stop consonant	\N	noun	\N
 339	27997	usman	ūṣman	ऊष्मन्	\N	擦音	a fricative / a sibilant	\N	noun	\N
 340	7225	nasika	nāsika	नासिक	\N	鼻音	 a nasal sound	In phonetics	noun	\N
@@ -504,7 +504,7 @@
 504	28789	sugata	sugata	सुगत	\N	善逝	Immaculately Departed One / Well-Gone	One of the epithets of a Buddha	proper_noun	\N
 505	28790	lokavid	lokavid	लोकविद्	\N	世間解	knowing the world	One of the epithets of a Buddha	proper_noun	\N
 506	28792	purusadamyasarathi	puruṣadamyasārathi	पुरुषदम्यसारथि	\N	調禦士	driver or guide of men / One who Tames and Harmonizes	One of the epithets of a Buddha	proper_noun	\N
-507	4557	sastra	śāstra	शास्त्र	\N	論	a theory	\N	noun	\N
+507	4557	sastram	śāstram	शास्त्रम्	\N	論	a treatise / a theory	Nominative and accusative case, singular form	neuter	śāstra
 508	28804	purusa	puruṣa	पुरुष	\N	丈夫	a man / a great man	\N	noun	\N
 509	28822	indriya	indriya	इन्द्रिय	\N	根	an organ / a part of the body / an organ of sense	\N	noun	\N
 510	18692	saddharma	saddharma	सद्धर्म	\N	妙法、薩達摩、佛法	the wonderful Dharma / the wonderful truth / saddharma / the Dharma / the teachings of the Buddha	\N	proper_noun	\N
@@ -533,7 +533,7 @@
 533	28898	samudaya	samudaya	समुदय	samudaya	集	the origin of suffering	The second of the Four Noble Truths	noun	\N
 534	28899	nirodha	nirodha	निरोध	nirodha	滅	the cessation of suffering	The third of the Four Noble Truths	noun	\N
 535	28900	marga	mārga	मार्ग	magga	道	the path leading to the cessation of suffering	The forth of the Four Noble Truths	noun	\N
-536	5111	satya	satya	सत्य	sacca	諦	truth	\N	noun	\N
+536	5111	satya	satya	सत्य	sacca	諦	truth	Stem form	neuter	satya
 537	28901	dvadasavgapratityasamutpada	dvādaśāvgapratītyasamutpāda	द्वादशाव्गप्रतीत्यसमुत्पाद	\N	十二因緣	the Twelve Nidanas	\N	noun	\N
 538	7179	nidana	nidāna	निदान	\N	因緣	principal and secondary causes / chain of cause and effect / primary cause	\N	noun	\N
 539	28903	namarupa	nāmarūpa	नामरूप	nāmarūpa	名色	name and form	A dvandva compound	noun	\N
@@ -1179,7 +1179,7 @@
 1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Common form is bhāṣita	adjective	\N
 1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna / Srotapanna / Stream-Enterer	\N	proper_noun	\N
 1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	\N	须陀洹、入流	Sotapanna / Srotapanna / Stream-Enterer	\N	proper_noun	\N
-1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Common form is satya	noun	\N
+1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Non-standard, should be satyam	neuter	satya
 1183	6645	subhūti	subhūtiḥ	सुभूतिः	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case. The final letter ḥ indicates the nominative case.	proper_noun	\N
 1184	28804	purusah	puruṣaḥ	पुरुष	\N	丈夫	a man / a great man	The final letter ḥ indicates the nominative case.	noun	\N
 1185	6892	arhan	arhan	अर्हन्	arahant	阿羅漢、羅漢	Arhat	Common Sanskrit form is arhat	proper_noun	\N
@@ -1201,7 +1201,7 @@
 1201	33064	svaha	svāhā	स्वाहा	\N	僧莎訶	svaha	A term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.	interjection	\N
 1202	33255	arana	araṇa	अरण	\N	無諍	non-contention	\N	adjective	\N
 1203	5104	anuttarasamyaksaṃbodhi	anuttarasamyaksaṃbodhi	अनुत्तरसम्यक्संबोधि	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi	The consummation of incomparable enlightenment	noun	\N
-1204	32362	sastra	śastra	शस्त्र	\N	論	a treatise / a theory	\N	neuter	\N
+1204	32362	sastra	śāstra	शास्त्र	\N	論	a treatise / a theory	Stem form	neuter	śāstra
 1205	33421	anubhava	anubhāva	अनुभाव	anubhāva	威神	Anubhava	A diety, whose name means majesty or splendor	proper_noun	\N
 1206	33562	gunabhadra	guṇabhadra	गुणभद्र	\N	求那跋陀羅	Gunabhadra	394 - 468, Indian monk	proper_noun	\N
 1207	33233	asamskrta	asaṃskṛta	असंस्कृत	\N	無為	unconditioned	Something that does not arise from causes and conditions	adjective	\N
@@ -1252,9 +1252,9 @@
 1252	5500	gajena	gajena	गजेन	\N	大象、象	an elephant	Instrumental case, singular form	noun	gaja
 1253	1957	saha	saha	सह	\N	與	with	\N	indecl	saha
 1254	3223	putraya	putrāya	पुत्राय	\N	子、兒	a son / a child	Dative case	masculine	putra
-1255	2543	pustaka	pustaka	पुस्तक	\N	書	a book	Stem form	masculine	pustaka
-1256	2543	pustakam	pustakam	पुस्तकम्	\N	書	a book	Accusative  case, singular form	masculine	pustaka
-1257	4000	pathati	pathaṭi	पथटि	\N	讀	to read	\N	verb	\N
+1255	2543	pustaka	pustaka	पुस्तक	\N	書	a book	Stem form	neuter	pustaka
+1256	2543	pustakam	pustakam	पुस्तकम्	\N	書	a book	Nominative and accusative  case, singular form	neuter	pustaka
+1257	4000	pathati	paṭhati	पठति	\N	誦、讀	to read / to recite	\N	verb	√paṭh
 1258	418	narena	nareṇa	नरेण	\N	男、男子	a man	Instrumental case, singular form	masculine	nara
 1259	418	narabhyam	narābhyām	नराभ्याम्	\N	男、男子	two men	Instrumental and ablative cases, dual form	masculine	nara
 1260	418	naraih	naraiḥ	नरैः	\N	男、男子	some men	Instrumental case, plural form	masculine	nara
@@ -1296,7 +1296,7 @@
 1296	5500	gajat	gajat	गजत्	\N	大象、象	from the elephant	Ablative case, singular form	masculine	gaja
 1297	418	narasya	narasya	नरस्य	\N	男、男子	of the man / belonging to a man	Genitive case, singular form	masculine	nara
 1298	28111	ramasya	rāmasya	रामः	\N	羅摩	Rama's	Genitive case, singular form	proper_noun	rāma
-1299	26965	amrtasya	amṛtasya	अमृत	\N	甘露	of immortality	Genitive case, singular form	noun	amṛta
+1299	26965	amrtasya	amṛtasya	अमृतस्य	\N	甘露	of immortality	Genitive case, singular form	neuter	amṛta
 1300	418	narat	narāt	नरात्	\N	男、男子	from the man	Ablative case, singular form	masculine	nara
 1301	418	narayoh	narayoḥ	नरयोः	\N	男、男子	of two men / belonging to two men	Genitive and locative case, dual form	masculine	nara
 1302	418	naranam	narāṇām	नराणाम्	\N	男、男子	of the men / belonging to the men	Genitive case, plural form	masculine	nara
@@ -1360,7 +1360,7 @@
 1360	3185	candram	candram	चन्द्रम्	\N	月	moon	Accusative case, singular form	masculine	candra
 1361	28390	suryam	sūryam	सूर्यम्	\N	苏利耶	Surya / the Sun	Accusative case, singular form	masculine	sūrya
 1362	28390	suryena	sūryeṇa	सूर्येण	\N	苏利耶	Surya / the Sun	Instrumental case, singular form	masculine	sūrya
-1363	2940	pasyasi	paśyasi	पश्यसि	\N	見、看到、看	you see / you look	Second person, singular form	verb1_2rd	√paś
+1363	2940	pasyasi	paśyasi	पश्यसि	\N	見、看到、看	you see / you look	Second person, singular form	verb1_2nd	√paś
 1364	890	gramanam	grāmāṇām	ग्रामाणाम्	\N	村	of the villages	Genitive case, plural form	masculine	grāma
 1365	9698	virasya	vīrasya	वीरस्य	\N	英雄、雄	of the hero	Genitive case, singular form	masculine	vīra
 1366	4060	sangiti	saṅgīti	सङ्गीति	\N	誦	a chant	\N	feminine	saṅgīti
@@ -1378,4 +1378,13 @@
 1378	6006	phalasya	phalasya	फलस्य	\N	水果、果	fruit	Genitive case, singular form	neuter	phala
 1379	6006	phalayoh	phalayoḥ	फलयोः	\N	水果、果	two pieces of fruit	Genitive and Locative case, dual form	neuter	phala
 1380	6006	phalesu	phaleṣu	फलेषु	\N	水果、果	two pieces of fruit	Locative case, plural form	neuter	phala
-1381	6006	phalanam	phalānām	फलानाम्	\N	水果、果	two pieces of fruit	Genetive case, plural form	neuter	phala
+1381	6006	phalanam	phalānām	फलानाम्	\N	水果、果	two pieces of fruit	Nominative and Accusative case, singular form	neuter	phala
+1382	26965	amrtam	amṛtam	अमृतम्	\N	甘露	of immortality	Genitive case, singular form	neuter	amṛta
+1383	2231	katham	katham	कथम्	\N	如何	how	Interrogative pronoun	indecl	katham
+1384	28009	jnanam	jñānam	ज्ञानम्	\N	闍那、智	wisdom / knowledge	Nominative and Accusative case, singular form	neuter	jñāna
+1385	2648	vana	vana	वन	\N	林	a book	Stem form	neuter	vana
+1386	2648	vanam	vanam	वनम्	\N	林	a book	Nominative and Accusative case, singular form	neuter	vana
+1387	6492	vajracchedika	vajracchedikā	वज्रच्छेदिका	\N	金剛	diamond cutter	Stem form	noun	vajracchedikā
+1388	5111	satyam	satyam	सत्यम्	\N	諦	truth	Nominative and Accusative case, singular form	neuter	satya
+1389	6888	sukta	sūkta	सूक्त	\N	偈	a hymn	Stem form	neuter	sūkta
+1390	6888	suktam	sūktam	सूक्तम्	\N	偈	a hymn	Nominative and Accusative case, singular form	neuter	sūkta
