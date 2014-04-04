@@ -158,7 +158,7 @@
 158	取法相	取/VV[qǔ | to attach] 法/NN[fǎ | a dhárma] 相/NN[xiàng | a notion] <grasp after notions of dhármas>	\N	2	Diamond Sūtra
 159	非法相	非/VC[fēi | not] 法/NN[fǎ | a dhárma] 相/NN[xiàng | a notion] <no notions of dhármas>	\N	2	Diamond Sūtra
 160	取法	取/VV[qǔ | to attach] 法/NN[fǎ | a dhárma] <grasp after dhármas>	\N	2	Diamond Sūtra
-161	非法	非/VC[fēi | not] 法/NN[fǎ | a dhárma] <non-dhármas>	\N	2	Diamond Sūtra
+161	非法	非/VC[fēi | not] 法/NN[fǎ | a dhárma] <non-dhármas>	nādharmaḥ	2	Diamond Sūtra
 162	說法	說/VV[shuō | to teach] 法/NN[fǎ | a dhárma] <to teach the dhárma>	\N	2	Diamond Sūtra
 163	無有	無/VC[wú | no] 有/VC[yǒu | to have] <is not>	\N	2	Diamond Sūtra
 164	法名	法/NN[fǎ | a dhárma] 名/NN[míng | to be called] <dhárma called>	\N	2	Diamond Sūtra
@@ -305,3 +305,5 @@
 304	諸佛	諸/DT[zhū | all] 佛/NR[Fó | Buddha] <all Buddhas>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
 305	經中	經/NN[jīng | sūtra] 中/P[zhōng | in] <in the sūtra>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
 306	佛智慧	佛/NR[Fó | Buddha] 智慧/NN[zhìhuì | wisdom] <buddha-wisdom>	buddhajñānena	2	Diamond Sūtra
+307	號釋迦牟尼	號/NN[hào | name] 釋迦牟尼/NR[Shìjiāmóuní | Śākyamuni] <named Śākyamuni>	śākyamunirnāma	2	Diamond Sūtra
+308	離欲	離/VV[lí | leave] 欲/NN[yù | desire] <free of desire>		vītarāga	2	Diamond Sūtra

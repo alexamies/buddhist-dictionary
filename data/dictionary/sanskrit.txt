@@ -41,13 +41,13 @@
 41	27998	sivasutrani	śivasūtrāṇi	शिवसूत्राणि	\N	濕婆經	Shiva Sutra	\N	proper_noun	\N
 42	518	tam	taṃ	तं	\N	他	he	\N	pronoun	\N
 43	519	tam	tāṃ	तां	\N	她	she	\N	pronoun	tat
-44	3167	sutra	sūtra	सूत्र	sutta	經、佛經、長行	sutra	Literally, to sew	noun	\N
+44	3167	sutra	sūtra	सूत्र	sutta	經、佛經、長行	sutra	Literally, to sew; stem form	neuter	sūtra
 45	6270	atman	ātman	आत्मन्	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 46	28009	jnana	jñāna	ज्ञान	\N	闍那、智	wisdom / knowledge	Stem form	neuter	jñāna
 47	17994	dharma	dhárma	धर्म	dhamma	法	dharma /  natural law	\N	masculine	\N
 48	3166	bodhisattva	bodhisattva	बोधिसत्त्व	bodhisatta	菩薩	bodhisattva	Stem form	noun	bodhisattva
 49	3174	bodhi	bodhi	बोधि	bodhi	菩提	enlightenment	Stem form	feminine	bodhi
-50	21078	sattva	sattva	सत्त्व	\N	有情	a being / a creature	Stem form	noun	sattva
+50	21078	sattva	sattva	सत्त्व	\N	有情	a being / a creature	Stem form	neuter	sattva
 51	18698	manjusri	mañjuśrī	मञ्जुश्री	\N	文殊	Manjusri	\N	proper_noun	\N
 52	11853	ksitigarbha	kṣitigarbha	क्षितिगर्भ	\N	地藏	Ksitigarbha	Literally, earth (kṣiti) store	proper_noun	\N
 53	18705	samantabhadra	samantabhadra	समन्तभद्र	\N	普贤	Samantabhadra	\N	proper_noun	\N
@@ -82,7 +82,7 @@
 82	22994	veda	véda	वेदा	\N	吠陀	Veda	Literally, knowledge in Sanskrit	noun	\N
 83	17766	siddhartha	siddhārtha	सिद्धार्थ	Siddhattha	悉達多	Siddhartha	The Buddha's personal name	proper_noun	\N
 84	3618	buddhatva	buddhatva	बुद्धत्व	buddhatta	佛	buddhahood	The state of being a Buddha	noun	\N
-85	6686	tathagata	tathāgata	तथागत	\N	如來	Tathagata	Stem form	proper_noun	tathāgata
+85	6686	tathagata	tathāgata	तथागत	\N	如來	Tathagata	Stem form	masculine	tathāgata
 86	20517	sravaka	śrāvaka	श्रावक	sāvaka	声闻	Sravaka / Shravaka	\N	proper_noun	\N
 87	9060	maitreya	maitreya	मैत्रेय	metteyya	彌勒	Maitreya	\N	proper_noun	\N
 88	26490	Trayastrimsa	Trāyastriṃśa	त्रयस्त्रिंश	Tāvatiṃsa	忉利天	Trayastrimsa	\N	proper_noun	\N
@@ -239,7 +239,7 @@
 239	22085	devadatta	devadatta	देवदत्त	\N	提婆達多	Devadatta	\N	proper_noun	\N
 240	25307	sravasti	śrāvastī	श्रावस्ती	sāvatthī	舍衛	Sravasti	Stem form	proper_noun	śrāvastī
 241	28124	kosala	kosala	कोसल	\N	拘薩羅	Kosala	\N	proper_noun	\N
-242	8847	mahasattva	mahāsattva	महासत्त्व	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	\N	noun	\N
+242	8847	mahasattva	mahāsattva	महासत्त्व	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Stem form for the second part of the compound sattva	masculine	mahāsattva
 243	25140	gandhara	gandḥārā	गन्धार	\N	犍陀羅	Gandhara	\N	proper_noun	\N
 244	28126	marasudanatara	mārasūdanatārā	मारसूदनतारा	\N	能催惡敵救度	Marasudana Tara	\N	proper_noun	\N
 245	28129	sokavinodanatara	śokavinodanatārā	शोकविनोदनतारा	\N	湼槃寂滅救度	Sokavinodana Tara	\N	proper_noun	\N
@@ -258,7 +258,7 @@
 258	28159	vasudhara	vasudhārā	वसुधारा	\N	增祿天母、增祿佛母、財續佛母、財續天母	Vasudhara	\N	proper_noun	\N
 259	28163	kumbha mela	kumbha melā	कुम्भ मेला	\N	寶瓶節	Kumbh Mela / Kumbha Mela	\N	proper_noun	\N
 260	28166	haridvaram	haridvāram	हरिद्वारम्	\N	哈裡迪瓦爾	Haridwar / Hardwar	\N	proper_noun	\N
-261	26965	amrta	amṛta	अमृत	\N	甘露	amrita / sweet dew / the nectar of immortality / merit	Stem form	neuter	amṛta
+261	26965	amrta	amṛta	अमृत	\N	甘露	amrita / sweet dew / the nectar of immortality / merit / immortality / an immortal	Stem form	neuter	amṛta
 262	311	sunya	śūnya	शून्य	\N	零	zero	Digit: ०	cardinal	\N
 263	301	eka	eka	एक	\N	一	one	Digit: १	cardinal	\N
 264	302	dvi	dvi	द्वि	\N	二	two	Digit: २	cardinal	\N
@@ -399,7 +399,7 @@
 399	28483	bhute krdanta	bhūte kṛdanta	भूते कृदन्त	\N	過去被動分詞	past passive participle	\N	noun	\N
 400	2893	bhaisajyaguruvaiduryaprabharajasutram	bhaiṣajyaguruvaidūryaprabharājasūtram	भैषज्यगुरुवैदूर्यप्रभराजसूत्रम्	\N	藥師經、藥師琉璃光七佛本願功德經	Sutra of the Medicine Buddha	\N	proper_noun	\N
 401	3236	raja	rāja	राज	\N	王	king / monarch	\N	noun	\N
-402	1114	maha	mahā	महा	mahā	大	great	\N	adjective	\N
+402	1114	maha	mahā	महा	mahā	大	great	Stem form	adjective	mahā
 403	2618	asvah	aśvaḥ	अश्वः	\N	馬	horse	Nominative case, singular form	masculine	aśva
 404	7979	asthah	asthāḥ	अस्थाः	\N	站	you stood	\N	verb	\N
 405	343	gatih	gatiḥ	गतिः	\N	去	to go	\N	verb	\N
@@ -499,7 +499,7 @@
 499	1258	vasatha	vasatha	वसथ	\N	房子、房	house	\N	noun	\N
 500	537	pasyami	paśyāmi	पश्यामि	\N	看、見	I see	First person, singular form	verb1_1st	√paś
 501	21143	bhramat	bhramat	भ्रमत्	\N	游方、流浪	to wander about	\N	verb	\N
-502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	\N	noun	\N
+502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	\N	noun	samyaksambodhi
 503	28788	vidyacaranasampanna	vidyācaraṇasampanna	विद्याचरणसम्पन्न	\N	明行圓滿	Activity of Full Brightness	One of the epithets of a Buddha	proper_noun	\N
 504	28789	sugata	sugata	सुगत	\N	善逝	Immaculately Departed One / Well-Gone	One of the epithets of a Buddha	proper_noun	\N
 505	28790	lokavid	lokavid	लोकविद्	\N	世間解	knowing the world	One of the epithets of a Buddha	proper_noun	\N
@@ -606,7 +606,7 @@
 606	28021	ksetra	kṣetra	क्षेत्र	\N	界	a realm / a field / a domain	\N	neuter	\N
 607	4355	bhojana	bhojana	भोजन	\N	食	food	\N	neuter	\N
 608	3513	vacana	vacana	वचन	\N	言	speech / words	\N	neuter	\N
-609	4181	vana	vana	वन	\N	森林	a forest	\N	neuter	\N
+609	4181	vana	vana	वन	\N	森林	a forest	Stem form	neuter	vana
 610	5468	vismita	vismita	विस्मित	\N	驚	surprised	\N	adjective	\N
 611	18594	upta	upta	उप्त	\N	稼、播	sown	Past particle of the stem vap	adjective	\N
 612	2451	hata	hata	हत	\N	殺	killed	Past particle of the stem han	adjective	han
@@ -651,7 +651,7 @@
 651	29511	dhyanaparamita	dhyānapāramitā	ध्यानपारमिता	jhānapāramī	禪定波羅蜜、禪波羅蜜、禪那波羅蜜、禪度無極	dhyana-paramita / the paramita of meditative concentration	\N	phrase	\N
 652	29485	prajnaparamita	prajñāpāramitā	प्रज्ञापारमिता	paññāpāramī	智慧波羅蜜、慧波羅蜜、般若波羅蜜、明慧度無極	prajna-paramita / perfection of wisdom	\N	phrase	\N
 653	29592	sadhu	sādhu	साधु	sādhu	善哉	excellent	Used in praise or agreement	indecl	\N
-654	21017	dharmaparyaya	dharmaparyāya	धर्मपर्याय	\N	法門	Dharmaparyaya / a Dharma door / a Buddhist teaching	\N	compound	\N
+654	21017	dharmaparyaya	dharmaparyāya	धर्मपर्याय	\N	法門	Dharmaparyaya / a Dharma door / a Buddhist teaching	Stem form	compound	dharmaparyāya
 655	29599	gandharva	gandharva	गन्धर्व	gandhabba	乾闥婆、揵達縛	a gandharva	A kind of mythical being known for musical skills	noun	\N
 656	26518	kimnara	kiṃnara	किंनर	\N	緊那羅、緊捺洛	kinnara / kimnara	A mythical being in Hindu and Buddhist mythology	noun	\N
 657	29608	vipasyin	vipaśyin	विपश्यिन्	vipassī	毗盧尸佛、毘婆尸佛、毗婆尸	Vipasyin Buddha	The first of the Seven Past Buddhas	proper_noun	\N
@@ -877,7 +877,7 @@
 877	32102	bodhicaryavatara	bodhicaryāvatāra	बोधिचर्यावतार	\N	入菩薩行論	A Guide to the Bodhisattva's Way of Life	A treatise written by Shantideva (寂天)	proper_noun	\N
 878	32103	caitasika	caitasika	चैतसिक	\N	心所、心所法	a mental factor	\N	noun	\N
 879	17993	citta	citta	चित्त	citta	心	mind	Usually refers to the emotive side of mind compared to manas, which usually refers to the intellect	neuter	\N
-880	28010	skandha	skandha	स्कन्ध	khandha	蘊	aggregate	A Buddhist term that means the aspects that make up a human being	noun	\N
+880	28010	skandha	skandha	स्कन्ध	khandha	蘊	aggregate	A Buddhist term that means the aspects that make up a human being	masculine	skandha
 881	32106	samjna	saṃjñā	संज्ञा	saññā	想蘊、想	notion / perception / cognition / conceptualization / saṃjñā / samjna	One of the five aggregates. Stem form.	feminine	saṃjñā
 882	32109	vitarka	vitarka	वितर्क	vitakka	尋	vitarka / vitarkah / vitakka / conception / gross detection / examination / application of thought	one of the four changeable mental factors of the Mahayana teachings	masculine	\N
 883	32110	canda	canda	चण्ड	canda	欲	intention / interest / desire / aspiration	One of the five object-determining mental factors in the Mahayana teachings	masculine	\N
@@ -968,10 +968,10 @@
 968	32350	kaya	kāya	काय	\N	身	body	Stem form	masculine	kāya
 969	32351	mahakaya	mahākāya	महाकाय	\N	大身	great body	\N	compound	\N
 970	21077	rupakaya	rūpakāya	रूपकाय	\N	色身	pyhsical body	\N	compound	\N
-971	26512	saptaratnaparipurna	saptaratnaparipūrṇa	सप्तरत्नपरिपूर्ण	\N	七寶	the Seven Treasures / the Seven Precious Jewels	\N	compound	\N
+971	26512	saptaratnaparipurna	saptaratnaparipūrṇa	सप्तरत्नपरिपूर्ण	\N	七寶	the Seven Treasures / the Seven Precious Jewels	Stem form	compound	saptaratnaparipūrṇa
 972	1211	paripurna	paripūrṇa	परिपूर्ण	\N	貴	precious / perfect / complete	\N	adjective	\N
 973	6888	gatha	gāthā	गाथा	\N	偈	a verse / stanza	\N	feminine	\N
-974	6900	dipamkara	dīpaṃkara	दीपंकर	\N	然燈佛、然燈	Dipankara Buddha	Stem form	proper_noun	dīpaṃkara
+974	6900	dipamkara	dīpaṃkara	दीपंकर	\N	然燈佛、然燈	Dipankara Buddha	Stem form	masculine	dīpaṃkara
 975	6711	pada	pada	पद	\N	句	sentence	\N	neuter	pada
 976	32438	kulaputra	kulaputra	कुलपुत्र	\N	善男子	a good man / a son of a noble family	Stem form	masculine	kulaputra
 977	10363	duhita	duhitā	दुहिता	\N	女兒	daughter	\N	feminine	\N
@@ -1002,7 +1002,7 @@
 1002	3164	niratma	nirātma	निरात्म	\N	無我	selflessness / non-self	\N	adjective	\N
 1003	7183	visama	viṣama	विषम	\N	高下	better or worse / stronger or weaker	\N	adjective	\N
 1004	30865	parimocita	parimocita	परिमोचित	\N	度	rescued / liberated / emancipated	\N	adjective	\N
-1005	568	vinasa	vināśa	विनाश	\N	滅	annihilation / destruction	\N	masculine	\N
+1005	568	vinasa	vināśa	विनाश	\N	滅	annihilation / destruction	Stem form	masculine	vināśa
 1006	32463	uccheda	uccheda	उच्छेद	\N	斷	end / destruction / annihilation	\N	masculine	\N
 1007	1459	parigraha	parigraha	परिग्रह	\N	得	possess	\N	masculine	\N
 1008	3368	nisidati	niṣīdati	निषीदति	\N	坐	to sit	\N	verb	\N
@@ -1084,7 +1084,7 @@
 1084	32833	dharmasamjna	dharmasaṃjñā	धर्मसंज्ञा	\N	法相	the essential nature of different phenomena	\N	phrase	\N
 1085	6722	arya	ārya	आर्य	\N	賢	noble	\N	adjective	\N
 1086	32839	aryapudgala	āryapudgala	आर्यपुद्गल	\N	賢聖	noble one	A compound of the two words ārya and pudgala	adjective	\N
-1087	5284	bahutara	bahutara	बहुतर	\N	勝	surpassing / greater / exceeding	\N	adjective	\N
+1087	5284	bahutara	bahutara	बहुतर	\N	勝	surpassing / greater / exceeding	Stem form	adjective	bahutara
 1088	1459	prapta	prāpta	प्राप्त	\N	得	obtained / attained / acquired	\N	adjective	\N
 1089	533	srotas	srotas	स्रोतस्	\N	流	a stream	\N	neuter	\N
 1090	11052	sam	saṃ	सं	\N	同	together	\N	indecl	\N
@@ -1147,7 +1147,7 @@
 1147	3811	khalu	khalu	खलु	\N	爾	now then / indeed / certainly	\N	indecl	khalu
 1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
 1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana / the practice of giving	Word ending modified for the accusive case	noun	\N
-1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. (Conze 1958, p36) The suffix ṃ is added for the accusative case.	noun	\N
+1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. (Conze 1958, p36). Accusative case, singular form.	masculine	puṇyaskandha
 1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	tathāgata
 1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
 1153	21078	sattvanam	sattvānāṃ	सत्त्वानां	\N	有情	belonging to beings	Genitive case, plural form	masculine	sattva
@@ -1159,14 +1159,14 @@
 1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Normally written as puruṣa but the word ending is modified here for the accusive case	masculine	\N
 1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	a being / a creature	Normally written as puruṣa but the word ending is modified here for the nominative case	noun	\N
 1161	17994	dharma	dharmā	धर्मा	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
-1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	noun	\N
-1163	7135	punyaskandha	puṇyaskandha	पुण्यस्कन्ध	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze	noun	\N
+1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Nominative case, plural form	masculine	mahāsattva
+1163	7135	punyaskandha	puṇyaskandha	पुण्यस्कन्ध	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. Stem form.	masculine	puṇyaskandha
 1164	6645	subhute	subhute	सुभुते	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case. Normally written as subhūte but changed here for sandhi.	proper_noun	\N
 1165	412	bhasitah	bhāṣitaḥ	भाषितः	\N	說	said	Common form is bhāṣita	adjective	\N
 1166	412	bhasita	bhāṣitā	भाषिता	\N	說	said	Common form is bhāṣita	adjective	\N
 1167	412	bhasitah	bhāṣitāḥ	भाषिताः	\N	說	said	Common form is bhāṣita	adjective	\N
 1168	31047	atha	atha	अथ	\N	時	now / at that time	\N	indecl	\N
-1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. The suffix ḥ is added for the nominative case.	noun	\N
+1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Translated as a <i>heap of merit</i> by Conze. Nominative case, singular form.	masculine	puṇyaskandha
 1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma / the teachings of the Buddha	\N	proper_noun	\N
 1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat / Bhagavan / Bhagwan / Bhagawan	Literally, Blessed One. Normally written as Bhagavān.	proper_noun	\N
 1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	tathāgata
@@ -1174,7 +1174,7 @@
 1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man / a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
 1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world / a region of the world	Normally written as lokadhātu but the word ending is modified here for the accusive case	masculine	\N
 1176	3618	buddha	buddhā	बुद्धा	\N	佛	Buddha	Normally written as buddha but the word ending is modified here for Sandhi	proper_noun	\N
-1177	8847	mahasattva	mahāsattvā	महासत्त्वा	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	noun	\N
+1177	8847	mahasattva	mahāsattvā	महासत्त्वा	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	masculine	mahāsattva
 1178	363	lokadhatun	lokadhātūn	लोकधातून्	\N	世界	a world / a region of the world	Normally written as lokadhātu but the word ending is modified here for Sanskrit grammar	masculine	\N
 1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Common form is bhāṣita	adjective	\N
 1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna / Srotapanna / Stream-Enterer	\N	proper_noun	\N
@@ -1185,7 +1185,7 @@
 1185	6892	arhan	arhan	अर्हन्	arahant	阿羅漢、羅漢	Arhat	Common Sanskrit form is arhat	proper_noun	\N
 1186	6888	gathe	gāthe	गाथे	\N	偈	a verse / stanza	Common Sanskrit form is arhat, may be modified to this form for grammatical reasons	feminine	\N
 1187	17994	dharma	dharma	धर्म	dhamma	法	dharma /  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
-1188	3167	sutram	sūtraṃ	सूत्रं	sutta	經、佛經、長行	sutra	Common Sanskrit form is sūtra, may be modified to this form for grammatical reasons	noun	\N
+1188	3167	sutram	sūtraṃ	सूत्रं	sutta	經、佛經、長行	sutra	Nominative and accusative cases, singular form	neuter	\N
 1189	17994	dharmah	dharmāḥ	धर्माः	dhamma	法	dharma /  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
 1190	21819	utpadayitavyam	utpādayitavyam	उत्पादयितव्यम्	\N	降伏	to subdue / to vanquish / to tame	\N	verb	\N
 1191	32458	prabhavita	prabhāvitā	प्रभाविता	\N	有	to have / to possess	\N	verb	\N
@@ -1329,7 +1329,7 @@
 1329	32439	kuladuhitrnam	kuladuhitṝṇāṃ	कुलदुहितॄणां	\N	善女人	belonging to good women	Genitive case, plural form	feminine	kuladuhitrā
 1330	6903	sumeruh	sumeruḥ	सुमेरुः	\N	須彌山	Mount Sumeru / Mount Meru	Nominative case, singular form	proper_noun	sumeru
 1331	6900	dīpamkarena	dīpaṃkareṇa	दीपंकरेण	\N	然燈佛、然燈	Dipankara Buddha	Instrumental case	proper_noun	dīpaṃkara
-1332	3166	bodhisattvah	bodhisattvāḥ	बोधिसत्त्वाः	\N	菩薩	bodhisattvas	Nominative case, plural form	noun	bodhisattva
+1332	3166	bodhisattvah	bodhisattvāḥ	बोधिसत्त्वाः	\N	菩薩	bodhisattvas	Nominative case, plural form	masculine	bodhisattva
 1333	32438	kulaputranam	kulaputrāṇāṃ	कुलपुत्राणां	\N	善男子	belonging to good men	Genitive case, plural form	masculine	kulaputra
 1334	32350	kayam	kāyaṃ	काय	\N	身	body	Accusative case, singular form	masculine	kāya
 1335	3236	nrpasya	nṛpasya	नृपस्य	\N	王	belonging to the king	Genitive case, singular form	masculine	nṛpa
@@ -1379,12 +1379,51 @@
 1379	6006	phalayoh	phalayoḥ	फलयोः	\N	水果、果	two pieces of fruit	Genitive and Locative case, dual form	neuter	phala
 1380	6006	phalesu	phaleṣu	फलेषु	\N	水果、果	two pieces of fruit	Locative case, plural form	neuter	phala
 1381	6006	phalanam	phalānām	फलानाम्	\N	水果、果	two pieces of fruit	Nominative and Accusative case, singular form	neuter	phala
-1382	26965	amrtam	amṛtam	अमृतम्	\N	甘露	of immortality	Genitive case, singular form	neuter	amṛta
+1382	26965	amrtam	amṛtam	अमृतम्	\N	甘露	immortality / an immortal	Nominative and Accusative case, singular form	neuter	amṛta
 1383	2231	katham	katham	कथम्	\N	如何	how	Interrogative pronoun	indecl	katham
 1384	28009	jnanam	jñānam	ज्ञानम्	\N	闍那、智	wisdom / knowledge	Nominative and Accusative case, singular form	neuter	jñāna
-1385	2648	vana	vana	वन	\N	林	a book	Stem form	neuter	vana
-1386	2648	vanam	vanam	वनम्	\N	林	a book	Nominative and Accusative case, singular form	neuter	vana
+1385	2648	vane	vane	वने	\N	林	in the forest book	Locative case, singular form	neuter	vana
+1386	2648	vanam	vanam	वनम्	\N	林	a forest	Nominative and Accusative case, singular form	neuter	vana
 1387	6492	vajracchedika	vajracchedikā	वज्रच्छेदिका	\N	金剛	diamond cutter	Stem form	noun	vajracchedikā
 1388	5111	satyam	satyam	सत्यम्	\N	諦	truth	Nominative and Accusative case, singular form	neuter	satya
 1389	6888	sukta	sūkta	सूक्त	\N	偈	a hymn	Stem form	neuter	sūkta
 1390	6888	suktam	sūktam	सूक्तम्	\N	偈	a hymn	Nominative and Accusative case, singular form	neuter	sūkta
+1391	26965	amrtani	amṛtāni	अमृतानि	\N	甘露	immortality / immortals	Nominative and Accusative case, plural form	neuter	amṛta
+1392	2231	katham	kathaṃ	कथं	\N	如何	how	Interrogative pronoun, standard form is katham	indecl	katham
+1393	21078	sattva	sattvā	सत्त्वा	\N	有情	a being / a creature	Standard stem form is sattva	neuter	sattva
+1394	8847	mahasattvena	mahāsattvena	महासत्त्वेन	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Instrumental case, singular form.	masculine	mahāsattva
+1395	32930	pancasatyam	pañcaśatyāṃ	पञ्चशत्यां	\N	五百	five hundred	Accusative case	number	pañcaśatyā
+1396	7135	punyaskandhasya	puṇyaskandhasya	पुण्यस्कन्धस्य	\N	功德、福、福德	a quantity of merit / a quantity of virtue	Genitive case, singular form.	masculine	puṇyaskandha
+1397	3166	bodhisattvasya	bodhisattvasya	बोधिसत्त्वस्य	\N	菩薩	of a bodhisattva	Genitive case, singular form	masculine	bodhisattva
+1398	26965	amrtena	amṛtena	अमृतेन	\N	甘露	immortality / an immortal	Instrumental case, singular form	neuter	amṛta
+1399	26965	amrtanam	amṛtānām	अमृतानाम्	\N	甘露	of the immortals	Genitive case, plural form	neuter	amṛta
+1400	4557	sastrani	śāstraṇi	शास्त्रणि	\N	論	treatises / theories	Nominative and accusative case, plural form	neuter	śāstra
+1401	4557	sastrena	śāstreṇa	शास्त्रेण	\N	論	a treatise / a theory	Instrumental case, singular form	neuter	śāstra
+1402	4557	sastranam	śāstrāṇām	शास्त्राणाम्	\N	論	treatises / theories	Genitive case, singular form	neuter	śāstra
+1403	13326	devau	devau	देवौ	\N	天	two deities	Nominative, accusative, and vocative case, dual form	masculine	deva
+1404	6686	tathagatasya	tathāgatasya	तथागतस्य	\N	如來	Tathagata	Genitive case, singular form	masculine	tathāgata
+1405	17908	tesam	teṣāṃ	तेषां	\N	是	their	\N	pronoun	\N
+1406	5284	bahutaram	bahutaraṃ	बहुतरं	\N	勝	surpassing / greater / exceeding	Accusative case, singular form	adjective	bahutara
+1407	775	datavya	dātavya	दातव्य	\N	給	to be given	Stem form	adjective	dātavya
+1408	775	dātavyam	dātavyam	दातव्यम्	\N	給	to be given	Accusative case, singular form	adjective	dātavya
+1409	28787	samyaksambuddhena	samyaksaṃbuddhena	सम्यक्संबुद्धेन	\N	正等覺	complete enlightenment	Instrumental case, singular form	noun	samyaksambodhi
+1410	26512	saptaratnaparipurnam	saptaratnaparipūrṇaṃ	सप्तरत्नपरिपूर्णं	\N	七寶	the Seven Treasures / the Seven Precious Jewels	Accusative case, singular form	compound	saptaratnaparipūrṇa
+1411	6900	dīpamkarasya	dīpaṃkarasya	दीपंकरस्य	\N	然燈佛、然燈	Dipankara Buddha	Genitive case, singular form	masculine	dīpaṃkara
+1412	12024	vitatha	vitatha	वितथ	\N	非	false	Stem form	adjective	vitatha
+1413	12024	vitatham	vitathaṃ	वितथं	\N	非	false	Accusative case, singular form	adjective	vitatha
+1414	32987	atmabhava	ātmabhāva	आत्मभाव	\N	有人	personal existence	(Conze 1958, p 46)	masculine	ātmabhāva
+1415	32987	atmabhavah	ātmabhāvaḥ	आत्मभावः	\N	有人	personal existence	Nominative case, singular form	masculine	ātmabhāva
+1416	33237	vaktavya	vaktavya	वक्तव्य	\N	名	to be named / to be called	Stem form	adjective	vaktavya
+1417	33237	vaktavyah	vaktavyaḥ	वक्तव्यः	\N	名	to be named / to be called	Nominative case, singular form	adjective	vaktavya
+1418	3670	ascarya	āścarya	आश्चर्य	\N	善	wonderful	Stem form	adjective	āścarya
+1419	3670	ascaryam	āścaryaṃ	आश्चर्यं	\N	善	wonderful	Accusative case, singular form	adjective	āścarya
+1420	21017	dharmaparyayam	dharmaparyāyaṃ	धर्मपर्यायं	\N	法門	Dharmaparyaya / a Dharma door / a Buddhist teaching	Accusative case	compound	dharmaparyāya
+1421	775	dātavyam	dātavyaṃ	दातव्यं	\N	給	to be given	Accusative case, singular form	adjective	dātavya
+1422	8847	mahasattvanam	mahāsattvānāṃ	महासत्त्वानां	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Genitive case, plural form.	masculine	mahāsattva
+1423	568	vinasah	vināśaḥ	विनाशः	\N	滅	annihilation / destruction	Nominative case, singular form	masculine	vināśa
+1424	3167	sutre	sūtre	सूत्रे	\N	經、佛經、長行	sutra is located	Locative case, singular form	neuter	sūtra
+1425	1114	mahan	mahān	महान्	\N	大	great	Accusative case, plural form	adjective	mahā
+1426	363	loka	loka	लोक	\N	世界、世间	a world	Stem form	masculine	loka
+1427	363	lokasya	lokasya	लोकस्य	\N	世界、世间	a world	Genitive case, singular form	masculine	loka
+1428	35148	vitaraga	vītarāga	वीतराग	\N	離欲	Stem form	adjective	vītarāga
+1429	35148	vitaragah	vītarāgaḥ	वीतरागः	\N	離欲	Nominative case, singular form	adjective	vītarāga
