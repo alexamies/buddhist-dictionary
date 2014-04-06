@@ -181,7 +181,7 @@
 181	無壽者相	無/VE[wú | to not have] 壽/NN[shòu | lifespan] 者/MSP[zhě | used after a verb to indicate a person who does the action] 相/NN[xiàng | a notion] <no notions of a lifespan>	\N	2	Diamond Sūtra
 182	節節	節/NN[jié | piece] 節/NN[jié | piece] <piece by piece>	\N	2	Diamond Sūtra
 183	瞋恨	瞋/NN[chēn | hatred] 恨/NN[hèn | anger] <hatred and anger>	\N	2	Diamond Sūtra
-184	無我相	無/VE[wú | to not have] 我/NN[wǒ | self] 相/NN[xiàng | a notion] <no notion of a self>	\N	2	Diamond Sūtra
+184	無我相	無/VE[wú | to not have] 我/NN[wǒ | self] 相/NN[xiàng | a notion] <no notion of a self>	nātmasaṃjñā	2	Diamond Sūtra
 185	不住	不/AD[bù | not] 住/VV[to dwell] <does not dwell>	\N	2	Diamond Sūtra
 186	以要言之	以/VV[yǐ | to use] 要/NN[yào | summary] 言/VV[yán | to speak] 之/PN[ zhī | this] <in summary>	khalu punaḥ	2	Diamond Sūtra
 187	大乘者	大乘/NR[Dàchéng | Great Vehicle] 者/P[zhě | used after a verb to indicate a person who does the action] <those in the Great Vehicle>	\N	2	Diamond Sūtra
@@ -302,11 +302,17 @@
 302	本經	本/DT[běn | this] 經/NN[jīng | sūtra] <this sūtra>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
 303	不應	不/AD[bù | not] 應/VV[yīng | should] <should not>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
 304	取非法	取/VV[qǔ | attach] 非/AD[fēi | non] 法/NN[fǎ | dharma] <to be attached to non-dharmas>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
-304	諸佛	諸/DT[zhū | all] 佛/NR[Fó | Buddha] <all Buddhas>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
-305	經中	經/NN[jīng | sūtra] 中/P[zhōng | in] <in the sūtra>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
-306	佛智慧	佛/NR[Fó | Buddha] 智慧/NN[zhìhuì | wisdom] <buddha-wisdom>	buddhajñānena	2	Diamond Sūtra
-307	號釋迦牟尼	號/NN[hào | name] 釋迦牟尼/NR[Shìjiāmóuní | Śākyamuni] <named Śākyamuni>	śākyamunirnāma	2	Diamond Sūtra
-308	離欲	離/VV[lí | leave] 欲/NN[yù | desire] <free of desire>		vītarāga	2	Diamond Sūtra
-309	山王	山/NN[shān | mountain] 王/NN[wáng | king] <King of Mountains>	parvatarājaḥ	2	Diamond Sūtra
-310	實相	實/VA[shí | true] 相/NN[xiàng | appearance] <true appearance>	bhūtasaṃjñā	2	Diamond Sūtra
-311	不眾生	不/AD[bù | not] 眾生/NN[zhòngshēng | sentient beings] <not sentient beings>	nāsattvāḥ	2	Diamond Sūtra
+305	諸佛	諸/DT[zhū | all] 佛/NR[Fó | Buddha] <all Buddhas>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
+306	經中	經/NN[jīng | sūtra] 中/P[zhōng | in] <in the sūtra>	\N	36	Lectures on the Diamond Sutra by Jiang Wei Nong
+307	佛智慧	佛/NR[Fó | Buddha] 智慧/NN[zhìhuì | wisdom] <buddha-wisdom>	buddhajñānena	2	Diamond Sūtra
+308	號釋迦牟尼	號/NN[hào | name] 釋迦牟尼/NR[Shìjiāmóuní | Śākyamuni] <named Śākyamuni>	śākyamunirnāma	2	Diamond Sūtra
+309	離欲	離/VV[lí | leave] 欲/NN[yù | desire] <free of desire>		vītarāga	2	Diamond Sūtra
+310	山王	山/NN[shān | mountain] 王/NN[wáng | king] <King of Mountains>	parvatarājaḥ	2	Diamond Sūtra
+311	實相	實/VA[shí | true] 相/NN[xiàng | appearance] <true appearance>	bhūtasaṃjñā	2	Diamond Sūtra
+312	不眾生	不/AD[bù | not] 眾生/NN[zhòngshēng | sentient beings] <not sentient beings>	nāsattvāḥ	2	Diamond Sūtra
+313	非眾生	非/AD[fēi | no] 眾生/NN[zhòngshēng | sentient beings] <no sentient beings>	asattvāḥ	2	Diamond Sūtra
+314	真語者	真/VA[zhēn | true] 語/VV[yù | speak] 者/MSP[zhě | used after a verb to indicate a person who does the action] <one who speaks what is true>	bhūtavādī	2	Diamond Sūtra
+315	實語者	實/VA[shí | true] 語/VV[yù | speak] 者/MSP[zhě | used after a verb to indicate a person who does the action] <one who speaks what is real>	satyavādī	2	Diamond Sūtra
+316	如語者	如/VA[rú | thus] 語/VV[yù | speak] 者/MSP[zhě | used after a verb to indicate a person who does the action] <one who speaks what is thus>	tathāvādī	2	Diamond Sūtra
+317	異語者	異/VA[yì | different] 語/VV[yù | speak] 者/MSP[zhě | used after a verb to indicate a person who does the action] <one who speaks to the contrary>	vitathavādī	2	Diamond Sūtra
+318	一切相	一切/DT[yīqiè | all] 相/NN[xiàng | appearance] <all appearances>	sarvasaṃjñā	2	Diamond Sūtra
