@@ -115,3 +115,21 @@ database. They work directly from the text files.
 
    > select count(medium_resolution) as num_dups, medium_resolution from illustrations1 group by medium_resolution having num_dups > 1;
 
+The sanskrit_compounds.txt file has no DDL. It is only used in Python at the moment. The table description is below.
+
+Table description: List of Sanskrit compound words and their useage in texts.
+
+Fields:
+id: A numeric ID to track the entry by.
+
+sanskrit: The IAST text for the compound word.
+
+english: The English translation of the word.
+
+traditional: The traditional Chinese translation of the word, as used in the Chinese version of the text.
+
+no_parts: How many parts the Sanksrit compound is made up of.
+
+source: The document that the compound was found in.
+
+notes: Notes about the structure of use of the compound.

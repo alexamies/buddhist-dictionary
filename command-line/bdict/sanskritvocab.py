@@ -8,6 +8,7 @@ import regex
 from bdict import configmanager
 
 DICT_FILE_NAME = '../data/dictionary/sanskrit.txt'
+COMPOUNDS_FILE_NAME = '../data/dictionary/sanskrit_compounds.txt'
 
 
 class SanskritVocabulary:
@@ -27,6 +28,8 @@ class SanskritVocabulary:
                         information
         """
         sdict = self._OpenDictionary()
+        cdict = self._OpenCompoundsList()
+        combined_dict = dict(sdict.items() + cdict.items())
         directory = self.config['corpus_directory']
         infile = corpus_entry['plain_text']
         fullpath = '%s/%s' % (directory, infile)
@@ -44,7 +47,7 @@ class SanskritVocabulary:
                 if not word:
                     continue
                 word = _ConvertNonStandard(word)
-                if word in sdict:
+                if word in combined_dict:
                     if word not in known_words:
                         known_words[word] = 1
                     else:
@@ -62,7 +65,7 @@ class SanskritVocabulary:
               (wc, num_known + num_new, num_known, num_new))
         print('')
         print('### Frequency of known words:')
-        self._PrintFrequencyLinks(known_words, sdict)
+        self._PrintFrequencyLinks(known_words, combined_dict)
         print('')
         print('### Frequency of new words')
         self._PrintFrequency(new_words)
@@ -90,19 +93,41 @@ class SanskritVocabulary:
                 sdict[entry['iast']] = entry
         return sdict
 
-    def _PrintFrequencyLinks(self, word_freq, sdict):
+    def _OpenCompoundsList(self):
+        """Reads the dictionary into memory
+        """
+        f = open(COMPOUNDS_FILE_NAME, 'r')
+        compounds_dict = {}
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            fields = line.split('\t')
+            if fields and len(fields) >= 7:
+                entry = {}
+                entry['id'] = fields[0]
+                entry['iast'] = fields[1]
+                entry['english'] = fields[2]
+                entry['traditional'] = fields[3]
+                entry['no_parts'] = fields[4]
+                entry['source'] = fields[5]
+                entry['notes'] = fields[6]
+                compounds_dict[entry['iast']] = entry
+        return compounds_dict
+
+    def _PrintFrequencyLinks(self, word_freq, combined_dict):
         """Prints the set of words with markdown links
 
         args:
           word_freq: A dictionary of words
-          sdict: The dictionary
+          combined_dict: The combined word + compounds word dictionary
         """
         keys = sorted(word_freq, key=lambda key: -word_freq[key])
         for k in keys:
-            word = sdict[k]
+            word = combined_dict[k]
             english = word['english']
-            traditinal = word['traditional']
-            print("[%s](sanskrit_query.php?word=%s '%s %s') : %d<br/>" % (k, k, english, traditinal, word_freq[k]))
+            traditional = word['traditional']
+            print("[%s](sanskrit_query.php?word=%s '%s %s') : %d<br/>" % (k, k, english, traditional, word_freq[k]))
 
     def _PrintFrequency(self, word_freq):
         """Prints the set of words without links
