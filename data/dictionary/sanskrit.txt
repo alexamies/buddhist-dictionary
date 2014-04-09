@@ -380,12 +380,12 @@
 380	3996	svapati	svapati	स्वपति	\N	睡、睡覺	to sleep	\N	verb	\N
 381	343	gam	gam	गम्	\N	去	to go	\N	verb1	\N
 382	707	man	man	मन्	\N	想、思	to think	Root form	verb	√man
-383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says / he is speaking	Third person singular form (~ti)	verb1_3rd	√vad
+383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says / he is speaking	Third person singular form (~ti) of the active verb	verb1_3rd	√vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti</em> indicates that a male is performing the action	verb4_3rd	nṛt
 385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti</em> indicates that a male is performing the action	verb	\N
 387	3368	upavisati	upaviśati	उपविशति	\N	坐	he sits down	The affix <em>ti</em> indicates that a male is performing the action	verb6_3rd	viś
-388	343	gacchati	gacchati	गच्छति	\N	去	he goes / she goes / it goes	Third person, singular form	verb1_3rd	√gam
+388	343	gacchati	gacchati	गच्छति	\N	去	he goes / she goes / it goes	Third person, singular form of the active verb	verb1_3rd	√gam
 389	370	agacchati	āgacchati	आगच्छति	\N	來	to come / he comes	Third person, singular form	verb1_3rd	ā + √gam
 390	1843	na	na	न	\N	無	no / not	Negation of the following verb	adverb	\N
 391	28501	sarvastivada	sarvāstivāda	सर्वास्तिवाद	\N	說一切有部	Sarvastivada	An early Buddhist school	proper_noun	\N
@@ -405,7 +405,7 @@
 405	343	gatih	gatiḥ	गतिः	\N	去	to go	\N	verb	\N
 406	2137	dvah	dvāḥ	द्वाः	\N	門	door	\N	noun	\N
 407	1437	avagacchati	avagacchati	अवगच्छसि	\N	瞭解、明白、懂	he understands	\N	verb1_3rd	\N
-408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person singlular form	verb1_3rd	√smṛ
+408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person, singlular form of the active verb	verb1_3rd	√smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa / Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
 411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	\N
@@ -416,7 +416,7 @@
 416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	\N
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
 418	5284	jayati	jayati	जयति	\N	勝、勝利、贏、獲勝	he conquers	Third person, singular form of the active verb	verb1_3rd	√ji
-419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees / he looks	Third person, singular form	verb1_3rd	√paś
+419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees / he looks	Third person, singular form of the active verb	verb1_3rd	√paś
 420	4969	gai	gai	गै	\N	唱歌、唱	to sing	\N	verb1	gai
 421	340	ji	ji	जि	\N	勝利、勝、贏、獲勝	to conquer / to win	\N	verb1	\N
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
@@ -431,7 +431,7 @@
 431	10477	suc	śuc	शुच्	\N	悲痛、難過、悲哀、忉、慟	to grieve	\N	verb1	\N
 432	10477	socati	śocati	शोचति	\N	悲痛、難過、悲哀、忉、慟	he grieves	\N	verb1_3rd	śuc
 433	7979	stha	sthā	स्था	\N	站、停止、停、停住	to stand / to halt	\N	verb1	\N
-434	7979	tisthati	tiṣṭhati	तिष्ठति	\N	站、停止、停、停住	he stands / he halts / he remains	Third person singular	verb1_3rd	√sthā
+434	7979	tisthati	tiṣṭhati	तिष्ठति	\N	站、停止、停、停住	he stands / he halts / he remains	Third person, singular form of the active verb	verb1_3rd	√sthā
 435	2683	smr	smṛ	स्मृ	\N	記、憶、念	to remember	Root form	verb1	smṛ
 436	2683	putram	putram	पुत्र	\N	子、兒	a son / a child	Accusative singular form	masculine	putra
 437	2556	nrt	nṛt	नृत्यति	\N	舞、跳舞	to dance	\N	verb4	\N
@@ -447,7 +447,7 @@
 447	20325	suvarnabha	suvarṇābha	सुवर्णाभ	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 448	584	upa	upa	उप	\N	上	above	\N	indecl	\N
 449	3723	prach	prach	प्रछ्	\N	問	to ask	\N	verb6	\N
-450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	Third person, singular form	verb6_3rd	√pṛach
+450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	Third person, singular form of the active verb	verb6_3rd	√pṛach
 451	916	pravisati	praviśati	प्रविशति	\N	入	he enters / he goes into	\N	verb6_3rd	\N
 452	4283	likh	likh	लिख्	\N	寫、記載、書寫、筆、書	to write	\N	verb6	\N
 453	4283	likhati	likhati	लिखति	\N	寫、記載、書寫、筆、書	he writes	\N	verb6_3rd	likh
@@ -1111,7 +1111,7 @@
 1111	1149	uttama	uttama	उत्तम	\N	後	last	\N	adjective	\N
 1112	343	gacchasi	gacchasi	गच्छसि	\N	去	you go	Second person	verb	√gam
 1113	3723	prcchami	prcchāmi	प्र्च्छामि	\N	問	I ask	First person form of the verb	verb1_1st	√pṛach
-1114	375	bhavati	bhavati	भवति	\N	作	he becomes / he is	Third person singular form of the verb	verb1_3rd	√bhū
+1114	375	bhavati	bhavati	भवति	\N	作	he becomes / he is	Third person singular form of the active verb	verb1_3rd	√bhū
 1115	27699	aranya	araṇya	अरण्य	\N	阿蘭若、蘭若、阿蘭那、阿練茹、阿練若、阿蘭攘、阿蘭拏、練若	a forest / a secluded place to practice	A secluded or wilderness location for a person to practice Buddhism and live.	neuter	\N
 1116	32876	aranyaka	āranyaka	आरन्यक	\N	arañña	阿蘭若迦	a person who dwells in the wilderness to practice Buddhism and live.	masculine	\N
 1117	2401	dipa	dīpa	दीप	dīpa	燈	light / lantern / lamp	Stem form	masculine	dīpa
@@ -1348,7 +1348,7 @@
 1348	28454	stri	strī	स्त्री	\N	陰性	feminine	\N	adjective	\N
 1349	3185	candra	candra	चन्द्र	\N	月	moon	Stem form and also vocative case, singular form	masculine	candra
 1350	3185	candraḥ	candraḥ	चन्द्रः	\N	月	moon	Nominative case, singular form	masculine	candra
-1351	707	cintayati	cintayati	चिन्तयति	\N	想	he thinks	Third person, singular form	verb1_3rd	√cint
+1351	707	cintayati	cintayati	चिन्तयति	\N	想	he thinks	Third person, singular form of the active voice verb	verb1_3rd	√cint
 1352	28390	suryah	sūryaḥ	सूर्यः	\N	苏利耶	Surya / the Sun	Nominative case, singular form	masculine	sūrya
 1353	922	hastah	hastaḥ	हस्तः	\N	手	hand	Nominative case, singular form	masculine	hasta
 1354	922	hastau	hastau	हस्तौ	\N	手	two hands	Nominative and accusative case, dual form	masculine	hasta
@@ -1356,7 +1356,7 @@
 1356	3236	nrpat	nṛpāt	नृपात्	\N	王	from the king	Ablative case, singular form	masculine	nṛpa
 1357	890	gramesu	grāmeṣu	ग्रामेषु	\N	村	in the village	Locative case, plural form	masculine	grāma
 1358	28111	ramaya	rāmāya	रामाय	\N	羅摩	for Rama	Dative case, singular form	masculine	rāma
-1359	28890	acaryaya	ācāryāya	आचार्याय	acariya	阿闍黎、阿闍棃、阿舍棃、阿闍梨、阿祇利、阿遮利耶	form the teacher	Dative case, singular form	masculine	ācārya
+1359	28890	acaryaya	ācāryāya	आचार्याय	acariya	阿闍黎、阿闍棃、阿舍棃、阿闍梨、阿祇利、阿遮利耶	from the teacher	Dative case, singular form	masculine	ācārya
 1360	3185	candram	candram	चन्द्रम्	\N	月	moon	Accusative case, singular form	masculine	candra
 1361	28390	suryam	sūryam	सूर्यम्	\N	苏利耶	Surya / the Sun	Accusative case, singular form	masculine	sūrya
 1362	28390	suryena	sūryeṇa	सूर्येण	\N	苏利耶	Surya / the Sun	Instrumental case, singular form	masculine	sūrya
@@ -1553,6 +1553,27 @@
 1553	3865	duhkham	duḥkham	दुःखम्	duḥkha	苦	suffering	Nominative and accusative case, singular form	neuter	duḥkha
 1554	707	manyate	manyate	मन्यते	\N	想、思	he thinks	Third person, singular form for the middle verb	verb	√man
 1555	707	manyase	manyase	मन्यसे	\N	想、思	you think	Second person, singular form for the middle verb	verb	√man
-1556	5634	labdhate	labdhate	लब्धते	\N	拿	he obtains	Third person, singular form for the middle verb	verb	√labdh
+1556	5634	labhate	labhate	लभते	\N	拿	he obtains	Third person, singular form for the middle verb	verb	√labdh
 1557	3930	sukham	sukham	सुखम्	\N	樂	delight / happiness / joy / pleasure	Nominative and accusative case, singular form	neuter	sukha
-1558	1709	sevate	sevate	सेवते	\N	服務	he serves	Third person, singular form for the middle verb	neuter	sev
+1558	1709	sevate	sevate	सेवते	\N	服務	he serves	Third person, singular form for the middle verb	neuter	√sev
+1559	28009	jnanamsya	jñānasya	ज्ञानस्य	\N	闍那、智、智慧	wisdom / knowledge	Genitive case, singular form	neuter	jñāna
+1560	5634	labhante	labhante	लभन्ते	\N	拿	they obtain	Third person, plural form for the middle verb	verb	√labdh
+1561	1609	jalaya	jalāya	जलाय	\N	水	water	Dative case, singular form	neuter	jala
+1562	5284	jayasi	jayasi	जयसि	\N	勝、勝利、贏、獲勝	he conquers	Second person, singular form of the active verb	verb1_3rd	√ji
+1563	3930	sukhasya	sukhasya	सुखस्य	\N	樂	delight / happiness / joy / pleasure	Genitive case, singular form	neuter	sukha
+1564	707	cintayate	cintayate	चिन्तयते	\N	想	he thinks	Third person, singular form of the middle voice verb	verb1_3rd	√cint
+1565	35151	ayodhya	ayodhyā	अयोध्या	ayojjhā	阿約提亞	Ayodhya	The ancient capital of the Kosala Kingdom	feminine	ayodhyā
+1566	35151	ayodhyayam	ayodhyāyām	अयोध्यायाम्	\N	阿約提亞	Ayodhya	Locative case	feminine	ayodhyā
+1567	35152	dasaratha	daśaratha	दशरथ	\N	十車王	Ayodhya	The king of the ancient city of Ayodhya	masculine	daśaratha
+1568	35152	dasarathah	daśarathaḥ	दशरथः	\N	十車王	Ayodhya	Nominative case	masculine	daśaratha
+1569	304	catvarah	catvāraḥ	चत्वारः	\N	四	four	\N	adjective	\N
+1570	35153	lakshmana	lakśmaṇa	लक्ष्मण	\N	羅什曼那	Laksmana / Lakshmana	One of Rama's brothers	masculine	lakśmaṇa
+1571	35153	lakshmanah	lakśmaṇaḥ	लक्श्मणः	\N	羅什曼那	Laksmana / Lakshmana	Nominative case	masculine	lakśmaṇa
+1572	35154	sita	sītā	सीता	\N	悉多	Sita	The central female character in the Ramayana	feminine	sita
+1573	2388	sundara	sundara	सुन्दर	\N	美	beautiful	Stem form	adjective	sundara
+1574	7118	santa	śānta	शान्त	\N	寧	peaceful	Stem form	adjective	śānta
+1575	837	vira	vīra	वीर	\N	強	strong	Stem form	adjective	vīra
+1576	2861	snihyati	snihyati	स्निह्यति	\N	愛	he loves	Third person, singular form of the active verb	verb4	√snih
+1577	35155	mithila	mithilā	मिथिला	\N	彌薩羅	Mithila	A city in ancient India	adjective	mithilā
+1578	35154	sitam	sītām	सीताम्	\N	悉多	Sita	Accusative case	feminine	sita
+1579	35154	sitayam	sītāyām	सीतायाम्	\N	悉多	Sita	Locative case	feminine	sita
