@@ -2890,7 +2890,7 @@
 2890	佛教	\N	Fójiào	Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fo2jiao4.mp3	\N
 2891	阿弥陀佛	阿彌陀佛	Āmítuó Fó	Amitabha Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: amitābha, also known as Amitayus
 2892	药师佛	藥師佛	Yàoshī Fó	Medicine Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	medicine_buddha400.jpg	\N	Sanskrit: bhaiṣajyaguru
-2893	药师经	藥師經	Yàoshī Jīng	Sutra of the Medicine Buddha / Sutra on the Master of Healing	proper noun	佛经	Buddhist Scripture	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: bhaiṣajyaguruvaidūryaprabharājasūtram
+2893	药师经	藥師經	Yàoshī Jīng	Sutra of the Medicine Buddha / Sutra on the Master of Healing	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	Sanskrit: bhaiṣajyaguruvaidūryaprabharājasūtram
 2894	场	場	chǎng	a place / an open space / a field / a courtyard	noun	\N	\N	建筑学	Architecture	\N	\N	\N	chang3.mp3	\N
 2895	场	場	chǎng	an event	measure word	\N	\N	数量	Quantity	\N	\N	\N	chang3.mp3	Most often used for events such as sports matches and concerts
 2896	馆	館	guǎn	house / establishment / hall	noun	\N	\N	建筑学	Architecture	\N	\N	\N	guan3.mp3	\N
@@ -9113,7 +9113,7 @@
 9113	烧香	燒香	shāoxiāng	to burn incense	verb	\N	\N	习俗	Customs	\N	\N	huanglong_temple_med.jpg	shao1xiang1.mp3	\N
 9114	供物	\N	gòngwù	offering	noun	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
 9115	表	\N	biǎo	to indicate / to represent	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	biao3.mp3	\N
-9116	大智度论	大智度論	Dà Zhì Dù Lùn	Great Treatise on the Perfection of Wisdom / Treatise on the Perfection of Great Wisdom / Commentary on the Great Perfection of Wisdom /  Mahāprajñāpāramitaśastra / Māhaprajñāparamitopadeśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	da4zhi4du4lun4.mp3	Sanskrit:  mahāprajñāpāramitaśastra; attributed to Nāgārjuna.  Translated in the Later Qin by Kumārajīva, Taisho No. 1509.
+9116	大智度论	大智度論	Dà Zhì Dù Lùn	Great Treatise on the Perfection of Wisdom / Treatise on the Perfection of Great Wisdom / Commentary on the Great Perfection of Wisdom /  Mahāprajñāpāramitaśastra / Māhaprajñāparamitopadeśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	da4zhi4du4lun4.mp3	Attributed to Nāgārjuna.  Translated in the Later Qin by Kumārajīva, Taisho No. 1509.
 9117	贵人多忘事	貴人多忘事	guì rén duō wàng shì	a person of eminence has a short memory	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 9118	可乐	可樂	kělè	cola	noun	饮料	Beverage	饮食	Food and Drink	\N	\N	\N	\N	\N
 9119	诚心	誠心	chéngxīn	sincerity	noun	\N	\N	道德	Ethics	\N	\N	\N	cheng2xin1.mp3	\N
@@ -35151,3 +35151,4 @@
 35153	罗什曼那	羅什曼那	Luóshímànnà	Laksmana / Lakshmana	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	 Sanskrit: lakśmaṇa, one of Rama's brothers
 35154	悉多	\N	Xīduō	Sita	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	 Sanskrit: sita, the central female character in the Ramayana
 35155	弥萨罗	彌薩羅	Mísàluó	Mithila	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N	 Sanskrit: mithilā, a city in ancient India
+35156	小品般若	\N	Xiǎo Pǐn Bōrě	Aṣṭasāhasrikā Prajñāpāramitā / The Perfection of Wisdom in Eight Thousand Lines	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	 T8 No. 227 (http://tripitaka.cbeta.org/T08n0227)
