@@ -368,7 +368,7 @@
 368	28434	vijnana	vijñāna	विज्ञान	\N	識	knowledge / mind / consciousness	\N	noun	\N
 369	28435	ayatana	āyatana	आयतन	āyatana	十二處	ayatana / sense bases / sense-media	\N	noun	\N
 370	8840	evam	evaṃ	एवं	\N	如是	thus / so	\N	indecl	evam
-371	321	maya	mayā	मया	\N	我	I / me	\N	pronoun	\N
+371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	\N
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to / heard	\N	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
 374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be / to exist	\N	verb	\N
@@ -1577,6 +1577,25 @@
 1577	35155	mithila	mithilā	मिथिला	\N	彌薩羅	Mithila	A city in ancient India	adjective	mithilā
 1578	35154	sitam	sītām	सीताम्	\N	悉多	Sita	Accusative case	feminine	sita
 1579	35154	sitayam	sītāyām	सीतायाम्	\N	悉多	Sita	Locative case	feminine	sita
-1580	321	aham	ahaṃ	अहं	\N	我	I	First person, singular personal pronoun with Sandhi applied	pronoun	\N
-1581	321	aham	aham	अहम्	\N	我	I	First person, singular personal pronoun	pronoun	\N
-
+1580	321	aham	ahaṃ	अहं	\N	我	I	Nominative case, first person, singular personal pronoun with Sandhi applied	pronoun	\N
+1581	321	aham	aham	अहम्	\N	我	I	Nominative case, first person, singular personal pronoun	pronoun	\N
+1582	366	avam	āvām	आवाम्	\N	我們	we two	Nominative and accusative case, first person, dual personal pronoun	pronoun	\N
+1583	366	vayam	vayam	वयम्	\N	我們	we	Nominative case, first person, plural personal pronoun	pronoun	\N
+1584	321	mam	mām	माम्	\N	我	me	Accusative case, first person, singular personal pronoun	pronoun	\N
+1585	321	ma	mā	मा	\N	我	me	Accusative case, first person, singular personal pronoun	pronoun	\N
+1586	366	nau	nau	नौ	\N	我們	we two	Accusative, dative, and genitive case, first person, singular dual pronoun	pronoun	\N
+1587	366	asman	āsmān	आस्मान्	\N	我們	we	Accusative case, first person, plural personal pronoun	pronoun	\N
+1588	366	nah	naḥ	नः	\N	我們	we	Accusative  and dative case, first person, plural personal pronoun	pronoun	\N
+1589	366	avabhyam	āvābhyām	आवाभ्याम्	\N	我們	me	Instrumental case, first person, dual personal pronoun	pronoun	\N
+1590	366	asmabhih	asmābhiḥ	अस्माभिः	\N	我們	me	Instrumental case, first person, plural personal pronoun	pronoun	\N
+1591	321	mahyam	mahyam	मह्यम्	\N	我	for me	Dative case, first person, singular personal pronoun	pronoun	\N
+1592	321	me	me	मे	\N	我	for me	Dative case, first person, singular personal pronoun	pronoun	\N
+1593	366	avabyam	avābyām	अवाब्याम्	\N	我們	for us two	Dative and ablative case, first person, dual personal pronoun	pronoun	\N
+1594	366	asmabhyam	asmabhyam	अस्मभ्यम्	\N	我們	for us	Dative case, first person, plural personal pronoun	pronoun	\N
+1595	321	mat	mat	मत्	\N	我	from me	Ablative case, first person, singular personal pronoun	pronoun	\N
+1596	366	asmat	asmat	अस्मत्	\N	我們	from us	Ablative case, first person, plural personal pronoun	pronoun	\N
+1597	321	mama	mama	मम	\N	我	my	Genitive case, first person, singular personal pronoun	pronoun	\N
+1598	366	avayoh	āvayoḥ	आवयोः	\N	我們	our	Genitive and locative case, first person, dual personal pronoun	pronoun	\N
+1599	366	asmakam	asmākam	अस्माकम्	\N	我們	our	Genitive case, first person, plural personal pronoun	pronoun	\N
+1600	321	mayi	mayi	मयि	\N	我	on me	Locative case, first person, singular personal pronoun	pronoun	\N
+1601	366	asmasu	asmāsu	अस्मासु	\N	我們	on us	Locative case, first person, plural personal pronoun	pronoun	\N
