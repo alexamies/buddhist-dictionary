@@ -175,7 +175,7 @@ def GetCollectionFile(argv):
     if len(argv) > 3 and argv[-1] != '--wholetext':
         collection_name = argv[-1]
     collection_file = '%s.txt' % collection_name
-    print('Reading from %s' % collection_file)
+    # print('Collection %s' % collection_name)
     return collection_file
 
 

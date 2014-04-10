@@ -368,7 +368,7 @@
 368	28434	vijnana	vijñāna	विज्ञान	\N	識	knowledge / mind / consciousness	\N	noun	\N
 369	28435	ayatana	āyatana	आयतन	āyatana	十二處	ayatana / sense bases / sense-media	\N	noun	\N
 370	8840	evam	evaṃ	एवं	\N	如是	thus / so	\N	indecl	evam
-371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	\N
+371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	mad
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to / heard	\N	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
 374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be / to exist	\N	verb	\N
@@ -435,8 +435,8 @@
 435	2683	smr	smṛ	स्मृ	\N	記、憶、念	to remember	Root form	verb1	smṛ
 436	2683	putram	putram	पुत्र	\N	子、兒	a son / a child	Accusative singular form	masculine	putra
 437	2556	nrt	nṛt	नृत्यति	\N	舞、跳舞	to dance	\N	verb4	\N
-438	15293	mad	mad	मद्	\N	開心	to rejoice	\N	verb4	\N
-439	15293	madyati	mādyati	माद्यति	\N	開心	he rejoices	\N	verb4_3rd	mad
+438	15293	mad	mad	मद्	\N	開心	to rejoice	Root form	verb4	√mad
+439	15293	madyati	mādyati	माद्यति	\N	開心	he rejoices	\N	verb4_3rd	√mad
 440	335	is	iṣ	इष्	\N	要、想、想要	to want / to wish	\N	verb6	√iṣ
 441	335	icchati	icchati	इच्छति	\N	要、想、想要	she wants / she wishes	Third person, singular form	verb6_3rd	√iṣ
 442	28564	trividya	trividyā	त्रिविद्या	tivijjā	三明	the Three Insights	(1) impermanence, (2) suffering, and (3) non-self	phrase	\N
@@ -519,10 +519,10 @@
 519	2618	asvau	aśvau	अश्वौ	\N	馬	two horses	Dual nominative and accusative forms	masculine	asva
 520	6006	phala	phala	फल	\N	水果、果	fruit / reward	Stem form	neuter	phala
 521	6006	phalani	phalāni	फलानि	\N	水果、果	fruits	Nominative and accusative case, plural form	neuter	phala
-522	321	asmat	asmat	अस्मत्	\N	我	me	\N	pronoun	asmat
-523	366	vayam	vayam	वयम्	\N	我們	we	\N	pronoun	asmat
-524	4081	tvam	tvam	त्वम्	\N	你	you	\N	pronoun	tvat
-525	2304	yuyam	yūyam	यूयम्	\N	你們	you	Plural	pronoun	tvat
+522	321	asmat	asmat	अस्मत्	\N	我	me	With sandhi applied	pronoun	asmad
+523	366	vayam	vayam	वयम्	\N	我們	we	\N	pronoun	asmad
+524	4081	tvam	tvam	त्वम्	\N	汝、你	you	Nominative form for second person, singular personal pronoun	pronoun	tvad
+525	2304	yuyam	yūyam	यूयम्	\N	你們	you all	Nominative form for second person, plural personal pronoun	pronoun	yuṣmad
 526	518	tat	tat	तत्	\N	他、它	he	Masculine or neuter stem	pronoun	tat
 527	521	tau	tau	तौ	\N	他們	them	Dual masculine	pronoun	tat
 528	521	tan	tān	तान्	\N	他們	them	Plural masculine	pronoun	tat
@@ -1577,25 +1577,41 @@
 1577	35155	mithila	mithilā	मिथिला	\N	彌薩羅	Mithila	A city in ancient India	adjective	mithilā
 1578	35154	sitam	sītām	सीताम्	\N	悉多	Sita	Accusative case	feminine	sita
 1579	35154	sitayam	sītāyām	सीतायाम्	\N	悉多	Sita	Locative case	feminine	sita
-1580	321	aham	ahaṃ	अहं	\N	我	I	Nominative case, first person, singular personal pronoun with Sandhi applied	pronoun	\N
-1581	321	aham	aham	अहम्	\N	我	I	Nominative case, first person, singular personal pronoun	pronoun	\N
-1582	366	avam	āvām	आवाम्	\N	我們	we two	Nominative and accusative case, first person, dual personal pronoun	pronoun	\N
-1583	366	vayam	vayam	वयम्	\N	我們	we	Nominative case, first person, plural personal pronoun	pronoun	\N
-1584	321	mam	mām	माम्	\N	我	me	Accusative case, first person, singular personal pronoun	pronoun	\N
-1585	321	ma	mā	मा	\N	我	me	Accusative case, first person, singular personal pronoun	pronoun	\N
-1586	366	nau	nau	नौ	\N	我們	we two	Accusative, dative, and genitive case, first person, singular dual pronoun	pronoun	\N
-1587	366	asman	āsmān	आस्मान्	\N	我們	we	Accusative case, first person, plural personal pronoun	pronoun	\N
-1588	366	nah	naḥ	नः	\N	我們	we	Accusative  and dative case, first person, plural personal pronoun	pronoun	\N
-1589	366	avabhyam	āvābhyām	आवाभ्याम्	\N	我們	me	Instrumental case, first person, dual personal pronoun	pronoun	\N
-1590	366	asmabhih	asmābhiḥ	अस्माभिः	\N	我們	me	Instrumental case, first person, plural personal pronoun	pronoun	\N
-1591	321	mahyam	mahyam	मह्यम्	\N	我	for me	Dative case, first person, singular personal pronoun	pronoun	\N
-1592	321	me	me	मे	\N	我	for me	Dative case, first person, singular personal pronoun	pronoun	\N
+1580	321	aham	ahaṃ	अहं	\N	我	I	Nominative case, first person, singular personal pronoun with Sandhi applied	pronoun	mad
+1581	321	aham	aham	अहम्	\N	我	I	Nominative case, first person, singular personal pronoun	pronoun	mad
+1582	366	avam	āvām	आवाम्	\N	我們	we two	Nominative and accusative case, first person, dual personal pronoun	pronoun	asmad
+1583	366	vayam	vayam	वयम्	\N	我們	we	Nominative case, first person, plural personal pronoun	pronoun	asmad
+1584	321	mam	mām	माम्	\N	我	me	Accusative case, first person, singular personal pronoun	pronoun	mad
+1585	321	ma	mā	मा	\N	我	me	Accusative case, first person, singular personal pronoun	pronoun	mad
+1586	366	nau	nau	नौ	\N	我們	we two	Accusative, dative, and genitive case, first person, dual pronoun	pronoun	asmad
+1587	366	asman	āsmān	आस्मान्	\N	我們	we	Accusative case, first person, plural personal pronoun	pronoun	asmad
+1588	366	nah	naḥ	नः	\N	我們	we	Accusative  and dative case, first person, plural personal pronoun	pronoun	asmad
+1589	366	avabhyam	āvābhyām	आवाभ्याम्	\N	我們	me	Instrumental case, first person, dual personal pronoun	pronoun	asmad
+1590	366	asmabhih	asmābhiḥ	अस्माभिः	\N	我們	me	Instrumental case, first person, plural personal pronoun	pronoun	asmad
+1591	321	mahyam	mahyam	मह्यम्	\N	我	for me	Dative case, first person, singular personal pronoun	pronoun	mad
+1592	321	me	me	मे	\N	我	for me	Dative case, first person, singular personal pronoun	pronoun	mad
 1593	366	avabyam	avābyām	अवाब्याम्	\N	我們	for us two	Dative and ablative case, first person, dual personal pronoun	pronoun	\N
 1594	366	asmabhyam	asmabhyam	अस्मभ्यम्	\N	我們	for us	Dative case, first person, plural personal pronoun	pronoun	\N
-1595	321	mat	mat	मत्	\N	我	from me	Ablative case, first person, singular personal pronoun	pronoun	\N
-1596	366	asmat	asmat	अस्मत्	\N	我們	from us	Ablative case, first person, plural personal pronoun	pronoun	\N
-1597	321	mama	mama	मम	\N	我	my	Genitive case, first person, singular personal pronoun	pronoun	\N
-1598	366	avayoh	āvayoḥ	आवयोः	\N	我們	our	Genitive and locative case, first person, dual personal pronoun	pronoun	\N
-1599	366	asmakam	asmākam	अस्माकम्	\N	我們	our	Genitive case, first person, plural personal pronoun	pronoun	\N
-1600	321	mayi	mayi	मयि	\N	我	on me	Locative case, first person, singular personal pronoun	pronoun	\N
-1601	366	asmasu	asmāsu	अस्मासु	\N	我們	on us	Locative case, first person, plural personal pronoun	pronoun	\N
+1595	321	mat	mat	मत्	\N	我	from me	Ablative case, first person, singular personal pronoun	pronoun	mad
+1596	366	asmat	asmat	अस्मत्	\N	我們	from us	Ablative case, first person, plural personal pronoun	pronoun	asmad
+1597	321	mama	mama	मम	\N	我	my	Genitive case, first person, singular personal pronoun	pronoun	mad
+1598	366	avayoh	āvayoḥ	आवयोः	\N	我們	our	Genitive and locative case, first person, dual personal pronoun	pronoun	asmad
+1599	366	asmakam	asmākam	अस्माकम्	\N	我們	our	Genitive case, first person, plural personal pronoun	pronoun	asmad
+1600	321	mayi	mayi	मयि	\N	我	on me	Locative case, first person, singular personal pronoun	pronoun	mad
+1601	366	asmasu	asmāsu	अस्मासु	\N	我們	on us	Locative case, first person, plural personal pronoun	pronoun	asmad
+1602	321	mad	mad	मद्	\N	我	I / me	Stem form for first person, singular personal pronoun	pronoun	mad
+1603	366	asmad	asmad	अस्मद्	\N	我們	we / us	Stem form for first person, plural personal pronoun	pronoun	asmad
+1604	6690	tvad	tvad	मद्	\N	汝、你、您	you	Stem form for second person, singular personal pronoun	pronoun	tvad
+1605	6690	tvam	tvām	त्वाम्	\N	汝、你、您	you	Accusative form for second person, singular personal pronoun	pronoun	tvad
+1606	2304	yusmad	yuṣmad	युष्मद्	\N	你們	you all	Stem form for second person, plural personal pronoun	pronoun	yuṣmad
+1607	2304	yuvam	yuvām	युवाम्	\N	你們	you all	Nominative and accusative form for second person, dual personal pronoun	pronoun	yuṣmad
+1608	2304	yusman	yuṣman	युष्मन्	\N	你們	you all	Accusative form for second person, plural personal pronoun	pronoun	yuṣmad
+1609	6690	tva	tvā	त्वा	\N	汝、你、您	you	Alternate accusative form for second person, singular personal pronoun	pronoun	tvad
+1610	2304	vah	vaḥ	वः	\N	你們	you all	Alternate accusative form for second person, plural personal pronoun	pronoun	yuṣmad
+1611	6690	tvaya	tvayā	त्वया	\N	汝、你、您	with you	Instrumental form for second person, singular personal pronoun	pronoun	tvad
+1612	2304	yuvabhyam	yuvābhyām	युवाभ्याम्	\N	你們	you all	Instrumental form for second person, dual personal pronoun	pronoun	yuṣmad
+1613	2304	yusmabhih	yuṣmābhiḥ	युष्माभिः	\N	你們	you all	Instrumental form for second person, plural personal pronoun	pronoun	yuṣmad
+1614	2304	vam	vām	वाम्	\N	你們	you all	Alternate accusative form for second person, dual personal pronoun	pronoun	yuṣmad
+1615	6690	tubhyam	tubhyam	तुभ्यम्	\N	汝、你、您	for you	Dative form for second person, singular personal pronoun	pronoun	tvad
+1616	6690	te	te	ते	\N	汝、你、您	for you	Alternate dative form for second person, singular personal pronoun	pronoun	tvad
+
