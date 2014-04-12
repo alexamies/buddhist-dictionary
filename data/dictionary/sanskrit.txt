@@ -106,7 +106,7 @@
 106	27735	buddhaghosa	buddhaghoṣa	बुद्धघोष	\N	覺音	Buddhaghosa	\N	proper_noun	\N
 107	25095	jataka	jātaka	जातक	jātaka	本生經、本生、本缘	The Jataka Tales	\N	proper_noun	\N
 108	27611	yasodhara	yasodharā	यसोधरा	\N	耶輸陀羅	Yasodhara	\N	proper_noun	\N
-109	25589	rajagrha	rājagṛha	राजगृह	rājagaha	王舍城	Rajgir	English is a modern-day name	proper_noun	\N
+109	25589	rajagrha	rājagṛha	राजगृह	rājagaha	王舍城	Rajgir	The English word is a modern-day place name. The Sanskrit literally means the king's home.	proper_noun	rājagṛha
 110	28018	ajnata kaundinya	ajñāta kaundinya	अञ्ञ कोन्दञ्ञ	Añña Kondañña	阿若憍陳如	Ajnata Kaundinya / Kaundinya	\N	proper_noun	\N
 111	28018	kaundinya	kauṇḍinya	कौण्डिन्य	kondañña	阿若憍陳如	Ajnata Kaundinya / Kaundinya	The first disciple of the Buddha	proper_noun	\N
 112	28019	samgha	saṃgha	संघ	saṅgha	僧伽	Sangha / the monastic community	\N	proper_noun	\N
@@ -371,7 +371,7 @@
 371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	mad
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to / heard	\N	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
-374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be / to exist	\N	verb	\N
+374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be / to exist	Verb root	verb	√bhū
 375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb	\N
 376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	\N	verb	\N
 377	5036	jivati	jīvati	जीवति	\N	活、生活	he lives	\N	verb1_3rd	jīv
@@ -411,7 +411,7 @@
 411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	\N
 412	2231	kim	kim	किम्	\N	如何	what	A pronoun used in questions	pronoun	\N
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
-414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	pronoun	\N
+414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	indecl	api
 415	3811	iti	iti	इति	\N	爾、如是	thus	Used to mark the end of a sentence or a smaller part, espcially a quotation.	particle	\N
 416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	\N
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
@@ -801,7 +801,7 @@
 801	3076	kusuma	kusuma	कुसुम	\N	花	a flower / blossom / fruit	\N	noun	\N
 802	12447	avasara	avasara	अवसर	\N	機	an opportunity / a chance	\N	masculine	\N
 803	3223	putra	putra	पुत्र	\N	子、兒	a son / a child	Stem form	masculine	putra
-804	758	grha	gṛha	गृह	\N	房	a house / a home	\N	noun	\N
+804	758	grhe	gṛhe	गृहे	\N	房	in a house / in a home	Locative case, singular form	noun	gṛha
 805	809	jivita	jīvita	जीवित	\N	世、生	a life / a lifetime	\N	noun	\N
 806	5035	jivita	jīvita	जीवित	\N	活	alive / living	\N	adjective	\N
 807	5313	samdeha	saṃdeha	संदेह	\N	疑、危	uncertainty / doubt / risk / danger / ambuguity	\N	masculine	\N
@@ -830,7 +830,7 @@
 830	30046	mahakalpa	mahākalpa	महाकल्प	\N	大劫	Maha-Kalpa	The largest unit of time in Buddhism.  It is divided into four Asankhyeya Kalpas: (1) the kalpa of formation 成劫 (2) the kalpa of abiding 住劫 (3) the kalpa of destruction 壊劫 (4) the kalpa of void 空劫	noun	\N
 831	20994	sala	sāla	साल	\N	娑羅	sala tree / sal tree / shala tree	The Buddha entered Nirvana under two Sala trees	noun	\N
 832	30070	hiranyavati	hiraṇyavatī	हिरण्यवती	\N	阿恃多伐底河、阿恃多跋底河、阿尔多嚩底河、跋提河	Hiranyavati River	Visited by the Buddha, near where he attained Nirvana	proper_noun	\N
-833	3670	kusala	kuśala	कुशल	\N	善	proper	\N	adjective	\N
+833	3670	kusala	kuśala	कुशल	\N	善	proper / wholesome / virtuous / benevolent / well-disposed / pure	\N	adjective	\N
 834	30099	kusala	kuśala	कुशल	\N	善	happy	\N	adjective	\N
 835	9227	akusala	akuśala	अकुशल	akusala	惡	unwholesome / evil / wicked	\N	adjective	\N
 836	922	hasta	hasta	हस्त	\N	手	hand	Stem form	masculine	hasta
@@ -981,7 +981,7 @@
 981	1114	agra	agra	अग्र	\N	大	great / supreme / foremost / first	\N	adjective	\N
 982	28935	apaya	apāya	अपाय	\N	惡道	an evil rebirth / an evil destiny / an unfortunate rebirth	\N	masculine	\N
 983	3613	artha	artha	अर्थ	\N	義	meaning / sense	\N	masculine	\N
-984	30521	nama	nāma	नाम	\N	號、名	called	\N	indecl	\N
+984	30521	nama	nāma	नाम	\N	號、名	called	\N	indecl	nāma
 985	28121	graha	grāha	ग्राह	\N	取	grasping / seizing	\N	adjective	\N
 986	1068	atita	atīta	अतीत	\N	過去	past	\N	adjective	\N
 987	264	pratyutpanna	pratyutpanna	प्रत्युत्पन्न	\N	現在	present	\N	adjective	\N
@@ -1577,7 +1577,7 @@
 1577	35155	mithila	mithilā	मिथिला	\N	彌薩羅	Mithila	A city in ancient India	adjective	mithilā
 1578	35154	sitam	sītām	सीताम्	\N	悉多	Sita	Accusative case	feminine	sita
 1579	35154	sitayam	sītāyām	सीतायाम्	\N	悉多	Sita	Locative case	feminine	sita
-1580	321	aham	ahaṃ	अहं	\N	我	I	Nominative case, first person, singular personal pronoun with Sandhi applied	pronoun	mad
+1580	321	aham	ahaṃ	अहं	\N	我	I	Nominative case, first person, singular personal pronoun with sandhi applied	pronoun	mad
 1581	321	aham	aham	अहम्	\N	我	I	Nominative case, first person, singular personal pronoun	pronoun	mad
 1582	366	avam	āvām	आवाम्	\N	我們	we two	Nominative and accusative case, first person, dual personal pronoun	pronoun	asmad
 1583	366	vayam	vayam	वयम्	\N	我們	we	Nominative case, first person, plural personal pronoun	pronoun	asmad
@@ -1607,11 +1607,41 @@
 1607	2304	yuvam	yuvām	युवाम्	\N	你們	you all	Nominative and accusative form for second person, dual personal pronoun	pronoun	yuṣmad
 1608	2304	yusman	yuṣman	युष्मन्	\N	你們	you all	Accusative form for second person, plural personal pronoun	pronoun	yuṣmad
 1609	6690	tva	tvā	त्वा	\N	汝、你、您	you	Alternate accusative form for second person, singular personal pronoun	pronoun	tvad
-1610	2304	vah	vaḥ	वः	\N	你們	you all	Alternate accusative form for second person, plural personal pronoun	pronoun	yuṣmad
+1610	2304	vah	vaḥ	वः	\N	你們	you all	Alternate accusative, dative, and genitive form for second person, plural personal pronoun	pronoun	yuṣmad
 1611	6690	tvaya	tvayā	त्वया	\N	汝、你、您	with you	Instrumental form for second person, singular personal pronoun	pronoun	tvad
-1612	2304	yuvabhyam	yuvābhyām	युवाभ्याम्	\N	你們	you all	Instrumental form for second person, dual personal pronoun	pronoun	yuṣmad
+1612	2304	yuvabhyam	yuvābhyām	युवाभ्याम्	\N	你們	you all	Instrumental and dative form for second person, dual personal pronoun	pronoun	yuṣmad
 1613	2304	yusmabhih	yuṣmābhiḥ	युष्माभिः	\N	你們	you all	Instrumental form for second person, plural personal pronoun	pronoun	yuṣmad
-1614	2304	vam	vām	वाम्	\N	你們	you all	Alternate accusative form for second person, dual personal pronoun	pronoun	yuṣmad
+1614	2304	vam	vām	वाम्	\N	你們	you all	Alternate accusative, dative, and genitive form for second person, dual personal pronoun	pronoun	yuṣmad
 1615	6690	tubhyam	tubhyam	तुभ्यम्	\N	汝、你、您	for you	Dative form for second person, singular personal pronoun	pronoun	tvad
-1616	6690	te	te	ते	\N	汝、你、您	for you	Alternate dative form for second person, singular personal pronoun	pronoun	tvad
-
+1616	6690	te	te	ते	\N	汝、你、您	for you	Alternate dative and genitive form for second person, singular personal pronoun	pronoun	tvad
+1617	2304	yusmabhyam	yuṣmabhyam	युष्मभ्यम्	\N	你們	for you	Alternate dative form for second person, singular personal pronoun	pronoun	yuṣmad
+1618	6690	tvat	tvat	त्वत्	\N	汝、你、您	from you	Ablative form for second person, singular personal pronoun	pronoun	tvad
+1619	2304	yusmat	yuṣmat	युष्मत्	\N	你們	from you all	Ablative form for second person, plural personal pronoun	pronoun	yuṣmad
+1620	6690	tava	tava	तव	\N	汝、你、您	your	Genitive form for second person, singular personal pronoun	pronoun	tvad
+1621	2304	yuvayoh	yuvayoḥ	युवयोः	\N	你們	your	Genitive form for second person, dual personal pronoun	pronoun	yuṣmad
+1622	2304	yusmakam	yuṣmākam	युवयोः	\N	你們	your	Genitive form for second person, plural personal pronoun	pronoun	yuṣmad
+1623	6690	tvayi	tvayi	त्वयि	\N	汝、你、您	on you	Locative form for second person, singular personal pronoun	pronoun	tvad
+1624	2304	yusmasu	yuṣmāsu	युष्मासु	\N	你們	on you	Locative form for second person, plural personal pronoun	pronoun	yuṣmad
+1625	9290	visesana	viśeṣaṇa	विशेषण	\N	形容詞	adjective	\N	neuter	viśeṣaṇa
+1626	9288	subanta	subanta	सुबन्त	\N	名詞	a nominal	\N	neuter	subanta
+1627	1291	as	as	अस्	\N	存在、存、現有、現存	to be / to exist	Verb root	verb	√as
+1628	398	asti	asti	अस्ति	\N	有	to be / it is	Third person, singular form	verb	√as
+1629	398	stah	staḥ	स्तः	\N	有	to be / they are	Third person, dual form	verb	√as
+1630	398	santi	santi	सन्ति	\N	有	to be / they are	Third person, plural form	verb	√as
+1631	398	asi	asi	असि	\N	有	you are	Second person, singular form	verb	√as
+1632	398	sthah	sthaḥ	स्थः	\N	有	you both are	Second person, dual form	verb	√as
+1633	398	stha	stha	स्थ	\N	有	you all are	Second person, plural form	verb	√as
+1634	398	asmi	asmi	अस्मि	\N	有	I am	First person, singular form	verb	√as
+1635	398	svah	svaḥ	स्वः	\N	有	we both are	First person, dual form	verb	√as
+1636	398	smah	smaḥ	स्मः	\N	有	we both are	First person, plural form	verb	√as
+1637	17505	ativa	atīva	अतीव	\N	甚	very	\N	indecl	atīva
+1638	9315	aho	aho	अहो	\N	哎	hey!	An exclamation	indecl	aho
+1639	7147	kupita	kupita	कुपित	\N	嗔	angry	Stem form	adjective	kupita
+1640	3670	dharmika	dharmika	धर्मिक	\N	善	virtuous	Stem form	adjective	dharmika
+1641	5084	bhita	bhīta	भीत	\N	恐	afraid	Stem form	adjective	bhīta
+1642	2543	pustakesu	pustakeṣu	पुस्तकेषु	\N	書	in the book	Locative case, singular form	neuter	pustaka
+1643	2618	asve	aśve	अश्वे	\N	馬	on the horse	Locative case, singular form of asva	masculine	aśva
+1644	4000	pathasi	paṭhasi	पठसि	\N	誦、讀	you read / you recite	Second person, singular form	verb1_3rd	√paṭh
+1645	7147	kupitah	kupitaḥ	कुपितः	\N	嗔	angry	Nominative case, singular form	adjective	kupita
+1646	5084	bhitah	bhītaḥ	भीतः	\N	恐	afraid	Nominative case, singular form	adjective	bhīta
+1647	2388	sundarah	sundaraḥ	सुन्दरः	\N	美	beautiful	Nominative case, singular form	adjective	sundara
