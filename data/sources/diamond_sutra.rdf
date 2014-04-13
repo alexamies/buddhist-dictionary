@@ -6,8 +6,8 @@
  xmlns:foaf="http://xmlns.com/foaf/0.1/"
  xmlns:bib="http://purl.org/net/biblio#"
  xmlns:dcterms="http://purl.org/dc/terms/"
- xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
- xmlns:link="http://purl.org/rss/1.0/modules/link/">
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
     <bib:Book rdf:about="urn:isbn:978-0415223904">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -70,6 +70,79 @@
         <z:shortTitle>Nāgārjuna's Middle way</z:shortTitle>
         <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
     </bib:Book>
+    <bib:Document rdf:about="http://tripitaka.cbeta.org/T25n1511">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>CBETA 漢文大藏經</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bodhiruci</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_7"/>
+        <dc:title>Commentary on the Vajracchedikā Prajñāpāramitā by Asaṅga 金剛般若波羅蜜經論</dc:title>
+        <dcterms:abstract>Chinese translation of a commentary on the Vajracchedikā Prajñāpāramitā named Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ, verses by Asaṅga and commentary by Vasubandhu</dcterms:abstract>
+        <dc:date>509 A.D.</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/T25n1511</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-04-13 15:09:50</dcterms:dateSubmitted>
+        <z:language>T25, No. 1511</z:language>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_7">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>T25n1511 金剛般若波羅蜜經論 | CBETA 漢文大藏經</dc:title>
+        <dcterms:dateSubmitted>2014-04-13 15:09:51</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://tripitaka.cbeta.org/T25n1511</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>utf-8</link:charset>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=84">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Bibliotheca Polyglotta</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>University of Oslo, Faculty of Humanities</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=84</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-04-13 15:16:39</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Bibliotheca Polyglotta</dc:title>
+        <dcterms:dateSubmitted>2014-04-13 15:16:40</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=84</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>utf-8</link:charset>
+    </z:Attachment>
     <bib:Book rdf:about="urn:isbn:0861713311%209780861713318">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -146,6 +219,41 @@
         <z:language>eng</z:language>
         <dc:description>Introduction to the Diamond Sutra</dc:description>
     </bib:Document>
+    <bib:Document rdf:about="http://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=22">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Bibliotheca Polyglotta</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>University of Oslo, Faculty of Humanities</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Vajracchedikā Prajñāpāramitā</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=22</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2014-04-13 15:18:04</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Bibliotheca Polyglotta</dc:title>
+        <dcterms:dateSubmitted>2014-04-13 15:18:05</dcterms:dateSubmitted>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www2.hf.uio.no/polyglotta/index.php?page=volume&amp;vid=22</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <link:type>text/html</link:type>
+        <link:charset>utf-8</link:charset>
+    </z:Attachment>
     <bib:Book rdf:about="urn:isbn:9780691157863">
         <z:itemType>book</z:itemType>
         <dc:publisher>
@@ -746,7 +854,7 @@
             </dcterms:URI>
         </dc:identifier>
         <link:type>text/html</link:type>
-        <link:charset>1</link:charset>
+        <link:charset>utf-8</link:charset>
     </z:Attachment>
     <bib:Book rdf:about="urn:isbn:1582430594%20%209781582430591%20%201582432562%209781582432564">
         <z:itemType>book</z:itemType>
@@ -1238,5 +1346,59 @@
         <z:language>English</z:language>
         <dc:identifier>ISBN 0044402597  9780044402596  0042940907  9780042940908</dc:identifier>
         <z:libraryCatalog>Open WorldCat</z:libraryCatalog>
+    </bib:Book>
+    <bib:Book rdf:about="urn:isbn:1590303881">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Shambhala : Distributed in the United States by Random House</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Śāntideva</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Comité de traduction Padmakara</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bstan-ʼdzin-rgya-mtsho</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Doctrines</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mahayana Buddhism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The way of the Bodhisattva: a translation of the Bodhicharyāvatāra</dc:title>
+        <prism:edition>2nd ed., rev</prism:edition>
+        <dc:date>2006</dc:date>
+        <z:numPages>222</z:numPages>
+        <dc:identifier>ISBN 1590303881</dc:identifier>
+        <z:shortTitle>The way of the Bodhisattva</z:shortTitle>
+        <z:libraryCatalog>Library of Congress ISBN</z:libraryCatalog>
+        <dc:subject>
+           <dcterms:LCC><rdf:value>BQ3142.E5 P33 2006</rdf:value></dcterms:LCC>
+        </dc:subject>
     </bib:Book>
 </rdf:RDF>

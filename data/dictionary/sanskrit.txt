@@ -989,9 +989,9 @@
 989	3729	valuka	vālukā	वालुका	\N	沙	sand	Stem form	feminine	vālukā
 990	2978	mahanada	mahānada	महानद	\N	河	a great river / a stream	\N	masculine	\N
 991	401	tavat	tāvat	तावत्	\N	多	so many	\N	adjective	\N
-992	2978	nada	nada	नद	\N	河	a river / a stream	\N	masculine	\N
-993	3597	caksu	cakṣu	चक्षु	\N	眼	an eye	\N	masculine	\N
-994	3374	caitya	caitya	चैत्य	\N	塔	a stupa / a shrine	\N	masculine	\N
+992	2978	nada	nada	नद	\N	河	a river / a stream	\N	masculine	nada
+993	3597	caksu	cakṣu	चक्षु	\N	眼	an eye	Stem form	masculine	cakṣu
+994	3374	caitya	caitya	चैत्य	\N	塔	a stupa / a shrine	Stem form	masculine	caitya
 995	363	lokadhatu	lokadhātu	लोकधातु	\N	世界	a world / a region of the world	Stem form	masculine	lokadhātu
 996	29304	parinispattyi	pariniṣpattyi	परिनिष्पत्ति	\N	具足	perfection / perfect development	\N	feminine	\N
 997	6690	bhavati	bhavati	भवती	\N	汝	you	A respectful term of address with feminine gender	pronoun	\N
@@ -1001,12 +1001,12 @@
 1001	32462	nirjiva	nirjīva	निर्जीव	\N	無壽	no life / dead	\N	adjective	\N
 1002	3164	niratma	nirātma	निरात्म	\N	無我	selflessness / non-self	\N	adjective	\N
 1003	7183	visama	viṣama	विषम	\N	高下	better or worse / stronger or weaker	\N	adjective	\N
-1004	30865	parimocita	parimocita	परिमोचित	\N	度	rescued / liberated / emancipated	\N	adjective	\N
+1004	30865	parimocita	parimocita	परिमोचित	\N	度	liberated / emancipated	Masculine and neueter form	adjective	parimocita
 1005	568	vinasa	vināśa	विनाश	\N	滅	annihilation / destruction	Stem form	masculine	vināśa
 1006	32463	uccheda	uccheda	उच्छेद	\N	斷	end / destruction / annihilation	Stem form	masculine	uccheda
 1007	1459	parigraha	parigraha	परिग्रह	\N	得	possess	\N	masculine	\N
 1008	3368	nisidati	niṣīdati	निषीदति	\N	坐	to sit	\N	verb	\N
-1009	7193	sayya	śayyā	शय्या	\N	臥	to lie down / to sleep	\N	verb	\N
+1009	7193	sayya	śayyā	शय्या	\N	臥	bed / lying down / sleep	Stem form	masculine	śayyā
 1010	32465	paramanu	paramāṇu	परमाणु	\N	微塵	an atom	\N	masculine	\N
 1011	401	bahu	bahu	बहु	\N	多	many	Stem form	adjective	bahu
 1012	412	bhasita	bhāṣita	भाषित	\N	說	said	\N	adjective	\N
@@ -1024,7 +1024,7 @@
 1024	5069	rasa	rasa	रस	\N	味	taste	Stem form	masculine	rasa
 1025	32140	sprastavya	spraṣṭavya	स्प्रष्टव्य	\N	觸	touch / the sense of touch / feeling / sensation	\N	neuter	\N
 1026	916	apanna	āpanna	आपन्न	\N	入	entered	\N	adjective	\N
-1027	32697	andaja	āṇḍaja	आण्डज	aṇḍaja	卵生	born from an egg / oviparous	Used in Section 3 of the Diamond Sutra	adjective	āṇḍaja
+1027	32697	andaja	āṇḍaja	आण्डज	\N	卵生	born from an egg / oviparous	Used in Section 3 of the Diamond Sutra	adjective	āṇḍaja
 1028	32700	jarayuja	jarāyujā	जरायुजा	jalābuja	胎生	born from a womb / viviparous	Used in Section 3 of the Diamond Sutra	adjective	\N
 1029	32702	samsvedaja	saṃsvedaja	संस्वेदज	\N	濕生	born from moisture	Used in Section 3 of the Diamond Sutra	adjective	saṃsvedaja
 1030	32703	upapaduka	upapādukā	उपपादुका	opapatika	化生	born from transformation	Used in Section 3 of the Diamond Sutra	adjective	\N
@@ -1570,7 +1570,7 @@
 1570	35153	lakshmana	lakśmaṇa	लक्ष्मण	\N	羅什曼那	Laksmana / Lakshmana	One of Rama's brothers	masculine	lakśmaṇa
 1571	35153	lakshmanah	lakśmaṇaḥ	लक्श्मणः	\N	羅什曼那	Laksmana / Lakshmana	Nominative case	masculine	lakśmaṇa
 1572	35154	sita	sītā	सीता	\N	悉多	Sita	The central female character in the Ramayana	feminine	sita
-1573	2388	sundara	sundara	सुन्दर	\N	美	beautiful	Stem form	adjective	sundara
+1573	2388	sundara	sundara	सुन्दर	\N	美	 beautiful / handsome / lovely / charming / agreeable	Masculine and neuter forms, feminine form ends in ī	adjective	sundara
 1574	7118	santa	śānta	शान्त	\N	寧	peaceful	Stem form	adjective	śānta
 1575	837	vira	vīra	वीर	\N	強	strong	Stem form	adjective	vīra
 1576	2861	snihyati	snihyati	स्निह्यति	\N	愛	he loves	Third person, singular form of the active verb	verb4	√snih
@@ -1636,9 +1636,9 @@
 1636	398	smah	smaḥ	स्मः	\N	有	we both are	First person, plural form	verb	√as
 1637	17505	ativa	atīva	अतीव	\N	甚	very	\N	indecl	atīva
 1638	9315	aho	aho	अहो	\N	哎	hey!	An exclamation	indecl	aho
-1639	7147	kupita	kupita	कुपित	\N	嗔	angry	Stem form	adjective	kupita
-1640	3670	dharmika	dharmika	धर्मिक	\N	善	virtuous	Stem form	adjective	dharmika
-1641	5084	bhita	bhīta	भीत	\N	恐	afraid	Stem form	adjective	bhīta
+1639	7147	kupita	kupita	कुपित	\N	嗔	provoked / incensed / offended / angry	Masculine and neuter form, feminine form ends in ā	adjective	kupita
+1640	3670	dharmika	dhārmika	धार्मिक	\N	善	righteous / virtuous / pious / just	Masculine and neuter form, feminine form ends in ī	adjective	dhārmika
+1641	5084	bhita	bhīta	भीत	\N	恐	frightened / alarmed / terrified / timid / afraid of / imperilled by	Male and neuter form, feminine form ends in ā	adjective	bhīta
 1642	2543	pustakesu	pustakeṣu	पुस्तकेषु	\N	書	in the book	Locative case, singular form	neuter	pustaka
 1643	2618	asve	aśve	अश्वे	\N	馬	on the horse	Locative case, singular form of asva	masculine	aśva
 1644	4000	pathasi	paṭhasi	पठसि	\N	誦、讀	you read / you recite	Second person, singular form	verb1_3rd	√paṭh
@@ -1681,4 +1681,32 @@
 1681	3645	senasu	senāsu	सेनासु	\N	軍	army	Locative case, plural form	feminine	senā
 1682	15122	drastavya	draṣṭavya	द्रष्टव्य	\N	見	visible	Stem form	adjective	draṣṭavya
 1683	15122	drastavyah	draṣṭavyaḥ	द्रष्टव्यः	\N	見	visible	Nominative case, singular form	adjective	draṣṭavya
+1684	15122	caksusa	cākṣuṣa	चाक्षुष	\N	見	consisting in sight / depending on or produced from sight / proper or belonging or relating to the sight	Masculine and neuter form, feminine ends in ī	adjective	cākṣuṣa
+1685	15122	caksusa	cākṣuṣā	चाक्षुषा	\N	見	consisting in sight / depending on or produced from sight / proper or belonging or relating to the sight	Instrumental case, singular form	adjective	cākṣuṣa
+1686	3728	ganganada	gaṅgānada	गङ्गानद	\N	恆河	Ganges River	A compound consisting of gaṅgā (Ganges) + nada (river)	masculine	gaṅgānada
+1687	3728	gangānadisu	gaṅgānadīṣu	गङ्गानदीषु	\N	恆河	in the Ganges River	Locative case, plural form	masculine	gaṅgānada
+1688	32340	prajnacaksu	prajñācakṣu	प्रज्ञाचक्षु	\N	慧眼	wisdom eye	A compound consisting of prajñā (wisdom) + cakṣu (eye)	masculine	prajñācakṣu
+1689	32340	prajnacaksuh	prajñācakṣuḥ	प्रज्ञाचक्षुः	\N	慧眼	wisdom eye	Nominative case, singular form	masculine	prajñācakṣu
+1690	32340	mamsa	māṃsa	मांस	\N	肉	flesh / meat	Stem form	neuter	māṃsa
+1691	7178	mamsacaksu	māṃsacakṣu	मांसचक्षु	\N	肉眼	naked eye / physical eye	A compound consisting of māṃsa (flesh) + cakṣu (eye)	masculine	māṃsacakṣu
+1692	7178	mamsacaksuh	māṃsacakṣuḥ	मांसचक्षुः	\N	肉眼	naked eye / physical eye	Nominative case, singular form	masculine	māṃsacakṣu
+1693	32341	dharmacaksu	dharmacakṣu	धर्मचक्षु	\N	法眼	Dharma eye	A compound consisting of dharma + cakṣu (eye)	masculine	dharmacakṣu
+1694	32341	dharmacaksuh	dharmacakṣuḥ	धर्मचक्षुः	\N	法眼	Dharma eye	Nominative case, singular form	masculine	dharmacakṣu
+1695	32342	buddhacaksu	buddhacakṣu	बुद्धचक्षु	\N	佛眼	Buddha eye	A compound consisting of buddha + cakṣu (eye)	masculine	buddhacakṣu
+1696	32342	buddhacaksuh	buddhacakṣuḥ	बुद्धचक्षुः	\N	佛眼	Buddha eye	A compound consisting of buddha + cakṣu (eye)	masculine	buddhacakṣu
+1697	29352	prthivyam	pṛthivyām	पृथिव्याम्	\N	著地	on the ground	\N	indecl	pṛthivyām
+1698	29352	prthivyam	pṛthivyāṃ	पृथिव्यां	\N	著地	on the ground	Accusative case, singular form	indecl	pṛthivyām
+1699	1114	mahatā	mahatā	महता	\N	大	greatness / mightiness	Stem form	feminine	mahatā
+1700	4348	viharati	viharati	विहरति	\N	遊	travel	he walks	verb	√vihṛ
+1701	7193	sayyam	śayyāṃ	शय्यां	\N	臥	bed / lying down / sleep	Accusative case, singular form	masculine	śayyā
+1702	33276	vyakrta	vyākṛta	व्याकृत	\N	記	analyzed / expounded / explained / predicted	Masculine and neuter form, feminine form ends in ā	masculine	vyākṛta
+1703	1590	nanabhavah	nābhāvaḥ	नानाभावां	\N	種	various	Nominative case, singular form	adjective	nānābhāvā
+1704	581	ratra	rātra	नानाभावां	\N	下	below	Stem form	adjective	rātra
+1705	280	srotu	śrotu	श्रोतु	\N	聽	hearing	Stem form	masculine	śrotu
+1706	280	srotum	śrotum	श्रोतुम्	\N	聽	hearing	Accusative case, singular form	masculine	śrotu
+1707	280	srotum	śrotuṃ	श्रोतुं	\N	聽	hearing	Accusative case, singular form with ending modified for sandhi	masculine	śrotu
+1708	30865	parimocita	parimocitā	परिमोचिता	\N	度	liberated / emancipated	Feminine form	adjective	parimocita
+1709	32697	andaja	aṇḍajā	आण्डज	\N	卵生	born from an egg / oviparous	Feminine form or nominative case, plural masculine form	adjective	āṇḍaja
+1710	35157	trisatika	triśatikā	त्रिशतिका	\N	三百	three hundred	\N	cardinal	triśatikā
+1711	25307	sravastyam	śrāvastyāṃ	श्रावस्त्यां	\N	舍衛	Sravasti	Locative case with sandhi applied to word end	proper_noun	śrāvastī
 
