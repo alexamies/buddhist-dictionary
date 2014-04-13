@@ -1,43 +1,47 @@
-1	buddhajñānena	Buddha wisdom	佛智慧	2	Diamond Sūtra	A compound made from the words buddha + jñāna
-2	paramapāramitā	foremost pāramitā	第一波羅蜜	2	Diamond Sūtra	A compound made from the words parama + pāramitā
-3	srotaāpattiphalaṃ	the fruit of a Srotaāpanna	須陀洹果	2	Diamond Sūtra	Accusative case, a compound made from the words srotaāpatti + phala
-4	sakṛdāgāmiphalaṃ	the fruit of a Sakṛdāgāmin	斯陀含果	2	Diamond Sūtra	Accusative case, a compound made from the words sakṛdāgāmi + phala
-5	anāgāmiphalaṃ	the fruit of a Sakṛdāgāmin	阿那含果	2	Diamond Sūtra	Accusative case, a compound made from the words sakṛdāgāmi + phala
-6	nādharmaḥ	non-dhárma	非法	2	Diamond Sūtra	Nominative case, negation formed with the prefix nā: nā + dharmaḥ
-7	śākyamunirnāma	named Śākyamuni	號釋迦牟尼	2	Diamond Sūtra	A compound made from the words śākyamuni + nāma
-8	parvatarājaḥ	King of Mountains	山王	2	Diamond Sūtra	Nominative case, a compound made from the words parvata + rāja
-9	caityabhūtaḥ	a true place of worship	\N	2	Diamond Sūtra	Nominative case, a compound made from the words caitya + bhūta
-10	idamavocadbhagavān	after the Buddha had said this	\N	3	Diamond Sūtra	\N
-11	nāsattvāḥ	not sentient beings	不眾生	2	Diamond Sūtra	Nominative case
-12	paramapāramitāṃ	foremost pāramitā	第一波羅蜜	2	Diamond Sūtra	Accusative case
-13	jetavane'nāthapiṇḍadasyārāme	Jeta Grove in Anāthapiṇḍada’s park	祇樹給孤獨園	2	Diamond Sūtra	Locative case
-14	sarvadharmā	all dharmas	一切法	2	Diamond Sūtra	 A compound formed from the words sarva + dharmā. The nominative case, plural form dharmāḥ, is modified for Sandhi.
-15	apāramitā	not a paramita	\N	2	Diamond Sūtra	Negation formed with the prefix a: a + pāramitā
-16	dharmadeśanā	dhárma teaching	說法	2	Diamond Sūtra	A compound made from the words dharma + deśanā
-17	askandhaḥ	not a skandha	\N	2	Diamond Sūtra	Nominative case with negation formed with the prefix a: a + skandha
-18	bodhisattvairmahāsattvaiḥ	bodhisattvas and mahāsattva	\N	2	Diamond Sūtra	Instrumental case, plural form compound formed from the two words bodhisattva + mahāsattva
-19	ātmagrāha	grasping to the self	\N	2	Diamond Sūtra	A compound formed from the two words ātma + grāha
-kaścitsattvo	any sentient beings	有眾生	2	Diamond Sūtra	A compound formed from the two words kaścit + sattva with word ending modified for sandhi
-20	asattvāḥ	no sentient beings	非眾生	2	Diamond Sūtra	Nominative case
-20	bhūtavādī	speaks what is true	真語	2	Diamond Sūtra	A compound formed from the two parts bhūta + vādī
-21	satyavādī	speaks what is real	實語	2	Diamond Sūtra	A compound formed from the two parts satya + vādī
-22	tathāvādī	speaks what is thus	如語	2	Diamond Sūtra	A compound formed from the two parts tathā + vādī
-23	vitathavādī	speaks to the contrary	異語	2	Diamond Sūtra	A compound formed from the two parts vitatha + vādī
-24	akāyaḥ	not a body	非身	2	Diamond Sūtra	Nominative case with negation formed with the prefix a: a + kāya
-25	nātmasaṃjñā	no notions of a self	無我相	3	Diamond Sūtra	A compound formed from the three parts na + atma + saṃjñā
-26	pudgalasaṃjñā	notions of a person	人相	2	Diamond Sūtra	A compound formed from the two parts pudgala + saṃjñā
-27	sattvasaṃjñā	notions of a being	眾生相	2	Diamond Sūtra	A compound formed from the two parts sattva + saṃjñā
-28	jīvasaṃjñā	notions of a life	壽者相	2	Diamond Sūtra	A compound formed from the two parts jīva + saṃjñā
-29	agrāha	no grasping	\N	2	Diamond Sūtra	Negation formed with the prefix a: a + grāha
-30	kṣāntivādī	to speak of forbearance	\N	2	Diamond Sūtra	A compound formed from the two parts kṣānti + vādī
-31	sarvasaṃjñā	all appearances	一切相	2	Diamond Sūtra	A compound formed from the two parts sarva + saṃjñā
-32	pātracīvaraṃ	robe and bowl	衣缽	2	Diamond Sūtra	A compound formed from the two parts pātra + cīvara
-33	bhāṣatebhūtasaṃjñā	he speaks of a true appearance	說名實相	3	Diamond Sūtra	A compound formed from the three parts bhāṣate + bhūta + saṃjñā
-34	samyaksaṃbuddhasyāntikādudgṛhītaḥ	enlightenment obtained	得法	3	Diamond Sūtra	Nominative case compound formed from the three parts samyaksaṃbuddhasyāntikādud +gṛhīta
-35	sakṛdāgāmīti	called a sakṛdāgāmin	名斯陀含	2	Diamond Sūtra	A compound formed from the two parts sakṛdāgāmin + iti with sandhi applied
-36	ātmadṛṣṭiriti	called the view of a self	名我見	3	Diamond Sūtra	A compound formed from the three parts ātma + dṛṣṭi + iti with sandhi applied
-37	bhavediti	said to be	\N	2	Diamond Sūtra	A compound formed from the two parts bhave + iti with sandhi applied
-38	araṇāvihārīti	called forest dwelling	\N	3	Diamond Sūtra	A compound formed from the three parts araṇā + vihār + iti with sandhi applied
-39	anāgāmīti	called an Anāgāmin	名阿那含	2	Diamond Sūtra	A compound formed from the two parts anāgāmin + iti with sandhi applied
-40	yathāhaṃ	thus I	\N	2	Diamond Sūtra	Accusative form of a compound formed from the two parts yatha + aham with sandhi applied
-41	arhattvaṃ	you Arhat	\N	2	Diamond Sūtra	Accusative form of a compound formed from the two parts arhat + tvam with sandhi applied
+1	buddhajñānena	Buddha wisdom	佛智慧	2	Diamond Sūtra	buddha + jñāna	\N
+2	paramapāramitā	foremost pāramitā	第一波羅蜜	2	Diamond Sūtra	parama + pāramitā	\N
+3	srotaāpattiphalaṃ	the fruit of a Srotaāpanna	須陀洹果	2	Diamond Sūtra	srotaāpatti + phala	Accusative case
+4	sakṛdāgāmiphalaṃ	the fruit of a Sakṛdāgāmin	斯陀含果	2	Diamond Sūtra	sakṛdāgāmi + phala	Accusative case
+5	anāgāmiphalaṃ	the fruit of a Sakṛdāgāmin	阿那含果	2	Diamond Sūtra	anāgāmi + phala	Accusative case
+6	nādharmaḥ	non-dhárma	非法	2	Diamond Sūtra	nā + dharma	Nominative case, negation formed with the prefix nā
+7	śākyamunirnāma	named Śākyamuni	號釋迦牟尼	2	Diamond Sūtra	śākyamuni + nāma	\N
+8	parvatarājaḥ	King of Mountains	山王	2	Diamond Sūtra	parvata + rāja	Nominative case
+9	caityabhūtaḥ	a true place of worship	\N	2	Diamond Sūtra	caitya + bhūta	Nominative case
+10	idamavocadbhagavān	after the Buddha had said this	\N	3	Diamond Sūtra	idama + vocad + bhagavān	\N
+11	nāsattvāḥ	not sentient beings	不眾生	2	Diamond Sūtra	nā + sattvā	Nominative case
+12	paramapāramitāṃ	foremost pāramitā	第一波羅蜜	2	Diamond Sūtra	parama + pāramitā	Accusative case
+13	jetavane'nāthapiṇḍadasyārāme	Jeta Grove in Anāthapiṇḍada’s park	祇樹給孤獨園	4	jeta + vana + anāthapiṇḍa + dasyārāme	Diamond Sūtra	Locative case
+14	sarvadharmā	all dharmas	一切法	2	Diamond Sūtra	 sarva + dharma	The nominative case, plural form dharmāḥ, is modified for Sandhi.
+15	apāramitā	not a paramita	\N	2	Diamond Sūtra	a + pāramitā	Negation formed with the prefix a
+16	dharmadeśanā	dhárma teaching	說法	2	Diamond Sūtra	dharma + deśanā	\N
+17	askandhaḥ	not a skandha	\N	2	Diamond Sūtra	a + skandha	Nominative case with negation formed with the prefix a
+18	bodhisattvairmahāsattvaiḥ	bodhisattvas and mahāsattva	\N	2	Diamond Sūtra	bodhisattva + mahāsattva	Instrumental case
+19	ātmagrāha	grasping to the self	\N	2	Diamond Sūtra	ātma + grāha	\N
+20	kaścitsattvo	any sentient beings	有眾生	2	Diamond Sūtra	kaścit + sattva	Word ending modified for sandhi
+21	asattvāḥ	no sentient beings	非眾生	2	Diamond Sūtra	a + sattvā	Nominative case
+22	bhūtavādī	speaks what is true	真語	2	Diamond Sūtra	bhūta + vādī	\N
+23	satyavādī	speaks what is real	實語	2	Diamond Sūtra	satya + vādī	\N
+24	tathāvādī	speaks what is thus	如語	2	Diamond Sūtra	tathā + vādī	\N
+25	vitathavādī	speaks to the contrary	異語	2	Diamond Sūtra	vitatha + vādī	\N
+26	akāyaḥ	not a body	非身	2	Diamond Sūtra	a + kāya	Nominative case with negation formed with the prefix a
+27	nātmasaṃjñā	no notions of a self	無我相	3	Diamond Sūtra	na + atma + saṃjñā	\N
+28	pudgalasaṃjñā	notions of a person	人相	2	Diamond Sūtra	pudgala + saṃjñā	\N
+29	sattvasaṃjñā	notions of a being	眾生相	2	Diamond Sūtra	sattva + saṃjñā	\N
+30	jīvasaṃjñā	notions of a life	壽者相	2	Diamond Sūtra	jīva + saṃjñā	\N
+31	agrāha	no grasping	\N	2	Diamond Sūtra	a + grāha	Negation formed with the prefix a
+32	kṣāntivādī	to speak of forbearance	\N	2	Diamond Sūtra	kṣānti + vādī	\N
+33	sarvasaṃjñā	all appearances	一切相	2	Diamond Sūtra	sarva + saṃjñā	\N
+34	pātracīvaraṃ	robe and bowl	衣缽	2	Diamond Sūtra	pātra + cīvara	\N
+35	bhāṣatebhūtasaṃjñā	he speaks of a true appearance	說名實相	3	Diamond Sūtra	bhāṣate + bhūta + saṃjñā	\N
+36	samyaksaṃbuddhasyāntikādudgṛhītaḥ	enlightenment obtained	得法	3	Diamond Sūtra	samyak + saṃbuddhasyāntikādud + gṛhīta	Nominative case
+37	sakṛdāgāmīti	called a sakṛdāgāmin	名斯陀含	2	Diamond Sūtra	sakṛdāgāmin + iti	Sandhi applied
+38	ātmadṛṣṭiriti	called the view of a self	名我見	3	Diamond Sūtra	ātma + dṛṣṭi + iti	Sandhi applied
+39	bhavediti	said to be	\N	2	Diamond Sūtra	bhave + iti	Sandhi applied
+40	araṇāvihārīti	called forest dwelling	\N	3	Diamond Sūtra	araṇā + vihār + iti	Sandhi applied
+41	anāgāmīti	called an Anāgāmin	名阿那含	2	Diamond Sūtra	anāgāmin + iti	Sandhi applied
+42	yathāhaṃ	thus I	\N	2	Diamond Sūtra	 yatha + aham	Accusative form with sandhi applied
+43	arhattvaṃ	you Arhat	\N	2	Diamond Sūtra	arhat + tvam	Accusative form with sandhi applied
+44	tatkasya	that reason	\N	2	Diamond Sūtra	tat + kasya	\N
+45	kaściddharmo	any dharma	\N	2	Diamond Sūtra	kaścid + dharma	Sandhi applied to word end
+46	āryaprajñāpāramitāyai	the noble prajna paramita	\N	3	Diamond Sūtra	ārya + prajñā + pāramitā	This appears n the colophon at the start of the Sanskrit version. The dative case of pāramitā is used.
+

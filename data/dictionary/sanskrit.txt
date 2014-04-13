@@ -27,7 +27,7 @@
 27	23092	asoka	aśoka	अशोकः	\N	阿育王	Ashoka	Also known as King Ashoka	proper_noun	\N
 28	27877	Brahmilipih	Brāhmīlipiḥ	ब्राह्मीलिपिः	\N	婆羅米文	Brahmi script	Sometimes written as Brāhmī script	proper_noun	\N
 29	27946	Om mani padme hum	Oṃ maṇi padme hūṃ	ओं मणिपद्मे हूं	\N	嗡嘛呢叭咩吽	Om mani padme hum	\N	fragment	\N
-30	28008	paramita	pāramitā	पारमिता	pāramī	度、波羅蜜、波羅蜜多	a paramita / a perfection	\N	noun	\N
+30	28008	paramita	pāramitā	पारमिता	pāramī	度、波羅蜜、波羅蜜多	a paramita / a perfection	\N	feminine	pāramitā
 31	18498	samsara	saṃsāra	संसार	\N	輪迴、生死、輪回	Samsara	The endless cycle of life and death. The term is used in Buddhism, Hinduism, and Jain. (Mittal and Thursby 2006, p20)	proper_noun	\N
 32	25816	mudra	mudrā	मुद्रा	\N	手印	mudra	\N	noun	\N
 33	4057	nirvana	nirvāṇa	निर्वाण	nibbāna	涅盘、涅槃	Nirvana	\N	proper_noun	\N
@@ -1382,7 +1382,7 @@
 1382	26965	amrtam	amṛtam	अमृतम्	\N	甘露	immortality / an immortal	Nominative and Accusative case, singular form	neuter	amṛta
 1383	2231	katham	katham	कथम्	\N	如何	how	Interrogative pronoun	indecl	katham
 1384	28009	jnanam	jñānam	ज्ञानम्	\N	闍那、智	wisdom / knowledge	Nominative and Accusative case, singular form	neuter	jñāna
-1385	2648	vane	vane	वने	\N	林	in the forest book	Locative case, singular form	neuter	vana
+1385	2648	vane	vane	वने	\N	林	in the forest	Locative case, singular form	neuter	vana
 1386	2648	vanam	vanam	वनम्	\N	林	a forest	Nominative and Accusative case, singular form	neuter	vana
 1387	6492	vajracchedika	vajracchedikā	वज्रच्छेदिका	\N	金剛	diamond cutter	Stem form	noun	vajracchedikā
 1388	5111	satyam	satyam	सत्यम्	\N	諦	truth	Nominative and Accusative case, singular form	neuter	satya
@@ -1645,3 +1645,40 @@
 1645	7147	kupitah	kupitaḥ	कुपितः	\N	嗔	angry	Nominative case, singular form	adjective	kupita
 1646	5084	bhitah	bhītaḥ	भीतः	\N	恐	afraid	Nominative case, singular form	adjective	bhīta
 1647	2388	sundarah	sundaraḥ	सुन्दरः	\N	美	beautiful	Nominative case, singular form	adjective	sundara
+1648	2710	kascid	kaścid	कश्चिद्	\N	他人	someone / any	Stem form	noun	kaścid
+1649	2543	pustakani	pustakāni	पुस्तकानि	\N	書	books	Accusative  case, plural form	neuter	pustaka
+1650	3236	nrpo	nṛpo	नृपो	\N	王	a king	Nominative case, singular form nṛpaḥ with sandhi applied to word end	masculine	nṛpa
+1651	758	grham	gṛhaṃ	गृहं	\N	房	house	Nominative and accusative case, singular form with sandhi applied to word ending	neuter	gṛha
+1652	9698	viro	vīro	वीरो	\N	英雄、雄	hero	Nominative case, singular form vīraḥ with sandhi applied to word end	masculine	vīra
+1653	890	gramam	grāmaṃ	ग्रामं	\N	村	a village	Accusative case, singular form with sandhi applied to word end	masculine	grāma
+1654	2388	sundaro	sundaro	सुन्दरो	\N	美	beautiful	Nominative case, singular form sundaraḥ with sandhi applied to ending	adjective	sundara
+1655	7115	kasya	kasya	कस्य	\N	故	whose	Stem form	masculine	kasya
+1656	31047	tena	tena	तेन	\N	時	then / at that time	\N	indecl	tena
+1657	398	vidyate	vidyate	विद्यते	\N	有	there is / there exists	\N	verb	√vid
+1658	28111	ramena	rāmeṇa	रामेण	\N	羅摩	Rama	Instrumental case, singular form	masculine	rāma
+1659	2683	putranam	putrāṇām	पुत्राणाम्	\N	子、兒	a son / a child	Genitive case, plural form	masculine	putra
+1660	3645	sena	senā	सेना	\N	軍	army	Nominative case, singular form	feminine	senā
+1661	608	ghosa	ghoṣa	घोष	\N	聲	sound	Stem form	masculine	ghoṣa
+1662	608	ghosena	ghoṣeṇa	घोषेण	\N	聲	sound	Instrumental case, singular form	masculine	ghoṣa
+1663	3645	sene	sene	सेने	\N	軍	army	Nominative and accusative case, dual form	feminine	senā
+1664	3645	senah	senāḥ	सेनाः	\N	軍	army	Nominative, accusative, and vocative case, plural form	feminine	senā
+1665	3645	senam	senām	सेनाम्	\N	軍	army	Accusative case, singular form	feminine	senā
+1666	3645	senaya	senayā	सेनया	\N	軍	army	Instrumental case, singular form	feminine	senā
+1667	3645	senabhyam	senābhyām	सेनाभ्याम्	\N	軍	army	Instrumental, dative, and ablative case, dual form	feminine	senā
+1668	33669	paramaya	paramayā	परमया	\N	上	first / best / highest	Instrumental form	adjective	parama
+1669	33656	parindana	parīndana	परीन्दन	\N	禮	gift	Stem form	neuter	parīndana
+1670	33656	parindanaya	parīndanayā	परीन्दनया	\N	禮	gift	Instrumental case, singular form	neuter	parīndana
+1671	17739	dharmakaya	dharmakāya	धर्मकाय	\N	法身	Dharma body	Stem form	masculine	dharmakāya
+1672	17739	dharmakaya	dharmakāyā	धर्मकाया	\N	法身	Dharma body	Nominative case plural form dharmakāyāḥ modified for sandhi	masculine	dharmakāya
+1673	1107	bhūtatā	bhūtatā	भूतता	\N	實際	reality / truth	Stem form	feminine	bhūtatā
+1674	3645	senabhih	senābhiḥ	सेनाभिः	\N	軍	army	Instrumental case, plural form	feminine	senā
+1675	3645	senayai	senāyai	सेनायै	\N	軍	army	Dative case, singular form	feminine	senā
+1676	3645	senabhyah	senābhyaḥ	सेनाभ्यः	\N	軍	army	Dative and ablative case, plural form	feminine	senā
+1677	3645	senayah	senāyāḥ	सेनायाः	\N	軍	army	Ablative and genitive case, singular form	feminine	senā
+1678	3645	senayoh	senayoḥ	सेनयोः	\N	軍	army	Genitive and locative case, dual form	feminine	senā
+1679	3645	senanam	senānām	सेनानाम्	\N	軍	army	Genitive case, plural form	feminine	senā
+1680	3645	senayam	senāyām	सेनायाम्	\N	軍	army	Locative case, singular form	feminine	senā
+1681	3645	senasu	senāsu	सेनासु	\N	軍	army	Locative case, plural form	feminine	senā
+1682	15122	drastavya	draṣṭavya	द्रष्टव्य	\N	見	visible	Stem form	adjective	draṣṭavya
+1683	15122	drastavyah	draṣṭavyaḥ	द्रष्टव्यः	\N	見	visible	Nominative case, singular form	adjective	draṣṭavya
+
