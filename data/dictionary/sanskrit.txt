@@ -523,10 +523,10 @@
 523	366	vayam	vayam	वयम्	\N	我們	we	\N	pronoun	asmad
 524	4081	tvam	tvam	त्वम्	\N	汝、你	you	Nominative form for second person, singular personal pronoun	pronoun	tvad
 525	2304	yuyam	yūyam	यूयम्	\N	你們	you all	Nominative form for second person, plural personal pronoun	pronoun	yuṣmad
-526	518	tat	tat	तत्	\N	他、它	he	Masculine or neuter stem	pronoun	tat
-527	521	tau	tau	तौ	\N	他們	them	Dual masculine	pronoun	tat
-528	521	tan	tān	तान्	\N	他們	them	Plural masculine	pronoun	tat
-529	523	tani	tāni	तानि	\N	它們	those	Plural neuter	pronoun	tat
+526	518	tat	tat	तत्	\N	他、它	he	Masculine or neuter stem	pronoun	tad
+527	521	tau	tau	तौ	\N	他們	them	Third person pronoun, nominative case, dual form	masculine	tad
+528	521	tan	tān	तान्	\N	他們	them	Plural masculine	pronoun	tad
+529	523	tani	tāni	तानि	\N	它們	those	Plural neuter	pronoun	tad
 530	3794	kah	kaḥ	कः	\N	谁	who	Integative masculine pronoun	pronoun	\N
 531	2303	kim	kim	किम्	\N	哪	what	Integative neuter pronoun	pronoun	\N
 532	28890	acarya	ācārya	आचार्य	acariya	阿闍黎、阿闍棃、阿舍棃、阿闍梨、阿祇利、阿遮利耶	a teacher / a Buddhist teacher	Stem form	masculine	ācārya
@@ -787,8 +787,8 @@
 787	3348	eva	eva	एव	\N	真、眞	only / ever / true / very	An enclytic particle that serves to emphasize the word that precedes it	particle	\N
 788	8849	adbhuta	adbhuta	अद्भुत	\N	妙	extrordinary / wonderful	\N	adjective	\N
 789	271	esah	eṣaḥ	एषः	\N	這	this	\N	pronoun	saḥ
-790	754	sah	saḥ	सः	\N	那	that	Nominative singular masculine	pronoun	\N
-791	754	sa	sā	सा	\N	那	that	Nominative singular feminine	pronoun	\N
+790	518	sah	saḥ	सः	\N	他	him	Third person pronoun, nominative case, singular form	masculine	tad
+791	519	sa	sā	सा	\N	她	her	Third person pronoun, nominative case, singular form	feminine	tad
 792	2027	va	vā	वा	\N	or	或	An enclytic particle to form a disjunction (or), as in .. vā .. vā (either .. or ..)	conjunction	\N
 793	615	krta	kṛta	कृत	\N	夠	done with / put	\N	noun	\N
 794	12264	kutuhalin	kutūhalin	कुतूहलिन्	\N	好奇	curious / eager / impatient	\N	adjective	\N
@@ -1709,4 +1709,6 @@
 1709	32697	andaja	aṇḍajā	आण्डज	\N	卵生	born from an egg / oviparous	Feminine form or nominative case, plural masculine form	adjective	āṇḍaja
 1710	35157	trisatika	triśatikā	त्रिशतिका	\N	三百	three hundred	\N	cardinal	triśatikā
 1711	25307	sravastyam	śrāvastyāṃ	श्रावस्त्यां	\N	舍衛	Sravasti	Locative case with sandhi applied to word end	proper_noun	śrāvastī
+1712	518	tad	tad	तद्	\N	他	him	Third person personal pronoun, stem form	masculine	tad
+1713	521	te	te	ते	\N	他們	them	Third person personal pronoun, nominative case, plural form  	masculine	tad
 
