@@ -15,7 +15,7 @@ if (mb_strlen($text) > 100) {
     //error_log("langType: $langType");
     $chineseText = new ChineseText($text, $langType);
     $elements = $chineseText->getTextElements();
-    error_log("No elements: " . count($elements));
+    //error_log("No elements: " . count($elements));
     $words = "[";
     foreach ($elements as $element) {
         $elemText = $element->getText();
