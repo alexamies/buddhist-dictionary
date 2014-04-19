@@ -39,8 +39,8 @@
 39	27972	brahmanam	brāhmaṇam	ब्राह्मणम्	\N	梵書	Brahmana	\N	proper_noun	\N
 40	27978	pandita	paṇḍita	पण्डित	\N	班智達	pundit	\N	noun	\N
 41	27998	sivasutrani	śivasūtrāṇi	शिवसूत्राणि	\N	濕婆經	Shiva Sutra	\N	proper_noun	\N
-42	518	tam	taṃ	तं	\N	他	he	\N	pronoun	\N
-43	519	tam	tāṃ	तां	\N	她	she	\N	pronoun	tat
+42	518	tam	taṃ	तं	\N	他	he	Third person pronoun, accusative case, singular form modified for sandhi	masculine	tad
+43	519	tam	tāṃ	तां	\N	她	she	\N	pronoun	tad
 44	3167	sutra	sūtra	सूत्र	sutta	經、佛經、長行	sutra	Literally, to sew; stem form	neuter	sūtra
 45	6270	atman	ātman	आत्मन्	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 46	28009	jnana	jñāna	ज्ञान	\N	闍那、智	wisdom / knowledge	Stem form	neuter	jñāna
@@ -523,10 +523,10 @@
 523	366	vayam	vayam	वयम्	\N	我們	we	\N	pronoun	asmad
 524	4081	tvam	tvam	त्वम्	\N	汝、你	you	Nominative form for second person, singular personal pronoun	pronoun	tvad
 525	2304	yuyam	yūyam	यूयम्	\N	你們	you all	Nominative form for second person, plural personal pronoun	pronoun	yuṣmad
-526	518	tat	tat	तत्	\N	他、它	he	Masculine or neuter stem	pronoun	tad
-527	521	tau	tau	तौ	\N	他們	them	Third person pronoun, nominative case, dual form	masculine	tad
-528	521	tan	tān	तान्	\N	他們	them	Plural masculine	pronoun	tad
-529	523	tani	tāni	तानि	\N	它們	those	Plural neuter	pronoun	tad
+526	520	tat	tat	तत्	\N	它	he	Third person pronoun, nominative and accusative case, singular form	neuter	tad
+527	521	tau	tau	तौ	\N	他們	them	Third person pronoun, nominative and accusative case, dual form	masculine	tad
+528	521	tan	tān	तान्	\N	他們	them	Third person pronoun, accusative case, plural form	masculine	tad
+529	523	tani	tāni	तानि	\N	它們	those	Third person pronoun, nominative and accusative case, dual form	neuter	tad
 530	3794	kah	kaḥ	कः	\N	谁	who	Integative masculine pronoun	pronoun	\N
 531	2303	kim	kim	किम्	\N	哪	what	Integative neuter pronoun	pronoun	\N
 532	28890	acarya	ācārya	आचार्य	acariya	阿闍黎、阿闍棃、阿舍棃、阿闍梨、阿祇利、阿遮利耶	a teacher / a Buddhist teacher	Stem form	masculine	ācārya
@@ -1402,7 +1402,7 @@
 1402	4557	sastranam	śāstrāṇām	शास्त्राणाम्	\N	論	treatises / theories	Genitive case, singular form	neuter	śāstra
 1403	13326	devau	devau	देवौ	\N	天	two deities	Nominative, accusative, and vocative case, dual form	masculine	deva
 1404	6686	tathagatasya	tathāgatasya	तथागतस्य	\N	如來	Tathagata	Genitive case, singular form	masculine	tathāgata
-1405	17908	tesam	teṣāṃ	तेषां	\N	是	their	\N	pronoun	\N
+1405	521	tesam	teṣāṃ	तेषां	\N	他們	theirs	Third person pronoun, genitive case, plural form	masculine	tad
 1406	5284	bahutaram	bahutaraṃ	बहुतरं	\N	勝	surpassing / greater / exceeding	Accusative case, singular form	adjective	bahutara
 1407	775	datavya	dātavya	दातव्य	\N	給	to be given	Stem form	adjective	dātavya
 1408	775	dātavyam	dātavyam	दातव्यम्	\N	給	to be given	Accusative case, singular form	adjective	dātavya
@@ -1711,4 +1711,28 @@
 1711	25307	sravastyam	śrāvastyāṃ	श्रावस्त्यां	\N	舍衛	Sravasti	Locative case with sandhi applied to word end	proper_noun	śrāvastī
 1712	518	tad	tad	तद्	\N	他	him	Third person personal pronoun, stem form	masculine	tad
 1713	521	te	te	ते	\N	他們	them	Third person personal pronoun, nominative case, plural form  	masculine	tad
-
+1714	518	tam	tam	तम्	\N	他	he	Third person pronoun, accusative case, singular form	masculine	tad
+1715	518	tena	tena	तेन	\N	他	with him	Third person personal pronoun, instrumental case, singular form	masculine	tad
+1716	521	tabhyam	tābhyām	ताभ्याम्	\N	他們	them	Third person personal pronoun, instrumental, dative, and ablative case, dual form  	masculine	tad
+1717	521	taih	taiḥ	तैः	\N	他們	them	Third person personal pronoun, instrumental case, plural form  	masculine	tad
+1718	518	tasmai	tasmai	तस्मै	\N	他	for him	Third person personal pronoun, dative case, singular form	masculine	tad
+1719	521	tebhyah	tebhyaḥ	तेभ्यः	\N	他們	them	Third person personal pronoun, dative and ablative case, plural form	masculine	tad
+1720	518	tasmat	tasmāt	तस्मात्	\N	他	from him	Third person personal pronoun, ablative case, singular form	masculine	tad
+1721	27382	tarhi	tarhi	तर्हि	\N	是故	therefore / at that time / then / at that moment / in that case	\N	indecl	tarhi
+1722	27382	yasmat	yasmāt	यस्मात्	\N	是故	therefore / from which / from which cause / since / as / because	\N	indecl	yasmāt
+1723	518	tasya	tasya	तस्य	\N	他	his	Third person personal pronoun, genitive case, singular form	masculine	tad
+1724	521	tayoh	tayoḥ	तेभ्यः	\N	他們	them	Third person personal pronoun, genitive and locative case, dual form	masculine	tad
+1725	518	tasmin	tasmin	तस्मिन्	\N	他	on him	Third person personal pronoun, locative case, dual form	masculine	tad
+1726	521	tesu	teṣu	तेषु	\N	他們	on them / those	Third person personal pronoun, locative case, plural form	masculine	tad
+1727	518	sa	sa	स	\N	他	him	Third person pronoun, nominative case, singular form saḥ modified for sandhi for all following consonants and all vowels, except a	masculine	tad
+1728	523	te	te	ते	\N	它們	them	Third person personal pronoun, nominative and accusative case, dual form	neuter	tad
+1729	520	tena	tena	तेन	\N	它	it	Third person personal pronoun, instrumental case, singular form	neuter	tad
+1730	523	tabhyam	tābhyām	ताभ्याम्	\N	它們	them	Third person personal pronoun, instrumental, dative, and ablative case, dual form  	neuter	tad
+1731	523	taih	taiḥ	तैः	\N	它們	them	Third person personal pronoun, instrumental case, plural form  	neuter	tad
+1732	520	tasmai	tasmai	तस्मै	\N	它	it	Third person personal pronoun, dative case, singular form	neuter	tad
+1733	523	tebhyah	tebhyaḥ	तेभ्यः	\N	它們	them	Third person personal pronoun, dative and ablative case, plural form	neuter	tad
+1734	520	tasmat	tasmāt	तस्मात्	\N	它	it	Third person personal pronoun, ablative case, singular form	neuter	tad
+1735	520	tasya	tasya	तस्य	\N	它	its	Third person personal pronoun, genitive case, singular form	neuter	tad
+1736	523	tayoh	tayoḥ	तेभ्यः	\N	它們	theirs	Third person personal pronoun, genitive and locative case, dual form	neuter	tad
+1737	523	tesam	teṣāṃ	तेषां	\N	它們	theirs	Third person pronoun, genitive case, plural form	neuter	tad
+1738	520	tasmin	tasmin	तस्मिन्	\N	它	on it	Third person personal pronoun, locative case, dual form	neuter	tad
