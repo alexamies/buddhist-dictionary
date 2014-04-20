@@ -920,7 +920,7 @@
 920	32147	anapatrapya	anapatrāpya	अनपत्राप्य	anottappa	無愧	disregard / lack of propriety	A mental factor in Buddhism	neuter	\N
 921	32151	dharmata	dharmatā	धर्मता	\N	法性、真如法性、真法性、真性	inherent nature / essence / true nature	\N	feminine	\N
 922	32155	asrava	āsrāva	आस्राव	āsava	漏	flow / influx / discharge	Defiles, bringing renewal of existence	masculine	\N
-923	32156	sasrava	sāsrava	सास्रव	\N	有漏	having flow	Defiles, bringing renewal of existence	adjective	\N
+923	32156	sasrava	sāsrava	सास्रव	\N	有漏	having flow	Defiles, bringing renewal of existence	adjective	sāsrava
 924	32157	cintana	cintana	चिन्तन	\N	思惟	thought / thinking	\N	neuter	\N
 925	32157	samkalpa	saṃkalpa	संकल्प	sankappa	思惟、誌	intention	\N	masculine	\N
 926	11506	samyak	samyak	सम्यक्	sammā	正	precise / exact / accurate	\N	adjective	\N
@@ -1736,3 +1736,4 @@
 1736	523	tayoh	tayoḥ	तेभ्यः	\N	它們	theirs	Third person personal pronoun, genitive and locative case, dual form	neuter	tad
 1737	523	tesam	teṣāṃ	तेषां	\N	它們	theirs	Third person pronoun, genitive case, plural form	neuter	tad
 1738	520	tasmin	tasmin	तस्मिन्	\N	它	on it	Third person personal pronoun, locative case, dual form	neuter	tad
+1739	5092	viparyasa	viparyāsa	विपर्यास	\N	顛倒	delusion / error / inversion / reversal	\N	masculine	viparyāsa
