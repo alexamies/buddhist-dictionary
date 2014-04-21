@@ -40,7 +40,7 @@
 40	27978	pandita	paṇḍita	पण्डित	\N	班智達	pundit	\N	noun	\N
 41	27998	sivasutrani	śivasūtrāṇi	शिवसूत्राणि	\N	濕婆經	Shiva Sutra	\N	proper_noun	\N
 42	518	tam	taṃ	तं	\N	他	he	Third person pronoun, accusative case, singular form modified for sandhi	masculine	tad
-43	519	tam	tāṃ	तां	\N	她	she	\N	pronoun	tad
+43	519	tam	tāṃ	तां	\N	她	she	Third person pronoun, accusative case, singular form tām modified for sandhi	feminine	tad
 44	3167	sutra	sūtra	सूत्र	sutta	經、佛經、長行	sutra	Literally, to sew; stem form	neuter	sūtra
 45	6270	atman	ātman	आत्मन्	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 46	28009	jnana	jñāna	ज्ञान	\N	闍那、智	wisdom / knowledge	Stem form	neuter	jñāna
@@ -51,7 +51,7 @@
 51	18698	manjusri	mañjuśrī	मञ्जुश्री	\N	文殊	Manjusri	\N	proper_noun	\N
 52	11853	ksitigarbha	kṣitigarbha	क्षितिगर्भ	\N	地藏	Ksitigarbha	Literally, earth (kṣiti) store	proper_noun	\N
 53	18705	samantabhadra	samantabhadra	समन्तभद्र	\N	普贤	Samantabhadra	\N	proper_noun	\N
-54	5075	avidya	avidyā	अविद्या	avijjā	無明	ignorance	\N	noun	\N
+54	5075	avidya	avidyā	अविद्या	avijjā	無明	ignorance / spiritual ignorance	Stem form	feminine	avidyā
 55	3892	trsna	tṛṣṇā	तृष्णा	taṇhā	貪	desire	Sometimes translated as 愛	noun	\N
 56	17971	catvari aryasatyani	catvāri āryasatyāni	चत्वारि आर्यसत्यानि	cattāri ariyasaccāni	四聖諦	Four Noble Truths	\N	phrase	\N
 57	17657	sunyata	śūnyatā	शून्यता	suñña	空	emptiness	\N	noun	\N
@@ -408,7 +408,7 @@
 408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person, singlular form of the active verb	verb1_3rd	√smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa / Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
-411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	\N
+411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	iva
 412	2231	kim	kim	किम्	\N	如何	what	A pronoun used in questions	pronoun	\N
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	indecl	api
@@ -783,7 +783,7 @@
 783	3971	udyana	udyāna	उद्यान	\N	園	a garden / a park / an orchard	\N	noun	\N
 784	3889	iccha	icchā	इच्छा	\N	欲	want / wish / desire	\N	feminine	\N
 785	7778	etah	etāḥ	एताः	\N	這些、這	these	Plural	pronoun	\N
-786	8846	guna	guṇa	गुण	\N	相	a quality	\N	masculine	\N
+786	8846	guna	guṇa	गुण	guṇa	相	a quality	\N	masculine	guṇa
 787	3348	eva	eva	एव	\N	真、眞	only / ever / true / very	An enclytic particle that serves to emphasize the word that precedes it	particle	\N
 788	8849	adbhuta	adbhuta	अद्भुत	\N	妙	extrordinary / wonderful	\N	adjective	\N
 789	271	esah	eṣaḥ	एषः	\N	這	this	\N	pronoun	saḥ
@@ -1735,5 +1735,36 @@
 1735	520	tasya	tasya	तस्य	\N	它	its	Third person personal pronoun, genitive case, singular form	neuter	tad
 1736	523	tayoh	tayoḥ	तेभ्यः	\N	它們	theirs	Third person personal pronoun, genitive and locative case, dual form	neuter	tad
 1737	523	tesam	teṣāṃ	तेषां	\N	它們	theirs	Third person pronoun, genitive case, plural form	neuter	tad
-1738	520	tasmin	tasmin	तस्मिन्	\N	它	on it	Third person personal pronoun, locative case, dual form	neuter	tad
+1738	520	tasmin	tasmin	तस्मिन्	\N	它	on it	Third person personal pronoun, locative case, singular form	neuter	tad
 1739	5092	viparyasa	viparyāsa	विपर्यास	\N	顛倒	delusion / error / inversion / reversal	\N	masculine	viparyāsa
+1740	522	tah	tāḥ	ताः	\N	她們	they / them	Third person personal pronoun, nominative and accusative case, plural form	feminine	tad
+1741	519	tam	tām	ताम्	\N	她	her	Third person pronoun, accusative case, singular form	feminine	tad
+1742	519	taya	tayā	तया	\N	她	with her	Third person pronoun, instrumental case, singular form	feminine	tad
+1743	522	tabih	tābiḥ	ताबिः	\N	她們	they	Third person pronoun, instrumental case, plural form	feminine	tad
+1744	519	tasyai	tasyai	तस्यै	\N	她	for her	Third person pronoun, dative case, singular form	feminine	tad
+1745	522	tabyhyah	tābyhyaḥ	ताब्य्ह्यः	\N	她們	they	Third person pronoun, dative case, plural form	feminine	tad
+1746	519	tasyah	tasyāḥ	तस्याः	\N	她	hers	Third person pronoun, ablative and genitive case, singular form	feminine	tad
+1747	522	tasam	tāsām	तासाम्	\N	她們	they	Third person pronoun, genitive case, plural form	feminine	tad
+1748	519	tasyam	tasyām	तस्याः	\N	她	on her	Third person pronoun, locative case, singular form	feminine	tad
+1749	522	tasu	tāṣu	ताषु	\N	她們	they	Third person pronoun, locative case, plural form	feminine	tad
+1750	5075	avidya	avidyā	अविद्या	avijjā	無明	ignorant / unlearned / unwise	masculine, feminine, and neuter form	adjective	avidyā
+1751	5075	avidya	avidyā	अविद्या	avijjā	無明	illusion / ignorance together with non-existence	In Buddhism	feminine	avidyā
+1752	2566	iva	iva	इव	\N	如、若	as it were / as if	For example, as if on a path	indecl	iva
+1753	2566	iva	iva	इव	\N	如、若	in a certain manner / in some measure / a little / perhaps	In qualification or mitigation of a strong assertion	indecl	iva
+1754	2566	iva	iva	इव	\N	如、若	nearly / almost / about	For example, almost an hour	indecl	iva
+1755	2566	iva	iva	इव	\N	如、若	so / just so / just / exactly / indeed / very	Especially after words which involve some restriction	indecl	iva
+1756	4818	katha	kathā	कथा	\N	故事	story / tale / fable	Stem form	feminine	kathā
+1757	4030	kanya	kanyā	कन्या	\N	女孩	a girl / a daughter	Stem form	feminine	kanyā
+1758	7147	kupita	kupitā	कुपिता	\N	嗔	provoked / incensed / offended / angry	Feminine form	adjective	kupita
+1759	4385	chaya	chāyā	छाया	\N	影	shade / a shadow / a shady place	Stem form	feminine	chāyā
+1760	10363	putrika	putrikā	पुत्रिका	\N	女兒	a daughter	Stem form	feminine	putrikā
+1761	4030	bala	bālā	बाला	\N	女孩	a female child / a girl / a young woman	Stem form	feminine	bālā
+1762	8791	praja	prajā	प्रजा	\N	孩	a child	Stem form	feminine	prajā
+1763	1021	praja	prajā	प्रजा	\N	民	people / subjects	Of a king	feminine	prajā
+1764	5084	bhita	bhītā	भीता	\N	恐	frightened / alarmed / terrified / timid / afraid of / imperilled by	Feminine form	adjective	bhīta
+1765	26381	mala	mālā	माला	\N	花繩	a garland	Stem form	feminine	mālā
+1766	5057	vidya	vidyā	विद्या	vijjā	識	knowledge / science / learning / scholarship / philosophy	Stem form	feminine	vidyā
+1767	35154	sitayah	sītāyāḥ	सीतायाः	\N	悉多	for Sita	Ablative and genitive case	feminine	sita
+1768	7135	anusamsa	anuśaṃsa	अनुशंस	anisaṃsa	功德、福德、福	merit / blessing / reward / benefit	Stem form	masculine	anuśaṃsa
+1769	7135	guna	guṇa	गुण	guṇa	福德、福	a quality	\N	masculine	guṇa
+1770	3236	nrpam	nṛpaṃ	नृपं	\N	王	a king	Accusative case, singular form	masculine	nṛpa

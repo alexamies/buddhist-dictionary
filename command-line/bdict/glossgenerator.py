@@ -30,6 +30,13 @@ class GlossGenerator:
 
     def __init__(self, output_type=HTML_TYPE, wholetext=False):
         """Constructor for GlossGenerator class.
+
+        Args:
+          output_type: either 'html' (default) or 'pos_tagged' (tagged part of 
+                       speech)
+          wholetext: Whether to format the whole source text or only extract 
+                     the Chinese characters between the start and end tags
+                     (default)
         """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
@@ -64,6 +71,9 @@ class GlossGenerator:
         if 'translator' in corpus_entry:
             translator = corpus_entry['translator']
             markup += self._Paragraph('Translator: %s' % translator)
+        if 'plain_text' in corpus_entry:
+            plain_text = corpus_entry['plain_text']
+            markup += self._Paragraph('Source document: %s' % plain_text)
 
         reader = cjktextreader.CJKTextReader()
         text = None
@@ -203,7 +213,7 @@ class GlossGenerator:
         """
         if self.output_type == POS_TAGGED_TYPE:
             return ''
-        return '<br/><br/><p>Page last updated on %s.</p>\n' % date.isoformat(date.today())
+        return '<br/><p>Page last updated on %s.</p>\n' % date.isoformat(date.today())
 
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.

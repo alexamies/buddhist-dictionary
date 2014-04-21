@@ -20,5 +20,11 @@ body {
 }
 
 #wordImage {
-	float:	right;
+    float:  right;
+}
+
+div.text {
+    border: solid gray 1px;
+    background-color: #EEE;
+    padding: 10px;
 }

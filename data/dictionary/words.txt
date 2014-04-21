@@ -519,7 +519,7 @@
 519	她	\N	tā	she / her	pronoun	人称代词	Personal Pronoun	虚词	Function Words	\N	\N	\N	ta1.mp3	Singular second person feminine pronoun
 520	它	\N	tā	it	pronoun	人称代词	Personal Pronoun	虚词	Function Words	\N	\N	\N	ta1.mp3	Singular third person neuter pronoun
 521	他们	他們	tāmen	they	pronoun	人称代词	Personal Pronoun	虚词	Function Words	\N	\N	\N	ta1men.mp3	Used for a group of men or a group or men and women
-522	她们	她們	tāmen	she her	pronoun	人称代词	Personal Pronoun	虚词	Function Words	\N	\N	\N	ta1men.mp3	Used for a group of women
+522	她们	她們	tāmen	them	pronoun	人称代词	Personal Pronoun	虚词	Function Words	\N	\N	\N	ta1men.mp3	Used for a group of women
 523	它们	它們	tāmen	them	pronoun	人称代词	Personal Pronoun	虚词	Function Words	\N	\N	\N	ta1men.mp3	Used for things other than people, including animals and inanimate objects
 524	时	時	shí	time / a period of time	noun	\N	\N	时间	Time	\N	\N	\N	shi2.mp3	Synonym discussion: in this sense 时 is similar in meaning to 时间.
 525	明显	明顯	míngxiǎn	clear / distinct / obvious	adjective	\N	\N	特点	Characteristic	\N	\N	\N	ming2xian3.mp3	\N
@@ -9081,7 +9081,7 @@
 9081	餐厅	餐廳	cāntīng	dining-hall / restaurant	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	can1ting1.mp3	\N
 9082	游人	遊人	yóurén	a tourist	noun	\N	\N	旅游	Tourism	\N	\N	\N	you2ren2.mp3	\N
 9083	便利	\N	biànlì	convenient / easy	adjective	\N	\N	状况	Condition	\N	\N	\N	bian4li4.mp3	\N
-9084	寺院	\N	sìyuàn	cloister / temple / monastery	noun	\N	\N	宗教	Religion	\N	\N	yonghegong080207.jpg	si4yuan4.mp3	\N
+9084	寺院	\N	sìyuàn	monastery / temple / cloister	noun	\N	\N	佛教	Buddhism	\N	\N	yonghegong080207.jpg	si4yuan4.mp3	\N
 9085	农贸市场	農貿市場	nóng mào shìchǎng	farmer's market	noun	\N	\N	农业	Agriculture	\N	\N	\N	\N	\N
 9086	用品	\N	yòngpǐn	articles / products / goods	noun	\N	\N	商务	Commerce	\N	\N	\N	yong4pin3.mp3	\N
 9087	土	\N	tǔ	local	adjective	\N	\N	习俗	Customs	\N	\N	\N	tu3.mp3	\N
@@ -29478,7 +29478,7 @@
 29478	洪武南藏	\N	Hóng Wǔ Nán Zàng	Hong Wu Southern Tripitaka 	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Completed in 1399, a version of the Chinese Buddhist Canon
 29479	初刻南藏	\N	Chū Kè Nán Zàng	Hong Wu Southern Tripitaka 	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Completed in 1399, a version of the Chinese Buddhist Canon
 29480	开宝藏	開寶藏	Kāi Bǎo Zàng	Kai Bao Tripitaka 	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	First printed in 984, a version of the Chinese Buddhist Canon
-29481	修福	\N	xiū fú	to do good deeds / to accumulate merit for future wealth 	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+29481	修福	\N	xiū fú	to cultivate merit / to do good deeds / to accumulate merit for future wealth 	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 29482	九横	九橫	jiǔ héng	nine ways to die a violent death / nine causes to die a premature death 	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 29483	六波罗蜜	六波羅蜜	Liù Bōluómì	Six Paramitas / Six Perfections	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: satpāramitā; (1) Dāna or generosity 布施 (2) Sīla or proper conduct 持戒 (3) Kṣānti or tolerance 忍辱 (4) Vīrya or diligence 精進 (5) Dhyāna or concentration 禪定 (6) Prajñā or wisdom 智慧
 29484	六波罗蜜多	六波羅蜜多	Liù Bōluómìduō	Six Paramitas / Six Perfections	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: satpāramitā; (1) Dāna or generosity 布施 (2) Sīla or proper conduct 持戒 (3) Kṣānti or tolerance 忍辱 (4) Vīrya or diligence 精進 (5) Dhyāna or concentration 禪定 (6) Prajñā or wisdom 智慧
@@ -35181,3 +35181,4 @@
 35181	释经论部	釋經論部	shì jīng lùn bù	Sutra Commentary and Sasta Section	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the Taisho Tripitaka
 35182	扪	捫	mén	to lay hands on / to cover	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 35183	颠倒	顛倒	diāndǎo	to turn upside-down / to reverse / to invert	verb	\N	\N	位	Position	\N	\N	\N	\N	\N
+35184	融和	\N	rónghé	warm / agreeable	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
