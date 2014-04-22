@@ -151,8 +151,8 @@
 151	6289	jhatiti	jhaṭiti	झटिति	\N	馬上	at once	\N	noun	\N
 152	2704	badham	bāḍhaṃ	बाडं	\N	肯定	certainly	\N	adverb	\N
 153	3980	trnam	ṭṛṇaṃ	टृणं	\N	草	grass	\N	noun	\N
-154	1387	mati	mati	मति	\N	思想	thought	\N	noun	\N
-155	5052	rupa	rūpa	रूप	\N	色	form	\N	noun	\N
+154	1387	mati	mati	मति	\N	思想	thought	\N	noun	rūpa
+155	5052	rupa	rūpa	रूप	\N	色	form	Stem form	neuter	\N
 156	9698	virah	vīraḥ	वीरः	\N	英雄、雄	hero	Nominative case, singular form	masculine	vīra
 157	2650	iha	iha	इह	\N	這裡	here	\N	pronoun	\N
 158	27452	laksmi	lakṣmī	लक्ष्मी	\N	功德天、寶藏天女、吉祥天女	Lakshmi	\N	proper_noun	\N
@@ -422,7 +422,7 @@
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
 423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see / to look	\N	verb1	\N
 424	3837	ni	nī	नी	\N	導	to lead / to take	\N	verb1	\N
-425	3837	nayati	nayati	नयति	\N	導	to lead / to take	\N	verb1_3rd	nī
+425	3837	nayati	nayati	नयति	\N	導	he takes / he  carries / he leads	Third person, singular form	verb1_3rd	√nī
 426	4794	bhram	bhram	भ्रम्	\N	流浪	to wander / to be confused	\N	verb1	\N
 427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders / he is confused	\N	verb1_3rd	bhram
 428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say / to speak	\N	verb1	\N
@@ -438,7 +438,7 @@
 438	15293	mad	mad	मद्	\N	開心	to rejoice	Root form	verb4	√mad
 439	15293	madyati	mādyati	माद्यति	\N	開心	he rejoices	\N	verb4_3rd	√mad
 440	335	is	iṣ	इष्	\N	要、想、想要	to want / to wish	\N	verb6	√iṣ
-441	335	icchati	icchati	इच्छति	\N	要、想、想要	she wants / she wishes	Third person, singular form	verb6_3rd	√iṣ
+441	335	icchati	icchati	इच्छति	\N	要、想、想要	he wants / he wishes	Third person, singular form	verb6_3rd	√iṣ
 442	28564	trividya	trividyā	त्रिविद्या	tivijjā	三明	the Three Insights	(1) impermanence, (2) suffering, and (3) non-self	phrase	\N
 443	28568	kailasa	kailāsa	कैलास	\N	岡仁波齊峰	Mount Kailash	\N	proper_noun	\N
 444	2788	kelasa	kēlāsa	केलास	\N	晶、液晶、結晶、頗梨	crystal	\N	noun	\N
@@ -1768,3 +1768,28 @@
 1768	7135	anusamsa	anuśaṃsa	अनुशंस	anisaṃsa	功德、福德、福	merit / blessing / reward / benefit	Stem form	masculine	anuśaṃsa
 1769	7135	guna	guṇa	गुण	guṇa	福德、福	a quality	\N	masculine	guṇa
 1770	3236	nrpam	nṛpaṃ	नृपं	\N	王	a king	Accusative case, singular form	masculine	nṛpa
+1771	321	mam	māṃ	मां	\N	我	me	Accusative case, first person, singular personal pronoun mām modified for sandhi	pronoun	mad
+1772	3643	tata	taṭa	तट	\N	岸	river bank / shore / a slope	Stem form	masculine	taṭa
+1773	3643	tatah	taṭaḥ	तटः	\N	岸	river bank / shore / a slope	Nominative case, singular form	masculine	taṭa
+1774	2566	tathata	tathātā	तथाता	\N	如	suchness / reality	Stem form	feminine	tathātā
+1775	22063	paribhutata	paribhūtata	परिभूतता	\N	輕賤	humiliation / degradation	Stem form	feminine	paribhūtata
+1776	22063	paribhutataya	paribhūtatayā	परिभूततया	\N	輕賤	humiliation / degradation	Instrumental case, singular form	feminine	paribhūtata
+1777	2130	pratidinam	pratidinam	प्रतिदिनम्	\N	日常	day by day / daily / every day	\N	indecl	pratidinam
+1778	6162	pakva	pakva	पक्व	\N	熟	ripe / mature	Masculine and neuter form, feminine form ends in ā	adjective	pakva
+1779	2679	niksipati	nikṣipati	निक्षिपति	\N	投	to throw down	\N	verb	nikṣipati
+1780	16032	khaditum	khāditum	खादितुम्	\N	食	to eat	Infinitive form	verb	√khād
+1781	370	agaccha	āgaccha	आगच्छ	\N	來	you come	Second person, singular imperative form	verb1_2nd	ā + √gam
+1782	1849	hrdaya	hṛdaya	हृदय	\N	心	heart / mind / soul	Stem form	neuter	hṛdaya
+1783	1849	hrdayam	hṛdayam	हृदयम्	\N	心	heart / mind / soul	Accusative case, singular form	neuter	hṛdaya
+1784	4752	mista	miṣṭa	मिष्ट	\N	甜	sweet / dainty / delicate	Masculine and neuter form, feminine form ends in ā	adjective	miṣṭa
+1785	4752	astu	astu	अस्तु	\N	如	let it be / be it so	\N	verb	√as
+1786	3424	prsta	pṛṣṭa	पृष्ट	\N	背	back	Stem form	neuter	pṛṣṭa
+1787	3424	prstam	pṛṣṭam	पृष्टम्	\N	背	back	Accusative case, singular form	neuter	pṛṣṭa
+1788	909	vahati	vahati	वहति	\N	負	he carries	Third person, singular form	verb	vahati
+1789	332	madhya	madhya	मध्य	\N	中	middle	Stem form	neuter	madhya
+1790	332	madhyam	madhyam	मध्यम्	\N	中	middle	Accusative case, singular form	neuter	madhya
+1791	2647	vrksa	vṛkṣa	मध्य	\N	樹	a tree	Stem form	masculine	vṛkṣa
+1792	2647	vrksah	vṛkṣaḥ	वृक्षः	\N	樹	a tree	Nominative case, singular form	masculine	vṛkṣa
+1793	3837	naya	naya	नय	\N	導	you take / you  carry / you lead	Second person, imperative form	verb1_2nd	√nī
+1794	877	ucchalati	ucchalati	उच्चलति	\N	躍	he jumps up	Third person, singular form	verb	√uccal
+1795	877	uccal	uccal	उच्चल्	\N	躍	to spring or jump up	Root form	verb	√uccal
