@@ -527,8 +527,8 @@
 527	521	tau	tau	तौ	\N	他們	them	Third person pronoun, nominative and accusative case, dual form	masculine	tad
 528	521	tan	tān	तान्	\N	他們	them	Third person pronoun, accusative case, plural form	masculine	tad
 529	523	tani	tāni	तानि	\N	它們	those	Third person pronoun, nominative and accusative case, dual form	neuter	tad
-530	3794	kah	kaḥ	कः	\N	谁	who	Integative masculine pronoun	pronoun	\N
-531	2303	kim	kim	किम्	\N	哪	what	Integative neuter pronoun	pronoun	\N
+530	3794	kah	kaḥ	कः	\N	谁	who	Integative pronoun, nominative form	masculine	ka
+531	2303	kim	kim	किम्	\N	哪	what	Integative pronoun	neuter	ka
 532	28890	acarya	ācārya	आचार्य	acariya	阿闍黎、阿闍棃、阿舍棃、阿闍梨、阿祇利、阿遮利耶	a teacher / a Buddhist teacher	Stem form	masculine	ācārya
 533	28898	samudaya	samudaya	समुदय	samudaya	集	the origin of suffering	The second of the Four Noble Truths	noun	\N
 534	28899	nirodha	nirodha	निरोध	nirodha	滅	the cessation of suffering	The third of the Four Noble Truths	noun	\N
@@ -989,7 +989,7 @@
 989	3729	valuka	vālukā	वालुका	\N	沙	sand	Stem form	feminine	vālukā
 990	2978	mahanada	mahānada	महानद	\N	河	a great river / a stream	\N	masculine	\N
 991	401	tavat	tāvat	तावत्	\N	多	so many	\N	adjective	\N
-992	2978	nada	nada	नद	\N	河	a river / a stream	\N	masculine	nada
+992	2978	nada	nada	नद	\N	河	a river / a stream	Stem form	masculine	nada
 993	3597	caksu	cakṣu	चक्षु	\N	眼	an eye	Stem form	masculine	cakṣu
 994	3374	caitya	caitya	चैत्य	\N	塔	a stupa / a shrine	Stem form	masculine	caitya
 995	363	lokadhatu	lokadhātu	लोकधातु	\N	世界	a world / a region of the world	Stem form	masculine	lokadhātu
@@ -997,7 +997,7 @@
 997	6690	bhavati	bhavati	भवती	\N	汝	you	A respectful term of address with feminine gender	pronoun	\N
 998	32460	desita	deśita	देशित	\N	說	instructed / directed / shown	Stem form	adjective	deśita
 999	32461	nasti	nāsti	नास्ति	\N	無有	non existence	\N	masculine	\N
-1000	7182	sama	sama	सम	\N	平等	equal / same	Stem form	adjective	sama
+1000	7182	sama	sama	सम	\N	平等、等	equal / same	Stem form	adjective	sama
 1001	32462	nirjiva	nirjīva	निर्जीव	\N	無壽	no life / dead	\N	adjective	\N
 1002	3164	niratma	nirātma	निरात्म	\N	無我	selflessness / non-self	\N	adjective	\N
 1003	7183	visama	viṣama	विषम	\N	高下	better or worse / stronger or weaker	\N	adjective	\N
@@ -1480,7 +1480,7 @@
 1480	4557	sastresu	śāstreṣu	शास्त्रेषु	\N	論	in the treatises / in the theories	Locative case, plural form	neuter	śāstra
 1481	6888	suktannam	sūktānām	सूक्तानाम्	\N	偈	hymns	Genitive case, plural form	neuter	sūkta
 1482	3223	balaya	bālāya	बालाय	\N	子	child / boy	Dative case, singular form	masculine	bāla
-1483	3728	gangayam	gaṅgāyām	गङ्गा	\N	恆河	in the Ganges	Locative case, singular form	feminine	gaṅgā
+1483	3728	gangayam	gaṅgāyām	गङ्गायाम्	\N	恆河	in the Ganges	Locative case, singular form	feminine	gaṅgā
 1484	35149	kumbhira	kumbhīra	कुम्भीर	\N	鱷、鱷魚	crocodile	Stem form	masculine	kumbhīra
 1485	35149	kumbhirah	kumbhīraḥ	कुम्भीरः	\N	鱷、鱷魚	crocodile	Nominative case, singular form	masculine	kumbhīra
 1486	2620	vanara	vānara	वानर	\N	猴、猻	monkey	Stem form	masculine	vānara
@@ -1793,3 +1793,20 @@
 1793	3837	naya	naya	नय	\N	導	you take / you  carry / you lead	Second person, imperative form	verb1_2nd	√nī
 1794	877	ucchalati	ucchalati	उच्चलति	\N	躍	he jumps up	Third person, singular form	verb	√uccal
 1795	877	uccal	uccal	उच्चल्	\N	躍	to spring or jump up	Root form	verb	√uccal
+1796	3273	bila	bila	बिल	\N	洞	a hole / a cave / a pit / an opening / an aperture	Stem form	neuter	bila
+1797	3273	bilam	bilam	बिलम्	\N	洞	a hole / a cave / a pit / an opening / an aperture	Accusative case, singular form	neuter	bila
+1798	3794	ka	ka	क	\N	谁	who	Integative pronoun, stem form	masculine	ka
+1799	1801	paurva	paurva	पौर्व	\N	東	eastern	Stem form, masculine and neuter form, feminine form ends in ī	adjective	paurva
+1800	1801	sma	sma	स्म	\N	東	was / ever / always	a particle perhaps originally equivalent to ever or always, makes the verb before it into the past tense	indecl	sma
+1801	8680	arita	ārita	आरित	\N	讚	praised	Stem form, masculine and neuter	adjective	ārita
+1802	3728	ganganadyo	gaṅgānadyo	गङ्गानद्यो	\N	恆河	in the Ganges River	Locative case, singular form	masculine	gaṅgānada
+1803	3728	gangayam	gaṅgāyāṃ	गङ्गायां	\N	恆河	in the Ganges	Locative case, singular form gaṅgāyām modified for sandhi	feminine	gaṅgā
+1804	3728	saman	sāman	सामन्	\N	恆河	abundance / acquisition / possession / property / wealth	Stem form	neuter	sāman
+1805	3777	mitram	mitraṃ	मित्रं	\N	友	friend	Nominative and accusative case, singular form mitram modified for sandhi	neuter	mitra
+1806	2309	samkhya	saṃkhyā	संख्या	\N	數字	a numeral	Stem form	feminine	saṃkhyā
+1807	32888	turiya	turīya	तुरीय	\N	四者、三者	fourth	\N	adjective	turīya
+1808	28811	sastha	ṣaṣṭha	षष्ठ	\N	第六	sixth	\N	adjective	ṣaṣṭha
+1809	28843	saptama	saptama	सप्तम	\N	第七	seventh	\N	adjective	saptama
+1810	28846	astama	aṣṭama	अष्टम	\N	第八	eighth	\N	adjective	aṣṭama
+1811	28847	navama	navama	नवम	\N	第九	ninth	\N	adjective	navama
+1812	28853	dasama	daśama	दशम	\N	第十	tenth	\N	adjective	daśama
