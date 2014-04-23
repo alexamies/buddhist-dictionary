@@ -317,7 +317,7 @@
 317	25714	indra	indra	इन्द्र	\N	因陀羅、帝釋天、帝釋	Indra	Also called śakra	proper_noun	\N
 318	25714	sakra	śakra	शक्र	\N	因陀羅、帝釋天、帝釋	Sakra / Shakra	Also called indra	proper_noun	\N
 319	20553	brahma	brahmā	ब्रह्मा	\N	梵天、梵王	Brahma	\N	proper_noun	\N
-320	28393	agni	agni	अग्नि	\N	阿耆尼	Agni	Hindu god of fire	proper_noun	\N
+320	2132	agni	agni	अग्नि	\N	火	fire	Stem form	masculine	agni
 321	28394	soma	soma	सोम	\N	蘇摩	soma	A ritual drink	noun	\N
 322	28395	varuna	varuṇa	वरुण	\N	伐樓拿	Varuna	Hindu god of the sky, water, and the celestial ocean	proper_noun	\N
 323	28396	aditya	āditya	आदित्य	\N	阿底提耶	Adityas	Solar class dieties	proper_noun	\N
@@ -807,7 +807,7 @@
 807	5313	samdeha	saṃdeha	संदेह	\N	疑、危	uncertainty / doubt / risk / danger / ambuguity	\N	masculine	\N
 808	848	dura	dūra	दूर	\N	遠	distant / far / remote / long	\N	adjective	\N
 809	13000	parisranta	pariśrānta	परिश्रान्त	\N	倦、辛、累	tired / weary / fatigued / exhausted	\N	adjective	\N
-810	2939	prathama	prathama	प्रथम	\N	初、先	first / previous / initial / primary	\N	adjective	\N
+810	2939	prathama	prathama	प्रथम	\N	初、先	first / previous / initial / primary	\N	adjective	prathama
 811	4054	tyaj	tyaj	त्यज्	\N	捨、棄	abandoning / giving up / leaving	\N	adjective	tyaj
 812	4054	tyajati	tyajati	त्यजति	\N	捨、棄	to abandon / to give up / to leave	\N	verb1	tyaj
 813	541	vadhu	vadhū	वधू	\N	女人	a woman	Singular root form	feminine	vadhū
@@ -1123,10 +1123,10 @@
 1123	28232	talavya	tālavya	तालव्य	\N	硬顎	palatal	\N	adjective	\N
 1124	584	murdhanya	mūrdhanya	मूर्धन्य	\N	上	top / uppermost / highest	\N	adjective	\N
 1125	28228	dantya	dantya	दन्त्य	\N	齒音	dental	\N	adjective	\N
-1126	28480	trtiya	tṛtīya	तृतीय	\N	第三、三者	third	\N	adjective	\N
-1127	32888	caturtha	caturtha	चतुर्थ	\N	四者、三者	fourth	\N	adjective	\N
-1128	395	dvitiya	dvitīya	द्वितीय	\N	第二、二者	second	\N	adjective	\N
-1129	28810	pancama	pañcama	पञ्चम	\N	第五	fifth	\N	adjective	\N
+1126	28480	trtiya	tṛtīya	तृतीय	\N	第三、三者	third	Masculine form of the ordinal number	ordinal	tṛtīya
+1127	32888	caturtha	caturtha	चतुर्थ	\N	四者、三者	fourth	Masculine form of the ordinal number	ordinal	caturtha
+1128	395	dvitiya	dvitīya	द्वितीय	\N	第二、二者	second	Masculine form of the ordinal number	ordinal	dvitīya
+1129	28810	pancama	pañcama	पञ्चम	\N	第五	fifth	Masculine form of the ordinal number	ordinal	pañcama
 1130	762	alpa	alpa	अल्प	\N	小	small / little	\N	adjective	\N
 1131	28300	ghosavat	ghoṣavat	घोषवत्	\N	濁音	voiced / sonant	\N	adjective	\N
 1132	28303	aghosa	aghoṣa	अघोष	\N	清音	unvoiced	\N	adjective	\N
@@ -1225,7 +1225,7 @@
 1225	28530	upagraha	upagraha	उपग्रह	\N	語態	grammatical voice	\N	masculine	\N
 1226	29052	parasmaipada	parasmaipada	परस्मैपद	\N	主動語態	active voice	\N	masculine	\N
 1227	35021	atmanepada	ātmanepada	आत्मनेपद	\N	中間語態	middle voice	Between active and passive voice	masculine	\N
-1228	35025	prathama	prathama	प्रथम	\N	第三人稱	third person	\N	noun	\N
+1228	35025	prathama	prathama	प्रथम	\N	第三人稱	third person	\N	masculine	prathama
 1229	35024	madhyama	madhyama	मध्यम	majjhimā	第二人稱	second person	\N	noun	\N
 1230	35023	uttama	uttama	उत्तम	\N	第一人稱	first person	\N	noun	\N
 1231	9334	eka	eka	एक	\N	單數	singular	In grammar	adjective	\N
@@ -1288,8 +1288,8 @@
 1288	7979	tisthamah	tiṣṭhāmaḥ	तिष्ठामः	\N	站、停止、停、停住	we stand / we halt	First person plural	verb1_3rd	√sthā
 1289	29703	pancami	pañcamī	पञ्चमी	\N	離格	ablative case	A grammatical case for Sanskrit nouns that marks them as a source or origin. The Sanskrit term indicates that it is the fifth grammatical case.	feminine	\N
 1290	28457	sasthi	ṣaṣṭhi	षष्ठि	\N	屬格	genitive / possessive case	A grammatical case for Sanskrit nouns that marks possession	feminine	\N
-1291	28105	prathama	prathamā	प्रथमा	\N	主格	nominative case	A grammatical case for Sanskrit nouns that marks the subject of a verb	masculine	\N
-1292	28443	dvitiya	dvitīyā	द्वितीया	\N	對格	accusative case	A grammatical case for Sanskrit nouns that marks the direct object of a verb	masculine	\N
+1291	28105	prathama	prathamā	प्रथमा	\N	主格	nominative case	A grammatical case for Sanskrit nouns that marks the subject of a verb	masculine	prathamā
+1292	28443	dvitiya	dvitīyā	द्वितीया	\N	對格	accusative case	A grammatical case for Sanskrit nouns that marks the direct object of a verb	masculine	dvitīyā
 1293	28531	vibhakti	vibhakti	विभक्ति	\N	格	grammatical case	Used to classify nouns for function in sentences	masculine	\N
 1294	29702	trtiya	tṛtīyā	तृतीया	\N	工具格	instrumental case	The form of a noun or related word to indicate that it is the agent of an action.  The Sanskrit term indicates that it is the third grammatical case.	masculine	\N
 1295	28449	caturthi	caturthī	चतुर्थी	\N	與格	dative case	The form of a noun that indicates the object to which something is given.  The Sanskrit term indicates that it is the fourth grammatical case.	feminine	\N
@@ -1804,9 +1804,38 @@
 1804	3728	saman	sāman	सामन्	\N	恆河	abundance / acquisition / possession / property / wealth	Stem form	neuter	sāman
 1805	3777	mitram	mitraṃ	मित्रं	\N	友	friend	Nominative and accusative case, singular form mitram modified for sandhi	neuter	mitra
 1806	2309	samkhya	saṃkhyā	संख्या	\N	數字	a numeral	Stem form	feminine	saṃkhyā
-1807	32888	turiya	turīya	तुरीय	\N	四者、三者	fourth	\N	adjective	turīya
-1808	28811	sastha	ṣaṣṭha	षष्ठ	\N	第六	sixth	\N	adjective	ṣaṣṭha
-1809	28843	saptama	saptama	सप्तम	\N	第七	seventh	\N	adjective	saptama
-1810	28846	astama	aṣṭama	अष्टम	\N	第八	eighth	\N	adjective	aṣṭama
-1811	28847	navama	navama	नवम	\N	第九	ninth	\N	adjective	navama
-1812	28853	dasama	daśama	दशम	\N	第十	tenth	\N	adjective	daśama
+1807	32888	turiya	turīya	तुरीय	\N	四者、三者	fourth	Masculine form of the ordinal number	ordinal	turīya
+1808	28811	sastha	ṣaṣṭha	षष्ठ	\N	第六	sixth	Masculine form of the ordinal number	ordinal	ṣaṣṭha
+1809	28843	saptama	saptama	सप्तम	\N	第七	seventh	Masculine form of the ordinal number	ordinal	saptama
+1810	28846	astama	aṣṭama	अष्टम	\N	第八	eighth	Masculine form of the ordinal number	ordinal	aṣṭama
+1811	28847	navama	navama	नवम	\N	第九	ninth	Masculine form of the ordinal number	ordinal	navama
+1812	28853	dasama	daśama	दशम	\N	第十	tenth	Masculine form of the ordinal number	ordinal	daśama
+1813	394	prathama	prathamā	प्रथमा	\N	第一	second	Feminine form of the an ordinal number	adjective	prathamā
+1814	395	dvitiya	dvitīyā	द्वितीया	\N	第二、二者	second	Feminine form of the ordinal number	ordinal	dvitīyā
+1815	28480	trtiya	tṛtīyā	तृतीया	\N	第三、三者	third	Feminine form of the ordinal number	ordinal	tṛtīyā
+1816	32888	caturthi	caturthī	चतुर्थी	\N	四者、三者	fourth	Feminine form of the ordinal number	ordinal	caturthī
+1817	28810	pancami	pañcamī	पञ्चमी	\N	第五	fifth	Feminine form of the ordinal number	ordinal	pañcamī
+1818	28811	sasthi	ṣaṣṭhī	षष्ठी	\N	第六	sixth	Feminine form of the ordinal number	ordinal	ṣaṣṭhī
+1819	28843	saptami	saptamī	सप्तमी	\N	第七	seventh	Feminine form of the ordinal number	ordinal	saptamī
+1820	28846	astami	aṣṭamī	अष्टमी	\N	第八	eighth	Feminine form of the ordinal number	ordinal	aṣṭamī
+1821	32888	turiyi	turīyī	तुरीयी	\N	四者、三者	fourth	Feminine form of the ordinal number	ordinal	turīyī
+1822	28847	navami	navamī	नवमी	\N	第九	ninth	Feminine form of the ordinal number	ordinal	navamī
+1823	28853	dasami	daśamī	दशमी	\N	第十	tenth	Feminine form of the ordinal number	ordinal	daśamī
+1824	28393	agni	agni	अग्नि	\N	阿耆尼	Agni	Hindu god of fire	masculine	agni
+1825	2132	agnih	agniḥ	अग्निः	\N	火	fire	Nominative case, singular form	masculine	agni
+1826	2132	agni	agnī	अग्नी	\N	火	fire	Nominative, accusative, and vocative case, dual form	masculine	agni
+1827	2132	agnayah	agnayaḥ	अग्नयः	\N	火	fire	Nominative case, plural form	masculine	agni
+1828	2132	agnim	agnim	अग्निम्	\N	火	fire	Accusative case, singular form	masculine	agni
+1829	2132	agnin	agnīn	अग्नीन्	\N	火	fire	Accusative case, plural form	masculine	agni
+1830	2132	agnina	agninā	अग्निना	\N	火	fire	Instrumental case, singular form	masculine	agni
+1831	2132	agnibhyam	agnibhyām	अग्निभ्याम्	\N	火	fire	Instrumental, dative, and ablative case, dual form	masculine	agni
+1832	2132	agnibhih	agnibhiḥ	अग्निभिः	\N	火	fire	Instrumental, plural form	masculine	agni
+1833	2132	agnaye	agnaye	अग्नये	\N	火	fire	Dative case, singular form	masculine	agni
+1834	2132	agnabhyah	agnabhyaḥ	अग्नभ्यः	\N	火	fire	Dative and ablative case, singular form	masculine	agni
+1835	2132	agneh	agneḥ	अग्नेः	\N	火	fire	Dative and genitive case, singular form	masculine	agni
+1836	2132	agnyoh	agnyoḥ	अग्न्योः	\N	火	fire	Genitive and locative case, dual form	masculine	agni
+1837	2132	agninam	agnīnām	अग्नीनाम्	\N	火	fire	Genitive case, plural form	masculine	agni
+1838	2132	agnau	agnau	अग्नौ	\N	火	fire	Locative case, singular form	masculine	agni
+1839	2132	agnisu	agniṣu	अग्निषु	\N	火	fire	Locative case, plural form	masculine	agni
+1840	2132	agne	agne	अग्ने	\N	火	fire	Vocative case, singular form	masculine	agni
+1841	2132	agnayah	agnayaḥ	अग्नयः	\N	火	fire	Vocative case, plural form	masculine	agni
