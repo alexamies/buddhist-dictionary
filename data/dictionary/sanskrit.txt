@@ -225,7 +225,7 @@
 225	9597	chatraratna	chatraratna	छत्ररत्न	\N	伞	a parasol	\N	noun	\N
 226	18466	svastika	svastika	स्वस्तिक	\N	卐、卐字、卍、卍字	a swastika	\N	noun	\N
 227	26019	dhvaja	dhvaja	ध्वज	\N	經幢	dhvaja	\N	noun	\N
-228	27415	anagami	anāgāmi	अनागामि	\N	阿那含	Anagami / a non-returner	Literally, non-returning	noun	\N
+228	27415	anagamin	anāgāmin	अनागामिन्	anāgāmin	阿那含	a non-returner	Literally, non-returning	noun	anāgāmin
 229	3951	karuna	karuṇā	करुणा	karuṇā	慈悲	non-harm / compassion	\N	feminine	\N
 230	3951	maitri	maitrī	मैत्री	mettā	慈悲	loving kindness	\N	feminine	\N
 231	28121	upadana	upādāna	उपादान	upādāna	取	attachment / clinging	\N	noun	\N
@@ -499,7 +499,7 @@
 499	1258	vasatha	vasatha	वसथ	\N	房子、房	house	\N	noun	\N
 500	537	pasyami	paśyāmi	पश्यामि	\N	看、見	I see	First person, singular form	verb1_1st	√paś
 501	21143	bhramat	bhramat	भ्रमत्	\N	游方、流浪	to wander about	\N	verb	\N
-502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	\N	noun	samyaksambodhi
+502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Stem form	feminine	samyaksambodhi
 503	28788	vidyacaranasampanna	vidyācaraṇasampanna	विद्याचरणसम्पन्न	\N	明行圓滿	Activity of Full Brightness	One of the epithets of a Buddha	proper_noun	\N
 504	28789	sugata	sugata	सुगत	\N	善逝	Immaculately Departed One / Well-Gone	One of the epithets of a Buddha	proper_noun	\N
 505	28790	lokavid	lokavid	लोकविद्	\N	世間解	knowing the world	One of the epithets of a Buddha	proper_noun	\N
@@ -1190,7 +1190,7 @@
 1190	21819	utpadayitavyam	utpādayitavyam	उत्पादयितव्यम्	\N	降伏	to subdue / to vanquish / to tame	\N	verb	\N
 1191	32458	prabhavita	prabhāvitā	प्रभाविता	\N	有	to have / to possess	\N	verb	\N
 1192	32921	kala	kāla	काल	kāla	迦羅、柯邏	an ancient Indian unit of time	A unit of time approximately 1600 kṣaṇa or 48 seconds.	masculine	\N
-1193	32923	samaya	samaya	समय	\N	三摩耶	time	\N	masculine	\N
+1193	31047	samaya	samaya	समय	\N	時、三摩耶	time	Stem form	masculine	samaya
 1194	2517	samgata	saṃgata	संगत	\N	集	coming together	\N	adjective	\N
 1195	32925	mahasamghata	mahāsaṃghāta	महासंघात	\N	大集經	mahasamghata	Name of a Sutra	proper_noun	\N
 1196	33014	puṣya	puṣya	पुष्य	\N	弗星、沸星、佛星	Pusya	A star that appeared when the Buddha was born	proper_noun	\N
@@ -1499,8 +1499,8 @@
 1499	9698	vira	vīrā	वीरा	\N	英雄、雄	heros	Nominative case, plural form vīrāḥ modified for sandhi	masculine	vīra
 1500	28111	ramas	rāmaś	रामश्	\N	羅摩	Rama	Nominative case, singular form rāmaḥ modified for sandhi	masculine	rāma
 1501	28111	ramas	rāmas	रामस्	\N	羅摩	Rama	Nominative case, singular form rāmaḥ modified for sandhi	masculine	rāma
-1502	1490	sarva	sarva	सर्व	\N	一切	each / every / all	Stem form	masculine	sarva
-1503	1490	sarve	sarve	सर्वे	\N	一切	each / every / all	Locative case	masculine	sarva
+1502	1490	sarva	sarva	सर्व	\N	一切	each / every / all	Stem form	adjective	sarva
+1503	1490	sarve	sarve	सर्वे	\N	一切	each / every / all	Locative case	adjective	sarva
 1504	299	kale	kāle	काले	\N	時間	time	Locative case, singular form	masculine	kāla
 1505	32460	desito	deśito	देशितो	\N	說	instructed / directed / shown	Nominal case deśitaḥ modified for sandhi	adjective	deśita
 1506	401	bahuh	bahuḥ	बहु	\N	多	many	Nominative case	adjective	bahu
@@ -1839,3 +1839,48 @@
 1839	2132	agnisu	agniṣu	अग्निषु	\N	火	fire	Locative case, plural form	masculine	agni
 1840	2132	agne	agne	अग्ने	\N	火	fire	Vocative case, singular form	masculine	agni
 1841	2132	agnayah	agnayaḥ	अग्नयः	\N	火	fire	Vocative case, plural form	masculine	agni
+1842	1609	vari	vāri	वारि	\N	水	water / rain / fluid / fluidity	Stem form; nominative, accusative, and vocative case, singular form	neuter	vāri
+1843	1609	varini	vāriṇī	वारिणी	\N	水	water / rain / fluid / fluidity	Nominative, accusative, and vocative case, dual form	neuter	vāri
+1844	1609	varini	vāriṇi	वारिणि	\N	水	water / rain / fluid / fluidity	Nominative, accusative, and vocative case, plural form; Locative case, singular form	neuter	vāri
+1845	1609	varina	vāriṇā	वारिणा	\N	水	water / rain / fluid / fluidity	Instrumental case, singular form	neuter	vāri
+1846	1609	varibhyam	vāribhyām	वारिभ्याम्	\N	水	water / rain / fluid / fluidity	Instrumental, dative, and ablative case, dual form	neuter	vāri
+1847	1609	varibhis	vāribhis	वारिभिस्	\N	水	water / rain / fluid / fluidity	Instrumental case, plural form	neuter	vāri
+1848	1609	varine	vāriṇe	वारिणे	\N	水	water / rain / fluid / fluidity	Dative case, singular form	neuter	vāri
+1849	1609	varinas	vāriṇas	वारिणे	\N	水	water / rain / fluid / fluidity	Ablative and genitive case, singular form	neuter	vāri
+1850	1609	varibhyas	vāribhyas	वारिभ्यस्	\N	水	water / rain / fluid / fluidity	Dative and ablative case, plural form	neuter	vāri
+1851	1609	variṇos	vāriṇos	वारिणोस्	\N	水	water / rain / fluid / fluidity	Genitive and locative case, dual form	neuter	vāri
+1852	1609	varinam	vāriṇām	वारिणाम्	\N	水	water / rain / fluid / fluidity	Genitive case, plural form	neuter	vāri
+1853	1609	varisu	vāriṣu	वारिषु	\N	水	water / rain / fluid / fluidity	Genitive case, plural form	neuter	vāri
+1854	1609	vare	vāre	वारे	\N	水	water / rain / fluid / fluidity	Vocative case, singular form	neuter	vāri
+1855	7959	kirti	kīrti	वारे	\N	光榮	glory / fame	Stem form	feminine	kīrti
+1856	7959	kirtih	kīrtiḥ	कीर्तिः	\N	光榮	glory / fame	Nominative case, singular form	feminine	kīrti
+1857	7959	kirti	kīrtī	कीर्ती	\N	光榮	glory / fame	Nominative, accusative, and vocative case, dual form	feminine	kīrti
+1858	7959	kirtayah	kīrtayaḥ	कीर्तयः	\N	光榮	glory / fame	Nominative case, plural form	feminine	kīrti
+1859	7959	kirtim	kīrtim	कीर्तिम्	\N	光榮	glory / fame	Accusative case, singular form	feminine	kīrti
+1860	7959	kirtih	kīrtīḥ	कीर्तीः	\N	光榮	glory / fame	Accusative case, plural form	feminine	kīrti
+1861	7959	kirtya	kīrtyā	कीर्त्या	\N	光榮	glory / fame	Instrumental case, singular form	feminine	kīrti
+1862	7959	kirtibhyam	kīrtibhyām	कीर्तिभ्याम्	\N	光榮	glory / fame	Instrumental, dative, and ablative case, dual form	feminine	kīrti
+1863	7959	kirtibhih	kīrtibhiḥ	कीर्तिभिः	\N	光榮	glory / fame	Instrumental case, plural form	feminine	kīrti
+1864	7959	kirtyai	kīrtyai	कीर्त्यै	\N	光榮	glory / fame	Dative case, singular form	feminine	kīrti
+1865	7959	kirtibhyah	kīrtibhyaḥ	कीर्त्यै	\N	光榮	glory / fame	Dative and ablative case, plural form	feminine	kīrti
+1866	7959	kirtyah	kīrtyāḥ	कीर्त्याः	\N	光榮	glory / fame	Ablative and genitive case, singular form	feminine	kīrti
+1867	7959	kirtyoh	kīrtyoḥ	कीर्त्योः	\N	光榮	glory / fame	Genitive and locative case, dual form	feminine	kīrti
+1868	7959	kirtinam	kīrtīnām	कीर्तीनाम्	\N	光榮	glory / fame	Genitive case, plural form	feminine	kīrti
+1869	7959	kirtyam	kīrtyām	कीर्त्याम्	\N	光榮	glory / fame	Locative case, singular form	feminine	kīrti
+1870	7959	kirtisu	kīrtiṣu	कीर्तिषु	\N	光榮	glory / fame	Locative case, plural form	feminine	kīrti
+1871	7959	kirte	kīrte	कीर्ते	\N	光榮	glory / fame	Vocative case, singular form	feminine	kīrti
+1872	7959	kirtayah	kīrtayaḥ	कीर्तयः	\N	光榮	glory / fame	Vocative case, plural form	feminine	kīrti
+1873	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyaksambodhi
+1874	8307	adrsti	adṛṣṭi	अदृष्टि	\N	不見	blind / not seen	Stem form	adjective	adṛṣṭi
+1875	8307	adrstih	adṛṣṭiḥ	अदृष्टि	\N	不見	blind / not seen	Nominative case, singular form	adjective	adṛṣṭi
+1876	1490	sarva	sarva	सर्व	\N	一切	each / every / all	Instrumental case, plural form	adjective	sarva
+1877	21017	dharmaparyayah	dharmaparyāyaḥ	धर्मपर्यायः	\N	法門	Dharmaparyaya / a Dharma door / a Buddhist teaching	Nominative case	compound	dharmaparyāya
+1878	5513	masi	maṣi	मषि	\N	粉	powder / ink	Stem form	noun	maṣi
+1879	5513	masim	maṣiṃ	मषिं	\N	粉	powder / ink	Accusative case, singular form maṣim with ending modified for sandhi	noun	maṣi
+1880	681	pratimukha	pratimukha	प्रतिमुख	\N	前	towards / in front / before	Masculine and neuter form, feminine ends i	adjective	pratimukha
+1881	681	pratimukhi	pratimukhi	प्रतिमुखि	\N	前	towards / in front / before	Feminine form	adjective	pratimukha
+1882	681	pratimukhim	pratimukhīṃ	प्रतिमुखीं	\N	前	towards / in front / before	Feminine, Accusative case, plural form pratimukhīm with ending modified for sandhi	adjective	pratimukha
+1883	681	rasi	rāśi	राशि	\N	前	a heap / mass / pile / group / multitude / quantity / number	Stem form	masculine	rāśi
+1884	681	rasin	rāśīn	राशीन्	\N	前	a heap / mass / pile / group / multitude / quantity / number	Accusative case, plural form	masculine	rāśi
+1885	31047	samaye	samaye	समये	\N	時、三摩耶	time	Locative case, singular form	masculine	samaya
+1886	5945	sāya	sāya	साय	\N	晚、後日	 the close of day / evening	Stem form	masculine	sāya

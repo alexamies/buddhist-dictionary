@@ -25,6 +25,12 @@ body {
 
 div.text {
     border: solid gray 1px;
+    background-color: #DFD;
+    padding: 10px;
+}
+
+div.commentary {
+    border: solid gray 1px;
     background-color: #EEE;
     padding: 10px;
 }
