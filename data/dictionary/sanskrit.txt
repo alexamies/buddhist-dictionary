@@ -31,7 +31,7 @@
 31	18498	samsara	saṃsāra	संसार	\N	輪迴、生死、輪回	Samsara	The endless cycle of life and death. The term is used in Buddhism, Hinduism, and Jain. (Mittal and Thursby 2006, p20)	proper_noun	\N
 32	25816	mudra	mudrā	मुद्रा	\N	手印	mudra	\N	noun	\N
 33	4057	nirvana	nirvāṇa	निर्वाण	nibbāna	涅盘、涅槃	Nirvana	\N	proper_noun	\N
-34	29371	karma	karma	कर्म	kamma	業、業力	karma	\N	noun	\N
+34	29371	karma	karma	कर्म	kamma	業、業力	karma	Stem form	neuter	karma
 35	27960	upanisad	upaniṣad	उपनिषद्	\N	奧義書	Upanishads	\N	proper_noun	\N
 36	27967	rgveda	ṛgveda	ऋग्वेद	\N	梨俱吠陀	Rigveda	\N	proper_noun	\N
 37	27969	samaveda	sāmaveda	सामवेदः	\N	娑摩吠陀	Samaveda	\N	proper_noun	\N
@@ -611,22 +611,22 @@
 611	18594	upta	upta	उप्त	\N	稼、播	sown	Past particle of the stem vap	adjective	\N
 612	2451	hata	hata	हत	\N	殺	killed	Past particle of the stem han	adjective	han
 613	2451	han	han	हन्	\N	殺	killing / killer	Stem form	adjective	\N
-614	7979	sthita	sthita	स्थित	\N	站	standing	Past particle of the stem stha	adjective	stha
-615	7979	stha	sthā	स्था	\N	站	stand	Stem form	adjective	stha
+614	7979	sthita	sthita	स्थित	\N	站	standing	Past particle of the stem stha	adjective	√stha
+615	7979	stha	sthā	स्था	\N	站	stand	Stem form	adjective	√stha
 616	1290	hita	hita	हित	\N	放	put	Past particle of the stem dhā	adjective	dhā
-617	1290	dha	dhā	धा	\N	放	put	Stem form	verb	dhā
-618	775	da	dā	दा	\N	給	give	Stem form	verb	dā
-619	775	datta	datta	दत्त	\N	給	given	Past particle of the stem dā	adjective	dā
-620	2940	drsta	dṛṣṭa	दृष्ट	\N	見	seen	Past particle of the stem dṛś	adjective	dṛś
-621	2940	drs	dṛś	दृश्	\N	見	see	Stem form	verb	dṛś
-622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	adjective	prach
-623	5634	labdha	labdha	लब्ध	\N	拿	taken	Past particle of the stem labdh	adjective	labdh
+617	1290	dha	dhā	धा	\N	放	put	Stem form	verb	√dhā
+618	775	da	dā	दा	\N	給	give	Stem form	verb	√dā
+619	775	datta	datta	दत्त	\N	給	given	Past particle of the stem dā	adjective	√dā
+620	2940	drsta	dṛṣṭa	दृष्ट	\N	見	seen	Past particle of the stem dṛś	adjective	√dṛś
+621	2940	drs	dṛś	दृश्	\N	見	see	Stem form	verb	√dṛś
+622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	adjective	\N
+623	5634	labdha	labdha	लब्ध	\N	拿	taken	Past particle of the stem labdh	adjective	√labdh
 624	5634	labdh	labdh	लब्ध्	\N	拿	take / obtain	Root form for the middle voice verb	verb	√labdh
-625	441	udha	ūḍha	ऊढ	\N	承、負、提、揹、抬	carried	Past particle of the stem vah	adjective	vah
-626	441	vah	vah	वह्	\N	承、負、提、揹、抬	carried	Stem form	verb	vah
-627	1264	patita	patita	पतित	\N	落	dropped / fallen	Past particle of the stem pat	adjective	pat
-628	1264	pat	pat	पत्	\N	落	to drop / to fall	Stem form	verb	pat
-629	412	udita	udita	उदित	\N	說、云、言、曰、告	spoken	Past particle of the stem vad	adjective	vad
+625	441	udha	ūḍha	ऊढ	\N	承、負、提、揹、抬	carried	Past particle of the stem vah	adjective	√vah
+626	441	vah	vah	वह्	\N	承、負、提、揹、抬	carried	Stem form	verb	√vah
+627	1264	patita	patita	पतित	\N	落	dropped / fallen	Past particle of the stem pat	adjective	√pat
+628	1264	pat	pat	पत्	\N	落	to drop / to fall	Stem form	verb	√pat
+629	412	udita	udita	उदित	\N	說、云、言、曰、告	spoken	Past particle of the stem vad	adjective	√vad
 630	1459	grhita	gṛhīta	गृहीत	\N	得	seized / obtained	Past particle of the stem grah	adjective	grah
 631	1459	grah	grah	ग्रह्	\N	得	seized / obtained	Stem form	verb	grah
 632	29092	dharmapada	dharmapada	धर्मपद	dhamapada	法句經	Dharmapada	\N	proper_noun	\N
@@ -1884,3 +1884,13 @@
 1884	681	rasin	rāśīn	राशीन्	\N	前	a heap / mass / pile / group / multitude / quantity / number	Accusative case, plural form	masculine	rāśi
 1885	31047	samaye	samaye	समये	\N	時、三摩耶	time	Locative case, singular form	masculine	samaya
 1886	5945	sāya	sāya	साय	\N	晚、後日	 the close of day / evening	Stem form	masculine	sāya
+1887	4520	mrsa	mṛṣā	मृषा	\N	虛	 in vain / uselessly / to no purpose	Stem form	indecl	mṛṣā
+1888	29371	karmani	karmāṇi	कर्म	\N	業、業力	karma	Accusative case, plural form	neuter	karma
+1889	3597	caksuh	cakṣuḥ	चक्षुः	\N	眼	an eye	Nominative form	masculine	cakṣu
+1890	412	uditva	uditvā	उदित्वा	\N	說、云、言、曰、告	having spoken	\N	gerund	√vad
+1891	5500	gajam	gajam	गजम्	\N	大象、象	an elephant	Accusative case, singular form	masculine	gaja
+1892	2940	drstva	dṛṣṭvā	दृष्ट्वा	\N	見	having seen	\N	gerund	√dṛś
+1893	5634	labdhva	labdhvā	लब्ध्वा	\N	拿	having obtained	\N	gerund	√labdh
+1894	370	agamya	āgamya	आगम्य	\N	來	having come	\N	gerund	ā + √gam
+1895	343	gatva	gatvā	गत्वा	\N	去	having gone	\N	gerund	√gam
+1896	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	\N	gerund	√cint
