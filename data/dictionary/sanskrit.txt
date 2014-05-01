@@ -475,8 +475,8 @@
 475	28681	vaisya	vaiśya	वैश्य	\N	吠舍	Vaishya	One of the four varnas of the Hindu social order, they are agriculturalists, cattle rearers and traders	proper_noun	\N
 476	28682	varna	varṇa	वर्ण	\N	瓦爾那	Varna	Hindu system of social orders	proper_noun	\N
 477	28683	sudrah	śūdraḥ	शूद्रः	\N	首陀羅	Shudra	One of the four varnas of the Hindu social order, they serve the other three varnas	proper_noun	\N
-478	803	bhumi	bhūmi	भूमि	\N	地	ground / foundation	\N	noun	\N
-479	29783	bhumi	bhūmi	भूमि	\N	地	ground / level / bhumi	One of the ten stages of bodhisattva development into a Buddha	noun	\N
+478	803	bhumi	bhūmi	भूमि	\N	地	earth / ground / foundation	Stem form	feminine	bhūmi
+479	29783	bhumi	bhūmi	भूमि	\N	地	ground / level / bhumi	One of the ten stages of bodhisattva development into a Buddha	feminine	bhūmi
 480	28685	malayagiri	malayagiri	मलयगिरि	\N	秣剌耶山、摩羅耶山、魔羅耶山、摩利山、摩羅延山	Malayagiri / Malaya mountains	\N	proper_noun	\N
 481	28690	malakuta	malakūta	मलकूत	\N	秣羅矩吒國	Malakuta	A state in ancient India	proper_noun	\N
 482	18635	pūrna	pūrna	पूर्न	punna	富樓那	Punna / Purna	One of the Buddha's disciples, first in teaching the Dharma	proper_noun	\N
@@ -847,7 +847,7 @@
 847	26952	grdhrakuta	gṛdhrakūṭa	गृध्रकूट	\N	靈鷲山	Vulture Peak / Grdhrakuta / Griddhkuta / Gridhra-kuta / Griddhraj Parvat	a mountain in India in the Rajgir area in the state of Bihar.  It was visited by the Buddha and mentioned in a number of sutras	proper_noun	\N
 848	25022	vajrasana	vajrāsana	वज्रासन	\N	金剛座、金剛齊	Vajrasana / Diamond throne / Bodhimanda	The place of enlightenment associated with a Buddha	proper_noun	\N
 849	21379	tapasa	tāpasa	तापस	\N	苦行者、苦行人	an ascetic	A person that practices asceticism	masculine	\N
-850	7150	rsi	ṛṣi	ऋषि	\N	仙人	a rishi / a sage / a seer	A Yogi who attains Asamprajyat Samadhi	masculine	\N
+850	7150	rsi	ṛṣi	ऋषि	\N	仙人	a rishi / a sage / a seer	A Yogi who attains Asamprajyat Samadhi	masculine	ṛṣi
 851	31565	aranyaka	āraṇyaka	आरण्यक	\N	森林書	Aranyakas / Forest Books	Part of the Vedas	proper_noun	\N
 852	2889	sakyamuni	śākyamuni	शाक्यमुनि	\N	釋迦牟尼	Shakyamuni Buddha	Literally, Sage of the Sakyas.	proper_noun	\N
 853	19634	mulamadhyamakakarika	mūlamadhyamakakārikā	मूलमध्यमककारिका	\N	中論	Fundamental Verses on the Middle Way	Treatise by Nagarjuna	proper_noun	\N
@@ -1049,7 +1049,7 @@
 1049	32789	dharmayatana	dharmāyatana	धर्मायतन	\N	法處	mental objects	\N	neuter	\N
 1050	5328	hetoh	hetoḥ	हेतोः	\N	何以	whence / why	Interrogative pronoun used to ask a question	pronoun	\N
 1051	3382	diz	diz	दिश्	\N	方	direction	\N	feminine	\N
-1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south	Stem form	adjective	dakṣiṇa
+1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south / right	Stem form	adjective	dakṣiṇa
 1053	1802	pascima	paścima	पश्चिम	\N	西	west	\N	adjective	\N
 1054	581	adhah	adhaḥ	अधः	\N	下	bottom / below	\N	indecl	\N
 1055	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	top / above	\N	indecl	ūrdhva
@@ -1456,7 +1456,7 @@
 1456	17993	cittadharam	cittadhārāṃ	चित्तधारां	\N	17993	mind	Accusative case	feminine	cittadhārā
 1457	28088	anuttaram	anuttarāṃ	अनुत्तरां	anuttara	阿耨多羅	unsurpassed / supreme	Accusative case, singular form	adjective	anuttara
 1458	5069	rasan	rasān	रसान्	\N	味	taste	Accusative case, plural form	masculine	rasa
-1459	1805	daksinam	dakṣiṇaṃ	दक्षिणं	\N	南	south	Accusative case, singular form	adjective	dakṣiṇa
+1459	1805	daksinam	dakṣiṇaṃ	दक्षिणं	\N	南	south / right	Accusative case, singular form	adjective	dakṣiṇa
 1460	19468	paramartha	paramārtha	परमार्थ	\N	真諦	highest truth / spiritual knowledge	Stem form	masculine	paramārtha
 1461	19468	paramarthah	paramārthaḥ	परमार्थः	\N	真諦	highest truth / spiritual knowledge	Nominative case, singular form	masculine	paramārtha
 1462	307	saptanam	saptānāṃ	सप्तानां	\N	七	seven	Genitive case, plural	cardinal	\N
@@ -1909,4 +1909,30 @@
 1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	\N	gerund	√car
 1910	5500	gajam	gajaṃ	गजं	\N	大象、象	an elephant	Accusative case, singular form gajam with sandhi applied	masculine	gaja
 1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	\N	gerund	√likh
-
+1912	2993	atithi	atithi	अतिथि	\N	客	a guest / a person entitled to hospitality	Stem form	masculine	atithi
+1913	2993	atithih	atithiḥ	अतिथिः	\N	客	a guest / a person entitled to hospitality	Nominative case, singular form	masculine	atithi
+1914	28787	samyaksambodhih	samyaksaṃbodhiḥ	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyaksambodhi
+1915	7150	rsih	ṛṣiḥ	ऋषिः	\N	仙人	a rishi / a sage / a seer	Nominative case, singular form	masculine	ṛṣi
+1916	8306	kavi	kavi	कवि	\N	詩人	a poet	Stem form	masculine	kavi
+1917	8306	kavih	kaviḥ	कविः	\N	詩人	a poet	Nominative case, singular form	masculine	kavi
+1918	803	bhumih	bhūmiḥ	भूमिः	\N	地	earth / ground / foundation	Nominative case, singular form	feminine	bhūmi
+1919	3906	santi	śānti	शान्ति	\N	安	peace	Stem form	feminine	śānti
+1920	3906	santih	śāntiḥ	शान्तिः	\N	安	peace	Nominative case, singular form	feminine	śānti
+1921	32957	siddha	siddha	सिद्ध	\N	悉達	one who attains perfection	Stem form	masculine	siddha
+1922	32957	siddhah	siddhaḥ	सिद्धः	\N	悉達	one who attains perfection	Nominative case, singular form	masculine	siddha
+1923	32957	siddha	siddhā	सिद्धा	\N	悉達	one who attains perfection	Stem form	feminine	siddha
+1924	1052	siddhi	siddhi	सिद्धि	\N	完善	perfection / accomplishment / performance / fulfilment / complete attainment / success	Stem form	feminine	siddhi
+1925	1052	siddhih	siddhiḥ	सिद्धिः	\N	完善	perfection / accomplishment / performance / fulfilment / complete attainment / success	Nominative case, singular form	feminine	siddhi
+1926	10695	vistara	vistara	विस्तर	\N	廣大	extensive / long	mfn	adjective	vistara
+1927	10695	vistarena	vistareṇa	विस्तर	\N	廣大	extensive / long	Instrumental case	adjective	vistara
+1928	3046	viragita	virāgita	विरागित	\N	惹	exasperated / irritated	mfn	adjective	virāgita
+1929	3046	viragitah	virāgitāḥ	विरागिताः	\N	惹	exasperated / irritated	Nominative case, plural form	adjective	virāgita
+1930	6649	janu	jānu	जानु	\N	膝	knee	Nominative case, plural form	neuter	jānu
+1931	6649	janu	jānu	जानु	\N	膝	knee	Nominative case, plural form	neuter	jānu
+1932	2042	para	para	पर	\N	另	other	mfn	adjective	para
+1933	2042	paratara	paratara	परतर	\N	另	other	superlative and comparative of para	adjective	paratara
+1934	2042	paratarena	paratareṇa	परतरेण	\N	另	other	Instrumental case, singular form	adjective	paratara
+1935	5284	paribhuta	paribhūta	परिभूत	\N	勝	overpowered / conquered / slighted / disregarded / despised	mfn	adjective	paribhūta
+1936	5284	paribhuta	paribhūtā	परिभूता	\N	勝	overpowered / conquered / slighted / disregarded / despised	Feminine form	adjective	paribhūta
+1937	2391	nisposa	niṣpoṣa	निष्पोष	\N	獨	not being nourished	mfn	adjective	niṣpoṣa
+1938	2391	nisposa	niṣpoṣā	निष्पोषा	\N	獨	not being nourished	Feminine form	adjective	niṣpoṣa
