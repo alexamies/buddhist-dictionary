@@ -79,7 +79,7 @@
 79	28016	sila	śīla	शील	sīla	尸羅、戒	commitment to harmony and self-restraint	The second of the six paramitas	noun	\N
 80	17658	panca-silani	pañca-śīlāni	पञ्चशीलानि	pañca-sīlāni	五戒	the Five Precepts	\N	phrase	\N
 81	6895	samadhi	samādhi	समाधि	samādhi	三昧	samadhi / mental concentration	\N	noun	\N
-82	22994	veda	véda	वेदा	\N	吠陀	Veda	Literally, knowledge in Sanskrit	noun	\N
+82	22994	veda	véda	वेदा	\N	吠陀	Veda	Literally, knowledge in Sanskrit	masculine	veda
 83	17766	siddhartha	siddhārtha	सिद्धार्थ	Siddhattha	悉達多	Siddhartha	The Buddha's personal name	proper_noun	\N
 84	3618	buddhatva	buddhatva	बुद्धत्व	buddhatta	佛	buddhahood	The state of being a Buddha	noun	\N
 85	6686	tathagata	tathāgata	तथागत	\N	如來	Tathagata	Stem form	masculine	tathāgata
@@ -1936,3 +1936,12 @@
 1936	5284	paribhuta	paribhūtā	परिभूता	\N	勝	overpowered / conquered / slighted / disregarded / despised	Feminine form	adjective	paribhūta
 1937	2391	nisposa	niṣpoṣa	निष्पोष	\N	獨	not being nourished	mfn	adjective	niṣpoṣa
 1938	2391	nisposa	niṣpoṣā	निष्पोषा	\N	獨	not being nourished	Feminine form	adjective	niṣpoṣa
+1939	35214	guna	guṇa	गुण	\N	全階	a full grade vowel change	\N	masculine	guṇa
+1940	35215	vrddhi	vṛddhi	वृद्धि	\N	長階	a lengthened grade vowel change	\N	feminine	vṛddhi
+1941	3928	veda	veda	वेदा	\N	智慧	knowledge / true or sacred knowledge or lore / knowledge of ritual	\N	masculine	veda
+1942	4827	daivika	daivika	दैविक	\N	緣分	a fatal accident or chance	\N	neuter	daivika
+1943	19535	vaidya	vaidya	वैद्य	\N	論師	a learned man / a pandit	\N	masculine	vaidya
+1944	13326	daivika	daivika	दैविक	\N	天	divine	mf(i)n	adjective	daivika
+1945	656	yaugika	yaugika	दैविक	\N	實用	useful / applicable	mf(i)n	adjective	yaugika
+1946	3670	dharmika	dhārmika	धार्मिक	\N	善	righteous / virtuous / pious / just	mf(i)n	adjective	dhārmika
+1947	17994	desana	deśanā	देशना	\N	法	direction / instruction	Stem form	feminine	deśanā
