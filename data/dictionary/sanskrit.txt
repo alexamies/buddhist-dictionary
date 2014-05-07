@@ -1942,6 +1942,17 @@
 1942	4827	daivika	daivika	दैविक	\N	緣分	a fatal accident or chance	\N	neuter	daivika
 1943	19535	vaidya	vaidya	वैद्य	\N	論師	a learned man / a pandit	\N	masculine	vaidya
 1944	13326	daivika	daivika	दैविक	\N	天	divine	mf(i)n	adjective	daivika
-1945	656	yaugika	yaugika	दैविक	\N	實用	useful / applicable	mf(i)n	adjective	yaugika
+1945	656	yaugika	yaugika	यौगिक	\N	實用	useful / applicable	mf(i)n	adjective	yaugika
 1946	3670	dharmika	dhārmika	धार्मिक	\N	善	righteous / virtuous / pious / just	mf(i)n	adjective	dhārmika
 1947	17994	desana	deśanā	देशना	\N	法	direction / instruction	Stem form	feminine	deśanā
+1948	1198	yatra	yatra	यत्र	\N	所	where	Relative adverb, introduces the correlative adverb tatra	adverb	yatra
+1949	1198	yatah	yataḥ	यतः	\N	所	since / where	Relative adverb, introduces the correlative adverb tataḥ	adverb	yataḥ
+1950	2106	tatah	tataḥ	ततः	\N	因此	therefore	Correlative adverb	adverb	tataḥ
+1951	1198	yada	yadā	यदा	\N	所	when	Relative adverb, introduces the correlative adverb tadā	adverb	yadā
+1952	2106	tada	tadā	तदा	\N	因此	then	Correlative adverb	adverb	tadā
+1953	4406	yadi	yadi	यदि	\N	若	if	Relative adverb, introduces the correlative adverb tadā	adverb	yadi
+1954	5634	labhase	labhase	लभसे	\N	拿	you obtain	Second person, singular form for the middle verb	verb	√labdh
+1955	3794	yad	yad	यद्	\N	誰	who	Relative pronoun	masculine	yad
+1956	3794	yo	yo	यो	\N	誰	who	Relative pronoun	masculine	yad
+1957	3794	yasmin	yasmin	यस्मिन्	\N	誰	on whom	Locative case, singular form	masculine	yad
+1958	3794	yena	yena	येन	\N	誰	with whom	Instrumental case, singular form	masculine	yad
