@@ -841,6 +841,8 @@
 吴哥王城	吴哥通	Also known as	\N
 吴哥城	吴哥通王城	Also known as	\N
 吴哥通王城	吴哥城	Also known as	\N
+吴哥窟	安哥大寺	Also known as	\N
+安哥大寺	吴哥窟	Also known as	\N
 吴哥帝国	高棉帝国	Also known as	\N
 高棉帝国	吴哥帝国	Also known as	\N
 孔达尼	孔达尼石窟	Full name	\N
@@ -889,6 +891,10 @@
 弥沙塞部五分律	五分律	Abbreviation	\N
 阿旃陀	阿旃陀石窟	Full name	\N
 阿旃陀石窟	阿旃陀	Abbreviation	\N
+阿旃陀石窟	阿姜达石窟	Also known as	\N
+阿姜达石窟	阿旃陀石窟	Also known as	\N
+阿旃陀	阿姜达石窟	Also known as	\N
+阿姜达石窟	阿旃陀	Also known as	\N
 孔迪沃特	孔迪沃特石窟	Full name	\N
 孔迪沃特石窟	孔迪沃特	Abbreviation	\N
 崧泽	崧泽文化	Full name	\N
@@ -921,6 +927,10 @@
 摩竭	摩竭鱼	Also known as	\N
 马哈拉斯特拉	马哈拉施特拉	Also known as	\N
 马哈拉施特拉	马哈拉斯特拉	Also known as	\N
+马哈拉施特拉	摩诃拉士特拉	Also known as	\N
+摩诃拉士特拉	马哈拉施特拉	Also known as	\N
+马哈拉斯特拉	摩诃拉士特拉	Also known as	\N
+摩诃拉士特拉	马哈拉斯特拉	Also known as	\N
 文殊师利	文殊菩萨	Also known as	\N
 文殊菩萨	文殊师利	Also known as	\N
 文殊师利	文殊	Abbreviation	\N

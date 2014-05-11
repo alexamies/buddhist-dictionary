@@ -68,12 +68,12 @@
 68	爱尔兰	愛爾蘭	Aìěrlán	Ireland	proper noun	国家	Country	地理	Geography	欧洲	Europe	\N	\N	\N
 69	日本	\N	Rìběn	Japan	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	ri4ben3.mp3	(1) Short form is 日. (2) \N
 70	马来西亚	馬來西亞	Mǎláixīyà	Malaysia	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	ma3lai2xi1ya4.mp3	(1) Short form is 马 (Mǎ). (2) \N
-71	蒙古	\N	Měnggǔ	Mongolia	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	\N	(1) Short form is 蒙. (2) \N
-72	孟加拉国	孟加拉國	Mèngjiālāguó	Bangladesh	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	\N	(1) Full name is 孟加拉共和国 (Republic of Bangladesh, Mèngjiālā Gònghéguó). (2) \N
-73	缅甸	緬甸	Miǎndiàn	Myanmar	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	mian3dian4.mp3	Myanmar was formerly called Burma.  \N
+71	蒙古	\N	Měnggǔ	Mongolia	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	\N	Short form is 蒙.
+72	孟加拉国	孟加拉國	Mèngjiālāguó	Bangladesh	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	\N	Full name is 孟加拉共和国 (Republic of Bangladesh, Mèngjiālā Gònghéguó).
+73	缅甸	緬甸	Miǎndiàn	Myanmar	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	mian3dian4.mp3	Myanmar was formerly called Burma.
 74	摩洛哥	\N	Móluògē	Morocco	proper noun	国家	Country	地理	Geography	非洲	Africa	\N	\N	\N
 75	莫桑比克	\N	Mòsāngbǐkè	Mozambique	proper noun	国家	Country	地理	Geography	非洲	Africa	\N	\N	\N
-76	墨西哥	\N	Mòxīgē	Mexico	proper noun	国家	Country	地理	Geography	北美	North America	\N	\N	(1) Short form is 墨 (Mò). (2) \N
+76	墨西哥	\N	Mòxīgē	Mexico	proper noun	国家	Country	地理	Geography	北美	North America	\N	\N	Short form is 墨 (Mò).
 77	尼泊尔	尼泊爾	Níbóěr	Nepal	proper noun	国家	Country	地理	Geography	亚洲	Asia	\N	\N	\N
 78	尼加拉瓜	\N	Níjiālāguā	Nicaragua	proper noun	国家	Country	地理	Geography	北美	North America	\N	\N	\N
 79	尼日利亚	尼日利亞	Nírìlìyà	Nigeria	proper noun	国家	Country	地理	Geography	非洲	Africa	\N	\N	\N
@@ -35220,3 +35220,16 @@
 35220	万佛洞	萬佛洞	Wàn Fó Dòng	Ten Thousand Buddha Caves	proper noun	石窟	Grottoes	佛教	Buddhism	辽宁	Liaoning	N	\N	Well-known grottoes, located in Liaoning
 35221	麦积山	麥積山	Màijī Shān	Maiji Caves	proper noun	石窟	Grottoes	佛教	Buddhism	甘肃	Gansu	N	\N	Well-known grottoes, located in Gansu
 35222	四大石窟	\N	Sì Dà Shíkū	Chinese four famous grotto complexes	proper noun	石窟	Grottoes	佛教	Buddhism	甘肃	Gansu	N	\N	Mogao, Yungang, Longmen, and Maiji Shan
+35223	阿姜达石窟	阿姜達石窟	Ājiāngdá Shíkū	Ajanta Caves	proper noun	石窟	Caves	佛教	Buddhism	印度	India	\N	\N	Buddhist caves located in India
+35224	摩诃拉士特拉	摩訶拉士特拉	Móhēlāshìtélā	Maharashtra	proper noun	邦	State	地方	Places	印度	India	\N	\N	A state in India
+35225	德干	\N	Dégàn	Deccan	proper noun	高原	Plateau	地方	Places	印度	India	\N	\N	Located in Maharashtra state in India
+35226	西岳山脉	西岳山脈	Xī Yuè Shānmài	Western Ghats	proper noun	山脉	Mountain Range	地方	Places	印度	India	\N	\N	Located in Southwestern India
+35227	红山	紅山	Hóng Shān	Marpo Ri	proper noun	山	Mountain	地方	Places	中国	China	\N	\N	"Red Hill" in Lhasa
+35228	日珠	\N	rìzhū	the Sun	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	A literary reference
+35229	起居室	\N	qǐjū shì	living quarters	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
+35230	顶礼膜拜	頂禮膜拜	dǐnglǐ mó bài	bowing in a kneeling position with head touching the ground	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35231	安哥大寺	\N	Āngē Dà Sì	Angkor Wat	proper noun	寺院	Temple	历史	History	柬埔寨	Cambodia	\N	\N	Temple complex in Cambodia
+35232	婆罗浮屠	婆羅浮屠	Póluófútú	Borobudur	proper noun	寺院	Temple	历史	History	印度尼西亚	Indonesia	\N	\N	Temple complex in Indonesia
+35233	糅合	\N	róuhé	to mix together / to put together	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
+35234	祭典	\N	jìdiǎn	a sacrificial ceremony / a religious festival	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
+35235	大金塔	\N	Dà Jīn Tǎ	Shwedagon Pagoda	proper noun	塔	Pagoda	佛教	Buddhism	缅甸	Myanmar	\N	\N	\N

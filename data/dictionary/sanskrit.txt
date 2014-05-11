@@ -184,7 +184,7 @@
 184	19518	nalanda	nālandā	नालंदा	nālandā	那爛陀	Nalanda	\N	proper_noun	\N
 185	27271	atisa	atiśa	अतिश	\N	阿底峽	Atisa / Atisha	\N	proper_noun	\N
 186	3163	anitya	anitya	अनित्य	anicca	無常、無主、非常	impermanence	\N	noun	\N
-187	28088	anuttara	anuttara	अनुत्तर	anuttara	阿耨多羅	unsurpassed / supreme	Stem form	adjective	anuttara
+187	28088	anuttara	anuttara	अनुत्तर	anuttara	阿耨多羅	unsurpassed / supreme	mfn	adjective	anuttara
 188	3941	dana	dāna	दान	dāna	布施、檀那、施	dana / the practice of giving	\N	noun	\N
 189	17768	dharmacakra	dharmacakra	धर्मचक्र	dhammacakka	法輪	Dharma Wheel / Dharmacakra	\N	proper_noun	\N
 190	27712	mahasiddha	mahāsiddha	महासिद्ध	\N	大成就、大究竟	Mahasiddha	\N	proper_noun	\N
@@ -1155,7 +1155,7 @@
 1155	3166	bodhisattvo	bodhisattvo	बोधिसत्त्वो	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
 1156	3166	bodhisattva	bodhisattvā	बोधिसत्त्वा	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
 1157	17994	dharmo	dharmo	धर्मो	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
-1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed / supreme	Normally written as anuttara but the word ending is modified here for sandhi	adjective	anuttara
+1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed / supreme	Feminine form of the adjective	adjective	anuttara
 1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Nominative and accusive case, singular form	neuter	citta
 1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	a being / a creature	Nominative case, plural form	masculine	sattva
 1161	17994	dharma	dharmā	धर्मा	dhamma	法	dharma /  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	dharma
@@ -1956,3 +1956,47 @@
 1956	3794	yo	yo	यो	\N	誰	who	Relative pronoun	masculine	yad
 1957	3794	yasmin	yasmin	यस्मिन्	\N	誰	on whom	Locative case, singular form	masculine	yad
 1958	3794	yena	yena	येन	\N	誰	with whom	Instrumental case, singular form	masculine	yad
+1959	3794	yah	yaḥ	यः	\N	誰	who	Nominative case, singular form	masculine	yad
+1960	3794	yau	yau	यौ	\N	誰	who	Nominative case, dual form	masculine	yad
+1961	3794	ye	ye	ये	\N	誰	who	Nominative case, plural form	masculine	yad
+1962	3794	yen	yen	येन्	\N	誰	whom	Accusative case, singular form	masculine	yad
+1963	3794	yam	yām	याम्	\N	誰	whom	Accusative case, plural form	masculine	yad
+1964	3794	yabhyam	yābhyām	याभ्याम्	\N	誰	with whom	Instrumental, dative and ablative case, dual form	masculine	yad
+1965	3794	yaiḥ	yaiḥ	यैः	\N	誰	with whom	Instrumental case, plural form	masculine	yad
+1966	3794	yaramai	yaramai	यरमै	\N	誰	for whom	Dative case, singular form	masculine	yad
+1967	3794	yebhyah	yebhyaḥ	येभ्यः	\N	誰	for whom	Dative and ablative case, plural form	masculine	yad
+1968	3794	yaramat	yaramāt	यरमात्	\N	誰	for whom	Ablative case, singular form	masculine	yad
+1969	3794	yaraya	yaraya	यरय	\N	誰	whose	Genitive case, singular form	masculine	yad
+1970	3794	yayoh	yayoḥ	ययोः	\N	誰	whose	Genitive and locative case, dual form	masculine	yad
+1971	3794	yasam	yaṣam	यषम्	\N	誰	whose	Genitive case, plural form	masculine	yad
+1972	3794	yariman	yariman	यरिमन्	\N	誰	on whom	Locative case, singular form	masculine	yad
+1973	3794	yesu	yeṣu	येषु	\N	誰	on whom	Locative case, plural form	masculine	yad
+1974	3670	dharmiki	dhārmikī	धार्मिकी	\N	善	virtuous	feminine form	adjective	dhārmikī
+1975	2978	nadi	nadī	नदी	\N	河	a river / a stream	Nominative case, singular form	feminine	nadī
+1976	2978	nadyau	nadyau	नद्यौ	\N	河	a river / a stream	Nominative, accusative, and vocative case, dual form	feminine	nadī
+1977	2978	nadyah	nadyaḥ	नद्यः	\N	河	a river / a stream	Nominative and vocative case, plural form	feminine	nadī
+1978	2978	nadim	nadīm	नदीम्	\N	河	a river / a stream	Accusative case, singular form	feminine	nadī
+1979	2978	nadih	nadīḥ	नदीः	\N	河	a river / a stream	Accusative case, plural form	feminine	nadī
+1980	2978	nadya	nadyā	नद्या	\N	河	a river / a stream	Instrumental case, singular form	feminine	nadī
+1981	2978	nadibhyam	nadībhyām	नदीभ्याम्	\N	河	a river / a stream	Instrumental, dative, and ablative case, dual form	feminine	nadī
+1982	2978	nadibhih	nadibhiḥ	नदिभिः	\N	河	a river / a stream	Instrumental case, plural form	feminine	nadī
+1983	2978	nadyai	nadyai	नदिभिः	\N	河	a river / a stream	Dative case, singular form	feminine	nadī
+1984	2978	nadibhyah	nadibhyaḥ	नदिभिः	\N	河	a river / a stream	Dative and ablative case, plural form	feminine	nadī
+1985	2978	nadyah	nadyāḥ	नद्याः	\N	河	a river / a stream	Ablative and genitive case, singular form	feminine	nadī
+1986	2978	nadyoh	nadyoḥ	नद्योः	\N	河	a river / a stream	Genitive and locative case, dual form	feminine	nadī
+1987	2978	nadinam	nadīnām	नदीनाम्	\N	河	a river / a stream	Genitive case, plural form	feminine	nadī
+1988	2978	nadyam	nadyām	नद्याम्	\N	河	a river / a stream	Locative case, singular form	feminine	nadī
+1989	2978	nadisu	nadīṣu	नद्याम्	\N	河	a river / a stream	Locative case, plural form	feminine	nadī
+1990	2978	nadi	nadi	नदि	\N	河	a river / a stream	Vocative case, singular form	feminine	nadī
+1991	33142	sthatavya	sthātavya	स्थातव्य	\N	住	to be stood or stayed or remained or continued in or abided by	mfn	adjective	sthātavya
+1992	33142	sthatavyam	sthātavyam	स्थातव्यम्	\N	住	to be stood or stayed or remained or continued in or abided by	Accusative case, masculine form	adjective	sthātavya
+1993	28088	anuttarayam	anuttarāyāṃ	अनुत्तरायां	\N	阿耨多羅	unsurpassed / supreme	Locative case, feminine form of the adjective	adjective	anuttara
+1994	3794	yam	yām	याम्	\N	誰	whom	Accusative case, plural form, modified for sandhi	masculine	yad
+1995	5044	prabhata	prabhāta	प्रभात	\N	照	shone forth / begun to become clear or light	mfn	adjective	prabhāta
+1996	5044	prabhatayam	prabhātāyāṃ	प्रभातायां	\N	照	shone forth / begun to become clear or light	Feminine form prabhātā, locative case, singular prabhātāyām, modified for sandhi	adjective	prabhāta
+1997	1932	kartavya	kartavya	कर्तव्य	\N	成	to be done or made or accomplished	mfn	adjective	kartavya
+1998	1932	kartavyah	kartavyaḥ	कर्तव्य	\N	成	to be done or made or accomplished	Nominative form, singular case	adjective	kartavya
+1999	8238	patni	patnī	पत्नी	\N	妻	a wife	Stem form	feminine	patnī
+2000	8705	vapi	vāpī	वापी	\N	池	any pond / a large oblong pond / an oblong reservoir of water / tank / pool / lake	Stem form	feminine	vāpī
+2002	2388	sundari	sundarī	वापी	\N	美	beautiful / handsome / lovely / charming / agreeable	mf(ī)n, feminine form	adjective	sundarī
+2003	3794	ya	yā	या	\N	誰	who	Nominative case, singular form of the pronoun	feminine	yad
