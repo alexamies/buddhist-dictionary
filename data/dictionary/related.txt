@@ -249,6 +249,8 @@
 刘炟	汉章帝	Posthumous title	\N
 汉明帝	刘庄	Common name	\N
 刘庄	汉明帝	Posthumous title	\N
+汉明帝	明帝	Also known as	\N
+明帝	汉明帝	Also known as	\N
 汉和帝	刘肇	Common name	\N
 刘肇	汉和帝	Posthumous title	\N
 汉殇帝	刘隆	Common name	\N
@@ -365,6 +367,8 @@
 李昂	唐文宗	Posthumous title	\N
 唐武宗	李瀍	Common name	\N
 李瀍	唐武宗	Posthumous title	\N
+唐武宗	武宗	Also known as	\N
+武宗	唐武宗	Also known as	\N
 唐宣宗	李忱	Common name	\N
 李忱	唐宣宗	Posthumous title	\N
 唐懿宗	李漼	Common name	\N
@@ -2881,3 +2885,9 @@
 巴赛隆纳	巴塞罗那	Also known as	\N
 佛罗里达	佛州	Also known as	\N
 佛州	佛罗里达	Also known as	\N
+须达	须达多	Also known as	\N
+须达多	须达	Also known as	\N
+须达	须达长者	Also known as	\N
+须达长者	须达	Also known as	\N
+须达多	须达长者	Also known as	\N
+须达长者	须达多	Also known as	\N
