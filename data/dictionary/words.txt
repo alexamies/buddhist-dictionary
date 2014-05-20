@@ -3007,8 +3007,8 @@
 3007	鲲	鯤	Kūn	Kun	proper noun	名字	Name	名字	Names	\N	\N	\N	\N	\N
 3008	司机	司機	sījī	driver	noun	\N	\N	交通	Transportation	\N	\N	\N	si1ji1.mp3	\N
 3009	状	狀	zhuàng	to accuse	verb	\N	\N	语言	Language	\N	\N	\N	zhuang4.mp3	\N
-3010	状	狀	zhuàng	accusation / suit / state / condition	noun	\N	\N	法律	Law	\N	\N	\N	zhuang4.mp3	\N
-3011	状	狀	zhuàng	strong / great	adjective	\N	\N	特点	Characteristic	\N	\N	\N	zhuang4.mp3	\N
+3010	状	狀	zhuàng	state / condition	noun	\N	\N	特点	Characteristic	\N	\N	\N	zhuang4.mp3	\N
+3011	状	狀	zhuàng	strong / great	adjective	\N	\N	力气	Strength	\N	\N	\N	zhuang4.mp3	\N
 3012	告	\N	gào	to tell / to say / said / told	verb	\N	\N	语言	Language	\N	\N	\N	gao4.mp3	\N
 3013	高速公路	\N	gāosù gōnglù	freeway / motorway	noun	\N	\N	交通	Transportation	\N	\N	\N	gao1su4gong1lu4.mp3	\N
 3014	石	\N	shí	rock / stone	noun	\N	\N	大自然	Nature	\N	\N	\N	shi2.mp3	\N
@@ -4473,7 +4473,7 @@
 4473	贬	貶	biǎn	to diminish / to demote / to disparage / to censure / to depreciate	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 4474	损	損	sǔn	to damage / injure / to lose / to harm	verb	\N	\N	行为	Actions	\N	\N	\N	sun3.mp3	\N
 4475	辞	辭	cí	refined language / diction / wording / poetic genre	noun	\N	\N	语言	Language	\N	\N	\N	ci2.mp3	\N
-4476	辞	辭	cí	to take leave / to resign / to dismiss / to decline 	verb	\N	\N	行为	Actions	\N	\N	\N	ci2.mp3	\N
+4476	辞	辭	cí	to resign / to dismiss / to decline 	verb	\N	\N	行为	Actions	\N	\N	\N	ci2.mp3	\N
 4477	言辞	言辭	yáncí	what one says / words / a remark / an utterance	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
 4478	扰	擾	rǎo	to disturb	verb	\N	\N	暴力	Violence	\N	\N	\N	rao3.mp3	\N
 4479	骚扰	騷擾	sāorǎo	to disturb / to cause a commotion / to harass	verb	\N	\N	暴力	Violence	\N	\N	\N	\N	\N
@@ -5737,7 +5737,7 @@
 5737	朝	\N	cháo	to face	verb	\N	\N	位	Position	\N	\N	\N	chao2.mp3	\N
 5738	朝	\N	cháo	dynasty / the imperial court 	noun	\N	\N	历史	History	\N	\N	\N	chao2.mp3	\N
 5739	朝	\N	Cháo	Korea	proper noun	国家	Country	地理	Geography	朝鲜	Korea	\N	chao2.mp3	Abbreviation for 朝鲜
-5740	朝	\N	morning	morning	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
+5740	朝	\N	zhāo	morning	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 5741	抗灾	抗災	kàngzāi	to defend against natural disasters	verb	\N	\N	社会	Society	\N	\N	\N	\N	\N
 5742	救	\N	jiù	to save / to assist / to rescue	verb	\N	\N	行为	Actions	\N	\N	\N	jiu4.mp3	\N
 5743	救灾	救災	jiùzāi	to help people in a disaster	verb	\N	\N	灾难	Disaster	\N	\N	\N	\N	\N
@@ -35339,7 +35339,7 @@
 35339	法眷	\N	fǎjuàn	Dharma friend	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 35340	知库	知庫	zhī kù	a monk in charge of reception	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 35341	典宾	典賓	diǎn bīn	a monk in charge of reception	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-35342	望文生义	望文生義	wàng wén shēng yì	phrase	to interpret word-by-word without understanding the meaning / a far-fetched interpretation	noun	\N	\N	成语	Idiom	\N	\N	\N	\N	Literally, view a text and interpret
+35342	望文生义	望文生義	wàng wén shēng yì	to interpret word-by-word without understanding the meaning / a far-fetched interpretation	noun	\N	\N	成语	Idiom	\N	\N	\N	\N	Literally, view a text and interpret
 35343	迎送	\N	yíng sòng	welcoming and sending off	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 35344	禅苑清规	禪苑清規	Chányuàn Qīngguī	Chanyuan Qinggui / Pure Rules of the Chan Garden	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Compiled by the Chan Master Ghanglu Zongze circa 1103, a book for administration of Chan monasteries
 35345	尊宿	\N	zūnsù	a senior monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially one from a different temple to that is the subject being written about
@@ -35349,4 +35349,31 @@
 35349	迎候	\N	yíng hòu	to go out to welcome	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	From 出迎，等候到来
 35350	食宿	\N	shí sù	board and lodging / room and board / food and accommodation	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	From 出迎，等候到来
 35351	拜谢	拜謝	bài xiè	pay their respects and give thanks	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-
+35352	僧值	\N	sēng zhí	Disciplinarian	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A traditional role in the administration of a Buddhist temple
+35353	暇	\N	xiá	leisurely	adjective	\N	\N	休闲	Leisure	\N	\N	\N	xia2.mp3	\N
+35354	状	狀	zhuàng	lawsuit / an accusation	noun	\N	\N	法律	Law	\N	\N	\N	zhuang4.mp3	\N
+35355	状	狀	zhuàng	polite	adjective	\N	\N	交际	Social Interaction	\N	\N	\N	zhuang4.mp3	\N
+35356	干办	幹辦	gànbàn	supervisor	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Name of a role in the Song dynasty, mainly responsible for supervising and administration
+35357	山寮	\N	shānliáo	a mountain hut	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35358	丰盛	豐盛	fēngshèng	rich / sumptuous	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35359	补益	補益	bǔyì	benefit / help	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35360	滋补	滋补	zībǔ	nourishing / nutritious	adjective	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35361	羸弱	\N	léiruò	frail / weak	adjective	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35362	补养	補養	bǔyǎng	to take a tonic or nourishing food to build up one's health	verb	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35363	元气	元氣	yuánqì	strength / vigor / vitality / original vital breath	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35364	凝滞	凝滯	níngzhì	to stagnate / to congeal / to stop still / to freeze	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35365	辞	辭	cí	to expel	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ci2.mp3	\N
+35366	辞	辭	cí	to speak / to talk	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ci2.mp3	The same as 说 or 讲 in this sense
+35367	辞	辭	cí	to say goodbye / to take leave	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ci2.mp3	The same as 辞别 or 告别 in this sense
+35368	辞别	辭別	cíbié	to say goodbye / to take leave	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35369	辞	辭	cí	to try / to interrogate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ci2.mp3	The same as 审讯 in this sense
+35370	辩说	辯說	biànshuō	to debate / to argue	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
+35371	滋润	滋潤	zīrùn	moist / humid	verb	\N	\N	水	Water	\N	\N	\N	\N	\N
+35372	喉吻	\N	hóu wěn	throat and oral cavity	phrase	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35373	论法	論法	lùnfǎ	argumentation	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
+35374	喉舌	\N	hóu shé	throat and tongue	phrase	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35375	脾	\N	pí	spleen	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35376	风寒	風寒	fēnghán	wind chill / cold weather	noun	\N	\N	温度	Temperature	\N	\N	\N	\N	\N
+35377	风寒	風寒	fēnghán	a common cold	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35378	积食	積食	jīshí	to retain food in the stomach due to indigestion	verb	\N	\N	健康	Health	\N	\N	\N	\N	\N
+35379	饥馁	饑餒	jīněi	hunger	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
