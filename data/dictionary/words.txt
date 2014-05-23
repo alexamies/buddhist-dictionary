@@ -2633,7 +2633,7 @@
 2633	阳历	陽曆	yánglì	solar calendar	noun	\N	\N	时间	Time	\N	\N	\N	120px-2activecalendar640x480.jpg	\N
 2634	国民党	國民黨	Guómín Dǎng	Kuomintang / Nationalist Party / KMT	proper noun	\N	\N	政治	Politics	\N	\N	\N	\N	\N
 2635	初一	\N	Chūyī	first day of lunar month / Chinese New Year	proper noun	节日	Festival	文化	Culture	\N	\N	\N	chu1yi1.mp3	\N
-2636	正月	\N	Zhēngyuè	first month of the lunar new year	noun	\N	\N	时间	Time	\N	\N	\N	zheng1yue4.mp3	\N
+2636	正月	\N	Zhēngyuè	first month of the lunar new year	proper noun	\N	\N	时间	Time	\N	\N	\N	zheng1yue4.mp3	\N
 2637	元宵节	元宵節	Yuánxiāo Jié	Lantern Festival	proper noun	节日	Festival	文化	Culture	\N	\N	\N	\N	Falls on the fifteenth day of the first month of the lunar calendar
 2638	清明节	清明節	Qīngmíng Jié	Qingming	proper noun	节日	Festival	文化	Culture	\N	\N	\N	\N	Beginning of April in China
 2639	端午节	端午節	Duānwǔ Jié	Dragon Boat Festival	proper noun	节日	Festival	文化	Culture	\N	\N	\N	\N	5th day of the 5th lunar month
@@ -35377,3 +35377,46 @@
 35377	风寒	風寒	fēnghán	a common cold	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 35378	积食	積食	jīshí	to retain food in the stomach due to indigestion	verb	\N	\N	健康	Health	\N	\N	\N	\N	\N
 35379	饥馁	饑餒	jīněi	hunger	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35380	通同	\N	tōngtóng	to collude / to gang up on / to coordinate	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
+35381	士夫	\N	shìfú	a young man	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35382	士夫	\N	shìfú	a man	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35383	士夫	\N	shìfú	a scholar	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35384	值日	\N	zhírì	on day duty	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35385	移步	\N	yíbù	on day duty	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35386	挪动	\N	nuódòng	to move / to shift	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
+35387	圊头	圊頭	qīngtóu	Qing Tou	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A title at a Buddhist monastery, in charge of ...
+35388	三时	三時	sān shí	the three periods of the day or night	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Buddhism a 24 hour period is divied into six periods, three in the day and three in the night
+35389	路灯	路燈	lùdēng	a street lamp / a street light	noun	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
+35390	净桶	淨桶	jìngtǒng	a toilet	noun	\N	\N	卫生	Hygiene	\N	\N	\N	\N	A polite term
+35391	马桶	\N	mǎtǒng	a toilet	noun	\N	\N	卫生	Hygiene	\N	\N	\N	\N	\N
+35392	园地	園地	yuándì	a garden area	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
+35393	变卖	變賣	biànmài	to sell off	verb	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
+35394	板	\N	bǎn	board struck for sounding events in a temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ban3.mp3	Struck with a stick for morning chanting, meals, etc. These are counted, as in 二板, 三板, ... for the second striking, third striking, etc.
+35395	钣	鈑	bǎn	board struck for sounding events in a temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ban3.mp3	Struck with a stick for morning chanting, meals, etc.
+35396	面汤	面湯	miàntāng	hot water for washing one's face	noun	\N	\N	卫生	Hygiene	\N	\N	\N	\N	\N
+35397	面汤	面湯	miàntāng	water that noodles have been boiled in	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+35398	面汤	面湯	miàntāng	soup noodles	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+35399	面汤	面湯	miàntāng	boiled water with rice or millet	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+35400	罢止	罷止	bàzhǐ	to stop / to halt / to cease	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
+35401	烧开	燒開	shāokāi	to boil	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
+35402	静茶	靜茶	jìngchá	a business that includes aggriculture, manufacturing, sales, and other activities	noun	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
+35403	采制	採制	cǎizhì	to collect and process	verb	\N	\N	工业	Industry	\N	\N	\N	\N	\N
+35404	连锁	連鎖	liánsuǒ	a chain	noun	\N	\N	商务	Commerce	\N	\N	\N	\N	of stores
+35405	连锁	連鎖	liánsuǒ	to interlock / to be linked	noun	\N	\N	联系	Relationship	\N	\N	\N	\N	\N
+35406	四枝	\N	sì zhī	all four limbs	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35407	任期	\N	rèn qī	term of office	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35408	请职	請職	qǐng zhí	to assign roles and duties at a Chan temple	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35409	禅院	禪院	Chán yuàn	a Chan temple / a Zen temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35410	行事	\N	xíngshì	to execute / to handle	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
+35411	行事	\N	xíngshì	behavior / action / conduct	noun	\N	\N	过程	Process	\N	\N	\N	\N	\N
+35412	十六	\N	shíliù	sixteen	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+35413	年资	年資	niánzī	age and experience / seniority	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35414	请辞	請辭	qǐngcí	to ask sb to resign from a post	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35415	客堂	\N	kè táng	a reception hall / a room to meet guests / a parlor	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
+35416	招集	\N	zhāojí	to recruit / to gather together	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35417	就任	\N	jiùrèn	to take office / to assume a post	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35418	留任	\N	liúrèn	to remain in office	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35419	初八	\N	Chū bā	eighth day of lunar month	phrase	\N	\N	时间	Time	\N	\N	\N	\N	\N
+35420	元月	\N	Yuányuè	first month of the lunar new year	proper noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
+35421	宣布	宣佈	xuānbù	to declare / to announce	verb	\N	\N	政治	Politics	\N	\N	\N	xuan1bu4.mp3	\N
+35422	禀告	稟告	bǐnggào	to report	verb	\N	\N	工作	Work	\N	\N	\N	\N	to one's superior
