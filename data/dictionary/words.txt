@@ -8271,7 +8271,7 @@
 8271	配属	配屬	pèishǔ	troops attached to a unit	noun	\N	\N	军事	Military	\N	\N	\N	\N	\N
 8272	子女	\N	zǐnǚ	children / sons and daughters	noun	\N	\N	家	Family	\N	\N	\N	zi3nv3.mp3	\N
 8273	继承人	繼承人	jìchéngrén	heir / successor	noun	\N	\N	法律	Law	\N	\N	\N	ji4cheng2ren2.mp3	\N
-8274	祖	\N	zǔ	ancestor / forefather / grandparent	noun	亲戚	Relative	家	Family	\N	\N	\N	zu3.mp3	\N
+8274	祖	\N	zǔ	ancestor / forefather / grandparent / predecessor	noun	亲戚	Relative	家	Family	\N	\N	\N	zu3.mp3	\N
 8275	祖父母	\N	zǔfùmǔ	paternal grandparents	noun	亲戚	Relative	家	Family	\N	\N	\N	zu3fu4mu3.mp3	\N
 8276	动产	動產	dòngchǎn	movable property /personal property / personal estate / goods / effects / chattels	noun	\N	\N	法律	Law	\N	\N	\N	dong4chan3.mp3	\N
 8277	不动产	不動產	bùdòngchǎn	real estate / immovable property / immovables	noun	\N	\N	法律	Law	\N	\N	\N	bu4dong4chan3.mp3	\N
@@ -9427,7 +9427,7 @@
 9427	屋子	\N	wūzi	a house / a room	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 9428	书架	書架	shūjià	bookshelf	noun	\N	\N	家具	Furniture	\N	\N	\N	\N	\N
 9429	收拾	\N	shōushi	to put in order / to tidy up	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
-9430	房间	房间	fángjiān	room	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
+9430	房间	房間	fángjiān	room	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 9431	朗读	朗讀	lǎngdú	to read aloud / read loudly and clearly	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 9432	思维	思維	sīwéi	thought / thinking	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 9433	打扫	打掃	dǎsǎo	to clean / to sweep	verb	\N	\N	卫生	Hygiene	\N	\N	\N	\N	\N
@@ -35284,10 +35284,10 @@
 35284	展览馆	展覽館	zhǎnlǎn guǎn	exhibition hall	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 35285	圣教	聖教	shèngjiāo	religious education / Buddhist education / Confucian education	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 35286	归趣	歸趣	guīqù	purpose / aim	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35287	庄主	莊主	zhuāngzhǔ	property manager in a temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An official title in a Chinese Buddhist temple
+35287	庄主	莊主	zhuāngzhǔ	property manager in a temple	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
 35288	禅刹	禪剎	chánshā	a Buddhist temple / a Chan temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Usually, a Chan (Zen) temple
 35289	领地	領地	lǐngdì	territory / land	noun	\N	\N	政府	Government	\N	\N	\N	\N	\N
-35290	维那	維那	wéinà	Karmadana / Vinaya Master	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Responsible for upholding rules and regulations in a temple
+35290	维那	維那	wéinà	Karmadana / Vinaya Master	proper noun	职事	Post	佛教	Buddhism	\N	\N	\N	\N	Responsible for upholding rules and regulations in a temple
 35291	执	執	zhí	a post / a position / a job	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhi2.mp3	\N
 35292	朔望	\N	shuòwàng	the new moon / the first day of the lunar month	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 35293	先祖	\N	xiānzǔ	deceased grandfather / ancestry	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -35384,7 +35384,7 @@
 35384	值日	\N	zhírì	on day duty	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 35385	移步	\N	yíbù	on day duty	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 35386	挪动	\N	nuódòng	to move / to shift	verb	\N	\N	移动	Movement	\N	\N	\N	\N	\N
-35387	圊头	圊頭	qīngtóu	Qing Tou	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A title at a Buddhist monastery, in charge of ...
+35387	圊头	圊頭	qīngtóu	Chief of Toilets	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
 35388	三时	三時	sān shí	the three periods of the day or night	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Buddhism a 24 hour period is divied into six periods, three in the day and three in the night
 35389	路灯	路燈	lùdēng	a street lamp / a street light	noun	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
 35390	净桶	淨桶	jìngtǒng	a toilet	noun	\N	\N	卫生	Hygiene	\N	\N	\N	\N	A polite term
@@ -35416,7 +35416,90 @@
 35416	招集	\N	zhāojí	to recruit / to gather together	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
 35417	就任	\N	jiùrèn	to take office / to assume a post	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
 35418	留任	\N	liúrèn	to remain in office	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
-35419	初八	\N	Chū bā	eighth day of lunar month	phrase	\N	\N	时间	Time	\N	\N	\N	\N	\N
+35419	初八	\N	chū bā	eighth day of a lunar month	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 35420	元月	\N	Yuányuè	first month of the lunar new year	proper noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 35421	宣布	宣佈	xuānbù	to declare / to announce	verb	\N	\N	政治	Politics	\N	\N	\N	xuan1bu4.mp3	\N
 35422	禀告	稟告	bǐnggào	to report	verb	\N	\N	工作	Work	\N	\N	\N	\N	to one's superior
+35423	上座	\N	shàngzuò	seat of honor	noun	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
+35424	学人	學人	xuérén	a scholar	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35425	届满	屆滿	jièmǎn	the end of fixed period in office / expiration of a term	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35426	祖训	祖訓	zǔxùn	the wishes of predecessors	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35427	遗训	祖訓	yíxùn	wishes of the deceased	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35428	邀约	邀約	yāoyuē	to invite / to make an appointment	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
+35429	初九	\N	chū jiǔ	ninth day of a lunar month	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
+35430	初十	\N	chū shí	tenth day of a lunar month	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
+35431	挂牌	掛牌	guàpái	to hang up a plate / to open up for business	verb	\N	\N	组织	Organization	\N	\N	\N	\N	\N
+35432	昭告	掛牌	zhāogào	to inform clearly	verb	\N	\N	通讯	Communications	\N	\N	\N	\N	\N
+35433	大和尚	\N	dà héshang	an abbot / a senior monk	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35434	纠察	糾察	jiūchá	to maintain order / to steward	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35435	晋	晉	jìn	to move forward / to promote / to advance	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35436	人选	人選	rénxuǎn	a choice of person / a candidate	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35437	声望	聲望	shēngwàng	popularity / prestige	noun	\N	\N	组织	Organization	\N	\N	\N	\N	\N
+35438	亦即	\N	yì jí	namely / that is	phrase	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+35439	物色	\N	wùsè	to look for / to seek / to choose / to see / to notice	verb	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+35440	才俊	\N	cáijùn	outstanding talent / outstanding ability	noun	\N	\N	能力	Ability	\N	\N	\N	\N	\N
+35441	才隽	才雋	cáijùn	outstanding talent / outstanding ability	noun	\N	\N	能力	Ability	\N	\N	\N	\N	\N
+35442	认作	認作	rènzuò	to regard as / to view / to consider something as / to treat as	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+35443	法子	\N	fǎzi	a Buddhist disciple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35444	法子	\N	fǎzi	a Dharma heir	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, a young monastic with high potential who has predicted to be a temple or Buddhist order elder in the future
+35445	参学	參學	cānxué	to be a visiting monastic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A monastic who visits another temple for a long term stay to learn how the other temple is managed and how practice is done there
+35446	任职	任職	rènzhí	to hold an office or post	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35447	光宗耀祖	\N	guāng zōng yào zǔ	to bring honor to one's ancestors	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+35448	选任	選任	xuǎnrèn	to elect	noun	\N	\N	组织	Organization	\N	\N	\N	\N	\N
+35449	签	籤	qiān	an inscribed bamboo stick	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Used in divination, gambling, drawing lots etc
+35450	签	籤	qiān	a small wood sliver / a label / a tag	noun	\N	\N	物料	Materials	\N	\N	\N	\N	\N
+35451	抽签	抽籤	chōuqiān	to perform divination with sticks / to draw lots / to have a ballot	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35452	相持不下	\N	xiàng chí bù xià	at a stalemate / deadlocked / in unrelenting mutual opposition	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+35453	看一看	\N	kàn yī kàn	to have a look	phrase	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+35454	机警	機警	jījǐng	perceptive / astute / sharp / sharp-witted / vigilant / alert	adjective	\N	\N	观察	Observation	\N	\N	\N	\N	\N
+35455	戒牒	\N	jièdié	precept certificate	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35456	寮元	\N	liáoyuán	Head of Room and Board	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	The monk in charge of a pilgrim's lodge at a Chan temple. One of the Forty-Eight Positions in a Chan monastery.
+35457	目送	\N	mùsòng	to follow with one's eyes	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	especially a departing guest
+35458	交待	\N	jiāodài	to hand over / to explain / to make clear / to brief / to account for / to justify oneself / to confess / to finish	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
+35459	清众	清眾	qīngzhòng	the monastic community	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35460	职事	職事	zhíshì	a post / a position	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35461	合力	\N	hélì	to cooperate	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35462	稟告	稟告	bǐnggào	to report	verb	\N	\N	工作	Work	\N	\N	\N	\N	to one's superior
+35463	代劳	代勞	dàiláo	to do something in place of somebody else	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35464	何谓	何謂	héwèi	what is the meaning of	phrase	\N	\N	虚词	Function Words	\N	\N	\N	\N	\N
+35465	都监	都監	dūjiàn	Executive	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35466	序职	序職	xù zhí	a post of seniority	noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	\N
+35467	列职	列職	liè zhí	a post of ability	noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	\N
+35468	悦众	悅眾	yuè zhòng	Crowd Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35469	祖侍	\N	zǔ shì	Attendant to Elders	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35470	烧香	燒香	shāoxiāng	Head of Devotees’ Gathering	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35471	记录	記錄	jìlù	Head of Records	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35472	衣钵	衣缽	yībō	Assistant of Abbot	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35473	汤药	湯藥	tāng yào	Medicinal Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35475	清眾	清眾	qīngzhòng	duty-less assistants	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35476	香灯	香燈	xiāng dēng	Shrine Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35477	堂主	\N	táng zhǔ	Hall Chief	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35478	座元	\N	zuò yuán	First Seat	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35479	藏主	\N	zàng zhǔ	Chief of Sutra Repository	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35480	知藏	\N	zhī zàng	Sutra Repository Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35481	參头	參頭	cān tóu	Eldest of the Chan Hall	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35482	司水	\N	sī shuǐ	Head of Water	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	for Bathing, one of the Forty-Eight Positions in a Chan monastery
+35483	监院	監院	jiàn yuàn	Temple Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35483	副寺	\N	jiàn yuàn	Assistant Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35484	库司	庫司	kù sī	Head of Accounting	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35485	监收	監收	jiàn shōu	Financial Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35486	磨头	磨頭	mó tóu	Head of the Mill	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35487	殿主	\N	diàn zhǔ	Shrine Warden	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35488	钟头	鐘頭	zhōngtóu	Chief of Bell	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35489	鼓头	鐘頭	gǔtóu	Chief of Drum	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35490	夜巡	鐘頭	yè xún	Night Patrol	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35491	典座	\N	diǎn zuò	Chief of Kitchen and Storage	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35492	貼案	贴案	tiē àn	Cook	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35493	饭头	飯頭	fàn tóu	Chief of Rice	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35494	菜头	菜頭	cài tóu	Chief of Vegetables	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35495	水头	水頭	shuǐ tóu	Chief of Water	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	For the kitchen, one of the Forty-Eight Positions in a Chan monastery
+35496	火头	火頭	huǒ tóu	Chief of Lighting Fire	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35497	茶头	茶頭	huǒ tóu	Chief of Lighting Fire	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35498	茶头	茶頭	chá tóu	Chief of Tea	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35499	行堂	\N	xíng táng	Chief of Table Service	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35500	门头	門頭	mén tóu	Chief of Monastery Gate	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35501	门头	門頭	mén tóu	Chief of Monastery Gate	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35502	园头	園頭	yuán tóu	Chief of Farming	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35503	园头	園頭	yuán tóu	Chief of Farming	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35504	照客	\N	zhào kè	Guest Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35505	四十八单	四十八單	sì shí bā dān	Forty-Eight Positions	phrase	\N	\N	佛教	Buddhism	禪宗	Chan School	\N	\N	The Forty-Eight Positions in a Chan monastery

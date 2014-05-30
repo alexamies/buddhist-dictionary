@@ -73,7 +73,7 @@ class GlossGenerator:
             markup += self._Paragraph('Translator: %s' % translator)
         if 'plain_text' in corpus_entry:
             plain_text = corpus_entry['plain_text']
-            markup += self._Paragraph('Source document: %s' % plain_text)
+            # markup += self._Paragraph('Source document: %s' % plain_text)
 
         reader = cjktextreader.CJKTextReader()
         text = None

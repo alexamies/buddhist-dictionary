@@ -28,6 +28,7 @@ def readWebToPlainText(doc_url):
     #for text_str in soup.strings:
     for tag in soup.find_all():
         text_str = tag.string
+        #print(text_str)
         if text_str and tag.name == u'p':
             text_str = '<p>' + text_str.strip() + '</p>'
         elif text_str and tag.name == u'div':

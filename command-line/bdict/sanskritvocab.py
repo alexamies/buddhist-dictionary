@@ -57,7 +57,7 @@ class SanskritVocabulary:
                         new_words[word] = 1
                     else:
                         new_words[word] += 1
-        print('## Vocabulary for %s\n' % infile)
+        print('## Vocabulary for %s [experimental]\n' % infile)
         print('### Word count\n')
         num_known = len(known_words)
         num_new = len(new_words)
