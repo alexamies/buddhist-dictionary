@@ -1,0 +1,129 @@
+<html lang="en" ng-app="sanskritQueryApp">
+  <head>
+    <meta charset="utf-8">
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
+    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+   </head>
+  <body ng-controller="sanskritQueryCtrl">
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+      </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="corpus.html">Texts</a></li>
+            <li class="active"><a href="tools.html">Tools</a></li>
+            <li><a href="dict_resources.html">Resources</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Sanksrit Word Search</h2>
+      <div class='search'>
+        <form name="textForm" id='searchForm' class="simple-form" ng-submit="submit()">
+          <input type='text' name='word' id='searchWord' size='50' ng-model="formData.word"/>
+          <input id='searchButton' type='submit' value='Search' title='Search'/>
+          <p class="panel-group" id="accordion">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                    Options
+                  </a>
+                </h4>
+              </div>
+              <div id="collapseOne" class="panel-collapse collapse">
+                <div class="panel-body">
+                   <div class="form-group">
+                     Match type: 
+                     <input type="radio" ng-model="formData.matchtype" name="matchtype" 
+                            id="matchtype-approx" value="approximate"/>
+                     <label for="matchtype-approx" class="control-label">approximate</label>
+                     <input type="radio" ng-model="formData.matchtype" name="matchtype" 
+                            id="matchtype-starts" value="starts"/>
+                     <label for="matchtype-starts" class="control-label">starts with</label>
+                   </div>
+                </div>
+              </div>
+            </div>
+          </p>
+          <p id="lookup-help-block" class="help-block">
+            Enter IAST, plain Latin, Devanāgarī, Traditional Chinese, or English and click Search.
+            Examples: tathāgata, Tathagata, तथागत, 如來, or Buddha. See 
+            <a href="/sanskrit_in_buddhism.html">Understanding Buddhist Sanskrit Terms</a> for 
+            and introduction to Sanskrit Buddhist terms and use electronic documents.
+          </p>
+        </form>
+      </div>
+      <p ng-if="results.msg">
+        {{results.msg}}
+      </p>
+      <table class="table table-bordered table-hover" ng-if="results.words">
+        <caption>Sanskrit Word Search Results</caption>
+        <thead>
+        <tr>
+          <th>IAST</th>
+          <th>Devanagari</th>
+          <th>Pali</th>
+          <th>Chinese</th>
+          <th>English</th>
+          <th>Grammar</th>
+          <th>Stem / Root</th>
+          <th>Notes</th>
+        </tr>
+          </thead>
+          <tbody>
+            <tr ng-repeat="word in results.words"">
+              <td>{{word.iast}}</td>
+              <td>{{word.devanagari}}</td>
+              <td>{{word.pali}}</td>
+              <td>{{word.traditional}}</td>
+              <td>{{word.english}}</td>
+              <td>{{word.grammar}}</td>
+              <td>{{word.pinyin}}</td>
+              <td>{{word.root}}</td>
+              <td>{{word.notes}}</td>
+            </tr>
+          </tbody>
+        </table>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013 - 2014, <a href="http://www.nantien.edu.au/" 
+        title="Nan Tien Institute">www.nantien.edu.au</a>.
+      </p>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-sanitize.js"></script>
+    <script src="script/sanskrit_query.js"></script>
+  </body>
+</html>

@@ -41,16 +41,14 @@ class SanskritDAO {
      * Gets Sanskrit words with the matching Latin, IAST, Devanagari, Pali, Chinese, or Enlish text
      * @return Array of Sanskrit word objects
      */
-    function getSanskrit($word) {
+    function getSanskrit($word, $matchtype='approximate') {
 
         $databaseUtils = new DatabaseUtils();
         $databaseUtils->getConnection();
         $word = $databaseUtils->escapeString($word);
 
-        // Perform SQL select operation 
-        $query = 
-            "SELECT DISTINCT id, word_id, latin, iast, devan, pali, traditional, english, notes, grammar, root " .
-            "FROM sanskrit " .
+        // Perform SQL select operation
+        $where = 
             "WHERE latin like '" . '%' . $word . '%' . "'" .
             " OR iast like '" . '%' . $word . '%' . "'" .
             " OR devan like '" . '%' . $word . '%' . "'" .
@@ -58,6 +56,19 @@ class SanskritDAO {
             " OR traditional like '" . '%' . $word . '%' . "'" .
             " OR english like '" . '%' . $word . '%' . "'"
             ;
+        if ($matchtype == 'starts') {
+            $where = 
+                "WHERE latin like '" . $word . '%' . "'" .
+                " OR iast like '" . $word . '%' . "'" .
+                " OR devan like '" . $word . '%' . "'" .
+                " OR pali like '" . $word . '%' . "'" .
+                " OR traditional like '" . $word . '%' . "'" .
+                " OR english like '" . $word . '%' . "'"
+                ;
+        }
+        $query = 
+            "SELECT DISTINCT id, word_id, latin, iast, devan, pali, traditional, english, notes, grammar, root " .
+            "FROM sanskrit $where";
         //error_log("getSanskrit, query: " . $query);
         $result =& $databaseUtils->executeQuery($query);
         $sanskrit = array();
