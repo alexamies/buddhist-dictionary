@@ -3,7 +3,7 @@ var textApp = angular.module('sanskritQueryApp', ['ngSanitize']);
 
 textApp.controller('sanskritQueryCtrl', function($scope, $http, $sce) {
   $scope.formData = {};
-  $scope.formData.matchtype = 'approximate';
+  $scope.formData.matchtype = 'contains';
   $scope.results = {};
   $scope.submit = function() {
     $scope.results = {"msg": "Searching"};

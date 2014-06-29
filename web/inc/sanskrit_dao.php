@@ -41,7 +41,7 @@ class SanskritDAO {
      * Gets Sanskrit words with the matching Latin, IAST, Devanagari, Pali, Chinese, or Enlish text
      * @return Array of Sanskrit word objects
      */
-    function getSanskrit($word, $matchtype='approximate') {
+    function getSanskrit($word, $matchtype='contains') {
 
         $databaseUtils = new DatabaseUtils();
         $databaseUtils->getConnection();
