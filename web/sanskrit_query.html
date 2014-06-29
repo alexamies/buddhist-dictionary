@@ -68,6 +68,9 @@
                             id="matchtype-approx" value="approximate"/>
                      <label for="matchtype-approx" class="control-label">approximate</label>
                      <input type="radio" ng-model="formData.matchtype" name="matchtype" 
+                            id="matchtype-exact" value="exact"/>
+                     <label for="matchtype-starts" class="control-label">exact</label>
+                     <input type="radio" ng-model="formData.matchtype" name="matchtype" 
                             id="matchtype-starts" value="starts"/>
                      <label for="matchtype-starts" class="control-label">starts with</label>
                    </div>
@@ -108,7 +111,6 @@
               <td>{{word.traditional}}</td>
               <td>{{word.english}}</td>
               <td>{{word.grammar}}</td>
-              <td>{{word.pinyin}}</td>
               <td>{{word.root}}</td>
               <td>{{word.notes}}</td>
             </tr>

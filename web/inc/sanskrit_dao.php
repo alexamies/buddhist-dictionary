@@ -65,6 +65,15 @@ class SanskritDAO {
                 " OR traditional like '" . $word . '%' . "'" .
                 " OR english like '" . $word . '%' . "'"
                 ;
+        } else if ($matchtype == 'exact') {
+            $where = 
+                "WHERE latin like '" . $word . "'" .
+                " OR iast like '" . $word . "'" .
+                " OR devan like '" . $word . "'" .
+                " OR pali like '" . $word . "'" .
+                " OR traditional like '" . $word . "'" .
+                " OR english like '" . $word . "'"
+                ;
         }
         $query = 
             "SELECT DISTINCT id, word_id, latin, iast, devan, pali, traditional, english, notes, grammar, root " .
