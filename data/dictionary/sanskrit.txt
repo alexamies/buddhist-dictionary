@@ -1389,7 +1389,7 @@
 1389	6888	sukta	sūkta	सूक्त	\N	偈	a hymn	Stem form	neuter	sūkta
 1390	6888	suktam	sūktam	सूक्तम्	\N	偈	a hymn	Nominative and Accusative case, singular form	neuter	sūkta
 1391	26965	amrtani	amṛtāni	अमृतानि	\N	甘露	immortality / immortals	Nominative and Accusative case, plural form	neuter	amṛta
-1392	2231	katham	kathaṃ	कथं	\N	如何	how	Interrogative pronoun, standard form is katham	indecl	katham
+1392	2231	katham	kathaṃ	कथं	\N	如何	how	Interrogative pronoun, ending modified for sandhi	indecl	katham
 1393	21078	sattva	sattvā	सत्त्वा	\N	有情	a being / a creature	Standard stem form is sattva	neuter	sattva
 1394	8847	mahasattvena	mahāsattvena	महासत्त्वेन	\N	摩訶薩、摩訶薩埵	mahasattva / mohasattva / a great being	Instrumental case, singular form.	masculine	mahāsattva
 1395	32930	pancasatyam	pañcaśatyāṃ	पञ्चशत्यां	\N	五百	five hundred	Accusative case	number	pañcaśatyā
@@ -1998,14 +1998,18 @@
 1998	1932	kartavyah	kartavyaḥ	कर्तव्य	\N	成	to be done or made or accomplished	Nominative form, singular case	adjective	kartavya
 1999	8238	patni	patnī	पत्नी	\N	妻	a wife	Stem form	feminine	patnī
 2000	8705	vapi	vāpī	वापी	\N	池	any pond / a large oblong pond / an oblong reservoir of water / tank / pool / lake	Stem form	feminine	vāpī
-2002	2388	sundari	sundarī	वापी	\N	美	beautiful / handsome / lovely / charming / agreeable	mf(ī)n, feminine form	adjective	sundarī
-2003	3794	ya	yā	या	\N	誰	who	Nominative case, singular form of the pronoun	feminine	yad
-2004	19634	madhyamakasastra	madhyamakaśāstra	मध्यमकशास्त्र	\N	中論	Fundamental Verses on the Middle Way	Treatise by Nagarjuna	proper_noun	\N
-2005	1003	naiva	naiva	नैव	\N	非	not and / neither	Negative compound formed from na + va	indecl	naiva
-2006	2808	svata	svatā	स्वता	\N	自	itself / ownership	Stem form	feminine	svatā
-2007	2808	svato	svato	स्वतो	\N	自	itself / ownership	Nominal and accusative form, modified for Sandhi	feminine	svatā
-2008	2808	svatah	svatāḥ	स्वताः	\N	自	itself / ownership	Nominal and accusative form	feminine	svatā
-2009	502	napi	nāpi	नापि	\N	不 / 非	not / no / nor / neither	Negative adverb	indecl	nāpi
-2010	35506	parata	paratā	परता	\N	異	highest degree / absoluteness	Stem form	feminine	paratā
-2011	35506	paratah	paratāḥ	परताः	\N	異	highest degree / absoluteness	Nominal and accusative form	feminine	paratā
-2012	35506	parato	parato	परतो	\N	異	highest degree / absoluteness	Nominal and accusative form, modified for Sandhi	feminine	paratā
+2001	2388	sundari	sundarī	सुन्दरी	\N	美	beautiful / handsome / lovely / charming / agreeable	mf(ī)n, feminine form	adjective	sundarī
+2002	3794	ya	yā	या	\N	誰	who	Nominative case, singular form of the pronoun	feminine	yad
+2003	19634	madhyamakasastra	madhyamakaśāstra	मध्यमकशास्त्र	\N	中論	Fundamental Verses on the Middle Way	Treatise by Nagarjuna	proper_noun	\N
+2004	1003	naiva	naiva	नैव	\N	非	not and / neither	Negative compound formed from na + va	indecl	naiva
+2005	2808	svata	svatā	स्वता	\N	自	itself / ownership	Stem form	feminine	svatā
+2006	2808	svato	svato	स्वतो	\N	自	itself / ownership	Nominal and accusative form, modified for Sandhi	feminine	svatā
+2007	2808	svatah	svatāḥ	स्वताः	\N	自	itself / ownership	Nominal and accusative form	feminine	svatā
+2008	502	napi	nāpi	नापि	\N	不 / 非	not / no / nor / neither	Negative adverb	indecl	nāpi
+2009	35506	parata	paratā	परता	\N	異	highest degree / absoluteness	Stem form	feminine	paratā
+2010	35506	paratah	paratāḥ	परताः	\N	異	highest degree / absoluteness	Nominal and accusative form	feminine	paratā
+2011	35506	parato	parato	परतो	\N	異	highest degree / absoluteness	Nominal and accusative form, modified for Sandhi	feminine	paratā
+2012	890	grama	grāma	ग्राम	\N	村	a village	Stem form	masculine	grāma
+2013	6244	rati	rati	रति	\N	休息	rest / repose	Stem form	feminine	rati
+2014	829	ati	ati	अति	\N	過	passing / going beyond	A prefix	indecl	ati
+2015	27164	nirmanakaya	nirmāṇakāya		निर्माणकाय	\N	應身	Body of Transformations / Transformation Body	An incarnation of the Buddha, a body capable of transformation	masculine	nirmāṇakāya
