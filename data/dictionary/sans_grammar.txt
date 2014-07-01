@@ -22,11 +22,12 @@ indecl_adj	indeclinable adjective	An adjective that is not modified based on gra
 masculine	Masculine noun	noun with masculine grammatical gender
 feminine	Feminine noun	noun with feminine grammatical gender
 neuter	Neuter noun	noun with neuter grammatical gender
-indecl	Indeclinable adjectives	Adjectives that do not change in form
+indeclinable	Indeclinable adjectives	Adjectives that do not change in form
 compound	Compound	A compound word
 verb8	Class VIII verb	\N
 number	Number	\N
 pp	past participle	\N
 interjection	Interjection	\N
 ordinal	Ordinal number	Used for ordering and counting
-gerund	gerund	A modification of a verb to serve as a noun
+gerund	Gerund	A modification of a verb to serve as a noun
+prefix	Prefix	Modifies a word by being prefixed
