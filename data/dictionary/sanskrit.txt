@@ -162,7 +162,7 @@
 162	19669	vasubandu	vasubandu	वसुबन्दु	\N	世親	Vasubandhu	\N	proper_noun	\N
 163	17740	trikaya	trikāya	त्रिकाय	\N	三身	Trikaya	Literally, three bodies	proper_noun	\N
 164	28075	dakini	ḍākinī	डाकिनी	\N	空行母	a dakini	\N	noun	\N
-165	28076	guru	guru	गुरु	\N	上師	a guru	\N	noun	\N
+165	28076	guru	guru	गुरु	\N	上師	a spiritual parent , preceptor	Stem form	masculine	guru
 166	28077	yogi	yogi	योगी	\N	瑜伽士	a yogi	\N	noun	\N
 167	28078	yogini	yoginī	योगिनी	\N	瑜伽女	a yogini	\N	noun	\N
 168	28079	kali	kālī	काली	\N	時母	Kali	\N	proper_noun	\N
@@ -259,23 +259,23 @@
 259	28163	kumbha mela	kumbha melā	कुम्भ मेला	\N	寶瓶節	Kumbh Mela , Kumbha Mela	\N	proper_noun	\N
 260	28166	haridvaram	haridvāram	हरिद्वारम्	\N	哈裡迪瓦爾	Haridwar , Hardwar	\N	proper_noun	\N
 261	26965	amrta	amṛta	अमृत	\N	甘露	amrita , sweet dew , the nectar of immortality , merit , immortality , an immortal	Stem form	neuter	amṛta
-262	311	sunya	śūnya	शून्य	\N	零	zero	Digit: ०	cardinal	śūnya
-263	301	eka	eka	एक	\N	一	one	Digit: १	cardinal	eka
-264	302	dvi	dvi	द्वि	\N	二	two	Digit: २	cardinal	dvi
-265	303	tri	tri	त्रि	ti	三	three	Digit: ३	cardinal	tri
-266	304	catur	catur	चतुर्	\N	四	four	Digit: ४	cardinal	catur
-267	305	panca	pañca	पञ्च	pañca	五	five	Digit: ५	cardinal	pañca
-268	306	sas	ṣaṣ	षष्	\N	六	six	Digit: ६	cardinal	ṣaṣ
-269	307	sapta	sapta	सप्त	\N	七	seven	Digit: ७	cardinal	sapta
-270	308	asta	aṣṭa	अष्ट	\N	八	eight	Digit: ८	cardinal	aṣṭa
-271	309	nava	nava	नव	\N	九	nine	Digit: ९	cardinal	nava
-272	310	dasa	daśa	दश	\N	十	ten	\N	cardinal	daśa
-273	313	sata	śata	शत	\N	百	hundred	\N	cardinal	śata
-274	314	sahasra	sāhasra	साहस्र	sahassī	千	thousand	\N	cardinal	sāhasra
-275	315	ayuta	ayuta	अयुत	\N	萬	ten thousand	\N	cardinal	ayuta
-276	28368	laksa	lakṣa	लक्ष	\N	十萬	one hundred thousand	\N	cardinal	lakṣa
-277	10945	koti	koṭi	कोटि	\N	千萬	ten million	\N	cardinal	koṭi
-278	28369	sanku	śaṅku	शङ्कु	\N	萬億	one trillion	\N	cardinal	śaṅku
+262	311	sunya	śūnya	शून्य	\N	零	zero	Digit: ०, mfn	adjective	śūnya
+263	301	eka	eka	एक	\N	一	one	Digit: १	adjective	eka
+264	302	dvi	dvi	द्वि	\N	二	two	Digit: २	adjective	dvi
+265	303	tri	tri	त्रि	ti	三	three	Digit: ३	adjective	tri
+266	304	catur	catur	चतुर्	\N	四	four	Digit: ४	adjective	catur
+267	305	panca	pañca	पञ्च	pañca	五	five	Digit: ५	adjective	pañca
+268	306	sas	ṣaṣ	षष्	\N	六	six	Digit: ६	adjective	ṣaṣ
+269	307	sapta	sapta	सप्त	\N	七	seven	Digit: ७	adjective	sapta
+270	308	asta	aṣṭa	अष्ट	\N	八	eight	Digit: ८	adjective	aṣṭa
+271	309	nava	nava	नव	\N	九	nine	Digit: ९	adjective	nava
+272	310	dasa	daśa	दश	\N	十	ten	\N	adjective	daśa
+273	313	sata	śata	शत	\N	百	hundred	\N	adjective	śata
+274	314	sahasra	sāhasra	साहस्र	sahassī	千	thousand	\N	adjective	sāhasra
+275	315	ayuta	ayuta	अयुत	\N	萬	ten thousand	\N	adjective	ayuta
+276	28368	laksa	lakṣa	लक्ष	\N	十萬	one hundred thousand	\N	adjective	lakṣa
+277	10945	koti	koṭi	कोटि	\N	千萬	ten million	\N	adjective	koṭi
+278	28369	sanku	śaṅku	शङ्कु	\N	萬億	one trillion	\N	adjective	śaṅku
 279	28374	vajradhatu	vajradhātu	वज्धातु	\N	金剛界	Vajradhatu , the Diamond Realm	\N	proper_noun	vajradhātu
 280	18096	vairocana	vairocana	वैरोचन	\N	大日如來、盧舍那佛、毗盧遮那佛	Vairocana Buddha	vairocana	proper_noun	\N
 281	17645	aksobhya	akṣobhya	अक्षोभ्य	\N	阿閃如來、阿閦如來、阿閦佛、東方動不如來	Aksobhya Buddha	Literally, the Immovable One	proper_noun	\N
@@ -367,7 +367,7 @@
 367	17992	vedana	vedanā	वेदना	vedanā	受、感受	feelings , sensations	One of the five aggregates	feminine	\N
 368	28434	vijnana	vijñāna	विज्ञान	\N	識	knowledge , mind , consciousness	\N	noun	\N
 369	28435	ayatana	āyatana	आयतन	āyatana	十二處	ayatana , sense bases , sense-media	\N	noun	\N
-370	8840	evam	evaṃ	एवं	\N	如是	thus , so	\N	indeclinable	evam
+370	8840	evam	evaṃ	एवं	\N	如是	thus , so	Modified for sandhi	indeclinable	evam
 371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	mad
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to , heard	\N	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
@@ -408,12 +408,12 @@
 408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person, singlular form of the active verb	verb1_3rd	√smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa , Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
-411	2566	iva	iva	इव	\N	如、若	to seem to be	Introduces a comparison preposition. The particle is enclitic.	conjunction	iva
+411	2566	iva	iva	इव	\N	如、若	to seem to be	A conjunction that introduces a comparison preposition. The particle is enclitic.	indeclinable	iva
 412	2231	kim	kim	किम्	\N	如何	what	A pronoun used in questions	pronoun	\N
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	indeclinable	api
-415	3811	iti	iti	इति	\N	爾、如是	thus	Used to mark the end of a sentence or a smaller part, espcially a quotation.	particle	\N
-416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	\N
+415	3811	iti	iti	इति	\N	爾、如是	thus	A particle used to mark the end of a sentence or a smaller part, espcially a quotation.	indeclinable	iti
+416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	ā + √nī
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
 418	5284	jayati	jayati	जयति	\N	勝、勝利、贏、獲勝	he conquers	Third person, singular form of the active verb	verb1_3rd	√ji
 419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees , he looks	Third person, singular form of the active verb	verb1_3rd	√paś
@@ -445,7 +445,7 @@
 445	20325	rajanyavartaka	rājanyāvartaka	राजन्यावर्तक	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 446	20325	rajavarta	rājāvarta	राजावर्त	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 447	20325	suvarnabha	suvarṇābha	सुवर्णाभ	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
-448	584	upa	upa	उप	\N	上	above	\N	indeclinable	\N
+448	584	upa	upa	उप	\N	上	at the time of , upon , up to , in , above	A prefix	indeclinable	upa
 449	3723	prach	prach	प्रछ्	\N	問	to ask	\N	verb6	\N
 450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	Third person, singular form of the active verb	verb6_3rd	√pṛach
 451	916	pravisati	praviśati	प्रविशति	\N	入	he enters , he goes into	\N	verb6_3rd	\N
@@ -549,7 +549,7 @@
 549	28921	abhirati	abhirati	अभिरति	\N	妙樂世界	Abhirati , the Eastern Buddhafield	Literally, joyous, the abode of Akshobhya	proper_noun	\N
 550	17743	yogacara	yogācāra	योगाचार	\N	瑜伽行唯識學派、瑜伽行唯識	Yogacara	An influential school of Buddhist philosophy and psychology	proper_noun	\N
 551	17648	ratnasambhava	ratnasaṃbhava	रत्नसंभव	\N	寳生如來	Ratnasambhava Buddha	\N	proper_noun	\N
-552	27134	krsna	kṛṣṇa	कृष्ण	\N	黑天	Krishna	The Hindu supreme lord	proper_noun	\N
+552	27134	krsna	kṛṣṇa	कृष्ण	\N	黑天	Krishna	The Hindu supreme lord	proper_noun	kṛṣṇa
 553	3181	bhagavad	bhagavad	भगवद्	\N	聖	holy , venerable , divine	\N	adjective	\N
 554	28927	arjuna	arjuna	अर्जुन	\N	阿周那	Arjuna	a central character in the Mahabharata	proper_noun	\N
 555	28930	koti	koṭi	कोटि	\N	俱胝	ten million	\N	feminine	\N
@@ -767,7 +767,7 @@
 767	21191	vipaka	vipāka	विपाक	vipāka	果報	the result of karma , result , effect , consequence	Stem form	masculine	vipāka
 768	762	ksaudrakya	kṣaudrakya	क्षौद्रक्य	\N	小	small	\N	adjective	\N
 769	2407	yukta	yukta	युक्त	\N	連	joined , connected	\N	adjective	\N
-770	11794	agama	āgama	आगम	āgama	阿含經、阿鋡、阿含暮、阿笈摩、阿含	Agama , sacred work , scripture	The divisions of the Sutra Pitaka	masculine	\N
+770	11794	agama	āgama	आगम	āgama	阿含經、阿鋡、阿含暮、阿笈摩、阿含	Agama , sacred work , scripture	The divisions of the Sutra Pitaka	masculine	āgama
 771	1003	naiva	naiva	नैव	neva	非	no all , hardly	\N	adverb	\N
 772	29978	trayastrimsat	trayastriṃśat	त्रयस्त्रिंशत्	\N	三十三	thirty three	The number 33	number	\N
 773	29977	trayastrijsatdeva	trāyastrijśatdeva	त्रायस्त्रिज्शत्देव	\N	三十三天	The Heaven of Thirty-Three Gods	One of the Xix Heavens of the Desire Realm	proper_noun	\N
@@ -784,7 +784,7 @@
 784	3889	iccha	icchā	इच्छा	\N	欲	want , wish , desire	\N	feminine	\N
 785	7778	etah	etāḥ	एताः	\N	這些、這	these	Plural	pronoun	\N
 786	8846	guna	guṇa	गुण	guṇa	相	a quality	\N	masculine	guṇa
-787	3348	eva	eva	एव	\N	真、眞	only , ever , true , very	An enclytic particle that serves to emphasize the word that precedes it	particle	\N
+787	3348	eva	eva	एव	\N	真、眞	only , ever , true , very	An enclytic particle that serves to emphasize the word that precedes it	indeclinable	eva
 788	8849	adbhuta	adbhuta	अद्भुत	\N	妙	extrordinary , wonderful	\N	adjective	\N
 789	271	esah	eṣaḥ	एषः	\N	這	this	\N	pronoun	saḥ
 790	518	sah	saḥ	सः	\N	他	him	Third person pronoun, nominative case, singular form	masculine	tad
@@ -1228,7 +1228,7 @@
 1228	35025	prathama	prathama	प्रथम	\N	第三人稱	third person	\N	masculine	prathama
 1229	35024	madhyama	madhyama	मध्यम	majjhimā	第二人稱	second person	\N	noun	\N
 1230	35023	uttama	uttama	उत्तम	\N	第一人稱	first person	\N	noun	\N
-1231	9334	eka	eka	एक	\N	單數	singular	In grammar	adjective	\N
+1231	9334	eka	eka	एक	\N	單數	singular	mfn, in grammar	adjective	eka
 1232	28453	dvi	dvi	द्वि	\N	雙數二	dual	In grammar	adjective	\N
 1233	9336	bahu	bahu	बहु	\N	複數、眾數	plural	\N	adjective	\N
 1234	412	vadami	vadāmi	वदामि	\N	說、告、云、言、曰	I say , I am speaking	The affix <em>āmi<,em> indicates first person singular	verb1_1st	√vad
@@ -1636,7 +1636,7 @@
 1636	398	smah	smaḥ	स्मः	\N	有	we both are	First person, plural form	verb	√as
 1637	17505	ativa	atīva	अतीव	\N	甚	very	\N	indeclinable	atīva
 1638	9315	aho	aho	अहो	\N	哎	hey!	An exclamation	indeclinable	aho
-1639	7147	kupita	kupita	कुपित	\N	嗔	provoked , incensed , offended , angry	Masculine and neuter form, feminine form ends in ā	adjective	kupita
+1639	7147	kupita	kupita	कुपित	\N	嗔	provoked , incensed , offended , angry	mf(ā)n	adjective	kupita
 1640	3670	dharmika	dhārmika	धार्मिक	\N	善	righteous , virtuous , pious , just	Masculine and neuter form, feminine form ends in ī	adjective	dhārmika
 1641	5084	bhita	bhīta	भीत	\N	恐	frightened , alarmed , terrified , timid , afraid of , imperilled by	Male and neuter form, feminine form ends in ā	adjective	bhīta
 1642	2543	pustakesu	pustakeṣu	पुस्तकेषु	\N	書	in the book	Locative case, singular form	neuter	pustaka
@@ -2024,3 +2024,39 @@
 2024	24945	asiddhi	asiddhi	असिद्धि	\N	未完成	imperfect accomplishment , failure	Stem form	feminine	asiddhi
 2025	24945	asiddhih	asiddhiḥ	असिद्धिः	\N	未完成	imperfect accomplishment , failure	Nominal case, singular form	feminine	asiddhi
 2026	24945	a	ā	आ	\N	未完成	a particle of reminiscence , back , return	A prefix	indeclinable	ā
+2027	275	ud	ud	उद्	\N	出	up , upwards	a particle and prefix to verbs and nouns. (As implying superiority in place , rank , station , or power)	indeclinable	ud
+2028	3220	udbhavati	udbhavati	उद्भवति	\N	生、出生	he is born	\N	compound	ud + √bhū
+2029	7979	uttisthati	uttiṣṭhati	उत्तिष्ठति	\N	站	he stands up	\N	compound	ud + √sthā
+2030	526	upa	upa	उप	\N	向	towards , near to	A preposition or prefix to verbs and nouns	indeclinable	upa
+2031	526	upagacchati	upagacchati	उपगच्छति	\N	向	he goes towards , he approaches	A compound verb	verb	upa + √gam
+2032	2260	kada	kadā	कदा	\N	何時	when? , at what time?	\N	indeclinable	kada
+2033	11243	kartr	kartṛ	कर्तृ	\N	作者	one who makes or does or acts or effects , a doer , maker , agent , author	\N	masculine	kartṛ
+2034	745	kula	kula	कुल	\N	家	a race , family , community , tribe , caste , set , company	Stem form	neuter	kula
+2035	745	kulam	kulam	कुलम्	\N	家	a race , family , community , tribe , caste , set , company	Nominative and accusative case, singular form	neuter	kula
+2036	493	krsna	kṛṣṇa	कृष्ण	\N	黑	black	mf(ā)n	adjective	kṛṣṇa
+2037	27134	krsnah	kṛṣṇaḥ	कृष्णः	\N	黑天	Krishna	Nominative case, singular form	proper_noun	kṛṣṇa
+2038	6281	gopayati	gopāyati	गोपायति	\N	護	he protects	\N	verb	√gup
+2039	3279	guru	guru	गुरु	\N	重	heavy , weighty	mf(vī)n	adjective	guru
+2040	3548	prati	prati	प्रति	\N	回	back , again , in return	A prefix to roots and their derivative nouns and other nouns	indeclinable	prati
+2041	3548	pratigacchati	pratigacchati	प्रतिगच्छति	\N	回	he returns , he goes back	A compound verb	verb	prati + √gam
+2042	28460	lan	laṅ	लङ्	\N	未完成時	the imperfect tense	In grammar	noun	laṅ
+2043	28460	anadyatana	anadyatana	लङ्	\N	未完成時	a tense not applicable to the current day	In grammar, either past or future	masculine	anadyatana
+2044	9298	agama	āgama	आगम	āgama	詞頭	a grammatical augment	A meaningless syllable or letter inserted in any part of the radical word	masculine	āgama
+2045	343	agacchat	agacchat	अगच्छत्	\N	去	he went	Imperfect, third person, singular	verb	a + √gam
+2046	3399	avadat	avadat	अवदत्	\N	云	he spoke	Imperfect	verb	a + √vad
+2047	1290	adadhat	adadhat	अदधत्	\N	放	he put	Imperfect	verb	a + √dha
+2048	1978	pratilabhate	pratilabhate	प्रतिलभते	\N	受	to receive back , recover	Imperfect	verb	prati + √labh
+2049	20811	pratigraha	pratigraha	प्रतिग्रह	\N	受事者	receiver	\N	masculine	prati + graha
+2050	1242	pratipattavyaṃ	pratipattavyaṃ	प्रतिग्रह	\N	應	on account of	Gerundive, accusative case, ending modified for sandhi	neuter	prati + pattavya
+2051	1242	pratipattavya	pratipattavya	प्रतिपत्तव्य	\N	應	on account of	Gerundive, accusative case	neuter	prati + pattavya
+2052	1242	pratipad	pratipad	प्रतिपत्तव्य	\N	應	conduct , practice , behavior	\N	neuter	prati + pad
+2053	8851	pratisthitena	pratiṣṭhitena	प्रतिष्ठितेन	\N	住	abiding	Instrumental case	adjective	\N
+2054	1510	pratisamya	pratiśāmya	प्रतिशाम्य	\N	收	to store away / to put away	Instrumental case	adjective	\N
+2055	343	agacchatam	agacchatām	अगच्छताम्	\N	去	those two went	Imperfect, third person, dual	verb	a + √gam
+2056	343	agacchan	agacchan	अगच्छन्	\N	去	they all went	Imperfect, third person, plural	verb	a + √gam
+2057	343	agacchah	agacchaḥ	अगच्छः	\N	去	you went	Imperfect, second person, singular	verb	a + √gam
+2058	343	agacchatam	agacchatam	अगच्छतम्	\N	去	both of you went	Imperfect, second person, dual	verb	a + √gam
+2059	343	agacchata	agacchata	अगच्छत	\N	去	you all went	Imperfect, second person, plural	verb	a + √gam
+2060	343	agaccham	agaccham	अगच्छम्	\N	去	I went	Imperfect, second first, singular	verb	a + √gam
+2061	343	agacchatava	agacchatāva	अगच्छताव	\N	去	we both went	Imperfect, second first, dual	verb	a + √gam
+2062	343	agacchatama	agacchatāma	अगच्छताम	\N	去	we all went	Imperfect, second first, plural	verb	a + √gam

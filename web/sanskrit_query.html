@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
-    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
+    <title>Sanskrit Word Search - NTI Buddhist Text Reader</title>
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
@@ -20,7 +20,7 @@
     <div class="starter-template">
       <div class="row">
         <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
-        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+        <div class="span7"><h1>NTI Buddhist Text Reader</h1></div>
       </div>
     </div>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
@@ -69,7 +69,7 @@
                      <label for="matchtype-contains" class="control-label">contains</label>
                      <input type="radio" ng-model="formData.matchtype" name="matchtype" 
                             id="matchtype-exact" value="exact"/>
-                     <label for="matchtype-starts" class="control-label">exact</label>
+                     <label for="matchtype-exact" class="control-label">exact</label>
                      <input type="radio" ng-model="formData.matchtype" name="matchtype" 
                             id="matchtype-starts" value="starts"/>
                      <label for="matchtype-starts" class="control-label">starts with</label>
@@ -92,34 +92,55 @@
       <table class="table table-bordered table-hover" ng-if="results.words">
         <caption>Sanskrit Word Search Results</caption>
         <thead>
-        <tr>
-          <th>IAST</th>
-          <th>Devanagari</th>
-          <th>Pali</th>
-          <th>Chinese</th>
-          <th>English</th>
-          <th>Grammar</th>
-          <th>Stem / Root</th>
-          <th>Notes</th>
-        </tr>
-          </thead>
-          <tbody>
-            <tr ng-repeat="word in results.words"">
-              <td>{{word.iast}}</td>
-              <td>{{word.devanagari}}</td>
-              <td>{{word.pali}}</td>
-              <td>{{word.traditional}}</td>
-              <td>{{word.english}}</td>
-              <td>{{word.grammar}}</td>
-              <td>{{word.root}}</td>
-              <td>{{word.notes}}</td>
-            </tr>
-          </tbody>
-        </table>
+          <tr>
+            <th>IAST</th>
+            <th>Devanagari</th>
+            <th>Pali</th>
+            <th>Chinese</th>
+            <th>English</th>
+            <th>Grammar</th>
+            <th>Stem / Root</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="word in results.words"">
+            <td>{{word.iast}}</td>
+            <td>{{word.devanagari}}</td>
+            <td>{{word.pali}}</td>
+            <td>{{word.traditional}}</td>
+            <td>{{word.english}}</td>
+            <td>{{word.grammar}}</td>
+            <td>{{word.root}}</td>
+            <td>{{word.notes}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <p class="panel-group" id="key-accordion">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title">
+              <a data-toggle="collapse" data-parent="key-accordion" href="#collapseKey">
+                Search Results Key
+              </a>
+            </h4>
+          </div>
+          <div id="collapseKey" class="panel-collapse collapse">
+            <div class="panel-body">
+              <p>
+                mf(ā)n - for adjectives, the masculine form is given and the ending feminine form is replaced by ā.
+              </p>
+              <p>
+                mf(ī)n - for adjectives, the masculine form is given and the ending feminine form is replaced by ī.
+              </p>
+            </div>
+          </div>
+        </div>
+      </p>
       <hr/>
       <p>
         Copyright Nan Tien Institute 2013 - 2014, <a href="http://www.nantien.edu.au/" 
-        title="Nan Tien Institute">www.nantien.edu.au</a>.
+        title="Nan Tien Institute">www.nantien.edu.au</a>. Last updated 7-1-2014.
       </p>
     </div>
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
