@@ -373,12 +373,12 @@
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
 374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	Verb root	verb	√bhū
 375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb	\N
-376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	\N	verb	\N
-377	5036	jivati	jīvati	जीवति	\N	活、生活	he lives	\N	verb1_3rd	jīv
+376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	\N	verb	√pā
+377	5036	jivati	jīvati	जीवति	\N	活、生活	he lives	\N	verb1_3rd	√jīv
 378	533	sravati	sravati	स्रवति	\N	流	to flow	\N	verb	\N
 379	1808	ghosati	ghoṣati	घोषति	\N	宣布、宣告	to proclaim	\N	verb	\N
 380	3996	svapati	svapati	स्वपति	\N	睡、睡覺	to sleep	\N	verb	\N
-381	343	gam	gam	गम्	\N	去	to go	\N	verb1	\N
+381	343	gam	gam	गम्	\N	去	to go	Root form	verb1	√gam
 382	707	man	man	मन्	\N	想、思	to think	Root form	verb	√man
 383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says , he is speaking	Third person singular form (~ti) of the active verb	verb1_3rd	√vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti<,em> indicates that a male is performing the action	verb4_3rd	nṛt
@@ -421,11 +421,11 @@
 421	340	ji	ji	जि	\N	勝利、勝、贏、獲勝	to conquer , to win	\N	verb1	\N
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
 423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see , to look	\N	verb1	\N
-424	3837	ni	nī	नी	\N	導	to lead , to take	Root form	verb1	nī
+424	3837	ni	nī	नी	\N	導	to lead , to take	Root form	verb1	√nī
 425	3837	nayati	nayati	नयति	\N	導	he takes , he  carries , he leads	Third person, singular form	verb1_3rd	√nī
 426	4794	bhram	bhram	भ्रम्	\N	流浪	to wander , to be confused	\N	verb1	\N
 427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders , he is confused	\N	verb1_3rd	bhram
-428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say , to speak	\N	verb1	\N
+428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say , to speak	Root form	verb1	√vad
 429	747	vas	vas	वस्	\N	住	to live , to dwell	Root form of the verb	verb1	\N
 430	747	vasati	vasati	वसति	\N	住	he lives , he dwells	Third person singular form	verb1_3rd	√vad
 431	10477	suc	śuc	शुच्	\N	悲痛、難過、悲哀、忉、慟	to grieve	\N	verb1	\N
@@ -724,7 +724,7 @@
 724	29795	sudurjaya	sudurjaya	सुदुर्जय	\N	難勝	very difficult to be overcome	\N	adjective	\N
 725	29796	abhimukhi	abhimukhī	अभिमुखी	\N	現前	before becoming a buddha	\N	adjective	\N
 726	29797	duraja	dūraja	दूरज	\N	遠行	born or living in a distant place	\N	adjective	\N
-727	11497	gama	gama	गम	\N	行	going	\N	adjective	\N
+727	11497	gama	gama	गम	\N	行	going	mf(ā)n	adjective	gama
 728	19410	acala	acala	अचल	\N	不動	steady , unmoving , immovable , immobile , stationary	\N	adjective	\N
 729	3396	megha	megha	मेघ	\N	雲	a cloud	\N	masculine	\N
 730	2485	madhyama	madhyama	मध्यम	majjhimā	中	middle , intermediate	\N	adjective	\N
@@ -793,7 +793,7 @@
 793	615	krta	kṛta	कृत	\N	夠	done with , put	\N	noun	\N
 794	12264	kutuhalin	kutūhalin	कुतूहलिन्	\N	好奇	curious , eager , impatient	\N	adjective	\N
 795	1260	calati	calati	चलति	\N	行	to walk , to move	\N	verb	\N
-796	3894	budh	budh	बुध्	\N	覺	awaken	In the process of awakening	verb	\N
+796	3894	budh	budh	बुध्	\N	覺	awaken	In the process of awakening, root form	verb	√budh
 797	3894	buddha	buddha	बुद्ध	\N	覺	awakened	Already awakened	verb	\N
 798	3368	sad	sad	सद्	\N	坐	sitting in , dwelling in	Root form	adjective	sad
 799	3368	sanna	sanna	सन्न	\N	坐	sat	Past particple	verb	sad
@@ -902,7 +902,7 @@
 902	32124	hri	hri	ह्री	hiri	慚	self-respect , conscientiousness , dignity	A mental factor in Buddhism	feminine	\N
 903	7221	apatrapya	apatrāpya	अपत्राप्य	ottappa	愧	shame , decorum , propriety	A mental factor in Buddhism	noun	\N
 904	32128	alobha	alobha	अलोभ	alobha	無貪	non-attachment	A mental factor in Buddhism	masculine	\N
-905	32130	drsti	dṛṣṭi	दृष्टि	diṭṭhi	見	view	\N	feminine	\N
+905	32130	drsti	dṛṣṭi	दृष्टि	diṭṭhi	見	view	Stem form	feminine	dṛṣṭi
 906	32132	vipasyana	vipaśyanā	विपश्यना	vipassanā	觀	insight	insight into the true nature of reality	neuter	\N
 907	27728	anapanasmrti	ānāpānasmṛti	आनापानस्मृति	ānāpānasati	安那般那	mindfulness of breathing	\N	noun	\N
 908	21706	atapah	ātapaḥ	आतपः	atappa	勇猛	ardency	A mental factor in Buddhism	masculine	\N
@@ -1011,7 +1011,7 @@
 1011	401	bahu	bahu	बहु	\N	多	many	Stem form	adjective	bahu
 1012	412	bhasita	bhāṣita	भाषित	\N	說	said	\N	adjective	\N
 1013	32344	atma	ātma	आत्म	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
-1014	412	vadamana	vadamāna	वदमान	\N	說	saying , speaking	\N	adjective	\N
+1014	412	vadamana	vadamāna	वदमान	\N	說	saying , speaking	\N	adjective	√vad
 1015	3896	jnata	jñāta	ज्ञात	\N	知	known	\N	adjective	\N
 1016	21940	adhimukta	adhimukta	अधिमुक्त	\N	知	known	\N	adjective	\N
 1017	6643	sthavira	sthavira	स्थविर	\N	長老	elder	\N	masculine	\N
@@ -2060,3 +2060,28 @@
 2060	343	agaccham	agaccham	अगच्छम्	\N	去	I went	Imperfect, second first, singular	verb	a + √gam
 2061	343	agacchatava	agacchatāva	अगच्छताव	\N	去	we both went	Imperfect, second first, dual	verb	a + √gam
 2062	343	agacchatama	agacchatāma	अगच्छताम	\N	去	we all went	Imperfect, second first, plural	verb	a + √gam
+2063	343	ita	ita	इत	\N	去	gone, returned	mfn	adjective	ita
+2064	343	ito	ito	इतो	\N	去	gone, returned	mfn, ending modified for sandhi	adjective	ita
+2065	1003	no	no	नो	\N	去	not	\N	indeclinable	no
+2066	4081	tvam	tvaṃ	त्वं	\N	汝、你	you	Nominative form for second person, singular personal pronoun, ending modified for sandhi	pronoun	tvad
+2067	11887	ya	ya	य	\N	拘	restraining , abandoning	\N	masculine	ya
+2068	32130	drstika	dṛṣṭika	दृष्टिक	diṭṭhika	見	having a belief in	At the end of compounds	feminine	dṛṣṭi
+2069	32130	drstikaih	dṛṣṭikaiḥ	दृष्टिकैः	\N	見	having a belief in	At the end of compounds	feminine	dṛṣṭi
+2070	3548	pratyagacchat	pratyagacchat	प्रत्यगच्छत्	\N	回	he returned	Infinitive	verb	prati + a + √gam
+2071	12186	srausi	śrauṣī	श्रौष्टी	\N	乖	willing , obedient	\N	adjective	śrauṣī
+2072	526	upagacchat	upāgacchat	उपागच्छत्	\N	向	he approached	Infinitive	verb	upa + a + √gam
+2073	526	nisada	niṣāda	निषाद	\N	向	a man of any degraded tribe , an out-caste	Stem form	masculine	niṣāda
+2074	3368	upanisad	upaniṣad	उपनिषद्	\N	坐	to sit down near to	\N	perfect tense	√sad
+2075	832	upanisad	upaniṣad	उपनिषद्	\N	使	cause , basis	\N	feminine	upaniṣad
+2076	1301	upanisad	upaniṣad	उपनिषद्	\N	同	likeness , comparison	\N	feminine	upaniṣad
+2077	581	upanisad	upaniṣad	उपनिषद्	\N	下	below	\N	feminine	upaniṣad
+2078	370	agaccham	āgaccham	आगच्छम्	\N	來	I came	Imperfect, second first, singular	verb	a + a + √gam
+2079	6281	gup	gup	गुप्	\N	護	to guard , defend , protect , preserve	Root form, active	verb	√gup
+2080	4358	pa	pā	पा	\N	飲	to drink , quaff , suck , sip , swallow	Root form, active	verb	√pā
+2081	3894	bodhati	bodhati	बोधति	\N	覺	he knows	In the process of awakening	verb	√budh
+2082	3894	bodhate	bodhate	बोधते	\N	覺	he knows	In the process of awakening	verb	√budh
+2083	5578	budbuda	budbuda	बुद्बुद	\N	泡	a bubble	Stem form	masculine	budbuda
+2084	5578	budbudam	budbudam	बुद्बुदम्	\N	泡	a bubble	Accusative case, singular form	masculine	budbuda
+2085	5863	paryupāsita	paryupāsita	पर्युपासित	\N	拜	worshipped , reverenced	mfn	adjective	paryupāsita
+2086	831	has	has	हस्	\N	笑	to laugh , smile , laugh at	Root form, active	verb	√has
+2087	831	hasati	hasati	हसति	\N	笑	he laughs	Present tense, third person, singular form	verb	√has
