@@ -404,7 +404,7 @@
 404	7979	asthah	asthāḥ	अस्थाः	\N	站	you stood	\N	verb	\N
 405	343	gatih	gatiḥ	गतिः	\N	去	to go	\N	verb	\N
 406	2137	dvah	dvāḥ	द्वाः	\N	門	door	\N	noun	\N
-407	1437	avagacchati	avagacchati	अवगच्छसि	\N	瞭解、明白、懂	he understands	\N	verb1_3rd	\N
+407	1437	avagacchati	avagacchati	अवगच्छति	\N	瞭解、明白、懂	he understands	Present tense	verb1_3rd	ava + √gam
 408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person, singlular form of the active verb	verb1_3rd	√smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa , Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
@@ -413,7 +413,7 @@
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	indeclinable	api
 415	3811	iti	iti	इति	\N	爾、如是	thus	A particle used to mark the end of a sentence or a smaller part, espcially a quotation.	indeclinable	iti
-416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	\N	verb1_3rd	ā + √nī
+416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	Present tense	verb1_3rd	ā + √nī
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
 418	5284	jayati	jayati	जयति	\N	勝、勝利、贏、獲勝	he conquers	Third person, singular form of the active verb	verb1_3rd	√ji
 419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees , he looks	Third person, singular form of the active verb	verb1_3rd	√paś
@@ -2025,7 +2025,7 @@
 2025	24945	asiddhih	asiddhiḥ	असिद्धिः	\N	未完成	imperfect accomplishment , failure	Nominal case, singular form	feminine	asiddhi
 2026	24945	a	ā	आ	\N	未完成	a particle of reminiscence , back , return	A prefix	indeclinable	ā
 2027	275	ud	ud	उद्	\N	出	up , upwards	a particle and prefix to verbs and nouns. (As implying superiority in place , rank , station , or power)	indeclinable	ud
-2028	3220	udbhavati	udbhavati	उद्भवति	\N	生、出生	he is born	\N	compound	ud + √bhū
+2028	3220	udbhavati	udbhavati	उद्भवति	\N	生、出生	he is born	Third person, singular form	present	ud + √bhū
 2029	7979	uttisthati	uttiṣṭhati	उत्तिष्ठति	\N	站	he stands up	\N	compound	ud + √sthā
 2030	526	upa	upa	उप	\N	向	towards , near to	A preposition or prefix to verbs and nouns	indeclinable	upa
 2031	526	upagacchati	upagacchati	उपगच्छति	\N	向	he goes towards , he approaches	A compound verb	verb	upa + √gam
@@ -2085,3 +2085,21 @@
 2085	5863	paryupāsita	paryupāsita	पर्युपासित	\N	拜	worshipped , reverenced	mfn	adjective	paryupāsita
 2086	831	has	has	हस्	\N	笑	to laugh , smile , laugh at	Root form, active	verb	√has
 2087	831	hasati	hasati	हसति	\N	笑	he laughs	Present tense, third person, singular form	verb	√has
+2088	343	gam	gam	गम्	\N	去	to go with the mind , observe , perceive , understand , guess	Root form	verb1	√gam
+2089	343	gam	gam	गम्	\N	去	to cause to understand , make clear or intelligible , explain	Root form	verb1	√gam
+2090	1437	avagatya	avagatya	अवगत्य	\N	瞭解、明白、懂	understanding	\N	gerund	ava + √gam
+2091	1437	avagamisyati	avagamiṣyati	अवगमिष्यति	\N	瞭解、明白、懂	will understand	\N	future	ava + √gam
+2092	1437	avagamya	avagamya	अवगम्य	\N	瞭解、明白、懂	having understood	\N	gerund	ava + √gam
+2093	370	agatya	āgatya	आगत्य	\N	來	having come	\N	gerund	ā + √gam
+2094	370	agamya	āgamya	आगम्य	\N	來	having come	\N	gerund	ā + √gam
+2095	370	agamisyati	āgamiṣyati	आगमिष्यति	\N	來	will come	\N	future	ā + √gam
+2096	776	aniya	ānīya	आनीय	\N	帶來、帶	having brought	\N	gerund	ā + √nī
+2097	776	anesyati	āneṣyati	आनेष्यति	\N	帶來、帶	will bring	\N	future	ā + √nī
+2098	3220	udbhuya	udbhūya	उद्भूय	\N	生、出生	having been born	\N	gerund	ud + √bhū
+2099	3220	udbhavisyati	udbhaviṣyati	उद्भविष्यति	\N	生、出生	will be born	\N	future	ud + √bhū
+2100	7115	bhavet	bhavet	भवेत्	\N	故	may be , granted , admitted	\N	verb	√bhū
+2101	1242	bhavisyanti	bhaviṣyanti	भविष्यन्ति	\N	應	they should / they will	Future tense, plural form of the verb	future	√bhū
+2102	1242	bhavisyati	bhaviṣyati	भविष्यति	\N	應	should / will	Future tense, third person, singular form of the verb	future	√bhū
+2103	1242	bhavisyasi	bhaviṣyasi	भविष्यसि	\N	應	you should / you will become	Future tense, second person, singular form of the verb	future	√bhū
+2104	1242	abhavisyat	abhaviṣyat	अभविष्यत्	\N	應	would have	Future conditional form of the verb	verb	a + √bhū
+
