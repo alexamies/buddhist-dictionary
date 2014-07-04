@@ -371,7 +371,7 @@
 371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	mad
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to , heard	\N	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
-374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	Verb root	verb	√bhū
+374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	A class I thematic verb root	verb	√bhū
 375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb	\N
 376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	\N	verb	√pā
 377	5036	jivati	jīvati	जीवति	\N	活、生活	he lives	\N	verb1_3rd	√jīv
@@ -1050,7 +1050,7 @@
 1050	5328	hetoh	hetoḥ	हेतोः	\N	何以	whence , why	Interrogative pronoun used to ask a question	pronoun	\N
 1051	3382	diz	diz	दिश्	\N	方	direction	\N	feminine	\N
 1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south , right	Stem form	adjective	dakṣiṇa
-1053	1802	pascima	paścima	पश्चिम	\N	西	west	\N	adjective	\N
+1053	1802	pascima	paścima	पश्चिम	\N	西	west	mf(ā)n	adjective	paścima
 1054	581	adhah	adhaḥ	अधः	\N	下	bottom , below	\N	indeclinable	\N
 1055	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	top , above	\N	indeclinable	ūrdhva
 1056	1324	ayata	āyata	आयत	\N	長	stretching , extending	\N	adjective	\N
@@ -1434,7 +1434,7 @@
 1434	1590	nanabhavam	nānābhāvāṃ	नानाभावां	\N	種	various	Accusative case, singular form	adjective	nānābhāvā
 1435	19631	bhutasamjna	bhūtasaṃjñā	भूतसंज्ञा	\N	實相	true appearance	A compound formed from the words bhūta (true) and saṃjñā (appearance)	adjective	bhūtasaṃjñā
 1436	7135	punyaskandhena	puṇyaskandhena	पुण्यस्कन्धेन	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Instrumental case, singular form.	masculine	puṇyaskandha
-1437	17908	idam	idam	इदम्	\N	是	this	stem form	adjective	idam
+1437	17908	idam	idam	इदम्	\N	是	this	Stem form	pronoun	idam
 1438	7173	unmada	unmāda	उन्माद	\N	狂亂	mad	stem form	adjective	unmāda
 1439	7173	unmadam	unmādaṃ	उन्मादं	\N	狂亂	mad	Accusative case, singular form	adjective	unmāda
 1440	756	svapna	svapna	स्वप्न	\N	夢	sleep , a dream	Stem form	adjective	svapna
@@ -2026,9 +2026,9 @@
 2026	24945	a	ā	आ	\N	未完成	a particle of reminiscence , back , return	A prefix	indeclinable	ā
 2027	275	ud	ud	उद्	\N	出	up , upwards	a particle and prefix to verbs and nouns. (As implying superiority in place , rank , station , or power)	indeclinable	ud
 2028	3220	udbhavati	udbhavati	उद्भवति	\N	生、出生	he is born	Third person, singular form	present	ud + √bhū
-2029	7979	uttisthati	uttiṣṭhati	उत्तिष्ठति	\N	站	he stands up	\N	compound	ud + √sthā
+2029	7979	uttisthati	uttiṣṭhati	उत्तिष्ठति	\N	站	he stands up	Third person, singular form	present	ud + √sthā
 2030	526	upa	upa	उप	\N	向	towards , near to	A preposition or prefix to verbs and nouns	indeclinable	upa
-2031	526	upagacchati	upagacchati	उपगच्छति	\N	向	he goes towards , he approaches	A compound verb	verb	upa + √gam
+2031	526	upagacchati	upagacchati	उपगच्छति	\N	向	he goes towards , he approaches	Present tense, third person, singular form of the verb	present	upa + √gam
 2032	2260	kada	kadā	कदा	\N	何時	when? , at what time?	\N	indeclinable	kada
 2033	11243	kartr	kartṛ	कर्तृ	\N	作者	one who makes or does or acts or effects , a doer , maker , agent , author	\N	masculine	kartṛ
 2034	745	kula	kula	कुल	\N	家	a race , family , community , tribe , caste , set , company	Stem form	neuter	kula
@@ -2062,7 +2062,7 @@
 2062	343	agacchatama	agacchatāma	अगच्छताम	\N	去	we all went	Imperfect, second first, plural	verb	a + √gam
 2063	343	ita	ita	इत	\N	去	gone, returned	mfn	adjective	ita
 2064	343	ito	ito	इतो	\N	去	gone, returned	mfn, ending modified for sandhi	adjective	ita
-2065	1003	no	no	नो	\N	去	not	\N	indeclinable	no
+2065	502	no	no	नो	\N	不	no , not	\N	indeclinable	no
 2066	4081	tvam	tvaṃ	त्वं	\N	汝、你	you	Nominative form for second person, singular personal pronoun, ending modified for sandhi	pronoun	tvad
 2067	11887	ya	ya	य	\N	拘	restraining , abandoning	\N	masculine	ya
 2068	32130	drstika	dṛṣṭika	दृष्टिक	diṭṭhika	見	having a belief in	At the end of compounds	feminine	dṛṣṭi
@@ -2071,7 +2071,7 @@
 2071	12186	srausi	śrauṣī	श्रौष्टी	\N	乖	willing , obedient	\N	adjective	śrauṣī
 2072	526	upagacchat	upāgacchat	उपागच्छत्	\N	向	he approached	Infinitive	verb	upa + a + √gam
 2073	526	nisada	niṣāda	निषाद	\N	向	a man of any degraded tribe , an out-caste	Stem form	masculine	niṣāda
-2074	3368	upanisad	upaniṣad	उपनिषद्	\N	坐	to sit down near to	\N	perfect tense	√sad
+2074	3368	upanisad	upaniṣad	उपनिषद्	\N	坐	to sit down near to	\N	perfect	√sad
 2075	832	upanisad	upaniṣad	उपनिषद्	\N	使	cause , basis	\N	feminine	upaniṣad
 2076	1301	upanisad	upaniṣad	उपनिषद्	\N	同	likeness , comparison	\N	feminine	upaniṣad
 2077	581	upanisad	upaniṣad	उपनिषद्	\N	下	below	\N	feminine	upaniṣad
@@ -2102,4 +2102,30 @@
 2102	1242	bhavisyati	bhaviṣyati	भविष्यति	\N	應	should / will	Future tense, third person, singular form of the verb	future	√bhū
 2103	1242	bhavisyasi	bhaviṣyasi	भविष्यसि	\N	應	you should / you will become	Future tense, second person, singular form of the verb	future	√bhū
 2104	1242	abhavisyat	abhaviṣyat	अभविष्यत्	\N	應	would have	Future conditional form of the verb	verb	a + √bhū
-
+2105	7979	utsthaya	utsthāya	उत्स्थाय	\N	站	having stood up	\N	gerund	ud + √sthā
+2106	7979	utsthasyati	utsthāsyati	उत्स्थास्यति	\N	站	will stand up	\N	future	ud + √sthā
+2107	526	upagatya	upagatya	उपगत्य	\N	向	having approached	\N	gerund	upa + √gam
+2108	526	upagamya	upagamya	उपगम्य	\N	向	having approached	\N	gerund	upa + √gam
+2109	526	upagamisyati	upagamiṣyati	उपगमिष्यति	\N	向	having approached	\N	gerund	upa + √gam
+2110	8853	hi	hi	हि	\N	也	indeed , assuredly , surely , of course , certainly	\N	indeclinable	hi
+2111	8853	hi	hi	हि	\N	也	for , because , on account of	\N	indeclinable	hi
+2112	1133	hi	hi	हि	\N	推進、送	to send forth , set in motion , impel , urge on , hasten on	\N	verb	√hi
+2113	17908	hidam	hīdam	हीदम्	\N	是	this	\N	compound	hi + idam
+2114	17908	hidam	hīdaṃ	हीदं	\N	是	this	Modified for sandhi	compound	hi + idam
+2115	3851	ras	rās	रास्	\N	喊	to howl , cry	Root form of the class II verb	verb	√rās
+2116	775	ras	rās	रास्	\N	給	to grant , give , bestow , impart , yield , surrender	Root form of the class II verb	verb	√rās
+2117	7117	nu	nu	नु	\N	寧	now , still , just , at once	Especially, at the beginning of a verse	indeclinable	nu
+2118	31554	tu	tu	तु	\N	復次	pray! I beg , do , now , then , but , still , nevertheless ,  though	Never found at the beginning of a sentence or verse	indeclinable	tu
+2119	3399	ah	ah	अह्	\N	云、說	to say , speak	Root form	verb	√ah
+2120	2710	yasca	yaśca	यश्च	\N	他人	and who	\N	compound	ya + ca
+2121	372	tatonidana	tatonidāna	ततोनिदान	\N	為	caused by that	mfn	adjective	tatonidāna
+2122	372	tatonidanam	tatonidānaṃ	ततोनिदानं	\N	為	caused by that	mfn	adjective	tatonidāna
+2123	22891	yas	yas	यस्	\N	努	to strive after	Root form of the class 4 verb	verb	√yas
+2124	807	sampad	sampad	सम्पद्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	\N	feminine	sampad
+2125	28434	samvid	saṃvid	संविद्	\N	識	consciousness , intellect , knowledge , understanding	\N	feminine	saṃ + vid
+2126	3896	samvid	saṃvid	संविद्	\N	知	to know together , know thoroughly , know , recognize	Root form for the class II verb	verb	saṃ + √vid
+2127	3896	yati	yati	यति	\N	知	an ascetic , devotee , one who has restrained his passions and abandoned the world	Stem form	masculine	yati
+2128	398	samvidyate	saṃvidyate	संविद्यते	saṃvijjate	有	is found , exists	From Edgerton	masculine	saṃvidyate
+2129	1802	pascime	paścime	पश्चिमे	\N	西	the west	\N	indeclinable	paścima
+2130	3512	ukta	ukta	उक्त	\N	言	uttered , said , spoken	mfn	adjective	ukta
+2130	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
