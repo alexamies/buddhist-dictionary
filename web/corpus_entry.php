@@ -9,7 +9,7 @@ require_once 'inc/markdown.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
-    <title>NTI Chinese-English Dictionary and Buddhist Text Project</title>
+    <title>NTI Buddhist Text Reader</title>
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
@@ -24,7 +24,7 @@ require_once 'inc/markdown.php';
     <div class="starter-template">
       <div class="row">
         <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
-        <div class="span7"><h1>NTI Chinese-English Dictionary and Buddhist Text Project</h1></div>
+        <div class="span7"><h1>NTI Buddhist Text Reader</h1></div>
       </div>
     </div>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">

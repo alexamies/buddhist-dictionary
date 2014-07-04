@@ -269,7 +269,7 @@
 269	307	sapta	sapta	सप्त	\N	七	seven	Digit: ७	adjective	sapta
 270	308	asta	aṣṭa	अष्ट	\N	八	eight	Digit: ८	adjective	aṣṭa
 271	309	nava	nava	नव	\N	九	nine	Digit: ९	adjective	nava
-272	310	dasa	daśa	दश	\N	十	ten	\N	adjective	daśa
+272	310	dasa	daśa	दश	\N	十	ten	Nominal and accusative case	adjective	daśan
 273	313	sata	śata	शत	\N	百	hundred	\N	adjective	śata
 274	314	sahasra	sāhasra	साहस्र	sahassī	千	thousand	\N	adjective	sāhasra
 275	315	ayuta	ayuta	अयुत	\N	萬	ten thousand	\N	adjective	ayuta
@@ -349,7 +349,7 @@
 349	28417	srivijayarajavamsah	śrīvijayarājavaṃśaḥ	श्रीविजयराजवंशः	\N	三佛齊	Srivijaya	An ancient kingdom in present day Indonesia	proper_noun	\N
 350	4757	sri	śrī	श्री	\N	倖	fortunate , prosperous , happy	\N	noun	\N
 351	340	vijaya	vijaya	विजय	\N	勝利	victorious , excellence	\N	noun	\N
-352	28422	bhagavan	bhagavān	भगवान्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Literally, Blessed One	proper_noun	\N
+352	28422	bhagavan	bhagavān	भगवान्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
 353	28423	canakya	cāṇakya	चाणक्य	\N	考底利耶	Chanakya	Circa 370–283 BCE, teacher of the first Maurya Emperor	proper_noun	\N
 354	23091	candragupta maurya mahana	candragupta maurya mahāna	चन्द्रगुप्त मौर्य महान	\N	旃陀羅笈多	Chandragupta Maurya , Chandragupta	C. 340－298 BCE, founded of the Maurya Empire	proper_noun	\N
 355	23093	maurya samrajyam	maurya sāmrājyam	मौर्य साम्राज्यम्	\N	孔雀王朝	Maurya Dynasty	\N	proper_noun	\N
@@ -1143,7 +1143,7 @@
 1143	747	vasa	vasa	वस	\N	住	to live , to dwell	Stem form of the verb	verb1	√vad
 1144	747	vasasi	vasasi	वससि	\N	住	you live , you dwell	Second person singular form of the verb	verb1	√vad
 1145	747	vasami	vasāmi	वसामि	\N	住	I live , I dwell	First person singular form of the verb	verb1	√vad
-1146	28422	bhagavan	bhagavan	भगवन्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Normally written as Bhagavān, the <em>ā<,em> may change to an <em>a<,em> for Sandhi.	proper_noun	\N
+1146	28422	bhagavan	bhagavan	भगवन्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Modified for Sandhi.	masculine	bhagavat
 1147	3811	khalu	khalu	खलु	\N	爾	now then , indeed , certainly	\N	indeclinable	khalu
 1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
 1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana , the practice of giving	Word ending modified for the accusive case	noun	\N
@@ -1168,7 +1168,7 @@
 1168	31047	atha	atha	अथ	\N	時	now , at that time	\N	indeclinable	\N
 1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. Nominative case, singular form.	masculine	puṇyaskandha
 1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma , the teachings of the Buddha	\N	proper_noun	\N
-1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Literally, Blessed One. Normally written as Bhagavān.	proper_noun	\N
+1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Literally, Blessed One. Modified for Sandhi.	masculine	bhagavat
 1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	tathāgata
 1173	4250	sukaram	sukaraṃ	सुकरं	\N	易	easy	Normally written as sukara but the word ending is modified here for Sanskrit grammar	adjective	\N
 1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
@@ -2129,3 +2129,9 @@
 2129	1802	pascime	paścime	पश्चिमे	\N	西	the west	\N	indeclinable	paścima
 2130	3512	ukta	ukta	उक्त	\N	言	uttered , said , spoken	mfn	adjective	ukta
 2130	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
+2131	28422	bhagavat	bhagavat	भगवत्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
+2132	28422	bhagavatya	bhagavatyā	भगवत्या	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Instrumental case, singular form	masculine	bhagavat
+2133	301	ekasmin	ekasmin	एकस्मिन्	\N	一	one	Locative case, singular, masculine or neuter form	adjective	eka
+2134	303	trayas	trayas	त्रयस्	\N	三	three	Nonmimal case, plural, masculine form	adjective	tri
+2135	310	dasan	daśan	दशन्	\N	十	ten	Stem form	adjective	daśan
+2136	310	dasabhis	daśabhis	दशभिस्	\N	十	ten	Instrumental case	adjective	daśan
