@@ -27,8 +27,8 @@ class SanskritVocabulary:
           corpus_entry: the corpus entry that contains the source file and other
                         information
         """
-        sdict = self._OpenDictionary()
-        cdict = self._OpenCompoundsList()
+        sdict = self.OpenDictionary()
+        cdict = self.OpenCompoundsList()
         combined_dict = dict(sdict.items() + cdict.items())
         directory = self.config['corpus_directory']
         infile = corpus_entry['plain_text']
@@ -43,10 +43,10 @@ class SanskritVocabulary:
             words = line.split()
             wc += len(words)
             for token in words:
-                word = _StripPunctuation(token)
+                word = StripPunctuation(token)
                 if not word:
                     continue
-                word = _ConvertNonStandard(word)
+                word = ConvertNonStandard(word)
                 if word in combined_dict:
                     if word not in known_words:
                         known_words[word] = 1
@@ -70,7 +70,7 @@ class SanskritVocabulary:
         print('### Frequency of new words')
         self._PrintFrequency(new_words)
 
-    def _OpenDictionary(self):
+    def OpenDictionary(self):
         """Reads the dictionary into memory
         """
         f = open(DICT_FILE_NAME, 'r')
@@ -93,7 +93,7 @@ class SanskritVocabulary:
                 sdict[entry['iast']] = entry
         return sdict
 
-    def _OpenCompoundsList(self):
+    def OpenCompoundsList(self):
         """Reads the dictionary into memory
         """
         f = open(COMPOUNDS_FILE_NAME, 'r')
@@ -140,7 +140,7 @@ class SanskritVocabulary:
             print("%s : %d<br/>" % (k, word_freq[k]))
 
 
-def _StripPunctuation(token):
+def StripPunctuation(token):
     """Strips punction and numbers from the token to make it a word.
 
     args:
@@ -149,7 +149,7 @@ def _StripPunctuation(token):
     return regex.sub('[\|\-\(\)\?\,0-9]', '', token)
 
 
-def _ConvertNonStandard(token):
+def ConvertNonStandard(token):
     """Strips punction and numbers from the token to make it a word.
 
     args:

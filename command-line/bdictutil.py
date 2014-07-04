@@ -11,6 +11,7 @@ from bdict import configmanager
 from bdict import corpusmanager
 from bdict import glossgenerator
 from bdict import postaggeraccuracy
+from bdict import sanskritglossgenerator
 from bdict import sanskritvocab
 from bdict import taggeddoc
 from bdict import taggeddocparser
@@ -110,7 +111,16 @@ def main():
         collection_file = GetCollectionFile(sys.argv)
         corpus = cmanager.LoadCorpus(collection_file)
         corpus_entry = corpus[doc_num-1]
-        generator = glossgenerator.GlossGenerator(wholetext=wholetext)
+        language = corpus_entry['language']
+        languages = ['Sanskrit', 'Chinese']
+        if language not in languages:
+            print('Language found %s is not supported' % language) 
+            print('Please use one of these languages: %s' % languages) 
+            sys.exit(2)
+        if language == 'Sanskrit':
+            generator = sanskritglossgenerator.GlossGenerator()
+        elif language == 'Chinese':
+            generator = glossgenerator.GlossGenerator(wholetext=wholetext)
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
     elif command == 'generatejson':
