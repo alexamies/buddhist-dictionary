@@ -72,10 +72,11 @@ class GlossGenerator:
                 for token in words:
                     punc = None
                     element = sanskritvocab.ConvertNonStandard(token).strip()
-                    if element.find('|') > 0:
-                        (element, punc) = self._extractPunc(element)
+                    match = re.search(r".*[\|,].*", element)
+                    if match:
+                       (element, punc) = self._extractPunc(element)
                     if element in combined_dict:
-                        print('element found: "%s"' % element)
+                        #print('element found: "%s"' % element)
                         entry = combined_dict[element]
                         entry_id = entry['id']
                         if 'no_parts' in entry: # Phrase
@@ -83,7 +84,7 @@ class GlossGenerator:
                         else: # Word
                             markup += self._Word(element, entry)
                     else:
-                        print('element not found: "%s"' % element)
+                        #print('element not found: "%s"' % element)
                         markup += self._Punctuation(element)
                     if punc:
                         markup += self._Punctuation(punc)
@@ -140,7 +141,15 @@ class GlossGenerator:
         """Extract punctuation from the element, returning the pair
         """
         i = element.find('|')
-        return (element[i:], element[:i])
+        if i > -1:
+            #print("i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
+            return (element[:i], element[i:])
+        i = element.find(',')
+        if i > -1:
+            return (element[:i], element[i:])
+        i = element.find('?')
+        if i > -1:
+            return (element[:i], element[i:])
 
     def _Paragraph(self, text):
         """Generates output text formatted for a paragraph.

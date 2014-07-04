@@ -2,6 +2,8 @@
 
 Description: The full text of the Sanskrit version of the Diamond Sutra.
 
+Reader: [HTML with Gloss] (corpus_entry.php?uri=gloss/diamond-sutra-sanskrit-gloss.html "HTML with Gloss")
+
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-sanskrit-analysis.md "Vocabulary analysis")
 
 Character Set: IAST

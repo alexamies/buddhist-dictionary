@@ -3,6 +3,7 @@
 
 The analysis is output in markdown format.
 """
+import codecs
 import regex
 
 from bdict import configmanager
@@ -33,30 +34,30 @@ class SanskritVocabulary:
         directory = self.config['corpus_directory']
         infile = corpus_entry['plain_text']
         fullpath = '%s/%s' % (directory, infile)
-        f = open(fullpath, 'r')
-        wc = 0
-        known_words = {}
-        new_words = {}
-        for line in f:
-            if line.find('---END---') != -1:
-                break
-            words = line.split()
-            wc += len(words)
-            for token in words:
-                word = StripPunctuation(token)
-                if not word:
-                    continue
-                word = ConvertNonStandard(word)
-                if word in combined_dict:
-                    if word not in known_words:
-                        known_words[word] = 1
+        with codecs.open(fullpath, 'r', "utf-8") as f:
+            wc = 0
+            known_words = {}
+            new_words = {}
+            for line in f:
+                if line.find('---END---') != -1:
+                    break
+                words = line.split()
+                wc += len(words)
+                for token in words:
+                    word = StripPunctuation(token)
+                    if not word:
+                        continue
+                    word = ConvertNonStandard(word)
+                    if word in combined_dict:
+                        if word not in known_words:
+                            known_words[word] = 1
+                        else:
+                            known_words[word] += 1
                     else:
-                        known_words[word] += 1
-                else:
-                    if word not in new_words:
-                        new_words[word] = 1
-                    else:
-                        new_words[word] += 1
+                        if word not in new_words:
+                            new_words[word] = 1
+                        else:
+                            new_words[word] += 1
         print('## Vocabulary for %s [experimental]\n' % infile)
         print('### Word count\n')
         num_known = len(known_words)
@@ -73,46 +74,46 @@ class SanskritVocabulary:
     def OpenDictionary(self):
         """Reads the dictionary into memory
         """
-        f = open(DICT_FILE_NAME, 'r')
-        sdict = {}
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            fields = line.split('\t')
-            if fields and len(fields) >= 10:
-                entry = {}
-                entry['id'] = fields[0]
-                entry['word_id'] = fields[1]
-                entry['latin'] = fields[2]
-                entry['iast'] = fields[3]
-                entry['dev'] = fields[4]
-                entry['pali'] = fields[5]
-                entry['traditional'] = fields[6]
-                entry['english'] = fields[7]
-                sdict[entry['iast']] = entry
+        with codecs.open(DICT_FILE_NAME, 'r', "utf-8") as f:
+            sdict = {}
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                fields = line.split('\t')
+                if fields and len(fields) >= 10:
+                    entry = {}
+                    entry['id'] = fields[0]
+                    entry['word_id'] = fields[1]
+                    entry['latin'] = fields[2]
+                    entry['iast'] = fields[3]
+                    entry['dev'] = fields[4]
+                    entry['pali'] = fields[5]
+                    entry['traditional'] = fields[6]
+                    entry['english'] = fields[7]
+                    sdict[entry['iast']] = entry
         return sdict
 
     def OpenCompoundsList(self):
         """Reads the dictionary into memory
         """
-        f = open(COMPOUNDS_FILE_NAME, 'r')
-        compounds_dict = {}
-        for line in f:
-            line = line.strip()
-            if not line:
-                continue
-            fields = line.split('\t')
-            if fields and len(fields) >= 7:
-                entry = {}
-                entry['id'] = fields[0]
-                entry['iast'] = fields[1]
-                entry['english'] = fields[2]
-                entry['traditional'] = fields[3]
-                entry['no_parts'] = fields[4]
-                entry['source'] = fields[5]
-                entry['notes'] = fields[6]
-                compounds_dict[entry['iast']] = entry
+        with codecs.open(COMPOUNDS_FILE_NAME, 'r', "utf-8") as f:
+            compounds_dict = {}
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                fields = line.split('\t')
+                if fields and len(fields) >= 7:
+                    entry = {}
+                    entry['id'] = fields[0]
+                    entry['iast'] = fields[1]
+                    entry['english'] = fields[2]
+                    entry['traditional'] = fields[3]
+                    entry['no_parts'] = fields[4]
+                    entry['source'] = fields[5]
+                    entry['notes'] = fields[6]
+                    compounds_dict[entry['iast']] = entry
         return compounds_dict
 
     def _PrintFrequencyLinks(self, word_freq, combined_dict):
