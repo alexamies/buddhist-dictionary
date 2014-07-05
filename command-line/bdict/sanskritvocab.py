@@ -81,7 +81,7 @@ class SanskritVocabulary:
                 if not line:
                     continue
                 fields = line.split('\t')
-                if fields and len(fields) >= 10:
+                if fields and len(fields) >= 11:
                     entry = {}
                     entry['id'] = fields[0]
                     entry['word_id'] = fields[1]
@@ -91,6 +91,9 @@ class SanskritVocabulary:
                     entry['pali'] = fields[5]
                     entry['traditional'] = fields[6]
                     entry['english'] = fields[7]
+                    entry['notes'] = fields[8]
+                    entry['grammar'] = fields[9]
+                    entry['stem'] = fields[10]
                     sdict[entry['iast']] = entry
         return sdict
 
@@ -104,7 +107,7 @@ class SanskritVocabulary:
                 if not line:
                     continue
                 fields = line.split('\t')
-                if fields and len(fields) >= 7:
+                if fields and len(fields) >= 8:
                     entry = {}
                     entry['id'] = fields[0]
                     entry['iast'] = fields[1]
@@ -112,7 +115,8 @@ class SanskritVocabulary:
                     entry['traditional'] = fields[3]
                     entry['no_parts'] = fields[4]
                     entry['source'] = fields[5]
-                    entry['notes'] = fields[6]
+                    entry['parts'] = fields[6]
+                    entry['notes'] = fields[7]
                     compounds_dict[entry['iast']] = entry
         return compounds_dict
 

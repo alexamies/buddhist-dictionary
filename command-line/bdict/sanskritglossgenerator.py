@@ -159,10 +159,11 @@ class GlossGenerator:
     def _Phrase(self, element_text, phrase_entry):
         """Generates output text formatted for a phrase.
         """
-        gloss = phrase_entry['english']
+        gloss = "%s | %s" % (phrase_entry['english'], phrase_entry['parts'])
+        parts = phrase_entry['parts'].split('+')
         # print('Output for phrase "%s"' % gloss)
-        entry_id = phrase_entry['id']
-        url = '/buddhistdict/phrase_detail.php?id=%s' % entry_id
+        word1 = parts[0].strip()
+        url = '/buddhistdict/sanskrit_query.php?word=%s' % word1
         return '<a href="%s" \n title="%s">%s</a> ' % (url, gloss, element_text)
 
     def _Punctuation(self, element_text):
@@ -192,7 +193,7 @@ class GlossGenerator:
         """Generates output text formatted for a word.
         """
         # print('_Word element_text = %s' % element_text)
-        gloss = entry['english']
+        gloss = "%s | stem / root: %s" % (entry['english'], entry['stem'])
         entry_id = entry['id']
         # print('_Word entry_id = %s' % entry_id)
         url = '/buddhistdict/sanskrit_query.php?word=%s' % element_text

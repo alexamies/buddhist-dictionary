@@ -27,5 +27,10 @@ End marker: 本網站係採用
 English	translation: Mark Siderits and shoryu Katsura, <i>Nāgārjuna's Middle Way: Mūlamadhyamakakārikā</i>. 
 2013, Wisdom Publications, ISBN 978-1-61429-050-6.
 
+Sanskrit: University of the West, Digital Sanskrit Buddhist Canon: Nāgārjuna, 1960. Mūlamadhyamakakārikā (Fundamental Verses on the Middle Way). 
+[Sanskrit text] (http://www.dsbcproject.org/node/8237 "Sanskrit text")
+
+Nāgārjuna, Candrakīrti, P. L Vaidya, and Mithila Institute of Post-Graduate Studies and Research in Sanskrit. 1960. Madhyamakaśāstra of Nāgārjuna. Darbhanga: Mithila Institute of Post-Graduate Studies and Research in Sanskrit learning.
+
 Notes: The English translation is derived from a Sanskrit version of the śāstra.
 
