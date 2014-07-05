@@ -287,7 +287,7 @@
 287	18638	aniruddha	aniruddha	अनिरुद्ध	\N	阿尼律陀	Aniruddha	\N	proper_noun	\N
 288	28385	tvastr	tvaṣṭṛ	त्वष्टृ	\N	陀濕多	Tvastar	\N	proper_noun	\N
 289	28386	vrtra	vṛtra	वृत्र	\N	弗栗多	Vritra	\N	proper_noun	\N
-290	3368	asana	āsana	आसन	\N	坐	to sit , a body position	\N	noun	\N
+290	3368	asana	āsana	आसन	\N	坐	sitting , sitting down	Stem form	neuter	āsana
 291	286	caitra	caitra	चैत्र	\N	一月	January	\N	proper_noun	\N
 292	287	vaisakha	vaiśākha	वैशाख	\N	二月、佛誕、佛誕日	February , Buddha's Birthday	\N	proper_noun	\N
 293	288	jyestha	jyeṣṭha	ज्येष्ठ	\N	三月	March	\N	proper_noun	\N
@@ -382,9 +382,9 @@
 382	707	man	man	मन्	\N	想、思	to think	Root form	verb	√man
 383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says , he is speaking	Third person singular form (~ti) of the active verb	verb1_3rd	√vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti<,em> indicates that a male is performing the action	verb4_3rd	nṛt
-385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	\N
-386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	\N
-387	3368	upavisati	upaviśati	उपविशति	\N	坐	he sits down	The affix <em>ti<,em> indicates that a male is performing the action	verb6_3rd	viś
+385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	√viś
+386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	√viś
+387	3368	upavisati	upaviśati	उपविशति	\N	坐	he sits down	The affix <em>ti<,em> indicates that a male is performing the action	verb6_3rd	√viś
 388	343	gacchati	gacchati	गच्छति	\N	去	he goes , she goes , it goes	Third person, singular form of the active verb	verb1_3rd	√gam
 389	370	agacchati	āgacchati	आगच्छति	\N	來	to come , he comes	Third person, singular form	verb1_3rd	ā + √gam
 390	1843	na	na	न	\N	無	no , not	Negation of the following verb	adverb	\N
@@ -2128,10 +2128,27 @@
 2128	398	samvidyate	saṃvidyate	संविद्यते	saṃvijjate	有	is found , exists	From Edgerton	masculine	saṃvidyate
 2129	1802	pascime	paścime	पश्चिमे	\N	西	the west	\N	indeclinable	paścima
 2130	3512	ukta	ukta	उक्त	\N	言	uttered , said , spoken	mfn	adjective	ukta
-2130	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
-2131	28422	bhagavat	bhagavat	भगवत्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
-2132	28422	bhagavatya	bhagavatyā	भगवत्या	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Instrumental case, singular form	masculine	bhagavat
-2133	301	ekasmin	ekasmin	एकस्मिन्	\N	一	one	Locative case, singular, masculine or neuter form	adjective	eka
-2134	303	trayas	trayas	त्रयस्	\N	三	three	Nonmimal case, plural, masculine form	adjective	tri
-2135	310	dasan	daśan	दशन्	\N	十	ten	Stem form	adjective	daśan
-2136	310	dasabhis	daśabhis	दशभिस्	\N	十	ten	Instrumental case	adjective	daśan
+2131	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
+2132	28422	bhagavat	bhagavat	भगवत्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
+2133	28422	bhagavatya	bhagavatyā	भगवत्या	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Instrumental case, singular form	masculine	bhagavat
+2134	301	ekasmin	ekasmin	एकस्मिन्	\N	一	one	Locative case, singular, masculine or neuter form	adjective	eka
+2135	303	trayas	trayas	त्रयस्	\N	三	three	Nonmimal case, plural, masculine form	adjective	tri
+2136	310	dasan	daśan	दशन्	\N	十	ten	Stem form	adjective	daśan
+2137	310	dasabhis	daśabhis	दशभिस्	\N	十	ten	Instrumental case	adjective	daśan
+2138	401	sambahula	saṃbahula	संबहुल	saṃbahula	多	many	Stem form, from Edgerton	adjective	saṃbahula
+2139	401	sambahulaisca	saṃbahulaiśca	संबहुलैश्च	\N	多	many	\N	adjective	saṃbahula
+2140	3034	pūrvāhṇa	pūrvāhṇa	पूर्वाह्ण	\N	上午	the earlier part of the day , forenoon	Stem form	masculine	pūrvāhṇa
+2141	4355	bhakta	bhakta	भक्त	\N	食	food or a meal	Stem form	neuter	bhakta
+2142	375	krtya	kṛtya	कृत्य	\N	作	to be done or performed	mfn	adjective	kṛtya
+2143	375	krtyas	kṛtyas	कृत्यस्	\N	作	to be done or performed	Nominative case, singular, masculine form	adjective	kṛtya
+2144	16870	nivas	nivas	निवस्	\N	著	to put on over another garment , to clothe or dress one's self	\N	verb	ni + √vas
+2145	16870	nivasayati	nivāsayati	निवासयति	\N	著	 to change one's clothes , to put on (a garment) , dress , clothe	\N	verb	ni + √vas
+2146	16870	nivasya	nivāsya	निवास्य	\N	著	to change one's clothes , to put on (a garment) , dress , clothe	\N	verb	ni + √vas
+2147	916	pra	pra	प्र	\N	入	before , forward , in front , on , forth	A prefix	indeclinable	pra
+2148	916	vis	viś	विश्	\N	入	to enter , enter in or settle down on , go into	Root form of the class 6 verb	verb6	√viś
+2149	916	aviksat	avikṣat	अविक्षत्	\N	入	to enter , enter in or settle down on , go into	Aorist, accusative, singular form	verb6	√viś
+2150	916	praviksat	prāvikṣat	प्राविक्षत्	\N	入	 to enter , enter in or settle down on , go into	Aorist, accusative, singular form with pra prefix	verb6	pra + √viś
+2151	1799	adaya	ādāya	आदाय	\N	持	taking , seizing	mfn	adjective	ādāya
+2152	33506	pata	pāta	पात	\N	故	happening , occurrence , appearance	mfn	adjective	pāta
+2153	343	kranta	krānta	क्रान्त	\N	去	gone , gone over or across	mfn	adjective	krānta
+2154	405	asana	āsana	आसन	\N	座	seat , place , stool	Stem form	neuter	āsana
