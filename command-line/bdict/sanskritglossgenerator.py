@@ -45,7 +45,9 @@ class GlossGenerator:
         if 'source_name' in corpus_entry:
             source_name = corpus_entry['source_name']
             markup += self._Title2(source_name)
-        markup += self._Paragraph('Mouse over Sanskrit words for English gloss')
+        markup += self._Paragraph('Mouse over Sanskrit words for English gloss'
+                                  ', click for dictionary entry. Click the'
+                                  ' word a second time to dismiss the popover.')
         if 'source_name' in corpus_entry:
             source = corpus_entry['source']
             markup += self._Paragraph('Source of document: %s' % source)
@@ -156,15 +158,24 @@ class GlossGenerator:
         """
         return '<p>%s</p>\n' % text
 
-    def _Phrase(self, element_text, phrase_entry):
+    def _Phrase(self, element_text, entry):
         """Generates output text formatted for a phrase.
         """
-        gloss = "%s | %s" % (phrase_entry['english'], phrase_entry['parts'])
-        parts = phrase_entry['parts'].split('+')
-        # print('Output for phrase "%s"' % gloss)
-        word1 = parts[0].strip()
-        url = '/buddhistdict/sanskrit_query.php?word=%s' % word1
-        return '<a href="%s" \n title="%s">%s</a> ' % (url, gloss, element_text)
+        title = "%s" % entry['english']
+        iast = "Compound: %s<br/>" % element_text
+        english = "English: %s<br/>" % entry['english']
+        parts = "Parts: %s<br/>" % entry['parts']
+        if 'traditional' in entry:
+            chinese = "Chinese: %s<br/>" % entry['traditional']
+        else:
+            chinese = ""
+        if 'notes' in entry:
+            notes = "Notes: %s" % entry['notes']
+        else:
+            notes = ""
+        content = "%s %s %s %s %s" % (iast, english, parts, chinese, notes)
+        return ('<a href="#" class="dict-entry" data-toggle="popover"'
+                ' title="%s" data-content="%s">%s</a>&nbsp; ') % (title, content, element_text)
 
     def _Punctuation(self, element_text):
         """Generates output text formatted for a punctuation element.
@@ -193,9 +204,23 @@ class GlossGenerator:
         """Generates output text formatted for a word.
         """
         # print('_Word element_text = %s' % element_text)
-        gloss = "%s | stem / root: %s" % (entry['english'], entry['stem'])
-        entry_id = entry['id']
+        title = "%s" % entry['english']
+        iast = "Word: %s<br/>" % element_text
+        english = "English: %s<br/>" % entry['english']
+        stem = "Stem / root: %s<br/>" % entry['stem']
+        dev = "Devanagari: %s<br/>" % entry['dev']
+        if 'pali' in entry:
+            pali = "Pali: %s<br/>" % entry['pali']
+        else:
+            pali = ""
+        chinese = "Chinese: %s<br/>" % entry['traditional']
+        grammar = "Grammar: %s<br/>" % entry['grammar']
+        if 'notes' in entry:
+            notes = "Notes: %s" % entry['notes']
+        else:
+            notes = ""
+        content = "%s %s %s %s %s %s %s %s" % (iast, english, stem, dev, pali, chinese, grammar, notes)
         # print('_Word entry_id = %s' % entry_id)
-        url = '/buddhistdict/sanskrit_query.php?word=%s' % element_text
-        return '<a href="%s" title="%s">%s</a> ' % (url, gloss, element_text)
+        return ('<a href="#" class="dict-entry" data-toggle="popover"'
+                ' title="%s" data-content="%s">%s</a>&nbsp;') % (title, content, element_text)
 

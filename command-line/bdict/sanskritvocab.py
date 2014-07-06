@@ -88,10 +88,12 @@ class SanskritVocabulary:
                     entry['latin'] = fields[2]
                     entry['iast'] = fields[3]
                     entry['dev'] = fields[4]
-                    entry['pali'] = fields[5]
+                    if fields[5] != '\N':
+                        entry['pali'] = fields[5]
                     entry['traditional'] = fields[6]
                     entry['english'] = fields[7]
-                    entry['notes'] = fields[8]
+                    if fields[8] != '\N':
+                        entry['notes'] = fields[8]
                     entry['grammar'] = fields[9]
                     entry['stem'] = fields[10]
                     sdict[entry['iast']] = entry
@@ -112,7 +114,8 @@ class SanskritVocabulary:
                     entry['id'] = fields[0]
                     entry['iast'] = fields[1]
                     entry['english'] = fields[2]
-                    entry['traditional'] = fields[3]
+                    if fields[3] != '\N':
+                        entry['traditional'] = fields[3]
                     entry['no_parts'] = fields[4]
                     entry['source'] = fields[5]
                     entry['parts'] = fields[6]

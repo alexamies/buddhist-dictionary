@@ -118,8 +118,8 @@
 118	18623	mahakasyapa	mahākāśyapa	महाकाश्यप	mahākassapa	大迦葉、迦葉摩騰	Mahakasyapa , Mahakassapa , kasyapa	\N	proper_noun	\N
 119	17659	vinaya	vinaya	विनय	vinaya	戒律、毗奈耶	Vinaya	\N	proper_noun	\N
 120	18636	ananda	ānanda	आनन्द	\N	阿难陀、阿难	Ananda	\N	proper_noun	\N
-121	6607	bhiksu	bhikṣu	भिक्षु	bhikkhu	比丘、出家人、僧侣、僧人、苾蒭、備芻	a monk , a bhikkhu	The Sanskrit term applies to monks, bhikṣuṇī is the term for nuns	noun	\N
-122	7201	bhiksuni	bhikṣuṇī	भिक्षुणी		比丘尼	a nun	\N	noun	\N
+121	6607	bhiksu	bhikṣu	भिक्षु	bhikkhu	比丘、出家人、僧侣、僧人、苾蒭、備芻	a Buddhist monk	The Sanskrit term applies to monks, bhikṣuṇī is the term for nuns	masculine	bhikṣu
+122	7201	bhiksuni	bhikṣuṇī	भिक्षुणी		比丘尼	a Buddhist nun	Stem form	feminine	\N
 123	6173	aryastangamarga	āryāṣṭāṅgamārga	आर्याष्टाङ्गमार्ग	ariyo aṭṭhaṅgiko maggo	八正道、八支正道、八支聖道、八聖道	The Noble Eightfold Path	\N	phrase	\N
 124	17656	pratityasamutpada	pratītyasamutpāda	प्रतीत्यसमुत्पाद	paticcasamuppāda	緣起	dependent arising	\N	noun	\N
 125	25035	buddhagaya	buddhagayā	बुद्धगया	\N	菩提伽耶	Bodh Gaya	\N	proper_noun	\N
@@ -180,7 +180,7 @@
 180	28083	durga	durgā	दुर्गा	\N	难近難	Durga	\N	proper_noun	\N
 181	28084	purana	purāṇa	पुराण	\N	往世書	Puranas	A genre of narratives of the history of the universe	proper_noun	\N
 182	28085	saktam	śāktaṃ	शाक्तं	\N	性力派	Shaktism	\N	proper_noun	\N
-183	5043	prajnaparamita	prajñāpāramitā	प्रज्ञापारमिता	\N	般若波羅蜜多	Prajnaparamita , Perfection of wisdom	Stem form	masculine	prajñāpāramitā
+183	5043	prajnaparamita	prajñāpāramitā	प्रज्ञापारमिता	paññāpāramī	般若波羅蜜、智慧波羅蜜、慧波羅蜜、明慧度無極	Prajnaparamita , Perfection of wisdom	Stem form	masculine	prajña + pāramita
 184	19518	nalanda	nālandā	नालंदा	nālandā	那爛陀	Nalanda	\N	proper_noun	\N
 185	27271	atisa	atiśa	अतिश	\N	阿底峽	Atisa , Atisha	\N	proper_noun	\N
 186	3163	anitya	anitya	अनित्य	anicca	無常、無主、非常	impermanence	\N	noun	\N
@@ -369,7 +369,7 @@
 369	28435	ayatana	āyatana	आयतन	āyatana	十二處	ayatana , sense bases , sense-media	\N	noun	\N
 370	8840	evam	evaṃ	एवं	\N	如是	thus , so	Modified for sandhi	indeclinable	evam
 371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	mad
-372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to , heard	\N	adjective	śruta
+372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to , heard	Accusative form	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
 374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	A class I thematic verb root	verb	√bhū
 375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb	\N
@@ -649,7 +649,7 @@
 649	3912	virya	vīrya	वीर्य	viriya	精進、勤、毘梨耶	to be diligent , to be absorbed and desirous to do better	\N	verb	\N
 650	29511	viryaparamita	vīryapāramitā	वीर्यपारमिता	viriyapāramī	精進波羅蜜、進波羅蜜、精進度無極	virya-paramita , the paramita of diligence	\N	phrase	\N
 651	29511	dhyanaparamita	dhyānapāramitā	ध्यानपारमिता	jhānapāramī	禪定波羅蜜、禪波羅蜜、禪那波羅蜜、禪度無極	dhyana-paramita , the paramita of meditative concentration	\N	phrase	\N
-652	29485	prajnaparamita	prajñāpāramitā	प्रज्ञापारमिता	paññāpāramī	智慧波羅蜜、慧波羅蜜、般若波羅蜜、明慧度無極	prajna-paramita , perfection of wisdom	\N	phrase	\N
+652	35516	upasamkramya	upasaṃkramya	उपसंक्रम्य	\N	近	the act of approaching , approach	\N	noun	upa + sam + kram
 653	29592	sadhu	sādhu	साधु	sādhu	善哉	excellent	Used in praise or agreement	indeclinable	\N
 654	21017	dharmaparyaya	dharmaparyāya	धर्मपर्याय	\N	法門	Dharmaparyaya , a Dharma door , a Buddhist teaching	Stem form	compound	dharmaparyāya
 655	29599	gandharva	gandharva	गन्धर्व	gandhabba	乾闥婆、揵達縛	a gandharva	A kind of mythical being known for musical skills	noun	\N
@@ -795,7 +795,7 @@
 795	1260	calati	calati	चलति	\N	行	to walk , to move	\N	verb	\N
 796	3894	budh	budh	बुध्	\N	覺	awaken	In the process of awakening, root form	verb	√budh
 797	3894	buddha	buddha	बुद्ध	\N	覺	awakened	Already awakened	verb	\N
-798	3368	sad	sad	सद्	\N	坐	sitting in , dwelling in	Root form	adjective	sad
+798	3368	sad	sad	सद्	\N	坐	sitting in , dwelling in	Stem form	adjective	sad
 799	3368	sanna	sanna	सन्न	\N	坐	sat	Past particple	verb	sad
 800	3368	nisanna	niṣaṇṇa	निषण्ण	\N	坐	seated	Past particple with the prefix ni (down)	verb	sad
 801	3076	kusuma	kusuma	कुसुम	\N	花	a flower , blossom , fruit	\N	noun	\N
@@ -1216,7 +1216,7 @@
 1216	394	param	param	परम्	\N	第一	foremost , first , completely , beyond	\N	indeclinable	param
 1217	1449	anu	aṇu	अणु	\N	少	fine , minute , atomic	mf(ī)n	adjective	aṇu
 1218	3199	taraka	tārakā	तारका	\N	星	a star	\N	feminine	\N
-1219	7205	nama	nama	नम	namo	南無	to take refuge , to praise , to call the name of	\N	verb	nama
+1219	7205	nama	nama	नम	namo	南無	homage , veneration	Especially used as an exclamation of adoration at the beginning of a book	neuter	nam
 1220	35018	anusvara	anusvāra	अनुस्वार	\N	隨韻	Anusvara , anusvāra	Causes the last vowel before it to be nasal (मं , ṃ)	masculine	\N
 1221	35019	visarga	visarga	विसर्ग	\N	止韻	visarga	A kind of unvoiced aspiration in Sanskrit and other Indic languages (ः , ḥ).	masculine	\N
 1222	343	gacchanti	gacchanti	गच्छन्ति	\N	去	they (all) go	The third person plural form of the verb gaccha	verb	√gam
@@ -1384,7 +1384,7 @@
 1384	28009	jnanam	jñānam	ज्ञानम्	\N	闍那、智	wisdom , knowledge	Nominative and Accusative case, singular form	neuter	jñāna
 1385	2648	vane	vane	वने	\N	林	in the forest	Locative case, singular form	neuter	vana
 1386	2648	vanam	vanam	वनम्	\N	林	a forest	Nominative and Accusative case, singular form	neuter	vana
-1387	6492	vajracchedika	vajracchedikā	वज्रच्छेदिका	\N	金剛	diamond cutter	Stem form	noun	vajracchedikā
+1387	6492	vajracchedika	vajracchedikā	वज्रच्छेदिका	\N	金剛	diamond cutter	\N	noun	vajra + chedaka
 1388	5111	satyam	satyam	सत्यम्	\N	諦	truth	Nominative and Accusative case, singular form	neuter	satya
 1389	6888	sukta	sūkta	सूक्त	\N	偈	a hymn	Stem form	neuter	sūkta
 1390	6888	suktam	sūktam	सूक्तम्	\N	偈	a hymn	Nominative and Accusative case, singular form	neuter	sūkta
@@ -1522,7 +1522,7 @@
 1522	584	urdhvam	ūrdhvaṃ	ऊर्ध्वं	\N	上	upright , elevated	Accusative case, singular form	adjective	ūrdhva
 1523	32463	ucchedo	ucchedo	उच्छेदो	\N	斷	end , destruction , annihilation	Nominative case, singular form modified for sandhi	masculine	uccheda
 1524	27609	sakya	śakyā	शक्या	\N	釋迦族	Sakya Clan , Shakya Clan	Nominative case, plural form with ending modified for sandhi	masculine	śākya
-1525	7205	namo	namo	नमो	\N	南無	name	Nominative case, singular form namaḥ with word ending modified for sandhi	masculine	nama
+1525	7205	namo	namo	नमो	namo	南無	homage , veneration	Especially used as an exclamation of adoration at the beginning of a book	neuter	nam
 1526	27320	ksantim	kṣāntiṃ	क्षान्तिं	\N	忍辱、羼提、忍	forbearance , tolerance	Accusative case, singular form	feminine	kṣānti
 1527	707	nidhyata	nidhyāta	निध्यात	\N	想	meditated on , thought on	Stem form	adjective	nidhyāta
 1528	707	nidhyatah	nidhyātaḥ	निध्यातः	\N	想	meditated on , thought on	Nominative case, singular form	adjective	nidhyāta
@@ -1697,7 +1697,7 @@
 1697	29352	prthivyam	pṛthivyām	पृथिव्याम्	\N	著地	on the ground	\N	indeclinable	pṛthivyām
 1698	29352	prthivyam	pṛthivyāṃ	पृथिव्यां	\N	著地	on the ground	Accusative case, singular form	indeclinable	pṛthivyām
 1699	1114	mahatā	mahatā	महता	\N	大	greatness , mightiness	Stem form	feminine	mahatā
-1700	4348	viharati	viharati	विहरति	\N	遊	travel	he walks	verb	√vihṛ
+1700	4348	viharati	viharati	विहरति	\N	遊	travel , roam	\N	verb	vi + √hṛ
 1701	7193	sayyam	śayyāṃ	शय्यां	\N	臥	bed , lying down , sleep	Accusative case, singular form	masculine	śayyā
 1702	33276	vyakrta	vyākṛta	व्याकृत	\N	記	analyzed , expounded , explained , predicted	Masculine and neuter form, feminine form ends in ā	masculine	vyākṛta
 1703	1590	nanabhavah	nābhāvaḥ	नानाभावां	\N	種	various	Nominative case, singular form	adjective	nānābhāvā
@@ -1707,7 +1707,7 @@
 1707	280	srotum	śrotuṃ	श्रोतुं	\N	聽	hearing	Accusative case, singular form with ending modified for sandhi	masculine	śrotu
 1708	30865	parimocita	parimocitā	परिमोचिता	\N	度	liberated , emancipated	Feminine form	adjective	parimocita
 1709	32697	andaja	aṇḍajā	आण्डज	\N	卵生	born from an egg , oviparous	Feminine form or nominative case, plural masculine form	adjective	āṇḍaja
-1710	35157	trisatika	triśatikā	त्रिशतिका	\N	三百	three hundred	\N	cardinal	triśatikā
+1710	35157	trisatika	triśatikā	त्रिशतिका	\N	三百	three hundred	\N	adjective	tri + śataka
 1711	25307	sravastyam	śrāvastyāṃ	श्रावस्त्यां	\N	舍衛	Sravasti	Locative case with sandhi applied to word end	proper_noun	śrāvastī
 1712	518	tad	tad	तद्	\N	他	him	Third person personal pronoun, stem form	masculine	tad
 1713	521	te	te	ते	\N	他們	them	Third person personal pronoun, nominative case, plural form  	masculine	tad
@@ -1797,7 +1797,7 @@
 1797	3273	bilam	bilam	बिलम्	\N	洞	a hole , a cave , a pit , an opening , an aperture	Accusative case, singular form	neuter	bila
 1798	3794	ka	ka	क	\N	谁	who	Integative pronoun, stem form	masculine	ka
 1799	1801	paurva	paurva	पौर्व	\N	東	eastern	Stem form, masculine and neuter form, feminine form ends in ī	adjective	paurva
-1800	1801	sma	sma	स्म	\N	東	was , ever , always	a particle perhaps originally equivalent to ever or always, makes the verb before it into the past tense	indeclinable	sma
+1800	3858	sma	sma	स्म	\N	常	was , ever , always	a particle perhaps originally equivalent to ever or always, makes the verb before it into the past tense	indeclinable	sma
 1801	8680	arita	ārita	आरित	\N	讚	praised	Stem form, masculine and neuter	adjective	ārita
 1802	3728	ganganadyo	gaṅgānadyo	गङ्गानद्यो	\N	恆河	in the Ganges River	Locative case, singular form	masculine	gaṅgānada
 1803	3728	gangayam	gaṅgāyāṃ	गङ्गायां	\N	恆河	in the Ganges	Locative case, singular form gaṅgāyām modified for sandhi	feminine	gaṅgā
@@ -2163,3 +2163,22 @@
 2163	8494	dhaya	dhāya	धाय	\N	具	having , possessing	mfn	adjective	dhāya
 2164	8494	upastha	upastha	उपस्थ	\N	具	standing upon	mfn	adjective	upastha
 2165	1260	kramat	krāmat	क्रामत्	\N	行	walking , going	mfn	adjective	krāmat
+2166	32107	prajnapta	prajñapta	प्रज्ञप्त	\N	想	concept , conception	\N	noun	prajñapta
+2167	3368	nyasidat	nyaṣīdat	न्यषीदत्	\N	坐	sat down	\N	verb	ni + √sad
+2168	32107	bhiksavah	bhikṣavaḥ	भिक्षवः	\N	比丘、出家人、僧侣、僧人、苾蒭、備芻	monks	Nominative case, plural, masculine form	masculine	bhikṣu
+2169	3368	sad	sad	सद्	\N	坐	to sit down	Class 1 or class 6 verb	verb1	√sad
+2170	32107	bhikṣavo	bhikṣavo	भिक्षवो	\N	比丘、出家人、僧侣、僧人、苾蒭、備芻	monks	Nominative case, plural, masculine form	masculine	bhikṣu
+2171	734	rju	ṛju	ऋजु	\N	直	tending in a straight direction , straight	mfn	adjective	ṛju
+2172	734	rjum	ṛjum	ऋजुम्	\N	直	tending in a straight direction , straight	Accusative case	adjective	ṛju
+2173	734	rjum	ṛjuṃ	ऋजुं	\N	直	tending in a straight direction , straight	Accusative case with sandhi	adjective	ṛju
+2174	6686	tathāgatas	tathāgatas	तथागतस्	\N	如來	Tathagata	Nominative case, singular form	masculine	tathāgata
+2175	644	chedaka	chedaka	छेदक	\N	切	cutting off	mfn	adjective	chedaka
+2176	644	chedikā	chedikā	छेदिका	\N	切	cutting off	Nominative case, singular form, feminine	adjective	chedaka
+2177	7205	nam	nam	नम्	\N	南無	to bow to , subject or submit , one's self	Root form of the verb	verb1	√nam
+2178	313	sataka	śataka	शतक	\N	百	consisting of a hundred , comprising or amounting to a hundred	mf(ikā)n	adjective	śataka
+2179	313	satika	śatikā	शतिका	\N	百	consisting of a hundred , comprising or amounting to a hundred	Nominative case, singular form	adjective	śataka
+2180	1260	kram	kram	क्रम्	\N	行	to step , walk , go , go towards , approach	Root form	verb1	√kram
+2181	1260	kramya	kramya	क्रम्य	\N	行	to step , walk , go , go towards , approach	Absolutive form	verb1	√kram
+2182	4348	vihr	vihṛ	विहृ	\N	遊	to roam , wander through	Root form with prefix	verb1	vi + √hṛ
+2183	441	hr	hṛ	विहृ	\N	承	to take , bear , carry in or on	Root form	verb1	√hṛ
+2184	13134	vi	vi	विहृ	\N	散	apart , asunder , in different directions , to and fro , about , away , away from , off , without	It is especially used as a prefix to verbs or nouns and other parts of speech derived from verbs, to express division , distinction , distribution , arrangement, order, opposition, or deliberation	indeclinable	vi

@@ -11,7 +11,7 @@ require_once 'inc/markdown.php';
     <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
     <title>NTI Buddhist Text Reader</title>
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -77,7 +77,16 @@ if (isset($text)) {
         the <a href="http://www.cbeta.org/copyright_e.htm">CBETA Copyright</a> conditions.
       </p>
     </div>
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
-    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+      $(function () {
+        $('.dict-entry').tooltip();
+        $('.dict-entry').popover({
+          trigger: 'click',
+          html: true
+         });
+      });
+    </script>
   </body>
 </html>
