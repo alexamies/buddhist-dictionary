@@ -2035,7 +2035,7 @@
 2035	745	kulam	kulam	कुलम्	\N	家	a race , family , community , tribe , caste , set , company	Nominative and accusative case, singular form	neuter	kula
 2036	493	krsna	kṛṣṇa	कृष्ण	\N	黑	black	mf(ā)n	adjective	kṛṣṇa
 2037	27134	krsnah	kṛṣṇaḥ	कृष्णः	\N	黑天	Krishna	Nominative case, singular form	proper_noun	kṛṣṇa
-2038	6281	gopayati	gopāyati	गोपायति	\N	護	he protects	\N	verb	√gup
+2038	6281	gopayati	gopāyati	गोपायति	\N	護	he protects	Present tense, third person, singular form	verb4	√gup
 2039	3279	guru	guru	गुरु	\N	重	heavy , weighty	mf(vī)n	adjective	guru
 2040	3548	prati	prati	प्रति	\N	回	back , again , in return	A prefix to roots and their derivative nouns and other nouns	indeclinable	prati
 2041	3548	pratigacchati	pratigacchati	प्रतिगच्छति	\N	回	he returns , he goes back	A compound verb	verb	prati + √gam
@@ -2189,3 +2189,8 @@
 2189	8680	vandya	vandya	वन्द्य	\N	讚	to be praised , praiseworthy	mfn	adjective	vandya
 2190	301	ekam	ekām	एकाम्	\N	一	one	Accusive case, singular form	adjective	eka
 2191	3368	nyasidan	nyaṣīdan	न्यषीदन्	\N	坐	sat down	Imperfect, accusive	verb	ni + √sad
+2192	6281	gopitva	gopitvā	गोपित्वा	\N	護	having protected	Gerund	verb4	√gup
+2193	6281	gopsyati	gopsyati	गोप्स्यति	\N	護	will protect	Future	verb4	√gup
+2194	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb1	√cint
+2195	707	cintayisyati	cintayiṣyati	चिन्तयिष्यति	\N	想	will think	Future active voice	verb1	√cint
+2196	707	cintayisyate	cintayiṣyate	चिन्तयिष्यते	\N	想	will think	Future middle voice	verb1	√cint
