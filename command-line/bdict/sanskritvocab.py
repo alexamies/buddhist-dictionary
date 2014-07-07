@@ -95,7 +95,8 @@ class SanskritVocabulary:
                     if fields[8] != '\N':
                         entry['notes'] = fields[8]
                     entry['grammar'] = fields[9]
-                    entry['stem'] = fields[10]
+                    if fields[10] != '\N':
+                        entry['stem'] = fields[10]
                     sdict[entry['iast']] = entry
         return sdict
 
@@ -119,7 +120,8 @@ class SanskritVocabulary:
                     entry['no_parts'] = fields[4]
                     entry['source'] = fields[5]
                     entry['parts'] = fields[6]
-                    entry['notes'] = fields[7]
+                    if fields[7] != '\N':
+                        entry['notes'] = fields[7]
                     compounds_dict[entry['iast']] = entry
         return compounds_dict
 

@@ -45,7 +45,8 @@ class GlossGenerator:
         if 'source_name' in corpus_entry:
             source_name = corpus_entry['source_name']
             markup += self._Title2(source_name)
-        markup += self._Paragraph('Mouse over Sanskrit words for English gloss'
+        markup += self._Paragraph('The NTI Sanskrit Reader is experimental and unfinished.'
+                                  ' Mouse over Sanskrit words for English gloss'
                                   ', click for dictionary entry. Click the'
                                   ' word a second time to dismiss the popover.')
         if 'source_name' in corpus_entry:
@@ -207,7 +208,10 @@ class GlossGenerator:
         title = "%s" % entry['english']
         iast = "Word: %s<br/>" % element_text
         english = "English: %s<br/>" % entry['english']
-        stem = "Stem / root: %s<br/>" % entry['stem']
+        if 'stem' in entry:
+            stem = "Stem / root: %s<br/>" % entry['stem']
+        else:
+            stem = ""
         dev = "Devanagari: %s<br/>" % entry['dev']
         if 'pali' in entry:
             pali = "Pali: %s<br/>" % entry['pali']

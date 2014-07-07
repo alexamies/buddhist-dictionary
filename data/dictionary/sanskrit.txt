@@ -1074,7 +1074,7 @@
 1074	1007	pasca	paścā	पश्चा	\N	已	after	\N	adjective	\N
 1075	16222	pratikrāmati	pratikramati	प्रतिक्रामति	\N	還	to come back , to return	\N	verb	\N
 1076	16222	pratikram	pratikram	प्रतिक्रम्	\N	還	to come back , to return	\N	verb	\N
-1077	6045	praksalya	prakṣālya	प्रक्षाल्य	\N	洗	having washed , to be washed , to be purified	\N	indeclinable	\N
+1077	6045	praksalya	prakṣālya	प्रक्षाल्य	\N	洗	having washed , to be washed , to be purified	Absolutive with prefix	verb1	pra + √kṣal
 1078	6644	parsad	parṣad	पर्षद्	\N	大眾	assembly , audience , society	\N	feminine	\N
 1079	280	srnu	śṛṇu	शृणु	\N	聽	to listen	\N	verb	\N
 1080	3513	bhasya	bhāṣya	भाष्य	\N	言	speech , explanation	\N	neuter	\N
@@ -1165,7 +1165,7 @@
 1165	412	bhasitah	bhāṣitaḥ	भाषितः	\N	說	said	Common form is bhāṣita	adjective	\N
 1166	412	bhasita	bhāṣitā	भाषिता	\N	說	said	Common form is bhāṣita	adjective	\N
 1167	412	bhasitah	bhāṣitāḥ	भाषिताः	\N	說	said	Common form is bhāṣita	adjective	\N
-1168	31047	atha	atha	अथ	\N	時	now , at that time	\N	indeclinable	\N
+1168	31047	atha	atha	अथ	\N	時	now , then	An auspicious and inceptive particle	indeclinable	atha
 1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. Nominative case, singular form.	masculine	puṇyaskandha
 1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma , the teachings of the Buddha	\N	proper_noun	\N
 1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Literally, Blessed One. Modified for Sandhi.	masculine	bhagavat
@@ -1309,9 +1309,9 @@
 1309	3223	balasya	bālasya	बालस्य	\N	子	child , boy	Genitive case, singular form	masculine	bāla
 1310	890	gramam	grāmam	ग्रामम्	\N	村	a village	Accusative case, singular form	masculine	grāma
 1311	890	gramat	grāmat	ग्रामत्	\N	村	a village	Ablative case, singular form	masculine	grāma
-1312	25307	sravastim	śrāvastīṃ	श्रावस्तीं	\N	舍衛	Sravasti	Accusative case	proper_noun	śrāvastī
+1312	25307	sravastim	śrāvastīṃ	श्रावस्तीं	sāvatthī	舍衛	Sravasti	Accusative case	proper_noun	śrāvastī
 1313	35028	mahanagari	mahānagarī	महानगरी	\N	大城	a great city	The stem form of a compound composed of mahā (great) and nagarī (city)	proper_noun	mahānagarī
-1314	35028	mahanagarim	mahānagarīṃ	महानगरीं	\N	大城	a great city	Accusative case	proper_noun	mahānagarī
+1314	35028	mahanagarim	mahānagarīṃ	महानगरीं	\N	大城	a great city	Accusative case with anusvara sandhi	proper_noun	mahā + nagarī
 1315	4355	pindaya	piṇḍāya	पिण्डाय	\N	食	alms , food , subsistence , a ball of rice , meat , a morsel	Dative case form	masculine	piṇḍa
 1316	32460	desitah	deśitaḥ	देशितः	\N	說	instructed , directed , shown	Nominal case	adjective	deśita
 1317	6686	tathagatena	tathāgatena	तथागतेन	\N	如來	Tathagata	Instrumental case, singular form	proper_noun	tathāgata
@@ -1467,7 +1467,7 @@
 1467	6652	pujaniya	pūjanīya	पूजनीय	\N	恭敬	to be revered , to be worshipped	Stem form	adjective	pūjanīya
 1468	6652	pujaniyah	pūjanīyaḥ	पूजनीयः	\N	恭敬	to be revered , to be worshipped	Nominative case, singular form	adjective	pūjanīya
 1469	16807	sartha	sārtha	सार्थ	\N	恭敬	a group , a crowd	Stem form	masculine	sārtha
-1470	16807	sartham	sārthaṃ	सार्थं	\N	眾	a group , a crowd	Stem form	masculine	sārtha
+1470	16807	sartham	sārthaṃ	सार्थं	\N	眾	a group , a crowd	Accusive case with anusvara sandhi	masculine	sārtha
 1471	4048	paryayena	paryāyeṇa	पर्यायेण	\N	復	successively , in turn	\N	indeclinable	paryāyeṇa
 1472	28914	bhavah	bhāvaḥ	भावः	\N	有	becoming , state	Nominative case, singular form	masculine	bhāva
 1473	32204	dharman	dharmān	धर्म	\N	法	phenomena , mental objects	Accusative case, plural form	masculine	dhárma
@@ -2051,7 +2051,7 @@
 2051	1242	pratipattavya	pratipattavya	प्रतिपत्तव्य	\N	應	on account of	Gerundive, accusative case	neuter	prati + pattavya
 2052	1242	pratipad	pratipad	प्रतिपत्तव्य	\N	應	conduct , practice , behavior	\N	neuter	prati + pad
 2053	8851	pratisthitena	pratiṣṭhitena	प्रतिष्ठितेन	\N	住	abiding	Instrumental case	adjective	\N
-2054	1510	pratisamya	pratiśāmya	प्रतिशाम्य	\N	收	to store away / to put away	Instrumental case	adjective	\N
+2054	1510	pratisamya	pratiśāmya	प्रतिशाम्य	\N	收	to store away , to put away	Instrumental case	adjective	prati + śām
 2055	343	agacchatam	agacchatām	अगच्छताम्	\N	去	those two went	Imperfect, third person, dual	verb	a + √gam
 2056	343	agacchan	agacchan	अगच्छन्	\N	去	they all went	Imperfect, third person, plural	verb	a + √gam
 2057	343	agacchah	agacchaḥ	अगच्छः	\N	去	you went	Imperfect, second person, singular	verb	a + √gam
@@ -2167,10 +2167,10 @@
 2167	3368	nyasidat	nyaṣīdat	न्यषीदत्	\N	坐	sat down	\N	verb	ni + √sad
 2168	32107	bhiksavah	bhikṣavaḥ	भिक्षवः	\N	比丘、出家人、僧侣、僧人、苾蒭、備芻	monks	Nominative case, plural, masculine form	masculine	bhikṣu
 2169	3368	sad	sad	सद्	\N	坐	to sit down	Class 1 or class 6 verb	verb1	√sad
-2170	32107	bhikṣavo	bhikṣavo	भिक्षवो	\N	比丘、出家人、僧侣、僧人、苾蒭、備芻	monks	Nominative case, plural, masculine form	masculine	bhikṣu
+2170	32107	bhikṣavo	bhikṣavo	भिक्षवो	\N	比丘、出家人、僧侣、僧人、苾蒭、備芻	monks	Nominative case, plural, masculine form, visarga sandhi applied	masculine	bhikṣu
 2171	734	rju	ṛju	ऋजु	\N	直	tending in a straight direction , straight	mfn	adjective	ṛju
 2172	734	rjum	ṛjum	ऋजुम्	\N	直	tending in a straight direction , straight	Accusative case	adjective	ṛju
-2173	734	rjum	ṛjuṃ	ऋजुं	\N	直	tending in a straight direction , straight	Accusative case with sandhi	adjective	ṛju
+2173	734	rjum	ṛjuṃ	ऋजुं	\N	直	tending in a straight direction , straight	Accusative case with anusvara sandhi applied	adjective	ṛju
 2174	6686	tathāgatas	tathāgatas	तथागतस्	\N	如來	Tathagata	Nominative case, singular form	masculine	tathāgata
 2175	644	chedaka	chedaka	छेदक	\N	切	cutting off	mfn	adjective	chedaka
 2176	644	chedikā	chedikā	छेदिका	\N	切	cutting off	Nominative case, singular form, feminine	adjective	chedaka
@@ -2182,3 +2182,10 @@
 2182	4348	vihr	vihṛ	विहृ	\N	遊	to roam , wander through	Root form with prefix	verb1	vi + √hṛ
 2183	441	hr	hṛ	विहृ	\N	承	to take , bear , carry in or on	Root form	verb1	√hṛ
 2184	13134	vi	vi	विहृ	\N	散	apart , asunder , in different directions , to and fro , about , away , away from , off , without	It is especially used as a prefix to verbs or nouns and other parts of speech derived from verbs, to express division , distinction , distribution , arrangement, order, opposition, or deliberation	indeclinable	vi
+2185	6045	ksal	kṣal	क्षल्	\N	洗	to wash , wash off	Root form	verb1	√kṣal
+2186	28422	bhagavatah	bhagavataḥ	भगवतः	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Genetive and ablative case	masculine	bhagavat
+2187	3414	siras	śiras	शिरस्	\N	頭	the head , skull	Stem form	neuter	śiras
+2188	3414	sirobhis	śirobhis	शिरोभिस्	\N	頭	the head , skull	Instrumental case	neuter	śiras
+2189	8680	vandya	vandya	वन्द्य	\N	讚	to be praised , praiseworthy	mfn	adjective	vandya
+2190	301	ekam	ekām	एकाम्	\N	一	one	Accusive case, singular form	adjective	eka
+2191	3368	nyasidan	nyaṣīdan	न्यषीदन्	\N	坐	sat down	Imperfect, accusive	verb	ni + √sad
