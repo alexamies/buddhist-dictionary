@@ -1049,7 +1049,7 @@
 1049	32789	dharmayatana	dharmāyatana	धर्मायतन	\N	法處	mental objects	\N	neuter	\N
 1050	5328	hetoh	hetoḥ	हेतोः	\N	何以	whence , why	Interrogative pronoun used to ask a question	pronoun	\N
 1051	3382	diz	diz	दिश्	\N	方	direction	\N	feminine	\N
-1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south , right	Stem form	adjective	dakṣiṇa
+1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south , right	mf(ā)n	adjective	dakṣiṇa
 1053	1802	pascima	paścima	पश्चिम	\N	西	west	mf(ā)n	adjective	paścima
 1054	581	adhah	adhaḥ	अधः	\N	下	bottom , below	\N	indeclinable	\N
 1055	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	top , above	\N	indeclinable	ūrdhva
@@ -2194,3 +2194,9 @@
 2194	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb1	√cint
 2195	707	cintayisyati	cintayiṣyati	चिन्तयिष्यति	\N	想	will think	Future active voice	verb1	√cint
 2196	707	cintayisyate	cintayiṣyate	चिन्तयिष्यते	\N	想	will think	Future middle voice	verb1	√cint
+2197	3414	sirobhih	śirobhiḥ	शिरोभिः	\N	頭	the head , skull	Instrumental case, plural form	neuter	śiras
+2198	3414	abhivandya	abhivandya	अभिवन्द्य	\N	頭	having worshipped , praiseworthy	mfn	adjective	abhi + vandya
+2199	28422	bhagavantam	bhagavantam	भगवन्तम्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Accusative case	masculine	bhagavat
+2200	28422	bhagavantam	bhagavantaṃ	भगवन्तं	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Accusative case with anusvara sandhi	masculine	bhagavat
+2201	3243	pradaksina	pradakṣiṇa	प्रदक्षिण	\N	繞	turning the right side towards , circumambulation from left to right of a person or object	mfn, as a kind of worship	adjective	pra + dakṣiṇa
+2202	721	kr	kṛ	कृ	\N	用、作	to make	Root form of the class II and class VIII verb	verb1	√kṛ
