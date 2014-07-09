@@ -416,13 +416,13 @@
 416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	Present tense	verb1_3rd	ā + √nī
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
 418	5284	jayati	jayati	जयति	\N	勝、勝利、贏、獲勝	he conquers	Third person, singular form of the active verb	verb1_3rd	√ji
-419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees , he looks	Third person, singular form of the active verb	verb1_3rd	√paś
+419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees , he looks	Present tense, third person, singular form of the active verb	verb1_3rd	√paś
 420	4969	gai	gai	गै	\N	唱歌、唱	to sing	\N	verb1	gai
 421	340	ji	ji	जि	\N	勝利、勝、贏、獲勝	to conquer , to win	\N	verb1	\N
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
-423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see , to look	\N	verb1	\N
+423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see , behold , look at , regard , consider	Root form, present forms supplied by √paś	verb1	√dṛś
 424	3837	ni	nī	नी	\N	導	to lead , to take	Root form	verb1	√nī
-425	3837	nayati	nayati	नयति	\N	導	he takes , he  carries , he leads	Third person, singular form	verb1_3rd	√nī
+425	3837	nayati	nayati	नयति	\N	導	he takes , he  carries , he leads	Present tense, third person, singular form	verb1	√nī
 426	4794	bhram	bhram	भ्रम्	\N	流浪	to wander , to be confused	\N	verb1	\N
 427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders , he is confused	\N	verb1_3rd	bhram
 428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say , to speak	Root form	verb1	√vad
@@ -681,7 +681,7 @@
 681	15446	padmam	padmaṁ	पद्मṁ	\N	蓮	lotus	Accusative case of padma	noun	\N
 682	3880	nasyati	naśyati	नश्यति	\N	死	dies	\N	verb	\N
 683	615	alam	alam	अलम्	\N	夠	enough	\N	adjective	\N
-684	615	krtam	kṛtam	कृतम्	\N	夠	enough	\N	adjective	\N
+684	615	krtam	kṛtam	कृतम्	\N	夠	enough	Accusative form	adjective	kṛta
 685	2413	kolahalena	kolāhalena	कोलाहलेन	\N	音	noise	Instrumental case	noun	\N
 686	17742	yogena	yogena	योगेन	\N	瑜伽、瑜珈	yoga	Instrumental case of yoga	noun	yoga
 687	2618	asvena	aśvena	अश्वेन	\N	馬	a horse	Instrumental case, singular form of asva	masculine	aśva
@@ -790,7 +790,7 @@
 790	518	sah	saḥ	सः	\N	他	him	Third person pronoun, nominative case, singular form	masculine	tad
 791	519	sa	sā	सा	\N	她	her	Third person pronoun, nominative case, singular form	feminine	tad
 792	2027	va	vā	वा	\N	or	或	An enclytic particle to form a disjunction (or), as in .. vā .. vā (either .. or ..)	conjunction	\N
-793	615	krta	kṛta	कृत	\N	夠	done with , put	\N	noun	\N
+793	615	krta	kṛta	कृत	\N	夠	done , made , accomplished , performed , put	mfn	adjective	kṛta
 794	12264	kutuhalin	kutūhalin	कुतूहलिन्	\N	好奇	curious , eager , impatient	\N	adjective	\N
 795	1260	calati	calati	चलति	\N	行	to walk , to move	\N	verb	\N
 796	3894	budh	budh	बुध्	\N	覺	awaken	In the process of awakening, root form	verb	√budh
@@ -1075,7 +1075,7 @@
 1075	16222	pratikrāmati	pratikramati	प्रतिक्रामति	\N	還	to come back , to return	\N	verb	\N
 1076	16222	pratikram	pratikram	प्रतिक्रम्	\N	還	to come back , to return	\N	verb	\N
 1077	6045	praksalya	prakṣālya	प्रक्षाल्य	\N	洗	having washed , to be washed , to be purified	Absolutive with prefix	verb1	pra + √kṣal
-1078	6644	parsad	parṣad	पर्षद्	\N	大眾	assembly , audience , society	\N	feminine	\N
+1078	6644	parsad	parṣad	पर्षद्	\N	大眾	assembly , audience , society	Stem form	feminine	parṣad
 1079	280	srnu	śṛṇu	शृणु	\N	聽	to listen	\N	verb	\N
 1080	3513	bhasya	bhāṣya	भाष्य	\N	言	speech , explanation	\N	neuter	\N
 1081	32830	pudgalasamjna	pudgalasaṃjñā	पुद्गलसंज्ञा	\N	人相	the notion of a person	One of the four notions (四相). The notion of a person is mistaken because there is no difference between self and others.	phrase	\N
@@ -1906,7 +1906,7 @@
 1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	\N	gerund	√smṛ
 1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	\N	gerund	√kṛ
 1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	\N	gerund	√śru
-1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	\N	gerund	√car
+1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	gerund	verb1	√car
 1910	5500	gajam	gajaṃ	गजं	\N	大象、象	an elephant	Accusative case, singular form gajam with sandhi applied	masculine	gaja
 1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	\N	gerund	√likh
 1912	2993	atithi	atithi	अतिथि	\N	客	a guest , a person entitled to hospitality	Stem form	masculine	atithi
@@ -2182,7 +2182,7 @@
 2182	4348	vihr	vihṛ	विहृ	\N	遊	to roam , wander through	Root form with prefix	verb1	vi + √hṛ
 2183	441	hr	hṛ	हृ	\N	承	to take , bear , carry in or on	Root form	verb1	√hṛ
 2184	13134	vi	vi	वि	\N	散	apart , asunder , in different directions , to and fro , about , away , away from , off , without	It is especially used as a prefix to verbs or nouns and other parts of speech derived from verbs, to express division , distinction , distribution , arrangement, order, opposition, or deliberation	indeclinable	vi
-2185	6045	ksal	kṣal	क्षल्	\N	洗	to wash , wash off	Root form	verb1	√kṣal
+2185	6045	ksal	kṣal	क्षल्	\N	洗	to wash , wash off , purify , cleanse , clean	Root form	verb1	√kṣal
 2186	28422	bhagavatah	bhagavataḥ	भगवतः	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Genetive and ablative case	masculine	bhagavat
 2187	3414	siras	śiras	शिरस्	\N	頭	the head , skull	Stem form	neuter	śiras
 2188	3414	sirobhis	śirobhis	शिरोभिस्	\N	頭	the head , skull	Instrumental case	neuter	śiras
@@ -2214,4 +2214,15 @@
 2214	441	harisyati	hariṣyati	हरिष्यति	\N	承	having taken	Gerund	verb1	√hṛ
 2215	16870	vas	vas	वस्	\N	著	to put on , invest , wear	Root form	verb2	√vas
 2216	916	veksyati	vekṣyati	वेक्ष्यति	\N	入	will enter	Future tense, third person, singular	verb6	√viś
-2217	916	vísya	víśya	व्íश्य	\N	入	having entered	Gerund	verb6	√viś
+2217	916	visya	viśya	विश्य	\N	入	having entered	Gerund	verb6	√viś
+2218	1260	car	car	चर्	\N	行	to move one's self , go , walk , move , stir , roam about , wander	Root form, said of men, animals, water, ships, stars	verb1	√car
+2219	1260	carati	carati	चरति	\N	行	he moves	Present tense, third person, singular form	verb1	√car
+2220	1260	carisyati	cariṣyati	चरिष्यति	\N	行	he will move	Future tense, third person, singular form	verb1	√car
+2221	3368	sidati	sīdati	सीदति	\N	坐	he sits	Present tense, third person, singular form	verb	√sad
+2222	3368	sidisyati	sīdiṣyati	सीदिष्यति	\N	坐	he sits	Present tense, third person, singular form	verb	√sad
+2223	1260	kramati	krāmati	क्रामति	\N	行	he steps	Present tense, third person, singular form	verb1	√kram
+2224	1260	kramsyati	kraṃsyati	क्रंस्यति	\N	行	he will step	Future tense, third person, singular form	verb1	√kram
+2225	6644	parsadi	parṣadi	पर्षदि	\N	大眾	in the assembly	Locative case, singular form	feminine	parṣad
+2226	2940	draksyati	drakṣyati	द्रक्ष्यति	\N	見、看到、看	he will see	Future tense, third person, singular form	verb1	√dṛś
+2227	2940	drstva	dṛṣṭvā	दृष्ट्वा	\N	見、看到、看	having seen	Gerund	verb1	√dṛś
+
