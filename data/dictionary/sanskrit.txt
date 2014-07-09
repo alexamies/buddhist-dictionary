@@ -206,7 +206,7 @@
 206	19666	sukhavati	sukhāvatī	सुखावती	\N	極樂世界	Western Pure Land , Sukhavati	\N	proper_noun	\N
 207	18686	amitayurdhyana sutra	amitāyurdhyāna sūtra	अमितायुर्ध्यान सूत्र	\N	觀無量壽佛經	The Sutra on the Visualization of the Buddha of Infinite Lifespan , Amitayurdhyana Sutra	\N	proper_noun	\N
 208	27612	rahula	rāhula	राहुल	\N	羅睺羅、羅睺睺	Rahula	\N	proper_noun	\N
-209	6645	subhute	subhūte	सुभूते	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case.	proper_noun	\N
+209	6645	subhute	subhūte	सुभूते	\N	須菩提	Subhuti	Vocative case	masculine	subhūti
 210	18620	sariputra	śāriputra	शारिपुत्र	sāriputta	舍利弗	Sariputra , Sariputta	\N	proper_noun	\N
 211	28111	rama	rāma	राम	\N	羅摩	Rama	Stem form and vocative case singular case	masculine	rāma
 212	21961	avatara	avatāra	अवतार	\N	化身	avatar , incarnation	\N	noun	\N
@@ -382,7 +382,7 @@
 382	707	man	man	मन्	\N	想、思	to think	Root form	verb	√man
 383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says , he is speaking	Third person singular form (~ti) of the active verb	verb1_3rd	√vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti<,em> indicates that a male is performing the action	verb4_3rd	nṛt
-385	916	visati	viśati	विशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	√viś
+385	916	visati	viśati	विशति	\N	入	he enters	Present tense, third person, singular	verb6	√viś
 386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	√viś
 387	3368	upavisati	upaviśati	उपविशति	\N	坐	he sits down	The affix <em>ti<,em> indicates that a male is performing the action	verb6_3rd	√viś
 388	343	gacchati	gacchati	गच्छति	\N	去	he goes , she goes , it goes	Third person, singular form of the active verb	verb1_3rd	√gam
@@ -1161,7 +1161,7 @@
 1161	17994	dharma	dharmā	धर्मा	dhamma	法	dharma ,  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	dharma
 1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Nominative case, plural form	masculine	mahāsattva
 1163	7135	punyaskandha	puṇyaskandha	पुण्यस्कन्ध	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. Stem form.	masculine	puṇyaskandha
-1164	6645	subhute	subhute	सुभुते	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case. Normally written as subhūte but changed here for sandhi.	proper_noun	\N
+1164	6645	subhute	subhute	सुभुते	\N	須菩提	Subhuti	\N	masculine	subhūti
 1165	412	bhasitah	bhāṣitaḥ	भाषितः	\N	說	said	Common form is bhāṣita	adjective	\N
 1166	412	bhasita	bhāṣitā	भाषिता	\N	說	said	Common form is bhāṣita	adjective	\N
 1167	412	bhasitah	bhāṣitāḥ	भाषिताः	\N	說	said	Common form is bhāṣita	adjective	\N
@@ -1180,7 +1180,7 @@
 1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
 1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
 1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Non-standard, should be satyam	neuter	satya
-1183	6645	subhūti	subhūtiḥ	सुभूतिः	subhūti	須菩提	Subhuti	The English translation normally follows the Pali rather than the Sanskrit in this case. The final letter ḥ indicates the nominative case.	proper_noun	\N
+1183	6645	subhūtih	subhūtiḥ	सुभूतिः	\N	須菩提	Subhuti	Nominative case	masculine	subhūti
 1184	28804	purusah	puruṣaḥ	पुरुष	\N	丈夫	a man , a great man	The final letter ḥ indicates the nominative case.	noun	\N
 1185	6892	arhan	arhan	अर्हन्	arahant	阿羅漢、羅漢	Arhat	Common Sanskrit form is arhat	proper_noun	\N
 1186	6888	gathe	gāthe	गाथे	\N	偈	a verse , stanza	Common Sanskrit form is arhat, may be modified to this form for grammatical reasons	feminine	\N
@@ -1905,7 +1905,7 @@
 1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	\N	gerund	√sthā
 1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	\N	gerund	√smṛ
 1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	\N	gerund	√kṛ
-1908	3925	śrutvā	śrutvā	श्रुत्वा	\N	聞	having heard	\N	gerund	√śru
+1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	\N	gerund	√śru
 1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	\N	gerund	√car
 1910	5500	gajam	gajaṃ	गजं	\N	大象、象	an elephant	Accusative case, singular form gajam with sandhi applied	masculine	gaja
 1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	\N	gerund	√likh
@@ -2141,9 +2141,9 @@
 2141	4355	bhakta	bhakta	भक्त	\N	食	food or a meal	Stem form	neuter	bhakta
 2142	375	krtya	kṛtya	कृत्य	\N	作	to be done or performed	mfn	adjective	kṛtya
 2143	375	krtyas	kṛtyas	कृत्यस्	\N	作	to be done or performed	Nominative case, singular, masculine form	adjective	kṛtya
-2144	16870	nivas	nivas	निवस्	\N	著	to put on over another garment , to clothe or dress one's self	\N	verb	ni + √vas
-2145	16870	nivasayati	nivāsayati	निवासयति	\N	著	 to change one's clothes , to put on (a garment) , dress , clothe	\N	verb	ni + √vas
-2146	16870	nivasya	nivāsya	निवास्य	\N	著	to change one's clothes , to put on (a garment) , dress , clothe	\N	verb	ni + √vas
+2144	16870	nivas	nivas	निवस्	\N	著	to put on over another garment , to clothe or dress one's self	\N	verb2	ni + √vas
+2145	16870	nivasayati	nivāsayati	निवासयति	\N	著	 to change one's clothes , to put on (a garment) , dress , clothe	\N	verb2	ni + √vas
+2146	16870	nivasya	nivāsya	निवास्य	\N	著	to change one's clothes , to put on (a garment) , dress , clothe	\N	verb2	ni + √vas
 2147	916	pra	pra	प्र	\N	入	before , forward , in front , on , forth	A prefix	indeclinable	pra
 2148	916	vis	viś	विश्	\N	入	to enter , enter in or settle down on , go into	Root form of the class 6 verb	verb6	√viś
 2149	916	aviksat	avikṣat	अविक्षत्	\N	入	to enter , enter in or settle down on , go into	Aorist, accusative, singular form	verb6	√viś
@@ -2180,8 +2180,8 @@
 2180	1260	kram	kram	क्रम्	\N	行	to step , walk , go , go towards , approach	Root form	verb1	√kram
 2181	1260	kramya	kramya	क्रम्य	\N	行	to step , walk , go , go towards , approach	Absolutive form	verb1	√kram
 2182	4348	vihr	vihṛ	विहृ	\N	遊	to roam , wander through	Root form with prefix	verb1	vi + √hṛ
-2183	441	hr	hṛ	विहृ	\N	承	to take , bear , carry in or on	Root form	verb1	√hṛ
-2184	13134	vi	vi	विहृ	\N	散	apart , asunder , in different directions , to and fro , about , away , away from , off , without	It is especially used as a prefix to verbs or nouns and other parts of speech derived from verbs, to express division , distinction , distribution , arrangement, order, opposition, or deliberation	indeclinable	vi
+2183	441	hr	hṛ	हृ	\N	承	to take , bear , carry in or on	Root form	verb1	√hṛ
+2184	13134	vi	vi	वि	\N	散	apart , asunder , in different directions , to and fro , about , away , away from , off , without	It is especially used as a prefix to verbs or nouns and other parts of speech derived from verbs, to express division , distinction , distribution , arrangement, order, opposition, or deliberation	indeclinable	vi
 2185	6045	ksal	kṣal	क्षल्	\N	洗	to wash , wash off	Root form	verb1	√kṣal
 2186	28422	bhagavatah	bhagavataḥ	भगवतः	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Genetive and ablative case	masculine	bhagavat
 2187	3414	siras	śiras	शिरस्	\N	頭	the head , skull	Stem form	neuter	śiras
@@ -2199,4 +2199,19 @@
 2199	28422	bhagavantam	bhagavantam	भगवन्तम्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Accusative case	masculine	bhagavat
 2200	28422	bhagavantam	bhagavantaṃ	भगवन्तं	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Accusative case with anusvara sandhi	masculine	bhagavat
 2201	3243	pradaksina	pradakṣiṇa	प्रदक्षिण	\N	繞	turning the right side towards , circumambulation from left to right of a person or object	mfn, as a kind of worship	adjective	pra + dakṣiṇa
-2202	721	kr	kṛ	कृ	\N	用、作	to make	Root form of the class II and class VIII verb	verb1	√kṛ
+2202	721	kr	kṛ	कृ	\N	用、作	to make	Root form of the class I, II, V, and VIII verb	verb	√kṛ
+2203	721	karati	karati	करति	\N	用、作	to make	Present tense, third person, singular, masculine form of the class I verb	verb1	√kṛ
+2204	721	karisyati	kariṣyati	करिष्यति	\N	用、作	to make	Future tense of the class I verb	verb1	√kṛ
+2205	31047	samayena	samayena	समयेन	\N	時、三摩耶	time	Instrumental case, singular form	masculine	samaya
+2206	6645	subhūti	subhūti	सुभूति	subhūti	須菩提	Subhuti	Stem form	masculine	subhūti
+2207	5284	jesyati	jeṣyati	जेष्यति	\N	勝、勝利、贏、獲勝	he will conquer	Future tense	verb1	√ji
+2208	3925	sru	śru	श्रु	\N	聞	hear	Root form	verb5	√śru
+2209	3925	srnoti	śṛṇoti	शृण्óति	\N	聞	hear	Present tense, third person, singular form	verb5	√śru
+2210	3925	srosyati	śroṣyati	श्रोष्य्áति	\N	聞	hear	Future tense, third person, singular form	verb5	√śru
+2211	441	harati	harati	हरति	\N	承	to take , bear , carry in or on	Present tense, third person, singular form	verb1	√hṛ
+2212	707	cint	cint	चिन्त्	\N	想	think	Root form	verb1	√cint
+2213	441	hrtva	hṛtvā	हृत्वा	\N	承	having taken	Gerund	verb1	√hṛ
+2214	441	harisyati	hariṣyati	हरिष्यति	\N	承	having taken	Gerund	verb1	√hṛ
+2215	16870	vas	vas	वस्	\N	著	to put on , invest , wear	Root form	verb2	√vas
+2216	916	veksyati	vekṣyati	वेक्ष्यति	\N	入	will enter	Future tense, third person, singular	verb6	√viś
+2217	916	vísya	víśya	व्íश्य	\N	入	having entered	Gerund	verb6	√viś
