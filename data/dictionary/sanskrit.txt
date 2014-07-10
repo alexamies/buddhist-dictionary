@@ -334,7 +334,7 @@
 334	9097	pada	pāda	पाद	\N	足、腳	foot	\N	masculine	\N
 335	3826	vrihi	vrīhi	व्रीहि	\N	米	rice	\N	noun	\N
 336	14209	ksana	kṣaṇa	क्षण	\N	剎那	an instant	\N	noun	\N
-337	4060	patha	pāṭha	पाठ	\N	誦、誦念	to recite , to read	\N	verb1	√pāṭh
+337	4060	patha	pāṭha	पाठ	\N	誦、誦念	to recite , to read	\N	verb1	√paṭh
 338	27996	sparsa	sparśa	स्पर्श	\N	塞音、爆破音	a plosive , a stop consonant	\N	noun	\N
 339	27997	usman	ūṣman	ऊष्मन्	\N	擦音	a fricative , a sibilant	\N	noun	\N
 340	7225	nasika	nāsika	नासिक	\N	鼻音	 a nasal sound	In phonetics	noun	\N
@@ -422,7 +422,7 @@
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
 423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see , behold , look at , regard , consider	Root form, present forms supplied by √paś	verb1	√dṛś
 424	3837	ni	nī	नी	\N	導	to lead , to take	Root form	verb1	√nī
-425	3837	nayati	nayati	नयति	\N	導	he takes , he  carries , he leads	Present tense, third person, singular form	verb1	√nī
+425	3837	nayati	nayati	नयति	\N	導	he takes , he  carries , he leads	Present tense, third person, singular form, active voice	verb1	√nī
 426	4794	bhram	bhram	भ्रम्	\N	流浪	to wander , to be confused	\N	verb1	\N
 427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders , he is confused	\N	verb1_3rd	bhram
 428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say , to speak	Root form	verb1	√vad
@@ -1348,7 +1348,7 @@
 1348	28454	stri	strī	स्त्री	\N	陰性	feminine	\N	adjective	\N
 1349	3185	candra	candra	चन्द्र	\N	月	moon	Stem form and also vocative case, singular form	masculine	candra
 1350	3185	candraḥ	candraḥ	चन्द्रः	\N	月	moon	Nominative case, singular form	masculine	candra
-1351	707	cintayati	cintayati	चिन्तयति	\N	想	he thinks	Third person, singular form of the active voice verb	verb1_3rd	√cint
+1351	707	cintayati	cintayati	चिन्तयति	\N	想	he thinks	Third person, singular form of the active voice verb	verb10	√cint
 1352	28390	suryah	sūryaḥ	सूर्यः	\N	苏利耶	Surya , the Sun	Nominative case, singular form	masculine	sūrya
 1353	922	hastah	hastaḥ	हस्तः	\N	手	hand	Nominative case, singular form	masculine	hasta
 1354	922	hastau	hastau	हस्तौ	\N	手	two hands	Nominative and accusative case, dual form	masculine	hasta
@@ -1561,7 +1561,7 @@
 1561	1609	jalaya	jalāya	जलाय	\N	水	water	Dative case, singular form	neuter	jala
 1562	5284	jayasi	jayasi	जयसि	\N	勝、勝利、贏、獲勝	he conquers	Second person, singular form of the active verb	verb1_3rd	√ji
 1563	3930	sukhasya	sukhasya	सुखस्य	\N	樂	delight , happiness , joy , pleasure	Genitive case, singular form	neuter	sukha
-1564	707	cintayate	cintayate	चिन्तयते	\N	想	he thinks	Third person, singular form of the middle voice verb	verb1_3rd	√cint
+1564	707	cintayate	cintayate	चिन्तयते	\N	想	he thinks	Third person, singular form of the middle voice verb	verb10	√cint
 1565	35151	ayodhya	ayodhyā	अयोध्या	ayojjhā	阿約提亞	Ayodhya	The ancient capital of the Kosala Kingdom	feminine	ayodhyā
 1566	35151	ayodhyayam	ayodhyāyām	अयोध्यायाम्	\N	阿約提亞	Ayodhya	Locative case	feminine	ayodhyā
 1567	35152	dasaratha	daśaratha	दशरथ	\N	十車王	Ayodhya	The king of the ancient city of Ayodhya	masculine	daśaratha
@@ -1887,28 +1887,28 @@
 1887	4520	mrsa	mṛṣā	मृषा	\N	虛	 in vain , uselessly , to no purpose	Stem form	indeclinable	mṛṣā
 1888	29371	karmani	karmāṇi	कर्म	\N	業、業力	karma	Accusative case, plural form	neuter	karma
 1889	3597	caksuh	cakṣuḥ	चक्षुः	\N	眼	an eye	Nominative form	masculine	cakṣu
-1890	412	uditva	uditvā	उदित्वा	\N	說、云、言、曰、告	having spoken	\N	gerund	√vad
+1890	412	uditva	uditvā	उदित्वा	\N	說、云、言、曰、告	having spoken	gerund	verb	√vad
 1891	5500	gajam	gajam	गजम्	\N	大象、象	an elephant	Accusative case, singular form	masculine	gaja
-1892	2940	drstva	dṛṣṭvā	दृष्ट्वा	\N	見	having seen	\N	gerund	√dṛś
-1893	5634	labdhva	labdhvā	लब्ध्वा	\N	拿	having obtained	\N	gerund	√labdh
-1894	370	agamya	āgamya	आगम्य	\N	來	having come	\N	gerund	ā + √gam
-1895	343	gatva	gatvā	गत्वा	\N	去	having gone	\N	gerund	√gam
-1896	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	\N	gerund	√cint
-1897	5284	jitva	jitvā	जित्वा	\N	勝、勝利、贏、獲勝	having conquered	\N	gerund	√ji
-1898	4000	pathitva	paṭhitvā	पठित्वा	\N	誦、讀	having read , having recited	\N	gerund	√paṭh
-1899	3723	prstva 	pṛṣṭvā	पृष्ट्वा	\N	問	having asked	\N	gerund	√pṛach
-1900	412	bhasitva	bhāṣitvā	भाषित्वा	\N	說、言	having said	\N	gerund	√bhāṣ
-1901	375	bhutva	bhūtvā	भूत्वा	\N	作	having been	\N	gerund	√bhū
-1902	707	matva	matvā	मत्वा	\N	想、思	having thought	\N	gerund	√man
-1903	747	usitva	uṣitvā	उषित्वा	\N	住	having lived	\N	gerund	√vad
-1904	1709	sevitva	sevitvā	सेवित्वा	\N	服務	having served	\N	gerund	√sev
-1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	\N	gerund	√sthā
-1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	\N	gerund	√smṛ
-1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	\N	gerund	√kṛ
-1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	\N	gerund	√śru
-1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	gerund	verb1	√car
+1892	2940	drstva	dṛṣṭvā	दृष्ट्वा	\N	見	having seen	Gerund	verb	√dṛś
+1893	5634	labdhva	labdhvā	लब्ध्वा	\N	拿	having obtained	Gerund	verb	√labdh
+1894	370	agamya	āgamya	आगम्य	\N	來	having come	Gerund	verb	ā + √gam
+1895	343	gatva	gatvā	गत्वा	\N	去	having gone	Gerund	verb	√gam
+1896	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb10	√cint
+1897	5284	jitva	jitvā	जित्वा	\N	勝、勝利、贏、獲勝	having conquered	Gerund	verb1	√ji
+1898	4000	pathitva	paṭhitvā	पठित्वा	\N	誦、讀	having read , having recited	Gerund	verb	√paṭh
+1899	3723	prstva 	pṛṣṭvā	पृष्ट्वा	\N	問	having asked	Gerund	verb	√pṛach
+1900	412	bhasitva	bhāṣitvā	भाषित्वा	\N	說、言	having said	Gerund	verb	√bhāṣ
+1901	375	bhutva	bhūtvā	भूत्वा	\N	作	having been	Gerund	verb	√bhū
+1902	707	matva	matvā	मत्वा	\N	想、思	having thought	Gerund	verb	√man
+1903	747	usitva	uṣitvā	उषित्वा	\N	住	having lived	Gerund	verb	√vad
+1904	1709	sevitva	sevitvā	सेवित्वा	\N	服務	having served	Gerund	verb	√sev
+1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	Gerund	verb	√sthā
+1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	Gerund	verb	√smṛ
+1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	Gerund	verb	√kṛ
+1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	Gerund	verb	√śru
+1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	Gerund	verb1	√car
 1910	5500	gajam	gajaṃ	गजं	\N	大象、象	an elephant	Accusative case, singular form gajam with sandhi applied	masculine	gaja
-1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	\N	gerund	√likh
+1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	Gerund	verb	√likh
 1912	2993	atithi	atithi	अतिथि	\N	客	a guest , a person entitled to hospitality	Stem form	masculine	atithi
 1913	2993	atithih	atithiḥ	अतिथिः	\N	客	a guest , a person entitled to hospitality	Nominative case, singular form	masculine	atithi
 1914	28787	samyaksambodhih	samyaksaṃbodhiḥ	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyaksambodhi
@@ -2191,9 +2191,9 @@
 2191	3368	nyasidan	nyaṣīdan	न्यषीदन्	\N	坐	sat down	Imperfect, accusive	verb	ni + √sad
 2192	6281	gopitva	gopitvā	गोपित्वा	\N	護	having protected	Gerund	verb4	√gup
 2193	6281	gopsyati	gopsyati	गोप्स्यति	\N	護	will protect	Future	verb4	√gup
-2194	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb1	√cint
-2195	707	cintayisyati	cintayiṣyati	चिन्तयिष्यति	\N	想	will think	Future active voice	verb1	√cint
-2196	707	cintayisyate	cintayiṣyate	चिन्तयिष्यते	\N	想	will think	Future middle voice	verb1	√cint
+2194	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb10	√cint
+2195	707	cintayisyati	cintayiṣyati	चिन्तयिष्यति	\N	想	will think	Future active voice	verb10	√cint
+2196	707	cintayisyate	cintayiṣyate	चिन्तयिष्यते	\N	想	will think	Future middle voice	verb10	√cint
 2197	3414	sirobhih	śirobhiḥ	शिरोभिः	\N	頭	the head , skull	Instrumental case, plural form	neuter	śiras
 2198	3414	abhivandya	abhivandya	अभिवन्द्य	\N	頭	having worshipped , praiseworthy	mfn	adjective	abhi + vandya
 2199	28422	bhagavantam	bhagavantam	भगवन्तम्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Accusative case	masculine	bhagavat
@@ -2209,7 +2209,7 @@
 2209	3925	srnoti	śṛṇoti	शृण्óति	\N	聞	hear	Present tense, third person, singular form	verb5	√śru
 2210	3925	srosyati	śroṣyati	श्रोष्य्áति	\N	聞	hear	Future tense, third person, singular form	verb5	√śru
 2211	441	harati	harati	हरति	\N	承	to take , bear , carry in or on	Present tense, third person, singular form	verb1	√hṛ
-2212	707	cint	cint	चिन्त्	\N	想	think	Root form	verb1	√cint
+2212	707	cint	cint	चिन्त्	\N	想	think	Root form	verb10	√cint
 2213	441	hrtva	hṛtvā	हृत्वा	\N	承	having taken	Gerund	verb1	√hṛ
 2214	441	harisyati	hariṣyati	हरिष्यति	\N	承	having taken	Gerund	verb1	√hṛ
 2215	16870	vas	vas	वस्	\N	著	to put on , invest , wear	Root form	verb2	√vas
@@ -2225,4 +2225,11 @@
 2225	6644	parsadi	parṣadi	पर्षदि	\N	大眾	in the assembly	Locative case, singular form	feminine	parṣad
 2226	2940	draksyati	drakṣyati	द्रक्ष्यति	\N	見、看到、看	he will see	Future tense, third person, singular form	verb1	√dṛś
 2227	2940	drstva	dṛṣṭvā	दृष्ट्वा	\N	見、看到、看	having seen	Gerund	verb1	√dṛś
-
+2228	3837	nayate	nayate	नयते	\N	導	takes	Present tense, third person, singular form, middle voice	verb1	√nī
+2229	3837	nitva	nītvā	नीत्वा	\N	導	having taken	Gerund	verb1	√nī
+2230	3837	nesyati	neṣyati	नेष्यति	\N	導	will take	Future tense, third person, singular form, active voice	verb1	√nī
+2231	3837	nesyate	neṣyate	नेष्यते	\N	導	take	Future tense, third person, singular form, middle voice	verb1	√nī
+2232	4060	path	paṭh	पठ्	\N	誦、誦念	to read or repeat aloud , to recite , rehearse	Root form	verb1	√paṭh
+2233	4060	pathitva	paṭhitvā	पठित्वा	\N	誦、誦念	having read	Gerund	verb1	√paṭh
+2234	4060	pathisyati	paṭhiṣyati	पठिष्यति	\N	誦、誦念	will read	Future tense, third person, singular form	verb1	√paṭh
+2235	2940	pas	paś	पश्	\N	見、看到、看	he sees , he looks	Stem form, also see √dṛś	verb1	√paś
