@@ -372,7 +372,7 @@
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to , heard	Accusative form	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
 374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	A class I thematic verb root	verb	√bhū
-375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb	\N
+375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb1	√bhū
 376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	\N	verb	√pā
 377	5036	jivati	jīvati	जीवति	\N	活、生活	he lives	\N	verb1_3rd	√jīv
 378	533	sravati	sravati	स्रवति	\N	流	to flow	\N	verb	\N
@@ -624,8 +624,8 @@
 624	5634	labdh	labdh	लब्ध्	\N	拿	take , obtain	Root form for the middle voice verb	verb	√labdh
 625	441	udha	ūḍha	ऊढ	\N	承、負、提、揹、抬	carried	Past particle of the stem vah	adjective	√vah
 626	441	vah	vah	वह्	\N	承、負、提、揹、抬	carried	Stem form	verb	√vah
-627	1264	patita	patita	पतित	\N	落	dropped , fallen	Past particle of the stem pat	adjective	√pat
-628	1264	pat	pat	पत्	\N	落	to drop , to fall	Stem form	verb	√pat
+627	1264	patita	patita	पतित	\N	落	dropped , fallen	Past particle	verb1	√pat
+628	1264	pat	pat	पत्	\N	落	to drop , to fall	Stem form	verb1	√pat
 629	412	udita	udita	उदित	\N	說、云、言、曰、告	spoken	Past particle of the stem vad	adjective	√vad
 630	1459	grhita	gṛhīta	गृहीत	\N	得	seized , obtained	Past particle of the stem grah	adjective	grah
 631	1459	grah	grah	ग्रह्	\N	得	seized , obtained	Stem form	verb	grah
@@ -1087,7 +1087,7 @@
 1087	5284	bahutara	bahutara	बहुतर	\N	勝	surpassing , greater , exceeding	Stem form	adjective	bahutara
 1088	1459	prapta	prāpta	प्राप्त	\N	得	obtained , attained , acquired	\N	adjective	\N
 1089	533	srotas	srotas	स्रोतस्	\N	流	a stream	\N	neuter	\N
-1090	11052	sam	saṃ	सं	\N	同	together	\N	indeclinable	\N
+1090	11052	sam	saṃ	सं	\N	同	with , together with , along with , together , altogether	With anusvāra sandhi	indeclinable	sam
 1091	32851	vedanga	vedāṅga	वेदाङ्ग	\N	吠陀支	Vedanga	Six disciplines associated with the study of the Vedas	proper_noun	\N
 1092	32854	kalpa	kalpa	कल्प	\N	劫波、宗教儀軌	a ritual	One of the six disciplines associated with the study of the Vedas	masculine	\N
 1093	32853	vyakarana	vyākaraṇa	व्याकरण	\N	毗迦羅那、語法學	grammar	One of the six disciplines associated with the study of the Vedas	neuter	\N
@@ -2233,3 +2233,7 @@
 2233	4060	pathitva	paṭhitvā	पठित्वा	\N	誦、誦念	having read	Gerund	verb1	√paṭh
 2234	4060	pathisyati	paṭhiṣyati	पठिष्यति	\N	誦、誦念	will read	Future tense, third person, singular form	verb1	√paṭh
 2235	2940	pas	paś	पश्	\N	見、看到、看	he sees , he looks	Stem form, also see √dṛś	verb1	√paś
+2236	11052	sam	sam	सम्	\N	同	with , together with , along with , together , altogether	Often used as a prefix	indeclinable	sam
+2237	1257	samnipatitah	saṃnipatitaḥ	संनिपतितः	\N	起	arose	Past particle, nominative case	verb1	saṃ + ni + √pat
+2238	277	abhut	abhūt	अभूत्	\N	是	it was	Aorist form	verb1	√bhū
+2239	3368	samnisannah	saṃniṣaṇṇaḥ	संनिषण्णः	\N	坐	sitting together	\N	verb1	saṃ + ni + √sad
