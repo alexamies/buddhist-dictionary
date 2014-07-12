@@ -77,6 +77,7 @@ class GlossGenerator:
                     element = sanskritvocab.ConvertNonStandard(token).strip()
                     match = re.search(r".*[\|,-].*", element)
                     if match:
+                       #print('[GenerateDoc] punctuation found: "%s"' % element)
                        (element, punc) = self._extractPunc(element)
                     if element in combined_dict:
                         #print('element found: "%s"' % element)
@@ -155,8 +156,13 @@ class GlossGenerator:
             print("? i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
             return (element[:i], element[i:])
         i = element.find('-')
-        if i > -1:
+        if i == (len(element)-1):
             return (element[:i], element[i:])
+        elif i == 0:
+            self._Punctuation('-')
+            return (element[i:], None)
+        else:
+            return (element, None)
 
     def _Paragraph(self, text):
         """Generates output text formatted for a paragraph.

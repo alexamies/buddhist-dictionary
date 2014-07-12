@@ -56,6 +56,7 @@ if (isset($_REQUEST['text'])) {
 } elseif (isset($_REQUEST['uri'])) {
     $uri = $_REQUEST['uri'];
     $text = file_get_contents('corpus/' . $uri);
+    //error_log("[corpus_entry.txt] Text length: " . strlen($text));
 } else {
     print("<p>No text to display.</p>");
 }
@@ -86,6 +87,7 @@ if (isset($text)) {
           trigger: 'click',
           html: true
          });
+        $('.dict-entry').on('click', function(e) {e.preventDefault(); return true;});
       });
     </script>
   </body>

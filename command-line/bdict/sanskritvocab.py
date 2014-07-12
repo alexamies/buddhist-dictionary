@@ -10,6 +10,7 @@ from bdict import configmanager
 
 DICT_FILE_NAME = '../data/dictionary/sanskrit.txt'
 COMPOUNDS_FILE_NAME = '../data/dictionary/sanskrit_compounds.txt'
+DEFAULT_OUTFILE_HTML = 'diamond-sutra-sanskrit-analysis.html'
 
 
 class SanskritVocabulary:
@@ -58,18 +59,20 @@ class SanskritVocabulary:
                             new_words[word] = 1
                         else:
                             new_words[word] += 1
-        print('## Vocabulary for %s [experimental]\n' % infile)
-        print('### Word count\n')
-        num_known = len(known_words)
-        num_new = len(new_words)
-        print('Word count: %d, unique words: %d, known words: %d, new words: %d' % 
-              (wc, num_known + num_new, num_known, num_new))
-        print('')
-        print('### Frequency of known words:')
-        self._PrintFrequencyLinks(known_words, combined_dict)
-        print('')
-        print('### Frequency of new words')
-        self._PrintFrequency(new_words)
+        outfile = DEFAULT_OUTFILE_HTML
+        with codecs.open(outfile, 'w', "utf-8") as outf:
+            outf.write('<h2>Vocabulary for %s [experimental]</h2>' % infile)
+            outf.write('<h3>Word count</h3>')
+            num_known = len(known_words)
+            num_new = len(new_words)
+            outf.write('<p>Word count: %d, unique words: %d, known words: %d, new words: %d</p>' % 
+                  (wc, num_known + num_new, num_known, num_new))
+            outf.write('<h3>Frequency of known words</h3>')
+            self._PrintFrequencyLinks(outf, known_words, combined_dict)
+            outf.write('\n')
+            outf.write('<h3>Frequency of new words</h3>')
+            self._PrintFrequency(outf, new_words)
+        print('Output written to %s' % outfile)
 
     def OpenDictionary(self):
         """Reads the dictionary into memory
@@ -125,7 +128,7 @@ class SanskritVocabulary:
                     compounds_dict[entry['iast']] = entry
         return compounds_dict
 
-    def _PrintFrequencyLinks(self, word_freq, combined_dict):
+    def _PrintFrequencyLinks(self, outf, word_freq, combined_dict):
         """Prints the set of words with markdown links
 
         args:
@@ -135,11 +138,36 @@ class SanskritVocabulary:
         keys = sorted(word_freq, key=lambda key: -word_freq[key])
         for k in keys:
             word = combined_dict[k]
-            english = word['english']
-            traditional = word['traditional']
-            print("[%s](sanskrit_query.php?word=%s '%s %s') : %d<br/>" % (k, k, english, traditional, word_freq[k]))
+            title = "%s" % word['english']
+            iast = "Word: %s<br/>" % k
+            english = "English: %s<br/>" % word['english']
+            stem = ""
+            if 'stem' in word:
+                stem = "Stem / root: %s<br/>" % word['stem']
+            dev = ""
+            if 'dev' in word:
+                dev = "Devanagari: %s<br/>" % word['dev']
+            pali = ""
+            if 'pali' in word:
+                pali = "Pali: %s<br/>" % word['pali']
+            chinese = ''
+            if 'traditional' in word:
+                chinese = "Chinese: %s<br/>" % word['traditional']
+            grammar = ""
+            if 'grammar' in word:
+                grammar = "Grammar: %s<br/>" % word['grammar']
+            notes = ""
+            if 'notes' in word:
+                notes = "Notes: %s" % word['notes']
+            parts = ""
+            if 'parts' in word:
+                parts = "Parts: %s<br/>" % word['parts']
+            content = "%s %s %s %s %s %s %s %s %s" % (iast, english, stem, dev, pali, chinese, grammar, parts, notes)
+            outf.write('<div><a href="#" class="dict-entry" data-toggle="popover"'
+                       ' title="%s" data-content="%s">%s</a> %d</div>' % (title, content, k, word_freq[k]))
 
-    def _PrintFrequency(self, word_freq):
+
+    def _PrintFrequency(self, outf, word_freq):
         """Prints the set of words without links
 
         args:
@@ -147,7 +175,7 @@ class SanskritVocabulary:
         """
         keys = sorted(word_freq, key=lambda key: -word_freq[key])
         for k in keys:
-            print("%s : %d<br/>" % (k, word_freq[k]))
+            outf.write("<div>%s : %d</div>" % (k, word_freq[k]))
 
 
 def StripPunctuation(token):

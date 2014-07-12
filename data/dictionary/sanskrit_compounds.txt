@@ -42,7 +42,7 @@
 42	yathāhaṃ	thus I	\N	2	Diamond Sūtra	 yatha + aham	Accusative form with sandhi applied
 43	arhattvaṃ	you Arhat	\N	2	Diamond Sūtra	arhat + tvam	Accusative form with sandhi applied
 44	tatkasya	that reason	\N	2	Diamond Sūtra	tat + kasya	\N
-45	kaściddharmo	any dharma	\N	2	Diamond Sūtra	kaścid + dharma	Sandhi applied to word end
+45	kaściddharmo	any dharma	\N	2	Diamond Sūtra	kaścid + dharma	Nominative case with sandhi applied to word end
 46	āryaprajñāpāramitāyai	the noble prajna paramita	\N	3	Diamond Sūtra	ārya + prajñā + pāramitā	The dative case of pāramitā is used.
 47	buddhacakṣuṣā	perceived by the Buddha	\N	2	Diamond Sūtra	buddha + cakṣuṣa	Instrumental case, singular form
 48	cittamutpādayitavyam	to tame the mind	生清淨心	2	Diamond Sūtra	citta + utpādayitavya	Accusative case
@@ -135,4 +135,19 @@
 135	bhagavānasyaitadavocat	the Bhagavan said to ...	佛告	4	Diamond Sūtra	bhagavān + asi + tat + avocat	Instrumental case
 136	sattvadhātau	types of beings	眾生之類	2	Diamond Sūtra	sattva + dhātu	\N
 137	pramāṇamudgrahītum	can it be measured?	可思量不	3	Diamond Sūtra	pramāṇam + ut + grahītum	\N
-138	subhūtirāha	Subhūti said	\N	2	Diamond Sūtra	subhūti + rai	Nominative form
+138	subhūtirāha	Subhūti said	\N	2	Diamond Sūtra	subhūti + rai	Nominative case
+139	parebhyaśca	and other	\N	2	Diamond Sūtra	parebhyas + ca	\N
+140	jīvagrāhaḥ	attachment to life	\N	2	Diamond Sūtra	jīva + grāha	Nominative case
+141	subhūteapi	Subhūti, also	\N	2	Diamond Sūtra	subhūte + api	Vocative case
+142	sattvagrāho	attachment to a being	\N	2	Diamond Sūtra	sattv + grāha	Nominative case
+143	punaste	again, he	\N	2	Diamond Sūtra	punar + te	Nominative or accusative case
+144	sūtrāntapadeṣu	words in this sutra	\N	2	Diamond Sūtra	sūtra + padeṣu	Locative case
+145	lokadhātau	in those worlds	\N	2	Diamond Sūtra	loka + dhātau	Locative case
+146	pudgalagrāho	attachment to a person	\N	2	Diamond Sūtra	pudgala + grāha	Nominative case
+147	nimittasaṃjñāyāmapi	abiding in characteristics	住於相	3	Diamond Sūtra	nimitta + saṃjñāyām + api	Locative case
+148	samyaksaṃbodhiriti	called samyaksambodhi	名阿耨多羅三藐三菩提	3	Diamond Sūtra	samyaksaṃbodhi + iti	Nominative case
+150	subhūteasti	Subhūti, is	\N	2		Diamond Sūtra	subhūte + asti	Vocative case
+151	subhūteyāvat	Subhūti,  as far as	\N	2	Diamond Sūtra	subhūte + yāvat	\N
+152	dānaparityāgaḥ	giving without dwelling	\N	2	Diamond Sūtra	dāna + parityāga	Nominative case
+153	kaściddharmaḥ	any dharma	\N	2	Diamond Sūtra	kaścid + dharma	Nominative case
+154	nārhata	not an Arhat	\N	2	Diamond Sūtra	na + arhat	\N

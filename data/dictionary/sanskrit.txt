@@ -151,8 +151,8 @@
 151	6289	jhatiti	jhaṭiti	झटिति	\N	馬上	at once	\N	noun	\N
 152	2704	badham	bāḍhaṃ	बाडं	\N	肯定	certainly	\N	adverb	\N
 153	3980	trnam	ṭṛṇaṃ	टृणं	\N	草	grass	\N	noun	\N
-154	1387	mati	mati	मति	\N	思想	thought	\N	noun	rūpa
-155	5052	rupa	rūpa	रूप	\N	色	form	Stem form	neuter	\N
+154	1387	mati	mati	मति	\N	思想	thought	\N	noun	\N
+155	5052	rupa	rūpa	रूप	\N	色	form	Stem form	neuter	rūpa
 156	9698	virah	vīraḥ	वीरः	\N	英雄、雄	hero	Nominative case, singular form	masculine	vīra
 157	2650	iha	iha	इह	\N	這裡	here	\N	pronoun	\N
 158	27452	laksmi	lakṣmī	लक्ष्मी	\N	功德天、寶藏天女、吉祥天女	Lakshmi	\N	proper_noun	\N
@@ -614,11 +614,11 @@
 614	7979	sthita	sthita	स्थित	\N	站	standing	Past particle of the stem stha	adjective	√stha
 615	7979	stha	sthā	स्था	\N	站	stand	Stem form	adjective	√stha
 616	1290	hita	hita	हित	\N	放	put	Past particle of the stem dhā	adjective	dhā
-617	1290	dha	dhā	धा	\N	放	put	Stem form	verb	√dhā
-618	775	da	dā	दा	\N	給	give	Stem form	verb	√dā
+617	1290	dha	dhā	धा	\N	放	put	Root form	verb	√dhā
+618	775	da	dā	दा	\N	給	give	Root form	verb3	√dā
 619	775	datta	datta	दत्त	\N	給	given	Past particle of the stem dā	adjective	√dā
 620	2940	drsta	dṛṣṭa	दृष्ट	\N	見	seen	Past particle of the stem dṛś	adjective	√dṛś
-621	2940	drs	dṛś	दृश्	\N	見	see	Stem form	verb	√dṛś
+621	2940	drs	dṛś	दृश्	\N	見	see	Root form	verb	√dṛś
 622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	adjective	√prach
 623	5634	labdha	labdha	लब्ध	\N	拿	taken	Past particle of the stem labdh	adjective	√labdh
 624	5634	labdh	labdh	लब्ध्	\N	拿	take , obtain	Root form for the middle voice verb	verb	√labdh
@@ -636,7 +636,7 @@
 636	25587	bihararajyam	bihārarājyam	बिहारराज्यम्	\N	比哈爾、比哈爾邦	Bihar	A state in Northern India	proper_noun	\N
 637	29097	mahabodhi mamdira	mahābodhi maṃdira	महाबोधि मंदिर	\N	摩訶菩提寺	Mahabodhi Temple	A temple in Bodh Gaya, the locatation where the Buddha attained enlightenment	proper_noun	\N
 638	29143	tripitaka	tripiṭaka	त्रिपिटक	tipitaka	三藏、大藏經	Tripitaka , Buddhist Canon	A collection of three baskets: sutras, commentaries, and regulations	proper_noun	\N
-639	29145	cakravartin	cakravartin	चक्रवर्तिन्	cakkavatti	輪王	a wheel turning king	A benevolent ruler who turns the Dharma wheel	noun	\N
+639	29145	cakravartin	cakravartin	चक्रवर्तिन्	cakkavatti	輪王	a wheel turning king	A benevolent ruler who turns the Dharma wheel	masculine	cakra + vartin
 640	16813	dvipa	dvīpa	द्वीप	\N	洲	continent	\N	noun	\N
 641	29147	catvaro dvipah	catvāro dvīpāh	चत्वारो द्वीपाह्	cattāro dīpā	四洲	Four Continents	\N	proper_noun	\N
 642	29206	dravida	drāviḍa	द्राविड	\N	達羅毗荼	Dravida , Southern India	\N	proper_noun	\N
@@ -972,7 +972,7 @@
 972	1211	paripurna	paripūrṇa	परिपूर्ण	\N	貴	precious , perfect , complete	\N	adjective	\N
 973	6888	gatha	gāthā	गाथा	\N	偈	a verse , stanza	\N	feminine	\N
 974	6900	dipamkara	dīpaṃkara	दीपंकर	\N	然燈佛、然燈	Dipankara Buddha	Stem form	masculine	dīpaṃkara
-975	6711	pada	pada	पद	\N	句	sentence	\N	neuter	pada
+975	33218	pada	pada	पद	\N	章句、句	words , sentence	Stem form	neuter	pada
 976	32438	kulaputra	kulaputra	कुलपुत्र	\N	善男子	a good man , a son of a noble family	Stem form	masculine	kulaputra
 977	10363	duhita	duhitā	दुहिता	\N	女兒	daughter	\N	feminine	\N
 978	32439	kuladuhitra	kuladuhitrā	कुलदुहित्रा	\N	善女人	a good woman , a daughter of a noble family	Stem form	feminine	kuladuhitrā
@@ -1015,7 +1015,7 @@
 1015	3896	jnata	jñāta	ज्ञात	\N	知	known	\N	adjective	\N
 1016	21940	adhimukta	adhimukta	अधिमुक्त	\N	知	known	\N	adjective	\N
 1017	6643	sthavira	sthavira	स्थविर	\N	長老	elder	\N	masculine	\N
-1018	30644	dadati	dadāti	ददाति	\N	禮	a gift	\N	masculine	\N
+1018	30644	dadati	dadāti	ददाति	\N	禮	a gift	Stem form	masculine	dadāti
 1019	9080	apratistha	apratiṣṭha	अप्रतिष्ठ	\N	無住	without attachment	\N	adjective	\N
 1020	4250	sukara	sukara	सूकर	\N	易	easy	\N	adjective	\N
 1021	875	pramana	pramāṇa	प्रमाण	\N	量	a measure	\N	neuter	\N
@@ -1452,8 +1452,8 @@
 1452	32351	mahakayah	mahākāyaḥ	महाकायः	\N	大身	great body	Nominative case, singular form	compound	mahākāya
 1453	5104	buddhabodhi	buddhabodhi	बुद्धबोधि	\N	阿耨多羅三藐三菩提	supreme enlightenment , anuttara-samyak-sambodhi	\N	compound	buddhabodhi
 1454	5104	buddhabodhim	buddhabodhiṃ	बुद्धबोधिं	\N	阿耨多羅三藐三菩提	supreme enlightenment , anuttara-samyak-sambodhi	Accusative case, singular form	compound	buddhabodhi
-1455	17993	cittadhara	cittadhārā	चित्तधारा	\N	17993	mind	\N	feminine	cittadhārā
-1456	17993	cittadharam	cittadhārāṃ	चित्तधारां	\N	17993	mind	Accusative case	feminine	cittadhārā
+1455	17993	cittadhara	cittadhārā	चित्तधारा	\N	心	mind	\N	feminine	citta + dhārā
+1456	17993	cittadharam	cittadhārāṃ	चित्तधारां	\N	心	mind	Accusative case	feminine	citta + dhārā
 1457	28088	anuttaram	anuttarāṃ	अनुत्तरां	anuttara	阿耨多羅	unsurpassed , supreme	Accusative case, singular form	adjective	anuttara
 1458	5069	rasan	rasān	रसान्	\N	味	taste	Accusative case, plural form	masculine	rasa
 1459	1805	daksinam	dakṣiṇaṃ	दक्षिणं	\N	南	south , right	Accusative case, singular form	adjective	dakṣiṇa
@@ -1873,7 +1873,7 @@
 1873	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyaksambodhi
 1874	8307	adrsti	adṛṣṭi	अदृष्टि	\N	不見	blind , not seen	Stem form	adjective	adṛṣṭi
 1875	8307	adrstih	adṛṣṭiḥ	अदृष्टि	\N	不見	blind , not seen	Nominative case, singular form	adjective	adṛṣṭi
-1876	1490	sarva	sarva	सर्व	\N	一切	each , every , all	Instrumental case, plural form	adjective	sarva
+1876	1490	sarvaih	sarvaiḥ	सर्वैः	\N	一切	each , every , all	Instrumental case, plural form	adjective	sarva
 1877	21017	dharmaparyayah	dharmaparyāyaḥ	धर्मपर्यायः	\N	法門	Dharmaparyaya , a Dharma door , a Buddhist teaching	Nominative case	compound	dharmaparyāya
 1878	5513	masi	maṣi	मषि	\N	粉	powder , ink	Stem form	noun	maṣi
 1879	5513	masim	maṣiṃ	मषिं	\N	粉	powder , ink	Accusative case, singular form maṣim with ending modified for sandhi	noun	maṣi
@@ -2129,7 +2129,7 @@
 2129	1802	pascime	paścime	पश्चिमे	\N	西	the west	\N	indeclinable	paścima
 2130	3512	ukta	ukta	उक्त	\N	言	uttered , said , spoken	mfn	adjective	ukta
 2131	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
-2132	28422	bhagavat	bhagavat	भगवत्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
+2132	28422	bhagavat	bhagavat	भगवत्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Stem form. Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
 2133	28422	bhagavatya	bhagavatyā	भगवत्या	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Instrumental case, singular form	masculine	bhagavat
 2134	301	ekasmin	ekasmin	एकस्मिन्	\N	一	one	Locative case, singular, masculine or neuter form	adjective	eka
 2135	303	trayas	trayas	त्रयस्	\N	三	three	Nonmimal case, plural, masculine form	adjective	tri
@@ -2280,3 +2280,28 @@
 2280	3641	ut	ut	उत्	\N	乎	a particle of doubt or deliberation	\N	indeclinable	ut
 2281	1459	grahitum	grahītum	ग्रहीतुम्	\N	得	to seize , take , grasp , lay hold of	Infinitive form of the class 9 verb	verb	√grah
 2282	1459	rai	rai	रै	\N	得	barking , sound , noise	Stem form	masculine	rai
+2283	2042	parebhyas	parebhyas	परेभ्यस्	\N	另	other	Ablative and dative forms	adjective	para
+2284	775	dadati	dadāti	ददाति	\N	給	he gives	Present tense, third person, singular, masculine form	verb3	√dā
+2285	775	dattva	dattvā	दत्त्वा	\N	給	having given	Gerund	verb3	√dā
+2286	775	dasyati	dāsyati	दास्यति	\N	給	will give	Future tense, third person, singular, masculine form	verb3	√dā
+2287	775	dadyat	dadyāt	दद्यात्	\N	給	give	Optative	verb3	√dā
+2288	2028	syat	syāt	स्यात्	\N	或	it may be , perhaps , perchance	\N	indeclinable	syāt
+2289	33218	padesu	padeṣu	पदेषु	\N	章句、句	words , sentence	Locative case	neuter	pada
+2290	363	lokadhatau	lokadhātau	लोकधातौ	\N	世界	a world , a region of the world	Locative case	masculine	lokadhātu
+2291	17908	ayam	ayam	अयम्	\N	是	this	Another form of idam	pronoun	ayam
+2292	17908	asya	asya	अस्य	\N	是	this	Genetive singular	pronoun	ayam
+2293	32106	samjnayam	saṃjñāyām	संज्ञायाम्	\N	想蘊、想	notion , perception , cognition , conceptualization , saṃjñā , appearance	Locative case	feminine	saṃjñā
+2294	519	tasu	tāsu	तासु	\N	她	them	Locative case, plural form	feminine	tad
+2295	7937	esa	eṣa	एष	\N	尋	the act of seeking or going after	Stem form	masculine	eṣa
+2296	17993	cittadhareti	cittadhāreti	चित्तधारेति	\N	心	mind	Nominative case	feminine	citta + dhārā
+2297	27416	sakridagami	sakridāgāmi	सक्रिदागामि	sakridāgāmi	斯陀含	Once-returner	\N	masculine	sakridāgāmi
+2298	370	āgāmin	āgāmin	सक्रिदागामि	sakridāgāmi	來	coming , approaching	mfn	adjective	āgāmin
+2299	28422	bhagavantah	bhagavantaḥ	भगवन्तः	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Nominative case	masculine	bhagavat
+2300	502	nanu	nanu	ननु	\N	不	not , not at all , never	Interrogatively: not? is it not? hence often equivalent to certainly , surely , indeed , no doubt, especially in questions amounting to an affirmation	indeclinable	nanu
+2301	343	gaccheyuḥ	gaccheyuḥ	गच्छेयुः	\N	去	go	Optative, accusative form	verb1	√gam
+2302	29145	cakravarti	cakravartī	चक्रवर्ती	\N	輪王	a wheel turning king	Nominative case, singular form	masculine	cakra + vartin
+2303	3794	yam	yāṃ	यां	\N	誰	whom	Accusative case, plural form with anusvara sandhi	masculine	yad
+2304	4054	parityaga	parityāga	परित्याग	\N	捨	the act of leaving , abandoning , deserting , quitting , giving up , neglecting , renouncing	\N	masculine	parityāga
+2305	17908	idam	idaṃ	इदं	\N	是	this	Stem form with anusvara sandhi	pronoun	idam
+2306	3382	dikṣu	dikṣu	दिक्षु	\N	方	quarter or region pointed at , direction , cardinal point	Locative case, plural form	feminine	diś
+2307	5052	rūpeṇa	rūpeṇa	रूपेण	\N	色	form	Instrumental case, singular form	neuter	rūpa
