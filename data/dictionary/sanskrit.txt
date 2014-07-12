@@ -371,15 +371,15 @@
 371	321	maya	mayā	मया	\N	我	with me	Instrumental case, first person, singular personal pronoun	pronoun	mad
 372	3925	srutam	śrutam	श्रुतम्	\N	聞	listened to , heard	Accusative form	adjective	śruta
 373	1250	matapitarau	mātāpitarau	मातापितरौ	\N	父母	parents	\N	noun	\N
-374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	A class I thematic verb root	verb	√bhū
+374	1291	bhu	bhū	भू	\N	存在、存、現有、現存	to be , to exist	A class I thematic verb root	verb1	√bhū
 375	4792	khad	khad	खद्	\N	吃	to eat	\N	verb1	√bhū
-376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	\N	verb	√pā
+376	4358	pibati	pibāti	पिबाति	\N	飲、喝	he drinks	Present tense, third person, singular form	verb1	√pā
 377	5036	jivati	jīvati	जीवति	\N	活、生活	he lives	\N	verb1_3rd	√jīv
 378	533	sravati	sravati	स्रवति	\N	流	to flow	\N	verb	\N
 379	1808	ghosati	ghoṣati	घोषति	\N	宣布、宣告	to proclaim	\N	verb	\N
 380	3996	svapati	svapati	स्वपति	\N	睡、睡覺	to sleep	\N	verb	\N
 381	343	gam	gam	गम्	\N	去	to go	Root form	verb1	√gam
-382	707	man	man	मन्	\N	想、思	to think	Root form	verb	√man
+382	707	man	man	मन्	\N	想、思	to think , believe , imagine , suppose , conjecture	Root form of class 4 and 8 verb	verb	√man
 383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says , he is speaking	Third person singular form (~ti) of the active verb	verb1_3rd	√vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti<,em> indicates that a male is performing the action	verb4_3rd	nṛt
 385	916	visati	viśati	विशति	\N	入	he enters	Present tense, third person, singular	verb6	√viś
@@ -446,8 +446,8 @@
 446	20325	rajavarta	rājāvarta	राजावर्त	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 447	20325	suvarnabha	suvarṇābha	सुवर्णाभ	\N	琉璃、青金石	lapis lazuli	\N	noun	\N
 448	584	upa	upa	उप	\N	上	at the time of , upon , up to , in , above	A prefix	indeclinable	upa
-449	3723	prach	prach	प्रछ्	\N	問	to ask	\N	verb6	\N
-450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	Third person, singular form of the active verb	verb6_3rd	√pṛach
+449	3723	prach	prach	प्रछ्	\N	問	to ask , question , interrogate	Root form	verb6	√prach
+450	3723	prcchati 	pṛcchati	पृच्छति	\N	問	he asks	Present tense, third person, singular form of the active verb	verb6	√prach
 451	916	pravisati	praviśati	प्रविशति	\N	入	he enters , he goes into	\N	verb6_3rd	\N
 452	4283	likh	likh	लिख्	\N	寫、記載、書寫、筆、書	to write	\N	verb6	\N
 453	4283	likhati	likhati	लिखति	\N	寫、記載、書寫、筆、書	he writes	\N	verb6_3rd	likh
@@ -605,7 +605,7 @@
 605	3122	parvata	parvata	पर्वत	\N	山	a mountain	\N	masculine	\N
 606	28021	ksetra	kṣetra	क्षेत्र	\N	界	a realm , a field , a domain	\N	neuter	\N
 607	4355	bhojana	bhojana	भोजन	\N	食	food	\N	neuter	\N
-608	3513	vacana	vacana	वचन	\N	言	speech , words	\N	neuter	\N
+608	3513	vacana	vacana	वचन	\N	言	the act of speaking , utterance	Stem form	neuter	vacana
 609	4181	vana	vana	वन	\N	森林	a forest	Stem form	neuter	vana
 610	5468	vismita	vismita	विस्मित	\N	驚	surprised	\N	adjective	\N
 611	18594	upta	upta	उप्त	\N	稼、播	sown	Past particle of the stem vap	adjective	\N
@@ -619,16 +619,16 @@
 619	775	datta	datta	दत्त	\N	給	given	Past particle of the stem dā	adjective	√dā
 620	2940	drsta	dṛṣṭa	दृष्ट	\N	見	seen	Past particle of the stem dṛś	adjective	√dṛś
 621	2940	drs	dṛś	दृश्	\N	見	see	Stem form	verb	√dṛś
-622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	adjective	\N
+622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	adjective	√prach
 623	5634	labdha	labdha	लब्ध	\N	拿	taken	Past particle of the stem labdh	adjective	√labdh
 624	5634	labdh	labdh	लब्ध्	\N	拿	take , obtain	Root form for the middle voice verb	verb	√labdh
 625	441	udha	ūḍha	ऊढ	\N	承、負、提、揹、抬	carried	Past particle of the stem vah	adjective	√vah
 626	441	vah	vah	वह्	\N	承、負、提、揹、抬	carried	Stem form	verb	√vah
 627	1264	patita	patita	पतित	\N	落	dropped , fallen	Past particle	verb1	√pat
 628	1264	pat	pat	पत्	\N	落	to drop , to fall	Stem form	verb1	√pat
-629	412	udita	udita	उदित	\N	說、云、言、曰、告	spoken	Past particle of the stem vad	adjective	√vad
-630	1459	grhita	gṛhīta	गृहीत	\N	得	seized , obtained	Past particle of the stem grah	adjective	grah
-631	1459	grah	grah	ग्रह्	\N	得	seized , obtained	Stem form	verb	grah
+629	412	udita	udita	उदित	\N	說、云、言、曰、告	spoken	Past particle	adjective	vad
+630	1459	grhita	gṛhīta	गृहीत	\N	得	seized , obtained	Past particle	adjective	grah
+631	1459	grah	grah	ग्रह्	\N	得	to seize , take , grasp , lay hold of	Root form for class 1 and 9 verb	verb	√grah
 632	29092	dharmapada	dharmapada	धर्मपद	dhamapada	法句經	Dharmapada	\N	proper_noun	\N
 633	29093	magahi	magahī	मगही	\N	摩揭陀語	Magahi language , Magadhi , Magadhi Prakrit	Believed to be the language spoken by the Buddha. Magadhi is the modern descendant.	proper_noun	\N
 634	29094	kaithi	kaithī	कैथी	\N	凱提文	Kaithi script , Kayathi , Kayasthi	\N	proper_noun	\N
@@ -672,7 +672,7 @@
 672	13890	karoti	karoti	करोति	\N	做	he does	\N	verb8	\N
 673	13890	kurvanti	kurvanti	कुर्वन्ति	\N	做	they do	\N	verb	\N
 674	3368	upavista	upaviṣṭa	उपविष्ट	\N	坐	seated	Participle	verb	\N
-675	3723	prcchasi	pṛcchasi	पृच्छसि	\N	問	you ask	Second person form of the verb	verb	√pṛach
+675	3723	prcchasi	pṛcchasi	पृच्छसि	\N	問	you ask	Second person form of the verb	verb6	√prach
 676	2070	lekhanya	lekhanyā	लेखन्या	\N	筆	with a pen	Instrumental case	noun	\N
 677	15657	dasena	dāsena	दासेन	\N	役	a servant	\N	noun	\N
 678	3865	duhkhena	duḥkhena	दासेन	\N	苦	by suffering	Instrumental case of duḥkha	noun	\N
@@ -692,7 +692,7 @@
 692	29713	saddharmapratirupaka	saddharmapratirūpaka	सद्धर्मप्रतिरूपक	\N	像法	The Period of Semblance Dharma	\N	phrase	\N
 693	5549	vipralopa	vipralopa	विप्रलोप	\N	末	destruction , annihilation	\N	masculine	\N
 694	21824	saddharmavipralopa	saddharmavipralopa	सद्धर्मविप्रलोप	\N	末法	The Period of Declining of Dharma	\N	phrase	\N
-695	5049	pancaskandha	pañcaskandha	पञ्चस्कन्ध	pañca khandhā	五蘊	the five aggregates , five skandhas , five dharmas	\N	phrase	\N
+695	5049	pancaskandha	pañcaskandha	पञ्चस्कन्ध	pañca khandhā	五蘊	the five aggregates , five skandhas , five dharmas	\N	compound	pañca + skandha
 696	29718	alayavijnana	ālayavijñāna	आलयविज्ञान	\N	阿賴耶識	Alaya Consciousness , Store-house Consciousness	One of the eight kinds of conciousness	proper_noun	\N
 697	5438	alaya	ālaya	आलय	\N	屋、房、家	home , house , abode ,  dwelling , place	\N	masculine	\N
 698	19473	amoghavajra	amoghavajra	अमोघवज्र	\N	不空	Amoghavajra	c. 705&mdash;774 CE, one of the four great translators	proper_noun	\N
@@ -793,7 +793,7 @@
 793	615	krta	kṛta	कृत	\N	夠	done , made , accomplished , performed , put	mfn	adjective	kṛta
 794	12264	kutuhalin	kutūhalin	कुतूहलिन्	\N	好奇	curious , eager , impatient	\N	adjective	\N
 795	1260	calati	calati	चलति	\N	行	to walk , to move	\N	verb	\N
-796	3894	budh	budh	बुध्	\N	覺	awaken	In the process of awakening, root form	verb	√budh
+796	3894	budh	budh	बुध्	\N	覺	to wake , wake up , be awake , to perceive , notice , learn , understand , become or be aware of or acquainted with	Root form	verb4	√budh
 797	3894	buddha	buddha	बुद्ध	\N	覺	awakened	Already awakened	verb	\N
 798	3368	sad	sad	सद्	\N	坐	sitting in , dwelling in	Stem form	adjective	sad
 799	3368	sanna	sanna	सन्न	\N	坐	sat	Past particple	verb	sad
@@ -924,7 +924,7 @@
 924	32157	cintana	cintana	चिन्तन	\N	思惟	thought , thinking	\N	neuter	\N
 925	32157	samkalpa	saṃkalpa	संकल्प	sankappa	思惟、誌	intention	\N	masculine	\N
 926	11506	samyak	samyak	सम्यक्	sammā	正	precise , exact , accurate	\N	adjective	\N
-927	5965	vac	vāc	वाच्	vaca	語	word , language , speech	\N	feminine	\N
+927	5965	vac	vāc	वाच्	vaca	語	word , language , speech	Stem form	feminine	vāc
 928	17979	karmanta	karmānta	कर्मान्त	kammanta	業	actions	\N	masculine	\N
 929	17981	ajiva	ājīva	आजीव	ājīva	命	livelihood	\N	masculine	\N
 930	3165	dharma	dhárma	धर्म	dhamma	法	Dharma , the teachings of the Buddha	\N	proper_noun	\N
@@ -938,7 +938,7 @@
 938	469	lohita	lohita	लोहित	lohita	紅	red	\N	adjective	\N
 939	469	lohita	lohita	लोहित	lohita	紅	red	\N	masculine	\N
 940	491	avadata	avadāta	अवदात	odāta	白	white , pure , clean	\N	adjective	\N
-941	3876	akasa	ākāśa	आकाश	ākāsa	空	the sky , space	\N	neuter	\N
+941	3876	akasa	ākāśa	आकाश	ākāsa	空	the sky , space	Stem form	neuter	ākāśa
 942	1229	aloka	āloka	आलोक	āloka	光	light	\N	masculine	\N
 943	32298	samahita	samāhita	समाहित	samāhita	入定	entered into meditation , settled , composed , collected of mind	\N	adjective	\N
 944	32299	karmaniya	karmaṇīya	कर्मणीय	kammanīya	適業	fit for work	\N	adjective	\N
@@ -1110,8 +1110,8 @@
 1110	4779	tin	tiṅ	तिङ्	\N	詞尾	suffix	\N	neuter	\N
 1111	1149	uttama	uttama	उत्तम	\N	後	last	\N	adjective	\N
 1112	343	gacchasi	gacchasi	गच्छसि	\N	去	you go	Second person	verb	√gam
-1113	3723	prcchami	prcchāmi	प्र्च्छामि	\N	問	I ask	First person form of the verb	verb1_1st	√pṛach
-1114	375	bhavati	bhavati	भवति	\N	作	he becomes , he is	Third person singular form of the active verb	verb1_3rd	√bhū
+1113	3723	prcchami	prcchāmi	प्र्च्छामि	\N	問	I ask	Present tense, first person form of the verb	verb6	√prach
+1114	375	bhavati	bhavati	भवति	\N	作	he becomes , he is	Present tense, third person singular form of the active verb	verb1	√bhū
 1115	27699	aranya	araṇya	अरण्य	\N	阿蘭若、蘭若、阿蘭那、阿練茹、阿練若、阿蘭攘、阿蘭拏、練若	a forest , a secluded place to practice	A secluded or wilderness location for a person to practice Buddhism and live.	neuter	\N
 1116	32876	aranyaka	āranyaka	आरन्यक	\N	arañña	阿蘭若迦	a person who dwells in the wilderness to practice Buddhism and live.	masculine	\N
 1117	2401	dipa	dīpa	दीप	dīpa	燈	light , lantern , lamp	Stem form	masculine	dīpa
@@ -1131,7 +1131,7 @@
 1131	28300	ghosavat	ghoṣavat	घोषवत्	\N	濁音	voiced , sonant	\N	adjective	\N
 1132	28303	aghosa	aghoṣa	अघोष	\N	清音	unvoiced	\N	adjective	\N
 1133	7225	anunasika	anunāsika	अनुनासिक	\N	鼻音	nasal	\N	adjective	\N
-1134	3723	prccha	pṛccha	पृच्छ	\N	問	ask	Stem form of the verb	verb	√pṛach
+1134	3723	prccha	pṛccha	पृच्छ	\N	問	ask	\N	verb6	√pṛach
 1135	343	gacchatah	gacchataḥ	गच्छतः	\N	去	those two go	Dual form, third person form of the verb with stem gaccha	verb	√gam
 1136	343	gacchathah	gacchathaḥ	गच्छथः	\N	去	you two go	Dual form, second person form of the verb with stem gaccha	verb	√gam
 1137	343	gacchavah	gacchāvaḥ	गच्छावः	\N	去	we two go	Dual form, first person form of the verb with stem gaccha	verb	√gam
@@ -1147,8 +1147,8 @@
 1147	3811	khalu	khalu	खलु	\N	爾	now then , indeed , certainly	\N	indeclinable	khalu
 1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
 1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana , the practice of giving	Word ending modified for the accusive case	noun	\N
-1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. (Conze 1958, p36). Accusative case, singular form.	masculine	puṇyaskandha
-1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	proper_noun	tathāgata
+1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. (Conze 1958, p36). Accusative case, singular form.	compound	puṇya + skandha
+1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	masculine	tathāgata
 1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
 1153	21078	sattvanam	sattvānāṃ	सत्त्वानां	\N	有情	belonging to beings	Genitive case, plural form	masculine	sattva
 1154	28804	puruso	puruṣo	पुरुषो	\N	丈夫	a man , a great man	Normally written as puruṣa but the word ending is modified here for Sanskrit grammar	noun	\N
@@ -1277,7 +1277,7 @@
 1277	3223	balah	bālāḥ	बालाः	\N	子	child , boy	Nominative case, plural form	masculine	bāla
 1278	412	vadanti	vadanti	वदन्ति	\N	說、告、云、言、曰	they say , they are speaking	Plural third person form (~nti)	verb1_3rd	√vad
 1279	7076	mrgan	mṛgān	मृगान्	\N	鹿	deer	Accusative case, plural form	masculine	mṛga
-1280	3723	prcchanti 	pṛcchanti	पृच्छन्ति	\N	問	they ask	Third person, plural form	verb6_3rd	√pṛach
+1280	3723	prcchanti 	pṛcchanti	पृच्छन्ति	\N	問	they ask	Present tense, third person, plural form	verb6	√prach
 1281	3236	nrpaya	nṛpāya	नृपाय	\N	王	a king	Dative case, singular form	masculine	nṛpa
 1282	2618	asvaih	aśvaiḥ	अश्वैः	\N	馬	horses	Instrumental case, plural form	masculine	aśva
 1283	9698	virau	vīrau	वीरौ	\N	英雄、雄	two heros	Nominative and accusative case, dual form	masculine	vīra
@@ -1896,16 +1896,16 @@
 1896	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb10	√cint
 1897	5284	jitva	jitvā	जित्वा	\N	勝、勝利、贏、獲勝	having conquered	Gerund	verb1	√ji
 1898	4000	pathitva	paṭhitvā	पठित्वा	\N	誦、讀	having read , having recited	Gerund	verb	√paṭh
-1899	3723	prstva 	pṛṣṭvā	पृष्ट्वा	\N	問	having asked	Gerund	verb	√pṛach
-1900	412	bhasitva	bhāṣitvā	भाषित्वा	\N	說、言	having said	Gerund	verb	√bhāṣ
-1901	375	bhutva	bhūtvā	भूत्वा	\N	作	having been	Gerund	verb	√bhū
+1899	3723	prstva 	pṛṣṭvā	पृष्ट्वा	\N	問	having asked	Gerund	verb6	√prach
+1900	412	bhasitva	bhāṣitvā	भाषित्वा	\N	說、言	having said	Gerund	verb1	√bhāṣ
+1901	375	bhutva	bhūtvā	भूत्वा	\N	作	having been	Gerund	verb1	√bhū
 1902	707	matva	matvā	मत्वा	\N	想、思	having thought	Gerund	verb	√man
 1903	747	usitva	uṣitvā	उषित्वा	\N	住	having lived	Gerund	verb	√vad
 1904	1709	sevitva	sevitvā	सेवित्वा	\N	服務	having served	Gerund	verb	√sev
 1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	Gerund	verb	√sthā
 1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	Gerund	verb	√smṛ
 1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	Gerund	verb	√kṛ
-1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	Gerund	verb	√śru
+1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	Gerund	verb5	√śru
 1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	Gerund	verb1	√car
 1910	5500	gajam	gajaṃ	गजं	\N	大象、象	an elephant	Accusative case, singular form gajam with sandhi applied	masculine	gaja
 1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	Gerund	verb	√likh
@@ -2038,7 +2038,7 @@
 2038	6281	gopayati	gopāyati	गोपायति	\N	護	he protects	Present tense, third person, singular form	verb4	√gup
 2039	3279	guru	guru	गुरु	\N	重	heavy , weighty	mf(vī)n	adjective	guru
 2040	3548	prati	prati	प्रति	\N	回	back , again , in return	A prefix to roots and their derivative nouns and other nouns	indeclinable	prati
-2041	3548	pratigacchati	pratigacchati	प्रतिगच्छति	\N	回	he returns , he goes back	A compound verb	verb	prati + √gam
+2041	3548	pratigacchati	pratigacchati	प्रतिगच्छति	\N	回	he returns , he goes back	A compound verb	verb1	prati + √gam
 2042	28460	lan	laṅ	लङ्	\N	未完成時	the imperfect tense	In grammar	noun	laṅ
 2043	28460	anadyatana	anadyatana	लङ्	\N	未完成時	a tense not applicable to the current day	In grammar, either past or future	masculine	anadyatana
 2044	9298	agama	āgama	आगम	āgama	詞頭	a grammatical augment	A meaningless syllable or letter inserted in any part of the radical word	masculine	āgama
@@ -2077,9 +2077,9 @@
 2077	581	upanisad	upaniṣad	उपनिषद्	\N	下	below	\N	feminine	upaniṣad
 2078	370	agaccham	āgaccham	आगच्छम्	\N	來	I came	Imperfect, second first, singular	verb	a + a + √gam
 2079	6281	gup	gup	गुप्	\N	護	to guard , defend , protect , preserve	Root form, active	verb	√gup
-2080	4358	pa	pā	पा	\N	飲	to drink , quaff , suck , sip , swallow	Root form, active	verb	√pā
-2081	3894	bodhati	bodhati	बोधति	\N	覺	he knows	In the process of awakening	verb	√budh
-2082	3894	bodhate	bodhate	बोधते	\N	覺	he knows	In the process of awakening	verb	√budh
+2080	4358	pa	pā	पा	\N	飲	to drink , quaff , suck , sip , swallow	Root form, active	verb1	√pā
+2081	3894	bodhati	bodhati	बोधति	\N	覺	he knows	Present tense, third person	verb4	√budh
+2082	3894	bodhate	bodhate	बोधते	\N	覺	he knows	Present tense, third person	verb4	√budh
 2083	5578	budbuda	budbuda	बुद्बुद	\N	泡	a bubble	Stem form	masculine	budbuda
 2084	5578	budbudam	budbudam	बुद्बुदम्	\N	泡	a bubble	Accusative case, singular form	masculine	budbuda
 2085	5863	paryupāsita	paryupāsita	पर्युपासित	\N	拜	worshipped , reverenced	mfn	adjective	paryupāsita
@@ -2174,7 +2174,7 @@
 2174	6686	tathāgatas	tathāgatas	तथागतस्	\N	如來	Tathagata	Nominative case, singular form	masculine	tathāgata
 2175	644	chedaka	chedaka	छेदक	\N	切	cutting off	mfn	adjective	chedaka
 2176	644	chedikā	chedikā	छेदिका	\N	切	cutting off	Nominative case, singular form, feminine	adjective	chedaka
-2177	7205	nam	nam	नम्	\N	南無	to bow to , subject or submit , one's self	Root form of the verb	verb1	√nam
+2177	6652	nam	nam	नम्	\N	恭敬、南無	to bow to , subject or submit , one's self	Root form of the verb	verb1	√nam
 2178	313	sataka	śataka	शतक	\N	百	consisting of a hundred , comprising or amounting to a hundred	mf(ikā)n	adjective	śataka
 2179	313	satika	śatikā	शतिका	\N	百	consisting of a hundred , comprising or amounting to a hundred	Nominative case, singular form	adjective	śataka
 2180	1260	kram	kram	क्रम्	\N	行	to step , walk , go , go towards , approach	Root form	verb1	√kram
@@ -2234,6 +2234,49 @@
 2234	4060	pathisyati	paṭhiṣyati	पठिष्यति	\N	誦、誦念	will read	Future tense, third person, singular form	verb1	√paṭh
 2235	2940	pas	paś	पश्	\N	見、看到、看	he sees , he looks	Stem form, also see √dṛś	verb1	√paś
 2236	11052	sam	sam	सम्	\N	同	with , together with , along with , together , altogether	Often used as a prefix	indeclinable	sam
-2237	1257	samnipatitah	saṃnipatitaḥ	संनिपतितः	\N	起	arose	Past particle, nominative case	verb1	saṃ + ni + √pat
+2237	1264	samnipatitah	saṃnipatitaḥ	संनिपतितः	\N	落	met together, assembled	Past particle, nominative case	verb1	saṃ + ni + √pat
 2238	277	abhut	abhūt	अभूत्	\N	是	it was	Aorist form	verb1	√bhū
-2239	3368	samnisannah	saṃniṣaṇṇaḥ	संनिषण्णः	\N	坐	sitting together	\N	verb1	saṃ + ni + √sad
+2239	3368	samnisannah	saṃniṣaṇṇaḥ	संनिषण्णः	\N	坐	settled down , seated	\N	verb1	saṃ + ni + √sad
+2240	4358	pitva	pītvā	पीत्वा	\N	飲	having drank	Gerund	verb1	√pā
+2241	4358	pasyati	pāsyati	पास्यति	\N	飲	will drink	Future tense, third person, singular form	verb1	√pā
+2242	3723	praksyati 	prakṣyati	प्रक्ष्यति	\N	問	will ask	Future tense, third person, singular form	verb6	√prach
+2243	6643	ayusmat 	āyuṣmat	आयुष्मत्	\N	長老	life-possessing , elder (honorific title)	often applied as a kind of honorific title (especially to royal personages and Buddhist monks)	masculine	āyuṣmat
+2244	6643	ayusman 	āyuṣmān	आयुष्मान्	\N	長老	life-possessing, elder (honorific title)	Nominative case, singular form	masculine	āyuṣmat
+2245	1086	apya 	āpya	आप्य	\N	達	to be reached , obtainable	mfn	adjective	āpya
+2246	11672	pratisthapya 	pratiṣṭhāpya	प्रतिष्ठाप्य	\N	成	having established	Gerund	verb	prati + sthāpya
+2247	11672	sthapya	sthāpya	स्थाप्य	\N	成	to be set up or erected	mfn	adjective	sthāpya
+2248	11672	pratisthapyati 	pratiṣṭhāpyati	प्रतिष्ठाप्यति	paḍiṭṭhavia	成	he establishes	Present tense, third person, masculine	verb	prati + sthāpya
+2249	6652	namati	namati	नमति	\N	恭敬	he bows to	Present tense, third party, singular form	verb1	√nam
+2250	6652	natva	natvā	नत्वा	\N	恭敬	having bowed to	Gerund	verb1	√nam
+2251	6652	namsyati	naṃsyati	नंस्यति	\N	恭敬	will bow to	Future tense, third party, singular form	verb1	√nam
+2252	6652	pranamya	praṇamya	नंस्यति	\N	恭敬	having bowed to	Gerund	verb1	pra + √nam
+2253	3512	vac	vac	वच्	\N	言	to speak , say , tell , utter , announce , declare , mention , proclaim , recite , describe	Root form	verb2	√vac
+2254	3512	vakti	vakti	वक्ति	\N	言	he speaks	Present tense, third party, singular form	verb2	√vac
+2255	3512	uktva	uktvā	उक्त्वा	\N	言	having spoken	Gerund	verb2	√vac
+2256	3512	vaksyati	vakṣyati	वक्ष्यति	\N	言	he will speak	Future tense, third party, singular form	verb2	√vac
+2257	3512	avocat	avocat	अवोचत्	\N	言	speak	Aorist	verb2	√vac
+2258	271	etad	etad	एतद्	\N	這	this , this here , here	mfn, especially as pointing to what is nearest to the speaker	adjective	etad
+2259	271	etat	etat	एतत्	\N	這	this , this here , here	In compounds for etad	adjective	etad
+2260	3548	pratigatya	pratigatya	प्रतिगत्य	\N	回	having returned	Gerund	verb1	prati + √gam
+2261	3548	pratigamya	pratigamya	प्रतिगम्य	\N	回	having returned	Gerund	verb1	prati + √gam
+2262	3548	pratigamisyati	pratigamiṣyati	प्रतिगमिष्यति	\N	回	he will return	Future tense, third party, singular form	verb1	prati + √gam
+2263	3894	buddhva	buddhvā	बुद्ध्वा	\N	覺	having known	Gerund	verb4	√budh
+2264	3894	bhotsyati	bhotsyati	भोत्स्यति	\N	覺	he will know	Future tense, third party, singular form	verb4	√budh
+2265	3894	bhotsyate	bhotsyate	भोत्स्यते	\N	覺	he will know	Future tense, third party, singular form	verb4	√budh
+2266	412	bhas	bhāṣ	भाष्	\N	說、言	to speak , talk , say , tell	Root form, with accusive of a thing or person	verb1	√bhāṣ
+2267	412	bhasisyate	bhāṣiṣyate	भाषिष्यते	\N	說、言	to speak , talk , say , tell	Future tense, third party, singular form	verb1	√bhāṣ
+2268	707	mamsyate	maṃsyate	मंस्यते	\N	想、思	will think	Future tense, third party, singular form	verb	√man
+2269	3858	yavat	yāvat	यावत्	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	\N	indeclinable	yāvat
+2270	3670	susthu	suṣṭhu	सुष्ठु	\N	善	aptly , fitly , duly , well , excellently , exceedingly	\N	indeclinable	suṣṭhu
+2271	3925	asrausit	aśrauṣīt	अश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	√śru
+2272	3925	pratyasrausit	pratyaśrauṣīt	प्रत्यश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	prati + √śru
+2273	1511	yavat	yāvat	यावत्	\N	甚至	as great , as large , as much , as many , as often , as frequent , as far , as long , as old	mf(atī)n	adjective	yāvat
+2274	1511	yavan	yāvān	यावान्	\N	甚至	as great , as large , as much , as many , as often , as frequent , as far , as long , as old	Nominative and accusive case	adjective	yāvat
+2275	2074	vaktavya	vaktavya	वक्तव्य	\N	話	to be (or being) spoken or said or uttered or declared , fit to be said or spoken	mf(ā)n	adjective	vaktavya
+2276	2074	vaktavyo	vaktavyo	वक्तव्यो	\N	話	to be (or being) spoken or said or uttered or declared , fit to be said or spoken	Nominative with visarga sandhi	adjective	vaktavya
+2277	3382	dis	diś	दिश्	\N	方	quarter or region pointed at , direction , cardinal point	Stem form	feminine	diś
+2278	3382	diśi	diśi	दिशि	\N	方	quarter or region pointed at , direction , cardinal point	Locative case, singular form	feminine	diś
+2279	3876	akasasya	ākāśasya	आकाशस्य	\N	空	the sky , space	Genitive case, singular form	neuter	ākāśa
+2280	3641	ut	ut	उत्	\N	乎	a particle of doubt or deliberation	\N	indeclinable	ut
+2281	1459	grahitum	grahītum	ग्रहीतुम्	\N	得	to seize , take , grasp , lay hold of	Infinitive form of the class 9 verb	verb	√grah
+2282	1459	rai	rai	रै	\N	得	barking , sound , noise	Stem form	masculine	rai
