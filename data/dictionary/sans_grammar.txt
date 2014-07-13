@@ -15,6 +15,7 @@ verb2	Class II Verb	\N
 verb1_3rd	Class I in the third person	A verb that undergoes a thematic inflection in the third person form, usually with <em>ti</em> appended
 verb1_2nd	Class I in the second person	A verb that undergoes a thematic inflection in the second person form
 verb1_1st	Class I in the first person	A verb that undergoes a thematic inflection in the first person form
+verb3	Class III	\N
 verb4	Class IV	A verb that undergoes a thematic inflection
 verb4_3rd	Verb of class IV in the third person	A verb that undergoes a thematic inflection in the third person form, usually with <em>ti</em> appended
 verb5	Class V	A verb that undergoes a thematic inflection

@@ -75,7 +75,7 @@ class GlossGenerator:
                 for token in words:
                     punc = None
                     element = sanskritvocab.ConvertNonStandard(token).strip()
-                    match = re.search(r".*[\|,-].*", element)
+                    match = re.search(r".*[\|\?,-].*", element)
                     if match:
                        #print('[GenerateDoc] punctuation found: "%s"' % element)
                        (element, punc) = self._extractPunc(element)
@@ -153,7 +153,7 @@ class GlossGenerator:
             return (element[:i], element[i:])
         i = element.find('?')
         if i > -1:
-            print("? i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
+            #print("? i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
             return (element[:i], element[i:])
         i = element.find('-')
         if i == (len(element)-1):

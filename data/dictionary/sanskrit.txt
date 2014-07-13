@@ -380,7 +380,7 @@
 380	3996	svapati	svapati	स्वपति	\N	睡、睡覺	to sleep	\N	verb	\N
 381	343	gam	gam	गम्	\N	去	to go	Root form	verb1	√gam
 382	707	man	man	मन्	\N	想、思	to think , believe , imagine , suppose , conjecture	Root form of class 4 and 8 verb	verb	√man
-383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says , he is speaking	Third person singular form (~ti) of the active verb	verb1_3rd	√vad
+383	412	vadati	vadati	वदति	\N	說、告、云、言、曰	he says , he is speaking	Third person singular form (~ti) of the active verb	verb1	√vad
 384	2556	nrtyati	nṛtyati	नृत्यति	\N	舞、跳舞	he dances	The affix <em>ti<,em> indicates that a male is performing the action	verb4_3rd	nṛt
 385	916	visati	viśati	विशति	\N	入	he enters	Present tense, third person, singular	verb6	√viś
 386	916	pravisati	praviśati	प्रविशति	\N	入	he enters	The affix <em>ti<,em> indicates that a male is performing the action	verb	√viś
@@ -405,7 +405,7 @@
 405	343	gatih	gatiḥ	गतिः	\N	去	to go	\N	verb	\N
 406	2137	dvah	dvāḥ	द्वाः	\N	門	door	\N	noun	\N
 407	1437	avagacchati	avagacchati	अवगच्छति	\N	瞭解、明白、懂	he understands	Present tense	verb1_3rd	ava + √gam
-408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person, singlular form of the active verb	verb1_3rd	√smṛ
+408	2683	smarati	smarati	स्मरति	\N	記、念	he remembers	Third person, singlular form of the active verb	verb1	√smṛ
 409	28553	sudrsa	sudṛśa	सुदृश	sudassa	善現	Sudrsa , Sudassa	The world of beautiful devas	proper_noun	\N
 410	387	ca	ca	च	\N	和、與、及、而、跟	and	A conjunction that is placed after the words that it connects.	conjunction	\N
 411	2566	iva	iva	इव	\N	如、若	to seem to be	A conjunction that introduces a comparison preposition. The particle is enclitic.	indeclinable	iva
@@ -424,15 +424,15 @@
 424	3837	ni	nī	नी	\N	導	to lead , to take	Root form	verb1	√nī
 425	3837	nayati	nayati	नयति	\N	導	he takes , he  carries , he leads	Present tense, third person, singular form, active voice	verb1	√nī
 426	4794	bhram	bhram	भ्रम्	\N	流浪	to wander , to be confused	\N	verb1	\N
-427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders , he is confused	\N	verb1_3rd	bhram
+427	4794	bhramati	bhramati	भ्रमति	\N	流浪	he wanders , he is confused	\N	verb1	√bhram
 428	412	vad	vad	वद्	\N	說、告、云、言、曰	to say , to speak	Root form	verb1	√vad
-429	747	vas	vas	वस्	\N	住	to live , to dwell	Root form of the verb	verb1	\N
-430	747	vasati	vasati	वसति	\N	住	he lives , he dwells	Third person singular form	verb1_3rd	√vad
-431	10477	suc	śuc	शुच्	\N	悲痛、難過、悲哀、忉、慟	to grieve	\N	verb1	\N
-432	10477	socati	śocati	शोचति	\N	悲痛、難過、悲哀、忉、慟	he grieves	\N	verb1_3rd	śuc
-433	7979	stha	sthā	स्था	\N	站、停止、停、停住	to stand , to halt	\N	verb1	\N
-434	7979	tisthati	tiṣṭhati	तिष्ठति	\N	站、停止、停、停住	he stands , he halts , he remains	Third person, singular form of the active verb	verb1_3rd	√sthā
-435	2683	smr	smṛ	स्मृ	\N	記、憶、念	to remember	Root form	verb1	smṛ
+429	747	vas	vas	वस्	\N	住	to live , to dwell	Root form of the verb	verb1	√vas
+430	747	vasati	vasati	वसति	\N	住	he lives , he dwells	Third person singular form	verb1	√vas
+431	10477	suc	śuc	शुच्	\N	悲痛、難過、悲哀、忉、慟	to grieve	\N	verb1	√śuc
+432	10477	socati	śocati	शोचति	\N	悲痛、難過、悲哀、忉、慟	he grieves	\N	verb1	√śuc
+433	7979	stha	sthā	स्था	\N	站、停止、停、停住	to stand , stand firmly , station one's self , stand upon , get upon , take up a position on	Root form of the class 1 verb	verb1	√sthā
+434	7979	tisthati	tiṣṭhati	तिष्ठति	\N	站、停止、停、停住	he stands , he halts , he remains	Third person, singular form of the active verb	verb1	√sthā
+435	2683	smr	smṛ	स्मृ	\N	記、憶、念	to remember , recollect , bear in mind , call to mind , think of , be mindful of	Root form	verb1	√smṛ
 436	2683	putram	putram	पुत्र	\N	子、兒	a son , a child	Accusative singular form	masculine	putra
 437	2556	nrt	nṛt	नृत्यति	\N	舞、跳舞	to dance	\N	verb4	\N
 438	15293	mad	mad	मद्	\N	開心	to rejoice	Root form	verb4	√mad
@@ -609,19 +609,19 @@
 609	4181	vana	vana	वन	\N	森林	a forest	Stem form	neuter	vana
 610	5468	vismita	vismita	विस्मित	\N	驚	surprised	\N	adjective	\N
 611	18594	upta	upta	उप्त	\N	稼、播	sown	Past particle of the stem vap	adjective	\N
-612	2451	hata	hata	हत	\N	殺	killed	Past particle of the stem han	adjective	han
+612	2451	hata	hata	हत	\N	殺	killed	Past particle of the root han	verb	√han
 613	2451	han	han	हन्	\N	殺	killing , killer	Stem form	adjective	\N
-614	7979	sthita	sthita	स्थित	\N	站	standing	Past particle of the stem stha	adjective	√stha
-615	7979	stha	sthā	स्था	\N	站	stand	Stem form	adjective	√stha
-616	1290	hita	hita	हित	\N	放	put	Past particle of the stem dhā	adjective	dhā
+614	7979	sthita	sthita	स्थित	\N	站	standing	Past particle of the stem stha	verb	√sthā
+615	7979	stha	sthā	स्था	\N	站	standing , stationary	mfn, stem form	adjective	sthā
+616	1290	hita	hita	हित	\N	放	put	Past particle of the stem dhā	verb	√dhā
 617	1290	dha	dhā	धा	\N	放	put	Root form	verb	√dhā
 618	775	da	dā	दा	\N	給	give	Root form	verb3	√dā
-619	775	datta	datta	दत्त	\N	給	given	Past particle of the stem dā	adjective	√dā
-620	2940	drsta	dṛṣṭa	दृष्ट	\N	見	seen	Past particle of the stem dṛś	adjective	√dṛś
+619	775	datta	datta	दत्त	\N	給	given	Past particle of the stem dā	verb	√dā
+620	2940	drsta	dṛṣṭa	दृष्ट	\N	見	seen	Past particle of the stem dṛś	verb	√dṛś
 621	2940	drs	dṛś	दृश्	\N	見	see	Root form	verb	√dṛś
-622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	adjective	√prach
-623	5634	labdha	labdha	लब्ध	\N	拿	taken	Past particle of the stem labdh	adjective	√labdh
-624	5634	labdh	labdh	लब्ध्	\N	拿	take , obtain	Root form for the middle voice verb	verb	√labdh
+622	3723	prsta	pṛṣṭa	पृष्ट	\N	問	asked	Past particle of the stem prach	verb	√prach
+623	5634	labdha	labdha	लब्ध	\N	拿	taken	Past particle of the root labh	verb1	√labh
+624	5634	labh	labh	लभ्	\N	拿	take , obtain	Root form for the middle voice verb	verb1	√labh
 625	441	udha	ūḍha	ऊढ	\N	承、負、提、揹、抬	carried	Past particle of the stem vah	adjective	√vah
 626	441	vah	vah	वह्	\N	承、負、提、揹、抬	carried	Stem form	verb	√vah
 627	1264	patita	patita	पतित	\N	落	dropped , fallen	Past particle	verb1	√pat
@@ -755,7 +755,7 @@
 755	2413	svara	svara	स्वर	\N	音	sound , noise , voice , vowel	\N	masculine	\N
 756	1229	abha	ābhā	आभा	\N	光	light , blaze , lustre , radiance	\N	feminine	\N
 757	2388	abha	ābhā	आभा	\N	美	glamour , splendor , beauty	\N	feminine	\N
-758	3678	subha	śubha	शुभ	\N	淨	pure , virtuous	\N	adjective	\N
+758	3678	subha	śubha	शुभ	\N	淨	pure , virtuous	\N	adjective	śubha
 759	29915	krtsna	kṛtsna	कृत्स्न	\N	遍	whole , entire , all , pervasive	\N	adjective	\N
 760	3220	prasava	prasava	प्रसव	\N	生	birth , delivery , generation	\N	masculine	\N
 761	1626	brhat	bṛhat	बृहत्	\N	廣	big , great , large , vast , abundant	\N	adjective	\N
@@ -1200,7 +1200,7 @@
 1200	33062	parasamgate	pārasaṃgate	पारसंगते	\N	般羅僧揭帝	parasamgate , gone altogether beyond	A term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.	adjective	\N
 1201	33064	svaha	svāhā	स्वाहा	\N	僧莎訶	svaha	A term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.	interjection	\N
 1202	33255	arana	araṇa	अरण	\N	無諍	non-contention	\N	adjective	\N
-1203	5104	anuttarasamyaksaṃbodhi	anuttarasamyaksaṃbodhi	अनुत्तरसम्यक्संबोधि	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi	The consummation of incomparable enlightenment	noun	\N
+1203	5104	anuttarasamyaksambodhi	anuttarasamyaksaṃbodhi	अनुत्तरसम्यक्संबोधि	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi / unexcelled enlightenment	The consummation of incomparable enlightenment	noun	anuttara + samyak + saṃbodhi
 1204	32362	sastra	śāstra	शास्त्र	\N	論	a treatise , a theory	Stem form	neuter	śāstra
 1205	33421	anubhava	anubhāva	अनुभाव	anubhāva	威神	Anubhava	A diety, whose name means majesty or splendor	proper_noun	\N
 1206	33562	gunabhadra	guṇabhadra	गुणभद्र	\N	求那跋陀羅	Gunabhadra	394 - 468, Indian monk	proper_noun	\N
@@ -1553,11 +1553,11 @@
 1553	3865	duhkham	duḥkham	दुःखम्	duḥkha	苦	suffering	Nominative and accusative case, singular form	neuter	duḥkha
 1554	707	manyate	manyate	मन्यते	\N	想、思	he thinks	Third person, singular form for the middle verb	verb	√man
 1555	707	manyase	manyase	मन्यसे	\N	想、思	you think	Second person, singular form for the middle verb	verb	√man
-1556	5634	labhate	labhate	लभते	\N	拿	he obtains	Third person, singular form for the middle verb	verb	√labdh
+1556	5634	labhate	labhate	लभते	\N	拿	he obtains	Third person, singular form for the middle verb	verb1	√labh
 1557	3930	sukham	sukham	सुखम्	\N	樂	delight , happiness , joy , pleasure	Nominative and accusative case, singular form	neuter	sukha
-1558	1709	sevate	sevate	सेवते	\N	服務	he serves	Third person, singular form for the middle verb	neuter	√sev
+1558	1709	sevate	sevate	सेवते	\N	服務	he serves	Third person, singular form for the middle verb	verb1	√sev
 1559	28009	jnanamsya	jñānasya	ज्ञानस्य	\N	闍那、智、智慧	wisdom , knowledge	Genitive case, singular form	neuter	jñāna
-1560	5634	labhante	labhante	लभन्ते	\N	拿	they obtain	Third person, plural form for the middle verb	verb	√labdh
+1560	5634	labhante	labhante	लभन्ते	\N	拿	they obtain	Third person, plural form for the middle verb	verb1	√labh
 1561	1609	jalaya	jalāya	जलाय	\N	水	water	Dative case, singular form	neuter	jala
 1562	5284	jayasi	jayasi	जयसि	\N	勝、勝利、贏、獲勝	he conquers	Second person, singular form of the active verb	verb1_3rd	√ji
 1563	3930	sukhasya	sukhasya	सुखस्य	\N	樂	delight , happiness , joy , pleasure	Genitive case, singular form	neuter	sukha
@@ -1890,7 +1890,7 @@
 1890	412	uditva	uditvā	उदित्वा	\N	說、云、言、曰、告	having spoken	gerund	verb	√vad
 1891	5500	gajam	gajam	गजम्	\N	大象、象	an elephant	Accusative case, singular form	masculine	gaja
 1892	2940	drstva	dṛṣṭvā	दृष्ट्वा	\N	見	having seen	Gerund	verb	√dṛś
-1893	5634	labdhva	labdhvā	लब्ध्वा	\N	拿	having obtained	Gerund	verb	√labdh
+1893	5634	labdhva	labdhvā	लब्ध्वा	\N	拿	having obtained	Gerund	verb1	√labh
 1894	370	agamya	āgamya	आगम्य	\N	來	having come	Gerund	verb	ā + √gam
 1895	343	gatva	gatvā	गत्वा	\N	去	having gone	Gerund	verb	√gam
 1896	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb10	√cint
@@ -1903,7 +1903,7 @@
 1903	747	usitva	uṣitvā	उषित्वा	\N	住	having lived	Gerund	verb	√vad
 1904	1709	sevitva	sevitvā	सेवित्वा	\N	服務	having served	Gerund	verb	√sev
 1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	Gerund	verb	√sthā
-1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	Gerund	verb	√smṛ
+1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	Gerund	verb1	√smṛ
 1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	Gerund	verb	√kṛ
 1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	Gerund	verb5	√śru
 1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	Gerund	verb1	√car
@@ -1951,7 +1951,7 @@
 1951	1198	yada	yadā	यदा	\N	所	when	Relative adverb, introduces the correlative adverb tadā	adverb	yadā
 1952	2106	tada	tadā	तदा	\N	因此	then	Correlative adverb	adverb	tadā
 1953	4406	yadi	yadi	यदि	\N	若	if	Relative adverb, introduces the correlative adverb tadā	adverb	yadi
-1954	5634	labhase	labhase	लभसे	\N	拿	you obtain	Second person, singular form for the middle verb	verb	√labdh
+1954	5634	labhase	labhase	लभसे	\N	拿	you obtain	Second person, singular form for the middle verb	verb1	√labh
 1955	3794	yad	yad	यद्	\N	誰	who	Relative pronoun	masculine	yad
 1956	3794	yo	yo	यो	\N	誰	who	Relative pronoun	masculine	yad
 1957	3794	yasmin	yasmin	यस्मिन्	\N	誰	on whom	Locative case, singular form	masculine	yad
@@ -2083,8 +2083,8 @@
 2083	5578	budbuda	budbuda	बुद्बुद	\N	泡	a bubble	Stem form	masculine	budbuda
 2084	5578	budbudam	budbudam	बुद्बुदम्	\N	泡	a bubble	Accusative case, singular form	masculine	budbuda
 2085	5863	paryupāsita	paryupāsita	पर्युपासित	\N	拜	worshipped , reverenced	mfn	adjective	paryupāsita
-2086	831	has	has	हस्	\N	笑	to laugh , smile , laugh at	Root form, active	verb	√has
-2087	831	hasati	hasati	हसति	\N	笑	he laughs	Present tense, third person, singular form	verb	√has
+2086	831	has	has	हस्	\N	笑	to laugh , smile , laugh at	Root form, active	verb1	√has
+2087	831	hasati	hasati	हसति	\N	笑	he laughs	Present tense, third person, singular form	verb1	√has
 2088	343	gam	gam	गम्	\N	去	to go with the mind , observe , perceive , understand , guess	Root form	verb1	√gam
 2089	343	gam	gam	गम्	\N	去	to cause to understand , make clear or intelligible , explain	Root form	verb1	√gam
 2090	1437	avagatya	avagatya	अवगत्य	\N	瞭解、明白、懂	understanding	\N	gerund	ava + √gam
@@ -2303,5 +2303,55 @@
 2303	3794	yam	yāṃ	यां	\N	誰	whom	Accusative case, plural form with anusvara sandhi	masculine	yad
 2304	4054	parityaga	parityāga	परित्याग	\N	捨	the act of leaving , abandoning , deserting , quitting , giving up , neglecting , renouncing	\N	masculine	parityāga
 2305	17908	idam	idaṃ	इदं	\N	是	this	Stem form with anusvara sandhi	pronoun	idam
-2306	3382	dikṣu	dikṣu	दिक्षु	\N	方	quarter or region pointed at , direction , cardinal point	Locative case, plural form	feminine	diś
-2307	5052	rūpeṇa	rūpeṇa	रूपेण	\N	色	form	Instrumental case, singular form	neuter	rūpa
+2306	3382	diksu	dikṣu	दिक्षु	\N	方	quarter or region pointed at , direction , cardinal point	Locative case, plural form	feminine	diś
+2307	5052	rupena	rūpeṇa	रूपेण	\N	色	form	Instrumental case, singular form	neuter	rūpa
+2308	5002	ram	ram	रम्	\N	喜	to stop , stay , make fast , calm , set at rest , to delight , make happy , enjoy carnally , to enjoy	Root form	verb1	√ram
+2309	5002	ramate	ramate	रमते	\N	喜	enjoy	Present tense, third person, singular form	verb1	√ram
+2310	5002	ratva	ratvā	रत्वा	\N	喜	enjoy	Gerund	verb1	√ram
+2311	5002	ramsyate	raṃsyate	रंस्यते	\N	喜	enjoy	Future tense, third person, singular form	verb1	√ram
+2312	5634	labh	labh	लभ्	\N	拿	take , obtain	Root form for the middle voice verb	verb1	√labh
+2313	5634	lapsyate	lapsyate	लप्स्यते	\N	拿	having obtained	Future tense, third person, singular form	verb1	√labh
+2314	412	vadisyati	vadiṣyati	वदिष्यति	\N	說、告、云、言、曰	he says , he is speaking	Future tense, third person, singular form	verb1	√vad
+2315	747	usitva	uṣitvā	उषित्वा	\N	住	live	Gerund	verb1	√vas
+2316	747	vatsyati	vatsyati	वत्स्यति	\N	住	live	Future tense, third person, singular form	verb1	√vas
+2317	5044	subh	śubh	शुभ्	\N	照	to beautify , embellish , adorn , beautify one's self , look beautiful or handsome , shine , be bright or splendid	Root form of the class 1 or 6 verb	verb	√śubh
+2318	5044	sobhate	śobhate	शोभते	\N	照	shine	Present tense, third person, singular form	verb	√śubh
+2319	5044	sobhitva	śobhitvā	शोभित्वा	\N	照	shine	Gerund	verb	√śubh
+2320	5044	sobhisyate	śobhiṣyate	शोभिष्यते	\N	照	shine	Future tense, third person, singular form	verb	√śubh
+2321	1709	sev	sev	सेव्	\N	服務	serve	Root form	verb1	√sev
+2322	1709	sevitvā	sevitvā	सेवित्वा	\N	服務	serve	Gerund	verb1	√sev
+2323	1709	sevisyate	seviṣyate	सेविष्यते	\N	服務	serve	Future tense, third person, singular form	verb1	√sev
+2324	7979	sthitvā	sthitvā	स्थित्वा	\N	站	stand	Gerund	verb1	√sthā
+2325	7979	sthāsyati	sthāsyati	स्थास्यति	\N	站	stand	Future tense, third person, singular form	verb1	√sthā
+2326	831	smi	smi	स्मि	\N	笑	to smile , blush , become red or radiant , shine	Root form	verb1	√smi
+2327	831	smayate	smayate	स्मयते	\N	笑	smile	Present tense, third person, singular form	verb1	√smi
+2328	831	smitva	smitvā	स्मित्वा	\N	笑	having smiled	Gerund	verb1	√smi
+2329	831	smesyate	smeṣyate	स्मेष्यते	\N	笑	will smile	Future tense, third person, singular form	verb1	√smi
+2330	2683	smarisyati	smariṣyati	स्मरिष्यति	\N	記、念	will remember	Future tense, third person, singular form	verb1	√smṛ
+2331	831	hasitva	hasitvā	हसित्वा	\N	笑	having laughed	Gerund	verb1	√has
+2332	831	hasisyati	hasiṣyati	हसिष्यति	\N	笑	he will laugh	Future tense, third person, singular form	verb1	√has
+2333	3670	ascaryena	āścaryeṇa	आश्चर्येण	\N	善	wonderful	Instrumental case, singular form	adjective	āścarya
+2334	21176	muc	muc	मुच्	\N	解脫	to loose , let loose , free , let go , slacken , release , liberate	Root form	verb6	√muc
+2335	21176	muncati	muñcati	मुञ्चति	\N	解脫	he liberates	Present tense, third person, singular form	verb6	√muc
+2336	21176	muktva	muktvā	मुक्त्वा	\N	解脫	having liberated	Present tense, third person, singular form	verb6	√muc
+2337	21176	moksyati	mokṣyati	मोक्ष्यति	\N	解脫	he will liberate	Future tense, third person, singular form	verb6	√muc
+2338	21176	mucye	mucye	मुच्ये	\N	解脫	to be liberated	Passive, first person, singular form	verb6	√muc
+2339	21176	adhimucye	adhimucye	अधिमुच्ये	\N	解脫	to be liberated	Passive form	verb6	adhi + √muc
+2340	21176	muncate	muñcate	मुञ्चते	\N	解脫	to be liberated	Present tense, third person, passive form	verb6	√muc
+2341	21176	adhimuncate	adhimuñcate	अधिमुञ्चते	\N	解脫	to be liberated	Present tense, third person, passive form	verb6	adhi + √muc
+2342	7153	ratri	rātri	रात्रि	\N	闇	night , the darkness or stillness of night	Stem form	feminine	rātri
+2343	7153	ratrau	rātrau	रात्रौ	\N	闇	night , the darkness or stillness of night	Locative case, singular form	feminine	rātri
+2344	17908	anena	anena	अनेन	\N	是	this	Instrumental case, singular form	pronoun	ayam
+2345	401	bahuni	bahūni	बहूनि	\N	多	many	Nominative and accusive case	adjective	bahu
+2346	17908	ayam	ayaṃ	अयं	\N	是	this	With anusvara sandhi	pronoun	ayam
+2347	15122	cakṣ	cakṣ	चक्ष्	\N	見	to appear , become visible , to see , look at , observe , notice	Root form	verb2	√cakṣ
+2348	15122	caste	caṣṭe	चष्टे	\N	見	see	Present tense, third person, singular form of the middle voice	verb2	√cakṣ
+2349	15122	acaksi	acakṣi	अचक्षि	\N	見	see	Imperfect, singular form of the middle voice	verb2	√cakṣ
+2350	15122	caksīta	cakṣīta	चक्षीत	\N	見	see	Optative, singular form of the middle voice	verb2	√cakṣ
+2351	15122	abhyacaksita	abhyācakṣīta	अभ्याचक्षीत	\N	見	see	Optative, singular form of the middle voice	verb2	abhi + ā + √cakṣ
+2352	398	asau	asau	असौ	\N	有	you are	Locative case, second person, singular form	verb	√as
+2353	21176	mocita	mocita	मोचित	\N	解脫	caused to be released , set free , liberated	Stem form, mfn	adjective	mocita
+2354	21176	parimocitah	parimocitaḥ	परिमोचितः	\N	解脫	caused to be released , set free , liberated	Stem form, mfn	adjective	pari + mocita
+2355	5104	samyaksambodhirabhisambuddha	samyaksaṃbodhirabhisaṃbuddhā	सम्यक्संबोधिरभिसंबुद्धा	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi / unexcelled enlightenment	\N	noun	samyak + saṃbodhi +saṃ + buddhā
+2356	21176	moktavya	moktavya	मोक्तव्य	\N	解脫	to be set free or liberated	Stem form, mfn	adjective	moktavya
+2357	21176	adhimoktavyah	adhimoktavyāḥ	अधिमोक्तव्याः	\N	解脫	to be liberated	Nominative and accusative case	adjective	adhi + moktavya
