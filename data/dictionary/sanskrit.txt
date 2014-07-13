@@ -86,7 +86,7 @@
 86	20517	sravaka	śrāvaka	श्रावक	sāvaka	声闻	Sravaka , Shravaka	\N	proper_noun	\N
 87	9060	maitreya	maitreya	मैत्रेय	metteyya	彌勒	Maitreya	\N	proper_noun	\N
 88	26490	Trayastrimsa	Trāyastriṃśa	त्रयस्त्रिंश	Tāvatiṃsa	忉利天	Trayastrimsa	\N	proper_noun	\N
-89	6903	sumeru	sumeru	सुमेरु	sineru	須彌山	Mount Sumeru , Mount Meru	Stem form	proper_noun	sumeru
+89	6903	sumeru	sumeru	सुमेरु	sineru	須彌山	Mount Sumeru , Mount Meru	Stem form	masculine	sumeru
 90	27579	yojana	yojana	योजन	\N	由旬	yojana	\N	noun	\N
 91	25388	mandala	maṇḍala	मण्डल	\N	曼荼羅、壇城	a mandala , a circle	The Sanskrit word means circle but now the term is used to mean a particular type of Buddhist and Hindu art in the form of a circle	noun	\N
 92	6892	arhat	arhat	अर्हत	arahant	阿羅漢、羅漢	Arhat	\N	proper_noun	\N
@@ -413,12 +413,12 @@
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	indeclinable	api
 415	3811	iti	iti	इति	\N	爾、如是	thus	A particle used to mark the end of a sentence or a smaller part, espcially a quotation.	indeclinable	iti
-416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	Present tense	verb1_3rd	ā + √nī
-417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1_3rd	\N
+416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	Present tense, third person	verb1	ā + √nī
+417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1	\N
 418	5284	jayati	jayati	जयति	\N	勝、勝利、贏、獲勝	he conquers	Third person, singular form of the active verb	verb1_3rd	√ji
-419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees , he looks	Present tense, third person, singular form of the active verb	verb1_3rd	√paś
-420	4969	gai	gai	गै	\N	唱歌、唱	to sing	\N	verb1	gai
-421	340	ji	ji	जि	\N	勝利、勝、贏、獲勝	to conquer , to win	\N	verb1	\N
+419	2940	pasyati	paśyati	पश्यति	\N	見、看到、看	he sees , he looks	Present tense, third person, singular form of the active verb	verb1	√paś
+420	4969	gai	gai	गै	\N	唱歌、唱	to sing	\N	verb1	√gai
+421	340	ji	ji	जि	\N	勝利、勝、贏、獲勝	to conquer , to win	\N	verb1	√ji
 422	5036	jiv	jīv	जीव्	\N	活、生活	to live	\N	verb1	\N
 423	2940	drs	dṛś	दृश्	\N	見、看到、看	to see , behold , look at , regard , consider	Root form, present forms supplied by √paś	verb1	√dṛś
 424	3837	ni	nī	नी	\N	導	to lead , to take	Root form	verb1	√nī
@@ -499,7 +499,7 @@
 499	1258	vasatha	vasatha	वसथ	\N	房子、房	house	\N	noun	\N
 500	537	pasyami	paśyāmi	पश्यामि	\N	看、見	I see	First person, singular form	verb1_1st	√paś
 501	21143	bhramat	bhramat	भ्रमत्	\N	游方、流浪	to wander about	\N	verb	\N
-502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Stem form	feminine	samyaksambodhi
+502	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Stem form	feminine	samyak + sambodhi
 503	28788	vidyacaranasampanna	vidyācaraṇasampanna	विद्याचरणसम्पन्न	\N	明行圓滿	Activity of Full Brightness	One of the epithets of a Buddha	proper_noun	\N
 504	28789	sugata	sugata	सुगत	\N	善逝	Immaculately Departed One , Well-Gone	One of the epithets of a Buddha	proper_noun	\N
 505	28790	lokavid	lokavid	लोकविद्	\N	世間解	knowing the world	One of the epithets of a Buddha	proper_noun	\N
@@ -677,8 +677,8 @@
 677	15657	dasena	dāsena	दासेन	\N	役	a servant	\N	noun	\N
 678	3865	duhkhena	duḥkhena	दासेन	\N	苦	by suffering	Instrumental case of duḥkha	noun	\N
 679	751	vina	vinā	विना	\N	沒有、沒	without	\N	indeclinable	vinā
-680	1609	jalena	jalena	जलेन	\N	水	water	Instrumental case of jala	noun	\N
-681	15446	padmam	padmaṁ	पद्मṁ	\N	蓮	lotus	Accusative case of padma	noun	\N
+680	1609	jalena	jalena	जलेन	\N	水	water	Instrumental case	neuter	jala
+681	15446	padmam	padmaṁ	पद्मṁ	\N	蓮	lotus	Accusative case	noun	padma
 682	3880	nasyati	naśyati	नश्यति	\N	死	dies	\N	verb	\N
 683	615	alam	alam	अलम्	\N	夠	enough	\N	adjective	\N
 684	615	krtam	kṛtam	कृतम्	\N	夠	enough	Accusative form	adjective	kṛta
@@ -982,7 +982,7 @@
 982	28935	apaya	apāya	अपाय	\N	惡道	an evil rebirth , an evil destiny , an unfortunate rebirth	\N	masculine	\N
 983	3613	artha	artha	अर्थ	\N	義	meaning , sense	\N	masculine	\N
 984	30521	nama	nāma	नाम	\N	號、名	called	\N	indeclinable	nāma
-985	28121	graha	grāha	ग्राह	\N	取	grasping , seizing	\N	adjective	\N
+985	28121	graha	grāha	ग्राह	\N	取	grasping , seizing	Stem form, mf(ī)n	adjective	grāha
 986	1068	atita	atīta	अतीत	\N	過去	past	\N	adjective	\N
 987	264	pratyutpanna	pratyutpanna	प्रत्युत्पन्न	\N	現在	present	\N	adjective	\N
 988	2851	anagata	anāgata	अनागत	\N	未來	future	\N	adjective	anāgata
@@ -1009,7 +1009,7 @@
 1009	7193	sayya	śayyā	शय्या	\N	臥	bed , lying down , sleep	Stem form	masculine	śayyā
 1010	32465	paramanu	paramāṇu	परमाणु	\N	微塵	an atom	\N	masculine	\N
 1011	401	bahu	bahu	बहु	\N	多	many	Stem form	adjective	bahu
-1012	412	bhasita	bhāṣita	भाषित	\N	說	said	\N	adjective	\N
+1012	412	bhasita	bhāṣita	भाषित	\N	說	said	Stem form	adjective	bhāṣita
 1013	32344	atma	ātma	आत्म	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 1014	412	vadamana	vadamāna	वदमान	\N	說	saying , speaking	\N	adjective	√vad
 1015	3896	jnata	jñāta	ज्ञात	\N	知	known	\N	adjective	\N
@@ -1162,9 +1162,9 @@
 1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Nominative case, plural form	masculine	mahāsattva
 1163	7135	punyaskandha	puṇyaskandha	पुण्यस्कन्ध	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. Stem form.	masculine	puṇyaskandha
 1164	6645	subhute	subhute	सुभुते	\N	須菩提	Subhuti	\N	masculine	subhūti
-1165	412	bhasitah	bhāṣitaḥ	भाषितः	\N	說	said	Common form is bhāṣita	adjective	\N
-1166	412	bhasita	bhāṣitā	भाषिता	\N	說	said	Common form is bhāṣita	adjective	\N
-1167	412	bhasitah	bhāṣitāḥ	भाषिताः	\N	說	said	Common form is bhāṣita	adjective	\N
+1165	412	bhasitah	bhāṣitaḥ	भाषितः	\N	說	said	Nominative case, singular form	adjective	bhasita
+1166	412	bhasita	bhāṣitā	भाषिता	\N	說	said	Nominative case, singular feminine form	adjective	bhāṣita
+1167	412	bhasitah	bhāṣitāḥ	भाषिताः	\N	說	said	Nominative and accusative case	adjective	bhasita
 1168	31047	atha	atha	अथ	\N	時	now , then	An auspicious and inceptive particle	indeclinable	atha
 1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. Nominative case, singular form.	masculine	puṇyaskandha
 1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma , the teachings of the Buddha	\N	proper_noun	\N
@@ -1176,7 +1176,7 @@
 1176	3618	buddha	buddhā	बुद्धा	\N	佛	Buddha	Normally written as buddha but the word ending is modified here for Sandhi	proper_noun	\N
 1177	8847	mahasattva	mahāsattvā	महासत्त्वा	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	masculine	mahāsattva
 1178	363	lokadhatun	lokadhātūn	लोकधातून्	\N	世界	a world , a region of the world	Normally written as lokadhātu but the word ending is modified here for Sanskrit grammar	masculine	\N
-1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Common form is bhāṣita	adjective	\N
+1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Accusive case	adjective	bhāṣita
 1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
 1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
 1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Non-standard, should be satyam	neuter	satya
@@ -1406,7 +1406,7 @@
 1406	5284	bahutaram	bahutaraṃ	बहुतरं	\N	勝	surpassing , greater , exceeding	Accusative case, singular form	adjective	bahutara
 1407	775	datavya	dātavya	दातव्य	\N	給	to be given	Stem form	adjective	dātavya
 1408	775	dātavyam	dātavyam	दातव्यम्	\N	給	to be given	Accusative case, singular form	adjective	dātavya
-1409	28787	samyaksambuddhena	samyaksaṃbuddhena	सम्यक्संबुद्धेन	\N	正等覺	complete enlightenment	Instrumental case, singular form	noun	samyaksambodhi
+1409	28787	samyaksambuddhena	samyaksaṃbuddhena	सम्यक्संबुद्धेन	\N	正等覺	complete enlightenment	Instrumental case, singular form	noun	samyak + sambodhi
 1410	26512	saptaratnaparipurnam	saptaratnaparipūrṇaṃ	सप्तरत्नपरिपूर्णं	\N	七寶	the Seven Treasures , the Seven Precious Jewels	Accusative case, singular form	compound	saptaratnaparipūrṇa
 1411	6900	dīpamkarasya	dīpaṃkarasya	दीपंकरस्य	\N	然燈佛、然燈	Dipankara Buddha	Genitive case, singular form	masculine	dīpaṃkara
 1412	12024	vitatha	vitatha	वितथ	\N	非	false	Stem form	adjective	vitatha
@@ -1870,7 +1870,7 @@
 1870	7959	kirtisu	kīrtiṣu	कीर्तिषु	\N	光榮	glory , fame	Locative case, plural form	feminine	kīrti
 1871	7959	kirte	kīrte	कीर्ते	\N	光榮	glory , fame	Vocative case, singular form	feminine	kīrti
 1872	7959	kirtayah	kīrtayaḥ	कीर्तयः	\N	光榮	glory , fame	Vocative case, plural form	feminine	kīrti
-1873	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyaksambodhi
+1873	28787	samyaksambodhi	samyaksambodhi	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyak + sambodhi
 1874	8307	adrsti	adṛṣṭi	अदृष्टि	\N	不見	blind , not seen	Stem form	adjective	adṛṣṭi
 1875	8307	adrstih	adṛṣṭiḥ	अदृष्टि	\N	不見	blind , not seen	Nominative case, singular form	adjective	adṛṣṭi
 1876	1490	sarvaih	sarvaiḥ	सर्वैः	\N	一切	each , every , all	Instrumental case, plural form	adjective	sarva
@@ -1904,14 +1904,14 @@
 1904	1709	sevitva	sevitvā	सेवित्वा	\N	服務	having served	Gerund	verb	√sev
 1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	Gerund	verb	√sthā
 1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	Gerund	verb1	√smṛ
-1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	Gerund	verb	√kṛ
+1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	Gerund	verb2	√kṛ
 1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	Gerund	verb5	√śru
 1909	1260	caritva	caritvā	चरित्वा	\N	行	having moved	Gerund	verb1	√car
 1910	5500	gajam	gajaṃ	गजं	\N	大象、象	an elephant	Accusative case, singular form gajam with sandhi applied	masculine	gaja
 1911	2547	likhitva	likhitvā	लिखित्वा	\N	書寫	having written	Gerund	verb	√likh
 1912	2993	atithi	atithi	अतिथि	\N	客	a guest , a person entitled to hospitality	Stem form	masculine	atithi
 1913	2993	atithih	atithiḥ	अतिथिः	\N	客	a guest , a person entitled to hospitality	Nominative case, singular form	masculine	atithi
-1914	28787	samyaksambodhih	samyaksaṃbodhiḥ	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyaksambodhi
+1914	28787	samyaksambodhih	samyaksaṃbodhiḥ	सम्यक्सम्बोधि	\N	正等覺	complete enlightenment	Nominative case, singular form	feminine	samyak + sambodhi
 1915	7150	rsih	ṛṣiḥ	ऋषिः	\N	仙人	a rishi , a sage , a seer	Nominative case, singular form	masculine	ṛṣi
 1916	8306	kavi	kavi	कवि	\N	詩人	a poet	Stem form	masculine	kavi
 1917	8306	kavih	kaviḥ	कविः	\N	詩人	a poet	Nominative case, singular form	masculine	kavi
@@ -2355,3 +2355,28 @@
 2355	5104	samyaksambodhirabhisambuddha	samyaksaṃbodhirabhisaṃbuddhā	सम्यक्संबोधिरभिसंबुद्धा	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi / unexcelled enlightenment	\N	noun	samyak + saṃbodhi +saṃ + buddhā
 2356	21176	moktavya	moktavya	मोक्तव्य	\N	解脫	to be set free or liberated	Stem form, mfn	adjective	moktavya
 2357	21176	adhimoktavyah	adhimoktavyāḥ	अधिमोक्तव्याः	\N	解脫	to be liberated	Nominative and accusative case	adjective	adhi + moktavya
+2357	5500	gajas	gajās	गजास्	\N	大象、象	an elephant	Nominative case, plural form	masculine	gaja
+2358	375	bhaveyuh	bhaveyuḥ	भवेयुः	\N	作	becomes	Optative, third person, plural form	verb1	√bhū
+2359	412	vadet	vadet	वदेत्	\N	說、告、云、言、曰	speaking	Optative, third person singular form	verb1	√vad
+2360	15122	drastavyam	draṣṭavyam	द्रष्टव्यम्	\N	見	visible	Nominative and accusative case	adjective	draṣṭavya
+2361	15122	drastavya	draṣṭavyā	द्रष्टव्या	\N	見	visible	Nominative case, singular feminine form	adjective	draṣṭavya
+2362	11887	yani	yāni	यानि	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
+2363	412	bhasitani	bhāṣitāni	भाषितानि	\N	說	said	Nominative and accusative case, plural form	adjective	bhāṣita
+2364	28787	samyaksaṃbuddho	samyaksaṃbuddho	सम्यक्संबुद्धो	\N	正等覺	complete enlightenment	Nominative case with visarga sandhi	feminine	samyak + sambodhi
+2365	2940	paśyet	paśyet	पश्येत्	\N	見、看到、看	he sees , he looks	Optative, singular form	verb1	√paś
+2366	412	bhasyamane	bhāṣyamāṇe	भाष्यमाणे	\N	說、言	to speak , talk , say , tell	Present Passive Participle, locative case, singular form	verb1	√bhāṣ
+2367	7979	pratitisthet	pratitiṣṭhet	प्रतितिष्ठेत्	\N	站、停止、停、停住	he stands , he halts , he remains	Optative, accusative, singular form	verb1	prati + √sthā
+2368	2679	ksip	kṣip	क्षिप्	\N	投	to throw , cast , send , despatch	Root form	verb6	√kṣip
+2369	2679	pratiksipet	pratikṣipet	प्रतिक्षिपेत्	\N	投	throw	Optative, accusive, singular form	verb6	prati + √kṣip
+2370	6903	sumeravah	sumeravaḥ	सुमेरवः	\N	須彌山	Mount Sumeru , Mount Meru	Nominative case, plural form	masculine	sumeru
+2364	28787	samyaksaṃbodhau	samyaksaṃbodhau	सम्यक्संबोधौ	\N	正等覺	complete enlightenment	Locative case	feminine	samyak + sambodhi
+2365	412	abhasata	abhāṣata	अभाषत	\N	說、言	he says	Imperfect, middle form	verb1	√bhāṣ
+2366	11887	yasya	yasya	या	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
+2367	412	bhasyeta	bhāṣyeta	भाष्येत	\N	說、言	he says	Optative, passive form	verb1	√bhāṣ
+2368	721	kuryat	kuryāt	कुर्यात्	\N	用、作	make	Optative, accusative, singular	verb2	√kṛ
+2369	972	virya	vīrya	वीर्य	\N	力	manliness , valour , strength , power , energy	Stem form	neuter	vīrya
+2370	972	viryena	vīryeṇa	वीर्येण	\N	力	manliness , valour , strength , power , energy	Instrumental case, singular form	neuter	vīrya
+2371	1823	kad	kad	कद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
+2372	1823	kaccid	kaccid	कच्चिद्	\N	嗎	a particle of interrogation	I hope that	indeclinable	kad
+2373	1823	kaccit	kaccit	कच्चिद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
+2374	28116	aryavajracchedika	āryavajracchedikā	आर्यवज्रच्छेदिका	\N	金剛般若波羅蜜多經	Prajnaparamita Diamond Sutra	Literally, the Noble Diamond Cutter	proper_noun	ārya + vajra + cchedikā

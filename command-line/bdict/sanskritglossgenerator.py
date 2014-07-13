@@ -162,7 +162,8 @@ class GlossGenerator:
             self._Punctuation('-')
             return (element[i:], None)
         else:
-            return (element, None)
+            newstr = "%s%s" % (element[:i], element[i+1:]) 
+            return (newstr, None)
 
     def _Paragraph(self, text):
         """Generates output text formatted for a paragraph.
