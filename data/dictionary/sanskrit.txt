@@ -2096,11 +2096,11 @@
 2096	776	aniya	ānīya	आनीय	\N	帶來、帶	having brought	\N	gerund	ā + √nī
 2097	776	anesyati	āneṣyati	आनेष्यति	\N	帶來、帶	will bring	\N	future	ā + √nī
 2098	3220	udbhuya	udbhūya	उद्भूय	\N	生、出生	having been born	\N	gerund	ud + √bhū
-2099	3220	udbhavisyati	udbhaviṣyati	उद्भविष्यति	\N	生、出生	will be born	\N	future	ud + √bhū
+2099	3220	udbhavisyati	udbhaviṣyati	उद्भविष्यति	\N	生、出生	will be born	Future tense	verb1	ud + √bhū
 2100	7115	bhavet	bhavet	भवेत्	\N	故	may be , granted , admitted	\N	verb	√bhū
 2101	1242	bhavisyanti	bhaviṣyanti	भविष्यन्ति	\N	應	they should / they will	Future tense, plural form of the verb	future	√bhū
-2102	1242	bhavisyati	bhaviṣyati	भविष्यति	\N	應	should / will	Future tense, third person, singular form of the verb	future	√bhū
-2103	1242	bhavisyasi	bhaviṣyasi	भविष्यसि	\N	應	you should / you will become	Future tense, second person, singular form of the verb	future	√bhū
+2102	1242	bhavisyati	bhaviṣyati	भविष्यति	\N	應	should / will	Future tense, third person, singular form of the verb	verb1	√bhū
+2103	1242	bhavisyasi	bhaviṣyasi	भविष्यसि	\N	應	you should / you will become	Future tense, second person, singular form of the verb	verb1	√bhū
 2104	1242	abhavisyat	abhaviṣyat	अभविष्यत्	\N	應	would have	Future conditional form of the verb	verb	a + √bhū
 2105	7979	utsthaya	utsthāya	उत्स्थाय	\N	站	having stood up	\N	gerund	ud + √sthā
 2106	7979	utsthasyati	utsthāsyati	उत्स्थास्यति	\N	站	will stand up	\N	future	ud + √sthā
@@ -2380,3 +2380,14 @@
 2372	1823	kaccid	kaccid	कच्चिद्	\N	嗎	a particle of interrogation	I hope that	indeclinable	kad
 2373	1823	kaccit	kaccit	कच्चिद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
 2374	28116	aryavajracchedika	āryavajracchedikā	आर्यवज्रच्छेदिका	\N	金剛般若波羅蜜多經	Prajnaparamita Diamond Sutra	Literally, the Noble Diamond Cutter	proper_noun	ārya + vajra + cchedikā
+2375	35517	anutpattika	anutpattika	अनुत्पत्तिक	\N	無生	birthless / non-arising	\N	adjective	anutpattika
+2376	35517	anutpattikesu	anutpattikeṣu	अनुत्पत्तिकेषु	\N	無生	birthless / non-arising	Locative case, plural form	adjective	anutpattika
+2377	30568	su	sū	सू	\N	生	to set in motion , urge , impel , vivify , create , produce	Rootform	verb6	√sū
+2378	30568	prasavet	prasavet	प्रसवेत्	\N	生	producing	Optative, third person, accusative, singular form	verb6	pra + √sū
+2379	876	prama	pramā	प्रमा	\N	量	to measure , mete out , estimate	\N	verb3	pra + √mā
+2380	20347	apramayan	aprameyan	अप्रमेयन्	\N	無量	immeasurable	A negating compound	compound	a + pra + √mā
+2381	5521	asamkhyeya	asaṃkhyeya	असंख्येय	\N	無數	countless , innumerable	A negating compound	compound	a + pra + √mā
+2382	16807	sancaya	sañcaya	सञ्चय	\N	眾	a multitude , an accumulation	\N	noun	sañcaya
+2383	3220	bhavisyat	bhaviṣyat	भविष्यत्	\N	生、出生	will become	Future active participle, nominative and accusative case	verb1	√bhū
+2384	3512	vaksyat	vakṣyat	वक्ष्यत्	\N	言	will speak	Future active participle, nominative and accusative case	verb2	√vac
+2384	3512	avaksyat	avakṣyat	अवक्ष्यत्	\N	言	will not speak	Negating future active participle, nominative and accusative case	verb2	a + √vac
