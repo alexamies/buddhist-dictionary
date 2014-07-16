@@ -745,7 +745,7 @@
 745	2614	godhana	godhana	गोधन	\N	牛	a herd of cows	\N	noun	\N
 746	29844	uttarakuru	uttarakuru	उत्तरकुरु	\N	北俱盧洲	Uttarakuru	Literally, the northern country of the kuru people; the northernmost of the Four Great Continents	noun	\N
 747	1804	uttara	uttarā	उत्तरा	\N	北	upper , higher , superior	mfn	adjective	uttarā
-748	29845	kuru	kuru	कुरु	\N	俱盧	Kuru	A clan of people that occupied Northern India in ancient times	proper_noun	\N
+748	29845	kuru	kuru	कुरु	\N	俱盧	Kuru	A clan of people that occupied Northern India in ancient times	masculine	kuru
 749	7213	dharmadhatu	dharmadhātu	धर्मधातु	\N	法界	a Dharma realm , an element of law or of existence	\N	masculine	\N
 750	3889	kama	kāma	काम	\N	慾	desire	\N	feminine	\N
 751	29892	nirmanarati	nirmāṇarati	निर्माणरति	\N	化樂	finding pleasure in creating	\N	noun	\N
@@ -1515,8 +1515,8 @@
 1515	12947	ksamata	kṣamatā	क्षमता	\N	能	ability ,power , capacity , capability	Stem form	feminine	kṣamatā
 1516	12947	ksamate	kṣamate	क्षमते	\N	能	ability ,power , capacity , capability	Nominative and accusative case, dual form	feminine	kṣamatā
 1517	399	manava	māṇava	माणव	\N	人	a human being , a man , a person	Stem form	masculine	māṇava
-1518	33142	sthatavya	sthātavya	स्थातव्य	\N	住	dwell in , abide in , maintained	Stem form	adjective	sthātavya
-1519	33142	sthātavyam	sthātavyaṃ	स्थातव्यं	\N	住	dwell in , abide in , maintained	Accusative case, singular form	adjective	sthātavya
+1518	33142	sthatavya	sthātavya	स्थातव्य	\N	住	stand, dwell in , abide in , maintained	Stem form	adjective	sthātavya
+1519	33142	sthātavyam	sthātavyaṃ	स्थातव्यं	\N	住	stand, dwell in , abide in , maintained	Accusative case, singular form	adjective	sthātavya
 1520	3618	buddho	buddho	बुद्धो	\N	佛	Buddha , enlightened one	Word ending modified for sandhi	masculine	buddha
 1521	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	upright , elevated	Stem form	adjective	ūrdhva
 1522	584	urdhvam	ūrdhvaṃ	ऊर्ध्वं	\N	上	upright , elevated	Accusative case, singular form	adjective	ūrdhva
@@ -2047,9 +2047,9 @@
 2047	1290	adadhat	adadhat	अदधत्	\N	放	he put	Imperfect	verb	a + √dha
 2048	1978	pratilabhate	pratilabhate	प्रतिलभते	\N	受	to receive back , recover	Imperfect	verb	prati + √labh
 2049	20811	pratigraha	pratigraha	प्रतिग्रह	\N	受事者	receiver	\N	masculine	prati + graha
-2050	1242	pratipattavyaṃ	pratipattavyaṃ	प्रतिग्रह	\N	應	on account of	Gerundive, accusative case, ending modified for sandhi	neuter	prati + pattavya
-2051	1242	pratipattavya	pratipattavya	प्रतिपत्तव्य	\N	應	on account of	Gerundive, accusative case	neuter	prati + pattavya
-2052	1242	pratipad	pratipad	प्रतिपत्तव्य	\N	應	conduct , practice , behavior	\N	neuter	prati + pad
+2050	1260	pratipattavyaṃ	pratipattavyaṃ	प्रतिपत्तव्यं	\N	行	walking , conduct , practice , behavior	Gerundive, accusative case, ending modified for sandhi	neuter	prati + pad
+2051	1260	pratipattavya	pratipattavya	प्रतिपत्तव्य	\N	行	walking , conduct , practice , behavior	Gerundive, accusative case	neuter	prati + pad
+2052	1260	pratipad	pratipad	प्रतिपद्	\N	行	walking , conduct , practice , behavior	\N	neuter	prati + pad
 2053	8851	pratisthitena	pratiṣṭhitena	प्रतिष्ठितेन	\N	住	abiding	Instrumental case	adjective	\N
 2054	1510	pratisamya	pratiśāmya	प्रतिशाम्य	\N	收	to store away , to put away	Instrumental case	adjective	prati + śām
 2055	343	agacchatam	agacchatām	अगच्छताम्	\N	去	those two went	Imperfect, third person, dual	verb	a + √gam
@@ -2404,3 +2404,5 @@
 2404	972	ind	ind	इन्द्	\N	力	to be powerful	Root form	verb1	√ind
 2405	972	parinditah	parīnditāḥ	परीन्दिताः	\N	力	to be powerful	Past passive participle, nominative and accusative case	verb1	pari + √ind
 2405	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	to control	Future passive participle, nominative and accusative case	verb	pra + √grah
+2406	412	bhasisye	bhāṣiṣye	भाषिष्ये	\N	說、言	I will say , tell	Future tense, first person	verb1	√bhāṣ
+2244	6643	ayusya 	āyuṣya	आयुष्य	\N	長老	life-possessing, elder (honorific title)	\N	masculine	āyuṣya
