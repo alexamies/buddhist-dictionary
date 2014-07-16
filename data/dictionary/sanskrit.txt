@@ -744,7 +744,7 @@
 744	1803	apara	aparā	अपरा	\N	西	west	\N	feminine	\N
 745	2614	godhana	godhana	गोधन	\N	牛	a herd of cows	\N	noun	\N
 746	29844	uttarakuru	uttarakuru	उत्तरकुरु	\N	北俱盧洲	Uttarakuru	Literally, the northern country of the kuru people; the northernmost of the Four Great Continents	noun	\N
-747	1804	uttara	uttarā	उत्तरा	\N	北	north	\N	feminine	\N
+747	1804	uttara	uttarā	उत्तरा	\N	北	upper , higher , superior	mfn	adjective	uttarā
 748	29845	kuru	kuru	कुरु	\N	俱盧	Kuru	A clan of people that occupied Northern India in ancient times	proper_noun	\N
 749	7213	dharmadhatu	dharmadhātu	धर्मधातु	\N	法界	a Dharma realm , an element of law or of existence	\N	masculine	\N
 750	3889	kama	kāma	काम	\N	慾	desire	\N	feminine	\N
@@ -789,7 +789,7 @@
 789	271	esah	eṣaḥ	एषः	\N	這	this	\N	pronoun	saḥ
 790	518	sah	saḥ	सः	\N	他	him	Third person pronoun, nominative case, singular form	masculine	tad
 791	519	sa	sā	सा	\N	她	her	Third person pronoun, nominative case, singular form	feminine	tad
-792	2027	va	vā	वा	\N	or	或	An enclytic particle to form a disjunction (or), as in .. vā .. vā (either .. or ..)	conjunction	\N
+792	2027	va	vā	वा	\N	或	or	An enclytic particle to form a disjunction (or), as in .. vā .. vā (either .. or ..)	conjunction	\N
 793	615	krta	kṛta	कृत	\N	夠	done , made , accomplished , performed , put	mfn	adjective	kṛta
 794	12264	kutuhalin	kutūhalin	कुतूहलिन्	\N	好奇	curious , eager , impatient	\N	adjective	\N
 795	1260	calati	calati	चलति	\N	行	to walk , to move	\N	verb	\N
@@ -855,7 +855,7 @@
 855	31592	vajravarahi	vajravārāhī	वज्रवाराही	\N	金剛亥母	Vajravarahi , Dakini Vajravarahi , Dorje Pakmo	The consort of the wrathful deity Demchok	proper_noun	\N
 856	7212	parinamana	pariṇāmanā	परिणामना	\N	回向	to transfer merit , to dedicate	\N	verb	\N
 857	26513	yaksa	yakṣa	यक्ष	\N	夜叉、藥叉	yaksa , yaksha	a nature spirit in Hindu, Jainishm, and Buddhism	masculine	\N
-858	3548	pari	pari	परि	\N	回、迴	from , against , opposite to , towards	\N	adverb	\N
+858	3548	pari	pari	परि	\N	回、迴	from , against , opposite to , towards	\N	indeclinable	pari
 859	3869	anista	aniṣṭa	अनिष्ट	\N	罪	bad , leading to hell	\N	adjective	\N
 860	31878	suddhavasa	śuddhāvāsa	शुद्धावास	suddhāvāsa	五淨居天、淨居天	Suddhavasa , Śuddhāvāsa , Pure Abodes , Pure Dwelling Heavens	\N	proper_noun	\N
 861	31880	danapati	dānapati	दानपति	\N	檀越、施主、檀越主、檀那主、檀主	an alms giver , a donor	\N	masculine	\N
@@ -1902,7 +1902,7 @@
 1902	707	matva	matvā	मत्वा	\N	想、思	having thought	Gerund	verb	√man
 1903	747	usitva	uṣitvā	उषित्वा	\N	住	having lived	Gerund	verb	√vad
 1904	1709	sevitva	sevitvā	सेवित्वा	\N	服務	having served	Gerund	verb	√sev
-1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	Gerund	verb	√sthā
+1905	7979	sthitva	sthitvā	स्थित्वा	\N	站、停止、停、停住	having stood	Gerund	verb1	√sthā
 1906	2683	smrtva	smṛtvā	स्मृत्वा	\N	記、念	having remembered	Gerund	verb1	√smṛ
 1907	721	krtva	kṛtvā	कृत्वा	\N	用、作	having done	Gerund	verb2	√kṛ
 1908	3925	srutva	śrutvā	श्रुत्वा	\N	聞	having heard	Gerund	verb5	√śru
@@ -2355,39 +2355,52 @@
 2355	5104	samyaksambodhirabhisambuddha	samyaksaṃbodhirabhisaṃbuddhā	सम्यक्संबोधिरभिसंबुद्धा	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi / unexcelled enlightenment	\N	noun	samyak + saṃbodhi +saṃ + buddhā
 2356	21176	moktavya	moktavya	मोक्तव्य	\N	解脫	to be set free or liberated	Stem form, mfn	adjective	moktavya
 2357	21176	adhimoktavyah	adhimoktavyāḥ	अधिमोक्तव्याः	\N	解脫	to be liberated	Nominative and accusative case	adjective	adhi + moktavya
-2357	5500	gajas	gajās	गजास्	\N	大象、象	an elephant	Nominative case, plural form	masculine	gaja
-2358	375	bhaveyuh	bhaveyuḥ	भवेयुः	\N	作	becomes	Optative, third person, plural form	verb1	√bhū
-2359	412	vadet	vadet	वदेत्	\N	說、告、云、言、曰	speaking	Optative, third person singular form	verb1	√vad
-2360	15122	drastavyam	draṣṭavyam	द्रष्टव्यम्	\N	見	visible	Nominative and accusative case	adjective	draṣṭavya
-2361	15122	drastavya	draṣṭavyā	द्रष्टव्या	\N	見	visible	Nominative case, singular feminine form	adjective	draṣṭavya
-2362	11887	yani	yāni	यानि	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
-2363	412	bhasitani	bhāṣitāni	भाषितानि	\N	說	said	Nominative and accusative case, plural form	adjective	bhāṣita
-2364	28787	samyaksaṃbuddho	samyaksaṃbuddho	सम्यक्संबुद्धो	\N	正等覺	complete enlightenment	Nominative case with visarga sandhi	feminine	samyak + sambodhi
-2365	2940	paśyet	paśyet	पश्येत्	\N	見、看到、看	he sees , he looks	Optative, singular form	verb1	√paś
-2366	412	bhasyamane	bhāṣyamāṇe	भाष्यमाणे	\N	說、言	to speak , talk , say , tell	Present Passive Participle, locative case, singular form	verb1	√bhāṣ
-2367	7979	pratitisthet	pratitiṣṭhet	प्रतितिष्ठेत्	\N	站、停止、停、停住	he stands , he halts , he remains	Optative, accusative, singular form	verb1	prati + √sthā
-2368	2679	ksip	kṣip	क्षिप्	\N	投	to throw , cast , send , despatch	Root form	verb6	√kṣip
-2369	2679	pratiksipet	pratikṣipet	प्रतिक्षिपेत्	\N	投	throw	Optative, accusive, singular form	verb6	prati + √kṣip
-2370	6903	sumeravah	sumeravaḥ	सुमेरवः	\N	須彌山	Mount Sumeru , Mount Meru	Nominative case, plural form	masculine	sumeru
-2364	28787	samyaksaṃbodhau	samyaksaṃbodhau	सम्यक्संबोधौ	\N	正等覺	complete enlightenment	Locative case	feminine	samyak + sambodhi
-2365	412	abhasata	abhāṣata	अभाषत	\N	說、言	he says	Imperfect, middle form	verb1	√bhāṣ
-2366	11887	yasya	yasya	या	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
-2367	412	bhasyeta	bhāṣyeta	भाष्येत	\N	說、言	he says	Optative, passive form	verb1	√bhāṣ
-2368	721	kuryat	kuryāt	कुर्यात्	\N	用、作	make	Optative, accusative, singular	verb2	√kṛ
-2369	972	virya	vīrya	वीर्य	\N	力	manliness , valour , strength , power , energy	Stem form	neuter	vīrya
-2370	972	viryena	vīryeṇa	वीर्येण	\N	力	manliness , valour , strength , power , energy	Instrumental case, singular form	neuter	vīrya
-2371	1823	kad	kad	कद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
-2372	1823	kaccid	kaccid	कच्चिद्	\N	嗎	a particle of interrogation	I hope that	indeclinable	kad
-2373	1823	kaccit	kaccit	कच्चिद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
-2374	28116	aryavajracchedika	āryavajracchedikā	आर्यवज्रच्छेदिका	\N	金剛般若波羅蜜多經	Prajnaparamita Diamond Sutra	Literally, the Noble Diamond Cutter	proper_noun	ārya + vajra + cchedikā
-2375	35517	anutpattika	anutpattika	अनुत्पत्तिक	\N	無生	birthless / non-arising	\N	adjective	anutpattika
-2376	35517	anutpattikesu	anutpattikeṣu	अनुत्पत्तिकेषु	\N	無生	birthless / non-arising	Locative case, plural form	adjective	anutpattika
-2377	30568	su	sū	सू	\N	生	to set in motion , urge , impel , vivify , create , produce	Rootform	verb6	√sū
-2378	30568	prasavet	prasavet	प्रसवेत्	\N	生	producing	Optative, third person, accusative, singular form	verb6	pra + √sū
-2379	876	prama	pramā	प्रमा	\N	量	to measure , mete out , estimate	\N	verb3	pra + √mā
-2380	20347	apramayan	aprameyan	अप्रमेयन्	\N	無量	immeasurable	A negating compound	compound	a + pra + √mā
-2381	5521	asamkhyeya	asaṃkhyeya	असंख्येय	\N	無數	countless , innumerable	A negating compound	compound	a + pra + √mā
-2382	16807	sancaya	sañcaya	सञ्चय	\N	眾	a multitude , an accumulation	\N	noun	sañcaya
-2383	3220	bhavisyat	bhaviṣyat	भविष्यत्	\N	生、出生	will become	Future active participle, nominative and accusative case	verb1	√bhū
-2384	3512	vaksyat	vakṣyat	वक्ष्यत्	\N	言	will speak	Future active participle, nominative and accusative case	verb2	√vac
-2384	3512	avaksyat	avakṣyat	अवक्ष्यत्	\N	言	will not speak	Negating future active participle, nominative and accusative case	verb2	a + √vac
+2358	5500	gajas	gajās	गजास्	\N	大象、象	an elephant	Nominative case, plural form	masculine	gaja
+2359	375	bhaveyuh	bhaveyuḥ	भवेयुः	\N	作	becomes	Optative, third person, plural form	verb1	√bhū
+2360	412	vadet	vadet	वदेत्	\N	說、告、云、言、曰	speaking	Optative, third person singular form	verb1	√vad
+2361	15122	drastavyam	draṣṭavyam	द्रष्टव्यम्	\N	見	visible	Nominative and accusative case	adjective	draṣṭavya
+2362	15122	drastavya	draṣṭavyā	द्रष्टव्या	\N	見	visible	Nominative case, singular feminine form	adjective	draṣṭavya
+2363	11887	yani	yāni	यानि	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
+2364	412	bhasitani	bhāṣitāni	भाषितानि	\N	說	said	Nominative and accusative case, plural form	adjective	bhāṣita
+2365	28787	samyaksaṃbuddho	samyaksaṃbuddho	सम्यक्संबुद्धो	\N	正等覺	complete enlightenment	Nominative case with visarga sandhi	feminine	samyak + sambodhi
+2366	2940	paśyet	paśyet	पश्येत्	\N	見、看到、看	he sees , he looks	Optative, singular form	verb1	√paś
+2367	412	bhasyamane	bhāṣyamāṇe	भाष्यमाणे	\N	說、言	to speak , talk , say , tell	Present Passive Participle, locative case, singular form	verb1	√bhāṣ
+2368	7979	pratitisthet	pratitiṣṭhet	प्रतितिष्ठेत्	\N	站、停止、停、停住	he stands , he halts , he remains	Optative, accusative, singular form	verb1	prati + √sthā
+2369	2679	ksip	kṣip	क्षिप्	\N	投	to throw , cast , send , despatch	Root form	verb6	√kṣip
+2370	2679	pratiksipet	pratikṣipet	प्रतिक्षिपेत्	\N	投	throw	Optative, accusive, singular form	verb6	prati + √kṣip
+2371	6903	sumeravah	sumeravaḥ	सुमेरवः	\N	須彌山	Mount Sumeru , Mount Meru	Nominative case, plural form	masculine	sumeru
+2372	28787	samyaksaṃbodhau	samyaksaṃbodhau	सम्यक्संबोधौ	\N	正等覺	complete enlightenment	Locative case	feminine	samyak + sambodhi
+2373	412	abhasata	abhāṣata	अभाषत	\N	說、言	he says	Imperfect, middle form	verb1	√bhāṣ
+2374	11887	yasya	yasya	या	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
+2375	412	bhasyeta	bhāṣyeta	भाष्येत	\N	說、言	he says	Optative, passive form	verb1	√bhāṣ
+2376	721	kuryat	kuryāt	कुर्यात्	\N	用、作	make	Optative, accusative, singular	verb2	√kṛ
+2377	972	virya	vīrya	वीर्य	\N	力	manliness , valour , strength , power , energy	Stem form	neuter	vīrya
+2378	972	viryena	vīryeṇa	वीर्येण	\N	力	manliness , valour , strength , power , energy	Instrumental case, singular form	neuter	vīrya
+2379	1823	kad	kad	कद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
+2380	1823	kaccid	kaccid	कच्चिद्	\N	嗎	a particle of interrogation	I hope that	indeclinable	kad
+2381	1823	kaccit	kaccit	कच्चिद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
+2382	28116	aryavajracchedika	āryavajracchedikā	आर्यवज्रच्छेदिका	\N	金剛般若波羅蜜多經	Prajnaparamita Diamond Sutra	Literally, the Noble Diamond Cutter	proper_noun	ārya + vajra + cchedikā
+2383	35517	anutpattika	anutpattika	अनुत्पत्तिक	\N	無生	birthless / non-arising	\N	adjective	anutpattika
+2384	35517	anutpattikesu	anutpattikeṣu	अनुत्पत्तिकेषु	\N	無生	birthless / non-arising	Locative case, plural form	adjective	anutpattika
+2385	30568	su	sū	सू	\N	生	to set in motion , urge , impel , vivify , create , produce	Rootform	verb6	√sū
+2386	30568	prasavet	prasavet	प्रसवेत्	\N	生	producing	Optative, third person, accusative, singular form	verb6	pra + √sū
+2387	876	prama	pramā	प्रमा	\N	量	to measure , mete out , estimate	\N	verb3	pra + √mā
+2388	20347	apramayan	aprameyan	अप्रमेयन्	\N	無量	immeasurable	A negating compound	compound	a + pra + √mā
+2389	5521	asamkhyeya	asaṃkhyeya	असंख्येय	\N	無數	countless , innumerable	A negating compound	compound	a + pra + √mā
+2390	16807	sancaya	sañcaya	सञ्चय	\N	眾	a multitude , an accumulation	\N	noun	sañcaya
+2391	3220	bhavisyat	bhaviṣyat	भविष्यत्	\N	生、出生	will become	Future active participle, nominative and accusative case	verb1	√bhū
+2392	3512	vaksyat	vakṣyat	वक्ष्यत्	\N	言	will speak	Future active participle, nominative and accusative case	verb2	√vac
+2393	3512	avaksyat	avakṣyat	अवक्ष्यत्	\N	言	will not speak	Negating future active participle, nominative and accusative case	verb2	a + √vac
+2394	29918	anugraha	anugraha	अनुग्रह	\N	福	blessing , favour , kindness , showing favour , conferring benefits , promoting or furthering a good object 	Stem form	masculine	anugraha
+2395	29918	anugrahena	anugraheṇa	अनुग्रहेण	\N	福	with blessing 	Instrumental case	masculine	anugraha
+2396	7979	utthā	utthā	स्थित्वा	\N	站、停止、停、停住	 to stand up , spring up , rise , raise one's self , set out	\N	verb1	ut + √sthā
+2397	7127	sana	sana	सन	\N	奉	 presenting , offering	Stem form	masculine	sana
+2398	7127	amsa	aṃsa	अंस	\N	肩	the shoulder , shoulder-blade	Stem form	masculine	aṃsa
+2399	1804	uttara	uttarā	उत्तरा	\N	北	upper , higher , superior, northern	mfn	adjective	uttarā
+2400	32140	sanga	saṅga	सङ्ग	\N	觸	sticking , clinging to , touch , contact with	mfn	adjective	saṅga
+2401	526	tena	tena	तेन	\N	向	in that direction , there	\N	indeclinable	tena
+2402	7207	anjali	añjali	अञ्जलि	\N	合掌	joined palms , the open hands placed side by side and slightly hollowed	\N	masculine	añjali
+2403	3059	pari	pari	परि	\N	滿	fully , abundantly , richly	\N	indeclinable	pari
+2404	972	ind	ind	इन्द्	\N	力	to be powerful	Root form	verb1	√ind
+2405	972	parinditah	parīnditāḥ	परीन्दिताः	\N	力	to be powerful	Past passive participle, nominative and accusative case	verb1	pari + √ind
+2405	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	to control	Future passive participle, nominative and accusative case	verb	pra + √grah
