@@ -885,7 +885,7 @@
 885	32112	rupadhyana	rūpadhyāna	रूपध्यान	rūpajhāna	四禪	rupajhana , meditations of form	\N	noun	\N
 886	32113	karmasthana	karmasthāna	कर्मस्थान	kammaṭṭhāna	業處	an object of meditation	\N	noun	\N
 887	3875	mahabhuta	mahābhūta	महाभूत	\N	四大	the four elements	Literally, the great elemente	masculine	\N
-888	32114	arupa	arūpa	अरूप	\N	無色	formless	\N	adjective	\N
+888	32114	arupa	arūpa	अरूप	\N	無色	formless	A negating compound, mf(ā)n	adjective	a + rūpa
 889	20546	animitta	animitta	अनिमित्त	\N	無相	signlessness , without an appearance	\N	adjective	\N
 890	24764	svabhava	svabhāva	 स्वभाव	sabhāva	自性	original nature , intrinsic nature , essential nature	the intrinsic or essential nature of a living being	masculine	\N
 891	32115	bandhana	bandhana	बन्धन	samyojana	結縛	a mental fetter or bond	\N	neuter	\N
@@ -1027,7 +1027,7 @@
 1027	32697	andaja	āṇḍaja	आण्डज	\N	卵生	born from an egg , oviparous	Used in Section 3 of the Diamond Sutra	adjective	āṇḍaja
 1028	32700	jarayuja	jarāyujā	जरायुजा	jalābuja	胎生	born from a womb , viviparous	Used in Section 3 of the Diamond Sutra	adjective	\N
 1029	32702	samsvedaja	saṃsvedaja	संस्वेदज	\N	濕生	born from moisture	Used in Section 3 of the Diamond Sutra	adjective	saṃsvedaja
-1030	32703	upapaduka	upapādukā	उपपादुका	opapatika	化生	born from transformation	Used in Section 3 of the Diamond Sutra	adjective	\N
+1030	32703	upapaduka	upapādukā	उपपादुका	opapatika	化生	born from transformation	mfn	adjective	upa + pādukā
 1031	2617	uraga	uraga	उरग	\N	蛇	snake	\N	masculine	\N
 1032	2629	visana	viṣāṇa	विषाण	\N	角	horn	\N	masculine	\N
 1033	1429	varga	varga	वर्ग	vagga	分	section	\N	masculine	\N
@@ -1321,7 +1321,7 @@
 1321	299	kalam	kalāṃ	कलां	\N	時間	time , a point in time , a period of time	Accusative case, singular form	masculine	kāla
 1322	5043	prajnaparamitaya	prajñāpāramitāyā	प्रज्ञापारमिताया	\N	般若波羅蜜多	Prajnaparamita , Perfection of wisdom	Dative case, singular form	masculine	prajñāpāramitā
 1323	21078	sattvaih	sattvaiḥ	सत्त्वैः	\N	有情	beings	Instrumental case, plural form	noun	sattva
-1324	35029	asamjna	asaṃjñā	असंज्ञा	\N	無想	no notion	Form negating existence	feminine	saṃjñā
+1324	35029	asamjna	asaṃjñā	असंज्ञा	\N	無想	no notion , without thought	A negating compound	feminine	a + saṃjñā
 1325	6900	dīpaṃkarastathāgato	dīpaṃkarastathāgato	दीपंकरस्तथागतो	\N	然燈佛、然燈	Dipankara Buddha	Word ending modified for Sandhi	proper_noun	\N
 1326	3174	bodhim	bodhiṃ	बोधिं	bodhi	菩提	enlightenment	Accusative case, singular form	feminine	bodhi
 1327	32438	kulaputrena	kulaputreṇa	कुलपुत्रेण	\N	善男子	a good man , a son of a noble family	Instrumental case, singular form	masculine	kulaputra
@@ -2380,8 +2380,8 @@
 2380	1823	kaccid	kaccid	कच्चिद्	\N	嗎	a particle of interrogation	I hope that	indeclinable	kad
 2381	1823	kaccit	kaccit	कच्चिद्	\N	嗎	a particle of interrogation	\N	indeclinable	kad
 2382	28116	aryavajracchedika	āryavajracchedikā	आर्यवज्रच्छेदिका	\N	金剛般若波羅蜜多經	Prajnaparamita Diamond Sutra	Literally, the Noble Diamond Cutter	proper_noun	ārya + vajra + cchedikā
-2383	35517	anutpattika	anutpattika	अनुत्पत्तिक	\N	無生	birthless / non-arising	\N	adjective	anutpattika
-2384	35517	anutpattikesu	anutpattikeṣu	अनुत्पत्तिकेषु	\N	無生	birthless / non-arising	Locative case, plural form	adjective	anutpattika
+2383	32703	anutpattika	anutpattika	अनुत्पत्तिक	\N	無生	birthless / non-arising	\N	adjective	anutpattika
+2384	32703	anutpattikesu	anutpattikeṣu	अनुत्पत्तिकेषु	\N	無生	birthless / non-arising	Locative case, plural form	adjective	anutpattika
 2385	30568	su	sū	सू	\N	生	to set in motion , urge , impel , vivify , create , produce	Rootform	verb6	√sū
 2386	30568	prasavet	prasavet	प्रसवेत्	\N	生	producing	Optative, third person, accusative, singular form	verb6	pra + √sū
 2387	876	prama	pramā	प्रमा	\N	量	to measure , mete out , estimate	\N	verb3	pra + √mā
@@ -2403,6 +2403,16 @@
 2403	3059	pari	pari	परि	\N	滿	fully , abundantly , richly	\N	indeclinable	pari
 2404	972	ind	ind	इन्द्	\N	力	to be powerful	Root form	verb1	√ind
 2405	972	parinditah	parīnditāḥ	परीन्दिताः	\N	力	to be powerful	Past passive participle, nominative and accusative case	verb1	pari + √ind
-2405	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	to control	Future passive participle, nominative and accusative case	verb	pra + √grah
-2406	412	bhasisye	bhāṣiṣye	भाषिष्ये	\N	說、言	I will say , tell	Future tense, first person	verb1	√bhāṣ
-2244	6643	ayusya 	āyuṣya	आयुष्य	\N	長老	life-possessing, elder (honorific title)	\N	masculine	āyuṣya
+2406	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	to control	Future passive participle, nominative and accusative case	verb	pra + √grah
+2407	412	bhasisye	bhāṣiṣye	भाषिष्ये	\N	說、言	I will say , tell	Future tense, first person	verb1	√bhāṣ
+2408	6643	ayusya 	āyuṣya	आयुष्य	\N	長老	life-possessing, elder (honorific title)	\N	masculine	āyuṣya
+2409	275	samprasthitena 	saṃprasthitena	संप्रस्थितेन	\N	出	life-possessing, elder (honorific title)	Past participle, instrumental case	masculine	saṃ + pra + √sthā
+2410	28121	samgraha	saṃgraha	संग्रह	\N	取	holding together , seizing , grasping , taking , reception , obtainment	\N	masculine	saṃ + graha
+2411	1049	samgrhita	saṃgṛhīta	संगृहीत	\N	所有	grasped , seized , caught , taken , received , collected , gathered	mfn	masculine	saṃ + gṛhīta
+2412	1049	samgrhita	saṃgṛhītā	संगृहीता	\N	所有	grasped , seized , caught , taken , received , collected , gathered	Nominative case, singular, feminine form	masculine	saṃ + gṛhīta
+2413	26533	aupapaduka	aupapāduka	अउपपादुक	\N	化生	 self-produced , born from transformation	mfn	adjective	upa + pāduka
+2414	26533	aupapaduka	aupapādukā	अउपपादुका	\N	化生	 self-produced , born from transformation	Feminine form	adjective	upa + pāduka
+2415	32114	arupino	arūpiṇo	अरूपिणो	\N	無色	formless	A negating compound, accusative plural. See Edgerton for an explanation of the declension	adjective	a + rūpa
+2416	5052	rupino	rūpiṇo	रूपिणो	\N	色	form	Accusative plural. See Edgerton for an explanation of the declension	neuter	rūpa
+2417	32106	samjnino	saṃjñino	संज्ञिनो	saññā	想蘊、想	notion , perception , cognition , conceptualization , saṃjñā , appearance	Accusative plural. See Edgerton for an explanation of the declension.	feminine	saṃjñā
+2418	35029	asamjnino	asaṃjñino	असंज्ञिनो	\N	無想	no notion , without thought	A negating compound. Accusative plural. See Edgerton for an explanation of the declension.	feminine	a + saṃjñā
