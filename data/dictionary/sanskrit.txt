@@ -124,7 +124,7 @@
 124	17656	pratityasamutpada	pratītyasamutpāda	प्रतीत्यसमुत्पाद	paticcasamuppāda	緣起	dependent arising	\N	noun	\N
 125	25035	buddhagaya	buddhagayā	बुद्धगया	\N	菩提伽耶	Bodh Gaya	\N	proper_noun	\N
 126	21832	kamadhatu	kāmadhātu	कामधातु	\N	慾界	The Realm of Desire	\N	proper_noun	\N
-127	28021	dhatu	dhātu	धातु	\N	界	a realm , an element	\N	noun	\N
+127	28021	dhatu	dhātu	धातु	\N	界	a realm , an element	\N	masculine	dhātu
 128	28022	tara	tārā	तारा	\N	多羅菩薩、多羅母、多羅佛母、度母、救度佛母	Tara	\N	proper_noun	\N
 129	18482	vajrayana	vajrayāna	वज्रयान	\N	密宗	Esoteric Buddhism , Vajrayana Buddhism , Tantric Buddhism	Literally, the Diamond Vehicle	proper_noun	\N
 130	19633	nagarjuna	nāgārjuna	नागार्जुन	\N	龍樹、龍猛	Nagarjuna	\N	proper_noun	\N
@@ -2406,7 +2406,7 @@
 2406	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	to control	Future passive participle, nominative and accusative case	verb	pra + √grah
 2407	412	bhasisye	bhāṣiṣye	भाषिष्ये	\N	說、言	I will say , tell	Future tense, first person	verb1	√bhāṣ
 2408	6643	ayusya 	āyuṣya	आयुष्य	\N	長老	life-possessing, elder (honorific title)	\N	masculine	āyuṣya
-2409	275	samprasthitena 	saṃprasthitena	संप्रस्थितेन	\N	出	life-possessing, elder (honorific title)	Past participle, instrumental case	masculine	saṃ + pra + √sthā
+2409	275	samprasthitena 	saṃprasthitena	संप्रस्थितेन	\N	出	to set out	Past participle, instrumental case	masculine	saṃ + pra + √sthā
 2410	28121	samgraha	saṃgraha	संग्रह	\N	取	holding together , seizing , grasping , taking , reception , obtainment	\N	masculine	saṃ + graha
 2411	1049	samgrhita	saṃgṛhīta	संगृहीत	\N	所有	grasped , seized , caught , taken , received , collected , gathered	mfn	masculine	saṃ + gṛhīta
 2412	1049	samgrhita	saṃgṛhītā	संगृहीता	\N	所有	grasped , seized , caught , taken , received , collected , gathered	Nominative case, singular, feminine form	masculine	saṃ + gṛhīta
@@ -2419,3 +2419,21 @@
 2419	3896	jna	jñā	ज्ञा	\N	知	to know , have knowledge , become acquainted with , perceive , apprehend , understand , experience , recognise , ascertain , investigate	Root form	verb9	√jñā
 2420	3896	prajnapyamanah	prajñapyamānaḥ	प्रज्ञप्यमानः	\N	知	know	Present passive participle, nominative case, singular form	verb9	pra + √jñā
 2421	3896	prajnapyate	prajñapyate	प्रज्ञप्यते	\N	知	know	Present passive, singular form	verb9	pra + √jñā
+2422	13908	upadhi	upadhi	उपधि	\N	安置	the act of putting to , adding , addition	\N	masculine	upadhi
+2423	4066	si	śī	शी	\N	安息	to lie , lie down , recline , rest , repose	Root form	verb2	√śī
+2424	4066	sese	śeṣe	शेषे	\N	安息	lie	Present, middle, singular form	verb2	√śī
+2425	28021	dhatau	dhātau	धातौ	\N	界	a realm , an element	Locative case, singular form	masculine	dhātu
+2426	644	vap	vap	वप्	\N	切	to shear , shave	Root form	verb1	√vap
+2427	644	vapayitavya	vāpayitavya	वापयितव्य	\N	切	shear	Future passive participle, nominative and accusative case form	verb1	√vap
+2428	31119	parinirvapayitavyah	parinirvāpayitavyāḥ	परिनिर्वापयितव्याः	\N	無餘	without remainder	Future passive participle, nominative and accusative case form. A negating compound	verb1	pari + ni + √vap
+2429	876	parimana	parimāṇa	परिमाण	\N	量	measuring , meting out	Stem form	neuter	parimāṇa
+2430	20347	aparimana	aparimāṇa	अपरिमाण	\N	無量	immeasurable	A negating compound	compound	a + parimāṇa
+2431	20347	ana	āna	आन	\N	無量	inhalation , breath inspired , breathing , blowing	\N	masculine	āna
+2432	31119	parinirvapya	parinirvāpya	परिनिर्वाप्य	\N	無餘	without remainder	Absolutive form. A negating compound	compound	pari + ni + √vap
+2433	31119	parinirvapito	parinirvāpito	परिनिर्वापितो	\N	無餘	without remainder	Absolutive form, nominative case with visarga sandhi. A negating compound	compound	pari + ni + √vap
+2434	509	ced	ced	चेद्	\N	與	and	A conjunction	indeclinable	ced
+2435	801	vrt	vṛt	वृत्	\N	翻	to turn , turn round , revolve , roll	Root form	verb1	√vṛt
+2436	275	pravṛt	pravṛt	प्रवृत्	\N	出	to roll or go onwards (as a carriage) , be set in motion or going , to set out , depart	\N	verb1	pra + √vṛt
+2437	275	pravartate	pravartate	प्रवर्तते	\N	出	set in motion	Present tense, third person, singular	verb1	pra + √vṛt
+2438	275	pravarteta	pravarteta	प्रवर्तेत	\N	出	set in motion	Optative, middle, singular	verb1	pra + √vṛt
+2439	1260	va	va	व	\N	行	going	\N	feminine	va
