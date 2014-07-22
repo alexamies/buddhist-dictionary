@@ -988,7 +988,7 @@
 988	2851	anagata	anāgata	अनागत	\N	未來	future	\N	adjective	anāgata
 989	3729	valuka	vālukā	वालुका	\N	沙	sand	Stem form	feminine	vālukā
 990	2978	mahanada	mahānada	महानद	\N	河	a great river , a stream	\N	masculine	\N
-991	401	tavat	tāvat	तावत्	\N	多	so many	\N	adjective	\N
+991	401	tavat	tāvat	तावत्	\N	多	so great , so large , so much , so far , so long , so many	mf(atī)n	adjective	tāvat
 992	2978	nada	nada	नद	\N	河	a river , a stream	Stem form	masculine	nada
 993	3597	caksu	cakṣu	चक्षु	\N	眼	an eye	Stem form	masculine	cakṣu
 994	3374	caitya	caitya	चैत्य	\N	塔	a stupa , a shrine	Stem form	masculine	caitya
@@ -2121,7 +2121,7 @@
 2121	372	tatonidana	tatonidāna	ततोनिदान	\N	為	caused by that	mfn	adjective	tatonidāna
 2122	372	tatonidanam	tatonidānaṃ	ततोनिदानं	\N	為	caused by that	mfn	adjective	tatonidāna
 2123	22891	yas	yas	यस्	\N	努	to strive after	Root form of the class 4 verb	verb	√yas
-2124	807	sampad	sampad	सम्पद्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	\N	feminine	sampad
+2124	807	sampad	sampad	सम्पद्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	Stem form	feminine	sampad
 2125	28434	samvid	saṃvid	संविद्	\N	識	consciousness , intellect , knowledge , understanding	\N	feminine	saṃ + vid
 2126	3896	samvid	saṃvid	संविद्	\N	知	to know together , know thoroughly , know , recognize	Root form for the class II verb	verb	saṃ + √vid
 2127	3896	yati	yati	यति	\N	知	an ascetic , devotee , one who has restrained his passions and abandoned the world	Stem form	masculine	yati
@@ -2447,3 +2447,4 @@
 2447	6263	su	su	सु	\N	維	good , excellent , right , virtuous , beautiful , easy , well , rightly , much , greatly , very , any , easily , willingly , quickly	This prefix always qualifies the meaning of a verb and is never used independently at the beginning of a verse	indeclinable	su
 2448	671	kara	kara	कर	\N	者	a doer , maker , causer , doing , making , causing , producing	mf(ī , rarely ā)n	adjective	kara
 2449	9318	aha	āha	आह	\N	嗯	an interjection	\N	indeclinable	āha
+2450	807	sampat	sampat	सम्पत्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	Nominative case, singular form	feminine	sampad
