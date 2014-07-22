@@ -201,13 +201,13 @@
 201	2892	bhaisajyaguru	bhaiṣajyaguru	भैषज्यगुरु	\N	藥師佛、藥師琉璃光佛、藥師琉璃光如來	Medicine Buddha	\N	proper_noun	\N
 202	28106	bhaisajyaguruvaiduryaprabharaja	bhaiṣajyaguruvaiḍūryaprabhārāja	भैषज्यगुरुवैडूर्यप्रभाराज	\N	藥師琉璃光佛、藥師琉璃光如來、藥師佛	Medicine Buddha	Literally, Medicine Master and King of Lapis Lazuli Light	proper_noun	\N
 203	28108	suryaprabha	sūryaprabha	सूर्यप्रभ	\N	日光菩薩	Suryaprabha Bodhisattva	\N	proper_noun	\N
-204	26770	brahmanah	brāhmaṇaḥ	ब्राह्मणः	\N	婆羅門	Brahmin	\N	proper_noun	\N
+204	26770	brahmanah	brāhmaṇaḥ	ब्राह्मणः	\N	婆羅門	Brahmin	\N	proper_noun	brāhmaṇa
 205	28110	vaiduryanirbhasa	vaidūryanirbhāsā	वैडूर्यनिर्भास	\N	淨琉璃世界	The Land of Pure Crystal	\N	proper_noun	\N
 206	19666	sukhavati	sukhāvatī	सुखावती	\N	極樂世界	Western Pure Land , Sukhavati	\N	proper_noun	\N
 207	18686	amitayurdhyana sutra	amitāyurdhyāna sūtra	अमितायुर्ध्यान सूत्र	\N	觀無量壽佛經	The Sutra on the Visualization of the Buddha of Infinite Lifespan , Amitayurdhyana Sutra	\N	proper_noun	\N
-208	27612	rahula	rāhula	राहुल	\N	羅睺羅、羅睺睺	Rahula	\N	proper_noun	\N
+208	27612	rahula	rāhula	राहुल	\N	羅睺羅、羅睺睺	Rahula	\N	masculine	rāhula
 209	6645	subhute	subhūte	सुभूते	\N	須菩提	Subhuti	Vocative case	masculine	subhūti
-210	18620	sariputra	śāriputra	शारिपुत्र	sāriputta	舍利弗	Sariputra , Sariputta	\N	proper_noun	\N
+210	18620	sariputra	śāriputra	शारिपुत्र	sāriputta	舍利弗	Sariputra , Sariputta	\N	masculine	śāriputra
 211	28111	rama	rāma	राम	\N	羅摩	Rama	Stem form and vocative case singular case	masculine	rāma
 212	21961	avatara	avatāra	अवतार	\N	化身	avatar , incarnation	\N	noun	\N
 213	28112	vimalakirti nirdesa sutra	vimalakīrti nirdeśa sūtra	विमलकीर्ति निर्देश सूत्र	\N	維摩詰所說經	Vimalakirti Sutra , Vimalakirti Nirdesa Sutra	\N	proper_noun	\N
@@ -737,7 +737,7 @@
 737	29825	asubhasmrti	aśubhāsmṛti	अशुभास्मृति	\N	不淨觀	The contemplation of impurity	The first of the Five Contemplations	phrase	\N
 738	7179	pratityasamutpada	pratītyasamutpāda	प्रतीत्यसमुत्पाद	\N	因緣	chain of causation	\N	masculine	\N
 739	2782	pana	pāna	पान	\N	息	breathing out , expiration	\N	masculine	\N
-740	1801	purva	pūrvā	पूर्वा	\N	東	east	\N	feminine	\N
+740	1801	purva	pūrvā	पूर्वा	\N	東	east	Feminine form	adjective	pūrva
 741	29841	purvavideha	pūrvavideha	पूर्वविदेह	\N	東勝身州	Purvavideha	Literally, the country of the eastern videhas; the easternmost of the Four Great Continents	masculine	\N
 742	29843	jambu	jambu	जम्बु	\N	閻浮樹	jampu , jambul	A kind of blackberry	noun	\N
 743	29842	aparagodana	aparagodāna	अपरगोदान	\N	西牛貨洲	Aparagodana , Aparagodaniya	Literally, the country west of the Mount Sumeru	proper_noun	\N
@@ -1017,7 +1017,7 @@
 1017	6643	sthavira	sthavira	स्थविर	\N	長老	elder	\N	masculine	\N
 1018	30644	dadati	dadāti	ददाति	\N	禮	a gift	Stem form	masculine	dadāti
 1019	9080	apratistha	apratiṣṭha	अप्रतिष्ठ	\N	無住	without attachment	\N	adjective	\N
-1020	4250	sukara	sukara	सूकर	\N	易	easy	\N	adjective	\N
+1020	4250	sukara	sukara	सूकर	\N	易	easy	\N	adjective	su + kara
 1021	875	pramana	pramāṇa	प्रमाण	\N	量	a measure	\N	neuter	\N
 1022	608	sabda	śabda	शब्द	\N	聲	sound	Stem form	masculine	śabda
 1023	5068	gandha	gandha	गन्ध	\N	香	a scent , a smell	Stem form	masculine	gandha
@@ -1035,7 +1035,7 @@
 1035	32713	vaisaradya	vaiśāradya	वैशारद्य	vesārajja	無畏	non-fear , confidence in yourself	\N	neuter	\N
 1036	32713	abhaya	abhaya	अभय	\N	無畏	non-fear , confidence in yourself	\N	neuter	\N
 1037	8394	anusmrta	anusmṛta	अनुस्मृत	\N	念	remembered	\N	adjective	\N
-1038	8851	pratisthita	pratiṣṭhita	प्रतिष्ठित	\N	住	abiding	\N	adjective	\N
+1038	8851	pratisthita	pratiṣṭhita	प्रतिष्ठित	\N	住	abiding	\N	adjective	prati + √sthā
 1039	32731	kvacit	kvacit	क्वचित्	\N	所	anywhere , at all , at any time	\N	adverb	\N
 1040	8840	yatha	yathā	यथा	\N	如是	thus , thusly	\N	indeclinable	\N
 1041	32732	lokottaravada	lokottaravāda	लोकोत्तरवाद	\N	說出世部	lokottaravada	An early Mahāyāna school	proper_noun	\N
@@ -1048,7 +1048,7 @@
 1048	32786	hetuvidya	hetuvidyā	हेतुविद्या	\N	因明、因明學	Buddhist logic	\N	feminine	\N
 1049	32789	dharmayatana	dharmāyatana	धर्मायतन	\N	法處	mental objects	\N	neuter	\N
 1050	5328	hetoh	hetoḥ	हेतोः	\N	何以	whence , why	Interrogative pronoun used to ask a question	pronoun	\N
-1051	3382	diz	diz	दिश्	\N	方	direction	\N	feminine	\N
+1051	3382	dik	dik	दिक्	\N	方	direction	\N	feminine	diś
 1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south , right	mf(ā)n	adjective	dakṣiṇa
 1053	1802	pascima	paścima	पश्चिम	\N	西	west	mf(ā)n	adjective	paścima
 1054	581	adhah	adhaḥ	अधः	\N	下	bottom , below	\N	indeclinable	\N
@@ -2050,7 +2050,7 @@
 2050	1260	pratipattavyaṃ	pratipattavyaṃ	प्रतिपत्तव्यं	\N	行	walking , conduct , practice , behavior	Gerundive, accusative case, ending modified for sandhi	neuter	prati + pad
 2051	1260	pratipattavya	pratipattavya	प्रतिपत्तव्य	\N	行	walking , conduct , practice , behavior	Gerundive, accusative case	neuter	prati + pad
 2052	1260	pratipad	pratipad	प्रतिपद्	\N	行	walking , conduct , practice , behavior	\N	neuter	prati + pad
-2053	8851	pratisthitena	pratiṣṭhitena	प्रतिष्ठितेन	\N	住	abiding	Instrumental case	adjective	\N
+2053	8851	pratisthitena	pratiṣṭhitena	प्रतिष्ठितेन	\N	住	abiding	Instrumental case	adjective	prati + √sthā
 2054	1510	pratisamya	pratiśāmya	प्रतिशाम्य	\N	收	to store away , to put away	Instrumental case	adjective	prati + śām
 2055	343	agacchatam	agacchatām	अगच्छताम्	\N	去	those two went	Imperfect, third person, dual	verb	a + √gam
 2056	343	agacchan	agacchan	अगच्छन्	\N	去	they all went	Imperfect, third person, plural	verb	a + √gam
@@ -2437,3 +2437,13 @@
 2437	275	pravartate	pravartate	प्रवर्तते	\N	出	set in motion	Present tense, third person, singular	verb1	pra + √vṛt
 2438	275	pravarteta	pravarteta	प्रवर्तेत	\N	出	set in motion	Optative, middle, singular	verb1	pra + √vṛt
 2439	1260	va	va	व	\N	行	going	\N	feminine	va
+2440	32204	vastu	vastu	वस्तु	\N	法、事	any really existing or abiding substance or essence , thing , object , article	, dharma Stem form	neuter	vastu
+2441	6645	subhute	sūbhūte	सूभूते	\N	須菩提	Subhuti	Vocative case with non-standard long u	masculine	subhūti
+2442	9080	apratiathita	apratiṣṭhita	अप्रतिष्ठित	\N	無住	non-attachment / non-abiding	Negating compound	compound	a + prati + √sthā
+2443	1801	purvasyam	pūrvasyāṃ	पूर्वस्यां	\N	東	in the east	Feminine form, locative case, with anusvara sandhi	adjective	pūrva
+2444	2256	adha	adha	अध	\N	且	now , then , therefore , moreover , so much the more	\N	indeclinable	adha
+2445	6263	vidis	vidiś	विदिश्	\N	維	going into different quarters or regions	mfn	adjective	vidiś
+2446	3382	samanta	samanta	समन्त	\N	方	being on every side , universal , whole , entire , all	mf(ā)n	adjective	samanta
+2447	6263	su	su	सु	\N	維	good , excellent , right , virtuous , beautiful , easy , well , rightly , much , greatly , very , any , easily , willingly , quickly	This prefix always qualifies the meaning of a verb and is never used independently at the beginning of a verse	indeclinable	su
+2448	671	kara	kara	कर	\N	者	a doer , maker , causer , doing , making , causing , producing	mf(ī , rarely ā)n	adjective	kara
+2449	9318	aha	āha	आह	\N	嗯	an interjection	\N	indeclinable	āha
