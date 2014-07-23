@@ -689,9 +689,9 @@
 689	2647	vrksat	vṛkṣāt	वृक्षात्	\N	樹	tree	Ablative case, indicating movement away from the tree	noun	\N
 690	29712	saddharma	saddharma	सद्धर्म	\N	正法	The Age of the Right Dharma	The first of the Three Ages of the Dharma, which is the period not long after the Buddha has passed into Nirvana and his disciples are properly able to uphold his teachings	proper_noun	\N
 691	8987	pratirupaka	pratirūpaka	प्रतिरूपक	\N	像	appearance , image , portrait	\N	noun	\N
-692	29713	saddharmapratirupaka	saddharmapratirūpaka	सद्धर्मप्रतिरूपक	\N	像法	The Period of Semblance Dharma	\N	phrase	\N
-693	5549	vipralopa	vipralopa	विप्रलोप	\N	末	destruction , annihilation	\N	masculine	\N
-694	21824	saddharmavipralopa	saddharmavipralopa	सद्धर्मविप्रलोप	\N	末法	The Period of Declining of Dharma	\N	phrase	\N
+692	29713	saddharmapratirupaka	saddharmapratirūpaka	सद्धर्मप्रतिरूपक	\N	像法	The Period of Semblance Dharma	\N	compound	\N
+693	568	vipralopa	vipralopa	विप्रलोप	\N	滅、末	destruction , annihilation , extinction	Stem form	masculine	vipralopa
+694	21824	saddharmavipralopa	saddharmavipralopa	सद्धर्मविप्रलोप	\N	末法	The Period of Declining of Dharma	\N	compound	saddharma + vipralopa
 695	5049	pancaskandha	pañcaskandha	पञ्चस्कन्ध	pañca khandhā	五蘊	the five aggregates , five skandhas , five dharmas	\N	compound	pañca + skandha
 696	29718	alayavijnana	ālayavijñāna	आलयविज्ञान	\N	阿賴耶識	Alaya Consciousness , Store-house Consciousness	One of the eight kinds of conciousness	proper_noun	\N
 697	5438	alaya	ālaya	आलय	\N	屋、房、家	home , house , abode ,  dwelling , place	\N	masculine	\N
@@ -812,7 +812,7 @@
 812	4054	tyajati	tyajati	त्यजति	\N	捨、棄	to abandon , to give up , to leave	\N	verb1	tyaj
 813	541	vadhu	vadhū	वधू	\N	女人	a woman	Singular root form	feminine	vadhū
 814	541	vadhuh	vadhūḥ	वधूः	\N	女人	a woman	Singular nominative form	feminine	vadhū
-815	541	vadhum	vadhūm	वधूम्	\N	女人	a woman	Singular accusive form	feminine	vadhū
+815	541	vadhum	vadhūm	वधूम्	\N	女人	a woman	Singular Accusative form	feminine	vadhū
 816	541	vadhva	vadhvā	वध्वा	\N	女人	a woman	Singular instrumental form	feminine	vadhū
 817	541	vadhai	vadhvai	वध्वै	\N	女人	a woman	Singular dative form	feminine	vadhū
 818	541	vadhvah	vadhvāḥ	वध्वाः	\N	女人	a woman	Singular genetive form	feminine	vadhū
@@ -1050,7 +1050,7 @@
 1050	5328	hetoh	hetoḥ	हेतोः	\N	何以	whence , why	Interrogative pronoun used to ask a question	pronoun	\N
 1051	3382	dik	dik	दिक्	\N	方	direction	\N	feminine	diś
 1052	1805	daksina	dakṣiṇa	दक्षिण	\N	南	south , right	mf(ā)n	adjective	dakṣiṇa
-1053	1802	pascima	paścima	पश्चिम	\N	西	west	mf(ā)n	adjective	paścima
+1053	1802	pascima	paścima	पश्चिम	\N	西	west , being behind , hinder , later , last , final	mf(ā)n	adjective	paścima
 1054	581	adhah	adhaḥ	अधः	\N	下	bottom , below	\N	indeclinable	\N
 1055	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	top , above	\N	indeclinable	ūrdhva
 1056	1324	ayata	āyata	आयत	\N	長	stretching , extending	\N	adjective	\N
@@ -1077,7 +1077,7 @@
 1077	6045	praksalya	prakṣālya	प्रक्षाल्य	\N	洗	having washed , to be washed , to be purified	Absolutive with prefix	verb1	pra + √kṣal
 1078	6644	parsad	parṣad	पर्षद्	\N	大眾	assembly , audience , society	Stem form	feminine	parṣad
 1079	280	srnu	śṛṇu	शृणु	\N	聽	to listen	\N	verb	\N
-1080	3513	bhasya	bhāṣya	भाष्य	\N	言	speech , explanation	\N	neuter	\N
+1080	3513	bhasya	bhāṣya	भाष्य	\N	言	speech , explanation	Stem form	neuter	bhāṣya
 1081	32830	pudgalasamjna	pudgalasaṃjñā	पुद्गलसंज्ञा	\N	人相	the notion of a person	One of the four notions (四相). The notion of a person is mistaken because there is no difference between self and others.	phrase	\N
 1082	32831	sattvasamjna	sattvasaṃjñā	सत्त्वसंज्ञा	\N	眾生相	the notion of a being	One of the four notions (四相). The notion of a being is mistaken because beings are made up of the five aggregates (五蕴).	phrase	\N
 1083	32832	jivasamjna	jīvasaṃjñā	जीवसंज्ञा	\N	壽者相	the notion of a lifespan	One of the four notions (四相). The mistaken notion that one will live forever.	phrase	\N
@@ -1146,7 +1146,7 @@
 1146	28422	bhagavan	bhagavan	भगवन्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Modified for Sandhi.	masculine	bhagavat
 1147	3811	khalu	khalu	खलु	\N	爾	now then , indeed , certainly	\N	indeclinable	khalu
 1148	368	punah	punaḥ	पुनः	\N	再、又、復、重	again	\N	adverb	\N
-1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana , the practice of giving	Word ending modified for the accusive case	noun	\N
+1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana , the practice of giving	Word ending modified for the Accusative case	noun	\N
 1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. (Conze 1958, p36). Accusative case, singular form.	compound	puṇya + skandha
 1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	masculine	tathāgata
 1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
@@ -1156,7 +1156,7 @@
 1156	3166	bodhisattva	bodhisattvā	बोधिसत्त्वा	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
 1157	17994	dharmo	dharmo	धर्मो	dhamma	法	dharma ,  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
 1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed , supreme	Feminine form of the adjective	adjective	anuttara
-1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Nominative and accusive case, singular form	neuter	citta
+1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Nominative and Accusative case, singular form	neuter	citta
 1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	a being , a creature	Nominative case, plural form	masculine	sattva
 1161	17994	dharma	dharmā	धर्मा	dhamma	法	dharma ,  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	dharma
 1162	8847	mahasattvah	mahāsattvāḥ	महासत्त्वाः	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Nominative case, plural form	masculine	mahāsattva
@@ -1172,11 +1172,11 @@
 1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	tathāgata
 1173	4250	sukaram	sukaraṃ	सुकरं	\N	易	easy	Normally written as sukara but the word ending is modified here for Sanskrit grammar	adjective	\N
 1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
-1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world , a region of the world	Normally written as lokadhātu but the word ending is modified here for the accusive case	masculine	\N
+1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world , a region of the world	Normally written as lokadhātu but the word ending is modified here for the Accusative case	masculine	\N
 1176	3618	buddha	buddhā	बुद्धा	\N	佛	Buddha	Normally written as buddha but the word ending is modified here for Sandhi	proper_noun	\N
 1177	8847	mahasattva	mahāsattvā	महासत्त्वा	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	masculine	mahāsattva
 1178	363	lokadhatun	lokadhātūn	लोकधातून्	\N	世界	a world , a region of the world	Normally written as lokadhātu but the word ending is modified here for Sanskrit grammar	masculine	\N
-1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Accusive case	adjective	bhāṣita
+1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Accusative case	adjective	bhāṣita
 1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
 1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
 1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Non-standard, should be satyam	neuter	satya
@@ -1467,7 +1467,7 @@
 1467	6652	pujaniya	pūjanīya	पूजनीय	\N	恭敬	to be revered , to be worshipped	Stem form	adjective	pūjanīya
 1468	6652	pujaniyah	pūjanīyaḥ	पूजनीयः	\N	恭敬	to be revered , to be worshipped	Nominative case, singular form	adjective	pūjanīya
 1469	16807	sartha	sārtha	सार्थ	\N	恭敬	a group , a crowd	Stem form	masculine	sārtha
-1470	16807	sartham	sārthaṃ	सार्थं	\N	眾	a group , a crowd	Accusive case with anusvara sandhi	masculine	sārtha
+1470	16807	sartham	sārthaṃ	सार्थं	\N	眾	a group , a crowd	Accusative case with anusvara sandhi	masculine	sārtha
 1471	4048	paryayena	paryāyeṇa	पर्यायेण	\N	復	successively , in turn	\N	indeclinable	paryāyeṇa
 1472	28914	bhavah	bhāvaḥ	भावः	\N	有	becoming , state	Nominative case, singular form	masculine	bhāva
 1473	32204	dharman	dharmān	धर्म	\N	法	phenomena , mental objects	Accusative case, plural form	masculine	dhárma
@@ -1795,7 +1795,7 @@
 1795	877	uccal	uccal	उच्चल्	\N	躍	to spring or jump up	Root form	verb	√uccal
 1796	3273	bila	bila	बिल	\N	洞	a hole , a cave , a pit , an opening , an aperture	Stem form	neuter	bila
 1797	3273	bilam	bilam	बिलम्	\N	洞	a hole , a cave , a pit , an opening , an aperture	Accusative case, singular form	neuter	bila
-1798	3794	ka	ka	क	\N	谁	who	Integative pronoun, stem form	masculine	ka
+1798	3794	ka	ka	क	\N	谁	who? which? what?	Integative pronoun, stem form. In its declension ka follows the pronoun tad except in nom. acc. sing. neut. , where kim has taken the place of kad or kat in classical Sanskrit.	masculine	ka
 1799	1801	paurva	paurva	पौर्व	\N	東	eastern	Stem form, masculine and neuter form, feminine form ends in ī	adjective	paurva
 1800	3858	sma	sma	स्म	\N	常	was , ever , always	a particle perhaps originally equivalent to ever or always, makes the verb before it into the past tense	indeclinable	sma
 1801	8680	arita	ārita	आरित	\N	讚	praised	Stem form, masculine and neuter	adjective	ārita
@@ -2126,7 +2126,7 @@
 2126	3896	samvid	saṃvid	संविद्	\N	知	to know together , know thoroughly , know , recognize	Root form for the class II verb	verb	saṃ + √vid
 2127	3896	yati	yati	यति	\N	知	an ascetic , devotee , one who has restrained his passions and abandoned the world	Stem form	masculine	yati
 2128	398	samvidyate	saṃvidyate	संविद्यते	saṃvijjate	有	is found , exists	From Edgerton	masculine	saṃvidyate
-2129	1802	pascime	paścime	पश्चिमे	\N	西	the west	\N	indeclinable	paścima
+2129	1802	pascime	paścime	पश्चिमे	\N	西	the west , being behind , hinder , later , last , final	\N	adjective	paścima
 2130	3512	ukta	ukta	उक्त	\N	言	uttered , said , spoken	mfn	adjective	ukta
 2131	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
 2132	28422	bhagavat	bhagavat	भगवत्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Stem form. Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
@@ -2187,8 +2187,8 @@
 2187	3414	siras	śiras	शिरस्	\N	頭	the head , skull	Stem form	neuter	śiras
 2188	3414	sirobhis	śirobhis	शिरोभिस्	\N	頭	the head , skull	Instrumental case	neuter	śiras
 2189	8680	vandya	vandya	वन्द्य	\N	讚	to be praised , praiseworthy	mfn	adjective	vandya
-2190	301	ekam	ekām	एकाम्	\N	一	one	Accusive case, singular form	adjective	eka
-2191	3368	nyasidan	nyaṣīdan	न्यषीदन्	\N	坐	sat down	Imperfect, accusive	verb	ni + √sad
+2190	301	ekam	ekām	एकाम्	\N	一	one	Accusative case, singular form	adjective	eka
+2191	3368	nyasidan	nyaṣīdan	न्यषीदन्	\N	坐	sat down	Imperfect, Accusative	verb	ni + √sad
 2192	6281	gopitva	gopitvā	गोपित्वा	\N	護	having protected	Gerund	verb4	√gup
 2193	6281	gopsyati	gopsyati	गोप्स्यति	\N	護	will protect	Future	verb4	√gup
 2194	707	cintayitva	cintayitvā	चिन्तयित्वा	\N	想	having thought	Gerund	verb10	√cint
@@ -2263,7 +2263,7 @@
 2263	3894	buddhva	buddhvā	बुद्ध्वा	\N	覺	having known	Gerund	verb4	√budh
 2264	3894	bhotsyati	bhotsyati	भोत्स्यति	\N	覺	he will know	Future tense, third party, singular form	verb4	√budh
 2265	3894	bhotsyate	bhotsyate	भोत्स्यते	\N	覺	he will know	Future tense, third party, singular form	verb4	√budh
-2266	412	bhas	bhāṣ	भाष्	\N	說、言	to speak , talk , say , tell	Root form, with accusive of a thing or person	verb1	√bhāṣ
+2266	412	bhas	bhāṣ	भाष्	\N	說、言	to speak , talk , say , tell	Root form, with Accusative of a thing or person	verb1	√bhāṣ
 2267	412	bhasisyate	bhāṣiṣyate	भाषिष्यते	\N	說、言	to speak , talk , say , tell	Future tense, third party, singular form	verb1	√bhāṣ
 2268	707	mamsyate	maṃsyate	मंस्यते	\N	想、思	will think	Future tense, third party, singular form	verb	√man
 2269	3858	yavat	yāvat	यावत्	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	\N	indeclinable	yāvat
@@ -2271,7 +2271,7 @@
 2271	3925	asrausit	aśrauṣīt	अश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	√śru
 2272	3925	pratyasrausit	pratyaśrauṣīt	प्रत्यश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	prati + √śru
 2273	1511	yavat	yāvat	यावत्	\N	甚至	as great , as large , as much , as many , as often , as frequent , as far , as long , as old	mf(atī)n	adjective	yāvat
-2274	1511	yavan	yāvān	यावान्	\N	甚至	as great , as large , as much , as many , as often , as frequent , as far , as long , as old	Nominative and accusive case	adjective	yāvat
+2274	1511	yavan	yāvān	यावान्	\N	甚至	as great , as large , as much , as many , as often , as frequent , as far , as long , as old	Nominative and Accusative case	adjective	yāvat
 2275	2074	vaktavya	vaktavya	वक्तव्य	\N	話	to be (or being) spoken or said or uttered or declared , fit to be said or spoken	mf(ā)n	adjective	vaktavya
 2276	2074	vaktavyo	vaktavyo	वक्तव्यो	\N	話	to be (or being) spoken or said or uttered or declared , fit to be said or spoken	Nominative with visarga sandhi	adjective	vaktavya
 2277	3382	dis	diś	दिश्	\N	方	quarter or region pointed at , direction , cardinal point	Stem form	feminine	diś
@@ -2342,7 +2342,7 @@
 2342	7153	ratri	rātri	रात्रि	\N	闇	night , the darkness or stillness of night	Stem form	feminine	rātri
 2343	7153	ratrau	rātrau	रात्रौ	\N	闇	night , the darkness or stillness of night	Locative case, singular form	feminine	rātri
 2344	17908	anena	anena	अनेन	\N	是	this	Instrumental case, singular form	pronoun	ayam
-2345	401	bahuni	bahūni	बहूनि	\N	多	many	Nominative and accusive case	adjective	bahu
+2345	401	bahuni	bahūni	बहूनि	\N	多	many	Nominative and Accusative case	adjective	bahu
 2346	17908	ayam	ayaṃ	अयं	\N	是	this	With anusvara sandhi	pronoun	ayam
 2347	15122	cakṣ	cakṣ	चक्ष्	\N	見	to appear , become visible , to see , look at , observe , notice	Root form	verb2	√cakṣ
 2348	15122	caste	caṣṭe	चष्टे	\N	見	see	Present tense, third person, singular form of the middle voice	verb2	√cakṣ
@@ -2367,7 +2367,7 @@
 2367	412	bhasyamane	bhāṣyamāṇe	भाष्यमाणे	\N	說、言	to speak , talk , say , tell	Present Passive Participle, locative case, singular form	verb1	√bhāṣ
 2368	7979	pratitisthet	pratitiṣṭhet	प्रतितिष्ठेत्	\N	站、停止、停、停住	he stands , he halts , he remains	Optative, accusative, singular form	verb1	prati + √sthā
 2369	2679	ksip	kṣip	क्षिप्	\N	投	to throw , cast , send , despatch	Root form	verb6	√kṣip
-2370	2679	pratiksipet	pratikṣipet	प्रतिक्षिपेत्	\N	投	throw	Optative, accusive, singular form	verb6	prati + √kṣip
+2370	2679	pratiksipet	pratikṣipet	प्रतिक्षिपेत्	\N	投	throw	Optative, Accusative, singular form	verb6	prati + √kṣip
 2371	6903	sumeravah	sumeravaḥ	सुमेरवः	\N	須彌山	Mount Sumeru , Mount Meru	Nominative case, plural form	masculine	sumeru
 2372	28787	samyaksaṃbodhau	samyaksaṃbodhau	सम्यक्संबोधौ	\N	正等覺	complete enlightenment	Locative case	feminine	samyak + sambodhi
 2373	412	abhasata	abhāṣata	अभाषत	\N	說、言	he says	Imperfect, middle form	verb1	√bhāṣ
@@ -2448,3 +2448,11 @@
 2448	671	kara	kara	कर	\N	者	a doer , maker , causer , doing , making , causing , producing	mf(ī , rarely ā)n	adjective	kara
 2449	9318	aha	āha	आह	\N	嗯	an interjection	\N	indeclinable	āha
 2450	807	sampat	sampat	सम्पत्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	Nominative case, singular form	feminine	sampad
+2451	9318	cid	cid	चिद्	\N	嗯	even , indeed , also	Often merely laying stress on a preceding word requiring a preceding simple verb to be accentuated as well as a verb following, if cid is preceded by an interrogative pronoun; in Classical Sanskrit only used after interrogative pronouns and adverbs to render them indefinite.	indeclinable	cid
+2452	370	agata	āgata	आगत	\N	來	come , arrived	mfn	adjective	ā + gata
+2453	6576	gata	gata	गत	\N	逝	gone , gone away , departed , departed from the world , deceased , dead	mfn	adjective	gata
+2454	5036	an	an	अन्	\N	活	to breathe , respire , gasp  ; to live	Root form	verb2	√an
+2455	31047	adhvan	adhvan	अध्वन्	\N	時	time	Buddhism and Jainism	noun	adhvan
+2456	6691	vartamana	vartamāna	वर्तमान	\N	今	presence , the present time	Stem form	neuter	vartamāna
+2457	6691	vartamane	vartamāne	वर्तमाने	\N	今	presence , the present time	Locative case	neuter	vartamāna
+2458	412	bhasyamanesu	bhāṣyamāṇeṣu	भाष्यमाणेषु	\N	說、言、章句	say	Present passive participle, locative case	verb1	√bhāṣ
