@@ -64,7 +64,7 @@
 64	18535	preta	preta	प्रेत	peta	餓鬼	hungry ghost	\N	noun	\N
 65	26515	garuda	garuḍa	गरुड	garuḷa	迦楼罗、金翅鳥、揭路荼	garuda	\N	noun	\N
 66	27046	tusita	tuṣita	तुषित	tusita	兜率、兜率天	Tusita	\N	proper_noun	\N
-67	11841	prajna	prajñā	प्रज्ञा	paññā	般若	wisdom , prajna	\N	noun	\N
+67	11841	prajna	prajñā	प्रज्ञा	paññā	般若	wisdom , intelligence , knowledge , discrimination , judgement	Stem form with prefix	feminine	pra + jñā
 68	28012	klesa	kleśa	क्लेश	kilesa	煩惱	klesha	\N	noun	\N
 69	28013	raga	rāga	राग	lobha	貪欲	attachment , passion , desire	\N	noun	\N
 70	17987	trivisa	triviṣa	त्रिविष	\N	三毒	the Three Poisons	Ignorance (avidyā), attachment (rāga), and aversion (dveṣa)	phrase	\N
@@ -349,7 +349,7 @@
 349	28417	srivijayarajavamsah	śrīvijayarājavaṃśaḥ	श्रीविजयराजवंशः	\N	三佛齊	Srivijaya	An ancient kingdom in present day Indonesia	proper_noun	\N
 350	4757	sri	śrī	श्री	\N	倖	fortunate , prosperous , happy	\N	noun	\N
 351	340	vijaya	vijaya	विजय	\N	勝利	victorious , excellence	\N	noun	\N
-352	28422	bhagavan	bhagavān	भगवान्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
+352	28422	bhagavan	bhagavān	भगवान्	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Literally, Blessed One, often used to refer to the Buddha. In translations from the Chinese the term World Honored One is frequently used.	masculine	bhagavat
 353	28423	canakya	cāṇakya	चाणक्य	\N	考底利耶	Chanakya	Circa 370–283 BCE, teacher of the first Maurya Emperor	proper_noun	\N
 354	23091	candragupta maurya mahana	candragupta maurya mahāna	चन्द्रगुप्त मौर्य महान	\N	旃陀羅笈多	Chandragupta Maurya , Chandragupta	C. 340－298 BCE, founded of the Maurya Empire	proper_noun	\N
 355	23093	maurya samrajyam	maurya sāmrājyam	मौर्य साम्राज्यम्	\N	孔雀王朝	Maurya Dynasty	\N	proper_noun	\N
@@ -437,7 +437,7 @@
 437	2556	nrt	nṛt	नृत्यति	\N	舞、跳舞	to dance	\N	verb4	\N
 438	15293	mad	mad	मद्	\N	開心	to rejoice	Root form	verb4	√mad
 439	15293	madyati	mādyati	माद्यति	\N	開心	he rejoices	\N	verb4_3rd	√mad
-440	335	is	iṣ	इष्	\N	要、想、想要	to want , to wish	\N	verb6	√iṣ
+440	335	is	iṣ	इष्	\N	要、想、想要	to seek , search ; to cause to move quickly , let fly , throw , cast , swing ; to endeavour to obtain , strive , seek for , to want , to wish	Root form of class 1, 4, and 6 verb	verb	√iṣ
 441	335	icchati	icchati	इच्छति	\N	要、想、想要	he wants , he wishes	Third person, singular form	verb6_3rd	√iṣ
 442	28564	trividya	trividyā	त्रिविद्या	tivijjā	三明	the Three Insights	(1) impermanence, (2) suffering, and (3) non-self	phrase	\N
 443	28568	kailasa	kailāsa	कैलास	\N	岡仁波齊峰	Mount Kailash	\N	proper_noun	\N
@@ -690,8 +690,8 @@
 690	29712	saddharma	saddharma	सद्धर्म	\N	正法	The Age of the Right Dharma	The first of the Three Ages of the Dharma, which is the period not long after the Buddha has passed into Nirvana and his disciples are properly able to uphold his teachings	proper_noun	\N
 691	8987	pratirupaka	pratirūpaka	प्रतिरूपक	\N	像	appearance , image , portrait	\N	noun	\N
 692	29713	saddharmapratirupaka	saddharmapratirūpaka	सद्धर्मप्रतिरूपक	\N	像法	The Period of Semblance Dharma	\N	compound	\N
-693	568	vipralopa	vipralopa	विप्रलोप	\N	滅、末	destruction , annihilation , extinction	Stem form	masculine	vipralopa
-694	21824	saddharmavipralopa	saddharmavipralopa	सद्धर्मविप्रलोप	\N	末法	The Period of Declining of Dharma	\N	compound	saddharma + vipralopa
+693	568	vipralopa	vipralopa	विप्रलोप	\N	滅、末	destruction , annihilation , extinction	Stem form	masculine	vi + pralopa
+694	21824	saddharmavipralopa	saddharmavipralopa	सद्धर्मविप्रलोप	\N	末法	The Period of Declining Dharma	\N	compound	saddharma + vi + pralopa
 695	5049	pancaskandha	pañcaskandha	पञ्चस्कन्ध	pañca khandhā	五蘊	the five aggregates , five skandhas , five dharmas	\N	compound	pañca + skandha
 696	29718	alayavijnana	ālayavijñāna	आलयविज्ञान	\N	阿賴耶識	Alaya Consciousness , Store-house Consciousness	One of the eight kinds of conciousness	proper_noun	\N
 697	5438	alaya	ālaya	आलय	\N	屋、房、家	home , house , abode ,  dwelling , place	\N	masculine	\N
@@ -2456,3 +2456,12 @@
 2456	6691	vartamana	vartamāna	वर्तमान	\N	今	presence , the present time	Stem form	neuter	vartamāna
 2457	6691	vartamane	vartamāne	वर्तमाने	\N	今	presence , the present time	Locative case	neuter	vartamāna
 2458	412	bhasyamanesu	bhāṣyamāṇeṣu	भाष्यमाणेषु	\N	說、言、章句	say	Present passive participle, locative case	verb1	√bhāṣ
+2459	30580	utpada	utpāda	उत्पाद	\N	生	coming forth , birth , production	Stem form	masculine	utpāda
+2460	335	isyanti	iṣyanti	इष्यन्ति	\N	要、想、想要	seeking , wishing	Present passive participle, nominative and accusative case	verb	√iṣ
+2461	21824	saddharmavipralope	saddharmavipralope	सद्धर्मविप्रलोपे	\N	末法	in the Period of Declining Dharma	Locative case	compound	saddharma + vi + pralopa
+2462	5549	anta	anta	अन्त	\N	末	end , limit , boundary , term	Stem form	masculine	anta
+2463	332	antar	antar	अन्तर्	\N	中	within , between , amongst , in the middle or interior	As a preposition with a locative: in the middle , in , between , into	indeclinable	antar
+2464	401	naika	naika	नैक	\N	多	not one , more than one , various , manifold , numerous , many	mf(ā)n	adjective	naika
+2465	7941	ropita	ropita	रोपित	\N	種	caused to grow , raised , elevated	mfn	adjective	ropita
+2466	28812	mula	mūla	मूल	\N	根	a root	mfn	neuter	mūla
+2467	28812	prasada	prasāda	प्रसाद	\N	根	clearness , brightness , pellucidness , purity	Stem form	masculine	prasāda
