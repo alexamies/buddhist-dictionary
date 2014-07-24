@@ -455,7 +455,7 @@
 455	28572	bhagavad gita	bhagavad gītā	भगवद् गीता	\N	薄伽梵歌	Bhagavad Gita	A 700-verse Hindu scripture, part of the Mahabharata	proper_noun	\N
 456	28574	manusmrti	manusmṛti	मनुस्मृति	\N	摩奴法論	Manusmrti , Manusmriti , Manusmruti , Manava-Dharmasastra	The most important work of the Dharmasastra textual tradition of Hinduism	proper_noun	\N
 457	28602	brahmagupta	brahmagupta	ब्रह्मगुप्त	\N	婆羅摩笈多	Brahmagupta	598–668 CE, Indian mathematician and astronomer	proper_noun	\N
-458	28659	asamkhyeya	asaṃkhyeya	असंख्येय	\N	阿僧祇、阿僧企耶	asamkhyeya , ten to the power one hundred and forty	10<sup>140<,sup>, listed in the Avatamsaka Sutra	noun	\N
+458	28659	asamkhyeya	asaṃkhyeya	असंख्येय	\N	阿僧祇、阿僧企耶	asamkhyeya , ten to the power one hundred and forty	10**140, listed in the Avatamsaka Sutra	compound	a + pra + √mā
 459	28666	advaita vedanta	advaita vedānta	अद्वैत वेदान्त	\N	不二論	Advaita Vedanta	An important sub-school of the Vedanta school of Hindu philosophy	proper_noun	\N
 460	28667	vedanta	vedānta	वेदान्त	\N	吠檀多	Vedanta	a Hindu philosophy tradition	proper_noun	\N
 461	18697	karandavyuha sutra	kāraṇḍavyūha sūtra	कारण्ढव्यूह सूत्र	\N	佛說大乘莊嚴寶王經	The Mahayana Sublime Treasure King Sutra , Karandavyuha Sutra	Notable for introducing the mantra Om mani padme hum	proper_noun	\N
@@ -2045,7 +2045,7 @@
 2045	343	agacchat	agacchat	अगच्छत्	\N	去	he went	Imperfect, third person, singular	verb	a + √gam
 2046	3399	avadat	avadat	अवदत्	\N	云	he spoke	Imperfect	verb	a + √vad
 2047	1290	adadhat	adadhat	अदधत्	\N	放	he put	Imperfect	verb	a + √dha
-2048	1978	pratilabhate	pratilabhate	प्रतिलभते	\N	受	to receive back , recover	Imperfect	verb	prati + √labh
+2048	1978	pratilabhate	pratilabhate	प्रतिलभते	\N	受	to receive back , recover , gain	Imperfect	verb	prati + √labh
 2049	20811	pratigraha	pratigraha	प्रतिग्रह	\N	受事者	receiver	\N	masculine	prati + graha
 2050	1260	pratipattavyaṃ	pratipattavyaṃ	प्रतिपत्तव्यं	\N	行	walking , conduct , practice , behavior	Gerundive, accusative case, ending modified for sandhi	neuter	prati + pad
 2051	1260	pratipattavya	pratipattavya	प्रतिपत्तव्य	\N	行	walking , conduct , practice , behavior	Gerundive, accusative case	neuter	prati + pad
@@ -2382,7 +2382,7 @@
 2382	28116	aryavajracchedika	āryavajracchedikā	आर्यवज्रच्छेदिका	\N	金剛般若波羅蜜多經	Prajnaparamita Diamond Sutra	Literally, the Noble Diamond Cutter	proper_noun	ārya + vajra + cchedikā
 2383	32703	anutpattika	anutpattika	अनुत्पत्तिक	\N	無生	birthless / non-arising	\N	adjective	anutpattika
 2384	32703	anutpattikesu	anutpattikeṣu	अनुत्पत्तिकेषु	\N	無生	birthless / non-arising	Locative case, plural form	adjective	anutpattika
-2385	30568	su	sū	सू	\N	生	to set in motion , urge , impel , vivify , create , produce	Rootform	verb6	√sū
+2385	30568	su	sū	सू	\N	生	to set in motion , urge , impel , vivify , create , produce	Root form	verb6	√sū
 2386	30568	prasavet	prasavet	प्रसवेत्	\N	生	producing	Optative, third person, accusative, singular form	verb6	pra + √sū
 2387	876	prama	pramā	प्रमा	\N	量	to measure , mete out , estimate	\N	verb3	pra + √mā
 2388	20347	apramayan	aprameyan	अप्रमेयन्	\N	無量	immeasurable	A negating compound	compound	a + pra + √mā
@@ -2403,7 +2403,7 @@
 2403	3059	pari	pari	परि	\N	滿	fully , abundantly , richly	\N	indeclinable	pari
 2404	972	ind	ind	इन्द्	\N	力	to be powerful	Root form	verb1	√ind
 2405	972	parinditah	parīnditāḥ	परीन्दिताः	\N	力	to be powerful	Past passive participle, nominative and accusative case	verb1	pari + √ind
-2406	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	to control	Future passive participle, nominative and accusative case	verb	pra + √grah
+2406	21819	pragrahītavyam	pragrahītavyam	प्रग्रहीतव्यम्	\N	降伏	control	Future passive participle, nominative and accusative case	verb	pra + √grah
 2407	412	bhasisye	bhāṣiṣye	भाषिष्ये	\N	說、言	I will say , tell	Future tense, first person	verb1	√bhāṣ
 2408	6643	ayusya 	āyuṣya	आयुष्य	\N	長老	life-possessing, elder (honorific title)	\N	masculine	āyuṣya
 2409	275	samprasthitena 	saṃprasthitena	संप्रस्थितेन	\N	出	to set out	Past participle, instrumental case	masculine	saṃ + pra + √sthā
@@ -2465,3 +2465,7 @@
 2465	7941	ropita	ropita	रोपित	\N	種	caused to grow , raised , elevated	mfn	adjective	ropita
 2466	28812	mula	mūla	मूल	\N	根	a root	mfn	neuter	mūla
 2467	28812	prasada	prasāda	प्रसाद	\N	根	clearness , brightness , pellucidness , purity	Stem form	masculine	prasāda
+2468	1978	pratilapsyante	pratilapsyante	प्रतिलप्स्यन्ते	\N	受	will gain an acceptance	Future, middle, plural	verb	prati + √labh
+2469	30568	prasavisyanti	prasaviṣyanti	प्रसविष्यन्ति	\N	生	generate, enliven, impel	Future, active, plural form	verb6	pra + √sū
+2470	21819	pratigrahisyanti	pratigrahīṣyanti	प्रतिग्रहीष्यन्ति	\N	降伏	control	Future active plural	verb	pra + √grah
+2471	28121	udgrahitavyo	udgrahītavyo	उद्ग्रहीतव्यो	\N	取	grasping , seizing	With prefix and sandhi	adjective	ud + √grāh
