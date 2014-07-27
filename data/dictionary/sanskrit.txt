@@ -741,7 +741,7 @@
 741	29841	purvavideha	pūrvavideha	पूर्वविदेह	\N	東勝身州	Purvavideha	Literally, the country of the eastern videhas; the easternmost of the Four Great Continents	masculine	\N
 742	29843	jambu	jambu	जम्बु	\N	閻浮樹	jampu , jambul	A kind of blackberry	noun	\N
 743	29842	aparagodana	aparagodāna	अपरगोदान	\N	西牛貨洲	Aparagodana , Aparagodaniya	Literally, the country west of the Mount Sumeru	proper_noun	\N
-744	1803	apara	aparā	अपरा	\N	西	west	\N	feminine	\N
+744	1803	apara	aparā	अपरा	\N	西	west	\N	feminine	aparā
 745	2614	godhana	godhana	गोधन	\N	牛	a herd of cows	\N	noun	\N
 746	29844	uttarakuru	uttarakuru	उत्तरकुरु	\N	北俱盧洲	Uttarakuru	Literally, the northern country of the kuru people; the northernmost of the Four Great Continents	noun	\N
 747	1804	uttara	uttarā	उत्तरा	\N	北	upper , higher , superior	mfn	adjective	uttarā
@@ -1083,7 +1083,7 @@
 1083	32832	jivasamjna	jīvasaṃjñā	जीवसंज्ञा	\N	壽者相	the notion of a lifespan	One of the four notions (四相). The mistaken notion that one will live forever.	phrase	\N
 1084	32833	dharmasamjna	dharmasaṃjñā	धर्मसंज्ञा	\N	法相	the essential nature of different phenomena	\N	phrase	\N
 1085	6722	arya	ārya	आर्य	\N	賢	noble	\N	adjective	\N
-1086	32839	aryapudgala	āryapudgala	आर्यपुद्गल	\N	賢聖	noble one	A compound of the two words ārya and pudgala	adjective	\N
+1086	32839	aryapudgala	āryapudgala	आर्यपुद्गल	\N	賢聖	noble one	\N	compound	ārya + pudgala
 1087	5284	bahutara	bahutara	बहुतर	\N	勝	surpassing , greater , exceeding	Stem form	adjective	bahutara
 1088	1459	prapta	prāpta	प्राप्त	\N	得	obtained , attained , acquired	\N	adjective	\N
 1089	533	srotas	srotas	स्रोतस्	\N	流	a stream	\N	neuter	\N
@@ -2266,7 +2266,7 @@
 2266	412	bhas	bhāṣ	भाष्	\N	說、言	to speak , talk , say , tell	Root form, with Accusative of a thing or person	verb1	√bhāṣ
 2267	412	bhasisyate	bhāṣiṣyate	भाषिष्यते	\N	說、言	to speak , talk , say , tell	Future tense, third party, singular form	verb1	√bhāṣ
 2268	707	mamsyate	maṃsyate	मंस्यते	\N	想、思	will think	Future tense, third party, singular form	verb	√man
-2269	3858	yavat	yāvat	यावत्	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	\N	indeclinable	yāvat
+2269	3858	yavat	yāvat	यावत्	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	mf(atī)n	adjective	yāvat
 2270	3670	susthu	suṣṭhu	सुष्ठु	\N	善	aptly , fitly , duly , well , excellently , exceedingly	\N	indeclinable	suṣṭhu
 2271	3925	asrausit	aśrauṣīt	अश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	√śru
 2272	3925	pratyasrausit	pratyaśrauṣīt	प्रत्यश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	prati + √śru
@@ -2477,3 +2477,9 @@
 2477	4054	prahatavya	prahātavya	प्रहातव्य	\N	捨	abandon	Future passive participle	verb3	pra + √hā
 2478	4054	prahatavyah	prahātavyāḥ	प्रहातव्य	\N	捨	abandon	Future passive participle, nominative case	verb3	pra + √hā
 2479	6721	pras	prāś	प्राश्	\N	何況	asking , inquiring , a questioner	Related to √prach	masculine	prāś
+2480	1149	apara	apara	अपर	\N	後	posterior , later , latter , west	mf(ā)n	adjective	apara
+2481	31554	punarapara	punarapara	पुनरपर	\N	復次	once again	\N	compound	punar + apara
+2482	31554	punaraparam	punaraparaṃ	पुनरपर	\N	復次	once again	Accusative case	compound	punar + apara
+2483	3174	sambodhi	saṃbodhi	संबोधि	bodhi	菩提	perfect enlightenment	\N	feminine	sam + bodhi
+2484	3858	yavantah	yāvantaḥ	यावन्तः	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	Nominative case	adjective	yāvat
+2485	3513	lap	lap	लप्	\N	言	to prate , chatter , talk	Root form	verb1	√lap
