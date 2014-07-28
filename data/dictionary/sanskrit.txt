@@ -923,7 +923,7 @@
 923	32156	sasrava	sāsrava	सास्रव	\N	有漏	having flow	Defiles, bringing renewal of existence	adjective	sāsrava
 924	32157	cintana	cintana	चिन्तन	\N	思惟	thought , thinking	\N	neuter	\N
 925	32157	samkalpa	saṃkalpa	संकल्प	sankappa	思惟、誌	intention	\N	masculine	\N
-926	11506	samyak	samyak	सम्यक्	sammā	正	precise , exact , accurate	\N	adjective	\N
+926	11506	samyak	samyak	सम्यक्	sammā	正	precise , exact , accurate	mfn	adjective	samyak
 927	5965	vac	vāc	वाच्	vaca	語	word , language , speech	Stem form	feminine	vāc
 928	17979	karmanta	karmānta	कर्मान्त	kammanta	業	actions	\N	masculine	\N
 929	17981	ajiva	ājīva	आजीव	ājīva	命	livelihood	\N	masculine	\N
@@ -1149,12 +1149,12 @@
 1149	3941	danam	dānaṃ	दानं	\N	布施、檀那、施	dana , the practice of giving	Word ending modified for the Accusative case	noun	\N
 1150	7135	punyaskandham	puṇyaskandhaṃ	पुण्यस्कन्धं	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. (Conze 1958, p36). Accusative case, singular form.	compound	puṇya + skandha
 1151	6686	tathagato	tathāgato	तथागतो	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for Sanskrit grammar	masculine	tathāgata
-1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
+1152	32438	kulaputro	kulaputro	कुलपुत्रो	\N	善男子	a good man , a son of a noble family	Nominative case with visarga sandhi applied	compound	kula + putra
 1153	21078	sattvanam	sattvānāṃ	सत्त्वानां	\N	有情	belonging to beings	Genitive case, plural form	masculine	sattva
 1154	28804	puruso	puruṣo	पुरुषो	\N	丈夫	a man , a great man	Normally written as puruṣa but the word ending is modified here for Sanskrit grammar	noun	\N
-1155	3166	bodhisattvo	bodhisattvo	बोधिसत्त्वो	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
+1155	3166	bodhisattvo	bodhisattvo	बोधिसत्त्वो	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here with visarga sandhi applied	noun	\N
 1156	3166	bodhisattva	bodhisattvā	बोधिसत्त्वा	\N	菩薩	bodhisattva	Normally written as bodhisattva but the word ending is modified here for sandhi	noun	\N
-1157	17994	dharmo	dharmo	धर्मो	dhamma	法	dharma ,  natural law	Normally written as dhárma but the word ending is modified here for sandhi	masculine	\N
+1157	17994	dharmo	dharmo	धर्मो	dhamma	法	dharma ,  natural law	Normally written as dhárma but the word ending is modified here with visarga sandhi applied	masculine	\N
 1158	28088	anuttara	anuttarā	अनुत्तरा	\N	阿耨多羅	unsurpassed , supreme	Feminine form of the adjective	adjective	anuttara
 1159	17993	cittam	cittaṃ	चित्तं	\N	心	mind	Nominative and Accusative case, singular form	neuter	citta
 1160	21078	sattvah	sattvāḥ	सत्त्वाः	\N	有情	a being , a creature	Nominative case, plural form	masculine	sattva
@@ -1168,7 +1168,7 @@
 1168	31047	atha	atha	अथ	\N	時	now , then	An auspicious and inceptive particle	indeclinable	atha
 1169	7135	punyaskandhah	puṇyaskandhaḥ	पुण्यस्कन्धः	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Translated as a <i>heap of merit<,i> by Conze. Nominative case, singular form.	masculine	puṇyaskandha
 1170	18692	buddhadharma	buddhadharmā	बुद्धधर्मा	\N	妙法、薩達摩、佛法	the Dharma , the teachings of the Buddha	\N	proper_noun	\N
-1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Literally, Blessed One. Modified for Sandhi.	masculine	bhagavat
+1171	28422	bhagavato	bhagavato	भगवतो	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵	Bhagavat , Bhagavan , Bhagwan , Bhagawan	Literally, Blessed One. Modified with visarga sandhi applied.	masculine	bhagavat
 1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	tathāgata
 1173	4250	sukaram	sukaraṃ	सुकरं	\N	易	easy	Normally written as sukara but the word ending is modified here for Sanskrit grammar	adjective	\N
 1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
@@ -1322,7 +1322,7 @@
 1322	5043	prajnaparamitaya	prajñāpāramitāyā	प्रज्ञापारमिताया	\N	般若波羅蜜多	Prajnaparamita , Perfection of wisdom	Dative case, singular form	masculine	prajñāpāramitā
 1323	21078	sattvaih	sattvaiḥ	सत्त्वैः	\N	有情	beings	Instrumental case, plural form	noun	sattva
 1324	35029	asamjna	asaṃjñā	असंज्ञा	\N	無想	no notion , without thought	A negating compound	feminine	a + saṃjñā
-1325	6900	dīpaṃkarastathāgato	dīpaṃkarastathāgato	दीपंकरस्तथागतो	\N	然燈佛、然燈	Dipankara Buddha	Word ending modified for Sandhi	proper_noun	\N
+1325	6900	dīpaṃkarastathāgato	dīpaṃkarastathāgato	दीपंकरस्तथागतो	\N	然燈佛、然燈	Dipankara Buddha	Word ending modified with visarga sandhi applied	proper_noun	\N
 1326	3174	bodhim	bodhiṃ	बोधिं	bodhi	菩提	enlightenment	Accusative case, singular form	feminine	bodhi
 1327	32438	kulaputrena	kulaputreṇa	कुलपुत्रेण	\N	善男子	a good man , a son of a noble family	Instrumental case, singular form	masculine	kulaputra
 1328	399	janah	janāḥ	जनाः	\N	人	people	Nominative case, plural form	masculine	jana
@@ -1502,9 +1502,9 @@
 1502	1490	sarva	sarva	सर्व	\N	一切	each , every , all	Stem form	adjective	sarva
 1503	1490	sarve	sarve	सर्वे	\N	一切	each , every , all	Locative case	adjective	sarva
 1504	299	kale	kāle	काले	\N	時間	time	Locative case, singular form	masculine	kāla
-1505	32460	desito	deśito	देशितो	\N	說	instructed , directed , shown	Nominal case deśitaḥ modified for sandhi	adjective	deśita
+1505	32460	desito	deśito	देशितो	\N	說	instructed , directed , shown	Nominal case deśitaḥ modified with visarga sandhi applied	adjective	deśita
 1506	401	bahuh	bahuḥ	बहु	\N	多	many	Nominative case	adjective	bahu
-1507	32987	atmabhavo	ātmabhāvo	आत्मभावो	\N	有人	personal existence	Nominative case, singular form ātmabhāvaḥ with ending modified for sandhi	masculine	ātmabhāva
+1507	32987	atmabhavo	ātmabhāvo	आत्मभावो	\N	有人	personal existence	Nominative case, singular form ātmabhāvaḥ with ending modified with visarga sandhi applied	masculine	ātmabhāva
 1508	33669	parama	parama	परम	\N	上	first , best , highest	Stem form	adjective	parama
 1509	394	paramena	parameṇa	परमेण	\N	第一	first , best , highest	Instrumental case, singular form	adjective	parama
 1510	2388	divya	divya	दिव्य	\N	美	beautiful	Stem form	adjective	divya
@@ -1517,23 +1517,23 @@
 1517	399	manava	māṇava	माणव	\N	人	a human being , a man , a person	Stem form	masculine	māṇava
 1518	33142	sthatavya	sthātavya	स्थातव्य	\N	住	stand, dwell in , abide in , maintained	Stem form	adjective	sthātavya
 1519	33142	sthātavyam	sthātavyaṃ	स्थातव्यं	\N	住	stand, dwell in , abide in , maintained	Accusative case, singular form	adjective	sthātavya
-1520	3618	buddho	buddho	बुद्धो	\N	佛	Buddha , enlightened one	Word ending modified for sandhi	masculine	buddha
+1520	3618	buddho	buddho	बुद्धो	\N	佛	Buddha , enlightened one	Word ending modified with visarga sandhi applied	masculine	buddha
 1521	584	urdhva	ūrdhva	ऊर्ध्व	\N	上	upright , elevated	Stem form	adjective	ūrdhva
 1522	584	urdhvam	ūrdhvaṃ	ऊर्ध्वं	\N	上	upright , elevated	Accusative case, singular form	adjective	ūrdhva
-1523	32463	ucchedo	ucchedo	उच्छेदो	\N	斷	end , destruction , annihilation	Nominative case, singular form modified for sandhi	masculine	uccheda
+1523	32463	ucchedo	ucchedo	उच्छेदो	\N	斷	end , destruction , annihilation	Nominative case, singular form modified with visarga sandhi applied	masculine	uccheda
 1524	27609	sakya	śakyā	शक्या	\N	釋迦族	Sakya Clan , Shakya Clan	Nominative case, plural form with ending modified for sandhi	masculine	śākya
 1525	7205	namo	namo	नमो	namo	南無	homage , veneration	Especially used as an exclamation of adoration at the beginning of a book	neuter	nam
 1526	27320	ksantim	kṣāntiṃ	क्षान्तिं	\N	忍辱、羼提、忍	forbearance , tolerance	Accusative case, singular form	feminine	kṣānti
 1527	707	nidhyata	nidhyāta	निध्यात	\N	想	meditated on , thought on	Stem form	adjective	nidhyāta
 1528	707	nidhyatah	nidhyātaḥ	निध्यातः	\N	想	meditated on , thought on	Nominative case, singular form	adjective	nidhyāta
-1529	28914	bhavo	bhāvo	भावो	\N	有	becoming , state	Nominative case, singular form bhāvaḥ with word ending modified for sandhi	masculine	bhāva
+1529	28914	bhavo	bhāvo	भावो	\N	有	becoming , state	Nominative case, singular form bhāvaḥ with word ending modified with visarga sandhi applied	masculine	bhāva
 1530	3873	loka	loka	लोक	\N	世間	world , state	Stem form	masculine	loka
-1531	3873	loko	loko	लोको	\N	世間	world , state	Nominative case, singular form with word ending modified for sandhi	masculine	loka
+1531	3873	loko	loko	लोको	\N	世間	world , state	Nominative case, singular form with word ending modified with visarga sandhi applied	masculine	loka
 1532	1068	atita	atīta	अतीत	\N	過去	gone by , past	Stem form	adjective	atīta
 1533	1068	atitam	atītaṃ	अतीतं	\N	過去	gone by , past	Accusative case, singular form	adjective	atīta
-1534	2401	dipo	dīpo	दीपो	\N	燈	light , lantern , lamp	Nominative case, singular form with word ending modified for sandhi	masculine	dīpa
+1534	2401	dipo	dīpo	दीपो	\N	燈	light , lantern , lamp	Nominative case, singular form with word ending modified with visarga sandhi applied	masculine	dīpa
 1535	27609	sakyam	śakyaṃ	शक्यं	\N	釋迦族	Sakya Clan , Shakya Clan	Accusative case, singular form	masculine	śākya
-1536	32351	mahakayo	mahākāyo	महाकायः	\N	大身	great body	Nominative case, singular form mahākāyaḥ with word ending modified for sandhi	compound	mahākāya
+1536	32351	mahakayo	mahākāyo	महाकायः	\N	大身	great body	Nominative case, singular form mahākāyaḥ with word ending modified with visarga sandhi applied	compound	mahākāya
 1537	7119	sasta	śāsta	शास्त	\N	尊重	praised , esteemed , respected , honored	Stem form	adjective	śāsta
 1538	7119	sasta	śāstā	शास्ता	\N	尊重	praised , esteemed , respected , honored	Nominative case, singular form with word ending modified for sandhi	adjective	śāsta
 1539	7182	sama	samā	समः	\N	平等	equal , same	Nominative case, plural form samāḥ with word ending modified for sandhi	adjective	sama
@@ -1647,11 +1647,11 @@
 1647	2388	sundarah	sundaraḥ	सुन्दरः	\N	美	beautiful	Nominative case, singular form	adjective	sundara
 1648	2710	kascid	kaścid	कश्चिद्	\N	他人	someone , any	Stem form	noun	kaścid
 1649	2543	pustakani	pustakāni	पुस्तकानि	\N	書	books	Accusative  case, plural form	neuter	pustaka
-1650	3236	nrpo	nṛpo	नृपो	\N	王	a king	Nominative case, singular form nṛpaḥ with sandhi applied to word end	masculine	nṛpa
+1650	3236	nrpo	nṛpo	नृपो	\N	王	a king	Nominative case, singular form nṛpaḥ with visarga sandhi applied to word end	masculine	nṛpa
 1651	758	grham	gṛhaṃ	गृहं	\N	房	house	Nominative and accusative case, singular form with sandhi applied to word ending	neuter	gṛha
-1652	9698	viro	vīro	वीरो	\N	英雄、雄	hero	Nominative case, singular form vīraḥ with sandhi applied to word end	masculine	vīra
+1652	9698	viro	vīro	वीरो	\N	英雄、雄	hero	Nominative case, singular form vīraḥ with visarga sandhi applied to word end	masculine	vīra
 1653	890	gramam	grāmaṃ	ग्रामं	\N	村	a village	Accusative case, singular form with sandhi applied to word end	masculine	grāma
-1654	2388	sundaro	sundaro	सुन्दरो	\N	美	beautiful	Nominative case, singular form sundaraḥ with sandhi applied to ending	adjective	sundara
+1654	2388	sundaro	sundaro	सुन्दरो	\N	美	beautiful	Nominative case, singular form sundaraḥ with visarga sandhi applied to ending	adjective	sundara
 1655	7115	kasya	kasya	कस्य	\N	故	whose	Stem form	masculine	kasya
 1656	31047	tena	tena	तेन	\N	時	then , at that time	\N	indeclinable	tena
 1657	398	vidyate	vidyate	विद्यते	\N	有	there is , there exists	\N	verb	√vid
@@ -2003,12 +2003,12 @@
 2003	19634	madhyamakasastra	madhyamakaśāstra	मध्यमकशास्त्र	\N	中論	Fundamental Verses on the Middle Way	Treatise by Nagarjuna	proper_noun	\N
 2004	1003	naiva	naiva	नैव	\N	非	not and , neither	Negative compound formed from na + va	indeclinable	naiva
 2005	2808	svata	svatā	स्वता	\N	自	itself , ownership	Stem form	feminine	svatā
-2006	2808	svato	svato	स्वतो	\N	自	itself , ownership	Nominal and accusative form, modified for Sandhi	feminine	svatā
+2006	2808	svato	svato	स्वतो	\N	自	itself , ownership	Nominal and accusative form, modified for visarga sandhi	feminine	svatā
 2007	2808	svatah	svatāḥ	स्वताः	\N	自	itself , ownership	Nominal and accusative form	feminine	svatā
 2008	502	napi	nāpi	नापि	\N	不、非	not , no , nor , neither	Negative adverb	indeclinable	nāpi
 2009	35506	parata	paratā	परता	\N	異	highest degree , absoluteness	Stem form	feminine	paratā
 2010	35506	paratah	paratāḥ	परताः	\N	異	highest degree , absoluteness	Nominal and accusative form	feminine	paratā
-2011	35506	parato	parato	परतो	\N	異	highest degree , absoluteness	Nominal and accusative form, modified for Sandhi	feminine	paratā
+2011	35506	parato	parato	परतो	\N	異	highest degree , absoluteness	Nominal and accusative form, modified for visarga sandhi	feminine	paratā
 2012	890	grama	grāma	ग्राम	\N	村	a village	Stem form	masculine	grāma
 2013	6244	rati	rati	रति	\N	休息	rest , repose	Stem form	feminine	rati
 2014	829	ati	ati	अति	\N	過	passing , going beyond	A prefix	indeclinable	ati
@@ -2408,8 +2408,8 @@
 2408	6643	ayusya 	āyuṣya	आयुष्य	\N	長老	life-possessing, elder (honorific title)	\N	masculine	āyuṣya
 2409	275	samprasthitena 	saṃprasthitena	संप्रस्थितेन	\N	出	to set out	Past participle, instrumental case	masculine	saṃ + pra + √sthā
 2410	28121	samgraha	saṃgraha	संग्रह	\N	取	holding together , seizing , grasping , taking , reception , obtainment	\N	masculine	saṃ + graha
-2411	1049	samgrhita	saṃgṛhīta	संगृहीत	\N	所有	grasped , seized , caught , taken , received , collected , gathered	mfn	masculine	saṃ + gṛhīta
-2412	1049	samgrhita	saṃgṛhītā	संगृहीता	\N	所有	grasped , seized , caught , taken , received , collected , gathered	Nominative case, singular, feminine form	masculine	saṃ + gṛhīta
+2411	1459	samgrhita	saṃgṛhīta	संगृहीत	\N	得	grasped , seized , caught , taken , received , collected , gathered	mfn	adjective	saṃ + gṛh
+2412	1459	samgrhita	saṃgṛhītā	संगृहीता	\N	得	grasped , seized , caught , taken , received , collected , gathered	Nominative case, singular, feminine form	adjective	saṃ + gṛh
 2413	26533	aupapaduka	aupapāduka	अउपपादुक	\N	化生	 self-produced , born from transformation	mfn	adjective	upa + pāduka
 2414	26533	aupapaduka	aupapādukā	अउपपादुका	\N	化生	 self-produced , born from transformation	Feminine form	adjective	upa + pāduka
 2415	32114	arupino	arūpiṇo	अरूपिणो	\N	無色	formless	A negating compound, accusative plural. See Edgerton for an explanation of the declension	adjective	a + rūpa
@@ -2468,7 +2468,7 @@
 2468	1978	pratilapsyante	pratilapsyante	प्रतिलप्स्यन्ते	\N	受	will gain an acceptance	Future, middle, plural	verb	prati + √labh
 2469	30568	prasavisyanti	prasaviṣyanti	प्रसविष्यन्ति	\N	生	generate, enliven, impel	Future, active, plural form	verb6	pra + √sū
 2470	21819	pratigrahisyanti	pratigrahīṣyanti	प्रतिग्रहीष्यन्ति	\N	降伏	control	Future active plural	verb	pra + √grah
-2471	28121	udgrahitavyo	udgrahītavyo	उद्ग्रहीतव्यो	\N	取	grasping , seizing	With prefix and sandhi	adjective	ud + √grāh
+2471	28121	udgrahitavyo	udgrahītavyo	उद्ग्रहीतव्यो	\N	取	grasping , seizing	With prefix and visarga sandhi	adjective	ud + √grāh
 2472	8494	saṃdhāya	saṃdhāya	धाय	\N	具	having , possessing	mfn	adjective	sam + dhāya
 2473	5965	vag	vāg	वाग्	\N	語	word , language , speech	Same as vāc	feminine	vāc
 2474	6718	kola	kola	कोल	kulla	筏	boat , raft	From Edgerton	noun	kola
@@ -2483,3 +2483,13 @@
 2483	3174	sambodhi	saṃbodhi	संबोधि	bodhi	菩提	perfect enlightenment	\N	feminine	sam + bodhi
 2484	3858	yavantah	yāvantaḥ	यावन्तः	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	Nominative case	adjective	yāvat
 2485	3513	lap	lap	लप्	\N	言	to prate , chatter , talk	Root form	verb1	√lap
+2486	32818	samprakasayet	saṃprakāśayet	संप्रकाशयेत्	\N	演說、說	explain	Accusative case of optative conjugation, singular form with prefixes	verb1	sam + pra + √kāś
+2487	4605	kas	kāś	काश्	\N	現	to be visible , appear	Root form	verb1	√kāś
+2488	32818	samprakasayisyanti	saṃprakāśayiṣyanti	संप्रकाशयिष्यन्ति	\N	演說、說	explain	Accusative case of future tense conjugation, plural form with prefixes	verb1	sam + pra + √kāś
+2489	17908	imam	imam	इमम्	\N	是	this	A different form of idam	pronoun	idam
+2490	17908	imam	imaṃ	इमं	\N	是	this	A different form of idam, with anusvara sandhi applied	pronoun	idam
+2491	28787	samyaksambuddhebhyo	samyaksaṃbuddhebhyo	सम्यक्संबुद्धेभ्यो	\N	正等覺	complete enlightenment	Dative case with visarga sandhi	feminine	samyak + sambodhi
+2492	30568	prasu	prasū	प्रसू	\N	生	to procreate , beget , bring forth , obtain offspring or bear fruit , produce	Root form with prefix	verb6	pra + √sū
+2493	5074	antasas	antaśaś	अन्तशश्	\N	乃至	so much as	From Edgerton	adjective	antaśaś
+2494	7211	mud	mud	मुद्	\N	統	to mix , mingle , blend , unite	Root form	verb10	√mud
+2495	1459	grhya	gṛhya	गृह्य	\N	得	to be grasped or taken	mfn	adjective	gṛhya
