@@ -1929,9 +1929,9 @@
 1929	3046	viragitah	virāgitāḥ	विरागिताः	\N	惹	exasperated , irritated	Nominative case, plural form	adjective	virāgita
 1930	6649	janu	jānu	जानु	\N	膝	knee	Nominative case, plural form	neuter	jānu
 1931	6649	janu	jānu	जानु	\N	膝	knee	Nominative case, plural form	neuter	jānu
-1932	2042	para	para	पर	\N	另	other	mfn	adjective	para
-1933	2042	paratara	paratara	परतर	\N	另	other	superlative and comparative of para	adjective	paratara
-1934	2042	paratarena	paratareṇa	परतरेण	\N	另	other	Instrumental case, singular form	adjective	paratara
+1932	30477	para	para	पर	\N	他	other	mfn	adjective	para
+1933	30477	paratara	paratara	परतर	\N	他	other	superlative and comparative of para	adjective	paratara
+1934	30477	paratarena	paratareṇa	परतरेण	\N	他	other	Instrumental case, singular form	adjective	paratara
 1935	5284	paribhuta	paribhūta	परिभूत	\N	勝	overpowered , conquered , slighted , disregarded , despised	mfn	adjective	paribhūta
 1936	5284	paribhuta	paribhūtā	परिभूता	\N	勝	overpowered , conquered , slighted , disregarded , despised	Feminine form	adjective	paribhūta
 1937	2391	nisposa	niṣpoṣa	निष्पोष	\N	獨	not being nourished	mfn	adjective	niṣpoṣa
@@ -2280,7 +2280,7 @@
 2280	3641	ut	ut	उत्	\N	乎	a particle of doubt or deliberation	\N	indeclinable	ut
 2281	1459	grahitum	grahītum	ग्रहीतुम्	\N	得	to seize , take , grasp , lay hold of	Infinitive form of the class 9 verb	verb	√grah
 2282	1459	rai	rai	रै	\N	得	barking , sound , noise	Stem form	masculine	rai
-2283	2042	parebhyas	parebhyas	परेभ्यस्	\N	另	other	Ablative and dative forms	adjective	para
+2283	30477	parebhyas	parebhyas	परेभ्यस्	\N	他	other	Ablative and dative forms	adjective	para
 2284	775	dadati	dadāti	ददाति	\N	給	he gives	Present tense, third person, singular, masculine form	verb3	√dā
 2285	775	dattva	dattvā	दत्त्वा	\N	給	having given	Gerund	verb3	√dā
 2286	775	dasyati	dāsyati	दास्यति	\N	給	will give	Future tense, third person, singular, masculine form	verb3	√dā
@@ -2493,3 +2493,12 @@
 2493	5074	antasas	antaśaś	अन्तशश्	\N	乃至	so much as	From Edgerton	adjective	antaśaś
 2494	7211	mud	mud	मुद्	\N	統	to mix , mingle , blend , unite	Root form	verb10	√mud
 2495	1459	grhya	gṛhya	गृह्य	\N	得	to be grasped or taken	mfn	adjective	gṛhya
+2496	30477	parebhyo	parebhyo	परेभ्यो	\N	他	other	Ablative and dative forms with visarga sandhi	adjective	para
+2497	30568	prasunuyat	prasunuyāt	प्रसुनुयात्	\N	生	producing	Optative conjugation nuyāt of root √nu	compound	pra + √sū + √nu
+2498	31529	dis	diś	दिश्	\N	宣說	to point out , show , exhibit	Root form	verb3	√diś
+2499	31529	desayet	deśayet	देशयेत्	\N	宣說	point out , show , exhibit	Optative conjunction, accusative case	verb3	√diś
+2500	8680	nuyat	nuyāt	नुयात्	\N	讚	sound , shout , exult , praise , commend	Optative conjugation nuyāt of root √nu	verb2	√nu
+2501	8680	nu	nu	नु	\N	讚	to sound , shout , exult , praise , commend	Root form	verb2	√nu
+2502	1260	at	at	अत्	\N	行	to go constantly , walk , run	Root form	verb1	√at
+2503	3220	nirjata	nirjāta	निर्जात	nijjāya	生、出	produced , originating , born	From Edgerton, mfn	adjective	nir + jāta
+2504	3220	jata	jāta	जात	\N	生、出	born , brought into existence by	mfn	adjective	jāta
