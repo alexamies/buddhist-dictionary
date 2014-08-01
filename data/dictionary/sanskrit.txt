@@ -54,7 +54,7 @@
 54	5075	avidya	avidyā	अविद्या	avijjā	無明	ignorance , spiritual ignorance	Stem form	feminine	avidyā
 55	3892	trsna	tṛṣṇā	तृष्णा	taṇhā	貪	desire	Sometimes translated as 愛	noun	\N
 56	17971	catvari aryasatyani	catvāri āryasatyāni	चत्वारि आर्यसत्यानि	cattāri ariyasaccāni	四聖諦	Four Noble Truths	\N	phrase	\N
-57	17657	sunyata	śūnyatā	शून्यता	suñña	空	emptiness	\N	noun	\N
+57	17657	sunyata	śūnyatā	शून्यता	suñña	空	emptiness	Nominative case, singular form	feminine	śūnyá + tā
 58	3164	anatman	anātman	अनात्मन्	anattā	無我	selflessness , non-self	\N	noun	\N
 59	3865	duhkha	duḥkha	दुःख	duḥkha	苦	suffering	Stem form	neuter	duḥkha
 60	28010	skandha	skandha	स्कन्ध	khandha	蘊	aggregate	\N	noun	\N
@@ -887,7 +887,7 @@
 887	3875	mahabhuta	mahābhūta	महाभूत	\N	四大	the four elements	Literally, the great elemente	masculine	\N
 888	32114	arupa	arūpa	अरूप	\N	無色	formless	A negating compound, mf(ā)n	adjective	a + rūpa
 889	20546	animitta	animitta	अनिमित्त	\N	無相	signlessness , without an appearance	\N	adjective	\N
-890	24764	svabhava	svabhāva	 स्वभाव	sabhāva	自性	original nature , intrinsic nature , essential nature	the intrinsic or essential nature of a living being	masculine	\N
+890	24764	svabhava	svabhāva	 स्वभाव	sabhāva	自性	original nature , intrinsic nature , intrinsic existence , essential nature	the intrinsic or essential nature of a living being	masculine	\N
 891	32115	bandhana	bandhana	बन्धन	samyojana	結縛	a mental fetter or bond	\N	neuter	\N
 892	21775	pratigha	pratigha	प्रतिघ	paṭigha	恚	rage	A mental factor in Buddhism	masculine	\N
 893	32116	advesa	adveṣa	अद्वेष	adosa	無瞋	non-aggression , non-hatred , imperturbability	A mental factor in Buddhism	noun	\N
@@ -1172,19 +1172,19 @@
 1172	6686	tathagatah	tathāgataḥ	तथागतः	\N	如來	Tathagata	Normally written as Tathāgata but the word ending is modified here for the mominative case	proper_noun	tathāgata
 1173	4250	sukaram	sukaraṃ	सुकरं	\N	易	easy	Normally written as sukara but the word ending is modified here for Sanskrit grammar	adjective	\N
 1174	32438	kulaputra	kulaputrā	कुलपुत्रा	\N	善男子	a good man , a son of a noble family	Normally written as kulaputra but the word ending is modified here for Sanskrit grammar	compound	\N
-1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world , a region of the world	Normally written as lokadhātu but the word ending is modified here for the Accusative case	masculine	\N
-1176	3618	buddha	buddhā	बुद्धा	\N	佛	Buddha	Normally written as buddha but the word ending is modified here for Sandhi	proper_noun	\N
+1175	363	lokadhatum	lokadhātuṃ	लोकधातुं	\N	世界	a world , a region of the world	Accusative case with sandhi	masculine	\N
+1176	3618	buddha	buddhā	बुद्धा	\N	佛	Buddha	Normally written as buddha but the word ending is modified here for Sandhi	noun	buddha
 1177	8847	mahasattva	mahāsattvā	महासत्त्वा	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Normally written as mahāsattva but the word ending is modified here for sandhi	masculine	mahāsattva
 1178	363	lokadhatun	lokadhātūn	लोकधातून्	\N	世界	a world , a region of the world	Normally written as lokadhātu but the word ending is modified here for Sanskrit grammar	masculine	\N
 1179	412	bhasitam	bhāṣitam	भाषितम्	\N	說	said	Accusative case	adjective	bhāṣita
-1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
-1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	\N	须陀洹、入流	Sotapanna , Srotapanna , Stream-Enterer	\N	proper_noun	\N
-1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Non-standard, should be satyam	neuter	satya
+1180	27417	srotapanna	srotāpanna	स्रोतापन्न	\N	须陀洹、入流	Sotapanna , Srotaāpanna , Stream-Enterer	The first of the four stages of enlightenment	noun	srota + āpanna
+1181	27417	srotaapanna	srotaāpanna	स्रोतआपन्न	sotāpanna	须陀洹、入流	Sotapanna , Srotaāpanna , Stream-Enterer	 The first of the four stages of enlightenment	noun	srota + āpanna
+1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Accusative case with sandhi	neuter	satya
 1183	6645	subhūtih	subhūtiḥ	सुभूतिः	\N	須菩提	Subhuti	Nominative case	masculine	subhūti
-1184	28804	purusah	puruṣaḥ	पुरुष	\N	丈夫	a man , a great man	The final letter ḥ indicates the nominative case.	noun	\N
+1184	28804	purusah	puruṣaḥ	पुरुष	\N	丈夫	a man , a great man	Nominative case	masculine	puruṣa
 1185	6892	arhan	arhan	अर्हन्	arahant	阿羅漢、羅漢	Arhat	Common Sanskrit form is arhat	proper_noun	\N
-1186	6888	gathe	gāthe	गाथे	\N	偈	a verse , stanza	Common Sanskrit form is arhat, may be modified to this form for grammatical reasons	feminine	\N
-1187	17994	dharma	dharma	धर्म	dhamma	法	dharma ,  natural law	Common Sanskrit form is dhárma, may be modified to this form for grammatical reasons	masculine	\N
+1186	6888	gathe	gāthe	गाथे	\N	偈	a verse , stanza	\N	feminine	gātha
+1187	17994	dharma	dharma	धर्म	dhamma	法	dharma ,  natural law	\N	masculine	dharma
 1188	3167	sutram	sūtraṃ	सूत्रं	sutta	經、佛經、長行	sutra	Nominative and accusative cases, singular form	neuter	\N
 1189	17994	dharmah	dharmāḥ	धर्माः	\N	法	natural laws , phenomena	Nominative case, plural form	masculine	dhárma
 1190	21819	utpadayitavyam	utpādayitavyam	उत्पादयितव्यम्	\N	降伏	to subdue , to vanquish , to tame	\N	verb	\N
@@ -1204,7 +1204,7 @@
 1204	32362	sastra	śāstra	शास्त्र	\N	論	a treatise , a theory	Stem form	neuter	śāstra
 1205	33421	anubhava	anubhāva	अनुभाव	anubhāva	威神	Anubhava	A diety, whose name means majesty or splendor	proper_noun	\N
 1206	33562	gunabhadra	guṇabhadra	गुणभद्र	\N	求那跋陀羅	Gunabhadra	394 - 468, Indian monk	proper_noun	\N
-1207	33233	asamskrta	asaṃskṛta	असंस्कृत	\N	無為	unconditioned	Something that does not arise from causes and conditions	adjective	\N
+1207	33233	asamskrta	asaṃskṛta	असंस्कृत	\N	無為	unconditioned	A negative compound. Something that does not arise from causes and conditions	adjective	a + saṃskṛta
 1208	33893	asamskrtaprabhavita	asaṁskṛtaprabhāvitā	असṁस्कृतप्रभाविता	\N	無為法	an unconditioned dhárma , an an unconditioned thing	\N	noun	\N
 1209	3021	hetu	hetu	हेतु	\N	因	a cause	\N	masculine	\N
 1210	26967	trisāhasramahāsāhasralokadhātu	trisāhasramahāsāhasralokadhātu	त्रिसाहस्रमहासाहस्रलोकधातु	\N	三千大千世界	trichiliocosm	\N	proper_noun	\N
@@ -2502,3 +2502,8 @@
 2502	1260	at	at	अत्	\N	行	to go constantly , walk , run	Root form	verb1	√at
 2503	3220	nirjata	nirjāta	निर्जात	nijjāya	生、出	produced , originating , born	From Edgerton, mfn	adjective	nir + jāta
 2504	3220	jata	jāta	जात	\N	生、出	born , brought into existence by	mfn	adjective	jāta
+2505	33894	samskrta	saṃskṛta	संस्कृत	\N	有為	conditioned	Subject to causes and conditions	adjective	saṃskṛta
+2506	17657	sunya	śūnya	शून्य	\N	空	empty	mfn	adjective	śūnya
+2507	3896	cit	cit	चित्	\N	知	to perceive , fix the mind upon , attend to , be attentive , observe , take notice of	\N	verb1	√cit
+2508	32140	sprastavyan	spraṣṭavyān	स्प्रष्टव्यान्	\N	觸	touch , the sense of touch , feeling , sensation	\N	neuter	\N
+2509	509	saced	saced	सचेद्	\N	與	and	Used in place of ced	indeclinable	ced
