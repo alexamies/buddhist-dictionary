@@ -89,7 +89,7 @@
 89	6903	sumeru	sumeru	सुमेरु	sineru	須彌山	Mount Sumeru , Mount Meru	Stem form	masculine	sumeru
 90	27579	yojana	yojana	योजन	\N	由旬	yojana	\N	noun	\N
 91	25388	mandala	maṇḍala	मण्डल	\N	曼荼羅、壇城	a mandala , a circle	The Sanskrit word means circle but now the term is used to mean a particular type of Buddhist and Hindu art in the form of a circle	noun	\N
-92	6892	arhat	arhat	अर्हत	arahant	阿羅漢、羅漢	Arhat	\N	proper_noun	\N
+92	6892	arhat	arhat	अर्हत	arahant	阿羅漢、羅漢	Arhat	Stem form	masculine	arhat
 93	20320	amitabha	amitābha	अमिताभ	\N	阿彌陀、彌陀	Amitabha	\N	proper_noun	\N
 94	27484	yama	yama	यम	\N	夜摩、閻魔王、閻摩天	Yama	Lord of Death	proper_noun	\N
 95	27484	yamarāja	yamarāja	यम	\N	夜摩、閻魔王、閻摩天	Yama	This form includes the title lord or king	proper_noun	\N
@@ -359,7 +359,7 @@
 359	28427	vardhamana	vardhamāna	वर्धमान	\N	笩駄摩那	Vardhamana	An Indian sage, established the tenets of Jainism	proper_noun	\N
 360	26489	saranganada	saraṅganāda	सरङ्गनाद	\N	鹿野苑	Sarnath , Sarnatha , Deer Park , Mrigadava , Migadaya , Rishipattana , Isipatana	Located in Uttar Pradesh, the place where the Buddha first taught the Dharma	proper_noun	\N
 361	28430	varsah	varṣaḥ	वर्षः	\N	結夏安居	Vassa , Rains Retreat	The English term is borrowed from Pali	proper_noun	\N
-362	25294	vihara	vihāra	विहार	\N	精舍、僧院、毗訶羅窟	a vihara , a Buddhist monastery	\N	noun	\N
+362	25294	vihara	vihāra	विहार	\N	精舍、僧院、毗訶羅窟	a vihara , a Buddhist monastery	\N	masculine	vihāra
 363	3776	puja	pūjā	पूजा	\N	法會	Dharma service , puja	\N	noun	\N
 364	21831	mara	māra	मार	\N	魔羅、魔	Mara , the Devil	\N	proper_noun	\N
 365	28432	varanasi	vārāṇasī	वाराणसी	\N	瓦拉納西	Varanasi , Banaras , Benaras , Kashi	A holy city in Uttar Pradesh	proper_noun	\N
@@ -412,7 +412,7 @@
 412	2231	kim	kim	किम्	\N	如何	what	A pronoun used in questions	pronoun	\N
 413	2231	kim	kiṃ	किं	\N	如何	what	A pronoun used in questions	pronoun	\N
 414	28562	api	api	अपि	\N	是不是	is it or not	Used to ask a yes or no question	indeclinable	api
-415	3811	iti	iti	इति	\N	爾、如是	thus	A particle used to mark the end of a sentence or a smaller part, espcially a quotation.	indeclinable	iti
+415	3811	iti	iti	इति	\N	爾、如是	in this manner , thus	In quotations of every kind íti means that the preceding words are the very words which some person has or might have spoken, and placed thus at the end of a speech it serves the purpose of inverted commas.	indeclinable	iti
 416	776	anayati	ānayati	आनयति	\N	帶來、帶	he brings	Present tense, third person	verb1	ā + √nī
 417	343	gayati	gāyati	गायति	\N	去	he goes	\N	verb1	\N
 418	5284	jayati	jayati	जयति	\N	勝、勝利、贏、獲勝	he conquers	Third person, singular form of the active verb	verb1_3rd	√ji
@@ -1090,7 +1090,7 @@
 1090	11052	sam	saṃ	सं	\N	同	with , together with , along with , together , altogether	With anusvāra sandhi	indeclinable	sam
 1091	32851	vedanga	vedāṅga	वेदाङ्ग	\N	吠陀支	Vedanga	Six disciplines associated with the study of the Vedas	proper_noun	\N
 1092	32854	kalpa	kalpa	कल्प	\N	劫波、宗教儀軌	a ritual	One of the six disciplines associated with the study of the Vedas	masculine	\N
-1093	32853	vyakarana	vyākaraṇa	व्याकरण	\N	毗迦羅那、語法學	grammar	One of the six disciplines associated with the study of the Vedas	neuter	\N
+1093	32460	vyakarana	vyākaraṇa	व्याकरण	\N	說	explanation , detailed description	\N	neuter	vy + ākaraṇa
 1094	32856	nirukta	nirukta	निरुक्त	\N	尼禄多	etymology	One of the six disciplines associated with the study of the Vedas	neuter	\N
 1095	32859	chandas	chandas	छन्दस्	\N	闡陀、韻律學	 meter	One of the six disciplines associated with the study of the Vedas	neuter	\N
 1096	32860	jyotisa	jyotiṣa	ज्योतिष	\N	樹提	astrology	One of the six disciplines associated with the study of the Vedas	neuter	\N
@@ -1182,7 +1182,7 @@
 1182	5111	satyam	satyaṃ	सत्यं	\N	諦	truth	Accusative case with sandhi	neuter	satya
 1183	6645	subhūtih	subhūtiḥ	सुभूतिः	\N	須菩提	Subhuti	Nominative case	masculine	subhūti
 1184	28804	purusah	puruṣaḥ	पुरुष	\N	丈夫	a man , a great man	Nominative case	masculine	puruṣa
-1185	6892	arhan	arhan	अर्हन्	arahant	阿羅漢、羅漢	Arhat	Common Sanskrit form is arhat	proper_noun	\N
+1185	6892	arhan	arhan	अर्हन्	\N	阿羅漢、羅漢	Arhat	\N	masculine	arhat
 1186	6888	gathe	gāthe	गाथे	\N	偈	a verse , stanza	\N	feminine	gātha
 1187	17994	dharma	dharma	धर्म	dhamma	法	dharma ,  natural law	\N	masculine	dharma
 1188	3167	sutram	sūtraṃ	सूत्रं	sutta	經、佛經、長行	sutra	Nominative and accusative cases, singular form	neuter	\N
@@ -1199,7 +1199,7 @@
 1199	33061	paragate	pāragate	पारगते	\N	般羅揭帝	paragate , gone beyond	A term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.	adjective	\N
 1200	33062	parasamgate	pārasaṃgate	पारसंगते	\N	般羅僧揭帝	parasamgate , gone altogether beyond	A term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.	adjective	\N
 1201	33064	svaha	svāhā	स्वाहा	\N	僧莎訶	svaha	A term used in mantras, such as in the Heart Sutra, with no fixed, translatable meaning.	interjection	\N
-1202	33255	arana	araṇa	अरण	\N	無諍	non-contention	\N	adjective	\N
+1202	33255	arana	araṇa	अरण	\N	無諍	non-contention , without fighting	mfn	adjective	a + raṇa
 1203	5104	anuttarasamyaksambodhi	anuttarasamyaksaṃbodhi	अनुत्तरसम्यक्संबोधि	\N	阿耨多羅三藐三菩提	anuttara-samyak-sambodhi / unexcelled enlightenment	The consummation of incomparable enlightenment	noun	anuttara + samyak + saṃbodhi
 1204	32362	sastra	śāstra	शास्त्र	\N	論	a treatise , a theory	Stem form	neuter	śāstra
 1205	33421	anubhava	anubhāva	अनुभाव	anubhāva	威神	Anubhava	A diety, whose name means majesty or splendor	proper_noun	\N
@@ -2294,8 +2294,8 @@
 2294	519	tasu	tāsu	तासु	\N	她	them	Locative case, plural form	feminine	tad
 2295	7937	esa	eṣa	एष	\N	尋	the act of seeking or going after	Stem form	masculine	eṣa
 2296	17993	cittadhareti	cittadhāreti	चित्तधारेति	\N	心	mind	Nominative case	feminine	citta + dhārā
-2297	27416	sakridagami	sakridāgāmi	सक्रिदागामि	sakridāgāmi	斯陀含	Once-returner	\N	masculine	sakridāgāmi
-2298	370	āgāmin	āgāmin	सक्रिदागामि	sakridāgāmi	來	coming , approaching	mfn	adjective	āgāmin
+2297	27416	sakrdagamin	sakṛdāgāmin	सकृदागामिन्	sakadāgāmin	斯陀含	Once-returner	\N	masculine	sakṛt + āgāmi
+2298	370	āgāmin	āgāmin	सक्रिदागामि	\N	來	coming , approaching	mfn	adjective	āgāmin
 2299	28422	bhagavantah	bhagavantaḥ	भगवन्तः	\N	薄伽梵、婆伽婆、婆誐嚩帝、婆伽梵、世尊	Bhagavat , Bhagavan , Bhagwan , Bhagawan , Blessed One	Nominative case	masculine	bhagavat
 2300	502	nanu	nanu	ननु	\N	不	not , not at all , never	Interrogatively: not? is it not? hence often equivalent to certainly , surely , indeed , no doubt, especially in questions amounting to an affirmation	indeclinable	nanu
 2301	343	gaccheyuḥ	gaccheyuḥ	गच्छेयुः	\N	去	go	Optative, accusative form	verb1	√gam
@@ -2506,4 +2506,18 @@
 2506	17657	sunya	śūnya	शून्य	\N	空	empty	mfn	adjective	śūnya
 2507	3896	cit	cit	चित्	\N	知	to perceive , fix the mind upon , attend to , be attentive , observe , take notice of	\N	verb1	√cit
 2508	32140	sprastavyan	spraṣṭavyān	स्प्रष्टव्यान्	\N	觸	touch , the sense of touch , feeling , sensation	\N	neuter	\N
-2509	509	saced	saced	सचेद्	\N	與	and	Used in place of ced	indeclinable	ced
+2509	4406	saced	saced	सचेद्	sace	若	if	A conjunction used in place of ced (Edgerton). Synonymous with sace, sacet	indeclinable	ced
+2510	27416	sakrdagamina	sakṛdāgāmina	सकृदागामिन	\N	斯陀含	Sakridagami / Sakadagami / Sakrdagamin / Once-Returner	\N	masculine	sakṛt + āgāmi
+2511	301	sakrt	sakṛt	सकृत्	\N	一	once for all , for ever	\N	indeclinable	sakṛt
+2512	27415	anagamina	anāgāmina	अनागामिन	\N	阿那含	a non-returner	Literally, non-returning	noun	anāgāmin
+2513	6892	arhata	arhata	अर्हत	\N	阿羅漢、羅漢	Arhat	Accusative case	masculine	arhat
+2514	671	ya	ya	य	\N	者	a goer or mover	Stem form	masculine	ya
+2515	394	agrya	agrya	अग्र्य	\N	第一	foremost , topmost , principal , best	mf(ā)n	adjective	agrya
+2516	623	nis	nis	निस्	\N	除	out , forth , away	Rarely used as an independent word, but mostly as a prefix to verbs and their derivatives [cf. niḥ- √ kṣi], or to nouns not immediately connected with verbs, in which case it has the sense, "out of", "away from" [cf. nirvana, niṣ-kauśāmbi] or that of a privative or negative adverb, "without", "destitute of", "free from", "un-" [cf. nir-artha , nir-mala], or that of a strengthening particle "thoroughly", "entirely", "very" [cf. nih-śūnya , niṣ-kevala , nir-muṇḍa]; it is liable to be changed to niḥ, nir, niś, niṣ, and nī.	indeclinable	nis
+2517	1224	dista	diṣṭa	दिष्ट	\N	顯	shown , pointed out , appointed , assigned	mfn	adjective	diṣṭa
+2518	1224	nirdistah	nirdiṣṭaḥ	निर्दिष्टः	\N	顯	shown , pointed out , appointed , assigned	Nominative case with prefix	adjective	nis + diṣṭa
+2509	4406	sace	sace	सचे	sace	若	if	A conjunction used in place of ced (Edgerton). Synonymous with saced, sacet	indeclinable	ced
+2509	4406	sacet	sacet	सचेत्	sace	若	if	A conjunction used in place of ced (Edgerton). Synonymous with sace, saced	indeclinable	ced
+2510	4406	amama	amama	अमम	\N	若	without egotism , devoid of all selfish or worldly attachment or desire	mfn	adjective	a + mama
+2511	33276	vyakarana	vyākaraṇa	व्याकरण	\N	記	prediction , prophecy	\N	neuter	vy + ākaraṇa
+2512	32853	vyakarana	vyākaraṇa	व्याकरण	\N	毗迦羅那、語法學	grammar	One of the six disciplines associated with the study of the Vedas	neuter	vy + ākaraṇa

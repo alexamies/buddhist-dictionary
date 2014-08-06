@@ -74,12 +74,13 @@ class GlossGenerator:
                 words = line.split()
                 for token in words:
                     punc = None
+                    punc2 = None
                     element2 = None
                     element = sanskritvocab.ConvertNonStandard(token).strip()
                     match = re.search(r".*[\|\?,-].*", element)
                     if match:
                        #print('[GenerateDoc] punctuation found: "%s"' % element)
-                       (element, punc, element2) = self._extractPunc(element)
+                       (element, punc, element2, punc2) = self._extractPunc(element)
                     if element in combined_dict:
                         #print('element found: "%s"' % element)
                         entry = combined_dict[element]
@@ -104,6 +105,8 @@ class GlossGenerator:
                     elif element2:
                         #print('element2 not found: "%s"' % element2)
                         markup += self._Punctuation(element2)
+                    if punc2:
+                        markup += self._Punctuation(punc2)
 
         markup += self._Timestamp()
         return markup
@@ -159,23 +162,28 @@ class GlossGenerator:
         """
         i = element.find('|')
         if i > -1:
-            #print("i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
-            return (element[:i], element[i:], None)
+            j = element.find('-')
+            if j == -1:
+                #print("i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
+                return (element[:i], element[i:], None, None)
         i = element.find(',')
         if i > -1:
-            return (element[:i], element[i:], None)
+            return (element[:i], element[i:], None, None)
         i = element.find('?')
         if i > -1:
             #print("? i, element, punc: %s, %s, %s" % (i, element[:i], element[i:]))
-            return (element[:i], element[i:], None)
+            return (element[:i], element[i:], None, None)
         i = element.find('-')
         if i == (len(element)-1):
-            return (element[:i], element[i:], None)
+            return (element[:i], element[i:], None, None)
         elif i == 0:
             self._Punctuation('-')
-            return (element[i:], None, None)
+            return (element[i:], None, None, None)
         else:
-            return (element[:i], '-', element[i+1:])
+            j = element.find('|')
+            if j > -1:
+                return (element[:i], '-', element[i+1:j], '|')
+            return (element[:i], '-', element[i+1:], None)
 
     def _Paragraph(self, text):
         """Generates output text formatted for a paragraph.
