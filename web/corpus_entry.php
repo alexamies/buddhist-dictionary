@@ -8,7 +8,7 @@ require_once 'inc/markdown.php';
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="NTI Chinese-English Dictionary and Buddhist Text Project">
+    <meta name="description" content="NTI Buddhist Text Reader">
     <title>NTI Buddhist Text Reader</title>
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">

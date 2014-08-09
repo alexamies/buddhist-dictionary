@@ -759,7 +759,7 @@
 759	29915	krtsna	kṛtsna	कृत्स्न	\N	遍	whole , entire , all , pervasive	\N	adjective	\N
 760	3220	prasava	prasava	प्रसव	\N	生	birth , delivery , generation	\N	masculine	\N
 761	1626	brhat	bṛhat	बृहत्	\N	廣	big , great , large , vast , abundant	\N	adjective	\N
-762	1291	sattva	sattva	सत्त्व	\N	存在	existence , reality	\N	noun	\N
+762	1291	sattva	sattva	सत्त्व	\N	存在	being , existence , entity , reality	f(ā)	neuter	sattva
 763	3286	tapa	tapa	तप	\N	熱	heat , warmth	\N	masculine	\N
 764	29949	sudarsana	sudarśana	सुदर्शन	\N	善見	skillful vision , keen sighted	\N	masculine	\N
 765	29955	akimcanya	ākiṃcanya	आकिंचन्य	\N	無所有	nothingness	\N	noun	\N
@@ -1390,7 +1390,7 @@
 1390	6888	suktam	sūktam	सूक्तम्	\N	偈	a hymn	Nominative and Accusative case, singular form	neuter	sūkta
 1391	26965	amrtani	amṛtāni	अमृतानि	\N	甘露	immortality , immortals	Nominative and Accusative case, plural form	neuter	amṛta
 1392	2231	katham	kathaṃ	कथं	\N	如何	how	Interrogative pronoun, ending modified for sandhi	indeclinable	katham
-1393	21078	sattva	sattvā	सत्त्वा	\N	有情	a being , a creature	Standard stem form is sattva	neuter	sattva
+1393	21078	sattva	sattvā	सत्त्वा	\N	有情	a being , a creature	Feminine form, masculine and neuter forms are sattva	neuter	sattva
 1394	8847	mahasattvena	mahāsattvena	महासत्त्वेन	\N	摩訶薩、摩訶薩埵	mahasattva , mohasattva , a great being	Instrumental case, singular form.	masculine	mahāsattva
 1395	32930	pancasatyam	pañcaśatyāṃ	पञ्चशत्यां	\N	五百	five hundred	Accusative case	number	pañcaśatyā
 1396	7135	punyaskandhasya	puṇyaskandhasya	पुण्यस्कन्धस्य	\N	功德、福、福德	a quantity of merit , a quantity of virtue	Genitive case, singular form.	masculine	puṇyaskandha
@@ -2125,7 +2125,7 @@
 2125	28434	samvid	saṃvid	संविद्	\N	識	consciousness , intellect , knowledge , understanding	\N	feminine	saṃ + vid
 2126	3896	samvid	saṃvid	संविद्	\N	知	to know together , know thoroughly , know , recognize	Root form for the class II verb	verb	saṃ + √vid
 2127	3896	yati	yati	यति	\N	知	an ascetic , devotee , one who has restrained his passions and abandoned the world	Stem form	masculine	yati
-2128	398	samvidyate	saṃvidyate	संविद्यते	saṃvijjate	有	is found , exists	From Edgerton	masculine	saṃvidyate
+2128	398	samvidyate	saṃvidyate	संविद्यते	saṃvijjate	有	is found , exists	From Edgerton (1953)	masculine	saṃvidyate
 2129	1802	pascime	paścime	पश्चिमे	\N	西	the west , being behind , hinder , later , last , final	\N	adjective	paścima
 2130	3512	ukta	ukta	उक्त	\N	言	uttered , said , spoken	mfn	adjective	ukta
 2131	3512	ukte	ukte	उक्ते	\N	言	uttered , said , spoken	Locative case, singular masculine and other forms	adjective	ukta
@@ -2135,7 +2135,7 @@
 2135	303	trayas	trayas	त्रयस्	\N	三	three	Nonmimal case, plural, masculine form	adjective	tri
 2136	310	dasan	daśan	दशन्	\N	十	ten	Stem form	adjective	daśan
 2137	310	dasabhis	daśabhis	दशभिस्	\N	十	ten	Instrumental case	adjective	daśan
-2138	401	sambahula	saṃbahula	संबहुल	saṃbahula	多	many	Stem form, from Edgerton	adjective	saṃbahula
+2138	401	sambahula	saṃbahula	संबहुल	saṃbahula	多	many	Stem form, from Edgerton (1953)	adjective	saṃbahula
 2139	401	sambahulaisca	saṃbahulaiśca	संबहुलैश्च	\N	多	many	\N	adjective	saṃbahula
 2140	3034	pūrvāhṇa	pūrvāhṇa	पूर्वाह्ण	\N	上午	the earlier part of the day , forenoon	Stem form	masculine	pūrvāhṇa
 2141	4355	bhakta	bhakta	भक्त	\N	食	food or a meal	Stem form	neuter	bhakta
@@ -2412,10 +2412,10 @@
 2412	1459	samgrhita	saṃgṛhītā	संगृहीता	\N	得	grasped , seized , caught , taken , received , collected , gathered	Nominative case, singular, feminine form	adjective	saṃ + gṛh
 2413	26533	aupapaduka	aupapāduka	अउपपादुक	\N	化生	 self-produced , born from transformation	mfn	adjective	upa + pāduka
 2414	26533	aupapaduka	aupapādukā	अउपपादुका	\N	化生	 self-produced , born from transformation	Feminine form	adjective	upa + pāduka
-2415	32114	arupino	arūpiṇo	अरूपिणो	\N	無色	formless	A negating compound, accusative plural. See Edgerton for an explanation of the declension	adjective	a + rūpa
-2416	5052	rupino	rūpiṇo	रूपिणो	\N	色	form	Accusative plural. See Edgerton for an explanation of the declension	neuter	rūpa
-2417	32106	samjnino	saṃjñino	संज्ञिनो	saññā	想蘊、想	notion , perception , cognition , conceptualization , saṃjñā , appearance	Accusative plural. See Edgerton for an explanation of the declension.	feminine	saṃjñā
-2418	35029	asamjnino	asaṃjñino	असंज्ञिनो	\N	無想	no notion , without thought	A negating compound. Accusative plural. See Edgerton for an explanation of the declension.	feminine	a + saṃjñā
+2415	32114	arupino	arūpiṇo	अरूपिणो	\N	無色	formless	A negating compound, accusative plural. See Edgerton (1953) for an explanation of the declension	adjective	a + rūpa
+2416	5052	rupino	rūpiṇo	रूपिणो	\N	色	form	Accusative plural. See Edgerton (1953) for an explanation of the declension	neuter	rūpa
+2417	32106	samjnino	saṃjñino	संज्ञिनो	saññā	想蘊、想	notion , perception , cognition , conceptualization , saṃjñā , appearance	Accusative plural. See Edgerton (1953) for an explanation of the declension.	feminine	saṃjñā
+2418	35029	asamjnino	asaṃjñino	असंज्ञिनो	\N	無想	no notion , without thought	A negating compound. Accusative plural. See Edgerton (1953) for an explanation of the declension.	feminine	a + saṃjñā
 2419	3896	jna	jñā	ज्ञा	\N	知	to know , have knowledge , become acquainted with , perceive , apprehend , understand , experience , recognise , ascertain , investigate	Root form	verb9	√jñā
 2420	3896	prajnapyamanah	prajñapyamānaḥ	प्रज्ञप्यमानः	\N	知	know	Present passive participle, nominative case, singular form	verb9	pra + √jñā
 2421	3896	prajnapyate	prajñapyate	प्रज्ञप्यते	\N	知	know	Present passive, singular form	verb9	pra + √jñā
@@ -2471,8 +2471,8 @@
 2471	28121	udgrahitavyo	udgrahītavyo	उद्ग्रहीतव्यो	\N	取	grasping , seizing	With prefix and visarga sandhi	adjective	ud + √grāh
 2472	8494	saṃdhāya	saṃdhāya	धाय	\N	具	having , possessing	mfn	adjective	sam + dhāya
 2473	5965	vag	vāg	वाग्	\N	語	word , language , speech	Same as vāc	feminine	vāc
-2474	6718	kola	kola	कोल	kulla	筏	boat , raft	From Edgerton	noun	kola
-2475	2137	paryaya	paryāya	पर्याय	\N	門	course , regular procedure	From Edgerton	noun	paryāya
+2474	6718	kola	kola	कोल	kulla	筏	boat , raft	From Edgerton (1953)	noun	kola
+2475	2137	paryaya	paryāya	पर्याय	\N	門	course , regular procedure	From Edgerton (1953)	noun	paryāya
 2476	4054	ha	hā	हा	\N	捨	to leave , abandon , desert , quit , forsake , relinquish	Root form	verb3	√hā
 2477	4054	prahatavya	prahātavya	प्रहातव्य	\N	捨	abandon	Future passive participle	verb3	pra + √hā
 2478	4054	prahatavyah	prahātavyāḥ	प्रहातव्य	\N	捨	abandon	Future passive participle, nominative case	verb3	pra + √hā
@@ -2490,7 +2490,7 @@
 2490	17908	imam	imaṃ	इमं	\N	是	this	A different form of idam, with anusvara sandhi applied	pronoun	idam
 2491	28787	samyaksambuddhebhyo	samyaksaṃbuddhebhyo	सम्यक्संबुद्धेभ्यो	\N	正等覺	complete enlightenment	Dative case with visarga sandhi	feminine	samyak + sambodhi
 2492	30568	prasu	prasū	प्रसू	\N	生	to procreate , beget , bring forth , obtain offspring or bear fruit , produce	Root form with prefix	verb6	pra + √sū
-2493	5074	antasas	antaśaś	अन्तशश्	\N	乃至	so much as	From Edgerton	adjective	antaśaś
+2493	5074	antasas	antaśaś	अन्तशश्	\N	乃至	so much as	From Edgerton (1953)	adjective	antaśaś
 2494	7211	mud	mud	मुद्	\N	統	to mix , mingle , blend , unite	Root form	verb10	√mud
 2495	1459	grhya	gṛhya	गृह्य	\N	得	to be grasped or taken	mfn	adjective	gṛhya
 2496	30477	parebhyo	parebhyo	परेभ्यो	\N	他	other	Ablative and dative forms with visarga sandhi	adjective	para
@@ -2500,13 +2500,13 @@
 2500	8680	nuyat	nuyāt	नुयात्	\N	讚	sound , shout , exult , praise , commend	Optative conjugation nuyāt of root √nu	verb2	√nu
 2501	8680	nu	nu	नु	\N	讚	to sound , shout , exult , praise , commend	Root form	verb2	√nu
 2502	1260	at	at	अत्	\N	行	to go constantly , walk , run	Root form	verb1	√at
-2503	3220	nirjata	nirjāta	निर्जात	nijjāya	生、出	produced , originating , born	From Edgerton, mfn	adjective	nir + jāta
+2503	3220	nirjata	nirjāta	निर्जात	nijjāya	生、出	produced , originating , born	From Edgerton (1953), mfn	adjective	nir + jāta
 2504	3220	jata	jāta	जात	\N	生、出	born , brought into existence by	mfn	adjective	jāta
 2505	33894	samskrta	saṃskṛta	संस्कृत	\N	有為	conditioned	Subject to causes and conditions	adjective	saṃskṛta
 2506	17657	sunya	śūnya	शून्य	\N	空	empty	mfn	adjective	śūnya
 2507	3896	cit	cit	चित्	\N	知	to perceive , fix the mind upon , attend to , be attentive , observe , take notice of	\N	verb1	√cit
 2508	32140	sprastavyan	spraṣṭavyān	स्प्रष्टव्यान्	\N	觸	touch , the sense of touch , feeling , sensation	\N	neuter	\N
-2509	4406	saced	saced	सचेद्	sace	若	if	A conjunction used in place of ced (Edgerton). Synonymous with sace, sacet	indeclinable	ced
+2509	4406	saced	saced	सचेद्	sace	若	if	A conjunction used in place of ced (Edgerton (1953)). Synonymous with sace, sacet	indeclinable	ced
 2510	27416	sakrdagamina	sakṛdāgāmina	सकृदागामिन	\N	斯陀含	Sakridagami / Sakadagami / Sakrdagamin / Once-Returner	\N	masculine	sakṛt + āgāmi
 2511	301	sakrt	sakṛt	सकृत्	\N	一	once for all , for ever	\N	indeclinable	sakṛt
 2512	27415	anagamina	anāgāmina	अनागामिन	\N	阿那含	a non-returner	Literally, non-returning	noun	anāgāmin
@@ -2516,8 +2516,13 @@
 2516	623	nis	nis	निस्	\N	除	out , forth , away	Rarely used as an independent word, but mostly as a prefix to verbs and their derivatives [cf. niḥ- √ kṣi], or to nouns not immediately connected with verbs, in which case it has the sense, "out of", "away from" [cf. nirvana, niṣ-kauśāmbi] or that of a privative or negative adverb, "without", "destitute of", "free from", "un-" [cf. nir-artha , nir-mala], or that of a strengthening particle "thoroughly", "entirely", "very" [cf. nih-śūnya , niṣ-kevala , nir-muṇḍa]; it is liable to be changed to niḥ, nir, niś, niṣ, and nī.	indeclinable	nis
 2517	1224	dista	diṣṭa	दिष्ट	\N	顯	shown , pointed out , appointed , assigned	mfn	adjective	diṣṭa
 2518	1224	nirdistah	nirdiṣṭaḥ	निर्दिष्टः	\N	顯	shown , pointed out , appointed , assigned	Nominative case with prefix	adjective	nis + diṣṭa
-2509	4406	sace	sace	सचे	sace	若	if	A conjunction used in place of ced (Edgerton). Synonymous with saced, sacet	indeclinable	ced
-2509	4406	sacet	sacet	सचेत्	sace	若	if	A conjunction used in place of ced (Edgerton). Synonymous with sace, saced	indeclinable	ced
-2510	4406	amama	amama	अमम	\N	若	without egotism , devoid of all selfish or worldly attachment or desire	mfn	adjective	a + mama
-2511	33276	vyakarana	vyākaraṇa	व्याकरण	\N	記	prediction , prophecy	\N	neuter	vy + ākaraṇa
-2512	32853	vyakarana	vyākaraṇa	व्याकरण	\N	毗迦羅那、語法學	grammar	One of the six disciplines associated with the study of the Vedas	neuter	vy + ākaraṇa
+2519	4406	sace	sace	सचे	sace	若	if	A conjunction used in place of ced (Edgerton (1953)). Synonymous with saced, sacet	indeclinable	ced
+2520	4406	sacet	sacet	सचेत्	sace	若	if	A conjunction used in place of ced (Edgerton (1953)). Synonymous with sace, saced	indeclinable	ced
+2521	4406	amama	amama	अमम	\N	若	without egotism , devoid of all selfish or worldly attachment or desire	mfn	adjective	a + mama
+2522	33276	vyakarana	vyākaraṇa	व्याकरण	\N	記	prediction , prophecy	\N	neuter	vy + ākaraṇa
+2523	32853	vyakarana	vyākaraṇa	व्याकरण	\N	毗迦羅那、語法學	grammar	One of the six disciplines associated with the study of the Vedas	neuter	vy + ākaraṇa
+2524	32457	vyuha	vyūhā	व्यूहा	\N	莊嚴	arrangement , adornment , transformation	See Edgerton (1953), Red Pine (2001)	masculine	vyūhā
+2525	690	vyuha	vyūhā	व्यूहा	\N	些	a mass , a large amount	From Edgerton (1953)	masculine	vyūhā
+2526	1985	yat	yat	यत्	\N	按	to place in order , marshal , join , connect	Root form	verb1	√yat
+2527	1985	yanna	yanna	यन्न	\N	按	to place in order , marshal , join , connect	Nominative singular form of the participle	verb1	√yat
+2528	13692	yatta	yatta	यत्त	\N	願	endeavoured , striven , engaged in , intent upon , prepared for , ready to	mfn	adjective	yatta
