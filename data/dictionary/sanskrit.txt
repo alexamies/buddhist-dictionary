@@ -1008,7 +1008,7 @@
 1008	3368	nisidati	niṣīdati	निषीदति	\N	坐	to sit	\N	verb	\N
 1009	7193	sayya	śayyā	शय्या	\N	臥	bed , lying down , sleep	Stem form	masculine	śayyā
 1010	32465	paramanu	paramāṇu	परमाणु	\N	微塵	an atom	\N	masculine	\N
-1011	401	bahu	bahu	बहु	\N	多	many	Stem form	adjective	bahu
+1011	401	bahu	bahu	बहु	\N	多	much , many , frequent , abundant , numerous , great or considerable in quantity	mf(vī́ or u)n	adjective	bahu
 1012	412	bhasita	bhāṣita	भाषित	\N	說	said	Stem form	adjective	bhāṣita
 1013	32344	atma	ātma	आत्म	\N	自我、我	self	The standard translation by Kumārajīva is 我	noun	\N
 1014	412	vadamana	vadamāna	वदमान	\N	說	saying , speaking	\N	adjective	√vad
@@ -2266,7 +2266,7 @@
 2266	412	bhas	bhāṣ	भाष्	\N	說、言	to speak , talk , say , tell	Root form, with Accusative of a thing or person	verb1	√bhāṣ
 2267	412	bhasisyate	bhāṣiṣyate	भाषिष्यते	\N	說、言	to speak , talk , say , tell	Future tense, third party, singular form	verb1	√bhāṣ
 2268	707	mamsyate	maṃsyate	मंस्यते	\N	想、思	will think	Future tense, third party, singular form	verb	√man
-2269	3858	yavat	yāvat	यावत्	\N	常	as greatly as , as far as , as much or as many as , as often as , whenever	mf(atī)n	adjective	yāvat
+2269	1511	yavata	yāvatā	यावता	\N	甚至	as greatly as , as far as , as much or as many as , as often as , whenever	mf(atī)n	adjective	yāvat
 2270	3670	susthu	suṣṭhu	सुष्ठु	\N	善	aptly , fitly , duly , well , excellently , exceedingly	\N	indeclinable	suṣṭhu
 2271	3925	asrausit	aśrauṣīt	अश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	√śru
 2272	3925	pratyasrausit	pratyaśrauṣīt	प्रत्यश्रौषीत्	\N	聞	hear	Aorist, accusative, singular	verb5	prati + √śru
@@ -2291,7 +2291,7 @@
 2291	17908	ayam	ayam	अयम्	\N	是	this	Another form of idam	pronoun	ayam
 2292	17908	asya	asya	अस्य	\N	是	this	Genetive singular	pronoun	ayam
 2293	32106	samjnayam	saṃjñāyām	संज्ञायाम्	\N	想蘊、想	notion , perception , cognition , conceptualization , saṃjñā , appearance	Locative case	feminine	saṃjñā
-2294	519	tasu	tāsu	तासु	\N	她	them	Locative case, plural form	feminine	tad
+2294	522	tasu	tāsu	तासु	\N	她們	them	Locative case, plural form	feminine	tad
 2295	7937	esa	eṣa	एष	\N	尋	the act of seeking or going after	Stem form	masculine	eṣa
 2296	17993	cittadhareti	cittadhāreti	चित्तधारेति	\N	心	mind	Nominative case	feminine	citta + dhārā
 2297	27416	sakrdagamin	sakṛdāgāmin	सकृदागामिन्	sakadāgāmin	斯陀含	Once-returner	\N	masculine	sakṛt + āgāmi
@@ -2362,7 +2362,7 @@
 2362	15122	drastavya	draṣṭavyā	द्रष्टव्या	\N	見	visible	Nominative case, singular feminine form	adjective	draṣṭavya
 2363	11887	yani	yāni	यानि	\N	拘	restraining , abandoning	Nominative and accusative case, singular form	masculine	ya
 2364	412	bhasitani	bhāṣitāni	भाषितानि	\N	說	said	Nominative and accusative case, plural form	adjective	bhāṣita
-2365	28787	samyaksaṃbuddho	samyaksaṃbuddho	सम्यक्संबुद्धो	\N	正等覺	complete enlightenment	Nominative case with visarga sandhi	feminine	samyak + sambodhi
+2365	28787	samyaksaṃbuddho	samyaksaṃbuddho	सम्यक्संबुद्धो	\N	正等覺	complete enlightenment	Nominative case with visarga sandhi applied	feminine	samyak + sambodhi
 2366	2940	paśyet	paśyet	पश्येत्	\N	見、看到、看	he sees , he looks	Optative, singular form	verb1	√paś
 2367	412	bhasyamane	bhāṣyamāṇe	भाष्यमाणे	\N	說、言	to speak , talk , say , tell	Present Passive Participle, locative case, singular form	verb1	√bhāṣ
 2368	7979	pratitisthet	pratitiṣṭhet	प्रतितिष्ठेत्	\N	站、停止、停、停住	he stands , he halts , he remains	Optative, accusative, singular form	verb1	prati + √sthā
@@ -2446,7 +2446,7 @@
 2446	3382	samanta	samanta	समन्त	\N	方	being on every side , universal , whole , entire , all	mf(ā)n	adjective	samanta
 2447	6263	su	su	सु	\N	維	good , excellent , right , virtuous , beautiful , easy , well , rightly , much , greatly , very , any , easily , willingly , quickly	This prefix always qualifies the meaning of a verb and is never used independently at the beginning of a verse	indeclinable	su
 2448	671	kara	kara	कर	\N	者	a doer , maker , causer , doing , making , causing , producing	mf(ī , rarely ā)n	adjective	kara
-2449	9318	aha	āha	आह	\N	嗯	an interjection	\N	indeclinable	āha
+2449	9318	aha	āha	आह	\N	嗯	an interjection, said	Often used to introduce a quote	indeclinable, as in bhagavānāha (the Bhagavān said)	āha
 2450	807	sampat	sampat	सम्पत्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	Nominative case, singular form	feminine	sampad
 2451	9318	cid	cid	चिद्	\N	嗯	even , indeed , also	Often merely laying stress on a preceding word requiring a preceding simple verb to be accentuated as well as a verb following, if cid is preceded by an interrogative pronoun; in Classical Sanskrit only used after interrogative pronouns and adverbs to render them indefinite.	indeclinable	cid
 2452	370	agata	āgata	आगत	\N	來	come , arrived	mfn	adjective	ā + gata
@@ -2526,3 +2526,11 @@
 2526	1985	yat	yat	यत्	\N	按	to place in order , marshal , join , connect	Root form	verb1	√yat
 2527	1985	yanna	yanna	यन्न	\N	按	to place in order , marshal , join , connect	Nominative singular form of the participle	verb1	√yat
 2528	13692	yatta	yatta	यत्त	\N	願	endeavoured , striven , engaged in , intent upon , prepared for , ready to	mfn	adjective	yatta
+2529	1511	yavatyo	yāvatyo	यावत्यो	\N	甚至	as greatly as , as far as , as much or as many as , as often as , whenever	mf(atī)n	adjective	yāvat
+2530	522	ta	tā	ता	\N	她們	them	Third person pronoun, locative case, plural form. A non-standard form found in the Diamond Sūtra, replaced by tāsu in some versions.	feminine	tad
+2531	401	bahvayo	bahvayo	बह्वयो	\N	多	much , many , frequent , abundant , numerous , great or considerable in quantity	Feminine form with Sandhi applied	adjective	bahu
+2532	3512	arocayati	ārocayāti	आरोचयाति	\N	言	He announces , declares, tells	Third person conjugation. See Edgerton (1953) entry for ārocayāti.	verb	√vac
+2533	3512	arocayami	ārocayāmi	आरोचयामि	\N	言	I announce , declare, tell	First person conjugation. See Edgerton (1953) entry for ārocayāti.	verb	√vac
+2534	3896	vid	vid	विद्	\N	知	 to know , understand , perceive , learn , become or be acquainted with , be conscious of , have a correct notion of	Root form	verb2	√vid
+2535	3896	prativedayāmi	prativedayāmi	प्रतिवेदयामि	\N	知	 I know , understand , perceive	First person conjugation. The prefix prati indicates a penetrating knowledge. See Edgerton (1953) entry for prativedha.	verb2	prati + √vid
+2536	401	tavato	tāvato	तावतो	\N	多	so great , so large , so much , so far , so long , so many	Nominative case with visarga sandhi applied	adjective	tāvat
