@@ -930,7 +930,7 @@
 930	3165	dharma	dhárma	धर्म	dhamma	法	Dharma , the teachings of the Buddha	\N	proper_noun	\N
 931	32204	dharma	dhárma	धर्म	dhamma	法	a phenomenon , a mental object	A basic unit of existence or experience	masculine	dhárma
 932	32237	laksana	lakṣaṇa	लक्षण	lakkhaṇa	相	a sign , a characteristic , a mark	\N	neuter	\N
-933	803	prthivi	pṛthivī	पृथिवी	paṭhavī	地	earth , land , soil	\N	feminine	\N
+933	803	prthivi	pṛthivī	पृथिवी	paṭhavī	地	earth , land , soil	Feminine form of pṛthu	feminine	pṛthu
 934	1609	apa	āpa	आप	āpo	水	water	\N	masculine	āpa
 935	2132	tejas	tejas	तेजस्	tejo	火	fire	\N	neuter	\N
 936	483	nila	nīla	नील	nīla	青	blue , green	\N	masculine	\N
@@ -1204,7 +1204,7 @@
 1204	32362	sastra	śāstra	शास्त्र	\N	論	a treatise , a theory	Stem form	neuter	śāstra
 1205	33421	anubhava	anubhāva	अनुभाव	anubhāva	威神	Anubhava	A diety, whose name means majesty or splendor	proper_noun	\N
 1206	33562	gunabhadra	guṇabhadra	गुणभद्र	\N	求那跋陀羅	Gunabhadra	394 - 468, Indian monk	proper_noun	\N
-1207	33233	asamskrta	asaṃskṛta	असंस्कृत	\N	無為	unconditioned	A negative compound. Something that does not arise from causes and conditions	adjective	a + saṃskṛta
+1207	33233	asamskrta	asaṃskṛta	असंस्कृत	\N	無為	unconditioned	A negative compound. Something that does not arise from causes and conditions. Also spelled in English texts as asaṃskṛita.	adjective	a + saṃskṛta
 1208	33893	asamskrtaprabhavita	asaṁskṛtaprabhāvitā	असṁस्कृतप्रभाविता	\N	無為法	an unconditioned dhárma , an an unconditioned thing	\N	noun	\N
 1209	3021	hetu	hetu	हेतु	\N	因	a cause	\N	masculine	\N
 1210	26967	trisāhasramahāsāhasralokadhātu	trisāhasramahāsāhasralokadhātu	त्रिसाहस्रमहासाहस्रलोकधातु	\N	三千大千世界	trichiliocosm	\N	proper_noun	\N
@@ -1697,7 +1697,7 @@
 1697	29352	prthivyam	pṛthivyām	पृथिव्याम्	\N	著地	on the ground	\N	indeclinable	pṛthivyām
 1698	29352	prthivyam	pṛthivyāṃ	पृथिव्यां	\N	著地	on the ground	Accusative case, singular form	indeclinable	pṛthivyām
 1699	1114	mahatā	mahatā	महता	\N	大	greatness , mightiness	Stem form	feminine	mahatā
-1700	4348	viharati	viharati	विहरति	\N	遊	travel , roam	\N	verb	vi + √hṛ
+1700	398	viharati	viharati	विहरति	\N	有	state of being , stage , condition of existence	\N	verb	vi + √hṛ
 1701	7193	sayyam	śayyāṃ	शय्यां	\N	臥	bed , lying down , sleep	Accusative case, singular form	masculine	śayyā
 1702	33276	vyakrta	vyākṛta	व्याकृत	\N	記	analyzed , expounded , explained , predicted	Masculine and neuter form, feminine form ends in ā	masculine	vyākṛta
 1703	1590	nanabhavah	nābhāvaḥ	नानाभावां	\N	種	various	Nominative case, singular form	adjective	nānābhāvā
@@ -2446,7 +2446,7 @@
 2446	3382	samanta	samanta	समन्त	\N	方	being on every side , universal , whole , entire , all	mf(ā)n	adjective	samanta
 2447	6263	su	su	सु	\N	維	good , excellent , right , virtuous , beautiful , easy , well , rightly , much , greatly , very , any , easily , willingly , quickly	This prefix always qualifies the meaning of a verb and is never used independently at the beginning of a verse	indeclinable	su
 2448	671	kara	kara	कर	\N	者	a doer , maker , causer , doing , making , causing , producing	mf(ī , rarely ā)n	adjective	kara
-2449	9318	aha	āha	आह	\N	嗯	an interjection, said	Often used to introduce a quote	indeclinable, as in bhagavānāha (the Bhagavān said)	āha
+2449	9318	aha	āha	आह	\N	嗯	an interjection, said	Often used to introduce a quote , as in bhagavānāha (the Bhagavān said)	indeclinable	āha
 2450	807	sampat	sampat	सम्पत्	\N	成就	success , accomplishment , completion , fulfilment , perfection , attainment , acquisition , possession , enjoyment , advantage , benefit , blessing	Nominative case, singular form	feminine	sampad
 2451	9318	cid	cid	चिद्	\N	嗯	even , indeed , also	Often merely laying stress on a preceding word requiring a preceding simple verb to be accentuated as well as a verb following, if cid is preceded by an interrogative pronoun; in Classical Sanskrit only used after interrogative pronouns and adverbs to render them indefinite.	indeclinable	cid
 2452	370	agata	āgata	आगत	\N	來	come , arrived	mfn	adjective	ā + gata
@@ -2502,7 +2502,7 @@
 2502	1260	at	at	अत्	\N	行	to go constantly , walk , run	Root form	verb1	√at
 2503	3220	nirjata	nirjāta	निर्जात	nijjāya	生、出	produced , originating , born	From Edgerton (1953), mfn	adjective	nir + jāta
 2504	3220	jata	jāta	जात	\N	生、出	born , brought into existence by	mfn	adjective	jāta
-2505	33894	samskrta	saṃskṛta	संस्कृत	\N	有為	conditioned	Subject to causes and conditions	adjective	saṃskṛta
+2505	33894	samskrta	saṃskṛta	संस्कृत	\N	有為	conditioned	Subject to causes and conditions. Also, spelled in English texts as saṃskṛita.	adjective	saṃskṛta
 2506	17657	sunya	śūnya	शून्य	\N	空	empty	mfn	adjective	śūnya
 2507	3896	cit	cit	चित्	\N	知	to perceive , fix the mind upon , attend to , be attentive , observe , take notice of	\N	verb1	√cit
 2508	32140	sprastavyan	spraṣṭavyān	स्प्रष्टव्यान्	\N	觸	touch , the sense of touch , feeling , sensation	\N	neuter	\N
@@ -2534,3 +2534,20 @@
 2534	3896	vid	vid	विद्	\N	知	 to know , understand , perceive , learn , become or be acquainted with , be conscious of , have a correct notion of	Root form	verb2	√vid
 2535	3896	prativedayāmi	prativedayāmi	प्रतिवेदयामि	\N	知	 I know , understand , perceive	First person conjugation. The prefix prati indicates a penetrating knowledge. See Edgerton (1953) entry for prativedha.	verb2	prati + √vid
 2536	401	tavato	tāvato	तावतो	\N	多	so great , so large , so much , so far , so long , so many	Nominative case with visarga sandhi applied	adjective	tāvat
+2537	803	prthivi	pṛthivī	पृथिवी	paṭhavī	地	the earth or wide world	Feminine form of pṛthu	feminine	pṛthu
+2538	2665	pradesa	pradeśa	प्रदेश	\N	處	a spot , region , place , country , district	Stem form	masculine	pradeśa
+2539	399	manusa	mānuṣa	मानुष	\N	人	a human being , a man , a person	Stem form	masculine	mānuṣa
+2540	412	vāda	vāda	वाद	\N	說、告、云、言、曰	speaking of or about	mfn, from √vad	adjective	vāda
+2541	7122	samanvagata	samanvāgata	समन्वागत	samannāgata	供養	attended by , furnished or provided with	mfn	adjective	sam + anv + ā + gata
+2542	7122	samanvagata	samanvāgatā	समन्वागता	\N	供養	attended by , furnished or provided with	Nominative case, singular, feminine form	adjective	sam + anv + ā + gata
+2543	6887	dhr	dhṛ	धृ	\N	受持	to hold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Root form	verb1	√dhṛ
+2544	6887	dharayisyanti	dhārayiṣyanti	धारयिष्यन्ति	\N	受持	to hold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Nominative and accusative case of the future active participle	verb1	√dhṛ
+2545	518	saka	saka	सक	\N	他	he that man , she that woman	mf(ā)n	adjective	saka
+2546	35525	parikalpita	parikalpita	परिकल्पित	\N	遍計所執性	sole imagination , imaginary	The first of the three levels of knowledge in the Yogacara School	adjective	\N
+2547	35526	paratantra	paratantra	परतन्त्र	\N	依他起性	dependence on others , dependent	The second of the three levels of knowledge in the Yogacara School	adjective	\N
+2548	35527	parinispanna	pariniṣpanna	परिनिष्पन्न	\N	圓成實性	ultimate reality , perfected	The thirdd of the three levels of knowledge in the Yogacara School	adjective	\N
+2549	3512	vacayisyanti	vācayiṣyanti	वाचयिष्यन्ति	\N	言	he will speak	Nominative and accusative case of the future active participle (vācayiṣyat)	verb2	√vac
+2550	603	ap	āp	आप्	\N	到	to reach , overtake , meet with , fall upon	Root form	verb5	√āp
+2551	4348	viharati	viharati	विहरति	\N	遊	travel , roam	\N	verb	vi + √hṛ
+2552	1632	anyatara	anyatara	又	\N	遊	the one , the other	\N	verb	anya + tara
+2553	3927	vijna	vijña	ज्ञात	\N	智	knowing , intelligent , wise , clever	mfn	adjective	vi + jña
