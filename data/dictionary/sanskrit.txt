@@ -398,7 +398,7 @@
 398	28515	gana	gaṇa	गण	\N	語式	class , verb class	One of the ten classes used to categorize Sanskrit verbs	noun	\N
 399	28483	bhute krdanta	bhūte kṛdanta	भूते कृदन्त	\N	過去被動分詞	past passive participle	\N	noun	\N
 400	2893	bhaisajyaguruvaiduryaprabharajasutram	bhaiṣajyaguruvaidūryaprabharājasūtram	भैषज्यगुरुवैदूर्यप्रभराजसूत्रम्	\N	藥師經、藥師琉璃光七佛本願功德經	Sutra of the Medicine Buddha	\N	proper_noun	\N
-401	3236	raja	rāja	राज	\N	王	king , monarch	\N	noun	\N
+401	3236	raja	rāja	राज	\N	王	king , monarch	\N	masculine	rāja
 402	1114	maha	mahā	महा	mahā	大	great	Stem form	adjective	mahā
 403	2618	asvah	aśvaḥ	अश्वः	\N	馬	horse	Nominative case, singular form	masculine	aśva
 404	7979	asthah	asthāḥ	अस्थाः	\N	站	you stood	\N	verb	\N
@@ -2528,7 +2528,7 @@
 2528	13692	yatta	yatta	यत्त	\N	願	endeavoured , striven , engaged in , intent upon , prepared for , ready to	mfn	adjective	yatta
 2529	1511	yavatyo	yāvatyo	यावत्यो	\N	甚至	as greatly as , as far as , as much or as many as , as often as , whenever	mf(atī)n	adjective	yāvat
 2530	522	ta	tā	ता	\N	她們	them	Third person pronoun, locative case, plural form. A non-standard form found in the Diamond Sūtra, replaced by tāsu in some versions.	feminine	tad
-2531	401	bahvayo	bahvayo	बह्वयो	\N	多	much , many , frequent , abundant , numerous , great or considerable in quantity	Feminine form with Sandhi applied	adjective	bahu
+2531	401	bahvayo	bahvayo	बह्वयो	\N	多	much , many , frequent , abundant , numerous , great or considerable in quantity	Feminine form with visarga sandhi applied	adjective	bahu
 2532	3512	arocayati	ārocayāti	आरोचयाति	\N	言	He announces , declares, tells	Third person conjugation. See Edgerton (1953) entry for ārocayāti.	verb	√vac
 2533	3512	arocayami	ārocayāmi	आरोचयामि	\N	言	I announce , declare, tell	First person conjugation. See Edgerton (1953) entry for ārocayāti.	verb	√vac
 2534	3896	vid	vid	विद्	\N	知	 to know , understand , perceive , learn , become or be acquainted with , be conscious of , have a correct notion of	Root form	verb2	√vid
@@ -2540,8 +2540,8 @@
 2540	412	vāda	vāda	वाद	\N	說、告、云、言、曰	speaking of or about	mfn, from √vad	adjective	vāda
 2541	7122	samanvagata	samanvāgata	समन्वागत	samannāgata	供養	attended by , furnished or provided with	mfn	adjective	sam + anv + ā + gata
 2542	7122	samanvagata	samanvāgatā	समन्वागता	\N	供養	attended by , furnished or provided with	Nominative case, singular, feminine form	adjective	sam + anv + ā + gata
-2543	6887	dhr	dhṛ	धृ	\N	受持	to hold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Root form	verb1	√dhṛ
-2544	6887	dharayisyanti	dhārayiṣyanti	धारयिष्यन्ति	\N	受持	to hold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Nominative and accusative case of the future active participle	verb1	√dhṛ
+2543	6887	dhr	dhṛ	धृ	\N	受持	to uphold , hold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Root form	verb1	√dhṛ
+2544	6887	dharayisyanti	dhārayiṣyanti	धारयिष्यन्ति	\N	受持	to uphold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Nominative and accusative case of the future active participle	verb1	√dhṛ
 2545	518	saka	saka	सक	\N	他	he that man , she that woman	mf(ā)n	adjective	saka
 2546	35525	parikalpita	parikalpita	परिकल्पित	\N	遍計所執性	sole imagination , imaginary	The first of the three levels of knowledge in the Yogacara School	adjective	\N
 2547	35526	paratantra	paratantra	परतन्त्र	\N	依他起性	dependence on others , dependent	The second of the three levels of knowledge in the Yogacara School	adjective	\N
@@ -2551,3 +2551,11 @@
 2551	4348	viharati	viharati	विहरति	\N	遊	travel , roam	\N	verb	vi + √hṛ
 2552	1632	anyatara	anyatara	又	\N	遊	the one , the other	\N	verb	anya + tara
 2553	3927	vijna	vijña	ज्ञात	\N	智	knowing , intelligent , wise , clever	mfn	adjective	vi + jña
+2554	3794	ko	ko	क	\N	谁	who? which? what?	Nominative case, singular form with visarga sandhi applied	masculine	ka
+2555	6887	dharayami	dhārayāmi	धारयामि	\N	受持	uphold , bear (also bring forth) , carry , maintain , preserve , keep , possess , have , use , employ , practise , undergo	Causative present, accusative, singular form	verb1	√dhṛ
+2556	6887	dharaya	dhāraya	धारय	\N	受持	upholding , holding , bearing	mfn	adjective	dhāraya
+2557	518	ena	ena	एन	\N	他	he , she , it , this , that	A pronominal base used for certain cases of the 3rd personal pronoun	pronoun	ena
+2558	30521	namayam	nāmāyaṃ	नामायं	\N	號、名	called	Locative case, singular form With anusvāra sandhi applied	feminine	nāma
+2559	6041	raja	raja	रज	\N	塵	dust	\N	masculine	raja
+2560	302	dva	dva	द्व	\N	二	two	Digit: २; mfn	adjective	dva
+2561	33048	trimsa	triṃśa	त्रिंश	\N	三十	thirty , the 30th	mf(ī)n	adjective	triṃśa
