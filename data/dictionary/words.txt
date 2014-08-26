@@ -18346,7 +18346,7 @@
 18345	栓	\N	shuān	bottle stopper / wooden pin / plug	noun	\N	\N	家庭用品	Household Article	\N	\N	\N	\N	\N
 18346	皇上	\N	huángshang	the emperor	noun	\N	\N	历史	History	中国	China	\N	\N	\N
 18347	民国	民國	mínguó	a republic	noun	\N	\N	政治	Politics	\N	\N	\N	\N	\N
-18348	念佛	\N	niàn fó	to pray to Buddha / to chant sutras	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+18348	念佛	\N	niàn fó	to recollect the Buddha / to chant the name of the Buddha / to pray to Buddha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, to chant the name of Amitābha Buddha 阿弥陀佛
 18349	吉利	\N	jílì	luck	noun	\N	\N	运气	Luck	\N	\N	\N	\N	\N
 18350	忿	\N	fèn	to be furious	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 18351	王八蛋	\N	Wángbādàn	bastard / son of a bitch	noun	\N	\N	口语	Colloquial	\N	\N	\N	\N	\N
@@ -19526,9 +19526,9 @@
 19525	藏传佛教	藏傳佛教	Zàng Chuán Fójiào	Tibetan Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also called 藏语系佛教
 19526	藏语	藏語	Zàngyǔ	Tibetan language	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
 19527	藏语系佛教	藏語系佛教	Zàngyǔ Xì Fójiào	Tibetan Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also called 藏传佛教
-19528	南传佛教	南傳佛教	Nán Chuán Fójiào	Theravada Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-19529	上座部佛教	\N	Shàngzuòbù Fójiào	Theravada Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-19530	巴利语系佛教	巴利語系佛教	Bālì Yǔ xì Fójiào	Theravada Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+19528	南传佛教	南傳佛教	Nán Chuán Fójiào	Theravāda Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+19529	上座部佛教	\N	Shàngzuòbù Fójiào	Theravāda Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+19530	巴利语系佛教	巴利語系佛教	Bālì Yǔ xì Fójiào	Theravāda Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 19531	巴利	\N	Bālì	Pali	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
 19532	松赞干布	松贊干布	Sōngzàn Gànbù	Songtsen Gampo	proper noun	\N	\N	历史	History	西藏	Tibet	\N	\N	Tibetan Pinyin: Songzain Gambo; Wylie: Srong-btsan sGam-po; Tibetan: སྲོང་བཙན་སྒམ་པོ་; also translated to English as Songzain Gambo (604&mdash;650) Tibetan emperor, founder of the Tubo 吐蕃 dynasty
 19533	吐蕃	\N	Tǔbō	Tibetan Empire / Tubo	proper noun	\N	\N	历史	History	西藏	Tibet	\N	\N	Tibetan: བོན་ཆེན་པོ; Wiley: bon chen po; old name for Tibet / the Tibetan Tubo dynasty 629 &mdash; 877
@@ -22247,7 +22247,7 @@
 22246	书局	書局	shūjú	book store / publishing house	noun	\N	\N	媒体	Media	\N	\N	\N	\N	\N
 22247	线装书局	線裝書局	Xiàn Zhuāng Xhūjú	Thread-binding Books Publishing House	proper noun	出版史	Publishing House	媒体	Media	\N	\N	\N	\N	\N
 22248	急务	急務	jíwù	an urgent task / a pressing matter	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-22249	小乘	\N	Xiǎochéng	Theravada Buddhism / Hinayana Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The preferred term is 南传佛教 Theravada Buddhism 
+22249	小乘	\N	Xiǎochéng	Theravāda Buddhism / Hinayana Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The preferred term is 南传佛教 Theravāda Buddhism 
 22250	大白	\N	dàbái	to become clear / to become known	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 22251	大白	\N	dàbái	plaster / chalk	noun	\N	\N	物料	Materials	\N	\N	\N	\N	\N
 22252	牛车	牛車	niú chē	an ox-driven cart	noun	\N	\N	交通	Transportation	\N	\N	\N	\N	\N
@@ -26504,7 +26504,7 @@
 26503	康僧铠	康僧鎧	Kāng Sēng Kǎi	Sajghavarman / Sanghavarman / Saņghavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	An Indian monk from the Kushan kingdom who travelled to China and lived at the White Horse Temple in Luoyang.  He translated the Infinite Life Sutra c. 252 CE.
 26504	佛说无量寿经	佛說無量壽經	Wú Liàng Shòu Jīng	The Infinite Life Sutra / The Larger Pure Land Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 26505	仁川	\N	Rénchuān	Incheon	proper noun	城市	City	地方	Places	韩国	South Korea	\N	\N	Hangul: 인천; city in Gyeonggi Province, South Korea; site of the international airport for Seoul
-26506	摩尼	\N	móní	mani / jewel / gem	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; term for jewel or gem; part of the chant 'Om mani padme hum'
+26506	摩尼	\N	móní	mani / jewel / gem	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; term for jewel or gem; part of the chant 'Om mani padme hum'
 26507	摩尼宝珠	摩尼寶珠	móní bǎozhū	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; symbolizing the ability to do as one wishes and also posessing merits, such as being able to cure sickness
 26508	如意宝	如意寶	rúyì bǎo	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; symbolizing the ability to do as one wishes and also posessing merits, such as being able to cure sickness
 26509	如意珠	\N	rúyì zhū	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; symbolizing the ability to do as one wishes and also posessing merits, such as being able to cure sickness
@@ -29252,7 +29252,7 @@
 29251	脩	脩	xiū	to cultivate / to repair	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 29252	脩	脩	xiū	a teacher's pay	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 29253	大正	\N	Dàzhèng	Taishō / Taisho	proper noun	\N	\N	历史	History	日本	Japan	\N	\N	Reign name 1912-1926 of Japanese emperor Yoshihito 嘉仁
-29254	大正新脩大藏经	大正新脩大藏經	Dàzhèng Xīn Xiū Dà Zàng Jīng	Taisho Tripitaka / Taishō Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	日本	Japan	\N	\N	Japanese version of the Chinese Buddhist Canon
+29254	大正新脩大藏经	大正新脩大藏經	Dàzhèng Xīn Xiū Dà Zàng Jīng	Taisho Tripitaka / Taishō Tripiṭaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	日本	Japan	\N	\N	Japanese version of the Chinese Buddhist Canon
 29255	卍续藏	卍續藏	Wàn Xù Zàng	Zokuzokyo Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	日本	Japan	\N	\N	A Japanese version of the Chinese Buddhist Canon
 29256	中华大藏经	中華大藏經	Zhōnghuá Dà Zàng Jīng	Tripitaka Sinica	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	A modern version of the Chinese Buddhist Canon
 29257	蕃大藏经	蕃大藏經	Fán Dà Zàng Jīng	Mi Tripitaka / Tangut Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	The Tangut canon
@@ -35537,10 +35537,25 @@
 35537	圆顿	圓頓	yuán dùn	perfect and sudden	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: yüan-tun. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, approach to calming and contemplation.
 35538	灌顶	灌頂	Guàn Dǐng	Guan Ding	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Disciple of Zhi Yi (智顗, 538—597), key figure of the Tiantai school. Guan Ding wrote down the text of Great Concentration and Insight (摩訶止觀) based on Zhi Yi's lectures.
 35539	慧文	\N	Huì Wén	Hui Wen	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the second patriarch of the Tiantai school.
-35541	慧思	\N	Huì Sī	Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
-35542	四种三昧	四種三昧	sì zhǒng sānmèi	four forms of samādhi	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: ssu chung san-mei. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: (1) constantly sitting (2) constantly walking (3) part walking, part sitting (4) neither sitting nor walking.
-35543	湛然	\N	Zhàn Rán	Zhan Ran	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	711—782, considered the ninth patriarch of the Tiantai school.
-35544	互具	\N	hù jù	interpenetrating unity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that everything in the universe is interconnected.
-35545	俗谛	俗諦	sú dì	mundane truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: paramārtha, Pali: paramattha; refers to the reality of the secular world, without an understanding of dependent origination. Opposed to the real truth 真谛.
-35546	第一义谛	第一諦義	dì yī yì dì	supreme truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that transends both mundane truth 俗谛 and real truth 真谛.
-35547	天台	\N	Tiāntái	Tiantai / T'ien-tai	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	Japanese: Tendai-shū, Wade-Giles: T'ien-tai; one of the Eight Schools of Chinese Buddhism 八大宗派
+35540	慧思	\N	Huì Sī	Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35541	四种三昧	四種三昧	sì zhǒng sānmèi	four forms of samādhi	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: ssu chung san-mei. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: (1) constantly sitting 常坐 (2) constantly walking 常行 (3) part walking, part sitting 半行半坐 (4) neither sitting nor walking 非行非坐.
+35542	湛然	\N	Zhàn Rán	Zhan Ran	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	711—782, considered the ninth patriarch of the Tiantai school.
+35543	互具	\N	hù jù	interpenetrating unity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that everything in the universe is interconnected.
+35544	俗谛	俗諦	sú dì	mundane truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: paramārtha, Pali: paramattha; refers to the reality of the secular world, without an understanding of dependent origination. Opposed to the real truth 真谛.
+35545	第一义谛	第一諦義	dì yī yì dì	supreme truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that transends both mundane truth 俗谛 and real truth 真谛.
+35546	天台	\N	Tiāntái	Tiantai / T'ien-tai	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	Japanese: Tendai-shū, Wade-Giles: T'ien-tai; one of the Eight Schools of Chinese Buddhism 八大宗派
+35547	六即	\N	liù jí	the six identities	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, relating to classification and implications of teachings: (1) 理即 identity in principle, (2) 名字即 verbal identity, (3) 觀行即 identity in meditative practice, (4) 相似即 identity in resemblance, (5) 分真即 identity in increments of truth, and (6) 究竟即 ultimate identity.
+35548	理即	\N	lǐ jí	identity in principle	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35549	名字即	\N	míngzi jí	verbal identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35550	观行即	觀行即	guān xíng jí	identity in meditative practice	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35551	相似即	\N	xiāngsì jí	identity in resemblance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35552	分真即	\N	fèn zhēn jí	identity in increments of truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35553	究竟即	\N	jiūjìng jí	ultimate identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35554	菩萨位	菩薩位	púsà wèi	bodhisattvahood	phrase	\N	\N	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
+35555	醍醐	\N	tíhú	ghee	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35556	常坐	\N	cháng zuò	constantly sitting in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the first of the four forms of samādhi 四种三昧.
+35557	常行	\N	cháng xíng	constantly walking in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the second of the four forms of samādhi 四种三昧.
+35558	半行半坐	\N	bàn xíng bàn zuò	part walking, part sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the third of the four forms of samādhi 四种三昧.
+35559	非行非坐	\N	fēi xíng fēi zuò	neither walking, nor sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the fourth of the four forms of samādhi 四种三昧.
+35560	法华三昧	法華三昧	Fǎ Huá Sānmèi	Lotus Samādhi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	 A type of meditation described by Zhi Yi (智顗, 538—597), of the Tiantai school: a variant of part walking, part sitting meditation 半行半坐
+35561	摩尼珠	\N	móní	mani jewel / a wish fulfilling jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
