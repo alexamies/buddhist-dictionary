@@ -2890,7 +2890,7 @@
 2890	佛教	\N	Fójiào	Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fo2jiao4.mp3	\N
 2891	阿弥陀佛	阿彌陀佛	Āmítuó Fó	Amitabha Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: amitābha, also known as Amitayus
 2892	药师佛	藥師佛	Yàoshī Fó	Medicine Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	medicine_buddha400.jpg	\N	From Sanskrit: bhaiṣajyaguru
-2893	药师经	藥師經	Yàoshī Jīng	Sutra of the Medicine Buddha / Sutra on the Master of Healing	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: bhaiṣajyaguruvaidūryaprabharājasūtram
+2893	药师经	藥師經	Yàoshī Jīng	Sutra of the Medicine Buddha / Sutra on the Master of Healing	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: bhaiṣajyaguruvaidūryaprabharājasūtram
 2894	场	場	chǎng	a place / an open space / a field / a courtyard	noun	\N	\N	建筑学	Architecture	\N	\N	\N	chang3.mp3	\N
 2895	场	場	chǎng	an event	measure word	\N	\N	数量	Quantity	\N	\N	\N	chang3.mp3	Most often used for events such as sports matches and concerts
 2896	馆	館	guǎn	house / establishment / hall	noun	\N	\N	建筑学	Architecture	\N	\N	\N	guan3.mp3	\N
@@ -3167,7 +3167,7 @@
 3167	经	經	jīng	a sutra / a sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	sutra_med.jpg	\N	From Sanskrit: sūtra; synonym discussion; usually refers to words spoken by the Buddha.
 3168	修行	\N	xiūxíng	to cultivate spiritually	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: bhāvanā, Pali: bhāvanā
 3169	藏	\N	zàng	Tripiṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: tripiṭaka, Pali: tipitaka
-3170	佛说八大人觉经	佛說八大人覺經	Fóshuō Bā Dàrén Jué Jīng	Sutra on the Eight Realizations of the Great Beings	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+3170	佛说八大人觉经	佛說八大人覺經	Fóshuō Bā Dàrén Jué Jīng	Sutra on the Eight Realizations of the Great Beings	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 3171	净土	淨土	Jìng Tŭ	Pure Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing4tu3.mp3	\N
 3172	弟子	\N	dìzi	disciple	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 3173	诵念	誦念	sòngnián	to recite / to chant	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
@@ -4072,7 +4072,7 @@
 4071	夜	\N	yè	night	noun	\N	\N	时间	Time	\N	\N	\N	ye4.mp3	\N
 4072	昼夜	晝夜	zhòuyè	day and night	noun	\N	\N	时间	Time	\N	\N	\N	\N	\N
 4073	昼夜	晝夜	zhòuyè	continuously	adverb	\N	\N	时间	Time	\N	\N	\N	\N	\N
-4074	八大人觉	八大人覺	Bā Dà Rén Jué	Sutra on the Eight Realizations of the Great Beings	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+4074	八大人觉	八大人覺	Bā Dà Rén Jué	Sutra on the Eight Realizations of the Great Beings	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 4075	字幕	\N	zìmù	caption / subtitle	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N
 4076	小标题	小標題	xiǎo biāotí	caption / subtitle	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N
 4077	菜刀	\N	cài dāo	meat cleaver / knife	noun	烹调	Cooking	饮食	Food and Drink	\N	\N	\N	\N	\N
@@ -5039,8 +5039,8 @@
 5038	灵活	靈活	línghuó	flexible / nimble / agile	adjective	\N	\N	特点	Characteristic	\N	\N	\N	\N	\N
 5039	般	\N	bān	sort / kind / class / way / manner	noun	\N	\N	种类	Category	\N	\N	\N	ban1.mp3	\N
 5040	蜜	\N	mì	honey	noun	\N	\N	饮食	Food and Drink	\N	\N	\N	mi4.mp3	\N
-5041	心经	心經	Xīnjīng	The Heart Sutra / The Prajñāpāramitā Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: Prajñāpāramitā Hṛdaya
-5042	般若波罗蜜多心经	般若波羅蜜多心經	Bōruòluómìduō Xīnjīng	The Prajnaparamita Heart Sutra / The Prajñāpāramitā Heart Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: Prajñāpāramitā Hṛdaya
+5041	心经	心經	Xīnjīng	The Heart Sutra / The Prajñāpāramitā Heart Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: Prajñāpāramitā Hṛdaya
+5042	般若波罗蜜多心经	般若波羅蜜多心經	Bōruòluómìduō Xīnjīng	The Prajnaparamita Heart Sutra / The Prajñāpāramitā Heart Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: Prajñāpāramitā Hṛdaya
 5043	般若波罗蜜多	般若波羅蜜多	bōruòbōluómìduō	prajnaparamita / prajñāpāramitā / perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: prajñāpāramitā
 5044	照	\N	zhào	to illuminate / to shine / to reflect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zhao4.mp3	\N
 5045	照	\N	zhào	according to / in accordance with	adverb	\N	\N	特点	Characteristic	\N	\N	\N	zhao4.mp3	\N
@@ -6494,7 +6494,7 @@
 6493	金刚	金剛	Jīngāng	Vajra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vajra; literally, diamond
 6494	金刚	金剛	jīngāng	pupa of certain insects	proper noun	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
 6495	金刚	金剛	Jīngāng	King Kong	proper noun	\N	\N	戏剧	Drama	\N	\N	\N	\N	\N
-6496	金刚经	金剛經	Jīngāng Jīng	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
+6496	金刚经	金剛經	Jīngāng Jīng	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
 6497	三皈依	\N	sān guīyī	to take refuge in the triple gem	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 6498	侄女	姪女	zhínǚ	niece	noun	亲戚	Relative	家	Family	\N	\N	\N	\N	\N
 6499	忠	\N	zhōng	loyal	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -7127,8 +7127,8 @@
 7126	我等	\N	wǒděng	we	pronoun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 7127	奉	\N	fèng	to receive / to offer / to revere	verb	\N	\N	行为	Actions	\N	\N	\N	feng4.mp3	\N
 7128	般若波罗蜜	般若波羅蜜	Bōrěluómì	Prajñāpāramitā / Prajnaparamita / Perfection of Wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: prajñāpāramitā, Pali: paññāpāramī
-7129	金刚般若波罗蜜	金剛般若波羅蜜	Jīngāng Bōrěbōluómì	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
-7130	金刚般若波罗蜜经	金剛般若波羅蜜經	Jīngāng Bōrěbōluómì Jīng	Prajnaparamita Diamond Sutra / Prajñāpāramitā Diamond Sūtra / Diamond Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
+7129	金刚般若波罗蜜	金剛般若波羅蜜	Jīngāng Bōrěbōluómì	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
+7130	金刚般若波罗蜜经	金剛般若波羅蜜經	Jīngāng Bōrěbōluómì Jīng	Prajnaparamita Diamond Sutra / Prajñāpāramitā Diamond Sūtra / Diamond Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
 7131	名	\N	míng	name	noun	\N	\N	语言	Language	\N	\N	\N	ming2.mp3	\N
 7132	涕	\N	tì	nasal mucus / tears	noun	\N	\N	健康	Health	\N	\N	\N	ti4.mp3	\N
 7133	泣	\N	qì	to sob	verb	\N	\N	感情	Emotion	\N	\N	\N	qi4.mp3	\N
@@ -8847,7 +8847,7 @@
 8846	相	\N	xiàng	countenance / personage / quality / character / disposition	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xiang4.mp3	\N
 8847	摩诃萨	摩訶薩	móhēsà	mahasattva / mohasattva / mahāsattva / a great being	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: mahāsattva, a 'great bodhisattva', one explicitly defined by their devotion to salvation of all beings through bodhicitta.
 8848	妙	\N	miào	small	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-8849	妙	\N	miào	subtle mysterious / profound / abstruse / beyond conception	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As used by Zhiyi of the Tiantai school and others. Zhiyi remarked in the Fa Hua Xuan Yi that "That which is beyond conceptualization is called subtle." (Swanson 1989, p 15)
+8849	妙	\N	miào	subtle mysterious / profound / abstruse / beyond conception	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As used by Zhi Yi of the Tiantai school and others. Zhi Yi remarked in the Fa Hua Xuan Yi that "That which is beyond conceptualization is called subtle." (Swanson 1989, p 15)
 8850	玄妙	\N	xuánmiào	mysterious / profound / abstruse	adjective	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 8851	住	\N	zhù	to attach / to abide	verb	\N	\N	佛教	Buddhism	\N	\N	\N	zhu4.mp3	From Sanskrit: pratiṣṭhita
 8852	语气词	語氣詞	yǔqìcí	a modal particle	noun	\N	\N	语法	Grammar	\N	\N	\N	\N	\N
@@ -9114,7 +9114,7 @@
 9113	烧香	燒香	shāoxiāng	to burn incense	verb	\N	\N	习俗	Customs	\N	\N	huanglong_temple_med.jpg	shao1xiang1.mp3	\N
 9114	供物	\N	gòngwù	offering	noun	\N	\N	习俗	Customs	\N	\N	\N	\N	\N
 9115	表	\N	biǎo	to indicate / to represent	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	biao3.mp3	\N
-9116	大智度论	大智度論	Dà Zhì Dù Lùn	Great Treatise on the Perfection of Wisdom / Treatise on the Perfection of Great Wisdom / Commentary on the Great Perfection of Wisdom /  Mahāprajñāpāramitaśastra / Māhaprajñāparamitopadeśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	da4zhi4du4lun4.mp3	Attributed to Nāgārjuna.  Translated in the Later Qin by Kumārajīva, Taisho No. 1509.
+9116	大智度论	大智度論	Dà Zhì Dù Lùn	Great Treatise on the Perfection of Wisdom / Treatise on the Perfection of Great Wisdom / Commentary on the Great Perfection of Wisdom /  Mahāprajñāpāramitaśastra / Māhaprajñāparamitopadeśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	da4zhi4du4lun4.mp3	Attributed to Nāgārjuna. Translated in the Later Qin by Kumārajīva, T 25 1509.
 9117	贵人多忘事	貴人多忘事	guì rén duō wàng shì	a person of eminence has a short memory	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 9118	可乐	可樂	kělè	cola	noun	饮料	Beverage	饮食	Food and Drink	\N	\N	\N	\N	\N
 9119	诚心	誠心	chéngxīn	sincerity	noun	\N	\N	道德	Ethics	\N	\N	\N	cheng2xin1.mp3	\N
@@ -11840,7 +11840,7 @@
 11839	笼	籠	lóng	basket / cage	noun	\N	\N	容器	Container	\N	\N	\N	long2.mp3	Often refers to the flat bamboo basket used to serve jiaozi (餃子) or baozi (包子)
 11840	灯笼	燈籠	dēnglóng	lantern	noun	\N	\N	光纤	Light	\N	\N	\N	\N	\N
 11841	般若	\N	bōrě	prajna / great wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: prajñā, Pali: paññā; including the three kinds of prajna: (1) prajna of true reality 实相般若, (2) prajna of contemplation 观照般若, and (3) prajna of skillfull means 方便般若
-11842	大般若经	大般若经經	Dà Bānruò Jīng	Mahaprajnaparamita Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+11842	大般若经	大般若經	Dà Bānruò Jīng	Mahaprajnaparamita Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 11843	篇幅	\N	piānfu	the length of a book or document	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 11844	现行	現行	xiànxíng	in effect / in force / popular	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 11845	意蕴	意蘊	yìyùn	inner meaning / implication / connotation	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -17385,7 +17385,7 @@
 17384	佛珠	\N	Fózhū	prayer beads / rosary	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 17385	念珠	唸珠	niàn zhū	prayer beads / rosary	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 17386	朝珠	\N	cháo zhū	court beads	noun	配饰	Jewelry	历史	History	\N	\N	\N	\N	Derived from Buddhist prayer beads
-17387	圆觉经	圓覺經	Yuán Jué Jīng	Sutra of Perfect Enlightenment	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+17387	圆觉经	圓覺經	Yuán Jué Jīng	Sutra of Perfect Enlightenment	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 17388	蔡	\N	Cài	Cai	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	cai4.mp3	\N
 17389	竞拍	競拍	jìngpāi	to auction	verb	\N	\N	商务	Commerce	\N	\N	\N	\N	\N
 17390	国家文物局	國家文物局	Guójiā Wénwù Jú	PRC State Administration of Cultural Heritage (SACH)	proper noun	\N	\N	政府	Government	\N	\N	\N	\N	\N
@@ -17441,7 +17441,7 @@
 17440	相	\N	xiāng	to aid	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xiang1.mp3	\N
 17441	梁	\N	Liáng	City of Liang	proper noun	城市	City	历史	History	中国	China	\N	\N	Capital of the state of Wei in the Warring States Period
 17442	诘	詰	jié	to investigate / to restrain / to scold	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	jie2.mp3	\N
-17443	维摩诘经	維摩詰經	Wéimójié Jīng	Vimalakirti Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Also known as the Vimalakirti Nirdesa Sutra
+17443	维摩诘经	維摩詰經	Wéimójié Jīng	Vimalakīrti Sūtra / Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vimalakīrti nirdeśa sūtra, also known as the Vimalakirti Nirdesa Sutra
 17444	南海	\N	Nán Hǎi	South China Sea	proper noun	海	Sea	地理	Geography	亚洲	Asia	\N	\N	\N
 17445	北海	\N	Běi Hǎi	Bohai Sea	proper noun	海	Sea	地理	Geography	亚洲	Asia	\N	\N	\N
 17446	练实	練實	liànshí	bamboo seeds	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -17767,7 +17767,7 @@
 17766	悉达多	悉達多	Xīdáduō	Siddhartha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	given name of the Buddha
 17767	上座部	\N	Shàngzuòbù	Sthaviravada	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: sthaviravāda, early Buddhist school, literally meaning <em>Teaching Of The Elders</em>
 17768	法轮	法輪	fǎlún	Dharma Wheel / Dharmacakra	proper noun	\N	\N	佛教	Buddhism	\N	\N	falun_dacheng400.jpg	\N	From Sanskrit: dharmacakra, Pali: dhammacakka, the eight spokes of the Dharma Wheel represent the eight elements of the path
-17769	华严经	華嚴經	Huáyán Jīng	Avatamsaka Sutra / Avataṃsaka Sūtra / Flower Garland Sutra / Flower Adornment Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Buddhāvatajsaka-mahāvaipulya-sūtra, also known as the Buddhavatamsaka-mahavaipulya Sutra
+17769	华严经	華嚴經	Huáyán Jīng	Avatamsaka Sutra / Avataṃsaka Sūtra / Flower Garland Sutra / Flower Adornment Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Buddhāvatajsaka-mahāvaipulya-sūtra, also known as the Buddhavatamsaka-mahavaipulya Sutra
 17770	傍	\N	páng	border / side	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17771	禳	\N	ráng	to sacrifice for avoiding a calamity	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 17772	豚	\N	tún	a suckling pig	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	tun2.mp3	\N
@@ -18185,7 +18185,7 @@
 18184	观象台	觀象臺	guānxiàng tái	observatory / observation platform	noun	\N	\N	天文	Astronomy	\N	\N	\N	\N	\N
 18185	古观象台	古觀象臺	Gǔ guānxiàng Tái	Ancient Observatory	proper noun	名胜古迹	Historical Sites and Scenic Places	历史	History	北京	Beijing	beijing_observatory080307_400.jpg	\N	\N
 18186	东堂	東堂	Dōng Táng	Saint Joseph's Church	proper noun	名胜古迹	Historical Sites and Scenic Places	历史	History	北京	Beijing	\N	\N	\N
-18187	六祖坛经	六祖壇經	Liù Zǔ Tán Jīng	Platform Sutra of the Sixth Patriarch	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18187	六祖坛经	六祖壇經	Liù Zǔ Tán Jīng	Platform Sutra of the Sixth Patriarch	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18188	惠能	\N	Huì Néng	Hui Neng	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Also written as 慧能 (638–713), the Sixth Patriarch of the Chan (Zen) tradition
 18189	弘忍	\N	Hóng Rěn	Hong Ren	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	(601 - 674), the Fifth Patriarch of the Chan (Zen) tradition
 18190	颐和园	頤和園	Yí Hé Yuán	Summer Palace	proper noun	名胜古迹	Historical Sites and Scenic Places	历史	History	北京	Beijing	\N	\N	\N
@@ -18420,7 +18420,7 @@
 18419	前台	前臺	qiántái	front desk / reception desk	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 18420	致电前台	致電前臺	zhìdiàn qiántái	reception desk	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 18421	投影仪	投影儀	tóuyǐngyí	a projector	noun	\N	\N	光纤	Light	\N	\N	\N	\N	\N
-18422	六组坛经	六組壇經	Liùzǔ Tánjīng	Platform Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18422	六组坛经	六組壇經	Liùzǔ Tánjīng	Platform Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18423	敦煌	\N	Dūnhuáng	Dunhuang	proper noun	城市	City	佛教	Buddhism	甘肃	Gansu	\N	\N	\N
 18424	某高窟	\N	Mǒugāo Kū	Mogao Caves	proper noun	石窟	Grottoes	佛教	Buddhism	甘肃	Gansu	\N	\N	The grottoes at Dunhuang
 18425	敦博	\N	Dūn Bó	Dunhuang Museum	proper noun	博物馆	Museum	佛教	Buddhism	甘肃	Gansu	\N	\N	\N
@@ -18434,7 +18434,7 @@
 18433	韶	\N	sháo	excellent / harmonious	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	xin1.mp3	\N
 18434	韶州	\N	Sháozhōu	Shaozhou	proper noun	地方	Place	佛教	Buddhism	\N	\N	\N	\N	The place where Hui Neng delivered the Platform Sutra
 18435	大梵寺	\N	Dàfàn Sì	Dafan Temple	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	The temple where Hui Neng delivered the Platform Sutra
-18436	坛经	壇經	Tán Jīng	Platform Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18436	坛经	壇經	Tán Jīng	Platform Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18437	无相戒	無相戒	Wú Xiāng Jiè	Formless Precepts	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 18438	法海	\N	Fǎ Hǎi	Fa Hai	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	\N
 18439	招标	招標	zhāobiāo	to invite bids	verb	\N	\N	财会	Finance and Accounting	\N	\N	\N	\N	\N
@@ -18507,8 +18507,8 @@
 18506	教授师	教授師	jiàoshòu shī	precpt instructor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 18507	楞	\N	léng	corner / square beam / edge / arris	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	variant of 棱
 18508	楞	\N	lèng	to look distracted / to stare blankly	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
-18509	楞伽经	楞伽經	Léngjiā Jīng	Lankavatara Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: laṅkāvatāra sūtra
-18510	楞伽	楞伽	Léngjiā	Lankavatara Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: laṅkāvatāra sūtra
+18509	楞伽经	楞伽經	Léngjiā Jīng	Lankavatara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: laṅkāvatāra sūtra
+18510	楞伽	楞伽	Léngjiā	Lankavatara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: laṅkāvatāra sūtra
 18511	首都师范大学	首都師範大學	Shǒudū Shīfàn Dàxué	Capital Normal University	proper noun	大学	University	教育	Education	北京	Beijing	\N	\N	<a href='http://www.cnu.edu.cn/'>www.cnu.edu.cn</a>
 18512	弟子规	弟子規	Dì Zi Guī	Di Zi Gui	proper noun	经典	Classic	古文	Classical Chinese	儒家	Confucianism	\N	\N	Literally, Standards for being a Good Student and Child, Di Zi Gui is an ancient book based on the teaching of Confucius 
 18513	三字经	三字經	Sān Zì Jīng	San Zi Jing / Three character classic	proper noun	书	Book	古文	Classical Chinese	儒家	Confucianism	\N	\N	a 13th century reading primer consisting of Confucian tenets in lines of 3 characters 
@@ -18606,7 +18606,7 @@
 18605	诤	諍	zhèng	to admonish	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	zheng4.mp3	\N
 18606	负	負	fù	to lose	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu4.mp3	\N
 18607	四相	\N	sì xiāng	four notions / four forms / four manifestations of self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the Diamond Sutra, the four notions or forms are notion of self 我相、 notions of people 人相、 notions of sentient beings 众生相、 and notions of a lifespan 寿者相.
-18608	净名经	淨名經	Jìng Míng Jīng	Vimalakirti Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18608	净名经	淨名經	Jìng Míng Jīng	Vimalakīrti Sūtra / Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vimalakīrti nirdeśa sūtra
 18609	莜	\N	yóu	Avena nuda / naked oats	noun	粮食	Grains	饮食	Food and Drink	\N	\N	\N	you2.mp3	\N
 18610	龙眼	龍眼	lóngyǎn	longan	noun	水果	Fruit	饮食	Food and Drink	\N	\N	\N	\N	\N
 18611	谄	諂	chǎn	to flatter / to cajole	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	chan3.mp3	\N
@@ -18666,57 +18666,57 @@
 18665	肇事	\N	zhàoshì	to cause trouble	verb	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 18666	交警	\N	jiāojǐng	traffic police	noun	\N	\N	公安	Public Security	\N	\N	\N	\N	An acronym for 交通警察
 18667	交通警察	\N	jiāotōng jǐngchá	traffic police	noun	\N	\N	公安	Public Security	\N	\N	\N	\N	Acronym is 交警
-18668	阿弥陀经	阿彌陀經	Āmítuó Jīng	The Amitabha Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18669	净土佛摄受经	凈土佛攝受經	Jìng Tŭ Fó Shè Shòu Jīng	The Avatamsaka Sutra / The Flower Adornment Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18670	佛遗教经	佛遺教經	Fó Yí Jiāo Jīng	The Sutra On The Buddha's Bequeathed Teaching	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18671	梵网经	梵網經	Fàn Wǎng Jīng	The Brahma Net Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18668	阿弥陀经	阿彌陀經	Āmítuó Jīng	The Amitabha Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18669	净土佛摄受经	凈土佛攝受經	Jìng Tŭ Fó Shè Shòu Jīng	The Avatamsaka Sutra / The Flower Adornment Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18670	佛遗教经	佛遺教經	Fó Yí Jiāo Jīng	The Sutra On The Buddha's Bequeathed Teaching	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18671	梵网经	梵網經	Fàn Wǎng Jīng	The Brahma Net Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18672	箧	篋	qiè	a portfolio / a trunk	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 18673	陀罗尼	陀羅尼	tuóluóní	a dharani / an incantation	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	From Sanskrit: dhāraṇī
-18674	一切如来心秘密全身舍利宝箧陀罗尼经	一切如來心祕密全身舍利寶篋陀羅尼經	Yīqiè Rúlái Xīn Mìmì Quánshēn Shèlì Bǎo Qiè Tuóluóní Jīng	The Sutra Of Casket Seal Dharani From The Secrete Whole Bodies Relics Of All Buddhas' Hearts	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18675	悲华经	悲華經	Bēi Huà Jīng	The Compassionate Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18676	大方广圆觉修多罗了义经	大方廣圓覺修多羅了義經	Dàfang Guǎng Yuán Jué xiū Duō Luó Le yì Jīng	The Perfect Enlightenment Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18677	四十二章经	四十二章經	Sì Shí è Zhāng Jīng	The Sutra of Forty-Two Sections	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18678	金光明经	金光明經	Jīn Guāngmíng Jīng	The Golden Light Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: suvarṇaprabhāsottamasūtrendrarājaḥ
+18674	一切如来心秘密全身舍利宝箧陀罗尼经	一切如來心祕密全身舍利寶篋陀羅尼經	Yīqiè Rúlái Xīn Mìmì Quánshēn Shèlì Bǎo Qiè Tuóluóní Jīng	The Sutra Of Casket Seal Dharani From The Secrete Whole Bodies Relics Of All Buddhas' Hearts	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18675	悲华经	悲華經	Bēi Huà Jīng	The Compassionate Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18676	大方广圆觉修多罗了义经	大方廣圓覺修多羅了義經	Dàfang Guǎng Yuán Jué xiū Duō Luó Le yì Jīng	The Perfect Enlightenment Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18677	四十二章经	四十二章經	Sì Shí è Zhāng Jīng	The Sutra of Forty-Two Sections	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18678	金光明经	金光明經	Jīn Guāngmíng Jīng	The Golden Light Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: suvarṇaprabhāsottamasūtrendrarājaḥ
 18679	观世音	觀世音	Guānshìyīn	Avalokitesvara / Avalokiteśvara / Guanyin	proper noun	菩萨	bodhisattva	佛教	Buddhism	\N	\N	nanhai_guanyinxiang400.jpg	\N	From Sanskrit: avalokiteśvara; the bodhisattva of Compassion
-18680	佛说高王观世音经	佛說高王觀世音經	Fó Shuō Gāo Wáng Guānshìyīn Jīng	The High King Avalokitesvara Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18681	百喻经	百喻經	Bǎi Yù Jīng	The Hundred Parables Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18682	佛说俱利伽罗大龙胜外道伏陀罗尼经	佛說俱利伽羅大龍勝外道伏陀羅尼經	Fó Shuō Jūlìjiāluó Dà Lóng Shèng Wài Dào Fú Tuóluóní Jīng	Sutra on the Great Dragon Krkala's Defeating the Exterior-Path Practitioners	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18683	大乘无量寿庄严经	大乘無量壽莊嚴經	Dàchéng Wú Liàng Shòu Zhuāngyán Jīng	The Great Vehicle Infinite Life Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18684	无量寿经	無量壽經	Wú Liàng Shòu Jīng	The Infinite Life Sutra / The Larger Pure Land Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18680	佛说高王观世音经	佛說高王觀世音經	Fó Shuō Gāo Wáng Guānshìyīn Jīng	The High King Avalokitesvara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18681	百喻经	百喻經	Bǎi Yù Jīng	The Hundred Parables Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18682	佛说俱利伽罗大龙胜外道伏陀罗尼经	佛說俱利伽羅大龍勝外道伏陀羅尼經	Fó Shuō Jūlìjiāluó Dà Lóng Shèng Wài Dào Fú Tuóluóní Jīng	Sutra on the Great Dragon Krkala's Defeating the Exterior-Path Practitioners	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18683	大乘无量寿庄严经	大乘無量壽莊嚴經	Dàchéng Wú Liàng Shòu Zhuāngyán Jīng	The Great Vehicle Infinite Life Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18684	无量寿经	無量壽經	Wú Liàng Shòu Jīng	The Infinite Life Sutra / The Larger Pure Land Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18685	风马旗	風馬旗	fēng mǎ qí	prayer flags	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-18686	观无量寿佛经	觀無量壽佛經	Guān Wú Liàng Shòu Fó Jīng	The Sutra on the Visualization of the Buddha of Infinite Lifespan / Amitayurdhyana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: amitāyurdhyāna sūtra
+18686	观无量寿佛经	觀無量壽佛經	Guān Wú Liàng Shòu Fó Jīng	The Sutra on the Visualization of the Buddha of Infinite Lifespan / Amitayurdhyana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: amitāyurdhyāna sūtra
 18687	地藏王	\N	Dìzàng Wáng	Ksitigarbha / the bodhisattva of the Great Vow	proper noun	菩萨	bodhisattva	佛教	Buddhism	\N	\N	\N	\N	\N
-18688	地藏王菩萨本愿经	地藏王菩薩本願經	Dìzàng Wáng Púsà Běn Yuàn Jīng	The Ksitigarbha bodhisattva Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18689	楞伽阿跋多罗宝经	楞伽阿跋多羅寶經	Léngjiāabáduō Luó Bǎo Jīng	Lankavatara Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18690	佛说长寿灭罪护诸童子陀罗尼经	佛說長壽滅罪護諸童子陀羅尼經	Fó Shuō Chángshòu Miè Zuì Hù Zhū Tóngzǐ Tuóluóní Jīng	The Dharani Sutra on Longevity, The Extinction of Offences, And the Protection of Young Children	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18691	妙法莲花经	妙法莲華經	Miào Fǎ Liánhuā Jīng	The Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram
+18688	地藏王菩萨本愿经	地藏王菩薩本願經	Dìzàng Wáng Púsà Běn Yuàn Jīng	The Ksitigarbha bodhisattva Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18689	楞伽阿跋多罗宝经	楞伽阿跋多羅寶經	Léngjiāabáduō Luó Bǎo Jīng	Lankavatara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18690	佛说长寿灭罪护诸童子陀罗尼经	佛說長壽滅罪護諸童子陀羅尼經	Fó Shuō Chángshòu Miè Zuì Hù Zhū Tóngzǐ Tuóluóní Jīng	The Dharani Sutra on Longevity, The Extinction of Offences, And the Protection of Young Children	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18691	妙法莲花经	妙法莲華經	Miào Fǎ Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram
 18692	妙法	\N	miào fǎ	the wonderful Dharma / the wonderful truth / saddharma / the Dharma / the teachings of the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharma
 18693	胝	\N	zhī	a callous	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	zhi1.mp3	\N
 18694	淮	\N	huái	name of a river	proper noun	\N	\N	地方	Places	安徽	Anhui	\N	huai2.mp3	\N
-18695	七俱胝佛母所说淮提陀罗尼经	七俱胝佛母所说淮提陀羅尼經	Qī Jū Zhī Fó Mǔ Suǒ Shuō Huái Tí Tuóluóní Jīng	The Maha-Cundi Dharani Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18696	大般涅槃经	大般涅槃經	Dà Bān Nièpán Jīng	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18697	佛说大乘庄严宝王经	佛說大乘莊嚴寶王經	Fó Shuō Dàchéng Zhuāngyán Bǎo Wáng Jīng	The Mahayana Sublime Treasure King Sutra / Karandavyuha Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: kāraṇḍavyūha sūtra, notable for introducing the mantra Om mani padme hum
+18695	七俱胝佛母所说淮提陀罗尼经	七俱胝佛母所说淮提陀羅尼經	Qī Jū Zhī Fó Mǔ Suǒ Shuō Huái Tí Tuóluóní Jīng	The Maha-Cundi Dharani Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18696	大般涅槃经	大般涅槃經	Dà Bān Nièpán Jīng	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 12 375
+18697	佛说大乘庄严宝王经	佛說大乘莊嚴寶王經	Fó Shuō Dàchéng Zhuāngyán Bǎo Wáng Jīng	The Mahayana Sublime Treasure King Sutra / Karandavyuha Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: kāraṇḍavyūha sūtra, notable for introducing the mantra Om mani padme hum
 18698	文殊	\N	Wénshū	Manjushri / Manjusri	proper noun	菩萨	bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	feilaifeng_wenshu400.jpg	\N	From Sanskrit: mañjuśrī; the bodhisattva of keen awareness
-18699	文殊师利所说不思议佛境界经	文殊師利所說不思議佛境界經	Wénshū Shī lì Suǒ Shuō Bù Sīyì Fó Jìngjiè Jīng	Manjusri speaks the Inconceivable State of Buddhahood Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18700	洽佛功德经	洽佛功德經	Qià Fó Gōngdé Jīng	The Sutra On The Merit Of Bathing The Buddha	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18701	譬喻经	譬喻经	Pìyù Jīng	The Parable Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18702	父母恩重难报经	父母恩重難报經	Fùmǔ Ēn Zhòng Nán Bào Jīng	The Sutra about The Parents' Deep Kindness and The Difficulty in Repaying It	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18703	佛说佛母出生三法藏版若波罗蜜经	佛說佛母出生三法藏版若波羅蜜經	Fó Shuō Fó Mǔ Chūshēng Sān Fǎ Zàng Bǎnruò Bōluómì Jīng	The Prajna Paramita Sutra on the Buddha-Mother's Producing the Three Dharma Treasuries	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18704	佛说观普贤菩萨行法经	佛說觀普賢菩薩行法經	Fó Shuō Guānxián Xián Púsà Xíng Fǎ Jīng	The Samantabhadra Contemplation Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18699	文殊师利所说不思议佛境界经	文殊師利所說不思議佛境界經	Wénshū Shī lì Suǒ Shuō Bù Sīyì Fó Jìngjiè Jīng	Manjusri speaks the Inconceivable State of Buddhahood Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18700	洽佛功德经	洽佛功德經	Qià Fó Gōngdé Jīng	The Sutra On The Merit Of Bathing The Buddha	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18701	譬喻经	譬喻经	Pìyù Jīng	The Parable Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18702	父母恩重难报经	父母恩重難报經	Fùmǔ Ēn Zhòng Nán Bào Jīng	The Sutra about The Parents' Deep Kindness and The Difficulty in Repaying It	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18703	佛说佛母出生三法藏版若波罗蜜经	佛說佛母出生三法藏版若波羅蜜經	Fó Shuō Fó Mǔ Chūshēng Sān Fǎ Zàng Bǎnruò Bōluómì Jīng	The Prajna Paramita Sutra on the Buddha-Mother's Producing the Three Dharma Treasuries	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18704	佛说观普贤菩萨行法经	佛說觀普賢菩薩行法經	Fó Shuō Guānxián Xián Púsà Xíng Fǎ Jīng	The Samantabhadra Contemplation Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18705	普贤	普賢	Pǔxián	Samantabhadra	proper noun	菩萨	bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	From Sanskrit: Samantabhadra, the Lord of Truth
 18706	吒	\N	zhà	upbraid	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-18707	僧伽吒经	僧伽吒經	Sēng Jiā Zhà Jīng	The Sanghata Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18708	楞严经	楞嚴經	Léng Yán Jīng	The Shurangama Sutra / Śūraṅgama Sūtra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18707	僧伽吒经	僧伽吒經	Sēng Jiā Zhà Jīng	The Sanghata Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18708	楞严经	楞嚴經	Léng Yán Jīng	The Shurangama Sutra / Śūraṅgama Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18709	鬘	\N	mán	beautiful hair	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-18710	胜鬘师子吼一乘大方便方广经	勝鬘師子吼一乘大方便方廣经經	Shèng Mán Shī Zǐ Hǒu Yī Chéng Dàfang Biàn Fāng Guǎng Jīng	The Srimala Simhanada Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18711	大方广如来藏经	大方廣如來藏經	Dàfang Guǎng Rúlái Cáng Jīng	Tathagata-garbha Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18712	大方广如来不恩议境界经	大方廣如來不恩議境界經	Dàfang Guǎng Rúlái Bù Ēn yì Jìngjiè Jīng	The Tathagata's Inconceivable State Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18713	十善业道经	十善業道經	Shí Shàn Yè Dào Jīng	The Ten Wholesome Ways of Actions Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18714	千手千眼观世音菩萨大圆满无碍大悲心陀罗尼经	千手千眼觀世音菩薩大圓滿無礙大悲心陀羅尼經	Qiān Shǒu Qiān Yǎn Guānshìyīn Púsà Dà Yuánmǎn Wú ài Dà Bēi Xīn Tuóluóní Jīng	Thousand-Handed and Thousand-Eyed Avalokitesvara bodhisattva's Vast, Perfect, Unimpeded, Great-Compassionate Heart Dharani Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18715	盂兰盆经	盂蘭盆經	Yú Lán Pén Jīng	The Ullambana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18716	无量义经	無量義經	Wú Liàng yì Jīng	The Sutra of Unmeasured Principles	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18717	佛顶尊胜陀罗尼经	佛頂尊勝陀羅尼經	Fó Dǐng Zūn Shèng Tuóluóní Jīng	The Usnisa Vijaya Dharani Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-18718	金刚三昧经	金剛三昧經	Jīngāng Sānmèi Jīng	The Vajra Samadhi Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18710	胜鬘师子吼一乘大方便方广经	勝鬘師子吼一乘大方便方廣经經	Shèng Mán Shī Zǐ Hǒu Yī Chéng Dàfang Biàn Fāng Guǎng Jīng	The Srimala Simhanada Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18711	大方广如来藏经	大方廣如來藏經	Dàfang Guǎng Rúlái Cáng Jīng	Tathagata-garbha Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18712	大方广如来不恩议境界经	大方廣如來不恩議境界經	Dàfang Guǎng Rúlái Bù Ēn yì Jìngjiè Jīng	The Tathagata's Inconceivable State Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18713	十善业道经	十善業道經	Shí Shàn Yè Dào Jīng	The Ten Wholesome Ways of Actions Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18714	千手千眼观世音菩萨大圆满无碍大悲心陀罗尼经	千手千眼觀世音菩薩大圓滿無礙大悲心陀羅尼經	Qiān Shǒu Qiān Yǎn Guānshìyīn Púsà Dà Yuánmǎn Wú ài Dà Bēi Xīn Tuóluóní Jīng	Thousand-Handed and Thousand-Eyed Avalokitesvara bodhisattva's Vast, Perfect, Unimpeded, Great-Compassionate Heart Dharani Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18715	盂兰盆经	盂蘭盆經	Yú Lán Pén Jīng	The Ullambana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18716	无量义经	無量義經	Wú Liàng yì Jīng	The Sutra of Unmeasured Principles	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18717	佛顶尊胜陀罗尼经	佛頂尊勝陀羅尼經	Fó Dǐng Zūn Shèng Tuóluóní Jīng	The Usnisa Vijaya Dharani Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+18718	金刚三昧经	金剛三昧經	Jīngāng Sānmèi Jīng	The Vajra Samadhi Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 18719	微分学	微分學	wēifēn xué	calculus	noun	\N	\N	数学	Mathematics	\N	\N	\N	\N	\N
 18720	微分	微分	wēifēn	calculus	noun	\N	\N	数学	Mathematics	\N	\N	\N	\N	\N
 18721	分析学	分析學	fēnxī xué	mathematical analysis	noun	\N	\N	数学	Mathematics	\N	\N	\N	\N	\N
@@ -19624,15 +19624,15 @@
 19623	韩式拌饭	韓式拌飯	Hán shì bàn fàn	bibimbab	noun	韩国料理	Korean Cuisine	饮食	Food and Drink	\N	\N	\N	\N	A mixture of cold rice, vegetables, egg, and meat
 19624	韩国料理	韓國料理	Hánguó Liàolǐ	Korean Cuisine	noun	韩国料理	Korean Cuisine	饮食	Food and Drink	\N	\N	\N	\N	\N
 19625	安息国	安息國	Ānxī Guó	Parthia	proper noun	\N	\N	历史	History	\N	\N	\N	\N	\N
-19626	智顗	\N	Zhìyǐ	Zhiyi / Chih-i	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chih-i. (538&mdash;597), fourth patriarch of the Tiantai School of Buddhism
+19626	智顗	\N	Zhìyǐ	Zhi Yi / Chih-i	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chih-i. (538&mdash;597), fourth patriarch of the Tiantai School of Buddhism
 19627	天台山	\N	Tiāntái Shān	Mount Tiantai	proper noun	山	Mountain	地方	Places	浙江	Zhejiang	\N	\N	\N
-19628	妙法莲华经	妙法蓮華經	Miàofǎ Liánhuá Jīng	The Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram, T9 No. 0262, seven scrolls <a href='http://tripitaka.cbeta.org/T09n0262'>http://tripitaka.cbeta.org/T09n0262</a>
-19629	莲华经	蓮華經	Liánhuā Jīng	The Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram, T9 No. 0262, seven scrolls <a href='http://tripitaka.cbeta.org/T09n0262'>http://tripitaka.cbeta.org/T09n0262</a>
-19630	莲花经	蓮花經	Liánhuā Jīng	The Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram, T9 No. 0262, seven scrolls <a href='http://tripitaka.cbeta.org/T09n0262'>http://tripitaka.cbeta.org/T09n0262</a>
+19628	妙法莲华经	妙法蓮華經	Miàofǎ Liánhuá Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram, T9 No. 0262, seven scrolls <a href='http://tripitaka.cbeta.org/T09n0262'>http://tripitaka.cbeta.org/T09n0262</a>
+19629	莲华经	蓮華經	Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram, T9 No. 0262
+19630	莲花经	蓮花經	Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharmapuṇḍarīkasūtram, T9 No. 0262, seven scrolls <a href='http://tripitaka.cbeta.org/T09n0262'>http://tripitaka.cbeta.org/T09n0262</a>
 19631	实相	實相	shíxiàng	true appearance / the actual situation / the ultimate essence of things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: bhūtasaṃjñā
 19632	吉藏	\N	Jí Zàng	Ji Zang	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	(549&mdash;623 CE), founder of the Sanlun School of Buddhism
-19633	龙树	龍樹	Lóng Shù	Nagarjuna	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	From Sanskrit: nāgārjuna (c. 150 - 250 CE) founder of the Madhyamaka school of Mahayana Buddhism
-19634	中论	中論	Zhōng Lùn	Fundamental Verses on the Middle Way / Knowledge of the Middle Way / Mulamadhyamakakarika / madhyamakasastra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: mūlamadhyamakakārikā, or madhyamakaśāstra, a key text in Mahayana Buddhism by Nagarjuna
+19633	龙树	龍樹	Lóng Shù	Nāgārjuna	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	From Sanskrit: nāgārjuna, (c. 150 - 250 CE) founder of the Madhyamaka school of Mahayana Buddhism
+19634	中论	中論	Zhōng Lùn	Fundamental Verses on the Middle Way / Knowledge of the Middle Way / Mulamadhyamakakarika / madhyamakasastra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘	Mahayana	\N	\N	From Sanskrit: mūlamadhyamakakārikā, or madhyamakaśāstra, a key text in Mahayana Buddhism by Nagarjuna (T 30 1564).
 19635	典籍	\N	diǎnjí	canonical text	proper noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 19636	十二门论	十二門論	Shí'èr Mén Lùn	Dvadasa-nikaya-sastra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘	Mahayana	\N	\N	A key text in Mahayana Buddhism by Nagarjuna
 19637	百论	百論	Bǎi Lùn	Sata-sastra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘	Mahayana	\N	\N	A key text in Mahayana Buddhism by Deva
@@ -19665,8 +19665,8 @@
 19664	庐山	廬山	Lúshān	Mt Lushan	proper noun	山	Mountain	地方	Places	江西	Jiangxi	\N	\N	\N
 19665	弥陀	彌陀	Mítuó	Amithaba Buddha / Amitabha Buddha	proper noun 	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: amitābha
 19666	极乐世界	極樂世界	jílè shìjiè	Western Pure Land / Sukhavati	proper noun 	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: sukhāvatī, established by Amitabha
-19667	观无量寿经	觀無量壽經	Guān Wú Liàng Shòu Jīng	Contemplation Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-19668	观无量寿佛经	觀無量壽佛經	Guān Wú Liàng Shòu Fó Jīng	Contemplation Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+19667	观无量寿经	觀無量壽經	Guān Wú Liàng Shòu Jīng	Contemplation Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+19668	观无量寿佛经	觀無量壽佛經	Guān Wú Liàng Shòu Fó Jīng	Contemplation Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 19669	世亲	世親	Shì Qīn	Vasubandhu / vasubandu	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	From Sanskrit: vasubandu
 19670	善无畏	善無畏	Shàn Wú Wèi	Subhakarasimha	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	(637 &mdash; 735) known for the introduction of Tantric Buddhism to China
 19671	金刚智	金剛智	Jīngāng Zhì	Vajrabodhi	proper noun	师父	Venerable	佛教	Buddhism	印度	India	\N	\N	(669 &mdash; 741) known for the introduction of Tantric Buddhism to China
@@ -19988,7 +19988,7 @@
 19987	称	稱	chèn	to call / to call / to address	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 19988	锦上添花	錦上添花	jǐn shàng tiān huā	to make something even better	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	Literally, to add flowers to the brocade
 19989	雪中送炭	\N	xuě zhōng sòng tàn	to provide help when it is most needed	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	Literally, to send coal during snow
-19990	普门品	普門品	pǔménpǐn	Universal Gate Sutra	noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A chapter of the Lotus Sutra discussing Avalokitesvara Bodhisattva
+19990	普门品	普門品	pǔménpǐn	Universal Gate Sutra	noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A chapter of the Lotus Sutra discussing Avalokitesvara Bodhisattva
 19991	麦积山石窟	麥積山石窟	Màijī Shān Shíkū	Mount Maiji Grottoes	proper noun	石窟	Grottoes	佛教	Buddhism	甘肃	Gansu	\N	\N	Located near Tianshui, built from about 384 CE
 19992	静安寺	靜安寺	Jìng ān Sì	Jing An Temple	proper noun	寺院	Temple	佛教	Buddhism	上海	Shanghai	\N	\N	\N
 19993	云冈石窟	雲岡石窟	Yúngāng Shíkū	Yungang Grottoes	proper noun	石窟	Grottoes	佛教	Buddhism	山西	Shanxi	\N	\N	Located near Datong
@@ -20278,7 +20278,7 @@
 20277	文字学	文字學	wénzì xué	philology	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
 20278	字汇	字彙	zìhuì	a glossary / a lexicon	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
 20279	楷体	楷體	kǎitǐ	regular script	noun	\N	\N	书法	Calligraphy	\N	\N	\N	\N	\N
-20280	佛说阿弥陀经	佛說阿彌陀經	Fó Shuō Āmítuó Jīng	The Amitabha Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20280	佛说阿弥陀经	佛說阿彌陀經	Fó Shuō Āmítuó Jīng	The Amitabha Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 20281	薅	\N	hāo	to pull out	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	As in to pull out weeds
 20282	孀	\N	shuāng	a widow	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 20283	膺	\N	yīng	breast	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -20531,22 +20531,22 @@
 20530	释迦佛	釋迦佛	Shìjiā Fó	Sakyamuni Buddha / Shakyamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	\N
 20531	成就佛	\N	Chéngjiù Fó	Susiddhikara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	\N
 20532	文殊师利	文殊師利	Wénshū shīlì	Manjushri / Manjusri	proper noun	菩萨	bodhisattva	佛教	Buddhism	\N	\N	feilaifeng_wenshu400.jpg	\N	From Sanskrit: mañjuśrī; the bodhisattva of keen awareness
-20533	摩诃版若波罗蜜经	摩訶版若波羅蜜經	Móhē Bōnruòbōluómì Jīng	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-20534	普贤观经	普賢觀經	Pǔxián Guān Jīng	Samantabhadra Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-20535	大品般若经	大品般若經	Dà Pǐn Bōruò Jīng	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-20536	十六观经	十六觀经	Shíliù Guān Jīng	Sutra on the Sixteen Contemplations	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20533	摩诃版若波罗蜜经	摩訶版若波羅蜜經	Móhē Bōnruòbōluómì Jīng	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20534	普贤观经	普賢觀經	Pǔxián Guān Jīng	Samantabhadra Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20535	大品般若经	大品般若經	Dà Pǐn Bōruò Jīng	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20536	十六观经	十六觀经	Shíliù Guān Jīng	Sutra on the Sixteen Contemplations	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 20537	出家人	\N	chūjiā rén	a monk / a nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 20538	傅大士	\N	Fù Dàshì	Shanhui Fuxi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(497 &mdash; 569), an important figure in Chan history
 20539	应化	應化	yīnghuà	sambhoga-kaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The body of mutual enjoyment, which is a body of clear light manifestation
 20540	布袋和尚	佈袋和尚	Bù Dài Héshang	Master Qici	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(? &mdash; 916), an important figure in Chan history
-20541	法华经	法華經	Fǎ Huà Jīng	The Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharma puṇḍarīka sūtra
+20541	法华经	法華經	Fǎ Huà Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharma puṇḍarīka sūtra
 20542	三界	\N	Sān Jiè	The Three Realms	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) 欲界 the Realm of Desire、(2) 色界 the Realm of Form、(3) 无色界 the Formless Realm
 20543	四生	\N	Sì Shēng	Four Types of Birth	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 20544	知客	\N	zhī kè	a monk in charge of reception	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 20545	无念	無念	wúniàn	thoughtlessness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 20546	无相	無相	wúxiāng	animitta / signlessness / without an appearance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: animitta; the principle that qualities of an object are mentally imputed, not fundamental to the nature of the objects
-20547	禅源诸诠集都序	禪源諸詮集都序	Chán Yuán Zhū Quán Jí Dōu xù	Prelude for the Works on the Five Sects of Chan Buddhism	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-20548	维摩经	維摩經	Wéi Mó Jīng	Vimalakirti Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20547	禅源诸诠集都序	禪源諸詮集都序	Chán Yuán Zhū Quán Jí Dōu xù	Prelude for the Works on the Five Sects of Chan Buddhism	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20548	维摩经	維摩經	Wéi Mó Jīng	Vimalakīrti Sūtra / Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vimalakīrti nirdeśa sūtra
 20549	般若理论	般若理論	Bōruò lǐlùn	Prajna theory	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 20550	般	\N	bō	bo	phonetic	\N	\N	外语	Foreign Language	\N	\N	\N	\N	Used in loan words
 20551	民政局	\N	Mín Zhèng Jú	Department of Community Affairs	proper noun	\N	\N	政府	Government	\N	\N	\N	\N	\N
@@ -20950,7 +20950,7 @@
 20949	录入	錄入	lùrù	to input / to type	verb	\N	\N	信息技术	Information Technology	数据	Data	\N	\N	\N
 20950	复审	復審	fùshěn	to review a judicial case / to re-examine	verb	\N	\N	法律	Law	\N	\N	\N	\N	\N
 20951	星云	星雲	Xīng Yún	Venerable Master Hsing Yun	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	Founder of Foguang Shan
-20952	八大人觉经	八大人覺經	Bā Dà Rén Jué Jīng	Sutra on the Eight Realizations of the Great Beings	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+20952	八大人觉经	八大人覺經	Bā Dà Rén Jué Jīng	Sutra on the Eight Realizations of the Great Beings	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 20953	入世	\N	rùshì	to come into this world / to be of this world	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 20954	圣经	聖經	shèngjīng	a holy scripture	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 20955	圣经	聖經	Shèngjīng	The Holy Bible	proper noun	\N	\N	基督教	Christianity	\N	\N	\N	\N	\N
@@ -21053,7 +21053,7 @@
 21052	介意	\N	jièyì	to take offense / to mind	verb	\N	\N	交际	Social Interaction	\N	\N	\N	\N	\N
 21053	开场	開場	kāichǎng	to begin / to open / to start	verb	\N	\N	变化	Change	\N	\N	\N	\N	\N
 21054	楞严咒	楞嚴咒	Léng Yán Zhòu	Leng Yan Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-21055	弥陀经	彌陀經	Mítuó Jīng	The Amitabha Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+21055	弥陀经	彌陀經	Mítuó Jīng	The Amitabha Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 21056	身心	\N	shēnxīn	body and mind	noun	\N	\N	健康	Health	\N	\N	\N	\N	\N
 21057	信佛	\N	xìn Fó	to believe in Buddhism	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 21058	春夏秋冬	\N	Chūn Xià Qiū Dōng	the four seasons	proper noun	天气	Weather	大自然	Nature	\N	\N	\N	\N	\N
@@ -21325,7 +21325,7 @@
 21324	修身	\N	xiūshēn	to practice / to cultivate	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
 21325	弘愿	弘願	hóngyuàn	a great vow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 21326	千手千眼观世音菩萨	千手千眼觀世音菩薩	iān Shǒu Qiān Yǎn Guānshìyīn Púsà	Thousand Hand Thousand Eye Avalokitesvara Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	\N
-21327	千手千眼观世音菩萨广大圆满无碍大悲心陀罗尼经	千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經	Qiān Shǒu Qiān Yǎn Guānshìyīn Púsà Guǎngdà Yuánmǎn Wú Ài Dà Bēi Xīn Tuóluóní Jīng	Thousand Hand Thousand Eye Avalokitesvara Bodhisattva Great Compassion Dharani Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+21327	千手千眼观世音菩萨广大圆满无碍大悲心陀罗尼经	千手千眼觀世音菩薩廣大圓滿無礙大悲心陀羅尼經	Qiān Shǒu Qiān Yǎn Guānshìyīn Púsà Guǎngdà Yuánmǎn Wú Ài Dà Bēi Xīn Tuóluóní Jīng	Thousand Hand Thousand Eye Avalokitesvara Bodhisattva Great Compassion Dharani Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 21328	撰集	\N	zhuànjí	to compile / to edit and compile	verb	\N	\N	写作	Writing	\N	\N	\N	\N	\N
 21329	忏法	懺法	chànfǎ	a repentance ceremony	noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	\N
 21330	朝山	\N	cháo shān	to make a pilgrimage to a great mountain or temple	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
@@ -21955,8 +21955,8 @@
 21954	囌	\N	sū	wordy	adjective	\N	\N	语言	Language	\N	\N	\N	\N	\N
 21955	噜囌	嚕囌	lūsū	wordy / long-winded	adjective	\N	\N	语言	Language	\N	\N	\N	\N	\N
 21956	令人	\N	lìngrén	to cause one to / to lead one to	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
-21957	维摩诘	維摩詰	Wéimójié	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A lay Buddhist in early the Buddhist period. An early model for a lay bodhisattva.
-21958	维摩	維摩	Wéimó	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A lay Buddhist in early the Buddhist period. An early model for a lay bodhisattva.
+21957	维摩诘	維摩詰	Wéimójié	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vimalakīrti, a lay Buddhist in early the Buddhist period. An early model for a lay bodhisattva.
+21958	维摩	維摩	Wéimó	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vimalakīrti, a lay Buddhist in early the Buddhist period. An early model for a lay bodhisattva.
 21959	示现	示現	shìxiàn	for a bodhisattva to be incarnated / to manifest	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
 21960	机缘	機緣	jīyuán	a chance / an opportunity / destiny	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 21961	化身	\N	huàshēn	emanation body / incarnation / reincarnation / embodiment / personification / avatar	noun	\N	\N	宗教	Religion	\N	\N	\N	\N	From Sanskrit: avatāra, the descent of a diety to the Human World
@@ -23097,7 +23097,7 @@
 23096	严明	嚴明	yánmíng	strict	adjective	\N	\N	管理	Administration	\N	\N	\N	\N	\N
 23097	种姓制度	種姓製度	zhǒngxìng zhìdù	caste system	noun	制度	Institution	社会	Society	\N	\N	\N	\N	\N
 23098	种姓	種姓	zhǒngxìng	a caste	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
-23099	佛本生经	佛本生經	Fó Běn Shēng Jīng	Sutra of the Buddha's Reincarnated Manifestations	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+23099	佛本生经	佛本生經	Fó Běn Shēng Jīng	Sutra of the Buddha's Reincarnated Manifestations	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 23100	奥古斯都	奧古斯都	Àogǔsīdōu	Augustus	proper noun	英文姓名	English given name	名字	Names	\N	\N	\N	\N	Name of the first Roman Emperor
 23101	罗马帝国	羅馬帝國	Luómǎ dìguó	Roman Empire	proper noun	帝国	Empire	历史	History	古罗马	Ancient Rome	\N	\N	(27 BCE－476 CE) evolved from the Roman Republic
 23102	屋大维	屋大維	Wūdàwéi	Julius Caesar	proper noun	执政官	Statesman	历史	History	古罗马	Ancient Rome	\N	\N	(100－44 BCE) Roman military and and political leader, key figure in the transition from Republic to Empire
@@ -26502,7 +26502,7 @@
 26501	漶	\N	huàn	indistinct / indecipherable	adjective	\N	\N	观察	Observation	\N	\N	\N	\N	\N
 26502	漫漶	\N	mànhuàn	damaged and indistinct	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
 26503	康僧铠	康僧鎧	Kāng Sēng Kǎi	Sajghavarman / Sanghavarman / Saņghavarman	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	An Indian monk from the Kushan kingdom who travelled to China and lived at the White Horse Temple in Luoyang.  He translated the Infinite Life Sutra c. 252 CE.
-26504	佛说无量寿经	佛說無量壽經	Wú Liàng Shòu Jīng	The Infinite Life Sutra / The Larger Pure Land Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+26504	佛说无量寿经	佛說無量壽經	Wú Liàng Shòu Jīng	The Infinite Life Sutra / The Larger Pure Land Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 26505	仁川	\N	Rénchuān	Incheon	proper noun	城市	City	地方	Places	韩国	South Korea	\N	\N	Hangul: 인천; city in Gyeonggi Province, South Korea; site of the international airport for Seoul
 26506	摩尼	\N	móní	mani / jewel / gem	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; term for jewel or gem; part of the chant 'Om mani padme hum'
 26507	摩尼宝珠	摩尼寶珠	móní bǎozhū	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: maṇi; symbolizing the ability to do as one wishes and also posessing merits, such as being able to cure sickness
@@ -27403,7 +27403,7 @@
 27402	瑜伽	\N	Yújiā	Yogacara	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Yogācāra, a school or practice emphasizing the mind and perception by the mind
 27403	瑜伽燄口	\N	Yújiā Yàn Kǒu	Yogacara Ulka-Mukha	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Ulka-Mukha is Sanskrit for flaming mouth
 27404	福报燄口法会	福報燄口法會	Fú Bào Yàn Kǒu fǎhuì	Yogacara Ulka-mukha Dharma Service	noun	法会	Dharma service	佛教	Buddhism	\N	\N	\N	\N	An offering service to hungry ghosts
-27405	佛说四十二章经	佛說四十二章經	Sì Shí è Zhāng Jīng	The Sutra of Forty-Two Sections	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+27405	佛说四十二章经	佛說四十二章經	Sì Shí è Zhāng Jīng	The Sutra of Forty-Two Sections	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 27406	浅释	淺釋	qiǎnshì	a simple explaination	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
 27407	共法兰	共法蘭	Gòngfǎlán	Dharmaratna / Gobharana	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	One of the first Indian monks to travell to China, sometime in the Eastern Han.
 27408	明皇帝	\N	Míng Huángdì	Emperor Ming of Han	proper noun	皇帝	Emperor	历史	History	东汉	Eastern Han	\N	\N	(Lived 28&mdash;75, ruled 57&mdash;75), posthumous name of the second Eastern Han Emperor
@@ -27490,7 +27490,7 @@
 27489	昙无谶	曇無讖	Tán Wú Chèn	Dharma-raksa / Dharmaksema	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Dharmakṣema (385&mdash;433), a monk from India, translated sutras to Chinese
 27490	昙无忏	曇無懺	Tán Wú Chàn	Dharma-raksa / Dharmaksema	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Dharmakṣema (385&mdash;433), a monk from India, translated sutras to Chinese
 27491	昙牟谶	曇牟讖	Tán Wú Chèn	Dharma-raksa / Dharmaksema	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Dharmakṣema (385&mdash;433), a monk from India, translated sutras to Chinese
-27492	金光明最胜王经	金光明最勝王經	Jīn Guāng Míng Zuì Shèng Wáng Jīng	Golden Light Sutra / Suvarnaprabhasa-sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+27492	金光明最胜王经	金光明最勝王經	Jīn Guāng Míng Zuì Shèng Wáng Jīng	Golden Light Sutra / Suvarnaprabhasa-sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 27493	南方宝生部主宝生佛	南方寶生部主寶生佛	Nánfāng Bǎo Shēng Bù Zhǔ Bǎoshēng Fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	\N
 27494	神焕	神煥	Shén Huàn	Shen Huan	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	(1131&mdash;1162), Song Dynasty monk from the Zhejiang area
 27495	霆	\N	tíng	the clap of thunder	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ting2.mp3	\N
@@ -27550,7 +27550,7 @@
 27549	惟妙惟肖	\N	wéi miào wéi xiào	to imitate to perfection / to be remarkably true to life	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
 27550	实叉难陀	實叉難陀	Shí Chā Nán Tuó	Siksananda	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Śiksānanda; (652&mdash;710) Tang scholar and translator from Khotan
 27551	施乞叉难陀	施乞叉難陀	Shī Qǐ Chā Nán Tuó	Siksananda	proper noun	师父	Venerable	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Śiksānanda; (652&mdash;710) Tang scholar and translator from Khotan
-27552	大方广佛华严经	大方廣佛華嚴經	Dàfang Guǎng Fó Huáyán Jīng	Avatamsaka Sutra / Flower Garland Sutra / Flower Adornment Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Buddhāvatajsaka-mahāvaipulya-sūtra, also known as the Buddhavatamsaka-mahavaipulya Sutra
+27552	大方广佛华严经	大方廣佛華嚴經	Dàfang Guǎng Fó Huáyán Jīng	Avatamsaka Sutra / Flower Garland Sutra / Flower Adornment Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Buddhāvatajsaka-mahāvaipulya-sūtra, also known as the Buddhavatamsaka-mahavaipulya Sutra
 27553	求觅	求覓	qiúmì	to seek / to look for	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
 27554	萦	縈	yíng	to wind around / to entwine	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ying4.mp3	\N
 27555	蓊郁	蓊鬱	wěngyù	dense vegetation 	noun	\N	\N	植物学	Botany	\N	\N	\N	\N	\N
@@ -27727,7 +27727,7 @@
 27726	阿毗达磨	阿毗達磨	Āpídámó	Abhidharma / Abhidhamma Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: abhidharma, Pali: abhidhamma, 3rd century BCE and later Buddhist works which contain scholastic reworkings of text
 27727	阿毘昙	阿毘曇	Āpítán	Abhidharma / Abhidhamma Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	3rd century BCE and later Buddhist works which contain scholastic reworkings of text
 27728	安那般那	\N	ānnàbānnà	mindfulness of breathing / anapanasati	noun 	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: ānāpānasmṛti, Pali: ānāpānasati; the mindfulness of breathing
-27729	安般守意经	安般守意經	Ānbānshǒuì Jīng	Anapanasati Sutta	proper noun 	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+27729	安般守意经	安般守意經	Ānbānshǒuì Jīng	Anapanasati Sutta	proper noun 	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 27730	阿鲁纳恰尔邦	阿魯納恰爾邦	Ālǔnàqià&apos;ěr Bāng	Arunachal Pradesh	proper noun	邦	Province	地方	Places	印度	India	\N	\N	 A state of India, located in northeast India
 27731	偕	\N	xié	in company with	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xie2.mp3	\N
 27732	偕	\N	xié	together	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	xie2.mp3	\N
@@ -28114,7 +28114,7 @@
 28113	支娄迦谶	支婁迦讖	Zhīlóujiāchèn	Lokaksema	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	From Sanskrit: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras
 28114	吐火罗语	吐火羅語	Tùhuǒluó Yǔ	Tocharian languages	proper noun	\N	\N	历史	History	\N	\N	\N	\N	An extinct language family from the present day Xinjiang
 28115	毗舍离	毗舍離	Píshèlí	Vaisali / Vaissali / Vaishali / City of Vaisali	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	From Sanskrit: vaiśālī, Pali: vesāli; an ancient city in Bihar state, India visited by the Buddha many times
-28116	金刚般若波罗蜜多经	金剛般若波羅蜜多經	Jīngāng Bānruòbōmì Jīng	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
+28116	金刚般若波罗蜜多经	金剛般若波羅蜜多經	Jīngāng Bānruòbōmì Jīng	Prajnaparamita Diamond Sutra / Diamond Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vajracchedikā prajñāpāramitā sūtra
 28117	菩提流支	\N	Pútíliúzhī	Bodhiruci	proper noun	法师	Venerable	佛教	Buddhism	印度	India	\N	\N	c 6th century, Indian monk who travelled to China.  Translated the Shorter Sukhāvati Sutra
 28118	方便	\N	fāngbiàn	skillful means / expedient means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	fang1bian4.mp3	From Sanskrit: upāya
 28119	吉祥八宝	吉祥八寶	jíxiáng bābǎo	Eight Buddhist emblems / Eight auspicious treasures / Eight auspicious signs / Ashtamangala	set phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	(1) Wheel 轮, (2) conch shell 螺, (3) umbrella 伞, (4) canopy / flag 盖, (5) lotus 花, (6) jar 罐, (7) fish 鱼, and (8) mystic knot 长
@@ -29642,10 +29642,10 @@
 29641	康孟详	康孟詳	Kāng Mèng Xiáng	Kang Meng Xiang	proper noun	翻译家	Translator	佛教	Buddhism	\N	\N	\N	\N	Circa 197 CE, ancestry from the Western Regions, a sutra translator, known for translating the Carya-nidana
 29642	聶	\N	niè	to whisper	verb	\N	\N	语言	Language	\N	\N	\N	\N	\N
 29643	聶	\N	Niè	Nie	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	\N
-29644	佛般泥洹经	佛般泥洹經	Fó Bān Ní Huán Jīng	Nirvana Sutra / Mahaparinirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
-29645	大般泥洹经	大般泥洹經	Dà Bān Ní Huán Jīng	Nirvana Sutra / Mahaparinirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+29644	佛般泥洹经	佛般泥洹經	Fó Bān Ní Huán Jīng	Nirvana Sutra / Mahaparinirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 12 375
+29645	大般泥洹经	大般泥洹經	Dà Bān Ní Huán Jīng	Nirvana Sutra / Mahaparinirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 12 375
 29646	普曜经	普曜經	Pǔ Yào Jīng	Lalitavistara Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
-29647	涅槃经	涅槃經	Dà Bān Nièpán Jīng	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+29647	涅槃经	涅槃經	Dà Bān Nièpán Jīng	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 12 375
 29648	托胎	託胎	tuōtāi	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven
 29649	托生	託生	tuōshēng	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven
 29650	入胎	\N	rùtāi	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven
@@ -29653,7 +29653,7 @@
 29652	佛说普曜经	佛說普曜經	Fó Shuō Pǔ Yào Jīng	Lalitavistara Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Describes the birth of the Buddha
 29653	永嘉	\N	Yǒng Jiā	Yong Jia	proper noun	年号	Reign Name	历史	History	\N	\N	\N	\N	 Reign name 307-313 of Jin Emperor Huai 晋怀帝
 29654	降生	\N	jiàngshēng	to be born	verb	\N	\N	宗教	Religion	\N	\N	\N	\N	\N
-29655	泥洹经	泥洹經	Nièpán Jīng	The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A version of the Nirvana Sutra translated in the Tang Kai Yuan reign (712-756)
+29655	泥洹经	泥洹經	Nièpán Jīng	The Nirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A version of the Nirvana Sutra translated in the Tang Kai Yuan reign (712-756)
 29656	如来藏	如來藏	Rúlái Zàng	Buddha-nature / Buddha-dhatu / Buddha Principle / Tathagatagarbha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: buddhadhātu, tathāgatagarbha
 29657	高僧传	高僧傳	Gāo Sēng Zhuàn	Biographies of Eminent Monks	proper noun	传	Biography	佛教	Buddhism	\N	\N	\N	\N	A collection of biographies of monks in China, compiled in the Liang dynasty by Huijiao 慧皎
 29658	大本经	大本經	Dà Běn Jīng	Mahapadana Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A Theravada text
@@ -29970,7 +29970,7 @@
 29969	中阿含经	中阿含經	Zhōng Āhán Jīng	Madhyama Āgama / Madhyama Agama / Madhyamāgama / Middle-length Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A division of the Sutra Pitaka
 29970	中阿含	\N	Zhōng Āhán	Madhyama Āgama / Madhyama Agama / Madhyamāgama / Middle-length Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A division of the Sutra Pitaka
 29971	法蕴足论	法蘊足論	Fǎ Yùn Zú Lùn	Dharmaskandha / Dharma-skandha-sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	An early Buddhist treatise, composed by either Sariputra or Maudgalyayana
-29972	成实论	成實論	Chéng Shí Lùn	Satyasiddhi-sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	A Buddhist treatise
+29972	成实论	成實論	Chéng Shí Lùn	Satyasiddhi-sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	A Buddhist treatise attributed to Harivarman (T 32 1646)
 29973	大毗婆沙论	大毘婆沙論	Dàpípóshā Lùn	Mahavibhasa Sastra	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	Mahāvibhāṣa Śāstra; a Buddhist treatise
 29974	俱舍论	俱舍論	Jūshè Lùn	Abhidharma-kosa	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	Abhidharma-kośa; a Buddhist treatise by Vasubandhu
 29975	阿毗达磨俱舍论	阿毗達磨俱舍論	Āpídámó Jūshè Lùn	Abhidharma-kosa	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	Abhidharma-kośa; a Buddhist treatise by Vasubandhu
@@ -30358,7 +30358,7 @@
 30357	方广	方廣	fāng guǎng	vaipulya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text proclaiming the profound meaning of the sutras; one of the twelve divisions of the sutras 十二部经
 30358	论识	論識	lùn shí	upadesa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text containing discussion and debate; one of the twelve divisions of the sutras 十二部经
 30359	授记	授記	shòu jì	a prediction / vyakarana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text containing predictions of when the Buddha's disciples will attain awakening; one of the twelve divisions of the sutras 十二部经
-30360	悉檀	\N	xītán	a teaching method / siddhanta	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A teaching method that the Buddha used, varied according the level of the student
+30360	悉檀	\N	xītán	a teaching method / siddhanta	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: siddhānta, a teaching method that the Buddha used, varied according the level of the student
 30361	四悉檀	\N	sì xītán	the four methods of teaching / four siddhantas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Teaching methods that the Buddha used, varied according the level of the student: (1) worldly method 世界悉檀, (2) individual method 各各为人悉檀, (3) specific method 对治悉檀, (4) ultimate method 第一义悉檀
 30362	世界悉檀	\N	shìjiè xītán	worldly teaching method	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four methods of teaching 四悉檀
 30363	各各为人悉檀	各各為人悉檀	gè gè wéirén xītán	individual teaching method	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four methods of teaching 四悉檀
@@ -31522,7 +31522,7 @@
 31521	齐整	齊整	qízhěng	faultless / complete / perfect	adjective	\N	\N	形态	Form	\N	\N	\N	\N	\N
 31522	救护	救護	jiùhù	to rescue	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 31523	救护	救護	jiùhù	to administer first-aid	verb	\N	\N	健康	Health	\N	\N	\N	\N	\N
-31524	盂兰	盂蘭	yúlán	Ullambana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
+31524	盂兰	盂蘭	yúlán	Ullambana Sutra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
 31525	团花	團花	tuánhuā	a circular floral pattern	noun	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 31526	民情	\N	mínqíng	circumstances of the people / popular sentiment / the mood of the people / popular customs	noun	\N	\N	社会	Society	\N	\N	\N	\N	\N
 31527	窥知	窺知	kuīzhī	to become aware of through observation	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
@@ -31650,7 +31650,7 @@
 31649	阎罗	閻羅	Yán Luó	Yama / Yamaraja	proper noun	神	Deity	宗教	Religion	印度教	Hinduism	yama400.jpg	\N	From Sanskrit: Yama, the lord of death
 31650	遣使	\N	qiǎnshǐ	to dispatch an envoy	verb	\N	\N	历史	History	\N	\N	\N	\N	\N
 31651	访求	訪求	fǎngqiú	to seek / to search for	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
-31652	华严	華嚴	Huáyán	Avatamsaka Sutra / Avataṃsaka Sūtra / Flower Garland Sutra / Flower Adornment Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Buddhāvatajsaka-mahāvaipulya-sūtra, also known as the Buddhavatamsaka-mahavaipulya Sutra
+31652	华严	華嚴	Huáyán	Avatamsaka Sutra / Avataṃsaka Sūtra / Flower Garland Sutra / Flower Adornment Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: Buddhāvatajsaka-mahāvaipulya-sūtra, also known as the Buddhavatamsaka-mahavaipulya Sutra
 31653	遑	\N	huáng	leisure	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 31654	患病	\N	huànbìng	to fall ill	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 31655	原籍	\N	yuánjí	ancestral home / birthplace	noun	\N	\N	文化	Culture	\N	\N	\N	\N	\N
@@ -32584,7 +32584,7 @@
 32583	锭	錠	dìng	an ingot / a spindle / a slab / a cake / a tablet	noun	\N	\N	冶金	Metallurgy	\N	\N	\N	\N	\N
 32584	银锭	銀錠	yíndìng	a silver ingot	noun	\N	\N	冶金	Metallurgy	\N	\N	\N	\N	\N
 32585	银元	銀元	yínyuán	flat silver / a silver dollar	noun	\N	\N	历史	History	\N	\N	\N	\N	Former coinage
-32586	楞严	楞嚴	Léng Yán	The Shurangama Sutra / Śūraṅgama Sūtra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+32586	楞严	楞嚴	Léng Yán	The Shurangama Sutra / Śūraṅgama Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 32587	精于	精於	jīngyú	to be skillful in / to be proficient in / to be adept at	verb	\N	\N	能力	Ability	\N	\N	\N	\N	\N
 32588	鉴赏	鑒賞	jiànshǎng	to admire and appraise artwork	verb	\N	\N	艺术	Art	\N	\N	\N	\N	\N
 32589	书札	書札	shūzhá	a letter	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N
@@ -34920,7 +34920,7 @@
 34919	附	\N	fù	to realign one's allegiance / to submit	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	fu4.mp3	Synomymous in meaning to 佩带 in this sense
 34920	孔子内备经	孔子內備經	Kǒngzi Bèi Bèi Jīng	Confucius’ Classic of Internal Preparation	proper noun	书	Book	哲学	Philosophy	儒家	Confucianism	\N	fu4.mp3	Synomymous in meaning to 佩带 in this sense
 34921	震	\N	Zhèn	Zhen trigram	proper noun	\N	\N	神话	Mythology	\N	\N	\N	zhen4.mp3	One of the Eight Trigrams 八卦, symbolizing thunder / ☳
-34922	大涅盤	大涅盤	Dà Nièpán	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+34922	大涅盤	大涅盤	Dà Nièpán	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 34923	迊	\N	bì	silk	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34924	迊	\N	zā	silk	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34925	以此	\N	yǐ cǐ	to use this	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -34937,10 +34937,10 @@
 34936	司	\N	sī	to bear	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	si1.mp3	Synonymous to 承担 in this sense
 34937	司	\N	sī	to observe	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	si1.mp3	Synonymous to 观察 in this sense
 34938	司	\N	sī	a government official / an official	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	si1.mp3	Synonymous to 官吏 in this sense
-34939	大涅盘	大涅槃	Dà Nièpán	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+34939	大涅盘	大涅槃	Dà Nièpán	The Mahaparinirvana Sutra / The Nirvana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 34940	采	\N	cǎi	color	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	cai3.mp3	Archaic variant of 彩
 34941	非时	非時	fēishí	the period of time from the afternoon to the early hours of the morning	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-34942	法花经	法花經	Fǎ Huā Jīng	The Lotus Sutra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharma puṇḍarīka sūtra
+34942	法花经	法花經	Fǎ Huā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: saddharma puṇḍarīka sūtra
 34943	沈香	\N	shěnxiāng	aloeswood / agarwood	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	\N
 34944	沉香木	\N	shěnxiāng mù	aloeswood / agarwood	noun	树	Tree	植物学	Botany	\N	\N	\N	\N	\N
 34945	僧尼	\N	sēngní	monks and nuns	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
@@ -34962,7 +34962,7 @@
 34961	荆楚记	荊楚記	Jīng Chǔ Jì	Record of Jing-Chu	proper noun	书	Book	历史	History	\N	\N	\N	\N	A historic book
 34962	茲藻	\N	Cí Zǎo	Ci Zao / Zizao	proper noun	书	Book	历史	History	\N	\N	\N	\N	A historic figure, the grandson of the poet Xie Lingyun 谢灵运
 34963	灵运	靈運	Língyùn	Lingyun	proper noun	诗人	Poet	诗	Poetry	中国	China	\N	\N	(c. 385－433) first to use the Landscape Style Poem
-34964	过去现在因果经	過去現在因果經	Guòqu Xiànzài Yīn Guǒ Jīng	Sūtra on Past and Present Causes and Effects	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
+34964	过去现在因果经	過去現在因果經	Guòqu Xiànzài Yīn Guǒ Jīng	Sūtra on Past and Present Causes and Effects	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	\N
 34965	上	\N	shàng	on	preposition	\N	\N	虚词	Function Words	\N	\N	\N	shang4.mp3	\N
 34966	迊	\N	bì	silk	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34967	迊	\N	zā	silk	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -34972,8 +34972,8 @@
 34971	释圣坚	釋聖堅	Shì Shèngjiān	Shengjian / Shi Shengjian	proper noun	法师	Venerable	佛教	Buddhism	\N	\N	\N	\N	Eastern Jin monk from the Western Regions, translated the Śrīkaṇṭhasūtra.
 34972	佛说除恐灾患经	佛說除恐災患經	Fó Shuō Chú Kǒng Zāi Huàn Jīng	Śrīkaṇṭhasūtra	proper noun	经	Sūtra	佛教	Buddhism	\N	\N	\N	\N	\N
 34973	痖	瘂	yǎ	mute	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Incapable of speech
-34974	佛说观佛三昧海经	佛說觀佛三昧海經	Fó Shuō Guān Fó Sānmèi Hǎi Jīng	Guan Fo Sanmei Hai Sūtra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T15, no. 643. Translated by Buddhabhadra
-34975	佛说灌洗佛形像经	佛說灌洗佛形像經	Fó Shuō Guàn Xǐ Fó Xíngxiàng Jīng	Guan Xi Fo Xingxiang Sūtra	proper noun	佛经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T16, No. 695. Translated by Fa Ju
+34974	佛说观佛三昧海经	佛說觀佛三昧海經	Fó Shuō Guān Fó Sānmèi Hǎi Jīng	Guan Fo Sanmei Hai Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T15, no. 643. Translated by Buddhabhadra
+34975	佛说灌洗佛形像经	佛說灌洗佛形像經	Fó Shuō Guàn Xǐ Fó Xíngxiàng Jīng	Guan Xi Fo Xingxiang Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T16, No. 695. Translated by Fa Ju
 34976	自得	\N	zì dé	to obtain for oneself	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34977	憍昙弥	憍曇彌	Jiāotánmí	 Gautamī / Mahāprajāpatī Gautamī / Mahāpajāpatī Gotamī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: gautamī, Pali: gotamī. Full name Mahāprajāpatī Gautamī (Sanskrit), Mahāpajāpatī Gotamī (Pali), was the Buddha's aunt and foster mother. She was the first woman to be ordained into the Sangha.
 34978	后汉书	後漢書	Hòu Hàn Shū	Book of the Later Han	proper noun	书	Book	历史	History	\N	\N	\N	\N	Compiled in 398-445 in the Southern Song by Fan Ye 范晔
@@ -35154,7 +35154,7 @@
 35153	罗什曼那	羅什曼那	Luóshímànnà	Laksmana / Lakshmana	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	 From Sanskrit: lakśmaṇa, one of Rama's brothers
 35154	悉多	\N	Xīduō	Sita	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	 From Sanskrit: sita, the central female character in the Ramayana
 35155	弥萨罗	彌薩羅	Mísàluó	Mithila	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N	 From Sanskrit: mithilā, a city in ancient India
-35156	小品般若	\N	Xiǎo Pǐn Bōrě	Aṣṭasāhasrikā Prajñāpāramitā / The Perfection of Wisdom in Eight Thousand Lines	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	 T8 No. 227, ten scrolls <a href='http://tripitaka.cbeta.org/T08n0227'>http://tripitaka.cbeta.org/T08n0227</a>
+35156	小品般若	\N	Xiǎo Pǐn Bōrě	Aṣṭasāhasrikā Prajñāpāramitā / The Perfection of Wisdom in Eight Thousand Lines	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	 T8 No. 227, ten scrolls <a href='http://tripitaka.cbeta.org/T08n0227'>http://tripitaka.cbeta.org/T08n0227</a>
 35157	三百	\N	sān bǎi	three hundred	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 35158	马德里	馬德里	Mǎdélǐ	Madrid	proper noun	城市	city	地方	Places	西班牙	Spain	\N	\N	\N
 35159	巴赛隆纳	巴賽隆納	Bāsàilóngnà	Barcelona	proper noun	城市	city	地方	Places	西班牙	Spain	\N	\N	Taiwanese spelling
@@ -35168,7 +35168,7 @@
 35167	日内瓦	日內瓦	Rìnèiwǎ	Geneva	proper noun	城市	city	地方	Places	瑞士	Switzerland	\N	\N	\N
 35168	住持	\N	zhùchí	to administer a monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	zhu4chi2.mp3	\N
 35169	播撒	\N	bōsǎ	to sow / to scatter	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	seeds
-35170	小品般若波罗蜜经	小品般若波羅蜜經	Xiǎo Pǐn Bōrěbōluómì Jīng	Aṣṭasāhasrikā Prajñāpāramitā / The Perfection of Wisdom in Eight Thousand Lines	proper noun	佛经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	 T8 No. 227, ten scrolls <a href='http://tripitaka.cbeta.org/T08n0227'>http://tripitaka.cbeta.org/T08n0227</a>
+35170	小品般若波罗蜜经	小品般若波羅蜜經	Xiǎo Pǐn Bōrěbōluómì Jīng	Aṣṭasāhasrikā Prajñāpāramitā / The Perfection of Wisdom in Eight Thousand Lines	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	 T8 No. 227, ten scrolls <a href='http://tripitaka.cbeta.org/T08n0227'>http://tripitaka.cbeta.org/T08n0227</a>
 35171	谘询	諮詢	zīxún	to consult / to advise	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
 35172	庭园	庭園	tíngyuán	a courtyard	noun	\N	\N	建筑学	Architecture	\N	\N	\N	\N	\N
 35173	研讨	研討	yántǎo	discussion	noun	\N	\N	教育	Education	\N	\N	\N	\N	\N
@@ -35518,7 +35518,7 @@
 35518	伽陀	\N	jiātuó	gatha / hymn / verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: gāthā, records the teachings of the Buddha in verse form; one of the twelve divisions of the sutras 十二部经
 35519	替罪羊	\N	tìzuìyáng	scapegoat	noun	\N	\N	口语	Colloquial	\N	\N	\N	\N	\N
 35520	预流	預流	Yùliú	Sotapanna / Srotaāpanna / Stream-Enterer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: srotaāpanna, Pali: sotāpanna; the first of the four stages of enlightenment. This form was used by Xuan Zang.
-35521	摩诃止观	摩訶止観	Móhē Zhǐ Guān	Great Concentration and Insight	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Japanese variant of 摩訶止觀. Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
+35521	摩诃止观	摩訶止観	Móhē Zhǐ Guān	Great Concentration and Insight	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Japanese variant of 摩訶止觀. Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
 35522	観	\N	guān	to look at / to watch / to observe	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Japanese variant of 觀｜观
 35523	法华文句	法華文句	Fǎhuá Wén Jù	Words and Phrases of the Lotus Sutra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Written by Zhi Yi (智顗, 538—597), fourth patriarch of the Tiantai School.
 35524	法华玄义	法華玄義	Fǎhuá Xuán Yì	Profound Meaning of the Lotus Sutra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Written by Zhi Yi (智顗, 538—597), fourth patriarch of the Tiantai School.
@@ -35528,18 +35528,18 @@
 35528	韦氏拼音	韋氏拼音	Wéi Shì Pīnyīn	Wade–Giles	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	A old Romanization system for Chinese characters
 35529	威妥玛拼音	威妥瑪拼音	Wēi Tuǒ Mǎ Pīnyīn	Wade–Giles	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	A old Romanization system for Chinese characters
 35530	判教	\N	pànjiāo	classification of teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: p'an-chiao. A scheme for doctrinal classification.
-35531	摩诃止观	摩訶止觀	Móhē Zhǐ Guān	Great Concentration and Insight / Mohe Zhi Guan	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
+35531	摩诃止观	摩訶止觀	Móhē Zhǐ Guān	The Great Calming and Contemplation / Great Concentration and Insight / Mohe Zhi Guan	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi 智顗 (538—597), recognized as the seminal text of the Tiantai school (T 46 1911).
 35532	止观	止觀	Zhǐ Guān	calming and insight / calming and contemplation / śamatha and vipaśyanā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: chih-kuan. Identified in Zhi Yi's work as śamatha and vipaśyanā.
 35533	次第禅门	次第禪門	Cì Dì Chán Mén	Ci Di Chan Men	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: tz'u-ti ch'an-men. Written by Zhi Yi (智顗, 538—597), of the Tiantai school, giving a scheme for doctrinal classification.
 35534	三谛	三諦	sān dì	three truths	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: san-ti. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, representing: (1) 空 emptiness (2) 假 provisional nature (3) 中 middle
 35535	圆教	圓教	yuán jiāo	perfect teaching	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: yüan-chiao. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, representing the perfect teaching of the ultimate nature of reality, as in the Lotus Sutra
-35536	圆顿止观	圓頓止觀	yuán dùn zhǐ guān	Great Concentration and Insight	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Earlier title for 摩訶止觀. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
+35536	圆顿止观	圓頓止觀	yuán dùn zhǐ guān	Great Concentration and Insight	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Yüan-Tun Chih-Kuan. Earlier title for Mohe Zhi Guan 摩訶止觀. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
 35537	圆顿	圓頓	yuán dùn	perfect and sudden	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: yüan-tun. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, approach to calming and contemplation.
-35538	灌顶	灌頂	Guàn Dǐng	Guan Ding	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Disciple of Zhi Yi (智顗, 538—597), key figure of the Tiantai school. Guan Ding wrote down the text of Great Concentration and Insight (摩訶止觀) based on Zhi Yi's lectures.
+35538	灌顶	灌頂	Guàn Dǐng	Guanding	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Kuan-ting. 561—632, disciple of Zhi Yi (智顗, 538—597), key figure of the Tiantai school. Guan Ding wrote down the text of Great Concentration and Insight (摩訶止觀) based on Zhi Yi's lectures.
 35539	慧文	\N	Huì Wén	Hui Wen	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the second patriarch of the Tiantai school.
-35540	慧思	\N	Huì Sī	Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35540	慧思	\N	Huì Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
 35541	四种三昧	四種三昧	sì zhǒng sānmèi	four forms of samādhi	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: ssu chung san-mei. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: (1) constantly sitting 常坐 (2) constantly walking 常行 (3) part walking, part sitting 半行半坐 (4) neither sitting nor walking 非行非坐.
-35542	湛然	\N	Zhàn Rán	Zhan Ran	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	711—782, considered the ninth patriarch of the Tiantai school.
+35542	湛然	\N	Zhàn Rán	Zhanran / Chan-Jan	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chan-Jan. 711—782, considered the ninth patriarch of the Tiantai school.
 35543	互具	\N	hù jù	interpenetrating unity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that everything in the universe is interconnected.
 35544	俗谛	俗諦	sú dì	mundane truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: paramārtha, Pali: paramattha; refers to the reality of the secular world, without an understanding of dependent origination. Opposed to the real truth 真谛.
 35545	第一义谛	第一諦義	dì yī yì dì	supreme truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that transends both mundane truth 俗谛 and real truth 真谛.
@@ -35559,3 +35559,40 @@
 35559	非行非坐	\N	fēi xíng fēi zuò	neither walking, nor sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the fourth of the four forms of samādhi 四种三昧.
 35560	法华三昧	法華三昧	Fǎ Huá Sānmèi	Lotus Samādhi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	 A type of meditation described by Zhi Yi (智顗, 538—597), of the Tiantai school: a variant of part walking, part sitting meditation 半行半坐
 35561	摩尼珠	\N	móní	mani jewel / a wish fulfilling jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35562	四运	四運	sì yùn	the four phases of thought	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi 智顗 (538—597), of the Tiantai school
+35563	六受	\N	liù shòu	the six perceptions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
+35564	六作	\N	liù zuò	the six acts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
+35565	假	\N	jiǎ	provisional nature	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	jia3.mp3	\N
+35566	维摩经玄疏	維摩經玄疏	Wéi Mó Jīng Xuán Shū	Commentary on the Vimalakīrti Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 38 1777
+35567	四教义	四教義	Sì Jiàoyì	The Four Teachings	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 46 1929
+35568	菩萨璎珞本业经	菩薩瓔珞本業經	Púsà Yīngluò Běn Yè Jīng	Yingluo Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 24 1485
+35569	佛说仁王般若般若波罗蜜经	佛說仁王般若波羅蜜經	Fó shuō Rén Wáng Bōrěluómì Jīng	Vajrapāṇi Bodhisattva Prajñāpāramitā Sūtra / Vajrapāṇi Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 8 245
+35570	摩诃般若波罗蜜经	摩訶般若波羅蜜經	Móhē Bōrěluómì Jīng	Mahā Prajñāpāramitā Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T8 No. 223
+35571	荆州	荊州	Jīngzhōu	Jingzhou / Ching-chou	proper noun	\N	\N	地方	Places	中国	China	\N	\N	Wade-Giles:  Ching-chou
+35572	玉泉寺	\N	Yù Quán Sì	Yu Quan Temple / Jade Spring Temple / Yü-ch'ün ssu	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Wade-Giles:  Yü-ch'ün ssu, temple founded by Zhi Yi, fourth patriarch of the Tiantai School
+35573	大经	大經	Dà Jīng	The Mahaparinirvana Sutra / The Nirvāṇa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(T 12 375) An abbreviation used by Zhi Yi 智顗 in the Mohe Zhi Guan 摩诃止观.
+35574	观心论	觀心論	Guān Xīn Lùn	Treatise on Contemplating Thoughts	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 46 1920
+35575	璎珞经	瓔珞經	Yīngluò Jīng	Yingluo Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 24 1485
+35576	霔	\N	zhù	a long period of rain / a lot of rain	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35577	毱	\N	jú	a fur ball	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35578	皮毛	\N	pímáo	fur	noun	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
+35579	隥	\N	dèng	to look up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35580	竪	\N	shù	straight vertical character stroke	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	shu4.mp3	Archaic variant of 竖 / 豎
+35581	亘	\N	gèn	to extend across / to stretch	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 亙
+35582	瞽	\N	gǔ	blind / undiscerning	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35583	萠	\N	méng	a bud / a sprout	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35584	疣	\N	yóu	a nodule / a wart	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35585	开皇	開皇	Kāi Huáng	Kai Huang reign	proper noun	年号	Reign Name	历史	History	隋	Sui	\N	\N	581-604, reign name of Emperor Wen of Sui
+35586	付法藏因缘传	付法藏因緣傳	Fù Fǎ Zàng Yīnyuán Zhuàn	The History of the Transmission of the Dharma Treasury	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	An apocryphal text from the Northern Wei, T 50 2058
+35587	付法藏	\N	Fù Fǎ Zàng	The History of the Transmission of the Dharma Treasury	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	An apocryphal text from the Northern Wei, T 50 2058
+35588	元魏	\N	Yuán Wèi	Northern Wei Dynasty / Wei of the Northern Dynasties	proper noun	国	State	历史	History	中国	China	\N	\N	(386－557) founded by the Tuoba 拓跋 branch of Xianbei 鲜卑
+35589	吉迦夜	\N	Jíjiāyè	Kinkara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Northern Wei figure, attributed with translation of the The History of the Transmission of the Dharma Treasury 付法藏因缘传 T 50 2058
+35590	昙曜	曇曜	Tán Yào	Tan Yao	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	c. 450-490, Northern Wei figure, attributed with translation of the The History of the Transmission of the Dharma Treasury 付法藏因缘传 T 50 2058
+35591	南岳	\N	Nán Yuè	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35592	南岳思	南嶽思	Nán Yuè Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35593	立誓愿文	立誓願文	Lìshì Yuàn Wén	Establishment of Vows	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1933
+35594	诸法无诤三昧法门	諸法無諍三昧法門	Zhū Fǎ Wú Zhèng Sānmèi Fǎmén	The Samādhi of Non-contention of Following After One's Own Thoughts	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1923
+35595	大乘止观法门	大乘止觀法門	Dàchéng Zhǐ Guān Fǎmén	The Mahāyāna Teaching on Calm and Insight	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1924
+35596	法华经安乐行义	法華經安樂行義	Fǎ Huà Jīng Ānlè Xíng Yì	The Practice for Attaining Peace based on the Lotus Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1926
+35597	大方等陀罗尼经	大方等陀羅尼經	Dàfang Děng Tuóluóní Jīng	The Great Vaipulya Dhāraṇī Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Translated in the Northern Liang (398－439), T 21 1339
+35598	方等	\N	Dà Fāng Děng Tuóluóní Jīng	repentance practice	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A practice based on the Great Vaipulya Dhāraṇī Sūtra 大方等陀羅尼經
