@@ -42,6 +42,7 @@ class ChineseEnglishDict:
                         wdict[traditional]['other_entries'].append(entry)
         return wdict
 
+
 def isFunctionWord(entry):
     """Determines whether the given word is a function word.
 
@@ -55,6 +56,19 @@ def isFunctionWord(entry):
     return grammar in ['particle', 'preposition', 'conjunction', 'adverb', 
                        'pronoun', 'interrogative pronoun', 'auxiliary verb', 
                        'phonetic', 'suffix', 'prefix', 'interjection']
+
+
+def isProperNoun(entry):
+    """Determines whether the given word entry is a proper noun.
+
+    A function word is selected based on being one of a pronoun, particle, etc.
+    A special case is the word '有'.
+    """
+    grammar = entry['grammar']
+    if grammar == u'proper noun':
+        return True
+    return False
+
 
 def preferWord(entry1, entry2):
     """Determines which of the two terms are preferred

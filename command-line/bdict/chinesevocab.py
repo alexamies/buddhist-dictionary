@@ -109,13 +109,13 @@ class ChineseVocabulary:
             matcher = phrasematcher.PhraseDataset()
             matcher.Load()
             phrases = matcher.Matches(text)
-            self._PrintPhrases(phrases, outf, 'Matching entries in phrase dataset')
             bigrams = finder.GetNGrams(2)
             phrase_dict = matcher.Load()
-            self._PrintFrequencyNew(bigrams, outf, phrase_dict, 'N-grams with frequency greater than 2')
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('\n')
             self._PrintFrequencyNew(new_words, outf, phrase_dict, 'New Words')
+            self._PrintFrequencyNew(bigrams, outf, phrase_dict, 'N-grams with frequency greater than 2')
+            self._PrintPhrases(phrases, outf, 'Matching entries in phrase dataset')
             outf.write('\nThis page was last updated on %s.\n' % date.isoformat(date.today()))
         return outfile
 
@@ -123,6 +123,7 @@ class ChineseVocabulary:
         """Prints the set of known words with markdown links.
 
         Split the set into functional and non-functional words.
+        Print a separate category for proper nouns.
 
         args:
           word_freq: A dictionary of words
@@ -130,15 +131,23 @@ class ChineseVocabulary:
           outf: file object to send output to
           wc: the total word count
         """
+        proper_nouns = {}
         function_words = {}
         nonfunction_words = {}
         for k in word_freq.keys():
             word = sdict[k]
+            if cedict.isProperNoun(word):
+                proper_nouns[k] = word_freq[k]
             if cedict.isFunctionWord(word):
                 function_words[k] = word_freq[k]
             else:
                 nonfunction_words[k] = word_freq[k]
-        outf.write('### Frequency of non-function words:\n')
+        outf.write('### Frequency of proper nouns\n')
+        outf.write('For all proper nouns\n\n')
+        outf.write('Word, frequency, relative frequency per 1000 words\n\n')
+        for k in sorted(proper_nouns, key=lambda key: -proper_nouns[key]):
+            self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
+        outf.write('### Frequency of non-function words\n')
         outf.write('For words with frequency greater than 1\n\n')
         outf.write('Word, frequency, relative frequency per 1000 words\n\n')
         for k in sorted(nonfunction_words, key=lambda key: -nonfunction_words[key]):
