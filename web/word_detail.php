@@ -110,7 +110,7 @@ require_once 'inc/word_detail_top.php' ;
             "Traditional: " . $word->getTraditional() . "</div>\n");
       if ($word->getMp3()) {
         print("<div>Listen: <a href='mp3/" . $word->getMp3() . "'>" .
-              "<img src='images/audio.gif' alt='Play audio'/>" . 
+              "<img src='/images/audio.gif' alt='Play audio'/>" . 
               "</a>" .
               "</div>\n");
       }
