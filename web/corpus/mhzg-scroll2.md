@@ -1,24 +1,24 @@
-## The Great Calming and Contemplation Scroll 1 摩訶止觀卷第一
+## The Great Calming and Contemplation Scroll 2 摩訶止觀卷第二
 
-Description: Scroll 1 of the Chinese text of The Great Calming and Contemplation 摩訶止觀 from the Taishō Tripiṭaka. Spoken by Zhi Yi 智顗 (538—597) and written in Chinese by Guan Ding 灌頂 (561—632). Scroll 1 includes the introduction by Guan Ding, the introduction by Zhi Yi, and the first part of Section 1 Synopsis.
+Description: Scroll 2 of the Chinese text of The Great Calming and Contemplation 摩訶止觀 from the Taishō Tripiṭaka. Spoken by Zhi Yi 智顗 (538—597) and written in Chinese by Guan Ding 灌頂 (561—632). Scroll 2 includes the remainder of the Synopsis.
 
 For vocabulary analysis, see separate entries for the full text and for the introduction by Guan Ding.
 
 Period: Sui
 
-HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll1-gloss.html "HTML with gloss")
+HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll2-gloss.html "HTML with gloss")
 
 Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
-Reference: Taishō Tripiṭaka T 46 1911 Scroll 1
+Reference: Taishō Tripiṭaka T 46 1911 Scroll 2
 
 Attributed to: Zhi Yi 智顗
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/T46n1911 "The Great Calming and Contemplation 摩訶止觀")
 
-Alternate formats: [Plain text file] (corpus/mhzg-scroll1.txt "The Great Calming and Contemplation 摩訶止觀 Plain Text")
+Alternate formats: [Plain text file] (corpus/mhzg-scroll2.txt "The Great Calming and Contemplation 摩訶止觀 Plain Text")
 
 ### English translations
 

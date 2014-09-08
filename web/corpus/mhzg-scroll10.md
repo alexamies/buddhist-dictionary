@@ -1,0 +1,25 @@
+## The Great Calming and Contemplation Scroll 10 摩訶止觀卷第十
+
+Description: Scroll 10 of the Chinese text of The Great Calming and Contemplation 摩訶止觀 from the Taishō Tripiṭaka. Spoken by Zhi Yi 智顗 (538—597) and written in Chinese by Guan Ding 灌頂 (561—632). This scroll includes a continuation of Section 6 Clarifcation of Means
+
+For vocabulary analysis, see separate entries for the full text and for the introduction by Guan Ding.
+
+Period: Sui
+
+HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll10-gloss.html "HTML with gloss")
+
+Character Set: Traditional Chinese
+
+Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
+
+Reference: Taishō Tripiṭaka T 46 1911 Scroll 10
+
+Attributed to: Zhi Yi 智顗
+
+Document: [Document at CBETA] (http://tripitaka.cbeta.org/T46n1911 "The Great Calming and Contemplation 摩訶止觀")
+
+Alternate formats: [Plain text file] (corpus/mhzg-scroll10.txt "The Great Calming and Contemplation 摩訶止觀 Plain Text")
+
+### English translation
+
+Swanson, Paul, trans. The Great Cessation-and-Contemplation (Mo-Ho Chih-Kuan). Tokyo: Kosei Publishing Co. 2004.

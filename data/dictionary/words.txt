@@ -4783,7 +4783,7 @@
 4782	撼	\N	hàn	to shake / to shock	verb	\N	\N	行为	Actions	\N	\N	\N	han4.mp3	\N
 4783	震撼	\N	zhènhàn	to shake / to vibrate / to shock / to rock	verb	\N	\N	行为	Actions	\N	\N	\N	zhen4han4.mp3	\N
 4784	饱	飽	bǎo	to eat till full / to be satisfied	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	bao3.mp3	\N
-4785	尝	嚐	cháng	to taste / to test	verb	味道	Flavor	饮食	Food and Drink	\N	\N	\N	chang2.mp3	\N
+4785	尝	嚐	cháng	to taste / to test	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	chang2.mp3	\N
 4786	尝	嘗	cháng	already / formerly / already / ever / once	adverb	\N	\N	时间	Time	\N	\N	\N	chang2.mp3	\N
 4787	饱尝	飽嘗	bǎocháng	to enjoy fully / to experience to the full	verb	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
 4788	苦难	苦難	kǔnàn	suffering	noun	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
@@ -35608,3 +35608,51 @@
 35608	二十四史	\N	Èrshí Sì Shǐ	Twenty-Four Histories	proper noun	\N	\N	历史	History	中国	China	\N	\N	Official historic records of the different Chinese dynasties
 35609	大元海运记	大元海運記	Dà Yuán Hǎi Yùn Jì	Records of Maritime Transportation in the Yuan Dynasty	proper noun	书	Book	历史	History	中国	China	\N	\N	A historic record attributed to Zhu Qiang Zhang 朱清张
 35610	海道经	海道經	Hǎi Dào Jīng	Manual of Sailing Directions	proper noun	书	Book	历史	History	中国	China	\N	\N	A historic record written in the Yuan Dynasty
+35611	直沽	\N	Zhígū	Zhigu	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic name for Tianjin
+35612	浏	瀏	liú	clear / deep (of water) / swift	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35613	浏家港	瀏家港	Liújiāgǎng	Port of Liu Jia / Liujiagang	proper noun	港	Port	历史	History	中国	China	\N	\N	A historic name in the Yuan Dynasty for a port at the mouth of the Yangtze River, present day Liuhe, Taicang
+35614	刘家港	\N	Liújiāgǎng	Port of Liu Jia / Liujiagang	proper noun	港	Port	历史	History	中国	China	\N	\N	A historic name in the Yuan Dynasty for a port at the mouth of the Yangtze River, present day Liuhe, Taicang
+35615	临清	臨清	Línqīng	Linqing	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
+35616	杨子江	楊子江	Yángzǐ Jiāng	Yangtze River	proper noun	河	River	历史	History	中国	China	\N	\N	Historic name for the Yangtze River
+35617	金山寺	\N	Jīnshān Sì	Jinshan Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Temple on the Yangtze River in the town of Zhenjiang 鎮江
+35618	圆仁	圓仁	Yuán Rén	Ennin	proper noun	法师	Venerable	日本	Japan	中国	China	\N	\N	793 or 794 – 864, Japanese monk who travelled to China
+35619	东阿	東阿	Dōng'ē	Dong'e	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
+35620	澁	\N	sè	astringent / tart / acerbity / unsmooth / rough / hard to understand / obscure	adjective	\N	\N	状况	Condition	\N	\N	\N	se4.mp3	Archaic variant of simplified 涩 / traditional 澀
+35621	脚	\N	jiǎo	foot / leg / base / kick	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	jiao3.mp3	Archaic variant of 腳
+35622	沓	\N	tà	classifier for sheets of papers like pile, pad	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35623	沓	\N	dá	classifier for sheets of papers like pile, pad	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+35624	隣	\N	lín	neighbor / adjacent	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	lin2.mp3	Archaic variant of traditional 鄰 / simplified 邻
+35625	䓕	薳	wěi	a type of grass	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35626	杌	\N	wù	a low stool	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35627	偪	\N	bī	force / compel / drive	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 逼
+35628	黮	\N	tán	black / dark / unclear / private	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35629	悋	\N	lìn	stingy / sparing of / closefisted	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35630	鬪	\N	dòu	to fight / to struggle / to condemn	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 鬥 / simplified 斗
+35631	臊	\N	sào	to shame / to humiliate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35632	臊	\N	sāo	the smell of urine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35633	瘀	\N	yū	hematoma (internal blood clot) / extravasated blood (spilt into surrounding tissue) / contusion	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35634	甞	\N	cháng	to taste / to test	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	chang2.mp3	Archaic variant of traditional 嚐 / simplified 尝
+35635	猨	\N	yuán	ape	noun	动物	Animal	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 猿
+35636	粖	\N	mò	micro / tiny / miniature	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35637	絓	\N	guà	to hinder / to offend / to form	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35638	絓	\N	guà	unique	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35639	絓	\N	kuā	a type of coarse silk / a bag used to wrap silk before washing	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35640	煗	\N	nuǎn	warm	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 暖
+35641	喍	\N	chái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
+35642	嘊	\N	ái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
+35643	嘊喍	\N	áichái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
+35644	糟	\N	zāo	in a mess / in a bad situation	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 蹧
+35645	膖	\N	pāng	to swell	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35646	痹	痺	bì	paralysis / numbness	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35647	癊	\N	yìn	a disease of the heart	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35648	麞	\N	zhāng	a river deer / roebuck	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35649	怱	\N	cōng	hasty / hurried	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	cong1.mp3	Archaic variant of 匆
+35650	樵	\N	qiáo	firewood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35651	樵	\N	qiáo	to gather wood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35652	襵	\N	zhé	a pleat in a skirt	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35653	襵	\N	zhě	a pleat in a skirt	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35654	綩	\N	wǎn	vast / expansive	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35655	侹	\N	tǐng	to wait for a day	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35656	晈	\N	jiǎo	bright / white	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35657	镢	钁	jué	a mattock / hoe	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35658	斵	\N	zhuó	to chop / to hack / to carve	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 斫
