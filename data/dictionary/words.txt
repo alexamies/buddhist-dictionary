@@ -4010,7 +4010,6 @@
 4010	姨妈	姨媽	yímā	maternal aunt / aunt	noun	亲戚	Relative	家	Family	\N	\N	\N	\N	\N
 4011	姑	\N	gū	paternal aunt  / aunt	noun	亲戚	Relative	家	Family	\N	\N	\N	gu1.mp3	\N
 4012	姑姑	姑姑	gūgu	paternal aunt  / aunt	noun	亲戚	Relative	家	Family	\N	\N	\N	gu1gu.mp3	\N
-
 4013	姑妈	姑媽	gūmā	paternal aunt  / aunt	noun	亲戚	Relative	家	Family	\N	\N	\N	\N	\N
 4014	母亲	母親	mǔqīn	mother	noun	\N	\N	家	Family	\N	\N	\N	\N	\N
 4015	妈妈	媽媽	māma	mother	noun	\N	\N	家	Family	\N	\N	\N	ma1ma.mp3	Informal
@@ -35472,247 +35471,268 @@
 35471	记录	記錄	jìlù	Head of Records	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
 35472	衣钵	衣缽	yībō	Assistant of Abbot	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
 35473	汤药	湯藥	tāng yào	Medicinal Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35475	清眾	清眾	qīngzhòng	duty-less assistants	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35476	香灯	香燈	xiāng dēng	Shrine Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35477	堂主	\N	táng zhǔ	Hall Chief	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35478	座元	\N	zuò yuán	First Seat	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35479	藏主	\N	zàng zhǔ	Chief of Sutra Repository	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35480	知藏	\N	zhī zàng	Sutra Repository Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35481	參头	參頭	cān tóu	Eldest of the Chan Hall	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35482	司水	\N	sī shuǐ	Head of Water	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	for Bathing, one of the Forty-Eight Positions in a Chan monastery
-35483	监院	監院	jiàn yuàn	Temple Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35484	副寺	\N	jiàn yuàn	Assistant Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35485	库司	庫司	kù sī	Head of Accounting	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35486	监收	監收	jiàn shōu	Financial Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35487	磨头	磨頭	mó tóu	Head of the Mill	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35488	殿主	\N	diàn zhǔ	Shrine Warden	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35489	钟头	鐘頭	zhōngtóu	Chief of Bell	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35490	鼓头	鐘頭	gǔtóu	Chief of Drum	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35491	夜巡	鐘頭	yè xún	Night Patrol	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35492	典座	\N	diǎn zuò	Chief of Kitchen and Storage	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35493	貼案	贴案	tiē àn	Cook	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35494	饭头	飯頭	fàn tóu	Chief of Rice	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35495	菜头	菜頭	cài tóu	Chief of Vegetables	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35496	水头	水頭	shuǐ tóu	Chief of Water	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	For the kitchen, one of the Forty-Eight Positions in a Chan monastery
-35497	火头	火頭	huǒ tóu	Chief of Lighting Fire	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35498	茶头	茶頭	huǒ tóu	Chief of Lighting Fire	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35499	茶头	茶頭	chá tóu	Chief of Tea	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35500	行堂	\N	xíng táng	Chief of Table Service	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35474	清眾	清眾	qīngzhòng	duty-less assistants	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35475	香灯	香燈	xiāng dēng	Shrine Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35476	堂主	\N	táng zhǔ	Hall Chief	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35477	座元	\N	zuò yuán	First Seat	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35478	藏主	\N	zàng zhǔ	Chief of Sutra Repository	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35489	知藏	\N	zhī zàng	Sutra Repository Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35480	參头	參頭	cān tóu	Eldest of the Chan Hall	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35481	司水	\N	sī shuǐ	Head of Water	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	for Bathing, one of the Forty-Eight Positions in a Chan monastery
+35482	监院	監院	jiàn yuàn	Temple Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35483	副寺	\N	jiàn yuàn	Assistant Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35484	库司	庫司	kù sī	Head of Accounting	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35485	监收	監收	jiàn shōu	Financial Supervisor	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35486	磨头	磨頭	mó tóu	Head of the Mill	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35487	殿主	\N	diàn zhǔ	Shrine Warden	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35488	钟头	鐘頭	zhōngtóu	Chief of Bell	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35489	鼓头	鐘頭	gǔtóu	Chief of Drum	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35490	夜巡	鐘頭	yè xún	Night Patrol	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35491	典座	\N	diǎn zuò	Chief of Kitchen and Storage	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35492	貼案	贴案	tiē àn	Cook	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35493	饭头	飯頭	fàn tóu	Chief of Rice	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35494	菜头	菜頭	cài tóu	Chief of Vegetables	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35495	水头	水頭	shuǐ tóu	Chief of Water	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	For the kitchen, one of the Forty-Eight Positions in a Chan monastery
+35496	火头	火頭	huǒ tóu	Chief of Lighting Fire	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35497	茶头	茶頭	huǒ tóu	Chief of Lighting Fire	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35498	茶头	茶頭	chá tóu	Chief of Tea	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35499	行堂	\N	xíng táng	Chief of Table Service	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35500	门头	門頭	mén tóu	Chief of Monastery Gate	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
 35501	门头	門頭	mén tóu	Chief of Monastery Gate	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35502	门头	門頭	mén tóu	Chief of Monastery Gate	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35502	园头	園頭	yuán tóu	Chief of Farming	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
 35503	园头	園頭	yuán tóu	Chief of Farming	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35504	园头	園頭	yuán tóu	Chief of Farming	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35505	照客	\N	zhào kè	Guest Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
-35506	四十八单	四十八單	sì shí bā dān	Forty-Eight Positions	phrase	\N	\N	佛教	Buddhism	禪宗	Chan School	\N	\N	The Forty-Eight Positions in a Chan monastery
-35507	异	異	yì	other	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yi4.mp3	\N
-35508	视觉化	視覺化	shìjuéhuà	visualization	noun	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
-35509	古籍	\N	gǔjí	an antiquarian book 	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
-35510	回顾	回顧	huígù	to look back / to review 	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
-35511	工作坊	\N	gōngzuò fāng	a workshop 	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
-35512	数位化	數位化	shùwèihuà	digitization	noun	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
-35513	超连结	超連結	chāoliánjié	hyperlink	noun	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
-35514	印顺	印順	Yìn Shùn	Yin Shun	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	\N
-35515	碳酸氢钠	碳酸氫鈉	tàn suān qīng nà	sodium bicarbonate / baking soda/ bicarbonate of soda	noun	化合物	Compound	化学	Chemistry	\N	\N	\N	\N	\N
-35516	苏打粉	蘇打粉	sūdǎ fěn	sodium bicarbonate / baking soda/ bicarbonate of soda	noun	化合物	Compound	化学	Chemistry	\N	\N	\N	\N	\N
-35517	近	\N	jìn	to approach / to be near / to draw close to	adjective	\N	\N	位	Position	\N	\N	\N	jin4.mp3	\N
-35518	伽陀	\N	jiātuó	gatha / hymn / verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: gāthā, records the teachings of the Buddha in verse form; one of the twelve divisions of the sutras 十二部经
-35519	替罪羊	\N	tìzuìyáng	scapegoat	noun	\N	\N	口语	Colloquial	\N	\N	\N	\N	\N
-35520	预流	預流	Yùliú	Sotapanna / Srotaāpanna / Stream-Enterer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: srotaāpanna, Pali: sotāpanna; the first of the four stages of enlightenment. This form was used by Xuan Zang.
-35521	摩诃止观	摩訶止観	Móhē Zhǐ Guān	Great Concentration and Insight	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Japanese variant of 摩訶止觀. Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
-35522	観	\N	guān	to look at / to watch / to observe	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Japanese variant of 觀｜观
-35523	法华文句	法華文句	Fǎhuá Wén Jù	Words and Phrases of the Lotus Sutra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Written by Zhi Yi (智顗, 538—597), fourth patriarch of the Tiantai School.
-35524	法华玄义	法華玄義	Fǎhuá Xuán Yì	Profound Meaning of the Lotus Sutra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Written by Zhi Yi (智顗, 538—597), fourth patriarch of the Tiantai School.
-35525	遍计所执性	遍計所執性	biàn jì suǒ zhíxìng	parikalpita / sole imagination / imaginary	noun	\N	\N	佛教	Buddhism	瑜伽	Yogacara	\N	\N	From Sanskrit: parikalpita, the first of the three levels of knowledge in the Yogacara School
-35526	依他起性	\N	yī tā qǐ xìng	paratantra / dependence on others / dependent	noun	\N	\N	佛教	Buddhism	瑜伽	Yogacara	\N	\N	From Sanskrit: paratantra, the second of the three levels of knowledge in the Yogacara School
-35527	圆成实性	圓成實性	yuán chéng shí xìng	pariniṣpanna / ultimate reality / perfected	noun	\N	\N	佛教	Buddhism	瑜伽	Yogacara	\N	\N	From Sanskrit: pariniṣpanna, the second of the three levels of knowledge in the Yogacara School
-35528	韦氏拼音	韋氏拼音	Wéi Shì Pīnyīn	Wade–Giles	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	A old Romanization system for Chinese characters
-35529	威妥玛拼音	威妥瑪拼音	Wēi Tuǒ Mǎ Pīnyīn	Wade–Giles	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	A old Romanization system for Chinese characters
-35530	判教	\N	pànjiāo	classification of teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: p'an-chiao. A scheme for doctrinal classification.
-35531	摩诃止观	摩訶止觀	Móhē Zhǐ Guān	The Great Calming and Contemplation / Great Concentration and Insight / Mohe Zhi Guan	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi 智顗 (538—597), recognized as the seminal text of the Tiantai school (T 46 1911).
-35532	止观	止觀	Zhǐ Guān	calming and insight / calming and contemplation / śamatha and vipaśyanā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: chih-kuan. Identified in Zhi Yi's work as śamatha and vipaśyanā.
-35533	次第禅门	次第禪門	Cì Dì Chán Mén	Ci Di Chan Men	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: tz'u-ti ch'an-men. Written by Zhi Yi (智顗, 538—597), of the Tiantai school, giving a scheme for doctrinal classification.
-35534	三谛	三諦	sān dì	three truths	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: san-ti. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, representing: (1) 空 emptiness (2) 假 provisional nature (3) 中 middle
-35535	圆教	圓教	yuán jiāo	perfect teaching	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: yüan-chiao. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, representing the perfect teaching of the ultimate nature of reality, as in the Lotus Sutra
-35536	圆顿止观	圓頓止觀	yuán dùn zhǐ guān	Great Concentration and Insight	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Yüan-Tun Chih-Kuan. Earlier title for Mohe Zhi Guan 摩訶止觀. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
-35537	圆顿	圓頓	yuán dùn	perfect and sudden	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: yüan-tun. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, approach to calming and contemplation.
-35538	灌顶	灌頂	Guàn Dǐng	Guanding	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Kuan-ting. 561—632, disciple of Zhi Yi (智顗, 538—597), key figure of the Tiantai school. Guan Ding wrote down the text of Great Concentration and Insight (摩訶止觀) based on Zhi Yi's lectures.
-35539	慧文	\N	Huì Wén	Hui Wen	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the second patriarch of the Tiantai school.
-35540	慧思	\N	Huì Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
-35541	四种三昧	四種三昧	sì zhǒng sānmèi	four forms of samādhi	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: ssu chung san-mei. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: (1) constantly sitting 常坐 (2) constantly walking 常行 (3) part walking, part sitting 半行半坐 (4) neither sitting nor walking 非行非坐.
-35542	湛然	\N	Zhàn Rán	Zhanran / Chan-Jan	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chan-Jan. 711—782, considered the ninth patriarch of the Tiantai school.
-35543	互具	\N	hù jù	interpenetrating unity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that everything in the universe is interconnected.
-35544	俗谛	俗諦	sú dì	mundane truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: paramārtha, Pali: paramattha; refers to the reality of the secular world, without an understanding of dependent origination. Opposed to the real truth 真谛.
-35545	第一义谛	第一諦義	dì yī yì dì	supreme truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that transends both mundane truth 俗谛 and real truth 真谛.
-35546	天台	\N	Tiāntái	Tiantai / T'ien-tai	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	Japanese: Tendai-shū, Wade-Giles: T'ien-tai; one of the Eight Schools of Chinese Buddhism 八大宗派
-35547	六即	\N	liù jí	the six identities	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, relating to classification and implications of teachings: (1) 理即 identity in principle, (2) 名字即 verbal identity, (3) 觀行即 identity in meditative practice, (4) 相似即 identity in resemblance, (5) 分真即 identity in increments of truth, and (6) 究竟即 ultimate identity.
-35548	理即	\N	lǐ jí	identity in principle	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
-35549	名字即	\N	míngzi jí	verbal identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
-35550	观行即	觀行即	guān xíng jí	identity in meditative practice	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
-35551	相似即	\N	xiāngsì jí	identity in resemblance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
-35552	分真即	\N	fèn zhēn jí	identity in increments of truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
-35553	究竟即	\N	jiūjìng jí	ultimate identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
-35554	菩萨位	菩薩位	púsà wèi	bodhisattvahood	phrase	\N	\N	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
-35555	醍醐	\N	tíhú	ghee	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35556	常坐	\N	cháng zuò	constantly sitting in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the first of the four forms of samādhi 四种三昧.
-35557	常行	\N	cháng xíng	constantly walking in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the second of the four forms of samādhi 四种三昧.
-35558	半行半坐	\N	bàn xíng bàn zuò	part walking, part sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the third of the four forms of samādhi 四种三昧.
-35559	非行非坐	\N	fēi xíng fēi zuò	neither walking, nor sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the fourth of the four forms of samādhi 四种三昧.
-35560	法华三昧	法華三昧	Fǎ Huá Sānmèi	Lotus Samādhi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	 A type of meditation described by Zhi Yi (智顗, 538—597), of the Tiantai school: a variant of part walking, part sitting meditation 半行半坐
-35561	摩尼珠	\N	móní	mani jewel / a wish fulfilling jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-35562	四运	四運	sì yùn	the four phases of thought	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi 智顗 (538—597), of the Tiantai school
-35563	六受	\N	liù shòu	the six perceptions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
-35564	六作	\N	liù zuò	the six acts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
-35565	假	\N	jiǎ	provisional nature	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	jia3.mp3	\N
-35566	维摩经玄疏	維摩經玄疏	Wéi Mó Jīng Xuán Shū	Commentary on the Vimalakīrti Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 38 1777
-35567	四教义	四教義	Sì Jiàoyì	The Four Teachings	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 46 1929
-35568	菩萨璎珞本业经	菩薩瓔珞本業經	Púsà Yīngluò Běn Yè Jīng	Yingluo Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 24 1485
-35569	佛说仁王般若般若波罗蜜经	佛說仁王般若波羅蜜經	Fó shuō Rén Wáng Bōrěluómì Jīng	Vajrapāṇi Bodhisattva Prajñāpāramitā Sūtra / Vajrapāṇi Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 8 245
-35570	摩诃般若波罗蜜经	摩訶般若波羅蜜經	Móhē Bōrěluómì Jīng	Mahā Prajñāpāramitā Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T8 No. 223
-35571	荆州	荊州	Jīngzhōu	Jingzhou / Ching-chou	proper noun	\N	\N	地方	Places	中国	China	\N	\N	Wade-Giles:  Ching-chou
-35572	玉泉寺	\N	Yù Quán Sì	Yu Quan Temple / Jade Spring Temple / Yü-ch'ün ssu	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Wade-Giles:  Yü-ch'ün ssu, temple founded by Zhi Yi, fourth patriarch of the Tiantai School
-35573	大经	大經	Dà Jīng	The Mahāpirvāṇa Sūtra / The Nirvāṇa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(T 12 375) An abbreviation used by Zhi Yi 智顗 in the Mohe Zhi Guan 摩诃止观.
-35574	观心论	觀心論	Guān Xīn Lùn	Treatise on Contemplating Thoughts	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 46 1920
-35575	璎珞经	瓔珞經	Yīngluò Jīng	Yingluo Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 24 1485
-35576	霔	\N	zhù	a long period of rain / a lot of rain	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35577	毱	\N	jú	a fur ball	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35578	皮毛	\N	pímáo	fur	noun	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
-35579	隥	\N	dèng	to look up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35580	竪	\N	shù	straight vertical character stroke	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	shu4.mp3	Archaic variant of 竖 / 豎
-35581	亘	\N	gèn	to extend across / to stretch	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 亙
-35582	瞽	\N	gǔ	blind / undiscerning	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35583	萠	\N	méng	a bud / a sprout	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35584	疣	\N	yóu	a nodule / a wart	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35585	开皇	開皇	Kāi Huáng	Kai Huang reign	proper noun	年号	Reign Name	历史	History	隋	Sui	\N	\N	581-604, reign name of Emperor Wen of Sui
-35586	付法藏因缘传	付法藏因緣傳	Fù Fǎ Zàng Yīnyuán Zhuàn	The History of the Transmission of the Dharma Treasury	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	An apocryphal text from the Northern Wei, T 50 2058
-35587	付法藏	\N	Fù Fǎ Zàng	The History of the Transmission of the Dharma Treasury	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	An apocryphal text from the Northern Wei, T 50 2058
-35588	元魏	\N	Yuán Wèi	Northern Wei Dynasty / Wei of the Northern Dynasties	proper noun	国	State	历史	History	中国	China	\N	\N	(386－557) founded by the Tuoba 拓跋 branch of Xianbei 鲜卑
-35589	吉迦夜	\N	Jíjiāyè	Kinkara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Northern Wei figure, attributed with translation of the The History of the Transmission of the Dharma Treasury 付法藏因缘传 T 50 2058
-35590	昙曜	曇曜	Tán Yào	Tan Yao	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	c. 450-490, Northern Wei figure, attributed with translation of the The History of the Transmission of the Dharma Treasury 付法藏因缘传 T 50 2058
-35591	南岳	\N	Nán Yuè	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
-35592	南岳思	南嶽思	Nán Yuè Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
-35593	立誓愿文	立誓願文	Lìshì Yuàn Wén	Establishment of Vows	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1933
-35594	诸法无诤三昧法门	諸法無諍三昧法門	Zhū Fǎ Wú Zhèng Sānmèi Fǎmén	The Samādhi of Non-contention of Following After One's Own Thoughts	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1923
-35595	大乘止观法门	大乘止觀法門	Dàchéng Zhǐ Guān Fǎmén	The Mahāyāna Teaching on Calm and Insight	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1924
-35596	法华经安乐行义	法華經安樂行義	Fǎ Huà Jīng Ānlè Xíng Yì	The Practice for Attaining Peace based on the Lotus Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1926
-35597	大方等陀罗尼经	大方等陀羅尼經	Dàfang Děng Tuóluóní Jīng	The Great Vaipulya Dhāraṇī Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Translated in the Northern Liang (398－439), T 21 1339
-35598	方等	\N	Dà Fāng Děng Tuóluóní Jīng	repentance practice	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A practice based on the Great Vaipulya Dhāraṇī Sūtra 大方等陀羅尼經
-35599	六妙法门	六妙法門	liù miào fǎ mén	Liu Miao Fa Men	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	A treatise written by Zhi Yi 智顗, the fourth patriarch of the Tiantai school (T 46 1917)
-35600	胜天王般若波罗蜜经	勝天王般若波羅蜜經	Shèng Tiānwáng Bōrěluómì Jīng	The Prajñāpāramitā sūtra of Devarājapravara	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
-35601	先行词	先行詞	xiānxíng cí	an antecedent	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
-35602	假名	\N	jià míng	designation / provisional / conventional term	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: prajñapti
-35603	临川	臨川	Línchuān	Linchuan	proper noun	区	District	中国	China	\N	\N	\N	\N	A place in Zhejiang
-35604	思益梵天所问经	思益梵天所問經	Sī Yì Fàntiān Suǒ Wèn Jīng	Viśeṣacintabrahma-paripṛcchā Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 15 586
-35605	却	\N	què	but / yet / however / while / nevertheless	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	que4.mp3	Archaic variant of 卻
-35606	宋史	\N	Sòng Shǐ	History of Song	proper noun	书	Book	历史	History	中国	China	\N	\N	\N
-35607	隋书	隋書	Suí Shū	Book of Sui	proper noun	书	Book	历史	History	中国	China	\N	\N	\N
-35608	二十四史	\N	Èrshí Sì Shǐ	Twenty-Four Histories	proper noun	\N	\N	历史	History	中国	China	\N	\N	Official historic records of the different Chinese dynasties
-35609	大元海运记	大元海運記	Dà Yuán Hǎi Yùn Jì	Records of Maritime Transportation in the Yuan Dynasty	proper noun	书	Book	历史	History	中国	China	\N	\N	A historic record attributed to Zhu Qiang Zhang 朱清张
-35610	海道经	海道經	Hǎi Dào Jīng	Manual of Sailing Directions	proper noun	书	Book	历史	History	中国	China	\N	\N	A historic record written in the Yuan Dynasty
-35611	直沽	\N	Zhígū	Zhigu	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic name for Tianjin
-35612	浏	瀏	liú	clear / deep (of water) / swift	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35613	浏家港	瀏家港	Liújiāgǎng	Port of Liu Jia / Liujiagang	proper noun	港	Port	历史	History	中国	China	\N	\N	A historic name in the Yuan Dynasty for a port at the mouth of the Yangtze River, present day Liuhe, Taicang
-35614	刘家港	\N	Liújiāgǎng	Port of Liu Jia / Liujiagang	proper noun	港	Port	历史	History	中国	China	\N	\N	A historic name in the Yuan Dynasty for a port at the mouth of the Yangtze River, present day Liuhe, Taicang
-35615	临清	臨清	Línqīng	Linqing	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
-35616	杨子江	楊子江	Yángzǐ Jiāng	Yangtze River	proper noun	河	River	历史	History	中国	China	\N	\N	Historic name for the Yangtze River
-35617	金山寺	\N	Jīnshān Sì	Jinshan Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Temple on the Yangtze River in the town of Zhenjiang 鎮江
-35618	圆仁	圓仁	Yuán Rén	Ennin	proper noun	法师	Monastic	日本	Japan	中国	China	\N	\N	793 or 794 – 864, Japanese monk who travelled to China
-35619	东阿	東阿	Dōng'ē	Dong'e	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
-35620	澁	\N	sè	astringent / tart / acerbity / unsmooth / rough / hard to understand / obscure	adjective	\N	\N	状况	Condition	\N	\N	\N	se4.mp3	Archaic variant of simplified 涩 / traditional 澀
-35621	脚	\N	jiǎo	foot / leg / base / kick	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	jiao3.mp3	Archaic variant of 腳
-35622	沓	\N	tà	classifier for sheets of papers like pile, pad	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35623	沓	\N	dá	classifier for sheets of papers like pile, pad	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
-35624	隣	\N	lín	neighbor / adjacent	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	lin2.mp3	Archaic variant of traditional 鄰 / simplified 邻
-35625	䓕	薳	wěi	a type of grass	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35626	杌	\N	wù	a low stool	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35627	偪	\N	bī	force / compel / drive	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 逼
-35628	黮	\N	tán	black / dark / unclear / private	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35629	悋	\N	lìn	stingy / sparing of / closefisted	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35630	鬪	\N	dòu	to fight / to struggle / to condemn	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 鬥 / simplified 斗
-35631	臊	\N	sào	to shame / to humiliate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35632	臊	\N	sāo	the smell of urine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35633	瘀	\N	yū	hematoma (internal blood clot) / extravasated blood (spilt into surrounding tissue) / contusion	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35634	甞	\N	cháng	to taste / to test	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	chang2.mp3	Archaic variant of traditional 嚐 / simplified 尝
-35635	猨	\N	yuán	ape	noun	动物	Animal	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 猿
-35636	粖	\N	mò	micro / tiny / miniature	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35637	絓	\N	guà	to hinder / to offend / to form	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35638	絓	\N	guà	unique	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35639	絓	\N	kuā	a type of coarse silk / a bag used to wrap silk before washing	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35640	煗	\N	nuǎn	warm	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 暖
-35641	喍	\N	chái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
-35642	嘊	\N	ái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
-35643	嘊喍	\N	áichái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
-35644	糟	\N	zāo	in a mess / in a bad situation	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 蹧
-35645	膖	\N	pāng	to swell	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35646	痹	痺	bì	paralysis / numbness	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35647	癊	\N	yìn	a disease of the heart	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35648	麞	\N	zhāng	a river deer / roebuck	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35649	怱	\N	cōng	hasty / hurried	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	cong1.mp3	Archaic variant of 匆
-35650	樵	\N	qiáo	firewood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35651	樵	\N	qiáo	to gather wood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35652	襵	\N	zhé	a pleat in a skirt	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35653	襵	\N	zhě	a pleat in a skirt	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35654	綩	\N	wǎn	vast / expansive	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35655	侹	\N	tǐng	to wait for a day	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35656	晈	\N	jiǎo	bright / white	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35657	镢	钁	jué	a mattock / hoe	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35658	斵	\N	zhuó	to chop / to hack / to carve	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 斫
-35659	天台智者	\N	Tiāntái zhìzhě	Zhi Yi / Chih-i	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Literally, the Sage of Tiantai
-35660	毘婆舍那	\N	pípóshènà	vipaśyanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vipaśyanā
-35661	丛书	叢書	cóngshū	a series of books / a collection of books	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N
-35662	革除	\N	géchú	to eliminate / to expel / to abolish	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
-35663	信托	信託	xìntuō	to entrust / trust bond	verb	\N	\N	财会	Finance and Accounting	\N	\N	\N	\N	\N
-35664	低调	低調	dīdiào	humility / subdued / low-key / low-profile	noun	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
-35665	低调	低調	dīdiào	a low pitch / quiet	noun	\N	\N	声	Sound	\N	\N	\N	\N	\N
-35666	安逸	\N	ānyì	easy and comfortable / easy	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-35667	作务	作務	zuòwù	to work / to serve	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
-35668	无尽	無盡	wújìn	endless / inexhaustible	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-35669	谈玄說妙	談玄说妙	tán xuán shuō miào	to talk about mysticism	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
-35670	行住坐臥	\N	xíng zhù zuò wò	etiquette in the four postures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-35671	句话	句話	jù huà	a saying	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
-35672	杂阿含	雜阿含	Zá Āhán	Saṃyutta Nikāya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-35673	胜鬘经	勝鬘經	Shèng Mán Jīng	Srimala Sutra / Śrīmālādevī Siṃhanāda Sūtra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
-35674	禅门语录	禪門語錄	Chán mén yǔlù	sayings of Chan masters	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
-35675	和乐	和樂	hé lè	harmonious and happy	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
-35676	忍气吞声	忍氣吞聲	rěn qì tūn shēng	to submit to humiliation / to suffer in silence / to swallow one's anger / to grin and bear it	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
-35677	千锤百炼	千錘百鍊	qiān chuí bǎi liàn	after hard work and numerous revisions / the vicissitudes of life	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
-35678	瀑流	\N	pùliú	a waterfall	noun	\N	\N	水	Water	\N	\N	\N	\N	\N
-35679	契机	契機	qìjī	an opportunity / a turning point / a juncture	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-35680	契理	\N	qìlǐ	in agreement with the truth	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
-35681	企划	企劃	qǐhuà	to plan / to lay out / to design	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
-35682	洪自诚	洪自誠	Hóng Zìchéng	Hong Zicheng / Hong Yingming / Hung Tzu-Ch'eng	proper noun	作者	Writer	哲学	Philosophy	中国	China	\N	\N	Wade–Giles: Hung Tzu-Ch'eng, 1572-1620, a Chinese philosopher and writer
-35683	洪应明	洪應明	Hóng Yīngmíng	Hong Zicheng / Hong Yingming / Hung Tzu-Ch'eng	proper noun	作者	Writer	哲学	Philosophy	中国	China	\N	\N	Wade–Giles: Hung Tzu-Ch'eng, 1572-1620, a Chinese philosopher and writer
-35684	法眼文益	\N	Fǎ Yǎn Wén Yì	Fa Yan Wen Yi / Qing Liang Wen Yi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	885-958, a Chinese Buddhist writer
-35685	清凉文益	清涼文益	Qīng Liáng Wén Yì	Fa Yan Wen Yi / Qing Liang Wen Yi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	885-958, a Chinese Buddhist writer
-35686	艳冶	艷冶	yànyě	changing colors	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Figuratively, seductively dressed up
-35687	朝露	\N	cháolù	morning dew	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Figuratively, the precarious brevity of human life, ephemeral
-35688	馨香	\N	xīn xiāng	fragrance / fragrant (of incense)	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35689	何须	何須	xīn xiāng	why should / there is no need	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35690	零落	\N	líng luò	withered and fallen / scattered / sporadic	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35691	五灯会元	五燈會元	wŭ dēng huì yuán	Compendium of the Five Lamps / Song Dynasty History of Zen Buddhism in China	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	1252, X 80 1565
-35692	哈拉和林	\N	Hālāhélín	Karakorum	proper noun	首都	Capital	历史	History	蒙古	Mongolia	\N	\N	Capital of the Mongolian Empire
-35693	开平	\N	Kāipíng	Kaiping / Kemenfu / Kaipingfu	proper noun	城市	City	历史	History	中国	China	\N	\N	Early name of Kublai Khan's former capital Shangdu. Located in Inner Mongolia near Duolun 多伦淖尔
-35694	淖	\V	nào	slush / mud	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35695	多伦淖尔	多倫淖爾	Duōlún Nào'ĕr	Duolun	proper noun	城市	City	地方	Places	中国	China	\N	\N	Near the Kublai Khan's former capital Shangdu. Located in Inner Mongolia near Duolun 多伦淖尔.
-35696	中都	\N	Zhōngdū	Zhongdu / Dadu / Khanbaliq / Beijing	proper noun	城市	City	历史	History	中国	China	\N	\N	Name of the Jin capital in present-day Beijing， renamed as Dadu by Kublai Khan
-35697	汗八里	\N	Hànbālǐ	Khanbaliq / Cambaluc / Dadu / Daidu / Beijing	proper noun	首都	Capital	历史	History	元朝	Yuan Dynasty	\N	da4du1.mp3	Capital of the Yuan Dynasty. Literally, City of the Khan, which was renamed from Zhongdu, capital of the Jin Dynasty, later named as Beijing 北京. Preferred spelling: Khanbaliq.
-35698	栄	\N	róng	glory / honor	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	rong2.mp3	Japanese variant of traditional 榮 / simplified 荣.
-35699	栄西	\N	Róng Xī	Eisai / Myōan Eisai	noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1141-1215, Japanese monk who travelled to China. A Japanese variant of traditional 榮 / simplified 荣 is used in his name.
-35700	明菴栄西	\N	Míng Ān Róng Xī	Eisai / Myōan Eisai	noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1141-1215, Japanese monk who travelled to China. A Japanese variant of traditional 榮 / simplified 荣 is used in his name.
-35702	禅師	\N	Chán Shī	Chan Master / Zen Master / Seon Master	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese variant with an archaic form of the traditional characters 禪
-35702	喫	\N	chī	to consume	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic or Japanese variant of 吃
-35703	喫茶养生记	喫茶養生記	Chī Chá Yǎngshēng Jì	Drink Tea and Prolong Life / Kissayøjøki	proper noun	书	Book	历史	History	日本	Japan	\N	\N	Book written by Japanese monk Eisai 栄西 (1141-1215)
-35704	荣西	榮西	Róng Xī	Eisai / Myōan Eisai	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1141-1215, Japanese monk who travelled to China. Chinese writing of his name.
-35705	诸路交钞提举司	諸路交鈔提舉司	Zhū Lù Jiāo Chāo Tí Jǔ Sī	Imperial Mint	proper noun	\N	\N	历史	History	元朝	Yuan Dynasty	\N	\N	Yuan Dynasty Mint
-35706	兴圣宫	興聖宮	Xīngshèng Gōng	Xingsheng Palace	proper noun	宫	Palace	历史	History	元朝	Yuan Dynasty	\N	\N	Located in Dadu (Beijing), used by the Imperial family in the Yuan Dynasty.
-35707	大内	大內	Dà Nèi	Main Imperial Palace	proper noun	宫	Palace	历史	History	元朝	Yuan Dynasty	\N	\N	Built in 1274, located in Dadu (Beijing), the main palace in the Yuan Dynasty
-35708	隆福宫	隆福宮	Lóngfú Gōng	Longfu Palace	proper noun	宫	Palace	历史	History	元朝	Yuan Dynasty	\N	\N	Located in Dadu (Beijing), used by the Imperial family in the Yuan Dynasty.
-35709	永定河	\N	Yǒngdìng Hé	Yongding River	proper noun	河	River	地方	Places	北京	Beijing	\N	\N	\N
-35710	海河	\N	Yǒngdìng Hé	Hai River / Bai He	proper noun	河	River	地方	Places	中国	China	\N	\N	Previously, the Bai He
-35711	白河	\N	Bái Hé	Hai River / Bai He	proper noun	河	River	地方	Places	中国	China	\N	\N	Later called the Hai River 海河
-35712	涿州	\N	Zhuōzhōu	Zhuozhou	proper noun	城市	City	地方	Places	河北	Hebei	\N	\N	In the Fangshan area, on the Beijuma River
-35713	拒马河	拒馬河	Jùmǎ Hé	Juma River	proper noun	河	River	地方	Places	中国	China	\N	\N	Forms the boundary between Hebei and Beijing in the southwest area of Beijing.
-35714	大清河	\N	Dà Qīng Hé	Daqing River	proper noun	河	River	地方	Places	中国	China	\N	\N	A river in Hebei
-35715	汾河	\N	Fén Hé	Fen River	proper noun	河	River	地方	Places	中国	China	\N	\N	A river in Shanxi, the second longest tributary of the Yellow River. It passes through the center of Taiyuan.
-35716	临汾	臨汾	Línfén	Linfen	proper noun	城市	City	地方	Places	山西	Shanxi	\N	\N	City in southern Shanxi on the Fen River.
-35717	平阳	平陽	Píngyáng	Pingyang / Linfen	proper noun	城市	City	历史	History	中国	China	\N	\N	City in southern Shanxi on the Fen River. Former name of the city of Linfen
-35718	锦江	錦江	Jǐn Jiāng	Jin River	proper noun	河	River	地方	Places	中国	China	\N	\N	A major river in Sichuan, literally, the 'Silk River'
+35504	照客	\N	zhào kè	Guest Attendant	proper noun	职事	post	佛教	Buddhism	禪宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery
+35505	四十八单	四十八單	sì shí bā dān	Forty-Eight Positions	phrase	\N	\N	佛教	Buddhism	禪宗	Chan School	\N	\N	The Forty-Eight Positions in a Chan monastery
+35506	异	異	yì	other	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	yi4.mp3	\N
+35507	视觉化	視覺化	shìjuéhuà	visualization	noun	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
+35508	古籍	\N	gǔjí	an antiquarian book 	noun	\N	\N	历史	History	\N	\N	\N	\N	\N
+35509	回顾	回顧	huígù	to look back / to review 	verb	\N	\N	思想	Thought	\N	\N	\N	\N	\N
+35510	工作坊	\N	gōngzuò fāng	a workshop 	noun	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35511	数位化	數位化	shùwèihuà	digitization	noun	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
+35512	超连结	超連結	chāoliánjié	hyperlink	noun	\N	\N	信息技术	Information Technology	\N	\N	\N	\N	\N
+35513	印顺	印順	Yìn Shùn	Yin Shun	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	\N
+35514	碳酸氢钠	碳酸氫鈉	tàn suān qīng nà	sodium bicarbonate / baking soda/ bicarbonate of soda	noun	化合物	Compound	化学	Chemistry	\N	\N	\N	\N	\N
+35515	苏打粉	蘇打粉	sūdǎ fěn	sodium bicarbonate / baking soda/ bicarbonate of soda	noun	化合物	Compound	化学	Chemistry	\N	\N	\N	\N	\N
+35516	近	\N	jìn	to approach / to be near / to draw close to	adjective	\N	\N	位	Position	\N	\N	\N	jin4.mp3	\N
+35517	伽陀	\N	jiātuó	gatha / hymn / verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: gāthā, records the teachings of the Buddha in verse form; one of the twelve divisions of the sutras 十二部经
+35518	替罪羊	\N	tìzuìyáng	scapegoat	noun	\N	\N	口语	Colloquial	\N	\N	\N	\N	\N
+35529	预流	預流	Yùliú	Sotapanna / Srotaāpanna / Stream-Enterer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: srotaāpanna, Pali: sotāpanna; the first of the four stages of enlightenment. This form was used by Xuan Zang.
+35520	摩诃止观	摩訶止観	Móhē Zhǐ Guān	Great Concentration and Insight	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Japanese variant of 摩訶止觀. Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
+35521	観	\N	guān	to look at / to watch / to observe	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Japanese variant of 觀｜观
+35522	法华文句	法華文句	Fǎhuá Wén Jù	Words and Phrases of the Lotus Sutra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Written by Zhi Yi (智顗, 538—597), fourth patriarch of the Tiantai School.
+35523	法华玄义	法華玄義	Fǎhuá Xuán Yì	Profound Meaning of the Lotus Sutra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Written by Zhi Yi (智顗, 538—597), fourth patriarch of the Tiantai School.
+35524	遍计所执性	遍計所執性	biàn jì suǒ zhíxìng	parikalpita / sole imagination / imaginary	noun	\N	\N	佛教	Buddhism	瑜伽	Yogacara	\N	\N	From Sanskrit: parikalpita, the first of the three levels of knowledge in the Yogacara School
+35525	依他起性	\N	yī tā qǐ xìng	paratantra / dependence on others / dependent	noun	\N	\N	佛教	Buddhism	瑜伽	Yogacara	\N	\N	From Sanskrit: paratantra, the second of the three levels of knowledge in the Yogacara School
+35526	圆成实性	圓成實性	yuán chéng shí xìng	pariniṣpanna / ultimate reality / perfected	noun	\N	\N	佛教	Buddhism	瑜伽	Yogacara	\N	\N	From Sanskrit: pariniṣpanna, the second of the three levels of knowledge in the Yogacara School
+35527	韦氏拼音	韋氏拼音	Wéi Shì Pīnyīn	Wade–Giles	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	A old Romanization system for Chinese characters
+35528	威妥玛拼音	威妥瑪拼音	Wēi Tuǒ Mǎ Pīnyīn	Wade–Giles	proper noun	\N	\N	语言	Language	\N	\N	\N	\N	A old Romanization system for Chinese characters
+35539	判教	\N	pànjiāo	classification of teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: p'an-chiao. A scheme for doctrinal classification.
+35530	摩诃止观	摩訶止觀	Móhē Zhǐ Guān	The Great Calming and Contemplation / Great Concentration and Insight / Mohe Zhi Guan	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Mo-ho chih-kuan. Written by Zhi Yi 智顗 (538—597), recognized as the seminal text of the Tiantai school (T 46 1911).
+35531	止观	止觀	Zhǐ Guān	calming and insight / calming and contemplation / śamatha and vipaśyanā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: chih-kuan. Identified in Zhi Yi's work as śamatha and vipaśyanā.
+35532	次第禅门	次第禪門	Cì Dì Chán Mén	Ci Di Chan Men	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: tz'u-ti ch'an-men. Written by Zhi Yi (智顗, 538—597), of the Tiantai school, giving a scheme for doctrinal classification.
+35533	三谛	三諦	sān dì	three truths	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: san-ti. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, representing: (1) 空 emptiness (2) 假 provisional nature (3) 中 middle
+35534	圆教	圓教	yuán jiāo	perfect teaching	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: yüan-chiao. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, representing the perfect teaching of the ultimate nature of reality, as in the Lotus Sutra
+35535	圆顿止观	圓頓止觀	yuán dùn zhǐ guān	Great Concentration and Insight	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Yüan-Tun Chih-Kuan. Earlier title for Mohe Zhi Guan 摩訶止觀. Written by Zhi Yi (智顗, 538—597), recognized as the seminal text of the Tiantai school.
+35536	圆顿	圓頓	yuán dùn	perfect and sudden	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: yüan-tun. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, approach to calming and contemplation.
+35537	灌顶	灌頂	Guàn Dǐng	Guanding	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Kuan-ting. 561—632, disciple of Zhi Yi (智顗, 538—597), key figure of the Tiantai school. Guan Ding wrote down the text of Great Concentration and Insight (摩訶止觀) based on Zhi Yi's lectures.
+35538	慧文	\N	Huì Wén	Hui Wen	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Considered the second patriarch of the Tiantai school.
+35539	慧思	\N	Huì Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35540	四种三昧	四種三昧	sì zhǒng sānmèi	four forms of samādhi	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Wade-Giles: ssu chung san-mei. Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: (1) constantly sitting 常坐 (2) constantly walking 常行 (3) part walking, part sitting 半行半坐 (4) neither sitting nor walking 非行非坐.
+35541	湛然	\N	Zhàn Rán	Zhanran / Chan-Jan	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chan-Jan. 711—782, considered the ninth patriarch of the Tiantai school.
+35542	互具	\N	hù jù	interpenetrating unity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that everything in the universe is interconnected.
+35543	俗谛	俗諦	sú dì	mundane truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: paramārtha, Pali: paramattha; refers to the reality of the secular world, without an understanding of dependent origination. Opposed to the real truth 真谛.
+35544	第一义谛	第一諦義	dì yī yì dì	supreme truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, that transends both mundane truth 俗谛 and real truth 真谛.
+35545	天台	\N	Tiāntái	Tiantai / T'ien-tai	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	Japanese: Tendai-shū, Wade-Giles: T'ien-tai; one of the Eight Schools of Chinese Buddhism 八大宗派
+35546	六即	\N	liù jí	the six identities	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, relating to classification and implications of teachings: (1) 理即 identity in principle, (2) 名字即 verbal identity, (3) 觀行即 identity in meditative practice, (4) 相似即 identity in resemblance, (5) 分真即 identity in increments of truth, and (6) 究竟即 ultimate identity.
+35547	理即	\N	lǐ jí	identity in principle	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35548	名字即	\N	míngzi jí	verbal identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35549	观行即	觀行即	guān xíng jí	identity in meditative practice	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35550	相似即	\N	xiāngsì jí	identity in resemblance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35551	分真即	\N	fèn zhēn jí	identity in increments of truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35552	究竟即	\N	jiūjìng jí	ultimate identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school, one of the six identities 六即.
+35553	菩萨位	菩薩位	púsà wèi	bodhisattvahood	phrase	\N	\N	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
+35554	醍醐	\N	tíhú	ghee	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35555	常坐	\N	cháng zuò	constantly sitting in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the first of the four forms of samādhi 四种三昧.
+35556	常行	\N	cháng xíng	constantly walking in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the second of the four forms of samādhi 四种三昧.
+35557	半行半坐	\N	bàn xíng bàn zuò	part walking, part sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the third of the four forms of samādhi 四种三昧.
+35558	非行非坐	\N	fēi xíng fēi zuò	neither walking, nor sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi (智顗, 538—597), of the Tiantai school: the fourth of the four forms of samādhi 四种三昧.
+35559	法华三昧	法華三昧	Fǎ Huá Sānmèi	Lotus Samādhi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	 A type of meditation described by Zhi Yi (智顗, 538—597), of the Tiantai school: a variant of part walking, part sitting meditation 半行半坐
+35560	摩尼珠	\N	móní	mani jewel / a wish fulfilling jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35561	四运	四運	sì yùn	the four phases of thought	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	 Concept by Zhi Yi 智顗 (538—597), of the Tiantai school
+35562	六受	\N	liù shòu	the six perceptions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
+35563	六作	\N	liù zuò	the six acts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	 \N
+35564	假	\N	jiǎ	provisional nature	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	jia3.mp3	\N
+35565	维摩经玄疏	維摩經玄疏	Wéi Mó Jīng Xuán Shū	Commentary on the Vimalakīrti Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 38 1777
+35566	四教义	四教義	Sì Jiàoyì	The Four Teachings	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 46 1929
+35567	菩萨璎珞本业经	菩薩瓔珞本業經	Púsà Yīngluò Běn Yè Jīng	Yingluo Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 24 1485
+35568	佛说仁王般若般若波罗蜜经	佛說仁王般若波羅蜜經	Fó shuō Rén Wáng Bōrěluómì Jīng	Vajrapāṇi Bodhisattva Prajñāpāramitā Sūtra / Vajrapāṇi Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 8 245
+35569	摩诃般若波罗蜜经	摩訶般若波羅蜜經	Móhē Bōrěluómì Jīng	Mahā Prajñāpāramitā Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T8 No. 223
+35570	荆州	荊州	Jīngzhōu	Jingzhou / Ching-chou	proper noun	\N	\N	地方	Places	中国	China	\N	\N	Wade-Giles:  Ching-chou
+35571	玉泉寺	\N	Yù Quán Sì	Yu Quan Temple / Jade Spring Temple / Yü-ch'ün ssu	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Wade-Giles:  Yü-ch'ün ssu, temple founded by Zhi Yi, fourth patriarch of the Tiantai School
+35572	大经	大經	Dà Jīng	The Mahāpirvāṇa Sūtra / The Nirvāṇa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(T 12 375) An abbreviation used by Zhi Yi 智顗 in the Mohe Zhi Guan 摩诃止观.
+35573	观心论	觀心論	Guān Xīn Lùn	Treatise on Contemplating Thoughts	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	By Zhi Yi 智顗 (538—597), T 46 1920
+35574	璎珞经	瓔珞經	Yīngluò Jīng	Yingluo Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	An apocryphal sūtra (Swanson 1989), T 24 1485
+35575	霔	\N	zhù	a long period of rain / a lot of rain	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35576	毱	\N	jú	a fur ball	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35577	皮毛	\N	pímáo	fur	noun	\N	\N	生物学	Biology	\N	\N	\N	\N	\N
+35578	隥	\N	dèng	to look up	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35579	竪	\N	shù	straight vertical character stroke	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	shu4.mp3	Archaic variant of 竖 / 豎
+35580	亘	\N	gèn	to extend across / to stretch	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 亙
+35581	瞽	\N	gǔ	blind / undiscerning	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35582	萠	\N	méng	a bud / a sprout	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35583	疣	\N	yóu	a nodule / a wart	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35584	开皇	開皇	Kāi Huáng	Kai Huang reign	proper noun	年号	Reign Name	历史	History	隋	Sui	\N	\N	581-604, reign name of Emperor Wen of Sui
+35585	付法藏因缘传	付法藏因緣傳	Fù Fǎ Zàng Yīnyuán Zhuàn	The History of the Transmission of the Dharma Treasury	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	An apocryphal text from the Northern Wei, T 50 2058
+35586	付法藏	\N	Fù Fǎ Zàng	The History of the Transmission of the Dharma Treasury	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	An apocryphal text from the Northern Wei, T 50 2058
+35587	元魏	\N	Yuán Wèi	Northern Wei Dynasty / Wei of the Northern Dynasties	proper noun	国	State	历史	History	中国	China	\N	\N	(386－557) founded by the Tuoba 拓跋 branch of Xianbei 鲜卑
+35588	吉迦夜	\N	Jíjiāyè	Kinkara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Northern Wei figure, attributed with translation of the The History of the Transmission of the Dharma Treasury 付法藏因缘传 T 50 2058
+35589	昙曜	曇曜	Tán Yào	Tan Yao	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	c. 450-490, Northern Wei figure, attributed with translation of the The History of the Transmission of the Dharma Treasury 付法藏因缘传 T 50 2058
+35590	南岳	\N	Nán Yuè	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35591	南岳思	南嶽思	Nán Yuè Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗.
+35592	立誓愿文	立誓願文	Lìshì Yuàn Wén	Establishment of Vows	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1933
+35593	诸法无诤三昧法门	諸法無諍三昧法門	Zhū Fǎ Wú Zhèng Sānmèi Fǎmén	The Samādhi of Non-contention of Following After One's Own Thoughts	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1923
+35594	大乘止观法门	大乘止觀法門	Dàchéng Zhǐ Guān Fǎmén	The Mahāyāna Teaching on Calm and Insight	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1924
+35595	法华经安乐行义	法華經安樂行義	Fǎ Huà Jīng Ānlè Xíng Yì	The Practice for Attaining Peace based on the Lotus Sūtra	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Attributed to Hui Si 慧思 (c. 515-557) T 46 1926
+35596	大方等陀罗尼经	大方等陀羅尼經	Dàfang Děng Tuóluóní Jīng	The Great Vaipulya Dhāraṇī Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Translated in the Northern Liang (398－439), T 21 1339
+35597	方等	\N	Dà Fāng Děng Tuóluóní Jīng	repentance practice	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A practice based on the Great Vaipulya Dhāraṇī Sūtra 大方等陀羅尼經
+35598	六妙法门	六妙法門	liù miào fǎ mén	Liu Miao Fa Men	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	A treatise written by Zhi Yi 智顗, the fourth patriarch of the Tiantai school (T 46 1917)
+35599	胜天王般若波罗蜜经	勝天王般若波羅蜜經	Shèng Tiānwáng Bōrěluómì Jīng	The Prajñāpāramitā sūtra of Devarājapravara	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
+35600	先行词	先行詞	xiānxíng cí	an antecedent	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
+35601	假名	\N	jià míng	designation / provisional / conventional term	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: prajñapti
+35602	临川	臨川	Línchuān	Linchuan	proper noun	区	District	中国	China	\N	\N	\N	\N	A place in Zhejiang
+35603	思益梵天所问经	思益梵天所問經	Sī Yì Fàntiān Suǒ Wèn Jīng	Viśeṣacintabrahma-paripṛcchā Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 15 586
+35604	却	\N	què	but / yet / however / while / nevertheless	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	que4.mp3	Archaic variant of 卻
+35605	宋史	\N	Sòng Shǐ	History of Song	proper noun	书	Book	历史	History	中国	China	\N	\N	\N
+35606	隋书	隋書	Suí Shū	Book of Sui	proper noun	书	Book	历史	History	中国	China	\N	\N	\N
+35607	二十四史	\N	Èrshí Sì Shǐ	Twenty-Four Histories	proper noun	\N	\N	历史	History	中国	China	\N	\N	Official historic records of the different Chinese dynasties
+35608	大元海运记	大元海運記	Dà Yuán Hǎi Yùn Jì	Records of Maritime Transportation in the Yuan Dynasty	proper noun	书	Book	历史	History	中国	China	\N	\N	A historic record attributed to Zhu Qiang Zhang 朱清张
+35609	海道经	海道經	Hǎi Dào Jīng	Manual of Sailing Directions	proper noun	书	Book	历史	History	中国	China	\N	\N	A historic record written in the Yuan Dynasty
+35610	直沽	\N	Zhígū	Zhigu	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic name for Tianjin
+35611	浏	瀏	liú	clear / deep (of water) / swift	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35612	浏家港	瀏家港	Liújiāgǎng	Port of Liu Jia / Liujiagang	proper noun	港	Port	历史	History	中国	China	\N	\N	A historic name in the Yuan Dynasty for a port at the mouth of the Yangtze River, present day Liuhe, Taicang
+35613	刘家港	\N	Liújiāgǎng	Port of Liu Jia / Liujiagang	proper noun	港	Port	历史	History	中国	China	\N	\N	A historic name in the Yuan Dynasty for a port at the mouth of the Yangtze River, present day Liuhe, Taicang
+35614	临清	臨清	Línqīng	Linqing	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
+35615	杨子江	楊子江	Yángzǐ Jiāng	Yangtze River	proper noun	河	River	历史	History	中国	China	\N	\N	Historic name for the Yangtze River
+35616	金山寺	\N	Jīnshān Sì	Jinshan Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Temple on the Yangtze River in the town of Zhenjiang 鎮江
+35617	圆仁	圓仁	Yuán Rén	Ennin	proper noun	法师	Monastic	日本	Japan	中国	China	\N	\N	793 or 794 – 864, Japanese monk who travelled to China
+35618	东阿	東阿	Dōng'ē	Dong'e	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
+35619	澁	\N	sè	astringent / tart / acerbity / unsmooth / rough / hard to understand / obscure	adjective	\N	\N	状况	Condition	\N	\N	\N	se4.mp3	Archaic variant of simplified 涩 / traditional 澀
+35620	脚	\N	jiǎo	foot / leg / base / kick	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	jiao3.mp3	Archaic variant of 腳
+35621	沓	\N	tà	classifier for sheets of papers like pile, pad	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35622	沓	\N	dá	classifier for sheets of papers like pile, pad	noun	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
+35623	隣	\N	lín	neighbor / adjacent	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	lin2.mp3	Archaic variant of traditional 鄰 / simplified 邻
+35624	䓕	薳	wěi	a type of grass	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35625	杌	\N	wù	a low stool	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35626	偪	\N	bī	force / compel / drive	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 逼
+35627	黮	\N	tán	black / dark / unclear / private	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35628	悋	\N	lìn	stingy / sparing of / closefisted	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35629	鬪	\N	dòu	to fight / to struggle / to condemn	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 鬥 / simplified 斗
+35630	臊	\N	sào	to shame / to humiliate	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35631	臊	\N	sāo	the smell of urine	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35632	瘀	\N	yū	hematoma (internal blood clot) / extravasated blood (spilt into surrounding tissue) / contusion	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35633	甞	\N	cháng	to taste / to test	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	chang2.mp3	Archaic variant of traditional 嚐 / simplified 尝
+35634	猨	\N	yuán	ape	noun	动物	Animal	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 猿
+35635	粖	\N	mò	micro / tiny / miniature	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35636	絓	\N	guà	to hinder / to offend / to form	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35637	絓	\N	guà	unique	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35638	絓	\N	kuā	a type of coarse silk / a bag used to wrap silk before washing	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35639	煗	\N	nuǎn	warm	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 暖
+35640	喍	\N	chái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
+35641	嘊	\N	ái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
+35642	嘊喍	\N	áichái	to growl / to bare fangs	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	of a dog
+35643	糟	\N	zāo	in a mess / in a bad situation	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of traditional 蹧
+35644	膖	\N	pāng	to swell	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35645	痹	痺	bì	paralysis / numbness	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35646	癊	\N	yìn	a disease of the heart	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35647	麞	\N	zhāng	a river deer / roebuck	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35648	怱	\N	cōng	hasty / hurried	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	cong1.mp3	Archaic variant of 匆
+35649	樵	\N	qiáo	firewood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35650	樵	\N	qiáo	to gather wood	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35651	襵	\N	zhé	a pleat in a skirt	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35652	襵	\N	zhě	a pleat in a skirt	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35653	綩	\N	wǎn	vast / expansive	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35654	侹	\N	tǐng	to wait for a day	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35655	晈	\N	jiǎo	bright / white	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35656	镢	钁	jué	a mattock / hoe	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35657	斵	\N	zhuó	to chop / to hack / to carve	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 斫
+35658	天台智者	\N	Tiāntái zhìzhě	Zhi Yi / Chih-i	proper noun	师父	Venerable	佛教	Buddhism	中国	China	\N	\N	Literally, the Sage of Tiantai
+35659	毘婆舍那	\N	pípóshènà	vipaśyanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vipaśyanā
+35660	丛书	叢書	cóngshū	a series of books / a collection of books	noun	\N	\N	写作	Writing	\N	\N	\N	\N	\N
+35661	革除	\N	géchú	to eliminate / to expel / to abolish	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
+35662	信托	信託	xìntuō	to entrust / trust bond	verb	\N	\N	财会	Finance and Accounting	\N	\N	\N	\N	\N
+35663	低调	低調	dīdiào	humility / subdued / low-key / low-profile	noun	\N	\N	道德	Ethics	\N	\N	\N	\N	\N
+35664	低调	低調	dīdiào	a low pitch / quiet	noun	\N	\N	声	Sound	\N	\N	\N	\N	\N
+35665	安逸	\N	ānyì	easy and comfortable / easy	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+35666	作务	作務	zuòwù	to work / to serve	verb	\N	\N	工作	Work	\N	\N	\N	\N	\N
+35667	无尽	無盡	wújìn	endless / inexhaustible	adjective	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+35668	谈玄說妙	談玄说妙	tán xuán shuō miào	to talk about mysticism	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+35669	行住坐臥	\N	xíng zhù zuò wò	etiquette in the four postures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35670	句话	句話	jù huà	a saying	noun	\N	\N	语言	Language	\N	\N	\N	\N	\N
+35671	杂阿含	雜阿含	Zá Āhán	Saṃyutta Nikāya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35672	胜鬘经	勝鬘經	Shèng Mán Jīng	Srimala Sutra / Śrīmālādevī Siṃhanāda Sūtra	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
+35673	禅门语录	禪門語錄	Chán mén yǔlù	sayings of Chan masters	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N
+35674	和乐	和樂	hé lè	harmonious and happy	adjective	\N	\N	感情	Emotion	\N	\N	\N	\N	\N
+35675	忍气吞声	忍氣吞聲	rěn qì tūn shēng	to submit to humiliation / to suffer in silence / to swallow one's anger / to grin and bear it	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+35676	千锤百炼	千錘百鍊	qiān chuí bǎi liàn	after hard work and numerous revisions / the vicissitudes of life	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N
+35677	瀑流	\N	pùliú	a waterfall	noun	\N	\N	水	Water	\N	\N	\N	\N	\N
+35678	契机	契機	qìjī	an opportunity / a turning point / a juncture	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+35679	契理	\N	qìlǐ	in agreement with the truth	noun	\N	\N	状况	Condition	\N	\N	\N	\N	\N
+35680	企划	企劃	qǐhuà	to plan / to lay out / to design	verb	\N	\N	过程	Process	\N	\N	\N	\N	\N
+35681	洪自诚	洪自誠	Hóng Zìchéng	Hong Zicheng / Hong Yingming / Hung Tzu-Ch'eng	proper noun	作者	Writer	哲学	Philosophy	中国	China	\N	\N	Wade–Giles: Hung Tzu-Ch'eng, 1572-1620, a Chinese philosopher and writer
+35682	洪应明	洪應明	Hóng Yīngmíng	Hong Zicheng / Hong Yingming / Hung Tzu-Ch'eng	proper noun	作者	Writer	哲学	Philosophy	中国	China	\N	\N	Wade–Giles: Hung Tzu-Ch'eng, 1572-1620, a Chinese philosopher and writer
+35683	法眼文益	\N	Fǎ Yǎn Wén Yì	Fa Yan Wen Yi / Qing Liang Wen Yi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	885-958, a Chinese Buddhist writer
+35684	清凉文益	清涼文益	Qīng Liáng Wén Yì	Fa Yan Wen Yi / Qing Liang Wen Yi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	885-958, a Chinese Buddhist writer
+35685	艳冶	艷冶	yànyě	changing colors	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Figuratively, seductively dressed up
+35686	朝露	\N	cháolù	morning dew	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Figuratively, the precarious brevity of human life, ephemeral
+35687	馨香	\N	xīn xiāng	fragrance / fragrant (of incense)	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35688	何须	何須	xīn xiāng	why should / there is no need	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35689	零落	\N	líng luò	withered and fallen / scattered / sporadic	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35690	五灯会元	五燈會元	wŭ dēng huì yuán	Compendium of the Five Lamps / Song Dynasty History of Zen Buddhism in China	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	1252, X 80 1565
+35691	哈拉和林	\N	Hālāhélín	Karakorum	proper noun	首都	Capital	历史	History	蒙古	Mongolia	\N	\N	Capital of the Mongolian Empire
+35692	开平	\N	Kāipíng	Kaiping / Kemenfu / Kaipingfu	proper noun	城市	City	历史	History	中国	China	\N	\N	Early name of Kublai Khan's former capital Shangdu. Located in Inner Mongolia near Duolun 多伦淖尔
+35693	淖	\V	nào	slush / mud	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35694	多伦淖尔	多倫淖爾	Duōlún Nào'ĕr	Duolun	proper noun	城市	City	地方	Places	中国	China	\N	\N	Near the Kublai Khan's former capital Shangdu. Located in Inner Mongolia near Duolun 多伦淖尔.
+35695	中都	\N	Zhōngdū	Zhongdu / Dadu / Khanbaliq / Beijing	proper noun	城市	City	历史	History	中国	China	\N	\N	Name of the Jin capital in present-day Beijing， renamed as Dadu by Kublai Khan
+35696	汗八里	\N	Hànbālǐ	Khanbaliq / Cambaluc / Dadu / Daidu / Beijing	proper noun	首都	Capital	历史	History	元朝	Yuan Dynasty	\N	da4du1.mp3	Capital of the Yuan Dynasty. Literally, City of the Khan, which was renamed from Zhongdu, capital of the Jin Dynasty, later named as Beijing 北京. Preferred spelling: Khanbaliq.
+35697	栄	\N	róng	glory / honor	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	rong2.mp3	Japanese variant of traditional 榮 / simplified 荣.
+35698	栄西	\N	Róng Xī	Eisai / Myōan Eisai	noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1141-1215, Japanese monk who travelled to China. A Japanese variant of traditional 榮 / simplified 荣 is used in his name.
+35699	明菴栄西	\N	Míng Ān Róng Xī	Eisai / Myōan Eisai	noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1141-1215, Japanese monk who travelled to China. A Japanese variant of traditional 榮 / simplified 荣 is used in his name.
+35700	禅師	\N	Chán Shī	Chan Master / Zen Master / Seon Master	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese variant with an archaic form of the traditional characters 禪
+35701	喫	\N	chī	to consume	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic or Japanese variant of 吃
+35702	喫茶养生记	喫茶養生記	Chī Chá Yǎngshēng Jì	Drink Tea and Prolong Life / Kissayøjøki	proper noun	书	Book	历史	History	日本	Japan	\N	\N	Book written by Japanese monk Eisai 栄西 (1141-1215)
+35703	荣西	榮西	Róng Xī	Eisai / Myōan Eisai	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1141-1215, Japanese monk who travelled to China. Chinese writing of his name.
+35704	诸路交钞提举司	諸路交鈔提舉司	Zhū Lù Jiāo Chāo Tí Jǔ Sī	Imperial Mint	proper noun	\N	\N	历史	History	元朝	Yuan Dynasty	\N	\N	Yuan Dynasty Mint
+35705	兴圣宫	興聖宮	Xīngshèng Gōng	Xingsheng Palace	proper noun	宫	Palace	历史	History	元朝	Yuan Dynasty	\N	\N	Located in Dadu (Beijing), used by the Imperial family in the Yuan Dynasty.
+35706	大内	大內	Dà Nèi	Main Imperial Palace	proper noun	宫	Palace	历史	History	元朝	Yuan Dynasty	\N	\N	Built in 1274, located in Dadu (Beijing), the main palace in the Yuan Dynasty
+35707	隆福宫	隆福宮	Lóngfú Gōng	Longfu Palace	proper noun	宫	Palace	历史	History	元朝	Yuan Dynasty	\N	\N	Located in Dadu (Beijing), used by the Imperial family in the Yuan Dynasty.
+35708	永定河	\N	Yǒngdìng Hé	Yongding River	proper noun	河	River	地方	Places	北京	Beijing	\N	\N	\N
+35709	海河	\N	Yǒngdìng Hé	Hai River / Bai He	proper noun	河	River	地方	Places	中国	China	\N	\N	Previously, the Bai He
+35710	白河	\N	Bái Hé	Hai River / Bai He	proper noun	河	River	地方	Places	中国	China	\N	\N	Later called the Hai River 海河
+35711	涿州	\N	Zhuōzhōu	Zhuozhou	proper noun	城市	City	地方	Places	河北	Hebei	\N	\N	In the Fangshan area, on the Beijuma River
+35712	拒马河	拒馬河	Jùmǎ Hé	Juma River	proper noun	河	River	地方	Places	中国	China	\N	\N	Forms the boundary between Hebei and Beijing in the southwest area of Beijing.
+35713	大清河	\N	Dà Qīng Hé	Daqing River	proper noun	河	River	地方	Places	中国	China	\N	\N	A river in Hebei
+35714	汾河	\N	Fén Hé	Fen River	proper noun	河	River	地方	Places	中国	China	\N	\N	A river in Shanxi, the second longest tributary of the Yellow River. It passes through the center of Taiyuan.
+35715	临汾	臨汾	Línfén	Linfen	proper noun	城市	City	地方	Places	山西	Shanxi	\N	\N	City in southern Shanxi on the Fen River.
+35716	平阳	平陽	Píngyáng	Pingyang / Linfen	proper noun	城市	City	历史	History	中国	China	\N	\N	City in southern Shanxi on the Fen River. Former name of the city of Linfen
+35717	锦江	錦江	Jǐn Jiāng	Jin River	proper noun	河	River	地方	Places	中国	China	\N	\N	A major river in Sichuan, literally, the 'Silk River'
+35718	沧州	滄州	Cāngzhōu	Cangzhou	proper noun	城市	City	地方	Places	河北	Hebei	\N	\N	City in southern Hebei on the Grand Canal. Visited by Marco Polo and called Changlu in the Travels of Marco Polo (Book 2, ch 60).
+357219	济宁	濟寧	Jǐníng	Jining	proper noun	城市	City	地方	Places	山东	Shandong	\N	\N	City in southern Shandong on the Grand Canal. Visited by Marco Polo and called Sinjumatu in the Travels of Marco Polo (Book 2, ch 60).
+35720	沛县	沛縣	Pèi Xiàn	Pei County	proper noun	县	County	地方	Places	江苏	Jiangsu	\N	\N	County in Jiangsu, under Xuzhou
+35721	淮安	\N	Huái'ān	Huai'an	proper noun	城市	City	地方	Places	江苏	Jiangsu	\N	\N	Wade-Giles: Hwai-ngan, a city in Jiangsu on the Grand Canal, mentioned in the Travels of Marco Polo as Coiganju.
+35722	淮阴	淮陰	Huáiyīn	Huai'an / Huaiyin	proper noun	城市	City	地方	Places	江苏	Jiangsu	\N	\N	Fomer name of Huai'an 淮安, city in Jiangsu, mentioned in the Travels of Marco Polo as Coiganju.
+35723	宝应	寶應	Bǎoyīng	Baoying	proper noun	县	County	地方	Places	江苏	Jiangsu	\N	\N	Wade-Giles: Pao-ying, a county in Jiangsu on the Grand Canal, mentioned in the Travels of Marco Polo as Paukin.
+35724	金陵	\N	Jīnlíng	Jinling / Nanjing	proper noun	城市	City	历史	History	中国	China	\N	\N	Fomer name of Nanjing during the Sui and later.
+35725	锚	錨	máo	an anchor	noun	\N	\N	交通	Transportation	海航	Maritime	\N	\N	\N
+35726	拋锚	拋錨	pāo máo	drop anchor	phrase	\N	\N	交通	Transportation	海航	Maritime	\N	\N	\N
+35727	瓜洲	\N	Guāzhōu	Guazhou	proper noun	镇	Town	地方	Places	江苏	Jiangsu	\N	\N	Wade-Giles: Kwa-chau, a township in Jiangsu on the Grand Canal where it intersects with the Yangtze, mentioned in the Travels of Marco Polo as Caiju.
+35728	大汉和辞典	大漢和辭典	Dà Hàn Hé Cídiǎn	Great Chinese-Japanese Dictionary	proper noun	辞典	Dictionary	语言学	Linguistics	\N	\N	\N	\N	1943, 1955-60, edited by Morohashi
+35729	治	\N	chí	to rule / to govern / to manage / to control	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35730	过	過	guó	to cross / to go over / to pass	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35731	期	\N	qí	a period of time / phase / stage	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35732	他	\N	tuō	other / another / some other	pronoun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35733 	微	\N	wéi	micro / tiny / miniature	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35734	危	\N	wéi	dangerous, precarious	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35735	曳	\N	yì	to drag	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Middle Chinese pronunciation
+35736	橐驼	橐駝	tuótuó	camel	noun	动物	Animal	古文	Classical Chinese	\N	\N	\N	\N	\N
+35737	盍	\N	hé	why not	adverb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35738	词	詞	cí	a grammatical particle	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	ci2.mp3	\N
