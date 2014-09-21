@@ -35148,11 +35148,11 @@
 35148	离欲	離欲	lí yù	free of desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: vītarāga
 35149	鳄	鱷	è	crocodile	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	 \N
 35150	鳄鱼	鱷魚	èyú	crocodile	noun	动物	Animal	动物学	Zoology	\N	\N	\N	\N	 \N
-35151	阿约提亚	阿約提亞	Āyuētíyà	Ayodhya	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N	 From Sanskrit: ayodhyā, ancient capital of the Kosala Kingdom, also known as Saket. It was the birthplace of Lord Rama and the setting of the Ramayana.
-35152	十车王	十車王	Shíchē Wáng	Dasaratha / Dasharatha	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N	 From Sanskrit: daśaratha, the king of the ancient city of Ayodhya.
-35153	罗什曼那	羅什曼那	Luóshímànnà	Laksmana / Lakshmana	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	 From Sanskrit: lakśmaṇa, one of Rama's brothers
-35154	悉多	\N	Xīduō	Sita	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	 From Sanskrit: sita, the central female character in the Ramayana
-35155	弥萨罗	彌薩羅	Mísàluó	Mithila	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N	 From Sanskrit: mithilā, a city in ancient India
+35151	阿约提亚	阿約提亞	Āyuētíyà	Ayodhya	proper nouns\N	\N	历史	History	印度	India	\N	\N	\N	\N	From Sanskrit: ayodhyā, ancient capital of the Kosala Kingdom, also known as Saket. It was the birthplace of Lord Rama and the setting of the Ramayana.
+35152	十车王	十車王	Shíchē Wáng	Dasaratha / Dasharatha	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N	From Sanskrit: daśaratha, the king of the ancient city of Ayodhya.
+35153	罗什曼那	羅什曼那	Luóshímànnà	Laksmana / Lakshmana	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	From Sanskrit: lakśmaṇa, one of Rama's brothers
+35154	悉多	\N	Xīduō	Sita	proper noun	\N	\N	神话	Mythology	印度	India	\N	\N	\N	\N	From Sanskrit: sita, the central female character in the Ramayana
+35155	弥萨罗	彌薩羅	Mísàluó	Mithila	proper noun	\N	\N	历史	History	印度	India	\N	\N	\N	\N 	From Sanskrit: mithilā, a city in ancient India
 35156	小品般若	\N	Xiǎo Pǐn Bōrě	Aṣṭasāhasrikā Prajñāpāramitā / The Perfection of Wisdom in Eight Thousand Lines	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	 T8 No. 227, ten scrolls <a href='http://tripitaka.cbeta.org/T08n0227'>http://tripitaka.cbeta.org/T08n0227</a>
 35157	三百	\N	sān bǎi	three hundred	number	\N	\N	数量	Quantity	\N	\N	\N	\N	\N
 35158	马德里	馬德里	Mǎdélǐ	Madrid	proper noun	城市	city	地方	Places	西班牙	Spain	\N	\N	\N
@@ -35599,7 +35599,7 @@
 35599	胜天王般若波罗蜜经	勝天王般若波羅蜜經	Shèng Tiānwáng Bōrěluómì Jīng	The Prajñāpāramitā sūtra of Devarājapravara	proper noun	经	Sutra	佛教	Buddhism	大乘	Mahayana	\N	\N	\N
 35600	先行词	先行詞	xiānxíng cí	an antecedent	noun	\N	\N	语言学	Linguistics	\N	\N	\N	\N	\N
 35601	假名	\N	jià míng	designation / provisional / conventional term	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Sanskrit: prajñapti
-35602	临川	臨川	Línchuān	Linchuan	proper noun	区	District	中国	China	\N	\N	\N	\N	A place in Zhejiang
+35602	临川	臨川	Línchuān	Linchuan	proper noun	区	District	地方	Places	中国	China	\N	\N	A place in Zhejiang
 35603	思益梵天所问经	思益梵天所問經	Sī Yì Fàntiān Suǒ Wèn Jīng	Viśeṣacintabrahma-paripṛcchā Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	T 15 586
 35604	却	\N	què	but / yet / however / while / nevertheless	conjunction	\N	\N	古文	Classical Chinese	\N	\N	\N	que4.mp3	Archaic variant of 卻
 35605	宋史	\N	Sòng Shǐ	History of Song	proper noun	书	Book	历史	History	中国	China	\N	\N	\N
@@ -35614,7 +35614,7 @@
 35614	临清	臨清	Línqīng	Linqing	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
 35615	杨子江	楊子江	Yángzǐ Jiāng	Yangtze River	proper noun	河	River	历史	History	中国	China	\N	\N	Historic name for the Yangtze River
 35616	金山寺	\N	Jīnshān Sì	Jinshan Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	Temple on the Yangtze River in the town of Zhenjiang 鎮江
-35617	圆仁	圓仁	Yuán Rén	Ennin	proper noun	法师	Monastic	日本	Japan	中国	China	\N	\N	793 or 794 – 864, Japanese monk who travelled to China
+35617	圆仁	圓仁	Yuán Rén	Ennin	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	793 or 794 – 864, Japanese monk who travelled to China
 35618	东阿	東阿	Dōng'ē	Dong'e	proper noun	城市	City	历史	History	中国	China	\N	\N	A historic city on the Grand Canal in Shandong province
 35619	澁	\N	sè	astringent / tart / acerbity / unsmooth / rough / hard to understand / obscure	adjective	\N	\N	状况	Condition	\N	\N	\N	se4.mp3	Archaic variant of simplified 涩 / traditional 澀
 35620	脚	\N	jiǎo	foot / leg / base / kick	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	jiao3.mp3	Archaic variant of 腳
