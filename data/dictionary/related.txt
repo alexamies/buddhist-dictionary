@@ -1144,6 +1144,10 @@
 敦煌	沙州	Also known as	\N
 长安	西安	Also known as	\N
 西安	长安	Also known as	\N
+大兴	长安	Also known as	\N
+长安	大兴	Also known as	\N
+大兴	西安	Present-day name	\N
+西安	大兴	Previous name	\N
 迦叶摩腾	摩腾	Also known as	\N
 摩腾	迦叶摩腾	Also known as	\N
 摄摩腾	摩腾	Also known as	\N
@@ -2969,3 +2973,17 @@
 鸡鸣寺	同泰寺	Former name	\N
 泽心寺	金山寺	Present-day name	\N
 金山寺	泽心寺	Former name	\N
+余杭	杭州	Present-day name	\N
+杭州	余杭	Former name	\N
+涿郡	涿州	Present-day name	\N
+涿州	涿郡	Former name	\N
+幽州	涿州	Present-day name	\N
+涿州	幽州	Former name	\N
+幽州	涿郡	Former name	\N
+涿郡	幽州	Also known as	\N
+沁水	济源	Present-day name	\N
+济源	沁水	Former name	\N
+盩厔	周至	Present-day name	\N
+周至	盩厔	Former name	\N
+蒲州	永济	Present-day name	\N
+永济	蒲州	Former name	\N
