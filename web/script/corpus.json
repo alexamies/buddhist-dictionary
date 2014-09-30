@@ -23,4 +23,6 @@
 {"doc_type": "Historic Doc.","source_name": "Biographies of Eminent Monks高僧傳","reference": "T 50 2059","language": "Chinese","start": "","charset": "Traditional","uri": "gaosengzhuan","period": "Liang 502—557","translator": "Hui Jiao","source": "Taishō Tripiṭaka","genre": "Historic Doc.","type": "collection","id": "13"}
 ,
 {"doc_type": "Historic Doc.","source_name": "Buddhist Monasteries in Luoyang 洛陽伽藍記","reference": "T 51 2092","language": "Chinese","start": "","charset": "Traditional","uri": "luoyang","period": "Northern Wei 495 – 534","translator": "Yang Xuanzhi","source": "Taishō Tripiṭaka","genre": "Historic Doc.","type": "collection","id": "14"}
+,
+{"doc_type": "Collection","source_name": "Maritime Buddhism","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "maritime","translator": "Various","source": "Various","genre": "Various","type": "collection","id": "15"}
 ]
