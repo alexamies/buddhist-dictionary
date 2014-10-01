@@ -2,9 +2,9 @@
 
 Description: One of the 85 scrolls of the Book of Sui, this scroll is the only scroll on Food and Commodities 食貨 in the Book of Sui.
 
-Period: Tang
+Period: 636
 
-HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll24-gloss.html "HTML with gloss")
+HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/suishu-scroll24-gloss.html "HTML with gloss")
 
 Content Analysis: [Vocabulary Analysis] (corpus_entry.php?uri=analysis/suishu-scroll24-analysis.md "Vocabulary Analysis")
 
@@ -14,9 +14,9 @@ Source: [Wikisource] (https://wikisource.org/wiki/Main_Page "Wikisource")
 
 Reference: Book of Sui
 
-Attributed to: Zhi Yi 智顗
+Attributed to: Yan Shigu 顏師古 and others
 
-Document: [Document at Wikisource] (http://zh.wikisource.org/wiki/%E9%9A%8B%E6%9B%B8/%E5%8D%B724 "Book of Sui, Scroll 24")
+Document: [Document at Wikisource] (http://zh.wikisource.org/wiki/隋書/卷24 "Book of Sui, Scroll 24")
 
 Alternate formats: [Plain text file] (corpus/suishu-scroll24.txt "Book of Sui, Scroll 24 Plain Text")
 

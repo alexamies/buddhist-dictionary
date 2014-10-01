@@ -32733,7 +32733,7 @@
 32733	郓	鄆	Yùn	Yun	proper noun	\N	\N	地方	Places	中国	China	\N	\N	Historic place name in Shandong, present day Dongping
 32734	东平	東平	Dōngpíng	Dongping	proper noun	县	County	地方	Places	中国	China	\N	\N	County in Shandong
 32735	家世	\N	jiāshì	family background	noun	\N	\N	家	Family	\N	\N	\N	\N	\N
-32736	志	誌	zhì	a written record	noun	\N	\N	写作	Writing	\N	\N	\N	zhi4.mp3	\N
+32736	志	誌	zhì	a written record / a treatise	noun	\N	\N	写作	Writing	\N	\N	\N	zhi4.mp3	Especially, a Treatise in one of the Twenty Four Official Histories 二十四史
 32737	志	誌	zhì	emotion / frame of mind	noun	\N	\N	感情	Emotion	\N	\N	\N	zhi4.mp3	\N
 32738	神志	\N	shénzhì	consciousness / state of mind	noun	\N	\N	思想	Thought	\N	\N	\N	\N	\N
 32739	志	\N	zhì	consciousness / state of mind	noun	\N	\N	思想	Thought	\N	\N	\N	zhi4.mp3	Synonomous with 神志
@@ -34563,7 +34563,7 @@
 34563	鸩	鴆	zhèn	a legendary bird whose feathers can be used as poison	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34564	鸩	鴆	zhèn	poisonous	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34565	鸩	鴆	zhèn	to poison	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
-35829	赋税	賦稅	sī jiā	private / privately owned or managed	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+34566	廪	廩	lǐn	a government granary	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34567	菽	\N	shū	legumes	verb	\N	\N	饮食	Food and Drink	\N	\N	\N	\N	\N
 34568	恫	\N	dòng	to frighten	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
 34569	懍	\N	lǐn	to be afraid of / to be awed by	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
@@ -35893,3 +35893,6 @@
 35893	当州	當州	Dāngzhōu	Dangzhou	proper noun	城市	City	历史	History	中国	China	\N	\N	An ancient city in Sichuan
 35894	方山	\N	Fāngshān	Fangshan	proper noun	\N	\N	地方	Places	山西	Shanxi	\N	\N	Place in Shanxi
 35895	江都	\N	Jiāngdū	Jiangdu	proper noun	城市	City	地方	Places	江苏	Jiangsu	\N	\N	A county level city in Yangzhou
+35896	感业寺	感業寺	Gǎnyè Sì	Ganye Temple	proper noun	寺	Temple	历史	History	唐	Tang	\N	\N	Temple in Chang'an that Wu Ze Tian was housed in.
+35897	丁丑	\N	Dīng Chǒu	Ding Zhou year	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Fourteenth year D2 of the 60 year cycle, e.g. 1997 or 2057
+35898	甲申	\N	Jiǎ Shēn	Jia Shen year	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	21st year A9 of the 60 year cycle, e.g. 2004 or 2064
