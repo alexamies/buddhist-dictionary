@@ -3063,7 +3063,7 @@
 3063	明	\N	Míng	Ming	proper noun	名字	Name	名字	Names	\N	\N	\N	ming2.mp3	\N
 3064	明	\N	Míng	Ming Dynasty	proper noun	朝代	Dynasty	历史	History	\N	\N	\N	ming2.mp3	1368&mdash;1644 CE
 3065	奎	\N	Kuí	Kui	proper noun	名字	Name	名字	Names	\N	\N	\N	kui2.mp3	\N
-3066	奎	\N	Kuí	Kui Constellation	proper noun	\N	\N	天文	Astronomy	\N	\N	\N	kui2.mp3	\N
+3066	奎	\N	Kuí	Kui Constellation	proper noun	星座	Constellation	天文	Astronomy	\N	\N	\N	kui2.mp3	\N
 3067	治安	\N	zhìān	law and order / public security	noun	\N	\N	法律	Law	\N	\N	\N	zhi4an2.mp3	\N
 3068	探险	探險	tànxiǎn	to explore	verb	\N	\N	行为	Actions	\N	\N	\N	\N	\N
 3069	资	資	zī	resources / capital / money / expense	noun	\N	\N	经济	Economics	\N	\N	\N	zi1.mp3	\N
@@ -35896,3 +35896,51 @@
 35896	感业寺	感業寺	Gǎnyè Sì	Ganye Temple	proper noun	寺	Temple	历史	History	唐	Tang	\N	\N	Temple in Chang'an that Wu Ze Tian was housed in.
 35897	丁丑	\N	Dīng Chǒu	Ding Zhou year	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Fourteenth year D2 of the 60 year cycle, e.g. 1997 or 2057
 35898	甲申	\N	Jiǎ Shēn	Jia Shen year	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	21st year A9 of the 60 year cycle, e.g. 2004 or 2064
+35899	酺	\N	pú	to drink heavily / to drink in company	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35900	賔	\N	bīn	guest / visitor / surname / submit	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35901	賔	\N	bīn	to submit	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35902	賔	\N	bìn	guest / visitor / surname	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35903	璹	\N	shú	a jade artifact	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35904	瓌	\N	guī	a semi-precious stone / gemstone	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	gui1.mp3	Archaic variant of 瑰
+35905	佺	\N	quán	a sage / an immortal / a celestial being	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35906	詧	\N	chá	to examine / to inquire / to observe / to inspect	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	cha2.mp3	\N
+35907	泷	瀧	Shuāng	Shuang River	proper noun	河	River	地方	Places	中国	China	\N	\N	Historic name for a river in Hunan and Guangdong, now known as the Wu River 武水
+35908	泷	瀧	shuāng	rapids / waterfall / torrential (rain)	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35909	武水	\N	Wǔ Shuǐ	Wu River	proper noun	河	River	地方	Places	中国	China	\N	\N	A river in Hunan and Guangdong
+35910	巂	\N	guī	a cuckoo	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35911	巂	\N	guī	a revolution of a wheel	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35912	巂	\N	Xī	Xi	proper noun	\N	\N	地方	Places	中国	China	\N	\N	A place in Sichuan
+35913	彠	\N	huò	a phonetic component in certain characters with sound huò	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35914	蒦	\N	huò	a phonetic component in certain characters with sound huò	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35915	谌	諶	chén	faithful / sincere	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35916	鄅	\N	Yǔ	Yu	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	A family name
+35917	璆	\N	qiú	a gem	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35918	儋	\N	dān	to carry	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35919	辑	\N	jí	to gather up / to collect / to edit / to compile	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	ji2.mp3	Archaic form of the modern traditinal 輯
+35920	编	\N	biān	to edit / to compile / to write / to compose	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	bian1.mp3	Archaic form of the modern traditinal 編
+35921	鄜	\N	Fū	Fu	proper noun	\N	\N	地方	Places	中国	China	\N	\N	A district in Shaanxi
+35922	璥	\N	jǐng	a gem	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35923	綦	\N	qí	dark gray	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35924	綦	\N	qí	superlative / variegated	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35925	洩	\N	xiè	to let out	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	xie4.mp3	Archaic form of 泄
+35926	匦	匭	guǐ	a small box	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35927	鬬	\N	dòu	to fight / to struggle / to condemn	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of simplified 斗 / traditional 鬥
+35928	溱	\N	Zhēn	Zhen River	proper noun	河	River	地方	Places	中国	China	\N	\N	\N
+35929	昴	\N	Mǎo	the Pleiades	proper noun	星座	Constellation	天文	Astronomy	\N	\N	\N	\N	\N
+35930	祔	\N	fù	to worship ancestors	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35931	昶	\N	chǎng	(of the day) long	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35932	瑒	\N	yáng	a kind of jade	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35933	瀼	\N	Ráng	Rang River	proper noun	河	River	地方	Places	四川	Sichuan	\N	\N	A river in Sichuan
+35934	蓁	\N	zhēn	abundant, luxuriant vegetation	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35935	譒	\N	bò	to promulgate / to spread	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35936	曌	\N	Zhào	Zhao	proper noun	\N	\N	历史	History	唐	Tang	\N	\N	Name invented for herself by Tang empress Wu Zetian
+35937	獐	\N	zhāng	a river deer / a roebuck	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35938	姒	\N	sì	wife or senior concubine of husbands older brother / elder sister	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35939	譔	\N	zhuàn	to compose / to compile	verb	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Archaic variant of 撰
+35940	瑛	\N	yīng	a crystal	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35941	瑛	\N	yīng	lustrous	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35942	郝	\N	Hǎo	Hao	proper noun	村	Village	历史	History	\N	\N	\N	\N	 An ancient village in present-day Xi'an
+35943	汜	\N	sì	a stream which returns after branching	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+35944	緱	\N	Gōu	Gou	proper noun	山	Mountain	地方	Places	河南	Henan	\N	\N	 A mountain in Henan
+35945	諲	\N	Yīn	Yin	proper noun	姓氏	Surname	名字	Names	\N	\N	\N	\N	A family name
+35946	翙	翽	huì	the noise of bird's wings	noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
