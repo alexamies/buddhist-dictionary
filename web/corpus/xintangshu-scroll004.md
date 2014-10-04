@@ -1,6 +1,6 @@
 ## New Book of Tang, Scroll 4 新唐書卷4
 
-Description: One of the 225 scrolls of the Book of Sui, this scroll is the scroll on the annals of Empress Wu Ze Tian.
+Description: One of the 225 scrolls of the New Book of Tang, this scroll is the annals of Empress Wu Ze Tian.
 
 Period: 1060
 
