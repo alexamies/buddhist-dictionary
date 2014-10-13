@@ -22947,7 +22947,7 @@
 22947	江泽民	江澤民	Jiāng Zémín	Jiang Zemin	proper noun	人	Person	历史	History	中国	China	\N	\N	(1926－), politician, President of PRC 1993－2003
 22948	华国锋	華國鋒	Huá Guófēng	Hua Guofeng	proper noun	人	Person	历史	History	中国	China	\N	\N	(1921－2008), leader of Chinese Communist Party after the cultural revolution from 1976－1978 after Mao and before Deng Xiaoping
 22949	经济特区	經濟特區	Jīngjì Téqū	Special Economic Zone	set phrase	\N	\N	经济	Economics	\N	\N	\N	\N	Set up in China beginning in 1980
-22950	历史学	歷史學	lìshǐ xué	history	noun	学科	Discipline	历史	History	\N	\N	\N	\N	\N
+22950	历史学	歷史學	lìshǐ xué	historiography	noun	学科	Discipline	历史	History	\N	\N	\N	\N	Methodology for historic study
 22951	考古学	考古學	kǎogǔ xué	archaeology	noun	学科	Discipline	历史	History	考古学	Archaeology	\N	\N	\N
 22952	绝非	絕非	juéfēi	to be less than	verb	\N	\N	比较	Comparison	\N	\N	\N	\N	\N
 22953	文艺复兴	文藝復興	Wényì Fùxīng	Renaissance	proper noun	时代	Era	历史	History	欧洲	Europe	\N	\N	\N
@@ -36134,7 +36134,7 @@
 36134	岻	\N	Dī	Mount Di	proper noun	山	Mountain	地方	Places	中国	China	\N	\N	 \N
 36135	河东道	河東道	Hédōng Dào	Hedong Province	proper noun	道	Province	历史	History	唐	Tang	\N	\N	Historic province from the Tang, approximately covering the are of Shanxi today.
 36136	郑国渠	鄭國渠	Zhèngguó Qú	Zhengguo Canal	proper noun	渠	Canal	历史	History	战国	Warring States	\N	\N	A canal built in the 战国 Warring States period in Shaanxi
-36137	泾河	經河	Jing	Jing River	proper noun	河	River	地方	Places	陕西	Shaanxi	\N	\N	A river in Shaanxi
+36137	泾河	經河	Jīng Hé	Jing River	proper noun	河	River	地方	Places	陕西	Shaanxi	\N	\N	A river in Shaanxi
 36138	郑国	鄭國	Zhèngguó	Zhengguo	proper noun	人	Person	历史	History	战国	Warring States	\N	\N	(Warring States period) Name of the person who designed the Zhengguo Canal
 36139	宣平门	宣平門	Xuānpíng Mén	Xuanping Men	proper noun	门	Gate	历史	History	唐	Tang	\N	\N	The northern most gate on the eastern city wall of the Tang layout of Chang'an
 36140	清明门	清明門	Qīngmíng Mén	Qingming Men	proper noun	门	Gate	历史	History	唐	Tang	\N	\N	The center gate on the eastern city wall of the Tang layout of Chang'an
@@ -36148,3 +36148,31 @@
 36148	覆盎门	覆盎門	Fù'àng Mén	Fu'ang Men	proper noun	门	Gate	历史	History	唐	Tang	\N	\N	The eastern most gate on the southern city wall of the Tang layout of Chang'an
 36149	安门	安門	Ānàng Mén	An Men	proper noun	门	Gate	历史	History	唐	Tang	\N	\N	The center gate on the southern city wall of the Tang layout of Chang'an
 36150	西安门	西安門	Xī'ān Mén	Xi'an Men	proper noun	门	Gate	历史	History	唐	Tang	\N	\N	The western gate on the southern city wall of the Tang layout of Chang'an
+36151	招提寺	\N	Zhāotí Sì	Zhaoti Temple / White Horse Temple	proper noun	寺院	Temple	佛教	Buddhism	洛阳	Luoyang	\N	\N	\N
+36152	般若流支	\N	Bōrěliúzhī	Prajñāruci	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sixth century monk from Southern India who travelled to China (T 50 2060)
+36153	海贝	海貝	hǎibèi	a cowrie shell	noun	\N	\N	动物学	Zoology	\N	\N	\N	\N	\N
+36154	魏	\N	wèi	tall and big	adjective	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+36155	巡官	\N	Xún Guān	Inspection Officer	proper noun	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+36156	资圣寺	資聖寺	Zīshèng Sì	Zisheng Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Temple in Chang'an during the Tang dynasty.
+36157	封刀	\N	fēng dāo	ceremonial swords	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	Swords with which executions were performed under imperial authority
+36158	封刀	\N	fēng dāo	to hang up the sword	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+36159	赵归真	趙歸真	Zhào Guīzhēn	Zhao Guizhen	proper noun	人	Person	历史	History	唐	Tang	\N	\N	Died 846, Taoist partly responsible for the movement against Buddhism in the 840's
+36160	仙台	仙臺	Xiān Tái	Terrace of the Immortals	proper noun	\N	\N	历史	History	唐	Tang	\N	\N	A Taoist structure built in Chang'an during the reign of Emperor Wuzong of Tang (814-846)
+36161	音圣人	音聖人	yīn shèngrén	a singer	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+36162	汴梁	\N	Biànliáng	Bianliang / Kaifeng	proper noun	城市	City	历史	History	河南	Henan	\N	\N	Historic name for Kaifeng
+36163	汴州	\N	Biànzhōu	Bianzhou / Kaifeng	proper noun	城市	City	历史	History	河南	Henan	\N	\N	Historic name for Kaifeng
+36164	少吴绫	少吳綾	shǎowú líng	shaowu damask	noun	\N	\N	服装	Clothing	\N	\N	\N	\N	\N
+36165	惠济河	惠濟河	Huìjì Hé	Huiji River	proper noun	河	River	地方	Places	河南	Henan	\N	\N	A river in Henan
+36166	渦	\N	Guō	Guo River	proper noun	河	River	地方	Places	河南	Henan	\N	\N	A river in Henan
+36167	渦河	\N	Guō	Guo River	proper noun	河	River	地方	Places	河南	Henan	\N	\N	A river in Henan
+36168	盐铁司	鹽鐵司	Yán Tiě Sī	Salt and Iron Bureau	proper noun	司	Bureau	地方	Places	中国	China	\N	\N	A government bureau in historic times in charge of salt and iron and other metals
+36169	河堤	\N	hé dī	a river dike / a river embankment	phrase	\N	\N	古文	Classical Chinese	\N	\N	\N	\N	\N
+36170	地方志	\N	dìfāng zhì	a gazetteer	noun	\N	\N	历史	History	\N	\N	\N	\N	A directory of place names and information about them
+36171	名胜志	名勝志	dìfāng zhì	a gazetteer of famous places	noun	\N	\N	历史	History	\N	\N	\N	\N	A directory of famous places and information about them
+36172	寺志	\N	sì zhì	a gazetteer of Buddhist temples	noun	地方志	Gazetteer	佛教	Buddhism	\N	\N	\N	\N	A directory of temples and information about them
+36173	山志	\N	shān zhì	a gazetteer of mountains	noun	地方志	Gazetteer	历史	History	\N	\N	\N	\N	A directory of mountains or Buddhist mountains and information about them
+36174	庙志	廟志	sì zhì	a gazetteer of Daoist temples	noun	地方志	Gazetteer	历史	History	\N	\N	\N	\N	A directory of temples and information about them
+36175	书院志	書院志	shūyuàn zhì	a gazetteer of Confucian academies	noun	地方志	Gazetteer	历史	History	\N	\N	\N	\N	A directory of academies and information about them
+36176	中国佛寺史志汇刊	中國佛寺史志彙刊	Zhōngguó Fó sì shǐ zhì huì kān	Collection of Chinese Buddhist Temple History and Gazetteers	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	A compiliation from temple gazetteers. 1980-1985, compiled by Du Jiexiang, 110 volumes
+36177	中国佛寺志丛刊	中国佛寺志叢刊	Zhōngguó Fó sì zhì huì kān	Collection of Chinese Buddhist Temple Gazetteers	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	A compiliation from temple gazetteers. 2006, compiled by Zhang Zhi, 197 volumes
+36178	法鼓佛教学院	法鼓佛教學院	Fǎ Gǔ Fójiào Xuéyuàn	Dharma Drum Buddhist College	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	\N
