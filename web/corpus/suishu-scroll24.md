@@ -1,4 +1,4 @@
-## BBook of Sui, Scroll 24, Treatise 19 Food and Commodities 隋書卷24 志第19 食貨
+## Book of Sui, Scroll 24, Treatise 19 Food and Commodities 隋書卷24 志第19 食貨
 
 Description: One of the 85 scrolls of the Book of Sui, this scroll is the only scroll on Food and Commodities 食貨 in the Book of Sui.
 
