@@ -12,7 +12,7 @@ Character Set: Traditional Chinese
 
 Source: [Wikisource] (http://ctext.org/ "Chinese Text Project")
 
-Reference: Book of Han
+Reference: Discourse on Sailing Directions 海道經
 
 Attributed to: Unkown
 
