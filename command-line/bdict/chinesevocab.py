@@ -53,12 +53,15 @@ class ChineseVocabulary:
         text = reader.ReadText(corpus_entry)
         splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text, leave_punctuation=True)
-        wc += len(words)
+        wc = 0
         char_count = 0
         for word in words:
+            for c in word:
+                if chinesephrase.isCJKLetter(c):
+                    char_count += 1
             finder.AddWord(word)
             if not chinesephrase.isCJKPunctuation(word):
-                char_count += len(word)
+                wc += 1
                 if word in wdict:
                     if word not in known_words:
                         known_words[word] = 1
@@ -69,7 +72,6 @@ class ChineseVocabulary:
                         new_words[word] = 1
                     else:
                         new_words[word] += 1
-
         infile = corpus_entry['plain_text']
         period_pos = infile.find('.')
         outfile = DEFAULT_OUTFILE
