@@ -259,7 +259,7 @@ CREATE TABLE phrases (
 	chinese_phrase VARCHAR(125) NOT NULL,
 	pos_tagged TEXT NOT NULL,
 	sanskrit TEXT,
-	source_no INT UNSIGNED NOT NULL,
+	source_no INT UNSIGNED,
 	source_name TEXT NOT NULL,
 	PRIMARY KEY (id)
 	)
