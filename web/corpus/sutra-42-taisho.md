@@ -22,5 +22,5 @@ Start marker: 佛言
 
 End marker: 本網站係採用
 
-English translation: [The Sūtra of Forty-Two Sections English] (/buddhism_42chapters.html "The Sūtra of Forty-Two Sections English")
+English translation: Beal, S., trans. “The Sutra of the Forty-Two Sections.” London, 1862. Internet Sacred Text Archive. <a href="http://www.sacred-texts.com/journals/jras/os19-14.htm">http://www.sacred-texts.com/journals/jras/os19-14.htm</a>.
 
