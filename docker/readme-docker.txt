@@ -29,3 +29,14 @@ curl <IPAddress>
 
 # Troubleshooting: Ubuntu utility with connections into the web and mysql containers
 sudo docker run --rm -it --link web:web --link db:db --rm --volumes-from=web ubuntu /bin/bash
+
+# (5) Use the command line tool to generate corpus files
+# The HTML gloss and vocabulary analysis markdown files are generated from the text files in the GitHub project
+sudo apt-get install -y python-bs4
+sudo apt-get install python-dev
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python get-pip.py
+sudo pip install regex
+# Run command line utilities from host to populate corpus gloss and analysis files
+cd command-line
+python bdictutil.py --help
