@@ -17,3 +17,9 @@ for parsing HTML web documents.
 
 $ sudo pip install beautifulsoup4
 
+There is also a dependency on regex
+
+$ sudo apt-get install python-dev
+$ wget https://bootstrap.pypa.io/get-pip.py
+$ sudo python get-pip.py
+$ sudo pip install regex
