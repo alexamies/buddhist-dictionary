@@ -63,36 +63,36 @@
         This assumes that Pr(B) > 0. (DeGroot and Morris <i>Probability and Statistics</i>, 56)
       </p>
       <p>
-        <em>Example</em>: Suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
+        <strong>Example</strong>: Suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
         If we know the character before it is 佛 then the probability may be higher than the probability of finding the character 說
         alone. That is, Pr(A=說|B=佛) > Pr(A=說).
       </p>
       <h3>Markov Chain</h2>
       <p>
-        A <em>stochastic process</em> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
-        in time. A <em>Markov chain</em> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
+        A <strong>stochastic process</strong> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
+        in time. A <strong>Markov chain</strong> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
         depend only on X<sub>n</sub> and not only earlier states.
         (DeGroot and Morris <i>Probability and Statistics</i>, 188)
       </p>
       <p>
-        The <em>transition distributions</em> of a Markov chain are the conditional probabilities 
+        The <strong>transition distributions</strong> of a Markov chain are the conditional probabilities 
       </p>
       <p class='formula'>
         p<sub>ij</sub> = Pr(X<sub>n+1</sub>=j|X<sub>n</sub>=i)
       </p>
       <p>
         where the random variables X<sub>n</sub> can have k possible states.
-        A transition matrix <em>P</em> = [p<sub>ij</sub>] is a matrix made up of the conditional probabilities of the 
+        A <strong>transition matrix</strong> P = [p<sub>ij</sub>] is a matrix made up of the conditional probabilities of the 
         transition distributions.
         (DeGroot and Morris <i>Probability and Statistics</i>, 190-192)
       </p>
       <p>
-        <em>Example</em>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
+        <strong>Example</strong>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
         words. In a simple statistical model, each word may only be influenced by the preceding words. 
       </p>
       <h3>Expectation</h2>
       <p>
-        The <em>expectation</em> of a discrete random variable X with probability function f is defined as 
+        The <strong>expectation</strong> of a discrete random variable X with probability function f is defined as 
       </p>
       <p class='formula'>
         E(X) = Σ<sub>All x</sub>xf(x)
@@ -101,17 +101,17 @@
         (DeGroot and Morris <i>Probability and Statistics</i>, 208)
       </p>
       <p>
-        The <em>variance</em> of a discrete random variable X with mean μ is defined as
+        The <strong>variance</strong> of a discrete random variable X with mean μ is defined as
       </p>
       <p class='formula'>
         Var(X) = E[(X-μ)<sup>2</sup>]
       </p>
       <p>
-        The <em>standard deviation</em> is the square root of the variance.
+        The <strong>standard deviation</strong> is the square root of the variance.
         (DeGroot and Morris <i>Probability and Statistics</i>, 226)
       </p>
       <p>
-        The <em>covariance</em> of a discrete random variables X and Y with means μ<sub>x</sub> and μ<sub>y</sub> 
+        The <strong>covariance</strong> of random variables X and Y with means μ<sub>x</sub> and μ<sub>y</sub> 
         is defined as
       </p>
       <p class='formula'>
@@ -120,6 +120,16 @@
       <p>
         assuming that the expectation exists.
         (DeGroot and Morris <i>Probability and Statistics</i>, 248)
+      </p>
+      <p>
+        The <strong>correlation</strong> of random variables X and Y with variances σ<sub>x</sub><sup>2</sup> and 
+        σ<sub>y</sub><sup>2</sup> is defined as
+      </p>
+      <p class='formula'>
+        ρ(X,Y) = Cov(X,Y) / [σ<sub>x</sub>σ<sub>y</sub>]
+      </p>
+      <p>
+        (DeGroot and Morris <i>Probability and Statistics</i>, 250)
       </p>
       <h3>References</h3>
       <ol>
