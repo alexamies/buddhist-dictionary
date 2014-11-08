@@ -1,0 +1,100 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Buddhist Text Reader">
+    <title>NTI Buddhist Text Reader</title>
+    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Buddhist Text Reader</h1></div>
+      </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="corpus.html">Texts</a></li>
+            <li class="active"><a href="tools.html">Tools</a></li>
+            <li><a href="dict_resources.html">Resources</a></li>
+            <li><a href="about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+      <h2>Statistical Methods</h2>
+      <p>
+        This page gives some incomplete notes on statistical methods in analyzing Chinese text 
+        to solve text analysis, historical linguistcs, and content analysis problems.
+      </p>
+      <h3>Conditional Probability</h2>
+      <p>
+        The <em>conditional probability</em> of an event A given that we know an event B has already occured is written Pr(A|B).
+        It can be computed as 
+      </p>
+      <p class='formula'>
+        Pr(A|B) = Pr(A ∩ B) / Pr(B)
+      </p>
+      <p>
+        This assumes that Pr(B) > 0. (DeGroot and Morris <i>Probability and Statistics</i>, 56)
+        As an example, suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
+        If we know the character before it is 佛 then the probability may be higher than the probability of finding the character 說
+        alone. That is, Pr(A=說|B=佛) > Pr(A=說).
+      </p>
+      <h3>Markov Chain</h2>
+      <p>
+        A <em>stochastic process</em> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
+        in time. A <em>Markov chain</em> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
+        depend only on X<sub>n</sub> and not only earlier states.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 188)
+      </p>
+      <p>
+        The <em>transition distributions</em> of a Markov chain are the probabilities 
+      </p>
+      <p class='formula'>
+        p<sub>ij</sub> = Pr(X<sub>n+1</sub>=j|X<sub>n</sub>=i)
+      </p>
+      <p>
+        where the random variables X<sub>n</sub> can have k possible states.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 190)
+      </p>
+      <h3>References</h3>
+      <ol>
+        <li>
+          DeGroot, Morris H., and Mark J. Schervish. <i>Probability and Statistics</i>. 4 edition. Boston: Pearson, 2011.
+        </li>
+      <hr/>
+      <p>
+        Copyright Nan Tien Institute 2013 - 2014, 
+        <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
+      </p>
+      <p>This page was last updated on November 8, 2014.</p>
+     </div>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  </body>
+</<html>
