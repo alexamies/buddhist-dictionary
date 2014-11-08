@@ -25,4 +25,6 @@
 {"doc_type": "Historic Doc.","source_name": "Buddhist Monasteries in Luoyang 洛陽伽藍記","reference": "T 51 2092","language": "Chinese","start": "","charset": "Traditional","uri": "luoyang","period": "Northern Wei 495 – 534","translator": "Yang Xuanzhi","source": "Taishō Tripiṭaka","genre": "Historic Doc.","type": "collection","id": "14"}
 ,
 {"doc_type": "Collection","source_name": "Maritime Buddhism","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "maritime","translator": "Various","source": "Various","genre": "Various","type": "collection","id": "15"}
+,
+{"doc_type": "Collection","source_name": "Sumati Sūtra 妙慧童女經","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "sumati","translator": "Various","source": "Bodhiruci","genre": "Various","type": "collection","id": "16"}
 ]
