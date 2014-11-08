@@ -61,7 +61,9 @@
       </p>
       <p>
         This assumes that Pr(B) > 0. (DeGroot and Morris <i>Probability and Statistics</i>, 56)
-        As an example, suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
+      </p>
+      <p>
+        <em>Example</em>: Suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
         If we know the character before it is 佛 then the probability may be higher than the probability of finding the character 說
         alone. That is, Pr(A=說|B=佛) > Pr(A=說).
       </p>
@@ -73,14 +75,51 @@
         (DeGroot and Morris <i>Probability and Statistics</i>, 188)
       </p>
       <p>
-        The <em>transition distributions</em> of a Markov chain are the probabilities 
+        The <em>transition distributions</em> of a Markov chain are the conditional probabilities 
       </p>
       <p class='formula'>
         p<sub>ij</sub> = Pr(X<sub>n+1</sub>=j|X<sub>n</sub>=i)
       </p>
       <p>
         where the random variables X<sub>n</sub> can have k possible states.
-        (DeGroot and Morris <i>Probability and Statistics</i>, 190)
+        A transition matrix <em>P</em> = [p<sub>ij</sub>] is a matrix made up of the conditional probabilities of the 
+        transition distributions.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 190-192)
+      </p>
+      <p>
+        <em>Example</em>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
+        words. In a simple statistical model, each word may only be influenced by the preceding words. 
+      </p>
+      <h3>Expectation</h2>
+      <p>
+        The <em>expectation</em> of a discrete random variable X with probability function f is defined as 
+      </p>
+      <p class='formula'>
+        E(X) = Σ<sub>All x</sub>xf(x)
+      </p>
+      <p>
+        (DeGroot and Morris <i>Probability and Statistics</i>, 208)
+      </p>
+      <p>
+        The <em>variance</em> of a discrete random variable X with mean μ is defined as
+      </p>
+      <p class='formula'>
+        Var(X) = E[(X-μ)<sup>2</sup>]
+      </p>
+      <p>
+        The <em>standard deviation</em> is the square root of the variance.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 226)
+      </p>
+      <p>
+        The <em>covariance</em> of a discrete random variables X and Y with means μ<sub>x</sub> and μ<sub>y</sub> 
+        is defined as
+      </p>
+      <p class='formula'>
+        Cov(X,Y) = E[(X-μ<sub>x</sub>)(Y-μ<sub>y</sub>)]
+      </p>
+      <p>
+        assuming that the expectation exists.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 248)
       </p>
       <h3>References</h3>
       <ol>
