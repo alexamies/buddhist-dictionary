@@ -8,7 +8,7 @@
 sudo apt-get update
 sudo apt-get install -y git
 git clone git://github.com/alexamies/buddhist-dictionary $HOME/ntireader
-cd ntireader/docker
+cd $HOME/ntireader/docker
 
 # (2) Database
 sudo docker run --name db -p 3306:3306 -e MYSQL_ROOT_PASSWORD=admin -d mysql
