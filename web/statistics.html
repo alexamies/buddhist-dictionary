@@ -51,7 +51,7 @@
         This page gives some incomplete notes on statistical methods in analyzing Chinese text 
         to solve text analysis, historical linguistcs, and content analysis problems.
       </p>
-      <h3>Conditional Probability</h2>
+      <h3>Probability</h2>
       <p>
         The <strong>conditional probability</strong> of an event A given that we know an event B has already occured is written Pr(A|B).
         It can be computed as 
@@ -67,7 +67,6 @@
         If we know the character before it is 佛 then the probability may be higher than the probability of finding the character 說
         alone. That is, Pr(A=說|B=佛) > Pr(A=說).
       </p>
-      <h3>Markov Chain</h2>
       <p>
         A <strong>stochastic process</strong> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
         in time. A <strong>Markov chain</strong> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
@@ -82,7 +81,7 @@
       </p>
       <p>
         where the random variables X<sub>n</sub> can have k possible states.
-        A <strong>transition matrix</strong> P = [p<sub>ij</sub>] is a matrix made up of the conditional probabilities of the 
+        A <strong>transition matrix</strong> is a matrix <strong>P</strong> = [p<sub>ij</sub>] made up of the conditional probabilities of the 
         transition distributions.
         (DeGroot and Morris <i>Probability and Statistics</i>, 190-192)
       </p>
@@ -130,6 +129,71 @@
       </p>
       <p>
         (DeGroot and Morris <i>Probability and Statistics</i>, 250)
+      </p>
+      <h3>Special Distributions</h2>
+      <p>
+        The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
+        with parameter p (0 ≤ p ≤ 1) has the probabilities
+      </p>
+      <p class='formula'>
+        Pr(X = 1) = p and Pr(X = 0) = 1 - p
+      </p>
+      <p>
+        An sequence random variables with the Bernoulli distribution are called <strong>Bernoulli trials</strong>.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 276)
+      </p>
+      <p>
+        The <strong>Binomial distribution</strong> with integer parameter n and continuous parameter p (0 ≤ p ≤ 1)
+        is defined as 
+      </p>
+      <p class='formula'>
+         f(x|n,p) = (n ¦ x) p<sup>x</sup>(1-p)<sup>n-x</sup> for x = 0, 1, 2, ... and 0 otherwise
+      </p>
+      <p>
+        where (n ¦ x) is the binomial coefficient n!/[x!(n - x)].
+        The mean and variance are
+      </p>
+      <p class='formula'>
+         E(X) = np
+      </p>
+      <p class='formula'>
+         Var(X) = np(1 - p)
+      </p>
+      <p>
+        (DeGroot and Morris <i>Probability and Statistics</i>, 277)
+      </p>
+      <p>
+        The <strong>Poisson distribution</strong> for random variable X with mean λ is defined as
+      </p>
+      <p class='formula'>
+         f(x|λ) = e<sup>-λ</sup>λ<sup>x</sup>/x! for x = 0, 1, 2, ... and 0 otherwise.
+      </p>
+      <p>
+        The variance of the Poisson distribution is also λ.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 288-290)
+      </p>
+      <p>
+        The <strong>normal distribution</strong> for random variable X with mean μ and standard deviation σ is defined as
+      </p>
+      <p class='formula'>
+         f(x|μ, σ) = [1/σ√(2π)] exp[-0.5((x - μ)/σ)<sup>2</sup>] for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris <i>Probability and Statistics</i>, 303)
+      </p>
+      <p>
+        The <strong>multinomial distribution</strong> for the discrete random vector 
+        <strong>X</strong> = (X<sub>1</sub>, X<sub>2</sub>, ... X<sub>k</sub>) having probabilities
+        <strong>p</strong> = (p<sub>1</sub>, p<sub>2</sub>, ... p<sub>k</sub>) 
+        with n items selected is defined as
+      </p>
+      <p class='formula'>
+         f(<strong>X</strong>|n, <strong>p</strong>) = [n!/(x<sub>1</sub> x<sub>2</sub> ... x<sub>k</sub>)]
+         p<sub>1</sub><sup>x<sub>1</sub></sup> p<sub>2</sub><sup>x<sub>2</sub></sup> ... p<sub>k</sub><sup>x<sub>k</sub></sup>
+      </p>
+      <p>
+        if x<sub>1</sub> + x<sub>2</sub> + ... x<sub>k</sub> = n or 0 otherwise.
+        (DeGroot and Morris <i>Probability and Statistics</i>, 334)
       </p>
       <h3>References</h3>
       <ol>
