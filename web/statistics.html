@@ -47,11 +47,22 @@
 
     <div class="container">
       <h2>Statistical Methods</h2>
+      <h3>Contents</h3>
+      <p>
+        <ul>
+          <li><a href="#probability">Probability</a></li>
+          <li><a href="#tools">Software Tools</a></li>
+          <li><a href="#expectation">Expectation</a></li>
+          <li><a href="#special">Special Distributions</a></li>
+          <li><a href="#estimation">Statistical Estimation</a></li>
+          <li><a href="#references">References</a></li>
+        </ul>
+      </p>
       <p>
         This page gives some incomplete notes on statistical methods in analyzing Chinese text 
         to solve text analysis, historical linguistcs, and content analysis problems.
       </p>
-      <h3>Probability</h2>
+      <h3><a name="probability"></a>Probability</h2>
       <p>
         The <strong>conditional probability</strong> of an event A given that we know an event B has already occured is written Pr(A|B).
         It can be computed as 
@@ -60,13 +71,75 @@
         Pr(A|B) = Pr(A ∩ B) / Pr(B)
       </p>
       <p>
-        This assumes that Pr(B) > 0. (DeGroot and Morris, <i>Probability and Statistics</i>, 56)
+        This assumes that Pr(B) &gt; 0. (DeGroot and Morris, <i>Probability and Statistics</i>, 56)
       </p>
       <p>
         <strong>Example</strong>: Suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
         In modern Chinese, the sequence 我說 is very common.
         So, if we know the previous character is 我 then the probability may be higher than the probability of finding the character 說
-        alone. That is, Pr(A=說|B=我) > Pr(A=說).
+        alone. That is, Pr(A=說|B=我) &gt; Pr(A=說).
+      </p>
+      <p>
+        Two events A and B are <strong>independent</strong> if the occurence of one does not affect the occurrence of the other. 
+        If this is true then
+      </p>
+      <p class='formula'>
+        Pr(A ∩ B) = Pr(A) Pr(B)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 66)
+      </p>
+      <p>
+        A <strong>random variable</strong> is a real-valued function in a sample space S. (DeGroot and Morris, <i>Probability and Statistics</i>, 93)
+      </p>
+      <p>
+        The <strong>probability function</strong> of a discrete random variable X is the function
+      </p>
+      <p class='formula'>
+        f(x) = Pr(X = x)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 96)
+        In linguistics discrete random variables, like word frequency, are more common but continuous random
+        variables may also be used, for example the word frequency of a specific word per 1,000 words of text.
+        The equivalent function for a continuous random variable is called the 
+        <strong>probability density function</strong> (pdf).
+      </p>
+      <p>
+        The <strong>cummulative distribution function</strong> (cdf) of a random variable X is 
+      </p>
+      <p class='formula'>
+        F(x) = Pr(X ≤ x) for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 108)
+      </p>
+      <p>
+        The <strong>quantile function</strong> F<sup>-1</sup>(p) of a random variable X is the inverse of the cdf,
+        which is also the smallest value x  with F(x) ≥ p. The variable p is the probability.
+        F<sup>-1</sup>(p) is the p quantile of X or 100p percentile.
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 112)
+      </p>
+      <p>
+        The <strong>joint probability function</strong> of two random variables X and Y is 
+      </p>
+      <p class='formula'>
+        f(x, y) = Pr(X = x and Y = y)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 119)
+      </p>
+      <p>
+        The <strong>marginal cdf</strong> of a joint probability function of two discrete random variables X and Y is 
+        summed over all possible values of y. In symbols,
+      </p>
+      <p class='formula'>
+        f<sub>1</sub>(x) = Σ<sub>All y</sub> f(x, y)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 131)
       </p>
       <p>
         A <strong>stochastic process</strong> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
@@ -90,12 +163,25 @@
         <strong>Example</strong>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
         words. In a simple statistical model, each word may only be influenced by the preceding words. 
       </p>
-      <h3>Expectation</h2>
+      <h3><a name="tools"></a>Software Tools</h3>
       <p>
-        The <strong>expectation</strong> of a discrete random variable X with probability function f is defined as 
+        There are a number of software tools for statistical modelling and may be used for text analysis.
+        Initially, R will be discussed.
+      </p>
+      <h4>R Project for Statistical Computing</h4>
+      <p>
+        The R Project for Statistical Computing (<a href="http://www.r-project.org/">http://www.r-project.org</a>),
+        or simply R, is an open source project, language, and platform.
+        You can freely download and install R for Linux, Mac, and Windows from links in the project web site.
+        After installing it, open the command line interpreter with the command <code>R</code>.
+      </p>
+      <h3><a name="expectation"></a>Expectation</h2>
+      <p>
+        The <strong>expectation</strong> of a random variable is its <strong>mean</strong>.
+        The expectation of a discrete random variable X with probability function f is defined as 
       </p>
       <p class='formula'>
-        E(X) = Σ<sub>All x</sub> xf(x)
+        E(X) = Σ<sub>All x</sub> x f(x)
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 208)
@@ -131,7 +217,7 @@
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 250)
       </p>
-      <h3>Special Distributions</h2>
+      <h3><a name="special"></a>Special Distributions</h2>
       <p>
         The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
         with parameter p (0 ≤ p ≤ 1) has the probabilities
@@ -187,6 +273,51 @@
         random variables Σ<sub>i=1</sub><sup>n</sup> X<sub>i</sub>  with any distribution will be
         approximately the normal distribition with mean nμ and variance nσ<sup>2</sup>, as
         n becomes large.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 361)
+      </p>
+      <p>
+        The <strong>gamma distribution</strong> for the continuous random variable X with parameters 
+        α and β is 
+      </p>
+      <p class='formula'>
+         f(x|α, β) = [β<sup>α</sup> / Γ(α)] x<sup>α-1</sup> e<sup>-βx</sup> for x &gt; 0 or 0 otherwise
+      </p>
+      <p>
+        where Γ(α) is the gamma function. 
+        The mean of the gamma distribution is α/β and the variance is α/β<sup>2</sup>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 319-320)
+      </p>
+      <p>
+        The <strong>exponential distribution</strong> for the continuous random variable X with parameter β is
+      </p>
+      <p class='formula'>
+         f(x|β) = βe<sup>-βx</sup> for x &gt; 0 or 0 otherwise
+      </p>
+      <p>
+        The exponential distribution is a special case of the gamma distribution with α = 1.
+        The mean of the exponential distribution is 1/β and the variance is 1/β<sup>2</sup>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 321)
+      </p>
+      <p>
+        The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
+      </p>
+      <p class='formula'>
+         f(x|α, β) = [Γ<sup>β+α</sup> / (Γ(α) Γ(β))] x<sup>α-1</sup> (1 - x)<sup>β-1</sup> for 0 &lt; x &lt; 1 or 0 otherwise
+      </p>
+      <p>
+        The mean of the beta distribution is 
+      </p>
+      <p class='formula'>
+        E(X) = α/(α + β)
+      </p>
+      <p>
+        The variance of the beta distribution is 
+      </p>
+      <p class='formula'>
+        Var(X) = αβ/[(α + β)<sup>2</sup>(α + β + 1)]
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 328-329)
       </p>
       <p>
         The <strong>multinomial distribution</strong> for the discrete random vector 
@@ -200,14 +331,89 @@
       </p>
       <p>
         if x<sub>1</sub> + x<sub>2</sub> + ... x<sub>k</sub> = n or 0 otherwise.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 334)
         The multinomial distribution is appropriate for distributions into sets that are not necessarily numbers,
         for example, the frequencies of words of different part of speech values.
-        (DeGroot and Morris, <i>Probability and Statistics</i>, 334)
       </p>
-      <h3>References</h3>
+      <h3><a name="estimation"></a>Statistical Estimation</h3>
+      <p>
+        A <strong>statistical model</strong> is a collection of random variables, identification of probability
+        distributions for the variables, and the set of parameters that the distributions require values for.
+        <strong>Statistical inference</strong> is a probabilistic statement about a statistical model.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 377-378)
+        For example, the approximate date of a document may be inferred from the vocabulary in it.
+        (Krippendorff, <i>Content Analysis</i>, 42)
+        In a Buddhist text mention of copying sutras or description of devotional practices may help provide information for the date
+        for the text. The data may be recorded as 0 (not present) and 1 (present) or as a word frequency.
+      </p>
+      <p>
+        A <strong>statistic</strong> is a function of a set of random variables. For example, mean, median, 
+        and variance are statistics.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 382)
+      </p>
+      <p>
+        Parameters in probability distributions are usually unknown and needed to be estimated with statistical methods.
+        So the parameters themselves can be considered simply as unknown constants or to have probability distributions
+        themselves.
+        The <strong>prior distribution</strong> of a parameter θ is the probability distribution ζ(θ) assumed before
+        experimental observations are applied to estimate its value.
+        The <strong>posterior distribution</strong> ζ(θ|x<sub>1</sub>, ... x<sub>n</sub>) 
+        is the conditional distribution after the random variables X<sub>1</sub>, ... X<sub>n</sub> have been observed.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 385-387)
+        The <strong>likelihood function</strong> f<sub>n</sub>(<strong>x</strong>|θ) is the joint probability function
+        of the random variables <strong>x</strong> = (x<sub>1</sub>, ... x<sub>n</sub>) and the parameter θ.
+        The likelihood function can be used to relate teh prior and posterior distributions,
+      </p>
+      <p class='formula'>
+         ζ(θ|<strong>x</strong>) ∝ f<sub>n</sub>(<strong>x</strong>|θ) ζ(θ)
+      </p>
+      <p>
+        The constant of proportionality can be found from equating the total probability to 1.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 390)
+      </p>
+      <p>
+        A <strong>conjugate family of prior distributions</strong> is a family of possible distributions for ζ(θ) where 
+        the posterior distribution also belongs to the same family. 
+        The family of gamma distributions is a conjugate family of prior distributions for Poisson distributions of
+        the random variables X<sub>1</sub>, ... X<sub>n</sub> when the parameter θ is unknown.
+        The family of normal distributions is itself a conjugate family of prior distributions for normal distributions of
+        X<sub>1</sub>, ... X<sub>n</sub> when the mean is unknown but the variance is known.
+        The family of gamma distributions is also a conjugate family of prior distributions for exponential distributions of
+        X<sub>1</sub>, ... X<sub>n</sub> when the value of the parameter θ is unknown.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 395-402)
+      </p>
+      <p>
+        An <strong>estimator</strong> δ(X<sub>1</sub>, ... X<sub>n</sub>) gives an estimate of the parameter θ using
+        observed values of the data <strong>x</strong> = (x<sub>1</sub>, ... x<sub>n</sub>). 
+        A <strong>loss function</strong> L(θ, a) quantifies the effect of the difference between the estimate a of θ
+        and the true value.
+        A <strong>Bayes estimator</strong> δ*(<strong>x</strong>) minimizes the expected value of the loss function.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 408-409)
+      </p>
+      <p>
+        The squared error loss function is defined as 
+      </p>
+      <p class='formula'>
+         L(θ, a) = (θ - a)<sup>2</sup>
+      </p>
+      <p>
+        When the squared error loss function is used the Bayes estimator is the posterior mean value of θ.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 411)
+      </p>
+      <h3><a name="references"></a>References</h3>
       <ol>
         <li>
           DeGroot, Morris H., and Mark J. Schervish. <i>Probability and Statistics</i>. 4 edition. Boston: Pearson, 2011.
+        </li>
+        <li>
+          Knell, Robert. <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and Programming in R</i>. United Kingdom: Self published, 2013.
+        </li>
+        <li>
+          Krippendorff, Klaus H. <i>Content Analysis: An Introduction to Its Methodology</i>. Third Edition edition. SAGE Publications, Inc, 2012.
+        </li>
+        <li>
+          The R Project for Statistical Computing (version Pumpkin Helmet). R Foundation, 2014. 
+          <a href="http://www.r-project.org/">http://www.r-project.org</a>.
         </li>
       <hr/>
       <p>
