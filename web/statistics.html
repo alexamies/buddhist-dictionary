@@ -65,6 +65,14 @@
       </p>
       <h3><a name="probability"></a>Probability</h2>
       <p>
+        <strong>Example</strong>: Different Chinese characters have acquired multiple meanings over history.
+        This makes choosing the appropriate word meaning require understanding of the context.
+        Suppose that we wish to find the probability of choosing the right meaning of the character 是 (shì).
+        In modern Chinese the best choice would be the extistential verb "is."
+        However, in literary Chinese, the best choice may be the pronoun with meaning "this / that / those."
+        Recording the word frequencies in a corpus of texts can provide estimates for the probabilities.
+      </p>
+      <p>
         The <strong>conditional probability</strong> of an event A given that we know an event B has already occured is written Pr(A|B).
         It can be computed as 
       </p>
@@ -73,12 +81,11 @@
       </p>
       <p>
         This assumes that Pr(B) &gt; 0. (DeGroot and Morris, <i>Probability and Statistics</i>, 56)
-      </p>
-      <p>
-        <strong>Example</strong>: Suppose that we wish to find the probability finding the character 說 at a particular position in the text. 
-        In modern Chinese, the sequence 我說 is very common.
-        So, if we know the previous character is 我 then the probability may be higher than the probability of finding the character 說
-        alone. That is, Pr(A=說|B=我) &gt; Pr(A=說).
+        Continuing the example of word sense for 是 (shì) A may be the probaility that 是 the 
+        meaning is "this / that / those" and B may be that the text type is literary Chinese. 
+        Pr(A ∩ B) would be the probability that the meaning is "this / that / those" and that the text type is literary Chinese. 
+        So Pr(A|B) would be that the probability that the meaning is "this / that / those" given that we already know
+        that the text type is literary Chinese.
       </p>
       <p>
         Two events A and B are <strong>independent</strong> if the occurence of one does not affect the occurrence of the other. 
