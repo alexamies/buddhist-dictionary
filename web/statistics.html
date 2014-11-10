@@ -51,6 +51,7 @@
       <p>
         <ul>
           <li><a href="#probability">Probability</a></li>
+          <li><a href="#data">Corpus Data</a></li>
           <li><a href="#tools">Software Tools</a></li>
           <li><a href="#expectation">Expectation</a></li>
           <li><a href="#special">Special Distributions</a></li>
@@ -163,6 +164,26 @@
         <strong>Example</strong>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
         words. In a simple statistical model, each word may only be influenced by the preceding words. 
       </p>
+      <h3><a name="data"></a>Corpus Data</h3>
+      <p>
+        The NTI Buddhist Text Reader contains a small part-of-speech tagged corpus of Chinese Buddhist texts.
+        The raw data, including word frequencies, can be found at the 
+        <a href="https://github.com/alexamies/buddhist-dictionary">NTI Buddhist Text Reader GitHub Project</a> in the 
+        data/dictionary folder. These are text files with tab delimiters.
+        Examples will be used from the  
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>
+        file that lists word frequencies in the tagged corpus. 
+        This is a tab delimited UTF-8 file with no header row.
+        The structure of this file is:
+      </p>
+      <p class='formula'>
+        <pre>
+          pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+          element_text:    The element text in traditional Chinese
+          word_id:         Matching id in the word table (positive integer)
+          frequency:       The frequency of occurence of the word sense (positive integer)
+        </pre>
+      </p>
       <h3><a name="tools"></a>Software Tools</h3>
       <p>
         There are a number of software tools for statistical modelling and may be used for text analysis.
@@ -173,7 +194,79 @@
         The R Project for Statistical Computing (<a href="http://www.r-project.org/">http://www.r-project.org</a>),
         or simply R, is an open source project, language, and platform.
         You can freely download and install R for Linux, Mac, and Windows from links in the project web site.
-        After installing it, open the command line interpreter with the command <code>R</code>.
+        The R project web site has links to introductory materials but I used the book by Knell in preparing this
+        content. (Knell,  <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and 
+        Programming in R</i>)
+      </p>
+      <p>
+        R is a generic statistics platform. In addition, there are a number of packages for R specifically for
+        text analysis. These can be found in the web page 
+        <a href="http://cran.r-project.org/web/packages/available_packages_by_name.html">Available CRAN Packages By Name</a>.
+        Some examples are: 
+        <a href="http://cran.r-project.org/web/packages/koRpus/index.html">koRpus: An R Package for Text Analysis</a>,
+        <a href="http://cran.r-project.org/web/packages/tau/index.html">tau: Text Analysis Utilities</a>,
+        <a href="http://cran.r-project.org/web/packages/textcat/index.html">textcat: N-Gram Based Text Categorization</a>,
+        and <a href="http://cran.r-project.org/web/packages/tm/index.html">tm: Text Mining Package</a>.
+      </p>
+      <p>
+        Let's look at some word frequencies with R. Here is a simple example of loading the frequencies from the 
+        most common words in the table 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>.
+        After installing R, open the command line interpreter with the command <code>R</code>.
+        The unigram.txt file can be read in to a data frame using the <code>read.table()</code> function, as shown below.
+        Change directories to the directory containing the file first.
+      </p>
+      <p class='formula'>
+        <pre>
+          $ R
+          . . .
+          &gt; names &lt;- c("pos_tagged_text", "element_text", "word_id", "frequency")
+          &gt; unigram &lt;- read.table("unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names)
+          &gt; head(unigram)
+                       pos_tagged_text element_text word_id frequency
+          1 須菩提/NR[xūpútí | Subhuti]        須菩提    6645       137
+          2           是/PN[shì | this]           是   17908       136
+          3             不/AD[bù | not]           不     502       130
+          4          佛/NR[Fó | Buddha]           佛    3618       130
+          5               於/P[yú | in]           於    1710        93
+          6  如來/NR[Rúlái | Tathagata]          如來    6686        89
+        </pre>
+      </p>
+      <p>
+        The <code>c()</code> function contatenates the arguments into a vector, which is assigned to the 
+        variable <code>names</code> using the assignment operator <code>&lt;-</code>.
+        The variable <code>names</code> is used for the column names later.
+        The unigram.txt file into the <code>unigram</code> data frame with the <code>read.table()</code> function.
+        The <code>head</code> function prints out the first few lines of the data frame.
+        The UTF-8 encoded Chinese characters are read in by R correctly.
+        The NTI Reader text files are formatted to be loaded into MySQL and there are a few differences with the 
+        basic form of the <code>read.table()</code> function.
+        The format for <code>NULL</code> values in MySQL is <code>\N</code> but R expects <code>NA</code>.
+        So, you will need to be careful if you depend on accurate representation of <code>NULL</code> values.
+        In addition, the NTI Reader files do not have variable names in the first row.
+      </p>
+      <p>
+        You can make a plot of data in R using the <code>plot()</code> function, as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- seq(1, 1432)
+          &gt; plot(x, unigram$frequency, xlab="", ylab="Frequency", type="n")
+          &gt; points(x, unigram$frequency, pch=20, col="blue")
+        </pre>
+      </p>
+      <p>
+        The <code>seq()</code> function genrates a sequence of integers so that the frequency
+        of each word will be plotted from most frequent at the left to least frequent at the right. 
+        The <code>type="n"</code> parameter of the <code>plot()</code> function defers plotting of the points 
+        to the next line where the <code>points()</code> function plots the points with symbol 20 and blue color.
+        There are so many words that we cannot show the text for each one but it 
+        is informative to see the general shape of the word frequency distribution.
+        The image generated is shown in Figure 1.
+      </p>
+      <p class='picture'>
+        <img src="images/unigram_frequency.png"/><br/>
+        Figure 1: Word Frequency in the unigram Data Frame
       </p>
       <h3><a name="expectation"></a>Expectation</h2>
       <p>
@@ -265,6 +358,21 @@
       </p>
       <p class='formula'>
          f(x|μ, σ) = [1/σ√(2π)] exp[-0.5((x - μ)/σ)<sup>2</sup>] for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        The standard normal distribution has mean μ = 0 and standard deviation σ = 1.
+        It can be plotted using the <code>curve()</code> function in R, as shown below.
+      <p class='formula'>
+        <pre>
+          &gt; curve(exp(-x^2)/(2*sqrt(pi)), -3, 3, xlab="z", ylab="Probability Density")
+        </pre>
+      </p>
+      <p>
+        The graph generated is shown in Figure 2.
+      </p>
+      <p class='picture'>
+        <img src="images/standard_normal.png"/><br/>
+        Figure 2: Standard Normal Distribution
       </p>
       <p>
         The normal distribution is a good approximation for variables in many random processes.
@@ -402,6 +510,9 @@
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
+        <li>
+          Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. https://github.com/alexamies/buddhist-dictionary.
+        </li>
         <li>
           DeGroot, Morris H., and Mark J. Schervish. <i>Probability and Statistics</i>. 4 edition. Boston: Pearson, 2011.
         </li>
