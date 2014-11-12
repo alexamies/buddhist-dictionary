@@ -50,9 +50,9 @@
       <h3>Contents</h3>
       <p>
         <ul>
-          <li><a href="#probability">Probability</a></li>
           <li><a href="#data">Corpus Data</a></li>
           <li><a href="#tools">Software Tools</a></li>
+          <li><a href="#probability">Probability</a></li>
           <li><a href="#expectation">Expectation</a></li>
           <li><a href="#special">Special Distributions</a></li>
           <li><a href="#estimation">Statistical Estimation</a></li>
@@ -63,14 +63,181 @@
         This page gives some incomplete notes on statistical methods in analyzing Chinese text 
         to solve text analysis, historical linguistcs, and content analysis problems.
       </p>
+      <h3><a name="data"></a>Corpus Data</h3>
+      <p>
+        A <strong>corpus</strong> is a collection of texts, which may be used by linguists for studying the 
+        characteristics of language usage. (Bird, <i>Natural Language Processing</i>, 39)
+        The NTI Buddhist Text Reader contains a small part-of-speech tagged corpus of Chinese Buddhist texts.
+        The raw data, including word frequencies, can be found at the 
+        <a href="https://github.com/alexamies/buddhist-dictionary">NTI Buddhist Text Reader GitHub Project</a> in the 
+        data/dictionary folder. These are text files with tab delimiters.
+        Examples will be used from the files
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>
+        and 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/bigram.txt">bigram.txt</a>
+        These are a tab delimited UTF-8 file with no header row.
+        The unigram.txt file lists single word frequencies in the tagged corpus. 
+        The structure of the unigram.txt file is:
+      </p>
+      <p class='formula'>
+        <pre>
+          pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+          element_text:    The element text in traditional Chinese
+          word_id:         Matching id in the word table (positive integer)
+          frequency:       The frequency of occurence of the word sense (positive integer)
+        </pre>
+      </p>
+      <p>
+        The bigram.txt file lists two-word combination frequencies.
+        The structure of the bigram.txt file is:
+      </p>
+      <p class='formula'>
+        <pre>
+          pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+          previous_text:   The element text in traditional Chinese
+          element_text:    The element text in traditional Chinese
+          word_id:         Matching id in the word table (positive integer)
+          frequency:       The frequency of occurence of the word sense (positive integer)
+        </pre>
+      </p>
+      <h3><a name="tools"></a>Software Tools</h3>
+      <p>
+        There are a number of software tools for statistical modelling and may be used for text analysis.
+        Initially, R will be discussed.
+      </p>
+      <h4>R Project for Statistical Computing</h4>
+      <p>
+        The R Project for Statistical Computing (<a href="http://www.r-project.org/">http://www.r-project.org</a>),
+        or simply R, is an open source project, language, and platform.
+        You can freely download and install R for Linux, Mac, and Windows from links in the project web site.
+        The R project web site has links to introductory materials but I used the book by Knell in preparing this
+        content. (Knell,  <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and 
+        Programming in R</i>)
+      </p>
+      <p>
+        R is a generic statistics platform. In addition, there are a number of packages for R specifically for
+        text analysis. These can be found in the web page 
+        <a href="http://cran.r-project.org/web/packages/available_packages_by_name.html">Available CRAN Packages By Name</a>.
+        Some examples are: 
+        <a href="http://cran.r-project.org/web/packages/koRpus/index.html">koRpus: An R Package for Text Analysis</a>,
+        <a href="http://cran.r-project.org/web/packages/tau/index.html">tau: Text Analysis Utilities</a>,
+        <a href="http://cran.r-project.org/web/packages/textcat/index.html">textcat: N-Gram Based Text Categorization</a>,
+        and <a href="http://cran.r-project.org/web/packages/tm/index.html">tm: Text Mining Package</a>.
+      </p>
+      <p>
+        After installing R, open the command line interpreter with the command <code>R</code>.
+        The unigram.txt file can be read in to a data frame using the <code>read.table()</code> function, as shown below.
+        Change directories to the directory containing the file first.
+      </p>
+      <p class='formula'>
+        <pre>
+          $ R
+          . . .
+          &gt; names &lt;- c("pos_tagged_text", "element_text", "word_id", "frequency")
+          &gt; unigram &lt;- read.table("unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names)
+          &gt; head(unigram)
+                       pos_tagged_text element_text word_id frequency
+          1 須菩提/NR[xūpútí | Subhuti]        須菩提    6645       137
+          2           是/PN[shì | this]           是   17908       136
+          3             不/AD[bù | not]           不     502       130
+          4          佛/NR[Fó | Buddha]           佛    3618       130
+          5               於/P[yú | in]           於    1710        93
+          6  如來/NR[Rúlái | Tathagata]          如來    6686        89
+        </pre>
+      </p>
+      <p>
+        The <code>$</code> prompt is shown before a shell command and the <code>&gt;</code> prompt is shown 
+        before an R command.
+        The <code>c()</code> function contatenates the arguments into a vector, which is assigned to the 
+        variable <code>names</code> using the assignment operator <code>&lt;-</code>.
+        The variable <code>names</code> is used for the column names later.
+        The unigram.txt file into the <code>unigram</code> data frame with the <code>read.table()</code> function.
+        The <code>head</code> function prints out the first few lines of the data frame.
+        The UTF-8 encoded Chinese characters are read in by R correctly.
+        The NTI Reader text files are formatted to be loaded into MySQL and there are a few differences with the 
+        basic form of the <code>read.table()</code> function.
+        The format for <code>NULL</code> values in MySQL is <code>\N</code> but R expects <code>NA</code>.
+        So, you will need to be careful if you depend on accurate representation of <code>NULL</code> values.
+        In addition, the NTI Reader files do not have variable names in the first row.
+      </p>
+      <p>
+        The bigram.txt file can be read in to a data frame in a similar way, as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; binames &lt;- c("pos_tagged_text", "previous_text", "element_text", "word_id", "frequency")
+          &gt; bigram &lt;- read.table("bigram.txt", header=FALSE, sep="\t", quote="\"", col.names=binames)
+          &gt; head(bigram)
+                 pos_tagged_text previous_text element_text word_id frequency
+          1   故/NN[gù | purpose]            以           故    7115        38
+          2    以/P[yǐ | because]            何           以   30648        38
+          3 云何/DT[yúnhé | what]            意         云何   29319        32
+          4      意/NN[yì | idea]            於           意    1730        30
+          5    佛/NR[Fó | Buddha]            諸           佛    3618        26
+          6  說/VV[shuō | speaks]          如來           說     412        23
+
+        </pre>
+      </p>
+      <p>
+        You can make a plot of data in R using the <code>plot()</code> function, as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- seq(1, 1432)
+          &gt; plot(x, unigram$frequency, xlab="", ylab="Frequency", type="n")
+          &gt; points(x, unigram$frequency, pch=20, col="blue")
+        </pre>
+      </p>
+      <p>
+        The <code>seq()</code> function genrates a sequence of integers so that the frequency
+        of each word will be plotted from most frequent at the left to least frequent at the right. 
+        The <code>type="n"</code> parameter of the <code>plot()</code> function defers plotting of the points 
+        to the next line where the <code>points()</code> function plots the points with symbol 20 and blue color.
+        There are so many words that we cannot show the text for each one but it 
+        is informative to see the general shape of the word frequency distribution.
+        The image generated is shown in Figure 1.
+      </p>
+      <p class='picture'>
+        <img src="images/unigram_frequency.png"/><br/>
+        Figure 1: Word Frequency in the unigram Data Frame
+      </p>
+      <p>
+        This is a useful diagram because it shows the breadth and depth of the corpus at a glance. The corpus
+        only has about 1,400 unique words and only has a substantial frequency for less than 200 of these words.
+      </p>
       <h3><a name="probability"></a>Probability</h2>
       <p>
         <strong>Example</strong>: Different Chinese characters have acquired multiple meanings over history.
         This makes choosing the appropriate word meaning require understanding of the context.
-        Suppose that we wish to find the probability of choosing the right meaning of the character 是 (shì).
-        In modern Chinese the best choice would be the extistential verb "is."
-        However, in literary Chinese, the best choice may be the pronoun with meaning "this / that / those."
-        Recording the word frequencies in a corpus of texts can provide estimates for the probabilities.
+        One of the goals of the NTI Reader is to help the user decide which is the most appropriate word sense.
+        Suppose that we wish to find the probability of choosing the right meaning of the character 法 (fǎ).
+        法 (fǎ) most often means the noun "law" or the noun "method" in modern Chinese. 
+        However, in Buddhist texts written in literary Chinese, 法 might mean the proper noun "Dharma" 
+        (the teachings of the Buddha), teachings in general, or the noun "dharma" (phenomenon).
+        The word frequencies for each sense can be found from the unigram table using the following
+        R commands.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; fa &lt;- subset(unigram, element_text=="法")
+          &gt; fa
+          pos_tagged_text                 element_text word_id frequency
+          10          法/NN[fǎ | a dhárma]           法   17994        74
+          1253          法/NR[Fǎ | Dhárma]           法    3509         1
+          1376 法/NN[fǎ | a mental object]           法   32204         1
+          1397          法/NN[fǎ | method]           法    3506         1
+          &gt; PrA = fa$frequency[1] / sum(fa$frequency)
+          &gt; PrA
+          [1] 0.961039
+        </pre>
+      </p>
+      <p>
+        The <code>subset()</code> function selects a subset of the unigram table with the value of element_text equal to "法".
+        The total number of occurences of 法 in the tagged corpus is <code>sum(fa$frequency) = 74 + 1 + 1 + 1 = 77</code>.
+        So the probability of any one occurence of 法 being the noun (NN) meaning "a dhárma" (a teaching) is 
+        <code>74/77 = 0.961</code>. 
+        If we had no other information about the context of a occurence of 法, then we would guess that it would mean
+        a dhárma. ▢
       </p>
       <p>
         The <strong>conditional probability</strong> of an event A given that we know an event B has already occured is written Pr(A|B).
@@ -81,11 +248,32 @@
       </p>
       <p>
         This assumes that Pr(B) &gt; 0. (DeGroot and Morris, <i>Probability and Statistics</i>, 56)
-        Continuing the example of word sense for 是 (shì) A may be the probaility that 是 the 
-        meaning is "this / that / those" and B may be that the text type is literary Chinese. 
-        Pr(A ∩ B) would be the probability that the meaning is "this / that / those" and that the text type is literary Chinese. 
-        So Pr(A|B) would be that the probability that the meaning is "this / that / those" given that we already know
-        that the text type is literary Chinese.
+      </p>
+      <p>
+        <strong>Example</strong>: If we know the word before 法, it may give us a better chance at picking the correct
+        word sense. This is an example of conditional probability
+        We can use the bigram table to compute the conditinal probability of the word sense of 法.
+        Suppose the word before is 說 shuō "to say" in modern Chinese but more commonly "to teach" in 
+        literary Chinese.
+        That would make the phrase be 說法 "to teach a dhárma."
+        Let A = the proper meaning of 法 in this instance is 法/NN[fǎ | a dhárma].
+        Let B = the word before 法 is 說.
+        The conditional probability can be computed using the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; subset(subset(bigram, element_text=="法"), previous_text=="說")
+                 pos_tagged_text previous_text element_text word_id frequency
+          34 法/NN[fǎ | a dhárma]            說           法   17994         9
+        </pre>
+      </p>
+      <p class='formula'>
+        Pr(A|B) = 9 / 9 = 1.0
+      </p>
+      <p>
+        That is, whenever the word before 法 is 說 then the proper word sense is always 法/NN[fǎ | a dhárma].
+        The interpretation of this is that the previous word is a very good predictor of word sense,
+        in this case. ▢
       </p>
       <p>
         Two events A and B are <strong>independent</strong> if the occurence of one does not affect the occurrence of the other. 
@@ -170,110 +358,6 @@
       <p>
         <strong>Example</strong>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
         words. In a simple statistical model, each word may only be influenced by the preceding words. 
-      </p>
-      <h3><a name="data"></a>Corpus Data</h3>
-      <p>
-        The NTI Buddhist Text Reader contains a small part-of-speech tagged corpus of Chinese Buddhist texts.
-        The raw data, including word frequencies, can be found at the 
-        <a href="https://github.com/alexamies/buddhist-dictionary">NTI Buddhist Text Reader GitHub Project</a> in the 
-        data/dictionary folder. These are text files with tab delimiters.
-        Examples will be used from the  
-        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>
-        file that lists word frequencies in the tagged corpus. 
-        This is a tab delimited UTF-8 file with no header row.
-        The structure of this file is:
-      </p>
-      <p class='formula'>
-        <pre>
-          pos_tagged_text: The element text with POS tag and gloss in pinyin and English
-          element_text:    The element text in traditional Chinese
-          word_id:         Matching id in the word table (positive integer)
-          frequency:       The frequency of occurence of the word sense (positive integer)
-        </pre>
-      </p>
-      <h3><a name="tools"></a>Software Tools</h3>
-      <p>
-        There are a number of software tools for statistical modelling and may be used for text analysis.
-        Initially, R will be discussed.
-      </p>
-      <h4>R Project for Statistical Computing</h4>
-      <p>
-        The R Project for Statistical Computing (<a href="http://www.r-project.org/">http://www.r-project.org</a>),
-        or simply R, is an open source project, language, and platform.
-        You can freely download and install R for Linux, Mac, and Windows from links in the project web site.
-        The R project web site has links to introductory materials but I used the book by Knell in preparing this
-        content. (Knell,  <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and 
-        Programming in R</i>)
-      </p>
-      <p>
-        R is a generic statistics platform. In addition, there are a number of packages for R specifically for
-        text analysis. These can be found in the web page 
-        <a href="http://cran.r-project.org/web/packages/available_packages_by_name.html">Available CRAN Packages By Name</a>.
-        Some examples are: 
-        <a href="http://cran.r-project.org/web/packages/koRpus/index.html">koRpus: An R Package for Text Analysis</a>,
-        <a href="http://cran.r-project.org/web/packages/tau/index.html">tau: Text Analysis Utilities</a>,
-        <a href="http://cran.r-project.org/web/packages/textcat/index.html">textcat: N-Gram Based Text Categorization</a>,
-        and <a href="http://cran.r-project.org/web/packages/tm/index.html">tm: Text Mining Package</a>.
-      </p>
-      <p>
-        Let's look at some word frequencies with R. Here is a simple example of loading the frequencies from the 
-        most common words in the table 
-        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>.
-        After installing R, open the command line interpreter with the command <code>R</code>.
-        The unigram.txt file can be read in to a data frame using the <code>read.table()</code> function, as shown below.
-        Change directories to the directory containing the file first.
-      </p>
-      <p class='formula'>
-        <pre>
-          $ R
-          . . .
-          &gt; names &lt;- c("pos_tagged_text", "element_text", "word_id", "frequency")
-          &gt; unigram &lt;- read.table("unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names)
-          &gt; head(unigram)
-                       pos_tagged_text element_text word_id frequency
-          1 須菩提/NR[xūpútí | Subhuti]        須菩提    6645       137
-          2           是/PN[shì | this]           是   17908       136
-          3             不/AD[bù | not]           不     502       130
-          4          佛/NR[Fó | Buddha]           佛    3618       130
-          5               於/P[yú | in]           於    1710        93
-          6  如來/NR[Rúlái | Tathagata]          如來    6686        89
-        </pre>
-      </p>
-      <p>
-        The <code>c()</code> function contatenates the arguments into a vector, which is assigned to the 
-        variable <code>names</code> using the assignment operator <code>&lt;-</code>.
-        The variable <code>names</code> is used for the column names later.
-        The unigram.txt file into the <code>unigram</code> data frame with the <code>read.table()</code> function.
-        The <code>head</code> function prints out the first few lines of the data frame.
-        The UTF-8 encoded Chinese characters are read in by R correctly.
-        The NTI Reader text files are formatted to be loaded into MySQL and there are a few differences with the 
-        basic form of the <code>read.table()</code> function.
-        The format for <code>NULL</code> values in MySQL is <code>\N</code> but R expects <code>NA</code>.
-        So, you will need to be careful if you depend on accurate representation of <code>NULL</code> values.
-        In addition, the NTI Reader files do not have variable names in the first row.
-      </p>
-      <p>
-        You can make a plot of data in R using the <code>plot()</code> function, as shown below.
-      </p>
-      <p class='formula'>
-        <pre>
-          &gt; x &lt;- seq(1, 1432)
-          &gt; plot(x, unigram$frequency, xlab="", ylab="Frequency", type="n")
-          &gt; points(x, unigram$frequency, pch=20, col="blue")
-        </pre>
-      </p>
-      <p>
-        The <code>seq()</code> function genrates a sequence of integers so that the frequency
-        of each word will be plotted from most frequent at the left to least frequent at the right. 
-        The <code>type="n"</code> parameter of the <code>plot()</code> function defers plotting of the points 
-        to the next line where the <code>points()</code> function plots the points with symbol 20 and blue color.
-        There are so many words that we cannot show the text for each one but it 
-        is informative to see the general shape of the word frequency distribution.
-        The image generated is shown in Figure 1.
-      </p>
-      <p class='picture'>
-        <img src="images/unigram_frequency.png"/><br/>
-        Figure 1: Word Frequency in the unigram Data Frame
       </p>
       <h3><a name="expectation"></a>Expectation</h2>
       <p>
@@ -412,6 +496,19 @@
         The exponential distribution is a special case of the gamma distribution with α = 1.
         The mean of the exponential distribution is 1/β and the variance is 1/β<sup>2</sup>.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 321)
+        The exponential distribution can be drawn with the R command below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; curve(0.8*exp(-0.8*x), 0, 5, xlab="x", ylab="Probability Density", col="blue")
+        </pre>
+      </p>
+      <p>
+        The generated graph is shown in Figure 3.
+      </p>
+      <p class='picture'>
+        <img src="images/exponential_distribution08.png"/><br/>
+        Figure 3: Exponential Distribution (β = 0.8)
       </p>
       <p>
         The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
@@ -515,10 +612,23 @@
         When the squared error loss function is used the Bayes estimator is the posterior mean value of θ.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 411)
       </p>
+      <p>
+        Another approach to estimating parameters maximizes the probability of observed data.
+        A <strong>likelihood function</strong> f<sub>n</sub>(<strong>x</strong>|θ) is a joint pdf for 
+        continuous random variables or joint pf
+        for discrete random variables with the parameter θ considered part of the joint distribution.
+        A <strong>maximum likelihood estimator</strong> maximizes the value of f<sub>n</sub>(<strong>x</strong>|θ).
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 418)
+        This approach avoids the need to assume a probability distribution for θ. However, the drawback is that
+        is may not always give a good estimate for θ and sometimes it may not exist at all.
+      </p>
       <h3><a name="references"></a>References</h3>
       <ol>
         <li>
           Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. https://github.com/alexamies/buddhist-dictionary.
+        </li>
+        <li>
+          Bird, Steven, Ewan Klein, and Edward Loper. <i>Natural Language Processing with Python</i>. O’Reilly Media, Inc., 2009.
         </li>
         <li>
           DeGroot, Morris H., and Mark J. Schervish. <i>Probability and Statistics</i>. 4 edition. Boston: Pearson, 2011.
