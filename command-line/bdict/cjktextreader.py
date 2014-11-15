@@ -59,7 +59,8 @@ class CJKTextReader:
                 for line in f:
                     lines.append(line)
         else:
-            print('Not sure how to read entry %s.  ' % corpus_entry['source_name'])
+            print('Not sure how to read entry %s with type %s.  ' % 
+                  (corpus_entry['source_name'], corpus_entry['type']))
             raise app_exceptions.BDictException()
 
         found_start = False

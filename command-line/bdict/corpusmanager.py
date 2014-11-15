@@ -18,7 +18,7 @@ class CorpusManager:
     """
 
     def __init__(self):
-        """Constructor for ChineseVocabulary class.
+        """Constructor for CorpusManager class.
         """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
@@ -118,7 +118,11 @@ class CorpusManager:
         return corpus
 
     def LoadCorpusFlattened(self):
-        """Loads the flattened corpus, including collections.
+        """Loads the flattened corpus, including collections, for analysis.
+
+        Used in performing a vocabulary analysis for the whole corpus.
+        This excludes entries that do not have a value for analysis_file
+        and those that are not in Chinese.
 
         Returns:
             A list of corpus entries.
@@ -127,7 +131,7 @@ class CorpusManager:
         corpus = self.LoadCorpus()
         for corp_entry in corpus:
             entry_type = corp_entry['type']
-            if entry_type == 'file':
+            if entry_type == 'file' and 'analysis_file' in corp_entry:
                 source_name = corp_entry['source_name']
                 print('Adding corpus entry %s.' % source_name)
                 corpus_entries.append(corp_entry)
@@ -138,14 +142,19 @@ class CorpusManager:
                 for collection_entry in collection:
                     source_name = collection_entry['source_name']
                     col_entry_type = collection_entry['type']
-                    if col_entry_type == 'file':
+                    lang = collection_entry['language']
+                    if (col_entry_type == 'file' 
+                        and 
+                        'analysis_file' in collection_entry
+                        and
+                        lang == 'Chinese'):
                         print('Adding collection entry %s.' % source_name)
-                        corpus_entries.append(corp_entry)
+                        corpus_entries.append(collection_entry)
                     else:
-                        print('Do not know how to collection entry %s with type %s.' % 
+                        print('Will not add collection entry %s with type %s.' % 
                                (source_name, col_entry_type))
             else:
-                print('Do not know how to add entry %s with type %s.' % 
+                print('Cannot add entry %s with type %s.' % 
                       (source_name, entry_type))
         return corpus_entries
 

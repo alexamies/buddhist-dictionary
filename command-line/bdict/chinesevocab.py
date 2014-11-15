@@ -124,7 +124,13 @@ class ChineseVocabulary:
             self._PrintFrequencyNew(bigrams, outf, phrase_dict, 'N-grams with frequency greater than 2')
             self._PrintPhrases(phrases, outf, 'Matching entries in phrase dataset')
             outf.write('\nThis page was last updated on %s.\n' % date.isoformat(date.today()))
-        return outfile
+        result = {}
+        result['source_name'] = source_name
+        result['word_count'] = wc
+        result['character_count'] = char_count
+        result['unique_words'] = num_known
+        result['outfile'] = outfile
+        return result
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.

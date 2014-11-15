@@ -10,6 +10,7 @@ from bdict import app_exceptions
 from bdict import chinesevocab
 from bdict import configmanager
 from bdict import corpusmanager
+from bdict import corpusstats
 from bdict import glossgenerator
 from bdict import postaggeraccuracy
 from bdict import sanskritglossgenerator
@@ -80,14 +81,14 @@ def main():
         cmanager = corpusmanager.CorpusManager()
         collection_file = GetCollectionFile(sys.argv)
         if len(sys.argv) < 3:
-            print('Scanning the whole corpus')
+            print('Analyzing the whole corpus')
             corpus_entries = cmanager.LoadCorpusFlattened()
             print('Scanning %d corpus files' % len(corpus_entries))
         else:
             corpus = cmanager.LoadCorpus(collection_file)
             corpus_entry = corpus[doc_num-1]
             corpus_entries.append(corp_entry)
-        num_written = 0
+        vocabstats = corpusstats.CorpusStats()
         for corpus_entry in corpus_entries:
             try:
                 language = corpus_entry['language']
@@ -101,13 +102,12 @@ def main():
                     vocab.BuildVocabulary(corpus_entry)
                 elif language == 'Chinese':
                     vocab = chinesevocab.ChineseVocabulary()
-                    outfile = vocab.BuildVocabulary(corpus_entry)
-                    print('Wrote output file %s ' % outfile)
-                num_written += 1
+                    result = vocab.BuildVocabulary(corpus_entry)
+                vocabstats.Add(result)
             except app_exceptions.BDictException:
                 print('Exception analyzing vocabulary for a corpus entry. '
                       'Skipping this entry and continuing')
-        print('Wrote %d output files' % num_written)
+        vocabstats.WriteStats()
     elif command == 'generategloss':
         if len(sys.argv) < 3:
             print('A document number is required for the generategloss command')
