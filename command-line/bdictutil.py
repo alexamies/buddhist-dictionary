@@ -1,6 +1,7 @@
 """Command line to compile a vocabulary from a text file. =====================
 
-The words in the text file will be compared agains the Sanskrit dictionary.
+The words in the text file will be compared against the dictionary and word
+frequencies will be generated. See PrintUsage() for details.
 """
 import locale
 import sys
@@ -70,33 +71,43 @@ tagged documents in the corpus. Usage:
 def main():
     locale.setlocale(locale.LC_ALL, '')
     if len(sys.argv) < 2:
+        print('You must have at one argument following bdictutil.py')
         PrintUsage()
         sys.exit(2)
     command = sys.argv[1]
     if command == 'buildvocab':
-        if len(sys.argv) < 3:
-            print('A document number is required for the buildvocab command')
-            PrintUsage()
-            sys.exit(2)
-        doc_num = int(sys.argv[2])
+        corpus_entries = []
         cmanager = corpusmanager.CorpusManager()
         collection_file = GetCollectionFile(sys.argv)
-        corpus = cmanager.LoadCorpus(collection_file)
-        # print('Corpus lenth is %d' % len(corpus))
-        corpus_entry = corpus[doc_num-1]
-        language = corpus_entry['language']
-        languages = ['Sanskrit', 'Chinese']
-        if language not in languages:
-            print('Language found %s is not supported' % language) 
-            print('Please use one of these languages: %s' % languages) 
-            sys.exit(2)
-        if language == 'Sanskrit':
-            vocab = sanskritvocab.SanskritVocabulary()
-            vocab.BuildVocabulary(corpus_entry)
-        elif language == 'Chinese':
-            vocab = chinesevocab.ChineseVocabulary()
-            outfile = vocab.BuildVocabulary(corpus_entry)
-            print('Wrote output file %s ' % outfile)
+        if len(sys.argv) < 3:
+            print('Scanning the whole corpus')
+            corpus_entries = cmanager.LoadCorpusFlattened()
+            print('Scanning %d corpus files' % len(corpus_entries))
+        else:
+            corpus = cmanager.LoadCorpus(collection_file)
+            corpus_entry = corpus[doc_num-1]
+            corpus_entries.append(corp_entry)
+        num_written = 0
+        for corpus_entry in corpus_entries:
+            try:
+                language = corpus_entry['language']
+                languages = ['Sanskrit', 'Chinese']
+                if language not in languages:
+                    print('Language found %s is not supported' % language) 
+                    print('Please use one of these languages: %s' % languages) 
+                    pass
+                if language == 'Sanskrit':
+                    vocab = sanskritvocab.SanskritVocabulary()
+                    vocab.BuildVocabulary(corpus_entry)
+                elif language == 'Chinese':
+                    vocab = chinesevocab.ChineseVocabulary()
+                    outfile = vocab.BuildVocabulary(corpus_entry)
+                    print('Wrote output file %s ' % outfile)
+                num_written += 1
+            except app_exceptions.BDictException:
+                print('Exception analyzing vocabulary for a corpus entry. '
+                      'Skipping this entry and continuing')
+        print('Wrote %d output files' % num_written)
     elif command == 'generategloss':
         if len(sys.argv) < 3:
             print('A document number is required for the generategloss command')

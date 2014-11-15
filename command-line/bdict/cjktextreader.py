@@ -48,7 +48,7 @@ class CJKTextReader:
             strings = htmldoc.readWebToPlainStrings(doc_url)
             line = ''.join(strings)
             lines.append(line)
-        else:
+        elif 'type' in corpus_entry and corpus_entry['type'] == 'file':
             directory = self.config['corpus_directory']
             infile = corpus_entry['plain_text']
             fullpath = '%s/%s' % (directory, infile)
@@ -58,6 +58,9 @@ class CJKTextReader:
                 # print('Reading input file %s ' % fullpath)
                 for line in f:
                     lines.append(line)
+        else:
+            print('Not sure how to read entry %s.  ' % corpus_entry['source_name'])
+            raise app_exceptions.BDictException()
 
         found_start = False
         start_marker = None

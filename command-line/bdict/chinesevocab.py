@@ -72,7 +72,12 @@ class ChineseVocabulary:
                         new_words[word] = 1
                     else:
                         new_words[word] += 1
-        infile = corpus_entry['plain_text']
+        if 'type' in corpus_entry and corpus_entry['type'] == 'file':
+            infile = corpus_entry['plain_text']
+        else:
+            print('Not sure how to read entry %s.  ' % corpus_entry['source_name'])
+            raise app_exceptions.BDictException()
+
         period_pos = infile.find('.')
         outfile = DEFAULT_OUTFILE
         if 'analysis_file' in corpus_entry:

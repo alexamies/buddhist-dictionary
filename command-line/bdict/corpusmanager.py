@@ -47,6 +47,9 @@ class CorpusManager:
 
         Returns:
             A list of corpus entries.
+
+        Args:
+            corpus_file: name of a file listing corpus entries
         """
         corpus_data_dir = self.config['corpus_data_dir']
         fullpath = '%s/%s' % (corpus_data_dir, corpus_file)
@@ -113,6 +116,38 @@ class CorpusManager:
                         	entry['description'] = tokens[19].strip()
                     corpus.append(entry)
         return corpus
+
+    def LoadCorpusFlattened(self):
+        """Loads the flattened corpus, including collections.
+
+        Returns:
+            A list of corpus entries.
+        """
+        corpus_entries = []
+        corpus = self.LoadCorpus()
+        for corp_entry in corpus:
+            entry_type = corp_entry['type']
+            if entry_type == 'file':
+                source_name = corp_entry['source_name']
+                print('Adding corpus entry %s.' % source_name)
+                corpus_entries.append(corp_entry)
+            elif entry_type == 'collection':
+                collection_name = corp_entry['uri']
+                collection_file = '%s.txt' % collection_name
+                collection = self.LoadCorpus(collection_file)
+                for collection_entry in collection:
+                    source_name = collection_entry['source_name']
+                    col_entry_type = collection_entry['type']
+                    if col_entry_type == 'file':
+                        print('Adding collection entry %s.' % source_name)
+                        corpus_entries.append(corp_entry)
+                    else:
+                        print('Do not know how to collection entry %s with type %s.' % 
+                               (source_name, col_entry_type))
+            else:
+                print('Do not know how to add entry %s with type %s.' % 
+                      (source_name, entry_type))
+        return corpus_entries
 
     def PrintCorpus(self):
         """Prints the corpus data to standard output.
