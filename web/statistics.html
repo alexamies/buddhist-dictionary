@@ -56,6 +56,7 @@
           <li><a href="#expectation">Expectation</a></li>
           <li><a href="#special">Special Distributions</a></li>
           <li><a href="#estimation">Statistical Estimation</a></li>
+          <li><a href="linear">Linear Regression</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
@@ -67,11 +68,17 @@
       <p>
         A <strong>corpus</strong> is a collection of texts, which may be used by linguists for studying the 
         characteristics of language usage. (Bird, <i>Natural Language Processing</i>, 39)
-        The NTI Buddhist Text Reader contains a small part-of-speech tagged corpus of Chinese Buddhist texts.
+        The NTI Buddhist Text Reader contains a corpus of Buddhist and classical Chinese texts.
+        A small subset of the corpus is tagged part-of-speech taggs and gloss distinguishing word sense.
+        The organization of the corpus is described on the page
+        <a href="annotation.html">Text Management, Annotation, and Gloss</a> on this web site.
+        The tagging scheme is described on the page <a href="pos_tags.html">Part-of-Speech Tag Definitions</a>.
         The raw data, including word frequencies, can be found at the 
         <a href="https://github.com/alexamies/buddhist-dictionary">NTI Buddhist Text Reader GitHub Project</a> in the 
-        data/dictionary folder. These are text files with tab delimiters.
-        Examples will be used from the files
+        data/dictionary folder. They are tab delimited text files.
+      </p>
+      <p>
+        Word frequencies from the tagged subset of the corpus can found in the files
         <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>
         and 
         <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/bigram.txt">bigram.txt</a>
@@ -88,7 +95,7 @@
         </pre>
       </p>
       <p>
-        The bigram.txt file lists two-word combination frequencies.
+        The bigram.txt file lists frequencies of two-word combinations.
         The structure of the bigram.txt file is:
       </p>
       <p class='formula'>
@@ -98,6 +105,19 @@
           element_text:    The element text in traditional Chinese
           word_id:         Matching id in the word table (positive integer)
           frequency:       The frequency of occurence of the word sense (positive integer)
+        </pre>
+      </p>
+      <p>
+        A tab delimited plain text list of summary statistcs for the corpus texts is included in the file 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/stats/corpus_stats.txt">corpus_stats.txt</a>. 
+        The structure of the file is 
+      </p>
+      <p class='formula'>
+        <pre>
+          source_name: the title of the text
+          word_count: the number of words in the text
+          character_count: the number of characters in the text
+          unique_words: the number of unique words in the text
         </pre>
       </p>
       <h3><a name="tools"></a>Software Tools</h3>
@@ -788,6 +808,7 @@
         is may not always give a good estimate for θ and sometimes it may not exist at all.
       </p>
       <h3><a name="references"></a>References</h3>
+      <h3><a name="linear"></a>Linear Regression</h3>
       <ol>
         <li>
           Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. 
@@ -814,9 +835,9 @@
         Copyright Nan Tien Institute 2013 - 2014, 
         <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
-      <p>This page was last updated on November 8, 2014.</p>
+      <p>This page was last updated on November 15, 2014.</p>
      </div>
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
   </body>
-</<html>
+</html>
