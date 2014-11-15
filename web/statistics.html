@@ -61,7 +61,7 @@
       </p>
       <p>
         This page gives some incomplete notes on statistical methods in analyzing Chinese text 
-        to solve text analysis, historical linguistcs, and content analysis problems.
+        and analyzing quality of corpus data.
       </p>
       <h3><a name="data"></a>Corpus Data</h3>
       <p>
@@ -349,9 +349,30 @@
         The <strong>quantile function</strong> F<sup>-1</sup>(p) of a random variable X is the inverse of the cdf,
         which is also the smallest value x  with F(x) ≥ p. The variable p is the probability.
         F<sup>-1</sup>(p) is the p quantile of X or 100p percentile.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 112)
+        A <strong>quartile</strong> is found by sorting the data and then dividing it into four equal groups.
+        The <strong>interquartile range</strong> is the middle two quartiles or, in other words, the range 
+        between the 25 and 75th percentiles.
+        Quartile and range information can be found using the R function <code>summary()</code>.
+        The quantile can be found using the R function <code>qt()</code>.
+        The interquartile range can be found using the R function <code>IQR()</code>.
       </p>
       <p>
-        (DeGroot and Morris, <i>Probability and Statistics</i>, 112)
+        <strong>Example</strong>: 
+        Summary data for the word frequency data can be found as follows.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; summary(unigram$frequency)
+          Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+          1.000   1.000   1.000   4.708   3.000 137.000 
+          &gt; length(unigram$frequency)
+          [1] 1432
+        </pre>
+      </p>
+      <p>
+        The <code>length()</code> function gives the number of items in the data set, which shows that there
+        are only 1,432 unique words in the tagged corpus. ▢
       </p>
       <p>
         The <strong>joint probability function</strong> of two random variables X and Y is 
@@ -412,7 +433,7 @@
       </p>
       <p>
         <strong>Example</strong>: 
-        The mean and median values of word frequency in the NTI Reader tagged corpus can be found with the 
+        The values of mean and median for word frequency in the NTI Reader tagged corpus can be found with the 
         R commands below.
       </p>
       <p class='formula'>
@@ -426,7 +447,7 @@
       <p>
         This can give some idea of the adequacy of the size of the tagged corpus.
         A mean frequency of about 4.7 word occurrences and a median of 1 in the tagged corpus makes the tagged corpus
-        seem kind of small. We need to do more analysis to understand what might be really sufficient.
+        seem kind of small. We need to do more analysis to understand what might be really sufficient. ▢
       </p>
       <p>
         The <strong>variance</strong> of a discrete random variable X with mean μ is defined as
@@ -437,6 +458,36 @@
       <p>
         The <strong>standard deviation</strong> is the square root of the variance.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 226)
+        The <strong>sample variance</strong> is the variance of a sample, correcting for the fact that it is 
+        a sample of a larger population.
+        The sample variance is given by the formula
+      </p>
+      <p class='formula'>
+        s<sub>x</sub><sup>2</sup> = Σ(x - x̄)<sup>2</sup>/(n - 1)
+      </p>
+      <p>
+        where x̄ is the sample mean and n - 1 is the degrees of freedom.
+        s<sub>x</sub> is the sample standard deviation.
+        The sample variance can be computed fwith the R function <code>var()</code> and the sample standard
+        deviation with the function <code>sd()</code>.
+        (Knell, <i>Introductory R</i>, 142)
+      </p>
+      <p>
+        <strong>Example</strong>: 
+        The variance and standard deviation of word frequency in the NTI Reader tagged corpus can be found with the 
+        R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; v &lt;- var(unigram$frequency)
+          &gt; v
+          [1] 140.1174
+          &gt; sqrt(v)
+         [1] 11.83712
+        </pre>
+      </p>
+      <p>
+        The variance is about 140.1 and the standard deviation about 11.8. ▢
       </p>
       <p>
         The <strong>covariance</strong> of random variables X and Y with means μ<sub>x</sub> and μ<sub>y</sub> 
@@ -448,6 +499,16 @@
       <p>
         assuming that the expectation exists.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 248)
+        The <strong>sample covariance</strong> corrects for sampling from a larger population. 
+        It is given by the formula:
+      </p>
+      <p class='formula'>
+        Cov<sub>x, y</sub> = Σ(x - x̄)(y - ȳ)/(n - 1)
+      </p>
+      <p>
+        where x̄ and ȳ are the sample means and n - 1 is the degrees of freedom.
+        (Knell, <i>Introductory R</i>, 211)
+        The sample covariance can be computed using the R function <code>cov()</code>.
       </p>
       <p>
         The <strong>correlation</strong> of random variables X and Y with variances σ<sub>x</sub><sup>2</sup> and 
@@ -458,6 +519,15 @@
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 250)
+        The correlation for a sample can be computed from the formula
+      </p>
+      <p class='formula'>
+        r = Σ(x - x̄)(y - ȳ)/[(n - 1)(s<sub>x</sub> s<sub>y</sub>)]
+      </p>
+      <p>
+        where s<sub>x</sub> and s<sub>y</sub> are the sample standard deviations.
+        (Knell, <i>Introductory R</i>, 212)
+        The sample correlation can be computed using the R function <code>cor()</code>.
       </p>
       <h3><a name="special"></a>Special Distributions</h2>
       <p>
@@ -490,6 +560,25 @@
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 277)
+        The R function to compute the binomial probability is <code>dbinom()</code>.
+        The commands to plot a binomial distribution with parameters n = 20 and p = 0.5 are shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+         &gt; x &lt;- seq(1, 20)
+         &gt; png(filename="binomial05.png", width = 400, height = 400)
+         &gt; plot(x, dbinom(x, 20, 0.5), xlab="x", ylab="Frequency", pch=17, col="blue")
+         &gt; dev.off()
+        </pre>
+      </p>
+      <p>
+        The <code>plot()</code> function takes a sequence of integers <code>x</code> from 1 to 20
+        and plots the binomial probability for each value.
+        The graph generated is shown in Figure 3.
+      </p>
+      <p class='picture'>
+        <img src="images/binomial05.png"/><br/>
+        Figure 3: Binomial Distribution with Parameters n = 20 and p = 0.5
       </p>
       <p>
         The <strong>Poisson distribution</strong> for random variable X with mean λ is defined as
@@ -513,11 +602,11 @@
         </pre>
       </p>
       <p>
-        The graph generated is shown in Figure 3.
+        The graph generated is shown in Figure 4.
       </p>
       <p class='picture'>
         <img src="images/poisson_lambda3.png"/><br/>
-        Figure 3: Poisson Distribution
+        Figure 4: Poisson Distribution with λ = 3.0
       </p>
       <p>
         The <strong>normal distribution</strong> for the continuous random variable X with mean μ and 
@@ -535,11 +624,11 @@
         </pre>
       </p>
       <p>
-        The graph generated is shown in Figure 4.
+        The graph generated is shown in Figure 5.
       </p>
       <p class='picture'>
         <img src="images/standard_normal.png"/><br/>
-        Figure 4: Standard Normal Distribution
+        Figure 5: Standard Normal Distribution
       </p>
       <p>
         The normal distribution is a good approximation for variables in many random processes.
@@ -580,11 +669,11 @@
         </pre>
       </p>
       <p>
-        The generated graph is shown in Figure 5.
+        The generated graph is shown in Figure 6.
       </p>
       <p class='picture'>
         <img src="images/exponential_distribution08.png"/><br/>
-        Figure 5: Exponential Distribution (β = 0.8)
+        Figure 6: Exponential Distribution (β = 0.8)
       </p>
       <p>
         The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
@@ -701,7 +790,8 @@
       <h3><a name="references"></a>References</h3>
       <ol>
         <li>
-          Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. https://github.com/alexamies/buddhist-dictionary.
+          Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. 
+          <a href="https://github.com/alexamies/buddhist-dictionary">https://github.com/alexamies/buddhist-dictionary</a>.
         </li>
         <li>
           Bird, Steven, Ewan Klein, and Edward Loper. <i>Natural Language Processing with Python</i>. O’Reilly Media, Inc., 2009.
