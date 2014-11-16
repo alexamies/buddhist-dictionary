@@ -28,7 +28,7 @@ class GlossGenerator:
     """Generates a document annotated with English gloss and other information.
    """
 
-    def __init__(self, output_type=HTML_TYPE, wholetext=False):
+    def __init__(self, output_type=HTML_TYPE, wholetext=False, charset='Traditional'):
         """Constructor for GlossGenerator class.
 
         Args:
@@ -37,12 +37,14 @@ class GlossGenerator:
           wholetext: Whether to format the whole source text or only extract 
                      the Chinese characters between the start and end tags
                      (default)
+          charset: The character set that the source document is written
+                   in, either 'Traditional' (default) or 'Simplified'
         """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
         self.output_type = output_type
         self.wholetext = wholetext
-        self.tagger = postagger.POSTagger()
+        self.tagger = postagger.POSTagger(charset=charset)
 
     def GenerateDoc(self, corpus_entry):
         """Generates output text for the glossed version of the Chinese document.
@@ -82,7 +84,7 @@ class GlossGenerator:
         else:
             text = reader.ReadText(corpus_entry)
         dictionary = cedict.ChineseEnglishDict()
-        wdict = dictionary.OpenDictionary() # Word dictionary
+        wdict = dictionary.OpenDictionary(corpus_entry['charset']) # Word dictionary
         dataset = phrasematcher.PhraseDataset()
         pdict = dataset.Load()
         combined_dict = dict(wdict.items() + pdict.items())
@@ -220,9 +222,13 @@ class GlossGenerator:
         """
         # print('_Word element_text = %s' % element_text)
         if self.output_type == POS_TAGGED_TYPE:
-            return self.tagger.TagWord(entry['traditional']) + '\n'
-        entry = self.tagger.MostFrequentWord(entry['traditional'], previous)
+            return self.tagger.TagWord(element_text) + '\n'
+        most_freq_entry = self.tagger.MostFrequentWord(entry['traditional'], previous)
+        if most_freq_entry != None:
+            entry = most_freq_entry
         gloss = cedict.GetGloss(entry)
+        if not 'id' in entry:
+            return element_text
         entry_id = entry['id']
         # print('_Word entry_id = %s' % entry_id)
         url = '/buddhistdict/word_detail.php?id=%s' % entry_id

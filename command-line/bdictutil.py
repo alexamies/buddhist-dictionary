@@ -86,8 +86,9 @@ def main():
             print('Scanning %d corpus files' % len(corpus_entries))
         else:
             corpus = cmanager.LoadCorpus(collection_file)
+            doc_num = int(sys.argv[2])
             corpus_entry = corpus[doc_num-1]
-            corpus_entries.append(corp_entry)
+            corpus_entries.append(corpus_entry)
         vocabstats = corpusstats.CorpusStats()
         for corpus_entry in corpus_entries:
             try:
@@ -131,7 +132,8 @@ def main():
         if language == 'Sanskrit':
             generator = sanskritglossgenerator.GlossGenerator()
         elif language == 'Chinese':
-            generator = glossgenerator.GlossGenerator(wholetext=wholetext)
+            generator = glossgenerator.GlossGenerator(wholetext=wholetext, 
+                                                      charset=corpus_entry['charset'])
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
     elif command == 'generatejson':

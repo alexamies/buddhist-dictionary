@@ -36,8 +36,8 @@ class CorpusStats:
                       result['outfile'])
             return
         with codecs.open(STATS_FILE, 'w', "utf-8") as outf:
-            outf.write('source_name\tword_count\tcharacter_count\t'
-                       'unique_words\n')
+            outf.write('source.name\tword.count\tcharacter.count\t'
+                       'unique.words\n')
             for result in self._results:
                 outf.write('%s\t%s\t%s\t%s\n' % (result['source_name'], 
                            result['word_count'], result['character_count'],

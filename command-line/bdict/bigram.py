@@ -20,11 +20,15 @@ class BigramTagger:
     The frequency of pairs of words are collected and written to a file.
     """
 
-    def __init__(self):
+    def __init__(self, charset='Traditional'):
         """Constructor for BigramTagger
+
+        Args:
+          charset: The character set that the source document is written
+                   in, either 'Traditional' (default) or 'Simplified'
         """
         dictionary = cedict.ChineseEnglishDict()
-        self.wdict = dictionary.OpenDictionary() # Word dictionary
+        self.wdict = dictionary.OpenDictionary(charset=charset) # Word dictionary
         self.wfreq = self.LoadFreqTable() # bigram word sense frequencies
         self.wcount = 0
 
@@ -100,8 +104,10 @@ class BigramTagger:
           traditional: traditional Chinese text for the word
 
         Returns:
-          A dictionary word entry
+          A dictionary word entry or None
         """
+        if traditional not in self.wdict:
+            return None
         word_entry = self.wdict[traditional]
         key = previous, traditional
         if (key in self.wfreq):

@@ -17,11 +17,15 @@ class TaggedDocumentAnalyzer:
     and written to a file.
     """
 
-    def __init__(self):
+    def __init__(self, charset='Traditional'):
         """Constructor for TaggedDocumentAnalyzer
+
+        Args:
+          charset: The character set that the source document is written
+                   in, either 'Traditional' (default) or 'Simplified'
         """
-        self.unigram_tagger = unigram.UnigramTagger()
-        self.bigram_tagger = bigram.BigramTagger()
+        self.unigram_tagger = unigram.UnigramTagger(charset=charset)
+        self.bigram_tagger = bigram.BigramTagger(charset=charset)
 
     def WordSenseForCorpus(self):
         """Finds the word sense frequency for the entire tagged corpus.

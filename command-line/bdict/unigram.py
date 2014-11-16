@@ -22,11 +22,15 @@ class UnigramTagger:
     and written to a file.
     """
 
-    def __init__(self):
+    def __init__(self, charset='Traditional'):
         """Constructor for UnigramTagger
+
+        Args:
+          charset: The character set that the source document is written
+                   in, either 'Traditional' or 'Simplified'
         """
         dictionary = cedict.ChineseEnglishDict()
-        self.wdict = dictionary.OpenDictionary() # Word dictionary
+        self.wdict = dictionary.OpenDictionary(charset=charset) # Word dictionary
         self.wfreq = self.LoadFreqTable() # unigram word sense frequencies
         self.wcount = 0
 
@@ -97,8 +101,10 @@ class UnigramTagger:
           traditional: traditional Chinese text for the word
 
         Returns:
-          A dictionary word entry
+          A dictionary word entry or None
         """
+        if traditional not in self.wdict:
+            return None
         word_entry = self.wdict[traditional]
         if (traditional in self.wfreq):
             # Most frequently occuring is at the head of the list

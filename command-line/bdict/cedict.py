@@ -13,9 +13,14 @@ class ChineseEnglishDict:
 
     """
 
-    def OpenDictionary(self):
+    def OpenDictionary(self, charset='Traditional'):
         """Reads the dictionary into memory
+
+        Args:
+          charset: The character set that the source document is written
+                   in, either 'Traditional' (default) or 'Simplified'
         """
+        print('ChineseEnglishDict: charset is %s' % charset)
         wdict = {}
         with codecs.open(DICT_FILE_NAME, 'r', "utf-8") as f:
             for line in f:
@@ -32,14 +37,17 @@ class ChineseEnglishDict:
                     entry['english'] = fields[4]
                     entry['grammar'] = fields[5]
                     traditional = entry['traditional']
+                    key = entry['simplified']
+                    if traditional != '\\N' and charset == 'Traditional':
+                        key = traditional
                     if traditional == '\\N':
                         traditional = entry['simplified']
-                        entry['traditional'] = traditional
-                    if traditional not in wdict:
+                        entry[key] = traditional
+                    if key not in wdict:
                         entry['other_entries'] = []
-                        wdict[traditional] = entry
+                        wdict[key] = entry
                     else:
-                        wdict[traditional]['other_entries'].append(entry)
+                        wdict[key]['other_entries'].append(entry)
         return wdict
 
 
@@ -137,5 +145,8 @@ def GetGloss(word_entry):
     Returns:
       The gloss as a Unicode string.
     """
-    return '%s | %s' % (word_entry['pinyin'], GetEnglishGloss(word_entry))
+    pinyin = ''
+    if 'pinyin' in word_entry:
+        pinyin = word_entry['pinyin']
+    return '%s | %s' % (pinyin, GetEnglishGloss(word_entry))
 

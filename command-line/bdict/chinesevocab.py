@@ -43,7 +43,8 @@ class ChineseVocabulary:
           BDictException: If the input file does not exist
         """
         dictionary = cedict.ChineseEnglishDict()
-        wdict = dictionary.OpenDictionary() # Word dictionary
+         # Word dictionary
+        wdict = dictionary.OpenDictionary(charset=corpus_entry['charset'])
 
         wc = 0
         known_words = {}
@@ -75,8 +76,7 @@ class ChineseVocabulary:
         if 'type' in corpus_entry and corpus_entry['type'] == 'file':
             infile = corpus_entry['plain_text']
         else:
-            print('Not sure how to read entry %s.  ' % corpus_entry['source_name'])
-            raise app_exceptions.BDictException()
+            infile = ''
 
         period_pos = infile.find('.')
         outfile = DEFAULT_OUTFILE
