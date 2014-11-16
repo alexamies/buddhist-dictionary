@@ -135,8 +135,10 @@
         Programming in R</i>)
       </p>
       <p>
-        R is a generic statistics platform. In addition, there are a number of packages for R specifically for
-        text analysis. These can be found in the web page 
+        R is a generic statistics platform. It is very handy for working through statistics problems in textbooks
+        and trying stuff out rather than using a piece of paper and calculator or a spreadsheet.
+        In addition, there are a number of packages for R specifically for text analysis. 
+        These can be found in the web page 
         <a href="http://cran.r-project.org/web/packages/available_packages_by_name.html">Available CRAN Packages By Name</a>.
         Some examples are: 
         <a href="http://cran.r-project.org/web/packages/koRpus/index.html">koRpus: An R Package for Text Analysis</a>,
@@ -153,10 +155,10 @@
         <pre>
           $ R
           . . .
-          &gt; names &lt;- c("pos_tagged_text", "element_text", "word_id", "frequency")
+          &gt; names &lt;- c("pos.tagged.text", "element.text", "word.id", "frequency")
           &gt; unigram &lt;- read.table("unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names, numerals ="allow.loss")
           &gt; head(unigram)
-                       pos_tagged_text element_text word_id frequency
+                       pos.tagged.text element.text word.id frequency
           1 須菩提/NR[xūpútí | Subhuti]        須菩提    6645       137
           2           是/PN[shì | this]           是   17908       136
           3             不/AD[bù | not]           不     502       130
@@ -185,10 +187,10 @@
       </p>
       <p class='formula'>
         <pre>
-          &gt; binames &lt;- c("pos_tagged_text", "previous_text", "element_text", "word_id", "frequency")
+          &gt; binames &lt;- c("pos.tagged.text", "previous.text", "element.text", "word.id", "frequency")
           &gt; bigram &lt;- read.table("bigram.txt", header=FALSE, sep="\t", quote="\"", col.names=binames, numerals ="allow.loss")
           &gt; head(bigram)
-                 pos_tagged_text previous_text element_text word_id frequency
+                 pos.tagged.text previous.text element.text word.id frequency
           1   故/NN[gù | purpose]            以           故    7115        38
           2    以/P[yǐ | because]            何           以   30648        38
           3 云何/DT[yúnhé | what]            意         云何   29319        32
@@ -203,9 +205,8 @@
       </p>
       <p class='formula'>
         <pre>
-          &gt; x &lt;- seq(1, 1432)
-          &gt; plot(x, unigram$frequency, xlab="", ylab="Frequency", type="n")
-          &gt; points(x, unigram$frequency, pch=20, col="blue")
+          &gt; x &lt;- seq(1, length(unigram$frequency))
+          &gt; plot(x, unigram$frequency, xlab="", ylab="Frequency", pch=20, col="blue")
         </pre>
       </p>
       <p>
@@ -220,6 +221,15 @@
       <p class='picture'>
         <img src="images/unigram_frequency.png"/><br/>
         Figure 1: Word Frequency in the unigram Data Frame
+      </p>
+      <p>
+        To generate an image file for that plot and the others in this page, pull the project from GitHub, 
+        change to the top level directory in the project and type the command 
+      </p>
+      <p class='formula'>
+        <pre>
+          $ Rscript r/generate_images.R
+        </pre>
       </p>
       <p>
         This is a useful diagram because it shows the breadth and depth of the corpus at a glance. The corpus
@@ -241,11 +251,9 @@
         <pre>
           &gt; freq &lt;- as.vector(as.matrix(unigram[4])[1:8, 1])
           &gt; freq.labels &lt;- as.vector(as.matrix(unigram[2])[1:8, 1])
-          &gt; png(filename="ungram_barplot.png", width = 480, height = 480)
           &gt; showtext.begin()
           &gt; barplot(freq, names.arg=freq.labels, ylab="Frequency", col="steelblue")
           &gt; showtext.end()
-          &gt; dev.off()
         </pre>
       </p>
       <p>
@@ -274,9 +282,9 @@
       </p>
       <p class='formula'>
         <pre>
-          &gt; fa &lt;- subset(unigram, element_text=="法")
+          &gt; fa &lt;- subset(unigram, element.text=="法")
           &gt; fa
-          pos_tagged_text                 element_text word_id frequency
+                          pos.tagged.text element.text word.id frequency
           10          法/NN[fǎ | a dhárma]           法   17994        74
           1253          法/NR[Fǎ | Dhárma]           法    3509         1
           1376 法/NN[fǎ | a mental object]           法   32204         1
@@ -317,8 +325,8 @@
       </p>
       <p class='formula'>
         <pre>
-          &gt; subset(subset(bigram, element_text=="法"), previous_text=="說")
-                 pos_tagged_text previous_text element_text word_id frequency
+          &gt; subset(subset(bigram, element.text=="法"), previous.text=="說")
+                 pos.tagged.text previous.text element.text word.id frequency
           34 法/NN[fǎ | a dhárma]            說           法   17994         9
         </pre>
       </p>
@@ -549,6 +557,47 @@
         (Knell, <i>Introductory R</i>, 212)
         The sample correlation can be computed using the R function <code>cor()</code>.
       </p>
+     <p>
+        <strong>Example</strong>: Let's find the correlation between text size
+        and the number of unique words in different texts in the corpus.
+        We can load the file corpus_stats.txt, containing the summary statistics of the corpus texts, 
+        print out the first row of data, print a summary of the distribution of unique words,
+        find the correlation, and draw a plot with these R commands.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; corpusstats &lt;- read.table("../stats/corpus_stats.txt", sep="\t", quote="\"", numerals ="allow.loss", header=TRUE)
+          &gt; corpusstats[1,]
+                             source.name word.count character.count unique.words
+          1 Diamond Sūtra 金剛般若波羅蜜經       3407            5307          534
+          &gt; summary(corpusstats$unique.words)
+          Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+          15.0   122.2   580.5   962.2  1661.0  5145.0 
+          &gt; cor(corpusstats$word.count, corpusstats$unique.words)
+          [1] 0.7266394
+          &gt; plot(corpusstats$word.count, corpusstats$unique.words, xlab="Word Count", ylab="Unique Words", pch=17, col="blue")
+        </pre>
+      </p>
+      <p>
+        This particular file does have column headers in the first row that are automatically used by R 
+        as column names in the data frame.
+        The image generated is shown in Figure 3.
+      </p>
+      <p class='picture'>
+        <img src="images/unique_words.png"/><br/>
+        Figure 3: Variation of Unique Words with Text Size
+      </p>
+      <p>
+        From the correlation value there r = 0.727 there is clearly a correlation between text length and number of 
+        unique words. However, from Figure 3 we can see that it is consistent but not linear. 
+        The number of unique words eventually
+        begins to flatten out with really long texts. Since the set of words in a text may include proper nouns, 
+        such as person and place names, the number of unique words is practically unlimited.
+        It is useful to complate the summary of unique words with the unigram data for the tagged corpus.
+        The third quartile value is 1661, which is greater than the total number of unique words in the 
+        tagged corpus. So, there are at least 25% of the texts in the corpus that have more unique words than 
+        we have word frequency data for. Clearly, we are short of coverage on word frequency.
+      </p>
       <h3><a name="special"></a>Special Distributions</h2>
       <p>
         The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
@@ -586,19 +635,17 @@
       <p class='formula'>
         <pre>
          &gt; x &lt;- seq(1, 20)
-         &gt; png(filename="binomial05.png", width = 400, height = 400)
          &gt; plot(x, dbinom(x, 20, 0.5), xlab="x", ylab="Frequency", pch=17, col="blue")
-         &gt; dev.off()
         </pre>
       </p>
       <p>
         The <code>plot()</code> function takes a sequence of integers <code>x</code> from 1 to 20
         and plots the binomial probability for each value.
-        The graph generated is shown in Figure 3.
+        The graph generated is shown in Figure 4.
       </p>
       <p class='picture'>
         <img src="images/binomial05.png"/><br/>
-        Figure 3: Binomial Distribution with Parameters n = 20 and p = 0.5
+        Figure 4: Binomial Distribution with Parameters n = 20 and p = 0.5
       </p>
       <p>
         The <strong>Poisson distribution</strong> for random variable X with mean λ is defined as
@@ -616,17 +663,15 @@
       <p class='formula'>
         <pre>
          &gt; x &lt;- seq(1, 10)
-         &gt; png(filename="poisson_lambda3.png", width = 400, height = 400)
          &gt; plot(x, dpois(x, 3.0), xlab="x", ylab="Frequency", pch=17, col="blue")
-         &gt; dev.off()
         </pre>
       </p>
       <p>
-        The graph generated is shown in Figure 4.
+        The graph generated is shown in Figure 5.
       </p>
       <p class='picture'>
         <img src="images/poisson_lambda3.png"/><br/>
-        Figure 4: Poisson Distribution with λ = 3.0
+        Figure 5: Poisson Distribution with λ = 3.0
       </p>
       <p>
         The <strong>normal distribution</strong> for the continuous random variable X with mean μ and 
@@ -644,11 +689,11 @@
         </pre>
       </p>
       <p>
-        The graph generated is shown in Figure 5.
+        The graph generated is shown in Figure 6.
       </p>
       <p class='picture'>
         <img src="images/standard_normal.png"/><br/>
-        Figure 5: Standard Normal Distribution
+        Figure 6: Standard Normal Distribution
       </p>
       <p>
         The normal distribution is a good approximation for variables in many random processes.
@@ -689,11 +734,11 @@
         </pre>
       </p>
       <p>
-        The generated graph is shown in Figure 6.
+        The generated graph is shown in Figure 7.
       </p>
       <p class='picture'>
         <img src="images/exponential_distribution08.png"/><br/>
-        Figure 6: Exponential Distribution (β = 0.8)
+        Figure 7: Exponential Distribution (β = 0.8)
       </p>
       <p>
         The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
@@ -732,7 +777,7 @@
         The multinomial distribution is appropriate for distributions into sets that are not necessarily numbers,
         for example, the frequencies of words of different part of speech values.
       </p>
-      <h3><a name="estimation"></a>Statistical Estimation</h3>
+       <h3><a name="estimation"></a>Statistical Estimation</h3>
       <p>
         A <strong>statistical model</strong> is a collection of random variables, identification of probability
         distributions for the variables, and the set of parameters that the distributions require values for.
@@ -807,8 +852,40 @@
         This approach avoids the need to assume a probability distribution for θ. However, the drawback is that
         is may not always give a good estimate for θ and sometimes it may not exist at all.
       </p>
-      <h3><a name="references"></a>References</h3>
       <h3><a name="linear"></a>Linear Regression</h3>
+      <p>
+        <strong>Linear regression</strong> is a method finding a statistical best fit for a line against a set of data.
+        (Knell, <i>Introductory R</i>, 224)
+      </p>
+     <p>
+        <strong>Example</strong>: We saw above that there was a correlation between text size
+        and the number of unique words in different texts in the corpus.
+        However, it was not linear. It turns out that we can get a more linear relation in log space.
+        The following R commands do a linear regression analysis on the log of the log of the 
+        word count versus the log of the count of unique words and plot the line of best
+        fit on the graph with the data points.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- log(corpusstats$word.count)
+          &gt; y &lt;- log(corpusstats$unique.words)
+          &gt; unique.lm &lt;- lm(y ~ x)
+          &gt; plot(x, y, xlab="Log Word Count", ylab="Log Unique Words", pch=17, col="blue")
+          &gt; abline(unique.lm)
+        </pre>
+      </p>
+      <p>
+        The R function <code>lm(y ~ x)</code> performs a linear regression of <code>y</code>
+        as a function of <code>x</code>.
+        The function <code>abline()</code> takes the output of the linear regression and adds
+        it to the plot.
+        The graph generated is shown in Figure 8.
+      </p>
+      <p class='picture'>
+        <img src="images/log_unique_words.png"/><br/>
+        Figure 8: Linear Regression of Log Count of Unique Words versus Log of Text Length
+      </p>
+      <h3><a name="references"></a>References</h3>
       <ol>
         <li>
           Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. 
