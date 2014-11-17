@@ -49,7 +49,7 @@ type: 'file' for local files, 'web' for web documents, or 'collection' for
 language: Human language that the document was written in.
 
 charset: iast - International Alphabet for Sanskrit Transcription, 
-  traditional - traditional Chinese
+         traditional - traditional Chinese
 
 doc_type: Raw text in the historic language, translated into a modern language, 
           or a commentary.
