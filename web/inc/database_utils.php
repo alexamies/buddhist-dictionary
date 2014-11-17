@@ -20,7 +20,10 @@ class DatabaseUtils {
      */
     function getConnection() {
         if (!isset($this->connection)) {
-        $this->connection = mysql_connect('localhost', 'root', 'admin!')
+        $db_host = getenv('DB_HOST')? getenv('DB_HOST') : 'localhost';
+        $db_user = getenv('DB_USER')? getenv('DB_USER') : 'root';
+        $db_pass = getenv('DB_PASSWORD')? getenv('DB_PASSWORD') : 'admin!';   
+        $this->connection = mysql_connect($db_host, $db_user, $db_pass)
             or die('Page unavailable'); // Use in production
             // or die('Could not connect: ' . mysql_error()); 
 
