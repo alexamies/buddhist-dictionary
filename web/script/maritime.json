@@ -26,5 +26,7 @@
 ,
 {"doc_type": "History","source_name": "The Yongji Canal 永济渠","description": "Baidu article in modern Chinese","language": "Chinese","start": "永济渠是","charset": "Simplified","plain_text": "http://baike.baidu.com/view/244144.htm","uri": "corpus_entry.php?uri=yongjiqu.md","period": "Modern","translator": "Baidu","source": "Baidu Baike","genre": "History","end": "词条标签","type": "web","id": "14","analysis_file": "yongjiqu-analysis.md"}
 ,
-{"doc_type": "History","source_name": "The Tongji Canal 通济渠","description": "Baidu article in modern Chinese","language": "Chinese","start": "通济渠又称汴河","charset": "Simplified","plain_text": "http://baike.baidu.com/view/2807541.htm","uri": "corpus_entry.php?uri=tongjiqu.md","period": "Modern","translator": "Baidu","source": "Baidu Baike","genre": "History","end": "词条标签","type": "web","id": "14","analysis_file": "tongjiqu-analysis.md"}
+{"doc_type": "History","source_name": "The Tongji Canal 通济渠","description": "Baidu article in modern Chinese","language": "Chinese","start": "通济渠又称汴河","charset": "Simplified","plain_text": "http://baike.baidu.com/view/2807541.htm","uri": "corpus_entry.php?uri=tongjiqu.md","period": "Modern","translator": "Baidu","source": "Baidu Baike","genre": "History","end": "词条标签","type": "web","id": "15","analysis_file": "tongjiqu-analysis.md"}
+,
+{"doc_type": "History","source_name": "Jingdezhen 景德镇","description": "Baidu article in modern Chinese","language": "Chinese","start": "景德镇，别名“瓷都”","charset": "Simplified","plain_text": "http://baike.baidu.com/subview/9893/5268303.htm","uri": "corpus_entry.php?uri=jingdezhen.md","period": "Modern","translator": "Baidu","source": "Baidu Baike","genre": "History","end": "词条标签","type": "web","id": "16","analysis_file": "jingdezhen-analysis.md"}
 ]
