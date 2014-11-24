@@ -56,7 +56,8 @@
           <li><a href="#expectation">Expectation</a></li>
           <li><a href="#special">Special Distributions</a></li>
           <li><a href="#estimation">Statistical Estimation</a></li>
-          <li><a href="linear">Linear Regression</a></li>
+          <li><a href="#sampling">Sampling</a></li>
+          <li><a href="#linear">Linear Regression</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
@@ -130,9 +131,12 @@
         The R Project for Statistical Computing (<a href="http://www.r-project.org/">http://www.r-project.org</a>),
         or simply R, is an open source project, language, and platform.
         You can freely download and install R for Linux, Mac, and Windows from links in the project web site.
-        The R project web site has links to introductory materials but I used the book by Knell in preparing this
-        content. (Knell,  <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and 
-        Programming in R</i>)
+        The R project web site has links to introductory materials. 
+        I referred to the books by Knell 
+        (Knell,  <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and 
+        Programming in R</i>) and Yau
+        (Yau, <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>)
+        in preparing the commands and scripts presented here.
       </p>
       <p>
         R is a generic statistics platform. It is very handy for working through statistics problems in textbooks
@@ -355,7 +359,7 @@
         The <strong>probability function</strong> of a discrete random variable X is the function
       </p>
       <p class='formula'>
-        f(x) = Pr(X = x)
+        ƒ(x) = Pr(X = x)
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 96)
@@ -406,7 +410,7 @@
         The <strong>joint probability function</strong> of two random variables X and Y is 
       </p>
       <p class='formula'>
-        f(x, y) = Pr(X = x and Y = y)
+        ƒ(x, y) = Pr(X = x and Y = y)
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 119)
@@ -416,7 +420,7 @@
         summed over all possible values of y. In symbols,
       </p>
       <p class='formula'>
-        f<sub>1</sub>(x) = Σ<sub>All y</sub> f(x, y)
+        ƒ<sub>1</sub>(x) = Σ<sub>All y</sub> ƒ(x, y)
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 131)
@@ -449,7 +453,7 @@
         The expectation of a discrete random variable X with probability function f is defined as 
       </p>
       <p class='formula'>
-        E(X) = Σ<sub>All x</sub> x f(x)
+        E(X) = Σ<sub>All x</sub> x ƒ(x)
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 208)
@@ -615,7 +619,7 @@
         is defined as 
       </p>
       <p class='formula'>
-         f(x|n,p) = (n ¦ x) p<sup>x</sup>(1 - p)<sup>n-x</sup> for x = 0, 1, 2, ... and 0 otherwise
+         ƒ(x|n,p) = (n ¦ x) p<sup>x</sup>(1 - p)<sup>n-x</sup> for x = 0, 1, 2, ... and 0 otherwise
       </p>
       <p>
         where (n ¦ x) is the binomial coefficient n!/[x!(n - x)].
@@ -651,7 +655,7 @@
         The <strong>Poisson distribution</strong> for random variable X with mean λ is defined as
       </p>
       <p class='formula'>
-         f(x|λ) = e<sup>-λ</sup> λ<sup>x</sup>/x! for x = 0, 1, 2, ... and 0 otherwise.
+         ƒ(x|λ) = e<sup>-λ</sup> λ<sup>x</sup>/x! for x = 0, 1, 2, ... and 0 otherwise.
       </p>
       <p>
         The variance of the Poisson distribution is also λ.
@@ -678,14 +682,21 @@
         standard deviation σ is defined as
       </p>
       <p class='formula'>
-         f(x|μ, σ) = [1/σ√(2π)] exp[-0.5((x - μ)/σ)<sup>2</sup>] for -∞ &lt; x &lt; ∞
+         ƒ(x|μ, σ) = [1/σ√(2π)] exp[-0.5((x - μ)/σ)<sup>2</sup>] for -∞ &lt; x &lt; ∞
       </p>
       <p>
-        The standard normal distribution has mean μ = 0 and standard deviation σ = 1.
-        It can be plotted using the <code>curve()</code> function in R, as shown below.
+        The <strong>standard normal distribution</strong> has mean μ = 0 and standard deviation σ = 1.
+        It is given by the equation
+      </p>
+      <p class='formula'>
+         ƒ(z|μ, σ) = [1/√(2π)] exp[-0.5((z)/σ)<sup>2</sup>] for -∞ &lt; z &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 307)
+        The standard normal distribution can be plotted using the <code>curve()</code> function in R, as shown below.
       <p class='formula'>
         <pre>
-          &gt; curve(exp(-x^2)/(2*sqrt(pi)), -3, 3, xlab="z", ylab="Probability Density")
+          &gt; curve(dnorm(x), -3, 3, xlab="z", ylab="Probability Density", col="blue")
         </pre>
       </p>
       <p>
@@ -694,6 +705,39 @@
       <p class='picture'>
         <img src="images/standard_normal.png"/><br/>
         Figure 6: Standard Normal Distribution
+      </p>
+      <p>
+        A random variable X with mean μ and standard deviation σ can be transformed with to 
+        the standard normal distribution with the equation
+      </p>
+      <p class='formula'>
+         z = (x - μ)/σ
+      </p>
+      <p>
+        The cummulative distribution F(x) and inverse commulative distributions F<sup>-1</sup>(x) of the 
+        normal distrubutions can be computed in R with the functions <code>pnorm(q, mean = 0, sd = 1</code>
+        and <code>qnorm(p, mean = 0, sd = 1</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: Following Example 5.6.4 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 308)
+        the probability of a random variable with mean 5 and standard deviation
+        2 being greater than 1 and less than 8 is
+      </p>
+      <p class='formula'>
+         Pr(1 &lt; X &lt; 8) = Pr(X &lt; 8) - Pr(X &lt; 1)
+      </p>
+      <p>
+        This can be computed with R command
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; pnorm(8, mean = 5, sd = 2) - pnorm(1, mean = 5, sd = 2)
+          [1] 0.9104427
+        </pre>
+      </p>
+      <p>
+        So the probability that X is greater than 1 and less than 8 is 0.91. ▢
       </p>
       <p>
         The normal distribution is a good approximation for variables in many random processes.
@@ -709,7 +753,7 @@
         α and β is 
       </p>
       <p class='formula'>
-         f(x|α, β) = [β<sup>α</sup> / Γ(α)] x<sup>α-1</sup> e<sup>-βx</sup> for x &gt; 0 or 0 otherwise
+         ƒ(x|α, β) = [β<sup>α</sup> / Γ(α)] x<sup>α-1</sup> e<sup>-βx</sup> for x &gt; 0 or 0 otherwise
       </p>
       <p>
         where Γ(α) is the gamma function. 
@@ -720,7 +764,7 @@
         The <strong>exponential distribution</strong> for the continuous random variable X with parameter β is
       </p>
       <p class='formula'>
-         f(x|β) = βe<sup>-βx</sup> for x &gt; 0 or 0 otherwise
+         ƒ(x|β) = βe<sup>-βx</sup> for x &gt; 0 or 0 otherwise
       </p>
       <p>
         The exponential distribution is a special case of the gamma distribution with α = 1.
@@ -744,7 +788,7 @@
         The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
       </p>
       <p class='formula'>
-         f(x|α, β) = [Γ<sup>β+α</sup> / (Γ(α) Γ(β))] x<sup>α-1</sup> (1 - x)<sup>β-1</sup> for 0 &lt; x &lt; 1 or 0 otherwise
+         ƒ(x|α, β) = [Γ<sup>β+α</sup> / (Γ(α) Γ(β))] x<sup>α-1</sup> (1 - x)<sup>β-1</sup> for 0 &lt; x &lt; 1 or 0 otherwise
       </p>
       <p>
         The mean of the beta distribution is 
@@ -807,7 +851,7 @@
         The likelihood function can be used to relate teh prior and posterior distributions,
       </p>
       <p class='formula'>
-         ζ(θ|<strong>x</strong>) ∝ f<sub>n</sub>(<strong>x</strong>|θ) ζ(θ)
+         ζ(θ|<strong>x</strong>) ∝ ƒ<sub>n</sub>(<strong>x</strong>|θ) ζ(θ)
       </p>
       <p>
         The constant of proportionality can be found from equating the total probability to 1.
@@ -852,12 +896,165 @@
         This approach avoids the need to assume a probability distribution for θ. However, the drawback is that
         is may not always give a good estimate for θ and sometimes it may not exist at all.
       </p>
+      <h3><a name="sampling"></a>Sampling</h3>
+      <p>
+        A <strong>samplling distribution</strong> is the distribition of a statistic T of a set of random variables 
+        <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) that are a sample of the random variable X
+        with distribution having a parameter θ. 
+        A sampling distribution can be used to determine how good an estimate θ̂ of the parameter θ is.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 465) 
+      </p>
+      <p>
+        The <strong>chi-square</strong> χ<sup>2</sup> distribition with m degrees of freedom 
+        is the gamma distribution with α = m/2 and β = ½.
+        This can be written as
+      </p>
+      <p class='formula'>
+         ƒ(x) = 1/(2<sup>m/2</sup> Γ(m/2)) x<sup>(m/2)-1</sup> e<sup>-x/2</sup>   for x &gt; 0.
+      </p>
+      <p>
+        The mean of the χ<sup>2</sup> distribition is E(X) = m. 
+        The variance is Var(X) = 2m.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 469-470) 
+        The χ<sup>2</sup> distribition can computed with the R <code>dchisq()</code> function.
+        The χ<sup>2</sup> distribition with 5 degrees of freedom can be drawn in R
+        using the command below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; curve(dchisq(x, df=5), 0, 20, xlab="x", ylab="Chi Square", col="blue")
+        </pre>
+      </p>
+      <p>
+        The result is shown in Figure 8.
+      </p>
+      <p class='picture'>
+        <img src="images/chi_square_df5.png"/><br/>
+        Figure 8: χ<sup>2</sup> Distribition with 5 Degrees of Freedom
+      </p>
+      <p>
+        The χ<sup>2</sup> distribition with two degrees of freedom is the same as the exponential distribution 
+        with parameter ½.
+      </p>
+      <p>
+        The cummulative χ<sup>2</sup> distribition can be computed with the <code>pchisq()</code> R function.
+      </p>
+      <p>
+        <strong>Example</strong>: Following the Example 8.2.3 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 470) 
+        The probability that X is less than 10.0 for a 
+        χ<sup>2</sup> distribition with 10 degrees of freedom can be found using the R command
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; pchisq(c(10), df=10)
+          [1] 0.5595067
+        </pre>
+      </p>
+      <p>
+        Giving the probability 0.55 or 56%. ▢
+      </p>
+      <p>
+        If X<sub>1</sub>, ... X<sub>n</sub> are a random sample from a normal distribution with mean μ and 
+        variance σ<sup>2</sup> then the sample mean and variance have maximum likelihood estimators
+      </p>
+      <p class='formula'>
+         μ&#770; = X&#772;<sub>n</sub> <br>
+         σ&#770; = [(1/n) Σ<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>]<sup>½</sup>
+      </p>
+      <p>
+        These estimators are independent variables.
+        The estimator for the sample mean X&#772;<sub>n</sub> has a normal distribution with mean μ and variance σ/n.
+        The quantity nσ&#770;<sup>2</sup>/σ<sup>2</sup> has a χ<sup>2</sup> distribition with n - 1 degrees of freedom.
+      </p>
+      <p>
+        The <strong>t distribution</strong> is useful when we need to use an estimate of the variance because we
+        do not know the true variance. The t distribution is
+      </p>
+      <p class='formula'>
+         Γ((m+1)/2)/[(mπ)<sup>½</sup>Γ(m/2)] (1 + x<sup>2</sup>/m)<sup>-(m+1)/2</sup>
+      </p>
+      <p>
+        If X<sub>1</sub>, ... X<sub>n</sub> is a sample for random variabe X with with mean μ and variance σ<sup>2</sup>.
+        Define the statistic
+      </p>
+      <p class='formula'>
+         σ′ = [Σ<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>]<sup>½</sup>
+      </p>
+      <p>
+        Also define the random variable
+      </p>
+      <p class='formula'>
+         U = n<sup>½</sup>(X&#772; - μ)/σ
+      </p>
+      <p>
+        U has a t distribution with n - 1 degrees of freedom.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 480-482) 
+        The t distribution looks like the normal distribution but the tails do not converge to zero as quickly, 
+        especially for small values of n.
+        Values of the pdf for t distribution can be computed with the R <code>dt</code> function.
+        The command below draws a graph of the t distribution with 5 degrees of freedom.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; curve(dt(x, df=5), -3, 3, xlab="z", ylab="Probability Density", col="blue")
+        </pre>
+      </p>
+      <p>
+        The chart produced is shown in Figure 9.
+      </p>
+      <p class='picture'>
+        <img src="images/t_distribution_df5.png"/><br/>
+        Figure 9: t Distribution with 5 Degrees of Freedom
+      </p>
+      <p>
+        A <strong>confidence interfal</strong> (A, B) for coefficient γ is an interval with 
+      </p>
+      <p class='formula'>
+         Pr(A &lt; g(θ) &lt; B) ≥ γ
+      </p>
+      <p>
+        for a random sample <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) from a distribution with 
+        parameter θ.
+      </p>
+      <p>
+        The confidence interval for a sample from a normal distribution with mean μ and variance σ<sup>2</sup> is
+      </p>
+      <p class='formula'>
+         A = X&#772;<sub>n</sub> - T<sub>n-1</sub><sup>-1</sup>((1 + γ)/2) σ′/n<sup>½</sup> <br/>
+         B = X&#772;<sub>n</sub> + T<sub>n-1</sub><sup>-1</sup>((1 + γ)/2) σ′/n<sup>½</sup>
+      </p>
+      <p>
+        where T<sub>n</sub>(c) is the cdf of the t distribution with n degrees of freedom 
+        and T<sub>n</sub><sup>-1</sup> is the inverse cdf.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 486)
+        T<sub>n</sub><sup>-1</sup> can be computed with the R function <code>qt()</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: Computing Example 8.5.3 from DeGroot and Morris 
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 487) with a sample of 26 rain 
+        measurements with sample average 5.134 and estimated variance 1.60.
+        The 95% confidence intervale can be computed using the R commands
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; A &lt;- 5.134 - qt(1.95/2, df=25) * 1.6/sqrt(25)
+          &gt; A
+          [1] 4.474948
+          &gt; B &lt;- 5.134 + qt(1.95/2, df=25) * 1.6/sqrt(25)
+          &gt; B
+          [1] 5.793052
+        </pre>
+      </p>
+      <p>
+        The 95% confidence interval is (4.47, 5.79). ▢
+      </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>
         <strong>Linear regression</strong> is a method finding a statistical best fit for a line against a set of data.
         (Knell, <i>Introductory R</i>, 224)
       </p>
-     <p>
+      <p>
         <strong>Example</strong>: We saw above that there was a correlation between text size
         and the number of unique words in different texts in the corpus.
         However, it was not linear. It turns out that we can get a more linear relation in log space.
@@ -879,11 +1076,11 @@
         as a function of <code>x</code>.
         The function <code>abline()</code> takes the output of the linear regression and adds
         it to the plot.
-        The graph generated is shown in Figure 8.
+        The graph generated is shown in Figure 10.
       </p>
       <p class='picture'>
         <img src="images/log_unique_words.png"/><br/>
-        Figure 8: Linear Regression of Log Count of Unique Words versus Log of Text Length
+        Figure 10: Linear Regression of Log Count of Unique Words versus Log of Text Length
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
@@ -902,6 +1099,10 @@
         </li>
         <li>
           Krippendorff, Klaus H. <i>Content Analysis: An Introduction to Its Methodology</i>. Third Edition edition. SAGE Publications, Inc, 2012.
+        </li>
+        <li>
+          Yau, Chi. <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>. Self, 2014. 
+          <a href="http://www.r-tutor.com/content/r-tutorial-ebook">http://www.r-tutor.com/content/r-tutorial-ebook</a>.
         </li>
         <li>
           The R Project for Statistical Computing (version Pumpkin Helmet). R Foundation, 2014. 
