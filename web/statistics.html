@@ -57,6 +57,7 @@
           <li><a href="#special">Special Distributions</a></li>
           <li><a href="#estimation">Statistical Estimation</a></li>
           <li><a href="#sampling">Sampling</a></li>
+          <li><a href="#hypothesis">Hypothesis Testing</a></li>
           <li><a href="#linear">Linear Regression</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -482,27 +483,20 @@
         seem kind of small. We need to do more analysis to understand what might be really sufficient. ▢
       </p>
       <p>
-        The <strong>variance</strong> of a discrete random variable X with mean μ is defined as
+        The <strong>variance</strong> of a random variable X with mean μ is defined as
       </p>
       <p class='formula'>
-        Var(X) = E[(X - μ)<sup>2</sup>]
+        Var(X) = E[(X - μ)<sup>2</sup>] 
+      </p>
+      <p>
+        The <strong>variance</strong> of a discrete random variable X with mean μ can be computed with the sum
+      </p>
+      <p class='formula'>
+        Var(X) = (1/n) Σ<sub>all i</sub>(X<sub>i</sub> - μ)<sup>2</sup>
       </p>
       <p>
         The <strong>standard deviation</strong> is the square root of the variance.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 226)
-        The <strong>sample variance</strong> is the variance of a sample, correcting for the fact that it is 
-        a sample of a larger population.
-        The sample variance is given by the formula
-      </p>
-      <p class='formula'>
-        s<sub>x</sub><sup>2</sup> = Σ(x - x̄)<sup>2</sup>/(n - 1)
-      </p>
-      <p>
-        where x̄ is the sample mean and n - 1 is the degrees of freedom.
-        s<sub>x</sub> is the sample standard deviation.
-        The sample variance can be computed fwith the R function <code>var()</code> and the sample standard
-        deviation with the function <code>sd()</code>.
-        (Knell, <i>Introductory R</i>, 142)
       </p>
       <p>
         <strong>Example</strong>: 
@@ -511,15 +505,16 @@
       </p>
       <p class='formula'>
         <pre>
-          &gt; v &lt;- var(unigram$frequency)
+          &gt; x &gt;- unigram$frequency
+          &gt; v &lt;- sum((x-mean(x))^2)/(length(x)) 
           &gt; v
-          [1] 140.1174
+          [1] 140.0195
           &gt; sqrt(v)
-         [1] 11.83712
+          [1] 11.83299
         </pre>
       </p>
       <p>
-        The variance is about 140.1 and the standard deviation about 11.8. ▢
+        The variance is about 140.0 and the standard deviation about 11.8. ▢
       </p>
       <p>
         The <strong>covariance</strong> of random variables X and Y with means μ<sub>x</sub> and μ<sub>y</sub> 
@@ -714,9 +709,9 @@
          z = (x - μ)/σ
       </p>
       <p>
-        The cummulative distribution F(x) and inverse commulative distributions F<sup>-1</sup>(x) of the 
-        normal distrubutions can be computed in R with the functions <code>pnorm(q, mean = 0, sd = 1</code>
-        and <code>qnorm(p, mean = 0, sd = 1</code>.
+        The cummulative distribution F(x) of a normal distrubution can be computed in R with the function 
+        <code>pnorm(q, mean = 0, sd = 1</code>.
+        The quantile function F<sup>-1</sup>(x) can be computed with and <code>qnorm(p, mean = 0, sd = 1</code>.
       </p>
       <p>
         <strong>Example</strong>: Following Example 5.6.4 in DeGroot and Morris
@@ -1008,7 +1003,7 @@
         Figure 9: t Distribution with 5 Degrees of Freedom
       </p>
       <p>
-        A <strong>confidence interfal</strong> (A, B) for coefficient γ is an interval with 
+        A <strong>confidence interval</strong> (A, B) for coefficient γ is an interval with 
       </p>
       <p class='formula'>
          Pr(A &lt; g(θ) &lt; B) ≥ γ
@@ -1018,7 +1013,7 @@
         parameter θ.
       </p>
       <p>
-        The confidence interval for a sample from a normal distribution with mean μ and variance σ<sup>2</sup> is
+        The confidence interval for the sample mean from a normal distribution with mean μ and variance σ<sup>2</sup> is
       </p>
       <p class='formula'>
          A = X&#772;<sub>n</sub> - T<sub>n-1</sub><sup>-1</sup>((1 + γ)/2) σ′/n<sup>½</sup> <br/>
@@ -1026,9 +1021,10 @@
       </p>
       <p>
         where T<sub>n</sub>(c) is the cdf of the t distribution with n degrees of freedom 
-        and T<sub>n</sub><sup>-1</sup> is the inverse cdf.
+        and T<sub>n</sub><sup>-1</sup> is the quantile function.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 486)
-        T<sub>n</sub><sup>-1</sup> can be computed with the R function <code>qt()</code>.
+        The quantile function T<sub>n</sub><sup>-1</sup>(x) for a value x with n degrees fo freedom can be computed 
+        with the R function <code>qt(x, df = n)</code>.
       </p>
       <p>
         <strong>Example</strong>: Computing Example 8.5.3 from DeGroot and Morris 
@@ -1048,6 +1044,161 @@
       </p>
       <p>
         The 95% confidence interval is (4.47, 5.79). ▢
+      </p>
+      <p>
+        An <strong>unbiased estimator</strong> δ(<strong>X</strong>) of a function g(θ) of a parameter θ has 
+        the same expection as g(θ) or all values of θ.
+        That is,  E<sub>θ</sub>[δ(<strong>X</strong>)] = g(θ) for all θ.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 507)
+        For example, the sample mean X̄<sub>n</sub> is an unbiased estimate of the true mean μ because the mean of 
+        X̄<sub>n</sub> is μ for all values of μ.
+        The statistic
+      </p>
+      <p class='formula'>
+         σ̂<sub>1</sub><sup>2</sup> = (1/(n - 1)) Σ<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>
+      </p>
+      <p>
+        is an unbiased estimator of the variance. 
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 508)
+        σ̂<sub>1</sub><sup>2</sup> is sometimes called the <strong>sample variance</strong>.
+      </p>
+      <p>
+        <strong>Example</strong>: 
+        The sample variance and sample standard deviation of word frequency in the NTI Reader tagged corpus 
+        can be found with the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; v &lt;- var(unigram$frequency)
+          &gt; v
+          [1] 140.1174
+          &gt; sqrt(v)
+          [1] 11.83712
+        </pre>
+      </p>
+      <p>
+        Compare this to the population variance 140.20 and standard deviation 11.83 computed above. ▢
+      </p>
+      <h3><a name="hypothesis"></a>Hypothesis Testing</h3>
+      <p>
+        The <strong>null hypothesis</strong> H<sub>0</sub> is the hypothesis that θ ∈ Ω<sub>0</sub>, where
+        θ is the parameter of a probability distribition and Ω<sub>0</sub> is a subset of the parameter space Ω.
+        The <strong>alternative hypothesis</strong> H<sub>1</sub> is the hypothesis that θ ∈ Ω<sub>1</sub>,
+        where Ω<sub>1</sub> is the complement of Ω<sub>0</sub>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 531-532)
+      </p>
+      <p>
+        A <strong>critical region</strong> S<sub>1</sub> is a subset of the sample space S of a random vector
+        <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) for which the null hypothesis H<sub>0</sub>
+        is rejected.
+        A <strong>test statistic</strong> T = r(<strong>X</strong>) defines a procedure where the 
+        null hypothesis H<sub>0</sub> is rejected if T ∈ R, where R is a subset of the real numbers.
+        R is the <strong>rejection region</strong> of the test.
+        The critical region has the form S<sub>1</sub> = {<strong>x</strong>: r(<strong>x</strong>) ∈ R}.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 532-533)
+      </p>
+      <p>
+        A <strong>power function</strong> π(θ, δ) is the probability that a test procedure δ will reject
+        the null hypothesis for all values of the parameter θ. In symbols
+      </p>
+      <p class='formula'>
+         π(θ, δ) = Pr(<strong>X</strong> ∈ S<sub>1</sub>)
+      </p>
+      <p>
+        where S<sub>1</sub> is the critical region.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 534)
+      </p>
+      <p>
+        A <strong>type I error</strong> is an erroneous choice to reject the null hypothesis.
+        A <strong>type II error</strong> is an erroneous choice not to reject a false null hypothesis.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 535)
+      </p>
+      <p>
+        The <strong>size</strong> α(δ) is defined as 
+      </p>
+      <p class='formula'>
+         α(δ) = sup <sub>θ ∈ Ω<sub>0</sub></sub> π(θ, δ)
+      </p>
+      <p>
+        where δ is a test and sup is the supremum.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 535)
+      </p>
+      <p>
+        The <strong>p-value</strong> is the smallest level α<sub>0</sub> that would result in rejection of the 
+        null hypothesis.
+      </p>
+      <p>
+        The <strong>likelihood ratio statistic</strong> Λ(<strong>x</strong>) is the largest value of the 
+        likelihood function in Ω<sub>0</sub> compared to the entire parameter space Ω. In symbols
+      </p>
+      <p class='formula'>
+         Λ(<strong>x</strong>) = [sup <sub>θ ∈ Ω<sub>0</sub></sub> ƒ(<strong>x</strong> | θ)] /
+                                [sup <sub>θ ∈ Ω</sub> ƒ(<strong>x</strong> | θ)]
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 544)
+      </p>
+      <p>
+        A <strong>simple hypothesis</strong> is a choice from two alternative parameter values in the
+        parameter space Ω = {θ<sub>0</sub>, θ<sub>1</sub>}. 
+        It has the form
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ = θ<sub>0</sub><br/>
+         H<sub>1</sub>: θ = θ<sub>1</sub>
+      </p>
+      <p>
+        The probability α of a type I error for a test procedure δ is 
+        α(δ) = Pr(Reject H<sub>0</sub> | θ = θ<sub>0</sub>).
+        The probability β of a type II error for a test procedure δ is 
+        β(δ) = Pr(Do not reject H<sub>0</sub> | θ = θ<sub>1</sub>).
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 551)
+      </p>
+      <p>
+        A <strong>uniformly most powerful test</strong> is for a test procedure δ<sup>*</sup> for the hypothesis
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ ∈ Ω<sub>0</sub><br/>
+         H<sub>1</sub>: θ ∈ Ω<sub>1</sub>
+      </p>
+      <p>
+        at the level of significance α<sub>0</sub> if α(δ<sup>*</sup>) ≤ α<sub>0</sub> where
+      </p>
+      <p class='formula'>
+         π(θ, δ) ≤ π(θ, δ<sup>*</sup>) for all θ ∈ Ω<sub>1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 560)
+      </p>
+      <p>
+        A <strong>one sided</strong> alternative hypothesis has the form
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ ≤ θ<sub>0</sub><br/>
+         H<sub>1</sub>: θ &gt; θ<sub>1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 562)
+      </p>
+      <p>
+        A <strong>two sided</strong> alternative hypothesis has the form
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ = θ<sub>0</sub><br/>
+         H<sub>1</sub>: θ ≠ θ<sub>1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 565)
+      </p>
+      <p>
+        An <strong>unbiased test</strong> is a test δ where
+      </p>
+      <p class='formula'>
+         π(θ, δ) ≤ π(θ′, δ)
+      </p>
+      <p>
+        for every θ ∈ Ω<sub>0</sub> and θ′ ∈ Ω<sub>1</sub>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 573)
       </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>
