@@ -60,11 +60,18 @@
           <li>
             <a href="#hypothesis">Hypothesis Testing</a>
             <ul>
+              <li><a href="#hypothesisconcepts">Concepts</a></li>
               <li><a href="#twomeans">Comparing means from two distributions</a></li>
               <li><a href="#fdist">F Distribution</a></li>
             </ul>
           </li>
-          <li><a href="#categorical">Categorical Data</a></li>
+          <li>
+            <a href="#categorical">Categorical Data</a>
+            <ul>
+              <li><a href="#goodness">χ<sup>2</sup> goodness of fit test</a></li>
+              <li><a href="#chisqcomposite">χ<sup>2</sup> Test for a Composite Hypothesis</a></li>
+            </ul>
+          </li>
           <li><a href="#linear">Linear Regression</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -1111,6 +1118,7 @@
         Compare this to the population variance 140.20 and standard deviation 11.83 computed above. ▢
       </p>
       <h3><a name="hypothesis"></a>Hypothesis Testing</h3>
+      <h4><a name="hypothesisconcepts"></a>Concepts</h4>
       <p>
         The <strong>null hypothesis</strong> H<sub>0</sub> is the hypothesis that θ ∈ Ω<sub>0</sub>, where
         θ is the parameter of a probability distribition and Ω<sub>0</sub> is a subset of the parameter space Ω.
@@ -1419,6 +1427,7 @@
         Both of these areas are potentially very useful in natural language processing.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 625)
       </p>
+      <h4><a name="goodness"></a>χ<sup>2</sup> goodness of fit test</h4>
       <p>
         The <strong>χ<sup>2</sup> goodness of fit test</strong> measures how well the proportions of categories in a random 
         sample matches against proportions from the whole population. In this test there are k different
@@ -1431,6 +1440,9 @@
          H<sub>1</sub>: p<sub>i</sub> ≠ p<sub>i</sub><sup>0</sup> for at least one i
       </p>
       <p>
+        That is, the null hypothesis is that the distribution of data amongst the different categories is explained
+        by the probabilities given. The alternative hypothesis is that the data in at least one of the categories 
+        cannot be explained by the given probabilities.
         The <strong>χ<sup>2</sup> statistic</strong> is defined as
       </p>
       <p class='formula'>
@@ -1440,72 +1452,99 @@
         where N<sub>i</sub> are the numbers of each item in the sample and n is the total number in the sample.
         If H<sub>0</sub> is true then Q converges to a χ<sup>2</sup> distribution as n → ∞.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 626)
+        Smaller values for Q are less likely to result in rejection of the null hypothesis.
+        The <code>chisq.test</code> R function can be used to perform this test.
       </p>
       <p>
-        <strong>Example</strong>: Let's use the χ<sup>2</sup> goodness of fit test to compare the 
-        distribution of the proper nouns
+        <strong>Example</strong>: This example demonstrates the use of the R <code>chisq.test</code> R function
+        with the data in DeGroot and Morris Example 10.1.3.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 627)
+        In the example the probabilities are of different blood types A, B, AB, and O are
+        <strong>p</strong> = {1/3, 1/8, 1/24, 1/2}, the sample numbers are
+        <strong>N</strong> = {2162, 738, 228, 2876}.
+        The null hypothesis can be checked with the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; p &lt;- c(1/3, 1/8, 1/24, 1/2)
+          &gt;  N &lt;- c(2162, 738, 228, 2876)
+          &gt;  chisq.test(N, p=p)
+
+          Chi-squared test for given probabilities
+
+          data:  N
+          X-squared = 20.3591, df = 3, p-value = 0.000143
+        </pre>
+      </p>
+      <p>
+        The smallest level of significance that leads to rejection of the null hypothesis is 0.000143.
+        At a level of siginificance of α<sub>0</sub> = 0.025, the null hypothesis would be rejected. ▢
+      </p>
+      <p>
+        <strong>Example</strong>: This example uses the χ<sup>2</sup> goodness of fit test to compare the 
+        distribution counts for words grouped by part of speech
         in the tagged corpus and a document that is included in the tagged corpus.
-        The list of proper nouns in the tagged corpus can be extracted with the following R command.
+        The first few of pronouns in the tagged corpus can be extracted with the following R command.
       </p>
       <p class='formula'>
         <pre>
-          &gt; unigram[grep("(PN)", unigram$pos.tagged.text),]
-                           pos.tagged.text element.text word.id frequency
-          2               是/PN[shì | this]           是   17908       136
-          12                所/PN[suǒ | it]           所   17100        66
-          26                  我/PN[wǒ | I]           我     321        45
-          28               其/PN[qí | that]           其    1574        43
-          33           云何/PN[yúnhé | how]         云何   29319        39
-          62                汝/PN[rǔ | you]           汝    6690        22
-          68               彼/PN[bǐ | that]           彼    6890        21
-          79               之/PN[zhī | him]           之     730        19
-          101              爾/PN[ěr | thus]           爾    3811        14
-          197          前/PN[qián | former]           前   13069         6
-          259             他/PN[tā | other]           他   30477         5
-          388            自/PN[zì | itself]           自    2808         3
-          481                 吾/PN[wú | I]           吾   17099         2
-          669          悉皆/PN[xījiē | all]         悉皆   33047         1
-          880  事事/PN[shìshì | everything]         事事   33711         1
-          1060  如此/PN[rúcǐ | in this way]         如此    3599         1
-          1223         我等/PN[wǒděng | we]         我等    7126         1
-          1304            下/PN[xià | next]           下     580         1
-          1366           之/PN[ zhī | this]           之   30898         1
+          &gt; head(unigram[grep("PN", unigram$pos.tagged.text),])
+                 pos.tagged.text element.text word.id frequency
+          2     是/PN[shì | this]           是   17908       136
+          12      所/PN[suǒ | it]           所   17100        66
+          26        我/PN[wǒ | I]           我     321        45
+          28     其/PN[qí | that]           其    1574        43
+          33 云何/PN[yúnhé | how]         云何   29319        39
+          62      汝/PN[rǔ | you]           汝    6690        22
         </pre>
       </p>
       <p>
-        We will compare the frequencies of these words with the frequencies of the same words in the 
-        tagged version of the Heart Sutra.
-        The R commands below compute the χ<sup>2</sup> statistic.
+        The R script <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/r/pos_counts.R">pos_counts.R</a>
+        aggregates the frequencies of each separate part of speech in the tagged corpus and for the Heart Sutra
+        and compares the counts with a χ<sup>2</sup> test. It can be run with the following command.
       </p>
       <p class='formula'>
         <pre>
-          &gt; corpus.pn &lt;- c(unigram[grep("(PN)", unigram$pos.tagged.text),4])
-          &gt; corpus.total &lt;- sum(corpus.pn)
-          &gt; pi &lt;- corpus.pn / corpus.total
-          &gt; heart.pn &lt;- c(2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
-          &gt; heart.total &lt;- sum(heart.pn)
-          &gt; Q &lt;- sum((heart.pn - heart.total*pi)^2 / heart.total*pi)
-          &gt; Q
-          [1] 0.3099104
-          &gt; k &lt;- length(heart.pn)
-          &gt; qchisq(0.95, df=k-1)
-          [1] 28.8693
+          $ Rscript r/pos_counts.R 
+
+          Chi-squared test for given probabilities
+
+          data:  heart.count
+          X-squared = 164.3491, df = 22, p-value &lt; 2.2e-16
+
+          Warning message:
+          In chisq.test(heart.count, p = pos.prob) :
+          Chi-squared approximation may be incorrect
         </pre>
       </p>
       <p>
-        The variables <code>corpus.pn</code> and <code>heart.pn</code> are vectors of the frequencies of the proper nouns
-        in the tagged corpus and the Heart Sutra respectively.
-        The word frequencies are normalized by the word count for each list, <code>corpus.total</code> for
-        the proper nouns in the tagged corpus and <code>heart.total</code> for the Heart Sutra.
-        The variable <code>pi</code> is a vector of the expected probabilies.
-        The χ<sup>2</sup> statistic computes to 0.31.
-        The integer variable <code>k</code> is the number of observations so <code>k-1</code>
-        is the degrees of freedom.
-        The function <code>qchisq(p, df)</code> is the quantile function for χ<sup>2</sup>.
-        Q is substantially smaller than the quantile value, indicating that the null hypothesis cannot be
-        rejected at the 0.05 level of significance.
-        That is, we cannot conclude that the data is a poor fit.
-        However, not rejecting the null hypothesis does not mean that we can conclude that the data is a good fit either. ▢
+        The output shows that the distribution of part-of-speech counts in the Heart Sutra is not well explained
+        by the general distribution of part-of-speech counts in the tagged corpus.
+        However, there is a warning because some of the count values are very small leading to inaccuracy in the test. ▢
+      </p>
+      <h4><a name="chisqcomposite"></a>χ<sup>2</sup> Test for a Composite Hypothesis</h4>
+      <p>
+        The χ<sup>2</sup> test for a composite hypothesis test can be used to do a goodness-of-fit test 
+        against a distribution parameterized by a set of parameters 
+        <strong>θ</strong> = (θ<sub>1</sub>, ... θ<sub>s</sub>). The probabilities for the categories are given by 
+        the functions π<sub>1</sub>(<strong>θ</strong>), ... π<sub>k</sub>(<strong>θ</strong>).
+        The hypothesis is 
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: There is a <strong>θ</strong> ∈ Ω such that p<sub>i</sub> = θ<sub>i</sub>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        The Q statistic is defined as 
+      </p>
+      <p class='formula'>
+         Q = ∑<sub>i=1</sub><sup>k</sup>[N<sub>i</sub> - nπ<sub>i</sub>(<strong>θ̂</strong>)]<sup>2</sup> / 
+         nπ<sub>i</sub>(<strong>θ̂</strong>)
+      </p>
+      <p>
+        If H<sub>0</sub> is true then the cdf of Q will converge on the cdf of χ<sup>2</sup> with k - s - 1
+        degrees of freedom, as n → ∞.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 634-635)
       </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>

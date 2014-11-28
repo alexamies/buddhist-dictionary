@@ -17,12 +17,13 @@ heart.count <- vector(mode = "numeric", length = length(pos.symbols))
 for (i in seq(1:length(pos.symbols))) {
 	count <- sum(unigram[grep(pos.symbols[i], unigram$pos.tagged.text),4])
 	if (count == 0) {
+		# Manually extract counts that are zero
 		print(pos.symbols[i])
 	} else {
 	    pos.count[i] <- count
 	    heart.count[i] <- length(grep(pos.symbols[i], heart$word))
     }
 }
+
 pos.prob <- pos.count / sum(pos.count)
-pos.prob
 chisq.test(heart.count, p=pos.prob)
