@@ -46,3 +46,13 @@ png(filename="web/images/log_unique_words.png", width = 400, height = 400)
 plot(x, y, xlab="Log Word Count", ylab="Log Unique Words", pch=17, col="blue")
 abline(unique.lm)
 dev.off()
+
+# Plot of a generic chi square distribution with 5 degrees of freedom
+png(filename="web/images/chi_square_df5.png", width = 400, height = 400)
+curve(dchisq(x, df=5), 0, 20, xlab="x", ylab="Chi Square", col="blue")
+dev.off()
+
+# Plot of a generic t distribution with 5 degrees of freedom
+png(filename="web/images/t_distribution_df5.png", width = 400, height = 400)
+curve(dt(x, df=5), -3, 3, xlab="x", ylab="Probability Density", col="blue")
+dev.off()
