@@ -46,7 +46,7 @@
     </div>
 
     <div class="container">
-      <h2>Statistical Methods</h2>
+      <h2>Statistical Background</h2>
       <h3>Contents</h3>
       <p>
         <ul>
@@ -57,13 +57,20 @@
           <li><a href="#special">Special Distributions</a></li>
           <li><a href="#estimation">Statistical Estimation</a></li>
           <li><a href="#sampling">Sampling</a></li>
-          <li><a href="#hypothesis">Hypothesis Testing</a></li>
+          <li>
+            <a href="#hypothesis">Hypothesis Testing</a>
+            <ul>
+              <li><a href="#twomeans">Comparing means from two distributions</a></li>
+              <li><a href="#fdist">F Distribution</a></li>
+            </ul>
+          </li>
+          <li><a href="#categorical">Categorical Data</a></li>
           <li><a href="#linear">Linear Regression</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
       <p>
-        This page gives some incomplete notes on statistical methods in analyzing Chinese text 
+        This page gives some incomplete notes on statistical background in analyzing Chinese text 
         and analyzing quality of corpus data.
       </p>
       <h3><a name="data"></a>Corpus Data</h3>
@@ -421,7 +428,7 @@
         summed over all possible values of y. In symbols,
       </p>
       <p class='formula'>
-        ƒ<sub>1</sub>(x) = Σ<sub>All y</sub> ƒ(x, y)
+        ƒ<sub>1</sub>(x) = ∑<sub>All y</sub> ƒ(x, y)
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 131)
@@ -492,7 +499,7 @@
         The <strong>variance</strong> of a discrete random variable X with mean μ can be computed with the sum
       </p>
       <p class='formula'>
-        Var(X) = (1/n) Σ<sub>all i</sub>(X<sub>i</sub> - μ)<sup>2</sup>
+        Var(X) = (1/n) ∑<sub>all i</sub>(X<sub>i</sub> - μ)<sup>2</sup>
       </p>
       <p>
         The <strong>standard deviation</strong> is the square root of the variance.
@@ -530,7 +537,7 @@
         It is given by the formula:
       </p>
       <p class='formula'>
-        Cov<sub>x, y</sub> = Σ(x - x̄)(y - ȳ)/(n - 1)
+        Cov<sub>x, y</sub> = ∑(x - x̄)(y - ȳ)/(n - 1)
       </p>
       <p>
         where x̄ and ȳ are the sample means and n - 1 is the degrees of freedom.
@@ -1046,6 +1053,30 @@
         The 95% confidence interval is (4.47, 5.79). ▢
       </p>
       <p>
+        A <strong>one-sided confidence interval</strong> (A, ∞) has a statistic A, such that
+      </p>
+      <p class='formula'>
+         Pr(A &lt; g(θ)) ≥ γ
+      </p>
+      <p>
+        This is a 100γ percent one-sided confidence interval for g(θ).
+        Similarly, the interval (-∞, B) is a 100γ percent one-sided confidence interval for g(θ) where
+      </p>
+      <p class='formula'>
+         Pr(g(θ) &lt; B) ≥ γ
+      </p>
+      <p>
+        For a normal distribution with mean μ and variance σ<sup>2</sup> the confidence limits 
+        A and B can be computed as 
+      </p>
+      <p class='formula'>
+         A = X&#772;<sub>n</sub> - T<sub>n-1</sub><sup>-1</sup>(γ) σ′/n<sup>½</sup> <br/>
+         B = X&#772;<sub>n</sub> + T<sub>n-1</sub><sup>-1</sup>(γ) σ′/n<sup>½</sup>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 488-489)
+      </p>
+      <p>
         An <strong>unbiased estimator</strong> δ(<strong>X</strong>) of a function g(θ) of a parameter θ has 
         the same expection as g(θ) or all values of θ.
         That is,  E<sub>θ</sub>[δ(<strong>X</strong>)] = g(θ) for all θ.
@@ -1055,7 +1086,7 @@
         The statistic
       </p>
       <p class='formula'>
-         σ̂<sub>1</sub><sup>2</sup> = (1/(n - 1)) Σ<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>
+         σ̂<sub>1</sub><sup>2</sup> = (1/(n - 1)) ∑<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>
       </p>
       <p>
         is an unbiased estimator of the variance. 
@@ -1199,6 +1230,282 @@
       <p>
         for every θ ∈ Ω<sub>0</sub> and θ′ ∈ Ω<sub>1</sub>.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 573)
+      </p>
+      <p>
+        A <strong>t test</strong> for the one sided hypothesis about the mean μ
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ ≤ μ<sub>0</sub><br/>
+         H<sub>1</sub>: μ &gt; μ<sub>0</sub>
+      </p>
+      <p>
+        where the variance σ<sup>2</sup> is unknown, rejects H<sub>0</sub> if
+      </p>
+      <p class='formula'>
+         U = n<sup>½</sup> (X&#772; - μ<sub>0</sub>)/σ′ ≥ c
+      </p>
+      <p>
+        and c is found from the t quantile function for level of significance α<sub>0</sub>.
+        The opposite hypothesis H<sub>0</sub>: μ ≥ μ<sub>0</sub> is rejected if U ≤ c.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 576)
+      </p>
+      <p>
+        <strong>Example</strong>: We will work through Example 9.5.3 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 578) with R commands.
+        The problem tests the hypothesis H<sub>0</sub>: μ ≥ 200 with a level of significance 
+        α<sub>0</sub> = 0.1 for a random sample with n = 18, X&#772; = 182.17,
+        and σ′ = 72.22. 
+        The 0.1 quantile of the t distribution and the test statistic U can be found with the R commands
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; c = qt(0.1, df=17)
+          &gt; c
+          [1] -1.333379
+          &gt; U = sqrt(18-1) * (182.17 - 200)/72.2
+          &gt;  U
+          [1] -1.018213
+        </pre>
+      </p>
+      <p>
+        Since U ≤ c is false, the null hypothesis μ ≥ 200 is not rejected. ▢
+      </p>
+      <p>
+        A t test for the two sided hypothesis about the mean μ
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ = μ<sub>0</sub><br/>
+         H<sub>1</sub>: μ ≠ μ<sub>0</sub>
+      </p>
+      <p>
+        where the variance σ<sup>2</sup> is unknown, rejects H<sub>0</sub> if 
+      </p>
+      <p class='formula'>
+         |U| ≥ T<sub>n-1</sub><sup>-1</sup>(1 - α<sub>0</sub>/2)
+      </p>
+      <p>
+        where T<sub>n-1></sub><sup>-1</sup> is the quantile function of the t distribution.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 582)
+      </p>
+      <h4><a name="twomeans"></a>Comparing means from two distributions</h4>
+      <p>
+        To test a hypothesis comparing the means μ<sub>1</sub> and μ<sub>0</sub> of two populations
+        <strong>X</strong> = X<sub>1</sub>, ... X<sub>m</sub> and 
+        <strong>Y</strong> = Y<sub>1</sub>, ... Y<sub>n</sub>
+        with the same variance σ, the null and alternate hypotheses
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ<sub>1</sub> ≤ μ<sub>2</sub><br/>
+         H<sub>1</sub>: μ<sub>1</sub> &gt; μ<sub>2</sub>
+      </p>
+      <p>
+        are used. The <strong>two-sample statistic</strong> U is defined as 
+      </p>
+      <p class='formula'>
+         U = (m + n - 2)<sup>½</sup>(X&#772;<sub>m</sub> - Y&#772;<sub>n</sub>) /
+         [(1/m + 1/n)<sup>½</sup>(S<sub>X</sub><sup>2</sup> + S<sub>Y</sub><sup>2</sup>)<sup>½</sup>]
+      </p>
+      <p>
+        U has a t distribution with m + n - 2 degrees of freedom. In this statistic
+      </p>
+      <p class='formula'>
+         X&#772;<sub>m</sub> = (1/m) ∑<sub>i=1</sub><sup>m</sup>X<sub>i</sub> and
+         Y&#772;<sub>n</sub> = (1/n) ∑<sub>i=1</sub><sup>n</sup>Y<sub>i</sub>
+      </p>
+      <p>
+        and 
+      </p>
+      <p class='formula'>
+         S<sub>X</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>m</sup>(X<sub>i</sub> - X&#772;<sub>m</sub>)<sup>2</sup> and
+         S<sub>Y</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>n</sup>(Y<sub>i</sub> - Y&#772;<sub>n</sub>)<sup>2</sup>
+      </p>
+      <p>
+        The null hypothesis H<sub>0</sub> is rejected at the level of significance α<sub>0</sub> if 
+        U ≥ T<sub>m+n-2</sub><sup>-1</sup>(1-α<sub>0</sub>).
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 588-589)
+      </p>
+      <p>
+        <strong>Example</strong>: We will work through Example 9.6.2 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 589-590) with R commands.
+        The problem tests the hypothesis that the mean of rain from seeded clouds μ<sub>1</sub> 
+        is greater than the mean of rain from unseeded clouds μ<sub>2</sub>. That is, we attempt to reject
+        H<sub>0</sub>: μ<sub>1</sub> ≤ μ<sub>2</sub> at level of significance α<sub>0</sub> = 0.01.
+        The mean of the 26 measurements with seeded clouds is X&#772;<sub>m</sub> = 5.13.
+        The mean of the 26 measurements with unseeded clouds is X&#772;<sub>n</sub> = 3.99.
+        Also, S<sub>X</sub><sup>2</sup> = 63.96 and S<sub>Y</sub><sup>2</sup> = 67.39.
+        The R commands to compute U and critical value of T<sub>m+n-2</sub><sup>-1</sup> are
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; U = sqrt(26+26-2)*(5.13-3.99)/(sqrt(1/26+1/26)*sqrt(63.96+67.39))
+          &gt;  U
+          [1] 2.535984
+          &gt;  c = qt(0.99, df=26+26-2)
+          &gt;  c
+          [1] 2.403272
+        </pre>
+      </p>
+      <p>
+        Since U > c, the null hypothesis is rejected.▢
+      </p>
+      <h4><a name="fdist"></a>F Distribution</h4>
+      <p>
+        An <strong>F distribution</strong> for the variable X combining two random variables Y and W with
+        χ<sup>2</sup> distributions with m and n degrees of freedom in the form
+      </p>
+      <p class='formula'>
+         X = (Y/m)/(W/n)
+      </p>
+      <p>
+        X has an F distribution, which is given by the formula
+      </p>
+      <p class='formula'>
+         ƒ(x) = (Γ[(m + n)/2] m<sup>m/2</sup>n<sup>n/2</sup>) / [Γ(m/2)Γ(n/2)] · x<sup>(m/2)-1</sup>/(mx + n)<sup>(m+n)/2</sup>
+      </p>
+      <p>
+        for x &gt; 0.
+      </p>
+      <p>
+        An <strong>F test</strong> compares the unknown variances of two random variables X<sub>1</sub>, ... X<sub>n</sub>
+        and Y<sub>1</sub>, ... Y<sub>n</sub>.
+        The null and alternate hypotheses are
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: σ<sub>1</sub><sup>2</sup> ≤ σ<sub>2</sub><sup>2</sup><br/>
+         H<sub>1</sub>: σ<sub>1</sub><sup>2</sup> &gt; σ<sub>2</sub><sup>2</sup>
+      </p>
+      <p>
+        In the test the statistic V is defined as 
+      </p>
+      <p class='formula'>
+         V = [S<sub>X</sub><sup>2</sup>/(m - 1)] / [S<sub>Y</sub><sup>2</sup>/(n - 1)]
+      </p>
+      <p>
+        If V ≥ c, where c is determined from the level of significance α<sub>0</sub>, then H<sub>0</sub> is rejected.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 598-599)
+        The quantile function for the F distribution can be computed with the R command
+        <code>qf(p, df1, df2</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: We will work through Example 9.7.3 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 600-601) with R commands.
+        X<sub>1</sub>, ... X<sub>6</sub> have unknown mean and variance. 
+        S<sub>X</sub><sup>2</sup> = 30 is computed from observations.
+        Y<sub>1</sub>, ... Y<sub>21</sub> also have unknown mean and variance and have
+        S<sub>Y</sub><sup>2</sup> = 40.
+        The following R commands compute the statistic V and the quantile value for 
+        α<sub>0</sub> = 0.025 and α<sub>0</sub> = 0.05.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; V = (30/(6-1))/(40/(21-1))
+          &gt; V
+          [1] 3
+          &gt; qf(0.95, df1=5, df2=20)
+          [1] 2.71089
+          &gt; qf(0.975, df1=5, df2=20)
+          [1] 3.289056
+        </pre>
+      </p>
+      <p>
+        Since V &gt; 2.71 the null hypothesis is rejected at the α<sub>0</sub> = 0.05 significance level but since
+        V &lt; 3.29 it is not rejected at the α<sub>0</sub> = 0.025 level. ▢
+      </p>
+      <h3><a name="categorical"></a>Categorical Data</h3>
+      <p>
+        <strong>Categorical data</strong> is data where observations classifies the data into different categories.
+        <strong>Nonparametric methods</strong> are methods that do not depend on data belonging to
+        specific parametric families of distributions.
+        Both of these areas are potentially very useful in natural language processing.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 625)
+      </p>
+      <p>
+        The <strong>χ<sup>2</sup> goodness of fit test</strong> measures how well the proportions of categories in a random 
+        sample matches against proportions from the whole population. In this test there are k different
+        categories and p<sub>i</sub> is the proportion of each in the population. The proportions in the
+        random sample belonging to each category are p<sub>1</sub><sup>0</sup>, ... p<sub>k</sub><sup>0</sup>.
+        The hypothesis tested is
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: p<sub>i</sub> = p<sub>i</sub><sup>0</sup> for i = 1, ... k<br/>
+         H<sub>1</sub>: p<sub>i</sub> ≠ p<sub>i</sub><sup>0</sup> for at least one i
+      </p>
+      <p>
+        The <strong>χ<sup>2</sup> statistic</strong> is defined as
+      </p>
+      <p class='formula'>
+         Q = ∑<sub>i=1</sub><sup>k</sup>(N<sub>i</sub> - np<sub>i</sub><sup>0</sup>)<sup>2</sup> / np<sub>i</sub><sup>0</sup>
+      </p>
+      <p>
+        where N<sub>i</sub> are the numbers of each item in the sample and n is the total number in the sample.
+        If H<sub>0</sub> is true then Q converges to a χ<sup>2</sup> distribution as n → ∞.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 626)
+      </p>
+      <p>
+        <strong>Example</strong>: Let's use the χ<sup>2</sup> goodness of fit test to compare the 
+        distribution of the proper nouns
+        in the tagged corpus and a document that is included in the tagged corpus.
+        The list of proper nouns in the tagged corpus can be extracted with the following R command.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; unigram[grep("(PN)", unigram$pos.tagged.text),]
+                           pos.tagged.text element.text word.id frequency
+          2               是/PN[shì | this]           是   17908       136
+          12                所/PN[suǒ | it]           所   17100        66
+          26                  我/PN[wǒ | I]           我     321        45
+          28               其/PN[qí | that]           其    1574        43
+          33           云何/PN[yúnhé | how]         云何   29319        39
+          62                汝/PN[rǔ | you]           汝    6690        22
+          68               彼/PN[bǐ | that]           彼    6890        21
+          79               之/PN[zhī | him]           之     730        19
+          101              爾/PN[ěr | thus]           爾    3811        14
+          197          前/PN[qián | former]           前   13069         6
+          259             他/PN[tā | other]           他   30477         5
+          388            自/PN[zì | itself]           自    2808         3
+          481                 吾/PN[wú | I]           吾   17099         2
+          669          悉皆/PN[xījiē | all]         悉皆   33047         1
+          880  事事/PN[shìshì | everything]         事事   33711         1
+          1060  如此/PN[rúcǐ | in this way]         如此    3599         1
+          1223         我等/PN[wǒděng | we]         我等    7126         1
+          1304            下/PN[xià | next]           下     580         1
+          1366           之/PN[ zhī | this]           之   30898         1
+        </pre>
+      </p>
+      <p>
+        We will compare the frequencies of these words with the frequencies of the same words in the 
+        tagged version of the Heart Sutra.
+        The R commands below compute the χ<sup>2</sup> statistic.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; corpus.pn &lt;- c(unigram[grep("(PN)", unigram$pos.tagged.text),4])
+          &gt; corpus.total &lt;- sum(corpus.pn)
+          &gt; pi &lt;- corpus.pn / corpus.total
+          &gt; heart.pn &lt;- c(2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0)
+          &gt; heart.total &lt;- sum(heart.pn)
+          &gt; Q &lt;- sum((heart.pn - heart.total*pi)^2 / heart.total*pi)
+          &gt; Q
+          [1] 0.3099104
+          &gt; k &lt;- length(heart.pn)
+          &gt; qchisq(0.95, df=k-1)
+          [1] 28.8693
+        </pre>
+      </p>
+      <p>
+        The variables <code>corpus.pn</code> and <code>heart.pn</code> are vectors of the frequencies of the proper nouns
+        in the tagged corpus and the Heart Sutra respectively.
+        The word frequencies are normalized by the word count for each list, <code>corpus.total</code> for
+        the proper nouns in the tagged corpus and <code>heart.total</code> for the Heart Sutra.
+        The variable <code>pi</code> is a vector of the expected probabilies.
+        The χ<sup>2</sup> statistic computes to 0.31.
+        The integer variable <code>k</code> is the number of observations so <code>k-1</code>
+        is the degrees of freedom.
+        The function <code>qchisq(p, df)</code> is the quantile function for χ<sup>2</sup>.
+        Q is substantially smaller than the quantile value, indicating that the null hypothesis cannot be
+        rejected at the 0.05 level of significance.
+        That is, we cannot conclude that the data is a poor fit.
+        However, not rejecting the null hypothesis does not mean that we can conclude that the data is a good fit either. ▢
       </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>
