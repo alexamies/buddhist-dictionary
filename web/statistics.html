@@ -70,6 +70,7 @@
             <ul>
               <li><a href="#goodness">χ<sup>2</sup> goodness of fit test</a></li>
               <li><a href="#chisqcomposite">χ<sup>2</sup> Test for a Composite Hypothesis</a></li>
+              <li><a href="#contingency">Contingency Tables</a></li>
             </ul>
           </li>
           <li><a href="#linear">Linear Regression</a></li>
@@ -1456,39 +1457,14 @@
         The <code>chisq.test</code> R function can be used to perform this test.
       </p>
       <p>
-        <strong>Example</strong>: This example demonstrates the use of the R <code>chisq.test</code> R function
-        with the data in DeGroot and Morris Example 10.1.3.
-        (DeGroot and Morris, <i>Probability and Statistics</i>, 627)
-        In the example the probabilities are of different blood types A, B, AB, and O are
-        <strong>p</strong> = {1/3, 1/8, 1/24, 1/2}, the sample numbers are
-        <strong>N</strong> = {2162, 738, 228, 2876}.
-        The null hypothesis can be checked with the R commands below.
-      </p>
-      <p class='formula'>
-        <pre>
-          &gt; p &lt;- c(1/3, 1/8, 1/24, 1/2)
-          &gt;  N &lt;- c(2162, 738, 228, 2876)
-          &gt;  chisq.test(N, p=p)
-
-          Chi-squared test for given probabilities
-
-          data:  N
-          X-squared = 20.3591, df = 3, p-value = 0.000143
-        </pre>
-      </p>
-      <p>
-        The smallest level of significance that leads to rejection of the null hypothesis is 0.000143.
-        At a level of siginificance of α<sub>0</sub> = 0.025, the null hypothesis would be rejected. ▢
-      </p>
-      <p>
         <strong>Example</strong>: This example uses the χ<sup>2</sup> goodness of fit test to compare the 
         distribution counts for words grouped by part of speech
         in the tagged corpus and a document that is included in the tagged corpus.
-        The first few of pronouns in the tagged corpus can be extracted with the following R command.
+        The most frequent few pronouns in the tagged corpus can be extracted with the following R command.
       </p>
       <p class='formula'>
         <pre>
-          &gt; head(unigram[grep("PN", unigram$pos.tagged.text),])
+          &gt; head(unigram[grep("/PN\\[", unigram$pos.tagged.text),])
                  pos.tagged.text element.text word.id frequency
           2     是/PN[shì | this]           是   17908       136
           12      所/PN[suǒ | it]           所   17100        66
@@ -1499,6 +1475,8 @@
         </pre>
       </p>
       <p>
+        The regular expression <code>"/PN\\["</code> helps the <code>grep()</code> identify patterns like "/PN[""
+        encapsulating part-of-speech tags.
         The R script <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/r/pos_counts.R">pos_counts.R</a>
         aggregates the frequencies of each separate part of speech in the tagged corpus and for the Heart Sutra
         and compares the counts with a χ<sup>2</sup> test. It can be run with the following command.
@@ -1510,17 +1488,32 @@
           Chi-squared test for given probabilities
 
           data:  heart.count
-          X-squared = 164.3491, df = 22, p-value &lt; 2.2e-16
-
-          Warning message:
-          In chisq.test(heart.count, p = pos.prob) :
-          Chi-squared approximation may be incorrect
+          X-squared = 71.0523, df = 7, p-value = 9.052e-13
         </pre>
       </p>
       <p>
-        The output shows that the distribution of part-of-speech counts in the Heart Sutra is not well explained
+        With a very small p-value,
+        the output shows that the distribution of part-of-speech counts in the Heart Sutra is not well explained
         by the general distribution of part-of-speech counts in the tagged corpus.
-        However, there is a warning because some of the count values are very small leading to inaccuracy in the test. ▢
+        Small count values have been avoided by combining categories.
+        The data are shown in Table 1.
+      </p>
+      <table>
+        <caption>Table 1: Predicted and Observed Word Counts for the Heart Sutra</caption>
+        <tbody>
+          <tr><th>Part of Speech</th><th>Observed Count</th><th>Predicted Count</th></tr>
+          <tr><td>Adjectives</td><td>15</td><td>10.3</td></tr>
+          <tr><td>Existential verbs</td><td>21</td><td>5.5</td></tr>
+          <tr><td>Regular verbs</td><td>32</td><td>36.9</td></tr>
+          <tr><td>Proper nouns</td><td>7</td><td>19.8</td></tr>
+          <tr><td>Regular nouns</td><td>63</td><td>51.2</td></tr>
+          <tr><td>Pronouns and numbers</td><td>10</td><td>23.8</td></tr>
+          <tr><td>Adverbs</td><td>18</td><td>11.6</td></tr>
+          <tr><td>Other function words</td><td>15</td><td>21.8</td></tr>
+        </tbody>
+      </table>
+      <p>
+        There is a relatively higher proportion of existential verbs in the Heart Sutra, which is expected. ▢
       </p>
       <h4><a name="chisqcomposite"></a>χ<sup>2</sup> Test for a Composite Hypothesis</h4>
       <p>
@@ -1545,6 +1538,69 @@
         If H<sub>0</sub> is true then the cdf of Q will converge on the cdf of χ<sup>2</sup> with k - s - 1
         degrees of freedom, as n → ∞.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 634-635)
+      </p>
+      <h4><a name="contingency"></a>Contingency Tables</h4>
+      <p>
+        A <strong>contingency table</strong> is a table that classifies each observation in two or more ways.
+        A <strong>two-way</strong> contingency table classifies data in two ways.
+        A contingency table can be used to test data independence using a χ<sup>2</sup> test.
+        If N<sub>ij</sub> is the count in each table cell then the row and column counts are
+      </p>
+      <p class='formula'>
+         N<sub>i+</sub> = ∑<sub>i=1</sub><sup>C</sup>N<sub>ij</sub><br/>
+         N<sub>j+</sub> = ∑<sub>i=1</sub><sup>R</sup>N<sub>ij</sub>
+      </p>
+      <p>
+        where C is the number of columns, R is the number of rows, and n is the total number of cells,
+        excluding the row and cell counts. An estimator for the expected number in each cell, based on the 
+        marginal probabilities from the row and column counts is 
+      </p>
+      <p class='formula'>
+         Ê<sub>ij</sub> = N<sub>i+</sub>N<sub>j+</sub>/n
+      </p>
+      <p>
+        The statistic Q is defined as
+      </p>
+      <p class='formula'>
+         Q = ∑<sub>i=1</sub><sup>C</sup>∑<sub>i=1</sub><sup>R</sup>(N<sub>ij</sub> - Ê<sub>ij</sub>)<sup>2</sup> / 
+         Ê<sub>ij</sub>
+      </p>
+      <p>
+        has a χ<sup>2</sup> distribution with (R - 1)(C - 1) degrees of freedom.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 642-643)
+      </p>
+      <p>
+        <strong>Example</strong>: This example tests the independence of the distribution of word counts
+        for different parts of speech for three texts, The Heart Sutra, the Amitabha Sutra, and the Diamond Sutra.
+        The R script <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/r/pos_independence.R">pos_independence.R</a> 
+        computes the word counts and invokes the χ<sup>2</sup> test. It can be invoked as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          $ $ Rscript r/pos_independence.R 
+                            Heart Amitabha Diamond
+          Adjectives           15       86     140
+          Existential Verbs    21       31     130
+          Verbs                32      245     709
+          Proper Nouns          7      194     404
+          Nouns                63      361     942
+          Pronouns              10      226     503
+          Adverbs              18       69     248
+          Function Words       15      164     510
+
+            Pearson's Chi-squared test
+
+          data:  data
+          X-squared = 111.0789, df = 14, p-value &lt; 2.2e-16
+        </pre>
+      </p>
+      <p>
+        The low p-value in results show that the null hypothesis should be rejected. The distribution of is not
+        independent at the conventional 0.05 level of significance and even at more strict levels of significance. ▢
+      </p>
+      <p>
+        The χ<sup>2</sup> test for data homogeneity is exactly the same as the test for data independence.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 649)
       </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>

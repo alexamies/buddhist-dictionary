@@ -23,7 +23,7 @@ for (i in seq(1:length(pos.symbols))) {
 	diamond.count[i] <- length(grep(pos.symbols[i], diamond$word))
 }
 textnames <- list(c("Adjectives", "Existential Verbs", "Verbs", "Proper Nouns",
-	                "Nouns", "Proouns", "Adverbs", "Function Words"),
+	                "Nouns", "Pronouns", "Adverbs", "Function Words"),
 	              c("Heart", "Amitabha", "Diamond"))
 data <- matrix(c(heart.count, amitabha.count, diamond.count), ncol = 3, 
 	           dimnames = textnames)
