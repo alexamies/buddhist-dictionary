@@ -73,6 +73,12 @@
               <li><a href="#contingency">Contingency Tables</a></li>
             </ul>
           </li>
+          <li>
+            <a href="#nonparametric">Nonparametric Methods</a>
+            <ul>
+              <li><a href="#kolmogorov">Kolmogorov-Smirnov Tests</a></li>
+            </ul>
+          </li>
           <li><a href="#linear">Linear Regression</a></li>
           <li><a href="#references">References</a></li>
         </ul>
@@ -731,7 +737,7 @@
       <p>
         <strong>Example</strong>: Following Example 5.6.4 in DeGroot and Morris
         (DeGroot and Morris, <i>Probability and Statistics</i>, 308)
-        the probability of a random variable with mean 5 and standard deviation
+        the probability of a random variable from a normal distribution with mean 5 and standard deviation
         2 being greater than 1 and less than 8 is
       </p>
       <p class='formula'>
@@ -1423,9 +1429,6 @@
       <h3><a name="categorical"></a>Categorical Data</h3>
       <p>
         <strong>Categorical data</strong> is data where observations classifies the data into different categories.
-        <strong>Nonparametric methods</strong> are methods that do not depend on data belonging to
-        specific parametric families of distributions.
-        Both of these areas are potentially very useful in natural language processing.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 625)
       </p>
       <h4><a name="goodness"></a>χ<sup>2</sup> goodness of fit test</h4>
@@ -1599,8 +1602,74 @@
         independent at the conventional 0.05 level of significance and even at more strict levels of significance. ▢
       </p>
       <p>
-        The χ<sup>2</sup> test for data homogeneity is exactly the same as the test for data independence.
+        The χ<sup>2</sup> test for data homogeneity is the same as the test for data independence.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 649)
+      </p>
+      <h3><a name="nonparametric"></a>Nonparametric Methods</h3>
+      <p>
+        <strong>Nonparametric methods</strong> are methods that do not depend on data belonging to
+        specific parametric families of distributions.
+      </p>
+      <h4><a name="kolmogorov"></a>Kolmogorov-Smirnov Tests</h4>
+      <p>
+        Kolmogorov-Smirnov tests can be used to test observed values of a continuous data against a
+        parameterized distribution or to test the similarity of two sets of observed values.
+      </p>
+      <p>
+        A <strong>sample cdf</strong> or sample distribution function is a function of a set of observed values
+        F<sub>n</sub>(x) = k/n, where there are k observations less than or equal to x. The total number of 
+        observations is n.
+      </p>
+      <p>
+        The <strong>Kolmogorov-Smirnov test</strong> of observed data X<sub>1</sub>, ... X<sub>n</sub>
+        against a particular continuous distribution F<sup>*</sup>(x) tests the hypotheses
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: F<sup>*</sup>(x) = F<sup>*</sup>(x)<br/>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        If H<sub>0</sub> is true then the statistic D<sub>n</sub><sup>*</sup>(x) defined by
+      </p>
+      <p class='formula'>
+         D<sub>n</sub><sup>*</sup>(x) = sup<sub>∞&lt;x&lt;∞</sub>|F<sub>n</sub>(x) - F<sup>*</sup>(x)|
+      </p>
+      <p>
+        that is, the maximum difference for the obsserved value x<sub>n</sub>, converges as
+      </p>
+      <p class='formula'>
+         lim<sub>n→∞</sub> Pr(n<sup>½</sup>D<sub>n</sub><sup>*</sup> ≤ t) = H(t)
+         = 1 - 2∑(-1)<sup>i-1</sup>e<sup>-2i<sup>2</sup>t<sup>2</sup></sup>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 658-660)
+        The values of H(t) can be computed and the test performed with the R function 
+        <code>ks.test(x, y, ...)</code>.
+      </p>
+      <p>
+        The <strong>two-sample Kolmogorov-Smirnovtest</strong> compares two sets of samples X<sub>1</sub>, ... X<sub>m</sub> and
+        Y<sub>1</sub>, ... Y<sub>n</sub> with cdf's F(x) and G(x). The hypotheses are
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: F(x) = G(x)<br/>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        The test statistic D<sub>mn</sub> is defined as
+      </p>
+      <p class='formula'>
+         D<sub>mn</sub> = sup<sub>∞&lt;x&lt;∞</sub>|F<sub>m</sub>(x) - G<sup>n</sup>(x)|
+      </p>
+      <p>
+        that is, the maximum difference for the obsserved values x<sub>n</sub> and y<sub>n</sub>, converges as
+      </p>
+      <p class='formula'>
+         lim<sub>m→∞,n→∞</sub> Pr[(mn/m + n)<sup>½</sup>D<sub>mn</sub> ≤ t] = H(t)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 664)
+        The values of H(t) can also be computed and the test performed with the R function 
+        <code>ks.test(x, y, ...)</code>.
       </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>
