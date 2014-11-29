@@ -9,9 +9,9 @@ heart.names <- c("word")
 heart <- read.table("web/corpus/tagged/heart-sutra-xuanzang-tagged.txt", 
 	                header=FALSE, sep="\t", quote="\"", col.names=heart.names, 
 	                numerals ="allow.loss")
-pos.symbols <- c("VA", "VC", "VE", "VV", "NR", "NT", "NN", "LC", "PN", "DT", 
-	             "CD", "CD", "OD", "M", "AD", "P", "CC", "CS", "DEG", "SP", 
-	             "MSP", "IJ", "FW")
+pos.symbols <- c("/VA\\[", "(/VC\\[|/VE\\[)", "/VV\\[", "/NR\\[", 
+	             "(/NT\\[|/NN\\[)", "(/LC\\[|/PN\\[|/DT\\[|/CD\\[|/OD\\[|/M\\[)", "/AD\\[", 
+	             "(/P\\[|/CC\\[|/CS\\[|/DEC\\[|/DEG\\[|/DER\\[|/DEV\\[]|/SP\\[|/AS\\[|/ETC\\[]|/MSP\\[|/IJ\\[|/ON\\[|/PU\\[|/JJ\\[|/FW\\[|/LB\\[|/SB\\[|/BA\\[])")
 pos.count <- vector(mode = "numeric", length = length(pos.symbols))
 heart.count <- vector(mode = "numeric", length = length(pos.symbols))
 for (i in seq(1:length(pos.symbols))) {
@@ -26,4 +26,8 @@ for (i in seq(1:length(pos.symbols))) {
 }
 
 pos.prob <- pos.count / sum(pos.count)
+n <- sum(heart.count)
+for (i in seq(1:length(pos.symbols))) {
+	cat(pos.symbols[i], ", ", heart.count[i], ", ", n*pos.prob[i], "\n")
+}
 chisq.test(heart.count, p=pos.prob)
