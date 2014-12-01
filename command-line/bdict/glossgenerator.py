@@ -189,7 +189,7 @@ class GlossGenerator:
                 text += '%s\n' % entry
             return text
         entry_id = phrase_entry['id']
-        url = '/buddhistdict/phrase_detail.php?id=%s' % entry_id
+        url = 'phrase_detail.php?id=%s' % entry_id
         return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
 
     def _Punctuation(self, element_text):
@@ -231,7 +231,7 @@ class GlossGenerator:
             return element_text
         entry_id = entry['id']
         # print('_Word entry_id = %s' % entry_id)
-        url = '/buddhistdict/word_detail.php?id=%s' % entry_id
+        url = 'word_detail.php?id=%s' % entry_id
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)
 
 
