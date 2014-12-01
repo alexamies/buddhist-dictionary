@@ -1,4 +1,4 @@
-## JIngdezhen 景德镇
+## Jingdezhen 景德镇
 
 Description: Baidu article in modern Chinese
 
