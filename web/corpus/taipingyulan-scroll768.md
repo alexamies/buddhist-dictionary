@@ -1,6 +1,6 @@
-## Imperial Readings of the Taiping Era, Scroll 768 Boats 1 太平御覽 舟部一
+## Imperial Readings of the Taiping Era 768 Boats 1 太平御覽 舟部一
 
-Description: The first of four scrolls on boats
+Description: The first of four parts on boats
 
 Period: Song
 
