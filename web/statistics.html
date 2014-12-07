@@ -77,6 +77,7 @@
             <a href="#nonparametric">Nonparametric Methods</a>
             <ul>
               <li><a href="#kolmogorov">Kolmogorov-Smirnov Tests</a></li>
+              <li><a href="#robust">Robust Estimation</a></li>
             </ul>
           </li>
           <li><a href="#linear">Linear Regression</a></li>
@@ -92,7 +93,7 @@
         A <strong>corpus</strong> is a collection of texts, which may be used by linguists for studying the 
         characteristics of language usage. (Bird, <i>Natural Language Processing</i>, 39)
         The NTI Buddhist Text Reader contains a corpus of Buddhist and classical Chinese texts.
-        A small subset of the corpus is tagged part-of-speech taggs and gloss distinguishing word sense.
+        A small subset of the corpus is tagged part-of-speech tags and gloss distinguishing word sense.
         The organization of the corpus is described on the page
         <a href="annotation.html">Text Management, Annotation, and Gloss</a> on this web site.
         The tagging scheme is described on the page <a href="pos_tags.html">Part-of-Speech Tag Definitions</a>.
@@ -114,7 +115,7 @@
           pos_tagged_text: The element text with POS tag and gloss in pinyin and English
           element_text:    The element text in traditional Chinese
           word_id:         Matching id in the word table (positive integer)
-          frequency:       The frequency of occurence of the word sense (positive integer)
+          frequency:       The frequency of occurrence of the word sense (positive integer)
         </pre>
       </p>
       <p>
@@ -127,11 +128,11 @@
           previous_text:   The element text in traditional Chinese
           element_text:    The element text in traditional Chinese
           word_id:         Matching id in the word table (positive integer)
-          frequency:       The frequency of occurence of the word sense (positive integer)
+          frequency:       The frequency of occurrence of the word sense (positive integer)
         </pre>
       </p>
       <p>
-        A tab delimited plain text list of summary statistcs for the corpus texts is included in the file 
+        A tab delimited plain text list of summary statistics for the corpus texts is included in the file 
         <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/stats/corpus_stats.txt">corpus_stats.txt</a>. 
         The structure of the file is 
       </p>
@@ -145,7 +146,7 @@
       </p>
       <h3><a name="tools"></a>Software Tools</h3>
       <p>
-        There are a number of software tools for statistical modelling and may be used for text analysis.
+        There are a number of software tools for statistical modeling and may be used for text analysis.
         Initially, R will be discussed.
       </p>
       <h4>R Project for Statistical Computing</h4>
@@ -196,7 +197,7 @@
       <p>
         The <code>$</code> prompt is shown before a shell command and the <code>&gt;</code> prompt is shown 
         before an R command.
-        The <code>c()</code> function contatenates the arguments into a vector, which is assigned to the 
+        The <code>c()</code> function concatenates the arguments into a vector, which is assigned to the 
         variable <code>names</code> using the assignment operator <code>&lt;-</code>.
         The variable <code>names</code> is used for the column names later.
         The unigram.txt file into the <code>unigram</code> data frame with the <code>read.table()</code> function.
@@ -236,7 +237,7 @@
         </pre>
       </p>
       <p>
-        The <code>seq()</code> function genrates a sequence of integers so that the frequency
+        The <code>seq()</code> function generates a sequence of integers so that the frequency
         of each word will be plotted from most frequent at the left to least frequent at the right. 
         The <code>type="n"</code> parameter of the <code>plot()</code> function defers plotting of the points 
         to the next line where the <code>points()</code> function plots the points with symbol 20 and blue color.
@@ -322,14 +323,14 @@
       </p>
       <p>
         The <code>subset()</code> function selects a subset of the unigram table with the value of element_text equal to "法".
-        The total number of occurences of 法 in the tagged corpus is <code>sum(fa$frequency) = 74 + 1 + 1 + 1 = 77</code>.
-        So the probability of any one occurence of 法 being the noun (NN) meaning "a dhárma" (a teaching) is 
+        The total number of occurrences of 法 in the tagged corpus is <code>sum(fa$frequency) = 74 + 1 + 1 + 1 = 77</code>.
+        So the probability of any one occurrence of 法 being the noun (NN) meaning "a dhárma" (a teaching) is 
         <code>74/77 = 0.961</code>. 
-        If we had no other information about the context of a occurence of 法, then we would guess that it would mean
+        If we had no other information about the context of a occurrence of 法, then we would guess that it would mean
         a dhárma. ▢
       </p>
       <p>
-        The <strong>conditional probability</strong> of an event A given that we know an event B has already occured is written Pr(A|B).
+        The <strong>conditional probability</strong> of an event A given that we know an event B has already occurred is written Pr(A|B).
         It can be computed as 
       </p>
       <p class='formula'>
@@ -341,7 +342,7 @@
       <p>
         <strong>Example</strong>: If we know the word before 法, it may give us a better chance at picking the correct
         word sense. This is an example of conditional probability
-        We can use the bigram table to compute the conditinal probability of the word sense of 法.
+        We can use the bigram table to compute the conditional probability of the word sense of 法.
         Suppose the word before is 說 shuō "to say" in modern Chinese but more commonly "to teach" in 
         literary Chinese.
         That would make the phrase be 說法 "to teach a dhárma."
@@ -365,7 +366,7 @@
         in this case. ▢
       </p>
       <p>
-        Two events A and B are <strong>independent</strong> if the occurence of one does not affect the occurrence of the other. 
+        Two events A and B are <strong>independent</strong> if the occurrence of one does not affect the occurrence of the other. 
         If this is true then
       </p>
       <p class='formula'>
@@ -504,6 +505,15 @@
         seem kind of small. We need to do more analysis to understand what might be really sufficient. ▢
       </p>
       <p>
+        Some distributions do not have a mean. The Cauchy distribution below is an example of a function with no mean.
+      </p>
+      <p class='formula'>
+        ƒ(x) = 1/[π(1 + x<sup>2</sup>)] for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 210)
+      </p>
+      <p>
         The <strong>variance</strong> of a random variable X with mean μ is defined as
       </p>
       <p class='formula'>
@@ -613,7 +623,7 @@
         The number of unique words eventually
         begins to flatten out with really long texts. Since the set of words in a text may include proper nouns, 
         such as person and place names, the number of unique words is practically unlimited.
-        It is useful to complate the summary of unique words with the unigram data for the tagged corpus.
+        It is useful to consider the summary of unique words with the unigram data for the tagged corpus.
         The third quartile value is 1661, which is greater than the total number of unique words in the 
         tagged corpus. So, there are at least 25% of the texts in the corpus that have more unique words than 
         we have word frequency data for. Clearly, we are short of coverage on word frequency.
@@ -730,7 +740,7 @@
          z = (x - μ)/σ
       </p>
       <p>
-        The cummulative distribution F(x) of a normal distrubution can be computed in R with the function 
+        The cumulative distribution F(x) of a normal distribution can be computed in R with the function 
         <code>pnorm(q, mean = 0, sd = 1</code>.
         The quantile function F<sup>-1</sup>(x) can be computed with and <code>qnorm(p, mean = 0, sd = 1</code>.
       </p>
@@ -760,7 +770,7 @@
         (DeGroot and Morris, <i>Probability and Statistics</i>, 303)
         The <strong>Central Limit Theorem</strong> states that the distribution of a sum of 
         random variables Σ<sub>i=1</sub><sup>n</sup> X<sub>i</sub>  with any distribution will be
-        approximately the normal distribition with mean nμ and variance nσ<sup>2</sup>, as
+        approximately the normal distribution with mean nμ and variance nσ<sup>2</sup>, as
         n becomes large.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 361)
       </p>
@@ -914,14 +924,14 @@
       </p>
       <h3><a name="sampling"></a>Sampling</h3>
       <p>
-        A <strong>samplling distribution</strong> is the distribition of a statistic T of a set of random variables 
+        A <strong>sampling distribution</strong> is the distribution of a statistic T of a set of random variables 
         <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) that are a sample of the random variable X
         with distribution having a parameter θ. 
         A sampling distribution can be used to determine how good an estimate θ̂ of the parameter θ is.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 465) 
       </p>
       <p>
-        The <strong>chi-square</strong> χ<sup>2</sup> distribition with m degrees of freedom 
+        The <strong>chi-square</strong> χ<sup>2</sup> distribution with m degrees of freedom 
         is the gamma distribution with α = m/2 and β = ½.
         This can be written as
       </p>
@@ -929,11 +939,11 @@
          ƒ(x) = 1/(2<sup>m/2</sup> Γ(m/2)) x<sup>(m/2)-1</sup> e<sup>-x/2</sup>   for x &gt; 0.
       </p>
       <p>
-        The mean of the χ<sup>2</sup> distribition is E(X) = m. 
+        The mean of the χ<sup>2</sup> distribution is E(X) = m. 
         The variance is Var(X) = 2m.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 469-470) 
-        The χ<sup>2</sup> distribition can computed with the R <code>dchisq()</code> function.
-        The χ<sup>2</sup> distribition with 5 degrees of freedom can be drawn in R
+        The χ<sup>2</sup> distribution can computed with the R <code>dchisq()</code> function.
+        The χ<sup>2</sup> distribution with 5 degrees of freedom can be drawn in R
         using the command below.
       </p>
       <p class='formula'>
@@ -946,20 +956,20 @@
       </p>
       <p class='picture'>
         <img src="images/chi_square_df5.png"/><br/>
-        Figure 8: χ<sup>2</sup> Distribition with 5 Degrees of Freedom
+        Figure 8: χ<sup>2</sup> Distribution with 5 Degrees of Freedom
       </p>
       <p>
-        The χ<sup>2</sup> distribition with two degrees of freedom is the same as the exponential distribution 
+        The χ<sup>2</sup> distribution with two degrees of freedom is the same as the exponential distribution 
         with parameter ½.
       </p>
       <p>
-        The cummulative χ<sup>2</sup> distribition can be computed with the <code>pchisq()</code> R function.
+        The cumulative χ<sup>2</sup> distribution can be computed with the <code>pchisq()</code> R function.
       </p>
       <p>
         <strong>Example</strong>: Following the Example 8.2.3 in DeGroot and Morris
         (DeGroot and Morris, <i>Probability and Statistics</i>, 470) 
         The probability that X is less than 10.0 for a 
-        χ<sup>2</sup> distribition with 10 degrees of freedom can be found using the R command
+        χ<sup>2</sup> distribution with 10 degrees of freedom can be found using the R command
       </p>
       <p class='formula'>
         <pre>
@@ -981,7 +991,7 @@
       <p>
         These estimators are independent variables.
         The estimator for the sample mean X&#772;<sub>n</sub> has a normal distribution with mean μ and variance σ/n.
-        The quantity nσ&#770;<sup>2</sup>/σ<sup>2</sup> has a χ<sup>2</sup> distribition with n - 1 degrees of freedom.
+        The quantity nσ&#770;<sup>2</sup>/σ<sup>2</sup> has a χ<sup>2</sup> distribution with n - 1 degrees of freedom.
       </p>
       <p>
         The <strong>t distribution</strong> is useful when we need to use an estimate of the variance because we
@@ -991,7 +1001,7 @@
          Γ((m+1)/2)/[(mπ)<sup>½</sup>Γ(m/2)] (1 + x<sup>2</sup>/m)<sup>-(m+1)/2</sup>
       </p>
       <p>
-        If X<sub>1</sub>, ... X<sub>n</sub> is a sample for random variabe X with with mean μ and variance σ<sup>2</sup>.
+        If X<sub>1</sub>, ... X<sub>n</sub> is a sample for random variable X with with mean μ and variance σ<sup>2</sup>.
         Define the statistic
       </p>
       <p class='formula'>
@@ -1051,7 +1061,7 @@
         <strong>Example</strong>: Computing Example 8.5.3 from DeGroot and Morris 
         (DeGroot and Morris, <i>Probability and Statistics</i>, 487) with a sample of 26 rain 
         measurements with sample average 5.134 and estimated variance 1.60.
-        The 95% confidence intervale can be computed using the R commands
+        The 95% confidence interval can be computed using the R commands
       </p>
       <p class='formula'>
         <pre>
@@ -1092,7 +1102,7 @@
       </p>
       <p>
         An <strong>unbiased estimator</strong> δ(<strong>X</strong>) of a function g(θ) of a parameter θ has 
-        the same expection as g(θ) or all values of θ.
+        the same expectation as g(θ) or all values of θ.
         That is,  E<sub>θ</sub>[δ(<strong>X</strong>)] = g(θ) for all θ.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 507)
         For example, the sample mean X̄<sub>n</sub> is an unbiased estimate of the true mean μ because the mean of 
@@ -1128,7 +1138,7 @@
       <h4><a name="hypothesisconcepts"></a>Concepts</h4>
       <p>
         The <strong>null hypothesis</strong> H<sub>0</sub> is the hypothesis that θ ∈ Ω<sub>0</sub>, where
-        θ is the parameter of a probability distribition and Ω<sub>0</sub> is a subset of the parameter space Ω.
+        θ is the parameter of a probability distribution and Ω<sub>0</sub> is a subset of the parameter space Ω.
         The <strong>alternative hypothesis</strong> H<sub>1</sub> is the hypothesis that θ ∈ Ω<sub>1</sub>,
         where Ω<sub>1</sub> is the complement of Ω<sub>0</sub>.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 531-532)
@@ -1635,7 +1645,7 @@
          D<sub>n</sub><sup>*</sup>(x) = sup<sub>∞&lt;x&lt;∞</sub>|F<sub>n</sub>(x) - F<sup>*</sup>(x)|
       </p>
       <p>
-        that is, the maximum difference for the obsserved value x<sub>n</sub>, converges as
+        that is, the maximum difference for the observed value x<sub>n</sub>, converges as
       </p>
       <p class='formula'>
          lim<sub>n→∞</sub> Pr(n<sup>½</sup>D<sub>n</sub><sup>*</sup> ≤ t) = H(t)
@@ -1661,7 +1671,7 @@
          D<sub>mn</sub> = sup<sub>∞&lt;x&lt;∞</sub>|F<sub>m</sub>(x) - G<sup>n</sup>(x)|
       </p>
       <p>
-        that is, the maximum difference for the obsserved values x<sub>n</sub> and y<sub>n</sub>, converges as
+        that is, the maximum difference for the observed values x<sub>n</sub> and y<sub>n</sub>, converges as
       </p>
       <p class='formula'>
          lim<sub>m→∞,n→∞</sub> Pr[(mn/m + n)<sup>½</sup>D<sub>mn</sub> ≤ t] = H(t)
@@ -1671,10 +1681,86 @@
         The values of H(t) can also be computed and the test performed with the R function 
         <code>ks.test(x, y, ...)</code>.
       </p>
+      <h4><a name="robust"></a>Robust Estimation</h4>
+      <p>
+        A <strong>contaminated normal distribution</strong> is a normal distribution with an additional component
+        that is not normal. It has the form
+      </p>
+      <p class='formula'>
+         ƒ(x) = (1 - ϵ)(2πσ<sup>2</sup>)<sup>½</sup>exp(-1/(2σ<sup>2</sup>)[x - μ]<sup>2</sup>) + ϵg(x)
+      </p>
+      <p>
+        The function g(x) is the contaminating distribution.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 668)
+        A contaminated normal distribution may have thicker tails than a normal distribution due to outliers
+        and so parametric methods assuming a normal distribution may not be accurate.
+        In particular, the sample mean and sample variance may not be accurate, decreasing in accuracy with the 
+        degree of contamination. 
+      </p>
+      <p>
+        A <strong>scale parameter</strong> for the distribution of a random variable X is a parameter σ
+        where the corresponding parameter for the random variable aX + b is aσ.
+        The mean and variance are scale parameters but they may not exist for all distributions. 
+        However, the median and interquartile range (IQR) do exist for all distributions.
+        The <strong>median absolute deviation</strong> is defined as is the median of |X - m|.
+        In this expression, m is the median of X.
+        The median absolute deviation is a scale parameter that also exists for all functions. 
+        The median absolute deviation is half the IQR for  symmetric distribution.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 670)
+       </p>
       <h3><a name="linear"></a>Linear Regression</h3>
       <p>
-        <strong>Linear regression</strong> is a method finding a statistical best fit for a line against a set of data.
-        (Knell, <i>Introductory R</i>, 224)
+        A <strong>least-squares line</strong> is a method for fitting a line against sample data against a 
+        straight line, minimizing the squares of the vertical deviations from the line.
+        A least-squares line is defined by the equation 
+        y = β̂<sub>0</sub> + β̂<sub>1</sub>x, where
+      </p>
+      <p class='formula'>
+         β̂<sub>0</sub> = ȳ - β̂<sub>1</sub>x̄ <br/>
+         β̂<sub>1</sub> = ∑<sub>i=1</sub><sup>n</sup>(y<sub>i</sub> - ȳ) / ∑<sub>i=1</sub><sup>n</sup>(x<sub>i</sub> - x̄)<sup>2</sup>
+      </p>
+      <p>
+        and x̄ - (1/n)∑<sub>i=1</sub><sup>n</sup>x<sub>i</sub>, ȳ - (1/n)∑<sub>i=1</sub><sup>n</sup>y<sub>i</sub>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 692)
+        The R function <code>lm(y ~ x)</code>, amongst other things, performs a least squares fit of <code>y</code>
+        as a function of <code>x</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: Let's use the R function <code>lm(y ~ x)</code> to work through Example 11.1.2
+        in DeGroot and Morris.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 689-692)
+        The array <strong>x</strong> is patient reaction to drug A and the 
+        array <strong>y</strong> is patient reaction to drug B.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- c(1.9, 0.8, 1.1, 0.1, -0.1, 4.4, 4.6, 1.6, 5.5, 3.4)
+          &gt; y &lt;- c(0.7, -1.0, -0.2, -1.2, -0.1, 3.4, 0.0, 0.8, 3.7, 2.0)
+          &gt; least.sq &lt;- lm(y ~ x)
+          &gt; least.sq
+          Call:
+          lm(formula = y ~ x)
+
+          Coefficients:
+          (Intercept)            x  
+              -0.7861       0.6850 
+        </pre>
+      </p>
+      <p>
+        So β̂<sub>0</sub> = -0.7861 and β̂<sub>1</sub> = 0.685. ▢
+      </p>
+      <p>
+        Least squares can be used to fit sample data against a function of many variables, as in
+        the formula below.
+      </p>
+      <p class='formula'>
+         y = β̂<sub>0</sub> + β̂<sub>1</sub>x<sub>1</sub> + ... + β̂<sub>k</sub>x<sub>k</sub>
+      </p>
+      <p>
+        The sum of squares of the variations are minimized, resulting in a set of simultaneous
+        equations, which can be solved for β̂<sub>0</sub>, β̂<sub>1</sub>, ...  β̂<sub>k</sub>.
+        This method can be extended to solving non-linear equations by letting 
+        x<sub>1</sub>, ... x<sub>k</sub> be other functions of x, such as polynomials and log functions.
       </p>
       <p>
         <strong>Example</strong>: We saw above that there was a correlation between text size
@@ -1694,8 +1780,6 @@
         </pre>
       </p>
       <p>
-        The R function <code>lm(y ~ x)</code> performs a linear regression of <code>y</code>
-        as a function of <code>x</code>.
         The function <code>abline()</code> takes the output of the linear regression and adds
         it to the plot.
         The graph generated is shown in Figure 10.
@@ -1703,6 +1787,13 @@
       <p class='picture'>
         <img src="images/log_unique_words.png"/><br/>
         Figure 10: Linear Regression of Log Count of Unique Words versus Log of Text Length
+      </p>
+      <p>
+        ▢
+      </p>
+      <p>
+        Knell explains the use of R for <strong>linear regression</strong>.
+        (Knell, <i>Introductory R</i>, 224)
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
