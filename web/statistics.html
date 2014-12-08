@@ -80,7 +80,14 @@
               <li><a href="#robust">Robust Estimation</a></li>
             </ul>
           </li>
-          <li><a href="#linear">Linear Regression</a></li>
+          <li>
+            <a href="#linear">Linear Regression</a>
+            <ul>
+              <li><a href="#leastsquares">Least-Squares</a></li>
+              <li><a href="#regression">Simple Linear Regression</a></li>
+              <li><a href="#general">General Linear Model</a></li>
+            </ul>
+          </li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
@@ -1709,6 +1716,7 @@
         (DeGroot and Morris, <i>Probability and Statistics</i>, 670)
        </p>
       <h3><a name="linear"></a>Linear Regression</h3>
+      <h4><a name="leastsquares"></a>Least-Squares</h4>
       <p>
         A <strong>least-squares line</strong> is a method for fitting a line against sample data against a 
         straight line, minimizing the squares of the vertical deviations from the line.
@@ -1726,16 +1734,20 @@
         as a function of <code>x</code>.
       </p>
       <p>
-        <strong>Example</strong>: Let's use the R function <code>lm(y ~ x)</code> to work through Example 11.1.2
+        <strong>Example</strong>: Let's use the R function <code>lm(y ~ x)</code> to work through Example 11.2.2
         in DeGroot and Morris.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 689-692)
-        The array <strong>x</strong> is patient reaction to drug A and the 
-        array <strong>y</strong> is patient reaction to drug B.
+        The data in this example relates the boiling point of water at different altitudes 
+        to the air pressure and is actually from Forbes. 
+        (Forbes, <i>Further Experiments and Remarks on the Measurement of Heights by the Boiling Point of Water</i>,
+        135-143)
+        The array <strong>x</strong> contains measurements of temperature at which the water boils and the 
+        array <strong>y</strong> contains the air pressure measurements.
       </p>
       <p class='formula'>
         <pre>
-          &gt; x &lt;- c(1.9, 0.8, 1.1, 0.1, -0.1, 4.4, 4.6, 1.6, 5.5, 3.4)
-          &gt; y &lt;- c(0.7, -1.0, -0.2, -1.2, -0.1, 3.4, 0.0, 0.8, 3.7, 2.0)
+          &gt; x &lt;- c(194.5, 194.25, 197.9, 198.43, 199.45, 199.95, 200.93, 201.15, 201.35, 201.3, 203.55, 204.6, 209.47, 208.57, 210.72, 211.95, 212.18)
+          &gt; y &lt;- c(20.79, 20.79, 22.4, 22.67, 23.15, 23.35, 23.89, 23.99, 24.02, 24.015, 25.14, 26.57, 28.49, 27.76, 29.04, 29.879, 30.064)
           &gt; least.sq &lt;- lm(y ~ x)
           &gt; least.sq
           Call:
@@ -1743,11 +1755,12 @@
 
           Coefficients:
           (Intercept)            x  
-              -0.7861       0.6850 
+              -81.088        0.523
         </pre>
       </p>
       <p>
-        So β̂<sub>0</sub> = -0.7861 and β̂<sub>1</sub> = 0.685. ▢
+        So β̂<sub>0</sub> = -81.088, β̂<sub>1</sub> = 0.523 and the equation of the line is y = -81.088 + 0.523x.
+        (There are some minor rounding errors in DeGroot and Morris' input data that different from Forbes.) ▢
       </p>
       <p>
         Least squares can be used to fit sample data against a function of many variables, as in
@@ -1760,7 +1773,7 @@
         The sum of squares of the variations are minimized, resulting in a set of simultaneous
         equations, which can be solved for β̂<sub>0</sub>, β̂<sub>1</sub>, ...  β̂<sub>k</sub>.
         This method can be extended to solving non-linear equations by letting 
-        x<sub>1</sub>, ... x<sub>k</sub> be other functions of x, such as polynomials and log functions.
+        x<sub>1</sub>, ... x<sub>k</sub> be other functions of x, such as powers of x and log functions.
       </p>
       <p>
         <strong>Example</strong>: We saw above that there was a correlation between text size
@@ -1791,9 +1804,194 @@
       <p>
         ▢
       </p>
+      <h4><a name="regression"></a>Simple linear regression</h4>
+      <p>
+        A <strong>regression function</strong> of Y on X<sub>1</sub>, ..., X<sub>k</sub> uses the random 
+        variables X<sub>1</sub>, ..., X<sub>k</sub> as predictors of the random variable Y. The expected
+        value of Y is 
+      </p>
+      <p class='formula'>
+         E(Y|x<sub>1</sub>, ..., x<sub>k</sub>) = β<sub>0</sub> + β<sub>1</sub>x<sub>1</sub> + ... + β<sub>k</sub>x<sub>k</sub>
+      </p>
+      <p>
+        where (x<sub>1</sub>, ..., x<sub>k</sub>) are observed values.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 699)
+      </p>
+      <p>
+        <strong>Simple linear regression</strong> relates Y to a single random variable X.
+        The relationship can be expressed as Y = β<sub>0</sub> + β<sub>1</sub>x<sub>1</sub> + ϵ.
+        The variable ϵ has mean 0 and variance σ<sup>2</sup>.
+        The assumptions of simple linear regression are
+      </p>
+      <p>
+        <ol>
+          <li>
+            The predictor is known. That is, there are observed values x<sub>1</sub>, ... , <sub>k</sub>x<sub>n</sub>.
+          </li>
+          <li>
+            The values x<sub>1</sub>, ... , x<sub>n</sub> are from a normal distribution.
+          </li>
+          <li>
+            Parameters β<sub>0</sub> and β<sub>1</sub> exist, such that the conditional mean of Y<sub>i</sub>
+            has the form β<sub>0</sub> + β<sub>1</sub>x<sub>i</sub>.
+          </li>
+          <li>
+            The variance σ<sup>2</sup> of Y<sub>i</sub> for different values of x<sub>i</sub> is constant.
+          </li>
+          <li>
+            The random variables Y<sub>1</sub>, ... , Y<sub>n</sub> are independent.
+          </li>
+        </ol>
+      </p>
+      <p>
+        If these assumptions are met, then the conditional distribution of Y is 
+      </p>
+      <p class='formula'>
+         ƒ(y|<strong>x</strong>, β<sub>0</sub>, β<sub>1</sub>, σ<sup>2</sup>) = 
+         (1/(2πσ<sup>2</sup>))<sup>n/2</sup>
+         exp[-(1/(2σ<sup>2</sup>))∑<sub>i=1</sub><sup>n</sup>(y<sub>i</sub> - β<sub>0</sub> - β<sub>1</sub>x<sub>i</sub>)<sup>2</sup>]
+      </p>
+      <p>
+        An MLE estimate of the variance of Y is 
+      </p>
+      <p class='formula'>
+         σ̂<sup>2</sup> = 1/(n)∑<sub>i=1</sub><sup>n</sup>(y<sub>i</sub> -  β̂<sub>0</sub> -  β̂<sub>1</sub>x<sub>i</sub>)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 700-701)
+      </p>
+      <p>
+        Statistical inference on simple linear regression can be made in a similar to the parameters discussed above.
+        The variable nσ̂<sup>2</sup>/σ<sup>2</sup> has a χ<sup>2</sup> distribution with n - 2 degrees of freedom.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 709)
+      </p>
+      <p>
+        A <strong>prediction interval</strong> for Y with coefficient 1 - α<sub>0</sub> is given by 
+      </p>
+      <p class='formula'>
+         Ŷ ± T<sub>n-2</sub><sup>2</sup>(1 - α<sub>0</sub>) σ′[1 + 1/n + (x - x̄)<sup>2</sup>/s<sub>x</sub><sup>2</sup>]<sup>½</sup>
+      </p>
+      <p>
+        where
+      </p>
+      <p class='formula'>
+         s<sub>x</sub><sup>2</sup> = (∑<sub>i=1</sub><sup>n</sup>(x<sub>i</sub> - x̄)<sup>2</sup>)<sup>½</sup>
+      </p>
+      <p class='formula'>
+         σ′ = (S<sup>2</sup>/(n - 2))<sup>½</sup>
+      </p>
+      <p class='formula'>
+         S<sup>2</sup> = ∑<sub>i=1</sub><sup>n</sup>(Y<sub>i</sub> - β<sub>0</sub> - β<sub>1</sub>x<sub>i</sub>)<sup>2</sup>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 710-716)
+      </p>
+      <p>
+        <strong>Residuals</strong> are the difference between observed and predicted values
+        e<sub>i</sub> = y<sub>i</sub> - ŷ<sub>i</sub>, for i = 1, ..., n.
+        The residuals should be randomly distributed.
+        If there is some kind of pattern of the residuals that may indicate that a straight line
+        is not the best model for the data.
+        The residuals are often plotted as a function of x<sub>i</sub> to see if they exhibit a pattern,
+        which is often called analysis of residuals.
+        A <strong>normal quantile plot</strong> or Q-Q plot, is a chart of the quantiles of the residuals
+        versus the quantiles of the normal distribution. 
+        The plot should be a straight line. If not, the residuals may belong to some other kind of 
+        distribution than the normal distribution.
+      </p>
+      <p>
+        <strong>Example</strong>: Let's find the residuals for the unique word count example above.
+        Calling the function <code>summary()</code> on the linear regression object gives information
+        about residuals, as shown in the R script below. 
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; summary(unique.lm)
+
+          Call:
+          lm(formula = y ~ x)
+
+          Residuals:
+              Min      1Q  Median      3Q     Max 
+          -1.2653 -0.2087  0.1326  0.2377  0.3945 
+
+          Coefficients:
+                      Estimate Std. Error t value Pr(>|t|)    
+          (Intercept)  1.15877    0.14502    7.99 2.28e-11 ***
+          x            0.68528    0.01936   35.39  &lt; 2e-16 ***
+          ---
+          Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+          Residual standard error: 0.3426 on 68 degrees of freedom
+          Multiple R-squared:  0.9485,  Adjusted R-squared:  0.9477 
+          F-statistic:  1252 on 1 and 68 DF,  p-value: &lt; 2.2e-16
+
+          &gt; plot(unique.lm)
+
+        </pre>
+      </p>
+      <p>
+        This shows that the median residual is 0.1326.
+        Besides the residual summary, a lot of other quite advanced information is displayed as well, 
+        which I won't go into.
+        The <code>plot(residual.object)</code> displays a plot of the residuals, as shown in Figure 11.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_text_length_residuals.png"/><br/>
+        Figure 11: Residuals of Log Text Length versus Log Unique Word Count
+      </p>
+      <p>
+        From Figure 11, it can be seen that the distribution of residuals is not really random.
+        Therefore, a log-log relation between text size and unique word count is not perfect.
+        There are several charts generated from the <code>plot(residual.object)</code> above,
+        including a Q-Q plot.
+        ▢
+      </p>
       <p>
         Knell explains the use of R for <strong>linear regression</strong>.
-        (Knell, <i>Introductory R</i>, 224)
+        (Knell, <i>Introductory R</i>, 222-260)
+      </p>
+      <h4><a name="general"></a>General Linear Model</h4>
+      <p>
+        The general linear model generalizes the simple model to multiple predictor variables
+        <strong>z<sub>i</sub></strong> = (z<sub>i0</sub>, ... z<sub>ip-1</sub>) with a vector
+        of parameters 
+        <strong>β</strong> = (β<sub>0</sub>, ..., β<sub>p-1</sub>).
+        A similar set of five assumptions is necessary. 
+        The dependent values Y<sub>i</sub> for i = 1, ..., n have the same variance σ.
+        An expected value of Y is given by
+      </p>
+      <p class='formula'>
+         E(Y<sub>i</sub>| <strong>z<sub>i</sub></strong>, <strong>β</strong>) = 
+         z<sub>i0</sub>β<sub>0</sub> + z<sub>i1</sub>β<sub>1</sub> + ... + x<sub>ip-1</sub>β<sub>k</sub>
+      </p>
+      <p>
+        The predictor variables are written in an n × p matrix <strong>Z</strong> = [z<sub>ij</sub>]
+        for i = 0, ...n, j = 0, ... p - 1, called the <strong>design matrix</strong>.
+        The least squares estimator <strong>β̂<strong> of <strong>β<strong> is 
+      </p>
+      <p class='formula'>
+        <strong>β̂<strong> = (<strong>Z</strong>′<strong>Z</strong>)<sup>-1</sup><strong>Z</strong>′<strong>Y</strong>
+      </p>
+      <p>
+        where <strong>Z′</strong> is the transpose of <strong>Z</strong>.
+        The mean of the dependent variable Y can be expressed in matrix form as
+      </p>
+      <p class='formula'>
+        E(<strong>Y<strong>) = <strong>Z</strong><strong>β<strong>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 736-742)
+      </p>
+      <p>
+        The residuals are similar to simple linear regression,
+      </p>
+      <p class='formula'>
+        e<sub>i</sub> = y<sub>i</sub> - ŷ<sub>i</sub> = 
+        y<sub>i</sub> - z<sub>i0</sub>β<sub>0</sub> - ... z<sub>ip-1</sub>β<sub>p-1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 749)
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
@@ -1803,6 +2001,9 @@
         </li>
         <li>
           Bird, Steven, Ewan Klein, and Edward Loper. <i>Natural Language Processing with Python</i>. O’Reilly Media, Inc., 2009.
+        </li>
+        <li>
+          Forbes, J. D. “Further Experiments and Remarks on the Measurement of Heights by the Boiling Point of Water.” Transactions of the Royal Society of Edinburgh 21 (1857): 135–43.
         </li>
         <li>
           DeGroot, Morris H., and Mark J. Schervish. <i>Probability and Statistics</i>. 4 edition. Boston: Pearson, 2011.
