@@ -42,3 +42,24 @@ p.formula {
 p.picture {
   text-align: center;
 }
+
+/* Tables */
+table {
+    background-color: #EEEEEE;
+    border: 1px solid gray;
+    border-collapse: collapse;
+    padding: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: #CCCCCC;
+    border: 1px solid gray;
+    padding: 0.5em;
+}
+
+td {
+    border: 1px solid gray;
+    padding: 0.5em;
+}

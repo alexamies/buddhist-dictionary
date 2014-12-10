@@ -86,6 +86,7 @@
               <li><a href="#leastsquares">Least-Squares</a></li>
               <li><a href="#regression">Simple Linear Regression</a></li>
               <li><a href="#general">General Linear Model</a></li>
+              <li><a name="#anova">Analysis of Variance</a></li>
             </ul>
           </li>
           <li><a href="#references">References</a></li>
@@ -1944,11 +1945,19 @@
         From Figure 11, it can be seen that the distribution of residuals is not really random.
         Therefore, a log-log relation between text size and unique word count is not perfect.
         There are several charts generated from the <code>plot(residual.object)</code> above,
-        including a Q-Q plot.
+        including a Q-Q plot, which is shown in Figure 12.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_qqplot.png"/><br/>
+        Figure 12: QQ Plot for Regression Analysis of Log Text Length versus Log Unique Word Count
+      </p>
+      <p>
+        The Q-Q plot deviates from a straight line, showing that the distribution of errors is not
+        perfectly normal.
         ▢
       </p>
       <p>
-        Knell explains the use of R for <strong>linear regression</strong>.
+        Knell explains the use of R for simple linear regression.
         (Knell, <i>Introductory R</i>, 222-260)
       </p>
       <h4><a name="general"></a>General Linear Model</h4>
@@ -1968,17 +1977,17 @@
       <p>
         The predictor variables are written in an n × p matrix <strong>Z</strong> = [z<sub>ij</sub>]
         for i = 0, ...n, j = 0, ... p - 1, called the <strong>design matrix</strong>.
-        The least squares estimator <strong>β̂<strong> of <strong>β<strong> is 
+        The least squares estimator <strong>β̂</strong> of <strong>β</strong> is 
       </p>
       <p class='formula'>
-        <strong>β̂<strong> = (<strong>Z</strong>′<strong>Z</strong>)<sup>-1</sup><strong>Z</strong>′<strong>Y</strong>
+        <strong>β̂</strong> = (<strong>Z</strong>′<strong>Z</strong>)<sup>-1</sup><strong>Z</strong>′<strong>Y</strong>
       </p>
       <p>
         where <strong>Z′</strong> is the transpose of <strong>Z</strong>.
         The mean of the dependent variable Y can be expressed in matrix form as
       </p>
       <p class='formula'>
-        E(<strong>Y<strong>) = <strong>Z</strong><strong>β<strong>
+        E(<strong>Y</strong>) = <strong>Z</strong><strong>β</strong>
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 736-742)
@@ -1992,6 +2001,136 @@
       </p>
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 749)
+        You can do a generalized linear regression in R with the <code>glm()</code> function.
+      </p>
+      <h4><a name="anova"></a>Analysis of Variance</h4>
+      <p>
+        <strong>Analysis of variance</strong> (ANOVA) is an application of multiple regression where the design matrix
+        has a special form.
+        An ANOVA <strong>one-way layout</strong> tests whether the means of samples μ<sub>i</sub> from p different populations 
+        are the same. The variance σ  is the same for all of the different populations.
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ<sub>1</sub> = ... μ<sub>p</sub><br/>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        If H<sub>0</sub> is true then the test statistic
+      </p>
+      <p class='formula'>
+         U</sup>2</sup> = [S<sub>Betw</sub><sup>2</sup>/(p - 1)] / [S<sub>Resid</sub><sup>2</sup>/(n - p)]
+      </p>
+      <p>
+        has an F distribution with degrees of freedom p - 1 and n - p. 
+        The total sum of squares 
+      </p>
+      <p class='formula'>
+         S<sub>Tot</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>p</sup>∑<sub>j=1</sub><sup>n<sub>i</sub></sup>
+         (Y<sub>ij</sub> - Ȳ<sub>++</sub>)<sup>2</sup>
+      </p>
+      <p>
+        is partitioned into two parts, the residual sum of squares and the between samples sum of squares:
+      </p>
+      <p class='formula'>
+         S<sub>Tot</sub><sup>2</sup> = S<sub>Resid</sub><sup>2</sup> + S<sub>Betw</sub><sup>2</sup>
+      </p>
+      <p>
+        where the parts are defined as
+      </p>
+      <p class='formula'>
+         S<sub>Resid</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>p</sup>∑<sub>j=1</sub><sup>n<sub>i</sub></sup> 
+         (Y<sub>ij</sub> - Ȳ<sub>i+</sub>)<sup>2</sup> <br/>
+         S<sub>Betw</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>p</sup><sup>n<sub>i</sub>(Ȳ<sub>i+</sub> - Ȳ<sub>++</sub>)<sup>2</sup>
+      </p>
+      <p>
+        where
+      </p>
+      <p class='formula'>
+         Ȳ<sub>++</sub> = (1/n)∑<sub>i=1</sub><sup>p</sup>∑<sub>j=1</sub><sup>n<sub>i</sub></sup>Y<sub>ij</sub>
+         = (1/n)∑<sub>i=1</sub><sup>p</sup>n<sub>i</sub>Ȳ<sub>i+</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 754-761)
+        You can do an analysis of variance in R with the <code>anova()</code> function, which takes the output 
+        of the generalized linear regression function <code>glm()</code>, or the <code>anova()</code> function, 
+        which takes a formula.
+      </p>
+      <p>
+        <strong>Example</strong>: Let's work through 11.6.5 in DeGroot and Morris using R.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 755-760)
+        There are p = 4 different kinds of hot dogs (Beef, Meat, Poultry, Specialty) with different calorie counts. 
+        We want to test whether the average calorie counts for the different kinds of hotdogs are the same.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; type &lt;- c("Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty") 
+          &gt; n = length(type)
+          &gt; p = 4
+          &gt;  calories &lt;- c(186, 181, 176, 149, 184, 190, 158, 139, 175, 148, 152, 111, 141, 153, 190, 157, 131, 149, 135, 132, 173, 191, 182, 190, 172, 147, 146, 139, 175, 136, 179, 153, 107, 195, 135, 140, 138, 129, 132, 102, 106, 94, 102, 87, 99, 107, 113, 135, 142, 86, 143, 152, 146, 144, 155, 170, 114, 191, 162, 146, 140, 187, 180)
+          &gt; hotdog.aov = aov(calories ~ type)
+          &gt; summary(hotdog.aov)
+            Df Sum Sq Mean Sq F value   Pr(>F)    
+            type         3  19454    6485    11.6 4.48e-06 ***
+            Residuals   59  32995     559                     
+            ---
+            Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+          &gt; qf(0.99, p - 1, n - p)
+          [1] 4.132055
+          &gt; qf(0.999, p - 1, n - p)
+          [1] 6.185016
+        </pre>
+      </p>
+      <p>
+        The "formula" here relates the vector <code>type</code> of hot dog types to the vector <code>calories</code>
+        of corresponding calorie counts.
+        The test statistic is 11.6, which has a p-value of 4.48<sup>-6</sup>, which is rejected at most levels of 
+        significance, including α<sub>0</sub> = 0.001. 
+        This is demonstrated by the calls to the F distribution quantile R function <code>qf(p, df1, df2)</code>.
+        Therefore, the H<sub>0</sub> hypothesis, that the mean calorie counts are the same, is rejected.
+        ▢
+      </p>
+      <p>
+        <strong>Example</strong>: This example looks at average word frequencies in Buddhist texts.
+        The word frequencies of function words should be similar across texts of the same period because the
+        do not depend greatly on the content of the text.
+        One of the most frequently occuring function words in literary Chinese is the nominalizer 所 suǒ "it."
+        所 suǒ is placed in front of a verb to make the objects acted on by the verb the subject.
+        (Pulleybank, <i>Outline of Classical Chinese Grammar</i>, 68)
+        It can be roughly understood as the English pronoun "it."
+        The frequencies per thousand words of 所 suǒ in several texts are given in Table 2. 
+        The texts are Biographies of Eminent Monks, Scroll《高僧傳》 by Huijiao (497-554),
+        Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》 by Yang Xuanzhi (c. 547),
+        and The Great Calming and Contemplation 《摩訶止觀》by Zhi Yi (538—597).
+      </p>
+      <table>
+        <caption>Table 2: Frequencies per Thousand Words of 所 Suǒ</caption>
+        <tbody>
+          <tr>
+            <th>Text</th>
+            <th>Biographies of Eminent Monks</th>
+            <th>Buddhist Monasteries in Luoyang</th>
+            <th>Great Calming</th>
+          </tr>
+          <tr><th>Abbreviation</th><th>GSZ</th><th>Luoyang</th><th>MHZG</th></tr>
+          <tr><th>Scroll</th><th>Frequency</th><th>Frequency</th><th>Frequency</th></tr>
+          <tr><td>1</td><td>7.27</td><td>6.66</td><td>5.89</td></tr>
+          <tr><td>2</td><td>5.76</td><td>6.36</td><td>6.12</td></tr>
+          <tr><td>3</td><td>6.02</td><td>7.45</td><td>4.27</td></tr>
+          <tr><td>4</td><td>3.00</td><td>6.43</td><td>5.15</td></tr>
+          <tr><td>5</td><td>4.84</td><td>4.99</td><td>4.22</td></tr>
+          <tr><td>6</td><td>5.92</td><td>&nbsp;</td><td>3.16</td></tr>
+          <tr><td>7</td><td>5.66</td><td>&nbsp;</td><td>4.28</td></tr>
+          <tr><td>8</td><td>3.69</td><td>&nbsp;</td><td>2.94</td></tr>
+          <tr><td>9</td><td>4.79</td><td>&nbsp;</td><td>3.35</td></tr>
+          <tr><td>10</td><td>4.76</td><td>&nbsp;</td><td>5.60</td></tr>
+          <tr><td>11</td><td>3.88</td><td>&nbsp;</td><td></td></tr>
+          <tr><td>12</td><td>5.35</td><td>&nbsp;</td><td></td></tr>
+          <tr><td>13</td><td>5.61</td><td>&nbsp;</td><td></td></tr>
+          <tr><td>14</td><td>5.03</td><td>&nbsp;</td><td></td></tr>
+        </tbody>
+      </table>
+      <p>
+
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
@@ -2013,6 +2152,9 @@
         </li>
         <li>
           Krippendorff, Klaus H. <i>Content Analysis: An Introduction to Its Methodology</i>. Third Edition edition. SAGE Publications, Inc, 2012.
+        </li>
+        <li>
+          Pulleyblank, Edwin G. <i>Outline of Classical Chinese Grammar</i>. Vancouver: UBC Press, 1995.
         </li>
         <li>
           Yau, Chi. <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>. Self, 2014. 

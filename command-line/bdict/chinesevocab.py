@@ -52,8 +52,10 @@ class ChineseVocabulary:
         finder = ngramfinder.NGramFinder(5)
         reader = cjktextreader.CJKTextReader()
         text = reader.ReadText(corpus_entry)
+        print('Text length %d ' % len(text))
         splitter = chinesephrase.ChineseWordExtractor(wdict)
         words = splitter.ExtractWords(text, leave_punctuation=True)
+        print('Words found %d ' % len(words))
         wc = 0
         char_count = 0
         for word in words:

@@ -44,10 +44,11 @@ class CJKTextReader:
         lines = []
         if 'type' in corpus_entry and corpus_entry['type'] == 'web':
             doc_url = corpus_entry['plain_text']
-            # print('Reading from URL %s ' % doc_url)
+            print('Reading from URL %s ' % doc_url)
             strings = htmldoc.readWebToPlainStrings(doc_url)
             line = ''.join(strings)
             lines.append(line)
+            print('Characters read %d ' % len(line))
         elif 'type' in corpus_entry and corpus_entry['type'] == 'file':
             directory = self.config['corpus_directory']
             infile = corpus_entry['plain_text']
@@ -84,7 +85,7 @@ class CJKTextReader:
                 if pos != -1:
                     found_start = True
                     input_str = input_str[pos:]
-                    # print('CJKTextReader.ReadText start_marker: %s found' % start_marker)
+                    print('CJKTextReader.ReadText start_marker: %s found' % start_marker)
                 else:
                     continue
             if found_end:

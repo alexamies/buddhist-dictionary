@@ -8,6 +8,8 @@ Period: Sui
 
 HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll3-gloss.html "HTML with gloss")
 
+Vocabulary analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/mhzg-scroll3-analysis.md "Vocabulary analysis")
+
 Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
