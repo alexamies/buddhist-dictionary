@@ -2069,7 +2069,7 @@
           &gt;  calories &lt;- c(186, 181, 176, 149, 184, 190, 158, 139, 175, 148, 152, 111, 141, 153, 190, 157, 131, 149, 135, 132, 173, 191, 182, 190, 172, 147, 146, 139, 175, 136, 179, 153, 107, 195, 135, 140, 138, 129, 132, 102, 106, 94, 102, 87, 99, 107, 113, 135, 142, 86, 143, 152, 146, 144, 155, 170, 114, 191, 162, 146, 140, 187, 180)
           &gt; hotdog.aov = aov(calories ~ type)
           &gt; summary(hotdog.aov)
-            Df Sum Sq Mean Sq F value   Pr(>F)    
+            Df Sum Sq Mean Sq F value   Pr(&gt;F)    
             type         3  19454    6485    11.6 4.48e-06 ***
             Residuals   59  32995     559                     
             ---
@@ -2102,6 +2102,7 @@
         Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》 by Yang Xuanzhi (c. 547),
         and The Great Calming and Contemplation 《摩訶止觀》by Zhi Yi (538—597).
       </p>
+      <p>
       <table>
         <caption>Table 2: Frequencies per Thousand Words of 所 Suǒ</caption>
         <tbody>
@@ -2127,10 +2128,57 @@
           <tr><td>12</td><td>5.35</td><td>&nbsp;</td><td></td></tr>
           <tr><td>13</td><td>5.61</td><td>&nbsp;</td><td></td></tr>
           <tr><td>14</td><td>5.03</td><td>&nbsp;</td><td></td></tr>
+          <tr><th>Mean</th><th>5.11</th><th>6.38</th><th>4.49</th></tr>
         </tbody>
       </table>
+      </p>
       <p>
-
+        A test of whether the means of word frequency for 所 suǒ for each of the three texts is
+        done with ANOVA using the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; gsz &lt;- c(7.27, 5.76, 6.02, 3.00, 4.84, 5.92, 5.66, 3.69, 4.79, 4.76, 3.88, 5.35, 5.61, 5.03)
+          &gt; summary(gsz)
+             Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+            3.000   4.768   5.190   5.113   5.735   7.270 
+          &gt; luoyang &lt;- c(6.66, 6.36, 7.45, 6.43, 4.99)
+          &gt; summary(luoyang)
+             Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+            4.990   6.360   6.430   6.378   6.660   7.450 
+          &gt; mhzg &lt;- c(5.89, 6.12, 4.27, 5.15, 4.22, 3.16, 4.28, 2.94, 3.35, 5.60)
+          &gt; summary(mhzg)
+             Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+            2.940   3.568   4.275   4.498   5.487   6.120 
+          &gt; texts &lt;- c("gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "luoyang", "luoyang", "luoyang", "luoyang", "luoyang", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg")
+          &gt; frequencies &lt;- c(gsz, luoyang, mhzg)
+          &gt; length(frequencies)
+          [1] 29
+          &gt; frequencies.aov = aov(frequencies ~ texts)
+          &gt; summary(frequencies.aov)
+                      Df Sum Sq Mean Sq F value Pr(&gt;F)  
+          texts        2  11.78   5.891   5.014 0.0144 *
+          Residuals   26  30.55   1.175                 
+          ---
+          Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+          &gt; p &lt;- 3
+          &gt; n &lt;- length(frequencies)
+          &gt; qf(0.99, p - 1, n - p)
+          [1] 5.526335
+          &gt; qf(0.95, p - 1, n - p)
+          [1] 3.369016
+        </pre>
+      </p>
+      <p>
+        The output of the summary of <code>aov()</code> result shows that F value = 5.014.
+        The computed values of the inverse of the cumulative F distribution at the
+        α<sub>0</sub> = 0.01 and 0.05 levels are 
+        F<sup>-1</sup>(1 - 0.01) = 5.526 and F<sup>-1</sup>(1 - 0.05) = 3.369.
+        The ANOVA shows that the null hypothesis that the means are equal should be rejected at the 0.05
+        level of significance but not the 0.01 level, since 
+        3.369 &lt; F value &lt; 5.526.
+        This is consistent with the ANOVA output for the power function Pr(&gt;F) = 0.0144.
+        ▢
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
