@@ -89,6 +89,7 @@
               <li><a name="#anova">Analysis of Variance</a></li>
             </ul>
           </li>
+          <li><a href="#simulation">Simulation</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
@@ -2133,6 +2134,13 @@
       </table>
       </p>
       <p>
+        A box plot generated with R is shown in Figure 13.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_word_freq_3texts.png"/><br/>
+        Figure 13: Box Plot of Frequencies per Thousand Words of 所 Suǒ
+      </p>
+      <p>
         A test of whether the means of word frequency for 所 suǒ for each of the three texts is
         done with ANOVA using the R commands below.
       </p>
@@ -2179,6 +2187,26 @@
         3.369 &lt; F value &lt; 5.526.
         This is consistent with the ANOVA output for the power function Pr(&gt;F) = 0.0144.
         ▢
+      </p>
+      <h3><a name="simulation"></a>Simulation</h3>
+      <p>
+        Simulation can be used to solve problems where there is no closed-form solution.
+        Examples are computing means, variances, and quantiles for formulas that cannot be solved
+        algebraically.
+        The simulations usually make use of large numbers of randomly generated numbers.
+        Statistical simulation is sometimes called <strong>Monte Carlo analysis</strong> because of the use
+        of randomness.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 791)
+      </p>
+      <p>
+        R functions can be used to generate random values with the different distributions discussed in this
+        document.
+        Figure 14 shows a histogram produced from the R function <code>rnorm(10000)</code> that produces
+        10,000 random numbers with a standard normal distribution.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_random_normal.png"/><br/>
+        Figure 14: Histogram of Random Values from a Standard Normal Distribution
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
