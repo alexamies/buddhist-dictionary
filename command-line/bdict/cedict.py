@@ -42,7 +42,7 @@ class ChineseEnglishDict:
                         key = traditional
                     if traditional == '\\N':
                         traditional = entry['simplified']
-                        entry[key] = traditional
+                        entry['traditional'] = traditional
                     if key not in wdict:
                         entry['other_entries'] = []
                         wdict[key] = entry

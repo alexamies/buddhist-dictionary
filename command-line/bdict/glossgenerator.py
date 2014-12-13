@@ -84,6 +84,7 @@ class GlossGenerator:
         else:
             text = reader.ReadText(corpus_entry)
         dictionary = cedict.ChineseEnglishDict()
+        # print('glossgenerator, charset: %s' % corpus_entry['charset'])
         wdict = dictionary.OpenDictionary(corpus_entry['charset']) # Word dictionary
         dataset = phrasematcher.PhraseDataset()
         pdict = dataset.Load()
@@ -94,6 +95,7 @@ class GlossGenerator:
         previous = None
         for element in elements:
             if element in combined_dict:
+                # print('glossgenerator, element: %s' % element)
                 entry = combined_dict[element]
                 entry_id = entry['id']
                 url = ''
@@ -220,7 +222,7 @@ class GlossGenerator:
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
         """
-        # print('_Word element_text = %s' % element_text)
+        #print('_Word element_text = %s' % element_text)
         if self.output_type == POS_TAGGED_TYPE:
             return self.tagger.TagWord(element_text) + '\n'
         most_freq_entry = self.tagger.MostFrequentWord(entry['traditional'], previous)

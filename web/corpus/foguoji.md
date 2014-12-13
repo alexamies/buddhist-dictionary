@@ -6,8 +6,6 @@ Period: 339-420
 
 HTML for full document with English gloss: [HTML file] (corpus_entry.php?uri=gloss/foguoji-gloss.html&html=true "HTML file")
 
-HTML for passage with English gloss: [HTML file] (corpus_entry.php?uri=gloss/foguoji-yutian-gloss.html&html=true "HTML file")
-
 Analysis of passage: [Vocabulary analysis] (corpus_entry.php?uri=analysis/foguoji-yutian-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
@@ -21,6 +19,11 @@ Alternate formats: [Plain text file] (corpus/foguoji.txt "Plain Text")
 Start marker: 法顯等欲觀行像
 
 End marker: 其城西七八里有僧伽藍
+
+### Passage
+法顯等欲觀行像，停三月日。
+
+其國中十四大僧伽藍，不數小者。從四月一日，城裏便掃灑道路，莊嚴巷陌。其城門上張大幃幕，事事嚴餝，王及夫人、采女皆住其中。瞿摩帝僧是大乘學，王所敬重，最先行像。離城三四里，作四輪像車，高三丈餘，狀如行殿，七寶莊校，懸繒幡蓋。像立車中，二菩薩侍，作諸天侍從，皆以金銀彫瑩，懸於虛空。像去門百步，王脫天冠，易著新衣，徒跣持華香，翼從出城迎像，頭面禮足，散華燒香。像入城時，門樓上夫人、采女遙散衆華，紛紛而下。如是莊嚴供具，車車各異。一僧伽藍則一日行像。白月一日爲始，至十四日行像乃訖。行像訖，王及夫人乃還宮耳。
 
 ### English translation
 
