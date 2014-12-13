@@ -4,9 +4,9 @@ Description: Fragment from the Chinese text of the document in the Taisho Tripit
 
 Period: 290-306
 
-HTML with English gloss: HTML file
+HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/guanxifo-xingxiang1-fragb-gloss.html&html=true "HTML file")
 
-Analysis: Vocabulary analysis
+Analysis:  [Vocabulary analysis] (corpus_entry.php?uri=analysis/guanxifo-xingxiang1-fragb-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 
@@ -18,9 +18,9 @@ Translator: Buddhabhadra
 
 Document: Document at CBETA
 
-Start marker: 諸善男子善女人。於佛滅
+Start marker: 諸善男子善女人
 
-End marker: 佛十二部經。四阿含。
+End marker: 佛十二部經。
 
 English translation: none
 

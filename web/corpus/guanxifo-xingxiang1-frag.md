@@ -18,9 +18,9 @@ Translator: Buddhabhadra
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/T16n0695_001 "Document at CBETA")
 
-Start marker: 以四月八日夜半明星出時
+Start marker: 佛言：「持好香浴佛形像者
 
-End marker: 諸善男子善女人。於佛
+End marker: 佛言：「我累功
 
 ### English translation
 All Buddhas of the ten directions are born in the middle of the night on the 8th day of the 4th month; all Buddhas of the ten directions take leave of their homes and enter the mountains to study the Way in the middle of the night on the 8th day of the 4th month; all Buddhas of the ten directions attain Buddhahood in the middle of the night on the 8th day of the 4th month; all Buddhas of the ten directions achieve nirvāṇa in the middle of the night on the 8th day of the 4th month. The Buddha said, ‘The 8th day of the 4th month is chosen for its being on the cusp of spring and summer, when perils and transgressions are all extinguished. The myriad beings all come to life, while poisonous pneuma are not yet abroad. Neither cold nor hot, the air of the season is harmonious and agreeable. This is the very day on which a Buddha is born. All good men and women, after the Buddha’s passage to nirvāṇa, should dwell deep in their hearts on the strength of the Buddha’s immeasurable merit. By washing an image of the Buddha as if he were still alive, one attains immeasurable good fortune, beyond all reckoning.

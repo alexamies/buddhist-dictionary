@@ -18,7 +18,7 @@ Translator: Buddhabhadra
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/T22n1425_019 "Document at CBETA")
 
-Start marker: 若佛生日大會。
+Start marker: 若佛生日大會
 
 End marker: 若比丘道路行入聚落宿
 
