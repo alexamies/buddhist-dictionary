@@ -3,7 +3,7 @@
 #
 
 FROM ubuntu:14.04
-MAINTAINER Alex <alex@chinesenotes.com>
+MAINTAINER Alex <alex@ntireader.org>
 RUN apt-get update && apt-get install -y apache2 php5 php5-mysql
 
 ENV APACHE_RUN_USER www-data
