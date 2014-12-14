@@ -73,7 +73,7 @@ require_once 'inc/word_detail_top.php' ;
           $grammarCn = $grammarCnLookup[$grammarEn];
           $id = $words[$i]->getId();
           print("<tr>\n" .
-                "<td><a href='$script?id=$id'>" . $words[$i]->getSimplified() . "</a></td>\n" .
+                "<td><a href='word_detail.php?id=$id'>" . $words[$i]->getSimplified() . "</a></td>\n" .
                 "<td>" . $words[$i]->getTraditional() . "</td>\n" .
                 "<td>" . $words[$i]->getPinyin() . "</td>\n" .
                 "<td>\n" . $words[$i]->getEnglish() . "</td>\n" .

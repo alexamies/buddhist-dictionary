@@ -78,7 +78,7 @@ if (isset($_REQUEST['id'])) {
     } else {
         $searchTerm = utf8_urldecode($searchTerm);
         $matchType = 'exact';
-        if (isset($_REQUEST['word'])) {
+        if (isset($_REQUEST['word']) && isset($_REQUEST['matchType'])) {
             $matchType = $_REQUEST['matchType'];
         }
         $words = $wordsDAO->getWords($searchTerm, $matchType);
