@@ -115,13 +115,13 @@ class POSTagger:
         Returns:
           A dictionary word entry
         """
-        word = None
+        retword = None
         # print('MostFrequentWord traditional = %s, previous = %s' % (traditional, previous))
         if previous:
-            word = self.bigram_tagger.MostFrequentWord(previous, word)
-        if not word:
-            word = self.unigram_tagger.MostFrequentWord(word)
-        return word
+            retword = self.bigram_tagger.MostFrequentWord(previous, word)
+        if not retword:
+            retword = self.unigram_tagger.MostFrequentWord(word)
+        return retword
 
     def TagWord(self, word, previous=None):
         """Find the most frequently used word sense and tag it.
@@ -138,6 +138,8 @@ class POSTagger:
         if word not in self.wdict:
             return '%s/%s[%s | %s]' % (word, 'UNKNOWN', 'PINYIN', 'ENGLISH')
         word_entry = self.MostFrequentWord(word)
+        if not word_entry:
+            print('No word_entry for %s\n' % word)
         tag = self.GetTag(word_entry)
         pinyin = word_entry['pinyin']
         gloss = cedict.GetGloss(word_entry)

@@ -30,7 +30,7 @@ class CorpusManager:
             A list of corpus entries.
         """
         tagged_entries = []
-        corpus = self.LoadCorpus()
+        corpus = self.LoadCorpusFlattened()
         for entry in corpus:
             if 'pos_tagged' in entry:
                 tagged_entries.append(entry)
