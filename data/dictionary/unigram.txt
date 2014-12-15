@@ -277,6 +277,7 @@
 光/NN[guāng | light]	光	1229	4
 前/VA[qián | before]	前	681	4
 懸/VV[xuán | to hang]	懸	4885	4
+重/NN[chóng | layer]	重	3279	4
 不可思議/VA[bù kě sīyì | inconceivable]	不可思議	7158	4
 種種/M[zhǒngzhǒng | all kinds of]	種種	7155	4
 罪/NN[zuì | an offense]	罪	3869	4
@@ -337,7 +338,6 @@
 味/NN[wèi | taste]	味	5069	3
 夫人/NN[fūren | lady]	夫人	10227	3
 禮/VV[lǐ | bow]	禮	33656	3
-重/VV[chóng | to repeat]	重	3280	3
 至/P[zhì | arrive]	至	844	3
 願/NN[yuàn | a vow]	願	30499	3
 一日/NN[yī rì | first of the month]	一日	33706	3
@@ -367,7 +367,6 @@
 月/NN[yuè | month]	月	672	3
 譬如/VV[pìrú | for example]	譬如	6902	3
 起/VV[qǐ | to get up]	起	1257	3
-濟/VV[jì | to aid]	濟	3957	3
 慧眼/NN[Huì yǎn | wisdom eyes]	慧眼	32340	3
 高/VA[gāo | high]	高	953	3
 亦復/AD[yìfù | also]	亦復	33037	3
@@ -574,6 +573,7 @@
 似/VV[sì | to seem]	似	3637	2
 無法/AD[wúfǎ | unable]	無法	2124	2
 胎/NN[tāi | womb]	胎	33415	2
+濟/VV[jì | to aid]	濟	36982	2
 節/NN[jié | piece]	節	33263	2
 上/NN[shàng | top]	上	585	2
 下/VV[xià | to drop]	下	582	2
@@ -808,6 +808,7 @@
 瞋/NN[chēn | hatred]	瞋	17988	1
 張/M[zhāng | sheet]	張	3023	1
 向/P[xiàng | towards]	向	526	1
+濟/VV[jì | to ferry]	濟	3957	1
 宣/VV[xuān | to declare]	宣	8519	1
 熾/NN[chì | flame]	熾	3955	1
 頂/NN[dǐng | head]	頂	5679	1
@@ -901,7 +902,6 @@
 耳/NN[ěr | ear]	耳	5062	1
 外國/NN[wàiguó | foreign country]	外國	9173	1
 事事/PN[shìshì | everything]	事事	33711	1
-重/VA[zhòng | heavy]	重	3279	1
 增/VV[zēng | to increase]	增	836	1
 諮/VV[zī | to consult]	諮	33392	1
 唯然/VV[wěirán | just so]	唯然	33158	1
