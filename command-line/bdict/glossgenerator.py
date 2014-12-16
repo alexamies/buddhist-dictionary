@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Module to generate output text with gloss from a Chinese text document. ====
 
 The analysis is output in either HTML format with links back to the phrase 
@@ -222,7 +223,6 @@ class GlossGenerator:
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
         """
-        #print('_Word element_text = %s' % element_text)
         if self.output_type == POS_TAGGED_TYPE:
             return self.tagger.TagWord(element_text) + '\n'
         most_freq_entry = self.tagger.MostFrequentWord(entry['traditional'], previous)
@@ -232,6 +232,8 @@ class GlossGenerator:
         if not 'id' in entry:
             return element_text
         entry_id = entry['id']
+        if element_text == u'重':
+            print('_Word element_text = %s, english = %s' % (element_text, entry['english']))
         # print('_Word entry_id = %s' % entry_id)
         url = 'word_detail.php?id=%s' % entry_id
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)

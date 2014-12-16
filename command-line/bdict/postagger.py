@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """Module to do part-of-speech tagging. =======================================
 
 The part-of-speech (POS) is given in Penn Chinese Treebank format. At present,
@@ -116,11 +117,16 @@ class POSTagger:
           A dictionary word entry
         """
         retword = None
-        # print('MostFrequentWord traditional = %s, previous = %s' % (traditional, previous))
+        if word and word == u'重':
+            print('MostFrequentWord word = %s, previous = %s' % (word, previous))
         if previous:
             retword = self.bigram_tagger.MostFrequentWord(previous, word)
+        if word and word == u'重':
+            print('MostFrequentWord bigram retword = %s, english = %s' % (retword['traditional'], retword['english']))
         if not retword:
             retword = self.unigram_tagger.MostFrequentWord(word)
+        if word and word == u'重':
+            print('MostFrequentWord unigram retword = %s, english = %s' % (retword['traditional'], retword['english']))
         return retword
 
     def TagWord(self, word, previous=None):

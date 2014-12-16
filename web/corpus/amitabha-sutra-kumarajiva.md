@@ -16,8 +16,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [CBETA Chinese Text] (http://tripitaka.cbeta.org/T12n0366_001 "CBETA Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/amitabha-sutra-kumarajiva.txt "Amitābha Sutra Plain Text")
-
 Start marker: 如是我聞
 
 End marker: 姓名標示

@@ -133,7 +133,7 @@ class CorpusManager:
             entry_type = corp_entry['type']
             if entry_type == 'file' and 'analysis_file' in corp_entry:
                 source_name = corp_entry['source_name']
-                print('Adding corpus entry %s.' % source_name)
+                #print('Adding corpus entry %s.' % source_name)
                 corpus_entries.append(corp_entry)
             elif entry_type == 'collection':
                 collection_name = corp_entry['uri']
@@ -148,11 +148,11 @@ class CorpusManager:
                         'analysis_file' in collection_entry
                         and
                         lang == 'Chinese'):
-                        print('Adding collection entry %s.' % source_name)
+                        #print('Adding collection entry %s.' % source_name)
                         corpus_entries.append(collection_entry)
-                    else:
-                        print('Will not add collection entry %s with type %s.' % 
-                               (source_name, col_entry_type))
+                    #else:
+                        #print('Will not add collection entry %s with type %s.' % 
+                               #(source_name, col_entry_type))
             else:
                 print('Cannot add entry %s with type %s.' % 
                       (source_name, entry_type))

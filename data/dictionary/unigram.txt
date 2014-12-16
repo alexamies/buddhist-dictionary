@@ -71,12 +71,12 @@
 見/NN[jiàn | view]	見	8858	20
 壽/NN[shòu | lifespan]	壽	6238	20
 聞/VV[wén | hear]	聞	3925	20
+之/DEG[zhī | genetive marker]	之	33281	20
 恒河/NR[Hénghé | Ganges River]	恒河	33257	20
 見/VV[jiàn | to see]	見	2940	20
 生/VV[shēng | to develop]	生	30580	20
 四/CD[sì | four]	四	304	20
 即/AD[jí | promptly]	即	1964	19
-之/PN[zhī | him]	之	730	19
 故/CC[gù | so]	故	14849	19
 生/VV[shēng | grow]	生	3220	18
 以/VV[yǐ | to use]	以	17176	18
@@ -110,7 +110,6 @@
 動/VV[dòng | to move]]	動	1481	13
 等/NN[děng | and so on]	等	1216	13
 數/NN[shuò | number]	數	11496	13
-之/DEG[zhī | genetive marker]	之	33281	13
 及/CC[jí | and]	及	962	13
 信/VV[xìn | to believe]	信	3091	13
 車/NN[chē | vehicle]	車	3966	13
@@ -119,6 +118,7 @@
 花/NN[Huā | flower]	花	3076	12
 發/VV[fā | to develop]	發	33125	12
 具足/VA[jùzú | perfect]	具足	29304	12
+之/PN[zhī | him]	之	730	12
 第一/OD[dì yī | first]	第一	394	11
 今/NN[jīn | today]	今	6691	11
 微塵/NN[wēichén | an atom]	微塵	32464	11
@@ -277,7 +277,6 @@
 光/NN[guāng | light]	光	1229	4
 前/VA[qián | before]	前	681	4
 懸/VV[xuán | to hang]	懸	4885	4
-重/NN[chóng | layer]	重	3279	4
 不可思議/VA[bù kě sīyì | inconceivable]	不可思議	7158	4
 種種/M[zhǒngzhǒng | all kinds of]	種種	7155	4
 罪/NN[zuì | an offense]	罪	3869	4
@@ -316,6 +315,7 @@
 土/NN[tǔ | land]	土	33502	3
 衆/VA[zhòng | many]	衆	33692	3
 多/AD[duō | more]	多	402	3
+重/NN[chóng | layer]	重	37018	3
 千萬億/CD[qiānwàn yì | a trillion]	千萬億	33042	3
 六時/NN[liù shí | the six four hour periods of the day]	六時	29373	3
 摩訶薩/NN[móhēsà | mahasattva]	摩訶薩	8847	3
@@ -689,6 +689,7 @@
 真/AD[zhēn | really]	真	16934	1
 悉皆/PN[xījiē | all]	悉皆	33047	1
 振/VV[zhèn | to shake]	振	13195	1
+重/VA[zhòng | serious]	重	37017	1
 利/NN[lì | advantage]	利	3673	1
 娑婆國土/NR[Suōpó Guótǔ | Saha Lokadhatu]	娑婆國土	20393	1
 如須彌山佛/NR[Rú xūmí Shān Fó | Sumerukalpa Buddha]	如須彌山佛	20392	1

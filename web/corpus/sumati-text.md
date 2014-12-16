@@ -16,8 +16,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document at CBETA: [Sumati Sūtra] (http://tripitaka.cbeta.org/T12n0336_001 "Sumati Sūtra")
 
-Alternate formats: [Plain text file] (corpus/sumati-text.txt "Plain text file")
-
 Start marker: 如是我聞
 
 End marker: 本網站係採用

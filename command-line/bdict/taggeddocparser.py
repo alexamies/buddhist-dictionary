@@ -112,13 +112,15 @@ def GetBestWordSense(wdict, wfreq_entry):
         # find best match based on grammar
         grammar = word_entry['grammar']
         if 'english' not in wfreq_entry:
-            print('No English text for entry %s' % wfreq_entry['tagged_text'])
+            print('taggeddocparser.GetBestWordSense No English text for entry %s' % 
+                  wfreq_entry['tagged_text'])
             return word_entry
         english = wfreq_entry['english']
         if not GrammarMatch(tag, grammar) or not GlossMatch(wfreq_entry, word_entry):
             # print('Tag %s for word %s grammar %s does not match grammar.' % (tag, element_text, grammar))
             if 'other_entries' not in word_entry or not word_entry['other_entries']:
-                print('No other entries for word %s grammar "%s" gloss "%s".' % (element_text, grammar, english))
+                print('taggeddocparser.GetBestWordSense No other entries for word %s grammar "%s" gloss "%s".' % 
+                      (element_text, grammar, english))
             else:
                 other_entries = word_entry['other_entries']
                 for entry in other_entries:
@@ -126,7 +128,7 @@ def GetBestWordSense(wdict, wfreq_entry):
                         word_entry = entry
                         break
                 if not GrammarMatch(tag, word_entry['grammar']) or not GlossMatch(wfreq_entry, word_entry):
-                    print('GetBestWordSense: Could not find match for element '
+                    print('taggeddocparser.GetBestWordSense: Could not find match for element '
                           'text %s tag %s gloss "%s" among %d entries based on '
                           'grammar or gloss.' % (element_text, tag, english, 
                           len(other_entries)+1))

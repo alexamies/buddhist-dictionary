@@ -18,8 +18,6 @@ Attributed to: Yan Shigu 顏師古 and others
 
 Document: [Document at Chinese Text Project] (http://ctext.org/wiki.pl?if=en&chapter=914684 "Chinese Text Project")
 
-Alternate formats: [Plain text file] (corpus/suishu-scroll24.txt "Book of Sui, Scroll 24 Plain Text")
-
 English translations: None
 
 A passage in this scroll mentioned salt production in Qingzhou 青州, in present-day Shandong:
