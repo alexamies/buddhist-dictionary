@@ -21,3 +21,8 @@ Document: [Document at the Chinese Text Project] (http://ctext.org/wiki.pl?if=en
 Alternate formats: [Plain text file] (corpus/yuanshi-scroll064.txt "History of Yuan, Scroll 64 Plain Text")
 
 English translations: None
+
+A passage in this scroll reads,
+
+On the 11th day of the First Month in the first year of the Zhizhi reign [1321], Shipping Bureau [records] record, "In the summers, more than 1.89 million dan [dry measure for grain equal to ten dou] of grain was shipped by canal in both directions with the waterways completely open. Now, with the back and forth of the tide at the harbor at Zhigu [Tianjin] the waterway has become obstructed by silt, making water transport impossible. Official documents state that this should have been washed away by the Waterway Inspector.
+ 至治元年正月十一日，漕司言：「夏運海糧一百八十九萬餘石，轉漕往返，全藉河道通便，今小直沽水義河口潮汐往來，淤泥壅積七十餘處，漕運不能通行，宜移文都水監疏滌。」

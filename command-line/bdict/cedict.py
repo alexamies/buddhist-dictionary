@@ -20,7 +20,7 @@ class ChineseEnglishDict:
           charset: The character set that the source document is written
                    in, either 'Traditional' (default) or 'Simplified'
         """
-        print('ChineseEnglishDict: charset is %s' % charset)
+        #print('ChineseEnglishDict: charset is %s' % charset)
         wdict = {}
         with codecs.open(DICT_FILE_NAME, 'r', "utf-8") as f:
             for line in f:

@@ -86,9 +86,9 @@ class BigramTagger:
                     key = previous_text, element_text
                     entry['word_id'] = tokens[3].strip()
                     entry['frequency'] = int(tokens[4])
-                    if element_text and element_text == u'重':
-                        print('bigram.LoadFreqTable previous_text %s element_text %s, word_id %s' % 
-                              (previous_text, element_text, entry['word_id']))
+                    #if element_text and element_text == u'重':
+                    #    print('bigram.LoadFreqTable previous_text %s element_text %s, word_id %s' % 
+                    #          (previous_text, element_text, entry['word_id']))
                     if key not in wfreq:
                         wfreq[key] = [entry]
                     else:
