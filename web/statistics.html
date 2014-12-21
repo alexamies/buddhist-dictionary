@@ -245,26 +245,36 @@
         </pre>
       </p>
       <p>
-        You can make a plot of data in R using the <code>plot()</code> function, as shown below.
+        Data can be plotted in R using the <code>plot()</code> function, as shown below.
       </p>
       <p class='formula'>
         <pre>
           &gt; x &lt;- seq(1, length(unigram$frequency))
-          &gt; plot(x, unigram$frequency, xlab="", ylab="Frequency", pch=20, col="blue")
+          &gt; plot(x, unigram$frequency, xlab="Rank", ylab="Frequency", pch=20, col="blue")
         </pre>
       </p>
       <p>
         The <code>seq()</code> function generates a sequence of integers so that the frequency
         of each word will be plotted from most frequent at the left to least frequent at the right. 
-        The <code>type="n"</code> parameter of the <code>plot()</code> function defers plotting of the points 
-        to the next line where the <code>points()</code> function plots the points with symbol 20 and blue color.
-        There are so many words that we cannot show the text for each one but it 
-        is informative to see the general shape of the word frequency distribution.
-        The image generated is shown in Figure 1.
+        The resulting plot is the word frequency versus rank, shown in Figure 1.
       </p>
       <p class='picture'>
         <img src="images/unigram_frequency.png"/><br/>
-        Figure 1: Word Frequency in the unigram Data Frame
+        Figure 1: Word Frequency versus Rank
+      </p>
+      <p>
+        The plot in Figure is informative in that it shows that only a handful of words have a high frequency
+        and the vast majority is a long tail with frequency 1.
+        This is a phenomenon in word frequencies for natural language in general.
+        (Manning </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 23-27)
+        An early model for the relation between word frequency and rank is <strong>Zipf's law</strong> that states 
+        that word frequency f is inversely proportional to rank r.
+      </p>
+      <p class='formula'>
+        f ∝ 1/r
+      </p>
+      <p>
+        (Manning </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 24)
       </p>
       <p>
         To generate an image file for that plot and the others in this page, pull the project from GitHub, 
@@ -2239,6 +2249,9 @@
         </li>
         <li>
           Pulleyblank, Edwin G. <i>Outline of Classical Chinese Grammar</i>. Vancouver: UBC Press, 1995.
+        </li>
+        <li>
+          Manning, Christopher D. </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, Mass: MIT Press, 1999.
         </li>
         <li>
           Yau, Chi. <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>. Self, 2014. 
