@@ -1,4 +1,4 @@
-# Sumati Sūtra Text 妙慧童女經
+# Sumati Sūtra 妙慧童女經
 
 Description: The Chinese text of the Sūtra.
 
@@ -16,9 +16,5 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document at CBETA: [Sumati Sūtra] (http://tripitaka.cbeta.org/T12n0336_001 "Sumati Sūtra")
 
-Start marker: 如是我聞
-
-End marker: 本網站係採用
-
-English translations: 
-Yun, Venerable Master Hsing. Ten Paths to Happiness. Edited by John Gill and Jonathan Ko. Translated by Jason Greenberger. First edition. Los Angeles: Buddha’s Light Publishing, 2014. Translation by Jason Greenberger.
+Commentary and English translation: 
+Yun, Venerable Master Hsing. Ten Paths to Happiness. Edited by John Gill and Jonathan Ko. Translated by Jason Greenberger. First edition. Los Angeles: Buddha’s Light Publishing, 2014.
