@@ -165,7 +165,7 @@
 165	不可說	不/AD[bù | no] 可/VV[kě | can] 說/VV[shuō | to say] <indescribable>	\N	2	Diamond Sūtra
 166	賢聖	賢/VV[xián | to be worthy] 聖/NN[shèng | a sage] <noble one>	āryapudgala	2	Diamond Sūtra
 167	甚多	甚/AD[shén | extremely] 多/VA[duō | many] <extremely many>	\N	2	Diamond Sūtra
-168	四句偈	四/CD[sì | four] 句/NN[jù | line] 偈/[jì | gatha] <a four line gatha>	\N	2	Diamond Sūtra
+168	四句偈	四/CD[sì | four] 句/NN[jù | line] 偈/NN[jì | gatha] <a four line gatha>	\N	2	Diamond Sūtra
 169	為他	為/VC[wèi | for] 他/PN[tā | other] <for others>	\N	2	Diamond Sūtra
 170	一往來	一/CD[yī | one] 往來/VV[wǎnglái | to return] <return once more>	\N	2	Diamond Sūtra
 171	佛說	佛/NR[Fó | Buddha] 說/VV[shuō | to teach] <the Buddha teaches>	\N	2	Diamond Sūtra
@@ -334,3 +334,10 @@
 334	是亦走也	是/DT[shì | this] 亦/AD[yì | also] 走/VV[zǒu | go] 也/SP[yě | final modal particle] <This was also running away>	\N	\N	Mengzi 1A/3 (Pullybank, Classical Chinese Grammar, 17)
 335	皆古聖人也	皆/DT[jiē | all] 古/VA[gǔ | ancient] 聖人/NN[shèngrén | sage] 也/SP[yě | final modal particle] <They were all sages of old.>	\N	\N	Mengzi 2A/2 (Pullybank, Classical Chinese Grammar, 17)
 336	是乃仁術也	是/DT[shì | this] 乃/AD[nǎi | then] 仁/NN[rén | benevolence] 術/NN[shù | technique] 也/SP[yě | final modal particle] <This is indeed the technique of benevolence.>	\N	\N	Mengzi 1A/7 (Pullybank, Classical Chinese Grammar, 17)
+337	說偈言	說/VV[shuō | speak] 偈/NN[jì | verse] 言/VV[yán | said] <spoke in verse>	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336
+338	菩薩成就四法	菩薩/NN[púsà | bodhisattva] 成就/VV[chéngjiù | to achieve] 四/CD[sì | four] 法/NN[fǎ | method] <bodhisattvas use four methods>	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336
+339	妙慧菩薩	妙慧/NR[Miàohuì | Sumatī] 菩薩/NN[púsà | bodhisattva] <Sumati Bodhisattva>	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336
+340	童女	童/NN[tóng | child] 女/NN[nǚ | female] <young girl>	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336
+341	微妙法門	微妙/VA[wēimiào | skillful] 法門/NN[Fǎmén | a Buddhist teaching] <wonderous teaching >	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336
+342	深經	深/VA[shēn | profound] 經/NN[jīng | sūtra] <profound sūtra>	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336
+343	聞甚深經	聞/VV[wén | to hear] 甚/VA[shén | deep] 深/VA[shēn | profound] 經/NN[jīng | sūtra] <hearing the profound sutras>	\N	\N 	Sumati Sūtra 妙慧童女經 T12 336

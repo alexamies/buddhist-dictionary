@@ -63,3 +63,7 @@ td {
     border: 1px solid gray;
     padding: 0.5em;
 }
+
+span.cursive {
+    font-family: cursive;
+}
