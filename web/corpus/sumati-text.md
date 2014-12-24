@@ -1,5 +1,7 @@
 # Sumati Sūtra 妙慧童女經
 
+Collection: [Sumati Sūtra] (collection.html#/sumati "Sumati Sūtra")
+
 Description: The Chinese text of the Sūtra.
 
 Period: Tang

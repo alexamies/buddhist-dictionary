@@ -1,6 +1,8 @@
-# Sumati Sūtra 妙慧童女經
+# Sumati Sūtra Chinese-Enlgish Text 妙慧童女經中英文本
 
-Description: The Chinese text of the Sūtra.
+Collection: [Sumati Sūtra] (collection.html#/sumati "Sumati Sūtra")
+
+Description: The Chinese and English text of the Sūtra.
 
 Period: Tang
 

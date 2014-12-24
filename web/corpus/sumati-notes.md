@@ -1,5 +1,7 @@
 # Sumati Sūtra Notes
 
+Collection: [Sumati Sūtra] (collection.html#/sumati "Sumati Sūtra")
+
 Description: Notes on the Sūtra.
 
 Period: Tang
