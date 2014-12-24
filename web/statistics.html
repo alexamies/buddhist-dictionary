@@ -62,6 +62,7 @@
           <li><a href="#tools">Software Tools</a></li>
           <li><a href="#probability">Probability</a></li>
           <li><a href="#expectation">Expectation</a></li>
+          <li><a href="#entropy">Entropy</a></li>
           <li><a href="#special">Special Distributions</a></li>
           <li><a href="#estimation">Statistical Estimation</a></li>
           <li><a href="#sampling">Sampling</a></li>
@@ -110,7 +111,7 @@
         A <strong>corpus</strong> is a collection of texts, which may be used by linguists for studying the 
         characteristics of language usage. (Bird, <i>Natural Language Processing</i>, 39)
         The NTI Buddhist Text Reader contains a corpus of Buddhist and classical Chinese texts.
-        A small subset of the corpus is tagged part-of-speech tags and gloss distinguishing word sense.
+        A small subset of the corpus is tagged with part-of-speech tags and gloss distinguishing word sense.
         The organization of the corpus is described on the page
         <a href="annotation.html">Text Management, Annotation, and Gloss</a> on this web site.
         The tagging scheme is described on the page <a href="pos_tags.html">Part-of-Speech Tag Definitions</a>.
@@ -134,6 +135,13 @@
           word_id:         Matching id in the word table (positive integer)
           frequency:       The frequency of occurrence of the word sense (positive integer)
         </pre>
+      </p>
+      <p>
+        The <code>word_id</code> matches the numeric id of a word in the dictionary file 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/words.txt">words.txt</a>.
+        Each entry in the words.txt file is a <strong>lexeme</strong> - a single dictionary entry with a single
+        meaning.
+        (Manning, <i>Statistical Natural Language Processing</i>, 128)
       </p>
       <p>
         The bigram.txt file lists frequencies of two-word combinations.
@@ -447,14 +455,14 @@
         <pre>
           &gt; summary(unigram$frequency)
           Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-          1.000   1.000   1.000   4.708   3.000 137.000 
+          1.000   1.000   1.000   4.357   3.000 137.000 
           &gt; length(unigram$frequency)
-          [1] 1432
+          [1] 1646
         </pre>
       </p>
       <p>
         The <code>length()</code> function gives the number of items in the data set, which shows that there
-        are only 1,432 unique words in the tagged corpus. ▢
+        are only 1,646 unique words in the tagged corpus. ▢
       </p>
       <p>
         The <strong>joint probability function</strong> of two random variables X and Y is 
@@ -654,6 +662,28 @@
         The third quartile value is 1661, which is greater than the total number of unique words in the 
         tagged corpus. So, there are at least 25% of the texts in the corpus that have more unique words than 
         we have word frequency data for. Clearly, we are short of coverage on word frequency.
+      </p>
+      <h3><a name="entropy"></a>Entropy</h2>
+      <p>
+        <strong>Entropy</strong> is a measure of the amount of information in a distribution.
+        Entropy is defined as
+      </p>
+      <p class='formula'>
+        H(X) = -∑<sub>x∈<span class="cursive">X</span></sub>p(x)log<sub>2</sub>p(x)
+      </p>
+      <p>
+        where x is a value of the random variable X, which is one of a number of symbols in an 
+        alphabet <span class="cursive">X</span>.
+        (Manning. <i>Statistical Natural Language Processing</i>, 61)
+        For example, the possible values for X are the values in an 8 letter alphabet, each with equally likely 
+        probability of occuring, then the entropy is 
+      </p>
+      <p class='formula'>
+        H(X) = -∑<sub>i=1..8</sub>(1/8)log<sub>2</sub>(1/8) = log<sub>2</sub>(8) = 3
+      </p>
+      <p>
+        So, a uniform distribution over the alphabet has 3 bits of information. 
+        In other words, the most efficient way of encoding the alphabet is with 3 bits.
       </p>
       <h3><a name="special"></a>Special Distributions</h2>
       <p>
