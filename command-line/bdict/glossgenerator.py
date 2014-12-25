@@ -232,8 +232,8 @@ class GlossGenerator:
         if not 'id' in entry:
             return element_text
         entry_id = entry['id']
-        if element_text == u'重':
-            print('_Word element_text = %s, english = %s' % (element_text, entry['english']))
+        #if element_text == u'重':
+        #    print('_Word element_text = %s, english = %s' % (element_text, entry['english']))
         # print('_Word entry_id = %s' % entry_id)
         url = 'word_detail.php?id=%s' % entry_id
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)

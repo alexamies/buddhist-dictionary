@@ -4,6 +4,7 @@
 The dictionary is loaded into a dict structure
 """
 import codecs
+from sets import Set
 
 DICT_FILE_NAME = '../data/dictionary/words.txt'
 
@@ -12,6 +13,8 @@ class ChineseEnglishDict:
     """loads the Chinese to English dictionary.
 
     """
+
+    _fn_words = Set([u'有', u'為', u'無'])
 
     def OpenDictionary(self, charset='Traditional'):
         """Reads the dictionary into memory
@@ -59,7 +62,7 @@ def isFunctionWord(entry):
     """
     grammar = entry['grammar']
     traditional = entry['traditional']
-    if traditional == u'有':
+    if traditional in ChineseEnglishDict._fn_words:
         return True
     return grammar in ['particle', 'preposition', 'conjunction', 'adverb', 
                        'pronoun', 'interrogative pronoun', 'auxiliary verb', 

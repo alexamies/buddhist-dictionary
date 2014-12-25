@@ -15,6 +15,7 @@ from bdict import chinesephrase
 from bdict import configmanager
 from bdict import ngramfinder
 from bdict import phrasematcher
+from bdict import postagger
 
 DEFAULT_OUTFILE = 'temp.md'
 
@@ -45,6 +46,7 @@ class ChineseVocabulary:
         dictionary = cedict.ChineseEnglishDict()
          # Word dictionary
         wdict = dictionary.OpenDictionary(charset=corpus_entry['charset'])
+        self._tagger = postagger.POSTagger()
 
         wc = 0
         known_words = {}
@@ -217,6 +219,9 @@ class ChineseVocabulary:
         word = sdict[traditional]
         word_id = word['id']
         english = word['english']
+        most_freq_entry = self._tagger.MostFrequentWord(word['traditional'], None)
+        if most_freq_entry:
+            word = most_freq_entry
         gloss = cedict.GetEnglishGloss(word)
         rel_freq = 1000 * freq / float(wc)
         outf.write('[%s](word_detail.php?id=%s "%s %s") [%s], %d, %.2f<br/>\n'

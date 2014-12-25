@@ -4,7 +4,9 @@ This module should be created and used to accumulated a collection of n-grams
 when scanning a stream of text.
 """
 
+from bdict import cedict
 from bdict import chinesephrase
+from bdict import postagger
 
 
 class NGramFinder:
@@ -24,6 +26,9 @@ class NGramFinder:
         # print('NGramFinder size: %d\n' % size)
         self.ngrams = {}
         self.words = []
+        self._tagger = postagger.POSTagger()
+        dictionary = cedict.ChineseEnglishDict()
+        self._wdict = dictionary.OpenDictionary()
 
     def AddWord(self, word):
         text_len = len(self.words)
@@ -47,15 +52,46 @@ class NGramFinder:
         self.words.append(word)
 
     def GetNGrams(self, min_frequency=1):
-        """Get n-grams that have a minimum frequency.
+        """Get a filtered list of n-grams that have a minimum frequency.
+
+        Discard n-grams that have more than half function words or start or end
+        in a function word. Assumption: function words are single character
+        words.
 
         Args:
-          min_frequency: Only n-grams above the minimum frequency will be returned.
+          min_frequency: Only n-grams above the minimum frequency will be
+          returned.
+
+        Return:
+          An array of filtered n-grams
         """
         min_ngrams = {}
         for k in sorted(self.ngrams, key=lambda key: -self.ngrams[key]):
             if self.ngrams[k] >= min_frequency:
-                min_ngrams[k] = self.ngrams[k]
+                # Check that it is not a substring of another n-gram of greater
+                # frequency
+                is_sub = False
+                for l in sorted(self.ngrams, key=lambda key: -self.ngrams[key]):
+                    if (k != l and l.find(k) > -1 and 
+                        self.ngrams[l] >= self.ngrams[k]):
+                        is_sub = True
+                # Check number of function words
+                num_function = 0 # Number of function words in n-gram
+                i = 0
+                for c in k:
+                    if c in self._wdict:
+                        most_freq_entry = self._tagger.MostFrequentWord(c, None)
+                        # Check if the first or last character
+                        if i == 0 or i == (len(k)-1):
+                            if cedict.isFunctionWord(most_freq_entry):
+                                num_function = len(k)
+                                break
+                        # Total the function words
+                        if cedict.isFunctionWord(most_freq_entry):
+                            num_function += 1
+                    i += 1
+                if num_function < len(k)/2 and not is_sub:
+                    min_ngrams[k] = self.ngrams[k]
             else:
                 break
         return min_ngrams

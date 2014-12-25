@@ -12,6 +12,8 @@ Character Set: Traditional Chinese
 
 Translator: Kumārajīva
 
+Reference: T12 366
+
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
 Document: [CBETA Chinese Text] (http://tripitaka.cbeta.org/T12n0366_001 "CBETA Chinese Text")
