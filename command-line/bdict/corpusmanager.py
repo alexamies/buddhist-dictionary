@@ -125,7 +125,7 @@ class CorpusManager:
         and those that are not in Chinese.
 
         Returns:
-            A list of corpus entries.
+            A list of corpus entries with analysis files.
         """
         corpus_entries = []
         corpus = self.LoadCorpus()
@@ -158,6 +158,28 @@ class CorpusManager:
                       (source_name, entry_type))
         return corpus_entries
 
+    def LoadCorpusAll(self):
+        """Loads the whole corpus, flattened, including members of collections.
+
+        Used in generate JSON for the whole corpus.
+
+        Returns:
+            A list of all corpus entries.
+        """
+        corpus_entries = []
+        corpus = self.LoadCorpus()
+        for corp_entry in corpus:
+            entry_type = corp_entry['type']
+            if entry_type != 'collection':
+                corpus_entries.append(corp_entry)
+            else:
+                collection_name = corp_entry['uri']
+                collection_file = '%s.txt' % collection_name
+                collection = self.LoadCorpus(collection_file)
+                for collection_entry in collection:
+                    corpus_entries.append(collection_entry)
+        return corpus_entries
+
     def PrintCorpus(self):
         """Prints the corpus data to standard output.
 
@@ -181,9 +203,13 @@ class CorpusManager:
         Returns:
           The name of the file written to.
         """
-        input_file = '%s.txt' % collection
-        corpus = self.LoadCorpus(input_file)
-        output_file = '%s.json' % collection
+        if collection == 'all':
+            corpus = self.LoadCorpusAll()
+            output_file = 'corpus_all.json'
+        else:
+            input_file = '%s.txt' % collection
+            corpus = self.LoadCorpus(input_file)
+            output_file = '%s.json' % collection
         output_file = '%s%s' % (JSON_DIR, output_file)
         with codecs.open(output_file, 'w', "utf-8") as f:
             f.write('[')

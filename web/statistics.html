@@ -141,7 +141,7 @@
         <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/words.txt">words.txt</a>.
         Each entry in the words.txt file is a <strong>lexeme</strong> - a single dictionary entry with a single
         meaning.
-        (Manning, <i>Statistical Natural Language Processing</i>, 128)
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 128)
       </p>
       <p>
         The bigram.txt file lists frequencies of two-word combinations.
@@ -274,7 +274,7 @@
         The plot in Figure is informative in that it shows that only a handful of words have a high frequency
         and the vast majority is a long tail with frequency 1.
         This is a phenomenon in word frequencies for natural language in general.
-        (Manning </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 23-27)
+        (Manning and Schütze </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 23-27)
         An early model for the relation between word frequency and rank is <strong>Zipf's law</strong> that states 
         that word frequency f is inversely proportional to rank r.
       </p>
@@ -282,7 +282,7 @@
         f ∝ 1/r
       </p>
       <p>
-        (Manning </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 24)
+        (Manning and Schütze </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 24)
       </p>
       <p>
         To generate an image file for that plot and the others in this page, pull the project from GitHub, 
@@ -674,7 +674,7 @@
       <p>
         where x is a value of the random variable X, which is one of a number of symbols in an 
         alphabet <span class="cursive">X</span>.
-        (Manning. <i>Statistical Natural Language Processing</i>, 61)
+        (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 61)
         For example, the possible values for X are the values in an 8 letter alphabet, each with equally likely 
         probability of occuring, then the entropy is 
       </p>
@@ -1351,6 +1351,16 @@
       </p>
       <p>
         Since U ≤ c is false, the null hypothesis μ ≥ 200 is not rejected. ▢
+      </p>
+      <p>
+        Manning and Schütze discuss using hypothesis with the t test for the occurrence of bigrams.
+        The chance of of the two individual words coming w<sup>1</sup> and w<sup>2</sup> together at any p
+        articular point in the text
+        is Pr(w<sup>1</sup>w<sup>2</sup>) = Pr(w<sup>1</sup>)Pr(w<sup>2</sup>).
+        The sample variance is needed in the t test, which is estimated as the variance 
+        σ<sup>2</sup> = p(1 - p) of a Bernoulli trial. In this expression p is the word frequency or, 
+        in other words, the probabily of occurrence of the words together.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 163-166)
       </p>
       <p>
         A t test for the two sided hypothesis about the mean μ
@@ -2281,7 +2291,7 @@
           Pulleyblank, Edwin G. <i>Outline of Classical Chinese Grammar</i>. Vancouver: UBC Press, 1995.
         </li>
         <li>
-          Manning, Christopher D. </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, Mass: MIT Press, 1999.
+          Manning, Christopher D. and Schütze, Hinrich</i>Foundations of Statistical Natural Language Processing. Cambridge</i>, Mass: MIT Press, 1999.
         </li>
         <li>
           Yau, Chi. <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>. Self, 2014. 

@@ -1,6 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
-                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" ng-app="bdictApp">
+<!DOCTYPE html>
+<html lang="en" ng-app="bdictApp">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <meta name="fragment" content="!" />
@@ -79,7 +78,7 @@
               <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
             </td>
             <td ng-if="doc.type == 'collection'">
-              <a href="collection.html#{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
+              <a href="collection.html#!/{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
             </td>
             <td>{{doc.doc_type}}</td>
             <td>{{doc.translator}}</td>
