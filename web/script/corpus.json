@@ -24,7 +24,9 @@
 ,
 {"doc_type": "Historic Doc.","source_name": "Buddhist Monasteries in Luoyang 洛陽伽藍記","reference": "T 51 2092","language": "Chinese","start": "","charset": "Traditional","uri": "luoyang","period": "Northern Wei 495 – 534","translator": "Yang Xuanzhi","source": "Taishō Tripiṭaka","genre": "Historic Doc.","type": "collection","id": "13"}
 ,
-{"doc_type": "Collection","source_name": "Grand Canal","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "maritime","translator": "Various","source": "Various","genre": "Various","type": "collection","id": "14"}
+{"doc_type": "Collection","source_name": "Grand Canal 大運河","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "maritime","translator": "Various","source": "Various","genre": "Various","type": "collection","id": "14"}
 ,
 {"doc_type": "Collection","source_name": "Sumati Sūtra 妙慧童女經","reference": "T 12 336","language": "Chinese","start": "","charset": "Traditional","uri": "sumati","period": "Tang","translator": "Bodhiruci","source": "Taishō Tripiṭaka","genre": "Mahāyāna","type": "collection","id": "15"}
+,
+{"doc_type": "Collection","source_name": "Linguistics 語言學","language": "Chinese","start": "","charset": "Traditional","uri": "linguistics","period": "Modern","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "16"}
 ]
