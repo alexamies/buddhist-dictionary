@@ -32,7 +32,9 @@ function getRelatedText($term) {
             if (strlen($relations) > 0) {
                 $relations .= "、";
             }
-            $relations .= $relation->getSimplified2();
+            $relations .= "<a href='word_detail.php?word=" .
+                          $relation->getSimplified2() . "'>" .
+                          $relation->getSimplified2() . "</a>";
             $note = $relation->getNote();
             $link = $relation->getLink();
             if (isset($note) and (strlen($note) > 0)) {

@@ -8,6 +8,8 @@ HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/gaosengzhuan-sc
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/gaosengzhuan-scroll5-analysis.md "Vocabulary analysis")
 
+Collection: [Biographies of Eminent Monks 《高僧傳》] (collection.html#!/gaosengzhuan "Biographies of Eminent Monks 《高僧傳》")
+
 Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
