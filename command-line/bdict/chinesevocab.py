@@ -111,7 +111,8 @@ class ChineseVocabulary:
             if 'end' in corpus_entry:
                 end = corpus_entry['end']
                 outf.write('End marker: %s<br/>\n' % end)
-            outf.write('### Word count\n')
+            self._PrintContents(outf)
+            outf.write('### <a name="wc"></a>Word Count\n')
             num_known = len(known_words)
             num_new = len(new_words)
             outf.write('Character count: %d, word count: %d, unique words: %d, known words: %d, new words: %d\n' % 
@@ -124,9 +125,9 @@ class ChineseVocabulary:
             phrase_dict = matcher.Load()
             self._PrintFrequencyKnown(known_words, wdict, outf, wc)
             outf.write('\n')
-            self._PrintFrequencyNew(new_words, outf, phrase_dict, 'New Words')
-            self._PrintFrequencyNew(bigrams, outf, phrase_dict, 'N-grams with frequency greater than 2')
-            self._PrintPhrases(phrases, outf, 'Matching entries in phrase dataset')
+            self._PrintFrequencyNew(new_words, outf, phrase_dict, '<a name="new_words"></a>New Words')
+            self._PrintFrequencyNew(bigrams, outf, phrase_dict, '<a name="ngrams"></a>N-Grams with frequency greater than 2')
+            self._PrintPhrases(phrases, outf, '<a name="phrases"></a>Matching entries in phrase dataset')
             outf.write('\nThis page was last updated on %s.\n' % date.isoformat(date.today()))
         result = {}
         result['source_name'] = source_name
@@ -135,6 +136,18 @@ class ChineseVocabulary:
         result['unique_words'] = num_known
         result['outfile'] = outfile
         return result
+
+    def _PrintContents(self, outf):
+        outf.write('<h2>Contents</h2>')
+        outf.write('<ul>')
+        outf.write('<li><a href="#wc">Word Count</a></li>')
+        outf.write('<li><a href="#proper_nouns">Frequency of Proper Nouns</a></li>')
+        outf.write('<li><a href="#nonfunction">Frequency of Non-Function Words</a></li>')
+        outf.write('<li><a href="#function">Frequency of Function Words</a></li>')
+        outf.write('<li><a href="#new_words">New Words</a></li>')
+        outf.write('<li><a href="#ngrams">N-Grams</a></li>')
+        outf.write('<li><a href="#phrases">Phrases</a></li>')
+        outf.write('</ul>\n')
 
     def _PrintFrequencyKnown(self, word_freq, sdict, outf, wc):
         """Prints the set of known words with markdown links.
@@ -159,18 +172,18 @@ class ChineseVocabulary:
                 function_words[k] = word_freq[k]
             else:
                 nonfunction_words[k] = word_freq[k]
-        outf.write('### Frequency of proper nouns\n')
+        outf.write('### <a name="proper_nouns"></a>Frequency of Proper Nouns\n')
         outf.write('For all proper nouns\n\n')
         outf.write('Word, frequency, relative frequency per 1000 words\n\n')
         for k in sorted(proper_nouns, key=lambda key: -proper_nouns[key]):
             self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
-        outf.write('### Frequency of non-function words\n')
+        outf.write('### <a name="nonfunction"></a>Frequency of Non-Function Words\n')
         outf.write('For words with frequency greater than 1\n\n')
         outf.write('Word, frequency, relative frequency per 1000 words\n\n')
         for k in sorted(nonfunction_words, key=lambda key: -nonfunction_words[key]):
             if 1 < word_freq[k]:
                 self._PrintKnownWord(k, word_freq[k], sdict, outf, wc)
-        outf.write('### Frequency of function words:\n')
+        outf.write('### <a name="function"></a>Frequency of Function Words:\n')
         outf.write('For words with frequency greater than 1\n\n')
         outf.write('Word, frequency, relative frequency per 1000 words\n\n')
         for k in sorted(function_words, key=lambda key: -function_words[key]):
