@@ -63,13 +63,26 @@
           <li><a href="#probability">Probability</a></li>
           <li><a href="#expectation">Expectation</a></li>
           <li><a href="#entropy">Entropy</a></li>
-          <li><a href="#special">Special Distributions</a></li>
+          <li>
+            <a href="#special">Special Distributions</a>
+            <ul>
+              <li><a href="#bernoulli">Bernoulli Distribution</a></li>
+              <li><a href="#binomial">Binomial Distribution</a></li>
+              <li><a href="#poisson">Poisson Distribution</a></li>
+              <li><a href="#normal">Normal Distribution</a></li>
+              <li><a href="#gamma">Gamma Distribution</a></li>
+              <li><a href="#exponential">Exponential Distribution</a></li>
+              <li><a href="#beta">Beta Distribution</a></li>
+              <li><a href="#multinomial">Multinomial Distribution</a></li>
+            </ul>
+          </li>
           <li><a href="#estimation">Statistical Estimation</a></li>
           <li><a href="#sampling">Sampling</a></li>
           <li>
             <a href="#hypothesis">Hypothesis Testing</a>
             <ul>
               <li><a href="#hypothesisconcepts">Concepts</a></li>
+              <li><a href="#evaluation">Evaluation Metrics in Natural Language Processing</a></li>
               <li><a href="#twomeans">Comparing means from two distributions</a></li>
               <li><a href="#fdist">F Distribution</a></li>
             </ul>
@@ -692,6 +705,7 @@
         (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 239-241)
       </p>
       <h3><a name="special"></a>Special Distributions</h2>
+      <h4><a name="bernoulli"></a>Bernoulli Distribution</h4>
       <p>
         The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
         with parameter p (0 ≤ p ≤ 1) has the probabilities
@@ -703,8 +717,9 @@
         An sequence random variables with the Bernoulli distribution are called <strong>Bernoulli trials</strong>.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 276)
       </p>
+      <h4><a name="binomial"></a>Binomial Distribution</h4>
       <p>
-        The <strong>Binomial distribution</strong> with integer parameter n and continuous parameter p (0 ≤ p ≤ 1)
+        The <strong>binomial distribution</strong> with integer parameter n and continuous parameter p (0 ≤ p ≤ 1)
         is defined as 
       </p>
       <p class='formula'>
@@ -740,6 +755,7 @@
         <img src="images/binomial05.png"/><br/>
         Figure 4: Binomial Distribution with Parameters n = 20 and p = 0.5
       </p>
+      <h4><a name="poisson"></a>Poisson Distribution</h4>
       <p>
         The <strong>Poisson distribution</strong> for random variable X with mean λ is defined as
       </p>
@@ -766,6 +782,7 @@
         <img src="images/poisson_lambda3.png"/><br/>
         Figure 5: Poisson Distribution with λ = 3.0
       </p>
+      <h4><a name="normal"></a>Normal Distribution</h4>
       <p>
         The <strong>normal distribution</strong> for the continuous random variable X with mean μ and 
         standard deviation σ is defined as
@@ -837,6 +854,7 @@
         n becomes large.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 361)
       </p>
+      <h4><a name="gamma"></a>Gamma Distribution</h4>
       <p>
         The <strong>gamma distribution</strong> for the continuous random variable X with parameters 
         α and β is 
@@ -849,6 +867,7 @@
         The mean of the gamma distribution is α/β and the variance is α/β<sup>2</sup>.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 319-320)
       </p>
+      <h4><a name="exponential"></a>Exponential Distribution</h4>
       <p>
         The <strong>exponential distribution</strong> for the continuous random variable X with parameter β is
       </p>
@@ -873,6 +892,7 @@
         <img src="images/exponential_distribution08.png"/><br/>
         Figure 7: Exponential Distribution (β = 0.8)
       </p>
+      <h4><a name="beta"></a>Beta Distribution</h4>
       <p>
         The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
       </p>
@@ -894,6 +914,7 @@
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 328-329)
       </p>
+      <h4><a name="multinomial"></a>Multinomial Distribution</h4>
       <p>
         The <strong>multinomial distribution</strong> for the discrete random vector 
         <strong>X</strong> = (X<sub>1</sub>, X<sub>2</sub>, ... X<sub>k</sub>) having probabilities
@@ -1396,6 +1417,39 @@
         where T<sub>n-1></sub><sup>-1</sup> is the quantile function of the t distribution.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 582)
       </p>
+      <h4><a name="evaluation"></a>Evaluation Metrics in Natural Language Processing</h4>
+      <p>
+        Successful and unsuccessful prediction results are summarized in Table 1.
+      </p>
+      <p>
+      <table>
+        <caption>Table 1: Prediction Results</caption>
+        <tbody>
+          <tr><th colspan="2"  rowspan="2">&nbsp;</th><th colspan="2">Actual</th></tr>
+          <tr><th>Positive</th><th>Negative</th></tr>
+          <tr><th rowspan="2">Predicted</th><th>Positive</th><td>true positive tp</td><td>false positive fp</td></tr>
+          <tr><th>Negative</th><td>true negative fn</td><td>false negative tn</td></tr>
+        </tbody>
+      </table>
+      </p>
+      <p>
+        Manning and Schütze define precision P as the number of correctly predicted positive results:
+      </p>
+      <p class='formula'>
+         P = tp/(tp + fp)
+      </p>
+      <p>
+        and recall R as the proportion of target items predicted
+      </p>
+      <p class='formula'>
+         R = tp/(tp + fn)
+      </p>
+      <p>
+        Precision and recall avoid the potential problem with accuracy that the number of negative events 
+        will be far greater than the number of positive events. That is, a system that successfully 
+        rejects many negative items may have high accuracy but not do very well on the positive events.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 268-269)
+      </p>
       <h4><a name="twomeans"></a>Comparing means from two distributions</h4>
       <p>
         To test a hypothesis comparing the means μ<sub>1</sub> and μ<sub>0</sub> of two populations
@@ -1593,10 +1647,10 @@
         the output shows that the distribution of part-of-speech counts in the Heart Sutra is not well explained
         by the general distribution of part-of-speech counts in the tagged corpus.
         Small count values have been avoided by combining categories.
-        The data are shown in Table 1.
+        The data are shown in Table 2.
       </p>
       <table>
-        <caption>Table 1: Predicted and Observed Word Counts for the Heart Sutra</caption>
+        <caption>Table 2: Predicted and Observed Word Counts for the Heart Sutra</caption>
         <tbody>
           <tr><th>Part of Speech</th><th>Observed Count</th><th>Predicted Count</th></tr>
           <tr><td>Adjectives</td><td>15</td><td>10.3</td></tr>
@@ -2178,14 +2232,14 @@
         所 suǒ is placed in front of a verb to make the objects acted on by the verb the subject.
         (Pulleybank, <i>Outline of Classical Chinese Grammar</i>, 68)
         It can be roughly understood as the English pronoun "it."
-        The frequencies per thousand words of 所 suǒ in several texts are given in Table 2. 
+        The frequencies per thousand words of 所 suǒ in several texts are given in Table 3. 
         The texts are Biographies of Eminent Monks, Scroll《高僧傳》 by Huijiao (497-554),
         Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》 by Yang Xuanzhi (c. 547),
         and The Great Calming and Contemplation 《摩訶止觀》by Zhi Yi (538—597).
       </p>
       <p>
       <table>
-        <caption>Table 2: Frequencies per Thousand Words of 所 Suǒ</caption>
+        <caption>Table 3: Frequencies per Thousand Words of 所 Suǒ</caption>
         <tbody>
           <tr>
             <th>Text</th>
