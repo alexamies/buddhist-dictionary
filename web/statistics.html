@@ -685,6 +685,12 @@
         So, a uniform distribution over the alphabet has 3 bits of information. 
         In other words, the most efficient way of encoding the alphabet is with 3 bits.
       </p>
+      <p>
+        Manning and Schütze explain word sense disambiguation with entropy.
+        The approach described selects the word sense that maximizes the mutual entropy with the
+        surrounding words.
+        (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 239-241)
+      </p>
       <h3><a name="special"></a>Special Distributions</h2>
       <p>
         The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
@@ -968,6 +974,17 @@
       <p>
         When the squared error loss function is used the Bayes estimator is the posterior mean value of θ.
         (DeGroot and Morris, <i>Probability and Statistics</i>, 411)
+      </p>
+      <p>
+        Manning and Schütze describe word sense disambiguation with Bayesian classification using maximum likelihood
+        estimators.
+        The authors give the examples of ambiguous words in English, including duty (a task or a tax)
+        and land (to stand on land or to land a plane).
+        The decision is based on conditional probability, given the context of the word.
+        Different contexts have been experimented with, including the object of a verb and the surrounding words.
+        The decision rule for selecting a word sense is optimal in the sense that it minimizes the 
+        chance for error in a training data set.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 235-239)
       </p>
       <p>
         Another approach to estimating parameters maximizes the probability of observed data.
