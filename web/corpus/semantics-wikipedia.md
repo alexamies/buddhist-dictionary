@@ -6,6 +6,8 @@ Period: Modern
 
 Vocabulary Analysis: [Vocabulary Analysis] (corpus_entry.php?uri=analysis/semantics-wikipedia-analysis.md "Vocabulary Analysis")
 
+Collection: [Linguistics 語言學] (collection.html#!/linguistics "Linguistics 語言學")
+
 Character Set: Simplified Chinese
 
 Source: [Wikipedia] (https://zh.wikipedia.org "Wikipedia")
