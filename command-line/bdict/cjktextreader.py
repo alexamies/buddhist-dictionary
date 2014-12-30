@@ -6,8 +6,10 @@ Line breaks are removed.
 """
 import codecs
 import os.path
+import string
 
 from bdict import app_exceptions
+from bdict import cedict
 from bdict import chinesephrase
 from bdict import configmanager
 from bdict import htmldoc
@@ -138,3 +140,50 @@ class CJKTextReader:
                 text += line
         return text
 
+
+    def TranscodeTrad(self, infile):
+        """Reads a simplified or mixed text and transcodes it to traditional Chinese
+
+        Since many Wikipedia articles have mixed simplified and traditional, the documents
+        need to be transcoded to a standard format. The file should be in the corpus 
+        directory.
+
+        Args:
+            infile: The name of the source file to transcode
+
+        Raises:
+           BDictException: If the input file does not exist
+        """
+        print('Transcoding file %s to traditional Chinese' % infile)
+        prefix = string.split(infile, '.')[0]
+        outfile = '%s-trad.txt' % prefix
+        directory = self.config['corpus_directory']
+        print('Traditional Chinese output written to file %s' % outfile)
+        fullpath = '%s/%s' % (directory, infile)
+        if not os.path.isfile(fullpath):
+            raise app_exceptions.BDictException('%s is not a file' % infile)
+
+        # Read the input file
+        lines = []
+        with codecs.open(fullpath, 'r', "utf-8") as inf:
+        # print('Reading input file %s ' % fullpath)
+            for line in inf:
+                lines.append(line)
+            inf.close()
+        fullout = '%s/%s' % (directory, outfile)
+
+        # Write the output file
+        dictionary = cedict.ChineseEnglishDict()
+        sdict = dictionary.OpenDictionary(charset='Simplified')
+        with codecs.open(fullout, 'w', "utf-8") as outf:
+            for line in lines:
+                tchars = []
+                for s in line:
+                    if s in sdict:
+                        entry = sdict[s]
+                        if 'traditional' in entry:
+                            tchars.append(entry['traditional'])
+                        else:
+                            tchars.append(s)
+                outf.write('%s\n' % ''.join(tchars))
+            outf.close()

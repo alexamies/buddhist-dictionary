@@ -8,6 +8,7 @@ import sys
 
 from bdict import app_exceptions
 from bdict import chinesevocab
+from bdict import cjktextreader
 from bdict import configmanager
 from bdict import corpusmanager
 from bdict import corpusstats
@@ -62,6 +63,10 @@ Usage:
 
     python bdictutil.py tag <doc_num> [collection_name]
 
+The transcode command transcodes a file from simplified to traditional Chinese:
+Usage:
+
+    python bdictutil.py transcode infile
 
 The wordsensefreq command generates word sense frequency from part-of-speech
 tagged documents in the corpus. Usage:
@@ -178,6 +183,14 @@ def main():
                 print('Could not compute accuracy: %s.' % e)
         else:
             print('Could not compute accuracy: no standard tagged file.')
+    elif command == 'transcode':
+        if len(sys.argv) < 3:
+            print('A filename is required for the transcode command')
+            PrintUsage()
+            sys.exit(2)
+        infile = sys.argv[2]
+        reader = cjktextreader.CJKTextReader()
+        outfile = reader.TranscodeTrad(infile)
     elif command == 'wordsensefreq':
         if len(sys.argv) < 3:
             doc_analyzer = taggeddoc.TaggedDocumentAnalyzer()
@@ -192,6 +205,7 @@ def main():
     else:
         print('Did not understand command.')
         PrintUsage()
+
 
 def GetCollectionFile(argv):
     collection_name = 'corpus'
