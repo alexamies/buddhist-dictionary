@@ -8,6 +8,8 @@ HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/luoyang-qielan-
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/luoyang-qielan-scroll2-analysis.md "Vocabulary analysis")
 
+Collection: [Collection] (collection.html#!/luoyang "Collection")
+
 Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
