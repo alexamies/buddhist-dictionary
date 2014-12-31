@@ -8,6 +8,8 @@ HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/diamond-sutra-c
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/diamond-sutra-commentary-vasubandhu2-analysis.md "Vocabulary analysis")
 
+Collection: [Related Text Entries] (collection.html#!/diamond "Related Text Entries")
+
 Character Set: Traditional Chinese
 
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")

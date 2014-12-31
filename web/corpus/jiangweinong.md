@@ -8,6 +8,8 @@ HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/jiangweinong-gl
 
 Vocabulary Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/jiangweinong-analysis.md "Vocabulary analysis")
 
+Collection: [Related Text Entries] (collection.html#!/diamond "Related Text Entries")
+
 Reference: Revised Edition, 2011. Originally published 1941.
 
 Character Set: Traditional Chinese

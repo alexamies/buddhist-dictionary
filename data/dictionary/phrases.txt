@@ -222,9 +222,9 @@
 222	若有善男子	若/SC[ruò | if] 有/VE[yǒu | is] 善/VA[shàn | good] 男子/NN[nánzǐ | man] <if a good man>	\N	2	Diamond Sūtra
 223	為他人說	為/P[wèi | for] 他人/PN[other people] 說/VV[shuō | teach] <teaches it to others>	\N	2	Diamond Sūtra
 224	以三十二相觀	以/VV[yǐ | to use] 三十二/CD[sān shí èr | thirty two] 相/NR[ xiāng | mark] 觀/VV[guān | observe] <be observed by means of the Thirty-two Marks>	\N	2	Diamond Sūtra
-225	觀如來	觀/VV[guān | observe] 如來/NR[Rúlái | the Tathagata] <observe the Tathagata>	\N	2	Diamond Sūtra
+225	觀如來	觀/VV[guān | observe] 如來/NR[Rúlái | the Tathagata] <observe the Tathagata>	\N	2	Diamond Sūtra T8 235
 226	如來得阿耨多羅三藐三菩提	如來/NR[Rúlái | the Tathagata] 得/VV[dé | attain] 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara-samyak-sambodhi] <the Tathagata attained anuttara-samyak-sambodhi>	\N	2	Diamond Sūtra
-227	佛言	佛/NR[Fó | Buddha] 言/VV[yán | said]	\N	2	Diamond Sūtra
+227	佛言	佛/NR[Fó | Buddha] 言/VV[yán | said] <the Buddha said>	\N	2	Diamond Sūtra T8 235
 228	即是非相	即/VV[jí | the same as] 是/VC[shì | are] 非/VC[fēi | not] 相/NN[xiàng | mark] <are not marks>	\N	2	Diamond Sūtra
 229	我所說	我/PN[wǒ] 所/PN[suǒ | it] 說/VV[shuō | teach] <I have spoken>	\N	2	Diamond Sūtra
 230	如來所說	如來/NR[Rúlái | the Tathagata] 所/PN[suǒ | it] 說/VV[shuō | teach] <the Tathagata teaches>	\N	2	Diamond Sūtra
@@ -371,3 +371,43 @@
 371	請稱還鄉	請/VV[qǐng | to ask] 稱/VV[chēng | to consider] 還/VV[huán | to return] 鄉/NN[xiāng | village] <requested to retire from his post (to return to his village)>	\N	\N	Biographies of Eminent Monks 高僧傳 T 50 2059, Scroll 11
 372	經云	經/NN[jīng | sūtra] 云/VV[yún | to say] <the sūtra says>	\N	\N	Biographies of Eminent Monks 高僧傳 T 50 2059, Scroll 11
 373	講經	講/VV[jiǎng | to speak] 經/NN[jīng | sūtra] <to lecture on a sūtra>	\N	\N	T51 2092 Buddhist Monasteries in Luoyang, Scroll 2
+374	受持讀誦	受/VV[shòu | receive] 持/VV[chí | to maintain] 讀誦/VV[dúsòng | to recite] <receives, retains, reads and recites>	\N	\N	Diamond Sūtra T8 235
+375	得聞	得/VV[dé | to obtain] 聞/VV[wén | to hear] <to hear>	\N	\N	Diamond Sūtra T8 235
+376	一切眾生	一切/DT[yīqiè | all] 眾生/NN[zhòngshēng | a being] <all sentient beings>	\N	\N	Diamond Sūtra T8 235
+377	福勝	福/NN[fú | reward] 勝/VV[shèng | to surpass] <rewards will surpass>	\N	\N	Diamond Sūtra T8 235
+378	三十二相觀如來	三十二相/NR[sān shí èr xiāng | the thirty two marks of excellence] 觀/VV[guān | observe] 如來/NR[Rúlái | the Tathagata] <perceives the Tathagata by the thirty-two characteristics>	\N	\N	Diamond Sūtra T8 235
+379	菩薩心	菩薩/NN[púsà | bodhisattva] 心/NN[xīn | mind] <the mind of a bodhisattva>	\N	\N	Diamond Sūtra T8 235
+380	生心	生/VV[shēng | to give rise] 心/NN[xīn | mind] <develop the mind>	\N	\N	Diamond Sūtra T8 235
+381	莊嚴佛土	莊嚴/VV[zhuāngyán | to adorn] 佛土/NN[Fótǔ | a Buddha land] <adorn Buddha Lands>	\N	\N	Diamond Sūtra T8 235
+382	聲香味觸法	聲/NN[shēng | sound] 香/NN[xiāng | scent] 味/NN[wèi | taste] 觸/NN[chù | touch] 法/NN[fǎ | a thought] <sound, scent, taste, touch, or thought>	\N	\N	Diamond Sūtra T8 235
+383	身布施	身/NN[shēn | body]  布施/NN[bùshī | dana] <give a life>	\N	\N	Diamond Sūtra T8 235
+384	得福	得/VV[dé | to obtain] 福/NN[fú | reward] <rewards obtained>	\N	\N	Diamond Sūtra T8 235
+385	持用布施	持/VV[chí | to hold] 用/VV[yòng | to use] 布施/NN[bùshī | giving] <used to practice giving>	\N	\N	Diamond Sūtra T8 235
+386	心不可得	心/NN[xīn | mind] 不/AD[bù | not] 可/AD[kě | able] 得/VV[dé | to obtain] <mind cannot be grasped>	\N	\N	Diamond Sūtra T8 235
+387	沙數	沙/NN[shā | sand] 數/NN[shǔ | number] <number of grains of sand>	\N	\N	Diamond Sūtra T8 235
+388	解佛所說義	解/VV[jiě | to understand] 佛/NR[Fó | Buddha] 所/DT[suǒ | it ] 說/VV[shuō | speak] 義/NN[yì | meaning] <understand the meaning of what the Buddha has said>	\N	\N	Diamond Sūtra T8 235
+389	恒河沙等身布施	恒河/NR[Hénghé | Ganges River] 沙/NN[shā | sand] 等/MSP[děng | plural] 身/NN[shēn | body]  布施/NN[bùshī | dana] <practice giving as many lives as there are grains of sand in the Ganges River>	\N	\N	Diamond Sūtra T8 235
+390	福德多	福德/NN[fúdé | reward] 多/VA[duō | many] <many rewards>	\N	\N	Diamond Sūtra T8 235
+391	法得阿耨多羅三藐三菩提	法/NN[fǎ | dhárma] 得/VV[dé | to attain] 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara samyaksaṃbodhi] <dharma attained that was anuttara samyaksaṃbodhi>	\N	\N	Diamond Sūtra T8 235
+392	身相	身/NN[shēn | body] 相/NN[xiàng | appearance] <bodily appearance>	\N	\N	Diamond Sūtra T8 235
+393	得聞是經	得/VV[dé | to obtain] 聞/VV[wén | hear] 是/PN[shì | this] 經/NN[jīng | sūtra] <to hear this sūtra>	\N	\N	Diamond Sūtra T8 235
+394	受持讀誦此經	受/VV[shòu | receive] 持/VV[chí | to maintain] 讀誦/VV[dúsòng | to recite] 是/PN[shì | this] 經/NN[jīng | sūtra] <receive, retain, read and recite this sūtra>	\N	\N	Diamond Sūtra T8 235
+395	偈言	偈/NN[jì | gatha] 言/VV[yán | to speak] <the gatha says>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+396	告須菩提	告/VV[gào | said] 須菩提/NR[Xūpútí | Subhūti] <said to Subhūti>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+397	福德聚	福德/NN[fúdé | merit] 聚/VV[jù | to amass] <merit accumulated>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+398	論曰	論/NN[lùn | a treatise] 曰/VV[yuē | speak] <the treatise says>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+399	四種	四/CD[sì | four] 種/NN[zhǒng | kind] 種 <four kinds>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+400	非相	非/VC[fēi | not] 相/NN[xiàng | appearance] <not an appearance>	\N	\N	Diamond Sūtra T8 235
+401	經曰	經/NN[jīng | sūtra] 曰/VV[yuē | speak] <the sūtra says>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+402	二種	二/CD[èr | two] 種/NN[zhǒng | kind] <two kinds>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+403	修多羅章句	修多羅/NN[xiūduōluó | sūtra] 章句/NN[zhāng jù | words] <words in the sūtra>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+404	菩薩不住	菩薩/NN[púsà | bodhisattva] 不/AD[bù | not] 住/VV[zhù | to attach] <a bodhisattva does not attach>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+405	佛復告須菩提	佛/NR[Fó | Buddha] 復/AD[fù | again] 告/VV[gào | said] 須菩提/NR[Xūpútí | Subhūti] <the Buddha told Subhūti again>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+406	一切聖人	一切/DT[yīqiè | all] 聖人/NN[shèngrén | sage] <all sages>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+407	二佛三四五佛	二/CD[èr | two] 佛/NR[Fó | Buddha] 三/CD[sān | three] 四/CD[sì | four] 五/CD[wŭ | five] 佛/NR[Fó | Buddha] <two, three, four, or five Buddhas>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+408	生信心	生/VV[shēng | to develop] 信心/NN[xìnxīn | faith] <to give rise to faith>	\N	\N	Vajracchedika-prajbaparamitopadewa, Scroll 1, T25 1511
+409	江味農居士傳	江味農/NR[Jiāng Wèinóng | Jiang Weinong] 居士/NN[jūshì | lay Buddhist] 傳/NN[zhuàn | biography] <biography of lay Buddhist Jiang Weinong>	\N	\N	Lectures on the Diamond Sutra by Jiang Wei Nong, Part 1
+410	故曰	故/CC[gù | so] 曰/VV[yuē | speak] <for this reason, we say>	\N	\N	Lectures on the Diamond Sutra by Jiang Wei Nong, Part 1
+411	離一切	離/VV[lí | to leave] 一切/DT[yīqiè | all] <free from all>	\N	\N	Diamond Sūtra T8 235
+412	離一切相	離/VV[lí | to leave] 一切/DT[yīqiè | all] 相/NN[xiàng | a notion] <without all conceptions>	\N	\N	Diamond Sūtra T8 235
+413	清淨心	清淨/VA[qīngjìng | pure] 心/NN[xīn | mind] <a pure, clean mind>	\N	\N	Diamond Sūtra T8 235
