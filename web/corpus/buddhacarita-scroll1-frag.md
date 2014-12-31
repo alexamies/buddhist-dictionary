@@ -18,12 +18,6 @@ Translator: Dharmakṣema
 
 Document: [Buddhacarita, Scroll 1] (tripitaka.cbeta.org/zh-cn/T04n0192_001 "Buddhacarita, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/buddhacarita-scroll1-frag.txt "Plain Text Document")
-
-Start marker: 爾時摩耶后，
-
-End marker: 時彼林中有，
-
 English	translation: None
 
 ### Summary

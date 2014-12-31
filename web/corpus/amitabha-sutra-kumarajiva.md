@@ -17,8 +17,3 @@ Reference: T12 366
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
 Document: [CBETA Chinese Text] (http://tripitaka.cbeta.org/T12n0366_001 "CBETA Chinese Text")
-
-Start marker: 如是我聞
-
-End marker: 姓名標示
-

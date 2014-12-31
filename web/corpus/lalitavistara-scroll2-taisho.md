@@ -17,8 +17,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T03/0186_002.htm "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/lalitavistara-scroll2-taisho.txt "Plain text file")
-
 Start marker: 「爾時王后坐師子床
 
 End marker: 「時三萬二千梵志

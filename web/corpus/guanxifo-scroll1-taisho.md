@@ -14,8 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Guan Xi Fo Xingxiang Sūtra, Scroll 1] (http://www.cbeta.org/result/normal/T16/0695_001.htm "Guan Xi Fo Xingxiang Sūtra")
 
-Alternate formats: [Plain text file] (corpus/guanxifo-scroll1-taisho.txt "Plain text file")
-
 Start marker: 以四月八日夜半
 
 End marker: 諸善男子善女人

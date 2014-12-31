@@ -16,8 +16,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Mohe Cha Tou Sūtra, Scroll 1] (http://www.cbeta.org/result/normal/T04/0195_001.htm "Shi Er You Sūtra, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/shieryou-scroll1-taisho.txt "Plain text file")
-
 Start marker: 菩薩在兜術天上
 
 End marker: 菩薩外家，去城八百里

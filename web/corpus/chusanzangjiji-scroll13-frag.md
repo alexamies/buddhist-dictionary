@@ -18,8 +18,6 @@ Translator: Seng You
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/mobile/index.php?index=T52n2102_002 "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/chusanzangjiji-scroll13-frag.txt "Plain Text")
-
 Start marker: 晧曰。若然則周孔已明之矣
 
 End marker: 會在吳朝亟說正法。

@@ -14,12 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Cārya-nidāna, Scroll 1] (http://tripitaka.cbeta.org/T03n0184_001 "Cārya-nidāna, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/carya-nidana-scroll1-taisho.txt "Plain text file")
-
-Start marker: 於是能仁菩薩
-
-End marker: 「王聞太子生
-
 English translation: none
 
 ### Summary

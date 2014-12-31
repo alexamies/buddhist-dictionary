@@ -14,12 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Source document: [異出菩薩本起經] (http://www.cbeta.org/result/normal/T03/0188_001.htm "異出菩薩本起經")
 
-Alternate formats: [Plain text file] (corpus/abhiniskramana-scroll1-taisho.txt "Plain text file")
-
-Start marker: 太子以四月八日
-
-End marker: end of file
-
 English translations: None
 
 ### Summary

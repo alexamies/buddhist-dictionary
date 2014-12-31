@@ -16,10 +16,6 @@ Reference: Taisho Tripitaka Vol. TI01, No. 8, p. 20, a0-7
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/I01n0008_001 "Document at CBETA")
 
-Start marker: 若四月八日及大會供養時
-
-End marker: 【經文資訊】
-
 English translation: none
 
 ### Summary

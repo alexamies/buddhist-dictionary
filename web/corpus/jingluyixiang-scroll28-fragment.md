@@ -18,8 +18,6 @@ Translator: Min Bao Chang
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/mobile/index.php?index=T53n2121_028 "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/jingluyixiang-scroll28-fragment.txt "Plain Text")
-
 Start marker: 古昔有佛。號曰始無。
 
 End marker: 耆域藥王請僧佛八

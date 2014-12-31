@@ -18,8 +18,6 @@ Translator: Kumārajīva
 
 Document: [Diamond Sutra Chinese Text] (http://www.cbeta.org/result/normal/T08/0235_001.htm "Diamond Sutra Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/diamond-sutra-taisho.txt "Diamond Sutra Plain Text")
-
 English translation by Venerable Yifa, M. C. Owens, and P. M. Romaskiewicz (2nd Ed., Buddha's Ligh Publishing 2006): [Vajra Prajnaparamita Sutra] (http://www.woodenfish.org/sutra/texts "Vajra Prajnaparamita Sutra")
 Used with permission.
 

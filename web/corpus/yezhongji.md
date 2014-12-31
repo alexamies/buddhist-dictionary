@@ -16,8 +16,6 @@ Source: [Chinese Text Project] (http://ctext.org "Chinese Text Project web site"
 
 Document: [Link to source Text] (http://ctext.org/wiki.pl?if=en&chapter=307781 "Link to source Text")
 
-Alternate formats: [Plain text file] (corpus/yezhongji.txt "Plain Text")
-
 Start marker: 石虎性好佞佛
 
 End marker: 石虎少好游獵

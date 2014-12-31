@@ -18,8 +18,6 @@ Translator: Seng You
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/mobile/index.php?index=T50n2041_001 "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/shijiashi-pu-scroll1.txt "Plain Text")
-
 Start marker: 現生誕靈迹第三
 
 End marker: 集藝歷試迹第四

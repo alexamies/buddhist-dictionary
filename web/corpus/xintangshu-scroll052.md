@@ -18,6 +18,4 @@ Attributed to: Ouyang Xiu 歐陽修 and others
 
 Document: [Document at Wikisource] (http://zh.wikisource.org/wiki/新唐書/卷052 "New Book of Tang, Scroll 52")
 
-Alternate formats: [Plain text file] (corpus/xintangshu-scroll052.txt "New Book of Tang, Scroll 52 Plain Text")
-
 English translations: None

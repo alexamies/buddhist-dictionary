@@ -18,8 +18,6 @@ Translator: Seng You
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/mobile/index.php?index=T50n2040_001 "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/shijia-pu-scroll1.txt "Plain Text")
-
 Start marker: 蓋聞。菩提之為極也
 
 End marker: 【編輯說明】本資料庫由中華電子佛典協會

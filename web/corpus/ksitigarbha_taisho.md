@@ -16,7 +16,5 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [CBETA Sūtra Text] (http://www.cbeta.org/result/T13/T13n0412.htm "CBETA Sūtra Text") 
 
-Alternate formats: [Plain text file] (corpus/ksitigarbha_taisho.txt "Sūtra Text") (Both scrolls)
-
 English	translation and commentary (this site): [Sūtra of the Great Vow of Ksitigarbha Bodhisattva English] (/buddhism_dizang.html "Sūtra of the Great Vow of Ksitigarbha Bodhisattva English")
 

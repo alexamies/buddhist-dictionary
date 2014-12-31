@@ -16,11 +16,5 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [The Sūtra of Forty-Two Sections Chinese Text] (http://cbeta.org/result/normal/T17/0784_001.htm "The Sūtra of Forty-Two Sections Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/sutra-42-taisho.txt "Sūtra of Forty-Two Sections Plain Text")
-
-Start marker: 佛言
-
-End marker: 本網站係採用
-
 English translation: Beal, S., trans. “The Sutra of the Forty-Two Sections.” London, 1862. Internet Sacred Text Archive. <a href="http://www.sacred-texts.com/journals/jras/os19-14.htm">http://www.sacred-texts.com/journals/jras/os19-14.htm</a>.
 

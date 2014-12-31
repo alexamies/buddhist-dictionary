@@ -16,8 +16,6 @@ Source: [Wiki Source] (https://zh.wikisource.org "Wiki Source")
 
 Document: [Link to source Text] (https://zh.wikisource.org/zh-hant/%E4%BD%9B%E5%9C%8B%E8%A8%98 "Link to source Text")
 
-Alternate formats: [Plain text file] (corpus/foguoji.txt "Plain Text")
-
 Start marker: 凡諸中國，唯此國城邑
 
 End marker: 阿育王壞七塔

@@ -20,8 +20,6 @@ Attributed to: Zhi Yi 智顗
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/T46n1911 "The Great Calming and Contemplation 摩訶止觀")
 
-Alternate formats: [Plain text file] (corpus/mhzg-scroll1.txt "The Great Calming and Contemplation 摩訶止觀 Plain Text")
-
 ### English translations
 
 Swanson, Paul, trans. The Great Cessation-and-Contemplation (Mo-Ho Chih-Kuan). Tokyo: Kosei Publishing Co. 2004.

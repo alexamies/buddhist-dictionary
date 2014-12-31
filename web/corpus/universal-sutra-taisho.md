@@ -16,12 +16,3 @@ Translator: Jñānagupta
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
 Document at CBETA: [Universal Gate Sūtra Chinese Text] (http://www.cbeta.org/result/normal/T09/0262_007.htm "Universal Gate Sūtra Chinese Text")
-
-Alternate formats: [Plain text file] (corpus/universal-sutra-taisho.txt "The Universal Gate Sūtra Chinese Text")
-
-Start marker: 爾時
-
-End marker: 本網站係採用
-
-English translation: [Universal Gate Sūtra English] (/buddhism_pumenpin.html "Universal Gate Sūtra English")
-

@@ -18,8 +18,6 @@ Attributed to: Unkown
 
 Document: [Document at the Chinese Text Project] (http://ctext.org/wiki.pl?if=en&chapter=479422 "Discourse on Sailing Directions")
 
-Alternate formats: [Plain text file] (corpus/haidaojing.txt "Discourse on Sailing Directions Plain Text")
-
 English translations: None
 
 This passage describes the journey from the Port of Liujia 劉家港 (present-day Liuhe, Taicang), at the mouth of the Yangtze River to Tianjin:

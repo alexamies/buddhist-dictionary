@@ -16,10 +16,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document at CBETA: [Realizations of the Great Beings Chinese Text] (http://tripitaka.cbeta.org/T17n0779_001/ "Realizations of the Great Beings Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/eight-realizations-anshigao.txt "Realizations of the Great Beings")
-
-Start marker: 為佛弟子
-
 English translations: 
 1. Thich Nhat Hahn, Venerable 1987. The Sutra on the Eight Realizations of the Great Beings, Parallax Press, ISBN-10: 0938077074, ISBN-13: 978-0938077077.
 

@@ -20,10 +20,6 @@ Compiled by: Hui Jiao
 
 Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T50/2059_008.htm "Document at CBETA")
 
-Start marker: 高僧傳卷第八
-
-End marker: 中華電子佛典協會
-
 English	translation: None
 
 Summary: This scroll contains biographical entries for Seng Yuan, Tan Du, Dao Hui, Seng Zhong, Dao Sheng, Hong Chong, Zhi Lin, Fa Yuan, Xuan Chang, Seng Yuan, Seng Hui, and others.

@@ -18,8 +18,6 @@ Compiled by: Shi Hui Jiao
 
 Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T53/2122_091.htm "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/fayuanzhulin-scroll91.txt "Plain Text")
-
 Start marker: 法苑珠林卷第九十一
 
 End marker: 中華電子佛典協會

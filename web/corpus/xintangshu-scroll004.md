@@ -18,6 +18,4 @@ Attributed to: Ouyang Xiu 歐陽修 and others
 
 Document: [Document at Wikisource] (http://zh.wikisource.org/wiki/新唐書/卷004 "New Book of Tang, Scroll 4")
 
-Alternate formats: [Plain text file] (corpus/xintangshu-scroll004.txt "New Book of Tang, Scroll 4 Plain Text")
-
 English translations: None

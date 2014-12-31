@@ -14,8 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Sarvāstivādavinayavibhāṣā, Scroll 2] (http://www.cbeta.org/result/normal/T23/1440_002.htm "Sarvāstivādavinayavibhāṣā, Scroll 2")
 
-Alternate formats: [Plain text file] (corpus/sarvastivadavinayavibhasa-scroll2.txt "Plain text file")
-
 Start marker: 佛以二月八日弗星現時
 
 End marker: 佛三阿僧祇劫習菩薩行

@@ -18,8 +18,6 @@ Attributed to: Yan Shigu 顏師古 and others
 
 Document: [Document at Chinese Text Project] (http://ctext.org/wiki.pl?if=en&chapter=196349 "Book of Sui, Scroll 24")
 
-Alternate formats: [Plain text file] (corpus/suishu-scroll3.txt "Book of Sui, Scroll 24 Plain Text")
-
 English translations: None
 
 ## Notes

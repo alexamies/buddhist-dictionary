@@ -18,8 +18,6 @@ Attributed to: Song Lian and others
 
 Document: [Document at the Chinese Text Project] (http://ctext.org/wiki.pl?if=en&chapter=548553 "History of Yuan, Scroll 64")
 
-Alternate formats: [Plain text file] (corpus/yuanshi-scroll064.txt "History of Yuan, Scroll 64 Plain Text")
-
 English translations: None
 
 A passage in this scroll reads,

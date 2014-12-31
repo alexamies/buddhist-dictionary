@@ -18,8 +18,6 @@ Translator: 佛陁耶舍共竺佛念
 
 Document: [Sūtra Chinese Text] (http://tripitaka.cbeta.org/T01n0001_002 "Sūtra Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/dirghagama-scroll2.txt "Sūtra Plain Text")
-
 Start marker: 佛告阿難：「凡世地動，有八因緣。
 
 End marker: 爾時，世尊即說偈言

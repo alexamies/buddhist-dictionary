@@ -18,6 +18,4 @@ Attributed to: Li Fang and others
 
 Document: [Document at the Chinese Text Project] (http://ctext.org/text.pl?node=398959&if=en "Document at the Chinese Text Project")
 
-Alternate formats: [Plain text file] (corpus/taipingyulan-scroll770-xuzhouxia.txt "Plain text file")
-
 English translations: None

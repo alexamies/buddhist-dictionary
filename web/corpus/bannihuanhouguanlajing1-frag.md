@@ -18,10 +18,6 @@ Translator: Dharmarakṣa
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/T12n0391_001 "Document at CBETA")
 
-Start marker: 阿難前長跪叉手
-
-End marker: 諸弟子聞經歡喜
-
 English translation: none
 
 ### Summary

@@ -16,8 +16,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Mohe Cha Tou Sūtra, Scroll 1] (http://www.cbeta.org/result/normal/T16/0696_001.htm "Mohe Cha Tou Sūtra, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/mohechatou-scroll1-taisho.txt "Plain text file")
-
 Start marker: 以四月八日夜半明星出時
 
 End marker: 佛言。我為菩薩在世時

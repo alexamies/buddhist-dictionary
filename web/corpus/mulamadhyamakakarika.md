@@ -18,8 +18,6 @@ Translator: Kumārajīva
 
 Document: [Mulamadhyamakakarika Chinese Text] (http://tripitaka.cbeta.org/T30n1564 "Mulamadhyamakakarika Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/mulamadhyamakakarika.txt "Mulamadhyamakakarika Plain Text")
-
 Start marker: 問曰。何故造此論
 
 End marker: 本網站係採用

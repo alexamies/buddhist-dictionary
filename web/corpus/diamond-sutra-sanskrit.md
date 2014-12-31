@@ -10,8 +10,6 @@ Character Set: IAST
 
 Source: [University of the West Sanskrit Buddhist Canon] (http://www.dsbcproject.org./node/6348 "Sanskrit Buddhist Canon")
 
-Plain Text: [Plain text file] (corpus/diamond-sutra-sanskrit.txt "Diamond Sutra Plain Text")
-
 End marker: ---END---
 
 Diamond Sūtra Commentary (this site): [Commentary] (/diamond_sutra_toc.html "Diamond Sutra Commentary")

@@ -18,6 +18,4 @@ Attributed to: Ban Gu and others
 
 Document: [Document at the Chinese Text Project] (http://ctext.org/han-shu/gou-xu-zhi "Book of Han, Scroll 29")
 
-Alternate formats: [Plain text file] (corpus/hanshu-scroll29.txt "Book of Han, Scroll 29 Plain Text")
-
 English translations: None

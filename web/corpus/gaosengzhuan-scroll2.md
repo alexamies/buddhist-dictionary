@@ -20,10 +20,6 @@ Compiled by: Hui Jiao
 
 Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T50/2059_002.htm "Document at CBETA")
 
-Start marker: 高僧傳卷第二
-
-End marker: 中華電子佛典協會
-
 English	translation: None
 
 Summary: This scroll contains biographical entries for Kumarajiva, Punyatāra, Dharmaruci, Vimalāksa, Buddhayaśas, Buddhabhadra, and Dharmaksema.

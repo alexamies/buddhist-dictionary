@@ -14,8 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Life of the Prince in Accordance with Good Omens] (http://http://tripitaka.cbeta.org/T03n0185_001 "Life of the Prince in Accordance with Good Omens")
 
-Alternate formats: [Plain text file] (corpus/taizi-ruiying-scroll1-taisho.txt "Plain text file")
-
 Start marker: 到四月八日夜明星出時
 
 End marker: 歎未曾有。

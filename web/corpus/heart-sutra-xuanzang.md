@@ -14,12 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document at CBETA: [Prajñāpāramitā Heart Sūtra] (http://www.cbeta.org/result/normal/T08/0251_001.htm "Prajñāpāramitā Heart Sūtra Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/heart-sutra-xuanzang.txt "Heart Sūtra Plain Text")
-
-Start marker: 觀自在菩薩行深
-
-End marker: 本網站係採用
-
 English translation:
 Prajnaparamita Heart Sutra, Translated from the Chinese version of Xuanzang by Venerable Yifa, M. C. Owens, P. M. Romaskiewicz, 2006. Buddha's Light Publishing.
 

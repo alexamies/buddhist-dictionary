@@ -18,6 +18,4 @@ Attributed to: Li Fang and others
 
 Document: [Document at the Chinese Text Project] (http://ctext.org/taiping-yulan/769 "Document at the Chinese Text Project")
 
-Alternate formats: [Plain text file] (corpus/taipingyulan-scroll769.txt "Plain text file")
-
 English translations: None

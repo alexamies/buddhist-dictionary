@@ -18,8 +18,6 @@ Translator: Seng You
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/T52n2102_001 "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/hongmingji-scroll1-fragment.txt "Plain Text")
-
 Start marker: 佛從何出生。寧有先祖及國邑不
 
 End marker: 王常使隨太子。

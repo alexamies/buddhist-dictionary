@@ -14,8 +14,6 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [Mahāparinirvāṇasūtra, Scroll 1] (http://www.cbeta.org/result/normal/T01/0005_001.htm "Mahāparinirvāṇasūtra, Scroll 1")
 
-Alternate formats: [Plain text file] (corpus/nirvana-sutra-scroll1.txt "Plain text file")
-
 Start marker: 佛為阿難說
 
 End marker: 阿難聞佛自期三月

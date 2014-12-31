@@ -20,10 +20,6 @@ Compiled by: Hui Jiao
 
 Document: [Document at CBETA] (http://www.cbeta.org/result2/normal/T50/2059_014.htm "Document at CBETA")
 
-Start marker: 高僧傳卷第十四
-
-End marker: 中華電子佛典協會
-
 English	translation: None
 
 ### This scroll gives a preface.

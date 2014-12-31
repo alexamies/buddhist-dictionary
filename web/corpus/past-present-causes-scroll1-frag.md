@@ -18,8 +18,6 @@ Translator: Gunabhadra
 
 Document: [Document at CBETA] (http://tripitaka.cbeta.org/mobile/index.php?index=T03n0189_001 "Document at CBETA")
 
-Alternate formats: [Plain text file] (corpus/past-present-causes-scroll1-frag.txt "Plain Text")
-
 Start marker: 爾時菩薩觀降胎時至
 
 End marker: 當爾之時，諸釋種姓

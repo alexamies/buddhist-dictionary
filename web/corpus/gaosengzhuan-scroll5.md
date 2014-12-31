@@ -20,10 +20,6 @@ Compiled by: Hui Jiao
 
 Document: [Document at CBETA] (http://www.cbeta.org/result/normal/T50/2059_005.htm "Document at CBETA")
 
-Start marker: 高僧傳卷第五
-
-End marker: 中華電子佛典協會
-
 English	translation: None
 
 Summary: This scroll contains biographical entries for Dao An, Fahe, Zhu Falang, Zhu Fatai, Seng Xian, Zhu Sengfu, Zhu Sengfu, Tanyi, Fayu, Tanhui, Daoli, Tanjie, Zhu Fakuang, and Huiqian.

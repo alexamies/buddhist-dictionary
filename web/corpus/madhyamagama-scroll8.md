@@ -18,8 +18,6 @@ Translator: Sajghadeva
 
 Document: [Sūtra Chinese Text] (http://www.cbeta.org/result/normal/T01/0026_008.htm "Sūtra Chinese Text")
 
-Alternate formats: [Plain text file] (corpus/madhyamagama-scroll8.txt "Sūtra Plain Text")
-
 Start marker: 我聞世尊在兜瑟哆天
 
 End marker: 我聞世尊一時在父白淨王家
