@@ -60,9 +60,15 @@
         <ul>
           <li><a href="#data">Corpus Data</a></li>
           <li><a href="#tools">Software Tools</a></li>
-          <li><a href="#probability">Probability</a></li>
-          <li><a href="#expectation">Expectation</a></li>
-          <li><a href="#entropy">Entropy</a></li>
+          <li>
+            <a href="#concepts">Concepts</a>
+            <ul>
+              <li><a href="#probability">Probability</a></li>
+              <li><a href="#expectation">Expectation</a></li>
+              <li><a href="#entropy">Entropy</a></li>
+              <li><a href="#markov">Markov Models</a></li>
+            </ul>
+          </li>
           <li>
             <a href="#special">Special Distributions</a>
             <ul>
@@ -118,6 +124,9 @@
       <p>
         This page gives some incomplete notes on statistical background in analyzing Chinese text 
         and analyzing quality of corpus data.
+        The statistical techniques described here are currently not used in the NTI Reader.
+        Rather, simple counts based on unigram and bigram frequencies are used for word sense
+        disambiguation by the NTI Reader in sentence-based dictionary lookup and HTML gloss generation.
       </p>
       <h3><a name="data"></a>Corpus Data</h3>
       <p>
@@ -343,12 +352,28 @@
         <img src="images/ungram_barplot.png"/><br/>
         Figure 2: Word Frequency Bar Plot for a Subset of the Data
       </p>
-      <h3><a name="probability"></a>Probability</h2>
+      <h3><a name="concepts"></a>Concepts</h3>
+      <h4><a name="probability"></a>Probability</h4>
       <p>
-        <strong>Example</strong>: Different Chinese characters have acquired multiple meanings over history.
-        This makes choosing the appropriate word meaning require understanding of the context.
-        One of the goals of the NTI Reader is to help the user decide which is the most appropriate word sense.
-        Suppose that we wish to find the probability of choosing the right meaning of the character 法 (fǎ).
+        Suppose that we need to choose between one of two options and each option was equally likely.
+        Then each option would have a 1/2 or 50% <strong>probability</strong> of being correct.
+        For example, suppose we see the English word <i>butter</i> in a text and we need to decide whether the noun
+        meaning <i>the butter in the fridge</i> is intended or the verb, as in <i>please butter the toast</i>, is intended.
+        To find out the probability of the intended sense then you might look at the surrounding words or you might
+        guess that the noun meaning a particular dairy product in the fridge is more likely, in general.
+        One of the goals of the NTI Reader is to help the user decide which is the most appropriate word sense
+        and part of speech.
+        These are classic problems in natural language processing and ones that are still problematic today.
+        The technique used is to tag all the words in a subset of the corpus and tally up the different word senses found.
+        It has been found that simply using the most common part of speech of words with multiple possible parts of speech
+        results in selection of the correct part of speech about 90% of the time, for English text.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 344)
+        The success rate may be lower for Chinese due to the long historic period of written Chinese covered and the 
+        changing predominant word sense over time.
+      </p>
+      <p>
+        <strong>Example</strong>: Suppose that we wish to find the probability of choosing the right meaning 
+        of the character 法 (fǎ).
         法 (fǎ) most often means the noun "law" or the noun "method" in modern Chinese. 
         However, in Buddhist texts written in literary Chinese, 法 might mean the proper noun "Dharma" 
         (the teachings of the Buddha), teachings in general, or the noun "dharma" (phenomenon).
@@ -496,29 +521,7 @@
       <p>
         (DeGroot and Morris, <i>Probability and Statistics</i>, 131)
       </p>
-      <p>
-        A <strong>stochastic process</strong> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
-        in time. A <strong>Markov chain</strong> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
-        depend only on X<sub>n</sub> and not only earlier states.
-        (DeGroot and Morris, <i>Probability and Statistics</i>, 188)
-      </p>
-      <p>
-        The <strong>transition distributions</strong> of a Markov chain are the conditional probabilities 
-      </p>
-      <p class='formula'>
-        p<sub>ij</sub> = Pr(X<sub>n+1</sub>=j|X<sub>n</sub>=i)
-      </p>
-      <p>
-        where the random variables X<sub>n</sub> can have k possible states.
-        A <strong>transition matrix</strong> is a matrix <strong>P</strong> = [p<sub>ij</sub>] made up of the conditional probabilities of the 
-        transition distributions.
-        (DeGroot and Morris, <i>Probability and Statistics</i>, 190-192)
-      </p>
-      <p>
-        <strong>Example</strong>: A stream of words can be thought of as a Markov chain. The earlier words can influence the later
-        words. In a simple statistical model, each word may only be influenced by the preceding words. 
-      </p>
-      <h3><a name="expectation"></a>Expectation</h2>
+      <h4><a name="expectation"></a>Expectation</h4>
       <p>
         The <strong>expectation</strong> or of a random variable is its <strong>mean</strong>.
         The expectation of a discrete random variable X with probability function f is defined as 
@@ -676,7 +679,7 @@
         tagged corpus. So, there are at least 25% of the texts in the corpus that have more unique words than 
         we have word frequency data for. Clearly, we are short of coverage on word frequency.
       </p>
-      <h3><a name="entropy"></a>Entropy</h2>
+      <h4><a name="entropy"></a>Entropy</h4>
       <p>
         <strong>Entropy</strong> is a measure of the amount of information in a distribution.
         Entropy is defined as
@@ -704,7 +707,107 @@
         surrounding words.
         (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 239-241)
       </p>
-      <h3><a name="special"></a>Special Distributions</h2>
+      <h4><a name="markov"></a>Markov Models</h4>
+      <p>
+        A <strong>stochastic process</strong> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
+        in time. A <strong>Markov chain</strong> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
+        depend only on X<sub>n</sub> and not only earlier states.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 188)
+      </p>
+      <p>
+        The <strong>transition distributions</strong> of a Markov chain are the conditional probabilities 
+      </p>
+      <p class='formula'>
+        p<sub>ij</sub> = Pr(X<sub>n+1</sub>=j|X<sub>n</sub>=i)
+      </p>
+      <p>
+        where the random variables X<sub>n</sub> can have k possible states.
+        A <strong>transition matrix</strong> is a matrix <strong>P</strong> = [p<sub>ij</sub>] made up of the conditional probabilities of the 
+        transition distributions.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 190-192)
+      </p>
+      <p>
+        A <strong>hidden Markov model</strong> is a Markov model where the state of the model is not known directly.
+        Only the expression of the state may be observed.
+        There is a level of probability between the state of the model and the expression of the state.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 320-321)
+      </p>
+      <p>
+        Manning and Schütze describe using a Markov model for a part-of-speech (POS) bigram tagger.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 345-349)
+        The state of the model is given by the POS tag t<sub>i</sub> for a word w<sub>i</sub> at position i
+        in the text.
+        The tags are the Brown Corpus tags that only give the POS, not the specific meaning of a word, like
+        the NTI Chinese corpus.
+        For example, move/VB, the tag VB indictes a verb. 
+        We estimate the transition matrix with a <strong>training set</strong> of tagged data and use it 
+        to predict tags in a <strong>test set</strong>.
+        The model is a hidden Markov model because in the test data we do not know the values of the tags, 
+        just their expression in particular words.
+        The following assumptions are made
+      </p>
+      <p>
+        <ul>
+          <li>
+            The value of a tag only depends on the previous tag. This is the limited horizon assumption.
+          </li>
+          <li>The words are independent of each other.</li>
+          <li>
+            The sense of a word only depends on its tag. For example, we can assume that the noun
+            butter means <i>the butter in the fridge</i> and there are no other nouns with a different
+            meaning to this. This assumption may be valid most of the time for English but would
+            probably not be valid for literary Chinese.
+          </li>
+        </ul>
+      </p>
+      <p>
+        The probability Pr(t<sup>k</sup>|t<sup>j</sup>)
+        of the kth tag t<sup>k</sup> in the tagset following the tag t<sup>j</sup> is
+      </p>
+      <p class='formula'>
+        Pr(t<sup>k</sup>|t<sup>j</sup>) = C(t<sup>k</sup>, t<sup>j</sup>) / C(t<sup>j</sup>)
+      </p>
+      <p>
+        where C(t<sup>k</sup>, t<sup>j</sup>) is the count of tag t<sup>k</sup> following t<sup>j</sup>
+        and C(t<sup>j</sup>) is the count of tag t<sup>j</sup>.
+        The probability of word w<sup>l</sup>, the lth word in the lexicon, being associated with
+        tag t<sup>j</sup> is 
+      </p>
+      <p class='formula'>
+        Pr(w<sup>l</sup>|t<sup>j</sup>) = C(w<sup>l</sup> : t<sup>j</sup>) / C(t<sup>j</sup>)
+      </p>
+      <p>
+        where C(w<sup>l</sup> : t<sup>j</sup>) is the count of word w<sup>l</sup> tagged as t<sup>j</sup>.
+        The optimal series of tags for a sentence is found by optimizing the Maximum Likelihood Estimator
+        Pr(w<sup>l</sup>|t<sup>j</sup>) over all words the training set.
+        Since the computation can be computationally intensive, the Vibeti algorithm, which optimizes using
+        memoization is suggested.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 326-336)
+      </p>
+      <p>
+        The current version of the NTI Reader sentence-based dictionary lookup and HTML gloss generator uses
+        word-sense disambiguation based on bigram frequency with fallback to unigram frequency.
+        That is, rather than using a true statistical estimation technique, like the Markov model approach
+        described here, the NTI Reader uses the most common bigram frequency to decide on word sense for a 
+        word in a sequence of words. When the reader has never seen a bigram sequence before, it falls back
+        on the unigram frequency to select the word sense. 
+        Manning and Schütze describe combining bigram, unigram, and trigram Markov models using linear
+        interpolation and toher techniques.
+        (Manning and Schütze, <i>Natural Language Processing</i>, 353-354)
+        In fact, handling of previously unseen words is a major problem using Markov models for text
+        processing, even with large corpuses.
+        POS tags for unknown words in English text may be guessed based on capitalization and word ending
+        but that is not possible in Chinese text.
+        (Manning and Schütze, <i>Natural Language Processing</i>, 351-352)
+      </p>
+      <p>
+        Manning and Schütze report accuracies of POS tagging in English of up to 95% to 97%.
+        (Manning and Schütze, <i>Natural Language Processing</i>, 371)
+        One would expect Chinese to be a good language for bigram hidden Markov model taggers because 
+        word order is fundamental to grammatical structure in Chinese. 
+        This may not be the case for Sanskrit, where word morphology is more important than word order.
+      </p>
+      <h3><a name="special"></a>Special Distributions</h3>
       <h4><a name="bernoulli"></a>Bernoulli Distribution</h4>
       <p>
         The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
