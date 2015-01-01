@@ -14,9 +14,9 @@ Source: Book of the Later Han
 
 Reference: Vol. 73
 
-Translator: Buddhabhadra
+Compiled by: Fan Ye and others
 
-Document: [Document online] (http://www.xysa.com/xysafz/book/houhanshu/t-103.htm "Document online")
+Document: [Source Document] (http://ctext.org/hou-han-shu/liu-yu-gong-sun-zan-tao "Source Document")
 
 Start marker: 初，同郡人笮融
 

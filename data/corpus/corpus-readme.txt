@@ -56,7 +56,7 @@ doc_type: Raw text in the historic language, translated into a modern language,
 
 uri: Either the file name for local files or the URL for a web document (required).
 
-source: A human friendly name for the document (required).
+source: A human friendly name for the source of the document (required).
 
 start: Text to identify start of text to be analyzed. Used to exclude 
   header information on web documents. Start marker itself is excluded. The text 
