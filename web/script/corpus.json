@@ -16,7 +16,7 @@
 ,
 {"doc_type": "Collection","source_name": "Buddha's Birthday Stories and Celebration","reference": "Buddhist and Historic","language": "Chinese","start": "","charset": "Traditional","uri": "birthday","translator": "Various","source": "Various","genre": "Various","type": "collection","id": "9"}
 ,
-{"doc_type": "śāstra","source_name": "Nāgārjuna's Middle Way: Mulamadhyamakakarika 龍樹中論","reference": "T 30 1564","language": "Chinese","start": "問曰。何故造此論","gloss_file": "mulamadhyamakakarika-gloss.html","charset": "Traditional","plain_text": "mulamadhyamakakarika.txt","uri": "corpus_entry.php?uri=mulamadhyamakakarika.md","period": "334－413","translator": "Kumārajīva","source": "Taishō Tripiṭaka","genre": "Prajnaparamita","end": "本網站採用","type": "file","id": "10","analysis_file": "mulamadhyamakakarika-analysis.md"}
+{"doc_type": "śāstra","source_name": "Nāgārjuna's Middle Way: Mulamadhyamakakarika 龍樹中論","reference": "T 30 1564","language": "Chinese","start": "問曰。何故造此論","gloss_file": "mulamadhyamakakarika-gloss.html","charset": "Traditional","plain_text": "mulamadhyamakakarika.txt","uri": "corpus_entry.php?uri=gloss/mulamadhyamakakarika-gloss.html&html=true","period": "334－413","translator": "Kumārajīva","source": "Taishō Tripiṭaka","genre": "Prajnaparamita","end": "本網站採用","type": "file","id": "10","analysis_file": "mulamadhyamakakarika-analysis.md"}
 ,
 {"doc_type": "Commentary","source_name": "The Great Calming and Contemplation 摩訶止觀","reference": "T 46 1911","language": "Chinese","start": "","charset": "Traditional","uri": "mhzg","period": "538–597","translator": "Zhi Yi","source": "Taishō Tripiṭaka","genre": "Commentary","type": "collection","id": "11"}
 ,

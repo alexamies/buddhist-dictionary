@@ -5,10 +5,10 @@ names <- c("pos.tagged.text", "element.text", "word.id", "frequency")
 unigram <- read.table("data/dictionary/unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names, numerals ="allow.loss")
 corpusstats <- read.table("data/stats/corpus_stats.txt", sep="\t", quote="\"", numerals ="allow.loss", header=TRUE)
 
-# Plot of a huge number of unigram word frequencies
+# Plot of a huge number of unigram word frequencies against rank
 x <- seq(1, length(unigram$frequency))
 png(filename="web/images/unigram_frequency.png", width = 400, height = 400)
-plot(x, unigram$frequency, xlab="", ylab="Frequency", pch=20, col="blue")
+plot(x, unigram$frequency, xlab="Rank", ylab="Frequency", pch=20, col="blue")
 dev.off()
 
 # Histogram highlighting the frequency of the top few words
