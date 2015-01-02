@@ -6,7 +6,7 @@ For vocabulary analysis, see separate entries for the full text and for the intr
 
 Period: Sui
 
-HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll7-gloss.html "HTML with gloss")
+HTML Reader: [HTML with gloss] (corpus_entry.php?uri=gloss/mhzg-scroll7-gloss.html&html=true "HTML with gloss")
 
 Vocabulary analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/mhzg-scroll7-analysis.md "Vocabulary analysis")
 
