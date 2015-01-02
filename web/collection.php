@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="bdictApp">
+<html lang="en" ng-app="bdictCollection">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <meta name="fragment" content="!" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="NTI Buddhist Text Reader">
-    <meta name="fragment" content="!">
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <title>NTI Buddhist Text Reader</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
@@ -56,34 +55,30 @@
     </div>
 
     <div class="container">
-      <h2>Collection of Buddhist Texts</h2>
+      <h2 ng-if="main_doc.source_name">{{main_doc.source_name}}</h2>
+      <p ng-if="main_doc.source">Source: {{main_doc.source}}</p>
+      <p ng-if="main_doc.reference">Reference: {{main_doc.reference}}</p>
+      <p ng-if="main_doc.period">Period: {{main_doc.period}}</p>
+      <p ng-if="main_doc.translator">Compiled / translated by: {{main_doc.translator}}</p>
+      <p ng-if="main_doc.genre">Genre: {{main_doc.genre}}</p>
       <p>
         Filter: <input ng-model="query">
-        Sort by:
-        <select ng-model="orderProp" ng-init="orderProp='source_name'">
-          <option value="source_name" selected="selected">Source Name</option>
-          <option value="doc_type">Type</option>
-          <option value="translator">Translator / Compiled by</option>
-          <option value="period">Period</option>
-          <option value="genre">Genre</option>
-        </select>
       </p>
       <table class="table table-bordered table-hover">
         <thead>
-          <tr><th>Source Name</th><th>Type</th><th>Translator / Compiled by</th><th>Period</th><th>Genre</th></tr>
+          <tr><th>Name</th><th>Description</th></tr>
         </thead>
         <tbody>
-          <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
-            <td ng-if="doc.type != 'collection'">
+          <tr ng-repeat="doc in docs | filter:query | orderBy:'id'">
+            <td ng-if="main_doc.hasOwnProperty('short_name')">
+              <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.short_name}}</a>
+            </td>
+            <td ng-if="!main_doc.hasOwnProperty('short_name')">
               <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
             </td>
-            <td ng-if="doc.type == 'collection'">
-              <a href="collection.php?colname={{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
+            <td>
+              {{doc.description}}
             </td>
-            <td>{{doc.doc_type}}</td>
-            <td>{{doc.translator}}</td>
-            <td>{{doc.period}}</td>
-            <td>{{doc.genre}}</td>
           </tr>
         </tbody>
       </table>
@@ -97,6 +92,12 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <script src="script/angular.min.js"></script>
-    <script src="script/controllers.js"></script>
+<?php
+    if (isset($_REQUEST['colname'])) {
+        $colname = $_REQUEST['colname'];
+        print("<input id='colname' type='hidden' name='colname' value='" . $colname . "'/>\n");
+    }
+?>
+    <script src="script/collection_ctl.js"></script>
   </body>
-</html>
+<html>
