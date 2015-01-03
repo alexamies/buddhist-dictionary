@@ -107,7 +107,8 @@ class GlossGenerator:
                     markup += self._Word(element, entry, previous)
                     previous = entry['traditional']
             else:
-                markup += self._Punctuation(element)
+                markup += self._Punctuation(element, previous)
+                previous = element
         markup += self._Timestamp()
         return markup
 
@@ -195,12 +196,15 @@ class GlossGenerator:
         url = 'phrase_detail.php?id=%s' % entry_id
         return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
 
-    def _Punctuation(self, element_text):
+    def _Punctuation(self, element_text, previous = None):
         """Generates output text formatted for a punctuation element.
         """
         if self.output_type == POS_TAGGED_TYPE:
             pos = 'PU'
             return '%s/%s\n' % (element_text, pos)
+        elif element_text == '\n' and previous == '>':
+            # HTML tag - do not add new line
+            return '\n'
         elif element_text == '\n':
             return '<br/>\n'
         return element_text
