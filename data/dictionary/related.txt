@@ -809,6 +809,10 @@
 尸罗伐国	舍卫国	Also known as	\N
 舍卫国	舍罗婆悉帝国	Also known as	\N
 舍罗婆悉帝国	舍卫国	Also known as	\N
+舍卫城	舍卫	Also known as	\N
+舍卫	舍卫城	Also known as	\N
+舍卫	那毗伽	Also known as	\N
+那毗伽	舍卫	Also known as	\N
 鸯窭利摩罗	指鬘	Also known as	\N
 指鬘	鸯窭利摩罗	Also known as	\N
 指髻	指鬘	Also known as	\N
@@ -1072,6 +1076,8 @@
 尼泊尔	尼婆罗	Also known as	\N
 于阗国	于阗	Also known as	\N
 于阗	于阗国	Also known as	\N
+犍陀罗	犍陀卫	Also known as	\N
+犍陀卫	犍陀罗	Also known as	\N
 犍陀罗	乾陀罗	Also known as	\N
 乾陀罗	犍陀罗	Also known as	\N
 健驼逻	犍陀罗	Also known as	\N
@@ -1142,6 +1148,8 @@
 释尊	释迦	Also known as	\N
 释迦牟尼佛	释尊	Also known as	\N
 释尊	释迦牟尼佛	Also known as	\N
+释迦牟尼佛	释迦文佛	Also known as	\N
+释迦文佛	释迦牟尼佛	Also known as	\N
 沙州	敦煌	Also known as	\N
 敦煌	沙州	Also known as	\N
 长安	西安	Also known as	\N
@@ -1550,6 +1558,12 @@
 心经	般若波罗蜜多心经	Full name	\N
 大乘佛教	大乘	Also known as	\N
 大乘	大乘佛教	Also known as	\N
+大乘	摩诃衍那	Also known as	\N
+摩诃衍那	大乘	Also known as	\N
+大乘	摩诃衍	Also known as	\N
+摩诃衍	大乘	Also known as	\N
+摩诃衍那	摩诃衍	Abbreviation	\N
+摩诃衍	摩诃衍那	Full name	\N
 西藏自治区	西藏	Abbreviation	\N
 西	西藏自治区	Full name	\N
 西藏自治区	藏	Abbreviation	\N
@@ -2815,6 +2829,8 @@
 迦惟罗阅	迦毗罗	Also known as	\N
 迦毗罗卫	迦惟罗阅	Also known as	\N
 迦惟罗阅	迦毗罗卫	Also known as	\N
+迦毗罗	迦维罗卫	Also known as	\N
+迦维罗卫	迦毗罗	Also known as	\N
 阿尼律陀	阿楼驮	Also known as	\N
 阿楼驮	阿尼律陀	Also known as	\N
 阿尼律	阿楼驮	Also known as	\N
@@ -3137,3 +3153,21 @@
 日尔曼语族	日耳曼语族	Also known as	\N
 日耳曼	日尔曼	Also known as	\N
 日尔曼	日耳曼	Also known as	\N
+塔克西拉	竺剎屍罗	Also known as	\N
+竺剎屍罗	塔克西拉	Also known as	\N
+拘尸那揭罗	那竭城	Also known as	\N
+那竭城	拘夷那竭	Also known as	\N
+拘夷那竭	那竭城	Also known as	\N
+波罗㮏城	波罗㮏	Also known as	\N
+波罗㮏	波罗㮏城	Also known as	\N
+波罗㮏城	波罗奈国	Also known as	\N
+波罗奈国	波罗㮏城	Also known as	\N
+波罗㮏	瓦拉纳西	Also known as	\N
+瓦拉纳西	波罗㮏	Also known as	\N
+波罗奈国	瓦拉纳西	Also known as	\N
+瓦拉纳西	波罗奈国	Also known as	\N
+那竭城	拘尸那揭罗	Also known as	\N
+旃陀罗	旃荼罗	旧称 former name	\N
+旃荼罗	旃陀罗	Also known as	\N
+印度河	新头河	旧称 former name	\N
+新头河	印度河	Also known as	\N

@@ -420,14 +420,14 @@
 420	小乘學	小乘/NR[Xiǎochéng | Theravāda] 學/VV[xué | study] <to study Theravāda>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 421	坐處	坐/VV[zuò | to sit] 處/NN[chù | a place] <the place where he sat>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 422	華香	華/NN[huà | a flower] 香/NN[xiāng | incense] <flowers and incense>	\N	\N	Record of Buddhistic Kingdoms 佛國記
-423	校餝	校/VV[jiào | to decorate] 餝/VV[shì |  to decorate] <to decorate>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+423	校餝	校/VV[jiào | to decorate] 餝/VV[shì | to decorate] <to decorate>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 424	處起塔	處/NN[chù | a place] 起/VV[qǐ | to raise] 塔/NN[tǎ | stupa] <to build a stupa at that place>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 425	夏坐	夏/NN[xià | summer] 坐/VV[zuò | to stay] <to stay for the summer>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 426	北行	北/NN[běi | north] 行/VV[xíng | to travel] <to travel north>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 427	三里	三/CD[sān | three] 里/NN[lǐ | li] <three li>	\N	\N	About 1.5 km, Record of Buddhistic Kingdoms 佛國記
 428	佛齒	佛/NR[Fó | Buddha] 齒/NN[chǐ | tooth] <a Buddha tooth relic>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 429	坐訖	坐/VV[zuò | to stay] 訖/VV[qì | to finish] <after having stayed>	\N	\N	Record of Buddhistic Kingdoms 佛國記
-430	金銀	金/NN[jīn | gold] 銀/NN[yín | silver] <gold and silver>\N	\N	Record of Buddhistic Kingdoms 佛國記
+430	金銀	金/NN[jīn | gold] 銀/NN[yín | silver] <gold and silver>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 431	東南行	東南/NN[dōngnán | southeast] 行/VV[xíng | to travel] <to travel southeast>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 432	行像	行/VV[xíng | to travel ] 像/NN[xiàng | image] <a procession of images>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 433	僧住	僧/NN[sēng | monk] 住/VV[zhù | to dwell] <monks residing>	\N	\N	Record of Buddhistic Kingdoms 佛國記
@@ -450,3 +450,77 @@
 450	佛坐	佛/NR[Fó | Buddha] 坐/VV[zuò | to sit] <the Buddha sat>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 451	西南行	西南/NN[xīnán | southwest] 行/VV[xíng | to travel] <to travel southwest>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 452	遣人	遣/VV[qiǎn | to dispatch] 人/NN[rén | person] <to send a person>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+453	大國	大/VA[dà | big] 國/NN[guó | a state] <a great kingdom>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+454	四里	四/CD[sì | four] 里/NN[lǐ | li] <four li>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+455	城西	城/NN[chéng | a city] 西/NN[xī | west] <west of the city>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+456	塔邊	塔/NN[tǎ | stupa] 邊/VV[biān | to be near] <beside the stupa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+457	五人	五/CD[wŭ | five] 人/NN[rén | person] <five people>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+458	道西	道/NN[dào | path] 西/NN[xī | west] <west of the road>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+459	上忉利天	上/VV[shàng | to go up] 忉利天/NR[Dāolìtiān | Trāyastriṃśa Heaven] <to go up to Trāyastriṃśa Heaven>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+460	石山	石/NN[shí | rock] 山/NN[shān | mountain] <a rocky hill>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+461	衆食	衆/VA[zhòng | all] 食/NN[shí | food] <common store>	\N	\N	Record of Buddhistic Kingdoms 佛國記, uses 衆, an archaic variant of 眾
+462	眾食	眾/VA[zhòng | all] 食/NN[shí | food] <common store>	\N	\N	Record of Buddhistic Kingdoms 佛國記, uses 衆, an archaic variant of 眾
+463	治罪人	治/VV[zhì | to punish] 罪人/NN[zuìrén | a sinner] <to punish an offender>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+464	佛泥洹	佛/NR[Fó | Buddha] 泥洹/NR[Níhuán | Nirvāṇa] <the Buddha's Nirvāṇa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+465	舊城	舊/VA[jiù | old] 城/NN[chéng | a city] <old city>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+466	城裏	城/NN[chéng | a city] 裏/NN[lǐ | inside] <inside the city>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+467	十里	十/CD[shí | ten] 里/NN[lǐ | li] <ten li>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+468	放弓仗	放/VV[fàng | to release] 弓/NN[gōng | bow] 仗/NN[zhàng | weapons] <to put down weapons>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+469	掃灑	掃/VV[sǎo | to sweep] 灑/VV[sǎ | to water] <to sweep and water>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+470	四邊	四/CD[sì | four] 邊/NN[biān | side] <four sides>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+471	佛般泥洹	佛/NR[Fó | Buddha] 般泥洹/NR[Bānníhuán | Nirvāṇa] <the Buddha's Nirvāṇa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+472	起大塔	起/VV[qǐ | to raise] 大/VA[dà | big] 塔/NN[tǎ | stupa] <to build a great stupa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+473	夏坐訖	夏/NN[xià | summer] 坐/VV[zuò | to stay] 訖/VV[qì | to finish] <after having stayed for the summer>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+474	城北	城/NN[chéng | a city] 北/NN[běi | north] <north of the city>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+475	般泥洹後	般泥洹/NR[Bānníhuán | Nirvāṇa] 後/NN[hòu | after] <after attaining Nirvāṇa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+476	佛坐處	佛/NR[Fó | Buddha] 坐/VV[zuò | to sit] 處/NN[chù | a place] <the place where the Buddha sat>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+477	城東北	城/NN[chéng | city] 東北/NN[dōngběi | northeast] <northeast of the city>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+478	國人民	國/NN[guó | a state] 人民/NN[rénmín | people] <the people of the country>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+479	二丈	二/CD[èr | two] 丈/NN[zhàng | zhang] <two zhang>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+480	秦土	秦/NR[Qín | Qin Dynasty] 土/NN[tǔ | territory] <territory of Qin>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+481	六七	六/CD[liù | six] 七/CD[qī | seven] <six or seven>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+482	一分	一/CD[yī | one] 分/NN[fèn | a portion] <one portion>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+483	西門	西/NN[xī | west] 門/NN[mén | gate] <west gate>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+484	三人	三/CD[sān | three] 人/NN[rén | person] <three people>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+485	到一邑	到/VV[dào | arrive] 一/CD[yī | one] 邑/NN[yì | village] <arrived at a village>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+486	南三里	三/CD[sān | three] 里/NN[lǐ | li] 南/NN[nán | south] <three li south>	\N	\N	About 1.5 km, Record of Buddhistic Kingdoms 佛國記
+487	千佛	千/CD[qiān | thousand] 佛/NR[Fó | Buddha] <a thousand Buddhas>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+488	處皆起塔	處/NN[chù | a place] 皆/DT[jiē | all] 起/VV[qǐ | to raise] 塔/NN[tǎ | stupa] <stupas were built at all these places>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+489	父子相見處	父/NN[fù | father] 子/NN[zǐ | son] 相見/VV[xiāngjiàn | to meet each other] 處/NN[chù | a place] <the place where the father and son met>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+490	僧住處	僧/NN[sēng | monk] 住/VV[zhù | dwell] 處/NN[chù | a place] <where monks live>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+491	西北行	西北/NN[xīběi | northwest] 行/VV[xíng | to travel] <to travel northwest>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+492	度蔥嶺	度/VV[dù | to cross] 蔥嶺/NR[Cōnglǐng | Pamirs] <crossed the Pamirs>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+493	割肉貿鴿	割/VV[gē | to cut off] 肉/NN[ròu | flesh] 貿/VV[mào | to trade] 鴿/NN[gē | dove] <cut off a piece of his own flesh to ransom the life of a dove>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+494	篤信佛法	篤信/VV[dǔxìn | to believe firmly] 佛法/NR[Fófǎ | Dharma] <to firmly believe in Buddhism>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+495	臣民	臣/NN[chén | minister] 民/NN[mín | people] <ministers and people>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+496	佛影	佛/NR[Fó | Buddha] 影/NN[yǐng | shadow] <the Buddha's shadow>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+497	成道處	成/VV[chéng | to accomplish] 道/NN[dào | the path leading to the cessation of suffering] 處/NN[chù | a place] <the place where he attained enlightenment>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+498	入谷	入/VV[rù | to enter] 谷/NN[gǔ | valley] <enter a valley>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+499	行一由延	行/VV[xíng | to travel] 一/CD[yī | one] 由延/NN[yóuyán | yojana] <to travel one yojana>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+500	東門	東/NN[dōng | east] 門/NN[mén | gate] <east gate>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+501	佛頂骨	佛/NR[Fó | Buddha] 頂骨/NN[dǐnggǔ | parietal bone] <the flat-bone of Buddha’s skull>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+502	二丈許	二/CD[èr | two] 丈/NN[zhàng | zhang] 許/AD[xǔ | perhaps] <perhaps two zhang>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+503	佛成道	佛/NR[Fó | Buddha] 成/VV[chéng | to accomplish] 道/NN[dào | the path leading to the cessation of suffering] <the Buddha attained enlightenment>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+504	競興供養	競/VV[jìng | to compete] 興/VV[xīng | to be popular] 供養/VV[gōngyàng | to make offerings] <it was common to compete in making offerings>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+505	得道處	得/VV[dé | to obtain] 道/NN[dào | the path leading to the cessation of suffering] 處/NN[chù | a place] <the place where he attained enlightenment>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+506	四大塔	四/CD[sì | four] 大/VA[dà | big] 塔/NN[tǎ | stupa] <four large stupas>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+507	敬心	敬/VV[jìng | to venerate] 心/NN[xīn | heart] <to have a reverent heart>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+508	求法	求/VV[qiú | to seek] 法/NR[fǎ | Dharma] <to seek the Dharma>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+509	冬夏	冬/NN[dōng | winter] 夏/NN[xià | summer] <winter and summer>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+510	七八	七/CD[qī | seven] 八/CD[bā | eight] <seven or eight>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+511	大乘學	大乘/NR[Dàchéng | Mahāyāna] 學/VV[xué | study] <study Mahāyāna>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+512	心念	心/NN[xīn | mind] 念/NN[niàn | a thought] <to think in his heart>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+513	散華	散/VV[sàn | to scatter] 華/NN[huá | a flower] <to scatter flowers>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+514	柱上	/NN[zhù | a pillar] 上/P[shàng | on] <on top of the pillar>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+515	高六丈許	高/NN[gāo | height] 六/CD[liù | six] 丈/NN[zhàng | zhang] 許/AD[xǔ | perhaps] <perhaps six zhang in height>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+516	船漏	船/NN[chuán | ship] 漏/VV[lòu | to leak] <the ship leaked>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+517	國國	國/NN[guó | a state] 國/NN[guó | a state] <all the kingdoms>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+518	佛得道	佛/NR[Fó | Buddha] 得/VV[dé | to obtain] 道/NN[dào | the path leading to the cessation of suffering] <the Buddha attained enlightenment>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+519	然燈續明	然/VV[rán | to burn] 燈/NN[dēng | lamp] 續/[xù | to continue] 明/VA[míng | bright] <lighting lamps to shine brightly>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+520	三帀	三/CD[sān | three] 帀/NN[zā | a round] <to go around three times>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+521	金銀校餝	校/VV[jiào | to decorate] 餝/VV[shì | to decorate] 金/NN[jīn | gold] 銀/NN[yín | silver] <gold and silver>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+522	汎海	汎/VV[fàn | to float] 海/NN[hǎi | sea] <to float across the sea>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+523	佛般泥洹後	佛/NR[Fó | Buddha] 般泥洹/NR[Bānníhuán | Nirvāṇa] 後/NN[hòu | after] <after the Buddha attained Nirvāṇa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+524	船上	船/NN[chuán | ship] 上/P[shàng | on] <on the boat>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+525	佛泥洹已來	佛/NR[Fó | Buddha] 泥洹/NR[Níhuán | Nirvāṇa] 已/NN[yǐ | afterwards] 來/P[lái | ever since] <since the Buddha attained Nirvāṇa>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+526	四方僧	四/CD[sì | four] 方/NN[fāng | side] 僧/NN[sēng | monk] <monks from all quarters>	\N	\N	Record of Buddhistic Kingdoms 佛國記
