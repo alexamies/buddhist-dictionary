@@ -1,6 +1,6 @@
 # Sumati Sūtra Chinese-Enlgish Text 妙慧童女經中英文本
 
-Collection: [Sumati Sūtra] (collection.html#/sumati "Sumati Sūtra")
+Collection: [Sumati Sūtra] (http://ntireader.org/collection.php?colname=sumati "Sumati Sūtra")
 
 Description: The Chinese and English text of the Sūtra.
 
@@ -9,6 +9,8 @@ Period: Tang
 Translator: Bodhiruci
 
 Chinese-English text in HTML with gloss: [HTML file] (corpus_entry.php?uri=gloss/sumati-chinese-english-gloss.html&html=true "HTML file")
+
+Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/sumati-chinese-english-analysis.md "Vocabulary analysis")
 
 Character Set: Traditional Chinese
 
