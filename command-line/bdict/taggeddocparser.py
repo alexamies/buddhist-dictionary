@@ -67,14 +67,19 @@ def LoadTaggedDoc(filename):
       The sequence of tagged words
     """
     tagged_words = []
-    with codecs.open(filename, 'r', "utf-8") as f:
-        # print('Reading input file %s ' % filename)
-        for line in f:
-            if not line.strip():
-                continue
-            element = ParseLine(line)
-            tagged_words.append(element)
-    return tagged_words
+    try:
+        with codecs.open(filename, 'r', "utf-8") as f:
+            # print('Reading input file %s ' % filename)
+            for line in f:
+                if not line.strip():
+                    continue
+                element = ParseLine(line)
+                tagged_words.append(element)
+        return tagged_words
+    except IOError as e:
+        print "I/O error({0}): {1}".format(e.errno, e.strerror)
+        return None
+
 
 
 def ParseLine(line):

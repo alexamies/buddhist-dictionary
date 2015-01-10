@@ -17,7 +17,6 @@ from bdict import postaggeraccuracy
 from bdict import sanskritglossgenerator
 from bdict import sanskritvocab
 from bdict import taggeddoc
-from bdict import taggeddocparser
 
 
 def PrintUsage():
@@ -169,18 +168,7 @@ def main():
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
         if 'pos_tagged' in corpus_entry:
-            try:
-                pos_tagged = corpus_entry['pos_tagged']
-                manager = configmanager.ConfigurationManager()
-                config = manager.LoadConfig()
-                tagged_directory = config['tagged_directory']
-                standard_file = '%s/%s' % (tagged_directory, pos_tagged)
-                standard = taggeddocparser.LoadTaggedDoc(standard_file)
-                subject = taggeddocparser.LoadTaggedDoc(filename)
-                accuracy = postaggeraccuracy.TaggerAccuracy(standard, subject)
-                print('Tagging accuracy: %f' % accuracy)
-            except app_exceptions.BDictException as e:
-                print('Could not compute accuracy: %s.' % e)
+            accuracy = postaggeraccuracy.TaggerAccuracy(corpus_entry, filename)
         else:
             print('Could not compute accuracy: no standard tagged file.')
     elif command == 'transcode':
