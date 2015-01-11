@@ -111,8 +111,12 @@ def GetBestWordSense(wdict, wfreq_entry):
         print('Warning: could not find %s in dictionary.' % element_text)
         return None
     word_entry = wdict[element_text]
+    tagged_text = ''
+    if 'tagged_text' in wfreq_entry:
+        tagged_text = wfreq_entry['tagged_text']
     if tag not in PENN_2_DICT:
-        print('Warning: could not find tag %s in mapping for word %s.' % (tag, element_text))
+        print('Warning: could not find tag %s in mapping for word %s, tagged_text "%s".' % 
+              (tag, element_text, tagged_text))
     else:
         # find best match based on grammar
         grammar = word_entry['grammar']
@@ -124,8 +128,8 @@ def GetBestWordSense(wdict, wfreq_entry):
         if not GrammarMatch(tag, grammar) or not GlossMatch(wfreq_entry, word_entry):
             # print('Tag %s for word %s grammar %s does not match grammar.' % (tag, element_text, grammar))
             if 'other_entries' not in word_entry or not word_entry['other_entries']:
-                print('taggeddocparser.GetBestWordSense No other entries for word %s grammar "%s" gloss "%s".' % 
-                      (element_text, grammar, english))
+                print('taggeddocparser.GetBestWordSense No other entries for word %s, grammar "%s", gloss "%s", tagged_text "%s".' % 
+                      (element_text, grammar, english, tagged_text))
             else:
                 other_entries = word_entry['other_entries']
                 for entry in other_entries:
@@ -134,8 +138,8 @@ def GetBestWordSense(wdict, wfreq_entry):
                         break
                 if not GrammarMatch(tag, word_entry['grammar']) or not GlossMatch(wfreq_entry, word_entry):
                     print('taggeddocparser.GetBestWordSense: Could not find match for element '
-                          'text %s tag %s gloss "%s" among %d entries based on '
-                          'grammar or gloss.' % (element_text, tag, english, 
+                          'text %s, tag %s, gloss "%s", tagged_text "%s" among %d entries based on '
+                          'grammar or gloss.' % (element_text, tag, english, tagged_text,
                           len(other_entries)+1))
     return word_entry
 

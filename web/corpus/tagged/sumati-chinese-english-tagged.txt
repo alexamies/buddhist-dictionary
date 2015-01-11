@@ -24,7 +24,7 @@
 人/NN[rén | person]
 俱/AD[jū | together]
 。/PU
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 王舍城/NR[Wángshè Chéng | Rajgir]
 有/VE[yǒu | to have]
 長者/NN[zhǎngzhě | elder]
@@ -64,7 +64,7 @@
 善/VA[shàn | virtuous]
 根/NN[gēn | a root]
 。/PU
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 彼/PN[bǐ | that]
 女人/NN[nǚrén | woman]
 詣/VV[yì | to go to visit a superior]
@@ -99,7 +99,7 @@
 燈/NN[dēng | light]
 。/PU
 菩薩/NN[púsà | bodhisattva]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 所/PN[suǒ | it]
 行/VV[xíng | to practice]
 ，/PU
@@ -131,10 +131,10 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 妙慧/NR[Miàohuì | Sumatī]
-即/CC[jí | promptly]
+即/AD[jí | promptly]
 於/P[yú | in]
 佛/NR[Fó | Buddha]
 前/P[qián | in front of]
@@ -175,7 +175,7 @@
 千/CD[qiān | one thousand]
 葉/NN[yè | leaf]
 蓮花/NN[liánhuā | a lotus]
-上/LC[shàng | above]
+上/VA[shàng | above]
 ，/PU
 面/NN[miàn | side]
 奉/VV[fèng | to receive]
@@ -257,7 +257,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 佛/NR[Fó | Buddha]
 告/VV[gào | told]
@@ -275,17 +275,17 @@
 此/DT[cǐ | this]
 深/VA[shēn | profound]
 妙/VA[miào | wonderful]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 義/NN[yì | meaning]
 。/PU
 諦/VV[dì | examine]
-聽VV/[tīng | listen]
+聽/VV[tīng | listen]
 諦/AD[dì | carefully]
-聽VV/[tīng | listen]
+聽/VV[tīng | listen]
 ，/PU
 善/VA[shàn | virtuous]
 思念/VV[sīniàn | to think of]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 ，/PU
 當/P[dāng | at or in the very same]
 為/VC[wèi | for]
@@ -321,11 +321,11 @@
 端正/VA[duānzhèng | upright]
 身/NN[shēn | body]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一/OD[yī | firstly] 
+一/OD[yī | first] 
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
@@ -337,20 +337,23 @@
 瞋/NN[chēn | anger]
 心/NN[xīn | mind]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 住/VV[zhù | to dwell]
 於/P[yú | in]
-大/VA[dà | big]
-慈/VA[cí | compassionate]
+大慈/NN[dà cí | great loving-kindness]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 深/VA[shēn | profound]
 樂/VV[lè | to take joy in]
-正法/NN[zhèngfǎ | the law]
+正/VA[zhèng | main]
+法/NR[Fǎ | Dhárma]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 造/VV[zào | to make]
 佛/NR[Fó | Buddha]
@@ -358,7 +361,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -367,18 +370,18 @@
 言/VV[yán | speak]
 ：/PU
 「/PU
-瞋/NN[chēn | aversion]
-壞/VA[huài | bad]
+瞋/NN[chēn | anger]
+壞/VV[huài | to destroy]
 善/VA[shàn | virtuous]
 根/NN[gēn | a root]
 勿/AD[wù | do not]
-增長/VV[zēngzhǎng | to increase]
+增長/VV[zēngzhǎng | to grow]
 、/PU
 慈/VA[cí | kind]
 心/NN[xīn | heart]
 、/PU
 樂/VV[lè | to take joy in]
-法/NN[fǎ | a dharma]
+法/NR[Fǎ | Dhárma]
 、/PU
 造/VV[zào | to make]
 佛/NR[Fó | Buddha]
@@ -386,8 +389,8 @@
 ，/PU
 當/P[dāng | at or in the very same]
 獲/VV[huò | to reap]
-具/AD[jù | in detail]
-相/NN[xiàng | a perception]
+具/AD[jù | entirely]
+相/NN[xiàng | a sign]
 莊嚴/VV[zhuāngyán | to adorn]
 身/NN[shēn | body]
 ，/PU
@@ -395,7 +398,7 @@
 眾生/NN[zhòngshēng | a being]
 常/AD[cháng | always]
 樂/VV[lè | to take joy in]
-見/NN[jiàn | opinion]
+見/VV[jiàn | to see]
 。/PU
 「/PU
 復次/CC[fùcì | furthermore]
@@ -410,38 +413,42 @@
 富貴/NN[fùguì | riches and honor]
 身/NN[shēn | body]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-應時/NN[yìngshí | timing]
-行/VV[xíng | to do]
-施/VV[shī | to distribute alms]
+應時/VA[yìngshí | timely]
+行/VV[xíng | to practice]
+施/VV[shī | to practice giving]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 無/VE[wú | to not have]
-輕/VA[qīng | light]
-慢/VA[màn | slow]
+輕/VV[qīng | to belittle]
+慢/NN[màn | arrogance]
 心/NN[xīn | mind]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 歡喜/VA[huānxǐ | joyful]
 而/CC[ér | and]
 與/CC[yǔ | and]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 不/AD[bù | not]
-希/AD[xī | rare]
+希/VV[xī | to hope]
 果報/NN[guǒbào | the result of karma]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -450,13 +457,13 @@
 言/VV[yán | speak]
 ：/PU
 「/PU
-應時/NN[yìngshí | timing]
-行/VV[xíng | to do]
+應時/VA[yìngshí | timely]
+行/VV[xíng | to practice]
 施/VV[shī | to distribute alms]
 、/PU
 無/VE[wú | to not have]
-輕/VA[qīng | light]
-慢/VA[màn | slow]
+輕/VV[qīng | to belittle]
+慢/NN[màn | arrogance]
 、/PU
 歡喜/VA[huānxǐ | joyful]
 授/VV[shòu | to teach]
@@ -493,50 +500,55 @@
 得/DER[dé | to obtain]
 眷屬/NN[juànshǔ | family members]
 不/AD[bù | not]
-壞/VA[huài | bad]
+壞/VV[huài | to wreck]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 善能/VV[shànnéng | to be good at]
 棄捨/NN[qìshě | abandoning]
 離間/VV[líjiān | to divide]
-之/PN[zhī | genetive marker]
-語/VV[yù | to speak]
+之/DEG[zhī | genetive marker]
+語/NN[yù | language]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-邪見/NN[xiéjiàn | Mithya]
+邪見/NN[xiéjiàn | perverse views]
 眾生/NN[zhòngshēng | a being]
 令/VV[lìng | to make]
 住/VV[zhù | to dwell]
 正見/NR[zhèng jiàn | Right Understanding]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-正法/NN[zhèngfǎ | the law]
+正/VA[zhèng | main]
+法/NR[Fǎ | Dhárma]
 將/AD[jiāng | will, shall (future tense)]
 滅/VV[miè | to extinguish]
 護/VV[hù | to protect]
 令/VV[lìng | to make]
-久/VA[jiǔ | old]
+久/AD[jiǔ | a long time]
 住/VV[zhù | to dwell]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 教/VV[jiāo | to teach]
 諸/DT[zhū | all]
 有情/NN[yǒuqíng | a sentient being]
-趣/VV[qù | to interest]
+趣/VV[qù | to hasten]
 佛/NR[Fó | Buddha]
 菩提/NN[pútí | bodhi]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -549,15 +561,17 @@
 間/LC[jiān | between]
 言/VV[yán | to speak]
 及/CC[jí | and]
-邪見/NN[xiéjiàn | Mithya]
+邪見/NN[xiéjiàn | perverse views]
 、/PU
-正法/NN[zhèngfǎ | the law]
+正/VA[zhèng | main]
+法/NR[Fǎ | Dhárma]
 將/AD[jiāng | will, shall (future tense)]
 滅/VV[miè | to extinguish]
 能/VV[néng | can]
 護持/VV[hùchí | to protect and uphold]
 、/PU
-安住/VA[ānzhù | stable]
+安/VV[ān | to find a place for]
+住/VV[zhù | to dwell]
 眾生/NN[zhòngshēng | a being]
 大/VA[dà | big]
 菩提/NN[pútí | bodhi]
@@ -565,7 +579,7 @@
 當/P[dāng | at or in the very same]
 成/VV[chéng | to finish]
 不/AD[bù | not]
-壞/VA[huài | bad]
+壞/VV[huài | to wreck]
 諸/DT[zhū | all]
 眷屬/NN[juànshǔ | family members]
 。/PU
@@ -582,27 +596,28 @@
 當/P[dāng | at or in the very same]
 於/P[yú | in]
 佛/NR[Fó | Buddha]
-前/LC[qián | former]
+前/VA[qián | in front of]
 得/DER[dé | to obtain]
 受/VV[shòu | to receive]
 化生/NN[huàshēng | to be born from transformation]
 ，/PU
-處/LC[chù | a place]
+處/NN[chù | a place]
 蓮花/NN[liánhuā | a lotus]
 座/NN[zuò | seat]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 捧/VV[pěng | to hold or offer with both hands]
 諸/DT[zhū | all]
 花/NN[huā | flower]
 果/NN[guǒ | fruit]
 及/CC[jí | and]
-細/VA[xì | fine]
+細/VA[xì | tiny]
 末香/NN[mò xiāng | powdered incense]
 散/VV[sàn | to scatter]
 於/P[yú | in]
@@ -612,26 +627,30 @@
 塔/NN[tǎ | stupa]
 廟/NN[miào | temple]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-終/NN[zhōng | end]
+終/AD[zhōng | always]
 不/AD[bù | not]
 於/P[yú | in]
 他/PN[tā | other]
-妄/VA[wàng | absurd]
+妄/AD[wàng | recklessly]
 加/VV[jiā | add]
 損害/VV[sǔnhài | to harm]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 造/VV[zào | to make]
 如來/NR[Rúlái | Tathagata]
 像/NN[xiàng | image]
-安處/VV[ānchù | to make a safe home]
+安/VV[ān | to find a place for]
+處/NN[chù | a place]
 蓮/NN[lián | lotus]
 華/NN[huá | a flower]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 佛/NR[Fó | Buddha]
@@ -643,7 +662,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -671,10 +690,12 @@
 解/VV[jiě | to understand]
 ，/PU
 得/DER[dé | to obtain]
-處/LC[chù | a place]
-蓮花生/NR[Liánhuāshēng | Padmasambhava]
+處/NN[chù | a place]
+蓮/NN[lián | lotus]
+華/NN[huá | a flower]
+生/VV[shēng | born]
 佛/NR[Fó | Buddha]
-前/LC[qián | former]
+前/VA[qián | in front of]
 。/PU
 「/PU
 復次/CC[fùcì | furthermore]
@@ -689,47 +710,51 @@
 從/P[cóng | from]
 一/CD[yī | one]
 佛土/NN[Fótǔ | a Buddha land]
-土 <one Buddha land>]
-至/CC[zhì | arrive]
+至/VV[zhì | arrive]
 一/CD[yī | one]
 佛土/NN[Fótǔ | a Buddha land]
 土 <one Buddha land>]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-見/NN[jiàn | opinion]
+見/VV[jiàn | to see]
 他/PN[tā | other]
-修/VV[xiū | to study]
+修/VV[xiū | to cultivate]
 善/VA[shàn | virtuous]
 不/AD[bù | not]
 為/VC[wèi | for]
 障/VV[zhàng | to block]
 惱/VV[nǎo | to get angry]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 他/PN[tā | other]
 說/VV[shuō | to teach]
 法/NN[fǎ | a dhárma]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 未/LC[wèi | not yet]
 常/AD[cháng | always]
 留/VV[liú | to leave something]
 礙/VV[ài | to hinder]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-然燈/NR[Rándēng | Dipankara]
+然/VV[rán | to burn]
+燈/NN[dēng | lamp]
 供養/VV[gōngyàng | to make offerings]
 如來/NR[Rúlái | Tathagata]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 塔/NN[tǎ | a pagoda]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 諸/DT[zhū | all]
@@ -741,7 +766,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -750,7 +775,7 @@
 言/VV[yán | speak]
 ：/PU
 「/PU
-見/NN[jiàn | opinion]
+見/VV[jiàn | to see]
 人/NN[rén | person]
 修/VV[xiū | to study]
 善/VA[shàn | virtuous]
@@ -769,15 +794,15 @@
 如來/NR[Rúlái | Tathagata]
 塔/NN[tǎ | stupa]
 廟/NN[miào | temple]
-施/VV[shī | to distribute alms]
+施/VV[shī |  to practice giving]
 燈/NN[dēng | lamp]
-明/VA[míng | clear]
+明/VA[míng | bright]
 ，/PU
 修習/VV[xiūxí | to cultivate spiritually]
 諸/DT[zhū | all]
 禪/NR[Chán | Chan]
-遊/VV[yóu | to swim]
-佛剎/NN[Fó shā | a Buddhist pillar]
+遊/VV[yóu | to travel]
+佛剎/NN[Fó shā | Buddha land]
 。/PU
 「/PU
 復次/CC[fùcì | furthermore]
@@ -788,8 +813,8 @@
 成就/VV[chéngjiù | to achieve]
 四/CD[sì | four]
 法/NN[fǎ | method]
-處/LC[chù | a place]
-世/NN[shì | life]
+處/NN[chù | a place]
+世/NN[shì | world]
 無/VE[wú | to not have]
 怨/VV[yuàn | to blame]
 。/PU
@@ -797,7 +822,8 @@
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 以/P[yǐ | because of]
 無/VE[wú | to not have]
@@ -807,7 +833,8 @@
 善/VA[shàn | virtuous]
 友/NN[yǒu | friend]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 他/PN[tā | other]
@@ -817,7 +844,8 @@
 嫉妬/VV[jídù | to envy]
 心/NN[xīn | mind]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 他/PN[tā | other]
 獲/VV[huò | to reap]
@@ -826,18 +854,20 @@
 常/AD[cháng | always]
 歡喜/VA[huānxǐ | joyful]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
-菩薩行/PHRASE[púsà xíng | bodhisattva practice]
+菩薩/NN[púsà | bodhisattva]
+行/NN[xíng | practice]
 無/VE[wú | to not have]
-輕/VA[qīng | light]
+輕/VA[qīng | to belittle]
 毀/VV[huǐ | to destroy]
 心/NN[xīn | mind]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -890,19 +920,21 @@
 人/NN[rén | person]
 信/VV[xìn | to believe]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 發言/NN[fāyán | statement]
 修行/VV[xiūxíng | to cultivate spiritually]
 常/AD[cháng | always]
 使/VV[shǐ | to make]
-相應/VA[xiāngyìng | relevant]
+相應/VV[xiāngyìng | to be consistent]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 善/VA[shàn | virtuous]
@@ -913,17 +945,19 @@
 諸/DT[zhū | all]
 惡/NN[è | evil]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 所/PN[suǒ | it]
 聞/VV[wén | to hear]
 法/NN[fǎ | a dharma]
 不/AD[bù | not]
-求/VV[qiú | to request]
+求/VV[qiú | to seek]
 過失/NN[guòshī | defect]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 說/VV[shuō | to teach]
@@ -935,7 +969,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -947,7 +981,7 @@
 發言/NN[fāyán | statement]
 修行/VV[xiūxíng | to cultivate spiritually]
 常/AD[cháng | always]
-相應/VA[xiāngyìng | relevant]
+相應/VV[xiāngyìng | to be consistent]
 、/PU
 己/PN[jǐ | self]
 罪/NN[zuì | an offense]
@@ -960,10 +994,10 @@
 聞/VV[wén | to hear]
 經/NN[jīng | a sutra]
 不/AD[bù | not]
-求/VV[qiú | to request]
+求/VV[qiú | to seek]
 人/NN[rén | person]
 法/NN[fǎ | a dharma]
-過/AS[guò | to cross]
+過/VV[guò | to make a mistake]
 ，/PU
 所/PN[suǒ | it]
 言/VV[yán | to speak]
@@ -987,14 +1021,15 @@
 障/NN[zhàng | obstruction]
 ，/PU
 速/VA[sù | quick]
-得/DER[dé | to obtain]
-清淨/VA[qīngjìng | peaceful]
+得/VV[dé | to obtain]
+清淨/VA[qīngjìng | pure]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 以/P[yǐ | because of]
 深/VA[shēn | profound]
@@ -1004,19 +1039,21 @@
 律/NN[lǜ | law]
 儀/NN[yí | rites]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 聞/VV[wén | to hear]
 甚/VA[shén | deep]
 深/VA[shēn | profound]
 經/NN[jīng | sūtra]
 不/AD[bù | not]
-生/VV[shēng | to develop]
+生/VV[shēng | to give rise]
 誹謗/VV[fěibàng | to slander]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-見/NN[jiàn | opinion]
+見/VV[jiàn | to see]
 新發意/VV[xīn fā yì | to make a vow to acheive supreme enlightenment]
 菩薩/NN[púsà | bodhisattva]
 生/VV[shēng | to develop]
@@ -1024,18 +1061,19 @@
 智/NN[zhì | wisdom]
 心/NN[xīn | mind]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 諸/DT[zhū | all]
 有情/NN[yǒuqíng | a sentient being]
 大/VA[dà | big]
 慈/VA[cí | compassionate]
-平等/VA[píngděng | equal]
+平等/NN[píngděng | equanamity]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -1063,12 +1101,11 @@
 發心/VV[fàxīn | to make a vow to acheive supreme enlightenment]
 如/CS[rú | if]
 佛/NR[Fó | Buddha]
-想/NN[xiǎng | notion]
+想/VV[xiǎng | to think]
 、/PU
 慈/VA[cí | kind]
 心/NN[xīn | heart]
-普/VA[pǔ | general]
-洽/VV[qià | to get along with]
+普洽/VV[pǔqià | to extend]
 障/VV[zhàng | to block]
 消除/VV[xiāochú | to dispel]
 。/PU
@@ -1090,35 +1127,40 @@
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 了知/VV[liǎozhī | to understand clearly]
 法性/NR[fǎxìng | inherent nature]
-平等/VA[píngděng | equal]
+平等/VA[píngděng | equanamity]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
-發起/VV[fāqǐ | to initiate]
+發起/VV[fāqǐ | to give rise to]
 精進/NN[jīngjìn | diligence]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 常/AD[cháng | always]
 勤/VA[qín | diligent]
-念佛/VV[niàn fó | to recollect the Buddha]
+念/VV[niàn | to remember]
+佛/NR[Fó | Buddha]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 一切/DT[yīqiè | all]
 善/VA[shàn | virtuous]
 根/NN[gēn | a root]
 皆/AD[jiē | all]
-悉/DT[xī | to know]
+悉/VV[xī | to know]
 迴向/VV[huíxiàng | to transfer merit]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -1138,7 +1180,7 @@
 起/LC[qǐ | to arise]
 精進/NN[jīngjìn | diligence]
 、/PU
-念/NN[niàn | a thought]
+念/VV[niàn | to remember]
 如來/NR[Rúlái | Tathagata]
 、/PU
 迴向/VV[huíxiàng | to transfer merit]
@@ -1147,12 +1189,12 @@
 善/VA[shàn | virtuous]
 根/NN[gēn | a root]
 ，/PU
-眾/AD[zhòng | again]
+眾/NN[zhòng | a multitude]
 魔/NN[mó | evil]
 不能/VV[bù néng | cannot]
 得/DER[dé | to obtain]
 其/PN[qí | that]
-便/VA[biàn | ordinary]
+便/NN[biàn | advantage]
 。/PU
 「/PU
 復次/CC[fùcì | furthermore]
@@ -1166,44 +1208,50 @@
 臨/VA[lín | near]
 命/NN[mìng | life]
 終/NN[zhōng | end]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 諸/DT[zhū | all]
 佛/NR[Fó | Buddha]
-現前/PHRASE[xiàn qián | before becoming a buddha]
+現/VV[xiàn | to appear]
+前/VA[qián | in front of]
 。/PU
-何等/AD[héděng | what kind?]
+何等/DT[héděng | which?]
 為/VC[wèi | for]
 四/CD[sì | four]
 ？/PU
-一者/PHRASE[yī zhě | first]
+一/OD[yī | first] 
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 他/PN[tā | other]
 有/VE[yǒu | to have]
 所/AD[suǒ | it]
 求/VV[qiú | to request]
-施/VV[shī | to distribute alms]
+施/VV[shī | to practice giving]
 令/VV[lìng | to cause to be]
 滿足/VV[mǎnzú | to satisfy]
 ，/PU
-二者/NN[èrzhě | the two]
+二/OD[èr | second]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 諸/DT[zhū | all]
-善法/NN[shànfǎ | a good thing]
+善/VA[shàn | good]
+法/NN[fǎ | teaching]
 深/VA[shēn | profound]
 生/VV[shēng | to develop]
 信解/VV[xìnjiě | to believe with confidence]
 ，/PU
-三者/PHRASE[sānzhě | the third]
+三/OD[sān | third]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 諸/DT[zhū | all]
 菩薩/NN[púsà | bodhisattva]
-施/VV[shī | to distribute alms]
+施/VV[shī | to practice giving]
 莊嚴/VV[zhuāngyán | to adorn]
-具/AD[jù | in detail]
+具/AD[jù | entirely]
 ，/PU
-四者/PHRASE[sì zhě | fourth]
+四/OD[sì | fourth]
+者/MSP[zhě | used after a verb to indicate a person who does the action]
 、/PU
 於/P[yú | in]
 三寶/NN[Sān Bǎo | Triple Gem]
@@ -1214,7 +1262,7 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 而/CS[ér | then]
@@ -1226,7 +1274,7 @@
 他/PN[tā | other]
 有/VE[yǒu | to have]
 所/AD[suǒ | it]
-求/VV[qiú | to request]
+求/VV[qiú | to seek]
 令/VV[lìng | to cause to be]
 滿足/VV[mǎnzú | to satisfy]
 、/PU
@@ -1234,9 +1282,9 @@
 深/VA[shēn | profound]
 法/NN[fǎ | a dharma]
 、/PU
-捨/VV[shě | to give up]
+捨/VV[shě | to give in charity]
 嚴/NN[yán | majesty]
-具/AD[jù | in detail]
+具/AD[jù | entirely]
 、/PU
 三寶/NN[Sān Bǎo | Triple Gem]
 福田/NN[fútián | domain for practices leading to enlightenment]
@@ -1246,13 +1294,14 @@
 臨/VA[lín | near]
 命/NN[mìng | life]
 終/NN[zhōng | end]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 佛/NR[Fó | Buddha]
-現前/PHRASE[xiàn qián | before becoming a buddha]
+善/VA[shàn | good]
+法/NN[fǎ | teaching]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 妙慧/NR[Miàohuì | Sumatī]
 童/NN[tóng | child]
@@ -1262,7 +1311,8 @@
 說/VV[shuō | to teach]
 已/CS[yǐ | afterwards]
 ，/PU
-白言/PHRASE[bái yán | to say]
+白/VV[bái | to say]
+言/VV[yán | to speak]
 ：/PU
 「/PU
 世尊/NR[Shìzūn | Bhagavān]
@@ -1273,7 +1323,7 @@
 說/VV[shuō | to say]
 菩薩/NN[púsà | bodhisattva]
 諸/DT[zhū | all]
-行/VV[xíng | to do]
+行/VV[xíng | to practice]
 ，/PU
 我/PN[wǒ | I]
 當/P[dāng | at or in the very same]
@@ -1284,48 +1334,48 @@
 若/CS[ruò | if]
 我/PN[wǒ | I]
 於是/CC[yúshì | thereupon]
-四十/CD[sì shí | fourty]
-行/VV[xíng | to do]
+四十/CD[sì shí | forty]
+行/VV[xíng | to practice]
 中/LC[zhōng | in]
-闕/NN[què | a watchtower]
+闕/NN[què | a fault]
 於/P[yú | in]
-一行/NN[yīxíng | a group travelling together]
+一/CD[yī | one]
+行/NN[xíng | practice]
 而/CC[ér | and]
 不/AD[bù | not]
-修/VV[xiū | to study]
+修/VV[xiū | to cultivate]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 違/VV[wéi | to disobey]
-佛教/NR[Fójiào | Buddhism]
+佛/NR[Fó | Buddha]
+教/VV[jiāo | to teach]
 、/PU
 欺誑/VV[qīkuáng | to cheat]
 如來/NR[Rúlái | Tathagata]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 尊者/NN[zūnzhě | senior monk]
-大/VA[dà | big]
-目/NN[mù | an eye]
-揵/VV[qián | to carry]
-連/CC[lián | even]
+大目揵連/NR[Dàmùqiánlián | Maudgalyāyana]
 告/VV[gào | to tell]
 妙慧/NR[Miàohuì | Sumatī]
 言/VV[yán | to speak]
 ：/PU
 「/PU
 菩薩/NN[púsà | bodhisattva]
-之/PN[zhī | genetive marker]
-行/VV[xíng | to do]
+之/DEG[zhī | genetive marker]
+行/VV[xíng | practice]
 甚/AD[shén | extremely]
 難/VA[nán | difficult]
-可行/VA[kěxíng | feasible]
+可/VV[kě | able to]
+行/VV[xíng | to do]
 。/PU
 汝/PN[rǔ | you]
 今/NN[jīn | today]
-發/VV[fā | to develop]
+發/VV[fā | to declare]
 斯/PN[sī | this]
 殊勝/VA[shūshèng | excellent]
 大願/NN[dà yuàn | a great vow]
@@ -1339,10 +1389,11 @@
 ？/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 妙慧/NR[Miàohuì | Sumatī]
-白言/PHRASE[bái yán | to say]
+白/VV[bái | to say]
+言/VV[yán | to speak]
 ：/PU
 「/PU
 尊者/NN[zūnzhě | senior monk]
@@ -1358,8 +1409,8 @@
 令/VV[lìng | to make]
 諸/DT[zhū | all]
 行/VV[xíng | to do]
-得/DER[dé | to obtain]
-圓滿/VA[yuánmǎn | satisfactory]
+得/VV[dé | to obtain]
+圓滿/VA[yuánmǎn | complete]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 願/NN[yuàn | a vow]
@@ -1374,7 +1425,7 @@
 時/NN[shí | time]
 ，/PU
 妙慧/NR[Miàohuì | Sumatī]
-重/NN[chóng | repetition]
+重/VV[chóng | to repeat]
 白/VV[bái | to make clear]
 目連/NR[Jiānlián | Maudgalyayana]
 ：/PU
@@ -1384,21 +1435,23 @@
 如是/PN[rúshì | thus]
 真實/VA[zhēnshí | true]
 言/VV[yán | to speak]
-故/CS[gù | reason]
+故/NN[gù | cause]
 ，/PU
 於/P[yú | in]
 未來/NN[wèilái | future]
 世/NN[shì | life]
 當/P[dāng | at or in the very same]
-得/DER[dé | to obtain]
-成佛/VV[chéng Fó | to become a Buddha]
+得/VV[dé | to obtain]
+成/VV[chéng | to become]
+佛/NR[Fó | Buddha]
 亦/AD[yì | also]
-如今/NN[rújīn | nowadays]
-日/NN[rì | day]
+如/VV[rújīn | such as]
+今日/NN[jīnrì | today]
 釋迦/NR[Shìjiā | Sakyamuni Buddha]
 如來/NR[Rúlái | Tathagata]
 於/P[yú | in]
-我國/NN[wǒ guó | our country (China)]
+我/PN[wǒ | me]
+國/NN[guó | land]
 中/LC[zhōng | in]
 無/AD[wú | no]
 有/VV[yǒu | is]
@@ -1409,7 +1462,7 @@
 惡趣/NN[è qù | an evil rebirth]
 、/PU
 女人/NN[nǚrén | woman]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 名/VV[míng | to be called]
 。/PU
 若/CS[ruò | if]
@@ -1429,8 +1482,8 @@
 。/PU
 」/PU
 說/VV[shuō | to say]
-是/VC[shì | this]
-語/VV[yù | to speak]
+是/DT[shì | this]
+語/NN[yǔ | words]
 已/CS[yǐ | afterwards]
 ，/PU
 眾/AD[zhòng | again]
@@ -1438,16 +1491,13 @@
 金色/NN[jīnsè | gold]
 。/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 尊者/NN[zūnzhě | senior monk]
-大/VA[dà | big]
-目/NN[mù | an eye]
-揵/VV[qián | to carry]
-連/CC[lián | even]
-即/CC[jí | promptly]
+大目揵連/NR[Dàmùqiánlián | Maudgalyāyana]
+即/AD[jí | promptly]
 從/P[cóng | from]
-坐/VV[zuò | to sit]
+坐/NN[zuò | a seat]
 起/LC[qǐ | to arise]
 ，/PU
 偏袒/VV[piāntǎn | to side with]
@@ -1458,7 +1508,8 @@
 佛/NR[Fó | Buddha]
 足/NN[zú | foot]
 ，/PU
-白言/PHRASE[bái yán | to say]
+白/VV[bái | to say]
+言/VV[yán | to speak]
 ：/PU
 「/PU
 世尊/NR[Shìzūn | Bhagavān]
@@ -1474,11 +1525,11 @@
 諸/DT[zhū | all]
 菩薩/NN[púsà | bodhisattva]
 摩訶薩/NN[móhēsà | mahasattva]
-眾/AD[zhòng | again]
+眾/NN[zhòng | a multitude]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 文殊師利法王子/NR[Wénshū Shī lì Fǎ Wángzǐ | Dharma Prince Manjusri]
 告/VV[gào | to tell]
@@ -1492,22 +1543,23 @@
 法/NN[fǎ | a dharma]
 發/VV[fā | to develop]
 斯/PN[sī | this]
-誠/VA[chéng | honest]
+誠/VA[chéng | sincere]
 願/NN[yuàn | a vow]
 ？/PU
 」/PU
 妙慧/NR[Miàohuì | Sumatī]
-答言/PHRASE[dá yán | to reply]
+答/VV[dá | to reply]
+言/VV[yán | to say]
 ：/PU
 「/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 非/VC[fēi | not]
 所/PN[suǒ | it]
 問/VV[wèn | to ask]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1517,7 +1569,7 @@
 無/VE[wú | to not have]
 所/PN[suǒ | it]
 住/VV[zhù | to dwell]
-故/CS[gù | reason]
+故/NN[gù | reason]
 。/PU
 」/PU
 又/CC[yòu | again]
@@ -1529,12 +1581,13 @@
 菩提/NN[pútí | bodhi]
 ？/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+言/VV[yán | to say]
 ：/PU
 「/PU
 無/VE[wú | to not have]
 分別/VV[fēnbié | to differentiate]
-法/NN[fǎ | a dharma]
+法/NR[Fǎ | Dhárma]
 ，/PU
 是/DT[shì | this]
 名/VV[míng | to be called]
@@ -1550,14 +1603,15 @@
 菩薩/NN[púsà | bodhisattva]
 ？/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+言/VV[yán | to say]
 ：/PU
 「/PU
 一切/DT[yīqiè | all]
 諸/DT[zhū | all]
 法/NN[fǎ | a dharma]
 等/MSP[děng | plural]
-虛空/VA[xūkōng | void]
+虛空/VA[xūkōng | empty]
 相/NN[xiàng | a perception]
 ，/PU
 是/DT[shì | this]
@@ -1572,24 +1626,25 @@
 云何/PN[yúnhé | what]
 名為/VV[míngwèi | to be called]
 菩提/NN[pútí | bodhi]
-之/PN[zhī | genetive marker]
-行/VV[xíng | to do]
+之/DEG[zhī | genetive marker]
+行/NN[xíng | practice]
 ？/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+曰/VV[yuē | speak]
 ：/PU
 「/PU
 猶如/VV[yóurú | to be similar to]
 陽焰/NN[yángyàn | a mirage]
 、/PU
 谷/NN[gǔ | valley]
-響/VV[xiǎng | to make a sound]
-之/PN[zhī | genetive marker]
+響/NN[xiǎng | an echo]
+之/DEG[zhī | genetive marker]
 行/VV[xíng | to do]
 ，/PU
-是/VC[shì | this]
+是/DT[shì | this]
 菩提/NN[pútí | bodhi]
-行/VV[xíng | to do]
+行/NN[xíng | practice]
 。/PU
 」/PU
 又/CC[yòu | again]
@@ -1599,13 +1654,14 @@
 依/VV[yī | to depend on]
 何/DT[hé | what]
 密/VA[mì | secret]
-意/NN[yì | idea]
+意/NN[yì | meaning]
 作/VV[zuò | to do]
 如是/PN[rúshì | thus]
 說/VV[shuō | to say]
 ？/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+曰/VV[yuē | speak]
 ：/PU
 「/PU
 我/PN[wǒ | I]
@@ -1615,10 +1671,10 @@
 不見/VV[bùjiàn | to not see]
 少/VA[shǎo | few]
 法/NN[fǎ | a dharma]
-密/VA[mì | secret]
+密/VA[mì | hidden]
 、/PU
 非/VC[fēi | not]
-密/VA[mì | secret]
+密/VA[mì | hidden]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 。/PU
 」/PU
@@ -1633,11 +1689,12 @@
 一切/DT[yīqiè | all]
 凡夫/NN[fánfū | an ordinary person]
 應/VV[yīng | should]
-即/CC[jí | promptly]
+即/AD[jí | promptly]
 菩提/NN[pútí | bodhi]
 。/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+曰/VV[yuē | speak]
 ：/PU
 「/PU
 汝/PN[rǔ | you]
@@ -1649,10 +1706,10 @@
 ？/PU
 莫/AD[mò | do not]
 作/VV[zuò | to do]
-是/VC[shì | this]
-見/NN[jiàn | opinion]
+是/DT[shì | this]
+見/NN[jiàn | view]
 。/PU
-何/DT[hé why]
+何/DT[hé | why]
 以/P[yǐ | because]
 故/NN[gù | purpose]
 ？/PU
@@ -1670,10 +1727,10 @@
 捨/VV[shě | to give up]
 ，/PU
 無/VE[wú | to not have]
-成/VV[chéng | to finish]
+成/VV[chéng | to become]
 、/PU
-壞/VA[huài | bad]
-故/CS[gù | reason]
+壞/VV[huài | to destroy]
+故/NN[gù | cause]
 。/PU
 」/PU
 又/CC[yòu | again]
@@ -1691,21 +1748,22 @@
 ，/PU
 其/PN[qí | that]
 數/NN[shù | number]
-幾何/NN[jǐhé | geometry]
+幾何/DT[jǐhé | how many?]
 ？/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+曰/VV[yuē | speak]
 ：/PU
 「/PU
 如/CS[rú | if]
 若干/VA[ruògān | a certain number or amount of]
-幻化/VV[huànhuà | to be transformed]
+幻化/VV[huànhuà | to be illusory]
 心/NN[xīn | mind]
 心所/NN[xīn suǒ | a mental factor]
 量/NN[liàng | quantity]
 ，/PU
 若干/VA[ruògān | a certain number or amount of]
-幻化/VV[huànhuà | to be transformed]
+幻化/VV[huànhuà | to be illusory]
 眾生/NN[zhòngshēng | a being]
 能/VV[néng | can]
 了/AS[le | completion of an action]
@@ -1713,12 +1771,12 @@
 義/NN[yì | meaning]
 。/PU
 」/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 言/VV[yán | to speak]
 ：/PU
 「/PU
-幻化/VV[huànhuà | to be transformed]
-本/DT[běn | to be one's own]
+幻化/VV[huànhuà | to be illusory]
+本/NN[běn | basis]
 無/VE[wú | to not have]
 ，/PU
 何/DT[hé | what]
@@ -1728,7 +1786,8 @@
 心所法/NN[xīn suǒ | a mental factor]
 ？/PU
 」/PU
-答曰/PHRASE[dá yuē | to reply]
+答/VV[dá | to reply]
+曰/VV[yuē | speak]
 ：/PU
 「/PU
 法界/NN[fǎjiè | a dharma realm]
@@ -1747,9 +1806,9 @@
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 白/VV[bái | to address]
 佛/NR[Fó | Buddha]
 言/VV[yán | said]
@@ -1768,7 +1827,7 @@
 成就/VV[chéngjiù | to succeed]
 如是/PN[rúshì | thus]
 法/NN[fǎ | a dharma]
-忍/VV[rěn | to beat]
+忍/NN[rěn | tolerance]
 。/PU
 」/PU
 佛/NR[Fó | Buddha]
@@ -1779,12 +1838,12 @@
 ，/PU
 如是/PN[rúshì | thus]
 ，/PU
-誠/VA[chéng | honest]
-如/CS[rú | if]
+誠/VA[chéng | true]
+如/P[rú | in accordance with]
 所/PN[suǒ | it]
 言/VV[yán | to speak]
 。/PU
-然/VV[rán | to burn]
+然/VA[rán | thus]
 此/DT[cǐ | this]
 童/NN[tóng | child]
 女/NN[nǚ | female]
@@ -1794,13 +1853,13 @@
 發/VV[fā | to develop]
 菩提心/NN[pútíxīn | bodhicitta]
 ，/PU
-經/NN[jīng | a sutra]
+經/VV[jīng | to go through]
 三十/CD[sān shí | thirty]
 劫/NN[jié | a kalpa]
 我/PN[wǒ | I]
 乃/AD[nǎi | thus]
 發/VV[fā | to develop]
-趣/VV[qù | to interest]
+趣/VV[qù | to take]
 無上/VA[wúshàng | supreme]
 菩提/NN[pútí | bodhi]
 ，/PU
@@ -1809,15 +1868,15 @@
 令/VV[lìng | to make]
 汝/PN[rǔ | you]
 住/VV[zhù | to dwell]
-無生/VA[wúshēng | birthless]
-忍/VV[rěn | to beat]
+無生/VA[wúshēng | non-arising]
+忍/NN[rěn | tolerance]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
-即/CC[jí | promptly]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
+即/VA[jí | promptly]
 從/P[cóng | from]
 坐/VV[zuò | to sit]
 起/LC[qǐ | to arise]
@@ -1836,7 +1895,7 @@
 往昔/NN[wǎngxī | in the past]
 無量/VA[wúliàng | unlimited]
 劫/NN[jié | a kalpa]
-前/LC[qián | former]
+前/VA[qián | before]
 已/CS[yǐ | afterwards]
 曾/AD[céng | once]
 供養/VV[gōngyàng | to make offerings]
@@ -1847,7 +1906,7 @@
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 還/VV[huán | to return]
 得/DER[dé | to obtain]
-親近/VV[qīnjìn | to be intimate]
+親近/VV[qīnjìn | to get close to]
 。/PU
 」/PU
 妙慧/NR[Miàohuì | Sumatī]
@@ -1855,12 +1914,12 @@
 言/VV[yán | to speak]
 ：/PU
 「/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 汝/PN[rǔ | you]
 今/NN[jīn | today]
 莫/AD[mò | do not]
-起/LC[qǐ | to arise]
+起/VV[qǐ | to arise]
 如是/PN[rúshì | thus]
 分別/VV[fēnbié | to differentiate]
 。/PU
@@ -1873,8 +1932,8 @@
 分別/VV[fēnbié | to differentiate]
 得/DER[dé | to obtain]
 無生/VA[wúshēng | birthless]
-忍/VV[rěn | to beat]
-故/CS[gù | reason]
+忍/NN[rěn | tolerance]
+故/NN[gù | cause]
 。/PU
 」/PU
 又/CC[yòu | again]
@@ -1887,30 +1946,31 @@
 今/NN[jīn | today]
 猶/AD[yóu | also]
 不/AD[bù | not]
-轉/VV[zhuǎn | to transmit]
-女/VA[female]
-身/NN[form]
+轉/VV[zhuǎn | to turn]
+女/VA[nǚ | female]
+身/NN[shēn | body]
 耶/MSP[yé | final interogative]
 ？/PU
 」/PU
 妙慧/NR[Miàohuì | Sumatī]
-答言/PHRASE[dá yán | to reply]
+答/VV[dá | to reply]
+言/VV[yán | to say]
 ：/PU
 「/PU
 女人/NN[nǚrén | woman]
-之/PN[zhī | genetive marker]
-相/NN[xiàng | a perception]
+之/DEG[zhī | genetive marker]
+相/NN[xiàng | appearance]
 了/AS[le | completion of an action]
 不可/VV[bù kě | cannot]
-得/DER[dé | to obtain]
+得/VV[dé | to obtain]
 ，/PU
 今/NN[jīn | today]
 何/DT[hé | what]
 所/PN[suǒ | it]
-轉/VV[zhuǎn | to transmit]
+轉/VV[zhuǎn | to turn]
 ？/PU
 「/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 我/PN[wǒ | I]
 當/P[dāng | at or in the very same]
@@ -1924,19 +1984,19 @@
 我/PN[wǒ | I]
 如是/PN[rúshì | thus]
 真實/VA[zhēnshí | true]
-語/VV[yù | to speak]
-故/CS[gù | reason]
+語/VV[yǔ | to speak]
+故/NN[gù | reason]
 ，/PU
 於/P[yú | in]
 當/P[dāng | at or in the very same]
 來世/NN[lái shì | future]
 得/VV[dé | to attain]
 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara-samyak-sambodhi]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 於/P[yú | in]
 我/PN[wǒ | I]
-法/NN[fǎ | a dharma]
+法/NR[fǎ | Dharma]
 中/LC[zhōng | in]
 諸/DT[zhū | all]
 比丘/NN[bǐqiū | a monk]
@@ -1944,13 +2004,13 @@
 聞/VV[wén | to hear]
 命/NN[mìng | life]
 善/VA[shàn | virtuous]
-來/LC[lái | to come]
+來/VV[lái | to come]
 出家/VV[chūjiā | to become a monk]
 入/VV[rù | to enter]
 道/NN[dào | the path leading to the cessation of suffering]
 ，/PU
-我國/NN[wǒ guó | our country (China)]
-土/NN[tǔ | land]
+我/PN[wǒ | me]
+國土/NN[guótǔ | land]
 中/LC[zhōng | in]
 所有/DT[suǒyǒu | all]
 眾生/NN[zhòngshēng | a being]
@@ -1961,16 +2021,17 @@
 服/NN[fú | clothes]
 用/VV[yòng | to use]
 資具/OD[zījù | household goods]
-如/CS[rú | if]
+如/VV[rú | to be like]
 第六/OD[dì liù | sixth]
-天/NN[tiān | a deva]
+天/NN[tiān | heaven]
 、/PU
 飲食/NN[yǐn shí | food and drink]
 豐/VA[fēng | abundant]
-饒/VV[ráo | to forgive]
-隨念/NN[suíniàn | recollection]
+饒/VA[ráo | abundant]
+隨/VV[suí | to follow]
+念/NN[niàn | thought]
 而/CC[ér | and]
-至/CC[zhì | arrive]
+至/VV[zhì | arrive]
 ，/PU
 無/AD[wú | no]
 有/VV[yǒu | is]
@@ -1984,34 +2045,32 @@
 無/AD[wú | no]
 有/VV[yǒu | is]
 女人/NN[nǚrén | woman]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 名/VV[míng | to be called]
 ，/PU
 有/VE[yǒu | to have]
 七寶/NR[qī bǎo | the Seven Treasures]
 林/NN[lín | woods]
-上/LC[shàng | above]
-羅/NR[Luó | Luo]
+上/VA[shàng | above]
+羅/NN[luó | gauze]
 寶/NN[bǎo | a jewel]
 網/NN[wǎng | net]
 、/PU
 七寶/NR[qī bǎo | the Seven Treasures]
 蓮花/NN[liánhuā | a lotus]
 覆/VV[fù | to cover]
-以/P[yǐ | because of]
+以/P[yǐ | to use]
 寶/NN[bǎo | a jewel]
-帳/NN[zhàng | account]
-如/CS[rú | if]
-文殊師利/NR[Wénshū shīlì | Manjushri]
+帳/NN[zhàng | a canopy]
+如/VV[rú | to be like]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 所/PN[suǒ | it]
-成/VV[chéng | to finish]
-淨/VA[jìng | clean]
-剎/VV[shā | to brake (vehicle)]
+成/VV[chéng | to accomplish]
+淨剎/NR[Jìng Shā | Pure Land]
 ，/PU
-裝/VV[zhuāng | to install]
-挍/VV[jiào | to collate]
-嚴/NN[yán | majesty]
-飾/VV[shì | to adorn]
+裝/VV[zhuāng | to adorn]
+挍/VV[jiào | to decorate]
+嚴飾/VV[yánshì | to decorate]
 等/MSP[děng | plural]
 無/AD[wú | no]
 有/VV[yǒu | is]
@@ -2034,24 +2093,24 @@
 金色/NN[jīnsè | gold]
 ，/PU
 我/PN[wǒ | I]
-之/PN[zhī | genetive marker]
-女/VA[female]
-身/NN[form]
+之/DEG[zhī | genetive marker]
+女/VA[nǚ | female]
+身/NN[shēn | body]
 變成/VV[biànchéng | to change into]
 男子/NN[nánzǐ | a man]
 ，/PU
-如/CS[rú | if]
+如/VV[rú | to be like]
 三十/CD[sān shí | thirty]
 歲/NN[suì | years old]
 知/VV[zhī | to know]
-法/NN[fǎ | a dharma]
+法/NR[Fǎ | Dharma]
 比丘/NN[bǐqiū | a monk]
 。/PU
 」/PU
 說/VV[shuō | to say]
 此/DT[cǐ | this]
-語/VV[yù | to speak]
-時/LC[shí | at that time]
+語/VV[yǔ | to speak]
+時/AD[shí | at that time]
 ，/PU
 此/DT[cǐ | this]
 諸/DT[zhū | all]
@@ -2062,25 +2121,27 @@
 ，/PU
 妙慧/NR[Miàohuì | Sumatī]
 菩薩/NN[púsà | bodhisattva]
-轉/VV[zhuǎn | to transmit]
+轉/VV[zhuǎn | to turn]
 女/VA[nǚ | female]
-成/VV[chéng | to finish]
+成/VV[chéng | to become]
 男/VA[nán | male]
 ，/PU
-如/CS[rú | if]
+如/VV[rú | to be like]
 三十/CD[sān shí | thirty]
 歲/NN[suì | years old]
 知/VV[zhī | to know]
-法/NN[fǎ | a dharma]
+法/NR[Fǎ | Dharma]
 比丘/NN[bǐqiū | a monk]
 。/PU
 是/PN[shì | that]
 時/NN[shí | time]
 ，/PU
-地/DEV[dì | the Earth]
-居/NN[jū | residence]
-天眾/NR[Tiān Zhòng | the twenty devas and other dieties]
-展轉/VV[zhǎnzhuǎn | to toss about in bed]
+地/NR[Dì | Earth]
+居/VV[jū | to reside]
+天/NN[tiān | a deva]
+眾/NN[zhòng | a multitude]
+展/VV[zhǎn | to turn]
+轉/VV[zhuǎn | to turn]
 讚/VV[zàn | to praise]
 言/VV[yán | to speak]
 ：/PU
@@ -2099,16 +2160,16 @@
 來世/NN[lái shì | future]
 得/VV[dé | to attain]
 菩提/NN[pútí | bodhi]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 嚴/NN[yán | majesty]
 持/VV[chí | to grasp]
-佛剎/NN[Fó shā | a Buddhist pillar]
+佛剎/NN[Fó shā | a Buddha land]
 功德/NN[gōngdé | achievements and virtue]
 如是/PN[rúshì | thus]
 。/PU
 」/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 佛/NR[Fó | Buddha]
 告/VV[gào | told]
@@ -2122,7 +2183,7 @@
 當/P[dāng | at or in the very same]
 來世/NN[lái shì | future worlds]
 成/VV[chéng | to finish]
-等/MSP[děng | plural]
+等/NN[děng | level]
 正覺/NN[zhèngjué | samadhi]
 ，/PU
 號/NN[hào | a name]
@@ -2140,7 +2201,7 @@
 說/VV[shuō | to say]
 此/DT[cǐ | this]
 經/NN[jīng | sūtra]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 三十/CD[sān shí | thirty]
 俱胝/CD[jūzhī | ten million]
@@ -2155,58 +2216,59 @@
 俱胝/CD[jūzhī | ten million]
 眾生/NN[zhòngshēng | a being]
 遠/VA[yuǎn | far]
-塵/NN[chén | dust]
+塵/NN[chén | defilement]
 離/VV[lí | to leave]
-垢/VA[gòu | dirty]
-得/DER[dé | to obtain]
+垢/NN[gòu | evil]
+得/VV[dé | to obtain]
 法眼/NN[Fǎ yǎn | dhárma eyes]
-淨/VA[jìng | clean]
+淨/VA[jìng | pure]
 ，/PU
 八千/CD[bā qiān | eight thousand]
 眾生/NN[zhòngshēng | a being]
 皆/AD[jiē | all]
-獲/VV[huò | to reap]
+獲/VV[huò | to obtain]
 智/NN[zhì | wisdom]
-證/NN[zhèng | certificate]
+證/NN[zhèng | realization]
 。/PU
 五千/CD[wŭ qiān | five thousand]
 比丘/NN[bǐqiū | a monk]
-行/VV[xíng | to do]
+行/VV[xíng | to practice]
 菩薩乘/NR[Púsà Chéng | The Bodhisattva Vehicle]
 心/NN[xīn | mind]
 欲/NN[yù | desire]
 退轉/VV[tuìzhuàn | to degenerate]
 ，/PU
 因/CC[yīn | because]
-見/NN[jiàn | opinion]
+見/VV[jiàn | to see]
 妙慧/NR[Miàohuì | Sumatī]
 菩薩/NN[púsà | bodhisattva]
 意樂/NN[yìlè | joy]
 善/VA[shàn | virtuous]
 根/NN[gēn | a root]
 、/PU
-威德/NN[wēidé | powerful benevolent rule]
+威/NN[wēi | power]
+德/NN[dé | virtue]
 殊勝/VA[shūshèng | excellent]
-故/CS[gù | reason]
+故/NN[gù | reason]
 ，/PU
 各/DT[gè | each]
 各/DT[gè | each]
-脫身/VV[tuōshēn | to get away]
+脫身/VV[tuōshēn | to take off clothes]
 所/PN[suǒ | it]
-著/VV[zhāo | to attach]
-上/LC[shàng | above]
+著/VV[zhuó | to wear]
+上/VA[shàng | above]
 服/NN[fú | clothes]
 以/P[yǐ | because of]
-施/VV[shī | to distribute alms]
+施/VV[shī | to give]
 如來/NR[Rúlái | Tathagata]
 。/PU
 如是/PN[rúshì | thus]
-施/VV[shī | to distribute alms]
+施/VV[shī | to give]
 已/CS[yǐ | afterwards]
 ，/PU
-發/VV[fā | to develop]
-弘/VV[hóng | to expand]
-誓言/NN[shìyán | an oath]
+發/VV[fā | to declare]
+弘/VA[hóng | great]
+誓言/NN[shìyán | a vow]
 ：/PU
 「/PU
 我等/PN[wǒděng | we]
@@ -2216,7 +2278,7 @@
 根/NN[gēn | a root]
 決定/VV[juédìng | to decide]
 願/NN[yuàn | a vow]
-成/VV[chéng | to finish]
+成/VV[chéng | to accomplish]
 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara-samyak-sambodhi]
 。/PU
 」/PU
@@ -2232,42 +2294,43 @@
 迴向/VV[huíxiàng | to transfer merit]
 無上/VA[wúshàng | supreme]
 菩提/NN[pútí | bodhi]
-故/CS[gù | reason]
+故/NN[gù | reason]
 ，/PU
 超/VV[chāo | to exceed]
 九十/CD[jiǔshí | ninety]
 劫/NN[jié | a kalpa]
 生死/NR[Shēngsǐ | Sansara]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 苦/NN[kŭ | suffering]
 ，/PU
 不/AD[bù | not]
-退轉/VV[tuìzhuàn | to degenerate]
+退轉/VV[tuìzhuàn | to regress]
 於/P[yú | in]
 阿耨多羅三藐三菩提/NN[ānòuduōluó sānmiǎo sānpútí | anuttara-samyak-sambodhi]
 。/PU
 爾/PN[ěr | thus]
-時/AV[shí | at that time]
+時/AD[shí | at that time]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
-即/CC[jí | promptly]
-記/VV[jì | to remember]
-之/PN[zhī | genetive marker]
+即/AD[jí | promptly]
+記/NN[jì | a prediction]
+之/DEG[zhī | genetive marker]
 曰/VV[yuē | to speak]
 ：/PU
 「/PU
 汝/PN[rǔ | you]
-等於/VV[děngyú | to equal]
+等/MSP[děng | plural]
+於/P[yú | in]
 當/P[dāng | at or in the very same]
 來世/NN[lái shì | future worlds]
-過/AS[guò | to cross]
+過/VV[guò | to pass]
 千/CD[qiān | thousand]
 劫/NN[jié | kalpa]
-後/LC[hòu | after]
+後/NN[hòu | after]
 ，/PU
 於/P[yú | in]
 無/VE[wú | to not have]
-垢/VA[gòu | dirty]
+垢/NN[gòu | defilement]
 光明/NN[guāngmíng | light]
 劫/NN[jié | a kalpa]
 中/LC[zhōng | in]
@@ -2275,20 +2338,21 @@
 陽焰/NN[yángyàn | a mirage]
 世界/NN[shìjiè | world]
 難/VA[nán | difficult]
-忍/VV[rěn | to beat]
-佛剎/NN[Fó shā | a Buddhist pillar]
+忍/NN[rěn | tolerance]
+佛剎/NN[Fó shā | a Buddha land]
 ，/PU
 於/P[yú | in]
 一/CD[yī | one]
 劫/NN[jié | a kalpa]
 中/LC[zhōng | in]
-相/NN[xiàng | a perception]
+相/AD[xiāng | mutual]
 次/NN[cì | a sequence]
-成佛/VV[chéng Fó | to become a Buddha]
+成/VV[chéng | to become]
+佛/NR[Fó | Buddha]
 ，/PU
 皆/AD[jiē | all]
 同一/VA[tóngyī | identical]
-字/NN[zì | letter]
+字/VV[zì | name]
 ，/PU
 號/NN[hào | a name]
 辯才/NN[biàncái | eloquence]
@@ -2300,25 +2364,26 @@
 世/NN[shì | future]
 。/PU
 「/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 如是/PN[rúshì | thus]
-法門/NN[Fǎmén | Dharmaparyaya]
+法門/NN[Fǎmén | a Buddhist teaching]
 有/VE[yǒu | to have]
-大威德/NR[Dà Wēi Dé | Yamantaka]
+大/VA[dà | great]
+威/NN[wēi | power]
+德/NN[dé | virtue]
 ，/PU
 能/VV[néng | can]
 令/VV[lìng | to make]
 菩薩/NN[púsà | bodhisattva]
 摩訶薩/NN[móhēsà | mahasattva]
 及/CC[jí | and]
-聲聞乘/NR[Shēngwén Chéng | The Sravaka Vehicle]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
-獲/VV[huò | to reap]
+聲聞乘者/NR[Shēngwén Chéngzhě | Śrāvaka]
+獲/VV[huò | to obtain]
 大/VA[dà | big]
 利益/NN[lìyì | benefit]
 。/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 或/CC[huò | or]
 有/VE[yǒu | to have]
@@ -2328,15 +2393,16 @@
 善/VA[shàn | virtuous]
 女人/NN[nǚrén | woman]
 為/VC[wèi | for]
-求/VV[qiú | to request]
+求/VV[qiú | to seek]
 菩提/NN[pútí | bodhi]
 ，/PU
 無/VE[wú | to not have]
-方便/VA[fāngbiàn | convenient]
-善巧/VA[shànqiǎo | ingenious]
-行/VV[xíng | to do]
+方便/NN[fāngbiàn | skillful means]
+善/VA[shàn | virtuous]
+巧/VA[qiǎo | clever]
+行/VV[xíng | to practice]
 六波羅蜜/NR[Liù Bōluómì | Six Paramitas]
-足/NN[zú | foot]
+足/VV[zú | to satisfy]
 滿/VV[mǎn | to fill]
 千/CD[qiān | thousand]
 劫/NN[jié | kalpa]
@@ -2348,7 +2414,7 @@
 於/P[yú | in]
 半/CD[bàn | half]
 月/NN[yuè | month]
-時/LC[shí | at that time]
+時/AD[shí | at that time]
 一/CD[yī | one]
 書寫/VV[shūxiě | to write]
 、/PU
@@ -2359,9 +2425,9 @@
 所/PN[suǒ | it]
 獲/VV[huò | to reap]
 福/NN[fú | virtue]
-聚/VV[jù | to congregate]
+聚/VV[jù | to accumulate]
 比/VV[bì | to associate with]
-前/LC[qián | former]
+前/VA[qián | before]
 功德/NN[gōngdé | achievements and virtue]
 百分/CD[bǎifēn | one hundredth]
 、/PU
@@ -2381,18 +2447,18 @@
 「/PU
 是故/CS[shìgù | therefore]
 ，/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 如是/PN[rúshì | thus]
 微妙/VA[wēimiào | skillful]
 法門/NN[Fǎmén | a Buddhist teaching]
-即/CC[jí | promptly]
+即/AD[jí | promptly]
 諸/DT[zhū | all]
 菩薩/NN[púsà | bodhisattva]
-契/VV[qì | to agree]
+契/VV[qì | to carve]
 經/NN[jīng | a sutra]
-之/PN[zhī | genetive marker]
-本/DT[běn | to be one's own]
+之/DEG[zhī | genetive marker]
+本/NN[běn | foundation]
 ，/PU
 我/PN[wǒ | I]
 今/NN[jīn | today]
@@ -2420,12 +2486,12 @@
 所有/DT[suǒyǒu | all]
 七寶/NR[qī bǎo | the Seven Treasures]
 皆/AD[jiē | all]
-悉/DT[xī | to know]
+悉/VV[xī | to know]
 在/P[zài | in]
-前/LC[qián | former]
+前/VA[qián | before]
 王/NN[wáng | a king]
 滅/VV[miè | to extinguish]
-之後/LC[zhīhòu | after]
+之後/NN[zhīhòu | after]
 ，/PU
 寶/NN[bǎo | a jewel]
 皆/AD[jiē | all]
@@ -2434,33 +2500,34 @@
 如是/PN[rúshì | thus]
 微妙/VA[wēimiào | skillful]
 法門/NN[Fǎmén | a Buddhist teaching]
-流行/VA[liúxíng | popular]
+流行/VV[liúxíng | to spread]
 於/P[yú | in]
-世/NN[shì | life]
+世/NN[shì | world]
 ，/PU
-即/CC[jí | promptly]
+即/AD[jí | promptly]
 諸如/CC[zhūrú | such as]
-來/LC[lái | to come]
+來/VV[lái | to come]
 七/OD[qī | seventh]
 菩提/NN[pútí | bodhi]
 分/NN[fèn | a part]
 等/MSP[děng | plural]
 法/NN[fǎ | a dharma]
-明/VA[míng | clear]
+明/VA[míng | bright]
 不/AD[bù | not]
 滅/VV[miè | to extinguish]
 若/CS[ruò | if]
 不/AD[bù | not]
-流行/VA[liúxíng | popular]
+流行/VV[liúxíng | to spread]
 ，/PU
-正法/NN[zhèngfǎ | the law]
-常/AD[cháng | always]
+正/VA[zhèng | main]
+法/NR[Fǎ | Dhárma]
+常/VA[cháng | common]
 滅/VV[miè | to extinguish]
 。/PU
 「/PU
 是故/CS[shìgù | therefore]
 ，/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 ！/PU
 若/CS[ruò | if]
 善/VA[shàn | virtuous]
@@ -2470,7 +2537,7 @@
 女人/NN[nǚrén | woman]
 等/MSP[děng | plural]
 為/VC[wèi | for]
-求/VV[qiú | to request]
+求/VV[qiú | to seek]
 菩提/NN[pútí | bodhi]
 ，/PU
 應當/VV[yīngdāng | should]
@@ -2490,7 +2557,7 @@
 演說/VV[yǎnshuō | to deliver a speech]
 。/PU
 此/DT[cǐ | this]
-是/VC[shì | this]
+是/DT[shì | this]
 我/PN[wǒ | I]
 教/VV[jiāo | to teach]
 ，/PU
@@ -2511,7 +2578,7 @@
 妙慧/NR[Miàohuì | Sumatī]
 菩薩/NN[púsà | bodhisattva]
 、/PU
-文殊師利/NR[Wénshū shīlì | Manjushri]
+文殊師利/NR[Wénshū shīlì | Mañjuśrī]
 菩薩/NN[púsà | bodhisattva]
 ，/PU
 及/CC[jí | and]

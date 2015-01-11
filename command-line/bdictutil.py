@@ -167,10 +167,7 @@ def main():
         generator = glossgenerator.GlossGenerator(output_type=glossgenerator.POS_TAGGED_TYPE)
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
-        if 'pos_tagged' in corpus_entry:
-            accuracy = postaggeraccuracy.TaggerAccuracy(corpus_entry, filename)
-        else:
-            print('Could not compute accuracy: no standard tagged file.')
+        accuracy = postaggeraccuracy.TaggerAccuracy(corpus_entry, filename)
     elif command == 'transcode':
         if len(sys.argv) < 3:
             print('A filename is required for the transcode command')

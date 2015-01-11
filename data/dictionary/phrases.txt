@@ -141,7 +141,7 @@
 141	爾時	爾/PN[ěr | thus] 時/AV[shí | at that time] <at that time>	atha khalu	2	Diamond Sūtra
 142	善男子	善/VA[shàn | virtuous] 男子/NN[nánzǐ | man] <a virtuous man>	kulaputra	2	Diamond Sūtra
 143	善女人	善/VA[shàn | virtuous] 女人/NN[nǚrén | woman] <a virtuous woman>	kuladuhitā	2	Diamond Sūtra
-144	諦聽	諦/AD[dì | carefully] 聽VV/[tīng | listen] <listen carefully>	\N	2	Diamond Sūtra
+144	諦聽	諦/AD[dì | carefully] 聽/VV[tīng | listen] <listen carefully>	\N	2	Diamond Sūtra
 145	若非	若/CS[ruò | if] 非/VC[fēi | not] <were it not for>	\N	2	Diamond Sūtra
 146	我相	我/NN[wǒ | self] 相/NN[xiàng | a notion] <the notion of a self>	ātmasaṃjñā	2	Diamond Sūtra
 147	人相	人/NN[rén | person] 相/NN[xiàng | a notion] <the notion of a person>	pudgalasaṃjñā	2	Diamond Sūtra
@@ -533,8 +533,36 @@
 533	慈心	慈/VA[cí | kind] 心/NN[xīn | heart] <a kind heart>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 534	佛說此經	佛/NR[Fó | Buddha] 說/VV[shuō | to say] 此/DT[cǐ | this] 經/NN[jīng | sūtra] <the Buddha spoke this sutra>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 535	勤修	勤/VA[qín | diligent] 修/VV[xiū | to cultivate] <diligently cultivate>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-536	一佛土	一/CD[yī | one] 佛土/NN[Fótǔ | a Buddha land] 土 <one Buddha land>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+536	一佛土	一/CD[yī | one] 佛土/NN[Fótǔ | a Buddha land] <one Buddha land>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 537	云何名為菩提	云何/PN[yúnhé | what] 名為/VV[míngwèi | to be called] 菩提/NN[pútí | bodhi] <What is 'bodhi?'>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 538	佛菩提	佛/NR[Fó | Buddha] 菩提/NN[pútí | bodhi] <the enlightenment of a Buddha>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 539	塔廟	塔/NN[tǎ | stupa] 廟/NN[miào | temple] <stupas and temples>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-540	一者	一/OD[yī | firstly] 者/MSP[zhě | used after a verb to indicate a person who does the action] <firstly>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+540	一者	一/OD[yī | first] 者/MSP[zhě | used after a verb to indicate a person who does the action] <first>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+541	二者	二/OD[èr | second] 者/MSP[zhě | used after a verb to indicate a person who does the action] <second>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+542	三者	三/OD[sān | third] 者/MSP[zhě | used after a verb to indicate a person who does the action] <third>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+543	正法	正/VA[zhèng | main] 法/NR[Fǎ | Dhárma] <true Dharma>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+544	四者	四/OD[sì | fourth] 者/MSP[zhě | used after a verb to indicate a person who does the action] <third>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+545	安住	安/VV[ān | to find a place for] 住/VV[zhù | to dwell] <to lead to dwell>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+546	安處	安/VV[ān | to find a place for] 處/NN[chù | a place] <to place upon>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+547	菩薩行	菩薩/NN[púsà | bodhisattva] 行/NN[xíng | practice] <bodhisattva practices>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+548	惡心	惡/NN[è | evil] 心/NN[xīn | mind] <unwholesome thoughts>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+549	念佛	念/VV[niàn | to remember] 佛/NR[Fó | Buddha] <to recollect the Buddha>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+550	佛現前	佛/NR[Fó | Buddha] 現/VV[xiàn | to appear] 前/VA[qián | in front of] <the Buddha will appear>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+551	善法	善/VA[shàn | good] 法/NN[fǎ | teaching] <a wholesome teaching>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+552	白言	白/VV[bái | to say] 言/VV[yán | to speak] <to say to>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+553	一行	一/CD[yī | one] 行/NN[xíng | practice] <one practice>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+554	佛教	佛/NR[Fó | Buddha] 教/VV[jiāo | to teach] <the Buddha teaches>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+555	可行	可/VV[kě | able to] 行/VV[xíng | to do] <to be able to do>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+556	成佛	成/VV[chéng | to become] 佛/NR[Fó | Buddha] <to become a Buddha>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+557	答言	答/VV[dá | to reply] 言/VV[yán | to say] <to reply>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+558	答曰	答/VV[dá | to reply] 曰/VV[yuē | speak] <to reply>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+559	豐饒	豐/VA[fēng | rich] 饒/VA[ráo | abundant] <rich and abundant>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+560	隨念	隨/VV[suí | to follow] 念/NN[niàn | thought] <to follow the thought>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+561	地居天	地/NR[Dì | Earth] 居/VV[jū | to reside] 天/NN[tiān | a deva] <heavenly beings dwelling on Earth>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+562	展轉	展/VV[zhǎn | to turn] 轉/VV[zhuǎn | to turn] <one after the other in turn>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+563	智證	智/NN[zhì | wisdom] 證/NN[zhèng | realization] <liberating wisdom>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+564	威德	威/NN[wēi | power] 德/NN[dé | virtue] <majestic virtue>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+565	汝等	汝/PN[rǔ | you] 等/MSP[děng | plural] <you all>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+566	相次	相/AD[xiāng | mutual] 次/VA[cì | a sequence / an order] <one after another>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+567	善巧	善/VA[shàn | virtuous] 巧/VA[qiǎo | clever] <virtuous and clever>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+568	一路	一/AD[yī | a complete unit] 路/NN[lù | journey] <the whole journey>	\N	\N	Discourse on Sailing Directions 海道經
