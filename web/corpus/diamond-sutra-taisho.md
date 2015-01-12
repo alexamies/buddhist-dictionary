@@ -25,5 +25,4 @@ Used with permission.
 
 Another English translation (Lapis Lazuli Texts): [Vajracchedikā Prajñāpāramitā Sūtra] (http://www.lapislazulitexts.com/vajracchedika_prajnaparamita_sutra.html "Vajracchedikā Prajñāpāramitā Sūtra")
 
-Commentary: [Diamond Sūtra Commentary and English Gloss] (/diamond_sutra_toc.html "Diamond Sūtra Commentary and English Gloss")
 

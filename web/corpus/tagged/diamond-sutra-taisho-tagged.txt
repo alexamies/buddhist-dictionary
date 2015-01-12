@@ -34,7 +34,7 @@
 缽/NN[bō | a bowl]
 ，/PU
 入/VV[rù | to enter]
-舍衛大城/NR[Shèwèi Dà Chéng | city of Shravasti]
+舍衛大城/NR[Shèwèi Dà Chéng | Śrāvastī]
 乞食/VV[qǐshí | to beg]
 。/PU
 於/P[yú | in]
@@ -87,7 +87,7 @@
 著地/VV[zhuódì | to touch the ground]
 ，/PU
 合掌/VV[hézhǎng | to join palms]
-恭敬/VA[gōngjìng | deferential]
+恭敬/VV[gōngjìng | deferential]
 而/CC[ér | and]
 白/VV[bái | to address]
 佛/NR[Fó | Buddha]
@@ -227,7 +227,7 @@
 濕生/VV[shī shēng | to be born from moisture]
 、/PU
 若/CS[ruò | if]
-化生/NN[huàshēng | a symbol of birth]
+化生/VV[huàshēng | to be born from transformation]
 ，/PU
 若/CS[ruò | if]
 有/VE[yǒu | to have]
@@ -1917,7 +1917,8 @@
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 生/VV[shēng | to develop]
-實相/NN[shíxiàng | the actual situation]
+實/VA[shí | true]
+相/NN[xiàng | appearance]
 ，/PU
 當/P[dāng | at or in the very same]
 知/VV[zhī | to know]
@@ -1932,7 +1933,8 @@
 世尊/NR[Shìzūn | Bhagavān]
 ！/PU
 是/PN[shì | this]
-實相/NN[shíxiàng | true appearance]
+實/VA[shí | true]
+相/NN[xiàng | appearance]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
@@ -2683,7 +2685,7 @@
 ，/PU
 皆/AD[jiē | all]
 應/VV[yīng | ought]
-恭敬/VA[gōngjìng | deferential]
+恭敬/VV[gōngjìng | deferential]
 ，/PU
 作禮/VV[zuòlǐ | to salute]
 圍繞/VV[wéirǎo | to revolve around]
@@ -3930,7 +3932,8 @@
 ，/PU
 修/VV[xiū | to cultivate]
 一切/PN[yīqiè | all]
-善法/NN[shànfǎ | a pure dhárma]
+善/VA[shàn | wholesome]
+法/NN[fǎ | dhárma]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 得/VV[dé | to obtain]
@@ -3940,17 +3943,20 @@
 ！/PU
 所/PN[suǒ | it]
 言/VV[yán | to speak]
-善法/NN[shànfǎ | a pure dhárma]
+善/VA[shàn | wholesome]
+法/NN[fǎ | dhárma]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 如來/NR[Rúlái | Tathāgata]
 說/VV[shuō | speaks]
 非/VC[fēi | not]
-善法/NN[shànfǎ | a pure dhárma]
+善/VA[shàn | wholesome]
+法/NN[fǎ | dhárma]
 ，/PU
 是/PN[shì | this]
 名/VV[míng | to be called]
-善法/NN[shànfǎ | a pure dhárma]
+善/VA[shàn | wholesome]
+法/NN[fǎ | dhárma]
 。/PU
 「/PU
 須菩提/NR[xūpútí | Subhuti]
