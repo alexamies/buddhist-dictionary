@@ -104,7 +104,10 @@ class GlossGenerator:
                 if 'pos_tagged' in entry: # Phrase
                     markup += self._Phrase(element, entry)
                 else: # Word
-                    markup += self._Word(element, entry, previous)
+                    elem_markup = self._Word(element, entry, previous)
+                    if element == u'長者':
+                        print('GenerateDoc: previous = %s, elem_markup = %s' % (previous, elem_markup))
+                    markup += elem_markup
                     previous = entry['traditional']
             else:
                 markup += self._Punctuation(element, previous)
@@ -236,9 +239,9 @@ class GlossGenerator:
         if not 'id' in entry:
             return element_text
         entry_id = entry['id']
-        #if element_text == u'重':
+        #if element_text == u'時':
         #    print('_Word element_text = %s, english = %s' % (element_text, entry['english']))
-        # print('_Word entry_id = %s' % entry_id)
+        #print('_Word entry_id = %s' % entry_id)
         url = 'word_detail.php?id=%s' % entry_id
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)
 

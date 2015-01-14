@@ -40,7 +40,7 @@ def TaggerAccuracy(corpus_entry, subject_file):
             if i == len(subject):
                 break
             if standard[i] != subject[i]:
-                print('Files differ at line %d.' % i)
+                print('Files differ at line %d.' % (i+1))
                 no_diff += 1
                 if no_diff >= MAX_DIFFERENCES:
                     break
