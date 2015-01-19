@@ -19,4 +19,4 @@ Chinese Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBET
 Document at CBETA: [Sumati Sūtra] (http://tripitaka.cbeta.org/T12n0336_001 "Sumati Sūtra")
 
 Source of English translation: 
-Yun, Venerable Master Hsing. Ten Paths to Happiness. Edited by John Gill and Jonathan Ko. Translated by Jason Greenberger. First edition. Los Angeles: Buddha’s Light Publishing, 2014.
+Yun, Venerable Master Hsing. Ten Paths to Happiness. Edited by John Gill and Jonathan Ko. Translated by Jason Greenberger. First edition. Los Angeles: <a href="http://blpusa.com/ten-paths-to-happiness-2">Buddha’s Light Publishing</a>, 2014.
