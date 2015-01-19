@@ -426,7 +426,7 @@
 426	北行	北/NN[běi | north] 行/VV[xíng | to travel] <to travel north>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 427	三里	三/CD[sān | three] 里/NN[lǐ | li] <three li>	\N	\N	About 1.5 km, Record of Buddhistic Kingdoms 佛國記
 428	佛齒	佛/NR[Fó | Buddha] 齒/NN[chǐ | tooth] <a Buddha tooth relic>	\N	\N	Record of Buddhistic Kingdoms 佛國記
-429	坐訖	坐/VV[zuò | to stay] 訖/VV[qì | to finish] <after having stayed>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+429	坐訖	坐/NN[zuò | a retreat] 訖/VV[qì | to finish] <the retreat finished>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 430	金銀	金/NN[jīn | gold] 銀/NN[yín | silver] <gold and silver>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 431	東南行	東南/NN[dōngnán | southeast] 行/VV[xíng | to travel] <to travel southeast>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 432	行像	行/VV[xíng | to travel ] 像/NN[xiàng | image] <a procession of images>	\N	\N	Record of Buddhistic Kingdoms 佛國記
@@ -526,7 +526,7 @@
 526	四方僧	四/CD[sì | four] 方/NN[fāng | side] 僧/NN[sēng | monk] <monks from all quarters>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 527	世尊而說偈言	世尊/NR[Shìzūn | Bhagavān] 而/CS[ér | then] 說/VV[shuō | to say] 偈/NN[jì | gatha] 言/VV[yán | speak] <the Bhagavān spoke this verse>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 528	身皆金色	身/NN[shēn | body] 皆/AD[jiē | all] 金色/NN[jīnsè | gold] <bodies all become gold in color>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-529	信受	信/VA[xìn | sincere] 受/VV[shòu | to receive] <to faithfully received>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+529	信受	信/VA[xìn | sincere] 受/VV[shòu | to receive] <faithfully received>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 530	令滿足	令/VV[lìng | to cause to be] 滿足/VV[mǎnzú | to satisfy] <to fulfill>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 531	發起精進	發起/VV[fāqǐ | to initiate] 精進/NN[jīngjìn | diligence] <give rise to diligence>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 532	來世得	來世/NN[lái shì | future] 得/VV[dé | to attain] <attain in the future>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
@@ -574,3 +574,10 @@
 574	手指麾	手/NN[shǒu | hand] 指/VV[zhǐ | to indicate] 麾/VV[huī | to signal] <make signs with their hands>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 575	諸天	諸/DT[zhū | all] 天/NN[tiān | deva] <many devas>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 576	妙好	妙/VA[miào | wonderful] 好/VA[hǎo | beautiful] <elaborate and beautiful>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+577	非人	非/VC[fēi | not] 人/NN[rén | person] <a non-human>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+578	國人	國/NN[guó | a country] 人/NN[rén | person] <people of that country>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+579	問言	問/VV[wèn | to ask] 言/VV[yán | to speak] <to ask>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+580	開戶	開/VV[kāi | to open] 戶/NN[hù | a door] <to open a door>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+581	香汁	香/VA[xiāng | scented] 汁/NN[zhī | liquid] <scented water>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+582	聞已	聞/VV[wén | to hear] 已/AD[yǐ | afterwards] <upon hearing>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+583	山西南	山/NN[shān | mountain] 西南/NN[xīnán | westsouth] <southwest of the mountain>	\N	\N	Record of Buddhistic Kingdoms 佛國記
