@@ -1,12 +1,12 @@
 自發/VA[zìfā | spontaneous]
 跡/NN[jī | a footprint]
 長安/NR[cháng'ān | Chang'an]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 度/VV[dù | to cross]
 蔥嶺/NR[Cōnglǐng | Pamirs]
 西/NN[xī | west]
 行/VV[xíng | to travel]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 始/VV[shǐ | to begin]
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 昔/NN[xī | former times]
@@ -38,7 +38,7 @@
 同/P[děngtóng | together]
 契/NN[qì | close friend]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 天竺/NR[Tiānzhú | the Indian subcontinent]
 尋求/VV[xúnqiú | to seek]
 戒律/NN[jiè lǜ | monastic discipline]
@@ -56,7 +56,7 @@
 度/VV[dù | to cross]
 隴/NR[Lǒng | Gansu]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 乾歸國/NR[Gànguīguó | Lung]
 夏坐/NN[xià zuò | summer retreat]
 。/PU
@@ -65,13 +65,13 @@
 ，/PU
 前/DT[qián | in front of]
 行/VV[xíng | to travel]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 耨檀國/NR[Nòutánguó | Noutan]
 。/PU
 度/VV[dù | to cross]
 養樓山/NR[Yǎnglóushān | Mount Yanglou]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 張掖/NR[Zhāngyè | Zhangye]
 鎮/NN[zhèn | town]
 。/PU
@@ -182,7 +182,7 @@
 無/VE[wú | to not have]
 一/CD[yī | one]
 全/VV[quán | to preserve]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 。/PU
 上/DT[shàng | above]
 無/VE[wú | to not have]
@@ -232,7 +232,7 @@
 里/NN[lǐ | li]
 ，/PU
 得/VV[dé | to obtain]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 鄯/NR[Shàn | Shan]
 鄯/NR[Shàn | Shan]
 國/NN[guó | a kingdom]
@@ -350,7 +350,7 @@
 秦/NR[Qín | Qin Dynasty]
 土/NN[tǔ | territory]
 沙門/NN[shāmén | a Buddhist monk]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 彼/PN[bǐ | that]
 都/AD[dōu | all]
 ，/PU
@@ -435,7 +435,7 @@
 ，/PU
 所/PN[suǒ | it]
 經/VV[jīng | to experience]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 苦/NN[kŭ | suffering]
 ，/PU
 人/NN[rén | person]
@@ -487,7 +487,7 @@
 皆/AD[jiē | all]
 有/VE[yǒu | to have]
 衆/VA[zhòng | common]
-食/NN[shí | food]
+食/VV[shí | to eat]
 。/PU
 彼/PN[bǐ | that]
 國/NN[guó | a kingdom]
@@ -507,7 +507,7 @@
 最小/VA[zuìxiǎo | least]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 可/VV[kě | can]
-高/VA[gāo | high]
+高/NN[gāo | height]
 二/CD[èr | two]
 丈/NN[zhàng | zhang]
 許/AD[xǔ | perhaps]
@@ -549,7 +549,7 @@
 共/AD[gòng | all together]
 犍/NN[jiān | a bullock]
 槌/VV[chuí | to strike]
-食/NN[shí | food]
+食/VV[shí | to eat]
 。/PU
 入/VV[rù | to enter]
 食堂/NN[shítáng | dining hall]
@@ -574,7 +574,7 @@
 淨/VA[jìng | pure]
 人/NN[rén | person]
 益/VV[yì | to increase]
-食/NN[shí | food]
+食/VV[shí | to eat]
 不得/AD[bùdé | must not]
 相/NN[xiàng | appearance]
 喚/VV[huàn | to call]
@@ -618,7 +618,7 @@
 不/AD[bù | not]
 數/NN[shù | number]
 小/VA[xiǎo | small]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 。/PU
 從/P[cóng | from]
 四月/NR[sìyuè | April]
@@ -680,7 +680,7 @@
 像/NN[xiàng | statue]
 車/NN[chē | vehicle]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 三/CD[sān | three]
 丈/NN[zhàng | zhang]
 餘/VA[yú | extra]
@@ -849,7 +849,7 @@
 成/VV[chéng | to become]
 。/PU
 可/VV[kě | can]
-高/VA[gāo | high]
+高/NN[gāo | height]
 二十五/CD[èrshíwŭ | twenty five]
 丈/NN[zhàng | zhang]
 ，/PU
@@ -867,7 +867,7 @@
 合成/VV[héchéng | to compose]
 。/PU
 塔/NN[tǎ | a pagoda]
-後/DT[hòu | after]
+後/NN[hòu | after]
 作/VV[zuò | to do]
 佛/NR[Fó | Buddha]
 堂/NN[táng | main hall]
@@ -1056,7 +1056,7 @@
 著/VV[zhāo | to attach]
 繒/NN[zēng | silk fabric]
 座/NN[zuò | seat]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 鋪/VV[pū | to spread]
 淨/VA[jìng | pure]
@@ -1067,7 +1067,7 @@
 及/CC[jí | and]
 羣/NN[qún | group]
 臣/NN[chén | minister]
-如/CS[rú | if]
+如/P[rú | in accordance with]
 法/NR[Fǎ | Dhárma]
 供養/VV[gōngyàng | to make offerings]
 ，/PU
@@ -1130,7 +1130,7 @@
 貴重/VA[guìzhòng | precious]
 臣/NN[chén | statesman]
 騎/VV[qí | to ride an animal or bicycle]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 並/CC[bìng | and]
 諸/DT[zhū | all]
@@ -1142,7 +1142,7 @@
 沙門/NN[shāmén | a Buddhist monk]
 所/PN[suǒ | it]
 須/AD[xū | necessary]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 物/NN[wù | thing]
 ，/PU
 共/AD[gòng | all together]
@@ -1172,14 +1172,14 @@
 穀/NN[gǔ | grain]
 ，/PU
 唯/AD[wéi | only]
-熟/VA[shú | cooked]
+熟/VA[shú | ripe]
 麥/NN[mài | wheat]
 耳/SP[ěr | and that is all]
 。/PU
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
 受/VV[shòu | to receive]
-歲/NN[suì | year]
+歲/NN[suì | annual harvest]
 已/CS[yǐ | afterwards]
 ，/PU
 其/PN[qí | that]
@@ -1197,10 +1197,10 @@
 ，/PU
 令/VV[lìng | to make]
 麥/NN[mài | wheat]
-熟/VA[shú | cooked]
+熟/NN[shú | a harvest]
 然後/CC[ránhòu | after]
 受/VV[shòu | to receive]
-歲/NN[suì | year]
+歲/NN[suì | annual harvest]
 。/PU
 其/PN[qí | that]
 國/NN[guó | a kingdom]
@@ -1489,7 +1489,7 @@
 崖/NN[yá | precipice]
 岸/NN[àn | bank]
 嶮/VA[xiǎn | precipitous]
-絶/AD[jué | absolutely]
+絶/VV[jué | to break]
 ，/PU
 其/PN[qí | that]
 山/NN[shān | mountain]
@@ -1497,12 +1497,12 @@
 石/NN[shí | rock]
 ，/PU
 壁/NN[bì | wall]
-立/VV[lì | to set up]
+立/VV[lì | to stand]
 千/CD[qiān | one thousand]
 仞/M[rèn | Chinese fathom]
 ，/PU
 臨/VV[lín | to face]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 目/NN[mù | an eye]
 眩/VA[xuàn | dizzy]
 ，/PU
@@ -1559,7 +1559,7 @@
 絶/NN[jué | a four-lined verse]
 ，/PU
 漢/NR[Hàn | Han Dynasty]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 張/NR[Zhāng | Zhang]
 驀/NR[Mò | Mo]
 、/PU
@@ -1567,7 +1567,7 @@
 英/NR[Yīng | Ying]
 皆/AD[jiē | all]
 不/AD[bù | not]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 。/PU
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
@@ -1599,10 +1599,10 @@
 相傳/VV[xiāngchuán | to pass on]
 ，/PU
 自/P[zì | since]
-立/VV[lì | to set up]
+立/VV[lì | to stand]
 彌勒菩薩/NR[Mílè Púsà | Maitreya Bodhisattva]
 像/NN[xiàng | image]
-後/P[hòu | after]
+後/NN[hòu | after]
 ，/PU
 便/AD[biàn | right away]
 有/VE[yǒu | to have]
@@ -1618,11 +1618,11 @@
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 。/PU
 像/NN[xiàng | image]
-立/VV[lì | to set up]
+立/VV[lì | to stand]
 在/P[zài | in]
 佛/NR[Fó | Buddha]
 泥洹/NR[Níhuán | Nirvāṇa]
-後/P[hòu | after]
+後/NN[hòu | after]
 三百/CD[sān bǎi | three hundred]
 許/AD[xǔ | perhaps]
 年/NN[nián | year]
@@ -1665,14 +1665,14 @@
 ，/PU
 邊/NN[biān | side]
 人/NN[rén | person]
-識/NN[shí | knowledge]
+識/VV[shí | to know]
 法/NR[Fǎ | Dhárma]
 。/PU
 固/VA[gù | hard]
 知/VV[zhī | to know]
 冥/VA[míng | profound]
 運/VV[yùn | to move]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 開/VV[kāi | to open]
 ，/PU
 本/NN[běn | origin]
@@ -1682,7 +1682,7 @@
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 漢明帝/NR[Hàn Míng Dì | Emperor Ming of Han]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 夢/NN[mèng | dream]
 ，/PU
 有/VE[yǒu | to have]
@@ -1773,7 +1773,7 @@
 。/PU
 傳言/VV[chuányán | to pass down]
 佛/NR[Fó | Buddha]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 北天竺/NR[běi Tiānzhú | Northern India]
 ，/PU
 即/CC[jí | promptly]
@@ -1818,7 +1818,7 @@
 現在/AD[xiànzài | at present]
 。/PU
 石/NN[shí | rock]
-高/VA[gāo | high]
+高/NN[gāo | height]
 丈/NN[zhàng | zhang]
 四/CD[sì | four]
 ，/PU
@@ -2023,10 +2023,10 @@
 復/AD[fù | again]
 東/NN[dōng | east]
 行/VV[xíng | to travel]
-二/OD[èr | second]
+二/CD[èr | two]
 日/NN[rì | day]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 投身/VV[tóushēn | to throw oneself into]
 餧/VV[wèi | to feed]
 餓/VV[è | to be hungry]
@@ -2034,7 +2034,7 @@
 處/NN[chù | a place]
 。/PU
 此/DT[cǐ | this]
-二/OD[èr | second]
+二/CD[èr | two]
 處/NN[chù | a place]
 亦/AD[yì | also]
 起/VV[qǐ | to build]
@@ -2063,11 +2063,11 @@
 ，/PU
 相繼/AD[xiāngjì | one after another]
 不/AD[bù | not]
-絶/AD[jué | absolutely]
+絶/VV[jué | to break]
 。/PU
 通/VA[tōng | common]
 上/DT[shàng | above]
-二/OD[èr | second]
+二/CD[èr | two]
 塔/NN[tǎ | a pagoda]
 ，/PU
 彼/PN[bǐ | that]
@@ -2122,7 +2122,7 @@
 塔/NN[tǎ | stupa]
 。/PU
 」/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 罽膩伽/NR[Jìnìjiā | Kanishka]
 王/NN[wáng | a king]
 出世/VV[chūshì | to be born]
@@ -2182,7 +2182,7 @@
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 四十/CD[sì shí | forty]
 餘/VA[yú | extra]
 丈/NN[zhàng | zhang]
@@ -2234,7 +2234,7 @@
 塔/NN[tǎ | a pagoda]
 南/NN[nán | south]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 三/CD[sān | three]
 尺/NN[chǐ | a Chinese foot]
 許/AD[xǔ | perhaps]
@@ -2292,7 +2292,7 @@
 餝/VV[shì | to decorate]
 大象/NN[dàxiàng | elephant]
 ，/PU
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 鉢/NN[bō | an alms bowl]
 其/PN[qí | that]
 上/DT[shàng | above]
@@ -2328,7 +2328,7 @@
 鉢/NN[bō | an alms bowl]
 緣/NN[yuán | cause]
 未/AD[wèi | not yet]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 ，/PU
 深/VA[shēn | profound]
 自/PN[zì | from]
@@ -2378,7 +2378,7 @@
 中/NN[zhōng | midday]
 食/NN[shí | food]
 。/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 暮/NN[mù | evening]
 燒香/VV[shāoxiāng | to burn incense]
 時/AD[shí | at that time]
@@ -2387,7 +2387,7 @@
 。/PU
 可/VV[kě | can]
 容/VV[róng | to hold]
-二/OD[èr | second]
+二/CD[èr | two]
 斗/NN[dòu | unit of volume equal to 10 liters]
 許/AD[xǔ | perhaps]
 ，/PU
@@ -2402,7 +2402,7 @@
 ，/PU
 厚/VA[hòu | thick]
 可/VV[kě | can]
-二/OD[èr | second]
+二/CD[èr | two]
 分/NN[fèn | a part]
 ，/PU
 甚/AD[shén | extremely]
@@ -2521,7 +2521,7 @@
 由延/NN[yóuyán | yojana]
 ，/PU
 便/AD[biàn | right away]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 那竭國/NR[Nàjié Guó | Kingdom of Nagarahara]
 界/NN[jiè | a realm]
 醯羅/NR[Xīluó | Hidda]
@@ -2600,7 +2600,7 @@
 佛/NR[Fó | Buddha]
 頂骨/NN[dǐnggǔ | parietal bone]
 ，/PU
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 精舍/NN[jīngshè | vihāra]
 外/P[wài | outside]
 高/VA[gāo | high]
@@ -2639,7 +2639,7 @@
 。/PU
 每/DT[měi | each]
 日出/NN[rì chū | sunrise]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 精舍/NN[jīngshè | vihāra]
 人/NN[rén | person]
@@ -2742,7 +2742,7 @@
 或/CC[huò | or]
 閇/VV[bì | to close]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 五/CD[wŭ | five]
 尺/NN[chǐ | a Chinese foot]
 許/AD[xǔ | perhaps]
@@ -2809,7 +2809,7 @@
 。/PU
 是/VC[shì | this]
 菩薩/NN[púsà | bodhisattva]
-本/NN[běn | origin]
+本/PN[běn | self]
 以/VV[yǐ | to use]
 銀/NN[yín | silver]
 錢/NN[qián | money]
@@ -2830,7 +2830,7 @@
 塔/NN[tǎ | a pagoda]
 ，/PU
 供養/VV[gōngyàng | to make offerings]
-如/CS[rú | if]
+如/P[rú | in accordance with]
 頂骨/NN[dǐnggǔ | parietal bone (top of the scull)]
 法/NN[fǎ | dhárma]
 。/PU
@@ -2940,9 +2940,9 @@
 餘/VA[yú | surplus]
 步/NN[bù | a step]
 觀/VV[guān | to look at]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
-如/CS[rú | if]
+如/P[rú | in accordance with]
 佛/NR[Fó | Buddha]
 真/VA[zhēn | real]
 形/NN[xíng | a shape]
@@ -2955,7 +2955,7 @@
 炳/VV[bǐng | to glean]
 著/VV[zhāo | to attach]
 ，/PU
-轉/VV[zhuǎn | to transmit]
+轉/VV[zhuǎn | to turn]
 近/VA[jìn | nearby]
 轉/VV[zhuǎn | to turn]
 微/VV[wēi | to wane]
@@ -2999,12 +2999,12 @@
 許/AD[xǔ | perhaps]
 ，/PU
 佛/NR[Fó | Buddha]
-在/P[zài | in]
+在/VV[zài | to be living]
 時/AD[shí | at that time]
 剃/VV[tì | to shave]
 髮/NN[fà | hair]
 剪/VV[jiǎn | to cut with scissors]
-爪/NN[zhuǎ | claw]
+爪/NN[zhuǎ | fingernails]
 。/PU
 佛/NR[Fó | Buddha]
 自/PN[zì | from]
@@ -3015,7 +3015,7 @@
 造/VV[zào | to make]
 塔/NN[tǎ | a pagoda]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 七/CD[qī | seven]
 八/CD[bā | eight]
 丈/NN[zhàng | zhang]
@@ -3024,11 +3024,11 @@
 爲/P[wèi | because of]
 將來/NN[jiānglái | the future]
 塔/NN[tǎ | a pagoda]
-法/NR[Fǎ | Dhárma]
+法/NN[fǎ | dhárma]
 ，/PU
 今/NN[jīn | today]
 猶/AD[yóu | also]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 邊/NN[biān | side]
 有/VE[yǒu | to have]
@@ -3059,7 +3059,8 @@
 住/VV[zhù | to dwell]
 此/DT[cǐ | this]
 冬/NN[dōng | winter]
-三月/NR[sānyuè | March]
+三/CD[sān | three]
+月/NN[yuè | month]
 ，/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 等/MSP[děng | plural]
@@ -3074,7 +3075,7 @@
 山/NN[shān | mountain]
 冬/NN[dōng | winter]
 夏/NN[xià | summer]
-積/VV[jī | to amass]
+積/VV[jī | to accumulate]
 雪/NN[xuě | snow]
 。/PU
 山/NN[shān | mountain]
@@ -3089,7 +3090,7 @@
 人/NN[rén | person]
 皆/AD[jiē | all]
 噤/VA[jìn | unable to speak]
-戰/NN[zhàn | war]
+戰/VV[zhàn | to shiver]
 。/PU
 慧景/NR[Huì Jǐng | Hui Jing]
 一/CD[yī | one]
@@ -3098,19 +3099,20 @@
 復/AD[fù | again]
 進/VV[jìn | to advance]
 ，/PU
-口/NN[kǒu | an exit]
+口/NN[kǒu | mouth]
 出/VV[chū | to go out]
-白/VV[bái | to make clear]
+白/NN[bái | white]
 沫/NN[mò | foam]
 ，/PU
-語法/NN[yǔfǎ | grammar]
-顯/VV[xiǎn | to show]
+語/VV[yǔ | to say]
+法顯/NR[Fǎ Xiǎn | Fa Xian]
 雲/VV[yún | to say]
 「/PU
 我/PN[wǒ | I]
 亦/AD[yì | also]
 不/AD[bù | not]
-復活/VV[fùhuó | to bring back to life]
+復/AD[fù | more]
+活/VV[huó | to live]
 ，/PU
 便/AD[biàn | right away]
 可/VV[kě | can]
@@ -3129,15 +3131,15 @@
 。/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 撫/VV[fǔ | to comfort]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 悲/VV[bēi | to pity]
-號/NN[hào | a name]
+號/VV[hào | to yell]
 ：/PU
 「/PU
 本/NN[běn | origin]
-圖/NN[tú | diagram]
+圖/VV[tú | to plan]
 不/AD[bù | not]
-果/NN[guǒ | fruit]
+果/VV[guǒ | to realize]
 ，/PU
 命/NN[mìng | life]
 也/MSP[yě | a final modal particle indicating certainy or decision]
@@ -3154,11 +3156,8 @@
 嶺/NN[lǐng | mountain range]
 。/PU
 羅夷國/NR[Luóyíguó | Lo-e]
-跋/VV[bá | to travel]
-那/DT[nà | na]
-國/NN[guó | a kingdom]
-毗/VV[pí | to adjoin]
-荼/NN[tú | a thistle]
+跋那國/NR[Bánà Guó | Bannu]
+毗荼/NR[Pítú | Punjab]
 國/NN[guó | a kingdom]
 南/NN[nán | south]
 到/CC[dào | arrive]
@@ -3190,9 +3189,7 @@
 日/NN[rì | day]
 ，/PU
 到/CC[dào | arrive]
-跋/VV[bá | to travel]
-那/DT[nà | na]
-國/NN[guó | a kingdom]
+跋那國/NR[Bánà Guó | Bannu]
 。/PU
 亦/AD[yì | also]
 有/VE[yǒu | to have]
@@ -3225,8 +3222,7 @@
 國/NN[guó | a kingdom]
 ，/PU
 名/VV[míng | to be called]
-毗/VV[pí | to adjoin]
-荼/NN[tú | a thistle]
+毗荼/NR[Pítú | Punjab]
 。/PU
 佛法/NR[Fófǎ | Dharma]
 興盛/VA[xīngshèng | flourish]
@@ -3238,7 +3234,7 @@
 學/NN[xué | learning]
 。/PU
 見/VV[jiàn | to see]
-秦/NR[Qín | Shaanxi]
+秦/NR[Qín | Qin]
 道人/NN[dàorén | a monk]
 往/VV[wǎng | to go (in a direction)]
 ，/PU
@@ -3272,9 +3268,9 @@
 須/AD[xū | necessary]
 ，/PU
 待/VV[dài | to wait]
-之/PN[zhī | genetive marker]
-如/CS[rú | if]
-法/NR[Fǎ | Dhárma]
+之/DEG[zhī | genetive marker]
+如/P[rú | in accordance with]
+法/NN[fǎ | rule]
 。/PU
 從此/AD[cóngcǐ | from now on]
 東南/NN[dōngnán | southeast]
@@ -3294,12 +3290,11 @@
 萬/CD[wàn | ten thousand]
 數/NN[shù | number]
 。/PU
-中/P[zhōng | in]
-天竺/NR[Tiānzhú | the Indian subcontinent]
+中天竺/NR[Zhōng Tiānzhú | Central India]
 、/PU
 東/NN[dōng | east]
 天竺/NR[Tiānzhú | the Indian subcontinent]
-記/NN[jì | a prediction]
+記/NN[jì | to record]
 遊/VV[yóu | to walk]
 摩頭羅/NR[Mótóuluó | Mathura]
 國/NN[guó | a kingdom]
@@ -3319,9 +3314,7 @@
 。/PU
 有/VE[yǒu | to have]
 遙/VA[yáo | distant]
-捕/VV[bǔ | to catch]
-那/DT[nà | na]
-河/NN[hé | a river]
+捕那河/NR[Bǔnà Hé | P’oo-na River]
 ，/PU
 河邊/NN[hébiān | riverbank]
 左右/VA[zuǒyòu | approximately]
@@ -3330,7 +3323,7 @@
 僧/NN[sēng | monk]
 伽藍/NN[qiēlán | monastery]
 ，/PU
-可/VV[kě | can]
+可/VV[kě | may]
 有/VE[yǒu | to have]
 三千/CD[sān qiān | three thousand]
 僧/NN[sēng | monk]
@@ -3340,7 +3333,7 @@
 盛/VA[shèng | flourishing]
 。/PU
 凡/VA[fán | all]
-沙河/NR[Shāhé | Shahe]
+沙河/NN[shāhé | desert]
 已/CS[yǐ | afterwards]
 西/NN[xī | west]
 ，/PU
@@ -3360,28 +3353,29 @@
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 脫/VV[tuō | to shed]
-天/NN[tiān | a deva]
+天/NN[tiān | heaven]
 冠/NN[guān | crown]
 ，/PU
 共/AD[gòng | all together]
 諸/DT[zhū | all]
-宗/NR[Zōng | Zong]
+宗/VV[zōng | to respect]
 親/VA[qīn | personally]
 、/PU
 羣/NN[qún | group]
 臣/NN[chén | minister]
 手/NN[shǒu | hand]
-自行/VA[zìxíng | voluntary]
-食/NN[shí | food]
+自/P[zì | from]
+行/VV[xíng | to do]
+食/VV[shí | to eat]
 。/PU
 行/VV[xíng | to do]
-食/NN[shí | food]
+食/VV[shí | to eat]
 已/CS[yǐ | afterwards]
 ，/PU
 鋪/VV[pū | to spread]
 氊/NN[zhān | felt]
 於/P[yú | in]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 對/P[duì | to]
 上座/NN[shàngzuò | seat of honor]
@@ -3403,13 +3397,14 @@
 諸/DT[zhū | all]
 王/NN[wáng | a king]
 供養/VV[gōngyàng | to make offerings]
-法式/NN[fǎshì | rule]
+法式/NN[fǎshì | rules and customs]
 ，/PU
 相傳/VV[xiāngchuán | to pass on]
 至今/P[zhìjīn | until now]
 。/PU
 從/P[cóng | from]
-是以/CC[shìyǐ | therefore]
+是/DT[shì | that]
+以/VV[yǐ | to use]
 南/NN[nán | south]
 ，/PU
 名/VV[míng | to be called]
@@ -3433,17 +3428,17 @@
 無/VE[wú | to not have]
 戶籍/NN[hùjí | census register]
 官/NN[guān | official]
-法/NR[Fǎ | Dhárma]
+法/NN[fǎ | law]
 ，/PU
 唯/AD[wéi | only]
 耕/VV[gēng | to plow]
 王/NN[wáng | a king]
-地/DEV[dì | the Earth]
+地/NN[dì | land]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 乃/AD[nǎi | thus]
-輸/VV[shū | to transport]
-地/DEV[dì | the Earth]
-利/NN[lì | advantage]
+輸/VV[shū | to give]
+地/NN[dì | land]
+利/NN[lì | profit]
 ，/PU
 欲/NN[yù | desire]
 去/VV[qù | to go]
@@ -3458,7 +3453,7 @@
 王/NN[wáng | a king]
 治/VV[zhì | to rule]
 不用/AD[búyòng | need not]
-刑/NN[xíng | punishment]
+刑/VV[xíng | to punish]
 罔/VV[wǎng | to deceive]
 ，/PU
 有/VE[yǒu | to have]
@@ -3478,7 +3473,7 @@
 謀/VV[móu | to plan]
 爲/P[wèi | because of]
 惡/NN[è | evil]
-逆/VA[nì | contrary]
+逆/VV[nì | to rebel]
 ，/PU
 不過/CC[bùguò | but]
 截/VV[jié | to cut]
@@ -3486,17 +3481,18 @@
 而已/VV[éryǐ | that is all]
 。/PU
 王/NN[wáng | a king]
-之/PN[zhī | genetive marker]
-侍/VV[shì | to attend on]
-衛/VV[wèi | to guard]
+之/DEG[zhī | genetive marker]
+侍/NN[shì | an attendant]
+衛/NN[wèi | a bodyguard]
 、/PU
-左右/VA[zuǒyòu | approximately]
+左/NN[zuǒ | left]
+右/NN[yòu | right]
 皆/AD[jiē | all]
 有/VE[yǒu | to have]
 供/VV[gōng | to offer]
 祿/NN[lù | good fortune]
 。/PU
-舉/VV[jǔ | to lift]
+舉/AD[jǔ | all]
 國/NN[guó | a kingdom]
 人民/NN[rénmín | people]
 悉/AD[xī | all]
@@ -3508,7 +3504,7 @@
 酒/NN[jiǔ | wine]
 ，/PU
 不/AD[bù | not]
-食/NN[shí | food]
+食/VV[shí | to eat]
 蔥/NN[cōng | scallion]
 䔉/NN[lì | garlic]
 ，/PU
@@ -3539,14 +3535,14 @@
 ，/PU
 人/NN[rén | person]
 則/CS[zé | expresses contrast with a previous sentence or clause]
-識/NN[shí | knowledge]
+識/VV[shí | to know]
 而/CC[ér | thus]
 避/VV[bì | to avoid]
-之/PN[zhī | genetive marker]
+之/PN[zhī | him]
 ，/PU
 不/AD[bù | not]
-相/NN[xiàng | a perception]
-唐/NR[Táng | Tang Dynasty]
+相/VV[xiàng | to observe]
+唐/VA[táng | vast]
 突/VV[tū | to dash]
 。/PU
 國/NN[guó | a kingdom]
@@ -3559,8 +3555,7 @@
 ，/PU
 不/AD[bù | not]
 賣/VV[mài | to sell]
-生/VV[shēng | to develop]
-口/NN[kǒu | an entrance]
+生口/NN[shēngkǒu | livestock]
 ，/PU
 市/NN[shì | market]
 無/VE[wú | to not have]
@@ -3568,7 +3563,7 @@
 、/PU
 酤/VV[gū | to deal in liquor]
 及/CC[jí | and]
-估/VA[gù | old]
+估/VV[gù | a merchant]
 酒/NN[jiǔ | wine]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
@@ -3576,14 +3571,12 @@
 易/VV[yì | to change]
 則/CS[zé | expresses contrast with a previous sentence or clause]
 用/VV[yòng | to use]
-貝/NN[bèi | cowries]
-齒/NN[chǐ | tooth]
+貝齒/NN[bèichǐ | a cowrie shell]
 ，/PU
 唯/AD[wéi | only]
 旃荼羅/NR[Zhāntúluó | Chandala]
 、/PU
-獵/VV[liè | to hunt]
-師/NN[shī | teacher]
+獵師/NN[lièshī | a hunter]
 賣/VV[mài | to sell]
 肉/NN[ròu | meat]
 耳/SP[ěr | and that is all]
@@ -3596,7 +3589,7 @@
 諸/DT[zhū | all]
 國王/NN[guówáng | king]
 、/PU
-長者/NN[zhǎngzhě | the elderly]
+長者/NN[zhǎngzhě | an elder]
 、/PU
 居士/NN[jūshì | a lay person]
 爲/P[wèi | because of]
@@ -3610,8 +3603,7 @@
 田/NN[tián | field]
 宅/NN[zhái | residence]
 、/PU
-園/NN[yuán | garden]
-圃/NN[pǔ | a garden]
+園圃/NN[yuánpǔ | a garden plot]
 、/PU
 民戶/NN[mínhù | a household]
 、/PU
@@ -3623,7 +3615,7 @@
 書/NN[shū | book]
 録/VV[lù | to record]
 ，/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 王/NN[wáng | a king]
 王/NN[wáng | a king]
 相傳/VV[xiāngchuán | to pass on]
@@ -3635,7 +3627,7 @@
 ，/PU
 至今/P[zhìjīn | until now]
 不/AD[bù | not]
-絶/AD[jué | absolutely]
+絶/VV[jué | to break]
 。/PU
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
@@ -3683,27 +3675,27 @@
 迎/VV[yíng | to welcome]
 逆/VA[nì | contrary]
 ，/PU
-代/VV[dài | to represent]
-檐/NN[yán | eaves]
+代/VV[dài | to replace]
+檐/NN[yán | border]
 衣/NN[yī | uppergarment]
 鉢/NN[bō | an alms bowl]
 ，/PU
-給/VV[gěi | for the benefit of]
+給/VV[gěi | to give]
 洗/VV[xǐ | to wash]
 足/NN[zú | foot]
 水/NN[shuǐ | water]
 ，/PU
-塗/NR[Tú | Tu]
+塗/VV[tú | to spread]
 足/NN[zú | foot]
 油/NN[yóu | oil]
 ，/PU
 與/CC[yǔ | and]
-非時/VA[fēishí | untimely]
+非時/VA[fēishí | at an unusual time]
 漿/NN[jiāng | broth]
 ，/PU
 須臾/NN[xūyú | a moment]
 ，/PU
-息/NN[xī | interest]
+息/NN[xī | rest]
 已/CS[yǐ | afterwards]
 ，/PU
 復/AD[fù | again]
@@ -3719,8 +3711,8 @@
 臥具/NN[wòjù | bedding]
 ，/PU
 種種/M[zhǒngzhǒng | all kinds of]
-如/CS[rú | if]
-法/NR[Fǎ | Dhárma]
+如/P[rú | in accordance with]
+法/NN[fǎ | rule]
 。/PU
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
@@ -3730,36 +3722,34 @@
 舍利弗/NR[Shèlìfú | Sariputra]
 塔/NN[tǎ | a pagoda]
 、/PU
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 、/PU
 阿難/NR[Ānán | Ananda]
 塔/NN[tǎ | a pagoda]
 ，/PU
 並/CC[bìng | and]
-阿/FW[ē | e]
-毗/VV[pí | to adjoin]
-曇/NN[tán | dark clouds]
+阿毗曇/NR[Āpítán | Abhidharma]
 、/PU
-律/NN[lǜ | law]
+律/NN[lǜ | vinaya]
 、/PU
 經/NN[jīng | a sutra]
 塔/NN[tǎ | a pagoda]
 。/PU
 安居/VV[ānjū | to settle down]
-後/DT[hòu | after]
+後/NN[hòu | after]
 一月/NR[yīyuè | January]
 ，/PU
 諸/DT[zhū | all]
 希/VV[xī | to hope]
-福/NN[fú | virtue]
-之/PN[zhī | genetive marker]
+福/NN[fú | blessing]
+之/DEG[zhī | genetive marker]
 家/NN[jiā | family]
 勸化/VV[quànhuà | to persuade]
 供養/VV[gōngyàng | to make offerings]
 僧/NN[sēng | monk]
 ，/PU
 作/VV[zuò | to do]
-非時/VA[fēishí | untimely]
+非時/VA[fēishí | at an unusual time]
 漿/NN[jiāng | broth]
 。/PU
 衆/AD[zhòng | all]
@@ -3790,7 +3780,7 @@
 人/NN[rén | person]
 作/VV[zuò | to do]
 舍利弗/NR[Shèlìfú | Sariputra]
-本/NN[běn | origin]
+本/PN[běn | self]
 婆羅門/NR[Póluómén | Brahmin]
 時/AD[shí | at that time]
 詣/VV[yì | to go to visit a superior]
@@ -3799,7 +3789,7 @@
 出家/VV[chūjiā | to become a monk]
 。/PU
 大/VA[dà | big]
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 、/PU
 大迦葉/NR[Dà Jiāyè | Mahakasyapa]
 亦/AD[yì | also]
@@ -3825,27 +3815,22 @@
 沙彌/NN[shāmí | a novice Buddhist monk]
 多/VA[duō | many]
 供養/VV[gōngyàng | to make offerings]
-羅/NN[luó | gauze]
-雲/VV[yún | to say]
+羅雲/NR[Luóyún | Rahula]
 。/PU
-阿/FW[ē | e]
-毗/VV[pí | to adjoin]
-曇/NN[tán | dark clouds]
+阿毗曇/NR[Āpítán | Abhidharma]
 師/NN[shī | teacher]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 供養/VV[gōngyàng | to make offerings]
-阿/FW[ē | e]
-毗/VV[pí | to adjoin]
-曇/NN[tán | dark clouds]
+阿毗曇/NR[Āpítán | Abhidharma]
 。/PU
-律師/NN[lǜshī | lawyer]
+律師/NN[lǜ shī | vinaya teacher]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 供養/VV[gōngyàng | to make offerings]
-律/NN[lǜ | law]
+律/NN[lǜ | vinaya]
 。/PU
-年年/NN[nián nián | year after year]
+年年/NN[nián nián | every year]
 一/CD[yī | one]
 供養/VV[gōngyàng | to make offerings]
 ，/PU
@@ -3867,10 +3852,10 @@
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
 受/VV[shòu | to receive]
-歲/NN[suì | years old]
-竟/AD[jìng | unexpectedly]
+歲/NN[suì | annual harvest]
+竟/AD[jìng | actually]
 ，/PU
-長者/NN[zhǎngzhě | the elderly]
+長者/NN[zhǎngzhě | an elder]
 、/PU
 居士/NN[jūshì | a lay person]
 、/PU
@@ -3909,20 +3894,20 @@
 威儀/NN[wēiyí | majestic presence]
 法則/NN[fǎzé | law]
 ，/PU
-相承/VV[xiāngchéng | to complement one another]
+相承/VV[xiāngchéng | to inherit]
 不/AD[bù | not]
-紀/VV[jì | to record]
+紀/NN[jì | change]
 。/PU
 自/PN[zì | from]
 渡/VV[dù | to cross]
 新頭河/NR[Xīntóu Hé | Indus River]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 南天竺/NR[Nán Tiānzhú | Southern India]
 ，/PU
-迄/VV[qì | until now]
-於/P[yú | in]
-南海/NR[Nán Hǎi | South China Sea]
+迄/NN[qì | from beginning to end]
+於/P[yú | to]
+南海/NR[Nán Hǎi | Guangzhou]
 ，/PU
 四/CD[sì | four]
 五萬/CD[wŭ wàn | fifty thousand]
@@ -3934,7 +3919,7 @@
 無/VE[wú | to not have]
 大/VA[dà | big]
 山/NN[shān | mountain]
-川/NR[Chuān | Sichuan]
+川/NN[chuān | river]
 ，/PU
 正/VA[zhèng | main]
 有/VE[yǒu | to have]
@@ -3942,8 +3927,7 @@
 水/NN[shuǐ | water]
 耳/SP[ěr | and that is all]
 。/PU
-僧伽/NR[sēngjiā | Sangha]
-施/VV[shī | to give]
+僧伽施/NR[Sēngjiāshī | Sankasya]
 國/NN[guó | a kingdom]
 從此/AD[cóngcǐ | from now on]
 東南/NN[dōngnán | southeast]
@@ -3954,9 +3938,7 @@
 有/VE[yǒu | to have]
 國/NN[guó | a kingdom]
 名/VV[míng | to be called]
-僧/NN[sēng | monk]
-仂/NN[lè | surplus]
-施/VV[shī | to give]
+僧伽施/NR[Sēngjiāshī | Sankasya]
 。/PU
 佛/NR[Fó | Buddha]
 上/VV[shàng | to go up]
@@ -3991,7 +3973,7 @@
 日/NN[rì | day]
 ，/PU
 乃/AD[nǎi | thus]
-放/VV[fàng | to put]
+放/VV[fàng | to control]
 神足/NN[shénzú | teleportation]
 。/PU
 阿那律/NR[Ānàlǜ | Aniruddha]
@@ -4005,7 +3987,7 @@
 語/VV[yǔ | to speak]
 尊者/NN[zūnzhě | senior monk]
 大/VA[dà | big]
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 ，/PU
 汝/PN[rǔ | you]
 可/VV[kě | can]
@@ -4013,7 +3995,7 @@
 問訊/VV[wènxùn | to inquire]
 世尊/NR[Shìzūn | Bhagavān]
 。/PU
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 即/CC[jí | promptly]
 往/VV[wǎng | to go (in a direction)]
 ，/PU
@@ -4030,11 +4012,11 @@
 ，/PU
 佛/NR[Fó | Buddha]
 語/VV[yǔ | to speak]
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 「/PU
 吾/PN[wú | I]
 卻/CC[què | but]
-後/DT[hòu | after]
+後/NN[hòu | after]
 七/CD[qī |seven]
 日/NN[rì | day]
 ，/PU
@@ -4042,7 +4024,7 @@
 閻浮提/NR[Yǎn Fú Tí | Jambudvipa]
 。/PU
 」/PU
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 既/AD[jì | already]
 還/VV[huán | to return]
 ，/PU
@@ -4059,12 +4041,12 @@
 ，/PU
 不見/VV[bùjiàn | to not see]
 佛/NR[Fó | Buddha]
-久/VA[jiǔ | old]
+久/AD[jiǔ | a long time]
 ，/PU
 咸/PN[xián | all]
 皆/AD[jiē | all]
 渴/VA[kě | thirsty]
-仰/VV[yǎng | to rely on]
+仰/VV[yǎng | to look up]
 ，/PU
 雲集/VV[yún jí | to gather]
 此/DT[cǐ | this]
@@ -4074,13 +4056,11 @@
 世尊/NR[Shìzūn | Bhagavān]
 。/PU
 時/AD[shí | at that time]
-優/VA[yōu | excellent]
-鉢/NN[bō | an alms bowl]
-羅/NN[luó | gauze]
+優鉢羅/NR[Yōubōluó | Utpala]
 比丘尼/NN[bǐqiūní | a nun]
 即/CC[jí | promptly]
-自/PN[zì | from]
-心/NN[xīn | mind]
+自/PN[zì | oneself]
+心/NN[xīn | heart]
 念/NN[niàn | a thought]
 「/PU
 今日/NN[jīnrì | today]
@@ -4122,9 +4102,9 @@
 忉利天/NR[Dāolìtiān | Trāyastriṃśa Heaven]
 上/DT[shàng | above]
 東/NN[dōng | east]
-向下/VA[xiàngxià | down]
+向下/VV[xiàngxià | to descend]
 。/PU
-下/VV[xià | to go]
+下/VV[xià | to descend]
 時/AD[shí | at that time]
 ，/PU
 化作/VV[huàzuò | to change into]
@@ -4133,7 +4113,7 @@
 階/NN[jiē | stairs]
 ：/PU
 佛/NR[Fó | Buddha]
-在/P[zài | in]
+在/P[zài | to be living]
 中道/NN[zhōng dào | the middle way]
 七寶/NR[qī bǎo | the Seven Treasures]
 階/NN[jiē | stairs]
@@ -4148,7 +4128,7 @@
 ，/PU
 在/P[zài | in]
 右邊/NN[yòubian | right]
-執/VV[zhí | to execute a plan]
+執/VV[zhí | to grasp]
 白/VV[bái | to make clear]
 拂/VV[fú | to brush away]
 而/CC[ér | thus]
@@ -4161,7 +4141,7 @@
 ，/PU
 在/P[zài | in]
 左邊/NN[zuǒbiān | left]
-執/VV[zhí | to execute a plan]
+執/VV[zhí | to grasp]
 七寶/NR[qī bǎo | the Seven Treasures]
 蓋/CC[gài | because]
 而/CC[ér | thus]
@@ -4183,7 +4163,7 @@
 俱/AD[jū | together]
 沒/VE[méi | (negative prefix for verbs)]
 於/P[yú | in]
-地/DEV[dì | the Earth]
+地/NN[dì | earth]
 ，/PU
 餘/VA[yú | extra]
 有/VE[yǒu | to have]
@@ -4192,13 +4172,13 @@
 而/CC[ér | thus]
 現/VV[xiàn | to appear]
 。/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 阿育王/NR[Āyùwáng | King Ashoka]
 欲/NN[yù | desire]
 知/VV[zhī | to know]
 其/PN[qí | that]
 根/NN[gēn | a root]
-際/NN[jì | border]
+際/VV[jì | to arrive]
 ，/PU
 遣/VV[qiǎn | to dispatch]
 人/NN[rén | person]
@@ -4206,7 +4186,7 @@
 看/VV[kàn | to see]
 ，/PU
 下/VV[xià | to go]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 黃/VA[huáng | yellow]
 泉/NN[quán | fountain]
 ，/PU
@@ -4235,11 +4215,11 @@
 立像/NN[lìxiàng | a standing image]
 ，/PU
 精舍/NN[jīngshè | vihāra]
-後/DT[hòu | after]
+後/NN[hòu | after]
 立/VV[lì | to set up]
 石柱/NN[shízhù | a stone column]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 二十/CD[èrshí | twenty]
 肘/NN[zhǒu | elbow]
 ，/PU
@@ -4286,12 +4266,12 @@
 若是/CC[ruòshì | if]
 沙門/NN[shāmén | a Buddhist monk]
 住處/NN[zhùchù | residence]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 今/NN[jīn | today]
 當/P[dāng | at or in the very same]
 有/VE[yǒu | to have]
-靈驗/VA[língyàn | efficacious]
+靈驗/NN[língyàn | a miracle]
 。/PU
 」/PU
 作/VV[zuò | to do]
@@ -4327,7 +4307,7 @@
 ，/PU
 身/NN[shēn | body]
 作/VV[zuò | to do]
-天/NN[tiān | a deva]
+天/NN[tiān | heaven]
 香/NN[xiāng | incense]
 ，/PU
 不同/VA[bùtóng | different]
@@ -4337,7 +4317,7 @@
 浴/VV[yù | to bathe]
 身/NN[shēn | body]
 ，/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 於/P[yú | in]
 此/DT[cǐ | this]
@@ -4349,9 +4329,7 @@
 猶/AD[yóu | also]
 在/P[zài | in]
 。/PU
-優/VA[yōu | excellent]
-鉢/NN[bō | an alms bowl]
-羅/NN[luó | gauze]
+優鉢羅/NR[Yōubōluó | Utpala]
 比丘尼/NN[bǐqiūní | a nun]
 初/AD[chū | at first]
 禮/VV[lǐ | bow]
@@ -4371,7 +4349,7 @@
 髮/NN[fà | hair]
 、/PU
 爪/NN[zhuǎ | claw]
-作/VV[zuò | to do]
+作/VV[zuò | to make]
 塔/NN[tǎ | a pagoda]
 ，/PU
 及/CC[jí | and]
@@ -4400,7 +4378,7 @@
 ，/PU
 今/NN[jīn | today]
 悉/AD[xī | all]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 天帝釋/NR[Tiān Dì Shì | Sakra]
 、/PU
@@ -4427,7 +4405,7 @@
 皆/AD[jiē | all]
 同/DT[tóng | to be the same]
 衆/VA[zhòng | common]
-食/NN[shí | food]
+食/VV[shí | to eat]
 ，/PU
 雜/VA[zá | mixed]
 大/VA[dà | big]
@@ -4437,7 +4415,7 @@
 。/PU
 住處/NN[zhùchù | residence]
 一/CD[yī | one]
-白/VV[bái | to make clear]
+白/VA[bái | white]
 耳/NN[ěr | ear]
 龍/NN[lóng | dragon]
 ，/PU
@@ -4451,7 +4429,7 @@
 令/VV[lìng | to make]
 國內/VA[guónèi | domestic]
 豐/VA[fēng | abundant]
-熟/VA[shú | cooked]
+熟/NN[shú | a harvest]
 ，/PU
 雨/VV[yǔ | to rain]
 澤/NN[zé | marsh]
@@ -4471,7 +4449,7 @@
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
 感/VV[gǎn | to feel]
-其/PN[qí | that]
+其/DT[qí | that]
 惠/NN[huì | favor]
 ，/PU
 故/CS[gù | reason]
@@ -4481,7 +4459,7 @@
 舍/NN[shè | residence]
 ，/PU
 敷/VV[fū | to spread out]
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 坐/VV[zuò | to sit]
 處/NN[chù | a place]
 ，/PU
@@ -4489,7 +4467,7 @@
 爲/P[wèi | because of]
 龍/NN[lóng | dragon]
 設/VV[shè | to set up]
-福/NN[fú | virtue]
+福/NN[fú | blessing]
 食/NN[shí | food]
 供養/VV[gōngyàng | to make offerings]
 。/PU
@@ -4507,10 +4485,10 @@
 龍/NN[lóng | dragon]
 舍/NN[shè | residence]
 中/P[zhōng | in]
-食/NN[shí | food]
+食/VV[shí | to eat]
 。/PU
 每/DT[měi | each]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 夏坐/NN[xià zuò | summer retreat]
 訖/VV[qì | to finish]
 ，/PU
@@ -4526,30 +4504,30 @@
 兩/CD[liǎng | two]
 耳/NN[ěr | ear]
 邊/NN[biān | side]
-白/VV[bái | to make clear]
+白/VA[bái | white]
 。/PU
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
-識/NN[shí | knowledge]
-之/PN[zhī | genetive marker]
+識/VV[shí | to know]
+之/PN[zhī | him]
 ，/PU
 銅/NN[tóng | copper]
 杅/NN[yú | a bowl]
-盛/VA[shèng | flourishing]
+盛/VV[shèng | to fill]
 酪/NN[lào | Chinese cream]
 ，/PU
 以/P[yǐ | because of]
 龍/NN[lóng | dragon]
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 中/P[zhōng | in]
 。/PU
 從/P[cóng | from]
 上座/NN[shàngzuò | seat of honor]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 下/VV[xià | to go]
 座/NN[zuò | seat]
 行/VV[xíng | to do]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 似/VV[sì | to seem]
 若/CS[ruò | if]
@@ -4570,7 +4548,7 @@
 饒/VA[ráo | abundant]
 ，/PU
 人民/NN[rénmín | the people]
-熾盛/VV[chìshèng | to burn in flames]
+熾盛/VA[chìshèng | prosperous]
 ，/PU
 最/AD[zuì | most]
 樂/VV[lè | to take joy in]
@@ -4583,7 +4561,7 @@
 ，/PU
 無/VE[wú | to not have]
 不/AD[bù | not]
-經理/NN[jīnglǐ | manager]
+經理/VV[jīnglǐ | to manage]
 ，/PU
 供給/VV[gōngjǐ | to furnish]
 所/PN[suǒ | it]
@@ -4603,19 +4581,19 @@
 。/PU
 火/NN[huǒ | fire]
 境/NN[jìng | border]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 惡鬼/NN[èguǐ | a demon]
 名/VV[míng | to be called]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 佛/NR[Fó | Buddha]
-本/NN[běn | origin]
-化/VV[huà | to make into]
+本/PN[běn | self]
+化/VV[huà | to transform]
 是/VC[shì | this]
 惡鬼/NN[èguǐ | a demon]
 。/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 於/P[yú | in]
 此/DT[cǐ | this]
@@ -4636,12 +4614,12 @@
 水/NN[shuǐ | water]
 瀝/NN[lì | a drop]
 滴/VV[dī | to drip]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 其/PN[qí | that]
 處/NN[chù | a place]
 故/CS[gù | reason]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 正/VA[zhèng | main]
 復/AD[fù | again]
@@ -4654,7 +4632,7 @@
 。/PU
 此/DT[cǐ | this]
 處/NN[chù | a place]
-別/VA[bié | separate]
+別/VA[bié | besides]
 有/VE[yǒu | to have]
 佛塔/NN[fótǎ | a pagoda]
 ，/PU
@@ -4668,7 +4646,7 @@
 不/AD[bù | not]
 須/AD[xū | necessary]
 人/NN[rén | person]
-功/NN[gōng | merit]
+功/NN[gōng | work]
 。/PU
 有/VE[yǒu | to have]
 邪見/NN[xiéjiàn | perverse views]
@@ -4678,7 +4656,7 @@
 汝/PN[rǔ | you]
 能/VV[néng | can]
 如是/PN[rúshì | thus]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 我/PN[wǒ | I]
 當/P[dāng | at or in the very same]
@@ -4708,7 +4686,7 @@
 風/NN[fēng | wind]
 ，/PU
 吹/VV[chuī | to blow]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 令/VV[lìng | to make]
 淨/VA[jìng | pure]
 。/PU
@@ -4716,20 +4694,20 @@
 處/NN[chù | a place]
 有/VE[yǒu | to have]
 百/CD[bǎi | one hundred]
-枚/M[méi | for coins, rings, badges, pearls, sporting medals, rockets, satellites etc]
+枚/AD[méi | one after another]
 小/VA[xiǎo | small]
 塔/NN[tǎ | a pagoda]
 。/PU
 人/NN[rén | person]
 終日/AD[zhōngrì | all day]
 數/NN[shù | number]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 不能/VV[bù néng | cannot]
 得知/VV[dézhī | to find out]
 。/PU
 若/CS[ruò | if]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 意/NN[yì | idea]
 欲/NN[yù | desire]
 知/VV[zhī | to know]
@@ -4739,7 +4717,7 @@
 一/CD[yī | one]
 塔/NN[tǎ | stupa]
 邊/VV[biān | to be near]
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 一/CD[yī | one]
 人/NN[rén | person]
 ，/PU
@@ -4749,7 +4727,10 @@
 數/NN[shù | number]
 。/PU
 人人/PN[rénrén | everyone]
-或多或少/PHRASE[huò duō huò shǎo | more or less]
+或/CC[huò | or]
+多/VA[duō | many]
+或/CC[huò | or]
+少/VA[shǎo | few]
 ，/PU
 其/PN[qí | that]
 不可/VV[bù kě | cannot]
@@ -4770,11 +4751,11 @@
 中/P[zhōng | in]
 有/VE[yǒu | to have]
 辟支佛/NN[Pìzhī Fó | Pratyeka-Buddha]
-食/NN[shí | food]
+食/VV[shí | to eat]
 處/NN[chù | a place]
 、/PU
 泥洹/NR[Níhuán | Nirvana]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 大/VA[dà | big]
 如/CS[rú | if]
@@ -4807,7 +4788,7 @@
 跡/NN[jī | a footprint]
 ，/PU
 今/NN[jīn | today]
-故/CS[gù | reason]
+故/CS[gù | so]
 現在/AD[xiànzài | at present]
 。/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
@@ -4816,10 +4797,7 @@
 精舍/NN[jīngshè | vihāra]
 夏坐/NN[xià zuò | summer retreat]
 。/PU
-罽/NN[jì | a fishing net]
-饒/VA[ráo | rich]
-夷/NN[yí | non-Han people]
-城/NN[chéng | a city]
+罽饒夷城/NR[Jìráoyí Chéng | Kanyakubja]
 坐/NN[zuò | a retreat]
 訖/VV[qì | to finish]
 ，/PU
@@ -4829,18 +4807,14 @@
 由延/NN[yóuyán | yojana]
 ，/PU
 到/CC[dào | arrive]
-罽/NN[jì | a fishing net]
-饒/VA[ráo | rich]
-夷/NN[yí | non-Han people]
-城/NN[chéng | a city]
+罽饒夷城/NR[Jìráoyí Chéng | Kanyakubja]
 。/PU
 城/NN[chéng | a city]
 接/VV[jiē | to extend]
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 ，/PU
 有/VE[yǒu | to have]
-二/OD[èr | second]
+二/CD[èr | two]
 僧/NN[sēng | monk]
 伽藍/NN[qiēlán | monastery]
 ，/PU
@@ -4855,8 +4829,7 @@
 七/CD[qī | seven]
 里/NN[lǐ | li]
 ，/PU
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 北/NN[běi | north]
 岸/NN[àn | bank]
 ，/PU
@@ -4886,11 +4859,10 @@
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
 猶/AD[yóu | also]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 度/VV[dù | to cross]
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 ，/PU
 南/NN[nán | south]
 行/VV[xíng | to travel]
@@ -4902,8 +4874,8 @@
 村/NN[cūn | village]
 ，/PU
 名/VV[míng | to be called]
-呵/IJ[hē | ah]
-梨/NN[lí | pear]
+呵/FW[hē | he]
+梨/FW[lí | li]
 。/PU
 佛/NR[Fó | Buddha]
 於/P[yú | in]
@@ -4922,8 +4894,8 @@
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
 。/PU
-沙/NN[shā | sand]
-祇/AD[zhǐ | only]
+沙/FW[shā | sha]
+祇/FW[zhǐ | zhi]
 大/VA[dà | big]
 國/NN[guó | a kingdom]
 從此/AD[cóngcǐ | from now on]
@@ -4933,14 +4905,14 @@
 由延/NN[yóuyán | yojana]
 ，/PU
 到/CC[dào | arrive]
-沙/NN[shā | sand]
-祇/AD[zhǐ | only]
+沙/FW[shā | sha]
+祇/FW[zhǐ | zhi]
 大/VA[dà | big]
 國/NN[guó | a kingdom]
 。/PU
 出/VV[chū | to go out]
-沙/NN[shā | sand]
-祇/AD[zhǐ | only]
+沙/FW[shā | sha]
+祇/FW[zhǐ | zhi]
 城/NN[chéng | a city]
 南/NN[nán | south]
 門/NN[mén | opening]
@@ -4949,13 +4921,13 @@
 東/NN[dōng | east]
 ，/PU
 佛/NR[Fó | Buddha]
-本/NN[běn | origin]
+本/PN[běn | self]
 在此/NN[zàicǐ | here]
 嚼/VV[jiáo | to chew]
 楊/NN[yáng | poplar]
 枝/NN[zhī | branch]
 ，/PU
-刺/NN[cì | thorn]
+刺/VV[cì | to thrust]
 土/NN[tǔ | land]
 中/P[zhōng | in]
 ，/PU
@@ -4981,7 +4953,7 @@
 ，/PU
 遠/VA[yuǎn | far]
 棄/VV[qì | to abandon]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 其/PN[qí | that]
 處/NN[chù | a place]
@@ -5004,7 +4976,7 @@
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
 故/CS[gù | reason]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 拘薩羅/NR[Jūsàluó | Kosala]
 國/NN[guó | a kingdom]
@@ -5023,7 +4995,7 @@
 城/NN[chéng | city]
 內/P[nèi | inside]
 人民/NN[rénmín | the people]
-希/VV[xī | to hope]
+希/VA[xī | rare]
 曠/VA[kuàng | empty]
 ，/PU
 都/AD[dōu | all]
@@ -5033,18 +5005,14 @@
 家/NN[jiā | family]
 。/PU
 即/CC[jí | promptly]
-波斯/NR[Bōsī | Persia]
-匿/VV[nì | to hide]
-王/NN[wáng | a king]
+波斯匿王/NR[Bōsīnì Wáng | King Prasenajit]
 所/PN[suǒ | it]
 治/VV[zhì | to rule]
 城/NN[chéng | a city]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
-大/VA[dà | big]
-愛/VV[ài | to love]
-道/NN[dào | road]
-故/CS[gù | reason]
+大愛道/NR[Dà'àidào | Maha-prajapti]
+故/NN[gù | purpose]
 精舍/NN[jīngshè | vihāra]
 處/NN[chù | a place]
 ，/PU
@@ -5053,9 +5021,7 @@
 壁/NN[bì | wall]
 ，/PU
 及/CC[jí | and]
-鴦/NN[yāng | a female mandarin duck]
-掘/VV[jué | to dig]
-魔/NN[mó | evil]
+鴦掘魔/NR[Yāngjuémó | Angulimalya]
 得/VV[dé | to obtain]
 道/NN[dào | road]
 、/PU
@@ -5064,7 +5030,7 @@
 燒/VV[shāo | to burn]
 身處/P[shēnchù | in]
 ，/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
@@ -5083,7 +5049,7 @@
 ，/PU
 欲/NN[yù | desire]
 毀壞/VV[huǐhuài | to damage]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 天/NN[tiān | a deva]
 即/CC[jí | promptly]
@@ -5106,7 +5072,7 @@
 道/NN[dào | road]
 西/NN[xī | west]
 ，/PU
-長者/NN[zhǎngzhě | the elderly]
+長者/NN[zhǎngzhě | an elder]
 須達/NR[Xūdá | Sudatta]
 起/VV[qǐ | to build]
 精舍/NN[jīngshè | vihāra]
@@ -5119,20 +5085,20 @@
 ，/PU
 門戶/NN[ménhù | door]
 兩/CD[liǎng | two]
-廂/NN[xiāng | theater box]
+廂/NN[xiāng | side]
 有/VE[yǒu | to have]
-二/OD[èr | second]
+二/CD[èr | two]
 石柱/NN[shízhù | a stone column]
 ，/PU
 左/NN[zuǒ | left]
-/NN[zhù | a pillar]
+柱/NN[zhù | a pillar]
 上/P[shàng | on]
 作/VV[zuò | to do]
 輪/NN[lún | wheel]
 形/NN[xíng | a shape]
 ，/PU
 右/NN[yòu | right]
-/NN[zhù | a pillar]
+柱/NN[zhù | a pillar]
 上/P[shàng | on]
 作/VV[zuò | to do]
 牛/NN[niú | ox]
@@ -5140,7 +5106,7 @@
 。/PU
 池/NN[chí | pool]
 流/VV[liú | to flow]
-清淨/VA[qīngjìng | peaceful]
+清淨/VA[qīngjìng | pure and clean]
 ，/PU
 林木/NN[línmù | a forest]
 尚/AD[shàng | still]
@@ -5151,14 +5117,13 @@
 異/VA[yì | different]
 色/NN[sè | form]
 ，/PU
-蔚/NR[Yù | Yu]
+蔚/VA[yù | luxuriant]
 然/AD[rán | so]
 可觀/VA[kěguān | considerable]
 ，/PU
 即/CC[jí | promptly]
 所謂/VA[suǒwèi | so-called]
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
@@ -5172,10 +5137,8 @@
 九十/CD[jiǔshí | ninety]
 日/NN[rì | day]
 ，/PU
-波斯/NR[Bōsī | Persia]
-匿/VV[nì | to hide]
-王/NN[wáng | a king]
-思/VV[sī | to think]
+波斯匿王/NR[Bōsīnì Wáng | King Prasenajit]
+思/VV[sī | to miss]
 見/VV[jiàn | to see]
 佛/NR[Fó | Buddha]
 ，/PU
@@ -5186,13 +5149,13 @@
 作/VV[zuò | to do]
 佛像/NN[fóxiàng | figure, statue, or image of a Buddha]
 ，/PU
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 佛/NR[Fó | Buddha]
 坐/VV[zuò | to sit]
 處/NN[chù | a place]
 。/PU
 佛/NR[Fó | Buddha]
-後/DT[hòu | after]
+後/NN[hòu | after]
 還/VV[huán | to return]
 入/VV[rù | to enter]
 精舍/NN[jīngshè | vihāra]
@@ -5218,7 +5181,7 @@
 可/VV[kě | can]
 爲/P[wèi | because of]
 四/CD[sì | four]
-部/NN[bù | ministry]
+部/NN[bù | a category]
 衆/VA[zhòng | many]
 作法/NN[zuòfǎ | method of doing something]
 式/NN[shì | style, system, formula, rule]
@@ -5235,13 +5198,13 @@
 是/VC[shì | this]
 衆/VA[zhòng | many]
 像/NN[xiàng | image]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 始/VV[shǐ | to begin]
 ，/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 所/PN[suǒ | it]
-法/NN[fǎ | a dharma]
+法/NN[fǎ | a standard]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
@@ -5262,13 +5225,12 @@
 二十/CD[èrshí | twenty]
 步/NN[bù | a step]
 。/PU
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
-本/NN[běn | origin]
+本/PN[běn | self]
 有/VE[yǒu | to have]
 七/OD[qī | seventh]
-層/NN[céng | a layer]
+層/NN[céng | a level]
 ，/PU
 諸/DT[zhū | all]
 國王/NN[guówáng | king]
@@ -5294,7 +5256,7 @@
 ，/PU
 日日/NN[rìrì | every day]
 不/AD[bù | not]
-絶/AD[jué | absolutely]
+絶/VV[jué | to break]
 。/PU
 鼠/NN[shǔ | rat]
 銜/VV[xián | to hold in mouth]
@@ -5310,7 +5272,7 @@
 精舍/NN[jīngshè | vihāra]
 ，/PU
 七/OD[qī | seventh]
-重/NN[chóng | repetition]
+重/NN[chóng | layer]
 都/AD[dōu | all]
 盡/AD[jìn | all]
 。/PU
@@ -5330,7 +5292,7 @@
 燒/VV[shāo | to burn]
 。/PU
 卻/CC[què | but]
-後/DT[hòu | after]
+後/NN[hòu | after]
 四/CD[sì | four]
 五/CD[wŭ | five]
 日/NN[rì | day]
@@ -5370,11 +5332,10 @@
 道整/NR[Dào Zhěng | Dao Zheng]
 初/AD[chū | at first]
 到/CC[dào | arrive]
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
 ，/PU
-念/NN[niàn | a thought]
+念/VV[niàn | to consider]
 昔/NN[xī | former times]
 世尊/NR[Shìzūn | Bhagavān]
 住/VV[zhù | to dwell]
@@ -5382,7 +5343,7 @@
 二十五/CD[èrshíwŭ | twenty five]
 年/NN[nián | year]
 ，/PU
-自/PN[zì | from]
+自/PN[zì | self]
 傷生/VV[shāngshēng | to harm living things]
 在/P[zài | in]
 邊地/NN[biān dì | border]
@@ -5409,7 +5370,7 @@
 乃/AD[nǎi | thus]
 見/VV[jiàn | to see]
 佛/NR[Fó | Buddha]
-空/NN[kōng | emptiness]
+空/VA[kōng | empty]
 處/NN[chù | a place]
 ，/PU
 愴/VA[chuàng | mournful]
@@ -5431,7 +5392,8 @@
 汝/PN[rǔ | you]
 等/MSP[děng | plural]
 從/P[cóng | from]
-何國/NR[Héguó | Kushanika]
+何/DT[hé | which]
+國/NN[guó | a state]
 來/VV[lái | to come]
 ？/PU
 」/PU
@@ -5452,34 +5414,34 @@
 奇/VA[qí | strange]
 哉/MSP[zāi | exclamatory or interrogative particle]
 ！/PU
-邊/NN[biān | side]
+邊/NN[biān | border]
 國/NN[guó | a kingdom]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 人/NN[rén | person]
 乃/AD[nǎi | thus]
 能/VV[néng | can]
 求/VV[qiú | to seek]
 法/NR[fǎ | Dharma]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 此/DT[cǐ | this]
 ！/PU
 」/PU
-自相/NN[zì xiāng | self phase]
+自相/NN[zì xiāng | each other]
 謂言/VV[wèiyán | to say]
 「/PU
 我等/PN[wǒděng | we]
 諸/DT[zhū | all]
-師/NN[shī | teacher]
+師/NN[shī | a title for a monastic]
 和/CC[hé | and]
 上/DT[shàng | above]
-相承/VV[xiāngchéng | to complement one another]
+相承/VV[xiāngchéng | to carry on in succession]
 已/CS[yǐ | afterwards]
 來/VV[lái | to come]
 ，/PU
 未/AD[wèi | not yet]
 見/VV[jiàn | to see]
-漢/NR[Hàn | Han Dynasty]
-道人/NN[dàorén | a devotee]
+漢/NR[Hàn | Han Chinese]
+道人/NN[dàorén | a monk]
 來/VV[lái | to come]
 到/CC[dào | arrive]
 此/DT[cǐ | this]
@@ -5491,7 +5453,7 @@
 四/CD[sì | four]
 里/NN[lǐ | li]
 有/VE[yǒu | to have]
-榛/NN[zhēn | a hazel tree]
+榛/NN[zhēn | a grove]
 ，/PU
 名曰/VV[míng yuē | to be named]
 得/VV[dé | to obtain]
@@ -5520,7 +5482,7 @@
 盲人/NN[mángrén | a blind person]
 歡喜/VA[huānxǐ | joyful]
 ，/PU
-刺/NN[cì | thorn]
+刺/VV[cì | to thrust]
 杖/NN[zhàng | a staff]
 著地/VV[zhuódì | to touch the ground]
 ，/PU
@@ -5534,8 +5496,8 @@
 大/VA[dà | big]
 ，/PU
 世人/NN[shìrén | common people]
-重/NN[chóng | repetition]
-之/PN[zhī | genetive marker]
+重/VV[chóng | to repeat]
+之/PN[zhī | it]
 ，/PU
 無/VE[wú | to not have]
 敢/VV[gǎn | to dare]
@@ -5545,7 +5507,7 @@
 遂/VV[suì | to comply with]
 成/VV[chéng | to become]
 爲/P[wèi | because of]
-榛/NN[zhēn | a hazel tree]
+榛/NN[zhēn | a grove]
 ，/PU
 是故/CS[shìgù | therefore]
 以/P[yǐ | because of]
@@ -5554,32 +5516,30 @@
 爲/P[wèi | because of]
 名/VV[míng | to be called]
 。/PU
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
 中/P[zhōng | in]
-食/NN[shí | food]
-後/DT[hòu | after]
+食/VV[shí | to eat]
+後/NN[hòu | after]
 ，/PU
 多/VA[duō | many]
 往/VV[wǎng | to go (in a direction)]
 彼/PN[bǐ | that]
-榛/NN[zhēn | a hazel tree]
+榛/NN[zhēn | a grove]
 中/P[zhōng | in]
 坐禪/VV[zuòchán | to practice sitting meditation]
 。/PU
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
 東北/NN[dōngběi | northeast]
 六/CD[liù | six]
 七/CD[qī | seven]
 里/NN[lǐ | li]
 ，/PU
-毗/VV[pí | to adjoin]
-舍/NN[shè | residence]
-佉/NR[Qū | Qu]
+毗/FW[pí | pi]
+舍/FW[shè | she]
+佉/FW[qū | qu]
 母/NN[mǔ | mother]
 作/VV[zuò | to do]
 精舍/NN[jīngshè | vihāra]
@@ -5592,16 +5552,15 @@
 此/DT[cǐ | this]
 處/NN[chù | a place]
 故/CS[gù | reason]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
 大/VA[dà | big]
 援/VV[yuán | to aid]
 各/DT[gè | each]
 有/VE[yǒu | to have]
-二/OD[èr | second]
+二/CD[èr | two]
 門/NN[mén | opening]
 ，/PU
 一/CD[yī | one]
@@ -5618,10 +5577,11 @@
 園/NN[yuán | garden]
 即/CC[jí | promptly]
 須達長者/NR[Xūdá Zhǎngzhě | Elder Sudatta]
-布/NN[bù | cotton cloth]
+布/VV[bù | to spread]
 金錢/NN[jīnqián | money]
 買/VV[mǎi | to buy]
-地處/VV[dìchù | to be located at]
+地/NN[dì | land]
+處/NN[chù | place]
 也/MSP[yě | a final modal particle indicating certainy or decision]
 。/PU
 精舍/NN[jīngshè | vihāra]
@@ -5633,7 +5593,7 @@
 此/DT[cǐ | this]
 處/NN[chù | a place]
 最/AD[zuì | most]
-久/VA[jiǔ | old]
+久/AD[jiǔ | a long time]
 。/PU
 說/VV[shuō | to teach]
 法/NR[Fǎ | Dhárma]
@@ -5652,22 +5612,21 @@
 塔/NN[tǎ | stupa]
 ，/PU
 皆/AD[jiē | all]
-有名/VA[yǒumíng | famous]
-字/VV[zì | to give a literary name]
+有/VV[yǒu | famous]
+名字/NN[míngzì | name]
 。/PU
 及/CC[jí | and]
-孫/NR[Sūn | Sun]
-陀/NN[tuó | steep bank]
-利/NN[lì | advantage]
+孫/FW[sūn | sun]
+陀/FW[tuó | tuo]
+利/FW[lì | li]
 殺/VV[shā | to kill]
-身/NN[shēn | body]
+身/NN[shēn | life]
 謗/VV[bàng | to slander]
 佛/NR[Fó | Buddha]
 處/NN[chù | a place]
 。/PU
 出/VV[chū | to go out]
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 東/NN[dōng | east]
 門/NN[mén | gate]
 ，/PU
@@ -5687,8 +5646,7 @@
 六/OD[liù | sixth]
 種/NN[zhǒng | kind]
 外道/NN[wài dào | a cult]
-論/VV[lùn | to talk]
-議/VV[yì | to criticize]
+論議/VV[lùnyì | upadeśa]
 ，/PU
 國王/NN[guówáng | king]
 、/PU
@@ -5706,12 +5664,12 @@
 外道/NN[wài dào | a cult]
 女/VA[nǚ | female]
 名/VV[míng | to be called]
-旃/VA[zhān | rare]
-柘/NN[zhè | cudrang]
-摩/VV[mó | to rub]
-那/DT[nà | na]
+旃/FW[zhān | zhan]
+柘/FW[zhè | zhe]
+摩/FW[mó | mo]
+那/FW[nà | na]
 起/VV[qǐ | to arise]
-嫉妬/VV[jídù | to envy]
+嫉妬/NN[jídù | jealousy]
 心/NN[xīn | mind]
 ，/PU
 及/CC[jí | and]
@@ -5728,19 +5686,19 @@
 ，/PU
 於/P[yú | in]
 衆/VA[zhòng | many]
-會/VV[huì | can]
+會/NN[huì | assembly]
 中/P[zhōng | in]
 謗/VV[bàng | to slander]
 佛/NR[Fó | Buddha]
 以/P[yǐ | because of]
 非/VC[fēi | not]
-法/NR[Fǎ | Dhárma]
+法/NN[fǎ | law]
 ，/PU
 於是/CC[yúshì | thereupon]
 天帝釋/NR[Tiān Dì Shì | Sakra]
 即/CC[jí | promptly]
 化作/VV[huàzuò | to change into]
-白/VV[bái | to make clear]
+白/VA[bái | white]
 鼠/NN[shǔ | rat]
 ，/PU
 齧/VV[niè | to gnaw]
@@ -5749,12 +5707,12 @@
 斷/AD[duàn | absolutely]
 ，/PU
 所/PN[suǒ | it]
-懷/VV[huái | to think of]
+懷/VV[huái | to conceive (a child)]
 衣/NN[yī | uppergarment]
 墮/VV[duò | to descend]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 即/CC[jí | promptly]
 劈/VV[pī | to hack]
 裂/VV[liè | to crack]
@@ -5764,7 +5722,7 @@
 地獄/NR[Dì Yù | Hell]
 。/PU
 及/CC[jí | and]
-調達/NR[tiáodá | Devadatta]
+調達/NR[Tiáodá | Devadatta]
 毒/NN[dú | poison]
 爪/NN[zhuǎ | claw]
 欲/NN[yù | desire]
@@ -5776,16 +5734,15 @@
 地獄/NR[Dì Yù | Hell]
 處/NN[chù | a place]
 。/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 皆/AD[jiē | all]
 標識/NN[biāozhì | a mark]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 又/CC[yòu | again]
 於/P[yú | in]
-論/VV[lùn | to talk]
-議/VV[yì | to criticize]
+論議/VV[lùnyì | upadeśa]
 處/NN[chù | a place]
 起/VV[qǐ | to build]
 精舍/NN[jīngshè | vihāra]
@@ -5814,8 +5771,7 @@
 覆/VV[fù | to cover]
 ，/PU
 與/CC[yǔ | and]
-論/VV[lùn | to talk]
-議/VV[yì | to criticize]
+論議/VV[lùnyì | upadeśa]
 處/NN[chù | a place]
 精舍/NN[jīngshè | vihāra]
 夾/VV[jiā | to press from either side]
@@ -5834,7 +5790,7 @@
 覆/VV[fù | to cover]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
-日/NN[rì | day]
+日/NN[rì | sun]
 在/P[zài | in]
 西/NN[xī | west]
 時/AD[shí | at that time]
@@ -5847,7 +5803,7 @@
 外道/NN[wài dào | a cult]
 天/NN[tiān | a deva]
 寺/NN[sì | temple]
-日/NN[rì | day]
+日/NN[rì | sun]
 在/P[zài | in]
 東/NN[dōng | east]
 時/AD[shí | at that time]
@@ -5886,7 +5842,7 @@
 燈/NN[dēng | lamp]
 供養/VV[gōngyàng | to make offerings]
 。/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 明/VA[míng | bright]
 旦/NN[dàn | dawn]
 ，/PU
@@ -5921,7 +5877,7 @@
 。/PU
 婆羅門/NR[Póluómén | Brahmin]
 於是/CC[yúshì | thereupon]
-夜/FW[yè | ye]
+夜/NN[yè | night]
 自/PN[zì | from]
 伺候/VV[cìhòu | to serve]
 ，/PU
@@ -5949,14 +5905,14 @@
 乃/AD[nǎi | thus]
 知/VV[zhī | to know]
 佛/NR[Fó | Buddha]
-神/VA[shén | divine]
-大/VA[dà | big]
+神/VA[shén | divine essence]
+大/VA[dà | great]
 ，/PU
 即/CC[jí | promptly]
 捨/VV[shě | to give up]
 家/NN[jiā | family]
 入/VV[rù | to enter]
-道/NN[dào | road]
+道/NN[dào | the path leading to the cessation of suffering]
 。/PU
 傳/VV[chuán | to pass on]
 雲/VV[yún | to say]
@@ -5966,8 +5922,7 @@
 事/NN[shì | matter]
 。/PU
 繞/VV[rào | to go around]
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
 有/VE[yǒu | to have]
 九十/CD[jiǔshí | ninety]
@@ -6016,13 +5971,13 @@
 。/PU
 亦復/AD[yìfù | also]
 求/VV[qiú | to seek]
-福/NN[fú | virtue]
+福/NN[fú | blessing]
 ，/PU
 於/P[yú | in]
 曠/VA[kuàng | empty]
 路/NN[lù | road]
 側/NN[cè | side]
-立/VV[lì | to set up]
+立/VV[lì | to establish]
 福德/NN[fúdé | merit]
 舍/NN[shè | residence]
 ，/PU
@@ -6053,7 +6008,7 @@
 亦/AD[yì | also]
 有/VE[yǒu | to have]
 衆/VA[zhòng | many]
-在/P[zài | in]
+在/VV[zài | to exist]
 ，/PU
 供養/VV[gōngyàng | to make offerings]
 過去/NN[guòqu | (in the) past]
@@ -6070,22 +6025,21 @@
 四/CD[sì | four]
 里/NN[lǐ | li]
 ，/PU
-瑠/NN[liú | a precious stone]
-璃/NN[lí | colored glaze]
+瑠璃/NN[liúlí | lapis lazuli]
 王/NN[wáng | a king]
 欲/NN[yù | desire]
 伐/VV[fá | to cut down]
 舍/NN[shè | residence]
-夷/NN[yí | non-Han people]
+夷/VV[yí | to wipe out]
 國/NN[guó | a kingdom]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
 當/P[dāng | at or in the very same]
 道/NN[dào | road]
 側/NN[cè | side]
-立/VV[lì | to set up]
+立/VV[lì | to stand]
 ，/PU
-立/VV[lì | to set up]
+立/VV[lì | to stand]
 處/NN[chù | a place]
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
@@ -6131,7 +6085,7 @@
 迦葉/NR[jiāyè | Kasyapa]
 如來/NR[Rúlái | Tathagata]
 全身/NN[quánshēn | whole body]
-舍利/NN[shèlì | an egret]
+舍利/NN[shèlì | relics]
 亦/AD[yì | also]
 起/VV[qǐ | to build]
 大/VA[dà | big]
@@ -6152,10 +6106,7 @@
 那毗伽/NR[Nàpíjiā | Sravasti]
 ，/PU
 是/VC[shì | this]
-拘/VV[jū | to adhere]
-樓/NN[lóu | storied building]
-秦/NR[Qín | Shaanxi]
-佛/NR[Fó | Buddha]
+拘樓秦佛/NR[Jūlóuqín Fó | Krakucchanda Buddha]
 所/PN[suǒ | it]
 生處/NN[shēngchù | birthplace]
 。/PU
@@ -6220,15 +6171,16 @@
 城/NN[chéng | a city]
 。/PU
 城/NN[chéng | a city]
-中都/NR[Zhōngdū | Zhongdu]
+中/P[zhōng | in]
+都/AD[dū | all]
 無/VE[wú | to not have]
 王/NN[wáng | a king]
 民/NN[mín | the people]
 ，/PU
 甚/AD[shén | extremely]
 如/CS[rú | if]
-坵/NN[qiū | given name]
-荒/VA[huāng | waste]
+坵/NN[qiū | a hillock]
+荒/NN[huāng | wasteland]
 ，/PU
 只有/CS[zhǐyǒu | only]
 衆/AD[zhòng | all]
@@ -6276,9 +6228,8 @@
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
 。/PU
-阿/FW[ē | e]
-夷/NN[yí | non-Han people]
-相/NN[xiàng | a perception]
+阿夷/VV[ēyí | a rishi]
+相/NN[xiàng |  a mark]
 太子/NN[tàizǐ | a prince]
 處/NN[chù | a place]
 。/PU
@@ -6299,7 +6250,7 @@
 三十/CD[sān shí | thirty]
 里/NN[lǐ | li]
 入/VV[rù | to enter]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 今/NN[jīn | today]
 泉水/NN[quánshuǐ | spring water]
@@ -6314,7 +6265,7 @@
 令/VV[lìng | to make]
 行人/NN[xíngrén | pedestrian]
 飲/VV[yǐn | to drink]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 佛/NR[Fó | Buddha]
 得/VV[dé | to obtain]
@@ -6327,17 +6278,15 @@
 處/NN[chù | a place]
 。/PU
 五百/CD[wŭ bǎi | five hundred]
-釋/VV[shì | to release]
+釋/NR[Shì | Śākya]
 子/NN[zǐ | child]
 出家/VV[chūjiā | to become a monk]
 ，/PU
 向/P[xiàng | towards]
-優/VA[yōu | excellent]
-波/VV[bō | to broadcast]
-離/VV[lí | to leave]
+優波離/NR[Yōubōlí | Upali]
 作禮/VV[zuòlǐ | to salute]
 ，/PU
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 六/OD[liù | sixth]
 種/NN[zhǒng | kind]
 震動/VV[zhèndòng | to shake]
@@ -6361,7 +6310,7 @@
 處/NN[chù | a place]
 。/PU
 佛/NR[Fó | Buddha]
-在/P[zài | in]
+在/P[zài | to be living]
 尼拘律樹/NN[níjūlǜshù | Indian banyan]
 下/VA[xià | under]
 ，/PU
@@ -6369,9 +6318,7 @@
 向/P[xiàng | towards]
 坐/VV[zuò | to sit]
 ，/PU
-大/VA[dà | big]
-愛/VV[ài | to love]
-道/NN[dào | the path leading to the cessation of suffering]
+大愛道/NR[Dà'àidào | Maha-prajapti]
 布施/NN[bùshī | dana]
 佛/NR[Fó | Buddha]
 僧伽梨/NN[sēngjiālì | sanghati]
@@ -6380,28 +6327,27 @@
 此/DT[cǐ | this]
 樹/NN[shù | tree]
 猶/AD[yóu | also]
-在/P[zài | in]
+在/P[zài | to be living]
 。/PU
-瑠/NN[liú | a precious stone]
-璃/NN[lí | colored glaze]
+瑠璃/NN[liúlí | lapis lazuli]
 王/NN[wáng | a king]
 殺/VV[shā | to kill]
-釋/VV[shì | to release]
+釋/NR[Shì | Śākya]
 種子/NN[zhǒngzi | seed]
 ，/PU
-釋/VV[shì | to release]
+釋/NR[Shì | Śākya]
 種子/NN[zhǒngzi | seed]
 先/AD[xiān | first]
 盡/AD[jìn | all]
 得/VV[dé | to obtain]
 須陀洹/NR[Xūtuóhuán | Sotapanna]
 ，/PU
-立/VV[lì | to set up]
+立/VV[lì | to establish]
 塔/NN[tǎ | a pagoda]
 ，/PU
 今/NN[jīn | today]
 亦/AD[yì | also]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 城/NN[chéng | city]
 東北/NN[dōngběi | northeast]
@@ -6427,8 +6373,7 @@
 ，/PU
 園/NN[yuán | garden]
 名/VV[míng | to be called]
-論/VV[lùn | to talk]
-民/NN[mín | the people]
+論民/NR[Lùnmín | Lumbini]
 。/PU
 夫人/NN[fūren | lady]
 入/VV[rù | to enter]
@@ -6453,12 +6398,12 @@
 。/PU
 太子/NN[tàizǐ | a prince]
 墮/VV[duò | to descend]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 行/VV[xíng | walk]
 七/CD[qī | seven]
 步/NN[bù | step]
 ，/PU
-二/OD[èr | second]
+二/CD[èr | two]
 龍王/NR[Lóng Wáng | Dragon King]
 浴/VV[yù | to bathe]
 太子/NN[tàizǐ | a prince]
@@ -6481,38 +6426,38 @@
 常/AD[cháng | always]
 取/VV[qǔ | to take]
 飲/VV[yǐn | to drink]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 凡/VA[fán | all]
 諸/DT[zhū | all]
 佛/NR[Fó | Buddha]
 有/VE[yǒu | to have]
-四處/PHRASE[sìchù | all over the place]
+四/CD[sì | four]
+處/NN[chù | a place]
 常/AD[cháng | always]
 定/VV[dìng | to set]
 ：/PU
 一/OD[yī | first]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/PN[zhě | that]
 成/VV[chéng | to accomplish]
 道/NN[dào | the path leading to the cessation of suffering]
 處/NN[chù | a place]
-二/OD[èr | second]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+二/CD[èr | two]
+者/PN[zhě | that]
 轉/VV[zhuǎn | to turn]
 法/NR[Fǎ | Dhárma]
 輪/NN[lún | wheel]
 處/NN[chù | a place]
 三/OD[sān | third]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/PN[zhě | that]
 說/VV[shuō | to teach]
 法/NR[Fǎ | Dhárma]
-論/VV[lùn | to talk]
-議/VV[yì | to criticize]
-伏/VV[fú | to conceal]
+論議/VV[lùnyì | upadeśa]
+伏/VV[fú | to subdue]
 外道/NN[wài dào | a cult]
 處/NN[chù | a place]
 四/OD[sì | fourth]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/PN[zhě | that]
 上/VV[shàng | to go up]
 忉利天/NR[Dāolìtiān | Trāyastriṃśa Heaven]
 爲/P[wèi | because of]
@@ -6524,7 +6469,7 @@
 處/NN[chù | a place]
 。/PU
 餘/VA[yú | extra]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/PN[zhě | that]
 則/CS[zé | expresses contrast with a previous sentence or clause]
 隨時/NN[suíshí | at any time]
 示現/VV[shìxiàn | for a bodhisattva to be incarnated]
@@ -6536,7 +6481,7 @@
 空荒/VA[huāngliáng | desolate]
 ，/PU
 人民/NN[rénmín | the people]
-希/VV[xī | to hope]
+希/AD[xī | infrequent]
 疏/VA[shū | distant]
 。/PU
 道路/NN[dàolù | road]
@@ -6549,8 +6494,7 @@
 妄/AD[wàng | rashly]
 行/VV[xíng | to travel]
 。/PU
-藍/NN[lán | blue]
-莫/AD[mò | do not]
+藍莫/NR[Lánmò | Rama]
 國/NN[guó | a kingdom]
 從/P[cóng | from]
 佛/NR[Fó | Buddha]
@@ -6563,8 +6507,7 @@
 有/VE[yǒu | to have]
 國/NN[guó | a country]
 名/VV[míng | to be called]
-藍/NN[lán | blue]
-莫/AD[mò | do not]
+藍莫/NR[Lánmò | Rama]
 。/PU
 此/DT[cǐ | this]
 國王/NN[guówáng | king]
@@ -6572,7 +6515,7 @@
 佛/NR[Fó | Buddha]
 一/CD[yī | one]
 分/NN[fèn | a portion]
-舍利/NN[shèlì | an egret]
+舍利/NN[shèlì | relics]
 ，/PU
 還/VV[huán | to return]
 歸/VV[guī | to go back]
@@ -6581,8 +6524,7 @@
 ，/PU
 即/CC[jí | promptly]
 名/VV[míng | to be called]
-藍/NN[lán | blue]
-莫/AD[mò | do not]
+藍莫/NR[Lánmò | Rama]
 塔/NN[tǎ | a pagoda]
 。/PU
 塔/NN[tǎ | stupa]
@@ -6660,7 +6602,7 @@
 便/AD[biàn | right away]
 可/VV[kě | can]
 壞/VV[huài | to wreck]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 持/VV[chí | to grasp]
 去/VV[qù | to go]
 ，/PU
@@ -6678,7 +6620,7 @@
 具/AD[jù | entirely]
 非/VC[fēi | not]
 世/NN[shì | life]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 有/VE[yǒu | to have]
 ，/PU
 於是/CC[yúshì | thereupon]
@@ -6703,7 +6645,7 @@
 取/VV[qǔ | to take]
 水/NN[shuǐ | water]
 灑/VV[sǎ | to sprinkle]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 取/VV[qǔ | to take]
 雜/VA[zá | mixed]
@@ -6714,8 +6656,9 @@
 塔/NN[tǎ | a pagoda]
 。/PU
 諸/DT[zhū | all]
-國有/VA[guóyǒu | nationalized]
-道人/NN[dàorén | a devotee]
+國/NN[guó | a land]
+有/VE[yǒu | to have]
+道人/NN[dàorén | a monk]
 來/VV[lái | to come]
 ，/PU
 欲/NN[yù | desire]
@@ -6724,21 +6667,21 @@
 ，/PU
 遇/VV[yù | to meet with]
 象/NN[xiàng | elephant]
-大/VA[dà | big]
+大/AD[dà | greatly]
 怖/VV[bù | to be terrified]
 ，/PU
 依/VV[yī | to depend on]
 樹/NN[shù | tree]
 自/PN[zì | from]
-翳/NN[yì | a feather screen]
+翳/VV[yì | to screen]
 ，/PU
 見/VV[jiàn | to see]
 象/NN[xiàng | elephant]
-如/CS[rú | if]
+如/P[rú | in accordance with]
 法/NR[Fǎ | Dhárma]
 供養/VV[gōngyàng | to make offerings]
 。/PU
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 大/VA[dà | big]
 自/PN[zì | from]
 悲/VV[bēi | to pity]
@@ -6761,7 +6704,7 @@
 灑/VV[sǎ | to sprinkle]
 掃/VV[sǎo | to sweep]
 。/PU
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 即/CC[jí | promptly]
 捨/VV[shě | to give up]
 大/VA[dà | big]
@@ -6776,7 +6719,7 @@
 草木/NN[cǎo mù | vegetation]
 ，/PU
 平/VA[píng | flat]
-治/VV[zhì | to rule]
+治/VV[zhì | to manage]
 處所/NN[chǔsuǒ | a place]
 ，/PU
 使得/VV[shǐde | to make]
@@ -6841,7 +6784,7 @@
 由延/NN[yóuyán | yojana]
 ，/PU
 到/CC[dào | arrive]
-炭/NN[tàn | carbon]
+炭/NN[tàn | charcoal]
 塔/NN[tǎ | a pagoda]
 ，/PU
 亦/AD[yì | also]
@@ -6866,8 +6809,8 @@
 雙/CD[shuāng | two]
 樹/NN[shù | tree]
 間/P[jiān | between]
-希/VV[xī | to hope]
-連/CC[lián | even]
+希/FW[xī | xi]
+連/FW[lián | lian]
 河邊/NN[hébiān | riverbank]
 ，/PU
 世尊/NR[Shìzūn | Bhagavān]
@@ -6895,8 +6838,7 @@
 日/NN[rì | day]
 處/NN[chù | a place]
 ，/PU
-金剛/NN[jīngāng | a diamond]
-力士/NN[lìshì | a warrior]
+金剛力士/NR[Jīngāng Lìshì | Vajrapāṇi]
 放/VV[fàng | to put]
 金/NN[jīn | gold]
 杵/NN[chǔ | a pestle]
@@ -6905,7 +6847,7 @@
 八/CD[bā | eight]
 王/NN[wáng | a king]
 分/NN[fèn | a part]
-舍利/NN[shèlì | an egret]
+舍利/NN[shèlì | relics]
 處/NN[chù | a place]
 。/PU
 此/DT[cǐ | this]
@@ -6928,8 +6870,8 @@
 中/P[zhōng | in]
 人民/NN[rénmín | the people]
 亦/AD[yì | also]
-希/VV[xī | to hope]
-曠/VA[kuàng | empty]
+希/VA[xī | rare]
+曠/VA[kuàng | distant]
 ，/PU
 止/VV[zhǐ | to stop]
 有/VE[yǒu | to have]
@@ -6994,8 +6936,8 @@
 ，/PU
 上/DT[shàng | above]
 有/VE[yǒu | to have]
-銘/NN[míng | inscribed motto]
-題/NN[tí | topic]
+銘/VV[míng | to inscribe]
+題/NN[tí | preface on a book or art work]
 。/PU
 毗舍離/NR[Píshèlí | Vaisali]
 國/NN[guó | a kingdom]
@@ -7016,8 +6958,8 @@
 ，/PU
 大/VA[dà | big]
 林/NN[lín | woods]
-重/NN[chóng | repetition]
-閣/NN[gé | council-chamber]
+重/NN[chóng | level]
+閣/NN[gé | pavilion]
 精舍/NN[jīngshè | vihāra]
 ，/PU
 佛/NR[Fó | Buddha]
@@ -7043,7 +6985,7 @@
 塔/NN[tǎ | stupa]
 ，/PU
 今/NN[jīn | today]
-故/CS[gù | reason]
+故/NN[gù | the past]
 現在/AD[xiànzài | at present]
 。/PU
 城/NN[chéng | a city]
@@ -7081,7 +7023,7 @@
 迴/VV[huí | to curve]
 身/NN[shēn | body]
 右/NN[yòu | right]
-轉/VV[zhuǎn | to transmit]
+轉/VV[zhuǎn | to turn]
 ，/PU
 顧/VV[gù | to look after]
 看/VV[kàn | to see]
@@ -7100,7 +7042,7 @@
 行處/PN[xíngchǔ | everywhere]
 。/PU
 」/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 於/P[yú | in]
 此/DT[cǐ | this]
@@ -7125,10 +7067,9 @@
 以/P[yǐ | because of]
 名/VV[míng | to be called]
 此/DT[cǐ | this]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/PN[zhě | that]
 ，/PU
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 上/DT[shàng | above]
 流/VV[liú | to flow]
 有/VE[yǒu | to have]
@@ -7141,12 +7082,12 @@
 生/VV[shēng | to develop]
 一/CD[yī | one]
 肉/NN[ròu | meat]
-胎/NN[tāi | womb]
+胎/NN[tāi | fetus]
 ，/PU
-大夫/NN[dàifu | doctor]
-人/NN[rén | person]
+大/NN[dà | older]
+夫人/NN[fūren | wife]
 妬/VV[dù | to envy]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 言/VV[yán | to speak]
 ：/PU
@@ -7155,22 +7096,21 @@
 生/VV[shēng | to develop]
 不/AD[bù | not]
 祥/VA[xiáng | auspicious]
-之/PN[zhī | genetive marker]
-徵/VV[zhēng | to march]
+之/DEG[zhī | genetive marker]
+徵/NN[zhēng | an omen]
 。/PU
 」/PU
 即/CC[jí | promptly]
 盛/VA[shèng | flourishing]
 以/P[yǐ | because of]
 木/NN[mù | wood]
-函/NN[hán | envelope]
+函/NN[hán | a case]
 ，/PU
 擲/VV[zhì | to toss]
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 中/P[zhōng | in]
 。/PU
-下流/VA[xiàliú | low-class]
+下流/NN[xiàliú | lower course of a river]
 有/VE[yǒu | to have]
 國王/NN[guówáng | king]
 遊觀/VV[yóuguān | to tour]
@@ -7179,7 +7119,7 @@
 水/NN[shuǐ | water]
 上/DT[shàng | above]
 木/NN[mù | wood]
-函/NN[hán | envelope]
+函/NN[hán | case]
 ，/PU
 開/VV[kāi | to open]
 看/VV[kàn | to see]
@@ -7196,7 +7136,7 @@
 即/CC[jí | promptly]
 取/VV[qǔ | to take]
 養/VV[yǎng | to raise]
-之/PN[zhī | genetive marker]
+之/PN[zhī | them]
 。/PU
 遂便/AD[suìbiàn | immediately]
 長大/VA[zhǎngdà | tall and great]
@@ -7272,11 +7212,11 @@
 作/VV[zuò | to do]
 高樓/NN[gāolóu | multistory building]
 ，/PU
-賊/NN[zéi | thief]
+賊/NN[zéi | an enemy]
 來/VV[lái | to come]
 時/AD[shí | at that time]
 ，/PU
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 我/PN[wǒ | I]
 樓/NN[lóu | storied building]
 上/DT[shàng | above]
@@ -7285,16 +7225,16 @@
 我/PN[wǒ | I]
 能/VV[néng | can]
 卻/CC[què | but]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 」/PU
 王/NN[wáng | a king]
-如/CS[rú | if]
+如/P[rú | in accordance with]
 其/PN[qí | that]
 言/VV[yán | to speak]
 。/PU
-至/CC[zhì | to arrive]
-賊/NN[zéi | thief]
+至/VV[zhì | to arrive]
+賊/NN[zéi | enemy]
 來/VV[lái | to come]
 時/AD[shí | at that time]
 ，/PU
@@ -7304,7 +7244,7 @@
 樓/NN[lóu | storied building]
 上/DT[shàng | above]
 語/VV[yǔ | to speak]
-賊/NN[zéi | thief]
+賊/NN[zéi | enemy]
 言/VV[yán | to speak]
 ：/PU
 「/PU
@@ -7316,12 +7256,12 @@
 何/DT[hé | what]
 故/CS[gù | reason]
 作/VV[zuò | to do]
-反/VA[fǎn | reverse]
-逆/VA[nì | contrary]
+反/VV[fǎn | to oppose]
+逆/VV[nì | to rebel]
 事/NN[shì | matter]
 ？/PU
 」/PU
-賊/NN[zéi | thief]
+賊/NN[zéi | enemy]
 曰/VV[yuē | to speak]
 ：/PU
 「/PU
@@ -7347,17 +7287,18 @@
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 盡/AD[jìn | all]
-仰/VV[yǎng | to rely on]
+仰/VV[yǎng | to look up]
 向/P[xiàng | towards]
-張口/VV[zhāngkǒu | to gape]
+張口/VV[zhāngkǒu | to open one's mouth]
 。/PU
 」/PU
 小/VA[xiǎo | small]
 夫人/NN[fūren | lady]
 即/CC[jí | promptly]
 以/VV[yǐ | to use]
-兩手/NN[liǎng shǒu | skill]
-構/VV[gòu | to construct]
+兩/CD[liǎng | two]
+手/NN[shǒu | hand]
+構/VV[gòu | to form]
 兩/CD[liǎng | two]
 乳/NN[rǔ | breast]
 ，/PU
@@ -7365,7 +7306,7 @@
 各/DT[gè | each]
 作/VV[zuò | to do]
 五百/CD[wŭ bǎi | five hundred]
-道/NN[dào | road]
+道/NN[dào | path]
 ，/PU
 墮/VV[duò | to descend]
 千/CD[qiān | one thousand]
@@ -7373,7 +7314,7 @@
 口/NN[kǒu | an entrance]
 中/P[zhōng | in]
 。/PU
-賊/NN[zéi | thief]
+賊/NN[zéi | an enemy]
 知/VV[zhī | to know]
 是/VC[shì | this]
 其/PN[qí | his / hers]
@@ -7384,7 +7325,7 @@
 弓/NN[gōng | bow]
 仗/NN[zhàng | weapons]
 。/PU
-二/OD[èr | second]
+二/CD[èr | two]
 父/NN[fù | father]
 王/NN[wáng | a king]
 於是/CC[yúshì | thereupon]
@@ -7394,11 +7335,11 @@
 得/VV[dé | to obtain]
 辟支佛/NN[Pìzhī Fó | Pratyeka-Buddha]
 。/PU
-二/OD[èr | second]
+二/CD[èr | two]
 辟支佛/NN[Pìzhī Fó | Pratyeka-Buddha]
 塔/NN[tǎ | a pagoda]
 猶/AD[yóu | also]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 後世/NN[hòushì | later generations]
 尊/VA[zūn | respected]
@@ -7419,13 +7360,13 @@
 處/NN[chù | a place]
 。/PU
 」/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 得知/VV[dézhī | to find out]
 ，/PU
 於/P[yú | in]
 此/DT[cǐ | this]
-立/VV[lì | to set up]
+立/VV[lì | to establish]
 塔/NN[tǎ | a pagoda]
 ，/PU
 故/CS[gù | reason]
@@ -7458,8 +7399,9 @@
 「/PU
 我/PN[wǒ | I]
 卻/CC[què | but]
-後/DT[hòu | after]
-三月/NR[sānyuè | March]
+後/NN[hòu | after]
+三/CD[sān | three]
+月/NN[yuè | month]
 ，/PU
 當/P[dāng | at or in the very same]
 般泥洹/NR[Bānníhuán | Nirvana]
@@ -7523,10 +7465,10 @@
 ，/PU
 更/AD[gèng | more]
 檢/VV[jiǎn | to check]
-校/VV[jiào | to decorate]
+校/VV[jiào | to compare]
 律藏/NR[Lǜ Zàng | Collection of Monastic Rules]
 。/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 於/P[yú | in]
 此/DT[cǐ | this]
@@ -7547,8 +7489,10 @@
 由延/NN[yóuyán | yojana]
 ，/PU
 到/CC[dào | arrive]
-五河/NR[Wŭhé | Wuhe]
-合口/VA[hékǒu | with closed mouth]
+五/CD[wŭ | five]
+河/NN[hé | a river]
+合/VV[hé | combine]
+口/NN[kǒu | an opening]
 。/PU
 阿難/NR[Ānán | Ananda]
 從/P[cóng | from]
@@ -7568,7 +7512,7 @@
 即/CC[jí | promptly]
 自/PN[zì | from]
 嚴/NN[yán | majesty]
-駕/VV[jià | to drive]
+駕/NN[jià | carriage]
 ，/PU
 將/AD[jiāng | will, shall (future tense)]
 士/NN[shì | an officer]
@@ -7625,9 +7569,10 @@
 而/CC[ér | thus]
 般泥洹/NR[Bānníhuán | Nirvana]
 ，/PU
-分身/VV[fēnshēn | to do multiple things at once]
+分/VV[fēn | to divide]
+身/NN[shēn | body]
 作/VV[zuò | to do]
-二/OD[èr | second]
+二/CD[èr | two]
 分/NN[fèn | a part]
 ，/PU
 一/CD[yī | one]
@@ -7638,13 +7583,13 @@
 邊/NN[biān | side]
 。/PU
 於是/CC[yúshì | thereupon]
-二/OD[èr | second]
+二/CD[èr | two]
 王/NN[wáng | a king]
 各/DT[gè | each]
 得/VV[dé | to obtain]
 半/CD[bàn | half]
 身/NN[shēn | body]
-舍利/NN[shèlì | an egret]
+舍利/NN[shèlì | relics]
 ，/PU
 還/VV[huán | to return]
 歸/VV[guī | to go back]
@@ -7652,26 +7597,21 @@
 塔/NN[tǎ | stupa]
 。/PU
 摩竭提國/NR[Mójiétí Guó | Magadha]
-巴/VV[bā | to hope]
-連/CC[lián | even]
-弗/AD[fú | no]
+巴連弗/NR[Bāliánfú | Pāṭaliputra]
 邑/NN[yì | city]
 度/VV[dù | to cross]
-河南/NR[Hénán | Henan]
+河/NN[hé | a river]
+南/NN[nán | south]
 下/VV[xià | to go]
 一/CD[yī | one]
 由延/NN[yóuyán | yojana]
 ，/PU
 到/CC[dào | arrive]
 摩竭提國/NR[Mójiétí Guó | Magadha]
-巴/VV[bā | to hope]
-連/CC[lián | even]
-弗/AD[fú | no]
+巴連弗/NR[Bāliánfú | Pāṭaliputra]
 邑/NN[yì | city]
 。/PU
-巴/VV[bā | to hope]
-連/CC[lián | even]
-弗/AD[fú | no]
+巴連弗/NR[Bāliánfú | Pāṭaliputra]
 邑/NN[yì | city]
 是/VC[shì | this]
 阿育王/NR[Āyùwáng | King Ashoka]
@@ -7683,17 +7623,17 @@
 王宮/NN[wáng gōng | an imperial palace]
 殿/NN[diàn | palace hall]
 皆/AD[jiē | all]
-使/VV[shǐ | to make]
+使/VV[shǐ | to cause]
 鬼神/NN[guǐshén | spirits and devils]
 作/VV[zuò | to do]
 ，/PU
-累/VV[lèi | to be tired]
+累/VV[lěi | to accumulate]
 石/NN[shí | rock]
 墻/NN[qiáng | wall]
-闕/NN[quē | a fault]
+闕/NN[què | a watchtower]
 ，/PU
 雕/VV[diāo | to engrave]
-文/NN[wén | language]
+文/NN[wén | writing]
 刻鏤/VV[kèlòu | to engrave]
 ，/PU
 非/VC[fēi | not]
@@ -7702,7 +7642,7 @@
 造/VV[zào | to make]
 。/PU
 今/NN[jīn | today]
-故/CS[gù | reason]
+故/VA[gù | old]
 現在/AD[xiànzài | at present]
 。/PU
 阿育王/NR[Āyùwáng | King Ashoka]
@@ -7711,13 +7651,13 @@
 羅漢/NN[Luóhàn | Arhat]
 道/NN[dào | the path leading to the cessation of suffering]
 ，/PU
-常住/NN[chángzhù | permanence]
+常住/VV[chángzhù | to reside]
 耆闍崛山/NR[Qíshéjué Shān | Grdhrakuta Mountains]
 ，/PU
-志/NN[zhì | a written record]
+志/VV[zhì | to record]
 樂/VV[lè | to take joy in]
 閑/VV[xián | to stay idle]
-靜/VA[jìng | still]
+靜/VA[jìng | quiet]
 。/PU
 王/NN[wáng | a king]
 敬/VV[jìng | to venerate]
@@ -7730,7 +7670,7 @@
 以/P[yǐ | because of]
 樂/VV[lè | to take joy in]
 山/NN[shān | mountain]
-靜/VA[jìng | still]
+靜/VA[jìng | quiet]
 ，/PU
 不肯/VV[bùkěn | not willing]
 受/VV[shòu | to receive]
@@ -7745,7 +7685,7 @@
 但/CC[dàn | but]
 受/VV[shòu | to receive]
 我/PN[wǒ | I]
-請/VV[qǐng | to ask]
+請/VV[qǐng | to request]
 ，/PU
 當/P[dāng | at or in the very same]
 爲/P[wèi | because of]
@@ -7767,16 +7707,15 @@
 鬼神/NN[guǐshén | spirits and devils]
 而/CC[ér | thus]
 告/VV[gào | to tell]
-之/PN[zhī | genetive marker]
+之/PN[zhī | them]
 曰/VV[yuē | to speak]
 ：/PU
 「/PU
-明/VA[míng | bright]
-日/NN[rì | day]
+明日/NN[míngrì | tomorrow]
 悉/AD[xī | all]
 受/VV[shòu | to receive]
 我/PN[wǒ | I]
-請/VV[qǐng | to ask]
+請/VV[qǐng | to request]
 ，/PU
 無/VE[wú | to not have]
 座/NN[zuò | seat]
@@ -7787,8 +7726,7 @@
 來/VV[lái | to come]
 。/PU
 」/PU
-明/VA[míng | bright]
-日/NN[rì | day]
+明日/NN[míngrì | tomorrow]
 諸/DT[zhū | all]
 大/VA[dà | big]
 鬼神/NN[guǐshén | spirits and devils]
@@ -7798,18 +7736,18 @@
 石/NN[shí | rock]
 來/VV[lái | to come]
 ，/PU
-辟/NN[pì | law]
-方/NN[fāng | direction]
+辟/NN[mǐ | to stop]
+方/AD[fāng | only]
 四/CD[sì | four]
 五/CD[wŭ | five]
 步/NN[bù | a step]
 ，/PU
-坐/NN[zuò | a retreat]
+坐/VV[zuò | to site]
 訖/VV[qì | to finish]
 ，/PU
 即使/CC[jíshǐ | even if]
 鬼神/NN[guǐshén | spirits and devils]
-累/VV[lèi | to be tired]
+累/VV[lěi | to accumulate]
 作/VV[zuò | to do]
 大/VA[dà | big]
 石/NN[shí | rock]
@@ -7821,13 +7759,14 @@
 底/NN[dǐ | bottom]
 以/P[yǐ | because of]
 五/CD[wŭ | five]
-大方/VA[dàfang | generous]
+大/VA[dà | large]
+方/NN[fāng | square]
 石/NN[shí | rock]
 作/VV[zuò | to do]
 一/CD[yī | one]
 石室/NN[shíshì | a rock cavern]
 ，/PU
-可/VV[kě | can]
+可/AD[kě | can]
 長/VA[cháng | long]
 三/CD[sān | three]
 丈/NN[zhàng | zhang]
@@ -7836,7 +7775,7 @@
 二/CD[èr | two]
 丈/NN[zhàng | zhang]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 丈/NN[zhàng | zhang]
 餘/VA[yú | extra]
 。/PU
@@ -7844,21 +7783,21 @@
 一/CD[yī | one]
 大乘/NR[Dàchéng | Mahāyāna]
 婆羅門/NR[Póluómén | Brahmin]
-子/NN[zǐ | child]
+子/NN[zǐ | master]
 ，/PU
 名/VV[míng | to be called]
-羅/NN[luó | gauze]
-沃/VA[wò | fertile]
-私/VA[sī | personal]
+羅/FW[luó | luo]
+沃/FW[wò | wo]
+私/FW[sī | si]
 婆/FW[pó | po]
-迷/VV[mí | to bewilder]
+迷/FW[mí | mi]
 ，/PU
 住/VV[zhù | to dwell]
 此/DT[cǐ | this]
 城/NN[chéng | a city]
 裏/NN[lǐ | inside]
 ，/PU
-爽/VA[shuǎng | invigorating]
+爽/VA[shuǎng | clear]
 悟/VV[wù | to comprehend]
 多/VA[duō | many]
 智/NN[zhì | wisdom]
@@ -7870,11 +7809,11 @@
 ，/PU
 以/VV[yǐ | to use]
 清淨/VA[qīngjìng | peaceful]
-自/PN[zì | from]
+自/PN[zì | self]
 居/VV[jū | to reside]
 。/PU
 國王/NN[guówáng | king]
-宗/NR[Zōng | Zong]
+宗/VV[zōng | to respect]
 敬/VV[jìng | to respect]
 師/NN[shī | teacher]
 事/NN[shì | matter]
@@ -7894,17 +7833,17 @@
 愛/VV[ài | to love]
 敬/VV[jìng | to venerate]
 心/NN[xīn | heart]
-執/VV[zhí | to execute a plan]
+執/VV[zhí | to grasp]
 手/NN[shǒu | hand]
 ，/PU
-執/VV[zhí | to execute a plan]
+執/VV[zhí | to grasp]
 手/NN[shǒu | hand]
 已/CS[yǐ | afterwards]
 ，/PU
 婆羅門/NR[Póluómén | Brahmin]
 輒/AD[zhé | often]
 自/PN[zì | from]
-灌/VV[guàn | to irrigate]
+灌/VV[guàn | to pour]
 洗/VV[xǐ | to wash]
 。/PU
 年/NN[nián | year]
@@ -7912,7 +7851,7 @@
 五十/CD[wŭshí | fifty]
 餘/VA[yú | extra]
 ，/PU
-舉/VV[jǔ | to lift]
+舉/AD[jǔ | all]
 國/NN[guó | a kingdom]
 瞻仰/VV[zhānyǎng | to revere]
 。/PU
@@ -7927,9 +7866,9 @@
 ，/PU
 外道/NN[wài dào | a cult]
 不能/VV[bù néng | cannot]
-得/DER[dé | to obtain]
-加/VV[jiā | add]
-陵/NN[líng | mound]
+得/VV[dé | to obtain]
+加/VV[jiā | to bully]
+陵/VV[líng | to bully]
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
 。/PU
@@ -7960,12 +7899,11 @@
 衆/VA[zhòng | many]
 。/PU
 威儀/NN[wēiyí | majestic presence]
-庠/NN[xiáng | a school]
-序/NN[xù | preface]
+庠序/NN[xiángxù | a school]
 可觀/VA[kěguān | considerable]
 。/PU
 四方/NN[sì fāng | all sides]
-高/VA[gāo | high]
+高/NN[gāo | height]
 德/NN[dé | virtue]
 沙門/NN[shāmén | a Buddhist monk]
 及/CC[jí | and]
@@ -7982,7 +7920,7 @@
 寺/NN[sì | temple]
 。/PU
 婆羅門/NR[Póluómén | Brahmin]
-子/NN[zǐ | child]
+子/NN[zǐ | master]
 師/NN[shī | teacher]
 亦/AD[yì | also]
 名/VV[míng | to be called]
@@ -7997,9 +7935,9 @@
 比丘/NN[bǐqiū | a monk]
 ，/PU
 皆/AD[jiē | all]
-宗/NR[Zōng | Zong]
-仰/VV[yǎng | to rely on]
-焉/PN[yān | where]
+宗/VV[zōng | to respect]
+仰/VV[yǎng | to look up]
+焉/MSP[yān | used for emphasis]
 ，/PU
 亦/AD[yì | also]
 住/VV[zhù | to dwell]
@@ -8054,14 +7992,14 @@
 揠/VV[yà | to erect]
 戟/NN[jǐ | a halberd]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 二/CD[èr | two]
 疋/NN[shū | foot]
 許/AD[xǔ | perhaps]
 ，/PU
 其/PN[qí | that]
 狀/VA[zhuàng | strong]
-如/CS[rú | if]
+如/VV[rú | to be like]
 塔/NN[tǎ | a pagoda]
 。/PU
 以/VV[yǐ | to use]
@@ -8078,7 +8016,7 @@
 形像/NN[xíngxiàng | form]
 。/PU
 以/VV[yǐ | to use]
-金/NN[jīn | metal]
+金/NN[jīn | gold]
 、/PU
 銀/NN[yín | silver]
 、/PU
@@ -8101,7 +8039,7 @@
 坐佛/NR[zuò Fó | a seated Buddha]
 ，/PU
 菩薩/NN[púsà | bodhisattva]
-立/VV[lì | stand]
+立/VV[lì | to stand]
 侍/VV[shì | to attend on]
 。/PU
 可/VV[kě | can]
@@ -8123,18 +8061,17 @@
 皆/AD[jiē | all]
 集/NN[jí | desire]
 ，/PU
-作/VV[zuò | to do]
-倡/VV[chàng | to initiate]
-伎樂/NN[jìyuè | a musician]
+作倡/VV[zuòchàng | to perform]
+伎樂/NN[jìyuè | music]
 ，/PU
 華/NN[huá | flower]
 香/NN[xiāng | incense]
 供養/VV[gōngyàng | to make offerings]
 。/PU
 婆羅門/NR[Póluómén | Brahmin]
-子/NN[zǐ | child]
+子/NN[zǐ | master]
 來/VV[lái | to come]
-請/VV[qǐng | to ask]
+請/VV[qǐng | to invite]
 佛/NR[Fó | Buddha]
 ，/PU
 佛/NR[Fó | Buddha]
@@ -8153,7 +8090,7 @@
 然/VV[rán | burn]
 燈/NN[dēng | lamp]
 ，/PU
-伎樂/NN[jìyuè | a musician]
+伎樂/NN[jìyuè | music]
 供養/VV[gōngyàng | to provide offerings]
 。/PU
 國/NN[guó | a kingdom]
@@ -8170,7 +8107,7 @@
 於/P[yú | in]
 城/NN[chéng | city]
 內/P[nèi | inside]
-立/VV[lì | to set up]
+立/VV[lì | to establish]
 福德/NN[fúdé | merit]
 醫藥/NN[yīyào | medicine]
 舍/NN[shè | residence]
@@ -8182,8 +8119,8 @@
 、/PU
 孤獨/VA[gūdú | lonely]
 、/PU
-殘/VV[cán | to destroy]
-跛/VV[bǒ | to limp]
+殘/VA[cán | disabled]
+跛/VA[bǒ | lame]
 、/PU
 一切/DT[yīqiè | all]
 病人/NN[bìngrén | a patient]
@@ -8217,7 +8154,7 @@
 。/PU
 阿育王/NR[Āyùwáng | King Ashoka]
 壞/VV[huài | to wreck]
-七/OD[qī | seventh]
+七/CD[qī | seven]
 塔/NN[tǎ | a pagoda]
 ，/PU
 作/VV[zuò | to do]
@@ -8249,7 +8186,7 @@
 起/VV[qǐ | to build]
 精舍/NN[jīngshè | vihāra]
 ，/PU
-戶/NN[hù | a company]
+戶/NN[hù | a door]
 北/NN[běi | north]
 向/P[xiàng | towards]
 塔/NN[tǎ | a pagoda]
@@ -8260,7 +8197,7 @@
 一/CD[yī | one]
 石柱/NN[shízhù | a stone column]
 ，/PU
-圍/VV[wéi | to circle]
+圍/VV[wéi | circumference]
 丈/NN[zhàng | zhang]
 四/CD[sì | four]
 、/PU
@@ -8274,7 +8211,7 @@
 上/DT[shàng | above]
 有/VE[yǒu | to have]
 銘/NN[míng | inscribed motto]
-題/NN[tí | topic]
+題/NN[tí | preface on a book or art work]
 ，/PU
 雲/VV[yún | to say]
 「/PU
@@ -8293,7 +8230,7 @@
 ，/PU
 如是/PN[rúshì | thus]
 三/CD[sān | three]
-反/VA[fǎn | reverse]
+反/VV[fǎn | to repeat]
 。/PU
 」/PU
 塔/NN[tǎ | a pagoda]
@@ -8303,12 +8240,12 @@
 步/NN[bù | a step]
 ，/PU
 阿育王/NR[Āyùwáng | King Ashoka]
-本/NN[běn | origin]
+本/PN[běn | self]
 於/P[yú | in]
 此/DT[cǐ | this]
 作/VV[zuò | to do]
-泥/NN[ní | mud]
-梨/NN[lí | pear]
+泥/FW[ní | ni]
+梨/FW[lí | li]
 城/NN[chéng | a city]
 。/PU
 中央/NN[zhōngyāng | center]
@@ -8316,7 +8253,7 @@
 石柱/NN[shízhù | a stone column]
 ，/PU
 亦/AD[yì | also]
-高/VA[gāo | high]
+高/NN[gāo | height]
 三/CD[sān | three]
 丈/NN[zhàng | zhang]
 餘/VA[yú | extra]
@@ -8328,19 +8265,20 @@
 /NN[zhù | a pillar]
 上/P[shàng | on]
 有/VE[yǒu | to have]
-銘/NN[míng | inscribed motto]
+銘/NN[míng | a inscription]
 ，/PU
-記/NN[jì | a prediction]
+記/VV[jì | to record]
 作/VV[zuò | to do]
-泥/NN[ní | mud]
-梨/NN[lí | pear]
+泥/FW[ní | ni]
+梨/FW[lí | li]
 城/NN[chéng | a city]
 因緣/NN[yīnyuán | causes and conditions]
 及/CC[jí | and]
 年/NN[nián | year]
 數/NN[shù | number]
 、/PU
-日月/PHRASE[rì yuè | the sun and moon]
+日/NN[rì | day]
+月/NN[yuè | month]
 。/PU
 小/VA[xiǎo | small]
 孤/VA[gū | lonely]
@@ -8353,7 +8291,7 @@
 九/CD[jiǔ | nine]
 由延/NN[yóuyán | yojana]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 一/CD[yī | one]
 小/VA[xiǎo | small]
 孤/VA[gū | lonely]
@@ -8375,9 +8313,9 @@
 天帝釋/NR[Tiān Dì Shì | Sakra]
 將/AD[jiāng | will, shall (future tense)]
 天/NN[tiān | a deva]
-樂/VV[lè | to take joy in]
-般/NN[bān | sort]
-遮/VV[zhē | to cover up]
+樂/VV[yuè | a musician]
+般/FW[bo | bo]
+遮/FW[zhē | zhe]
 彈/VV[tán | play]
 琴/NN[qín | string instrument]
 樂/VV[lè | to take joy in]
@@ -8387,7 +8325,8 @@
 帝釋/NR[Dìshì | Sakra]
 以/VV[yǐ | to use]
 四十/CD[sì shí | forty]
-二事/PHRASE[èr shì | two things]
+二/CD[èr | two]
+事/NN[shì | thing]
 問/VV[wèn | to ask]
 佛/NR[Fó | Buddha]
 ，/PU
@@ -8395,13 +8334,13 @@
 一一/AD[yīyī | one by one]
 以/VV[yǐ | to use]
 指/VV[zhǐ | to point]
-畫/NN[huà | picture]
+畫/VV[huà | to draw]
 石/NN[shí | rock]
 ，/PU
-畫/NN[huà | picture]
+畫/VV[huà | to draw]
 跡/NN[jī | a footprint]
-故/CS[gù | reason]
-在/P[zài | in]
+故/NN[gù | the past]
+在/VV[zài | to exist]
 。/PU
 此/DT[cǐ | this]
 中/P[zhōng | in]
@@ -8443,9 +8382,7 @@
 現在/AD[xiànzài | at present]
 。/PU
 王舍新城/NR[Wángshèxīn chéng | Rajagriha]
-䓑/NN[bǐng | duckweeds]
-沙/NN[shā | sand]
-王/NN[wáng | a king]
+䓑沙王/NR[Bǐngshā Wáng | Bimbisara]
 舊/VA[jiù | old]
 城/NN[chéng | a city]
 從此/AD[cóngcǐ | from now on]
@@ -8459,7 +8396,7 @@
 。/PU
 新/VA[xīn | new]
 城/NN[chéng | a city]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 是/VC[shì | this]
 阿闍世王/NR[Āshéshì Wáng | Ajatasutru]
@@ -8468,7 +8405,7 @@
 ，/PU
 中/P[zhōng | in]
 有/VE[yǒu | to have]
-二/OD[èr | second]
+二/CD[èr | two]
 僧/NN[sēng | monk]
 伽藍/NN[qiēlán | monastery]
 。/PU
@@ -8484,7 +8421,7 @@
 佛/NR[Fó | Buddha]
 一/CD[yī | one]
 分/NN[fèn | a portion]
-舍利/NN[shèlì | an egret]
+舍利/NN[shèlì | relics]
 起/VV[qǐ | to build]
 塔/NN[tǎ | stupa]
 ，/PU
@@ -8502,7 +8439,7 @@
 入/VV[rù | to enter]
 谷/NN[gǔ | valley]
 ，/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 五/CD[wŭ | five]
 山/NN[shān | mountain]
 裏/NN[lǐ | inside]
@@ -8512,47 +8449,46 @@
 周圍/VV[zhōuwéi | to circle]
 ，/PU
 狀/VA[zhuàng | strong]
-若/CS[ruò | if]
+若/VV[ruò | like]
 城/NN[chéng | a city]
-郭/NR[Guō | Guo]
+郭/NN[guō | outer city wall]
 ，/PU
 即/CC[jí | promptly]
 是/VC[shì | this]
-䓑/NN[bǐng | duckweeds]
-沙/NN[shā | sand]
-王/NN[wáng | a king]
+䓑沙王/NR[Bǐngshā Wáng | Bimbisara]
 舊/VA[jiù | old]
 城/NN[chéng | a city]
 。/PU
 城/NN[chéng | a city]
-東西/NN[dōngxi | thing]
+東/NN[dōng | east]
+西/NN[xī | west]
 可/VV[kě | can]
 五/CD[wŭ | five]
 六/OD[liù | sixth]
 里/NN[lǐ | li]
 ，/PU
-南北/NN[nán běi | north and south]
+南/NN[nán | north]
+北/NN[běi | south]
 七/CD[qī | seven]
 八/CD[bā | eight]
 里/NN[lǐ | li]
 。/PU
 舍利弗/NR[Shèlìfú | Sariputra]
 、/PU
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 初/AD[chū | at first]
 見/VV[jiàn | to see]
-頞/NN[è | junction of nose and forehead]
-鞞/ON[bī | bi]
+頞鞞/NR[Èbī | Upasena]
 處/NN[chù | a place]
 ，/PU
-尼/NN[ní | nun]
-犍/NN[jiān | a bullock]
-子/NN[zǐ | child]
+尼/FW[ní | ni]
+犍/FW[jiān | jian]
+子/FW[zi | zi]
 作/VV[zuò | to do]
 火/NN[huǒ | fire]
 坑/NN[kēng | a pit]
 、/PU
-毒/NN[dú | poison]
+毒/VV[dú | to poison]
 飯/NN[fàn | food]
 請/VV[qǐng | to invite]
 佛/NR[Fó | Buddha]
@@ -8570,7 +8506,7 @@
 ，/PU
 城/NN[chéng | city]
 東北/NN[dōngběi | northeast]
-角/M[jiǎo | unit of money equal to 0.1 yuan]
+角/M[jiǎo | a corner]
 曲/NN[qǔ | tune]
 中/P[zhōng | in]
 ，/PU
@@ -8594,7 +8530,7 @@
 ，/PU
 今/NN[jīn | today]
 故/CS[gù | reason]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 其/PN[qí | that]
 城/NN[chéng | a city]
@@ -8619,7 +8555,7 @@
 耆闍崛山/NR[Qíshéjué Shān | Grdhrakuta Mountains]
 。/PU
 未/AD[wèi | not yet]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 頭/DT[tóu | head]
 三/CD[sān | three]
 里/NN[lǐ | li]
@@ -8630,7 +8566,7 @@
 向/P[xiàng | towards]
 ，/PU
 佛/NR[Fó | Buddha]
-本/NN[běn | origin]
+本/PN[běn | self]
 於/P[yú | in]
 此/DT[cǐ | this]
 坐禪/VV[zuòchán | to practice sitting meditation]
@@ -8685,7 +8621,7 @@
 孔/NN[kǒng | hole]
 今/NN[jīn | today]
 悉/AD[xī | all]
-在/P[zài | in]
+在/VV[zài | to exist]
 ，/PU
 故/CC[gù | so]
 曰/VV[yuē | speak]
@@ -8717,7 +8653,7 @@
 數百/PHRASE[shù bǎi | several hundred]
 。/PU
 佛/NR[Fó | Buddha]
-在/P[zài | in]
+在/P[zài | to be living]
 石室/NN[shíshì | a rock cavern]
 前/P[qián | in front of]
 ，/PU
@@ -8743,7 +8679,7 @@
 ，/PU
 石/NN[shí | rock]
 猶/AD[yóu | also]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 佛/NR[Fó | Buddha]
 說/VV[shuō | to teach]
@@ -8757,7 +8693,7 @@
 塼/NN[zhuān | a brick]
 壁/NN[bì | wall]
 基/NN[jī | base]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 其/PN[qí | that]
 山/NN[shān | mountain]
@@ -8786,7 +8722,7 @@
 燈/NN[dēng | lamp]
 ，/PU
 倩/VA[qiàn | pretty]
-二/OD[èr | second]
+二/CD[èr | two]
 舊/VA[jiù | old]
 比丘/NN[bǐqiū | a monk]
 送/VV[sòng | to deliver]
@@ -8881,7 +8817,7 @@
 。/PU
 精舍/NN[jīngshè | vihāra]
 北/NN[běi | north]
-二/OD[èr | second]
+二/CD[èr | two]
 三/CD[sān | three]
 里/NN[lǐ | li]
 有/VE[yǒu | to have]
@@ -8894,7 +8830,7 @@
 摩/VV[mó | to rub]
 賒/VV[shē | to buy or sell on credit]
 那/DT[nà | na]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 漢/NR[Hàn | Han Chinese]
 言/VV[yán | to speak]
@@ -8921,8 +8857,8 @@
 窟/NN[kū | cave]
 ，/PU
 佛/NR[Fó | Buddha]
-食/NN[shí | food]
-後/DT[hòu | after]
+食/VV[shí | to eat]
+後/NN[hòu | after]
 常/AD[cháng | always]
 於/P[yú | in]
 此/DT[cǐ | this]
@@ -8948,7 +8884,7 @@
 。/PU
 佛/NR[Fó | Buddha]
 泥洹/NR[Níhuán | Nirvāṇa]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 五百/CD[wŭ bǎi | five hundred]
 阿羅漢/NR[Āluóhàn | Arhat]
@@ -8973,7 +8909,7 @@
 在/P[zài | in]
 左/NN[zuǒ | left]
 ，/PU
-目連/NR[Jiānlián | Maudgalyayana]
+目連/NR[Mùlián | Maudgalyayana]
 在/P[zài | in]
 右/NN[yòu | right]
 。/PU
@@ -9003,7 +8939,7 @@
 ，/PU
 今/NN[jīn | today]
 亦/AD[yì | also]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 搏/VV[bó | to fight]
 山/NN[shān | mountain]
@@ -9091,7 +9027,7 @@
 欲/NN[yù | desire]
 殺/VV[shā | to kill]
 三毒/NR[Sān Dú | Three Poisons]
-賊/NN[zéi | thief]
+賊/NN[zéi | an enemy]
 。/PU
 便/AD[biàn | right away]
 以/VV[yǐ | to use]
@@ -9144,7 +9080,7 @@
 ，/PU
 到/CC[dào | arrive]
 菩薩/NN[púsà | bodhisattva]
-本/NN[běn | origin]
+本/PN[běn | self]
 苦行/VV[kŭxíng | to practice ascetism]
 六/OD[liù | sixth]
 年/NN[nián | year]
@@ -9178,7 +9114,7 @@
 又/CC[yòu | again]
 北/NN[běi | north]
 行/VV[xíng | to travel]
-二/OD[èr | second]
+二/CD[èr | two]
 里/NN[lǐ | li]
 ，/PU
 得/VV[dé | to obtain]
@@ -9193,7 +9129,7 @@
 從此/AD[cóngcǐ | from now on]
 北/NN[běi | north]
 行/VV[xíng | to travel]
-二/OD[èr | second]
+二/CD[èr | two]
 里/NN[lǐ | li]
 ，/PU
 佛/NR[Fó | Buddha]
@@ -9208,7 +9144,7 @@
 東/NN[dōng | east]
 向/P[xiàng | towards]
 坐/VV[zuò | to sit]
-食/NN[shí | food]
+食/VV[shí | to eat]
 糜/NN[mí | gruel]
 ，/PU
 樹/NN[shù | tree]
@@ -9216,7 +9152,7 @@
 石/NN[shí | rock]
 今/NN[jīn | today]
 悉/AD[xī | all]
-在/P[zài | in]
+在/VV[zài | to exist]
 ，/PU
 石/NN[shí | rock]
 可/VV[kě | can]
@@ -9226,8 +9162,8 @@
 六/OD[liù | sixth]
 尺/NN[chǐ | a Chinese foot]
 ，/PU
-高/VA[gāo | high]
-二/OD[èr | second]
+高/NN[gāo | height]
+二/CD[èr | two]
 尺/NN[chǐ | a Chinese foot]
 許/AD[xǔ | perhaps]
 。/PU
@@ -9381,7 +9317,7 @@
 ，/PU
 菩薩/NN[púsà | bodhisattva]
 受/VV[shòu | to receive]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 復/AD[fù | again]
 行/VV[xíng | to travel]
@@ -9437,7 +9373,7 @@
 足/NN[zú | foot]
 指/VV[zhǐ | to point]
 按/VV[àn | to fulfill]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 魔/NN[mó | evil]
 兵/NN[bīng | soldier]
@@ -9461,7 +9397,7 @@
 諸/DT[zhū | all]
 處/NN[chù | a place]
 ，/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 人/NN[rén | person]
 皆/AD[jiē | all]
 於/P[yú | in]
@@ -9472,7 +9408,7 @@
 ，/PU
 今/NN[jīn | today]
 皆/AD[jiē | all]
-在/P[zài | in]
+在/VV[zài | to exist]
 。/PU
 佛/NR[Fó | Buddha]
 成/VV[chéng | to accomplish]
@@ -9600,7 +9536,7 @@
 、/PU
 入/VV[rù | to enter]
 衆/VA[zhòng | many]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 法/NR[Fǎ | Dhárma]
 ，/PU
 佛/NR[Fó | Buddha]
@@ -9625,12 +9561,12 @@
 處/NN[chù | a place]
 相承/VV[xiāngchéng | to complement one another]
 不/AD[bù | not]
-絶/AD[jué | absolutely]
+絶/VV[jué | to break]
 。/PU
 四/CD[sì | four]
 大/VA[dà | big]
 塔/NN[tǎ | stupa]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ：/PU
 佛/NR[Fó | Buddha]
 生處/NN[shēngchù | birthplace]
@@ -9680,7 +9616,7 @@
 泥/NN[ní | mud]
 經/VV[jīng | to experience]
 行/VV[xíng | to walk]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 。/PU
 因此/CC[yīncǐ | for that reason]
 果報/NN[guǒbào | the result of karma]
@@ -9771,7 +9707,7 @@
 地獄/NR[Dì Yù | Hell]
 主治/NN[zhǔ zhì | the healing efficiency of medicine]
 罪人/NN[zuìrén | a sinner]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ？/PU
 」/PU
 臣/NN[chén | statesman]
@@ -9844,7 +9780,7 @@
 王/NN[wáng | a king]
 密/VA[mì | secret]
 勑/NN[chì | imperial orders]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ：/PU
 「/PU
 汝/PN[rǔ | you]
@@ -9870,7 +9806,7 @@
 ，/PU
 令人/VV[lìngrén | to cause one to]
 渴/VA[kě | thirsty]
-仰/VV[yǎng | to rely on]
+仰/VV[yǎng | to look up]
 。/PU
 牢/VA[láo | firm]
 作/VV[zuò | to do]
@@ -9918,7 +9854,7 @@
 。/PU
 獄卒/NN[yùzú | a jailer]
 見/VV[jiàn | to see]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 便/AD[biàn | right away]
 欲/NN[yù | desire]
@@ -9936,7 +9872,7 @@
 聽/VV[tīng | to listen]
 我/PN[wǒ | I]
 中/P[zhōng | in]
-食/NN[shí | food]
+食/VV[shí | to eat]
 。/PU
 俄/NR[é | Russia]
 頃/M[qǐng | unit of area equal to 100 mu or 6.6667 hectacres]
@@ -9951,7 +9887,7 @@
 臼/NN[jiù | mortar]
 中/P[zhōng | in]
 擣/VV[dǎo | to hull]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 赤/VA[chì | red]
 沫/NN[mò | foam]
@@ -10088,7 +10024,7 @@
 三寶/NN[Sān Bǎo | Triple Gem]
 ，/PU
 常/AD[cháng | always]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 貝多樹/NN[bèiduō shù | pattra palm tree]
 下/P[xià | under]
 ，/PU
@@ -10139,12 +10075,12 @@
 王/NN[wáng | a king]
 來/VV[lái | to come]
 見/VV[jiàn | to see]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 迷/VV[mí | to bewilder]
 悶/VA[mēn | stuffy]
 躃/VV[bì | to be lame]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 。/PU
 諸/DT[zhū | all]
 臣/NN[chén | statesman]
@@ -10161,7 +10097,7 @@
 即/CC[jí | promptly]
 以/VV[yǐ | to use]
 塼/NN[zhuān | a brick]
-累/VV[lèi | to be tired]
+累/VV[lěi | to accumulate]
 四/CD[sì | four]
 邊/NN[biān | side]
 ，/PU
@@ -10176,7 +10112,7 @@
 身/NN[shēn | body]
 四/CD[sì | four]
 布/NN[bù | cotton cloth]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 作/VV[zuò | to do]
 是/VC[shì | this]
@@ -10208,7 +10144,7 @@
 以至於/CC[yǐzhì yú | down to]
 今/NN[jīn | today]
 。/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 減/VV[jiǎn | to decrease]
 十/CD[shí | ten]
 丈/NN[zhàng | zhang]
@@ -10264,7 +10200,7 @@
 外/P[wài | outside]
 有/VE[yǒu | to have]
 迦葉/NR[jiāyè | Kasyapa]
-本/NN[běn | origin]
+本/PN[běn | self]
 洗/VV[xǐ | to wash]
 手/NN[shǒu | hand]
 土/NN[tǔ | land]
@@ -10280,7 +10216,7 @@
 此/PN[cǐ | this]
 土/NN[tǔ | land]
 塗/NR[Tú | Tu]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 即/CC[jí | promptly]
 差/VV[chà | to differ from]
 。/PU
@@ -10299,7 +10235,7 @@
 方/NN[fāng | direction]
 諸/DT[zhū | all]
 國/NN[guó | a kingdom]
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 年年/NN[nián nián | year after year]
 往/VV[wǎng | to go (in a direction)]
 供養/VV[gōngyàng | to make offerings]
@@ -10307,7 +10243,7 @@
 ，/PU
 心/NN[xīn | mind]
 濃/VA[nóng | concentrated]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
 ，/PU
 夜/FW[yè | ye]
@@ -10319,7 +10255,7 @@
 共/AD[gòng | all together]
 言論/NN[yánlùn | speech]
 ，/PU
-釋/VV[shì | to release]
+釋/NR[Shì | Śākyamuni]
 其/PN[qí | that]
 疑/NN[yí | doubt]
 已/CS[yǐ | afterwards]
@@ -10330,7 +10266,7 @@
 。/PU
 此/DT[cǐ | this]
 山/NN[shān | mountain]
-榛/NN[zhēn | a hazel tree]
+榛/NN[zhēn | a grove]
 木/NN[mù | wood]
 茂盛/VA[màoshèng | lush]
 ，/PU
@@ -10351,14 +10287,11 @@
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 還/VV[huán | to return]
 向/P[xiàng | towards]
-巴/VV[bā | to hope]
-連/CC[lián | even]
-弗/AD[fú | no]
+巴連弗/NR[Bāliánfú | Pāṭaliputra]
 邑/NN[yì | city]
 。/PU
 順/P[shùn | along]
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 西/NN[xī | west]
 下/VV[xià | to go]
 十/CD[shí | ten]
@@ -10385,8 +10318,7 @@
 波羅㮏城/NR[Bōluónài Chéng | Varanasi]
 復/AD[fù | again]
 順/P[shùn | along]
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 西/NN[xī | west]
 行/VV[xíng | to travel]
 十二/CD[shí èr | twelve]
@@ -10434,13 +10366,13 @@
 ：/PU
 「/PU
 白淨王/NR[Bái Jìng Wáng | Shuddhodana]
-子/NN[zǐ | child]
+子/NN[zǐ | master]
 出家/VV[chūjiā | to become a monk]
 學/NN[xué | learning]
 道/NN[dào | the path leading to the cessation of suffering]
 ，/PU
 卻/CC[què | but]
-後/DT[hòu | after]
+後/NN[hòu | after]
 七/CD[qī |seven]
 日/NN[rì | day]
 當/P[dāng | at or in the very same]
@@ -10467,7 +10399,7 @@
 世尊/NR[Shìzūn | Bhagavān]
 成道/VV[chéng dào | to become enlightened]
 已/CS[yǐ | afterwards]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 人/NN[rén | person]
 於/P[yú | in]
@@ -10494,7 +10426,7 @@
 此/DT[cǐ | this]
 瞿曇/NR[Qútán | Gautama]
 沙門/NN[shāmén | a Buddhist monk]
-本/NN[běn | origin]
+本/PN[běn | self]
 六/OD[liù | sixth]
 年/NN[nián | year]
 苦行/VV[kŭxíng | to practice ascetism]
@@ -10523,7 +10455,7 @@
 ，/PU
 何/DT[hé | what]
 道/NN[dào | the path leading to the cessation of suffering]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 有/VE[yǒu | to have]
 ！/PU
 今日/NN[jīnrì | today]
@@ -10615,7 +10547,7 @@
 。/PU
 中/P[zhōng | in]
 有/VE[yǒu | to have]
-二/OD[èr | second]
+二/CD[èr | two]
 僧/NN[sēng | monk]
 伽藍/NN[qiēlán | monastery]
 ，/PU
@@ -10674,7 +10606,7 @@
 由延/NN[yóuyán | yojana]
 ，/PU
 佛/NR[Fó | Buddha]
-本/NN[běn | origin]
+本/PN[běn | self]
 於/P[yú | in]
 此/DT[cǐ | this]
 度/VV[dù | to cross]
@@ -10729,7 +10661,7 @@
 石/NN[shí | rock]
 山/NN[shān | mountain]
 作/VV[zuò | to do]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 凡/AD[fán | altogether]
 有/VE[yǒu | to have]
@@ -10809,7 +10741,7 @@
 流/VV[liú | to flow]
 ，/PU
 從/P[cóng | from]
-戶/NN[hù | a company]
+戶/NN[hù | a door]
 而/CC[ér | thus]
 出/VV[chū | to go out]
 。/PU
@@ -10859,7 +10791,7 @@
 ，/PU
 正/VA[zhèng | main]
 得/VV[dé | to obtain]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 昔/NN[xī | former times]
 人/NN[rén | person]
 一/CD[yī | one]
@@ -10913,7 +10845,7 @@
 邪見/NN[xiéjiàn | perverse views]
 ，/PU
 不/AD[bù | not]
-識/NN[shí | knowledge]
+識/VV[shí | to know]
 佛法/NR[Fófǎ | Dharma]
 、/PU
 沙門/NN[shāmén | a Buddhist monk]
@@ -10939,7 +10871,7 @@
 時/AD[shí | at that time]
 諸/DT[zhū | all]
 國/NN[guó | a kingdom]
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 慾/NN[yù | desire]
 來/VV[lái | to come]
 禮/VV[lǐ | to bow]
@@ -10964,12 +10896,12 @@
 見/NN[jiàn | view]
 此/DT[cǐ | this]
 間/P[jiān | between]
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 皆/AD[jiē | all]
 飛/VV[fēi | to fly]
 。/PU
 」/PU
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 方便/NN[fāngbiàn | skillful means]
 答/VV[dá | to reply]
 言/VV[yán | to say]
@@ -11035,13 +10967,11 @@
 ，/PU
 故/CS[gù | reason]
 說/VV[shuō | to say]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 耳/SP[ěr | and that is all]
 。/PU
 還/VV[huán | to return]
-巴/VV[bā | to hope]
-連/CC[lián | even]
-弗/AD[fú | no]
+巴連弗/NR[Bāliánfú | Pāṭaliputra]
 邑/NN[yì | city]
 寫/VV[xiě | to write]
 律/NN[lǜ | law]
@@ -11053,13 +10983,11 @@
 ，/PU
 還/VV[huán | to return]
 到/CC[dào | arrive]
-巴/VV[bā | to hope]
-連/CC[lián | even]
-弗/AD[fú | no]
+巴連弗/NR[Bāliánfú | Pāṭaliputra]
 邑/NN[yì | city]
 。/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
-本/NN[běn | origin]
+本/PN[běn | self]
 求/VV[qiú | to seek]
 戒律/NN[jiè lǜ | monastic discipline]
 ，/PU
@@ -11068,8 +10996,8 @@
 諸/DT[zhū | all]
 國/NN[guó | a kingdom]
 皆/AD[jiē | all]
-師/NN[shī | teacher]
-師/NN[shī | teacher]
+師/NN[shī | a title for a monastic]
+師/NN[shī | a title for a monastic]
 口/VA[kǒu | verbal]
 傳/VV[chuán | to pass on]
 ，/PU
@@ -11113,8 +11041,7 @@
 也/MSP[yě | a final modal particle indicating certainy or decision]
 ，/PU
 於/P[yú | in]
-祇/AD[zhǐ | only]
-洹/NR[Huán | Huan]
+祇洹/NR[Qíhuán | Jetavana]
 精舍/NN[jīngshè | vihāra]
 傳/VV[chuán | to pass on]
 其/PN[qí | that]
@@ -11126,7 +11053,7 @@
 部/NN[bù | ministry]
 各/DT[gè | each]
 有/VE[yǒu | to have]
-師/NN[shī | teacher]
+師/NN[shī | a title for a monastic]
 資/NN[zī | resources]
 ，/PU
 大/VA[dà | big]
@@ -11174,7 +11101,7 @@
 即/CC[jí | promptly]
 此/DT[cǐ | this]
 秦/NR[Qín | Shaanxi]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 衆/AD[zhòng | all]
 僧/NN[sēng | monk]
 所/PN[suǒ | it]
@@ -11183,15 +11110,15 @@
 。/PU
 亦/AD[yì | also]
 皆/AD[jiē | all]
-師/NN[shī | teacher]
-師/NN[shī | teacher]
+師/NN[shī | a title for a monastic]
+師/NN[shī | a title for a monastic]
 口/VA[kǒu | verbal]
 相傳/VV[xiāngchuán | to pass on]
 授/VV[shòu | to teach]
 ，/PU
 不/AD[bù | not]
 書/NN[shū | book]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 於/P[yú | in]
 文字/NN[wénzì | character]
 。/PU
@@ -11291,7 +11218,7 @@
 今/NN[jīn | today]
 已/CS[yǐ | afterwards]
 去/VV[qù | to go]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 得/VV[dé | to obtain]
 佛/NR[Fó | Buddha]
 ，/PU
@@ -11324,8 +11251,7 @@
 大/VA[dà | big]
 國/NN[guó | a kingdom]
 順/P[shùn | along]
-恆/AD[héng | frequently]
-水/NN[shuǐ | water]
+恆水/NR[Héng Shuǐ | Ganges River]
 東/NN[dōng | east]
 下/VV[xià | to go]
 十八/CD[shíbā | eighteen]
@@ -11396,7 +11322,7 @@
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 住/VV[zhù | to dwell]
 此/DT[cǐ | this]
-二/OD[èr | second]
+二/CD[èr | two]
 年/NN[nián | year]
 ，/PU
 寫/VV[xiě | to write]
@@ -11493,7 +11419,7 @@
 有/VE[yǒu | to have]
 出/VV[chū | to go out]
 摩尼珠/NN[móní | mani jewel]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 ，/PU
 方/NN[fāng | direction]
 可/VV[kě | can]
@@ -11527,7 +11453,7 @@
 及/CC[jí | and]
 龍/NN[lóng | dragon]
 居/VV[jū | to reside]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 諸/DT[zhū | all]
 國/NN[guó | a kingdom]
@@ -11558,7 +11484,7 @@
 則/CS[zé | expresses contrast with a previous sentence or clause]
 依/VV[yī | to depend on]
 價/NN[jià | price]
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 直/VA[zhí | straight]
 取/VV[qǔ | to take]
 物/NN[wù | thing]
@@ -11597,7 +11523,7 @@
 無/VE[wú | to not have]
 冬/NN[dōng | winter]
 夏/NN[xià | summer]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 異/VA[yì | different]
 ，/PU
 草木/NN[cǎo mù | vegetation]
@@ -11616,7 +11542,7 @@
 大/VA[dà | big]
 塔/NN[tǎ | a pagoda]
 佛/NR[Fó | Buddha]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 其/PN[qí | that]
 國/NN[guó | a kingdom]
 ，/PU
@@ -11655,7 +11581,7 @@
 大/VA[dà | big]
 塔/NN[tǎ | stupa]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 四十/CD[sì shí | forty]
 丈/NN[zhàng | zhang]
 ，/PU
@@ -11706,7 +11632,7 @@
 青玉/NN[qīngyù | green jade]
 像/NN[xiàng | image]
 ，/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 二/CD[èr | two]
 丈/NN[zhàng | zhang]
 許/AD[xǔ | perhaps]
@@ -11753,7 +11679,7 @@
 川/NR[Chuān | Sichuan]
 草木/NN[cǎo mù | vegetation]
 ，/PU
-舉/VV[jǔ | to lift]
+舉/AD[jǔ | all]
 目/NN[mù | an eye]
 無/VE[wú | to not have]
 舊/VA[jiù | old]
@@ -11787,7 +11713,7 @@
 商人/NN[shāngrén | merchant]
 以/VV[yǐ | to use]
 晉/NR[Jìn | Jin Dynasty]
-地/DEV[dì | the Earth]
+地/NN[dì | land]
 一/CD[yī | one]
 白/VV[bái | to make clear]
 絹/NN[juàn | thick but loosely woven silk]
@@ -11818,9 +11744,9 @@
 佛殿/NN[Fó diàn | a Buddhist shrine]
 旁/NN[páng | side]
 種/NN[zhǒng | kind]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
-高/VA[gāo | high]
+高/NN[gāo | height]
 可/VV[kě | can]
 二十/CD[èrshí | twenty]
 丈/NN[zhàng | zhang]
@@ -11857,7 +11783,7 @@
 下/VV[xià | to fall]
 ，/PU
 入/VV[rù | to enter]
-地/DEV[dì | the Earth]
+地/NN[dì | ground]
 成/VV[chéng | to become]
 根/NN[gēn | a root]
 。/PU
@@ -11923,7 +11849,7 @@
 人/NN[rén | person]
 敬/VV[jìng | to respect]
 信/VV[xìn | to believe]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 情/NN[qíng | feeling]
 亦/AD[yì | also]
 篤/VA[dǔ | sincere]
@@ -11968,7 +11894,7 @@
 ，/PU
 欲/NN[yù | desire]
 奪取/VV[duóqǔ | to snatch]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 三/CD[sān | three]
 日/NN[rì | day]
@@ -11999,7 +11925,7 @@
 自/PN[zì | from]
 今/NN[jīn | today]
 已/CS[yǐ | afterwards]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 勿/AD[wù | do not]
 聽/VV[tīng | to listen]
@@ -12082,7 +12008,7 @@
 悉/AD[xī | all]
 有/VE[yǒu | to have]
 衆/VA[zhòng | common]
-食/NN[shí | food]
+食/VV[shí | to eat]
 ，/PU
 王/NN[wáng | a king]
 別/VA[bié | separate]
@@ -12094,7 +12020,7 @@
 六千/CD[liù qiān | six thousand]
 人/NN[rén | person]
 衆/VA[zhòng | common]
-食/NN[shí | food]
+食/VV[shí | to eat]
 ，/PU
 須/AD[xū | necessary]
 者/MSP[zhě | used after a verb to indicate a person who does the action]
@@ -12122,7 +12048,7 @@
 三月/NR[sānyuè | March]
 中/P[zhōng | in]
 出/VV[chū | to go out]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 未/AD[wèi | not yet]
 出/VV[chū | to go out]
@@ -12247,7 +12173,7 @@
 悲/VV[bēi | to pity]
 。/PU
 卻/CC[què | but]
-後/DT[hòu | after]
+後/NN[hòu | after]
 十/CD[shí | ten]
 日/NN[rì | day]
 ，/PU
@@ -12255,7 +12181,7 @@
 齒/NN[chǐ | tooth]
 當/P[dāng | at or in the very same]
 出/VV[chū | to go out]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 無畏/NN[wúwèi | non-fear]
 山/NN[shān | mountain]
 精舍/NN[jīngshè | vihāra]
@@ -12283,7 +12209,7 @@
 香/NN[xiāng | incense]
 ，/PU
 供養/VV[gōngyàng | to make offerings]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 具/AD[jù | entirely]
 ！/PU
 」/PU
@@ -12388,7 +12314,7 @@
 城/NN[chéng | city]
 內/P[nèi | inside]
 精舍/NN[jīngshè | vihāra]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 齋/VV[zhāi | to fast]
 日/NN[rì | day]
 則/CS[zé | expresses contrast with a previous sentence or clause]
@@ -12397,7 +12323,7 @@
 ，/PU
 禮/VV[lǐ | to bow]
 敬/VV[jìng | to respect]
-如/CS[rú | if]
+如/P[rú | in accordance with]
 法/NR[Fǎ | Dhárma]
 。/PU
 跋/VV[bá | to travel]
@@ -12444,8 +12370,8 @@
 人民/NN[rénmín | people]
 皆/AD[jiē | all]
 共/AD[gòng | all together]
-宗/NR[Zōng | Zong]
-仰/VV[yǎng | to rely on]
+宗/VV[zōng | to respect]
+仰/VV[yǎng | to look up]
 。/PU
 住/VV[zhù | to dwell]
 一/CD[yī | one]
@@ -12516,7 +12442,7 @@
 羅漢/NN[Luóhàn | Arhat]
 。/PU
 臨終/VV[línzhōng | approaching one's end]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 時/AD[shí | at that time]
 ，/PU
 王/NN[wáng | a king]
@@ -12562,7 +12488,7 @@
 羅漢/NN[Luóhàn | Arhat]
 法/NR[Fǎ | Dhárma]
 葬/VV[zàng | to bury the dead]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 於/P[yú | in]
 精舍/NN[jīngshè | vihāra]
@@ -12652,7 +12578,7 @@
 。/PU
 從/P[cóng | from]
 轝/NN[yú | carriage]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 墓/NN[mù | grave]
 所/PN[suǒ | it]
 ，/PU
@@ -12676,11 +12602,11 @@
 ，/PU
 然後/CC[ránhòu | after]
 燒/VV[shāo | to burn]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 火/NN[huǒ | fire]
 然/VV[rán | to burn]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 時/AD[shí | at that time]
 ，/PU
 人人/PN[rénrén | everyone]
@@ -12721,7 +12647,7 @@
 塔/NN[tǎ | stupa]
 。/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 ，/PU
 不及/VA[bù jí | not as good as]
 其/PN[qí | that]
@@ -12798,7 +12724,7 @@
 自/PN[zì | from]
 是/VC[shì | this]
 已/CS[yǐ | afterwards]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 代/VV[dài | to represent]
 代/VV[dài | to represent]
@@ -12810,7 +12736,7 @@
 易/VV[yì | to change]
 。/PU
 天竺/NR[Tiānzhú | the Indian subcontinent]
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 誦/VV[sòng | to recite]
 經/NN[jīng | sūtra]
 法顯/NR[Fǎ Xiǎn | Fa Xian]
@@ -12819,7 +12745,7 @@
 ，/PU
 聞/VV[wén | to hear]
 天竺/NR[Tiānzhú | the Indian subcontinent]
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 於/P[yú | in]
 高/VA[gāo | high]
 座/NN[zuò | seat]
@@ -12849,7 +12775,7 @@
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 聞/VV[wén | to hear]
 誦/VV[sòng | to recite]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 時/AD[shí | at that time]
 有/VE[yǒu | to have]
 定/VV[dìng | to set]
@@ -12862,7 +12788,7 @@
 。/PU
 當/P[dāng | at or in the very same]
 復/AD[fù | again]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 西/NN[xī | west]
 月氏/NR[Yuè Zhì | Yuezhi]
 國/NN[guó | a kingdom]
@@ -12882,7 +12808,7 @@
 年/NN[nián | year]
 ，/PU
 當/P[dāng | at or in the very same]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 屈/VV[qū | to bend]
 茨/VV[cí | to thatch a roof]
 國/NN[guó | a kingdom]
@@ -12903,7 +12829,7 @@
 ，/PU
 當/P[dāng | at or in the very same]
 復/AD[fù | again]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 師子國/NR[Shīziguó | Simhala]
 。/PU
 若干/VA[ruògān | a certain number or amount of]
@@ -12931,7 +12857,7 @@
 曰/VV[yuē | to speak]
 釋迦文佛/NR[Shìjiāwén Fó | Sakyamuni Buddha]
 鉢/NN[bō | an alms bowl]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 。/PU
 即/CC[jí | promptly]
 共/AD[gòng | all together]
@@ -12955,7 +12881,7 @@
 入/VV[rù | to enter]
 龍宮/NR[Lóng Gōng | Palace of the Dragon King]
 。/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 彌勒/NR[Mílè | Maitreya]
 將/AD[jiāng | will, shall (future tense)]
 成道/VV[chéng dào | to become enlightened]
@@ -12985,7 +12911,7 @@
 應/VV[yīng | should]
 念/VV[niàn | to remember]
 佛/NR[Fó | Buddha]
-如/CS[rú | if]
+如/P[rú | in accordance with]
 先/AD[xiān | first]
 佛法/NR[Fófǎ | Dharma]
 。/PU
@@ -13007,7 +12933,7 @@
 。/PU
 佛法/NR[Fófǎ | Dharma]
 滅/VV[miè | to extinguish]
-後/DT[hòu | after]
+後/NN[hòu | after]
 ，/PU
 人/NN[rén | person]
 壽/NN[shòu | life]
@@ -13020,7 +12946,7 @@
 。/PU
 五/CD[wŭ | five]
 歲/NN[suì | years old]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 時/AD[shí | at that time]
 ，/PU
 粳/NN[jīng | round-grained nonglutinous rice]
@@ -13201,13 +13127,13 @@
 住/VV[zhù | to dwell]
 此/DT[cǐ | this]
 國/NN[guó | a kingdom]
-二/OD[èr | second]
+二/CD[èr | two]
 年/NN[nián | year]
 ，/PU
 更/AD[gèng | more]
 求得/VV[qiúdé | to seek]
 彌/FW[mí | mi]
-沙/NN[shā | sand]
+沙/FW[shā | sha]
 塞/VV[sāi | to stop up]
 律藏/NR[Lǜ Zàng | Collection of Monastic Rules]
 本/NN[běn | origin]
@@ -13260,7 +13186,7 @@
 餘/VA[yú | extra]
 人/NN[rén | person]
 。/PU
-後/DT[hòu | after]
+後/NN[hòu | after]
 係/VV[xì | to be]
 一/CD[yī | one]
 小/VA[xiǎo | small]
@@ -13284,7 +13210,7 @@
 ，/PU
 東/NN[dōng | east]
 下/VV[xià | to go]
-二/OD[èr | second]
+二/CD[èr | two]
 日/NN[rì | day]
 ，/PU
 便/AD[biàn | right away]
@@ -13415,7 +13341,7 @@
 即/CC[jí | promptly]
 補/VV[bǔ | to repair]
 塞/VV[sāi | to stop up]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 於是/CC[yúshì | thereupon]
 復/AD[fù | again]
@@ -13426,7 +13352,7 @@
 多/VA[duō | many]
 有/VE[yǒu | to have]
 抄/VV[chāo | to go around to side]
-賊/NN[zéi | thief]
+賊/NN[zéi | an enemy]
 ，/PU
 遇/VV[yù | to meet with]
 輒/AD[zhé | often]
@@ -13438,7 +13364,7 @@
 無邊/VA[wúbiān | without boundaries]
 ，/PU
 不/AD[bù | not]
-識/NN[shí | knowledge]
+識/VV[shí | to know]
 東西/NN[dōngxi | thing]
 ，/PU
 唯/AD[wéi | only]
@@ -13488,7 +13414,7 @@
 水/NN[shuǐ | water]
 性/NN[xìng | nature]
 怪異/VA[guàiyì | monstrous]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 屬/VV[shǔ | to belong to]
 ，/PU
 商人/NN[shāngrén | merchant]
@@ -13511,7 +13437,7 @@
 石/NN[shí | rock]
 住處/NN[zhùchù | residence]
 。/PU
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 天/NN[tiān | a deva]
 晴/VA[qíng | clear (weather)]
 已/CS[yǐ | afterwards]
@@ -13619,7 +13545,7 @@
 ，/PU
 夜/FW[yè | ye]
 皷/NN[gǔ | drum]
-二/OD[èr | second]
+二/CD[èr | two]
 時/AD[shí | at that time]
 ，/PU
 遇/VV[yù | to meet with]
@@ -13653,7 +13579,7 @@
 祐/VV[yòu | to bless]
 ，/PU
 得/VV[dé | to obtain]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 天/NN[tiān | a deva]
 曉/NR[Xiǎo | Xiao]
 。/PU
@@ -13682,7 +13608,7 @@
 。/PU
 當下/AD[dāngxià | presently]
 比丘/NN[bǐqiū | a monk]
-置/VV[zhì | to install]
+置/VV[zhì | to put]
 海島/NN[hǎidǎo | island]
 邊/NN[biān | side]
 。/PU
@@ -13697,7 +13623,7 @@
 。/PU
 」/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
-本/NN[běn | origin]
+本/PN[běn | self]
 檀越/NN[tányuè | an alms giver]
 言/VV[yán | to speak]
 「/PU
@@ -13800,7 +13726,7 @@
 人/NN[rén | person]
 可/VV[kě | can]
 得/VV[dé | to obtain]
-二/OD[èr | second]
+二/CD[èr | two]
 升/M[shēng | metric liter]
 ，/PU
 遂便/AD[suìbiàn | immediately]
@@ -13874,7 +13800,7 @@
 ，/PU
 忽/AD[hū | suddenly]
 得/VV[dé | to obtain]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 此/DT[cǐ | this]
 岸/NN[àn | bank]
 ，/PU
@@ -13906,7 +13832,7 @@
 或/CC[huò | or]
 言/VV[yán | to speak]
 未/AD[wèi | not yet]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 廣州/NR[Guǎngzhōu | Guangzhou]
 ，/PU
 或/CC[huò | or]
@@ -13946,12 +13872,12 @@
 譯/VV[yì | to translate]
 語/VV[yǔ | to speak]
 問/VV[wèn | to ask]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 。/PU
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 先/AD[xiān | first]
 安慰/VV[ānwèi | to comfort]
-之/PN[zhī | genetive marker]
+之/PN[zhī | it]
 ，/PU
 徐/NR[Xú | Xu]
 問/VV[wèn | to ask]
@@ -14056,12 +13982,12 @@
 汎/VV[fàn | to float]
 海/NN[hǎi | sea]
 而/CC[ér | thus]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 ，/PU
 即將/AD[jíjiāng | to be about to]
 人/NN[rén | person]
 從/P[cóng | from]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 海邊/NN[hǎibiān | seaside]
 ，/PU
 迎接/VV[yíngjiē | to meet]
@@ -14069,7 +13995,7 @@
 像/NN[xiàng | image]
 ，/PU
 歸/VV[guī | to go back]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 郡/NN[jùn | a county]
 治/VV[zhì | to rule]
 。/PU
@@ -14096,8 +14022,8 @@
 法顯/NR[Fǎ Xiǎn | Fa Xian]
 離/VV[lí | to leave]
 諸/DT[zhū | all]
-師/NN[shī | teacher]
-久/VA[jiǔ | old]
+師/NN[shī | a title for a monastic]
+久/AD[jiǔ | a long time]
 ，/PU
 欲/NN[yù | desire]
 趣/VV[qù | to take]
@@ -14163,7 +14089,7 @@
 威儀/NN[wēiyí | majestic presence]
 法/NR[Fǎ | Dhárma]
 化/VV[huà | to make into]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 美/VA[měi | beautiful]
 ，/PU
 不可/VV[bù kě | cannot]
@@ -14173,7 +14099,7 @@
 竊/VV[qiè | to steal]
 惟/AD[wéi | only]
 諸/DT[zhū | all]
-師/NN[shī | teacher]
+師/NN[shī | a title for a monastic]
 來/VV[lái | to come]
 得/VV[dé | to obtain]
 備/VV[bèi | to prepare]
@@ -14244,10 +14170,10 @@
 慧遠/NR[Huì Yuǎn | Venerable Hui Yuan]
 迎/VV[yíng | to welcome]
 法顯/NR[Fǎ Xiǎn | Fa Xian]
-道人/NN[dàorén | a devotee]
+道人/NN[dàorén | a monk]
 。/PU
 既/AD[jì | already]
-至/CC[zhì | to arrive]
+至/VV[zhì | to arrive]
 ，/PU
 留/VV[liú | to leave]
 共/AD[gòng | all together]
@@ -14257,7 +14183,7 @@
 因/CC[yīn | because]
 講/VV[jiǎng | to speak]
 集/NN[jí | desire]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 餘/VA[yú | extra]
 ，/PU
 重/NN[chóng | repetition]
@@ -14314,7 +14240,7 @@
 不惜/VV[bùxī | to not spare]
 此/DT[cǐ | this]
 形/NN[xíng | a shape]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 蓋/CC[gài | because]
 是/VC[shì | this]
@@ -14334,13 +14260,13 @@
 於/P[yú | in]
 不必/AD[bùbì | need not]
 全/DT[quán | all]
-之/PN[zhī | genetive marker]
-地/DEV[dì | the Earth]
+之/DEG[zhī | genetive marker]
+地/NN[dì | ground]
 ，/PU
 以/P[yǐ | because of]
 達/VV[dá | to attain]
 萬一/CC[wànyī | just in case]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 冀/NR[Jì | Hebei]
 。/PU
 」/PU
@@ -14369,13 +14295,13 @@
 法/NR[Fǎ | Dharma]
 如/CS[rú | if]
 顯/VV[xiǎn | to show]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 比/VV[bì | to associate with]
 。/PU
 然後/CC[ránhòu | after]
 知/VV[zhī | to know]
 誠/VA[chéng | honest]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 所/PN[suǒ | it]
 感/VV[gǎn | to feel]
 ，/PU
@@ -14385,7 +14311,7 @@
 不/AD[bù | not]
 通/VV[tōng | to go through]
 志/NN[zhì | a written record]
-之/PN[zhī | genetive marker]
+之/DEG[zhī | genetive marker]
 所/PN[suǒ | it]
 將/AD[jiāng | will, shall (future tense)]
 ，/PU
@@ -14398,7 +14324,7 @@
 成/VV[chéng | to become]
 夫/MSP[fú | now]
 功業/NN[gōngyè | achievement]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used to mark a definition]
 ，/PU
 豈不/AD[qǐbù | how can it be that?]
 由/P[yóu | follow]

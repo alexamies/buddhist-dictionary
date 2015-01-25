@@ -511,7 +511,7 @@
 511	大乘學	大乘/NR[Dàchéng | Mahāyāna] 學/VV[xué | study] <study Mahāyāna>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 512	心念	心/NN[xīn | mind] 念/NN[niàn | a thought] <to think in his heart>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 513	散華	散/VV[sàn | to scatter] 華/NN[huá | a flower] <to scatter flowers>	\N	\N	Record of Buddhistic Kingdoms 佛國記
-514	柱上	/NN[zhù | a pillar] 上/P[shàng | on] <on top of the pillar>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+514	柱上	柱/NN[zhù | a pillar] 上/P[shàng | on] <on top of the pillar>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 515	高六丈許	高/NN[gāo | height] 六/CD[liù | six] 丈/NN[zhàng | zhang] 許/AD[xǔ | perhaps] <perhaps six zhang in height>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 516	船漏	船/NN[chuán | ship] 漏/VV[lòu | to leak] <the ship leaked>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 517	國國	國/NN[guó | a state] 國/NN[guó | a state] <all the kingdoms>	\N	\N	Record of Buddhistic Kingdoms 佛國記
@@ -537,11 +537,11 @@
 537	云何名為菩提	云何/PN[yúnhé | what] 名為/VV[míngwèi | to be called] 菩提/NN[pútí | bodhi] <What is 'bodhi?'>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 538	佛菩提	佛/NR[Fó | Buddha] 菩提/NN[pútí | bodhi] <the enlightenment of a Buddha>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 539	塔廟	塔/NN[tǎ | stupa] 廟/NN[miào | temple] <stupas and temples>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-540	一者	一/OD[yī | first] 者/MSP[zhě | used after a verb to indicate a person who does the action] <first>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-541	二者	二/OD[èr | second] 者/MSP[zhě | used after a verb to indicate a person who does the action] <second>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-542	三者	三/OD[sān | third] 者/MSP[zhě | used after a verb to indicate a person who does the action] <third>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+540	一者	一/OD[yī | first] 者/PN[zhě | that] <first>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+541	二者	二/OD[èr | second] 者/PN[zhě | that] <second>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+542	三者	三/OD[sān | third] 者/PN[zhě | that] <third>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 543	正法	正/VA[zhèng | main] 法/NR[Fǎ | Dhárma] <true Dharma>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
-544	四者	四/OD[sì | fourth] 者/MSP[zhě | used after a verb to indicate a person who does the action] <third>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
+544	四者	四/OD[sì | fourth] 者/PN[zhě | that] <third>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 545	安住	安/VV[ān | to find a place for] 住/VV[zhù | to dwell] <to lead to dwell>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 546	安處	安/VV[ān | to find a place for] 處/NN[chù | a place] <to place upon>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
 547	菩薩行	菩薩/NN[púsà | bodhisattva] 行/NN[xíng | practice] <bodhisattva practices>	\N	\N	Sumati Sūtra 妙慧童女經 T12 336
@@ -581,3 +581,14 @@
 581	香汁	香/VA[xiāng | scented] 汁/NN[zhī | liquid] <scented water>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 582	聞已	聞/VV[wén | to hear] 已/AD[yǐ | afterwards] <upon hearing>	\N	\N	Record of Buddhistic Kingdoms 佛國記
 583	山西南	山/NN[shān | mountain] 西南/NN[xīnán | westsouth] <southwest of the mountain>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+584	不復活	不/AD[bù | not] 復/AD[fù | more] 活/VV[huó | to live] <will not live any longer>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+585	左右	左/NN[zuǒ | left] 右/NN[yòu | right] <retainers and officials>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+586	或多或少	或/CC[huò | or] 多/VA[duō | many] 或/CC[huò | or] 少/VA[shǎo | few] <more or less>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+587	何國	何/DT[hé | which] 國/NN[guó | a state] <which country>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+588	四處	四/CD[sì | four] 處/NN[chù | a place] <four places>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+589	國有	國/NN[guó | land] 有/VE[yǒu | to have] <country has>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+590	五河合口	五/CD[wŭ | five] 河/NN[hé | a river] 合/VV[hé | combine] 口/NN[kǒu | an opening] <confluence of five rivers>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+591	分身作二分	分/VV[fēn | to divide] 身/NN[shēn | body] 作/VV[zuò | to do] 二/CD[èr | two] 分/NN[fèn | a part] <to divide a body into two>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+592	度河南	度/VV[dù | to cross] 河/NN[hé | a river] 南/NN[nán | south] <crossed the river to the south>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+593	大方石	大/VA[dà | large] 方/NN[fāng | square] 石/NN[shí | rock] <large square stone>	\N	\N	Record of Buddhistic Kingdoms 佛國記
+594	日月	日/NN[rì | day] 月/NN[yuè | month] <day and month>	\N	\N	Record of Buddhistic Kingdoms 佛國記
