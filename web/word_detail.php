@@ -77,15 +77,15 @@ require_once 'inc/word_detail_top.php' ;
               "<th class='portlet'>Notes</th>" .
               "</tr>\n");
         for ($i=0; $i<$len; $i++) {
-          $grammarEn = $words[$i]->getGrammar();
-          $grammarCn = $grammarCnLookup[$grammarEn];
+          $grammarKey = $words[$i]->getGrammar();
+          $grammarEn = $grammarCnLookup[$grammarKey];
           $id = $words[$i]->getId();
           print("<tr>\n" .
                 "<td><a href='word_detail.php?id=$id'>" . $words[$i]->getSimplified() . "</a></td>\n" .
                 "<td>" . $words[$i]->getTraditional() . "</td>\n" .
                 "<td>" . $words[$i]->getPinyin() . "</td>\n" .
                 "<td>\n" . $words[$i]->getEnglish() . "</td>\n" .
-                "<td>$grammarCn ($grammarEn)</td>\n" .
+                "<td>$grammarEn</td>\n" .
                 "<td>\n" . $words[$i]->getNotes() . "</td>\n" .
                 "</tr>\n");
         }

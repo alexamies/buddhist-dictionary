@@ -100,7 +100,8 @@
 釋提桓因/NR[Shìtíhuányīn | Sakra]
 等/NN[děng | and so on]
 無量/VA[wúliàng | unlimited]
-諸天/NN[zhūtiān | devas]
+諸/DT[zhū | all]
+天/NN[tiān | deva]
 大眾/NN[dàzhòng | assembly]
 俱/AD[jū | together]
 。/PU
@@ -459,7 +460,7 @@
 生/VV[shēng | to be born]
 。/PU
 所以/CC[suǒyǐ | therefore]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 何/DT[hé | what]
 ？/PU
 彼/DT[bǐ | that]
@@ -532,7 +533,7 @@
 聞/VV[wén | hear]
 是/DT[shì | that]
 音/NN[yīn | sound]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 皆/AD[jiē | all]
 自然/AD[zìrán | naturally]
 生/VV[shēng | to be born]
@@ -667,7 +668,7 @@
 國土/NN[guótǔ | land]
 眾生/NN[zhòngshēng | a being]
 生/VV[shēng | to be born]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 皆/AD[jiē | all]
 是/PN[shì | this]
@@ -703,7 +704,7 @@
 ！/PU
 眾生/NN[zhòngshēng | a being]
 聞/VV[wén | to hear]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 應當/VV[yīngdāng | should]
 發願/VV[fā yuàn | to make a vow]
@@ -714,7 +715,7 @@
 國/NN[guó | place]
 。/PU
 所以/CS[suǒyǐ | therefore]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 何/DT[hé | what]
 ？/PU
 得/VV[dé | to obtain]
@@ -843,7 +844,7 @@
 聞/VV[wén | hear]
 是/DT[shì | that]
 說/VV[shuō | to teach]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 應當/VV[yīngdāng | should]
 發願/VV[fā yuàn | to make a vow]
@@ -857,7 +858,7 @@
 如/CS[rú | if]
 我/PN[wǒ | I]
 今/NN[jīn | today]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 讚歎/VV[zàntàn | to praise]
 阿彌陀佛/NR[Āmítuó Fó | Amitabha Buddha]
@@ -1286,14 +1287,14 @@
 是/DT[shì | that]
 經受/VV[jīngshòu | to undergo]
 持/VV[chí | to grasp]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 及/CC[jí | and]
 聞/VV[wén | to hear]
 諸/DT[zhū | all]
 佛/NR[Fó | Buddha]
 名/VV[míng | to be called]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 是/PN[shì | this]
 諸/DT[zhū | all]
 善/VA[shàn | virtuous]
@@ -1353,7 +1354,7 @@
 生/VV[shēng | to be born]
 阿彌陀佛/NR[Āmítuó Fó | Amitabha Buddha]
 國/NN[guó | place]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 是/PN[shì | this]
 諸/DT[zhū | all]
 人/NN[rén | person]
@@ -1392,7 +1393,7 @@
 若/CS[ruò | if]
 有/VC[yǒu | is]
 信/VV[xìn | to believe]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 應當/VV[yīngdāng | should]
 發願/VV[fā yuàn | to make a vow]
@@ -1406,7 +1407,7 @@
 如/CS[rú | if]
 我/PN[wǒ | I]
 今/NN[jīn | today]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 稱讚/VV[chēngzàn | to praise]
 諸/DT[zhū | all]
@@ -1597,7 +1598,7 @@
 誦/VV[sòng | to recite]
 此/DT[cǐ | this]
 呪/NN[zhòu | mantra]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 阿彌陀佛/NR[Āmítuó Fó | Amitabha Buddha]
 常住/NN[chángzhù | permanence]

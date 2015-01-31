@@ -118,14 +118,14 @@ class BigramTagger:
             # Most frequently occuring is at the head of the list
             wf_entry = self.wfreq[key][0]
             word_id = wf_entry['word_id']
-            if traditional and traditional == u'重':
-                print('bigram.MostFrequentWord %s looking for word id %s' % 
-                      (traditional, word_id))
+            #if traditional and traditional == u'重':
+                #print('bigram.MostFrequentWord %s looking for word id %s' % 
+                      #(traditional, word_id))
             if word_id != word_entry['id']:
                 for w_entry in word_entry['other_entries']:
-                    if traditional and traditional == u'重':
-                        print('bigram.MostFrequentWord %s found id %s' % 
-                              (traditional, w_entry['id']))
+                    #if traditional and traditional == u'重':
+                        #print('bigram.MostFrequentWord %s found id %s' % 
+                              #(traditional, w_entry['id']))
                     if word_id == w_entry['id']:
                         word_entry = w_entry
                         break
@@ -191,8 +191,8 @@ class BigramTagger:
             if not previous[0]:
                 previous = word_id, element_text
                 continue
-            if element_text and element_text == u'重':
-                print('bigram.WordSenseFrequency tag "%s", element_text "%s"' % (tag, element_text))
+            #if element_text and element_text == u'重':
+                #print('bigram.WordSenseFrequency tag "%s", element_text "%s"' % (tag, element_text))
             if not word_entry:
                 print('WordSenseFrequency warning: could not find %s in dictionary.' % element_text)
                 continue

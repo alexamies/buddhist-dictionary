@@ -35,7 +35,7 @@
 年/NN[nián | age]
 始/VV[shǐ | to begin]
 八/CD[bā | eight]
-歲/NN[suì | years old]
+歲/NN[suì | years]
 ，/PU
 面貌/NN[miànmào | appearance]
 端正/VA[duānzhèng | upright]
@@ -48,7 +48,7 @@
 具足/VA[jùzú | adequate]
 ，/PU
 見/VV[jiàn | to see]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 歡喜/VA[huānxǐ | joyful]
 曾/AD[céng | once]
 於/P[yú | in]
@@ -962,7 +962,7 @@
 於/P[yú | in]
 說/VV[shuō | to teach]
 法/NN[fǎ | a dhárma]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 不/AD[bù | not]
 生/VV[shēng | to develop]
 惡心/NN[èxīn | bad habit]
@@ -1344,7 +1344,7 @@
 而/CC[ér | and]
 不/AD[bù | not]
 修/VV[xiū | to cultivate]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 則/CS[zé | expresses contrast with a previous sentence or clause]
 違/VV[wéi | to disobey]
@@ -1411,7 +1411,7 @@
 行/VV[xíng | to do]
 得/VV[dé | to obtain]
 圓滿/VA[yuánmǎn | complete]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 願/NN[yuàn | a vow]
 此/DT[cǐ | this]
@@ -1471,7 +1471,7 @@
 言/VV[yán | to speak]
 非/VC[fēi | not]
 虛妄/VA[xūwàng | not real]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 令/VV[lìng | to make]
 斯/PN[sī | this]
@@ -1675,7 +1675,7 @@
 、/PU
 非/VC[fēi | not]
 密/VA[mì | hidden]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 。/PU
 」/PU
 又/AD[yòu | again]
@@ -1684,7 +1684,7 @@
 「/PU
 若/CS[ruò | if]
 如是/PN[rúshì | thus]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 一切/DT[yīqiè | all]
 凡夫/NN[fánfū | an ordinary person]
@@ -1744,7 +1744,7 @@
 能/VV[néng | can]
 解/VV[jiě | to understand]
 了/AS[le | completion of an action]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 其/PN[qí | that]
 數/NN[shù | number]
@@ -1903,7 +1903,7 @@
 不/AD[bù | not]
 謂/VV[wèi | to speak of]
 今/NN[jīn | today]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 還/VV[huán | to return]
 得/VV[dé | to obtain]
 親近/VV[qīnjìn | to get close to]
@@ -2083,7 +2083,7 @@
 言/VV[yán | to speak]
 非/VC[fēi | not]
 虛妄/VA[xūwàng | not real]
-者/MSP[zhě | used after a verb to indicate a person who does the action]
+者/MSP[zhě | used after a verb phrase to indicate a person who does the action]
 ，/PU
 令/VV[lìng | to make]
 此/DT[cǐ | this]
@@ -2101,7 +2101,7 @@
 ，/PU
 如/VV[rú | to be like]
 三十/CD[sān shí | thirty]
-歲/NN[suì | years old]
+歲/NN[suì | years]
 知/VV[zhī | to know]
 法/NR[Fǎ | Dharma]
 比丘/NN[bǐqiū | a monk]
@@ -2128,7 +2128,7 @@
 ，/PU
 如/VV[rú | to be like]
 三十/CD[sān shí | thirty]
-歲/NN[suì | years old]
+歲/NN[suì | years]
 知/VV[zhī | to know]
 法/NR[Fǎ | Dharma]
 比丘/NN[bǐqiū | a monk]
