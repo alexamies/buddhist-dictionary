@@ -232,13 +232,13 @@
           &gt; names &lt;- c("pos.tagged.text", "element.text", "word.id", "frequency")
           &gt; unigram &lt;- read.table("unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names, numerals ="allow.loss")
           &gt; head(unigram)
-                       pos.tagged.text element.text word.id frequency
-          1 須菩提/NR[xūpútí | Subhuti]        須菩提    6645       137
-          2           是/PN[shì | this]           是   17908       136
-          3             不/AD[bù | not]           不     502       130
-          4          佛/NR[Fó | Buddha]           佛    3618       130
-          5               於/P[yú | in]           於    1710        93
-          6  如來/NR[Rúlái | Tathagata]          如來    6686        89
+                 pos.tagged.text element.text word.id frequency
+          1   佛/NR[Fó | Buddha]           佛    3618       330
+          2 有/VE[yǒu | to have]           有   32458       249
+          3        於/P[yú | in]           於    1710       220
+          4      不/AD[bù | not]           不     502       218
+          5  人/NN[rén | person]           人     399       212
+          6     諸/DT[zhū | all]           諸    3556       193
         </pre>
       </p>
       <p>
@@ -264,13 +264,13 @@
           &gt; binames &lt;- c("pos.tagged.text", "previous.text", "element.text", "word.id", "frequency")
           &gt; bigram &lt;- read.table("bigram.txt", header=FALSE, sep="\t", quote="\"", col.names=binames, numerals ="allow.loss")
           &gt; head(bigram)
-                 pos.tagged.text previous.text element.text word.id frequency
-          1   故/NN[gù | purpose]            以           故    7115        38
-          2    以/P[yǐ | because]            何           以   30648        38
-          3 云何/DT[yúnhé | what]            意         云何   29319        32
-          4      意/NN[yì | idea]            於           意    1730        30
-          5    佛/NR[Fó | Buddha]            諸           佛    3618        26
-          6  說/VV[shuō | speaks]          如來           說     412        23
+                pos.tagged.text previous.text element.text word.id frequency
+          1 故/NN[gù | purpose]            以           故    7115        41
+          2  以/P[yǐ | because]            何           以   30648        41
+          3  僧/NN[sēng | monk]            衆           僧    3366        40
+          4    此/DT[cǐ | this]            於           此     624        37
+          5  佛/NR[Fó | Buddha]            諸           佛    3618        34
+          6   塔/NN[tǎ | stupa]            起           塔    3374        34
 
         </pre>
       </p>
@@ -317,7 +317,7 @@
       </p>
       <p>
         This is a useful diagram because it shows the breadth and depth of the corpus at a glance. The corpus
-        only has about 1,400 unique words and only has a substantial frequency for less than 200 of these words.
+        only has about 3,200 unique words and only has a substantial frequency for only about 200 of these words.
       </p>
       <p>
         You will need to install the R <code>showtext</code> package to properly display Chinese text on R generated graphics.
@@ -500,7 +500,7 @@
       </p>
       <p>
         The <code>length()</code> function gives the number of items in the data set, which shows that there
-        are only 1,646 unique words in the tagged corpus. ▢
+        are only 3,200 unique words in the tagged corpus. ▢
       </p>
       <p>
         The <strong>joint probability function</strong> of two random variables X and Y is 
@@ -2470,7 +2470,7 @@
           Pulleyblank, Edwin G. <i>Outline of Classical Chinese Grammar</i>. Vancouver: UBC Press, 1995.
         </li>
         <li>
-          Manning, Christopher D. and Schütze, Hinrich</i>Foundations of Statistical Natural Language Processing. Cambridge</i>, Mass: MIT Press, 1999.
+          Manning, Christopher D. and Schütze, Hinrich. <i>Foundations of Statistical Natural Language Processing. Cambridge</i>, Mass: MIT Press, 1999.
         </li>
         <li>
           Yau, Chi. <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>. Self, 2014. 
@@ -2482,10 +2482,10 @@
         </li>
       <hr/>
       <p>
-        Copyright Nan Tien Institute 2013 - 2014, 
+        Copyright Nan Tien Institute 2013 - 2015, 
         <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
-      <p>This page was last updated on December 13, 2014.</p>
+      <p>This page was last updated on January 31, 2015.</p>
      </div>
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>

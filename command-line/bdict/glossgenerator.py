@@ -105,8 +105,8 @@ class GlossGenerator:
                     markup += self._Phrase(element, entry)
                 else: # Word
                     elem_markup = self._Word(element, entry, previous)
-                    if element == u'長者':
-                        print('GenerateDoc: previous = %s, elem_markup = %s' % (previous, elem_markup))
+                    #if element == u'長者':
+                        #print('GenerateDoc: previous = %s, elem_markup = %s' % (previous, elem_markup))
                     markup += elem_markup
                     previous = entry['traditional']
             else:

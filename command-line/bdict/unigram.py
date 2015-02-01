@@ -111,9 +111,9 @@ class UnigramTagger:
         if (traditional in self.wfreq):
             # Most frequently occuring is at the head of the list
             wf_entry = self.wfreq[traditional][0]
-            if traditional == u'長者':
-                print('unigram.MostFrequentWord traditional = %s, wf_entry = %s' % 
-                      (traditional, wf_entry['word_id']))
+            #if traditional == u'長者':
+                #print('unigram.MostFrequentWord traditional = %s, wf_entry = %s' % 
+                      #(traditional, wf_entry['word_id']))
             word_id = wf_entry['word_id']
             # print('%s looking for word id %s' % (traditional, word_id))
             if word_id != word_entry['id']:
@@ -123,8 +123,8 @@ class UnigramTagger:
                         word_entry = w_entry
                         break
         else:
-            if traditional == u'長者':
-                print('unigram.MostFrequentWord traditional is not in self.wfreq')
+            #if traditional == u'長者':
+                #print('unigram.MostFrequentWord traditional is not in self.wfreq')
             pass
         return word_entry
 
