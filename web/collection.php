@@ -84,7 +84,7 @@
       </table>
       <hr/>
       <p>
-        Copyright Nan Tien Institute 2013 - 2014, <a href="http://www.nantien.edu.au/" 
+        Copyright Nan Tien Institute 2013 - 2015, <a href="http://www.nantien.edu.au/" 
         title="Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
       <p>This page was last updated on December 13, 2014.</p>

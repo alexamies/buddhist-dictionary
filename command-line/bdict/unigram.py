@@ -105,7 +105,7 @@ class UnigramTagger:
           A dictionary word entry or None
         """
         if traditional not in self.wdict:
-            print('%s has no entry in the word dictionary' % traditional)
+            #print('%s has no entry in the word dictionary' % traditional)
             return None
         word_entry = self.wdict[traditional]
         if (traditional in self.wfreq):
