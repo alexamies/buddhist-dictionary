@@ -26,9 +26,11 @@
 ,
 {"doc_type": "Collection","source_name": "Sumati Sūtra 妙慧童女經","reference": "T 12 336","language": "Chinese","start": "","charset": "Traditional","uri": "sumati","period": "Tang","translator": "Bodhiruci","source": "Taishō Tripiṭaka","genre": "Mahāyāna","type": "collection","id": "14"}
 ,
-{"doc_type": "Historic Doc.","source_name": "Record of Buddhistic Kingdoms 佛國記","description": "Chinese and English texts for the records of the travels of the monk Faxian","language": "Chinese","start": "自發跡長安至度蔥嶺","gloss_file": "foguoji-gloss.html","charset": "Traditional","plain_text": "foguoji.txt","uri": "corpus_entry.php?uri=gloss/foguoji-gloss.html&html=true","period": "339-420","source": "Wiki Source","genre": "Historic Doc.","end": "本作品在全世界","type": "file","id": "15","analysis_file": "foguoji-analysis.md"}
+{"doc_type": "Historic Doc.","source_name": "Record of Buddhistic Kingdoms 佛國記","description": "Chinese and English texts for the records of the travels of the monk Faxian","language": "Chinese","start": "自發跡長安至度蔥嶺","gloss_file": "foguoji-gloss.html","charset": "Traditional","plain_text": "foguoji.txt","uri": "corpus_entry.php?uri=gloss/foguoji-gloss.html&html=true","period": "339-420","source": "Wiki Source","pos_tagged": "foguoji-tagged.txt","genre": "Historic Doc.","end": "本作品在全世界","type": "file","id": "15","analysis_file": "foguoji-analysis.md"}
 ,
 {"doc_type": "Collection","source_name": "Chinese History 中國歷史","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "chinesehistory","translator": "Various","source": "Various","genre": "Various","type": "collection","id": "16","gloss_file": "Various scrolls from Chinese official histories"}
 ,
-{"doc_type": "Collection","source_name": "Linguistics 語言學","language": "Chinese","start": "","charset": "Traditional","uri": "linguistics","period": "Modern","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "17"}
+{"doc_type": "Collection","source_name": "Chinese Buddhism 中國佛教","language": "Chinese","start": "","charset": "Traditional","uri": "chinesebuddhism","period": "Various","translator": "Various","source": "Various","genre": "Buddhism","type": "collection","id": "17"}
+,
+{"doc_type": "Collection","source_name": "Linguistics 語言學","language": "Chinese","start": "","charset": "Traditional","uri": "linguistics","period": "Modern","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "18"}
 ]
