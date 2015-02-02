@@ -16,3 +16,5 @@ Translator: Jñānagupta
 Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web site")
 
 Document at CBETA: [Universal Gate Sūtra Chinese Text] (http://www.cbeta.org/result/normal/T09/0262_007.htm "Universal Gate Sūtra Chinese Text")
+
+Lotus Sutra English text:  [Translated By H. Kern (1884)] (http://www.sacred-texts.com/bud/lotus/index.htm "Translated By H. Kern (1884)")
