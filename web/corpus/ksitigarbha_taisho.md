@@ -8,6 +8,8 @@ HTML with English gloss: [HTML file] (corpus_entry.php?uri=gloss/ksitigarbha_tai
 
 Analysis: [Vocabulary analysis] (corpus_entry.php?uri=analysis/ksitigarbha_taisho-analysis.md "Vocabulary analysis")
 
+Collection: [List of files] (collection.php?colname=ksitigarbha "List of files")
+
 Character Set: Traditional Chinese
 
 Translator: Śiksānanda
@@ -16,5 +18,5 @@ Source: [CBETA Chinese Electronic Tripitaka] (http://www.cbeta.org "CBETA web si
 
 Document: [CBETA Sūtra Text] (http://www.cbeta.org/result/T13/T13n0412.htm "CBETA Sūtra Text") 
 
-English	translation and commentary (this site): [Sūtra of the Great Vow of Ksitigarbha Bodhisattva English] (/buddhism_dizang.html "Sūtra of the Great Vow of Ksitigarbha Bodhisattva English")
+English	translation and commentary (this site) by Alex Amies 2013.
 
