@@ -33,4 +33,6 @@
 {"doc_type": "Collection","source_name": "Chinese Buddhism 中國佛教","language": "Chinese","start": "","charset": "Traditional","uri": "chinesebuddhism","period": "Various","translator": "Various","source": "Various","genre": "Chinese Buddhism","type": "collection","id": "17"}
 ,
 {"doc_type": "Collection","source_name": "Linguistics 語言學","language": "Chinese","start": "","charset": "Traditional","uri": "linguistics","period": "Modern","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "18"}
+,
+{"doc_type": "Collection","source_name": "Meditation 冥想","language": "Chinese","start": "","charset": "Traditional","uri": "meditation","period": "Modern","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "19"}
 ]
