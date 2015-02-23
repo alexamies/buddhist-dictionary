@@ -1,4 +1,4 @@
-## A Record of the Buddhist Religion: As Practised in India and the Malay Archipelago Scroll 1 南海寄歸內法傳卷第二
+## A Record of the Buddhist Religion: As Practised in India and the Malay Archipelago Scroll 2 南海寄歸內法傳卷第二
 
 Description: The second of four scrolls by the Chinese monk Yi Jing (635–713) describing his travels to Indonesia and India
 

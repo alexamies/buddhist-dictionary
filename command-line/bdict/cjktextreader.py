@@ -58,7 +58,7 @@ class CJKTextReader:
             if not os.path.isfile(fullpath):
                 raise app_exceptions.BDictException('%s is not a file' % infile)
             with codecs.open(fullpath, 'r', "utf-8") as f:
-                # print('Reading input file %s ' % fullpath)
+                print('Reading input file %s ' % fullpath)
                 for line in f:
                     lines.append(line)
         else:
