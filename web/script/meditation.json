@@ -7,4 +7,6 @@
 {"doc_type": "Article","source_name": "Vipassanā 觀","description": "Vocabulary analysis of Wikipedia article in modern Chinese","language": "Chinese","start": "觀","charset": "Traditional","plain_text": "vipassana-wikipedia.txt","uri": "corpus_entry.php?uri=vipassana-wikipedia.md","period": "Modern","translator": "Wikipedia","source": "Wikipedia","genre": "Meditation","end": "本站","type": "file","id": "04","analysis_file": "vipassana-wikipedia-analysis.md"}
 ,
 {"doc_type": "Article","source_name": "Mind 心靈","description": "Vocabulary analysis of Wikipedia article in modern Chinese","language": "Chinese","start": "觀","charset": "Traditional","plain_text": "mind-wikipedia.txt","uri": "corpus_entry.php?uri=mind-wikipedia.md","period": "Modern","translator": "Wikipedia","source": "Wikipedia","genre": "Meditation","end": "本站","type": "file","id": "05","analysis_file": "mind-wikipedia-analysis.md"}
+,
+{"doc_type": "Article","source_name": "Emotion 情緒","description": "Vocabulary analysis of Wikipedia article in modern Chinese","language": "Chinese","start": "觀","charset": "Traditional","plain_text": "emotion-wikipedia.txt","uri": "corpus_entry.php?uri=emotion-wikipedia.md","period": "Modern","translator": "Wikipedia","source": "Wikipedia","genre": "Meditation","end": "本站","type": "file","id": "06","analysis_file": "emotion-wikipedia-analysis.md"}
 ]
