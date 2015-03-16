@@ -12,12 +12,12 @@ Character Set: Traditional Chinese
 
 Source: [Chinese Text Project] (http://ctext.org "Chinese Text Project")
 
-Reference: Notes on the Water Classic
+Reference: Wiki Source
 
-Attributed to: Li Daoyuan
+Attributed to: Wang Dayuan 汪大渊
 
-Document: [Document at the Chinese Text Project] (http://ctext.org/text.pl?node=570346&if=en "Document at the Chinese Text Project")
+Document: [Document at Wiki Source] (http://zh.wikisource.org/zh-hant/島夷誌略 "Document at Wiki Source")
 
 English translations: None
 
-Modern Chinese Commentary: Wang Dayuan, and Su Jiqing. Dao Yi Zhi Lue 島夷誌略校釋. Beijing: Zhong Hua Shu Ju, 2009.
+Modern Chinese Commentary: Wang Dayuan, and Su Jiqing. Dao Yi Zhi Lue Explanatory Notes 島夷誌略校釋. Beijing: Zhong Hua Shu Ju, 2009.
