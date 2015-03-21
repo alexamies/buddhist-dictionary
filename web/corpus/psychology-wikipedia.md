@@ -1,6 +1,6 @@
 ## Psychology 心理學
 
-Description: Wikipedia article in modern Chinese
+Description: Wikipedia articles in modern Chinese on psychology, psychoanalysis, and Sigmund Freud
 
 Period: Modern
 
@@ -16,8 +16,14 @@ Reference: None
 
 Attributed to: Wikipedia
 
-Document: [Document at Wikipedia] (Source: Source: http://zh.wikipedia.org/wiki/心理学 "Document at Wikipedia")
+Chinese Documents at Wikipedia: 
+[Psychology] (Source: Source: http://zh.wikipedia.org/wiki/心理学 "Psychology")
+[Psychoanalysis] (Source: Source: http://zh.wikipedia.org/wiki/精神分析学 "Psychoanalysis")
+[Sigmund Freud] (Source: Source: http://zh.wikipedia.org/wiki/西格蒙德·弗洛伊德 "Sigmund Freud")
 
-English verion: [English Document at Wikipedia] (http://en.wikipedia.org/wiki/Psychology "English Document at Wikipedia")
+English verions at Wikipedia: 
+[Psychology] (http://en.wikipedia.org/wiki/Psychology "Psychology")
+[Psychoanalysis] (http://en.wikipedia.org/wiki/Psychoanalysis "Psychoanalysis")
+[Sigmund Freud] (https://en.wikipedia.org/wiki/Sigmund_Freud "Sigmund Freud")
 
 Notes: The English and Chinese versions are not direct translations in either direction, although the content is similar.
