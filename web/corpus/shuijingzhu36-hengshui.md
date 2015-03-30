@@ -20,6 +20,11 @@ Document: [Document at the Chinese Text Project] (http://ctext.org/text.pl?node=
 
 English translations: None
 
+There is an extensive discussion of Linyi, the historic kingdom in present-day Vietnam. The text contains the following passage describing Linyi:
+
+The capital of Linyi is Puxi. There has been conflict for the control of Linyi. If one travels fourty li along the coast you will arrive at a place that is barren and desolate. This is the southern border with the Yuechang people. In the Qin and Han dynasties it was Xianglin County in Xiang Province.
+浦西，即林邑都也。治典沖，去海岸四十里，處荒流之徼表，國越裳之疆南，秦漢象郡之象林縣也。
+
 The text contains the following passage describing Nicobar Islands in the Adaman Sea:
 
 Records of Linyi say, ... Over the water to the southeast, travelling by ship, according to ship officers' oral account, ... The people are all naked. The men use bamboo tubes to cover their bodies and the women wear tree leaves. Outsiders call them wolf people. So, this place is called the Country of Naken People (Nicobar Islands).
