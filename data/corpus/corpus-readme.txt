@@ -70,7 +70,7 @@ plain_text: The plain text source document that the markdown is based on.
   Used for word frequency analysis. Could be a URL if the document is of type 'web'
 
 translator: The original translator that translated the document from Sanskrit 
-  or other language to Chinese (optional).
+  or other language to Chinese (optional) or author if it is an orginal Chinese work.
 
 reference: The reference in the Tripitaka, usually Taisho, including volume,
            number, and scroll (optional).

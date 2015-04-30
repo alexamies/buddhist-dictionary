@@ -29,7 +29,8 @@ class GlossGenerator:
     """Generates a document annotated with English gloss and other information.
    """
 
-    def __init__(self, output_type=HTML_TYPE, wholetext=False, charset='Traditional'):
+    def __init__(self, output_type=HTML_TYPE, wholetext=False, charset='Traditional',
+                 popover=False):
         """Constructor for GlossGenerator class.
 
         Args:
@@ -40,11 +41,15 @@ class GlossGenerator:
                      (default)
           charset: The character set that the source document is written
                    in, either 'Traditional' (default) or 'Simplified'
+          popover: Use HTML popover style instead of hyperlinks (default: False)
         """
         manager = configmanager.ConfigurationManager()
         self.config = manager.LoadConfig()
         self.output_type = output_type
         self.wholetext = wholetext
+        self.popover = popover
+        if popover:
+            self.wholetext = True
         self.tagger = postagger.POSTagger(charset=charset)
 
     def GenerateDoc(self, corpus_entry):
@@ -73,7 +78,7 @@ class GlossGenerator:
             markup += self._Paragraph('Reference: %s\n' % reference)
         if 'translator' in corpus_entry:
             translator = corpus_entry['translator']
-            markup += self._Paragraph('Translator: %s' % translator)
+            markup += self._Paragraph('Written / Translated by: %s' % translator)
         if 'plain_text' in corpus_entry:
             plain_text = corpus_entry['plain_text']
             # markup += self._Paragraph('Source document: %s' % plain_text)
@@ -196,6 +201,10 @@ class GlossGenerator:
                 text += '%s\n' % entry
             return text
         entry_id = phrase_entry['id']
+        if self.popover:
+            data = "%s<br/>%s" % (element_text, gloss)
+            return ('<span data-content="%s" class="dict-entry" data-toggle="popover"'
+                    '>%s</span>') % (data, element_text)
         url = 'phrase_detail.php?id=%s' % entry_id
         return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
 
@@ -243,6 +252,13 @@ class GlossGenerator:
         #    print('_Word element_text = %s, english = %s' % (element_text, entry['english']))
         #print('_Word entry_id = %s' % entry_id)
         url = 'word_detail.php?id=%s' % entry_id
+        if self.popover:
+            notes = ''
+            if 'notes' in entry:
+                notes = "Notes: %s" % entry['notes']
+            data = "%s<br/>%s<br/>%s" % (element_text, gloss, notes)
+            return ('<span data-content="%s" class="dict-entry" data-toggle="popover"'
+                    '>%s</span>') % (data, element_text)
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)
 
 

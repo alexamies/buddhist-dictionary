@@ -67,3 +67,7 @@ td {
 span.cursive {
     font-family: cursive;
 }
+
+span.dict-entry:hover {
+    background-color: silver;
+}

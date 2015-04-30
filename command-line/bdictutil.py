@@ -121,8 +121,11 @@ def main():
         doc_num = int(sys.argv[2])
         cmanager = corpusmanager.CorpusManager()
         wholetext = False
+        popover = False
         if len(sys.argv) > 3:
             wholetext = sys.argv[3] == '--wholetext'
+        if len(sys.argv) > 3:
+            popover = sys.argv[3] == '--popover'
         print('Reading doc %d, whole text: %s' % (doc_num, wholetext))
         collection_file = GetCollectionFile(sys.argv)
         corpus = cmanager.LoadCorpus(collection_file)
@@ -137,7 +140,8 @@ def main():
             generator = sanskritglossgenerator.GlossGenerator()
         elif language == 'Chinese':
             generator = glossgenerator.GlossGenerator(wholetext=wholetext, 
-                                                      charset=corpus_entry['charset'])
+                                                      charset=corpus_entry['charset'],
+                                                      popover=popover)
         filename = generator.WriteDoc(corpus_entry)
         print('Wrote output to file %s' % filename)
     elif command == 'generatejson':
