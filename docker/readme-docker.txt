@@ -7,8 +7,8 @@
 # (1) Install git on the host and checkout the code base
 sudo apt-get update
 sudo apt-get install -y git
-git clone git://github.com/alexamies/buddhist-dictionary $HOME/ntireader
-cd $HOME/ntireader/docker
+git clone git://github.com/alexamies/buddhist-dictionary $NTI_HOME/ntireader
+cd $NTI_HOME/ntireader/docker
 
 # (2) Database
 sudo docker run --name db -p 3306:3306 -e MYSQL_ROOT_PASSWORD=admin -d mysql
