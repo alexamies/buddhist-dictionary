@@ -12,7 +12,7 @@ sudo mount -a
 ## NTI Reader Files
 -- Substitute for your own location and user name
 export NTI_HOME=/disk1
-sudo /disk1/ntireader
+sudo cd /disk1/ntireader
 sudo chown alex:alex /disk1/ntireader
 sudo apt-get install -y git
 git clone git://github.com/alexamies/buddhist-dictionary $NTI_HOME/ntireader
