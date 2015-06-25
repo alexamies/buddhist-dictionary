@@ -1,4 +1,4 @@
-##  Humanistic Buddhism Training of Meditative Concentration 人間佛教的定學
+##  Humanistic Buddhism and the Study of Meditative Concentration 人間佛教的定學
 
 Description: Lecture by Venerable Master Hsing Yun
 
@@ -21,4 +21,4 @@ Compiled by: Fo Guang Shan Information Center 佛光山資訊中心
 Document: [Document] (http://www.masterhsingyun.org/article/article.jsp?index=2&item=32&bookid=2c907d4945216fae01454ea67d550275&ch=1&se=3&f=1 "Document at masterhsingyun.org")
 Follow links 人間佛教論文集 | 人間佛教的定學
 
-English	translation: Hsing Yun 2010, For all living beings: A guide to Buddhist practice. Buddha’s Light Pub, Los Angeles, California. ISBN 9781932293401.
+English	translation: Hsing Yun 2010, For all living beings: A guide to Buddhist practice. Buddha’s Light Pub, Los Angeles, California, pp. 47-102.
