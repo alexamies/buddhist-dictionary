@@ -2,8 +2,8 @@
   // A page to display a corpus entry based in mark down or plain text.
 require_once 'inc/markdown.php';
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -86,17 +86,8 @@ if (isset($text)) {
         the <a href="http://www.cbeta.org/copyright_e.htm">CBETA Copyright</a> conditions.
       </p>
     </div>
-    <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-    <script type="text/javascript">
-      $(function () {
-        $('.dict-entry').tooltip();
-        $('.dict-entry').popover({
-          trigger: 'click',
-          html: true
-         });
-        $('.dict-entry').on('click', function(e) {e.preventDefault(); return true;});
-      });
-    </script>
+    <script type="text/javascript" src="script/popover.js"></script>
   </body>
 </html>
