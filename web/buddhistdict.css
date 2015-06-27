@@ -68,6 +68,8 @@ span.cursive {
     font-family: cursive;
 }
 
+/* Popover */
 span.dict-entry:hover {
+    text-decoration: underline;
     background-color: silver;
 }

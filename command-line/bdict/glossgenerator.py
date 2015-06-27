@@ -50,6 +50,8 @@ class GlossGenerator:
         self.popover = popover
         if popover:
             self.wholetext = True
+            self._words = {}
+            self._phrases = {}
         self.tagger = postagger.POSTagger(charset=charset)
 
     def GenerateDoc(self, corpus_entry):
@@ -162,6 +164,7 @@ class GlossGenerator:
         markup = self.GenerateDoc(corpus_entry)
         with codecs.open(outfile, 'w', "utf-8") as outf:
             outf.write(markup)
+            outf.write(self._Vocabulary())
             outf.close()
         return outfile
 
@@ -202,9 +205,13 @@ class GlossGenerator:
             return text
         entry_id = phrase_entry['id']
         if self.popover:
-            data = "%s<br/>%s" % (element_text, gloss)
-            return ('<span data-content="%s" class="dict-entry" data-toggle="popover"'
-                    '>%s</span>') % (data, element_text)
+            glossrep = gloss.replace("<", "&lt;");
+            glossrep = glossrep.replace(">", "&gt;");
+            data = ('{"element_text":"%s","gloss": "%s"}') % (
+                    element_text, glossrep)
+            self._phrases[entry_id] = data
+            return ('<span phrase_id="%s" class="dict-entry" data-toggle="popover"'
+                    ' title="%s">%s</span>') % (entry_id, element_text, element_text)
         url = 'phrase_detail.php?id=%s' % entry_id
         return '<a href="%s" \n title="%s">%s</a>' % (url, gloss, element_text)
 
@@ -236,6 +243,21 @@ class GlossGenerator:
             return ''
         return '<br/><p>Page last updated on %s.</p>\n' % date.isoformat(date.today())
 
+    def _Vocabulary(self,):
+        """Generates output JSON for document vocabulary
+        """
+        wordsjson = 'words = {'
+        for key in self._words.keys():
+          data = self._words[key]
+          wordsjson += '"%s": %s,\n' % (key, data)
+        wordsjson += '};'
+        phrasesjson = 'phrases = {'
+        for k in self._phrases.keys():
+          data = self._phrases[k]
+          phrasesjson += '"%s": %s,\n' % (k, data)
+        phrasesjson += '};'
+        return '<script>\n%s\n%s\n</script>' % (wordsjson, phrasesjson)
+
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
         """
@@ -253,12 +275,16 @@ class GlossGenerator:
         #print('_Word entry_id = %s' % entry_id)
         url = 'word_detail.php?id=%s' % entry_id
         if self.popover:
+            pinyin = entry['pinyin']
+            english = entry['english']
             notes = ''
             if 'notes' in entry:
                 notes = "Notes: %s" % entry['notes']
-            data = "%s<br/>%s<br/>%s" % (element_text, gloss, notes)
-            return ('<span data-content="%s" class="dict-entry" data-toggle="popover"'
-                    '>%s</span>') % (data, element_text)
+            data = '{"element_text":"%s","pinyin": "%s", "english": "%s", "notes": "%s"}' % (
+                    element_text, pinyin, english, notes)
+            self._words[entry_id] = data
+            return ('<span word_id="%s" class="dict-entry" data-toggle="popover"'
+                    ' title="%s">%s</span>') % (entry_id, element_text, element_text)
         return '<a href="%s" title="%s">%s</a>' % (url, gloss, element_text)
 
 
