@@ -39,6 +39,8 @@ class ChineseEnglishDict:
                     entry['pinyin'] = fields[3]
                     entry['english'] = fields[4]
                     entry['grammar'] = fields[5]
+                    if fields and len(fields) >= 15 and fields[14] != '\\N':
+                        entry['notes'] = fields[14]
                     traditional = entry['traditional']
                     key = entry['simplified']
                     if traditional != '\\N' and charset == 'Traditional':

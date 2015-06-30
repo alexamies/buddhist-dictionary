@@ -164,7 +164,8 @@ class GlossGenerator:
         markup = self.GenerateDoc(corpus_entry)
         with codecs.open(outfile, 'w', "utf-8") as outf:
             outf.write(markup)
-            outf.write(self._Vocabulary())
+            if self.popover:
+                outf.write(self._Vocabulary())
             outf.close()
         return outfile
 
@@ -256,7 +257,7 @@ class GlossGenerator:
           data = self._phrases[k]
           phrasesjson += '"%s": %s,\n' % (k, data)
         phrasesjson += '};'
-        return '<script>\n%s\n%s\n</script>' % (wordsjson, phrasesjson)
+        return '<script>\n%s\n%s\n</script>\n' % (wordsjson, phrasesjson)
 
     def _Word(self, element_text, entry, previous=None):
         """Generates output text formatted for a word.
