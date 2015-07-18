@@ -118,6 +118,7 @@
             </ul>
           </li>
           <li><a href="#simulation">Simulation</a></li>
+          <li><a href="#information">Information Theory</a></li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
@@ -682,15 +683,15 @@
       <h4><a name="entropy"></a>Entropy</h4>
       <p>
         <strong>Entropy</strong> is a measure of the amount of information in a distribution.
-        Entropy is defined as
+        The entropy H(X) of a discrete random variable X is defined as
       </p>
       <p class='formula'>
         H(X) = -∑<sub>x∈<span class="cursive">X</span></sub>p(x)log<sub>2</sub>p(x)
       </p>
       <p>
         where x is a value of the random variable X, which is one of a number of symbols in an 
-        alphabet <span class="cursive">X</span>.
-        (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 61)
+        alphabet <span class="cursive">X</span>. Entropy is measured in bits.
+        (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 61; Cover and Thomas. <i>Elements of Information Theory</i>, 2012, ch. 2.1)
         For example, the possible values for X are the values in an 8 letter alphabet, each with equally likely 
         probability of occuring, then the entropy is 
       </p>
@@ -2445,6 +2446,74 @@
         <img src="images/stats_random_normal.png"/><br/>
         Figure 14: Histogram of Random Values from a Standard Normal Distribution
       </p>
+      <h3><a name="information"></a>Information Theory</h3>
+      <p>
+        Information theory has arisen from communications theory in electrical engineering in connection with the study of transmission rates and error correction. (Cover and Thomas, 2012, ch. 1) It was later expanded to areas of computer science, such as data compression and data storage. The definition of entropy above can be used as a basis for many other definitions that parallel concepts in probability and statistics. Some of these are described here.
+      </p>
+      <p>
+        The <strong>joint entropy</strong> H(X, Y) of a pair of random variables is defined as
+      </p>
+      <p class='formula'>
+         H(X, Y) = -∑<sub>x∈X</sub>∑<sub>y∈Y</sub>p(x, y) log(p(x, y))
+      </p>
+      <p>
+        where (X, Y) is a pair of discrete random variables with probability distribution p(x, y). (Cover and Thomas, 2012, ch. 2.2)
+      </p>
+      <p>
+        The <strong>conditional entropy</strong> H(X|Y) is defined as 
+      </p>
+      <p class='formula'>
+         H(X|Y) = -∑<sub>x∈X</sub>H(Y|X=x) = -∑<sub>x∈X</sub>∑<sub>y∈Y</sub>p(x, y) log(p(y|x))
+      </p>
+      <p>
+        where (X, Y) is a pair of discrete random variables. (Cover and Thomas, 2012, ch. 2.2)
+      </p>
+      <p>
+        The <strong>chain rule</strong> for entropy is
+      </p>
+      <p class='formula'>
+         H(X, Y) = H(X) + H(Y|X)
+      </p>
+      <p>
+        Described in words, the entropy of a pair of random variables is the sum of the entropy of one random variable and the conditional entropy of the other. (Cover and Thomas, 2012, ch. 2.2)
+      </p>
+      <p>
+        <strong>Relative entropy</strong> D(p||q) is a measure of the distance between the distributions of random variables p and q. In symbols, it is defined as
+      </p>
+      <p class='formula'>
+         D(p||q) = ∑<sub>x∈X</sub>p(x) log(p(x)/q(x))
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.3)
+      </p>
+      <p>
+        The <strong>mutual information</strong> I(X; Y) for two discrete random variables X and Y with joint distribution p(x, y) is defined as the relative entropy between the joint distribution and the product of the marginal distributions p(x)p(y)
+      </p>
+      <p class='formula'>
+         I(X; Y) = -∑<sub>x∈X</sub>∑<sub>y∈Y</sub>p(x, y) log(p(y, x)/[p(x)p(y)])
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.3)
+      </p>
+      <p>
+        The relationship between mutual information and entropy is 
+      </p>
+      <p class='formula'>
+         I(X; Y) = H(X) - H(X|Y)
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.3)
+      </p>
+      <p>
+        The concept of convex functions is important in many proofs in information theory.
+        A function f(x) is convex of interval (a, b) if for every pair points x<sub>1</sub>, x<sub>2</sub> in the interval and for 0 ≤ λ ≤ 1, the following condition holds
+      </p>
+      <p class='formula'>
+         f(λx<sub>1</sub> + (1-λ)x<sub>2</sub>) ≤ λx<sub>1</sub> + (1-λ)x<sub>2</sub>
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.6)
+      </p>
       <h3><a name="references"></a>References</h3>
       <ol>
         <li>
@@ -2453,6 +2522,9 @@
         </li>
         <li>
           Bird, Steven, Ewan Klein, and Edward Loper. <i>Natural Language Processing with Python</i>. O’Reilly Media, Inc., 2009.
+        </li>
+        <li>
+          Cover, Thomas M, and Joy A Thomas. 2012. Elements of Information Theory. New York, NY: John Wiley &amp; Sons.
         </li>
         <li>
           Forbes, J. D. “Further Experiments and Remarks on the Measurement of Heights by the Boiling Point of Water.” Transactions of the Royal Society of Edinburgh 21 (1857): 135–43.
