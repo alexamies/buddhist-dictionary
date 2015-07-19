@@ -118,7 +118,13 @@
             </ul>
           </li>
           <li><a href="#simulation">Simulation</a></li>
-          <li><a href="#information">Information Theory</a></li>
+          <li>
+            <a href="#information">Information Theory</a>
+            <ul>
+              <li><a href="#information_concepts">Concepts</a></li>
+              <li><a href="#asymptotic_equipartition">Asymptotic Equipartition Property</a></li>
+            </ul>
+          </li>
           <li><a href="#references">References</a></li>
         </ul>
       </p>
@@ -2448,8 +2454,11 @@
       </p>
       <h3><a name="information"></a>Information Theory</h3>
       <p>
-        Information theory has arisen from communications theory in electrical engineering in connection with the study of transmission rates and error correction. (Cover and Thomas, 2012, ch. 1) It was later expanded to areas of computer science, such as data compression and data storage. The definition of entropy above can be used as a basis for many other definitions that parallel concepts in probability and statistics. Some of these are described here.
+        Information theory has arisen from communications theory in electrical engineering in connection with the study of transmission rates and error correction. (Cover and Thomas, 2012, ch. 1) 
+        Information theory was first formulated in its present form by Shannon in the 1940's. (Cover and Thomas, 2012, ch. 2)
+        It was later expanded to areas of computer science, such as data compression and data storage. Information theory concepts have since spread back into statistics and other fields like economics and physics. The definition of entropy above can be used as a basis for many other definitions that parallel concepts in probability and statistics. Some of these are described here.
       </p>
+      <h4><a name="information_concepts"></a>Concepts</h4>
       <p>
         The <strong>joint entropy</strong> H(X, Y) of a pair of random variables is defined as
       </p>
@@ -2513,6 +2522,82 @@
       </p>
       <p>
         (Cover and Thomas, 2012, ch. 2.6)
+      </p>
+      <p>
+        Markov chains, introduced above, are useful in information theory. 
+        Random variables X, Y, and Z form a <strong>Markov chain</strong> X → Y → Z if the joint probability function is        
+      </p>
+      <p class='formula'>
+         p(x, y, z) = p(x)px(y|x)p(z|y)
+      </p>
+      <p>
+        In words, this means that no manipulation of Y can increase the information that it contains about X.
+        (Cover and Thomas, 2012, ch. 2.8)
+      </p>
+      <p>
+        The <strong>Data-processing inequality</strong> theorem states that, if X → Y → Z form a Markov chain then
+      </p>
+      <p class='formula'>
+        I(X; Y) ≥ I(X; Z)
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.8)
+      </p>
+      <p>
+        As explained above, a statistic is a function of a set of random variables.
+        A <strong>sufficient statistic</strong> T(X) contains all the information in X about ϴ.
+        In symbols, a sufficient statistic is a function T(X) relative to a family of probability functions
+        {f<sub>ϴ</sub>(x)} parameterized by ϴ, if X is independent of ϴ for any distribution of ϴ, given T(X). 
+        In this case, ϴ → T(X) → X is a Markov chain.
+        This is the case of equality in the data-processing inequality theorem:
+      </p>
+      <p class='formula'>
+        I(ϴ; X) = I(ϴ; T(X))
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.9)
+      </p>
+      <p>
+        T(X) is a <strong>minimally sufficient statistic</strong> if it is a function of every other statistic.
+        In this case, ϴ → T(X) → U(X) → X is a Markov chain.
+      </p>
+      <p class='formula'>
+        I(ϴ; X) = I(ϴ; T(X))
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.9)
+      </p>
+      <h4><a name="asymptotic_equipartition"></a>Asymptotic Equipartition Property</h4>
+      <p>
+        The <strong>asymptotic equipartition property</strong> (AEP) states that, 
+        if X<sub>1</sub>, X<sub>2</sub>, ... are independent and identicially distributed with
+        probability density function p(x) then
+      </p>
+      <p class='formula'>
+        -(1/n) log p(X<sub>1</sub>, X<sub>2</sub>, ... , X<sub>n</sub>) → H(X)
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 3.1)
+        The AEP is analogous the law of large numbers in statistics.
+        Here the symbol → means <strong>convergence of random variables</strong>. 
+        A sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... converges to a random variable X if 
+        Pr{lim<sub>n→∞</sub>X<sub>n</sub> = X} = 1.
+      </p>
+      <p>
+        A <strong>typical set</strong> A<sup>(n)</sup> with respect to probability density function p(x)
+        is the set of sequences (x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>) with the property
+      </p>
+      <p class='formula'>
+        2<sup>-n(H(X)+ε)</sup> ≤ p(x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>) ≤ 2<sup>-n(H(X)-ε)</sup>
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 3.1)
+      </p>
+      <p>
+        By partitioning a set of strings into a typical set and a non-typical set and representing the strings by 
+        an integer index, for a large number of elements n, the expected number of bits needed to represent the set is 
+        nH(X).
+        (Cover and Thomas, 2012, ch. 3.2)
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
