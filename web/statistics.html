@@ -123,6 +123,7 @@
             <ul>
               <li><a href="#information_concepts">Concepts</a></li>
               <li><a href="#asymptotic_equipartition">Asymptotic Equipartition Property</a></li>
+              <li><a href="#compression">Data Compression</a></li>
             </ul>
           </li>
           <li><a href="#references">References</a></li>
@@ -2599,6 +2600,40 @@
         an integer index, for a large number of elements n, the expected number of bits needed to represent the set is 
         nH(X).
         (Cover and Thomas, 2012, ch. 3.2)
+      </p>
+      <h4><a name="compression"></a>Data Compression</h4>
+      <p>
+        A <strong>source code</strong> for a random variable is a mapping from the range of the random variable
+        to a set of finite length strings of symbols in an alphabet. Here the source code is givne the symbol C,
+        the random variable X, the arity of the alphabet is D, C(x) is the codeword for the value x of the 
+        random variable X, D<sup>*</sup> is the set of symbols C(X), and l(x) is the length of C(x). 
+        The <strong>expected length</strong> L(C) of a source code is 
+      </p>
+      <p class='formula'>
+        L(C) = ∑<sub>x∈X</sub> p(x)l(x)
+      </p>
+      <p>
+        For example, if X is a random variable with x ∈ {1, 2, 3, 4}, and D = {0, 1}, then a possible source code
+        is C(1) = 0, C(2) = 10, C(3) = 110, C(4) = 111.
+        A code is <strong>nonsingular</strong> is every element of X maps to a different string in D<sup>*</sup>.
+        The example just given is nonsingular because each of the C(X) is different.
+        (Cover and Thomas, 2012, ch. 5.1)
+      </p>
+      <p>
+        The <string>extension of a source code</strong> is the set of strings C(X) concatenated together.
+        In symbols, the extension C<sup>*</sup> is the set of strings 
+      </p>
+      <p class='formula'>
+        C(x<sub>1</sub>)C(x<sub>2</sub>) ... C(x<sub>n</sub>)
+      </p>
+      <p>
+        If the extension is nonsingular then it is referred to as <strong>uniquely decodable</strong>.
+        This is important because it means that a compressed file can be made up of concatenated symbols
+        without any separator between them.
+        The example above is uniquely decodable because no symbol is a prefix of any other symbol.
+        Such as source code is called a <strong>prefix code</strong> or an <strong>instantaneous code</strong>.
+        It does not need any lookahead to resolve ambiguity in the string of symbols.
+        (Cover and Thomas, 2012, ch. 5.1)
       </p>
       <h3><a name="references"></a>References</h3>
       <ol>
