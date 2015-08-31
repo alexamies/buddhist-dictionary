@@ -1024,6 +1024,10 @@
 周公旦	周公	Also known as	\N
 杨贵妃	杨玉环	Also known as	\N
 杨玉环	杨贵妃	Also known as	\N
+杨贵妃	杨太真	Also known as	\N
+杨太真	杨贵妃	Also known as	\N
+杨玉环	杨太真	Also known as	\N
+杨太真	杨玉环	Also known as	\N
 维吾尔族	维吾尔	Abbreviation	\N
 维吾尔	维吾尔族	Full name	\N
 契丹国	辽朝	Also known as	\N
@@ -3385,3 +3389,7 @@
 李存勖	李存朂	Also known as	\N
 李存勗	李存勖	Also known as	\N
 李存勖	李存勗	Also known as	\N
+晏殊	宴殊	Also known as	\N
+宴殊	晏殊	Also known as	\N
+八股文	八股	Also known as	\N
+八股	八股文	Also known as	\N
