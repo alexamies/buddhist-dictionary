@@ -3003,6 +3003,8 @@
 中都	汗八里	Also known as	\N
 汗八里	北京	Present-day name	\N
 北京	汗八里	Former name	\N
+北平	北京	Present-day name	\N
+北京	北平	Former name	\N
 栄西	明菴栄西	Also known as	\N
 明菴栄西	栄西	Also known as	\N
 荣西	栄西	Japanese variant	\N
@@ -3399,3 +3401,17 @@
 毛传	毛诗诂训传	Also known as	\N
 阿毘达磨集异门足论	集异门足论	Also known as	\N
 异门足论	阿毘达磨集异门足论	Also known as	\N
+孔丘	孔子	Also known as	\N
+孔子	孔丘	Also known as	\N
+孔丘	孔夫子	Also known as	\N
+孔夫子	孔丘	Also known as	\N
+仲尼	孔子	Also known as	\N
+孔子	仲尼	Also known as	\N
+仲尼	孔丘	Also known as	\N
+孔丘	仲尼	Also known as	\N
+孔仲尼	孔子	Also known as	\N
+孔子	孔仲尼	Also known as	\N
+孔仲尼	孔丘	Also known as	\N
+孔丘	孔仲尼	Also known as	\N
+孔仲尼	仲尼	Also known as	\N
+仲尼	孔仲尼	Also known as	\N
