@@ -1,6 +1,6 @@
 [{"doc_type": "Sūtra","source_name": "Diamond Sūtra 金剛般若波羅蜜經","reference": "T 8 235","language": "Chinese","start": "","charset": "and Sanskrit","uri": "diamond","period": "334－413","translator": "Kumārajīva","source": "Taishō Tripiṭaka / Sanskrit Canon","genre": "Prajnaparamita","type": "collection","id": "1"}
 ,
-{"doc_type": "Sūtra","source_name": "Prajñāpāramitā Heart Sūtra 般若波羅蜜多心經","reference": "T 8 251","language": "Chinese","start": "觀自在菩薩行深","gloss_file": "heart-sutra-xuanzang-gloss.html","charset": "Traditional","plain_text": "heart-sutra-xuanzang.txt","uri": "corpus_entry.php?uri=gloss/heart-sutra-xuanzang-gloss.html&html=true","period": "602－664","translator": "Xuanzang","source": "Taishō Tripiṭaka","pos_tagged": "heart-sutra-xuanzang-tagged.txt","genre": "Prajnaparamita","end": "本網站係採用","type": "file","id": "2","analysis_file": "heart-sutra-xuanzang-analysis.md"}
+{"doc_type": "Sūtra","source_name": "Prajñāpāramitā Heart Sūtra 般若波羅蜜多心經","reference": "T 251","language": "Chinese","start": "觀自在菩薩行深","gloss_file": "heart-sutra-xuanzang-gloss.html","charset": "Traditional","plain_text": "heart-sutra-xuanzang.txt","uri": "corpus_entry.php?uri=gloss/heart-sutra-xuanzang-gloss.html&html=true","period": "602－664","translator": "Xuanzang","source": "Taishō Tripiṭaka","pos_tagged": "heart-sutra-xuanzang-tagged.txt","genre": "Prajnaparamita","end": "本網站係採用","type": "file","id": "2","analysis_file": "heart-sutra-xuanzang-analysis.md"}
 ,
 {"doc_type": "Sūtra","source_name": "Sūtra of the Great Vow of Kṣitigarbha Bodhisattva 地藏菩薩本願經","reference": "T 13 412","language": "Chinese","start": "","charset": "Traditional","uri": "ksitigarbha","period": "652－710","translator": "Śiksānanda","source": "Taishō Tripiṭaka","genre": "Mahāyāna","type": "collection","id": "3"}
 ,
@@ -30,15 +30,9 @@
 ,
 {"doc_type": "Historic Document","source_name": "A Record of the Buddhist Religion: As Practised in India and the Malay Archipelago 南海寄歸內法傳","reference": "T 54 2125","language": "Chinese","start": "","charset": "Traditional","uri": "yijing","period": "635–713","translator": "Yi Jing","source": "Taishō Tripiṭaka","genre": "Buddhist History","type": "collection","id": "16","description": "Chinese text for the records of the travels of the monk Yi Jing"}
 ,
-{"doc_type": "Collection","source_name": "Chinese History 中國歷史","reference": "Historic","language": "Chinese","start": "","charset": "Traditional","uri": "chinesehistory","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "17","gloss_file": "Various scrolls from Chinese official histories"}
+{"doc_type": "Sūtra","source_name": "Dharmacakrapravartana Sūtra 佛說轉法輪經","reference": "T 109","language": "Chinese","start": "佛說轉法輪經","gloss_file": "dharmacakrapravartana-gloss.html","charset": "Traditional","plain_text": "dharmacakrapravartana.txt","uri": "corpus_entry.php?uri=gloss/dharmacakrapravartana-gloss.html&html=true","period": "c. 168","translator": "An Shigao","source": "Taishō Tripiṭaka","genre": "Agama","end": "中華電子佛典協會","type": "file","id": "17","analysis_file": "dharmacakrapravartana-analysis.md"}
 ,
 {"doc_type": "Collection","source_name": "Chinese Buddhism 中國佛教","language": "Chinese","start": "","charset": "Traditional","uri": "chinesebuddhism","period": "Various","translator": "Various","source": "Various","genre": "Chinese Buddhism","type": "collection","id": "18"}
 ,
 {"doc_type": "Collection","source_name": "Humanistic Buddhism 人間佛教","language": "Chinese","start": "","charset": "Traditional","uri": "humanisticbuddhism","period": "Modern","translator": "Hsing Yun","source": "Humanistic Buddhism Collection","genre": "Humanistic Buddhism","type": "collection","id": "19"}
-,
-{"doc_type": "Collection","source_name": "Linguistics 語言學","language": "Chinese","start": "","charset": "Traditional","uri": "linguistics","period": "Modern","translator": "Various","source": "Various","genre": "Humanities","type": "collection","id": "20"}
-,
-{"doc_type": "Collection","source_name": "Meditation 冥想","language": "Chinese","start": "","charset": "Traditional","uri": "meditation","period": "Various","translator": "Various","source": "Various","genre": "Meditation","type": "collection","id": "21"}
-,
-{"doc_type": "Collection","source_name": "Geography 地理學","language": "Chinese","start": "","charset": "Traditional","uri": "geography","period": "Various","translator": "Various","source": "Various","genre": "Geography","type": "collection","id": "22"}
 ]
