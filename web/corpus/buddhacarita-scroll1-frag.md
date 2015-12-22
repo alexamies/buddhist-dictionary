@@ -16,7 +16,7 @@ Reference: Taisho Tripitaka Vol. 4, No. 192, p. 1, a21-c28
 
 Translator: Dharmakṣema
 
-Document: [Buddhacarita, Scroll 1] (tripitaka.cbeta.org/zh-cn/T04n0192_001 "Buddhacarita, Scroll 1")
+Document: [Buddhacarita, Scroll 1] (http://tripitaka.cbeta.org/zh-cn/T04n0192_001 "Buddhacarita, Scroll 1")
 
 English	translation: None
 
