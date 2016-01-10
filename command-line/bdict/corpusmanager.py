@@ -185,15 +185,13 @@ class CorpusManager:
 
         Only the entries with plain text files are printed because those are
         only files that the command line tool can operate on.
-
-        Args:
-            corpus: a list of corpus entries
         """
         corpus = self.LoadCorpus()
         print('Corpus entries with plain text files')
         for entry in corpus:
             if 'plain_text' in entry:
-                print('%s\t%s\t%s' % (entry['id'], entry['source_name'], entry['plain_text']))
+                print('%s\t%s\t%s' % (entry['id'], entry['source_name'],
+                      entry['plain_text']))
 
     def GenCorpusJSON(self, collection=WHOLE_COLLECTION):
         """Prints the corpus data out in json format.
@@ -231,3 +229,18 @@ class CorpusManager:
             f.write(']')
             f.close()
         return output_file
+
+def PrintCorpusEntry(entry):
+    """Prints the corpus entry to standard output.
+
+    Args:
+        corpus_entry: the corpus entry to print
+    """
+    print("CorpusManager.PrintCorpusEntry")
+    print("id:\t%s\nsource_name:\t%s\nplain_text:\t%s\ntype:\t%s\n"
+          "language:\t%s\ncharset:\t%s\ndoc_type:\t%s\nuri:\t%s\nsource:\t%s\n"
+          "start:\t%s\nend:\t%s\nplain_text:\t%s\n" %
+          (entry['id'], entry['source_name'], entry['plain_text'],
+           entry['type'], entry['language'], entry['charset'],
+           entry['doc_type'], entry['uri'], entry['source'], entry['start'],
+           entry['end'], entry['plain_text']))

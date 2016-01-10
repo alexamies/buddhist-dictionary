@@ -130,6 +130,7 @@ def main():
         collection_file = GetCollectionFile(sys.argv)
         corpus = cmanager.LoadCorpus(collection_file)
         corpus_entry = corpus[doc_num-1]
+        corpusmanager.PrintCorpusEntry(corpus_entry)
         language = corpus_entry['language']
         languages = ['Sanskrit', 'Chinese']
         if language not in languages:
