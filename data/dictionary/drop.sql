@@ -33,6 +33,5 @@ drop table authors;
 drop table licenses;
 drop table words;
 drop table topics;
-drop table hsk;
 drop table grammar;
 

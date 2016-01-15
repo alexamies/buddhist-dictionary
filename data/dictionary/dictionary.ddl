@@ -6,7 +6,7 @@
 /*
  * There are three dictionaries and related tables:
  *
- * words: A Chinese to English word dictionary. Tables include hsk, grammar,
+ * words: A Chinese to English word dictionary. Tables include grammar,
  *     topics, and words.
  *
  * characters: A character dictionary. Includes tables characters. Includes
@@ -31,6 +31,38 @@
 use cse_dict;
 
 /*
+ * Table for phonetics
+ * id       A unique id for the entry
+ * pinyin     Hanyu Pinyin with diacritics for tones
+ * tonenumbers    Hanyu Pinyin with numbers for tones
+ * notones      Hanyu Pinyin with no tones
+ * ipa        International Phonetic Alphabet symbols
+ * pronunciation  Type of pronunciation.  Standard Chinese assumed if null.
+ * initial      Initial part of the syllable (only if a single syllable)
+ * final      Final part of the syllable (only if a single syllable)
+ * nosyllables    Number of syllables (integer number)
+ * mp3        An mp3 recording of the sound
+ * notes      Commentary on the entry
+ */
+CREATE TABLE phonetics (
+  id INT UNSIGNED NOT NULL,
+  pinyin VARCHAR(125) NOT NULL,
+  tonenumbers VARCHAR(125) NOT NULL,
+  notones VARCHAR(125) NOT NULL,
+  ipa VARCHAR(125) NOT NULL,
+  pronunciation VARCHAR(125),
+  initial VARCHAR(125),
+  final VARCHAR(125),
+  nosyllables INT UNSIGNED NOT NULL,
+  mp3 VARCHAR(125),
+  notes TEXT,
+  PRIMARY KEY (id)
+  )
+  CHARACTER SET UTF8
+  COLLATE utf8_general_ci
+;
+
+/*
  * Table for grammar for Chinese words.
  *
  * Each word in the words table should have an entry that matches a record
@@ -39,22 +71,6 @@ use cse_dict;
 CREATE TABLE grammar (english VARCHAR(125) NOT NULL,
                       PRIMARY KEY (english)
                      )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
-;
-
-/*
- * Table for Chinese Language Proficiency Test Hanyu Shuiping Kaoshi (HSK)
- *
- * The hsk levels are pre-2010 levels. They are indicative of the frequency
- * of use and difficulty of the word in modern Chinese. I hope to update them 
- * to the new levels are time permits.
- *
- * level One of the four levels (1, 2, 3, 4) for the pre-2010 HSK.
- */
-CREATE TABLE hsk (level INT UNSIGNED NOT NULL,
-                  PRIMARY KEY (level)
-                 )
     CHARACTER SET UTF8
     COLLATE utf8_general_ci
 ;
@@ -100,9 +116,6 @@ CREATE TABLE topics (simplified VARCHAR(125) NOT NULL,
  * mp3:         Name of an audio file for the word
  * image:       The name of a file for an image illustrating the concept
  * notes:       Notes about the word
- * hsk:	        If the word is listed then the Hanyu Shuiping Kaoshi (HSK) level
- * ll;	        Latitude and longitude for the point (if any)
- * zoom;        The zoom for the map, a positive integer (used in Google Map API), optional
  */
 CREATE TABLE words (id INT UNSIGNED NOT NULL,
                     simplified VARCHAR(255) NOT NULL,
@@ -119,6 +132,7 @@ CREATE TABLE words (id INT UNSIGNED NOT NULL,
                     image VARCHAR(255),
                     mp3 VARCHAR(255),
                     notes TEXT,
+                    headword INT UNSIGNED NOT NULL,
                     PRIMARY KEY (id),
                     FOREIGN KEY (topic_cn, topic_en) REFERENCES topics(simplified, english),
                     FOREIGN KEY (grammar) REFERENCES grammar(english),
