@@ -1,0 +1,4 @@
+# Configuration file for go command line utility
+
+# The name of the directory with dictionary files
+DictionaryDir: data/dictionary
