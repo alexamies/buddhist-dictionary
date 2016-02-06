@@ -42,8 +42,10 @@ Acknowldegements:
    (http://cc-cedict.org/wiki/), shared under the 
    [Creative Commons Attribution-Share Alike 3.0 License]
    (http://creativecommons.org/licenses/by-sa/3.0/).
+
 2. Historic Buddhist texts from the Taishō Tripiṭaka are from [CBETA]
    (http://cbeta.org).
+   
 3. Humanistic Buddhism texts are reproduced from Fo Guang Shan with permission.
 
 -------------------------------------------------------------------------------
