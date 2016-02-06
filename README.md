@@ -38,6 +38,7 @@ Attribution-Share Alike 3.0. The license for source code and markup templates,
 is Apache 2.0.
 
 Acknowldegements:
+
 1. The dictionary is based on the the [CC-CEDICT Chinese - English dictionary]
    (http://cc-cedict.org/wiki/), shared under the 
    [Creative Commons Attribution-Share Alike 3.0 License]
@@ -45,7 +46,7 @@ Acknowldegements:
 
 2. Historic Buddhist texts from the Taishō Tripiṭaka are from [CBETA]
    (http://cbeta.org).
-   
+
 3. Humanistic Buddhism texts are reproduced from Fo Guang Shan with permission.
 
 -------------------------------------------------------------------------------
