@@ -1,4 +1,5 @@
 # Top level file listing the corpus collections
 #Collection File, HTML Gloss File, Title, Description, Introduction File, Corpus, Format, Period
-t0223.csv	taisho/t0223.html	The Perfection of Wisdom in 25,000 Lines 《摩訶般若波羅蜜經》	The Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra	taisho/t0223_00.txt	Taishō Tripiṭaka	Prose	404
-t0227.csv	taisho/t0227.html	Xiaopin Boreiluomi Sūtra 《小品般若波羅蜜經》	The Perfection of Wisdom in Eight Thousand Lines or the Aṣṭasāhasrikā Prajñāpāramitā	taisho/t0227_00.txt	Taishō Tripiṭaka	Prose	408
+t0221.csv	taisho/t0221.html	Fang Guang Bore Sūtra 《放光般若經》	Translated by Mokṣala in the Western Jin (265-316) in 20 scrolls.	taisho/t0223_00.txt	Taishō Tripiṭaka	Sūtra	291
+t0223.csv	taisho/t0223.html	The Perfection of Wisdom in 25,000 Lines 《摩訶般若波羅蜜經》	The Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra	taisho/t0223_00.txt	Taishō Tripiṭaka	Sūtra	404
+t0227.csv	taisho/t0227.html	Xiaopin Boreiluomi Sūtra 《小品般若波羅蜜經》	The Perfection of Wisdom in Eight Thousand Lines or the Aṣṭasāhasrikā Prajñāpāramitā	taisho/t0227_00.txt	Taishō Tripiṭaka	Sūtra	408
