@@ -1,9 +1,10 @@
 # Top level file listing the corpus collections
 #Collection File, HTML Gloss File, Title, Description, Introduction File, Corpus, Format, Period
-t0221.csv	taisho/t0221.html	Fang Guang Bore Sūtra 《放光般若經》	Translated by Mokṣala in the Western Jin (265-316) in 20 scrolls.	taisho/t0221_00.txt	Taishō Tripiṭaka	Sūtra	291
-t0222.csv	taisho/t0222.html	Guang Zan Sūtra 《光讚經》	Translated by Dharmarakṣa in the Western Jin (265-316) in 10 scrolls.	taisho/t0222_00.txt	Taishō Tripiṭaka	Sūtra	286
+t0221.csv	taisho/t0221.html	Fang Guang Bore Jing 《放光般若經》	Translated by Mokṣala in the Western Jin (265-316) in 20 scrolls.	taisho/t0221_00.txt	Taishō Tripiṭaka	Sūtra	291
+t0222.csv	taisho/t0222.html	Guang Zan Jing 《光讚經》	Translated by Dharmarakṣa in the Western Jin (265-316) in 10 scrolls.	taisho/t0222_00.txt	Taishō Tripiṭaka	Sūtra	286
 t0223.csv	taisho/t0223.html	The Perfection of Wisdom in 25,000 Lines 《摩訶般若波羅蜜經》	The Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra	taisho/t0223_00.txt	Taishō Tripiṭaka	Sūtra	404
-t0224.csv	taisho/t0224.html	Daoxing Bore Sūtra 《道行般若經》	Translated by Lokakṣema	taisho/t0224_00.txt	Taishō Tripiṭaka	Sūtra	179
-t0225.csv	taisho/t0225.html	Da Ming Du Sūtra 《大明度經》	Translated by Zhi Qian	taisho/t0225_00.txt	Taishō Tripiṭaka	Sūtra	223-253
-t0226.csv	taisho/t0226.html	Mohe Bore Chao Sūtra 《摩訶般若鈔經》	Translated by Dharmapriya and Fo Nian	taisho/t0226_00.txt	Taishō Tripiṭaka	Sūtra	382
-t0227.csv	taisho/t0227.html	Xiaopin Boreiluomi Sūtra 《小品般若波羅蜜經》	The Perfection of Wisdom in Eight Thousand Lines or the Aṣṭasāhasrikā Prajñāpāramitā	taisho/t0227_00.txt	Taishō Tripiṭaka	Sūtra	408
+t0224.csv	taisho/t0224.html	Daoxing Bore Jing 《道行般若經》	Translated by Lokakṣema	taisho/t0224_00.txt	Taishō Tripiṭaka	Sūtra	179
+t0225.csv	taisho/t0225.html	Da Ming Du Jing 《大明度經》	Translated by Zhi Qian	taisho/t0225_00.txt	Taishō Tripiṭaka	Sūtra	223-253
+t0226.csv	taisho/t0226.html	Mohe Bore Chao Jing 《摩訶般若鈔經》	Translated by Dharmapriya and Fo Nian	taisho/t0226_00.txt	Taishō Tripiṭaka	Sūtra	382
+t0227.csv	taisho/t0227.html	Xiaopin Boreiluomi Jing 《小品般若波羅蜜經》	The Perfection of Wisdom in Eight Thousand Lines or the Aṣṭasāhasrikā Prajñāpāramitā	taisho/t0227_00.txt	Taishō Tripiṭaka	Sūtra	408
+t0228.csv	taisho/t0228.html	Fo Shuo Fomu Chusheng San Fa Zang Boreboluomiduo Jing 《佛說佛母出生三法藏般若波羅蜜多經》	Translated by Dānapāla 施護 in the Song	taisho/t0228_00.txt	Taishō Tripiṭaka	Sūtra	1003-1004
