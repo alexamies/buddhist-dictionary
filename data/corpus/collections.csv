@@ -1,5 +1,6 @@
 # Top level file listing the corpus collections
 #Collection File, HTML Gloss File, Title, Description, Introduction File, Corpus, Format, Period
+taisho/t0220.csv	taisho/t0220.html	The Large Sūtra Perfection of Wisdom 《大般若波羅蜜多經》	Translated by Xuan Zang in the Tang (618—907) in 600 scrolls.	taisho/t0220_000.txt	Taishō Tripiṭaka	Sūtra	660-663
 taisho/t0221.csv	taisho/t0221.html	Pañcaviṃśatisāhasrikā-prajñāpāramitā Sūtra 《放光般若經》	Translated by Mokṣala in the Western Jin (265-316) in 20 scrolls.	taisho/t0221_00.txt	Taishō Tripiṭaka	Sūtra	291
 taisho/t0222.csv	taisho/t0222.html	Guang Zan Jing 《光讚經》	Translated by Dharmarakṣa in the Western Jin (265-316) in 10 scrolls.	taisho/t0222_00.txt	Taishō Tripiṭaka	Sūtra	286
 taisho/t0223.csv	taisho/t0223.html	The Perfection of Wisdom in 25,000 Lines 《摩訶般若波羅蜜經》	The Pañcaviṃśatisāhasrikāprajñāpāramitāsūtra	taisho/t0223_00.txt	Taishō Tripiṭaka	Sūtra	404
