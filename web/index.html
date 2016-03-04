@@ -130,13 +130,13 @@
           <tbody>
             <tr ng-repeat="word in results.words"">
               <td ng-if="word.count == 0">{{word.text}}</td>
-              <td ng-if="word.count > 0"><a href="word_detail.php?id={{word.id}}">{{word.text}}</a></td>
+              <td ng-if="word.count > 0"><a href="words/{{word.headword}}.html">{{word.text}}</a></td>
               <td>{{word.pinyin}}</td>
               <td>{{word.english}}</td>
               <td>
                 <span ng-bind-html="word.notes"></span>
                 <a ng-if="word.count>1"
-                   ng-href="word_detail.php?word={{word.text}}&matchType=exact">See all {{word.count}} word senses</a>
+                   ng-href="words/{{word.headword}}.html">See all {{word.count}} word senses</a>
               </td>
             </tr>
           </tbody>
