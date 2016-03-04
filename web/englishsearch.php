@@ -29,7 +29,8 @@ if (strlen($text) > 100) {
                    '"notes":"' . $notes . '",' .
                    '"id":"' . $id . '",' .
                    '"pinyin":"' . $pinyin . '",' .
-                   '"count":"' . $count . '"' .
+                   '"count":"' . $count . '",' .
+                   '"headword":"' . $headword . '"' .
                   '},';
     }
     $words = rtrim($words, ",") . "]";
