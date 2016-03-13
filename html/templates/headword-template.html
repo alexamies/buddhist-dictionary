@@ -118,8 +118,8 @@
           </thead>
           <tbody>
             <tr ng-repeat="word in results.words">
-              <td ng-if="word.count == 0">{{`{{word.text}}`}}</td>
-              <td ng-if="word.count > 0"><a 
+              <td ng-if="word.count == 0 || word.headword >= 1000000"">{{`{{word.text}}`}}</td>
+              <td ng-if="word.count > 0 && word.headword < 1000000"><a 
                   ng-href={{`"/words/{{word.headword}}.html"`}}>{{`{{word.text}}`}}</a></td>
               <td>{{`{{word.pinyin}}`}}</td>
               <td>{{`{{word.english}}`}}</td>
