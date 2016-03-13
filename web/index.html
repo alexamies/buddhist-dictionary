@@ -129,13 +129,13 @@
           </thead>
           <tbody>
             <tr ng-repeat="word in results.words"">
-              <td ng-if="word.count == 0 || word.headword > 1000000">{{word.text}}</td>
-              <td ng-if="word.count > 0"><a href="words/{{word.headword}}.html">{{word.text}}</a></td>
+              <td ng-if="word.count == 0 || word.headword >= 1000000">{{word.text}}</td>
+              <td ng-if="word.count > 0 && word.headword < 1000000"><a href="words/{{word.headword}}.html">{{word.text}}</a></td>
               <td>{{word.pinyin}}</td>
               <td>{{word.english}}</td>
               <td>
                 <span ng-bind-html="word.notes"></span>
-                <a ng-if="word.count>1 && word.headword < 1000000">{{word.text}}"
+                <a ng-if="word.count>1 && word.headword < 1000000"
                    ng-href="words/{{word.headword}}.html">See all {{word.count}} word senses</a>
               </td>
             </tr>
