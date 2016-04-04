@@ -82,12 +82,12 @@
         <tbody>
         {{ range $cog := .Cognates }}
           <tr>
-            <td colspan="4">{{ $cog.CorpEntry.Title }}</td>
+            <td colspan="4"><a href="/{{ $cog.CorpEntry.GlossFile }}">{{ $cog.CorpEntry.Title }}</a></td>
           </tr>
             {{ range $ws := $cog.GetProperNouns }}
           <tr>
             <td><a href="/words/{{$ws.HeadwordId}}.html">{{$ws.Simplified}}</a></td>
-            <td>{{ $ws.Traditional }}</td>
+            <td>{{if ne $ws.Traditional "\\N"}}{{$ws.Traditional}}{{end}}</td>
             <td>{{ $ws.Pinyin }}</td>
             <td>{{ $ws.English }}</td>
           </tr>
