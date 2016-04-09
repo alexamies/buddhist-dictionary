@@ -24,6 +24,7 @@ if (strlen($text) > 100) {
         $notes = $word->getNotes();
         $id = $word->getId();
         $pinyin = $word->getPinyin();
+        $headword = $word->getHeadword();
         $words .= '{"text":"' . $traditional . '",' .
                    '"english":"' . $english . '",' .
                    '"notes":"' . $notes . '",' .
@@ -34,7 +35,7 @@ if (strlen($text) > 100) {
                   '},';
     }
     $words = rtrim($words, ",") . "]";
-    error_log("enlishsearch.php words: $words \n");
+    //error_log("enlishsearch.php words: $words \n");
     print('{"words":' . $words . "}");
 }
 ?>
