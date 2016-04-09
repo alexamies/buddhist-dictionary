@@ -34,7 +34,7 @@ if (strlen($text) > 100) {
                   '},';
     }
     $words = rtrim($words, ",") . "]";
-    error_log("words: $words \n");
+    error_log("enlishsearch.php words: $words \n");
     print('{"words":' . $words . "}");
 }
 ?>

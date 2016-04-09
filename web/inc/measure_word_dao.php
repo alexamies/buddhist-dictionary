@@ -49,7 +49,7 @@ class MeasureWordDAO {
 		
         // Perform SQL select operation 
         $query = "SELECT id, simplified, traditional, pinyin, english, grammar, concept_cn, concept_en, " .
-                 "topic_cn, topic_en, parent_cn, parent_en, measure_word " .
+                 "topic_cn, topic_en, parent_cn, parent_en, measure_word, headword" .
                  "FROM words, measure_words " .
                  "WHERE (noun = '$noun') AND (simplified = measure_word) AND (grammar = 'measure word') " .
                  "ORDER BY pinyin, id";
@@ -71,7 +71,9 @@ class MeasureWordDAO {
                                 $row[11], 
                                 null,
                                 null,
-                                null);
+                                null,
+                                $row[12]
+                                );
             }
         //error_log("getMeasureWordsForNoun, results returned: " . count($words));
         $databaseUtils->free_result($result);
@@ -93,7 +95,7 @@ class MeasureWordDAO {
 		
         // Perform SQL select operation 
         $query = "SELECT id, simplified, traditional, pinyin, english, grammar, concept_cn, concept_en, " .
-                 "topic_cn, topic_en, parent_cn, parent_en " .
+                 "topic_cn, topic_en, parent_cn, parent_en, headword" .
                  "FROM words, measure_words " .
                  "WHERE measure_word = '$measureWord' AND noun = simplified AND grammar = 'noun' " .
                  "ORDER BY pinyin, id";
@@ -118,7 +120,9 @@ class MeasureWordDAO {
                                     $row[11],
                                     null,
                                     null,
-                                    null);
+                                    null,
+                                    $row[12]
+                                    );
             }
         }
         //error_log("getNounsForMeasureWord, results returned: " . count($measureWords));
