@@ -2,7 +2,10 @@
 #Collection File, HTML Gloss File, Title, Description, Introduction File, Corpus, Format, Period
 taisho/t0001.csv	taisho/t0001.html	Dīrghāgama 《長阿含經》	Translated by Buddhayaśas and Fo Nian in the Later Qin in 22 scrolls.	taisho/t0001_00.txt	Taishō	Sūtra	413	āgama
 taisho/t0002.csv	taisho/t0002.html	Sutra of the Seven Buddhas 《七佛經》	Translated by Fa Tian in the Song in 1 scroll.	taisho/t0002_00.txt	Taishō	Sūtra	1001	āgama
-taisho/t0003.csv	taisho/t0003.html	Vipaśyin Buddha Sūtra 《毘婆尸佛經》	Translated by Fa Tian in the Song in 2 scroll2.	taisho/t0003_00.txt	Taishō	Sūtra	990	āgama
+taisho/t0003.csv	taisho/t0003.html	Vipaśyin Buddha Sūtra 《毘婆尸佛經》	Translated by Fa Tian in the Song in 2 scroll.	taisho/t0003_00.txt	Taishō	Sūtra	990	āgama
+taisho/t0004.csv	taisho/t0004.html	Qi Fo Fumu Xing Zi Jing 《七佛父母姓字經》	Translated by an unknown translator in the Former Wei dynasty in 1 scroll.	taisho/t0004_00.txt	Taishō	Sūtra	240-254	āgama
+taisho/t0005.csv	taisho/t0005.html	Nirvāṇa Sūtra 《佛般泥洹經》	Translated by Ba Fazu in the Western Jin in 2 scrolls.	taisho/t0005_00.txt	Taishō	Sūtra	290-307	āgama
+taisho/t0006.csv	taisho/t0006.html	Nirvāṇa Sūtra 《般泥洹經》	Translated by an unknown author in the Eastern Jin in 2 scrolls.	taisho/t0005_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0026.csv	taisho/t0026.html	Madhyamāgama 《中阿含經》	Translated by Fa Tian in the Eastern Jin in 50 scrolls.	taisho/t0026_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0099.csv	taisho/t0099.html	Saṃyuktāgama 《雜阿含經》	Translated by Guṇabhadra in the Liu Song in 60 scrolls.	taisho/t0099_00.txt	Taishō	Sūtra	398	āgama
 taisho/t0125.csv	taisho/t0125.html	Ekottarāgama 《增壹阿含經》	Translated by Saṅghadeva in the Eastern Jin in 51 scrolls.	taisho/t0125_00.txt	Taishō	Sūtra	397	āgama
