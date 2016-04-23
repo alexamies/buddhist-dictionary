@@ -1,7 +1,8 @@
 # Top level file listing the corpus collections
 #Collection File, HTML Gloss File, Title, Description, Introduction File, Corpus, Format, Period
 taisho/t0001.csv	taisho/t0001.html	Dīrghāgama 《長阿含經》	Translated by Buddhayaśas and Fo Nian in the Later Qin in 22 scrolls.	taisho/t0001_00.txt	Taishō	Sūtra	413	āgama
-taisho/t0026.csv	taisho/t0026.html	Madhyamāgama 《中阿含經》	Translated by Gautama Saṅghadeva in the Eastern Jin in 50 scrolls.	taisho/t0026_00.txt	Taishō	Sūtra	435-443	āgama
+taisho/t0002.csv	taisho/t0002.html	Sutra of the Seven Buddhas 《七佛經》	Translated by Fa Tian in the Song in 1 scroll.	taisho/t0002_00.txt	Taishō	Sūtra	1001	āgama
+taisho/t0026.csv	taisho/t0026.html	Madhyamāgama 《中阿含經》	Translated by Fa Tian in the Eastern Jin in 50 scrolls.	taisho/t0026_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0099.csv	taisho/t0099.html	Saṃyuktāgama 《雜阿含經》	Translated by Guṇabhadra in the Liu Song in 60 scrolls.	taisho/t0099_00.txt	Taishō	Sūtra	398	āgama
 taisho/t0125.csv	taisho/t0125.html	Ekottarāgama 《增壹阿含經》	Translated by Saṅghadeva in the Eastern Jin in 51 scrolls.	taisho/t0125_00.txt	Taishō	Sūtra	397	āgama
 taisho/t0220.csv	taisho/t0220.html	The Large Sūtra on Perfection of Wisdom 《大般若波羅蜜多經》	Translated by Xuan Zang in the Tang (618—907) in 600 scrolls.	taisho/t0220_000.txt	Taishō	Sūtra	660-663	prajñāpāramitā
