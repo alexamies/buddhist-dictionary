@@ -9,7 +9,8 @@
     <meta name="fragment" content="!">
     <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
     <title>NTI Buddhist Text Reader</title>
-    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link rel="stylesheet" 
+          href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -29,14 +30,16 @@
     </script>
     <div class="starter-template">
       <div class="row">
-        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo"
+                                class="pull-left"/></div>
         <div class="span7"><h1>NTI Buddhist Text Reader</h1></div>
       </div>
     </div>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <button type="button" class="navbar-toggle" data-toggle="collapse"
+                  data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -59,8 +62,8 @@
       <h2>Collection of Buddhist Texts</h2>
       <p>
         The new corpus structure including the <a href="taisho/taisho.html">
-        Āgamas and Prajñāpāramitā Sūtras T 220 - T 261</a> (Volumes 5-8 of the
-        Taishō).
+        Āgamas and Prajñāpāramitā Sūtras T 220 - T 261</a> (Volumes 1, 2, 5-8 of
+        the Taishō).
       </p>
       <p>
         Filter: <input ng-model="query">
@@ -75,15 +78,18 @@
       </p>
       <table class="table table-bordered table-hover">
         <thead>
-          <tr><th>Source Name</th><th>Type</th><th>Translator / Compiled by</th><th>Period</th><th>Genre</th></tr>
+          <tr><th>Source Name</th><th>Type</th><th>Translator / Compiled by</th>
+              <th>Period</th><th>Genre</th></tr>
         </thead>
         <tbody>
           <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
             <td ng-if="doc.type != 'collection'">
-              <a href="{{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
+              <a href="{{doc.uri}}" title="Detailed information on the text
+                 entry">{{doc.source_name}}</a>
             </td>
             <td ng-if="doc.type == 'collection'">
-              <a href="collection.php?colname={{doc.uri}}" title="Detailed information on the text entry">{{doc.source_name}}</a>
+              <a href="collection.php?colname={{doc.uri}}"
+                 title="Detailed information on the text entry">{{doc.source_name}}</a>
             </td>
             <td>{{doc.doc_type}}</td>
             <td>{{doc.translator}}</td>
@@ -94,7 +100,8 @@
       </table>
       <hr/>
       <p>
-        Copyright Nan Tien Institute 2013 - 2014, <a href="http://www.nantien.edu.au/" 
+        Copyright Nan Tien Institute 2013 - 2014, <a 
+        href="http://www.nantien.edu.au/" 
         title="Nan Tien Institute">www.nantien.edu.au</a>.
       </p>
       <p>This page was last updated on  2016-02-07.</p>
