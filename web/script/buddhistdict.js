@@ -10,9 +10,9 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
   $scope.submit = function() {
     $scope.results = {"msg": "Searching"};
     var hasCJK = re.exec($scope.formData.text);  
-    var url = "englishsearch.php";
+    var url = "/englishsearch.php";
     if (hasCJK && ($scope.formData.matchtype == 'approximate')) {
-      url = "textlookup.php";
+      url = "/textlookup.php";
     }
     $http({url: url, 
            method: 'post', 
@@ -21,25 +21,14 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
     }).success(function(data) {
       $("#lookup-help-block").hide();
       $scope.results = data;
-      var sans_re = /Sanskrit:[\s]+([^,]*)(.*)/;
       //alert($scope.results.words)
-      if ($scope.results.words && $scope.results.words.length > 0) {
-        for (var i=0; i < $scope.results.words.length; i++) {
-          word = $scope.results.words[i];
-          if (word.notes) {
-            if (sans_re.test(word.notes)) {
-              word.notes =  word.notes.replace(sans_re, "Sanskrit: <a href='sanskrit_query.php?word=$1'>$1</a> $2");
-            }
-            self.explicitlyTrustedHtml = word.notes
-          }
-        }
-        delete $scope.results.msg;
-      } else {
-          $scope.results = {"msg": "No results found"};
+      if ($scope.results.words && $scope.results.words.length == 0) {
+        $scope.results = {"msg": "No results found"};
       }
     }).error(function(data, status, headers, config) {
       $("#lookup-help-block").hide();
       $scope.results = {"msg": data};
+      $("#word-detail").hide();
     });
   };
 });
