@@ -20,6 +20,7 @@ textApp.controller('textCtrl', function($scope, $http, $sce) {
            headers : {'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8'}
     }).success(function(data) {
       $("#lookup-help-block").hide();
+      $("#word-detail").hide();
       $scope.results = data;
       //alert($scope.results.words)
       if ($scope.results.words && $scope.results.words.length == 0) {
