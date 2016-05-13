@@ -53,7 +53,7 @@ class MeasureWordDAO {
                  "FROM words, measure_words " .
                  "WHERE (noun = '$noun') AND (simplified = measure_word) AND (grammar = 'measure word') " .
                  "ORDER BY pinyin, id";
-        //error_log("getMeasureWordsForNoun, query: " . $query);
+        error_log("getMeasureWordsForNoun, query: " . $query);
         $result =& $databaseUtils->executeQuery($query);
         $words = array();
         while ($row = $databaseUtils->fetch_array($result)) {
