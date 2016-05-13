@@ -49,7 +49,7 @@ class MeasureWordDAO {
 		
         // Perform SQL select operation 
         $query = "SELECT id, simplified, traditional, pinyin, english, grammar, concept_cn, concept_en, " .
-                 "topic_cn, topic_en, parent_cn, parent_en, measure_word, headword" .
+                 "topic_cn, topic_en, parent_cn, parent_en, measure_word, headword " .
                  "FROM words, measure_words " .
                  "WHERE (noun = '$noun') AND (simplified = measure_word) AND (grammar = 'measure word') " .
                  "ORDER BY pinyin, id";
