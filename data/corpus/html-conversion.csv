@@ -1,2 +1,3 @@
 # HTML files outside the corpus to be converted to add popover for Chinese words
 # Raw file, Output file, Template
+../html/syllables_ipa.html	syllables_ipa.html	reference-template.html
