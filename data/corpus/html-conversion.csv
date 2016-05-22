@@ -2,4 +2,4 @@
 # Raw file, Output file, Template
 ../html/abbreviations.html	abbreviations.html	reference-template.html
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html
-../html/whatsnew.html	abbreviations.html	about-template.html
+../html/whatsnew.html	whatsnew.html	about-template.html
