@@ -1,23 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="bdictApp">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta name="fragment" content="!" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="NTI Buddhist Text Reader">
+    <meta name="fragment" content="!">
+    <link rel="shortcut icon" href="/images/yan.png" type="image/jpeg" />
     <title>NTI Buddhist Text Reader</title>
-    <link rel="shortcut icon" href="images/yan.png" type="image/jpeg" />
-    <link rel="stylesheet" 
-        href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" href="buddhistdict.css" rel="stylesheet">
+    <link rel="stylesheet" href="/buddhistdict.css" rel="stylesheet">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-   </head>
-  <body>
+  </head>
+  <body ng-controller="CorpusListCtrl">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -28,41 +29,35 @@
     </script>
     <div class="starter-template">
       <div class="row">
-        <div class="span2"><img id="logo" src="images/yan.png" alt="Logo"
-          class="pull-left"/></div>
+        <div class="span2"><img id="logo" src="/images/yan.png" alt="Logo" class="pull-left"/></div>
         <div class="span7"><h1>NTI Buddhist Text Reader</h1></div>
       </div>
     </div>
     <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse"
-          data-target=".navbar-collapse">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">Home</a>
+          <a class="navbar-brand" href="/index.html">Home</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="corpus.html">Texts</a></li>
-            <li><a href="tools.html">Tools</a></li>
-            <li class="active"><a href="dict_resources.html">Resources</a></li>
-            <li><a href="about.html">About</a></li>
+            <li><a href="/corpus.html">Texts</a></li>
+            <li><a href="/tools.html">Tools</a></li>
+            <li class="active"><a href="/dict_resources.html">Resources</a></li>
+            <li><a href="/about.html">About</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
     </div>
 
     <div class="container">
-      <h2>References</h2>
-      <p>
-        Answers to more questions are in the <a href="faq.html">Frequently 
-        Asked Questions</a> page.
-      </p>
-    <h3>List of References</h3>
+
+          <h2>List of References</h2>
     <p>
         Generic Chinese language references are at 
         <a href="http://chinesenotes.com/references.html">chinesenotes.com</a>.
@@ -96,6 +91,10 @@
         Translation of the Anguttara Nikaya</i>i>. Simon and Schuster.
       </li>
       <li>
+        Buddhadatta, A. P. 1968. <i>Concise Pāli-English Dictionary</i>. 
+        Colombo: Colombo Apothecaries’ Co.
+      </li>
+      <li>
         Buswell, Robert E., and Donald S. Lopez, eds. <i>The Princeton
         Dictionary of Buddhism</i>. Princeton: Princeton University Press, 2014.
       </li>
@@ -108,8 +107,8 @@
       </li>
       <li>
         Chen, Guansheng, and Peizhu Li, eds. <i>A Chinese-English Dictionary of
-        Buddhist Terms</i> 《中英佛教词典》. Beijing: Foriegn Languages Press
-        外文出版社, 2005.
+        Buddhist Terms</i> 《<a title='zhōng | middle / during / inside' href='/words/332.html'>中</a><a title='Yīng | England' href='/words/5140.html'>英</a><a title='Fójiào | Buddhism' href='/words/2890.html'>佛教</a><a title='cídiǎn | a dictionary' href='/words/9570.html'>词典</a>》. Beijing: Foriegn Languages Press
+        <a title='wàiwén | foreign language' href='/words/20655.html'>外文</a><a title='chūbǎn shè | publishing house / press' href='/words/8418.html'>出版社</a>, 2005.
       </li>
       <li>
         Cizhuang. <i>Faxiang: A Buddhist Practitioner’s Encyclopedia</i>. 1st
@@ -141,14 +140,18 @@
         http://prajnaquest.fr/downloads/BookofDzyan/ReferenceBooks/Eitel/Eitel_-_Handbook_of_Chinese_Buddhism_-_2nd_ed_1904.pdf</a>.
       </li>
       <li>
-        Fo Guang Shan. “Fo Guang Dictionary of Buddhism 佛光大辭典,” accessed
+        Fo Guang Shan. “Fo Guang Dictionary of Buddhism <a title='Fó Guāng | Fo Guang' href='/words/11787.html'>佛光</a><a title='dà | big / great / huge / large / major' href='/words/1114.html'>大</a><a title='cídiǎn | dictionary' href='/words/17725.html'>辭典</a>,” accessed
         March 2, 2014. <a href='http://etext.fgs.org.tw/search02.aspx'>Online 
         Buddhist Dictionary</a> 
       </li>
       <li>
+        Hirakawa, Akira. 1997. <i>Buddhist Chinese-Sanksrit Dictionary</i>. 
+        Tokyo: The Reiyukai.
+      </li>
+      <li>
         Hsing Yun, 2006. ‘Discipline, wisdom, and meditation in humanistic 
-        Buddhism’《人間佛教的戒定慧》, at 
-        <i>Venerable Master Hsing Yun</i> 《星雲大師》, Fo Guang Shan, 
+        Buddhism’《<a title='Rénjiān Fójiào | Humanistic Buddhism' href='/words/32246.html'>人間佛教</a><a title='de | possessive particle' href='/words/273.html'>的</a><a title='jièdìnghuì | morality, wisdom, and meditation / the three studies / the three trainings / triśikṣā' href='/words/21809.html'>戒定慧</a>》, at 
+        <i>Venerable Master Hsing Yun</i> 《<a title='Xīng Yún dàshī | Venerable Master Hsing Yun' href='/words/41282.html'>星雲大師</a>》, Fo Guang Shan, 
         <a href="http://www.masterhsingyun.org/article/articlelist.jsp"
         >http://www.masterhsingyun.org/article/articlelist.jsp</a>.
       </li>
@@ -164,7 +167,7 @@
         Kaneko, Yoshio. 2000. <i>A Study of the Biography of Sakya-muni (Gotama
         Buddha) Based on the Early Buddhist Scriptural Sources (Nikāyas, Āgamas
         and Vinayas).</i> Tokyo: Central Scientific Research Institute
-        中央学術研究所. <a href="http://www.sakya-muni.jp/english/0001/0085monograph-series-no15/2-7source-material2-4/"
+        <a title='zhōngyāng | center / central authorities' href='/words/1124.html'>中央</a><a title='xué | to study / to learn' href='/words/3924.html'>学</a><a title='shù | method / technique' href='/words/4867.html'>術</a><a title='yánjiū suǒ | research institute' href='/words/11120.html'>研究所</a>. <a href="http://www.sakya-muni.jp/english/0001/0085monograph-series-no15/2-7source-material2-4/"
         >http://www.sakya-muni.jp/english/0001/0085monograph-series-no15/2-7source-material2-4/</a>.
       </li>
       <li>
@@ -179,15 +182,15 @@
         >http://www.acmuller.net/descriptive_catalogue</a>.
       </li>
       <li>
-        Lao She, 2003. <i>Luotuo Xiangzi</i> 骆驼祥子, Illustrated ed., The 
-        People’s Literature Publishing House 人民文学出版社, Beijing.
+        Lao She, 2003. <i>Luotuo Xiangzi</i> <a title='Luòtuo Xiángzi | Luotuo Xiangzi / Rickshaw Boy / Camel Xiangzi' href='/words/19277.html'>骆驼祥子</a>, Illustrated ed., The 
+        People’s Literature Publishing House <a title='Rénmín Wénxué Chūbǎnshè | The People's Literature Publishing House' href='/words/40555.html'>人民文学出版社</a>, Beijing.
       </li>
       <li>
         Leeming, David Adams. 2001. <i>A Dictionary of Asian Mythology</i>i>. 
         Oxford University Press.
       </li>
       <li>
-        Mahāñāṇo, Bhikkhu. 2004. <i>Ba Han Cidian</i> 《巴汉词典》.
+        Mahāñāṇo, Bhikkhu. 2004. <i>Ba Han Cidian</i> 《<a title='bā | to hope / to wish' href='/words/3805.html'>巴</a><a title='Hàn | Han Chinese' href='/words/2644.html'>汉</a><a title='cídiǎn | a dictionary' href='/words/9570.html'>词典</a>》.
       </li>
       <li>
         Mittal, Sushil, and Thursby, Gene. <i>Religions of South Asia: An
@@ -250,17 +253,44 @@
         >http://sanskrit1.ccv.brown.edu/Sanskrit/whitney/index2.html</a>.
       </li>
     </ol>
+
+ 
+
       <hr/>
-      <p>
-        Copyright Nan Tien Institute 2013-2014, 
-        <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien
-        Institute">www.nantien.edu.au</a>.
-      </p>
-      <p>
-        Page last updated on 2015-6-13.
-      </p>
-    </div>
-    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+      <footer>
+        <p>
+          See the <a href="/help.html">Help</a> page for more
+          information on the best use of the dictionary or if you have problems.
+          Tell us about 
+          <a href="https://docs.google.com/forms/d/1jhgO00n3izZK6EeqHHV6dZPuvFMV5KcAhKuqC26P8Ko/viewform"
+          >a problem</a>.
+          Tell us about your experience on this web site using
+          <a href="https://docs.google.com/forms/d/1567O1wI8gtT8HNr4Kq3qEiIMRoGDoZE0d2GXyjxb7ko/viewform"
+          >this form</a>.
+          Add a new word or suggest a change to a dictionary entry defintion
+          with 
+          <a href="https://docs.google.com/forms/d/1AcPDJ3CSIyn7MNVDKiMHby4EMPH0g3FxwLRTlJKhxmA/viewform"
+          >this form</a>.
+        </p>
+        <p>
+          The NTI Buddhist Text Reader is a general purpose Chinese text reader
+          and Chinese-English dictionary with many Buddhist terms.
+          Non-Buddhist Chinese text content is at 
+          <a href="http://chinesenotes.com/">Chinese Notes</a>.
+          For recent changes, see the <a href="/whatsnew.html">What's New</a>
+          page.
+        </p>
+        <p>
+          佛光山南天大學佛教文本閱讀器。
+          Copyright Fo Guang Shan Nan Tien Institute 佛光山南天大學 2013-2015, 
+          <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>. Materials may be reused
+          in accordance with the open source license. See the <a href="about.html">About</a> 
+          for details.
+          If you have any trouble using this site or have a suggestion, please contact alex@ntireader.org.
+        </p>
+        <p>This page was last updated on 2016-06-11.</p>
+      </footer>
+    </div><!-- /.container -->
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
   </body>
 </html>
