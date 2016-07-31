@@ -1,5 +1,7 @@
 #!/bin/bash
 ## Push changes from staging environment $CNREADER_HOME to production $PROD
+## PROD should be set to the location of the production system
+## CNREADER_HOME should be set to the location of the staging system
 if [ -n "$PROD" ]; then
   echo "Copying to $PROD"
   if [ -n "$CNREADER_HOME" ]; then
