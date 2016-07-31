@@ -1,10 +1,9 @@
-buddhist-dictionary
-===============================================================================
 NTI Buddhist Text Reader
+===============================================================================
 
-A text reader, including a Chinese-English Buddhist dictionary and corpus
-management tools, for analyzing and managing Buddhist Chinese texts. 
-This is a non-profit, open source project.
+The NTI Buddhist Text Reader is a Chinese text reader, including a 
+Chinese-English dictionary and corpus management tools, for analyzing and
+managing Buddhist Chinese texts. This is a non-profit, open source project.
 
 Goals:
 
