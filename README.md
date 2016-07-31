@@ -1,4 +1,4 @@
-NTI Buddhist Text Reader
+NTI Buddhist Text Reader Project
 ===============================================================================
 
 The NTI Buddhist Text Reader is a Chinese text reader, including a 
