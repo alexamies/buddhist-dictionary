@@ -13,7 +13,7 @@ if [ -n "$DEV_HOME" ]; then
     cd src/cnreader
   	./cnreader
     ./cnreader -hwfiles
-    ./cnreader -hhtml
+    ./cnreader -html
   else
     echo "CNREADER_HOME is not set"
     exit 1
