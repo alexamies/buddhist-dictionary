@@ -40,3 +40,9 @@ sudo apacheclt restart
 ## MySQL Setup
 sudo apt-get install -y mysql-server mysql-client
 -- Load data into database, see ../data/dictionary/dictionary-readme.txt
+
+# Generated HTML files
+# Install Go lang
+bin/build.sh
+# If your staging environment is different from your prod environment
+bin/deploy.sh
