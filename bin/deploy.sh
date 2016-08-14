@@ -14,7 +14,7 @@ if [ -n "$PROD" ]; then
     cp $CNREADER_HOME/web/abbreviations.html $PROD/web/.
     cp $CNREADER_HOME/web/corpus.html $PROD/web/.
     cp $CNREADER_HOME/web/references.html $PROD/web/.
-    cp $CNREADER_HOME/web/syllabes_ipa.html $PROD/web/.
+    cp $CNREADER_HOME/web/syllables_ipa.html $PROD/web/.
     cp $CNREADER_HOME/web/whatsnew.html $PROD/web/.
   else
     echo "CNREADER_HOME is not set"
