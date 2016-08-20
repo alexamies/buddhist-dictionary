@@ -4,4 +4,5 @@
 ../html/corpus.html	corpus.html	texts-template.html
 ../html/references.html	references.html	reference-template.html
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html
+../html/taisho.html	taisho/taisho.html	texts-template.html
 ../html/whatsnew.html	whatsnew.html	about-template.html
