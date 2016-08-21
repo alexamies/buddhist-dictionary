@@ -134,24 +134,26 @@
         </table>
 
       <div id="word-detail">
-        <h2><span class='dict-entry-headword'>{{ .Headword.Simplified }}
+        <h2><span class='dict-entry-headword'>{{if ne .Headword.Simplified "\\N"}}{{ .Headword.Simplified }}{{end}}
           {{if ne .Headword.Traditional "\\N"}}({{.Headword.Traditional}}){{end}}</span>
           {{ range $pinyin := .Headword.Pinyin }} {{ $pinyin }} {{ end }}
         </h2>
         {{ if gt (len .Headword.WordSenses) 1}}
         <ol>
-          {{ range $ws := .Headword.WordSenses }}
+          {{ range $index, $ws := .Headword.WordSenses }}
             <li>
-              <span class='dict-entry-pinyin'>{{ $ws.Pinyin }}</span> 
+              <span class='dict-entry-pinyin'>{{ $ws.Pinyin }}</span>
+              {{if ne $ws.Mp3 "\\N"}}
+                {{if eq $index 0}}
+                <span><a href='/mp3/{{ $ws.Mp3 }}'
+                         title='Play sound'><img src='/images/audio.gif'/></a></span>
+                {{ end }}
+              {{ end }}
               <span class='dict-entry-grammar'>{{ $ws.Grammar }}</span> 
               <span class='dict-entry-definition'>{{ $ws.English }}</span> <br/>
               Domain: {{ $ws.Topic_en }}<br/>
               {{if ne $ws.Notes "\\N"}}
                 <span class='dict-entry-notes'>Notes</span>: {{ $ws.Notes}}
-              {{ end }}
-              {{if ne $ws.Mp3 "\\N"}}
-                <span><a href='/mp3/{{ $ws.Mp3 }}'
-                         title='Play sound'><img src='/images/audio.gif'/></a></span>
               {{ end }}
               {{if ne $ws.Image "\\N"}}
                 <span><img src='/images/{{ $ws.Image }}'/></span>
@@ -163,15 +165,15 @@
           <p>
            {{ range $ws := .Headword.WordSenses }}
               <span class='dict-entry-pinyin'>{{ $ws.Pinyin }}</span> 
+              {{if ne $ws.Mp3 "\\N"}}
+                <span><a href='/mp3/{{ $ws.Mp3 }}'
+                         title='Play sound'><img src='/images/audio.gif'/></a></span>
+              {{ end }}
               <span class='dict-entry-grammar'>{{ $ws.Grammar }}</span> 
               <span class='dict-entry-definition'>{{ $ws.English }}</span> <br/>
               Domain: {{ $ws.Topic_en }}<br/>
               {{if ne $ws.Notes "\\N"}}
                 <span class='dict-entry-notes'>Notes</span>: {{ $ws.Notes}}
-              {{ end }}
-              {{if ne $ws.Mp3 "\\N"}}
-                <span><a href='/mp3/{{ $ws.Mp3 }}'
-                         title='Play sound'><img src='/images/audio.gif'/></a></span>
               {{ end }}
               {{if ne $ws.Image "\\N"}}
                 <span><img src='/images/{{ $ws.Image }}'/></span>
