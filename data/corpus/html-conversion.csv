@@ -1,7 +1,7 @@
 # HTML files outside the corpus to be converted to add popover for Chinese words
 # Raw file, Output file, Template
 ../html/abbreviations.html	abbreviations.html	reference-template.html
-../html/corpus.html	corpus.html	corpus-template.html
+../html/corpus.html	corpus.html	texts-template.html
 ../html/references.html	references.html	reference-template.html
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html
 ../html/taisho.html	taisho/taisho.html	texts-template.html
