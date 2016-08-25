@@ -1,0 +1,34 @@
+      <h2>Popular Buddhist Texts</h2>
+      <p>
+        Filter: <input ng-model="query">
+        Sort by:
+        <select ng-model="orderProp" ng-init="orderProp='source_name'">
+          <option value="source_name" selected="selected">Source Name</option>
+          <option value="doc_type">Type</option>
+          <option value="translator">Translator / Compiled by</option>
+          <option value="period">Period</option>
+          <option value="genre">Genre</option>
+        </select>
+      </p>
+      <table class="table table-bordered table-hover">
+        <thead>
+          <tr><th>Source Name</th><th>Type</th><th>Translator / Compiled by</th>
+              <th>Period</th><th>Genre</th></tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="doc in docs | filter:query | orderBy:orderProp">
+            <td ng-if="doc.type != 'collection'">
+              <a href="{{doc.uri}}" title="Detailed information on the text
+                 entry">{{doc.source_name}}</a>
+            </td>
+            <td ng-if="doc.type == 'collection'">
+              <a href="collection.php?colname={{doc.uri}}"
+                 title="Detailed information on the text entry">{{doc.source_name}}</a>
+            </td>
+            <td>{{doc.doc_type}}</td>
+            <td>{{doc.translator}}</td>
+            <td>{{doc.period}}</td>
+            <td>{{doc.genre}}</td>
+          </tr>
+        </tbody>
+      </table>
