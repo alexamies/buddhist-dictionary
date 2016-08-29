@@ -8,7 +8,8 @@ $(function () {
     template: '<div class="popover" role="tooltip">' +
               '  <div class="arrow"></div>' +
               '  <div class="btn-group btn-group-xs pull-right" role="group">' +
-              '    <button class="btn btn-default popover-dismiss" type="button">&times;</button>' +
+              '    <button class="btn btn-default popover-dismiss" ' +
+              '    type="button">&times;</button>' +
               '  </div>' +
               '  <div><h3 class="popover-title"></h3>' +
               '  </div>' +
@@ -19,10 +20,36 @@ $(function () {
     var text = "";
     var title = "";
     if (this.hasAttribute('word_id')) {
-      var word_id = this.getAttribute('word_id');
-      word_entry = words[word_id]
-      text = '<p>' +  word_entry['pinyin'] + 
-             '<br/>' + word_entry['english'] + '<br/>' + word_entry['notes'] + '</p>';
+      var wordIdStr = this.getAttribute('word_id');
+      console.log("popover.js, wordIdStr: " + wordIdStr)
+      var wordIdArr = wordIdStr.split(',')
+      console.log("popover.js, wordIdArr.length: " + wordIdArr.length)
+      if (wordIdArr.length > 1) {
+        text = "<ol>";
+      }
+      for (var i = 0; i < wordIdArr.length; i++) {
+        var word_id = wordIdArr[i]
+        word_entry = words[word_id]
+        console.log("popover.js, word_id: " + word_id + ", word_entry: " +
+                    word_entry)
+        var notes = ""
+        if (('notes' in word_entry) && (word_entry['notes'] != '\N')) {
+          notes = word_entry['notes']
+        }
+        //console.log("popover.js, notes: " + word_entry['notes'])
+        if (wordIdArr.length == 1) {
+          text = '<p>' +  word_entry['pinyin'] + 
+                 ', ' + word_entry['english'] + '<br/>' + notes +
+                 '</p>';
+        } else {
+          text += '<li>' +  word_entry['pinyin'] + 
+                 ', ' + word_entry['english'] + '<br/>' + notes +
+                 '</li>';
+        }
+      }
+      if (wordIdArr.length > 1) {
+        text += "</ol>";
+      }
     } else if (this.hasAttribute('phrase_id')) {
       var phrase_id = this.getAttribute('phrase_id');
       phrase_entry = phrases[phrase_id]
