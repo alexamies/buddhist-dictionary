@@ -13,9 +13,12 @@ if [ -n "$PROD" ]; then
   	cp $CNREADER_HOME/data/dictionary/*.txt $PROD/data/dictionary/.
     cp $CNREADER_HOME/web/abbreviations.html $PROD/web/.
     cp $CNREADER_HOME/web/corpus.html $PROD/web/.
+    cp $CNREADER_HOME/web/index.html $PROD/web/.
+    cp $CNREADER_HOME/web/popular.html $PROD/web/.
     cp $CNREADER_HOME/web/references.html $PROD/web/.
     cp $CNREADER_HOME/web/syllables_ipa.html $PROD/web/.
     cp $CNREADER_HOME/web/whatsnew.html $PROD/web/.
+    cp $CNREADER_HOME/web/script/*.js $PROD/web/script/.
   else
     echo "CNREADER_HOME is not set"
     exit 1
