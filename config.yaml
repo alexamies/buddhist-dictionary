@@ -2,3 +2,6 @@
 
 # The name of the directory with dictionary files
 DictionaryDir: data/dictionary
+
+# The names of the lexical unit files
+LUFiles: words.txt,fgs_mwe.txt
