@@ -1,6 +1,6 @@
 ## Juppyter notebook
 ===============================================================================
-This directory contains a Python Juppyter notebook for exploring the Chinese-English dictionary. In order to use it you should install:
+This directory contains a Python Juppyter notebook for exploring curating the Chinese-English dictionary. In order to use it you should install:
 
 1. Python
 2. Numpy
