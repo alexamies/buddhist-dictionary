@@ -107,11 +107,70 @@ def TextExtractWords(text):
     print u"  Word: %s" % w.decode("utf-8")
 
 
+def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
+                  nscrolls = 1, kid = 0, sanskrit = u"",
+                  translator = u"Unknown", dynasty = u"", daterange = u""):
+  """
+  Write the colophon to a file
+
+  Parameters:
+    tid: Taisho number, an integer
+    colophon_cn: the colophon in Chinese
+    volume: Taisho volume number
+    english: English title
+    traditional: Taisho title in Chinese
+    url: The URL of the text at CBETA
+    nscrolls: number of scrolls, an integer
+    kid: Korean canon number, an integer
+    sanskrit: Sanskrit title
+    translator: Translator of the text
+  """
+
+  filename = "../corpus/taisho/t0%d_00.txt" % tid
+  print "Writing colophon to %s" % filename
+  with codecs.open(filename, 'w', "utf-8") as f:
+    kReference = u""
+    if kid != 0:
+      if sanskrit != "":
+        kReference = u"Sanskrit title and date "
+      else:
+        kReference = u"Date "
+      kReference += u"%s from Lancaster (Lancaster 2004, 'K %d')" % (daterange, 
+                    kid)
+    dynastyRef = u""
+    if dynasty != u"":
+      dynastyRef = u"Translated by %s in the %s in %d scroll(s)" % (translator,
+                   dynasty, nscrolls)
+    datestr = u"2016-09-15"
+
+    f.write("<h4>Colophon</h4>\n")
+    f.write(u"%s\n\n" % colophon_cn)
+    f.write(u"Volume %d, No. %d\n" % (volume, tid))
+    f.write(u"%s\n" % english)
+    f.write(u"%s\n\n" % dynastyRef)
+    f.write(u"<h4>Notes</h4>")
+    if kid > 0:
+      f.write(u"\n%s\n" % kReference)
+    f.write(u"English translations: None\n\n")
+    f.write(u"<h4>Primary Source</h4>\n")
+    f.write(u"%s, 《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
+            u"《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō "
+            u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %d, Accessed "
+            u"%s, <a href='%s'>%s</a>.\n\n" % (
+            translator, traditional, english, volume, tid, datestr, url, url))
+    f.write("<h4>References</h4>\n")
+    f.write("<ol><li>Lancaster, L.R. 2004, <i>The Korean Buddhist Canon: A "
+            "Descriptive Catalogue</i>, "
+            "<a href='http://www.acmuller.net/descriptive_catalogue/'"
+            ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
+
+
 def main():
   #print P2englishPN(u"guān Xūkōng Zàng Púsà jīng")
   #TextExtractWords(u"你好世界")
   #TextExtractWords(u"你好美國")
-  TextExtractWords(u"经")
+  #TextExtractWords(u"经")
+  WriteColophon(0, "", 0, "", "", "")
 
 wdict = OpenDictionary()
 if __name__ == "__main__": main()
