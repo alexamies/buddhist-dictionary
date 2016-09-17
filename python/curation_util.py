@@ -4,11 +4,65 @@ Utility for curation of dictionary entries in the accompanying Jupyter
 notebook.
 """
 import codecs
+import re
 import unicodedata
 
 
 DICT_FILE_NAME = '../data/dictionary/words.txt'
 wdict = {}
+
+
+def ExtractFromColophon(colophon_cn):
+  """
+  Extract details on translator, volume, etc from Chinese colphon
+
+  Parameters:
+    colophon_cn: Chinese colphon
+  Return
+    (volume)
+  """
+  lines = colophon_cn.split("\n")
+  n = len(lines)
+  if n < 5:
+    print "Only got %d lines" % n
+    return
+
+  # Volume number
+  print "Line 1: '%s'" % lines[0]
+  volumeEx = re.compile(ur"\d\d", re.UNICODE)
+  m = volumeEx.search(lines[0])
+  v = None
+  if m:
+    v = int(m.group())
+  else:
+    print "Volume not found"
+  
+  # Translator
+  #print u"\u8B6F"
+  translator = ""
+  l4 = lines[3]
+  print "Line 4: '%s' (%d)" % (l4, len(l4))
+  if len(l4) < 2:
+    print "Translator not found"
+  else:
+    volumeEx = re.compile(ur"[^\u8B6F]*", re.UNICODE) # not 譯
+    m = volumeEx.search(l4)
+    translator = m.group()
+    if translator == u"失":
+      translator = u"Unknown"
+
+  # Number of scrolls
+  l6 = lines[5]
+  print "Line 6: '%s'" % l6
+  nscrolls = 1
+  scrollsEx = re.compile(ur"[\d]+", re.UNICODE)
+  m = scrollsEx.search(l6)
+  if m:
+    nscrolls = int(m.group())
+  else:
+    print "No. scrolls not found"
+
+  return (v, translator, nscrolls)
 
 
 def ExtractWords(text):
@@ -99,14 +153,6 @@ def P2englishPN(pinyin):
     english += part.capitalize() + " "
   return english.strip()
 
-
-def TextExtractWords(text):
-  words = ExtractWords(text)
-  print "result"
-  for w in words:
-    print u"  Word: %s" % w.decode("utf-8")
-
-
 def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
                   nscrolls = 1, kid = 0, sanskrit = u"",
                   translator = u"Unknown", dynasty = u"", daterange = u""):
@@ -135,11 +181,11 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
         kReference = u"Sanskrit title and date "
       else:
         kReference = u"Date "
-      kReference += u"%s from Lancaster (Lancaster 2004, 'K %d')" % (daterange, 
+      kReference += u"%s from Lancaster (Lancaster 2004, 'K %d')\n" % (daterange, 
                     kid)
     dynastyRef = u""
     if dynasty != u"":
-      dynastyRef = u"Translated by %s in the %s in %d scroll(s)" % (translator,
+      dynastyRef = u"Translated by %s in the %s in %d scroll(s)\n" % (translator,
                    dynasty, nscrolls)
     datestr = u"2016-09-15"
 
@@ -148,7 +194,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     f.write(u"Volume %d, No. %d\n" % (volume, tid))
     f.write(u"%s\n" % english)
     f.write(u"%s\n\n" % dynastyRef)
-    f.write(u"<h4>Notes</h4>")
+    f.write(u"<h4>Notes</h4>\n")
     if kid > 0:
       f.write(u"\n%s\n" % kReference)
     f.write(u"English translations: None\n\n")
@@ -165,12 +211,4 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
             ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
 
 
-def main():
-  #print P2englishPN(u"guān Xūkōng Zàng Púsà jīng")
-  #TextExtractWords(u"你好世界")
-  #TextExtractWords(u"你好美國")
-  #TextExtractWords(u"经")
-  WriteColophon(0, "", 0, "", "", "")
-
 wdict = OpenDictionary()
-if __name__ == "__main__": main()
