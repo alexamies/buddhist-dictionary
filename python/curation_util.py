@@ -8,6 +8,8 @@ import re
 import unicodedata
 from datetime import date
 
+from korean import getkoreanid
+
 
 DICT_FILE_NAME = '../data/dictionary/words.txt'
 wdict = {}
@@ -19,8 +21,6 @@ def ExtractFromColophon(colophon_cn):
 
   Parameters:
     colophon_cn: Chinese colphon
-  Return
-    (volume)
   """
   v = None
   tid = u""
@@ -46,7 +46,7 @@ def ExtractFromColophon(colophon_cn):
         v = int(m.group(1))
       else:
         print "Volume not found"
-      tidEx = re.compile(ur"No. 0(\d\d\d)", re.UNICODE)
+      tidEx = re.compile(ur"No. 0(\d\d\d[\S]{0,1})", re.UNICODE)
       m = tidEx.search(line)
       if m:
         tid = m.group(1)
@@ -102,7 +102,6 @@ def ExtractFromColophon(colophon_cn):
         nscrolls = int(m.group())
       else:
         print "No. scrolls not found"
-
   return (v, tid, nscrolls, translator, dynasty)
 
 
@@ -234,18 +233,18 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
         kReference = u"Sanskrit title and date "
       else:
         kReference = u"Date "
-      kReference += u"%s from Lancaster (Lancaster 2004, 'K %d')" % (daterange, 
+      kReference += u"%s from Lancaster (Lancaster 2004, 'K %s')" % (daterange, 
                     kid)
+    scrollStr = u"scroll"
+    if nscrolls > 1:
+      scrollStr = u"scrolls"
     dynastyRef = u""
     if dynasty != u"":
-      scrollStr = u"scroll"
-      if nscrolls > 1:
-        scrollStr = u"scrolls"
       dynastyRef = u"Translated by %s in the %s in %d %s" % (translator,
                    dynasty, nscrolls, scrollStr)
     elif translator != u"":
-      dynastyRef = u"Translated by %s in %d scroll(s)" % (translator,
-                   nscrolls)
+      dynastyRef = u"Translated by %s in %d %s" % (translator,
+                   nscrolls, scrollStr)
     datestr = date.today().strftime("%Y-%m-%d")
 
     f.write("<h4>Colophon</h4>\n")

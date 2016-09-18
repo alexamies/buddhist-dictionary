@@ -54,13 +54,32 @@ def TestExtractFromColophon3():
 
 
 def TestExtractFromColophon4():
-  colophon_cn = u"""第 14 冊　No. 0447b
+  colophon_cn = u"""第 14 冊　No. 0493
 
-現在賢劫千佛名經
+佛說阿難四事經
+吳 支謙譯
+
 共 1 卷"""
   (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon4"
   print "Returned volume %d" % v
+  print "Returned tid '%s'" % tid
+  print u"Returned nscrolls %d" % nscrolls
+  print u"Returned translator %s" % translator
+  print u"Returned dynasty %s" % dynasty
+
+
+def TestExtractFromColophon5():
+  colophon_cn = u"""第 14 冊　No. 0492a
+
+佛說阿難問事佛吉凶經
+後漢 安世高譯
+
+共 1 卷"""
+  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  print "TestExtractFromColophon5"
+  print "Returned volume %d" % v
+  print "Returned tid '%s'" % tid
   print u"Returned nscrolls %d" % nscrolls
   print u"Returned translator %s" % translator
   print u"Returned dynasty %s" % dynasty
@@ -80,9 +99,10 @@ def main():
   #TextExtractWords(u"经")
   #WriteColophon(0, "", 0, "", "", "")
   #TestExtractFromColophon1()
-  TestExtractFromColophon2()
+  #TestExtractFromColophon2()
   #TestExtractFromColophon3()
-  #TestExtractFromColophon4()
+  TestExtractFromColophon4()
+  TestExtractFromColophon5()
 
 
 if __name__ == "__main__": main()
