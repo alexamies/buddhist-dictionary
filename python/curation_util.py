@@ -52,9 +52,14 @@ def ExtractFromColophon(colophon_cn):
       chunks = line.split()
       if len(chunks) == 2:
         if chunks[0] in wdict:
-          dynasty = wdict[chunks[0]]["english"]
-          dynasty = dynasty.replace("Dynasty", "")
-          dynasty = dynasty.strip()
+          if chunks[0] == u"梁":
+            dynasty = u"Liang"
+          else:
+            dynasty = wdict[chunks[0]]["english"]
+            dynasty = dynasty.replace("Dynasty", "")
+            dynasty = dynasty.strip()
+            dynastyTokens = dynasty.split("/")
+            dynasty = dynastyTokens[0].strip()
         line = chunks[1]
       if len(line) < 2:
         print "Translator not found"

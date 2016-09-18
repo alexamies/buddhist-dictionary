@@ -23,12 +23,12 @@ def TestExtractFromColophon1():
 
 
 def TestExtractFromColophon2():
-  colophon_cn = u"""第 14 冊　No. 0462
+  colophon_cn = u"""第 14 冊　No. 0470
 
-大方廣寶篋經
-劉宋 求那跋陀羅譯
+佛說文殊師利巡行經
+元魏 菩提流支譯
 
-共 3 卷"""
+共 1 卷"""
   (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon2"
   print "Returned volume %d" % v
