@@ -14,7 +14,7 @@ def TestExtractFromColophon1():
 失譯
 
 共 1 卷"""
-  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon1"
   print "Returned volume %d" % v
   print u"Returned nscrolls %d" % nscrolls
@@ -23,15 +23,16 @@ def TestExtractFromColophon1():
 
 
 def TestExtractFromColophon2():
-  colophon_cn = u"""第 14 冊　No. 0470
+  colophon_cn = u"""第 14 冊　No. 0489
 
-佛說文殊師利巡行經
-元魏 菩提流支譯
+佛說除蓋障菩薩所問經
+宋 法護等譯
 
-共 1 卷"""
-  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+共 20 卷"""
+  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon2"
   print "Returned volume %d" % v
+  print "Returned tid '%s'" % tid
   print u"Returned nscrolls %d" % nscrolls
   print u"Returned translator '%s'" % translator
   print u"Returned dynasty '%s'" % dynasty
@@ -44,7 +45,7 @@ def TestExtractFromColophon3():
 闕譯
 
 共 1 卷"""
-  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon3"
   print "Returned volume %d" % v
   print u"Returned nscrolls %d" % nscrolls
@@ -57,7 +58,7 @@ def TestExtractFromColophon4():
 
 現在賢劫千佛名經
 共 1 卷"""
-  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon4"
   print "Returned volume %d" % v
   print u"Returned nscrolls %d" % nscrolls

@@ -6,6 +6,7 @@ notebook.
 import codecs
 import re
 import unicodedata
+from datetime import date
 
 
 DICT_FILE_NAME = '../data/dictionary/words.txt'
@@ -22,6 +23,7 @@ def ExtractFromColophon(colophon_cn):
     (volume)
   """
   v = None
+  tid = u""
   dynasty = u""
   translator = u"Unknown"
   nscrolls = 1
@@ -38,12 +40,18 @@ def ExtractFromColophon(colophon_cn):
     isVolumeEx = re.compile(ur"^第[\s|\S]*", re.UNICODE)
     if isVolumeEx.match(line):
       #print "Got volume match"
-      volumeEx = re.compile(ur"\d\d", re.UNICODE)
-      m = volumeEx.search(lines[0])
+      volumeEx = re.compile(ur"第 (\d\d)", re.UNICODE)
+      m = volumeEx.search(line)
       if m:
-        v = int(m.group())
+        v = int(m.group(1))
       else:
         print "Volume not found"
+      tidEx = re.compile(ur"No. 0(\d\d\d)", re.UNICODE)
+      m = tidEx.search(line)
+      if m:
+        tid = m.group(1)
+      else:
+        print "Taisho number not found"
   
     # Translator
     isTranslatorEx = re.compile(ur"[\s|\S]*譯", re.UNICODE)
@@ -74,7 +82,15 @@ def ExtractFromColophon(colophon_cn):
           transTokens = translator.split("/")
           translator = transTokens[0].strip()
         else:
-          print u"Translator %s not found" % translator
+          if translator[-1] == u"等":
+            translator = translator[:-1]
+            if translator in wdict:
+              translator = wdict[translator]["english"]
+              transTokens = translator.split("/")
+              translator = transTokens[0].strip()
+              translator += " and others"
+          else:
+            print u"Translator %s not found" % translator
 
     # Number of scrolls
     isScrollsEx = re.compile(ur"共[\s|\S]*", re.UNICODE)
@@ -87,7 +103,7 @@ def ExtractFromColophon(colophon_cn):
       else:
         print "No. scrolls not found"
 
-  return (v, nscrolls, translator, dynasty)
+  return (v, tid, nscrolls, translator, dynasty)
 
 
 def ExtractWords(text):
@@ -178,6 +194,18 @@ def P2englishPN(pinyin):
     english += part.capitalize() + " "
   return english.strip()
 
+
+def WriteCollectionEntry(tid, title, translator, daterange, genre):
+  """
+  Appends an entry to the collection file
+  """
+  entry = u"\ntaisho/t0%s.csv\ttaisho/t0%s.html\t%s\tTranslated by %s\ttaisho/t0%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
+    tid, tid, title, translator, tid, daterange, genre)
+  filename = "../data/corpus/collections.csv"
+  with codecs.open(filename, 'a', "utf-8") as f:
+    f.write(entry)
+
+
 def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
                   nscrolls = 1, kid = 0, sanskrit = u"",
                   translator = u"Unknown", dynasty = u"", daterange = u""):
@@ -218,7 +246,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     elif translator != u"":
       dynastyRef = u"Translated by %s in %d scroll(s)" % (translator,
                    nscrolls)
-    datestr = u"2016-09-17"
+    datestr = date.today().strftime("%Y-%m-%d")
 
     f.write("<h4>Colophon</h4>\n")
     f.write(u"%s\n\n" % colophon_cn)
