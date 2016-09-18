@@ -21,48 +21,68 @@ def ExtractFromColophon(colophon_cn):
   Return
     (volume)
   """
+  v = None
+  dynasty = u""
+  translator = u"Unknown"
+  nscrolls = 1
+
   lines = colophon_cn.split("\n")
   n = len(lines)
   if n < 5:
     print "Only got %d lines" % n
-    return
 
-  # Volume number
-  print "Line 1: '%s'" % lines[0]
-  volumeEx = re.compile(ur"\d\d", re.UNICODE)
-  m = volumeEx.search(lines[0])
-  v = None
-  if m:
-    v = int(m.group())
-  else:
-    print "Volume not found"
+  for line in lines:
+    #print "Line: '%s'" % line
+
+    # Volume number
+    isVolumeEx = re.compile(ur"^第[\s|\S]*", re.UNICODE)
+    if isVolumeEx.match(line):
+      #print "Got volume match"
+      volumeEx = re.compile(ur"\d\d", re.UNICODE)
+      m = volumeEx.search(lines[0])
+      if m:
+        v = int(m.group())
+      else:
+        print "Volume not found"
   
-  # Translator
-  #print u"\u8B6F"
-  translator = ""
-  l4 = lines[3]
-  print "Line 4: '%s' (%d)" % (l4, len(l4))
-  if len(l4) < 2:
-    print "Translator not found"
-  else:
-    volumeEx = re.compile(ur"[^\u8B6F]*", re.UNICODE) # not 譯
-    m = volumeEx.search(l4)
-    translator = m.group()
-    if translator == u"失":
-      translator = u"Unknown"
+    # Translator
+    isTranslatorEx = re.compile(ur"[\s|\S]*譯", re.UNICODE)
+    if isTranslatorEx.match(line):
+      #print "Got translator match"
+      chunks = line.split()
+      if len(chunks) == 2:
+        if chunks[0] in wdict:
+          dynasty = wdict[chunks[0]]["english"]
+          dynasty = dynasty.replace("Dynasty", "")
+          dynasty = dynasty.strip()
+        line = chunks[1]
+      if len(line) < 2:
+        print "Translator not found"
+      else:
+        volumeEx = re.compile(ur"[^\u8B6F]*", re.UNICODE) # not 譯
+        m = volumeEx.search(line)
+        translator = m.group()
+        if translator == u"失" or translator == u"闕":
+          translator = u"Unknown"
+        elif translator in wdict:
+          translator = wdict[translator]["english"]
+          transTokens = translator.split("/")
+          translator = transTokens[0].strip()
+        else:
+          print u"Translator %s not found" % translator
 
-  # Number of scrolls
-  l6 = lines[5]
-  print "Line 6: '%s'" % l6
-  nscrolls = 1
-  scrollsEx = re.compile(ur"[\d]+", re.UNICODE)
-  m = scrollsEx.search(l6)
-  if m:
-    nscrolls = int(m.group())
-  else:
-    print "No. scrolls not found"
+    # Number of scrolls
+    isScrollsEx = re.compile(ur"共[\s|\S]*", re.UNICODE)
+    if isScrollsEx.match(line):
+      #print "Got scrolls match"
+      scrollsEx = re.compile(ur"[\d]+", re.UNICODE)
+      m = scrollsEx.search(line)
+      if m:
+        nscrolls = int(m.group())
+      else:
+        print "No. scrolls not found"
 
-  return (v, translator, nscrolls)
+  return (v, nscrolls, translator, dynasty)
 
 
 def ExtractWords(text):
@@ -172,7 +192,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     translator: Translator of the text
   """
 
-  filename = "../corpus/taisho/t0%d_00.txt" % tid
+  filename = "../corpus/taisho/t0%s_00.txt" % tid
   print "Writing colophon to %s" % filename
   with codecs.open(filename, 'w', "utf-8") as f:
     kReference = u""
@@ -181,17 +201,23 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
         kReference = u"Sanskrit title and date "
       else:
         kReference = u"Date "
-      kReference += u"%s from Lancaster (Lancaster 2004, 'K %d')\n" % (daterange, 
+      kReference += u"%s from Lancaster (Lancaster 2004, 'K %d')" % (daterange, 
                     kid)
     dynastyRef = u""
     if dynasty != u"":
-      dynastyRef = u"Translated by %s in the %s in %d scroll(s)\n" % (translator,
-                   dynasty, nscrolls)
-    datestr = u"2016-09-15"
+      scrollStr = u"scroll"
+      if nscrolls > 1:
+        scrollStr = u"scrolls"
+      dynastyRef = u"Translated by %s in the %s in %d %s" % (translator,
+                   dynasty, nscrolls, scrollStr)
+    elif translator != u"":
+      dynastyRef = u"Translated by %s in %d scroll(s)" % (translator,
+                   nscrolls)
+    datestr = u"2016-09-17"
 
     f.write("<h4>Colophon</h4>\n")
     f.write(u"%s\n\n" % colophon_cn)
-    f.write(u"Volume %d, No. %d\n" % (volume, tid))
+    f.write(u"Volume %d, No. %s\n" % (volume, tid))
     f.write(u"%s\n" % english)
     f.write(u"%s\n\n" % dynastyRef)
     f.write(u"<h4>Notes</h4>\n")
@@ -201,7 +227,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     f.write(u"<h4>Primary Source</h4>\n")
     f.write(u"%s, 《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
             u"《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō "
-            u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %d, Accessed "
+            u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %s, Accessed "
             u"%s, <a href='%s'>%s</a>.\n\n" % (
             translator, traditional, english, volume, tid, datestr, url, url))
     f.write("<h4>References</h4>\n")

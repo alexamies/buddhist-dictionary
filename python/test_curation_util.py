@@ -7,17 +7,62 @@ from curation_util import ExtractWords
 from curation_util import P2englishPN
 from curation_util import WriteColophon
 
-def TestExtractFromColophon():
+def TestExtractFromColophon1():
   colophon_cn = u"""第 14 冊　No. 0442
 
 十方千五百佛名經
 失譯
 
 共 1 卷"""
-  (v, t, nscrolls) = ExtractFromColophon(colophon_cn)
+  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  print "TestExtractFromColophon1"
   print "Returned volume %d" % v
-  print u"Returned translator %s" % t
   print u"Returned nscrolls %d" % nscrolls
+  print u"Returned translator %s" % translator
+  print u"Returned dynasty %s\n" % dynasty
+
+
+def TestExtractFromColophon2():
+  colophon_cn = u"""第 14 冊　No. 0462
+
+大方廣寶篋經
+劉宋 求那跋陀羅譯
+
+共 3 卷"""
+  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  print "TestExtractFromColophon2"
+  print "Returned volume %d" % v
+  print u"Returned nscrolls %d" % nscrolls
+  print u"Returned translator '%s'" % translator
+  print u"Returned dynasty '%s'" % dynasty
+
+
+def TestExtractFromColophon3():
+  colophon_cn = u"""第 14 冊　No. 0446a
+
+過去莊嚴劫千佛名經
+闕譯
+
+共 1 卷"""
+  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  print "TestExtractFromColophon3"
+  print "Returned volume %d" % v
+  print u"Returned nscrolls %d" % nscrolls
+  print u"Returned translator %s" % translator
+  print u"Returned dynasty %s" % dynasty
+
+
+def TestExtractFromColophon4():
+  colophon_cn = u"""第 14 冊　No. 0447b
+
+現在賢劫千佛名經
+共 1 卷"""
+  (v, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  print "TestExtractFromColophon4"
+  print "Returned volume %d" % v
+  print u"Returned nscrolls %d" % nscrolls
+  print u"Returned translator %s" % translator
+  print u"Returned dynasty %s" % dynasty
 
 
 def TextExtractWords(text):
@@ -33,7 +78,10 @@ def main():
   #TextExtractWords(u"你好美國")
   #TextExtractWords(u"经")
   #WriteColophon(0, "", 0, "", "", "")
-  TestExtractFromColophon()
+  #TestExtractFromColophon1()
+  TestExtractFromColophon2()
+  #TestExtractFromColophon3()
+  #TestExtractFromColophon4()
 
 
 if __name__ == "__main__": main()
