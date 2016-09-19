@@ -105,6 +105,26 @@ def ExtractFromColophon(colophon_cn):
   return (v, tid, nscrolls, translator, dynasty)
 
 
+def InsertIntoVolume(volume, text):
+  """
+  Inserts the given text into the HTML file for the the Taisho volume.
+
+  A marker will be used to find the right place to insert the text.
+  """
+  file = "../html/taisho/t%d.html" % volume
+  doc = u""
+  tagEx = re.compile(r"[\s]*\{\{next_title\}\}")
+  with codecs.open(file, 'r', "utf-8") as f:
+    for line in f:
+      if tagEx.match(line):
+        doc += tagEx.sub(text, line)
+      else:
+        doc += line
+
+  with codecs.open(file, 'w', "utf-8") as outfile:
+    outfile.write(doc)
+
+
 def ExtractWords(text):
   """Extracts words from a chunk of Chinese text.
 

@@ -2,10 +2,12 @@
 """
 Tests utilities for curation of dictionary entries
 """
-from curation_util import ExtractFromColophon
+
 from curation_util import ExtractWords
 from curation_util import P2englishPN
 from curation_util import WriteColophon
+from curation_util import InsertIntoVolume
+
 
 def TestExtractFromColophon1():
   colophon_cn = u"""第 14 冊　No. 0442
@@ -101,8 +103,9 @@ def main():
   #TestExtractFromColophon1()
   #TestExtractFromColophon2()
   #TestExtractFromColophon3()
-  TestExtractFromColophon4()
-  TestExtractFromColophon5()
+  #TestExtractFromColophon4()
+  #TestExtractFromColophon5()
+  InsertIntoVolume(14, "Test input")
 
 
 if __name__ == "__main__": main()
