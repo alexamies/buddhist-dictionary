@@ -21,21 +21,17 @@ def geturl(volume, tid):
   return url
 
 
-def saveScrollFromWeb(volume, tid, scrollno, title):
-  """
-  Fetch the scroll over HTTP and save plain text to local disk.
-  """
-  scrollStr = "00%d" % scrollno
-  if 10 <= scrollno and scrollno < 100:
-    scrollStr = "0%d" % scrollno
-  elif 100 <= scrollno:
-  	scrollStr = "%d" % scrollno
-  tidStr = "0%s" % tid
-  url = "http://tripitaka.cbeta.org/T%dn%s_%s" % (volume, tidStr, scrollStr)
-  print url
-  text = readWebToPlainText(url, tidStr)
+def htmlToPlainText(html, tidStr):
+  soup = BeautifulSoup(html)
+  juanname = u""
+  tags = soup.find_all("span", class_="juanname")
+  if tags:
+    juanname = tags[0].get_text()
+  print "juanname: %s" % juanname
+  text = soup.find(id=tidStr).get_text()
   lines = text.split("\n")
-  isTitleEx = re.compile(title, re.UNICODE)
+  pattern = ur"(%s)(.*)" % juanname
+  isTitleEx = re.compile(pattern, re.UNICODE)
   isEndEx = re.compile(ur"網路分享", re.UNICODE)
   start = False
   doc = u""
@@ -49,7 +45,56 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
       m = isTitleEx.search(line)
       if m:
         start = True
-        doc += line.replace(u"[", u"\n[").replace(u"【", u"\n【")
+        doc = m.group(1) + "\n" + m.group(2).replace(u"[", u"\n[").replace(u"【", u"\n【")
+
+  doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 台灣 (中華民國) 授權條款授權.
+Copyright ©1998-2016 CBETA\n"""
+  return text
+
+
+def saveScrolls(volume, tid, numscrolls, title):
+  """
+  Saves the series of scrolls from the title.
+
+  Saves the files to the Taisho corpus folder on local disk
+  """
+  for i in range(1, numscrolls + 1):
+  	saveScrollFromWeb(volume, tid, i, title)
+
+
+def saveScrollFromWeb(volume, tid, scrollno, title):
+  """
+  Fetch the scroll over HTTP and save plain text to local disk.
+  """
+  print "saveScrollFromWeb, title: %s" % title
+  scrollStr = "00%d" % scrollno
+  if 10 <= scrollno and scrollno < 100:
+    scrollStr = "0%d" % scrollno
+  elif 100 <= scrollno:
+  	scrollStr = "%d" % scrollno
+  tidStr = "0%s" % tid
+  url = "http://tripitaka.cbeta.org/T%dn%s_%s" % (volume, tidStr, scrollStr)
+  print url
+  (juanname, text) = readWebToPlainText(url, tidStr)
+  if juanname == u"":
+    juanname = title
+  lines = text.split("\n")
+  pattern = ur"%s(.*)" % juanname
+  isTitleEx = re.compile(pattern, re.UNICODE)
+  isEndEx = re.compile(ur"網路分享", re.UNICODE)
+  start = False
+  doc = u""
+  for line in lines:
+    if start:
+      doc += line.replace(u"[", u"\n[").replace(u"【", u"\n【")
+      m = isEndEx.search(line)
+      if m:
+        break
+    else:
+      m = isTitleEx.search(line)
+      if m:
+        start = True
+        doc = juanname + "\n" + m.group(1).replace(u"[", u"\n[").replace(u"【", u"\n【")
 
   doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 台灣 (中華民國) 授權條款授權.
 Copyright ©1998-2016 CBETA\n"""
@@ -70,7 +115,12 @@ def readWebToPlainText(url, tidStr):
   """
   html_doc = urllib2.urlopen(url).read()
   soup = BeautifulSoup(html_doc)
-  return soup.find(id=tidStr).get_text()
+  juanname = u""
+  tags = soup.find_all("span", class_="juanname")
+  if tags:
+    juanname = tags[0].get_text()
+  text = soup.find(id=tidStr).get_text()
+  return (juanname, text)
   """
   [s.extract() for s in soup(['style', 'script', '[document]', 'head', 'title'])]
   text = ''

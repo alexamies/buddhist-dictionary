@@ -248,7 +248,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
   print "Writing colophon to %s" % filename
   with codecs.open(filename, 'w', "utf-8") as f:
     kReference = u""
-    if kid != 0:
+    if kid != "0":
       if sanskrit != "":
         kReference = u"Sanskrit title and date "
       else:
@@ -282,11 +282,12 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
             u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %s, Accessed "
             u"%s, <a href='%s'>%s</a>.\n\n" % (
             translator, traditional, english, volume, tid, datestr, url, url))
-    f.write("<h4>References</h4>\n")
-    f.write("<ol><li>Lancaster, L.R. 2004, <i>The Korean Buddhist Canon: A "
-            "Descriptive Catalogue</i>, "
-            "<a href='http://www.acmuller.net/descriptive_catalogue/'"
-            ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
+    if kid != "0":
+      f.write("<h4>References</h4>\n")
+      f.write("<ol><li>Lancaster, L.R. 2004, <i>The Korean Buddhist Canon: A "
+              "Descriptive Catalogue</i>, "
+              "<a href='http://www.acmuller.net/descriptive_catalogue/'"
+              ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
 
 
 wdict = OpenDictionary()
