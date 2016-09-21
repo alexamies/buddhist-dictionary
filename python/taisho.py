@@ -9,6 +9,8 @@ import urllib2
 
 from bs4 import BeautifulSoup
 
+import html2text
+
 
 def geturl(volume, tid):
   """
@@ -76,25 +78,33 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
   url = "http://tripitaka.cbeta.org/T%dn%s_%s" % (volume, tidStr, scrollStr)
   print url
   (juanname, text) = readWebToPlainText(url, tidStr)
+
   if juanname == u"":
     juanname = title
   lines = text.split("\n")
-  pattern = ur"%s(.*)" % juanname
+  pattern = ur"(%s)" % juanname
   isTitleEx = re.compile(pattern, re.UNICODE)
   isEndEx = re.compile(ur"網路分享", re.UNICODE)
+  isNulEx = re.compile(ur"\0", re.UNICODE)
+  isNavEx = re.compile(ur"▲", re.UNICODE)
   start = False
   doc = u""
   for line in lines:
+    #print "line: %s" % line
     if start:
-      doc += line.replace(u"[", u"\n[").replace(u"【", u"\n【")
-      m = isEndEx.search(line)
-      if m:
+      m1 = isEndEx.search(line)
+      m2 = isNulEx.search(line)
+      m3 = isNavEx.search(line)
+      if m1:
         break
+      elif m2 or m3:
+        continue
+      doc += line + "\n"
     else:
       m = isTitleEx.search(line)
       if m:
         start = True
-        doc = juanname + "\n" + m.group(1).replace(u"[", u"\n[").replace(u"【", u"\n【")
+        doc = juanname + "\n"# + m.group(2) + "\n"
 
   doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 台灣 (中華民國) 授權條款授權.
 Copyright ©1998-2016 CBETA\n"""
@@ -113,36 +123,12 @@ def readWebToPlainText(url, tidStr):
   """
   Fetch the HTML document over HTTP and return plain text
   """
-  html_doc = urllib2.urlopen(url).read()
+  html_doc = urllib2.urlopen(url).read().decode('utf8')
   soup = BeautifulSoup(html_doc)
   juanname = u""
   tags = soup.find_all("span", class_="juanname")
   if tags:
     juanname = tags[0].get_text()
-  text = soup.find(id=tidStr).get_text()
+  main = soup.find(id=tidStr)
+  text = html2text.html2text(main.prettify())
   return (juanname, text)
-  """
-  [s.extract() for s in soup(['style', 'script', '[document]', 'head', 'title'])]
-  text = ''
-  #for text_str in soup.strings:
-  for tag in soup.find_all():
-    text_str = tag.string
-    #print(text_str)
-    if text_str and tag.name == u'p':
-      text_str = text_str.strip() + '\n'
-    elif text_str and tag.name == u'div':
-      text_str = text_str.strip() + '\n'
-    elif tag.name == u'h1':
-      continue
-    elif text_str and tag.name == u'h2':
-      text_str = text_str.strip() + '\n'
-    elif text_str and tag.name == u'h3':
-      text_str = text_str.strip() + '\n'
-    elif text_str and tag.name == u'h4':
-      text_str = text_str.strip() + '\n'
-    elif text_str and tag.name == u'h5':
-      text_str = text_str.strip() + '\n'
-    if text_str and text_str.strip() != '':
-      text += text_str
-  return text
-  """

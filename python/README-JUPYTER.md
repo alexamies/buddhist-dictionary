@@ -8,6 +8,8 @@ curating the Chinese-English dictionary and Taisho reader. In order to use it yo
 3. Pandas
 4. Matplotlib
 5. Jupyter
+6. Beautiful Soup
+7. html2text
 
 You can install 2-5 in one step using Anaconda.
 
