@@ -23,37 +23,6 @@ def geturl(volume, tid):
   return url
 
 
-def htmlToPlainText(html, tidStr):
-  soup = BeautifulSoup(html)
-  juanname = u""
-  tags = soup.find_all("span", class_="juanname")
-  if tags:
-    juanname = tags[0].get_text()
-  print "juanname: %s" % juanname
-  text = soup.find(id=tidStr).get_text()
-  lines = text.split("\n")
-  pattern = ur"(%s)(.*)" % juanname
-  isTitleEx = re.compile(pattern, re.UNICODE)
-  isEndEx = re.compile(ur"網路分享", re.UNICODE)
-  start = False
-  doc = u""
-  for line in lines:
-    if start:
-      doc += line.replace(u"[", u"\n[").replace(u"【", u"\n【")
-      m = isEndEx.search(line)
-      if m:
-        break
-    else:
-      m = isTitleEx.search(line)
-      if m:
-        start = True
-        doc = m.group(1) + "\n" + m.group(2).replace(u"[", u"\n[").replace(u"【", u"\n【")
-
-  doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 台灣 (中華民國) 授權條款授權.
-Copyright ©1998-2016 CBETA\n"""
-  return text
-
-
 def saveScrolls(volume, tid, numscrolls, title):
   """
   Saves the series of scrolls from the title.
@@ -82,29 +51,37 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
   if juanname == u"":
     juanname = title
   lines = text.split("\n")
-  pattern = ur"(%s)" % juanname
+  pattern = ur"(%s)(.*)" % juanname
   isTitleEx = re.compile(pattern, re.UNICODE)
-  isEndEx = re.compile(ur"網路分享", re.UNICODE)
+  isEndEx = re.compile(ur"(.*)網路分享", re.UNICODE)
   isNulEx = re.compile(ur"\0", re.UNICODE)
   isNavEx = re.compile(ur"▲", re.UNICODE)
   start = False
   doc = u""
   for line in lines:
-    #print "line: %s" % line
+    print "line: %s" % line
     if start:
       m1 = isEndEx.search(line)
       m2 = isNulEx.search(line)
       m3 = isNavEx.search(line)
       if m1:
+        print "m1, line: %s" % line
+        doc += m.group(2) + "\n"
         break
-      elif m2 or m3:
+      elif m2:
+        print "m2, line: %s" % line
+        line.replace("\0", "")
+      elif m3:
+        print "m3, line: %s" % line
         continue
+      #print "line: %s" % line
       doc += line + "\n"
     else:
       m = isTitleEx.search(line)
       if m:
         start = True
-        doc = juanname + "\n"# + m.group(2) + "\n"
+        print "start, juanname: %s, m.group(2): %s" % (juanname, m.group(2))
+        doc = juanname + "\n" + m.group(2) + "\n"
 
   doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 台灣 (中華民國) 授權條款授權.
 Copyright ©1998-2016 CBETA\n"""
@@ -128,7 +105,8 @@ def readWebToPlainText(url, tidStr):
   juanname = u""
   tags = soup.find_all("span", class_="juanname")
   if tags:
-    juanname = tags[0].get_text()
+    juanname = tags[0].get_text().replace(" ", "")
+  print "juanname' '%s'" % juanname
   main = soup.find(id=tidStr)
   text = html2text.html2text(main.prettify())
   return (juanname, text)
