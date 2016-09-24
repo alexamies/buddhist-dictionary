@@ -52,19 +52,6 @@ database. They work directly from the text files.
    > SET foreign_key_checks = 0;
 
    Load the data. Look for the foreign key problem with a select statement.
-   For the Sanskrit table use statements like
-
-   > SELECT id FROM sanskrit WHERE grammar NOT IN (SELECT id FROM sans_grammar);
-   > SELECT id FROM sanskrit WHERE word_id NOT IN (SELECT id FROM words);
-
-   For the character table use a statement like
-
-   > SELECT unicode FROM characters WHERE type NOT IN (SELECT type FROM character_types);
-
-   For the variants table use statements like
-
-   > SELECT c1 FROM variants WHERE c1 NOT IN (SELECT c FROM characters);
-   > SELECT c2 FROM variants WHERE c2 NOT IN (SELECT c FROM characters);
 
    For the illustrations table use statements like
 
