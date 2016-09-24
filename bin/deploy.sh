@@ -10,7 +10,7 @@ if [ -n "$PROD" ]; then
   	cp $CNREADER_HOME/web/analysis/*.html $PROD/web/analysis/.
   	cp $CNREADER_HOME/web/analysis/taisho/*.html $PROD/web/analysis/taisho/.
   	cp $CNREADER_HOME/web/taisho/*.html $PROD/web/taisho/.
-  	cp $CNREADER_HOME/data/dictionary/*.txt $PROD/data/dictionary/.
+  	cp $CNREADER_HOME/data/dictionary/*.* $PROD/data/dictionary/.
     cp $CNREADER_HOME/web/abbreviations.html $PROD/web/.
     cp $CNREADER_HOME/web/corpus.html $PROD/web/.
     cp $CNREADER_HOME/web/index.html $PROD/web/.
