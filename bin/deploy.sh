@@ -17,6 +17,7 @@ if [ -n "$PROD" ]; then
     cp $CNREADER_HOME/web/popular.html $PROD/web/.
     cp $CNREADER_HOME/web/references.html $PROD/web/.
     cp $CNREADER_HOME/web/syllables_ipa.html $PROD/web/.
+    cp $CNREADER_HOME/web/tools.html $PROD/web/.
     cp $CNREADER_HOME/web/whatsnew.html $PROD/web/.
     cp $CNREADER_HOME/web/script/*.js $PROD/web/script/.
   else
