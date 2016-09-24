@@ -9,6 +9,7 @@ import unicodedata
 from datetime import date
 
 from korean import getkoreanid
+import taisho_contents
 
 
 DICT_FILE_NAME = '../data/dictionary/words.txt'
@@ -60,15 +61,8 @@ def ExtractFromColophon(colophon_cn):
       chunks = line.split()
       if len(chunks) == 2:
         if chunks[0] in wdict:
-          if chunks[0] == u"梁":
-            dynasty = u"Liang"
-          else:
-            dynasty = wdict[chunks[0]]["english"]
-            dynasty = dynasty.replace("Dynasty", "")
-            dynasty = dynasty.strip()
-            dynastyTokens = dynasty.split("/")
-            dynasty = dynastyTokens[0].strip()
-        line = chunks[1]
+          dynasty = GetDynastyEn(chunks[0])
+      line = chunks[1]
       if len(line) < 2:
         print "Translator not found"
       else:
@@ -103,6 +97,58 @@ def ExtractFromColophon(colophon_cn):
       else:
         print "No. scrolls not found"
   return (v, tid, nscrolls, translator, dynasty)
+
+
+def GetDynastyEn(dynasty_cn):
+  """
+  Gets the dynasty in English and does some mangling to make it readable."""
+  dynasty_en = dynasty_cn
+  if dynasty_cn == u"梁":
+    dynasty_en = u"Liang" #Not a bridge
+  else:
+    if dynasty_cn in wdict:
+      dynasty_en = wdict[dynasty_cn]["english"]
+      dynasty_en = dynasty_en.replace("Dynasty", "")
+      dynasty_en = dynasty_en.strip()
+      dynastyTokens = dynasty_en.split("/")
+      dynasty_en = dynastyTokens[0].strip()
+  return dynasty_en
+
+
+def GetEntry(tid):
+  """
+  Gets a Taisho entry for a given number
+
+  Translates the parts into English
+  """
+  entry = taisho_contents.get_entry(tid)
+  entry["dynasty_en"] = GetDynastyEn(entry["dynasty"])
+  entry["translator_en"] = GetTranslatorEn(entry["translator"])
+  return entry
+
+
+def GetTranslatorEn(translator):
+  """
+  Gets the translator nama in English doing mangling to make it readable."""
+  translator_en = translator
+  if translator == u"失" or translator == u"闕":
+    translator_en = u"Unknown"
+  elif translator in wdict:
+    translator_en = wdict[translator]["english"]
+    transTokens = translator_en.split("/")
+    translator_en = transTokens[0].strip()
+  else:
+    print "Translator %s not in dictionary" % translator
+    if translator[-1] == u"等":
+      translator = translator[:-1]
+    if translator in wdict:
+      translator_en = wdict[translator]["english"]
+      transTokens = translator_en.split("/")
+      translator_en = transTokens[0].strip()
+      translator_en += " and others"
+    else:
+      print u"GetTranslatorEn: Translator '%s' not found" % translator
+  return translator_en
 
 
 def InsertIntoVolume(volume, text):
@@ -194,7 +240,7 @@ def OpenDictionary():
           if traditional != '\\N':
           	if traditional in wdict:
           	  wdict[traditional]['other_entries'].append(entry)
-  #print "OpenDictionary completed"
+  #print "OpenDictionary completed with %d entries" % len(wdict)
   return wdict
 
 

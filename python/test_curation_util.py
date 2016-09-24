@@ -3,10 +3,7 @@
 Tests utilities for curation of dictionary entries
 """
 
-from curation_util import ExtractWords
-from curation_util import P2englishPN
-from curation_util import WriteColophon
-from curation_util import InsertIntoVolume
+import curation_util
 
 
 def TestExtractFromColophon1():
@@ -16,7 +13,7 @@ def TestExtractFromColophon1():
 失譯
 
 共 1 卷"""
-  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = curation_util.ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon1"
   print "Returned volume %d" % v
   print u"Returned nscrolls %d" % nscrolls
@@ -31,7 +28,7 @@ def TestExtractFromColophon2():
 宋 法護等譯
 
 共 20 卷"""
-  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = curation_util.ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon2"
   print "Returned volume %d" % v
   print "Returned tid '%s'" % tid
@@ -47,7 +44,7 @@ def TestExtractFromColophon3():
 闕譯
 
 共 1 卷"""
-  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = curation_util.ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon3"
   print "Returned volume %d" % v
   print u"Returned nscrolls %d" % nscrolls
@@ -62,7 +59,7 @@ def TestExtractFromColophon4():
 吳 支謙譯
 
 共 1 卷"""
-  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = curation_util.ExtractFromColophon(colophon_cn)
   print "TestExtractFromColophon4"
   print "Returned volume %d" % v
   print "Returned tid '%s'" % tid
@@ -78,7 +75,7 @@ def TestExtractFromColophon5():
 後漢 安世高譯
 
 共 1 卷"""
-  (v, tid, nscrolls, translator, dynasty) = ExtractFromColophon(colophon_cn)
+  (v, tid, nscrolls, translator, dynasty) = Ecuration_util.xtractFromColophon(colophon_cn)
   print "TestExtractFromColophon5"
   print "Returned volume %d" % v
   print "Returned tid '%s'" % tid
@@ -88,10 +85,16 @@ def TestExtractFromColophon5():
 
 
 def TextExtractWords(text):
-  words = ExtractWords(text)
+  words = curation_util.ExtractWords(text)
   print "result"
   for w in words:
     print u"  Word: %s" % w.decode("utf-8")
+
+
+def TestGetEntry():
+  #print "Translator: %s" % translator_en
+  entry = curation_util.GetEntry("629")
+  print "Dynasty: %s" % entry["dynasty_en"]
 
 
 def main():
@@ -105,7 +108,11 @@ def main():
   #TestExtractFromColophon3()
   #TestExtractFromColophon4()
   #TestExtractFromColophon5()
-  InsertIntoVolume(14, "Test input")
+  #InsertIntoVolume(14, "Test input")
+  #dynasty_en = curation_util.GetDynastyEn(u"唐")
+  #print "Dynasty: %s" % dynasty_en
+  #translator_en = curation_util.GetTranslatorEn(u"支婁迦讖")
+  TestGetEntry()
 
 
 if __name__ == "__main__": main()

@@ -19,13 +19,16 @@ def convert_to_csv():
   print "writing output to %s" % CONTENTS_CSV
 
   pattern = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)譯"
+  pattern2 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)譯"
   expr = re.compile(pattern, re.UNICODE)
+  expr2 = re.compile(pattern2, re.UNICODE)
   with codecs.open(CONTENTS_TXT, 'r', "utf-8") as fin:
     with codecs.open(CONTENTS_CSV, 'w', "utf-8") as fout:
       for line in fin:
         line = line.strip()
         if line != "":
           m = expr.search(line)
+          m2 = expr2.search(line)
           if m:
             v = m.group(1)
             tid = m.group(2)
@@ -36,11 +39,22 @@ def convert_to_csv():
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator)
             fout.write(lineout)
+          elif m2:
+            v = m2.group(1)
+            tid = m2.group(2)
+            title = m2.group(3)
+            nscrolls = m2.group(4)
+            translator = m2.group(5)
+            lineout = "%s\t%s\t%s\t%s\t\t%s\n" % (v, tid, title, nscrolls, 
+                      translator)
+            fout.write(lineout)
 
 
 def get_entry(tid):
   """
   Gets a Taisho entry for a given number
+
+  The parts are all in Chinese
   """
   return tcontents[tid]
 
@@ -59,7 +73,7 @@ def load_contents():
         entry["title"] = row[2]
         entry["nscrolls"] = int(row[3])
         entry["dynasty"] = row[4]
-        entry["translator"] = row[5]
+        entry["translator"] = row[5].strip()
         tcontents[row[1]] = entry
   return tcontents
 
