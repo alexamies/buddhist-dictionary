@@ -59,7 +59,7 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
   start = False
   doc = u""
   for line in lines:
-    print "line: %s" % line
+    #print "line: %s" % line
     if start:
       m1 = isEndEx.search(line)
       m2 = isNulEx.search(line)
