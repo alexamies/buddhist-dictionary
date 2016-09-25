@@ -5,11 +5,18 @@ Utility for aggregating metadata from the Taisho Buddhist Canon.
 
 import codecs
 import re
+import sys
 import urllib2
 
 from bs4 import BeautifulSoup
 
 import html2text
+
+sys.setrecursionlimit(2000)
+
+isEndEx = re.compile(ur"(.*)網路分享", re.UNICODE)
+isNulEx = re.compile(ur"\0", re.UNICODE)
+isNavEx = re.compile(ur"▲", re.UNICODE)
 
 
 def geturl(volume, tid):
@@ -53,9 +60,6 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
   lines = text.split("\n")
   pattern = ur"(%s)(.*)" % juanname
   isTitleEx = re.compile(pattern, re.UNICODE)
-  isEndEx = re.compile(ur"(.*)網路分享", re.UNICODE)
-  isNulEx = re.compile(ur"\0", re.UNICODE)
-  isNavEx = re.compile(ur"▲", re.UNICODE)
   start = False
   doc = u""
   for line in lines:
@@ -102,10 +106,21 @@ def readWebToPlainText(url, tidStr):
   """
   html_doc = urllib2.urlopen(url).read().decode('utf8')
   soup = BeautifulSoup(html_doc)
+  # Scroll name
   juanname = u""
   tags = soup.find_all("span", class_="juanname")
   if tags:
     juanname = tags[0].get_text().replace(" ", "")
+  juanname = juanname.split("(")[0]
+  # byline sometimes gets confused with scroll name
+  byline = u""
+  tags = soup.find_all("span", class_="byline")
+  if tags:
+    byline = tags[0].get_text()
+  if len(byline) > 0:
+    i = juanname.find(byline)
+    if i > -1:
+      juanname = juanname[:i]
   print "juanname' '%s'" % juanname
   main = soup.find(id=tidStr)
   text = html2text.html2text(main.prettify())
