@@ -9,6 +9,7 @@ import unicodedata
 from datetime import date
 
 from korean import getkoreanid
+import ntidict
 import taisho_contents
 
 
@@ -114,6 +115,16 @@ def GetDynastyEn(dynasty_cn):
       dynasty_en = dynastyTokens[0].strip()
   return dynasty_en
 
+def GetCompiledByEn(compiledby_cn):
+  """
+  Gets the dynasty in English and does some mangling to make it readable."""
+  compiledby_en = compiledby_cn
+  if compiledby_cn in wdict:
+    compiledby_en = wdict[compiledby_cn]["english"]
+    tokens = compiledby_en.split("/")
+    compiledby_en = tokens[0].strip()
+  return compiledby_en
+
 
 def GetEntry(tid):
   """
@@ -124,6 +135,7 @@ def GetEntry(tid):
   entry = taisho_contents.get_entry(tid)
   entry["dynasty_en"] = GetDynastyEn(entry["dynasty"])
   entry["translator_en"] = GetTranslatorEn(entry["translator"])
+  entry["compiledby_en"] = GetCompiledByEn(entry["compiledby_cn"])
   return entry
 
 
@@ -209,41 +221,6 @@ def ExtractWords(text):
   return words
 
 
-def OpenDictionary():
-  """Reads the dictionary into memory
-  """
-  with codecs.open(DICT_FILE_NAME, 'r', "utf-8") as f:
-    for line in f:
-      line = line.strip()
-      if not line:
-        continue
-      fields = line.split('\t')
-      if fields and len(fields) >= 10:
-        entry = {}
-        entry['id'] = fields[0]
-        entry['simplified'] = fields[1]
-        entry['traditional'] = fields[2]
-        entry['pinyin'] = fields[3]
-        entry['english'] = fields[4]
-        entry['grammar'] = fields[5]
-        if fields and len(fields) >= 15 and fields[14] != '\\N':
-          entry['notes'] = fields[14]
-        traditional = entry['traditional']
-        key = entry['simplified']
-        if key not in wdict:
-          entry['other_entries'] = []
-          wdict[key] = entry
-          if traditional != '\\N':
-          	wdict[traditional] = entry
-        else:
-          wdict[key]['other_entries'].append(entry)
-          if traditional != '\\N':
-          	if traditional in wdict:
-          	  wdict[traditional]['other_entries'].append(entry)
-  #print "OpenDictionary completed with %d entries" % len(wdict)
-  return wdict
-
-
 def P2englishPN(pinyin):
   """
   Converts a pinyin string to an English proper noun
@@ -272,8 +249,9 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre):
 
 
 def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
-                  nscrolls = 1, kid = 0, sanskrit = u"",
-                  translator = u"Unknown", dynasty = u"", daterange = u""):
+                  nscrolls = 1, kid = 0, sanskrit = "",
+                  translator = "Unknown", dynasty = "", daterange = "",
+                  compiledBy = ""):
   """
   Write the colophon to a file
 
@@ -305,6 +283,8 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     if nscrolls > 1:
       scrollStr = u"scrolls"
     dynastyRef = u""
+    if compiledBy != "":
+      compiledbyRef = "Compiled by %s. " % compiledBy
     if dynasty != u"":
       dynastyRef = u"Translated by %s in the %s in %d %s" % (translator,
                    dynasty, nscrolls, scrollStr)
@@ -336,4 +316,4 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
               ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
 
 
-wdict = OpenDictionary()
+wdict = ntidict.OpenDictionary()

@@ -20,15 +20,23 @@ def convert_to_csv():
 
   pattern = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)譯"
   pattern2 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)譯"
+  pattern3 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)譯"
+  pattern4 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)譯"
   expr = re.compile(pattern, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
+  expr3 = re.compile(pattern3, re.UNICODE)
+  expr4 = re.compile(pattern4, re.UNICODE)
   with codecs.open(CONTENTS_TXT, 'r', "utf-8") as fin:
     with codecs.open(CONTENTS_CSV, 'w', "utf-8") as fout:
       for line in fin:
         line = line.strip()
+        dynasty = u""
+        compiledBy = u""
         if line != "":
           m = expr.search(line)
           m2 = expr2.search(line)
+          m3 = expr3.search(line)
+          m4 = expr4.search(line)
           if m:
             v = m.group(1)
             tid = m.group(2)
@@ -36,18 +44,37 @@ def convert_to_csv():
             nscrolls = m.group(4)
             dynasty = m.group(5)
             translator = m.group(6)
-            lineout = "%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
-                      dynasty, translator)
-            fout.write(lineout)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy)
           elif m2:
             v = m2.group(1)
             tid = m2.group(2)
             title = m2.group(3)
             nscrolls = m2.group(4)
             translator = m2.group(5)
-            lineout = "%s\t%s\t%s\t%s\t\t%s\n" % (v, tid, title, nscrolls, 
-                      translator)
-            fout.write(lineout)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy)
+          elif m3:
+            v = m3.group(1)
+            tid = m3.group(2)
+            title = m3.group(3)
+            nscrolls = m3.group(4)
+            compiledBy = m3.group(5)
+            dynasty = m3.group(6)
+            translator = m3.group(7)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy)
+          elif m4:
+            v = m4.group(1)
+            tid = m4.group(2)
+            title = m4.group(3)
+            nscrolls = m4.group(4)
+            compiledBy = m4.group(5)
+            dynasty = m4.group(6)
+            translator = m4.group(7)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy)
+          fout.write(lineout)
 
 
 def get_entry(tid):
@@ -66,7 +93,7 @@ def load_contents():
   with codecs.open(CONTENTS_CSV, 'r', "utf-8") as f:
     for line in f:
       row = line.split('\t')
-      if row and len(row) >= 6:
+      if row and len(row) >= 7:
         entry = {}
         entry["volume"] = int(row[0])
         entry["tid"] = row[1]
@@ -74,6 +101,7 @@ def load_contents():
         entry["nscrolls"] = int(row[3])
         entry["dynasty"] = row[4]
         entry["translator"] = row[5].strip()
+        entry["compiledby_cn"] = row[6].strip()
         tcontents[row[1]] = entry
   return tcontents
 
