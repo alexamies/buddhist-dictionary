@@ -18,25 +18,30 @@ def convert_to_csv():
   """
   print "writing output to %s" % CONTENTS_CSV
 
-  pattern = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)譯"
-  pattern2 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)譯"
-  pattern3 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)譯"
-  pattern4 = ur"T(\d\d)n0(\d\d\d)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)譯"
+  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)譯"
+  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)譯"
+  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)譯"
+  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)譯"
+  pattern5 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【】"
   expr = re.compile(pattern, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
   expr3 = re.compile(pattern3, re.UNICODE)
   expr4 = re.compile(pattern4, re.UNICODE)
+  expr5 = re.compile(pattern5, re.UNICODE)
   with codecs.open(CONTENTS_TXT, 'r', "utf-8") as fin:
     with codecs.open(CONTENTS_CSV, 'w', "utf-8") as fout:
       for line in fin:
         line = line.strip()
-        dynasty = u""
-        compiledBy = u""
+        tid = ""
+        dynasty = ""
+        translator = ""
+        compiledBy = ""
         if line != "":
           m = expr.search(line)
           m2 = expr2.search(line)
           m3 = expr3.search(line)
           m4 = expr4.search(line)
+          m5 = expr5.search(line)
           if m:
             v = m.group(1)
             tid = m.group(2)
@@ -72,6 +77,13 @@ def convert_to_csv():
             compiledBy = m4.group(5)
             dynasty = m4.group(6)
             translator = m4.group(7)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy)
+          elif m5:
+            v = m5.group(1)
+            tid = m5.group(2)
+            title = m5.group(3)
+            nscrolls = m5.group(4)
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy)
           fout.write(lineout)

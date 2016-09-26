@@ -151,7 +151,7 @@ def GetTranslatorEn(translator):
     translator_en = transTokens[0].strip()
   else:
     print "Translator %s not in dictionary" % translator
-    if translator[-1] == u"等":
+    if translator and translator[-1] == u"等":
       translator = translator[:-1]
     if translator in wdict:
       translator_en = wdict[translator]["english"]
