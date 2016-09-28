@@ -125,6 +125,18 @@ def GetCompiledByEn(compiledby_cn):
     compiledby_en = tokens[0].strip()
   return compiledby_en
 
+def GetHowEn(how_cn):
+  """
+  Gets the dynasty in English and does some mangling to make it readable."""
+  how_en = how_cn
+  how_dict = {u"譯": "Translated",
+              u"集": "Compiled",
+              u"述": "Narrated",
+              u"撰": "Composed"}
+  if how_cn in how_dict:
+    how_en = how_dict[how_cn]
+  return how_en
+
 
 def GetEntry(tid):
   """
@@ -136,6 +148,7 @@ def GetEntry(tid):
   entry["dynasty_en"] = GetDynastyEn(entry["dynasty"])
   entry["translator_en"] = GetTranslatorEn(entry["translator"])
   entry["compiledby_en"] = GetCompiledByEn(entry["compiledby_cn"])
+  entry["how_en"] = GetHowEn(entry["how_cn"])
   return entry
 
 
@@ -251,7 +264,7 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre):
 def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
                   nscrolls = 1, kid = 0, sanskrit = "",
                   translator = "Unknown", dynasty = "", daterange = "",
-                  compiledBy = ""):
+                  compiledBy = "", how_en = "translated"):
   """
   Write the colophon to a file
 
@@ -286,10 +299,10 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     if compiledBy != "":
       compiledbyRef = "Compiled by %s. " % compiledBy
     if dynasty != u"":
-      dynastyRef = u"Translated by %s in the %s in %d %s" % (translator,
+      dynastyRef = u"%s by %s in the %s in %d %s" % (how_en, translator,
                    dynasty, nscrolls, scrollStr)
     elif translator != u"":
-      dynastyRef = u"Translated by %s in %d %s" % (translator,
+      dynastyRef = u"%s by %s in %d %s" % (how_en, translator,
                    nscrolls, scrollStr)
     datestr = date.today().strftime("%Y-%m-%d")
 

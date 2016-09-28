@@ -18,10 +18,10 @@ def convert_to_csv():
   """
   print "writing output to %s" % CONTENTS_CSV
 
-  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)譯"
-  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)譯"
-  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)譯"
-  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)譯"
+  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰])"
+  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰])"
+  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰])"
+  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰])"
   pattern5 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【】"
   expr = re.compile(pattern, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
@@ -36,6 +36,7 @@ def convert_to_csv():
         dynasty = ""
         translator = ""
         compiledBy = ""
+        how = ""
         if line != "":
           m = expr.search(line)
           m2 = expr2.search(line)
@@ -49,16 +50,18 @@ def convert_to_csv():
             nscrolls = m.group(4)
             dynasty = m.group(5)
             translator = m.group(6)
-            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
-                      dynasty, translator, compiledBy)
+            how = m.group(7)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy, how)
           elif m2:
             v = m2.group(1)
             tid = m2.group(2)
             title = m2.group(3)
             nscrolls = m2.group(4)
             translator = m2.group(5)
-            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
-                      dynasty, translator, compiledBy)
+            how = m2.group(6)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy, how)
           elif m3:
             v = m3.group(1)
             tid = m3.group(2)
@@ -67,8 +70,9 @@ def convert_to_csv():
             compiledBy = m3.group(5)
             dynasty = m3.group(6)
             translator = m3.group(7)
-            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
-                      dynasty, translator, compiledBy)
+            how = m3.group(8)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy, how)
           elif m4:
             v = m4.group(1)
             tid = m4.group(2)
@@ -77,15 +81,16 @@ def convert_to_csv():
             compiledBy = m4.group(5)
             dynasty = m4.group(6)
             translator = m4.group(7)
-            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
-                      dynasty, translator, compiledBy)
+            how = m4.group(8)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy, how)
           elif m5:
             v = m5.group(1)
             tid = m5.group(2)
             title = m5.group(3)
             nscrolls = m5.group(4)
-            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
-                      dynasty, translator, compiledBy)
+            lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
+                      dynasty, translator, compiledBy, how)
           fout.write(lineout)
 
 
@@ -114,6 +119,7 @@ def load_contents():
         entry["dynasty"] = row[4]
         entry["translator"] = row[5].strip()
         entry["compiledby_cn"] = row[6].strip()
+        entry["how_cn"] = row[7].strip()
         tcontents[row[1]] = entry
   return tcontents
 

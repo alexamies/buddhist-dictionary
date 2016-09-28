@@ -93,9 +93,10 @@ def TextExtractWords(text):
 
 def TestGetEntry():
   #print "Translator: %s" % translator_en
-  entry = curation_util.GetEntry("806")
+  entry = curation_util.GetEntry("848")
   print "Dynasty: %s" % entry["dynasty_en"]
   print "Compiled by: %s" % entry["compiledby_en"]
+  print "How: %s" % entry["how_en"]
 
 
 def main():
