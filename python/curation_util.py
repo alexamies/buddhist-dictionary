@@ -250,12 +250,12 @@ def P2englishPN(pinyin):
   return english.strip()
 
 
-def WriteCollectionEntry(tid, title, translator, daterange, genre):
+def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en):
   """
   Appends an entry to the collection file
   """
-  entry = u"\ntaisho/t0%s.csv\ttaisho/t0%s.html\t%s\tTranslated by %s\ttaisho/t0%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
-    tid, tid, title, translator, tid, daterange, genre)
+  entry = u"\ntaisho/t0%s.csv\ttaisho/t0%s.html\t%s\t%s by %s\ttaisho/t0%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
+    tid, tid, title, how_en, translator, tid, daterange, genre)
   filename = "../data/corpus/collections.csv"
   with codecs.open(filename, 'a', "utf-8") as f:
     f.write(entry)
@@ -316,6 +316,8 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
       f.write(u"\n%s\n" % kReference)
     f.write(u"English translations: None\n\n")
     f.write(u"<h4>Primary Source</h4>\n")
+    if translator == "":
+      translator == "Unknown"
     f.write(u"%s, 《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
             u"《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō "
             u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %s, Accessed "

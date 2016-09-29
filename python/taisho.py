@@ -64,10 +64,12 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
   doc = u""
   for line in lines:
     #print "line: %s" % line
+    line_str = line.replace(" ", "")
+    #print "line_str: %s" % line_str
     if start:
-      m1 = isEndEx.search(line)
-      m2 = isNulEx.search(line)
-      m3 = isNavEx.search(line)
+      m1 = isEndEx.search(line_str)
+      m2 = isNulEx.search(line_str)
+      m3 = isNavEx.search(line_str)
       if m1:
         print "m1, line: %s" % line
         doc += m.group(2) + "\n"
@@ -81,7 +83,7 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
       #print "line: %s" % line
       doc += line + "\n"
     else:
-      m = isTitleEx.search(line)
+      m = isTitleEx.search(line_str)
       if m:
         start = True
         print "start, juanname: %s, m.group(2): %s" % (juanname, m.group(2))
@@ -121,7 +123,7 @@ def readWebToPlainText(url, tidStr):
     i = juanname.find(byline)
     if i > -1:
       juanname = juanname[:i]
-  print "juanname' '%s'" % juanname
+  print "juanname' '%s', tidStr = '%s'" % (juanname, tidStr)
   main = soup.find(id=tidStr)
   text = html2text.html2text(main.prettify())
   return (juanname, text)
