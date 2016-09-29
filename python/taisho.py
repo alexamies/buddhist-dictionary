@@ -71,14 +71,14 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
       m2 = isNulEx.search(line_str)
       m3 = isNavEx.search(line_str)
       if m1:
-        print "m1, line: %s" % line
-        doc += m.group(2) + "\n"
+        #print "m1, line: %s" % line
+        doc += line
         break
       elif m2:
-        print "m2, line: %s" % line
+        #print "m2, line: %s" % line
         line.replace("\0", "")
       elif m3:
-        print "m3, line: %s" % line
+        #print "m3, line: %s" % line
         continue
       #print "line: %s" % line
       doc += line + "\n"
@@ -87,7 +87,7 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
       if m:
         start = True
         print "start, juanname: %s, m.group(2): %s" % (juanname, m.group(2))
-        doc = juanname + "\n" + m.group(2) + "\n"
+        doc = line
 
   doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 台灣 (中華民國) 授權條款授權.
 Copyright ©1998-2016 CBETA\n"""
