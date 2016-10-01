@@ -132,7 +132,8 @@ def GetHowEn(how_cn):
   how_dict = {u"譯": "Translated",
               u"集": "Compiled",
               u"述": "Narrated",
-              u"撰": "Composed"}
+              u"撰": "Composed",
+              u"說": "Spoken"}
   if how_cn in how_dict:
     how_en = how_dict[how_cn]
   return how_en
@@ -254,8 +255,11 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en):
   """
   Appends an entry to the collection file
   """
-  entry = u"\ntaisho/t0%s.csv\ttaisho/t0%s.html\t%s\t%s by %s\ttaisho/t0%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
-    tid, tid, title, how_en, translator, tid, daterange, genre)
+  translatedBy = ""
+  if how_en != "" and translator != "":
+    translatedBy = u"%s by %s" % (how_en, translator)
+  entry = u"\ntaisho/t0%s.csv\ttaisho/t0%s.html\t%s\t%s\ttaisho/t0%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
+    tid, tid, title, translatedBy, tid, daterange, genre)
   filename = "../data/corpus/collections.csv"
   with codecs.open(filename, 'a', "utf-8") as f:
     f.write(entry)

@@ -18,10 +18,10 @@ def convert_to_csv():
   """
   print "writing output to %s" % CONTENTS_CSV
 
-  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰])"
-  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰])"
-  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰])"
-  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰])"
+  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說])"
+  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰|說])"
+  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰|說])"
+  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰|說])"
   pattern5 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【】"
   expr = re.compile(pattern, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
@@ -37,6 +37,7 @@ def convert_to_csv():
         translator = ""
         compiledBy = ""
         how = ""
+        lineout = ""
         if line != "":
           m = expr.search(line)
           m2 = expr2.search(line)
@@ -53,6 +54,7 @@ def convert_to_csv():
             how = m.group(7)
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how)
+            fout.write(lineout)
           elif m2:
             v = m2.group(1)
             tid = m2.group(2)
@@ -62,6 +64,7 @@ def convert_to_csv():
             how = m2.group(6)
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how)
+            fout.write(lineout)
           elif m3:
             v = m3.group(1)
             tid = m3.group(2)
@@ -73,6 +76,7 @@ def convert_to_csv():
             how = m3.group(8)
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how)
+            fout.write(lineout)
           elif m4:
             v = m4.group(1)
             tid = m4.group(2)
@@ -84,6 +88,7 @@ def convert_to_csv():
             how = m4.group(8)
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how)
+            fout.write(lineout)
           elif m5:
             v = m5.group(1)
             tid = m5.group(2)
@@ -91,7 +96,7 @@ def convert_to_csv():
             nscrolls = m5.group(4)
             lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how)
-          fout.write(lineout)
+            fout.write(lineout)
 
 
 def get_entry(tid):
@@ -110,7 +115,7 @@ def load_contents():
   with codecs.open(CONTENTS_CSV, 'r', "utf-8") as f:
     for line in f:
       row = line.split('\t')
-      if row and len(row) >= 7:
+      if row and len(row) == 8:
         entry = {}
         entry["volume"] = int(row[0])
         entry["tid"] = row[1]
@@ -121,6 +126,8 @@ def load_contents():
         entry["compiledby_cn"] = row[6].strip()
         entry["how_cn"] = row[7].strip()
         tcontents[row[1]] = entry
+      else:
+        print "Problem with: '%s'" % line
   return tcontents
 
 # Load the contents when the script is run
