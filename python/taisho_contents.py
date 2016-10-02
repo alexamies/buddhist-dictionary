@@ -18,10 +18,10 @@ def convert_to_csv():
   """
   print "writing output to %s" % CONTENTS_CSV
 
-  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說])"
-  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰|說])"
-  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰|說])"
-  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰|說])"
+  pattern = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern2 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern3 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern4 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
   pattern5 = ur"T(\d\d)n0(\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【】"
   expr = re.compile(pattern, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
