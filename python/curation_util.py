@@ -261,11 +261,14 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en):
   """
   Appends an entry to the collection file
   """
+  tidStr = tid
+  if tid < 1000:
+    tidStr = "0%s" % tid
   translatedBy = ""
   if how_en != "" and translator != "":
     translatedBy = u"%s by %s" % (how_en, translator)
-  entry = u"\ntaisho/t0%s.csv\ttaisho/t0%s.html\t%s\t%s\ttaisho/t0%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
-    tid, tid, title, translatedBy, tid, daterange, genre)
+  entry = u"\ntaisho/t%s.csv\ttaisho/t%s.html\t%s\t%s\ttaisho/t%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
+    tidStr, tidStr, title, translatedBy, tidStr, daterange, genre)
   filename = "../data/corpus/collections.csv"
   with codecs.open(filename, 'a', "utf-8") as f:
     f.write(entry)
@@ -291,7 +294,10 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     translator: Translator of the text
   """
 
-  filename = "../corpus/taisho/t0%s_00.txt" % tid
+  tidStr = tid
+  if tid < 1000:
+    tidStr = "0%s" % tid
+  filename = "../corpus/taisho/t%s_00.txt" % tidStr
   print "Writing colophon to %s" % filename
   with codecs.open(filename, 'w', "utf-8") as f:
     kReference = u""

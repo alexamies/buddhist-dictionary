@@ -26,6 +26,8 @@ def geturl(volume, tid):
   Also, check that the URL is correct by doing a GET.
   """
   url = "http://tripitaka.cbeta.org/T%dn0%s" % (volume, tid)
+  if tid > 999:
+    url = "http://tripitaka.cbeta.org/T%dn%s" % (volume, tid)
   response = urllib2.urlopen(url)  
   return url
 
@@ -48,9 +50,11 @@ def saveScrollFromWeb(volume, tid, scrollno, title):
   scrollStr = "00%d" % scrollno
   if 10 <= scrollno and scrollno < 100:
     scrollStr = "0%d" % scrollno
-  elif 100 <= scrollno:
+  elif 100 <= scrollno and scrollno < 1000:
   	scrollStr = "%d" % scrollno
-  tidStr = "0%s" % tid
+  tidStr = tid
+  if tid < 1000:
+    tidStr = "0%s" % tid
   url = "http://tripitaka.cbeta.org/T%dn%s_%s" % (volume, tidStr, scrollStr)
   print url
   (juanname, text) = readWebToPlainText(url, tidStr)
@@ -97,7 +101,7 @@ Copyright ©1998-2016 CBETA\n"""
     scrollStr = "%d" % scrollno
   elif 100 <= scrollno:
   	scrollStr = "%d" % scrollno
-  file = "../corpus/taisho/t0%s_%s.txt" % (tid, scrollStr)
+  file = "../corpus/taisho/t%s_%s.txt" % (tidStr, scrollStr)
   with codecs.open(file, 'w', "utf-8") as outfile:
     outfile.write(doc)
 
