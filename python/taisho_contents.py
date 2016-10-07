@@ -18,11 +18,11 @@ def convert_to_csv():
   """
   print "writing output to %s" % CONTENTS_CSV
 
-  pattern = ur"T(\d\d)n([\d\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
-  pattern2 = ur"T(\d\d)n(\d\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來])"
-  pattern3 = ur"T(\d\d)n(\d\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
-  pattern4 = ur"T(\d\d)n(\d\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
-  pattern5 = ur"T(\d\d)n(\d\d\d\d[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【】"
+  pattern = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern2 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)撰\s([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【([\S]*)集\s([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來])"
+  pattern5 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,2}) 卷\)　【】"
   expr = re.compile(pattern, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
   expr3 = re.compile(pattern3, re.UNICODE)
@@ -129,6 +129,7 @@ def load_contents():
       else:
         print "Problem with: '%s'" % line
   return tcontents
+
 
 # Load the contents when the script is run
 tcontents = load_contents()
