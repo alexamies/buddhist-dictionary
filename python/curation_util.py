@@ -139,7 +139,10 @@ def GetHowEn(how_cn):
               u"撰": "Composed",
               u"說": "Spoken",
               u"記": "Recorded",
-              u"請來": "Invited"}
+              u"請來": "Invited",
+              u"注": "Recorded",
+              u"校": "Taught"
+              }
   if how_cn in how_dict:
     how_en = how_dict[how_cn]
   return how_en
