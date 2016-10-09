@@ -99,6 +99,15 @@ def TestGetEntry():
   print "How: %s" % entry["how_en"]
 
 
+def TestWriteWordEntry():
+  line = u"48287\ 金刚寿命陀罗尼经法\t金剛壽命陀羅尼經法\t" \
+         u"jīngāng shòumìng tuóluóní jīng fǎ\tJingang Shouming Tuoluoni Jing Fa" \
+         u"\tproper noun\t经\tSutra\t佛教\tBuddhism\t密教\tEsoteric Buddhism\t" \
+         u"\\N\t\\N\tThe name of a text in the Chinese Buddhist canon (T 1134A)" \
+         u"\t48287"
+  curation_util.WriteWordEntry(line)
+
+
 def main():
   #print P2englishPN(u"guān Xūkōng Zàng Púsà jīng")
   #TextExtractWords(u"你好世界")
@@ -114,7 +123,7 @@ def main():
   #dynasty_en = curation_util.GetDynastyEn(u"唐")
   #print "Dynasty: %s" % dynasty_en
   #translator_en = curation_util.GetTranslatorEn(u"支婁迦讖")
-  TestGetEntry()
+  TestWriteWordEntry()
 
 
 if __name__ == "__main__": main()

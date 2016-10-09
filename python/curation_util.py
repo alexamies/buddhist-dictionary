@@ -335,7 +335,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
       f.write(u"\n%s\n" % kReference)
     f.write(u"English translations: None\n\n")
     f.write(u"<h4>Primary Source</h4>\n")
-    if translator == "":
+    if translator.strip() == "":
       translator == "Unknown"
     f.write(u"%s, 《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
             u"《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō "
@@ -348,6 +348,17 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
               "Descriptive Catalogue</i>, "
               "<a href='http://www.acmuller.net/descriptive_catalogue/'"
               ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
+
+
+
+def WriteWordEntry(wordLine):
+  """
+  Appends an entry to the words file
+  """
+  filename = "../data/dictionary/words.txt"
+  with codecs.open(filename, 'a', "utf-8") as f:
+    f.write("\n" + wordLine)
+  print "Wrote line to words file"
 
 
 wdict = ntidict.OpenDictionary()
