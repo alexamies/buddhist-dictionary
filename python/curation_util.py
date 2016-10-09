@@ -262,7 +262,7 @@ def P2englishPN(pinyin):
   return english.strip()
 
 
-def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en):
+def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en, textFormat = u"Sūtra"):
   """
   Appends an entry to the collection file
   """
@@ -272,8 +272,8 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en):
   translatedBy = ""
   if how_en != "" and translator != "":
     translatedBy = u"%s by %s" % (how_en, translator)
-  entry = u"\ntaisho/t%s.csv\ttaisho/t%s.html\t%s\t%s\ttaisho/t%s_00.txt\tTaishō\tSūtra\t%s\t%s" % (
-    tidStr, tidStr, title, translatedBy, tidStr, daterange, genre)
+  entry = u"\ntaisho/t%s.csv\ttaisho/t%s.html\t%s\t%s\ttaisho/t%s_00.txt\tTaishō\t%s\t%s\t%s" % (
+    tidStr, tidStr, title, translatedBy, tidStr, textFormat, daterange, genre)
   filename = "../data/corpus/collections.csv"
   with codecs.open(filename, 'a', "utf-8") as f:
     f.write(entry)
