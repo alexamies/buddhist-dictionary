@@ -1161,7 +1161,7 @@ taisho/t1112.csv	taisho/t1112.html	Jingang Ding Yujia Qing Jing Dabei Wang Guanz
 taisho/t1113A.csv	taisho/t1113A.html	Guanzizai Pusa Guangda Yuanman Wu'ai Dabei Xin Tuoluoni 《觀自在菩薩廣大圓滿無礙大悲心陀羅尼》	Taught by Dhyānabhadra	taisho/t1113A_00.txt	Taishō	Sūtra	918-1392	esoteric
 taisho/t1113B.csv	taisho/t1113B.html	Da Ci Da Bei Jiu Ku Guanshiyin Zizai Wang Pusa Guangda Yuanman Wu'ai Zizai Qing Jing Dabei Xin Tuoluoni 《大慈大悲救苦觀世音自在王菩薩廣大圓滿無礙自在青頸大悲心陀羅尼》	Translated by Amoghavajra	taisho/t1113B_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t1114.csv	taisho/t1114.html	Pi Juzhi Pusa Yibai Ba Ming Jing 《毘俱胝菩薩一百八名經》	Translated by Fa Tian	taisho/t1114_00.txt	Taishō	Sūtra	973-988	esoteric
-taisho/t1115.csv	taisho/t1115.html	Guanzizai Pusa A Me Chi Fa 《觀自在菩薩阿麼[齒*來]法》		taisho/t1115_00.txt	Taishō	Sūtra		esoteric
+taisho/t1115.csv	taisho/t1115.html	Guanzizai Pusa A Me Zhai Fa 《觀自在菩薩阿麼𪘨法》		taisho/t1115_00.txt	Taishō	Sūtra		esoteric
 taisho/t1116.csv	taisho/t1116.html	Guangda Lianhua Zhuangyan Man Na Luo Mie Yiqie Zui Tuoluoni Jing 《廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經》	Translated by Dānapāla	taisho/t1116_00.txt	Taishō	Sūtra	983	esoteric
 taisho/t1117.csv	taisho/t1117.html	Avalokiteśvaramātādhāraṇīsūtra (Fo Shuo Guanzizai Pusa Mu Tuoluoni Jing) 《佛說觀自在菩薩母陀羅尼經》	Translated by Faxian	taisho/t1117_00.txt	Taishō	Sūtra	995-997	esoteric
 taisho/t1118.csv	taisho/t1118.html	Fo Shuo Shiba Bi Tuoluoni Jing 《佛說十八臂陀羅尼經》	Translated by Faxian	taisho/t1118_00.txt	Taishō	Sūtra	989-999	esoteric
@@ -1209,7 +1209,7 @@ taisho/t1156A.csv	taisho/t1156A.html	Da Sui Qiu Ji De Da Tuoluoni Ming Wang Chan
 taisho/t1156B.csv	taisho/t1156B.html	Zong Rui Seng Zheng Yu Tang Guoshi Suo Kou Shou 《宗叡僧正於唐國師所口受》		taisho/t1156B_00.txt	Taishō	Sūtra		esoteric
 taisho/t1157.csv	taisho/t1157.html	Xiang Wang Pusa Tuoluoni Zhou Jing 《香王菩薩陀羅尼呪經》	Translated by Yijing	taisho/t1157_00.txt	Taishō	Sūtra	705	esoteric
 taisho/t1158.csv	taisho/t1158.html	Dizang Pusa Yi Gui 《地藏菩薩儀軌》	Translated by Shupo Jialuo	taisho/t1158_00.txt	Taishō	Sūtra	618-907	esoteric
-taisho/t1159A.csv	taisho/t1159A.html	Da Qi Zhi Jiao Dadao Xin Qu Ce Fa 《[峚-大+(企-止)]窖大道心驅策法》		taisho/t1159A_00.txt	Taishō	Sūtra		esoteric
+taisho/t1159A.csv	taisho/t1159A.html	Da Dadao Xin Qu Ce Fa 《峚𡇪窖大道心驅策法》		taisho/t1159A_00.txt	Taishō	Sūtra		esoteric
 taisho/t1159B.csv	taisho/t1159B.html	Fo Shuo Dizang Pusa Tuoluoni Jing 《佛說地藏菩薩陀羅尼經》		taisho/t1159B_00.txt	Taishō	Sūtra		esoteric
 taisho/t1160.csv	taisho/t1160.html	Riguang Pusa Yueguang Pusa Tuoluoni 《日光菩薩月光菩薩陀羅尼》		taisho/t1160_00.txt	Taishō	Sūtra		esoteric
 taisho/t1161.csv	taisho/t1161.html	Bhaiṣajyarājabhaiṣajyasamudagatabodhisattvasūtra (Fo Shuo Guan Yao Wang Yao Shang Er Pusa Jing) 《佛說觀藥王藥上二菩薩經》	Translated by Kālayaśas	taisho/t1161_00.txt	Taishō	Sūtra	424-442	esoteric
@@ -1253,3 +1253,75 @@ taisho/t1195.csv	taisho/t1195.html	Da Sheng Wenshushili Zan Fofa Shen Li 《大�
 taisho/t1196.csv	taisho/t1196.html	Manshushili Pusa Jixiang Jiatuo 《曼殊室利菩薩吉祥伽陀》	Translated by Faxian	taisho/t1196_00.txt	Taishō	Sūtra	995-997	esoteric
 taisho/t1197.csv	taisho/t1197.html	Mañjuśrīnāmāṣṭaśataka (Fo Shuo Wenshushili Yibai Ba Ming Fan Zan) 《佛說文殊師利一百八名梵讚》	Translated by Fa Tian	taisho/t1197_00.txt	Taishō	Sūtra	990	esoteric
 taisho/t1198.csv	taisho/t1198.html	Shengzhe Wenshushili Fa Pu Ti Xin Yuan Wen 《聖者文殊師利發菩提心願文》	Translated by wisdom	taisho/t1198_00.txt	Taishō	Sūtra		esoteric
+taisho/t1199.csv	taisho/t1199.html	Jingang Shou Guangming Guan Ding Jing Zui Sheng Li Yin Sheng Wu Dong Zun Da Wei Nu Wang Niansong Yi Gui Fa Pin 《金剛手光明灌頂經最勝立印聖無動尊大威怒王念誦儀軌法品》	Translated by Amoghavajra	taisho/t1199_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1200.csv	taisho/t1200.html	Trisamayarāja (Di Li Sanmei Ye Budong Zun Wei Nu Wang Shizhe Niansong Fa) 《底哩三昧耶不動尊威怒王使者念誦法》	Translated by Amoghavajra	taisho/t1200_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1201.csv	taisho/t1201.html	Di Li Sanmei Ye Budong Zun Shengzhe Niansong Mimi Fa 《底哩三昧耶不動尊聖者念誦祕密法》	Translated by Amoghavajra	taisho/t1201_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1202.csv	taisho/t1202.html	Budong Shizhe Tuoluoni Mimi Fa 《不動使者陀羅尼祕密法》	Translated by Vajrabodhi	taisho/t1202_00.txt	Taishō	Sūtra	731-736	esoteric
+taisho/t1203.csv	taisho/t1203.html	Sheng Wu Dong Zun An Zhen Jia Guo Deng Fa 《聖無動尊安鎮家國等法》		taisho/t1203_00.txt	Taishō	Sūtra		esoteric
+taisho/t1204.csv	taisho/t1204.html	Sheng Wu Dong Zun Yizi Chusheng Ba Da Tongzi Mi Yao Fa Pin 《聖無動尊一字出生八大童子祕要法品》		taisho/t1204_00.txt	Taishō	Sūtra		esoteric
+taisho/t1205.csv	taisho/t1205.html	Sheng Jun Budong Ming Wang Si Shi Ba Shizhe Mimi Chengjiu Yi Gui 《勝軍不動明王四十八使者祕密成就儀軌》	Compiled by Bian Zhi	taisho/t1205_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1206.csv	taisho/t1206.html	Fo Shuo Julijialuo Da Long Sheng Wai Dao Fu Tuoluoni Jing 《佛說俱利伽羅大龍勝外道伏陀羅尼經》		taisho/t1206_00.txt	Taishō	Sūtra		esoteric
+taisho/t1207.csv	taisho/t1207.html	Shuo Ju Li Jia Long Wang Xiang Fa 《說矩里迦龍王像法》		taisho/t1207_00.txt	Taishō	Sūtra		esoteric
+taisho/t1208.csv	taisho/t1208.html	Ju Li Jialuo Long Wang Yi Gui 《俱力迦羅龍王儀軌》	Translated by Vajrabodhi	taisho/t1208_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1209.csv	taisho/t1209.html	Jingang Ding Yujia Jiang San Shi Chengjiu Ji Shen Mi Men 《金剛頂瑜伽降三世成就極深密門》	Translated by Amoghavajra	taisho/t1209_00.txt	Taishō	Sūtra	746-774	esoteric
+taisho/t1210.csv	taisho/t1210.html	Jiang San Shi Fennu Ming Wang Niansong Yi Gui 《降三世忿怒明王念誦儀軌》	Translated by Amoghavajra	taisho/t1210_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1211.csv	taisho/t1211.html	Ganlu Jun Tu Li Pusa Gongyang Niansong Chengjiu Yi Gui 《甘露軍荼利菩薩供養念誦成就儀軌》	Translated by Amoghavajra	taisho/t1211_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1212.csv	taisho/t1212.html	Xifang Tuoluoni Cang Zhong Jingang Zu A Mi Li Duo Jun Zha Li Fa 《西方陀羅尼藏中金剛族阿蜜哩多軍吒利法》	Recorded by Hai Yun	taisho/t1212_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1213.csv	taisho/t1213.html	Hai Yun 《海雲》	Recorded by Yi Cao	taisho/t1213_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1213.csv	taisho/t1213.html	Qian Bi Jun Tu Li Fan Zi Zhenyan 《千臂軍荼利梵字真言》	Recorded by Yi Cao	taisho/t1213_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1214.csv	taisho/t1214.html	Sheng Yan Man De Jia Wei Nu Wang Li Cheng Da Shen Yan Niansong Fa 《聖閻曼德迦威怒王立成大神驗念誦法》	Translated by Amoghavajra	taisho/t1214_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1215.csv	taisho/t1215.html	Dasheng Fangguang Manshushili Pusa Huayan Ben Jiao Yan Man De Jia Fennu Wang Zhenyan Da Wei De Yi Gui Pin 《大乘方廣曼殊室利菩薩華嚴本教閻曼德迦忿怒王真言大威德儀軌品》		taisho/t1215_00.txt	Taishō	Sūtra		esoteric
+taisho/t1216.csv	taisho/t1216.html	Dafangguang Manshushili Tong Zhen Pusa Huayan Ben Jiao Zan Yan Man De Jia Fennu Wang Zhenyan A Pi Zhe Lu Jia Yi Gui Pin 《大方廣曼殊室利童真菩薩華嚴本教讚閻曼德迦忿怒王真言阿毘遮嚕迦儀軌品》		taisho/t1216_00.txt	Taishō	Sūtra		esoteric
+taisho/t1217.csv	taisho/t1217.html	Krodhavijayakalpaguhyatantra (Fo Shuo Miao Jixiang Zui Sheng Genben Da Jiao Jing) 《佛說妙吉祥最勝根本大教經》	Translated by Faxian	taisho/t1217_00.txt	Taishō	Sūtra	989-999	esoteric
+taisho/t1218.csv	taisho/t1218.html	Wenshushili Ye Man De Jia Zhou Fa 《文殊師利耶曼德迦呪法》	By Zong Rui	taisho/t1218_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1219.csv	taisho/t1219.html	Manshushili Yan Man De Jia Wan Ai Mi Shu Ruyi Fa 《曼殊室利焰曼德迦萬愛祕術如意法》	Composed by Yi Xiang	taisho/t1219_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1220.csv	taisho/t1220.html	Jingang Yaocha Chen Nu Wang Xi Zai Da Weishen Yan Niansong Yi Gui 《金剛藥叉瞋怒王息災大威神驗念誦儀軌》	Translated by Vajrabodhi	taisho/t1220_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1221.csv	taisho/t1221.html	Qingse Da Jingang Yaocha Pi Gui Mofa 《青色大金剛藥叉辟鬼魔法》	Narrated by Kong Qi	taisho/t1221_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1222a.csv	taisho/t1222a.html	Sheng Jia Ni Fennu Jingang Tongzi Pusa Chengjiu Yi Gui Jing 《聖迦抳忿怒金剛童子菩薩成就儀軌經》	Translated by Amoghavajra	taisho/t1222a_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1222b.csv	taisho/t1222b.html	Sheng Jia Ni Fennu Jingang Tongzi Pusa Chengjiu Yi Gui Jing 《聖迦柅忿怒金剛童子菩薩成就儀軌經》	Translated by Amoghavajra	taisho/t1222b_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1223.csv	taisho/t1223.html	Fo Shuo Wuliang Shou Fo Huashen Da Fen Xun Ju Mo Luo Jingang Niansong Yujia Yi Gui Fa 《佛說無量壽佛化身大忿迅俱摩羅金剛念誦瑜伽儀軌法》	Translated by Vajrabodhi	taisho/t1223_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1224.csv	taisho/t1224.html	Jingang Tongzi Chi Nian Jing 《金剛童子持念經》		taisho/t1224_00.txt	Taishō	Sūtra		esoteric
+taisho/t1225.csv	taisho/t1225.html	Da Wei Nu Wu Chu Se Me Yi Gui Jing 《大威怒烏芻澁麼儀軌經》	Translated by Amoghavajra	taisho/t1225_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1226.csv	taisho/t1226.html	Wu Chu Se Ming Wang Yi Gui Fan Zi 《烏芻澁明王儀軌梵字》	Invited by Kong Hai	taisho/t1226_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1227.csv	taisho/t1227.html	Mahābalavajrakrodhasūtra (Da Weili Wu Shu Se Mo Ming Wang Jing) 《大威力烏樞瑟摩明王經》	Translated by Ajitasena	taisho/t1227_00.txt	Taishō	Sūtra	732	esoteric
+taisho/t1228.csv	taisho/t1228.html	Hui Ji Jingang Shuo Shentong Da Man Tuoluoni Fa Shu Ling Yao Men 《穢跡金剛說神通大滿陀羅尼法術靈要門》	Translated by Ajitasena	taisho/t1228_00.txt	Taishō	Sūtra	732	esoteric
+taisho/t1229.csv	taisho/t1229.html	Hui Ji Jingang Jin Bai Bianfa Jing 《穢跡金剛禁百變法經》	Translated by Ajitasena	taisho/t1229_00.txt	Taishō	Sūtra	732	esoteric
+taisho/t1230.csv	taisho/t1230.html	Fo Shuo Da Lun Jingang Zong Chi Tuoluoni Jing 《佛說大輪金剛總持陀羅尼經》		taisho/t1230_00.txt	Taishō	Sūtra		esoteric
+taisho/t1231.csv	taisho/t1231.html	Da Lun Jingang Xiuxing Xi Di Chengjiu Ji Gongyang Fa 《大輪金剛修行悉地成就及供養法》		taisho/t1231_00.txt	Taishō	Sūtra		esoteric
+taisho/t1232.csv	taisho/t1232.html	Bo Ban Nang Jieshi Bo Jingang Niansong Yi 《播般曩結使波金剛念誦儀》		taisho/t1232_00.txt	Taishō	Sūtra		esoteric
+taisho/t1233.csv	taisho/t1233.html	Fo Shuo Wu Neng Sheng Da Ming Wang Tuoluoni Jing 《佛說無能勝大明王陀羅尼經》	Translated by Fa Tian	taisho/t1233_00.txt	Taishō	Sūtra	984	esoteric
+taisho/t1234.csv	taisho/t1234.html	Sarvadurgatipariśodhanauṣṇīṣavijayadhāraṇisūtra (Wu Neng Sheng Da Ming Tuoluoni Jing) 《無能勝大明陀羅尼經》	Translated by Fa Tian	taisho/t1234_00.txt	Taishō	Sūtra	973	esoteric
+taisho/t1235.csv	taisho/t1235.html	Sarvadurgatipariśodhanauṣṇīṣavijayadhāraṇisūtra (Wu Neng Sheng Da Ming Xin Tuoluoni Jing) 《無能勝大明心陀羅尼經》	Translated by Fa Tian	taisho/t1235_00.txt	Taishō	Sūtra	973	esoteric
+taisho/t1236.csv	taisho/t1236.html	Sheng Wu Neng Sheng Jingang Huo Tuoluoni Jing 《聖無能勝金剛火陀羅尼經》	Translated by Fa Tian	taisho/t1236_00.txt	Taishō	Sūtra	986-987	esoteric
+taisho/t1237.csv	taisho/t1237.html	A Zha Po Ju Guishen Da Jiang Shang Fotuo Luo Ni Shen Zhou Jing 《阿吒婆拘鬼神大將上佛陀羅尼神呪經》	Translated by Unknown	taisho/t1237_00.txt	Taishō	Sūtra	502-557	esoteric
+taisho/t1238.csv	taisho/t1238.html	A Zha Po Niu Ju Guishen Da Jiang Shang Fotuo Luo Ni Jing 《阿吒婆𤘽鬼神大將上佛陀羅尼經》	Translated by Unknown	taisho/t1238_00.txt	Taishō	Sūtra		esoteric
+taisho/t1239.csv	taisho/t1239.html	A Zha Bao Ju Yuan Shuai Da Jiang Shang Fotuo Luo Ni Jing Xiuxing Yi Gui 《阿吒薄俱元帥大將上佛陀羅尼經修行儀軌》	Translated by Śubhakarasiṃha	taisho/t1239_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1240.csv	taisho/t1240.html	A Zha Bao Niu Ju Chouyou Zhou 《阿吒薄牛句付囑呪》		taisho/t1240_00.txt	Taishō	Sūtra		esoteric
+taisho/t1241.csv	taisho/t1241.html	Jia Duo Jingang Zhenyan 《伽馱金剛真言》		taisho/t1241_00.txt	Taishō	Sūtra		esoteric
+taisho/t1242.csv	taisho/t1242.html	Vajrabhairava (Fo Shuo Miao Jixiang Yujia Da Jiao Jingang Pei Luo Fu Lun Guan Xiang Chengjiu Yi Gui Jing) 《佛說妙吉祥瑜伽大教金剛陪囉嚩輪觀想成就儀軌經》	Translated by Faxian	taisho/t1242_00.txt	Taishō	Sūtra	989-999	esoteric
+taisho/t1243.csv	taisho/t1243.html	Mahābalasūtra (Fo Shuo Chusheng Yiqie Rulai Fayan Bian Zhao Dali Ming Wang Jing) 《佛說出生一切如來法眼遍照大力明王經》	Translated by Dharmarakṣa	taisho/t1243_00.txt	Taishō	Sūtra	933	esoteric
+taisho/t1244.csv	taisho/t1244.html	Mahābalasūtra (Pishamen Tian Wang Jing) 《毘沙門天王經》	Translated by Amoghavajra	taisho/t1244_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1245.csv	taisho/t1245.html	Aṭānāṭīyamasūtra (Fo Shuo Pishamen Tian Wang Jing) 《佛說毘沙門天王經》	Translated by Fa Tian	taisho/t1245_00.txt	Taishō	Sūtra	990	esoteric
+taisho/t1246.csv	taisho/t1246.html	Mohe Fei Shi Luo Mona Ye Ti Po He Luo She Tuoluoni Yi Gui 《摩訶吠室囉末那野提婆喝囉闍陀羅尼儀軌》	Translated by Bore Zhuojieluo	taisho/t1246_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1247.csv	taisho/t1247.html	Bei Fang Pishamen Tian Wang Sui Jun Hufa Yi Gui 《北方毘沙門天王隨軍護法儀軌》	Translated by Amoghavajra	taisho/t1247_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1248.csv	taisho/t1248.html	Bei Fang Pishamen Tian Wang Sui Jun Hufa Zhenyan 《北方毘沙門天王隨軍護法真言》	Translated by Amoghavajra	taisho/t1248_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1249.csv	taisho/t1249.html	Pishamen Yi Gui 《毘沙門儀軌》	Translated by Amoghavajra	taisho/t1249_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1250.csv	taisho/t1250.html	Bei Fang Pishamen Duo Wen Baozang Tianwang Shen Miao Tuoluoni Bie Xing Yi Gui 《北方毘沙門多聞寶藏天王神妙陀羅尼別行儀軌》	Translated by Amoghavajra	taisho/t1250_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1251.csv	taisho/t1251.html	Hong Jia Tuo Ye Yi Gui 《吽迦陀野儀軌》	Translated by Vajrabodhi	taisho/t1251_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1252a.csv	taisho/t1252a.html	Mahāśrīsūtra (Fo Shuo Da Jixiang Tian Nu Shi Er Minghao Jing) 《佛說大吉祥天女十二名號經》	Translated by Amoghavajra	taisho/t1252a_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1252b.csv	taisho/t1252b.html	Mahāśrīsūtra (Fo Shuo Da Jixiang Tian Nu Shi Er Minghao Jing) 《佛說大吉祥天女十二名號經》	Translated by Amoghavajra	taisho/t1252b_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1253.csv	taisho/t1253.html	Śrīmahādevīvyākaraṇasūtra (Da Jixiang Tian Nu Shi Er Qi Yibai Ba Ming Wugou Dasheng Jing) 《大吉祥天女十二契一百八名無垢大乘經》	Translated by Amoghavajra	taisho/t1253_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1254.csv	taisho/t1254.html	Mārīcīdhāraṇīsūtra (Mo Li Zhiti Po Huaman Jing) 《末利支提婆華鬘經》	Translated by Amoghavajra	taisho/t1254_00.txt	Taishō	Sūtra	746-774	esoteric
+taisho/t1255a.csv	taisho/t1255a.html	Mārīcīdhāraṇīsūtra (Fo Shuo Mo Li Zhi Tian Pusa Tuoluoni Jing) 《佛說摩利支天菩薩陀羅尼經》	Translated by Amoghavajra	taisho/t1255a_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1255b.csv	taisho/t1255b.html	Mārīcīdhāraṇīsūtra (Fo Shuo Mo Li Zhi Tian Jing) 《佛說摩利支天經》	Translated by Amoghavajra	taisho/t1255b_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1256.csv	taisho/t1256.html	Mārīcīdhāraṇīsūtra (Fo Shuo Mo Li Zhi Tian Tuoluoni Zhou Jing) 《佛說摩利支天陀羅尼呪經》	Translated by Unknown	taisho/t1256_00.txt	Taishō	Sūtra	502-557	esoteric
+taisho/t1257.csv	taisho/t1257.html	Mārīcīdhāraṇīsūtra (Fo Shuo Da Mo Li Zhi Pusa Jing) 《佛說大摩里支菩薩經》	Translated by Tian Xi Zai	taisho/t1257_00.txt	Taishō	Sūtra	986-987	esoteric
+taisho/t1258.csv	taisho/t1258.html	Molizhi Pusa Lue Niansong Fa 《摩利支菩薩略念誦法》	Translated by Amoghavajra	taisho/t1258_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1259.csv	taisho/t1259.html	Mo Li Zhi Tian Yi Yin Fa 《摩利支天一印法》		taisho/t1259_00.txt	Taishō	Sūtra		esoteric
+taisho/t1260.csv	taisho/t1260.html	Da Yaochanu Huanxi Mu Bing Ai Zi Chengjiu Fa 《大藥叉女歡喜母并愛子成就法》	Translated by Amoghavajra	taisho/t1260_00.txt	Taishō	Sūtra		esoteric
+taisho/t1261.csv	taisho/t1261.html	He Li Di Mu Zhenyan Jing 《訶利帝母真言經》	Translated by Amoghavajra	taisho/t1261_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1262.csv	taisho/t1262.html	Fo Shuo Guizi Mu Jing 《佛說鬼子母經》	Translated by Unknown	taisho/t1262_00.txt	Taishō	Sūtra	265-317	esoteric
+taisho/t1263.csv	taisho/t1263.html	Bing Jie Luo Tian Tongzi Jing 《氷揭羅天童子經》	Translated by Amoghavajra	taisho/t1263_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t1264a.csv	taisho/t1264a.html	Jāṅgulīnāmavidyā (Guanzizai Pusa Huashen Rang Yu Li Ye Tong Nu Xiao Fu Duhai Tuoluoni Jing) 《觀自在菩薩化身蘘麌哩曳童女銷伏毒害陀羅尼經》	Translated by Amoghavajra	taisho/t1264a_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1264b.csv	taisho/t1264b.html	Jāṅgulīnāmavidyā (Fo Shuo Rang Yu Li Tong Nu Jing) 《佛說穰麌梨童女經》	Translated by Amoghavajra	taisho/t1264b_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1265.csv	taisho/t1265.html	Fo Shuo Chang Ju Li Du Nu Tuoluoni Zhou Jing 《佛說常瞿利毒女陀羅尼呪經》	Translated by Ju Duo	taisho/t1265_00.txt	Taishō	Sūtra	618-907	esoteric

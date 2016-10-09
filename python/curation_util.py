@@ -337,13 +337,15 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
       f.write(u"\n%s\n" % kReference)
     f.write(u"English translations: None\n\n")
     f.write(u"<h4>Primary Source</h4>\n")
-    if translator.strip() == "":
-      translator == "Unknown"
-    f.write(u"%s, 《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
+    translatorStr = ""
+    print "WriteColophon, translator = '%s'" % translator
+    if translator != "":
+      translatorStr = "%s, " % translator
+    f.write(u"%s《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
             u"《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō "
             u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %s, Accessed "
             u"%s, <a href='%s'>%s</a>.\n\n" % (
-            translator, traditional, english, volume, tid, datestr, url, url))
+            translatorStr, traditional, english, volume, tid, datestr, url, url))
     if kid != "0":
       f.write("<h4>References</h4>\n")
       f.write("<ol><li>Lancaster, L.R. 2004, <i>The Korean Buddhist Canon: A "
