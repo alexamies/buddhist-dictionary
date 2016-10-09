@@ -106,6 +106,8 @@ def GetDynastyEn(dynasty_cn):
   dynasty_en = dynasty_cn
   if dynasty_cn == u"梁":
     dynasty_en = u"Liang" # Not a bridge
+  elif dynasty_cn == u"元":
+    dynasty_en = u"Yuan" # Not bright
   elif dynasty_cn == u"明":
     dynasty_en = u"Ming" # Not bright
   elif dynasty_cn == u"清":
