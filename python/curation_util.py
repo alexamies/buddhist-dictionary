@@ -131,9 +131,21 @@ def GetCompiledByEn(compiledby_cn):
     compiledby_en = tokens[0].strip()
   return compiledby_en
 
+def GetCompiledHowEn(compiled_how_cn):
+  """
+  Gets the method of translation in English"""
+  compiled_how_en = compiled_how_cn
+  how_dict = {u"造": "Written",
+              u"集": "Compiled",
+              u"撰": "Compiled"
+              }
+  if compiled_how_cn in how_dict:
+    compiled_how_en = how_dict[compiled_how_cn]
+  return compiled_how_en
+
 def GetHowEn(how_cn):
   """
-  Gets the dynasty in English and does some mangling to make it readable."""
+  Gets the method of translation or recording in English"""
   how_en = how_cn
   how_dict = {u"譯": "Translated",
               u"集": "Compiled",
@@ -144,7 +156,8 @@ def GetHowEn(how_cn):
               u"請來": "Invited",
               u"注": "Recorded",
               u"校": "Taught",
-              u"造": "Compiled"
+              u"造": "Compiled",
+              u"錄": "Recorded"
               }
   if how_cn in how_dict:
     how_en = how_dict[how_cn]
@@ -162,6 +175,7 @@ def GetEntry(tid):
   entry["translator_en"] = GetTranslatorEn(entry["translator"])
   entry["compiledby_en"] = GetCompiledByEn(entry["compiledby_cn"])
   entry["how_en"] = GetHowEn(entry["how_cn"])
+  entry["compiled_how_en"] = GetCompiledHowEn(entry["compiled_how_cn"])
   return entry
 
 
@@ -263,7 +277,8 @@ def P2englishPN(pinyin):
   return english.strip()
 
 
-def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en, textFormat = u"Sūtra"):
+def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en,
+                         textFormat = u"Sūtra", compiledBy = "", compiledHow = ""):
   """
   Appends an entry to the collection file
   """
@@ -273,6 +288,8 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en, textF
   translatedBy = ""
   if how_en != "" and translator != "":
     translatedBy = u"%s by %s" % (how_en, translator)
+  if compiledBy != "" and compiledHow != "":
+    translatedBy = u"%s by %s, %s" % (compiledHow, compiledBy, translatedBy)
   entry = u"\ntaisho/t%s.csv\ttaisho/t%s.html\t%s\t%s\ttaisho/t%s_00.txt\tTaishō\t%s\t%s\t%s" % (
     tidStr, tidStr, title, translatedBy, tidStr, textFormat, daterange, genre)
   filename = "../data/corpus/collections.csv"
@@ -283,7 +300,7 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en, textF
 def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
                   nscrolls = 1, kid = 0, sanskrit = "",
                   translator = "Unknown", dynasty = "", daterange = "",
-                  compiledBy = "", how_en = "translated"):
+                  compiledBy = "", how_en = "translated", compiledHow = ""):
   """
   Write the colophon to a file
 
@@ -326,6 +343,11 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     elif translator != u"":
       dynastyRef = u"%s by %s in %d %s" % (how_en, translator,
                    nscrolls, scrollStr)
+    elif compiledBy != "" and compiledHow != "":
+      compiledBy = u"%s by %s" % (compiledHow, compiledBy)
+      dynastyRef = u"%, %s by %s in %d %s" % (compiledBy, how_en.lower(),
+                   translator, nscrolls, scrollStr)
+
     datestr = date.today().strftime("%Y-%m-%d")
 
     f.write("<h4>Colophon</h4>\n")
