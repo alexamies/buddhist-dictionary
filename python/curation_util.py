@@ -138,7 +138,10 @@ def GetCompiledHowEn(compiled_how_cn):
   how_dict = {u"造": "Composed",
               u"集": "Compiled",
               u"撰": "Compiled",
-              u"頌": "Recited"
+              u"頌": "Recited",
+              u"釋": "Composed",
+              u"作": "Composed",
+              u"說": "Spoken"
               }
   if compiled_how_cn in how_dict:
     compiled_how_en = how_dict[compiled_how_cn]
@@ -351,8 +354,8 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
       dynastyRef = u"%s by %s in %d %s" % (how_en, translator,
                    nscrolls, scrollStr)
     if compiledBy != "" and compiledHow != "":
-      compiledBy = u"%s by %s" % (compiledHow, compiledBy)
-      dynastyRef = u"%s, %s by %s in %d %s" % (compiledBy, how_en.lower(), translator, nscrolls, scrollStr)
+      compiledbyRef = u"%s by %s" % (compiledHow, compiledBy)
+      dynastyRef = u"%s, %s by %s in %d %s" % (compiledbyRef, how_en.lower(), translator, nscrolls, scrollStr)
     if explainedBy != "":
       dynastyRef = u"%s, explained by %s, %s by %s in %d %s" % (compiledBy, explainedBy, how_en.lower(), translator, nscrolls, scrollStr)
 
@@ -376,6 +379,8 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
       translatorStr = "%s, %s, and %s (trans.), " % (compiledBy, explainedBy, translator)
     elif translator != ""  and compiledBy != "":
       translatorStr = "%s and %s, " % (compiledBy, translator)
+    elif translator == "" and explainedBy == "" and compiledBy == "":
+      translatorStr = ""
     else:
        translatorStr = "%s, " % translator
     f.write(u"%s《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
