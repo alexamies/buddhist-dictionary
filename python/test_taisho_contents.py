@@ -22,6 +22,12 @@ def test_convert_to_csv():
   entry = tcontents[u"1509"]
   print u"Title for Volume %d No. %s is %s, in %d scrolls, how_cn %s, compiled_how_cn %s" % (entry["volume"],
         entry["tid"], entry["title"], entry["nscrolls"], entry["how_cn"], entry["compiled_how_cn"])
+  entry = tcontents[u"1512"]
+  print u"Title for Volume %d No. %s is %s, in %d scrolls, how_cn %s, explainedby_cn %s" % (entry["volume"],
+        entry["tid"], entry["title"], entry["nscrolls"], entry["how_cn"], entry["explainedby_cn"])
+  entry = tcontents[u"1517"]
+  print u"Title for Volume %d No. %s is %s, in %d scrolls, how_cn %s, attribution_cn %s" % (entry["volume"],
+        entry["tid"], entry["title"], entry["nscrolls"], entry["how_cn"], entry["attribution_cn"])
 
 
 def main():

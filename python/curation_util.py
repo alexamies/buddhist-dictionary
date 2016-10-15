@@ -135,9 +135,10 @@ def GetCompiledHowEn(compiled_how_cn):
   """
   Gets the method of translation in English"""
   compiled_how_en = compiled_how_cn
-  how_dict = {u"造": "Written",
+  how_dict = {u"造": "Composed",
               u"集": "Compiled",
-              u"撰": "Compiled"
+              u"撰": "Compiled",
+              u"頌": "Recited"
               }
   if compiled_how_cn in how_dict:
     compiled_how_en = how_dict[compiled_how_cn]
@@ -176,6 +177,7 @@ def GetEntry(tid):
   entry["compiledby_en"] = GetCompiledByEn(entry["compiledby_cn"])
   entry["how_en"] = GetHowEn(entry["how_cn"])
   entry["compiled_how_en"] = GetCompiledHowEn(entry["compiled_how_cn"])
+  entry["explainedby_en"] = GetTranslatorEn(entry["explainedby_cn"])
   return entry
 
 
@@ -278,7 +280,8 @@ def P2englishPN(pinyin):
 
 
 def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en,
-                         textFormat = u"Sūtra", compiledBy = "", compiledHow = ""):
+                         textFormat = u"Sūtra", compiledBy = "", compiledHow = "",
+                         explainedBy = ""):
   """
   Appends an entry to the collection file
   """
@@ -289,7 +292,10 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en,
   if how_en != "" and translator != "":
     translatedBy = u"%s by %s" % (how_en, translator)
   if compiledBy != "" and compiledHow != "":
-    translatedBy = u"%s by %s, %s" % (compiledHow, compiledBy, translatedBy)
+    translatedBy = u"%s by %s, %s by %s" % (compiledHow, compiledBy, how_en.lower(), translator)
+  if explainedBy != "":
+    translatedBy = u"%s by %s, explained by %s, %s by %s" % (compiledHow, compiledBy,
+                   explainedBy, how_en.lower(), translator)
   entry = u"\ntaisho/t%s.csv\ttaisho/t%s.html\t%s\t%s\ttaisho/t%s_00.txt\tTaishō\t%s\t%s\t%s" % (
     tidStr, tidStr, title, translatedBy, tidStr, textFormat, daterange, genre)
   filename = "../data/corpus/collections.csv"
@@ -300,7 +306,8 @@ def WriteCollectionEntry(tid, title, translator, daterange, genre, how_en,
 def WriteColophon(tid, colophon_cn, volume, english, traditional, url, 
                   nscrolls = 1, kid = 0, sanskrit = "",
                   translator = "Unknown", dynasty = "", daterange = "",
-                  compiledBy = "", how_en = "translated", compiledHow = ""):
+                  compiledBy = "", how_en = "translated", compiledHow = "",
+                  explainedBy = ""):
   """
   Write the colophon to a file
 
@@ -340,13 +347,14 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     if dynasty != u"":
       dynastyRef = u"%s by %s in the %s in %d %s" % (how_en, translator,
                    dynasty, nscrolls, scrollStr)
-    elif translator != u"":
+    if translator != u"":
       dynastyRef = u"%s by %s in %d %s" % (how_en, translator,
                    nscrolls, scrollStr)
-    elif compiledBy != "" and compiledHow != "":
+    if compiledBy != "" and compiledHow != "":
       compiledBy = u"%s by %s" % (compiledHow, compiledBy)
-      dynastyRef = u"%, %s by %s in %d %s" % (compiledBy, how_en.lower(),
-                   translator, nscrolls, scrollStr)
+      dynastyRef = u"%s, %s by %s in %d %s" % (compiledBy, how_en.lower(), translator, nscrolls, scrollStr)
+    if explainedBy != "":
+      dynastyRef = u"%s, explained by %s, %s by %s in %d %s" % (compiledBy, explainedBy, how_en.lower(), translator, nscrolls, scrollStr)
 
     datestr = date.today().strftime("%Y-%m-%d")
 
@@ -362,8 +370,14 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     f.write(u"<h4>Primary Source</h4>\n")
     translatorStr = ""
     print "WriteColophon, translator = '%s'" % translator
-    if translator != "":
+    if translator != "" and explainedBy == "" and compiledBy == "":
       translatorStr = "%s, " % translator
+    elif explainedBy != "" and compiledBy != "":
+      translatorStr = "%s, %s, and %s (trans.), " % (compiledBy, explainedBy, translator)
+    elif translator != ""  and compiledBy != "":
+      translatorStr = "%s and %s, " % (compiledBy, translator)
+    else:
+       translatorStr = "%s, " % translator
     f.write(u"%s《%s》 '%s,' in <i>Taishō shinshū Daizōkyō</i> "
             u"《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō "
             u"Shinshū Daizōkyō Kankōkai, 1988), Vol. %d, No. %s, Accessed "
