@@ -141,7 +141,8 @@ def GetCompiledHowEn(compiled_how_cn):
               u"頌": "Recited",
               u"釋": "Composed",
               u"作": "Composed",
-              u"說": "Spoken"
+              u"說": "Spoken",
+              u"論": "Composed"
               }
   if compiled_how_cn in how_dict:
     compiled_how_en = how_dict[compiled_how_cn]
@@ -344,21 +345,20 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
     scrollStr = u"scroll"
     if nscrolls > 1:
       scrollStr = u"scrolls"
-    dynastyRef = u""
     if compiledBy != "":
       compiledbyRef = "Compiled by %s. " % compiledBy
-    if dynasty != u"":
-      dynastyRef = u"%s by %s in the %s in %d %s" % (how_en, translator,
-                   dynasty, nscrolls, scrollStr)
     if translator != u"":
-      dynastyRef = u"%s by %s in %d %s" % (how_en, translator,
-                   nscrolls, scrollStr)
+      compiledbyRef = u"%s by %s" % (how_en, translator)
     if compiledBy != "" and compiledHow != "":
       compiledbyRef = u"%s by %s" % (compiledHow, compiledBy)
-      dynastyRef = u"%s, %s by %s in %d %s" % (compiledbyRef, how_en.lower(), translator, nscrolls, scrollStr)
+      compiledbyRef = u"%s, %s by %s" % (compiledbyRef, how_en.lower(), translator)
     if explainedBy != "":
-      dynastyRef = u"%s, explained by %s, %s by %s in %d %s" % (compiledBy, explainedBy, how_en.lower(), translator, nscrolls, scrollStr)
-
+      compiledbyRef = u"%s, explained by %s, %s by %s" % (compiledBy, explainedBy, how_en.lower(), translator)
+    dynastyRef = u"%s in %d %s" % (compiledbyRef, nscrolls, scrollStr)
+    if dynasty != u"":
+      dynastyRef = u"%s in the %s in %d %s" % (compiledbyRef,
+                   dynasty, nscrolls, scrollStr)
+ 
     datestr = date.today().strftime("%Y-%m-%d")
 
     f.write("<h4>Colophon</h4>\n")
