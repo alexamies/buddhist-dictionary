@@ -21,15 +21,17 @@ def convert_to_csv():
   pattern = ur"【(.*)】"
   pattern1 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
   pattern2 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
-  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論])\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
-  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論])\s([\S]+)[釋|論]\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
+  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本])\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
+  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本])\s([\S]+)[釋|論]\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
   pattern5 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【】"
+  pattern6 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【(偈本)([\S]+)\s釋論([\S]+)\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
   expr = re.compile(pattern, re.UNICODE)
   expr1 = re.compile(pattern1, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
   expr3 = re.compile(pattern3, re.UNICODE)
   expr4 = re.compile(pattern4, re.UNICODE)
   expr5 = re.compile(pattern5, re.UNICODE)
+  expr6 = re.compile(pattern6, re.UNICODE) # 1566
   with codecs.open(CONTENTS_TXT, 'r', "utf-8") as fin:
     with codecs.open(CONTENTS_CSV, 'w', "utf-8") as fout:
       for line in fin:
@@ -55,6 +57,7 @@ def convert_to_csv():
           m3 = expr3.search(line)
           m4 = expr4.search(line)
           m5 = expr5.search(line)
+          m6 = expr6.search(line)
           if m1:
             #print u"%s: m1" % line
             v = m1.group(1)
@@ -102,6 +105,19 @@ def convert_to_csv():
             tid = m5.group(2)
             title = m5.group(3)
             nscrolls = m5.group(4)
+          elif m6:
+            # Explained by 
+            #print u"%s: m6" % line
+            v = m6.group(1)
+            tid = m6.group(2)
+            title = m6.group(3)
+            nscrolls = m6.group(4)
+            compiledHow = m6.group(5)
+            compiledBy = m6.group(6)
+            explainedBy = m6.group(7)
+            dynasty = m6.group(8)
+            translator = m6.group(9)
+            how = m6.group(10)
           lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how, compiledHow, explainedBy,
                       attribution_cn)
