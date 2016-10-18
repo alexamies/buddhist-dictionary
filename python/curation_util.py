@@ -392,7 +392,7 @@ def WriteColophon(tid, colophon_cn, volume, english, traditional, url,
             translatorStr, traditional, english, volume, tid, datestr, url, url))
     if kid != "0":
       f.write("<h4>References</h4>\n")
-      f.write("<ol><li>Lancaster, L.R. 2004, <i>The Korean Buddhist Canon: A "
+      f.write("<ol><li>Lancaster, L.R. 2004. <i>The Korean Buddhist Canon: A "
               "Descriptive Catalogue</i>, "
               "<a href='http://www.acmuller.net/descriptive_catalogue/'"
               ">http://www.acmuller.net/descriptive_catalogue</a>.</li></ol>\n")
