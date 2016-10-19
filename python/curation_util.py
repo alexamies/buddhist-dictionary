@@ -144,7 +144,8 @@ def GetCompiledHowEn(compiled_how_cn):
               u"說": "Spoken",
               u"論": "Composed",
               u"偈本": "Verses",
-              u"本": "Composed"
+              u"本": "Composed",
+              u"糅": "Compiled"
               }
   if compiled_how_cn in how_dict:
     compiled_how_en = how_dict[compiled_how_cn]
