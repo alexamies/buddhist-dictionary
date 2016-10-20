@@ -1629,67 +1629,119 @@ taisho/t1560.csv	taisho/t1560.html	Abhidharmakośakārikā (Apidamo Jushe Lun Be
 taisho/t1561.csv	taisho/t1561.html	Jushe Lun Shi Yi Shu 《俱舍論實義疏》	Compiled by An Hui	taisho/t1561_00.txt	Taishō	śastra		śastra
 taisho/t1562.csv	taisho/t1562.html	Abhidharmanyāyānusāraśāstra (Apidamo Shun Zheng Lilun) 《阿毘達磨順正理論》	Composed by Saṅghabhadra, translated by Xuanzang	taisho/t1562_00.txt	Taishō	śastra	653-654	śastra
 taisho/t1563.csv	taisho/t1563.html	Abhidharmakośaśāstrakārikāvibhāṣya (Apidamo Cang Xian Zong Lun) 《阿毘達磨藏顯宗論》	Composed by Saṅghabhadra, translated by Xuanzang	taisho/t1563_00.txt	Taishō	śastra	651-652	śastra
-taisho/t1564.csv	taisho/t1564.html	Mūlamadhyamakaśāstra (Fundamental Verses on the Middle Way) 《中論》	Composed by Nāgārjuna, explained by Piṅgala, translated by Kumārajīva	taisho/t1564_00.txt	Taishō	śastra	409	śastra
-taisho/t1565.csv	taisho/t1565.html	Shun Zhong Lun 《順中論》	Composed by Nāgārjuna, explained by Asaṅga, translated by Gautama Prajñāruci	taisho/t1565_00.txt	Taishō	śastra	543	śastra
-taisho/t1566.csv	taisho/t1566.html	Prajñāpradīpamūlamadhyamakavṛtti (Bore Deng Lun Shi) 《般若燈論釋》	Verses by Nāgārjuna, explained by Bhāviveka, translated by Prabhākaramitra	taisho/t1566_00.txt	Taishō	śastra	629-632	śastra
-taisho/t1567.csv	taisho/t1567.html	Dasheng Zhong Guan Shi Lun Di Juan Di Juan 《大乘中觀釋論》	Composed by An Hui, translated by Wei Jing and others	taisho/t1567_00.txt	Taishō	śastra	1027-1030	śastra
-taisho/t1568.csv	taisho/t1568.html	Dvādaśanikāyaśāstra (Shi'er Men Lun) 《十二門論》	Composed by Nāgārjuna, translated by Kumārajīva	taisho/t1568_00.txt	Taishō	śastra	408-409	śastra
-taisho/t1569.csv	taisho/t1569.html	Śatakaśāstra (Bai Lun) 《百論》	Composed by Āryadeva, explained by Vasu, translated by Kumārajīva	taisho/t1569_00.txt	Taishō	śastra	404	śastra
-taisho/t1570.csv	taisho/t1570.html	Catuḥśataka (Guang Bai Lun Ben) 《廣百論本》	Composed by Āryadeva, translated by Xuanzang	taisho/t1570_00.txt	Taishō	śastra	647-651	śastra
+taisho/t1564.csv	taisho/t1564.html	Mūlamadhyamakaśāstra (Fundamental Verses on the Middle Way) 《中論》	Composed by Nāgārjuna, explained by Piṅgala, translated by Kumārajīva	taisho/t1564_00.txt	Taishō	śastra	409	madhyamaka
+taisho/t1565.csv	taisho/t1565.html	Shun Zhong Lun 《順中論》	Composed by Nāgārjuna, explained by Asaṅga, translated by Gautama Prajñāruci	taisho/t1565_00.txt	Taishō	śastra	543	madhyamaka
+taisho/t1566.csv	taisho/t1566.html	Prajñāpradīpamūlamadhyamakavṛtti (Bore Deng Lun Shi) 《般若燈論釋》	Verses by Nāgārjuna, explained by Bhāviveka, translated by Prabhākaramitra	taisho/t1566_00.txt	Taishō	śastra	629-632	madhyamaka
+taisho/t1567.csv	taisho/t1567.html	Dasheng Zhong Guan Shi Lun Di Juan Di Juan 《大乘中觀釋論》	Composed by An Hui, translated by Wei Jing and others	taisho/t1567_00.txt	Taishō	śastra	1027-1030	madhyamaka
+taisho/t1568.csv	taisho/t1568.html	Dvādaśanikāyaśāstra (Shi'er Men Lun) 《十二門論》	Composed by Nāgārjuna, translated by Kumārajīva	taisho/t1568_00.txt	Taishō	śastra	408-409	madhyamaka
+taisho/t1569.csv	taisho/t1569.html	Śatakaśāstra (Bai Lun) 《百論》	Composed by Āryadeva, explained by Vasu, translated by Kumārajīva	taisho/t1569_00.txt	Taishō	śastra	404	madhyamaka
+taisho/t1570.csv	taisho/t1570.html	Catuḥśataka (Guang Bai Lun Ben) 《廣百論本》	Composed by Āryadeva, translated by Xuanzang	taisho/t1570_00.txt	Taishō	śastra	647-651	madhyamaka
 taisho/t1571.csv	taisho/t1571.html	Dasheng Guang Bai Lun Shi Lun 《大乘廣百論釋論》	Composed by Āryadeva, explained by Dharmapāla, translated by Xuanzang	taisho/t1571_00.txt	Taishō	śastra	651	śastra
-taisho/t1572.csv	taisho/t1572.html	Akṣaraśatakavṛtti (Bai Zi Lun) 《百字論》	Composed by Āryadeva, translated by Bodhiruci	taisho/t1572_00.txt	Taishō	śastra	508-535	śastra
-taisho/t1573.csv	taisho/t1573.html	Ekaślokaśāstra (Yi Shu Lu Jia Lun) 《壹輸盧迦論》	Composed by Nāgārjuna, translated by 瞿曇般若留支	taisho/t1573_00.txt	Taishō	śastra	538-543	śastra
-taisho/t1574.csv	taisho/t1574.html	Bhavasaṅkrantiśāstra 《大乘破有論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1574_00.txt	Taishō	śastra	1005	śastra
-taisho/t1575.csv	taisho/t1575.html	Yuktiṣaṣṭikākārikā (Sixty Verses of Reasoning) 《六十頌如理論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1575_00.txt	Taishō	śastra	1007	śastra
-taisho/t1576.csv	taisho/t1576.html	Mahāyānavimśaka (Dasheng Ershi Song Lun) 《大乘二十頌論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1576_00.txt	Taishō	śastra	1008	śastra
-taisho/t1577.csv	taisho/t1577.html	Mahāpuruṣaśāstra (Da Zhangfu Lun) 《大丈夫論》	Composed by Āryadeva, translated by Dao Tai	taisho/t1577_00.txt	Taishō	śastra	397-439	śastra
-taisho/t1578.csv	taisho/t1578.html	Karatalaratna (Dasheng Zhang Zhen Lun) 《大乘掌珍論》	Composed by Bhāviveka, translated by Xuanzang	taisho/t1578_00.txt	Taishō	śastra	649	śastra
-taisho/t1579.csv	taisho/t1579.html	Yogācāryabhūmiśāstra (Yujia Shi Di Lun) 《瑜伽師地論》	Spoken by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1579_00.txt	Taishō	śastra	646-648	śastra
-taisho/t1580.csv	taisho/t1580.html	Yogācāryabhūmiśāstrakārikā (Yujia Shi Di Lun Shi) 《瑜伽師地論釋》	Composed by Jinaputra, translated by Xuanzang	taisho/t1580_00.txt	Taishō	śastra	650	śastra
-taisho/t1581.csv	taisho/t1581.html	Bodhisattvabhūmi (Pusa Xing Chi Jing) 《菩薩地持經》	Translated by Dharmakṣema	taisho/t1581_00.txt	Taishō	śastra	414-426	śastra
-taisho/t1582.csv	taisho/t1582.html	Bodhisattvabhūmi (Pusa Shan Jie Jing) 《菩薩善戒經》	Translated by Guṇaśāla	taisho/t1582_00.txt	Taishō	śastra	431	śastra
-taisho/t1583.csv	taisho/t1583.html	Bodhisattvacāryanirdeśa (Pusa Shan Jie Jing) 《菩薩善戒經》	Translated by Guṇaśāla	taisho/t1583_00.txt	Taishō	śastra	431	śastra
-taisho/t1584.csv	taisho/t1584.html	Jueding Cang Lun 《決定藏論》	Translated by paramārtha	taisho/t1584_00.txt	Taishō	śastra	548-557	śastra
-taisho/t1585.csv	taisho/t1585.html	Vijñaptimātratāsiddhiśāstra (Cheng Weishi Lun) 《成唯識論》	Composed by Dharmapāla, translated by Xuanzang	taisho/t1585_00.txt	Taishō	śastra	659	śastra
-taisho/t1586.csv	taisho/t1586.html	Triṃśikākārikā (Weishi San Shi Lun Song) 《唯識三十論頌》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1586_00.txt	Taishō	śastra	648	śastra
-taisho/t1587.csv	taisho/t1587.html	Triṃśikākārikā (Zhuan Shi Lun) 《轉識論》	Translated by paramārtha	taisho/t1587_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1588.csv	taisho/t1588.html	Viṁśatikāvṛtti (Weishi Lun) 《唯識論》	Composed by Vasubandhu, translated by Gautama Prajñāruci	taisho/t1588_00.txt	Taishō	śastra	538-543	śastra
-taisho/t1589.csv	taisho/t1589.html	Viṁśatikāvṛtti (Dasheng Weishi Lun) 《大乘唯識論》	Composed by Vasubandhu, translated by Paramārtha	taisho/t1589_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1590.csv	taisho/t1590.html	Viṃśatikāvṛtti (Weishi Ershi Lun) 《唯識二十論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1590_00.txt	Taishō	śastra	661	śastra
-taisho/t1591.csv	taisho/t1591.html	Cheng Weishi Bao Sheng Lun 《成唯識寶生論》	Composed by Dharmapāla, translated by Yijing	taisho/t1591_00.txt	Taishō	śastra	710	śastra
-taisho/t1592.csv	taisho/t1592.html	Mahāyānasaṅgraha (She Dacheng Lun) 《攝大乘論》	Composed by Asaṅga, translated by Buddhaśānta	taisho/t1592_00.txt	Taishō	śastra	531	śastra
-taisho/t1593.csv	taisho/t1593.html	Mahāyānasaṅgraha (She Dacheng Lun) 《攝大乘論》	Composed by Asaṅga, translated by paramārtha	taisho/t1593_00.txt	Taishō	śastra	563	śastra
-taisho/t1594.csv	taisho/t1594.html	Mahāyānasaṅgraha (She Dacheng Lun Ben) 《攝大乘論本》	Composed by Asaṅga, translated by Xuanzang	taisho/t1594_00.txt	Taishō	śastra	649	śastra
-taisho/t1595.csv	taisho/t1595.html	Mahāyānasaṅgrāhabhāṣya (She Dacheng Lun Shi) 《攝大乘論釋》	Composed by Vasubandhu, translated by paramārtha	taisho/t1595_00.txt	Taishō	śastra	563	śastra
-taisho/t1596.csv	taisho/t1596.html	Mahāyānasaṅgrahabhāṣya (She Dacheng Lun Shi Lun) 《攝大乘論釋論》	Composed by Vasubandhu, translated by Dharmagupta and Xing Ju	taisho/t1596_00.txt	Taishō	śastra	605-616	śastra
-taisho/t1597.csv	taisho/t1597.html	Mahāyānasaṅgrahabhāṣya (She Dacheng Lun Shi) 《攝大乘論釋》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1597_00.txt	Taishō	śastra	647-649	śastra
-taisho/t1598.csv	taisho/t1598.html	Mahāyānasaṅgrahopanibandhana (She Dacheng Lun Shi) 《攝大乘論釋》	Composed by Asvabhāva, translated by Xuanzang	taisho/t1598_00.txt	Taishō	śastra	647-649	śastra
-taisho/t1599.csv	taisho/t1599.html	Madhyāntavibhaṅgabhāṣya (Zhong Bian Fenbie Lun) 《中邊分別論》	Composed by Vasubandhu, translated by paramārtha	taisho/t1599_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1600.csv	taisho/t1600.html	Madhyāntavibhaṅgabhāṣya (Bian Zhong Bian Lun) 《辯中邊論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1600_00.txt	Taishō	śastra	661	śastra
-taisho/t1601.csv	taisho/t1601.html	Madhyāntavibhāṅgakārikā (Bian Zhong Bian Lun Song) 《辯中邊論頌》	Spoken by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1601_00.txt	Taishō	śastra	661	śastra
-taisho/t1602.csv	taisho/t1602.html	Xian Yang Shengjiao Lun 《顯揚聖教論》	Composed by Asaṅga, translated by Xuanzang	taisho/t1602_00.txt	Taishō	śastra	645-646	śastra
-taisho/t1603.csv	taisho/t1603.html	Xian Yang Shengjiao Lun Song 《顯揚聖教論頌》	Composed by Asaṅga, translated by Xuanzang	taisho/t1603_00.txt	Taishō	śastra	645	śastra
-taisho/t1604.csv	taisho/t1604.html	Mahāyānasūtralāṃkāraśāstra (Dacheng Zhuangyan Jinglun) 《大乘莊嚴經論》	Composed by Asaṅga, translated by Prabhākaramitra	taisho/t1604_00.txt	Taishō	śastra	630	śastra
-taisho/t1605.csv	taisho/t1605.html	Abhidharmasamuccaya (Dasheng Apidamo Ji Lun) 《大乘阿毘達磨集論》	Composed by Asaṅga, translated by Xuanzang	taisho/t1605_00.txt	Taishō	śastra	652-661	śastra
-taisho/t1606.csv	taisho/t1606.html	Abhidharmasamuccayavyākhyā (Dasheng Apidamo Za Ji Lun) 《大乘阿毘達磨雜集論》	Compiled by An Hui, translated by Xuanzang	taisho/t1606_00.txt	Taishō	śastra	646	śastra
-taisho/t1607.csv	taisho/t1607.html	Liu Men Jiaoshou Xi Ding Lun 《六門教授習定論》	Composed by Asaṅga, explained by Vasubandhu, translated by Yijing	taisho/t1607_00.txt	Taishō	śastra	703	śastra
-taisho/t1608.csv	taisho/t1608.html	Karmasiddhiprakaraṇa (Ye Chengjiu Lun) 《業成就論》	Composed by Vasubandhu, translated by Vimokṣaprajñā	taisho/t1608_00.txt	Taishō	śastra	541	śastra
-taisho/t1609.csv	taisho/t1609.html	Karmasiddhiprakaraṇa (Dacheng Cheng Ye Lun) 《大乘成業論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1609_00.txt	Taishō	śastra	648-651	śastra
-taisho/t1610.csv	taisho/t1610.html	Fo Xing Lun 《佛性論》	Composed by Vasubandhu, translated by Paramārtha	taisho/t1610_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1611.csv	taisho/t1611.html	Mahāyānottaratantraśāstra (Jiujing Yi Cheng Bao Xing Lun) 《究竟一乘寶性論》	Translated by Ratnamati	taisho/t1611_00.txt	Taishō	śastra	508	śastra
-taisho/t1612.csv	taisho/t1612.html	Pañcaskandhaprakaraṇa (Dasheng Wu Yun Lun) 《大乘五蘊論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1612_00.txt	Taishō	śastra	647	śastra
-taisho/t1613.csv	taisho/t1613.html	Pañcaskandhaprakaraṇavaibhāṣya (Dasheng Guang Wu Yun Lun) 《大乘廣五蘊論》	Composed by An Hui, translated by Divākara	taisho/t1613_00.txt	Taishō	śastra	685	śastra
-taisho/t1614.csv	taisho/t1614.html	Mahāyānaśatadharmaprakāśamukhaśāstra (Dasheng Bai Fa Ming Men Lun) 《大乘百法明門論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1614_00.txt	Taishō	śastra	648	śastra
-taisho/t1615.csv	taisho/t1615.html	Wangfa Zheng Lilun 《王法正理論》	Composed by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1615_00.txt	Taishō	śastra	647-649	śastra
-taisho/t1616.csv	taisho/t1616.html	Aṣṭadaśaśūnyatāśāstra (Shiba Kong Lun) 《十八空論》	Composed by Nāgārjuna, translated by paramārtha	taisho/t1616_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1617.csv	taisho/t1617.html	San Wuxing Lun 《三無性論》	Translated by paramārtha	taisho/t1617_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1618.csv	taisho/t1618.html	Xianshi Lun 《顯識論》	Translated by paramārtha	taisho/t1618_00.txt	Taishō	śastra	557-569	śastra
-taisho/t1619.csv	taisho/t1619.html	Ālambanaparīkṣā (Wuxiang Si Chen Lun) 《無相思塵論》	Composed by Dignāga, translated by Paramārtha	taisho/t1619_00.txt	Taishō	śastra	558-569	śastra
-taisho/t1620.csv	taisho/t1620.html	Hastavālaprakaraṇa (Jie Juan Lun) 《解捲論》	Composed by Dignāga, translated by Paramārtha	taisho/t1620_00.txt	Taishō	śastra	558-569	śastra
-taisho/t1621.csv	taisho/t1621.html	Hastavālaprakaraṇa (Zhang Zhong Lun) 《掌中論》	Composed by Dignāga, translated by Yijing	taisho/t1621_00.txt	Taishō	śastra	702-703	śastra
-taisho/t1622.csv	taisho/t1622.html	Qu Yin Jiashe Lun 《取因假設論》	Composed by Dignāga, translated by Yijing	taisho/t1622_00.txt	Taishō	śastra	703	śastra
-taisho/t1623.csv	taisho/t1623.html	Guan Zong Xiang Lun Song 《觀總相論頌》	Composed by Dignāga, translated by Yijing	taisho/t1623_00.txt	Taishō	śastra	711	śastra
-taisho/t1624.csv	taisho/t1624.html	Ālambanaparīkṣā (Guan Suo Yuan Yuan Lun) 《觀所緣緣論》	Composed by Dignāga, translated by Xuanzang	taisho/t1624_00.txt	Taishō	śastra	657	śastra
-taisho/t1625.csv	taisho/t1625.html	Ālaṁbanaparīkṣā (Guan Suo Yuan Lun Shi) 《觀所緣論釋》	Composed by Dharmapāla, translated by Yijing	taisho/t1625_00.txt	Taishō	śastra	710	śastra
-taisho/t1626.csv	taisho/t1626.html	Dasheng Fajie Wu Chabie Lun 《大乘法界無差別論》	Composed by Sthiramati, translated by Devaprajñā and others	taisho/t1626_00.txt	Taishō	śastra	691	śastra
+taisho/t1572.csv	taisho/t1572.html	Akṣaraśatakavṛtti (Bai Zi Lun) 《百字論》	Composed by Āryadeva, translated by Bodhiruci	taisho/t1572_00.txt	Taishō	śastra	508-535	madhyamaka
+taisho/t1573.csv	taisho/t1573.html	Ekaślokaśāstra (Yi Shu Lu Jia Lun) 《壹輸盧迦論》	Composed by Nāgārjuna, translated by 瞿曇般若留支	taisho/t1573_00.txt	Taishō	śastra	538-543	madhyamaka
+taisho/t1574.csv	taisho/t1574.html	Bhavasaṅkrantiśāstra 《大乘破有論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1574_00.txt	Taishō	śastra	1005	madhyamaka
+taisho/t1575.csv	taisho/t1575.html	Yuktiṣaṣṭikākārikā (Sixty Verses of Reasoning) 《六十頌如理論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1575_00.txt	Taishō	śastra	1007	madhyamaka
+taisho/t1576.csv	taisho/t1576.html	Mahāyānavimśaka (Dasheng Ershi Song Lun) 《大乘二十頌論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1576_00.txt	Taishō	śastra	1008	madhyamaka
+taisho/t1577.csv	taisho/t1577.html	Mahāpuruṣaśāstra (Da Zhangfu Lun) 《大丈夫論》	Composed by Āryadeva, translated by Dao Tai	taisho/t1577_00.txt	Taishō	śastra	397-439	madhyamaka
+taisho/t1578.csv	taisho/t1578.html	Karatalaratna (Dasheng Zhang Zhen Lun) 《大乘掌珍論》	Composed by Bhāviveka, translated by Xuanzang	taisho/t1578_00.txt	Taishō	śastra	649	madhyamaka
+taisho/t1579.csv	taisho/t1579.html	Yogācāryabhūmiśāstra (Yujia Shi Di Lun) 《瑜伽師地論》	Spoken by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1579_00.txt	Taishō	śastra	646-648	yogācāra
+taisho/t1580.csv	taisho/t1580.html	Yogācāryabhūmiśāstrakārikā (Yujia Shi Di Lun Shi) 《瑜伽師地論釋》	Composed by Jinaputra, translated by Xuanzang	taisho/t1580_00.txt	Taishō	śastra	650	yogācāra
+taisho/t1581.csv	taisho/t1581.html	Bodhisattvabhūmi (Pusa Xing Chi Jing) 《菩薩地持經》	Translated by Dharmakṣema	taisho/t1581_00.txt	Taishō	śastra	414-426	yogācāra
+taisho/t1582.csv	taisho/t1582.html	Bodhisattvabhūmi (Pusa Shan Jie Jing) 《菩薩善戒經》	Translated by Guṇaśāla	taisho/t1582_00.txt	Taishō	śastra	431	yogācāra
+taisho/t1583.csv	taisho/t1583.html	Bodhisattvacāryanirdeśa (Pusa Shan Jie Jing) 《菩薩善戒經》	Translated by Guṇaśāla	taisho/t1583_00.txt	Taishō	śastra	431	yogācāra
+taisho/t1584.csv	taisho/t1584.html	Jueding Cang Lun 《決定藏論》	Translated by paramārtha	taisho/t1584_00.txt	Taishō	śastra	548-557	yogācāra
+taisho/t1585.csv	taisho/t1585.html	Vijñaptimātratāsiddhiśāstra (Cheng Weishi Lun) 《成唯識論》	Composed by Dharmapāla, translated by Xuanzang	taisho/t1585_00.txt	Taishō	śastra	659	yogācāra
+taisho/t1586.csv	taisho/t1586.html	Triṃśikākārikā (Weishi San Shi Lun Song) 《唯識三十論頌》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1586_00.txt	Taishō	śastra	648	yogācāra
+taisho/t1587.csv	taisho/t1587.html	Triṃśikākārikā (Zhuan Shi Lun) 《轉識論》	Translated by paramārtha	taisho/t1587_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1588.csv	taisho/t1588.html	Viṁśatikāvṛtti (Weishi Lun) 《唯識論》	Composed by Vasubandhu, translated by Gautama Prajñāruci	taisho/t1588_00.txt	Taishō	śastra	538-543	yogācāra
+taisho/t1589.csv	taisho/t1589.html	Viṁśatikāvṛtti (Dasheng Weishi Lun) 《大乘唯識論》	Composed by Vasubandhu, translated by Paramārtha	taisho/t1589_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1590.csv	taisho/t1590.html	Viṃśatikāvṛtti (Weishi Ershi Lun) 《唯識二十論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1590_00.txt	Taishō	śastra	661	yogācāra
+taisho/t1591.csv	taisho/t1591.html	Cheng Weishi Bao Sheng Lun 《成唯識寶生論》	Composed by Dharmapāla, translated by Yijing	taisho/t1591_00.txt	Taishō	śastra	710	yogācāra
+taisho/t1592.csv	taisho/t1592.html	Mahāyānasaṅgraha (She Dacheng Lun) 《攝大乘論》	Composed by Asaṅga, translated by Buddhaśānta	taisho/t1592_00.txt	Taishō	śastra	531	yogācāra
+taisho/t1593.csv	taisho/t1593.html	Mahāyānasaṅgraha (She Dacheng Lun) 《攝大乘論》	Composed by Asaṅga, translated by paramārtha	taisho/t1593_00.txt	Taishō	śastra	563	yogācāra
+taisho/t1594.csv	taisho/t1594.html	Mahāyānasaṅgraha (She Dacheng Lun Ben) 《攝大乘論本》	Composed by Asaṅga, translated by Xuanzang	taisho/t1594_00.txt	Taishō	śastra	649	yogācāra
+taisho/t1595.csv	taisho/t1595.html	Mahāyānasaṅgrāhabhāṣya (She Dacheng Lun Shi) 《攝大乘論釋》	Composed by Vasubandhu, translated by paramārtha	taisho/t1595_00.txt	Taishō	śastra	563	yogācāra
+taisho/t1596.csv	taisho/t1596.html	Mahāyānasaṅgrahabhāṣya (She Dacheng Lun Shi Lun) 《攝大乘論釋論》	Composed by Vasubandhu, translated by Dharmagupta and Xing Ju	taisho/t1596_00.txt	Taishō	śastra	605-616	yogācāra
+taisho/t1597.csv	taisho/t1597.html	Mahāyānasaṅgrahabhāṣya (She Dacheng Lun Shi) 《攝大乘論釋》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1597_00.txt	Taishō	śastra	647-649	yogācāra
+taisho/t1598.csv	taisho/t1598.html	Mahāyānasaṅgrahopanibandhana (She Dacheng Lun Shi) 《攝大乘論釋》	Composed by Asvabhāva, translated by Xuanzang	taisho/t1598_00.txt	Taishō	śastra	647-649	yogācāra
+taisho/t1599.csv	taisho/t1599.html	Madhyāntavibhaṅgabhāṣya (Zhong Bian Fenbie Lun) 《中邊分別論》	Composed by Vasubandhu, translated by paramārtha	taisho/t1599_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1600.csv	taisho/t1600.html	Madhyāntavibhaṅgabhāṣya (Bian Zhong Bian Lun) 《辯中邊論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1600_00.txt	Taishō	śastra	661	yogācāra
+taisho/t1601.csv	taisho/t1601.html	Madhyāntavibhāṅgakārikā (Bian Zhong Bian Lun Song) 《辯中邊論頌》	Spoken by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1601_00.txt	Taishō	śastra	661	yogācāra
+taisho/t1602.csv	taisho/t1602.html	Xian Yang Shengjiao Lun 《顯揚聖教論》	Composed by Asaṅga, translated by Xuanzang	taisho/t1602_00.txt	Taishō	śastra	645-646	yogācāra
+taisho/t1603.csv	taisho/t1603.html	Xian Yang Shengjiao Lun Song 《顯揚聖教論頌》	Composed by Asaṅga, translated by Xuanzang	taisho/t1603_00.txt	Taishō	śastra	645	yogācāra
+taisho/t1604.csv	taisho/t1604.html	Mahāyānasūtralāṃkāraśāstra (Dacheng Zhuangyan Jinglun) 《大乘莊嚴經論》	Composed by Asaṅga, translated by Prabhākaramitra	taisho/t1604_00.txt	Taishō	śastra	630	yogācāra
+taisho/t1605.csv	taisho/t1605.html	Abhidharmasamuccaya (Dasheng Apidamo Ji Lun) 《大乘阿毘達磨集論》	Composed by Asaṅga, translated by Xuanzang	taisho/t1605_00.txt	Taishō	śastra	652-661	yogācāra
+taisho/t1606.csv	taisho/t1606.html	Abhidharmasamuccayavyākhyā (Dasheng Apidamo Za Ji Lun) 《大乘阿毘達磨雜集論》	Compiled by An Hui, translated by Xuanzang	taisho/t1606_00.txt	Taishō	śastra	646	yogācāra
+taisho/t1607.csv	taisho/t1607.html	Liu Men Jiaoshou Xi Ding Lun 《六門教授習定論》	Composed by Asaṅga, explained by Vasubandhu, translated by Yijing	taisho/t1607_00.txt	Taishō	śastra	703	yogācāra
+taisho/t1608.csv	taisho/t1608.html	Karmasiddhiprakaraṇa (Ye Chengjiu Lun) 《業成就論》	Composed by Vasubandhu, translated by Vimokṣaprajñā	taisho/t1608_00.txt	Taishō	śastra	541	yogācāra
+taisho/t1609.csv	taisho/t1609.html	Karmasiddhiprakaraṇa (Dacheng Cheng Ye Lun) 《大乘成業論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1609_00.txt	Taishō	śastra	648-651	yogācāra
+taisho/t1610.csv	taisho/t1610.html	Fo Xing Lun 《佛性論》	Composed by Vasubandhu, translated by Paramārtha	taisho/t1610_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1611.csv	taisho/t1611.html	Mahāyānottaratantraśāstra (Jiujing Yi Cheng Bao Xing Lun) 《究竟一乘寶性論》	Translated by Ratnamati	taisho/t1611_00.txt	Taishō	śastra	508	yogācāra
+taisho/t1612.csv	taisho/t1612.html	Pañcaskandhaprakaraṇa (Dasheng Wu Yun Lun) 《大乘五蘊論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1612_00.txt	Taishō	śastra	647	yogācāra
+taisho/t1613.csv	taisho/t1613.html	Pañcaskandhaprakaraṇavaibhāṣya (Dasheng Guang Wu Yun Lun) 《大乘廣五蘊論》	Composed by An Hui, translated by Divākara	taisho/t1613_00.txt	Taishō	śastra	685	yogācāra
+taisho/t1614.csv	taisho/t1614.html	Mahāyānaśatadharmaprakāśamukhaśāstra (Dasheng Bai Fa Ming Men Lun) 《大乘百法明門論》	Composed by Vasubandhu, translated by Xuanzang	taisho/t1614_00.txt	Taishō	śastra	648	yogācāra
+taisho/t1615.csv	taisho/t1615.html	Wangfa Zheng Lilun 《王法正理論》	Composed by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1615_00.txt	Taishō	śastra	647-649	yogācāra
+taisho/t1616.csv	taisho/t1616.html	Aṣṭadaśaśūnyatāśāstra (Shiba Kong Lun) 《十八空論》	Composed by Nāgārjuna, translated by paramārtha	taisho/t1616_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1617.csv	taisho/t1617.html	San Wuxing Lun 《三無性論》	Translated by paramārtha	taisho/t1617_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1618.csv	taisho/t1618.html	Xianshi Lun 《顯識論》	Translated by paramārtha	taisho/t1618_00.txt	Taishō	śastra	557-569	yogācāra
+taisho/t1619.csv	taisho/t1619.html	Ālambanaparīkṣā (Wuxiang Si Chen Lun) 《無相思塵論》	Composed by Dignāga, translated by Paramārtha	taisho/t1619_00.txt	Taishō	śastra	558-569	yogācāra
+taisho/t1620.csv	taisho/t1620.html	Hastavālaprakaraṇa (Jie Juan Lun) 《解捲論》	Composed by Dignāga, translated by Paramārtha	taisho/t1620_00.txt	Taishō	śastra	558-569	yogācāra
+taisho/t1621.csv	taisho/t1621.html	Hastavālaprakaraṇa (Zhang Zhong Lun) 《掌中論》	Composed by Dignāga, translated by Yijing	taisho/t1621_00.txt	Taishō	śastra	702-703	yogācāra
+taisho/t1622.csv	taisho/t1622.html	Qu Yin Jiashe Lun 《取因假設論》	Composed by Dignāga, translated by Yijing	taisho/t1622_00.txt	Taishō	śastra	703	yogācāra
+taisho/t1623.csv	taisho/t1623.html	Guan Zong Xiang Lun Song 《觀總相論頌》	Composed by Dignāga, translated by Yijing	taisho/t1623_00.txt	Taishō	śastra	711	yogācāra
+taisho/t1624.csv	taisho/t1624.html	Ālambanaparīkṣā (Guan Suo Yuan Yuan Lun) 《觀所緣緣論》	Composed by Dignāga, translated by Xuanzang	taisho/t1624_00.txt	Taishō	śastra	657	yogācāra
+taisho/t1625.csv	taisho/t1625.html	Ālaṁbanaparīkṣā (Guan Suo Yuan Lun Shi) 《觀所緣論釋》	Composed by Dharmapāla, translated by Yijing	taisho/t1625_00.txt	Taishō	śastra	710	yogācāra
+taisho/t1626.csv	taisho/t1626.html	Dasheng Fajie Wu Chabie Lun 《大乘法界無差別論》	Composed by Sthiramati, translated by Devaprajñā and others	taisho/t1626_00.txt	Taishō	śastra	691	yogācāra
 taisho/t1627.csv	taisho/t1627.html	Dasheng Fajie Wu Chabie Lun 《大乘法界無差別論》	Composed by Sthiramati, translated by Devaprajñā	taisho/t1627_00.txt	Taishō	śastra	691	śastra
+taisho/t1628.csv	taisho/t1628.html	Nyāyamukha (Yinming Zheng Li Men Lun Ben) 《因明正理門論本》	Composed by Dignāga, translated by Xuanzang	taisho/t1628_00.txt	Taishō	śastra	650	śastra
+taisho/t1629.csv	taisho/t1629.html	Nyāyamukha (Yinming Zheng Li Men Lun) 《因明正理門論》	Composed by Dignāga, translated by Yijing	taisho/t1629_00.txt	Taishō	śastra	711	śastra
+taisho/t1630.csv	taisho/t1630.html	Nyāyapraveśa (Yinming Ru Zheng Lilun) 《因明入正理論》	Composed by 南羯羅主菩薩, translated by Xuanzang	taisho/t1630_00.txt	Taishō	śastra	647	śastra
+taisho/t1631.csv	taisho/t1631.html	Vigrahavyāvartanī (Hui Zhenglun) 《迴諍論》	Composed by Nāgārjuna, translated by Vimokṣaprajñā and Gautama Prajñāruci	taisho/t1631_00.txt	Taishō	śastra	541	śastra
+taisho/t1632.csv	taisho/t1632.html	Upāyahṛdaya (Fangbian Xin Lun) 《方便心論》	Translated by Kinkara	taisho/t1632_00.txt	Taishō	śastra	472	śastra
+taisho/t1633.csv	taisho/t1633.html	Tarkaśāstra (Rushi Lun) 《如實論》	Translated by Paramārtha	taisho/t1633_00.txt	Taishō	śastra	550	śastra
+taisho/t1634.csv	taisho/t1634.html	Mahāyānavatāra (Ru Dacheng Lun) 《入大乘論》	Composed by 堅意菩薩, translated by Dao Tai And Others	taisho/t1634_00.txt	Taishō	śastra	397-439	śastra
+taisho/t1635.csv	taisho/t1635.html	Sūtrasamuccaya (Dasheng Bao Yaoyi Lun) 《大乘寶要義論》	Translated by Dharmarakṣa And Others	taisho/t1635_00.txt	Taishō	śastra	1018-1058	śastra
+taisho/t1636.csv	taisho/t1636.html	Śikṣāsamuccaya (Dasheng Ji Pusa Xue Lun) 《大乘集菩薩學論》	Composed by Dharmakīrti, translated by Dharmarakṣa And Others	taisho/t1636_00.txt	Taishō	śastra	1058-1072	śastra
+taisho/t1637.csv	taisho/t1637.html	Mahāyānalakṣaṇasamuccaya (Ji Dasheng Xiang Lun) 《集大乘相論》	Composed by Juejixiangzhi, translated by Dānapāla	taisho/t1637_00.txt	Taishō	śastra	1006	śastra
+taisho/t1638.csv	taisho/t1638.html	Ji Zhu Fabao Zuishang Yi Lun 《集諸法寶最上義論》	Composed by Shan Ji, translated by Dānapāla	taisho/t1638_00.txt	Taishō	śastra	1005	śastra
+taisho/t1639.csv	taisho/t1639.html	Tipo Pusa Po Lengjia Jing Zhongwai Dao Xiaosheng Si Zong Lun 《提婆菩薩破楞伽經中外道小乘四宗論》	Composed by Deva, translated by Bodhiruci	taisho/t1639_00.txt	Taishō	śastra	508-535	śastra
+taisho/t1640.csv	taisho/t1640.html	Tipo Pusa  Shi Lengjia Jing Zhongwai Dao Xiaosheng Niepan Lun 《提婆菩薩釋楞伽經中外道小乘涅槃論》	Composed by Deva, translated by Bodhiruci	taisho/t1640_00.txt	Taishō	śastra	508-535	śastra
+taisho/t1641.csv	taisho/t1641.html	Lakṣaṇānusāraśāstra (Sui Xiang Lun) 《隨相論》	Composed by Guṇamati, translated by Paramārtha	taisho/t1641_00.txt	Taishō	śastra	557-569	śastra
+taisho/t1642.csv	taisho/t1642.html	Vajrasūcīśāstra (Jingang Zhen Lun) 《金剛針論》	Composed by Dharmakīrti, translated by Fa Tian	taisho/t1642_00.txt	Taishō	śastra	973-988	śastra
+taisho/t1643.csv	taisho/t1643.html	Nairātmyaparipṛccha (Ni Gan Zi Wen Wuwo Yi Jing) 《尼乾子問無我義經》	Compiled by Aśvaghoṣa, translated by Ri Cheng	taisho/t1643_00.txt	Taishō	śastra	1058-1072	śastra
+taisho/t1644.csv	taisho/t1644.html	Fo Shuo Li Shi Apitan Lun 《佛說立世阿毘曇論》	Translated by Paramārtha	taisho/t1644_00.txt	Taishō	śastra	558-559	śastra
+taisho/t1645.csv	taisho/t1645.html	Zhang Suo Zhi Lun 《彰所知論》	Composed by Fa He Si Ba, translated by Shaluoba	taisho/t1645_00.txt	Taishō	śastra	1279-1368	śastra
+taisho/t1646.csv	taisho/t1646.html	Satyasiddhiśāstra (Cheng Shi Lun / Treatise of Establishing Reality) 《成實論》	Composed by Harivarman, translated by Kumārajīva	taisho/t1646_00.txt	Taishō	śastra	411-412	śastra
+taisho/t1647.csv	taisho/t1647.html	Catuḥsatyaśāstra (Si Di Lun) 《四諦論》	Composed by Vasuvarman, translated by Paramārtha	taisho/t1647_00.txt	Taishō	śastra	557-569	śastra
+taisho/t1648.csv	taisho/t1648.html	Jietuo Dao Lun 《解脫道論》	Composed by Upatisya, translated by Saṅghabhara	taisho/t1648_00.txt	Taishō	śastra	515	śastra
+taisho/t1649.csv	taisho/t1649.html	San Mi Di Bu Lun 《三彌底部論》	Translated by Unknown	taisho/t1649_00.txt	Taishō	śastra	350-431	śastra
+taisho/t1650.csv	taisho/t1650.html	Pizhi Fo Yinyuan Lun 《辟支佛因緣論》	Translated by Unknown	taisho/t1650_00.txt	Taishō	śastra	350-431	śastra
+taisho/t1651.csv	taisho/t1651.html	Pratītyasamutpādaśāstra (Shi Er Yinyuan Lun) 《十二因緣論》	Composed by Śuddhamati, translated by Bodhiruci	taisho/t1651_00.txt	Taishō	śastra	508-535	śastra
+taisho/t1652.csv	taisho/t1652.html	Yuan Sheng Lun 《緣生論》	Composed by Ullanga, translated by Dharmagupta	taisho/t1652_00.txt	Taishō	śastra	614	śastra
+taisho/t1653.csv	taisho/t1653.html	Dasheng Yuan Sheng Lun 《大乘緣生論》	Composed by Ullanga, translated by Amoghavajra	taisho/t1653_00.txt	Taishō	śastra	720-774	śastra
+taisho/t1654.csv	taisho/t1654.html	Yinyuan Xin Lun Song Yinyuan Xin Lun Shi 《因緣心論頌因緣心論釋》	Compiled by Meng Long	taisho/t1654_00.txt	Taishō	śastra		śastra
+taisho/t1655.csv	taisho/t1655.html	Zhi Guan Men Lun Song 《止觀門論頌》	Composed by Vasubandhu, translated by Yijing	taisho/t1655_00.txt	Taishō	śastra	711	śastra
+taisho/t1656.csv	taisho/t1656.html	Rājaparikathāratnamālī (Bao Xing Wang Zheng Lun) 《寶行王正論》	Translated by Paramārtha	taisho/t1656_00.txt	Taishō	śastra	557-569	śastra
+taisho/t1657.csv	taisho/t1657.html	Shou Zhang Lun 《手杖論》	Composed by Śakyakīrti, translated by Yijing	taisho/t1657_00.txt	Taishō	śastra	711	śastra
+taisho/t1658.csv	taisho/t1658.html	Zhu Jiao Jueding Mingyi Lun 《諸教決定名義論》	Composed by Maitreya, translated by Dānapāla	taisho/t1658_00.txt	Taishō	śastra	1002	śastra
+taisho/t1659.csv	taisho/t1659.html	Fa Pu Ti Xin Jinglun 《發菩提心經論》	Composed by Vasubandhu, translated by Kumārajīva	taisho/t1659_00.txt	Taishō	śastra	402-409	śastra
+taisho/t1660.csv	taisho/t1660.html	Puti Ziliang Lun 《菩提資糧論》	Composed by Nāgārjuna, explained by Zi Zai, translated by Dharmagupta	taisho/t1660_00.txt	Taishō	śastra	609	śastra
+taisho/t1661.csv	taisho/t1661.html	Putixin Li Xiang Lun 《菩提心離相論》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1661_00.txt	Taishō	śastra	1005	śastra
+taisho/t1662.csv	taisho/t1662.html	Bodhisattvacaryāvatāra (Puti Xing Jing) 《菩提行經》	Recited by 龍樹菩薩集, translated by Tian Xi Zai	taisho/t1662_00.txt	Taishō	śastra	985	śastra
+taisho/t1663.csv	taisho/t1663.html	Bodhicittabhāvanā (Putixin Guan Shi) 《菩提心觀釋》	Translated by Fa Tian	taisho/t1663_00.txt	Taishō	śastra	994	śastra
+taisho/t1664.csv	taisho/t1664.html	Pūrvabhāvanākrama (Guang Shi Putixin Lun) 《廣釋菩提心論》	Composed by Kamalaśīla, translated by Dānapāla	taisho/t1664_00.txt	Taishō	śastra	1009	śastra
+taisho/t1665.csv	taisho/t1665.html	Jingang Ding Yujia Zhong Fa Anouduoluo Sanmiao Sanputi Xin Lun 《金剛頂瑜伽中發阿耨多羅三藐三菩提心論》	Translated by Amoghavajra	taisho/t1665_00.txt	Taishō	śastra	746-774	śastra
+taisho/t1666.csv	taisho/t1666.html	Mahāyānaśraddhotpādaśāstra (Treatise on the Awakening of Faith in the Mahāyāna) 《大乘起信論》	Composed by Aśvaghoṣa, translated by Paramārtha	taisho/t1666_00.txt	Taishō	śastra	553	śastra
+taisho/t1667.csv	taisho/t1667.html	Mahāyānaśraddhotpādaśāstra (Treatise on the Awakening of Faith in the Mahāyāna) 《大乘起信論》	Composed by Aśvaghoṣa, translated by Śiksānanda	taisho/t1667_00.txt	Taishō	śastra	695-700	śastra
+taisho/t1668.csv	taisho/t1668.html	Shi Moheyan Lun 《釋摩訶衍論》	Composed by Nāgārjuna, translated by Vṛddhimata	taisho/t1668_00.txt	Taishō	śastra	384-417	śastra
+taisho/t1669.csv	taisho/t1669.html	Da Zong Di Xuan Wenben Lun 《大宗地玄文本論》	Composed by Aśvaghoṣa, translated by Paramārtha	taisho/t1669_00.txt	Taishō	śastra	557-569	śastra
+taisho/t1670A.csv	taisho/t1670A.html	Miliṇḍapañha (Questions of Miliṇḍa) 《那先比丘經》	Translated by Unknown	taisho/t1670A_00.txt	Taishō	śastra	317-420	śastra
+taisho/t1670B.csv	taisho/t1670B.html	Miliṇḍapañha (Questions of Miliṇḍa) 《那先比丘經》	Translated by Unknown	taisho/t1670B_00.txt	Taishō	śastra	317-420	śastra
+taisho/t1671.csv	taisho/t1671.html	Fu Gai Zheng Xing Suo Ji Jing 《福蓋正行所集經》	Compiled by Nāgārjuna, translated by Ri Cheng and others	taisho/t1671_00.txt	Taishō	śastra	1058-1072	śastra
+taisho/t1672.csv	taisho/t1672.html	Suhṛllekha (Long Shu Pusa Wei Chan Tuo Jia Wang Shuofa Yao Ji) 《龍樹菩薩為禪陀迦王說法要偈》	Translated by Guṇaśāla	taisho/t1672_00.txt	Taishō	śastra	431	śastra
+taisho/t1673.csv	taisho/t1673.html	Suhṛllekha (Quan Fa Zhu Wang Yao Ji) 《勸發諸王要偈》	Compiled by Nāgārjuna, translated by Saṅghavarman	taisho/t1673_00.txt	Taishō	śastra	434-442	śastra
+taisho/t1674.csv	taisho/t1674.html	Suhṛllekha (Long Shu Pusa Quan Jie Wang Song) 《龍樹菩薩勸誡王頌》	Translated by Yijing	taisho/t1674_00.txt	Taishō	śastra	700-711	śastra
+taisho/t1675.csv	taisho/t1675.html	Dharmadhātustotra (Zan Fajie Song) 《讚法界頌》	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1675_00.txt	Taishō	śastra	984	śastra
+taisho/t1676.csv	taisho/t1676.html	Guangda Fa Yuan Song 《廣大發願頌》	Composed by Nāgārjuna, translated by Dānapāla and others	taisho/t1676_00.txt	Taishō	śastra	1010	śastra
+taisho/t1677.csv	taisho/t1677.html	Kāyatrayastotra (San Shen Fan Zan) 《三身梵讚》	Translated by Faxian	taisho/t1677_00.txt	Taishō	śastra	989-999	śastra
+taisho/t1678.csv	taisho/t1678.html	Kāyatrayastotra (Fo San Shen Zan) 《佛三身讚》	Compiled by Xi Tu Xian Sheng, translated by Faxian	taisho/t1678_00.txt	Taishō	śastra	995-997	śastra
