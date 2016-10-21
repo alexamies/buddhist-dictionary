@@ -146,7 +146,8 @@ def GetCompiledHowEn(compiled_how_cn):
               u"偈本": "Verses",
               u"本": "Composed",
               u"糅": "Compiled",
-              u"製": "Composed"
+              u"製": "Composed",
+              u"述": "Narrated"
               }
   if compiled_how_cn in how_dict:
     compiled_how_en = how_dict[compiled_how_cn]
@@ -166,7 +167,9 @@ def GetHowEn(how_cn):
               u"注": "Recorded",
               u"校": "Taught",
               u"造": "Compiled",
-              u"錄": "Recorded"
+              u"錄": "Recorded",
+              u"治定": "Arranged",
+              u"註": "Notes"
               }
   if how_cn in how_dict:
     how_en = how_dict[how_cn]

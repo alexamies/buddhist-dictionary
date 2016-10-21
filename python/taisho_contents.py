@@ -19,12 +19,14 @@ def convert_to_csv():
   print "writing output to %s" % CONTENTS_CSV
 
   pattern = ur"【(.*)】"
-  pattern1 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
-  pattern2 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
-  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製])\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
-  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製])\s([\S]+)[釋|論]\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
+  pattern1 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註])】"
+  pattern2 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註])】"
+  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述])\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註])】"
+  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述])\s([\S]+)[釋|論|說]\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註])】"
   pattern5 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【】"
   pattern6 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【(偈本)([\S]+)\s釋論([\S]+)\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
+  pattern7 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)\s([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述])\s([\S]+)\s([\S]+)(治定)】"
+  pattern8 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)\s([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述])\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄])】"
   expr = re.compile(pattern, re.UNICODE)
   expr1 = re.compile(pattern1, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
@@ -32,6 +34,8 @@ def convert_to_csv():
   expr4 = re.compile(pattern4, re.UNICODE)
   expr5 = re.compile(pattern5, re.UNICODE)
   expr6 = re.compile(pattern6, re.UNICODE) # 1566
+  expr7 = re.compile(pattern7, re.UNICODE) # 1701
+  expr8 = re.compile(pattern8, re.UNICODE) # 1705
   with codecs.open(CONTENTS_TXT, 'r', "utf-8") as fin:
     with codecs.open(CONTENTS_CSV, 'w', "utf-8") as fout:
       for line in fin:
@@ -58,6 +62,8 @@ def convert_to_csv():
           m4 = expr4.search(line)
           m5 = expr5.search(line)
           m6 = expr6.search(line)
+          m7 = expr7.search(line)
+          m8 = expr8.search(line)
           if m1:
             #print u"%s: m1" % line
             v = m1.group(1)
@@ -118,6 +124,30 @@ def convert_to_csv():
             dynasty = m6.group(8)
             translator = m6.group(9)
             how = m6.group(10)
+          elif m7:
+            # Explained by 
+            #print u"%s: m7" % line
+            v = m7.group(1)
+            tid = m7.group(2)
+            title = m7.group(3)
+            nscrolls = m7.group(4)
+            compiledBy = m7.group(6)
+            compiledHow = m7.group(7)
+            dynasty = m7.group(8)
+            translator = m7.group(9)
+            how = m7.group(10)
+          elif m8:
+            # Explained by 
+            print u"%s: m8" % line
+            v = m8.group(1)
+            tid = m8.group(2)
+            title = m8.group(3)
+            nscrolls = m8.group(4)
+            dynasty = m8.group(5)
+            compiledBy = m8.group(6)
+            compiledHow = m8.group(7)
+            translator = m8.group(8)
+            how = m8.group(9)
           lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how, compiledHow, explainedBy,
                       attribution_cn)
