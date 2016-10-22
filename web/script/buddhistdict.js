@@ -3,7 +3,7 @@ var textApp = angular.module('textApp', ['ngSanitize']);
 
 console.log("buddhistdict.js enter")
 
-textApp.controller('textCtrl', function($scope, $http, $sce) {
+textApp.controller('textCtrl', function($scope, $http, $sce, $location) {
 
   var l = $location.search()
   if (l.text) {
