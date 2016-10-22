@@ -38,9 +38,8 @@ textApp.controller('textCtrl', function($scope, $http, $location) {
 
   // If the URL contains text then submit the form right away
   var l = $location.search()
-  console.log("buddhistdict.js l = " + l)
   if (l.text) {
-    console.log("buddhistdict.js text = " + l.text)
+    //console.log("buddhistdict.js text len = " + l.text.length)
     $scope.formData.text = l.text
     $scope.submit()
   }
