@@ -1691,7 +1691,7 @@ taisho/t1622.csv	taisho/t1622.html	Qu Yin Jiashe Lun 《取因假設論》	Compo
 taisho/t1623.csv	taisho/t1623.html	Guan Zong Xiang Lun Song 《觀總相論頌》	Composed by Dignāga, translated by Yijing	taisho/t1623_00.txt	Taishō	śastra	711	yogācāra
 taisho/t1624.csv	taisho/t1624.html	Ālambanaparīkṣā (Guan Suo Yuan Yuan Lun) 《觀所緣緣論》	Composed by Dignāga, translated by Xuanzang	taisho/t1624_00.txt	Taishō	śastra	657	yogācāra
 taisho/t1625.csv	taisho/t1625.html	Ālaṁbanaparīkṣā (Guan Suo Yuan Lun Shi) 《觀所緣論釋》	Composed by Dharmapāla, translated by Yijing	taisho/t1625_00.txt	Taishō	śastra	710	yogācāra
-taisho/t1626.csv	taisho/t1626.html	Dasheng Fajie Wu Chabie Lun 《大乘法界無差別論》	Composed by Sthiramati, translated by Devaprajñā and others	taisho/t1626_00.txt	Taishō	śastra	691	yogācāra
+taisho/t1626.csv	taisho/t1626.html	Mahāyāna Dharmadhātu Advaya Treatise (Dasheng Fajie Wu Chabie Lun) 《大乘法界無差別論》	Composed by Sthiramati, translated by Devaprajñā and others	taisho/t1626_00.txt	Taishō	śastra	691	yogācāra
 taisho/t1627.csv	taisho/t1627.html	Dasheng Fajie Wu Chabie Lun 《大乘法界無差別論》	Composed by Sthiramati, translated by Devaprajñā	taisho/t1627_00.txt	Taishō	śastra	691	śastra
 taisho/t1628.csv	taisho/t1628.html	Nyāyamukha (Yinming Zheng Li Men Lun Ben) 《因明正理門論本》	Composed by Dignāga, translated by Xuanzang	taisho/t1628_00.txt	Taishō	śastra	650	śastra
 taisho/t1629.csv	taisho/t1629.html	Nyāyamukha (Yinming Zheng Li Men Lun) 《因明正理門論》	Composed by Dignāga, translated by Yijing	taisho/t1629_00.txt	Taishō	śastra	711	śastra
@@ -1895,3 +1895,42 @@ taisho/t1825.csv	taisho/t1825.html	Commentary on the Dvādaśanikāyaśāstra �
 taisho/t1826.csv	taisho/t1826.html	Overiew of the Dvādaśanikāyaśāstra 《十二門論宗致義記》	Narrated by Fa Zang	taisho/t1826_00.txt	Taishō	śastra	618-907	commentary
 taisho/t1827.csv	taisho/t1827.html	Commentary on the Hundred Treatise 《百論疏》	Composed by Ji Zang	taisho/t1827_00.txt	Taishō	śastra	589-618	commentary
 taisho/t1828.csv	taisho/t1828.html	Commentary on the Yogācārabhūmiśāstra 《瑜伽論記》	Composed by 遁倫集	taisho/t1828_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1829.csv	taisho/t1829.html	Outline of the Yogācārabhūmiśāstra 《瑜伽師地論略纂》	Composed by Kui Ji	taisho/t1829_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1830.csv	taisho/t1830.html	Notes on the Viṁśatikāvṛtti 《成唯識論述記》	Composed by Kui Ji	taisho/t1830_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1831.csv	taisho/t1831.html	Outline of the Viṁśatikāvṛtti 《成唯識論掌中樞要》	Composed by Kui Ji	taisho/t1831_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1832.csv	taisho/t1832.html	Cheng Weishi Lun  Liaoyi Deng 《成唯識論了義燈》	Narrated by Hui Zhao	taisho/t1832_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1833.csv	taisho/t1833.html	Cheng Weishi Lun  Yan Mi 《成唯識論演祕》	Composed by Zhi Zhou	taisho/t1833_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1834.csv	taisho/t1834.html	Weishi Ershi Lun  Shu Ji 《唯識二十論述記》	Composed by Kui Ji	taisho/t1834_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1835.csv	taisho/t1835.html	Notes on Madhyāntavibhaṅgabhāṣya 《辯中邊論述記》	Composed by Kui Ji	taisho/t1835_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1836.csv	taisho/t1836.html	Explanation of Mahāyānaśatadharmaprakāśamukhaśāstra 《大乘百法明門論解》	Explained by Kui Ji, ammended by 普泰增	taisho/t1836_00.txt	Taishō	śastra	1368-1644	commentary
+taisho/t1837.csv	taisho/t1837.html	Commentary on Mahāyānaśatadharmaprakāśamukhaśāstra 《大乘百法明門論疏》	Composed by Da Sheng Guang	taisho/t1837_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1838.csv	taisho/t1838.html	Commentary on Mahāyāna Dharmadhātu Advaya Treatise 《大乘法界無差別論疏》	Composed by Fa Zang	taisho/t1838_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1839.csv	taisho/t1839.html	Notes on Nyāyamukha 《理門論述記》	Composed by Shen Tai	taisho/t1839_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1840.csv	taisho/t1840.html	Commentary on Nyāyamukha 《因明入正理論疏》	Composed by Kui Ji	taisho/t1840_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1841.csv	taisho/t1841.html	A Summary of the Meaning of Nyāyamukha 《因明義斷》	Composed by Hui Zhao	taisho/t1841_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1842.csv	taisho/t1842.html	A Summary of Nyāyamukha 《因明入正理論義纂要》	Compiled by Hui Zhao	taisho/t1842_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1843.csv	taisho/t1843.html	A Commentary on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義疏》	Composed by Venerable Hui Yuan	taisho/t1843_00.txt	Taishō	śastra	589-618	commentary
+taisho/t1844.csv	taisho/t1844.html	A Commentary on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏》	Composed by Wŏnhyo	taisho/t1844_00.txt	Taishō	śastra	57-935	commentary
+taisho/t1845.csv	taisho/t1845.html	More Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論別記》	Composed by Wŏnhyo	taisho/t1845_00.txt	Taishō	śastra	57-935	commentary
+taisho/t1846.csv	taisho/t1846.html	Notes on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義記》	Composed by Fa Zang	taisho/t1846_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1847.csv	taisho/t1847.html	Recorded Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義記別記》	Composed by Fa Zang	taisho/t1847_00.txt	Taishō	śastra	618-907	commentary
+taisho/t1848.csv	taisho/t1848.html	Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏筆削記》	Recorded by Zi Xuan	taisho/t1848_00.txt	Taishō	śastra	960-1279	commentary
+taisho/t1849.csv	taisho/t1849.html	Outline of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論內義略探記》	Composed by Tai Xian	taisho/t1849_00.txt	Taishō	śastra	57-935	commentary
+taisho/t1850.csv	taisho/t1850.html	Outline Summary of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論裂網疏》	Narrated by Zhi Xu	taisho/t1850_00.txt	Taishō	śastra	1368-1644	commentary
+taisho/t1851.csv	taisho/t1851.html	Dacheng Yi Zhang 《大乘義章》	Composed by Hui Yuan	taisho/t1851_00.txt	Taishō	śastra	589-618	treatise
+taisho/t1852.csv	taisho/t1852.html	Sanlun Xuan Yi 《三論玄義》	Composed by Ji Zang	taisho/t1852_00.txt	Taishō	śastra	589-618	treatise
+taisho/t1853.csv	taisho/t1853.html	Treatise on the Mystery of the Mahayana 《大乘玄論》	Composed by Ji Zang	taisho/t1853_00.txt	Taishō	śastra	589-618	treatise
+taisho/t1854.csv	taisho/t1854.html	Er Di Yi 《二諦義》	Composed by Ji Zang	taisho/t1854_00.txt	Taishō	śastra	589-618	treatise
+taisho/t1855.csv	taisho/t1855.html	Sanlun You Yiyi 《三論遊意義》	Composed by Qi Fa	taisho/t1855_00.txt	Taishō	śastra	589-618	treatise
+taisho/t1856.csv	taisho/t1856.html	Venerable Kumārajīva's Great Meaning 《鳩摩羅什法師大義》	Asked by Hui Yuan, answered by Kumārajīva	taisho/t1856_00.txt	Taishō	śastra	317-420	treatise
+taisho/t1857.csv	taisho/t1857.html	Bao Cang Treatise 《寶藏論》	著 by Seng Zhao	taisho/t1857_00.txt	Taishō	śastra		treatise
+taisho/t1858.csv	taisho/t1858.html	Zhao Lun 《肇論》	Composed by Seng Zhao	taisho/t1858_00.txt	Taishō	śastra		treatise
+taisho/t1859.csv	taisho/t1859.html	Commentary on the Zhao Lun 《肇論疏》	Composed by Yuan Kang	taisho/t1859_00.txt	Taishō	śastra	618-907	treatise
+taisho/t1860.csv	taisho/t1860.html	New Commentary on the Zhao Lun 《肇論新疏》	Narrated by Wen Cai	taisho/t1860_00.txt	Taishō	śastra	1279-1368	treatise
+taisho/t1861.csv	taisho/t1861.html	Dasheng Fa Yuan Yi Lin Zhang 《大乘法苑義林章》	Composed by Kui Ji	taisho/t1861_00.txt	Taishō	śastra	618-907	treatise
+taisho/t1862.csv	taisho/t1862.html	Collection of Advise to Initiate the Bodhi Mind 《勸發菩提心集》	Composed by Hui Zhao	taisho/t1862_00.txt	Taishō	śastra	618-907	treatise
+taisho/t1863.csv	taisho/t1863.html	Neng Xian Zhong Bian Hui Ri Lun 《能顯中邊慧日論》	Composed by Hui Zhao	taisho/t1863_00.txt	Taishō	śastra	618-907	treatise
+taisho/t1864.csv	taisho/t1864.html	Dasheng Ru Dao Cidi 《大乘入道次第》	Composed by Zhi Zhou	taisho/t1864_00.txt	Taishō	śastra	618-907	treatise
+taisho/t1865.csv	taisho/t1865.html	Ba Shi Guiju Bu Zhu 《八識規矩補註》	Notes by Pu Tai	taisho/t1865_00.txt	Taishō	śastra	1368-1644	treatise
+taisho/t1866.csv	taisho/t1866.html	Huayan Yi Cheng Jiaoyi Fen Qi Zhang 《華嚴一乘教義分齊章》	Narrated by Fa Zang	taisho/t1866_00.txt	Taishō	śastra	618-907	treatise
+taisho/t1867.csv	taisho/t1867.html	Huayan Wu Jiao Zhi Guan 《華嚴五教止觀》	Spoken by Du Shun	taisho/t1867_00.txt	Taishō	śastra	589-618	treatise

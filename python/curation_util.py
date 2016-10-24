@@ -151,7 +151,8 @@ def GetCompiledHowEn(compiled_how_cn):
               u"解": "Explained",
               u"略": "Summarized",
               u"要": "Requested",
-              u"補": "Ammended"
+              u"補": "Ammended",
+              u"修": "Ammended"
               }
   if compiled_how_cn in how_dict:
     compiled_how_en = how_dict[compiled_how_cn]
@@ -176,7 +177,9 @@ def GetHowEn(how_cn):
               u"註": "Notes",
               u"解": "Explained",
               u"略": "Summarized",
-              u"補": "Ammended"
+              u"補": "Ammended",
+              u"修": "Ammended",
+              u"作": "Composed"
               }
   if how_cn in how_dict:
     how_en = how_dict[how_cn]

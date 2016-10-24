@@ -19,14 +19,15 @@ def convert_to_csv():
   print "writing output to %s" % CONTENTS_CSV
 
   pattern = ur"【(.*)】"
-  pattern1 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補])】"
-  pattern2 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補])】"
-  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要])\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補])】"
-  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要])\s([\S]+)[釋|論|說]\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補])】"
+  pattern1 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)\s([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補|修|作|著])】"
+  pattern2 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補|修|作|著])】"
+  pattern3 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要|解])\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補|修|作|著])】"
+  pattern4 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要|解])\s([\S]+)[釋|論|說]\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|治定|註|解|略|補|修|作|著])】"
   pattern5 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【】"
-  pattern6 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【(偈本)([\S]+)\s釋論([\S]+)\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|解|略|註|補])】"
-  pattern7 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)\s([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要])\s([\S]+)\s([\S]+)([治定|略|註|補])】"
-  pattern8 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)\s([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要])\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|解|略|註|補])】"
+  pattern6 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【(偈本)([\S]+)\s釋論([\S]+)\s([\S]+)\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|解|略|註|補|修|作|著])】"
+  pattern7 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)\s([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要|解])[\s|、]([\S]+)[\s|、]([\S]+)([治定|略|註|補|修|作|著])】"
+  pattern8 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]+)\s([\S]+)([集|撰|造|頌|釋|作|說|論|本|糅|製|述|要|解])\s([\S]+)([譯|集|述|撰|說|記|請來|注|校|造|錄|解|略|註|補|修|作|著])】"
+  pattern9 = ur"T(\d\d)n[0]{0,3}([1-9]{1,3}[\S]*)\s([\S]*) \( (\d{1,3}) 卷\)　【([\S]*)\s([\S]*)([答])】"
   expr = re.compile(pattern, re.UNICODE)
   expr1 = re.compile(pattern1, re.UNICODE)
   expr2 = re.compile(pattern2, re.UNICODE)
@@ -36,6 +37,7 @@ def convert_to_csv():
   expr6 = re.compile(pattern6, re.UNICODE) # 1566
   expr7 = re.compile(pattern7, re.UNICODE) # 1701
   expr8 = re.compile(pattern8, re.UNICODE) # 1705
+  expr9 = re.compile(pattern9, re.UNICODE) # 1856
   with codecs.open(CONTENTS_TXT, 'r', "utf-8") as fin:
     with codecs.open(CONTENTS_CSV, 'w', "utf-8") as fout:
       for line in fin:
@@ -64,6 +66,7 @@ def convert_to_csv():
           m6 = expr6.search(line)
           m7 = expr7.search(line)
           m8 = expr8.search(line)
+          m9 = expr9.search(line)
           if m1:
             #print u"%s: m1" % line
             v = m1.group(1)
@@ -148,6 +151,15 @@ def convert_to_csv():
             compiledHow = m8.group(7)
             translator = m8.group(8)
             how = m8.group(9)
+          if m9:
+            #print u"%s: m9" % line
+            v = m9.group(1)
+            tid = m9.group(2)
+            title = m9.group(3)
+            nscrolls = m9.group(4)
+            dynasty = m9.group(5)
+            translator = m9.group(6)
+            how = m9.group(7)
           lineout = "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" % (v, tid, title, nscrolls, 
                       dynasty, translator, compiledBy, how, compiledHow, explainedBy,
                       attribution_cn)
