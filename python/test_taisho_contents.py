@@ -82,6 +82,18 @@ def test_convert_to_csv():
   entry = tcontents[u"1857"]
   print u"Title for Volume %d No. %s is %s, in the %s, how_cn %s, attribution_cn %s" % (entry["volume"],
         entry["tid"], entry["title"], entry["dynasty"], entry["how_cn"], entry["attribution_cn"])
+  entry = tcontents[u"1868"]
+  print u"Title for Volume %d No. %s is %s, in the %s, how_cn %s, attribution_cn %s" % (entry["volume"],
+        entry["tid"], entry["title"], entry["dynasty"], entry["how_cn"], entry["attribution_cn"])
+  entry = tcontents[u"1880"]
+  print u"Title for Volume %d No. %s is %s, in the %s, how_cn %s, attribution_cn %s" % (entry["volume"],
+        entry["tid"], entry["title"], entry["dynasty"], entry["how_cn"], entry["attribution_cn"])
+  entry = tcontents[u"1895"]
+  print u"Title for Volume %d No. %s is %s, in the %s, how_cn %s, attribution_cn %s" % (entry["volume"],
+        entry["tid"], entry["title"], entry["dynasty"], entry["how_cn"], entry["attribution_cn"])
+  entry = tcontents[u"1956"]
+  print u"Title for Volume %d No. %s is %s, in the %s, how_cn %s, attribution_cn %s" % (entry["volume"],
+        entry["tid"], entry["title"], entry["dynasty"], entry["how_cn"], entry["attribution_cn"])
 
 
 def main():

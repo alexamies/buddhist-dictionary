@@ -1759,178 +1759,234 @@ taisho/t1689.csv	taisho/t1689.html	Qing Bintoulu Fa 《請賓頭盧法》	Transl
 taisho/t1690.csv	taisho/t1690.html	Bintoulu Tu Luo She Wei Youtuoyan Wang Shuofa Jing 《賓頭盧突羅闍為優陀延王說法經》	Translated by Guṇabhadra	taisho/t1690_00.txt	Taishō	śastra	435-443	śastra
 taisho/t1691.csv	taisho/t1691.html	Jiaye Xianren Shuo Yi Nuren Jing 《迦葉仙人說醫女人經》	Translated by Faxian	taisho/t1691_00.txt	Taishō	śastra	989-999	śastra
 taisho/t1692.csv	taisho/t1692.html	Sheng Jun Hua Shi Bai Yu Jia Ta Jing 《勝軍化世百喻伽他經》	Translated by Tian Xi Zai	taisho/t1692_00.txt	Taishō	śastra	985	śastra
-taisho/t1693.csv	taisho/t1693.html	Ren Ben Yu Sheng Jing Zhu 《人本欲生經註》	Composed by Dao An	taisho/t1693_00.txt	Taishō	śastra	317-420	commentary
-taisho/t1694.csv	taisho/t1694.html	Yin Chi Ru Jing  Zhu 《陰持入經註》	Composed by 陳慧	taisho/t1694_00.txt	Taishō	śastra		commentary
-taisho/t1695.csv	taisho/t1695.html	Da Boreluomiduo Jing Bore Li Qu Fen Shu Zan 《大般若波羅蜜多經般若理趣分述讚》	Composed by Kui Ji	taisho/t1695_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1696.csv	taisho/t1696.html	Da Pin Jing You Yi 《大品經遊意》	Composed by Ji Zang	taisho/t1696_00.txt	Taishō	śastra		commentary
+taisho/t1693.csv	taisho/t1693.html	Ren Ben Yu Sheng Jing Zhu 《人本欲生經註》	Composed by Dao An	taisho/t1693_00.txt	Taishō	treatise	317-420	commentary
+taisho/t1694.csv	taisho/t1694.html	Yin Chi Ru Jing  Zhu 《陰持入經註》	Composed by 陳慧	taisho/t1694_00.txt	Taishō	treatise		commentary
+taisho/t1695.csv	taisho/t1695.html	Da Boreluomiduo Jing Bore Li Qu Fen Shu Zan 《大般若波羅蜜多經般若理趣分述讚》	Composed by Kui Ji	taisho/t1695_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1696.csv	taisho/t1696.html	Da Pin Jing You Yi 《大品經遊意》	Composed by Ji Zang	taisho/t1696_00.txt	Taishō	treatise		commentary
 taisho/t1697.csv	taisho/t1697.html	Da Hui Du Jing Zong Yao 《大慧度經宗要》	Composed by Wŏnhyo	taisho/t1697_00.txt	Taishō	commentary		śastra
-taisho/t1698.csv	taisho/t1698.html	Jingang Bore Jing Shu 《金剛般若經疏》	Spoken by Zhi Yi	taisho/t1698_00.txt	Taishō	śastra		commentary
-taisho/t1699.csv	taisho/t1699.html	Jingang Bore Shu 《金剛般若疏》	Composed by Ji Zang	taisho/t1699_00.txt	Taishō	śastra		commentary
-taisho/t1700.csv	taisho/t1700.html	Jingang Bore Jing Zan Shu 《金剛般若經贊述》	Composed by Kui Ji	taisho/t1700_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1701.csv	taisho/t1701.html	Jingang Bore Jing Shu Lun Zuan Yao 《金剛般若經疏論纂要》	Narrated by Zong Mi, arranged by Zi Xuan	taisho/t1701_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1702.csv	taisho/t1702.html	Jingang Jing Zuan Yao Kan Ding Ji 《金剛經纂要刊定記》	Recorded by Zi Xuan	taisho/t1702_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1703.csv	taisho/t1703.html	Jingang Boreboluomi Jing Zhujie 《金剛般若波羅蜜經註解》	Notes by Ru Qi Tong	taisho/t1703_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1704.csv	taisho/t1704.html	Jingang Banruoboluomi Jing Lueshu 《金剛般若波羅蜜經略疏》	Narrated by Zhi Yan	taisho/t1704_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1705.csv	taisho/t1705.html	Ren Wang Hu Guo Bore Jing Shu 《仁王護國般若經疏》	Spoken by Zhi Yi, recorded by Guanding	taisho/t1705_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1706.csv	taisho/t1706.html	Ren Wang Hu Guo Boreboluomi Jing Shu Shen Bao Ji 《仁王護國般若波羅蜜經疏神寶記》	Narrated by Shan Yue	taisho/t1706_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1707.csv	taisho/t1707.html	Ren Wang Bore Jing Shu 《仁王般若經疏》	Composed by Ji Zang	taisho/t1707_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1708.csv	taisho/t1708.html	Ren Wang Jing Shu 《仁王經疏》	Composed by Yuan Ce	taisho/t1708_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1709.csv	taisho/t1709.html	Ren Wang Hu Guo Boreluomi Jing Shu 《仁王護國般若波羅蜜多經疏》	Narrated by Liang Ben	taisho/t1709_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1710.csv	taisho/t1710.html	Boreluomiduo Xinjing You Zan 《般若波羅蜜多心經幽贊》	Composed by Kui Ji	taisho/t1710_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1711.csv	taisho/t1711.html	Boreluomiduo Xinjing Zan 《般若波羅蜜多心經贊》	Composed by Yuan Ce	taisho/t1711_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1712.csv	taisho/t1712.html	Boreluomiduo Xinjing Lue Shu 《般若波羅蜜多心經略疏》	Narrated by Fa Zang	taisho/t1712_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1713.csv	taisho/t1713.html	Bore Xinjing Lue Shu Lian Zhu Ji 《般若心經略疏連珠記》	Narrated by 師會	taisho/t1713_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1714.csv	taisho/t1714.html	Boreluomiduo Xinjing Zhujie 《般若波羅蜜多心經註解》	Notes by Ru Qi Tong	taisho/t1714_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1715.csv	taisho/t1715.html	Fa Hua Jing Yi Ji 《法華經義記》	Composed by Fa Yun	taisho/t1715_00.txt	Taishō	śastra	502-557	commentary
-taisho/t1716.csv	taisho/t1716.html	Miaofa Lianhua Jing Xuan Yi 《妙法蓮華經玄義》	Spoken by Zhi Yi	taisho/t1716_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1717.csv	taisho/t1717.html	Fahua Xuan Yi Shi Qian 《法華玄義釋籤》	Narrated by Zhanran	taisho/t1717_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1718.csv	taisho/t1718.html	Miaofa Lianhua Jing Wen Ju 《妙法蓮華經文句》	Spoken by Zhi Yi	taisho/t1718_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1719.csv	taisho/t1719.html	Fahua Wen Ju Ji 《法華文句記》	Narrated by Zhanran	taisho/t1719_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1720.csv	taisho/t1720.html	Fa Hua Xuan Lun 《法華玄論》	Composed by Ji Zang	taisho/t1720_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1721.csv	taisho/t1721.html	Fa Hua Yi Shu 《法華義疏》	Composed by Ji Zang	taisho/t1721_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1722.csv	taisho/t1722.html	Fa Hua You Yi 《法華遊意》	Compiled by Ji Zang	taisho/t1722_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1723.csv	taisho/t1723.html	Miaofa Lianhua Jing Xuan Zan 《妙法蓮華經玄贊》	Composed by Kui Ji	taisho/t1723_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1724.csv	taisho/t1724.html	Fa Hua Xuan Zan Yi Jue 《法華玄贊義決》	Composed by Hui Zhao	taisho/t1724_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1725.csv	taisho/t1725.html	Fa Hua Zong Yao 《法華宗要》	Composed by Yuan Xiao	taisho/t1725_00.txt	Taishō	śastra		commentary
-taisho/t1726.csv	taisho/t1726.html	Guanyin Xuan Yi 《觀音玄義》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1726_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1727.csv	taisho/t1727.html	Guanyin Xuan Yi Ji 《觀音玄義記》	Narrated by Zhi Li	taisho/t1727_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1728.csv	taisho/t1728.html	Guanyin Yi Shu 《觀音義疏》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1728_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1729.csv	taisho/t1729.html	Guanyin Yi Shu Ji 《觀音義疏記》	Narrated by Zhi Li	taisho/t1729_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1730.csv	taisho/t1730.html	Jingang Sanmei Jing Lun 《金剛三昧經論》	Narrated by Yuan Xiao	taisho/t1730_00.txt	Taishō	śastra		commentary
-taisho/t1731.csv	taisho/t1731.html	Huayan You Yi 《華嚴遊意》	Composed by Ji Zang	taisho/t1731_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1732.csv	taisho/t1732.html	Dafang Guang Fo Huayan Jing Sou Xuan Fen Qi Tong Zhi Fang Gui 《大方廣佛華嚴經搜玄分齊通智方軌》	Narrated by Zhi Yan	taisho/t1732_00.txt	Taishō	śastra	602-668	commentary
-taisho/t1733.csv	taisho/t1733.html	Huayan Jing Tan Xuan Ji 《華嚴經探玄記》	Narrated by Fa Zang	taisho/t1733_00.txt	Taishō	śastra	687-695	commentary
-taisho/t1734.csv	taisho/t1734.html	Hua Yan Jingwen Yi Gang Mu 《花嚴經文義綱目》	Composed by Fa Zang	taisho/t1734_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1735.csv	taisho/t1735.html	Dafang Guang Fo Huayan Jing Shu 《大方廣佛華嚴經疏》	Composed by Cheng Guan	taisho/t1735_00.txt	Taishō	śastra	784-787	commentary
-taisho/t1736.csv	taisho/t1736.html	Dafang Guang Fo Huayan Jing Sui Shu Yan Yi Chao 《大方廣佛華嚴經隨疏演義鈔》	Narrated by Cheng Guan	taisho/t1736_00.txt	Taishō	śastra	737-838	commentary
-taisho/t1737.csv	taisho/t1737.html	Da Huayan Jing Lue Ce 《大華嚴經略策》	Narrated by Cheng Guan	taisho/t1737_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1738.csv	taisho/t1738.html	Xin Yi Huayan Jing Qi Chu Jiu Hui Song Shi Zhang 《新譯華嚴經七處九會頌釋章》	Narrated by Cheng Guan	taisho/t1738_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1739.csv	taisho/t1739.html	Xin Huayan Jing Lun 《新華嚴經論》	Composed by Li Tongxuan	taisho/t1739_00.txt	Taishō	śastra	-730	commentary
-taisho/t1740.csv	taisho/t1740.html	Dafang Guang Fo Huayan Jing Zhong Juan Juan Dayi Lue Xu 《大方廣佛華嚴經中卷卷大意略敘》	Compiled by Li Tongxuan	taisho/t1740_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1741.csv	taisho/t1741.html	Lue Shi Xin Huayan Jing Xiuxing Cidi Jue Yi Lun 《略釋新華嚴經修行次第決疑論》	Composed by Li Tongxuan	taisho/t1741_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1742.csv	taisho/t1742.html	Dafang Guang Fo Huayan Jing Yuan Xing Guan Men Gu Mu 《大方廣佛華嚴經願行觀門骨目》	Composed by Zhanran	taisho/t1742_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1743.csv	taisho/t1743.html	Huangdi Jiang Dan Ri Yu Lin De Dian Jiang Dafang Guang Fo Huayan Jing Xuan Yi Yi Bu 《皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部》	Composed by Jing Ju	taisho/t1743_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1744.csv	taisho/t1744.html	Shengman Bao Ku 《勝鬘寶窟》	Composed by Ji Zang	taisho/t1744_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1745.csv	taisho/t1745.html	Wu Liang Shou Jing Yi Shu 《無量壽經義疏》	Composed by Venerable Hui Yuan	taisho/t1745_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1746.csv	taisho/t1746.html	Wu Liang Shou Jing Yi Shu 《無量壽經義疏》	Composed by Ji Zang	taisho/t1746_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1747.csv	taisho/t1747.html	Liang Juan Wu Liang Shou Jing Zong Yao 《兩卷無量壽經宗要》	Composed by Wŏnhyo	taisho/t1747_00.txt	Taishō	śastra		commentary
-taisho/t1748.csv	taisho/t1748.html	Wu Liang Shou Jing Lian Yi Shu Wen Zan 《無量壽經連義述文贊》	Composed by Jing Xing	taisho/t1748_00.txt	Taishō	śastra		commentary
-taisho/t1749.csv	taisho/t1749.html	Guan Wu Liang Shou Jing Yi Shu 《觀無量壽經義疏》	Composed by Venerable Hui Yuan	taisho/t1749_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1750.csv	taisho/t1750.html	Guan Wu Liang Shou Fo Jing Shu 《觀無量壽佛經疏》	Spoken by Zhi Yi	taisho/t1750_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1751.csv	taisho/t1751.html	Guan Wu Liang Shou Fo Jing Shu Miao Zong Chao 《觀無量壽佛經疏妙宗鈔》	Narrated by Zhi Li	taisho/t1751_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1752.csv	taisho/t1752.html	Guan Wu Liang Shou Jing Yi Shu 《觀無量壽經義疏》	Composed by Ji Zang	taisho/t1752_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1753.csv	taisho/t1753.html	Guan Wu Liang Shou Fo Jing Shu 《觀無量壽佛經疏》	Recorded by Shan Dao	taisho/t1753_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1754.csv	taisho/t1754.html	Guan Wu Liang Shou Fo Jing Yi Shu 《觀無量壽佛經義疏》	Narrated by Yuan Zhao	taisho/t1754_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1755.csv	taisho/t1755.html	Amituo Jing Yi Ji 《阿彌陀經義記》	Spoken by Zhi Yi	taisho/t1755_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1756.csv	taisho/t1756.html	Amituo Jing Yi Shu 《阿彌陀經義述》	Narrated by Hui Jing	taisho/t1756_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1757.csv	taisho/t1757.html	Amituo Jing Shu 《阿彌陀經疏》	Composed by Kui Ji	taisho/t1757_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1758.csv	taisho/t1758.html	Amituo Jing Tong Zan Shu 《阿彌陀經通贊疏》	Composed by Kui Ji	taisho/t1758_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1759.csv	taisho/t1759.html	Amituo Jing Shu 《阿彌陀經疏》	Narrated by Wŏnhyo	taisho/t1759_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1760.csv	taisho/t1760.html	Amituo Jing Shu 《阿彌陀經疏》	Narrated by Zhi Yuan	taisho/t1760_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1761.csv	taisho/t1761.html	Amituo Jing Yi Shu 《阿彌陀經義疏》	Narrated by Yuan Zhao	taisho/t1761_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1762.csv	taisho/t1762.html	Amituo Jing Yao Jie 《阿彌陀經要解》	Explained by Zhi Xu	taisho/t1762_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1763.csv	taisho/t1763.html	Da Ban Niepan Jing Ji Jie 《大般涅槃經集解》	Compiled by Bao Liang and others	taisho/t1763_00.txt	Taishō	śastra	502-557	commentary
-taisho/t1764.csv	taisho/t1764.html	Da Ban Niepan Jing Yi Ji 《大般涅槃經義記》	Narrated by Venerable Hui Yuan	taisho/t1764_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1765.csv	taisho/t1765.html	Da Ban Niepan Jing Xuan Yi 《大般涅槃經玄義》	Composed by Guan Ding	taisho/t1765_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1766.csv	taisho/t1766.html	Niepan Xuan Yi Fa Yuan Ji Yao 《涅槃玄義發源機要》	Narrated by Zhi Yuan	taisho/t1766_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1767.csv	taisho/t1767.html	Da Ban Niepan Jing Shu 《大般涅槃經疏》	Composed by Guan Ding	taisho/t1767_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1768.csv	taisho/t1768.html	Da Ban Niepan Jing You Yi 《涅槃經遊意》	Composed by Ji Zang	taisho/t1768_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1769.csv	taisho/t1769.html	Niepan Zong Yao 《涅槃宗要》	Composed by Wŏnhyo	taisho/t1769_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1770.csv	taisho/t1770.html	Benyuan Yaoshi Jing Guji 《本願藥師經古迹》	Composed by Tai Xian	taisho/t1770_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1771.csv	taisho/t1771.html	Mile Jing You Yi 《彌勒經遊意》	Composed by Ji Zang	taisho/t1771_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1772.csv	taisho/t1772.html	Guan Mile Shang Sheng Doushuaitian Jing Zan 《觀彌勒上生兜率天經贊》	Composed by Kui Ji	taisho/t1772_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1773.csv	taisho/t1773.html	Mile Shang Sheng Jing Zong Yao 《彌勒上生經宗要》	Composed by Wŏnhyo	taisho/t1773_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1774.csv	taisho/t1774.html	San Mile Jing Shu 《三彌勒經疏》	Composed by 憬興	taisho/t1774_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1775.csv	taisho/t1775.html	Zhu Weimojie Jing 《注維摩詰經》	Composed by Seng Zhao	taisho/t1775_00.txt	Taishō	śastra		commentary
-taisho/t1776.csv	taisho/t1776.html	Weimo Yi Ji 《維摩義記》	Composed by Venerable Hui Yuan	taisho/t1776_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1777.csv	taisho/t1777.html	Wei Mo Jing Xuan Shu 《維摩經玄疏》	Composed by Zhi Yi	taisho/t1777_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1778.csv	taisho/t1778.html	Wei Mo Jing Lue Shu 《維摩經略疏》	Spoken by Zhi Yi, summarized by Zhanran	taisho/t1778_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1779.csv	taisho/t1779.html	Wei Mo Jing Lue Shu Chui Yu Ji 《維摩經略疏垂裕記》	Narrated by Zhi Yuan	taisho/t1779_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1780.csv	taisho/t1780.html	Jing Ming Xuan Lun 《淨名玄論》	Compiled by Ji Zang	taisho/t1780_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1781.csv	taisho/t1781.html	Wei Mo Jing Yi Shu 《維摩經義疏》	Composed by Ji Zang	taisho/t1781_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1782.csv	taisho/t1782.html	Shuo Wugou Cheng Jing  Shu 《說無垢稱經疏》	Composed by Kui Ji	taisho/t1782_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1783.csv	taisho/t1783.html	Jin Guangming Jing Xuan Yi 《金光明經玄義》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1783_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1784.csv	taisho/t1784.html	Jin Guangming Jing Xuan Yi Shi Yi Ji 《金光明經玄義拾遺記》	Narrated by Zhi Li	taisho/t1784_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1785.csv	taisho/t1785.html	Jin Guangming Jing  Wen Ju 《金光明經文句》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1785_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1786.csv	taisho/t1786.html	Jin Guangming Jing  Wen Ju Ji 《金光明經文句記》	Narrated by Zhi Li	taisho/t1786_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1787.csv	taisho/t1787.html	Jin Guangming Jing  Shu 《金光明經疏》	Composed by Ji Zang	taisho/t1787_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1788.csv	taisho/t1788.html	Jin Guang Ming Zui Sheng Wang Jing Shu 《金光明最勝王經疏》	Composed by Hui Zhao	taisho/t1788_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1789.csv	taisho/t1789.html	Notes on the Laṅkāvatāra Sūtra 《楞伽阿跋多羅寶經註解》	Notes by Ru Qi Tong	taisho/t1789_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1790.csv	taisho/t1790.html	Laṅkāvatāra Sūtra Main Ideas 《入楞伽心玄義》	Composed by Fa Zang	taisho/t1790_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1791.csv	taisho/t1791.html	Zhu Dasheng Ru Lengjia Jing 《注大乘入楞伽經》	Narrated by Bao Chen	taisho/t1791_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1792.csv	taisho/t1792.html	Commentary on the Ullambana Sūtra 《佛說盂蘭盆經疏》	Narrated by Zong Mi	taisho/t1792_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1793.csv	taisho/t1793.html	Wen Shi Jing Yi Ji 《溫室經義記》	Composed by Venerable Hui Yuan	taisho/t1793_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1794.csv	taisho/t1794.html	Notes on the Sūtra of Forty-Two Sections 《註四十二章經》	Notes by Emperor Zhenzong of Song	taisho/t1794_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1795.csv	taisho/t1795.html	Brief Commentary on the Perfect Enlightenment Sūtra 《大方廣圓覺修多羅了義經略疏》	Narrated by Zong Mi	taisho/t1795_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1796.csv	taisho/t1796.html	Da Piluzhena Cheng Fo Jing Shu 《大毘盧遮那成佛經疏》	Recorded by Yi Xing	taisho/t1796_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1797.csv	taisho/t1797.html	Da Piluzhena Jing Gongyang Cidi Fa Shu 《大毘盧遮那經供養次第法疏》	Composed by Bu Ke Siyi	taisho/t1797_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1798.csv	taisho/t1798.html	Jingang Ding Jing Da Yujia Mimi Xin Di Famen Yi Jue 《金剛頂經大瑜伽祕密心地法門義訣》	Composed by Amoghavajra	taisho/t1798_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1799.csv	taisho/t1799.html	Notes on the Meaning of the Śūraṅgama Sūtra 《首楞嚴義疏注經》	Compiled by Zi Xuan	taisho/t1799_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1800.csv	taisho/t1800.html	Qing Guanyin Jing Shu 《請觀音經疏》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1800_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1801.csv	taisho/t1801.html	Qing Guanyin Jing Shu Chan Yi Chao 《請觀音經疏闡義鈔》	Narrated by Zhi Yuan	taisho/t1801_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1802.csv	taisho/t1802.html	Shiyi Mian Shen Zhou Xinjing  Yi Shu 《十一面神呪心經義疏》	Composed by Hui Zhao	taisho/t1802_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1803.csv	taisho/t1803.html	Notes on the Teaching and Meaning of the Usnisa Vijaya Dharani 《佛頂尊勝陀羅尼經教跡義記》	Narrated by Fa Chong	taisho/t1803_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1804.csv	taisho/t1804.html	Si Fen Lu Shan Fan Bu Que Xingshi Chao 《四分律刪繁補闕行事鈔》	Composed by Dao Xuan	taisho/t1804_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1805.csv	taisho/t1805.html	Si Fen Lu Xingshi Chao Zi Chi Ji 《四分律行事鈔資持記》	Composed by Yuan Zhao	taisho/t1805_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1806.csv	taisho/t1806.html	Si Fen Lu Biqiu Han Zhu Jie Ben 《四分律比丘含注戒本》	Narrated by Dao Xuan	taisho/t1806_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1807.csv	taisho/t1807.html	Si Fen Biqiu Jie Ben Shu 《四分比丘戒本疏》	Composed by Ding Bin	taisho/t1807_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1808.csv	taisho/t1808.html	Si Fen Lu Shan Bu Suiji Jiemo 《四分律刪補隨機羯磨》	Compiled by Dao Xuan	taisho/t1808_00.txt	Taishō	śastra	649	commentary
-taisho/t1809.csv	taisho/t1809.html	Dharmaguptabhikṣukarman (Seng Jiemo) 《僧羯磨》	Compiled by Huai Su	taisho/t1809_00.txt	Taishō	śastra	676-682	commentary
-taisho/t1810.csv	taisho/t1810.html	Ni Jiemo 《尼羯磨》	Compiled by Huai Su	taisho/t1810_00.txt	Taishō	śastra	676-682	commentary
-taisho/t1811.csv	taisho/t1811.html	Commentary on the Meaning of the Bodhisattva Precepts 《菩薩戒義疏》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1811_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1812.csv	taisho/t1812.html	Commentary on the Tiantai Bodhisattva Precepts 《天台菩薩戒疏》	Ammended by Ming Kuang	taisho/t1812_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1813.csv	taisho/t1813.html	Commentary on the Fanwang Jing Bodhisattva Precepts 《梵網經菩薩戒本疏》	Composed by Fa Zang	taisho/t1813_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1814.csv	taisho/t1814.html	Commentary on the Bodhisattva Precepts 《菩薩戒本疏》	Narrated by Yi Ji	taisho/t1814_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1815.csv	taisho/t1815.html	Fan Wang Jing Guji Ji 《梵網經古迹記》	Compiled by Tai Xian	taisho/t1815_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1816.csv	taisho/t1816.html	Jingang Bore Lun Huishi 《金剛般若論會釋》	Composed by Kui Ji	taisho/t1816_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1817.csv	taisho/t1817.html	Lue Ming Bore Mo Hou Yi Song Zan Shu 《略明般若末後一頌讚述》	Narrated by Yijing	taisho/t1817_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1818.csv	taisho/t1818.html	A Brief Commentary on the Lotus Sūtra 《法華論疏》	Composed by Ji Zang	taisho/t1818_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1819.csv	taisho/t1819.html	Wu Liang Shou Jing You Po Ti She Yuan Sheng Ji Zhu 《無量壽經優婆提舍願生偈註》	Explained by Tan Luan	taisho/t1819_00.txt	Taishō	śastra	386-557	commentary
-taisho/t1820.csv	taisho/t1820.html	A Brief Commentary and Summary of the Sūtra On The Buddha's Bequeathed Teaching 《佛遺教經論疏節要》	Requested by Jing Yuan (part), notes by Zhu Hong	taisho/t1820_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1821.csv	taisho/t1821.html	Notes on the Abhidharmakośabhāṣya 《俱舍論記》	Narrated by Pu Guang	taisho/t1821_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1822.csv	taisho/t1822.html	Commentary on the Abhidharmakośabhāṣya 《俱舍論疏》	Composed by Fa Bao	taisho/t1822_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1823.csv	taisho/t1823.html	Discourse on the Abhidharmakośabhāṣya 《俱舍論頌疏論本》	Narrated by Yuan Hui	taisho/t1823_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1824.csv	taisho/t1824.html	Commentary on the Mūlamadhyamakakārikā 《中觀論疏》	Composed by Ji Zang	taisho/t1824_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1825.csv	taisho/t1825.html	Commentary on the Dvādaśanikāyaśāstra 《十二門論疏》	Composed by Ji Zang	taisho/t1825_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1826.csv	taisho/t1826.html	Overiew of the Dvādaśanikāyaśāstra 《十二門論宗致義記》	Narrated by Fa Zang	taisho/t1826_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1827.csv	taisho/t1827.html	Commentary on the Hundred Treatise 《百論疏》	Composed by Ji Zang	taisho/t1827_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1828.csv	taisho/t1828.html	Commentary on the Yogācārabhūmiśāstra 《瑜伽論記》	Composed by 遁倫集	taisho/t1828_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1829.csv	taisho/t1829.html	Outline of the Yogācārabhūmiśāstra 《瑜伽師地論略纂》	Composed by Kui Ji	taisho/t1829_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1830.csv	taisho/t1830.html	Notes on the Viṁśatikāvṛtti 《成唯識論述記》	Composed by Kui Ji	taisho/t1830_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1831.csv	taisho/t1831.html	Outline of the Viṁśatikāvṛtti 《成唯識論掌中樞要》	Composed by Kui Ji	taisho/t1831_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1832.csv	taisho/t1832.html	Cheng Weishi Lun  Liaoyi Deng 《成唯識論了義燈》	Narrated by Hui Zhao	taisho/t1832_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1833.csv	taisho/t1833.html	Cheng Weishi Lun  Yan Mi 《成唯識論演祕》	Composed by Zhi Zhou	taisho/t1833_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1834.csv	taisho/t1834.html	Weishi Ershi Lun  Shu Ji 《唯識二十論述記》	Composed by Kui Ji	taisho/t1834_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1835.csv	taisho/t1835.html	Notes on Madhyāntavibhaṅgabhāṣya 《辯中邊論述記》	Composed by Kui Ji	taisho/t1835_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1836.csv	taisho/t1836.html	Explanation of Mahāyānaśatadharmaprakāśamukhaśāstra 《大乘百法明門論解》	Explained by Kui Ji, ammended by 普泰增	taisho/t1836_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1837.csv	taisho/t1837.html	Commentary on Mahāyānaśatadharmaprakāśamukhaśāstra 《大乘百法明門論疏》	Composed by Da Sheng Guang	taisho/t1837_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1838.csv	taisho/t1838.html	Commentary on Mahāyāna Dharmadhātu Advaya Treatise 《大乘法界無差別論疏》	Composed by Fa Zang	taisho/t1838_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1839.csv	taisho/t1839.html	Notes on Nyāyamukha 《理門論述記》	Composed by Shen Tai	taisho/t1839_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1840.csv	taisho/t1840.html	Commentary on Nyāyamukha 《因明入正理論疏》	Composed by Kui Ji	taisho/t1840_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1841.csv	taisho/t1841.html	A Summary of the Meaning of Nyāyamukha 《因明義斷》	Composed by Hui Zhao	taisho/t1841_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1842.csv	taisho/t1842.html	A Summary of Nyāyamukha 《因明入正理論義纂要》	Compiled by Hui Zhao	taisho/t1842_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1843.csv	taisho/t1843.html	A Commentary on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義疏》	Composed by Venerable Hui Yuan	taisho/t1843_00.txt	Taishō	śastra	589-618	commentary
-taisho/t1844.csv	taisho/t1844.html	A Commentary on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏》	Composed by Wŏnhyo	taisho/t1844_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1845.csv	taisho/t1845.html	More Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論別記》	Composed by Wŏnhyo	taisho/t1845_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1846.csv	taisho/t1846.html	Notes on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義記》	Composed by Fa Zang	taisho/t1846_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1847.csv	taisho/t1847.html	Recorded Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義記別記》	Composed by Fa Zang	taisho/t1847_00.txt	Taishō	śastra	618-907	commentary
-taisho/t1848.csv	taisho/t1848.html	Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏筆削記》	Recorded by Zi Xuan	taisho/t1848_00.txt	Taishō	śastra	960-1279	commentary
-taisho/t1849.csv	taisho/t1849.html	Outline of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論內義略探記》	Composed by Tai Xian	taisho/t1849_00.txt	Taishō	śastra	57-935	commentary
-taisho/t1850.csv	taisho/t1850.html	Outline Summary of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論裂網疏》	Narrated by Zhi Xu	taisho/t1850_00.txt	Taishō	śastra	1368-1644	commentary
-taisho/t1851.csv	taisho/t1851.html	Dacheng Yi Zhang 《大乘義章》	Composed by Hui Yuan	taisho/t1851_00.txt	Taishō	śastra	589-618	treatise
-taisho/t1852.csv	taisho/t1852.html	Sanlun Xuan Yi 《三論玄義》	Composed by Ji Zang	taisho/t1852_00.txt	Taishō	śastra	589-618	treatise
-taisho/t1853.csv	taisho/t1853.html	Treatise on the Mystery of the Mahayana 《大乘玄論》	Composed by Ji Zang	taisho/t1853_00.txt	Taishō	śastra	589-618	treatise
-taisho/t1854.csv	taisho/t1854.html	Er Di Yi 《二諦義》	Composed by Ji Zang	taisho/t1854_00.txt	Taishō	śastra	589-618	treatise
-taisho/t1855.csv	taisho/t1855.html	Sanlun You Yiyi 《三論遊意義》	Composed by Qi Fa	taisho/t1855_00.txt	Taishō	śastra	589-618	treatise
-taisho/t1856.csv	taisho/t1856.html	Venerable Kumārajīva's Great Meaning 《鳩摩羅什法師大義》	Asked by Hui Yuan, answered by Kumārajīva	taisho/t1856_00.txt	Taishō	śastra	317-420	treatise
-taisho/t1857.csv	taisho/t1857.html	Bao Cang Treatise 《寶藏論》	著 by Seng Zhao	taisho/t1857_00.txt	Taishō	śastra		treatise
-taisho/t1858.csv	taisho/t1858.html	Zhao Lun 《肇論》	Composed by Seng Zhao	taisho/t1858_00.txt	Taishō	śastra		treatise
-taisho/t1859.csv	taisho/t1859.html	Commentary on the Zhao Lun 《肇論疏》	Composed by Yuan Kang	taisho/t1859_00.txt	Taishō	śastra	618-907	treatise
-taisho/t1860.csv	taisho/t1860.html	New Commentary on the Zhao Lun 《肇論新疏》	Narrated by Wen Cai	taisho/t1860_00.txt	Taishō	śastra	1279-1368	treatise
-taisho/t1861.csv	taisho/t1861.html	Dasheng Fa Yuan Yi Lin Zhang 《大乘法苑義林章》	Composed by Kui Ji	taisho/t1861_00.txt	Taishō	śastra	618-907	treatise
-taisho/t1862.csv	taisho/t1862.html	Collection of Advise to Initiate the Bodhi Mind 《勸發菩提心集》	Composed by Hui Zhao	taisho/t1862_00.txt	Taishō	śastra	618-907	treatise
-taisho/t1863.csv	taisho/t1863.html	Neng Xian Zhong Bian Hui Ri Lun 《能顯中邊慧日論》	Composed by Hui Zhao	taisho/t1863_00.txt	Taishō	śastra	618-907	treatise
-taisho/t1864.csv	taisho/t1864.html	Dasheng Ru Dao Cidi 《大乘入道次第》	Composed by Zhi Zhou	taisho/t1864_00.txt	Taishō	śastra	618-907	treatise
-taisho/t1865.csv	taisho/t1865.html	Ba Shi Guiju Bu Zhu 《八識規矩補註》	Notes by Pu Tai	taisho/t1865_00.txt	Taishō	śastra	1368-1644	treatise
-taisho/t1866.csv	taisho/t1866.html	Huayan Yi Cheng Jiaoyi Fen Qi Zhang 《華嚴一乘教義分齊章》	Narrated by Fa Zang	taisho/t1866_00.txt	Taishō	śastra	618-907	treatise
-taisho/t1867.csv	taisho/t1867.html	Huayan Wu Jiao Zhi Guan 《華嚴五教止觀》	Spoken by Du Shun	taisho/t1867_00.txt	Taishō	śastra	589-618	treatise
+taisho/t1698.csv	taisho/t1698.html	Jingang Bore Jing Shu 《金剛般若經疏》	Spoken by Zhi Yi	taisho/t1698_00.txt	Taishō	treatise		commentary
+taisho/t1699.csv	taisho/t1699.html	Jingang Bore Shu 《金剛般若疏》	Composed by Ji Zang	taisho/t1699_00.txt	Taishō	treatise		commentary
+taisho/t1700.csv	taisho/t1700.html	Jingang Bore Jing Zan Shu 《金剛般若經贊述》	Composed by Kui Ji	taisho/t1700_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1701.csv	taisho/t1701.html	Jingang Bore Jing Shu Lun Zuan Yao 《金剛般若經疏論纂要》	Narrated by Zong Mi, arranged by Zi Xuan	taisho/t1701_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1702.csv	taisho/t1702.html	Jingang Jing Zuan Yao Kan Ding Ji 《金剛經纂要刊定記》	Recorded by Zi Xuan	taisho/t1702_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1703.csv	taisho/t1703.html	Jingang Boreboluomi Jing Zhujie 《金剛般若波羅蜜經註解》	Notes by Ru Qi Tong	taisho/t1703_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1704.csv	taisho/t1704.html	Jingang Banruoboluomi Jing Lueshu 《金剛般若波羅蜜經略疏》	Narrated by Zhi Yan	taisho/t1704_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1705.csv	taisho/t1705.html	Ren Wang Hu Guo Bore Jing Shu 《仁王護國般若經疏》	Spoken by Zhi Yi, recorded by Guanding	taisho/t1705_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1706.csv	taisho/t1706.html	Ren Wang Hu Guo Boreboluomi Jing Shu Shen Bao Ji 《仁王護國般若波羅蜜經疏神寶記》	Narrated by Shan Yue	taisho/t1706_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1707.csv	taisho/t1707.html	Ren Wang Bore Jing Shu 《仁王般若經疏》	Composed by Ji Zang	taisho/t1707_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1708.csv	taisho/t1708.html	Ren Wang Jing Shu 《仁王經疏》	Composed by Yuan Ce	taisho/t1708_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1709.csv	taisho/t1709.html	Ren Wang Hu Guo Boreluomi Jing Shu 《仁王護國般若波羅蜜多經疏》	Narrated by Liang Ben	taisho/t1709_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1710.csv	taisho/t1710.html	Boreluomiduo Xinjing You Zan 《般若波羅蜜多心經幽贊》	Composed by Kui Ji	taisho/t1710_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1711.csv	taisho/t1711.html	Boreluomiduo Xinjing Zan 《般若波羅蜜多心經贊》	Composed by Yuan Ce	taisho/t1711_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1712.csv	taisho/t1712.html	Boreluomiduo Xinjing Lue Shu 《般若波羅蜜多心經略疏》	Narrated by Fa Zang	taisho/t1712_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1713.csv	taisho/t1713.html	Bore Xinjing Lue Shu Lian Zhu Ji 《般若心經略疏連珠記》	Narrated by 師會	taisho/t1713_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1714.csv	taisho/t1714.html	Boreluomiduo Xinjing Zhujie 《般若波羅蜜多心經註解》	Notes by Ru Qi Tong	taisho/t1714_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1715.csv	taisho/t1715.html	Fa Hua Jing Yi Ji 《法華經義記》	Composed by Fa Yun	taisho/t1715_00.txt	Taishō	treatise	502-557	commentary
+taisho/t1716.csv	taisho/t1716.html	Miaofa Lianhua Jing Xuan Yi 《妙法蓮華經玄義》	Spoken by Zhi Yi	taisho/t1716_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1717.csv	taisho/t1717.html	Fahua Xuan Yi Shi Qian 《法華玄義釋籤》	Narrated by Zhanran	taisho/t1717_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1718.csv	taisho/t1718.html	Miaofa Lianhua Jing Wen Ju 《妙法蓮華經文句》	Spoken by Zhi Yi	taisho/t1718_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1719.csv	taisho/t1719.html	Fahua Wen Ju Ji 《法華文句記》	Narrated by Zhanran	taisho/t1719_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1720.csv	taisho/t1720.html	Fa Hua Xuan Lun 《法華玄論》	Composed by Ji Zang	taisho/t1720_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1721.csv	taisho/t1721.html	Fa Hua Yi Shu 《法華義疏》	Composed by Ji Zang	taisho/t1721_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1722.csv	taisho/t1722.html	Fa Hua You Yi 《法華遊意》	Compiled by Ji Zang	taisho/t1722_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1723.csv	taisho/t1723.html	Miaofa Lianhua Jing Xuan Zan 《妙法蓮華經玄贊》	Composed by Kui Ji	taisho/t1723_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1724.csv	taisho/t1724.html	Fa Hua Xuan Zan Yi Jue 《法華玄贊義決》	Composed by Hui Zhao	taisho/t1724_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1725.csv	taisho/t1725.html	Fa Hua Zong Yao 《法華宗要》	Composed by Yuan Xiao	taisho/t1725_00.txt	Taishō	treatise		commentary
+taisho/t1726.csv	taisho/t1726.html	Guanyin Xuan Yi 《觀音玄義》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1726_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1727.csv	taisho/t1727.html	Guanyin Xuan Yi Ji 《觀音玄義記》	Narrated by Zhi Li	taisho/t1727_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1728.csv	taisho/t1728.html	Guanyin Yi Shu 《觀音義疏》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1728_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1729.csv	taisho/t1729.html	Guanyin Yi Shu Ji 《觀音義疏記》	Narrated by Zhi Li	taisho/t1729_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1730.csv	taisho/t1730.html	Jingang Sanmei Jing Lun 《金剛三昧經論》	Narrated by Yuan Xiao	taisho/t1730_00.txt	Taishō	treatise		commentary
+taisho/t1731.csv	taisho/t1731.html	Huayan You Yi 《華嚴遊意》	Composed by Ji Zang	taisho/t1731_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1732.csv	taisho/t1732.html	Dafang Guang Fo Huayan Jing Sou Xuan Fen Qi Tong Zhi Fang Gui 《大方廣佛華嚴經搜玄分齊通智方軌》	Narrated by Zhi Yan	taisho/t1732_00.txt	Taishō	treatise	602-668	commentary
+taisho/t1733.csv	taisho/t1733.html	Huayan Jing Tan Xuan Ji 《華嚴經探玄記》	Narrated by Fa Zang	taisho/t1733_00.txt	Taishō	treatise	687-695	commentary
+taisho/t1734.csv	taisho/t1734.html	Hua Yan Jingwen Yi Gang Mu 《花嚴經文義綱目》	Composed by Fa Zang	taisho/t1734_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1735.csv	taisho/t1735.html	Dafang Guang Fo Huayan Jing Shu 《大方廣佛華嚴經疏》	Composed by Cheng Guan	taisho/t1735_00.txt	Taishō	treatise	784-787	commentary
+taisho/t1736.csv	taisho/t1736.html	Dafang Guang Fo Huayan Jing Sui Shu Yan Yi Chao 《大方廣佛華嚴經隨疏演義鈔》	Narrated by Cheng Guan	taisho/t1736_00.txt	Taishō	treatise	737-838	commentary
+taisho/t1737.csv	taisho/t1737.html	Da Huayan Jing Lue Ce 《大華嚴經略策》	Narrated by Cheng Guan	taisho/t1737_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1738.csv	taisho/t1738.html	Xin Yi Huayan Jing Qi Chu Jiu Hui Song Shi Zhang 《新譯華嚴經七處九會頌釋章》	Narrated by Cheng Guan	taisho/t1738_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1739.csv	taisho/t1739.html	Xin Huayan Jing Lun 《新華嚴經論》	Composed by Li Tongxuan	taisho/t1739_00.txt	Taishō	treatise	-730	commentary
+taisho/t1740.csv	taisho/t1740.html	Dafang Guang Fo Huayan Jing Zhong Juan Juan Dayi Lue Xu 《大方廣佛華嚴經中卷卷大意略敘》	Compiled by Li Tongxuan	taisho/t1740_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1741.csv	taisho/t1741.html	Lue Shi Xin Huayan Jing Xiuxing Cidi Jue Yi Lun 《略釋新華嚴經修行次第決疑論》	Composed by Li Tongxuan	taisho/t1741_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1742.csv	taisho/t1742.html	Dafang Guang Fo Huayan Jing Yuan Xing Guan Men Gu Mu 《大方廣佛華嚴經願行觀門骨目》	Composed by Zhanran	taisho/t1742_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1743.csv	taisho/t1743.html	Huangdi Jiang Dan Ri Yu Lin De Dian Jiang Dafang Guang Fo Huayan Jing Xuan Yi Yi Bu 《皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部》	Composed by Jing Ju	taisho/t1743_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1744.csv	taisho/t1744.html	Shengman Bao Ku 《勝鬘寶窟》	Composed by Ji Zang	taisho/t1744_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1745.csv	taisho/t1745.html	Wu Liang Shou Jing Yi Shu 《無量壽經義疏》	Composed by Venerable Hui Yuan	taisho/t1745_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1746.csv	taisho/t1746.html	Wu Liang Shou Jing Yi Shu 《無量壽經義疏》	Composed by Ji Zang	taisho/t1746_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1747.csv	taisho/t1747.html	Liang Juan Wu Liang Shou Jing Zong Yao 《兩卷無量壽經宗要》	Composed by Wŏnhyo	taisho/t1747_00.txt	Taishō	treatise		commentary
+taisho/t1748.csv	taisho/t1748.html	Wu Liang Shou Jing Lian Yi Shu Wen Zan 《無量壽經連義述文贊》	Composed by Jing Xing	taisho/t1748_00.txt	Taishō	treatise		commentary
+taisho/t1749.csv	taisho/t1749.html	Guan Wu Liang Shou Jing Yi Shu 《觀無量壽經義疏》	Composed by Venerable Hui Yuan	taisho/t1749_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1750.csv	taisho/t1750.html	Guan Wu Liang Shou Fo Jing Shu 《觀無量壽佛經疏》	Spoken by Zhi Yi	taisho/t1750_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1751.csv	taisho/t1751.html	Guan Wu Liang Shou Fo Jing Shu Miao Zong Chao 《觀無量壽佛經疏妙宗鈔》	Narrated by Zhi Li	taisho/t1751_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1752.csv	taisho/t1752.html	Guan Wu Liang Shou Jing Yi Shu 《觀無量壽經義疏》	Composed by Ji Zang	taisho/t1752_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1753.csv	taisho/t1753.html	Guan Wu Liang Shou Fo Jing Shu 《觀無量壽佛經疏》	Recorded by Shan Dao	taisho/t1753_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1754.csv	taisho/t1754.html	Guan Wu Liang Shou Fo Jing Yi Shu 《觀無量壽佛經義疏》	Narrated by Yuan Zhao	taisho/t1754_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1755.csv	taisho/t1755.html	Amituo Jing Yi Ji 《阿彌陀經義記》	Spoken by Zhi Yi	taisho/t1755_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1756.csv	taisho/t1756.html	Amituo Jing Yi Shu 《阿彌陀經義述》	Narrated by Hui Jing	taisho/t1756_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1757.csv	taisho/t1757.html	Amituo Jing Shu 《阿彌陀經疏》	Composed by Kui Ji	taisho/t1757_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1758.csv	taisho/t1758.html	Amituo Jing Tong Zan Shu 《阿彌陀經通贊疏》	Composed by Kui Ji	taisho/t1758_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1759.csv	taisho/t1759.html	Amituo Jing Shu 《阿彌陀經疏》	Narrated by Wŏnhyo	taisho/t1759_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1760.csv	taisho/t1760.html	Amituo Jing Shu 《阿彌陀經疏》	Narrated by Zhi Yuan	taisho/t1760_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1761.csv	taisho/t1761.html	Amituo Jing Yi Shu 《阿彌陀經義疏》	Narrated by Yuan Zhao	taisho/t1761_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1762.csv	taisho/t1762.html	Amituo Jing Yao Jie 《阿彌陀經要解》	Explained by Zhi Xu	taisho/t1762_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1763.csv	taisho/t1763.html	Da Ban Niepan Jing Ji Jie 《大般涅槃經集解》	Compiled by Bao Liang and others	taisho/t1763_00.txt	Taishō	treatise	502-557	commentary
+taisho/t1764.csv	taisho/t1764.html	Da Ban Niepan Jing Yi Ji 《大般涅槃經義記》	Narrated by Venerable Hui Yuan	taisho/t1764_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1765.csv	taisho/t1765.html	Da Ban Niepan Jing Xuan Yi 《大般涅槃經玄義》	Composed by Guan Ding	taisho/t1765_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1766.csv	taisho/t1766.html	Niepan Xuan Yi Fa Yuan Ji Yao 《涅槃玄義發源機要》	Narrated by Zhi Yuan	taisho/t1766_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1767.csv	taisho/t1767.html	Da Ban Niepan Jing Shu 《大般涅槃經疏》	Composed by Guan Ding	taisho/t1767_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1768.csv	taisho/t1768.html	Da Ban Niepan Jing You Yi 《涅槃經遊意》	Composed by Ji Zang	taisho/t1768_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1769.csv	taisho/t1769.html	Niepan Zong Yao 《涅槃宗要》	Composed by Wŏnhyo	taisho/t1769_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1770.csv	taisho/t1770.html	Benyuan Yaoshi Jing Guji 《本願藥師經古迹》	Composed by Tai Xian	taisho/t1770_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1771.csv	taisho/t1771.html	Mile Jing You Yi 《彌勒經遊意》	Composed by Ji Zang	taisho/t1771_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1772.csv	taisho/t1772.html	Guan Mile Shang Sheng Doushuaitian Jing Zan 《觀彌勒上生兜率天經贊》	Composed by Kui Ji	taisho/t1772_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1773.csv	taisho/t1773.html	Mile Shang Sheng Jing Zong Yao 《彌勒上生經宗要》	Composed by Wŏnhyo	taisho/t1773_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1774.csv	taisho/t1774.html	San Mile Jing Shu 《三彌勒經疏》	Composed by 憬興	taisho/t1774_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1775.csv	taisho/t1775.html	Zhu Weimojie Jing 《注維摩詰經》	Composed by Seng Zhao	taisho/t1775_00.txt	Taishō	treatise		commentary
+taisho/t1776.csv	taisho/t1776.html	Weimo Yi Ji 《維摩義記》	Composed by Venerable Hui Yuan	taisho/t1776_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1777.csv	taisho/t1777.html	Wei Mo Jing Xuan Shu 《維摩經玄疏》	Composed by Zhi Yi	taisho/t1777_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1778.csv	taisho/t1778.html	Wei Mo Jing Lue Shu 《維摩經略疏》	Spoken by Zhi Yi, summarized by Zhanran	taisho/t1778_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1779.csv	taisho/t1779.html	Wei Mo Jing Lue Shu Chui Yu Ji 《維摩經略疏垂裕記》	Narrated by Zhi Yuan	taisho/t1779_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1780.csv	taisho/t1780.html	Jing Ming Xuan Lun 《淨名玄論》	Compiled by Ji Zang	taisho/t1780_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1781.csv	taisho/t1781.html	Wei Mo Jing Yi Shu 《維摩經義疏》	Composed by Ji Zang	taisho/t1781_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1782.csv	taisho/t1782.html	Shuo Wugou Cheng Jing  Shu 《說無垢稱經疏》	Composed by Kui Ji	taisho/t1782_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1783.csv	taisho/t1783.html	Jin Guangming Jing Xuan Yi 《金光明經玄義》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1783_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1784.csv	taisho/t1784.html	Jin Guangming Jing Xuan Yi Shi Yi Ji 《金光明經玄義拾遺記》	Narrated by Zhi Li	taisho/t1784_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1785.csv	taisho/t1785.html	Jin Guangming Jing  Wen Ju 《金光明經文句》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1785_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1786.csv	taisho/t1786.html	Jin Guangming Jing  Wen Ju Ji 《金光明經文句記》	Narrated by Zhi Li	taisho/t1786_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1787.csv	taisho/t1787.html	Jin Guangming Jing  Shu 《金光明經疏》	Composed by Ji Zang	taisho/t1787_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1788.csv	taisho/t1788.html	Jin Guang Ming Zui Sheng Wang Jing Shu 《金光明最勝王經疏》	Composed by Hui Zhao	taisho/t1788_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1789.csv	taisho/t1789.html	Notes on the Laṅkāvatāra Sūtra 《楞伽阿跋多羅寶經註解》	Notes by Ru Qi Tong	taisho/t1789_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1790.csv	taisho/t1790.html	Laṅkāvatāra Sūtra Main Ideas 《入楞伽心玄義》	Composed by Fa Zang	taisho/t1790_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1791.csv	taisho/t1791.html	Zhu Dasheng Ru Lengjia Jing 《注大乘入楞伽經》	Narrated by Bao Chen	taisho/t1791_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1792.csv	taisho/t1792.html	Commentary on the Ullambana Sūtra 《佛說盂蘭盆經疏》	Narrated by Zong Mi	taisho/t1792_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1793.csv	taisho/t1793.html	Wen Shi Jing Yi Ji 《溫室經義記》	Composed by Venerable Hui Yuan	taisho/t1793_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1794.csv	taisho/t1794.html	Notes on the Sūtra of Forty-Two Sections 《註四十二章經》	Notes by Emperor Zhenzong of Song	taisho/t1794_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1795.csv	taisho/t1795.html	Brief Commentary on the Perfect Enlightenment Sūtra 《大方廣圓覺修多羅了義經略疏》	Narrated by Zong Mi	taisho/t1795_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1796.csv	taisho/t1796.html	Da Piluzhena Cheng Fo Jing Shu 《大毘盧遮那成佛經疏》	Recorded by Yi Xing	taisho/t1796_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1797.csv	taisho/t1797.html	Da Piluzhena Jing Gongyang Cidi Fa Shu 《大毘盧遮那經供養次第法疏》	Composed by Bu Ke Siyi	taisho/t1797_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1798.csv	taisho/t1798.html	Jingang Ding Jing Da Yujia Mimi Xin Di Famen Yi Jue 《金剛頂經大瑜伽祕密心地法門義訣》	Composed by Amoghavajra	taisho/t1798_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1799.csv	taisho/t1799.html	Notes on the Meaning of the Śūraṅgama Sūtra 《首楞嚴義疏注經》	Compiled by Zi Xuan	taisho/t1799_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1800.csv	taisho/t1800.html	Qing Guanyin Jing Shu 《請觀音經疏》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1800_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1801.csv	taisho/t1801.html	Qing Guanyin Jing Shu Chan Yi Chao 《請觀音經疏闡義鈔》	Narrated by Zhi Yuan	taisho/t1801_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1802.csv	taisho/t1802.html	Shiyi Mian Shen Zhou Xinjing  Yi Shu 《十一面神呪心經義疏》	Composed by Hui Zhao	taisho/t1802_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1803.csv	taisho/t1803.html	Notes on the Teaching and Meaning of the Usnisa Vijaya Dharani 《佛頂尊勝陀羅尼經教跡義記》	Narrated by Fa Chong	taisho/t1803_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1804.csv	taisho/t1804.html	Si Fen Lu Shan Fan Bu Que Xingshi Chao 《四分律刪繁補闕行事鈔》	Composed by Dao Xuan	taisho/t1804_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1805.csv	taisho/t1805.html	Si Fen Lu Xingshi Chao Zi Chi Ji 《四分律行事鈔資持記》	Composed by Yuan Zhao	taisho/t1805_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1806.csv	taisho/t1806.html	Si Fen Lu Biqiu Han Zhu Jie Ben 《四分律比丘含注戒本》	Narrated by Dao Xuan	taisho/t1806_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1807.csv	taisho/t1807.html	Si Fen Biqiu Jie Ben Shu 《四分比丘戒本疏》	Composed by Ding Bin	taisho/t1807_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1808.csv	taisho/t1808.html	Si Fen Lu Shan Bu Suiji Jiemo 《四分律刪補隨機羯磨》	Compiled by Dao Xuan	taisho/t1808_00.txt	Taishō	treatise	649	commentary
+taisho/t1809.csv	taisho/t1809.html	Dharmaguptabhikṣukarman (Seng Jiemo) 《僧羯磨》	Compiled by Huai Su	taisho/t1809_00.txt	Taishō	treatise	676-682	commentary
+taisho/t1810.csv	taisho/t1810.html	Ni Jiemo 《尼羯磨》	Compiled by Huai Su	taisho/t1810_00.txt	Taishō	treatise	676-682	commentary
+taisho/t1811.csv	taisho/t1811.html	Commentary on the Meaning of the Bodhisattva Precepts 《菩薩戒義疏》	Spoken by Zhi Yi, recorded by Guan Ding	taisho/t1811_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1812.csv	taisho/t1812.html	Commentary on the Tiantai Bodhisattva Precepts 《天台菩薩戒疏》	Ammended by Ming Kuang	taisho/t1812_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1813.csv	taisho/t1813.html	Commentary on the Fanwang Jing Bodhisattva Precepts 《梵網經菩薩戒本疏》	Composed by Fa Zang	taisho/t1813_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1814.csv	taisho/t1814.html	Commentary on the Bodhisattva Precepts 《菩薩戒本疏》	Narrated by Yi Ji	taisho/t1814_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1815.csv	taisho/t1815.html	Fan Wang Jing Guji Ji 《梵網經古迹記》	Compiled by Tai Xian	taisho/t1815_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1816.csv	taisho/t1816.html	Jingang Bore Lun Huishi 《金剛般若論會釋》	Composed by Kui Ji	taisho/t1816_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1817.csv	taisho/t1817.html	Lue Ming Bore Mo Hou Yi Song Zan Shu 《略明般若末後一頌讚述》	Narrated by Yijing	taisho/t1817_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1818.csv	taisho/t1818.html	A Brief Commentary on the Lotus Sūtra 《法華論疏》	Composed by Ji Zang	taisho/t1818_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1819.csv	taisho/t1819.html	Wu Liang Shou Jing You Po Ti She Yuan Sheng Ji Zhu 《無量壽經優婆提舍願生偈註》	Explained by Tan Luan	taisho/t1819_00.txt	Taishō	treatise	386-557	commentary
+taisho/t1820.csv	taisho/t1820.html	A Brief Commentary and Summary of the Sūtra On The Buddha's Bequeathed Teaching 《佛遺教經論疏節要》	Requested by Jing Yuan (part), notes by Zhu Hong	taisho/t1820_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1821.csv	taisho/t1821.html	Notes on the Abhidharmakośabhāṣya 《俱舍論記》	Narrated by Pu Guang	taisho/t1821_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1822.csv	taisho/t1822.html	Commentary on the Abhidharmakośabhāṣya 《俱舍論疏》	Composed by Fa Bao	taisho/t1822_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1823.csv	taisho/t1823.html	Discourse on the Abhidharmakośabhāṣya 《俱舍論頌疏論本》	Narrated by Yuan Hui	taisho/t1823_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1824.csv	taisho/t1824.html	Commentary on the Mūlamadhyamakakārikā 《中觀論疏》	Composed by Ji Zang	taisho/t1824_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1825.csv	taisho/t1825.html	Commentary on the Dvādaśanikāyaśāstra 《十二門論疏》	Composed by Ji Zang	taisho/t1825_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1826.csv	taisho/t1826.html	Overiew of the Dvādaśanikāyaśāstra 《十二門論宗致義記》	Narrated by Fa Zang	taisho/t1826_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1827.csv	taisho/t1827.html	Commentary on the Hundred Treatise 《百論疏》	Composed by Ji Zang	taisho/t1827_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1828.csv	taisho/t1828.html	Commentary on the Yogācārabhūmiśāstra 《瑜伽論記》	Composed by 遁倫集	taisho/t1828_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1829.csv	taisho/t1829.html	Outline of the Yogācārabhūmiśāstra 《瑜伽師地論略纂》	Composed by Kui Ji	taisho/t1829_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1830.csv	taisho/t1830.html	Notes on the Viṁśatikāvṛtti 《成唯識論述記》	Composed by Kui Ji	taisho/t1830_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1831.csv	taisho/t1831.html	Outline of the Viṁśatikāvṛtti 《成唯識論掌中樞要》	Composed by Kui Ji	taisho/t1831_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1832.csv	taisho/t1832.html	Cheng Weishi Lun  Liaoyi Deng 《成唯識論了義燈》	Narrated by Hui Zhao	taisho/t1832_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1833.csv	taisho/t1833.html	Cheng Weishi Lun  Yan Mi 《成唯識論演祕》	Composed by Zhi Zhou	taisho/t1833_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1834.csv	taisho/t1834.html	Weishi Ershi Lun  Shu Ji 《唯識二十論述記》	Composed by Kui Ji	taisho/t1834_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1835.csv	taisho/t1835.html	Notes on Madhyāntavibhaṅgabhāṣya 《辯中邊論述記》	Composed by Kui Ji	taisho/t1835_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1836.csv	taisho/t1836.html	Explanation of Mahāyānaśatadharmaprakāśamukhaśāstra 《大乘百法明門論解》	Explained by Kui Ji, ammended by 普泰增	taisho/t1836_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1837.csv	taisho/t1837.html	Commentary on Mahāyānaśatadharmaprakāśamukhaśāstra 《大乘百法明門論疏》	Composed by Da Sheng Guang	taisho/t1837_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1838.csv	taisho/t1838.html	Commentary on Mahāyāna Dharmadhātu Advaya Treatise 《大乘法界無差別論疏》	Composed by Fa Zang	taisho/t1838_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1839.csv	taisho/t1839.html	Notes on Nyāyamukha 《理門論述記》	Composed by Shen Tai	taisho/t1839_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1840.csv	taisho/t1840.html	Commentary on Nyāyamukha 《因明入正理論疏》	Composed by Kui Ji	taisho/t1840_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1841.csv	taisho/t1841.html	A Summary of the Meaning of Nyāyamukha 《因明義斷》	Composed by Hui Zhao	taisho/t1841_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1842.csv	taisho/t1842.html	A Summary of Nyāyamukha 《因明入正理論義纂要》	Compiled by Hui Zhao	taisho/t1842_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1843.csv	taisho/t1843.html	A Commentary on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義疏》	Composed by Venerable Hui Yuan	taisho/t1843_00.txt	Taishō	treatise	589-618	commentary
+taisho/t1844.csv	taisho/t1844.html	A Commentary on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏》	Composed by Wŏnhyo	taisho/t1844_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1845.csv	taisho/t1845.html	More Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論別記》	Composed by Wŏnhyo	taisho/t1845_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1846.csv	taisho/t1846.html	Notes on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義記》	Composed by Fa Zang	taisho/t1846_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1847.csv	taisho/t1847.html	Recorded Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論義記別記》	Composed by Fa Zang	taisho/t1847_00.txt	Taishō	treatise	618-907	commentary
+taisho/t1848.csv	taisho/t1848.html	Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏筆削記》	Recorded by Zi Xuan	taisho/t1848_00.txt	Taishō	treatise	960-1279	commentary
+taisho/t1849.csv	taisho/t1849.html	Outline of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論內義略探記》	Composed by Tai Xian	taisho/t1849_00.txt	Taishō	treatise	57-935	commentary
+taisho/t1850.csv	taisho/t1850.html	Outline Summary of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論裂網疏》	Narrated by Zhi Xu	taisho/t1850_00.txt	Taishō	treatise	1368-1644	commentary
+taisho/t1851.csv	taisho/t1851.html	Dacheng Yi Zhang 《大乘義章》	Composed by Hui Yuan	taisho/t1851_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1852.csv	taisho/t1852.html	Sanlun Xuan Yi 《三論玄義》	Composed by Ji Zang	taisho/t1852_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1853.csv	taisho/t1853.html	Treatise on the Mystery of the Mahayana 《大乘玄論》	Composed by Ji Zang	taisho/t1853_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1854.csv	taisho/t1854.html	Er Di Yi 《二諦義》	Composed by Ji Zang	taisho/t1854_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1855.csv	taisho/t1855.html	Sanlun You Yiyi 《三論遊意義》	Composed by Qi Fa	taisho/t1855_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1856.csv	taisho/t1856.html	Venerable Kumārajīva's Great Meaning 《鳩摩羅什法師大義》	Asked by Hui Yuan, answered by Kumārajīva	taisho/t1856_00.txt	Taishō	treatise	317-420	treatise
+taisho/t1857.csv	taisho/t1857.html	Bao Cang Treatise 《寶藏論》	著 by Seng Zhao	taisho/t1857_00.txt	Taishō	treatise		treatise
+taisho/t1858.csv	taisho/t1858.html	Zhao Lun 《肇論》	Composed by Seng Zhao	taisho/t1858_00.txt	Taishō	treatise		treatise
+taisho/t1859.csv	taisho/t1859.html	Commentary on the Zhao Lun 《肇論疏》	Composed by Yuan Kang	taisho/t1859_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1860.csv	taisho/t1860.html	New Commentary on the Zhao Lun 《肇論新疏》	Narrated by Wen Cai	taisho/t1860_00.txt	Taishō	treatise	1279-1368	treatise
+taisho/t1861.csv	taisho/t1861.html	Dasheng Fa Yuan Yi Lin Zhang 《大乘法苑義林章》	Composed by Kui Ji	taisho/t1861_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1862.csv	taisho/t1862.html	Collection of Advise to Initiate the Bodhi Mind 《勸發菩提心集》	Composed by Hui Zhao	taisho/t1862_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1863.csv	taisho/t1863.html	Neng Xian Zhong Bian Hui Ri Lun 《能顯中邊慧日論》	Composed by Hui Zhao	taisho/t1863_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1864.csv	taisho/t1864.html	Dasheng Ru Dao Cidi 《大乘入道次第》	Composed by Zhi Zhou	taisho/t1864_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1865.csv	taisho/t1865.html	Ba Shi Guiju Bu Zhu 《八識規矩補註》	Notes by Pu Tai	taisho/t1865_00.txt	Taishō	treatise	1368-1644	treatise
+taisho/t1866.csv	taisho/t1866.html	Huayan Yi Cheng Jiaoyi Fen Qi Zhang 《華嚴一乘教義分齊章》	Narrated by Fa Zang	taisho/t1866_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1867.csv	taisho/t1867.html	Huayan Wu Jiao Zhi Guan 《華嚴五教止觀》	Spoken by Du Shun	taisho/t1867_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1868.csv	taisho/t1868.html	Huayan Yi Cheng Shi Xuan Men 《華嚴一乘十玄門》	Spoken by Du Shun, composed by Zhi Yan	taisho/t1868_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1869.csv	taisho/t1869.html	Fifty Questions and Answers from the Avataṃsaka Sūtra 《華嚴五十要問答》	Compiled by Zhi Yan	taisho/t1869_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1870.csv	taisho/t1870.html	Huayan Jing Nei Zhang Men Deng Za Kong Mu Zhang 《華嚴經內章門等雜孔目章》	Compiled by Zhi Yan	taisho/t1870_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1871.csv	taisho/t1871.html	Huayan Jing Zhi Gui 《華嚴經旨歸》	Narrated by Fa Zang	taisho/t1871_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1872.csv	taisho/t1872.html	Huayan Ce Lin 《華嚴策林》	Narrated by Fa Zang	taisho/t1872_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1873.csv	taisho/t1873.html	Questions and Answers on the Avataṃsaka Sūtra 《華嚴經問答》	Composed by Fa Zang	taisho/t1873_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1874.csv	taisho/t1874.html	Huayan Jing Ming Fa Pin Nei Li San Bao Zhang 《華嚴經明法品內立三寶章》	Narrated by Fa Zang	taisho/t1874_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1875.csv	taisho/t1875.html	Huayan Jing Yi Hai Bai Men 《華嚴經義海百門》	Narrated by Fa Zang	taisho/t1875_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1876.csv	taisho/t1876.html	Xiu Huayan Ao Zhi Wang Jin Hai Yuan Guan 《修華嚴奧旨妄盡還源觀》	Narrated by Fa Zang	taisho/t1876_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1877.csv	taisho/t1877.html	Huayan You Xin Fajie Ji 《華嚴遊心法界記》	Composed by Fa Zang	taisho/t1877_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1878.csv	taisho/t1878.html	Huayan Fa Pu Ti Xin Zhang 《華嚴發菩提心章》	Narrated by Fa Zang	taisho/t1878_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1879a.csv	taisho/t1879a.html	Huayan Jing Guan Mai Yi Ji 《華嚴經關脈義記》	Composed by Fa Zang	taisho/t1879a_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1879b.csv	taisho/t1879b.html	Huayan Guan Mai Yi Ji 《華嚴關脈義記》		taisho/t1879b_00.txt	Taishō	treatise		treatise
+taisho/t1880.csv	taisho/t1880.html	Jin Shizi Zhang Yun Jian Lei Jie 《金師子章雲間類解》	Compiled by Fa Zang, narrated by Jing Yuan	taisho/t1880_00.txt	Taishō	treatise	960-1279	treatise
+taisho/t1881.csv	taisho/t1881.html	Notes on the Avataṃsaka Sūtra Golden Lion Seal 《華嚴經金師子章註》	Compiled by Fa Zang, notes by Cheng Qian	taisho/t1881_00.txt	Taishō	treatise	960-1279	treatise
+taisho/t1882.csv	taisho/t1882.html	San Sheng Yuan Rong Guan Men 《三聖圓融觀門》	Narrated by Cheng Guan	taisho/t1882_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1883.csv	taisho/t1883.html	Huayan Fajie Xuan Jing 《華嚴法界玄鏡》	Narrated by Cheng Guan	taisho/t1883_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1884.csv	taisho/t1884.html	Zhu Huayan Fajie Guan Men 《註華嚴法界觀門》	Notes by Zong Mi	taisho/t1884_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1885.csv	taisho/t1885.html	Zhu Huayan Jing Ti Fajie Guan Men Song 《註華嚴經題法界觀門頌》	Notes by 本嵩述．琮湛	taisho/t1885_00.txt	Taishō	treatise	960-1279	treatise
+taisho/t1886.csv	taisho/t1886.html	Discussion on Original Nature 《原人論》	Narrated by Zong Mi	taisho/t1886_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1887A.csv	taisho/t1887A.html	Huayan Yi Cheng Fajie Tu 《華嚴一乘法界圖》	Composed by Hwa-ŏm	taisho/t1887A_00.txt	Taishō	treatise	57-935	treatise
+taisho/t1887B.csv	taisho/t1887B.html	Fajie Tu Ji Cong Sui Lu 《法界圖記叢髓錄》	Hwa-ŏm	taisho/t1887B_00.txt	Taishō	treatise	625-702	treatise
+taisho/t1888.csv	taisho/t1888.html	Jie Mi Xian Zhi Cheng Bei Shi Ming Lun 《解迷顯智成悲十明論》	Composed by Li Tongxuan	taisho/t1888_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1889.csv	taisho/t1889.html	Ocean Reflection Samādi Treatise 《海印三昧論》	Narrated by Ming Xiao	taisho/t1889_00.txt	Taishō	treatise	57-935	treatise
+taisho/t1890.csv	taisho/t1890.html	Huayan Yi Cheng Cheng Fo Miao Yi 《華嚴一乘成佛妙義》	Compiled by 見登之 Jian Deng Zhi	taisho/t1890_00.txt	Taishō	treatise	57-935	treatise
+taisho/t1891.csv	taisho/t1891.html	Wenshu Zhinan Tu Zan 《文殊指南圖讚》	Narrated by Wei Bai	taisho/t1891_00.txt	Taishō	treatise	960-1279	treatise
+taisho/t1892.csv	taisho/t1892.html	Guanzhong Chuangli Jie Tan Tu Jing 《關中創立戒壇圖經》	Composed by Dao Xuan	taisho/t1892_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1893.csv	taisho/t1893.html	Jing Xin Jie Guan Fa 《淨心戒觀法》	Composed by Dao Xuan	taisho/t1893_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1894.csv	taisho/t1894.html	Shi Men Zhang Fu Yi 《釋門章服儀》	Narrated by Dao Xuan	taisho/t1894_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1895.csv	taisho/t1895.html	Liang Chu Qing Zhong Yi 《量處輕重儀》	Sewn by Dao Xuan	taisho/t1895_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1896.csv	taisho/t1896.html	Shi Men Guijing Yi 《釋門歸敬儀》	Narrated by Dao Xuan	taisho/t1896_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1897.csv	taisho/t1897.html	Jiao Jie Xin Xue Biqiu Xing Hu Lu Yi 《教誡新學比丘行護律儀》	Narrated by Dao Xuan	taisho/t1897_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1898.csv	taisho/t1898.html	Lu Xiang Gan Tong Chuan 《律相感通傳》	Composed by Dao Xuan	taisho/t1898_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1899.csv	taisho/t1899.html	Zhong Tianzhu Shewei Guo Zhihuan Si Tu Jing 《中天竺舍衛國祇洹寺圖經》	Composed by Dao Xuan	taisho/t1899_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1900.csv	taisho/t1900.html	Fo Zhi Biqiu Liu Wu Tu 《佛制比丘六物圖》	Composed by Yuan Zhao	taisho/t1900_00.txt	Taishō	treatise	960-1279	treatise
+taisho/t1901.csv	taisho/t1901.html	Hu Ming Fang Sheng Gui Yi Fa 《護命放生軌儀法》	Composed by Yijing	taisho/t1901_00.txt	Taishō	treatise	700-710	treatise
+taisho/t1902.csv	taisho/t1902.html	Shouyong San Shui Yao Xing Fa 《受用三水要行法》	Composed by Yijing	taisho/t1902_00.txt	Taishō	treatise	700-710	treatise
+taisho/t1903.csv	taisho/t1903.html	Shuo Zui Yao Xing Fa 《說罪要行法》	Composed by Yijing	taisho/t1903_00.txt	Taishō	treatise	700-710	treatise
+taisho/t1904.csv	taisho/t1904.html	Genben Shuo Yiqie You Bu Chujia Shou Jin Yuan Jiemo Yi Fan 《根本說一切有部出家授近圓羯磨儀範》	Compiled by Drogön Chögyal Phagpa	taisho/t1904_00.txt	Taishō	treatise	1279-1368	treatise
+taisho/t1905.csv	taisho/t1905.html	Genben Shuo Yiqie You Bu Bi Chu Xi Xue Lue Fa 《根本說一切有部苾芻習學略法》	Compiled by Drogön Chögyal Phagpa	taisho/t1905_00.txt	Taishō	treatise	1279-1368	treatise
+taisho/t1906.csv	taisho/t1906.html	School Requirements for Bodhisattva Precepts 《菩薩戒本宗要》	Composed by Tai Xian	taisho/t1906_00.txt	Taishō	treatise	57-935	treatise
+taisho/t1907.csv	taisho/t1907.html	Records for Special Requirements for Bodhisattva Precepts 《菩薩戒本持犯要記》	Narrated by Wŏnhyo	taisho/t1907_00.txt	Taishō	treatise	57-935	treatise
+taisho/t1908.csv	taisho/t1908.html	Mahāyāna Six Sense Organs Repentance 《大乘六情懺悔》	Composed by Wŏnhyo	taisho/t1908_00.txt	Taishō	treatise	57-935	treatise
+taisho/t1909.csv	taisho/t1909.html	Cibei Daochang Chanfa 《慈悲道場懺法》	Composed by 諸大法師集	taisho/t1909_00.txt	Taishō	treatise	502-519	treatise
+taisho/t1910.csv	taisho/t1910.html	Cibei Shui Chanfa 《慈悲水懺法》		taisho/t1910_00.txt	Taishō	treatise		treatise
+taisho/t1911.csv	taisho/t1911.html	The Great Calming and Contemplation (Mohe Zhi Guan) 《摩訶止觀》	Spoken by Zhi Yi	taisho/t1911_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1912.csv	taisho/t1912.html	Zhi Guan Fu Xing Chuan Hong Jue 《止觀輔行傳弘決》	Narrated by Zhanran	taisho/t1912_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1913.csv	taisho/t1913.html	Zhi Guan Yi Li 《止觀義例》	Narrated by Zhanran	taisho/t1913_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1914.csv	taisho/t1914.html	Zhi Guan Dayi 《止觀大意》	Narrated by Zhanran	taisho/t1914_00.txt	Taishō	treatise	618-907	treatise
+taisho/t1915.csv	taisho/t1915.html	Xiu Xi Zhi Guan Zuochan Fa Yao 《修習止觀坐禪法要》	Narrated by Zhi Yi	taisho/t1915_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1916.csv	taisho/t1916.html	Shi Chan Boluomi Cidi Famen 《釋禪波羅蜜次第法門》	Spoken by Zhi Yi	taisho/t1916_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1917.csv	taisho/t1917.html	Six Wonderful Dharma Gates (Liu Miao Fa Men) 《六妙法門》	Spoken by Zhi Yi	taisho/t1917_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1918.csv	taisho/t1918.html	The Four Bases of Mindfulness 《四念處》	Spoken by Zhi Yi	taisho/t1918_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1919.csv	taisho/t1919.html	Zhi Yi's Meditation Chant 《天台智者大師禪門口訣》	Spoken by Zhi Yi	taisho/t1919_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1920.csv	taisho/t1920.html	Treatise on Contemplating Thoughts 《觀心論》	Narrated by Zhi Yi	taisho/t1920_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1921.csv	taisho/t1921.html	Commentary on the Treatise on Contemplating Thoughts 《觀心論疏》	Composed by Guan Ding	taisho/t1921_00.txt	Taishō	treatise	589-618	treatise
