@@ -53,11 +53,6 @@ database. They work directly from the text files.
 
    Load the data. Look for the foreign key problem with a select statement.
 
-   For the illustrations table use statements like
-
-   > SELECT medium_resolution, author FROM illustrations WHERE author NOT IN (SELECT name FROM authors);
-   > SELECT medium_resolution, license FROM illustrations WHERE license NOT IN (SELECT name FROM licenses);
-
    For the words table use statements like
 
    > SELECT id, topic_cn FROM words WHERE topic_cn NOT IN (SELECT simplified FROM topics);
