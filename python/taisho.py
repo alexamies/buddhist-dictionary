@@ -4,6 +4,7 @@ Utility for aggregating metadata from the Taisho Buddhist Canon.
 """
 
 import codecs
+import xml.etree.ElementTree as ET
 import re
 import sys
 import urllib2
@@ -28,6 +29,7 @@ def geturl(volume, tid):
   url = "http://tripitaka.cbeta.org/T%dn0%s" % (volume, tid)
   if tid > 999:
     url = "http://tripitaka.cbeta.org/T%dn%s" % (volume, tid)
+  print "taisho.py, url = %s" % url
   response = urllib2.urlopen(url)  
   return url
 
@@ -40,6 +42,41 @@ def saveScrolls(volume, tid, numscrolls, title):
   """
   for i in range(1, numscrolls + 1):
   	saveScrollFromWeb(volume, tid, i, title)
+  #saveScrollfromXML(volume, tid, 1)
+
+
+def saveScrollfromXML(volume, tid, scrollno):
+  """
+  Get the scroll from XML and save plain text to local disk.
+  """
+  cbeta_home = "/Users/alex/Documents/code/cbeta/xml-p5/T"
+  filename = "%s/T%d/T%dn%s.xml" % (cbeta_home, volume, volume, tid)
+  tree = ET.parse(filename)
+  root = tree.getroot()
+  text = ET.tostring(root, encoding="utf-8", method="text").decode('utf8')
+  doc = ""
+  header = True
+  for line in text.split('\n'):
+    if line.strip() != "":
+      if header or line[0] != "\t":
+        doc += line + "\n"
+      if line.find(u"蕭鎮國大德提供") != -1:
+        header = False
+
+  doc += u"""\n\n本網站係採用 Creative Commons 姓名標示-非商業性-相同方式分享 3.0 
+  台灣 (中華民國) 授權條款授權.Copyright ©1998-2016 CBETA\n"""
+
+  tidStr = tid
+  if tid < 1000:
+    tidStr = "0%s" % tid
+  scrollStr = "0%d" % scrollno
+  if 10 <= scrollno and scrollno < 100:
+    scrollStr = "%d" % scrollno
+  elif 100 <= scrollno:
+    scrollStr = "%d" % scrollno
+  file = "../corpus/taisho/t%s_%s.txt" % (tidStr, scrollStr)
+  with codecs.open(file, 'w', "utf-8") as outfile:
+    outfile.write(doc)
 
 
 def saveScrollFromWeb(volume, tid, scrollno, title):
