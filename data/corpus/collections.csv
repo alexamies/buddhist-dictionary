@@ -2198,6 +2198,30 @@ taisho/t2117.csv	taisho/t2117.html	Sanjiao Ping Xin Lun 《三教平心論》	Co
 taisho/t2118.csv	taisho/t2118.html	Zhe Yi Lun 《折疑論》	Notes by Shizi	taisho/t2118_00.txt	Taishō	text		history
 taisho/t2119.csv	taisho/t2119.html	Si Shamen Xuan Zang Shang Biao Ji 《寺沙門玄奘上表記》		taisho/t2119_00.txt	Taishō	text		history
 taisho/t2120.csv	taisho/t2120.html	Dai Zong Chao Zeng Sikong Da Bian Zheng Guang Zhi San Zang He Shang Biao Zhi Ji 《代宗朝贈司空大辨正廣智三藏和上表制集》	Compiled by Yuan Zhao	taisho/t2120_00.txt	Taishō	text	618-907	history
-taisho/t2121.csv	taisho/t2121.html	Jing Lu Yi Xiang 《經律異相》	Compiled by Bao Chao and others	taisho/t2121_00.txt	Taishō	text	516	history
-taisho/t2122.csv	taisho/t2122.html	Fa Yuan Zhu Lin 《法苑珠林》	Composed by Dao Shi	taisho/t2122_00.txt	Taishō	text	668	history
-taisho/t2123.csv	taisho/t2123.html	Zhu Jing Yao Ji 《諸經要集》	Compiled by Dao Shi	taisho/t2123_00.txt	Taishō	text	659	history
+taisho/t2121.csv	taisho/t2121.html	Jing Lu Yi Xiang 《經律異相》	Compiled by Bao Chao and others	taisho/t2121_00.txt	Taishō	text	516	encyclopedia
+taisho/t2122.csv	taisho/t2122.html	Fa Yuan Zhu Lin 《法苑珠林》	Composed by Dao Shi	taisho/t2122_00.txt	Taishō	text	668	encyclopedia
+taisho/t2123.csv	taisho/t2123.html	Zhu Jing Yao Ji 《諸經要集》	Compiled by Dao Shi	taisho/t2123_00.txt	Taishō	text	659	encyclopedia
+taisho/t2124.csv	taisho/t2124.html	Famen Mingyi Ji 《法門名義集》	Composed by Li Shi Zheng	taisho/t2124_00.txt	Taishō	text	618-907	encyclopedia
+taisho/t2125.csv	taisho/t2125.html	A Record of the Buddhist Religion as Practised in India and in the Malay Archipelago 《南海寄歸內法傳》	Composed by Yijing	taisho/t2125_00.txt	Taishō	text	700-710	history
+taisho/t2126.csv	taisho/t2126.html	Da Song Seng Shi Lue 《大宋僧史略》	Composed by Zan Ning	taisho/t2126_00.txt	Taishō	text	960-1279	history
+taisho/t2127.csv	taisho/t2127.html	Shi Shi Yao Lan 《釋氏要覽》	Compiled by Dao Cheng	taisho/t2127_00.txt	Taishō	text	960-1279	history
+taisho/t2128.csv	taisho/t2128.html	The Sounds and Meanings of all the Terms in the Canonical Texts 《一切經音義》	Composed by Hui Lin	taisho/t2128_00.txt	Taishō	text	788-810	dictionary
+taisho/t2129.csv	taisho/t2129.html	Supplement to the Sounds and Meanings of all the Terms in the Canonical Texts 《續一切經音義》	Compiled by Xi Lin	taisho/t2129_00.txt	Taishō	text	1090	dictionary
+taisho/t2130.csv	taisho/t2130.html	Translating Sanskrit (Fan Fanyu) 《翻梵語》		taisho/t2130_00.txt	Taishō	text		dictionary
+taisho/t2131.csv	taisho/t2131.html	Collection of Meanings and Terms in Translation (Fanyi Mingyi Ji) 《翻譯名義集》	Compiled by Fa Yun	taisho/t2131_00.txt	Taishō	text	960-1279	dictionary
+taisho/t2132.csv	taisho/t2132.html	Notes on Siddhaṃ Script 《悉曇字記》	Composed by Zhi Guang	taisho/t2132_00.txt	Taishō	text	618-907	dictionary
+taisho/t2133A.csv	taisho/t2133A.html	Fanyu Qian Zi Wen 《梵語千字文》	Composed by Yijing	taisho/t2133A_00.txt	Taishō	text	618-907	dictionary
+taisho/t2133B.csv	taisho/t2133B.html	Fanyu Qian Zi Wen 《梵語千字文》	Composed by Yijing	taisho/t2133B_00.txt	Taishō	text	618-907	dictionary
+taisho/t2134.csv	taisho/t2134.html	Tang Fanwen Zi 《唐梵文字》	Compiled by Quan Zhen	taisho/t2134_00.txt	Taishō	text	618-907	dictionary
+taisho/t2135.csv	taisho/t2135.html	Fanyu Za Ming 《梵語雜名》	Compiled by Li Yan	taisho/t2135_00.txt	Taishō	text	618-907	dictionary
+taisho/t2136.csv	taisho/t2136.html	Tang Fan Liang Yu Shuang Dui Ji 《唐梵兩語雙對集》	Compiled by Sengdaduonieduo and Boluojunameshesha	taisho/t2136_00.txt	Taishō	text	618-907	dictionary
+taisho/t2137.csv	taisho/t2137.html	Sāṁkhyakārikā (Jin Qi Shi Lun) 《金七十論》	Translated by Paramārtha	taisho/t2137_00.txt	Taishō	text	557-569	outside
+taisho/t2138.csv	taisho/t2138.html	Vaiśeṣikadaśapadārthaśāstra (Sheng Zong Shi Ju Yi Lun) 《勝宗十句義論》	Composed by Hui Yue, translated by Xuanzang	taisho/t2138_00.txt	Taishō	text	648	dictionary
+taisho/t2139.csv	taisho/t2139.html	Conversion of the Barbarians 《老子化胡經》		taisho/t2139_00.txt	Taishō	text		outside_teachers
+taisho/t2140.csv	taisho/t2140.html	Monijiao Xia Bu Zan 《摩尼教下部讚》		taisho/t2140_00.txt	Taishō	text		outside_teachers
+taisho/t2141A.csv	taisho/t2141A.html	The Compendium of the Doctrines and Styles of the Teaching of Mani, the Buddha of Light 《摩尼光佛教法儀略》	Translated by Fu Duo Dan	taisho/t2141A_00.txt	Taishō	text	618-907	outside_teachers
+taisho/t2141B.csv	taisho/t2141B.html	Bosi Jiao Can Jing 《波斯教殘經》		taisho/t2141B_00.txt	Taishō	text		outside_teachers
+taisho/t2142.csv	taisho/t2142.html	Xu Ting Mi Shi Suo Jing 《序聽迷詩所經》		taisho/t2142_00.txt	Taishō	text		outside_teachers
+taisho/t2143.csv	taisho/t2143.html	Jingjiao San Wei Meng Du Zan 《景教三威蒙度讚》		taisho/t2143_00.txt	Taishō	text		outside_teachers
+taisho/t2144.csv	taisho/t2144.html	Da Qin Jingjiao Liuxing Zhongguo Bei Song 《大秦景教流行中國碑頌》	Narrated by Jing Jing	taisho/t2144_00.txt	Taishō	text	618-907	outside_teachers
+taisho/t2145.csv	taisho/t2145.html	Collection of records concerning the Chinese Buddhist Canon (Chu San Zang Ji Ji) 《出三藏記集》	Composed by Seng You	taisho/t2145_00.txt	Taishō	text	502-557	outside_teachers
