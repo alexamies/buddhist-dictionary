@@ -52,4 +52,4 @@ Acknowldegements:
 3. Humanistic Buddhism texts are reproduced from Fo Guang Shan with permission.
 
 -------------------------------------------------------------------------------
-Copyright Nan Tien Institute 2013, http://www.nantien.edu.au.
+Copyright Nan Tien Institute 2013-2017, http://www.nantien.edu.au.
