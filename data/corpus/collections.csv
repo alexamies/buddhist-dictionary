@@ -1731,8 +1731,8 @@ taisho/t1662.csv	taisho/t1662.html	Bodhisattvacaryāvatāra (Puti Xing Jing) 《
 taisho/t1663.csv	taisho/t1663.html	Bodhicittabhāvanā (Putixin Guan Shi) 《菩提心觀釋》	Translated by Fa Tian	taisho/t1663_00.txt	Taishō	śastra	994	śastra
 taisho/t1664.csv	taisho/t1664.html	Pūrvabhāvanākrama (Guang Shi Putixin Lun) 《廣釋菩提心論》	Composed by Kamalaśīla, translated by Dānapāla	taisho/t1664_00.txt	Taishō	śastra	1009	śastra
 taisho/t1665.csv	taisho/t1665.html	Jingang Ding Yujia Zhong Fa Anouduoluo Sanmiao Sanputi Xin Lun 《金剛頂瑜伽中發阿耨多羅三藐三菩提心論》	Translated by Amoghavajra	taisho/t1665_00.txt	Taishō	śastra	746-774	śastra
-taisho/t1666.csv	taisho/t1666.html	Mahāyānaśraddhotpādaśāstra (Treatise on the Awakening of Faith in the Mahāyāna) 《大乘起信論》	Composed by Aśvaghoṣa, translated by Paramārtha	taisho/t1666_00.txt	Taishō	śastra	553	śastra
-taisho/t1667.csv	taisho/t1667.html	Mahāyānaśraddhotpādaśāstra (Treatise on the Awakening of Faith in the Mahāyāna) 《大乘起信論》	Composed by Aśvaghoṣa, translated by Śiksānanda	taisho/t1667_00.txt	Taishō	śastra	695-700	śastra
+taisho/t1666.csv	taisho/t1666.html	Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論》	Attributed to Aśvaghoṣa, translated by Paramārtha	taisho/t1666_00.txt	Taishō	śastra	553	śastra
+taisho/t1667.csv	taisho/t1667.html	Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論》	Composed by Aśvaghoṣa, translated by Śiksānanda	taisho/t1667_00.txt	Taishō	śastra	695-700	śastra
 taisho/t1668.csv	taisho/t1668.html	Shi Moheyan Lun 《釋摩訶衍論》	Composed by Nāgārjuna, translated by Vṛddhimata	taisho/t1668_00.txt	Taishō	śastra	384-417	śastra
 taisho/t1669.csv	taisho/t1669.html	Da Zong Di Xuan Wenben Lun 《大宗地玄文本論》	Composed by Aśvaghoṣa, translated by Paramārtha	taisho/t1669_00.txt	Taishō	śastra	557-569	śastra
 taisho/t1670A.csv	taisho/t1670A.html	Miliṇḍapañha (Questions of Miliṇḍa) 《那先比丘經》	Translated by Unknown	taisho/t1670A_00.txt	Taishō	śastra	317-420	śastra
@@ -1917,7 +1917,7 @@ taisho/t1847.csv	taisho/t1847.html	Recorded Notes on the Treatise on the Awakeni
 taisho/t1848.csv	taisho/t1848.html	Notes on the Treatise on the Awakening of Faith in the Mahāyāna 《起信論疏筆削記》	Recorded by Zi Xuan	taisho/t1848_00.txt	Taishō	treatise	960-1279	commentary
 taisho/t1849.csv	taisho/t1849.html	Outline of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論內義略探記》	Composed by Tai Xian	taisho/t1849_00.txt	Taishō	treatise	57-935	commentary
 taisho/t1850.csv	taisho/t1850.html	Outline Summary of the Treatise on the Awakening of Faith in the Mahāyāna 《大乘起信論裂網疏》	Narrated by Zhi Xu	taisho/t1850_00.txt	Taishō	treatise	1368-1644	commentary
-taisho/t1851.csv	taisho/t1851.html	Dacheng Yi Zhang 《大乘義章》	Composed by Hui Yuan	taisho/t1851_00.txt	Taishō	treatise	589-618	treatise
+taisho/t1851.csv	taisho/t1851.html	Dasheng Yi Zhang 《大乘義章》	Composed by Hui Yuan	taisho/t1851_00.txt	Taishō	treatise	589-618	treatise
 taisho/t1852.csv	taisho/t1852.html	Sanlun Xuan Yi 《三論玄義》	Composed by Ji Zang	taisho/t1852_00.txt	Taishō	treatise	589-618	sanlun
 taisho/t1853.csv	taisho/t1853.html	Treatise on the Mystery of the Mahayana 《大乘玄論》	Composed by Ji Zang	taisho/t1853_00.txt	Taishō	treatise	589-618	sanlun
 taisho/t1854.csv	taisho/t1854.html	Er Di Yi 《二諦義》	Composed by Ji Zang	taisho/t1854_00.txt	Taishō	treatise	589-618	sanlun
