@@ -7,17 +7,16 @@ managing Buddhist Chinese texts. This is a non-profit, open source project.
 
 Goals:
 
-1. Create a dictionary that is easy to use for everybody interested in Buddhism, 
-   including lay people reading Buddhist texts, students, translators, and
-   academics. Importantly, the goal is to create useful tools rather than
-   authoritative definitions of terms.
+1. Create a text reader for the Taishō Shinshū Daizōkyō version of the 
+   Chinese Buddhist canon.
 
-2. Create tools that are useful for lingustic analysis of Buddhist texts,
+2. Create a Chinese-English Buddhist dictionary that is free and easy to use for 
+   everybody interested in Buddhism, including lay people reading Buddhist
+   texts, students, translators, and academics.
+
+3. Create tools that are useful for lingustic analysis of Buddhist texts,
    including identification of specialist Buddhist terms and comparison of
    Chinese texts.
-
-3. Use the tools to analyze and annotate a number of texts and share the content 
-   with the general public.
 
 There are three parts to the project:
 
