@@ -20,14 +20,7 @@ if [ -n "$PROD" ]; then
   	cp $CNREADER_HOME/web/analysis/taisho/*.html $PROD/web/analysis/taisho/.
   	cp $CNREADER_HOME/web/taisho/*.html $PROD/web/taisho/.
   	cp $CNREADER_HOME/data/dictionary/*.* $PROD/data/dictionary/.
-    cp $CNREADER_HOME/web/abbreviations.html $PROD/web/.
-    cp $CNREADER_HOME/web/corpus.html $PROD/web/.
-    cp $CNREADER_HOME/web/index.html $PROD/web/.
-    cp $CNREADER_HOME/web/popular.html $PROD/web/.
-    cp $CNREADER_HOME/web/references.html $PROD/web/.
-    cp $CNREADER_HOME/web/syllables_ipa.html $PROD/web/.
-    cp $CNREADER_HOME/web/tools.html $PROD/web/.
-    cp $CNREADER_HOME/web/whatsnew.html $PROD/web/.
+    cp $CNREADER_HOME/web/*.html $PROD/web/.
     cp $CNREADER_HOME/web/script/*.js $PROD/web/script/.
   else
     echo "CNREADER_HOME is not set"
