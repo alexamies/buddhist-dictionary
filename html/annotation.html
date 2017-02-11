@@ -1,0 +1,101 @@
+<h2>Text Management and Chinese Text Reader for the Chinese Buddhist Canon</h2>
+<p>
+  This page gives an introduction on the methodology used to analyze the 
+  Chinese Buddhist canon, as presented on this web site. The Chinese text reader
+  for the <a href='taisho/taisho.html'>Taishō shinshū daizōkyō</a> 
+  《大正新脩大藏經》 Buddhist canon was generated using a freely available tool
+  <a
+  href="https://github.com/alexamies/chinesenotes.com/tree/master/go/src/cnreader"
+  title="Command line tool on GitHub">cnreader</a>. The HTML pages generated
+  were uploaded to this web site to be available to web users. The source of the
+  texts is the <a href='http://cbeta.org/'>CBETA</a> web site, which distributes
+  the texts freely under a <a 
+  href='https://creativecommons.org/licenses/by-nc-sa/3.0/tw/'>Creative
+  Commons</a> license. The NTI Reader Project is very thankful to CEBTA for this
+  wonderful contribution to the general public and subsequently makes the 
+  content of the NTI Reader freely available under an English version of the 
+  same license.
+</p>
+<h3>Background</h2>
+<p>
+  The collection of texts in this web site are managed as a <i>text corpus</i>.
+  A text corpus, or simply <i>corpus</i>, is a term used in linguistics to 
+  mean a representative collection of texts used to 
+  study the linguistic characteristics of a language. 
+  The Brown Corpus, first published in 1961 [Francis 1964], was the first large corpus developed.
+  It consists of about 1 million English words.
+  The corpus of Chinese texts from the Taishō used on this site has 59,069,881
+  words with 33,200 unique words, and 73,414,250 characters, according the 
+  summary of the <a href='analysis/corpus_analysis.html'>Corpus Analysis</a>.
+</p>
+<p>
+  Each corpus entry includes meta data about a primary source document, such as
+  the source and links to plain text versions, English translations, vocabulary
+  analysis, and other information.
+</p>
+<p>
+  <i>Gloss</i> is a form of annotation that explains the meanings of words in texts.
+  A collection of glosses is called a <i>glossary</i>.
+  A historic example is Biblical gloss that was used to annotate the meanings of
+  words in the Bible. Biblical gloss was usually added in margins and included
+  commentaries as well. <i>Interlinear gloss</i> is gloss added between the lines.
+  Historic annotations are valuable in themselves and may
+  give explainations of the source text that would not be known otherwise.
+  However, they have often been ommitted when documents were new versions of 
+  documents were published, retaining the original text only.
+</p>
+<p>
+  Gloss is also used in a modern context by linguists to help them study and 
+  discuss languages that they cannot understand themselves. Typically, this 
+  kind of gloss in added after the native terms in square brackets, such as
+  佛 [Buddha]. Besides the meaning of foreign words in English, linguists also
+  sometimes indicate pronunciation with gloss.
+  The Penn Chinese Treebank has a particular style of gloss used
+  that includes gloss for indivual words in square brackets and angle brackets
+  for the phrase as a whole [Nianwen 2005]. For example, 乘 [riding] 白 [white] 
+  象 [elephant] &lt;riding a white elephant&gt;.
+  This web site follows that style with a mouse-over for the convenience
+  of readers.
+</p>
+<h3>Corpus management</h3>
+<p>
+  Each corpus entry has a text file that uses a markdown file. Markdown is a plain
+  <a href="http://en.wikipedia.org/wiki/Markdown">Markdown</a> can allow people who are not 
+  software or web design specialists to easily work with plain text that can be transformed
+  to HTML later. Markdown consists of simple and intuitive patterns, such has headers and 
+  bullet lists for making plan text more readable.  This makes it easy to add annotations to
+  primary source documents or copies of them.
+</p>
+<p>
+  The collection of primary texts and markdown documents is through a set of 
+  tab separated variable files.
+</p>
+<p>
+  Related pages: <a href="statistics.html">Statistical Methods</a>
+</p>
+<h3>Word Frequency Analysis</h3>
+<p>
+  After documents have been tagged they can be used to compile bigram and unigram word frequencies,
+  which helps with word sense disambiguation. This is discussed more on the page 
+  <a href="word_freq.html">Word Frequency Analysis</a> on this site and in the book 
+  Natural Language Processing with Python by Steven Bird, Ewan Klein and Edward Loper.
+</p>
+<h3>References</h3>
+<ol>
+  <li>
+    Bird S., Klein E. and Loper E. <i>Natural Language Processing with Python</i>. O'Reilly Media,
+    ISBN-13 978-0596516499.
+  </li>
+  <li>
+    W. N. Francis and H. Kucera. <i>BROWN CORPUS MANUAL: MANUAL OF INFORMATION</i>
+    to accompany A Standard Corpus of Present-Day, Edited American English, for use
+    with Digital Computers. Brown University, Providence, Rhode Island, Department of Linguistics
+    1964.
+  </li>
+  <li>
+    Nianwen Xue, et. al. <i>The Penn Chinese TreeBank: Phrase Structure Annotation of a Large Corpus</i>.
+    <a href="http://verbs.colorado.edu/~mpalmer/papers/ctb.pdf">http://verbs.colorado.edu/~mpalmer/papers/ctb.pdf</a>.
+    Natural Language Engineering, Volume 11 Issue 2, June 2005, Pages 207 - 238, Cambridge University 
+    Press New York, NY, USA.
+  </li>
+</ol>

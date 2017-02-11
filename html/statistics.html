@@ -1,0 +1,2640 @@
+      <h2>Statistical Background</h2>
+      <h3>Contents</h3>
+      <p>
+        <ul>
+          <li><a href="#data">Corpus Data</a></li>
+          <li><a href="#tools">Software Tools</a></li>
+          <li>
+            <a href="#concepts">Concepts</a>
+            <ul>
+              <li><a href="#probability">Probability</a></li>
+              <li><a href="#expectation">Expectation</a></li>
+              <li><a href="#entropy">Entropy</a></li>
+              <li><a href="#markov">Markov Models</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#special">Special Distributions</a>
+            <ul>
+              <li><a href="#bernoulli">Bernoulli Distribution</a></li>
+              <li><a href="#binomial">Binomial Distribution</a></li>
+              <li><a href="#poisson">Poisson Distribution</a></li>
+              <li><a href="#normal">Normal Distribution</a></li>
+              <li><a href="#gamma">Gamma Distribution</a></li>
+              <li><a href="#exponential">Exponential Distribution</a></li>
+              <li><a href="#beta">Beta Distribution</a></li>
+              <li><a href="#multinomial">Multinomial Distribution</a></li>
+            </ul>
+          </li>
+          <li><a href="#estimation">Statistical Estimation</a></li>
+          <li><a href="#sampling">Sampling</a></li>
+          <li>
+            <a href="#hypothesis">Hypothesis Testing</a>
+            <ul>
+              <li><a href="#hypothesisconcepts">Concepts</a></li>
+              <li><a href="#evaluation">Evaluation Metrics in Natural Language Processing</a></li>
+              <li><a href="#twomeans">Comparing means from two distributions</a></li>
+              <li><a href="#fdist">F Distribution</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#categorical">Categorical Data</a>
+            <ul>
+              <li><a href="#goodness">χ<sup>2</sup> goodness of fit test</a></li>
+              <li><a href="#chisqcomposite">χ<sup>2</sup> Test for a Composite Hypothesis</a></li>
+              <li><a href="#contingency">Contingency Tables</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#nonparametric">Nonparametric Methods</a>
+            <ul>
+              <li><a href="#kolmogorov">Kolmogorov-Smirnov Tests</a></li>
+              <li><a href="#robust">Robust Estimation</a></li>
+            </ul>
+          </li>
+          <li>
+            <a href="#linear">Linear Regression</a>
+            <ul>
+              <li><a href="#leastsquares">Least-Squares</a></li>
+              <li><a href="#regression">Simple Linear Regression</a></li>
+              <li><a href="#general">General Linear Model</a></li>
+              <li><a name="#anova">Analysis of Variance</a></li>
+            </ul>
+          </li>
+          <li><a href="#simulation">Simulation</a></li>
+          <li>
+            <a href="#information">Information Theory</a>
+            <ul>
+              <li><a href="#information_concepts">Concepts</a></li>
+              <li><a href="#asymptotic_equipartition">Asymptotic Equipartition Property</a></li>
+              <li><a href="#compression">Data Compression</a></li>
+            </ul>
+          </li>
+          <li><a href="#references">References</a></li>
+        </ul>
+      </p>
+      <p>
+        This page gives some incomplete notes on statistical background in analyzing Chinese text 
+        and analyzing quality of corpus data.
+        The statistical techniques described here are currently not used in the NTI Reader.
+        Rather, simple counts based on unigram and bigram frequencies are used for word sense
+        disambiguation by the NTI Reader in sentence-based dictionary lookup and HTML gloss generation.
+      </p>
+      <h3><a name="data"></a>Corpus Data</h3>
+      <p>
+        A <strong>corpus</strong> is a collection of texts, which may be used by linguists for studying the 
+        characteristics of language usage. (Bird, <i>Natural Language Processing</i>, 39)
+        The NTI Buddhist Text Reader contains a corpus of Buddhist and classical Chinese texts.
+        A small subset of the corpus is tagged with part-of-speech tags and gloss distinguishing word sense.
+        The organization of the corpus is described on the page
+        <a href="annotation.html">Text Management, Annotation, and Gloss</a> on this web site.
+        The tagging scheme is described on the page <a href="pos_tags.html">Part-of-Speech Tag Definitions</a>.
+        The raw data, including word frequencies, can be found at the 
+        <a href="https://github.com/alexamies/buddhist-dictionary">NTI Buddhist Text Reader GitHub Project</a> in the 
+        data/dictionary folder. They are tab delimited text files.
+      </p>
+      <p>
+        Word frequencies from the tagged subset of the corpus can found in the files
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/unigram.txt">unigram.txt</a>
+        and 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/bigram.txt">bigram.txt</a>
+        These are a tab delimited UTF-8 file with no header row.
+        The unigram.txt file lists single word frequencies in the tagged corpus. 
+        The structure of the unigram.txt file is:
+      </p>
+      <p class='formula'>
+        <pre>
+          pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+          element_text:    The element text in traditional Chinese
+          word_id:         Matching id in the word table (positive integer)
+          frequency:       The frequency of occurrence of the word sense (positive integer)
+        </pre>
+      </p>
+      <p>
+        The <code>word_id</code> matches the numeric id of a word in the dictionary file 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/words.txt">words.txt</a>.
+        Each entry in the words.txt file is a <strong>lexeme</strong> - a single dictionary entry with a single
+        meaning.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 128)
+      </p>
+      <p>
+        The bigram.txt file lists frequencies of two-word combinations.
+        The structure of the bigram.txt file is:
+      </p>
+      <p class='formula'>
+        <pre>
+          pos_tagged_text: The element text with POS tag and gloss in pinyin and English
+          previous_text:   The element text in traditional Chinese
+          element_text:    The element text in traditional Chinese
+          word_id:         Matching id in the word table (positive integer)
+          frequency:       The frequency of occurrence of the word sense (positive integer)
+        </pre>
+      </p>
+      <p>
+        A tab delimited plain text list of summary statistics for the corpus texts is included in the file 
+        <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/stats/corpus_stats.txt">corpus_stats.txt</a>. 
+        The structure of the file is 
+      </p>
+      <p class='formula'>
+        <pre>
+          source_name: the title of the text
+          word_count: the number of words in the text
+          character_count: the number of characters in the text
+          unique_words: the number of unique words in the text
+        </pre>
+      </p>
+      <h3><a name="tools"></a>Software Tools</h3>
+      <p>
+        There are a number of software tools for statistical modeling and may be
+        used for text analysis. The R programming language will be used here.
+        For other languages, examples of basic statistical operations can be
+        found at the pages 
+        <a href='http://rosettacode.org/wiki/Combinations_and_permutations'>Combinations
+        and permutations</a> and <a 
+        href='http://rosettacode.org/wiki/Statistics/Basic'>Statistics/Basic</a>.
+      </p>
+      <h4>R Project for Statistical Computing</h4>
+      <p>
+        The R Project for Statistical Computing (<a href="http://www.r-project.org/">http://www.r-project.org</a>),
+        or simply R, is an open source project, language, and platform.
+        You can freely download and install R for Linux, Mac, and Windows from links in the project web site.
+        The R project web site has links to introductory materials. 
+        I referred to the books by Knell 
+        (Knell,  <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and 
+        Programming in R</i>) and Yau
+        (Yau, <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>)
+        in preparing the commands and scripts presented here.
+      </p>
+      <p>
+        R is a generic statistics platform. It is very handy for working through statistics problems in textbooks
+        and trying stuff out rather than using a piece of paper and calculator or a spreadsheet.
+        In addition, there are a number of packages for R specifically for text analysis. 
+        These can be found in the web page 
+        <a href="http://cran.r-project.org/web/packages/available_packages_by_name.html">Available CRAN Packages By Name</a>.
+        Some examples are: 
+        <a href="http://cran.r-project.org/web/packages/koRpus/index.html">koRpus: An R Package for Text Analysis</a>,
+        <a href="http://cran.r-project.org/web/packages/tau/index.html">tau: Text Analysis Utilities</a>,
+        <a href="http://cran.r-project.org/web/packages/textcat/index.html">textcat: N-Gram Based Text Categorization</a>,
+        and <a href="http://cran.r-project.org/web/packages/tm/index.html">tm: Text Mining Package</a>.
+      </p>
+      <p>
+        After installing R, open the command line interpreter with the command <code>R</code>.
+        The unigram.txt file can be read in to a data frame using the <code>read.table()</code> function, as shown below.
+        Change directories to the directory containing the file first.
+      </p>
+      <p class='formula'>
+        <pre>
+          $ R
+          . . .
+          &gt; names &lt;- c("pos.tagged.text", "element.text", "word.id", "frequency")
+          &gt; unigram &lt;- read.table("unigram.txt", header=FALSE, sep="\t", quote="\"", col.names=names, numerals ="allow.loss")
+          &gt; head(unigram)
+                 pos.tagged.text element.text word.id frequency
+          1   佛/NR[Fó | Buddha]           佛    3618       330
+          2 有/VE[yǒu | to have]           有   32458       249
+          3        於/P[yú | in]           於    1710       220
+          4      不/AD[bù | not]           不     502       218
+          5  人/NN[rén | person]           人     399       212
+          6     諸/DT[zhū | all]           諸    3556       193
+        </pre>
+      </p>
+      <p>
+        The <code>$</code> prompt is shown before a shell command and the <code>&gt;</code> prompt is shown 
+        before an R command.
+        The <code>c()</code> function concatenates the arguments into a vector, which is assigned to the 
+        variable <code>names</code> using the assignment operator <code>&lt;-</code>.
+        The variable <code>names</code> is used for the column names later.
+        The unigram.txt file into the <code>unigram</code> data frame with the <code>read.table()</code> function.
+        The <code>head</code> function prints out the first few lines of the data frame.
+        The UTF-8 encoded Chinese characters are read in by R correctly.
+        The NTI Reader text files are formatted to be loaded into MySQL and there are a few differences with the 
+        basic form of the <code>read.table()</code> function.
+        The format for <code>NULL</code> values in MySQL is <code>\N</code> but R expects <code>NA</code>.
+        So, you will need to be careful if you depend on accurate representation of <code>NULL</code> values.
+        In addition, the NTI Reader files do not have variable names in the first row.
+      </p>
+      <p>
+        The bigram.txt file can be read in to a data frame in a similar way, as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; binames &lt;- c("pos.tagged.text", "previous.text", "element.text", "word.id", "frequency")
+          &gt; bigram &lt;- read.table("bigram.txt", header=FALSE, sep="\t", quote="\"", col.names=binames, numerals ="allow.loss")
+          &gt; head(bigram)
+                pos.tagged.text previous.text element.text word.id frequency
+          1 故/NN[gù | purpose]            以           故    7115        41
+          2  以/P[yǐ | because]            何           以   30648        41
+          3  僧/NN[sēng | monk]            衆           僧    3366        40
+          4    此/DT[cǐ | this]            於           此     624        37
+          5  佛/NR[Fó | Buddha]            諸           佛    3618        34
+          6   塔/NN[tǎ | stupa]            起           塔    3374        34
+
+        </pre>
+      </p>
+      <p>
+        Data can be plotted in R using the <code>plot()</code> function, as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- seq(1, length(unigram$frequency))
+          &gt; plot(x, unigram$frequency, xlab="Rank", ylab="Frequency", pch=20, col="blue")
+        </pre>
+      </p>
+      <p>
+        The <code>seq()</code> function generates a sequence of integers so that the frequency
+        of each word will be plotted from most frequent at the left to least frequent at the right. 
+        The resulting plot is the word frequency versus rank, shown in Figure 1.
+      </p>
+      <p class='picture'>
+        <img src="images/unigram_frequency.png"/><br/>
+        Figure 1: Word Frequency versus Rank
+      </p>
+      <p>
+        The plot in Figure is informative in that it shows that only a handful of words have a high frequency
+        and the vast majority is a long tail with frequency 1.
+        This is a phenomenon in word frequencies for natural language in general.
+        (Manning and Schütze </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 23-27)
+        An early model for the relation between word frequency and rank is <strong>Zipf's law</strong> that states 
+        that word frequency f is inversely proportional to rank r.
+      </p>
+      <p class='formula'>
+        f ∝ 1/r
+      </p>
+      <p>
+        (Manning and Schütze </i>Foundations of Statistical Natural Language Processing. Cambridge</i>, 24)
+      </p>
+      <p>
+        To generate an image file for that plot and the others in this page, pull the project from GitHub, 
+        change to the top level directory in the project and type the command 
+      </p>
+      <p class='formula'>
+        <pre>
+          $ Rscript r/generate_images.R
+        </pre>
+      </p>
+      <p>
+        This is a useful diagram because it shows the breadth and depth of the corpus at a glance. The corpus
+        only has about 3,200 unique words and only has a substantial frequency for only about 200 of these words.
+      </p>
+      <p>
+        You will need to install the R <code>showtext</code> package to properly display Chinese text on R generated graphics.
+        Use the commands below to install <code>showtext</code>.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; install.packages("showtext")
+          &gt; library(showtext)
+        </pre>
+      <p>
+        You can make a histogram plot of the frequency data using the <code>barplot()</code> function, as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; freq &lt;- as.vector(as.matrix(unigram[4])[1:8, 1])
+          &gt; freq.labels &lt;- as.vector(as.matrix(unigram[2])[1:8, 1])
+          &gt; showtext.begin()
+          &gt; barplot(freq, names.arg=freq.labels, ylab="Frequency", col="steelblue")
+          &gt; showtext.end()
+        </pre>
+      </p>
+      <p>
+        A subset of fourth column of the unigram data.frame is read into the variable <code>freq</code>, after being converted to a vector.
+        The labels are the Chinese text for each word taken from column 2.
+        Rather than generate the graph in a window, the code above writes it to a png file.
+        The <code>showtext.begin()</code> needs to be called before generating the graph.
+        When <code>dev.off()</code> is called the file will be written.
+        The chart generated is shown in Figure 2.
+      </p>
+      <p class='picture'>
+        <img src="images/ungram_barplot.png"/><br/>
+        Figure 2: Word Frequency Bar Plot for a Subset of the Data
+      </p>
+      <h3><a name="concepts"></a>Concepts</h3>
+      <h4><a name="probability"></a>Probability</h4>
+      <p>
+        Suppose that we need to choose between one of two options and each option was equally likely.
+        Then each option would have a 1/2 or 50% <strong>probability</strong> of being correct.
+        For example, suppose we see the English word <i>butter</i> in a text and we need to decide whether the noun
+        meaning <i>the butter in the fridge</i> is intended or the verb, as in <i>please butter the toast</i>, is intended.
+        To find out the probability of the intended sense then you might look at the surrounding words or you might
+        guess that the noun meaning a particular dairy product in the fridge is more likely, in general.
+        One of the goals of the NTI Reader is to help the user decide which is the most appropriate word sense
+        and part of speech.
+        These are classic problems in natural language processing and ones that are still problematic today.
+        The technique used is to tag all the words in a subset of the corpus and tally up the different word senses found.
+        It has been found that simply using the most common part of speech of words with multiple possible parts of speech
+        results in selection of the correct part of speech about 90% of the time, for English text.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 344)
+        The success rate may be lower for Chinese due to the long historic period of written Chinese covered and the 
+        changing predominant word sense over time.
+      </p>
+      <p>
+        <strong>Example</strong>: Suppose that we wish to find the probability of choosing the right meaning 
+        of the character 法 (fǎ).
+        法 (fǎ) most often means the noun "law" or the noun "method" in modern Chinese. 
+        However, in Buddhist texts written in literary Chinese, 法 might mean the proper noun "Dharma" 
+        (the teachings of the Buddha), teachings in general, or the noun "dharma" (phenomenon).
+        The word frequencies for each sense can be found from the unigram table using the following
+        R commands.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; fa &lt;- subset(unigram, element.text=="法")
+          &gt; fa
+                          pos.tagged.text element.text word.id frequency
+          10          法/NN[fǎ | a dhárma]           法   17994        74
+          1253          法/NR[Fǎ | Dhárma]           法    3509         1
+          1376 法/NN[fǎ | a mental object]           法   32204         1
+          1397          法/NN[fǎ | method]           法    3506         1
+          &gt; PrA = fa$frequency[1] / sum(fa$frequency)
+          &gt; PrA
+          [1] 0.961039
+        </pre>
+      </p>
+      <p>
+        The <code>subset()</code> function selects a subset of the unigram table with the value of element_text equal to "法".
+        The total number of occurrences of 法 in the tagged corpus is <code>sum(fa$frequency) = 74 + 1 + 1 + 1 = 77</code>.
+        So the probability of any one occurrence of 法 being the noun (NN) meaning "a dhárma" (a teaching) is 
+        <code>74/77 = 0.961</code>. 
+        If we had no other information about the context of a occurrence of 法, then we would guess that it would mean
+        a dhárma. ▢
+      </p>
+      <p>
+        The <strong>conditional probability</strong> of an event A given that we know an event B has already occurred is written Pr(A|B).
+        It can be computed as 
+      </p>
+      <p class='formula'>
+        Pr(A|B) = Pr(A ∩ B) / Pr(B)
+      </p>
+      <p>
+        This assumes that Pr(B) &gt; 0. (DeGroot and Morris, <i>Probability and Statistics</i>, 56)
+      </p>
+      <p>
+        <strong>Example</strong>: If we know the word before 法, it may give us a better chance at picking the correct
+        word sense. This is an example of conditional probability
+        We can use the bigram table to compute the conditional probability of the word sense of 法.
+        Suppose the word before is 說 shuō "to say" in modern Chinese but more commonly "to teach" in 
+        literary Chinese.
+        That would make the phrase be 說法 "to teach a dhárma."
+        Let A = the proper meaning of 法 in this instance is 法/NN[fǎ | a dhárma].
+        Let B = the word before 法 is 說.
+        The conditional probability can be computed using the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; subset(subset(bigram, element.text=="法"), previous.text=="說")
+                 pos.tagged.text previous.text element.text word.id frequency
+          34 法/NN[fǎ | a dhárma]            說           法   17994         9
+        </pre>
+      </p>
+      <p class='formula'>
+        Pr(A|B) = 9 / 9 = 1.0
+      </p>
+      <p>
+        That is, whenever the word before 法 is 說 then the proper word sense is always 法/NN[fǎ | a dhárma].
+        The interpretation of this is that the previous word is a very good predictor of word sense,
+        in this case. ▢
+      </p>
+      <p>
+        Two events A and B are <strong>independent</strong> if the occurrence of one does not affect the occurrence of the other. 
+        If this is true then
+      </p>
+      <p class='formula'>
+        Pr(A ∩ B) = Pr(A) Pr(B)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 66)
+      </p>
+      <p>
+        A <strong>random variable</strong> is a real-valued function in a sample space S. (DeGroot and Morris, <i>Probability and Statistics</i>, 93)
+      </p>
+      <p>
+        The <strong>probability function</strong> of a discrete random variable X is the function
+      </p>
+      <p class='formula'>
+        ƒ(x) = Pr(X = x)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 96)
+        In linguistics discrete random variables, like word frequency, are more common but continuous random
+        variables may also be used, for example the word frequency of a specific word per 1,000 words of text.
+        The equivalent function for a continuous random variable is called the 
+        <strong>probability density function</strong> (pdf).
+      </p>
+      <p>
+        The <strong>cummulative distribution function</strong> (cdf) of a random variable X is 
+      </p>
+      <p class='formula'>
+        F(x) = Pr(X ≤ x) for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 108)
+      </p>
+      <p>
+        The <strong>quantile function</strong> F<sup>-1</sup>(p) of a random variable X is the inverse of the cdf,
+        which is also the smallest value x  with F(x) ≥ p. The variable p is the probability.
+        F<sup>-1</sup>(p) is the p quantile of X or 100p percentile.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 112)
+        A <strong>quartile</strong> is found by sorting the data and then dividing it into four equal groups.
+        The <strong>interquartile range</strong> is the middle two quartiles or, in other words, the range 
+        between the 25 and 75th percentiles.
+        Quartile and range information can be found using the R function <code>summary()</code>.
+        The quantile can be found using the R function <code>qt()</code>.
+        The interquartile range can be found using the R function <code>IQR()</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: 
+        Summary data for the word frequency data can be found as follows.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; summary(unigram$frequency)
+          Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+          1.000   1.000   1.000   4.357   3.000 137.000 
+          &gt; length(unigram$frequency)
+          [1] 1646
+        </pre>
+      </p>
+      <p>
+        The <code>length()</code> function gives the number of items in the data set, which shows that there
+        are only 3,200 unique words in the tagged corpus. ▢
+      </p>
+      <p>
+        The <strong>joint probability function</strong> of two random variables X and Y is 
+      </p>
+      <p class='formula'>
+        ƒ(x, y) = Pr(X = x and Y = y)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 119)
+      </p>
+      <p>
+        The <strong>marginal cdf</strong> of a joint probability function of two discrete random variables X and Y is 
+        summed over all possible values of y. In symbols,
+      </p>
+      <p class='formula'>
+        ƒ<sub>1</sub>(x) = ∑<sub>All y</sub> ƒ(x, y)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 131)
+      </p>
+      <h4><a name="expectation"></a>Expectation</h4>
+      <p>
+        The <strong>expectation</strong> or of a random variable is its <strong>mean</strong>.
+        The expectation of a discrete random variable X with probability function f is defined as 
+      </p>
+      <p class='formula'>
+        E(X) = Σ<sub>All x</sub> x ƒ(x)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 208)
+        The <strong>median</strong> is another measure of central tendency, which separates the lower half from
+        the upper half of a set of numbers. It can be more useful than the mean
+        when dealing with small integers or highly skewed data.
+        The mean of a vector of numbers can be found with the R function <code>mean()</code> and the median 
+        can be found with the function <code>median()</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: 
+        The values of mean and median for word frequency in the NTI Reader tagged corpus can be found with the 
+        R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; mean(unigram$frequency)
+          [1] 4.708101
+          &gt; median(unigram$frequency)
+          [1] 1
+        </pre>
+      </p>
+      <p>
+        This can give some idea of the adequacy of the size of the tagged corpus.
+        A mean frequency of about 4.7 word occurrences and a median of 1 in the tagged corpus makes the tagged corpus
+        seem kind of small. We need to do more analysis to understand what might be really sufficient. ▢
+      </p>
+      <p>
+        Some distributions do not have a mean. The Cauchy distribution below is an example of a function with no mean.
+      </p>
+      <p class='formula'>
+        ƒ(x) = 1/[π(1 + x<sup>2</sup>)] for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 210)
+      </p>
+      <p>
+        The <strong>variance</strong> of a random variable X with mean μ is defined as
+      </p>
+      <p class='formula'>
+        Var(X) = E[(X - μ)<sup>2</sup>] 
+      </p>
+      <p>
+        The <strong>variance</strong> of a discrete random variable X with mean μ can be computed with the sum
+      </p>
+      <p class='formula'>
+        Var(X) = (1/n) ∑<sub>all i</sub>(X<sub>i</sub> - μ)<sup>2</sup>
+      </p>
+      <p>
+        The <strong>standard deviation</strong> is the square root of the variance.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 226)
+      </p>
+      <p>
+        <strong>Example</strong>: 
+        The variance and standard deviation of word frequency in the NTI Reader tagged corpus can be found with the 
+        R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &gt;- unigram$frequency
+          &gt; v &lt;- sum((x-mean(x))^2)/(length(x)) 
+          &gt; v
+          [1] 140.0195
+          &gt; sqrt(v)
+          [1] 11.83299
+        </pre>
+      </p>
+      <p>
+        The variance is about 140.0 and the standard deviation about 11.8. ▢
+      </p>
+      <p>
+        The <strong>covariance</strong> of random variables X and Y with means μ<sub>x</sub> and μ<sub>y</sub> 
+        is defined as
+      </p>
+      <p class='formula'>
+        Cov(X, Y) = E[(X - μ<sub>x</sub>)(Y - μ<sub>y</sub>)]
+      </p>
+      <p>
+        assuming that the expectation exists.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 248)
+        The <strong>sample covariance</strong> corrects for sampling from a larger population. 
+        It is given by the formula:
+      </p>
+      <p class='formula'>
+        Cov<sub>x, y</sub> = ∑(x - x̄)(y - ȳ)/(n - 1)
+      </p>
+      <p>
+        where x̄ and ȳ are the sample means and n - 1 is the degrees of freedom.
+        (Knell, <i>Introductory R</i>, 211)
+        The sample covariance can be computed using the R function <code>cov()</code>.
+      </p>
+      <p>
+        The <strong>correlation</strong> of random variables X and Y with variances σ<sub>x</sub><sup>2</sup> and 
+        σ<sub>y</sub><sup>2</sup> is defined as
+      </p>
+      <p class='formula'>
+        ρ(X, Y) = Cov(X, Y) / [σ<sub>x</sub>σ<sub>y</sub>]
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 250)
+        The correlation for a sample can be computed from the formula
+      </p>
+      <p class='formula'>
+        r = Σ(x - x̄)(y - ȳ)/[(n - 1)(s<sub>x</sub> s<sub>y</sub>)]
+      </p>
+      <p>
+        where s<sub>x</sub> and s<sub>y</sub> are the sample standard deviations.
+        (Knell, <i>Introductory R</i>, 212)
+        The sample correlation can be computed using the R function <code>cor()</code>.
+      </p>
+     <p>
+        <strong>Example</strong>: Let's find the correlation between text size
+        and the number of unique words in different texts in the corpus.
+        We can load the file corpus_stats.txt, containing the summary statistics of the corpus texts, 
+        print out the first row of data, print a summary of the distribution of unique words,
+        find the correlation, and draw a plot with these R commands.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; corpusstats &lt;- read.table("../stats/corpus_stats.txt", sep="\t", quote="\"", numerals ="allow.loss", header=TRUE)
+          &gt; corpusstats[1,]
+                             source.name word.count character.count unique.words
+          1 Diamond Sūtra 金剛般若波羅蜜經       3407            5307          534
+          &gt; summary(corpusstats$unique.words)
+          Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+          15.0   122.2   580.5   962.2  1661.0  5145.0 
+          &gt; cor(corpusstats$word.count, corpusstats$unique.words)
+          [1] 0.7266394
+          &gt; plot(corpusstats$word.count, corpusstats$unique.words, xlab="Word Count", ylab="Unique Words", pch=17, col="blue")
+        </pre>
+      </p>
+      <p>
+        This particular file does have column headers in the first row that are automatically used by R 
+        as column names in the data frame.
+        The image generated is shown in Figure 3.
+      </p>
+      <p class='picture'>
+        <img src="images/unique_words.png"/><br/>
+        Figure 3: Variation of Unique Words with Text Size
+      </p>
+      <p>
+        From the correlation value there r = 0.727 there is clearly a correlation between text length and number of 
+        unique words. However, from Figure 3 we can see that it is consistent but not linear. 
+        The number of unique words eventually
+        begins to flatten out with really long texts. Since the set of words in a text may include proper nouns, 
+        such as person and place names, the number of unique words is practically unlimited.
+        It is useful to consider the summary of unique words with the unigram data for the tagged corpus.
+        The third quartile value is 1661, which is greater than the total number of unique words in the 
+        tagged corpus. So, there are at least 25% of the texts in the corpus that have more unique words than 
+        we have word frequency data for. Clearly, we are short of coverage on word frequency.
+      </p>
+      <h4><a name="entropy"></a>Entropy</h4>
+      <p>
+        <strong>Entropy</strong> is a measure of the amount of information in a distribution.
+        The entropy H(X) of a discrete random variable X is defined as
+      </p>
+      <p class='formula'>
+        H(X) = -∑<sub>x∈<span class="cursive">X</span></sub>p(x)log<sub>2</sub>p(x)
+      </p>
+      <p>
+        where x is a value of the random variable X, which is one of a number of symbols in an 
+        alphabet <span class="cursive">X</span>. Entropy is measured in bits.
+        (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 61; Cover and Thomas. <i>Elements of Information Theory</i>, 2012, ch. 2.1)
+        For example, the possible values for X are the values in an 8 letter alphabet, each with equally likely 
+        probability of occuring, then the entropy is 
+      </p>
+      <p class='formula'>
+        H(X) = -∑<sub>i=1..8</sub>(1/8)log<sub>2</sub>(1/8) = log<sub>2</sub>(8) = 3
+      </p>
+      <p>
+        So, a uniform distribution over the alphabet has 3 bits of information. 
+        In other words, the most efficient way of encoding the alphabet is with 3 bits.
+      </p>
+      <p>
+        Manning and Schütze explain word sense disambiguation with entropy.
+        The approach described selects the word sense that maximizes the mutual entropy with the
+        surrounding words.
+        (Manning and Schütze. <i>Statistical Natural Language Processing</i>, 239-241)
+      </p>
+      <h4><a name="markov"></a>Markov Models</h4>
+      <p>
+        A <strong>stochastic process</strong> is a sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... at discrete points
+        in time. A <strong>Markov chain</strong> is a stochastic process where the conditional distributions of all X<sub>n+j</sub>
+        depend only on X<sub>n</sub> and not only earlier states.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 188)
+      </p>
+      <p>
+        The <strong>transition distributions</strong> of a Markov chain are the conditional probabilities 
+      </p>
+      <p class='formula'>
+        p<sub>ij</sub> = Pr(X<sub>n+1</sub>=j|X<sub>n</sub>=i)
+      </p>
+      <p>
+        where the random variables X<sub>n</sub> can have k possible states.
+        A <strong>transition matrix</strong> is a matrix <strong>P</strong> = [p<sub>ij</sub>] made up of the conditional probabilities of the 
+        transition distributions.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 190-192)
+      </p>
+      <p>
+        A <strong>hidden Markov model</strong> is a Markov model where the state of the model is not known directly.
+        Only the expression of the state may be observed.
+        There is a level of probability between the state of the model and the expression of the state.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 320-321)
+      </p>
+      <p>
+        Manning and Schütze describe using a Markov model for a part-of-speech (POS) bigram tagger.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 345-349)
+        The state of the model is given by the POS tag t<sub>i</sub> for a word w<sub>i</sub> at position i
+        in the text.
+        The tags are the Brown Corpus tags that only give the POS, not the specific meaning of a word, like
+        the NTI Chinese corpus.
+        For example, move/VB, the tag VB indictes a verb. 
+        We estimate the transition matrix with a <strong>training set</strong> of tagged data and use it 
+        to predict tags in a <strong>test set</strong>.
+        The model is a hidden Markov model because in the test data we do not know the values of the tags, 
+        just their expression in particular words.
+        The following assumptions are made
+      </p>
+      <p>
+        <ul>
+          <li>
+            The value of a tag only depends on the previous tag. This is the limited horizon assumption.
+          </li>
+          <li>The words are independent of each other.</li>
+          <li>
+            The sense of a word only depends on its tag. For example, we can assume that the noun
+            butter means <i>the butter in the fridge</i> and there are no other nouns with a different
+            meaning to this. This assumption may be valid most of the time for English but would
+            probably not be valid for literary Chinese.
+          </li>
+        </ul>
+      </p>
+      <p>
+        The probability Pr(t<sup>k</sup>|t<sup>j</sup>)
+        of the kth tag t<sup>k</sup> in the tagset following the tag t<sup>j</sup> is
+      </p>
+      <p class='formula'>
+        Pr(t<sup>k</sup>|t<sup>j</sup>) = C(t<sup>k</sup>, t<sup>j</sup>) / C(t<sup>j</sup>)
+      </p>
+      <p>
+        where C(t<sup>k</sup>, t<sup>j</sup>) is the count of tag t<sup>k</sup> following t<sup>j</sup>
+        and C(t<sup>j</sup>) is the count of tag t<sup>j</sup>.
+        The probability of word w<sup>l</sup>, the lth word in the lexicon, being associated with
+        tag t<sup>j</sup> is 
+      </p>
+      <p class='formula'>
+        Pr(w<sup>l</sup>|t<sup>j</sup>) = C(w<sup>l</sup> : t<sup>j</sup>) / C(t<sup>j</sup>)
+      </p>
+      <p>
+        where C(w<sup>l</sup> : t<sup>j</sup>) is the count of word w<sup>l</sup> tagged as t<sup>j</sup>.
+        The optimal series of tags for a sentence is found by optimizing the Maximum Likelihood Estimator
+        Pr(w<sup>l</sup>|t<sup>j</sup>) over all words the training set.
+        Since the computation can be computationally intensive, the Vibeti algorithm, which optimizes using
+        memoization is suggested.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 326-336)
+        Code for a POS Tagger based on a hidden Markov model can be found at 
+        <a href='http://en.literateprograms.org/'>LiteratePrograms</a> (See 
+        <a href='http://en.literateprograms.org/POS_tagger_(Java)'>POS_tagger_(Java)</a>).
+      </p>
+      <p>
+        The current version of the NTI Reader sentence-based dictionary lookup and HTML gloss generator uses
+        word-sense disambiguation based on bigram frequency with fallback to unigram frequency.
+        That is, rather than using a true statistical estimation technique, like the Markov model approach
+        described here, the NTI Reader uses the most common bigram frequency to decide on word sense for a 
+        word in a sequence of words. When the reader has never seen a bigram sequence before, it falls back
+        on the unigram frequency to select the word sense. 
+        Manning and Schütze describe combining bigram, unigram, and trigram Markov models using linear
+        interpolation and toher techniques.
+        (Manning and Schütze, <i>Natural Language Processing</i>, 353-354)
+        In fact, handling of previously unseen words is a major problem using Markov models for text
+        processing, even with large corpuses.
+        POS tags for unknown words in English text may be guessed based on capitalization and word ending
+        but that is not possible in Chinese text.
+        (Manning and Schütze, <i>Natural Language Processing</i>, 351-352)
+      </p>
+      <p>
+        Manning and Schütze report accuracies of POS tagging in English of up to 95% to 97%.
+        (Manning and Schütze, <i>Natural Language Processing</i>, 371)
+        One would expect Chinese to be a good language for bigram hidden Markov model taggers because 
+        word order is fundamental to grammatical structure in Chinese. 
+        This may not be the case for Sanskrit, where word morphology is more important than word order.
+      </p>
+      <h3><a name="special"></a>Special Distributions</h3>
+      <h4><a name="bernoulli"></a>Bernoulli Distribution</h4>
+      <p>
+        The <strong>Bernoulli distribution</strong> for random variable X, which can only take the values 0 and 1,
+        with parameter p (0 ≤ p ≤ 1) has the probabilities
+      </p>
+      <p class='formula'>
+        Pr(X = 1) = p and Pr(X = 0) = 1 - p
+      </p>
+      <p>
+        An sequence random variables with the Bernoulli distribution are called <strong>Bernoulli trials</strong>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 276)
+      </p>
+      <h4><a name="binomial"></a>Binomial Distribution</h4>
+      <p>
+        The <strong>binomial distribution</strong> with integer parameter n and continuous parameter p (0 ≤ p ≤ 1)
+        is defined as 
+      </p>
+      <p class='formula'>
+         ƒ(x|n,p) = (n ¦ x) p<sup>x</sup>(1 - p)<sup>n-x</sup> for x = 0, 1, 2, ... and 0 otherwise
+      </p>
+      <p>
+        where (n ¦ x) is the binomial coefficient n!/[x!(n - x)].
+        The mean and variance are
+      </p>
+      <p class='formula'>
+         E(X) = np
+      </p>
+      <p class='formula'>
+         Var(X) = np(1 - p)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 277)
+        The R function to compute the binomial probability is <code>dbinom()</code>.
+        The commands to plot a binomial distribution with parameters n = 20 and p = 0.5 are shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+         &gt; x &lt;- seq(1, 20)
+         &gt; plot(x, dbinom(x, 20, 0.5), xlab="x", ylab="Frequency", pch=17, col="blue")
+        </pre>
+      </p>
+      <p>
+        The <code>plot()</code> function takes a sequence of integers <code>x</code> from 1 to 20
+        and plots the binomial probability for each value.
+        The graph generated is shown in Figure 4.
+      </p>
+      <p class='picture'>
+        <img src="images/binomial05.png"/><br/>
+        Figure 4: Binomial Distribution with Parameters n = 20 and p = 0.5
+      </p>
+      <h4><a name="poisson"></a>Poisson Distribution</h4>
+      <p>
+        The <strong>Poisson distribution</strong> for random variable X with mean λ is defined as
+      </p>
+      <p class='formula'>
+         ƒ(x|λ) = e<sup>-λ</sup> λ<sup>x</sup>/x! for x = 0, 1, 2, ... and 0 otherwise.
+      </p>
+      <p>
+        The variance of the Poisson distribution is also λ.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 288-290)
+        The <code>dpois()</code> R function can be used to compute values of the Poisson distribution.
+        This is demonstrated with the R commands below, which generate a graph of the 
+        Poisson distribution with λ = 3.0.
+      </p>
+      <p class='formula'>
+        <pre>
+         &gt; x &lt;- seq(1, 10)
+         &gt; plot(x, dpois(x, 3.0), xlab="x", ylab="Frequency", pch=17, col="blue")
+        </pre>
+      </p>
+      <p>
+        The graph generated is shown in Figure 5.
+      </p>
+      <p class='picture'>
+        <img src="images/poisson_lambda3.png"/><br/>
+        Figure 5: Poisson Distribution with λ = 3.0
+      </p>
+      <h4><a name="normal"></a>Normal Distribution</h4>
+      <p>
+        The <strong>normal distribution</strong> for the continuous random variable X with mean μ and 
+        standard deviation σ is defined as
+      </p>
+      <p class='formula'>
+         ƒ(x|μ, σ) = [1/σ√(2π)] exp[-0.5((x - μ)/σ)<sup>2</sup>] for -∞ &lt; x &lt; ∞
+      </p>
+      <p>
+        The <strong>standard normal distribution</strong> has mean μ = 0 and standard deviation σ = 1.
+        It is given by the equation
+      </p>
+      <p class='formula'>
+         ƒ(z|μ, σ) = [1/√(2π)] exp[-0.5((z)/σ)<sup>2</sup>] for -∞ &lt; z &lt; ∞
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 307)
+        The standard normal distribution can be plotted using the <code>curve()</code> function in R, as shown below.
+      <p class='formula'>
+        <pre>
+          &gt; curve(dnorm(x), -3, 3, xlab="z", ylab="Probability Density", col="blue")
+        </pre>
+      </p>
+      <p>
+        The graph generated is shown in Figure 6.
+      </p>
+      <p class='picture'>
+        <img src="images/standard_normal.png"/><br/>
+        Figure 6: Standard Normal Distribution
+      </p>
+      <p>
+        A random variable X with mean μ and standard deviation σ can be transformed with to 
+        the standard normal distribution with the equation
+      </p>
+      <p class='formula'>
+         z = (x - μ)/σ
+      </p>
+      <p>
+        The cumulative distribution F(x) of a normal distribution can be computed in R with the function 
+        <code>pnorm(q, mean = 0, sd = 1</code>.
+        The quantile function F<sup>-1</sup>(x) can be computed with and <code>qnorm(p, mean = 0, sd = 1</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: Following Example 5.6.4 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 308)
+        the probability of a random variable from a normal distribution with mean 5 and standard deviation
+        2 being greater than 1 and less than 8 is
+      </p>
+      <p class='formula'>
+         Pr(1 &lt; X &lt; 8) = Pr(X &lt; 8) - Pr(X &lt; 1)
+      </p>
+      <p>
+        This can be computed with R command
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; pnorm(8, mean = 5, sd = 2) - pnorm(1, mean = 5, sd = 2)
+          [1] 0.9104427
+        </pre>
+      </p>
+      <p>
+        So the probability that X is greater than 1 and less than 8 is 0.91. ▢
+      </p>
+      <p>
+        The normal distribution is a good approximation for variables in many random processes.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 303)
+        The <strong>Central Limit Theorem</strong> states that the distribution of a sum of 
+        random variables Σ<sub>i=1</sub><sup>n</sup> X<sub>i</sub>  with any distribution will be
+        approximately the normal distribution with mean nμ and variance nσ<sup>2</sup>, as
+        n becomes large.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 361)
+      </p>
+      <h4><a name="gamma"></a>Gamma Distribution</h4>
+      <p>
+        The <strong>gamma distribution</strong> for the continuous random variable X with parameters 
+        α and β is 
+      </p>
+      <p class='formula'>
+         ƒ(x|α, β) = [β<sup>α</sup> / Γ(α)] x<sup>α-1</sup> e<sup>-βx</sup> for x &gt; 0 or 0 otherwise
+      </p>
+      <p>
+        where Γ(α) is the gamma function. 
+        The mean of the gamma distribution is α/β and the variance is α/β<sup>2</sup>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 319-320)
+      </p>
+      <h4><a name="exponential"></a>Exponential Distribution</h4>
+      <p>
+        The <strong>exponential distribution</strong> for the continuous random variable X with parameter β is
+      </p>
+      <p class='formula'>
+         ƒ(x|β) = βe<sup>-βx</sup> for x &gt; 0 or 0 otherwise
+      </p>
+      <p>
+        The exponential distribution is a special case of the gamma distribution with α = 1.
+        The mean of the exponential distribution is 1/β and the variance is 1/β<sup>2</sup>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 321)
+        The exponential distribution can be drawn with the R command below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; curve(0.8*exp(-0.8*x), 0, 5, xlab="x", ylab="Probability Density", col="blue")
+        </pre>
+      </p>
+      <p>
+        The generated graph is shown in Figure 7.
+      </p>
+      <p class='picture'>
+        <img src="images/exponential_distribution08.png"/><br/>
+        Figure 7: Exponential Distribution (β = 0.8)
+      </p>
+      <h4><a name="beta"></a>Beta Distribution</h4>
+      <p>
+        The <strong>beta distribution</strong> for the continuous random variable X with parameters α and β is
+      </p>
+      <p class='formula'>
+         ƒ(x|α, β) = [Γ<sup>β+α</sup> / (Γ(α) Γ(β))] x<sup>α-1</sup> (1 - x)<sup>β-1</sup> for 0 &lt; x &lt; 1 or 0 otherwise
+      </p>
+      <p>
+        The mean of the beta distribution is 
+      </p>
+      <p class='formula'>
+        E(X) = α/(α + β)
+      </p>
+      <p>
+        The variance of the beta distribution is 
+      </p>
+      <p class='formula'>
+        Var(X) = αβ/[(α + β)<sup>2</sup>(α + β + 1)]
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 328-329)
+      </p>
+      <h4><a name="multinomial"></a>Multinomial Distribution</h4>
+      <p>
+        The <strong>multinomial distribution</strong> for the discrete random vector 
+        <strong>X</strong> = (X<sub>1</sub>, X<sub>2</sub>, ... X<sub>k</sub>) having probabilities
+        <strong>p</strong> = (p<sub>1</sub>, p<sub>2</sub>, ... p<sub>k</sub>) 
+        with n items selected is defined as
+      </p>
+      <p class='formula'>
+         f(<strong>X</strong>|n, <strong>p</strong>) = [n!/(x<sub>1</sub> x<sub>2</sub> ... x<sub>k</sub>)]
+         p<sub>1</sub><sup>x<sub>1</sub></sup> p<sub>2</sub><sup>x<sub>2</sub></sup> ... p<sub>k</sub><sup>x<sub>k</sub></sup>
+      </p>
+      <p>
+        if x<sub>1</sub> + x<sub>2</sub> + ... x<sub>k</sub> = n or 0 otherwise.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 334)
+        The multinomial distribution is appropriate for distributions into sets that are not necessarily numbers,
+        for example, the frequencies of words of different part of speech values.
+      </p>
+       <h3><a name="estimation"></a>Statistical Estimation</h3>
+      <p>
+        A <strong>statistical model</strong> is a collection of random variables, identification of probability
+        distributions for the variables, and the set of parameters that the distributions require values for.
+        <strong>Statistical inference</strong> is a probabilistic statement about a statistical model.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 377-378)
+        For example, the approximate date of a document may be inferred from the vocabulary in it.
+        (Krippendorff, <i>Content Analysis</i>, 42)
+        In a Buddhist text mention of copying sutras or description of devotional practices may help provide information for the date
+        for the text. The data may be recorded as 0 (not present) and 1 (present) or as a word frequency.
+      </p>
+      <p>
+        A <strong>statistic</strong> is a function of a set of random variables. For example, mean, median, 
+        and variance are statistics.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 382)
+      </p>
+      <p>
+        Parameters in probability distributions are usually unknown and needed to be estimated with statistical methods.
+        So the parameters themselves can be considered simply as unknown constants or to have probability distributions
+        themselves.
+        The <strong>prior distribution</strong> of a parameter θ is the probability distribution ζ(θ) assumed before
+        experimental observations are applied to estimate its value.
+        The <strong>posterior distribution</strong> ζ(θ|x<sub>1</sub>, ... x<sub>n</sub>) 
+        is the conditional distribution after the random variables X<sub>1</sub>, ... X<sub>n</sub> have been observed.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 385-387)
+        The <strong>likelihood function</strong> f<sub>n</sub>(<strong>x</strong>|θ) is the joint probability function
+        of the random variables <strong>x</strong> = (x<sub>1</sub>, ... x<sub>n</sub>) and the parameter θ.
+        The likelihood function can be used to relate teh prior and posterior distributions,
+      </p>
+      <p class='formula'>
+         ζ(θ|<strong>x</strong>) ∝ ƒ<sub>n</sub>(<strong>x</strong>|θ) ζ(θ)
+      </p>
+      <p>
+        The constant of proportionality can be found from equating the total probability to 1.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 390)
+      </p>
+      <p>
+        A <strong>conjugate family of prior distributions</strong> is a family of possible distributions for ζ(θ) where 
+        the posterior distribution also belongs to the same family. 
+        The family of gamma distributions is a conjugate family of prior distributions for Poisson distributions of
+        the random variables X<sub>1</sub>, ... X<sub>n</sub> when the parameter θ is unknown.
+        The family of normal distributions is itself a conjugate family of prior distributions for normal distributions of
+        X<sub>1</sub>, ... X<sub>n</sub> when the mean is unknown but the variance is known.
+        The family of gamma distributions is also a conjugate family of prior distributions for exponential distributions of
+        X<sub>1</sub>, ... X<sub>n</sub> when the value of the parameter θ is unknown.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 395-402)
+      </p>
+      <p>
+        An <strong>estimator</strong> δ(X<sub>1</sub>, ... X<sub>n</sub>) gives an estimate of the parameter θ using
+        observed values of the data <strong>x</strong> = (x<sub>1</sub>, ... x<sub>n</sub>). 
+        A <strong>loss function</strong> L(θ, a) quantifies the effect of the difference between the estimate a of θ
+        and the true value.
+        A <strong>Bayes estimator</strong> δ*(<strong>x</strong>) minimizes the expected value of the loss function.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 408-409)
+      </p>
+      <p>
+        The squared error loss function is defined as 
+      </p>
+      <p class='formula'>
+         L(θ, a) = (θ - a)<sup>2</sup>
+      </p>
+      <p>
+        When the squared error loss function is used the Bayes estimator is the posterior mean value of θ.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 411)
+      </p>
+      <p>
+        Manning and Schütze describe word sense disambiguation with Bayesian classification using maximum likelihood
+        estimators.
+        The authors give the examples of ambiguous words in English, including duty (a task or a tax)
+        and land (to stand on land or to land a plane).
+        The decision is based on conditional probability, given the context of the word.
+        Different contexts have been experimented with, including the object of a verb and the surrounding words.
+        The decision rule for selecting a word sense is optimal in the sense that it minimizes the 
+        chance for error in a training data set.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 235-239)
+      </p>
+      <p>
+        Another approach to estimating parameters maximizes the probability of observed data.
+        A <strong>likelihood function</strong> f<sub>n</sub>(<strong>x</strong>|θ) is a joint pdf for 
+        continuous random variables or joint pf
+        for discrete random variables with the parameter θ considered part of the joint distribution.
+        A <strong>maximum likelihood estimator</strong> maximizes the value of f<sub>n</sub>(<strong>x</strong>|θ).
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 418)
+        This approach avoids the need to assume a probability distribution for θ. However, the drawback is that
+        is may not always give a good estimate for θ and sometimes it may not exist at all.
+      </p>
+      <h3><a name="sampling"></a>Sampling</h3>
+      <p>
+        A <strong>sampling distribution</strong> is the distribution of a statistic T of a set of random variables 
+        <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) that are a sample of the random variable X
+        with distribution having a parameter θ. 
+        A sampling distribution can be used to determine how good an estimate θ̂ of the parameter θ is.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 465) 
+      </p>
+      <p>
+        The <strong>chi-square</strong> χ<sup>2</sup> distribution with m degrees of freedom 
+        is the gamma distribution with α = m/2 and β = ½.
+        This can be written as
+      </p>
+      <p class='formula'>
+         ƒ(x) = 1/(2<sup>m/2</sup> Γ(m/2)) x<sup>(m/2)-1</sup> e<sup>-x/2</sup>   for x &gt; 0.
+      </p>
+      <p>
+        The mean of the χ<sup>2</sup> distribution is E(X) = m. 
+        The variance is Var(X) = 2m.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 469-470) 
+        The χ<sup>2</sup> distribution can computed with the R <code>dchisq()</code> function.
+        The χ<sup>2</sup> distribution with 5 degrees of freedom can be drawn in R
+        using the command below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; curve(dchisq(x, df=5), 0, 20, xlab="x", ylab="Chi Square", col="blue")
+        </pre>
+      </p>
+      <p>
+        The result is shown in Figure 8.
+      </p>
+      <p class='picture'>
+        <img src="images/chi_square_df5.png"/><br/>
+        Figure 8: χ<sup>2</sup> Distribution with 5 Degrees of Freedom
+      </p>
+      <p>
+        The χ<sup>2</sup> distribution with two degrees of freedom is the same as the exponential distribution 
+        with parameter ½.
+      </p>
+      <p>
+        The cumulative χ<sup>2</sup> distribution can be computed with the <code>pchisq()</code> R function.
+      </p>
+      <p>
+        <strong>Example</strong>: Following the Example 8.2.3 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 470) 
+        The probability that X is less than 10.0 for a 
+        χ<sup>2</sup> distribution with 10 degrees of freedom can be found using the R command
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; pchisq(c(10), df=10)
+          [1] 0.5595067
+        </pre>
+      </p>
+      <p>
+        Giving the probability 0.55 or 56%. ▢
+      </p>
+      <p>
+        If X<sub>1</sub>, ... X<sub>n</sub> are a random sample from a normal distribution with mean μ and 
+        variance σ<sup>2</sup> then the sample mean and variance have maximum likelihood estimators
+      </p>
+      <p class='formula'>
+         μ&#770; = X&#772;<sub>n</sub> <br>
+         σ&#770; = [(1/n) Σ<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>]<sup>½</sup>
+      </p>
+      <p>
+        These estimators are independent variables.
+        The estimator for the sample mean X&#772;<sub>n</sub> has a normal distribution with mean μ and variance σ/n.
+        The quantity nσ&#770;<sup>2</sup>/σ<sup>2</sup> has a χ<sup>2</sup> distribution with n - 1 degrees of freedom.
+      </p>
+      <p>
+        The <strong>t distribution</strong> is useful when we need to use an estimate of the variance because we
+        do not know the true variance. The t distribution is
+      </p>
+      <p class='formula'>
+         Γ((m+1)/2)/[(mπ)<sup>½</sup>Γ(m/2)] (1 + x<sup>2</sup>/m)<sup>-(m+1)/2</sup>
+      </p>
+      <p>
+        If X<sub>1</sub>, ... X<sub>n</sub> is a sample for random variable X with with mean μ and variance σ<sup>2</sup>.
+        Define the statistic
+      </p>
+      <p class='formula'>
+         σ′ = [Σ<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>]<sup>½</sup>
+      </p>
+      <p>
+        Also define the random variable
+      </p>
+      <p class='formula'>
+         U = n<sup>½</sup>(X&#772; - μ)/σ
+      </p>
+      <p>
+        U has a t distribution with n - 1 degrees of freedom.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 480-482) 
+        The t distribution looks like the normal distribution but the tails do not converge to zero as quickly, 
+        especially for small values of n.
+        Values of the pdf for t distribution can be computed with the R <code>dt</code> function.
+        The command below draws a graph of the t distribution with 5 degrees of freedom.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; curve(dt(x, df=5), -3, 3, xlab="z", ylab="Probability Density", col="blue")
+        </pre>
+      </p>
+      <p>
+        The chart produced is shown in Figure 9.
+      </p>
+      <p class='picture'>
+        <img src="images/t_distribution_df5.png"/><br/>
+        Figure 9: t Distribution with 5 Degrees of Freedom
+      </p>
+      <p>
+        A <strong>confidence interval</strong> (A, B) for coefficient γ is an interval with 
+      </p>
+      <p class='formula'>
+         Pr(A &lt; g(θ) &lt; B) ≥ γ
+      </p>
+      <p>
+        for a random sample <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) from a distribution with 
+        parameter θ.
+      </p>
+      <p>
+        The confidence interval for the sample mean from a normal distribution with mean μ and variance σ<sup>2</sup> is
+      </p>
+      <p class='formula'>
+         A = X&#772;<sub>n</sub> - T<sub>n-1</sub><sup>-1</sup>((1 + γ)/2) σ′/n<sup>½</sup> <br/>
+         B = X&#772;<sub>n</sub> + T<sub>n-1</sub><sup>-1</sup>((1 + γ)/2) σ′/n<sup>½</sup>
+      </p>
+      <p>
+        where T<sub>n</sub>(c) is the cdf of the t distribution with n degrees of freedom 
+        and T<sub>n</sub><sup>-1</sup> is the quantile function.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 486)
+        The quantile function T<sub>n</sub><sup>-1</sup>(x) for a value x with n degrees fo freedom can be computed 
+        with the R function <code>qt(x, df = n)</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: Computing Example 8.5.3 from DeGroot and Morris 
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 487) with a sample of 26 rain 
+        measurements with sample average 5.134 and estimated variance 1.60.
+        The 95% confidence interval can be computed using the R commands
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; A &lt;- 5.134 - qt(1.95/2, df=25) * 1.6/sqrt(25)
+          &gt; A
+          [1] 4.474948
+          &gt; B &lt;- 5.134 + qt(1.95/2, df=25) * 1.6/sqrt(25)
+          &gt; B
+          [1] 5.793052
+        </pre>
+      </p>
+      <p>
+        The 95% confidence interval is (4.47, 5.79). ▢
+      </p>
+      <p>
+        A <strong>one-sided confidence interval</strong> (A, ∞) has a statistic A, such that
+      </p>
+      <p class='formula'>
+         Pr(A &lt; g(θ)) ≥ γ
+      </p>
+      <p>
+        This is a 100γ percent one-sided confidence interval for g(θ).
+        Similarly, the interval (-∞, B) is a 100γ percent one-sided confidence interval for g(θ) where
+      </p>
+      <p class='formula'>
+         Pr(g(θ) &lt; B) ≥ γ
+      </p>
+      <p>
+        For a normal distribution with mean μ and variance σ<sup>2</sup> the confidence limits 
+        A and B can be computed as 
+      </p>
+      <p class='formula'>
+         A = X&#772;<sub>n</sub> - T<sub>n-1</sub><sup>-1</sup>(γ) σ′/n<sup>½</sup> <br/>
+         B = X&#772;<sub>n</sub> + T<sub>n-1</sub><sup>-1</sup>(γ) σ′/n<sup>½</sup>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 488-489)
+      </p>
+      <p>
+        An <strong>unbiased estimator</strong> δ(<strong>X</strong>) of a function g(θ) of a parameter θ has 
+        the same expectation as g(θ) or all values of θ.
+        That is,  E<sub>θ</sub>[δ(<strong>X</strong>)] = g(θ) for all θ.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 507)
+        For example, the sample mean X̄<sub>n</sub> is an unbiased estimate of the true mean μ because the mean of 
+        X̄<sub>n</sub> is μ for all values of μ.
+        The statistic
+      </p>
+      <p class='formula'>
+         σ̂<sub>1</sub><sup>2</sup> = (1/(n - 1)) ∑<sub>i=1</sub><sup>n</sup>(X<sub>i</sub> - X&#772;<sub>n</sub>)<sup>2</sup>
+      </p>
+      <p>
+        is an unbiased estimator of the variance. 
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 508)
+        σ̂<sub>1</sub><sup>2</sup> is sometimes called the <strong>sample variance</strong>.
+      </p>
+      <p>
+        <strong>Example</strong>: 
+        The sample variance and sample standard deviation of word frequency in the NTI Reader tagged corpus 
+        can be found with the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; v &lt;- var(unigram$frequency)
+          &gt; v
+          [1] 140.1174
+          &gt; sqrt(v)
+          [1] 11.83712
+        </pre>
+      </p>
+      <p>
+        Compare this to the population variance 140.20 and standard deviation 11.83 computed above. ▢
+      </p>
+      <h3><a name="hypothesis"></a>Hypothesis Testing</h3>
+      <h4><a name="hypothesisconcepts"></a>Concepts</h4>
+      <p>
+        The <strong>null hypothesis</strong> H<sub>0</sub> is the hypothesis that θ ∈ Ω<sub>0</sub>, where
+        θ is the parameter of a probability distribution and Ω<sub>0</sub> is a subset of the parameter space Ω.
+        The <strong>alternative hypothesis</strong> H<sub>1</sub> is the hypothesis that θ ∈ Ω<sub>1</sub>,
+        where Ω<sub>1</sub> is the complement of Ω<sub>0</sub>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 531-532)
+      </p>
+      <p>
+        A <strong>critical region</strong> S<sub>1</sub> is a subset of the sample space S of a random vector
+        <strong>X</strong> = (X<sub>1</sub>, ... X<sub>n</sub>) for which the null hypothesis H<sub>0</sub>
+        is rejected.
+        A <strong>test statistic</strong> T = r(<strong>X</strong>) defines a procedure where the 
+        null hypothesis H<sub>0</sub> is rejected if T ∈ R, where R is a subset of the real numbers.
+        R is the <strong>rejection region</strong> of the test.
+        The critical region has the form S<sub>1</sub> = {<strong>x</strong>: r(<strong>x</strong>) ∈ R}.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 532-533)
+      </p>
+      <p>
+        A <strong>power function</strong> π(θ, δ) is the probability that a test procedure δ will reject
+        the null hypothesis for all values of the parameter θ. In symbols
+      </p>
+      <p class='formula'>
+         π(θ, δ) = Pr(<strong>X</strong> ∈ S<sub>1</sub>)
+      </p>
+      <p>
+        where S<sub>1</sub> is the critical region.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 534)
+      </p>
+      <p>
+        A <strong>type I error</strong> is an erroneous choice to reject the null hypothesis.
+        A <strong>type II error</strong> is an erroneous choice not to reject a false null hypothesis.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 535)
+      </p>
+      <p>
+        The <strong>size</strong> α(δ) is defined as 
+      </p>
+      <p class='formula'>
+         α(δ) = sup <sub>θ ∈ Ω<sub>0</sub></sub> π(θ, δ)
+      </p>
+      <p>
+        where δ is a test and sup is the supremum.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 535)
+      </p>
+      <p>
+        The <strong>p-value</strong> is the smallest level α<sub>0</sub> that would result in rejection of the 
+        null hypothesis.
+      </p>
+      <p>
+        The <strong>likelihood ratio statistic</strong> Λ(<strong>x</strong>) is the largest value of the 
+        likelihood function in Ω<sub>0</sub> compared to the entire parameter space Ω. In symbols
+      </p>
+      <p class='formula'>
+         Λ(<strong>x</strong>) = [sup <sub>θ ∈ Ω<sub>0</sub></sub> ƒ(<strong>x</strong> | θ)] /
+                                [sup <sub>θ ∈ Ω</sub> ƒ(<strong>x</strong> | θ)]
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 544)
+      </p>
+      <p>
+        A <strong>simple hypothesis</strong> is a choice from two alternative parameter values in the
+        parameter space Ω = {θ<sub>0</sub>, θ<sub>1</sub>}. 
+        It has the form
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ = θ<sub>0</sub><br/>
+         H<sub>1</sub>: θ = θ<sub>1</sub>
+      </p>
+      <p>
+        The probability α of a type I error for a test procedure δ is 
+        α(δ) = Pr(Reject H<sub>0</sub> | θ = θ<sub>0</sub>).
+        The probability β of a type II error for a test procedure δ is 
+        β(δ) = Pr(Do not reject H<sub>0</sub> | θ = θ<sub>1</sub>).
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 551)
+      </p>
+      <p>
+        A <strong>uniformly most powerful test</strong> is for a test procedure δ<sup>*</sup> for the hypothesis
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ ∈ Ω<sub>0</sub><br/>
+         H<sub>1</sub>: θ ∈ Ω<sub>1</sub>
+      </p>
+      <p>
+        at the level of significance α<sub>0</sub> if α(δ<sup>*</sup>) ≤ α<sub>0</sub> where
+      </p>
+      <p class='formula'>
+         π(θ, δ) ≤ π(θ, δ<sup>*</sup>) for all θ ∈ Ω<sub>1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 560)
+      </p>
+      <p>
+        A <strong>one sided</strong> alternative hypothesis has the form
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ ≤ θ<sub>0</sub><br/>
+         H<sub>1</sub>: θ &gt; θ<sub>1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 562)
+      </p>
+      <p>
+        A <strong>two sided</strong> alternative hypothesis has the form
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: θ = θ<sub>0</sub><br/>
+         H<sub>1</sub>: θ ≠ θ<sub>1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 565)
+      </p>
+      <p>
+        An <strong>unbiased test</strong> is a test δ where
+      </p>
+      <p class='formula'>
+         π(θ, δ) ≤ π(θ′, δ)
+      </p>
+      <p>
+        for every θ ∈ Ω<sub>0</sub> and θ′ ∈ Ω<sub>1</sub>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 573)
+      </p>
+      <p>
+        A <strong>t test</strong> for the one sided hypothesis about the mean μ
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ ≤ μ<sub>0</sub><br/>
+         H<sub>1</sub>: μ &gt; μ<sub>0</sub>
+      </p>
+      <p>
+        where the variance σ<sup>2</sup> is unknown, rejects H<sub>0</sub> if
+      </p>
+      <p class='formula'>
+         U = n<sup>½</sup> (X&#772; - μ<sub>0</sub>)/σ′ ≥ c
+      </p>
+      <p>
+        and c is found from the t quantile function for level of significance α<sub>0</sub>.
+        The opposite hypothesis H<sub>0</sub>: μ ≥ μ<sub>0</sub> is rejected if U ≤ c.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 576)
+      </p>
+      <p>
+        <strong>Example</strong>: We will work through Example 9.5.3 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 578) with R commands.
+        The problem tests the hypothesis H<sub>0</sub>: μ ≥ 200 with a level of significance 
+        α<sub>0</sub> = 0.1 for a random sample with n = 18, X&#772; = 182.17,
+        and σ′ = 72.22. 
+        The 0.1 quantile of the t distribution and the test statistic U can be found with the R commands
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; c = qt(0.1, df=17)
+          &gt; c
+          [1] -1.333379
+          &gt; U = sqrt(18-1) * (182.17 - 200)/72.2
+          &gt;  U
+          [1] -1.018213
+        </pre>
+      </p>
+      <p>
+        Since U ≤ c is false, the null hypothesis μ ≥ 200 is not rejected. ▢
+      </p>
+      <p>
+        Manning and Schütze discuss using hypothesis with the t test for the occurrence of bigrams.
+        The chance of of the two individual words coming w<sup>1</sup> and w<sup>2</sup> together at any p
+        articular point in the text
+        is Pr(w<sup>1</sup>w<sup>2</sup>) = Pr(w<sup>1</sup>)Pr(w<sup>2</sup>).
+        The sample variance is needed in the t test, which is estimated as the variance 
+        σ<sup>2</sup> = p(1 - p) of a Bernoulli trial. In this expression p is the word frequency or, 
+        in other words, the probabily of occurrence of the words together.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 163-166)
+      </p>
+      <p>
+        A t test for the two sided hypothesis about the mean μ
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ = μ<sub>0</sub><br/>
+         H<sub>1</sub>: μ ≠ μ<sub>0</sub>
+      </p>
+      <p>
+        where the variance σ<sup>2</sup> is unknown, rejects H<sub>0</sub> if 
+      </p>
+      <p class='formula'>
+         |U| ≥ T<sub>n-1</sub><sup>-1</sup>(1 - α<sub>0</sub>/2)
+      </p>
+      <p>
+        where T<sub>n-1></sub><sup>-1</sup> is the quantile function of the t distribution.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 582)
+      </p>
+      <h4><a name="evaluation"></a>Evaluation Metrics in Natural Language Processing</h4>
+      <p>
+        Successful and unsuccessful prediction results are summarized in Table 1.
+      </p>
+      <p>
+      <table>
+        <caption>Table 1: Prediction Results</caption>
+        <tbody>
+          <tr><th colspan="2"  rowspan="2">&nbsp;</th><th colspan="2">Actual</th></tr>
+          <tr><th>Positive</th><th>Negative</th></tr>
+          <tr><th rowspan="2">Predicted</th><th>Positive</th><td>true positive tp</td><td>false positive fp</td></tr>
+          <tr><th>Negative</th><td>true negative fn</td><td>false negative tn</td></tr>
+        </tbody>
+      </table>
+      </p>
+      <p>
+        Manning and Schütze define precision P as the number of correctly predicted positive results:
+      </p>
+      <p class='formula'>
+         P = tp/(tp + fp)
+      </p>
+      <p>
+        and recall R as the proportion of target items predicted
+      </p>
+      <p class='formula'>
+         R = tp/(tp + fn)
+      </p>
+      <p>
+        Precision and recall avoid the potential problem with accuracy that the number of negative events 
+        will be far greater than the number of positive events. That is, a system that successfully 
+        rejects many negative items may have high accuracy but not do very well on the positive events.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 268-269)
+      </p>
+      <h4><a name="twomeans"></a>Comparing means from two distributions</h4>
+      <p>
+        To test a hypothesis comparing the means μ<sub>1</sub> and μ<sub>0</sub> of two populations
+        <strong>X</strong> = X<sub>1</sub>, ... X<sub>m</sub> and 
+        <strong>Y</strong> = Y<sub>1</sub>, ... Y<sub>n</sub>
+        with the same variance σ, the null and alternate hypotheses
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ<sub>1</sub> ≤ μ<sub>2</sub><br/>
+         H<sub>1</sub>: μ<sub>1</sub> &gt; μ<sub>2</sub>
+      </p>
+      <p>
+        are used. The <strong>two-sample statistic</strong> U is defined as 
+      </p>
+      <p class='formula'>
+         U = (m + n - 2)<sup>½</sup>(X&#772;<sub>m</sub> - Y&#772;<sub>n</sub>) /
+         [(1/m + 1/n)<sup>½</sup>(S<sub>X</sub><sup>2</sup> + S<sub>Y</sub><sup>2</sup>)<sup>½</sup>]
+      </p>
+      <p>
+        U has a t distribution with m + n - 2 degrees of freedom. In this statistic
+      </p>
+      <p class='formula'>
+         X&#772;<sub>m</sub> = (1/m) ∑<sub>i=1</sub><sup>m</sup>X<sub>i</sub> and
+         Y&#772;<sub>n</sub> = (1/n) ∑<sub>i=1</sub><sup>n</sup>Y<sub>i</sub>
+      </p>
+      <p>
+        and 
+      </p>
+      <p class='formula'>
+         S<sub>X</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>m</sup>(X<sub>i</sub> - X&#772;<sub>m</sub>)<sup>2</sup> and
+         S<sub>Y</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>n</sup>(Y<sub>i</sub> - Y&#772;<sub>n</sub>)<sup>2</sup>
+      </p>
+      <p>
+        The null hypothesis H<sub>0</sub> is rejected at the level of significance α<sub>0</sub> if 
+        U ≥ T<sub>m+n-2</sub><sup>-1</sup>(1-α<sub>0</sub>).
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 588-589)
+      </p>
+      <p>
+        <strong>Example</strong>: We will work through Example 9.6.2 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 589-590) with R commands.
+        The problem tests the hypothesis that the mean of rain from seeded clouds μ<sub>1</sub> 
+        is greater than the mean of rain from unseeded clouds μ<sub>2</sub>. That is, we attempt to reject
+        H<sub>0</sub>: μ<sub>1</sub> ≤ μ<sub>2</sub> at level of significance α<sub>0</sub> = 0.01.
+        The mean of the 26 measurements with seeded clouds is X&#772;<sub>m</sub> = 5.13.
+        The mean of the 26 measurements with unseeded clouds is X&#772;<sub>n</sub> = 3.99.
+        Also, S<sub>X</sub><sup>2</sup> = 63.96 and S<sub>Y</sub><sup>2</sup> = 67.39.
+        The R commands to compute U and critical value of T<sub>m+n-2</sub><sup>-1</sup> are
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; U = sqrt(26+26-2)*(5.13-3.99)/(sqrt(1/26+1/26)*sqrt(63.96+67.39))
+          &gt;  U
+          [1] 2.535984
+          &gt;  c = qt(0.99, df=26+26-2)
+          &gt;  c
+          [1] 2.403272
+        </pre>
+      </p>
+      <p>
+        Since U > c, the null hypothesis is rejected.▢
+      </p>
+      <h4><a name="fdist"></a>F Distribution</h4>
+      <p>
+        An <strong>F distribution</strong> for the variable X combining two random variables Y and W with
+        χ<sup>2</sup> distributions with m and n degrees of freedom in the form
+      </p>
+      <p class='formula'>
+         X = (Y/m)/(W/n)
+      </p>
+      <p>
+        X has an F distribution, which is given by the formula
+      </p>
+      <p class='formula'>
+         ƒ(x) = (Γ[(m + n)/2] m<sup>m/2</sup>n<sup>n/2</sup>) / [Γ(m/2)Γ(n/2)] · x<sup>(m/2)-1</sup>/(mx + n)<sup>(m+n)/2</sup>
+      </p>
+      <p>
+        for x &gt; 0.
+      </p>
+      <p>
+        An <strong>F test</strong> compares the unknown variances of two random variables X<sub>1</sub>, ... X<sub>n</sub>
+        and Y<sub>1</sub>, ... Y<sub>n</sub>.
+        The null and alternate hypotheses are
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: σ<sub>1</sub><sup>2</sup> ≤ σ<sub>2</sub><sup>2</sup><br/>
+         H<sub>1</sub>: σ<sub>1</sub><sup>2</sup> &gt; σ<sub>2</sub><sup>2</sup>
+      </p>
+      <p>
+        In the test the statistic V is defined as 
+      </p>
+      <p class='formula'>
+         V = [S<sub>X</sub><sup>2</sup>/(m - 1)] / [S<sub>Y</sub><sup>2</sup>/(n - 1)]
+      </p>
+      <p>
+        If V ≥ c, where c is determined from the level of significance α<sub>0</sub>, then H<sub>0</sub> is rejected.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 598-599)
+        The quantile function for the F distribution can be computed with the R command
+        <code>qf(p, df1, df2</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: We will work through Example 9.7.3 in DeGroot and Morris
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 600-601) with R commands.
+        X<sub>1</sub>, ... X<sub>6</sub> have unknown mean and variance. 
+        S<sub>X</sub><sup>2</sup> = 30 is computed from observations.
+        Y<sub>1</sub>, ... Y<sub>21</sub> also have unknown mean and variance and have
+        S<sub>Y</sub><sup>2</sup> = 40.
+        The following R commands compute the statistic V and the quantile value for 
+        α<sub>0</sub> = 0.025 and α<sub>0</sub> = 0.05.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; V = (30/(6-1))/(40/(21-1))
+          &gt; V
+          [1] 3
+          &gt; qf(0.95, df1=5, df2=20)
+          [1] 2.71089
+          &gt; qf(0.975, df1=5, df2=20)
+          [1] 3.289056
+        </pre>
+      </p>
+      <p>
+        Since V &gt; 2.71 the null hypothesis is rejected at the α<sub>0</sub> = 0.05 significance level but since
+        V &lt; 3.29 it is not rejected at the α<sub>0</sub> = 0.025 level. ▢
+      </p>
+      <h3><a name="categorical"></a>Categorical Data</h3>
+      <p>
+        <strong>Categorical data</strong> is data where observations classifies the data into different categories.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 625)
+      </p>
+      <h4><a name="goodness"></a>χ<sup>2</sup> goodness of fit test</h4>
+      <p>
+        The <strong>χ<sup>2</sup> goodness of fit test</strong> measures how well the proportions of categories in a random 
+        sample matches against proportions from the whole population. In this test there are k different
+        categories and p<sub>i</sub> is the proportion of each in the population. The proportions in the
+        random sample belonging to each category are p<sub>1</sub><sup>0</sup>, ... p<sub>k</sub><sup>0</sup>.
+        The hypothesis tested is
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: p<sub>i</sub> = p<sub>i</sub><sup>0</sup> for i = 1, ... k<br/>
+         H<sub>1</sub>: p<sub>i</sub> ≠ p<sub>i</sub><sup>0</sup> for at least one i
+      </p>
+      <p>
+        That is, the null hypothesis is that the distribution of data amongst the different categories is explained
+        by the probabilities given. The alternative hypothesis is that the data in at least one of the categories 
+        cannot be explained by the given probabilities.
+        The <strong>χ<sup>2</sup> statistic</strong> is defined as
+      </p>
+      <p class='formula'>
+         Q = ∑<sub>i=1</sub><sup>k</sup>(N<sub>i</sub> - np<sub>i</sub><sup>0</sup>)<sup>2</sup> / np<sub>i</sub><sup>0</sup>
+      </p>
+      <p>
+        where N<sub>i</sub> are the numbers of each item in the sample and n is the total number in the sample.
+        If H<sub>0</sub> is true then Q converges to a χ<sup>2</sup> distribution as n → ∞.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 626)
+        Smaller values for Q are less likely to result in rejection of the null hypothesis.
+        The <code>chisq.test</code> R function can be used to perform this test.
+      </p>
+      <p>
+        <strong>Example</strong>: This example uses the χ<sup>2</sup> goodness of fit test to compare the 
+        distribution counts for words grouped by part of speech
+        in the tagged corpus and a document that is included in the tagged corpus.
+        The most frequent few pronouns in the tagged corpus can be extracted with the following R command.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; head(unigram[grep("/PN\\[", unigram$pos.tagged.text),])
+                 pos.tagged.text element.text word.id frequency
+          2     是/PN[shì | this]           是   17908       136
+          12      所/PN[suǒ | it]           所   17100        66
+          26        我/PN[wǒ | I]           我     321        45
+          28     其/PN[qí | that]           其    1574        43
+          33 云何/PN[yúnhé | how]         云何   29319        39
+          62      汝/PN[rǔ | you]           汝    6690        22
+        </pre>
+      </p>
+      <p>
+        The regular expression <code>"/PN\\["</code> helps the <code>grep()</code> identify patterns like "/PN[""
+        encapsulating part-of-speech tags.
+        The R script <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/r/pos_counts.R">pos_counts.R</a>
+        aggregates the frequencies of each separate part of speech in the tagged corpus and for the Heart Sutra
+        and compares the counts with a χ<sup>2</sup> test. It can be run with the following command.
+      </p>
+      <p class='formula'>
+        <pre>
+          $ Rscript r/pos_counts.R 
+
+          Chi-squared test for given probabilities
+
+          data:  heart.count
+          X-squared = 71.0523, df = 7, p-value = 9.052e-13
+        </pre>
+      </p>
+      <p>
+        With a very small p-value,
+        the output shows that the distribution of part-of-speech counts in the Heart Sutra is not well explained
+        by the general distribution of part-of-speech counts in the tagged corpus.
+        Small count values have been avoided by combining categories.
+        The data are shown in Table 2.
+      </p>
+      <table>
+        <caption>Table 2: Predicted and Observed Word Counts for the Heart Sutra</caption>
+        <tbody>
+          <tr><th>Part of Speech</th><th>Observed Count</th><th>Predicted Count</th></tr>
+          <tr><td>Adjectives</td><td>15</td><td>10.3</td></tr>
+          <tr><td>Existential verbs</td><td>21</td><td>5.5</td></tr>
+          <tr><td>Regular verbs</td><td>32</td><td>36.9</td></tr>
+          <tr><td>Proper nouns</td><td>7</td><td>19.8</td></tr>
+          <tr><td>Regular nouns</td><td>63</td><td>51.2</td></tr>
+          <tr><td>Pronouns and numbers</td><td>10</td><td>23.8</td></tr>
+          <tr><td>Adverbs</td><td>18</td><td>11.6</td></tr>
+          <tr><td>Other function words</td><td>15</td><td>21.8</td></tr>
+        </tbody>
+      </table>
+      <p>
+        There is a relatively higher proportion of existential verbs in the Heart Sutra, which is expected. ▢
+      </p>
+      <h4><a name="chisqcomposite"></a>χ<sup>2</sup> Test for a Composite Hypothesis</h4>
+      <p>
+        The χ<sup>2</sup> test for a composite hypothesis test can be used to do a goodness-of-fit test 
+        against a distribution parameterized by a set of parameters 
+        <strong>θ</strong> = (θ<sub>1</sub>, ... θ<sub>s</sub>). The probabilities for the categories are given by 
+        the functions π<sub>1</sub>(<strong>θ</strong>), ... π<sub>k</sub>(<strong>θ</strong>).
+        The hypothesis is 
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: There is a <strong>θ</strong> ∈ Ω such that p<sub>i</sub> = θ<sub>i</sub>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        The Q statistic is defined as 
+      </p>
+      <p class='formula'>
+         Q = ∑<sub>i=1</sub><sup>k</sup>[N<sub>i</sub> - nπ<sub>i</sub>(<strong>θ̂</strong>)]<sup>2</sup> / 
+         nπ<sub>i</sub>(<strong>θ̂</strong>)
+      </p>
+      <p>
+        If H<sub>0</sub> is true then the cdf of Q will converge on the cdf of χ<sup>2</sup> with k - s - 1
+        degrees of freedom, as n → ∞.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 634-635)
+      </p>
+      <h4><a name="contingency"></a>Contingency Tables</h4>
+      <p>
+        A <strong>contingency table</strong> is a table that classifies each observation in two or more ways.
+        A <strong>two-way</strong> contingency table classifies data in two ways.
+        A contingency table can be used to test data independence using a χ<sup>2</sup> test.
+        If N<sub>ij</sub> is the count in each table cell then the row and column counts are
+      </p>
+      <p class='formula'>
+         N<sub>i+</sub> = ∑<sub>i=1</sub><sup>C</sup>N<sub>ij</sub><br/>
+         N<sub>j+</sub> = ∑<sub>i=1</sub><sup>R</sup>N<sub>ij</sub>
+      </p>
+      <p>
+        where C is the number of columns, R is the number of rows, and n is the total number of cells,
+        excluding the row and cell counts. An estimator for the expected number in each cell, based on the 
+        marginal probabilities from the row and column counts is 
+      </p>
+      <p class='formula'>
+         Ê<sub>ij</sub> = N<sub>i+</sub>N<sub>j+</sub>/n
+      </p>
+      <p>
+        The statistic Q is defined as
+      </p>
+      <p class='formula'>
+         Q = ∑<sub>i=1</sub><sup>C</sup>∑<sub>i=1</sub><sup>R</sup>(N<sub>ij</sub> - Ê<sub>ij</sub>)<sup>2</sup> / 
+         Ê<sub>ij</sub>
+      </p>
+      <p>
+        has a χ<sup>2</sup> distribution with (R - 1)(C - 1) degrees of freedom.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 642-643)
+      </p>
+      <p>
+        Manning and Schütze describe the use of a contingency table with a χ<sup>2</sup> test to test for the significance
+        of collocations.
+        (Manning and Schütze, <i>Statistical Natural Language Processing</i>, 169-172)
+      </p>
+      <p>
+        <strong>Example</strong>: This example tests the independence of the distribution of word counts
+        for different parts of speech for three texts, The Heart Sutra, the Amitabha Sutra, and the Diamond Sutra.
+        The R script <a href="https://github.com/alexamies/buddhist-dictionary/blob/master/r/pos_independence.R">pos_independence.R</a> 
+        computes the word counts and invokes the χ<sup>2</sup> test. It can be invoked as shown below.
+      </p>
+      <p class='formula'>
+        <pre>
+          $ $ Rscript r/pos_independence.R 
+                            Heart Amitabha Diamond
+          Adjectives           15       86     140
+          Existential Verbs    21       31     130
+          Verbs                32      245     709
+          Proper Nouns          7      194     404
+          Nouns                63      361     942
+          Pronouns              10      226     503
+          Adverbs              18       69     248
+          Function Words       15      164     510
+
+            Pearson's Chi-squared test
+
+          data:  data
+          X-squared = 111.0789, df = 14, p-value &lt; 2.2e-16
+        </pre>
+      </p>
+      <p>
+        The low p-value in results show that the null hypothesis should be rejected. The distribution of is not
+        independent at the conventional 0.05 level of significance and even at more strict levels of significance. ▢
+      </p>
+      <p>
+        The χ<sup>2</sup> test for data homogeneity is the same as the test for data independence.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 649)
+      </p>
+      <h3><a name="nonparametric"></a>Nonparametric Methods</h3>
+      <p>
+        <strong>Nonparametric methods</strong> are methods that do not depend on data belonging to
+        specific parametric families of distributions.
+      </p>
+      <h4><a name="kolmogorov"></a>Kolmogorov-Smirnov Tests</h4>
+      <p>
+        Kolmogorov-Smirnov tests can be used to test observed values of a continuous data against a
+        parameterized distribution or to test the similarity of two sets of observed values.
+      </p>
+      <p>
+        A <strong>sample cdf</strong> or sample distribution function is a function of a set of observed values
+        F<sub>n</sub>(x) = k/n, where there are k observations less than or equal to x. The total number of 
+        observations is n.
+      </p>
+      <p>
+        The <strong>Kolmogorov-Smirnov test</strong> of observed data X<sub>1</sub>, ... X<sub>n</sub>
+        against a particular continuous distribution F<sup>*</sup>(x) tests the hypotheses
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: F<sup>*</sup>(x) = F<sup>*</sup>(x)<br/>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        If H<sub>0</sub> is true then the statistic D<sub>n</sub><sup>*</sup>(x) defined by
+      </p>
+      <p class='formula'>
+         D<sub>n</sub><sup>*</sup>(x) = sup<sub>∞&lt;x&lt;∞</sub>|F<sub>n</sub>(x) - F<sup>*</sup>(x)|
+      </p>
+      <p>
+        that is, the maximum difference for the observed value x<sub>n</sub>, converges as
+      </p>
+      <p class='formula'>
+         lim<sub>n→∞</sub> Pr(n<sup>½</sup>D<sub>n</sub><sup>*</sup> ≤ t) = H(t)
+         = 1 - 2∑(-1)<sup>i-1</sup>e<sup>-2i<sup>2</sup>t<sup>2</sup></sup>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 658-660)
+        The values of H(t) can be computed and the test performed with the R function 
+        <code>ks.test(x, y, ...)</code>.
+      </p>
+      <p>
+        The <strong>two-sample Kolmogorov-Smirnovtest</strong> compares two sets of samples X<sub>1</sub>, ... X<sub>m</sub> and
+        Y<sub>1</sub>, ... Y<sub>n</sub> with cdf's F(x) and G(x). The hypotheses are
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: F(x) = G(x)<br/>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        The test statistic D<sub>mn</sub> is defined as
+      </p>
+      <p class='formula'>
+         D<sub>mn</sub> = sup<sub>∞&lt;x&lt;∞</sub>|F<sub>m</sub>(x) - G<sup>n</sup>(x)|
+      </p>
+      <p>
+        that is, the maximum difference for the observed values x<sub>n</sub> and y<sub>n</sub>, converges as
+      </p>
+      <p class='formula'>
+         lim<sub>m→∞,n→∞</sub> Pr[(mn/m + n)<sup>½</sup>D<sub>mn</sub> ≤ t] = H(t)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 664)
+        The values of H(t) can also be computed and the test performed with the R function 
+        <code>ks.test(x, y, ...)</code>.
+      </p>
+      <h4><a name="robust"></a>Robust Estimation</h4>
+      <p>
+        A <strong>contaminated normal distribution</strong> is a normal distribution with an additional component
+        that is not normal. It has the form
+      </p>
+      <p class='formula'>
+         ƒ(x) = (1 - ϵ)(2πσ<sup>2</sup>)<sup>½</sup>exp(-1/(2σ<sup>2</sup>)[x - μ]<sup>2</sup>) + ϵg(x)
+      </p>
+      <p>
+        The function g(x) is the contaminating distribution.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 668)
+        A contaminated normal distribution may have thicker tails than a normal distribution due to outliers
+        and so parametric methods assuming a normal distribution may not be accurate.
+        In particular, the sample mean and sample variance may not be accurate, decreasing in accuracy with the 
+        degree of contamination. 
+      </p>
+      <p>
+        A <strong>scale parameter</strong> for the distribution of a random variable X is a parameter σ
+        where the corresponding parameter for the random variable aX + b is aσ.
+        The mean and variance are scale parameters but they may not exist for all distributions. 
+        However, the median and interquartile range (IQR) do exist for all distributions.
+        The <strong>median absolute deviation</strong> is defined as is the median of |X - m|.
+        In this expression, m is the median of X.
+        The median absolute deviation is a scale parameter that also exists for all functions. 
+        The median absolute deviation is half the IQR for  symmetric distribution.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 670)
+       </p>
+      <h3><a name="linear"></a>Linear Regression</h3>
+      <h4><a name="leastsquares"></a>Least-Squares</h4>
+      <p>
+        A <strong>least-squares line</strong> is a method for fitting a line against sample data against a 
+        straight line, minimizing the squares of the vertical deviations from the line.
+        A least-squares line is defined by the equation 
+        y = β̂<sub>0</sub> + β̂<sub>1</sub>x, where
+      </p>
+      <p class='formula'>
+         β̂<sub>0</sub> = ȳ - β̂<sub>1</sub>x̄ <br/>
+         β̂<sub>1</sub> = ∑<sub>i=1</sub><sup>n</sup>(y<sub>i</sub> - ȳ) / ∑<sub>i=1</sub><sup>n</sup>(x<sub>i</sub> - x̄)<sup>2</sup>
+      </p>
+      <p>
+        and x̄ - (1/n)∑<sub>i=1</sub><sup>n</sup>x<sub>i</sub>, ȳ - (1/n)∑<sub>i=1</sub><sup>n</sup>y<sub>i</sub>.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 692)
+        The R function <code>lm(y ~ x)</code>, amongst other things, performs a least squares fit of <code>y</code>
+        as a function of <code>x</code>.
+      </p>
+      <p>
+        <strong>Example</strong>: Let's use the R function <code>lm(y ~ x)</code> to work through Example 11.2.2
+        in DeGroot and Morris.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 689-692)
+        The data in this example relates the boiling point of water at different altitudes 
+        to the air pressure and is actually from Forbes. 
+        (Forbes, <i>Further Experiments and Remarks on the Measurement of Heights by the Boiling Point of Water</i>,
+        135-143)
+        The array <strong>x</strong> contains measurements of temperature at which the water boils and the 
+        array <strong>y</strong> contains the air pressure measurements.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- c(194.5, 194.25, 197.9, 198.43, 199.45, 199.95, 200.93, 201.15, 201.35, 201.3, 203.55, 204.6, 209.47, 208.57, 210.72, 211.95, 212.18)
+          &gt; y &lt;- c(20.79, 20.79, 22.4, 22.67, 23.15, 23.35, 23.89, 23.99, 24.02, 24.015, 25.14, 26.57, 28.49, 27.76, 29.04, 29.879, 30.064)
+          &gt; least.sq &lt;- lm(y ~ x)
+          &gt; least.sq
+          Call:
+          lm(formula = y ~ x)
+
+          Coefficients:
+          (Intercept)            x  
+              -81.088        0.523
+        </pre>
+      </p>
+      <p>
+        So β̂<sub>0</sub> = -81.088, β̂<sub>1</sub> = 0.523 and the equation of the line is y = -81.088 + 0.523x.
+        (There are some minor rounding errors in DeGroot and Morris' input data that different from Forbes.) ▢
+      </p>
+      <p>
+        Least squares can be used to fit sample data against a function of many variables, as in
+        the formula below.
+      </p>
+      <p class='formula'>
+         y = β̂<sub>0</sub> + β̂<sub>1</sub>x<sub>1</sub> + ... + β̂<sub>k</sub>x<sub>k</sub>
+      </p>
+      <p>
+        The sum of squares of the variations are minimized, resulting in a set of simultaneous
+        equations, which can be solved for β̂<sub>0</sub>, β̂<sub>1</sub>, ...  β̂<sub>k</sub>.
+        This method can be extended to solving non-linear equations by letting 
+        x<sub>1</sub>, ... x<sub>k</sub> be other functions of x, such as powers of x and log functions.
+      </p>
+      <p>
+        <strong>Example</strong>: We saw above that there was a correlation between text size
+        and the number of unique words in different texts in the corpus.
+        However, it was not linear. It turns out that we can get a more linear relation in log space.
+        The following R commands do a linear regression analysis on the log of the log of the 
+        word count versus the log of the count of unique words and plot the line of best
+        fit on the graph with the data points.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; x &lt;- log(corpusstats$word.count)
+          &gt; y &lt;- log(corpusstats$unique.words)
+          &gt; unique.lm &lt;- lm(y ~ x)
+          &gt; plot(x, y, xlab="Log Word Count", ylab="Log Unique Words", pch=17, col="blue")
+          &gt; abline(unique.lm)
+        </pre>
+      </p>
+      <p>
+        The function <code>abline()</code> takes the output of the linear regression and adds
+        it to the plot.
+        The graph generated is shown in Figure 10.
+      </p>
+      <p class='picture'>
+        <img src="images/log_unique_words.png"/><br/>
+        Figure 10: Linear Regression of Log Count of Unique Words versus Log of Text Length
+      </p>
+      <p>
+        ▢
+      </p>
+      <h4><a name="regression"></a>Simple linear regression</h4>
+      <p>
+        A <strong>regression function</strong> of Y on X<sub>1</sub>, ..., X<sub>k</sub> uses the random 
+        variables X<sub>1</sub>, ..., X<sub>k</sub> as predictors of the random variable Y. The expected
+        value of Y is 
+      </p>
+      <p class='formula'>
+         E(Y|x<sub>1</sub>, ..., x<sub>k</sub>) = β<sub>0</sub> + β<sub>1</sub>x<sub>1</sub> + ... + β<sub>k</sub>x<sub>k</sub>
+      </p>
+      <p>
+        where (x<sub>1</sub>, ..., x<sub>k</sub>) are observed values.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 699)
+      </p>
+      <p>
+        <strong>Simple linear regression</strong> relates Y to a single random variable X.
+        The relationship can be expressed as Y = β<sub>0</sub> + β<sub>1</sub>x<sub>1</sub> + ϵ.
+        The variable ϵ has mean 0 and variance σ<sup>2</sup>.
+        The assumptions of simple linear regression are
+      </p>
+      <p>
+        <ol>
+          <li>
+            The predictor is known. That is, there are observed values x<sub>1</sub>, ... , <sub>k</sub>x<sub>n</sub>.
+          </li>
+          <li>
+            The values x<sub>1</sub>, ... , x<sub>n</sub> are from a normal distribution.
+          </li>
+          <li>
+            Parameters β<sub>0</sub> and β<sub>1</sub> exist, such that the conditional mean of Y<sub>i</sub>
+            has the form β<sub>0</sub> + β<sub>1</sub>x<sub>i</sub>.
+          </li>
+          <li>
+            The variance σ<sup>2</sup> of Y<sub>i</sub> for different values of x<sub>i</sub> is constant.
+          </li>
+          <li>
+            The random variables Y<sub>1</sub>, ... , Y<sub>n</sub> are independent.
+          </li>
+        </ol>
+      </p>
+      <p>
+        If these assumptions are met, then the conditional distribution of Y is 
+      </p>
+      <p class='formula'>
+         ƒ(y|<strong>x</strong>, β<sub>0</sub>, β<sub>1</sub>, σ<sup>2</sup>) = 
+         (1/(2πσ<sup>2</sup>))<sup>n/2</sup>
+         exp[-(1/(2σ<sup>2</sup>))∑<sub>i=1</sub><sup>n</sup>(y<sub>i</sub> - β<sub>0</sub> - β<sub>1</sub>x<sub>i</sub>)<sup>2</sup>]
+      </p>
+      <p>
+        An MLE estimate of the variance of Y is 
+      </p>
+      <p class='formula'>
+         σ̂<sup>2</sup> = 1/(n)∑<sub>i=1</sub><sup>n</sup>(y<sub>i</sub> -  β̂<sub>0</sub> -  β̂<sub>1</sub>x<sub>i</sub>)
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 700-701)
+      </p>
+      <p>
+        Statistical inference on simple linear regression can be made in a similar to the parameters discussed above.
+        The variable nσ̂<sup>2</sup>/σ<sup>2</sup> has a χ<sup>2</sup> distribution with n - 2 degrees of freedom.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 709)
+      </p>
+      <p>
+        A <strong>prediction interval</strong> for Y with coefficient 1 - α<sub>0</sub> is given by 
+      </p>
+      <p class='formula'>
+         Ŷ ± T<sub>n-2</sub><sup>2</sup>(1 - α<sub>0</sub>) σ′[1 + 1/n + (x - x̄)<sup>2</sup>/s<sub>x</sub><sup>2</sup>]<sup>½</sup>
+      </p>
+      <p>
+        where
+      </p>
+      <p class='formula'>
+         s<sub>x</sub><sup>2</sup> = (∑<sub>i=1</sub><sup>n</sup>(x<sub>i</sub> - x̄)<sup>2</sup>)<sup>½</sup>
+      </p>
+      <p class='formula'>
+         σ′ = (S<sup>2</sup>/(n - 2))<sup>½</sup>
+      </p>
+      <p class='formula'>
+         S<sup>2</sup> = ∑<sub>i=1</sub><sup>n</sup>(Y<sub>i</sub> - β<sub>0</sub> - β<sub>1</sub>x<sub>i</sub>)<sup>2</sup>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 710-716)
+      </p>
+      <p>
+        <strong>Residuals</strong> are the difference between observed and predicted values
+        e<sub>i</sub> = y<sub>i</sub> - ŷ<sub>i</sub>, for i = 1, ..., n.
+        The residuals should be randomly distributed.
+        If there is some kind of pattern of the residuals that may indicate that a straight line
+        is not the best model for the data.
+        The residuals are often plotted as a function of x<sub>i</sub> to see if they exhibit a pattern,
+        which is often called analysis of residuals.
+        A <strong>normal quantile plot</strong> or Q-Q plot, is a chart of the quantiles of the residuals
+        versus the quantiles of the normal distribution. 
+        The plot should be a straight line. If not, the residuals may belong to some other kind of 
+        distribution than the normal distribution.
+      </p>
+      <p>
+        <strong>Example</strong>: Let's find the residuals for the unique word count example above.
+        Calling the function <code>summary()</code> on the linear regression object gives information
+        about residuals, as shown in the R script below. 
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; summary(unique.lm)
+
+          Call:
+          lm(formula = y ~ x)
+
+          Residuals:
+              Min      1Q  Median      3Q     Max 
+          -1.2653 -0.2087  0.1326  0.2377  0.3945 
+
+          Coefficients:
+                      Estimate Std. Error t value Pr(>|t|)    
+          (Intercept)  1.15877    0.14502    7.99 2.28e-11 ***
+          x            0.68528    0.01936   35.39  &lt; 2e-16 ***
+          ---
+          Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+          Residual standard error: 0.3426 on 68 degrees of freedom
+          Multiple R-squared:  0.9485,  Adjusted R-squared:  0.9477 
+          F-statistic:  1252 on 1 and 68 DF,  p-value: &lt; 2.2e-16
+
+          &gt; plot(unique.lm)
+
+        </pre>
+      </p>
+      <p>
+        This shows that the median residual is 0.1326.
+        Besides the residual summary, a lot of other quite advanced information is displayed as well, 
+        which I won't go into.
+        The <code>plot(residual.object)</code> displays a plot of the residuals, as shown in Figure 11.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_text_length_residuals.png"/><br/>
+        Figure 11: Residuals of Log Text Length versus Log Unique Word Count
+      </p>
+      <p>
+        From Figure 11, it can be seen that the distribution of residuals is not really random.
+        Therefore, a log-log relation between text size and unique word count is not perfect.
+        There are several charts generated from the <code>plot(residual.object)</code> above,
+        including a Q-Q plot, which is shown in Figure 12.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_qqplot.png"/><br/>
+        Figure 12: QQ Plot for Regression Analysis of Log Text Length versus Log Unique Word Count
+      </p>
+      <p>
+        The Q-Q plot deviates from a straight line, showing that the distribution of errors is not
+        perfectly normal.
+        ▢
+      </p>
+      <p>
+        Knell explains the use of R for simple linear regression.
+        (Knell, <i>Introductory R</i>, 222-260)
+      </p>
+      <h4><a name="general"></a>General Linear Model</h4>
+      <p>
+        The general linear model generalizes the simple model to multiple predictor variables
+        <strong>z<sub>i</sub></strong> = (z<sub>i0</sub>, ... z<sub>ip-1</sub>) with a vector
+        of parameters 
+        <strong>β</strong> = (β<sub>0</sub>, ..., β<sub>p-1</sub>).
+        A similar set of five assumptions is necessary. 
+        The dependent values Y<sub>i</sub> for i = 1, ..., n have the same variance σ.
+        An expected value of Y is given by
+      </p>
+      <p class='formula'>
+         E(Y<sub>i</sub>| <strong>z<sub>i</sub></strong>, <strong>β</strong>) = 
+         z<sub>i0</sub>β<sub>0</sub> + z<sub>i1</sub>β<sub>1</sub> + ... + x<sub>ip-1</sub>β<sub>k</sub>
+      </p>
+      <p>
+        The predictor variables are written in an n × p matrix <strong>Z</strong> = [z<sub>ij</sub>]
+        for i = 0, ...n, j = 0, ... p - 1, called the <strong>design matrix</strong>.
+        The least squares estimator <strong>β̂</strong> of <strong>β</strong> is 
+      </p>
+      <p class='formula'>
+        <strong>β̂</strong> = (<strong>Z</strong>′<strong>Z</strong>)<sup>-1</sup><strong>Z</strong>′<strong>Y</strong>
+      </p>
+      <p>
+        where <strong>Z′</strong> is the transpose of <strong>Z</strong>.
+        The mean of the dependent variable Y can be expressed in matrix form as
+      </p>
+      <p class='formula'>
+        E(<strong>Y</strong>) = <strong>Z</strong><strong>β</strong>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 736-742)
+      </p>
+      <p>
+        The residuals are similar to simple linear regression,
+      </p>
+      <p class='formula'>
+        e<sub>i</sub> = y<sub>i</sub> - ŷ<sub>i</sub> = 
+        y<sub>i</sub> - z<sub>i0</sub>β<sub>0</sub> - ... z<sub>ip-1</sub>β<sub>p-1</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 749)
+        You can do a generalized linear regression in R with the <code>glm()</code> function.
+      </p>
+      <h4><a name="anova"></a>Analysis of Variance</h4>
+      <p>
+        <strong>Analysis of variance</strong> (ANOVA) is an application of multiple regression where the design matrix
+        has a special form.
+        An ANOVA <strong>one-way layout</strong> tests whether the means of samples μ<sub>i</sub> from p different populations 
+        are the same. The variance σ  is the same for all of the different populations.
+      </p>
+      <p class='formula'>
+         H<sub>0</sub>: μ<sub>1</sub> = ... μ<sub>p</sub><br/>
+         H<sub>1</sub>: H<sub>0</sub> is false
+      </p>
+      <p>
+        If H<sub>0</sub> is true then the test statistic
+      </p>
+      <p class='formula'>
+         U</sup>2</sup> = [S<sub>Betw</sub><sup>2</sup>/(p - 1)] / [S<sub>Resid</sub><sup>2</sup>/(n - p)]
+      </p>
+      <p>
+        has an F distribution with degrees of freedom p - 1 and n - p. 
+        The total sum of squares 
+      </p>
+      <p class='formula'>
+         S<sub>Tot</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>p</sup>∑<sub>j=1</sub><sup>n<sub>i</sub></sup>
+         (Y<sub>ij</sub> - Ȳ<sub>++</sub>)<sup>2</sup>
+      </p>
+      <p>
+        is partitioned into two parts, the residual sum of squares and the between samples sum of squares:
+      </p>
+      <p class='formula'>
+         S<sub>Tot</sub><sup>2</sup> = S<sub>Resid</sub><sup>2</sup> + S<sub>Betw</sub><sup>2</sup>
+      </p>
+      <p>
+        where the parts are defined as
+      </p>
+      <p class='formula'>
+         S<sub>Resid</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>p</sup>∑<sub>j=1</sub><sup>n<sub>i</sub></sup> 
+         (Y<sub>ij</sub> - Ȳ<sub>i+</sub>)<sup>2</sup> <br/>
+         S<sub>Betw</sub><sup>2</sup> = ∑<sub>i=1</sub><sup>p</sup><sup>n<sub>i</sub>(Ȳ<sub>i+</sub> - Ȳ<sub>++</sub>)<sup>2</sup>
+      </p>
+      <p>
+        where
+      </p>
+      <p class='formula'>
+         Ȳ<sub>++</sub> = (1/n)∑<sub>i=1</sub><sup>p</sup>∑<sub>j=1</sub><sup>n<sub>i</sub></sup>Y<sub>ij</sub>
+         = (1/n)∑<sub>i=1</sub><sup>p</sup>n<sub>i</sub>Ȳ<sub>i+</sub>
+      </p>
+      <p>
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 754-761)
+        You can do an analysis of variance in R with the <code>anova()</code> function, which takes the output 
+        of the generalized linear regression function <code>glm()</code>, or the <code>anova()</code> function, 
+        which takes a formula.
+      </p>
+      <p>
+        <strong>Example</strong>: Let's work through 11.6.5 in DeGroot and Morris using R.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 755-760)
+        There are p = 4 different kinds of hot dogs (Beef, Meat, Poultry, Specialty) with different calorie counts. 
+        We want to test whether the average calorie counts for the different kinds of hotdogs are the same.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; type &lt;- c("Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Beef", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Meat", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Poultry", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty", "Specialty") 
+          &gt; n = length(type)
+          &gt; p = 4
+          &gt;  calories &lt;- c(186, 181, 176, 149, 184, 190, 158, 139, 175, 148, 152, 111, 141, 153, 190, 157, 131, 149, 135, 132, 173, 191, 182, 190, 172, 147, 146, 139, 175, 136, 179, 153, 107, 195, 135, 140, 138, 129, 132, 102, 106, 94, 102, 87, 99, 107, 113, 135, 142, 86, 143, 152, 146, 144, 155, 170, 114, 191, 162, 146, 140, 187, 180)
+          &gt; hotdog.aov = aov(calories ~ type)
+          &gt; summary(hotdog.aov)
+            Df Sum Sq Mean Sq F value   Pr(&gt;F)    
+            type         3  19454    6485    11.6 4.48e-06 ***
+            Residuals   59  32995     559                     
+            ---
+            Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+          &gt; qf(0.99, p - 1, n - p)
+          [1] 4.132055
+          &gt; qf(0.999, p - 1, n - p)
+          [1] 6.185016
+        </pre>
+      </p>
+      <p>
+        The "formula" here relates the vector <code>type</code> of hot dog types to the vector <code>calories</code>
+        of corresponding calorie counts.
+        The test statistic is 11.6, which has a p-value of 4.48<sup>-6</sup>, which is rejected at most levels of 
+        significance, including α<sub>0</sub> = 0.001. 
+        This is demonstrated by the calls to the F distribution quantile R function <code>qf(p, df1, df2)</code>.
+        Therefore, the H<sub>0</sub> hypothesis, that the mean calorie counts are the same, is rejected.
+        ▢
+      </p>
+      <p>
+        <strong>Example</strong>: This example looks at average word frequencies in Buddhist texts.
+        The word frequencies of function words should be similar across texts of the same period because the
+        do not depend greatly on the content of the text.
+        One of the most frequently occuring function words in literary Chinese is the nominalizer 所 suǒ "it."
+        所 suǒ is placed in front of a verb to make the objects acted on by the verb the subject.
+        (Pulleybank, <i>Outline of Classical Chinese Grammar</i>, 68)
+        It can be roughly understood as the English pronoun "it."
+        The frequencies per thousand words of 所 suǒ in several texts are given in Table 3. 
+        The texts are Biographies of Eminent Monks, Scroll《高僧傳》 by Huijiao (497-554),
+        Buddhist Monasteries in Luoyang, Scroll 1 《洛陽伽藍記》 by Yang Xuanzhi (c. 547),
+        and The Great Calming and Contemplation 《摩訶止觀》by Zhi Yi (538—597).
+      </p>
+      <p>
+      <table>
+        <caption>Table 3: Frequencies per Thousand Words of 所 Suǒ</caption>
+        <tbody>
+          <tr>
+            <th>Text</th>
+            <th>Biographies of Eminent Monks</th>
+            <th>Buddhist Monasteries in Luoyang</th>
+            <th>Great Calming</th>
+          </tr>
+          <tr><th>Abbreviation</th><th>GSZ</th><th>Luoyang</th><th>MHZG</th></tr>
+          <tr><th>Scroll</th><th>Frequency</th><th>Frequency</th><th>Frequency</th></tr>
+          <tr><td>1</td><td>7.27</td><td>6.66</td><td>5.89</td></tr>
+          <tr><td>2</td><td>5.76</td><td>6.36</td><td>6.12</td></tr>
+          <tr><td>3</td><td>6.02</td><td>7.45</td><td>4.27</td></tr>
+          <tr><td>4</td><td>3.00</td><td>6.43</td><td>5.15</td></tr>
+          <tr><td>5</td><td>4.84</td><td>4.99</td><td>4.22</td></tr>
+          <tr><td>6</td><td>5.92</td><td>&nbsp;</td><td>3.16</td></tr>
+          <tr><td>7</td><td>5.66</td><td>&nbsp;</td><td>4.28</td></tr>
+          <tr><td>8</td><td>3.69</td><td>&nbsp;</td><td>2.94</td></tr>
+          <tr><td>9</td><td>4.79</td><td>&nbsp;</td><td>3.35</td></tr>
+          <tr><td>10</td><td>4.76</td><td>&nbsp;</td><td>5.60</td></tr>
+          <tr><td>11</td><td>3.88</td><td>&nbsp;</td><td></td></tr>
+          <tr><td>12</td><td>5.35</td><td>&nbsp;</td><td></td></tr>
+          <tr><td>13</td><td>5.61</td><td>&nbsp;</td><td></td></tr>
+          <tr><td>14</td><td>5.03</td><td>&nbsp;</td><td></td></tr>
+          <tr><th>Mean</th><th>5.11</th><th>6.38</th><th>4.49</th></tr>
+        </tbody>
+      </table>
+      </p>
+      <p>
+        A box plot generated with R is shown in Figure 13.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_word_freq_3texts.png"/><br/>
+        Figure 13: Box Plot of Frequencies per Thousand Words of 所 Suǒ
+      </p>
+      <p>
+        A test of whether the means of word frequency for 所 suǒ for each of the three texts is
+        done with ANOVA using the R commands below.
+      </p>
+      <p class='formula'>
+        <pre>
+          &gt; gsz &lt;- c(7.27, 5.76, 6.02, 3.00, 4.84, 5.92, 5.66, 3.69, 4.79, 4.76, 3.88, 5.35, 5.61, 5.03)
+          &gt; summary(gsz)
+             Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+            3.000   4.768   5.190   5.113   5.735   7.270 
+          &gt; luoyang &lt;- c(6.66, 6.36, 7.45, 6.43, 4.99)
+          &gt; summary(luoyang)
+             Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+            4.990   6.360   6.430   6.378   6.660   7.450 
+          &gt; mhzg &lt;- c(5.89, 6.12, 4.27, 5.15, 4.22, 3.16, 4.28, 2.94, 3.35, 5.60)
+          &gt; summary(mhzg)
+             Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+            2.940   3.568   4.275   4.498   5.487   6.120 
+          &gt; texts &lt;- c("gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "gsz", "luoyang", "luoyang", "luoyang", "luoyang", "luoyang", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg", "mhzg")
+          &gt; frequencies &lt;- c(gsz, luoyang, mhzg)
+          &gt; length(frequencies)
+          [1] 29
+          &gt; frequencies.aov = aov(frequencies ~ texts)
+          &gt; summary(frequencies.aov)
+                      Df Sum Sq Mean Sq F value Pr(&gt;F)  
+          texts        2  11.78   5.891   5.014 0.0144 *
+          Residuals   26  30.55   1.175                 
+          ---
+          Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+          &gt; p &lt;- 3
+          &gt; n &lt;- length(frequencies)
+          &gt; qf(0.99, p - 1, n - p)
+          [1] 5.526335
+          &gt; qf(0.95, p - 1, n - p)
+          [1] 3.369016
+        </pre>
+      </p>
+      <p>
+        The output of the summary of <code>aov()</code> result shows that F value = 5.014.
+        The computed values of the inverse of the cumulative F distribution at the
+        α<sub>0</sub> = 0.01 and 0.05 levels are 
+        F<sup>-1</sup>(1 - 0.01) = 5.526 and F<sup>-1</sup>(1 - 0.05) = 3.369.
+        The ANOVA shows that the null hypothesis that the means are equal should be rejected at the 0.05
+        level of significance but not the 0.01 level, since 
+        3.369 &lt; F value &lt; 5.526.
+        This is consistent with the ANOVA output for the power function Pr(&gt;F) = 0.0144.
+        ▢
+      </p>
+      <h3><a name="simulation"></a>Simulation</h3>
+      <p>
+        Simulation can be used to solve problems where there is no closed-form solution.
+        Examples are computing means, variances, and quantiles for formulas that cannot be solved
+        algebraically.
+        The simulations usually make use of large numbers of randomly generated numbers.
+        Statistical simulation is sometimes called <strong>Monte Carlo analysis</strong> because of the use
+        of randomness.
+        (DeGroot and Morris, <i>Probability and Statistics</i>, 791)
+      </p>
+      <p>
+        R functions can be used to generate random values with the different distributions discussed in this
+        document.
+        Figure 14 shows a histogram produced from the R function <code>rnorm(10000)</code> that produces
+        10,000 random numbers with a standard normal distribution.
+      </p>
+      <p class='picture'>
+        <img src="images/stats_random_normal.png"/><br/>
+        Figure 14: Histogram of Random Values from a Standard Normal Distribution
+      </p>
+      <h3><a name="information"></a>Information Theory</h3>
+      <p>
+        Information theory has arisen from communications theory in electrical engineering in connection with the study of transmission rates and error correction. (Cover and Thomas, 2012, ch. 1) 
+        Information theory was first formulated in its present form by Shannon in the 1940's. (Cover and Thomas, 2012, ch. 2)
+        It was later expanded to areas of computer science, such as data compression and data storage. Information theory concepts have since spread back into statistics and other fields like economics and physics. The definition of entropy above can be used as a basis for many other definitions that parallel concepts in probability and statistics. Some of these are described here.
+      </p>
+      <h4><a name="information_concepts"></a>Concepts</h4>
+      <p>
+        The <strong>joint entropy</strong> H(X, Y) of a pair of random variables is defined as
+      </p>
+      <p class='formula'>
+         H(X, Y) = -∑<sub>x∈X</sub>∑<sub>y∈Y</sub>p(x, y) log(p(x, y))
+      </p>
+      <p>
+        where (X, Y) is a pair of discrete random variables with probability distribution p(x, y). (Cover and Thomas, 2012, ch. 2.2)
+      </p>
+      <p>
+        The <strong>conditional entropy</strong> H(X|Y) is defined as 
+      </p>
+      <p class='formula'>
+         H(X|Y) = -∑<sub>x∈X</sub>H(Y|X=x) = -∑<sub>x∈X</sub>∑<sub>y∈Y</sub>p(x, y) log(p(y|x))
+      </p>
+      <p>
+        where (X, Y) is a pair of discrete random variables. (Cover and Thomas, 2012, ch. 2.2)
+      </p>
+      <p>
+        The <strong>chain rule</strong> for entropy is
+      </p>
+      <p class='formula'>
+         H(X, Y) = H(X) + H(Y|X)
+      </p>
+      <p>
+        Described in words, the entropy of a pair of random variables is the sum of the entropy of one random variable and the conditional entropy of the other. (Cover and Thomas, 2012, ch. 2.2)
+      </p>
+      <p>
+        <strong>Relative entropy</strong> D(p||q) is a measure of the distance between the distributions of random variables p and q. In symbols, it is defined as
+      </p>
+      <p class='formula'>
+         D(p||q) = ∑<sub>x∈X</sub>p(x) log(p(x)/q(x))
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.3)
+      </p>
+      <p>
+        The <strong>mutual information</strong> I(X; Y) for two discrete random variables X and Y with joint distribution p(x, y) is defined as the relative entropy between the joint distribution and the product of the marginal distributions p(x)p(y)
+      </p>
+      <p class='formula'>
+         I(X; Y) = -∑<sub>x∈X</sub>∑<sub>y∈Y</sub>p(x, y) log(p(y, x)/[p(x)p(y)])
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.3)
+      </p>
+      <p>
+        The relationship between mutual information and entropy is 
+      </p>
+      <p class='formula'>
+         I(X; Y) = H(X) - H(X|Y)
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.3)
+      </p>
+      <p>
+        The concept of convex functions is important in many proofs in information theory.
+        A function f(x) is convex of interval (a, b) if for every pair points x<sub>1</sub>, x<sub>2</sub> in the interval and for 0 ≤ λ ≤ 1, the following condition holds
+      </p>
+      <p class='formula'>
+         f(λx<sub>1</sub> + (1-λ)x<sub>2</sub>) ≤ λx<sub>1</sub> + (1-λ)x<sub>2</sub>
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.6)
+      </p>
+      <p>
+        Markov chains, introduced above, are useful in information theory. 
+        Random variables X, Y, and Z form a <strong>Markov chain</strong> X → Y → Z if the joint probability function is        
+      </p>
+      <p class='formula'>
+         p(x, y, z) = p(x)px(y|x)p(z|y)
+      </p>
+      <p>
+        In words, this means that no manipulation of Y can increase the information that it contains about X.
+        (Cover and Thomas, 2012, ch. 2.8)
+      </p>
+      <p>
+        The <strong>Data-processing inequality</strong> theorem states that, if X → Y → Z form a Markov chain then
+      </p>
+      <p class='formula'>
+        I(X; Y) ≥ I(X; Z)
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.8)
+      </p>
+      <p>
+        As explained above, a statistic is a function of a set of random variables.
+        A <strong>sufficient statistic</strong> T(X) contains all the information in X about ϴ.
+        In symbols, a sufficient statistic is a function T(X) relative to a family of probability functions
+        {f<sub>ϴ</sub>(x)} parameterized by ϴ, if X is independent of ϴ for any distribution of ϴ, given T(X). 
+        In this case, ϴ → T(X) → X is a Markov chain.
+        This is the case of equality in the data-processing inequality theorem:
+      </p>
+      <p class='formula'>
+        I(ϴ; X) = I(ϴ; T(X))
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.9)
+      </p>
+      <p>
+        T(X) is a <strong>minimally sufficient statistic</strong> if it is a function of every other statistic.
+        In this case, ϴ → T(X) → U(X) → X is a Markov chain.
+      </p>
+      <p class='formula'>
+        I(ϴ; X) = I(ϴ; T(X))
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 2.9)
+      </p>
+      <h4><a name="asymptotic_equipartition"></a>Asymptotic Equipartition Property</h4>
+      <p>
+        The <strong>asymptotic equipartition property</strong> (AEP) states that, 
+        if X<sub>1</sub>, X<sub>2</sub>, ... are independent and identicially distributed with
+        probability density function p(x) then
+      </p>
+      <p class='formula'>
+        -(1/n) log p(X<sub>1</sub>, X<sub>2</sub>, ... , X<sub>n</sub>) → H(X)
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 3.1)
+        The AEP is analogous the law of large numbers in statistics.
+        Here the symbol → means <strong>convergence of random variables</strong>. 
+        A sequence of random variables X<sub>1</sub>, X<sub>2</sub>, ... converges to a random variable X if 
+        Pr{lim<sub>n→∞</sub>X<sub>n</sub> = X} = 1.
+      </p>
+      <p>
+        A <strong>typical set</strong> A<sup>(n)</sup> with respect to probability density function p(x)
+        is the set of sequences (x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>) with the property
+      </p>
+      <p class='formula'>
+        2<sup>-n(H(X)+ε)</sup> ≤ p(x<sub>1</sub>, x<sub>2</sub>, ..., x<sub>n</sub>) ≤ 2<sup>-n(H(X)-ε)</sup>
+      </p>
+      <p>
+        (Cover and Thomas, 2012, ch. 3.1)
+      </p>
+      <p>
+        The AEP has applications in data compression.
+        By partitioning a set of strings into a typical set and a non-typical set and representing the strings by 
+        an integer index, for a large number of elements n, the expected number of bits needed to represent the set is 
+        nH(X).
+        (Cover and Thomas, 2012, ch. 3.2)
+      </p>
+      <h4><a name="compression"></a>Data Compression</h4>
+      <p>
+        A <strong>source code</strong> for a random variable is a mapping from the range of the random variable
+        to a set of finite length strings of symbols in an alphabet. Here the source code is givne the symbol C,
+        the random variable X, the arity of the alphabet is D, C(x) is the codeword for the value x of the 
+        random variable X, D<sup>*</sup> is the set of symbols C(X), and l(x) is the length of C(x). 
+        The <strong>expected length</strong> L(C) of a source code is 
+      </p>
+      <p class='formula'>
+        L(C) = ∑<sub>x∈X</sub> p(x)l(x)
+      </p>
+      <p>
+        For example, if X is a random variable with x ∈ {1, 2, 3, 4}, and D = {0, 1}, then a possible source code
+        is C(1) = 0, C(2) = 10, C(3) = 110, C(4) = 111.
+        A code is <strong>nonsingular</strong> is every element of X maps to a different string in D<sup>*</sup>.
+        The example just given is nonsingular because each of the C(X) is different.
+        (Cover and Thomas, 2012, ch. 5.1)
+      </p>
+      <p>
+        The <string>extension of a source code</strong> is the set of strings C(X) concatenated together.
+        In symbols, the extension C<sup>*</sup> is the set of strings 
+      </p>
+      <p class='formula'>
+        C(x<sub>1</sub>)C(x<sub>2</sub>) ... C(x<sub>n</sub>)
+      </p>
+      <p>
+        If the extension is nonsingular then it is referred to as <strong>uniquely decodable</strong>.
+        This is important because it means that a compressed file can be made up of concatenated symbols
+        without any separator between them.
+        The example above is uniquely decodable because no symbol is a prefix of any other symbol.
+        Such as source code is called a <strong>prefix code</strong> or an <strong>instantaneous code</strong>.
+        It does not need any lookahead to resolve ambiguity in the string of symbols.
+        (Cover and Thomas, 2012, ch. 5.1)
+      </p>
+      <h3><a name="references"></a>References</h3>
+      <ol>
+        <li>
+          Amies, Alex. NTI Buddhist Text Reader GitHub Project, 2014. 
+          <a href="https://github.com/alexamies/buddhist-dictionary">https://github.com/alexamies/buddhist-dictionary</a>.
+        </li>
+        <li>
+          Bird, Steven, Ewan Klein, and Edward Loper. <i>Natural Language Processing with Python</i>. O’Reilly Media, Inc., 2009.
+        </li>
+        <li>
+          Cover, Thomas M, and Joy A Thomas. 2012. Elements of Information Theory. New York, NY: John Wiley &amp; Sons.
+        </li>
+        <li>
+          Forbes, J. D. “Further Experiments and Remarks on the Measurement of Heights by the Boiling Point of Water.” Transactions of the Royal Society of Edinburgh 21 (1857): 135–43.
+        </li>
+        <li>
+          DeGroot, Morris H., and Mark J. Schervish. <i>Probability and Statistics</i>. 4 edition. Boston: Pearson, 2011.
+        </li>
+        <li>
+          Knell, Robert. <i>Introductory R: A Beginner’s Guide to Data Visualisation, Statistical Analysis and Programming in R</i>. United Kingdom: Self published, 2013.
+        </li>
+        <li>
+          Krippendorff, Klaus H. <i>Content Analysis: An Introduction to Its Methodology</i>. Third Edition edition. SAGE Publications, Inc, 2012.
+        </li>
+        <li>
+          POS tagger (Java), 2006. <a 
+          href='http://en.literateprograms.org/POS_tagger_(Java)'>http://en.literateprograms.org/POS_tagger_(Java)</a>,
+          accessed 2015-09-19.
+        </li>
+        <li>
+          Pulleyblank, Edwin G. <i>Outline of Classical Chinese Grammar</i>. 
+          Vancouver: UBC Press, 1995.
+        </li>
+        <li>
+          Manning, Christopher D. and Schütze, Hinrich. <i>Foundations of
+          Statistical Natural Language Processing. Cambridge</i>, Mass: MIT
+          Press, 1999.
+        </li>
+        <li>
+          Mol, M., 2013. <a href='http://rosettacode.org/'>rosettacode.org</a>,
+          accessed 2015-09-20.
+        </li>
+        <li>
+          Yau, Chi. <i>R Tutorial with Bayesian Statistics Using OpenBUGS</i>. 
+          Self, 2014. 
+          <a href="http://www.r-tutor.com/content/r-tutorial-ebook">http://www.r-tutor.com/content/r-tutorial-ebook</a>.
+        </li>
+        <li>
+          The R Project for Statistical Computing (version Pumpkin Helmet). R Foundation, 2014. 
+          <a href="http://www.r-project.org/">http://www.r-project.org</a>.
+        </li>
