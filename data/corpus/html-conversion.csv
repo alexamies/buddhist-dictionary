@@ -1,9 +1,13 @@
 # HTML files outside the corpus to be converted to add popover for Chinese words
 # Raw file, Output file, Template
 ../html/abbreviations.html	abbreviations.html	reference-template.html
+../html/about.html	about.html	about-template.html
+../buddhist_style_guide.html	buddhist_style_guide.html	reference-template.html
 ../html/corpus.html	corpus.html	texts-template.html
+../html/dict_resources.html	dict_resources.html	reference-template.html
 ../html/popular.html	popular.html	texts-template.html
 ../html/references.html	references.html	reference-template.html
+../html/buddhist_style_guide.html	buddhist_style_guide.html	reference-template.html
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html
 ../html/taisho.html	taisho/taisho.html	texts-template.html
 ../html/taisho/t01.html	taisho/t01.html	texts-template.html
