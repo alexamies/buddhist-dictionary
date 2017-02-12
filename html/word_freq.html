@@ -1,29 +1,28 @@
-      <h2>Word Frequency Analysis</h2>
+      <h2>Corpus Analysis of the Chinese Buddhist Canon</h2>
       <p>
-        See the <a href="https://github.com/alexamies/buddhist-dictionary">Buddhist Dictionary GitHub project</a> 
-        for a description on how to do word frequency analysis on Buddhist texts in Chinese and Sanskrit using
-        the createvocab.py Python command line tool. Word frequencies are also used for word disambiguation by 
-        the reader. The word frequencies for the tagged corpus are shown below.
+        As explained in the page <a href='annotation.html'>About the Chinese 
+        Text Reader for the Chinese Buddhist Canon</a> the <a
+        href="https://github.com/alexamies/chinesenotes.com/tree/master/go/src/cnreader"
+        title="Command line tool on GitHub">cnreader</a> tool analyzes the 
+        text in the <a href='taisho/taisho.html'>Taishō shinshū daizōkyō</a> 
+       《大正新脩大藏經》 (Taishō) version of the Chinese Buddhist canon. In
+        addition to generating text files for the text reader, the program
+        analyses the collection of texts as a corpus to find word frequencies,
+        bigram frequencies, collocations, and extract example uses for words 
+        in the NTI Reader dictionary. The analysis results for the entire
+        set of texts is shown in the page 
+        <a href='analysis/corpus_analysis.html'>Corpus Analysis</a>.
       </p>
-      <p class='picture'>
-        <img src="images/unigram_frequency.png"/><br/>
-        Word Frequency versus Rank
-      </p>
-      <h3>Uses of word frequency analysis</h3>
+      <h3>Word Frequency analysis</h3>
       <p>
         Word frequency analysis is useful in getting an idea of an untranslated text.
         This is important because there is more untranslated text than translated text
-        in the Chinese Mahayana Tripitaka and other Chinese text collections.  
+        in the Chinese Buddhist canon and other Chinese text collections.  
         Even for translated texts a word frequency
         analysis can be useful for writing a commentary or doing a close reading.
         It can also be useful for comparing different translations for style and quality or
         for comparing different historic recensions of the same source document.
       </p>
-      <p>
-        Study texts in a quantitative way rather than qualitative, covering a broader 
-        range of texts than is possible than reading every text yourself.
-      </p>
-      <h3>Types of word frequency analysis</h3>
       <p>
         A frequency distribution of non-functional words can give an idea of the content 
         of a text at a quick glance. A frequency distribution of functional words can 
@@ -33,39 +32,70 @@
         A character frequency distribution may be more useful when your are missing 
         vocabulary.
       </p>
-      <h3>Difficulties with word frequency analysis</h3>
       <p>
         You need a good base vocabulary to do a word frequency analysis in Chinese.
         Since Chinese text does not have spaces in between words you need the vocabulary
         to find the boundaries between the words. Otherwise, you will simply end of with
-        a character frequency distribution.
+        a character frequency distribution. The NTI Reader dictionary is 
+        essential for the word frequency analysis.
       </p>
       <p>
-        Sanskrit word morphology is a challenge since there is a large number of different
-        inflections of Sanskrit words. It is useful to both list the different
-        forms of common words in the dictionary and to do transformations for common
-        inflictions. There is an infinite number of compounds that can be formed in
-        Sanskrit. This provides an additional challenge. 
+        A word frequency analysis by genre is also done. This uses genre labels
+        for texts according to their position in the Taishō. For example,
+        Āgama for volumes 1-2, Jātaka and Avadāna for volumes 3-4, and
+        Prajñāpāramitā for volumes 5-8.
+      </p>
+      <h3>Content Analysis</h3>
+      <p>
+        Word frequency analysis is also done for each individual text. Analysis
+        of individual texts it is referred to <em>content analysis</em> rather
+        than corpus analysis, which refers to the entire set of texts.
+        For example, see the content analysis results for the 
+        <a href='analysis/taisho/t1666_analysis.html'>Treatise on the Awakening
+        of Faith in the Mahāyāna</a> (T 1666).
+      </p>
+      <h3>Word Usage Analysis</h3>
+      <p>
+        In addition to an overall analysis of whole corpus and each text within
+        it, the analysis results can be view for each word. This includes the
+        texts that the word is mentioned most frequently in, collocations, and
+        examples of word usage. The list of texts that the word is mentioned
+        most frequently in provides links to specific locations within the 
+        Buddhist text that use the given word most frequently.
+        For example, looking at the page for the word 真如 zhēnrú tathatā or 
+        'suchness' we find that the term is most frequently mentioned in 
+        Scroll 16 of the the Large Sūtra on Perfection of Wisdom (T 220).
+      </p>
+      <h4>Collocation Analysis</h4>
+      <p>
+        A <em>collocation</em> is a habitual combination of words
+        (Crystal 2008, s.v. 'collocation'). For example, in English, an
+        <i>auspicious occasion</i> or <i>draw a conclusion</i>.
+        Some collocations express sentiment. For example, the collocations
+        a <i>notorious thief</i> and <i>habitual gambler</i> express negative
+        sentiments. This is related to the concept of <i>semantic prosody</i>,
+        which describes words that occur together with other words in a 
+        semantic set (Crystal 2008, s.v. 'semantic prosody').
+        Collocations are important in translation and will usually be 
+        translation units.
       </p>
       <p>
-        Synonyms and Chinese character variants are an additional obstacle. The Buddha
-        has ten titles, such as Tathāgata, Bhagavān. It would be useful to group these
-        together.
+        List of collocations in the NTI Reader are based on a bigram analysis
+        of the corpus. To avoid the list being dominated by common bigrams that
+        are related to free selection with function words, bigrams with 
+        function words are removed from the set.
       </p>
+      <h3>Related</h3>
       <p>
-        See the links below for the full data sets. 
+        For more (slightly older) on word frequency analysis see the page 
+        <a href="statistics.html">Statistical Background</a>.
       </p>
-      <ul>
-        <li><a href='corpus_entry.php?uri=analysis/diamond-sutra-taisho-analysis.md'>Diamond Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/diamond-sutra-sanskrit-analysis.md'>Diamond Sūtra (Sanskrit)</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/heart-sutra-xuanzang-analysis.md'>Heart Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/medicine_buddha_sutra_analysis.md'>Sūtra of the Medicine Buddha</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/amitabha-sutra-kumarajiva-analysis.md'>Amitābha Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/ksitigarbha_taisho_analysis.md'>Sūtra of the Great Vow of Kṣitigarbha Bodhisattva</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/eight-ealizations-anshigao-analysis.md'>Sūtra on the Eight Realizations of the Great Beings</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/universal-sutra-taisho-analysis.md'>Universal Gate Sūtra</a></li>
-        <li><a href='corpus_entry.php?uri=analysis/sutra-42-taisho-analysis.md'>Sūtra of Forty-Two Sections</a></li>
-      </ul>
+      <h3>References</h3>
       <p>
-        For more on word frequency analysis see the page <a href="statistics.html">Statistical Background</a>.
+        <ol>
+          <li>
+            Crystal, D 2008, <i>Dictionary of Linguistics and Phonetics</i>,
+            6th edition (Kindle), Wiley-Blackwell, Malden, MA ; Oxford.
+          </li>
+        </ol>
       </p>
