@@ -2,6 +2,7 @@
 # Raw file, Output file, Template
 ../html/abbreviations.html	abbreviations.html	reference-template.html
 ../html/about.html	about.html	about-template.html
+../html/about_chinese_canon.html	about_chinese_canon.html	about-template.html
 ../html/annotation.html	annotation.html	reference-template.html
 ../html/buddhist_dictionary_templates.html	buddhist_dictionary_templates.html	reference-template.html
 ../html/buddhist_style_guide.html	buddhist_style_guide.html	reference-template.html
