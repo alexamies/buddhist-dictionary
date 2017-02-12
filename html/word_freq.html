@@ -85,6 +85,35 @@
         are related to free selection with function words, bigrams with 
         function words are removed from the set.
       </p>
+      <h3>Vocabulary Identification</h3>
+      <p>
+        Corpus analysis has also be used to identify words and word senses
+        subsequently added to the NTI Reader dictionary. 
+      </p>
+      <p>
+        The scan of the texts by the cnreader
+        software identifies all the Chinese characters that are not in the
+        dictionary. Word entries for these characters are then added using
+        the Jupyter notebook <a
+        href='https://github.com/alexamies/chinesenotes.com/blob/master/python/unihan.ipynb'
+        >unihan.ipynb</a> from the entry in the Unihan database
+        (Unicode Consortium 2016, 'Unihan Database Lookup').
+      </p>
+      <p>
+        Titles for texts in the Taishō were extracted from 
+        <a href='http://cbeta.org/'>CBETA</a>, which is shared under Creative
+        Commons, and the The Korean Buddhist Canon: A Descriptive Catalogue
+        (Lancaster, 2004), which was used with permission. This was automated
+        using the <a 
+        href='https://github.com/alexamies/chinesenotes.com/blob/master/python/add_title.ipynb'
+        >add_title.ipynb</a> Jupyter notebook.
+      </p>
+      <p>
+        Other words were found in reading Buddhist texts or examining the 
+        bigram frequency list and then added the dictionary after
+        checking the defintions in one or more of the <a href='references.html'
+        >References</a>.
+      </p>
       <h3>Related</h3>
       <p>
         For more (slightly older) on word frequency analysis see the page 
@@ -96,6 +125,17 @@
           <li>
             Crystal, D 2008, <i>Dictionary of Linguistics and Phonetics</i>,
             6th edition (Kindle), Wiley-Blackwell, Malden, MA ; Oxford.
+          </li>
+          <li>
+            Lancaster, LR 2004, <i>The Korean Buddhist Canon: A Descriptive
+            Catalogue</i>, accessed 11 February 2017, 
+            <a href='http://www.acmuller.net/descriptive_catalogue/'
+            >http://www.acmuller.net/descriptive_catalogue/</a>.
+          </li>
+          <li>
+            Unicode Consortium 2016, 'Unihan Unicode Database', accessed 
+            11 February 2017, <a href='http://www.unicode.org/reports/tr38/'
+            >http://www.unicode.org/reports/tr38/</a>.
           </li>
         </ol>
       </p>
