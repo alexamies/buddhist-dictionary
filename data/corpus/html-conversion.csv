@@ -11,6 +11,7 @@
 ../html/faq.html	faq.html	reference-template.html	false
 ../html/help.html	help.html	reference-template.html	true
 ../html/index.html	index.html	index-template.html	false
+../html/ntireader_metadata.html	ntireader_metadata.html	reference-template.html	false
 ../html/popular.html	popular.html	texts-template.html	false
 ../html/pos_tags.html	pos_tags.html	reference-template.html	false
 ../html/references.html	references.html	reference-template.html	false
