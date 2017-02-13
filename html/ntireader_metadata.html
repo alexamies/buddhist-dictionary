@@ -1,0 +1,292 @@
+<h3>Metadata Used in the NTI Reader</h3>
+<p>
+  Metadata is data that describes data. Importantly, metadata enables resource
+  discovery. Metadata typically describes the content, context, and structure
+  (Gilliland 2008, p. 2). Two basic kinds of metadata are used in
+  the NTI Reader: text metadata and dictinary metadata. 
+  The NTI Reader corpus metadata describes
+  the texts in the Chinese Buddhist canon, such as title, translator, and 
+  Taishō number. Dictionary metadata describes words. Metadata may seem a little
+  strange and formal for users of the NTI Reader, so it is kept as simple as
+  possible.
+</p>
+<h4>Corpus Metadata</h4>
+<p>
+  An important example of metadata is library metadata, which includes indexes,
+  abstracts, and bibliographic lists. An example of a standard metadata system
+  for libraries
+  is the <i>Dublin Core Metadata Element Set</i> (Dublin Core Metadata
+  Initiative 2012). Dublin Core is a formal standard with broad applicability.
+  The NTI Reader uses a very simplle metadata set for the specific purpose of 
+  the text reader and dictionary. It does not conform to the Dublin Core
+  or any other standard but it is hopefully helpful to the users of the site.
+</p>
+<p>
+  The corpus metadata is described in Table 1.
+</p>
+<table>
+  <caption>Table 1: NTI Reader Corpus Metadata</caption>
+  <tr><th>Item</th><th>Description</th></tr>
+  <tbody>
+  <tr>
+    <td>Taishō number</td>
+    <td>
+      For example, T 1666 for the <i>Treatise on the Awakening of Faith in the
+      Mahāyāna</i>.
+    </td>
+  </tr>
+  <tr>
+    <td>Taishō volume</td>
+    <td>
+      The volume is not strictly needed since the number uniquely
+      determines the identity of a text. However, it may help users navigating
+      the canon.
+    </td>
+  </tr>
+  <tr>
+    <td>Title</td>
+    <td>
+      Text titles in the Taishō in traditional Chinese and English or Sanskrit,
+      where available. The titles in Chinese pinyin will be given if the English
+      or Sanskrit title is not available. For example, <i>Treatise on the
+      Awakening of Faith in the Mahāyāna</i> 《大乘起信論》. There may be several
+      versions of the title, which may be helpful if the text is known by more
+      than one name. The Taishō number can still be used to identify the text
+      in this case. 
+    </td>
+  </tr>
+  </tr>
+    <td>Structure</td>
+    <td>
+      The links to the files and HTML pages containing the content of the text.
+      This is typically, 'Scroll 1', 'Scroll 2', etc.
+    </td>
+  </tr>
+  <tr>
+    <td>Section names</td>
+    <td>
+      For example Āgamas, Jātaka and Prajñāpāramitā
+    </td>
+  </tr>
+    <td>Attribution</td>
+    <td>
+      Translator, author, editor, other other person(s) that the text is
+      attributed to
+    </td>
+  </tr>
+  </tr>
+    <td>Method produced</td>
+    <td>
+      For example, translated, compiled, composed or spoken
+    </td>
+  </tr>
+  </tr>
+    <td>Date range</td>
+    <td>
+      The date that the text is believed to have originated or been translated.
+    </td>
+  </tr>
+  </tr>
+    <td>Genre</td>
+    <td>
+      These correspond roughly with the section names but are not exactly the
+      same. For example, the Jātaka section contains avadāna in addition to
+      Jātaka texts. The 九部經 jiǔbùjīng navāṅga-śāsana 'nine kinds of teaching'
+      are also encompassed in genre.
+    </td>
+  </tr>
+  </tr>
+    <td>Notes</td>
+    <td>
+      Freeform notes that may include English translations. if they exist; 
+      mapping to other canons, such as the Pali or Korean; Internal structure
+      for large texts, such as the Āgamas.
+    </td>
+  </tr>
+  </tbody>
+</table>
+<p>
+  Input of the metadata and text for the corpus could be entered by hand, ie by
+  typing or by cut-and-paste. However, this would have taken too long. The 
+  project used scripting with <a href="http://www.jupyter.org">Jupyter</a>
+  notebooks and Python. The Jupyter notebooks created are an intermediate
+  artifact that is only used by the creator of the the metadata and text files.
+  The <a 
+  href="https://github.com/alexamies/buddhist-dictionary/blob/master/python/"
+  >notebooks</a> are be saved to GitHub as part of the project for version
+  tracking and future reuse.
+</p>
+<h4>Dictionary Metadata</h4>
+<p>
+  The basic unit of information in the NTI Reader dictionary is a lexical unit.
+  See the <a
+  href="buddhist_style_guide.html">Style Guide</a> for a description of semantic
+  data from the perspective of an editor adding entries.
+  The fields for each lexical unit are listed in Table 2.
+</p>
+<table>
+  <caption>Table 2: Metadata for Lexical Units</caption>
+  <tr><th>Item</th><th>Description</th><th>Example</th></tr>
+  <tbody>
+  <tr>
+    <td>headword</td>
+    <td>
+      A unique identifier for the headword.
+    </td>
+    <td>3618</td>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>
+      A unique integer identifying the lexical unit. There are multiple lexical
+      units for each headword. The id of the first lexical unit will be the
+      same as the headword id.
+    </td>
+    <td>
+      3618
+    </td>
+  </tr>
+  <tr>
+    <td>simplified</td>
+    <td>
+      Simplified Chinese text for the word. This is also the headword, which
+      is constant for different lexical units.
+    </td>
+    <td>
+      佛
+    </td>
+  </tr>
+  <tr>
+    <td>traditional</td>
+    <td>
+      Traditional Chinese text for the word. If the traditional is the same as
+      the simplified, then this field is omitted.
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  <tr>
+    <td>pinyin</td>
+    <td>
+      Pronunciation written in Hanyu pinyin
+    </td>
+    <td>
+      fó
+    </td>
+  </tr>
+  <tr>
+    <td>english</td>
+    <td>
+      One of more English equivalents for the Chinese word.
+    </td>
+    <td>
+      Buddha / Awakened One
+    </td>
+  </tr>
+  <tr>
+    <td>grammar</td>
+    <td>
+      Part of speech
+    </td>
+    <td>
+      proper noun
+    </td>
+  </tr>
+  <tr>
+    <td>concept_cn</td>
+    <td>
+      The concept (in Chinese) that the word describes. See discussion of
+      metadata below.
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  <tr>
+    <td>concept_en</td>
+    <td>
+      The concept (in Chinese) that the word describes
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  <tr>
+    <td>domain_cn</td>
+    <td>
+      The domain (in Chinese) that the word sense belongs to. See discussion of
+      metadata below.
+    </td>
+    <td>
+      佛教
+    </td>
+  </tr>
+  <tr>
+    <td>domain_en</td>
+    <td>
+      The domain (in English) that the word describes.
+    </td>
+    <td>
+      Buddhism
+    </td>
+  </tr>
+  <tr>
+    <td>subdomain_cn</td>
+    <td>
+      The child domain (in Chinese) that the word sense belongs to.
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  <tr>
+    <td>subdomain_en</td>
+    <td>
+      The child domain (in English) that the word sense belongs to.
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>
+      The name of an image file, mainly used for art and architecture
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+  <tr>
+    <td>notes</td>
+    <td>
+      Abbreviated encyclopedic notes and other information
+    </td>
+    <td>
+      Sanskrit: buddha … See 佛陀. (BL 'Buddha'; CCD '佛' 1; FE '佛' 1; Kroll '佛')
+    </td>
+  </tr>
+  </tbody>
+</table>
+<p>
+  As an example of category and domain metadata consider a word for a temple.
+  The category of the word would be '寺院 Temple' and other
+  metadata should describe the location of the temple. Metadata can help users
+  of the NTI Reader help by remove ambiguity when discussing data and can also
+  help to locate related concepts and keywords. 
+</p>
+<h4>References</h4>
+<ol>
+  <li>
+  	Dublin Core Metadata Initiative 2012, <i>Dublin Core Metadata Element
+  	Set</i>, Version 1.1, viewed 12 February 2017, <a 
+  	href="http://dublincore.org/documents/dces/"
+  	>http://dublincore.org/documents/dces/</a>.
+  </li>
+  <li>
+  	Gilliland, A 2008, “Setting the Stage”, in: Martha Baca (Ed.), 
+  	<i>Introduction to Metadata</i>, Getty Research Institute, Los Angeles,
+  	pp. 1–19.
+  </li>
+</ol>
