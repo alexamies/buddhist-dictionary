@@ -262,16 +262,32 @@
 </table>
 <p>
   The concept, domain and subdomain fields are semantic metadata fields that
-  help to define the kind of a word and context of its use. 
+  are used to tag dictionary entries.
+  They help to define the kind of a word and context of its use. 
   As an example of category consider a word for a temple.
   The category of the word would be '寺院 Temple' and other
-  metadata should describe the location of the temple. The domain for most
+  metadata should describe the location of the temple. 
+  This is what Harpring defines as an instance relationship (Harpring, 2010,
+  pp. 39-40). The domain for most
   Buddhist words is '佛教 Buddhism'. Metadata can help users
   of the NTI Reader help by remove ambiguity when discussing data and can also
   help to locate related concepts and keywords. 
 </p>
 <p>
-  The concept, domain, and 
+  The domain and subdomain fields are hierarchically related to each other and
+  analogous to the Broader Terms (BT) and Narrower Terms (NT) fields in the
+  <i>Library of Congress Subject Headings</i> (Library of Congress 2016, ix). 
+  For example, the domain '佛教 Buddhism' is a parent of the subdomain
+  'Chinese Buddhism 中国佛教' for the dictionary entry for 大乘起信論 
+  <i>Treatise on the Awakening of Faith in the Mahāyāna</i>. 
+</p>
+<p>
+  The domain values are restricted to the 
+  set in <a
+  href="https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/topics.txt"
+  >topics.txt</a>. In this sense the domain labels form a controlled vocabulary.
+  The possible of values for concept and subdomain are not restricted to a
+  limited set.
 </p>
 <h4>References</h4>
 <ol>
@@ -279,5 +295,14 @@
   	Gilliland, A 2008, “Setting the Stage”, in: Martha Baca (Ed.), 
   	<i>Introduction to Metadata</i>, Getty Research Institute, Los Angeles,
   	pp. 1–19.
+  </li>
+  <li>
+    Harpring, P 2010, <i>Introduction to Controlled Vocabularies: Terminology
+    for Art, Architecture, and other Cultural Works</i>. Getty Research
+    Institute, Los Angeles.
+  </li>
+  <li>
+    Library of Congress 2016, <i>Library of Congress Subject Headings</i>, 
+    38th ed. Library of Congress, Washington, D.C.
   </li>
 </ol>
