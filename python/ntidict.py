@@ -40,8 +40,11 @@ def OpenDictionary():
         else:
           wdict[key]['other_entries'].append(entry)
           if traditional != '\\N':
-          	if traditional in wdict:
-          	  wdict[traditional]['other_entries'].append(entry)
+            if traditional in wdict:
+              wdict[traditional]['other_entries'].append(entry)
+            else:
+              entry['other_entries'] = []
+              wdict[traditional] = entry
   #print "OpenDictionary completed with %d entries" % len(wdict)
   return wdict
 
