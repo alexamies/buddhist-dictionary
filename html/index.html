@@ -79,7 +79,7 @@
               <td>{{word.pinyin}}</td>
               <td>{{word.english}}</td>
               <td>
-                <span ng-bind-html="word.notes"></span>
+                <span>{{word.notes | limitTo: 100}}</span>
                 <a ng-if="word.count>1"
                    ng-href="words/{{word.headword}}.html">See all {{word.count}} word senses</a>
               </td>
