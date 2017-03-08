@@ -84,8 +84,8 @@
                 <span ng-if="word.count == 1">{{word.notes | limitTo: 100}}
                   (<a href="words/{{word.headword}}.html">details</a>)
                 </span>
-                <span ng-if="word.count>1"
-                   ng-href="words/{{word.headword}}.html">All {{word.count}} word senses:</span>
+                <a ng-if="word.count>1"
+                   ng-href="words/{{word.headword}}.html">All {{word.count}} word senses:</a>
               </td>
             </tr>
           </tbody>
