@@ -8,7 +8,7 @@
     <meta name="description" content="NTI Buddhist Text Reader">
     <meta name="fragment" content="!">
     <link rel="shortcut icon" href="/images/yan.png" type="image/jpeg" />
-    <title>NTI Buddhist Text Reader</title>
+    <title>NTI Reader Dictionary: Definition of {{ Deref .Headword.Simplified }}</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/buddhistdict.css" rel="stylesheet">
@@ -123,10 +123,11 @@
               <td>{{`{{word.pinyin}}`}}</td>
               <td>{{`{{word.english}}`}}</td>
               <td>
-                <span ng-bind-html="word.notes"></span>
+                <span ng-if="word.count == 1">{{`{{word.notes | limitTo: 100}}`}}
+                  <a href={{`"/words/{{word.headword}}.html"`}}>... details</a>
+                </span>
                 <a ng-if="word.count>1"
-                   ng-href={{`"/words/{{word.headword}}.html"`}}>See 
-                   all {{`{{word.count}}`}} word senses</a>
+                   ng-href={{`"/words/{{word.headword}}.html"`}}>All {{`{{word.count}}`}} word senses</a>
               </td>
             </tr>
           </tbody>
