@@ -1,23 +1,41 @@
       <h2>Introduction to Corpus Analysis of the Chinese Buddhist Canon</h2>
       <p>
-        This page explains some of the technical details of the corpus analysis
+        This page explains some of the linguistic details of the corpus analysis
         of the Chinese Buddhist Canon included in the NTI Reader. The page
         may be useful to people wanting to do terminology extraction of those
-        with an interest in computational linguistics. 
+        with an interest in computational linguistics. The page <a 
+        href='annotation.html'>Description of the NTI Reader</a> gives more
+        details on the elements and construction of the NTI Reader.
+      </p>
+      <h3>The NTI Reader Corpus</h3>
+      <p>
+        The NTI Reader is built on text in volumes 1-55 of the <a
+        href='taisho/taisho.html'>Taishō shinshū daizōkyō</a> 《大正新脩大藏經》
+        (Taishō) version of the Chinese Buddhist canon as a monolingual historic
+        corpus. This is in contrast with a bilingual parallel corpus that
+        matches two languages together in that the entire body of the corpus
+        is literary Chinese. However, the metadata describing the corpus is in
+        English to help users navigate the collection of texts.
       </p>
       <p>
-        As explained in the page <a href='annotation.html'>About the Chinese 
-        Text Reader for the Chinese Buddhist Canon</a> the <a
+        As explained in the page <a href='annotation.html'>Description of the
+        NTI Reader</a> the <a
         href="https://github.com/alexamies/chinesenotes.com/tree/master/go/src/cnreader"
         title="Command line tool on GitHub">cnreader</a> tool analyzes the 
-        text in the <a href='taisho/taisho.html'>Taishō shinshū daizōkyō</a> 
-       《大正新脩大藏經》 (Taishō) version of the Chinese Buddhist canon. In
+        Taishō version of the Chinese Buddhist canon. In
         addition to generating text files for the text reader, the program
         analyses the collection of texts as a corpus to find word frequencies,
         bigram frequencies, collocations, and extract example uses for words 
         in the NTI Reader dictionary. The analysis results for the entire
         set of texts is shown in the page 
         <a href='analysis/corpus_analysis.html'>Corpus Analysis</a>.
+      </p>
+      <p>
+        Source texts are marked with genre to allow analysis to be broken by
+        genre. Example genres are āgama, jātaka, and prajñāpāramitā. The most
+        interesting aspect of this is to allow identification of keywords for
+        specific genres. The genres are taken from the section titles of the
+        Taishō.
       </p>
       <h3>Word Frequency analysis</h3>
       <p>
