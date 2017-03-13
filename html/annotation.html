@@ -1,9 +1,94 @@
-<h2>The NTI Reader and the Chinese Buddhist Canon</h2>
+<h2>Description of the NTI Reader</h2>
 <p>
-  This page gives an introduction on the methodology used to analyze the 
-  Chinese Buddhist canon, as presented on this web site. The Chinese text reader
-  for the <a href='taisho/taisho.html'>Taishō shinshū daizōkyō</a> 
-  《大正新脩大藏經》 (Taishō) Buddhist canon was generated using a freely available tool
+  This page gives a description of what is included with the NTI Buddhist Text
+  Reader (NTI Reader) on this web site.
+  The NTI Reader presents the <i><a href='taisho/taisho.html'>Taishō Shinshū 
+  Daizōkyō</a></i> 《大正新脩大藏經》 (Taishō) version of the Chinese Buddhist canon.
+  The content of the Taishō was downloaded from the digitized version on the <a
+  href="http://tripitaka.cbeta.org/T">CBETA</a> web site.
+</p>
+<h3 id="contents">Contents</h3>
+<ul>
+  <li><a href="#elements">Elements of the NTI Reader</a></li>
+  <li><a href="#building">Building the NTI Reader</a></li>
+  <li><a href="#references">References</a></li>
+</ul>
+<h3 id="elements">Elements of the NTI Reader</h3>
+<p>
+  The following table lists the main elements of the the NTI Reader.
+</p>
+<table>
+  <caption>Table: Main Elements of the NTI Reader</caption>
+  <tbody>
+    <tr><th>Element</th><th>Description</th></tr>
+  <tr>
+    <td>Table of contents</td>
+    <td>
+      English metadata describing the structure of the Taishō, including
+      volume numbers, Taishō text numbers, and text titles.
+    </td>
+  </tr>
+  <tr>
+    <td>Colophon</td>
+    <td>
+      English metadata describing each text, including titles, authors,
+      translators, dates of translation, and table of contents of the text.
+    </td>
+  </tr>
+  <tr>
+    <td>Main text</td>
+    <td>
+      Web pages containing the Chinese text for the content of the Taishō
+    </td>
+  </tr>
+  <tr>
+    <td>Hyperlinks to dictionary definition</td>
+    <td>
+      Each word in the Taishō is matched back to a dictionary definition. 
+      Mouse-over for a brief definition.
+    </td>
+  </tr>
+  <tr>
+    <td>Dictionary lookup</td>
+    <td>
+      Searches for words in the Chinese-English dictionary with links back
+      to use in the Taishō
+    </td>
+  </tr>
+  </tbody>
+</table>
+<p>
+  Besides the metadata on the CBETA web site, much of the metadata from
+  <i><a href="http://www.acmuller.net/descriptive_catalogue/"
+  >The Korean Buddhist Canon: A Descriptive Catalogue</a></i> by
+  Lancaster. See the page <a
+  href="http://ntireader.org/about_chinese_canon.html">About the Chinese
+  Buddhist Canon</a> for more background on the Taishō and the Korean Canon.
+  For more details on the content and structure of the metadata see the page <a
+  href="ntireader_metadata.html">Metadata Used in the NTI Reader</a>.
+</p>
+<p>
+  The NTI Reader has several features that are intended to make it easier
+  for users, including: (1) text segmentation, (2) automatic matching of
+  words in the text to the dictionary with a summary on mouseover and linking
+  to the dictionary definitions (3) highlighting of proper nouns in order to
+  facilitate comparison of different versions of a text using the proper 
+  nouns as markers. Text segmentation means that multi-character words are
+  grouped together from the stream of Chinese characters. This is a point of
+  difficulty for non-native Chinese speakers because Chinese text has no
+  spaces. It may be useful to native Chinese speakers as well because of the
+  large number of multi-character words of Sanskrit origin in the canon.
+</p>
+<p>
+  The contents of the NTI Reader, including text, metadata, and dictionary,
+  may be freely reused in accordance with the
+  <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative 
+    Commons Attribution-Share Alike 3.0 License</a> (CCASE 3.0).
+</p>
+<h3 id="building">Building the NTI Reader</h3>
+<p>
+  The Chinese text reader
+  for the Taishō was generated using a freely available tool
   <a
   href="https://github.com/alexamies/chinesenotes.com/tree/master/go/src/cnreader"
   title="Command line tool on GitHub">cnreader</a>. The HTML pages generated
@@ -24,10 +109,9 @@
   defintion and can click on the word for the full detail on a separate HTML
   page.
 </p>
-<h3>Background</h2>
 <p>
   The collection of texts in this web site are managed as a <i>text corpus</i>.
-  A text corpus, or simply <i>corpus</i>, is a term used in linguistics to 
+  A text <i>corpus</i> is a term used in linguistics to 
   mean a representative collection of texts used to 
   study the linguistic characteristics of a language. The Brown Corpus, first 
   published in 1961 [Francis 1964], was the first large corpus developed.
@@ -55,14 +139,14 @@
   Related pages: <a href="word_freq.html">Corpus Analysis of the Chinese
   Buddhist Canon</a>
 </p>
-<h3>References</h3>
+<h3 id="references">References</h3>
 <ol>
   <li>
     Bird S., Klein E. and Loper E. <i>Natural Language Processing with Python</i>. O'Reilly Media,
     ISBN-13 978-0596516499.
   </li>
   <li>
-    W. N. Francis and H. Kucera. <i>BROWN CORPUS MANUAL: MANUAL OF INFORMATION</i>
+    Francis, WH and H. Kucera. <i>BROWN CORPUS MANUAL: MANUAL OF INFORMATION</i>
     to accompany A Standard Corpus of Present-Day, Edited American English, for use
     with Digital Computers. Brown University, Providence, Rhode Island, Department of Linguistics
     1964.
