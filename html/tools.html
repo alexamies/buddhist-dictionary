@@ -1,3 +1,196 @@
+<h2>Development of the NTI Reader Dictionary</h2>
 <p>
-  See <a href='dict_resources.html'>Resources for Using this Website</a>
+  This page describes the design, sources, and building of the NTI Reader
+  Dictionary. The NTI Reader Dictionary is a Chinese-English dicionary
+  combining general modern Chinese, literary Chinese vocabulary, and
+  Buddhist terminology.
 </p>
+<p>
+  The goals of the NTI Reader dictionary are to:
+  <ol>
+    <li>
+      Support the NTI Reader by providing word entries for words in the texts
+      in a way that is helpful to human users
+    </li>
+    <li>
+      Building an index to help users find the most relevant texts for any given
+      word
+    </li>
+    <li>
+      Support corpus management and analysis software as a machine readable
+      dictionary
+    </li>
+    <li>
+      Provide a general resource to NTI Reader website users in general word
+      search
+    </li>
+  </ol>
+</p>
+<p>
+  In order to achieve these goals, the NTI Reader dictionary combines the
+  function of several traditional dictionaries. In particular, it combines the
+  function of a general literary Chinese-English dictionary and a Buddhist
+  dictionary. Major sources for the NTI Reader dictionary are listed in the 
+  table below.
+</p>
+<p>
+<table>
+  <caption>Table: Comparison of Major Sources by Type</caption>
+  <tbody>
+    <tr><th>Type</th><th>Source</th><th>Notes</th></tr>
+    <tr>
+      <td>Bilingual</td>
+      <td>
+        <i>A Chinese-English Dictionary</i> (Giles 1892); <i>CC-CEDICT</i>
+        (CC-CEDICT Project 2016); <i>Buddhist Chinese-Sanskrit Dictionary</i>
+        (Hirakawa 1997)
+      </td>
+      <td>
+        Giles’ <i>Chinese-English Dictionary</i> is one of the most
+        comprehensive literary Chinese to English dictionaries available
+        although it uses archaic English equivalents. It was written before
+        vernacular Chinese became commonly used for Chinese text, which began
+        around 1911 (Sun 2006, loc. 335-345).
+      </td>
+    </tr>
+    <tr>
+      <td>Etymological</td>
+      <td>
+        <i>Ci Yuan</i> 《辭源》(Guangdong, Guangxi, Hunan, and Henan Ci Yuan
+        Revision Committee 1983); <i>A Student's Dictionary of Classical and
+        Medieval Chinese</i> (Kroll 2015); <i>Gudai Hanyu Cidian</i>
+         《古代汉语词典》 (Chen Fu Hua 2005); <i>Gudai Hanyu Da Cidian</i>
+         《古代汉语大词典》(Wangjian Yin et al. 2007)
+      </td>
+      <td>
+        Etymological dictionaries describe the historic meaning and usage of a
+        word in a modern language. Ci Yuan 《辭源》 is one of the most
+        comprehensive sources of literary Chinese words with meanings
+        described in modern Chinese.
+      </td>
+    </tr>
+    <tr>
+      <td>Buddhist</td>
+      <td>
+        <i>The Princeton dictionary of Buddhism</i> (Buswell and Lopez 2014);
+        <i>Fo Guang Buddhist dictionary</i> 《佛光大辭典》 (Fo Guang Shan 2000)
+      </td>
+      <td>
+        The main focus of Buddhist dictionaries is encyclopedic entries
+        describing Buddhist concepts. What has been used in compilation of the
+        NTI Reader is the headword and a small amount of notes.
+      </td>
+    </tr>
+    <tr>
+      <td>Multilingual</td>
+      <td>
+        <i>Unicode Han Database</i> (Unicode Consortium 2016b)
+      </td>
+      <td>
+        The <i>Unicode Han Database</i> contains entries for Han characters with
+        Chinese, Japanese and Korean readings and basic equivalents in English.
+        It is especially useful for rare characters and for its machine readable
+        format.
+      </td>
+    </tr>
+    <tr>
+      <td>Gazetteers</td>
+      <td>
+        <i>Buddhist Studies Place Authority Databases</i> (Zhang, Bo-Yong and
+        Ge, Grace 2002)
+      </td>
+      <td>
+        A gazetteer contains a list of place names. The <i>Buddhist Studies Place
+        Authority Databases</i> contains entries for many Buddhist temples
+        mentioned in the Taishō
+      </td>
+    </tr>
+    <tr>
+      <td>Linguistic references</td>
+      <td>
+        <i>Outline of Classical Chinese Grammar</i> (Pulleyblank 1995); 
+        <i>Chinese: a Linguistic Introduction</i> (Sun 2006); <i>Chinese</i>
+        (Norman 1988)
+      </td>
+      <td>
+        Used for function words and understanding of syntactic categories
+      </td>
+    </tr>
+  </tbody>
+</table>
+</p>
+<p>
+  Buddhist dictionaries have some aspects of multi-lingual dictionaries because
+  they often include Chinese, Sanskrit, Pali and English. For example, the
+  <i>Princeton Buddhist Dictionary</i> entry for ‘dharma’ includes Sanskrit,
+  Pali, Chinese, Japanese, Korean and Tibetan (Buswell and Lopez 2014, s.v.
+  ‘dharma’).
+</p>
+<h3 id="references">References</h3>
+<ol>
+  <li>
+    Buswell, Robert E., and Donald S. Lopez, eds. <i>The Princeton
+    Dictionary of Buddhism</i>. Princeton: Princeton University Press, 2014.
+  </li>
+  <li>
+  	CEDICT project. “CC-CEDICT.” Accessed March 2, 2014. 
+    <a href="http://cc-cedict.org/wiki/">http://cc-cedict.org/wiki/</a> and 
+    <a href="http://www.mdbg.net/chindict/chindict.php">MDBG Chinese-English
+    dictionary</a>, online dictionary website based on CC-CEDICT.
+  </li>
+  <li>
+    Chen Fu Hua 陈复华, ed. <i>Gudai Hanyu Cidian</i> 《古代汉语词典》. 
+    Beijing: China Commercial Press 商务印书馆, 2005.
+  </li>
+  <li>
+    Fo Guang Shan. “Fo Guang Dictionary of Buddhism 佛光大辭典,” accessed
+    March 2, 2014. <a href='http://etext.fgs.org.tw/search02.aspx'>Online 
+    Buddhist Dictionary</a> 
+  </li>
+  <li>
+    Guangdong, Guangxi, Hunan, and Henan Ci Yuan Revision Committee,
+    1983, Revised ed, <i>Ci Yuan</i> 《辭源》, Commercial Press, Beijing.
+  </li>
+  <li>
+  	Giles, HA 1892. <i>A Chinese-English Dictionary</i>,
+    London: B. Quaritch.
+  </li>
+  <li>
+    Hirakawa, Akira. 1997. <i>Buddhist Chinese-Sanskrit Dictionary</i>. 
+    Tokyo: The Reiyukai.
+  </li>
+  <li>
+    Kroll, PW 2015, <i>A student’s dictionary of Classical and Medieval
+    Chinese</i>, Brill, Leiden, Boston.
+  </li>
+  <li>
+    Norman, J., 1988. <i>Chinese</i>, Cambridge language surveys. Cambridge
+    University Press, Cambridge [Cambridgeshire] ; New York.
+  </li>
+  <li>
+    Pulleyblank, Edwin G. <i>Outline of Classical Chinese Grammar</i>.
+    Vancouver: UBC Press, 1995.
+  </li>
+  <li>
+    Sun, Chaofen 2006. <i>Chinese: A Linguistic Introduction</i>, 
+    Kindle ed., Cambridge, UK; New York: Cambridge University Press.
+  </li>
+  <li>
+    Unicode Consortium, 2015. <i>Unicode Han Database</i>,
+    <a href="http://unicode.org/reports/tr38/"
+    >http://unicode.org/reports/tr38/</a>.
+    Lookup is at
+    <a href="http://www.unicode.org/charts/unihan.html"
+    >http://www.unicode.org/charts/unihan.html</a>.
+   </li>
+   <li>
+    Wangjian Yin 王剑引, Liangjian Min, 2007. <i>Gudai Hanyu Da Cidian</i>
+    《古代汉语大词典》, Ci Hai. edition Shanghai Commercial Press, Shanghai.
+  </li>
+  <li>
+    Zhang, Bo-Yong, and Grace Ge. 2002. "Place Authority Database"
+    《地名規範資料庫》. Dharma Drum Buddhist College, viewed 11 March 2017,
+    <a href="http://authority.dila.edu.tw/place/"
+     >http://authority.dila.edu.tw/place/</a>.
+  </li>
+</ol>
