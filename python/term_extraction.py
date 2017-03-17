@@ -17,6 +17,7 @@ def check_ngrams(dingfubao):
   i = 0
   with codecs.open(NGRAM_FILE_NAME, 'r', "utf-8") as f:
     with codecs.open(NEWWORDS_FILE_NAME, 'w', "utf-8") as g:
+      g.write('Traditional\tOccurences\n')
       for line in f:
         if i >= PROCESS_MAX:
           break
@@ -25,10 +26,12 @@ def check_ngrams(dingfubao):
         if not line:
           continue
         fields = line.split('\t')
-        if fields and len(fields) >= 1:
+        if fields and len(fields) >= 2:
           ngram = fields[0]
+          freq = fields[1]
           if ngram in dingfubao:
-          	g.write(ngram + '\n')
+          	entry = "%s\t%s\n" % (ngram, freq)
+          	g.write(entry)
 
 
 def load_headwords(filename):
