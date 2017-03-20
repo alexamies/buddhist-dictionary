@@ -55,8 +55,8 @@ CREATE TABLE phonetics (
   notes TEXT,
   PRIMARY KEY (id)
   )
-  CHARACTER SET UTF8
-  COLLATE utf8_general_ci
+  CHARACTER SET utf8mb4
+  COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -68,8 +68,8 @@ CREATE TABLE phonetics (
 CREATE TABLE grammar (english VARCHAR(125) NOT NULL,
                       PRIMARY KEY (english)
                      )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -89,8 +89,8 @@ CREATE TABLE topics (simplified VARCHAR(125) NOT NULL,
                      title TEXT,
                      PRIMARY KEY (simplified, english)
                     )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -153,8 +153,8 @@ CREATE TABLE licenses (name VARCHAR(255) NOT NULL,
                        license_url VARCHAR(255),
                        PRIMARY KEY (name)
                       )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -167,8 +167,8 @@ CREATE TABLE authors (name VARCHAR(255),
                       author_url VARCHAR(255),
                       PRIMARY KEY (name)
                      )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -191,8 +191,8 @@ CREATE TABLE illustrations (medium_resolution VARCHAR(255),
                             FOREIGN KEY (author) REFERENCES authors(name),
                             FOREIGN KEY (license) REFERENCES licenses(name)
                            )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -208,8 +208,8 @@ CREATE TABLE measure_words (
 	FOREIGN KEY (measure_word) REFERENCES words(simplified),
 	FOREIGN KEY (noun) REFERENCES words(simplified)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -225,8 +225,8 @@ CREATE TABLE synonyms (
 	FOREIGN KEY (simplified1) REFERENCES words(simplified),
 	FOREIGN KEY (simplified2) REFERENCES words(simplified)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -248,8 +248,8 @@ CREATE TABLE related (
 	PRIMARY KEY (simplified1, simplified2),
 	FOREIGN KEY (simplified1) REFERENCES words(simplified)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -274,8 +274,8 @@ CREATE TABLE phrases (
 	source_name TEXT NOT NULL,
 	PRIMARY KEY (id)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -297,8 +297,8 @@ CREATE TABLE unigram (
 	PRIMARY KEY (pos_tagged_text),
 	FOREIGN KEY (word_id) REFERENCES words(id)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -323,8 +323,8 @@ CREATE TABLE bigram (
 	PRIMARY KEY (id),
 	FOREIGN KEY (word_id) REFERENCES words(id)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -349,8 +349,8 @@ CREATE TABLE radicals (id INT UNSIGNED NOT NULL AUTO_INCREMENT,
                        PRIMARY KEY (id),
                        INDEX (traditional)
                       )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -364,8 +364,8 @@ CREATE TABLE character_types (
 	name VARCHAR(125) NOT NULL,
 	PRIMARY KEY (type)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -397,8 +397,8 @@ CREATE TABLE characters (unicode INT UNSIGNED NOT NULL,
                          UNIQUE (c),
                          INDEX (c)
                         )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
+    CHARACTER SET utf8mb4
+    COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -417,8 +417,8 @@ CREATE TABLE variants (
 	INDEX (c1),
 	INDEX (c2)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -431,8 +431,8 @@ CREATE TABLE font_names (
 	font_name_zh VARCHAR(80) NOT NULL,
 	PRIMARY KEY (font_name_en)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
 
 /*
@@ -451,6 +451,6 @@ CREATE TABLE character_rend (
 	FOREIGN KEY (unicode) REFERENCES characters(unicode),
 	FOREIGN KEY (font_name_en) REFERENCES font_names(font_name_en)
 	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
+	CHARACTER SET utf8mb4
+	COLLATE utf8mb4_unicode_ci
 ;
