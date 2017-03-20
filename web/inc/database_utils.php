@@ -30,9 +30,9 @@ class DatabaseUtils {
         mysql_select_db('cse_dict') 
             or die('Page unavailable');
             //die('Could not select database: ' . mysql_error()); // Use in local mode
-        mysql_query("SET CHARACTER SET 'utf8'", $this->connection)
+        mysql_query("SET CHARACTER SET 'utf8mb4'", $this->connection)
             or die('Could not set CHARACTER SET: ' . mysql_error());
-        mysql_query("SET NAMES 'utf8'", $this->connection)
+        mysql_query("SET NAMES 'utf8mb4'", $this->connection)
             or die('Could not set NAMES: ' . mysql_error());
         //error_log("mysql_client_encoding: " . mysql_client_encoding());
         }
