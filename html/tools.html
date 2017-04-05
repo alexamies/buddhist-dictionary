@@ -11,6 +11,7 @@
   <li><a href="#sources">Sources</a></li>
   <li><a href="#microstructure">Microstructure</a></li>
   <li><a href="#metadata">Metadata</a></li>
+  <li><a href="#examples">Usage Examples</a></li>
   <li><a href="#references">References</a></li>
 </ul>
 <h3 id="goals">Goals</h3>
@@ -322,9 +323,33 @@
   </tr>
   </tbody>
 </table>
+<h3 id="pos">Part of Speech</h3>
+<p>
+  One challenge has been assigning parts of speech to lexical entries. The
+  traditional parts of speech (noun, verb, adjective, etc.) are commonly
+  understood but have problems in themselves and problems in application to
+  literary Chinese. One of the problems with traditional parts of speech is in
+  overlapping categories. Culicover gives the example ‘glass window’ where the
+  noun ‘glass’ modifies the noun ‘window’  (Culicover 2009, p. 45). The noun
+  ‘glass’ is acting like an adjective in this phrase. Culicover gives more
+  examples of nouns acting as adjectives, including ‘cotton dress,’ ‘career
+  move’ and ‘desk chair.’ The theory of syntactic categories is one attempt to
+  address this problem Culicover 2009, p. 45). Despite the problem of
+  overlapping categories traditional parts of speech are still commonly
+  included in dictionary entries.
+</p>
+<p>
+  Assigning parts of speech to literary Chinese is more problematic than
+  English. Norman notes that lack of word morphology and freedom of movement
+  between word categories are problems in formal word class analysis in literary
+  Chinese (Norman 1988, p. 87). However, it is not true that words in literary
+  Chinese cannot be assigned a part of speech at all. Norman outlines a system
+  of word classes similar to the word classes adopted in the NTI Reader (Norman
+  1988, p. 88-94).
+</p>
 <h3 id="metadata">Metadata</h3>
 <p>
-  The concept, domain and subdomain fields are semantic metadata fields that
+  The concept, domain, and subdomain fields are semantic labels that
   are used to tag dictionary entries.
   They help to define the kind of a word and context of its use. 
   As an example of category consider a word for a temple.
@@ -396,6 +421,41 @@
   example, one subdomain for the domain “佛教 Fójiào ‘Buddhism’” is “大乘佛教
   Dàshèng Fójiào ‘Mahāyāna Buddhism’”.
 </p>
+<p>
+  The domain and subdomain fields are similar to the <em>Broader Terms</em> (BT)
+  and <em>Narrower Terms</em> (NT) in the <i>Library of Congress Subject
+  Headings</i> (Library of Congress 2016, ix).
+</p>
+<p>
+  Harpring defines a <em>controlled vocabulary</em> as “an information tool that
+  contains standardized words and phrases used to refer to ideas, physical
+  characteristics, people, places, events, subject matter, and many other
+  concepts” (Harpring 2010, p. 1). Controlled vocabularies help in data
+  categorization, indexing and retrieval. The concept, domain, and subdomain
+  fields in the NTI Reader dictionary are more structured than simple labels
+  but not as carefully defined as a controlled vocabulary. They are a controlled
+  vocabulary in the sense that the concept, domain, and subdomain fields have
+  some hierarchical structure. However, the system does not collect variants and
+  synonyms and related those back to an authoritative record, as in a controlled
+  vocabulary (Harpring 2010, p. 12). In addition, there is inconsistency in the
+  hierarchy. For example, the domain value ‘Buddhism’ can be understood as a
+  domain but the domain value ‘Classical Chinese’ is a language and there is no
+  corresponding ‘Modern Chinese’ value in the hierarchy.
+</p>
+<h3 id="examples">Usage Examples</h3>
+<p>
+  One of the ways of assisting users with deciding on word sense is to give
+  examples that illustrate the various senses. Many of the problems with
+  polysemy come from commonly used words that are not specifically Buddhist
+  terms. Drawing examples for these words randomly from the corpus, however,
+  may not be a great idea. Finding good examples that do not confuse the user
+  is a special topic in itself. The reasons are: (1) examples for non-Buddhist
+  terms should not be drawn from a Buddhist source but rather from a
+  representative source and (2) it is typically hard to find examples in the
+  corpus that do not require specialist knowledge of the particular text to
+  understand or refer to previous sections of the text. Good examples are self
+  contained and simple.
+</p>
 <h3 id="references">References</h3>
 <ol>
   <li>
@@ -419,6 +479,10 @@
   <li>
     Chen Fu Hua 陈复华, ed. <i>Gudai Hanyu Cidian</i> 《古代汉语词典》. 
     Beijing: China Commercial Press 商务印书馆, 2005.
+  </li>
+  <li>
+    Culicover, P.W 2009, <i>Natural Language Syntax</i>, Oxford University
+    Press, Oxford ; New York.
   </li>
   <li>
     Fo Guang Shan. “Fo Guang Dictionary of Buddhism 佛光大辭典,” accessed
