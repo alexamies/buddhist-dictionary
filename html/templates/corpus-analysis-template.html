@@ -61,15 +61,15 @@
 
       <h3>Contents</h3>
       <ol>
-        {{ if .Cognates }}<li><a href="#propernouns">Proper Nouns</a></li>{{ end }}
+        {{ if .Cognates }}<li><a href="#propernouns">People and Places</a></li>{{ end }}
+        <li><a href="#glossary">Glossary</a></li>
         <li><a href="#lexical">Frequencies of Lexical Words</a></li>
-        <li><a href="#wf">Frequencies of all Words</a></li>
         <li><a href="#bigrams">Bigrams</a></li>
         <li><a href="#no-entry">Characters without Dictionary Entries</a></li>
       </ol>
 
       {{ if .Cognates }}
-      <h3 id="propernouns">Proper Nouns</h3>
+      <h3 id="propernouns">People, Places, and other Proper Nouns</h3>
       <table class="table table-bordered table-hover">
         <thead>
           <tr>
@@ -97,6 +97,41 @@
       </table>
       {{ end }}
 
+      {{ if .DocumentGlossary }}
+      <h3 id="glossary">Glossary</h3>
+      <p>
+        Buddhist terminology, except the proper nouns listed above. Number of
+        terms: {{len .DocumentGlossary.Words}}.</p>
+      <table class="table table-bordered table-hover">
+        <thead>
+          <tr>
+            <th>Simplified</th>
+            <th>Traditional</th>
+            <th>Pinyin</th>
+            <th>English</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+        {{ range $hw := .DocumentGlossary.Words }}
+          <tr>
+            <td><a href="/words/{{$hw.Id}}.html">{{$hw.Simplified}}</a></td>
+            <td>{{if DerefNe $hw.Traditional "\\N"}}{{$hw.Traditional}}{{end}}</td>
+            <td>{{ index $hw.Pinyin 0}}</td>
+            <td>
+              {{ if gt (len $hw.WordSenses) 1}} <ol>{{ range $ws := $hw.WordSenses }}<li>{{ $ws.English}}</li>{{ end }}</ol>
+              {{ else }}{{ range $ws := $hw.WordSenses }} {{$ws.English}}{{ end }} {{ end }}
+            </td>
+            <td>
+              {{ if gt (len $hw.WordSenses) 1}} <ol>{{ range $ws := $hw.WordSenses }}<li>{{ $ws.Notes}}</li>{{ end }}</ol>
+              {{ else }}{{ range $ws := $hw.WordSenses }} {{$ws.Notes}}{{ end }} {{ end }}
+            </td>
+          </tr>
+        {{ end }}
+        </tbody>
+      </table>
+      {{ end }}
+
       <h3 id="lexical">Frequencies of Lexical Words</h3>
       <table class="table table-bordered table-hover">
         <thead>
@@ -110,31 +145,6 @@
         </thead>
         <tbody>
         {{ range $wf := .LexicalWordFreq }}
-          <tr>
-            <td>{{ $wf.Freq }}</td>
-            <td><a href="/words/{{$wf.HeadwordId}}.html">{{$wf.Chinese}}</a></td>
-            <td>{{ $wf.Pinyin }}</td>
-            <td>{{ $wf.English }}</td>
-            <td>{{ $wf.Usage }}</td>
-          </tr>
-        {{ end }}
-        </tbody>
-      </table>
-
-      <h3 id="wf">Frequencies of all Words</h3>
-      <p>Top {{.MaxWFOutput}}</p>
-      <table class="table table-bordered table-hover">
-        <thead>
-          <tr>
-            <th>Frequency</th>
-            <th>Chinese</th>
-            <th>Pinyin</th>
-            <th>English</th>
-            <th>Usage</th>
-          </tr>
-        </thead>
-        <tbody>
-        {{ range $wf := .WordFrequencies }}
           <tr>
             <td>{{ $wf.Freq }}</td>
             <td><a href="/words/{{$wf.HeadwordId}}.html">{{$wf.Chinese}}</a></td>
