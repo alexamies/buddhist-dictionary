@@ -21,6 +21,7 @@ if [ -n "$PROD" ]; then
   	cp $CNREADER_HOME/web/taisho/*.html $PROD/web/taisho/.
   	cp $CNREADER_HOME/data/dictionary/*.* $PROD/data/dictionary/.
     cp $CNREADER_HOME/web/*.html $PROD/web/.
+    cp $CNREADER_HOME/web/*.css $PROD/web/.
     cp $CNREADER_HOME/web/script/*.js $PROD/web/script/.
   else
     echo "CNREADER_HOME is not set"
