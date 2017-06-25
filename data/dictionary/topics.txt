@@ -1,4 +1,3 @@
-能力	Ability	\N	\N
 抽象	Abstract	\N	\N
 住宿	Accommodation	\N	\N
 管理	Administration	\N	\N
@@ -16,9 +15,7 @@
 佛教	Buddhism	\N	\N
 书法	Calligraphy	\N	\N
 种类	Category	\N	\N
-特点	Characteristic	\N	\N
 化学	Chemistry	\N	\N
-变化	Change	\N	\N
 慈善会	Charity	\N	\N
 中医	Chinese Medicine	\N	\N
 土木	Civil Engineering	\N	\N
@@ -30,7 +27,6 @@
 通讯	Communications	\N	\N
 比较	Comparison	\N	\N
 计算机科学	Computer Science	\N	\N
-冲突	Conflict	\N	\N
 儒家	Confucianism	\N	\N
 容器	Container	\N	\N
 化妆品	Cosmetic	\N	\N
@@ -43,11 +39,9 @@
 戏剧	Drama	\N	\N
 经济	Economics	\N	\N
 教育	Education	\N	\N
-电器	Electrical Appliances	\N	\N
 电	Electricity	\N	\N
 电子	Electronics	\N	\N
 电气工程	Electrical Engineering	\N	\N
-感情	Emotion	\N	\N
 能源	Energy	\N	\N
 娱乐	Entertainment	\N	\N
 环境	Environment	\N	\N
@@ -59,7 +53,6 @@
 火	Fire	\N	\N
 饮食	Food and Drink	\N	\N
 外语	Foreign Language	\N	\N
-形态	Form	\N	\N
 常用词汇	Frequently Used Words	\N	\N
 友谊	Friendship	\N	\N
 家具	Furniture	\N	\N
@@ -76,7 +69,6 @@
 人文学	Humanities
 幽默	Humor	\N	\N
 打猎	Hunting	\N	\N
-卫生	Hygiene	\N	\N
 成语	Idiom	\N	\N
 工业	Industry	\N	\N
 信息	Information	\N	\N
@@ -87,7 +79,6 @@
 功夫	Kungfu	\N	\N
 法律	Law	\N	\N
 休闲	Leisure	\N	\N
-生活	Life	\N	\N
 光纤	Light	\N	\N
 语言学	Linguistics	\N	\N
 文学	Literature	\N	\N
@@ -115,7 +106,6 @@
 大自然	Nature	\N	\N
 光学	Optics	\N	\N
 组织	Organization	\N	\N
-人	People	\N	\N
 哲学	Philosophy	\N	\N
 摄影术	Photography	\N	\N
 物理	Physics	\N	\N
@@ -123,13 +113,10 @@
 地方	Places	\N	\N
 诗	Poetry	\N	\N
 政治	Politics	\N	\N
-位	Position	\N	\N
 身姿	Posture	\N	\N
-过程	Process	\N	\N
 谚语	Proverb	\N	\N
 心理学	Psychology	\N	\N
 公安	Public Security	\N	\N
-数量	Quantity	\N	\N
 部首	Radicals	\N	\N
 联系	Relationship	\N	\N
 宗教	Religion	\N	\N
@@ -155,7 +142,6 @@
 玩具	Toys	\N	\N
 交通	Transportation	\N	\N
 用具	Utensil	\N	\N
-暴力	Violence	\N	\N
 水	Water	\N	\N
 财富	Wealth	\N	\N
 武器	Weapons	\N	\N
