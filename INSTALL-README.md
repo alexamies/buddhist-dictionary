@@ -1,9 +1,16 @@
 #Installation without Docker
+This page explains setup of combined build and web app. If you are only
+installing one or the other you may skip some steps.
+
+## Prerequisites
+1. Debian flavor of Linux
+2. About 10 GB of memory for the build server, much less for only the web app
+3. Attached block storage device
 
 ## Basic Setup
 sudo apt-get update
 
-sudo mkdir /disk1
+sudo mkdir -p /disk1/ntireader
 -- Mount and format disk
 -- Add to file system table
 sudo vi /etc/fstab
@@ -11,11 +18,27 @@ sudo mount -a
 
 ## NTI Reader Files
 -- Substitute for your own location and user name
-export NTI_HOME=/disk1
-sudo cd /disk1/ntireader
-sudo chown alex:alex /disk1/ntireader
+export CNREADER_HOME=/disk1/ntireader
+sudo chown $USER:$USER /disk1/ntireader
 sudo apt-get install -y git
-git clone git://github.com/alexamies/buddhist-dictionary $NTI_HOME/ntireader
+git clone git://github.com/alexamies/buddhist-dictionary $CNREADER_HOME
+
+## Build generated HTML files
+# Install Go lang
+# Get the cnreader build tool
+sudo mkdir -p /disk1/cnreader
+sudo chown $USER:$USER /disk1/cnreader
+export DEV_HOME=/disk1/cnreader
+git clone https://github.com/alexamies/chinesenotes.com.git $DEV_HOME
+cd $DEV_HOME/go/src/cnreader
+go build cnreader
+cd $CNREADER_HOME
+bin/build.sh
+## If your staging environment is different from your prod environment
+bin/deploy.sh
+
+## Upload to a GCS bucket
+export BUCKET={your bucket}
 
 ## Apache Setup
 sudo -su
@@ -40,9 +63,3 @@ sudo apacheclt restart
 ## MySQL Setup
 sudo apt-get install -y mysql-server mysql-client
 -- Load data into database, see ../data/dictionary/dictionary-readme.txt
-
-# Generated HTML files
-# Install Go lang
-bin/build.sh
-# If your staging environment is different from your prod environment
-bin/deploy.sh
