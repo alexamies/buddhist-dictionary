@@ -3,6 +3,7 @@
 ## PROD_SERVER should be set to the server name of the production system
 if [ -n "$PROD_SERVER" ]; then
   echo "Copying to server $PROD_SERVER"
+  mkdir -p tmp
   tar -czf tmp/taisho.tar.gz web/taisho web/analysis/taisho
   tar -czf tmp/words.tar.gz web/words web/analysis
   if [ -n "$PROJECT" -a -n "$ZONE" ]; then
@@ -14,6 +15,7 @@ if [ -n "$PROD_SERVER" ]; then
   fi
 elif [ -n "$BUCKET" ]; then
   echo "Copying to GCS bucket $BUCKET"
+  mkdir -p tmp
   tar -czf tmp/taisho.tar.gz web/taisho web/analysis/taisho
   tar -czf tmp/words.tar.gz web/words web/analysis
   gsutil cp tmp/taisho.tar.gz gs://$BUCKET
