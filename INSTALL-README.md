@@ -5,7 +5,8 @@ installing one or the other you may skip some steps.
 ## Prerequisites
 1. Debian flavor of Linux
 2. About 10 GB of memory for the build server, much less for only the web app
-3. Attached block storage device
+3. GCS bucket [optional for build script to upload artifacts]
+4. Attached block storage device
 
 ## Basic Setup
 sudo apt-get update
