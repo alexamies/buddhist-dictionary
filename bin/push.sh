@@ -1,6 +1,8 @@
 #!/bin/bash
-## Push changes from a build server to the production server
-## PROD_SERVER should be set to the server name of the production system
+## Push changes from a build server to either GCS or the production server
+## PROD_SERVER should be set to the server name of the production system OR
+## BUCKET should be set to the name of the GCS bucket to store the generated
+## files
 if [ -n "$PROD_SERVER" ]; then
   echo "Copying to server $PROD_SERVER"
   mkdir -p tmp
@@ -20,6 +22,7 @@ elif [ -n "$BUCKET" ]; then
   tar -czf tmp/words.tar.gz web/words web/analysis
   gsutil cp tmp/taisho.tar.gz gs://$BUCKET
   gsutil cp tmp/words.tar.gz gs://$BUCKET
+  gsutil cp index/ngram_frequencies.txt gs://$BUCKET
 else
   echo "Failed: Both BUCKET and PROD_SERVER are not set, please set either one"
   exit 1
