@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" ng-app="textApp">
+<html lang="en" ng-app="bdictApp">
   <head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
     <meta name="fragment" content="!" />
@@ -8,7 +8,7 @@
     <meta name="description" content="NTI Buddhist Text Reader">
     <meta name="fragment" content="!">
     <link rel="shortcut icon" href="/images/yan.png" type="image/jpeg" />
-    <title>NTI Buddhist Text Reader</title>
+    <title>Chinese Buddhist Canon (Taishō shinshū daizōkyō)</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="/buddhistdict.css" rel="stylesheet">
@@ -18,15 +18,6 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
     <script type="application/ld+json">
-     {
-      "@context": "http://schema.org",
-      "@type": "WebSite",
-      "name": "NTI Buddhist Text Reader",
-      "alternateName": "NTI Reader",
-      "url": "http://ntireader.org"
-    }
-    </script>
-    <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "BreadcrumbList",
@@ -34,14 +25,14 @@
         "@type": "ListItem",
         "position": 1,
         "item": {
-        "@id": "http://ntireader.org",
-        "name": "Chinese-English Buddhist Dictionary"
+        "@id": "http://ntireader.org/taisho/taisho.html",
+        "name": "Chinese Buddhist Canon (Taishō shinshū daizōkyō)"
         }
       }]
     }
     </script>
   </head>
-  <body ng-controller="textCtrl">
+  <body ng-controller="CorpusListCtrl">
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -65,11 +56,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="active navbar-brand" href="/index.html">Home</a>
+          <a class="navbar-brand" href="/index.html">Home</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/taisho/taisho.html">Texts</a></li>
+            <li class="active"><a href="/taisho/taisho.html">Texts</a></li>
             <li><a href="/dict_resources.html">Resources</a></li>
             <li><a href="/about.html">About</a></li>
           </ul>
@@ -82,7 +73,16 @@
       {{ .Content }} 
 
       <hr/>
+      <h4>Friends</h4>
       <footer>
+        <p>
+          <a href="http://paradeofthebuddhas.org/">Buddha's Birthday Education
+          Project Mobile App</a><br/>
+          <a href="https://play.google.com/store/apps/details?id=com.bravebot.apps.merittimes"
+             >Fo Guang Shan Merit Times 福報即時報</a><br/>        
+          <a href="https://play.google.com/store/apps/details?id=com.diamond.sutra"
+             >Diamond Sutra Mobile App 佛光山金剛經講話 星雲大師著</a>
+        </p>
         <p>
           See the <a href="/help.html">Help</a> page for more
           information on the best use of the dictionary or if you have problems.
@@ -118,8 +118,7 @@
     </div><!-- /.container -->
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular.min.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.15/angular-sanitize.js"></script>
-    <script src="/script/buddhistdict.js"></script>
+    <script src="script/angular.min.js"></script>
+    <script src="script/controllers.js"></script>
   </body>
 </html>
