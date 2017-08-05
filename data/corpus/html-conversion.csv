@@ -21,59 +21,59 @@
 ../html/statistics.html	statistics.html	reference-template.html	false
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html	true
 ../html/taisho.html	taisho/taisho.html	taisho-top-template.html	false
-../html/taisho/t01.html	taisho/t01.html	texts-template.html	false
-../html/taisho/t02.html	taisho/t02.html	texts-template.html	false
-../html/taisho/t03.html	taisho/t03.html	texts-template.html	false
-../html/taisho/t04.html	taisho/t04.html	texts-template.html	false
-../html/taisho/t05-7.html	taisho/t05-7.html	texts-template.html	false
-../html/taisho/t08.html	taisho/t08.html	texts-template.html	false
-../html/taisho/t09.html	taisho/t09.html	texts-template.html	false
-../html/taisho/t10.html	taisho/t10.html	texts-template.html	false
-../html/taisho/t11.html	taisho/t11.html	texts-template.html	false
-../html/taisho/t12.html	taisho/t12.html	texts-template.html	false
-../html/taisho/t13.html	taisho/t13.html	texts-template.html	false
-../html/taisho/t14.html	taisho/t14.html	texts-template.html	false
-../html/taisho/t15.html	taisho/t15.html	texts-template.html	false
-../html/taisho/t16.html	taisho/t16.html	texts-template.html	false
-../html/taisho/t17.html	taisho/t17.html	texts-template.html	false
-../html/taisho/t18.html	taisho/t18.html	texts-template.html	false
-../html/taisho/t19.html	taisho/t19.html	texts-template.html	false
-../html/taisho/t20.html	taisho/t20.html	texts-template.html	false
-../html/taisho/t21.html	taisho/t21.html	texts-template.html	false
-../html/taisho/t22.html	taisho/t22.html	texts-template.html	false
-../html/taisho/t23.html	taisho/t23.html	texts-template.html	false
-../html/taisho/t24.html	taisho/t24.html	texts-template.html	false
-../html/taisho/t25.html	taisho/t25.html	texts-template.html	false
-../html/taisho/t26.html	taisho/t26.html	texts-template.html	false
-../html/taisho/t27.html	taisho/t27.html	texts-template.html	false
-../html/taisho/t28.html	taisho/t28.html	texts-template.html	false
-../html/taisho/t29.html	taisho/t29.html	texts-template.html	false
-../html/taisho/t30.html	taisho/t30.html	texts-template.html	false
-../html/taisho/t31.html	taisho/t31.html	texts-template.html	false
-../html/taisho/t32.html	taisho/t32.html	texts-template.html	false
-../html/taisho/t33.html	taisho/t33.html	texts-template.html	false
-../html/taisho/t34.html	taisho/t34.html	texts-template.html	false
-../html/taisho/t35.html	taisho/t35.html	texts-template.html	false
-../html/taisho/t36.html	taisho/t36.html	texts-template.html	false
-../html/taisho/t37.html	taisho/t37.html	texts-template.html	false
-../html/taisho/t38.html	taisho/t38.html	texts-template.html	false
-../html/taisho/t39.html	taisho/t39.html	texts-template.html	false
-../html/taisho/t40.html	taisho/t40.html	texts-template.html	false
-../html/taisho/t41.html	taisho/t41.html	texts-template.html	false
-../html/taisho/t42.html	taisho/t42.html	texts-template.html	false
-../html/taisho/t43.html	taisho/t43.html	texts-template.html	false
-../html/taisho/t44.html	taisho/t44.html	texts-template.html	false
-../html/taisho/t45.html	taisho/t45.html	texts-template.html	false
-../html/taisho/t46.html	taisho/t46.html	texts-template.html	false
-../html/taisho/t47.html	taisho/t47.html	texts-template.html	false
-../html/taisho/t48.html	taisho/t48.html	texts-template.html	false
-../html/taisho/t49.html	taisho/t49.html	texts-template.html	false
-../html/taisho/t50.html	taisho/t50.html	texts-template.html	false
-../html/taisho/t51.html	taisho/t51.html	texts-template.html	false
-../html/taisho/t52.html	taisho/t52.html	texts-template.html	false
-../html/taisho/t53.html	taisho/t53.html	texts-template.html	false
-../html/taisho/t54.html	taisho/t54.html	texts-template.html	false
-../html/taisho/t55.html	taisho/t55.html	texts-template.html	false
+../html/taisho/t01.html	taisho/t01.html	taisho-volume-template.html	false	Volume 1 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t02.html	taisho/t02.html	taisho-volume-template.html	false	Volume 2 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t03.html	taisho/t03.html	taisho-volume-template.html	false	Volume 3 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t04.html	taisho/t04.html	taisho-volume-template.html	false	Volume 4 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t05-7.html	taisho/t05-7.html	taisho-volume-template.html	false	Volume 5-7 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t08.html	taisho/t08.html	taisho-volume-template.html	false	Volume 8 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t09.html	taisho/t09.html	taisho-volume-template.html	false	Volume 9 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t10.html	taisho/t10.html	taisho-volume-template.html	false	Volume 10 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t11.html	taisho/t11.html	taisho-volume-template.html	false	Volume 11 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t12.html	taisho/t12.html	taisho-volume-template.html	false	Volume 12 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t13.html	taisho/t13.html	taisho-volume-template.html	false	Volume 13 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t14.html	taisho/t14.html	taisho-volume-template.html	false	Volume 14 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t15.html	taisho/t15.html	taisho-volume-template.html	false	Volume 15 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t16.html	taisho/t16.html	taisho-volume-template.html	false	Volume 16 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t17.html	taisho/t17.html	taisho-volume-template.html	false	Volume 17 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t18.html	taisho/t18.html	taisho-volume-template.html	false	Volume 18 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t19.html	taisho/t19.html	taisho-volume-template.html	false	Volume 19 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t20.html	taisho/t20.html	taisho-volume-template.html	false	Volume 20 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t21.html	taisho/t21.html	taisho-volume-template.html	false	Volume 21 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t22.html	taisho/t22.html	taisho-volume-template.html	false	Volume 22 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t23.html	taisho/t23.html	taisho-volume-template.html	false	Volume 23 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t24.html	taisho/t24.html	taisho-volume-template.html	false	Volume 24 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t25.html	taisho/t25.html	taisho-volume-template.html	false	Volume 25 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t26.html	taisho/t26.html	taisho-volume-template.html	false	Volume 26 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t27.html	taisho/t27.html	taisho-volume-template.html	false	Volume 27 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t28.html	taisho/t28.html	taisho-volume-template.html	false	Volume 28 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t29.html	taisho/t29.html	taisho-volume-template.html	false	Volume 29 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t30.html	taisho/t30.html	taisho-volume-template.html	false	Volume 30 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t31.html	taisho/t31.html	taisho-volume-template.html	false	Volume 31 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t32.html	taisho/t32.html	taisho-volume-template.html	false	Volume 32 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t33.html	taisho/t33.html	taisho-volume-template.html	false	Volume 33 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t34.html	taisho/t34.html	taisho-volume-template.html	false	Volume 34 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t35.html	taisho/t35.html	taisho-volume-template.html	false	Volume 35 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t36.html	taisho/t36.html	taisho-volume-template.html	false	Volume 36 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t37.html	taisho/t37.html	taisho-volume-template.html	false	Volume 37 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t38.html	taisho/t38.html	taisho-volume-template.html	false	Volume 38 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t39.html	taisho/t39.html	taisho-volume-template.html	false	Volume 39 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t40.html	taisho/t40.html	taisho-volume-template.html	false	Volume 40 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t41.html	taisho/t41.html	taisho-volume-template.html	false	Volume 41 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t42.html	taisho/t42.html	taisho-volume-template.html	false	Volume 42 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t43.html	taisho/t43.html	taisho-volume-template.html	false	Volume 43 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t44.html	taisho/t44.html	taisho-volume-template.html	false	Volume 44 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t45.html	taisho/t45.html	taisho-volume-template.html	false	Volume 45 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t46.html	taisho/t46.html	taisho-volume-template.html	false	Volume 46 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t47.html	taisho/t47.html	taisho-volume-template.html	false	Volume 47 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t48.html	taisho/t48.html	taisho-volume-template.html	false	Volume 48 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t49.html	taisho/t49.html	taisho-volume-template.html	false	Volume 49 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t50.html	taisho/t50.html	taisho-volume-template.html	false	Volume 50 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t51.html	taisho/t51.html	taisho-volume-template.html	false	Volume 51 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t52.html	taisho/t52.html	taisho-volume-template.html	false	Volume 52 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t53.html	taisho/t53.html	taisho-volume-template.html	false	Volume 53 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t54.html	taisho/t54.html	taisho-volume-template.html	false	Volume 54 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
+../html/taisho/t55.html	taisho/t55.html	taisho-volume-template.html	false	Volume 55 of the Chinese Buddhist Canon (Taishō shinshū daizōkyō)
 ../html/tools.html	tools.html	tools-template.html	false
 ../html/translation_workflow.html	translation_workflow.html	reference-template.html	true
 ../html/whatsnew.html	whatsnew.html	about-template.html	false

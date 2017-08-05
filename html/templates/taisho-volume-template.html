@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="bdictApp">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+    <meta name="fragment" content="!" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NTI Buddhist Text Reader">
+    <meta name="fragment" content="!">
+    <link rel="shortcut icon" href="/images/yan.png" type="image/jpeg" />
+    <title>NTI Buddhist Text Reader</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="/buddhistdict.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "http://ntireader.org/taisho/taisho.html",
+          "name": "Chinese Buddhist Canon (Taishō shinshū daizōkyō)"
+        },{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "http://ntireader.org/taisho/{.FileName}",
+          "name": "{{.Title}} "
+        }
+      }]
+    }
+    </script>
+  </head>
+  <body ng-controller="CorpusListCtrl">
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-57634593-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    <div class="starter-template">
+      <div class="row">
+        <div class="span2"><img id="logo" src="/images/yan.png" alt="Logo" class="pull-left"/></div>
+        <div class="span7"><h1>NTI Buddhist Text Reader</h1></div>
+      </div>
+    </div>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index.html">Home</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/taisho/taisho.html">Texts</a></li>
+            <li><a href="/dict_resources.html">Resources</a></li>
+            <li><a href="/about.html">About</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <div class="container">
+
+      {{ .Content }} 
+
+      <hr/>
+      <h4>Friends</h4>
+      <footer>
+        <p>
+          <a href="http://paradeofthebuddhas.org/">Buddha's Birthday Education
+          Project Mobile App</a><br/>
+          <a href="https://play.google.com/store/apps/details?id=com.bravebot.apps.merittimes"
+             >Fo Guang Shan Merit Times 福報即時報</a><br/>        
+          <a href="https://play.google.com/store/apps/details?id=com.diamond.sutra"
+             >Diamond Sutra Mobile App 佛光山金剛經講話 星雲大師著</a>
+        </p>
+        <p>
+          See the <a href="/help.html">Help</a> page for more
+          information on the best use of the dictionary or if you have problems.
+          Tell us about 
+          <a href="https://docs.google.com/forms/d/1jhgO00n3izZK6EeqHHV6dZPuvFMV5KcAhKuqC26P8Ko/viewform"
+          >a problem</a>.
+          Tell us about your experience on this web site using
+          <a href="https://docs.google.com/forms/d/1567O1wI8gtT8HNr4Kq3qEiIMRoGDoZE0d2GXyjxb7ko/viewform"
+          >this form</a>.
+          Add a new word or suggest a change to a dictionary entry defintion
+          with 
+          <a href="https://docs.google.com/forms/d/1AcPDJ3CSIyn7MNVDKiMHby4EMPH0g3FxwLRTlJKhxmA/viewform"
+          >this form</a>.
+        </p>
+        <p>
+          The NTI Buddhist Text Reader is a general purpose Chinese text reader
+          and Chinese-English dictionary with many Buddhist terms.
+          Non-Buddhist Chinese text content is at 
+          <a href="http://chinesenotes.com/">Chinese Notes</a>.
+          For recent changes, see the <a href="/whatsnew.html">What's New</a>
+          page.
+        </p>
+        <p>
+          佛光山南天大學佛教文本閱讀器。
+          Copyright Fo Guang Shan Nan Tien Institute 佛光山南天大學 2013-2017, 
+          <a href="http://www.nantien.edu.au/" title="Fo Guang Shan Nan Tien Institute">www.nantien.edu.au</a>. Materials may be reused
+          in accordance with the open source license. See the <a href="about.html">About</a> 
+          for details.
+          If you have any trouble using this site or have a suggestion, please contact alex@ntireader.org.
+        </p>
+        <p>This page was last updated on {{.DateUpdated}}.</p>
+      </footer>
+    </div><!-- /.container -->
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script src="script/angular.min.js"></script>
+    <script src="script/controllers.js"></script>
+  </body>
+</html>
