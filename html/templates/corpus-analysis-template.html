@@ -11,12 +11,32 @@
     <title>{{.Title}}</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" href="/buddhistdict.css" rel="stylesheet">
+    <link rel="stylesheet" href="/buddhistdict.css">
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "http://ntireader.org/taisho/taisho.html",
+          "name": "Chinese Buddhist Canon (Taishō shinshū daizōkyō)"
+        },{
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@id": "http://ntireader.org/analysis/corpus_analysis.html",
+          "name": "{{.Title}}"
+        }
+      }]
+    }
+    </script>
   </head>
   <body ng-controller="CorpusListCtrl">
     <script>
@@ -55,7 +75,7 @@
     </div>
 
     <div class="container">
-
+      <p><a href="/taisho/taisho.html">Top Level Contents</a> &gt; {{.Title}}</p>
       <h2>{{.Title}}</h2>
       <p>Word count: {{.WC}}, unique words: {{.UniqueWords}}, character count: {{.CCount}}</p>
 
