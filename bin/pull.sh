@@ -4,12 +4,9 @@
 if [ -n "$BUCKET" ]; then
   echo "Copying from GCS bucket $BUCKET"
   gsutil cp gs://$BUCKET/taisho.tar.gz tmp/.
-  tar -xzf tmp/taisho.tar.gz web/taisho web/analysis/taisho
-  mv tmp/web/taisho/*.html web/taisho/.
+  tar -xzf tmp/taisho.tar.gz
   gsutil cp gs://$BUCKET/words.tar.gz tmp/.
-  tar -xzf tmp/words.tar.gz web/words web/analysis
-  mv tmp/web/words/*.html web/words/.
-  mv tmp/web/analysis/*.html web/analysis/.
+  tar -xzf tmp/words.tar.gz
 else
   echo "Failed: BUCKET is not set, please set it to the name of the GCS bucket"
   exit 1
