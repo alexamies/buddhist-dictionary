@@ -4,7 +4,6 @@ var textApp = angular.module('textApp', ['ngSanitize']);
 textApp.controller('textCtrl', function($scope, $http, $location) {
   var re = /[^\u0020-\u007F\u0080-\u00FF\u0100-\u017F\u0180-\u024F\u0300-\u036F]/;
   $scope.formData = {};
-  $scope.formData.langtype = 'literary';
   $scope.formData.matchtype = 'approximate';
   $scope.results = {};
   $scope.submit = function() {
@@ -31,7 +30,11 @@ textApp.controller('textCtrl', function($scope, $http, $location) {
       }
     }).error(function(data, status, headers, config) {
       $("#lookup-help-block").hide();
-      $scope.results = {"msg": data};
+      if (data) {
+        $scope.results = {"msg": data};
+      } else {
+        $scope.results = {"msg": "There was a problem with your request"};
+      }
       $("#word-detail").hide();
     });
   };
