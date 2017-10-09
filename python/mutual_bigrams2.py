@@ -100,7 +100,7 @@ def main():
   temp_dict = {}  # contains mutual bigram info except frequency
   mutual_bigram_info = {}
   luid = 66857
-  with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../../hsingyundl/index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
+  with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
     for line in cedict:
       if line[0] == '#':
         continue
