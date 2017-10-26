@@ -14,6 +14,7 @@ wdict = {}
 def OpenDictionary():
   """Reads the dictionary into memory
   """
+  print "Opening the NTI Reader dictionary"
   with codecs.open(DICT_FILE_NAME, 'r', "utf-8") as f:
     for line in f:
       line = line.strip()
@@ -45,7 +46,7 @@ def OpenDictionary():
             else:
               entry['other_entries'] = []
               wdict[traditional] = entry
-  #print "OpenDictionary completed with %d entries" % len(wdict)
+  print "OpenDictionary completed with %d entries" % len(wdict)
   return wdict
 
 wdict = OpenDictionary()

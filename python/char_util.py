@@ -4,21 +4,25 @@ Utility for converting traditional to simplified and Pinyin
 """
 from ntidict import OpenDictionary
 
+cedict = OpenDictionary()
 
 def ToSimplified(trad):
-  cedict = OpenDictionary()
   simplified = u""
   traditional = trad
   pinyin = u""
   for t in trad:
-    entry = cedict[t]
-    s = entry['simplified']
-    p = entry['pinyin']
-    simplified += s
-    pinyin += p
+    if t in cedict:
+      entry = cedict[t]
+      s = entry['simplified']
+      p = entry['pinyin']
+      simplified += s
+      pinyin += p
+    else:
+      s = u"Not found"
+      p = u"Not found"
   if simplified == trad:
     traditional = "\\N"
-  return simplified, traditional, pinyin
+  return simplified, traditional, pinyin.lower()
 
 
 def main():
