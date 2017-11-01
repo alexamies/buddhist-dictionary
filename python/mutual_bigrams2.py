@@ -76,6 +76,8 @@ def get_cedict_categ(line):
         return 'person'
       if 'wife' in definition.split():
         return 'person'
+      if 'actor' in definition.split():
+        return 'actor'
       if 'literary' in definition.split():
         return 'literary'
     # The following must be in order of lowest to highest index required, or else IndexError could be thrown too early
@@ -130,26 +132,33 @@ def parse_entry(line):
   if entry["english"].startswith("to "):
   	grammar = "verb"
   categ = get_cedict_categ(line)
-  entry["subdomain"] = u"\\N\t\\N"
+  subdomain = u"\\N\t\\N"
   if categ == "Buddhism":
     domain = u"佛教\tBuddhism"
   elif categ == "university":
     grammar = "proper noun"
     concept = u"大学\tUniversity"
     domain = u"教育\tEducation"
+    subdomain = u"中国\tChina"
   elif categ == "county":
     grammar = "proper noun"
     concept = u"县\tCounty"
     domain = u"地方\tPlaces"
+    subdomain = u"中国\tChina"
   elif categ == "district":
     grammar = "proper noun"
     concept = u"地区\tDistrict"
     domain = u"地方\tPlaces"
+    subdomain = u"中国\tChina"
+  elif categ == "actor":
+    grammar = "proper noun"
+    concept = u"人\tPerson"
+    domain = u"戏剧\tDrama"
   elif categ == "person":
     grammar = "proper noun"
     concept = u"人\tPerson"
     domain = u"历史\tHistory"
-    entry["subdomain"] = u"中国\tChina"
+    subdomain = u"中国\tChina"
   elif categ == "literary":
     grammar = "noun"
     domain = u"古文\tClassical Chinese"
@@ -159,6 +168,7 @@ def parse_entry(line):
   entry["grammar"] = grammar
   entry["concept"] = concept
   entry["domain"] = domain
+  entry["subdomain"] = subdomain
   return entry
 
 # Process English text definition
@@ -201,8 +211,8 @@ def main():
   trad_list = []
   temp_dict = {}  # contains mutual bigram info except frequency
   mutual_bigram_info = {}
-  luid = 68575
-  with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
+  luid = 72822
+  with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../../hbreader/index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
     for line in cedict:
       if line[0] == '#':
         continue
