@@ -27,7 +27,6 @@
 计算机科学	Computer Science	\N	\N
 儒家	Confucianism	\N	\N
 化妆品	Cosmetic	\N	\N
-文化	Culture	\N	\N
 习俗	Customs	\N	\N
 舞蹈	Dance	\N	\N
 危险	Danger	\N	\N
@@ -55,7 +54,6 @@
 地质	Geology	\N	\N
 政府	Government	\N	\N
 健康	Health	\N	\N
-帮助	Help	\N	\N
 历史	History	\N	\N
 荣誉	Honor	\N	\N
 家庭用品	Household Article	\N	\N
@@ -75,6 +73,7 @@
 逻辑	Logic	\N	\N
 运气	Luck	\N	\N
 法术	Magic	\N	\N
+制造业	Manufacturing	\N	\N
 海上	Maritime	\N	\N
 武术	Martial Arts	\N	\N
 材料科学	Materials Science	\N	\N
@@ -94,8 +93,7 @@
 神话	Mythology	\N	\N
 名字	Names	\N	\N
 光学	Optics	\N	\N
-组织	Organization	\N	\N
-表演艺术 Performing Arts	\N	\N
+表演艺术	Performing Arts	\N	\N
 哲学	Philosophy	\N	\N
 摄影术	Photography	\N	\N
 物理	Physics	\N	\N
