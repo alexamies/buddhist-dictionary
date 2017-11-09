@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# Check bigrams for presence in CC-CEDICT
+
 from urllib2 import urlopen
 from StringIO import StringIO
 import codecs
@@ -14,6 +16,7 @@ sq_brackets_pattern = r"(.+)\[.+\](.*)"
 sq_brackets_replace = r"\1 \2"
 delimiter_exp = r"[\d\s]*"
 delimiter_pattern = re.compile(delimiter_exp)
+
 
 def get_cedict_definitions(line):
   for i, char in enumerate(line):
@@ -80,19 +83,18 @@ def get_cedict_categ(line):
         return 'actor'
       if 'literary' in definition.split():
         return 'literary'
-    # The following must be in order of lowest to highest index required, or else IndexError could be thrown too early
-    if definitions[0].split()[1].lower() == 'county':
-      return 'county'
-    if definitions[0].split()[1].lower() == 'river':
-      return 'river'
-    if definitions[0].split()[1].lower() == 'lake' or definitions[0].split()[0] == 'Lake':
-      return 'lake'
-    if definitions[0].split()[2].lower() == 'level' and definitions[0].split()[3].lower() == 'city':
-      return 'city'
-    if definitions[0].split()[1].lower() == 'district' and definitions[0].split()[4].lower() == 'city':
-      return 'district'
-    if definitions[0].split()[1].lower() == 'university' and definitions[0].split()[4].lower() == 'university':
-      return 'university'
+      if 'level' in definition.split() and 'city' in definition.split() :
+        return 'lake'
+      if 'county' in definition.split():
+        return 'county'
+      if 'river' in definition.split():
+        return 'river'
+      if 'lake' in definition.split():
+        return 'lake'
+      if 'district' in definition.split():
+        return 'district'
+      if 'university' in definition.split():
+        return 'university'
   except IndexError as e:
     return 'other'
   return 'other'
@@ -110,6 +112,15 @@ def get_pinyin_unaccented(pinyin_numbers):
   return (" ").join(pinyin).strip()
 
 
+def get_wiki_headwords():
+  headwords = []
+  with codecs.open("zhwiki_hw_trad.txt", "rt", "utf-8") as zhwiki:
+    for hw in zhwiki:
+      headwords.append(hw.strip())
+  print("get_wiki_headwords: found %d wikipedia headwords" % len(headwords))
+  return set(headwords)
+
+
 def parse_entry(line):
   m = line_pattern.match(line)
   entry = {}
@@ -123,7 +134,7 @@ def parse_entry(line):
   entry["english"] = " / ".join(get_cedict_definitions(line))
   grammar = "noun"
   concept = u"\\N\t\\N"
-  domain = u"古文\tClassical Chinese"
+  domain = u"现代汉语\tModern Chinese"
   if len(entry["traditional"]) > 2:
     grammar = "phrase"
   if len(entry["traditional"]) == 4:
@@ -182,18 +193,18 @@ def process_english(english, pinyin_unaccented, grammar):
   if grammar == "proper noun":
     # If pinyin_unaccented is a substring of english, split
     index =  english.lower().find(pinyin_unaccented.lower())
-    print(u"process_english {0}, {1}, {2}".format(english, pinyin_unaccented, index))
+    #print(u"process_english {0}, {1}, {2}".format(english, pinyin_unaccented, index))
     if index > -1:
       pos = index + len(pinyin_unaccented)
       notes = english[pos:].lstrip().title()
-      print(u"process_english {0}, {1}, {2}, {3}".format(english, pinyin_unaccented, index, notes))
+      #print(u"process_english {0}, {1}, {2}, {3}".format(english, pinyin_unaccented, index, notes))
       return pinyin_unaccented, notes
     pinyin_nospaces = pinyin_unaccented.replace(" ","")
     index =  english.lower().find(pinyin_nospaces.lower())
     if index > -1:
       pos = index + len(pinyin_nospaces)
       notes = english[pos:].lstrip().title()
-      print(u"process_english {0}, {1}, {2}, {3}".format(english, pinyin_nospaces, index, notes))
+      #print(u"process_english {0}, {1}, {2}, {3}".format(english, pinyin_nospaces, index, notes))
       return pinyin_nospaces, notes
   return english, ""
 
@@ -211,7 +222,7 @@ def main():
   trad_list = []
   temp_dict = {}  # contains mutual bigram info except frequency
   mutual_bigram_info = {}
-  luid = 72822
+  luid = 75938
   with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../../hbreader/index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
     for line in cedict:
       if line[0] == '#':
@@ -220,7 +231,8 @@ def main():
       trad_list.append(trad)
       temp_dict[trad] = parse_entry(line)
     words = set(trad_list) # bigrams is list, words is the same set
-    with codecs.open('temp.tsv', 'w', "utf-8") as f:
+    wiki_hw = get_wiki_headwords()
+    with codecs.open("temp.tsv", "w", "utf-8") as f:
       for line in bigram_file:
         info = line.split()
         if info[0] in words:
@@ -238,10 +250,15 @@ def main():
           concept = entry["concept"]
           domain = entry["domain"]
           subdomain = entry["subdomain"]
-          if notes != "":
-            notes = u"{0} (CC-CEDICT '{1}')".format(notes, traditional)
+          ref = ""
+          if traditional in wiki_hw:
+            ref = u"(CC-CEDICT '{0}'; Wikipedia '{1}')".format(traditional, traditional)
           else:
-            notes = u"(CC-CEDICT '{0}')".format(traditional)
+            ref = u"(CC-CEDICT '{0}')".format(traditional)
+          if notes != "":
+            notes = u"{0} {1}".format(notes, ref)
+          else:
+            notes = u"{0}".format(ref)
           f.write(u"{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}\t{8}\t\\N\t\\N\t{9}\t{10}\n".format(luid,
           	simplified, trad, pinyin, english, grammar, concept, domain, subdomain, notes, luid))
 

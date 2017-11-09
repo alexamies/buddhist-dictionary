@@ -9,7 +9,7 @@ import codecs
 import re
 
 
-DICT_FILE_NAME = '../cedict/cedict_ts.u8'
+DICT_FILE_NAME = 'cedict_1_0_ts_utf-8_mdbg.txt'
 
 cedict = {}
 pattern = re.compile(ur"(.*) (.*) \[(.*)\] /(.*)/", re.UNICODE)
