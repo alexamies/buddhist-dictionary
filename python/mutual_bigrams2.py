@@ -9,6 +9,7 @@ import gzip
 import re
 
 from char_util import ToSimplified
+from ntidict import OpenDictionary
 
 line_exp = u"([\w|，|·|、]+)\s([\w|，|·|、]+)\s\[(.*)\]\s"
 line_pattern = re.compile(line_exp, re.UNICODE)
@@ -112,15 +113,6 @@ def get_pinyin_unaccented(pinyin_numbers):
   return (" ").join(pinyin).strip()
 
 
-def get_wiki_headwords():
-  headwords = []
-  with codecs.open("zhwiki_hw_trad.txt", "rt", "utf-8") as zhwiki:
-    for hw in zhwiki:
-      headwords.append(hw.strip())
-  print("get_wiki_headwords: found %d wikipedia headwords" % len(headwords))
-  return set(headwords)
-
-
 def parse_entry(line):
   m = line_pattern.match(line)
   entry = {}
@@ -134,7 +126,7 @@ def parse_entry(line):
   entry["english"] = " / ".join(get_cedict_definitions(line))
   grammar = "noun"
   concept = u"\\N\t\\N"
-  domain = u"现代汉语\tModern Chinese"
+  domain = u"古文\tClassical Chinese"
   if len(entry["traditional"]) > 2:
     grammar = "phrase"
   if len(entry["traditional"]) == 4:
@@ -196,14 +188,14 @@ def process_english(english, pinyin_unaccented, grammar):
     #print(u"process_english {0}, {1}, {2}".format(english, pinyin_unaccented, index))
     if index > -1:
       pos = index + len(pinyin_unaccented)
-      notes = english[pos:].lstrip().title()
+      notes = english[pos:].lstrip()
       #print(u"process_english {0}, {1}, {2}, {3}".format(english, pinyin_unaccented, index, notes))
       return pinyin_unaccented, notes
     pinyin_nospaces = pinyin_unaccented.replace(" ","")
     index =  english.lower().find(pinyin_nospaces.lower())
     if index > -1:
       pos = index + len(pinyin_nospaces)
-      notes = english[pos:].lstrip().title()
+      notes = english[pos:].lstrip()
       #print(u"process_english {0}, {1}, {2}, {3}".format(english, pinyin_nospaces, index, notes))
       return pinyin_nospaces, notes
   return english, ""
@@ -219,11 +211,12 @@ def remove_sq_brackets(english):
 
 def main():
   print "Looking for bigrams that are entries in cc-cedict"
+  ntidict = OpenDictionary()
   trad_list = []
   temp_dict = {}  # contains mutual bigram info except frequency
   mutual_bigram_info = {}
-  luid = 75938
-  with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../../hbreader/index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
+  luid = 88923
+  with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
     for line in cedict:
       if line[0] == '#':
         continue
@@ -231,11 +224,11 @@ def main():
       trad_list.append(trad)
       temp_dict[trad] = parse_entry(line)
     words = set(trad_list) # bigrams is list, words is the same set
-    wiki_hw = get_wiki_headwords()
+    #wiki_hw = get_wiki_headwords()
     with codecs.open("temp.tsv", "w", "utf-8") as f:
       for line in bigram_file:
         info = line.split()
-        if info[0] in words:
+        if info[0] in words and info[0] not in ntidict:
           luid += 1
           entry = temp_dict[info[0]]
           traditional = info[0]
@@ -250,11 +243,7 @@ def main():
           concept = entry["concept"]
           domain = entry["domain"]
           subdomain = entry["subdomain"]
-          ref = ""
-          if traditional in wiki_hw:
-            ref = u"(CC-CEDICT '{0}'; Wikipedia '{1}')".format(traditional, traditional)
-          else:
-            ref = u"(CC-CEDICT '{0}')".format(traditional)
+          ref = u"(CC-CEDICT '{0}')".format(traditional)
           if notes != "":
             notes = u"{0} {1}".format(notes, ref)
           else:

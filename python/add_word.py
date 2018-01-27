@@ -12,17 +12,19 @@ import string
 
 import ntidict
 from char_util import ToSimplified
+from ntidict import OpenDictionary
 
 
-TERMS_FILE_NAME = 'add_word20171029.tsv'
-NEWFILE = "add_word20171029-out.tsv"
-START = 72671
+TERMS_FILE_NAME = 'add_words20171211.tsv'
+NEWFILE = "add_words20171211-out.tsv"
+START = 82595
 
 
 def OpenTerms():
   """Reads the terms into a map
   """
   terms = []
+  ntidict = OpenDictionary()
   with codecs.open(TERMS_FILE_NAME, 'r', "utf-8") as f:
     for line in f:
       line = line.strip()
@@ -35,6 +37,9 @@ def OpenTerms():
       entry = {}
       simplified = fields[0]
       key = fields[1]
+      if key in ntidict:
+        print u"%s is already in nti dict" %  key
+        continue
       english = fields[2]
       if len(english.strip()) == 0:
         print "len(english.strip()) == 0, %s" %  line
