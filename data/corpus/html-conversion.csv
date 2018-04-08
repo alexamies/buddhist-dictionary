@@ -19,6 +19,7 @@
 ../html/sanskrit_appendix1.html	sanskrit_appendix1.html	reference-template.html	true
 ../html/sanskrit_appendix2.html	sanskrit_appendix2.html	reference-template.html	true
 ../html/sanskrit_in_buddhism.html	sanskrit_in_buddhism.html	reference-template.html	true
+../html/sanskrit_query.html	sanskrit_query.html	redirect-template.html	true
 ../html/statistics.html	statistics.html	reference-template.html	false
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html	true
 ../html/taisho.html	taisho/taisho.html	taisho-top-template.html	false
