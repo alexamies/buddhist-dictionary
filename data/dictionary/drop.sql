@@ -15,13 +15,11 @@
 use cse_dict;
 
 drop table font_names;
-drop table radicals;
 drop table unigram;
 drop table bigram;
 drop table phrases;
 drop table related;
 drop table synonyms;
-drop table measure_words;
 drop table illustrations;
 drop table authors;
 drop table licenses;
