@@ -1,7 +1,0 @@
-corpus_directory: ../web/corpus
-corpus_data_dir: ../data/corpus
-analysis_directory: ../web/corpus/analysis
-gloss_directory: ../web/corpus/gloss
-tagged_directory: ../web/corpus/tagged
-data_directory: ../data/dictionary
-
