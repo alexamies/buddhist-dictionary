@@ -4,19 +4,8 @@
  */
 
 /*
- * There are three dictionaries and related tables:
- *
- * words: A Chinese to English word dictionary. Tables include grammar,
+ * Tables for a Chinese to English word dictionary. Tables include grammar,
  *     topics, and words.
- *
- * characters: A character dictionary. Includes tables characters. Includes
- *     tables characters, character_rend, character_types, 
- *     font_names, radicals, and variants. This table only
- *     has a small number of characters (3425) at the moment. It is not 
- *     large enough for a dictionary of Chinese characters. However, t is used by
- *     some web pages explaining Chinese radicals, fonts, Sanskrit, and IPA.
- *
- * The text files in the same directory map one-to-one to the table names.
  * 
  * Also see files drop.sql and load_data.sql. Create the database 'cse_dict'
  * before executing this file. Use this file by logging into the mysql client
@@ -196,23 +185,6 @@ CREATE TABLE illustrations (medium_resolution VARCHAR(255),
 ;
 
 /*
- * Table for mapping nominal measure words to matching nouns
- *
- * measure_word:	Simplified Chinese text for the measure word
- * noun:			Simplified Chinese text for the matching noun
- */
-CREATE TABLE measure_words (
-	measure_word VARCHAR(80),
-	noun VARCHAR(80),
-	PRIMARY KEY (measure_word, noun),
-	FOREIGN KEY (measure_word) REFERENCES words(simplified),
-	FOREIGN KEY (noun) REFERENCES words(simplified)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
-;
-
-/*
  * Table for synonyms.
  *
  * simplified1: the first word in the synonym pair
@@ -328,100 +300,6 @@ CREATE TABLE bigram (
 ;
 
 /*
- * Table for Kangxi radicals
- *
- * id           A unique identifier for the radical
- * traditional  Traditional Chinese text for the radical
- * simplified   Simplified Chinese text for the radical (if different)
- * pinyin       Hanyu pinyin
- * strokes      The number of strokes
- * other_forms  Other forms of the radical
- * english      English text for the radical 
- */
-CREATE TABLE radicals (id INT UNSIGNED NOT NULL AUTO_INCREMENT,
-                       traditional VARCHAR(10) NOT NULL,
-                       simplified VARCHAR(10),
-                       pinyin VARCHAR(30),
-                       strokes INT UNSIGNED NOT NULL,
-                       simplified_strokes INT UNSIGNED,
-                       other_forms VARCHAR(255),
-                       english VARCHAR(255) NOT NULL,
-                       PRIMARY KEY (id),
-                       INDEX (traditional)
-                      )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
-;
-
-/*
- * Types of characters. For example, Sanskrit, traditional Chinese, IPA.
- * 
- * type   A key for the type name
- * name   An English name for the type
- */
-CREATE TABLE character_types (
-	type VARCHAR(125) NOT NULL,
-	name VARCHAR(125) NOT NULL,
-	PRIMARY KEY (type)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
-;
-
-/*
- * Table for character dictionary.
- * 
- * Table maps characters to English meaning with Unicode codes as primary key. 
- * Most entries are Chinese characters. There are fields for number of strokes and pronuncia
- *
- * unicode        The Unicode unique identifier for the character (decimal)
- * c              Chinese text for the character (simplified, traditional, or other symbol)
- * pinyin         Hanyu pinyin
- * radical        Main radical
- * strokes        The number of strokes
- * other_strokes  The number of strokes other than the main radical
- * english        English text for the radical 
- * notes:         Miscellaneous notes about the character, if any
- */
-CREATE TABLE characters (unicode INT UNSIGNED NOT NULL,
-                         c VARCHAR(10) NOT NULL,
-                         pinyin VARCHAR(80),
-                         radical VARCHAR(10),
-                         strokes INT UNSIGNED,
-                         other_strokes INT UNSIGNED,
-                         english VARCHAR(255) NOT NULL,
-                         notes TEXT,
-                         type VARCHAR(125) NOT NULL,
-                         PRIMARY KEY (unicode),
-                         FOREIGN KEY (type) REFERENCES character_types(type),
-                         UNIQUE (c),
-                         INDEX (c)
-                        )
-    CHARACTER SET UTF8
-    COLLATE utf8_general_ci
-;
-
-/*
- * Table for relationship between character variants, traditional / simplified and other variant
- * c1             The UTF-8 text for the subject character
- * c2:            The UTF-8 text for the variant character
- * relation_type: Traditional / simplified or other variant
- */
-CREATE TABLE variants (
-	c1 VARCHAR(10) NOT NULL,
-	c2 VARCHAR(10) NOT NULL,
-	relation_type VARCHAR(255) NOT NULL,
-	PRIMARY KEY (c1,c2),
-	FOREIGN KEY (c1) REFERENCES characters(c),
-	FOREIGN KEY (c2) REFERENCES characters(c),
-	INDEX (c1),
-	INDEX (c2)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
-;
-
-/*
  * Table for font names
  * font_name_en	The name of the font that the character is rendered in (English)
  * font_name_zh	The name of the font that the character is rendered in (Chinese)
@@ -430,26 +308,6 @@ CREATE TABLE font_names (
 	font_name_en VARCHAR(80) NOT NULL,
 	font_name_zh VARCHAR(80) NOT NULL,
 	PRIMARY KEY (font_name_en)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
-;
-
-/*
- * Table for character renderings in different fonts
- * unicode		The Unicode unique identifier for the character (decimal)
- * font_name_en	The name of the font that the character is rendered in (English)
- * image		The name of the image file
- * svg			The name of the svg file
- */
-CREATE TABLE character_rend (
-	unicode INT UNSIGNED NOT NULL,
-	font_name_en VARCHAR(80) NOT NULL,
-	image VARCHAR(80) NOT NULL,
-	svg VARCHAR(80) NOT NULL,
-	PRIMARY KEY (unicode, font_name_en),
-	FOREIGN KEY (unicode) REFERENCES characters(unicode),
-	FOREIGN KEY (font_name_en) REFERENCES font_names(font_name_en)
 	)
 	CHARACTER SET UTF8
 	COLLATE utf8_general_ci
