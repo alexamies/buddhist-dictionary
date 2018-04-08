@@ -14,11 +14,7 @@
 
 use cse_dict;
 
-drop table character_rend;
 drop table font_names;
-drop table variants;
-drop table characters;
-drop table character_types;
 drop table radicals;
 drop table unigram;
 drop table bigram;
