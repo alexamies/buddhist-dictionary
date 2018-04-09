@@ -17,38 +17,6 @@
 use cse_dict;
 
 /*
- * Table for phonetics
- * id       A unique id for the entry
- * pinyin     Hanyu Pinyin with diacritics for tones
- * tonenumbers    Hanyu Pinyin with numbers for tones
- * notones      Hanyu Pinyin with no tones
- * ipa        International Phonetic Alphabet symbols
- * pronunciation  Type of pronunciation.  Standard Chinese assumed if null.
- * initial      Initial part of the syllable (only if a single syllable)
- * final      Final part of the syllable (only if a single syllable)
- * nosyllables    Number of syllables (integer number)
- * mp3        An mp3 recording of the sound
- * notes      Commentary on the entry
- */
-CREATE TABLE phonetics (
-  id INT UNSIGNED NOT NULL,
-  pinyin VARCHAR(125) NOT NULL,
-  tonenumbers VARCHAR(125) NOT NULL,
-  notones VARCHAR(125) NOT NULL,
-  ipa VARCHAR(125) NOT NULL,
-  pronunciation VARCHAR(125),
-  initial VARCHAR(125),
-  final VARCHAR(125),
-  nosyllables INT UNSIGNED NOT NULL,
-  mp3 VARCHAR(125),
-  notes TEXT,
-  PRIMARY KEY (id)
-  )
-  CHARACTER SET UTF8
-  COLLATE utf8_general_ci
-;
-
-/*
  * Table for grammar for Chinese words.
  *
  * Each word in the words table should have an entry that matches a record
@@ -182,72 +150,6 @@ CREATE TABLE illustrations (medium_resolution VARCHAR(255),
                            )
     CHARACTER SET UTF8
     COLLATE utf8_general_ci
-;
-
-/*
- * Table for synonyms.
- *
- * simplified1: the first word in the synonym pair
- * simplified2: the second word in the synonym pair
- */
-CREATE TABLE synonyms (
-	simplified1 VARCHAR(125) NOT NULL,
-	simplified2 VARCHAR(125) NOT NULL,
-	PRIMARY KEY (simplified1, simplified2),
-	FOREIGN KEY (simplified1) REFERENCES words(simplified),
-	FOREIGN KEY (simplified2) REFERENCES words(simplified)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
-;
-
-/*
- * Table for related words.
- *
- * Related words are not synonyms but connected because one is an 
- * abbreviation or different way of writing the other
- *
- * simplified1: the first term in the related terms pair, must be a word in the words table
- * simplified2: the second term in the synonym pair, not necessarily a word in the words table
- * note:        describes the type of relationship (abbreviation, etc)
- * link:        a URL describing more about the word relationship
- */
-CREATE TABLE related (
-	simplified1 VARCHAR(125) NOT NULL,
-	simplified2 VARCHAR(125) NOT NULL,
-	note VARCHAR(125),
-	link VARCHAR(125),
-	PRIMARY KEY (simplified1, simplified2),
-	FOREIGN KEY (simplified1) REFERENCES words(simplified)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
-;
-
-/*
- * Table for phrase entries.
- *
- * Entries in the phrase table may be identified when parsing new text data.
- * Phrases are tagged using Penn Chinese part-of-speech tag definitions.
- *
- * id:             An id for the phrase entry
- * chinese_phrase: Plain text Chinese
- * pos_tagged:     The phrase tagged with PoS tags, including word and phrase gloss
- * sanskrit:       The Sanskrit equivalent, if known
- * source_no:      The id of the corpus source document
- * source_name:    The name of the source document
- */
-CREATE TABLE phrases (
-	id INT UNSIGNED NOT NULL,
-	chinese_phrase VARCHAR(125) NOT NULL,
-	pos_tagged TEXT NOT NULL,
-	sanskrit TEXT,
-	source_no INT UNSIGNED,
-	source_name TEXT NOT NULL,
-	PRIMARY KEY (id)
-	)
-	CHARACTER SET UTF8
-	COLLATE utf8_general_ci
 ;
 
 /*
