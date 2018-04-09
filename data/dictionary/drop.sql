@@ -14,7 +14,6 @@
 
 use cse_dict;
 
-drop table font_names;
 drop table unigram;
 drop table bigram;
 drop table illustrations;
