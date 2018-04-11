@@ -31,8 +31,7 @@ There are three parts to the project:
    Chinese texts from the Buddhist canon and related collections. The corpus 
    files include part-of-speech (POS) tagged documents and untagged documents.
 
-3. Command line tools. For building vocabulary. These are in Python. This
-   includes a POS tagger and HTML annotation tool.
+3. Command line tools for building vocabulary. These are in Python. 
 
 The license for the web site and dictionary content is Creative Commons 
 Attribution-Share Alike 3.0. The license for source code and markup templates, 
@@ -48,7 +47,10 @@ Acknowldegements:
 2. Historic Buddhist texts from the Taishō Tripiṭaka are from [CBETA]
    (http://cbeta.org).
 
-3. Humanistic Buddhism texts are reproduced from Fo Guang Shan with permission.
+3. Sources listed in the [References](http://test.ntireader.org/references.html).
+
+Humanistic Buddhism texts are now moved to the [Humanistic Buddhism Reader]
+(http://hbreader.org/).
 
 -------------------------------------------------------------------------------
 Copyright Nan Tien Institute 2013-2017, http://www.nantien.edu.au.
