@@ -53,4 +53,4 @@ Humanistic Buddhism texts are now moved to the [Humanistic Buddhism
 Reader](http://hbreader.org/).
 
 -------------------------------------------------------------------------------
-Copyright Nan Tien Institute 2013-2017, http://www.nantien.edu.au.
+Copyright Nan Tien Institute 2013-2018, http://www.nantien.edu.au.
