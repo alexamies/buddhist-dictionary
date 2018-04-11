@@ -39,7 +39,7 @@ is Apache 2.0.
 
 Acknowldegements:
 
-1. The dictionary is based on the the [CC-CEDICT Chinese - English 
+1. The dictionary includes many terms from the [CC-CEDICT Chinese - English 
    dictionary](http://cc-cedict.org/wiki/), shared under the 
    [Creative Commons Attribution-Share Alike 3.0
    License](http://creativecommons.org/licenses/by-sa/3.0/).
@@ -47,7 +47,7 @@ Acknowldegements:
 2. Historic Buddhist texts from the Taishō Tripiṭaka are from
    [CBETA](http://cbeta.org).
 
-3. Sources listed in the [References](http://test.ntireader.org/references.html).
+3. Sources listed in the [References](http://ntireader.org/references.html).
 
 Humanistic Buddhism texts are now moved to the [Humanistic Buddhism
 Reader](http://hbreader.org/).
