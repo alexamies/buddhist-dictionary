@@ -13,13 +13,11 @@ def ToSimplified(trad):
   for t in trad:
     if t in cedict:
       entry = cedict[t]
-      s = entry['simplified']
-      p = entry['pinyin']
-      simplified += s
-      pinyin += p
+      simplified += entry['simplified']
+      pinyin += entry['pinyin']
     else:
-      s = u"Not found"
-      p = u"Not found"
+      simplified += t
+      pinyin += ' '
   if simplified == trad:
     traditional = "\\N"
   return simplified, traditional, pinyin.lower()
