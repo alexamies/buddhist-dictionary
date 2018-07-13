@@ -1,5 +1,6 @@
 # HTML files outside the corpus to be converted to add popover for Chinese words
 # Raw file, Output file, Template
+../html/404.html	404.html	index-template.html	false
 ../html/abbreviations.html	abbreviations.html	reference-template.html	false
 ../html/about.html	about.html	about-template.html	false
 ../html/about_chinese_canon.html	about_chinese_canon.html	reference-template.html	false

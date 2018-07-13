@@ -1,29 +1,14 @@
 #!/bin/bash
-## Push changes from a build server to either GCS or the production server
-## PROD_SERVER should be set to the server name of the production system OR
+## Push changes from a build server to GCS 
 ## BUCKET should be set to the name of the GCS bucket to store the generated
 ## files
-if [ -n "$PROD_SERVER" ]; then
-  echo "Copying to server $PROD_SERVER"
-  mkdir -p tmp
-  tar -czf tmp/taisho.tar.gz web/taisho web/analysis/taisho
-  tar -czf tmp/words.tar.gz web/words web/analysis
-  if [ -n "$PROJECT" -a -n "$ZONE" ]; then
-      gcloud compute --project "$PROJECT" scp tmp/taisho.tar.gz $PROD_SERVER:/disk1/ntireadertest.org/tmp/ --zone "$ZONE" 
-      gcloud compute --project "$PROJECT" scp tmp/words.tar.gz $PROD_SERVER:/disk1/ntireadertest.org/tmp/ --zone "$ZONE" 
-  else
-    echo "Failed: Either PROJECT or ZONE is not set, please set both"
-    exit 1
-  fi
-elif [ -n "$BUCKET" ]; then
+WEB_DIR=web-staging
+if [ -n "$BUCKET" ]; then
   echo "Copying to GCS bucket $BUCKET"
-  mkdir -p tmp
-  tar -czf tmp/taisho.tar.gz web/taisho web/analysis/taisho
-  tar -czf tmp/words.tar.gz web/words web/analysis
-  gsutil cp tmp/taisho.tar.gz gs://$BUCKET
-  gsutil cp tmp/words.tar.gz gs://$BUCKET
-  gsutil cp index/ngram_frequencies.txt gs://$BUCKET
+  gsutil -m -h "Cache-Control:public,max-age=3600" rsync -a public-read -d -r $WEB_DIR gs://$BUCKET
+  gsutil -m setmeta -h "Content-Type:text/html" gs://$BUCKET/*.php 
+
 else
-  echo "Failed: Both BUCKET and PROD_SERVER are not set, please set either one"
+  echo "Failed: BUCKET not set, please set it to the GCS bucket name"
   exit 1
 fi

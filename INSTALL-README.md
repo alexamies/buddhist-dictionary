@@ -32,8 +32,15 @@ bin/ntireader.sh
 ```
 
 ## Upload to a GCS bucket
+First time setup:
 ```
 export BUCKET={your bucket}
+gsutil mb gs://$BUCKET
+gsutil web set -m index.html -e 404.html gs://$BUCKET
+```
+
+When generating new content
+```
 bin/push.sh
 ```
 
