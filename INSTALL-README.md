@@ -1,91 +1,110 @@
-#Installation without Docker
+#Installation of the HTML Generating tools and Web Site
 This page explains setup of combined build and web app. If you are only
 installing one or the other you may skip some steps.
 
 ## Prerequisites
-1. Debian flavor of Linux
-2. About 10 GB of memory for the build server, much less for only the web app
-3. GCS bucket [optional for build script to upload artifacts]
-4. Attached block storage device
+1. Go
+2. Docker
+3. About 10 GB of memory for the build server, much less for only the web app
+4. GCS bucket optional for cloud hosting
+5. Attached block storage device for cloud hosting
 
-## Basic Setup
-```
-sudo apt-get update
+These instructions assume that you will work directly under $HOME. Change
+the top level directory if you are working in another location.
 
-sudo mkdir -p /disk1/ntireader
--- Mount and format disk
--- Add to file system table
-sudo vi /etc/fstab
-sudo mount -a
+## Get the source from GitHub
 ```
+git clone git://github.com/alexamies/buddhist-dictionary
+git clone git://github.com/alexamies/chinesenotes.com
 
-## NTI Reader Files
-```
--- Substitute for your own location and user name
-export CNREADER_HOME=/disk1/ntireader
-sudo chown $USER:$USER /disk1/ntireader
-sudo apt-get install -y git
-git clone git://github.com/alexamies/buddhist-dictionary $CNREADER_HOME
 ```
 
 ## Build generated HTML files
 ```
 # Install Go lang
-# Get the cnreader build tool
-sudo mkdir -p /disk1/cnreader
-sudo chown $USER:$USER /disk1/cnreader
-export DEV_HOME=/disk1/cnreader
-git clone https://github.com/alexamies/chinesenotes.com.git $DEV_HOME
-cd $DEV_HOME/go/src/cnreader
+
+cd chinesenotes.com/go/
+source path.bash.inc
+cd src/cnreader
 go build cnreader
-cd $CNREADER_HOME
-bin/build.sh
+cd $HOME
+bin/ntireader.sh
 ```
 
 ## Upload to a GCS bucket
 ```
 export BUCKET={your bucket}
 bin/push.sh
-
-# On the application server
-# Apache Setup
-sudo apt-get install -y apache2 php5 php5-mysql
-
-# Repeat getting of gitbug repo, only buddhist-dictionary (ntireader) is required
-# Pull the generated files from GCS
-bin/pull.sh
-
-# If your staging environment is different from your prod environment
-bin/deploy.sh
 ```
 
-Set document root
+## Containerization
+Containerization is new, under development, and not yet deployed to prod.
 
-SetEnv DB_PASSWORD 
-```
-sudo vi /etc/apache2/sites-enabled/000-default
-```
 
-Copy Angular files
-```
-wget https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js
-wget https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular-sanitize.js 
-```
+### Database
+[Mariadb Documentation](https://mariadb.org/)
 
-Start Apache2 by default (Debian specific)
-```
-sudo update-rc.d apache2 defaults
-```
+The application uses a Mariadb database. 
 
-Start the server
-```
-export DB_PASSWORD={password}
-sudo apacheclt restart
-```
+### Mariadb Docker Image
+[Mariadb Image Documentation](https://hub.docker.com/r/library/mariadb/)
 
-## MySQL Setup
+To start a Docker container with Mariadb and connect to it from a MySQL command
+line client execute the command below. First, set environment variable 
+`MYSQL_ROOT_PASSWORD`.
+
 ```
-sudo apt-get install -y mysql-server mysql-client
+docker run --name mariadb -p 3306:3306 \
+  -e MYSQL_ROOT_PASSWORD=$MYSQL_ROOT_PASSWORD -d \
+  --mount type=bind,source="$(pwd)"/data,target=/ntidata \
+  mariadb:10.3
+docker exec -it mariadb bash
+mysql --local-infile=1 -h localhost -u root -p
 ```
 
-Load data into database, see ../data/dictionary/dictionary-readme.txt
+The data in the database is persistent unless the container is deleted. To
+restart the database use the command
+
+```
+docker restart  mariadb
+```
+
+To load data from other sources connect to the database container
+
+```
+docker exec -it mariadb bash
+mysql --local-infile=1 -h localhost -u root -p
+
+# In the mysql client
+# Edit password in the script
+source cndata/dictionary.ddl
+source cndata/load_data.sql
+```
+
+### Web Front End
+
+Test it locally
+First, export environment variables `DBUSER` and `DBPASSWORD` to connect to the 
+database, as per unit tests above.
+
+```
+docker run -itd --rm -p 80:80 --name ntireader-web --link mariadb \
+  -e DBUSER=$DBUSER \
+  -e DBPASSWORD=$DBPASSWORD \
+  ntireader-web-image
+```
+
+Attach to a local image for debugging, if needed
+```
+docker exec -it ntireader-web bash
+```
+
+Push to Google Container Registry
+[Google Container Registry Quickstart](https://cloud.google.com/container-registry/docs/quickstart)
+
+```
+TAG=prototype01
+docker tag ntireader-web-image gcr.io/$PROJECT/ntireader-web-image:$TAG
+gcloud docker -- push gcr.io/$PROJECT/ntireader-web-image:$TAG
+
+```
