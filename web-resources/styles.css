@@ -1,0 +1,826 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+  font-size: x-large;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: large;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: medium;
+  font-weight: bold;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+ }
+
+ a:hover {
+  text-decoration: underline;
+ }
+
+.authenticated {
+  display: block;
+ }
+
+#translation_message {
+  display: none;
+}
+
+/* Dictionary Entry style */
+span.dict-entry-headword {
+    font-size: 200%;
+    font-weight: normal;
+}
+span.dict-entry-pinyin {
+    font-style: italic;
+    font-size: 120%;
+}
+
+span.dict-entry-grammar {
+    font-size: 120%;
+}
+
+span.dict-entry-definition {
+    font-size: 120%;
+    font-weight: bold;
+}
+
+span.dict-entry-notes {
+    font-weight: bold;
+}
+
+/* Query terms decomposition table */
+.query-term {
+    font-size: 150%;
+    font-weight: normal;
+}
+
+span.notes-label {
+    font-style: italic;
+}
+
+/* Highlight for headword in usage */
+span.usage-highlight {
+    color: red;
+}
+
+/* Different color for proper nouns in texts */
+a.propernoun {
+    text-decoration: underline;
+    color: blue;
+}
+/* End Dictionary Entry style */
+
+/* Search Results */
+#findResults {
+  display: none;
+}
+
+#queryTerms {
+  display: none;
+}
+
+#findError {
+  display: none;
+}
+
+th {
+  font-weight: bold;
+}
+
+#DialogPinyin {
+  font-style: italic;
+}
+
+.mdl-layout__content {
+   margin: 5px;
+   padding: 5px;
+}
+
+.mdl-demo .mdl-layout__header-row {
+  padding-left: 40px;
+}
+.mdl-demo .mdl-layout.is-small-screen .mdl-layout__header-row h3 {
+  font-size: inherit;
+}
+.mdl-demo .mdl-layout__tab-bar-button {
+  display: none;
+}
+.mdl-demo .mdl-layout.is-small-screen .mdl-layout__tab-bar .mdl-button {
+  display: none;
+}
+.mdl-demo .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar,
+.mdl-demo .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar-container {
+  overflow: visible;
+}
+.mdl-demo .mdl-layout__tab-bar-container {
+  height: 64px;
+}
+.mdl-demo .mdl-layout__tab-bar {
+  padding: 0;
+  padding-left: 16px;
+  box-sizing: border-box;
+  height: 100%;
+  width: 100%;
+}
+.mdl-demo .mdl-layout__tab-bar .mdl-layout__tab {
+  height: 64px;
+  line-height: 64px;
+}
+.mdl-demo .mdl-layout__tab-bar .mdl-layout__tab.is-active::after {
+  background-color: white;
+  height: 4px;
+}
+.mdl-demo main > .mdl-layout__tab-panel {
+  padding: 8px;
+  padding-top: 48px;
+}
+.mdl-demo .mdl-card {
+  height: auto;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.mdl-demo .mdl-card > * {
+  height: auto;
+}
+.mdl-demo .mdl-card .mdl-card__supporting-text {
+  margin: 40px;
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  padding: 0;
+  color: inherit;
+  width: calc(100% - 80px);
+}
+.mdl-demo.mdl-demo .mdl-card__supporting-text h4 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+.mdl-demo .mdl-card__actions {
+  margin: 0;
+  padding: 4px 40px;
+  color: inherit;
+}
+.mdl-demo .mdl-card__actions a {
+  color: #00BCD4;
+  margin: 0;
+}
+.mdl-demo .mdl-card__actions a:hover,
+.mdl-demo .mdl-card__actions a:active {
+  color: inherit;
+  background-color: transparent;
+}
+.mdl-demo .mdl-card__supporting-text + .mdl-card__actions {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+.mdl-demo #add {
+  position: absolute;
+  right: 40px;
+  top: 36px;
+  z-index: 999;
+}
+
+.mdl-demo .mdl-layout__content section:not(:last-of-type) {
+  position: relative;
+  margin-bottom: 48px;
+}
+.mdl-demo section.section--center {
+  max-width: 860px;
+}
+.mdl-demo #features section.section--center {
+  max-width: 620px;
+}
+.mdl-demo section > header{
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.mdl-demo section > .section__play-btn {
+  min-height: 200px;
+}
+.mdl-demo section > header > .material-icons {
+  font-size: 3rem;
+}
+.mdl-demo section > button {
+  position: absolute;
+  z-index: 99;
+  top: 8px;
+  right: 8px;
+}
+.mdl-demo section .section__circle {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-justify-content: flex-start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  -webkit-flex-grow: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  -webkit-flex-shrink: 1;
+      -ms-flex-negative: 1;
+          flex-shrink: 1;
+}
+.mdl-demo section .section__text {
+  -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+  padding-top: 8px;
+}
+.mdl-demo section .section__text h5 {
+  font-size: inherit;
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+.mdl-demo section .section__text a {
+  text-decoration: none;
+}
+.mdl-demo section .section__circle-container > .section__circle-container__circle {
+  width: 64px;
+  height: 64px;
+  border-radius: 32px;
+  margin: 8px 0;
+}
+.mdl-demo section.section--footer .section__circle--big {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin: 8px 32px;
+}
+.mdl-demo .is-small-screen section.section--footer .section__circle--big {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin: 8px 16px;
+}
+.mdl-demo section.section--footer {
+  padding: 64px 0;
+  margin: 0 -8px -8px -8px;
+}
+.mdl-demo section.section--center .section__text:not(:last-child) {
+  border-bottom: 1px solid rgba(0,0,0,.13);
+}
+.mdl-demo .mdl-card .mdl-card__supporting-text > h3:first-child {
+  margin-bottom: 24px;
+}
+.mdl-demo .mdl-layout__tab-panel:not(#overview) {
+  background-color: white;
+}
+.mdl-demo #features section {
+  margin-bottom: 72px;
+}
+.mdl-demo #features h4, #features h5 {
+  margin-bottom: 16px;
+}
+.mdl-demo .toc {
+  border-left: 4px solid #C1EEF4;
+  margin: 24px;
+  padding: 0;
+  padding-left: 8px;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+.mdl-demo .toc h4 {
+  font-size: 0.9rem;
+  margin-top: 0;
+}
+.mdl-demo .toc a {
+  color: #4DD0E1;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 28px;
+  display: block;
+}
+.mdl-demo .mdl-menu__container {
+  z-index: 99;
+}
+
+/* About page
+ */
+ #about-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+/* Search bar at top of menu
+ * From https://codepen.io/SeanBannister/pen/BNVvVQ
+ */
+.mdh-expandable-search {
+  margin: 0 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+.mdh-expandable-search form {
+  max-width: 600px;
+}
+
+.mdh-expandable-search,
+.mdh-expandable-search form,
+.mdh-expandable-search input {
+  /* Cross browser flex-grow */
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+
+.mdh-expandable-search,
+.mdh-expandable-search form {
+  /* Cross browser inline-flex */
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -moz-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+/* Position search icon */
+.mdh-expandable-search .material-icons {
+  position: relative;
+  right: -40px;
+  margin-left: -24px; /* Remove the blank space left behind by the icon being relatively positioned */
+}
+
+.mdh-expandable-search input {
+  outline: none;
+  border: none;
+  font-size: 16px;
+  color: #FFFFFF;
+  background-color: #78909C;
+  padding: 0px 35px 0px 70px;
+  height: 40px;
+  line-height: 40px; /* TODO: This was recommended for cross browser compatability of input height, check if its actually needed in modern browsers */
+  
+  border-radius: 5px 5px 5px 5px;
+  -moz-border-radius: 5px 5px 5px 5px;
+  -webkit-border-radius: 5px 5px 5px 5px;
+}
+
+.mdh-expandable-search input::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #FFFFFF;
+}
+.mdh-expandable-search input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #FFFFFF;
+   opacity:  1; /* Firefox gives the placeholder a reduced opacity so we have to increase it */
+}
+.mdh-expandable-search input::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #FFFFFF;
+   opacity:  1; /* Firefox gives the placeholder a reduced opacity so we have to increase it */
+}
+.mdh-expandable-search input:-ms-input-placeholder { /* Internet Explorer 10+ */
+   color:    #FFFFFF;
+}
+
+
+/* Bug fix: https://github.com/google/material-design-lite/issues/1078
+ * To much padding on the left of header when the menu button is hidden */
+@media screen and (min-width: 851px) {
+  .mdl-layout__header-row {
+    padding: 0 40px 0 40px;
+  }
+}
+
+/* Bug fix for badges being in the wrong location */
+.mdl-badge[data-badge]:after {
+  right: -7px;
+  top: -8px;
+}
+
+/* Old styles */
+
+body.article {
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  font-size: 12pt;
+  color: #444;
+  padding: 40px;
+  max-width: 1100px;
+}
+
+/* vocabulary */
+a.vocabulary {
+  vertical-align: top;
+}
+
+/* Image in right column */
+td.rcolumn {
+  vertical-align: top;
+}
+
+/* Content in table */
+td.content {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding: 20px;
+}
+td.contents {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+}
+/*  Poetry text */
+p.poem { 
+  text-align: center;
+  font-size: 18pt;
+}
+
+.poetryNotes { 
+  font-size: 10pt;
+}
+
+h2.animal { 
+  color: red;
+    text-align: center;
+  font-size: 3em;
+}
+
+h2.poem { 
+  color: #444;
+  text-align: center;
+  font-size: 18pt;
+}
+
+.author {
+  font-style: italic;
+    text-align: center;
+}
+
+.source {
+    text-align: center;
+}
+
+.copy {
+  font-style: italic
+}
+
+span.bookTitle {
+  font-style: italic
+}
+
+table.stroke {
+    border-collapse: collapse;
+    padding: 0px;
+  border: solid gray 1px;
+}
+
+th.stroke {
+  vertical-align: top;
+  text-align: left;
+  font-weight: bold;
+  padding: 5pt;
+  background-color: #CCCCEE;
+  border: solid gray 1px;
+}
+
+td.stroke {
+  vertical-align: top;
+  text-align: left;
+  padding: 5pt;
+    border: solid gray 1px;
+}
+
+table.portlet {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding:0.4em;
+    width:80%;
+}
+
+th.portlet {
+  background-color: #CCCCEE;
+  border: 1px solid gray;
+}
+
+table.index {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding: 0.4em;
+}
+
+th.index {
+  background-color: #CCCCEE;
+  border: 1px solid gray;
+}
+
+table.grammar {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+    border-collapse: collapse;
+  padding: 0.5em;
+  margin-left: auto;
+    margin-right: auto;
+}
+
+th.grammar {
+  background-color: #CCCCEE;
+  border: 1px solid gray;
+  padding: 0.5em;
+}
+
+td.grammar {
+  border: 1px solid gray;
+  padding: 0.5em;
+}
+
+/* Table for showing sentence lookup */
+tr.selectedRow {
+  background-color: #CCCCEE;
+}
+
+span.simplified, span.traditional {
+  font-size: 1.6em;
+}
+
+h2.portlet {
+  color: black;
+    margin:0;
+    text-align: center
+}
+
+h3.portlet {
+  color: black;
+    text-align: center;
+    margin:0;
+}
+
+.highlight {
+  font-weight: bold;
+  color: red;
+}
+
+.titlePicture {
+  text-align: center;
+  padding: 15px;
+}
+
+.strokesico {
+  border: 0px; 
+  width: 17px; 
+  height: 13px;
+}
+
+.strokeorder {
+  text-align: center;
+}
+
+.code {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #dddddd;
+  font-size: 0.8em;
+  padding: 10px;
+  width: 1000px;
+}
+
+div.block {
+  padding: 0em 0em 0em 2em; 
+}
+
+span.literal {
+    color: blue;
+}
+
+span.comment {
+    color: green;
+}
+
+span.keyword {
+    color: purple;
+    font-weight: bold;
+}
+
+div.caption {
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
+
+div.picture {
+  text-align: center;
+  border: 0;
+}
+
+div.picture_header {
+  padding: 5px;
+  font-weight: bold;
+  font-size: larger;
+}
+
+div.animal { 
+    text-align: center;
+}
+
+#animals {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding:0.4em;
+    width: 500px;
+  text-align: center;
+}
+
+#animalstabbody {
+  text-align: left;
+}
+
+#numbers {
+    width: 500px;
+}
+
+#currencyTable {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding:0.4em;
+    width: 800px;
+  text-align: center;
+}
+
+#currencyTabBody {
+  text-align: left;
+}
+
+/* Word detail page */
+#wordTable {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding:0.4em;
+    width: 800px;
+  text-align: center;
+}
+
+#wordTabBody {
+  text-align: left;
+}
+
+h1.wordDetail {
+  font-size: 1.2em;
+  color: #444;
+  text-align: left;
+}
+
+h2.wordDetail {
+  font-size: 1.2em;
+  color: #444;
+}
+
+#simplifiedDetail {
+  font-size: 40pt;  
+}
+
+#wordImage {
+  float:  right;
+}
+
+#map {
+  float:  right;
+}
+
+.hl {
+  color: black;
+  font-weight: bold;
+}
+
+.ad {
+  padding: 15px;
+  text-align: center;
+}
+
+/* Translated article */
+div.box {
+  background-color: #F0F0FF;
+  border: 1px solid gray;
+  padding: 0.5em 1.0em 1.0em 2.0em;
+}
+
+div.rtitle {
+  text-align: right;
+}
+
+h2.article {
+  font-size: 1.0em;
+  color: #444;
+}
+
+h3.article {
+  font-size: 1.0em;
+  color: #444;
+}
+
+/* Floating boxes for translated articles */
+div.fright {
+  float:  right;
+  padding: 5px;
+}
+div.fleft {
+  float:  left;
+  padding: 10px;
+}
+div.fclear {
+  clear:  both;
+}
+
+.use {
+  border: none;
+}
+
+/* Search page */
+div.search {
+  text-align: center;
+    padding: 10px;
+}
+
+span.category {
+  padding: 0.0em 2.0em 0.0em 0.0em; 
+}
+
+#searchPhrase {
+  display: none;
+}
+
+#advancedDiv {
+  display: none;
+}
+
+#resultsTable {
+    background: #ddf;
+    color: #004;
+}
+
+fieldset {
+    border: none;
+}
+
+#searching {
+  text-align: center;
+    padding: 5px;
+}
+
+/* Character Detail */
+#largeChar {
+  font-size: 100pt;
+}
+
+#largeCharacter {
+  text-align: center;
+}
+
+#charDetailPinyin {
+  text-align: center;
+}
+
+/* Tool Tips */
+#toolTip {
+  position: absolute;
+  max-width: 200px;
+  display: none; 
+  border: solid gray 1px;
+  background-color: #FF8;
+  padding: 5px;
+}
+
+/* Chaguan / Teahouse*/
+/* Act header */
+h2.chaguan {
+  text-align: center;
+  color: #444;
+  font-weight: normal;
+}
+
+/* The name of the character speaking */
+.renwu {
+  font-style: italic;
+}
+
+/* The lines that the character reads */
+.line {
+  margin-left: 125px;
+  margin-top: -1em;
+}
