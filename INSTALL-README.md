@@ -44,11 +44,7 @@ When generating new content
 bin/push.sh
 ```
 
-## Containerization
-Containerization is new, under development, and not yet deployed to prod.
-
-
-### Database
+## Database
 [Mariadb Documentation](https://mariadb.org/)
 
 The application uses a Mariadb database. 
@@ -56,6 +52,7 @@ The application uses a Mariadb database.
 ### Mariadb Docker Image
 [Mariadb Image Documentation](https://hub.docker.com/r/library/mariadb/)
 
+### Running locally
 To start a Docker container with Mariadb and connect to it from a MySQL command
 line client execute the command below. First, set environment variable 
 `MYSQL_ROOT_PASSWORD`.
@@ -78,6 +75,45 @@ docker restart  mariadb
 
 To load data from other sources connect to the database container
 
+### Running on Kubernetes
+Set up the mariadb software as per the [Chinese Notes instructions](https://github.com/alexamies/chinesenotes.com).
+```
+gcloud container clusters get-credentials $CLUSTER --zone=$ZONE
+```
+
+
+The first time Configure the database check first_time_setup.sql and execute
+```
+source dictionary/dictionary.ddl
+source corpus/corpus_index.ddl
+
+```
+
+After first time setup, follow the commands below, setting your own value for 
+POD_NAME.
+
+```
+kubectl get pods
+POD_NAME=
+tar -zcf  ntidata.tar.gz data
+kubectl cp ntidata.tar.gz $POD_NAME:.
+kubectl exec -it $POD_NAME bash
+rm -rf data
+rm -rf ntidata/*
+tar -zxf ntidata.tar.gz
+mkdir ntidata
+mv data/* ntidata/.
+cd ntidata
+mysql --local-infile=1 -h localhost -u root -p
+source drop.sql
+source drop_index.sql
+source load_data.sql
+source load_index.sql
+source library/digital_library.sql
+
+```
+
+### Loading data
 ```
 docker exec -it mariadb bash
 mysql --local-infile=1 -h localhost -u root -p
@@ -88,7 +124,7 @@ source cndata/dictionary.ddl
 source cndata/load_data.sql
 ```
 
-### Web Front End
+## Web Front End
 
 Test it locally
 First, export environment variables `DBUSER` and `DBPASSWORD` to connect to the 

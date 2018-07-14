@@ -1,4 +1,4 @@
-USE cse_dict;
+USE ntireader;
 
 LOAD DATA LOCAL INFILE 'grammar.txt' INTO TABLE grammar CHARACTER SET utf8 LINES TERMINATED BY '\r\n';
 SHOW WARNINGS;
