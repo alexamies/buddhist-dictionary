@@ -101,7 +101,6 @@ kubectl exec -it $POD_NAME bash
 rm -rf data
 rm -rf ntidata/*
 tar -zxf ntidata.tar.gz
-mkdir ntidata
 mv data/* ntidata/.
 cd ntidata
 mysql --local-infile=1 -h localhost -u root -p
@@ -125,29 +124,56 @@ source cndata/load_data.sql
 ```
 
 ## Web Front End
+The web front end for the NTI Reader uses the Chinese Notes Go application,
+with source code at
 
-Test it locally
-First, export environment variables `DBUSER` and `DBPASSWORD` to connect to the 
-database, as per unit tests above.
+https://github.com/alexamies/chinesenotes.com/tree/master/go/src/cnweb
 
-```
-docker run -itd --rm -p 80:80 --name ntireader-web --link mariadb \
-  -e DBUSER=$DBUSER \
-  -e DBPASSWORD=$DBPASSWORD \
-  ntireader-web-image
-```
+The instructions for building a Docker image are at
+[Chinese Notes](https://github.com/alexamies/chinesenotes.com) 
 
-Attach to a local image for debugging, if needed
+After following those instructions, execute the Kubernetes commands here:
 ```
-docker exec -it ntireader-web bash
+kubectl apply -f kubernetes/app-deployment.yaml 
+kubectl apply -f kubernetes/app-service.yaml
 ```
 
-Push to Google Container Registry
-[Google Container Registry Quickstart](https://cloud.google.com/container-registry/docs/quickstart)
-
+Configure a load balancer that will direct HTTP requests to the backend bucket
+and Kubernetes service based on path. Use these commands, setting the values for
+INSTANCE_GROUP and HOST appropriately for your installation:
 ```
-TAG=prototype01
-docker tag ntireader-web-image gcr.io/$PROJECT/ntireader-web-image:$TAG
-gcloud docker -- push gcr.io/$PROJECT/ntireader-web-image:$TAG
-
+INSTANCE_GROUP=[Your value]
+HOST=[Your value]
+gcloud compute firewall-rules create ntireader-app-rule \
+    --allow tcp:30081 \
+    --source-ranges 130.211.0.0/22,35.191.0.0/16
+gcloud compute health-checks create http ntireader-app-check --port=30081 \
+     --request-path=/healthcheck/
+gcloud compute backend-services create ntireader-service \
+     --protocol HTTP \
+     --health-checks ntireader-app-check \
+     --global
+gcloud compute backend-services add-backend ntireader-service \
+    --balancing-mode UTILIZATION \
+    --max-utilization 0.8 \
+    --capacity-scaler 1 \
+    --instance-group $INSTANCE_GROUP \
+    --instance-group-zone $ZONE \
+    --global
+gcloud compute backend-buckets create ntireader-web-bucket --gcs-bucket-name $BUCKET
+gcloud compute url-maps create ntireader-map \
+    --default-backend-bucket ntireader-web-bucket
+gcloud compute url-maps add-path-matcher ntireader-map \
+    --default-backend-bucket ntireader-web-bucket \
+    --path-matcher-name ntinreader-matcher \
+    --path-rules="/find/*=ntireader-service,/findmedia/*=ntireader-service" \
+    --new-hosts=$HOST
+gcloud compute target-http-proxies create ntireader-lb-proxy \
+    --url-map ntireader-map
+gcloud compute addresses create ntireader-web --global
+gcloud compute forwarding-rules create ntireader-content-rule \
+    --address ntireader-web \
+    --global \
+    --target-http-proxy ntireader-lb-proxy \
+    --ports 80
 ```

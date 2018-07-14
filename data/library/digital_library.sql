@@ -1,4 +1,4 @@
-USE cse_dict;
+USE ntireader;
 
 CREATE TABLE IF NOT EXISTS user (
   UserID INT NOT NULL AUTO_INCREMENT PRIMARY KEY, 
