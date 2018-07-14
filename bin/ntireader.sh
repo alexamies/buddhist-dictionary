@@ -18,7 +18,6 @@ mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
 mkdir $WEB_DIR/words
 
-cd $CNREADER_HOME
 cd $DEV_HOME/go
 source 'path.bash.inc'
 cd src/cnreader
