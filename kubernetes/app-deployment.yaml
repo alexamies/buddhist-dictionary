@@ -1,0 +1,41 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: ntireader-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      run: ntireader-app
+  template:
+    metadata:
+      labels:
+        run: ntireader-app
+    spec:
+      containers:
+      - image: gcr.io/hbreader-162018/cn-app-image:r33
+        name: ntireader-app
+        resources:
+          limits:
+            cpu: "100m"
+          requests:
+            cpu: "20m"
+        env:
+          - name: SITEDOMAIN
+            value: ntireader.org
+          - name: PORT
+            value: "8081"
+          - name: DBHOST
+            value: mariadb
+          - name: DATABASE
+            value: ntireader
+          - name: DBUSER
+            value: app_user
+          - name: DBPASSWORD
+            valueFrom:
+              secretKeyRef:
+                name: mysql
+                key: DBPASSWORD
+        ports:
+        - containerPort: 8081
+          protocol: TCP
