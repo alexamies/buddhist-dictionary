@@ -1,1 +1,0 @@
-Generated word files will be placed in this directory.

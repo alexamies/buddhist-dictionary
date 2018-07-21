@@ -1,1 +1,0 @@
-Taisho gloss files will be placed in this directory
