@@ -7,7 +7,11 @@
   if (findForm) {
     document.getElementById("findForm").onsubmit = function() {
   	  var query = document.getElementById("findInput").value;
-  	  var url = '/find/?query=' + query;
+      var action = "/find";
+      if (!findForm.action.endsWith("#")) {
+        action = findForm.action;
+      }
+  	  var url = action + "/?query=" + query;
   	  makeRequest(url);
   	  return false;
     };
@@ -40,14 +44,20 @@
   // Function for sending and displaying search results for words 
   // based on the URL of the main page
   var href = window.location.href;
-  if (href.includes('/#?text=')) {
-    var q = href.split('=');
+  if (href.includes('#?text=')) {
+    var path = decodeURI(href);
+    var q = path.split('=');
+    var findInput = document.getElementById("findInput");
+    if (findInput) {
+      findInput.value = q[1];
+    }
     var url = '/find/?query=' + q[1];
     makeRequest(url);
     return false
   }
 
   function makeRequest(url) {
+    console.log("makeRequest: url = " + url);
     httpRequest = new XMLHttpRequest();
 
     if (!httpRequest) {
@@ -57,6 +67,13 @@
     httpRequest.onreadystatechange = alertContents;
     httpRequest.open('GET', url);
     httpRequest.send();
+    var helpBlock = document.getElementById("lookup-help-block")
+    if (helpBlock) {
+      helpBlock.innerHTML ="Searching ...";
+      componentHandler.upgradeElement(helpBlock);
+    } else {
+    }
+    console.log("makeRequest: Sent request");
   }
 
   function alertContents() {
@@ -66,7 +83,7 @@
         console.log(httpRequest.responseText);
         obj = JSON.parse(httpRequest.responseText);
 
-        $('help-block').hide();
+        $('#lookup-help-block').hide();
 
         // If there is only one result, redirect to it
         var numCollections = obj.NumCollections;
