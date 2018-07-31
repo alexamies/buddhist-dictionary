@@ -1,1 +1,0 @@
-The index directory is used for writing corpus analysis to plain text files.

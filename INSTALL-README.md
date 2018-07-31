@@ -75,68 +75,116 @@ docker restart  mariadb
 
 To load data from other sources connect to the database container
 
-### Running on Kubernetes
-Set up the mariadb software as per the [Chinese Notes instructions](https://github.com/alexamies/chinesenotes.com).
+## Deploying to Production
+### Set up a Cloud SQL Database
+New: Replacing management of the Mariadb database in a Kubernetes cluster
+Follow instructions in 
+[Cloud SQL Quickstart](https://cloud.google.com/sql/docs/mysql/quickstart) using
+the Cloud Console.
+
+Connect to the instance from the Cloud Shell
 ```
+cd data
+INSTANCE=cnotes
+gcloud sql connect $INSTANCE --user=root
+```
+
+Execute statements in first_time_setup.sql, data/dictionary/dictionary.ddl, and 
+data/corpus/corpus_index.ddl to define the database and tables.
+
+Import the data for table word_freq_doc via the Cloud Console using the import
+function. The other tables can be imported using the MySQL client (much faster):
+```
+#source notes.ddl
+#source corpus_index.ddl
+#source drop.sql
+#source delete_index.sql
+source load_data.sql
+source load_index.sql
+#source data/library/digital_library.sql
+```
+
+Load word_freq_doc.txt via GCS
+```
+cd index
+gcloud sql connect $INSTANCE --user=root
+source load_word_freq.sql
+```
+
+### Set Up Kubernetes Cluster and Deployment
+[Container Engine Quickstart](https://cloud.google.com/container-engine/docs/quickstart)
+The dynamic part of the app run in a Kubernetes cluster using Google
+Kubernetes Engine. To create the cluster and authenticate to it:
+```
+gcloud container clusters create $CLUSTER \
+  --zone=$ZONE \
+  --disk-size=500 \
+  --machine-type=n1-standard-1 \
+  --num-nodes=1 \
+  --enable-cloud-monitoring
 gcloud container clusters get-credentials $CLUSTER --zone=$ZONE
 ```
 
-
-The first time Configure the database check first_time_setup.sql and execute
-```
-source dictionary/dictionary.ddl
-source corpus/corpus_index.ddl
+Configure access to Cloud SQL using instructions in
+[Connecting from Kubernetes Engine](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine).
+Save the JSON key file. Create the proxy user:
 
 ```
-
-After first time setup, follow the commands below, setting your own value for 
-POD_NAME.
-
-```
-kubectl get pods
-POD_NAME=
-tar -zcf  ntidata.tar.gz data
-kubectl cp ntidata.tar.gz $POD_NAME:.
-kubectl exec -it $POD_NAME bash
-rm -rf data
-rm -rf ntidata/*
-tar -zxf ntidata.tar.gz
-mv data/* ntidata/.
-cd ntidata
-mysql --local-infile=1 -h localhost -u root -p
-source drop.sql
-source drop_index.sql
-source load_data.sql
-source load_index.sql
-source library/digital_library.sql
-
+PROXY_PASSWORD=[Your value]
+gcloud sql users create proxyuser cloudsqlproxy~% --instance=$INSTANCE \
+  --password=$PROXY_PASSWORD
 ```
 
-### Loading data
+Get the instance connection name:
 ```
-docker exec -it mariadb bash
-mysql --local-infile=1 -h localhost -u root -p
-
-# In the mysql client
-# Edit password in the script
-source cndata/dictionary.ddl
-source cndata/load_data.sql
+gcloud sql instances describe $INSTANCE
 ```
 
-## Web Front End
-The web front end for the NTI Reader uses the Chinese Notes Go application,
-with source code at
+Create secrets
+```
+PROXY_KEY_FILE_PATH=[JSON file]
+kubectl create secret generic cloudsql-instance-credentials \
+    --from-file=credentials.json=$PROXY_KEY_FILE_PATH
+kubectl create secret generic cloudsql-db-credentials \
+    --from-literal=username=proxyuser --from-literal=password=$PROXY_PASSWORD
+```
 
-https://github.com/alexamies/chinesenotes.com/tree/master/go/src/cnweb
-
-The instructions for building a Docker image are at
-[Chinese Notes](https://github.com/alexamies/chinesenotes.com) 
-
-After following those instructions, execute the Kubernetes commands here:
+Deploy the app tier
 ```
 kubectl apply -f kubernetes/app-deployment.yaml 
 kubectl apply -f kubernetes/app-service.yaml
 ```
+
+Test from the command line
+```
+kubectl get pods
+POD_NAME=[your pod name]
+kubectl exec -it $POD_NAME bash
+apt-get update
+apt-get install curl
+curl http://localhost:8081/find/?query=hello
+```
+
+The load balancer connects to the Kubernetes NodePort with a managed instance
+group named port. To get the list of named ports use the command
+```
+gcloud compute instance-groups list
+MIG=[your managed instance group]
+gcloud compute instance-groups managed get-named-ports $MIG
+```
+
+To add a new named port use the command
+```
+PORTNAME=cnotesport
+PORT=30080
+gcloud compute instance-groups managed set-named-ports $MIG \
+  --named-ports="$PORTNAME:$PORT" \
+  --zone=$ZONE
+```
+Be careful with this command that you do not accidentally clear the already
+existing named ports that other apps in the cluster may be depending on.
+
+### Create and configure the load balancer
 
 Configure a load balancer that will direct HTTP requests to the backend bucket
 and Kubernetes service based on path. Use these commands, setting the values for
@@ -177,3 +225,5 @@ gcloud compute forwarding-rules create ntireader-content-rule \
     --target-http-proxy ntireader-lb-proxy \
     --ports 80
 ```
+
+Also, check the named port on the instance group.

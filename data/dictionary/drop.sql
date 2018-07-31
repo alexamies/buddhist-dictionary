@@ -22,4 +22,3 @@ drop table licenses;
 drop table words;
 drop table topics;
 drop table grammar;
-
