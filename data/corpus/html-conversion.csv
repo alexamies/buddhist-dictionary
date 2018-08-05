@@ -4,6 +4,7 @@
 ../html/abbreviations.html	abbreviations.html	reference-template.html	false
 ../html/about.html	about.html	about-template.html	false
 ../html/about_chinese_canon.html	about_chinese_canon.html	reference-template.html	false
+../html/advanced_search.html	advanced_search.html	advanced-search-template.html	true
 ../html/annotation.html	annotation.html	reference-template.html	false
 ../html/buddhist_dictionary_templates.html	buddhist_dictionary_templates.html	reference-template.html	true
 ../html/buddhist_style_guide.html	buddhist_style_guide.html	reference-template.html	true
