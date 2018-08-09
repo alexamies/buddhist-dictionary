@@ -1,4 +1,4 @@
-MAX_TITLE_LEN = 50;
+MAX_TITLE_LEN = 80;
 
 // JavaScript function for sending and displaying search results for words in
 // either the title or body of documents.
