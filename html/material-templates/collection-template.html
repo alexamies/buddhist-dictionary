@@ -74,6 +74,20 @@
 
       <h2>{{.Title}}</h2>
       <p>{{.Summary}}</p>
+      <p>
+        <form name="findAdvancedForm" id="findAdvancedForm"
+              action="/advanced_search.html#">
+          <div class="mdl-textfield mdl-js-textfield">
+            <label for="findInput">Search within collection for </label>
+            <input class="mdl-textfield__input" type="text" name="text"
+                   id="findInput" required/>
+            <input type="hidden" name="collection" id="findInCollection"
+                   value="{{.GlossFile}}"/>
+          </div>
+          <button  class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect"
+                   type="submit" id="findSubmit">Find Documents</button>
+        </form>
+      </p>
       
       <div class="mdl-grid">
         {{ range $element := .CorpusEntries }}
@@ -128,5 +142,6 @@
     <script src="/script/dialog-polyfill.js"></script>
     <script src="/script/vocab.js"></script>
     <script src="/script/find.js"></script>
+    <script src="/script/findadvanced.js"></script>
   </body>
 </html>
