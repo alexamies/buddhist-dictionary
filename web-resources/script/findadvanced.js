@@ -4,53 +4,63 @@ MAX_TITLE_LEN = 80;
 // either the title or body of documents.
 (function() {
   var httpRequest;
-  var findForm = document.getElementById("findForm");
+  var findForm = document.getElementById("findAdvancedForm");
   if (findForm) {
-    document.getElementById("findForm").onsubmit = function() {
-  	  var query = document.getElementById("findInput").value;
-      var action = "/find";
+    findForm.onsubmit = function() {
+
+      var query = document.getElementById("findInput").value;
+      var col = "";
+      var collectionInput = document.getElementById("findInCollection")
+      if (collectionInput) {
+        // Then searching from a collection page, redirect to advanced search
+        col = collectionInput.value;
+        var url = '/advanced_search.html#?text=' + query + "&collection=" + col;
+        window.location.href = url;
+        return false;
+      }
+  
+      var action = "/findadvanced";
       if (!findForm.action.endsWith("#")) {
         action = findForm.action;
       }
   	  var url = action + "/?query=" + query;
-  	  makeRequest(url);
+  	  makeSearchRequest(url);
   	  return false;
     };
   }
 
-  // If the search is initiated from the search bar on the main page
-  // then execute the search directly
-  var searcForm = document.getElementById("searchForm");
-  if (searcForm) {
-    searcForm.onsubmit = function() {
-      var query = document.getElementById("searchInput").value;
-      var url = '/find/?query=' + query;
-      makeRequest(url);
-      return false;
+  // Function for sending and displaying search results, redirected from
+  // collection pages
+  var href = window.location.href;
+  if (href.includes('&')) {
+    query = getHrefVariable(href, 'text');
+    var findInput = document.getElementById("findInput");
+    if (findInput) {
+      findInput.value = query
     }
-  };
-
-  // If the search is initiated from the search bar, other than the main page
-  // then redirect to the main page with the query after the hash
-  var searchBarForm = document.getElementById("searchBarForm");
-  if (searchBarForm) {
-    searchBarForm.onsubmit = function() {
-      var query = document.getElementById("searchInput").value;
-      var url = '/#?text=' + query;
-      window.location.href = url;
-      return false;
+    col = getHrefVariable(href, 'collection');
+    var action = "/findadvanced";
+    if (!findForm.action.endsWith("#")) {
+      action = findForm.action;
     }
-  };
+    var url = action + "/?query=" + query;
+    if (col != "") {
+      url = action + "/?query=" + query + "&collection=" + col;
+    }
+    makeSearchRequest(url);
+    return false;
+  }
 
-  function makeRequest(url) {
-    console.log("makeRequest: url = " + url);
+  // Sends AJAX request to server
+  function makeSearchRequest(url) {
+    console.log("makeSearchRequest: url = " + url);
     httpRequest = new XMLHttpRequest();
 
     if (!httpRequest) {
       alert('Giving up :( Cannot create an XMLHTTP instance');
       return false;
     }
-    httpRequest.onreadystatechange = alertContents;
+    httpRequest.onreadystatechange = alertSearchContents;
     httpRequest.open('GET', url);
     httpRequest.send();
     var helpBlock = document.getElementById("lookup-help-block")
@@ -62,7 +72,7 @@ MAX_TITLE_LEN = 80;
     console.log("makeRequest: Sent request");
   }
 
-  function alertContents() {
+  function alertSearchContents() {
     if (httpRequest.readyState === XMLHttpRequest.DONE) {
       if (httpRequest.status === 200) {
         console.log("alertContents: Got a successful response");
@@ -152,16 +162,8 @@ MAX_TITLE_LEN = 80;
           elem.style.display = "block";
         }
 
-        var terms = obj.Terms;
-        if (terms && terms.length == 1 && terms[0].DictEntry && terms[0].DictEntry.HeadwordId > 0) {
-          console.log("Single matching word, redirect to it");
-          hwId = terms[0].DictEntry.HeadwordId;
-          wordURL = "/words/" + hwId + ".html";
-          window.location = wordURL;
-          return;
-        }
-
         // Display dictionary lookup for the segmented query terms in a table
+        var terms = obj.Terms;
         if (terms) {
           console.log("alertContents: detailed results for dictionary lookup");
           var qPara = document.getElementById("queryTermsP");
@@ -224,3 +226,19 @@ MAX_TITLE_LEN = 80;
     }
   }
 })();
+
+function getHrefVariable(href, name) {
+  if (!href.includes("?")) {
+    console.log('getHrefVariable: href does not include ? ', href);
+    return;
+  }
+  var path = href.split('?');
+  var parts = path[1].split('&');
+  for (var i = 0; i < parts.length; i++) {
+    var p = parts[i].split('=');
+    if (decodeURIComponent(p[0]) == name) {
+      return decodeURIComponent(p[1]);
+    }
+  }
+  console.log('getHrefVariable: %s not found', name);
+}

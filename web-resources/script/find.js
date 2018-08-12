@@ -44,7 +44,7 @@
   // Function for sending and displaying search results for words 
   // based on the URL of the main page
   var href = window.location.href;
-  if (href.includes('#?text=')) {
+  if (href.includes('#?text=') && !href.includes('collection=')) {
     var path = decodeURI(href);
     var q = path.split('=');
     var findInput = document.getElementById("findInput");
@@ -90,7 +90,8 @@
         var numDocuments = obj.NumDocuments;
         var collections = obj.Collections;
         var documents = obj.Documents;
-        if (numCollections + numDocuments == 1) {
+        var href = window.location.href;
+        if ((numCollections + numDocuments == 1) && !href.includes('collection=')) {
           if (numCollections == 1) {
             window.location = "/" + collections[0].GlossFile;
           } else {
@@ -182,7 +183,7 @@
 
           document.getElementById("findResults").style.display = "block";
         } else {
-      	  msg = 'No matching results found in document collection';
+      	  msg = 'No matching titles found in document collection';
           elem = document.getElementById("findResults");
           elem.style.display = "none";
           elem = document.getElementById("findError");
