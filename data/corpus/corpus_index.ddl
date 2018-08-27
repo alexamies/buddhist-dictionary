@@ -16,7 +16,7 @@ USE ntireader;
  */
 CREATE TABLE collection (
 	collection_file VARCHAR(256) NOT NULL,
-    gloss_file VARCHAR(256) NOT NULL,
+  gloss_file VARCHAR(256) NOT NULL,
 	title mediumtext NOT NULL,
 	description mediumtext NOT NULL,
 	intro_file VARCHAR(256) NOT NULL,
@@ -58,6 +58,7 @@ CREATE TABLE word_freq_doc (
   collection VARCHAR(256) NOT NULL,
   document VARCHAR(256) NOT NULL,
   idf FLOAT NOT NULL,
+  doc_len INT UNSIGNED NOT NULL,
   PRIMARY KEY (`word`, `document`)
   )
   CHARACTER SET UTF8
@@ -78,6 +79,7 @@ CREATE TABLE bigram_freq_doc (
   collection VARCHAR(256) NOT NULL,
   document VARCHAR(256) NOT NULL,
   idf FLOAT NOT NULL,
+  doc_len INT UNSIGNED NOT NULL,
   PRIMARY KEY (`bigram`, `document`)
   )
   CHARACTER SET UTF8
