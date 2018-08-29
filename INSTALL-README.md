@@ -75,6 +75,32 @@ docker restart  mariadb
 
 To load data from other sources connect to the database container
 
+### Text Files for Full Text Search
+Copy the text files to an object store. If you prefer not to use GCS, then you
+can use the local file system on the application server. The instructions here
+are for GCS. See [Authenticating to Cloud Platform with Service
+Accounts](https://cloud.google.com/kubernetes-engine/docs/tutorials/authenticating-to-cloud-platform)
+for detailed instructions on authentication.
+
+```
+TEXT_BUCKET={your txt bucket}
+# First time
+gsutil mb gs://$TEXT_BUCKET
+gsutil -m rsync -d -r corpus gs://$TEXT_BUCKET
+```
+
+To enable the web application to access the storage system, create a service
+account with a GCS Storage Object Admin role and download the JSOn credentials
+file, as described in [Create service account
+credentials](https://cloud.google.com/kubernetes-engine/docs/tutorials/authenticating-to-cloud-platform).
+Assuming that you saved the file in the current working directory as 
+credentials.json, create a local environment variable for local testing
+```
+export GOOGLE_APPLICATION_CREDENTIALS=$PWD/credentials.json
+```
+
+go get -u cloud.google.com/go/storage
+
 ## Deploying to Production
 ### Set up a Cloud SQL Database
 New: Replacing management of the Mariadb database in a Kubernetes cluster
@@ -214,7 +240,7 @@ gcloud compute url-maps create ntireader-map \
 gcloud compute url-maps add-path-matcher ntireader-map \
     --default-backend-bucket ntireader-web-bucket \
     --path-matcher-name ntinreader-matcher \
-    --path-rules="/find/*=ntireader-service,/findmedia/*=ntireader-service" \
+    --path-rules="/find/*=ntireader-service,/findadvanced/*=$BACKEND_NAME,/findmedia/*=ntireader-service" \
     --new-hosts=$HOST
 gcloud compute target-http-proxies create ntireader-lb-proxy \
     --url-map ntireader-map
