@@ -151,6 +151,11 @@ gcloud container clusters create $CLUSTER \
 gcloud container clusters get-credentials $CLUSTER --zone=$ZONE
 ```
 
+Check clusters with command
+```
+gcloud container clusters list
+```
+
 Configure access to Cloud SQL using instructions in
 [Connecting from Kubernetes Engine](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine).
 Save the JSON key file. Create the proxy user:
