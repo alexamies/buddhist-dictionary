@@ -40,12 +40,12 @@ def main():
   print("Test ToSimplified()")
   trad = u"四種廣說"
   s, t, p = ToSimplified(trad)
-  print u"%s %s %s" % (s, t, p)
+  print(u"%s %s %s" % (s, t, p))
 
   print("Test ToTraditional()")
   chinese = u"操作系统"
   traditional = ToTraditional(chinese)
-  print u"%s" % traditional
+  print(u"%s" % traditional)
 
 
 

@@ -41,7 +41,7 @@ def load_headwords(filename):
   with codecs.open(DINGFUBAO_FILE_NAME, 'r', "utf-8") as f:
     for line in f:
       if line.startswith('#'):
-        print "Loading: ", line
+        print("Loading: ", line)
       else:
         hw = line.strip()
         headwords.append(hw)
@@ -76,12 +76,12 @@ def write_words(dingfubao):
         else:
           #print "Did not match %s" % ngram
           j += 1
-  print "processed %d entries, %d did not match" % (i, j)
+  print("processed %d entries, %d did not match" % (i, j))
 
 
 def main():
   dingfubao = load_headwords(DINGFUBAO_FILE_NAME)
-  print "Ding Fubao: ", len(dingfubao)
+  print("Ding Fubao: ", len(dingfubao))
   #check_ngrams(dingfubao)
   write_words(dingfubao)
 

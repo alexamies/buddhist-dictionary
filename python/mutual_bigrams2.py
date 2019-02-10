@@ -215,7 +215,7 @@ def main():
   trad_list = []
   temp_dict = {}  # contains mutual bigram info except frequency
   mutual_bigram_info = {}
-  luid = 88923
+  luid = 94588
   with codecs.open('cedict_1_0_ts_utf-8_mdbg.txt', 'rt', "utf-8") as cedict, codecs.open('../index/ngram_frequencies.txt', 'rt', "utf-8") as bigram_file:
     for line in cedict:
       if line[0] == '#':
