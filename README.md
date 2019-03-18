@@ -4,7 +4,9 @@ NTI Buddhist Text Reader Project
 The NTI Buddhist Text Reader is a digital library for Chinese Buddhist texts
 with a built-in text reader, a Chinese-English dictionary and corpus management
 tools, for analyzing and managing Buddhist Chinese texts. This is a non-profit,
-open source project.
+open source project. Subscribe to the group
+[ntireader-announce](https://groups.google.com/forum/#!forum/ntireader-announce),
+a low volume group for announcements, to keep up to date.
 
 Goals:
 
