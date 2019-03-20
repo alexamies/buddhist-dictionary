@@ -18,7 +18,7 @@ You can install 2-5 in one step using Anaconda.
 
 After installing these, start the notebook by entering the command
 
-$ $ jupyter notebook  dictionary.ipynb
+$ jupyter notebook dictionary.ipynb
 
 ### References
 1. Continuum Analytics. 2016, 'Anaconda', (Accessed 2016-08-04) <a href="https://www.continuum.io/why-anaconda">https://www.continuum.io/why-anaconda</a>.
