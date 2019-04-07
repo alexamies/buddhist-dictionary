@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ntireader-app
-        image: gcr.io/hbreader-162018/cn-app-image:r91
+        image: gcr.io/hbreader-162018/cn-app-image:r90
         resources:
           limits:
             cpu: "100m"
