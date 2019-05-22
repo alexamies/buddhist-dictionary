@@ -23,6 +23,8 @@ spec:
         env:
           - name: SITEDOMAIN
             value: ntireader.org
+          - name: DOMAIN
+            value: Buddhism
           - name: PORT
             value: "8081"
           - name: DBHOST
