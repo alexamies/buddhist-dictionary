@@ -1,3 +1,8 @@
 word_freq_doc.txt
 unknown.txt
 keyword_index.json
+bigram_doc_freq.txt
+bigram_freq_doc.txt
+doc_freq.txt
+doc_length.tsv
+ngram_frequencies.txt
