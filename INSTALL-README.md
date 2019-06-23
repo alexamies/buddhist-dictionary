@@ -232,8 +232,8 @@ gcloud compute instance-groups managed get-named-ports $MIG
 
 To add a new named port use the command
 ```
-PORTNAME=cnotesport
-PORT=30080
+PORTNAME=ntireaderport
+PORT=30081
 gcloud compute instance-groups managed set-named-ports $MIG \
   --named-ports="$PORTNAME:$PORT" \
   --zone=$ZONE
@@ -247,40 +247,53 @@ Configure a load balancer that will direct HTTP requests to the backend bucket
 and Kubernetes service based on path. Use these commands, setting the values for
 INSTANCE_GROUP and HOST appropriately for your installation:
 ```
-INSTANCE_GROUP=[Your value]
 HOST=[Your value]
 gcloud compute firewall-rules create ntireader-app-rule \
-    --allow tcp:30081 \
+    --allow tcp:$PORT \
     --source-ranges 130.211.0.0/22,35.191.0.0/16
-gcloud compute health-checks create http ntireader-app-check --port=30081 \
+gcloud compute health-checks create http ntireader-app-check --port=$PORT \
      --request-path=/healthcheck/
-gcloud compute backend-services create ntireader-service \
+BACKEND_NAME=ntireader-service-prod
+gcloud compute backend-services create $BACKEND_NAME \
      --protocol HTTP \
      --health-checks ntireader-app-check \
      --global
-gcloud compute backend-services add-backend ntireader-service \
+gcloud compute backend-services add-backend $BACKEND_NAME \
     --balancing-mode UTILIZATION \
     --max-utilization 0.8 \
     --capacity-scaler 1 \
-    --instance-group $INSTANCE_GROUP \
+    --instance-group $MIG \
     --instance-group-zone $ZONE \
     --global
-gcloud compute backend-buckets create ntireader-web-bucket --gcs-bucket-name $BUCKET
-gcloud compute url-maps create ntireader-map \
-    --default-backend-bucket ntireader-web-bucket
-gcloud compute url-maps add-path-matcher ntireader-map \
-    --default-backend-bucket ntireader-web-bucket \
-    --path-matcher-name ntinreader-matcher \
-    --path-rules="/find/*=ntireader-service,/findadvanced/*=$BACKEND_NAME,/findmedia/*=ntireader-service" \
-    --new-hosts=$HOST
-gcloud compute target-http-proxies create ntireader-lb-proxy \
-    --url-map ntireader-map
-gcloud compute addresses create ntireader-web --global
-gcloud compute forwarding-rules create ntireader-content-rule \
-    --address ntireader-web \
+BACKEND_BUCKET=ntireader-web-bucket-prod
+gcloud compute backend-buckets create $BACKEND_BUCKET --gcs-bucket-name $BUCKET
+URL_MAP=ntireader-map-prod
+gcloud compute url-maps create $URL_MAP \
+    --default-backend-bucket $BACKEND_BUCKET
+MATCHER_NAME=ntireader-url-matcher-prod
+gcloud compute url-maps add-path-matcher $URL_MAP \
+    --default-backend-bucket $BACKEND_BUCKET \
+    --path-matcher-name $MATCHER_NAME \
+    --path-rules="/find/*=$BACKEND_NAME,/findadvanced/*=$BACKEND_NAME,/findmedia/*=$BACKEND_NAME"
+
+TARGET_PROXY=ntireader-lb-proxy-prod
+gcloud compute target-http-proxies create $TARGET_PROXY \
+    --url-map $URL_MAP
+
+STATIC_IP=ntireader-web-prod
+gcloud compute addresses create $STATIC_IP --global
+
+FORWARDING_RULE=ntireader-content-rule-prod
+gcloud compute forwarding-rules create $FORWARDING_RULE \
+    --address $STATIC_IP \
     --global \
-    --target-http-proxy ntireader-lb-proxy \
+    --target-http-proxy $TARGET_PROXY \
     --ports 80
 ```
 
-Also, check the named port on the instance group.
+Check the forwarding rule
+```
+gcloud compute forwarding-rules list
+```
+
+Troubleshooting: check the named port on the instance group.
