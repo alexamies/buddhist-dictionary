@@ -19,7 +19,33 @@ git clone git://github.com/alexamies/chinesenotes.com
 
 ```
 
-## Build generated HTML files
+
+## Web Front End
+
+### Material Design Web
+Check whether you have nodejs installed
+```
+node -v
+```
+
+If needed install [nodejs](https://nodejs.org/en/).
+
+```
+cd web-resources
+```
+
+To install the MD Web components and dependencies:
+```
+npm install
+npm install --save-dev babel-core babel-loader babel-preset-es2015
+```
+
+To compile the JavaScript source run 
+```
+npm run build
+```
+
+### HTML File Generation
 ```
 # Install Go lang
 
