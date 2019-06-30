@@ -86,13 +86,15 @@
 
       <main class="main-content" id="main-content">
         <div class="mdc-top-app-bar--fixed-adjust">
+          <p><a href='/{{.CollectionURL}}'>Back to collection</a></p>
           <h2>{{.CollectionTitle}}</h2>
           <h3>{{.EntryTitle}}</h3>
-        </header>
 
         {{.CorpusText}}
 
-        <p><a href='/analysis/{{.AnalysisFile}}'>Glossary and Other Vocabulary</a></p>
+          <p><a href='/analysis/{{.AnalysisFile}}'>Glossary and Other Vocabulary</a></p>
+        </div>
+      </main>
       <footer class="page-footer">
         <div>Copyright Fo Guang Shan 佛光山 2013-2019. This work is licensed
           under a <a rel="license"
