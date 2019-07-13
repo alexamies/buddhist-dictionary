@@ -1,3 +1,5 @@
+import {MDCList} from '@material/list';
+
 // JavaScript function for sending and displaying search results for words and
 // phrases. The results may be a word or table of words and matching collections
 // and documents.
@@ -130,7 +132,7 @@ function addDocToTable(doc, dTbody) {
 //   maxLen - the maximum length of text to add to the span
 //   englishSpan - span HTML element
 // Returns a HTML element that the object is added to
-function addEquivalent(ws, maxLen, englishSpan) {
+function addEquivalent(ws, maxLen, englishSpan, j) {
   var equivalent = " " + (j + 1) + ". " + ws.English;
   var textLen2 = equivalent.length;
   var equivSpan = document.createElement("span");
@@ -154,88 +156,104 @@ function addEquivalent(ws, maxLen, englishSpan) {
   return englishSpan;
 }
 
-// Add a term object to a query table body
+// Add a term object to a query term list
 // Parameters:
 //   term is a word object
-//   qTbody - tbody HTML element
+//   qList - the word list
 // Returns a HTML element that the object is added to
-function addTermToTable(term, qTbody) {
-  var tr = document.createElement("tr");
-  var td1 = document.createElement("td");
-  tr.appendChild(td1);
-  var qText = term.QueryText;
-  var pinyin = "";
-  var english = "";
-  var wordURL = "";
-  var textNode1 = document.createTextNode(qText);
+function addTermToList(term, qList) {
+  const li = document.createElement("li");
+  li.className = "mdc-list-item";
+  const span = document.createElement("span");
+  span.className = "mdc-list-item__text";
+  li.appendChild(span);
+  const spanL1 = document.createElement("span");
+
+  // Primary text is the query term (Chinese)
+  spanL1.className = "mdc-list-item__primary-text";
+  const tNode1 = document.createTextNode(term.QueryText);
+  let pinyin = "";
+  let english = "";
+  let wordURL = "";
   if (term.DictEntry && term.DictEntry.Senses) {
     pinyin = term.DictEntry.Pinyin;
     // Add link to word detail page
-    var hwId = term.DictEntry.Senses[0].HeadwordId;
+    const hwId = term.DictEntry.Senses[0].HeadwordId;
     wordURL = "/words/" + hwId + ".html";
     var a = document.createElement("a");
     a.setAttribute("href", wordURL);
     a.setAttribute("title", "Details for word");
     a.setAttribute("class", "query-term");
-    a.appendChild(textNode1);
-    td1.appendChild(a);
+    a.appendChild(tNode1);
+    spanL1.appendChild(a);
   } else {
     // No link to a detailed word page
-    td1.appendChild(textNode1);
+    spanL1.appendChild(tNode1);
   }
-  var td2 = document.createElement("td");
-  tr.appendChild(td2);
-  var textNode2 = document.createTextNode(pinyin);
-  td2.appendChild(textNode2);
-  var td3 = document.createElement("td");
-  tr.appendChild(td3);
+  span.appendChild(spanL1);
+
+  // Secondary text is the Pinyin, English equivalent, and notes
+  const spanL2 = document.createElement("span");
+  spanL2.className = "mdc-list-item__secondary-text";
+  const textNode2 = document.createTextNode(pinyin + " ");
+  spanL2.appendChild(textNode2);
   //console.log("terms.DictEntry: " + terms[i].DictEntry);
   if (term.DictEntry && term.DictEntry.Senses) {
-    td3.appendChild(combineEnglish(term.DictEntry.Senses, wordURL));
+    spanL2.appendChild(combineEnglish(term.DictEntry.Senses, wordURL));
   }
-  qTbody.appendChild(tr);
-  return qTbody;
+  span.appendChild(spanL2);
+  qList.appendChild(li);
+  return qList;
 }
 
-// Add a word sense object to a query table body
+// Add a word sense object to a query term list
 // Parameters:
 //   sense is a word sense object
-//   qTbody - tbody HTML element
+//   qList - tbody HTML element
 // Returns a HTML element that the object is added to
-function addWordSense(sense, qTbody) {
-  var tr = document.createElement("tr");
-  var td1 = document.createElement("td");
-  tr.appendChild(td1);
-  var chinese = sense.Simplified;
+function addWordSense(sense, qList) {
+  const li = document.createElement("li");
+  li.className = "mdc-list-item";
+
+  // Primar text is Chinese
+  const span = document.createElement("span");
+  span.className = "mdc-list-item__text";
+  li.appendChild(span);
+  const spanL1 = document.createElement("span");
+  spanL1.className = "mdc-list-item__primary-text";
+  let chinese = sense.Simplified;
   console.log("alertContents: chinese", chinese);
   if (sense.Traditional) {
     chinese += " (" + sense.Traditional + ")";
   }
-  var textNode1 = document.createTextNode(chinese);
-  var pinyin = "";
-  var english = "";
-  var wordURL = "";
+  let tNode1 = document.createTextNode(chinese);
+  let pinyin = "";
+  let english = "";
   // Add link to word detail page
-  var hwId = sense.HeadwordId;
-  wordURL = "/words/" + hwId + ".html";
-  var a = document.createElement("a");
+  let hwId = sense.HeadwordId;
+  const wordURL = "/words/" + hwId + ".html";
+  let a = document.createElement("a");
   a.setAttribute("href", wordURL);
   a.setAttribute("title", "Details for word");
   a.setAttribute("class", "query-term");
-  a.appendChild(textNode1);
-  td1.appendChild(a);
-  var td2 = document.createElement("td");
-  tr.appendChild(td2);
+  a.appendChild(tNode1);
+  spanL1.appendChild(a);
+  span.appendChild(spanL1);
+
+  // Secondary text is the other details
+  const spanL2 = document.createElement("span");
+  spanL2.className = "mdc-list-item__secondary-text";
   pinyin = sense.Pinyin;
-  var textNode2 = document.createTextNode(pinyin);
-  td2.appendChild(textNode2);
-  var td3 = document.createElement("td");
-  tr.appendChild(td3);
-  var wsArray = [sense];
-  var englishSpan = combineEnglish(wsArray, wordURL)
-  td3.appendChild(englishSpan);
-  qTbody.appendChild(tr);
-  return qTbody;
+  const tNode2 = document.createTextNode(pinyin + " ");
+  spanL2.appendChild(tNode2);
+  span.appendChild(spanL2);
+  let wsArray = [sense];
+  const englishSpan = combineEnglish(wsArray, wordURL)
+  spanL2.appendChild(englishSpan);
+
+  li.appendChild(span);
+  qList.appendChild(li);
+  return qList;
 }
 
 // Combine and crop the list of English equivalents and notes to a limited
@@ -243,7 +261,7 @@ function addWordSense(sense, qTbody) {
 // Parameters:
 //   senses is an array of WordSense objects
 //   wordURL is the URL of detail page for the headword
-// Returns a HTML element that can be added to the table
+// Returns a HTML element that can be added to the list element
 function combineEnglish(senses, wordURL) {
   var maxLen = 120;
   var englishSpan = document.createElement("span");
@@ -274,14 +292,14 @@ function combineEnglish(senses, wordURL) {
   } else if (senses.length == 2) {
     // For a list of two, give the enumeration with equivalents and notes
     console.log("WordSense " + senses.length);
-    for (j = 0; j < senses.length; j += 1) {
-      addEquivalent(senses[j], maxLen, englishSpan);
+    for (let j = 0; j < senses.length; j += 1) {
+      addEquivalent(senses[j], maxLen, englishSpan, j);
     }
   } else if (senses.length > 2) {
     // For longer lists, give the enumeration with equivalents only
     //console.log("WordSense " + senses.length);
     var equiv = "";
-    for (j = 0; j < senses.length; j++) {
+    for (let j = 0; j < senses.length; j++) {
       equiv += (j + 1) + ". " + senses[j].English + "; ";
       if (equiv.length > maxLen) {
         equiv + " ...";
@@ -363,41 +381,40 @@ function processAJAX(httpRequest) {
         // Add detailed results for collections
         if (numCollections > 0) {
           console.log("alertContents: detailed results for collections");
-          var table = document.getElementById("findResultsTable");
-          if (typeof oldBody === "undefined") {
-            oldBody = document.getElementById("findResultsBody");
+          let table = document.getElementById("findResultsTable");
+          let oldBody = document.getElementById("findResultsBody");
+          if (oldBody && oldBody.parentNode) {
+            oldBody.parentNode.removeChild(oldBody);
           }
-          table.removeChild(oldBody);
-          var tbody = document.createElement("tbody");
-          var numCol = collections.length;
-          for (i = 0; i < numCol; i += 1) {
+          let tbody = document.createElement("tbody");
+          let numCol = collections.length;
+          for (let i = 0; i < numCol; i += 1) {
             addColToTable(collections[i], tbody);
           }
           table.appendChild(tbody);
           table.style.display = "block";
-          var colResultsDiv = document.getElementById("colResultsDiv");
+          let colResultsDiv = document.getElementById("colResultsDiv");
           colResultsDiv.style.display = "block";
-          oldBody = tbody;
         }
 
         // Add detailed results for documents
         if (numDocuments > 0) {
           console.log("alertContents: detailed results for documents");
-          var dTable = document.getElementById("findDocResultsTable");
-          if (typeof dOldBody === "undefined") {
-            dOldBody = document.getElementById("findDocResultsBody");
+          let dTable = document.getElementById("findDocResultsTable");
+          let dOldBody = document.getElementById("findDocResultsBody");
+          if (dOldBody && dOldBody.parentNode) {
+            dOldBody.parentNode.removeChild(dOldBody);
           }
-          dTable.removeChild(dOldBody);
+
           var dTbody = document.createElement("tbody");
           var numDoc = documents.length;
-          for (i = 0; i < numDoc; i += 1) {
+          for (let i = 0; i < numDoc; i += 1) {
             addDocToTable(documents[i], dTbody);
           }
           dTable.appendChild(dTbody);
           dTable.style.display = "block";
           var docResultsDiv = document.getElementById("docResultsDiv");
           docResultsDiv.style.display = "block";
-          dOldBody = dTbody;
         }
 
         document.getElementById("findResults").style.display = "block";
@@ -423,32 +440,35 @@ function processAJAX(httpRequest) {
       // Display dictionary lookup for the segmented query terms in a table
       if (terms) {
         console.log("alertContents: detailed results for dictionary lookup");
-        var qTable = document.getElementById("queryTermsTable");
-        if (typeof qOldBody === "undefined") {
-          qOldBody = document.getElementById("queryTermsBody");
+        const queryTermsDiv = document.getElementById("queryTermsDiv");
+        let qOldList = document.getElementById("queryTermsList");
+        if (qOldList && qOldList.parentNode) {
+          qOldList.parentNode.removeChild(qOldList);
         }
-        qTable.removeChild(qOldBody);
-        var qTbody = document.createElement("tbody");
+ 
+        const qList = document.createElement("ul");
+        qList.id = "queryTermsList";
+        qList.className = "mdc-list mdc-list--two-line";
         if ((terms.length > 0) && terms[0].DictEntry && (!terms[0].Senses ||
               (terms[0].Senses.length == 0))) {
           console.log("alertContents: Query contain Chinese words", terms)
-          for (i = 0; i < terms.length; i += 1) {
-            addTermToTable(terms[i], qTbody);
+          for (let i = 0; i < terms.length; i += 1) {
+            addTermToList(terms[i], qList);
           }
         } else if ((terms.length == 1) && terms[0].Senses) {
           console.log("alertContents: Query is English", terms[0].Senses)
-          senses = terms[0].Senses;
-          for (i = 0; i < senses.length; i++) {
-            addWordSense(senses[i], qTbody);
+          const senses = terms[0].Senses;
+          for (let i = 0; i < senses.length; i++) {
+            addWordSense(senses[i], qList);
           }
         } else {
           console.log("alertContents: not able to handle this case", terms)
         }
-        qTable.appendChild(qTbody);
-        qTable.style.display = "block";
+        queryTermsDiv.appendChild(qList);
+        queryTermsDiv.style.display = "block";
         var qTitle = document.getElementById("queryTermsTitle");
         qTitle.style.display = "block";
-        qOldBody = qTbody;
+        const list = new MDCList(qList);
         document.getElementById("queryTerms").style.display = "block";
       } else {
         console.log("alertContents: not able to load dictionary terms", terms)

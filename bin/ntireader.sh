@@ -14,6 +14,7 @@ python $DEV_HOME/python/doc_list.py
 mkdir $WEB_DIR
 mkdir $WEB_DIR/analysis
 mkdir $WEB_DIR/analysis/taisho
+mkdir $WEB_DIR/dist
 mkdir $WEB_DIR/taisho
 mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
@@ -26,6 +27,8 @@ cd src/cnreader
 ./cnreader -hwfiles
 ./cnreader -html
 cd $CNREADER_HOME
+cp web-resources/dist/*.css $WEB_DIR/dist/.
+cp web-resources/dist/*.js $WEB_DIR/dist/.
 cp web-resources/*.css $WEB_DIR/.
 cp web-resources/script/*.js $WEB_DIR/script/.
 cp web-resources/*.js $WEB_DIR/.
