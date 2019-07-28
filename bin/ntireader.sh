@@ -27,6 +27,7 @@ cd src/cnreader
 ./cnreader -hwfiles
 ./cnreader -html
 cd $CNREADER_HOME
+mkdir $WEB_DIR/dist
 cp web-resources/dist/*.css $WEB_DIR/dist/.
 cp web-resources/dist/*.js $WEB_DIR/dist/.
 cp web-resources/*.css $WEB_DIR/.

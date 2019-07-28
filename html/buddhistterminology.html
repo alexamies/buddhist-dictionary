@@ -1,0 +1,45 @@
+      <div id="contentDiv">
+        <h2>Test Prototype</h2>
+        <h2>Search for Buddhist Terminology</h2>
+        <p>
+          Use this page to search for Buddhist terminology (佛教术语), people,
+          places, or text titles. Type one or more of the Chinese characters
+          contained in the term to see a list of results.
+        </p>
+        <p>
+          <form name="lookupForm" id="lookupForm" action="/findsubstring">
+            <div class="mdc-text-field">
+              <label class="mdc-floating-label" for="lookupInput">
+                Search for
+              </label>
+              <input class="mdc-text-field__input" type="text" name="lookupInput"
+                   id="lookupInput" size="40" required/>
+              <div class="mdc-line-ripple"></div>
+              <input type="hidden" name="lookupTopic"
+                     id="lookupTopic" value="Buddhism"/>
+              <button class="mdc-button mdc-button--raised" type="submit"
+                    id="lookupButton">
+              <span class="mdc-button__label">Find</span>
+            </button>
+            </div>
+          </form>
+        </p>
+        <p id="lookupError"></p>
+        <p>
+          <span id="lookup-help-block" class="help-block">
+            Enter all or part of the term you are searching for in either
+            simplified or traditional Chinese. The results will be restricted
+            to Buddhist terms with Chinese and matching English equivalents.
+            For example, enter one or more of the characters in the term 释迦摩尼.
+            Use the <a href="/">main page</a> to search for other Chinese terms
+            in addition to idioms and search for longer strings with multiple
+            terms.
+          </span>
+        </p>
+        <div id="lookupResultsDiv">
+          <h4>Matching Results</h4>
+          <div id="resultsDiv">
+            <ul id="TermList" class="mdc-list mdc-list--two-line"/>
+          </div> <!--resultsDiv-->
+        </div> <!--lookupResultsDiv-->
+      </div> <!--contentDiv-->
