@@ -23,6 +23,7 @@ function getStyleUse(bundleFilename) {
 
 module.exports = [
   {
+    mode: 'development',
     entry: "./cnotes.scss",
     output: {
       filename: "style-cnotes.js",
@@ -53,10 +54,8 @@ module.exports = [
   mode: 'development',
   entry: {
     app: [
-      './src/dictionaryentry.js',
-      './src/events.js',
-      './src/resultparser.js',
-      './src/wordsense.js'
+      './src/cnotes.js',
+      './script/find.js'
       ]
   },
   devtool: 'inline-source-map',
