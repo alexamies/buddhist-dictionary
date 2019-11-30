@@ -41,7 +41,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "@alexamies/chinesedict-js": "^0.1.12",
+    "@alexamies/chinesedict-js": "^0.1.18",
     "@babel/polyfill": "^7.4.4",
     "material-components-web": "^1.1.1",
     "rxjs": "^6.5.2"
