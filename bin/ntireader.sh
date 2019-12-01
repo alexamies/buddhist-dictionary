@@ -21,7 +21,6 @@ mkdir $WEB_DIR/script
 mkdir $WEB_DIR/words
 
 cd $DEV_HOME/go
-source 'path.bash.inc'
 cd src/cnreader
 ./cnreader
 ./cnreader -hwfiles
