@@ -4,12 +4,7 @@
   "description": "NTI Reader",
   "private": true,
   "scripts": {
-    "build": "npx webpack --config webpack.config.js",
-    "compile_dev": "npx webpack --config webpack.config.dev.js",
-    "compile_ts": "./node_modules/.bin/tsc",
-    "lint": "./node_modules/.bin/tslint -c tslint.json 'src/**/*.ts'",
-    "start_dev": "webpack-dev-server --config webpack.config.dev.js",
-    "test": "./node_modules/.bin/mocha --require @babel/register"
+    "build": "npx webpack --config webpack.config.js"
   },
   "author": "alexamies",
   "license": "ISC",
@@ -35,13 +30,11 @@
     "sass-loader": "^7.1.0",
     "source-map": "^0.7.3",
     "tslint": "^5.18.0",
-    "typescript": "^3.7.2",
     "webpack": "^4.35.2",
     "webpack-cli": "^3.3.5",
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
-    "@alexamies/chinesedict-js": "^0.1.18",
     "@babel/polyfill": "^7.4.4",
     "material-components-web": "^1.1.1",
     "rxjs": "^6.5.2"
