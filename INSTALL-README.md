@@ -12,13 +12,12 @@ installing one or the other you may skip some steps.
 These instructions assume that you will work directly under $HOME. Change
 the top level directory if you are working in another location.
 
-## Get the source from GitHub
-```
+Get the source from GitHub
+
+```shell
 git clone git://github.com/alexamies/buddhist-dictionary
 git clone git://github.com/alexamies/chinesenotes.com
-
 ```
-
 
 ## Web Front End
 
@@ -126,6 +125,32 @@ export GOOGLE_APPLICATION_CREDENTIALS=$PWD/credentials.json
 ```
 
 go get -u cloud.google.com/go/storage
+
+## Web application
+
+Build the Docker image
+
+```shell
+docker build -f docker/Dockerfile -t nti-image .
+```
+
+Run it locally with minimal features (C-E dictionary lookp only) enabled
+```
+docker run -it --rm -p 8080:8080 --name nti-app nti-image
+```
+
+Test basic lookup with curl
+```
+curl http://localhost:8080/find/?query=你好
+```
+
+Push to Google Container Registry
+
+```
+docker tag nti-image gcr.io/$PROJECT/nti-image:$TAG
+docker -- push gcr.io/$PROJECT/nti-image:$TAG
+```
+
 
 ## Deploying to Production
 ### Set up a Cloud SQL Database
