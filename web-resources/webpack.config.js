@@ -28,25 +28,4 @@ module.exports = [
       }],
     },
   },
-  {
-    mode: 'development',
-    entry:  {
-      app: [
-        './cnotes.js',
-        './script/find.js'
-      ]
-    },
-    output: {
-      filename: "./cnotes-compiled.js",
-    },
-    module: {
-      rules: [{
-        test: /\.js$/,
-        loader: "babel-loader",
-        query: {
-          presets: ["@babel/preset-env"],
-        },
-      }],
-    },
-  },
 ];
