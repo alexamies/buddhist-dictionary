@@ -55,8 +55,12 @@ def WriteJS(words, jsfile):
       f.write(u"{\"s\": \"%s\", " % w["simplified"])
       if w["traditional"] != "\\N":
         f.write(u"\"t\": \"%s\", " % w["traditional"])
+      else:
+        f.write(u"\"t\": \"%s\", " % w["simplified"])
       f.write(u"\"p\": \"%s\", \"e\": \"%s\"," % (w["pinyin"],
               w["english"]))
+      if w["grammar"] != "\\N":
+        f.write(u"\"g\": \"%s\", " % w["grammar"])
       if w["notes"] != "\\N":
         f.write(u"\"n\": \"%s\"," % w["notes"])
       f.write(u"\"h\": \"%s\"}" % w["id"])
@@ -78,7 +82,7 @@ def main():
   words = OpenDictionary(filenames)
   jsfile = JSON_FILE_NAME
   if len(sys.argv[0]) > 2:
-    dictfile = sys.argv[2]
+    jsfile = sys.argv[2]
   elif os.environ.get("JSON_FILE_NAME") is not None:
     jsfile = os.environ["JSON_FILE_NAME"]
   print("Writing to ", jsfile);
