@@ -1,7 +1,9 @@
 steps:
 - name: 'gcr.io/cloud-builders/docker'
-  args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/nti-image:$BUILD_ID', '.']
+  args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/nti-image:${IMAGE_TAG}', '.']
 - name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'gcr.io/$PROJECT_ID/nti-image:$BUILD_ID']
+  args: ['push', 'gcr.io/$PROJECT_ID/nti-image:${IMAGE_TAG}']
+substitutions:
+    IMAGE_TAG: 0.03
 images:
-- 'gcr.io/$PROJECT_ID/nti-image:$BUILD_ID'
+- 'gcr.io/$PROJECT_ID/nti-image:${IMAGE_TAG}'

@@ -151,6 +151,12 @@ docker tag nti-image gcr.io/$PROJECT/nti-image:$TAG
 docker -- push gcr.io/$PROJECT/nti-image:$TAG
 ```
 
+Or use Cloud Build
+
+```shell
+gcloud builds submit --config cloudbuild.yaml . \
+  --substitutions=IMAGE_TAG="0.0.3"
+```
 
 ## Deploying to Production
 ### Set up a Cloud SQL Database
