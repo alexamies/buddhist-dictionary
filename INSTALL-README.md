@@ -155,7 +155,13 @@ Or use Cloud Build
 
 ```shell
 gcloud builds submit --config cloudbuild.yaml . \
-  --substitutions=IMAGE_TAG="0.0.3"
+  --substitutions=+IMAGE_TAG="0.0.4"
+```
+
+Check that the expected image has been added with the command
+
+```shell
+gcloud container images list-tags gcr.io/$PROJECT_ID/nti-image
 ```
 
 ## Deploying to Production
