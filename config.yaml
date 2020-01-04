@@ -8,3 +8,6 @@ LUFiles: words.txt,fgs_mwe.txt,translation_memory_buddhist.txt,translation_memor
 
 # The domain of the corpus
 Domain: Buddhism
+
+# Domains to list translations for in the Contained in section of headword pages
+ContainsByDomain: Buddhism
