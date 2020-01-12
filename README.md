@@ -1,4 +1,4 @@
-NTI Buddhist Text Reader Project
+# NTI Buddhist Text Reader Project
 ===============================================================================
 
 The NTI Buddhist Text Reader is a digital library for Chinese Buddhist texts
@@ -8,7 +8,7 @@ open source project. Subscribe to the group
 [ntireader-announce](https://groups.google.com/forum/#!forum/ntireader-announce),
 a low volume group for announcements, to keep up to date.
 
-Goals:
+## Goals
 
 1. Create a text reader for the Taishō Shinshū Daizōkyō version of the 
    Chinese Buddhist canon.
@@ -40,7 +40,7 @@ The license for the web site and dictionary content is Creative Commons
 Attribution-Share Alike 3.0. The license for source code and markup templates, 
 is Apache 2.0.
 
-Acknowldegements:
+## Acknowldegements
 
 1. The dictionary includes many terms from the [CC-CEDICT Chinese - English 
    dictionary](http://cc-cedict.org/wiki/), shared under the 
@@ -54,6 +54,20 @@ Acknowldegements:
 
 Humanistic Buddhism texts are now moved to the [Humanistic Buddhism
 Reader](http://hbreader.org/).
+
+## Getting Started
+
+### Adding new vocabulary
+
+To get started adding new vocabulary navigate to the 
+[Add Entry Colab Sheet](https://github.com/alexamies/chinesenotes.com/blob/master/python/add_mod_entry.ipynb)
+and click Open in Colab. Colab works best with Chrome.
+
+### Installing
+
+To install the software follow instructions in the
+[INSTALL-README.md](INSTALL-README.md)
+file.
 
 -------------------------------------------------------------------------------
 Copyright Nan Tien Institute 2013-2018, http://www.nantien.edu.au.
