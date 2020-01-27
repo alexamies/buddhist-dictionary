@@ -5,6 +5,7 @@ with Buddhist texts.
 
 ## Koans from the Blue Cliff Record
 Source (English): Cleary, T 1998, *The Blue Cliff Record*, Berkeley: Numata Center for Buddhist Translation and Research, https://www.bdkamerica.org/book/blue-cliff-record. 
+
 Source (Chinese): Chong Xian and Ke Qin, 《佛果圜悟禪師碧巖錄》 'The Blue Cliff Record (Biyanlu),' in *Taishō shinshū Daizōkyō* 《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō Shinshū Daizōkyō Kankōkai, 1988), Vol. 48, No. 2003, accessed 2020-01-26, http://ntireader.org/taisho/t2003_01.html.  
 
 ### Koan 1
@@ -727,9 +728,9 @@ Translation:  stop the flood of drugs, 3
 敦厚、倫理、道德、
 Translation:  promote ethics and morality, 3
 創造、全民、安和樂利  的、生活、為主、旨。
+Translation:  and to build a guide to life with stability, peace, joy, and prosperity for all people. 7
 Error: 為主 (false positive)
 Error: 主旨 (false negative, missing term)
-Translation:  and to build a guide to life with stability, peace, joy, and prosperity for all people. 7
 首次、七誡運動、籃球賽，
 Translation:  The first Seven Admonitions Campaign basketball game, 3
 於、一九九四年、五月、二十八、日、舉行。
