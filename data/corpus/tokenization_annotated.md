@@ -716,48 +716,27 @@ Translation: he’d fall back into the secondary.) 3
 
 Note: total 105 segments,  3 errors (5 false negative, 3 false positive)
 
-## Entry for 七誡籃球義賽 Seven Virtues Basketball Fundraiser
-Source: Fo Guang Dictionary of Buddhism, s.v. 七誡籃球義賽
+## Koan 11
 
-佛光山、透過、國際佛光會、發起、的、人間佛教、運動、之一，
-Translation:  One of the initiatives of the Humanistic Buddhism Movement by Fo Guang Shan through the Buddha's Light International Association 8] 以、淨化人心、 [to reclaim the noble qualities of the mind, 2
-建立、祥和、社會、
-Translation:  build a auspicious and peaceful society, 3
-杜絕、毒品、氾濫、
-Translation:  stop the flood of drugs, 3
-敦厚、倫理、道德、
-Translation:  promote ethics and morality, 3
-創造、全民、安和樂利  的、生活、為主、旨。
-Translation:  and to build a guide to life with stability, peace, joy, and prosperity for all people. 7
-Error: 為主 (false positive)
-Error: 主旨 (false negative, missing term)
-首次、七誡運動、籃球賽，
-Translation:  The first Seven Admonitions Campaign basketball game, 3
-於、一九九四年、五月、二十八、日、舉行。
-Translation:  was held on May 28, 1994. 6
-淨化人心、七誡運動、為：
-Translation:  To reclaim the noble qualities of the mind the Seven Admonitions Campaign: 3
-一、誡、煙毒，
-Translation:  1. no drugs 3
-二、誡、色情，
-Translation:  2. no pornography,  3
-三、誡、暴力，
-Translation:  3. no violence, 3
-四、誡、偷盜，
-Translation:  4. no stealing, 3
-五、誡、賭博，
-Translation:  5. no gambling, 3
-六、誡、酗酒，
-Translation:  6. no alcohol, 3
-七誡、惡口。
-7. no offensive language. 3
-此、七誡運動、沒有、期限，
-Translation:  The Seven Admonitions Campaign has no specific time period. 4
-七誡籃球義賽  亦、是、支持、防毒、
-Translation:  The Seven Virtues Basketball Fundraiser also supports the campaign against drugs. 5
-Translation:  戒毒、工作、的、推展、與、募款、活動、之一。
-Translation:  It is one of the activities for promoting and fundraising for the work to stop drugs. 8
+Source: Cleary, p. 69
 
-Note: total 76 segments, 3 errors (1 false negative, 2 false positive)
-## Totals
-Note: 199+138+45+285+56+43+25+63+42+105+76 = 1077 terms
+舉、黃檗、示眾、云
+Translation: Story: Huangbo said to his group,
+(打水、礙、盆。
+Translation: (Drawing water, one is limited by the size of the container.
+一口吞盡。
+Translation: He swallows all in one gulp.
+天下、衲僧、跳、不出)
+Translation: No one in the world can leap clear.)
+汝等諸人。
+Translation: “All of you 
+盡、是、噇、酒、糟、漢。
+Translation: are gobblers of dregs;
+恁麼、行脚
+Translation: if you go on traveling around this way,”
+(道、着。
+Translation: (You said it!
+踏、破、草鞋。
+Translation: You’ll wear out your shoes.
+掀天、搖、地)
+Translation: He overturns the heaven and shakes the earth.)
