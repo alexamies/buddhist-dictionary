@@ -740,3 +740,9 @@ Translation: (You said it!
 Translation: You’ll wear out your shoes.
 掀天、搖、地)
 Translation: He overturns the heaven and shakes the earth.)
+何處、有、今日
+Translation: “where will you have Today?”
+(用、今日、作、什麼。
+Translation: (What’s the use of Today?
+不妨、驚、群、動、眾)
+Translation: He certainly astounds the crowd and stirs up the community.)
