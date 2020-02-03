@@ -746,3 +746,34 @@ Translation: “where will you have Today?”
 Translation: (What’s the use of Today?
 不妨、驚、群、動、眾)
 Translation: He certainly astounds the crowd and stirs up the community.)
+還、知、大唐、國、裏、無、禪師、麼
+Translation:“ Do you know that there are no Chan teachers in all of China?”
+(老僧、不會。
+Translation: (I hadn’t realized.
+一口吞盡。
+Translation: He swallows all in one gulp.
+也是、雲居羅漢)
+Translation: He too is a cloud-dwelling saint.)
+時、有、僧、出、云。
+Translation: Then a monk came for­ward and said,
+只、如、諸、方匡、徒、領、眾。
+Translation: “Then what about those who order followers and lead communities?”
+Error: 方匡 (false positive, should not be grouped)
+又、作麼生
+Translation: [what about]
+(也、好、與、一、拶。
+Translation: (He gives a good rejoinder
+臨機、不得不、恁麼)
+Translation: confronting the situation, he couldn’t but do so.)
+檗、云。
+Translation: Huangbo said,
+不、道、無、禪。
+Translation: “I don’t say there is no Chan,
+只是、無、師
+Translation: just that there are no teachers.”
+(直、得、分疎、不、下。
+Translation: (He just can’t explain.
+瓦解、氷、消。
+Translation: Fixations dissolve.
+龍頭蛇尾、漢)。
+Translation: He’s a fellow with a dragon’s head but a snake’s tail.)
