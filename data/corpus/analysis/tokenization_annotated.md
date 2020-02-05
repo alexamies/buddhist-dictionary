@@ -1,12 +1,11 @@
-# Term segmentation analysis data
+# Term Tokenization Analysis Data
 
-Annotated corpus data for checking correctness of the Chinese Notes tokenizer
-with Buddhist texts.
+Note: Annotated corpus data for checking correctness of the Chinese Notes tokenizer with Buddhist texts.
 
 ## Koans from the Blue Cliff Record
-Source (English): Cleary, T 1998, *The Blue Cliff Record*, Berkeley: Numata Center for Buddhist Translation and Research, https://www.bdkamerica.org/book/blue-cliff-record. 
+Source: Cleary, T 1998, *The Blue Cliff Record*, Berkeley: Numata Center for Buddhist Translation and Research, https://www.bdkamerica.org/book/blue-cliff-record. 
 
-Source (Chinese): Chong Xian and Ke Qin, 《佛果圜悟禪師碧巖錄》 'The Blue Cliff Record (Biyanlu),' in *Taishō shinshū Daizōkyō* 《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō Shinshū Daizōkyō Kankōkai, 1988), Vol. 48, No. 2003, accessed 2020-01-26, http://ntireader.org/taisho/t2003_01.html.  
+Source: Chong Xian and Ke Qin, 《佛果圜悟禪師碧巖錄》 'The Blue Cliff Record (Biyanlu),' in *Taishō shinshū Daizōkyō* 《大正新脩大藏經》, in Takakusu Junjiro, ed., (Tokyo: Taishō Shinshū Daizōkyō Kankōkai, 1988), Vol. 48, No. 2003, accessed 2020-01-26, http://ntireader.org/taisho/t2003_01.html.  
 
 ### Koan 1
 Source: Cleary 1998, pp. 11-12
