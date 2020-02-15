@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ntireader-app
-        image: gcr.io/hbreader-162018/nti-image:0.0.4
+        image: gcr.io/{{PROJECT-ID}}/nti-image:{{TAG}}
         resources:
           limits:
             cpu: "100m"
@@ -54,7 +54,7 @@ spec:
       - name: cloudsql-proxy
         image: gcr.io/cloudsql-docker/gce-proxy:1.11
         command: ["/cloud_sql_proxy",
-                  "-instances=hbreader-162018:us-central1:cnotes=tcp:3306",
+                  "-instances={{PROJECT-ID}}:us-central1:cnotes=tcp:3306",
                   "-credential_file=/secrets/cloudsql/credentials.json"]
         volumeMounts:
          - name: cloudsql-instance-credentials

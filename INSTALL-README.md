@@ -128,10 +128,17 @@ go get -u cloud.google.com/go/storage
 
 ## Web application
 
+If running on Debian, add the current user to the sudo group
+
+```shell
+sudo groupadd docker
+newgrp docker
+```
+
 Build the Docker image
 
 ```shell
-docker build -f docker/Dockerfile -t nti-image .
+docker build -f Dockerfile -t nti-image .
 ```
 
 Run it locally with minimal features (C-E dictionary lookp only) enabled
@@ -155,7 +162,7 @@ Or use Cloud Build
 
 ```shell
 gcloud builds submit --config cloudbuild.yaml . \
-  --substitutions=_IMAGE_TAG="0.0.4"
+  --substitutions=_IMAGE_TAG="0.0.6"
 ```
 
 Check that the expected image has been added with the command
@@ -241,6 +248,13 @@ kubectl create secret generic cloudsql-instance-credentials \
     --from-file=credentials.json=$PROXY_KEY_FILE_PATH
 kubectl create secret generic cloudsql-db-credentials \
     --from-literal=username=proxyuser --from-literal=password=$PROXY_PASSWORD
+```
+
+Change the project name and TAG in the kubernetes deployment descriptor:
+
+```shell
+sed -i.bak -e "s/{{PROJECT-ID}}/$GOOGLE_CLOUD_PROJECT/;s/{{TAG}}/$TAG/" \
+  kubernetes/app-deployment.yaml
 ```
 
 Deploy the app tier
