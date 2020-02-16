@@ -3,6 +3,50 @@
         An update to recent changes on this site.
       </p>
       <p>
+        <strong>2020-02-15</strong>:<br/>
+        A new text tokenizer has been introduced that scans both left to right
+        and right to left then compares the two. The scan with the least number
+        of terms will be selected. There is rarely a difference but sometimes
+        the difference can be important. For example, for the phrase from the
+        <i>Blue Cliff Record</i> Koan 10:<br/>
+        只恐龍頭蛇尾<br/>
+        I’m afraid he has a dragon’s head but a snake’s tail
+        (tr. Cleary 1998, p. 63).<br/>
+        Left to right tokenization would lead to<br/>
+        只、恐龍、頭、蛇、尾<br/>
+        Right to left tokenization results in<br/>
+        只、恐、龍頭蛇尾<br/>
+        Clearly, the right to left tokenization is better in this case and is
+        selected because there are fewer tokens: 3 for right to left compared
+        to 5 for left to right. The left to right scanning method misses the
+        idiom 龍頭蛇尾 dragon’s head but a snake’s tail, which is skipped over
+        because of the greedy tokenization method used is not always globally
+        optimal.
+      </p>
+      <p>
+        A second change that has been introduced was to separate modern named
+        entities into a separate file that is excluded from the NTI Reader.
+        These modern named entities are occasionally conflated with terms in
+        the Buddhist canon by random inclusion. For example, company names and
+        names of modern countries, especially two character names. These seem
+        obvious and silly to a human reader. The modern named entities are still
+        included in the
+        <a href="https://hbreader.org">Humanistic Buddhism Reader</a> for
+        Venerable Master Hsing Yun's ollected works and and
+        <a href="https://chinesenotes.com">Chinese Notes</a> for other Chinese
+        literature. It will take some time to fully separate out these named
+        entities from the general dictionary.
+      </p>
+      <p>
+        Other ways of improving the accuracy of the tokenizer are being
+        evaluated. 
+      </p>
+      <p>
+        The vocabulary has been updated with new words, corrections, and
+        references. Please let me know if you see any problems
+        by emailing alex@ntireader.org.
+      </p>
+      <p>
         <strong>2020-01-10</strong>:<br/>
         Summary of major recent updates:
         <b>Vocabulary</b><br/>
