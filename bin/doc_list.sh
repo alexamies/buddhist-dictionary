@@ -3,4 +3,4 @@
 ## index database.
 DEV_HOME=`pwd`/../chinesenotes.com
 export CNREADER_HOME=`pwd`
-python $DEV_HOME/python/doc_list.py
+python $DEV_HOME/bin/doc_list.py
