@@ -12,7 +12,7 @@
  * > source dictionary.ddl
  */
 
-use cse_dict;
+use ntireader;
 
 drop table unigram;
 drop table bigram;
