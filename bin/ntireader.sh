@@ -34,4 +34,4 @@ cp web-resources/script/*.js $WEB_DIR/script/.
 cp web-resources/*.js $WEB_DIR/.
 cp web-resources/images/*.* $WEB_DIR/images/.
 
-python3 bin/words2json.py "data/dictionary/words.txt,data/dictionary/fgs_mwe.txt,data/dictionary/translation_memory_buddhist.txt,data/dictionary/translation_memory_literary.txt,data/dictionary/translation_memory_literary.txt" $WEB_DIR/dist/ntireader.json
+python3 bin/words2json.py "data/dictionary/words.txt,data/dictionary/fgs_mwe.txt,data/dictionary/translation_memory_buddhist.txt,data/dictionary/translation_memory_literary.txt,data/dictionary/buddhist_named_entities.txt" $WEB_DIR/dist/ntireader.json
