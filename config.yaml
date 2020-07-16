@@ -11,3 +11,6 @@ Domain: Buddhism
 
 # Domains to list translations for in the Contained in section of headword pages
 ContainsByDomain: Buddhism
+
+# Sub-domains to avoid
+AvoidSubDomains: Physics,Paleontology
