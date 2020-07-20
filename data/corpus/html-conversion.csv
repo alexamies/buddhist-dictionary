@@ -81,6 +81,7 @@
 ../html/taisho/t54.html	taisho/t54.html	taisho-volume-template.html	false	Volume 54 History and Biographies Section 史傳部
 ../html/taisho/t55.html	taisho/t55.html	taisho-volume-template.html	false	Volume 55 Catalogs 目錄部
 ../html/tools.html	tools.html	tools-template.html	false
+../html/translation_memory.html	translation_memory.html	index-template.html	false
 ../html/translation_workflow.html	translation_workflow.html	reference-template.html	true
 ../html/whatsnew.html	whatsnew.html	about-template.html	false
 ../html/word_freq.html	word_freq.html	reference-template.html	false
