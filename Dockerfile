@@ -1,6 +1,7 @@
 # Docker file for NTI Reader
 FROM golang:1.13 as builder
-RUN git clone https://github.com/alexamies/chinesenotes-go
+ADD https://api.github.com/repos/alexamies/chinesenotes-go/git/refs/heads/master version.json
+RUN git clone -b master https://github.com/alexamies/chinesenotes-go
 WORKDIR /go/chinesenotes-go
 COPY config.yaml .
 COPY data/dictionary/*.txt data/dictionary/
