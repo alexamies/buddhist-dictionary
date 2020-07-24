@@ -20,8 +20,7 @@ mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
 mkdir $WEB_DIR/words
 
-cd $DEV_HOME/go
-cd src/cnreader
+cd $DEV_HOME/go/src/cnreader
 ./cnreader
 ./cnreader -hwfiles
 ./cnreader -html

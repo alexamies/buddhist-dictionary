@@ -162,7 +162,7 @@ Or use Cloud Build
 
 ```shell
 gcloud builds submit --config cloudbuild.yaml . \
-  --substitutions=_IMAGE_TAG="0.0.14"
+  --substitutions=_IMAGE_TAG="0.0.18"
 ```
 
 Check that the expected image has been added with the command
@@ -180,7 +180,6 @@ the Cloud Console.
 
 Connect to the instance from the Cloud Shell of a GCE instance
 ```
-cd data
 INSTANCE=cnotes
 gcloud sql connect $INSTANCE --user=root
 ```
