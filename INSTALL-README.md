@@ -162,7 +162,7 @@ Or use Cloud Build
 
 ```shell
 gcloud builds submit --config cloudbuild.yaml . \
-  --substitutions=_IMAGE_TAG="0.0.20"
+  --substitutions=_IMAGE_TAG="0.0.21"
 ```
 
 Check that the expected image has been added with the command
@@ -324,7 +324,7 @@ MATCHER_NAME=ntireader-url-matcher-prod
 gcloud compute url-maps add-path-matcher $URL_MAP \
     --default-backend-bucket $BACKEND_BUCKET \
     --path-matcher-name $MATCHER_NAME \
-    --path-rules="/find/*=$BACKEND_NAME,/findadvanced/*=$BACKEND_NAME,/findmedia/*=$BACKEND_NAME"
+    --path-rules="/find/*=$BACKEND_NAME,/findadvanced/*=$BACKEND_NAME,/findmedia/*,/findtm=$BACKEND_NAME"
 
 TARGET_PROXY=ntireader-lb-proxy-prod
 gcloud compute target-http-proxies create $TARGET_PROXY \
