@@ -161,7 +161,7 @@ docker -- push gcr.io/$PROJECT/nti-image:$TAG
 Or use Cloud Build
 
 ```shell
-export BUILD_ID=0.0.22
+export BUILD_ID=0.0.23
 gcloud builds submit --config cloudbuild.yaml . \
   --substitutions=_IMAGE_TAG="$BUILD_ID"
 ```
