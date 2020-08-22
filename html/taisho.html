@@ -1,3 +1,4 @@
+<div id="textlist">
   <h2>Taishō shinshū daizōkyō 《大正新脩大藏經》</h2>
   <p>Chinese Buddhist Canon</p>
   <p>
@@ -758,7 +759,33 @@
     </li>
   </ul>
 
-      <p>
-        <a href="/analysis/corpus_analysis.html">Terminology Extraction and
-        Vocabulary Analysis for the Taishō</a>
-      </p>
+  <p>
+    <a href="/analysis/corpus_analysis.html">Terminology Extraction and
+    Vocabulary Analysis for the Taishō</a>
+  </p>
+</div>
+<!--Decomposition of query terms entered by the user -->
+<div id="queryTerms">
+  <h4 id="queryTermsTitle">Query Decomposition</h4>
+  <p id="queryTermsP">
+    <span id="queryTermsBody">
+    </span>
+  </p>
+</div> <!--queryTerms-->
+
+<div id="findResults">
+  <div id="docResultsDiv">
+    <h4 id="findDocResultsTitle">Matching Documents</h4>
+    <div>
+      Number of matching documents: <span id="NumDocuments"></span>
+    </div>
+    <table id="findDocResultsTable">
+      <thead>
+        <tr><th>Title</th></tr>
+      </thead>
+      <tbody id="findDocResultsBody">
+      </tbody>
+    </table>
+  </div> <!-- docResultsDiv -->
+</div> <!--findResults-->
+<p id="findError"></p>
