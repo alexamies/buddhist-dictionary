@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ntireader-app
-        image: gcr.io/hbreader-162018/nti-image:0.0.24
+        image: gcr.io/hbreader-162018/nti-image:0.0.25
         resources:
           limits:
             cpu: "100m"
@@ -39,6 +39,8 @@ spec:
               secretKeyRef:
                 name: cloudsql-db-credentials
                 key: password
+          - name: CNREADER_HOME
+            value: "/"
           - name: AVG_DOC_LEN
             value: "6376"
           - name: TEXT_BUCKET
