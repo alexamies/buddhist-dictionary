@@ -161,7 +161,7 @@ docker -- push gcr.io/$PROJECT/nti-image:$TAG
 Or use Cloud Build
 
 ```shell
-export BUILD_ID=0.0.25
+export BUILD_ID=0.0.26
 gcloud builds submit --config cloudbuild.yaml . \
   --substitutions=_IMAGE_TAG="$BUILD_ID"
 ```
@@ -206,95 +206,49 @@ gcloud sql connect $INSTANCE --user=root
 source load_word_freq.sql
 ```
 
-### Set Up Kubernetes Cluster and Deployment
-[Container Engine Quickstart](https://cloud.google.com/container-engine/docs/quickstart)
-The dynamic part of the app run in a Kubernetes cluster using Google
-Kubernetes Engine. To create the cluster and authenticate to it:
-```
-gcloud container clusters create $CLUSTER \
-  --zone=$ZONE \
-  --disk-size=500 \
-  --machine-type=n1-standard-1 \
-  --num-nodes=1 \
-  --enable-cloud-monitoring
-gcloud container clusters get-credentials $CLUSTER --zone=$ZONE
-```
+### Deploy to Cloud Run
 
-Check clusters with command
-```
-gcloud container clusters list
-```
-
-Configure access to Cloud SQL using instructions in
-[Connecting from Kubernetes Engine](https://cloud.google.com/sql/docs/mysql/connect-kubernetes-engine).
-Save the JSON key file. Create the proxy user:
-
-```
-PROXY_PASSWORD=[Your value]
-gcloud sql users create proxyuser cloudsqlproxy~% --instance=$INSTANCE \
-  --password=$PROXY_PASSWORD
-```
-
-Get the instance connection name:
-```
-gcloud sql instances describe $INSTANCE
-```
-
-Create secrets
-```
-PROXY_KEY_FILE_PATH=[JSON file]
-kubectl create secret generic cloudsql-instance-credentials \
-    --from-file=credentials.json=$PROXY_KEY_FILE_PATH
-kubectl create secret generic cloudsql-db-credentials \
-    --from-literal=username=proxyuser --from-literal=password=$PROXY_PASSWORD
-```
-
-Change the project name and TAG in the kubernetes deployment descriptor:
+Deploy the web app to Cloud Run
 
 ```shell
-sed -i.bak -e "s/{{PROJECT-ID}}/$GOOGLE_CLOUD_PROJECT/;s/{{TAG}}/$TAG/" \
-  kubernetes/app-deployment.yaml
+PROJECT_ID=[Your project]
+IMAGE=gcr.io/${PROJECT_ID}/cn-app-image:${BUILD_ID}
+IMAGE=gcr.io/${PROJECT_ID}/nti-image:${BUILD_ID}
+SERVICE=ntireader
+REGION=us-central1
+INSTANCE_CONNECTION_NAME=[Your connection]
+DBUSER=[Your database user]
+DBPASSWORD=[Your database password]
+DATABASE=[Your database name]
+MEMORY=400Mi
+TEXT_BUCKET=[Your GCS bucket name for text files]
+gcloud run deploy --platform=managed $SERVICE \
+--image $IMAGE \
+--region=$REGION \
+--memory "$MEMORY" \
+--add-cloudsql-instances $INSTANCE_CONNECTION_NAME \
+--set-env-vars INSTANCE_CONNECTION_NAME="$INSTANCE_CONNECTION_NAME" \
+--set-env-vars DBUSER="$DBUSER" \
+--set-env-vars DBPASSWORD="$DBPASSWORD" \
+--set-env-vars DATABASE="$DATABASE" \
+--set-env-vars TEXT_BUCKET="$TEXT_BUCKET" \
+--set-env-vars CNREADER_HOME="/"
 ```
 
-Deploy the app tier
-```
-kubectl apply -f kubernetes/app-deployment.yaml 
-kubectl apply -f kubernetes/app-service.yaml
+Test it with the command
+
+```shell
+curl $URL/find/?query=你好
 ```
 
-Test from the command line
-```
-kubectl get pods
-POD_NAME=[your pod name]
-kubectl exec -it $POD_NAME bash
-apt-get update
-apt-get install curl
-curl http://localhost:8081/find/?query=hello
-```
-
-The load balancer connects to the Kubernetes NodePort with a managed instance
-group named port. To get the list of named ports use the command
-```
-gcloud compute instance-groups list
-MIG=[your managed instance group]
-gcloud compute instance-groups managed get-named-ports $MIG
-```
-
-To add a new named port use the command
-```
-PORTNAME=ntireaderport
-PORT=30081
-gcloud compute instance-groups managed set-named-ports $MIG \
-  --named-ports="$PORTNAME:$PORT" \
-  --zone=$ZONE
-```
-Be careful with this command that you do not accidentally clear the already
-existing named ports that other apps in the cluster may be depending on.
+You should see a JSON reply.
 
 ### Create and configure the load balancer
 
 Configure a load balancer that will direct HTTP requests to the backend bucket
-and Kubernetes service based on path. Use these commands, setting the values for
+and Cloud Run service based on path. 
+
+[Deprecated] Use these commands, setting the values for
 INSTANCE_GROUP and HOST appropriately for your installation:
 ```
 HOST=[Your value]
@@ -315,11 +269,54 @@ gcloud compute backend-services add-backend $BACKEND_NAME \
     --instance-group $MIG \
     --instance-group-zone $ZONE \
     --global
+```
+
+Create a backend bucket
+```shell
 BACKEND_BUCKET=ntireader-web-bucket-prod
 gcloud compute backend-buckets create $BACKEND_BUCKET --gcs-bucket-name $BUCKET
 URL_MAP=ntireader-map-prod
 gcloud compute url-maps create $URL_MAP \
     --default-backend-bucket $BACKEND_BUCKET
+```
+
+Create a serverless Network Endpoint Group for the Cloud Run deployment
+
+```shell
+NEG=[name of NEG]
+gcloud compute network-endpoint-groups create $NEG \
+    --region=$REGION \
+    --network-endpoint-type=serverless \
+    --cloud-run-service=$SERVICE
+```
+
+Create an LB backend service
+
+```shell
+LB_SERVICE=[name of service]
+gcloud compute backend-services create $LB_SERVICE --global
+```
+
+Add the NEG to the backend service
+
+```shell
+gcloud beta compute backend-services add-backend $LB_SERVICE \
+    --global \
+    --network-endpoint-group=$NEG \
+    --network-endpoint-group-region=$REGION
+```
+
+Create a matcher for the NEG backend service
+
+```shell
+MATCHER_NAME=[your matcher name]
+gcloud compute url-maps add-path-matcher $URL_MAP \
+    --default-backend-bucket $BACKEND_BUCKET \
+    --path-matcher-name $MATCHER_NAME \
+    --path-rules="/find/*=$LB_SERVICE,/findadvanced/*=$LB_SERVICE,/findmedia/*=$LB_SERVICE,/findsubstring=$LB_SERVICE,/findtm=$LB_SERVICE"
+```
+
+```shell
 MATCHER_NAME=ntireader-url-matcher-prod
 gcloud compute url-maps add-path-matcher $URL_MAP \
     --default-backend-bucket $BACKEND_BUCKET \
