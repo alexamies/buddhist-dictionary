@@ -24,7 +24,7 @@
     "fibers": "^4.0.2",
     "file-loader": "^3.0.1",
     "mocha": "^6.2.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "postcss-loader": "^3.0.0",
     "rxjs-marbles": "^5.0.4",
     "sass-loader": "^7.3.1",
