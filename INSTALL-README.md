@@ -161,7 +161,7 @@ docker -- push gcr.io/$PROJECT/nti-image:$TAG
 Or use Cloud Build
 
 ```shell
-export BUILD_ID=0.0.26
+BUILD_ID=0.0.26
 gcloud builds submit --config cloudbuild.yaml . \
   --substitutions=_IMAGE_TAG="$BUILD_ID"
 ```
@@ -181,8 +181,8 @@ the Cloud Console.
 
 Connect to the instance from the Cloud Shell of a GCE instance
 ```
-INSTANCE=cnotes
-gcloud sql connect $INSTANCE --user=root
+DB_INSTANCE=[your database instance]
+gcloud sql connect $DB_INSTANCE --user=root
 ```
 
 Execute statements in first_time_setup.sql, data/dictionary/dictionary.ddl, and 
