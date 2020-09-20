@@ -186,25 +186,20 @@ gcloud sql connect $DB_INSTANCE --user=root
 ```
 
 Execute statements in first_time_setup.sql, data/dictionary/dictionary.ddl, and 
-data/corpus/corpus_index.ddl to define the database and tables.
+data/corpus/corpus_index.ddl to define the database and tables as per
+instructions at
 
-Import the data for table word_freq_doc via the Cloud Console using the import
-function. The other tables can be imported using the MySQL client (much faster):
-```
-#source notes.ddl
-#source corpus_index.ddl
-#source drop.sql
-#source delete_index.sql
-source load_data.sql
-source load_index.sql
-#source data/library/digital_library.sql
+https://github.com/alexamies/chinesenotes-go
+
+Don't forget to select the proper database
+
+```sql
+USE ntireader;
 ```
 
-Load word_freq_doc.txt via GCS
-```
-gcloud sql connect $INSTANCE --user=root
-source load_word_freq.sql
-```
+Load the proper files into the words table as per data/load_data.sql, the
+proper corpus files into the database as per data/load_index.sql, and the
+proper index files as per index/load_word_freq.sql.
 
 ### Deploy to Cloud Run
 
