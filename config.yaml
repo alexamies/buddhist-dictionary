@@ -17,3 +17,6 @@ ContainsByDomain: Buddhism
 
 # Sub-domains to avoid
 AvoidSubDomains: Physics,Paleontology
+
+# Web site title
+Title: NTI Reader
