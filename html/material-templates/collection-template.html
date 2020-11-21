@@ -32,7 +32,7 @@
 
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    <link rel="stylesheet" href="/cnotes.css">
+    <link rel="stylesheet" href="/dist/cnotes.css">
     <script type="application/ld+json">
      {
       "@context": "http://schema.org",
@@ -98,7 +98,7 @@
             <label class="mdc-floating-label" for="findInput"
               >Search within collection for</label>
             <input type="text" id="findInput" name="text"
-                   class="mdc-text-field__input">
+                   size="40" class="mdc-text-field__input">
             <div class="mdc-line-ripple"></div>
             <input type="hidden" name="collection" id="findInCollection"
                    value="{{.Data.GlossFile}}"/>
@@ -120,13 +120,13 @@
       {{.Data.Intro}}
 
       <p>
-        <a href="/analysis/{{.Data.AnalysisFile}}">Collection vocabulary analysis</a>
+        <a href="/{{.Data.AnalysisFile}}">Collection vocabulary analysis</a>
       </p>
 
         </div>
       </main>
       <footer class="page-footer">
-        <div>Copyright Fo Guang Shan 佛光山 2013-2019. This work is licensed
+        <div>Copyright Fo Guang Shan 佛光山 2013-2020. This work is licensed
           under a <a rel="license"
           href="http://creativecommons.org/licenses/by/4.0/">Creative
           Commons Attribution 4.0 International License</a>.Please send

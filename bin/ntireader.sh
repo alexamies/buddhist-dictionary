@@ -6,8 +6,7 @@
 ## software
 ## CNREADER_HOME should be set to the location of the ntireader.org directory
 
-export DEV_HOME=../chinesenotes.com
-export CNREADER_HOME=`pwd`
+export CNREADER_HOME=.
 export WEB_DIR=web-staging
 export TEMPLATE_HOME=html/material-templates
 python $DEV_HOME/bin/doc_list.py
@@ -20,12 +19,11 @@ mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
 mkdir $WEB_DIR/words
 
-cd $DEV_HOME/go/src/cnreader
-./cnreader
-./cnreader -hwfiles
-./cnreader -html
-./cnreader -tmindex
-cd $CNREADER_HOME
+go get -u github.com/alexamies/cnreader
+go run github.com/alexamies/cnreader
+go run github.com/alexamies/cnreader -hwfiles
+go run github.com/alexamies/cnreader -html
+go run github.com/alexamies/cnreader -tmindex
 mkdir $WEB_DIR/dist
 cp web-resources/dist/*.css $WEB_DIR/dist/.
 cp web-resources/dist/*.js $WEB_DIR/dist/.
