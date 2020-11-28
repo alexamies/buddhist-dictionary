@@ -27,7 +27,7 @@
 ../html/sanskrit_query.html	sanskrit_query.html	reference-template.html	true
 ../html/statistics.html	statistics.html	reference-template.html	false
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html	true
-../html/taisho.html	taisho/taisho.html	taisho-top-template.html	false
+../html/taisho.html	taisho/taisho.html	texts-template.html	false
 ../html/taisho/t01.html	taisho/t01.html	taisho-volume-template.html	false	Volume 1 Āgamas 阿含部
 ../html/taisho/t02.html	taisho/t02.html	taisho-volume-template.html	false	Volume 2 Āgamas 阿含部
 ../html/taisho/t03.html	taisho/t03.html	taisho-volume-template.html	false	Volume 3 Jātaka and Avadāna 本緣部
