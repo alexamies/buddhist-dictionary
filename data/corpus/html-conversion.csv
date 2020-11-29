@@ -28,59 +28,59 @@
 ../html/statistics.html	statistics.html	reference-template.html	false
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html	true
 ../html/taisho.html	taisho/taisho.html	texts-template.html	false
-../html/taisho/t01.html	taisho/t01.html	taisho-volume-template.html	false	Volume 1 Āgamas 阿含部
-../html/taisho/t02.html	taisho/t02.html	taisho-volume-template.html	false	Volume 2 Āgamas 阿含部
-../html/taisho/t03.html	taisho/t03.html	taisho-volume-template.html	false	Volume 3 Jātaka and Avadāna 本緣部
-../html/taisho/t04.html	taisho/t04.html	taisho-volume-template.html	false	Volume 4 Jātaka and Avadāna 本緣部
-../html/taisho/t05-7.html	taisho/t05-7.html	taisho-volume-template.html	false	Volume 5-7 Prajñāpāramitā 般若部
-../html/taisho/t08.html	taisho/t08.html	taisho-volume-template.html	false	Volume 8 Prajñāpāramitā 般若部
-../html/taisho/t09.html	taisho/t09.html	taisho-volume-template.html	false	Volume 9 Lotus and Huayan 法華部、華嚴部
-../html/taisho/t10.html	taisho/t10.html	taisho-volume-template.html	false	Volume 10 Lotus and Huayan 法華部、華嚴部
-../html/taisho/t11.html	taisho/t11.html	taisho-volume-template.html	false	Volume 11 Ratnakūṭa and Nirvāṇa Section 寶積部、涅槃部
-../html/taisho/t12.html	taisho/t12.html	taisho-volume-template.html	false	Volume 12 Ratnakūṭa and Nirvāṇa Section 寶積部、涅槃部
-../html/taisho/t13.html	taisho/t13.html	taisho-volume-template.html	false	Volume 13 Mahāsaṃnipāta (Great Compilation) 大集部
-../html/taisho/t14.html	taisho/t14.html	taisho-volume-template.html	false	Volume 14 Mahāsaṃnipāta (Great Compilation) 大集部
-../html/taisho/t15.html	taisho/t15.html	taisho-volume-template.html	false	Volume 15 Mahāsaṃnipāta (Great Compilation) 大集部
-../html/taisho/t16.html	taisho/t16.html	taisho-volume-template.html	false	Volume 16 Mahāsaṃnipāta (Great Compilation) 大集部
-../html/taisho/t17.html	taisho/t17.html	taisho-volume-template.html	false	Volume 17 Mahāsaṃnipāta (Great Compilation) 大集部
-../html/taisho/t18.html	taisho/t18.html	taisho-volume-template.html	false	Volume 18 Esoteric Section 密教部
-../html/taisho/t19.html	taisho/t19.html	taisho-volume-template.html	false	Volume 19 Esoteric Section 密教部
-../html/taisho/t20.html	taisho/t20.html	taisho-volume-template.html	false	Volume 20 Esoteric Section 密教部
-../html/taisho/t21.html	taisho/t21.html	taisho-volume-template.html	false	Volume 21 Esoteric Section 密教部
-../html/taisho/t22.html	taisho/t22.html	taisho-volume-template.html	false	Volume 22 Vinaya Section 律部
-../html/taisho/t23.html	taisho/t23.html	taisho-volume-template.html	false	Volume 23 Vinaya Section 律部
-../html/taisho/t24.html	taisho/t24.html	taisho-volume-template.html	false	Volume 24 Vinaya Section 律部
-../html/taisho/t25.html	taisho/t25.html	taisho-volume-template.html	false	Volume 25 Śastra Section 釋經論部
-../html/taisho/t26.html	taisho/t26.html	taisho-volume-template.html	false	Volume 26 Śastra Section 釋經論部
-../html/taisho/t27.html	taisho/t27.html	taisho-volume-template.html	false	Volume 27 Abhidharma Section 毘曇部
-../html/taisho/t28.html	taisho/t28.html	taisho-volume-template.html	false	Volume 28 Abhidharma Section 毘曇部
-../html/taisho/t29.html	taisho/t29.html	taisho-volume-template.html	false	Volume 29 Abhidharma Section 毘曇部
-../html/taisho/t30.html	taisho/t30.html	taisho-volume-template.html	false	Volume 30 Madhyamaka and Yogācāra Section 中觀部、瑜伽部
-../html/taisho/t31.html	taisho/t31.html	taisho-volume-template.html	false	Volume 31 Yogācāra Section 瑜伽部
-../html/taisho/t32.html	taisho/t32.html	taisho-volume-template.html	false	Volume 32 Śastra Section 論集部
-../html/taisho/t33.html	taisho/t33.html	taisho-volume-template.html	false	Volume 33 Sūtra Commentary Section 經疏部
-../html/taisho/t34.html	taisho/t34.html	taisho-volume-template.html	false	Volume 34 Sūtra Commentary Section 經疏部
-../html/taisho/t35.html	taisho/t35.html	taisho-volume-template.html	false	Volume 35 Sūtra Commentary Section 經疏部
-../html/taisho/t36.html	taisho/t36.html	taisho-volume-template.html	false	Volume 36 Sūtra Commentary Section 經疏部
-../html/taisho/t37.html	taisho/t37.html	taisho-volume-template.html	false	Volume 37 Sūtra Commentary Section 經疏部
-../html/taisho/t38.html	taisho/t38.html	taisho-volume-template.html	false	Volume 38 Sūtra Commentary Section 經疏部
-../html/taisho/t39.html	taisho/t39.html	taisho-volume-template.html	false	Volume 39 Sūtra Commentary Section 經疏部
-../html/taisho/t40.html	taisho/t40.html	taisho-volume-template.html	false	Volume 40 Vinaya and Śastra Commentary Section 律疏部、論疏部
-../html/taisho/t41.html	taisho/t41.html	taisho-volume-template.html	false	Volume 41 Śastra Commentary Section 論疏部
-../html/taisho/t42.html	taisho/t42.html	taisho-volume-template.html	false	Volume 42 Śastra Commentary Section 論疏部
-../html/taisho/t43.html	taisho/t43.html	taisho-volume-template.html	false	Volume 43 Śastra Commentary Section 論疏部
-../html/taisho/t44.html	taisho/t44.html	taisho-volume-template.html	false	Volume 44 Śastra Commentary and Different Schools Section 論疏部、諸宗部
-../html/taisho/t45.html	taisho/t45.html	taisho-volume-template.html	false	Volume 45 Various Schools Section 諸宗部
-../html/taisho/t46.html	taisho/t46.html	taisho-volume-template.html	false	Volume 46 Various Schools Section 諸宗部
-../html/taisho/t47.html	taisho/t47.html	taisho-volume-template.html	false	Volume 47 Various Schools Section 諸宗部 (Pure land texts, Chan quotations)
-../html/taisho/t48.html	taisho/t48.html	taisho-volume-template.html	false	Volume 48 Various Schools Section 諸宗部 (Pure land texts, Chan quotations)
-../html/taisho/t49.html	taisho/t49.html	taisho-volume-template.html	false	Volume 49 History and Biographies Section 史傳部
-../html/taisho/t50.html	taisho/t50.html	taisho-volume-template.html	false	Volume 50 History and Biographies Section 史傳部
-../html/taisho/t51.html	taisho/t51.html	taisho-volume-template.html	false	Volume 51 History and Biographies Section 史傳部
-../html/taisho/t52.html	taisho/t52.html	taisho-volume-template.html	false	Volume 52 History and Biographies Section 史傳部
-../html/taisho/t53.html	taisho/t53.html	taisho-volume-template.html	false	Volume 53 History and Biographies Section 史傳部
-../html/taisho/t54.html	taisho/t54.html	taisho-volume-template.html	false	Volume 54 History and Biographies Section 史傳部
-../html/taisho/t55.html	taisho/t55.html	taisho-volume-template.html	false	Volume 55 Catalogs 目錄部
+../html/taisho/t01.html	taisho/t01.html	reference-template.html	false	Volume 1 Āgamas 阿含部
+../html/taisho/t02.html	taisho/t02.html	reference-template.html	false	Volume 2 Āgamas 阿含部
+../html/taisho/t03.html	taisho/t03.html	reference-template.html	false	Volume 3 Jātaka and Avadāna 本緣部
+../html/taisho/t04.html	taisho/t04.html	reference-template.html	false	Volume 4 Jātaka and Avadāna 本緣部
+../html/taisho/t05-7.html	taisho/t05-7.html	reference-template.html	false	Volume 5-7 Prajñāpāramitā 般若部
+../html/taisho/t08.html	taisho/t08.html	reference-template.html	false	Volume 8 Prajñāpāramitā 般若部
+../html/taisho/t09.html	taisho/t09.html	reference-template.html	false	Volume 9 Lotus and Huayan 法華部、華嚴部
+../html/taisho/t10.html	taisho/t10.html	reference-template.html	false	Volume 10 Lotus and Huayan 法華部、華嚴部
+../html/taisho/t11.html	taisho/t11.html	reference-template.html	false	Volume 11 Ratnakūṭa and Nirvāṇa Section 寶積部、涅槃部
+../html/taisho/t12.html	taisho/t12.html	reference-template.html	false	Volume 12 Ratnakūṭa and Nirvāṇa Section 寶積部、涅槃部
+../html/taisho/t13.html	taisho/t13.html	reference-template.html	false	Volume 13 Mahāsaṃnipāta (Great Compilation) 大集部
+../html/taisho/t14.html	taisho/t14.html	reference-template.html	false	Volume 14 Mahāsaṃnipāta (Great Compilation) 大集部
+../html/taisho/t15.html	taisho/t15.html	reference-template.html	false	Volume 15 Mahāsaṃnipāta (Great Compilation) 大集部
+../html/taisho/t16.html	taisho/t16.html	reference-template.html	false	Volume 16 Mahāsaṃnipāta (Great Compilation) 大集部
+../html/taisho/t17.html	taisho/t17.html	reference-template.html	false	Volume 17 Mahāsaṃnipāta (Great Compilation) 大集部
+../html/taisho/t18.html	taisho/t18.html	reference-template.html	false	Volume 18 Esoteric Section 密教部
+../html/taisho/t19.html	taisho/t19.html	reference-template.html	false	Volume 19 Esoteric Section 密教部
+../html/taisho/t20.html	taisho/t20.html	reference-template.html	false	Volume 20 Esoteric Section 密教部
+../html/taisho/t21.html	taisho/t21.html	reference-template.html	false	Volume 21 Esoteric Section 密教部
+../html/taisho/t22.html	taisho/t22.html	reference-template.html	false	Volume 22 Vinaya Section 律部
+../html/taisho/t23.html	taisho/t23.html	reference-template.html	false	Volume 23 Vinaya Section 律部
+../html/taisho/t24.html	taisho/t24.html	reference-template.html	false	Volume 24 Vinaya Section 律部
+../html/taisho/t25.html	taisho/t25.html	reference-template.html	false	Volume 25 Śastra Section 釋經論部
+../html/taisho/t26.html	taisho/t26.html	reference-template.html	false	Volume 26 Śastra Section 釋經論部
+../html/taisho/t27.html	taisho/t27.html	reference-template.html	false	Volume 27 Abhidharma Section 毘曇部
+../html/taisho/t28.html	taisho/t28.html	reference-template.html	false	Volume 28 Abhidharma Section 毘曇部
+../html/taisho/t29.html	taisho/t29.html	reference-template.html	false	Volume 29 Abhidharma Section 毘曇部
+../html/taisho/t30.html	taisho/t30.html	reference-template.html	false	Volume 30 Madhyamaka and Yogācāra Section 中觀部、瑜伽部
+../html/taisho/t31.html	taisho/t31.html	reference-template.html	false	Volume 31 Yogācāra Section 瑜伽部
+../html/taisho/t32.html	taisho/t32.html	reference-template.html	false	Volume 32 Śastra Section 論集部
+../html/taisho/t33.html	taisho/t33.html	reference-template.html	false	Volume 33 Sūtra Commentary Section 經疏部
+../html/taisho/t34.html	taisho/t34.html	reference-template.html	false	Volume 34 Sūtra Commentary Section 經疏部
+../html/taisho/t35.html	taisho/t35.html	reference-template.html	false	Volume 35 Sūtra Commentary Section 經疏部
+../html/taisho/t36.html	taisho/t36.html	reference-template.html	false	Volume 36 Sūtra Commentary Section 經疏部
+../html/taisho/t37.html	taisho/t37.html	reference-template.html	false	Volume 37 Sūtra Commentary Section 經疏部
+../html/taisho/t38.html	taisho/t38.html	reference-template.html	false	Volume 38 Sūtra Commentary Section 經疏部
+../html/taisho/t39.html	taisho/t39.html	reference-template.html	false	Volume 39 Sūtra Commentary Section 經疏部
+../html/taisho/t40.html	taisho/t40.html	reference-template.html	false	Volume 40 Vinaya and Śastra Commentary Section 律疏部、論疏部
+../html/taisho/t41.html	taisho/t41.html	reference-template.html	false	Volume 41 Śastra Commentary Section 論疏部
+../html/taisho/t42.html	taisho/t42.html	reference-template.html	false	Volume 42 Śastra Commentary Section 論疏部
+../html/taisho/t43.html	taisho/t43.html	reference-template.html	false	Volume 43 Śastra Commentary Section 論疏部
+../html/taisho/t44.html	taisho/t44.html	reference-template.html	false	Volume 44 Śastra Commentary and Different Schools Section 論疏部、諸宗部
+../html/taisho/t45.html	taisho/t45.html	reference-template.html	false	Volume 45 Various Schools Section 諸宗部
+../html/taisho/t46.html	taisho/t46.html	reference-template.html	false	Volume 46 Various Schools Section 諸宗部
+../html/taisho/t47.html	taisho/t47.html	reference-template.html	false	Volume 47 Various Schools Section 諸宗部 (Pure land texts, Chan quotations)
+../html/taisho/t48.html	taisho/t48.html	reference-template.html	false	Volume 48 Various Schools Section 諸宗部 (Pure land texts, Chan quotations)
+../html/taisho/t49.html	taisho/t49.html	reference-template.html	false	Volume 49 History and Biographies Section 史傳部
+../html/taisho/t50.html	taisho/t50.html	reference-template.html	false	Volume 50 History and Biographies Section 史傳部
+../html/taisho/t51.html	taisho/t51.html	reference-template.html	false	Volume 51 History and Biographies Section 史傳部
+../html/taisho/t52.html	taisho/t52.html	reference-template.html	false	Volume 52 History and Biographies Section 史傳部
+../html/taisho/t53.html	taisho/t53.html	reference-template.html	false	Volume 53 History and Biographies Section 史傳部
+../html/taisho/t54.html	taisho/t54.html	reference-template.html	false	Volume 54 History and Biographies Section 史傳部
+../html/taisho/t55.html	taisho/t55.html	reference-template.html	false	Volume 55 Catalogs 目錄部
 ../html/tools.html	tools.html	about-template.html	false
 ../html/translation_memory.html	translation_memory.html	index-template.html	false
 ../html/translation_workflow.html	translation_workflow.html	reference-template.html	true
