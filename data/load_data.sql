@@ -1,7 +1,6 @@
 USE ntireader;
 
-DELETE FROM tmindex_uni_domain;
-DELETE FROM tmindex_unigram;
+DELETE FROM words;
 
 LOAD DATA LOCAL INFILE 'data/dictionary/grammar.txt' INTO TABLE grammar CHARACTER SET utf8mb4 LINES TERMINATED BY '\r\n';
 LOAD DATA LOCAL INFILE 'data/dictionary/topics.txt' INTO TABLE topics CHARACTER SET utf8mb4 LINES TERMINATED BY '\r\n';
