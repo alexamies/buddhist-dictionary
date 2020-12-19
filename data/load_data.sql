@@ -13,3 +13,5 @@ LOAD DATA LOCAL INFILE 'data/dictionary/licenses.txt' INTO TABLE licenses CHARAC
 LOAD DATA LOCAL INFILE 'data/dictionary/authors.txt' INTO TABLE authors CHARACTER SET utf8mb4 LINES TERMINATED BY '\r\n' IGNORE 1 LINES;;
 LOAD DATA LOCAL INFILE 'data/dictionary/illustrations.txt' INTO TABLE illustrations CHARACTER SET utf8mb4 LINES TERMINATED BY '\r\n' IGNORE 1 LINES;;
 SHOW WARNINGS;
+
+select count(*) from words;
