@@ -31,7 +31,7 @@
     "source-map": "^0.7.3",
     "tslint": "^5.20.1",
     "webpack": "^4.41.4",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.1"
   },
   "dependencies": {
