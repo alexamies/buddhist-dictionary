@@ -165,7 +165,7 @@
 7000165	中国佛寺史志汇刊	中國佛寺史志彙刊	Zhōngguó Fó sì shǐ zhì huì kān	Collection of Chinese Buddhist Temple History and Gazetteers	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	A compiliation from temple gazetteers. 1980-1985, compiled by Du Jiexiang, 110 volumes (Wikipedia '徑山志')	7000165
 7000166	知律	\N	zhīlǜ	Jiyul	proper noun	法师	Monastic	佛教	Buddhism	韩国	Korea	\N	\N	1957-; Korean monastic (Wikipedia 'Jiyul')	66018
 7000167	镜虚	鏡虛	jìngxū	Gyeongheo	proper noun	法师	Monastic	佛教	Buddhism	韩国	Korea	\N	\N	1846-1912; Korean monk (FGDB'鏡虛'; Wikipedia 'Gyeongheo')	7000167
-7000168	提多迦	\N	tíduōjiā	Dhītika / Dhṛṭaka	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Fifth Indian patriarch in Chan Buddhism (BSAD '提多迦'; FGDB '提多迦'; Wikipedia 'Dhṛṭaka')	7000168
+7000168	提多迦	\N	tíduōjiā	Dhritaka / Dhītika / Dhṛṭaka	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Fifth Indian patriarch in Chan Buddhism according to the 景德傳燈錄 “Records of the Transmission of the Lamp” (BSAD '提多迦'; FGDB '提多迦'; Wikipedia 'Dhṛṭaka'; Whitfield 2015, vol. 1, p. 88; T 2076, Scroll 1)	7000168
 7000169	提知迦	\N	tízhījiā	Dhītika / Dhṛṭaka	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 提多迦 (Wikipedia '提多迦')	7000169
 7000170	地底迦	\N	dìdǐjiā	Dhītika / Dhṛṭaka	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 提多迦 (Wikipedia '提多迦')	7000170
 7000171	奢那婆数	奢那婆數	shēnàpóshǔ	Śāṇaka	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 商那和修 (FGDB '商那和修')	7000171
@@ -3206,7 +3206,7 @@
 7003206	商诺迦缚娑	商諾迦縛娑	shāngnuòjiāfúsuō	Sanaka-vasa / Śānaka-vāsa	proper noun	罗汉	Arhat	佛教	Buddhism	印度	India	\N	\N	See 商那和修 (FGDB '商那和修')	7003206
 7003207	胜光王	勝光王	shèngguāng wáng	King Prasenajit	proper noun	国王	King	佛教	Buddhism	印度	India	\N	\N	See 波斯匿王 (FGDB '波斯匿王')	7003207
 7003208	和悦王	和悅王	héyuè wáng	King Prasenajit	proper noun	国王	King	佛教	Buddhism	印度	India	\N	\N	See 波斯匿王 (FGDB '波斯匿王')	7003208
-7003209	商那和修	\N	shāngnàhéxiū	Śāṇaka / Sana-vasin / Śāna-vāsin	proper noun	罗汉	Arhat	佛教	Buddhism	印度	India	\N	\N	Sanskrit: Śāṇaka; a disciple of Ananda (BSAD '商那和修'; FGDB '商那和修'; Wikipedia '商那和修')	7003209
+7003209	商那和修	\N	shāngnàhéxiū	Sānakavāsa	proper noun	罗汉	Arhat	佛教	Buddhism	印度	India	\N	\N	Sanskrit: sānakavāsa; a disciple of Ananda (BSAD '商那和修'; FGDB '商那和修'; Wikipedia '商那和修'; Whitfield 2015, vol. 1, p. 83; T 2076, Scroll 1)	7003209
 7003210	集量论	集量論	jí liàng lùn	Compendium on Valid Knowledge / Pramāṇasamuccaya	proper noun	书名	Book Title	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramāṇasamuccaya, Japanese: Jūryōron; Title of a foundational text on Buddhist logic attributed to Dignaga, now lost (BL 'Pramāṇasamuccaya', p. 661; FGDB '集量論'; Wikipedia '集量論')	7003210
 7003211	僧伽提婆	\N	Sēngjiātípó	 Saṅghadeva / Saṃghadeva / Sajghadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Monk from Kashmir who travelled to China in the 4th century during the Eastern Jin. Translated sutras (FGDB '僧伽提婆'; KDC 'K 648')	7003211
 7003212	十诵律	十誦律	Shí Sòng Lǜ	Sarvāstivādavinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Sarvāstivādavinaya; the name of a text in the Chinese Buddhist canon (KDC 890; T 1435)	7003212
@@ -4076,3 +4076,25 @@
 7004076	犍陟	\N	jiānzhì	Kaṇṭhaka / Kanthaka	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kaṇṭhaka or kanthaka, Pali: kanthaka; the young Buddha's horse (Ding '犍陟'; FGDB '犍陟')	7004076
 7004077	缘本致经	緣本致經	Yuán Běn Zhì Jīng	Yuan Ben Zhi Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 37; KDC 'K 669')	7004077
 7004078	轮王七宝经	輪王七寶經	Lúnwáng Qī Bǎo Jīng	Lunwang Qi Bao Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon, related to the Cakkavatti Sutta in the Pāli Canon (T 38; KDC 'K 1422'; Saṃyutta Nikāya 46.42)	7004078
+7004079	顶生王故事经	頂生王故事經	Dǐng Shēng Wáng Gùshi Jīng	Ding Sheng Wang Gushi Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 39; KDC 'K 676')	7004079
+7004080	文陀竭王经	文陀竭王經	Wéntuójié Wáng Jīng	Wentuojie Wang Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 40; KDC 'K 676')	7004080
+7004081	频婆娑罗王经	頻婆娑羅王經	Pínpósuōluó Wáng Jīng	King Bimbisāra Sūtra / Bimbisārapratyudgamanasūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bimbisārapratyudgamanasūtra, a sūtra in the Āgama section of the Chinese Buddhist Canon (T 41; KDC 'K 1243')	7004081
+7004082	铁城泥犁经	鐵城泥犁經	Tiě Chéng Nílí Jīng	Tie Cheng Nili Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 42; KDC 'K 684')	7004082
+7004083	阎罗王五天使者经	閻羅王五天使者經	Yán Luó Wáng Wǔ Tiān Shǐzhě Jīng	Yan Luo Wang Wu Tian Shizhe Jing / Devadūtasutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: devadūtasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to Devadūtasutta in the Pāli Canon (T 43; KDC 'K 682'; Majjhima Nikāya 130)	7004083
+7004084	古来世时经	古來世時經	Gǔ Lái Shì Shí Jīng	Gu Lai Shi Shi Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: devadūtasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to the Theragatha in the Pāli Canon (T 44; KDC 'K 670'; Theragatha 910-919)	7004084
+7004085	大正句王经	大正句王經	Dàzhèngjù Wáng Jīng	Dazhengju Wang Jing / Pāyāsisuttanta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: pāyāsisuttanta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to Pāyāsisuttanta in the Pāli Canon (T 45; KDC 'K 670'; Dīgha Nikāya 23)	7004085
+7004086	阿那律八念经	阿那律八念經	Ānàlǜ Bā Niàn Jīng	Analu Ba Nian Jing / Anurudda Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon, related to Anurudda Sutta in the Pāli Canon (T 46; KDC 'K 686'; Aṅguttara Nikāya VIII.30)	7004086
+7004087	优婆毱多	優婆毱多	yōupójúduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian master, disciple of Sānakavāsa, fourth patriarch in the Chan tradition according to the 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '優婆毱多'; Whitfield 2015, vol. 1, p. 84; T 2076, Scroll 1)	7004087
+7004088	忧波毱多	憂波毱多	yōubōjúduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004088
+7004089	优波笈多	優波笈多	yōubōjíduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004089
+7004090	优波崛多	優波崛多	yōubōjuéduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004090
+7004091	邬波崛多	鄔波崛多	wūbōjuéduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004091
+7004092	优波毱提	優波毱提	yōubōjútí	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004092
+7004093	忧波毱	憂波毱	yōubōjú	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004093
+7004094	优波崛	優波崛	yōubōjué	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004094
+7004095	崛多	\N	juéduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (FGDB '優婆毱多')	7004095
+7004096	弥遮迦	彌遮迦	mízhējiā	Michaka	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian master, disciple of Sānakavāsa, sixth patriarch in the Chan tradition according to the 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '彌遮迦'; Whitfield 2015, vol. 1, p. 90; T 2076, Scroll 1)	7004096
+7004097	婆须蜜	婆須蜜	póxūmì	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian master, disciple of Sānakavāsa, sixth patriarch in the Chan tradition according to the 景德傳燈錄 “Records of the Transmission of the Lamp”; see 世友 (FGDB '婆須蜜多'; Whitfield 2015, vol. 1, p. 92; T 2076, Scroll 1)	7004097
+7004098	伐苏蜜呾罗	伐蘇蜜呾羅	fásūmìdáluó	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 世友 (FGDB '婆須蜜多')	7004098
+7004099	婆须蜜多罗	婆須蜜多羅	póxūmìduōluó	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 世友 (FGDB '婆須蜜多')	7004099
+7004100	天友	\N	tiānyǒu	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 世友 (FGDB '婆須蜜多')	7004100
