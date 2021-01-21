@@ -3426,7 +3426,7 @@
 7003426	杨岐宗	楊岐宗	Yángqí zōng	Yangqi School	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Yangqi branch of the Linji School of Chan Buddhism (FGDB '楊岐宗')	7003426
 7003427	杨岐	楊岐	yángqí	Yangqi School	proper noun	派	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 楊岐宗 (FGDB '楊岐宗')	7003427
 7003428	杨岐派	楊岐派	yángqí pài	Yangqi School	proper noun	派	School	佛教	Buddhism	禅宗	Chan	\N	\N	Yangqi branch of the Linji School of Chan Buddhism; FGS translation standard: The Yangqi School (Tzu Chuang 2012, p. 42; FGDB '楊岐宗')	7003428
-7003429	黄龙	黃龍	huánglóng	Huanglong School	proper noun	派	School	佛教	Buddhism	禅宗	Chan	\N	\N	Huanglong branch of the Linji School of Chan Buddhism (FGDB '黃龍派', Tzu Chuang 2012, p. 42)	7003429
+7003429	黄龙	黃龍	huánglóng	Huanglong School	proper noun	派	School	佛教	Buddhism	禅宗	Chan	\N	\N	Huanglong branch of the Linji School of Chan Buddhism; see 黃龍派 (FGDB '黃龍派', Tzu Chuang 2012, p. 42)	7003429
 7003430	黄龙派	黃龍派	huánglóng pài	Huanglong School	proper noun	派	School	佛教	Buddhism	禅宗	Chan	\N	\N	Huanglong branch of the Linji School of Chan Buddhism; FGS translation standard: The Huanglong School (Tzu Chuang 2012, p. 42)	7003430
 7003431	善法经	善法經	shànfǎ jīng	Dhammaññū	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A sutta in the Madhyamāgama (KDC 'K 648'; Anguttara Nikāya VII.64)	7003431
 7003432	成实论	成實論	Chéng Shí Lùn	Satyasiddhiśāstra / Cheng Shi Lun / Treatise of Establishing Reality	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	A Buddhist treatise attributed to Harivarman (BL 'Harivarman', pp. 345-346; FGDB '成實論'; KDC 966; T 1646)	7003432
@@ -4308,3 +4308,20 @@
 7004308	利车	利車	lìchē	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004308
 7004309	黎昌	\N	líchāng	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004309
 7004310	律车	律車	Lǜchē	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004310
+7004311	丽掣	麗掣	lìchè	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004311
+7004312	㗚磋	\N	lìcuō	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004312
+7004313	薄皮	\N	báopí	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004313
+7004314	同皮	\N	tóngpí	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004314
+7004315	仙族王	\N	xiānzúwáng	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004315
+7004316	边地主	邊地主	Biāndìzhǔ	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004316
+7004317	隷车	隷車	lìchēbèi	Licchavi / Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7004317
+7004318	毘耶离	毘耶離	Píyélí	Vesālī / Vaisali / Vaissali / Vaishali / City of Vaisali	proper noun	古城	Ancient City	佛教	Buddhism	印度	India	\N	\N	See 毘舍離 (FGDB '毘舍離')	7004318
+7004319	遮婆罗塔	遮婆羅塔	zhēpóluó tǎ	Cāpāla Shrine / Cāpālacaitya	proper noun	佛塔	Stupa	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: cāpālacaitya, Pali: cāpālacaitya. The Mahāparinibbānasutta 《遊行經》 describes the Buddha's visit Cāpāla Shrine, located near the city of Vesālī. It was during this visit to the Cāpāla Shrine that the Buddha announced that he would soon pass away achieving Parinirvāṇa (T 1, Scroll 2; Dīgha Nikāya 16; BL 'Cāpālacaitya'; FGDB '離車毘'; Muller 1888, 'Licchavi').	7004319
+7004320	遮婆罗	遮婆羅	zhēpóluó	Cāpāla Shrine	proper noun	佛塔	Stupa	佛教	Buddhism	\N	\N	\N	\N	See 遮婆羅塔 (FGDB '離車毘')	7004320
+7004321	郁鞞罗	鬱鞞羅	yùbǐngluó	Uruvilvā / Uruvelā	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	See 優樓頻螺聚落 (FGDB '優樓頻螺聚落')	7004321
+7004322	尼连禅河	尼連禪河	níliánchán hé	Nairañjanā River / Nerañjarā / Nirañjarā / Nairanjana	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	Sanskrit: Nairañjanā, Pali: Nerañjarā / Nirañjarā. An ancient name of a branch of the Ganges (BL 'Nairañjanā'; FGDB '尼連禪河'). The Mahāparinibbānasutta 《遊行經》 describes the Buddha's visit to Uruvilvā 鬱鞞羅, located near the Nerañjarā River (T 1, Scroll 2).	7004322
+7004323	希连禅	希連禪	xīliánchán	Nairañjanā / Nerañjarā / Nirañjarā / Nairanjana	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	See 尼連禪河 (FGDB '尼連禪河')	7004323
+7004324	尼连禅那	尼連禪那	níliánchánnà	Nairañjanā / Nerañjarā / Nirañjarā / Nairanjana	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	See 尼連禪河 (FGDB '尼連禪河')	7004324
+7004325	尼连然	尼連然	níliánrán	Nairañjanā / Nerañjarā / Nirañjarā / Nairanjana	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	See 尼連禪河 (FGDB '尼連禪河')	7004325
+7004326	泥连河	泥連河	nílián hé	Nairañjanā / Nerañjarā / Nirañjarā / Nairanjana	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	See 尼連禪河 (FGDB '尼連禪河')	7004326
+7004327	熙连河	熙連河	xīlián hé	Nairañjanā / Nerañjarā / Nirañjarā / Nairanjana	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	See 尼連禪河 (FGDB '尼連禪河')	7004327
