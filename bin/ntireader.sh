@@ -12,8 +12,10 @@ export TEMPLATE_HOME=html/material-templates
 python $DEV_HOME/bin/doc_list.py
 mkdir $WEB_DIR
 mkdir $WEB_DIR/analysis
+mkdir $WEB_DIR/analysis/manji
 mkdir $WEB_DIR/analysis/taisho
 mkdir $WEB_DIR/dist
+mkdir $WEB_DIR/manji
 mkdir $WEB_DIR/taisho
 mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
