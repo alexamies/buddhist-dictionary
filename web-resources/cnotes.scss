@@ -182,9 +182,14 @@ span.usage-highlight {
     color: blue;
 }
 
-/* Different color for quotations in texts */
+/* Light green color for quotations in texts */
 .quote {
     background: #dff7c3;
+}
+
+/* Light red color for Chinese with Sanskrit in texts */
+.sanskrit {
+    background: #ffcccc;
 }
 
 /* End Dictionary Entry style */
