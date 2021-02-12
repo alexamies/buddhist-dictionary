@@ -26,6 +26,7 @@ go run github.com/alexamies/cnreader
 go run github.com/alexamies/cnreader -hwfiles
 go run github.com/alexamies/cnreader -html
 go run github.com/alexamies/cnreader -tmindex
+go run github.com/alexamies/cnreader -titleindex
 mkdir $WEB_DIR/dist
 cp web-resources/dist/*.css $WEB_DIR/dist/.
 cp web-resources/dist/*.js $WEB_DIR/dist/.
