@@ -1,8 +1,4 @@
 corpus/
-go/
-index/
-mariadb-data/
-python/
-web/
+!index/documents.tsv
 web-resources/
 web-staging/
