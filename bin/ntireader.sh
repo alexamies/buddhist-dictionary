@@ -9,6 +9,7 @@ export CNREADER_HOME=.
 export WEB_DIR=web-staging
 export DEV_HOME=../chinesenotes.com
 export TEMPLATE_HOME=html/material-templates
+PATH=$PATH:$HOME/go/bin
 python $DEV_HOME/bin/doc_list.py
 mkdir $WEB_DIR
 mkdir $WEB_DIR/analysis
@@ -21,12 +22,12 @@ mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
 mkdir $WEB_DIR/words
 
-go get -u github.com/alexamies/cnreader
-go run github.com/alexamies/cnreader
-go run github.com/alexamies/cnreader -hwfiles
-go run github.com/alexamies/cnreader -html
-go run github.com/alexamies/cnreader -tmindex
-go run github.com/alexamies/cnreader -titleindex
+go install github.com/alexamies/cnreader@latest
+cnreader
+cnreader -hwfiles
+cnreader -html
+cnreader -tmindex
+cnreader -titleindex
 mkdir $WEB_DIR/dist
 cp web-resources/dist/*.css $WEB_DIR/dist/.
 cp web-resources/dist/*.js $WEB_DIR/dist/.
