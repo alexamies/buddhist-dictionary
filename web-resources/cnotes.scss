@@ -20,6 +20,12 @@ body {
   padding: 0px 20px 20px 20px;
 }
 
+/* Normal blue link with underline */
+a.regular {
+  color: inherit;
+  text-decoration: inherit;
+}
+
 .mdc-drawer-app-content {
   flex: auto;
   overflow: auto;
