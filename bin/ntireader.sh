@@ -10,7 +10,6 @@ export WEB_DIR=web-staging
 export DEV_HOME=../chinesenotes.com
 export TEMPLATE_HOME=html/material-templates
 PATH=$PATH:$HOME/go/bin
-python $DEV_HOME/bin/doc_list.py
 mkdir $WEB_DIR
 mkdir $WEB_DIR/analysis
 mkdir $WEB_DIR/analysis/manji
