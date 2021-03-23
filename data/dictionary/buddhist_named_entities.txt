@@ -762,7 +762,7 @@
 7000762	灌顶	灌頂	Guàn Dǐng	Guanding	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Kuan-ting, 561—632; disciple of 智顗 Zhi Yi 538—597, key figure of the Tiantai school; Guan Ding wrote down the text of 摩訶止觀 “Great Concentration and Insight” based on Zhi Yi's lectures (Ding '灌頂'; FGDB '灌頂')	7000762
 7000763	慧文	\N	huì wén	Hui Wen	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Considered the second patriarch of the Tiantai school (FGDB '慧文')	7000763
 7000764	慧思	\N	Huì Sī	Hui Si / Nan Yue Hui Si	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	c. 515-557, considered the third patriarch of the Tiantai school and teacher of Zhi Yi 智顗 (FGDB '慧思')	7000764
-7000765	湛然	\N	zhàn rán	Zhanran / Chan-Jan	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chan-Jan. 711—782, considered the ninth patriarch of the Tiantai school (FGDB '湛然')	7000765
+7000765	湛然	\N	zhàn rán	Zhanran / Chan-Jan	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chan-Jan. 711—782, considered the ninth patriarch of the Tiantai school (FGDB '湛然'; SH '湛然', p. 130)	7000765
 7000766	南岳	\N	Nán Yuè	Hui Si / Nan Yue Hui Si	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 慧思 (FGDB '湛然')	7000766
 7000767	弗若多罗	弗若多羅	fúruòduōluó	 Punyatāra	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk who travelled to China in the Later Qin (FGDB '弗若多羅')	7000767
 7000768	若多罗	若多羅	fúruòduōluó	 Punyatāra	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	See 弗若多羅 (FGDB '弗若多羅')	7000768
@@ -5210,3 +5210,19 @@
 7005210	提婆菩萨破楞伽经中外道小乘四宗论	提婆菩薩破楞伽經中外道小乘四宗論	Típó púsà  pò Léngjiā Jīng Zhōngwài dào Xiǎoshèng sì Zōng lùn	Tipo Pusa  Po Lengjia Jing Zhongwai Dao Xiaosheng Si Zong Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 645; T 1639)	7005210
 7005211	北本涅槃经	北本涅槃經	běiběnnièpánjīng	Northern version of the Nirvana Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大般涅槃經後分 (FGDB '北本涅槃經'; SH '北本涅槃經', p. 168; T 377)	7005211
 7005212	提波	\N	tíbō	Deva	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Buddhist monastic credited with composing the 提婆菩薩破楞伽經中外道小乘四宗論 Tipo Pusa  Po Lengjia Jing Zhongwai Dao Xiaosheng Si Zong Lun, included in the Chinese Buddhist canon (KDC 645; T 1639)	7005211
+7005213	提波菩萨	提波菩薩	tíbō púsà	Deva	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 提波 (FGDB '提婆)	7005213
+7005214	提婆菩萨释楞伽经中外道小乘涅槃论	提婆菩薩釋楞伽經中外道小乘涅槃論	Típó púsà  shì Léngjiā Jīng Zhōngwài dào Xiǎoshèng Nièpán lùn 	Tipo Pusa  Shi Lengjia Jing Zhongwai Dao Xiaosheng Niepan Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 642; T 1640)	7005214
+7005215	随相论	隨相論	suí xiāng lùn	Lakṣaṇānusāraśāstra / Sui Xiang Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Lakṣaṇānusāraśāstra; the title of a text in the Chinese Buddhist canon (KDC 962; T 1641)	7005215
+7005216	德慧	\N	déhuì	Guṇamati	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Buddhist monastic credited with composing the 隨相論 Lakṣaṇānusāraśāstra, included in the Chinese Buddhist canon (FGDB '德慧'; KDC 962; T 1641)	7005216
+7005217	德慧法师	德慧法師	déhuì fǎshī	Guṇamati	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 德慧 (FGDB '德慧')	7005217
+7005218	窭拏末底	窶拏末底	lóunámòdǐ	Guṇamati	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 德慧 (FGDB '德慧')	7005218
+7005219	瞿那末底	\N	jùnàmòdǐ	Guṇamati	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 德慧 (FGDB '德慧')	7005219
+7005220	求那摩帝	\N	qiúnàmódì	Guṇamati	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 德慧 (FGDB '德慧')	7005220
+7005221	金刚针论	金剛針論	jīngāng zhēn lùn	Vajrasūcīśāstra / Jingang Zhen Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Vajrasūcīśāstra; the title of a text in the Chinese Buddhist canon (KDC 1132; T 1642)	7005221
+7005222	尼干子问无我义经	尼乾子問無我義經	ní gàn zǐ wèn wúwǒ yì jīng	Nairātmyaparipṛccha / Ni Gan Zi Wen Wuwo Yi Jing	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Nairātmyaparipṛccha; the title of a text in the Chinese Buddhist canon (KDC 1492; T 1643)	7005222
+7005223	佛说立世阿毘昙论	佛說立世阿毘曇論	Fó shuō lì shì Āpítán lùn	Fo Shuo Li Shi Apitan Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 立世阿毘曇論 (T 1644)	7005223
+7005224	立世阿毘昙论	立世阿毘曇論	lì shì Āpítán lùn	Li Shi Apitan Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 967; T 1644)	7005224
+7005225	彰所知论	彰所知論	zhāng suǒ zhī lùn	Zhang Suo Zhi Lun	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 1645)	7005225
+7005226	发合思巴	發合思巴	fāhésībā	Fa He Si Ba	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Buddhist monastic credited with composing the 發合思巴 Zhang Suo Zhi Lun, included in the Chinese Buddhist canon (T 1645)	7005226
+7005227	沙罗巴	沙羅巴	shāluó bā	Shaluoba	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Buddhist monastic credited with translating the 發合思巴 Zhang Suo Zhi Lun, included in the Chinese Buddhist canon (T 1645)	7005227
+7005228	诃棃跋摩	訶棃跋摩	Hēlíbámó	Harivarman	proper noun	法师	Monastic	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Third to fourth century Buddhist monastic credited with composing the 成實論 'Treatise of Establishing Reality', included in the Chinese Buddhist canon (FGDB '訶棃跋摩'; KDC 966; T 1646)	7005228
