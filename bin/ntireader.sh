@@ -35,4 +35,11 @@ cp web-resources/*.js $WEB_DIR/.
 cp web-resources/images/*.* $WEB_DIR/images/.
 
 python3 bin/words2json.py "data/dictionary/words.txt,data/dictionary/fgs_mwe.txt,data/dictionary/translation_memory_buddhist.txt,data/dictionary/translation_memory_literary.txt,data/dictionary/buddhist_named_entities.txt" $WEB_DIR/dist/ntireader.json
+
+python3 bin/tsv2json.py "data/dictionary/words.txt" $WEB_DIR/ntireader_words.json "NTI Reader dictionary" "NTI Reader" "Alex Amies" "Creative Commons Attribution-Share Alike 3.0"
+python3 bin/tsv2json.py "data/dictionary/buddhist_named_entities.txt" $WEB_DIR/buddhist_named_entities.json "NTI Reader Buddhist named entities (people, places, text titles, etc)"  "Buddhist named entities" "Alex Amies" "Creative Commons Attribution-Share Alike 3.0"
+python3 bin/tsv2json.py "data/dictionary/translation_memory_buddhist.txt" $WEB_DIR/translation_memory_buddhist.json "NTI Reader Buddhist quotations" "Literary Chinese quotations" "Alex Amies" "Creative Commons Attribution-Share Alike 3.0"
+python3 bin/tsv2json.py "data/dictionary/fgs_mwe.txt" $WEB_DIR/fgs_mwe.json "Fo Guang Shan Glossary of Humnastic Buddhism" "HB Glossary" "FGS" "Copyright Fo Guang Shan"
+python3 bin/tsv2json.py "data/dictionary/translation_memory_literary.txt" $WEB_DIR/translation_memory_literary.json "Chinese Notes literary Chinese quotations" "Literary Chinese quotations" "Alex Amies" "Creative Commons Attribution-Share Alike 3.0"
+
 echo 'ntireader done'

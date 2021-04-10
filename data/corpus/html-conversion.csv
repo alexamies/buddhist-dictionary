@@ -18,6 +18,7 @@
 ../html/help3.html	help3.html	reference-template.html	true
 ../html/index.html	index.html	index-template.html	false
 ../html/manji.html	manji/manji.html	texts-template.html	false
+../html/multilingual_lookup.html	multilingual_lookup.html	reference-template.html	false	Multilingual Lookup
 ../html/ntireader_metadata.html	ntireader_metadata.html	reference-template.html	false
 ../html/popular.html	popular.html	reference-template.html	false
 ../html/pos_tags.html	pos_tags.html	reference-template.html	false
@@ -29,7 +30,7 @@
 ../html/sanskrit_query.html	sanskrit_query.html	reference-template.html	true
 ../html/statistics.html	statistics.html	reference-template.html	false
 ../html/syllables_ipa.html	syllables_ipa.html	reference-template.html	true
-../html/taisho.html	taisho/taisho.html	texts-template.html	false
+../html/taisho.html	taisho/taisho.html	texts-template.html	false	Texts
 ../html/taisho/t01.html	taisho/t01.html	reference-template.html	false	Volume 1 Āgamas 阿含部
 ../html/taisho/t02.html	taisho/t02.html	reference-template.html	false	Volume 2 Āgamas 阿含部
 ../html/taisho/t03.html	taisho/t03.html	reference-template.html	false	Volume 3 Jātaka and Avadāna 本緣部
