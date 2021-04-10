@@ -4127,31 +4127,36 @@
   },
   F = {
     getSources: function() {
-      var t1, _i, sourceNum, nameID, t2, sourceCB, tokens, sourceTokens,
+      var t1, t2, _i, sourceNum, nameID, t3, sourceCB, t4, tokens, sourceTokens,
         sources = P.LinkedHashMap_LinkedHashMap$_empty(type$.int, type$.DictionarySource);
-      for (t1 = type$.CheckboxInputElement, _i = 0; _i < 5; ++_i) {
-        sourceNum = C.List_yTu[_i];
+      for (t1 = type$.InputElement, t2 = type$.CheckboxInputElement, _i = 0; _i < 6; ++_i) {
+        sourceNum = C.List_ww8[_i];
+        H.printString("Finding source " + sourceNum);
         nameID = "#sourceName" + sourceNum;
-        t2 = document;
-        sourceCB = t2.querySelector(nameID);
-        if (sourceCB != null) {
-          tokens = t1._as(sourceCB).value;
-          if (tokens != null) {
-            sourceTokens = tokens.split(",");
-            if (sourceTokens.length < 7)
-              throw H.wrapException(P.Exception_Exception("Not enough information to identify source: " + tokens));
-            t2 = t1._as(t2.querySelector("#sourceURL" + sourceNum)).value;
-            t2.toString;
-            sources.$indexSet(0, sourceNum, new X.DictionarySource(sourceNum, t2, sourceTokens[1], P.int_parse(sourceTokens[6])));
-          }
-        }
+        t3 = document;
+        sourceCB = t3.querySelector(nameID);
+        if (sourceCB == null)
+          continue;
+        t2._as(sourceCB);
+        t4 = sourceCB.checked;
+        if (t4 == null || !t4)
+          continue;
+        tokens = sourceCB.value;
+        if (tokens == null)
+          continue;
+        sourceTokens = tokens.split(",");
+        if (sourceTokens.length < 7)
+          throw H.wrapException(P.Exception_Exception("Not enough information to identify source: " + tokens));
+        t3 = t1._as(t3.querySelector("#sourceURL" + sourceNum)).value;
+        t3.toString;
+        sources.$indexSet(0, sourceNum, new X.DictionarySource(sourceNum, t3, sourceTokens[1], P.int_parse(sourceTokens[6])));
       }
       return new X.DictionarySources(sources);
     },
     main: function() {
       var $async$goto = 0,
         $async$completer = P._makeAsyncAwaitCompleter(type$.dynamic),
-        $async$handler = 1, $async$currentError, $async$next = [], lookupSubmit, errorDiv, statusDiv, sources, forwardIndexes, hwIDIndexes, source, jsonString, forwardIndex, hwIDIndex, mergedFwdIndex, mergedHwIdIndex, reverseIndex, app, textField, div, lookup, findForm, e, t1, t2, t3, exception, $async$exception;
+        $async$handler = 1, $async$currentError, $async$next = [], multiLookupSubmit, errorDiv, statusDiv, sources, forwardIndexes, hwIDIndexes, source, jsonString, forwardIndex, hwIDIndex, ex, mergedFwdIndex, mergedHwIdIndex, reverseIndex, app, textField, div, lookup, findForm, e, t1, t2, t3, exception, $async$exception, $async$exception1;
       var $async$main = P._wrapJsFunctionForAsync(function($async$errorCode, $async$result) {
         if ($async$errorCode === 1) {
           $async$currentError = $async$result;
@@ -4163,7 +4168,7 @@
               // Function start
               P.print("Starting client app");
               t1 = document;
-              lookupSubmit = type$.ButtonElement._as(t1.querySelector("#lookupSubmit"));
+              multiLookupSubmit = type$.ButtonElement._as(t1.querySelector("#multiLookupSubmit"));
               t2 = t1.querySelector("#lookupError");
               t2.toString;
               errorDiv = t2;
@@ -4184,32 +4189,54 @@
                 break;
               }
               source = t3._as(t2._current);
-              $async$goto = 8;
+              $async$handler = 9;
+              $async$goto = 12;
               return P._asyncAwait(W.HttpRequest_getString(source.url), $async$main);
-            case 8:
+            case 12:
               // returning from await.
               jsonString = $async$result;
               forwardIndex = X.dictFromJson(jsonString, source);
               J.add$1$ax(forwardIndexes, forwardIndex);
               hwIDIndex = X.headwordsFromJson(jsonString, source);
               J.add$1$ax(hwIDIndexes, hwIDIndex);
+              $async$handler = 3;
+              // goto after finally
+              $async$goto = 11;
+              break;
+            case 9:
+              // catch
+              $async$handler = 8;
+              $async$exception = $async$currentError;
+              ex = H.unwrapException($async$exception);
+              H.printString("Could not load dicitonary " + source.abbreviation + ": " + H.S(ex));
+              J.set$text$x(errorDiv, "Could not load dicitonary " + source.abbreviation);
+              // goto after finally
+              $async$goto = 11;
+              break;
+            case 8:
+              // uncaught
+              // goto catch
+              $async$goto = 3;
+              break;
+            case 11:
+              // after finally
               // goto for condition
               $async$goto = 6;
               break;
             case 7:
               // after for
-              lookupSubmit.disabled = false;
+              multiLookupSubmit.disabled = false;
               J.set$text$x(statusDiv, "Dictionary loaded");
               mergedFwdIndex = X.mergeDictionaries(forwardIndexes);
               mergedHwIdIndex = X.mergeHWIDIndexes(hwIDIndexes);
               reverseIndex = X.buildReverseIndex(mergedFwdIndex);
               app = new X.App(mergedFwdIndex, sources, reverseIndex, mergedHwIdIndex);
-              textField = type$.TextInputElement._as(t1.querySelector("#lookupInput"));
+              textField = type$.TextInputElement._as(t1.querySelector("#multiLookupInput"));
               t2 = t1.querySelector("#lookupResults");
               t2.toString;
               div = t2;
               lookup = new F.main_lookup(div, app, textField, sources, statusDiv);
-              t1 = t1.querySelector("#lookupForm");
+              t1 = t1.querySelector("#multiLookupForm");
               t1.toString;
               findForm = t1;
               t1 = J.get$onSubmit$x(findForm);
@@ -4224,12 +4251,12 @@
             case 3:
               // catch
               $async$handler = 2;
-              $async$exception = $async$currentError;
-              e = H.unwrapException($async$exception);
+              $async$exception1 = $async$currentError;
+              e = H.unwrapException($async$exception1);
               J.set$text$x(errorDiv, "Unable to load dictionary");
               J.set$text$x(statusDiv, "Try a hard refresh of the page and search again");
               P.print("Unable to load dictionary, error: " + H.S(e));
-              throw $async$exception;
+              throw $async$exception1;
               // goto after finally
               $async$goto = 5;
               break;
@@ -6051,7 +6078,7 @@
     $signature: 17
   };
   W.HttpRequestEventTarget.prototype = {};
-  W.InputElement.prototype = {$isTextInputElement: 1, $isCheckboxInputElement: 1};
+  W.InputElement.prototype = {$isInputElement: 1, $isTextInputElement: 1, $isCheckboxInputElement: 1};
   W._ChildNodeListLazy.prototype = {
     get$iterator: function(_) {
       var t1 = this._this.childNodes;
@@ -6553,6 +6580,7 @@
       Function: findType("Function"),
       Future_dynamic: findType("Future<@>"),
       HttpRequest: findType("HttpRequest"),
+      InputElement: findType("InputElement"),
       Iterable_Element: findType("Iterable<Element>"),
       Iterable_dynamic: findType("Iterable<@>"),
       JSArray_DictionaryCollectionIndex: findType("JSArray<DictionaryCollectionIndex>"),
@@ -6743,8 +6771,8 @@
     C.C__StringStackTrace = new P._StringStackTrace();
     C.JsonDecoder_null = new P.JsonDecoder(null);
     C.List_EgC = H.setRuntimeTypeInfo(makeConstList(["Scientific name: (.+?)(\\(|,|;)", "Sanskrit equivalent: (.+?)(\\(|,|;)", "P\u0101li: (.+?)(\\(|,|;)", "Pali: (.+?)(\\(|,|;)", "Japanese: (.+?)(\\(|,|;)", "Tibetan: (.+?)(\\(|,|;)"]), type$.JSArray_String);
+    C.List_ww8 = H.setRuntimeTypeInfo(makeConstList([1, 2, 3, 4, 5, 6]), H.findType("JSArray<int>"));
     C.List_y73 = H.setRuntimeTypeInfo(makeConstList(["a ", "an ", "to "]), type$.JSArray_String);
-    C.List_yTu = H.setRuntimeTypeInfo(makeConstList([1, 2, 3, 4, 5]), H.findType("JSArray<int>"));
   })();
   (function staticFields() {
     $._JS_INTEROP_INTERCEPTOR_TAG = null;
