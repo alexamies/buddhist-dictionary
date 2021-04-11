@@ -6353,8 +6353,11 @@
   X.Term.prototype = {};
   F.main_lookup.prototype = {
     call$1: function(evt) {
-      var results, term, dictEntries, counttDiv, entryDiv, ent, hwDiv, ul, li, senseOL, sense, senseLi, sensePrimary, pinyinSpan, posSpan, engSpan, notesDiv, source, sourceDiv, counttDiv0, ul0, sense0, li0, primaryDiv, secondaryDiv, pinyinSpan0, engSpan0, notesDiv0, notesSpan, sourceSpan, source0, t3, t4, t5, t6, t7, t8, t9, _i, t10, t11, t12, _i0, t13, t14, _i1, source1, sourceId, _this = this,
+      var results, term, dictEntries, counttDiv, entryDiv, ent, hwDiv, ul, li, senseOL, sense, senseLi, sensePrimary, pinyinSpan, posSpan, engSpan, notesDiv, source, sourceDiv, counttDiv0, ul0, sense0, li0, primaryDiv, secondaryDiv, pinyinSpan0, posSpan0, engSpan0, notesDiv0, notesSpan, sourceSpan, source0, t3, t4, t5, t6, t7, t8, t9, _i, t10, t11, t12, _i0, t13, t14, _i1, source1, sourceId, _this = this,
         _s9_ = "counttDiv",
+        _s18_ = "dict-entry-grammar",
+        _s21_ = "dict-entry-definition",
+        _s24_ = "dict-entry-notes-content",
         _s27_ = "dictionary source not found",
         t1 = _this.div,
         t2 = J.getInterceptor$x(t1);
@@ -6396,16 +6399,16 @@
               J.set$text$x(pinyinSpan, sense.pinyin + " ");
               sensePrimary.appendChild(t7._as(pinyinSpan));
               posSpan = t10.createElement("span");
-              posSpan.className = "dict-entry-grammar";
+              posSpan.className = _s18_;
               J.set$text$x(posSpan, sense.grammar + " ");
               sensePrimary.appendChild(t7._as(posSpan));
               engSpan = t10.createElement("span");
-              engSpan.className = "dict-entry-definition";
+              engSpan.className = _s21_;
               J.set$text$x(engSpan, sense.english + " ");
               sensePrimary.appendChild(t7._as(engSpan));
               senseLi.appendChild(t7._as(sensePrimary));
               notesDiv = t10.createElement("div");
-              notesDiv.className = "dict-entry-notes-content";
+              notesDiv.className = _s24_;
               J.set$text$x(notesDiv, sense.notes);
               senseLi.appendChild(t7._as(notesDiv));
               senseOL.appendChild(t7._as(senseLi));
@@ -6443,15 +6446,19 @@
             pinyinSpan0.className = "dict-entry-pinyin";
             J.set$text$x(pinyinSpan0, sense0.pinyin + " ");
             secondaryDiv.appendChild(t7._as(pinyinSpan0));
+            posSpan0 = t10.createElement("span");
+            posSpan0.className = _s18_;
+            J.set$text$x(posSpan0, sense0.grammar + " ");
+            secondaryDiv.appendChild(t7._as(posSpan0));
             engSpan0 = t10.createElement("span");
-            engSpan0.className = "dict-entry-equivalent";
+            engSpan0.className = _s21_;
             J.set$text$x(engSpan0, sense0.english + " ");
             secondaryDiv.appendChild(t7._as(engSpan0));
             li0.appendChild(t7._as(secondaryDiv));
             notesDiv0 = t10.createElement("div");
             notesDiv0.className = "dict-notes-div";
             notesSpan = t10.createElement("span");
-            notesSpan.className = "dict-entry-notes";
+            notesSpan.className = _s24_;
             if (sense0.notes !== "")
               J.set$text$x(notesSpan, "Notes: " + sense0.notes + " ");
             notesDiv0.appendChild(t7._as(notesSpan));

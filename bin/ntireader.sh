@@ -28,8 +28,7 @@ cnreader -html
 cnreader -tmindex
 cnreader -titleindex
 mkdir $WEB_DIR/dist
-cp web-resources/dist/*.css $WEB_DIR/dist/.
-cp web-resources/dist/*.js $WEB_DIR/dist/.
+cp web-resources/dist/* $WEB_DIR/dist/.
 cp web-resources/script/*.js $WEB_DIR/script/.
 cp web-resources/*.js $WEB_DIR/.
 cp web-resources/images/*.* $WEB_DIR/images/.
