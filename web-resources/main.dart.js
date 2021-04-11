@@ -3902,7 +3902,7 @@
       return new X.DictionaryReverseIndex(revIndex);
     },
     dictFromJson: function(jsonString, source) {
-      var lu, luid, hwid, s, t, p, e, g, n, sense, entries, entry, entries0, entry0, ex, t1, t2, t3, t4, s0, t5, p0, e0, g0, n0, t6, t7, t8, exception,
+      var lu, luid, hwid, s, t, p, e, g, n, sense, entries, entry, entries0, entry0, ex, t1, t2, t3, t4, s0, t5, p0, e0, g0, n0, exception,
         i = source.startHeadwords,
         entryMap = P.LinkedHashMap_LinkedHashMap$_empty(type$.String, type$.DictionaryEntries);
       for (t1 = J.get$iterator$ax(type$.List_dynamic._as(C.C_JsonCodec.decode$1(0, jsonString))), t2 = source.sourceId, t3 = type$.JSArray_Sense, t4 = type$.JSArray_DictionaryEntry; t1.moveNext$0();) {
@@ -3922,12 +3922,7 @@
           g = g0 == null ? "" : g0;
           n0 = J.$index$asx(lu, "n");
           n = n0 == null ? "" : n0;
-          t5 = H._asString(s);
-          t6 = H._asString(t);
-          t7 = H._asString(p);
-          t8 = H._asString(e);
-          H._asString(g);
-          sense = new X.Sense(luid, hwid, t5, t6, t7, t8, H._asString(n));
+          sense = new X.Sense(luid, hwid, H._asString(s), H._asString(t), H._asString(p), H._asString(e), H._asString(g), H._asString(n));
           entries = J.$index$asx(entryMap, s);
           if (entries == null || entries.entries.length === 0) {
             entry = new X.DictionaryEntry(H._asString(s), hwid, t2, H.setRuntimeTypeInfo([sense], t3));
@@ -3972,7 +3967,7 @@
       return new X.DictionaryCollectionIndex(entryMap);
     },
     headwordsFromJson: function(jsonString, source) {
-      var lu, luid, hwid, s, t, p, e, g, n, sense, entry, entry0, ex, t1, t2, t3, s0, t4, p0, e0, g0, n0, t5, t6, t7, exception,
+      var lu, luid, hwid, s, t, p, e, g, n, sense, entry, entry0, ex, t1, t2, t3, s0, t4, p0, e0, g0, n0, exception,
         i = source.startHeadwords,
         entryMap = P.LinkedHashMap_LinkedHashMap$_empty(type$.int, type$.DictionaryEntry);
       for (t1 = J.get$iterator$ax(type$.List_dynamic._as(C.C_JsonCodec.decode$1(0, jsonString))), t2 = source.sourceId, t3 = type$.JSArray_Sense; t1.moveNext$0();) {
@@ -3992,12 +3987,7 @@
           g = g0 == null ? "" : g0;
           n0 = J.$index$asx(lu, "n");
           n = n0 == null ? "" : n0;
-          t4 = H._asString(s);
-          t5 = H._asString(t);
-          t6 = H._asString(p);
-          t7 = H._asString(e);
-          H._asString(g);
-          sense = new X.Sense(luid, hwid, t4, t5, t6, t7, H._asString(n));
+          sense = new X.Sense(luid, hwid, H._asString(s), H._asString(t), H._asString(p), H._asString(e), H._asString(g), H._asString(n));
           entry = J.$index$asx(entryMap, s);
           if (entry == null)
             J.$indexSet$ax(entryMap, hwid, new X.DictionaryEntry(H._asString(s), hwid, t2, H.setRuntimeTypeInfo([sense], t3)));
@@ -4107,7 +4097,7 @@
     QueryResults: function QueryResults(t0) {
       this.terms = t0;
     },
-    Sense: function Sense(t0, t1, t2, t3, t4, t5, t6) {
+    Sense: function Sense(t0, t1, t2, t3, t4, t5, t6, t7) {
       var _ = this;
       _.luid = t0;
       _.hwid = t1;
@@ -4115,7 +4105,8 @@
       _.traditional = t3;
       _.pinyin = t4;
       _.english = t5;
-      _.notes = t6;
+      _.grammar = t6;
+      _.notes = t7;
     },
     Senses: function Senses(t0) {
       this.senses = t0;
@@ -4131,7 +4122,6 @@
         sources = P.LinkedHashMap_LinkedHashMap$_empty(type$.int, type$.DictionarySource);
       for (t1 = type$.InputElement, t2 = type$.CheckboxInputElement, _i = 0; _i < 6; ++_i) {
         sourceNum = C.List_ww8[_i];
-        H.printString("Finding source " + sourceNum);
         nameID = "#sourceName" + sourceNum;
         t3 = document;
         sourceCB = t3.querySelector(nameID);
@@ -6363,11 +6353,8 @@
   X.Term.prototype = {};
   F.main_lookup.prototype = {
     call$1: function(evt) {
-      var results, term, dictEntries, counttDiv, entryDiv, ent, hwDiv, ul, li, sense, pinyinSpan, engSpan, notesDiv, source, sourceDiv, counttDiv0, ul0, sense0, li0, primaryDiv, secondaryDiv, pinyinSpan0, engSpan0, notesDiv0, notesSpan, sourceSpan, source0, t3, t4, t5, t6, t7, t8, t9, _i, t10, t11, t12, _i0, t13, t14, _i1, source1, sourceId, _this = this,
+      var results, term, dictEntries, counttDiv, entryDiv, ent, hwDiv, ul, li, senseOL, sense, senseLi, sensePrimary, pinyinSpan, posSpan, engSpan, notesDiv, source, sourceDiv, counttDiv0, ul0, sense0, li0, primaryDiv, secondaryDiv, pinyinSpan0, engSpan0, notesDiv0, notesSpan, sourceSpan, source0, t3, t4, t5, t6, t7, t8, t9, _i, t10, t11, t12, _i0, t13, t14, _i1, source1, sourceId, _this = this,
         _s9_ = "counttDiv",
-        _s17_ = "dict-entry-pinyin",
-        _s21_ = "dict-entry-equivalent",
-        _s16_ = "dict-entry-notes",
         _s27_ = "dictionary source not found",
         t1 = _this.div,
         t2 = J.getInterceptor$x(t1);
@@ -6399,21 +6386,31 @@
             ul = t10.createElement("ul");
             entryDiv.appendChild(t7._as(ul));
             li = t10.createElement("li");
+            senseOL = t10.createElement("ol");
             for (t13 = ent.senses, t14 = t13.length, _i1 = 0; _i1 < t13.length; t13.length === t14 || (0, H.throwConcurrentModificationError)(t13), ++_i1) {
               sense = t13[_i1];
+              senseLi = t10.createElement("li");
+              sensePrimary = t10.createElement("div");
               pinyinSpan = t10.createElement("span");
-              pinyinSpan.className = _s17_;
+              pinyinSpan.className = "cnnotes-pinyin";
               J.set$text$x(pinyinSpan, sense.pinyin + " ");
-              li.appendChild(t7._as(pinyinSpan));
+              sensePrimary.appendChild(t7._as(pinyinSpan));
+              posSpan = t10.createElement("span");
+              posSpan.className = "dict-entry-grammar";
+              J.set$text$x(posSpan, sense.grammar + " ");
+              sensePrimary.appendChild(t7._as(posSpan));
               engSpan = t10.createElement("span");
-              engSpan.className = _s21_;
+              engSpan.className = "dict-entry-definition";
               J.set$text$x(engSpan, sense.english + " ");
-              li.appendChild(t7._as(engSpan));
+              sensePrimary.appendChild(t7._as(engSpan));
+              senseLi.appendChild(t7._as(sensePrimary));
               notesDiv = t10.createElement("div");
-              notesDiv.className = _s16_;
+              notesDiv.className = "dict-entry-notes-content";
               J.set$text$x(notesDiv, sense.notes);
-              li.appendChild(t7._as(notesDiv));
+              senseLi.appendChild(t7._as(notesDiv));
+              senseOL.appendChild(t7._as(senseLi));
             }
+            li.appendChild(t7._as(senseOL));
             ul.appendChild(t7._as(li));
             source1 = t9.$index(0, ent.sourceId);
             if (source1 == null)
@@ -6428,10 +6425,8 @@
           t10 = document;
           counttDiv0 = t10.createElement("div");
           counttDiv0.className = _s9_;
-          if (dictEntries.entries.length === 1)
-            J.set$text$x(counttDiv0, "Found 1 sense.");
-          else
-            J.set$text$x(counttDiv0, "Found " + term.senses.senses.length + " senses.");
+          term.toString;
+          J.set$text$x(counttDiv0, "Found " + term.senses.senses.length + " senses.");
           t2.get$children(t1).add$1(0, counttDiv0);
           ul0 = t10.createElement("ul");
           t2.get$children(t1).add$1(0, ul0);
@@ -6445,18 +6440,18 @@
             secondaryDiv = t10.createElement("div");
             secondaryDiv.className = "dict-sense-secondary";
             pinyinSpan0 = t10.createElement("span");
-            pinyinSpan0.className = _s17_;
+            pinyinSpan0.className = "dict-entry-pinyin";
             J.set$text$x(pinyinSpan0, sense0.pinyin + " ");
             secondaryDiv.appendChild(t7._as(pinyinSpan0));
             engSpan0 = t10.createElement("span");
-            engSpan0.className = _s21_;
+            engSpan0.className = "dict-entry-equivalent";
             J.set$text$x(engSpan0, sense0.english + " ");
             secondaryDiv.appendChild(t7._as(engSpan0));
             li0.appendChild(t7._as(secondaryDiv));
             notesDiv0 = t10.createElement("div");
             notesDiv0.className = "dict-notes-div";
             notesSpan = t10.createElement("span");
-            notesSpan.className = _s16_;
+            notesSpan.className = "dict-entry-notes";
             if (sense0.notes !== "")
               J.set$text$x(notesSpan, "Notes: " + sense0.notes + " ");
             notesDiv0.appendChild(t7._as(notesSpan));

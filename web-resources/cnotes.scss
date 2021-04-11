@@ -144,12 +144,12 @@ a {
 }
 
 /* Dictionary Entry style */
-span.dict-entry-headword {
+.dict-entry-headword {
     font-size: 200%;
     font-weight: normal;
 }
 
-span.dict-entry-pinyin {
+.dict-entry-pinyin {
     font-style: italic;
 }
 
@@ -165,6 +165,18 @@ span.dict-entry-definition {
 
 span.dict-entry-notes {
     font-weight: bold;
+}
+
+.dict-entry-source {
+  padding: 10px 0px 15px 0px;
+  font-size: medium;
+}
+
+/* Multilingual lookup */
+fieldset.source-form-element {
+  margin: 20;
+  padding: 20;
+  border: 0;
 }
 
 /* Query terms decomposition table */
