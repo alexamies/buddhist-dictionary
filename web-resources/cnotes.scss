@@ -25,10 +25,6 @@ a.regular {
   color: blue;
 }
 
-a.regular-on-dark {
-  text-decoration: underline;
-}
-
 .mdc-drawer-app-content {
   flex: auto;
   overflow: auto;
@@ -68,6 +64,7 @@ a.title--mdc-theme-on-primary {
 
 .footer-link {
   color: $mdc-theme-background;
+  text-decoration: underline;
 }
 
 .cnotes-header {
