@@ -22,8 +22,11 @@ body {
 
 /* Normal blue link with underline */
 a.regular {
-  color: inherit;
-  text-decoration: inherit;
+  color: blue;
+}
+
+a.regular-on-dark {
+  text-decoration: underline;
 }
 
 .mdc-drawer-app-content {
