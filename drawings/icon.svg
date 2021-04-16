@@ -34,7 +34,7 @@
      inkscape:window-width="1440"
      showgrid="false"
      inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-units="mm"
      inkscape:cy="493"
      inkscape:cx="317.68729"
@@ -76,12 +76,12 @@
      id="layer2"
      inkscape:groupmode="layer">
     <g
-       id="g1522"
-       style="">
+       transform="translate(0.52916667)"
+       id="g1522">
       <text
          xml:space="preserve"
          id="text1430"
-         style="font-style:normal;font-weight:normal;font-size:4.68367999999999984px;line-height:1.25;font-family:sans-serif;shape-inside:url(#rect1432);fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'sans-serif Normal';font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.68368px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1432);fill:#000000;fill-opacity:1;stroke:none"
          transform="matrix(5.1755764,0,0,4.4898271,-265.23537,-367.91092)"><tspan
            x="61.988281"
            y="107.08166"
