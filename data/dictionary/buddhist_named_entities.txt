@@ -947,8 +947,8 @@
 7000947	归元禅寺	歸元禪寺	Guīyuán Chán Sì	Guiyuan Temple	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	(Wikipedia '归元寺')	7000947
 7000948	宝通禅寺	寶通禪寺	Bǎotōng Chán Sì	Baotong Temple	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	(Wikipedia '宝通寺')	7000948
 7000949	摩腾	摩騰	móténg	Kasyapamatanga	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	One of the first Indian monks to travell to China, sometime in the Eastern Han (BSAD '攝摩騰', ID A000883)	7000949
-7000950	鹫峰	鷲峰	Jiù Fēng	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	See 靈鷲山 (FGDB '耆闍崛山')	7000950
-7000951	灵鹫山	靈鷲山	Língjiù Shān	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit gṛdhrakūṭa / gṛdhrakūtaparvata, Pali Gijjhakūṭa / Gijjhakūṭapabbata, Japanese: Ryōjusen; literally gṛdhra 'vulture' + kūṭa 'peak'. A mountain range in Central India northeast of Rajgir, the capital of Magadha.  It is mentioned in Buddhist texts (BL, 'Gṛdhrakūtaparvata'; FGDB '靈鷲山'; FGDB '耆闍崛山'; MW 'gṛdhrakūṭa').	7000951
+7000950	鹫峰	鷲峰	Jiù Fēng	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '耆闍崛山')	7000950
+7000951	灵鹫山	靈鷲山	Língjiù Shān	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit gṛdhrakūṭa, or: gṛdhrakūtaparvata, Pali Gijjhakūṭa, or: gijjhakūṭapabbata, Japanese: Ryōjusen, Tibetan: By a rgod phung po'i ri; literally gṛdhra 'vulture' + kūṭa 'peak'. A mountain range in Central India northeast of Rajgir, the capital of Magadha, mentioned in Buddhist texts (BL, 'Gṛdhrakūtaparvata', p. 327; FGDB '靈鷲山'; FGDB '耆闍崛山'; MW 'gṛdhrakūṭa').	7000951
 7000952	查得欧寺	查得歐寺	Chá Dé Ōu Sì	Wat Chedi Chet Thaeo Temple	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	Located in the Si Satchanalai Historical Park (FGS Encyclopedia of Buddhist Arts; Wikipedia '色果查姆寺')	7000952
 7000953	距昌隆寺	\N	Jùchānglóng Sì	Wat Chang Lom Temple	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	Located in the Sukhothai Historical Park (FGS Encyclopedia of Buddhist Arts; Wikipedia '泰国寺庙列表')	7000953
 7000954	碧邁佛塔	碧迈佛塔	Bìmài Fótǎ	Prasat Hin Phimai Tower	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	(FGS Encyclopedia of Buddhist Arts; Wikipedia '披邁石宮')	7000954
@@ -3882,7 +3882,7 @@
 7003882	迦毗罗	迦毗羅	jiāpíluó	Kapilavastu / Kapilavatthu	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 迦毘羅衛 (FGDB '迦毘羅衛')	7003882
 7003883	八十八佛忏悔文	八十八佛懺悔文	Bāshíbā Fó Chànhuǐ Wén	Eighty Eight Buddhas Repentance Text	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '除夜會')	7003883
 7003884	鹿野苑	\N	lùyěyuàn	Mṛgadāva / Deer Park	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: mṛgadāva, Pali: migadāya, Japanese: Rokuyaon; located Sārnāth 沙爾那斯. Mṛgadāva 'Deer Park' is the location that the Buddha first taught the Dharma, described as the first turning of the Dharma Wheel (BL 'Mṛgadāva', p. 549; FGDB '鹿野苑'; SH '鹿苑')	7003884
-7003885	耆阇崛山	耆闍崛山	qíshéjué shān	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	See 靈鷲山 (FGDB '靈鷲山')	7003885
+7003885	耆阇崛山	耆闍崛山	qíshéjué shān	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	7003885
 7003886	罗摩伽国	羅摩伽國	luómójiāguó	Ramagrama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An original stupa containing relics of the Buddha, built in 6th century BCE. See 藍摩國 (FGDB '藍摩國')	7003886
 7003887	鹿野	\N	lùyě	Mṛgadāva / Deer Park	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	See 鹿野苑 (FGDB '鹿野苑')	7003887
 7003888	金光明最胜王经	金光明最勝王經	Jīn Guāng Míng Zuì Shèng Wáng Jīng	Golden Light Sutra / Suvarnaprabhasa-sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(FGDB '金光明最勝王經'; T 665)	7003888
@@ -3890,7 +3890,7 @@
 7003890	药师琉璃光七佛本愿功德经	藥師琉璃光七佛本願功德經	Yàoshī Liúlí Guāng Qī Fó Běn Yuàn Gōngdé Jīng	Saptatathāgatapūrvapraṇidhānaviśeṣavistara / Yaoshi Liuli Guang Qi Fo Ben Yuan Gongde Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Saptatathāgatapūrvapraṇidhānaviśeṣavistara; the title of a text in the Chinese Buddhist canon (KDC 178; T 451)	7003890
 7003891	观音殿	觀音殿	Guānyīn diàn	Avalokitesvara Shrine	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	7003891
 7003892	金佛殿	\N	Jīn Fó diàn	Golden Buddha Shrine	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	7003892
-7003893	灵山	靈山	Líng shān	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	See 靈鷲山 (FGDB '靈鷲山')	7003893
+7003893	灵山	靈山	Líng shān	Gṛdhrakūtaparvata / Grdhrakuta / Gṛdhrakūṭa / Gijjha-kūta / Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	7003893
 7003894	国际佛光会	國際佛光會	Guójì Fóguāng Huì	Buddha's Light International Association (BLIA)	proper noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	(FoguangPedia)	7003894
 7003895	菩提迦耶	\N	pútíjiāyē	Bodh Gaya / Bodhgayā	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 菩提伽耶 (FGDB '菩提伽耶')	7003895
 7003896	帝释所问经	帝釋所問經	Dìshì Suǒ Wèn Jīng	Śakraparipṛcchā Sūtra / Sakkapañhasutta	proper noun	经	Sutra	佛教	Buddhism	Theravāda	上座部佛教	\N	\N	Sanskrit equivalent: śakraparipṛcchā, related to Sakkapañhasutta in the Pāli Canon (T 15; KDC 'K 1252'; Dīgha Nikāya 21)	7003896
@@ -5941,3 +5941,19 @@
 7005941	五祖法演	\N	Wǔzǔ Fǎyǎn	Wuzu Fayan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	-1104, Chinese Buddhist monastic from the Linji sect of the Chan school, the master of 圜悟克勤 Yuanwu Keqin (FGDB '五祖法演'; T 1995)	7005941
 7005942	无门慧开	無門慧開	Wúmén Huìkāi	Wumen Huikai	proper noun	法师	Monastic	佛教	Buddhism	禅宗	Chan	\N	\N	1183-1260; Buddhist monk from the Chan tradtition, known for writing 無門關'Gateless Checkpoint'(BL 'wúménhuìkāi'; FGDB '無門慧開')	7005942
 7005943	慧开	慧開	Huìkāi	Wumen Huikai	proper noun	法师	Monastic	佛教	Buddhism	禅宗	Chan	\N	\N	See 無門慧開 (FGDB '無門慧開')	7005943
+7005944	释迦传	釋迦傳	shìjiā zhuàn	The Biography of Sakyamuni Buddha	proper noun	书名	Book Title	佛教	Buddhism	中国	China	\N	\N	(Hsing Yun and Miao Guang trans. 2016, p. 374)	7005944
+7005945	其鷄	\N	qíjī	Gṛdhrakūtaparvata; Grdhrakuta; Gṛdhrakūṭa; Gijjha-kūta; Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	7005945
+7005946	雨势经	雨勢經	yǔshìjīng	Varsakara Sutra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	(Ding '雨勢經'; Hsing Yun and Miao Guang trans. 2016, p. 374)	7005946
+7005947	曹溪	\N	cáoqī	Caoqi	proper noun	水名	River	佛教	Buddhism	\N	\N	\N	\N	The name of a stream near Shaozhou, Guangdong, visited by Huineng. The name is associated with the school Huineng founded (Ding '曹溪'; FGDB '曹溪'; SH '曹溪')	7005947
+7005948	般若	\N	bōrě	Prajñā	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	734-?; Indian monastic who travelled to China (FGDB '般若' 2)	7005948
+7005949	十住断结经	十住斷結經	shízhùduànjiéjīng	Shi Zhu Duan Jie Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 最勝問菩薩十住除垢斷結經 (FGDB '十住斷結經')	7005949
+7005950	十千日光三昧定	\N	shíqiānrìguāngsānmèidìng	Shi Qian Riguang Sanmei Ding	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 最勝問菩薩十住除垢斷結經 (FGDB '十住斷結經')	7005950
+7005951	至元法宝勘同总录	至元法寶勘同總錄	Zhìyuán Fǎbǎo Kāntóng Zǒnglù	Zhiyuan Fabao Kantong Zonglu; Zhiyuan Lu	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	A catalog of canonical texts compiled in 1285 (FGDB '至元法寶勘同總錄')	7005951
+7005952	至元录	至元錄	Zhìyuánlù	Zhiyuan Fabao Kantong Zonglu; Zhiyuan Lu	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 至元法寶勘同總錄 (FGDB '至元法寶勘同總錄')	7005952
+7005953	建中靖国续灯录	建中靖國續燈錄	jiànzhōng jìngguó xù dēng lù	Supplementary Record of Lamp Transmission during the Jianzhong Jingguo Period	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	A Chan text compiled in the Song (FGDB '建中靖國續燈錄'; Wu 2016, loc. 597)	7005953
+7005954	传法正宗	傳法正宗	chuánfǎzhèngzōng	Chuanfa Zhengzong; The True Transmission of the Dharma	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 傳法正宗記 (T 2078)	7005954
+7005955	祐录	祐錄	yòulù	Collection of Records Concerning the Chinese Buddhist Canon; Compilation of Notices on the Translation of the Tripiṭaka; Chu San Zang Ji Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 出三藏記集 (FGDB '出三藏記集')	7005955
+7005956	开皇三宝录	開皇三寶錄	Kāi Huáng Sān Bǎo Lù	Record of the Three Jewels throughout Successive Dynasties; Lidai San Bao Ji; Records of the Three Jewels during the Kaihuang Period; Fei Changfang's Record	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 歷代三寶紀 (FGDB '歷代三寶紀')	7005956
+7005957	开皇录	開皇錄	Kāi Huánglù	Record of the Three Jewels throughout Successive Dynasties; Lidai San Bao Ji; Records of the Three Jewels during the Kaihuang Period; Fei Changfang's Record	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 歷代三寶紀 (FGDB '歷代三寶紀')	7005957
+7005958	三宝录	三寶錄	Sān Bǎolù	Record of the Three Jewels throughout Successive Dynasties; Lidai San Bao Ji; Records of the Three Jewels during the Kaihuang Period; Fei Changfang's Record	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 歷代三寶紀 (FGDB '歷代三寶紀')	7005958
+7005959	房录	房錄	fánglù	Record of the Three Jewels throughout Successive Dynasties; Lidai San Bao Ji; Records of the Three Jewels during the Kaihuang Period; Fei Changfang's Record	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 歷代三寶紀 (FGDB '歷代三寶紀')	7005959
