@@ -9,6 +9,7 @@
 ../html/buddhist_dictionary_templates.html	buddhist_dictionary_templates.html	reference-template.html	true
 ../html/buddhist_style_guide.html	buddhist_style_guide.html	reference-template.html	true
 ../html/buddhistterminology.html	buddhistterminology.html	lookup-template.html	true
+../html/chrome_extension.html	chrome_extension.html	about-template.html	false
 ../html/collection.html	collection.html	reference-template.html	false
 ../html/corpus.html	corpus.html	texts-template.html	false
 ../html/dict_resources.html	dict_resources.html	reference-template.html	false
@@ -17,6 +18,7 @@
 ../html/help2.html	help2.html	reference-template.html	true
 ../html/help3.html	help3.html	reference-template.html	true
 ../html/index.html	index.html	index-template.html	false
+../html/mahavyutpatti_chrome_extension.html	mahavyutpatti_chrome_extension.html	about-template.html	false
 ../html/manji.html	manji/manji.html	texts-template.html	false
 ../html/multilingual_lookup.html	multilingual_lookup.html	about-template.html	false	Multilingual Lookup
 ../html/ntireader_metadata.html	ntireader_metadata.html	reference-template.html	false
