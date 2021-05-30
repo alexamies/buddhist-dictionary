@@ -48,11 +48,7 @@ npm run build
 ```
 # Install Go lang
 
-cd chinesenotes.com/go/
-source path.bash.inc
-cd src/cnreader
-go build cnreader
-cd $HOME
+cd buddhist-dictionary
 bin/ntireader.sh
 ```
 
