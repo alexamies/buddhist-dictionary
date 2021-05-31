@@ -148,3 +148,26 @@
 8000148	斋僧	齋僧	zhāisēng	to provide a meal for monastics	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '齋僧'; Guoyu '齋僧'; Mathews 1931 '齋僧', p. 12; SH '齋僧', p. 464)	8000148
 8000149	僧斋	僧齋	sēngzhāi	to provide a meal for monastics	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 齋僧 (FGDB '齋僧')	8000149
 8000150	三皈依	\N	sān guīyī	to take refuge in the triple gem	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三歸依 (FGDB '三歸依')	8000150
+8000151	千手千眼观世音大悲心陀罗尼	千手千眼觀世音大悲心陀羅尼	qiān shǒu qiān yǎn guānshìyīn dàbēi xīn tuóluóní	Thousand Hands and Thousand Eyes Avalokitesvara Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000151
+8000152	千手千眼观世音菩萨大身咒	千手千眼觀世音菩薩大身咒	qiān shǒu qiān yǎn guānshìyīn púsà dàshēn zhòu	Thousand Hands and Thousand Eyes Avalokitesvara Bodhisattva Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000152
+8000153	广大圆满无碍大悲心陀罗尼	廣大圓滿無礙大悲心陀羅尼	guǎngdà yuánmǎn wú'ài dàbēixīn tuóluóní	Perfect Unhindered Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000153
+8000154	大悲心陀罗尼	大悲心陀羅尼	dàbēixīn tuóluóní	Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000154
+8000155	大悲咒	\N	dà bēi zhòu	Great Compassion Dharani; Great Compassion Mantra	proper noun	咒	Dharani	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Nīlakantha dhāranī, Mahā Karuṇā Dhāranī, Japanese: Daihiju (BL'Dabei zhou', p. 205; FGDB '大悲咒'; SH '大悲咒', p. 88)	8000155
+8000156	唵	\N	ǎn	om	particle	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ ॐ (Ding '唵'; FGDB '唵'; SH '唵', p. 343)	8000156
+8000157	须菩提	須菩提	xūpútí	Subhuti; Subhūti	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: subhūti, Pali: subhūti, Japanese: Shubodai, Tibetan: rab 'byor; first in understanding of emptiness. Subhūti was the son of a Brahmin from Śrāvastī. He left his family to practice in the forest. After following the Buddha he became an Arhat (BL 'Subhūti', pp. 861-862; FGDB '須菩提'; Tzu Chuang 2012, p. 85; SH '須菩提', p. 394)	8000157
+8000158	灭度	滅度	mièdù	to extinguish worries and the sea of grief	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '滅度', p. 405)	8000158
+8000159	灭度	滅度	Mièdù	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (SH '涅槃', p. 328)	8000158
+8000160	比丘	\N	bǐqiū	bhiksu; a monk; bhikṣu; bhikkhu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣu, Pāli: Bhikkhu, Japanese: biku, Tibetan: dge slong (BL 'bhikṣu', p. 115; Tzu Chuang 2012, p. 30; FGDB '比丘')	8000160
+8000161	世尊	\N	shìzūn	World-Honored One; Bhagavat; Bhagavān; Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavat, Pali: bhagavat, Japanese: seson, Tibetan: bcom ldan 'das; one of the ten epithets of a Buddha 佛陀十号, means that the Buddha is honored throughout the world and that he is the most senior monk; FGS translation standard: World-Honored One (BL 'bhagavat', p. 108; Tzu Chuang 2012, p. 205; Mahāvyutpatti 'bhagavān'; FGDB '世尊'; Giles 1892 '世'; Red Pine 2012, loc. 5605; SH '世尊', p. 164)	8000161
+8000162	白佛	\N	bái fó	to address the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '白佛', p. 198)	8000162
+8000163	破邪显正	破邪顯正	pòx ié xiǎn zhèng	to destroy evil and manifest righteousness	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '破邪顯正'; Guoyu '破邪顯正')	8000163
+8000164	破邪申正	\N	pò xié shēn zhèng	to destroy evil and manifest righteousness	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 破邪顯正 (FGDB '破邪顯正')	8000164
+8000165	如来	如來	rúlái	Thus-Come (tathagata); Tathāgata; Thus Come One	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata, Pali: tathāgata, Japanese: ny orai, Tibetan: de bzhin gshegs pa; one of the ten epithets of the Buddha 佛陀十号, literally meaning 'Thus Come' (tathā + āgata) or 'Thus Gone' (tathā + gata) in Sanskrit but decidedly meaning 'Thus Come One' in Chinese (BL 'tathāgata', p. 897; Conze, 1973, p. 323; Mahāvyutpatti 'tathāgataḥ'; FGDB '如來'; SH '如來', p. 210; Tzu Chuang 2012, p. 202)	8000165
+8000166	虚妄	虛妄	xūwàng	not real; illusory	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '虛妄'; FGDB '虛妄'; SH '虛妄'; Sharf 2005, p. 282)	8000166
+8000167	受持	\N	shòuchí	to accept and maintain faith; to uphold	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udgrahaṇa; the Sanskrit word literally means 'taking up, lifting up.' 受持 has the same sense as the Chinese word 领受 'to accept' (FGS UBD '受持'; MW 'udgrahaṇa')	8000167
+8000168	陀阿伽陀	\N	tuóājiātuó	Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata (FGDB '如來')	8000168
+8000169	多他阿伽度	\N	duōtā'ājiādù	Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata (FGDB '如來')	8000169
+8000170	多陀阿伽度	\N	duōtuóājiādù	Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata (FGDB '如來')	8000170
+8000171	怛萨阿竭	怛薩阿竭	dásà'ājié	Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata (FGDB '如來')	8000171
+8000172	怛他誐多	\N	dátā'éduō	Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata (FGDB '如來')	8000172
+8000173	多阿竭	\N	duōājié	Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathāgata (FGDB '如來')	8000173
