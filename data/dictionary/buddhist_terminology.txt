@@ -221,7 +221,7 @@
 8000221	达磨驮都	達磨馱都	dámóduòdōu	dharmadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhātu; see 法界 (FGDB '達磨馱都')	8000221
 8000222	法界	\N	fǎjiè	a dharma realm; dharmadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhātu, Pali: dhammadhātu, Japanese: hokkai, Tibetan: chos kyi dbyings; either a world or the entire world (BCSD '法界'; BL 'dharmadhātu', p. 244; FGDB '法界'; SH '法界', p. 271)	8000222
 8000223	人天	\N	réntiān	people and devas; all living things	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '人天'; SH '人天', p. 32)	8000223
-8000224	戒行	\N	jièháng	to abide by precepts	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '戒行'; FGDB '戒行')	8000224
+8000224	戒行	\N	jièxíng	to abide by precepts	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '戒行'; FGDB '戒行'; Guoyu '戒行'; Mathews 1931 '戒行', p. 85)	8000224
 8000225	愧	\N	kuì	shame; decorum; propriety	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apatrāpya, Pali: ottappa, Japanese: gi, Tibetan: khrel yod pa (BL 'apatrāpya', p. 57; FGDB '愧')	8000225
 8000226	无贪	無貪	wútān	non-attachment; alobha	proper noun	心所	Mental Factor	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: alobha, Pali: alobha, Japanese: muton, Tibetan: ma chags pa; one of the 三善根 three wholesome roots (BL 'alobha', p. 32; FGDB '無貪'; SH '三善根', p. 62)	8000226
 8000227	三善根	\N	sānshàngēn	three wholesome roots	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely:  無貪 no greed, 無瞋 no anger, and 無痴 no ignorance (FGDB '三善根'; SH '三善根', p. 62)	8000227
@@ -563,7 +563,7 @@
 8000563	极乐世界	極樂世界	jílè shìjiè	Western Pure Land; Sukhāvatī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sukhāvatī, Japanese: gokurakujōdo, Tibetan: bde ba can; a 佛刹 'Buddha field' or 淨土 'pure land' established by Amitābha 阿彌陀佛 (BL 'sukhāvatī', p. 867; FGDB '極樂世界')	8000563
 8000564	观无量寿经	觀無量壽經	Guān Wú Liàng Shòu Jīng	Contemplation Sutra; Sutra on the Visualization of Immeasurable Life; Guan Wuliangshou jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: *Amitāyurdhyānasūtra; Japanese: Kan Muryōjukyō; Known by the title 觀無量壽佛經 in the Taisho (BL 'Guan Wuliangshou jing'; Ding '觀無量壽經', FGDB '觀無量壽經', SH '觀無量壽經', p. 490; KDC 191; T 365)	8000564
 8000565	无量寿佛观经	無量壽佛觀經	wúliàngshòu fó guān jīng	Contemplation Sutra; Sutra on the Visualization of Immeasurable Life; Guan Wuliangshou jing	set phrase	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 觀無量壽經 (FGDB '觀無量壽經')	8000565
-8000566	山门	山門	shānmén	temple main gate; mountain gate	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	FGS translation standard: Mountain Gate (Tzu Chuang 2012; FoguangPedia)	8000566
+8000566	山门	山門	shānmén	temple main gate; mountain gate	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012; FoguangPedia)	8000566
 8000567	四大天王	\N	Sì Dà Tiān Wáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caturmahārāja, the four guardians or warrior attendants of Buddha (SH '四大天王', p. 173)	8000567
 8000568	金刚法界宫	金剛法界宮	jīngāng fǎjiè gōng	Vajra Dharmadhatu Palace	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The palace of Vairocana (Giebel 2005, p. 3; SH '金剛法界宮', p. 282; T 848, Scroll 1, 1a09)	8000568
 8000569	持金刚	持金剛	chí jīngāng	vajradhara	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajradhara, Japanese: Kongōji, Tibetan: rdo rje 'chang; literally, holder of a thunderbolt (BL 'vajradhara'; Giebel 2005, p. 3; SH '持金剛', p. 303; T 848, Scroll 1, 1a09)	8000569
@@ -596,8 +596,16 @@
 8000596	摩诃毘卢遮那	摩訶毘盧遮那	móhēpílúzhēnà	Mahavairocana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大日如來 (SH '大日', p. 90)	8000596
 8000597	大日觉王	大日覺王	dàrì jué wáng	Enlightened Lord Vairocana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An epithet for Vairocana; see 大日如來 (FGDB '大日如來'; SH '大日', p. 90)	8000597
 8000598	挂单	掛單	guà dān	temporary monastic lodging; to stay overnight at a monastery	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (Tzu Chuang 2012, p. 339; FGDB '掛搭')	8000598
-8000599	早课	早課	zǎo kè	morning chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means morning class but, in fact, it is chanting (Bentor, Y. and Shahar, M., 2017. Chinese and Tibetan Esoteric Buddhism. Brill)	8000599
-8000600	禅堂	禪堂	chán táng	meditation hall	noun	建筑物	Building	佛教	Buddhism	\N	\N	\N	\N	(Ding '禪堂'; FE '禪堂'; FGDB '禪堂'; SH '禪堂')	8000600
-8000601	晚课	晚課	wǎn kè	evening chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means evening class but, in fact, it is chanting	8000601
-8000602	水陆法会	水陸法會	Shuǐ Lù Fǎhuì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	\N	8000602
+8000599	早课	早課	zǎo kè	morning chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means morning class but, in fact, it is chanting (DDB '早課'; Guoyu '早課')	8000599
+8000600	禅堂	禪堂	chán táng	meditation hall	noun	建筑物	Building	佛教	Buddhism	\N	\N	\N	\N	(Ding '禪堂'; FE '禪堂'; FGDB '禪堂'; SH '禪堂', p. 459)	8000600
+8000601	晚课	晚課	wǎn kè	evening chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means evening class but, in fact, it is chanting (Guoyu ''晚課)	8000601
+8000602	水陆法会	水陸法會	Shuǐ Lù Fǎhuì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	See 水陸會 (FGDB '水陸會')	8000602
 8000603	木鱼	木魚	mù yú	a wooden fish	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used in Dharma services and in decorating temples (SH '木魚', p. 158)	8000604
+8000604	水陆会	水陸會	Shuǐ Lù Huì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	(Ding '水陸會'; FGDB '水陸會'; SH '水陸會', p. 160)	8000604
+8000605	悲济会	悲濟會	Bēi Jì Huì	Bei Ji Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	Alternate name for 水陸會 Water and Land Service; see 水陸會 (FGDB '水陸會')	8000605
+8000606	法事	\N	fǎ shì	a Dharma event	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法事'; SH '法事', p. 268)	8000606
+8000607	密教	\N	mìjiào	esoteric teachings; esoteric Buddhism; Mikkyō	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Japanese: Mikkyō (BL 'Mikkyō'; FGDB '中國密教'; Sharf 2005, p. 264)	8000607
+8000608	冥途	\N	míngtú	the dark way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 冥道 (SH '冥道', p. 322)	8000608
+8000609	冥土	\N	míngtǔ	the dark abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Similar to 冥道 (SH '冥道', p. 322)	8000609
+8000610	开元三大士	開元三大士	kāiyuán sān dà shì	three great sages of Kaiyuan	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Namely, 善無畏Subhakarasimha, 金剛智 Vajrabodhi, and 不空 Amoghavajra; known for the introduction of Esoteric Buddhism into China in the Kaiyuan reign of the Tang dynasty (FGDB '開元三大士')	8000610
+8000611	冥道	\N	míngdào	the gateway to the ghost world	proper noun	\N	\N	佛教	Buddhism	密宗	Esoteric Buddhism	\N	\N	(SH '冥道', p. 322)	8000611
