@@ -3218,7 +3218,7 @@
 7003218	贤愚经	賢愚經	Xián Yú Jīng	Sutra on the Wise and Foolish / Damamūka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: damamūka; title of a text in the Chinese Buddhist canon (T 202; KDC 'K 983'; Ding '賢愚經'; FGDB '賢愚經'; Hsing Yun and Miao Guang trans. 2016, p. 374)	7003218
 7003219	父母恩重经	父母恩重經	Fùmǔ Ēn Zhòng Jīng	Sutra on the Profound Kindness of Parents	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(FGDB '父母恩重經')	7003219
 7003220	刘萨诃	劉薩訶	Liú Sà Hē	Liu Sa He	proper noun	高僧	Senior monk	佛教	Buddhism	\N	\N	\N	\N	Northern Wei, first Chinese monk to go to India to obtain sutras (FGDB '阿育王寺')	7003220
-7003221	宾头卢	賓頭盧	bīntóulú	Pindola / Piṇḍola / The Tiger Subduing Arhat / Pindolabharadvaja	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Piṇḍola; FGS translation standard: The Tiger Subduing Arhat / Pindolabharadvaja (Ding '賓頭盧'; Tzu Chuang 2012; FGDB '賓頭盧')	7003221
+7003221	宾头卢	賓頭盧	bīntóulú	Pindola / Tiger Subduing Arhat / Pindolabharadvaja	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: piṇḍola; Piṇḍola-Bhāradvāja, the Tiger Subduing Arhat (BL 'Piṇḍola-Bhāradvāja'; Ding '賓頭盧'; FGDB '賓頭盧'; Tzu Chuang 2012)	7003221
 7003222	东胜身洲	東勝身洲	dōng shèngshēn zhōu	Purva-videha / Purvavideha / Pubbavideha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit Pūrvavideha, one of the four Earthly realms, located in the east; FGS translation standard: Purva-videha; See also 毘提訶 (FGBD '毘提訶洲'; Tzu Chuang 2012)	7003222
 7003223	东胜神洲	東勝神洲	Dōng Shèng Shén Zhōu	Purvavideha / Pubbavideha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 毘提訶 (FGBD '毘提訶洲')	7003223
 7003224	东毗提诃洲	東毗提訶洲	Dōng Pí Tí Hē Zhōu	Purvavideha / Pubbavideha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 毘提訶 (FGBD '毘提訶洲')	7003224
@@ -6399,3 +6399,15 @@
 7006399	憍梵钵提	憍梵鉢提	jiāofànbōtí	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (SH '憍梵', p. 433)	7006399
 7006400	迦梵波提	\N	jiāfànbōtí	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (SH '憍梵', p. 433)	7006400
 7006401	笈房钵底	笈房鉢底	jífángbōdǐ	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (SH '憍梵', p. 433)	7006401
+7006402	憍梵跋提	\N	jiāofànbátí	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006402
+7006403	笈房钵底	笈房鉢底	jífángbōdǐ	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006403
+7006404	伽婆跋帝	\N	jiāpóbádì	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006404
+7006405	伽梵波提	\N	jiāfànbōtí	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006405
+7006406	伽傍簸帝	\N	jiāpángbǒdì	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006406
+7006407	迦为拔抵	迦為拔抵	jiāwèibádǐ	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006407
+7006408	憍恒钵	憍恆鉢	jiāohéngbō	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006408
+7006409	房钵底	房鉢底	fángbōdǐ	Gavampati	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 憍梵波提 (FGDB '憍梵波提')	7006409
+7006410	宾头卢颇罗堕	賓頭盧頗羅墮	Bīntóulúpōluóduò	Pindola	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 賓頭盧 (FGDB '賓頭盧')	7006410
+7006411	迦留陀夷	\N	Jiāliútuóyí	Kalodayin; Kālodāyin; Kaludayin	proper noun	人	Person	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: kālodāyin, Pali: kāḷudāyin, Japanese: Karudai, Tibetan: 'char byed nag po; one of the Buddha's disciples (BL 'kālodāyin'; Ding '迦留陀夷'; FGDB '迦留陀夷'; Karashima 2001 '迦留陀夷'; SH '迦留陀夷', p. 316)	7006411
+7006412	摩诃劫宾那	摩訶劫賓那	Móhējiébīnnà	Mahākapphiṇa	proper noun	人	Person	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: mahākapphiṇa, Pali: mahākappina, Japanese: Makakōhinna, Tibetan: ka pi na chen po; one of the Buddha's direct disciples (BL 'Mahākapphiṇa'; FGDB '摩訶劫賓那')	7006412
+7006413	薄俱罗	薄俱羅	báojūluó	Bakkula; Vakkula	proper noun	人	Person	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 薄拘羅 (BL 'Bakkula')	7006413
