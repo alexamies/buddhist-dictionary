@@ -62,7 +62,7 @@
 8000062	法	\N	fǎ	a dharma; a dhárma; a natural law; teachings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrt: dhárma, Pali: dhamma. This sense is used in Buddhism, Hinduism, and Jainism with a number of related meanings. In Hinduism, dhárma literally means 'that which is held together.' (BL 'dharma', p. 242; FGDB '法'; Kroll 2015 '法' 5, p. 104; Mittal and Thursby 2006, p19; SH '一法', p. 7)	8000061
 8000063	法	\N	fǎ	a mental object; a phenomenon; dharma; a thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrt: dhárma, Pali: dhamma; a basic unit of existence or experience (BL 'dharma', p. 242; FGDB '法')	8000061
 8000064	法	\N	fǎ	quality; characteristic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrt: dhárma, Pali: dhamma; in Buddhist logic (BL 'dharma', p. 242; FGDB '法')	8000061
-8000065	萨	薩	sà	sādhu; excellent	interjection	\N	\N	现代汉语	Modern Chinese	外语	Foreign Language	\N	\N	Same as 善哉 (FGDB '善哉')	8000065
+8000065	萨	薩	sà	sādhu; excellent	interjection	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 善哉 (FGDB '善哉')	8000065
 8000066	大乘	\N	dàshèng	Mahayana Buddhism; Mahāyāna; Mahāyāna Buddhism	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: mahāyāna, Japanese: Daijō, Tibetan: theg pa chen po; a major branch of Buddhism, practiced today in East Asia and Tibet (BL 'Mahāyāna', pp. 513-514; FGDB '大乘'; Powers 2007, p. 102; SH '大乘', p. 83; Tzu Chuang 2012, pp. 162-165)	8000066
 8000067	佛	\N	fó	Buddha; Awakened One	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fo2.mp3	Sanskrit: buddha, Pali: buddha, Middle Chinese: bjut, Japanese: butsu, or hotoke, Korean: bul, pil, pul, Tibetan: sang-gyé, Wylie: sangs rgy as, Vietnamese: phật; one of the ten epithets of a Buddha 佛陀十号, an abbreviation of 佛陀. The use of 佛 by itself is closely associated with 釋迦牟尼 Śākyamuni Buddha, although there are also a number of other buddhas. See also 佛陀 (BL 'Buddha', pp. 148-149; Tzu Chuang 2012, p. 204).	8000067
 8000068	善知识	善知識	shànzhīshi	Dharma Friends; kalyāṇamitra; kalyāṇamitta; kalyanamitra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalyāṇamitra, Pali: kalyāṇamitta, Japanese: zenchishiki, Tibetan: dge ba'i bshes gnyen; someone who is upright and moral in conduct and can teach the Dharma correctly; FGS translation standard: Dharma Friends (BL 'kalyāṇamitra', p. 410; Ding '善友'; Tzu Chuang 2012; FGDB '迦羅蜜'; SH '善友')	8000068
@@ -181,7 +181,7 @@
 8000181	提和竭罗	提和竭羅	tíhéjiéluó	Dipankara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 然燈佛 (FGDB '然燈佛')	8000181
 8000182	提洹竭	\N	tíhuánjié	Dipankara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 然燈佛 (FGDB '然燈佛')	8000182
 8000183	然灯	然燈	rándēng	Dipankara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 然燈佛 (FGDB '然燈佛'; SH '然燈佛', p. 377)	8000183
-8000184	然灯	然燈	rándēng	to burn a lamp	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(SH '燈', p. 448)	8000183
+8000184	然灯	然燈	rándēng	to burn a lamp	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '燈', p. 448)	8000183
 8000185	须弥山	須彌山	xūmí shān	Mount Sumeru; Mount Meru	proper noun	山	Mountain	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sumeru, Pali: sineru, Japanese: Shumisen, Tibetan: ri rab; referred to in both Buddhism and Hinduism, for example in the Mahābhārata (BL 'Sumeru, Mount', p. 869; FGDB '須彌山'; Leeming 2001 'Meru'; SH '須彌', p. 394; Tzu Chuang 2012)	8000185
 8000186	须弥楼	須彌樓	xūmílóu	Mount Sumeru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 須彌山 (SH '須彌', p. 394)	8000186
 8000187	弥楼	彌樓	mílóu	Mount Sumeru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 須彌山 (SH '須彌', p. 394)	8000187
@@ -854,3 +854,35 @@
 8000854	随分	隨分	suífēn	Dharmatāra Sūtra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	See 達摩多羅禪經 (FGDB '達摩多羅禪經')	8000853
 8000855	十地	\N	shí dì	Ten Grounds of Bodhisattva Path; Ten Grounds; the ten grounds of the bodhisattva path; daśabhūmi	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daśabhūmi, Japanese: jūji; Tibetan: sa bcu. The ten stages of bodhisattva development into a Buddha.  One enumeration of the ten grounds is: 1. the ground of joy 欢喜地; 2. the ground of freedom from defilement 离垢地; 3. the ground of radiance 发光地; 4. the ground of brilliant wisdom 燄慧地; 5. the ground of mastery of final difficulties 难胜地; 6. the ground of manifesting prajna-wisdom 现前地; 7. the ground of proceeding afar 远行地; 8. the ground of attaining calm 不动地; 9. the ground of finest discriminatory wisdom 善慧地; 10. the ground of Dharma cloud 法云地 (BL 'daśabhūmi', pp. 218-220; Daitō Shuppansha 1991 'Jūji'; FGDB '十地'; SH '十地', p. 47).	8000854
 8000856	等觉	等覺	děngjué	samyak-sambodhi; perfect enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耨多羅三藐三菩提 (FGDB '阿耨多羅三藐三菩提')	8000856
+8000857	慧劒	\N	huì jiàn	sword of wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '慧劒')	8000857
+8000858	妙觉	妙覺	miào jué	self-enlightenment to enlighten others; wonderous awakening	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the enlightenment of the Mahayana (Ding '妙覺'; FGDB '妙覺'; SH '妙覺', p. 235; Sharf 2005, p. 209)	8000858
+8000859	心要	\N	xīn yào	the core; the essence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SGDB '心要'; SH '心要', p. 152)	8000859
+8000860	二密	\N	èrmì	the two esoteric aspects	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: nimitsu; namely, 1. 理密 esoteric doctrine and 2. 事密 esoteric practice (BL '二密', p. 285-286; FGDB '事密理密'; SH '二密', p. 24)	8000860
+8000861	舍离	捨離	shělí	to abandon; to give up; to depart; to leave	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kieschnick and Wiles 2017, vol. 1, p. 97)	8000861
+8000862	法门	法門	fǎmén	dharmaparyāya; dharma gate; a way of teaching the Dharma; a Buddhist teaching; a Dharma door	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmaparyāya, Pali: dhammapariyāya, Japanese: hōmon. In Sanskrit dharmaparyāya literally means a sequence of teaching from paryāya a sequence or method. In Chinese this literally means 'Dharma door.' (BL 'dharmaparyāya'; MW 'paryāya'; FGDB '法門')	8000862
+8000863	百莲华眼顶无障碍功德光明王	百蓮華眼頂無障礙功德光明王	bǎiliánhuāyǎndǐngwúzhàng'àigōngdéguāngmíngwáng	Śatapadmanayanacūḍa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a Buddha mentioned in the 十一面觀世音神呪經 Sutra of the Divine Spell of the Eleven-Faced Avalokiteśvara (Shinohara 2014, pp. 41-44; T 1070, Scroll 1)	8000863
+8000864	根机	根機	gēnjī	fundamental ability	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '根機'; SH '根機', p. 327)	8000864
+8000865	勤息	\N	qínxī	a wandering monk; śramaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (FGDB '沙門')	8000865
+8000866	袈裟	\N	jiāshā	kasaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An outer vestment worn by a Buddhist monk (Guoyu '袈裟'; Mathews 1931 '袈裟', p. 78)	8000866
+8000867	理密	\N	lǐmì	esoteric doctrine	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二密 (SH '二密', p. 24)	8000867
+8000868	经论	經論	jīnglùn	sutras and shastras; scriptures and commentaries	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '經論', p. 409)	8000868
+8000869	序分	\N	xù fēn	the first of three parts of a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '序分'; SH '三分科經', p. 60)	8000869
+8000870	正宗分	\N	zhèngzōng fēn	the second of three parts of a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '正宗分')	8000870
+8000871	流通分	\N	liútōng fēn	the third of three parts of a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '流通分'; SH '三分科經', p. 60)	8000871
+8000872	相续	相續	xiāngxù	causal connection; continuity of cause and effect	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃtati, Pali: saṃtati (BCSD '相續'; FGDB '相續'; MW 'saṃtati'; SH '相續', p. 310)	8000872
+8000873	优婆塞	優婆塞	yōupósāi	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upāsaka, Pali: upāsaka, Japanese: ubasoku, Tibetan: dge bsnyen (BL 'upāsaka'; FGDB '優婆塞'; SH '烏波索迦', p. 330; Tzu Chuang 2012 'Upasaka')	8000873
+8000874	乌波索迦	烏波索迦	wūbōsuǒjiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000873
+8000875	乌波婆迦	烏波婆迦	wūbōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000875
+8000876	优波婆迦	優波婆迦	yōubōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000876
+8000877	居士	\N	jūshì	a lay person; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulapati; Japanese: koji (Ding '居士'; FGDB '居士'; Guoyu '居士'; Matsuo 2007, p. 11; SH '居士', p. 257)	8000877
+8000878	优波夷	優波夷	yōubōyí	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000878
+8000879	优婆私柯	優婆私柯	yōupósīkē	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000879
+8000880	邬婆斯迦	鄔婆斯迦	wūpósījiā	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000880
+8000881	优婆夷	優婆夷	yōupóyí	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upāsikā， Pali: upāsikā, Japanese: ubai, Tibetan: dge bsnyen ma (BL 'upāsikā'; FGDB '優婆夷'; JEBD 'ubai'; Mahāvyutpatti 'upāsikā'; SH '優婆夷', p. 455; Tzu Chuang 2012)	8000881
+8000882	沙尼	\N	shāní	sramanerika; a novice Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙彌尼 (SH '沙彌尼', p. 242)	8000882
+8000883	室罗摩拏理迦	室羅摩拏理迦	shìluómónálǐjiā	sramanerika; a novice Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙彌尼 (SH '沙彌尼', p. 242)	8000883
+8000884	沙弥尼	沙彌尼	shāmíní	sramanerika; a novice Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāmaṇerikā; Pali: sāmaṇerī, Japanese: shamani, Tibetan: dge tshul ma (BL 'śrāmaṇerikā'; FGDB '沙彌尼'; Mahāvyutpatti 'śramaṇerikā'; Matsuo 2007, p. 23; SH '沙彌尼', p. 242; Tzu Chuang 2012)	8000884
+8000885	式叉摩那	\N	shìchāmónà	Siksamana; a novice nun; a female observer of the six commandments; śikṣamāṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣamāṇā, Pali: sikkhamānā, Japanese: shikishamana; FGS translation standard: Siksamana (BL 'śikṣamāṇā'; Ding '式叉摩那'; Tzu Chuang 2012 'Siksamana'; FGDB '式叉摩那'; Kieschnick and Wiles 2017, vol. 2, p. 47)	8000885
+8000886	器世界	\N	qìshìjiè	the material world; the world of living beings; bhajanaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 器世間 (SH '器世間', p. 446)	8000886
+8000887	器界	\N	qìjiè	the material world; the world of living beings; bhajanaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 器世間 (SH '器世間', p. 446)	8000887
+8000888	器世间	器世間	qì shìjiān	the material world; the world of living beings; bhajanaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhājanaloka, Japanese: kiseken, Tibetan: snod kyi jig rten; one of the 三世間 three worlds or continuums (BL 'bhājanaloka'; FGDB '器世間'; SH '器世間', p. 446)	8000888
