@@ -916,5 +916,29 @@
 8000916	常住	\N	chángzhù	a long-term resident at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '常住'; FGDB '常住'; Guoyu '常住'; Mathews 1931 '常住', p. 25)	8000916
 8000917	常住	\N	chángzhù	permanence; eternalism; śāśvata; nitya-sthita	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāśvata (BCSD '常住'; FGDB '常住'; ML 'zAzvata'; SH '常住', p. 349)	8000916
 8000918	妄心	\N	wàngxīn	a deluded mind	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '妄心'; FGDB '妄心'; SH '妄心', p. 210)	8000917
-8000918	罪业	罪業	zuìyè	sin; karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nigha, Tibetan: sdig pa (FGDB '罪業'; Mahāvyutpatti 'nighaḥ'; SH '罪業', p. 409)	8000918
-8000919	善法	\N	shànfǎ	a wholesome dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalā-dharmā; something that is beneficial to the world (FGDB '善法'; Sharf 2017, p. 106)	8000919
+8000919	罪业	罪業	zuìyè	sin; karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nigha, Tibetan: sdig pa (FGDB '罪業'; Mahāvyutpatti 'nighaḥ'; SH '罪業', p. 409)	8000919
+8000920	善法	\N	shànfǎ	a wholesome dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalā-dharmā; something that is beneficial to the world (FGDB '善法'; Sharf 2017, p. 106)	8000920
+8000921	枝末无明	枝末無明	zhīmò wúmíng	secondary nonenlightenment	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	In contrast with 根本無明 'innate nonenlightenment'; Mentioned in the Notes on the Treatise on the Awakening of Faith in the Mahāyāna 起信論疏筆削記 by Zi Xuan as 枝末不覺 (FGDB '枝末無明'; SH '枝末惑', p. 263; T 1848)	8000921
+8000922	枝末不觉	枝末不覺	zhīmòbùjué	secondary nonenlightenment	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 枝末無明 (FGDB '枝末無明')	8000922
+8000923	根本无明	根本無明	gēnběn wúmíng	innate nonenlightenment; basic ignorance	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: mūlāvidyā; before discrimination arises, in contrast to 枝末無明 'secondary nonenlightenment' (FGDB '根本無明'; SH '根本無明', p. 327)	8000923
+8000924	元始元始	\N	yuánshǐ yuánshǐ	innate nonenlightenment; basic ignorance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根本無明 (SH '根本無明', p. 327)	8000924
+8000925	根本不觉	根本不覺	gēnběn bùjué	innate nonenlightenment; basic ignorance	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 根本無明 (FGDB '根本無明')	8000925
+8000926	无始无明	無始無明	wúshǐ wúmíng	innate nonenlightenment; basic ignorance	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 根本無明 (FGDB '根本無明')	8000926
+8000927	大悲忏	大悲懺	dà bēi chàn	Great Compassion Repentance Ceremony	proper noun	忏法	Repentance Ceremony	佛教	Buddhism	\N	\N	\N	\N	See 大悲懺法會 (FoguangPedia; Sheng 2020, p. 326)	8000927
+8000928	千手千眼观世音菩萨	千手千眼觀世音菩薩	iān Shǒu Qiān Yǎn Guānshìyīn Púsà	Thousand Hand Thousand Eye Avalokitesvara Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音'; SH '千手', p. 81)	8000928
+8000929	千手	\N	qiānshǒu	Thousand Hand [Avalokitesvara]	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (SH '千手', p. 81)	8000928
+8000930	千手观音	千手觀音	qiān shǒu guānyīn	Thousand-Hand Guanyin; Thousand-Hand Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '千手觀音'; Hsing Yun and Miao Guang trans. 2016, p. 374)	8000930
+8000931	千手千眼观音	千手千眼觀音	qiān shǒu qiān yǎn guānyīn	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000931
+8000932	千手千眼观自在	千手千眼觀自在	qiān shǒu qiān yǎn guānzìzài	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000932
+8000933	千眼千臂观音	千眼千臂觀音	qiān yǎn qiān bì guānyīn	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000933
+8000934	千手圣观自在	千手聖觀自在	qiān shǒu shèng guānzìzài	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000934
+8000935	千臂观音	千臂觀音	qiān bì guānyīn	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000935
+8000936	千光观自在	千光觀自在	qiān guāng guānzìzài	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000936
+8000937	忏法	懺法	chànfǎ	a repentance ceremony	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '懺法'; Guoyu '懺法'; Mathews 1931 '懺法', p. 18; SH '懺法', p. 478)	8000937
+8000938	智慧	\N	zhìhuì	jñāna; knowledge	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '智慧'; FGDB '智慧'; SH '智慧', p. 134; MW 'jñāna')	8000938
+8000939	蒲团	蒲團	pútuán	meditation mat; rush cushion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '蒲團'; FGDB '蒲團', p. 428; SH '蒲團')	8000939
+8000940	中道	\N	zhōng dào	the middle way	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhyamāpratipad, Pali: majjhimāpaṭipadā, Japanese: chūdō, Tibetan: dbu ma'i lam; the middle way is a view that avoids the extremes of permanence and annihilation (BL 'madhyamāpratipad'; FGDB '中道'; SH '中道', p. 111)	8000940
+8000941	根本说一切有部毗奈耶	根本說一切有部毗奈耶	Gēnběn Shuō Yīqiè Yǒu Bù Pínàiyē	Mula-sarvastivada-vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根本說一切有部戒經 (FGDB '根本說一切有部戒經')	8000941
+8000942	根尘	根塵	gēnchén	the six roots and the six dusts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six roots are eyes, ears, nose, tongue, body, and mind.  The six dusts are form, sound, scent, taste, touch, and actions (FGDB '根塵'; SH '根塵', p. 327).	8000942
+8000943	杀生戒	殺生戒	shāshēng jiè	precept against killing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '殺生戒'; FGDB '殺生戒'; SH '不殺生', p. 107)	8000943
+8000944	尘劳	塵勞	chénláo	afflictions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '塵勞')	8000944
