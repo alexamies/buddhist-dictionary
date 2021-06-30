@@ -942,3 +942,18 @@
 8000942	根尘	根塵	gēnchén	the six roots and the six dusts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six roots are eyes, ears, nose, tongue, body, and mind.  The six dusts are form, sound, scent, taste, touch, and actions (FGDB '根塵'; SH '根塵', p. 327).	8000942
 8000943	杀生戒	殺生戒	shāshēng jiè	precept against killing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '殺生戒'; FGDB '殺生戒'; SH '不殺生', p. 107)	8000943
 8000944	尘劳	塵勞	chénláo	afflictions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '塵勞')	8000944
+8000945	佛子	\N	fózi	progeny of a Buddha; a bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhaputra (FE '佛子' 1; FGDB '佛子' 2; Guoyu '佛子' 1; Mahāvyutpatti 'jinaputraḥ'; SH '佛子', p. 227)	8000945
+8000946	佛子	\N	fózi	a Buddhist disciple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FE '佛子' 2; FGDB '佛子' 3; Guoyu '佛子' 2; SH '佛子', p. 227)	8000945
+8000947	佛子	\N	fózi	a compassionate and wise person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '佛子' 3)	8000945
+8000948	佛子	\N	fózi	all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛子' 4; SH '佛子', p. 227)	8000945
+8000949	最胜子	最勝子	zuì shèng zǐ	jinaputra; son of the conqueror	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jinaputra; an epithet of a bodhisattva (BL 'jinaputra'; FGDB '最勝子')	8000949
+8000950	法堂	\N	fǎtáng	a Dharma hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法堂'; SH '法堂', p. 268)	8000950
+8000951	巡寮	\N	xúnliáo	inspection tour by the abbot	verb	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	For the abbot of a head monastery to tour the branch monasteries (FGDB '巡寮'; SH '巡寮', p. 246)	8000951
+8000952	寮房	\N	liáofáng	a monk's quarters	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CCD '寮房' 1)	8000952
+8000953	守门尊	守門尊	shǒuménzūn	deva gate-guardian	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvārapāla, Japanese: shumonnin, Tibetan: sgo bsrungs pa (BL 'dvārapāla'; Guoyu '守門天'; SH '守門天', p. 211)	8000953
+8000954	慧命	\N	huìmìng	friend; brother	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, 'wisdom-life'; a term used to address a monastic; see also 具壽 (FGDB '慧命'; SH '慧命', p. 150)	8000953
+8000955	懈怠	\N	xièdài	kausidya; laziness	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kausīdya, Pali: kusīta, Japanese: kedai;, Tibetan: le lo; one of the six root unwholesome mental factors 六大煩惱地法 (BL 'kausīdya'; FGDB '懈怠'; Mahāvyutpatti 'kausīdyam'; SH '懈怠', p. 447)	8000955
+8000956	四魔	\N	sì mó	the four kinds of evil	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four kinds of evil are 1. 烦恼魔 an evil that harms one's mind, 2. 阴魔 Skandha maras, 3. 死魔 the evil of death, and 4. 自在天魔 the Mara King (FGDB '四魔'; Ding '四魔')	8000956
+8000957	烦恼魔	煩惱魔	fánnǎo mó	Māra of afflictions; Māra the tempter; an evil that harms one's mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四魔 'four Maras' (Ding '煩惱魔'; Karashima 2001 '煩惱魔'; SH '煩惱魔', p. 407)	8000957
+8000958	阴魔	陰魔	yīn mó	evil that works through the five skandas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 蘊魔 (FGDB '蘊魔')	8000958
+8000959	死魔	\N	sǐ mó	the evil of death; Māra of death	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛtyumāra, Japanese: Shima, Tibetan: 'chi bdag gi bdud; one of the 四魔 'four Maras' (BL 'mṛtyumāra'; Ding '死魔'; FGDB '死魔'; Karashima 2001 '死魔'; SH '八魔', p. 41)	8000959
