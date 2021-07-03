@@ -1031,3 +1031,21 @@
 8001031	衣钵	衣鉢	yībō	robe and bowl; the cassock and alms bowl of a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '衣鉢'; SH '衣鉢', p. 222)	8001031
 8001032	衣钵	衣缽	yībō	robe and bowl; the cassock and alms bowl of a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 衣鉢 (Ding '衣缽'; SH '衣鉢', p. 222)	8001032
 8001033	达兜	達兜	dádōu	Devadatta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 提婆達多 (SH '提婆達多', p. 373)	8001033
+8001034	提婆达多	提婆達多	típódáduō	Devadatta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devadatta, Pali: devadatta; lived at the time of the Buddha and treated the Buddha as an enemy but the Buddha treated him with tolerance (BL 'devadatta'; Ding '提婆達多'; FGDB '提婆達多'; SH '提婆達多', p. 373)	8001034
+8001035	娑婆世界	\N	suōpó shìjiè	Saha World; the World of Suffering	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sahāloka, Japanese: shaba sekai, Tibetan: mi mjed kyi 'jig rten (BL 'sahāloka'; FGDB '娑婆'; SH '娑婆', p. 323)	8001035
+8001036	娑界	\N	suōjiè	Saha World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆世界 (SH '娑婆', p. 323)	8001036
+8001037	娑媻	\N	suōpán	saha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (SH '娑婆', p. 323)	8001037
+8001038	娑诃	娑訶	suōhē	saha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (SH '娑婆', p. 323)	8001038
+8001039	沙诃	沙訶	shāhē	saha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (FGDB '娑婆')	8001039
+8001040	索诃	索訶	suǒhē	saha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (FGDB '娑婆')	8001040
+8001041	娑婆	\N	suōpó	to bear; to endure without complaint; saha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sahā; see 娑婆世界 (FGDB '娑婆'; SH '娑婆', p. 323)	8001041
+8001042	堪忍	\N	kānrěn	to bear; to endure without complaint	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding'堪忍'; FGDB'堪忍'; SH'堪忍', p. 369)	8001042
+8001043	忍土	\N	rěn tǔ	the World of Suffering	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (FGDB '娑婆')	8001043
+8001044	五浊	五濁	wǔ zhuó	the five periods of impurity	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcakaṣāyā, Japanese: gojoku, Tibetan: snyigs ma lnga'i ming la; Namely: 1. 劫浊 Kalpakashaya; period of degeneration, 2. 见浊 Drishtikashaya; the period of degenerating views, 3. 烦恼浊 Kleshakashaya; period where the degenerated delusions of prevail, 4. 众生浊 Sattvakashaya; the period of corruption of all living beings and, 5. 命浊 Ayukashaya; the period of shortened human lifespan (BL 'pañcakaṣāyā'; FGDB '五濁'; Mahāvyutpatti 'pañcakaṣāyāḥ'; SH '五濁', p. 122).	8001044
+8001045	劫浊	劫濁	jiézhuó	Kalpa Degeneration; Kalpakashaya; period of degeneration	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpakaṣāya, Tibetan: dus kyi snyigs ma; see 五浊 the five periods of impurity (FGDB '劫濁'; 'kalpakaṣāyaḥ'; SH '劫濁', p. 233; Tzu Chuang 2012)	8001045
+8001046	见浊	見濁	jiànzhuó	view degeneration; drishtikashaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dṛṣṭikaṣāya, Tibetan: lta ba'i snyigs ma; see 五濁 the five periods of impurity (FGDB '見濁'; Mahāvyutpatti 'dṛṣṭikaṣāyaḥ'; SH '見濁', p. 244; Tzu Chuang 2012)	8001046
+8001047	烦恼浊	煩惱濁	fánnǎo zhuó	affliction degeneration; kleshakashaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleśakaṣāya, Tibetan: nyon mongs pa'i snyigs ma; a period where the degenerated delusions of prevail; see 五浊 the five periods of impurity (FGDB '煩惱濁'; Mahāvyutpatti 'kleśakaṣāyaḥ'; SH '煩惱濁', p. 406; Tzu Chuang 2012)	8001047
+8001048	众生浊	眾生濁	zhòngshēng zhuó	sentient being degeneration; sattvakashaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattvakaṣāya, Tibetan: sems can gyi snyigs ma; the period of corruption of all living beings; see 五濁 the five periods of impurity (BL 'pañcakaṣāya'; FGDB '眾生濁'; Mahāvyutpatti 'sattvakaṣāyaḥ'; Tzu Chuang 2012)	8001048
+8001049	命浊	命濁	mìng zhuó	life-span degeneration; ayukashaya; degenerated human lifespan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āyuḥkaṣāya, Tibetan: tshe'i snyigs ma; the period where human lifespan is reduced to ten years; see 五濁 the five periods of impurity (FGDB '命濁'; Mahāvyutpatti 'āyuḥkaṣāyaḥ'; SH '命濁', p. 252; Tzu Chuang 2012)	8001049
+8001050	行者	\N	xíngzhě	practitioner	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 修行人 (FGDB '行者' 1)	8001050
+8001051	行者	\N	xíngzhě	abbot's attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '行者'; FGDB '行者' 2; Welch 1967, p. 422)	8001050
