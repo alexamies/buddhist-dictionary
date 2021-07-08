@@ -176,7 +176,7 @@
 8000176	阿罗诃	阿羅訶	āluóhē	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 阿羅漢 (SH '阿羅漢', p. 290)	8000176
 8000177	阿梨呵	\N	ālíhē	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 阿羅漢 (SH '阿羅漢', p. 290)	8000177
 8000178	啰呵	囉呵	luóhē	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 阿羅漢 (FGDB '阿羅漢')	8000178
-8000179	三昧	\N	sānmèi	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi, Pali: samādhi, Japanese: sanmai, Tibetan: ting nge 'dzin; a higher level of concentrated meditation. According to the Tiantai School, there are four kinds of samadhi: 1. constant sitting samadhi 常坐三昧; 2. constant walking samadhi 常行三昧; 3. half walking, half sitting samadhi 半行半坐三昧; 4. non-walking, non-sitting samadhi 非行非坐三昧 (BL 'samādhi', p. 743; FGDB '三昧'; Powers 2007, p. 69)	8000179
+8000179	三昧	\N	sānmèi	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi, Pali: samādhi, Japanese: sanmai, Tibetan: ting nge 'dzin; a higher level of concentrated meditation. According to the Tiantai School, there are four kinds of samadhi: 1. constant sitting samadhi 常坐三昧; 2. constant walking samadhi 常行三昧; 3. half walking, half sitting samadhi 半行半坐三昧; 4. non-walking, non-sitting samadhi 非行非坐三昧 (BL 'samādhi', p. 743; FGDB '三昧'; Powers 2007, p. 69; SH '三昧', p. 67; Tzu Chuang 2012, pp. 290-294)	8000179
 8000180	然灯佛	然燈佛	Rándēng Fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: dīpaṃkara, Pali: dīpaṃkara, Japanese: Jōkō nyorai, Tibetan: mar me mdzad; literally, lamp bearer, a Buddha prior to Sakyamuni (BL 'Dīpaṃkara', p. 260; FGDB '然燈佛'; SH '然燈佛', p. 377)	8000180
 8000181	提和竭罗	提和竭羅	tíhéjiéluó	Dipankara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 然燈佛 (FGDB '然燈佛')	8000181
 8000182	提洹竭	\N	tíhuánjié	Dipankara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 然燈佛 (FGDB '然燈佛')	8000182
@@ -1298,7 +1298,7 @@
 8001298	弥勒菩萨	彌勒菩薩	mílè púsà	Maitreya Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: maitreya, Pali: metteya, Japanese: Miroku-bosatsu, Tibetan: byams pa; The bodhisattva that will be the next Buddha of our world to come after Shakyamuni Buddha, often portrayed as a big bellied Buddha, currently abiding in Tuṣita Heaven 兜率天 (BL 'Maitreya'; FGDB '彌勒菩薩'; JEBD 'Miroku-bosatsu'; SH '彌勒', p. 456)	8001298
 8001299	经幢	經幢	jīngchuáng	a sutra pillar; dhvaja; flag banner	noun	\N	\N	佛教	Buddhism	\N	\N	jingzhang_lingyinsi400.jpg	\N	Sanskrit equivalent: dhvaja, placed outside of temples, most often present in temples dating in the Tang and before (FGDB '經幢')	8001299
 8001300	西方三圣	西方三聖	Xīfāng sān shèng	Three Noble Ones of the West	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the Western Pureland, the three are Amitabha Buddha and two assistants Avalokitesvara Bodhisattva and Mahasthamaprapta Bodhisattva (FGDB '西方三聖'; Tzu Chuang 2012)	8001300
-8001301	大勢至菩萨	大勢至菩薩	Dàshìzhì Púsà	Mahāsthāma; Mahāsthāmaprāpta	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: mahāsthāmaprāpta (FGDB '大勢至菩薩'; SH '大勢至菩薩', p. 85)	8001301
+8001301	大勢至菩萨	大勢至菩薩	Dàshìzhì Púsà	Mahāsthāma; Mahāsthāmaprāpta	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: mahāsthāmaprāpta, Japanese: Daiseishi, Tibetan: mthu chen thob; the bodhisattvas who has attained great power (BL 'Mahāsthāmaprāpta'; FGDB '大勢至菩薩'; SH '大勢至菩薩', p. 85; Tzu Chuang 2012)	8001301
 8001302	石塔	\N	shítǎ	a stone pagoda; stupa	noun	\N	\N	佛教	Buddhism	\N	\N	stone_pagoda_linyinsi400.jpg	\N	(FGDB '石塔')	8001302
 8001303	卢舍那佛	盧舍那佛	lúshènà fó	Locana Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	feilaifeng_xifangsansheng400.jpg	\N	(FGDB '盧舍那佛'; SH '盧舍那', p. 449)	8001303
 8001304	报身佛	報身佛	Bàoshēn Fó	saṃbhogakāya; sambhogakaya; enjoyment body; reward body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 報身 (FGDB '報身')	8001304
@@ -1306,3 +1306,21 @@
 8001306	立宗	\N	lìzōng	proposition; pratijñā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratijñā, Japanese: risshū, Tibetan: dam bca'; a term in Buddhist logic describing the proposition sought to prove to the opponent (BL 'pratijñā', p. 666; FGDB '立宗'; SH '五支作法', p. 119)	8001306
 8001307	四面佛	\N	Sì Miàn Fó	Four-faced Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	simianfo_malaysia400.jpg	\N	A style of Buddha statue common in Theravada Buddhism (Wikipedia '四面佛')	8001307
 8001308	卧佛	臥佛	wò fó	reclining Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	reclining_buddha_malaysia400.jpg	\N	Symbolizing the Buddha entering Nirvana (FGS Encyclopedia of Buddhist Arts)	8001308
+8001309	六苦行	\N	liù kǔxíng	six ascetic [schools]	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 六種苦行外道 (SH '六苦行', p. 137)	8001309
+8001310	六苦行外道	\N	liùkǔxíngwàidào	six ascetic schools	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六種苦行外道 (SH '六苦行', p. 137)	8001310
+8001311	库木吐喇	庫木吐喇	kùmùtùlǎ	Kumtura; Kumutula	proper noun	石窟	Caves	佛教	Buddhism	中国	China	\N	\N	This is the site of a number of Buddhist caves in Xinjiang.  Most Western sources use the name Kumtura. Kumutula is a Romanization of the modern day Chinese pinyin (FGS Encyclopedia of Buddhist Arts)	8001311
+8001312	弗拉提	\N	fúlātí	Fulati	proper noun	石窟	Caves	佛教	Buddhism	中国	China	\N	\N	Site of Buddhist caves (FGS Encyclopedia of Buddhist Arts)	8001312
+8001313	肉髻	\N	ròujì	usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṇhīsa, Japanese: butchō; an oval at the top of the Buddha's head (FGDB '肉髻'; Mathews 1931 '肉髻', p. 59; SH '肉髻', p. 218)	8001313
+8001314	警杖	\N	jǐngzhàn	an alarm staff	noun	\N	\N	佛教	Buddhism	\N	\N	dizang_putuoshan400.jpg	\N	Carried by monks to warn off animals that might be trodden on by mistake; 地藏菩萨 Ksitigarbha is often shown with an alarm staff (Williams 2012, p. 36)	8001314
+8001315	鸟失尼沙	鳥失尼沙	niǎoshīníshā	usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 肉髻 (SH '肉髻', p. 218)	8001315
+8001316	结跏趺坐	結跏趺坐	jiéjiā fūzuò	sitting with crossed legs; to sit in the full lotus position	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 蓮華座 (BL 'padmāsana'; Ding '結跏趺坐'; FGDB '結跏趺坐'; SH '結跏趺坐')	8001316
+8001317	禅定印	禪定印	chándìng yìn	dhyana mudra	set phrase	手印	Mudra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānamudrā, Japanese: jōin, Tibetan: mnyam bzhag gi phyag rgya; in meditation with hands folded together (BL 'dhyānamudrā'; FGDB '禪定印'; Wikipedia '印')	8001317
+8001318	狮子座	獅子座	shīzizuò	lion throne	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 師子座 (FGDB '師子座')	8001318
+8001319	寂定	\N	jìdìng	samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; see 三昧 (FGDB '寂定'; SH '寂定', p. 348)	8001319
+8001320	传经筒	傳經筒	zhuàn jīng tǒng	a prayer wheel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Baike '转经筒')	8001320
+8001321	因缘故事	因緣故事	yīnyuán gùshi	a Jataka Story	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 本生 (FGDB '本生經')	8001321
+8001322	端坐	\N	duānzuò	to sit in a posture for meditation	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '端坐')	8001322
+8001323	大势至	大勢至	dàshìzhì	Mahasthamaprapta Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsthāmaprāpta; see 大勢至菩薩 (Tzu Chuang 2012)	8001323
+8001324	四大佛教名山	\N	Sìdà Fójiào Míng Shān	Four Sacred Mountains of Buddhism	set phrase	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mount Putuo 普陀山, Mount Wutai 五台山, Mount Emei 峨眉山, and Mount Jiuhua 九华山 (Wikipedia '四大佛教名山')	8001324
+8001325	宝树	寶樹	bǎoshù	jeweled trees; forest of treasues	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to trees in the pure land (FGDB '寶樹'; Inagaki and Stewart 1995, p. 70; SH '寶樹', p. 477; T 365)	8001325
+8001326	宝树	寶樹	bǎoshù	a kalpa tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A tree that lives for a very long time and can grow clothes and jewellery (FGDB '寶樹')	8001326
