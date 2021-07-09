@@ -246,7 +246,7 @@
 8000246	八功德水	\N	bā gōngdé shuǐ	water with eight merits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mention in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life” (retranslated from Inagaki and Stewart 1995, p. 72; T 365; FGDB '八功德水')	8000246
 8000247	经录	經錄	Jīng Lù	a catalog of sūtras; jinglu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyōroku; a collection of sūtras, in particular, in the Chinese Buddhist tradition (BL 'jinglu', pp. 389-390)	8000247
 8000248	八支德水	\N	bā zhī dé shuǐ	water with eight kinds of merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八功德水 (FGDB '八功德水')	8000248
-8000249	宝楼观	寶樓觀	bǎo lóu guān	visualization of jeweled towers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Pureland meditation technique described in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life” (FGDB '寶樓觀'; Inagaki and Stewart 1995, p. 72; T 365)	8000249
+8000249	宝楼观	寶樓觀	bǎo lóu guān	visualization of jewelled towers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Pureland meditation technique described in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life,” the sixth of the 十六觀 sixteen contemplations (FGDB '寶樓觀'; Inagaki and Stewart 1995, p. 72; T 365)	8000249
 8000250	法界身	\N	fǎjièshēn	dharmakaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法界身'; SH '法界身', p. 271)	8000250
 8000251	八味水	\N	bā wèi shuǐ	water with eight flavors	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八功德水 (FGDB '八功德水')	8000251
 8000252	正徧知海	\N	zhèng biàn zhī hǎi	ocean of omniscience	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正遍知海 (FGDB '正遍知海')	8000252
@@ -1374,3 +1374,47 @@
 8001374	真陀罗	真陀羅	zhēntuóluó	kimnara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: kiṃnara; see 緊那羅 (FGDB '緊那羅')	8001374
 8001375	紧捺罗	緊捺羅	jǐnnàluó	kimnara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: kiṃnara; see 緊那羅 (SH '緊那羅', p. 427)	8001375
 8001376	紧陀罗	緊陀羅	jǐntuóluó	kimnara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: kiṃnara; see 緊那羅 (SH '緊那羅', p. 427)	8001376
+8001377	灌顶	灌頂	guàn dǐng	abhiseka; abhisecana; anointment; consecration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhiṣeka, Pali: abhiseka, Japanese kanjō, Tibetan: dbang; a term to pour or sprinkle water on a person's head in a ceremony (BL'abhiṣeka', pp. 12-13; FGDB '灌頂'; Powell 2007, p. 267; SH '灌頂', p. 483)	8001377
+8001378	十六观	十六觀	shí liù guān	sixteen contemplations	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Contemplations of Amitābha on the setting sun, water, and so on; from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '十六觀'; SH '十六觀', p. 46)	8001378
+8001379	十六观法	十六觀法	shíliù guān fǎ	sixteen methods of contemplation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六觀 (FGDB '十六觀')	8001379
+8001380	十六想观	十六想觀	shíliù xiǎng guān	sixteen visualizations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六觀 (FGDB '十六觀')	8001380
+8001381	十六妙观	十六妙觀	shíliù miào guān	sixteen wonderful contemplations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六觀 (FGDB '十六觀')	8001381
+8001382	十六正观	十六正觀	shíliù zhèng guān	sixteen right contemplations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六觀 (FGDB '十六觀')	8001382
+8001383	十六观门	十六觀門	shíliù guān mén	sixteen methods of contemplation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六觀 (FGDB '十六觀')	8001383
+8001384	日观	日觀	rì guān	contemplation of the sun	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of the setting sun; the first of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life”  (BL 'Guan Wuliangshou jing'; FGDB '十六觀'; SH '日想觀', p. 155)	8001384
+8001385	日想观	日想觀	rì xiǎng guān	visualization of the sun	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 日觀 (SH '日想觀', p. 155)	8001385
+8001386	日想	\N	rì xiǎng	visualization of the sun	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 日觀 (FGDB '十六觀')	8001386
+8001387	水想观	水想觀	shuǐ xiǎngguān	visualization of water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of water; the second of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '水觀'; SH '水觀', p. 160)	8001387
+8001388	水观	水觀	shuǐ guān	visualization of water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 水想觀 (FGDB '水觀')	8001388
+8001389	水想	\N	shuǐ xiǎng	contemplation of water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 水想觀 (FGDB '水觀')	8001389
+8001390	地想观	地想觀	dì xiǎngguān	contemplation of the earth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of the earth; the third of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '地想觀'; SH '十六觀', p. 46)	8001390
+8001391	地观	地觀	dìguān	visualization of the earth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地想觀 (FGDB '地想觀')	8001391
+8001392	琉璃地观	琉璃地觀	liúlí dì guān	visualization of a world of lapis lazuli	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地想觀 (FGDB '地想觀')	8001392
+8001393	地想	\N	dì xiǎng	contemplation of the earth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地想觀 (FGDB '地想觀')	8001393
+8001394	宝树观	寶樹觀	bǎo shù guān	contemplation of a jewelled forest	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of a jewelled forest; the forth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life”  (BL 'Guan Wuliangshou jing'; FGDB '寶樹觀'; SH '十六觀', p. 46)	8001394
+8001395	树观	樹觀	shù guān	contemplation of a [jewelled] forest	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶樹觀 (FGDB '寶樹觀')	8001395
+8001396	树想	樹想	shùxiǎng	contemplation of a forest [of jewels]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶樹觀 (FGDB '十六觀')	8001396
+8001397	宝池想	寶池想	bǎo chí xiǎng	contemplation of a pond of jewels	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of a pond of jewels; the fifth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life”  (BL 'Guan Wuliangshou jing'; FGDB '寶池想'; SH '十六觀', p. 46)	8001397
+8001398	池观	池觀	chí guān	visualization of a pond [of jewels]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶池想 (FGDB '寶池想')	8001398
+8001399	华座观	華座觀	huázuòguān	contemplation of a lotus throne	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of a lotus throne; the seventh of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life”  (BL 'Guan Wuliangshou jing'; FGDB '華座觀'; SH '十六觀', p. 46)	8001399
+8001400	华座想	華座想	huá zuò xiǎng	contemplation of a lotus throne	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 華座觀 (FGDB '華座觀')	8001400
+8001401	像想观	像想觀	xiàngxiǎngguān	contemplation of an image	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of an image of a Buddha or bodhisattva; the eigth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life”  (BL 'Guan Wuliangshou jing'; FGDB '像想觀'; SH '十六觀', p. 46)	8001401
+8001402	像观	像觀	xiàng guān	visualization of an image	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 像想觀 (FGDB '像想觀')	8001402
+8001403	佛菩萨像观	佛菩薩像觀	fó púsà xiàng guān	visualization of an image or a Buddha or bodhisattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 像想觀 (FGDB '像想觀')	8001403
+8001404	徧观一切色身想	徧觀一切色身想	biàn guān yīqiè sè shēn xiǎng	insight from total visualization of all physical characteristics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 真身觀 (FGDB '真身觀')	8001404
+8001405	势至观	勢至觀	shìzhì guān	contemplation of Mahasthamaprapta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Visualization of an image of Mahasthamaprapta bodhisattva; the eleventh of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '勢至觀'; SH '十六觀', p. 46)	8001405
+8001406	大势至观	大勢至觀	dàshìzhì guān	contemplation of Mahasthamaprapta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 勢至觀(FGDB '勢至觀')	8001406
+8001407	观大势至色身想	觀大勢至色身想	guān dàshìzhì sèshēn xiǎng	contemplation of the form of Mahasthamaprapta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 勢至觀(FGDB '勢至觀')	8001407
+8001408	杂想观	雜想觀	zá xiǎngguān	various visualizations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The thirteenth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life”  (BL 'Guan Wuliangshou jing'; FGDB '雜想觀'; SH '十六觀', p. 46)	8001408
+8001409	上辈观	上輩觀	shàngbèiguān	contemplation of the upper level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Contemplation of those who seek the Pureland with the most altruistic minds; the fourteenth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '十六觀'; SH '上輩觀', p. 57)	8001409
+8001410	中辈观	中輩觀	zhōng bèi guān	contemplation of the middle level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Contemplation of those who have taken the five precepts and care for their parents; the fifteenth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '中輩觀'; SH '中輩觀', p. 11)	8001410
+8001411	中品生观	中品生觀	zhōng pǐn shēng guān	contemplation of the middle level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 中輩觀 (FGDB '十六觀')	8001411
+8001412	中辈生观	中輩生觀	zhōng bèi shēng guān	contemplation of the middle level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 中輩觀 (FGDB '十六觀')	8001412
+8001413	下辈观	下輩觀	xià bèi guān	contemplation of the lower level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Contemplation of those who have committed series offenses; the sixteenth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; FGDB '中輩觀'; SH '下輩觀', p. 55)	8001413
+8001414	下品生观	下品生觀	xià pǐn shēng guān	contemplation of the lower level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 下輩觀 (FGDB '十六觀')	8001414
+8001415	下辈生观	下輩生觀	xià bèi shēng guān	contemplation of the lower level	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 下輩觀 (FGDB '十六觀')	8001415
+8001416	化生	\N	huàshēng	to be born from transformation; upapadukayoni; opapatikayoni	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upapādukayoni, Pali: opapātikayoni, Japanese: keshō, Tibetan: rdzus te skye ba; one of the 四生 four kinds of birth (BL 'upapādukayoni'; FGDB '化生'; SH '化生', p. 142)	8001416
+8001417	赴火	\N	fùhuǒ	to burn oneself alive	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '赴火', p. 137)	8001417
+8001418	苏达那太子	蘇達那太子	Sūdánà Tàizǐ	Sudāna; Prince Vessantara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須大拏太子 (FGDB '須大拏太子')	8001418
+8001419	自比量	\N	zì bìliàng	inference for oneself; svārthānumāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svārthānumāna, Japanese: jihiryō, Tibetan: rang don rjes dpag; a term in Buddhist logic to describe convincing oneself that a proposition is correct, in contrast to defeating an opponent in a debate (BL 'svārthānumāna', p. 881; FGDB '自比量')	8001419
+8001420	离作法	離作法	lízuòfǎ	negative concomitance; exclusion; vyatireka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyatireka, Japanese: risahō, Tibetan: ldog pa; in Buddhist logic (BL 'vyatireka', p. 985; FGDB '離作法')	8001420
