@@ -776,7 +776,7 @@
 8000776	僧脚崎	\N	sēngjiǎoqí	a monk's draperies, belt, and undergarment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(T 2125, Scroll 2)	8000775
 8000777	实有	實有	shí yǒu	absolute reality; substantial unchanging existence; something truly existing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Cock 1999, p. 398; FGDB '實有')	8000777
 8000778	真性	\N	zhēn xìng	inherent nature; essence; true nature; dharmatā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  dharmatā, Japanese: hosshō, Tibetan: chos nyid (BL 'dharmatā'; FGDB '真性')	8000778
-8000779	十法界	\N	shí fǎjiè	ten dharma realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Hell 地狱 (2) Hungry Ghost Realm 饿鬼 (3) Animal Realm 畜生 (4) Human Realm 人 (5) Asura Realm 阿修罗 (6) Heavenly Realm 天 (7) Sravaka Realm 声闻 (8) Pratyekabuddha Realm 缘觉 (9) Bodhisattva Realm 菩萨 (10) Buddha Realm 佛; FGS translation standard: Ten Dharma Realms (SH '十法界', p. 51; Tzu Chuang 2012)	8000778
+8000779	十法界	\N	shí fǎjiè	ten dharma realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十界 (SH '十法界', p. 51; Tzu Chuang 2012)	8000779
 8000780	舍罗婆迦	舍羅婆迦	shěluópójiā	sravaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka; se 聲聞 (FGDB '聲聞')	8000780
 8000781	声闻	聲聞	shēngwén	sravaka; a distinguished disciple of the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka, Pali: sāvaka, Japanese: shōmon, Tibetan: nyan thos; literally, a listener (BL 'śrāvaka', p. 850; FGDB '聲聞'; Powers 2007, p. 107; SH '聲聞', p. 462)	8000781
 8000782	缘觉	緣覺	yuánjué	pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; Pali: paccekabuddha, Japanese engaku, Tibetan: rang sangs rgyas; a being that has achieve enlightenment independently without the help of a teachers and does not teach others (BL 'pratyekabuddha', p. 673; FGDB '辟支佛'; Powers 2007, p. 107; Tzu Chuang 2012, p. 253)	8000781
@@ -1472,4 +1472,25 @@
 8001472	学处	學處	xuéchù	training; training in conduct; rules of conduct; śikṣāpada; sikkhāpada; siksapada	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣāpada, Pali: sikkhāpada, Japanese: gakusho (BL 'śikṣāpada'; Ding '學處'; FGDB '學處'; MW 'śikṣāpada')	8001472
 8001473	兜率	\N	dōushuài	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8001473
 8001474	都率天	\N	dōushuài tiān	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8001474
-8001475	半跏坐	\N	bàn jiā zuò	to sit with one leg crossed	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Usually of a bodhisattva (FGDB '半跏趺坐'; SH '半跏趺坐', p. 168)	8001475
+8001475	半跏坐	\N	bàn jiā zuò	to sit with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka, Japanese: hankafuza, Tibetan: skyil krung phyed pa; a posture with one foot resting on the other leg, usually of a bodhisattva (BL 'ardhaparyaṅka'; FGDB '半跏趺坐'; SH '半跏趺坐', p. 168)	8001475
+8001476	半跏正坐	\N	bàn jiā zhèng zuò	to sit upright with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka; see 半跏坐 (FGDB '半跏趺坐')	8001476
+8001477	半结跏	半結跏	bàn jié jiā	to sit with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka; see 半跏坐 (FGDB '半跏趺坐')	8001477
+8001478	半跏	\N	bànjiā	to sit with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka; see 半跏坐 (FGDB '半跏趺坐')	8001478
+8001479	半坐	\N	bànzuò	to sit with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka; see 半跏坐 (FGDB '半跏趺坐')	8001479
+8001480	贤坐	賢坐	xiánzuò	to sit with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka; see 半跏坐 (FGDB '半跏趺坐')	8001480
+8001481	单盘坐	單盤坐	dānpánzuò	to sit with one leg crossed; ardhaparyanka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ardhaparyaṅka; see 半跏坐 (FGDB '半跏趺坐')	8001481
+8001482	悟道	\N	wùdào	to become enlightened	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '悟道')	8001482
+8001483	入门	入門	rùmén	to become a monastic	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, to enter [a teacher's] door (FGDB '入門')	8001483
+8001484	越三界	\N	yuè sān jiè	Trailokya Vikramin	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokya-vikrāmin; the name of bodhisattva mentioned in the 妙法蓮華經 Lotus Sutra (Karashima 1998, p. 490; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1, 9.0001c19)	8001484
+8001485	越三界菩萨	越三界菩薩	yuè sān jiè púsà	Trailokya Vikramin Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 越三界 (Karashima 1998, p. 490)	8001485
+8001486	天衣	\N	tiān yī	the garments of a celestial beings; deva's clothes	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天衣'; Guoyu '天衣' 2; SH '天衣', p. 147)	8001486
+8001487	天衣	\N	tiān yī	clothing made from feathers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天衣')	8001486
+8001488	净瓶	淨瓶	jìngpíng	a jar; kalasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalaśa; used in a Buddhist context, possibly to hold amṛta, the nectar of long life (BL 'Amitāyus'; FGDB '淨瓶'; Guoyu '淨瓶' 1)	8001488
+8001489	伎乐	伎樂	jìyuè	music	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vādya; in the sense of 音乐 (FGDB '伎樂'; MW 'vAdya')	8001489
+8001490	十如	\N	shírú	ten qualities	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十如是 (FGDB '十如是')	8001490
+8001491	十如是	\N	shí rúshì	ten qualities	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Ten qualities mentioned in the Lotus Sutra, namely: 1. 相 form, 2. 性 nature, 3. 体 entity, 4. 力 ability, 5. 作 activity, 6. 因 causes, 7. 缘 conditions, 8. 果 direct effects, 9. 报 indirect effects, 10. 本末究竟 complete from beginning to end (BL 'shi rushi'; FGDB '十如是'; SH '十如是', p. 48; T 262, Scroll 1, 9.0005c09; Tzu Chuang 2012)	8001491
+8001492	十界	\N	shí jiè	the ten realms	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daśadhātu, Japanese: jikkai, Tibetan: khams bcu; a grouping of means of rebirth: 1. 地狱界 hell realms, 2. 饿鬼界 the realm of hungry ghosts, 3. 畜生界 the animal realm, 4. 修罗界 the asura realm, 5. 人间界 the human realm, 6. 天上界 heavens, 7. 声闻界 the realm of Sravakas, 8. 缘觉界 the realm of Pratyeka-buddhas, 9. 菩萨界 the realm of bodhisattvas, 10. 佛界 the realm of Buddhas (BL 'daśadhātu'; FGDB '十界'; SH '十法界', p. 51; Tzu Chuang 2012)	8001492
+8001493	饿鬼界	餓鬼界	èguǐ jiè	realm of hungry ghosts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十界 ten realms, the cause for rebirth in this world is greed (FGDB '餓鬼界'; SH '餓鬼', p. 454)	8001493
+8001494	地狱界	地獄界	dìyù jiè	Hell Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十界 ten realms, the cause for rebirth in the Hell Realm is anger (FGDB '十界')	8001494
+8001495	畜生界	\N	chùsheng jiè	Animal Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十界 ten realms, the cause for rebirth in the Animal Realm is ignorance (FGDB '畜生界'; SH '畜生界', p. 331)	8001495
+8001496	修罗界	修羅界	xiūluó jiè	Asura Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十界 ten realms the cause for rebirth in the Asura Realm is jealousy (FGDB '十界')	8001496
