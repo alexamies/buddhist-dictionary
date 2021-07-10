@@ -1447,10 +1447,29 @@
 8001447	摩诃陀国	摩訶陀國	móhētuó guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001447
 8001448	摩伽国	摩伽國	mójiā guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001448
 8001449	波罗奈国	波羅奈國	bōluónài guó	Varanasi; Baranasi	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	Sanskrit equivalent vārāṇasī, Pali bārāṇasī; a kingdom in ancient India (FGDB '波羅奈國'; SH '波羅奈', p. 266)	8001449
-8001450	波罗痆斯	波羅痆斯	bōluónàsī	Varanasi; Baranasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent vārāṇasī; see 波羅奈國 (SH '波羅奈', p. 266)	8001450
+8001450	波罗痆斯	波羅痆斯	bōluónàsī	Varanasi; Baranasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vārāṇasī; see 波羅奈國 (SH '波羅奈', p. 266)	8001450
 8001451	波刺那斯	\N	bōcìnàsī	Varanasi; Baranasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent vārāṇasī; see 波羅奈國 (SH '波羅奈', p. 266)	8001451
 8001452	放光	\N	fàng guāng	to produce light	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Using supernatural powers (SH '放光', p. 262)	8001452
 8001453	三道	\N	sān dào	three paths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three paths that all people must walk: delusion 惑道, actions 业道, and suffering 苦道 (BL 'sandao'; FGDB '三道'; SH '三道', p. 79)	8001453
 8001454	三道	\N	sān dào	three realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of sravakas, pratyekabuddhas, and bodhisattvas (FGDB '三道'; SH '三道', p. 79)	8001453
 8001455	三聚	\N	sān jù	the three paths	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三道 (FGDB '三道')	8001455
 8001456	释迦	釋迦	shìjiā	Sakyamuni	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	shi4jia1mo2ni2.mp3	Sakyamuni Buddha; see 釋迦牟尼 (FGDB '釋迦牟尼')	8001456
+8001457	多含不翻	\N	duō hán bù fān	a term not translated due to having multiple meanings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also written 多種含義; one of the five kinds of untranslatable terms 五种不翻 (FGDB '五种不翻'; Tzu Chuang 2012)	8001457
+8001458	生灭	生滅	shēngmiè	life and death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The endless cycle of life and death, see 生死 (FGDB '生滅'; SH '生滅', p. 196)	8001458
+8001459	腻沙	膩沙	nìshā	usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 肉髻 (SH '肉髻', p. 218)	8001459
+8001460	玉毫	\N	yùháo	urna; urnakesa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 玉豪 (FGDB '玉豪'; SH '玉豪', p. 195)	8001460
+8001461	玉豪	\N	yùháo	urna; urnakesa; white hair	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇākeśa, or: ūrṇā, Pali: uṇṇākesa, Japanese: byakugō, Tibetan: mdzod spu; white hair between the Buddha's eyebrows (BL 'ūrṇākeśa'; FGDB '玉豪'; SH '玉豪', p. 195)	8001461
+8001462	甘露	\N	gānlù	amrta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amṛta; Pali: amata, Japanese: kanro, Tibetan: 'chi med; a symbol of liberation or a drink that a deva can bestow for immortality (BL 'amṛta'; Ding '甘露'; FGDB '甘露'; SH '甘露', p. 195)	8001462
+8001463	大千	\N	dà qiān	trisāhasramahāsāhasralokadhātu; a great chiliocosm; trichiliocosm; the cosmos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三千大千世界 (FGDB '三千大千世界')	8001463
+8001464	三千大千世界	\N	sān qiān dà qiān shìjiè	Three Thousandfold World System; trisāhasramahāsāhasralokadhātu; a great chiliocosm; trichiliocosm; the cosmos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trisāhasramahāsāhasralokadhātu, Japanese: sanzendaisensekai; 1,000,000,000 world-systems, great trichiliocosm. The multiple of three is from counting small, medium, and large world systems. Trichiliocosm is actually reconstructed from the Greek [from tri three + chilioi thousand + kosmos world] (BL 'trisāhasramahāsāhasralokadhātu'; FGDB '三千大千世界')	8001464
+8001465	大千世界	\N	dà qiān shìjiè	trisāhasramahāsāhasralokadhātu; a great chiliocosm; trichiliocosm; the cosmos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三千大千世界 (FGDB '三千大千世界')	8001465
+8001466	慧日	\N	huì rì	to have illuminating wisdom like the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānadivākara (FGDB '慧日'; SH '慧日', p. 433)	8001466
+8001467	罗阅城	羅閱城	Luóyuè Chéng	Rājagṛha; Rajgir; Rajagrha; Rājagaha	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	See 王舍城 (FGDB '王舍城')	8001467
+8001468	曷罗阇姞利呬	曷羅闍姞利呬	Héluóshéjílìxì	Rājagṛha; Rajgir; Rajagrha; Rājagaha	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	See 王舍城 (FGDB '王舍城')	8001468
+8001469	罗阅只	羅閱祇	Luóyuèzhǐ	Rājagṛha; Rajgir; Rajagrha; Rājagaha	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	See 王舍城 (FGDB '王舍城')	8001469
+8001470	兜率天	\N	dōushuài tiān	Tusita Heaven; Tusita gods	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita, Pali tusita, Japanese: tosotsuten, Tibetan: dga' ldan; the fourth of the Six Heavens of the Realm of Desire in Buddhist cosmology (BL 'tuṣita'; Conze 1973, pp. 311-324; FGDB '兜率天'; Lancaster 1968, p. 378; SH '欲界', p. 356; Tzu Chuang 2012)	8001470
+8001471	大正藏	\N	Dàzhèng Zàng	Taishō shinshū daizōkyō	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See see 大正新脩大藏經 (FGDB '大藏經'; Wikipedia '大正新脩大藏經')	8001471
+8001472	学处	學處	xuéchù	training; training in conduct; rules of conduct; śikṣāpada; sikkhāpada; siksapada	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣāpada, Pali: sikkhāpada, Japanese: gakusho (BL 'śikṣāpada'; Ding '學處'; FGDB '學處'; MW 'śikṣāpada')	8001472
+8001473	兜率	\N	dōushuài	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8001473
+8001474	都率天	\N	dōushuài tiān	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8001474
+8001475	半跏坐	\N	bàn jiā zuò	to sit with one leg crossed	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Usually of a bodhisattva (FGDB '半跏趺坐'; SH '半跏趺坐', p. 168)	8001475
