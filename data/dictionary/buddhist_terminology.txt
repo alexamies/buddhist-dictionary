@@ -359,7 +359,7 @@
 8000359	金刚乘	金剛乘	jīngāng shèng	Vajrayāna; Tantric Buddhism; Esoteric Buddhism	proper noun	\N	\N	佛教	Buddhism	密宗	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajrayāna, Japanese: kongōjō, Tibetan: rdo rje'i theg pa; a form of Mahāyāna Buddhism 大乘佛教 (BL 'Vajrayāna', p. 957; FGDB '金剛乘教'; Powers 2007, p. 249)	8000359
 8000360	净土宗	淨土宗	Jìng Tǔ Zōng	Pure Land School; Jingtu Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: jōdoshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'jingtu zong', p. 391; FGDB '淨土宗'; SH '淨土宗', p. 357; Wikipedia '淨土宗')	8000360
 8000361	禅宗	禪宗	chán zōng	Chan School of Buddhism; Zen	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	One of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'chan zong', p. 179; FE '禪宗'; SH '禪宗', p. 460; Wikipedia '禅宗')	8000361
-8000362	宝生佛	寶生佛	bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	(FGDB '寶生佛')	8000362
+8000362	宝生佛	寶生佛	bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnasambhava; see 寶生 (BL 'Ratnasambhava', pp. 703-704; FGDB '寶生佛'; SH '寶生', p. 477)	8000362
 8000363	大日如来	大日如來	Dàrì Rúlái	Vairocana; Mahavairocana; Buddha of supreme enlightenment	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: vairocana, Japanese: Dainichi nyorai, Tibetan: rnam par snang mdzad; one of the 五佛 'five Buddhas' and one of the central figures in the Avataṃsakasūtra 華嚴經 (BL 'Vairocana', p. 949-950; Mahāvyutpatti 'vairocanaḥ'; FGDB '大日如來')	8000363
 8000364	大日	\N	Dàrì	Vairocana; Mahavairocana; Buddha of supreme enlightenment	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: vairocana; see 大日如來 (FGDB '大日如來')	8000364
 8000365	罗怛曩三婆缚	羅怛曩三婆縛	luódánǎngsānpófú	Ratnasambhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶生佛 (FGDB '寶生佛')	8000365
@@ -1681,3 +1681,20 @@
 8001681	密迹力士	\N	mìjī lìshì	Guhyapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhyapāda; guardians of the secrets of Vairocana (FGDB '密迹力士'; SH '金剛密迹', p. 281)	8001681
 8001682	金刚密迹	金剛密迹	jīngāng mìjì	Guhyapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhyapāda; see 密迹力士 (SH '金剛密迹', p. 281)	8001682
 8001683	释梵	釋梵	shì fàn	Sakra and Brahma; Śakra and Brahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '釋梵', p. 482)	8001683
+8001684	尼寺	\N	nísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '尼寺'; SH '尼寺', p. 184)	8001684
+8001685	天部	\N	tiān bù	deities; all the deities	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	May refer to all the Buddhist deities (FGDB '天部')	8001685
+8001686	天界	\N	tiānjiè	heaven; devaloka	proper noun	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devaloka; the world where gods and devas exist, one of the Six Realms in Buddhism (SH '天界', p. 146)	8001686
+8001687	尼庵	\N	ní ān	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001687
+8001688	比丘尼寺	\N	bǐqiūnísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001688
+8001689	有为	有為	yǒuwèi	samskrta; conditioned	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃskṛta, Japanese: ui; subject to causes and conditions; contrast with asaṃskṛta (無為) unconditioned (BL 'saṃskṛta'; FGDB '有為'; SH '有爲', p. 214)	8001689
+8001690	那由他	\N	nàyóutā	a nayuta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ancient Indian unit of time or a large number (FGDB '姟')	8001690
+8001691	师子奋迅具足万行如来	師子奮迅具足萬行如來	Shīzǐ fèn xùn jùzú Wàn Xíng Rúlái	Swift Lion Myriad Accomplishment Tathagata	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8001691
+8001692	释氏	釋氏	shì shì	Sakya clan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śākya, Pali: Sākiya, Japanese: Shaka, Tibetan: shākya; name of the Indian clan that Śākyamuni Buddha was born into (BL 'Śākya', p. 741; FGDB '釋氏'; SH '釋氏', p. 482)	8001692
+8001693	倒退三千	\N	dào tuì sān qiān	fall back three thousand li	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Quote: a Chan saying referring to retreat in battle, for example in Koan 2 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 19; T 2003, Scroll 1; FGDB '倒退三千')	8001693
+8001694	南方宝生部主宝生佛	南方寶生部主寶生佛	Nánfāng Bǎo Shēng Bù Zhǔ Bǎoshēng Fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 寶生 (FGDB '寶生佛')	8001694
+8001695	妙音乐天	妙音樂天	miào yīn lè tiān	Sarasvati Devi; Saraswati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙音天 (SH '妙音天', p. 236)	8001695
+8001696	阿迦尼吒天	\N	ājiānízhà tiān	Akanistha Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha, Pali: akaniṭṭha, Japanese: shikikukyōten, Tibetan: 'og min; the highest, or eighteenth of the heavens of form (BL 'Akaniṣṭha', p. 25; Eitel 'Akaniṣṭha', p. 6; FGDB '阿迦尼吒天'; SH '阿迦尼吒', p. 292)	8001696
+8001697	阿迦尼瑟吒	\N	ājiānísèzhà	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (Eitel 'Akanichṭha', p. 6)	8001697
+8001698	强木	強木	qiángmù	Qiangmu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Tibetan Buddhist ceremony (FGDB '強木')	8001698
+8001699	二木	\N	èrmù	two trees	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to a passage in the 法華經 Lotus Sūtra (Ding '二木'; FGDB '二木'; SH '三草二木', p. 75)	8001699
+8001700	虚空孕	虛空孕	xūkōngyùn	akasagarbha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākāśagarbha, Japanese: Kokūzō bosatsu, Tibetan: Nam mkha'i snying po; the name of a bodhisattva, literally meaning the 'womb of space' (BL 'Ākāśagarbha', p. 26; SH '虛空孕')	8001700
