@@ -1642,7 +1642,7 @@
 8001642	帝释天	帝釋天	dìshì tiān	Śakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; the ruler of the Trāyastriṃśa Heaven; an alternative name is Kauśika (BL 'Kauśika'; FGDB '帝釋天')	8001642
 8001643	菩提树神	菩提樹神	pútí shù shén	Goddess of the Bodhi Tree	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '菩提樹神'; SH '菩提樹神', p. 388)	8001643
 8001644	辩才天	辯才天	Biàncái Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; the goddess of knowledge, music, arts and science (SH '辯才天', p. 483)	8001644
-8001645	大辩天	大辯天	Dà Biàn Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '辯才天', p. 483)	8001645
+8001645	大辩天	大辯天	Dà Biàn Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '大辯天', p. 95)	8001645
 8001646	大辩才天女	大辯才天女	dà biàncái tiān nǚ	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '辯才天', p. 483)	8001646
 8001647	月天	\N	yuè tiān	Candra	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: candra; the lunar deity (FGDB '月天'; SH '月天', p. 156)	8001647
 8001648	月天子	\N	yuè tiān zǐ	Regent of the Moon	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	(SH '月天子', p. 156)	8001648
@@ -1743,3 +1743,24 @@
 8001743	金刚舞菩萨	金剛舞菩薩	Jīngāng Wǔ Púsà	Vajranrti Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	(FGDB '金剛舞菩薩')	8001743
 8001744	悉昙	悉曇	xītán	an adept; a scholar-monk; siddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siddha, Tibetan: grub thob (BL 'siddha', p. 816; Powers 2007, p. 255; SH '悉曇', p. 350)	8001744
 8001745	戒名	\N	jièmíng	kaimyō; posthumous name	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: kaimyō FGDB '戒名'; (Matsuo 2007, p. 9; SH '法號', p. 268)	8001745
+8001746	佛母	\N	fómǔ	Buddha's mother	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛母' 1; SH '佛母', p. 228)	8001746
+8001747	佛母	\N	fómǔ	a bodhisattva; a consort	noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Often meant for a bodhisattva in female form or the consort of a bodhisattva or Buddha in esoteric Buddhism (FGDB '佛母' 4)	8001746
+8001748	佛母	\N	fómǔ	Prajñāpāramitā	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	(FGDB '佛母' 2; SH '佛母', p. 228)	8001746
+8001749	佛母	\N	fómǔ	Dharma	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	(FGDB '佛母' 3; SH '佛母', p. 228)	8001746
+8001750	妙音佛母	\N	Miàoyīn Fómǔ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001750
+8001751	叶衣佛母	葉衣佛母	Yè Yī Fómǔ	Parnashavari	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8001751
+8001752	莲台	蓮台	lián tái	lotus throne	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also written 蓮臺 (FGDB '蓮臺')	8001752
+8001753	大梵天	\N	Dà Fàntiān	Mahabrahma; Mahābrahmā; Brahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahābrahmā, Japanese: Daibonten (BL 'mahābrahmā', p. 494; Ding '大梵天'; Tzu Chuang 2012; FGDB '大梵天'; SH '大梵天', p. 91)	8001753
+8001754	大辩才女	大辯才女	dàbiàn cáinǚ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001754
+8001755	大辩功德天	大辯功德天	dàbiàn gōngdé tiān	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001755
+8001756	大辩才功德天	大辯才功德天	dàbiàncáigōngdétiān	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001756
+8001757	萨罗婆缚底	薩羅婆縛底	sàluópófúdǐ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001757
+8001758	萨罗酸底	薩羅酸底	sàluósuāndǐ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001758
+8001759	树下诞生	樹下誕生	shù xià dànshēng	birth of prince Siddartha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '釋迦牟尼'; FGS Encyclopedia of Buddhist Arts)	8001759
+8001760	步步生莲	步步生蓮	bù bù shēng lián	seven steps at birth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of the Buddha when he was born (FGS Encyclopedia of Buddhist Arts)	8001760
+8001761	树下观耕	樹下觀耕	shù xià guān gēng	reflections on the farming process	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 樹下思惟 (FGS Encyclopedia of Buddhist Arts)	8001761
+8001762	樹下思惟	\N	shù xià sīwéi	reflections on the farming process	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Jataka story (FGDB '十二因緣經'; FGS Encyclopedia of Buddhist Arts)	8001762
+8001763	婚配赛艺	婚配賽藝	hūn pèi sài yì	Skills Contest	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8001763
+8001764	水陆斋仪	水陸齋儀	shuǐ lù zhāiyí	Water and Land Service	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '水陸齋儀')	8001764
+8001765	出游四门	出遊四門	chūyóu sì mén	four encounters with impermanence on leaving the palace gates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Prince Siddhartha's four encounters with impermanence on travelling out from the palace: old age, sickness, death, and a wandering ascetic (FGDB '八相'; FGS Encyclopedia of Buddhist Arts)	8001765
+8001766	夜半踰城	\N	yè bàn yú chéng	night departure from the palace	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the story of Prince Siddhartha leaving the palace (FGS Encyclopedia of Buddhist Arts)	8001766
