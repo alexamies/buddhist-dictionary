@@ -1849,7 +1849,7 @@
 8001849	僧伽	\N	sēngqié	Samgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, Pali: saṅgha, Japanese: sōgya, Korean: sŭngga, Tibetan: dge ’dun, Khmer: preah sang; the community of monks and nuns (BL 'saṅgha', p. 768; FGDB '僧伽')	8001849
 8001850	毗奈耶	\N	pínàiyē	monastic discipline; vinaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 律 (FGDB '律')	8001850
 8001851	界	\N	jiè	dhatu; realm; field; domain	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhātu, Pali: dhātu, Japanese: kai, Tibetan: khams; in Buddhist cosmology and philosophy; for example, 欲界 'realm of desire' (BL 'dhātu', p. 254; FGDB '界'; Kroll 2015 '界' 5, p. 211; Red Pine 2012, loc. 5667; SH '界', p. 308)	8001851
-8001852	多罗菩萨	多羅菩薩	duōluó púsà	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: tārā, Japanese: Tara, Tibetan: sgrol ma; female bodhisattva, mother of liberation (BL 'Tārā', p. 895-896; Ding '多羅菩薩'; FGDB '多羅菩薩'; SH '多羅菩薩', p. 209)	8001852
+8001852	多罗菩萨	多羅菩薩	duōluó púsà	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: tārā, Japanese: Tara, Tibetan: sgrol ma; female bodhisattva, mother of liberation (Baike '多罗菩萨'; BL 'Tārā', p. 895-896; Ding '多羅菩薩'; FGDB '多羅菩薩'; FGS Encyclopedia of Buddhist Arts; Powers 2007, p. 552; SH '多羅菩薩', p. 209; Wikipedia '多羅菩薩')	8001852
 8001853	驮都	馱都	duòdōu	dhatu; realm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhātu; see 界 (FGDB '界')	8001853
 8001854	多罗母	多羅母	duōluó mǔ	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	tara400.jpg	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001854
 8001855	多罗佛母	多羅佛母	duōluó fómǔ	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	tara400.jpg	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001855
@@ -1870,5 +1870,36 @@
 8001870	佛顶尊胜	佛頂尊勝	fó dǐng zūn shèng	Usnisavijaya	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣavijayā; see 尊勝佛頂 (Wikipedia '尊勝佛頂')	8001870
 8001871	尊胜佛母	尊勝佛母	zūn shèng fó mǔ	Usnisavijaya	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣavijayā; see 尊勝佛頂 (Wikipedia '尊勝佛頂')	8001871
 8001872	救众生度母	救眾生度母	jiù zhòngshēng dù mǔ	Bhagvati Arya Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Also represented as Green Tara (FGS Encyclopedia of Buddhist Arts)	8001872
-8001873	绿度母	綠度母	lǜ dù mǔ	Green Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	A form of Tara associated with enlightened activity, usually in the form of a young girl (FGDB '綠度母'; Wikipedia '多羅菩薩')	8001873
+8001873	绿度母	綠度母	lǜ dù mǔ	Green Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	A form of Tara associated with enlightened activity, usually in the form of a young girl (FGDB '綠度母')	8001873
 8001874	圣救度	聖救度	shèng jiùdù	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	tara400.jpg	\N	See 綠度母 (FGDB '綠度母')	8001874
+8001875	多罗观音	多羅觀音	duōluó guānyīn	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001875
+8001876	多利菩萨	多利菩薩	duōlì púsà	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	tara400.jpg	\N	See 多羅菩薩 (FGDB '多羅菩薩'; T 1103b, Scroll 1)	8001876
+8001877	交椅	\N	jiāoyǐ	sitting mat; pitha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṭha, see 繩床 (FGDB '繩床')	8001877
+8001878	摄伏世间救度	攝伏世間救度	shè fú shìjiān jiùdù	Jagadvasi Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 21 forms of Tara; see 多羅菩薩 (FGDB '多羅菩薩')	8001878
+8001879	多唎菩萨	多唎菩薩	duō lì púsà	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	tara400.jpg	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001879
+8001880	除诸恶难救度	除諸惡難救度	chú zhū è nán jiùdù	Khadiravani Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 21 forms of Tara; see 多羅菩薩 (FGDB '多羅菩薩')	8001880
+8001881	尊者速勇救度	\N	zūnzhě sù yǒng jiùdù	Pravira Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 21 forms of Tara; see 多羅菩薩 (FGDB '多羅菩薩')	8001881
+8001882	大善秋月救度	\N	dà shàn qiū yuè jiùdù	Candrakanti Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 21 forms of Tara; see 多羅菩薩 (FGDB '多羅菩薩')	8001882
+8001883	多㘑菩萨	多㘑菩薩	duōlìpúsà	Tara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001883
+8001884	圣多罗菩萨	聖多羅菩薩	shèngduōluópúsà	Tara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001884
+8001885	多罗尊观音	多羅尊觀音	duōluózūnguānyīn	Tara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001885
+8001886	多罗观世音	多羅觀世音	duōluóguānshìyīn	Tara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001886
+8001887	顶冠月相母	頂冠月相母	dǐngguānyuèxiāngmǔ	Zla-baḥi bum-bus-dpral-rgyan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Tibetan: zla-baḥi bum-bus-dpral-rgyan; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001887
+8001888	如尽劫火母	如盡劫火母	rújìnjiéhuǒmǔ	Bskal-baḥi-tha-maḥi me-ltar	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Tibetan: Bskal-baḥi-tha-maḥi me-ltar; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001888
+8001889	白度母	\N	bái dù mǔ	Kanakavarna Tara; White Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: kanakavarṇa tārā, Tibetan: sgrol dkar; one of the 21 forms of Tara (FGDB '白度母')	8001889
+8001890	与愿印	與願印	yǔyuànyìn	varada mudra; vara mudra	noun	手印	Mudra	佛教	Buddhism	密教	Esoteric Buddhism	vara_mundra.jpg	\N	Sanskrit equivalent: varadamudrā; see 施願印 (FGDB '施願印')	8001890
+8001891	多罗尊	多羅尊	duōluó zūn	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001891
+8001892	多利尊	\N	duōlì zūn	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001892
+8001893	大悲观世音菩萨	大悲觀世音菩薩	dà bēi guānshìyīn púsà	Guanyin bodhisattva; Avalokitesvara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	nanhai_guanyinxiang400.jpg	\N	The bodhisattva of Compassion; see 觀世音菩薩 (FGDB '觀世音菩薩')	8001893
+8001894	波利库姬	波利庫姬	bōlìkùjī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '多羅菩薩')	8001894
+8001895	绿多罗菩萨	綠多羅菩薩	lǜ duōluó púsà	Green Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: sgrol-ma-ljaṅ-khu (FGDB '多羅菩薩')	8001895
+8001896	救度速勇母	\N	jiùdù sù yǒng mǔ	Sgrol-ma-myur-madpah-mo	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Sgrol-ma-myur-madpah-mo; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001896
+8001897	百秋朗月母	\N	bǎi qiū lǎng yuè mǔ	Ston-kahi zla-ba Kun-tu gsal-brgya	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: ston-kahi zla-ba Kun-tu gsal-brgya; one of the 21 forms of Tara; see 多羅菩薩 (FGDB '多羅菩薩')	8001897
+8001898	紫磨金色母	\N	zǐ mó jīnsè mǔ	Ser-sde-chu	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Ser-sde-chu; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001898
+8001899	如来顶髻母	如來頂髻母	rúlái dǐng jì mǔ	Tara; De-bshin-gśegs-pahi gtsug-tor	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: De-bshin-gśegs-pahi gtsug-tor; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001899
+8001900	怛罗吽字母	怛羅吽字母	dá luó ōu zì mǔ	Tāra hūj yi-ge	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Tāra hūj yi-ge; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001900
+8001901	世	\N	shì	loka; a world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: loka, Pali: loka, J. sekai; seken, Tibetan: jig rten; an abbreviation of 世間 (BL 'loka', pp. 479-480; Ding '世'; FGDB '世'; SH '世', p. 164)	8001901
+8001902	释梵火天母	釋梵火天母	shì fàn huǒ tiān mǔ	Tara; Brgya-byin me-lhatshavs-pa	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Brgya-byin me-lhatshavs-pa; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001902
+8001903	特罗胝发母	特囉胝發母	té luō zhī fā mǔ	Tara; Trad-cis-bya-dav phat	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Trad-cis-bya-dav phat; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001903
+8001904	空行母	\N	kōngxíngmǔ	dakini	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: ḍākinī; see 荼吉尼 (FGDB '荼吉尼')	8001904
+8001905	荼吉尼	\N	tújíní	dakini	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ḍākinī; a female demon (BL 'ḍākinī', p. 209; FGDB '荼吉尼'; SH '荼吉尼', p. 363)	8001905
