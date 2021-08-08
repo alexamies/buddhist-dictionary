@@ -4,7 +4,7 @@
 DictionaryDir: data/dictionary
 
 # The names of the lexical unit files
-LUFiles: words.txt,fgs_mwe.txt,translation_memory_buddhist.txt,translation_memory_literary.txt,buddhist_terminology.txt,buddhist_named_entities.txt,translation_memory_hsingyun.txt
+LUFiles: cnotes_zh_en_dict.tsv,fgs_mwe.txt,translation_memory_buddhist.txt,translation_memory_literary.txt,buddhist_terminology.txt,buddhist_named_entities.txt,translation_memory_hsingyun.txt
 
 # Location that the templates are found
 TemplateDir: html/material-templates
