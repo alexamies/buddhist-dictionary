@@ -1214,7 +1214,7 @@
 8001214	六种外道	六種外道	liù zhǒng wàidào	six [ascetic] schools	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 六種苦行外道 (SH '六種外道', p. 136)	8001214
 8001215	卡耆俱提	\N	kǎqí jūtí	Kachchi Kuti	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	Located in Sravasti, India (FGS Encyclopedia of Buddhist Arts)	8001215
 8001216	给孤独长者	給孤獨長者	jǐgūdú zhǎngzhě	Anāthapiṇḍada	proper noun	人	Person	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: anāthapiṇḍada; the chief lay disciple of the Buddha (FGDB '給孤獨園')	8001216
-8001217	曼荼罗	曼荼羅	màntúluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala, Japanese: mandara, Tibetan: dkyil khor; literally meaning 'circle' in Sanskrit, used widely in Tantric Buddhism (BL 'maṇḍala', pp. 523-524; FGDB '曼荼羅'; MW 'maNDala'; Powell 2007, pp. 262-265)	8001217
+8001217	曼荼罗	曼荼羅	màntúluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala, Japanese: mandara, Tibetan: dkyil khor; literally meaning 'circle' in Sanskrit, used widely in Tantric Buddhism; either drawn on ground with places where deities will appear in visualizations or as an image on cloth or paper where deities are drawn (BL 'maṇḍala', pp. 523-524; FGDB '曼荼羅'; MW 'maNDala'; Powell 2007, pp. 262-265)	8001217
 8001218	坛城	壇城	tánchéng	a mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8001218
 8001219	灵塔	靈塔	líng tǎ	a memorial pagoda; a sacred stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '八大靈塔', p. 35)	8001219
 8001220	孔达尼	孔達尼	kǒngdání	Kondane Caves	proper noun	石窟	Caves	佛教	Buddhism	印度	India	\N	\N	Grottos located in Pune, India (FGS Encyclopedia of Buddhist Arts)	8001220
@@ -2097,3 +2097,30 @@
 8002097	阎摩德迦明王	閻摩德迦明王	yánmódéjiā míngwáng	Yamantaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大威德金剛 (FGDB '閻曼德迦明王')	8002097
 8002098	六足尊	\N	liù zú zūn	Yamantaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大威德金剛 (FGDB '閻曼德迦明王')	8002098
 8002099	摩尼宝	摩尼寶	mòní bǎo	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇi; symbolizing the ability to do as one wishes and also posessing merit, such as being able to cure sickness (BL 'maṇi', p. 526; FGDB '摩尼')	8002099
+8002100	曼荼攞	\N	màntúluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (T 849)	8002100
+8002101	门答辣	門答辣	méndálà	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (SH '門答辣', p. 284)	8002101
+8002102	扪打勒	捫打勒	méndǎlēi	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (SH '捫打勒', p. 350)	8002102
+8002103	曼特罗	曼特羅	màntéluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (SH '曼荼羅', p. 352)	8002103
+8002104	曼陀罗	曼陀羅	màntuóluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (SH '曼荼羅', p. 352)	8002104
+8002105	曼拏罗	曼拏羅	mànnáluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (SH '曼荼羅', p. 352)	8002105
+8002106	蔓陀啰	蔓陀囉	màntuóluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (SH '曼荼羅', p. 352)	8002106
+8002107	赫鲁嘎	赫魯嘎	hèlǔgá	Heruka	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: heruka, Japanese: Kiruoka, Tibetan: khrag 'thung; a form of wrathful deity in Tantric Buddhism (BL 'Heruka', p. 347; Wikipedia '赫魯嘎')	8002107
+8002108	黑鲁嘎	黑魯嘎	hēilǔgá	Heruka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: heruka; see 赫魯嘎 (Wikipedia '赫魯嘎')	8002108
+8002109	黑噜嘎	黑嚕嘎	hēilūgá	Heruka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: heruka; see 赫魯嘎 (Wikipedia '赫魯嘎')	8002109
+8002110	黑茹迦	\N	hēirújiā	Heruka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: heruka; see 赫魯嘎 (Wikipedia '赫魯嘎')	8002110
+8002111	马头明王	馬頭明王	mǎ tóu míng wáng	Hayagriva	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: hayagrīva; see 馬頭觀音 (SH '馬頭觀音', p. 341)	8002111
+8002112	喜金刚	喜金剛	xǐ jīngāng	Hevajra	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: hevajra; see 金剛王 (Baike '欢喜金刚'; BL 'Hevajra', p. 348-349; FGDB '喜金剛')	8002112
+8002113	金刚钩王	金剛鉤王	jīngānggōu wáng	Hevajra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hevajra; see 金剛王 (SH '金剛王', p. 282)	8002113
+8002114	僧祇支	\N	sēngzhǐzhī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā (Ding '僧祇支'; FGDB '僧祇支'; SH '僧祇支', p. 421)	8002114
+8002115	祇支	\N	zhǐzhī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (SH '祇支', p. 311)	8002115
+8002116	掩腋衣	\N	yǎnyèyī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002116
+8002117	掩腋衬衣	掩腋襯衣	yǎnyèchènyī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002117
+8002118	覆腋衣	\N	fùyèyī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002118
+8002119	覆肩衣	\N	fùjiānyī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002119
+8002120	僧脚崎迦	僧腳崎迦	sēngjiǎoqíjiā	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002120
+8002121	僧竭支	\N	sēngjiézhī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002121
+8002122	僧迦支	\N	sēngjiāzhī	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002122
+8002123	僧却崎	僧卻崎	sēngquèqí	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002123
+8002124	僧脚崎	僧腳崎	sēngjiǎoqí	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002124
+8002125	僧脚差	僧腳差	sēngjiǎochà	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002125
+8002126	密集金刚	密集金剛	mìjí jīngāng	Guhyasamaja; Guhyasamaja vajra	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: guhyasamāja (Bunce and Capdi 1994, p. 191; Chandra and Bunce 2002, p. 32; FGS Encyclopedia of Buddhist Arts; Wikipedia '密集金刚')	8002126
