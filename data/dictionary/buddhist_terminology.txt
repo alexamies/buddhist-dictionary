@@ -360,7 +360,7 @@
 8000360	净土宗	淨土宗	Jìng Tǔ Zōng	Pure Land School; Jingtu Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: jōdoshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'jingtu zong', p. 391; FGDB '淨土宗'; SH '淨土宗', p. 357; Wikipedia '淨土宗')	8000360
 8000361	禅宗	禪宗	chán zōng	Chan School of Buddhism; Zen	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	One of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'chan zong', p. 179; FE '禪宗'; SH '禪宗', p. 460; Wikipedia '禅宗')	8000361
 8000362	宝生佛	寶生佛	bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnasambhava; see 寶生 (BL 'Ratnasambhava', pp. 703-704; FGDB '寶生佛'; SH '寶生', p. 477)	8000362
-8000363	大日如来	大日如來	dàrì rúlái	Vairocana; Mahavairocana; Buddha of supreme enlightenment	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: vairocana, or: mahāvairocana, Japanese: Dainichi nyorai, Tibetan: rnam par snang mdzad; one of the 五佛 'five Buddhas' and a central figures in the Avataṃsakasūtra 華嚴經 (BL 'Vairocana', p. 949-950; Chandra and Bunce 2002, pp. 262-163; Mahāvyutpatti 'vairocanaḥ'; FGDB '大日如來')	8000363
+8000363	大日如来	大日如來	dàrì rúlái	Vairocana Tathagata; Mahavairocana	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: vairocana, or: mahāvairocana, Japanese: Dainichi nyorai, Tibetan: rnam par snang mdzad. Literally meaning 'of the sun' in Sanskrit, Vairocana is the central of the 五佛 'five Buddhas.' Vairocana appears in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra and is a figure in the Avataṃsakasūtra 華嚴經 (BL 'Vairocana', p. 949-950; Chandra and Bunce 2002, pp. 262-163; Mahāvyutpatti 'vairocanaḥ'; FGDB '大日如來'; MW 'vairocana'; SH '大日', p. 90; T 848).	8000363
 8000364	大日	\N	Dàrì	Vairocana; Mahavairocana; Buddha of supreme enlightenment	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: vairocana; see 大日如來 (FGDB '大日如來')	8000364
 8000365	罗怛曩三婆缚	羅怛曩三婆縛	luódánǎngsānpófú	Ratnasambhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶生佛 (FGDB '寶生佛')	8000365
 8000366	阿閦佛	\N	Āchù Fó	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya, Japanese: Ashuku butsu, Tibetan: mi bskyod pa, or: mi 'khrugs pa; literally meaning 'immovable' or  'imperturbable', the imperturbable ruler of Eastern Paradise, Abhirati (BL 'Akṣobhya', p. 27; Mahāvyutpatti 'akṣobhyaḥ'; FGDB '阿閦佛'; BCSD '阿閦佛'; MW 'akSobhya')	8000366
@@ -2332,3 +2332,62 @@
 8002332	毘首羯磨	\N	píshǒujiémótiān	Visvakarma; Visvakarman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvakarmā; see 毘首羯磨天 (FGDB '毘首羯磨天'; SH '毘首羯磨', p. 307; Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002332
 8002333	毘守羯磨	\N	píshǒujiémó	Visvakarma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvakarmā; see 毘首羯磨天 (FGDB '毘首羯磨天')	8002333
 8002334	毘湿缚羯磨	毘濕縛羯磨	píshīfújiémó	Visvakarma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvakarmā; see 毘首羯磨天 (FGDB '毘首羯磨天')	8002334
+8002335	梵天后	\N	fàntiānhòu	Brahmā's consort	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '梵天后', p. 353)	8002335
+8002336	世所宗奉	\N	shìsuǒzōngfèng	Lokanatha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokanātha; Mentioned in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002336
+8002337	火天	\N	huǒtiān	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni, Pali: aggi, Japanese: Kashin, Tibetan: me lha; god of fire (BL 'Agni', p. 20; FGDB '火天'; SH '火天', p. 160; Wikipedia '火天')	8002337
+8002338	火仙	\N	huǒxiān	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火天 (FGDB '火天')	8002338
+8002339	火神	\N	huǒshén	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火天 (FGDB '火天')	8002339
+8002340	火光尊	\N	huǒguāngzūn	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火天 (FGDB '火天')	8002340
+8002341	波昙摩	波曇摩	bōtánmó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 波頭摩 (SH '波頭摩', p. 287)	8002341
+8002342	波暮	\N	bōmù	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 波頭摩 (SH '波頭摩', p. 287)	8002342
+8002343	德叉迦龙	德叉迦龍	déchājiālóng	Taksaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: takṣaka; written in this form in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra; see 德叉伽龍王 (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002343
+8002344	和修吉	\N	héxiūjí	Vasuki	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsuki; written in this form in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra; see 和修吉龍王 (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002344
+8002345	商佉	\N	shāngqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; literally Conch of the Dharma, name of a deity (FGDB '商佉'; SH '法螺', p. 272; Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002345
+8002346	儴佉	\N	rángqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002346
+8002347	穰佉	\N	rángqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002347
+8002348	蠰佉	\N	bàiqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002348
+8002349	饷佉	餉佉	xiǎngqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002349
+8002350	霜佉	\N	shuāngqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002350
+8002351	胜佉	勝佉	shèngqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002351
+8002352	商迦	\N	shāngjiā	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002352
+8002353	商企罗	商企羅	shāngqǐluó	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002353
+8002354	偿起罗	償起羅	chángqǐluó	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; see 商佉 (FGDB '商佉')	8002354
+8002355	羯句啅剑	羯句啅劍	jiéjùzhuójiàn	Karkotaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karkoṭaka; name of a deity (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002355
+8002356	大莲	大蓮	dà lián	Mahapadma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāpadma; name of a deity in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002356
+8002357	大莲华	大蓮華	dà liánhuā	great white lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; also one of the eight cold hells (SH '大蓮華', p. 95)	8002357
+8002358	大莲华法藏界	大蓮華法藏界	dà liánhuā fǎ cáng jiè	Great Lotus Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '大蓮華法藏界', p. 95)	8002358
+8002359	大莲华智慧三摩地智	大蓮華智慧三摩地智	dà liánhuā zhìhuì sānmódì zhì	understanding of the great lotus-wisdom samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '大蓮華智慧三摩地智', p. 95)	8002359
+8002360	俱里剑	俱里劍	jūlǐjiàn	Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002360
+8002361	俱利迦罗龙王	俱利迦羅龍王	jūlìjiāluó lóngwáng	Dragon King Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; a deity in esoteric Buddhism, a manifestation of 不動明王 Acalanātha-Vidyārāja (FGDB '俱利迦羅龍王')	8002361
+8002362	俱哩迦龙王	俱哩迦龍王	jūlǐjiā lóngwáng	Dragon King Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002362
+8002363	俱哩迦	\N	jūlǐjiā	Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002363
+8002364	古力迦龙王	古力迦龍王	gǔlìjiā lóngwáng	Dragon King Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002364
+8002365	古力迦	\N	gǔlìjiā	Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002365
+8002366	瞿梨伽罗龙王	瞿梨伽羅龍王	jùlíjiāluó lóngwáng	Dragon King Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002366
+8002367	瞿梨伽罗	瞿梨伽羅	jùlíjiāluó	Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002367
+8002368	俱哩迦罗不动	俱哩迦羅不動	jūlǐjiāluó bùdòng	Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002368
+8002369	俱里剑	俱里劍	jūlǐjiàn	Kulika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulika; see 俱利迦羅龍王 (FGDB '俱利迦羅龍王')	8002369
+8002370	摩诃泮尼	摩訶泮尼	móhēpànní	Mahaphani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāphaṇi; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002370
+8002371	阿地提婆	\N	ādìtípó	Adideva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādideva; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002371
+8002372	萨陀难陀	薩陀難陀	sàtuónántuó	Sadananta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sadānanta; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002372
+8002373	无贪心	無貪心	wútānxīn	a mind without greed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002373
+8002374	六十心	\N	liùshíxīn	sixty kinds of mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A list of mental states listed in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra”, for example, 貪心 a mind with greed, 無貪心 a mind without greed, 瞋心 a mind of anger (FGDB '六十心'; SH '六十心', p. 132; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002374
+8002375	贪心	貪心	tānxīn	a mind with greed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002375
+8002376	癡心	\N	chī xīn	a mind of ignorance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The fifth of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002376
+8002377	智心	\N	zhìxīn	a wise mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 6th of the 六十心 sixty kinds of mind (FGDB '六十心'; SH '智心', p. 374; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002377
+8002378	暗心	\N	àn xīn	a dark mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 闇心 (Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002378
+8002379	闇心	\N	àn xīn	a dark mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 9th of the 六十心 sixty kinds of mind (FGDB '六十心'; SH '闇心', p. 463; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002379
+8002380	积聚心	積聚心	jījùxīn	an accumulating mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 11th of the 六十心 sixty kinds of mind that synthesizes many things together (FGDB '六十心'; SH '闇心', p. 463; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002380
+8002381	鬪心	\N	dòuxīn	a combatative mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鬥心 (Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002381
+8002382	斗心	鬥心	dòuxīn	a combatative mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 12th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002382
+8002383	诤心	諍心	zhèngxīn	a disputing mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 13th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002383
+8002384	无诤心	無諍心	wú zhèng xīn	a non-disputing mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 14th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002384
+8002385	天心	\N	tiānxīn	the mind of a deva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 15th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002385
+8002386	我人四相	\N	wǒ rén sì xiāng	four notions of the self	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the Diamond Sutra; namely, 1. 我相 there is a real self, 2. 人相 the self is different from other beings, 3. 衆生相 all beings have a self, 4. 壽相 permanence of self (SH '我人四相', p. 238)	8002386
+8002387	阿修罗心	阿修羅心	āxiūluó xīn	the mind of an asura	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 16th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002387
+8002388	龙心	龍心	lóng xīn	the mind of a dragon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 17th of the 六十心 sixty kinds of mind, greedy and resentful (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002388
+8002389	阿舍棃	\N	āshèlí	acarya; a religious teacher	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ācārya; see 阿闍梨 (SH '阿闍黎', p. 292)	8002389
+8002390	人心	\N	rénxīn	the mind of a human	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 18th of the 六十心 sixty kinds of mind, able to help others (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002390
+8002391	女心	\N	nǚ xīn	the mind of a woman	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 19th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002391
+8002392	自在心	\N	zìzài xīn	the mind of Īśvara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 20th of the 六十心 sixty kinds of mind, a mind of ease (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002392
+8002393	商人心	\N	shāngrén xīn	the mind of a merchant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 21st of the 六十心 sixty kinds of mind, a mind determined to study and work (FGDB '六十心'; Giebel 2005, p. 10; T 848, Scroll 1, 18.0002c03)	8002393
