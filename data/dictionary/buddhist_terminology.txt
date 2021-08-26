@@ -418,7 +418,7 @@
 8000418	空海	\N	kōng hǎi	sky and ocean	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As an simile of boundlessness (SH '空海', p. 277)	8000418
 8000419	饿鬼道	餓鬼道	È Guǐ Dào	Hungry Ghost Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	The second lowest of the 六道 Six Realms (BL 'preta', p. 676; FGDB '餓鬼道'; SH '餓鬼道', p. 454; Tzu Chuang 2012, pp. 267-268)	8000419
 8000420	饿鬼	餓鬼	È Guǐ	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta, Pali: peta, Japanese: gaki, Tibetan: yi dwags; a being whose desires can never be satisfied (BL 'preta', p. 676; Ding '餓鬼'; FGDB '餓鬼'; SH '餓鬼'; , p. 454; Tzu Chuang 2012, pp. 267-268)	8000420
-8000421	薜荔多	\N	shìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 餓鬼 (FGDB '餓鬼')	8000421
+8000421	薜荔多	\N	shìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8000421
 8000422	畜生道	\N	chùsheng dào	Animal Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	The third lowest of the 六道 Six Realms (FGDB '畜生道'; SH '畜生道', p. 331; Tzu Chuang 2012, p. 267)	8000422
 8000423	修罗道	修羅道	xiūluó dào	Asura Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Of the 六道 Six Realms (SH '修羅道', p. 321; Tzu Chuang 2012, p. 267)	8000423
 8000424	修罗	修羅	xiūluó	Asura	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 阿修羅 (FGDB '阿修羅')	8000424
@@ -2588,8 +2588,8 @@
 8002588	九想观	九想觀	jiǔ xiǎngguān	nine perceptions; navasamjna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navasaṃjñā; see 九想 (BL 'navasaṃjñā', p. 578)	8002588
 8002589	风	風	fēng	wind element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 four great elements (FGDB '風'; Tzu Chuang 2012, p. 92)	8002589
 8002590	风	風	fēng	wind; vayu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu (BCSD '風', p. 1272; MW 'vāyu'; SH '風', p. 318)	8002589
-8002591	闭戾多	閉戾多	bìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 餓鬼 (FGDB '餓鬼')	8002591
-8002592	俾礼多	俾禮多	bǐlǐduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 餓鬼 (FGDB '餓鬼')	8002592
+8002591	闭戾多	閉戾多	bìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002591
+8002592	俾礼多	俾禮多	bǐlǐduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002592
 8002593	火	\N	huǒ	fire element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 four great elements (Tzu Chuang 2012, p. 92)	8002593
 8002594	火	\N	huǒ	fire; agni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni (BCSD '風', p. 748; MW 'agni')	8002593
 8002595	牛	\N	niú	cow; cattle; go	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: go (BCSD '牛', p. 809; MW 'go'; SH '牛', p. 162)	8002595
@@ -2597,6 +2597,17 @@
 8002597	伊舍尼方	\N	yīshění fāng	Iśāna; northeast	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iśāna; see 伊舍那方 (FGDB '伊舍那方')	8002597
 8002598	地	\N	dì	earth; prthivi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthivī (BCSD '地', p. 291; MW 'pṛthivī'; SH '地', p. 206)	8002598
 8002598	地	\N	dì	stage; ground; level; bhumi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhūmi, Tibetan: sa, Japanese: ji; one of the ten stages of bodhisattva development into a Buddha 十地 (BL 'bhūmi', pp. 116-117; Kroll 2015 '地' 4, pp. 83-84; Powers 2007, p. 121; Tzu Chuang 2012, p. 31)	8002598
-8002600	卑利多	\N	bēilìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 餓鬼 (FGDB '餓鬼')	8002600
+8002600	卑利多	\N	bēilìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002600
 8002601	央具梨	\N	yāngjùlí	finger; finger breadth; anguli	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅguli; measurement unit equal to the breadth of a finger (MW 'aṅguli'; Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002601
-8002602	一切遍知印	\N	yīqièbiànzhīyìn	seal of all-knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra”  (Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002602
+8002602	一切遍知印	\N	yīqièbiànzhīyìn	seal of all-knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002602
+8002603	满	滿	mǎn	to fulfill; to satisfy; paripurna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrṇa (BCSD '滿', p. 742; MW 'paripūrṇa')	8002603
+8002604	众	眾	zhòng	many; all; sarva	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva (BCSD '眾', p. 1040; MW 'sarva')	8002604
+8002605	愿	願	yuàn	a vow; pranidhana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yuan4.mp3	Sanskrit equivalent: praṇidhāna (BCSD '願', p. 1268; FGDB '願'; MW 'praṇidhāna'; SH '願', p. 476; Tzu Chuang 2012, pp. 372-374)	8002605
+8002606	弥荔多	彌荔多	mílìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002606
+8002607	满众愿	滿眾願	mǎn zhòng yuàn	Fulfiller of Many Wishes; Sarvasaparipuraka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvāśāparipūraka; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002607
+8002608	满愿	滿願	mǎn yuàn	fulfill wishes; paripūrṇa-saṃkalpa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrṇa-saṃkalpa (BCSD '滿願', p. 743)	8002608
+8002609	观世自在者	觀世自在者	guān shì zì zài zhě	Avalokitesvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara; variant writing found in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002609
+8002610	观	觀	guàn	insight; vipasyana; vipassana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	guan1.mp3	Sanskrit equivalent: vipaśyanā, Pali: vipassanā, Japanese: kan, Tibetan: lhag mthong; insight into the true nature of reality (BCSD '觀', p. 1064; BL 'vipassanā', p. 979; FGDB '觀'; Kroll 2015 '觀' guàn 3, p. 143; Powers 2007, p. 86; SH '觀', p. 489)	8002610
+8002611	观	觀	guān	mindfulness; contemplation; smrti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛti; as in the Five Contemplations 五停心觀; see 念 (FGDB '五停心觀')	8002610
+8002612	观	觀	guān	recollection; anusmrti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anusmṛti; see 念 (BCSD '觀', p. 1064)	8002610
+8002613	观	觀	guān	viewing; avaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaloka (BCSD '觀', p. 1064; MW 'avaloka')	8002610
