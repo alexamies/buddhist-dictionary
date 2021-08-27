@@ -417,7 +417,7 @@
 8000417	眞言宗	\N	zhēnyán zōng	Shingonshū; Shingon School	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 真言宗 (BL 'Shingonshū', pp. 806-807)	8000417
 8000418	空海	\N	kōng hǎi	sky and ocean	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As an simile of boundlessness (SH '空海', p. 277)	8000418
 8000419	饿鬼道	餓鬼道	È Guǐ Dào	Hungry Ghost Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	The second lowest of the 六道 Six Realms (BL 'preta', p. 676; FGDB '餓鬼道'; SH '餓鬼道', p. 454; Tzu Chuang 2012, pp. 267-268)	8000419
-8000420	饿鬼	餓鬼	È Guǐ	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta, Pali: peta, Japanese: gaki, Tibetan: yi dwags; a being whose desires can never be satisfied (BL 'preta', p. 676; Ding '餓鬼'; FGDB '餓鬼'; SH '餓鬼'; , p. 454; Tzu Chuang 2012, pp. 267-268)	8000420
+8000420	饿鬼	餓鬼	è guǐ	hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta, Pali: peta, Japanese: gaki, Tibetan: yi dwags; a being whose desires can never be satisfied (BL 'preta', p. 676; Ding '餓鬼'; FGDB '餓鬼'; SH '餓鬼'; , p. 454; Tzu Chuang 2012, pp. 267-268)	8000420
 8000421	薜荔多	\N	shìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8000421
 8000422	畜生道	\N	chùsheng dào	Animal Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	The third lowest of the 六道 Six Realms (FGDB '畜生道'; SH '畜生道', p. 331; Tzu Chuang 2012, p. 267)	8000422
 8000423	修罗道	修羅道	xiūluó dào	Asura Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Of the 六道 Six Realms (SH '修羅道', p. 321; Tzu Chuang 2012, p. 267)	8000423
@@ -2611,3 +2611,13 @@
 8002611	观	觀	guān	mindfulness; contemplation; smrti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛti; as in the Five Contemplations 五停心觀; see 念 (FGDB '五停心觀')	8002610
 8002612	观	觀	guān	recollection; anusmrti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anusmṛti; see 念 (BCSD '觀', p. 1064)	8002610
 8002613	观	觀	guān	viewing; avaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaloka (BCSD '觀', p. 1064; MW 'avaloka')	8002610
+8002614	闭多	閉多	bìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002614
+8002615	军那花	軍那花	jūnnà huā	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; also written 軍那華 (BCSD '軍那', p. 1132; FGDB '軍那花'; Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002615
+8002616	军那华	軍那華	jūnnà huá	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002616
+8002617	军那	軍那	jūnnà	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (FGDB '軍那花')	8002617
+8002618	君陀花	\N	jūntuó huā	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (FGDB '軍那花')	8002618
+8002619	裙那花	\N	qúnnà huā	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (FGDB '軍那花')	8002619
+8002620	军	軍	jūn	army; senā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: senā, Tibetan: sde'am dmag (BCSD '軍', p. 1132; Mahāvyutpatti 'senā'; MW 'senā')	8002620
+8002621	毘俱胝	\N	píjūzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhṛkuṭī; variant writing used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra”; see 毘倶胝 (Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002621
+8002622	明妃	\N	míngfēi	wise consort; vidyarajni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyārājñī; a consort visualized in mandala for tantric rituals (CC-CEDICT '明妃'; Guoyu '明妃'; Wikipedia '明妃')	8002622
+8002623	明	\N	míng	wisdom; vidyā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vidyā, Pali: vijjā (FGDB '明' ; Wikipedia '明 (佛教)')	8002623
