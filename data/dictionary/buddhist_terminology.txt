@@ -44,7 +44,7 @@
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
 8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
-8000047	梵	\N	fàn	brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bráhma, a member of the Indian caste (BCSD '梵'; FGDB '梵'; MW 'brahman')	8000047
+8000047	梵	\N	fàn	brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahma; a member of the Indian caste (BCSD '梵'; FGDB '梵'; MW 'brahman')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BL 'ārya', p. 64; BCSD '聖'; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
@@ -2617,7 +2617,47 @@
 8002617	军那	軍那	jūnnà	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (FGDB '軍那花')	8002617
 8002618	君陀花	\N	jūntuó huā	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (FGDB '軍那花')	8002618
 8002619	裙那花	\N	qúnnà huā	jasmine; kunda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunda; see 軍那花 (FGDB '軍那花')	8002619
-8002620	军	軍	jūn	army; senā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: senā, Tibetan: sde'am dmag (BCSD '軍', p. 1132; Mahāvyutpatti 'senā'; MW 'senā')	8002620
+8002620	军	軍	jūn	army; senā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: senā, Tibetan: sde'am dmag; for example, 十軍 'ten armies' of Mara (BCSD '軍', p. 1132; Mahāvyutpatti 'senā'; MW 'senā')	8002620
 8002621	毘俱胝	\N	píjūzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhṛkuṭī; variant writing used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra”; see 毘倶胝 (Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002621
-8002622	明妃	\N	míngfēi	wise consort; vidyarajni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyārājñī; a consort visualized in mandala for tantric rituals (CC-CEDICT '明妃'; Guoyu '明妃'; Wikipedia '明妃')	8002622
-8002623	明	\N	míng	wisdom; vidyā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: vidyā, Pali: vijjā (FGDB '明' ; Wikipedia '明 (佛教)')	8002623
+8002622	明妃	\N	míng fēi	wise consort; vidyarajni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyārājñī, or: yoginī; a consort of a 明王 vidyārāja 'wisdom king' in tantric Buddhism (BCSD '明妃', p. 596 FGDB '明妃'; MW 'yoginī'; SH '明妃', p. 262; Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002622
+8002623	明	\N	míng	wisdom; knowledge; vidya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyā, Pali: vijjā, Japanese: myō, Tibetan: rig pa, or: rig ma; a term with many senses, for example, 明王 vidyārāja 'wisdom king' (BCSD '明', p. 596; BL 'vidyā'; FGDB '明'; MW 'vidyā'; Wikipedia '明 (佛教)')	8002623
+8002624	婆利耶	\N	pólìyé	wife; bharya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāryā (SH '婆利耶', p. 345)	8002624
+8002625	婆哩野	\N	pólǐyě	wife; bharya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāryā; see 婆利耶 (SH '婆哩野', p. 345)	8002625
+8002626	婆梨耶	\N	pólíyé	wife; bharya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāryā; see 婆利耶 (SH '婆哩野', p. 345)	8002626
+8002627	婆利廋	\N	pólìsōu	wife; bharya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāryā; see 婆利耶 (SH '婆哩野', p. 345)	8002627
+8002628	多罗	多羅	duōluó	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8002628
+8002629	一喝分宾主	一喝分賓主	yī hē fēn bīnzhǔ	a shout separates host and guest	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	(FGDB '一喝分賓主')	8002629
+8002630	一喝不作一喝用	\N	yī hē bùzuò yī hē yòng	a shout does not function as a shout	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	A quote from 鎮州臨濟慧照禪師語錄 ”The Recorded Sayings of Linji” (Cleary, J C 1999, p. 52; FGDB '一喝不作一喝用'; T 1985)	8002630
+8002631	妃	\N	fēi	royal consort; queen; mahisi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahiṣī, or: rajni; for example, in 明妃 vidyārājñī consort of a 明王 vidyārāja 'wisdom king' (BCSD '妃', p. 355; MW 'mahiṣī')	8002631
+8002632	名	\N	míng	name; naman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nāman; for example, 名色 nāmarūpa 'name and form' (BCSD '名', p. 243; MW 'nāman'; SH '名', p. 204)	8002632
+8002633	名	\N	míng	fame; renown; yasas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yaśa, Tibetan: snyan pa'am grags pa; for example, in 名聞 yaśas (BCSD '名', p. 243; Mahāvyutpatti 'yaśaḥ'; MW 'yaśas'; SH '名聞', p. 204)	8002632
+8002634	持	\N	chí	to hold; dhara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhara; for example, in 金剛持 vajradhara, a type of tantric deity (BCSD '持', p. 544; MW 'dhara; SH '持', p. 302)	8002634
+8002635	持名	\N	chí míng	to rely on the name	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	By reciting the name of Amitābha (FGDB '持名'; SH '持名', p. 302)	8002635
+8002636	持名	\N	chí míng	Yasodhara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yaśodharā; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002635
+8002637	钵胤遇	鉢胤遇	bōyìnyù	priyangu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: priyaṅgu; a kind of flower mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'priyaṅgu'; Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002637
+8002638	名闻	名聞	míngwèn	fame; yasas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yaśas (FGDB '名聞'; SH '名聞', p. 204; MW 'yaśas')	8002638
+8002639	名声	名聲	míngshēng	fame; yasas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yaśas (FGDB '名聲'; SH '名聲', p. 204; MW 'yaśas')	8002639
+8002640	十军	十軍	shí jūn	ten armies [of Mara]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十軍'; SH '十軍', p. 53)	8002640
+8002641	十种魔军	十種魔軍	shí zhǒng mó jūn	Mara's ten kinds of army	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十軍 (FGDB '十軍')	8002641
+8002642	大白衣	\N	dàbáiyī	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (SH '大白衣', p. 93)	8002642
+8002643	白处	白處	bái chù	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音'; Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002643
+8002644	白处观音	白處觀音	báichù guānyīn	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (BL 'Baiyi Guanyin'; FGDB '白衣觀音'; SH '白衣觀音', p. 198; Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002644
+8002645	白衣观音	白衣觀音	báiyī guānyīn	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī, Japanese: Byakue kannon, Tibetan: gos dkar mo; a white robed tantric form of Avalokitesvara mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 白處 (BL 'Baiyi Guanyin'; FGDB '白衣觀音'; SH '白衣觀音', p. 198; Giebel 2005, p. 29; T 848, Scroll 1, 18.0006b09)	8002645
+8002646	白衣大士	\N	báiyī dàshì	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (SH '白衣觀音', p. 198)	8002646
+8002647	半拏啰嚩悉宁	半拏囉嚩悉寧	bànnáluófúxīníng	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (SH '白衣觀音', p. 198)	8002647
+8002648	伴陀罗缚字尼	伴陀羅縛字尼	bàntuóluófúzìní	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音')	8002648
+8002649	半拏罗缚悉儞	半拏羅縛悉儞	bànnáluófúxīnǐ	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音')	8002649
+8002650	跛拏缚悉尼	跛拏縛悉尼	bǒnáfúxīní	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音')	8002650
+8002651	白住处	白住處	báizhùchù	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音')	8002651
+8002652	白	\N	bái	white; clean; avadata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadāta, Tibetan: dkar po; for example, 白衣 avadātavasana 'white robed' (BCSD '白', p. 862; Mahāvyutpatti 'avadātam'; MW 'avadāta')	8002652
+8002653	白衣	\N	bái yī	lay people; the laity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadātavasana (FGDB '白衣'; SH '白衣', p. 198)	8002653
+8002654	白衣	\N	bái yī	white-robed; avadatavasana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; a form of Avalokitesvara, see 白衣觀音 (BCSD '白衣', p. 862; SH '白衣', p. 198)	8002653
+8002655	白	\N	bái	white; pandara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍara; for example, 白衣 pāṇḍaravāsinī 'white robed,' a form of Avalokitesvara, see 白衣觀音 (BCSD '白', p. 862; FGDB '白衣觀音'; MW 'pāṇḍara')	8002652
+8002656	白色	\N	báisè	white; avadata; pandara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadāta, or: pāṇḍara (BCSD '白', p. 862; MW 'pāṇḍara')	8002656
+8002657	白衣大尊	\N	báiyī dàzūn	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (BCSD '白衣大尊', p. 862)	8002657
+8002658	白衣母	\N	báiyī mǔ	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (BCSD '白衣母', p. 862)	8002658
+8002659	白衣尊	\N	báiyī zūn	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (BCSD '白衣尊', p. 862)	8002659
+8002660	百	\N	bǎi	hundred; sata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śata, Tibetan: brgya (BCSD '百', p. 863; Mahāvyutpatti 'śatam'; MW 'śata'; SH '百', p. 216)	8002660
+8002661	俱胝	\N	jūzhī	koti; one hundred million; a very large number	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi, Japanese: kutei (BL 'koṭi'; Ding '俱胝'; FGDB '俱胝'; SH '倶胝', p. 322)	8002661
+8002662	倶胝	\N	jùzhī	koti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi; see 俱胝 (SH '倶胝', p. 322)	8002662
+8002663	恶趣	惡趣	è qù	an evil rebirth; an evil destiny; an unfortunate rebirth; hell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durgati; Pali: duggati, Japanese: akushu, Tibetan: ngan 'gro; one of the three realms of animals, hungry ghosts, and Hell (BL 'durgati'; FGDB '惡趣'; SH '惡趣', p. 373)	8002663
