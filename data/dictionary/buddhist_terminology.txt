@@ -2338,8 +2338,8 @@
 8002338	火仙	\N	huǒxiān	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火天 (FGDB '火天')	8002338
 8002339	火神	\N	huǒshén	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火天 (FGDB '火天')	8002339
 8002340	火光尊	\N	huǒguāngzūn	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火天 (FGDB '火天')	8002340
-8002341	波昙摩	波曇摩	bōtánmó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 波頭摩 (SH '波頭摩', p. 287)	8002341
-8002342	波暮	\N	bōmù	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 波頭摩 (SH '波頭摩', p. 287)	8002342
+8002341	波昙摩	波曇摩	bōtánmó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (SH '波頭摩', p. 287)	8002341
+8002342	波暮	\N	bōmù	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (SH '波頭摩', p. 287)	8002342
 8002343	德叉迦龙	德叉迦龍	déchājiālóng	Taksaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: takṣaka; written in this form in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra; see 德叉伽龍王 (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002343
 8002344	和修吉	\N	héxiūjí	Vasuki	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsuki; written in this form in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra; see 和修吉龍王 (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002344
 8002345	商佉	\N	shāngqū	Sankha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śaṅkha; literally Conch of the Dharma, name of a deity (FGDB '商佉'; SH '法螺', p. 272; Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002345
@@ -2661,3 +2661,24 @@
 8002661	俱胝	\N	jūzhī	koti; one hundred million; a very large number	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi, Japanese: kutei (BL 'koṭi'; Ding '俱胝'; FGDB '俱胝'; SH '倶胝', p. 322)	8002661
 8002662	倶胝	\N	jùzhī	koti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi; see 俱胝 (SH '倶胝', p. 322)	8002662
 8002663	恶趣	惡趣	è qù	an evil rebirth; an evil destiny; an unfortunate rebirth; hell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durgati; Pali: duggati, Japanese: akushu, Tibetan: ngan 'gro; one of the three realms of animals, hungry ghosts, and Hell (BL 'durgati'; FGDB '惡趣'; SH '惡趣', p. 373)	8002663
+8002664	莲华	蓮華	liánhuā	a lotus flower; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma, Pali: paduma, Japanese: renge, Tibetan: padma; the lotus has a wide variety of symbolism in Buddhism, especially relating to purity; it usually written as 荷花 or 莲花 in modern Chinese (BCSD '蓮華', p. 1023; BL 'padma'; FGDB '蓮華'; Kieschnick and Wiles 2017, vol. 1, p. 111; SH '蓮華', p. 443)	8002664
+8002665	不那利	\N	bùnàlì	pundarika; a white lotus-flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 (Lancaster 1968, 376; MW 'puṇḍarīka'; FGDB '蓮華').	8002665
+8002666	莲华	蓮華	liánhuā	white lotus flower; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 白蓮 (BCSD '蓮華', p. 1023)	8002664
+8002667	莲	蓮	lián	lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (BCSD '蓮', p. 1023; MW 'padma'; SH '莲', p. 443)	8002667
+8002668	莲花	蓮花	liánhuā	lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (BCSD '蓮花', p. 1023)	8002668
+8002669	白莲	白蓮	báilián	white lotus; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka, Japanese: byakurenge, Tibetan: padma dkar po; a variety of lotus that has its own name (BL 'puṇḍarīka'; Ding '分陀利 '; FGDB '芬陀利華'; Kieschnick and Wiles 2017, vol. 1, p. 111; MW 'puṇḍarīka'; SH '白蓮', p. 198)	8002669
+8002670	白莲华	白蓮華	báiliánhuá	white lotus flower; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 白蓮 (SH '白蓮華', p. 198)	8002670
+8002671	青莲	青蓮	qīnglián	blue lotus; utpala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpala; associated with Majusri (Kroll 2015 '蓮', p. 266; MW 'utpala'; SH '青蓮', p. 294)	8002671
+8002672	芬陀利华	芬陀利華	fēntuólì huá	white lotus flower; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 白蓮 (Ding '分陀利 '; FGDB '芬陀利華'; Kieschnick and Wiles 2017, vol. 1, p. 111)	8002672
+8002673	钵头摩华	鉢頭摩華	bōtóumó huá	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (Ding '鉢頭摩'; FGDB '鉢頭摩華')	8002673
+8002674	钵昙摩	鉢曇摩	bōtánmó	padma	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '蓮華')	8002674
+8002675	钵头摩	鉢頭摩	bōtóumó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002675
+8002676	钵特摩华	鉢特摩華	bōtémó huá	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002676
+8002677	钵特摩	鉢特摩	bōtémó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002677
+8002678	般头摩华	般頭摩華	bāntóumó huá	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002678
+8002679	钵弩摩	鉢弩摩	bōnǔmó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '蓮華')	8002679
+8002680	波昙华	波曇華	bōtánhuá	padma; lotus flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '波曇華'; Guoyu '波曇華'; Wikipedia '波曇華')	8002680
+8002681	般头摩	般頭摩	bāntóumó	padma; lotus flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002681
+8002682	波头摩华	波頭摩華	bōtóumó huá	padma; lotus flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002682
+8002683	波慕华	波慕華	bōmùhuá	padma; lotus flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '蓮華')	8002683
+8002684	波头摩	波頭摩	bōtóumó	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (FGDB '鉢頭摩華')	8002684
