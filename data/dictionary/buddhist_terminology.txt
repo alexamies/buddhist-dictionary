@@ -1511,7 +1511,7 @@
 8001511	无尽意菩萨	無盡意菩薩	wújì yì púsà	Aksayamati Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: akṣayamati, Japanese: Mujin'i bosatsu, Tibetan: blo gros mi zad pa; literally meaning 'Inexhaustible Intention'; Akṣayamati is the central figure in the 無盡意菩薩經 Akṣayamatinirdeśa 'Exposition of Akṣayamati'， within the 大方等大集經 Mahāsaṃnipātasūtra 'Great Compilation' (BL 'Akṣayamati'; Eitel 'Akchayamati', p. 7; FGDB '無盡意菩薩'; KDC 71; SH '無盡意', p. 381; T 397)	8001511
 8001512	桑门	桑門	sāngmén	a Buddhist monk; a wandering monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (FGDB '沙門')	8001512
 8001513	坐佛	\N	zuò fó	a seated Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2001, p. 592)	8001513
-8001514	白毫	\N	bái háo	urna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇā, Pali: uṇṇā; white hair between the eyes that can emit light (SH '白毫', p. 198)	8001514
+8001514	白毫	\N	bái háo	urna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇā, Pali: uṇṇā; white hair between the eyes that can emit light; see also 白毫相 (BL 'ūrṇā'; BCSD '白毫', p. 863; FGDB '白毫相'; SH '白毫', p. 198)	8001514
 8001515	莲宗	蓮宗	liánzōng	Lotus sect	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Founded by 慧遠 Huiyuan circa 390 (Ding '蓮宗'; FGDB '蓮宗'; SH '蓮宗', p. 443)	8001515
 8001516	袒右袈裟	\N	tǎn yòu jiāshā	kasaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 袈裟 (FGDB '袈裟')	8001516
 8001517	三世佛	\N	Sān Shì Fó	Buddhas of the three time periods	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Buddhas of the past, present, and future, namely: Kāsyapa, Śākyamuni, and Maitreya (SH '三世佛', p. 58)	8001517
@@ -1683,7 +1683,7 @@
 8001683	释梵	釋梵	shì fàn	Sakra and Brahma; Śakra and Brahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '釋梵', p. 482)	8001683
 8001684	尼寺	\N	nísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '尼寺'; SH '尼寺', p. 184)	8001684
 8001685	天部	\N	tiān bù	deities; all the deities	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	May refer to all the Buddhist deities (FGDB '天部')	8001685
-8001686	天界	\N	tiānjiè	heaven; devaloka	proper noun	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devaloka; the world where gods and devas exist, one of the Six Realms in Buddhism (SH '天界', p. 146)	8001686
+8001686	天界	\N	tiānjiè	heaven; devaloka	proper noun	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devaloka; the world where gods and devas exist, one of the 六趣 Six Realms in Buddhism (BCSD '天界', p. 334; FGDB '天'; SH '天界', p. 146; Tzu Chuang 2012, p. 266)	8001686
 8001687	尼庵	\N	ní ān	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001687
 8001688	比丘尼寺	\N	bǐqiūnísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001688
 8001689	有为	有為	yǒuwèi	samskrta; conditioned	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃskṛta, Japanese: ui; subject to causes and conditions; contrast with asaṃskṛta (無為) unconditioned (BL 'saṃskṛta'; FGDB '有為'; SH '有爲', p. 214)	8001689
@@ -2759,3 +2759,16 @@
 8002759	一切	\N	yīqiè	all; sarva	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva (BCSD '一切', p. 2; MW 'sarva')	8002759
 8002760	一切如来	一切如來	yīqiè rúlái	all Tathagatas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvatathāgata (BCSD '一切如來', p. 3)	167367
 8002761	一切如来宝	一切如來寶	yīqiè rúlái bǎo	Jewel of All Tathagatas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002761
+8002762	天道	\N	tiān dào	Heavenly Realm; Deva Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svarga; of the 六道 Six Realms (SH '天道', p. 147; Tzu Chuang 2012, p. 266)	8002762
+8002763	白毫相	\N	bái háo xiāng	urnalaksana; urnakesa; urnakosa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇālakṣana, or: ūrṇākeśa, or: ūrṇākośa, Pali: uṇṇā-lakkhaṇa, or: uṇṇākesa, Japanese: byakugō, Japanese: mdzod spu; the 相 lakṣana 'auspicious characteristic' that is the 眉間白毫 ūrṇā 'a white tuft of hair between the eyebrows' that can emit light, one of the 三十二相 thirty-two marks; see also 白毫 (BCSD '白毫相', p. 863; BL 'ūrṇākeśa'; FGDB '白毫相'; SH '眉間白毫相', p. 309)	8002763
+8002764	白毫庄严面相	白毫莊嚴面相	báiháo zhuāngyán miànxiāng	urnalaksana; urnakesa; urnakosa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇākeśa; see 白毫相 (FGDB '白毫相')	8002764
+8002765	眉间白毫光相	眉間白毫光相	méijiān báiháo guāng xiāng	urnalaksana; urnakesa; urnakosa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇākeśa; see 白毫相 (FGDB '白毫相')	8002765
+8002766	眉间白相	眉間白相	méijiān bái xiāng	urnalaksana; urnakesa; urnakosa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇākeśa; see 白毫相 (FGDB '白毫相')	8002766
+8002767	眉间白毫相	眉間白毫相	méi jiān bái háo xiāng	urnalaksana; urnakesa; urnakosa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇākeśa; see 白毫相 (SH '眉間白毫相', p. 309)	8002767
+8002768	毫眉	\N	háoméi	urna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇā; see 白毫相 (FGDB '白毫相')	8002768
+8002769	天	\N	tiān	a deva; a god	noun	\N	\N	佛教	Buddhism	\N	\N	\N	tian1.mp3	Sanskrit equivalent: deva, Pai: deva, Japanese: ten, Tibetan: lha; also Sanskrit devī for female deities (BCSD '天', p. 737; BL 'deva'; Kroll 2015 '天' 5; SH '天', p. 143)	8002769
+8002770	天	\N	tiān	Heavenly Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devaloka; for example, 四天下眾生 'the beings under the four heavens; see 天界 (BCSD '天', p. 333; FGDB '天'; T 227, Scroll 3 小品般若波羅蜜經; Tzu Chuang 2012, p. 266)	8002769
+8002771	白伞	白傘	bái sǎn	white canopy; sitatapatra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sitātapatra; an emblem of royalty and one of the 五佛頂 five crowns of the Buddha (FGDB '白傘'; MW 'sitātapatra'; SH '白傘', p. 198; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002771
+8002772	伞	傘	sǎn	umbrella; canopy; chattra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chattra, Tibetan: gdugs (BCSD '傘', p. 146; Guoyu 'chattram' n; MW 'chattra')	8002772
+8002773	白伞盖佛顶	白傘蓋佛頂	bái sǎn gài fó dǐng	white canopy Buddha crown	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白傘 (FGDB '白傘蓋佛頂')	8002773
+8002774	五佛顶	五佛頂	wǔ fó dǐng	five crowns of the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五佛頂'; SH '五佛頂'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002774
