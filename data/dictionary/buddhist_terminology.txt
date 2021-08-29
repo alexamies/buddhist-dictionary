@@ -1668,7 +1668,7 @@
 8001668	毘倶知	\N	píjùzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhrūkuti; see 毘倶胝 (SH '毘倶胝', p. 305)	8001668
 8001669	毘俱知	\N	píjūzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhrūkuti; see 毘倶胝 (SH '毘倶胝', p. 305)	8001669
 8001670	呪师	呪師	zhòu shī	spell master	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The person reciting a mantra in an esoteric ritual (Shinohara, 2014, pp. 71-72)	8001670
-8001671	金刚鏁	金剛鏁	jīngāng suǒ	vajra-srnkhala; vajra chain	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā (SH '金剛鏁', p. 283)	8001671
+8001671	金刚鏁	金剛鏁	jīngāng suǒ	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (SH '金剛鏁', p. 283)	8001671
 8001672	商迦罗受法坛	商迦羅受法壇	shāngjiāluó shòu fǎ tán	śṛṅkhalā mandala ritual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Described in the 陀羅尼集經 “Collected Dharanis Sutra” (Shinohara, 2014, pp. 74-75; T 901, Scroll 7, 18.0847c04)	8001672
 8001673	商迦罗	商迦羅	shāngjiāluó	Srnkhala mandala ritual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śṛṅkhalā; name of a deity mentioned in the 陀羅尼集經 “Collected Dharanis Sutra” (Shinohara, 2014, pp. 74-75; T 901, Scroll 7, 18.0847c04)	8001673
 8001674	散脂大将	散脂大將	sànzhī dà jiāng	Samjneya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñeya; one of the generals of Vaisravaṇa (FGDB '散脂大將')	8001674
@@ -2709,6 +2709,30 @@
 8002709	摩磨鸡	摩磨雞	mómójī	Mamaki	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māmakī; see 忙莽雞菩薩 (FGDB '忙莽雞菩薩')	8002709
 8002710	摩莫鸡	摩莫雞	mómòjī	Mamaki	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māmakī; see 忙莽雞菩薩 (FGDB '忙莽雞菩薩')	8002710
 8002711	忙莫计明妃	忙莫計明妃	mángmòjì míngfēi	Mamaki Wisdom Consort	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māmakī-vidyārājñī; see 忙莽雞菩薩 (FGDB '忙莽雞菩薩')	8002711
-8002712	金刚针菩萨	金剛針菩薩	jīngāngzhēn púsà	Vajrasuci Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrasūci; deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '金剛針菩薩'; SH '金剛菩薩', p. 282; ; Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002712
+8002712	金刚针菩萨	金剛針菩薩	jīngāngzhēn púsà	Vajrasuci Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrasūci; a tantric deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '金剛針菩薩'; SH '金剛菩薩', p. 282; Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002712
 8002713	金刚针	金剛針	jīngāngzhēn	Vajrasuci	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrasūci; see 金剛針菩薩 (FGDB '金剛針菩薩')	8002713
 8002714	嚩日啰苏脂	嚩日囉蘇脂	fúrìluósūzhī	Vajrasuci	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrasūci; see 金剛針菩薩 (FGDB '金剛針菩薩')	8002714
+8002715	针	針	zhēn	a needle; suci	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūci, Tibetan: khab (BCSD '針', p. 1187; Mahāvyutpatti 'sūcī'; MW 'sūcī'; SH '針', p. 340)	8002715
+8002716	金刚鏁菩萨	金剛鏁菩薩	jīngāng suǒ púsà	Vajrasrnkhala Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā; a tantric deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra,” who wears a chain of vajras (FGDB '金剛鏁菩薩'; SH '金剛鏁', p. 283; Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002716
+8002717	金刚鏁菩萨	金剛鏁菩薩	jīngāng suǒ púsà	Vajrasphota	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphoṭa (FGDB '金剛鏁菩薩')	8002716
+8002718	嚩日啰尸哩佉罗	嚩日囉尸哩佉羅	fúrìluó shīlǐqūluó	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (FGDB '金剛鏁菩薩')	8002718
+8002719	金刚商竭罗	金剛商竭羅	jīngāng shāngjiéluó	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (FGDB '金剛鏁菩薩')	8002719
+8002720	金刚商朅罗	金剛商朅羅	jīngāngshāngqièluó	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002720
+8002721	沤钵罗花	漚鉢羅花	ōubōluó huā	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002721
+8002722	沤钵罗	漚鉢羅	ōubōluó	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002722
+8002723	优钵剌花	優鉢剌花	yōubōlá huā	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002723
+8002724	优钵剌	優鉢剌	yōubōlá	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002724
+8002725	殟钵罗花	殟鉢羅花	wēnbōluóhuā	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002725
+8002726	殟钵罗	殟鉢羅	wēnbōluó	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002726
+8002727	锁	鎖	suǒ	shackles; srnkhala	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sansrkit equivalent: śṛṅkhalā (BCSD '鎖', p. 1192; MW 'śṛṅkhalā')	8002727
+8002728	鏁	\N	suǒ	shackles; srnkhala	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sansrkit equivalent: śṛṅkhalā; for example, in the name 金剛鏁菩薩 Vajraśṛṅkhalā Bodhisattva (BCSD '鎖', p. 1192; MW 'śṛṅkhalā')	8002728
+8002729	降三世明王	\N	jiàng sān shì míngwáng	Wisdom King Conqueror of the Three Worlds; Trailokyavijaya Vidyaraja	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; a tantric deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 月黶尊 Candratilaka (FGDB '降三世明王'; SH '降三世', p. 317; Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002729
+8002730	降三世	\N	jiàng sān shì	Conqueror of the Three Worlds; Trailokyavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; see 降三世明王 (SH '降三世', p. 317)	8002730
+8002731	月黡尊	月黶尊	yuèyǎnzūn	Candratilaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: candratilaka; see 降三世明王 (Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002731
+8002732	胜三世	勝三世	shèng sān shì	Conqueror of the Three Worlds; Trailokyavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; see 降三世明王 (FGDB '降三世明王')	8002732
+8002733	三世胜	三世勝	sān shì shèng	Conqueror of the Three Worlds; Trailokyavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; see 降三世明王 (FGDB '降三世明王')	8002733
+8002734	降三世金刚菩萨	降三世金剛菩薩	jiàng sān shì jīngāng púsà	Conqueror of the Three Worlds Vajra Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; see 降三世明王 (FGDB '降三世明王')	8002734
+8002735	忿怒月黡菩萨	忿怒月黶菩薩	fènnù yuèyǎn púsà	Krodhacandratilaka Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krodhacandratilaka; a tantric deity, see also 降三世明王 (FGDB '忿怒月黶菩薩')	8002735
+8002736	句路驮赞捺罗底攞迦	句路馱贊捺羅底攞迦	jùlùduòzànnàluódǐluójiā	Krodhacandratilaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krodhacandratilaka; see also 忿怒月黶菩薩 (FGDB '忿怒月黶菩薩')	8002736
+8002737	月	\N	yuè	moon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: candra; for example, 月光 candraprabha 'moonlight' (BCSD '月', p. 620; MW 'candra'; SW '月', p. 156)	8002737
+8002738	月光	\N	yuèguāng	moonlight; candraprabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: candraprabha, Tibetan: zla 'od (BCSD '月光', p. 620; Mahāvyutpatti 'candraprabhaḥ'; MW 'candraprabha'; SH '月光', p. 156)	8002738
