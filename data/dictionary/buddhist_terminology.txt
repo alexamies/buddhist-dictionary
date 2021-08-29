@@ -2471,7 +2471,7 @@
 8002471	开敷华佛	開敷華佛	kāifūhuá fó	Samkusumita Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃkusumita; see 開敷華王如來 (FGDB '開敷華王如來')	8002471
 8002472	开敷华	開敷華	kāifūhuá	Samkusumita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃkusumita; see 開敷華王如來 (FGDB '開敷華王如來')	8002472
 8002473	华开敷佛	華開敷佛	huákāifū fó	Samkusumita Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃkusumita; see 開敷華王如來 (FGDB '開敷華王如來')	8002473
-8002474	佛眼佛母	\N	fóyǎn fómǔ	Buddha-locani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddha-locanī (FGDB '佛眼佛母'; SH '佛眼尊', p. 228)	8002474
+8002474	佛眼佛母	\N	fóyǎn fómǔ	Buddhalocani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhalocanī; referred to in the the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 能寂母 Mother of Śākyamuni (FGDB '佛眼佛母'; SH '佛眼尊', p. 228; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002474
 8002475	佛眼部母	\N	fóyǎnbùmǔ	Buddha-locani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002475
 8002476	虚空眼	虛空眼	xūkōng yǎn	Gaganalocana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaganalocanā; a Buddha motherthe 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 22; T 848, Scroll 1, 18.0005a09)	8002476
 8002477	莲华手	蓮華手	liánhuāshǒu	Padmapani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padmapāṇi; see 蓮華手菩薩 (SH '蓮華手菩薩', p. 443)	8002477
@@ -2662,11 +2662,11 @@
 8002662	倶胝	\N	jùzhī	koti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi; see 俱胝 (SH '倶胝', p. 322)	8002662
 8002663	恶趣	惡趣	è qù	an evil rebirth; an evil destiny; an unfortunate rebirth; hell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durgati; Pali: duggati, Japanese: akushu, Tibetan: ngan 'gro; one of the three realms of animals, hungry ghosts, and Hell (BL 'durgati'; FGDB '惡趣'; SH '惡趣', p. 373)	8002663
 8002664	莲华	蓮華	liánhuā	a lotus flower; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma, Pali: paduma, Japanese: renge, Tibetan: padma; the lotus has a wide variety of symbolism in Buddhism, especially relating to purity; it usually written as 荷花 or 莲花 in modern Chinese (BCSD '蓮華', p. 1023; BL 'padma'; FGDB '蓮華'; Kieschnick and Wiles 2017, vol. 1, p. 111; SH '蓮華', p. 443)	8002664
-8002665	不那利	\N	bùnàlì	pundarika; a white lotus-flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 (Lancaster 1968, 376; MW 'puṇḍarīka'; FGDB '蓮華').	8002665
+8002665	不那利	\N	bùnàlì	pundarika; a white lotus flower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 (Lancaster 1968, 376; MW 'puṇḍarīka'; FGDB '蓮華').	8002665
 8002666	莲华	蓮華	liánhuā	white lotus flower; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 白蓮 (BCSD '蓮華', p. 1023)	8002664
 8002667	莲	蓮	lián	lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (BCSD '蓮', p. 1023; MW 'padma'; SH '莲', p. 443)	8002667
 8002668	莲花	蓮花	liánhuā	lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 蓮華 (BCSD '蓮花', p. 1023)	8002668
-8002669	白莲	白蓮	báilián	white lotus; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka, Japanese: byakurenge, Tibetan: padma dkar po; a variety of lotus that has its own name (BL 'puṇḍarīka'; Ding '分陀利 '; FGDB '芬陀利華'; Kieschnick and Wiles 2017, vol. 1, p. 111; MW 'puṇḍarīka'; SH '白蓮', p. 198)	8002669
+8002669	白莲	白蓮	báilián	white lotus; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka, Japanese: byakurenge, Tibetan: padma dkar po; a variety of lotus that has its own name (BCSD '白蓮', p. 863; BL 'puṇḍarīka'; Ding '分陀利 '; FGDB '芬陀利華'; Kieschnick and Wiles 2017, vol. 1, p. 111; MW 'puṇḍarīka'; SH '白蓮', p. 198)	8002669
 8002670	白莲华	白蓮華	báiliánhuá	white lotus flower; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 白蓮 (SH '白蓮華', p. 198)	8002670
 8002671	青莲	青蓮	qīnglián	blue lotus; utpala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpala; associated with Majusri (Kroll 2015 '蓮', p. 266; MW 'utpala'; SH '青蓮', p. 294)	8002671
 8002672	芬陀利华	芬陀利華	fēntuólì huá	white lotus flower; pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 白蓮 (Ding '分陀利 '; FGDB '芬陀利華'; Kieschnick and Wiles 2017, vol. 1, p. 111)	8002672
@@ -2736,3 +2736,26 @@
 8002736	句路驮赞捺罗底攞迦	句路馱贊捺羅底攞迦	jùlùduòzànnàluódǐluójiā	Krodhacandratilaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krodhacandratilaka; see also 忿怒月黶菩薩 (FGDB '忿怒月黶菩薩')	8002736
 8002737	月	\N	yuè	moon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: candra; for example, 月光 candraprabha 'moonlight' (BCSD '月', p. 620; MW 'candra'; SW '月', p. 156)	8002737
 8002738	月光	\N	yuèguāng	moonlight; candraprabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: candraprabha, Tibetan: zla 'od (BCSD '月光', p. 620; Mahāvyutpatti 'candraprabhaḥ'; MW 'candraprabha'; SH '月光', p. 156)	8002738
+8002739	阿吒吒	\N	āzhàzhà	high; load	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: aṭṭa (MW 'aṭṭa'; Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002739
+8002740	阿吒吒	\N	āzhàzhà	Atata Hell	proper noun	地狱	Hell	佛教	Buddhism	\N	\N	\N	\N	See 阿吒吒地獄 (SH '阿吒吒')	8002740
+8002741	阿吒吒地狱	阿吒吒地獄	a zhà zhà dì yù	Atata Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the sound that the suffering beings make when they cannot move their lips; one of the Eighteen Hells (FGDB '阿吒吒地獄'; SH '阿吒吒', p. 286; Tzu Chuang 2012)	8002741
+8002742	摩诃波头摩地狱	摩訶波頭摩地獄	mó hē bō tóu mó dì yù	Mahapadma Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '眷屬地獄'; Tzu Chuang 2012)	8002742
+8002743	頞哳吒	\N	èzhāzhà	Atata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿吒吒地獄 (FGDB '阿吒吒地獄')	8002743
+8002744	慧	\N	huì	wisdom; prajna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñā, Pali: paññā, Tibetan: shes rab; see 般若 (BCSD '慧', p. 499; Kroll 2015 '慧' 2, p. 175; Mahāvyutpatti 'prajñā'; MW 'prajñā')	8002744
+8002745	慧	\N	huì	intellect; mati	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mati (BCSD '慧', p. 499; MW 'mati')	8002744
+8002746	芬陀利	\N	fēntuólì	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002746
+8002747	奔荼利迦化	\N	bēntúlìjiāhuà	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002747
+8002748	眼	\N	yǎn	eye; locana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: locana, or: cakṣu; for example, 遍知眼 Buddhalocanā 'omnicient eye' (BCSD '眼', p. 879; MW 'locana'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002748
+8002749	遍知眼	\N	biàn zhī yǎn	Buddhalocanā; omnicient eye	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002749
+8002750	分荼利花	\N	fēntúlì huā	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002750
+8002751	分荼利	\N	fēntúlì	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002751
+8002752	分陀利花	\N	fēntuólì huā	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002752
+8002753	佛眼明妃	\N	fóyǎn míngfēi	Buddhalocani Vidyarajni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhalocani-vidyārājñī; see 佛眼佛母 (FGDB '佛眼佛母')	8002753
+8002754	佛眼尊	\N	fóyǎn zūn	Buddhalocani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhalocani-vidyārājñī; see 佛眼佛母 (FGDB '佛眼佛母')	8002754
+8002755	虚空眼明妃	虛空眼明妃	xūkōng yǎn míngfēi	Wisdom Consort Sky Eye	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002755
+8002756	能寂母	\N	néng jì mǔ	Mother of Sakyamuni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002756
+8002757	吉祥	\N	jíxiáng	auspicious; mangala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṅgala (BCSD '吉祥', p. 240; MW 'maṅgala')	8002757
+8002758	金刚吉祥眼	金剛吉祥眼	jīngāng jíxiáng yǎn	Auspicious Vajra Eye	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002758
+8002759	一切	\N	yīqiè	all; sarva	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva (BCSD '一切', p. 2; MW 'sarva')	8002759
+8002760	一切如来	一切如來	yīqiè rúlái	all Tathagatas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvatathāgata (BCSD '一切如來', p. 3)	167367
+8002761	一切如来宝	一切如來寶	yīqiè rúlái bǎo	Jewel of All Tathagatas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002761
