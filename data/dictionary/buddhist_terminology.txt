@@ -1866,7 +1866,7 @@
 8001866	八支圣道	八支聖道	bā zhī shèng dào	The Noble Eightfold Path; The Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (FGDB '八正道')	8001866
 8001867	那落迦	\N	nàluòjiā	Naraka; Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naraka; see 地獄 (FGDB '地獄')	8001867
 8001868	捺落迦	\N	nàluòjiā	Naraka; Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naraka; see 地獄 (FGDB '地獄')	8001868
-8001869	尊胜佛顶	尊勝佛頂	zūnshèng fódǐng	Usnisavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣavijayā; female bodhisattva of longevity, well known in Tibetan Buddhism; also one of the 五佛頂 five crowns of the Buddha (FGDB '五佛頂'; SH '五佛頂', p. 113; Wikipedia '尊勝佛頂')	8001869
+8001869	尊胜佛顶	尊勝佛頂	zūnshèng fódǐng	Vijayosnisa; Usnisavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijayoṣṇīṣa,, or: uṣṇīṣavijayā; female bodhisattva of longevity, well known in Tibetan Buddhism; also one of the 五佛頂 five crowns of the Buddha (FGDB '五佛頂'; SH '五佛頂', p. 113; Wikipedia '尊勝佛頂')	8001869
 8001870	佛顶尊胜	佛頂尊勝	fó dǐng zūn shèng	Usnisavijaya	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣavijayā; see 尊勝佛頂 (Wikipedia '尊勝佛頂')	8001870
 8001871	尊胜佛母	尊勝佛母	zūn shèng fó mǔ	Usnisavijaya	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣavijayā; see 尊勝佛頂 (Wikipedia '尊勝佛頂')	8001871
 8001872	救众生度母	救眾生度母	jiù zhòngshēng dù mǔ	Bhagvati Arya Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Also represented as Green Tara (FGS Encyclopedia of Buddhist Arts)	8001872
@@ -2782,22 +2782,24 @@
 8002782	五顶轮王	五頂輪王	wǔ dǐng lún wáng	five crowns	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五佛頂 (FGDB '五佛頂')	8002782
 8002783	如来五顶	如來五頂	rúlái wǔ dǐng	five crowns of the Tathagata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五佛頂 (FGDB '五佛頂')	8002783
 8002784	五佛顶尊	五佛頂尊	wǔ fó dǐng zūn	five crowns of the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五佛頂 (SH '五佛頂', p. 113)	8002784
-8002785	胜佛顶	勝佛頂	shèngfódǐng	Usnisajaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣajayā; one of the 五佛頂 five Buddha crowns (FGDB '五佛頂')	8002785
-8002786	胜顶	勝頂	shèng dǐng	Usnisajaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣajayā; see 勝佛頂 (FGDB '五佛頂')	8002786
-8002787	最胜佛顶	最勝佛頂	zuìshèng fó dǐng	Usnisavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣajayā; see 尊勝佛頂 (FGDB '五佛頂')	8002787
-8002788	最胜顶	最勝頂	zuìshèng dǐng	Usnisavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣajayā; see 尊勝佛頂 (FGDB '五佛頂')	8002788
+8002785	胜佛顶	勝佛頂	shèngfódǐng	Jayosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jayoṣṇīṣa, or: uṣṇīṣajayā; one of the 五佛頂 five Buddha crowns, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 勝頂 (FGDB '五佛頂'; ; SH '五佛頂', p. 113; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002785
+8002786	胜顶	勝頂	shèng dǐng	Jayosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jayoṣṇīṣa; see 勝佛頂 (FGDB '五佛頂')	8002786
+8002787	最胜佛顶	最勝佛頂	zuìshèng fó dǐng	Vijayosnisa, Usnisavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijayoṣṇīṣa, or: uṣṇīṣavijayā; one of the 五佛頂 five crowns of the Buddha, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 最勝頂; see also 尊勝佛頂 (FGDB '五佛頂'; SH '五佛頂', p. 113; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002787
+8002788	最胜顶	最勝頂	zuìshèng dǐng	Vijayosnisa, Usnisavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijayoṣṇīṣa; see 尊勝佛頂 (FGDB '五佛頂')	8002788
 8002789	金轮佛顶	金輪佛頂	jīnlún fódǐng	Golden Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002789
 8002790	最胜金轮佛顶	最勝金輪佛頂	zuìshèng jīnlún fódǐng	Supreme Golden Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002790
 8002791	转轮王佛顶	轉輪王佛頂	zhuǎn lún wáng fódǐng	Turning Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002791
-8002792	光聚佛顶	光聚佛頂	guāngjù fódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; one of the 五佛頂 five Buddha crowns (FGDB '五佛頂'; SH '五佛頂', p. 113)	8002792
+8002792	光聚佛顶	光聚佛頂	guāngjù fódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; one of the 五佛頂 five Buddha crowns, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 火光聚 (FGDB '五佛頂'; SH '五佛頂', p. 113; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002792
 8002793	光	\N	guāng	light; radiance; prabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhā, or: tejas, Tibetan: 'od (BCSD '光', p. 154; Mahāvyutpatti 'prabhā'; MW 'prabhā')	8002793
 8002794	光聚	\N	guāngjù	concentrated radiance; tejorasi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tejorāśi (BCSD '光聚', p. 155)	8002794
 8002795	火聚佛顶	火聚佛頂	huǒjùfódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (FGDB '五佛頂')	8002795
 8002796	火聚顶	火聚頂	huǒjùdǐng	Crown of Concentrated Radiance; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (FGDB '五佛頂')	8002796
 8002797	放光佛顶	放光佛頂	fàngguāng fódǐng	Radiant Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (SH '五佛頂', p. 113)	8002797
 8002798	火光佛顶	火光佛頂	huǒguāng fódǐng	Fiery Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (SH '五佛頂', p. 113)	8002798
-8002799	除障佛顶	除障佛頂	chú zhàng fó dǐng	Buddha Crown of Overcoming Obstacles; Usnisa-vikirna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-vikīrṇa; one of the 五佛頂 five Buddha crowns (FGDB '五佛頂'; SH '五佛頂', p. 113)	8002799
-8002800	舍除顶	捨除頂	shěchúdǐng	Buddha Crown of Overcoming Obstacles; Usnisa-vikirna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-vikīrṇa; see 除障佛頂 (FGDB '五佛頂')	8002800
-8002801	摧碎佛顶	摧碎佛頂	cuīsuì fó dǐng	Buddha Crown of Destroying Obstacles; Usnisa-vikirna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-vikīrṇa; see 除障佛頂 (SH '五佛頂', p. 113)	8002801
-8002802	除业佛顶	除業佛頂	chú yè fó dǐng	Buddha Crown of Eliminating Karmic Obstacles; Usnisa-vikirna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-vikīrṇa; see 除障佛頂 (SH '五佛頂', p. 113)	8002802
-8002803	除盖障佛顶	除蓋障佛頂	chú gàizhàng fó dǐng	Buddha Crown of Eliminating Obstacles; Usnisa-vikirna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-vikīrṇa; see 除障佛頂 (SH '五佛頂', p. 113)	8002803
+8002799	除障佛顶	除障佛頂	chú zhàng fó dǐng	Buddha Crown of Overcoming Obstacles; Vikiranosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikiraṇoṣṇīṣa; one of the 五佛頂 five Buddha crowns, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 捨除頂 (FGDB '五佛頂'; SH '五佛頂', p. 113; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002799
+8002800	舍除顶	捨除頂	shěchúdǐng	Buddha Crown of Overcoming Obstacles; Vikiranosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikiraṇoṣṇīṣa; see 除障佛頂 (FGDB '五佛頂')	8002800
+8002801	摧碎佛顶	摧碎佛頂	cuīsuì fó dǐng	Buddha Crown of Destroying Obstacles; Vikiranosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikiraṇoṣṇīṣa; see 除障佛頂 (SH '五佛頂', p. 113)	8002801
+8002802	除业佛顶	除業佛頂	chú yè fó dǐng	Buddha Crown of Eliminating Karmic Obstacles; Vikiranosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikiraṇoṣṇīṣa; see 除障佛頂 (SH '五佛頂', p. 113)	8002802
+8002803	除盖障佛顶	除蓋障佛頂	chú gàizhàng fó dǐng	Buddha Crown of Eliminating Obstacles; Vikiranosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikiraṇoṣṇīṣa; see 除障佛頂 (SH '五佛頂', p. 113)	8002803
+8002804	火光聚	\N	huǒ guāng jù	Concentrated Radiance; Tejorāśi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tejorāśi; see 光聚佛頂 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002804
+8002805	五大顶	五大頂	wǔ dà dǐng	five great crowns	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五佛頂 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002805
