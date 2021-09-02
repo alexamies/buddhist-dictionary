@@ -2790,7 +2790,7 @@
 8002790	最胜金轮佛顶	最勝金輪佛頂	zuìshèng jīnlún fódǐng	Supreme Golden Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002790
 8002791	转轮王佛顶	轉輪王佛頂	zhuǎn lún wáng fódǐng	Turning Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002791
 8002792	光聚佛顶	光聚佛頂	guāngjù fódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; one of the 五佛頂 five Buddha crowns, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 火光聚 (FGDB '五佛頂'; SH '五佛頂', p. 113; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002792
-8002793	光	\N	guāng	light; radiance; prabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhā, or: tejas, Tibetan: 'od (BCSD '光', p. 154; Mahāvyutpatti 'prabhā'; MW 'prabhā')	8002793
+8002793	光	\N	guāng	light; radiance; prabha; tejas; rasmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhā, or: tejas, or: raśmi, Tibetan: 'od (BCSD '光', p. 154; Mahāvyutpatti 'prabhā'; MW 'prabhā')	8002793
 8002794	光聚	\N	guāngjù	concentrated radiance; tejorasi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tejorāśi (BCSD '光聚', p. 155)	8002794
 8002795	火聚佛顶	火聚佛頂	huǒjùfódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (FGDB '五佛頂')	8002795
 8002796	火聚顶	火聚頂	huǒjùdǐng	Crown of Concentrated Radiance; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (FGDB '五佛頂')	8002796
@@ -2806,3 +2806,17 @@
 8002806	一字	\N	yī zì	one word	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A magic word in esoteric Buddhism (FGDB '一字'; SH '一字', p. 5)	8002806
 8002807	一字	\N	yī zì	the character yi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The character 一 (FGDB '一字')	8002806
 8002808	大白伞盖	大白傘蓋	dà bái sǎn gài	great while canopy	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白傘 (T 975)	8002808
+8002809	普华	普華	pǔhuá	Samantakusuma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samantakusuma; see 普華天子 (BCSD '普華', p. 604)	8002809
+8002810	普	\N	pǔ	equally; impartially; universal; samanta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanta (BCSD '普', p. 602; Kroll 2015 '普' 1a, p. 351; MW 'samanta')	8002810
+8002811	恶道	惡道	è dào	an evil rebirth; an evil destiny; an unfortunate rebirth; hell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durgati; see 惡趣 (FGDB '惡趣')	8002811
+8002812	普花	\N	pǔhuā	Samantakusuma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samantakusuma; see 普華 (BCSD '普花', p. 603)	8002812
+8002813	普华天子	普華天子	pǔhuá tiānzǐ	Samantakusuma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samantakusuma; name of a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 普華 (BCSD '普華', p. 604; FGDB '五淨居天'; MW 'samantakusuma'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002813
+8002814	光鬘天子	\N	guāngmán tiānzǐ	Rasmimalin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raśmimālin; name of a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 光鬘 (FGDB '光鬘天子'; MW 'raśmimālin'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002814
+8002815	光鬘	\N	guāngmán	Rasmimalin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raśmimālin; see 光鬘天子 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002815
+8002816	意生	\N	yì shēng	arising from thoughts; produced mentally at will	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '意生'; SH '意生身', p. 400)	8002816
+8002817	意生	\N	yì shēng	Manojava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manojava; see 意生天子 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002816
+8002818	意生天子	\N	yìshēngtiānzǐ	Manojava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manojava; name of a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 意生 (FGDB '五淨居天'; MW 'manojava'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002818
+8002819	五净居天	五淨居天	wǔ jìng jū tiān	five pure abodes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five highest of the eight heavens (BL 'śuddhāvāsa'; FGDB '五淨居天')	8002819
+8002820	五净居天	五淨居天	wǔ jìng jū tiān	five deities of the pure abodes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra;” namely: 1. 自在天子 Īśvara, 2. 普華天子 Samantakusuma, 3. 光鬘天子 Raśmimālin, 4. 意生天子 Manojava, 5. 遠聞天子Svaraviśruti (FGDB '五淨居天'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002819
+8002821	五净居众	五淨居眾	wǔ jìng jū zhòng	five deities of the pure abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五淨居天 (FGDB '五淨居天')	8002821
+8002822	五天子	\N	wǔtiānzǐ	five deities of the pure abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五淨居天 (FGDB '五淨居天')	8002822
