@@ -1639,7 +1639,7 @@
 8001639	坚固地神	堅固地神	jiāngù dì shén	Prthivi	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	See 堅牢地神 (SH '堅牢地神', p. 345)	8001639
 8001640	娑竭罗龙王	娑竭羅龍王	suō jié luó lóng wáng	Sagara-nagaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sāgara-nāgarāja; one of the 八大龍王 eight great nāga kings (Kumārajīva, Kubo, and Yuyama 2007, p. 4; T 262, Scroll 1; FGDB '娑竭羅龍王'; SH '娑竭羅', p. 323)	8001640
 8001641	娑伽罗龙王	娑伽羅龍王	suō jiā luó lóng wáng	Sagara-nagaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sāgara-nāgarāja; see 娑竭羅龍王 (FGDB '娑竭羅龍王')	8001641
-8001642	帝释天	帝釋天	dìshì tiān	Śakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; the ruler of the Trāyastriṃśa Heaven; an alternative name is Kauśika (BL 'Kauśika'; FGDB '帝釋天')	8001642
+8001642	帝释天	帝釋天	dìshì tiān	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; the ruler of the Trāyastriṃśa Heaven; an alternative name is Kauśika (BL 'Kauśika'; FGDB '帝釋天'; MW ''; SH '因陀羅', p. 206)	8001642
 8001643	菩提树神	菩提樹神	pútí shù shén	Goddess of the Bodhi Tree	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '菩提樹神'; SH '菩提樹神', p. 388)	8001643
 8001644	辩才天	辯才天	Biàncái Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; the goddess of knowledge, music, arts and science (SH '辯才天', p. 483)	8001644
 8001645	大辩天	大辯天	Dà Biàn Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '大辯天', p. 95)	8001645
@@ -2880,3 +2880,22 @@
 8002880	婆楼那	婆樓那	pólóunà	Varuna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varuṇa; see 婆樓那龍王 (SH '婆樓那', p. 346)	8002880
 8002881	水天	\N	shuǐtiān	Varuna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varuṇa; see 婆樓那龍王 (SH '水天', p. 159)	8002881
 8002882	缚噜拏	縛嚕拏	fúlūná	Varuna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varuṇa; see 婆樓那龍王 (SH '水天', p. 159)	8002882
+8002883	圆坛	圓壇	yuántán	round ritual area; mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '圓壇'; SH '圓壇', p. 396)	8002883
+8002884	轮圆具足	輪圓具足	lúnyuán jùzú	round ritual area; mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '圓壇')	8002884
+8002885	圆满具足	圓滿具足	yuánmǎn jùzú	round ritual area; mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '圓壇')	8002885
+8002886	漫茶罗	漫茶羅	màncháluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; variant of 曼荼羅 (Giebel 2005,  p . 17; T 848, Scroll 1, 4a11)	8002886
+8002887	曼吒罗	曼吒羅	mànzhàluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8002887
+8002888	漫荼罗	漫荼羅	màntúluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8002888
+8002889	蔓陀罗	蔓陀羅	màntuóluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8002889
+8002890	曼茶罗	曼茶羅	màncháluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 曼荼羅 (FGDB '曼荼羅')	8002890
+8002891	曼拏攞	\N	mànnáluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8002891
+8002892	满荼逻	滿荼邏	mǎntúluó	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8002892
+8002893	满拏罗	滿拏囉	mǎnnáluō	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '曼荼羅')	8002893
+8002894	释天王	釋天王	shì tiānwáng	Sakra, King of Devas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 帝釋天 (Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002894
+8002895	天主	\N	tiān zhǔ	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra; see 帝釋天 (BL 'Kauśika'; FGDB '帝釋天')	8002895
+8002896	憍尸迦	\N	jiāoshījiā	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kauśika; see 帝釋天 (BL 'Kauśika'; FGDB '帝釋天').	8002896
+8002897	天帝释	天帝釋	tiān dì shì	Sakra; Sakka; Sakra Devānām Indra; Kausika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; see 帝釋天 (BL 'Kauśika'; FGDB '帝釋天')	8002897
+8002898	娑婆婆	\N	suōpópó	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; see 帝釋天 (BL 'Kauśika'; FGDB '帝釋天')	8002898
+8002899	释迦提婆	釋迦提婆	Shìjiātípó	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; see 帝釋天 (BL 'Kauśika'; FGDB '帝釋天')	8002899
+8002900	拘翼	\N	jūyì	Kausambi	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: kauśāmbī; see 帝釋 (SH '倶睒彌', p. 322)	8002900
+8002901	三善趣	\N	sān shàn dào	the three benevolent rebirths; the three benevolent destinies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三善道 (FGDB '三善道')	8002901
