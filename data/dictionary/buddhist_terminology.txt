@@ -1641,7 +1641,7 @@
 8001641	娑伽罗龙王	娑伽羅龍王	suō jiā luó lóng wáng	Sagara-nagaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sāgara-nāgarāja; see 娑竭羅龍王 (FGDB '娑竭羅龍王')	8001641
 8001642	帝释天	帝釋天	dìshì tiān	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; the ruler of the Trāyastriṃśa Heaven; an alternative name is Kauśika (BL 'Kauśika'; FGDB '帝釋天'; MW ''; SH '因陀羅', p. 206)	8001642
 8001643	菩提树神	菩提樹神	pútí shù shén	Goddess of the Bodhi Tree	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '菩提樹神'; SH '菩提樹神', p. 388)	8001643
-8001644	辩才天	辯才天	biàncái tiān	Sarasvati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī, Japanese: Benzaiten, Tibetan: Dby angs can ma; the goddess of knowledge, music, arts and science (BL 'Sarasvatī'; FGDB '辯才天'; MW 'sarasvatī'; SH '辯才天', p. 483)	8001644
+8001644	辩才天	辯才天	biàncái tiān	Sarasvati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī, Japanese: Benzaiten, Tibetan: Dby angs can ma; the goddess of knowledge, music, arts and science (BCSD '辯才', p. 1140; BL 'Sarasvatī'; FGDB '辯才天'; MW 'sarasvatī'; SH '辯才天', p. 483)	8001644
 8001645	大辩天	大辯天	Dà Biàn Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '大辯天', p. 95)	8001645
 8001646	大辩才天女	大辯才天女	dà biàncái tiān nǚ	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '辯才天', p. 483)	8001646
 8001647	月天	\N	yuè tiān	Candra	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: candra; the lunar deity (FGDB '月天'; SH '月天', p. 156)	8001647
@@ -2910,3 +2910,20 @@
 8002910	大圣辩才天神	大聖辯才天神	dàshèngbiàncáitiānshén	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002910
 8002911	美音天	\N	měiyīn tiān	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002911
 8002912	辩天	辯天	biàn tiān	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002912
+8002913	辩	辯	biàn	eloquent; sarasvati	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī (BCSD '辯', p. 1140; MW 'sarasvatī')	8002913
+8002914	辩才天女	辯才天女	biàncái tiānnǚ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (BCSD '辯', p. 1140)	8002914
+8002915	毘纽天	毘紐天	píniǔ tiān	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; a Brahmanic deity adopted into the Buddhist pantheon of deities; for example, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 毘紐 (FGDB '毘紐天'; MW 'viṣṇu'; SH '韋紐天', p. 318; Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002915
+8002916	毘纽	毘紐	píniǔ	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002916
+8002917	韦纽天	韋紐天	wéiniǔ tiān	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002917
+8002918	韦纽	韋紐	wéiniǔ	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002918
+8002919	毘瑟笯	\N	písènú	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (FGDB '毘紐天')	8002919
+8002920	毘湿笯	毘濕笯	píshīnú	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (FGDB '毘紐天')	8002920
+8002921	毘搜纽	毘搜紐	písōuniǔ	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (FGDB '毘紐天')	8002921
+8002922	遍人天	\N	biànrén tiān	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (FGDB '毘紐天')	8002922
+8002923	遍净天	遍淨天	biànjìng tiān	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (FGDB '毘紐天')	8002923
+8002924	韦糅	韋糅	wéiróu	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002924
+8002925	毘瑟纽	毘瑟紐	písèniǔ	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002925
+8002926	韦搜纽	韋搜紐	wéisōuniǔ	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002926
+8002927	韦廋纽	韋廋紐	wéisōuniǔ	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002927
+8002928	毘瑟怒	\N	písènù	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002928
+8002929	遍	\N	biàn	pervade; visva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśva (BCSD '遍', p. ; MW 'viśva')	8002929
