@@ -1641,7 +1641,7 @@
 8001641	娑伽罗龙王	娑伽羅龍王	suō jiā luó lóng wáng	Sagara-nagaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sāgara-nāgarāja; see 娑竭羅龍王 (FGDB '娑竭羅龍王')	8001641
 8001642	帝释天	帝釋天	dìshì tiān	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; the ruler of the Trāyastriṃśa Heaven; an alternative name is Kauśika (BL 'Kauśika'; FGDB '帝釋天'; MW ''; SH '因陀羅', p. 206)	8001642
 8001643	菩提树神	菩提樹神	pútí shù shén	Goddess of the Bodhi Tree	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '菩提樹神'; SH '菩提樹神', p. 388)	8001643
-8001644	辩才天	辯才天	Biàncái Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; the goddess of knowledge, music, arts and science (SH '辯才天', p. 483)	8001644
+8001644	辩才天	辯才天	biàncái tiān	Sarasvati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī, Japanese: Benzaiten, Tibetan: Dby angs can ma; the goddess of knowledge, music, arts and science (BL 'Sarasvatī'; FGDB '辯才天'; MW 'sarasvatī'; SH '辯才天', p. 483)	8001644
 8001645	大辩天	大辯天	Dà Biàn Tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '大辯天', p. 95)	8001645
 8001646	大辩才天女	大辯才天女	dà biàncái tiān nǚ	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarasvatī-devī; see 辯才天 (SH '辯才天', p. 483)	8001646
 8001647	月天	\N	yuè tiān	Candra	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: candra; the lunar deity (FGDB '月天'; SH '月天', p. 156)	8001647
@@ -2899,3 +2899,14 @@
 8002899	释迦提婆	釋迦提婆	Shìjiātípó	Sakra; Sakka; Śakra Devānām Indra; Kauśika	proper noun	天	Deva	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śakra, Pali: Sakka; see 帝釋天 (BL 'Kauśika'; FGDB '帝釋天')	8002899
 8002900	拘翼	\N	jūyì	Kausambi	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: kauśāmbī; see 帝釋 (SH '倶睒彌', p. 322)	8002900
 8002901	三善趣	\N	sān shàn dào	the three benevolent rebirths; the three benevolent destinies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三善道 (FGDB '三善道')	8002901
+8002902	胜	勝	shèng	conquering; victorious; jaya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jaya, or: jina, Tibetan: rgyal ba (BCSD '胜', p. 205; Mahāvyutpatti 'jinaḥ'; MW 'jaya'; SH '勝', p. 367)	8002902
+8002903	胜	勝	shèng	superior; agra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agra, Tibetan: mchog (BCSD '胜', p. 205; Mahāvyutpatti 'agraḥ'; MW 'agra')	8002902
+8002904	无胜	無勝	wú shèng	unsurpassed; ajita; vijaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ajita, or: vijaya; for example, in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as vijaya (MW 'vijaya'; SH '無勝', p. 378; Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002904
+8002905	无	無	wú	not; non-	prefix	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a-, or: na-, or: ni-, or: vi-; denotes negation (BCSD '無', p. 752; SH '無', p. 377)	8002905
+8002906	地神	\N	dì shén	Prthivi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthivī; see 地天 (SH '地天', p. 207)	8002906
+8002907	辩才	辯才	biàncái	Sarasvati	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '辯才天', p. 484)	8002907
+8002908	萨啰萨伐底	薩囉薩伐底	sàluósàfádǐ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002908
+8002909	娑罗室伐底	娑羅室伐底	suōluóshìfádǐ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002909
+8002910	大圣辩才天神	大聖辯才天神	dàshèngbiàncáitiānshén	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002910
+8002911	美音天	\N	měiyīn tiān	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002911
+8002912	辩天	辯天	biàn tiān	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002912
