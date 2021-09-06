@@ -2790,7 +2790,7 @@
 8002790	最胜金轮佛顶	最勝金輪佛頂	zuìshèng jīnlún fódǐng	Supreme Golden Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002790
 8002791	转轮王佛顶	轉輪王佛頂	zhuǎn lún wáng fódǐng	Turning Wheel Buddha Crown	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝佛頂 (SH '五佛頂', p. 113)	8002791
 8002792	光聚佛顶	光聚佛頂	guāngjù fódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; one of the 五佛頂 five Buddha crowns, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 火光聚 (FGDB '五佛頂'; SH '五佛頂', p. 113; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002792
-8002793	光	\N	guāng	light; radiance; prabha; tejas; rasmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhā, or: tejas, or: raśmi, Tibetan: 'od (BCSD '光', p. 154; Mahāvyutpatti 'prabhā'; MW 'prabhā')	8002793
+8002793	光	\N	guāng	light; radiance; prabha; tejas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhā, or: tejas, Tibetan: 'od (BCSD '光', p. 154; Mahāvyutpatti 'prabhā'; MW 'prabhā')	8002793
 8002794	光聚	\N	guāngjù	concentrated radiance; tejorasi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tejorāśi (BCSD '光聚', p. 155)	8002794
 8002795	火聚佛顶	火聚佛頂	huǒjùfódǐng	Concentrated Radiance Buddha Crown; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (FGDB '五佛頂')	8002795
 8002796	火聚顶	火聚頂	huǒjùdǐng	Crown of Concentrated Radiance; Usnisa-tejorasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa-tejorāśi; see 光聚佛頂 (FGDB '五佛頂')	8002796
@@ -2987,7 +2987,6 @@
 8002987	虚空藏菩萨	虛空藏菩薩	xūkōngzàng púsà	Akasagarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: ākāśagarbha, Japanese: Kokūzō bosatsu, Tibetan: nam mkha'i snying po; one of the eight great bodhisattvas (BL 'Ākāśagarbha', p. 26; FGDB '虛空藏菩薩'; SH '大莊嚴世界', p. 94)	8002987
 8002988	杵	\N	chǔ	mythical weapon; vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra; a mythical weapon resmbling a thunderbolt (BCSD '杵', p. 646; MW 'vajra')	8002988
 8002989	杵	\N	chǔ	a wooden stake; kila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kīla, Tibetan: phur pa'am phur bu (BCSD '杵', p. 646; Mahāvyutpatti 'kīlaḥ'; MW 'kīla')	8002988
-8002989	五股印	\N	wǔ gǔ yìn	five pronged vajra mudra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五股印')	8002989
 8002990	杵	\N	chǔ	a pestle; musala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: musala; for hulling rice (BCSD '杵', p. 646; MW 'musala')	8002988
 8002991	五股杵	\N	wǔ gǔ chǔ	five pronged vajra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五股 (SH '五股', p. 121)	8002991
 8002992	五股金刚	五股金剛	wǔ gǔ jīngāng	five pronged vajra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五股 (SH '五股', p. 121)	8002992
@@ -2997,5 +2996,42 @@
 8002996	宝手菩萨	寶手菩薩	bǎoshǒu	Ratnapāṇi; Ratnapāṇi Bodhisattva; Ratnapani	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit: ratnapāṇi, Japanese: Hōshu bosatsu; see also 寶手 (BL 'Ratnapāṇi'; FGDB '寶手菩薩'; SH '寶手', p. 477)	8002996
 8002997	宝手	寶手	bǎoshǒu	Ratnapāṇi; Ratnapāṇi Bodhisattva; Ratnapani	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	From Sanskri: ratnapāṇi, Japanese: Hōshu bosatsu (BL 'ratnapāṇi'; FGDB '寶手')	8002997
 8002998	网明菩萨	網明菩薩	wǎngmíng púsà	Jaliniprabha Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 網光 (FGDB '網明菩薩'; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8002998
-8002999	网明	網明	wǎngmíng	Jaliniprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (FGDB '網明菩薩')	8002999
-8003000	网光	網光	wǎngguāng	Jaliniprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003000
+8002999	网明	網明	wǎng míng	web of light; jaliniprabha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha (BCSD '網明', p. 934)	8002999
+8003000	网光	網光	wǎng guāng	web of light; jaliniprabha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha (BCSD '網光', p. 934)	8003000
+8003001	虚空藏	虛空藏	xūkōng zàng	Akasagarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	See 虛空藏菩薩 (SH '虛空藏', p. 389)	8003001
+8003002	网	網	wǎng	net; jala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāla, or: jālinī (BCSD '網', p. 934; MW 'jāla'; SH '網', p. 427)	8003002
+8003003	五股印	\N	wǔ gǔ yìn	five pronged vajra mudra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五股印')	8003003
+8003004	网光	網光	wǎng guāng	Jaliniprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003000
+8003005	网明	網明	wǎng míng	Jaliniprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (FGDB '網明菩薩')	8002999
+8003006	明网	明網	míng wǎng	web of light; jaliniprabha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha (BCSD '明網', p. 597)	8003006
+8003007	明网	明網	míng wǎng	Jaliniprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (FGDB '網明菩薩')	8003006
+8003008	光网	光網	guāng wǎng	web of light; rasmiprabha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raśmiprabha (BCSD '明網', p. 155)	8003008
+8003009	光	\N	guāng	a ray of light; rasmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raśmi (BCSD '光', p. 154; MW 'raśmi')	8002793
+8003010	光网	光網	guāng wǎng	Jaliniprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (FGDB '網明菩薩')	8003008
+8003011	网明童子菩萨	網明童子菩薩	wǎngmíng tóngzǐ púsà	Bodhisattva Jaliniprabha in the form of a young boy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jālinīprabha; see 網明菩薩 (FGDB '網明菩薩')	8003011
+8003012	五使者	\N	wǔ shǐzhě	five messengers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five messengers of Mañjuśrī, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 金剛使 (FGDB '五使者'; SH '五使者', p. 113; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003012
+8003013	文殊五使者	\N	wénshū wǔ shǐzhě	five messengers of Manjusri	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五使者 (FGDB '五使者')	8003013
+8003014	五种金刚使	五種金剛使	wǔ zhǒng jīngāng shǐ	five vajra messengers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五使者 (FGDB '五使者')	8003014
+8003015	金刚使	金剛使	jīngāng shǐ	vajra messengers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五使者 (Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003015
+8003016	髻设尼	髻設尼	jìshèní	Kesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: keśinī; one of the five messengers of Mañjuśrī, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra;” keśinī, meaning having fine, long hair (FGDB '五使者'; MW 'keśinī'; SH '五使者', p. 113; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003016
+8003017	计设尼	計設尼	jìshèní	Kesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: keśinī; see 髻設尼 (SH '五使者', p. 113)	8003017
+8003018	继室尼	繼室尼	jìshìní	Kesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: keśinī; see 髻設尼 (SH '五使者', p. 113)	8003018
+8003019	优波髻设尼	優波髻設尼	yōubōjìshèní	Upakesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakeśinī; one of the five messengers of Mañjuśrī, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 優婆髻設尼 (FGDB '五使者'; SH '五使者', p. 113; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003019
+8003020	优婆髻设尼	優婆髻設尼	yōupójìshèní	Upakesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakeśinī; see 優波髻設尼 (Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003020
+8003021	邬波髻设尼	鄔波髻設尼	wūbōjìshèní	Upakesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakeśinī; see 優波髻設尼 (SH '五使者', p. 113)	8003021
+8003022	乌波髻施儞	烏波髻施儞	wūbōjìshīnǐ	Upakesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakeśinī; see 優波髻設尼 (SH '五使者', p. 113)	8003022
+8003023	乌波髻施尼	烏波髻施尼	wūbōjìshīní	Upakesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakeśinī; see 優波髻設尼 (SH '五使者', p. 113)	8003023
+8003024	优婆计设尼	優婆計設尼	yōupójìshèní	Upakesini	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakeśinī; see 優波髻設尼 (SH '五使者', p. 113)	8003024
+8003025	质多罗	質多羅	zhìduōluó	multi-colored; citra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citrā (Ding '質多羅'; MW 'citrā'; SH '質多羅')	8003025
+8003026	质多罗	質多羅	zhìduōluó	Spica	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The name of a star (Ding '質多羅'; SH '質多羅')	8003025
+8003027	十念	\N	shí niàn	to chant ten times	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '十念'; FGDB '十念'; SH '十念')	8003027
+8003028	药王菩萨	藥王菩薩	Yào Wáng Púsà	Bhaisajyaraja Bodhisattva; Medicine King Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: bhaiṣajyarāja; one of the eight great bodhisattvas (FGDB '藥王菩薩')	8003028
+8003029	药王	藥王	Yào Wáng	Bhaisajyaraja; Medicine King	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: bhaiṣajyarāja; see 藥王菩薩 (FGDB '藥王菩薩')	8003029
+8003030	药上菩萨	藥上菩薩	Yào Shàng Púsà	Bhaisajya-samudgata Bodhisattva; Supreme Medicine Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: bhaiṣajyasamudgata; one of the eight great bodhisattvas (SH '藥上菩薩', p. 472)	8003030
+8003031	药上	藥上	Yào Shàng	Bhaisajya-samudgata Bodhisattva; Supreme Medicine Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: bhaiṣajyasamudgata; see 藥上菩薩 (SH '藥上菩薩', p. 472)	8003031
+8003032	八菩萨	八菩薩	Bā Púsà	the Eight Great Bodhisattvas	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	One version is (1) Manjusri, Samantabhadra, Avalokitesvara, Akasagarbha, Kṣitigarbha, Maitreya, Sarvanivarana-Vishkambhin, and Mahasthamaprapta.  Version in the Medicine Buddha Sutra: Manjusri, Avalokitesvara, Mahasthamaprapta, Aksayamati, Treasure of Sandalwood Flower Bodhisattva, Bhaisajyaraja Bodhisattva, Bhaisajya-Samudgata Bodhisattva, and Maitreya (SH '八菩薩', p. 39)	8003032
+8003033	质多罗	質多羅	zhìduōluó	Citra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citrā; one of the five messengers of Mañjuśrī, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '五使者'; SH '五使者', p. 113; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003025
+8003034	质怛罗	質怛羅	zhìdáluó	Citra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citrā; see 質多羅 (SH '五使者', p. 113)	8003034
+8003035	嚩苏摩底	嚩蘇摩底	fúsūmódǐ	Vasumati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vasumatī; one of the five messengers of Mañjuśrī, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 地慧 (FGDB '五使者'; SH '五使者', p. 113; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003035
+8003036	地慧	\N	dìhuì	possessing wisdom; possessing treasure; vasumati	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vasumatī (FGDB '地慧'; MW 'vasumatī')	8003036
+8003037	地慧	\N	dìhuì	Vasumati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vasumatī; see 嚩蘇摩底 (FGDB '地慧'; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003036
