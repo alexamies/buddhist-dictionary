@@ -1,7 +1,7 @@
 # Copyright Fo Guang Shan 佛光山 2021. May be reused under the Creative Commons Attribution-Share Alike 3.0 License (CCASE 3.0), https://creativecommons.org/licenses/by-sa/3.0/
 8000002	乞食	\N	qǐshí	to beg for food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paiṇḍapātika, Pali: piṇḍapāta (FGDB '乞食')	8000002
 8000003	阿跋摩罗	阿跋摩羅	ābámóluó	apasmāra; apasmāraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apasmāra, or: apasmāraka; a type of demon (Karashima 2001)	8000003
-8000004	七宝	七寶	qī bǎo	seven treasures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptaratnaparipūrṇa; 1. gold, 2. silver, 3. lapis lazuli, 4. crystal, 5. agate, 6. ruby, 7. jade or cornelian (FGDB '七寶'; Guoyu '七寶' 1)	8000004
+8000004	七宝	七寶	qī bǎo	seven treasures; saptaratna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptaratna; 1. gold, 2. silver, 3. lapis lazuli, 4. crystal, 5. agate, 6. ruby, 7. jade or cornelian (FGDB '七寶'; SH '七寶', p. 12)	8000004
 8000005	加护	加護	jiā hù	to help protect	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '加護'; FGDB '加護')	8000005
 8000006	迦蓝	迦藍	jiālán	Buddhist temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '迦藍')	8000006
 8000007	众园	眾園	zhòng yuán	saṃghārāma; Buddhist temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 伽藍 (FGDB '伽藍')	8000007
@@ -3059,7 +3059,7 @@
 8003059	贤王	賢王	xián wáng	a sage-king	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rājarṣi (FGDB '大善見王'; MW 'rājarṣi')	8003059
 8003060	宝	寶	bǎo	jewel; gem; treasure; ratna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratna, Tibetan: dkon mchog gam rin po che; for example, 七寶 saptaratna 'seven treasures' (BCSD '寶', p. 389; Mahāvyutpatti 'ratnam'; MW 'ratna'; SH '寶', p. 476)	3707
 8003061	宝	寶	bǎo	jewel; gem; mani	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇi; specifically, a precious stone (BCSD '寶', p. 389; MW 'maṇi'; SH '寶', p. 476)	3707
-8003062	七宝	七寶	qī bǎo	seven treasures; saptaratna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptaratna (FGDB '七寶'; SH '七寶', p. 12)	8003062
+8003062	宝印手坚意	寶印手堅意	bǎo yìn shǒu jiān yì	Ratnamudrāhasta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnamudrāhasta; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003062
 8003063	宝掌	寶掌	bǎo zhǎng	Ratnakara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnākara; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003057
 8003064	掌	\N	zhǎng	palm; holding; kara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kara (BCSD '掌', p. 533; MW 'kara')	8003064
 8003065	除盖障菩萨	除蓋障菩薩	chú gàizhàng púsà	Sarvanivaranaviskambhin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvanīvaraṇaviṣkambhin; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 除一切蓋障 (Chandra and Bunce 2002, pp. 406-407; FGDB '除蓋障菩薩'; SH '八大明王', p. 35; Wikipedia '除盖障菩萨'; Giebel 2005, p. 34; T 848, Scroll 1, 18.0006b09)	8003065
@@ -3070,3 +3070,17 @@
 8003070	不空见菩萨	不空見菩薩	bù kōng jiàn púsà	Amoghadarsana Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Amoghadarsana (FGDB '不空見菩薩')	8003070
 8003071	救护慧菩萨	救護慧菩薩	jiùhùhuìpúsà	Paritranasayamati Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Paritrāṇāśayamati; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 救意慧菩薩 (FGDB '救護慧菩薩'; Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003071
 8003072	除一切热恼菩萨	除一切熱惱菩薩	chú yīqiè rènǎo	Sarvadahaprasamin Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvadāhapraśāmin; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '除一切熱惱菩薩'; Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003072
+8003073	持地	\N	chí dì	ruler of the land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharaṇiṃdhara (BCSD '持地', p. 545; SH '持地', p. 302)	8003073
+8003074	持地	\N	chí dì	Dharanimdhara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharaṇiṃdhara; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (SH '持地', p. 302; Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003073
+8003075	上首诸圣尊	上首諸聖尊	shàng shǒu zhū shèng zūn	Drdhadhyasaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dṛḍhādhyāśaya; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003075
+8003076	上	\N	shàng	higher, superior; uttara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttara, Tibetan: bla ma (BCSD '上', p. 7; Mahāvyutpatti 'uttaraḥ'; MW 'uttara'; SH '上', p. 55)	8003076
+8003077	上首	\N	shàngshǒu	chief; presiding elders	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthaviraḥ, Tibetan: gnas brtan (BCSD '上首', p. 30; Ding '上首'; FGDB '上首'; Mahāvyutpatti 'sthaviraḥ'; SH '上首', p. 57)	8003077
+8003078	上首	\N	shàngshǒu	foremost; pramukha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramukha (BCSD '上首', p. 30; MW 'pramukha')	8003077
+8003079	行法	\N	xíngfǎ	cultivation method	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '行法'; FGDB '行法')	8003079
+8003080	虚空慧菩萨	虛空慧菩薩	xūkōng huì púsà	Gaganamati Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaganamati; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 虛空慧 (FGDB '虛空慧菩薩'; Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003080
+8003081	六字真言	\N	Liù Zì Zhēnyán	Mantra of Six Syllables; Om mani padme hum	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ maṇi padme hūṃ, Chinese transliteration: 嗡嘛呢叭咩吽, also known as the six syllabled mantra (FGDB '轉經筒'; Tzu Chuang 2012)	8003081
+8003082	毫相	\N	háoxiāng	urna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇā; see 白毫相 (FGDB '白毫相')	8003082
+8003083	虚	虛	xū	false; mithya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithyā (BCSD '虛', p. 1034; MW 'mithyā')	8003083
+8003084	虚	虛	xū	empty; in vain; tuccha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuccha, Tibetan: gsog (BCSD '虛', p. 1034; MW 'mithyā')	8003083
+8003085	虚空	虛空	xūkōng	the sky; gagana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gagana, or: ākāśa, Tibetan: nam mkha' (BCSD '虛空', p. 1034; Mahāvyutpatti 'gaganam'; MW 'gagana')	8003085
+8003086	虚空	虛空	xūkōng	empty space; kha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kha, Tibetan: nam mkha' (BCSD '虛空', p. 1034; Mahāvyutpatti 'kham'; MW 'kha')	8003085
