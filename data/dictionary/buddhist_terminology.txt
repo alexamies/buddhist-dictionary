@@ -2451,7 +2451,7 @@
 8002451	大悲曼荼罗	大悲曼荼羅	dàbēi màntúluó	Great Compassion Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (FGDB '大悲壇')	8002451
 8002452	悲生曼荼罗	悲生曼荼羅	bēi shēng màntúluó	Great Compassion Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (FGDB '大悲壇')	8002452
 8002453	大悲胎藏生大漫茶罗	大悲胎藏生大漫茶羅	dàbēi tāicáng shēng dà màntúluó	Matrix of Great Compassion Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (Giebel 2005, p. 17; T 848, Scroll 1, 18.0004a11)	8002453
-8002454	胎藏曼荼罗	胎藏曼荼羅	tāicángmàntúluó	Matrix of Great Compassion Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (FGDB '胎藏界曼荼羅')	8002454
+8002454	胎藏曼荼罗	胎藏曼荼羅	tāicáng màntúluó	Womb World Mandala; Taizōkai mandara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Taizōkai mandara; another name for 大悲壇 Great Compassion Mandala (FGDB '胎藏界曼荼羅'; Sharf 2005, p. 338)	8002454
 8002455	八心	\N	bā xīn	eight minds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The eight stages of compassion in the mind: 1. seeds, 2. sprouts, 3. buds, 4. leaves, 5. flowers, 6. fruit, 7. use of kernel of the seeds, 8. child (FGDB '八心')	8002455
 8002456	大悲胎藏生曼荼罗	大悲胎藏生曼荼羅	dàbēi tāicáng shēng màntúluó	Matrix of Great Compassion Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (FGDB '胎藏界曼荼羅')	8002456
 8002457	悲生漫茶罗	悲生漫茶羅	bēi shēng màncháluó	Born from Compassion Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (Giebel 2005, p. 18; T 848, Scroll 1, 18.0004a11)	8002457
@@ -3200,3 +3200,9 @@
 8003200	自性轮身	自性輪身	zìxìng lúnshēn	Wheel of Intrinsic Nature	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 三輪身 three wheel bodies (Ding '自性輪身'; FGDB '自性輪身'; Sharf 2005, p. 270)	8003200
 8003201	我	\N	wǒ	self; atman; attan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman, Pali: attan; Japanese: ga; the agent controlling the mind and body that passes from lifetime to lifetime, in contrast to anātman (BL 'ātman', p. 78; FGDB '我')	8003201
 8003202	我	\N	wǒ	ga	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ga; see 哦 (FGDB '哦')	8003201
+8003203	剃度出家	\N	tìdù chūjiā	renunciation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003203
+8003204	牧女献乳糜	牧女獻乳糜	mù nǚ xiàn rǔmí	Sujata Offering Milk Porridge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about a shepherd girl offering milk to Sidartha in the Jataka Tales (FGS Encyclopedia of Buddhist Arts)	8003204
+8003205	当麻曼荼罗	當麻曼荼羅	dāngmá màntúluó	Taima-mandara	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Taima-mandara; a mandala of Amitabha's Pure Land, portrayed on a lotus thread fabric, dating to the Kamakura period 1185–1333, preserved at Taima Temple in the former town of 當麻 Taima, Japan (FGDB '當麻曼荼羅'; JEBD '當麻曼荼羅', p. 346; Metropolitan Museum of Art, https://www.metmuseum.org/art/collection/search/39669; Ten Grotenhuis 1999, pp. 13-32)	8003205
+8003206	观经曼陀罗	觀經曼陀羅	guān jīng màntuóluó	Comtemplation Sutra Mandala	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 當麻曼荼羅 (FGDB '當麻曼荼羅')	8003206
+8003207	藕丝曼陀罗	藕絲曼陀羅	ǒu sī màntuóluó	Lotus Thread Mandala	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 當麻曼荼羅 (FGDB '當麻曼荼羅')	8003207
+8003208	当麻曼荼罗绘卷	當麻曼荼羅繪卷	dāngmá màntúluó huì juǎn	Taima Mandara Scroll Painting	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 當麻曼荼羅 (FGDB '當麻曼荼羅繪卷')	8003208
