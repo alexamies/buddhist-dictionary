@@ -86,7 +86,7 @@
 8000086	达磨廓然	達磨廓然	dámó kuòrán	Bodhidharma says, “Empty. There is nothing holy.”	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 達磨廓然 (FGDB '達磨廓然')	8000086
 8000087	闪电光	閃電光	shǎndiàn guāng	a flash of lightening	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: a a metaphor on rapid change, from Koan 1 of 碧巖錄 “Blue Cliff Record” and other canonical sources (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 16; T 2003, Scroll 1; FGDB '閃電光')	8000087
 8000088	癡	\N	chī	confusion; stupidity; naivety; delusion; moha	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moha, Pali: moha, variant of 痴, Japanese: chi, Tibetan: gti mug; one of the 三毒 'three poisons' and 六大煩惱地法 'six root unwholesome mental factors' (BL 'moha', p. 546; FGDB '癡'; SH '癡', p. 471)	8000088
-8000089	施	\N	shī	the practice of selfless giving; dāna	noun	波罗蜜	Paramita	佛教	Buddhism	\N	\N	\N	shi1.mp3	Sanskrit equivalent: dāna, Pali: dāna, Japanese: se; the first of the 六度 'six paramitas,' an abbreviation of 布施 (ABCE '施'; FGDB '布施'; JEBD 'se'; Unihan '施')	8000089
+8000089	施	\N	shī	the practice of selfless giving; dāna	noun	波罗蜜	Paramita	佛教	Buddhism	\N	\N	\N	shi1.mp3	Sanskrit equivalent: dāna, Pali: dāna, Japanese: se, Tibetan: sbyin pa; the first of the 六度 'six paramitas,' an abbreviation of 布施 (ABCE '施'; BCSD '施', p. 590; FGDB '布施'; JEBD 'se'; Unihan '施')	8000089
 8000090	佛刹	佛剎	fó shā	Buddhakṣetra; a Buddha field; a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Buddhakṣetra, Japanese: bussetsu; a realm established by a Buddha, the best known of which is sukhāvatī 極樂世界 established by Amitābha 阿彌陀佛. See 佛土 (BL 'buddhakṣetra', p. 153; FGDB '佛剎' 1)	8000090
 8000091	相应	相應	xiāngyìng	concomitant	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	xiang1ying4.mp3	Sanskrit equivalent: saṃprayukta; literally meaning 'joined together' in Sanskrit (BL 'saṃprayukta', p. 757; FGDB '相應'; SH '相應', p. 310)	8000091
 8000092	布施	\N	bùshī	dana; giving; generosity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bu4shi1.mp3	Sanskrit equivalent: dāna, Pali: dāna, Japanese: fuse, Tibetan: sbyin pa; the first of the six paramitas; one of the seven kinds of spiritual wealth 七圣财 (BL 'dana', pp. 211-212; FGDB '布施'; Tzu Chuang 2012 'perfections, six', pp. 242-244)	8000092
@@ -704,7 +704,7 @@
 8000704	路迦驮睹	路迦馱睹	lùjiāduòdǔ	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokadhātu; see 世界 (FGDB '世界')	8000704
 8000705	世界	\N	shìjiè	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shi4jie4.mp3	Sanskrit equivalent: lokadhātu, Pali: lokadhātu, Japanese: sekai, Tibetan: 'jig rten gyi khams; in Buddhism there are many worlds (BL 'lokadhātu'; CCD '世界' 2; FGDB '世界'; Guoyu '世界' 1; Mahāvyutpatti 'lokadhātuḥ'; SH '世界', p. 164)	8000705
 8000706	一世界	\N	yī shìjiè	one world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一界 (FGDB '一界')	8000706
-8000707	执持	執持	zhíchí	to hold firmly	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '執持'; SH '執持')	8000707
+8000707	执持	執持	zhíchí	to hold firmly; grasp; dharana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇa, Tibetan: 'chang ba (Ding '執持'; Mahāvyutpatti 'dhāraṇam'; MW 'dhāraṇa'; SH '執持', p. 345)	8000707
 8000708	阿閦鞞	\N	Āchùbī	Aksothya; Aksobhya	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿閦佛 (FGDB '阿閦佛')	8000708
 8000709	须弥相	須彌相	xūmíxiāng	Merudhvaja; Sumeru Appearance Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; SH '須彌相', p. 394; T 366)	8000709
 8000710	大须弥	大須彌	dàxūmí	Mahameru; Great Sumeru Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; T 366)	8000710
@@ -3249,6 +3249,24 @@
 8003249	侘	\N	chà	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭa; see 吒 (FGDB '吒')	8003249
 8003250	咤	\N	zhà	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭa; see 吒 (FGDB '吒')	8003246
 8003251	姹	\N	chà	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003251
-8003252	他	\N	tā	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003252
-8003253	咃	\N	tuō	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; used for foreign names in the Chinese Buddhist Canon; see 咤 (FGDB '咤'; T 221)	8003253
+8003252	他	\N	tā	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tha; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” representing 住處 sthāna 'dwelling place' (BCSD '他', p. 94; FGDB '他'; MW 'tha'; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003252
+8003253	咃	\N	tuō	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003253
 8003254	搋	\N	chuāi	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003254
+8003255	拏	\N	ná	da	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ḍa; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '拏', p. 542; MW 'ḍa'; SH '拏', p. 302; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003255
+8003256	荼	\N	tú	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ḍha; a consonant in the Sanskrit alphabet meaning 'large drum'; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '荼', p. 1015; FGDB '荼'; MW 'ḍha'; SH '荼', p. 363; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003256
+8003257	多	\N	duō	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ta; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” representing 如如 tathatā 'thusness' (BCSD '多', p. 313; FGDB '多'; MW 'ta'; SH '多', p. 209; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003257
+8003258	多	\N	duō	many; aneka	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anekam, Tibetan: du ma (BCSD '多', p. 313; FGDB '多'; MW 'ta'; SH '多', p. 209; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003257
+8003259	哆	\N	duō	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ta; see 多 (FGDB '多')	8003259
+8003260	怛	\N	dá	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ta; see 多 (FGDB '多')	8003260
+8003261	他	\N	tā	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003252
+8003262	住处	住處	zhùchù	dwelling place; sthana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthāna (MW 'sthāna'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003262
+8003263	娜	\N	nà	da	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: da; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” representing 施 dāna 'giving' (BCSD '娜', p. 364; FGDB '娜'; MW 'da'; SH '娜', p. 323; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003263
+8003264	驮	馱	duò	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” representing 法界 dharmadhātu (BCSD '馱', p. 1282; FGDB '馱'; MW 'dha'; SH '馱', p. 430; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003264
+8003265	安立	\N	ānlì	to establish; to find a place for; to help settle down; to arrange for	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '安立'; FGDB '安立'; Mathews 1931 '安立' p. 5; SH '安立')	8003265
+8003266	安立	\N	ānlì	to begin to speak	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '安立')	8003266
+8003267	駄	\N	tuó	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003267
+8003268	陀	\N	tuó	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003268
+8003269	拕	\N	tuō	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003269
+8003270	达	達	dá	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003270
+8003271	娜缚罗钵逻	娜縛羅鉢邏	nàfúluóbōluó	dvarapala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvārapāla; see 守門天 (FGDB '守門天')	8003271
+8003272	昙	曇	tán	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003272
