@@ -44,7 +44,7 @@
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
 8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
-8000047	梵	\N	fàn	brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahma; a member of the Indian caste (BCSD '梵'; FGDB '梵'; MW 'brahman')	8000047
+8000047	梵	\N	fàn	brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahma; a member of the Indian caste (BCSD '梵', p. 656; FGDB '梵'; MW 'brahman')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BL 'ārya', p. 64; BCSD '聖'; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
@@ -3377,3 +3377,5 @@
 8003377	两部曼荼罗	兩部曼荼羅	liǎng bù màntúluó	Mandala of the Two Realms	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Namely: the Diamond Realm and the Womb Realm. (SH '兩部曼荼羅', p. 250; Wikipedia '兩部曼荼羅')	8003377
 8003378	扇底羯啰	扇底羯囉	shàndǐjiéluó	peace and prosperity; śāntikara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāntikara; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '寂靜真言'; MW 'śāntikara'; Giebel 2005, p. 48; T 848, Scroll 2, 18.0010c02)	8003378
 8003379	寂静真言	寂靜真言	jìjìng zhēnyán	śāntikara mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 扇底羯囉 (FGDB '寂靜真言')	8003379
+8003380	大正新脩大藏经	大正新脩大藏經	Dàzhèng Xīn Xiū Dà Zàng Jīng	Taishō shinshū daizōkyō	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese version of the Chinese Buddhist Canon compiled between 1924 and 1935 with editorial supervision by Takakusu Junjirō and Watanabe Kaigyoku (BL 'Taishō shinshū daizōkyō'; JEBD 'Taishō-daizō-kyō'; WorldCat 'Taishō shinshū Daizōkyō' 1988)	8003380
+8003381	梵字	\N	fànzì	Siddhaṃ script	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Japanese: bonji; the script used in some historic Sanskrit Buddhist texts surviving in East Asia (FGDB '梵字'; JEBD '梵字', p. 21)	8003381
