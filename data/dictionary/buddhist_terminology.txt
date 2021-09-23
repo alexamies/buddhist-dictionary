@@ -1614,12 +1614,12 @@
 8001614	寺志	\N	sì zhì	a gazetteer of Buddhist temples	noun	地方志	Gazetteer	佛教	Buddhism	\N	\N	\N	\N	A directory of temples and information about them (FGDB '中國佛寺志叢刊')	8001614
 8001615	我语	我語	wǒyǔ	atmavada; notions of a self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātmavāda, Pali: attavāda, Japanese: gago, Tibetan: bdag tu smra ba; the belief in an eternal soul (BL 'ātmavāda'; SH '我語', p. 78)	8001615
 8001616	毗沙门天	毗沙門天	píshā mén tiān	Vaisravana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśravaṇa; see 多聞天 (FGDB '毘沙門天王')	8001616
-8001617	日天	\N	rì tiān	Surya; Aditya	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Āditya, or: sūrya; offspring of Aditi, deities related to the sun (FGDB '日天'; SH '日天', p. 155; Wikipedia '日天')	8001617
+8001617	日天	\N	rì tiān	Surya; Aditya	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āditya, or: sūrya; offspring of Aditi, deities related to the sun (FGDB '日天'; SH '日天', p. 155; Wikipedia '日天')	8001617
 8001618	摩利支天	\N	mólìzī tiān	Marici	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: marīcī, Japanese: Marishi, Tibetan: 'od zer can ma; literally, 'mirage' or 'shining,' an Indian goddess adopted in Buddhist mythology (BL 'Marīcī'; FGDB '摩利支天'; SH '摩利支', p. 435; Wikipedia '摩利支天')	8001618
 8001619	摩里支天	\N	mólìzhī tiān	Marici	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: marīcī; see 摩利支天 (Wikipedia '摩利支天')	8001619
-8001620	阿泥底耶	\N	ānídǐyé	Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Āditya; see 日天 (FGDB '日天')	8001620
-8001621	日天子	\N	rìtiānzǐ	Surya; Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Āditya; see 日天 (FGDB '日天')	8001621
-8001622	日神	\N	rìshén	Surya; Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Āditya; see 日天 (FGDB '日天')	8001622
+8001620	阿泥底耶	\N	ānídǐyé	Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āditya; see 日天 (FGDB '日天')	8001620
+8001621	日天子	\N	rìtiānzǐ	Surya; Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āditya; see 日天 (FGDB '日天')	8001621
+8001622	日神	\N	rìshén	Surya; Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āditya; see 日天 (FGDB '日天')	8001622
 8001623	修利	\N	xiūlì	Surya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; see 日天 (SH '日天', p. 155)	8001623
 8001624	修野天子	\N	xiūyě tiānzǐ	Surya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; see 日天 (SH '日天', p. 155)	8001624
 8001625	修意天子	\N	xiūyì tiānzǐ	Surya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; see 日天 (SH '日天', p. 155)	8001625
@@ -3471,3 +3471,37 @@
 8003471	若衍底	\N	ruòyǎndǐ	jayanti; victorious	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jayanta; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'jayanta'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014b24)	8003471
 8003472	金刚锁	金剛鎖	jīngāngsuǒ	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	anskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (MW 'vajraśṛṅkhalā'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014b27)	1678003472367
 8003473	满陀	滿陀	mǎntuó	mota; bundle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moṭa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'moṭa'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014b27)	8003473
+8003474	赧	\N	nǎn	maṅku; shaking	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṅku (BCSD '赧', p. 1115; MW 'maṅku')	8003474
+8003475	发吒	發吒	fāzhà	to wreck; to break; to destroy	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 破壞 (Ding '發吒')	8003475
+8003476	发吒	發吒	fāzhà	phat	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phaṭ; a mystical Sanskrit letter used in a matra in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '八大童子印言'; MW 'phaṭ'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c07)	8003475
+8003477	八大童子印言	\N	bā dà tóngzi yìn yán	Eight Boy Attendants Mudra Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八大童子印言')	8003477
+8003478	阶位	階位	jiēwèi	rank; position; stage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四階位')	8003478
+8003479	菩萨行	菩薩行	púsà xíng	bodhisattva-caryā; bodhisattva-carita; bodhisattva practice; actions of bodhisattvas	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: bodhisattva-caryā; the practice by a bodhisattva of the six pāramitās; translation by Watson: 'actions of the bodhisattvas' (BCSD '菩薩行'; FGDB '菩薩行'; Watson 1997, p. 121)	8003479
+8003480	菩萨地	菩薩地	púsà xíng	stage of bodhisattva; bodhisattvabhūmi	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: bodhisattvabhūmi, Japanese: Bosatsujijikyō,  Tibetan: byang chub sems dpa'i sa; the ninth of the 十地 ten stages according to the Tiantai classification (BL 'Bodhisattvabhūmi', pp. 135-136; FGDB '菩薩地'; Ichishima and Chappell 2013, p. 187; Powers 2007, p. 121; SH '十地', p. 47; T 1931)	8003480
+8003481	救脱	救脫	jiùtuō	salvation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '救脫', p. 351)	8003481
+8003482	神识	神識	shénshí	soul	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Buddhist concept similar to soul (FGDB '神識'; Guoyu '神識'; SH '神識', p. 335)	8003482
+8003483	转读	轉讀	zhuǎndú	to recite a Buddhist sutra	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '轉讀')	8003483
+8003484	救脱菩萨	救脫菩薩	jiùtuō púsà	Salvation Bodhisattva; Rescuing Aid Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Sutra of the Medicine Buddha (FGDB '救脫菩薩')	8003484
+8003485	六时	六時	liù shí	the six four hour periods of the day	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	According to the traditional time system: 初夜 early evening 6:00 - 10:00 pm, 中夜 late evening 10:00 pm - 2:00 am, 后夜 early hours of the morning 2:00 am - 6:00 am, 晨朝 early morning 6:00 am - 10:00 am, 日中 midday 10:00 am - 2:00 pm, 日末 late afternoon 2:00 pm - 6:00 pm (FGDB '六時'; SH '六時', p. 135)	8003485
+8003486	紧	緊	jǐn	kim	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kim; or: kiṃ; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '緊', p. 934; MW 'kim'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c10)	8003486
+8003487	吃丽奢	吃麗奢	chīlìshē	kleśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleśa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'kleśa'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003487
+8003488	素捺那	\N	sùnànà	sudana; destroy	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūdana; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'sūdana'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003488
+8003489	嚩始多	\N	fúshǐduō	vasita; subduing to one's own will	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśitā; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'vaśitā'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003489
+8003490	鑁	\N	zōng	vaṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaṃ; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '鑁'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0015a01)	8003490
+8003491	鲁达罗	魯達羅	lǔdáluó	Rudra; Roarer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; god of tempests, another name for 自在天 Mahesvara; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 嚕捺囉 (FGDB '魯達羅'; SW 'rudra'; SH '樓陀羅', p. 438; Wikipedia '樓陀羅'; Giebel 2005, p. 62; T 848, Scroll 2, 18.0015a13)	8003491
+8003492	噜捺啰	嚕捺囉	lūnàluó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (Giebel 2005, p. 62; T 848, Scroll 2, 18.0015a13)	8003492
+8003493	楼陀	樓陀	lóutuó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (SH '樓陀羅', p. 438)	8003493
+8003494	噜捺罗	嚕捺羅	lūnàluó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (FGDB '魯達羅')	8003494
+8003495	涝达罗	澇達羅	làodáluó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (FGDB '魯達羅')	8003495
+8003496	禄陀罗	祿陀羅	lùtuóluó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (FGDB '魯達羅')	8003496
+8003497	死王	\N	sǐ wáng	Lord of Death; Mrtyu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛtyu (FGDB '死王'; MW 'mṛtyu'; SH '死王', p. 216; Giebel 2005, p. 62; T 848, Scroll 2, 18.0015a23)	8003497
+8003498	阿儞怛夜	\N	ānǐdáyè	Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āditya; see 日天 (Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b06)	8003498
+8003499	伽伽那	\N	jiājiānà	gagana; sky	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gagana; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'gagana'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003499
+8003500	嚩啰	嚩囉	fúluó	vara; enclosing	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vara; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'vara'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003500
+8003501	落吃洒	落吃灑	luòchīsǎ	laksana; sign; characteristic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣaṇa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra,” see 相 (MW 'lakṣaṇa'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003501
+8003502	火界三昧	\N	huǒjiè sānmèi	Realm of Fire Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni-dhātu-samādhi; a samadhi with the power to radiate flames, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 火生三昧 (FGDB '火界三昧'; SH '火生三昧', p. 161; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b20)	8003502
+8003503	火生三昧	\N	huǒshēng sānmèi	Born of Fire Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火界三昧 (Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b20)	8003503
+8003504	火定	\N	huǒdìng	Fire Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火界三昧 (FGDB '火界三昧')	8003504
+8003505	火界定	\N	huǒ jiè dìng	agni dhatu samadhi; contemplation of the realm of fire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火界三昧 (Eitel 'agni dhatu samadhi', p. 6)	8003505
+8003506	火光三昧	\N	huǒguāngsānmèi	Fire Samadhi	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 火界三昧 (FGDB '火界三昧')	8003506
+8003507	燄燄三昧	\N	yànyànsānmèi	Fire Samadhi	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 火界三昧 (FGDB '火界三昧')	8003507
