@@ -835,7 +835,7 @@
 7000835	支昙籥	支曇籥	Zhī Tányuè	 Zhi Tanyue	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	A Tokharian monk who lived in Nanjing during the Jin dynasty, mentioned in Biographies of Eminent Monks, Scroll 13 (FGDB '支曇籥')	7000835
 7000836	恒景	\N	Héng Jǐng	Master Heng Jing	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	634-712; Tang dynasty monk (DDB '恒景')	7000836
 7000837	良价	\N	Liángjià	Dongshan Liangjia	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	807-869 Chan Master, founder of the Caodong School (DDB '良价')	7000837
-7000838	空海	\N	kōng hǎi	Venerable Master Kukai; Kūkai	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	774–835; Japanese monk and founder of the Shingon school of Buddhism (BL 'Kūkai', p. 450; FGDB '空海'; Wikipedia '空海')	7000838
+7000838	空海	\N	kōng hǎi	Kukai	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Kūkai; 774–835; Japanese monk and founder of the Shingon school of Buddhism (BL 'Kūkai', p. 450; FGDB '空海'; Wikipedia '空海')	7000838
 7000839	天亲	天親	Tiān Qīn	Vasubandhu; Vasubandu	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	See 世親 (Wikipedia '世親')	7000839
 7000840	大乘成业论	大乘成業論	Dàchéng Chéng Yè Lùn	Karmasiddhiprakaraṇa	proper noun	论	Sastra	佛教	Buddhism	大乘	Mahāyāna	\N	\N	A treatise by Vasubandhu (KDC 603; T 1609)	7000840
 7000841	护法	護法	hùfǎ	Dharmapāla	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sixth and seventh century Indian Buddhist philosopher and writer (BL 'Dharmapāla'; FGDB '護法')	7000841
@@ -6081,7 +6081,7 @@
 7006081	通慧	\N	tōng huì	Tong Hui	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	919-1001; Song dynasty scholar-monk (FGDB '通慧')	7006081
 7006082	十住心论	十住心論	shízhù xīn lùn	Jūjūshinron	proper noun	典籍	Canonical Text	佛教	Buddhism	日本	Japan	\N	\N	Text by Japanese monastic Kūkai (Wikipedia 'Kūkai')	7006082
 7006083	秘蔵宝钥	秘蔵宝鑰	mì zāng bǎo yào	Hizō Hōyaku; The Precious Key to the Secret Treasury	proper noun	典籍	Canonical Text	佛教	Buddhism	日本	Japan	\N	\N	See 祕藏寶鑰	7006083
-7006084	祕藏宝钥	祕藏寶鑰	mì cáng bǎo yào	Hizō Hōyaku; The Precious Key to the Secret Treasury	proper noun	典籍	Canonical Text	佛教	Buddhism	日本	Japan	\N	\N	Text by Japanese monastic Kūkai (Ding '秘藏寶鑰'; FGDB '祕藏寶鑰'; Wikipedia 'Kūkai')	7006084
+7006084	祕藏宝钥	祕藏寶鑰	mì cáng bǎo yào	Hizō Hōyaku; The Precious Key to the Secret Treasury	proper noun	典籍	Canonical Text	佛教	Buddhism	日本	Japan	\N	\N	Text by Japanese monastic Kūkai (Ding '秘藏寶鑰'; FGDB '祕藏寶鑰'; Hakeda 1972, pp. 157-224; Wikipedia 'Kūkai')	7006084
 7006085	秘藏宝钥	秘藏寶鑰	mìcángbǎoyào	Hizō Hōyaku; The Precious Key to the Secret Treasury	proper noun	典籍	Canonical Text	佛教	Buddhism	日本	Japan	\N	\N	See 祕藏寶鑰	7006085
 7006086	如来祕密藏经	如來祕密藏經	rúlái mìmì zàngjīng	Tathāgatagarbhasūtra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 大方廣如來祕密藏經 (T 821)	7006086
 7006087	祕藏经	祕藏經	mì zàngjīng	Tathāgatagarbha sūtra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 大方廣如來祕密藏經 (T 821)	7006087
@@ -6420,3 +6420,13 @@
 7006420	东寺	東寺	dōngsì	Tō-ji	proper noun	寺院	Temple	佛教	Buddhism	日本	Japan	\N	\N	A a Shingon temple located in Kyoto, Japan (Wikipedia '東寺')	7006420
 7006421	大藏出版株式会社	大藏出版株式會社	dàcáng chūbǎn zhūshì huìshè	Daizo Shuppansha	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Publisher of the 大正新脩大藏經 Taishō Shinshū Daizōkyō ‘Taishō Revised Canon’ (Wikipedia '大藏出版株式會社')	7006421
 7006422	渡边海旭	渡邊海旭	dùbiān hǎixù	Watanabe Kaikyoku	proper noun	人	Person	佛教	Buddhism	日本	Japan	\N	\N	Co-editor of the Publisher of the 大正新脩大藏經 Taishō Shinshū Daizōkyō ‘Taishō Revised Canon’ (FGDB '渡邊海旭'; Wilkinson 2015, pp. 313-316)	7006422
+7006423	三教指归	三教指歸	sān jiāo zhǐ guī	Sangō Shiiki; Indications of the Goals of the Three Teachings	proper noun	书名	Book Title	佛教	Buddhism	日本	Japan	\N	\N	Composed by by Kūkai in 797 (BL 'Kūkai', p. 450; FGDB '空海'; Hakeda 1972, pp. 101-140; Wikipedia '三教指歸')	7006423
+7006424	风信帖	風信帖	fēng xìn tiè	Huushincho	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Title of a work written by 空海 Kūkai (Wikipedia '風信帖')	7006424
+7006425	弘法大师	弘法大師	hóngfǎ dàshī	Kōbō Daishi	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	Posthumous title for Kūkai (Wikipedia '空海')	7006425
+7006426	请来目录	請來目錄	qǐnglái mùlù	Shōrai Mokuroku; A List of Newly Imported Sutras and Other Items	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 御請來目録 (BL 'Kūkai', p. 450; FGDB '空海'; Hakeda 1972, pp. 140-150)	7006426
+7006427	御请来目録	御請來目録	yù qǐng lái mùlù	Shōrai Mokuroku; A Memorial Presenting a List of Newly Imported Sutras and Other Items	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BL 'Kūkai', p. 450; FGDB '空海'; Hakeda 1972, pp. 140-150; T 2161)	7006427
+7006428	辩显密二教论	辯顯密二教論	biàn xiǎn mì èr jiāo lùn	Benkenmitsu nikyō ron; The Difference Between Exoteric and Esoteric Buddhism	proper noun	书名	Book Title	佛教	Buddhism	日本	Japan	\N	\N	Title of a work written by 空海 Kūkai  (FGDB '空海'; Hakeda 1972, pp. 151-157)	7006428
+7006429	即身成佛义	即身成佛義	jí shēn chéng fó yì	Sokushin jōbutsu gi; Attaining Enlightenment in this Very Existence	proper noun	书名	Book Title	佛教	Buddhism	日本	Japan	\N	\N	Title of a work written by 空海 Kūkai  (FGDB '空海'; Hakeda 1972, pp. 225-234)	7006429
+7006430	声字义	聲字義	shēng zì yì	Shōji jissō gi; The Meanings of Sound, Word, and Reality	proper noun	书名	Book Title	佛教	Buddhism	日本	Japan	\N	\N	Title of a work written by 空海 Kūkai  (FGDB '空海'; Hakeda 1972, pp. 234-246)	7006430
+7006431	吽字义	吽字義	hōng zì yì	Ungi gi; The Meanings of the Word Hūṃ	proper noun	书名	Book Title	佛教	Buddhism	日本	Japan	\N	\N	Title of a work written by 空海 Kūkai  (FGDB '空海'; Hakeda 1972, pp. 246-262)	7006431
+7006432	般若心经祕键	般若心經祕鍵	bān ruò xīn jīng mì jiàn	Hanya Shingyō hiken; The Secret Key of the Heart Sutra	proper noun	书名	Book Title	佛教	Buddhism	日本	Japan	\N	\N	Title of a work written by 空海 Kūkai  (FGDB '空海'; Hakeda 1972, pp. 262-275)	7006432
