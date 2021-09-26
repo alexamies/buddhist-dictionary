@@ -2587,7 +2587,7 @@
 8002587	九想	\N	jiǔ xiǎng	nine perceptions; navasamjna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navasaṃjñā, Pali: navasaññā, Japanese: kusōkan, Tibetan: 'du shes dgu; meditations on the impurity with nine stages of the decay of the body (BL 'navasaṃjñā', p. 578; FGDB '九想')	8002587
 8002588	九想观	九想觀	jiǔ xiǎngguān	nine perceptions; navasamjna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navasaṃjñā; see 九想 (BL 'navasaṃjñā', p. 578)	8002588
 8002589	风	風	fēng	wind element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 four great elements (FGDB '風'; Tzu Chuang 2012, p. 92)	8002589
-8002590	风	風	fēng	wind; vayu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu (BCSD '風', p. 1272; MW 'vāyu'; SH '風', p. 318)	8002589
+8002590	风	風	fēng	wind; vayu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu, Japanese: fū (BCSD '風', p. 1272; DJBT '風', p. 427; MW 'vāyu'; SH '風', p. 318)	8002589
 8002591	闭戾多	閉戾多	bìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002591
 8002592	俾礼多	俾禮多	bǐlǐduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002592
 8002593	火	\N	huǒ	fire element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 four great elements (Tzu Chuang 2012, p. 92)	8002593
@@ -3558,3 +3558,23 @@
 8003558	和	\N	hé	harmony	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ka, or: wa (DJBT '和', p. 427)	8003558
 8003559	目	\N	mù	eye	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakṣu; Japanese: moku (DJBT '目', p. 431; MW 'cakṣu'; SH '目', p. 199)	8003559
 8003560	录	錄	lù	record	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: roku (DJBT '录', p. 431)	8003560
+8003561	波罗蜜多	波羅蜜多	bōluómìduō	paramita; perfection	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāramitā, Pali: pāramī. A pāramitā is the perfection or culmination of certain virtues. In the Mahāyāna tradition a pāramitā is a virtue practiced by a bodhisattva on the path to enlightenment. Another explanation is reaching the other shore The word is derived from the Sanskrit parama 'highest' or 'supreme'. The most common enumeration in the Mahāyāna tradition is 六度 'six pāramitās' and the most common in the Theravāda tradition is the ten pāramīs. The Mahāyāna tradition also extends the six pāramitās to ten 十波羅蜜, although they are different from the Theravāda list (BL 'pāramitā'; Shambhala 'pāramitā'; FGDB '波羅蜜').	8003561
+8003562	布施波罗蜜	布施波羅蜜	bùshī bōluómì	dāna-pāramitā; the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāna-pāramitā, Japanese: dan-haramitsu; one of the six paramitas 六度 (Daitō Shuppansha 1991; FGDB '布施')	8003562
+8003563	施波罗蜜	施波羅蜜	shī bōluómì	dāna-pāramitā; the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布施波羅蜜 (FGDB '布施')	8003563
+8003564	檀那波罗蜜	檀那波羅蜜	tánnà bōluómì	dāna-pāramitā; the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布施波羅蜜 (FGDB '布施')	8003564
+8003565	檀那	\N	tánnà	dana; the practice of giving; generosity	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali: dāna (Ding '檀那'; FGDB '檀那'; SH '檀那')	8003565
+8003566	布施度无极	布施度無極	bùshī dù wú jí	dāna-pāramitā; the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布施波羅蜜 (FGDB '布施')	8003566
+8003567	度无极	度無極	dù wú jí	paramita; perfection	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāramitā; see 波羅蜜 (SH '波羅蜜多', p. 267)	8003567
+8003568	六度无极	六度無極	liù dù wú jí	six perfections	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: satpāramitā; 1. dāna or generosity 布施, 2. sīla or proper conduct 持戒, 3. kṣānti or tolerance 忍辱, 4. Vīrya or diligence 精進, 5. Dhyāna or concentration 禪定, 6. Prajñā or wisdom 智慧 (FGDB '波羅蜜')	8003568
+8003569	持戒波罗蜜	持戒波羅蜜	chí jiè bōluómì	sila-paramita; the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla-pāramitā; the second of the six paramitas 六度 (FGDB '波羅蜜')	8003569
+8003570	戒波罗蜜	戒波羅蜜	jiè bōluómì	sila-paramita; the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla-pāramitā; the second of the six paramitas 六度 (FGDB '波羅蜜')	8003570
+8003571	持戒	\N	chí jiè	morality; to uphold precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the six paramitas; one of the seven kinds of spiritual wealth 七圣财 (Tzu Chuang 2012, pp. 242-244)	8003571
+8003572	尸罗波罗蜜	尸羅波羅蜜	shīluó bōluómì	sila-paramita; the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla-pāramitā; the second of the six paramitas 六度 (Tzu Chuang 2012, pp. 242-244)	8003572
+8003573	戒度无极	戒度無極	jiè dù wú jí	sila-paramita; the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla-pāramitā; the second of the six paramitas 六度 (Tzu Chuang 2012, pp. 242-244)	8003573
+8003574	忍辱波罗蜜	忍辱波羅蜜	rěnrǔ bōluómì	ksanti-paramita; the paramita of tolerance; the paramita of forbearance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣāntipāramitā (Tzu Chuang 2012, pp. 242-244)	8003574
+8003575	忍波罗蜜	忍波羅蜜	rěn bōluómì	ksanti-paramita; the paramita of tolerance; the paramita of forbearance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣāntipāramitā (Tzu Chuang 2012, pp. 242-244)	8003575
+8003576	羼提	\N	chàntí	ksānti; tolerance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 忍辱 (FGDB '忍辱')	8003576
+8003577	羼提波罗蜜	羼提波羅蜜	chàntí bōluómì	ksanti-paramita; the paramita of tolerance; the paramita of forbearance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣāntipāramitā (Tzu Chuang 2012, pp. 242-244)	8003577
+8003578	信	\N	xìn	faith; confidence	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śraddhā, Pali: saddhā, Japanese: shin, Tibetan: dad pa; faith is the first in the four stages of practice 信解行证 and the first of the 五力 pañcabala 'five powers' (BL 'śraddhā', pp. 847-848; FGDB '信'; MW 'śraddhā')	8003578
+8003579	龍藏	\N	lóng zàng	Qian Long Canon	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 龍藏經  (FGDB '龍藏')	8003579
+8003580	乾隆版大藏经	乾隆版大藏經	qián lóng bǎn dà zàng jīng	Qian Long Canon	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 龍藏經 (FGDB '龍藏')	8003580
