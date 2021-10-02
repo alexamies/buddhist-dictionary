@@ -1713,7 +1713,7 @@
 8001713	无生	無生	wúshēng	anutpāda; unproduced; non-arising	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anutpāda, Japanese: mushō, Tibetan: skye med; in the sense of not coming into existence (BL 'anutpāda', p. 54; FGDB '無生'; MW 'anutpāda'; SH '無生', p. 380)	8001713
 8001714	善堂	\N	shàn táng	benevolent halls; virtuous society	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 善會 benevolent associations; virtuous society (Religious Temple Management in China, Phyllis Ghim-Lian Chew, 2014, p.11)	8001714
 8001715	雨众外道	雨眾外道	yǔzhòngwàidào	Varsagana	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: varṣagaṇa; an ancient Indian school of thought based on numbers (FGDB '雨眾外道')	8001715
-8001716	仪轨	儀軌	yí guǐ	ritual manual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Shinohara 2014, pp. 40-41)	8001716
+8001716	仪轨	儀軌	yí guǐ	ritual; ritual manual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upacāra, or: vidhi; Japanese: giki (BL 'vidhi', p. 967; DJBT 'giki', p. 64; FGDB '儀軌'; JEBD 'giki', p. 84;  Mahāvyutpatti 'upacāraḥ' ; MW 'upacāra'; Shinohara 2014, pp. 40-41)	8001716
 8001717	修禅	修禪	xiū chán	to meditate; to cultivate through meditation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 修禪定(Ding '修禪定')	8001717
 8001718	半讬迦	半託迦	bàntuōjiā	Panthaka	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	One of the 十六羅漢 'sixteen Arhats', born on the road (Ding '半託迦'; FGDB '半託迦'; SH '半託迦', p. 168)	8001718
 8001719	槃陀迦	\N	pántuójiā	Panthaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 半託迦 (SH '半託迦', p. 168)	8001719
@@ -3667,3 +3667,11 @@
 8003667	真言三部	\N	zhēnyán sān bù	three groups of mantras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三部祕經 (FGDB '三部祕經')	8003667
 8003668	秘密三部	祕密三部	mìmì sān bù	three main esoteric texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三部祕經 (FGDB '三部祕經')	8003668
 8003669	诸佛仪轨类	諸佛儀軌類	zhū fó yíguǐ lèi	ritual texts for praise to all Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shobutsu gikirui; a group of texts in the esoteric section of the Taisho including numbers 918-943 (Giebel 2011, p. 28)	8003669
+8003670	诸佛顶仪轨类	諸佛頂儀軌類	zhū fó dǐng yíguǐ lèi	Buddha crown ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shobutchō gikirui; a group of texts in the esoteric section of the Taisho including numbers 944–981 (Giebel 2011, p. 28)	8003670
+8003671	诸经仪轨类	諸經儀軌類	zhū jīng yíguǐ lèi	sutra ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shokyō gikirui; a group of texts in the esoteric section of the Taisho including numbers 982–1029 (Giebel 2011, p. 28)	8003671
+8003672	诸观音仪轨类	諸觀音儀軌類	zhū guānyīn yíguǐ lèi	Avalokitesvara ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shokannon gikirui; a group of texts in the esoteric section of the Taisho including numbers 1030–1118 (Giebel 2011, p. 28)	8003672
+8003673	诸菩萨仪轨类	諸菩薩儀軌類	zhū púsà yíguǐ lèi	bodhisattva worship ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shobosatsu gikirui; a group of texts in the esoteric section of the Taisho including numbers 1119–1170 (Giebel 2011, p. 28)	8003673
+8003674	文殊仪轨类	文殊儀軌類	wénshū yíguǐ lèi	Manjusri ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Monju gikirui; a group of texts in the esoteric section of the Taisho including numbers 1171-1198 (Giebel 2011, p. 28)	8003674
+8003675	诸仪轨类	諸儀軌類	zhūyíguǐlèi	wisdom king ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shomyōō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1199–1243 (Giebel 2011, p. 28)	8003675
+8003676	诸天等仪轨类	諸天等儀軌類	zhū tiān děng yíguǐ lèi	deva ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shotentō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1244–1330 (Giebel 2011, p. 28)	8003676
+8003677	诸陀罗尼经类	諸陀羅尼經類	zhū tuóluóní jīng lèi	group of dharani sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shodaranikyōrui; a group of texts in the esoteric section of the Taisho including numbers 1331–1420 (Giebel 2011, p. 28)	8003677
