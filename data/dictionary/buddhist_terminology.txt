@@ -3597,8 +3597,8 @@
 8003597	慧波罗蜜	慧波羅蜜	huì bōluómì	prajna-paramita; perfection of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī (Tzu Chuang 2012, pp. 242-244)	8003597
 8003598	明度无极	明度無極	míng dù wú jí	prajna-paramita; perfection of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī (Tzu Chuang 2012, pp. 242-244)	8003598
 8003599	密教部	\N	mìjiào bù	Esoteric Section	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The Esoteric Section of the Taishō shinshū daizōkyō volumes 18-21 (BL 'Taishō shinshū daizōkyō', pp. 888-889; Giebel 2011, p. 27)	8003599
-8003600	大日经类	大日經類	dàrì jīng lèi	Mahāvairocana sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Dainichikyōrui; Taisho numbers 848–864 (Giebel 2011, p. 28)	8003600
-8003601	金刚顶经类	金剛頂經類	jīngāng dǐng jīng lèi	Vajraśekhara sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Kongōchōkyōrui; Taisho numbers 865–892 (Giebel 2011, p. 28)	8003601
+8003600	大日经类	大日經類	dàrì jīng lèi	Mahāvairocana sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Dainichikyōrui; a group of texts in the esoteric section of the Taisho including numbers 848–864 (Giebel 2011, p. 28)	8003600
+8003601	金刚顶经类	金剛頂經類	jīngāng dǐng jīng lèi	Vajraśekhara sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Kongōchōkyōrui; a group of texts in the esoteric section of the Taisho including numbers 865–892 (Giebel 2011, p. 28)	8003601
 8003602	开	開	kāi	open	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariphulla, or: bheda, Japanese: kai (BCSD '開', p. 1197; DJBT '靈', p. 429; MW 'pariphulla')	8003602
 8003603	青	\N	qīng	green; blue	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nīla, Japanese: shō, Tibetan: sngon po (BCSD '青', p. 4087; DJBT '青', p. 425; Mahāvyutpatti 'nīlam'; MW 'nīla'; SH '青', p. 294)	8003603
 8003604	禅林	禪林	chán lín	Chan temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: zenrin (FGDB '禪林'; JEBD '禪林寺', p. 374)	8003604
@@ -3658,3 +3658,8 @@
 8003658	大塔	\N	dàtǎ	daitō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A Shingon variety of pagoda; there is a notable daitō located at Mt. Kōya, Jaapn (FGDB '大塔')	8003656
 8003659	五色列次	\N	wǔ sè liè cì	the order of the five primary colors	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Usually given as 青 blue, 黃 yellow, 赤 red, 白 white, and 黑 black but some other conventions are used as well (FGDB '五色列次')	8003659
 8003660	一字佛顶轮王	一字佛頂輪王	yī zì fó dǐng lún wáng	Ekaksara-usnisa-cakravartin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekākṣara-uṣnīṣa-cakravartin; a deity in esoteric Buddhism (Davidson 2011, p. 23)	8003660
+8003661	陀罗尼教	陀羅尼教	tuóluóní jiāo	dharani teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Davidson 2011, p. 23)	8003661
+8003662	陀罗尼法	陀羅尼法	tuóluóní fǎ	dharani teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Davidson 2011, p. 23)	8003662
+8003663	苏悉地经类	蘇悉地經類	sūxīdì jīng lèi	Susuddhikara sūtra and related texts	phrase	书名	Book Title	佛教	Buddhism	\N	\N	\N	\N	Japanese: Soshitsujikyōrui; a group of texts in the esoteric section of the Taisho including numbers 893–907 (Giebel 2011, p. 28)	8003663
+8003664	护摩仪轨类	護摩儀軌類	hùmó yíguǐ lèi	homa ritual manuals	phrase	书名	Book Title	佛教	Buddhism	\N	\N	\N	\N	Japanese: Goma gikirui; a group of texts in the esoteric section of the Taisho including numbers 908–914 (Giebel 2011, p. 28)	8003664
+8003665	受戒法类	受戒法類	shòu jiè fǎ lèi	precept ritual manuals	phrase	书名	Book Title	佛教	Buddhism	\N	\N	\N	\N	Japanese: Jukaihōrui; a group of texts in the esoteric section of the Taisho including numbers 915–917 (Giebel 2011, p. 28)	8003665
