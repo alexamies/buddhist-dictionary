@@ -48,7 +48,7 @@
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BL 'ārya', p. 64; BCSD '聖'; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
-8000051	道场	道場	dàochǎng	place of practice; a Dharma center	noun	\N	\N	佛教	Buddhism	\N	\N	\N	dao4chang3.mp3	(FGDB '道場' 2)	8000051
+8000051	道场	道場	dàochǎng	place of practice; a Dharma center	noun	\N	\N	佛教	Buddhism	\N	\N	\N	dao4chang3.mp3	(FGDB '道場' 2; SH '道場', p. 416)	8000051
 8000052	禅	禪	chán	meditative concentration; dhyāna; jhāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	chan2.mp3	Sanskrit equivalent: dhyāna, Pali: jhāna, Middle Chinese: dzyen, Japanese: zen, Tibetan: bsam gtan (BL 'dhyāna', pp. 256-257; MW 'dhyAna'; Powers 2007, p. 83)	8000052
 8000053	不生不死	\N	bù shēng bù sǐ	unnborn and undying	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Transcending the cycle of birth and death (Guoyu '不生不死')	8000053
 8000054	飞行	飛行	fēixíng	travel through the air with supernatural powers; to fly	verb	\N	\N	佛教	Buddhism	\N	\N	\N	fei1xing2.mp3	(FGDB '飛行'; SH '飛行', p. 318)	8000054
@@ -2418,7 +2418,7 @@
 8002418	窟心	\N	kū xīn	the mind of a cave	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 41st of the 六十心 sixty kinds of mind; desiring to enter caves where elixars and other treasures are found (FGDB '六十心'; Giebel 2005, pp. 10-12; T 848, Scroll 1, 18.0002c03)	8002418
 8002419	风心	風心	fēng xīn	the mind of wind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 42nd of the 六十心 sixty kinds of mind; disorderly (FGDB '六十心'; Giebel 2005, pp. 10-12; T 848, Scroll 1, 18.0002c03)	8002419
 8002420	水心	\N	shuǐ xīn	the mind of water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 43rd of the 六十心 sixty kinds of mind; washing away what is unwholesome (FGDB '六十心'; Giebel 2005, pp. 10-12; T 848, Scroll 1, 18.0002c03)	8002420
-8002421	道	\N	dào	way; path; marga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārga, Pali: magga, Japanese: dō, Tibetan: lam; the path leading to the cessation of suffering (BL 'mārga', p. 532)	8002421
+8002421	道	\N	dào	way; path; marga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārga, Pali: magga, Japanese: dō, Tibetan: lam; the path leading to the cessation of suffering (BL 'mārga', p. 532; JEBD '道', p. 50)	8002421
 8002422	火心	\N	huǒ xīn	the mind of fire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 44th of the 六十心 sixty kinds of mind; prone to violence (FGDB '六十心'; Giebel 2005, pp. 10-12; T 848, Scroll 1, 18.0002c03)	8002422
 8002423	泥心	\N	ní xīn	the mind of mud	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 45th of the 六十心 sixty kinds of mind; unable to differentiate or remember clearly (FGDB '六十心'; Giebel 2005, pp. 10-12; T 848, Scroll 1, 18.0002c03)	8002423
 8002424	显色心	顯色心	xiǎnsè xīn	a mind of dye	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 46th of the 六十心 sixty kinds of mind; tainted (FGDB '六十心'; Giebel 2005, pp. 10-12; T 848, Scroll 1, 18.0002c03)	8002424
@@ -3675,3 +3675,7 @@
 8003675	诸仪轨类	諸儀軌類	zhūyíguǐlèi	wisdom king ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shomyōō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1199–1243 (Giebel 2011, p. 28)	8003675
 8003676	诸天等仪轨类	諸天等儀軌類	zhū tiān děng yíguǐ lèi	deva ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shotentō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1244–1330 (Giebel 2011, p. 28)	8003676
 8003677	诸陀罗尼经类	諸陀羅尼經類	zhū tuóluóní jīng lèi	group of dharani sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shodaranikyōrui; a group of texts in the esoteric section of the Taisho including numbers 1331–1420 (Giebel 2011, p. 28)	8003677
+8003678	瑜	\N	yú	yu	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: yu (DJBT '瑜', p. 436; SH '瑜' 2, p. 407)	8003678
+8003679	摄	攝	shè	samgraha; to hold together; to collect; to combine	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgraha, Japanese: jō, or: sesshu, or: setsu (BCSD '攝', p. 588; JDBT 'sesshu', p. 284; MW 'saṃgraha'; SH '攝', p. 483)	8003679
+8003680	伐折罗	伐折羅	fázhéluó	Vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra; see 金剛 (SH '伐折羅', p. 200)	8003680
+8003681	道场	道場	dàochǎng	place of enlightenment; bodhimanda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhimaṇḍala, or: bodhimaṇḍa, Japanese: dōjō; see 菩提道場 (FGDB '道場'; JEBD '道場', p. 52; SH '道場', p. 416)	8000051
