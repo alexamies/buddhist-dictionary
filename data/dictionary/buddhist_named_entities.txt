@@ -4370,7 +4370,7 @@
 7004370	迦兰多竹林	迦蘭多竹林	jiālánduō zhlín	Karanda Bamboo Garden; Karanda Venuvana	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	See 迦蘭陀竹林 (FGDB '迦蘭陀竹林')	7004370
 7004371	迦兰那加竹林	迦蘭那加竹林	jiālánduō zhlín	Karanda Bamboo Garden; Karanda Venuvana	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	See 迦蘭陀竹林 (FGDB '迦蘭陀竹林')	7004371
 7004372	迦陵竹林	\N	Jiālíng Zhlín	Karanda Bamboo Garden; Karanda Venuvana	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	See 迦蘭陀竹林 (FGDB '迦蘭陀竹林')	7004372
-7004373	频婆娑罗王	頻婆娑羅王	pínpósuōluó wáng	King Bimbisāra	proper noun	王	King	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: bimbisāra (c. 558–491 BCE) Ruler of the Magadha empire (BL 'Bimbisāra'; FGDB '頻婆娑羅王')	7004373
+7004373	频婆娑罗王	頻婆娑羅王	pínpósuōluó wáng	King Bimbisara	proper noun	王	King	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: bimbisāra, Pali: Bimbisāra, Japanese: Binbashara, Tibetan: gzugs can snying po; c. 558–491 BCE, uler of the Magadha empire (BL 'Bimbisāra', p. 119-120; FGDB '頻婆娑羅王')	7004373
 7004374	六度集经	六度集經	Liù Dù Jí Jīng	Sutra of the Collection of the Six Perfections	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist Canon (T 152; KDC 'K 206'; FGDB '六度集經'; Hsing Yun and Miao Guang trans. 2016, p. 373)	7004374
 7004375	菩萨本缘经	菩薩本緣經	Púsà Běnyuán Jīng	Pusa Benyuan Jing; Jātaka stories of the Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A collection of Jātaka stories in the Chinese Buddhist Canon (T 153; KDC 'K 988')	7004375
 7004376	支法护	支法護	Zhī Fǎ Hù	Dharmarakṣa	proper noun	法师	Monk	佛教	Buddhism	\N	\N	\N	\N	See 竺法護 (FGDB '竺法護')	7004376
@@ -4757,9 +4757,9 @@
 7004757	鹿子母讲堂	鹿子母講堂	lù zǐ mǔ jiǎng táng	Palace of Migara's Mother	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 東園鹿母講堂 (FGDB '東園鹿母講堂')	7004757
 7004758	说智经	說智經	shuōzhìjīng	Discourse on Wisdom	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Title of a text included in the 中阿含經 Madhyamāgama, parallel to the Chabbisodhana Sutta in the Pali canon (K 648; Lancaster 2004; MN 112; T 26, Scroll 49, 1.0732a22)	7004758
 7004759	圣道经	聖道經	shèng dào jīng	Discourse on the Sacred Way	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a text included in the 中阿含經 Madhyamāgama, parallel to the Maha-cattarisaka Sutta in the Pali canon (K 648; Lancaster 2004; MN 117; T 26, Scroll 49, 1.0735b29; Thanissaro Bhikkhu 2008)	7004759
-7004760	室罗筏	室羅筏	shìluófá	Sravasti; Śrāvastī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 舍衞國 (FGDB '室羅筏國'; SH '室羅筏悉底', p. 300)	7004760
-7004761	室罗筏悉底	室羅筏悉底	shìluófáxīdǐ	Sravasti; Śrāvastī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 舍衞國 (SH '室羅筏悉底', p. 300)	7004761
-7004762	室罗筏国	室羅筏國	shìluófáguó	Sravasti; Śrāvastī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 舍衞國 (FGDB '室羅筏國')	7004762
+7004760	室罗筏	室羅筏	shìluófá	Sravasti	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Śrāvastī; see 舍衛國 (FGDB '舍衛國'; SH '室羅筏悉底', p. 300)	7004760
+7004761	室罗筏悉底	室羅筏悉底	shìluófáxīdǐ	Sravasti; Śrāvastī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Śrāvastī; see 舍衛國 (SH '室羅筏悉底', p. 300)	7004761
+7004762	室罗筏国	室羅筏國	shìluófáguó	Sravasti	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Śrāvastī, Pali: sāvatthi, Japanese: Shae koku, Tibetan: Mnyan yod; city in India that the Buddha visited (BL 'Śrāvastī', pp. 851-852; FGDB '舍衛國'; SH '室羅筏悉底', p. 300)	7004762
 7004763	佛说诸法勇王经	佛說諸法勇王經	Fó shuō zhū fǎ yǒng wáng jīng	Fo Shuo Zhu Fa Yong Wang Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 諸法勇王經 (T 822)	7004763
 7004764	金阁寺	金閣寺	jīngé sì	Jinge Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Located in Wutaishan, Shanxi (FGDB '金閣寺'; Wikipedia '金閣寺 (五台山)')	7004764
 7004765	金阁寺	金閣寺	jīngé sì	Rokuonji; Kinkakuji	proper noun	寺院	Temple	佛教	Buddhism	日本	Japan	\N	\N	See 鹿苑寺 (FGDB '金閣寺'; Wikipedia '鹿苑寺')	7004765
@@ -4916,7 +4916,7 @@
 7004916	苏悉地羯罗经	蘇悉地羯羅經	sū xī dì jié luó jīng	Susiddhikara Sutra; Su Xi Di Jie Luo Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: susiddhikarasūtra, or: susiddhikaramahātantrasādhanopāyikapaṭala, Japanese: Soshijjikarakyō; the title of a text in the Chinese Buddhist canon, literally, 'Perfect Achievement Sutra;' one of the 三部祕經 'three main esoteric sutras' of Dai-mitsu (BL 'Susiddhikarasūtra', p. 874; DJBT '蘇悉地羯羅經', p. 334; FGDB '蘇悉地經'; JEBD '蘇悉地經', p. 343; KDC 432; T 893a)	7004916
 7004917	苏悉地羯罗供养法	蘇悉地羯羅供養法	Sū xī dì jié luó gōngyǎng fǎ	Susiddhikarapūjāvidhi; Su Xi Di Jie Luo Gongyang Fa	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: Susiddhikarapūjāvidhi; the title of a text in the Chinese Buddhist canon (KDC 431; T 894a)	7004917
 7004918	苏悉地羯罗供养法	蘇悉地羯羅供養法	Sū xī dì jié luó gōngyǎng fǎ	Susiddhikarapūjāvidhi; Su Xi Di Jie Luo Gongyang Fa	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: Susiddhikarapūjāvidhi; the title of a text in the Chinese Buddhist canon (KDC 431; T 894b)	7004918
-7004919	苏婆呼童子请问经	蘇婆呼童子請問經	Sū pó hū tóngzǐ qǐngwèn jīng	Subāhuparipṛcchā; Su Po Hu Tongzi Qingwen Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: Subāhuparipṛcchā, Japanese: Sobakodōji shōmongyō, Tibetan: Dpung bzangs kyis zhus pa'i rgyud; the title of a text in the Chinese Buddhist canon (BL 'Subāhuparipṛcchātantra'; FGDB '蘇婆呼童子請問經'; KDC 428; T 895a; T 895b)	7004919
+7004919	苏婆呼童子请问经	蘇婆呼童子請問經	Sū pó hū tóngzǐ qǐngwèn jīng	Subāhuparipṛcchā; Su Po Hu Tongzi Qingwen Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: Subāhuparipṛcchā, Japanese: Sobakodōji shōmongyō, Tibetan: dpung bzangs kyis zhus pa'i rgyud; the title of a text in the Chinese Buddhist canon (BL 'Subāhuparipṛcchātantra', p. 860; FGDB '蘇婆呼童子請問經'; KDC 428; T 895a; T 895b)	7004919
 7004920	苏婆呼童子经	蘇婆呼童子經	sūpóhūtóngzǐjīng	Subāhuparipṛcchā Tantra	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 蘇婆呼童子請問經 (FGDB '蘇婆呼童子請問經'; T 895a)	7004920
 7004921	妙臂菩萨所问经	妙臂菩薩所問經	miào bì púsà suǒ wèn jīng	Subāhuparipṛcchā; Miao Bi Pusa Suo Wen Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: Subāhuparipṛcchā; the title of a text in the Chinese Buddhist canon (KDC 1152; T 896)	7004921
 7004922	蕤呬耶经	蕤呬耶經	ruíxìyé jīng	Guhya Sutra	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (Goble, 2019, pp. 28-32; Orzech, Payne, and Sørensen 2011, p. 10; T 897)	7004922
@@ -6520,3 +6520,19 @@
 7006520	宗睿	\N	zōng ruì	Soei	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	808-884; Japanese monastic who travelled to China in the Tang (BSAD '宗睿', ID A000603; https://www.wikidata.org/wiki/Q11451899)	7006520
 7006521	大正大学	大正大學	dàzhèng dàxué	Taisho University	proper noun	大学	University	佛教	Buddhism	日本	Japan	\N	\N	Buddhist university in Japan (Wikipedia '大正大學')	7006521
 7006522	青龙寺仪轨	青龍寺儀軌	qīng lóng sì yíguǐ	Qing Long Temple Ritual Manual	proper noun	书名	Book Title	佛教	Buddhism	\N	\N	\N	\N	An alternative name for 青龍寺軌記 (FGDB '青龍寺儀軌'; T 855)	7006522
+7006523	频毘娑罗	頻毘娑羅	pínpísuōluó	Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006523
+7006524	频头娑罗	頻頭娑羅	píntóusuōluó	Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006524
+7006525	频浮婆	頻浮婆	pínfúpó	Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006525
+7006526	民弥沙啰	民彌沙囉	mínmíshāluó	Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006526
+7006527	缾沙王	\N	píngshā wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006527
+7006528	萍沙王	\N	píngshā wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006528
+7006529	瓶沙王	\N	píngshā wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006529
+7006530	瓶沙	\N	píngshā	Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006530
+7006531	影胜王	影勝王	yǐngshèngwáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006531
+7006532	影坚王	影堅王	yǐngjiān wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006532
+7006533	颜貌端正王	顏貌端正王	yánmàoduānzhèng wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006533
+7006534	谛实王	諦實王	dìshí wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006534
+7006535	光泽第一王	光澤第一王	guāngzé dìyī wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006535
+7006536	好颜色王	好顏色王	hǎo yánsè wáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006536
+7006537	形牢王	\N	xíngláowáng	King Bimbisara	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bimbisāra; see 頻婆娑羅王 (FGDB '頻婆娑羅王')	7006537
+7006538	纯阤	純阤	chúntuó	Cunda	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Name of the one of the Buddha's disciples (BCSD '純阤', p. 927; MW 'cunda')	7006538
