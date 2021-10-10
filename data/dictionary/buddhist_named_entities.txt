@@ -992,7 +992,7 @@
 7000992	阿若拘邻	阿若拘鄰	āruò jūlín	Ājñāta Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (SH '憍陳如', p. 433)	7000992
 7000993	阿若憍陈那	阿若憍陳那	āruò jiāochénnà	Ājñāta Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (SH '憍陳如', p. 433)	7000993
 7000994	亲鸾	親鸞	qīnluán	Shinran	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1173–1262; founder of the Jōdo Shinshū sect (Matsuo 2007, p. 8)	7000994
-7000995	日莲	日蓮	rìlián	Nichiren	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1222–1282; founder of the Nichiren-shū sect (Matsuo 2007, p. 8)	7000995
+7000995	日莲	日蓮	rìlián	Nichiren	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1222–1282; founder of the Nichiren-shū sect (Matsuo 2007, p. 8; SH '日蓮', p. 156)	7000995
 7000996	清那叻佛陀寺	\N	Qīng Nà Lè Fótuó Sì	Wat Phra Si Rattana Mahathat	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	(FGS Encyclopedia of Buddhist Arts)	7000996
 7000997	森林寺	\N	Sēnlín Sì	Wat Pa Lelai	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	(FGS Encyclopedia of Buddhist Arts)	7000997
 7000998	海珠寺	\N	Hǎizhū sì	Wat Phet Samut; Wat Sri Champa; Wat Ban Laem	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	Located in Samut Songkhram, central Thailand (FGS Encyclopedia of Buddhist Arts)	7000998
@@ -1370,7 +1370,7 @@
 7001370	毕邻陀婆蹉	畢鄰陀婆蹉	bìlíntuópócuō	Pilindavatsa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 畢陵伽婆蹉 (FGDB '畢陵伽婆蹉')	7001370
 7001371	毕兰陀筏蹉	畢蘭陀筏蹉	bìlántuófácuō	Pilindavatsa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 畢陵伽婆蹉 (FGDB '畢陵伽婆蹉')	7001371
 7001372	比利陀婆遮	\N	bìlìtuópózhē	Pilindavatsa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 畢陵伽婆蹉 (FGDB '畢陵伽婆蹉')	7001372
-7001373	日莲	日蓮	rìlián	Nichiren	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1222 - 1282; Japanese monastic know for devotion to the Lotus Sutra (Ding '日蓮'; FGDB '日蓮'; SH '日蓮'; Wikipedia '日蓮')	7001373
+7001373	日莲	日蓮	rìlián	Nichiren [sect]	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese sect 日蓮宗 known for devotion to the Lotus Sutra (Ding '日蓮'; FGDB '日蓮'; SH '日蓮', p. 156; Wikipedia '日蓮')	7000995
 7001374	天隆寺	\N	tiānlóng sì	Tianlong Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Located in Nanjing (BSPAD '天隆寺')	7001374
 7001375	法然	\N	fǎrán	Hōnen	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1133– 1212; considered the founder of the Jōdo sect (Matsuo 2007, p. 9)	7001375
 7001376	漆间势至丸	漆間勢至丸	qījiānshìzhìwán	Uruma Seishimaru	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	Secular name for 法然 Hōnen (Matsuo 2007, p. 9)	7001376
@@ -6551,3 +6551,12 @@
 7006551	净严	淨嚴	jìngyán	Jōgon	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1639–1702; Japanese monastic (BSAD '淨嚴', ID A001120; Pinte 2011, p. 849)	7006550
 7006552	灵云寺	靈雲寺	língyúnsì	Lingyun Temple	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	Located in Taiwan (BSAD '靈雲寺', ID PL000000054446)	7006552
 7006553	灵云寺	靈雲寺	língyúnsì	Reiunji	proper noun	寺院	Temple	佛教	Buddhism	日本	Japan	\N	\N	Located in Japan (Pinte 2011, p. 849)	7006552
+7006554	塚本善隆	\N	zhǒngběn shànlóng	Tsukamoto Zenryū	proper noun	人	Person	佛教	Buddhism	日本	Japan	\N	\N	1898-1980; Japanese Buddhist scholar (BSAD '塚本善隆', ID A024385; Wikipedia 'Zhu Faya')	7006554
+7006555	黄檗希运	黄檗希運	huángbò xīyùn	Huangbo Xiyun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	-850; Japanese: Ōbaku Kiun; Tang dy nasty Chan monastic (BL 'Huangbo Xiyun', p. 357; BSAD '希運', ID A000490; FGDB '希運'; Wikipedia '黄檗希運')	7006555
+7006556	希运	希運	xīyùn	Xiyun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 黄檗希運 (FGDB '希運')	7006556
+7006557	黄檗山	黃檗山	huángbò shān	Mount Huangbo; Huangboshan	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Location of a historic Chinese temple in Fuqing county, Fujian province; also similarly named mountains in Jiangxi (FGDB '黃檗山')	7006557
+7006558	黄檗	黃檗	huángbò	Huangbo	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 黃檗山 (FGDB '黃檗山')	7006558
+7006559	黄蘗	\N	huángbò	Huangbo	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Japanese: Ōbaku; see 黃檗山 (FGDB '黃檗山')	7006559
+7006560	黄檗山	黃檗山	huángbò shān	Ōbaku-san	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Historic Japanese temple; see 萬福寺 (FGDB '黃檗山')	7006560
+7006561	万福寺	萬福寺	wànfúsì	Manpuku-ji	proper noun	寺院	Temple	佛教	Buddhism	日本	Japan	\N	\N	Temple in  Kyoto, Japan (FGDB '萬福寺'; Wikipedia '萬福寺 (宇治市)')	7006561
+7006562	圣明	聖明	shèngmíng	King Song Myong	proper noun	人	Person	历史	History	韩国	Korea	\N	\N	Japanese: Seimei; known for sending monks to Japan c. 538, which is the first documented contact with Buddhism in Japan (Matsuo 2007, p. 16)	7006562
