@@ -284,7 +284,7 @@
 8000284	小乘经	小乘經	xiǎoshèng jīng	Agamas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿含經 (SH '小乘經', p. 100)	8000284
 8000285	大乘玄论	大乘玄論	Dàchéng Xuán Lùn	Treatise on the Mystery of the Mahāyāna	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	The title of a text by 吉藏 Ji Zang included in the Chinese Buddhist canon (T 1853)	8000285
 8000286	地藏	\N	dìzàng	Ksitigarbha; Kṣitigarbha	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: kṣitigarbha, Japanese: Jizō, Tibetan: sa yi snying po; see also 地藏菩薩 (BL 'Kṣitigarbha', p. 448; Tzu Chuang 2012; p. 198)	8000286
-8000287	顶	頂	dǐng	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa; see 佛頂 (BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; Kroll 2015 '頂' 1a; SH '佛頂', p. 230)	8000287
+8000287	顶	頂	dǐng	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, or: śekhara; see 佛頂 (BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; Kroll 2015 '頂' 1a; MW 'śekhara'; SH '佛頂', p. 230)	8000287
 8000288	佛顶	佛頂	fódǐng	Buddha crown; usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, Pali: uṇhīsa, Japanese: butchō, or: nikukei, Tibetan: gtsug tor; a protuberance of the crown of the Buddha's head; one of the 佛三十二相 'thirty-two marks of the Buddha' (BCSD '佛頂', p. 118; BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; SH '佛頂', p. 230)	8000288
 8000289	修道	\N	xiūdào	the path of cultivation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāvanāmārga; Pali: bhāvanāmārga, Japanese: shudō, Tibetan: sgom lam; bhāvanāmārga is the fourth of the 五位 pañcamārga 'five paths' (BL 'bhāvanāmārga', p. 113; FGDB '修道'; SH '修道', p. 321)	8000289
 8000290	三坛大戒	三壇大戒	sān tán dà jiè	ordination; ordination ceremony for nuns and monks	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012; FoguangPedia)	8000290
@@ -3789,3 +3789,10 @@
 8003789	观自在王如来	觀自在王如來	guānzìzài wáng rúlái	Lokesvararaja Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokiteśvararāja-tathāgata; another name for 阿彌陀佛 Amitabha Buddha, used in the 金剛頂一切如來真實攝大乘現證大教王經 “Sarvatathāgatatattvasaṁgraha” (FGDB '觀自在王如來'; Giebel 2001, p. 25; T 865, Scroll 1, 18.0208b05)	8003789
 8003790	观自在	觀自在	guānzìzai	Avalokitesvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara, Tibetan: spyan ras gzigs dbang phyug; see 觀世音菩薩 (Mahāvyutpatti 'avalokiteśvaraḥ')	8003790
 8003791	观自在王	觀自在王	guānzìzài wáng	Lokesvararaja	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokiteśvararāja; see 觀自在王如來  (FGDB '觀自在王如來')	8003791
+8003792	拘那含牟尼佛	\N	jūnàhánmóuní fó	Kanakamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kanakamuni; see 拘那含佛 (FGDB '拘那含佛')	8003792
+8003793	檀家制度	\N	tánjiāzhìdù	danka system	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: danka seido; a system of affiliation between Buddhist temples and lay people in Japan (Wikipedia '檀家制度')	8003793
+8003794	缩册大藏经	縮册大藏經	suōcè dà zàng jīng	Shukusatsu daizōkyō; Reduced Print Canon	proper noun	寺院	Temple	佛教	Buddhism	日本	Japan	\N	\N	See 縮刷大藏經 (T 867)	8003794
+8003795	月轮观	月輪觀	yuè lún guān	contemplation on the disk of the moon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The full moon is an metaphor for bodhicitta (FGDB '月輪觀'; SH '月輪觀', p. 157)	8003795
+8003796	月轮三昧	月輪三昧	yuèlún sānmèi	moon samadhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 月輪觀 (SH '月輪觀', p. 157)	8003796
+8003797	拘那含牟尼	\N	jūnàhánmóuní	Kanakamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kanakamuni; see 拘那含佛 (FGDB '拘那含佛')	8003797
+8003798	真言律宗	\N	zhēnyán lǜzōng	Shingon Risshū	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese 'Mantra Vinaya' school (Pinte 2011, p. 845)	8003798
