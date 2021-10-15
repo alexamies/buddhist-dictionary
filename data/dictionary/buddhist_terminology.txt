@@ -2251,7 +2251,7 @@
 8002251	陀那钵底	陀那鉢底	tuónàbōdǐ	danapati; almsgiver	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dānapati, Pali: dānapati, Japanese: dan’otsu, Tibetan: sbyin pa'i bdag po (BL 'dānapati', p. 212; FGDB '施主'; SH '陀那鉢底', p. 285)	8002251
 8002252	陀那施主	\N	tuónàshīzhǔ	danapati; almsgiver	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dānapati; see 陀那鉢底 (SH '陀那鉢底', p. 285)	8002252
 8002253	陀那婆	\N	tuónàpó	danapati; almsgiver	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dānapati; see 陀那鉢底 (FGDB '施主')	8002253
-8002254	布施家	\N	bùshījiā	almsgiver	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dānapati; see 陀那鉢底 (FGDB '施主'))	8002254
+8002254	布施家	\N	bùshījiā	almsgiver	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dānapati; see 陀那鉢底 (FGDB '施主')	8002254
 8002255	毘那夜迦	\N	pínàyèjiā	Vinayaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vināyaka; a Buddhist version of the Hindu deity Gaṇeśa (FGDB '毘那夜迦'; Giebel 2005,  p . 52; SH '頻那夜迦', p. 453; T 848, Scroll 2, 12c11; Wikipedia '歡喜天')	8002255
 8002256	频那夜迦	頻那夜迦	pínnàyèjiā	Vinayaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vināyaka; (SH '頻那夜迦', p. 453)	8002256
 8002257	毘那吒迦	\N	pínàzhàjiā	Vinayaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vināyaka; see 毘那夜迦 (FGDB '毘那夜迦')	8002257
@@ -3943,9 +3943,58 @@
 8003943	钵持莽	鉢持莽	bōchímǎng	padmaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padmaka; a ritual unguent listed in the 蘇悉地羯羅經 “Susiddhikara Sutra” (MW 'padmaka'; Giebel 2001, p. 161; T 893a, Scroll 1, 18.0609a24)	8003943
 8003944	带啰钵㗚尼	帶囉鉢㗚尼	dàiluóbōlìní	tailaparnika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tailaparṇika; a ritual unguent listed in the 蘇悉地羯羅經 “Susiddhikara Sutra” (MW 'tailaparṇika'; Giebel 2001, p. 161; T 893a, Scroll 1, 18.0609a24)	8003944
 8003945	中后不得饮浆	中後不得飲漿	zhōng hòu bùdé yǐn jiāng	not drinking broth after noontime	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003945
-8003946	着弊纳衣	著弊納衣	zhāo bì nà yī	wearing robes of cast-off rags	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 ((Tzu Chuang 2012, pp. 15-18)	8003946
+8003946	着弊纳衣	著弊納衣	zhāo bì nà yī	wearing robes of cast-off rags	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003946
 8003947	着弊衲衣	著弊衲衣	zhāo bì nà yī	wearing robes of cast-off rags	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012)	8003947
 8003948	天木香	\N	tiānmù xiāng	deodar fragrance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Listed as a ritual unguent listed in the 蘇悉地羯羅經 “Susiddhikara Sutra” (Giebel 2001, p. 161; T 893a, Scroll 1, 18.0609a24)	8003948
 8003949	钵孕瞿	鉢孕瞿	bōyùnjù	priyangu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: priyaṅgu; a transliteration used in the 蘇悉地羯羅經 “Susiddhikara Sutra,” see 鉢胤遇 (Giebel 2001, p. 161; T 893a, Scroll 1, 18.0609a24)	8003949
 8003950	迦毕贪	迦畢貪	jiābìtān	kapittha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapittha; a ritual unguent listed in the 蘇悉地羯羅經 “Susiddhikara Sutra” (MW 'kapittha'; Giebel 2001, p. 161; T 893a, Scroll 1, 18.0609a24)	8003950
 8003951	咾达啰	咾達囉	lǎodáluó	rodhra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rodhra; a ritual unguent listed in the 蘇悉地羯羅經 “Susiddhikara Sutra” (MW 'rodhra'; Giebel 2001, p. 161; T 893a, Scroll 1, 18.0609a24)	8003951
+8003952	但三衣	\N	dàn sān yī	Wearing only the three robes; wearing only three robes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003952
+8003953	冢间住	塚間住	zhǒng jiān zhù	dwelling in cemeteries	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003953
+8003954	树下止	樹下止	shù xià zhǐ	staying under a tree	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003954
+8003955	露地住	\N	lù dì zhù	dwelling in an open place	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003955
+8003956	但坐不卧	但坐不臥	dàn zuò bù wò	Only sitting and not lying down; only sitting, not lying down	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 ((Tzu Chuang 2012, pp. 15-18)	8003956
+8003957	善本	\N	shànběn	virtuous roots; wholesome roots; kusalamula	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit: kuśalamūla, Pali: kusalamūla, Japanese: zengon, Tibetan: dge ba'i rtsa ba; there are different enumerations of wholesome roots. One is 1. alobha 'nongreed,' 2. adveṣa 'nonhatred,' and 3. nondelusion 'amoha' (BL 'kuśalamūla', p. 457; FGDB '善根'; SH '三善根', p. 62)	8003957
+8003958	七众	七眾	qī zhòng	sevenfold assembly	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 1. Biksu 比丘; 2. bhiksuni 比丘尼; 3. sramanera 沙弥; 4. sramanerika 沙弥尼 ; 5. siksamana 式叉摩那; 6. upasaka 优婆塞; 7. upasika 优婆夷 (FGDB '七眾')	8003958
+8003959	沤和俱舍罗	漚和俱舍羅	ōuhéjūshèluó	upāya-kauśalya; skill in means	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana	\N	\N	This form is a transliteration; it is written literally in Chinese as 方便善巧 (FGDB '漚和俱舍羅')	8003959
+8003960	沤惒俱舍罗	漚惒俱舍羅	ōuhéjūshèluó	upāya-kauśalya; skill in means	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana	\N	\N	This form is a transliteration; it is written literally in Chinese as 方便善巧 (FGDB '漚和俱舍羅')	8003960
+8003961	毘婆舍那	\N	pípóshènà	vipasyana; insight meditation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipaśyanā; see 觀 (FGDB '觀')	8003961
+8003962	行住坐臥	\N	xíng zhù zuò wò	etiquette in the four postures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '行住坐臥')	8003962
+8003963	道俗七众	道俗七眾	dào sú qī zhòng	sevenfold assembly of monastics and lay people	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 七眾 (FGDB '七眾')	8003963
+8003964	胁士	脅士	xiéshì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士'; SH '脇侍', p. 336)	8003964
+8003965	释迦夹侍	釋迦夾侍	shìjiā jiā shì	the Buddha's attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '釋迦夾侍')	8003965
+8003966	夹侍	夾侍	jiāshì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士')	8003966
+8003967	挟侍	挾侍	xiéshì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士'; SH '脇侍', p. 336)	8003967
+8003968	脇士	\N	xiéshì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Often one of two attendants either side of a Buddha or bodhisattva  (FGDB '脇士'; SH '脇侍', p. 336)	8003968
+8003969	脇侍	\N	xiéshì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士')	8003969
+8003970	脇立	\N	xiélì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士')	8003970
+8003971	二胁士	二脅士	èr xiéshì	two attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two attendants either side of a Buddha or bodhisattva (FGDB '脇士')	8003971
+8003972	二挟侍	二挾侍	èr xiéshì	two attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two attendants either side of a Buddha or bodhisattva (FGDB '脇士')	8003972
+8003973	阿鞞拔致	\N	ābībázhì	avaivartika; non-retrogression	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿惟越致 (Tzu Chuang 2012)	8003973
+8003974	阿惟越致	\N	āwéiyuèzhì	avaivartika; non-retrogression	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaivartika; especially applying to a bodhisattva who will not regress on the path to Buddhahood. From the Sanskrit word avaivartika, which means non-returning (BL 'avaivartika'; FGDB '阿惟越致'; BCSD '阿惟越致'; MW 'avaivartika')	8003974
+8003975	无间地狱	無間地獄	wú jiān dìyù	Avici Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿鼻地獄 (Tzu Chuang 2012; FGDB '無間地獄')	8003975
+8003976	阿鼻地狱	阿鼻地獄	ābí dìyù	Avīci Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avīci, Pali: avīci, Japanese: abijigoku, Tibetan: mnar med; the lowest level of nāraka 地獄 'hell', characterized by five kinds of uninterupted torment (BL 'avīci', p. 86; FGDB '阿鼻地獄')	8003976
+8003977	阿鼻旨	\N	ābízhǐ	Avici Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿鼻地獄 (FGDB '阿鼻地獄')	8003977
+8003978	欢喜地	歡喜地	huānxǐ dì	the ground of joy	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramuditābhūmi; the first of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003978
+8003979	离垢地	離垢地	lí gòu dì	the ground of freedom from defilement	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalābhūmi, Japanese: rikuji, Tibetan: dri ma med pa; the second of the ten grounds of bodhisattva development into a Buddha 十地 (BL 'vimalā', p. 971; Tzu Chuang 2012, p. 31)	8003979
+8003980	发光地	發光地	fāguāng dì	the ground of radiance	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhākarībhūmi; the third of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003980
+8003981	燄慧地	\N	yàn huì dì	the ground of brilliant wisdom	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arcismatībhūmi; the forth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003981
+8003982	难胜地	難勝地	nán shèng dì	the ground of mastery of final difficulties	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sudurjayābhūmi; the fifth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003982
+8003983	共有法	\N	gòngyǒu fǎ	common assumption; agreed upon assumption	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Buddhist logic, an agreed upon assumption that is shared between both parties in a debate (FGDB '共有法')	8003983
+8003984	现前地	現前地	xiàn qián dì	the ground of manifesting prajna-wisdom	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukhībhūmi; the sixth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003984
+8003985	远行地	遠行地	yuǎn xíng dì	the ground of proceeding afar	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūrajgamābhūmi; the seventh of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003985
+8003986	不动地	不動地	bùdòng dì	the ground of attaining calm	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: acalābhūmi; the eighth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003986
+8003987	善慧地	\N	shàn huì dì	the ground of finest discriminatory wisdom	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhumatībhūmi; the ninth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003987
+8003988	法云地	法雲地	fǎ yún dì	Ground of the Dharma Cloud	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  dharmameghābhūmi; the tenth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, p. 34; Red Pine 2012, loc. 5667, pp. 31-34)	8003988
+8003989	八相成道	\N	bā xiāng chéng dào	eight episodes in completing the path; eight stages of Buddha’s progress	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Descent from Tusita Heaven 降兜率; 2. entry into the womb 入胎; 3. birth 诞生; 4. leaving home 出家; 5. subduing Mara 降魔; 6. awakening 成道; 7. turning the Dharma wheel 转发论; 8. final nirvana 涅磐.; FGS translation standard: Eight Stages of Buddha’s Progress (BL 'baxiang'; Ding '八相成道'; FGDB '八相'; SH '八相成道', p. 38; Tzu Chuang 2012)	8003989
+8003990	难胜	難勝	nán shèng	very difficult to overcome	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '難勝')	8003990
+8003991	现前	現前	xiàn qián	to manifest in the present; to present before the eyes	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyakṣa (FGDB '現前'; MW 'pratyakṣa')	8003991
+8003992	降兜率	\N	jiàng dōushuài	descent from Tusita [Heaven]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the Buddha's descent from Tusita Heaven (Tzu Chuang 2012)	8003992
+8003993	五家七派	\N	wǔ jiā qī pài	five houses and seven schools; Chan schools of Buddhism	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	1. Linji School 临济宗, 2. Weiyang or Guiyang School 沩仰宗, 3. Caodong School 曹洞宗, 4. Yunmen School 云门宗, 5. Fayan School 法眼宗, 6 Yangqi School 杨岐派, 7.) Huanglong School 黄龙派 (Tzu Chuang 2012, pp. 38-43)	8003993
+8003994	五家	\N	wǔ jiā	five houses; Five schools of Chan Buddhism	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	1. Linji School 临济宗, 2, Weiyang or Guiyang School 沩仰宗, 3. Caodong School 曹洞宗, 4. Yunmen School 云门宗, 5. Fayan School 法眼宗 (FGDB '五家'; Tzu Chuang 2012)	8003994
+8003995	临济	臨濟	línjì	Linji School	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	Japanese: Rinzai; see 臨濟宗 (FGDB '臨濟宗')	8003995
+8003996	临济宗	臨濟宗	línjì zōng	Linji School; Linji zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	Japanese: Rinzaishū; Linji School of Chan Buddhism, founded by 臨濟義玄 Linji Yixuan (BL 'Linji zong', p. 476; Tzu Chuang 2012; FGDB '臨濟宗')	8003996
+8003997	二十五有	\N	èrshíwǔ yǒu	twenty-five forms of existence	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Existence in hell eralms 地獄有, animal realms 畜生有, hungry ghost 餓鬼有, etc (FGDB '二十五有'; Ichishima and Chappell 2013, p. 172; SH '二十五有', p. 22)	8003997
+8003998	四禅定	四禪定	sì chándìng	four dhyānas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四禪 (FGDB '四禪')	8003998
+8003999	四恶道	四惡道	sì è dào	four evil destinies	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BL 'apāya', p. 57; FGDB '四惡道'; SH '四惡趣', p. 175)	8003999
+8004000	法眼	\N	fǎyǎn	dharma eye; dharmacaksus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmacakṣus, Pali: dhammacakkhu, Japanese: hagen, Tibetan: chos kyi mig; possessed by bodhisattvas, can adapt to different circumstances to liberate sentient beings; one of the 五眼 'five eyes' (BL 'dharmacakṣus', pp. 243-244; Ding '法眼'; FGDB '法眼'; Karashima 2001 '法眼'; SH '法眼')	8004000
