@@ -268,7 +268,7 @@ taisho/t0256.csv	taisho/t0256.html	Chinese-Sanskrit Phonetic Comparison for the 
 taisho/t0257.csv	taisho/t0257.html	Foshuo Sheng Fomu Boreluomiduo Jing 佛說聖佛母般若波羅蜜多經	Translated by Dānapāla in the Song	taisho/t0257_00.txt	Taishō	Sūtra	960-1279	prajñāpāramitā
 taisho/t0258.csv	taisho/t0258.html	Foshuo Sheng Fomu Xiao Zi Boreluomiduo Jing 佛說聖佛母般若波羅蜜多經	Translated by Tian Xi Zai in the Song	taisho/t0258_00.txt	Taishō	Sūtra	960-1279	prajñāpāramitā
 taisho/t0259.csv	taisho/t0259.html	Foshuo Guanxiang Fomu Boreluomiduo Jing 佛說觀想佛母般若波羅蜜多菩薩經	Translated by Tian Xi Zai in the Song	taisho/t0259_00.txt	Taishō	Sūtra	960-1279	prajñāpāramitā
-taisho/t0260.csv	taisho/t0260.html	Foshuo Kai Jue Zixing  Boreluomiduo Jing 佛說開覺自性般若波羅蜜多經	Translated by Wei Jing in the Song	taisho/t0260_00.txt	Taishō	Sūtra	1032	prajñāpāramitā
+taisho/t0260.csv	taisho/t0260.html	Pancasatika Prajnaparamita Sutra (Foshuo Kai Jue Zixing Boreluomiduo Jing) 佛說開覺自性般若波羅蜜多經	Translated by Wei Jing in the Song	taisho/t0260_00.txt	Taishō	Sūtra	1032	prajñāpāramitā
 taisho/t0261.csv	taisho/t0261.html	The Sūtra on the Mahāyāna Practice of the Six Perfections 大乘理趣六波羅蜜多經	Translated by Prajña	taisho/t0261_00.txt	Taishō	Sūtra	788	prajñāpāramitā
 taisho/t0262.csv	taisho/t0262.html	The Lotus Sutra (Miaofa Lianhua Jing) 妙法蓮華經	Translated by Kumārajīva	taisho/t0262_00.txt	Taishō	Sūtra	406	lotus
 taisho/t0263.csv	taisho/t0263.html	The Lotus Sutra (Zheng Fa Hua Jing) 正法華經	Translated by Dharmarakṣa	taisho/t0263_00.txt	Taishō	Sūtra	286	lotus
@@ -941,18 +941,18 @@ taisho/t0912.csv	taisho/t0912.html	Creating a Mandala for a Homa Ritual (Jianli 
 taisho/t0913.csv	taisho/t0913.html	Fire Hūṃ Ritual (Huo He Niu Gongyang Yi Gui) 火合牛供養儀軌	By an unknown translator 	taisho/t0913_00.txt	Taishō	Sūtra		esoteric
 taisho/t0914.csv	taisho/t0914.html	Fire Hūṃ Ritual Summary (Huo Hong Gui Bie Lu) 火吽軌別錄		taisho/t0914_00.txt	Taishō	Sūtra		esoteric
 taisho/t0915.csv	taisho/t0915.html	Bodhicitta Precept Ceremony (Shou Putixin Jie Yi) 受菩提心戒儀	Translated by Amoghavajra	taisho/t0915_00.txt	Taishō	Sūtra	720-774	esoteric
-taisho/t0916.csv	taisho/t0916.html	Shou Wu Jie Ba Jie Wen (Text for Taking the Five Precepts and Eight Precepts) 受五戒八戒文		taisho/t0916_00.txt	Taishō	Sūtra		esoteric
+taisho/t0916.csv	taisho/t0916.html	Text for Taking the Five Precepts and Eight Precepts (Shou Wu Jie Ba Jie Wen) 受五戒八戒文		taisho/t0916_00.txt	Taishō	Sūtra		esoteric
 taisho/t0917.csv	taisho/t0917.html	Śubhakarasiṃha’s Essentials of Meditation (Wuwei San Zang Chan Yao) 無畏三藏禪要	Spoken by Śubhakarasiṃha	taisho/t0917_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t0918.csv	taisho/t0918.html	Buddha Hṛdaya Dhāraṇī (Zhu Fo Xin Tuoluoni Jing) 諸佛心陀羅尼經	Translated by Xuanzang	taisho/t0918_00.txt	Taishō	Sūtra	650	esoteric
 taisho/t0919.csv	taisho/t0919.html	Scripture of the Mind Seal Dharanis of the Buddhas (Zhu Fo Xin Yin Tuoluoni Jing) 諸佛心印陀羅尼經	Translated by Fa Tian	taisho/t0919_00.txt	Taishō	Sūtra	973-988	esoteric
 taisho/t0920.csv	taisho/t0920.html	Buddha Mind Sutra (Fo Xin Jing) 佛心經	Translated by Bodhiruci	taisho/t0920_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t0921.csv	taisho/t0921.html	Aksobhya Buddha Chanting and Offering Ritual (Achu Rulai Niansong Gongyang Fa) 阿閦如來念誦供養法	Translated by Amoghavajra	taisho/t0921_00.txt	Taishō	Sūtra	746-774	esoteric
-taisho/t0922.csv	taisho/t0922.html	Yaoshi Liuli Guang Rulai Xiao Zai Chu Nan Niansong Yi Gui (Liturgy for the Medicine Buddha of Pure Crystal Radiance Avoiding Calamities and Difficulties) 藥師琉璃光如來消災除難念誦儀軌	Composed by Yi Xing	taisho/t0922_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t0922.csv	taisho/t0922.html	Liturgy for the Medicine Buddha of Pure Crystal Radiance Avoiding Calamities and Difficulties (Yaoshi Liuli Guang Rulai Xiao Zai Chu Nan Niansong Yi Gui) 藥師琉璃光如來消災除難念誦儀軌	Composed by Yi Xing	taisho/t0922_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t0923.csv	taisho/t0923.html	Medicine Buddha Contemplation Ritual Manual (Yaoshi Rulai Guan Xing Yi Gui Fa) 藥師如來觀行儀軌法	Translated by Vajrabodhi	taisho/t0923_00.txt	Taishō	Sūtra	618-907	esoteric
-taisho/t0924A.csv	taisho/t0924A.html	Yaoshi Rulai Niansong Yi Gui (Medicine Buddha Liturgy) 藥師如來念誦儀軌	Translated by Amoghavajra	taisho/t0924A_00.txt	Taishō	Sūtra	618-907	esoteric
-taisho/t0924B.csv	taisho/t0924B.html	Yaoshi Rulai Niansong Yi Gui (Medicine Buddha Liturgy) 藥師如來念誦儀軌	Translated by Amoghavajra	taisho/t0924B_00.txt	Taishō	Sūtra	618-907	esoteric
-taisho/t0924C.csv	taisho/t0924C.html	Yaoshi Yi Gui Yi Ju 藥師儀軌一具		taisho/t0924C_00.txt	Taishō	Sūtra		esoteric
-taisho/t0925.csv	taisho/t0925.html	Yaoshi Liuli Guang Wang Qi Fo Benyuan Gongde Jing Niansong Yi Gui (Medicine Buddha, King of Lapis Lazuli Light and Merits of the Seven Buddhas Sutra and Liturgy) 藥師琉璃光王七佛本願功德經念誦儀軌	Translated by Shaluoba	taisho/t0925_00.txt	Taishō	Sūtra	1279-1368	esoteric
+taisho/t0924A.csv	taisho/t0924A.html	Medicine Buddha Liturgy (Yaoshi Rulai Niansong Yi Gui) 藥師如來念誦儀軌	Translated by Amoghavajra	taisho/t0924A_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t0924B.csv	taisho/t0924B.html	Medicine Buddha Liturgy (Yaoshi Rulai Niansong Yi Gui) 藥師如來念誦儀軌	Translated by Amoghavajra	taisho/t0924B_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t0924C.csv	taisho/t0924C.html	Medicine Buddha Ritual in Full (Yaoshi Yi Gui Yi Ju) 藥師儀軌一具		taisho/t0924C_00.txt	Taishō	Sūtra		esoteric
+taisho/t0925.csv	taisho/t0925.html	Medicine Buddha, King of Lapis Lazuli Light and Merits of the Seven Buddhas Sutra and Liturgy (Yaoshi Liuli Guang Wang Qi Fo Benyuan Gongde Jing Niansong Yi Gui) 藥師琉璃光王七佛本願功德經念誦儀軌	Translated by Shaluoba	taisho/t0925_00.txt	Taishō	Sūtra	1279-1368	esoteric
 taisho/t0926.csv	taisho/t0926.html	Yaoshi Liuli Guang Wang Qi Fo Benyuan Gongde Jing Niansong Yi Gui Gongyang Fa (Medicine Buddha, King of Lapis Lazuli Light and Merits of the Seven Buddhas Sutra and Liturgy for Offering Ritual) 藥師琉璃光王七佛本願功德經念誦儀軌供養法	Translated by Shaluoba	taisho/t0926_00.txt	Taishō	Sūtra	1279-1368	esoteric
 taisho/t0927.csv	taisho/t0927.html	Yaoshi Qi Fo Gongyang Yi Gui Ruyi Wang Jing (Medicine Buddha and Seven Buddhas Liturgy and Sutra) 藥師七佛供養儀軌如意王經	Translated by Gongbuchabu	taisho/t0927_00.txt	Taishō	Sūtra	1644-1911	esoteric
 taisho/t0928.csv	taisho/t0928.html	Xiu Yaoshi Yi Gui Bu Tan Fa 修藥師儀軌布壇法	Translated by Awangzhashenbu	taisho/t0928_00.txt	Taishō	Sūtra	1644-1911	esoteric
