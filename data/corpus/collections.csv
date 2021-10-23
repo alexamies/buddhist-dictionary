@@ -955,11 +955,11 @@ taisho/t0924C.csv	taisho/t0924C.html	Medicine Buddha Ritual in Full (Yaoshi Yi G
 taisho/t0925.csv	taisho/t0925.html	Medicine Buddha, King of Lapis Lazuli Light and Merits of the Seven Buddhas Sutra and Liturgy (Yaoshi Liuli Guang Wang Qi Fo Benyuan Gongde Jing Niansong Yi Gui) 藥師琉璃光王七佛本願功德經念誦儀軌	Translated by Shaluoba	taisho/t0925_00.txt	Taishō	Sūtra	1279-1368	esoteric
 taisho/t0926.csv	taisho/t0926.html	Yaoshi Liuli Guang Wang Qi Fo Benyuan Gongde Jing Niansong Yi Gui Gongyang Fa (Medicine Buddha, King of Lapis Lazuli Light and Merits of the Seven Buddhas Sutra and Liturgy for Offering Ritual) 藥師琉璃光王七佛本願功德經念誦儀軌供養法	Translated by Shaluoba	taisho/t0926_00.txt	Taishō	Sūtra	1279-1368	esoteric
 taisho/t0927.csv	taisho/t0927.html	Yaoshi Qi Fo Gongyang Yi Gui Ruyi Wang Jing (Medicine Buddha and Seven Buddhas Liturgy and Sutra) 藥師七佛供養儀軌如意王經	Translated by Gongbuchabu	taisho/t0927_00.txt	Taishō	Sūtra	1644-1911	esoteric
-taisho/t0928.csv	taisho/t0928.html	Xiu Yaoshi Yi Gui Bu Tan Fa 修藥師儀軌布壇法	Translated by Awangzhashenbu	taisho/t0928_00.txt	Taishō	Sūtra	1644-1911	esoteric
-taisho/t0929.csv	taisho/t0929.html	Jing Liuli Jing Tu Biao 淨瑠璃淨土摽		taisho/t0929_00.txt	Taishō	Sūtra		esoteric
-taisho/t0930.csv	taisho/t0930.html	Wuliang Shou Rulai Guan Xing Gongyang Yi Gui (Amitayus Tathagata Liturgy) 無量壽如來觀行供養儀軌	Translated by Amoghavajra	taisho/t0930_00.txt	Taishō	Sūtra	746-774	esoteric
-taisho/t0931.csv	taisho/t0931.html	Jingang Ding Jing Guanzizai Wang Rulai Xiuxing Fa 金剛頂經觀自在王如來修行法	Translated by Amoghavajra	taisho/t0931_00.txt	Taishō	Sūtra	746-774	esoteric
-taisho/t0932.csv	taisho/t0932.html	Jingang Ding Jing Yujia Guanzizai Wang Rulai Xiuxing Fa 金剛頂經瑜伽觀自在王如來修行法	Translated by Vajrabodhi	taisho/t0932_00.txt	Taishō	Sūtra	618-907	esoteric
+taisho/t0928.csv	taisho/t0928.html	Xiu Medicine Buddha Mandala Ritual (Yaoshi Yi Gui Bu Tan Fa) 修藥師儀軌布壇法	Translated by Awangzhashenbu	taisho/t0928_00.txt	Taishō	Sūtra	1644-1911	esoteric
+taisho/t0929.csv	taisho/t0929.html	Lapis lazuli Pure Land Signs (Jing Liuli Jing Tu Biao) 淨瑠璃淨土摽		taisho/t0929_00.txt	Taishō	Sūtra		esoteric
+taisho/t0930.csv	taisho/t0930.html	Rites for Contemplation of and Offerings to Amitāyus Tathāgata (Wuliang Shou Rulai Guan Xing Gongyang Yi Gui) 無量壽如來觀行供養儀軌	Translated by Amoghavajra	taisho/t0930_00.txt	Taishō	Sūtra	746-774	esoteric
+taisho/t0931.csv	taisho/t0931.html	Vajra Pinnacle Sutra Lokesvararaja Tathagata Practice Ritual (Jingang Ding Jing Guanzizai Wang Rulai Xiuxing Fa) 金剛頂經觀自在王如來修行法	Translated by Amoghavajra	taisho/t0931_00.txt	Taishō	Sūtra	746-774	esoteric
+taisho/t0932.csv	taisho/t0932.html	Vajra Pinnacle Sutra Yoga Lokesvararaja Tathagata Practice Ritual (Jingang Ding Jing Yujia Guanzizai Wang Rulai Xiuxing Fa) 金剛頂經瑜伽觀自在王如來修行法	Translated by Vajrabodhi	taisho/t0932_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t0933.csv	taisho/t0933.html	Jiu Pin Wang Sheng Amituo Sanmodi Ji Tuoluoni Jing (Nine Grades of Rebirth Amitabha Samadhi Assembly Dharani Sutra) 九品往生阿彌陀三摩地集陀羅尼經	Translated by Amoghavajra	taisho/t0933_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t0934.csv	taisho/t0934.html	Aparimitaguṇānuśaṁsādhāraṇī (Fo Shuo Wuliang Gongde Tuoluoni Jing) 佛說無量功德陀羅尼經	Translated by Faxian	taisho/t0934_00.txt	Taishō	Sūtra	989-999	esoteric
 taisho/t0935.csv	taisho/t0935.html	Jile Yuan Wen (Text for the Vow of Ultimate Bliss) 極樂願文	Translated by Dalamagabu Chusamudandaerji	taisho/t0935_00.txt	Taishō	Sūtra	1644-1911	esoteric
@@ -1335,7 +1335,7 @@ taisho/t1273.csv	taisho/t1273.html	Pi Na Ye Jia E Na Bo Di Yujia Xi Di Pin Mi Ya
 taisho/t1274.csv	taisho/t1274.html	Nandikesvara and Vinayaka Images Ritual (Da Sheng Huanxi Shuang Shen Pi Na Ye Jia Tian Xingxiang Pin Yi Gui) 大聖歡喜雙身毘那夜迦天形像品儀軌	Composed by Jing Se	taisho/t1274_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t1275.csv	taisho/t1275.html	Nandikesvara Ritual (Sheng Huanxi Tian Shi Fa) 聖歡喜天式法	Composed by 般若惹羯羅	taisho/t1275_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t1276.csv	taisho/t1276.html	Garuḍapaṭalaparivarta (Wenshushili Genben Da Jiao Wang Jing Jin Chi Niao Wang Pin) 文殊師利菩薩根本大教王經金翅鳥王品	Translated by Amoghavajra	taisho/t1276_00.txt	Taishō	Sūtra	746-774	esoteric
-taisho/t1277.csv	taisho/t1277.html	Su Ji Li Yan Mo Xi Shou Luo Tian Shuo A Wei She Fa 速疾立驗魔醯首羅天說阿尾奢法	Translated by Amoghavajra	taisho/t1277_00.txt	Taishō	Sūtra	720-774	esoteric
+taisho/t1277.csv	taisho/t1277.html	The Āveśa Rite Explained by the God Maheśvara Which Swiftly Establishes Its Efficacy (Su Ji Li Yan Mo Xi Shou Luo Tian Shuo A Wei She Fa) 速疾立驗魔醯首羅天說阿尾奢法	Translated by Amoghavajra	taisho/t1277_00.txt	Taishō	Sūtra	720-774	esoteric
 taisho/t1278.csv	taisho/t1278.html	Garuda and Deva Mantra Sutra (Jialouluo Ji Zhutian Miyan Jing) 迦樓羅及諸天密言經	Translated by Bore Li	taisho/t1278_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t1279.csv	taisho/t1279.html	Moxishouluo Tian Fa Yao 摩醯首羅天法要		taisho/t1279_00.txt	Taishō	Sūtra		esoteric
 taisho/t1280.csv	taisho/t1280.html	Moxishouluo Dazizaitian Wang Shentong Huasheng Ji Yi Tiannu Niansong Fa 摩醯首羅大自在天王神通化生伎藝天女念誦法		taisho/t1280_00.txt	Taishō	Sūtra		esoteric
