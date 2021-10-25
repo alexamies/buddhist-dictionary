@@ -505,7 +505,7 @@
 8000505	忏悔	懺悔	chànhuǐ	repentance; pāpadeśanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāpadeśanā, Pali: pāpadesanā, Japanese: sange, Tibetan: sdig pa bshags pa (BL 'pāpadeśanā', p. 621; FGDB '懺悔'; Guoyu '懺悔' 2; SH '懺悔', p. 478)	8000505
 8000506	塔刹	塔剎	tǎchà	spire; pagoda finial; finial	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ornamented pointed top which crowns a pagoda (Wikipedia '塔刹')	8000506
 8000507	朝圣参道	朝聖參道	cháoshèng cāndào	a processional way	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '神道 (道路)')	8000507
-8000508	结缘	結緣	jiéyuán	to form affinities	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '結緣'; SH '結緣', p. 386)	8000508
+8000508	结缘	結緣	jiéyuán	to form affinities; karmic affinity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '結緣'; Pinte 2014, p. 4; SH '結緣', p. 386)	8000508
 8000509	化缘	化緣	huàyuán	the reason of a Buddha's or bodhisattva's coming to the world to teach	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '化緣'; SH '化緣', p. 142)	8000509
 8000510	浮生	\N	fú shēng	the world of the living; the impermanent world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 浮世 (FGDB '浮世')	8000510
 8000511	阿毘达摩	阿毘達摩	Āpídámó	Abhidharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma; see 阿毘曇 (BL 'abhidharma', p. 4; SH '十二部經', p. 44; FGDB '阿毘曇')	8000511
@@ -2174,7 +2174,7 @@
 8002174	择地	擇地	zé dì	to select a ritual site	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	To select a location for a mandala or to build a temple in esoteric Buddhism (FGDB '擇地'; SH '擇地', p. 447)	8002174
 8002175	菩提心戒	\N	pútíxīn jiè	bodhicitta precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '住無為戒'; SH '三世無障礙智戒', p. 58)	8002175
 8002176	三世无障智戒	三世無障智戒	sān shì wú zhàng zhì jiè	precepts of unimpeded wisdom within the three realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三昧耶戒  (FGDB '三昧耶戒'; SH '三世無障礙智戒', p. 58)	8002176
-8002177	三昧耶戒	\N	sānmèiyéjiè	samaya; esoteric precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samaya; precepts observed in esoteric Buddhist practice (BL 'samaya', pp. 747-748; FGDB '三昧耶戒'; SH '三昧耶戒', p. 67)	8002177
+8002177	三昧耶戒	\N	sānmèiyéjiè	samaya; esoteric precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samaya, Japanese: sanmaiya-kai; precepts observed in esoteric Buddhist practice (BL 'samaya', pp. 747-748; FGDB '三昧耶戒'; Pinte 2014, p. 4; SH '三昧耶戒', p. 67)	8002177
 8002178	三摩耶戒	\N	sānmóyéjiè	samaya; esoteric precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samaya; see 三昧耶戒 (FGDB '三昧耶戒')	8002178
 8002179	秘密三昧耶戒	祕密三昧耶戒	mìmì sānmèiyéjiè	esoteric precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三昧耶戒 (FGDB '三昧耶戒')	8002179
 8002180	佛性三昧耶戒	\N	fó xìng sānmèiyé jiè	Buddha nature precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三昧耶戒 (FGDB '三昧耶戒')	8002180
@@ -4234,3 +4234,5 @@
 8004234	一字顶轮王呪	一字頂輪王呪	yī zì dǐng lún wáng zhòu	One Syllable Pinancle Wheel Turning Ruler Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一字頂輪王咒 (T 951)	8004234
 8004235	汾阳晚参	汾陽晚參	fényáng wǎncān	Fenyang style evening assembly	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '汾陽晚參')	8004235
 8004236	堆压	堆壓	duīyā	Samghata Hell	proper noun	地狱	Hell	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghāta;literally 'to pile and press'; one of the Eighteen Hells (FGDB '堆壓地獄'; Kieschnick 2017, vol. 2, p. 5)	8004236
+8004237	结縁	結縁	jiéyuán	karmic affinity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese writing of 結緣 (Pinte 2014, p. 4)	8004237
+8004238	门经	門經	mén jīng	funeral service recited at the door of a house	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '門經'; SH '門經', p. 284)	8004238
