@@ -2124,7 +2124,7 @@
 8002124	僧脚崎	僧腳崎	sēngjiǎoqí	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002124
 8002125	僧脚差	僧腳差	sēngjiǎochà	sankaksika; a five-stripped robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅkakṣikā; see 僧祇支 (FGDB '僧祇支')	8002125
 8002126	密集金刚	密集金剛	mìjí jīngāng	Guhyasamaja; Guhyasamaja vajra	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: guhyasamāja; see 不動金剛祕密佛 (FGS Encyclopedia of Buddhist Arts; Wikipedia '密集金刚')	8002126
-8002127	明王	\N	Míng wáng	Vidyaraja; Wisdom King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyarāja; A kind of deity after Buddhas and bodhisattvas (Ding '明王'; FGDB '明王'; SH '明王', p. 263)	8002127
+8002127	明王	\N	míng wáng	vidyaraja; lord of spells; wisdom king	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyārāja, Japanese: myō-ō; a kind of deity after Buddhas and bodhisattvas (Ding '明王'; DJBT 'myōō', p. 220; FGDB '明王'; JEBD 'myō-ō', p. 231; MW 'vidyārāja'; SH '明王', p. 263)	8002127
 8002128	密集柔金刚	密集柔金剛	mìjí róu jīngāng	Gentle Guhyasamaja; Red Guhyasamaja	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Guhyasamaja has three heads or appearances; the left one, which is 密集柔金剛, is red; see 不動金剛祕密佛 (Bunce and Capdi 1994, p. 191; Chandra and Bunce 2002, pp. 72-73; FGS Encyclopedia of Buddhist Arts)	8002128
 8002129	密集不动金刚	密集不動金剛	mìjí bùdòng jīngāng	Unmovable Guhyasamaja	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Guhyasamaja has three heads or appearances; the right one, which is 密集不動金剛, is blue; see 不動金剛祕密佛 (Bunce and Capdi 1994, p. 191; Chandra and Bunce 2002, pp. 72-73; FGS Encyclopedia of Buddhist Arts)	8002129
 8002130	僧俗	\N	sēng sú	monastics and laypeople	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 出家 'monastics' and 在家 'laypeople' (Ding '僧俗'; SH '僧俗', p. 420)	8002130
@@ -4315,3 +4315,14 @@
 8004315	僧祇	\N	sēngzhǐ	asamkhyeya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃkhyeya; see 阿僧祇 (FGDB '阿僧祇')	8004315
 8004316	三大阿僧祇劫	\N	sān dà āsēngzhǐ jié	The Three Asankhyeya Kalpas; The Three Kalpas; The Three Asankya-Kalpas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The time that it takes for a bodhisattva to become a Buddha; from the Sanskrit number asaṃkhyeya (Tzu Chuang 2012, p. 145-148)	8004316
 8004317	巴臂	\N	bā bì	to pull an ox by its nose	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 巴鼻 (FGDB '巴鼻')	8004317
+8004318	明王	\N	míng wáng	vidyaraja; great mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyārāja; a kind of mantra (FGDB '明王')	8002127
+8004319	大明	\N	dàmíng	mantra; vidya	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sanskrit equivalent: vidyā (BCSD '明王', p. 322)	8004319
+8004320	能灭众罪千转陀罗尼咒	能滅眾罪千轉陀羅尼咒	néng miè zhòng zuì qiān zhuǎn tuóluóní zhòu	Able to Eliminate Many Sins Thousand Revolutions Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mantra contained in 呪五首 Five Mantras (FGDB '咒五首經'; T 1034)	8004320
+8004321	六字咒	\N	liù zì zhòu	Mantra of Six Syllables	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六字大明咒 (FGDB '六字大明咒')	8004321
+8004322	七俱胝佛咒	\N	qī jūzhī fó zhòu	Buddha of Seven Kotis Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mantra contained in 呪五首 Five Mantras (FGDB '咒五首經'; T 1034)	8004322
+8004323	一切如来随心咒	一切如來隨心咒	yīqiè rúlái suíxīn zhòu	All the Tathagatas Fulfill Wishes Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mantra contained in 呪五首 Five Mantras (FGDB '咒五首經'; T 1034)	8004323
+8004324	观自在菩萨随心咒	觀自在菩薩隨心咒	guānzìzài púsà suíxīn zhòu	Avalokitesvara bodhisattva Fulfill Wishes Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mantra contained in 呪五首 Five Mantras (FGDB '咒五首經'; T 1034)	8004324
+8004325	阿唎多罗	阿唎多羅	ālì duōluó	Arya-Tara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āryatārā (SH '阿唎多羅', p. 286)	8004325
+8004326	阿唎耶多罗	阿唎耶多羅	ālìyé duōluó	Arya-Tara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āryatārā; see 阿唎多羅 (SH '阿唎多羅', p. 286)	8004326
+8004327	阿噜力	阿嚕力	ālūlì	alolik	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '阿嚕力', p. 1209)	8004327
+8004328	阿噜力迦	阿嚕力迦	ālūlìjiā	alolik	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '阿嚕力迦', p. 1209)	8004328
