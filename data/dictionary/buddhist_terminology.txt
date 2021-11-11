@@ -4065,8 +4065,8 @@
 8004065	四加行	\N	sìjiāxíng	four prayoga; four applications of training	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 四善根 (BL 'prayoga', pp. 675-676; DDB '四加行'; SH '四加行', p. 171)	8004065
 8004066	欲界六天	\N	yùjiè liù tiān	Six Heavens of the Desire Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Caturmaharajika Heaven 四天王天; 四王天, 2. Trayastrimsa Heaven 忉利天, 3. Yama Heaven 夜摩天, 4. Tusita Heaven 兜率天, 5. Nirmanarati Heaven 化乐天, 6. Paranirmita-Vasavartin Heaven 他化自在天 (Tzu Chuang 2012, pp. 112-116)	8004066
 8004067	性	\N	xìng	nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svabhāva,Japanese: shō (BCSD '性', p. 475; DJBT 'shō', p. 311; MW 'svabhāva'; SH '性', p. 258)	8004067
-8004068	陀罗尼经	陀羅尼經	tuóluóní jīng	dharani sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Copp 2011, p. 176)	8004068
-8004069	总持经	總持經	zǒngchíjīng	dharani sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Copp 2011, p. 176)	8004069
+8004068	陀罗尼经	陀羅尼經	tuóluóní jīng	dharani sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A form of esoteric text that gives a dhāraṇī and explains its importance and context (Copp 2011, p. 176)	8004068
+8004069	总持经	總持經	zǒngchíjīng	dharani sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 陀羅尼經 (Copp 2011, p. 176)	8004069
 8004070	大金孔雀王	\N	dà jīn kǒngquè wáng	Great Peacock King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a dharani (Copp 2011, p. 177)	8004070
 8004071	随求	隨求	suíqiú	wish-fulfillment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Genre of dharani (Copp 2011, p. 177)	8004071
 8004072	四天王天	\N	sì tiānwáng tiān	Caturmaharajika Heaven; Heaven of the Four Kings	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	The first of the Six Heavens of the Desire Realm (Tzu Chuang 2012, pp. 112-116)	8004072
@@ -4360,3 +4360,18 @@
 8004360	贺野纥哩缚	賀野紇哩縛	hèyěgēlǐfú	Hayagriva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hayagrīva; see 馬頭觀音 (van Gulik 1935, p. 85; T 1072A, Scroll 1, 20.0155b15)	8004360
 8004361	三劫	\N	sān jié	the three Asankhyeya kalpas; the three Kalpas; the three Asankya-kalpas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三阿僧祇劫 (FGDB '三阿僧祇劫')	8004361
 8004362	三世因果	\N	sān shì yīn guǒ	Karma of the Three Time Periods	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Past lives, present life, and future lives; FGS translation standard: Karma of the Three Time Periods (Tzu Chuang 2012)	8004362
+8004363	贺耶揭哩婆	賀耶揭哩婆	hèyéjiēlǐpó	Hayagriva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hayagrīva; see 馬頭觀音 (FGDB '何耶揭唎婆像法')	8004363
+8004364	马首	馬首	mǎ shǒu	horse head	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hayagrīva (BCSD '馬首', p. 1281; FGDB '何耶揭唎婆像法')	8004364
+8004365	马首	馬首	mǎ shǒu	Hayagriva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 馬頭觀音 (BCSD '馬首', p. 1281; FGDB '何耶揭唎婆像法')	8004364
+8004366	马王	馬王	mǎwáng	king of horses; asvaraja	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aśvarāja, or: hayarāja (BCSD '馬王', p. 1281; MW 'aśvarāja')	8004366
+8004367	身业	身業	shēn yè	physical karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yi4.mp3	One of the Three Types of Karma 三業 (Tzu Chuang 2012, pp. 150-152)	8004367
+8004368	马车	馬車	mǎchē	chariot; ratha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratha (BCSD '馬車', p. 1281; MW 'ratha')	8004368
+8004369	元音	\N	yuányīn	Yuanyin	proper noun	\N	\N	文学	Literature	中国	China	\N	\N	Title of a book by Ming dynasty writer 孫原理 Sun Yuanli (Guoyu '元音' 2)	8004369
+8004370	口业	口業	kǒu yè	verbal karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Three Types of Karma 三業 (Ding '口業'; FGDB '口業'; SH '口業'; Tzu Chuang 2012, pp. 150-152)	8004370
+8004371	意业	意業	yì yè	mental karma; actions; deeds	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Three Types of Karma 三業 (Ding '意業'; Tzu Chuang 2012, pp. 150-152; FGDB '意業'; SH '意業', p. 400)	8004371
+8004372	出坡	\N	chūpō	labor; communal labor; labor practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普請 (FGDB '普請'; FoguangPedia)	8004372
+8004373	普请	普請	pǔqǐng	communal labor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a temple (FGDB '普請')	8004373
+8004374	普坡劳作	普坡普請	pǔpō láozuò	communal labor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a temple (HB Glossary)	8004374
+8004375	咒经	咒經	zhòu jīng	mantra-sutra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 陀羅尼經 (Copp 2011, p. 176)	8004375
+8004376	龙华三会	龍華三會	lóng huà sān huì	Maitreya Bodhisattva; the three dragon-flower assemblies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refering to Maitreya attaining enlightenment under a dragon-flower tree and teaching in three assemblies (Tzu Chuang 2012)	8004376
+8004377	龙华会	龍華會	lóng huà huì	the three dragon-flow assemblies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refering to Maitreya attaining enlightenment under a dragon-flower tree and teaching in three assemblies (Tzu Chuang 2012)	8004377
