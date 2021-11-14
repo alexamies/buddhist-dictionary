@@ -110,7 +110,7 @@
 8000110	挂钵	掛鉢	guàbō	to stay at a temple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛搭')	8000110
 8000111	断苦法	斷苦法	duàn kǔ fǎ	methods to end affliction	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '斷苦法'; FGDB '斷苦法'; Murano, Senchu (tr.) &amp; Warner, Shinkyo ed. 2013, “The Lotus Sutra: The Sutra of the Lotus Flower of the Wonderful Dharma”, loc. 1543)	8000111
 8000112	般若波罗蜜多	般若波羅蜜多	bōrěbōluómìduō	prajnaparamita; prajñāpāramitā; perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī, Japanese: hannya haramitta, Tibetan: shes rab kyi pha rol tu phyin pa; Prajñāpāramitā is a widely used term in Mahāyāna Buddhism and occasionally used in Theravada, referring to the wisdom required to achieve enlightenment. Prajñāpāramitā may also refer to the understanding of emptiness 空. Prajñāpāramitā is the sixth of the six pāramitās 六度. It is also a genre of Mahāyāna literature, which includes the Aṣṭasāhasrikāprajñāpāramitāsūtra 小品般若波羅蜜經, Diamond Sūtra 金剛般若波羅蜜經, and Heart Sūtra 般若波羅蜜多心經 (BL 'prajñāpāramitā', p. 656; FGDB '般若波羅蜜'; Powers 2007, p. 539).	8000112
-8000113	观自在菩萨	觀自在菩薩	Guānzìzai Púsà	Avalokitesvara bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 觀世音菩薩 (FGDB '觀世音菩薩'; SH '千手', p. 81)	8000113
+8000113	观自在菩萨	觀自在菩薩	guānzìzai púsà	Avalokitesvara bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 觀世音菩薩 (FGDB '觀世音菩薩'; SH '千手', p. 81)	8000113
 8000114	光世音菩萨	光世音菩薩	guāngshìyīn púsà	Avalokitesvara Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 觀世音菩薩 (FGDB '觀世音菩薩')	8000114
 8000115	观世自在菩萨	觀世自在菩薩	guānshì zìzài púsà	Avalokitesvara Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 觀世音菩薩 (FGDB '觀世音菩薩')	8000115
 8000116	观世音自在菩萨	觀世音自在菩薩	guān shì yīn zìzài púsà	Avalokitesvara Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 觀世音菩薩 (FGDB '觀世音菩薩')	8000116
@@ -4285,7 +4285,7 @@
 8004285	邬波难陀	鄔波難陀	Wūbōnántuó	Upananda	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: upananda; see 跋難陀 (FGDB '跋難陀')	8004285
 8004286	散华	散華	sànhuà	scatters flowers	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As an offering to the Buddha (Ding '散華'; FGDB '散華'; Karashima 2001 '散華')	8004286
 8004287	立	\N	lì	stand	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthāna, Tibetan: gnas pa (BCSD '立', p. 912; Mahāvyutpatti 'sthānam'; MW 'sthāna'; SH '立', p. 199)	8004287
-8004288	不空羂索	\N	bùkōng juànsuǒ	unerring lasso	phrase	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	(SH '羂索', p. 108)	8004288
+8004288	不空羂索	\N	bùkōng juànsuǒ	unerring lasso; amoghapasa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amoghapāśa; refers to Lokeśvara (BCSD '不空羂索', p. 46; MW 'amoghapāśa'; SH '羂索', p. 108)	8004288
 8004289	悲无量心	悲無量心	bēi wúliàng xīn	immeasurable compassion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心 (Tzu Chuang 2012, p. 135)	8004289
 8004290	善无量心	善無量心	shàn wúliàng xīn	immeasurable joy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心 (Tzu Chuang 2012, p. 135)	8004290
 8004291	舍无量心	捨無量心	shě wúliàng xīn	immeasurable equanimity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心  (Tzu Chuang 2012, p. 135)	8004291
@@ -4448,3 +4448,8 @@
 8004448	医子喻	醫子喻	yī zǐ yù	parable of the good doctor	phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004448
 8004449	执受	執受	zhíshòu	ideas grasped	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '執受'; SH '執受', p. 345)	8004449
 8004450	解	\N	jiě	understanding	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second in the four stages of practice 信解行证 (Guoyu '解' jiě n 3; FGDB '解'; Tzu Chuang 2012)	8004450
+8004451	不空	\N	bù kōng	unerring; amogha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amogha (BCSD '不空', p. 46; MW 'amogha')	8004451
+8004452	不空索	\N	bùkōng suǒ	unerring lasso; amoghapasa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amoghapāśa; refers to Lokeśvara (BCSD '不空', p. 46; MW 'amoghapāśa')	8004452
+8004453	不空羂索心王母陀罗尼真言	不空羂索心王母陀羅尼真言	bùkōng juànsuǒ xīn wáng mǔ tuóluóní zhēnyán	Mother Dhāraṇī Mantra of Mind King Amoghapāśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a mantra given in 不空羂索神變真言經 Amoghapāśakalparājasūtra (Shinohara 2014, pp.  151-168; T 1092, Scroll 1, 20.0229a15)	8004453
+8004454	母陀罗尼真言	母陀羅尼真言	mǔ tuóluóní zhēnyán	Mother Dhāraṇī Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 不空羂索心王母陀羅尼真言 (Shinohara 2014, pp.  151-168; T 1092, Scroll 1, 20.0229a15)	8004454
+8004455	瞋毒	\N	chēn dú	the poison of anger	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the three poisons (Tzu Chuang 2012, pp. 244-246)	8004455
