@@ -4240,8 +4240,8 @@
 8004240	炽	熾	chì	blazing; jvalita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jvalita, or: tīvra, Japanese: shi (BCSD '熾', p. 797; DJBT '熾', p. 425; MW 'jvalita'; SH '熾', p. 448)	8004240
 8004241	炽盛	熾盛	chìshèng	flaming; jvala	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: jvālā (BCSD '熾盛', p. 797; MW 'jvālā')	8004241
 8004242	炽盛光	熾盛光	chìshèng guāng	blazing light	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shijōkō; an alternative name for 金輪佛頂 Golden Wheel Buddha Crown (JDBT 'Shijōkō', p. 293)	8004242
-8004243	炽盛光法	熾盛光法	chìshèng guāng fǎ	Blazing Light Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shijōkō-hō; an abbreviation for 熾盛光佛頂法 (JDBT 'Shijōkō', p. 293)	8004243
-8004244	炽盛光佛顶法	熾盛光佛頂法	chìshèng guāng fó dǐng fǎ	Blazing Light Buddha Crown Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An esoteric ritual to prevent disaters, one of the four great rituals of the Tendai school (FGDB '熾盛光佛頂法'; JDBT 'Shijōkō', p. 293)	8004244
+8004243	炽盛光法	熾盛光法	chìshèng guāng fǎ	Blazing Light Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shijōkō-hō; an abbreviation for 熾盛光佛頂法 (JDBT 'Shijōkō', p. 293; Dolce 2011, p. 765)	8004243
+8004244	炽盛光佛顶法	熾盛光佛頂法	chìshèng guāng fó dǐng fǎ	Blazing Light Buddha Crown Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An esoteric ritual to prevent disaters, one of the 四箇大法 four great rituals of the Tendai school (FGDB '熾盛光佛頂法'; JDBT 'Shijōkō', p. 293)	8004244
 8004245	白衣拜相	\N	báiyībàixiāng	a Buddhist prime minister	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '白衣拜相')	8004245
 8004246	释迦院	釋迦院	shìjiā yuàn	Retinue of Sakyamuni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Keyworth 2011a, p. 526)	8004246
 8004247	胜莲华藏菩萨	勝蓮華藏菩薩	shèngliánhuácángpúsà	Supurb Lotus Store Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Rulu 2012, p. 45; T 970)	8004247
@@ -4458,3 +4458,17 @@
 8004458	阿修罗道	阿修羅道	āxiūluó dào	Asura Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	One of the 六道 Six Realms (FGDB '阿修羅道'; SH '阿修羅道', p. 285; Tzu Chuang 2012, pp. 265-268)	8004458
 8004459	六道轮迴	六道輪迴	liù dào lúnhuí	six realms of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六道 (Tzu Chuang 2012, pp. 265-268)	8004459
 8004460	六道轮回	六道輪回	liù dào lúnhuí	six realms of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六道 (Tzu Chuang 2012, pp. 265-268)	8004460
+8004461	叶衣菩萨	葉衣菩薩	yèyī púsà	Parnasavari Bodhisatttva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parṇaśavarī; one of the 三十三觀音 33 manifestations of Avalokiteśvara, whose body is wrapped in leaves (FGDB '葉衣菩薩')	8004461
+8004462	叶衣	葉衣	yèyī	Parṇaśavarī	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parṇaśavarī; see 葉衣菩薩 (FGDB '葉衣菩薩')	8004462
+8004463	叶衣观自在菩萨	葉衣觀自在菩薩	yèyī guānzìzai púsà	Parnasavari Avalokitesvara Bodhisatttva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 葉衣菩薩 (FGDB '葉衣菩薩')	8004463
+8004464	被叶衣菩萨	被葉衣菩薩	bèiyèyī púsà	Parnasavari Bodhisatttva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 葉衣菩薩 (FGDB '葉衣菩薩')	8004464
+8004465	叶衣观音	葉衣觀音	yèyī guānyīn	Parṇaśavarī Avalokitesvara	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 葉衣菩薩 (FGDB '葉衣菩薩')	8004465
+8004466	安镇法	安鎮法	ān zhèn fǎ	Ritual for the Peace of the Home; Anchinhō	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Anchinhō; an esoteric ritual for securing the peace of a residence, town, or state; on of the 四箇大法 four great rituals of the Taimitsu school (DJBT 'Anchin kokka-hō', p. 7; Dolce 2011, p. 765; FGDB '安鎮法')	8004466
+8004467	安镇国家不动法	安鎮國家不動法	ān zhèn guó jiā bù dòng fǎ	Ritual for the Peace of the Home, Town, and State	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安鎮法 (FGDB '安鎮法')	8004467
+8004468	国镇法	國鎮法	guó zhèn fǎ	Ritual for the Peace of the State	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安鎮法 (FGDB '安鎮法')	8004468
+8004469	镇宅法	鎮宅法	zhèn zhái fǎ	Ritual for the Peace of the Home	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安鎮法 (FGDB '安鎮法')	8004469
+8004470	四箇大法	\N	sì gè dà fǎ	four great rituals	phrase	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: shika daihō; four great esoteric rituals of the Taimitsu school, namely: 安鎮法 Ritual for the Peace of the Home, 熾盛光法 Blazing Light Ritual, 七佛藥師法 Seven Buddhas and Healing Master Ritual, and 普賢延命法 (Dolce 2011, p. 765; FGDB '四箇大法')	8004470
+8004471	安镇国家不动法	安鎮國家法	ān zhèn guó jiā fǎ	Ritual for the Peace of the Home, Town, and State	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安鎮法 (DJBT 'Anchin kokka-hō', p. 7)	8004471
+8004472	七佛药师法	七佛藥師法	qī fó yàoshī fǎ	Seven Buddhas and Healing Master Ritual	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Shichibutsu Yakushihō; one of the 四箇大法 four great rituals of the Taimitsu school (Dolce 2011, p. 765; FGDB '四箇大法')	8004472
+8004473	普贤延命法	普賢延命法	pǔxián yánmìng fǎ	Samantabhadra Longevity Ritual	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Fugen enmyōhō; one of the 四箇大法 four great rituals of the Taimitsu school (Dolce 2011, p. 765; FGDB '四箇大法')	8004473
+8004474	三十三观音	三十三觀音	sānshísān guānyīn	Thirty Three Manifestations of Avalokitesvara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '三十三觀音')	8004474
