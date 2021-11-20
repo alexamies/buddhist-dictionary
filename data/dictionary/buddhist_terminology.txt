@@ -3600,7 +3600,7 @@
 8003600	大日经类	大日經類	dàrì jīng lèi	Mahāvairocana sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Dainichikyōrui; a group of texts in the esoteric section of the Taisho including numbers 848–864 (Giebel 2011, p. 28)	8003600
 8003601	金刚顶经类	金剛頂經類	jīngāng dǐng jīng lèi	Vajraśekhara sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Kongōchōkyōrui; a group of texts in the esoteric section of the Taisho including numbers 865–892 (Giebel 2011, p. 28)	8003601
 8003602	开	開	kāi	open	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariphulla, or: bheda, Japanese: kai (BCSD '開', p. 1197; DJBT '靈', p. 429; MW 'pariphulla')	8003602
-8003603	青	\N	qīng	green; blue	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nīla, Japanese: shō, Tibetan: sngon po (BCSD '青', p. 4087; DJBT '青', p. 425; Mahāvyutpatti 'nīlam'; MW 'nīla'; SH '青', p. 294)	8003603
+8003603	青	\N	qīng	green; blue	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nīla, Japanese: shō, Tibetan: sngon po (BCSD '青', p. 1243; DJBT '青', p. 425; Mahāvyutpatti 'nīlam'; MW 'nīla'; SH '青', p. 294)	8003603
 8003604	禅林	禪林	chán lín	Chan temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: zenrin (FGDB '禪林'; JEBD '禪林寺', p. 374)	8003604
 8003605	外	\N	wài	outside; exterior	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāhya, Japanese: ge (BCSD '外', p. 311; DJBT '外', p. 436; MW 'bāhya'; SH '外', p. 184)	8003605
 8003606	章	\N	zhāng	section; document	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pada, Japanese: shō (BCSD '章', p. 913; DJBT '章', p. 423; MW 'pada'; SH '章', p. 362)	8003606
@@ -4481,3 +4481,21 @@
 8004481	结夏	結夏	jié xià	Varsa; Varsā; Vassa; Rains Retreat; Summer Retreat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安居 (FGDB '安居')	8004481
 8004482	坐夏	\N	zuò xià	Varsa; Varsā; Vassa; Rains Retreat; Summer Retreat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安居 (FGDB '安居')	8004482
 8004483	漏尽智证通	漏盡智證通	lòu jìn zhì zhèng tōng	the power of understanding of the eradiction of afflictions	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 六神通 six supernatural powers (Ding '漏盡智證通'; FGDB '漏盡智證通')	8004483
+8004484	自恣	\N	zì zì	pravāraṇā; ceremony of repentance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravāraṇā, Pali: pavāraṇā, Japanese: jishi; a ceremony ending the rains retreat (BL 'pravāraṇā'; Ding '自恣'; FGDB '自恣'; Kieschnick and Wiles 2017, vol. 2, p. 46; SH '自恣', p. 219)	8004484
+8004485	佛观喜日	佛觀喜日	fó guān xǐ rì	day of Buddha's joy	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	During the summer retreat (Tzu Chuang 2012, p. 280)	8004485
+8004486	迦叶	迦葉	jiāshè	Kāśyapa; Kasyapa; Kassapa	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāśyapa, Pali: Kassapa, Japanese: Kashō; one of the 過去七佛 saptatathāgata 'seven buddhas of antiquity' (BL 'Kāśyapa'; FGDB '迦葉'; Kieschnick and Wiles 2017, vol. 1, p. 2; MW 'kāśyapa')	8004486
+8004487	三衣一钵	三衣一缽	sān yī yī bō	Robe and Bowl; three robes and bowl	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, pp. 283-286)	8004487
+8004488	僧伽梨	\N	sēngjiālì	samghati; monastic outer robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghāṭī, Tibetan: snam sbyar; a monastic's outer robe for going to palaces and villages, one of a monk's three robes (BL saṃghāṭī''; FGDB '重複衣'; Mahāvyutpatti 'saṃghāṭī'; SH '僧伽梨'; p. 420; Tzu Chuang 2012, p. 284)	8004488
+8004489	三摩地	\N	sānmódì	samadhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; see 三昧 (Tzu Chuang 2012, pp. 290-294)	8004489
+8004490	常坐三昧	\N	cháng zuò sānmèi	constant sitting samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four kinds of samadhi (Tzu Chuang 2012, pp. 290-294)	8004490
+8004491	常行三昧	\N	cháng xíng sānmèi	constant walking samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four kinds of samadhi (Ding '常行三昧'; FGDB '常行三昧'; SH '常行三昧'; Tzu Chuang 2012, pp. 290-294)	8004491
+8004492	半行半坐三昧	\N	bàn xíng bàn zuò sānmèi	Half Walking; half walking, half sitting samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four kinds of samadhi (Tzu Chuang 2012, pp. 290-294)	8004492
+8004493	非行非坐三昧	\N	fēi xíng fēi zuò sānmèi	Non-Walking and Non-Sitting Samadhi; non-walking, non-sitting samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four kinds of samadhi (Tzu Chuang 2012, pp. 290-294)	8004493
+8004494	八大宗派	\N	bā dà zōngpài	eight schools of Chinese Buddhism	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(1) Tiantai School 天台宗 (2) Huayan School 华严宗 (3) Faxiang School 法相宗 (4) San Lun Zong 三论宗 (5) Chan Zong 禅宗 (6) Pure Lang School 净土宗 (7) Vinaya School 律宗 (8) Esoteric School 密宗 (Tzu Chuang 2012, pp. 294-301)	8004494
+8004495	六尘	六塵	liù Chén	six sense objects; Six Dusts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Sight 色尘 (2) sound 声尘 (3) smell 香尘 (4) taste 味尘 (5) touch 触尘 (6) dharmas 法尘; FGS translation standard: Sense Objects (Tzu Chuang 2012, pp. 301-304)	8004495
+8004496	金刚喻定	金剛喻定	jīngāng yùdìng	adamantine-like concentration; vajropamasamādhi	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: vajropamasamādhi, Japanese: kongōyujō or kongōzanmai (BL ‘vajropamasamādhi', pp. 967-958; FGDB '金剛喻定')	8004496
+8004497	色尘	色塵	sè chén	sight; sight sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the eyes can see; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004497
+8004498	声尘	聲塵	shēng chén	Sound; hearing; hearing sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the ears can hear; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004498
+8004499	香尘	香塵	xiāng chén	smell; smell sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the nose can smell; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004499
+8004500	味尘	味塵	wèi chén	taste; taste sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the tongue can taste; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004500
+8004501	青颈	青頸	qīng jǐng	black throat; nilakantha	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nīlakaṇṭha (BCSD '青頸', p. 1244; MW 'nīlakaṇṭha')	8004501
