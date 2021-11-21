@@ -426,7 +426,7 @@
 8000426	舍利	\N	shèlì	ashes or relics after cremation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '舍利'; FGDB '舍利'; SH '舍利')	8000426
 8000427	大意	\N	dàyì	Dayi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a person who as a former incarnation of the Buddha (FGDB '大意'; SH '大意', p. 89)	8000427
 8000428	劫波	\N	jiébō	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8000428
-8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to the Puranas (BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; SH '劫', p. 232)	8000429
+8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to the Puranas (BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; Kroll 2015 '劫' 3, p. 208; SH '劫', p. 232)	8000429
 8000430	净名经	淨名經	jìng Míng Jīng	Vimalakīrti Sūtra; Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti nirdeśa sūtra; another name for 維摩詰經; see 維摩詰經 (FGDB '淨名經')	8000430
 8000431	舍利弗	\N	shèlìfú	Sariputra; Sariputta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāriputra, Pali: sāriputta, Japanese: Sharihotsu, Tibetan: shā ri bu; one of the ten great disciples of the Buddha 十大弟子, first in wisdom (BL 'Śariputra', pp. 777-778; FGDB '舍利弗'; Tzu Chuang 2012, pp. 84-85)	8000431
 8000432	阿难	阿難	Ānán	Ānanda; Ananda	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ānanda, Pali: ānanda, Japanese: Anan, Tibetan: Kun dga' bo; a direct disciple of the Buddha (BL 'Ānanda', pp. 38-39; FGDB '阿難'; SH '阿難陀', p. 249)	8000432
@@ -1300,7 +1300,7 @@
 8001300	西方三圣	西方三聖	Xīfāng sān shèng	Three Noble Ones of the West	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the Western Pureland, the three are Amitabha Buddha and two assistants Avalokitesvara Bodhisattva and Mahasthamaprapta Bodhisattva (FGDB '西方三聖'; Tzu Chuang 2012)	8001300
 8001301	大勢至菩萨	大勢至菩薩	dàshìzhì Púsà	Mahāsthāma; Mahāsthāmaprāpta	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: mahāsthāmaprāpta, Japanese: Daiseishi, Tibetan: mthu chen thob; the bodhisattvas who has attained great power (BL 'Mahāsthāmaprāpta'; FGDB '大勢至菩薩'; SH '大勢至菩薩', p. 85; Tzu Chuang 2012)	8001301
 8001302	石塔	\N	shítǎ	a stone pagoda; stupa	noun	\N	\N	佛教	Buddhism	\N	\N	stone_pagoda_linyinsi400.jpg	\N	(FGDB '石塔')	8001302
-8001303	卢舍那佛	盧舍那佛	lúshènà fó	Locana Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	feilaifeng_xifangsansheng400.jpg	\N	(FGDB '盧舍那佛'; SH '盧舍那', p. 449)	8001303
+8001303	卢舍那佛	盧舍那佛	lúshènà fó	Rocana Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	feilaifeng_xifangsansheng400.jpg	\N	Also written Locana (FGDB '盧舍那佛'; SH '盧舍那', p. 449)	8001303
 8001304	报身佛	報身佛	Bàoshēn Fó	saṃbhogakāya; sambhogakaya; enjoyment body; reward body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 報身 (FGDB '報身')	8001304
 8001305	他比量	\N	tābìliàng	inference for others; parārthānumāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parārthānumāna, Japanese: tahiryō, Tibetan: gzhan don rjes dpag; a term in Buddhist logic used to describe persuasion of an opponent in a debate (BL 'parārthānumāna', p. 625; FGDB '他比量')	8001305
 8001306	立宗	\N	lìzōng	proposition; pratijñā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratijñā, Japanese: risshū, Tibetan: dam bca'; a term in Buddhist logic describing the proposition sought to prove to the opponent (BL 'pratijñā', p. 666; FGDB '立宗'; SH '五支作法', p. 119)	8001306
@@ -4515,3 +4515,28 @@
 8004515	优波梨	優波梨	yōubōlí	Upali	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A variant writing used in 最上大乘金剛大教寶王經 Vajragarbharatnarājatantra sūtra; see 優波離 (Bagchi 1946, p. 34; T 1128, 20.0542c07)	8004515
 8004516	师子威德	師子威德	shīziwēidé	Simhaveda	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	A deity mentioned in 最上大乘金剛大教寶王經 Vajragarbharatnarājatantra sūtra (Bagchi 1946, p. 34; T 1128, 20.0542c07)	8004516
 8004517	捺啰部帝	捺囉部帝	nàluóbùdì	Indrabodhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in 最上大乘金剛大教寶王經 Vajragarbharatnarājatantra sūtra (Bagchi 1946, p. 35; T 1128, 20.0542c07)	8004517
+8004518	触尘	觸塵	chù chén	touch; touch sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the body can feel; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004518
+8004519	卢舍那	盧舍那	lúshènà	Rocana Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 盧舍那佛 (FGDB '盧舍那佛'; SH '盧舍那', p. 449)	8004519
+8004520	法尘	法塵	fǎ chén	dharmas; dharma sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the mind can think about; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004520
+8004521	四小不可轻	四小不可輕	sì xiǎo bù kě qīng	four small things not to be taken lightly	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Little sparks 小小火苗; 2. young water nagas 幼小的龙; 3. young princes 年少王子; 4. young novices 年幼沙弥 (Tzu Chuang 2012, pp. 309-311)	8004521
+8004522	七圣财	七聖財	qī shèng cái	seven kinds of spiritual wealth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Faith 信仰, 2. listening and learning 听闻, 3. perseverance 精进, 4. morality 持戒, 5. conscience 惭愧, 6. giving 布施, (7) meditative wisdom 定慧 (FGDB '七聖財'; Tzu Chuang 2012, pp. 311-314)	8004522
+8004523	定慧	\N	dìng huì	meditative wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven kinds of spiritual wealth 七圣财 (Tzu Chuang 2012, pp. 301-304)	8004523
+8004524	止观双修	止觀雙修	zhǐ guān shuāng xiū	Stopping and Seeing Meditation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Begins with a three part method: 1. gradual stopping and seeing 浙次止观; 2. indeterminate stopping and seeing 不定止观; 3. complete stopping and seeing 圆顿止观 (Tzu Chuang 2012, pp. 314-418)	8004524
+8004525	浙次止观	浙次止觀	zhè cì zhǐ guān	gradual stopping and seeing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first of the initial kinds of stopping and seeing medation 止观双修 (Tzu Chuang 2012, pp. 314-418)	8004525
+8004526	不定止观	不定止觀	bùdìng zhǐ guān	indeterminate stopping and seeing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the initial kinds of stopping and seeing medation 止观双修; FGS translation standard: Indeterminate Stopping and Seeing (Tzu Chuang 2012, pp. 314-418)	8004526
+8004527	尸陀林	\N	shītuólín	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; a place where corpses were left exposed in ancient India (FGDB '尸陀林'; SH '尸陀', p. 102; MW 'śītavana')	8004527
+8004528	尸陀	\N	shītuó	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; see 尸陀林 (SH '尸陀', p. 102)	8004528
+8004529	尸林	\N	shīlín	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; see 尸陀林 (SH '尸陀', p. 102)	8004529
+8004530	尸陀婆	\N	shītuópó	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; see 尸陀林 (SH '尸陀', p. 102)	8004530
+8004531	尸多婆那	\N	shīduōpónà	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; see 尸陀林 (SH '尸陀', p. 102)	8004531
+8004532	尸陀	屍陀	shītuó	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; see 尸陀林 (SH '尸陀', p. 102)	8004532
+8004533	圆顿止观	圓頓止觀	yuán dùn zhǐ guān	complete stopping and seeing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the initial kinds of stopping and seeing medation 止观双修 (Tzu Chuang 2012, pp. 314-418)	8004533
+8004534	寒林	\N	hánlín	sitavana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śītavana; see 尸陀林 (SH '尸陀', p. 102)	8004534
+8004535	恐毘林	\N	kǒngpílín	smasana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śmaśāna; see 尸陀林 (SH '尸陀', p. 102)	8004535
+8004536	昼暗林	晝暗林	zhòuànlín	smasana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śmaśāna; see 尸陀林 (SH '尸陀', p. 102)	8004536
+8004537	尸摩賖那	\N	shīmóshēnà	smasana; cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śmaśāna; see 尸陀林 (SH '尸陀', p. 102)	8004537
+8004538	髻珠	\N	jìzhū	a pearl worn in a topknot or at the top of the head	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cūḍāmaṇi (BCSD '髻珠', p. 4238; MW 'cūḍāmaṇi'; SH '髻珠', p. 454)	8004538
+8004539	髻宝	髻寶	jìbǎo	a jewel worn in a topknot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cūḍāmaṇi (BCSD '髻寶', p. 4238; MW 'cūḍāmaṇi'; SH '髻珠', p. 454)	8004539
+8004540	本来无一物	本來無一物	běnláiwúyīwù	Originally not a thing existed	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ch’ung-hsien, K’o-ch’in, and Cleary trans. 1998, p. 6; T 2003, Scroll 1; FGDB '本來無一物'; SH '本來無一物', p. 189)	8004540
+8004541	髻	\N	jì	topknot; cuda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cūḍā (BCSD '髻', p. 4238; MW 'cūḍā'; SH '髻', p. 454)	8004541
+8004542	髻	\N	jì	usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa; see 佛頂 (BCSD '佛頂', p. 4238; FGDB '佛頂'; MW 'uṣṇīṣa')	8004541
