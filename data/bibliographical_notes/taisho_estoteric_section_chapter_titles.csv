@@ -85,7 +85,7 @@ Taisho No.,markup
   </li>
 </ul>"
 893A,"Page numbers from Giebel
-<ol>
+<ul>
   <li>Scroll 1 (p. 125)<ul>
     <li>1. 請問品 Questions (p. 125; 18.0603a07)</li>
     <li>2. 真言相品 Characteristics of Mantras (p. 129; 18.0603b15)</li>
@@ -129,7 +129,12 @@ Taisho No.,markup
     <li>36. 補闕少法品 Ritual for Making up for Deficiencies (p. 279; 18.0627b23)</li>
     <li>37. 被偷成物却徵法品 Ritual for Recovering a Stolen Article (p. 299; 18.0631a24)</li>
   </ul></li>
-</ol>
+</ul>
 
 See also this additional figure, not included in NTI Reader:
 <a href='http://tripitaka.cbeta.org/cb_tripitaka_web/figures/T/T18p0622_01.gif'><img src='http://tripitaka.cbeta.org/cb_tripitaka_web/figures/T/T18p0622_01.gif'></a>"
+1153,"<ul>
+  <li>序品 Preface</li>
+  <li>修行菩薩隨求大護大明王陀羅尼品 Mahāpratisarā Dharani</li>
+</ul>
+"
