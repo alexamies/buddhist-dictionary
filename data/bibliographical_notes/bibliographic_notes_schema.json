@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Taisho number - primary key",
+    "name": "reference_no",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "description": "Taisho volume number",
+    "name": "volume",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "description": "Number of scrolls in the work",
+    "name": "no_scrolls",
+    "type": "INT64",
+    "mode": "REQUIRED"
+  },
+  {
+    "description": "Title in traditional Chinese",
+    "name": "title_zh",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "description": "Title in Hanyu pinyin",
+    "name": "title_pinyin",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  },
+  {
+    "description": "Title in English",
+    "name": "title_en",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "author, translator, or compiler of the work in Chinese",
+    "name": "attribution_zh",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Kind of attribution (author, etc) in Chinese",
+    "name": "attribution_method_zh",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Attribution in English",
+    "name": "attribution_en",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Kind of attribution (author, etc) in Chinese",
+    "name": "attribution_method_en",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Chinese dynasty or related foreign period, in Chinese",
+    "name": "dynasty_zh",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Chinese dynasty, in English",
+    "name": "dynasty_en",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Date range in years (CE) separated by a dash",
+    "name": "date_range",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "A summary of the content of the text",
+    "name": "summary",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "Notes relating to the source of the text",
+    "name": "notes",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "A descriptive term for the historic source of the text",
+    "name": "previous_source",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "The location of the digital source of the text",
+    "name": "source_url",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "description": "The date that the digital source was accessed",
+    "name": "source_access_date",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+ ]
