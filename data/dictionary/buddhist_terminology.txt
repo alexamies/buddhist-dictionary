@@ -426,7 +426,7 @@
 8000426	舍利	\N	shèlì	ashes or relics after cremation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '舍利'; FGDB '舍利'; SH '舍利')	8000426
 8000427	大意	\N	dàyì	Dayi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a person who as a former incarnation of the Buddha (FGDB '大意'; SH '大意', p. 89)	8000427
 8000428	劫波	\N	jiébō	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8000428
-8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to the Puranas (BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; Kroll 2015 '劫' 3, p. 208; SH '劫', p. 232)	8000429
+8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to Indian tradition (BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; Kroll 2015 '劫' 3, p. 208; MW 'kalpa'; SH '劫', p. 232)	8000429
 8000430	净名经	淨名經	jìng Míng Jīng	Vimalakīrti Sūtra; Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti nirdeśa sūtra; another name for 維摩詰經; see 維摩詰經 (FGDB '淨名經')	8000430
 8000431	舍利弗	\N	shèlìfú	Sariputra; Sariputta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāriputra, Pali: sāriputta, Japanese: Sharihotsu, Tibetan: shā ri bu; one of the ten great disciples of the Buddha 十大弟子, first in wisdom (BL 'Śariputra', pp. 777-778; FGDB '舍利弗'; Tzu Chuang 2012, pp. 84-85)	8000431
 8000432	阿难	阿難	Ānán	Ānanda; Ananda	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ānanda, Pali: ānanda, Japanese: Anan, Tibetan: Kun dga' bo; a direct disciple of the Buddha (BL 'Ānanda', pp. 38-39; FGDB '阿難'; SH '阿難陀', p. 249)	8000432
@@ -4622,3 +4622,15 @@
 8004622	遏迦	\N	èjiā	arka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; see 阿羅歌花 (FGDB '阿羅歌花')	8003439
 8004623	遏迦花	\N	èjiā huā	arka flowers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; see 阿羅歌花 (FGDB '阿羅歌花')	8004623
 8004624	毘磨利	\N	pímólì	vimale; pure	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimale; used in mantras (MW 'vimale'; Giebel 2015, p. 38; T 1300, 21.0399c28)	8004624
+8004625	他心通	\N	tā xīn tōng	mind reading	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (Tzu Chuang 2012, p. 325)	8004625
+8004626	神足通	\N	shén zú tōng	teleportation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (Tzu Chuang 2012, pp. 324-326)	8004626
+8004627	宿命通	\N	sùmìng tōng	knowledge of past lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (Tzu Chuang 2012, pp. 324-326)	8004627
+8004628	漏尽通	漏盡通	lòu jìn tōng	destruction of all affliction	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (Tzu Chuang 2012, pp. 324-326)	8004628
+8004629	长时	長時	chángshí	eon; kalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8004629
+8004630	大时	大時	dàshí	eon; kalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8004630
+8004631	劫波	\N	jiébō	a ritual; kalpa	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kalpa; one of the six disciplines associated with the study of the Vedas (MW 'kalpa'; Wikipedia '仪轨经')	8000428
+8004632	焦芽败种	焦芽敗種	jiāo yá bài zhǒng	withered spouts are the seeds of defeat	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference for the inability of some beings to become Buddhas (Ding '焦芽敗種'; FGDB '焦芽敗種'; Hsing Yun 2016, p. xvi)	8004632
+8004633	三资粮	三資糧	sān zīliáng	the three supports	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Faith 信, 2. vows 愿, 3. practice 行 (Tzu Chuang 2012, pp. 327-329)	8004633
+8004634	十二部经	十二部經	shí èr bù jīng	Twelve Divisions of Sutras; dvādaśaṅga; the twelve divisions of Buddhist literature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśaṅga. Sanskrit includes three more divisions than the Pali 九部經 navaṅga 'nine part teachines' of the Pali canon. They are: (1) sūtra 长行 'discourses', (2) geya 重颂, (3) gatha 孤起 'verses', (4) avadāna 譬喻 'narratives', (5) Nidana 因缘, (6) Udana 无问自说, (7) Jātaka 本生 'birth stories', (8) Itivrttaka 本事, (9) Abdutadharma 未曾有, (10) Vaipulya 方广, (11) Upadesa 论识, (12) Vyakarana 授记 (BL 'dvādaśaṅga'; Tzu Chuang 2012, pp. 329-332; FGDB '十二部經')	8004634
+8004635	长行	長行	cháng háng	Sutra (discourses); a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, Pali: sutta; a prose narrative that records the teachings of the Buddha; one of the 十二部经 'twelve divisions of the sutras'; FGS translation standard: Sutra (discourses) (Tzu Chuang 2012, p. 329)	8004635
+8004636	重颂	重頌	chóng sòng	geya; repeated verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A verse section that repeats the prose narrative immediately before it; one of the 十二部经 'twelve divisions of the sutras' (Giles 1892 '頌'; Tzu Chuang 2012, pp. 329-332)	8004636
