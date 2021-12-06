@@ -107,7 +107,7 @@
 8000107	大乘	\N	dàshèng	Mahayana; Great Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '大乘'; SH '大乘', p. 83; Tzu Chuang 2012, pp. 162-165)	8000066
 8000108	挂褡	掛褡	guàdā	to stay at a temple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛搭')	8000108
 8000109	挂搭单	掛搭單	guàdādān	to stay at a temple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛搭')	8000109
-8000110	挂钵	掛鉢	guàbō	to stay at a temple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛搭')	8000110
+8000110	挂钵	掛鉢	guàbō	to stay at a temple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛搭'; Tzu Chuang 2012, p. 339)	8000110
 8000111	断苦法	斷苦法	duàn kǔ fǎ	methods to end affliction	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '斷苦法'; FGDB '斷苦法'; Murano, Senchu (tr.) &amp; Warner, Shinkyo ed. 2013, “The Lotus Sutra: The Sutra of the Lotus Flower of the Wonderful Dharma”, loc. 1543)	8000111
 8000112	般若波罗蜜多	般若波羅蜜多	bōrěbōluómìduō	prajnaparamita; prajñāpāramitā; perfection of the highest form of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī, Japanese: hannya haramitta, Tibetan: shes rab kyi pha rol tu phyin pa; Prajñāpāramitā is a widely used term in Mahāyāna Buddhism and occasionally used in Theravada, referring to the wisdom required to achieve enlightenment. Prajñāpāramitā may also refer to the understanding of emptiness 空. Prajñāpāramitā is the sixth of the six pāramitās 六度. It is also a genre of Mahāyāna literature, which includes the Aṣṭasāhasrikāprajñāpāramitāsūtra 小品般若波羅蜜經, Diamond Sūtra 金剛般若波羅蜜經, and Heart Sūtra 般若波羅蜜多心經 (BL 'prajñāpāramitā', p. 656; FGDB '般若波羅蜜'; Powers 2007, p. 539).	8000112
 8000113	观自在菩萨	觀自在菩薩	guānzìzai púsà	Avalokitesvara bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 觀世音菩薩 (FGDB '觀世音菩薩'; SH '千手', p. 81)	8000113
@@ -4633,7 +4633,7 @@
 8004633	三资粮	三資糧	sān zīliáng	the three supports	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Faith 信, 2. vows 愿, 3. practice 行 (Tzu Chuang 2012, pp. 327-329)	8004633
 8004634	十二部经	十二部經	shí èr bù jīng	Twelve Divisions of Sutras; dvādaśaṅga; the twelve divisions of Buddhist literature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśaṅga. Sanskrit includes three more divisions than the Pali 九部經 navaṅga 'nine part teachines' of the Pali canon. They are: (1) sūtra 长行 'discourses', (2) geya 重颂, (3) gatha 孤起 'verses', (4) avadāna 譬喻 'narratives', (5) Nidana 因缘, (6) Udana 无问自说, (7) Jātaka 本生 'birth stories', (8) Itivrttaka 本事, (9) Abdutadharma 未曾有, (10) Vaipulya 方广, (11) Upadesa 论识, (12) Vyakarana 授记 (BL 'dvādaśaṅga'; Tzu Chuang 2012, pp. 329-332; FGDB '十二部經')	8004634
 8004635	长行	長行	cháng háng	Sutra (discourses); a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, Pali: sutta; a prose narrative that records the teachings of the Buddha; one of the 十二部经 'twelve divisions of the sutras' (discourses) (Tzu Chuang 2012, p. 329)	8004635
-8004636	重颂	重頌	chóng sòng	geya; repeated verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A verse section that repeats the prose narrative immediately before it; one of the 十二部经 'twelve divisions of the sutras' (Giles 1892 '頌'; Tzu Chuang 2012, pp. 329-332)	8004636
+8004636	重颂	重頌	chóng sòng	geya; repeated verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A verse section that repeats the prose narrative immediately before it; one of the 十二部经 'twelve divisions of the sutras' (Giles 1892 '頌'; SH '重頌', p. 225; Tzu Chuang 2012, pp. 329-332)	8004636
 8004637	人执	人執	rénzhí	delusive grasphing to the concept of ego or a permanent person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '人執', p. 32)	8004637
 8004638	法我执	法我執	fǎwǒzhí	grasping to the concept that object have a self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmātmagraha, Japanese: hōgashū (BL 'dharmātmagraha', p. 253)	8004638
 8004639	固执	固執	gùzhí	to hold fast	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '固執' 1)	8004639
@@ -4645,3 +4645,47 @@
 8004645	青色	\N	qīngsè	green blue; nila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nīla (BCSD '青色', p. 1243)	8004645
 8004646	吠室啰末拏	吠室囉末拏	fèishìluómòná	Vaisravana	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśravaṇa; see 多聞天 (SH '吠室囉末拏', p. 145)	8004646
 8004647	吠室啰末那	吠室囉末那	fèishìluómònà	Vaisravana	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśravaṇa; a form used in 摩訶吠室囉末那野提婆喝囉闍陀羅尼儀軌, see 多聞天 (SH '吠室囉末拏', p. 145; T 1246)	8004647
+8004648	那谟	那謨	nàmó	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8004648
+8004649	那摩	\N	nàmó	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8004649
+8004650	参婆啰	參婆囉	cānpóluó	sambhara; bestower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sambhara; used in mantras, for example, 佛說救拔焰口餓鬼陀羅尼經 Pretamukhāgnijvālayaśarakāradhāraṇīsūtra ( (MW 'sambhara'; Lye 2003, p. 421; T 1313, 21.0464b26)	8004650
+8004651	孤起	\N	gūqǐ	gatha; verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀'; SH '伽陀', p. 225; Tzu Chuang 2012, pp. 329-332)	8004651
+8004652	譬喻	\N	pìyù	Avadana (parables); Apadāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	Explains the teachings of the Buddha in the form of parables; one of the 十二部经 'twelve divisions of the sutras' (FGDB '南傳大藏經'; FGDB '譬喻'; PPN 'Apadāna'; Tzu Chuang 2012, pp. 329-332)	8004652
+8004653	孤起颂	孤起頌	gūqǐ sòng	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (SH '伽陀', p. 225)	8004653
+8004654	讽颂	諷頌	fěng sòng	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀')	8004654
+8004655	造颂	造頌	zào sòng	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀')	8004655
+8004656	不重颂偈	不重頌偈	bù chóng sòng jì	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀')	8004656
+8004657	无问自说	無問自說	wú wèn zì shuō	unprompted teachings; udana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優陀那 (Tzu Chuang 2012, pp. 329-332)	8004657
+8004658	伊帝曰多伽	\N	yīdìyuēduōjiā	itivrttaka; stories of the disciples’ previous lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itivṛttaka; see 本事 (FGDB '伊帝曰多伽')	8004658
+8004659	本事	\N	běnshì	itivrttaka; stories of the disciples’ past lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itivṛttaka, Pali: itivuttaka; Tibetan: de lta bu byung ba; teachings by the Buddha about the causes and conditions of his disciples' past lives; one of the 十二部经 'twelve divisions of the sutras' (BL 'itivṛttaka', p. 375; FGDB '本事'; SH '本事經', p. 189; Tzu Chuang 2012, pp. 329-332)	8004659
+8004660	伊帝目多伽	\N	yīdìmùduōjiā	itivrttaka; stories of the disciples’ previous lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itivṛttaka; see 本事 (FGDB '伊帝曰多伽')	8004660
+8004661	伊帝越多伽	\N	yīdìyuèduōjiā	itivrttaka; stories of the disciples’ previous lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itivṛttaka; see 本事 (FGDB '伊帝曰多伽')	8004661
+8004662	一目多迦	\N	yīmùduōjiā	itivrttaka; stories of the disciples’ previous lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itivṛttaka; see 本事 (FGDB '伊帝曰多伽')	8004662
+8004663	一筑多	\N	yīzhùduō	itivrttaka; stories of the disciples’ previous lives	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itivṛttaka; see 本事 (FGDB '伊帝曰多伽')	8004663
+8004664	未曾有	\N	wèi céng yǒu	Abdhutadharma (miracles)	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abdhutadharma; a section of the Buddhist canon recording the unique and fantastic attributes of the Buddha; one of the 十二部经 'twelve divisions of the sutras' (FGDB '未曾有'; SH '未曾有', p. 189; Tzu Chuang 2012, pp. 329-332)	8004664
+8004665	方广	方廣	fāngguǎng	Vaipulya (profound teachings); vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya. See 方等 (FGDB, '方等'; Tzu Chuang 2012, pp. 329-332)	8004665
+8004666	论识	論識	lùn shí	upadesa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upadeśa; see 論義 (FGDB '論義')	8004666
+8004667	授记	授記	shòu jì	Vyakarana (prophecies); a prediction; vyākaraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyākaraṇa, Japanese: Juki; also a genre of text containing predictions of when the Buddha's disciples will attain awakening; one of the twelve divisions of the sutras 十二部经 (FGDB '授記'; JEBD 'Juki'; Tzu Chuang 2012, pp. 329-332)	8004667
+8004668	悉檀	\N	xītán	siddhanta; an established fact	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siddhānta (MW 'siddhānta'; SH '悉檀', p. 350)	8004668
+8004669	四悉檀	\N	sì xītán	Four Modes of Teaching; the four methods of teaching; four siddhantas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Teaching methods that the Buddha used, varied according the level of the student: 1. worldly method 世界悉檀, 2. individual method 各各为人悉檀, 3. specific method 对治悉檀, 4. ultimate method 第一义悉檀 (FGDB '四悉檀'; Sharf 2005, p. 316; Tzu Chuang 2012, pp. 336-338)	8004669
+8004670	世界悉檀	\N	shìjiè xītán	Worldly Method; worldly teaching method	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four methods of teaching 四悉檀 (FGDB '四悉檀'; Tzu Chuang 2012, pp. 336-338)	8004670
+8004671	盂兰盆	盂蘭盆	yú lán pén	ullambana	noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	Japanese: urabon; refers to the Ullambama Festival for feeding of ghosts on the 15th day of the 7th lunar month (BL '*ullambana', p. 936-937; FGDB '盂蘭盆'; SH '盂蘭盆', p. 274)	8004671
+8004672	乌蓝婆拏	烏藍婆拏	wūlánpóná	ullambana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 盂蘭盆 (FGDB '盂蘭盆')	8004672
+8004673	盆会	盆會	pénhuì	ullambana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 盂蘭盆 (FGDB '盂蘭盆')	8004673
+8004674	鸟蓝婆	鳥藍婆	niǎolánpó	ullambana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 盂蘭盆 (SH '盂蘭盆', p. 274)	8004674
+8004675	鸟蓝婆拏	鳥藍婆拏	niǎolánpóná	ullambana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 盂蘭盆 (SH '盂蘭盆', p. 274)	8004675
+8004676	各各为人悉檀	各各為人悉檀	gè gè wéirén xītán	individual teaching method	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four methods of teaching 四悉檀 (FGDB '四悉檀'; Tzu Chuang 2012, pp. 336-338)	8004676
+8004677	流通	\N	liútōng	transmission of Buddhist teachings	verb	\N	\N	佛教	Buddhism	\N	\N	\N	liu2tong1.mp3	An abbreviation for 流傳弘通 (FGDB '流通')	8004677
+8004678	歎德	\N	tàn dé	verses on virtues	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Praise for Buddhas, bodhisattvas, and other Buddhist figures, especially in writing before a classic text (FGDB '歎德')	8004678
+8004679	对治悉檀	對治悉檀	duì zhì xītán	specific teaching method	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four methods of teaching 四悉檀 (FGDB '四悉檀'; Tzu Chuang 2012, pp. 336-338)	8004679
+8004680	第一义悉檀	第一義悉檀	dì yī yì xītán	Ultimate Method; ultimate teaching method	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four methods of teaching 四悉檀 (FGDB '四悉檀'; Tzu Chuang 2012, pp. 336-338)	8004680
+8004681	挂锡	掛錫	guà xī	to stay overnight at a monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛錫'; SH '掛錫', p. 350)	8004681
+8004682	挂钵	掛缽	guà bō	to stay overnight at a monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (FGDB '掛搭')	8004682
+8004683	安单	安單	ān dān	to settle at a monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '安單'; Tzu Chuang 2012, p. 341)	8004683
+8004684	进单	進單	jìn dān	to join a monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, p. 341)	8004684
+8004685	看单	看單	kàn dān	to visit another monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, p. 341)	8004685
+8004686	留单	留單	liú dān	to remain at another monastery	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, p. 341)	8004686
+8004687	溜单	溜單	liū dān	to depart a monastery without requesting leave	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, p. 341)	8004687
+8004688	迁单	遷單	qiān dān	to asked to leave a monastery after breaking rules	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '單'; Tzu Chuang 2012, p. 341)	8004688
+8004689	如是我闻	如是我聞	rúshì wǒ wén	thus I have heard	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: evaṃ mayā śrutam, Pali: eva ṃ me sutaṃ, Japanese: nyozegamon, Tibetan: 'di skad bdag gis thos pa; phrase at the beginning of all sutras indicating that it was the Buddha's teaching recounted by Ananda (BL 'evaṃ mayā śrutam', p. 288; Tzu Chuang 2012, pp. 343-345)	8004689
+8004690	单	單	dān	living quarters at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, a place for living at a monastery (FGDB '單')	8004690
+8004691	单位	單位	dānwèi	living space at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 單 (FGDB '單')	8004691
