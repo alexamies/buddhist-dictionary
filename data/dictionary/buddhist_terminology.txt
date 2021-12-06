@@ -609,7 +609,7 @@
 8000609	冥土	\N	míngtǔ	the dark abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Similar to 冥道 (SH '冥道', p. 322)	8000609
 8000610	开元三大士	開元三大士	kāiyuán sān dà shì	three great sages of Kaiyuan	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Namely, 善無畏 Śubhakarasiṃha, 金剛智 Vajrabodhi, and 不空 Amoghavajra; known for the introduction of Esoteric Buddhism into China in the Kaiyuan reign of the Tang dynasty (FGDB '開元三大士'; Goble 2019, p. 25)	8000610
 8000611	冥道	\N	míngdào	the gateway to the ghost world	proper noun	\N	\N	佛教	Buddhism	密宗	Esoteric Buddhism	\N	\N	(SH '冥道', p. 322)	8000611
-8000612	焰口	\N	yàn kǒu	Ritual for Fire-Spitting Hungry Ghosts	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '焰口')	8000612
+8000612	焰口	\N	yàn kǒu	Flaming Mouth	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a Hungry Ghost (FGDB '焰口')	8000612
 8000613	打七	\N	Dǎ Qī	Forty Nine Day Period of Self Cultivation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '打七')	8000613
 8000614	礼忏	禮懺	lǐ chàn	liturgy for confession	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '禮懺')	8000614
 8000615	盂兰盆会	盂蘭盆會	yúlánpén huì	Ullambana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Festival in memory of ancestry; see 盂蘭盆 (SH '盂蘭盆', p. 274)	8000615
@@ -4649,7 +4649,7 @@
 8004649	那摩	\N	nàmó	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8004649
 8004650	参婆啰	參婆囉	cānpóluó	sambhara; bestower	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sambhara; used in mantras, for example, 佛說救拔焰口餓鬼陀羅尼經 Pretamukhāgnijvālayaśarakāradhāraṇīsūtra ( (MW 'sambhara'; Lye 2003, p. 421; T 1313, 21.0464b26)	8004650
 8004651	孤起	\N	gūqǐ	gatha; verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀'; SH '伽陀', p. 225; Tzu Chuang 2012, pp. 329-332)	8004651
-8004652	譬喻	\N	pìyù	Avadana (parables); Apadāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	Explains the teachings of the Buddha in the form of parables; one of the 十二部经 'twelve divisions of the sutras' (FGDB '南傳大藏經'; FGDB '譬喻'; PPN 'Apadāna'; Tzu Chuang 2012, pp. 329-332)	8004652
+8004652	譬喻	\N	pìyù	Avadana (parables); Apadāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Explains the teachings of the Buddha in the form of parables; one of the 十二部经 'twelve divisions of the sutras' (FGDB '南傳大藏經'; FGDB '譬喻'; PPN 'Apadāna'; Tzu Chuang 2012, pp. 329-332)	8004652
 8004653	孤起颂	孤起頌	gūqǐ sòng	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (SH '伽陀', p. 225)	8004653
 8004654	讽颂	諷頌	fěng sòng	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀')	8004654
 8004655	造颂	造頌	zào sòng	gatha; detached verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gātha; see 伽陀 (FGDB '伽陀')	8004655
@@ -4689,3 +4689,16 @@
 8004689	如是我闻	如是我聞	rúshì wǒ wén	thus I have heard	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: evaṃ mayā śrutam, Pali: eva ṃ me sutaṃ, Japanese: nyozegamon, Tibetan: 'di skad bdag gis thos pa; phrase at the beginning of all sutras indicating that it was the Buddha's teaching recounted by Ananda (BL 'evaṃ mayā śrutam', p. 288; Tzu Chuang 2012, pp. 343-345)	8004689
 8004690	单	單	dān	living quarters at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, a place for living at a monastery (FGDB '單')	8004690
 8004691	单位	單位	dānwèi	living space at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 單 (FGDB '單')	8004691
+8004692	燄口	\N	yàn kǒu	Flaming Mouth	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 焰口 (FGDB '焰口')	8004692
+8004693	戒学	戒學	jiè xué	training on morality	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiśīlaśikṣā, Japanese: zōjōkaigaku, Tibetan: lhag pa'i tshul khrims kyi bslab pa; the first of the three trainings 三學 (BL 'adhiśīlaśikṣā', p. 17; FGDB '三學'; SH '戒學', p. 239 Tzu Chuang 2012, pp. 345-347)	8004693
+8004694	增上戒学	增上戒學	zēngshàng jiè xué	training on morality	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiśīlaśikṣā; see 戒學 (FGDB '三學')	8004694
+8004695	定学	定學	dìng xué	training on meditative concentration	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhisamādhiśikṣā, Japanese: zōjōjōgaku; second of the three trainings 三学 (BL 'adhisamādhiśikṣā', p. 17; FGDB '三學'; Tzu Chuang 2012, pp. 345-347)	8004695
+8004696	慧学	慧學	huì xué	Training on Wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the three trainings 三学 (FGDB '三學'; Tzu Chuang 2012, pp. 345-347)	8004696
+8004697	四大译师	四大譯師	sì dà yìshī	the four great Chinese translators	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Kumarajiva 鸠摩罗什, 2. Xuan Zang 玄奘, 3. Paramartha 真谛, 4. Yi Jing 义净 (Tzu Chuang 2012, pp. 347-353)	8004697
+8004698	增戒学	增戒學	zēng jiè xué	training on morality	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiśīlaśikṣā; see 戒學 (FGDB '三學')	8004698
+8004699	增心学	增心學	zēng xīn xué	training on meditative concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhisamādhiśikṣā; see 定學 (FGDB '三學')	8004699
+8004700	增意学	增意學	zēng yì xué	training on meditative concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhisamādhiśikṣā; see 定學 (FGDB '三學')	8004700
+8004701	增上意学	增上意學	zēngshàng yì xué	training on meditative concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhisamādhiśikṣā; see 定學 (FGDB '三學')	8004701
+8004702	增上心学	增上心學	zēng shàng xīn xué	training on meditative concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhisamādhiśikṣā; see 定學 (Ding '增上心學'; FGDB '增上心學'; SH '增上心學')	8004702
+8004703	律藏	\N	lǜ zàng	Collection of Monastic Rules; Vinaya; Vinayapiṭaka; Vinaya Piṭaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vinayapiṭaka, Pali: vinayapiṭaka, Japanese: ritsuzō. The second part of the Tripitaka 三藏 (BL 'vinayapiṭaka'; FGDB '毘奈耶藏')	8004703
+8004704	论藏	論藏	lùn zàng	Abhidharmapiṭaka; Abhidhammapiṭaka; Abhidharmapitaka; Collection of Treatises	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharmapiṭaka, Pali: abhidhammapiṭaka, Japanese: ronzō, Tibetan: chos mngon pa'i sde snod; the third part of the Tripitaka 三藏 containing summaries and discussions on Buddhist doctrine (BL 'abhidharmapiṭaka', pp. 7-8; Ding '阿毘達磨藏'; Eitel 'Abhidharma piṭaka' p. 2; Tzu Chuang 2012, pp. 353-356; FGDB '論藏')	8004704
