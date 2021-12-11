@@ -4750,10 +4750,22 @@
 8004750	加持香水	\N	jiāchí xiāngshuǐ	to bless by sprinkling scented water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '加持香水')	8004750
 8004751	洒水	灑水	sǎ shuǐ	to bless by sprinkling scented water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 加持香水 (FGDB '加持香水')	8004751
 8004752	平等性智	\N	píngděng xìng zhì	wisdom of universal equality	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samatājñāna, Japanese: by ōdōshōchi, Tibetan: mnyam nyid ye shes, or: mnyam pa nyid kyi ye shes; the third of the 四智 four kinds of wisdom (BL 'samatājñāna', p. 747; Ding '四智'; Mahāvyutpatti 'samatājñāna'; FGDB '四智'; SH '四智', p. 176; Tzu Chuang 2012, pp. 384-388)	8004752
-80047523	大圆镜智	大圓鏡智	dà yuán jìng zhì	perfect mirrorlike wisdom; ādarśajñāna	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādarśajñāna, Japanese: daienkyōchi, Tibetan: me long lta bu'i ye shes; the forth of the 四智 four kinds of wisdom (BL 'ādarśajñānam', p. 15; Ding '四智'; Mahāvyutpatti 'ādarśajñānam'; FGDB '四智'; SH '四智', p. 176; Tzu Chuang 2012, pp. 384-388)	80047523
-80047524	五浊恶世	五濁惡世	wǔ zhuó è shì	Saha World; the World of Suffering; the Evil World of the Five Turbidities	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五濁 (Tzu Chuang 2012)	80047524
-80047525	檀波罗蜜	檀波羅蜜	tán bōluómì	dana-paramita; the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāna-pāramitā; the first of the six paramitas 六度 (FGDB '波羅蜜')	80047525
-80047526	尸波罗蜜	尸波羅蜜	shī bōluómì	sila-paramita; the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla-pāramitā; the second of the six paramitas 六度 (FGDB '波羅蜜')	80047526
-80047527	毘离耶	毘離耶	pílíyē	virya; diligence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīrya; the third of the six paramitas 六度 (FGDB '精進')	80047527
-80047528	喜舍	喜捨	xǐshě	to give in charity; to give alms	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '喜捨')	80047528
-80047529	须焰摩	須焰摩	xūyànmó	Suyama Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	(T 412))	80047529
+8004753	大圆镜智	大圓鏡智	dà yuán jìng zhì	perfect mirrorlike wisdom; ādarśajñāna	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādarśajñāna, Japanese: daienkyōchi, Tibetan: me long lta bu'i ye shes; the forth of the 四智 four kinds of wisdom (BL 'ādarśajñānam', p. 15; Ding '四智'; Mahāvyutpatti 'ādarśajñānam'; FGDB '四智'; SH '四智', p. 176; Tzu Chuang 2012, pp. 384-388)	8004753
+8004754	五浊恶世	五濁惡世	wǔ zhuó è shì	Saha World; the World of Suffering; the Evil World of the Five Turbidities	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五濁 (Tzu Chuang 2012)	8004754
+8004755	檀波罗蜜	檀波羅蜜	tán bōluómì	dana-paramita; the paramita of generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāna-pāramitā; the first of the six paramitas 六度 (FGDB '波羅蜜')	8004755
+8004756	尸波罗蜜	尸波羅蜜	shī bōluómì	sila-paramita; the paramita of proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla-pāramitā; the second of the six paramitas 六度 (FGDB '波羅蜜')	8004756
+8004757	毘离耶	毘離耶	pílíyē	virya; diligence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīrya; the third of the six paramitas 六度 (FGDB '精進')	8004757
+8004758	喜舍	喜捨	xǐshě	to give in charity; to give alms	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '喜捨')	8004758
+8004759	须焰摩	須焰摩	xūyànmó	Suyama Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	(T 412)	8004759
+8004760	半他迦	\N	bàntājiā	Panthaka	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 半託迦 (FGDB '半託迦')	8004760
+8004761	金毘罗竹林	金毘羅竹林	jīnpíluó zhú lín	Kimbila-venuvana; Kimbila-veluvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kimbilā-veṇuvana, Pali: kimbilā-veḷuvana (FGDB '金毘羅竹林')	8004761
+8004762	幻师	幻師	huànshī	magician	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '幻師'; SH '幻師', p. 149)	8004762
+8004763	善	\N	shàn	kusala; virtuous	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent kuśala, Pali: kusala, Japanese: zen; literally meaning 'right, proper, suitable, good' in Sanskrit (BL 'kuśala'; BCSD '善', p. 259; FGDB '善'; MW 'kuśala')	8004763
+8004764	兜率陀	\N	dōushuàituó	Tusita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8004764
+8004765	色究竟天	\N	sè jiūjìng tiān	Akaniṣṭha; Akanistha; Akaniṭṭha; Heaven of Ultimate Form	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha, Pali: akaniṭṭha, Japanese: Shikkuyōten; the eighth and highest heaven in the realm of form; one of the 五淨居天 'five pure abodes' (BL 'Akaniṣṭha'; Ding '色究竟天'; Eitel 'Akanichṭhas', p. 7; FGDB '色究竟天';  Red Pine 2012, loc. 5613; SH '色究竟天', p. 221)	8004765
+8004766	摩醯首罗	摩醯首羅	móxīshǒuluó	Maheshvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Maheśvara; see 大自在天 (FGDB '大自在天')	8004766
+8004767	辟支佛	\N	pìzhī fó	Pratyeka-Buddha; Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; Pali: paccekabuddha; a being that has achieve enlightenment independently without the help of a teachers and does not teach others (BL 'pratyekabuddha'; FGDB '辟支佛')	8004767
+8004768	觉华定自在王如来	覺華定自在王如來	jué huà dìng zìzai wáng rúlái	Realization Flower Meditation At Ease King Tathagata	proper noun	佛	Buddha	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8004768
+8004769	尊容	\N	zūnróng	a revered countenance; a sacred face	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '尊容' 2)	8004769
+8004770	报	報	bào	indirect effect; judgement; retribution	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bao4.mp3	Sanskrit equivalent: vipāka (FGDB '果報'; Guoyu '報' n 1; SH '報'; Tzu Chuang 2012)	8004770
+8004771	四有为相	四有爲相	sì yǒu wèi xiāng	four marks of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四有 (BL 'caturlakṣaṇa', p. 171; SH '四有爲相', p. 176)	8004771
