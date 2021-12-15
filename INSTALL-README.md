@@ -165,7 +165,8 @@ nohup gcloud builds submit --config cloudbuild.yaml . \
 Check that the expected image has been added with the command
 
 ```shell
-gcloud container images list-tags gcr.io/$PROJECT_ID/nti-image
+IMAGE_FAMILY=nti-image
+gcloud container images list-tags gcr.io/${PROJECT_ID}/${IMAGE_FAMILY}
 ```
 
 ## Deploying to Production
