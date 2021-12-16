@@ -1809,7 +1809,7 @@
 8001809	龙女成佛	龍女成佛	lóngnǚ chéngfó	Dragon Maiden attains enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From a story in the 華嚴 Avataṃsaka Sūtra (FGDB '龍女成佛'; SH '四勝身', p. 171)	8001809
 8001810	大乘佛教	\N	dàshèng fójiào	Mahayana Buddhism	proper noun	\N	\N	佛教	Buddhism	大乘佛教	\N	\N	\N	Sanskrit equivalent: mahāyāna, Japanese: daijō, Tibetan: theg pa chen po; a movement that began after the passing of the Buddha distinguished by teachings that described the bodhisattva path to buddhahood (BL 'Mahāyāna', pp. 513-514; FGDB '大乘佛教'; )	8001810
 8001811	如意轮观音	如意輪觀音	rúyì lún guānyīn	Cintamanicakra Avalokitesvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the forms of Avalokitesvara in Tibetan Buddhism (FGDB '如意輪觀音'; SH '如意輪', p. 211)	8001811
-8001812	吽	\N	hōng	hum	onomatopoeia	\N	\N	佛教	Buddhism	\N	\N	\N	hong1.mp3	Sanskrit equivalent: hūṃ (BL 'oṃ maṇ i padme hūṃ', p. 603; DDB '吽'; FGDB ' 吽字義')	8001812
+8001812	吽	\N	hōng	hum	onomatopoeia	\N	\N	佛教	Buddhism	\N	\N	\N	hong1.mp3	Sanskrit equivalent: hūṃ (BL 'oṃ maṇ i padme hūṃ', p. 603; BCSD '吽', p. 247; DDB '吽'; FGDB ' 吽字義')	8001812
 8001813	嗡嘛呢叭咩吽	\N	wēng ma ne bā miē ōu	Mantra of Six Syllables; Om mani padme hum	phrase	咒	mantra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ maṇipadme hūṃ; see 唵嘛呢叭彌吽 (FGDB '唵嘛呢叭彌吽')	8001813
 8001814	唵嘛呢叭咪吽	\N	an ma ne bā mī ōu	Mantra of Six Syllables; Om mani padme hum	phrase	咒	mantra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ maṇipadme hūṃ; see 唵嘛呢叭彌吽 (FGDB '唵嘛呢叭彌吽')	8001814
 8001815	班智达	班智達	bānzhìdá	scholar; pandita	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṇḍita; one skilled in Sanskrit language and scriptures, also used for titles of Tibetan Buddhist scholars (FGDB '班第達')	8001815
@@ -2223,7 +2223,7 @@
 8002223	无能胜菩萨	無能勝菩薩	wúnéngshèng púsà	Aparājita Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無能勝明王 (FGDB '無能勝明王')	8002223
 8002224	大元帅明王	大元帥明王	dàyuánshuài míngwáng	Wisdom King Āṭavaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka; a deity in esoteric Buddhism (FGDB '大元帥明王'; SH '大元帥明王', p. 85; Wikipedia '大元帥明王')	8002224
 8002225	大元帅	\N	dàyuánshuài	Great General; Atavaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka; see 大元帥明王  (FGDB '大元帥明王')	8002225
-8002226	阿吒婆拘	\N	āzhàpójū	Atavaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka; see 大元帥明王  (FGDB '大元帥明王')	8002226
+8002226	阿吒婆拘	\N	āzhàpójū	Atavaka; Atavika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka or āṭavika; see 大元帥明王  (FGDB '大元帥明王'; SH '阿吒婆拘', p. 286)	8002226
 8002227	阿吒薄俱	\N	āzhàbáojū	Atavaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka; see 大元帥明王  (FGDB '大元帥明王')	8002227
 8002228	太元帅明王	太元帥明王	tài yuán shuài míngwáng	Wisdom King Atavaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大元帥明王  (FGDB '大元帥明王')	8002228
 8002229	鬼神大将	鬼神大將	guǐshén dàjiāng	Spirit Commander	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大元帥明王 (FGDB '大元帥明王')	8002229
@@ -4842,3 +4842,17 @@
 8004842	大雄殿	\N	dà xióng diàn	Main Shrine; Hall of the Great Heros; Mahavira Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大雄寶殿 (FGDB '大雄寶殿')	8004842
 8004843	大地狱	大地獄	dà dìyù	great hell; Avici Hell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '八大地獄', p. 35)	8004843
 8004844	光目	\N	Guāng Mù	Bright Eyes	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Character in the Kṣitigarbha Sutra (T 412, Scroll 1)	8004844
+8004845	六时礼拜	六時禮拜	liùshí lǐbài	to worship all day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '六時禮拜')	8004845
+8004846	三涂	三塗	sān tú	the three evil rebirths; the three evil realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三惡趣 (FGDB '三惡趣')	8004846
+8004847	永劫	\N	yǒngjié	eternity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '永劫'; SH '永劫', p. 194)	8004847
+8004848	大愿	大願	dà yuàn	a great vow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of a Buddha or bodhisattva (SH '大願', p. 96)	8004848
+8004849	广度	廣度	guǎng dù	to save many	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '廣度' 3)	8004849
+8004850	阿吒嚩迦	\N	āzhàfújiā	Atavaka; Atavika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka or āṭavika; see 大元帥明王  (SH '阿吒婆拘', p. 286)	8004850
+8004851	阿吒薄倶	\N	āzhàbáojù	Atavaka; Atavika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka or āṭavika; see 大元帥明王  (SH '阿吒婆拘', p. 286)	8004851
+8004852	遏吒薄倶	\N	èzhàbáojù	Atavaka; Atavika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṭavaka or āṭavika; see 大元帥明王  (SH '阿吒婆拘', p. 286)	8004852
+8004853	吽字	\N	hōng zì	hum syllable; hum-kara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃkāra; used in mantras (BCSD '吽字', p. 247; FGDB '吽')	8004853
+8004854	吽迦啰身	吽迦囉身	hōng jiāluóshēn	humkara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃkāra; the syllable hūṃ, a manifestation of Samantabhadra (DDB '吽迦囉身'; SH '吽迦囉身')	8004854
+8004855	吽字明	\N	hōng zì míng	hum syllable vidya; humkara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃkāra (BCSD '吽字明', p. 247; FGDB '吽')	8004855
+8004856	吽字法	\N	hōng zì fǎ	hum syllable ritual; humkara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃkāra (BCSD '吽字法', p. 247; FGDB '吽')	8004856
+8004857	吽字相应法	吽字相應法	hōng zì xiāngyìng fǎ	hum syllable ritual; humkara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃkāra (BCSD '吽字相應法', p. 247; FGDB '吽')	8004857
+8004858	吽字摄	吽字攝	hōng zì shè	hum syllable retention; humkara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃkṛta (BCSD '吽字相應法', p. 247; FGDB '吽')	8004858
