@@ -1898,7 +1898,7 @@
 8001898	紫磨金色母	\N	zǐ mó jīnsè mǔ	Ser-sde-chu	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Ser-sde-chu; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001898
 8001899	如来顶髻母	如來頂髻母	rúlái dǐng jì mǔ	Tara; De-bshin-gśegs-pahi gtsug-tor	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: De-bshin-gśegs-pahi gtsug-tor; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001899
 8001900	怛罗吽字母	怛羅吽字母	dá luó ōu zì mǔ	Tāra hūj yi-ge	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Tāra hūj yi-ge; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001900
-8001901	世	\N	shì	loka; a world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: loka, Pali: loka, J. sekai; seken, Tibetan: jig rten; an abbreviation of 世間 (BL 'loka', pp. 479-480; Ding '世'; FGDB '世'; SH '世', p. 164)	8001901
+8001901	世	\N	shì	loka; a world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: loka, Pali: loka, Japanese: sekai; seken, Tibetan: jig rten; an abbreviation of 世間 (BCSD '世', p. 67; BL 'loka', pp. 479-480; Ding '世'; FGDB '世'; SH '世', p. 164)	8001901
 8001902	释梵火天母	釋梵火天母	shì fàn huǒ tiān mǔ	Tara; Brgya-byin me-lhatshavs-pa	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Brgya-byin me-lhatshavs-pa; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001902
 8001903	特罗胝发母	特囉胝發母	té luō zhī fā mǔ	Tara; Trad-cis-bya-dav phat	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: Trad-cis-bya-dav phat; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001903
 8001904	空行母	\N	kōngxíngmǔ	dakini	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: ḍākinī; see 荼吉尼 (FGDB '荼吉尼')	8001904
@@ -5062,3 +5062,20 @@
 8005062	不一	\N	bùyī	manifold; anekatva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anekatva (BCSD '不一', p. 33; MW 'anekatva')	8005062
 8005063	进	進	jìn	diligence; perseverance	noun	波罗蜜	Paramita	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīrya, Pali: viriya, Japanese: shōjin, Tibetan: brtson 'grus; the forth of the six paramitas; one of the seven kinds of spiritual wealth 七圣财 (BL 'vīrya'; FGDB '進'; MW 'vīrya')	8005063
 8005064	定	\N	dìng	meditative concentration; meditation	noun	波罗蜜	Paramita	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyāna, Pali: jhāna; the fifth of the six paramitas (FGDB '定'; SH '定', p. 224)	8005064
+8005065	且	\N	qiě	moreover; tavat	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tāvat (BCSD '且', p. 67; MW 'tāvat')	8005065
+8005066	禅定	禪定	chándìng	to meditate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 坐禪 (FGDB '禪定')	8005066
+8005067	瞿昙	瞿曇	qútán	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gautama, Pali: gotama, Japanese: Kudon, Tibetan: go ta ma; the surname of the Siddhartha, the historical Buddha, aslo referred to as Śākyamuni (BL 'Gautama', p. 316; Mahāvyutpatti 'gautamaḥ'; FGDB '瞿曇'; SH '瞿曇', p. 466)	8005067
+8005068	安般	\N	ānbān	mindfulness of breathing; anapana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ānāpāna; see 阿那波那 (FGDB '阿那波那')	8005068
+8005069	人间佛教	人間佛教	rénjiān fójiào	Humanistic Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Term coined by Master Taixu (藥師本願經講記 'Lecture on the Medicine Buddha Sūtra'), Venerable Master Hsing Yun's One-Stroke Calligraphy, translation by: Ven. Miao Guang 妙光 (FoguangPedia)	8005069
+8005070	生活禅	生活禪	shēnghuó chán	Chan in Daily Life	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Fo Guang Shan initiative (HB Glossary)	8005070
+8005071	人生佛教	\N	rénshēng fójiào	Buddhism for Human Life; Humanistic Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Term coined by 太虛 Taixu (Hsing Yun 2016, p. 13; Pittman 2001, p. 9)	8005071
+8005072	世人	\N	shìrén	people of the world; jana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jana (BCSD '世', p. 67)	8005072
+8005073	人间净土	人間淨土	rénjiān jìng tǔ	Humanistic Pure Land	proper noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	(FoguangPedia)	8005073
+8005074	参禅	參禪	cān chán	to meditate	verb	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	(Inagaki and O’Neill 2007, p. 277)	8005074
+8005075	参禅	參禪	cān chán	to seek religious instruction; to practice Chan Buddhism	verb	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Japanese: sanzen (FGDB '參禪'; Guoyu '參禪'; Inagaki and O’Neill 2007, p. 277; SH '參禪', p. 343)	8005074
+8005076	驮衍那	馱衍那	duòyǎnnà	meditative concentration; dhyāna; jhāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	chan2.mp3	Sanskrit equivalent: dhyāna, Pali: jhāna, Japanese: zen; see 禪 (FGDB '禪')	8005076
+8005077	持阿那	\N	chíānà	meditative concentration; dhyāna; jhāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	chan2.mp3	Sanskrit equivalent: dhyāna, Pali: jhāna, Japanese: zen; see 禪 (FGDB '禪')	8005077
+8005078	大小乘	\N	dà xiǎo chéng	Mahāyāna and Theravāda	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '大乘')	8005078
+8005079	初禅	初禪	chū chán	first dhyāna; first jhana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prathama-dhyāna, Pali: pathama-jjhāna; one of the four dhyānas 四禪 (FGDB '初禪')	8005079
+8005080	丘	\N	qiū	a steep bank or shore; prapata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prapāta (BCSD '丘'; MW 'prapāta')	8005080
+8005081	二禅	二禪	èr chán	second dhyāna; second jhāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  dvitīya-dhyāna; one of the four dhyānas 四禪 (FGDB '二禪'; SH '二禪', p. 362)	8005081
