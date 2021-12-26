@@ -5,12 +5,11 @@ Alex Amies
 
 ## Abstract
 
-Goals
 Importance and motivation
 - Esoteric Buddhism is an important belief system
 - Important historical, cultural, and language influences and connections between India, China, Japan, Tibet, and other countries
 
-My goals
+Goals
 - Building a bibliographical guide for the Esoteric Section of the Taishō
 - Building a bibliographic guide and digital aid to exploring the texts including English titles, short summary, and other notes for each text
 - Discovering the origin of a large number of works in the Taishō that were not from the Korean canon
