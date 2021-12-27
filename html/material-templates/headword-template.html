@@ -212,6 +212,7 @@
                 </span>
                 <span class="mdc-deprecated-list-item__secondary-text">
                   {{ $doc.ColTitle }} &mdash; count: {{ $doc.Count }}
+                  {{if $doc.HasEngTrans}}, has English translation{{end}}
                 </span>
               </span>
             </li>
