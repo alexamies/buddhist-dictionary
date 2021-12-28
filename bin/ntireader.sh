@@ -5,6 +5,7 @@
 ## DEV_HOME should be set to the location of the chinesenotes.com
 ## CNREADER_HOME should be set to the location of the ntireader.org directory
 
+# Make the directory structure needed for generated files
 export CNREADER_HOME=.
 export WEB_DIR=web-staging
 export DEV_HOME=../chinesenotes.com
@@ -21,6 +22,15 @@ mkdir $WEB_DIR/images
 mkdir $WEB_DIR/script
 mkdir $WEB_DIR/words
 
+# Combine bibliographic notes from different sections of the Taisho
+BIB=data/bibliographical_notes
+E=taisho_esoteric_section
+A=taisho_agama_section
+cat ${BIB}/${A}_ref2file.csv ${BIB}/${E}_ref2file.csv > ${BIB}/ref2file.csv 
+cat ${BIB}/${A}_english_translations.csv ${BIB}/${E}_english_translations.csv > ${BIB}/english_translations.csv 
+cat ${BIB}/${A}_parallels.csv ${BIB}/${E}_parallels.csv > ${BIB}/parallels.csv 
+
+# General HTML pages
 go install github.com/alexamies/cnreader@latest
 cnreader
 cnreader -hwfiles

@@ -25,7 +25,10 @@ NotesReMatch: "(T ([0-9]))(\)|,|;)","(T ([0-9]{2}))(\)|,|;)","(T ([0-9]{3}))(\)|
 NotesReplace: "<a class='regular' href='/taisho/t000${2}.html'>${1}</a>${3}","<a class='regular' href='/taisho/t00${2}.html'>${1}</a>${3}","<a class='regular' href='/taisho/t0${2}.html'>${1}</a>${3}","<a class='regular' href='/taisho/t${2}.html'>${1}</a>${3}"
 
 # Bibliographic notes: collection file name to reference no. mapping
-File2Ref: data/bibliographical_notes/taisho_esoteric_section_ref2file.csv
+File2Ref: data/bibliographical_notes/ref2file.csv
+
+# Bibliographic notes: collection reference no. to parallel text versions
+RefNo2ParallelKey: data/bibliographical_notes/parallels.csv
 
 # Bibliographic notes: collection reference no. to English translations
-RefNo2Trans: data/bibliographical_notes/taisho_esoteric_section_english_translations.csv
+RefNo2Trans: data/bibliographical_notes/english_translations.csv
