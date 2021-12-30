@@ -27,9 +27,10 @@ BIB=data/bibliographical_notes
 A=taisho_agama_section
 E=taisho_agama_section
 J=taisho_jataka_avadana_section
-cat ${BIB}/${A}_ref2file.csv ${BIB}/${E}_ref2file.csv ${BIB}/${J}_ref2file.csv > ${BIB}/ref2file.csv 
-cat ${BIB}/${A}_english_translations.csv ${BIB}/${E}_english_translations.csv ${BIB}/${J}_english_translations.csv > ${BIB}/english_translations.csv 
-cat ${BIB}/${A}_parallels.csv ${BIB}/${E}_parallels.csv ${BIB}/${J}_parallels.csv > ${BIB}/parallels.csv 
+P=taisho_prajnaparamita_section
+cat ${BIB}/${A}_ref2file.csv ${BIB}/${E}_ref2file.csv ${BIB}/${J}_ref2file.csv ${BIB}/${P}_ref2file.csv > ${BIB}/ref2file.csv 
+cat ${BIB}/${A}_english_translations.csv ${BIB}/${E}_english_translations.csv ${BIB}/${J}_english_translations.csv ${BIB}/${P}_english_translations.csv > ${BIB}/english_translations.csv 
+cat ${BIB}/${A}_parallels.csv ${BIB}/${E}_parallels.csv ${BIB}/${J}_parallels.csv ${BIB}/${P}_parallels.csv > ${BIB}/parallels.csv 
 
 # General HTML pages
 go install github.com/alexamies/cnreader@latest
