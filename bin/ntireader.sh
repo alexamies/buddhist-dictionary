@@ -37,9 +37,11 @@ R=taisho_ratnakuta_nirvana_section
 S=taisho_sastra_section
 SA=taisho_sastra_abhi_section
 SC=taisho_sutra_commentary_section
+SCS=taisho_sc_schools_section
 SSC=taisho_sastra_commentary_section
 T=taisho_treatises_section
 V=taisho_vinaya_section
+VC=taisho_various_schools_section
 Y=taisho_yogacara_section
 cat ${BIB}/${A}_ref2file.csv \
   ${BIB}/${J}_ref2file.csv \
@@ -57,7 +59,9 @@ cat ${BIB}/${A}_ref2file.csv \
   ${BIB}/${Y}_ref2file.csv \
   ${BIB}/${T}_ref2file.csv \
   ${BIB}/${SC}_ref2file.csv \
-  ${BIB}/${SSC}_ref2file.csv > ${BIB}/ref2file.csv 
+  ${BIB}/${SSC}_ref2file.csv \
+  ${BIB}/${SCS}_ref2file.csv \
+  ${BIB}/${VC}_ref2file.csv > ${BIB}/ref2file.csv 
 cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${J}_english_translations.csv \
   ${BIB}/${P}_english_translations.csv \
@@ -74,7 +78,9 @@ cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${Y}_english_translations.csv \
   ${BIB}/${T}_english_translations.csv \
   ${BIB}/${SC}_english_translations.csv \
-  ${BIB}/${SSC}_english_translations.csv > ${BIB}/english_translations.csv 
+  ${BIB}/${SSC}_english_translations.csv \
+  ${BIB}/${SCS}_english_translations.csv \
+  ${BIB}/${VC}_english_translations.csv > ${BIB}/english_translations.csv 
 cat ${BIB}/${A}_parallels.csv \
   ${BIB}/${J}_parallels.csv \
   ${BIB}/${P}_parallels.csv \
