@@ -775,7 +775,7 @@
 8000775	染部捺陀金	\N	rǎnbùnà tuó jīn	Jambu-river gold	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 閻浮檀金 (FGDB '閻浮檀金')	8000775
 8000776	僧脚崎	\N	sēngjiǎoqí	a monk's draperies, belt, and undergarment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(T 2125, Scroll 2)	8000775
 8000777	实有	實有	shí yǒu	absolute reality; substantial unchanging existence; something truly existing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Cock 1999, p. 398; FGDB '實有')	8000777
-8000778	真性	\N	zhēn xìng	inherent nature; essence; true nature; dharmatā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  dharmatā, Japanese: hosshō, Tibetan: chos nyid (BL 'dharmatā'; FGDB '真性')	8000778
+8000778	真性	\N	zhēn xìng	inherent nature; essence; true nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  tathātā, or: dharmatā, Japanese: hosshō, Tibetan: de bzhin nyid (BL 'dharmatā'; FGDB '真性', Mahāvyutpatti 'tathātā'; SH '眞性', p. 332)	8000778
 8000779	十法界	\N	shí fǎjiè	ten dharma realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十界 (SH '十法界', p. 51; Tzu Chuang 2012)	8000779
 8000780	舍罗婆迦	舍羅婆迦	shěluópójiā	sravaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka; se 聲聞 (FGDB '聲聞')	8000780
 8000781	声闻	聲聞	shēngwén	sravaka; a distinguished disciple of the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka, Pali: sāvaka, Japanese: shōmon, Tibetan: nyan thos; literally, a listener (BL 'śrāvaka', p. 850; FGDB '聲聞'; Powers 2007, p. 107; SH '聲聞', p. 462)	8000781
@@ -5149,3 +5149,6 @@
 8005148	嚫物	\N	chènwù	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '嚫物')	8005148
 8005149	嚫资	嚫資	chènzī	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From practicing charity (FGDB '嚫物'; SH '嚫', p. 470)	8005149
 8005150	嚫财	嚫財	chèncái	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From practicing charity (SH '嚫', p. 470)	8005150
+8005151	我所见	我所見	wǒ suǒ jiàn	the view of possession	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB'我所見'; Wikipedia '我所見', p. 238)	8005151
+8005152	眞性	\N	zhēnxìng	true nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 真性 (FGDB '真性')	8005152
+8005153	德本	\N	déběn	virtuous roots; wholesome roots; kuśalamūla	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalamūla, Pali: kusalamūla. There are different enumerations of wholesome roots. One is (1) alobha 'nongreed,' (2) adveṣa 'nonhatred,' and (3) nondelusion 'amoha.' (BL 'kuśalamūla'; FGDB '善根')	8005153
