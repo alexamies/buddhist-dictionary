@@ -25,16 +25,22 @@ mkdir $WEB_DIR/words
 # Combine bibliographic notes from different sections of the Taisho
 BIB=data/bibliographical_notes
 A=taisho_agama_section
+AB=taisho_abhidharma_section
 C=taisho_compilation_section
 E=taisho_agama_section
 J=taisho_jataka_avadana_section
 L=taisho_lotus_huayan_section
 M=taisho_misc_section
+MY=taisho_madhyamaka_section
 P=taisho_prajnaparamita_section
 R=taisho_ratnakuta_nirvana_section
 S=taisho_sastra_section
 SA=taisho_sastra_abhi_section
+SC=taisho_sutra_commentary_section
+SSC=taisho_sastra_commentary_section
+T=taisho_treatises_section
 V=taisho_vinaya_section
+Y=taisho_yogacara_section
 cat ${BIB}/${A}_ref2file.csv \
   ${BIB}/${J}_ref2file.csv \
   ${BIB}/${P}_ref2file.csv \
@@ -45,7 +51,13 @@ cat ${BIB}/${A}_ref2file.csv \
   ${BIB}/${E}_ref2file.csv \
   ${BIB}/${V}_ref2file.csv \
   ${BIB}/${S}_ref2file.csv \
-  ${BIB}/${SA}_ref2file.csv > ${BIB}/ref2file.csv 
+  ${BIB}/${SA}_ref2file.csv \
+  ${BIB}/${AB}_ref2file.csv \
+  ${BIB}/${MY}_ref2file.csv \
+  ${BIB}/${Y}_ref2file.csv \
+  ${BIB}/${T}_ref2file.csv \
+  ${BIB}/${SC}_ref2file.csv \
+  ${BIB}/${SSC}_ref2file.csv > ${BIB}/ref2file.csv 
 cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${J}_english_translations.csv \
   ${BIB}/${P}_english_translations.csv \
@@ -56,7 +68,13 @@ cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${E}_english_translations.csv \
   ${BIB}/${V}_english_translations.csv \
   ${BIB}/${S}_english_translations.csv \
-  ${BIB}/${SA}_english_translations.csv > ${BIB}/english_translations.csv 
+  ${BIB}/${SA}_english_translations.csv \
+  ${BIB}/${AB}_english_translations.csv \
+  ${BIB}/${MY}_english_translations.csv \
+  ${BIB}/${Y}_english_translations.csv \
+  ${BIB}/${T}_english_translations.csv \
+  ${BIB}/${SC}_english_translations.csv \
+  ${BIB}/${SSC}_english_translations.csv > ${BIB}/english_translations.csv 
 cat ${BIB}/${A}_parallels.csv \
   ${BIB}/${J}_parallels.csv \
   ${BIB}/${P}_parallels.csv \
@@ -67,7 +85,13 @@ cat ${BIB}/${A}_parallels.csv \
   ${BIB}/${E}_parallels.csv \
   ${BIB}/${V}_parallels.csv \
   ${BIB}/${S}_parallels.csv \
-  ${BIB}/${SA}_parallels.csv > ${BIB}/parallels.csv 
+  ${BIB}/${SA}_parallels.csv \
+  ${BIB}/${AB}_parallels.csv \
+  ${BIB}/${MY}_parallels.csv \
+  ${BIB}/${Y}_parallels.csv \
+  ${BIB}/${Y}_parallels.csv \
+  ${BIB}/${SC}_parallels.csv \
+  ${BIB}/${SSC}_parallels.csv > ${BIB}/parallels.csv 
 
 # General HTML pages
 go install github.com/alexamies/cnreader@latest
