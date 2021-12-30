@@ -25,29 +25,49 @@ mkdir $WEB_DIR/words
 # Combine bibliographic notes from different sections of the Taisho
 BIB=data/bibliographical_notes
 A=taisho_agama_section
+C=taisho_compilation_section
 E=taisho_agama_section
 J=taisho_jataka_avadana_section
 L=taisho_lotus_huayan_section
+M=taisho_misc_section
 P=taisho_prajnaparamita_section
 R=taisho_ratnakuta_nirvana_section
+S=taisho_sastra_section
+SA=taisho_sastra_abhi_section
+V=taisho_vinaya_section
 cat ${BIB}/${A}_ref2file.csv \
-  ${BIB}/${E}_ref2file.csv \
   ${BIB}/${J}_ref2file.csv \
   ${BIB}/${P}_ref2file.csv \
   ${BIB}/${L}_ref2file.csv \
-  ${BIB}/${R}_ref2file.csv > ${BIB}/ref2file.csv 
+  ${BIB}/${R}_ref2file.csv \
+  ${BIB}/${C}_ref2file.csv \
+  ${BIB}/${M}_ref2file.csv \
+  ${BIB}/${E}_ref2file.csv \
+  ${BIB}/${V}_ref2file.csv \
+  ${BIB}/${S}_ref2file.csv \
+  ${BIB}/${SA}_ref2file.csv > ${BIB}/ref2file.csv 
 cat ${BIB}/${A}_english_translations.csv \
-  ${BIB}/${E}_english_translations.csv \
   ${BIB}/${J}_english_translations.csv \
   ${BIB}/${P}_english_translations.csv \
+  ${BIB}/${L}_english_translations.csv \
   ${BIB}/${R}_english_translations.csv \
-  ${BIB}/${L}_english_translations.csv > ${BIB}/english_translations.csv 
+  ${BIB}/${C}_english_translations.csv \
+  ${BIB}/${M}_english_translations.csv \
+  ${BIB}/${E}_english_translations.csv \
+  ${BIB}/${V}_english_translations.csv \
+  ${BIB}/${S}_english_translations.csv \
+  ${BIB}/${SA}_english_translations.csv > ${BIB}/english_translations.csv 
 cat ${BIB}/${A}_parallels.csv \
-  ${BIB}/${E}_parallels.csv \
   ${BIB}/${J}_parallels.csv \
   ${BIB}/${P}_parallels.csv \
   ${BIB}/${L}_parallels.csv \
-  ${BIB}/${R}_parallels.csv > ${BIB}/parallels.csv 
+  ${BIB}/${R}_parallels.csv \
+  ${BIB}/${C}_parallels.csv \
+  ${BIB}/${M}_parallels.csv \
+  ${BIB}/${E}_parallels.csv \
+  ${BIB}/${V}_parallels.csv \
+  ${BIB}/${S}_parallels.csv \
+  ${BIB}/${SA}_parallels.csv > ${BIB}/parallels.csv 
 
 # General HTML pages
 go install github.com/alexamies/cnreader@latest
