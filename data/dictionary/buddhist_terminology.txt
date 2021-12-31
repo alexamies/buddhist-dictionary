@@ -4252,7 +4252,7 @@
 8004252	大烧炙	大燒炙	dà shāozhì	Mahatapana Hell	proper noun	地狱	Hell	佛教	Buddhism	\N	\N	\N	\N	One of the Eighteen Hells (SH '大燒炙獄', p. 92)	8004252
 8004253	孤独地狱	孤獨地獄	gūdú dì yù	The Isolated Hells	proper noun	地狱	Hell	佛教	Buddhism	\N	\N	\N	\N	Included in the Eighteen Hells (Tzu Chuang 2012, pp. 119-124)	8004253
 8004254	近边地狱	近邊地獄	jìn biān dì yù	The Adjacent Hells	proper noun	地狱	Hell	佛教	Buddhism	\N	\N	\N	\N	Included in the Eighteen Hells (Tzu Chuang 2012, pp. 119-124)	8004254
-8004255	本续	本續	běnxù	tantra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CBCSD '本續', p. 645; Willemen 2004, p. 25)	8004255
+8004255	本续	本續	běnxù	tantra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '本續', p. 645; Willemen 2004, p. 25)	8004255
 8004256	尊胜曼荼罗	尊勝曼荼羅	zūnshèng màntúluó	Supreme Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mandala with 毘盧遮那 Vairocana in the center, used in esoteric rituals as described in 佛頂尊勝陀羅尼念誦儀軌法 Pinnacle Dharani of the Supreme Honored One and 尊勝佛頂脩瑜伽法軌儀 Supreme Buddha Crown Yoga Cultivation Ritual Manual (FGDB '尊勝曼荼羅'; T 972; T 973)	8004256
 8004257	尊胜佛顶曼荼罗	尊勝佛頂曼荼羅	zūnshèng fódǐng màntúluó	Usnisavijaya Mandala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尊勝曼荼羅 (FGDB '尊勝曼荼羅')	8004257
 8004258	豊山	\N	fēngshān	Buzan	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Variant writing of 豐山 (JEBD '豊山派', p. 29; Wikipedia '真言宗豊山派')	8004258
@@ -5155,3 +5155,23 @@
 8005155	中论	中論	zhōng lùn	Mūlamadhyamakakārikā; Fundamental Verses on the Middle Way; Knowledge of the Middle Way; Mulamadhyamakakarika; madhyamakasastra	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: mūlamadhyamakakārikā, or madhyamakaśāstra, Japanese: Chūron; the Mūlamadhyamakakārikā is a key text in Mahāyāna Buddhism attributed to 龍樹 Nāgārjuna. The Chinese version includes Piṅgala's commentary (BL 'Mūlamadhyamakakārikā'; FGDB '中論'; KDC 577; T 1564).	8005155
 8005156	嚫金	\N	chènjīn	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From practicing charity (SH '嚫', p. 470)	8005156
 8005157	本文	\N	běnwén	textual composition; grantha	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: grantha (BCSD '本文', p. 643; Mahāvyutpatti 'granthaḥ'; MW 'grantha')	8005157
+8005158	嚫钱	嚫錢	chènqián	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From practicing charity (SH '嚫', p. 470)	8005158
+8005159	堂嚫	\N	tángchèn	a gift to the Sangha; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '堂䞋')	8005159
+8005160	堂䞋	\N	tángchèn	a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '堂䞋')	8005160
+8005161	本面	\N	běnmiàn	own form; svarūpa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svarūpa (BCSD '本面', p. 644; Mahāvyutpatti 'svarūpam'; MW 'svarūpa')	8005161
+8005162	接足礼	接足禮	jiē zú lǐ	to prostrate oneself on the ground	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 五體投地 (FGDB '五體投地')	8005162
+8005163	本处	本處	běnchù	one's own place; own home; svasthāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '本處', p. 644; MW 'svasthāna')	8005163
+8005164	俵嚫	\N	biǎochèn	to give a gift	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In practicing charity (FGDB '布施')	8005164
+8005165	上嚫	\N	shàngchèn	to offer money in a temple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In practicing charity (FGDB '布施')	8005165
+8005166	本部	\N	běnbù	own kin; svakula	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: svakula (BCSD '本部', p. 644; MW 'svakula')	8005166
+8005167	本部印	\N	běn bù yìn	mudra of one's own group; kulamudra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kula-mudra (BCSD '本部印', p. 644)	8005167
+8005168	显明	顯明	xiǎnmíng	pure; without defilements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '顯明')	8005168
+8005169	觉	覺	jué	bodhi; enlightenment; awakening	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jue2.mp3	Sanskrit equivalent: bodhi, same in Pali, literally meaning 'awakened', similar in meaning to 覺. Bodhi is the all-knowledge of a Buddha 佛, pratyekabuddha 獨覺, or śrāvaka 聲聞. In Theravāda Buddhism bodhi refers to perfect insight into the Four Noble Truths 四聖諦 (BL 'bodhi'; BCSD '覺', p. 1062; FGDB '菩提'; Shambhala 'bodhi').	8005169
+8005170	一切智	\N	yīqiè zhì	sarvajñatā; all-knowledge; omniscience	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñatā, Pali: sabbaññu, Japanese: issai-chi, Tibetan: kun shes, or: thams cad mkhy en pa; referring to the knowledge of a Buddha (BL 'sarvajñatā', p. 779; Conze, 1973, p. 303; Ding '萨婆若'; FGDB '一切智'; JEBD 'issai-chi'; SH '萨婆若').	8005170
+8005171	觉真	覺真	juézhēn	prabuddha-tattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabuddha-tattva (BCSD '覺眞', p. 1063)	8005171
+8005172	觉眞	覺眞	juézhēn	prabuddha-tattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabuddha-tattva; variant of 覺真 (BCSD '覺眞', p. 1063)	8005172
+8005173	觉悟	覺悟	juéwù	to awaken to the truth of reality; to become enlightened	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhi (BCSD '覺悟', p. 1063; FGDB '覺悟'; SH '覺悟', p. 480)	8005173
+8005174	觉心	覺心	juéxīn	mind of enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhicitta (BCSD '覺心', p. 1062; FGDB '覺心'; SH '覺心', p. 480)	8005174
+8005175	觉因	覺因	jué yīn	cause of enlightenment; bodhi-bīja	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhicitta (BCSD  '覺因', p. 1063)	8005175
+8005176	觉观	覺觀	jué guān	awareness and discrimination; coarse awareness and fine perception	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitarka-vicāra; 覺 awareness relates to coarse mental processes and 觀 to fine or subtle mental processes; see (BCSD '覺觀', p. 1064; Ding '覺觀'; FGDB '覺觀'; SH '覺觀', p. 481)	8005176
+8005177	东瓜茄子	東瓜茄子	dōng guā qiézi	melons and eggplants; triffles	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Guoyu '東瓜茄子')	8005177
