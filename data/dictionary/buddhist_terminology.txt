@@ -1717,7 +1717,7 @@
 8001717	修禅	修禪	xiū chán	to meditate; to cultivate through meditation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 修禪定(Ding '修禪定')	8001717
 8001718	半讬迦	半託迦	bàntuōjiā	Panthaka	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	One of the 十六羅漢 'sixteen Arhats', born on the road (Ding '半託迦'; FGDB '半託迦'; SH '半託迦', p. 168)	8001718
 8001719	槃陀迦	\N	pántuójiā	Panthaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 半託迦 (SH '半託迦', p. 168)	8001719
-8001720	诸天	諸天	zhū tiān	devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '諸天'; SH '諸天', p. 450)	8001720
+8001720	诸天	諸天	zhū tiān	devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '諸天', p. 1087; FGDB '諸天'; SH '諸天', p. 450)	8001720
 8001721	立地成佛	\N	lì dì chéng fó	to become a Buddha on the spot; instant rehabilitation; to repent and be absolved of one's crimes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: from Koan 4 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 35; T 2003, Scroll 1; CC-CEDICT '立地成佛')	8001721
 8001722	善财	善財	shàncái	Sudhana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sudhana, Japanese: Zenzai, Tibetan: nor bzang; the main character in the final section of the 華嚴經 Avataṃsakasūtra (BL 'Sudhana'; FGDB '善財童子'; SH '財童子', p. 359)	8001722
 8001723	六字大明咒	\N	liù zì dà míng zhòu	Mantra of Six Syllables; Om mani padme hum	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣaḍakṣarī, Japanese: rokujidaimyō, Tibetan: yi ge drug pa'i rig sngags; refers to the mantra 嗡嘛呢叭咩吽 Oṃ maṇi padme hūṃ, also known as the six syllabled mantra (BL 'ṣaḍakṣarī'; FGDB '六字大明咒')	8001723
@@ -5175,3 +5175,17 @@
 8005175	觉因	覺因	jué yīn	cause of enlightenment; bodhi-bīja	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhicitta (BCSD  '覺因', p. 1063)	8005175
 8005176	觉观	覺觀	jué guān	awareness and discrimination; coarse awareness and fine perception	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitarka-vicāra; 覺 awareness relates to coarse mental processes and 觀 to fine or subtle mental processes; see (BCSD '覺觀', p. 1064; Ding '覺觀'; FGDB '覺觀'; SH '覺觀', p. 481)	8005176
 8005177	东瓜茄子	東瓜茄子	dōng guā qiézi	melons and eggplants; triffles	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Guoyu '東瓜茄子')	8005177
+8005178	诸	諸	zhū	all; many; sarva	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva (BCSD '諸', p. 1087; MW 'sarva'; SH '諸', p. 450)	8005178
+8005179	诸人	諸人	zhū rén	people; jana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jana; used in addressing others (BCSD '諸人', p. 1087; Karashima 2001, p. 510; MW 'jana')	8005179
+8005180	六隨念	\N	liù suí niàn	the six contemplations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六念 (FGDB '六念')	8005180
+8005181	六念处	六念處	liù niànchù	the six contemplations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六念 (FGDB '六念')	8005181
+8005182	六念法	\N	liù niàn fǎ	the six contemplations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六念 (FGDB '六念')	8005182
+8005183	说教	說教	shuōjiāo	to teach the Dharma	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法施 (FGDB '法施')	8005183
+8005184	大乘论	大乘論	dàshèng lùn	Abhidharma of the Mahāyāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma; the Mahāyāna version of the Abhidharma, gives an orderly summary and commentary on the Mahāyāna sutras (FGDB '大乘論'; SH '大乘論', p. 84)	8005184
+8005185	大乘阿毘昙	大乘阿毘曇	dàshèng āpítán	Abhidharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma; ee 大乘論(FGDB '大乘論')	8005185
+8005186	小乘论	小乘論	xiǎo shèng lùn	Abhidhamma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (FGDB '小乘論')	8005186
+8005187	小乘阿毘昙	小乘阿毘曇	xiǎo shèng āpítán	Abhidhamma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (FGDB '小乘論')	8005187
+8005188	去粘解缚	去粘解縛	qù nián jiě fú	eliminate grasping and be free from bonds	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: from the Preface by Yucen Xiuxiu to 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 9; T 2003, Scroll 1; FGDB '去粘解縛')	8005188
+8005189	宝镜	寶鏡	bǎojìng	jeweled mirror	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A ritual object in esoteric Buddhist practice (FGDB '寶鏡')	8005189
+8005190	阿毘达磨	阿毘達磨	āpídámó	Abhidharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (FGDB '阿毘曇')	8005190
+8005191	诸力	諸力	zhūlì	powers; bala	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bala (BCSD '諸力', p. 1087; MW 'bala')	8005191
