@@ -3286,7 +3286,7 @@
 8003286	野	\N	yě	ya	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ya, Siddham: 𑖧; the first semivowel in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '野', p. 1179; FGDB '野'; MW 'ya'; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003286
 8003287	夜	\N	yè	ya	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ya; see 野 (FGDB '野')	8003287
 8003288	耶	\N	yé	ya	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ya; see 野 (FGDB '野')	8003288
-8003289	乘	\N	shèng	vehicle; a school of teaching; yana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yāna, Japanese: jō, Tibetan: theg pa; 乘 is a teaching or vehicle for arriving at knowledge, such as the 大乘 mahāyāna 'great vehicle' (BL 'yāna', p. 1020; Guoyu '乘' shèng n 3; Kroll 2015 '乘 shèng' 2, p. 48; Mathews 1931 '乘', p. 52; MW 'yāna'; SH '乘'', p. 320)	8003289
+8003289	乘	\N	shèng	vehicle; a school of teaching; yana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yāna, Japanese: jō, Tibetan: theg pa; 乘 is a teaching or vehicle for arriving at knowledge, such as the 大乘 mahāyāna 'great vehicle' (BCSD '乘', p. 76; BL 'yāna', p. 1020; Guoyu '乘' shèng n 3; Kroll 2015 '乘 shèng' 2, p. 48; Mathews 1931 '乘', p. 52; MW 'yāna'; SH '乘'', p. 320)	8003289
 8003290	啰	囉	luó	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra, Siddham: 𑖨; the second semivowel in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '囉', p. 277; FGDB '囉'; MW 'ra'; SH '囉', p. 486; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003290
 8003291	罗	羅	luó	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra; see 囉 (FGDB '囉')	8003291
 8003292	洛	\N	luò	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra; see 囉 (FGDB '囉')	8003292
@@ -5223,3 +5223,14 @@
 8005223	法相	\N	fǎ xiāng	notions of dharmas; the essential nature of different phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmasaṃjñā (FGDB '法相'; SH '法相', p. 271)	8005223
 8005224	法相	\N	fǎ xiāng	the essential differences between different teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法相')	8005224
 8005225	法相	\N	fǎ xiāng	the truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法相')	8005225
+8005226	人	\N	rén	person; manuṣya; puruṣa; pudgala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manuṣya, or: puruṣa, or: pudgala (BCSD '人', p. 92; MW 'pudgala'; SH '人', p. 31)	8005226
+8005227	愚痴	愚癡	yúchī	ignorance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Buddhism, the third of the three poisons (Tzu Chuang 2012)	8005227
+8005228	人见	人見	rén jiàn	the view of a person; view of a self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '人見', p. 32)	8005228
+8005229	乖	\N	guāi	abandoned; hīna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hīna (BCSD '乖', p. 76)	8005229
+8005230	众生见	眾生見	zhòngshēng jiàn	the view of a being	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '眾生見')	8005230
+8005231	寿者见	壽者見	shòuzhě jiàn	the view of a lifespan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '眾生見')	8005231
+8005232	贤圣	賢聖	xián shèng	noble ones	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āryapudgala, Pali: ariyapuggala, Japanese: kenjō. May also translate the Sanskrit words bhadra and ārya to mean 'wise and sagely.' The four āryapudgala are: 1. 須陀洹 srotaāpanna 'stream enterer', 2. 斯陀含 sakṛdāgāmin 'once returner', 3. 阿那含 anāgāmin 'non-returner', 4. 阿羅漢 arhat (BL 'āryapudgala'; Ding '賢聖'; FGDB '賢聖'; Kieschnick and Wiles 2017, vol. 1, p. 60; SH '賢聖', p. 444)	8005232
+8005233	入流	\N	rùliú	Sotapanna; Srotaāpanna; Stream-Enterer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須陀洹	8005233
+8005234	大三千大千世界	\N	dà sān qiān dà qiān shìjiè	trisāhasramahāsāhasralokadhātu; a great chiliocosm; trichiliocosm; the cosmos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三千大千世界 (FGDB '三千大千世界')	8005234
+8005235	乘车	乘車	chéngchē	to ride in a carriage; yānarūḍha	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sanskrit equivalent: yānarūḍha (BCSD '乘車', p. 76)	8005235
+8005236	乘	\N	chéng	mounted; ārūḍha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārūḍha (BCSD '乘', p. 76; MW 'ārūḍha'	8003289
