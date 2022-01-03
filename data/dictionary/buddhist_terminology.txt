@@ -1,5 +1,5 @@
 # Copyright Fo Guang Shan 佛光山 2021. May be reused under the Creative Commons Attribution-Share Alike 3.0 License (CCASE 3.0), https://creativecommons.org/licenses/by-sa/3.0/
-8000002	乞食	\N	qǐshí	to beg for food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paiṇḍapātika, Pali: piṇḍapāta (FGDB '乞食')	8000002
+8000002	乞食	\N	qǐshí	to beg for food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paiṇḍapātika, Pali: piṇḍapāta, Tibetan: bsod snyoms pa (BCSD '乞食', p. 78; FGDB '乞食'; Mahāvyutpatti 'paiṇḍapātikaḥ'; MW 'paiṇḍapātika'; SH '乞食', p. 80)	8000002
 8000003	阿跋摩罗	阿跋摩羅	ābámóluó	apasmāra; apasmāraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apasmāra, or: apasmāraka; a type of demon (Karashima 2001)	8000003
 8000004	七宝	七寶	qī bǎo	seven treasures; saptaratna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptaratna; 1. gold, 2. silver, 3. lapis lazuli, 4. crystal, 5. agate, 6. ruby, 7. jade or cornelian (FGDB '七寶'; SH '七寶', p. 12)	8000004
 8000005	加护	加護	jiā hù	to help protect	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '加護'; FGDB '加護')	8000005
@@ -5244,3 +5244,19 @@
 8005244	乞丐	\N	qǐgài	beggar; vanīpaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vanīpaka (BCSD '乞丐', p. 78; MW '乞丐' 2; SH '乞丐', p. 269)	8005244
 8005245	阿兰攘	阿蘭攘	ālánrǎng	a forest retreat; a secluded place to practice; araṇya; arañña; aranya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005245
 8005246	阿兰拏	阿蘭拏	ālánná	a forest retreat; a secluded place to practice; araṇya; arañña; aranya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005246
+8005247	练若	練若	liànruò	a forest retreat; a secluded place to practice; araṇya; arañña; aranya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005247
+8005248	阿兰若迦	阿蘭若迦	ālánruòjiā	a forest dweller; a forest practioner	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005248
+8005249	摩登伽	\N	módēngjiā	untouchable; dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	An India caste with social stratum below the level of ordinary people (FGDB '摩登伽')	8005249
+8005250	也	\N	yě	ya	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ya; first semivowel in the Sanskrit alphabet (BCSD '也', p. 78; MW 'ya')	8005250
+8005251	摩灯伽	摩燈伽	módēngjiā	untouchable; dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 摩登伽 (FGDB '摩登伽')	8005251
+8005252	摩邓伽	摩鄧伽	módèngjiā	untouchable; dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 摩登伽 (FGDB '摩登伽')	8005252
+8005253	摩瞪	\N	módèng	untouchable; dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 摩登伽 (FGDB '摩登伽')	8005253
+8005254	摩登祇	\N	módēngqí	a female untouchable; a female dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 摩登伽 (FGDB '摩登伽')	8005254
+8005255	也他	\N	yětā	as; for instance; yathā	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yathā; a Sanskrit indeclinable (BCSD '也他', p. 78; MW 'yathā')	8005255
+8005256	燃灯佛	燃燈佛	rándēng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpaṃkara, Pali: dīpaṃkar; see 然燈佛 (FGDB '然燈佛')	8005256
+8005257	憍昙弥	憍曇彌	jiāotánmí	Gautamī; Mahāprajāpatī Gautamī; Mahāpajāpatī Gotamī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gautamī, Pali: gotamī. Full name Mahāprajāpatī Gautamī (Sanskrit), Mahāpajāpatī Gotamī (Pali), was the Buddha's aunt and foster mother. She was the first woman to be ordained into the Sangha (FGDB '憍曇彌')	8005257
+8005258	灌腊	灌臘	guànlà	to bathe a Buddha statue with water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '灌臘')	8005258
+8005259	我有	\N	wǒ yǒu	the illusion of the existence of self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '我有', p. 238)	8005259
+8005260	普光佛	\N	pǔguāng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	see 然燈佛 (FGDB '然燈佛')	8005260
+8005261	锭光佛	錠光佛	dìngguāng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpaṃkara, Pali: dīpaṃkara; see 然燈佛 (FGDB '然燈佛')	8005261
+8005262	乳	\N	rǔ	breast; stana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stanaḥ, Tibetan: nu ma (BCSD '乳', p. 78; Mahāvyutpatti 'stanaḥ'; MW 'stana')	8005262
