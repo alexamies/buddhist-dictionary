@@ -3258,7 +3258,7 @@
 8003258	多	\N	duō	many; aneka	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anekam, Tibetan: du ma (BCSD '多', p. 313; FGDB '多'; MW 'ta'; SH '多', p. 209; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003257
 8003259	哆	\N	duō	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ta; see 多 (FGDB '多')	8003259
 8003260	怛	\N	dá	ta	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ta; see 多 (FGDB '多')	8003260
-8003261	他	\N	tā	tha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003252
+8003261	他	\N	tā	ṭha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha; see 咤 (FGDB '咤')	8003252
 8003262	住处	住處	zhùchù	dwelling place; sthana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthāna (MW 'sthāna'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003262
 8003263	娜	\N	nà	da	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: da, Siddham: 𑖟; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” representing 施 dāna 'giving' (BCSD '娜', p. 364; FGDB '娜'; MW 'da'; SH '娜', p. 323; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003263
 8003264	驮	馱	duò	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha, Siddham: 𑖠; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” representing 法界 dharmadhātu (BCSD '馱', p. 1282; FGDB '馱'; MW 'dha'; SH '馱', p. 430; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003264
@@ -5334,9 +5334,27 @@
 8005334	鞞舍	鞞舍	bīshē	Vaishya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: vaiśya; see 毘舍 (FGDB '毘舍')	8005334
 8005335	亮	\N	liàng	ray of light; aṃśu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṃśuḥ, Tibetan: gsal ba'am 'od zer (BCSD '亮', p. 91; Mahāvyutpatti 'aṃśuḥ'; MW 'aṃśuḥ')	8005335
 8005336	天祠	\N	tiāncí	devalaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devālaya, or: devatāgāra, or: devatāgṛha; a Brahminical sacrifial hall (FGDB '天祠'; MW 'devālaya'; SH '天祠', p. 146)	8005336
-8005336	摩	\N	mó	Māyā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 1994)	8003280
 8005337	庄校	莊校	zhuāngjiào	to decorate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2001)	8005337
 8005338	綖经	綖經	yánjīng	a sutra; a sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '綖經'; SH '綖經', p. 409)	8005338
 8005339	线经	線經	xiànjīng	sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 綖經 (SH '綖經', p. 409)	8005339
 8005340	无为法	無為法	wúwèi fǎ	an unconditioned dhárma; asaṃskṛta-dhárma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṁskṛtaprabhāvitā; a category of dhárma that does not arise from causes and conditions. The Sanskrit term used in the Diamond Sutra is asaṁskṛtaprabhāvitā, which literally means unconditioned things. Nirvana is an unconditioned dhárma (FGDB '一切法').	8005340
 8005341	缘起相由	緣起相由	yuán qǐ xiāng yóu	with dependent origination, phenomena give rise to other phenomena	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '緣起相由')	8005341
+8005342	律部	\N	Lǜ Bù	Vinaya Piṭaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A section of the Tripiṭaka describing monastic rules (FGDB '佛教教典')	8005342
+8005343	無想	\N	wú xiǎng	no notion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃjñā (FGDB '無想'; SH '無想', p. 379)	8005343
+8005344	摩	\N	mó	Māyā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 1994)	8003280
+8005345	观照	觀照	guānzhào	to observe with wisdom	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '觀照')	8005345
+8005346	人王	\N	rénwáng	king; nṛpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nṛpa (BCSD '人王', p. 92; MW 'nṛpa')	8005346
+8005347	寮舍	\N	liáoshè	a monastic residence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '學寮')	8005347
+8005348	学寮	學寮	xuéliáo	monastic college; Buddhist seminary	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in Japanese Buddhism (FGDB '學寮')	8005348
+8005349	顶礼膜拜	頂禮膜拜	dǐnglǐ mó bài	bowing in a kneeling position with head touching the ground	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N	8005349
+8005350	什物	\N	shénwù	miscellaneous items; upakaraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakaraṇa (BCSD '什物', p. 94; MW 'upakaraṇa')	8005350
+8005351	佛殿	\N	fó diàn	a Buddhist shrine; a Buddha hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛堂 (FGDB '佛堂')	8005351
+8005352	圣教	聖教	shèngjiāo	sacred teachings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聖教'; FGDB '聖教'; SH '聖教', p. 410)	8005352
+8005353	仁	\N	rén	a sage; muni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muni (BCSD '仁', p. 94; MW 'muni')	8005353
+8005354	禅刹	禪剎	chánshā	a Buddhist temple; a Chan temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Usually, a Chan temple (FGDB '禪院')	8005354
+8005355	影堂	\N	yǐngtáng	founders hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 開山堂 (FGDB '祖堂')	8005355
+8005356	今	\N	jīn	now; adhunā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhunā, Tibetan: de ltar ram da lta (BCSD '今', p. 94; Mahāvyutpatti 'adhunā'; MW 'adhunā')	8005356
+8005357	上堂	\N	shàng táng	ascend to the [Dharma] hall	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: jōdō; the abbot ascends to the dias of the hall to give a public lecture (BL '上堂'; FGDB '上堂'; JEBD 'jōdō', p. 157; SH '上堂', p. 56)	8005357
+8005358	维那	維那	wéinà	weinuo; karmadana; vinaya master; discipline master	noun	职事	Post	佛教	Buddhism	\N	\N	\N	\N	Responsible for upholding rules and regulations in a temple (BL 'weinuo; FGDB '維那'; Welch 1967, p. 422)	8005358
+8005358	他	\N	tā	other; para	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: para (BCSD '他', p. 92; MW 'para')	8003252
+8005359	小叁	小參	xiǎo cān	small assembly; a small group	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shōsan; Chan school usage; a small group for an impromptu Dharma talk, in contrast to 上堂 with a large audience (DDB '小參'; FGDB '小參'; Heine 2016, p. 290; JEBD 'Shōsan', p. 331; SH '小參', p. 100)	8005359
