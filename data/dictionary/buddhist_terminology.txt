@@ -3315,7 +3315,7 @@
 8003315	散	\N	sàn	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa; see 娑 (FGDB '娑')	8003315
 8003316	诃	訶	hē	ha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ha, Siddham: 𑖮; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '訶', p. 1074; MW 'ha'; SH '訶', p. 390; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003316
 8003317	因	\N	yīn	cause; hetu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yin1.mp3	Sanskrit equivalent: hetu, Pali: hetu, Japanese: in, Tibetan: rgyu; in Buddhism all conditioned phenomena arise from 因 hetu 'causes' and 緣 pratyaya 'conditions' (BL 'hetu', p. 348; BCSD '因', p. 283; CCD '因' 3; FGDB '因'; Kroll 2015 '因' 3b, p. 553; SH '因', p. 205)	8003317
-8003318	仰	\N	yǎng	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa, Siddham: 𑖒; fifth consonant of the Sanskṛt alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '仰', p. 105; FGDB '仰'; MW 'ṅa'; SH '仰', p. 200; Wikipedia '悉曇文字'; Giebel 2005, p. 44; T 848, Scroll 2, 18.0010a10)	8003318
+8003318	仰	\N	yǎng	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa, Siddham: 𑖒; fifth consonant of the Sanskṛt alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '仰'; MW 'ṅa'; SH '仰', p. 200; Wikipedia '悉曇文字'; Giebel 2005, p. 44; T 848, Scroll 2, 18.0010a10)	8003318
 8003319	俄	\N	é	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003319
 8003320	誐	\N	é	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003195
 8003321	呀	\N	ya	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003321
@@ -5403,3 +5403,10 @@
 8005403	上座	\N	shàngzuò	sthavira; elder	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthavira, Pali: there, Japanese: jōza, Tibetan: gnas brtan; a title of respect for a senior monastic (BL 'sthavira', p. 858; FGDB '上座'; Powers 2007, p. 102)	8005403
 8005404	上座	\N	shàngzuò	Sthavira; Elders	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An early branch of Indian Buddhism (BL 'sthavira'; FGDB '上座'; Powers 2007, p. 102)	8005403
 8005405	以	\N	yǐ	use; yogena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yogena (BCSD '以', p. 102; MW 'yogena')	8005405
+8005406	法子	\N	fǎzi	a Buddhist disciple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法子'; SH '法子', p. 269)	8005406
+8005407	法子	\N	fǎzi	Dharma lineage	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '法子'; FoguangPedia)	8005406
+8005408	仰	\N	yǎng	ascending; utpatana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpatana (BCSD '仰', p. 105; MW 'utpatana')	8003318
+8005409	参学	參學	cānxué	to be a visiting monastic; to study	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A monastic who visits another temple for a long term stay to learn how the other temple is managed and how practice is done there (FGDB '參學'; Heine 2016, p. 208)	8005409
+8005410	戒牒	\N	jièdié	certificate of ordination	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '戒牒'; FGDB '戒牒'; SH '戒牒')	8005410
+8005411	伊	\N	yī	i	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: i; used in transliterations from Sanskrit (BCSD '伊', p. 106)	8005411
+8005412	清众	清眾	qīngzhòng	the monastic community	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '清眾'; Welch 1967, p. 422)	8005412
