@@ -942,7 +942,7 @@
 8000942	根尘	根塵	gēnchén	the six roots and the six dusts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six roots are eyes, ears, nose, tongue, body, and mind.  The six dusts are form, sound, scent, taste, touch, and actions (FGDB '根塵'; SH '根塵', p. 327).	8000942
 8000943	杀生戒	殺生戒	shāshēng jiè	precept against killing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '殺生戒'; FGDB '殺生戒'; SH '不殺生', p. 107)	8000943
 8000944	尘劳	塵勞	chénláo	afflictions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '塵勞')	8000944
-8000945	佛子	\N	fózi	progeny of a Buddha; a bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhaputra (FE '佛子' 1; FGDB '佛子' 2; Guoyu '佛子' 1; Mahāvyutpatti 'jinaputraḥ'; SH '佛子', p. 227)	8000945
+8000945	佛子	\N	fózi	progeny of a Buddha; a bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhaputra (BCSD '佛子', p. 115; FE '佛子' 1; FGDB '佛子' 2; Guoyu '佛子' 1; Mahāvyutpatti 'jinaputraḥ'; SH '佛子', p. 227)	8000945
 8000946	佛子	\N	fózi	a Buddhist disciple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FE '佛子' 2; FGDB '佛子' 3; Guoyu '佛子' 2; SH '佛子', p. 227)	8000945
 8000947	佛子	\N	fózi	a compassionate and wise person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '佛子' 3)	8000945
 8000948	佛子	\N	fózi	all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛子' 4; SH '佛子', p. 227)	8000945
@@ -4981,7 +4981,7 @@
 8004981	惭	慚	cán	hri; hrī; hiri; self-respect; conscientiousness; dignity	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	can2.mp3	Sanskrit equivalent: hrī, Pali: hiri, Japanese: zan, Tibetan: ngo tsha shes pa (BL 'hrī'; FGDB '無慚'; Mahāvyutpatti 'hrīḥ'; MW 'hrīḥ'; SH '慚', p. 423)	8004981
 8004982	变像	變像	biànxiàng	a sutra illustration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 變相 (FGDB '變相')	8004982
 8004983	变谋	變謀	biàn móu	expedient means	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方便 (FGDB '方便')	8004983
-8004984	佛力	\N	fó lì	the power of the Buddha; blessings of the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛力'; Hsing Yun 2016, p. xix)	8004984
+8004984	佛力	\N	fó lì	the power of the Buddha; blessings of the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhabala* (BCSD '佛力', p. 115; FGDB '佛力'; Hsing Yun 2016, p. xix)	8004984
 8004985	五方便	\N	wǔ fāngbiàn	twenty five skillful means	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	An abbreviation for 五五之方便 or 二十五方便 (Ding '五方便'; FGDB '五方便'; SH '五方便')	8004985
 8004986	七觉支	七覺支	qī jué zhī	seven factors of enlightenment; seven aids to enlightenment; seven branches of enlightenment; seven aspects of enlightenment; seven bodhyaṅga	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptabodhyaṅga; mentioned in the Laṅkāvatārasūtra 入楞伽經; they are: 1. 念覺支，心中明白 perception of the truth, 2. 擇法覺支 perception of what is false, 3. 精進覺支, zeal, 4. 喜覺支 joy, 5. 輕安覺支 transcendence, 6. 定覺支rememberance, and 7. 捨覺支 renunciation (BL, p. 1078; FGDB '七覺支'; Red Pine 2012, loc. 5613; T 671)	8004986
 8004987	勤	\N	qín	diligence; perseverance; virya	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīrya, Pali: viriya; in this sense x is synonymous with 精进 (SH '勤', p. 396)	8004987
@@ -5457,10 +5457,24 @@
 8005457	名字即	\N	míngzi jí	verbal identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005457
 8005458	观行即	觀行即	guān xíng jí	identity in meditative practice	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005458
 8005459	相似即	\N	xiāngsì jí	identity in resemblance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005459
-8005450	位	\N	wèi	to remain standing; avasthā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avasthā (BCSD '位', p. 110; MW 'avasthā')	8005450
-8005451	分真即	\N	fèn zhēn jí	identity in increments of truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005451
-8005452	究竟即	\N	jiūjìng jí	ultimate identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005452
-8005453	低	\N	dī	bow; avanāma	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avanāma, or: saṃnata (BCSD '低', p. 110; MW 'avanāma')	8005453
-8005454	菩萨位	菩薩位	púsà wèi	bodhisattvahood	phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	(FGDB '入菩薩位')	8005454
-8005455	醍醐	\N	tíhú	ghee; manda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍaḥ, or: sarpirmaṇḍa, Tibetan: snying po; skimmed from boiled butter (FGDB '醍醐'; Mahāvyutpatti 'maṇḍaḥ'; SH '醍醐', p. 451)	8005455
-8005456	住房	\N	zhùfáng	a dwelling; nilaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nilaya (BCSD '住房', p. 112; MW 'nilaya')	8005456
+8005460	位	\N	wèi	to remain standing; avasthā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avasthā (BCSD '位', p. 110; MW 'avasthā')	8005460
+8005461	分真即	\N	fèn zhēn jí	identity in increments of truth	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005461
+8005462	究竟即	\N	jiūjìng jí	ultimate identity	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school, one of the six identities 六即 (FGDB '六即')	8005462
+8005463	低	\N	dī	bow; avanāma	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avanāma, or: saṃnata (BCSD '低', p. 110; MW 'avanāma')	8005463
+8005464	菩萨位	菩薩位	púsà wèi	bodhisattvahood	phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	(FGDB '入菩薩位')	8005464
+8005465	醍醐	\N	tíhú	ghee; manda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍaḥ, or: sarpirmaṇḍa, Tibetan: snying po; skimmed from boiled butter (FGDB '醍醐'; Mahāvyutpatti 'maṇḍaḥ'; SH '醍醐', p. 451)	8005465
+8005466	住房	\N	zhùfáng	a dwelling; nilaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nilaya, Tibetan: gnas sam tshang (BCSD '住房', p. 112; Mahāvyutpatti 'nilayaḥ'; MW 'nilaya')	8005466
+8005467	住房	\N	zhùfáng	clinging; layana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: layana, Tibetan: gnas khang (BCSD '住房', p. 112; Mahāvyutpatti 'layanam'; MW 'layana')	8005467
+8005468	常坐	\N	cháng zuò	constantly sitting in meditation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school: the first of the four forms of samādhi 四种三昧 (FGDB '四种三昧')	8005468
+8005469	半行半坐	\N	bàn xíng bàn zuò	part walking, part sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school: the third of the four forms of samādhi 四种三昧 (FGDB '四种三昧')	8005469
+8005470	非行非坐	\N	fēi xíng fēi zuò	neither walking, nor sitting	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗, 538—597, of the Tiantai school: the fourth of the four forms of samādhi 四种三昧 (FGDB '四种三昧')	8005470
+8005471	佐	\N	zuǒ	an aide; sahāya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sahāya (BCSD '佐', p. 114; MW 'sahāya')	8005471
+8005472	常行	\N	chángxíng	constantly walking in meditation	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 常行三昧 (FGDB '常行三昧')	8005472
+8005473	法华三昧	法華三昧	fǎ huá sānmèi	Lotus Samādhi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	A type of meditation described by Zhi Yi 智顗, 538—597, of the Tiantai school: a variant of part walking, part sitting meditation 半行半坐 (FGDB '法華三昧')	8005473
+8005474	何	\N	hé	what; kim	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kim, Tibetan: ci'am gang (BCSD '何', p. 114; Mahāvyutpatti 'kim'; MW 'kim')	8005474
+8005475	摩尼珠	\N	móní zhū	mani jewel; a wish fulfilling jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '摩尼珠')	8005475
+8005476	四运	四運	sì yùn	the four phases of thought	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Concept by Zhi Yi 智顗 538—597, of the Tiantai school (FGDB '四運'; SH '四運', p. 183)	8005476
+8005477	作	\N	zuò	action; kāraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāraṇa, Tibetan: rgyu'am byed pa (BCSD '作', p. 119; Mahāvyutpatti 'kāraṇam'; MW 'kāraṇa')	8005477
+8005478	六受	\N	liù shòu	the six perceptions; six vedanas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The sensations from the six organs (FGDB '六受'; SH '六受', p. 133)	8005478
+8005479	六作	\N	liù zuò	the six acts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 行 walking, 住 standing, 坐 sitting, 臥 lying down, 語 speaking, and 默 being silent (FGDB '六作')	8005479
+8005480	使	\N	shǐ	messenger; dūta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūta (BCSD '使', p. 125; MW 'dūta')	8005480
