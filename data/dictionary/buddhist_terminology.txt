@@ -3198,7 +3198,7 @@
 8003198	三轮身	三輪身	sān lún shēn	three wheel bodies	set phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Three bodies of teaching, namely: 自性輪身, the wheel body of intrinsic nature, 正法輪身, the wheel body of the true dharma, and 教令輪身 the wheel body of instruction and command (Ding '三輪身'; FGDB '三輪身'; Sharf 2005, p. 269)	8003198
 8003199	三种轮身	三種輪身	sān zhǒng lún shēn	three wheel bodies	set phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 三輪身	8003199
 8003200	自性轮身	自性輪身	zìxìng lúnshēn	Wheel of Intrinsic Nature	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 三輪身 three wheel bodies (Ding '自性輪身'; FGDB '自性輪身'; Sharf 2005, p. 270)	8003200
-8003201	我	\N	wǒ	self; atman; attan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman, Pali: attan; Japanese: ga; the agent controlling the mind and body that passes from lifetime to lifetime, in contrast to anātman (BL 'ātman', p. 78; FGDB '我')	8003201
+8003201	我	\N	wǒ	self; atman; attan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman, or: ahaṃkāra, Pali: attan; Japanese: ga, Tibetan: nyar 'dzin pa'am nga rgyal; the agent controlling the mind and body that passes from lifetime to lifetime, in contrast to anātman (BCSD '我', p. 518; BL 'ātman', p. 78; FGDB '我'; Mahāvyutpatti 'ahaṃkāraḥ'; MW 'ahaṃkāra'; SH '我', p. 238)	8003201
 8003202	我	\N	wǒ	ga	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ga; see 哦 (FGDB '哦')	8003201
 8003203	剃度出家	\N	tìdù chūjiā	renunciation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003203
 8003204	牧女献乳糜	牧女獻乳糜	mù nǚ xiàn rǔmí	Sujata Offering Milk Porridge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about a shepherd girl offering milk to Sidartha in the Jataka Tales (FGS Encyclopedia of Buddhist Arts)	8003204
@@ -4955,7 +4955,7 @@
 8004955	念住	\N	niàn zhù	a foundation of mindfulness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛtyupasthāna, Pali: satipaṭṭhāna; see 念處 (FGDB '念處')	8004955
 8004956	我室	\N	wǒ shì	the abode of the ego	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of all suffering (SH '我室', p. 238)	8004956
 8004957	我我所	\N	wǒ wǒ suǒ	conception of possession; mamakāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mamakāra, Pali: mamaṃkāra, Japanese: gasho (BL 'mamakāra', p. 521; FGDB '我我所'; SH '我我所', p. 238)	8004957
-8004958	我所	\N	wǒsuǒ	conception of possession; mamakāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 我我所 (BL 'mamakāra', p. 521; SH '我所', p. 238)	8004958
+8004958	我所	\N	wǒ suǒ	my; mama	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mama, or: me; translates the Sanskrit first person singular genitive pronoun 'my' (BCSD '我所', p. 518; MW 'mama'; SH '我所', p. 238)	8004958
 8004959	我所心	\N	wǒ suǒ xīn	a mind with the belief that it can possess objects	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '我所心', p. 238)	8004959
 8004960	不放逸	\N	bù fàngyì	vigilance; heedfulness; conscientious	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apramāda, Pali: appamada; one of the eleven virtuous mental factors (FGDB '不放逸')	8004960
 8004961	北宗	\N	běizōng	Northern school	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Of Chan Buddhism (SH '北宗', p. 168)	8004961
@@ -5657,3 +5657,18 @@
 8005657	辞	辭	cí	words; phrase; vāc	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāc (BCSD '辭', p. 1140; MW 'vāc'; SH '辭', p. 474)	8005657
 8005658	伤	傷	shāng	injured; upahata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upahata (BCSD '傷', p. 147; MW 'upahata'; SH '傷', p. 395)	8005658
 8005659	遍布	\N	biànbù	scattered; saṃstīrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃstīrṇa; for example, used in the Lotus Sutra (Karashima 2001, p. 60; MW 'saṃstīrṇa'; T 262, Scroll 4, 9.0033a09)	8005659
+8005660	我	\N	wǒ	I; aham	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aham; first person pronoun. See Egenes for declention table of different endings. Common forms are: aham, nominative singular 'I'; mām, accusative singular 'me'; mama, genitive singular 'my' (BCSD '我', p. 518; Egenes 2011, p. 128; MW 'aham'; SH '我', p. 238).	8003201
+8005661	我所	\N	wǒ suǒ	conception of possession; mamakāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mamakāraḥ, Tibetan: bdag gir 'dzin pa; see also 我我所 (BCSD '我所', p. 518; BL 'mamakāra', p. 521; Mahāvyutpatti 'mamakāraḥ'; MW 'mamakāra'; SH '我所', p. 238)	8004958
+8005662	我等	\N	wǒděng	we; vayam	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vayam; translates the Sanskrit first person plural nominative pronoun 'we' (BCSD '我等', p. 519; MW 'vayam')	8005662
+8005663	其	\N	qí	he; her; it; saḥ; sā; tad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saḥ, or, or: sā: tad; translates the Sanskrit third person pronoun. See Egenes for declention table of different endings. Common forms are: saḥ, nominative singular masculine 'he'; sā , nominative singular feminine 'she'; tad, nominative singular neuter 'it'; tasya, genitive singular masculine or neuter 'his' or 'its' (BCSD '其', p. 518; Egenes 2011, pp. 146-149; MW 'tad').	8005663
+8005664	国师	國師	guóshī	State Preceptor; Guoshi	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Japanese: kokushi (BL 'Guoshi'; FGDB '國師'; Matsuo 2007, p. 20)	8005664
+8005665	师子国	師子國	shīzi guó	Simhala; Siṃhala	proper noun	国	State	佛教	Buddhism	\N	\N	\N	\N	A historic name for Sri Lanka (Ding '師子國'; FGDB '師子國'; SH '師子國')	8005665
+8005666	罽賓国	罽賓國	jìbīn guó	Kashmir	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Old name for Kashmir, used in canonical texts (SH '罽賓', p. 461)	8005666
+8005667	传法	傳法	chuán fǎ	to transmit the Dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '傳法'; FGDB '傳法'; SH '傳法')	8005667
+8005668	佥	僉	qiān	all; sarva	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva (BCSD '僉', p. 147; MW 'sarva')	8005668
+8005669	遍满	遍滿	biànmǎn	to fill; paripūrṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrṇa; for example, used in the Lotus Sutra (Karashima 2001, p. 61; MW 'paripūrṇa'; T 262, Scroll 4, 9.0032c29)	8005669
+8005670	法华	法華	fǎ huà	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharma puṇḍarīka sūtra; see 妙法蓮華經 (FGDB '法華經')	8005670
+8005671	僧主	\N	sēngzhǔ	abbot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '僧正')	8005671
+8005672	三论	三論	sān lùn	three treatises	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三論宗 (Sharf 2005, p. 321)	8005672
+8005673	像	\N	xiàng	likeness; pratirūpa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratirūpa, Tibetan: gzugs brnyan (BCSD '像', p. 147; Mahāvyutpatti 'pratibimbam'; MW 'pratirūpa'; SH '像', p. 420)	8005673
+8005674	表刹	\N	biǎo shā	pole on a pagoda; canopies and banners	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2001, p. 61; SH '表刹', p. 61)	8005674
