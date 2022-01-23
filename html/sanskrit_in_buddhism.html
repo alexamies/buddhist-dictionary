@@ -12,6 +12,10 @@
       </li>
       <li><a href='#alphabet'>The Sanksrit alphabet and pronunciation</a></li>
       <li><a href='#sandhi'>Sandhi</a></li>
+        <ul>
+          <li><a href='#external_sandhi'>External Sandhi</a></li>
+          <li><a href='#internal_sandhi'>Internal Sandhi</a></li>
+        </ul>
       <li><a href='#numbers'>Numbers in Sanksrit</a></li>
       <li>
         <a href='#grammar'>Sanskrit grammar</a>
@@ -1344,11 +1348,12 @@
       There are two kinds of sandhi: internal and external. Internal sandhi is sound changes within a word.
       External sandhi is sound changes when connecting two words.
     </p>
+    <h3><a name='external_sandhi'></a>External Sandhi</h3>
     <p>
-      Sandhi between two words depends on whether the final sound in the first word is a vowel or a consonant and whether the initial
+      External sandhi between two words depends on whether the final sound in the first word is a vowel or a consonant and whether the initial
       sound in the second word is a vowel or a consonant.
-      Table 8a below lists Sandhi for combinations where the first word ends in a vowel and the second word begins in a vowel.
-      Table 8b lists sandhi for combinations where the first word ends in a consonants.
+      Table 8a, adapted from Egenese (2011, p. 59), below lists Sandhi for combinations where the first word ends in
+      a vowel and the second word begins in a vowel.
       An example from the Diamond Sūtra is the compound paramapāramiteti, which formed from the three parts 
       parama (foremost) + pāramitā + iti (said), meaning <strong>said to be the foremost pāramitā</strong>.
       Find the column <em>a / ā</em> and the row <em>i / ī</em> and see that the table cell contains an <em>e</em>.  
@@ -1356,11 +1361,11 @@
     </p>
     <p>
       <table class='table table-bordered table-hover'>
-        <caption>Table 8a: Sandhi for vowels</caption>
+        <caption>Table 8a: External Sandhi for Final Vowels</caption>
         <tbody>
           <tr>
             <th>&nbsp;</th>
-            <th colspan='8'>Final vowel of first word</th>
+            <th colspan='8'>Final vowel of preceding word</th>
           </tr>
           <tr>
             <th>a / ā</th>
@@ -1371,7 +1376,7 @@
             <th>ai</th>
             <th>o</th>
             <th>au</th>
-            <th>Initial vowel of second word</th>
+            <th>Initial vowel of following word</th>
           </tr>
           <tr>
             <td>ā</td>
@@ -1476,12 +1481,15 @@
      </table>
     </p>
     <p>
+      Table 8b, adapted from Egenese (2011, p. 108, 126), lists sandhi for combinations where the first word ends in a consonant.
+    </p>
+    <p>
       <table class='table table-bordered table-hover'>
-        <caption>Table 8b: Sandhi for consonants</caption>
+        <caption>Table 8b: External Sandhi for Final Consonants ḥ/r, āḥ, aḥ</caption>
         <tbody>
           <tr>
             <th>&nbsp;</th>
-            <th colspan='10'>Final consonant of first word</th>
+            <th colspan='10'>Final consonant of preceding word</th>
           </tr>
           <tr>
             <th>k</th>
@@ -1494,7 +1502,7 @@
             <th>ḥ/r (except āḥ,aḥ)</th>
             <th>āḥ</th>
             <th>aḥ</th>
-            <th>Initial consonant of second word</th>
+            <th>Initial consonant of following word</th>
           </tr>
           <tr>
             <td>k</td>
@@ -1759,11 +1767,11 @@
      </ol>
     </p>
     <p>
-      The cells of tables 4a and 4b represent the letter that the last letter of the first word should be changed to.
+      The cells of tables 8a and 8b represent the letter that the last letter of the first word should be changed to.
       After the sandhi rules have been applied to a pair of words, if the second word ends in a vowel or ḥ then
       there should be a break in the words when written in Devanāgarī.
       In IAST words are usually separated, except when Sandhi rules result in vowels joining together.
-      For example gacchati iti -> gacchatīti (he says that he is going).
+      For example gacchati iti becomes gacchatīti (he says that he is going).
     </p>
     <p>
       For the final letter ḥ there are three cases: aḥ, āḥ, and any other vowel + ḥ.
@@ -1776,6 +1784,15 @@
       There is an exception to this for short vowels followed by ch.  The ch is changed to cch.
       If a long vowel is followed by ch then the ch may or may not change to cch.
     </p>
+    <p>
+      After sandhi has been applied you can decide whether to insert a space between words. 
+      If the first word ends in a vowel, ḥ, or ṃ then the Devanagari will have a break.
+      If the first word ends in a vowel and the second word begins in a vowel then the two
+      words will be joined in both Devanagari and IAST.
+      For example, gacchati + iti becomes gacchatīti (he says that he is going).
+      This convention varies somewhat from text to text.
+    </p>
+    <h3><a name='internal_sandhi'></a>Internal Sandhi</h3>
     <p>
       There are some other rules in addition for internal sandhi:
      <ol>
@@ -1797,14 +1814,7 @@
        </li>
      </ol>
     </p>
-    <p>
-      After sandhi has been applied you can decide whether to insert a space between words. 
-      If the first word ends in a vowel, ḥ, or ṃ then the Devanagari will have a break.
-      If the first word ends in a vowel and the second word begins in a vowel then the two
-      words will be joined in both Devanagari and IAST.
-      For example, gacchati + iti becomes gacchatīti (he says that he is going).
-      This convention varies somewhat from text to text.
-    </p>
+
     <h2><a name='numbers'></a>Numbers in Sanksrit</h2>
     <p>
       Table 9 below shows the Sanskrit cardinal numbers.
@@ -3854,16 +3864,15 @@
       On my workstation, a Linux Ubuntu system, Sanksrit is supported directing as a system language.
     </p>
     <p>
-      IAST may be more of a challenge to input.  You will probably need conversion tool to convert Devanāgarī to IAST.  
-      Try the IAST-Devanāgarī-IAST Converter listed in the <a href="#references">References</a> section.
-      This tool is also useful for converting IAST to Devanāgarī.
+      You can uuse the <a href='https://www.aczoom.com/itrans/online/'>Online Interface to Itrans</a>
+      to input IAST symbols. This also converts to Devanāgarī.  
+      Also, try the IAST-Devanāgarī-IAST Converter listed in the <a href="#references">References</a> section.
       If you are stuck on an input tool for Devanāgarī then you can use the Harvard-Kyoto scheme, which relies only on 
       Latin characters.  Then you can use a converter like Indian.language.unicode.converters
       (see <a href="#references">References</a>) to convert to Devanāgarī.
     </p>
     <p>
-      In addition to Unicode ranges for Devanāgarī and Devanāgarī Extended there are also Unicode ranges for Brahmi and also for
-      Vedic Extensions.
+      In addition to Unicode ranges for Devanāgarī and Devanāgarī Extended there are also Unicode ranges for Brahmi and also for Vedic Extensions.
       See Alan Wood’s Unicode Resources listed in the <a href='#references'>References</a> section for listings of these
       Unicode ranges with numeric codes.
       For displaying Prachalit and Ranjana see the links for the SIL ScriptSource entries on Newar and Ranjana, 
@@ -3880,7 +3889,8 @@
     </p>
     <div class="code">&amp;#596;&amp;#771; /&#596;&#771;/</div>
     <p>
-      The web page <em>Unicode Entity Codes for Phonetic Diacritics</em> by Penn State University lists the 
+      The web page <a href='http://tlt.its.psu.edu/suggestions/international/bylanguage/ipavowels.html'
+      class='regular'>Unicode Entity Codes for Phonetic Diacritics</a> by Penn State University lists the 
       codes for the diacritics and explains how to use them in HTML pages.
     </p>
     <h2><a name="references"></a>References</h2>
