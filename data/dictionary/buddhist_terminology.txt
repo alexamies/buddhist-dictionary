@@ -5688,7 +5688,7 @@
 8005688	药草	藥草	yàocǎo	medicinal herb; oṣadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṣadhi; for example, as used in the Lotus Sutra (Braarvig 2020; Hurvitz 2009, p. 101; MW 'oṣadhi'; SH '藥草', p. 473; T 262, Scroll 3, 9.0019a19)	8005688
 8005689	鬼窟裏	\N	guǐ kū lǐ	inside a ghost cave; in an unhealthy mental state	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Quote: a Chan metaphor, for example, in koan 5 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 38; T 2003, Scroll 1; FGDB '鬼窟裏')	8005689
 8005690	僧伽蓝	僧伽藍	sēngqiēlán	sangharama; samgharama; samghārama; temple; monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghārāma; see 伽藍 (FGDB '伽藍')	8005690
-8005691	价	價	jià	value; argha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: argha (BCSD '價', p. 147; MW 'argha')	8005691
+8005691	价	價	jià	value; argha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: argha (BCSD '價', p. 149; MW 'argha')	8005691
 8005692	摈出	擯出	bìn chū	to expel; to exile	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravrājana; for example, as used in the Lotus Sutra (FGDB '擯出'; Karashima 2001, p. 62; MW 'pravrājana'; SH '擯治', p. 458; T 262, Scroll 5, 9.0038a07)	8005692
 8005693	旃荼罗	旃荼羅	zhāntúluó	Chandala; caṇḍāla; untouchable caste	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caṇḍāla; see 旃陀羅 (Wikipedia '旃陀羅')	8005693
 8005694	释迦文佛	釋迦文佛	shìjiāwén fó	Sakyamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 釋迦牟尼 (FGDB '釋迦牟尼')	8005694
@@ -5699,7 +5699,7 @@
 8005699	雪峰鳖鼻蛇	雪峰鱉鼻蛇	xuěfēng biēbí shé	Xuefeng's turtle nosed snake	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A Chan story in koan 22 of the 碧巖錄 “Blue Cliff Record” about 雪峰義存 Xuefeng Yicun (FGDB '雪峰鱉鼻蛇'; T 2003)	8005699
 8005700	雪峰看蛇	\N	xuěfēng kàn shé	Xuefeng sees a snake	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 雪峰鱉鼻蛇 (FGDB '雪峰鱉鼻蛇')	8005700
 8005701	尼拘律树	尼拘律樹	níjūlǜshù	Indian banyan; nyagrodha tree	noun	树	Tree	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nyagrodha, Pali: nigrodha; A historic name for the banyan tree 榕樹, as used in Buddhist texts. In particular, this may refer to the Indian banyan, Ficus benghalensis 孟加拉榕 (FGDB '尼拘律樹').	8005701
-8005702	仪	儀	yí	ritual; vidhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidhi (BCSD '儀', p. 147; MW 'vidhi')	8005702
+8005702	仪	儀	yí	ritual; vidhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidhi (BCSD '儀', p. 149; MW 'vidhi')	8005702
 8005703	波利质多树	波利質多樹	bōlìzhìduō shù	parijata tree; coral tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārijāta (FGDB '波利質多樹'; Karashima 2001, p. 63; MW 'pārijāta'; SH '波利質羅', p. 265)	8005703
 8005704	波利质多	波利質多	bōlìzhìduō	parijata tree; coral tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārijāta; see 波利質多樹 (FGDB '波利質多樹')	8005704
 8005705	波利质罗	波利質羅	bōlìzhìluó	parijata tree; coral tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārijāta; see 波利質多樹 (SH '波利質羅', p. 265)	8005705
@@ -5714,10 +5714,13 @@
 8005714	昼度树	晝度樹	zhòudù shù	coral tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波利質多樹 (FGDB '波利質多樹')	8005714
 8005715	香遍树	香遍樹	xiāngbiàn shù	coral tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波利質多樹 (FGDB '波利質多樹')	8005715
 8005716	浊恶处	濁惡處	zhuó è chù	a defiled and evil place	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: a reference to the human world; for exmaple in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life” (retranslated from Inagaki and Stewart 1995, p. 67; T 365; FGDB '濁惡處')	8005716
-8005717	亿	億	yì	a very large number; koṭi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi, Tibetan: khri bye ba (BCSD '億', p. 147; FGDB '億'; Mahāvyutpatti 'koṭiḥ'; MW 'koṭi'; SH '億', p. 430)	8005717
+8005717	亿	億	yì	a very large number; koṭi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi, Tibetan: khri bye ba (BCSD '億', p. 149; FGDB '億'; Mahāvyutpatti 'koṭiḥ'; MW 'koṭi'; SH '億', p. 430)	8005717
 8005718	波罗罗	波羅羅	bōluóluó	pāṭala; trumpet-flower tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṭala, Scientific name: Bignonia Suaveolens; for example, as used in the Lotus Sutra (Karashima 2001, pp. 63-64; MW 'pāṭala'; T 262, Scroll 6, 9.0048b16)	8005718
 8005719	清净业处	清淨業處	qīngjìng yèchù	a place of pure karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: for example, in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life” (retranslated from Inagaki and Stewart 1995, p. 67; T 365; SH '清淨業處', p. 357)	8005719
-8005720	俭	儉	jiǎn	scarcity; durbhikṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durbhikṣa (BCSD '億', p. 147; FGDB '億'; MW 'durbhikṣa')	8005720
+8005720	俭	儉	jiǎn	scarcity; durbhikṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durbhikṣa (BCSD '億', p. 150; FGDB '億'; MW 'durbhikṣa')	8005720
 8005721	波罗柰	波羅柰	bōluónài	Varanasi	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: vārāṇasī; see 波羅奈國 (Karashima 2001, pp. 64)	8005721
-8005722	大慈	\N	dà cí	great great compassion; mahākāruṇika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahākāruṇika (Karashima 2001, pp. 95; MW 'mahākāruṇika'; SH '大慈', p. 88)	8005722
-8005723	正法	\N	zhèngfǎ	Age of Right Dharma; The Period of the True Dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	FGS translation standard: Age of Right Dharma (Tzu Chuang 2012; SH '正法', p. 193)	8005723
+8005722	大慈	\N	dà cí	great great compassion; mahākāruṇika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahākāruṇika (Karashima 2001, p. 95; MW 'mahākāruṇika'; SH '大慈', p. 88)	8005722
+8005723	正法	\N	zhèngfǎ	Age of Right Dharma; The Period of the True Dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '正法', p. 193; Tzu Chuang 2012, p. 4)	8005723
+8005724	光明如来	光明如來	guāngmíng rúlái	raśmiprabhāso nāma tathāgato	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raśmiprabhāsa tathāgata; mentioned in the Lotus Sutra (Hurvitz 2009, p. 120; T 262, Scroll 3, 9.0020b26)	8005724
+8005725	儞	\N	nǐ	you; tvad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tvad, or: tvam (BCSD '儞', p. 150; MW 'tvad')	8005725
+8005726	此间	此間	cǐjiān	here; iha	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iha (Karashima 2001, p. 91; MW 'iha')	8005726
