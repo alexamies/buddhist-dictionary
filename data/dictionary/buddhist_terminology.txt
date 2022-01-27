@@ -777,7 +777,7 @@
 8000777	实有	實有	shí yǒu	absolute reality; substantial unchanging existence; something truly existing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Cock 1999, p. 398; FGDB '實有')	8000777
 8000778	真性	\N	zhēn xìng	inherent nature; essence; true nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  tathātā, or: dharmatā, Japanese: hosshō, Tibetan: de bzhin nyid (BL 'dharmatā'; FGDB '真性', Mahāvyutpatti 'tathātā'; SH '眞性', p. 332)	8000778
 8000779	十法界	\N	shí fǎjiè	ten dharma realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十界 (SH '十法界', p. 51; Tzu Chuang 2012)	8000779
-8000780	舍罗婆迦	舍羅婆迦	shěluópójiā	sravaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka; se 聲聞 (FGDB '聲聞')	8000780
+8000780	舍罗婆迦	舍羅婆迦	shěluópójiā	sravaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka; see 聲聞 (FGDB '聲聞')	8000780
 8000781	声闻	聲聞	shēngwén	sravaka; a distinguished disciple of the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka, Pali: sāvaka, Japanese: shōmon, Tibetan: nyan thos; literally, a listener (BL 'śrāvaka', p. 850; FGDB '聲聞'; Powers 2007, p. 107; SH '聲聞', p. 462)	8000781
 8000782	缘觉	緣覺	yuánjué	pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; Pali: paccekabuddha, Japanese engaku, Tibetan: rang sangs rgyas; a being that has achieve enlightenment independently without the help of a teachers and does not teach others (BL 'pratyekabuddha', p. 673; FGDB '辟支佛'; Powers 2007, p. 107; Tzu Chuang 2012, p. 253)	8000781
 8000783	无表色	無表色	wúbiǎosè	avijnaptirupa; latent material force	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avijñaptirūpa, Japanese: muhyōjiki, Tibetan: rnam par rig byed ma yin pa'i gzugs; a material force that is not manifested (BL 'avijñaptirūpa'; Ding '無表色'; FGDB '無表色')	8000783
@@ -5741,3 +5741,8 @@
 8005741	充	\N	chōng	filled with; bharita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bharita (BCSD '充', p. 152; MW 'bharita')	8005741
 8005742	严饰	嚴飾	yánshì	to decorate; adorned	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 莊嚴 (Ding '嚴飾'; SH '嚴飾')	8005742
 8005743	不退法轮	不退法輪	bù tuì fǎ lún	the non-regressing dharma wheel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as used in the Lotus Sutra (Karashima 2001, pp. 67-68; T 262, Scroll 4, 9.0036b08)	8005743
+8005744	尘	塵	chén	dust; an object; an object of one of the senses; a defilement; a contanimating object	noun	\N	\N	佛教	Buddhism	\N	\N	\N	chen2.mp3	Sanskrit equivalent: rajas, or: guṇa, Tibetan: rdul (BCSD '塵'; Ding '塵'; FGDB '塵'; Mahāvyutpatti 'rajaḥ'; MW 'rajas'; SH '塵')	8005744
+8005745	声闻乘者	聲聞乘者	shēngwén chéngzhě	Śrāvaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka, Pali: sāvaka; see 聲聞 (T 310, Scroll 90)	8005745
+8005746	夏坐	\N	xià zuò	Varsa; Vassa; Rains Retreat; Summer Retreat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varsā; see 安居 (FGDB '安居')	8005746
+8005747	兆	\N	zhào	a very large number; koṭi; niyuta	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi, or: niyuta, Tibetan: sa ya; see 俱胝 (BCSD '兆', p. 152; Edgerton 1953 'niyuta', p. 298; MW 'koṭi')	8005747
+8005748	不退轮	不退輪	bù tuì lún	the non-regressing dharma wheel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as used in the Lotus Sutra (Karashima 2001, p. 68; T 262, Scroll 3, 9.0019c08)	8005748
