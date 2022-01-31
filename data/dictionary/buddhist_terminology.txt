@@ -4780,7 +4780,7 @@
 8004780	退堕	退墮	tuìduò	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 退轉 (FGDB '退轉')	8004780
 8004781	退失	\N	tuìshī	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 退轉 (FGDB '退轉')	8004781
 8004782	凡夫	\N	fánfū	an ordinary person; prthagjana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthagjana, Pali: puthujjana, Japanese: bonbu; a person that has not studied or practiced Buddhism to the level of a noble person (BL 'pṛthagjana'; FGDB '凡夫')	8004782
-8004783	凡	\N	fán	an ordinary person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 凡夫 (FGDB '凡夫')	8004783
+8004783	凡	\N	fán	an ordinary person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Abbreviation for 凡夫 (FGDB '凡夫')	8004783
 8004784	二乘	\N	èr shèng	the two vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either 1. Mahayana and Theravada or 2. the Sravaka Vehicle and the Pratyeka-buddha Vehicle (Ding '大小二乘'; SH '大小二乘', p. 88)	8004784
 8004785	果证	果證	guǒzhèng	realized attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '果證')	8004785
 8004786	忉利	\N	dāolì	Trayastrimsa Heaven; Tavatimsa; The Heaven of Thirty-Three Gods	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trāyastriṃśa, Pali: tāvatiṃsa; see 忉利天 (FGDB '忉利天')	8004786
@@ -5855,4 +5855,13 @@
 8005855	胜金	勝金	shèng jīn	unsurpassed gold	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 閻浮檀金 (FGDB '閻浮檀金')	8005855
 8005856	冷	\N	lěng	cold; śīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīta, Tibetan: grang ba (BCSD '冬', p. 177; Mahāvyutpatti 'śītam'; MW 'śīta'; SH '冬', p. 230)	8005856
 8005857	尘坌	塵坌	chénbèn	dust	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as used in the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, p. 78; T 262, Scroll 2, 9.0017a12)	8005857
-8005858	凡	\N	fán	common; unrefined; prākṛta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prākṛta (BCSD '凡', p. 178; MW 'prākṛta')	8005858
+8005858	凡	\N	fán	common; unrefined; prākṛta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prākṛta (BCSD '凡', p. 178; MW 'prākṛta')	8004783
+8005859	万字	萬字	wàn zì	swastika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	卍, Japanese: manji (SH '萬字', p. 412)	8005859
+8005860	碧眼胡	\N	bì yǎn hú	Blue-Eyed Barbarian	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Term used to refer to Bodhidharma in Chan texts; see 菩提達磨 (SH '碧眼胡')	8005860
+8005861	八功德水观	八功德水觀	bā gōngdé shuǐ guān	visualization of water with eight merits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life” (retranslated from Inagaki and Stewart 1995, p. 72; T 365; FGDB '八功德水觀')	8005861
+8005862	莲池观	蓮池觀	lián chí guān	visualization of lotus ponds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八功德水觀 (FGDB '八功德水觀')	8005862
+8005863	摄取	攝取	shèqǔ	to receive	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '攝取'; FGDB '攝取'; SH '攝取')	8005863
+8005864	俗讲	俗講	sújiǎng	sujiang; explanations for the laity	set phrase	体裁	Genre	佛教	Buddhism	中国	China	\N	\N	A genre of literature used by Buddhist monks in historic times written in the spoken form of the Chinese of the time (Idema and Haft 1997, p. 143)	8005864
+8005865	修妬路	\N	xiūdùlù	sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra; see 修多羅 (SH '修多羅', p. 320)	8005865
+8005866	素怛览	素怛覽	sùdálǎn	sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, synonymous with 经. From Collection of Meanings and Terms in Translation 翻譯名義集 by Fa Yun, 修多羅。或修單蘭。或修妬路。西域記名素怛覽。 'Sūtra: also known as xiūdānlán, xiūdùlù, and in the Western Regions called sùdálǎn' (T 2131, Scroll 4)	8005866
+8005867	凸	\N	tū	bent upwards; unnata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: unnata (BCSD '凸', p. 178; MW 'unnata')	8005867
