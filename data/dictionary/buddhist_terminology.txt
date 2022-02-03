@@ -2928,7 +2928,7 @@
 8002928	毘瑟怒	\N	písènù	Visnu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (SH '韋紐天', p. 318)	8002928
 8002929	遍	\N	biàn	everywhere; sarva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva, or: sarvatraga (BCSD '遍', p. 1154; SH '遍', p. 371)	8002929
 8002930	遍	\N	biàn	pervade; visva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśva (BCSD '遍', p. 1154; MW 'viśva'; SH '遍', p. 371)	8002929
-8002931	遍照	\N	biànzhào	shinging everywhere; vairocana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana (BCSD '遍照', pp. 1155-1156; SH '遍照', p. 371)	8002931
+8002931	遍照	\N	biànzhào	shinging everywhere; vairocana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana, or: avabhāsa (BCSD '遍照', pp. 1155-1156; SH '遍照', p. 371)	8002931
 8002932	遍照	\N	biànzhào	Vairocana	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana; see 大日如來 (FGDB '毘盧遮那')	8002931
 8002933	大毘卢	大毘盧	dàpílú	Mahavairocana	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana; see 大日如來 (FGDB '毘盧遮那')	8002933
 8002934	毘楼遮那	毘樓遮那	pílóuzhēnà	Vairocana	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana; see 大日如來 (FGDB '毘盧遮那')	8002934
@@ -3640,7 +3640,7 @@
 8003640	五重罪	\N	wǔ zhòng zuì	pañca-ānantarya-karma; Five Cardinal Sins; the five heinous crimes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-ānantarya-karma; see 五逆 (FGDB '五逆')	8003640
 8003641	琰魔法王	\N	yǎnmó fǎ wáng	Yama	proper noun	神	Deity	佛教	Buddhism	印度	India	yama400.jpg	\N	Sanskrit equivalent: yama; see 閻魔王 (FGDB '閻魔王')	8003641
 8003642	密	\N	mì	secret; esoteric; guhya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhya, Tibetan: gsang ba, Japanese: mitsu (BCSD '密', p. 384; DJBT '密', p. 431; Lü 2017, pp. 73; Mahāvyutpatti 'guhyam'; MW 'guhya'; SH '密', p. 347)	8003642
-8003643	高	\N	gāo	high; noble	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: unnata, Tibetan: mthon po, Japanese: kō (DJBT '高', p. 429; Mahāvyutpatti 'unnatam'; MW 'unnata')	8003643
+8003643	高	\N	gāo	height; samucchraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samucchraya, Tibetan: lus sam mtho ba, Japanese: kō (BCSD '高', p. 1286; DJBT '高', p. 429; Mahāvyutpatti 'samucchrayaḥ'; MW 'samucchraya')	8003643
 8003644	息身成仏	\N	xīshēn chéngfó	enlightenment in this lifetime	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sokushin jōbutsu (Orzech, Payne, and Sørensen 2011, p. 14)	8003644
 8003645	阿字	\N	a zì	the letter a	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: aji; the first letter of the Sanskrit alphabet, symbolizing the unity of the world and unproduced nature of things in Esoteric teachings (Ding '第一句'; DJBT '阿字', p. 3; JEDB '阿字', p. 5)	8003645
 8003646	阿字门	阿字門	ā zì mén	the teaching of the character a	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '阿字門'; Giebel 2005, p. 42; T 848, Scroll 2, 18.0010a10)	8003646
@@ -5889,3 +5889,19 @@
 8005889	刃	\N	rèn	blade; asi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asi (BCSD '刃', p. 182; MW 'asi'; SH '刃', p. 81)	8005889
 8005890	暗	\N	àn	dark; tama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tama; Japanese: an, Tibetan: mun pa (BCSD '暗', p. 608; DJBT '暗', p. 423; Mahāvyutpatti 'tamaḥ'; MW 'tama'; SH '暗', p. 402)	8005890
 8005891	香	\N	xiāng	fragrance; gandha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gandha; Japanese: kō, Tibetan: dri (BCSD '香', p. 1280; DJBT '香', p. 423; Mahāvyutpatti 'gandhaḥ'; MW 'gandha'; SH '香', p. 318)	8005891
+8005892	鼓	\N	gǔ	drum; dundubhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dundubhi; Japanese: ku (BCSD '鼓', p. 1302; DJBT '鼓', p. 430; MW 'dundubhi'; SH '鼓', p. 419)	8005892
+8005893	智积	智積	zhì jī	accummulation of wisdom; jñānākara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānākara; name of a prince mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 7; FGDB '智積'; Hurvitz 2009, p. 132; Kern 1884, ch. 7; Karashima 2001, p. 507; SH '智積', p. 375; T 262, Scroll 3, 9.0022c02)	8005893
+8005894	高	\N	gāo	eminent; unnata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: unnata, Tibetan: mthon po (BCSD '高', p. 1286; Mahāvyutpatti 'unnatam'; MW 'unnata')	8003643
+8005895	王子	\N	wángzǐ	prince; rājakumāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rājakumāra, or: yuvarāja, Tibetan: rgyal tshab (BCSD '王子', p. 819; Mahāvyutpatti 'yuvarājā'; MW 'rājakumāra')	8005895
+8005896	震	\N	zhèn	shake; kṣubhita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣubhita, or: cāla, Tibetan: 'khrugs (BCSD '震', p. 1242; Mahāvyutpatti 'kṣubhitaḥ'; MW 'kṣubhita')	8005896
+8005897	震动	震動	zhèndòng	shake; prakampa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prakampa, or: kṣubhita; for example, in the Lotus Sutra (BCSD '震動', p. 1242; Braarvig 2020, ch. 7; Hurvitz 2009, p. 134; Kern 1884, ch. 7; MW 'prakampa'; SH '震動', p. 445; T 262, Scroll 3, 9.0023a11)	8005897
+8005898	救一切	\N	jiù yīqiè	saviour of all beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvasattvatrātā; name of a deity mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 7; Hurvitz 2009, p. 135; Kern 1884, ch. 7; Karashima 2001, p. 226; T 262, Scroll 3, 9.0023a17)	8005898
+8005899	宫	宮	gōng	palace; vimāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimāna, Japanese: gū (BCSD '宮', p. 380; DJBT '宮', p. 430; MW 'vimāna')	8005899
+8005900	宫殿	宮殿	gōngdiàn	palace; vimāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimāna; for example, in the Lotus Sutra (BCSD '宮殿', p. 380; Braarvig 2020, ch. 7; Hurvitz 2009, p. 135; Kern 1884, ch. 7; MW 'vimāna'; T 262, Scroll 3, 9.0023a17)	8005900
+8005901	照	\N	zhào	shine; jval	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jval, Japanese: jō, or: shō (BCSD '照', p. 793; DJBT '宮', p. 423; MW 'jval'; SH '照', p. 406)	8005901
+8005902	方	\N	fāng	direction; diś	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: diś, or: deśa, Japanese: hō, Tibetan: yul (BCSD '方', p. 583; DJBT '方', p. 426; Mahāvyutpatti 'deśaḥ'; MW 'diś'; SH '方', p. 406)	8005902
+8005903	头	頭	tóu	head; śiras	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śiras, Japanese: zu, Tibetan: mgo (BCSD '頭', p. 1265; DJBT '頭', p. 434; Mahāvyutpatti 'śiraḥ'; MW 'śiras'; SH '頭', p. 453)	8005903
+8005904	头面	頭面	tóumiàn	head; śiras	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śiras (BCSD '頭面', p. 1266; MW 'śiras')	8005904
+8005905	绕	繞	rào	circumambulate; āvarta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āvarta (BCSD '繞', p. 941; Mahāvyutpatti 'āvartanam'; MW 'āvarta'; SH '繞', p. 466)	8005905
+8005906	沙弥学园	沙彌學園	shāmí xuéyuán	school for novice monks	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8005906
+8005907	三皈	\N	sān guī	Triple Gem Refuge	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Abbreviation of 三皈依 (SH '三皈', p. 71)	8005907
