@@ -1118,7 +1118,7 @@
 8001118	那罗野拏	那羅野拏	nàluóyěná	Narayana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 那羅延 (SH '那羅延', p. 248)	8001118
 8001119	那罗延天	那羅延天	nàluóyán tiān	Narayana deva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 那羅延 (BL 'Nārāyaṇa', pp. 575-576)	8001119
 8001120	僧院	\N	sēngyuàn	a monastery; a vihara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 伽藍 (FGDB '伽藍')	8001120
-8001121	自性	\N	zìxìng	original nature; essential nature; svabhava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svabhāva, Japanese: jishō, Tibetan: rang bzhin; the intrinsic or essential nature of all things (BL 'svabhāva'; JEBD 'jishō'; FGDB '自性'; Hirakawa '自性')	8001121
+8001121	自性	\N	zìxìng	intrinsic nature; original nature; essential nature; svabhava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svabhāva, Japanese: jishō, Tibetan: rang bzhin; the intrinsic or essential nature of all things (BL 'svabhāva'; JEBD 'jishō'; FGDB '自性'; Hirakawa '自性')	8001121
 8001122	大圣	大聖	dà shèng	mahāsiddha; a great adept	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsiddha, Japanese: daishō, Tibetan: grub thob chen po; an epitah for a tantric Yogin (BL 'mahāsiddha', pp. 508-509; FGDB '大聖')	24904
 8001123	菩斯里善佩佛	\N	pú sī lǐ shàn pèi Fó	Phra Si Sanphet Buddha	proper noun	佛陀	Buddha	佛教	Buddhism	泰国	Thailand	\N	\N	(Baike '菩斯里善佩佛')	8001123
 8001124	化身	\N	huàshēn	transformation body; emanation body; nirmāṇakāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇakāya, Japanese: keshin, Tibetan: sprul pa'i sku (BL 'nirmāṇakāya'; FGDB '化身')	8001124
@@ -5936,10 +5936,23 @@
 8005937	刑	\N	xíng	punishment; vadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vadha (BCSD '刑', p. 186; MW 'vadha')	8005937
 8005938	玄奘	\N	xuán zàng	Xuanzang; Hsuan-Tsang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	c. 602-664, Japanese: Genjō; Wide-Giles: Hsuan-Tsang;  Xuanzang's travel to India is recorded in the work 大唐西域記 'Tang Records of the Western Regions' (BL 'Xuanzang', pp. 1015-1016; Tzu Chuang 2012, p. 393; FGDB '玄奘'; SEEKERS 'Hsuan-Tsang'; KDC 1065; T 2087)	8005938
 8005939	奥	奧	ào	secret; mysterious; guhya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhya, Japanese: oku (BCSD '奧', p. 339; DJBT '奧', p. 423; MW 'vadha')	8005939
-8005940	持法	\N	chífǎ	Protector of the Dharma; Dharanimdhara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharaṇiṃdhara; a kiṃnara king mentioned in the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, p. 81; SH '持法', p. 302; T 262, Scroll 1, 9.0002a15)	8005940
+8005940	持法	\N	chífǎ	Protector of the Dharma; Dharmadhara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhara, or: dharaṇiṃdhara; a kiṃnara king mentioned in the 妙法蓮華經 “Lotus Sutra” (BCSD '持法', p. 545; Karashima 2001, p. 81; SH '持法', p. 302; T 262, Scroll 1, 9.0002a15)	8005940
 8005941	刖	\N	yuè	to cut off; cheda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vadha (BCSD '刖', p. 186; MW 'cheda')	8005941
 8005942	谄曲	諂曲	chǎnqǔ	to flatter; fawning and flattery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '諂曲'; Karashima 2001, p. 70; SH '諂曲', p. 443)	8005942
 8005943	弥勒	彌勒	mílè	Maitreya [Bodhisattva]	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 彌勒菩薩 (FGDB '彌勒菩薩')	8005943
 8005944	十善	\N	shíshàn	the ten virtues	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十學處 (FGDB '十學處')	8005944
 8005945	定心	\N	dìngxīn	to be focussed; to concentrate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '定心', p. 255)	8005945
 8005946	咜	\N	ta	tha; ṭha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭha, Japanese: da (BCSD '咜', p. 253; DJBT '咜', p. 423; MW 'ṭha')	8005946
+8005947	持璎珞	持瓔珞	chíyīngluò	Maladhari	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mālādharīa; a kiṃnara king mentioned in the 妙法蓮華經 “Lotus Sutra” (BCSD '持瓔珞', p. 546; Karashima 2001, p. 81; SH '持瓔珞', p. 303; T 262, Scroll 7, 9.0059a22)	8005947
+8005948	列	\N	liè	row; āvali	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āvali, Japanese: da (BCSD '列', p. 186; MW 'āvali')	8005948
+8005949	佛道	\N	Fódào	Buddhist practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛道' 2; SH '佛道')	8005949
+8005950	瞋恨	\N	chēn hèn	to be angry; to hate	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Collocation: from the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, p. 77; T 262, Scroll 2, 9.0017a12)	8005950
+8005951	差	\N	chà	defect; vaikalya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaikalya, Japanese: sa, or: sha (BCSD '差', p. 410; DJBT '差', p. 423; MW 'vaikalya'; SH '差', p. 324)	8005951
+8005952	成道	\N	chéng dào	awakening; to become enlightened; to become a Buddha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 成佛 (FGDB '成道'; Guoyu '成道'; Mathews 1931 '成道', p. 49; Tzu Chuang 2012)	8005952
+8005953	巴格石窟	\N	bāgé shíkū	Bagh Caves	proper noun	石窟	Caves	佛教	Buddhism	印度	India	\N	\N	Located in India (Baike '巴格石窟')	8005953
+8005954	菴	\N	ān	ām	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ām (BCSD '菴', p. 1020; MW 'ām'; SH '菴', p. 387)	8005954
+8005955	菴没罗	菴沒羅	ānmóluó	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (BCSD '菴沒羅', p. 1020; SH '菴摩羅', p. 387)	8005955
+8005956	菴摩罗	菴摩羅	ānmóluó	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra (BCSD '菴摩羅', p. 1020; FGDB '菴摩羅果'; MW 'āmra'; SH '菴摩羅', p. 387)	8005956
+8005957	菴摩勒	\N	ānmólēi	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005957
+8005958	菴摩落迦果	\N	ānmóluòjiāguǒ	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005958
+8005959	初	\N	chū	foremost, first; prathamam	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prathama, Japanese: sho, Tibetan: dang po (BCSD '初', p. 186; DJBT '差', p. 426; Mahāvyutpatti 'prathamam'; MW 'prathama'; SH '初', p. 251)	8005959
