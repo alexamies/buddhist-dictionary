@@ -4260,7 +4260,7 @@
 8004260	去	\N	qù	go; gati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gati, or: gaccha, or: gacchati, Japanese: ko, Tibetan: song (BCSD '去', p. 224; DJBT '去', p. 426; Mahāvyutpatti 'gaccha'; MW 'gati')	8004260
 8004261	问	問	wèn	ask; prccha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛccha, or: paripṛcchā, or: √prach, Japanese: mon (BCSD '問', p. 258; DJBT '問', p. 43; MW 'paripṛcchā')	8004261
 8004262	问讯	問訊	wènxùn	to join palms and bow as a greeting	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratisaṃmodana, or: √prach, Japanese: monjin; by joining palms and also holding a mudra at the forehead and bowing (BCSD '問訊', p. 258; FGDB '問訊'; Guoyu '問訊'; JEBD 'Monjin', p. 223; MW 'prach'; SH '問訊', p. 334)	8004262
-8004263	是	\N	shì	is	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √bhū, Japanese: ze (BCSD '是', p. 599; DJBT '是', p. 433; MW 'bhū')	8004263
+8004263	是	\N	shì	is; bhū	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √bhū, Japanese: ze (BCSD '是', p. 599; DJBT '是', p. 433; MW 'bhū')	8004263
 8004264	大白伞盖佛母	大白傘蓋佛母	dàbái sǎngài fómǔ	mother of Buddhas white umbrella	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A symbol of her protection of all beings (FGDB '大白傘蓋佛母'; SH '大白傘蓋佛母', p. 93)	8004264
 8004265	于瑟抳沙	\N	yúsènǐshā	usnisa; Buddha crown	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa; variant writing of 佛頂 found in 于瑟抳沙毘左野陀囉尼 Usnisa Dharani, see 佛頂 (T 979)	8004265
 8004266	勇猛胜	勇猛勝	yǒngměng shèng	superior bravery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the characteristics of the Human Realm (Tzu Chuang 2012, p. 127-129)	8004266
@@ -4999,7 +4999,7 @@
 8004999	心数法	心數法	xīn shù fǎ	a mental factor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitasika, Pali: cetasika; the aspects of the mind that understand the characteristics of an object (FGDB '心數法')	8004999
 8005000	一一方	\N	yīyī fāng	ekaikasyam disi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaikasyāṃ diśi (BDSD '一一方', p. 1)	8005000
 8005001	思	\N	sī	volition; cetanā	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	si1.mp3	Sanskrit equivalent: cetanā, Pali: cetanā; the mental factor 心所 that propels the mind forward (FGDB '思')	8005001
-8005002	触	觸	chù	touch; contact; sparśa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	chu4.mp3	Sanskrit equivalent: sparśa, Pali: phassa, Japanese: soku, Tibetan: reg pa; a 心所 mental factor and the sixth link of dependent origination (BL 'sparśa'; Ding '觸'; FGDB '觸'; Karashima 2001 '觸'; Mahāvyutpatti 'sparśaḥ'; SH '觸', p. 48; Tzu Chuang 2012)	8005002
+8005002	触	觸	chù	touch; contact; sparśa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	chu4.mp3	Sanskrit equivalent: sparśa, Pali: phassa, Japanese: soku, Tibetan: reg pa; a 心所 mental factor and the sixth link of dependent origination (BL 'sparśa'; Ding '觸'; FGDB '觸'; Karashima 2001 '觸'; Mahāvyutpatti 'sparśaḥ'; SH '觸', p. 48; Tzu Chuang 2012, p. 303)	8005002
 8005003	大地法	\N	dà dì fǎ	ten great stages and corresponding mental condiions; mahā-bhūmika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahā-bhūmika (FGDB '大地法'; SH '大地法', p. 86)	8005003
 8005004	一一毛石旋	\N	yī yī máo shí xuán	ekaika-roma-pradaksinavarta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaika-roma-pradakṣiṇāvarta; one of the thirty two marks of excellence of the Buddha (BCSD '一一毛石旋', p. 1; FGDB '三十二相')	8005004
 8005005	一一毛石旋相	\N	yī yī máo shí xuán xiāng	ekaika-romata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaika-romatā; see 一一毛石旋 (BCSD '一一毛石旋相', p. 1)	8005005
@@ -5909,7 +5909,7 @@
 8005909	闇	\N	àn	dark; tamas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tamas, Japanese: an (BCSD '闇', p. 1200; DJBT '闇', p. 423; SH '闇', p. 463)	8004560
 8005910	素斋	素齋	sùzhāi	vegetarian food	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '素齋')	8005910
 8005911	浴佛大典	\N	yù fó dà diǎn	Bathing the Buddha Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8005911
-8005912	切	\N	qiē	strike; cut; kuṭṭ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuṭṭ, Japanese: sai (BCSD '切', p. 186; DJBT '切', p. 425; Mahāvyutpatti 'kuṭṭayati'; MW 'kuṭṭ'; SH '切', p. 139)	8005912
+8005912	切	\N	qiē	strike; cut; kuṭṭ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √kuṭṭ, Japanese: sai (BCSD '切', p. 186; DJBT '切', p. 425; Mahāvyutpatti 'kuṭṭayati'; MW 'kuṭṭ'; SH '切', p. 139)	8005912
 8005913	承揽	承攬	chénglǎn	to grasp	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hastaprāpta; for example, in the Lotus Sutra (Karashima 2001, pp. 79-80; MW 'hastaprāpta'; T 262, Scroll 3, 9.0019c08)	8005913
 8005914	承	\N	chéng	appointed; adhiṣṭhita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiṣṭhita, Japanese: jō, or: shō (BCSD '承', p. 540; DJBT '承', p. 425; MW 'adhiṣṭhita'; SH '承', p. 260)	8005914
 8005915	承	\N	chéng	supported; dhārita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhārita (BCSD '承', p. 540; MW 'dhārita'; SH '承', p. 260)	8005914
@@ -5938,7 +5938,7 @@
 8005938	玄奘	\N	xuán zàng	Xuanzang; Hsuan-Tsang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	c. 602-664, Japanese: Genjō; Wide-Giles: Hsuan-Tsang;  Xuanzang's travel to India is recorded in the work 大唐西域記 'Tang Records of the Western Regions' (BL 'Xuanzang', pp. 1015-1016; Tzu Chuang 2012, p. 393; FGDB '玄奘'; SEEKERS 'Hsuan-Tsang'; KDC 1065; T 2087)	8005938
 8005939	奥	奧	ào	secret; mysterious; guhya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhya, Japanese: oku (BCSD '奧', p. 339; DJBT '奧', p. 423; MW 'vadha')	8005939
 8005940	持法	\N	chífǎ	Protector of the Dharma; Dharmadhara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhara, or: dharaṇiṃdhara; a kiṃnara king mentioned in the 妙法蓮華經 “Lotus Sutra” (BCSD '持法', p. 545; Karashima 2001, p. 81; SH '持法', p. 302; T 262, Scroll 1, 9.0002a15)	8005940
-8005941	刖	\N	yuè	to cut off; cheda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vadha (BCSD '刖', p. 186; MW 'cheda')	8005941
+8005941	刖	\N	yuè	to cut off; cheda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cheda (BCSD '刖', p. 186; MW 'cheda')	8005941
 8005942	谄曲	諂曲	chǎnqǔ	to flatter; fawning and flattery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '諂曲'; Karashima 2001, p. 70; SH '諂曲', p. 443)	8005942
 8005943	弥勒	彌勒	mílè	Maitreya [Bodhisattva]	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 彌勒菩薩 (FGDB '彌勒菩薩')	8005943
 8005944	十善	\N	shíshàn	the ten virtues	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十學處 (FGDB '十學處')	8005944
@@ -5958,9 +5958,12 @@
 8005958	菴摩落迦果	\N	ānmóluòjiā guǒ	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005958
 8005959	初	\N	chū	foremost, first; prathama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prathama, Japanese: sho, Tibetan: dang po (BCSD '初', p. 186; DJBT '差', p. 426; Mahāvyutpatti 'prathamam'; MW 'prathama'; SH '初', p. 251)	8005959
 8005960	过	過	guò	gone by, past; atīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atīta, Japanese: ka (BCSD '過', p. 1156; DJBT '過', p. 430; MW 'atīta'; SH '過', p. 414)	8005960
-8005961	增	\N	zēng	to increase; vṛdh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛdh, or: vṛddhi, Japanese: sō, or: zō (BCSD '增', p. 303; DJBT '增', p. 435; MW 'vṛdh'; SH '增', p. 431)	8005961
+8005961	增	\N	zēng	to increase; vṛdh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √vṛdh, or: vṛddhi, Japanese: sō, or: zō (BCSD '增', p. 303; DJBT '增', p. 435; MW 'vṛdh'; SH '增', p. 431)	8005961
 8005962	增	\N	zēng	accumulation; upacaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upacaya, or: ācaya, Tibetan: bsags pa (BCSD '增', p. 303; Mahāvyutpatti 'ācayaḥ'; MW 'upacaya')	8005961
 8005963	增长	增長	zēngzhǎng	Virudhaka; Virudhaka Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	See 增長天 (FGDB '增長天')	8000651
 8005964	转	轉	zhuǎn	to move forward; pravartana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravartana, Japanese: ten, Tibetan: 'jug pa (BCSD '轉', p. 1137; DJBT '轉', p. 426; Mahāvyutpatti 'pravartanam'; MW 'pravartana'; SH '轉', p. 469)	8005964
 8005965	转于法轮	轉於法輪	zhuǎn yú fǎlún	move forward the Dharma wheel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharma-cakra-pravartanatā; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '轉於法輪', p. 1138; Hurvitz 2009, p. 143; Kern 1884, ch. 7; T 262, Scroll 3, 9.0024c23)	8005965
 8005966	菴摩罗果	菴摩羅果	ānmóluóguǒ	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005966
+8005967	谓	謂	wèi	which; what; yad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yad, or: yathā (BCSD '謂', p. 1093; DJBT '謂', p. 426; MW 'yad')	8005967
+8005967	是	\N	shì	this; idam	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: idam (BCSD '是', p. 599; MW 'idam')	8004263
+8005968	妙法莲华	妙法蓮華	miàofǎ liánhuá	Lotus of the True Dharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharmapuṇḍarīkaṃ; self refernce to the text, see also 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 7; Hurvitz 2009, p. 145; Kern 1884, ch. 7; SH '妙法蓮華'; Vaidya 1960, p. 118; T 262, Scroll 3, 9.0025b18)	8005968
