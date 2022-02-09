@@ -237,7 +237,7 @@
 8000237	刹	剎	chà	sign; mark; symbol	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣatā (FGDB '剎')	8000237
 8000238	剌瑟胝	\N	lásèzhī	sign; mark; symbol	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣatā; see 剎 (FGDB '剎')	8000238
 8000239	自性三宝	自性三寶	zìxìng sān bǎo	intrinsic nature of the triple gem	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the intrinsic nature each item of the triple gem: 1. 覺 enlightenment for Buddha, 2. 正 correctness for Dharma, and 3. 淨 purity for Sangha (DDB '自性三寶'; FGDB '自性三寶'; SH '自性三寶', p. 219)	8000239
-8000240	刹	剎	shā	land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra; an abbreviation of 剎多羅 (FGDB '國土'; Karashima 2001, p. 70; XHZD '剎' chà, p. 72)	8000237
+8000240	刹	剎	shā	land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra, Japanese: setsu; an abbreviation of 剎多羅 (BCSD '剎', p. 193; DJBT '剎', p. 423; FGDB '國土'; Karashima 2001, p. 70; XHZD '剎' chà, p. 72)	8000237
 8000241	刹竿	剎竿	shāgān	a pole for flying a banner	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Placed outside a temple (Mathews 1931 '剎竿', p. 11)	8000241
 8000242	胜鬘	勝鬘	Shèngmán	Śrīmālā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See  (FGDB '勝鬘夫人')	8000242
 8000243	结集	結集	jiéjí	chant; recitation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgīti, Pali: saṅgīti (BL 'saṃgīti', , p. 753)	8000243
@@ -5995,4 +5995,25 @@
 8005995	白癞	白癩	báilài	leprosy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2001, p. 44)	8005995
 8005996	僧宝节	僧寶節	sēngbǎo jié	Sangha Day	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8005996
 8005997	到	\N	dào	approach; upagati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upagati (BCSD '到', p. 192; MW 'upagati'; SH '到', p. 250)	8005997
-8005998	褫落	\N	chǐ luò	broken	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśīrṇa; for example, in the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, p. 82; MW 'viśīrṇa'; T 262, Scroll 2, 9.0013c18)	8005998
+8005998	褫落	\N	chǐ luò	broken	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśīrṇa; for example, in the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, pp. 81-82; MW 'viśīrṇa'; T 262, Scroll 2, 9.0013c18)	8005998
+8005999	幢幡	\N	chuángfān	a hanging banner	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '幢幡'; SH '幢幡', p. 431)	8005999
+8006000	丹珠尔	丹珠爾	dānzhūě'r	Tengyur; Tanjur	proper noun	\N	\N	佛教	Buddhism	西藏	Tibet	\N	\N	Tibetan: bstan 'gyur; collection of commentaries on the scriptures (BL bstan ’gyur, p. 148; FGDB '丹珠爾'; Powers 2007, p. 162; Wikipedia '丹珠爾')	8006000
+8006001	甘珠尔	甘珠爾	gānzhūě'r	Kangyur; Kanjur; Tibetan Buddhist canon	proper noun	\N	\N	佛教	Buddhism	西藏	Tibet	\N	\N	Tibetan: bka' 'gyur; collection of discourses and Tantric texts in Tibetan translation (BL bka’ ’gyur, pp. 123-124; FGDB '甘珠爾'; Powers 2007, p. 162; Wikipedia '甘珠爾')	8006001
+8006002	外道	\N	wàidào	non-Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tīrthika, Pali: titthiya, Tibetan: mu stegs can (FGDB '外道'; Guoyu '外道' 1; Mahāvyutpatti 'tīrthikaḥ'; MW 'tīrthika'; SH '外道', p. 183)	8006002
+8006003	制	\N	zhì	regulations; prajñāpti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpti, or: niyama, Tibetan: bcas pa (BCSD '制', p. 193; Edgerton 1953 'prajñāpti', p. 359; Mahāvyutpatti 'prajñāptiḥ'; MW 'niyama'; SH '制', p. 250)	8006003
+8006004	叉	\N	chā	a spike; śūla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūla, Japanese: sha (BCSD '叉', p. 225; DJBT '叉', p. 423; MW 'śūla'; SH '叉', p. 82)	8006004
+8006005	券	\N	quàn	a leaf for writing on; pattra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pattra (BCSD '券', p. 225; MW 'pattra')	8006005
+8006006	言	\N	yán	speech; vāc	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāc, Japanese: gon, Tibetan: ngag gam tshig (BCSD '言', p. 1070; DJBT '言', p. 436; Mahāvyutpatti 'vāk'; MW 'vāc'; SH '言', p. 244)	8006006
+8006007	言	\N	yán	speak; vad	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vad (BCSD '言', p. 1070; MW 'vad')	8006006
+8006008	汝	\N	rǔ	you; sir; bhavat	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhavat, or: tvat; bhavat is a polite form (BCSD '汝', p. 707; MW 'bhavat')	8006008
+8006009	罗刹娑	羅剎娑	luóchàsuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '羅剎')	8006009
+8006010	退还	退還	tuìhuán	to return	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nivṛt; for example in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 7; Hurvitz 2009, p. 148; Karashima 2001, p. 389; Kern 1884, ch. 7; MW 'nivṛt'; Vaidya 1960, p. 120; T 262, Scroll 3, 9.0025c26)	8006010
+8006011	逻刹娑	邏剎娑	luóchàsuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '九類鬼')	8006011
+8006012	快	\N	kuài	joyful; sukha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sukha, Japanese: ke (BCSD '快', p. 469; DJBT '快', p. 430; MW 'sukha'; SH '快', p. 237)	8006012
+8006013	快	\N	kuài	swift; āśu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āśu, or: śīghra, Tibetan: myur ba (BCSD '快', p. 469; Mahāvyutpatti 'āśu'; MW 'āśu'; SH '快', p. 237)	8006012
+8006014	罗叉娑	羅叉娑	luóchāsuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '羅剎')	8006014
+8006015	众人	眾人	zhòngrén	a multitude of people; bāhujanyam	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāhujanya, , Tibetan: skye bo mang po pa (BCSD '眾人', p. 1040; Mahāvyutpatti 'bāhujanyam'; MW 'bāhujanya')	8006015
+8006016	盋昙摩华	盋曇摩華	bōtánmó huá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 赤蓮華 (FGDB '盋曇摩華'; MW 'padma')	8006016
+8006017	赤莲华	赤蓮華	chì liánhuá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma (FGDB '盋曇摩華'; Karashima 2001, p. 82; MW 'padma')	8006017
+8006017	钵特忙华	鉢特忙華	bōtémáng huá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 赤蓮華 (FGDB '盋曇摩華')	8006017
+8006018	刺	\N	cì	thorn; kaṇṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇṭaka, Tibetan: tsher ma (BCSD '刺', p. 193; Mahāvyutpatti 'kaṇṭakaḥ'; MW 'kaṇṭaka')	8006018
