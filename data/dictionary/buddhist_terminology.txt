@@ -3555,7 +3555,7 @@
 8003555	子	\N	zǐ	offspring; tanaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tanaya, Tibetan: bu (Mahāvyutpatti 'putraḥ'; MW 'putra')	8003554
 8003556	真	\N	zhēn	true	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tattva, Japanese: shin (BCSD '眞', p. 876; DJBT '眞', p. 424; MW 'tattva'; SH '眞', p. 331)	8003556
 8003557	眞	\N	zhēn	true	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shin; variant of 真 (DJBT '眞', p. 424; SH '眞', p. 331)	8003557
-8003558	和	\N	hé	harmony	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ka, or: wa (DJBT '和', p. 427)	8003558
+8003558	和	\N	hé	harmony; gentleness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārdava, Japanese: ka, or: wa, Tibetan: mnyen pa (BCSD '和', p. 252; DJBT '和', p. 427; Mahāvyutpatti 'mārdavaḥ'; MW 'mārdava')	8003558
 8003559	目	\N	mù	eye	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakṣu; Japanese: moku (DJBT '目', p. 431; MW 'cakṣu'; SH '目', p. 199)	8003559
 8003560	录	錄	lù	record	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: roku (DJBT '录', p. 431)	8003560
 8003561	波罗蜜多	波羅蜜多	bōluómìduō	paramita; perfection	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāramitā, Pali: pāramī. A pāramitā is the perfection or culmination of certain virtues. In the Mahāyāna tradition a pāramitā is a virtue practiced by a bodhisattva on the path to enlightenment. Another explanation is reaching the other shore The word is derived from the Sanskrit parama 'highest' or 'supreme'. The most common enumeration in the Mahāyāna tradition is 六度 'six pāramitās' and the most common in the Theravāda tradition is the ten pāramīs. The Mahāyāna tradition also extends the six pāramitās to ten 十波羅蜜, although they are different from the Theravāda list (BL 'pāramitā'; Shambhala 'pāramitā'; FGDB '波羅蜜').	8003561
@@ -5100,8 +5100,8 @@
 8005100	有分识	有分識	yǒufēnshí	subconscious; most fundamental level of the mind; bhavanga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhavaṅgavijñana, Pali: bhavaṅga; in Buddhist psychology (FGDB '有分識')	8005100
 8005101	势速	勢速	shìsù	the active part of the thought process; javana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: javana, Pali: javana, Tibetan: mgyogs pa (FGDB '勢速'; Mahāvyutpatti 'jāvaḥ')	8005101
 8005102	盖	蓋	gài	a hindrance; an obstacle; nivāraṇa; nīvaraṇāni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nivāraṇa, Pali: nīvaraṇāni (BL 'nivāraṇa')	8005102
-8005103	污染	\N	wūrǎn	a defilement; an impurity/ upaklesa; upakkilesa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	wu3ran1.mp3	Sanskrit equivalent: upakleśa, Pali: upakkilesa; an obstruction of the mind (FGDB '污染')	8005103
-8005104	大弟子	\N	dà dìzi	chief disciple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '大弟子', p. 93)	8005104
+8005103	污染	\N	wūrǎn	a defilement; an impurity/ upaklesa; upakkilesa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakleśa, Pali: upakkilesa; an obstruction of the mind (FGDB '污染')	8005103
+8005104	大弟子	\N	dà dìzi	chief disciple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāśrāvaka (FGDB '十大弟子'; Karashima 2001, p. 82; SH '大弟子', p. 97)	8005104
 8005105	出息	\N	chūxí	breathe out	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '出入息'; Guoyu '出息' 1; SH '出息', p. 167)	8005105
 8005106	出入息	\N	chū rù xí	breath out and in	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '出入息')	8005106
 8005107	慧眼	\N	huì yǎn	wisdom eyes	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñācakṣu, possessed by śrāvakas and pratyekabuddhas, vision imbued with wisdom but lacks compassion (FGDB '慧眼'; SH '慧眼', p. 434)	8005107
@@ -6015,7 +6015,6 @@
 8006015	众人	眾人	zhòngrén	a multitude of people; bāhujanyam	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāhujanya, , Tibetan: skye bo mang po pa (BCSD '眾人', p. 1040; Mahāvyutpatti 'bāhujanyam'; MW 'bāhujanya')	8006015
 8006016	盋昙摩华	盋曇摩華	bōtánmó huá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 赤蓮華 (FGDB '盋曇摩華'; MW 'padma')	8006016
 8006017	赤莲华	赤蓮華	chì liánhuá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma (FGDB '盋曇摩華'; Karashima 2001, p. 82; MW 'padma')	8006017
-8006017	钵特忙华	鉢特忙華	bōtémáng huá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 赤蓮華 (FGDB '盋曇摩華')	8006017
 8006018	刺	\N	cì	thorn; kaṇṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇṭaka, Tibetan: tsher ma (BCSD '刺', p. 193; Mahāvyutpatti 'kaṇṭakaḥ'; MW 'kaṇṭaka')	8006018
 8006019	罗乞察娑	羅乞察娑	luóqǐchásuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '羅剎')	8006019
 8006020	阿落刹娑	阿落剎娑	āluòshāsuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '羅剎')	8006020
@@ -6029,4 +6028,26 @@
 8006028	事度	\N	shìdù	saved from an evil rebirth through good deeds	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '事度'; SH '事度', p. 248)	8006028
 8006029	噶玛巴	噶瑪巴	gémǎbā	Karmapa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A lineage of incarnations in Tibetan Buddhism (Wikipedia '噶玛巴')	8006029
 8006030	剃	\N	tì	cut off	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chid, Japanese: tei (BCSD '剃', p. 194; DJBT '剃', p. 434; MW 'chid'; SH '剃', p. 297)	8006030
-29029	𤙖	\N	xīn	hūṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃ; used in mantras (Giebel 2005, p. 41; T 848, Scroll 1, 18.0006b09)	29029
+8006031	𤙖	\N	xīn	hūṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hūṃ; used in mantras (Giebel 2005, p. 41; T 848, Scroll 1, 18.0006b09)	8006031
+8006032	缘起自性	緣起自性	yuánqǐ zìxìng	dependent reality	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Red Pine 2012, loc. 5667)	8006032
+8006033	光明灯法会	光明燈法會	guāngmíng dēng fǎhuì	Light Offering Dharma Service	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8006033
+8006034	剃度典礼	剃度典禮	tìdù diǎnlǐ	Tonsure Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8006034
+8006035	钵特忙华	鉢特忙華	bōtémáng huá	red lotus; padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma; see 赤蓮華 (FGDB '盋曇摩華')	8006035
+8006036	和	\N	hé	venerable	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Respectful form of address for a senior monk (Kroll 2015 '和' 8, p. 16)	8006036
+8006037	剃度仪式	剃度儀式	tìdù yíshì	Tonsure Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8006037
+8006038	地藏法会	地藏法會	dìzàng fǎhuì	Ksitigarbha Dharma Service	proper noun	法会	Dharma Service	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	(FoguangPedia)	8006038
+8006039	则	則	zé	then; moreover; atha	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atha, or: tatra, or: punar, Japanese: soku (BCSD '則', p. 194; DJBT '則', p. 434; MW 'atha'; SH '則', p. 297)	8006039
+8006040	从	從	cóng	receiving; upādāya	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upādāya (BCSD '從', p. 453; MW 'upādāya'; SH '從', p. 349)	8006040
+8006041	闻	聞	wén	hearing; śruti	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śruti, Japanese: mon, Tibetan: thos pa (BCSD '聞', p. 959; DJBT '聞', p. 436; Mahāvyutpatti 'śrutiḥ'; MW 'śruti'; SH '聞', p. 427)	8006041
+8006042	左右胁士	左右脅士	zuǒyòu xiéshì	attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two attendants either side of a Buddha or bodhisattva (FGDB '脇士'; Tzu Chuang 2012)	8006042
+8006043	成满	成滿	chéngmǎn	to become complete	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as used in the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, p. 79; T 262, Scroll 4, 9.0028a07)	8006043
+8006044	暗冥	\N	àn míng	wrapt in darkness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: andha; for example in the 妙法蓮華經 “Lotus Sutra”  (BCSD '暗冥', p. 608; Braarvig 2020, ch. 7; Hurvitz 2009, p. 142; Kern 1884, ch. 7; ; MW 'andha'; T 262, Scroll 3, 9.0024b20)	8006044
+8006045	六念	\N	liù niàn	the six contemplations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Contemplate the Buddha, 2. contemplate the Dhárma, 3. contemplate the Sangha, 4. contemplate the precepts, 5. contemplate giving (dāna), and 6. contemplate the devas (Ding '六念'; FGDB '六念'; SH '六念', p. 135)	8006045
+8006046	削	\N	xiāo	to scrape off; apakarṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apakarṣa (BCSD '削', p. 959; DJBT '聞', p. 436; MW 'apakarṣa')	8006046
+8006047	择	擇	zhái	discrimination; pravicāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravicāra, Japanese: jaku (BCSD '擇', p. 959; DJBT '擇', p. 423; MW 'pravicāra'; SH '擇', p. 447)	8006047
+8006048	充遍	\N	chōngbiàn	pervades; sphuṭa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphuṭa (Karashima 2001, pp. 82-83; MW 'sphuṭa')	8006048
+8006049	圆	圓	yuán	circular; parimaṇḍala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parimaṇḍala, Tibetan: zlum po (BCSD '圓', p. 287; DJBT '圓', p. 423; Mahāvyutpatti 'parimaṇḍalam'; MW 'parimaṇḍala'; SH '圓', p. 396)	8006049
+8006049	圆	圓	yuán	perfect; paripūrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrṇa (BCSD '圓', p. 287; MW 'paripūrṇa'; SH '圓', p. 396)	8006049
+8006050	大悲忏法会	大悲懺法會	dà bēi chàn fǎhuì	Great Compassion Repentance Service	proper noun	法会	Dharma Service	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	(FoguangPedia)	8006050
+8006051	弥陀法会	彌陀法會	mítuó fǎhuì	Amitabha Dharma Service	proper noun	法会	Dharma Service	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	(FoguangPedia)	8006051
+8006052	念佛共修	\N	niàn fó gòng xiū	Amitabha Chanting Service	proper noun	法会	Dharma Service	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	(FoguangPedia)	8006052
