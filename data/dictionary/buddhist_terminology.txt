@@ -58,7 +58,7 @@
 8000058	塔	\N	tǎ	a pagoda; a stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ta3.mp3	Sanskrit equivalent: stūpa, or: caitya, Pali: thūpa, Japanese: tō, Tibetan: mchod rten; the most appropriate English term can be used depending on the shape of the tower or stupa.  Pagodas are taller and thinner and are common in China.  Stupas shorter and bowl shaped and are more common in South Asia and Southeast Asia (BL 'stūpa', pp. 859-860; Ding '塔'; FGDB '塔'; SH '寶塔', p. 477).	8000058
 8000059	功德聚	\N	gōngdé jù	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8000059
 8000060	法会	法會	fǎhuì	a Dharma service; an assembly; dharma-saṃgīti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharma-saṃgīti (FGDB '法會'; BCSD '法會')	8000060
-8000061	法	\N	fǎ	the teachings of the Buddha; Dharma; Dhárma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fa3.mp3	Sanskrit equivalent: dharma, Pali: dhamma, Japanese: hō, Tibetan: chos; in the sense of 佛法 'Buddhadharma' (BL 'dharma', p. 242; FGDB '法'; Powers 2007, p. 532; SH '法', p. 267; Tzu Chuang 2012, p. 68)	8000061
+8000061	法	\N	fǎ	the teachings of the Buddha; Dharma; Dhárma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fa3.mp3	Sanskrit equivalent: dharma, Pali: dhamma, Japanese: hō, Tibetan: chos; in the sense of 佛法 'Buddhadharma' (BCSD '法', p. 713; BL 'dharma', p. 242; FGDB '法'; Powers 2007, p. 532; SH '法', p. 267; Tzu Chuang 2012, p. 68)	8000061
 8000062	法	\N	fǎ	a dharma; a dhárma; a natural law; teachings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhárma, Pali: dhamma. This sense is used in Buddhism, Hinduism, and Jainism with a number of related meanings. In Hinduism, dhárma literally means 'that which is held together.' (BL 'dharma', p. 242; FGDB '法'; Kroll 2015 '法' 5, p. 104; Mittal and Thursby 2006, p19; SH '一法', p. 7)	8000061
 8000063	法	\N	fǎ	a mental object; a phenomenon; dharma; a thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhárma, Pali: dhamma; a basic unit of existence or experience (BL 'dharma', p. 242; FGDB '法')	8000061
 8000064	法	\N	fǎ	quality; characteristic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhárma, Pali: dhamma; in Buddhist logic (BL 'dharma', p. 242; FGDB '法')	8000061
@@ -6288,3 +6288,25 @@
 8006288	五旬	\N	wǔ xún	five supernatural powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcābhijñā (FGDB '般遮旬'; Lancaster 1968, 377; SH '五旬', p. 119)	8006288
 8006289	般遮旬	\N	bānzhē xún	five supernatural powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcābhijñā; see 五旬 (FGDB '般遮旬')	8006289
 8006290	劝	勸	quàn	excitation; samādāpana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādāpana (BCSD '勸', p. 211; MW 'samādāpana'; SH '勸', p. 476)	8006290
+8006291	五空泽问我乐	五空澤問我樂	wǔ kōng zé wèn wǒ lè	pañca-kāma-guṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-kāma-guṇa (Lancaster 1968, 377)	8006291
+8006292	五逆恶	五逆惡	wǔ nì è	pañca-ānantarya-karma; five heinous crimes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-ānantarya-karma, there are different formulations for Theravāda and Mahāyāna. For Theravāda they are (1) patricide (2) matricide (3) killing an arahant (4) wounding a buddha (5) creating a schism in the sangha (FGDB '五逆'; Lancaster 1968, 377)	8006292
+8006293	乐	樂	lè	joy, delight; sukhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sukhā, or: sukham, Japanese: gyō, or: raku, Tibetan: bde ba (BCSD '樂', p. 666; DJBT '樂', p. 430; FGDB '樂'; Mahāvyutpatti 'sukhāḥ'; MW 'sukhā'; SH '樂', p. 438)	8006293
+8006294	正	\N	zhèng	right manner; nyāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nyāya, Japanese: jō, or: shō, Tibetan: rigs pa (BCSD '正', p. 683; DJBT '正', p. 424; Mahāvyutpatti 'nyāyaḥ'; MW 'nyāya'; SH '正', p. 192)	8006294
+8006295	五通	\N	wǔ tōng	five supernatural powers; pañca-abhijnā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-abhijnā (Ding '五神通'; FGDB '五通'; Lancaster 1968, 377; SH '五神通')	8006295
+8006296	解脱身	解脫身	jiětuōshēn	body of liberation; aggregate of liberation; vimukti-skanda	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 五分法身 'five attributes of Dharmakāya' (Ding '解脫身'; FGDB '解脫身'; Lancaster 1968, 377)	8006296
+8006297	解脱蕴	解脫蘊	jiětuōyùn	aggregate of liberation; vimuktiskanda	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimuktiskanda, Tibetan: rnam par grol ba'i phung po; see 解脫身 (Mahāvyutpatti 'vimuktiskandaḥ')	8006297
+8006298	解脱众	解脫眾	jiětuōzhòng	body of liberation; aggregate of liberation; vimukti-skanda	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫身 (FGDB '解脫身')	8006298
+8006299	解脱品	解脫品	jiětuōpǐn	body of liberation; aggregate of liberation; vimukti-skanda	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫身 (FGDB '解脫身')	8006299
+8006300	伊沙天	\N	yīshātiān	Iṣa-deva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iṣa-deva (Lancaster 1968, p. 377)	8006300
+8006301	佛树	佛樹	fóshù	bodhi tree	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhi-maṇḍa (Lancaster 1968, 377)	8006301
+8006302	修乾天	\N	xiūgàntiān	śubha-kṛtsna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śubha-kṛtsna (Lancaster 1968, p. 378)	8006302
+8006303	优那拘泥摩	優那拘泥摩	yōunàjūnímó	avakīrṇakusuma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avakīrṇakusuma (Lancaster 1968, p. 378)	8006303
+8006304	先泥	\N	xiānní	śreṇika; a front-tooth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śreṇika (Lancaster 1968, 378; MW 'zreNika')	8006304
+8006305	兜率陀天	\N	dōushuàituó tiān	Tusita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8006305
+8006306	兜率多天	\N	dōushuàiduō tiān	Tusita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8006306
+8006307	兜师陀天	兜師陀天	dōushītuó tiān	Tusita gods	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8006307
+8006308	睹史多天	\N	dǔshǐduō tiān	Tusita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8006308
+8006309	淡	\N	dàn	a dull or yellowish red robe; kaṣāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṣāya, Japanese: jō, or: shō (BCSD '淡', p. 727; MW 'kaṣāya')	8006309
+8006310	兜驶多天	兜駛多天	dǔshǐduō tiān	Tusita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8006310
+8006311	兜术陀天	兜术陀天	dōushùtuó tiān	Tusita	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '兜率天')	8006311
+8006312	源	\N	yuán	source; ākara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākara, Japanese: gen (BCSD '源', p. 738; DJBT '源', p. 437; MW 'ākara'; SH '源', p. 405)	8006312
