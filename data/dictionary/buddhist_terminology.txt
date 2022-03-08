@@ -6355,7 +6355,7 @@
 8006355	无欲知足	無欲知足	wú yù zhī zú	content with few desires	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 少欲知足 (FGDB '少欲知足')	8006355
 8006356	少欲	\N	shǎo yù	few desires	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpeccha; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '少欲', p. 399; FGDB '少欲知足'; Hurvitz 2009, p. 160; MW 'alpeccha'; T 262, Scroll 4, 9.0028a07)	8006356
 8006357	少	\N	shǎo	few	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpa (BCSD '少', p. 398; MW 'alpa'; SH '少', p. 148)	8006357
-8006358	匙	\N	chí	spoon; kalācika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalācika (BCSD '匙', p. 398; MW 'kalācika')	8006358
+8006358	匙	\N	chí	spoon; kalācika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalācika (BCSD '匙', p. 214; MW 'kalācika')	8006358
 8006359	出现	出現	chūxiàn	to manifest	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udaya, Tibetan: 'char ka (BCSD '出現', p. 398; FGDB '出現'; Karashima 2001, p. 86; Mahāvyutpatti 'udayī'; MW 'udaya'; SH '出現', p. 167)	8006359
 8006360	湛	\N	zhàn	placid	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śānta, Japanese: tan (BCSD '湛', p. 504; DJBT '湛', p. 423; MW 'śānta'; SH '湛', p. 376)	8006360
 8006361	自觉	自覺	zìjué	self-aware; enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyātma-vedya (BCSD '自覺', p. 992; FGDB '自覺'; SH '二覺', p. 29)	8006361
@@ -6365,3 +6365,20 @@
 8006365	燕坐	\N	yān zuò	to meditate in seclusion; pratisaṃlayana; patisallāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratisaṃlayana, Pali: patisallāṇa (FGDB '燕坐'; BL 'pratisaṃlayana')	8006365
 8006366	一地	\N	yīdì	one ground	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Buddha nature of all living beings (Ding '一地'; FGDB '一地'; SH '一地')	8006366
 8006367	鏌鎁剑	鏌鎁劍	mòyé jiàn	Moye sword; a sharp sword	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Metaphor from koan 9 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 58; T 2003, Scroll 1; FGDB '鏌鎁劍')	8006367
+8006368	匠	\N	jiàng	artisan; karmāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmāra (BCSD '匠', p. 214; MW 'karmāra')	8006368
+8006369	除断	除斷	chú duàn	removing; abstaining; chedana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chedana, or: vigata; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '除斷', p. 179; Karashima 2001, p. 86; MW 'chedana'; SH '除斷', p. 340; T 262, Scroll 1, 9.0004b18)	8006368
+8006370	忏	懺	chàn	repentance	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣamayati, Japanese: san, or: sen (BCSD '懺', p. 482; DJBT '懺', p. 423; Kroll 2015 '懺', p. 40; MW 'kṣamā'; SH '懺', p. 478)	8006370
+8006371	莎伽陀	\N	suōjiātuó	svāgata; well come one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svāgata, Tibetan: legs 'ong (Mahāvyutpatti 'svāgataḥ'; Guoyu 'svāgataḥ'; SH '修伽陀', p. 320)	8006371
+8006372	莎伽陀	\N	suōjiātuó	Svagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of an Arhat mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 8; FGDB '五百人授記'; Hurvitz 2009, p. 163; Kern tr. 1884, ch. 8; Vaidya 1960, p. 132; T 262, Scroll 4, 9.0028b25)	8006371
+8006373	五百人授记	五百人授記	wǔ bǎi rén shòu jì	prophesies for five hundred people	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story of prophesies made by the Buddha in Chapter 8 of the 妙法蓮華經 “Lotus Sutra” (FGDB '五百人授記'; Hurvitz 2009, pp. 157-167; T 262, Scroll 4)	8006373
+8006374	前	\N	qián	facing; mukha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mukha (BCSD '前', p. 195; MW 'mukha')	8006060
+8006375	莫邪剑	莫邪劍	mòyé jiàn	Moye sword; a sharp sword	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 鏌鎁劍 (FGDB '鏌鎁劍')	8006375
+8006376	悔过自责	悔過自責	huǐ guò zì zé	to repent one's transgressions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: deśayāmo; for example in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 8; Hurvitz 2009, p. 164; Kern tr. 1884, ch. 8; Vaidya 1960, p. 134; T 262, Scroll 4, 9.0029a01)	8006376
+8006377	悔过	悔過	huǐguò	repent	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaukṛtya (BCSD '悔過', p. 482; FGDB '悔過'; MW 'kaukṛtya'; SH '悔過', p. 325)	8006377
+8006378	悔	\N	huǐ	to repent; to correct	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: deśayati, or: kaukṛtya, Japanese: ge (BCSD '悔', p. 482; DJBT '悔', p. 429; Edgerton 1953 'deśayati', p. 272; Mahāvyutpatti 'kaukṛtyam'; MW 'diś'; SH '悔', p. 325)	8006378
+8006379	祖师西来意	祖師西來意	zǔshī xī lái yì	the patriarch's purpose of coming from the West	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Bodhidharma's purpose in coming to China to propagate Buddhist teachings (FGDB'祖師西來意')	8006379
+8006380	西来祖师意	西來祖師意	xī lái zǔshī yì	the patriarch's purpose of coming from the West	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 祖師西來意 (FGDB '祖師西來意')	8006380
+8006381	匮	匱	kuì	deficient; parihīṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parihīṇa (BCSD '匱', p. 214; MW 'parihīṇa')	8006381
+8006382	除疑意	\N	chúyíyì	Vimatisamudghati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimatisamudghāṭī; name of a prince mentioned in the 妙法蓮華經 “Lotus Sutra” (FGDB '八王子'; Karashima 2001, p. 86; T 262, Scroll 1, 9.0003c26)	8006382
+8006383	阐	闡	chǎn	explain; deśayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: deśayati, Japanese: sen (BCSD '闡', p. 1201; DJBT '闡', p. 423; Edgerton 1953 'deśayati', p. 272; MW 'diś'; SH '闡', p. 483)	8006383
+8006384	笃	篤	dǔ	sincere	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '篤', p. 922; SH '篤', p. 449)	8006384
