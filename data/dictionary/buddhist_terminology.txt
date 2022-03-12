@@ -4999,7 +4999,7 @@
 8004999	心数法	心數法	xīn shù fǎ	a mental factor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitasika, Pali: cetasika; the aspects of the mind that understand the characteristics of an object (FGDB '心數法')	8004999
 8005000	一一方	\N	yīyī fāng	ekaikasyam disi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaikasyāṃ diśi (BDSD '一一方', p. 1)	8005000
 8005001	思	\N	sī	volition; cetanā	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	si1.mp3	Sanskrit equivalent: cetanā, Pali: cetanā; the mental factor 心所 that propels the mind forward (FGDB '思')	8005001
-8005002	触	觸	chù	touch; contact; sparśa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	chu4.mp3	Sanskrit equivalent: sparśa, Pali: phassa, Japanese: soku, Tibetan: reg pa; a 心所 mental factor and the sixth link of dependent origination (BL 'sparśa'; Ding '觸'; FGDB '觸'; Karashima 2001 '觸'; Mahāvyutpatti 'sparśaḥ'; SH '觸', p. 48; Tzu Chuang 2012, p. 303)	8005002
+8005002	触	觸	chù	touch; contact; sparśa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	chu4.mp3	Sanskrit equivalent: sparśa, Pali: phassa, Japanese: soku, Tibetan: reg pa; a 心所 mental factor and the sixth link of dependent origination (BCSD '觸', p. 1069; BL 'sparśa'; Ding '觸'; FGDB '觸'; Karashima 2001 '觸'; Mahāvyutpatti 'sparśaḥ'; SH '觸', p. 48; Tzu Chuang 2012, p. 303)	8005002
 8005003	大地法	\N	dà dì fǎ	ten great stages and corresponding mental condiions; mahā-bhūmika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahā-bhūmika (FGDB '大地法'; SH '大地法', p. 86)	8005003
 8005004	一一毛石旋	\N	yī yī máo shí xuán	ekaika-roma-pradaksinavarta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaika-roma-pradakṣiṇāvarta; one of the thirty two marks of excellence of the Buddha (BCSD '一一毛石旋', p. 1; FGDB '三十二相')	8005004
 8005005	一一毛石旋相	\N	yī yī máo shí xuán xiāng	ekaika-romata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaika-romatā; see 一一毛石旋 (BCSD '一一毛石旋相', p. 1)	8005005
@@ -6430,3 +6430,12 @@
 8006430	金刚喻心	金剛喻心	jīngāngyùxīn	vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi; adamantine-like concentration (BL ‘vajropamasamādhi; FGDB '金剛喻定')	8006430
 8006431	星喻	\N	xīng yù	the star simile	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Appears in the Large Sūtra on Perfection of Wisdom 大般若波羅蜜多經 (T 220, Scroll 9)	8006431
 8006432	筏喻	\N	fá yù	the raft simile	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Appears in the Madhyamāgama 中阿含經  (T 26, Scroll 54) and the Diamond Sūtra 金剛般若波羅蜜經 (T 235)	8006432
+8006433	艰难	艱難	jiānnán	hardship; kṛcchra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛcchra; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '艱難', p. 1005; Braarvig 2020, ch. 8; Hurvitz 2009, p. 165; Kern tr. 1884, ch. 8; MW 'kṛcchra'; Vaidya 1960, p. 134; T 262, Scroll 4, 9.0029a05)	8006433
+8006434	亲友	親友	qīnyǒu	a close friend	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mitram, Tibetan: mdza' bo; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '親友', p. 1061; Braarvig 2020, ch. 8; Hurvitz 2009, p. 165; Kern tr. 1884, ch. 8; Mahāvyutpatti 'mitram'; MW 'mitra'; Vaidya 1960, p. 134; SH '親友', p. 450; T 262, Scroll 4, 9.0029a05)	8006434
+8006435	亲	親	qīn	intimately acquainted; jñāti	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñāti, Japanese: jin, or: shin, Tibetan: nye du (BCSD '親', p. 1061; DJBT '親', p. 425; Mahāvyutpatti 'jñātiḥ'; MW 'jñāti'; SH '親', p. 450)	8006435
+8006436	何为	何為	héwèi	why; how; kim	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kim (BCSD '何為', p. 115; MW 'kim')	8006436
+8006437	此	\N	cǐ	this; here; etad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: etad (BCSD '此', p. 687; MW 'etad'; SH '此', p. 216)	8006437
+8006438	筏譬喻	\N	fá pìyù	the raft simile	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Appears in the Madhyamāgama 中阿含經  (T 26, Scroll 54) and the Diamond Sūtra 金剛般若波羅蜜經 (T 235)	8006438
+8006439	贸易	貿易	màoyì	barter; exchange; parivarta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parivarta, or: paṇya (BCSD '貿易', p. 1111; MW 'parivarta')	8006439
+8006440	卉	\N	huì	grass; plants; tṛṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tṛṇa (BCSD '卉', p. 220; MW 'tṛṇa')	8006440
+8006441	大斋	大齋	dàzhāi	great vegetarian feast	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '大齋', p. 97)	8006441
