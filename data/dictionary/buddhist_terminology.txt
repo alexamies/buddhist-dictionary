@@ -1608,7 +1608,7 @@
 8001608	毘噜博叉	毘嚕博叉	pílūbóchā	Virupaksa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: virūpākṣa; see 廣目天王 (FGDB '廣目天')	8001608
 8001609	恶眼天	惡眼天	è yǎn tiān	Virupaksa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: virūpākṣa; see 廣目天王 (FGDB '廣目天')	8001609
 8001610	丑目天	醜目天	chǒu mù tiān	Virupaksa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '醜目天'; Guoyu '醜目天'; Wikipedia '醜目天')	8001610
-8001611	多闻	多聞	duō wén	one who has studied widely	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bahusruta, Tibetan: mang du thos pa; especially in study of the Dharma (Ding '多聞'; FGDB '多聞'; Mahāvyutpatti 'bahuśrutaḥ'; SH '多聞', p. 209)	8001611
+8001611	多闻	多聞	duō wén	one who has studied widely	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bahuśruta, Tibetan: mang du thos pa; especially in study of the Dharma (Ding '多聞'; FGDB '多聞'; Mahāvyutpatti 'bahuśrutaḥ'; SH '多聞', p. 209)	8001611
 8001612	多闻	多聞	duō wén	Vaisravana; Vessavana; Jambhala	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśravaṇa; see 多聞天 (FGDB '毘沙門天王')	8001611
 8001613	菩提树天	菩提樹天	pútí shù tiān	Guardian of the Bodhi Tree	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 菩提樹神 (FGDB '菩提樹神')	8001613
 8001614	寺志	\N	sì zhì	a gazetteer of Buddhist temples	noun	地方志	Gazetteer	佛教	Buddhism	\N	\N	\N	\N	A directory of temples and information about them (FGDB '中國佛寺志叢刊')	8001614
@@ -6455,3 +6455,20 @@
 8006455	梵轮	梵輪	fàn lún	Brahma's wheel; Brahmacakka; Dharma wheel	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Pali: brahmacakka (FGDB '梵輪')	8006455
 8006456	鹅王	鵝王	é wáng	king of geese; haṃsarāja; rājahaṃsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: haṃsaraja; a metaphor for the Buddha (FGDB '鵝王')	8006456
 8006457	卒	\N	zú	to die suddenly; akasmāt	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akasmāt (BCSD '卒', p. 220; MW 'akasmāt')	8006457
+8006458	众会	眾會	zhònghuì	an assembly of monastics	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '眾會'; FGDB '眾會'; SH '眾會', p. 390)	8006458
+8006459	择灭	擇滅	zémiè	elimination of desire by will	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratisaṃkhyā-nirodha (DB '擇滅'; Ding '擇滅'; FGDB '擇滅'; SH '擇滅')	8006459
+8006460	法筵	\N	fǎyán	a seat for teaching the Dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法筵'; FGDB '法筵'; Guoyu '法筵')	8006460
+8006461	功用	\N	gōngyòng	an action	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '功用'; SH '功用', p. 168)	8006461
+8006462	常勤	\N	chángqín	practised; pratipanna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratipanna (BCSD '常勤'; Edgerton 1953 'pratipanna', p. 365; MW 'pratipanna')	8006462
+8006463	南	\N	nán	south; dakṣiṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dakṣiṇā, Tibetan: lho (BCSD '南', p. 220; Mahāvyutpatti 'dakṣiṇā'; MW 'dakṣiṇā'; SH '南', p. 297)	8006463
+8006464	船舫	\N	chuánfǎng	ship; pota	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pota (BCSD '船舫', p. 220; Karashima 2001, p. 88; MW 'pota')	8006464
+8006465	船	\N	chuán	ship; nau	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nau, or: pota, Tibetan: gru (BCSD '船', p. 1004; Mahāvyutpatti 'nau'; MW 'nau'; SH '船', p. 363)	8006465
+8006466	一面	\N	yīmiàn	a single part; devotion to one object	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekānta (BCSD '一面', p. 1004; MW 'ekānta')	8006466
+8006467	苦圣谛	苦聖諦	kǔ shèng dì	the noble truth of the existence of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四諦 (SH '四諦', p. 182)	8006467
+8006468	苦谛	苦諦	kǔ dì	the truth of suffering; the noble truth of the existence of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first of 四聖諦 the four noble truths; (DJBT 'Shishōtai'; Tzu Chuang 2012, pp. 356-358; Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '四諦')	8006468
+8006469	集谛	集諦	jí dì	the truth of the cause of suffering; the noble truth of the cause of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of 四聖諦 the four noble truths that craving is the cause of suffering (DJBT 'Shishōtai'; Tzu Chuang 2012 Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '集諦')	8006469
+8006470	蹈七寳华	蹈七寳華	dǎoqībǎohuá	Saptaratnapadmavikrāmin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptaratnapadmavikrāntagāmin; name of a future Buddha that Rahula will become, predicted in the 妙法蓮華經 “Lotus Sutra” (BCSD '蹈七寳華', p. 1125; Braarvig 2020, ch. 9; Hurvitz 2009, p. 171; Kern tr. 1884, ch. 9; Vaidya 1960, p. 139; T 262, Scroll 4, 9.0030a07)	8006470
+8006471	蹈	\N	dǎo	to tread	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikrāntagāmin (BCSD '蹈', p. 1125; SH '蹈', p. 463)	8006471
+8006472	博	\N	bó	broad; extensive; vipula	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipula (BCSD '博', p. 220; MW 'vipula'; SH '博', p. 368)	8006472
+8006473	疮癣	瘡癬	chuāng xuǎn	ulcers and ringworms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An expresson used the 妙法蓮華經 “Lotus Sutra”  (Karashima 2001, p. 88; T 262, Scroll 2, 9.0017b18)	8006473
+8006474	安住	\N	ānzhù	standing firm; supratiṣṭhita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthiti, or: supratiṣṭhita, Tibetan: shin tu gnas pa (BCSD '安住', p. 373; Mahāvyutpatti 'supratiṣṭhitaḥ'; MW 'supratiṣṭhita')	8006474
