@@ -4945,8 +4945,8 @@
 8004945	五无间业	五無間業	Wǔ Wú Jiān	the Five Unpardonable Sins	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五無間 (FGDB '五無間')	8004945
 8004946	道力	\N	dàolì	spiritual strength; spiritual power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道力'; SH '道力', p. 108)	8004946
 8004947	护念	護念	hùniàn	for a Buddha, bodhisattva, or demigod to protect a Buddhist disciple	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '護念')	8004947
-8004948	宿命	\N	sùmìng	a past life	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '宿命')	8004948
-8004949	莎婆诃	莎婆訶	shāpóhē	svāhā; hail	interjection	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svāhā, used in mantras (FGDB '阿卑羅吽欠')	8004949
+8004948	宿命	\N	sùmìng	a past life	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva-nivāsa (BCSD '宿命', p. 382; FGDB '宿命'; SH '宿命', p. 348)	8004948
+8004949	莎婆诃	莎婆訶	shāpóhē	svāhā; hail	interjection	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svāhā; used in mantras (FGDB '阿卑羅吽欠')	8004949
 8004950	阿卑罗吽欠	阿卑羅吽欠	ā bēi luó hōng qiàn	a vi ra hūṃ khaṃ	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a vi ra hūṃ khaṃ; a mantra related to Vairocana (FGDB '阿卑羅吽欠')	8004950
 8004951	阿毘罗吽欠	阿毘羅吽欠	ā pí luó hōng qiàn	a vi ra hūṃ khaṃ	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a vi ra hūṃ khaṃ; see 阿卑羅吽欠 (FGDB '阿卑羅吽欠')	8004951
 8004952	正知力	\N	zhèng zhī lì	clear comprehension	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samprajñāna, Pali: sampajañña (DDB '正知力')	8004952
@@ -6475,3 +6475,8 @@
 8006475	危	\N	wéi	perilous; viṣama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣama (BCSD '危', p. 221; MW 'viṣama'; SH '危', p. 203)	8006475
 8006476	今圆	今圓	jīnyuán	present perfect teaching	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Tiantai school concept describing the teachings of the Lotus Sutra (FGDB '今圓'; SH '今圓', p. 130)	8006476
 8006477	习谛	習諦	xí dì	the noble truth of the cause of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 集諦 (SH '四諦', p. 182)	8006477
+8006478	苦习圣谛	苦習聖諦	kǔ xí shèng dì	the noble truth of the cause of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 集諦 (Tzu Chuang 2012, pp. 356-358)	8006478
+8006479	苦集谛	苦集諦	kǔ jí dì	the noble truth of the cause of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 集諦 (Tzu Chuang 2012, pp. 356-358)	8006479
+8006480	灭谛	滅諦	miè dì	the truth of the cessation of suffering; the noble truth of the extinction of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of 四聖諦 the four noble truths (DJBT 'Shishōtai'; Tzu Chuang 2012; Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '滅諦')	8006480
+8006481	苦灭谛	苦滅諦	kǔ miè dì	the noble truth of the extinction of suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 滅諦 (Tzu Chuang 2012, pp. 356-358)	8006481
+8006482	却	卻	què	driving away; niṣkāsana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣkāsana (BCSD '卻', p. 222; MW 'niṣkāsana'; SH '卻', p. 233)	8006482
