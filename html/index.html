@@ -1,23 +1,27 @@
       <div>
         <h2>Chinese-English Buddhist dictionary lookup</h2>
         <p>
-          Enter Chinese text for one or multiple words into the input field
-          below to find each word and its meaning. Reverse lookup by English
-          and Pinyin may be used for single words.
-        </p>
-        <p>
           <form name="findForm" id="findForm" action="#">
-            <div class="mdc-text-field">
-              <label class="mdc-floating-label" for="findInput">
-                Search for
-              </label>
-              <input class="mdc-text-field__input" type="text" name="findInput"
-                   id="findInput" size="40" required/>
-              <div class="mdc-line-ripple"></div>
-              <button class="mdc-button mdc-button--raised" type="submit"
+            <div>Enter terms to look up</div>
+            <label class="mdc-text-field mdc-text-field--outlined mdc-text-field--no-label">
+              <span class="mdc-notched-outline">
+                <span class="mdc-notched-outline__leading"></span>
+                <span class="mdc-notched-outline__trailing"></span>
+              </span>
+              <input type="text" 
+                     class="mdc-text-field__input chinese-input"
+                     name="findInput"
+                     id="findInput"
+                     size="40" required>
+            </label>
+            <button class="mdc-button mdc-button--raised" type="submit"
                     id="findSubmit">
-              <span class="mdc-button__label">Find</span>
+               <span class="mdc-button__label">Find</span>
             </button>
+            <div class="mdc-text-field-helper-line helper-line">
+              Enter Chinese text for one or multiple words into the input field
+              below to find each word and its meaning. Reverse lookup by English
+              and Pinyin may be used for single words.
             </div>
           </form>
         </p>
