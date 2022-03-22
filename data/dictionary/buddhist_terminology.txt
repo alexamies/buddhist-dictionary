@@ -293,7 +293,7 @@
 8000293	化	\N	huà	to convert	verb	\N	\N	佛教	Buddhism	\N	\N	\N	hua4.mp3	To convert someone through teaching of the Dharma for their salvation (FGDB '化')	8000292
 8000294	迷头认影	迷頭認影	mí tóu rèn yǐng	a confused mind that does not recognize a shadow	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '迷頭認影')	8000294
 8000295	和尚	\N	héshang	an abbot; senior monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upādhyāya, Tibetan: mkhan po, Japanese: wajō ; a generic term for a monk or a senior monk, originally meaning preceptor and more recently referring to the abbot of a monastery (BL 'heshang', p. 347; Ding '和尚'; DJBT '和尚', p. 168; FGDB '和尚'; Mahāvyutpatti 'upādhyāyaḥ'; SH '和尚', p. 253)	8000295
-8000296	戒	\N	jiè	a precept; a vow; sila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jie4.mp3	Sanskrit equivalent: śīla, Pali: sīla, Japanese: kai, Tibetan: tshul khrims; related: 五戒 five precepts; pañcaśīla; also used in Taoism (BL 'śīla', p. 821; FGDB '戒'; Tzu Chuang 2012, p. 253)	8000296
+8000296	戒	\N	jiè	a precept; a vow; sila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jie4.mp3	Sanskrit equivalent: śīla, Pali: sīla, Japanese: kai, Tibetan: tshul khrims; related: 五戒 five precepts; pañcaśīla; also used in Taoism (BCSD '戒', p. 520; BL 'śīla', p. 821; FGDB '戒'; Tzu Chuang 2012, p. 253)	8000296
 8000297	戒	\N	jiè	morality	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jie4.mp3	Sanskrit equivalent: śīla, Pali: sīla; the second of the six paramitas (BL 'śīla', p. 821; FGDB '戒'; Powers 2007, p. 68)	8000296
 8000298	法名	\N	fǎmíng	Dharma name	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hōmyō, Tibetan: chos ming (BL 'faming', p. 292; CCD '法名'; FE '法名'; FGDB '法名'; Matsuo 2007, p. 9; SH '法名', p. 268)	8000298
 8000299	境界	\N	jìngjiè	visaya; object; sphere; region; realm of objects; state	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣaya, Pali: visaya, Japanese: kyō, Tibetan: yul (BCSD '境界'; BL 'viṣaya', p. 981; FGDB '七境界'; MW 'viṣaya'; SH '境界', p. 421)	8000299
@@ -595,7 +595,7 @@
 8000595	遍照如来	遍照如來	biànzhào rúlái	Vairocana Tathagata	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vairocana tathāgata; see 大日如來 (BCSD '遍照如來', p. 1156; SH '大日', p. 90)	8000595
 8000596	摩诃毘卢遮那	摩訶毘盧遮那	móhēpílúzhēnà	Mahavairocana	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 大日如來 (SH '大日', p. 90)	8000596
 8000597	大日觉王	大日覺王	dàrì jué wáng	Enlightened Lord Vairocana	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	An epithet for Vairocana; see 大日如來 (FGDB '大日如來'; SH '大日', p. 90)	8000597
-8000598	挂单	掛單	guà dān	temporary monastic lodging; to stay overnight at a monastery	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 掛搭 (Tzu Chuang 2012, p. 339; FGDB '掛搭')	8000598
+8000598	挂单	掛單	guà dān	temporary monastic lodging; to stay overnight at a monastery	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 掛搭 (FGDB '掛搭'; SH '掛搭', p. 350; Tzu Chuang 2012, p. 339)	8000598
 8000599	早课	早課	zǎo kè	morning chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means morning class but, in fact, it is chanting (DDB '早課'; Guoyu '早課')	8000599
 8000600	禅堂	禪堂	chán táng	meditation hall	noun	建筑物	Building	佛教	Buddhism	\N	\N	\N	\N	(Ding '禪堂'; FE '禪堂'; FGDB '禪堂'; SH '禪堂', p. 459)	8000600
 8000601	晚课	晚課	wǎn kè	evening chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means evening class but, in fact, it is chanting (Guoyu ''晚課)	8000601
@@ -6533,4 +6533,5 @@
 8006533	六度譬喻	\N	liù dù pìyù	similes for the six pāramitās	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '六度譬喻')	8006533
 8006534	八法	\N	bā fǎ	Noble Eightfold Path; Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (FGDB '八正道')	8006534
 8006535	庄严具	莊嚴具	zhuāngyánjù	adornment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in the 華嚴經 the “Avataṃsaka Sūtra” (Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	8006535
-2001624	养育者	養育者	yǎngyùzhě	nourishment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: poṣa, Tibetan: gso ba; for example, in 華嚴經 the “Avataṃsaka Sūtra” (Mahāvyutpatti 'poṣaḥ'; MW 'poṣa'; Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	2001624
+8006536	养育者	養育者	yǎngyùzhě	nourishment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: poṣa, Tibetan: gso ba; for example, in 華嚴經 the “Avataṃsaka Sūtra” (Mahāvyutpatti 'poṣaḥ'; MW 'poṣa'; Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	8006536
+8006537	敬	\N	jìng	respect; reverence; gaurava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaurava (BCSD '敬', p. 575; MW 'gaurava'; SH '敬', p. 402)	8006537
