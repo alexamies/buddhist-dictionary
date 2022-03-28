@@ -6532,7 +6532,7 @@
 8006532	八支	\N	bā zhī	Noble Eightfold Path; Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (FGDB '八正道')	8006532
 8006533	六度譬喻	\N	liù dù pìyù	similes for the six pāramitās	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Described in the 華嚴經 the “Avataṃsaka Sūtra” (FGDB '六度譬喻'; Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	8006533
 8006534	八法	\N	bā fǎ	Noble Eightfold Path; Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (FGDB '八正道')	8006534
-8006535	庄严具	莊嚴具	zhuāngyánjù	adornment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in the 華嚴經 the “Avataṃsaka Sūtra” (Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	8006535
+8006535	庄严具	莊嚴具	zhuāngyánjù	adornment; ornament	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alaṃkāra; for example, in the 華嚴經 the “Avataṃsaka Sūtra” (BCSD '莊嚴具', p. 1015; MW 'alaṃkāra'; Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	8006535
 8006536	养育者	養育者	yǎngyùzhě	nourishment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: poṣa, Tibetan: gso ba; for example, in 華嚴經 the “Avataṃsaka Sūtra” (BCSD '養育者', p. 1277; Mahāvyutpatti 'poṣaḥ'; MW 'poṣa'; Cleary 1993, p. 1500; T 279, Scroll 79, 10.0438b14)	8006536
 8006537	敬	\N	jìng	respect; reverence; gaurava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaurava, Japanese: kei, or: kyō (BCSD '敬', p. 575; DJBT '敬', p. 425; MW 'gaurava'; SH '敬', p. 402)	8006537
 8006538	八路	\N	bā lù	Noble Eightfold Path; Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (FGDB '八正道')	8006538
@@ -6563,3 +6563,19 @@
 8006563	迴机	迴機	huíjī	to [skillfully] turn around a situation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: in the sense of 迴轉機用, for example in 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '迴機'; retranslated from Whitfield 2015, vol. 1, p. 152; T 2076, Scroll 3)	8006563
 8006564	二十八祖	\N	èr shí bā zǔ	the twenty eight patriarchs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The twenty eight Indian patriarchs of the Chan tradition, as listed in the 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '二十八祖'; Whitfield 2015, vol. 1, p. 55; T 2076, Scroll 1)	8006564
 8006565	厚	\N	hòu	solid; thick; deep; ghana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghanam; Japanese: kō, Tibetan: stug po (BCSD '厚', p. 223; Mahāvyutpatti 'ghanam'; MW 'ghana'; Wiktionary '厚')	8006565
+8006566	法嗣	\N	fǎsì	Dharma heir	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Japanese: hōshi; a Buddhist disciple tha has received transmission of the Dhama (BL 'fasi', p. 296; FGDB '法嗣')	8006566
+8006567	嗣法	\N	sìfǎ	to receive transmission of the Dhama	verb	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(FGDB '嗣法'; SH '嗣法', p. 396)	8006567
+8006568	欲漏	\N	yùlòu	kāmāsrava; sense desire; desire for sensuality	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāmāsrava, one of the 四漏 'four āsravas' (BL 'āsrava'; Conze, 1973, p. 320; FGDB '四漏')	8006568
+8006569	厕	廁	cè	latrine; pit; kūpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kūpa; Japanese: shi, or: shoku (BCSD '廁', p. 223; MW 'kūpa'; SH '廁', p. 343; Unihan '廁'; Wikipedia '廁')	8006569
+8006570	西净	西淨	xījìng	restrooms	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Located on the west side of a temple (SH '西淨', p. 223)	8006570
+8006571	无明漏	無明漏	wúmínglòu	avidyāsrava; contaminant of ignorance	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avidyāsrava, one of the 四漏 'four āsravas' (BL 'āsrava'; Conze, 1973, p. 320; FGDB '四漏')	8006571
+8006572	见漏	見漏	wúmínglòu	dṛṣṭyāsrava; contaminant of views	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dṛṣṭyāsrava, one of the 四漏 'four āsravas' (BL 'āsrava'; Conze, 1973, p. 320; FGDB '四漏')	8006572
+8006573	雪隐	雪隱	xuěyǐn	latrine	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '廁孔'; SH '厠', p. 343)	8006573
+8006574	后架	後架	hòujià	latrine	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '廁孔'; SH '厠', p. 343)	8006574
+8006575	起止处	起止處	qǐzhǐchù	latrine	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '廁孔'; SH '厠', p. 343)	8006575
+8006576	厕孔	廁孔	cèkǒng	latrine	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '廁孔')	8006576
+8006577	捶打	\N	chuí dǎ	to strike with a stick	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tāḍana; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '捶打', p. 552; Karashima 2001, p. 90; MW 'tāḍana'; T 262, Scroll 1, 9.0002c03)	8006577
+8006578	箭喻	\N	jiàn yù	the arrow simile	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A simile in the Jian Yu Jing 箭喻經 in the Āgamas and Cūlamāluṅkyasutta in the Pāli Canon (FGDB '箭喻經'; T 94; Majjhima Nikāya 63)	8006578
+8006579	捶	\N	chuí	beat; hata	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hata; Japanese: sui (BCSD '捶', p. 552; MW 'hata'; Unihan '捶'; Wikipedia '捶')	8006579
+8006580	法忍	\N	fǎ rěn	patience attained through Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharma-kṣānti (FGDB '法忍'; SH '法忍', p. 269)	8006580
+8006581	法印	\N	fǎyìn	dharmamudrā; a dharma seal; a mark of the dharma	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmamudrā; see 三法印 'the three dharma seals' (FGDB '法印'; BL 'dharmamudrā')	8006581
