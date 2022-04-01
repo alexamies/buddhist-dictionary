@@ -42,7 +42,7 @@
 8000042	菩提心	\N	pútíxīn	bodhicitta; aspiration to enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhicitta, Japanese: bodaishin, Tibetan: byang chub kyi sems; a mind that strives for enlightenment and to benefit of all sentient beings (BL 'bodhicitta', p. 130; FGDB '菩提心'; Powers 2007, p. 93)	8000042
 8000043	魔	\N	mó	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	mo2.mp3	Sanskrit equivalent: māra, Pali: māra, Japanese: Ma, Tibetan: bdud; the lord of the sixth heaven of the desire realm and personification of evil and hindrances to Buddhist practice; an abbreviation for 魔羅 (BL 'Māra', pp. 530-531; Ding '魔'; Shambhala 'Māra'; FGDB '魔'; SH '魔', p. 485)	8000043
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
-8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法緣'; SH '法緣', p. 272)	8000045
+8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmarambana (BCSD '法緣', p. 718; FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000047	梵	\N	fàn	brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahma; a member of the Indian caste (BCSD '梵', p. 656; FGDB '梵'; MW 'brahman')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
@@ -6614,3 +6614,8 @@
 8006614	五下结	五下結	wǔ xià fènjié	five lower fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五下分結 (FGDB '五下分結')	8006614
 8006615	志愿力	志願力	zhìyuànlì	the power of a vow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhānabala; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '志願力', p. 468; Braarvig 2020, ch. 10; Hurvitz 2009, p. 178; Karashima 2001, p. 506; Kern tr. 1884, ch. 10; Vaidya 1960, p. 145; T 262, Scroll 4, 9.0031b21)	8006615
 8006616	志愿	志願	zhìyuàn	aspiration; vow; praṇidhāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhāna; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '志願', p. 468; Braarvig 2020, ch. 10; Hurvitz 2009, p. 178; Karashima 2001, p. 506; Kern tr. 1884, ch. 10; MW 'praṇidhāna'; Vaidya 1960, p. 145; T 262, Scroll 4, 9.0031b21)	8006616
+8006617	参	參	cān	ginger; ārdrā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārdrā, Japanese: san, Tibetan: lag (BCSD '參', p. 225; Mahāvyutpatti 'ārdrā'; MW 'ārdrā'; Unihan '參')	8006617
+8006618	参	參	cān	assembly; worship on the four fives	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	On the the 5th, 10th, 20th, and 25th days of the month (FGDB '參'; SH '參', p. 115, 343)	8006617
+8006619	聪利	聰利	cōnglì	sharp listening skills; clever	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṭu (BCSD '聰利', p. 960; Karashima 2001, p. 91; MW 'paṭu')	8006619
+8006620	五下	\N	wǔ xià	five lower fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五下分結 (FGDB '五下分結')	8006620
+8006621	聪	聰	cōng	clever; catura	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catura, Japanese: sou (BCSD '聰', p. 960; MW 'catura'; SH '聰', p. 461)	8006621
