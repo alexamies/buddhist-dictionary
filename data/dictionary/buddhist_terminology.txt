@@ -4353,7 +4353,7 @@
 8004353	策子	\N	cèzǐ	Sanjujo sakushi	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 三十帖策子 (FGDB '三十帖策子')	8004353
 8004354	三无数劫	三無數劫	sān wúshù jié	the three Asankhyeya kalpas; the three Kalpas; the three Asankya-kalpas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三阿僧祇劫 (FGDB '三阿僧祇劫')	8004354
 8004355	法文	\N	fǎwén	Dharma text; Buddhist writing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: homon (DJBT 'homon', p. 107; SH '法文', p. 270)	8004355
-8004356	文	\N	wén	text	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: mon (DJBT '文', p. 436)	8004356
+8004356	文	\N	wén	text; grantha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grantha, Japanese: mon (BCSD '文', p. 577; DJBT '文', p. 436; MW 'grantha'; SH '文', p. 153)	8004356
 8004357	真言法文策子三十帖	\N	zhēnyán fǎwén cèzǐ sānshí tiè	Shingon homon sanjuji sakushi	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 三十帖策子 (FGDB '三十帖策子')	8004357
 8004358	三十帖册子	三十帖冊子	sānshí tiè cèzǐ	Thirty Sheet Collection	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 三十帖策子 (FGDB '三十帖策子')	8004358
 8004359	三十帖草子	\N	sānshí tiè cǎozǐ	Thirty Sheet Collection	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 三十帖策子 (FGDB '三十帖策子')	8004359
@@ -6616,9 +6616,41 @@
 8006616	志愿	志願	zhìyuàn	aspiration; vow; praṇidhāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhāna; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '志願', p. 468; Braarvig 2020, ch. 10; Hurvitz 2009, p. 178; Karashima 2001, p. 506; Kern tr. 1884, ch. 10; MW 'praṇidhāna'; Vaidya 1960, p. 145; T 262, Scroll 4, 9.0031b21)	8006616
 8006617	参	參	cān	ginger; ārdrā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārdrā, Japanese: san, Tibetan: lag (BCSD '參', p. 225; Mahāvyutpatti 'ārdrā'; MW 'ārdrā'; Unihan '參')	8006617
 8006618	参	參	cān	assembly; worship on the four fives	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	On the the 5th, 10th, 20th, and 25th days of the month (FGDB '參'; SH '參', p. 115, 343)	8006617
-8006619	聪利	聰利	cōnglì	sharp listening skills; clever	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṭu (BCSD '聰利', p. 960; Karashima 2001, p. 91; MW 'paṭu')	8006619
+8006619	聪利	聰利	cōnglì	sharp listening skills; clever	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṭu (BCSD '聰利', p. 960; Karashima 2001, p. 92; MW 'paṭu')	8006619
 8006620	五下	\N	wǔ xià	five lower fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五下分結 (FGDB '五下分結')	8006620
 8006621	聪	聰	cōng	clever; catura	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catura, Japanese: sou (BCSD '聰', p. 960; MW 'catura'; SH '聰', p. 461)	8006621
 8006622	五上分结	五上分結	wǔ shàng fèn jié	five upper fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaūrdhvabhāgīya-saṃyojanāni; the upper five of the ten fetters that bind to Saṃsāra 生死 'the circle of rebirth'. The five upper fetters are: 1. 色貪 rūparāga 'craving for existence in the rūpadhātu', 2. 無色貪 ārūpyarāga 'desire to be reborn as a divine being in the formless realm', 3. 掉舉 auddhatya 'restlessness that impedes meditation', 4. 慢 māna 'pride', 5. 無明 avidyā 'ignorance' (BL 'saṃyojana'; FGDB '五上分結').	8006622
 8006623	五顺上分结	五順上分結	wǔ shùn shàng fèn jié	five upper fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五上分結 (FGDB '五上分結')	8006623
 8006624	善根力	\N	shàngēn lì	power of wholesome roots	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalamūla-bala; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '善根力', p. 263; Braarvig 2020, ch. 10; Hurvitz 2009, p. 178; Karashima 2001, p. 324-325; Kern tr. 1884, ch. 10; Vaidya 1960, p. 145; T 262, Scroll 4, 9.0031b21)	8006624
+8006625	又	\N	yòu	again; also; punar	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: api, or: punar, Japanese: yū (BCSD '又', p. 225; Mahāvyutpatti 'api'; MW 'punar'; Unihan '又')	8006625
+8006626	文句	\N	wén jù	words; verses; pada	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pada, or: vyañjana, or: akṣara (BCSD '文句', p. 577; MW 'pada')	8006626
+8006627	文句	\N	wén jù	textual explanation; exegisis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '文句'; FGDB '文句'; SH '文句', p. 153)	8006626
+8006628	五上结	五上結	wǔ shàng jié	five upper fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五上分結 (FGDB '五上分結')	8006628
+8006629	五上	五上	wǔ shàng	five upper fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五上分結 (FGDB '五上分結')	8006629
+8006630	文字	\N	wénzì	script; lipi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lipi (BCSD '文句', p. 577; Goldman and Sutherland Goldman 2011, p. 32; MW 'lipi'; SH '文句', p. 153)	8006630
+8006631	音	\N	yīn	sound; ghoṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghoṣa, or: : śabda, or: svara, Japanese: on, or: in, Tibetan: sgra (BCSD '音', p. 1259; Mahāvyutpatti 'śabdaḥ'; MW 'ghoṣa'; SH '音', p. 318; Unihan '音')	8006631
+8006632	音词	音詞	yīncí	vowel; voice; svara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svara (BCSD '音詞', p. 1259; Goldman and Sutherland Goldman 2011, p. 32; MW 'svara')	8006632
+8006633	音韵	音韻	yīnyùn	voice; svara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svara (BCSD '音韻', p. 1259; Goldman and Sutherland Goldman 2011, p. 32; MW 'svara')	8006633
+8006634	舌	\N	shé	tongue; jihva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jihva, Japanese: zetsu, or: setsu (BCSD '舌', p. 1000; MW 'jihva'; SH '時乞縛', p. 326; Unihan '舌')	8006634
+8006635	时乞缚	時乞縛	shíqǐfú	tongue; jihva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jihva (FGDB '時乞縛'; SH '時乞縛', p. 326)	8006635
+8006636	色贪	色貪	sètān	rūparāga; craving for existence in the rūpadhātu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The craving to be reborn as a divine being in the rūpadhātu, the subtle-materiality realm; one of the five upper fetters 五上分結 (BL 'rūparāga')	8006636
+8006637	萨迦耶见	薩迦耶見	sàjiāyé jiàn	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006637
+8006638	飒迦耶见	颯迦耶見	sàjiāyé jiàn	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006638
+8006639	萨迦邪见	薩迦邪見	sàjiā xiéjiàn	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006639
+8006640	虚伪身见	虛偽身見	xūwěi shēnjiàn	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006640
+8006641	鼻	\N	bí	nose; ghrāṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghrāṇa, or: nāsā, Japanese: bi, or: hi (BCSD '鼻', p. 1303; MW 'ghrāṇa'; SH '鼻', p. 430; Unihan '鼻')	8006641
+8006642	牙	\N	yá	tooth; tusk; danta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: danta, or: daṃṣṭra, Japanese: ga, or: ge, Tibetan: so (BCSD '牙', p. 809; Mahāvyutpatti 'dantaḥ'; MW 'danta'; SH '牙', p. 162; Unihan '牙')	8006642
+8006643	牙齿	牙齒	yáchǐ	tooth; danta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: danta, or: daṃṣṭra (BCSD '牙齒', p. 809; MW 'danta')	8006643
+8006644	咽	\N	yān	throat; kaṇṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇṭha, Japanese: in, or: etsu (BCSD '咽', p. 253; MW 'kaṇṭha'; Unihan '咽')	8006644
+8006645	咽喉	\N	yānhóu	throat; kaṇṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇṭha (BCSD '咽喉', p. 253; MW 'kaṇṭha')	8006645
+8006646	唇	\N	chún	lip; oṣṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṣṭha, Japanese: shin, Tibetan: mchu (BCSD '唇', p. 255; Mahāvyutpatti 'oṣṭhaḥ'; MW 'oṣṭha'; Unihan '唇')	8006646
+8006647	手	\N	shǒu	hand; pāṇi; hasta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇi, or: hasta, Japanese: shu, Tibetan: lag pa (BCSD '手', p. 537; Mahāvyutpatti 'pāṇiḥ'; MW 'pāṇi'; SH '手', p. 152; Unihan '手')	8006647
+8006648	手足	\N	shǒu zú	hands and feet; pāṇi-pāda	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇi-pāda (BCSD '手足', p. 538; MW 'pāṇipāda')	8006648
+8006649	坏身见	壞身見	huài shēnjiàn	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006649
+8006650	移转身见	移轉身見	yízhuàn shēnjiàn	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006650
+8006651	戒禁等取见	戒禁等取見	jiè jìn děng qǔ jiàn	śilavrataparāmarśa; rigid ascetic views; attachment to rites and rituals	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 戒禁取見 (FGDB '戒禁取見')	8006651
+8006652	戒取见	戒取見	jiè jìn děng qǔ jiàn	śilavrataparāmarśa; rigid ascetic views; attachment to rites and rituals	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 戒禁取見 (FGDB '戒禁取見')	8006652
+8006653	及	\N	jí	and; ca; api	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, or: api, Japanese: kyū (BCSD '及', p. 226; MW 'ca'; Unihan '及')	8006653
+8006654	麁弊	\N	cū bì	coarse; shoddy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lūha; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '麁弊', p. 1297; Karashima 2001, p. 92; MW 'lūha'; T 262, Scroll 6, 9.0084b09)	8006654
+8006655	麁	\N	cū	coarse; sthūla	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūla, Japanese: so (BCSD '麁', p. 1297; MW 'sthūla'; Unihan '麁')	8006655
+8006656	海潮	\N	hǎicháo	tide; vega	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vega (BCSD '海潮', p. 725; MW 'vega')	8006656
