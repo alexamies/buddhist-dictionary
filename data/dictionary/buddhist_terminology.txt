@@ -423,7 +423,7 @@
 8000423	修罗道	修羅道	xiūluó dào	Asura Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Of the 六道 Six Realms (SH '修羅道', p. 321; Tzu Chuang 2012, p. 267)	8000423
 8000424	修罗	修羅	xiūluó	Asura	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 阿修羅 (FGDB '阿修羅')	8000424
 8000425	人道	\N	Rén dào	Human Realm; Saha World	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mānuṣa; of the 六道 Six Realms  Superior to the other worlds in three ways: (1) Superior bravery 勇猛胜 (2) superior recollection 忆念 (3) superior pure practices 梵行胜 (FCSD '人道'; FGDB '六道'; MW 'mānuṣa'; SH '人趣', p. 33)	8000425
-8000426	舍利	\N	shèlì	ashes or relics after cremation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '舍利'; FGDB '舍利'; SH '舍利')	8000426
+8000426	舍利	\N	shèlì	ashes or relics after cremation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra (Ding '舍利'; FGDB '舍利'; SH '舍利', p. 278)	8000426
 8000427	大意	\N	dàyì	Dayi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a person who as a former incarnation of the Buddha (FGDB '大意'; SH '大意', p. 89)	8000427
 8000428	劫波	\N	jiébō	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8000428
 8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to Indian tradition (BCSD '劫', p. 202; BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; Kroll 2015 '劫' 3, p. 208; MW 'kalpa'; SH '劫', p. 232)	8000429
@@ -3085,7 +3085,7 @@
 8003085	虚空	虛空	xūkōng	the sky; gagana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gagana, or: ākāśa, Tibetan: nam mkha' (BCSD '虛空', p. 1034; Mahāvyutpatti 'gaganam'; MW 'gagana')	8003085
 8003086	虚空	虛空	xūkōng	empty space; kha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kha, Tibetan: nam mkha' (BCSD '虛空', p. 1034; Mahāvyutpatti 'kham'; MW 'kha')	8003085
 8003087	清净	清淨	qīngjìng	pure; cleansed; purified of defiling illusion; visuddhi	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śuddha, or: viśuddhi, or: pariśuddha, Pali: suddha, or: visuddha, or: parisuddha, Japanese: shōjō, Tibetan: rnam par dag pa (BCSD '清淨', p. 734; BL 'viśuddhi', p. 982; FGDB '清淨'; Guoyu '清淨' 3; MW 'śuddha')	8003087
-8003088	清	\N	qīng	clean; parisuddha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariśuddha (BCSD '清', p. 733; MW 'pariśuddha')	8003088
+8003088	清	\N	qīng	clean; parisuddha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariśuddha, Japanese: sei, or: shou (BCSD '清', p. 733; MW 'pariśuddha'; Unihan '清')	8003088
 8003089	清净慧菩萨	清淨慧菩薩	qīngjìnghuì púsà	Visuddhamati Bodhisattva; Pure Wisdom Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśuddhamati; mentioned in the 圓覺經 ”Sutra of Perfect Enlightenment” and in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 清淨慧 (FGDB '清淨慧菩薩'; Muller 1999, p. 67; T 842; Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003089
 8003090	清净慧	清淨慧	qīngjìng huì	pure wisdom; visuddhamati	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśuddhamati (BCSD '清淨慧', p. 735)	8003090
 8003091	清净慧	清淨慧	qīngjìng huì	Visuddhamati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 清淨慧菩薩 (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003090
@@ -6658,3 +6658,26 @@
 8006658	戒盗见	戒盜見	jiè dào jiàn	śilavrataparāmarśa; rigid ascetic views; attachment to rites and rituals	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 戒禁取見 (FGDB '戒禁取見')	8006658
 8006659	欲贪	欲貪	yùtān	kāmarāga; sensual craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāmarāga, Pali: kāmarāga, Japanese: yokuton (BL 'kāmarāga'; FGDB '欲貪')	8006659
 8006660	欲贪随眠	欲貪隨眠	yùtān suí mián	kāmarāga; sensual craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See  (FGDB '欲貪')	8006660
+8006661	舍利	\N	shèlì	a mythical bird that is able to talk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śārī, or: śārikā (SH '舍利', p. 278)	8000426
+8006662	摄蓝	攝藍	shèlán	relics	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra, see 舍利 (SH '舍利', p. 278)	8006662
+8006663	瞋	\N	chēn	aversion; hatred; hostility; anger; dveṣa; dosa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dveṣa, Pali: dosa, Japanese: shin, Tibetan: zhe sdang (BL 'dveṣa'; FGDB '瞋'; SH '瞋', p. 439; Unihan '瞋')	8006663
+8006664	无色贪	無色貪	wúsè tān	ārūpyarāga; ārūparāga	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārūpyarāga, Pali: ārūparāga, Japanese: mushikiton; the desire to be reborn as a divine being in the formless realm; one of the five upper fetters 五上分結 (BL 'ārūpyarāga')	8006664
+8006665	反	\N	fǎn	opposed; viruddha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viruddha, Japanese: han, or: tan, or: hon (BCSD '反', p. 226; MW 'viruddha'; Unihan '反')	8006665
+8006666	摧朽	\N	cuīxiǔ	foul; rotten; pūtika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūtika (BCSD '摧朽', p. 558; Karashima 2001, p. 92; MW 'pūtika')	8006666
+8006667	摧	\N	cuī	to conquer; jita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jita, Japanese: sai, or: sa, or: sui (BCSD '摧', p. 557; MW 'jita'; Unihan '摧')	8006667
+8006668	净房	淨房	jìngfáng	restroom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '伽藍')	8006668
+8006669	流通处	流通處	liútōng chù	gift shop	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia)	8006669
+8006670	瑜伽宗	\N	yújiā zōng	Yogācāra School	proper noun	派	School	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: yogācāra, Japanese: Yugagyōha; an influential school of Buddhist philosophy and psychology (BL 'Yogācāra'; FGDB '瑜伽宗')	8006670
+8006671	三结	三結	sān jié	the three fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Śrāvakas break these three fetters to become Srotaāpannas. The three fetters are: 1. 有身見 satkāyadṛṣṭi 'deluded belief in a self', 2. 戒禁取見 śilavrataparāmarśa 'attachment to rites and rituals', and 3. 疑 vicikitsā 'doubt about the path' (BL 'saṃyojana'; FGDB '三結')	8006671
+8006672	初果三结	初果三結	chū guǒ sān jié	the three fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三結 (FGDB '三結')	8006672
+8006673	璎珞	瓔珞	yīngluò	jade necklace; muktāhāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muktāhāra, or: hāra, or: mālya (BCSD '瓔珞', p. 828; FGDB '瓔珞'; MW 'muktāhāra'; SH '瓔珞', p. 484)	8006673
+8006674	璎	瓔	yīng	a garland of pearls, necklace; hāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hāra, Japanese: ei, or: you (BCSD '瓔', p. 828; MW 'hāra'; Unihan '瓔')	8006674
+8006675	璎珞	瓔珞	yīngluò	arm bracelet; keyūra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: keyūra, Tibetan: dpung rgyan (BCSD '瓔珞', p. 828; Mahāvyutpatti 'keyūram'; MW 'keyūra')	8006673
+8006676	叔	\N	shū	father's younger brother; pitṛvya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pitṛvya, Japanese: shuku (BCSD '叔', p. 226; MW 'pitṛvya'; SH '叔', p. 251; Unihan '叔')	8006676
+8006677	身见结	身見結	shēnjiàn jié	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006677
+8006678	心智	\N	xīnzhì	mind and wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他心智 (FGDB '心智'; SH '心智', p. 165)	8006678
+8006679	知他心通	\N	zhī tā xīn tōng	knowledge of the mind of others	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他心智 (SH '心智', p. 165)	8006679
+8006680	村营	村營	cūnyíng	village; grāma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grāma (BCSD '村營', p. 645; Karashima 2001, p. 92; MW 'grāma')	8006680
+8006681	知他人心智	\N	zhī tā rén xīn zhì	knowledge of the mind of others	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他心智 (FGDB '心智')	8006681
+8006682	心差别智	心差別智	xīn chābié zhì	knowledge of the mind of others	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他心智 (FGDB '心智')	8006682
+8006683	心月	\N	xīn yuè	mind as the moon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As metaphor for a clear and tranquil mind (FGDB '心月'; SH '心月', p. 150)	8006683
