@@ -700,7 +700,7 @@
 8000700	阿僧祇劫	\N	āsēngzhǐ jié	an asankhyeya kalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿僧祇 (FGDB '阿僧祇')	8000700
 8000701	阿鞞跋致	\N	ābībázhì	avaivartika; non-retrogression	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿惟越致 (FGDB '阿惟越致')	8000701
 8000702	一生补处	一生補處	yīshēng bǔ chù	ekajatipratibuddha; a being that will become a Buddha in this life	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekajātipratibaddha, Tibetan: skye ba gcig gis thogs pa (FGDB '一生補處'; Mahāvyutpatti 'ekajātipratibaddhaḥ'; SH '一生補處', p. 7)	8000702
-8000703	发愿	發願	fā yuàn	to make a vow; praṇidhānaṃ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhānaṃ (BCSD '發願'; FGDB '發願'; SH '發願', p. 384)	8000703
+8000703	发愿	發願	fā yuàn	to make a vow; praṇidhānaṃ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhāna (BCSD '發願', p. 861; FGDB '發願'; MW 'praṇidhāna'; SH '發願', p. 384)	8000703
 8000704	路迦驮睹	路迦馱睹	lùjiāduòdǔ	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokadhātu; see 世界 (FGDB '世界')	8000704
 8000705	世界	\N	shìjiè	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shi4jie4.mp3	Sanskrit equivalent: lokadhātu, Pali: lokadhātu, Japanese: sekai, Tibetan: 'jig rten gyi khams; in Buddhism there are many worlds (BL 'lokadhātu'; CCD '世界' 2; FGDB '世界'; Guoyu '世界' 1; Mahāvyutpatti 'lokadhātuḥ'; SH '世界', p. 164)	8000705
 8000706	一世界	\N	yī shìjiè	one world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一界 (FGDB '一界')	8000706
@@ -1587,7 +1587,7 @@
 8001587	窣路多阿半那	\N	sùlùduōābànnà	Srotaapanna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: srotaāpanna; see 須陀洹 (FGDB '須陀洹')	8001587
 8001588	上行菩萨	上行菩薩	shàng xíng púsà	Viitacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśiṣtacāritra, one of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra (FGDB '上行菩薩'; SH '上行菩薩', p. 57)	8001588
 8001589	无边行菩萨	無邊行菩薩	wú biān xíng púsà	Anantacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anantacāritra; one of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra (SH '四大菩薩', p. 173; T 262, Scroll 5, 9.0040a21)	8001589
-8001590	无边行	無邊行	wú biān xíng	Anantacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 無邊行菩薩 (T 262, Scroll 5, 9.0040a21)	8001590
+8001590	无边行	無邊行	wú biān xíng	Anantacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 無邊行菩薩 (Eitel, p. 12; T 262, Scroll 5, 9.0040a21)	8001590
 8001591	净行菩萨	淨行菩薩	jìng xíng púsà	Viuddhacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśuddhacāritra; one of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra (SH '四大菩薩', p. 173; T 262, Scroll 5, 9.0040a21)	8001591
 8001592	安立行菩萨	安立行菩薩	Ān lì xíng púsà	Supratihitacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: supratiṣṭhitacāritra; one of the four great bodhisatvas mentioned in Scroll 5 of the Lotus Sutra (SH '四大菩薩', p. 173; T 262, Scroll 5, 9.0040a21)	8001592
 8001593	安立行	\N	Ān lì xíng	Supratihitacritra	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: supratiṣṭhitacāritra; see 安立行菩薩 (SH '四大菩薩', p. 173; T 262, Scroll 5, 9.0040a21)	8001593
@@ -6796,4 +6796,11 @@
 8006796	本生谈	本生談	běnshēngtán	jātaka; a jātaka story	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 本生 (FGDB '本生經')	8006796
 8006797	九部经	九部經	jiǔbùjīng	navāṅga; navāṅga-śāsana; navaṅga-sāsana; nava-vidha sūtrānta; nine kinds of teaching	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navāṅga-śāsana, Pali: navaṅga-sāsana, Japanese: kubu kyō; this derives from the Sanskrit compound meaning navāṅga 九部'nine parts' + śāsana 'teaching'. The nine kinds according to Theravāda and Mahāyāna sources. In the Theravāda tradition the nine kinds are: 1. 修多羅 sutta, 2. 祇夜 geyya 'mixed verses and prose', 3. 伽陀 gāthā, 4. 受記 vyakarana 'predictions', 5. 優陀那 udāna, 6. 如是語經 itivuttaka, 7. 本生 jātaka, 8. 毘佛略 vedalla, and 9. 阿毗達磨 Abhidhamma. See 十二部經 (BL 'navāṅga'; Buddhadatta 1958 'śāsana'; FGDB '九部經'; Hirakawa 31 '九部經', p. 77; MW 'zAsana').	8006797
 8006798	右	\N	yòu	right; dakṣiṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dakṣiṇa, Japanese: u, or: yū (BCSD '右', p. 237; MW 'dakṣiṇa'; SH '右', p. 169; Unihan '右')	8006798
-8006799	大成	\N	dàchéng	Mahasammbhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsaṃmbhava; name of a Buddha world mentioned in the Lotus Sutra, literally Great Completion (Karashima 2001, p. 254; SH '大成', p. 89)	8006799
+8006799	大成	\N	dà chéng	Great Completion; Mahasammbhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsaṃmbhava; name of a Buddha world mentioned in the Lotus Sutra, literally Great Completion (Karashima 2001, p. 95; SH '大成', p. 89)	8006799
+8006800	九部	\N	jiǔbù	navaṅga; nine parts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navaṅga, Pali: navaṅga Nine of the early Buddhist twelve classes of sūtras (BCSD '九部', p. 77; FGDB '九部經'; SH '九部', p. 19)	8006800
+8006801	九分教	\N	jiǔfènjiāo	navāṅga-śāsana; navaṅga-sāsana; nava-vidhaḥ sūtrānto; nine teachings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 九部經 (FGDB '九部經')	8006801
+8006802	九部法	\N	jiǔbùfǎ	navāṅga-śāsana; navaṅga-sāsana; nava-vidhaḥ sūtrānto; nine teachings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 九部經 (FGDB '九部經')	8006802
+8006803	司	\N	sī	government; adhikaraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhikaraṇa, Japanese: shi (BCSD '司', p. 237; MW 'adhikaraṇa'; Unihan '司')	8006803
+8006804	大导师	大導師	dà dǎo shī	the great guide	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the Buddha (Karashima 2001, p. 96; SH '大導師', p. 88)	8006804
+8006805	朝	\N	cháo	pūrvāhṇa; morning	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvāhṇa, Japanese: asa (BCSD '朝', p. 636; DJBT '朝', p. 423; MW 'pūrvāhṇa'; Unihan '朝')	8006805
+8006806	发	發	fā	to issue; to emit; utpāda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpāda, Japanese: hotsu (BCSD '發', p. 859; DJBT '發', p. 427; MW 'utpāda'; SH '發', p. 384; Unihan '發')	8006806
