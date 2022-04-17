@@ -2629,7 +2629,7 @@
 8002629	一喝分宾主	一喝分賓主	yī hē fēn bīnzhǔ	a shout separates host and guest	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	(FGDB '一喝分賓主')	8002629
 8002630	一喝不作一喝用	\N	yī hē bùzuò yī hē yòng	a shout does not function as a shout	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	A quote from 鎮州臨濟慧照禪師語錄 ”The Recorded Sayings of Linji” (Cleary, J C 1999, p. 52; FGDB '一喝不作一喝用'; T 1985)	8002630
 8002631	妃	\N	fēi	royal consort; queen; mahisi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahiṣī, or: rajni; for example, in 明妃 vidyārājñī consort of a 明王 vidyārāja 'wisdom king' (BCSD '妃', p. 355; MW 'mahiṣī')	8002631
-8002632	名	\N	míng	name; naman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nāman; for example, 名色 nāmarūpa 'name and form' (BCSD '名', p. 243; MW 'nāman'; SH '名', p. 204)	8002632
+8002632	名	\N	míng	name; naman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nāman, Japanese: mei, or: myou; for example, 名色 nāmarūpa 'name and form' (BCSD '名', p. 243; MW 'nāman'; SH '名', p. 204; Unihan '名')	8002632
 8002633	名	\N	míng	fame; renown; yasas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yaśa, Tibetan: snyan pa'am grags pa; for example, in 名聞 yaśas (BCSD '名', p. 243; Mahāvyutpatti 'yaśaḥ'; MW 'yaśas'; SH '名聞', p. 204)	8002632
 8002634	持	\N	chí	to hold; dhara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhara; for example, in 金剛持 vajradhara, a type of tantric deity (BCSD '持', p. 544; MW 'dhara; SH '持', p. 302)	8002634
 8002635	持名	\N	chí míng	to rely on the name	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	By reciting the name of Amitābha (FGDB '持名'; SH '持名', p. 302)	8002635
@@ -6845,3 +6845,9 @@
 8006845	禁	\N	jìn	prohibit; vrata	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vrata, Japanese: kin, or: kon, or: gon (BCSD '禁', p. 896; MW 'vrata'; SH '禁', p. 408; Unihan '禁')	8006845
 8006846	鞞佛略	\N	bǐngfólüè	vaipulya; extended	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方等 (FGDB '方等')	8006846
 8006847	裴佛略	\N	péifólüè	vaipulya; extended	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方等 (FGDB '方等')	8006847
+8006848	后	\N	hòu	woman of high rank; female deity; mahiṣī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Traditional: 后, Sanskrit equivalent: devī, or: mahiṣī, Japanese: kou, or: go (BCSD '后', p. 245; MW 'mahiṣī'; Unihan '后')	8006848
+8006849	大力	\N	dàlì	great power; mahābala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahābala, Tibetan: stobs chen (BCSD '大力', p. 317; FGDB '大力金剛菩薩'; Mahāvyutpatti 'mahābalaḥ')	8006849
+8006850	大力	\N	dàlì	Mahavikramin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāvikrāmin; name of a bodhisattva mentioned in the Lotus Sutra (BCSD '大力', p. 317; Karashima 2001, p. 99)	8006849
+8006851	福慧	\N	fúhuì	virtue and wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇya (BCSD '福慧', p. 898; FGDB '福慧'; Karashima 2001, p. 164; FGDB '福慧', p. 426)	8006851
+8006852	全身	\N	quánshēn	whole body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka-ghana; for example, in the 妙法蓮華經 Lotus Sutra (BCSD '全身', p. 898; Braarvig 2020, ch. 11; Hurvitz 2009, p. 184; Kern tr. 1884, ch. 11; Vaidya 1960, p. 149; T 262, Scroll 4, 9.0032c07)	8006852
+8006853	毘富罗	毘富羅	pífùluó	vaipulya; extended	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方等 (FGDB '方等')	8006853
