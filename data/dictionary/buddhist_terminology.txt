@@ -1557,8 +1557,8 @@
 8001557	佛身	\N	fóshēn	buddhakaya; Buddha-body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit, Pali: buddhakāya, Japanese: busshin, Tibetan: sangs rgyas sku (BL 'buddhakāya'; Ding '佛身'; FGDB '佛身'; Karashima 2001 '佛身'; SH '佛身', p. 229)	8001557
 8001558	声闻身	聲聞身	shēngwénshēn	sravaka-kaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka-kāya (FGDB '聲聞身')	8001558
 8001559	梵王	\N	fàn wáng	Brahma	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: brahmā; see also 梵天王 (FGDB '梵天王'; SH '梵王', p. 354)	8001559
-8001560	自在	\N	zìzài	Isvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: īśvara; a Hindu god (Guoyu '自在' zìzài 2;SH '自在', p.  218)	8001560
-8001561	自在	\N	zìzài	self mastery; vaśitā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśitā, Japanese: jizai, Tibetan: dbang bo; a list of ten types of mastery to be cultivated by a bodhisattva (BL 'vaśitā', p. 961; Ding '自在'; FGDB '自在'; Karashima 2001 '自在'; SH '自在', p. 288)	8001560
+8001560	自在	\N	zìzài	Isvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: īśvara; a Hindu god (BCSD '自在', p. 984;SH '自在', p.  218)	8001560
+8001561	自在	\N	zìzài	self mastery; vaśitā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśitā, Japanese: jizai, Tibetan: dbang bo; a list of ten types of mastery to be cultivated by a bodhisattva (BL 'vaśitā', p. 961; Ding '自在'; FGDB '自在'; Karashima 2001 '自在'; MW 'īśvara'; SH '自在', p. 288)	8001560
 8001562	大自在天	\N	dàzìzaitiān	Mahesvara; Mahesvara Deva; Mahissara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maheśvara, Pali mahissara, Tibetan: dbang phyug chen po che ba'i gnas; the Hindu god Śiva (Ding '大自在天'; FGDB '大自在天'; Mahāvyutpatti 'mahamaheśvarāyatanam'; SH '大自在天', p. 94)	8001562
 8001563	莫醯伊湿伐罗	莫醯伊濕伐羅	mòxīyīshīfáluó	Mahesvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maheśvara; see 大自在天 (FGDB '大自在天')	8001563
 8001564	自在天王	\N	zìzàitiānwáng	Mahesvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maheśvara; see 大自在天 (FGDB '大自在天')	8001564
@@ -6359,7 +6359,7 @@
 8006359	出现	出現	chūxiàn	to manifest	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udaya, Tibetan: 'char ka (BCSD '出現', p. 398; FGDB '出現'; Karashima 2001, p. 86; Mahāvyutpatti 'udayī'; MW 'udaya'; SH '出現', p. 167)	8006359
 8006360	湛	\N	zhàn	placid	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śānta, Japanese: tan (BCSD '湛', p. 504; DJBT '湛', p. 423; MW 'śānta'; SH '湛', p. 376)	8006360
 8006361	自觉	自覺	zìjué	self-aware; enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyātma-vedya (BCSD '自覺', p. 992; FGDB '自覺'; SH '二覺', p. 29)	8006361
-8006362	自	\N	zì	own; one's own; oneself	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva, or: svayam Japanese: ji (BCSD '自', p. 981; DJBT '自', p. 436; MW 'sva'; SH '自', p. 218)	8006362
+8006362	自	\N	zì	own; one's own; oneself	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva, or: svayam Japanese: ji (BCSD '自', p. 983; DJBT '自', p. 436; MW 'sva'; SH '自', p. 218)	8006362
 8006363	自	\N	zì	self; soul; ātman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman (BCSD '自', p. 981; MW 'ātman'; SH '自', p. 218)	8006362
 8006364	自悟	\N	zìwù	self realization	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva-buddha; for example, in 因明入正理論 “Nyāyapraveśa (Primer on Logic)” by śamkarasvāmin translated to Chinese by Xuanzang in the Tang dynasty (BCSD '自悟', p. 989; Bak 2017, p. 42; T 1630)	8006364
 8006365	燕坐	\N	yān zuò	to meditate in seclusion; pratisaṃlayana; patisallāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratisaṃlayana, Pali: patisallāṇa (FGDB '燕坐'; BL 'pratisaṃlayana')	8006365
@@ -6851,3 +6851,15 @@
 8006851	福慧	\N	fúhuì	virtue and wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇya (BCSD '福慧', p. 898; FGDB '福慧'; Karashima 2001, p. 164; FGDB '福慧', p. 426)	8006851
 8006852	全身	\N	quánshēn	whole body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka-ghana; for example, in the 妙法蓮華經 Lotus Sutra (BCSD '全身', p. 898; Braarvig 2020, ch. 11; Hurvitz 2009, p. 184; Kern tr. 1884, ch. 11; Vaidya 1960, p. 149; T 262, Scroll 4, 9.0032c07)	8006852
 8006853	毘富罗	毘富羅	pífùluó	vaipulya; extended	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方等 (FGDB '方等')	8006853
+8006854	生经	生經	shēng jīng	Jātaka Stories	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A collection of Jātaka stories in the Chinese Buddhist Canon (T 154; KDC 'K 799')	8006854
+8006855	吐	\N	tù	to vomit; vānta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vānta, or: chardi, Japanese: to, Tibetan: skyug bro ba (BCSD '吐', p. 245; Mahāvyutpatti 'chardiḥ'; MW 'vānta'; SH '吐', p. 203; Unihan '吐')	8006855
+8006856	大满	大滿	dàmǎn	Mahapurna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāpūrṇa; king of garuḍas (Edgerton 1953, p. 423; Karashima 2001, p. 100; MW 'mahāpūrṇa'; SH '大滿', p. 92)	8006856
+8006857	格义	格義	géyì	geyi; categorizing concepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Early attempts by Chinese scholars to interpret and categorize Indian Buddhist terminology (FGDB '格義'; Guoyu '格義'; Wikipedia '格义')	8006857
+8006858	臭皮囊	\N	chòupínáng	rotting flesh	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '死狗')	8006858
+8006859	小利	\N	xiǎo lì	wanting little	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpārtha; of Buddhist monastics (BCSD '小利', p. 397; Edgerton 1953, p. 69)	8006859
+8006860	本生鬘	\N	běnshēngmán	Jatakamala; Garland of Birth Stories	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jātakamālā; a collection of 34 Jātaka stories written in Sanskrit attributed to the poet śūra (BL 'Jātakamālā'; FGDB '本生鬘')	8006860
+8006861	檀特山	\N	tánté shān	Daṇḍaloka; Daṇḍaka	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍaloka, Japanese: Dandokusen; a place mentioned in the Jātaka where the bodhisattva 須大拏 Sudāna lived in a previous life (FDC '太子須大拏經'; FGDB '檀特山'; DJBT 'Daṇḍaloka')	8006861
+8006862	须大拏太子	須大拏太子	xūdàná tàizǐ	Sudāna; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvantara; see 須大拏 (FGDB '須大拏太子')	8006862
+8006863	须达拏	須達拏	xūdáná	Sudāna; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvantara; see 須大拏 (FGDB '須大拏太子')	8006863
+8006864	向	\N	xiàng	facing towards; abhimukha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukha, Japanese: kou, or: kyou, or: shou, Tibetan: mngon du phyogs pa (BCSD '向', p. 245; Mahāvyutpatti 'abhimukham'; MW 'abhimukha'; SH '向', p. 204; Unihan '向')	8006864
+8006865	大妙音	\N	dà miào yīn	loud wonderful voice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhura-valgu-svara; an expression used in the Lotus Sutra (Karashima 2001, p. 100; T 262, Scroll 4, 9.0032c29)	8006865
