@@ -279,7 +279,7 @@
 8000279	阿含	\N	āhán	a traditional teaching; a traditional doctrine	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āgama, Pali: āgama (DJBT 'Agon' I; MW ‘Agama’)	8000278
 8000280	阿含	\N	āhán	a Buddhist sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āgama, Pali: āgama (DJBT 'Agon' II)	8000278
 8000281	阿含经	阿含經	āhán Jīng	Āgama; Agamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āgama, Pali: āgama, Japanese: Agongyō; the collection of sūtras in the Theravāda canon (DJBT 'Agongyō' III; FGDB '阿含'; Hsing Yun and Miao Guang trans. 2016, p. 370; SH '小乘經', p. 100)	8000281
-8000282	般若	\N	bōrě	prajna; prajñā; paññā; great wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñā, Pali: paññā; Japanese: Hannya; Tibetan: shes rab. Prajñā is an understanding that transcends ordinary wisdom. Prajñā is the sixth pāramitā and includes the three kinds of prajna: 1. prajna of true reality 实相般若, 2. prajna of contemplation 观照般若, and 3. prajna of skillfull means 方便般若 (BL 'prajñā', pp. 655-656; Tzu Chuang 2012, pp. 250-253; FGDB '般若' 1; Powers 2007, p. 68; SEEKERS 'prajna')	8000282
+8000282	般若	\N	bōrě	prajna; prajñā; paññā; great wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñā, Pali: paññā; Japanese: Hannya; Tibetan: shes rab. Prajñā is an understanding that transcends ordinary wisdom. Prajñā is the sixth pāramitā and includes the three kinds of prajna: 1. prajna of true reality 实相般若, 2. prajna of contemplation 观照般若, and 3. prajna of skillfull means 方便般若 (BCSD '般若', p. 1002; BL 'prajñā', pp. 655-656; FGDB '般若' 1; Powers 2007, p. 68; SEEKERS 'prajna'; Tzu Chuang 2012, pp. 250-253)	8000282
 8000283	大般若经	大般若經	dà bānruò Jīng	Mahaprajnaparamita Sutra; Sutra on the Perfection of Great Wisdom	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun and Miao Guang trans. 2016, p. 374)	8000283
 8000284	小乘经	小乘經	xiǎoshèng jīng	Agamas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿含經 (SH '小乘經', p. 100)	8000284
 8000285	大乘玄论	大乘玄論	dàchéng Xuán Lùn	Treatise on the Mystery of the Mahāyāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The title of a text by 吉藏 Ji Zang included in the Chinese Buddhist canon (T 1853)	8000285
@@ -6863,3 +6863,20 @@
 8006863	须达拏	須達拏	xūdáná	Sudāna; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvantara; see 須大拏 (FGDB '須大拏太子')	8006863
 8006864	向	\N	xiàng	facing towards; abhimukha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukha, Japanese: kou, or: kyou, or: shou, Tibetan: mngon du phyogs pa (BCSD '向', p. 245; Mahāvyutpatti 'abhimukham'; MW 'abhimukha'; SH '向', p. 204; Unihan '向')	8006864
 8006865	大妙音	\N	dà miào yīn	loud wonderful voice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhura-valgu-svara; an expression used in the Lotus Sutra (Karashima 2001, p. 100; T 262, Scroll 4, 9.0032c29)	8006865
+8006866	须提梨拏	須提梨拏	xūtílíná	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006866
+8006867	苏达拏	蘇達拏	sūdáná	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006867
+8006868	善施太子	\N	shànshī tàizǐ	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006868
+8006869	般	\N	bō	wisdom; prajna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pari, Japanese: han, or: ban, or: hatsu; see 般若 (BCSD '般', p. 1002; Guoyu '般' bō; Kroll 2015 '般' bō 2, pp. 8-9; MW 'pari'; SH '般', p. 337; Unihan '般')	8006869
+8006870	善爱太子	善愛太子	shàn'ài tàizǐ	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006870
+8006871	好爱太子	好愛太子	hào'ài tàizǐ	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006871
+8006872	善与太子	善與太子	shànyǔ tàizǐ	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006872
+8006873	一切太子	一切與太子	yīqiè Yǔ tàizǐ	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006873
+8006874	善牙太子	\N	shànyá tàizǐ	Sudāna; viśvantara; Prince Vessantara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 須大拏 (FGDB '須大拏太子')	8006874
+8006875	昔叶波	昔葉波	xīyèbō	Sañjaya ／ King Sañjaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sudāna's father in the 須大拏經 Vessantara Jātaka (FGDB '須大拏太子')	8006875
+8006876	多宝佛	多寶佛	duō bǎo fó	Prabhutaratna Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhūtaratna; the name of a Buddha mentioned in the 妙法蓮華經 Lotus Sutra (FGDB '多寶佛'; Braarvig 2020, ch. 11; Hurvitz 2009, p. 184; Kern tr. 1884, ch. 11; Vaidya 1960, p. 149; T 262, Scroll 4, 9.0032c18)	8006876
+8006877	多宝	多寶	duō bǎo	Prabhutaratna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhūtaratna; see 多寶佛 (T 262, Scroll 4, 9.0032c18)	8006877
+8006878	多宝如来	多寶如來	duōbǎorúlái	Prabhutaratna Tathagata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhūtaratna tathāgata; see 多寶佛 (T 262, Scroll 4, 9.0032c18)	8006878
+8006879	袍休罗兰	袍休羅蘭	páoxiūluólán	Prabhutaratna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhūtaratna tathāgata; see 多寶佛 (FGDB '多寶佛')	8006879
+8006880	宝胜佛	寶勝佛	bǎoshèng fó	Prabhutaratna Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多寶佛 (FGDB '多寶佛')	8006880
+8006881	宝宝佛	寶寶佛	bǎobǎofó	Prabhutaratna Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多寶佛 (FGDB '多寶佛')	8006881
+8006882	君	\N	jūn	prince; lord; pati	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pati, Japanese: kun (BCSD '般', p. 246; MW 'pati'; SH '君', p. 233; Unihan '君')	8006882
