@@ -4784,7 +4784,7 @@
 8004784	二乘	\N	èr shèng	the two vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either 1. Mahayana and Theravada or 2. the Sravaka Vehicle and the Pratyeka-buddha Vehicle (Ding '大小二乘'; SH '大小二乘', p. 88)	8004784
 8004785	果证	果證	guǒzhèng	realized attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '果證')	8004785
 8004786	忉利	\N	dāolì	Trayastrimsa Heaven; Tavatimsa; The Heaven of Thirty-Three Gods	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trāyastriṃśa, Pali: tāvatiṃsa; see 忉利天 (FGDB '忉利天')	8004786
-8004787	分身	\N	fēnshēn	a division body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A skillful means used by Buddhas and bodhisattvas, such as the many division bodies of Ksitigarbha described in the Kṣitigarbha Sūtra (FGDB '分身')	8004787
+8004787	分身	\N	fēnshēn	a division body; emanation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātmabhāvavigraha; a skillful means used by Buddhas and bodhisattvas, such as the many division bodies of Ksitigarbha described in the Kṣitigarbha Sūtra and Lotus Sutra (FGDB '分身'; Braarvig 2020, ch. 11; Hurvitz 2009, p. 185; Kern tr. 1884, ch. 11; Vaidya 1960, p. 149; T 262, Scroll 4, 9.0032c22)	8004787
 8004788	分身	\N	fēn shēn	to divide a body	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '分身')	8004787
 8004789	善果	\N	shànguǒ	a virtuous reward	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The karmic results of good actions (Guoyu '善果'; SH '善果', p. 369)	8004789
 8004790	转轮王	轉輪王	zhuǎnlún wáng	a wheel turning king; cakravartin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakravartin, Pali: cakkavattin, Japanese: tenrin’ō, Tibetan: ’khor los bsgyur ba'i rgyal po; a benevolent ruler who turns the Dharma wheel (BL 'cakravartin', p. 163; Ding '轉輪王'; Giles 1892 '輪'; Karashima 2001 '轉輪王'; Powers 2007, p. 255; SH '轉輪', p. 469)	8004790
@@ -6896,3 +6896,7 @@
 8006896	池	\N	chí	a pond; vāpī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāpī, or: puṣkariṇī, Japanese: chi, or: ta, Tibetan: rdzing (BCSD '池', p. 708; Mahāvyutpatti 'puṣkariṇī'; MW 'vāpī'; Unihan '池')	8006896
 8006897	一切有情	\N	yīqiè yǒuqíng	all sentient beings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvasattva (FDC '一切有情'; FGDB '一切有情')	8006897
 8006898	非身	\N	fēishēn	selflessness; non-self; anātman; anattā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無我 (FGDB '無我')	8006898
+8006899	非我	\N	fēiwǒ	selflessness; non-self; anātman; anattā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無我 (FGDB '無我')	8006899
+8006900	三相	\N	sān xiàng	the three marks of existence; trilakṣaṇa; tilakkhaṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trilakṣaṇa, Pali: tilakkhaṇa, Japanese: sansō; the trilakṣaṇa are the three characteristics of all conditioned phenomena: 無常 anitya 'impermanence', 苦 duḥkha 'suffering', and 無我 anātman 'non-self' (FGDB '三相'; BL 'trilakṣaṇa')	8006900
+8006901	鱼	魚	yú	fish; matsya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: matsya, Japanese: ryou, or: gyo (BCSD '魚', p. 1292; MW 'matsya'; Unihan '魚')	8006901
+8006902	飞	飛	fēi	to fly; ḍī	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ḍī, Japanese: hi (BCSD '飛', p. 1273; MW 'ḍī'; SH '飛', p. 318; Unihan '飛')	8006902
