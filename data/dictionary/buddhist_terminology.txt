@@ -3805,7 +3805,7 @@
 8003805	坊	\N	fāng	temple dormitory	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bō; housing for monastics (DJBT 'bō', p. 18)	8003805
 8003806	上时迦叶	上時迦葉	shàngshí jiāyè	Uruvilvā-kāśyapa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 優樓頻螺迦葉 (FGDB '優樓頻螺迦葉')	8003806
 8003807	那提迦叶	那提迦葉	nàtí jiāyè	Nadī-kāśyapa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	A disciple of the Buddha, one of the 三迦葉 three Kāśyapa brothers (Ding '那提迦葉'; FGDB '那提迦葉'; SH '那提迦葉')	8003807
-8003808	房	\N	fáng	temple dormitory	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bō; same as 坊 (DJBT '房', p. 427)	8003808
+8003808	房	\N	fáng	house; gṛha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛha; Japanese: bou, or: hou; same as 坊 (BCSD '房', p. 523; MW 'gṛha'; SH '房', p. 259; Unihan '房')	8003808
 8003809	托胎	\N	tuōtāi	to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: garbhāvakrānti, Pali: gabbhāvakkanti; especially Sakyamuni Buddha being delivered to a mother's womb from Tushita Heaven (FGDB '托胎')	8003809
 8003810	回光返照	\N	huí guāng fǎn zhào	to see with lucidity	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As a Chan saying, in the sense of enlightenment, not necessarily facing death (FGDB '回光返照')	8003810
 8003811	山伏	\N	shānfú	yamabushi	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A practioner of Shugendō (BL 'yamabushi', p. 1019)	8003811
@@ -3872,11 +3872,11 @@
 8003872	释	釋	shì	explain	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyākhyā (BCSD '釋', p. 1171; MW 'vyākhyā')	8003872
 8003873	大幻化网导引法	大幻化網導引法	dà huànhuà wǎng dǎoyǐn fǎ	Great Net of Illusion Guide Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A tantric ritual (FGDB '大幻化網導引法')	8003873
 8003874	铁壁银山	鐵壁銀山	tiě bì yín shān	iron wall, silver mountain	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Also written 銀山鐵壁; refers to lofty spirituality (FGDB '鐵壁銀山')	8003874
-8003875	十二头陀行	十二頭陀行	shí èr tóutuó xíng	twelve ascetic practices	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Living in the wilderness 在阿兰若处; (2) only eating what is given as alms 常行乞食; (3) collecting alms in order 次第乞食; (4) receiving one meal per day 受一食法; (5) eating a limited amount 节量食; (6) not drinking broth after noontime 中后不得饮浆; (7) wearing robes of cast-off rags 着弊纳衣; (8) wearing only three robes 但三衣; (9) dwelling in cemetaries 冢间住; (10) staying under a tree 树下止; (11) dwelling in an open place 露地住; (12) only sitting, not lying down 但坐不卧.; FGS translation standard: Ascetic Practices (Tzu Chuang 2012; FGDB '十二頭陀行')	8003875
+8003875	十二头陀行	十二頭陀行	shí èr tóutuó xíng	twelve ascetic practices	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Living in the wilderness 在阿兰若处; (2) only eating what is given as alms 常行乞食; (3) collecting alms in order 次第乞食; (4) receiving one meal per day 受一食法; (5) eating a limited amount 节量食; (6) not drinking broth after noontime 中后不得饮浆; (7) wearing robes of cast-off rags 着弊纳衣; (8) wearing only three robes 但三衣; (9) dwelling in cemetaries 冢间住; (10) staying under a tree 树下止; (11) dwelling in an open place 露地住; (12) only sitting, not lying down 但坐不卧 (Tzu Chuang 2012; FGDB '十二頭陀行')	8003875
 8003876	在阿兰若处	在阿蘭若處	zài ālánruò chù	living in the wilderness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003876
 8003877	续	續	xù	same; also	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kroll 2015 '續' 3, p. 517)	8003877
 8003878	常行乞食	\N	cháng xíng qǐshí	only eating what is given as alms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003878
-8003879	次第乞食	\N	cìdì qǐshí	collecting alms in order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Taking alms from one house to the next, one of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003879
+8003879	次第乞食	\N	cìdì qǐshí	collecting alms in order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāvadāna-paiṇḍa-pātika; Taking alms from one house to the next, one of the Twelve Ascetic Practices 十二头陀行 (BCSD '次第乞食', p. 672; FGDB '次第乞食'; Tzu Chuang 2012, pp. 15-18)	8003879
 8003880	受一食法	\N	shòu yī shí fǎ	receiving one meal per day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003880
 8003881	金刚部	金剛部	jīngāng bù	vajra group; vajra division; vajrakula	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajrakula, Japanese: kongōbu, Tibetan: rdo rje rigs; one of the 金剛界五部 five divisions of vajradhatu (BL 'vajrakula', p. 955; Ding '金剛部'; FGDB '金剛部'; SH '金剛部', p. 283; Sharf 2005, p. 342)	8003881
 8003882	三昧耶萨埵	三昧耶薩埵	sānmèiyés àduǒ	samayasattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samayasattva, Japanese: sanmay asatta, Tibetan: dam tshig sems dpa'; a form of a deity related to visualization in tantric rituals (BL 'samayasattva', p. 748; FGDB '大悲空智金剛大教王儀軌經')	8003882
@@ -5237,7 +5237,7 @@
 8005237	大三千世界	\N	dà sān qiān shìjiè	trisāhasramahāsāhasralokadhātu; a great chiliocosm; trichiliocosm; the cosmos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三千大千世界 (FGDB '三千大千世界')	8005237
 8005238	三千世界	\N	sān qiān shìjiè	trisāhasramahāsāhasralokadhātu; billion world system; the cosmos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三千大千世界 (FGDB '三千大千世界')	8005238
 8005239	九山八海	\N	jiǔ shān bā hǎi	Nine Mountains and Eight Seas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The total of all the mountains and seas in the ancient Indian world view (FGDB '九山八海')	8005239
-8005240	乞	\N	qǐ	to beg; yācñā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yācñā, Tibetan: slong ba (BCSD '乞', p. 78; Mahāvyutpatti 'yācñā'; MW 'yācñā'; SH '乞', p. 80)	8005240
+8005240	乞	\N	qǐ	to beg; yācñā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yācñā, or: bhikṣā, Japanese: kotsu, or: ki, Tibetan: slong ba (BCSD '乞', p. 78; Mahāvyutpatti 'yācñā'; MW 'yācñā'; SH '乞', p. 80; Unihan '乞')	8005240
 8005241	阿兰那	阿蘭那	ālánnà	a forest retreat; a secluded place to practice; araṇya; arañña; aranya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005241
 8005242	阿练茹	阿練茹	āliànrú	a forest retreat; a secluded place to practice; araṇya; arañña; aranya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005242
 8005243	阿练若	阿練若	āliànruò	a forest retreat; a secluded place to practice; araṇya; arañña; aranya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇya; see 阿蘭若 (FGDB '阿蘭若')	8005243
@@ -6005,7 +6005,7 @@
 8006005	券	\N	quàn	a leaf for writing on; pattra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pattra (BCSD '券', p. 225; MW 'pattra')	8006005
 8006006	言	\N	yán	speech; vāc	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāc, Japanese: gon, Tibetan: ngag gam tshig (BCSD '言', p. 1070; DJBT '言', p. 436; Mahāvyutpatti 'vāk'; MW 'vāc'; SH '言', p. 244)	8006006
 8006007	言	\N	yán	speak; vad	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vad (BCSD '言', p. 1070; MW 'vad')	8006006
-8006008	汝	\N	rǔ	you; sir; bhavat	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhavat, or: tvat; bhavat is a polite form (BCSD '汝', p. 707; MW 'bhavat')	8006008
+8006008	汝	\N	rǔ	you; sir; tva; bhavat	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhavat, or: tva, Japanese: jo; bhavat is a polite form (BCSD '汝', p. 707; MW 'tva'; Unihan '汝')	8006008
 8006009	罗刹娑	羅剎娑	luóchàsuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '羅剎')	8006009
 8006010	退还	退還	tuìhuán	to return	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nivṛt; for example in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020, ch. 7; Hurvitz 2009, p. 148; Karashima 2001, p. 389; Kern 1884, ch. 7; MW 'nivṛt'; Vaidya 1960, p. 120; T 262, Scroll 3, 9.0025c26)	8006010
 8006011	逻刹娑	邏剎娑	luóchàsuō	a raksasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅剎 (FGDB '九類鬼')	8006011
@@ -6976,3 +6976,27 @@
 8006976	江河	\N	jiānghé	streams and rivers; nadīmahānadī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nadīmahānadī; for example in the 妙法蓮華經 Lotus Sutra (MW 'nadī'; Braarvig 2020, ch. 11; Hurvitz 2009, p. 186; Kern tr. 1884, ch. 11; Vaidya 1960, p. 151; T 262, Scroll 4, 9.0033a09)	8006976
 8006977	师子	師子	shīzi	lion; siṃha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siṃha (MW 'siṃha'; SH '師子', p. 324)	8006977
 8006978	八方	\N	bā fāng	eight directions; aṣṭadiś	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṣṭadiś; for example in the 妙法蓮華經 Lotus Sutra (MW 'aṣṭadiś'; Braarvig 2020, ch. 11; Hurvitz 2009, p. 186; Kern tr. 1884, ch. 11; Vaidya 1960, p. 151; T 262, Scroll 4, 9.0033b02)	8006978
+8006979	往	\N	wǎng	to go; gam	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gam, Japanese: ou (BCSD '往', p. 441; MW 'gam'; SH '往', p. 257; Unihan '往')	8006979
+8006980	往诣	往詣	wǎng yì	to go to; upagam	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upagam, or: gacchata; for example, in the 妙法蓮華經 Lotus Sutra (BCSD '往詣', p. 442; Braarvig 2020, ch. 11; Hurvitz 2009, p. 187; Kern tr. 1884, ch. 11; Vaidya 1960, p. 152; T 262, Scroll 4, 9.0033b12)	8006980
+8006981	汝等	\N	rǔ děng	you [plural]; yuṣma; yūyam	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yuṣma, or: yūyam (BCSD '汝等', p. 707; MW 'yuṣma')	8006981
+8006982	不退转	不退轉	bù tuì zhuàn	avaivartika; non-retrogression	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaivartika, Japanese: futaiten, Tibetan: phyir mi ldog; describes a stage on the path to enlightenment with no possibility of regression; see 阿惟越致 (BL 'avaivartika', p. 82; Karashima 2001, p. 68; Tzu Chuang 2012, pp. 23-36)	8006982
+8006983	无退	無退	wútuì	avaivartika; non-retrogression	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaivartika; see 阿惟越致 (FGDB '阿惟越致')	8006983
+8006984	退	\N	tuì	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	tui4.mp3	See 退轉 (FGDB '退轉'; Kroll 2015 '退' 1e, p. 462)	8006984
+8006985	广博	廣博	guǎngbó	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya. See 方等 (BCSD '廣博', p. 431)	8006985
+8006986	吟	\N	yín	sing; chant; gīti	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gīti, Japanese: gin, or; kin (BCSD '吟', p. 246; MW 'gīti'; SH '吟', p. 233; Unihan '吟')	8006986
+8006987	贫	貧	pín	poor; nirdhana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirdhana, or: daridra, Japanese: hin, or; bin (BCSD '貧', p. 1107; MW 'nirdhana'; SH '貧', p. 364; Unihan '貧')	8006987
+8006988	斐肥㑩	斐肥儸	fěiféiluó	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya; see 方等 (FGDB, '方等')	8006988
+8006989	为头离	為頭離	wèitóulí	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya; see 方等 (FGDB, '方等')	8006989
+8006990	广破	廣破	guǎngpò	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya; see 方等 (FGDB, '方等')	8006990
+8006991	很	\N	hěn	very; atīva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atīva, Japanese: kon (MW 'atīva'; Unihan '很')	8006991
+8006992	广大	廣大	guǎngdà	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya; see 方等 (FGDB, '方等')	8006992
+8006993	广解	廣解	guǎngjiě	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya; see 方等 (FGDB, '方等')	8006993
+8006994	饭	飯	fàn	grain; boiled rice; odana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: odana, or: peyā, Japanese: han, or: bon, Tibetan: 'bras zan (BCSD '飯', p. 1276; Mahāvyutpatti 'odanaḥ'; MW 'odana'; SH '飯', p. 419; Unihan '飯')	8006994
+8006995	次第	\N	cìdì	order; one after another; anukrama	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anukrama, or: krama, Tibetan: go rim (BCSD '次第', p. 672; FGDB '次第'; Mahāvyutpatti 'anukramaḥ'; MW 'anukrama'; SH '次第', p. 216)	8006995
+8006996	次第	\N	cìdì	begging from one house to the next	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāvadāna (BCSD '次第', p. 672; MW 'sāvadāna')	8006995
+8006997	户	戶	hù	door; dvāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvāra, Japanese: ko (BCSD '戶', p. 523; MW 'dvāra'; Unihan '戶')	8006997
+8006998	房	\N	fáng	temple dormitory; vihāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra; Japanese: bō; same as 坊 (BCSD '房', p. 523; DJBT '房', p. 427; MW 'vihāra'; SH '房', p. 259)	8003808
+8006999	房寺	\N	fángsì	temple dormitory; vihāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra (BCSD '房寺', p. 523; MW 'vihāra')	8006999
+8007000	房舍	\N	fángshě	temple dormitory; vihāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra (BCSD '房寺', p. 523; FGDB '房舍犍度'; MW 'vihāra')	8007000
+8007001	房屋	\N	fángwū	hut; kuṭikā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuṭikā, Tibetan: khang pa (BCSD '房屋', p. 523; Mahāvyutpatti 'kuṭikā'; MW 'kuṭikā')	8007001
+8007002	人民	\N	rénmín	people; janā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: janā (BCSD '人民', p. 92; MW 'janā')	8007002
