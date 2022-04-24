@@ -874,7 +874,7 @@
 8000874	乌波索迦	烏波索迦	wūbōsuǒjiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000873
 8000875	乌波婆迦	烏波婆迦	wūbōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000875
 8000876	优波婆迦	優波婆迦	yōubōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000876
-8000877	居士	\N	jūshì	a lay person; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulapati; Japanese: koji (Ding '居士'; FGDB '居士'; Guoyu '居士'; Matsuo 2007, p. 11; SH '居士', p. 257)	8000877
+8000877	居士	\N	jūshì	a lay person; a male lay Buddhist; householder	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upasaka, or: gṛha-pati, or: kulapati; Japanese: koji (BCSD '居士', p. 403; Ding '居士'; FGDB '居士'; Guoyu '居士'; Matsuo 2007, p. 11; MW 'gṛhapati'; SH '居士', p. 257)	8000877
 8000878	优波夷	優波夷	yōubōyí	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000878
 8000879	优婆私柯	優婆私柯	yōupósīkē	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000879
 8000880	邬婆斯迦	鄔婆斯迦	wūpósījiā	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000880
@@ -882,7 +882,7 @@
 8000882	沙尼	\N	shāní	sramanerika; a novice Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙彌尼 (SH '沙彌尼', p. 242)	8000882
 8000883	室罗摩拏理迦	室羅摩拏理迦	shìluómónálǐjiā	sramanerika; a novice Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙彌尼 (SH '沙彌尼', p. 242)	8000883
 8000884	沙弥尼	沙彌尼	shāmíní	sramanerika; a novice Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāmaṇerikā; Pali: sāmaṇerī, Japanese: shamani, Tibetan: dge tshul ma (BL 'śrāmaṇerikā'; FGDB '沙彌尼'; Mahāvyutpatti 'śramaṇerikā'; Matsuo 2007, p. 23; SH '沙彌尼', p. 242; Tzu Chuang 2012)	8000884
-8000885	式叉摩那	\N	shìchāmónà	Siksamana; a novice nun; a female observer of the six commandments; śikṣamāṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣamāṇā, Pali: sikkhamānā, Japanese: shikishamana; FGS translation standard: Siksamana (BL 'śikṣamāṇā'; Ding '式叉摩那'; Tzu Chuang 2012 'Siksamana'; FGDB '式叉摩那'; Kieschnick and Wiles 2017, vol. 2, p. 47)	8000885
+8000885	式叉摩那	\N	shìchāmónà	siksamana; a novice nun; a female observer of the six commandments; śikṣamāṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣamāṇā, Pali: sikkhamānā, Japanese: shikishamana; FGS translation standard: Siksamana (BL 'śikṣamāṇā'; Ding '式叉摩那'; Tzu Chuang 2012 'Siksamana'; FGDB '式叉摩那'; Kieschnick and Wiles 2017, vol. 2, p. 47)	8000885
 8000886	器世界	\N	qìshìjiè	the material world; the world of living beings; bhajanaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 器世間 (SH '器世間', p. 446)	8000886
 8000887	器界	\N	qìjiè	the material world; the world of living beings; bhajanaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 器世間 (SH '器世間', p. 446)	8000887
 8000888	器世间	器世間	qì shìjiān	the material world; the world of living beings; bhajanaloka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhājanaloka, Japanese: kiseken, Tibetan: snod kyi jig rten; one of the 三世間 three worlds or continuums (BL 'bhājanaloka'; FGDB '器世間'; SH '器世間', p. 446)	8000888
@@ -1953,7 +1953,7 @@
 8001953	方便	\N	fāngbiàn	upāya; skillful means; expedient means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	fang1bian4.mp3	Sanskrit equivalent: upāya, Japanese hōben, Tibetan: thabs; short for 方便善巧 upāyakauśalya(BCSD '方便', p. 583; BL 'upāya', p. 942; Tzu Chuang 2012; FGDB '方便')	8001953
 8001954	吉祥八宝	吉祥八寶	jíxiáng bābǎo	Eight Buddhist emblems; Eight auspicious treasures; Eight auspicious signs; Ashtamangala	set phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	Namely: 1. Wheel 轮, 2. conch shell 螺, 3. umbrella 伞, 4. canopy; flag 盖, 5. lotus 花, 6. jar 罐, 7. fish 鱼, and 8. mystic knot 长 (Wikipedia '八宝 (佛教)')	8001954
 8001955	吉祥结	吉祥結	jíxiáng jié	endless knot; eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝 (FGDB '吉祥結'; Wikipedia 八宝 (佛教)')	8001955
-8001956	取	\N	qǔ	clinging; grasping; upādāna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	qu3.mp3	Sanskrit equivalent: upādāna, Pali: upādāna, Japanese: shu, Tibetan: len pa; alternatively, Sanskrit equivalent: grāha. Upādāna is the ninth of the twelve 因緣 nidāna 'links of dependent origination'. Four types of clinging 四取 are commonly listed. See 四取 (BCSD '取', p. 226; BL 'upādāna', p. 938; FGDB '取'; MW 'upādāna')	8001956
+8001956	取	\N	qǔ	clinging; grasping; upādāna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	qu3.mp3	Sanskrit equivalent: upādāna, or: grāha, Pali: upādāna, Japanese: shu, Tibetan: len pa; upādāna is the ninth of the twelve 因緣 nidāna 'links of dependent origination'. Four types of clinging 四取 are commonly listed. See 四取 (BCSD '取', p. 226; BL 'upādāna', p. 938; FGDB '取'; MW 'upādāna')	8001956
 8001957	不害	\N	bù hài	non-harm	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ahiṃsā, Pali: avihiṃsā, Japanese: fugai, Tibetan: 'tshe ba med pa; a religious ideal of doing no harm (BL 'ahiṃsā', p. 21; FGDB '不害'; SH '不害', p. 106)	8001957
 8001958	四梵住	\N	sì fàn zhù	the four brahmaviharas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāri brahmavihārāḥ, Pali: cattāri brahmavihārā, 1. 慈 loving-kindness, 2. 悲 compassion, 3. 喜 empathetic joy, 4. 捨 equanimity (BL 'brahmavihāra', p. 143; Ding '四梵住'; FGDB '四梵住'; SH '四梵住', p. 177; Tzu Chuang 2012, p. 135)	8001958
 8001959	四梵堂	\N	sìfàntáng	the four brahmaviharas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四梵住 (FGDB '四梵住')	8001959
@@ -5353,7 +5353,7 @@
 8005353	仁	\N	rén	a sage; muni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muni (BCSD '仁', p. 94; MW 'muni')	8005353
 8005354	禅刹	禪剎	chánshā	a Buddhist temple; a Chan temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Usually, a Chan temple (FGDB '禪院')	8005354
 8005355	影堂	\N	yǐngtáng	founders hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 開山堂 (FGDB '祖堂')	8005355
-8005356	今	\N	jīn	now; adhunā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhunā, Tibetan: de ltar ram da lta (BCSD '今', p. 94; Mahāvyutpatti 'adhunā'; MW 'adhunā')	8005356
+8005356	今	\N	jīn	now; adhunā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhunā, or: adya, Japanese: kon, or: kin, Tibetan: de ltar ram da lta (BCSD '今', p. 94; Mahāvyutpatti 'adhunā'; MW 'adhunā')	8005356
 8005357	上堂	\N	shàng táng	ascend to the [Dharma] hall	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: jōdō; the abbot ascends to the dias of the hall to give a public lecture (BL '上堂'; FGDB '上堂'; JEBD 'jōdō', p. 157; SH '上堂', p. 56)	8005357
 8005358	维那	維那	wéinà	weinuo; karmadana; vinaya master; discipline master	noun	职事	Post	佛教	Buddhism	\N	\N	\N	\N	Responsible for upholding rules and regulations in a temple (BL 'weinuo; FGDB '維那'; Welch 1967, p. 422)	8005358
 8005359	他	\N	tā	other; anya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anya, or: para, Japanese: ta (BCSD '他', p. 92; DJBT '他', p. 434; MW 'anya'; SH '他', p. 165)	8003252
@@ -7022,3 +7022,29 @@
 8007022	辩才无碍	辯才無礙	biàncái wú'ài	able to distinguish subtle points in Buddhist teachings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '辯才無礙'; Guoyu '辯才無礙' 2)	8007022
 8007023	富	\N	fù	wealthy; āḍhya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āḍhya, or: dhanavat, Japanese: fu, or: fū, Tibetan: phyug po (BCSD '富', p. 385; Mahāvyutpatti 'āḍhyaḥ'; MW 'āḍhya'; SH '富', p. 370; Unihan '富')	8007023
 8007024	富人	\N	fùrén	a rich person; dhanavat	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhanavat (BCSD '富人', p. 385; MW 'dhanavat')	8007024
+8007025	己证	己證	jǐzhèng	self-realized	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '己證', p. 103)	8007025
+8007026	大方广	大方廣	dàfāngguǎng	vaipulya; mahāvaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya; see 方等 (BCSD '大方廣', p. 318; FGDB '大方廣'; SH '大方廣', p. 89)	8007026
+8007027	迦楼那	迦樓那	jiālóunà	compassion; empathy; karuṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karuṇā; see 悲 (FGDB '悲')	8007027
+8007028	加卢那	加盧那	jiālúnà	compassion; empathy; karuṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karuṇā; see 悲 (FGDB '悲')	8007028
+8007029	臂	\N	bì	arm; bāhu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bi4.mp3	Sanskrit equivalent: bāhu, Japanese: hi, Tibetan: dpung pa; also used in transliteration of Sanskrit loan words; for exammple, 善臂 Subāhu (BCSD '臂', p. 981; Mahāvyutpatti 'bāhuḥ'; MW 'bāhu'; SH '臂', p. 462; Unihan '臂')	8007029
+8007030	善顺	善順	shànshùn	sūrata; well disposed towards; compassionate	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrata (BCSD '善順', p. 265; Karashima 2001, p. 327; MW 'sūrata')	8007030
+8007031	给	給	gěi	to give; deya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: deya, Japanese: kyū, or: kyou (BCSD '給, p. 931; MW 'deya'; SH '給', p. 385; Unihan '給')	8007031
+8007032	居	\N	jū	dwell; vāsa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsa, Japanese: kyo, or: ki (BCSD '居, p. 403; MW 'vāsa'; SH '居', p. 257; Unihan '居')	8007032
+8007033	优陀延	優陀延	yōutuóyán	udāna; inspired thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優陀那 (FGDB '優陀那')	8007033
+8007034	净信	淨信	jìngxìn	prasāda; pure faith	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasāda (BCSD '淨信'; MW 'prasāda')	8007034
+8007035	居家	\N	jūjiā	householder; gṛhastha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha, Tibetan: khyim na gnas pa (BCSD '居家', p. 403; Mahāvyutpatti 'gārhasthyam'; MW 'gṛhastha')	8007035
+8007036	居家人	\N	jūjiā rén	householder; gṛhastha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha (BCSD '居家人', p. 403; MW 'gṛhastha')	8007036
+8007037	居家者	\N	jūjiāzhě	householder; gṛhastha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha (BCSD '居家者', p. 403; MW 'gṛhastha')	8007037
+8007038	居处	居處	jūchù	dwelling; vāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsa (BCSD '居处', p. 403; MW 'vāsa')	8007038
+8007039	净	淨	jìng	vyavadāna; purification; cleansing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyavadāna; the Buddhist concept of purification (BCSD '淨', p. 727; BL 'vyavadāna'; MW 'vyavadāna')	8007039
+8007040	锅	鍋	guō	pot; kaṭāhaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṭāhaka, Japanese: ka, Tibetan: zangs sam rdza bo (BCSD '鍋, p. 1191; Mahāvyutpatti 'kaṭāhakam'; MW 'kaṭāhaka'; SH '鍋', p. 463; Unihan '鍋')	8007040
+8007041	净	淨	jìng	śuddha; cleansed; clean; pure	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	jing4.mp3	Sanskrit equivalent: śuddha, Tibetan: yongs su dag pa, Japanese: jō; this Sanskrit term is an attribute rather than the process of purification, as vyavadāna does (BCSD '淨', p. 727; DJBT '淨', p. 425; Mahāvyutpatti 'pariśuddhiḥ'; MW 'zuddha')	8007039
+8007042	饼	餅	bǐng	cake; apūpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apūpa, or: bhakta, Japanese: hei, or: hyo, Tibetan: 'bras zan (BCSD '餅, p. 1279; Mahāvyutpatti 'bhaktam'; MW 'apūpa'; Unihan '餅')	8007042
+8007043	甜	\N	tián	sweet; madhura	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhura, Japanese: ten, Tibetan: mngar ba (BCSD '甜, p. 832; Mahāvyutpatti 'madhuraḥ'; MW 'madhura'; Unihan '甜')	8007043
+8007044	净	淨	jìng	viśuddhi; purity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing4.mp3	Sanskrit equivalent: viśuddhi; this Sanskrit term is a statte rather than the process of purification, as vyavadāna does, or the attribute as śuddha does (BCSD '淨', p. 727; MW 'viśuddhi')	8007039
+8007045	普明	\N	pǔmíng	samanta-prabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanta-prabha (BCSD '普明', p. 603)	8007045
+8007046	菜	\N	cài	dish; food; śāka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāka, Japanese: sai (BCSD '菜, p. 1017; MW 'śāka'; Unihan '菜')	8007046
+8007047	祈	\N	qí	to pray; yācñā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yācñā, Japanese:  (BCSD '祈', p. 893; MW 'yācñā'; SH '祈', p. 310; Unihan '祈')	8007047
+8007048	胜鬘夫人	勝鬘夫人	shèngmán fūren	Śrīmālā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A princess in Buddhist stories known for her intelligence and wisdom (FGDB '勝鬘夫人'; T 310; KDC 22(48)	8007048
+8007049	佛国	佛國	fóguó	a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhakṣetra; see 佛土 (FGDB '佛土')	8007049
+8007050	佛国土	佛國土	fó guótǔ	buddhakṣetra; a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhakṣetra; see 佛土 (FGDB '佛土')	8007050
