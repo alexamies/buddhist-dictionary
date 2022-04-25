@@ -7059,3 +7059,24 @@
 8007059	小乘修多罗	小乘修多羅	xiǎoshèng xiūduōluó	Hinayana sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘經典 (FGDB '小乘經典')	8007059
 8007060	声闻契经	聲聞契經	shēngwén qìjīng	Sravaka sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘經典 (FGDB '小乘經典')	8007060
 8007061	涉	\N	shè	going; gamana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gamana, Japanese: shou (BCSD '涉', p. 726; MW 'gamana'; Unihan '涉')	8007061
+8007062	无垢	無垢	wúgòu	vimalā; nirmala; stainless; immaculate	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalā ,or: nirmala, or: amala, Pali vimalā, Japanese: rikuji, Tibetan: dri ma med pa (BL 'vimalā', p. 971; BSCD '無垢'; FGDB '無垢'; MW 'vimalā' and 'nirmala'; SH '無垢', p. 378)	8007062
+8007063	天子	\N	tiānzǐ	devaputra; the son of a god	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devaputra (BSCD '天子', p. 333; FGDB '天子'; MW 'devaputra'; SH '天子', p. 145)	8007063
+8007064	权	權	quán	expedient; means; upāya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upāya, Japanese: ken, or: gon; for example, 善權 'expedient means'; see also 方便 (BCSD '權', p. 671; Edgerton 1953, p. 146; Kroll 2015 '權' 3a; FGDB '方便'; MW 'upāya'; SH '權', p. 487; Unihan '權')	8007064
+8007065	善权	善權	shànquán	upāyakauśalya; kauśalya; skill in means	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	See 方便 (BSCD '善權', p. 266; Kroll 2015 '權' 3a; FGDB '方便')	8007065
+8007066	妻	\N	qī	wife; bhāryā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāryā, or: patnī, Japanese: sai, Tibetan: chung ma (BCSD '妻', p. 360; Mahāvyutpatti 'bhāryā'; MW 'bhāryā'; Unihan '妻')	8007066
+8007067	善权方便	善權方便	shànquán fāngbiàn	upāya-kauśalya; skill in means	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: upāya-kauśalya. See 方便 (BSCD '善權方便', p. 266; FGDB '方便').	8007067
+8007068	权慧	權慧	quánhuì	contingent wisdom; skill in means	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方便 (Kroll 2015 '權' 3a)	8007068
+8007069	权智	權智	quánzhì	contingent wisdom; expedient wisdom; skill in means	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方便 (FGDB '權智'; Sharf 2005, p. 329)	8007069
+8007070	权化	權化	quánhuà	appearance of a deity upon earth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avatāra (BCSD '權化', p. 671; MW 'avatāra')	8007070
+8007071	权方便	權方便	quánfāngbiàn	upāya; skill in means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upāya; see 方便 (BCSD '權方便', p. 671; FGDB '方便'; MW 'upāya')	8007071
+8007072	权宜	權宜	quányí	skill in means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方便 (Kroll 2015 '權宜' 3a)	8007072
+8007073	奴	\N	nú	slave; dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsa, Japanese: do, or: nu (BCSD '奴', p. 360; MW 'dāsa'; SH '奴', p. 184; Unihan '奴')	8007073
+8007074	奴婢	\N	núbì	slave; servant; dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsa, or: dāsī (BCSD '奴婢', p. 360; MW 'dāsa')	8007074
+8007075	奴婢	\N	núbì	female and male slaves; dāsī-dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsī-dāsa (BCSD '奴婢', p. 360; MW 'dāsīdāsa'; SH '奴婢', p. 184)	8007074
+8007076	善巧方便	\N	shànqiǎo fāngbiàn	skillful and expedient means	phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: upāyakauśalya; see 方便 (FGDB '方便')	8007076
+8007077	显识	顯識	xiǎnshí	alaya consciousness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ālayavijñāna; see 阿賴耶識 (FGDB '顯識')	8007077
+8007078	本愿	本願	běnyuàn	prior vow; purvapranidhana	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: pūrvapraṇidhāna, Japanese: hongan, Tibetan: sngon gyi smon lam; a vow made in connection with attainment of buddhahood (BCSD '本願', p. 645; BL 'pūrvapraṇidhāna'; FGDB '本願')	8007078
+8007079	本弘誓愿	本弘誓願	běnhóngshìyuàn	pūrvapraṇidhāna; prior vow	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: pūrvapraṇidhāna; see 本願 (FGDB '本願')	8007079
+8007080	本誓	\N	běnshì	pūrvapraṇidhāna; prior vow	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: pūrvapraṇidhāna; see 本願 (FGDB '本願')	8007080
+8007081	太	\N	tài	very; great; ati	prefix	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ati, Japanese: ta, or: tai (BCSD '太', p. 336; MW 'ati'; SH '太', p. 143; Unihan '太')	8007081
+8007082	太子	\N	tàizǐ	crown prince; kumāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kumāra (BCSD '太子', p. 336; MW 'kumāra'; SH '太子', p. 143)	8007082
