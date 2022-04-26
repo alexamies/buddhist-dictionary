@@ -3389,7 +3389,7 @@
 8003389	天众	天眾	tiān zhòng	devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天')	8003389
 8003390	佛法僧	\N	Fó Fǎ Sēng	the Buddha, the Dharma, and the Sangha; the Triple Gem; the three treasures of Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FE '佛法僧'; FGDB '三寶')	8003390
 8003391	十戒	\N	shí jiè	ten precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For Buddhist novice monks and nuns (Ding '十戒'; FGDB '十戒'; SH '十戒')	8003391
-8003392	具足	\N	jùzú	complete; full; perfect	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 具備滿足 (Ding '具足'; FGDB '具足'; Karashima 2001 '具足'; SH '具足', p. 250)	8003392
+8003392	具足	\N	jùzú	complete; accomplished	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrita; see also 具備滿足 (BCSD '具足', p. 141; Ding '具足'; FGDB '具足'; Karashima 2001 '具足'; SH '具足', p. 250)	8003392
 8003393	四执金刚	四執金剛	sì zhíjīngāng	four vajradharas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Deities occupying positions in the mandala descried in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '四執金剛'; SH '四執金剛', p. 173; Giebel 2005, p. 49; T 848, Scroll 2, 18.0011c12)	8003393
 8003394	总持自在	總持自在	zǒngchízìzài	Dharanisvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇīśvara; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 49; T 848, Scroll 2, 18.0011c12)	8003394
 8003395	悲者	\N	bēizhě	Karunya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāruṇya; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 49; T 848, Scroll 2, 18.0011c12)	8003395
@@ -6102,7 +6102,7 @@
 8006102	大悲忏法会	大悲懺法會	dà bēi chàn	Great Compassion Repentance Ceremony	proper noun	法会	Dharma Service	佛教	Buddhism	中国	China	\N	\N	(FoguangPedia)	8006102
 8006103	尔	爾	ěr	thus; atha khalu	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atha khalu, or: evam, Japanese: ni (BCSD '爾', p. 807; DJBT '爾', p. 427; MW 'evam'; SH '爾', p. 425)	8006103
 8006104	尔时	爾時	ěr shí	at that time; atha khalu	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atha khalu; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '爾', p. 807; Braarvig 2020, ch. 8; Hurvitz 2009, p. 157; Kern tr. 1884, ch. 8; Vaidya 1960, p. 128; T 262, Scroll 4, 9.0027b26)	8006104
-8006105	说	說	shuō	speaking; vāda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāda, Tibetan: smra ba, Japanese: setsu (BCSD '說', p. 1079; DJBT '說', p. 434; Mahāvyutpatti 'vādaḥ'; MW 'vāda'; SH '說', p. 429)	8006105
+8006105	说	說	shuō	speach; vāda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāda, Tibetan: smra ba, Japanese: setsu (BCSD '說', p. 1079; DJBT '說', p. 434; Mahāvyutpatti 'vādaḥ'; MW 'vāda'; SH '說', p. 429)	8006105
 8006106	歎	\N	tàn	praise; abhiṣṭuta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhiṣṭuta (BCSD '歎', p. 681; MW 'abhiṣṭuta'; SH '歎', p. 439)	8006106
 8006107	禅净	禪淨	chán jìng	Chan and Pure Land Buddhism	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FoguangPedia)	8006107
 8006108	正授	\N	zhèng shòu	precept conferment	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FoguangPedia)	8006108
@@ -7085,3 +7085,7 @@
 8007085	吾	\N	wú	I; aham	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aham, Japanese: go (BCSD '吾', p. 247; MW 'aham'; Unihan '吾')	8007085
 8007086	菓	\N	guǒ	fruit; phala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phala, Japanese: ka (BCSD '菓', p. 1017; MW 'phala'; Unihan '菓')	8007086
 8007087	薪	\N	xīn	firewood; kāṣṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāṣṭha, Japanese: shin (BCSD '薪', p. 1026; MW 'kāṣṭha'; SH '薪', p. 462; Unihan '薪')	8007087
+8007088	迦叶	迦葉	jiāyè	Mahākāśyapa; Kāśyapa; Kasyapa; Kassapa	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāśyapa, Pali: Kassapa, Japanese: Kashō; one of the 十大弟子 'ten direct disciples of the Buddha.' 迦葉 is an abbreviation for 大迦葉 or 摩訶迦葉 (BL 'Kāśyapa'; FGDB '迦葉'; MW 'kāśyapa')	8007088
+8007089	摄受折伏	攝受折伏	shèshòu zhéfú	to receive and uphold or to refute	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '攝受折伏')	8007089
+8007090	大宝	大寶	dàbǎo	mahāratna; a precious jewel	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāratna (BCSD '大寶', p. 332)	8007090
+8007091	说	說	shuō	to speak; bhāṣate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāṣate (BCSD '說', p. 1079; Mahāvyutpatti 'bhāṣate'; MW 'bhāṣ'; SH '說', p. 429)	8006105
