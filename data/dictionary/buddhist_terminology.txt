@@ -4385,7 +4385,7 @@
 8004385	飒哆南	颯哆南	sàduōnán	saptanam	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptānāṁ; a Sanskrit compound used in 佛說七俱胝佛母心大准提陀羅尼經 Cundīdevīdhāraṇīsūtra (Rulu 2012, pp.56-58; T 1077, Scroll 1, 20.0185a16)	8004385
 8004386	三十二大士相	\N	sān shí èr dàshì xiāng	thirty two marks of excellence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十二相 (FGDB '三十二相')	8004386
 8004387	大人三十二相	\N	dàren sān shí èr xiāng	thirty two marks of excellence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十二相 (FGDB '三十二相')	8004387
-8004388	大人相	\N	dàren xiāng	thirty two marks of excellence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十二相 (FGDB '三十二相')	8004388
+8004388	大人相	\N	dàren xiāng	marks of excellence of a great man	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāpuruṣa-lakṣaṇa; see 三十二相 (FGDB '三十二相'; Karashima 2001, p. 101)	8004388
 8004389	明末四大师	明末四大師	míng mò sì dà shī	the four great masters of the Late Ming	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	1. Master Hanshan 憨山大师 2. Master Zibo 紫柏大师 3. Master Lianchi 连池大师 4. Master Ouyi 蕅益大师 (Tzu Chuang 2012, pp. 170-178)	8004389
 8004390	准提忏法	準提懺法	zhǔntí chàn fǎ	Cundi Repentance Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '準提懺法')	8004390
 8004391	准提行法	準提行法	zhǔntí xíng fǎ	Cundi Repentance Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 準提懺法 (FGDB '準提懺法')	8004391
@@ -7044,7 +7044,7 @@
 8007044	净	淨	jìng	viśuddhi; purity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing4.mp3	Sanskrit equivalent: viśuddhi; this Sanskrit term is a statte rather than the process of purification, as vyavadāna does, or the attribute as śuddha does (BCSD '淨', p. 727; MW 'viśuddhi')	8007039
 8007045	普明	\N	pǔmíng	samanta-prabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanta-prabha (BCSD '普明', p. 603)	8007045
 8007046	菜	\N	cài	dish; food; śāka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāka, Japanese: sai (BCSD '菜, p. 1017; MW 'śāka'; Unihan '菜')	8007046
-8007047	祈	\N	qí	to pray; yācñā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yācñā, Japanese:  (BCSD '祈', p. 893; MW 'yācñā'; SH '祈', p. 310; Unihan '祈')	8007047
+8007047	祈	\N	qí	to pray; yācñā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yācñā, Japanese: ki (BCSD '祈', p. 893; MW 'yācñā'; SH '祈', p. 310; Unihan '祈')	8007047
 8007048	胜鬘夫人	勝鬘夫人	shèngmán fūren	Śrīmālā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A princess in Buddhist stories known for her intelligence and wisdom (FGDB '勝鬘夫人'; T 310; KDC 22(48)	8007048
 8007049	佛国	佛國	fóguó	a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhakṣetra; see 佛土 (FGDB '佛土')	8007049
 8007050	佛国土	佛國土	fó guótǔ	buddhakṣetra; a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhakṣetra; see 佛土 (FGDB '佛土')	8007050
@@ -7089,3 +7089,8 @@
 8007089	摄受折伏	攝受折伏	shèshòu zhéfú	to receive and uphold or to refute	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '攝受折伏')	8007089
 8007090	大宝	大寶	dàbǎo	mahāratna; a precious jewel	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāratna (BCSD '大寶', p. 332)	8007090
 8007091	说	說	shuō	to speak; bhāṣate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāṣate (BCSD '說', p. 1079; Mahāvyutpatti 'bhāṣate'; MW 'bhāṣ'; SH '說', p. 429)	8006105
+8007092	九味斋	九味齋	jiǔ wèi zhāi	a feast with nine flavors	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '九味齋')	8007092
+8007093	吸	\N	xī	to inhale; āśvas	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āśvas, Japanese: kyū (BCSD '吸', p. 247; MW 'āśvas'; SH '吸', p. 233; Unihan '吸')	8007093
+8007094	大忍力	\N	dà rěn lì	the power of great forbearance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣānti-bala; for example, in the 妙法蓮華經 Lotus Sutra (Karashima 2001, p. 101; T 262, Scroll 4, 9.0035c28)	8007094
+8007095	菩萨心	菩薩心	pú sà xīn	bodhisattva's mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in the 妙法蓮華經 Lotus Sutra (Karashima 2001, p. 291; T 262, Scroll 4, 9.0030a01)	8007095
+8007096	十六大力	\N	shíliù dà lì	sixteen great powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Powers obtainable by a bodhisattva (FGDB '十六大力'; SH '十六大力', p. 46)	8007096
