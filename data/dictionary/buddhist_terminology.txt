@@ -3676,7 +3676,7 @@
 8003676	诸天等仪轨类	諸天等儀軌類	zhū tiān děng yíguǐ lèi	deva ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shotentō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1244–1330 (Giebel 2011, p. 28)	8003676
 8003677	诸陀罗尼经类	諸陀羅尼經類	zhū tuóluóní jīng lèi	group of dharani sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shodaranikyōrui; a group of texts in the esoteric section of the Taisho including numbers 1331–1420 (Giebel 2011, p. 28)	8003677
 8003678	瑜	\N	yú	yu	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: yu (DJBT '瑜', p. 436; SH '瑜' 2, p. 407)	8003678
-8003679	摄	攝	shè	samgraha; to hold together; to collect; to combine	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgraha, Japanese: jō, or: sesshu, or: setsu (BCSD '攝', p. 588; DJBT 'sesshu', p. 284; MW 'saṃgraha'; SH '攝', p. 483)	8003679
+8003679	摄	攝	shè	samgraha; to hold together; to collect; to combine	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgraha, Japanese: jō, or: sesshu, or: setsu (BCSD '攝', p. 566; DJBT 'sesshu', p. 284; MW 'saṃgraha'; SH '攝', p. 483)	8003679
 8003680	伐折罗	伐折羅	fázhéluó	Vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra; see 金剛 (SH '伐折羅', p. 200)	8003680
 8003681	道场	道場	dàochǎng	place of enlightenment; bodhimanda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhimaṇḍala, or: bodhimaṇḍa, Japanese: dōjō; see 菩提道場 (FGDB '道場'; JEBD '道場', p. 52; SH '道場', p. 416)	8000051
 8003682	印	\N	yìn	mudra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mudrā, Tibetan: rgya, Japanese: in; mudrā were adopted into Buddhism from Vedic ritual use, also written 手印 (BCSD '印', p. 221; DJBT 'in', p. 122; JEBD 'in', p. 140; Mahāvyutpatti 'mudrā'; MW 'mudrā'; Orzech and Sørensen 2011, pp. 76-78; SH '印', p. 203)	8003682
@@ -7109,3 +7109,29 @@
 8007109	十月	\N	shíyuè	tenth lunar month; pauṣa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: pauṣa; tenth month of the traditional Indian lunar calendar, corresponding to December-January (BCSD '十月', p. 217; MW 'pauṣa'; Wikipedia 'Pausha')	8007109
 8007110	十一月	\N	shíyīyuè	eleventh lunar month; māgha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: māgha; eleventh month of the traditional Indian lunar calendar, corresponding to January-February (BCSD '十一月', p. 215; MW 'māgha'; Wikipedia 'Magha (month)')	8007110
 8007111	十二月	\N	shíèryuè	twelfth lunar month; phālguna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: phālguna; twelfth month of the traditional Indian lunar calendar, corresponding to February-March (BCSD '十二月', p. 215; MW 'phālguna'; Wikipedia 'Phalguna')	8007111
+8007112	大方便	\N	dàfāngbiàn	mahopāya; great skillful means; expedient means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahopāya; see 方便 (BCSD '大方便', p. 318; SH '大方便', p. 89)	8007112
+8007113	体性	體性	tǐxìng	svabhāva; intrinsic nature; original nature; intrinsic existence; essential nature	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: svabhāva; see 自性 (BCSD '體性', p. 1286; FGDB '體性')	8007113
+8007114	宝积	寶積	bǎojī	ratnakūṭa; baoji	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: ratnakūṭa, Tibetan: rin chen rtsegs pa; see also 大寶積經 (BCSD '寶積', p. 391; Mahāvyutpatti 'ratnakūṭaḥ'; SH '寶積', p. 477)	8007114
+8007115	体	體	tǐ	body; śarīra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: śarīra, Japanese: tei, or: tai (BCSD '體', p. 1285; MW 'śarīra'; SW '體', p. 488; Unihan '體')	8007115
+8007116	三耶三佛	\N	sānyésānfó	samyaksaṃbodhi; unsurpassed complete perfect enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samyaksaṃbodhi, Japanese: Sammyaku-sambodai; see 阿耨多羅三藐三菩提 (BCSD '三耶三佛'; JEBD 'Sammyaku-sambodai')	8007116
+8007117	无上菩提	無上菩提	wúshàng pútí	samyaksaṃbodhi; unsurpassed complete perfect enlightenment; supreme bodhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samyaksaṃbodhi; see 阿耨多羅三藐三菩提 (FGDB '三菩提')	8007117
+8007118	人间道	人間道	rénjiān dào	Human Realm; Saha World	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	See 人道 (FGDB '六道')	8007118
+8007119	人中	\N	rénzhōng	mānuṣyaka; a multitude of men	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mānuṣyaka (BCSD '人中', p. 92; MW 'mānuṣyaka')	8007119
+8007120	摄持	攝持	shèchí	parigraha; to protect; to uphold; to take proper care	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parigraha (BCSD '攝持', p. 568; FE '攝持'; MW 'parigraha')	8007120
+8007121	摄护	攝護	shèhù	parigraha; to protect	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parigraha (BCSD '攝護', p. 568; MW 'parigraha')	8007121
+8007122	摄益	攝益	shèyì	anugraha; to benefit	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anugraha (BCSD '攝益', p. 568; FGDB '攝益'; MW 'anugraha')	8007122
+8007123	摄伏	攝伏	shèfú	grahaṇa; to seize; to hold	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grahaṇa (BCSD '攝伏', p. 567; MW 'grahaṇa')	8007123
+8007124	业烦恼	業煩惱	yèfánnǎo	karmic affliction	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma-kleśa (BCSD '業煩惱', p. 661)	8007124
+8007125	业受	業受	yèshòu	karmic lifespan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業壽 (FGDB '業受')	8007125
+8007126	根力	\N	gēnlì	mūlabala; the five sense organs and corresponding consciousnesses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūlabala (BCSD '根力'; FGDB '根力')	8007126
+8007127	根门	根門	gēnmén	indriya; sense organ	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indriya (BCSD '根門'; FGDB '根門')	8007127
+8007128	大悲	\N	dàbēi	mahākaruṇā; great compassion	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: mahākaruṇā, Japanese: daihi, Tibetan: snying rje chen po (B 'mahākaruṇā', p. 496; Eitel 'adhimātra kāruṇika', p. 4; FGDB '大悲'; JEBD 'Hi'; SH '大悲'; Powers 2007, p. 106)	8007128
+8007129	无尽慧菩萨	無盡慧菩薩	wújìn huì púsà	Aksayamati Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣayamati; see 無盡意菩薩 (FGDB '無盡意菩薩')	8007129
+8007130	了义	了義	liǎoyì	nītārtha; definitive	adjective	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: nītārtha, Pali: nītāttha, Japanese: ryōgi; in the sense of definitive meaning in the context of interepreting Buddhist texts. Nītārtha is in contrast to 不了義 neyārtha 'provisional' (BL 'nītārtha'; FGDB '了義'; MW 'nītārtha').	8007130
+8007131	不了义	不了義	bùliǎoyì	neyārtha; provisional; conventional	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: neyārtha, Pali: neyyāttha, Japanese: furyōgi; in the sense of provisional meaning in the context of interepreting Buddhist texts. Neyārtha  is in contrast to 了義 nītārtha 'definitive'.(BL 'neyārtha'; FGDB '了義'; MW 'neyārtha')	8007131
+8007132	无量意菩萨	無量意菩薩	wúliàng yì púsà	Aksayamati Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣayamati; see 無盡意菩薩 (FGDB '無盡意菩薩')	8007132
+8007133	八圣道支	八聖道支	bā Shèng dào zhī	The Noble Eightfold Path; Eightfold Noble Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (FGDB '八正道')	8007133
+8007134	法场	法場	fǎ chǎng	a place of practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 道場 (Guoyu '法場' 2; SH '法場', p. 269)	8007134
+8007135	大方等	\N	dàfāng guǎngděng	vaipulya; mahāvaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大方廣 (FGDB '大方廣')	8007135
+8007136	执	執	zhí	to attach to; grasping	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '执'; Kroll 2015 '執' 1a, p. 605; SH '执', p. 345)	8007136
+8007137	功课	功課	gōngkè	morning and evening chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '課誦'; Guoyu '功課' 3)	8007137
