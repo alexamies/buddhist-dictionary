@@ -138,7 +138,7 @@
 8000138	阿耨三菩提	\N	ānòusānpútí	anubodhi; unexcelled complete enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耨多羅三藐三菩提 (FGDB '阿耨多羅三藐三菩提')	8000138
 8000139	无上正真道	無上正真道	wúshàng zhèng zhēn dào	unexcelled complete enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耨多羅三藐三菩提 (FGDB '阿耨多羅三藐三菩提')	8000139
 8000140	八正道分	\N	bā zhèng dào fēn	Noble Eightfold Path	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八正道 (SH '八正道', p. 37)	8000140
-8000141	咒	\N	zhòu	incantation; mantra; dhāraṇī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zhou4.mp3	Sanksrit equivalent: mantra, see also 真言(BL 'mantra', p. 529; Powell 2007, pp. 265-267; FGDB '咒'; SH '咒', p. 252; Tzu Chuang 2012)	8000141
+8000141	咒	\N	zhòu	incantation; mantra; dhāraṇī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zhou4.mp3	Sanksrit equivalent: mantra, Japanese: shu, or: shū, or: ju; see also 真言 (BCSD '咒', p. 249; BL 'mantra', p. 529; Powell 2007, pp. 265-267; FGDB '咒'; SH '咒', p. 252; Tzu Chuang 2012; Unihan '咒')	8000141
 8000142	谛	諦	dì	truth; satya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: satya, Pali: sacca, Japanese: tai, Tibetan: bden pa; as in 四谛, the four noble truths (BCSD '諦', p. 1086; BL 'satya', p. 789; Guoyu '諦' n; Kroll 2015 '諦' 2, p. 85; XHZD '谛' 2)	8000142
 8000143	三宝	三寶	sān bǎo	The Triple Gem; triple gem; ratnatraya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnatraya, or: triratna, Pali: ratanattaya or tiratana, Japanese: sanbō, Tibetan: dkon mchog gsum; namely: Buddha, Darma, and Sangha (BL 'ratnatraya', p. 704; FGDB '三寶'; Tzu Chuang 2012, pp. 101-103)	8000143
 8000144	金刚	金剛	jīngāng	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra Japanese: kongō, Tibetan: rdo rje; literally, diamond or thunderbolt; symbolizing something very hard, the truth, indestructible power, a resolute upholder of the Dharma, and also the thunderbolt of Indra in Indian mythology (BCSD '金剛', p. 1180; BL 'vajra', p. 952; CCD '金刚'; FGDB '金剛'; GHDC '金刚'; Guoyu '金剛' 3; JEDB 'Kongō', p. 199; SH '金刚', p. 280)	8000144
@@ -1667,7 +1667,7 @@
 8001667	毘倶胝	\N	píjùzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhṛkutī, Japanese: Bikutei, Tibetan: khro gnyer can; a form of Avalokitesvara with knitted eyebrows (BL 'Bhṛkutī'; SH '毘倶胝', p. 305)	8001667
 8001668	毘倶知	\N	píjùzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhrūkuti; see 毘倶胝 (SH '毘倶胝', p. 305)	8001668
 8001669	毘俱知	\N	píjūzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhrūkuti; see 毘倶胝 (SH '毘倶胝', p. 305)	8001669
-8001670	呪师	呪師	zhòu shī	spell master	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The person reciting a mantra in an esoteric ritual (Shinohara, 2014, pp. 71-72)	8001670
+8001670	呪师	呪師	zhòu shī	spell master; vaidyaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaidyaka; the person reciting a mantra in an esoteric ritual (BCSD '呪師', p. 248; Shinohara, 2014, pp. 71-72)	8001670
 8001671	金刚鏁	金剛鏁	jīngāng suǒ	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (SH '金剛鏁', p. 283)	8001671
 8001672	商迦罗受法坛	商迦羅受法壇	shāngjiāluó shòu fǎ tán	śṛṅkhalā mandala ritual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Described in the 陀羅尼集經 “Collected Dharanis Sutra” (Shinohara, 2014, pp. 74-75; T 901, Scroll 7, 18.0847c04)	8001672
 8001673	商迦罗	商迦羅	shāngjiāluó	Srnkhala mandala ritual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śṛṅkhalā; name of a deity mentioned in the 陀羅尼集經 “Collected Dharanis Sutra” (Shinohara, 2014, pp. 74-75; T 901, Scroll 7, 18.0847c04)	8001673
@@ -2590,8 +2590,8 @@
 8002590	风	風	fēng	wind; vayu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu, Japanese: fū (BCSD '風', p. 1272; DJBT '風', p. 427; MW 'vāyu'; SH '風', p. 318)	8002589
 8002591	闭戾多	閉戾多	bìlìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002591
 8002592	俾礼多	俾禮多	bǐlǐduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002592
-8002593	火	\N	huǒ	fire element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 four great elements (Tzu Chuang 2012, p. 92)	8002593
-8002594	火	\N	huǒ	fire; agni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni (BCSD '風', p. 748; MW 'agni')	8002593
+8002593	火	\N	huǒ	fire; agni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni, Japanese: ka, or: ko (BCSD '火', p. 748; MW 'agni'; SH '火', p. 160; Unihan '火')	8002593
+8002594	火	\N	huǒ	fire element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 four great elements (Tzu Chuang 2012, p. 92)	8002593
 8002595	牛	\N	niú	cow; cattle; dhenu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhenu, or: go, Japanese: gyū (BCSD '牛', p. 809; MW 'dhenu'; SH '牛', p. 162; Unihan '牛')	8002595
 8002596	伊舍那方	\N	yīshěnà fāng	Iśāna; northeast	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iśāna; the northeast quarter of a mandala used in a tantric ritual, for example, as described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '伊舍那方'; SH '四方', p. 176; Giebel 2005, p. 27; T 848, Scroll 1, 18.0006b09)	8002596
 8002597	伊舍尼方	\N	yīshění fāng	Iśāna; northeast	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iśāna; see 伊舍那方 (FGDB '伊舍那方')	8002597
@@ -2650,7 +2650,7 @@
 8002650	跛拏缚悉尼	跛拏縛悉尼	bǒnáfúxīní	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音')	8002650
 8002651	白住处	白住處	báizhùchù	Pāṇḍaravāsinī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; see 白衣觀音 (FGDB '白衣觀音')	8002651
 8002652	白	\N	bái	clean; avadāta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadāta, Tibetan: dkar po; for example, 白衣 avadātavasana 'white robed' (BCSD '白', p. 862; Mahāvyutpatti 'avadātam'; MW 'avadāta')	8002652
-8002653	白衣	\N	bái yī	lay people; the laity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadātavasana (FGDB '白衣'; Karashima 2001, p. 45; SH '白衣', p. 198)	8002653
+8002653	白衣	\N	bái yī	lay people; the laity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadātavasana (FGDB '白衣', p. 862; Karashima 2001, p. 45; SH '白衣', p. 198)	8002653
 8002654	白衣	\N	bái yī	white-robed; avadatavasana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṇḍaravāsinī; a form of Avalokitesvara, see 白衣觀音 (BCSD '白衣', p. 862; SH '白衣', p. 198)	8002653
 8002655	白	\N	bái	white; śukla; pāṇḍara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śukla, or: pāṇḍara, Japanese: haku, or: byaku; for example, 白衣 pāṇḍaravāsinī 'white robed,' a form of Avalokitesvara, see 白衣觀音 (BCSD '白', p. 862; FGDB '白衣觀音'; MW 'pāṇḍara'; Unihan '白')	8002652
 8002656	白色	\N	báisè	white; avadata; pandara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadāta, or: pāṇḍara (BCSD '白', p. 862; MW 'pāṇḍara')	8002656
@@ -3296,7 +3296,7 @@
 8003296	三好	\N	sān hǎo	Three Acts of Goodness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '三好')	8003296
 8003297	攞	\N	luó	la	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: la; see 邏 (FGDB '邏')	8003297
 8003298	砢	\N	kē	la	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: la; see 邏 (FGDB '邏')	8003298
-8003299	呵	\N	hē	la	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: la; see 邏 (FGDB '邏')	8003299
+8003299	呵	\N	hē	ha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ha, or: he (BCSD '呵', p. 250; MW 'ha'; SH '呵', p. 252)	8003299
 8003300	缚	縛	fú	va	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: va, Siddham: 𑖪; a semivowel in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '縛', p. 938; MW 'va'; SH '縛', p. 449; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003281
 8003301	语言	語言	yǔyán	words; speech; vac	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāc, or: vacana (BCSD '語言', p. 1077; FGDB '語言'; MW 'vāc'; SH '語言', p. 428; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003301
 8003302	语	語	yǔ	words; discourse; vac	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāc, or: vacana (BCSD '語', p. 1077; SH '語', p. 428)	8003302
@@ -6925,7 +6925,7 @@
 8006925	业果	業果	yèguǒ	karmic retribution; cause and effect; fruit of actions; karma and results; karmaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmaphala, Pali: kammaphala, Japanese: gōka; a Sanskrit compound karma 'actions' + phala 'fruit', which could be the result of either good or bad karmic actions (Buddhadatta 1958, 'kamma'; JEBD 'Gōka'; FGDB '業果'; MW karmaphala)	8006925
 8006926	走	\N	zǒu	to walk; to go; to move	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāvita, Japanese: sou, or: shu, Tibetan: bang (BCSD '走', p. 1115; Mahāvyutpatti 'jāvita'; MW ''; SH '走', p. 245; Unihan '走')	8006926
 8006927	炉	爐	lú	a censer	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ro; for burning incense (SH '爐', p. 478)	8006927
-8006928	告	\N	gào	to tell; jalp	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udīrayati, or: jalp, Japanese: koku, or: kou (BCSD '走', p. 1115; MW 'jalp'; Mahāvyutpatti 'udīrayati'; SH '走', p. 233; Unihan '告')	8006928
+8006928	告	\N	gào	to tell; jalp	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udīrayati, or: jalp, Japanese: koku, or: kou (BCSD '告', p. 248; MW 'jalp'; Mahāvyutpatti 'udīrayati'; SH '告', p. 233; Unihan '告')	8006928
 8006929	修	\N	xiū	pratipanna; spiritual practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratipanna; see also 修行 (BCSD '修', p. 135)	8006929
 8006930	修行	\N	xiūxíng	bhāvanā; spiritual cultivation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāvanā, Pali: bhāvanā, Japanese: shujū (BL 'bhāvanā'; BCSD '修行')	8006930
 8006931	资粮道	資糧道	zīliáng dào	saṃbhāramārga; path of accumulation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃbhāramārga, Japanese: shiryōdō; Saṃbhāramārga is a path of spiritual cultivation for accumulation of merit and wisdom. It is the first path of the 五位 pañcamārga 'five paths' (BL 'saṃbhāramārga'; FGDB '資糧道').	8006931
@@ -7135,3 +7135,31 @@
 8007135	大方等	\N	dàfāng guǎngděng	vaipulya; mahāvaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大方廣 (FGDB '大方廣')	8007135
 8007136	执	執	zhí	to attach to; grasping	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '执'; Kroll 2015 '執' 1a, p. 605; SH '执', p. 345)	8007136
 8007137	功课	功課	gōngkè	morning and evening chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '課誦'; Guoyu '功課' 3)	8007137
+8007138	吼	\N	hǒu	roaring; nāda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: nāda, Japanese: kou, or: ku (BCSD '吼', p. 247; MW 'nāda'; Unihan '吼')	8007138
+8007139	吼	\N	hǒu	humming; raṇita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: raṇita, Tibetan: 'ur 'ur (Mahāvyutpatti 'raṇitaḥ'; MW 'raṇita')	8007138
+8007140	周	\N	zhōu	universal; entire; samanta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: samanta, Japanese: shū (BCSD '周', p. 248; MW 'samanta'; Unihan '周')	8007140
+8007141	火	\N	huǒ	Gode of Fire; Anala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anala, Tibetan: me (BCSD '火', p. 748; MW 'anala'; Mahāvyutpatti 'analaḥ')	8002593
+8007142	班第达	班第達	bāndìdá	scholar; paṇḍita	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '班第達')	8007142
+8007143	班迪达	班迪達	bāndídá	scholar; paṇḍita	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 班第達 (FGDB '班第達')	8007143
+8007144	班弥怛	班彌怛	bānmídá	scholar; paṇḍita	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 班第達 (FGDB '班第達')	8007144
+8007145	闇林	\N	ànlín	Andha-vana; Tāmasavana	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(DDB '闇林'; FGDB '闇林'; SH '闇林', p. 463)	8007145
+8007146	白马	白馬	báimǎ	shite horse; śveta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śveta (BCSD '白馬', p. 862; MW 'śveta')	8007146
+8007147	安陀林	\N	āntuólín	cemetery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(DDB '安陀林'; FGDB '安陀林'; SH '尸陀', p. 102)	8007147
+8007148	王宫	王宮	wáng gōng	royal palace; rāja-kula	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāja-kula, Tibetan: rgyal po bzhugs pa (BCSD '王宮', p. 820; Mahāvyutpatti 'rājakulam'; MW 'rājakula')	8007148
+8007149	苦习	苦習	kǔ xí	the [noble truth of the] origination of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四諦')	8007149
+8007150	王家	\N	wángjiā	royal family; rāja-kula	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāja-kula (BCSD '王家', p. 820; MW 'rājakula')	8007150
+8007151	王都	\N	wángdōu	capital; rāja-dhānī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāja-dhānī (BCSD '王都', p. 820; MW 'rājadhānī')	8007151
+8007152	人身	\N	rénshēn	human body; manuṣya-bhūta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manuṣya-bhūta (BCSD '人身', p. 93; SH '人身', p. 32)	8007152
+8007153	苦灭	苦滅	kǔ miè	the cessation of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: duḥkha-nirodha;  the third noble truth (BCSD '苦集', p. 1012; FGDB '四諦')	8007153
+8007154	苦灭道	苦滅道	kǔ miè dào	the path of practice leading to the cessation of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: duḥkha-nirodha-gāminī; the fourth noble truth (BCSD '苦滅道', p. 1012; FGDB '四諦'; Thanissaro Bhikkhu tr. 2003 by CCANC; MN 28)	8007154
+8007155	周遍	\N	zhōubiàn	universal; entire; samanta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanta (BCSD '周遍', p. 249; MW 'samanta'; SH '周遍', p. 253)	8007155
+8007156	未来际	未來際	wèilái jì	the limit of the future	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '未來際')	8007156
+8007157	呪语	呪語	zhòuyǔ	mantra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mantra (BCSD '呪語', p. 249; MW 'mantra')	8007157
+8007158	呬	\N	xì	to rest	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hi, or: he, Japanese: ki, or: chi, or: rei, or: ryou (BCSD '呬', p. 249; MW 'hi'; Unihan '呬')	8007158
+8007159	五盛阴苦	五盛陰苦	wǔ shèngyīn kǔ	suffering due to the five aggregates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五陰熾盛苦')	8007159
+8007160	味	\N	wèi	taste; rasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rasa, or: svāda, Japanese: mi, or: bi, Tibetan: ro (BCSD '味', p. 250; MW 'rasa'; Mahāvyutpatti 'rasaḥ'; SH '味', p. 252; Unihan '味')	8007160
+8007161	五取蕴苦	五取蘊苦	wǔ qǔyùn kǔ	suffering due to the five aggregates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五陰熾盛苦')	8007161
+8007162	内水界	內水界	nèi shuǐ jiè	internal liquid element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Fluids within the body; for example, as mentioned in the 象跡喻經 “Sutra of the Great Elephant Footprint Simile” (Thanissaro Bhikkhu tr. 2003 MN 28; T 26, Scroll 7, 1.0465a24; FGDB '內水界')	8007162
+8007163	内火界	內火界	nèi huǒ jiè	internal fire element	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Heat within the body; for example, as mentioned in the 象跡喻經 “Sutra of the Great Elephant Footprint Simile” (Thanissaro Bhikkhu tr. 2003 MN 28; T 26, Scroll 7, 1.0465c14; FGDB '內火界')	8007163
+8007164	呵	\N	hē	yawn; vijṛmbhā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijṛmbhā, Japanese: ka, Tibetan: glal pa (BCSD '呵', p. 250; Mahāvyutpatti 'vijṛmbhā'; MW 'ha'; SH '呵', p. 252; Unihan '呵')	8003299
+8007165	呵	\N	hē	la	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: la; see 邏 (FGDB '邏')	8003299
