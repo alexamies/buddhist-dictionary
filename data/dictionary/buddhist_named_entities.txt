@@ -1190,7 +1190,7 @@
 7001190	弘一大师	弘一大師	hóngyī dàshī	Hong Yi	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 弘一 (Wikipedia '李叔同')	7001190
 7001191	沩山	溈山	guīshān	Guishan	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	Names of a temple in Ningxian County, Hunan (Ding '溈山'; FGDB '溈山'; SH '溈山')	7001191
 7001192	德山	\N	déshān	Cuifeng Deshan; Deshan	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 翠峰德山 (FGDB '翠峰德山')	7001192
-7001193	三藏法师	三藏法師	sān Zàng fǎshī	Venerable Xuanzang; Tripiṭaka	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	602-664; Tang dynasty Buddhist monk and translator who traveled to India in 629-645 (FGDB '三藏法師').	7001193
+7001193	三藏法师	三藏法師	sān zàng fǎshī	Venerable Xuanzang; Tripiṭaka	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	602-664; Tang dynasty Buddhist monk and translator who traveled to India in 629-645 (FGDB '三藏法師').	7001193
 7001194	陈袆	陳褘	Chén Huī	Chen Hui; Venerable Xuanzang; Tripitaka	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 三藏法師 (FGDB '三藏法師')	7001194
 7001195	陈讳	陳諱	Chén Huì	Chen Hui; Venerable Xuanzang; Tripitaka	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 三藏法師 (FGDB '三藏法師')	7001195
 7001196	三藏法师义净	三藏法師義淨	sān Zàng fǎshī Yì jìn	Venerable Yi Jing; Venerable Yijing	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 義淨 (FGDB '義淨')	7001196
@@ -6744,3 +6744,17 @@
 7006744	西域求法高僧传	大唐西域求法高僧傳	xīyù qiúfǎ gāosēng zhuàn	Biographies of Eminent Monks who Sought the Dharma in the Western Regions; Buddhist Pilgrim Monks of Tang Dynasty	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	See 大唐西域求法高僧傳 (KDC 1072; T 2066; FGDB '大唐西域求法高僧傳')	7006744
 7006745	三昧弘道广显定意经	三昧弘道廣顯定意經	sānmèi hóngdào guǎng xiǎn dìngyì jīng	Anavatapta Nagaraja Paripritccha Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a text (Eitel, p. 13; FGDB '十六大力')	7006745
 7006746	提婆	\N	típó	Kanadeva	proper noun	人	Person	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	(FGDB '提婆')	7006746
+7006747	阇烂陀罗	闍爛陀羅	shélàntuóluó	Jalandhar	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Variant writing found in Buddhist sources; see 闍爛達羅國 (FGDB '闍爛達羅國')	7006747
+7006748	闇林寺	\N	ànlínsì	Tamasāvana Temple	proper noun	寺院	Temple	佛教	Buddhism	印度	India	\N	\N	See 闇林 (FGDB '闇林')	7006748
+7006749	答秣苏伐那	答秣蘇伐那	dámòsūfánà	Tamasāvana	proper noun	寺院	Temple	佛教	Buddhism	印度	India	\N	\N	See 闇林 (FGDB '闇林')	7006749
+7006750	迦多衍那	\N	jiāduōyǎnnà	Kātyāyana	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 摩訶迦旃延 (FGDB '迦多衍那')	7006750
+7006751	三藏法师传	三藏法師傳	sān zàng fǎshī zhuàn	Biography of Dharma Master San Zang	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大慈恩寺三藏法師傳 (FGDB '三藏法師傳')	7006751
+7006752	大慈恩寺三藏法师传	大慈恩寺三藏法師傳	dà cí ēn sì zàng cáng fǎshī zhuàn	Biography of Dharma Master San Zang of Da Ci En Temple	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Biography of Xuan Zang, compiled by 慧立 Hui Li in the Tang (FGDB '大慈恩寺三藏法師傳')	7006752
+7006753	突舍萨那寺	突舍薩那寺	tūshěsànà sì	Toṣasana-vihāra	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Name of a historic temple in India (BSPAD '突舍薩那寺')	7006753
+7006754	毘腻多钵腊婆	毘膩多鉢臘婆	pínìduōbōlàpó	Vinītaprabha	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 調伏光 (BSAD '調伏光', ID: A002393; FGDB '至那僕底國')	7006754
+7006755	调伏光	調伏光	tiáofúguāng	Vinītaprabha	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Historic person from India, known in China in the Tang dynasty (BSAD '調伏光', ID: A002393)	7006755
+7006756	毗腻多缽腊婆	毗膩多缽臘婆	pínìduōbōlàpó	Vinītaprabha	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 調伏光 (BSAD '調伏光', ID: A002393)	7006756
+7006757	毗腻多鉢腊婆	毗膩多鉢臘婆	pínìduōbōlàpó	Vinītaprabha	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 調伏光 (BSAD '調伏光', ID: A002393)	7006757
+7006758	毘腻多缽腊婆	毘膩多缽臘婆	pínìduōbōlàpó	Vinītaprabha	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 調伏光 (BSAD '調伏光', ID: A002393)	7006758
+7006759	正理门论	正理門論	zhèng lǐ mén lùn	Nyāyamukha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 因明正理門論 (FGDB '因明正理門論')	7006759
+7006760	理门论	理門論	lǐ mén lùn	Nyāyamukha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 因明正理門論 (FGDB '因明正理門論')	7006760
