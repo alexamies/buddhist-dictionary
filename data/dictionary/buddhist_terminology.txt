@@ -153,7 +153,7 @@
 8000153	广大圆满无碍大悲心陀罗尼	廣大圓滿無礙大悲心陀羅尼	guǎngdà yuánmǎn wú'ài dàbēixīn tuóluóní	Perfect Unhindered Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000153
 8000154	大悲心陀罗尼	大悲心陀羅尼	dàbēixīn tuóluóní	Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000154
 8000155	大悲咒	\N	dà bēi zhòu	Great Compassion Dharani; Great Compassion Mantra	proper noun	咒	Dharani	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Nīlakantha dhāranī, Mahā Karuṇā Dhāranī, Japanese: Daihiju (BL'Dabei zhou', p. 205; FGDB '大悲咒'; SH '大悲咒', p. 88)	8000155
-8000156	唵	\N	ǎn	om	particle	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ ॐ; used in mantras (Ding '唵'; FGDB '唵'; SH '唵', p. 343)	8000156
+8000156	唵	\N	ǎn	om	particle	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ; ॐ used in mantras (BCSD '唵', p. 257; Ding '唵'; FGDB '唵'; SH '唵', p. 343)	8000156
 8000157	须菩提	須菩提	xūpútí	Subhuti; Subhūti	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: subhūti, Pali: subhūti, Japanese: Shubodai, Tibetan: rab 'byor; first in understanding of emptiness. Subhūti was the son of a Brahmin from Śrāvastī. He left his family to practice in the forest. After following the Buddha he became an Arhat (BL 'Subhūti', pp. 861-862; FGDB '須菩提'; Tzu Chuang 2012, p. 85; SH '須菩提', p. 394)	8000157
 8000158	灭度	滅度	mièdù	to extinguish worries and the sea of grief	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '滅度', p. 405)	8000158
 8000159	灭度	滅度	mièdù	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (SH '涅槃', p. 328)	8000158
@@ -7232,3 +7232,32 @@
 8007232	除过	除過	chúguò	eliminating faults; vāntadoṣa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāntadoṣa, Tibetan: skyon bsal ba (Mahāvyutpatti 'vāntadoṣaḥ')	8007232
 8007233	离过	離過	líguò	eliminating faults; vāntadoṣa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāntadoṣa, Tibetan: skyon bsal ba; see 除過 (Mahāvyutpatti 'vāntadoṣaḥ')	8007233
 8007234	去毒	\N	qùdú	remove poison	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hataviṣa, Tibetan: dug bcom pa (Mahāvyutpatti 'hataviṣaḥ')	8007234
+8007235	唐	\N	táng	Tang; China; cīna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cīna, Japanese: tou; Sanskrit word for China (BCSD '唐', p. 255; MW 'cīna'; Unihan '唐')	8007235
+8007236	挨拶	\N	āizǎn	parley	verb	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	A tern used in Koan 23 of the 碧巖錄 ”The Blue Cliff Record” (translation by Cleary 1998, p. 135; T 2003, scroll 3; FGDB '挨拶')	8007236
+8007237	别峰相见	別峰相見	bié fēng xiāngjiàn	met on a separate mountain	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 23 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 136; T 2003, scroll 3; FGDB '別峰相見')	8007237
+8007238	别峯相见	別峯相見	bié fēng xiāngjiàn	met on a separate peak	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	See 別峰相見 (FGDB '別峰相見')	8007238
+8007239	随处作主	隨處作主	suíchù zuòzhǔ	act the master wherever you are	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	(Cleary 1999, p. 20; FGDB '隨處作主')	8007239
+8007240	唱	\N	chàng	to sing; to chant; gai	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gai, Japanese: shou (BCSD '唱', p. 257; MW 'gai'; SH '唐', p. 343; Unihan '唱')	8007240
+8007241	伏毒	\N	fúdú	subdue poison	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hataviṣa, Tibetan: dug bcom pa (Mahāvyutpatti 'hataviṣaḥ')	8007241
+8007242	调无形	調無形	tiáo wú xíng	anaṅgajit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anaṅgajit, Tibetan: lus med thul (Mahāvyutpatti 'anaṅgajit')	8007242
+8007243	唾	\N	tuò	phlegm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kheṭa, Japanese: da, Tibetan: mchil ma (BCSD '唾', p. 258; Mahāvyutpatti 'kheṭaḥ'; MW 'kheṭa'; Unihan '唾')	8007243
+8007244	具足六神通	\N	jùzú liù shéntōng	possessing the six supernatural powers; ṣaḍabhijña	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣaḍabhijña, Tibetan: mngon par shes pa drug dang ldan pa; of a Buddha (Mahāvyutpatti 'ṣaḍabhijñaḥ'; MW 'ṣaḍabhijña')	8007244
+8007245	具足神通	\N	jùzú shéntōng	possessing supernatural powers; ṣaḍabhijña	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣaḍabhijña, Tibetan: mngon par shes pa drug dang ldan pa; see 具足六神通 (Mahāvyutpatti 'ṣaḍabhijñaḥ')	8007245
+8007246	能出三有	\N	néng chū sān yǒu	able to overcome worldly existence; bhavāntakṛt	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhavāntakṛt, Tibetan: srid mthar phyin; of a Buddha (Mahāvyutpatti 'bhavāntakṛt'; MW 'bhavāntakṛt')	8007246
+8007247	商	\N	shāng	merchant; vaṇij	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaṇij, Japanese: shou (BCSD '商', p. 258; MW 'vaṇij'; SH '商', p. 344; Unihan '商')	8007247
+8007248	商	\N	shāng	merchant; śaṇ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śaṇ, or: śa (BCSD '商', p. 258; MW 'śa'; SH '商', p. 344)	8007247
+8007249	去拔恶业	去拔惡業	qùbáèyè	eliminate unwholesome karma; aghahantā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aghahantā, Tibetan: sdig 'joms (Mahāvyutpatti 'aghahantā')	8007249
+8007250	一切义成就	一切義成就	yīqiè yì chéngjiù	one who has accomplished an aim; siddhārtha	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: siddhārtha, Tibetan: don grub; of the Buddha; see 悉達多 (Mahāvyutpatti 'siddhārthaḥ'; MW 'siddhārtha')	8007250
+8007251	萨婆悉达多	薩婆悉達多	sàpóxīdáduō	Sarvasiddhārtha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarvasiddhārtha; see 悉達多 (FGDB '悉達多')	8007251
+8007252	萨婆曷剌他悉陀	薩婆曷剌他悉陀	sàpóhélátāxītuó	Sarvārthasiddha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarvārthasiddha; see 悉達多 (FGDB '悉達多')	8007252
+8007253	啓	\N	qǐ	spoken; abhihita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhihita, Japanese: kei (BCSD '啓', p. 259; MW 'abhihita'; Unihan '啓')	8007253
+8007254	萨婆额他悉陀	薩婆額他悉陀	sàpóétāxītuó	Siddhārtha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: siddhārtha; see 悉達多 (FGDB '悉達多')	8007254
+8007255	萨缚頞他悉地	薩縛頞他悉地	sàfúètāxīdì	Siddhārtha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: siddhārtha; see 悉達多 (FGDB '悉達多')	8007255
+8007256	悉达罗他	悉達羅他	xīdáluótā	Siddhārtha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: siddhārtha; see 悉達多 (FGDB '悉達多')	8007256
+8007257	悉多頞他	\N	xīduōètā	Siddhārtha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: siddhārtha; see 悉達多 (FGDB '悉達多')	8007257
+8007258	悉陀	\N	xītuó	Siddhārtha	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: siddhārtha; see 悉達多 (FGDB '悉達多')	8007258
+8007259	啖	\N	dàn	eat; bhakṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhakṣ, Japanese: tan (BCSD '啖', p. 259; MW 'bhakṣ'; Unihan '啖')	8007259
+8007260	释师子	釋師子	shì shīzi	lion of the Śākyas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śākyasiṃha, Tibetan: shā kya seng ge; (FGDB 'śākyasiṃhaḥ'; FGDB '釋師子'; SH '釋師子', p. 481)	8007260
+8007261	堪胜义	堪勝義	kānshèngyì	exceedingly worthy; varārha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varārha, Tibetan: mchog tu mchog 'os (Mahāvyutpatti 'varārhaḥ'; MW 'varārha')	8007261
+8007262	胜施	勝施	shèngshī	granting wishes; varada	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varada, Tibetan: mchog sbyin (Mahāvyutpatti 'varada'; MW 'varada')	8007262
+8007263	哑	啞	yǎ	mute; mūka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūka, Japanese: a, Tibetan: lug ltar lkug pa (BCSD '啞', p. 259; Mahāvyutpatti 'eḍamūkaḥ'; MW 'mūka'; SH '啞', p. 344; Unihan '啞')	8007263
