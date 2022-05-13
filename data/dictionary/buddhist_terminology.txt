@@ -1199,7 +1199,7 @@
 8001199	制多太子	\N	zhìduō tàizǐ	Prince Jeta	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 祇陀太子 (FGDB '祇陀太子')	8001199
 8001200	祇陀太子	\N	zhǐtuó tàizǐ	Prince Jeta	proper noun	太子	Prince	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: jetakumāra; the prince who sold Jetavana Park to Anathapindika, a disciple of the Buddha (BL 'Jetavana'; FGDB '祇陀太子')	8001200
 8001201	精室	\N	jīngshì	vihara	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 精舍 (SH '精室', p. 427)	8001201
-8001202	精舍	\N	jīngshè	vihara; hermitage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, Pali: vihāra, Japanese: jū, or: shōja, Tibetan: gtsug lag khang; a dwelling or refuge used by monastics in the rainy season (BL 'vihāra'; FGDB '精舍'; Kieschnick and Wiles 2017, vol. 2, p. 37; SH '精室', p. 427)	8001202
+8001202	精舍	\N	jīngshè	vihara; hermitage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, Pali: vihāra, Japanese: jū, or: shōja, Tibetan: gtsug lag khang; a dwelling or refuge used by monastics in the rainy season (BL 'vihāra'; FGDB '精舍'; Kieschnick and Wiles 2017, vol. 2, p. 37; Kroll 2015 '精' 7, pp. 216-217; SH '精室', p. 427)	8001202
 8001203	鸯窭利摩罗	鴦窶利摩羅	yānglóulìmóluó	Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimāla, or: aṅgulimālīya, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; see also 指鬘 (BL 'Aṅgulimāla', pp. 45-46; FGDB '鴦窶利摩羅'; SH '央掘摩羅', p. 184)	8001203
 8001204	指鬘	\N	zhǐmán	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; a disciple of the Buddha, a murderer who was redeemed by conversion to Buddhism. His story is told in the Aṅgulimālasutta in the Pāli Canon and in 佛說鴦掘摩經Aṅgulimālīyasūtra in the Chinese Canon, in addition to other places (FGDB '指鬘'; BL 'Aṅgulimāla'; Majjhima Nikāya 86; T 118)	8001204
 8001205	指髻	\N	zhǐjì	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 指鬘 (FGDB '指鬘')	8001205
@@ -7261,3 +7261,15 @@
 8007261	堪胜义	堪勝義	kānshèngyì	exceedingly worthy; varārha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varārha, Tibetan: mchog tu mchog 'os (Mahāvyutpatti 'varārhaḥ'; MW 'varārha')	8007261
 8007262	胜施	勝施	shèngshī	granting wishes; varada	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varada, Tibetan: mchog sbyin (Mahāvyutpatti 'varada'; MW 'varada')	8007262
 8007263	哑	啞	yǎ	mute; mūka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūka, Japanese: a, Tibetan: lug ltar lkug pa (BCSD '啞', p. 259; Mahāvyutpatti 'eḍamūkaḥ'; MW 'mūka'; SH '啞', p. 344; Unihan '啞')	8007263
+8007264	施愿印	施願印	shī yuàn yìn	varadamudrā; mudra of granting wishes	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varadamudrā, Tibetan: T. mchog sbyin gyi phyag rgya; a mudra with hand facing outwards with five fingers pointing downwards for wish granting or indicating upholding of vows (BL 'varadamudrā', p. 960; FGDB '施願印')	8007264
+8007265	满愿印	滿願印	mǎn yuàn yìn	varadamudrā; mudra of granting wishes	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varadamudrā; see 施願印 (FGDB '施願印')	8007265
+8007266	啼	\N	tí	to weep; rud	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rud, Japanese: tei (BCSD '啼', p. 259; MW 'rud'; SH '啼', p. 368; Unihan '啼')	8007266
+8007267	弃	棄	qì	to expell from the Sangha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kroll 2015 '棄' 3, p. 358)	8007267
+8007268	体	體	tǐ	śarīra; human body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra (BCSD '體', p. 1285; MW 'śarīra')	8007268
+8007269	喃	\N	nán	nama; praise	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nama, Japanese: nan (BCSD '喃', p. 259; MW 'nama'; Unihan '喃')	8007269
+8007270	施愿	施願	shīyuàn	to granting wishes; varada	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varada; see 勝施 (Mahāvyutpatti 'varada')	8007270
+8007271	雄猛	\N	xióngměng	a brave or eminent man; a hero; vīra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīra; Tibetan: dpa' bo; see also 勇猛 (BL 'vīra', p. 979; Mahāvyutpatti 'vīraḥ'; MW 'vīra')	8007271
+8007272	能柔善	\N	néngróushàn	śamitā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śamitā; Tibetan: zhi bar mdzad pa; meaning prepared or appeased in Sanskrit (Mahāvyutpatti 'śamitā'; MW 'śamitā')	8007272
+8007273	能止息	\N	néngzhǐxī	śamitā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śamitā; see 能柔善 (Mahāvyutpatti 'śamitā')	8007273
+8007274	消罪业	消罪業	xiāo zuì yè	eliminate negative karma; śāntapāpa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāntapāpa, Tibetan: sdig pa zhi ba (Mahāvyutpatti 'śāntapāpaḥ')	8007274
+8007275	喉	\N	hóu	throat; kaṇṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇṭha, Japanese: kou (BCSD '喉', p. 266; MW 'kaṇṭha'; Unihan '喉')	8007275
