@@ -4687,7 +4687,7 @@
 8004687	溜单	溜單	liū dān	to depart a monastery without requesting leave	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, p. 341)	8004687
 8004688	迁单	遷單	qiān dān	to asked to leave a monastery after breaking rules	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '單'; Tzu Chuang 2012, p. 341)	8004688
 8004689	如是我闻	如是我聞	rúshì wǒ wén	thus I have heard	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: evaṃ mayā śrutam, Pali: eva ṃ me sutaṃ, Japanese: nyozegamon, Tibetan: 'di skad bdag gis thos pa; phrase at the beginning of all sutras indicating that it was the Buddha's teaching recounted by Ananda (BL 'evaṃ mayā śrutam', p. 288; Tzu Chuang 2012, pp. 343-345)	8004689
-8004690	单	單	dān	living quarters at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, a place for living at a monastery (FGDB '單')	8004690
+8004690	单	單	dān	alone; solitary; ekākin	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekākin, Japanese: tan (BCSD '單', p. 269; MW 'ekākin'; SH '單', p. 368; Unihan '單')	8004690
 8004691	单位	單位	dānwèi	living space at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 單 (FGDB '單')	8004691
 8004692	燄口	\N	yàn kǒu	Flaming Mouth	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 焰口 (FGDB '焰口')	8004692
 8004693	戒学	戒學	jiè xué	training on morality	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiśīlaśikṣā, Japanese: zōjōkaigaku, Tibetan: lhag pa'i tshul khrims kyi bslab pa; the first of the three trainings 三學 (BL 'adhiśīlaśikṣā', p. 17; FGDB '三學'; SH '戒學', p. 239 Tzu Chuang 2012, pp. 345-347)	8004693
@@ -7297,3 +7297,19 @@
 8007297	具语论师	具語論師	jùyǔ lùnshī	vādī	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vādī, Tibetan: gsung ldan (Mahāvyutpatti 'vādī')	8007297
 8007298	坏三业	壞三業	huài sān yè	eliminate the three kinds of karma; tridoṣopaha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tridoṣopaha, Tibetan: nyes gsum 'joms (Mahāvyutpatti 'tridoṣopahaḥ')	8007298
 8007299	喫	\N	chī	to eat; feed; bhojana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhojana, Japanese: kitsu, or: keti (BCSD '喫', p. 269; MW 'bhojana'; SH '喫', p. 368; Unihan '喫')	8007299
+8007300	灭三毒	滅三毒	miè sān dú	eliminate the three poisons; tridoṣopaha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tridoṣopaha, Tibetan: nyes gsum 'joms; see 壞三業 (Mahāvyutpatti 'tridoṣopahaḥ')	8007300
+8007301	具三通	\N	jùsāntōng	possessing the three supernatural powers; triprātihāryasaṃpanna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: triprātihāryasaṃpanna, Tibetan: cho 'phrul gsum dang ldan pa; see 三通力 (Mahāvyutpatti 'triprātihāryasaṃpannaḥ')	8007301
+8007302	三通力	\N	sān tōnglì	three kinds of supernatural power	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '三通力'; SH '三通力', p. 79)	8007302
+8007303	宣说三蕴道	宣說三蘊道	xuānshuō sān yùn dào	teaching of the three kinds of aggregation; triskandhapathadeśika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: triskandhapathadeśika, Tibetan: phung po gsum gyi lam ston pa (Mahāvyutpatti 'triskandhapathadeśikaḥ')	8007303
+8007304	乔	喬	qiáo	lofty	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyou, or: gyou (BCSD '喬', p. 269; SH '喬', p. 368; Unihan '喬')	8007304
+8007305	三蕴	三蘊	sān yùn	three kinds of aggregation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 1. for a moment, 2. for a period, 3. total existence (FGDB '三蘊'; SH '三蘊', p. 75)	8007305
+8007306	开非三蕴道	開非三蘊道	kāi fēi sān yùn dào	teaching of the three kinds of aggregation; triskandhapathadeśika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: triskandhapathadeśika, Tibetan: phung po gsum gyi lam ston pa (Mahāvyutpatti 'triskandhapathadeśikaḥ')	8007306
+8007307	单	單	dān	living quarters at a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, a place for living at a monastery (FGDB '單')	8004690
+8007308	日种	日種	rìzhǒng	Sūryavaṃśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūryavaṃśa, Tibetan: nyi ma'i rigs; one of the five surnames of Śākyamuni (Mahāvyutpatti 'sūryavaṃśaḥ'; FGDB '日種'; MW 'sūryavaṃśa'; SH '日種', p. 156)	8007308
+8007309	日族	\N	rì zú	descendant of Aṅgiras; āṅgirasa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṅgirasa, Tibetan: nyi ma'i rgyud (Mahāvyutpatti 'āṅgirasaḥ'; FGDB '瞿曇'; MW 'āṅgirasa')	8007309
+8007310	阿儗啰娑	阿儗囉娑	ānǐluósuō	descendant of Aṅgiras; āṅgirasa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṅgirasa, Tibetan: nyi ma'i rgyud; see 日族 (Mahāvyutpatti 'āṅgirasaḥ')	8007310
+8007311	日续系	日續系	rìxùxì	descendant of Aṅgiras; āṅgirasa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṅgirasa, Tibetan: nyi ma'i rgyud; see 日族 (Mahāvyutpatti 'āṅgirasaḥ')	8007311
+8007312	嗅	\N	xiù	to smell; ghrāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghrāṇa, Japanese: kyū, Tibetan: nom pa (BCSD '嗅', p. 269; Mahāvyutpatti 'āmṛśati'; MW 'ghrāṇa'; SH '嗅', p. 368; Unihan '嗅')	8007312
+8007313	纯淑	純淑	chúnshū	Gautama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Gautama; see 瞿曇 (Mahāvyutpatti 'gautamaḥ')	8007313
+8007314	甘蔗王种喜	甘蔗王種喜	gānzhè wáng zhǒng xǐ	ikṣvākukulanandana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ikṣvākukulanandana, Tibetan: bu ram shing pa'i rigs dga' ba (Mahāvyutpatti 'ikṣvākukulanandanaḥ')	8007314
+8007315	嗉	\N	sù	dewlap of an ox; sāsnā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāsnā, Japanese: so, Tibetan: lkog shal; at the front of the neck (BCSD '嗉', p. 269; Mahāvyutpatti 'sāsnā'; MW 'sāsnā'; Unihan '嗉')	8007315

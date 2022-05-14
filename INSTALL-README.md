@@ -85,7 +85,7 @@ gsutil -m -h "Cache-Control:public,max-age=3600" \
 Test that content is returned properly:
 
 ```shell
-curl -I http://chinesenotes.com/cached/ntireader.json
+curl -I http://ntireader.org/cached/ntireader.json.gz
 ```
 
 

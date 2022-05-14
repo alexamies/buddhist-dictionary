@@ -2,13 +2,10 @@
 ## Generates the HTML pages for the web site
 ## Run this from the top level directory of the ntireader.org 
 ## directory tree
-## DEV_HOME should be set to the location of the chinesenotes.com
-## CNREADER_HOME should be set to the location of the ntireader.org directory
 
 # Make the directory structure needed for generated files
-export CNREADER_HOME=.
+export CNREADER_HOME=$PWD
 export WEB_DIR=web-staging
-export DEV_HOME=../chinesenotes.com
 export TEMPLATE_HOME=html/material-templates
 PATH=$PATH:$HOME/go/bin
 mkdir $WEB_DIR
