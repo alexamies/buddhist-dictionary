@@ -3213,7 +3213,7 @@
 8003213	竭	\N	jié	gha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gha; see 伽 (FGDB '㖸')	8003213
 8003214	哈	\N	hā	ha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ha, Japanese: gou, or: sou (BCSD '㖸', p. 254)	8003214
 8003215	遮	\N	zhē	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Siddham: 𑖓; a consonant of the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '遮'; MW 'ca'; SH '遮', p. 445; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003215
-8003216	嗟	\N	jiē	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003216
+8003216	嗟	\N	jiē	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Japanese: sa, or: sha; see also 遮 (BCSD '嗟', p. 270; FGDB '遮'; SH '嗟', p. 396; Unihan '嗟')	8003216
 8003217	左	\N	zuǒ	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003217
 8003218	者	\N	zhě	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003218
 8003219	酌	\N	zhuó	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003219
@@ -7313,3 +7313,25 @@
 8007313	纯淑	純淑	chúnshū	Gautama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Gautama; see 瞿曇 (Mahāvyutpatti 'gautamaḥ')	8007313
 8007314	甘蔗王种喜	甘蔗王種喜	gānzhè wáng zhǒng xǐ	ikṣvākukulanandana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ikṣvākukulanandana, Tibetan: bu ram shing pa'i rigs dga' ba (Mahāvyutpatti 'ikṣvākukulanandanaḥ')	8007314
 8007315	嗉	\N	sù	dewlap of an ox; sāsnā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāsnā, Japanese: so, Tibetan: lkog shal; at the front of the neck (BCSD '嗉', p. 269; Mahāvyutpatti 'sāsnā'; MW 'sāsnā'; Unihan '嗉')	8007315
+8007316	主宰	\N	zhǔzǎi	lord; soul; prabhu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhu, Tibetan: mnga' bdag (Mahāvyutpatti 'prabhuḥ'; MW 'prabhu'; FGDB '主宰'; SH '主宰', p. 165)	8007316
+8007317	各如来名号	各如來名號	gè rúlái mínghào	all the epithets of the Tathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nānātathāgatanāmāni, Tibetan: de bzhin gshegs pa so so'i mtshan la (Mahāvyutpatti 'nānātathāgatanāmāni')	8007317
+8007318	宝生	寶生	bǎoshēng	Ratnasaṃbhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnasaṃbhava; one of the five dhyāni-buddhas, the central figure in the southern diamond maṇḍala (BL 'Ratnasambhava', pp. 703-704; Mahāvyutpatti 'ratnasaṃbhavaḥ'; FGDB '寶生'; SH '寶生', p. 477)	8007318
+8007319	宝生如来	寶生如來	bǎoshēng rúlái	Ratnasaṃbhava Tathāgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶生 (BL 'Ratnasambhava', pp. 703-704)	8007319
+8007320	嗔	\N	chēn	anger; krodha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krodha, Japanese: shin (BCSD '嗔', p. 269; MW 'krodha'; Unihan '嗔')	8007320
+8007321	无量光	無量光	wú liàng guāng	infinite light; apramāṇābha	phrase	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	Sanskrit equivalent: apramāṇābha (SH '無量光', p. 382)	8007321
+8007322	不空成就如来	不空成就如來	bùkōngchéngjiù rúlái	Amoghasiddhi Tathāgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 不空成就 (FGDB '不空成就如來'; SH '不空成就如來', p. 108)	8007322
+8007323	呜	嗚	wū	to wail	onomatopoeia	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ou (BCSD '嗔', p. 269; SH '嗔', p. 396; ; Unihan '嗚')	8007323
+8007324	药事	藥事	yào shì	Bhaiṣajyavastu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaiṣajyavastu, Tibetan: rtsi'i gzhi; a section of the Vinaya on medical issues (Mahāvyutpatti 'bhaiṣajyavastu')	8007324
+8007325	不空成就	\N	bùkōngchéngjiù rúlái	Amoghasiddhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amoghasiddhi, Japanese: Fukū Jōjuny oraibutsu, Tibetan: Don y od grub pa; fifth of the five dhyāni-buddhas in the diamond realm (BL 'Amoghasiddhi', p. 36; FGDB '不空成就如來'; SH '不空成就如來', p. 108)	8007325
+8007326	胜观佛	勝觀佛	shèngguān fó	Vipaśyī Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipaśyī; see 毘婆尸佛 (Mahāvyutpatti 'vipaśyī'; FGDB '勝觀佛')	8007326
+8007327	胜观	勝觀	shèngguān fó	Vipaśyī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipaśyī, Tibetan: rnam par gzigs; see 毘婆尸佛 (Mahāvyutpatti 'vipaśyī')	8007327
+8007328	嗜	\N	shì	fond of; paribhuj	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paribhuj, Japanese: shi (BCSD '嗜', p. 270; MW 'paribhuj'; SH '嗜', p. 396; Unihan '嗜')	8007328
+8007329	妙观察	妙觀察	miàoguānchá	Vipaśyin; Vipaśyī Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipaśyī; see 毘婆尸佛 (Mahāvyutpatti 'vipaśyī')	8007329
+8007330	护一切	護一切	hù yīqiè	Visvabhu; Viśvabhū	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvabhū; see 毘舍浮佛 (Mahāvyutpatti 'viśvabhuk')	8007330
+8007331	嘉	\N	jiā	excellent; kuśala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśala, Japanese: ka (BCSD '嘉', p. 270; MW 'kuśala'; SH '嘉', p. 421; Unihan '嘉')	8007331
+8007332	一切自在	\N	yīqièzìzài	Visvabhu; Viśvabhū	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvabhū; see 毘舍浮佛 (Mahāvyutpatti 'viśvabhuk')	8007332
+8007333	除邪信拘留孙	除邪信拘留孫	chúxiéxìnjūliúsūn	Krakucchanda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda, Tibetan: log pa dad sel; see 拘留孫佛 (Mahāvyutpatti 'Krakucchanda')	8007333
+8007334	应断	應斷	yīngduàn	Krakucchanda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda, Tibetan: log pa dad sel; see 拘留孫佛 (Mahāvyutpatti 'Krakucchanda')	8007334
+8007335	坏轮迴	壞輪迴	huàilúnhuí	Kakutsunda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kakutsunda, Tibetan: 'khor ba 'jig (Mahāvyutpatti 'Kakutsundaḥ')	8007335
+8007336	目明满	目明滿	mùmíngmǎn	laughing-eyed; prahasitanetra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prahasitanetra, Tibetan: spyan gsal rgyas; of a Buddha (Mahāvyutpatti 'prahasitanetraḥ'; MW 'prahasitanetra')	8007336
+8007337	呕	嘔	ǒu	vomit; chardayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chardayati, Japanese: ou (BCSD '嘔', p. 270; MW 'chardana'; SH '嘔', p. 421; Unihan '嘔')	8007337
