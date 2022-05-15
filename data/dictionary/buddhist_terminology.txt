@@ -3868,7 +3868,7 @@
 8003868	敬爱法	敬愛法	jìng ài fǎ	vasikarana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśīkaraṇa, Japanese: keiaihō; part of a homa ritual for respect and admiration (FGDB '護摩'; Payne and Orzech 2011, p. 134)	8003868
 8003869	钩召法	鉤召法	gōuzhàofǎ	ankusa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅkuśa, Japanese: kōchōhō; part of a homa ritual for captivating (FGDB '護摩'; Payne and Orzech 2011, p. 134)	8003869
 8003870	调伏法	調伏法	tiáofúfǎ	abhicaraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhicāraka, Japanese: jōbukuhō; part of a homa ritual for overcoming adveraries (FGDB '護摩'; Payne and Orzech 2011, p. 134)	8003870
-8003871	嚧	\N	lú	l	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ḹ; used for phonetic value in Sanskrit transliterations, especially  mantras (FGDB '嚧')	6588
+8003871	嚧	\N	lú	l; ru	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ḹ, or: ru, Japanese: ro; used for phonetic value in Sanskrit transliterations, especially  mantras (BCSD '嚧', p. 273; FGDB '嚧'; SH '嚧', p. 470; Unihan '嚧')	6588
 8003872	释	釋	shì	explain	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyākhyā (BCSD '釋', p. 1171; MW 'vyākhyā')	8003872
 8003873	大幻化网导引法	大幻化網導引法	dà huànhuà wǎng dǎoyǐn fǎ	Great Net of Illusion Guide Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A tantric ritual (FGDB '大幻化網導引法')	8003873
 8003874	铁壁银山	鐵壁銀山	tiě bì yín shān	iron wall, silver mountain	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Also written 銀山鐵壁; refers to lofty spirituality (FGDB '鐵壁銀山')	8003874
@@ -7335,3 +7335,31 @@
 8007335	坏轮迴	壞輪迴	huàilúnhuí	Kakutsunda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kakutsunda, Tibetan: 'khor ba 'jig (Mahāvyutpatti 'Kakutsundaḥ')	8007335
 8007336	目明满	目明滿	mùmíngmǎn	laughing-eyed; prahasitanetra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prahasitanetra, Tibetan: spyan gsal rgyas; of a Buddha (Mahāvyutpatti 'prahasitanetraḥ'; MW 'prahasitanetra')	8007336
 8007337	呕	嘔	ǒu	vomit; chardayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chardayati, Japanese: ou (BCSD '嘔', p. 270; MW 'chardana'; SH '嘔', p. 421; Unihan '嘔')	8007337
+8007338	宝髻	寶髻	bǎojì	ratnaśikhī	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnaśikhī, Tibetan: rin chen gtsug tor can (Mahāvyutpatti 'ratnaśikhī')	8007338
+8007339	龙音雷音	龍音雷音	lóngyīnléiyīn	Meghasvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: meghasvara, Tibetan: 'brug sgra; the name of two Buddhas (Mahāvyutpatti 'meghasvaraḥ'; MW 'meghasvara')	8007339
+8007340	尝	嘗	cháng	taste; āsvādana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsvādana, Japanese: shou, or: jou (BCSD '嘗', p. 270; MW 'āsvādana'; Unihan '嘗')	8007340
+8007341	天鼓雷音佛	\N	tiāngǔléiyīnfó	Divyadundubhi meghanirghoṣa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a Buddha (FGDB '天鼓雷音佛')	8007341
+8007342	中国密教	中國密教	zhōngguó mìjiào	Chinese Esoteric Buddhism	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(BL 'Mikkyō'; FGDB '中國密教')	8007342
+8007343	象仪缓步	象儀緩步	xiàngyíhuǎnbù	salīlagajagāmī	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: salīlagajagāmī, Tibetan: glang po che ltar 'gyin zhing bzhud pa (Mahāvyutpatti 'salīlagajagāmī')	8007343
+8007344	世间敬	世間敬	shìjiānjìng	lokābhilāṣī	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokābhilāṣī, Tibetan: 'jig rten mos pa (Mahāvyutpatti 'lokābhilāṣī')	8007344
+8007345	嘴	\N	zuǐ	mouth; beak; cañcukā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cañcukā, Japanese: shi (BCSD '嘴', p. 271; MW 'cañcukā'; Unihan '嘴')	8007345
+8007346	嘴	\N	zuǐ	lips; oṣṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṣṭha (Mahāvyutpatti 'oṣṭhaḥ'; MW 'oṣṭha')	8007345
+8007347	善光佛地	\N	shànguāngfódì	samantaprabhābuddhabhūmi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samantaprabhābuddhabhūmi, Tibetan: sangs rgyas kyi sa kun tu 'od; name of a Buddha land (BL 'bhūmi', pp. 116-117; Mahāvyutpatti 'samantaprabhābuddhabhūmiḥ')	8007347
+8007348	五分法身蕴无等等五蕴	五分法身蘊無等等五蘊	wǔfēn fǎshēn yùn wúděng děng wǔyùn	asamasamapañcaskandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asamasamapañcaskandha, Tibetan: mi mnyam pa dang mnyam pa'i phung po lnga (Mahāvyutpatti 'asamasamapañcaskandhaḥ')	8007348
+8007349	噉	\N	dàn	eat; bhuj	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhuj, Japanese: tan, or: dan (BCSD '噉', p. 271; MW 'bhuj'; Unihan '噉')	8007349
+8007350	清净法界	清淨法界	qīngjìng fǎjiè	pure dharmadhātu; dharmadhātuviśuddhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhātuviśuddhi, Tibetan: chos kyi dbyings rnam par dag pa (Mahāvyutpatti 'dharmadhātuviśuddhiḥ'; FGDB '清淨法界')	8007350
+8007351	净法界	淨法界	jìngfǎjiè	pure dharmadhātu; dharmadhātuviśuddhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhātuviśuddhi; see 清淨法界 (FGDB '淨法界')	8007351
+8007352	法界清净	法界清淨	fǎjièqīngjìng	pure dharmadhātu; dharmadhātuviśuddhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhātuviśuddhi, Tibetan: chos kyi dbyings rnam par dag pa (Mahāvyutpatti 'dharmadhātuviśuddhiḥ')	8007352
+8007353	器	\N	qì	vessel; bhājana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhājana, Japanese: ki (BCSD '器', pp. 271-272; MW 'bhājana'; SH '器', p. 446; Unihan '器')	8007353
+8007354	太圆鑑智	太圓鑑智	tài yuán jiàn zhì	perfect mirrorlike wisdom; ādarśajñāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādarśajñāna, Tibetan: me long lta bu'i ye shes; see 大圓鏡智 (Mahāvyutpatti 'ādarśajñānam')	8007354
+8007355	缘阙不生	緣闕不生	yuán què bù shēng	there is no arising when conditions are lacking	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '緣闕不生')	8007355
+8007356	牙南	\N	yánán	yanan [water drop ritual]	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A ritual performed by the Dai people of Yunnan (FGDB '牙南')	8007356
+8007357	噜	嚕	lū	ru	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ru, Japanese: ro; used in transliterations (BCSD '嚕', p. 272; MW 'ru'; SH '嚕', p. 464; Unihan '嚕')	8007357
+8007358	意生身	\N	yì shēng shēn	manomayakāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manomayakāya, Pali: manomayakāya, Japanese: ishōshin; literally meaning 'mind made body' (BL 'manomayakāya'; FGDB '意生身')	8007358
+8007359	事造	\N	shìzào	phenomenal activities	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Tiantai term (DDB '事造'; FGDB '事造'; SH '事造', p. 249)	8007359
+8007360	啮	嚙	niè	to cut; chid	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chid, Japanese: gou (BCSD '嚙', p. 272; MW 'chid'; Unihan '嚙')	8007360
+8007361	理具事造	\N	lǐ jù shì zào	the inherent nature of phenomenal activities	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Tiantai term; here 理具 means 本性 (DDB '理具事造'; FGDB '理具事造')	8007361
+8007362	理具	\N	lǐjù	inherent things	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '理具', p. 360)	8007362
+8007363	迴伏难	迴伏難	huí fú nán	the misfortune of a whirlpool; the misfortune of Saṃsāra	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In this context 迴伏 means 洄澓 'whirlpool', which is a reference to 輪迴 'Saṃsāra', and 難 means 災難 'misfortune' (FGDB '迴伏難')	8007363
+8007364	嚩	\N	fú	va	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: va, Japanese: haku (BCSD '嚩', p. 273; MW 'va'; SH '嚩', p. 470; Unihan '嚩')	8007364
+8007365	地藏王菩萨	地藏王菩薩	dìzàngwáng púsà	Ksitigarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 地藏菩薩 (FGDB '地藏菩薩')	8007365
