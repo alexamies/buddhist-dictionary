@@ -6423,7 +6423,7 @@
 8006423	金刚滅定	金剛滅定	jīngāngmièdìng	vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi; adamantine-like concentration (BL ‘vajropamasamādhi; FGDB '金剛喻定')	8006423
 8006424	顶三昧	頂三昧	dǐngsānmèi	vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi; adamantine-like concentration (BL ‘vajropamasamādhi; FGDB '金剛喻定')	8006424
 8006425	他国	他國	tāguó	other land; para-cakra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: para-cakra; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '他國', p. 96; Hurvitz 2009, p. 164; Kern tr. 1884, ch. 8; Vaidya 1960, p. 134; T 262, Scroll 4, 9.0029a05)	8006425
-8006426	国	國	guó	community; nation; janapada	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: janapada, or: kṣetra, Japanese: koku (BCSD '國', p. 1094; DJBT '國', p. 430; MW 'janapada'; SH '國', p. 344)	8006426
+8006426	国	國	guó	community; nation; janapada	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: janapada, or: kṣetra, Japanese: koku (BCSD '國', p. 286; DJBT '國', p. 430; MW 'janapada'; SH '國', p. 344)	8006426
 8006427	衣食	\N	yī shí	clothes and food; āhāra-cīvara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āhāra-cīvara; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '衣食', p. 1048; Braarvig 2020, ch. 8; Hurvitz 2009, p. 164; Kern tr. 1884, ch. 8; Vaidya 1960, p. 134; T 262, Scroll 4, 9.0029a05)	8006427
 8006428	勤力	\N	qínlì	exertion; vyāyāma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāyāma; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '勤力', p. 210; Braarvig 2020, ch. 8; Hurvitz 2009, p. 164; Kern tr. 1884, ch. 8; MW 'vyāyāma'; Vaidya 1960, p. 134; T 262, Scroll 4, 9.0029a05)	8006428
 8006429	莲花胎	蓮花胎	liánhuā tāi	lotus womb	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 蓮胎 (FGDB '蓮胎')	8006429
@@ -7395,5 +7395,22 @@
 8007395	回	\N	huí	delivering; pari-hāra	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pari-hāra, Japanese: kai, or: e, Tibetan: lan (BCSD '回', p. 283; Mahāvyutpatti 'parihāraḥ'; MW 'parihāra'; SH '回', p. 166; Unihan '回')	8007395
 8007396	胜友	勝友	shèng yǒu 	friend of the Jina	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '勝友'; SH '勝友', p. 367)	8007396
 8007397	陁罗尼	陁羅尼	tuóluóní	dhāraṇī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇī; variant writing of 陀羅尼 (FGDB '陀羅尼'; T 1336, Scroll 9)	8007397
-8007398	困	\N	kùn	afflicted; prapīḍita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	kun4.mp3	Traditional: 困, Sanskrit equivalent: prapīḍita, or: paryādāna, Japanese: kon (BCSD '困', p. 286; Mahāvyutpatti 'paryādānam'; MW 'prapīḍita'; Unihan '困')	8007398
+8007398	困	\N	kùn	afflicted; prapīḍita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Traditional: 困, Sanskrit equivalent: prapīḍita, or: paryādāna, Japanese: kon (BCSD '困', p. 286; Mahāvyutpatti 'paryādānam'; MW 'prapīḍita'; Unihan '困')	8007398
 8007399	三么耶	三麼耶	sānmayé	vow; samaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samaya; alternative writing of 三摩耶 (Miyata 2015, p. 11; T 243)	8007399
+8007400	三摩耶	\N	sānmóyē	occasion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BL 'samaya', pp. 747-748)	8007400
+8007401	固	\N	gù	strong; bāḍha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāḍha, Japanese: ko (BCSD '固', p. 286; Mahāvyutpatti 'bāḍham'; MW 'bāḍha'; Unihan '固')	8007401
+8007402	金刚拳菩萨	金剛拳菩薩	jīngāngquán púsà	Vajramusti Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A bodhisattva in the Diamond group (Miyata 2015, p. 11; SH '金剛拳菩薩', p. 281; T 243)	8007402
+8007403	十六菩萨	十六菩薩	shíliù púsà	the sixteen bodhisattvas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Divided into groups by the four points of the compass (FGDB '十六菩薩'; SH '十六菩薩', p. 46)	8007403
+8007404	十六大菩萨	十六大菩薩	shíliù dà púsà	the sixteen great bodhisattvas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六菩薩 (SH '十六菩薩', p. 46)	8007404
+8007405	围	圍	wéi	circumference; parisamanta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parisamanta, Japanese: i, Tibetan: bskor ba'am gang ba (BCSD '圍', p. 287; Mahāvyutpatti 'pārisamantaḥ'; MW 'parisamanta'; SH '圍', p. 369; Unihan '圍')	8007405
+8007406	经疏	經疏	jīng shū	sūtra commentary	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '疏')	8007406
+8007407	郁单越	鬱單越	yùdānyuè	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarakuru, Pali: uttarakuru, Japanese: hokkurushū; the northernmost of the four island-continents surrounding Mount Sumeru (BL 'Uttarakuru'; FGDB '鬱單越')	8007407
+8007408	园	園	yuán	garden; ārāma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārāma, or: vihāra, Japanese: en, or: on (BCSD '園', p. 287; MW 'ārāma'; SH '園', p. 396; Unihan '園')	8007408
+8007409	园	園	yuán	enclosure; prākāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārāma, Tibetan: ra ba (BCSD '園', p. 287; Mahāvyutpatti 'prākāraḥ'; MW 'prākāra')	8007408
+8007410	郁多罗究琉	郁多羅究琉	yùduōluójiūliú	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarakuru; see 鬱單越 (FGDB '鬱單越')	8007410
+8007411	郁怛罗越	鬱怛羅越	yùdáluóyuè	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarakuru; see 鬱單越 (FGDB '鬱單越')	8007411
+8007412	图	圖	tú	picture; citrakarman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citrakarman, Japanese: to, or: zu (BCSD '圖', p. 288; MW 'citrakarman'; SH '圖', p. 421; Unihan '圖')	8007412
+8007413	嗢怛罗矩嚧	嗢怛羅矩嚧	wàdáluójǔlú	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarakuru; see 鬱單越 (FGDB '鬱單越')	8007413
+8007414	殟怛罗句嚧	殟怛羅句嚧	wēndáluójùlú	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See Sanskrit equivalent: uttarakuru; see 鬱單越 (FGDB '鬱單越')	8007414
+8007415	郁地延那	鬱地延那	yùdìyánnà	Uḍḍiyāna; Uddiyana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uḍḍiyāna; the name of a sacred site located in Northern India (BL 'Uḍḍiyāna'; FGDB '鬱地延那')	8007415
+8007416	团	團	tuán	a mass; lump; piṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piṇḍa, Japanese: ho, or: fu (BCSD '圖', p. 288; MW 'piṇḍa'; SH '圖', p. 421; Unihan '圖')	8007416
