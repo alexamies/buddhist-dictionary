@@ -2596,7 +2596,7 @@
 8002596	伊舍那方	\N	yīshěnà fāng	Iśāna; northeast	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iśāna; the northeast quarter of a mandala used in a tantric ritual, for example, as described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '伊舍那方'; SH '四方', p. 176; Giebel 2005, p. 27; T 848, Scroll 1, 18.0006b09)	8002596
 8002597	伊舍尼方	\N	yīshění fāng	Iśāna; northeast	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iśāna; see 伊舍那方 (FGDB '伊舍那方')	8002597
 8002598	地	\N	dì	earth; prthivi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthivī (BCSD '地', p. 291; MW 'pṛthivī'; SH '地', p. 206)	8002598
-8002598	地	\N	dì	stage; ground; level; bhumi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhūmi, Tibetan: sa, Japanese: ji; one of the ten stages of bodhisattva development into a Buddha 十地 (BL 'bhūmi', pp. 116-117; Kroll 2015 '地' 4, pp. 83-84; Powers 2007, p. 121; Tzu Chuang 2012, p. 31)	8002598
+8002598	地	\N	dì	stage; ground; level; bhumi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhūmi, Tibetan: sa, Japanese: ji; one of the ten stages of bodhisattva development into a Buddha 十地 (BCSD '地', p. 291; BL 'bhūmi', pp. 116-117; Kroll 2015 '地' 4, pp. 83-84; Powers 2007, p. 121; Tzu Chuang 2012, p. 31)	8002598
 8002600	卑利多	\N	bēilìduō	ghost; hungry ghost; preta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preta; see 餓鬼 (FGDB '餓鬼')	8002600
 8002601	央具梨	\N	yāngjùlí	finger; finger breadth; anguli	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅguli; measurement unit equal to the breadth of a finger (MW 'aṅguli'; Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002601
 8002602	一切遍知印	\N	yīqièbiànzhīyìn	seal of all-knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 28; T 848, Scroll 1, 18.0006b09)	8002602
@@ -6694,8 +6694,8 @@
 8006694	戒禁取	\N	jiè jìn qǔ	clinging to superstitious rites	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four types of clinging 四取 (BL '／upādāna'; FGDB '四取')	8006694
 8006695	歌	\N	gē	song; gīta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gīta, Japanese: ka (BCSD '歌', p. 680; MW 'gīta'; SH '歌', p. 424; Unihan '歌')	8006695
 8006696	歌颂	歌頌	gēsòng	singing together; a song of praise; saṃgīti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgīti (BCSD '歌頌', p. 680; FGDB '歌頌'; MW 'saṃgīti')	8006696
-8006697	土	\N	tǔ	soil; pāṃsu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṃsu, or: medinī, Japanese: do, or: to, Tibetan: sa (BCSD '土', p. 680; Mahāvyutpatti 'medinī'; MW 'pāṃsu'; SH '土', p. 82; Unihan '土')	8006697
-8006698	土	\N	tǔ	land; kṣetra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra (BCSD '土', p. 680; MW 'kṣetra'; SH '土', p. 82)	8006697
+8006697	土	\N	tǔ	soil; pāṃsu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṃsu, or: medinī, Japanese: do, or: to, Tibetan: sa (BCSD '土', p. 289; Mahāvyutpatti 'medinī'; MW 'pāṃsu'; SH '土', p. 82; Unihan '土')	8006697
+8006698	土	\N	tǔ	land; kṣetra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra (BCSD '土', p. 289; MW 'kṣetra'; SH '土', p. 82)	8006697
 8006699	古	\N	gǔ	ancient; old; purāṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: purāṇa, Japanese: ko (BCSD '古', p. 233; MW 'purāṇa'; SH '古', p. 169; Unihan '古')	8006699
 8006700	一日	\N	yī rì	duration of one day; ekāham	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekāham (BCSD '一日', p. 233; MW 'ekāham'; SH '一日', p. 6)	8006700
 8006701	渴	\N	kě	thirst; pipāsā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pipāsā, or: tṛṣṇā, Japanese: katsu, Tibetan: skom pa (BCSD '渴', p. 737; Mahāvyutpatti 'pipāsā'; MW 'pipāsā'; SH '渴', p. 376; Unihan '渴')	8003190
@@ -7414,3 +7414,19 @@
 8007414	殟怛罗句嚧	殟怛羅句嚧	wēndáluójùlú	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See Sanskrit equivalent: uttarakuru; see 鬱單越 (FGDB '鬱單越')	8007414
 8007415	郁地延那	鬱地延那	yùdìyánnà	Uḍḍiyāna; Uddiyana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uḍḍiyāna; the name of a sacred site located in Northern India (BL 'Uḍḍiyāna'; FGDB '鬱地延那')	8007415
 8007416	团	團	tuán	a mass; lump; piṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piṇḍa, Japanese: ho, or: fu (BCSD '圖', p. 288; MW 'piṇḍa'; SH '圖', p. 421; Unihan '圖')	8007416
+8007417	郁多罗	鬱多羅	yùduōluó	uttara; upper; superior	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttara, Pali: uttara (FGDB '鬱多羅'; MW 'uttara')	8007417
+8007418	郁多罗僧	郁多羅僧	yùduōluósēng	uttarāsaṅga; uttarasanga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarāsaṃga; see 鬱多羅僧 (FGDB '鬱多羅')	8007418
+8007419	优多罗僧	優多羅僧	yōuduōluósēng	uttarāsaṅga; uttarasanga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarāsaṃga; see 鬱多羅僧 (FGDB '鬱多羅')	8007419
+8007420	在	\N	zài	in; bhū	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhū, Japanese: zai (BCSD '在', p. 289; MW 'bhū'; SH '在', p. 206; Unihan '在')	8007420
+8007421	沤多罗	漚多羅	ōuduōluó	uttarāsaṅga; uttarasanga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarāsaṃga; see 鬱多羅僧 (FGDB '鬱多羅')	8007421
+8007422	嗢多罗僧	嗢多羅僧	wàduōluósēng	uttarāsaṅga; uttarasanga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarāsaṃga; see 鬱多羅僧 (FGDB '鬱多羅')	8007422
+8007423	均	\N	jūn	equal; sama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sama, Japanese: kin, or: in (BCSD '均', p. 292; MW 'bhū'; SH '均', p. 234; Unihan '均')	8007423
+8007424	嗢怛罗僧伽	嗢怛囉僧伽	wàdáluōsēngjiā	uttarāsaṅga; uttarasanga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttarāsaṃga; see 鬱多羅僧 (FGDB '鬱多羅')	8007424
+8007425	郁底迦	鬱底迦	yùdǐjiā	Uttika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uttika; the name of religious group that existed at the time of the Buddha (FGDB '鬱底迦')	8007425
+8007426	嗢底迦	\N	wàdǐjiā	Uttika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uttika; see 鬱底迦 (FGDB '鬱底迦')	8007426
+8007427	郁胝歌	\N	yùzhīgē	Uttika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uttika; see 鬱底迦 (FGDB '鬱底迦')	8007427
+8007428	坋	\N	bèn	dust, soil; pāṃsu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṃsu, Japanese: fun, or: hon, or: bun (BCSD '坋', p. 293; MW 'pāṃsu'; Unihan '坋')	8007428
+8007429	郁低迦	鬱低迦	yù dī jiā	Uttika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uttika; see 鬱底迦 (FGDB '鬱底迦')	8007429
+8007430	优陟	優陟	yōuzhì	Uttika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Uttika; see 鬱底迦 (FGDB '鬱底迦')	8007430
+8007431	坎	\N	kǎn	pit; garta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: garta, Japanese: kan, Tibetan: khung ngam dong (BCSD '坎', p. 293; Mahāvyutpatti 'gartaḥ'; MW 'garta'; Unihan '坎')	8007431
+8007432	郁提尸山	鬱提尸山	yùtíshī shān	Udeśin; Udesin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udeśin; the name of mountain mentioned in the Avataṃsaka Sūtra (FGDB '鬱提尸山')	8007432
