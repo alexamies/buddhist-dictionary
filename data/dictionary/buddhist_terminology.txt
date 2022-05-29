@@ -55,7 +55,7 @@
 8000055	僧	\N	sēng	Sangha; monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, Pali: saṅgha, Japanese: sōgya, Tibetan: dge 'dun; an abbreviation of 僧伽 (BCSD '僧', p. 148; BL 'saṃgha', pp. 750-751; Ding '僧'; Karashima 2001 '僧'; SH '僧', p. 85; Tzu Chuang 2012, p. 294)	8000055
 8000056	僧侣	僧侶	sēnglǚ	Saṅgha; Sangha; Buddhist monastic community	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽 (FGDB '僧伽')	8000056
 8000057	五阴	五陰	wǔyīn	five aggregates; five skandhas; five groups of existence; five groups of clinging	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaskandha, Pali: pañca khandhā, Japanese: goun, Tibetan: phung po lnga; the five skandhas are form 色, sensation 受, perception 想, volition 行, and consciousness 识.(BL 'pañcaskandha', p. 617; DJBT 'goun'; FGDB '五蘊'; Nyanatiloka Thera 1980, 'khandha')	8000057
-8000058	塔	\N	tǎ	a pagoda; a stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ta3.mp3	Sanskrit equivalent: stūpa, or: caitya, Pali: thūpa, Japanese: tō, Tibetan: mchod rten; the most appropriate English term can be used depending on the shape of the tower or stupa.  Pagodas are taller and thinner and are common in China.  Stupas shorter and bowl shaped and are more common in South Asia and Southeast Asia (BL 'stūpa', pp. 859-860; Ding '塔'; FGDB '塔'; SH '寶塔', p. 477).	8000058
+8000058	塔	\N	tǎ	a pagoda; a stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ta3.mp3	Sanskrit equivalent: stūpa, or: caitya, Pali: thūpa, Japanese: tō, Tibetan: mchod rten; the most appropriate English term can be used depending on the shape of the tower or stupa.  Pagodas are taller and thinner and are common in China.  Stupas shorter and bowl shaped and are more common in South Asia and Southeast Asia (BCSD '塔', p. 301; BL 'stūpa', pp. 859-860; Ding '塔'; FGDB '塔'; SH '寶塔', p. 477).	8000058
 8000059	功德聚	\N	gōngdé jù	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8000059
 8000060	法会	法會	fǎhuì	a Dharma service; an assembly; dharma-saṃgīti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharma-saṃgīti (FGDB '法會'; BCSD '法會')	8000060
 8000061	法	\N	fǎ	the teachings of the Buddha; Dharma; Dhárma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	fa3.mp3	Sanskrit equivalent: dharma, Pali: dhamma, Japanese: hō, Tibetan: chos; in the sense of 佛法 'Buddhadharma' (BCSD '法', p. 713; BL 'dharma', p. 242; FGDB '法'; Powers 2007, p. 532; SH '法', p. 267; Tzu Chuang 2012, p. 68)	8000061
@@ -4767,7 +4767,7 @@
 8004767	辟支佛	\N	pìzhī fó	Pratyeka-Buddha; Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; Pali: paccekabuddha; a being that has achieve enlightenment independently without the help of a teachers and does not teach others (BL 'pratyekabuddha'; FGDB '辟支佛')	8004767
 8004768	觉华定自在王如来	覺華定自在王如來	jué huà dìng zìzai wáng rúlái	Realization Flower Meditation At Ease King Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8004768
 8004769	尊容	\N	zūnróng	a revered countenance; a sacred face	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '尊容' 2)	8004769
-8004770	报	報	bào	indirect effect; judgement; retribution	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bao4.mp3	Sanskrit equivalent: vipāka (FGDB '果報'; Guoyu '報' n 1; SH '報'; Tzu Chuang 2012)	8004770
+8004770	报	報	bào	indirect effect; retribution; vipāka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipāka, Japanese: hou (BCSD '報', p. 300; FGDB '果報'; Guoyu '報' n 1; SH '報'; Tzu Chuang 2012; Unihan '報')	8004770
 8004771	四有为相	四有爲相	sì yǒu wèi xiāng	four marks of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四有 (BL 'caturlakṣaṇa', p. 171; SH '四有爲相', p. 176)	8004771
 8004772	南阎浮提	南閻浮提	nán yǎn fú tí	Jambudvipa; the Terrestrial World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jambudvīpa; see 閻浮提 (FGDB '閻浮提')	8004772
 8004773	南阎浮洲	南閻浮洲	nán yǎn fú zhōu	Jambudvipa; the Terrestrial World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jambudvīpa; see 閻浮提 (FGDB '閻浮提')	8004773
@@ -7475,3 +7475,21 @@
 8007475	一乘妙文	\N	yī shèng miào wén	the one-vehicle scripture	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for the Lotus Sutra (SH '一乘經', p. 1)	8007475
 8007476	毕钵罗	畢鉢羅	bìbōluó	bodhi tree; peepul	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Giles 1892 '畢鉢羅')	8007476
 8007477	堆	\N	duī	a heap; nicaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nicaya, Japanese: tai, or: tsui (BCSD '堆', p. 299; MW 'nicaya'; SH '堆', p. 345; Unihan '堆')	8007477
+8007478	栴陀罗	栴陀羅	zhāntuóluó	Chandala; caṇḍāla [untouchable caste]	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Variant of 旃陀羅 found in Buddhist texts (Wikipedia '旃陀羅')	8007478
+8007479	知殿	\N	zhī diàn	temple warden	set phrase	职事	Post	佛教	Buddhism	中国	China	\N	\N	As described in the 百丈清規 “Baizhang Zen Monastic Regulations”; see also 殿主 (Ichimura 2006, p. 156; T 2025, Scroll 4, 48.1131c04; Ding '知殿'; SH '知殿', p. 275)	8007479
+8007480	弃捨	棄捨	qìshě	abandoning; giving up; generosity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tyāga, Pali: cāga (Karashima 2010, p. 297)	8007480
+8007481	堪	\N	kān	enduring; kṣama	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣama, Japanese: kan, or: tan (BCSD '堪', p. 299; MW 'kṣama'; SH '堪', p. 369; Unihan '堆')	8007481
+8007482	外教	\N	wàijiāo	other religions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Other than Buddhism (FGDB '外教'; Guoyu '外教' 1)	8007482
+8007483	垂示	\N	chuíshì	chuishi; introductory pointer	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Often used as hints or pointers in 公案 koans, especially in the 碧巖錄 'Blue Cliff Record' (BL 'chuishi', p. 191; FGDB '垂示'; Heine 2016, p. 10)	8007483
+8007484	堰	\N	yàn	obstruction; saṃnirodha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃnirodha, Japanese: en (BCSD '堰', p. 300; MW 'saṃnirodha'; Unihan '堰')	8007484
+8007485	垂语	垂語	chuíyǔ	chuishi; pointer	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 垂示 (FGDB '垂示')	8007485
+8007486	垂说	垂說	chuíshuō	chuishi; pointer	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 垂示 (FGDB '垂示')	8007486
+8007487	垂众	垂眾	chuízhòng	chuishi; pointer	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 垂示 (FGDB '垂示')	8007487
+8007488	评唱	評唱	píngchàng	pingchang; prose commentary	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Especially accompanying 公案 koans, as in the 碧巖錄 “Blue Cliff Record” (BL 'biyan lu', p. 121; Heine 2016, p. 10)	8007488
+8007489	块	塊	kuài	lump; loṣṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: loṣṭa, Japanese: kai (BCSD '塊', p. 300; MW 'loṣṭa'; Unihan '塊')	8007489
+8007490	着语	著語	zhuóyǔ	zhuoyu; annotation; capping phrase; jakago	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Japanese: jakago; especially accompanying 公案 koans, as in the 碧巖錄 “Blue Cliff Record”  (BL 'zhuoyu', p. 1058; FGDB '著語'; Heine 2016, p. 10)	8007490
+8007491	拣语	揀語	jiǎnyǔ	zhuoyu; annotation; capping phrase	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 著語 (FGDB '著語')	8007491
+8007492	涂	塗	tú	smearing; lepa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lepa, Japanese: to (BCSD '塗', p. 301; Mahāvyutpatti 'lepaḥ'; MW 'lepa'; SH '塗', p. 398; Unihan '塗')	8007492
+8007493	拣话	揀話	jiǎnhuà	zhuoyu; annotation; capping phrase	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 著語 (FGDB '著語')	8007493
+8007494	下语	下語	xiàyǔ	zhuoyu; annotation; capping phrase	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 著語 (FGDB '著語')	8007494
+8007495	塘	\N	táng	embankment; setu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: setu, Japanese: tou, Tibetan: ne'u bsing (BCSD '塘', p. 301; Mahāvyutpatti 'haritaśādvalam'; MW 'setu'; SH '塗', p. 398; Unihan '塘')	8007495
