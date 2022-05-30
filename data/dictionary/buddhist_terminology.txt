@@ -2955,7 +2955,7 @@
 8002955	苾刍尼	苾蒭尼	bìchúní	a nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣuṇī; see 比丘尼 (FGDB '比丘尼')	8002955
 8002956	塞	\N	sài	sphatika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphāṭika; an abbreviation for 塞頗胝加 (Kroll 2015 '塞' sài 3, p. 395)	8002956
 8002957	塞颇胝加	塞頗胝加	sāipǒzhījiā	sphatika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphāṭika; quartz crystal, one of the seven treasures (Kroll 2015 '塞' sài 3, p. 395; MW 'sphāṭika'; SH '塞頗胝加', p. 398)	8002957
-8002958	塞	\N	sài	filled with; full; bharita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bharita (BCSD '塞', p. 301; MW 'bharita')	8002956
+8002958	塞	\N	sài	filled with; full; bharita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bharita, Japanese: soku, or: sai (BCSD '塞', p. 301; MW 'bharita'; SH '塞', p. 398; Unihan '塞')	8002956
 8002959	风神	風神	fēngshén	Vayu; Wind Spirit	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu; see 風天 (Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002959
 8002960	风天	風天	fēngtiān	Vayu; Wind Deva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu; Indian god of wind, one of the 四大天神 devas of the four elements; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 風神 (BCSD '風天', p. 1272; FGDB '風天'; MW 'vāyu'; SH '風天', p. 318; Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002960
 8002961	风大神	風大神	fēng dà shén	Vayu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāyu; see 風天 (FGDB '四大天神')	8002961
@@ -5741,7 +5741,7 @@
 8005741	充	\N	chōng	filled with; bharita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bharita (BCSD '充', p. 152; MW 'bharita')	8005741
 8005742	严饰	嚴飾	yánshì	to decorate; adorned	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 莊嚴 (Ding '嚴飾'; SH '嚴飾')	8005742
 8005743	不退法轮	不退法輪	bù tuì fǎ lún	the non-regressing dharma wheel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as used in the Lotus Sutra (Karashima 2001, pp. 67-68; T 262, Scroll 4, 9.0036b08)	8005743
-8005744	尘	塵	chén	dust; an object; an object of one of the senses; a defilement; a contanimating object	noun	\N	\N	佛教	Buddhism	\N	\N	\N	chen2.mp3	Sanskrit equivalent: rajas, or: guṇa, Tibetan: rdul (BCSD '塵'; Ding '塵'; FGDB '塵'; Mahāvyutpatti 'rajaḥ'; MW 'rajas'; SH '塵')	8005744
+8005744	尘	塵	chén	dust; an object; an object of one of the senses; a defilement; a contanimating object	noun	\N	\N	佛教	Buddhism	\N	\N	\N	chen2.mp3	Sanskrit equivalent: rajas, or: guṇa, Japanese: jin, Tibetan: rdul (BCSD '塵', p. 301; Ding '塵'; FGDB '塵'; Mahāvyutpatti 'rajaḥ'; MW 'rajas'; SH '塵')	8005744
 8005745	声闻乘者	聲聞乘者	shēngwén chéngzhě	Śrāvaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvaka, Pali: sāvaka; see 聲聞 (T 310, Scroll 90)	8005745
 8005746	夏坐	\N	xià zuò	Varsa; Vassa; Rains Retreat; Summer Retreat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varsā; see 安居 (FGDB '安居')	8005746
 8005747	兆	\N	zhào	a very large number; koṭi; niyuta	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: koṭi, or: niyuta, Tibetan: sa ya; see 俱胝 (BCSD '兆', p. 152; Edgerton 1953 'niyuta', p. 298; MW 'koṭi')	8005747
@@ -7492,4 +7492,19 @@
 8007492	涂	塗	tú	smearing; lepa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lepa, Japanese: to (BCSD '塗', p. 301; Mahāvyutpatti 'lepaḥ'; MW 'lepa'; SH '塗', p. 398; Unihan '塗')	8007492
 8007493	拣话	揀話	jiǎnhuà	zhuoyu; annotation; capping phrase	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 著語 (FGDB '著語')	8007493
 8007494	下语	下語	xiàyǔ	zhuoyu; annotation; capping phrase	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 著語 (FGDB '著語')	8007494
-8007495	塘	\N	táng	embankment; setu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: setu, Japanese: tou, Tibetan: ne'u bsing (BCSD '塘', p. 301; Mahāvyutpatti 'haritaśādvalam'; MW 'setu'; SH '塗', p. 398; Unihan '塘')	8007495
+8007495	塘	\N	táng	embankment; setu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: setu, Japanese: tou, Tibetan: ne'u bsing (BCSD '塘', p. 301; Mahāvyutpatti 'haritaśādvalam'; MW 'setu'; SH '塘', p. 398; Unihan '塘')	8007495
+8007496	碧岩	碧巖	bìyán	blue cliff	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Two characters from an inscription that the 佛果圜悟禪師碧巖錄 'Blue Cliff Record' was named after (FGDB '碧巖集')	8007496
+8007497	颂古	頌古	sònggǔ	songgu; attached verse	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	A verse attached to a 公案 koan, a literary style used in Chan Buddhism (BL 'songgu', p. 842; FGDB '頌古'; Heine 2016, p. 6)	8007497
+8007498	塚	\N	zhǒng	tomb; mṛtagṛha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛtagṛha, Japanese: tsuka, Tibetan: mchad pa (BCSD '塚', p. 301; Mahāvyutpatti 'mṛtagṛham'; MW 'mṛtagṛha'; SH '塚', p. 398; Unihan '塚')	8007498
+8007499	古则	古則	gǔzé	koan	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 公案 (FGDB '古則')	8007499
+8007500	把放帐	把放帳	bǎfàngzhàng	[temple] account book	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '把放帳')	8007500
+8007501	阿罗汉果	阿羅漢果	aluóhàn guǒ	the fruit of arhat cultivation; the fruit of awakening	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '阿羅漢果'; SH '阿羅漢果')	8007501
+8007502	第一义	第一義	dìyī yì	paramārtha; paramārthasatya; absolute truth; supreme truth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第一義諦 (FGDB '第一義諦')	8007502
+8007503	胜义谛	勝義諦	shèng yì dì	paramārtha; paramārthasatya; absolute truth; supreme truth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第一義諦 (FGDB '第一義諦')	8007503
+8007504	塡	\N	tián	fulfils; paripūrayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrayati, Japanese: ten, or: chin (BCSD '塡', p. 301; Edgerton 1953 'paripūrayati', p. 327; Unihan '塡')	8007504
+8007505	无漏关	無漏關	wúlòuguān	[temple] account book	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 把放帳 (FGDB '把放帳')	8007505
+8007506	春秋把放帐	春秋把放帳	chūnqiū bǎfàngzhàng	[temple] spring and autumn account book	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 把放帳 (FGDB '把放帳')	8007506
+8007507	三十三身	\N	sānshísān shēn	the thirty three manifestations of Avalokiteśvara	set phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	As mentioned in the Universal Gate section of the Lotus Sutra (FGDB '三十三身')	8007507
+8007508	三十三应化身	三十三應化身	sānshísān yīnghuàshēn	the thirty three manifestations of Avalokiteśvara	set phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	See 三十三身 (FGDB '三十三身')	8007508
+8007509	应化身	應化身	yīnghuàshēn	nirmita; nirmānakaya	noun	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	See 應化 (BL 'nirmānakaya'; BCSD '應化身')	8007509
+8007510	堑	塹	qiàn	moat; parikhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parikhā, Japanese: zan, or: sen (BCSD '塹', p. 302; MW 'mṛtagṛha'; Unihan '塹')	8007510
