@@ -894,7 +894,7 @@
 7000894	佛馱跋陀罗	佛陀跋陀羅	fótuóbátuóluó	   Buddhabhadra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 佛馱跋陀羅 (FGDB '佛馱跋陀羅')	7000894
 7000895	佛光寺	\N	fóguāng Sì	Foguang Temple	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	Temple at Wutai Shan, Shanxi (Wikipedia '佛光寺 (五台)')	7000895
 7000896	唐招提寺	\N	tángzhāotí sì	Tōshōdai-ji	proper noun	寺院	Monastery	佛教	Buddhism	日本	Japan	\N	\N	A temple located in Nara, Japan (Wikipedia '唐招提寺')	7000896
-7000897	东大寺	東大寺	dōngdà Sì	Tōdai-ji	proper noun	寺院	Monastery	佛教	Buddhism	日本	Japan	\N	\N	A temple located in Nara, Japan (Wikipedia '東大寺')	7000897
+7000897	东大寺	東大寺	dōngdà sì	Tōdai-ji	proper noun	寺院	Monastery	佛教	Buddhism	日本	Japan	\N	\N	A temple located in Nara, Japan; head temple of the Kegon sect (DJBT 'Tōdaiji', p. 346; Wikipedia '東大寺')	7000897
 7000898	印顺	印順	Yìn Shùn	Yin Shun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	1906～2005, Chinese monastic from Zhejiang (FGDB '印順'; Wikipedia '释印顺'; Yinshun 2017, p. i)	7000898
 7000899	黄檗希运	黃檗希運	huángbò xīyùn	Huangbo Xiyun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	D. 850; Chan monastic mentioned in the “The Blue Cliff Record” (translation by Cleary 1998, p. 69; Heine, p. 53; T 2003, scroll 2)	7000899
 7000900	灵雀寺	靈雀寺	língquèsì	Nyitso Monastery	proper noun	寺庙	Temple	佛教	Buddhism	中国	China	\N	\N	(CC-CEDICT '靈雀寺')	7000900
@@ -6768,3 +6768,8 @@
 7006768	阿利罗跋提	阿利羅跋提	ālìluóbátí	Ajitavati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a river mentioned in the opening of the Mahāparinirvāṇa sūtra (FGDB '阿利羅跋提'; T 374 Scroll 1, Yamamoto 1974, p. 1)	7006768
 7006769	般舟赞	般舟讚	bānzhōuzàn	Pratyutpanna Chant	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a chant (FGDB '般舟讚')	7006769
 7006770	马祖	馬祖	mǎzǔ	Mazu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 馬祖道一 (Wikipedia '马祖道一') Mazu Daoyi	7006770
+7006771	净戒	淨戒	jìngjiè	Jing Jie	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	D. 1418; monastic from Huzhou (BSAD '淨戒', ID: A001101)	7006771
+7006772	东大寺要录	東大寺要錄	dōngdà sì yào lù	Tōdaiji Yoroku	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A historic text associated with Tōdaiji, the head temple of the Kegon school (Deal and Ruppert 2015, 283)	7006772
+7006773	大安寺	\N	dàānsì	Da An Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Historic temple located in Shaanxi and similarly named temples in several other provinces (BSPAD '大安寺', ID: PL000000058594)	7006773
+7006774	佛哲	\N	fózhé	Fo Zhe; Buttetsu	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	A monastic from Champ who travelled to Japan (BSAD '佛哲', ID: A028427; FGDB '佛哲')	7006774
+7006775	佛彻	佛徹	fóchè	Fo Che; Buttetsu	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 佛哲 (FGDB '佛哲')	7006775
