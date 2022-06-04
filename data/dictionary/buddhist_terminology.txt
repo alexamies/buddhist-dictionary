@@ -2843,7 +2843,7 @@
 8002843	三恶趣	三惡趣	sān è qù	the three evil rebirths; the three evil realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, the realms of 畜生 animals, 饿鬼 hungry ghosts, and 地狱 hells (FGDB '三惡趣'; Tzu Chuang 2012)	8002843
 8002844	善趣	\N	shànqù	a benevolent rebirth; a benevolent destiny; heaven; a fortunate realm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sugati, Pali: sugati; the earthly realm, the realm of asuras, and heaven (FGDB '三法聚')	8002844
 8002845	大	\N	dà	great; mahā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahā, Tibetan: chen po, Japanese: dai, or: tai (BCSD '大', p. 317; DJBT '大', p. 434; Mahāvyutpatti 'mahān')	8002845
-8002846	坛	壇	tán	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (BCSD '壇'p. 307; FGDB '壇'; SH '壇', p. 446)	8002846
+8002846	坛	壇	tán	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala, Japanese: dan, or: tan; see 曼荼羅 (BCSD '壇'p. 307; FGDB '壇'; SH '壇', p. 446; Unihan '壇')	8002846
 8002847	坛场	壇場	tánchǎng	mandala	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '壇場'; Sharf 2017, p. 87)	8002847
 8002848	坛场	壇場	tánchǎng	place of practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '壇場')	8002847
 8002849	坛拏	壇拏	tánná	danda; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'daṇḍa'; Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002849
@@ -4959,7 +4959,7 @@
 8004959	我所心	\N	wǒ suǒ xīn	a mind with the belief that it can possess objects	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '我所心', p. 238)	8004959
 8004960	不放逸	\N	bù fàngyì	vigilance; heedfulness; conscientious	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apramāda, Pali: appamada; one of the eleven virtuous mental factors (FGDB '不放逸')	8004960
 8004961	北宗	\N	běizōng	Northern school	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Of Chan Buddhism (SH '北宗', p. 168)	8004961
-8004962	坏	壞	huài	breaking; bheda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bheda, Tibetan: 'jig pa (BCSD '壞', p. 308; Mahāvyutpatti 'bhedanam'; MW 'bheda')	8004962
+8004962	坏	壞	huài	breaking; bheda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bheda, Japanese: kai, or: e, Tibetan: 'jig pa (BCSD '壞', p. 308; Mahāvyutpatti 'bhedanam'; MW 'bheda'; Unihan '壞')	8004962
 8004963	坏相	壞相	huài xiāng	state of destruction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhedalakṣaṇa (BCSD '壞相', p. 308; SH '壞相', p. 470)	8004963
 8004964	心所	\N	xīnsuǒ	a mental factor; caitta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitta or caitasika, Pali: cetasika, Japanese: shinjo, Tibetan: sems byung; the aspects of the mind that understand the characteristics of an object (BL 'Caitya', p. 161; FGDB '心所'; Wikipedia '心所')	8004964
 8004965	心所法	\N	xīn suǒ fǎ	a mental factor; a mental state; a mental event	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitasika, Pali: cetasika; see 心所 (FGDB '心所')	8004965
@@ -7537,4 +7537,41 @@
 8007537	面壁	\N	miànbì	to face the wall; to sit facing the wall in meditation	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Bodhidharma meditating for nine years while facing a wall (FGDB '面壁九年')	8007537
 8007538	壁	\N	bì	wall; prākāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prākāra, Japanese: heki (BCSD '壁', p. 307; MW 'prākāra'; SH '壁', p. 446; Unihan '壁')	8007538
 8007539	面壁九年	\N	miànbì jiǔnián	to sit facing the wall in meditation for nine years	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Refers to Bodhidharma meditating for nine years while facing a wall (FGDB '面壁九年')	8007539
-8007540	洞家	\N	Dòng jiā	Caodong school; Caodong zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 曹洞宗 (FGDB '曹洞宗')	8007540
+8007540	洞家	\N	dòng jiā	Caodong school; Caodong zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 曹洞宗 (FGDB '曹洞宗')	8007540
+8007541	壍	\N	qiàn	moat; parikhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parikhā, Japanese: zan (BCSD '壍', p. 307; MW 'parikhā'; Unihan '壍')	8007541
+8007542	看话禅	看話禪	kànhuà chán	to meditate on a kōan; kanhua chan; phrase-observing meditation; Chan of investigating the topic of inquiry; keyword meditation; questioning meditation	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A style of meditation proposed by 大慧宗杲 Dahui Zonggao of the 臨濟宗 Linji sect (BL 'kanhua chan'; FGDB '看話禪')	8007542
+8007543	济宗	濟宗	jì Zōng	Linji School; Linji zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 臨濟宗 (FGDB '臨濟宗')	8007543
+8007544	云门一字关	雲門一字關	yúnmén yīzì guān	one-word checkpoint; one-word barrier; yizi guan	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A method by Tang Chan master 雲門文偃 Yunmen Wenyan to answer questions with a single word (BL 'yizi guan'; FGDB '雲門一字關')	8007544
+8007545	压	壓	yā	squeeze; prapīḍ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prapīḍ, Japanese: atsu, or: ou, or: en (BCSD '壓', p. 307; MW 'prapīḍ'; SH '壓', p. 456; Unihan '壓')	8007545
+8007546	一字关	一字關	yīzì guān	one-word checkpoint; one-word barrier; yizi guan	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 雲門一字關 (FGDB '雲門一字關')	8007546
+8007547	转语	轉語	zhuǎnyǔ	zhuanyu; turning words; transformational expression	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A kind of comment on a koan (FGDB '轉語'; Heine 2016, p. 28)	8007547
+8007548	举则	舉則	jǔzé	juze; to discuss a koan	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A Chan term meaning to raise a koan for discussion(FGDB '舉則')	8007548
+8007549	举古	舉古	jǔgǔ	juze; jugu/ to discuss a koan	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 舉則 (FGDB '舉則')	8007549
+8007550	则	則	zé	koan; kōan; gong'an	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 舉則 (FGDB '舉則')	8007550
+8007551	法战	法戰	fǎzhàn	fazhan; encounter dialog; Dharma combat	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Literally, 'Dharma battle' (BL 'fazhan'; FGDB '法戰')	8007551
+8007552	首座	\N	shǒuzuò	Shouzuo; Rector; Chief Seat	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	Japanese: shuza; a position in a Chan monastery held by one of the prefects, responsible for infractions of the monastic code (BL 'shǒuzuò'; Ding '首座'; FGDB '首座'; SH '首座'; Welch 1967, p. 422)	8007552
+8007553	法问	法問	fǎwèn	fazhan; Dharma combat	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 法戰 (FGDB '法戰')	8007553
+8007554	师家	師家	shījiā	a scholar-monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '師家')	8007554
+8007555	士	\N	shì	gentleman; puruṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa, Japanese: shi, or: ji (BCSD '士', p. 309; MW 'puruṣa'; SH '士', p. 82; Unihan '士')	8007555
+8007556	机锋	機鋒	jīfēng	jifeng; sharpening a [critically discursive] sword	verb	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Japanese: kihō; literally, the sharpness of one's responsiveness, as a measure of spiritual enlightenment in the Chan tradition (BL 'jīfēng', p. 387; FGDB '機鋒'; Heine 2016, p. 13)	8007556
+8007557	尘尘三昧	塵塵三昧	chén chén sānmèi	all atoms samādhi	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in the Avataṃsaka Sūtra and the Blue Cliff Record (FGDB '塵塵三昧'; Heine, 2016, p. 263)	8007557
+8007558	极微	極微	jíwēi	atom; particle; paramāṇu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paramāṇu, Japanese: gokumi; the smallest unit of matter in traditional Buddhist thought (BL 'paramāṇu'; FGDB '極微')	8007558
+8007559	极微尘	極微塵	jíwēichén	atom; particle; paramāṇu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 極微 (FGDB '極微')	8007559
+8007560	极细尘	極細塵	jíxìchén	atom; paramāṇu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 極微 (BL 'jíxìchén'; FGDB '極細塵')	8007560
+8007561	金毛狮子	金毛獅子	jīnmáoshīzi	golden haired lion	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Refers to a kōan by Yunmen (FGDB '金毛獅子')	8007561
+8007562	问答	問答	wèndá	encounter dialog	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A question and answer dialog in the Chan tradition between a disciple and scholar-monk, often quoted in kōans (FGDB '問答')	8007562
+8007563	真俗不二	\N	zhēn sú bù èr	there is no duality between the real and the conventional truth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '真俗不二')	8007563
+8007564	圆融	圓融	yuánróng	yuanrong; interdependence; consumate interfusion; interpenetration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The interconnectedness of all things as described in Buddhist texts, such as 華嚴經 the Avataṃsaka Sūtra. The concept of yuanrong implies that all dharmas are contained within all other dharmas. (BL 'yuanrong'; FGDB '圓融'; SEEKERS 'interpenetration')	8007564
+8007565	圆融三观	圓融三觀	yuánróng sānguān	yuanrong sanguan; the three contemplations of consumate interfusion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A variation of the 三觀 'three contemplations' emphasizing interdependence (BL 'yuanrong sanguan')	8007565
+8007566	三观	三觀	sānguān	sanguan; threefold contemplation; three insights	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sangan; contemplations on the 三諦 'three truths' of 空觀 contemplation of emptiness, 假觀 contemplation of provisional truth, and 中觀 contemplation of the middle path (BL 'sanguan', p. 769; Ding '三觀'; FGDB '三觀'; SH '三觀')	8007566
+8007567	十二缘起	十二緣起	shí èr yuánqǐ	twelve links of dependent origination; twelve nidānas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十二因緣 (FGDB '十二因緣')	8007567
+8007568	大展三拜	\N	dà zhǎn sān bài	to unroll the mat and bow three times	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(FGDB '大展三拜')	8007568
+8007569	壮	壯	zhuàng	strong; healthy; yuvan	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yuvan, Japanese: sou (BCSD '壯', p. 309; Mahāvyutpatti 'yuvā'; MW 'yuvan'; Unihan '壯')	8007569
+8007570	齿腊	齒臘	chǐlà	time as a monastic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '齒臘')	8007570
+8007571	拜忏	拜懺	bàichàn	to pray on behalf of others	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CCD '拜忏'; FE '拜懺'; FGDB '拜懺')	8007571
+8007572	世法	\N	shìfǎ	ordinary dharmas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FE '世法' 2; FGDB '世法'; GHDC '世法')	8007572
+8007573	壹	\N	yī	one; eka	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka, Japanese: ichi, or: itsu (BCSD '壹', p. 310; MW 'eka'; Unihan '壹')	8007573
+8007574	三际	三際	sānjì	past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三世 (FGDB '三際')	8007574
+8007575	去来现	去來現	qù lái xiàn	past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三世 (FGDB '去來現')	8007575
+8007576	已今当	已今當	yǐjīndāng	past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三世 (FGDB '已今當')	8007576
+8007577	预流果	預流果	yùliúguǒ	srotāpanna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須陀洹 (FGDB '預流果')	8007577
