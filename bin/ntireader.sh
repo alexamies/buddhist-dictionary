@@ -111,7 +111,7 @@ cp web-resources/images/*.* $WEB_DIR/images/.
 cp corpus/images/*.* $WEB_DIR/images/.
 
 python3 bin/words2json.py "data/dictionary/cnotes_zh_en_dict.tsv,data/dictionary/fgs_mwe.txt,data/dictionary/translation_memory_buddhist.txt,data/dictionary/translation_memory_literary.txt,data/dictionary/buddhist_terminology.txt,data/dictionary/buddhist_named_entities.txt" $WEB_DIR/dist/ntireader.json
-cd $WEB_DIR/dist && gzip ntireader.json && cd $CNREADER_HOME
+cd $WEB_DIR/dist && rm -f ntireader.json.gz && gzip ntireader.json && cd $CNREADER_HOME
 
 python3 bin/tsv2json.py "data/dictionary/cnotes_zh_en_dict.tsv" $WEB_DIR/ntireader_words.json "NTI Reader dictionary" "NTI Reader" "Alex Amies" "Creative Commons Attribution-Share Alike 3.0"
 python3 bin/tsv2json.py "data/dictionary/buddhist_named_entities.txt" $WEB_DIR/buddhist_named_entities.json "NTI Reader Buddhist named entities (people, places, text titles, etc)"  "Buddhist named entities" "Alex Amies" "Creative Commons Attribution-Share Alike 3.0"
