@@ -2628,7 +2628,7 @@
 8002628	多罗	多羅	duōluó	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8002628
 8002629	一喝分宾主	一喝分賓主	yī hē fēn bīnzhǔ	a shout separates host and guest	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	(FGDB '一喝分賓主')	8002629
 8002630	一喝不作一喝用	\N	yī hē bùzuò yī hē yòng	a shout does not function as a shout	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	A quote from 鎮州臨濟慧照禪師語錄 ”The Recorded Sayings of Linji” (Cleary, J C 1999, p. 52; FGDB '一喝不作一喝用'; T 1985)	8002630
-8002631	妃	\N	fēi	royal consort; queen; mahisi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahiṣī, or: rajni; for example, in 明妃 vidyārājñī consort of a 明王 vidyārāja 'wisdom king' (BCSD '妃', p. 355; MW 'mahiṣī')	8002631
+8002631	妃	\N	fēi	royal consort; queen; mahisi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahiṣī, or: rajni, Japanese: hi, or: hai; for example, in 明妃 vidyārājñī consort of a 明王 vidyārāja 'wisdom king' (BCSD '妃', p. 355; MW 'mahiṣī'; Unihan '妃')	8002631
 8002632	名	\N	míng	name; naman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nāman, Japanese: mei, or: myou; for example, 名色 nāmarūpa 'name and form' (BCSD '名', p. 243; MW 'nāman'; SH '名', p. 204; Unihan '名')	8002632
 8002633	名	\N	míng	fame; renown; yasas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yaśa, Tibetan: snyan pa'am grags pa; for example, in 名聞 yaśas (BCSD '名', p. 243; Mahāvyutpatti 'yaśaḥ'; MW 'yaśas'; SH '名聞', p. 204)	8002632
 8002634	持	\N	chí	to hold; dhara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhara; for example, in 金剛持 vajradhara, a type of tantric deity (BCSD '持', p. 544; MW 'dhara; SH '持', p. 302)	8002634
@@ -5866,7 +5866,7 @@
 8005866	素怛览	素怛覽	sùdálǎn	sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, synonymous with 经. From Collection of Meanings and Terms in Translation 翻譯名義集 by Fa Yun, 修多羅。或修單蘭。或修妬路。西域記名素怛覽。 'Sūtra: also known as xiūdānlán, xiūdùlù, and in the Western Regions called sùdálǎn' (T 2131, Scroll 4)	8005866
 8005867	凸	\N	tū	bent upwards; unnata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: unnata (BCSD '凸', p. 178; MW 'unnata')	8005867
 8005868	好成	\N	hǎochéng	Sambhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃbhavā; name of a Buddha realm mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020; Hurvitz 2009, p. 130; Kern 1884, ch. 7; Karashima 2001, p. 180; T 262, Scroll 3, 9.0022a19)	8005868
-8005869	好	\N	hǎo	good; sādhu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhu (BCSD '好', p. 341; MW 'sādhu'; SH '好', p. 210)	8005869
+8005869	好	\N	hǎo	good; sādhu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhu, Japanese: kou (BCSD '好', p. 341; MW 'sādhu'; SH '好', p. 210; Unihan '好')	8005869
 8005870	成	\N	chéng	becoming; bhāva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāva (BCSD '成', p. 514; MW 'bhāva'; SH '成', p. 237)	8005870
 8005871	大相	\N	dàxiāng	Maharupa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahārūpa; name of a kalpa mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020; Hurvitz 2009, p. 130; Kern 1884, ch. 7; Karashima 2001, p. 107; T 262, Scroll 3, 9.0022a19)	8005871
 8005872	宝藏馆	寶藏館	bǎo zàng guǎn	Buddhist museum	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教博物館')	8005872
@@ -7070,7 +7070,7 @@
 8007070	权化	權化	quánhuà	appearance of a deity upon earth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avatāra (BCSD '權化', p. 671; MW 'avatāra')	8007070
 8007071	权方便	權方便	quánfāngbiàn	upāya; skill in means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upāya; see 方便 (BCSD '權方便', p. 671; FGDB '方便'; MW 'upāya')	8007071
 8007072	权宜	權宜	quányí	skill in means	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方便 (Kroll 2015 '權宜' 3a)	8007072
-8007073	奴	\N	nú	slave; dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsa, Japanese: do, or: nu (BCSD '奴', p. 360; MW 'dāsa'; SH '奴', p. 184; Unihan '奴')	8007073
+8007073	奴	\N	nú	slave; dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsa, Japanese: do, or: nu (BCSD '奴', p. 341; MW 'dāsa'; SH '奴', p. 184; Unihan '奴')	8007073
 8007074	奴婢	\N	núbì	slave; servant; dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsa, or: dāsī (BCSD '奴婢', p. 360; MW 'dāsa')	8007074
 8007075	奴婢	\N	núbì	female and male slaves; dāsī-dāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāsī-dāsa (BCSD '奴婢', p. 360; MW 'dāsīdāsa'; SH '奴婢', p. 184)	8007074
 8007076	善巧方便	\N	shànqiǎo fāngbiàn	skillful and expedient means	phrase	\N	\N	佛教	Buddhism	大乘佛教	Mahayana Buddhism	\N	\N	Sanskrit equivalent: upāyakauśalya; see 方便 (FGDB '方便')	8007076
@@ -7683,3 +7683,14 @@
 8007683	我等慢	\N	wǒ děng màn	the conceit of thinking oneself equal to one's superiors	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '我等慢', p. 239)	8007683
 8007684	女	\N	nǚ	woman; nārī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nārī, Japanese: jo, or: nyo, or: nyou (BCSD '女', p. 340; Mahāvyutpatti 'haraṇam'; MW 'haraṇa'; SH '女', p. 97; Unihan '女')	8007684
 8007685	女	\N	nǚ	daughter; duhitṛ	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: duhitṛ, Tibetan: bu mo (BCSD '女', p. 340; Mahāvyutpatti 'duhitā'; MW 'duhitṛ')	8007684
+8007686	三种圆满安乐	三種圓滿安樂	sān zhǒng yuánmǎn ānlè	three kinds of perfect harmony	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Achieved by bodhisattvas, according to Yogacara texts (FGDB '三種圓滿安樂')	8007686
+8007687	奸	\N	jiān	deceit; śāṭhya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāṭhya, Japanese: kan (BCSD '女', p. 341; MW 'śāṭhya'; Unihan '奸')	8007687
+8007688	弘法藏	\N	hóngfǎ zàng	Hongfa Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon completed in 1277 (FGDB '弘法藏')	8007688
+8007689	阿提目多迦花	\N	atímùduōjiāhuā	atimuktaka	noun	植物	Plant	佛教	Buddhism	\N	\N	\N	\N	Species: Gaertncra racemosa; transliteration of an Indian plant name, a kind of white flower (FGDB '阿提目多迦花'; Kieschnick and Wiles 2017, vol. 2, p. 49)	8007689
+8007690	妄	\N	wàng	falsely; mithyā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithyā, Japanese: bou, or: mou (BCSD '妄', p. 355; MW 'mithyā'; SH '妄', p. 210; Unihan '妄')	8007690
+8007691	妄想分别	妄想分別	wàngxiǎng fēnbié	fanciful thinking; deluded thoughts; fantasies; vikalpa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妄想 (FGDB '妄想')	8007691
+8007692	阿地目得迦花	\N	adìmùdejiāhuā	atimuktaka	noun	植物	Plant	佛教	Buddhism	\N	\N	\N	\N	See 阿提目多迦花 (FGDB '阿提目多迦花')	8007692
+8007693	妖	\N	yāo	unusual; magical; viṣama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣama, Japanese: you (BCSD '妖', p. 356; MW 'viṣama'; SH '妖', p. 234; Unihan '妖')	8007693
+8007694	龙舐花	龍舐花	lóngshìhuā	atimuktaka	noun	植物	Plant	佛教	Buddhism	\N	\N	\N	\N	See 阿提目多迦花 (FGDB '阿提目多迦花')	8007694
+8007695	苣藤	\N	qǔténg	atimuktaka	noun	植物	Plant	佛教	Buddhism	\N	\N	\N	\N	See 阿提目多迦花 (FGDB '阿提目多迦花')	8007695
+8007696	妨	\N	fáng	being deprived of; parihāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parihāṇa, Japanese: bou (BCSD '妨', p. 360; MW 'parihāṇa'; Unihan '妨')	8007696
