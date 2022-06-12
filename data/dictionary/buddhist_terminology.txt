@@ -5011,7 +5011,7 @@
 8005011	无愧	無愧	wúkuì	disregard; lack of propriety; anapatrāpya	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anapatrāpya, Pali: anottappa, Tibetan: khrel med pa (FGDB '無愧'; Mahāvyutpatti 'anapatrāpyam'; SH '無愧', p. 83)	8005011
 8005012	掉举	掉舉	diàojǔ	excitement; restlessness; ebulience; auddhatya; uddhacca	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: auddhatya, Pali: uddhacca, Japanese: jō, Tibetan: rgod pa; one of the six root unwholesome mental factors 六大煩惱地法; one of the five upper fetters 五上分結, especially as a hindrance to meditation (BL 'auddhatya'; FGDB '掉舉'; Mahāvyutpatti 'auddhatyam')	8005012
 8005013	无惭	無慚	wúcán	shamelessness; āhrīkya	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āhrīkya, Pali: ahirika, Tibetan: ngo tsha med pa (FGDB '無慚'; Mahāvyutpatti 'āhrīkyam'; SH '無慚', p. 379)	8005013
-8005014	武林藏	\N	wǔlín zàng	Wulin Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon completed in the period 1522-1566 (FGDB '武林藏')	8005014
+8005014	武林藏	\N	wǔlín zàng	Wulin Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon completed in the period 1522-1566 (FGDB '明藏')	8005014
 8005015	一一犯	\N	yī yī fàn	one violation after the next; anyatarānyatarāpatti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anyatarānyatarāpatti (BCSD '一一犯', p. 1)	8005015
 8005016	六头首	六頭首	liù tóu shǒu	group of six head monastics in a monastery	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	The enumeration of the six varies by school with Linji and Caodong each having their own list (Ding '六頭首'; FGDB '六頭首')	8005016
 8005017	法花经	法花經	fǎ huā jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharma puṇḍarīka sūtra; see 妙法蓮華經 (Karashima 1998)	8005017
@@ -7708,3 +7708,14 @@
 8007708	建陀天	\N	jiàntuó tiān	Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007708
 8007709	违驮天	違馱天	wéiduò tiān	Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007709
 8007710	刍	芻	chú	kṣ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣ, Japanese: sū, or: su, or: shū; transliterates Sanskrit kṣ (BCSD '芻', p. 1008; SH '芻', p. 338; Unihan '芻')	8007710
+8007711	韦将军	韋將軍	wéi jiāngjūn	Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007711
+8007712	昭庆藏	昭慶藏	zhāoqìng zàng	Zhaoqing Canon; Wulin Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 武林藏 (FGDB '明藏')	8007712
+8007713	玄门	玄門	xuánmén	profound gate	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Broughton 2014, p. 108; FE '玄門' 1; FGDB '玄門')	8007713
+8007714	玄谈	玄談	xuántán	introduction or forward in a Buddhist text	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '玄談' 1; FE '玄談' 2; FGDB '玄談')	8007714
+8007715	计	計	jì	ketu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ketu; from 计度, an invisible planet in Vedic astronomy (Kroll 2015 '计' 4, p. 190)	8007715
+8007716	楞严寺版	楞嚴寺版	Léngyán sì bǎn	Lengyan Temple Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist Canon produced in the Ming dynasty; also known as the Jiaxing Canon (FGDB '中文大藏經')	8007716
+8007717	嘉兴藏本	嘉興藏本	jiāxīng zàng běn	Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 Lengyan Temple Canon (FGDB '中文大藏經')	8007717
+8007718	万历方册本	萬曆方冊本	wànlì fāngcè běn	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中文大藏經')	8007718
+8007719	万历本	萬曆本	wànlì běn	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中文大藏經')	8007719
+8007720	明藏	\N	míng zàng	Ming Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon produced during the Ming dynasty (FGDB '明藏')	8007720
+8007721	百衲藏	\N	bǎinà zàng	Baina Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon produced in 1866 (FGDB '中文大藏經')	8007721
