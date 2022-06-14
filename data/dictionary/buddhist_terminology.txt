@@ -7702,7 +7702,7 @@
 8007702	藏经	藏經	zàng jīng	Buddhist canon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大藏經 (FGDB '大藏經')	8007702
 8007703	三藏圣教	三藏聖教	sān zàng shèngjiāo	Buddhist canon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大藏經 (FGDB '大藏經')	8007703
 8007704	韦天将军	韋天將軍	wéitiān jiāngjūn	Weituo tian; Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007704
-8007705	妋	\N	fū	fortunate; bhaginī	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaginī, Japanese: fu, or: you, or: u (BCSD '妋', p. 360; MW 'bhaginī'; Unihan '妋')	8007705
+8007705	妋	\N	fū	sister; bhaginī	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaginī, Japanese: fu, or: you, or: u (BCSD '妋', p. 360; MW 'bhaginī'; Unihan '妋')	8007705
 8007706	塞建陀天	\N	sāijiàntuó tiān	Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007706
 8007707	私建陀天	\N	sījiàntuó tiān	Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007707
 8007708	建陀天	\N	jiàntuó tiān	Weituo; Skanda	proper noun	天	Deity	佛教	Buddhism	\N	\N	\N	\N	See 韋馱天 (FGDB '韋馱天')	8007708
@@ -7719,3 +7719,11 @@
 8007719	万历本	萬曆本	wànlì běn	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中文大藏經')	8007719
 8007720	明藏	\N	míng zàng	Ming Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon produced during the Ming dynasty (FGDB '明藏')	8007720
 8007721	百衲藏	\N	bǎinà zàng	Baina Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon produced in 1866 (FGDB '中文大藏經')	8007721
+8007722	妾	\N	qiè	consort; sapatnī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sapatnī, Japanese: shou (BCSD '妾', p. 360; MW 'sapatnī'; Unihan '妾')	8007722
+8007723	百衲本	\N	bǎinàběn	Baina Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 百衲藏 (FGDB '中文大藏經')	8007723
+8007724	频伽藏	頻伽藏	pínjiā zàng	Pinjia Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	A version of the Chinese Buddhist canon completed in 1920 (FGDB '中文大藏經'; Scott 2017, p. 98)	8007724
+8007725	姊	\N	zǐ	sister; bhaginī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaginī, Japanese: shi (BCSD '姊', p. 360; MW 'bhaginī'; Unihan '姊')	8007725
+8007726	姉	\N	zǐ	sister; bhaginī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaginī, Japanese: shi (BCSD '姉', p. 360; MW 'bhaginī'; Unihan '姉')	8007726
+8007727	频伽版大藏经	頻伽版大藏經	pínjiā bǎn dà zàng jīng	Pinjia Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 頻伽藏 (FGDB '中文大藏經')	8007727
+8007728	频伽精舍校刊大藏经	頻伽精舍校刊大藏經	pínjiā jīngshè xiàokān dà zàng jīng	Pinjia Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 頻伽藏 (FGDB '中文大藏經')	8007728
+8007729	始	\N	shǐ	beginning; ādi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādi, Japanese: shi (BCSD '始', p. 360; MW 'ādi'; SH '始', p. 254; Unihan '始')	8007729
