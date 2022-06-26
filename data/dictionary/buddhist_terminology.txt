@@ -2577,11 +2577,11 @@
 8002577	恶祁尼	惡祁尼	èqíní	Agni	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002577
 8002578	阿只尼	阿祇尼	azhǐní	Agni	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002578
 8002579	阿耆尼	\N	Āqíní	Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Name of a historic kingdom north of Lopnor (Ding '阿耆尼'; Eitel 'Agni', p. 6; FGDB '阿耆尼'; SH '阿耆尼', p. 290)	8002579
-8002580	阿耆尼国	阿耆尼國	aqíníguó	Agni	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002580
-8002581	乌耆国	烏耆國	wūqíguó	Agni	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 阿耆尼 (FGDB '阿耆尼')	8002581
-8002582	焉耆国	焉耆國	yānqíguó	Agni	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002582
-8002583	乌夷国	烏夷國	wūyíguó	Agni	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002583
-8002584	婴夷国	嬰夷國	yīngyíguó	Agni	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002584
+8002580	阿耆尼国	阿耆尼國	aqíní guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	(FGDB '阿耆尼國'; Wikipedia '焉耆')	8002580
+8002581	乌耆国	烏耆國	wūqí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 阿耆尼 (FGDB '阿耆尼')	8002581
+8002582	焉耆国	焉耆國	yānqí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002582
+8002583	乌夷国	烏夷國	wūyí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002583
+8002584	婴夷国	嬰夷國	yīngyí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002584
 8002585	九品	\N	jiǔpǐn	nine grades	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Pureland practice (FGDB '九品'; SH '九品', p. 16)	8002585
 8002586	四相	\N	sì xiāng	four marks of existence; caturlaksana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caturlakṣaṇa, Japanese: shisō, Tibetan: mtshan nyid bzhi; namely: 生 birth, 住 continuance, 異 change, and 滅 extinction (BL 'caturlakṣaṇa', p. 171; FGDB '四相'; SH '四有爲相', p. 176)	8000069
 8002587	九想	\N	jiǔ xiǎng	nine perceptions; navasamjna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navasaṃjñā, Pali: navasaññā, Japanese: kusōkan, Tibetan: 'du shes dgu; meditations on the impurity with nine stages of the decay of the body (BL 'navasaṃjñā', p. 578; FGDB '九想')	8002587
@@ -7823,3 +7823,18 @@
 8007823	薰陆香	薰陸香	xūnlùxiāng shù	frankincense	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunduru; see also 乳香 (FGDB '薰陸香樹'; Wikipedia '乳香')	8007823
 8007824	染污识	染污識	rǎnwūshí	kliṣṭamanas; kliṣṭa-mana; afflicted mind; afflicted mentality	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 染污識 (FGDB '染污識')	8007824
 8007825	妇	婦	fù	wife; bhāryā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāryā, Japanese: fu (BCSD '婦', p. 366; MW 'bhāryā'; SH '婦', p. 345; Unihan '婦')	8007825
+8007826	第七识	第七識	dìqīshí	kliṣṭamanas; kliṣṭa-mana; afflicted mind; afflicted mentality	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 染污識 (FGDB '染污識')	8007826
+8007827	六染心	\N	liù rǎn xīn	six afflictions; six kinds of afflicted mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna”: (1)執相應染 affliction corresponding to attachment, (2) 不斷相應染 continuing affliction, (3) 分別智相應染 affliction corresponding to attachment, (4) 現色不相應染 affliction disunited from the world of objects, (5) 能見心不相應染 affliction disunited from a perceiving mind and, (6) 根本業不相應染 affliction disunited from the basic activating mind (Ding '六染心'; FGDB '六染心'; SH '六染心')	8007827
+8007828	婬	\N	yín	sexual intercourse; maithuna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maithuna, Japanese: in (BCSD '婬', p. 366; MW 'maithuna'; SH '婬', p. 345; Unihan '婬')	8007828
+8007829	四信	\N	sì xìn	four kinds of faith	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	As described in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna”, the four kinds of faith are: (1) 信根本 fundamental faith, (2) 信佛 faith in the Buddha, (3) 信法 faith in the Dharma, and (4) 信僧 faith in the sangha (FGDB '四信')	8007829
+8007830	四种信心	四種信心	sì zhǒng xìnxīn	four kinds of faith	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 四心 (FGDB '四心')	8007830
+8007831	五行	\N	wǔ xíng	five practices	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are different formulations for this in different texts. For example, in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論 the five are: generosity, morality, patience, diligence, and meditation. (FGDB '五行')	8007831
+8007832	媚	\N	mèi	amiable; prāsādika	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prāsādika, Japanese: bi (BCSD '媚', p. 367; MW 'prāsādika'; Unihan '媚')	8007832
+8007833	机缘	機緣	jīyuán	ability to accept causes and conditions; favourable circumstances; opportunity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '機緣'; FGDB '機緣'; SH '機緣')	8007833
+8007834	顿渐二教	頓漸二教	dùn jiàn èr jiāo	sudden and gradual teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As referred to in the Platform Sutra of the Sixth Patriarch 六祖壇經 (FGDB '頓漸二教')	8007834
+8007835	媳	\N	xí	daughter in law; vadhū	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vadhū, Japanese: seki, or: shaku (BCSD '媳', p. 367; MW 'vadhū'; Unihan '媳')	8007835
+8007836	有为法	有為法	yǒuwèifǎ	saṃskṛta; conditioned	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有為 (FGDB '有為')	8007836
+8007837	起灭	起滅	qǐmiè	saṃsāra; life and death	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生滅 (FGDB '生滅')	8007837
+8007838	阿罗耶识	阿羅耶識	aluóyéshí	ālayavijñāna; alaya consciousness; storehouse consciousness; foundational consciousness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿賴耶識 (FGDB '阿賴耶識')	8007838
+8007839	嫉	\N	jí	envious; īrṣyā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: īrṣyā, Japanese: shitsu, Tibetan: phrag dog (BCSD '嫉', p. 367; Mahāvyutpatti 'īrṣyā'; MW 'īrṣyā'; SH '嫉', p. 398; Unihan '嫉')	8007839
+8007840	阿黎耶识	阿黎耶識	alíyéshí	ālayavijñāna; alaya consciousness; storehouse consciousness; foundational consciousness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿賴耶識 (FGDB '阿賴耶識')	8007840
