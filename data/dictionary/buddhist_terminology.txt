@@ -2576,10 +2576,10 @@
 8002576	阿哦那	\N	aónà	Agni	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002576
 8002577	恶祁尼	惡祁尼	èqíní	Agni	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002577
 8002578	阿只尼	阿祇尼	azhǐní	Agni	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002578
-8002579	阿耆尼	\N	Āqíní	Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Name of a historic kingdom north of Lopnor (Ding '阿耆尼'; Eitel 'Agni', p. 6; FGDB '阿耆尼'; SH '阿耆尼', p. 290)	8002579
+8002579	阿耆尼	\N	Āqíní	Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Name of a historic kingdom north of Lopnor (Ding '阿耆尼'; Eitel 'Agni', p. 6; FGDB '阿耆尼國'; SH '阿耆尼', p. 290)	8002579
 8002580	阿耆尼国	阿耆尼國	aqíní guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	(FGDB '阿耆尼國'; Wikipedia '焉耆')	8002580
-8002581	乌耆国	烏耆國	wūqí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 阿耆尼 (FGDB '阿耆尼')	8002581
-8002582	焉耆国	焉耆國	yānqí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼')	8002582
+8002581	乌耆国	烏耆國	wūqí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 阿耆尼 (FGDB '阿耆尼國')	8002581
+8002582	焉耆国	焉耆國	yānqí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002582
 8002583	乌夷国	烏夷國	wūyí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002583
 8002584	婴夷国	嬰夷國	yīngyí guó	Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 阿耆尼 (FGDB '阿耆尼國')	8002584
 8002585	九品	\N	jiǔpǐn	nine grades	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Pureland practice (FGDB '九品'; SH '九品', p. 16)	8002585
@@ -7852,3 +7852,6 @@
 8007852	四界	\N	sì jiè	four dharma realms	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 四法界 (FGDB '四法界')	8007852
 8007853	贤首宗	賢首宗	xiánshǒu zōng	Huayan School; Huayan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	See 華嚴宗 (FGDB '華嚴宗')	8007853
 8007854	娆	嬈	rǎo	disturb; saṃkṣobha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃkṣobha, Japanese: deu (BCSD '嬈', p. 367; MW 'saṃkṣobha'; Unihan '嬈')	8007854
+8007855	法界宗	\N	fǎjiè zōng	Huayan School; Huayan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	See 華嚴宗 (FGDB '華嚴宗')	8007855
+8007856	圆明具德宗	圓明具德宗	yuán míng jù dé zōng	Huayan School; Huayan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	See 華嚴宗 (FGDB '華嚴宗')	8007856
+8007857	乌耆	烏耆	wūqí	Wuqi; Kingdom of Agni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 阿耆尼 (FGDB '阿耆尼國')	8007857
