@@ -3551,7 +3551,7 @@
 8003551	天台法华宗	天台法華宗	tiāntái fǎhuá zōng	Tendai Lotus school	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Tendai-hokke-shū; a school founded by 最澄 Saichō (FGDB '最澄')	8003551
 8003552	根本	\N	gēnběn	mūla; root	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūla, Tibetan: dngos gzhi (BCSD '根本', p. 653; Mahāvyutpatti 'maulam'; MW 'mūla'; SH '根本', p. 327)	8003552
 8003553	大和尚	\N	dà héshang	a senior monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: daiwajō (Abé 1999, p. 557; SH '大和尚', p. 86)	8003553
-8003554	子	\N	zǐ	son; putra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: putra, or: kumāra, Tibetan: bu, Japanese: shi (DJBT '子', p. 436; Mahāvyutpatti 'putraḥ'; MW 'putra'; SH '子', p. 98)	8003554
+8003554	子	\N	zǐ	son; putra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: putra, or: kumāra, Tibetan: bu, Japanese: shi (BCSD '子', p. 368; DJBT '子', p. 436; Mahāvyutpatti 'putraḥ'; MW 'putra'; SH '子', p. 98)	8003554
 8003555	子	\N	zǐ	offspring; tanaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tanaya, Tibetan: bu (Mahāvyutpatti 'putraḥ'; MW 'putra')	8003554
 8003556	真	\N	zhēn	true	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tattva, Japanese: shin (BCSD '眞', p. 876; DJBT '眞', p. 424; MW 'tattva'; SH '眞', p. 331)	8003556
 8003557	眞	\N	zhēn	true	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shin; variant of 真 (DJBT '眞', p. 424; SH '眞', p. 331)	8003557
@@ -7855,3 +7855,27 @@
 8007855	法界宗	\N	fǎjiè zōng	Huayan School; Huayan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	See 華嚴宗 (FGDB '華嚴宗')	8007855
 8007856	圆明具德宗	圓明具德宗	yuán míng jù dé zōng	Huayan School; Huayan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	See 華嚴宗 (FGDB '華嚴宗')	8007856
 8007857	嬉	\N	xī	pleasure; rati	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rati, Japanese: ki (BCSD '嬉', p. 368; MW 'rati'; SH '嬉', p. 431; Unihan '嬉')	8007857
+8007858	染法	\N	rǎnfǎ	kleśa; mental affliction	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, 'polluting dharma'; synonymous with 煩惱 (FGDB '染法')	8007858
+8007859	染污法	\N	rǎnwūfǎ	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 染法 (FGDB '染法')	8007859
+8007860	娇	嬌	jiāo	heart-stealing; mano-hara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mano-hara, Japanese: kyou (BCSD '嬌', p. 368; MW 'mano-hara'; Unihan '嬌')	8007860
+8007861	吉隶舍	吉隸舍	jílìshè	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 煩惱 (FGDB '煩惱')	8007861
+8007862	惑	\N	huò	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 煩惱 (FGDB '煩惱')	8007862
+8007863	须弥留山	須彌留山	xūmíliú shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007863
+8007864	修迷楼山	修迷樓山	xiūmílóu shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007864
+8007865	弥楼山	彌樓山	mílóu shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007865
+8007866	妙高山	\N	miàogāo shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	For example, in the 能斷金剛般若波羅蜜多經論頌 “Verse in praise of the Diamond Sūtra” attributed to Asaṅga (Red Pine 2009, p. 176; T 1514)	8007866
+8007867	好光山	\N	hǎoguāng shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007867
+8007868	好高山	\N	hǎogāo shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007868
+8007869	婴	嬰	yīng	child	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ei (BCSD '嬰', p. 368; Unihan '嬰')	8007869
+8007870	婴儿	嬰兒	yīng ér	child; baby	noun	\N	\N	child	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (BCSD '嬰兒', p. 368; MW 'bāla')	8007870
+8007871	妙智慧	\N	miào zhìhuì	wondrous wisdom and knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '妙智慧')	8007871
+8007872	善高山	\N	shàngāo shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007872
+8007873	善积山	善積山	shànjī shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007873
+8007874	妙光山	\N	miàoguāng shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007874
+8007875	嬾	\N	lǎn	slothful; ālasya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ālasya, Japanese: ran (BCSD '嬾', p. 368; MW 'ālasya'; Unihan '嬾')	8007875
+8007876	安明由山	\N	ānmíngyóu shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007876
+8007877	须弥入芥子	須彌入芥子	Xūmírùjièzǐ	Mount Sumeru is like a mustard seed	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A Chan saying on nonduality coined from the Vimalakīrti Sūtra  (FGDB '須彌入芥子')	8007877
+8007878	芥子加持	\N	jièzǐjiāchí	holding mustard seeds	set phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Used in esoteric Buddhist rituals (FGDB '芥子加持')	8007878
+8007879	孔	\N	kǒng	hole; chidra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chidra, Japanese: kou, Tibetan: bu ga (BCSD '孔', p. 368; Mahāvyutpatti 'chidram'; MW 'chidra'; SH '孔', p. 148; Unihan '孔')	8007879
+8007880	七宝粥	七寶粥	qībǎozhōu	seven treasures gruel	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Magically manifested from flowers of the seven treasures (FGDB '七寶粥')	8007880
+8007881	南牟	\N	nánmóu	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007881
