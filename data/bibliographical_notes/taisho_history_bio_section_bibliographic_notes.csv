@@ -1,19 +1,19 @@
 reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,attribution_method_zh,attribution_en,attribution_method_en,dynasty_zh,dynasty_en,date_range,summary,notes,previous_source,source_url,source_access_date,section
-2026,49,1,撰集三藏及雜藏傳,Zhuanji San Zang Ji Za Zang Chuan,,失,譯,Unknown,Composed,,,317-420,,,,http://tripitaka.cbeta.org/T49n2026,2016-10-29,Histories and Biographies
-2027,,,,,,,,,,,,,,,,,,
-2028,,,,,,,,,,,,,,,,,,
-2029,,,,,,,,,,,,,,,,,,
-2030,,,,,,,,,,,,,,,,,,
-2031,,,,,,,,,,,,,,,,,,
-2032,,,,,,,,,,,,,,,,,,
-2033,,,,,,,,,,,,,,,,,,
-2034,,,,,,,,,,,,,,,,,,
-2035,,,,,,,,,,,,,,,,,,
-2036,,,,,,,,,,,,,,,,,,
-2037,,,,,,,,,,,,,,,,,,
-2038,,,,,,,,,,,,,,,,,,
-2039,,,,,,,,,,,,,,,,,,
-2040,,,,,,,,,,,,,,,,,,
+2026,49,1,撰集三藏及雜藏傳,Zhuanji San Zang Ji Za Zang Chuan,,失,譯,Unknown,Translated,,,317-420,,"Date 317-420 from Lancaster (2004, 'K 1022')",Korean Canon,http://tripitaka.cbeta.org/T49n2026,2016-10-29,Histories and Biographies
+2027,49,1,迦葉結經,Jiaye Jie Jing,,安世高,譯,An Shigao,Translated,後漢,Later Han,148-170,,"Date 148-170 from Lancaster (2004, 'K 1027')",Korean Canon,http://tripitaka.cbeta.org/T49n2027,2016-10-29,Histories and Biographies
+2028,49,1,迦丁比丘說當來變經,Jia Ding Biqiu Shuo Dang Lai Bian Jing,,失,譯,Unknown,Translated,,,420-479,,"Date 420-479 from Lancaster (2004, 'K 1034')",Korean Canon,http://tripitaka.cbeta.org/T49n2028,2016-10-29,Histories and Biographies
+2029,49,1,佛使比丘迦旃延說法沒盡偈百二十章,Fo Shi Biqiu Jiazhanyan Shuofa Mei Jin Ji Bai Ershi Zhang,,失,譯,Unknown,Translated,,,265-317,,"Date 265-317 from Lancaster (2004, 'K 993')",Korean Canon,http://tripitaka.cbeta.org/T49n2029,2016-10-29,Histories and Biographies
+2030,49,1,大阿羅漢難提蜜多羅所說法住記,Da Aluohan Nanti Mi Duoluo Suo Shuofa Zhu Ji,Nandimitrāvadāna,玄奘,譯,Xuanzang,Translated,唐,Tang,654,,"Sanskrit title and date 654 from Lancaster (2004, 'K 1046')",Korean Canon,http://tripitaka.cbeta.org/T49n2030,2016-10-29,Histories and Biographies
+2031,49,1,異部宗輪論,Yi Bu Zong Lun Lun,The Cycle of the Formation of the Schismatic Doctrines,世友菩薩、玄奘,造,Vasumitra and Xuanzang,Composed,唐,Tang,662,,Sanskrit title and date 662 from Lancaster,Korean Canon,http://tripitaka.cbeta.org/T49n2031,2016-10-29,Histories and Biographies
+2032,49,1,十八部論,Shiba Bu Lun,Samayabhedoparacanacakra,真諦,譯,Paramārtha,Translated,陳,Chen,557-569,,Sanskrit title and date 557-569 from Lancaster,Korean Canon,http://tripitaka.cbeta.org/T49n2032,2016-10-29,Histories and Biographies
+2033,49,1,部執異論,Bu Zhi Yi Lun,Samayabhedoparacanacakra,天友菩薩、真諦,造,Vasumitra and Paramārtha,Composed,陳,Chen,557-569,,Sanskrit title and date 557-569 from Lancaster,Korean Canon,http://tripitaka.cbeta.org/T49n2033,2016-10-29,Histories and Biographies
+2034,49,15,歷代三寶紀,Lidai San Bao Ji,Records of the Three Treasures Throughout the Successive Dynasties,費長房,撰,Fei Zhang Fang,Composed,隋,Sui,597,,Date 597 from Lancaster,Korean Canon,http://tripitaka.cbeta.org/T49n2034,2016-10-29,Histories and Biographies
+2035,49,54,佛祖統紀,Fo Zu Tong Ji,A Chronicle of Buddhism in China,志磐,撰,Zhi Pan,Composed,宋,Song,,,,,http://tripitaka.cbeta.org/T49n2035,2016-10-29,Histories and Biographies
+2036,49,,,,,,,,,,,,,,,,,
+2037,49,,,,,,,,,,,,,,,,,
+2038,49,,,,,,,,,,,,,,,,,
+2039,49,,,,,,,,,,,,,,,,,
+2040,50,,,,,,,,,,,,,,,,,
 2041,,,,,,,,,,,,,,,,,,
 2042,,,,,,,,,,,,,,,,,,
 2043,,,,,,,,,,,,,,,,,,
@@ -58,7 +58,7 @@ reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,att
 2082,,,,,,,,,,,,,,,,,,
 2083,,,,,,,,,,,,,,,,,,
 2084,,,,,,,,,,,,,,,,,,
-2085,,,,,,,,,,,,,,,,,,
+2085,51,,,,,,,,,,,,,,,,,
 2086,,,,,,,,,,,,,,,,,,
 2087,51,12,大唐西域記,Da Tang Xi Yu Ji,The Great Tang Dynasty Record of the Western Regions,玄奘、辯機,撰,Xuanzang and Bian Ji,Composed,唐,Tang,646,,,,http://tripitaka.cbeta.org/T51n2087,2016-10-31,Histories and Biographies
 2088,,,,,,,,,,,,,,,,,,
