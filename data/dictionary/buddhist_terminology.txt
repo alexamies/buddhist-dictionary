@@ -6115,7 +6115,7 @@
 8006115	不二门	不二門	bù èr mén	Non-duality gate	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FoguangPedia)	8006115
 8006116	五百罗汉	五百羅漢	wǔ bǎi luóhàn	Five Hundred Arhats	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五百羅漢'; SH '五百羅漢', p. 122)	8006116
 8006117	如	\N	rú	thus; tathā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathā, Japanese: nyo, Tibetan: de bzhin (BCSD '如', p. 342; DJBT '如', p. 429; Mahāvyutpatti 'tathā'; MW 'tathā'; SH '如', p. 210)	8006117
-8006118	孝	\N	xiào	filial	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kō, or: kyō (DJBT '孝', p. 428; SH '孝', p. 210)	8006118
+8006118	孝	\N	xiào	filial; vaśya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśya, Japanese: kō, or: kyō (BCSD '孝', p. 369; DJBT '孝', p. 428; MW 'vaśya'; SH '孝', p. 210)	8006118
 8006119	如	\N	rú	like; iva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iva (BCSD '如', p. 342; MW 'iva'; SH '如', p. 210)	8006117
 8006120	五观堂	五觀堂	wǔ guān táng	dining hall	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '五觀堂')	8006120
 8006121	功德主	\N	gōngdé zhǔ	a benefactor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '功德主')	8006121
@@ -7879,3 +7879,15 @@
 8007879	孔	\N	kǒng	hole; chidra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chidra, Japanese: kou, Tibetan: bu ga (BCSD '孔', p. 368; Mahāvyutpatti 'chidram'; MW 'chidra'; SH '孔', p. 148; Unihan '孔')	8007879
 8007880	七宝粥	七寶粥	qībǎozhōu	seven treasures gruel	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Magically manifested from flowers of the seven treasures (FGDB '七寶粥')	8007880
 8007881	南牟	\N	nánmóu	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007881
+8007882	南谟	南謨	nánmó	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007882
+8007883	存	\N	cún	existing; jīva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jīva, Japanese: son, or: zon (BCSD '存', p. 369; MW 'jīva'; SH '存', p. 211; Unihan '存')	8007883
+8007884	南摩	\N	nánmó	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007884
+8007885	曩莫	\N	nǎngmò	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007885
+8007886	孛	\N	bèi	blossom; puṣya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṣya, Japanese: botsu, or: hai (BCSD '孛', p. 369; MW 'puṣya'; SH '孛', p. 236; Unihan '孛')	8007886
+8007887	纳莫	納莫	nàmò	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007887
+8007888	归命	歸命	guīmìng	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007888
+8007889	孟	\N	mèng	upper part; śīrṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīrṣa, Japanese: mou, or: myou, or: man (BCSD '孟', p. 369; MW 'śīrṣa'; SH '孟', p. 254; Unihan '孟')	8007889
+8007890	信从	信從	xìncóng	namo; to pay respect to; homage	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '南無')	8007890
+8007891	遍知	\N	biànzhī	to know; to understand; parijñā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parijñā (BCSD '遍知'; MW 'parijñā')	8007891
+8007892	季	\N	jì	younger; kanīyas	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kanīyas, Japanese: ki (BCSD '季', p. 369; Mahāvyutpatti 'kanīyān'; MW 'kanīyas'; Unihan '季')	8007892
+8007893	徧知	\N	biànzhī	to be omniscient; to be all knowing	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 遍知 (BCSD '遍知')	8007893
