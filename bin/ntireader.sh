@@ -25,6 +25,7 @@ A=taisho_agama_section
 AB=taisho_abhidharma_section
 C=taisho_compilation_section
 E=taisho_agama_section
+H=taisho_history_bio_section
 J=taisho_jataka_avadana_section
 L=taisho_lotus_huayan_section
 M=taisho_misc_section
@@ -58,7 +59,8 @@ cat ${BIB}/${A}_ref2file.csv \
   ${BIB}/${SC}_ref2file.csv \
   ${BIB}/${SSC}_ref2file.csv \
   ${BIB}/${SCS}_ref2file.csv \
-  ${BIB}/${VC}_ref2file.csv > ${BIB}/ref2file.csv 
+  ${BIB}/${VC}_ref2file.csv \
+  ${BIB}/${H}_ref2file.csv > ${BIB}/ref2file.csv 
 cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${J}_english_translations.csv \
   ${BIB}/${P}_english_translations.csv \
@@ -77,7 +79,8 @@ cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${SC}_english_translations.csv \
   ${BIB}/${SSC}_english_translations.csv \
   ${BIB}/${SCS}_english_translations.csv \
-  ${BIB}/${VC}_english_translations.csv > ${BIB}/english_translations.csv 
+  ${BIB}/${VC}_english_translations.csv \
+  ${BIB}/${H}_english_translations.csv > ${BIB}/english_translations.csv 
 cat ${BIB}/${A}_parallels.csv \
   ${BIB}/${J}_parallels.csv \
   ${BIB}/${P}_parallels.csv \
