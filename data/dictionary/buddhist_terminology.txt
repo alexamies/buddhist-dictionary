@@ -68,7 +68,7 @@
 8000068	善知识	善知識	shànzhīshi	Dharma Friends; kalyāṇamitra; kalyāṇamitta; kalyanamitra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalyāṇamitra, Pali: kalyāṇamitta, Japanese: zenchishiki, Tibetan: dge ba'i bshes gnyen; someone who is upright and moral in conduct and can teach the Dharma correctly; FGS translation standard: Dharma Friends (BL 'kalyāṇamitra', p. 410; Ding '善友'; Tzu Chuang 2012; FGDB '迦羅蜜'; SH '善友')	8000068
 8000069	四相	\N	sì xiāng	four notions; four forms; four manifestations of self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the Diamond Sutra, the four notions or forms are notion of self 我相、 notions of people 人相、 notions of sentient beings 众生相、 and notions of a lifespan 寿者相 (FGDB '四相')	8000069
 8000070	寺刹	寺剎	sìshā	temple; monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寺院 (FGDB '寺院')	8000070
-8000071	宗	\N	zōng	thesis; conclusion; tenet; siddhānta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zong1.mp3	Sanskrit equivalent: siddhānta, Japanese: shū; a concept in Buddhist logic (BL 'siddhānta'; FGDB '宗'; Bak, Bak 2017. ”An Anthology of East Asian Commentaries on the Nyāyapraveśa”, Seoul, Korea: Jogye Order of Korean Buddhism)	8000071
+8000071	宗	\N	zōng	thesis; conclusion; tenet; siddhānta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zong1.mp3	Sanskrit equivalent: siddhānta, Japanese: shū, Tibetan: grub pa'i mtha'; a concept in Buddhist logic (BCSD '宗', p. 375; BL 'siddhānta'; FGDB '宗'; Mahāvyutpatti 'siddhāntaḥ'; Bak 2017, ”An Anthology of East Asian Commentaries on the Nyāyapraveśa”, Seoul, Korea: Jogye Order of Korean Buddhism)	8000071
 8000072	頞鞞	\N	Èbī	Upasena	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the first five followers of the Buddha (SH '頞鞞', p. 446)	8000072
 8000073	佛驮	佛馱	fóduò	Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Alternative writing of 佛陀 (FGDB '佛陀')	8000073
 8000074	浮头	浮頭	fútóu	Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Alternative writing of 佛陀 (FGDB '佛陀')	8000074
@@ -7867,7 +7867,7 @@
 8007867	好光山	\N	hǎoguāng shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007867
 8007868	好高山	\N	hǎogāo shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007868
 8007869	婴	嬰	yīng	child	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ei (BCSD '嬰', p. 368; Unihan '嬰')	8007869
-8007870	婴儿	嬰兒	yīng ér	child; baby	noun	\N	\N	child	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (BCSD '嬰兒', p. 368; MW 'bāla')	8007870
+8007870	婴儿	嬰兒	yīng ér	child; baby	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (BCSD '嬰兒', p. 368; MW 'bāla')	8007870
 8007871	妙智慧	\N	miào zhìhuì	wondrous wisdom and knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '妙智慧')	8007871
 8007872	善高山	\N	shàngāo shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007872
 8007873	善积山	善積山	shànjī shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007873
@@ -7900,3 +7900,44 @@
 8007900	染污心	\N	rǎnwūxīn	afflicted mind; kliṣṭa-citta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 染心 (FGDB '染心')	8007900
 8007901	染	\N	rǎn	tormented; afflicted; distressed; kliṣṭa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kliṣṭa (BCSD '染'; FGDB '染污'; MW 'kliṣṭa')	8007901
 8007902	孤	\N	gū	single; solitary; pratyeka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyeka, Japanese: ko (BCSD '孤', p. 370; MW 'pratyeka'; SH '孤', p. 254; Unihan '孤')	8007902
+8007903	染污	\N	rǎnwū	tormented; afflicted; distressed; kliṣṭa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kliṣṭa (BCSD '染污'; FGDB '染污'; MW 'kliṣṭa')	8007903
+8007904	三细六粗	三細六粗	sān xì liù cū	three subtle aspects and six coarse aspects	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Refers to concepts in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論, the three are: (1) 無明業相 activity of ignorance, (2) 能見相 perceiving the subject, and (3) 境界相 world of objects. The six coarse aspects are: (1) 智相 discriminating intellect, (2) 相續相 aspect of continuity, (3) 執取相 aspect of attachment, (4) 計名字相 aspect of use of names and letters, (5) 起業相 aspect of giving rise to karma, (6) 業繫苦相 aspect of suffering from karmic connections   (Ding '三細六麤'; FGDB '三細六粗')	8007904
+8007905	遍知	\N	biànzhī	to be omniscient; to be all knowing	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '遍知')	8007905
+8007906	四镜	四鏡	sì jìng	four kinds of mirror	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Refers to the four kinds of mirror mentioned in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論: 1. 如實空鏡 empty mirror, 2. 因薰習鏡 influencing mirror, 3. 因薰習鏡 mirror free from defiled objects, 4.  (Aśvaghoṣa and Hakeda 2006, p. 47; FGDB '四鏡'; T 1666)	8007906
+8007907	随分觉	隨分覺	suífēn jué	partial enlightenment; approximate enlightenment	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Mentioned in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論 (FGDB '隨分覺'; T 1666)	8007907
+8007908	出世间	出世間	chūshìjiān	transcendental world; lokottara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokottara, Pali: lokuttara, Japanese: shusseken (BL 'chūshìjiān'; FGDB '出世間')	8007908
+8007909	沙弥戒	沙彌戒	shāmíjiè	the novice precepts; Sramanera Precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '沙彌戒'; FGDB '沙彌戒'; Hsing Yun 2010, p. 6; SH '沙彌戒')	8007909
+8007910	孩	\N	hái	child; kumāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kumāra (BCSD '孩', p. 370)	8007910
+8007911	鉢	\N	bō	an alms bowl; patra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patra; variant of 钵 (Unihan '鉢')	8007911
+8007912	善授	\N	shànshòu	sudatta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '善授', p. 264)	8007912
+8007913	海单	海單	hǎidān	multiple lodging	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hundred Lessons)	8007913
+8007914	破见	破見	pòjiàn	to break the precepts; to break away from righteous view; to deviate from righteous views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hundred Lessons)	8007914
+8007915	孙	孫	sūn	ograndson; naptṛ	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naptṛ, Tibetan: tsha bo (BCSD '孩', p. 370; Mahāvyutpatti 'naptā'; SH '孩', p. 323)	8007915
+8007916	作持	\N	zuòchí	prescriptive observance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kartṛtvagrāha (Hsing Yun 2010; Mahāvyutpatti 'kartṛtvagrāhaḥ')	8007916
+8007917	因人	\N	yīn rén	the circumstances of people	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Those still producing karma and subject to reincarnation (Hsing Yun 2010; SH '因人', p. 205)	8007917
+8007918	三坛	三壇	sāntán	the three platforms	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun 2010)	8007918
+8007919	孰	\N	shú	kaḥ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaḥ (BCSD '孰', p. 370)	8007919
+8007920	四证净	四證淨	sì zhèng jìng	four actualizations of purity	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(DDB)	8007920
+8007921	比丘尼戒	\N	bìqiūní jiè	the nun's precepts; Bhiksuni Precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '比丘尼戒'; FGDB '比丘尼戒'; Hsing Yun 2010, p. 6; SH '比丘尼戒')	8007921
+8007922	戒香	\N	jièxiāng	the fragrance of discipline	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun &amp; Huineng 2010, ”The Rabbit's Horn: A Commentary on the Platform Sutra”, Buddha's Light Publishing, Los Angeles SH '戒香', p. 240)	8007922
+8007923	佛纥差怛罗	佛紇差怛羅	fó gēchàdáluó	buddha realm, land or country	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhakṣetra (SH '佛紇差怛羅')	8007923
+8007924	善施	\N	shànshī	Sudatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 須達 (FGDB '須達')	8007924
+8007925	须达	須達	xūdá	Sudatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	The personal name of Anāthapiṇḍada, a wealthy elder of Śrāvastī at the time when Śākyamuni was teaching (BL 'Sudatta', p. 862; FGDB '須達')	8007925
+8007926	乐施	樂施	lèshī	Sudatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 須達 (FGDB '須達')	8007926
+8007927	三好运动	三好運動	sān hǎo yùndòng	Three Benevolent Acts Campaign; Three Acts of Goodness Campaign	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hundred Lessons)	8007927
+8007928	比丘戒	\N	bìqiū jiè	the monk's precepts; Bhiksu Precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(DDB '比丘戒'; Hsing Yun 2010, p. 6)	8007928
+8007929	学	學	xué	student; śikṣā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣā, or: śaikṣa, Tibetan: slob pa (BCSD '學', p. 370; Mahāvyutpatti 'śaikṣaḥ'; SH '學', p. 446)	8007929
+8007930	佛戒	\N	fójiè	Buddha precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '佛戒', p. 227)	8007930
+8007931	沙田大会堂	沙田大會堂	shātián dàhuìtáng	Sha Tian Town Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '沙田大會堂')	8007931
+8007932	割肉喂鹰	割肉餵鷹	gē ròu wèi yīng	cut off a piece of his own flesh to feed an eagle	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Reference to a Jataka story (Hsing Yun 2010)	8007932
+8007933	宗	\N	zōng	sect; mata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mata, Tibetan: lugs (BCSD '宗', p. 375; Mahāvyutpatti 'matam'; SH '宗', p. 255)	8000071
+8007934	我慢谛	我慢諦	wǒ màn dì	the truth of conceit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '我慢諦')	8007934
+8007935	以戒为师	以戒為師	yǐ jiè wèi shī	to treat the precepts as their teacher	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun 2010)	8007935
+8007936	因缘果报	因緣果報	yīnyuán guǒbào	the law of karma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun 2010)	8007936
+8007937	防非止恶	防非止惡	fáng fēi zhǐ è	to prevent unwholesome conduct and wrongdoing; a guard against wrong and evil-doing	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hundred Lessons)	8007937
+8007938	给孤独长者	給孤独長者	gěigūdú zhǎngzhě	Anāthapiṇḍada	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 阿那陀擯荼駄 (BL 'Anāthapiṇḍada')	8007938
+8007939	二圆	二圓	èr yuán	two perfect teachings	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A Tiantai school term; namely, the 今圓 'present teachings' of the Lotus sutra and the 昔圓 'previous teachings' (FGDB '二圓'; SH '二圓', p. 23)	8007939
+8007940	摧邪显正	摧邪顯正	cuī xié xiǎn zhèng	to destroy evil and manifest righteousness	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 破邪顯正 (FGDB '破邪顯正')	8007940
+8007941	官	\N	guān	rājan; royal; official	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rājan (BCSD '官', p. 375; SH '官', p. 254)	8007941
+8007942	衆生	\N	zhòngshēng	all living beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 众生 (SH '衆生')	8007942
+8007943	苏达多	蘇達多	sūdáduō	Sudatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	(SH '蘇達多', p. 479)	8007943
