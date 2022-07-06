@@ -5824,9 +5824,9 @@
 7005824	敦煌录	燉煌錄	Dūnhuáng lù	Records of Dunhuang; Dunhuang Lu	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (T 2091)	7005824
 7005825	寺塔记	寺塔記	Sì tǎ Jì	Si Ta Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by Duan Chengshi included in the Chinese Buddhist canon (T 2093)	7005825
 7005826	梁京寺记	梁京寺記	liáng jīng Sì Jì	Liang Jing Si Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (T 2094)	7005826
-7005827	庐山记	廬山記	Lúshān Jì	Lushan Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by Chen Shun Yu included in the Chinese Buddhist canon (T 2095)	7005827
+7005827	庐山记	廬山記	lúshān jì	Records of Lushan; Lushan Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by Chen Shun Yu included in the Chinese Buddhist canon (T 2095)	7005827
 7005828	陈舜俞	陳舜俞	Chén Shùn Yú	Chen Shun Yu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Song dynasty Buddhist monastic credited with compiling 廬山記, included in the Chinese Buddhist canon (BSAD ID A001163; T 2095)	7005828
-7005829	天台山记	天台山記	Tiāntái Shān Jì	Tiantai Shan Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by 徐靈府 Xu Ling Fu included in the Chinese Buddhist canon (T 2096)	7005829
+7005829	天台山记	天台山記	tiāntái shān jì	Records of Taitai Shan; Tiantai Shan Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by 徐靈府 Xu Ling Fu included in the Chinese Buddhist canon (T 2096)	7005829
 7005830	徐灵府	徐靈府	Xú Líng Fǔ	Xu Ling Fu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Song dynasty Buddhist monastic credited with compiling 天台山記, included in the Chinese Buddhist canon (T 2096)	7005830
 7005831	南岳总胜集	南嶽總勝集	nán Yuè Zǒng shèng Jí	Nan Yue Zong Sheng Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by 陳田夫 Chen Tian Fu included in the Chinese Buddhist canon (T 2097)	7005831
 7005832	一个科学者研究佛经的报告	一個科學者研究佛經的報告	yīge kēxuézhě yánjiū fójīng de bàogào	Reports of Buddhist Studies by a Scientist	proper noun	书名	Book Title	佛教	Buddhism	中国	China	\N	\N	(Baidu Baike '一个科学者研究佛经的报告'; Hsing Yun and Miao Guang trans. 2016, p. 373; Worldcat 'A scientist's report on study of Buddhist scriptures')	7005832
@@ -6790,3 +6790,5 @@
 7006790	达罗陀	達羅陀	dáluótuó	Darada	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(CC-CEDICT '達羅陀'; Guoyu '達羅陀'; Wikipedia '達羅陀')	7006790
 7006791	契吒国	契吒國	qìzhàguó	Kiṭa; Kheḍa; Kaccha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	A historic country visited by Xuan Zang, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions”, located in India; see also 凱達 (Ding '契吒'; FGDB '契吒國'; SH '契吒'; T 2087, Scroll 11; Xuanzang and Rongxi Li trans. 1996, p. 285)	7006791
 7006792	契吒	\N	qìzhà	Kiṭa; Kheḍa; Kaccha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 契吒國 (FGDB '契吒國')	7006792
+7006793	跋始婆僧伽蓝	跋始婆僧伽藍	báshǐpó sēngqiēlán	Vāśibhā Monastery	proper noun	寺院	Temple	佛教	Buddhism	印度	India	\N	\N	Name of a monastery located in East Bengal, mentioned in 大唐西域記 “The Great Tang Dynasty Record of the Western Regions” by Xuan Zang (FGDB '奔那伐彈那國'; T 2087, Scroll 10, 51.0927a25; Xuanzang and Li, Rongxi ed. 2017, p. 264)	7006793
+7006794	跋始婆	跋始婆	báshǐpó	Vāśibhā	proper noun	寺院	Temple	佛教	Buddhism	印度	India	\N	\N	See 跋始婆僧伽藍 (FGDB '奔那伐彈那國')	7006794
