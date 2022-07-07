@@ -33,11 +33,11 @@ reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,att
 2056,50,1,大唐故大德贈司空大辨正廣智不空三藏行狀,Da Tang Gu Dade Zeng Sikong Da Bian Zheng Guang Zhi Bu Kong San Zang Xing Zhuang,,趙遷,撰,Zhao Qian,Composed,唐,Tang,,,,,http://tripitaka.cbeta.org/T50n2056,2016-10-30,Histories and Biographies
 2057,50,1,大唐青龍寺三朝供奉大德行狀,Da Tang Qing Long Si San Chao Gongfeng Dade Xing Zhuang,,,,,,,,,,,,http://tripitaka.cbeta.org/T50n2057,2016-10-30,Histories and Biographies
 2058,50,6,付法藏因緣傳,Fu Fa Zang Yinyuan Zhuan,,吉迦夜共曇曜,譯,Kekaya and Tan Yao,Translated,元魏,Northern Wei,,,"Date 472 from Lancaster (2004, 'K 990')",Korean Canon,http://tripitaka.cbeta.org/T50n2058,2016-10-30,Histories and Biographies
-2059,50,14,高僧傳,Gao Seng Zhuan,Biographies of Eminent Monks,慧皎,撰,Hui Jiao,Composed,梁,Liang,,,"Date 519 from Lancaster (2004, 'K 1074'). See Bingenheimer for additional partial translations, <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">http://mbingenheimer.net/tools/bibls/transbibl.html</a>.",Korean Canon,http://tripitaka.cbeta.org/T50n2059,2016-10-30,Histories and Biographies
+2059,50,14,高僧傳,Gao Seng Zhuan,Biographies of Eminent Monks,慧皎,撰,Hui Jiao,Composed,梁,Liang,,,"Date 519 from Lancaster (2004, 'K 1074'). See <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">Bingenheimer</a> for citations of additional partial translations.",Korean Canon,http://tripitaka.cbeta.org/T50n2059,2016-10-30,Histories and Biographies
 2060,50,30,續高僧傳,Xu Gao Seng Zhuan,Supplement to the Biographies of Eminent Monks,道宣,撰,Dao Xuan,Composed,唐,Tang,,,"Date 649 from Lancaster (2004, 'K 1075')",Korean Canon,http://tripitaka.cbeta.org/T50n2060,2016-10-30,Histories and Biographies
-2061,50,30,宋高僧傳,Song Gao Seng Zhuan,Song Biographies of Eminent Monks,贊寧等,撰,Zan Ning and others,Composed,宋,Song,,,"See Bingenheimer for additional partial translations, <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">http://mbingenheimer.net/tools/bibls/transbibl.html</a>.",,http://tripitaka.cbeta.org/T50n2061,2016-10-30,Histories and Biographies
+2061,50,30,宋高僧傳,Song Gao Seng Zhuan,Song Biographies of Eminent Monks,贊寧等,撰,Zan Ning and others,Composed,宋,Song,,,"See <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">Bingenheimer</a> for citations of additional partial translations.",,http://tripitaka.cbeta.org/T50n2061,2016-10-30,Histories and Biographies
 2062,50,8,大明高僧傳,Ming Gao Seng Zhuan,Ming Biographies of Eminent Monks,如惺,撰,Ru Xing,Composed,明,Ming,,,,,http://tripitaka.cbeta.org/T50n2062,2016-10-30,Histories and Biographies
-2063,50,4,比丘尼傳,Biqiuni Zhuan,Biographies of Buddhist Nuns,寶唱,撰,Bao Chao,Composed,梁,Liang,,,"Date 516 from Lancaster (2004, 'K 1086'). See Bingenheimer for additional partial translations, <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">http://mbingenheimer.net/tools/bibls/transbibl.html</a>.",Korean Canon,http://tripitaka.cbeta.org/T50n2063,2016-10-30,Histories and Biographies
+2063,50,4,比丘尼傳,Biqiuni Zhuan,Biographies of Buddhist Nuns,寶唱,撰,Bao Chao,Composed,梁,Liang,,,"Date 516 from Lancaster (2004, 'K 1086'). See <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">Bingenheimer</a> for citations of additional partial translations.",Korean Canon,http://tripitaka.cbeta.org/T50n2063,2016-10-30,Histories and Biographies
 2064,50,9,神僧傳,Shen Seng Zhuan,,,,,,,,,,,,http://tripitaka.cbeta.org/T50n2064,2016-10-30,Histories and Biographies
 2065,50,2,海東高僧傳,Hai Dong Gao Seng Zhuan,,覺訓,撰,Jue Xun,Composed,高麗,Korean Goryeo,,,,,http://tripitaka.cbeta.org/T50n2065,2016-10-30,Histories and Biographies
 2066,51,2,大唐西域求法高僧傳,Da Tang Xi Yu Qiu Fa Gao Seng Zhuan,The Great Tang Biographies of Eminent Monks who Sought the Dharma in the Western Regions,義淨,撰,Yi Jing,Composed,唐,Tang,,,"Date 700-711 from Lancaster (2004, 'K 1072')",Korean Canon,http://tripitaka.cbeta.org/T51n2066,2016-10-30,Histories and Biographies
@@ -50,7 +50,7 @@ reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,att
 2073,51,5,華嚴經傳記,Huayan Jing Zhuanji,,法藏,集,Fa Zang,Compiled,唐,Tang,,,,,http://tripitaka.cbeta.org/T51n2073,2016-10-31,Histories and Biographies
 2074,51,1,大方廣佛華嚴經感應傳,Dafang Guang Fo Huayan Jing Ganying Zhuan,,惠英撰．胡幽貞,纂,Hui Ying and Hu You Zhen,Compiled,唐,Tang,,,,,http://tripitaka.cbeta.org/T51n2074,2016-10-31,Histories and Biographies
 2075,51,1,曆代法寶記,Li Dai Fabao Ji,,,,,,,,,,,,http://tripitaka.cbeta.org/T51n2075,2016-10-31,Histories and Biographies
-2076,51,30,景德傳燈錄,Jingde Zhuan Deng Lu,Records of the Transmission of the Lamp,道原,纂,Dao Yuan,Compiled,宋,Song,,,"See Bingenheimer for additional partial translations, <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">http://mbingenheimer.net/tools/bibls/transbibl.html</a>.",,http://tripitaka.cbeta.org/T51n2076,2016-10-31,Histories and Biographies
+2076,51,30,景德傳燈錄,Jingde Zhuan Deng Lu,Records of the Transmission of the Lamp,道原,纂,Dao Yuan,Compiled,宋,Song,,,"See <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">Bingenheimer</a> for citations of additional partial translations.",,http://tripitaka.cbeta.org/T51n2076,2016-10-31,Histories and Biographies
 2077,51,36,續傳燈錄,Xu Zhuan Deng Lu,Supplement to Records of the Transmission of the Lamp,居頂,輯,Ju Ding,Compiled,明,Ming,,,,,http://tripitaka.cbeta.org/T51n2077,2016-10-31,Histories and Biographies
 2078,51,9,傳法正宗記,Chuan Fa Zhengzong Ji,,契嵩,編,Qi Song,Compiled,宋,Song,,,,,http://tripitaka.cbeta.org/T51n2078,2016-10-31,Histories and Biographies
 2079,51,1,傳法正宗定祖圖,Chuan Fa Zhengzong Ding Zu Tu,,契嵩,撰,Qi Song,Composed,宋,Song,,,,,http://tripitaka.cbeta.org/T51n2079,2016-10-31,Histories and Biographies
@@ -76,16 +76,16 @@ reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,att
 2099,51,3,廣清涼傳,Guang Qingliang Zhuan,,延一,編,Yan Yi,Compiled,宋,Song,,,,,http://tripitaka.cbeta.org/T51n2099,2016-11-01,Histories and Biographies
 2100,51,2,續清涼傳,Xu Qingliang Zhuan,,張商英,述,Zhang Shang Ying,Narrated,宋,Song,,,,,http://tripitaka.cbeta.org/T51n2100,2016-11-01,Histories and Biographies
 2101,51,1,補陀洛迦山傳,Bu Tuo Luo Jia Shan Zhuan,,盛熙明,述,Cheng Xi Ming,Narrated,元,Yuan,,,,,http://tripitaka.cbeta.org/T51n2101,2016-11-01,Histories and Biographies
-2102,52,14,弘明集,Hongming Ji,Collection on the Propagation and Clarification of Buddhism,僧祐,撰,Seng You,Composed,梁,Liang,,,"Date 502-518 from Lancaster (2004, 'K 1080'). See Bingenheimer for citations of additional partial translations.",Korean Canon,http://tripitaka.cbeta.org/T52n2102,2016-11-01,Histories and Biographies
-2103,52,30,廣弘明集,Guang Hong Ming Ji,,道宣,撰,Dao Xuan,Composed,唐,Tang,,,"Date 649 from Lancaster (2004, 'K 1081'). See Bingenheimer for citations of additional partial translations.",Korean Canon,http://tripitaka.cbeta.org/T52n2103,2016-11-01,Histories and Biographies
+2102,52,14,弘明集,Hongming Ji,Collection on the Propagation and Clarification of Buddhism,僧祐,撰,Seng You,Composed,梁,Liang,,,"Date 502-518 from Lancaster (2004, 'K 1080'). See <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">Bingenheimer</a> for citations of additional partial translations.",Korean Canon,http://tripitaka.cbeta.org/T52n2102,2016-11-01,Histories and Biographies
+2103,52,30,廣弘明集,Guang Hong Ming Ji,,道宣,撰,Dao Xuan,Composed,唐,Tang,,,"Date 649 from Lancaster (2004, 'K 1081'). See <a href=""http://mbingenheimer.net/tools/bibls/transbibl.html"">Bingenheimer</a> for citations of additional partial translations.",Korean Canon,http://tripitaka.cbeta.org/T52n2103,2016-11-01,Histories and Biographies
 2104,52,4,集古今佛道論衡,Ji Gu Jin Fodao Lun Heng,,道宣,撰,Dao Xuan,Composed,唐,Tang,,,"Date 661-664 from Lancaster (2004, 'K 1066')",Korean Canon,http://tripitaka.cbeta.org/T52n2104,2016-11-01,Histories and Biographies
-2105,52,,,,,,,,,,,,,,,,,
-2106,52,,,,,,,,,,,,,,,,,
-2107,52,,,,,,,,,,,,,,,,,
-2108,52,,,,,,,,,,,,,,,,,
-2109,52,,,,,,,,,,,,,,,,,
-2110,52,,,,,,,,,,,,,,,,,
-2111,52,,,,,,,,,,,,,,,,,
+2105,52,1,續集古今佛道論衡,Xu Ji Gu Jin Fodao Lun Heng,,智昇,撰,Zhi Sheng,Composed,唐,Tang,,,"Date 730 from Lancaster (2004, 'K 1067')",Korean Canon,http://tripitaka.cbeta.org/T52n2105,2016-11-01,Histories and Biographies
+2106,52,3,集神州三寶感通錄,Ji Shenzhou San Bao Gan Tong Lu,,道宣,撰,Dao Xuan,Composed,唐,Tang,,,"Date 664 from Lancaster (2004, 'K 1069')",Korean Canon,http://tripitaka.cbeta.org/T52n2106,2016-11-01,Histories and Biographies
+2107,52,1,道宣律師感通錄,Dao Xuan Lushi Gan Tong Lu,,道宣,撰,Dao Xuan,Composed,唐,Tang,,,"Date 664 from Lancaster (2004, 'K 1070')",Korean Canon,http://tripitaka.cbeta.org/T52n2107,2016-11-01,Histories and Biographies
+2108,52,6,集沙門不應拜俗等事,Ji Shamen Bu Ying Bai Su Deng Shi,,彥悰,纂錄,Yan Cong,Recorded,唐,Tang,,,"Date 662 from Lancaster (2004, 'K 1068')",Korean Canon,http://tripitaka.cbeta.org/T52n2108,2016-11-01,Histories and Biographies
+2109,52,2,破邪論,Po Xie Lun,,法琳,撰,Fa Lin,Composed,唐,Tang,,,"Date 626 from Lancaster (2004, 'K 1077')",Korean Canon,http://tripitaka.cbeta.org/T52n2109,2016-11-01,Histories and Biographies
+2110,52,8,辯正論,Bian Zheng Lun,,法琳,撰,Fa Lin,Composed,唐,Tang,,,"Date 626 from Lancaster (2004, 'K 1076')",Korean Canon,http://tripitaka.cbeta.org/T52n2110,2016-11-01,Histories and Biographies
+2111,52,3,十門辯惑論,Shi Men Bian Huo Lun,,復禮,撰,Fu Li,Composed,唐,Tang,,,"Date 681 from Lancaster (2004, 'K 1079')",Korean Canon,http://tripitaka.cbeta.org/T52n2111,2016-11-01,Histories and Biographies
 2112,52,,,,,,,,,,,,,,,,,
 2113,52,,,,,,,,,,,,,,,,,
 2114,52,,,,,,,,,,,,,,,,,
