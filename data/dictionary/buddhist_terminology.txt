@@ -6171,7 +6171,7 @@
 8006171	达磨一心戒	達磨一心戒	dámó yī xīn jiè	Bodhidharma One Mind precepts	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 禪戒 (FGDB '禪戒')	8006171
 8006172	达磨一乘戒	達磨一乘戒	dámó yī shèng jiè	Bodhidharma One Vehicle precepts	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 禪戒 (FGDB '禪戒')	8006172
 8006173	力	\N	lì	strength; power; bala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bala, Tibetan: stobs (BCSD '力', p. 198; Mahāvyutpatti 'balam'; MW 'bala'; SH '力', p. 41)	8006173
-8006174	实	實	shí	truth; reality; tattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tattva (BCSD '實', p. 386; MW 'tattva'; SH '實', p. 422)	8006174
+8006174	实	實	shí	truth; reality; tattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tattva, Japanese: jitsu, or: shitsu (BCSD '實', p. 386; MW 'tattva'; SH '實', p. 422; Unihan '實')	8006174
 8006175	禅门	禪門	chán mén	Chan school	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '禪門')	8006175
 8006176	大乐	大樂	dà lè	great bliss; mahāsukha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A frequently used term in Mahāyāna texts (BL 'mahāsukha')	8006176
 8006177	虚空界	虛空界	xūkōng jiè	visible space	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '虛空界'; SH '虛空界', p. 389)	8006177
@@ -7991,4 +7991,12 @@
 8007991	成办诸事真言	成辦諸事真言	chéngbàn zhūshì zhēnyán	mantra for doing work	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 辦事真言 (FGDB '辦事真言')	8007991
 8007992	沙弥十戒	沙彌十戒	shāmí shí jiè	the ten precepts for novice monks	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '沙彌十戒'; Hsing Yun 2010)	8007992
 8007993	饶益有情戒	饒益有情戒	ráo yì yǒuqíng jiè	the precepts for benefiting living beings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三聚淨戒 'three categories of the pure precepts'; same as 攝眾生戒 (Ding '饒益有情戒'; FGDB '饒益有情戒'; Hsing Yun 2010, p. 3)	8007993
-8007994	寝	寢	qǐn	resting; śayana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śayana, Japanese: shin (BCSD '寡寢', p. 386; MW 'śayana'; Unihan '寢')	8007994
+8007994	寝	寢	qǐn	resting; śayana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śayana, Japanese: shin (BCSD '寢', p. 386; MW 'śayana'; Unihan '寢')	8007994
+8007995	十二部	\N	shí èr bù	Twelve Divisions of Sutras	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十二部經'; Tzu Chuang 2012 'Sutras, Twelve Divisions of')	8007995
+8007996	正法久住	\N	zhèngfǎ jiǔzhù	the right Dharma will last for a long time	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五種法令正法久住'; Hsing Yun 2010)	8007996
+8007997	摄善法戒	攝善法戒	shè shàn fǎ jiè	the precepts for wholesome deeds	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三聚淨戒 'three categories of pure precepts' (Ding '攝善法戒'; FGDB '攝善法戒'; Hsing Yun 2010, p. 3)	8007997
+8007998	差多立罗	差多立羅	chàduōlìluó	land or realm of a Buddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra (Ding '金剎')	8007998
+8007999	寤	\N	wù	waking; jāgarita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāgarita, Japanese: go (BCSD '寤', p. 386; MW 'jāgarita'; Unihan '寤')	8007999
+8008000	根本戒	\N	gēnběn jiè	the fundamental precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '戒'; Hundred Lessons)	8008000
+8008001	毘舍佉母	\N	píshèqūmǔ	Mṛgāra-mātṛ	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	(BCSD '毘舍佉母')	8008001
+8008002	宁	寧	nìng	tranquillity; kṣema	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣema, Japanese: nei, or: nyou (BCSD '寧', p. 388; MW 'kṣema'; SH '寧', p. 422; Unihan '寧')	8008002
