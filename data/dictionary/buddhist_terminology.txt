@@ -4569,7 +4569,7 @@
 8004569	妙	\N	miào	wonderful; beautiful; suksma	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūkṣma, or: mañju, Japanese: myō (BCSD '妙', p. 356; DJBT '妙', p. 430; MW 'sūkṣma' 2; SH '妙', p. 234)	8004569
 8004570	妙月	\N	miàoyuè	sucandra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '妙月', p. 356; MW 'sucandra')	8004570
 8004571	妙月长者	妙月長者	miàoyuè zhǎngzhě	Elder Sucandra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a character in Buddhist texts (FGDB '妙月長者所問經')	8004571
-8004572	尊	\N	zūn	bhagavat; holy one	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavat (BCSD '尊', p. 393; MW 'bhagavat')	8004572
+8004572	尊	\N	zūn	bhagavat; holy one	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavat; Japanese: son (BCSD '尊', p. 393; MW 'bhagavat'; Unihan '尊')	8004572
 8004573	尊	\N	zūn	lord; patron; natha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nātha, Tibetan: mgon (BCSD '尊', p. 393; Mahāvyutpatti 'nāthaḥ'; MW 'nātha')	8004572
 8004574	尊那	\N	zūnnà	Cunda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cunda; personal name (BCSD '尊那'; MW 'cunda')	8004574
 8004575	现图曼荼罗	現圖曼荼羅	xiàntú màntúluó	Genzu Mandara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Genzu mandara (FGDB '曼荼羅'; Tanaka 2018, pp. 527-528)	8004575
@@ -4966,7 +4966,7 @@
 8004966	想蕴	想蘊	xiǎngyùn	perception; cognition; conceptualization; saṃjñā; samjna	noun	蕴	Aggregate	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñā, Pali: saññā; one of the five aggregates (SH '想蘊', p. 399)	8004966
 8004967	想	\N	xiǎng	notion; perception; cognition; conceptualization; saṃjñā; samjna	noun	蕴	Aggregate	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñā, Pali: saññā; one of the five aggregates (BL 'saṃjñā'; Tzu Chuang 2012; Kroll 2015 '想' 1c)	8004967
 8004968	作意	\N	zuò yì	attention; engagement	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manasikāra, Pali: manasikāra (FGDB '作意'; SH '作意', p. 224)	8004968
-8004969	寻	尋	xún	vitarka; vitarkah; vitakka; conception; gross detection; examination; application of thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xun2.mp3	Sanskrit equivalent: vitarka, Pali: vitakka; one of the four changeable mental factors of the Mahayana teachings (Ding '尋'; FGDB '尋'; SH '尋')	8004969
+8004969	寻	尋	xún	vitarka; vitarkah; vitakka; conception; gross detection; examination; application of thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xun2.mp3	Sanskrit equivalent: vitarka, Pali: vitakka, Japanese: jin, Tibetan: rtog pa; one of the four changeable mental factors of the Mahayana teachings (BCSD '尋', p. 394; Ding '尋'; FGDB '尋'; Mahāvyutpatti 'vitarkaḥ'; MW 'vitarka'; SH '尋', p. 370; Unihan '尋')	8004969
 8004970	欲	\N	yù	desire; intention; wish; kāma	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	yu4.mp3	Sanskrit equivalent: chanda, or: kāma, Pali: canda, Japanese: yoku, Tibetan: 'dun pa; one of the five object-determining mental factors in the Mahayana teachings (BCSD '欲', p. 673; DJBT '欲', p. 436; FGDB '欲'; Mahāvyutpatti 'chandaḥ'; MW 'chanda'; SH '欲', p. 355)	8004970
 8004971	伺	\N	sì	vicāra; vicara; sustained application; sustained thinking; selectiveness; subtle discernment; discernment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	si4.mp3	Sanskrit equivalent: vicāra, Pali: vicāra, Japanese shi, Tibetan: dpyod pa; one of the four changeable mental factors in the Mahayana teachings (BCSD '伺', p. 107; BL 'vicāra'; Ding '伺'; FGDB '伺'; Mahāvyutpatti 'vicāraḥ'; SH '伺')	8004971
 8004972	四禅	四禪	sì chán	the four meditations; the four dhyānas; the four jhānas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāri dhyānāni, Pali: cattāri jhānāni; they are the first dhyāna 初禪、second dhyāna 二禪、third dhyāna 三禪、and fourth dhyāna 四禪 (FGDB '四禪'; Guoyu '四禪', p. 179)	8004972
@@ -7578,7 +7578,7 @@
 8007578	夏	\N	xià	summer; varṣā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varṣā, or: grīṣma, Japanese: ka, or: ge, Tibetan: dbyar (BCSD '夏', p. 311; Mahāvyutpatti 'varṣā'; MW 'varṣā'; SH '夏', p. 323; Unihan '夏')	8007578
 8007579	一来向	一來向	yīláixiàng	the fruit of sakṛdāgāmin	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 斯陀含 (FGDB '一來向')	8007579
 8007580	一来果	一來果	yīláiguǒ	the fruit of sakṛdāgāmin	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一來向 (FGDB '一來向')	8007580
-8007581	不还果	不還果	bùháiguǒ	the fruit of anāgāmin	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿那含 (FGDB '不還果')	8007581
+8007581	不还果	不還果	bù huán guǒ	the fruit of anāgāmin	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿那含 (FGDB '不還果')	8007581
 8007582	夙	\N	sù	daybreak; kālya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kālya, Japanese: shuku (BCSD '夙', p. 313; MW 'varṣā'; Unihan '夙')	8007582
 8007583	信受奉行	\N	xìn shòu fèngxíng	to receive and practice	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 信受 receive and 奉行 practice; a phrase often found at the end of sutras (Ding '信受奉行'; FGDB '信受奉行'; SH '信受奉行')	8007583
 8007584	三心	\N	sānxīn	three minds	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to three kinds of mind. There are several formulations of this. In the 觀無量壽佛經 Sūtra on Contemplation of Amitāyus: the mind of a future pureland that is (1) sincere, (2) deep, and (3) makes a vow. (FGDB '三心')	8007584
@@ -8014,3 +8014,13 @@
 8008014	饶益有情	饒益有情	ráoyì yǒuqíng	to benefit living beings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '饒益有情戒'; Hsing Yun 2010)	8008014
 8008015	不邪婬	\N	bù xiéyín	prohibition of debauchery	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāma-mithyācārādviratiḥ (FGDB '齋戒'; DDB; SH '五戒', p. 118)	8008015
 8008016	将	將	jiāng	intending to; abhimukha	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukha, Japanese: shou, or: sou (BCSD '將', p. 392; MW 'abhimukha'; Unihan '將')	8008016
+8008017	萨埵	薩埵	sàduǒ	sentient being; being, existence; essence, nature, life; sense, consciousness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva (MW 'sattva'; SH '薩埵', p. 467)	8008017
+8008018	四不坏信	四不壞信	sì bù huài xìn	four objects of indestructible faith	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāro 'vetya-prasādāḥ (DDB; FGDB '四不壞信'; SH '四不壞淨', p. 169)	8008018
+8008019	专	專	zhuān	exclusiveness; ekānta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekānta, Japanese: sen (BCSD '專', p. 392; MW 'ekānta'; SH '專', p. 348; Unihan '專')	8008019
+8008020	五阿那含	\N	wǔ ānàhán	five grades of non-returning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五種不還 (FGDB '五阿那含')	8008020
+8008021	五种不还果	五種不還果	wǔ zhǒng bù huán guǒ	five kinds of non-returning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五種不還 (FGDB '五阿那含')	8008021
+8008022	五种不还	五種不還	wǔ zhǒng bù huán	five kinds of non-returning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五種不還')	8008022
+8008023	五种般	五種般	wǔ zhǒng bān	five classes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五種不還 (FGDB '五阿那含')	8008023
+8008024	导	導	dǎo	directed towards; abhimukha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukha, Japanese: tai, or: tsui (BCSD '對', p. 394; MW 'abhimukha'; SH '對', p. 423; Unihan '對')	8008024
+8008025	八时	八時	bā shí	eight periods of time	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A historic Indian division of a day into eight periods (FGDB '八時'; SH '八時', p. 37)	8008025
+8008026	过午不食	過午不食	guò wǔ bù shí	no eating after noontime	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '過午不食'; Hsing Yun 2010, p. 3; Hundred Lessons)	8008026

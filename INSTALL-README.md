@@ -250,6 +250,7 @@ gcloud run deploy --platform=managed $SERVICE \
 --set-env-vars DATABASE="$DATABASE" \
 --set-env-vars TEXT_BUCKET="$TEXT_BUCKET" \
 --set-env-vars CNREADER_HOME="/" \
+--set-env-vars PROJECT_ID=${PROJECT_ID} \
 --set-env-vars AVG_DOC_LEN="6376"
 ```
 
@@ -389,4 +390,114 @@ gcloud compute forwarding-rules create $SSL_FORWARDING_RULE \
     --ports=443 \
     --global \
     --target-https-proxy $SSL_TARGET_PROXY
+```
+
+## Dataflow
+
+Run the term frequency analysis with Google Cloud Dataflow.
+Follow instructions at
+[Chinese Text Reader](https://github.com/alexamies/cnreader)
+
+Create a GCP service account, download a key, and set it to the file:
+
+```
+export GOOGLE_APPLICATION_CREDENTIALS=${PWD}/dataflow-service-account.json
+```
+
+Set the location of the GCS bucket to read text from
+
+```
+TEXT_BUCKET=[your GCS bucket]
+```
+
+Use a different bucket for the Dataflow  results and binaries:
+
+```
+DF_BUCKET=[your other GCS bucket]
+```
+
+Set the configuration environment variable
+
+```
+export CNREADER_HOME=${PWD}
+```
+
+From a higher directory, clone the cnreader Git project
+
+```
+cd ..
+git clone https://github.com/alexamies/cnreader.git
+export CNREADER_PATH=${PWD}/cnreader
+cd cnreader/tfidf
+```
+
+The GCP project:
+
+```shell
+PROJECT_ID=[your project id]
+```
+
+Run the pipeline on Dataflow
+
+```
+DATAFLOW_REGION=us-central1
+CORPUS=ntireader
+GEN=0
+go run tfidf.go \
+  --input gs://${TEXT_BUCKET} \
+  --cnreader_home ${CNREADER_HOME} \
+  --corpus_fn data/corpus/collections_small.csv \
+  --corpus_data_dir data/corpus \
+  --corpus $CORPUS \
+  --generation $GEN \
+  --runner dataflow \
+  --project $PROJECT_ID \
+  --region $DATAFLOW_REGION \
+  --flexrs_goal=COST_OPTIMIZED \
+  --staging_location gs://${DF_BUCKET}/binaries/
+```
+
+Track the job progress in the GCP console, as shown in the figure below.
+
+![Dataflow job progress](https://raw.githubusercontent.com/alexamies/chinesenotes.com/master/drawings/beam_execution.png?raw=true)
+
+Validation test:
+
+```shell
+cd ..
+COLLECTION=taisho/t0001.html
+./cnreader --test_index_terms "則,防" \
+  --project $PROJECT_ID \
+  --collection ${COLLECTION}
+```
+
+Set the project directory home
+```shell
+cd buddhist-dictionary
+export CNREADER_HOME=${PWD}
+```
+
+Generate the bibliographic database
+
+```shell
+cd ..
+export CNREADER_PATH=${PWD}/cnreader
+cd $CNREADER_HOME
+$CNREADER_PATH/cnreader -titleindex
+```
+
+Set the web application binary home:
+
+```shell
+cd ..
+CNWEB_BIN_HOME=${PWD}/chinesenotes-go
+```
+
+Try full text search in the web app
+
+```shell
+cd $CNREADER_HOME
+export PROJECT_ID=$PROJECT_ID
+export CNWEB_HOME=$CNREADER_HOME
+$CNWEB_BIN_HOME/chinesenotes-go
 ```
