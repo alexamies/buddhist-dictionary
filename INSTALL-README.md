@@ -440,20 +440,23 @@ PROJECT_ID=[your project id]
 Run the pipeline on Dataflow
 
 ```
+cd ..
+export CNREADER_PATH=${PWD}/cnreader
 DATAFLOW_REGION=us-central1
 CORPUS=ntireader
 GEN=0
+cd ${CNREADER_PATH}/tfidf
 go run tfidf.go \
   --input gs://${TEXT_BUCKET} \
   --cnreader_home ${CNREADER_HOME} \
-  --corpus_fn data/corpus/collections_small.csv \
+  --corpus_fn data/corpus/collections.csv \
   --corpus_data_dir data/corpus \
   --corpus $CORPUS \
   --generation $GEN \
   --runner dataflow \
   --project $PROJECT_ID \
   --region $DATAFLOW_REGION \
-  --flexrs_goal=COST_OPTIMIZED \
+  --flexrs_goal=FLEXRS_COST_OPTIMIZED \
   --staging_location gs://${DF_BUCKET}/binaries/
 ```
 
@@ -480,8 +483,6 @@ export CNREADER_HOME=${PWD}
 Generate the bibliographic database
 
 ```shell
-cd ..
-export CNREADER_PATH=${PWD}/cnreader
 cd $CNREADER_HOME
 $CNREADER_PATH/cnreader -titleindex
 ```
