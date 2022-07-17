@@ -4435,7 +4435,7 @@
 8004435	火宅喻	\N	huǒ zhái yù	The parable of the burning house	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004435
 8004436	穷子喻	窮子喻	qióng zǐ yù	parable of the poor son	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004436
 8004437	药草喻	藥草喻	yào cǎo yù	parable of the medicinal herbs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004437
-8004438	小	\N	xiǎo	small; alpa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpa, Tibetan: chung ba (BCSD '小', p. 396; Mahāvyutpatti 'alpaḥ'; MW 'alpa')	8004438
+8004438	小	\N	xiǎo	small; alpa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpa, Japanese: shou, Tibetan: chung ba (BCSD '小', p. 396; Mahāvyutpatti 'alpaḥ'; MW 'alpa'; SH '小', p. 98; Unihan '小')	8004438
 8004439	小	\N	xiǎo	mild; mrdu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛdu, Tibetan: chung ngu'am tha ma (BCSD '小', p. 396; Mahāvyutpatti 'mṛduḥ'; MW 'mṛdu')	8004438
 8004440	小	\N	xiǎo	limited; paritta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parītta, Tibetan: chung ngu (BCSD '小', p. 396; Mahāvyutpatti 'parīttā'; MW 'parītta')	8004438
 8004441	小	\N	xiǎo	deficient; dabhra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dabhra, Tibetan: nyung ba'am chung ba (BCSD '小', p. 396; Mahāvyutpatti 'dabhraḥ'; MW 'dabhra')	8004438
@@ -8031,3 +8031,17 @@
 8008031	我昔所造诸恶业	我昔所造諸惡業	wǒ xī suǒ zào zhū èyè	all the unwholesome karma from my past	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '我昔所造諸惡業')	8008031
 8008032	圆满菩提	圓滿菩提	yuánmǎn pútí	attain enlightenment	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '即身成佛'; Hsing Yun 2010, p. 40)	8008032
 8008033	因地	\N	yīndì	the circumstances of place	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '因地'; Hsing Yun 2010; SH '因地', p. 205)	8008033
+8008034	尖	\N	jiān	pointed; śikhara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikhara, Japanese: sen (BCSD '尖', p. 399; MW 'śikhara'; SH '尖', p. 447; Unihan '尖')	8008034
+8008035	杀心	殺心	shāxīn	the intention to kill	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '殺生戒'; Hsing Yun 2010)	8008035
+8008036	鹿母	\N	lùmǔ	Mṛgāra-mātṛ	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 毘舍佉母 (BCSD '鹿母')	8008036
+8008037	六夷	\N	liù yí	six pārājikas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅夷 (FGDB '六夷'; SH '六夷', p. 134)	8008037
+8008038	酤酒戒	\N	gū jiǔ jiè	precept against dealing in liquor	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '酤酒戒'; SH '酤酒戒', p. 392)	8008038
+8008039	说四众过戒	說四眾過戒	shuō sì zhòng guò jiè	persuading the fourfold assembly to break precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '說四眾過戒')	8008039
+8008040	自赞毁他	自讚毀他	zì zàn huǐ tā	praising slander of others	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '自讚毀他')	8008040
+8008041	戒相	\N	jiè xiāng	different forms of precepts; characteristics of precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Such as 五戒 'five precepts', 十戒 'ten precepts', and others (Ding '戒相'; FGDB '戒相'; Hundred Lessons; SH '戒相')	8008041
+8008042	佛心	\N	fó xīn	mind of Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛心'; SH '佛心', p. 227)	8008042
+8008043	不坐高广大床	不坐高廣大床	bù zuò gāo guǎng dà chuáng	a precept against sleeping in a high and wide bed; No sleeping on a high and broad bed	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十戒相'; Hundred Lessons)	8008043
+8008044	性戒	\N	xìng jiè	a natural precept	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Such as not to kill or not to steal (Ding '性戒'; FGDB '性戒'; Hsing Yun 2010, p. 6; SH '性戒')	8008044
+8008045	七灭诤	七滅諍	qī miè zhèng	seven rules for eliminating conflict	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 七滅諍法 (FGDB '七滅諍')	8008045
+8008046	七灭诤法	七滅諍法	qī miè zhèng fǎ	seven rules for eliminating conflict	set phrase	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	(FGDB '七滅諍'; Hsing Yun 2010, p. 43; SH '七滅諍法', p. 13)	8008046
+8008047	尚	\N	shàng	also; api	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: api, Japanese: shou (BCSD '尚', p. 399; MW 'api'; Unihan '尚')	8008047
