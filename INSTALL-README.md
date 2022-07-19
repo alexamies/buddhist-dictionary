@@ -462,15 +462,23 @@ go run tfidf.go \
 
 Track the job progress in the GCP console, as shown in the figure below.
 
-![Dataflow job progress](https://raw.githubusercontent.com/alexamies/chinesenotes.com/master/drawings/beam_execution.png?raw=true)
+![Dataflow job progress](https://raw.githubusercontent.com/alexamies/buddhist-dictionary/master/drawings/dataflow_cost_optimized.png?raw=true)
+
+Consider removing the flag:
+
+```
+--flexrs_goal=FLEXRS_COST_OPTIMIZED
+```
+
+if the job is too slow.
 
 Validation test:
 
 ```shell
-cd ..
+cd $CNREADER_HOME
 COLLECTION=taisho/t0001.html
-./cnreader --test_index_terms "則,防" \
-  --project $PROJECT_ID \
+$CNREADER_PATH/cnreader --test_index_terms "則,防" \
+  --project ${PROJECT_ID} \
   --collection ${COLLECTION}
 ```
 
@@ -483,7 +491,6 @@ export CNREADER_HOME=${PWD}
 Generate the bibliographic database
 
 ```shell
-cd $CNREADER_HOME
 $CNREADER_PATH/cnreader -titleindex
 ```
 

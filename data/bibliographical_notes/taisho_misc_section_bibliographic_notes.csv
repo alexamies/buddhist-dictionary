@@ -16,7 +16,7 @@ reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,att
 439,14,1,佛說諸佛經,Fo Shuo Zhu Fo Jing,Sutra Spoken by the Buddha on All Buddhas,施護,譯,Dānapāla,Translated,宋,Song,991,,"Date 991 from Lancaster (2004, 'K 1194')",Korean Canon,http://tripitaka.cbeta.org/T14n0439,2016-09-14,Miscellaneous
 440,14,12,佛說佛名經,Fo Shuo Fo Ming Jing,Sutra on the Names of the Buddhas,菩提流支,譯,Bodhiruci,Translated,元魏,Yuan Wei,520-524,,"Date 520-524 from Lancaster (2004, 'K 390')",Korean Canon,http://tripitaka.cbeta.org/T14n0440,2016-09-14,Miscellaneous
 441,14,30,佛說佛名經,Fo Shuo Fo Ming Jing,Sutra on the Names of the Buddhas,,,,,,,502-557,,"Date 502-557 from Lancaster (2004, 'K 1404')",Korean Canon,http://tripitaka.cbeta.org/T14n0440,2016-09-15,Miscellaneous
-442,14,1,十方千五百佛名經,Shi Fang Qian Wu Bai Fo Ming Jing,,失,譯,Unknown,Translated,,,,,,,http://tripitaka.cbeta.org/T14n0442,2016-09-16,Miscellaneous
+442,14,1,十方千五百佛名經,Shi Fang Qian Wu Bai Fo Ming Jing,Sutra on the Names of One Thousand and Five Hundred Buddhas of the Ten Directions,失,譯,Unknown,Translated,,,,,,,http://tripitaka.cbeta.org/T14n0442,2016-09-16,Miscellaneous
 443,14,8,五千五百佛名神呪除障滅罪經,Wu Qian Wu Bai Fo Ming Shen Zhou Chu Zhang Mie Zui Jing,Buddhanāmasahasrapañcaśatacatustripañcadaśa,闍那崛多,譯,Jnanagupta,Translated,隋,Sui,594,,"Sanskrit title and date 594 from Lancaster (2004, 'K 394')",Korean Canon,http://tripitaka.cbeta.org/T14n0443,2016-09-17,Miscellaneous
 444,14,1,佛說百佛名經,Fo Shuo Bai Fo Ming Jing,Sutra on the Names of a Hundred Buddhas,那連提耶舍,譯,Narendrayaśas,Translated,隋,Sui,582,,"Date 582 from Lancaster (2004, 'K 365')",Korean Canon,http://tripitaka.cbeta.org/T14n0444,2016-09-17,Miscellaneous
 445,14,2,佛說不思議功德諸佛所護念經,Fo Shuo Bu Siyi Gongde Zhu Fo Suo Hunian Jing,Sutra on Recitation of the Indescribable Merits of the Buddhas,失,譯,Unknown,Translated,,,220-265,,"Date 220-265 from Lancaster (2004, 'K 395')",Korean Canon,http://tripitaka.cbeta.org/T14n0445,2016-09-17,Miscellaneous
@@ -26,16 +26,16 @@ reference_no,volume,no_scrolls,title_zh,title_pinyin,title_en,attribution_zh,att
 447B,14,1,現在賢劫千佛名經,Xianzai Xian Jie Qian Fo Ming Jing,Sutra on the Names of a Thousand Buddhas from the Present Kalpa,,,,,,,502-557,,"Date 502-557 from Lancaster (2004, 'K 392')",Korean Canon,http://tripitaka.cbeta.org/T14n0447b,2016-09-17,Miscellaneous
 448A,14,1,未來星宿劫千佛名經,Weilai Xingxiu Jie Qian Fo Ming Jing,Sutra on the Names of a Thousand Buddhas from the Future Kalpa,失,譯,Unknown,Translated,,,502-557,,"Date 502-557 from Lancaster (2004, 'K 393')",Korean Canon,http://tripitaka.cbeta.org/T14n0448a,2016-09-17,Miscellaneous
 448B,14,1,未來星宿劫千佛名經,Weilai Xingxiu Jie Qian Fo Ming Jing,Sutra on the Names of a Thousand Buddhas from the Future Kalpa,失,譯,Unknown,Translated,,,502-557,,"Date 502-557 from Lancaster (2004, 'K 393')",Korean Canon,http://tripitaka.cbeta.org/T14n0448a,2016-09-17,Miscellaneous
-449,14,,,,,,,,,,,,,,,,,
-450,14,,,,,,,,,,,,,,,,,
-451,14,,,,,,,,,,,,,,,,,
-452,14,,,,,,,,,,,,,,,,,
-453,14,,,,,,,,,,,,,,,,,
-454,14,,,,,,,,,,,,,,,,,
-455,14,,,,,,,,,,,,,,,,,
-456,14,,,,,,,,,,,,,,,,,
-457,14,,,,,,,,,,,,,,,,,
-458,14,,,,,,,,,,,,,,,,,
+449,14,1,佛說藥師如來本願經,Yaoshi Rulai Benyuan Jing,Sutra on the Vows of the Medicine Buddha,達摩笈多,譯,Dharmagupta,Translated,隋,Sui,616,,"Sanskrit title and date 616 from Lancaster (2004, 'K 176')",Korean Canon,http://tripitaka.cbeta.org/T14n0449,2016-09-17,Miscellaneous
+450,14,1,藥師琉璃光如來本願功德經,Yaoshi Liuli Guang Rulai Ben Yuan Gongde Jing,Medicine Buddha Sūtra,玄奘,譯,Xuan Zang,Translated,唐,Tang,650,,"Sanskrit title and date 650 from Lancaster (2004, 'K 177')",Korean Canon,http://tripitaka.cbeta.org/T14n0450,2016-09-17,Miscellaneous
+451,14,2,藥師琉璃光七佛本願功德經,Yaoshi Liuli Guang Qi Fo Ben Yuan Gongde Jing,Sutra on the Merits of the Medicine Master of Lapis Lazuli Radiance and Seven Buddhas,義淨,譯,Yi Jing,Translated,唐,Tang,707,,"Sanskrit title and date 707 from Lancaster (2004, 'K 178')",Korean Canon,http://tripitaka.cbeta.org/T14n0451,2016-09-17,Miscellaneous
+452,14,1,佛說觀彌勒菩薩上生兜率天經,Fo Shuo Guan Mile Pusa Shang Sheng Doushuaitian Jing,Sutra on the Visualization of Maitreya Bodhisattva Ascending to be Born in Tusita Heaven,沮渠京聲,譯,Juqu Jingsheng,Translated,宋,Song,455,,"Date 455 from Lancaster (2004, 'K 194')",Korean Canon,http://tripitaka.cbeta.org/T14n0452,2016-09-17,Miscellaneous
+453,14,1,佛說彌勒下生經,Fo Shuo Mile Xia Sheng Jing,Maitreya Descends to be Born,竺法護,譯,Dharmarakṣa,Translated,西晉,Western Jin,303,,"Date 303 from Lancaster (2004, 'K 197')",Korean Canon,http://tripitaka.cbeta.org/T14n0453,2016-09-17,Miscellaneous
+454,14,1,佛說彌勒下生成佛經,Fo Shuo Mile Xia Sheng Cheng Fo Jing,The Descent of Maitreya Buddha and His Enlightenment,鳩摩羅什,譯,Kumārajīva,Translated,後秦,Later Qin,402-412,,"Date 402-412 from Lancaster (2004, 'K 198')",Korean Canon,http://tripitaka.cbeta.org/T14n0454,2016-09-17,Miscellaneous
+455,14,1,佛說彌勒下生成佛經,Fo Shuo Mile Xia Sheng Cheng Fo Jing,The Buddha Speaks the Sutra on the Descent of Maitreya Buddha and His Enlightenment,義淨,譯,Yi Jing,Translated,唐,Tang,701,,"Sanskrit title and date 701 from Lancaster (2004, 'K 199')",Korean Canon,http://tripitaka.cbeta.org/T14n0455,2016-09-17,Miscellaneous
+456,14,1,佛說彌勒大成佛經,Fo Shuo Mile Da Cheng Fo Jing,Buddha Pronounces the Sūtra of Maitreya’s Attainment of Buddhahood,姚秦 鳩摩羅什譯,譯,Kumārajīva,Translated,後秦,Later Qin,402,,"Date 402 from Lancaster (2004, 'K 195')",Korean Canon,http://tripitaka.cbeta.org/T14n0456,2016-09-17,Miscellaneous
+457,14,1,佛說彌勒來時經,Fo Shuo Mile Lai Shi Jing,The Time of Maitreya’s Coming,失,譯,Unknown,Translated,,,317-420,,"Sanskrit title and date 317-420 from Lancaster (2004, 'K 196')",Korean Canon,http://tripitaka.cbeta.org/T14n0457,2016-09-17,Miscellaneous
+458,14,1,文殊師利問菩薩署經,文殊師利問菩薩署經,Mañjuśrī asks how one should act as a Bodhisattva,支婁迦讖,譯,Lokakṣema,Translated,後漢,Later Han,168-189,,"Date 168-189 from Lancaster (2004, 'K 418')",Korean Canon,http://tripitaka.cbeta.org/T14n0458,2016-09-17,Miscellaneous
 459,14,,,,,,,,,,,,,,,,,
 460,14,,,,,,,,,,,,,,,,,
 461,14,,,,,,,,,,,,,,,,,

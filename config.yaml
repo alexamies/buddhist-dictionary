@@ -32,3 +32,9 @@ RefNo2ParallelKey: data/bibliographical_notes/parallels.csv
 
 # Bibliographic notes: collection reference no. to English translations
 RefNo2Trans: data/bibliographical_notes/english_translations.csv
+
+# IndexCorpus is the name of the corpus for the term frequency index in Firestore.
+IndexCorpus: ntireader
+
+ # IndexGen is the generation number for the term frequency index in Firestore.
+IndexGen: 0
