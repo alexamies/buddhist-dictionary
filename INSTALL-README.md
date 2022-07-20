@@ -476,8 +476,8 @@ Validation test:
 
 ```shell
 cd $CNREADER_HOME
-COLLECTION=taisho/t0001.html
-$CNREADER_PATH/cnreader --test_index_terms "則,防" \
+COLLECTION=taisho/t0461.html
+$CNREADER_PATH/cnreader --test_index_terms "現,寶藏" \
   --project ${PROJECT_ID} \
   --collection ${COLLECTION}
 ```
