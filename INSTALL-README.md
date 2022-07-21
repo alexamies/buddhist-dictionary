@@ -254,6 +254,14 @@ gcloud run deploy --platform=managed $SERVICE \
 --set-env-vars AVG_DOC_LEN="6376"
 ```
 
+if needing to update traffic to the latest version run
+
+```
+gcloud run services update-traffic --platform=managed $SERVICE \
+--to-latest \
+--region=$REGION
+```
+
 Test it with the command
 
 ```shell
