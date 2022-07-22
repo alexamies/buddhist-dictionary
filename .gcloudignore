@@ -1,4 +1,5 @@
-corpus/
+corpus/images/
+corpus/taisho/*.txt
 !data/corpus/collections.csv
 !index/documents.tsv
 web-resources/
