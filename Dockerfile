@@ -1,9 +1,10 @@
 # Docker file for NTI Reader
 FROM golang:1.18.4 as builder
 ADD https://api.github.com/repos/alexamies/chinesenotes-go/git/refs/heads/master version.json
-RUN git clone https://github.com/alexamies/chinesenotes-go.git --branch v0.0.111
+RUN git clone https://github.com/alexamies/chinesenotes-go.git --branch v0.0.112
 WORKDIR /go/chinesenotes-go
 COPY *.yaml ./
+COPY data/corpus/collections.csv data/corpus/
 COPY data/dictionary/*.txt data/dictionary/
 COPY data/dictionary/*.tsv data/dictionary/
 COPY index/documents.tsv index/
@@ -14,6 +15,7 @@ FROM alpine:3
 RUN apk add --no-cache ca-certificates
 COPY --from=builder /go/chinesenotes-go/cnweb /cnweb
 COPY --from=builder /go/chinesenotes-go/*.yaml /
+COPY --from=builder /go/chinesenotes-go/data/corpus/collections.csv data/corpus/
 COPY --from=builder /go/chinesenotes-go/data/dictionary/*.txt /data/dictionary/
 COPY --from=builder /go/chinesenotes-go/data/dictionary/*.tsv /data/dictionary/
 COPY --from=builder /go/chinesenotes-go/index/documents.tsv /index/
