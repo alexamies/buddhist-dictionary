@@ -484,8 +484,8 @@ Validation test:
 
 ```shell
 cd $CNREADER_HOME
-COLLECTION=taisho/t0461.html
-$CNREADER_PATH/cnreader --test_index_terms "現,寶藏" \
+COLLECTION=taisho/t0472.html
+$CNREADER_PATH/cnreader --test_index_terms "善見,變化" \
   --project ${PROJECT_ID} \
   --collection ${COLLECTION}
 ```
