@@ -8,3 +8,6 @@ IndexCorpus: ntireader
 
  # IndexGen is the generation number for the term frequency index in Firestore.
 IndexGen: 0
+
+# gets whether to add a directory prefix to collection names in full text search
+AddDirectoryToCol: True
