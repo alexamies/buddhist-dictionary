@@ -236,7 +236,7 @@ INSTANCE_CONNECTION_NAME=[Your connection]
 DBUSER=[Your database user]
 DBPASSWORD=[Your database password]
 DATABASE=[Your database name]
-MEMORY=500Mi
+MEMORY=600Mi
 TEXT_BUCKET=[Your GCS bucket name for text files]
 gcloud run deploy --platform=managed $SERVICE \
 --image $IMAGE \
@@ -484,8 +484,8 @@ Validation test:
 
 ```shell
 cd $CNREADER_HOME
-COLLECTION=taisho/t0473.html
-$CNREADER_PATH/cnreader --test_index_terms "大乘,,法螺" \
+COLLECTION=taisho/t0476.html
+$CNREADER_PATH/cnreader --test_index_terms "說,無垢稱" \
   --project ${PROJECT_ID} \
   --collection ${COLLECTION}
 ```
