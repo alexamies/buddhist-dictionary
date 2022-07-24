@@ -182,8 +182,8 @@ Or use Cloud Build
 
 ```shell
 BUILD_ID=[your build id]
-nohup gcloud builds submit --config cloudbuild.yaml . \
-  --substitutions=_IMAGE_TAG="$BUILD_ID" &
+gcloud builds submit --config cloudbuild.yaml . \
+  --substitutions=_IMAGE_TAG="$BUILD_ID"
 ```
 
 Check that the expected image has been added with the command
@@ -400,7 +400,7 @@ gcloud compute forwarding-rules create $SSL_FORWARDING_RULE \
     --target-https-proxy $SSL_TARGET_PROXY
 ```
 
-## Dataflow
+## Dataflow and Firestore
 
 Run the term frequency analysis with Google Cloud Dataflow.
 Follow instructions at
@@ -484,8 +484,8 @@ Validation test:
 
 ```shell
 cd $CNREADER_HOME
-COLLECTION=taisho/t0313.html
-$CNREADER_PATH/cnreader --test_index_terms "阿閦,佛國" \
+COLLECTION=taisho/t0326.html
+$CNREADER_PATH/cnreader --test_index_terms "三十五,佛,名,禮懺" \
   --project ${PROJECT_ID} \
   --collection ${COLLECTION}
 ```
