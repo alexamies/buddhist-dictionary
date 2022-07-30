@@ -1,6 +1,6 @@
 # Top level file listing the corpus collections
 #Collection File, HTML Gloss File, Title, Description, Introduction File, Corpus, Format, Period
-taisho/t0001.csv	taisho/t0001.html	Dīrghāgama 長阿含經	Translated by Buddhayaśas and Fo Nian in the Later Qin in 22 scrolls.	taisho/t0001_00.txt	Taishō	Sūtra	413	āgama
+taisho/t0001.csv	taisho/t0001.html	Long Discourses (Chang Ahan Jing) 長阿含經	Translated by Buddhayaśas and Fo Nian in the Later Qin in 22 scrolls.	taisho/t0001_00.txt	Taishō	Sūtra	413	āgama
 taisho/t0002.csv	taisho/t0002.html	Sutra of the Seven Buddhas 七佛經	Translated by Fa Tian in the Song in 1 scroll.	taisho/t0002_00.txt	Taishō	Sūtra	1001	āgama
 taisho/t0003.csv	taisho/t0003.html	Vipaśyin Buddha Sūtra 毘婆尸佛經	Translated by Fa Tian in the Song in 2 scroll.	taisho/t0003_00.txt	Taishō	Sūtra	990	āgama
 taisho/t0004.csv	taisho/t0004.html	Sutra on the Names of the Fathers and Mothers of the Seven Buddhas (Qi Fo Fumu Xing Zi Jing) 七佛父母姓字經	Translated by an unknown translator in the Former Wei dynasty in 1 scroll.	taisho/t0004_00.txt	Taishō	Sūtra	240-254	āgama
@@ -9,9 +9,9 @@ taisho/t0006.csv	taisho/t0006.html	Nirvāṇa Sūtra 般泥洹經	Translated by 
 taisho/t0007.csv	taisho/t0007.html	Mahāparinibbānasutta 大般涅槃經	Translated by Faxian in the Eastern Jin in 3 scrolls.	taisho/t0007_00.txt	Taishō	Sūtra	405	āgama
 taisho/t0008.csv	taisho/t0008.html	Sutra on the Great Reliable Brahman (Da Jiangu Poluomen Jing) 大堅固婆羅門緣起經	Translated by Dānapāla and others in 2 scrolls.	taisho/t0008_00.txt	Taishō	Sūtra	1010	āgama
 taisho/t0009.csv	taisho/t0009.html	The Sage of Men Sutra (Ren Xian Jing) 人仙經	Translated by Faxian in 2 scrolls.	taisho/t0009_00.txt	Taishō	Sūtra	1001	āgama
-taisho/t0010.csv	taisho/t0010.html	The Story of the Two Brahmins Avadatavasana and Suvarṇavarṇadhvaja (Baiyi Jin Chuang Er Poluomen Yuanqi Jing) 白衣金幢二婆羅門緣起經	Translated by Dānapāla in 3 scrolls.	taisho/t0010_00.txt	Taishō	Sūtra	1012	āgama
-taisho/t0011.csv	taisho/t0011.html	Nijutuo Fanzhi Jing 尼拘陀梵	Translated by Dānapāla in 2 scrolls.	taisho/t0011_00.txt	Taishō	Sūtra	960-1127	āgama
-taisho/t0012.csv	taisho/t0012.html	Sangītisūtra 大集法門經	Translated by Dānapāla in 2 scrolls.	taisho/t0012_00.txt	Taishō	Sūtra	960-1127	āgama
+taisho/t0010.csv	taisho/t0010.html	The Story of the Two Brahmins Vāsiṣṭa and Bhāradvāja (Baiyi Jin Chuang Er Poluomen Yuanqi Jing) 白衣金幢二婆羅門緣起經	Translated by Dānapāla in 3 scrolls.	taisho/t0010_00.txt	Taishō	Sūtra	1012	āgama
+taisho/t0011.csv	taisho/t0011.html	Nyagrodha Brahmin Sutra (Nijutuo Fanzhi Jing) 尼拘陀梵	Translated by Dānapāla in 2 scrolls.	taisho/t0011_00.txt	Taishō	Sūtra	960-1127	āgama
+taisho/t0012.csv	taisho/t0012.html	Reciting in Concert (Daji Famen Jing) 大集法門經	Translated by Dānapāla in 2 scrolls.	taisho/t0012_00.txt	Taishō	Sūtra	960-1127	āgama
 taisho/t0013.csv	taisho/t0013.html	Sutra on the Law of Ten Rewards in the Dirghagama (Chang Ahan Shi Bao Fa Jing) 長阿含十報法經	Translated by An Shigao in 2 scrolls.	taisho/t0013_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0014.csv	taisho/t0014.html	Ren Ben Yu Sheng Jing 人本欲生經	Translated by An Shigao in 1 scroll.	taisho/t0014_00.txt	Taishō	Sūtra	156	āgama
 taisho/t0015.csv	taisho/t0015.html	Śakraparipṛcchā Sūtra 帝釋所問經	Translated by Faxian in 1 scroll.	taisho/t0015_00.txt	Taishō	Sūtra	1001	āgama

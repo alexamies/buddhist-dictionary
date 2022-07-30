@@ -1,6 +1,7 @@
 corpus/images/
 corpus/taisho/*.txt
 !data/corpus/collections.csv
+index/*.txt
 !index/documents.tsv
 web-resources/
 web-staging/
