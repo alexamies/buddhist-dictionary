@@ -105,7 +105,7 @@ cnreader
 cnreader -hwfiles
 cnreader -html
 cnreader -tmindex
-cnreader -titleindex
+# cnreader -titleindex
 mkdir $WEB_DIR/dist
 cp web-resources/dist/* $WEB_DIR/dist/.
 cp web-resources/script/*.js $WEB_DIR/script/.

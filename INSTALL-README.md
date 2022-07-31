@@ -485,9 +485,9 @@ Validation test:
 ```shell
 cd $CNREADER_HOME
 COLLECTION=taisho/t0007.html
-$CNREADER_PATH/cnreader --test_index_terms "一者,大地" \
+$CNREADER_PATH/cnreader --test_index_terms "一者,大地,依,於" \
   --project ${PROJECT_ID} \
-  --collection ${COLLECTION}
+  --collection ${COLLECTION} > output.txt 2>&1
 ```
 
 Set the project directory home
@@ -496,7 +496,7 @@ cd buddhist-dictionary
 export CNREADER_HOME=${PWD}
 ```
 
-Generate the bibliographic database
+Generate the title database
 
 ```shell
 $CNREADER_PATH/cnreader -titleindex
@@ -516,4 +516,17 @@ cd $CNREADER_HOME
 export PROJECT_ID=$PROJECT_ID
 export CNWEB_HOME=$CNREADER_HOME
 $CNWEB_BIN_HOME/chinesenotes-go
+```
+
+## Update the title index in Firestore
+
+```shell
+$CNREADER_PATH/cnreader --titleindex --project $PROJECT_ID
+```
+
+Run a search against the index:
+
+```shell
+export TEXT_BUCKET=ntinreader-text
+$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "一者大地依於水住" --outfile results.csv
 ```
