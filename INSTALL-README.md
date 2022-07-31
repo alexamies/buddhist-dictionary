@@ -485,7 +485,7 @@ Validation test:
 ```shell
 cd $CNREADER_HOME
 COLLECTION=taisho/t0007.html
-$CNREADER_PATH/cnreader --test_index_terms "一者,大地,依,於,水,住" \
+$CNREADER_PATH/cnreader --test_index_terms "一者,大地" \
   --project ${PROJECT_ID} \
   --collection ${COLLECTION}
 ```
