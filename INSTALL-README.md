@@ -435,7 +435,7 @@ From a higher directory, clone the cnreader Git project
 ```
 cd ..
 git clone https://github.com/alexamies/cnreader.git
-export CNREADER_PATH=${PWD}/cnreader
+CNREADER_PATH=${PWD}/cnreader
 cd cnreader/tfidf
 ```
 
