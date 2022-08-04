@@ -524,7 +524,27 @@ $CNWEB_BIN_HOME/chinesenotes-go
 $CNREADER_PATH/cnreader --titleindex --project $PROJECT_ID
 ```
 
-Run a search against the index:
+## Update the title index in Firestore
+
+```shell
+$CNREADER_PATH/cnreader --titleindex --project $PROJECT_ID
+```
+
+Also, generate a file for the document index, needed for the web app:
+
+```shell
+$CNREADER_PATH/cnreader --titleindex 
+```
+
+Run a search against the title index:
+
+```shell
+$CNREADER_PATH//cnreader --project $PROJECT_ID --titlesearch "尚書虞書"
+```
+
+## Full Text Search
+
+Run a full text Search search:
 
 ```shell
 export TEXT_BUCKET=ntinreader-text
