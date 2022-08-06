@@ -539,7 +539,7 @@ $CNREADER_PATH/cnreader --titleindex
 Run a search against the title index:
 
 ```shell
-$CNREADER_PATH//cnreader --project $PROJECT_ID --titlesearch "尚書虞書"
+$CNREADER_PATH//cnreader --project $PROJECT_ID --titlesearch "尸迦羅越六向拜"
 ```
 
 ## Full Text Search
@@ -548,5 +548,5 @@ Run a full text Search search:
 
 ```shell
 export TEXT_BUCKET=ntinreader-text
-$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "一者大地依於水住" --outfile results.csv
+$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "悔過" --outfile results.csv > output.txt 2>&1
 ```
