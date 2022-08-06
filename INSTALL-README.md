@@ -548,5 +548,5 @@ Run a full text Search search:
 
 ```shell
 export TEXT_BUCKET=ntinreader-text
-$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "悔過" --outfile results.csv > output.txt 2>&1
+$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "人本欲生" --outfile results.csv > output.txt 2>&1
 ```
