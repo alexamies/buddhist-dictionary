@@ -485,7 +485,7 @@ Validation test:
 ```shell
 cd $CNREADER_HOME
 COLLECTION=taisho/t0007.html
-$CNREADER_PATH/cnreader --test_index_terms "一者,大地,依,於" \
+$CNREADER_PATH/cnreader --test_index_terms "一者" \
   --project ${PROJECT_ID} \
   --collection ${COLLECTION} > output.txt 2>&1
 ```
@@ -533,7 +533,7 @@ $CNREADER_PATH/cnreader --titleindex
 Run a search against the title index:
 
 ```shell
-$CNREADER_PATH//cnreader --project $PROJECT_ID --titlesearch "尸迦羅越六向拜"
+$CNREADER_PATH//cnreader --project $PROJECT_ID --titlesearch "本相猗致"
 ```
 
 ## Full Text Search
@@ -542,5 +542,5 @@ Run a full text Search search:
 
 ```shell
 export TEXT_BUCKET=ntinreader-text
-$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "人本欲生" --outfile results.csv > output.txt 2>&1
+$CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "本相猗致" --outfile results.csv > output.txt 2>&1
 ```
