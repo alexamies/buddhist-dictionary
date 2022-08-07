@@ -1143,9 +1143,9 @@
 7001143	昙摩耶舍	曇摩耶舍	Tánmóyēshè	  Dharmayaśas	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Monk from Kashmir that stayed in China during the Eastern Jin and translated texts included in the Chinese Buddhist canon (FGDB '曇摩耶舍'; KDC 205; T 566).	7001143
 7001144	释印光	\N	shìyìnguāng	Yingguang	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 印光 (Wikipedia '释印光')	7001144
 7001145	释圆瑛	釋圓瑛	shì yuányīng	Yuan Ying	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 圓瑛 (FGDB '圓瑛')	7001145
-7001146	法海	\N	fǎ Hǎi	Fa Hai	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Name of a Tang dynasty monk from Qu Jiang; Guangdong (FGDB '法海')	7001146
-7001147	法海	\N	fǎ Hǎi	Fa Hai	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Name of a Tang dynasty monk from Danyang (FGDB '法海')	7001147
-7001148	海八德经	海八德經	Hǎi bā Dé jīng	Hai Ba De Jing	proper noun	经	Sutra	佛教	Buddhism	Theravāda	上座部佛教	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 35; KDC 'K 779')	7001148
+7001146	法海	\N	fǎ hǎi	Fa Hai	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Name of a Tang dynasty monk from Qu Jiang; Guangdong (FGDB '法海')	7001146
+7001147	法海	\N	fǎ hǎi	Fa Hai	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Name of a Tang dynasty monk from Danyang (FGDB '法海')	7001147
+7001148	海八德经	海八德經	Hǎi bā Dé jīng	Sutra on the Eight Good Qualities of the Sea; Hai Ba De Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (Nanjio 1883, p. 161; T 35; KDC 'K 779')	7001148
 7001149	一乘极唱	一乘極唱	yī shèng jí chàng	utmost advocation of one vehicle	set phrase	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一乘極唱')	7001149
 7001150	复礼	復禮	fù lǐ	Fu Li	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Tang dynasty Buddhist monastic credited with compiling 《十門辯惑論》, included in the Chinese Buddhist canon (FGDB '復禮'; KDC 1079; T 2111)	7001150
 7001151	无着	無著	wúzhāo	Asaṅga	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: asaṅga, Fourth century CE Indian Buddhist philosopher, regarded as one of the founders of the Yogacara School (BL 'Asaṅga'; FGDB '無著'; Guoyu '無著' 2)	7001151
@@ -4068,8 +4068,8 @@
 7004068	萨钵多酥哩踰捺野经	薩鉢多酥哩踰捺野經	Sàbōduō Sūlǐyúnàyě jīng	Saptasūryodasūtra; Suriya Sutta; Seven Suns	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Title of  sūtra in the Āgama section of the Chinese Buddhist Canon related to Suriya Sutta in the Pāli Canon (T 30; KDC 'K 1201'; Aṅguttara Nikāya 7.62)	7004068
 7004069	一切流摄守因经	一切流攝守因經	yīqiè liú shè shǒu yīn jīng	Sutra on Guarding Against the Causes of all the Taints; Yiqie Liu She Shou Yin Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon related to Sabbāsavasutta in the Pāli Canon (T 31; KDC 'K 672'; Majjhima Nikāya 2)	7004069
 7004070	四谛经	四諦經	Sì dì jīng	Si Di Jing; Catuḥsatyasūtra; Saccavibhaṅgasutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catuḥsatyasūtra, Pāli: saccavibhaṅgasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon related to saccavibhaṅgasutta in the Pāli Canon (T 32; KDC 'K 673'; Majjhima Nikāya 141)	7004070
-7004071	恒水经	恒水經	Héng Shuǐ jīng	Heng Shui Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: uposatha; literally The Ganges River sūtra. A sūtra in the Āgama section of the Chinese Buddhist Canon related to uposatha in the Pāli Canon (T 33; KDC 'K 675'; Aṅguttara Nikāya 7.20)	7004071
-7004072	法海经	法海經	fǎ Hǎi jīng	Fa Hai Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 34; KDC 'K 783')	7004072
+7004071	恒水经	恒水經	héng shuǐ jīng	Sutra Spoken on the River Ganges; Heng Shui Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: uposatha; a sūtra in the Āgama section of the Chinese Buddhist Canon related to uposatha in the Pāli Canon (T 33; KDC 'K 675'; Aṅguttara Nikāya 7.20)	7004071
+7004072	法海经	法海經	fǎ Hǎi jīng	Dharma Sea Sutra; Fa Hai Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 34; KDC 'K 783')	7004072
 7004073	本相猗致经	本相猗致經	běn Xiàng Yī Zhì jīng	Ben Xiang Yi Zhi Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	A sūtra in the Āgama section of the Chinese Buddhist Canon (T 36; KDC 'K 674')	7004073
 7004074	羯阇尸利沙山	羯闍尸利沙山	jiéshéshīlìshāshān	Gayā	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 伽耶山 (FGDB '伽耶山')	7004074
 7004075	象头山	象頭山	xiàngtóushān	Gayā	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 伽耶山 (FGDB '伽耶山')	7004075

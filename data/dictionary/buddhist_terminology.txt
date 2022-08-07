@@ -389,7 +389,7 @@
 8000389	离相戒	離相戒	líxiāngjiè	formless precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無相戒 (FGDB '離相戒'; SH '離相戒', p. 475)	8000389
 8000390	随相戒	隨相戒	suí xiāng jiè	to follow the prescribed discipline [of a monastic]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CFGDB '隨相戒'; SH '隨相戒', p. 454)	8000390
 8000391	无相戒	無相戒	wú xiāng jiè	formless precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: musōkai; mentioned in the Platform Sutra (BL 'wuxiang jie', p. 1005; FGDB '離相戒'; SH '離相戒', p. 475)	8000391
-8000392	法海	\N	Fǎ hǎi	Dharma sea	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A metaphor for the teachings of the Buddha being vast and deep (FGDB '法海')	8000392
+8000392	法海	\N	fǎ hǎi	Dharma sea	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A metaphor for the teachings of the Buddha being vast and deep (FGDB '法海')	8000392
 8000393	道俗	\N	dàosú	monastics and laypeople	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道俗'; SH '道俗', p. 416)	8000393
 8000394	道俗	\N	dàosú	layperson	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道俗')	8000393
 8000395	真丹	\N	zhēndān	China	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ancient Indian name for China (FGDB '真丹'; Mathews 1931 '真丹', p. 36)	8000395
@@ -7265,7 +7265,7 @@
 8007265	满愿印	滿願印	mǎn yuàn yìn	varadamudrā; mudra of granting wishes	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varadamudrā; see 施願印 (FGDB '施願印')	8007265
 8007266	啼	\N	tí	to weep; rud	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rud, Japanese: tei (BCSD '啼', p. 259; MW 'rud'; SH '啼', p. 368; Unihan '啼')	8007266
 8007267	弃	棄	qì	to expell from the Sangha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kroll 2015 '棄' 3, p. 358)	8007267
-8007268	体	體	tǐ	śarīra; human body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra (BCSD '體', p. 1285; MW 'śarīra')	8007268
+8007268	体	體	tǐ	śarīra; human body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra (BCSD '體', p. 1285; MW 'śarīra')	8007115
 8007269	喃	\N	nán	nama; praise	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nama, Japanese: nan (BCSD '喃', p. 259; MW 'nama'; Unihan '喃')	8007269
 8007270	施愿	施願	shīyuàn	to granting wishes; varada	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varada; see 勝施 (Mahāvyutpatti 'varada')	8007270
 8007271	雄猛	\N	xióngměng	a brave or eminent man; a hero; vīra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīra; Tibetan: dpa' bo; see also 勇猛 (BL 'vīra', p. 979; Mahāvyutpatti 'vīraḥ'; MW 'vīra')	8007271
@@ -8255,3 +8255,33 @@
 8008255	六方	\N	liù fāng	six directions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: East, West, North, South, above, and below (FGDB '六方'; SH '六方', p. 135)	8008255
 8008256	六方礼	六方禮	liù fāng lǐ	Ritual for the Six Directions	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A traditional Indian ritual (FGDB '六方禮'; SH '六方禮', p. 135)	8008256
 8008257	帽	\N	mào	hat; khola	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: khola, Japanese: bou, or: moun (BCSD '帽', p. 423; MW 'khola'; Unihan '帽')	8008257
+8008258	净财	淨財	jìng cái	purity of finance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '淨財')	8008258
+8008259	信施	\N	xìn shī	trust in charity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '信施')	8008259
+8008260	经忏	經懺	jīngchàn	repentance chant; ritual for blessedness and longevity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A contraction of 誦經禮懺 (CEDB '经忏'; FGDB '經懺')	8008260
+8008261	帧	幀	zhèng	picture; paṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṭa, Japanese: tei, or: tou, or: chou (BCSD '幀', p. 423; MW 'paṭa'; Unihan '幀')	8008261
+8008262	诵经	誦經	sòngjīng	to chant sutras	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CEDB '诵经'; SH '誦', p. 429)	8008262
+8008263	家庭普照	\N	jiātíngpǔzhào	a family Dharma service	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Buddhist service performed for a family assembly (FGDB '家庭普照')	8008263
+8008264	元品无明	元品無明	yuánpǐn wúmíng	innate nonenlightenment	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 根本無明 (FGDB '根本無明')	8008264
+8008265	帏	幃	wéi	a piece of cloth; caila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caila, Japanese: i, or: ki (BCSD '幃', p. 423; MW 'caila'; Unihan '幃')	8008265
+8008266	上衍	\N	shàngyǎn	Mahāyāna; Mahayana; the Great Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大乘 (FGDB '大乘')	8008266
+8008267	胜乘	勝乘	shèngshèng	Mahāyāna; Mahayana; the Great Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大乘 (FGDB '大乘')	8008267
+8008268	第一乘	\N	dìyī shèng	Mahāyāna; Mahayana; the Great Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大乘 (FGDB '大乘')	8008268
+8008269	幔	\N	màn	canopy; vitāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitāna, Japanese: ban, or: man (BCSD '幔', p. 423; MW 'vitāna'; Unihan '幔')	8008269
+8008270	法佛	\N	fǎfó	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008270
+8008271	理佛	\N	lǐfó	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008271
+8008272	幕	\N	mù	screen; kaṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṭa, Japanese: maku, or: baku (BCSD '幕', p. 423; MW 'kaṭa'; Unihan '幕')	8008272
+8008273	法身佛	\N	Fǎshēnfó	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008273
+8008274	自性身	\N	zìxìngshēn	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008274
+8008275	年腊	年臘	niánlà	years as a monastic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '臘'; Guoyu '年臘'; Kroll 2015 '年', 2a, p. 323; SH '年臘', p. 212)	8008275
+8008276	法性身	\N	fǎxìngshēn	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008276
+8008277	如如佛	\N	rúrúfó	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008277
+8008278	实佛	實佛	shífó	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008278
+8008279	年	\N	nián	year; varṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varṣa, Japanese: nen, Tibetan: lo (BCSD '年', p. 425; Mahāvyutpatti 'varṣam'; MW 'varṣa'; SH '年', p. 212; Unihan '年')	8008279
+8008280	第一身	\N	dìyī shēn	Dharmakaya; Dharmakāya; Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法身')	8008280
+8008281	体	體	tǐ	entity; a constituent; an element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012; Kroll 2015 '體' 1a)	8007115
+8008282	救世	\N	jiùshì	to save the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokanātha; for example, in the 妙法蓮華經 “Lotus Sutra”  (BCSD '救世', p. 573; Braarvig 2020, ch. 7; FGDB '救世'; Hurvitz 2009, p. 142; Kern 1884, ch. 7; T 262, Scroll 3, 9.0024b20)	8008282
+8008283	并	並	bìng	together; saha	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saha, Japanese: hei (BCSD '并', p. 425; MW 'saha'; SH '竝', p. 335; Unihan '並')	8008283
+8008284	侍者巡铺	侍者巡鋪	shìzhě xúnpū	daizhi xun pu; the attendant and the hut	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A Chan koan (FGDB '侍者巡鋪')	8008284
+8008285	广说	廣說	guǎngshuō	to explain; to teach	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vistara; in the sense of 宣說 (BCSD '廣說', p. 431; Ding '廣說'; Ding '四種廣說'; MW 'vistara')	8008285
+8008286	幻	\N	huàn	illusion; māyā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māyā, Japanese: gen (BCSD '幻', p. 425; MW 'māyā'; SH '幻', p. 149; Unihan '幻')	8008286
+8008287	四种广说	四種廣說	sì zhǒng guǎngshuō	four kinds of explaination; the four teachings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四種廣說'; FGDB '四種廣說')	8008287

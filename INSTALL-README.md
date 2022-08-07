@@ -524,12 +524,6 @@ $CNWEB_BIN_HOME/chinesenotes-go
 $CNREADER_PATH/cnreader --titleindex --project $PROJECT_ID
 ```
 
-## Update the title index in Firestore
-
-```shell
-$CNREADER_PATH/cnreader --titleindex --project $PROJECT_ID
-```
-
 Also, generate a file for the document index, needed for the web app:
 
 ```shell
