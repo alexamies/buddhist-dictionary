@@ -284,7 +284,7 @@
 8000284	小乘经	小乘經	xiǎoshèng jīng	Agamas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿含經 (SH '小乘經', p. 100)	8000284
 8000285	大乘玄论	大乘玄論	dàchéng Xuán Lùn	Treatise on the Mystery of the Mahāyāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The title of a text by 吉藏 Ji Zang included in the Chinese Buddhist canon (T 1853)	8000285
 8000286	地藏	\N	dìzàng	Ksitigarbha; Kṣitigarbha	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣitigarbha, Japanese: Jizō, Tibetan: sa yi snying po; see also 地藏菩薩 (BL 'Kṣitigarbha', p. 448; Tzu Chuang 2012; p. 198)	8000286
-8000287	顶	頂	dǐng	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, or: śekhara; see 佛頂 (BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; Kroll 2015 '頂' 1a; MW 'śekhara'; SH '佛頂', p. 230)	8000287
+8000287	顶	頂	dǐng	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, or: śekhara; see 佛頂 (BCSD '頂', p. 1260; BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; Kroll 2015 '頂' 1a; MW 'śekhara'; SH '佛頂', p. 230)	8000287
 8000288	佛顶	佛頂	fódǐng	Buddha crown; usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, Pali: uṇhīsa, Japanese: butchō, or: nikukei, Tibetan: gtsug tor; a protuberance of the crown of the Buddha's head; one of the 佛三十二相 'thirty-two marks of the Buddha' (BCSD '佛頂', p. 118; BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; SH '佛頂', p. 230)	8000288
 8000289	修道	\N	xiūdào	the path of cultivation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāvanāmārga; Pali: bhāvanāmārga, Japanese: shudō, Tibetan: sgom lam; bhāvanāmārga is the fourth of the 五位 pañcamārga 'five paths' (BL 'bhāvanāmārga', p. 113; FGDB '修道'; SH '修道', p. 321)	8000289
 8000290	三坛大戒	三壇大戒	sān tán dà jiè	ordination; ordination ceremony for nuns and monks	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012; FoguangPedia)	8000290
@@ -8369,3 +8369,9 @@
 8008369	四无色定	四無色定	sì wúsè dìng	four formless heavens	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四無色定 (FGDB '四無色定')	8008369
 8008370	弓	\N	gōng	a bow; dhanus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhanus, Japanese: kyū, Tibetan: gzhu (BCSD '弓', p. 434; Mahāvyutpatti 'dhanuḥ'; MW 'dhanus'; SH '弓', p. 103; Unihan '弓')	8008370
 8008371	二义	二義	èryì	the two meanings; the two explanations; two teachings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The ultimate meaning and the convention meaning (Ding '二義'; SH '二義', p. 29)	8008371
+8008372	顶生王	頂生王	dǐng shēng wáng	King Mūrdhaga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Figure mentioned in 頂生王因緣經 (BCSD '頂生王', p. 1260; FGDB '頂生王因緣經'; Nanjio 1883, p. 148; T 39)	8008372
+8008373	顶生	頂生	dǐng shēng	Mūrdhaga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūrdhaga; see 頂生王 (BCSD '頂生', p. 1260; Mahāvyutpatti 'mūrdhataḥ'; MW 'mūrdhaga')	8008373
+8008374	性空	\N	xìngkōng	inherently empty; empty in nature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 自性 (Ding '性空'; FGDB '性空'; SH '性空', p. 259)	8008374
+8008375	众僧	眾僧	zhòngsēng	Saṅgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 僧伽 (Ding '眾僧'; FGDB '僧伽'; SH '眾僧')	8008375
+8008376	二谛	二諦	èrdì	the two truths	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 真諦 'ultimate truth' and the 俗諦 'conventional truth' (Ding '二諦'; FGDB '二諦'; SH '二諦')	8008376
+8008377	弗	\N	fú	pu	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: futsu, or: botsu; used in Sanskrit transilterations (BCSD '弗', p. 435; Unihan '弗')	8008377
