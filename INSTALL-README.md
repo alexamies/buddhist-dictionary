@@ -544,3 +544,13 @@ Run a full text Search search:
 export TEXT_BUCKET=ntinreader-text
 $CNREADER_PATH/cnreader --project $PROJECT_ID --find_docs "本相猗致" --outfile results.csv > output.txt 2>&1
 ```
+
+## Translation Memory Index
+
+To index the translation memory use the command
+
+```shell
+nohup $CNREADER_PATH/cnreader --project $PROJECT_ID --tmindex &
+```
+
+Indexing may take about 12 hours.
