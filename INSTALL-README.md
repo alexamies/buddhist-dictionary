@@ -554,3 +554,9 @@ nohup $CNREADER_PATH/cnreader --project $PROJECT_ID --tmindex &
 ```
 
 Indexing may take about 12 hours.
+
+Search the translation memory index
+
+```shell
+$CNREADER_PATH/cnreader --project $PROJECT_ID --tmsearch 古來世世經
+```
