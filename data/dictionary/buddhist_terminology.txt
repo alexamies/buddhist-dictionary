@@ -5752,7 +5752,7 @@
 8005752	凶	兇	xiōng	inauspicious, unlucky; amaṅgalya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amaṅgalya (BCSD '兇', p. 152; MW 'amaṅgalya')	8005752
 8005753	凶	兇	xiōng	injurious; khara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kharaḥ, Tibetan: brlang po (BCSD '兇', p. 152; Mahāvyutpatti 'kharaḥ'; MW 'khara')	8005752
 8005754	不退智	\N	bù tuì zhì	never regressing wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as used in the Lotus Sutra (Karashima 2001, p. 68; T 262, Scroll 5, 9.0039a20)	8005754
-8005755	律	\N	lǜ	monastic discipline; vinaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vinaya, Pali: vinaya, Japanese: ritsu, Tibetan: 'dul ba; also used in Taoism (BL 'vinaya', p. 974; FGDB '律'; GHC '律' 4; Kroll 2015 '律' 5; Powers 2007, p. 55)	8005755
+8005755	律	\N	lǜ	monastic discipline; vinaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vinaya, Pali: vinaya, Japanese: ritsu, Tibetan: 'dul ba; also used in Taoism (BCSD '律', p. 443; BL 'vinaya', p. 974; FGDB '律'; GHC '律' 4; Kroll 2015 '律' 5; Powers 2007, p. 55)	8005755
 8005756	先	\N	xiān	first; former; pūrva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva (BCSD '先', p. 152; MW 'pūrva')	8005756
 8005757	不休息	不休息	bù xiū xī	never resting; anikṣiptadhura	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 不休息菩薩 (FGDB '不休息菩薩')	8005757
 8005758	彩画	彩畫	cǎihuà	a color painting; citra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citra; for example, as used in the Lotus Sutra (Karashima 2001, p. 69; MW 'citra'; T 262, Scroll 1, 9.0007c09)	8005758
@@ -8470,3 +8470,15 @@
 8008470	杂染	雜染	zárǎn	an affliction; a defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '雜染'; FGDB '雜染'; SH '雜染', p. 470)	8008470
 8008471	意处	意處	yìchù	mental basis of cognition	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十二處 'twelve bases of cognition' (Ding '意處'; SH '意處', p. 400)	8008471
 8008472	待	\N	dài	dependence on; apekṣā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apekṣā, Japanese: tai, or: dai (BCSD '待', p. 443; MW 'apekṣā'; SH '待', p. 301; Unihan '待')	8008472
+8008473	婆罗	婆羅	póluó	pāla; warden; keeper; guardian	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāla (Ding '婆羅'; FGDB '婆羅'; SH '婆羅', p. 346)	8008473
+8008474	婆罗	婆羅	póluó	bāla; power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (Ding '婆羅'; FGDB '婆羅'; SH '婆羅', p. 346)	8008473
+8008475	欲界系	欲界繫	yùjièxì	bonds of the desire realm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	繫 is used in the sense of 繫縛 'fetter' (Ding '欲界繫'; FGDB '欲界繫')	8008475
+8008476	后	後	hòu	rear; paścāt	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Traditional: 後, Sanskrit equivalent: paścāt (BCSD '後', p. 443; MW 'paścāt')	8006848
+8008477	外空	\N	wàikōng	emptiness external to the body	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bahirdhā śūnyatā, Tibetan: phyi stong pa nyid; one of the 十八空 'eighteen kinds of emptiness' or 二十空 'twenty kinds of emptiness' (Ding '外空'; FGDB '外空'; Mahāvyutpatti 'bahirdhā śūnyatā')	8008477
+8008478	现观	現觀	xiànguān	abhisamaya; comprehension; realization; insight	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhisamaya, Pali: abhisamaya, Japanese: genkan (BL 'abhisamaya'; Ding '現觀'; FGDB '現觀'; SH '現觀', p. 359)	8008478
+8008479	徐	\N	xú	slowly; mandam	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mandam, Japanese: jo (BCSD '徐', p. 445; MW 'paścāt'; Unihan '徐')	8008479
+8008480	空解脱门	空解脫門	kōng jiětuōmén	the door of deliverance of emptiness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三解脫門 'three doors of deliverance'  (Ding '空解脫門'; FGDB '空解脫門'; SH '空解脫門', p. 278)	8008480
+8008481	三解脱门	三解脫門	sān jiětuōmén	the three doors of deliverance; the three gates of liberation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three are: 1. 空 'emptiness', 2. 無相 'signlessness', and 3. 無願 'desireless' (BL 'List of Lists'; Ding '三解脫門'; FGDB '三解脫門'; SH '三空門', p. 73)	8008481
+8008482	径	徑	jìng	path; mārga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārga, Japanese: kei (BCSD '徑', p. 446; MW 'mārga'; SH '徑', p. 325; Unihan '徑')	8008482
+8008483	三解脱	三解脫	sān jiětuō	the three doors of deliverance; the three gates of liberation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三解脫門 (FGDB '三解脫門')	8008483
+8008484	三脱门	三脫門	sān tuōmén	the three doors of deliverance; the three gates of liberation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三解脫門 (FGDB '三解脫門')	8008484
