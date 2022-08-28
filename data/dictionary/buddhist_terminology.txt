@@ -3693,7 +3693,7 @@
 8003693	丰山	豐山	fēngshān	Buzan	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Buzan; see 真言宗豊山派 (JEBD '豊山派', p. 29; Wikipedia '真言宗豊山派')	8003693
 8003694	頞尔罗	頞爾羅	ènǐluó	Anila	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Sutra of the Medicine Buddha (FGDB '藥師十二神將')	8003694
 8003695	珊底罗	珊底羅	shāndǐluó	Sandila	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Sutra of the Medicine Buddha (FGDB '藥師十二神將')	8003695
-8003696	因达罗	因達羅	yīndáluó	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; this form is used in the Sutra of the Medicine Buddha (FGDB '藥師十二神將')	8003696
+8003696	因达罗	因達羅	yīndáluó	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra, Pali: inda; this form is used in Buddhist sutras, such as the Sutra of the Medicine Buddha (FGDB '因達羅')	8003696
 8003697	波夷罗	波夷羅	bōyíluó	Pajra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Sutra of the Medicine Buddha (FGDB '藥師十二神將')	8003697
 8003698	迷企罗	迷企羅	míqǐluó	Mihira	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mihira; see 迷企羅大將 (FGDB '迷企羅大將')	8003698
 8003699	摩竭陀	\N	mójiétuó	Magadha	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 摩揭陀國 (Ding '摩竭陀')	8003699
@@ -3767,7 +3767,7 @@
 8003767	光明	\N	guāngmíng	brightness; flame	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raśmi, or: jvala, or: prabhā, Japanese: kōmyō, Tibetan: 'od zer (BCSD '光明', p. 154; FGDB '光明真言'; JEDB '光明眞言', p. 198-199; Mahāvyutpatti 'raśmiḥ'; MW 'jvala' 1)	8003767
 8003768	一切义成就菩萨	一切義成就菩薩	yīqiè yì chéngjiù púsà	Sarvarthasiddhi Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvarthasiddhi; mentioned in the 金剛頂一切如來真實攝大乘現證大教王經 “Sarvatathāgatatattvasaṁgraha” (Giebel 2001, p. 23; T 865, Scroll 1, 18.0207c10)	8003768
 8003769	阿娑颇娜伽三摩地	阿娑頗娜伽三摩地	āsuōpǒnàjiā sānmódì	asphanaka-samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsphānaka-samādhi; a deep meditation mentioned in the 金剛頂一切如來真實攝大乘現證大教王經 “Sarvatathāgatatattvasaṁgraha” (Giebel 2001, p. 23; T 865, Scroll 1, 18.0207c13)	8003769
-8003770	心	\N	xīn	citta; thinking; thought; mind; mentality	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta, Pali: citta, Japanese: shin, Tibetan: sems (BL 'citta', p. 194; FGDB '心'; Kroll 2015 '心' 3, p. 507; MW 'citta')	8003770
+8003770	心	\N	xīn	citta; thinking; thought; mind; mentality	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta, Pali: citta, Japanese: shin, Tibetan: sems (BCSD '心', p. 459; BL 'citta', p. 194; FGDB '心'; Kroll 2015 '心' 3, p. 507; MW 'citta')	8003770
 8003771	质多	質多	zhìduō	citta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta; see also 心, a form used in mantras, such as the mantras in the 金剛頂一切如來真實攝大乘現證大教王經 “Sarvatathāgatatattvasaṁgraha” (Ding '質多'; FGDB '質多'; SH '質多', p. 444; Giebel 2001, p. 23; T 865, Scroll 1, 18.0207c25)	8003771
 8003772	质多耶	質多耶	zhìduōyé	citta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta; see 質多 (FGDB '質多')	8003772
 8003773	只多	\N	zhīduō	citta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta; see 質多 (FGDB '質多')	8003773
@@ -6235,7 +6235,7 @@
 8006235	常啼	常啼	chángtí	Sadāprarudita	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	The name of a bodhisattva in the Aṣṭasāhasrikā 小品般若波羅蜜經 (BL 'sadāprarudita'; FGDB '薩陀波崙菩薩')	8006235
 8006236	昙无竭	曇無竭	tánwújié	Dharmodgata	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	The name of a bodhisattva in the Aṣṭasāhasrikā 小品般若波羅蜜經 (BL 'Dharmodgata'; FGDB '曇無竭')	8006236
 8006237	勘	\N	kān	concentrated; yukta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yukta (BCSD '勘', p. 204; MW 'yukta'; SH '勘', p. 343)	8006237
-8006238	志	\N	zhì	resolve; determination; adhyāśaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhyāśaya, traditional: 志 (BCSD '志', p. 468; Edgerton 1953 'adhyāśaya', p. 47; MW 'adhyāśaya'; SH '志', p. 237)	8006238
+8006238	志	\N	zhì	resolve; determination; adhyāśaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhyāśaya, traditional: 志, Japanese: shi (BCSD '志', p. 468; Edgerton 1953 'adhyāśaya', p. 47; MW 'adhyāśaya'; SH '志', p. 237)	8006238
 8006239	昙无竭菩萨	曇無竭菩薩	tánwújié púsà	Dharmodgata bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	The name of a bodhisattva in the Aṣṭasāhasrikā 小品般若波羅蜜經 (BL 'Dharmodgata'; FGDB '曇無竭')	8006239
 8006240	劳	勞	láo	toil; śrama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrama, Japanese: rō (BCSD '勞', p. 209; DJBT '勞', p. 430; MW 'śrama'; SH '勞', p. 367)	8006240
 8006241	貝支迦	\N	bèizhījiā	Pratyeka-Buddha; Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; Pali: paccekabuddha; a being that has achieve enlightenment independently without the help of a teachers and does not teach others (BL 'pratyekabuddha'; FGDB '辟支佛')	8006241
@@ -8505,3 +8505,30 @@
 8008505	念处	念處	niànchù	smṛtyupasthāna; satipaṭṭhāna; smrtyupasthana; satipatthana; foundation of mindfulness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛtyupasthāna, Pali: satipaṭṭhāna, Japanese: nenjo (BL 'smṛtyupasthāna'; Ding '念處'; FGDB '念處'; SH '念處', p. 258)	8008505
 8008506	缘缘	緣緣	yuányuán	ālambanapratyaya; ārammaṇapaccaya; observed object condition	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ālambanapratyaya, Pali: ārammaṇapaccaya, Japanese: shoenen (BL 'ālambanapratyaya'; Ding '緣緣'; FGDB '所緣緣'; SH '緣緣', p. 441)	8008506
 8008507	微	\N	wēi	minute; aṇu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṇu, Japanese: bi (BCSD '微', p. 457; MW 'aṇu'; SH '微', p. 399; Unihan '微')	8008507
+8008508	三句	\N	sān jù	three questions	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	May refer to the three questions of 雲門 Yunmen (Ding '三句'; FGDB '三句'; SH '三句', p. 61)	8008508
+8008509	变易	變易	biànyì	change	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, the change from causes to results; similar in meaning to 變化 (Ding '變易'; FGDB '變易'; SH '變易', p. 262)	8008509
+8008510	未来世	未來世	wèiláishì	times to come; the future	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '未來世'; SH '未來世', p. 188)	8008510
+8008511	众苦	眾苦	zhòngkǔ	all suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '眾苦'; SH '眾苦')	8008511
+8008512	徴	\N	zhēng	impelled; codya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: codya, Japanese: chou, or: chi (BCSD '徴', p. 459; MW 'codya'; Unihan '徴')	8008512
+8008513	利养	利養	lìyǎng	gain	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '利養'; SH '利養', p. 230)	8008513
+8008514	受想	\N	shòu xiǎng	sensation and perception	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second and third items in the 五蘊 five aggregates (Ding '利養'; FGDB '利養'; SH '利養', p. 230)	8008514
+8008515	同分	\N	tóng fēn	same class	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 眾同分 (FGDB '眾同分')	8008515
+8008516	彻	徹	chè	to gush forth; praskand	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praskand, Japanese: tetsu (BCSD '徹', p. 459; MW 'praskand'; SH '徹', p. 432; Unihan '徹')	8008516
+8008517	众同分	眾同分	zhòng tóng fēn	same class	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '同分'; FGDB '眾同分'; SH '同分', p. 204)	8008517
+8008518	因陀逻	因陀邏	yīntuóluó	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; see 因陀羅 (FGDB '因陀羅')	8008518
+8008519	因提棃	\N	yīntílí	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; see 因陀羅 (FGDB '因陀羅')	8008519
+8008520	因提	\N	yīntí	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; see 因陀羅 (FGDB '因陀羅')	8008520
+8008521	因抵	\N	yīndǐ	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; see 因陀羅 (FGDB '因陀羅')	8008521
+8008522	必	\N	bì	certainly; avaśyam	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaśyam, Japanese: hitsu (BCSD '必', p. 466; MW 'avaśyam'; SH '必', p. 188; Unihan '必')	8008522
+8008523	心法	\N	xīn fǎ	mental objects	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '心法'; FGDB '心法'; SH '心法', p. 151)	8008523
+8008524	苏摩	蘇摩	sūmó	soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; an Indian ritual drink mentioned in Buddhist texts (FGDB '蘇摩'; MW 'soma'; SH '蘇摩', p. 479)	8008524
+8008525	苏摩	蘇摩	sūmó	Soma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A traditional Indian deity (FGDB '蘇摩')	8008524
+8008526	素摩	\N	sùmó	soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; see 蘇摩 (FGDB '素摩')	8008526
+8008527	忉	\N	dāo	grieved	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou (BCSD '忉', p. 467; SH '忉', p. 188; Unihan '忉')	8008527
+8008528	神我	\N	shénwǒ	spiritual self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa (Bak 2017, pp. 44-47; Ding '神我'; FGDB '神我'; SH '神我', p. 334)	8008528
+8008529	我知者	\N	wǒzhīzhě	Spiritual Self; Purusa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神我 (FGDB '神我')	8008529
+8008530	生主	\N	shēng zhǔ	Prajapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajāpati; lord of creatures, mentioned in Buddhist texts (FGDB '生主')	8008530
+8008531	钵钵阇钵底	鉢鉢闍鉢底	bōbōshébōdǐ	Prajapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajāpati; see 生主 (FGDB '生主')	8008531
+8008532	生天	\N	shēng tiān	highest rebirth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四種天 'four kinds of heaven' (Ding '生天'; FGDB '生天'; SH '生天', p. 196)	8008532
+8008533	句义	句義	jù yì	the meaning of a word; the meaning of a sentence	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padārtha (Ding '句義'; FGDB '句義'; MW 'padārtha')	8008533
+8008534	忘	\N	wàng	forget; vismṛ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vismṛ, Japanese: bou (BCSD '忘', p. 467; MW 'vismṛ'; Unihan '忘')	8008534
