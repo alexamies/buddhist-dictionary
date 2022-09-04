@@ -44,7 +44,7 @@
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
 8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmarambana (BCSD '法緣', p. 718; FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
-8000047	梵	\N	fàn	brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahma; a member of the Indian caste (BCSD '梵', p. 656; FGDB '梵'; MW 'brahman')	8000047
+8000047	梵	\N	fàn	Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spitit (BCSD '梵', p. 656; FGDB '梵'; Heehs, p. 58; MW 'brahman'; Unihan '梵')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BL 'ārya', p. 64; BCSD '聖', p. 955; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
@@ -7858,8 +7858,8 @@
 8007858	染法	\N	rǎnfǎ	kleśa; mental affliction	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, 'polluting dharma'; synonymous with 煩惱 (FGDB '染法')	8007858
 8007859	染污法	\N	rǎnwūfǎ	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 染法 (FGDB '染法')	8007859
 8007860	娇	嬌	jiāo	heart-stealing; mano-hara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mano-hara, Japanese: kyou (BCSD '嬌', p. 368; MW 'mano-hara'; Unihan '嬌')	8007860
-8007861	吉隶舍	吉隸舍	jílìshè	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 煩惱 (FGDB '煩惱')	8007861
-8007862	惑	\N	huò	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 煩惱 (FGDB '煩惱')	8007862
+8007861	吉隶舍	吉隸舍	jílìshè	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleśa; see 煩惱 (FGDB '煩惱')	8007861
+8007862	惑	\N	huò	kleśa; kilesa; a mental affliction; defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleśa, Japanese: waku; see 煩惱 (BCSD '惑', p. 485; FGDB '煩惱'; MW 'kleśa'; Unihan '惑')	8007862
 8007863	须弥留山	須彌留山	xūmíliú shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007863
 8007864	修迷楼山	修迷樓山	xiūmílóu shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007864
 8007865	弥楼山	彌樓山	mílóu shān	Mount Sumeru; Mount Meru	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 須彌山 (FGDB '須彌山')	8007865
@@ -8640,3 +8640,16 @@
 8008640	佛智	\N	fózhì	Buddha knowledge; Buddha wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛智'; FGDB '佛智'; SH '佛智', p. 228)	8008640
 8008641	五尘	五塵	wǔchén	objects of the five senses	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '五塵'; FGDB '五塵'; SH '五塵', p. 116)	8008641
 8008642	患	\N	huàn	distress; ādīnava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādīnava, Japanese: kan, or: gen (BCSD '患', p. 483; MW 'ādīnava'; Unihan '患')	8008642
+8008643	四姓	\N	sì xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	(FGDB '四姓'; Heehs, p. 57)	8008643
+8008644	西域四姓	\N	xīyù sì xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008644
+8008645	四种姓	四種姓	sì zhǒng xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008645
+8008646	四姓种	四姓種	sì xìng zhǒng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008646
+8008647	四品人	\N	sì pǐn rén	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008647
+8008648	闷	悶	mēn	stupor; mūrchā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūrchā, Japanese: mon (BCSD '悶', p. 483; MW 'mūrchā'; Unihan '悶')	8008648
+8008649	梵种	梵種	fànzhǒng	Brahmin	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 婆羅門 (FGDB '四姓')	8008649
+8008650	刹利丽	剎利麗	shālìlì	Ksatriya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kṣatriya; see 剎利 (FGDB '四姓')	8008650
+8008651	五木	\N	wǔ mù	five kinds of wood	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Specificaly, five kinds of firewood used in making fragrant water to bath the Buddha: 桃 peach, 李 plum, 松 pine, 柏 cypress, and 柳 willow (FGBD '五木')	8008651
+8008652	输陀罗	輸陀羅	shūtuóluó	sudra	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śūdra; see 首陀羅 (FGDB '四姓')	8008652
+8008653	杀生种	殺生種	shāshēngzhǒng	sudra	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śūdra; see 首陀羅 (FGDB '四姓')	8008653
+8008654	寸钉入木	寸釘入木	cùn dīng rù mù	with small amount of concentration, to become like a tree	set phrase	公案	Kōan	佛教	Buddhism	禅宗	Chan	\N	\N	(FGDB '寸釘入木')	8008654
+8008655	惛	\N	mèn	dull; styāna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: styāna, Japanese: kon, or: bin, or: min (BCSD '惛', p. 485; MW 'styāna'; Unihan '惛')	8008655
