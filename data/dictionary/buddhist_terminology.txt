@@ -4026,7 +4026,7 @@
 8004026	东胜身州	東勝身州	dōng shèng shēn zhōu	Purvavideha	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvavideha; the easternmost of the Four Great Continents 四洲 (Tzu Chuang 2012, pp. 52-55)	8004026
 8004027	西牛货洲	西牛貨洲	xī niú huò zhōu	Apara-godaniya; Aparagodana; Aparagodaniya	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aparagodāna; the westernmost of the Four Great Continents 四洲 (Tzu Chuang 2012, pp. 52-55)	8004027
 8004028	北俱卢洲	北俱盧洲	běi jū Lú zhōu	Uttarakuru	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	See 鬱單越 (FGDB '鬱單越')	8004028
-8004029	俱卢	俱盧	kūlú	Kuru	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kuru; a clan of people that occupied Northern India in ancient times; see 十六大國 (FGDB '十六大國')	8004029
+8004029	悕	\N	xī	to wish for; pratikāṅkṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratikāṅkṣ, Japanese: ki, or: ke (BCSD '悕', p. 483; MW 'pratikāṅkṣ'; Unihan '悕')	8004029
 8004030	五衰相现	五衰相現	wǔ shuāi xiāng xiàn	Five Signs of Decay	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five signs of decay of heavenly beings that appear as their life is about to end (Tzu Chuang 2012, pp. 56-59)	8004030
 8004031	回事向理	\N	huí shì xiàng lǐ	dedicating phenomena to the absolute	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A kind of merit transfer (Tzu Chuang 2012, pp. 59-61)	8004031
 8004032	回因向果	\N	huí yīn xiàng guǒ	dedicating cause to effect	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A kind of merit transfer (Tzu Chuang 2012, pp. 59-61)	8004032
@@ -8620,11 +8620,23 @@
 8008620	恭	\N	gōng	reverence; bhajana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhajana, Japanese: kyou, Tibetan: bsnyen pa (BCSD '恭', p. 480; Mahāvyutpatti 'bhajanam'; MW 'bhajana'; SH '恭', p. 325; Unihan '恭')	8008620
 8008621	智品	\N	zhìpǐn	teaching of the one Spirit; jñānakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'jñānakāṇḍa')	8008621
 8008622	业品	業品	yèpǐn	teachings related to ceremonial acts and sacrificial rites; karmakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'karmakāṇḍa')	8008622
-8008623	奥义书	奧義書	Àoyìshū	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Embree 1988, pp. 29-39; FGDB '奧義書')	8008623
+8008623	奥义书	奧義書	Àoyìshū	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Embree 1988, pp. 29-39; FGDB '奧義書'; Heehs, pp. 57-87)	8008623
 8008624	优波尼沙土	優波尼沙土	yōubōníshātǔ	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad; see 奧義書 (FGDB '奧義書')	8008624
 8008625	破着	破著	pòzhe	to break attachments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二種破著')	8008625
 8008626	息	\N	xī	rest; śama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śama, Japanese: soku (BCSD '息', p. 480; MW 'śama'; SH '息', p. 325; Unihan '息')	8008626
 8008627	贪着	貪著	tānzhe	attachment to desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lagna (BCSD '貪著', p. 1109; Ding '貪著'; FGDB '貪著'; Karashima 2001, p. 378; SH '貪著', p. 364)	8008627
 8008628	爱着	愛著	àizhe	attachment to desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '愛著'; FGDB '愛著'; SH '愛著', p. 401)	8008628
-8008629	悦	悅	yuè	pleased; prīti	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prīti, Japanese: etsu (BCSD '悅', p. 480; MW 'prīti'; SH '悅', p. 325; Unihan '悅')	8008629
+8008629	悦	悅	yuè	pleased; prīti	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prīti, Japanese: etsu (BCSD '悅', p. 481; MW 'prīti'; SH '悅', p. 325; Unihan '悅')	8008629
 8008630	味着	味著	wèizhe	attachment to the taste of food	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '味著')	8008630
+8008631	住着	住著	zhùzhe	to cling; to attach; to dwell	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '住著')	8008631
+8008632	悉	\N	xī	all; kṛtsna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛtsna, Japanese: shitsu (BCSD '悉', p. 481; MW 'kṛtsna'; SH '悉', p. 359; Unihan '悉')	8008632
+8008633	毘钵舍那	毘鉢舍那	píbōshènà	insight; vipaśyanā; vipassanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 觀 (SH '毘婆舍那', p. 305)	8008633
+8008634	净业	淨業	jìngyè	pure karma; good karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	That is likely to lead to rebirth in a Pure Land (Ding '淨業'; FGDB '淨業'; SH '淨業', p. 358)	8008634
+8008635	悋	\N	lìn	stingy; kadarya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kadarya, Japanese: rin, Tibetan: 'jungs pa (BCSD '悋', p. 482; Mahāvyutpatti 'kadaryaḥ'; MW 'kadarya'; Unihan '悋')	8008635
+8008636	不思议业	不思議業	bù sī yì yè	suprarational functions	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 不思議業相 (FGDB '不思議業相')	8008636
+8008637	悍	\N	hàn	hāṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hāṃ, Japanese: kan; used in transliterations (BCSD '悋', p. 482; Unihan '悍')	8008637
+8008638	净法	淨法	jìngfǎ	pure dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '淨法')	8008638
+8008639	净法	淨法	jìngfǎ	the teaching of the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正法 (FGDB '淨法')	8008639
+8008640	佛智	\N	fózhì	Buddha knowledge; Buddha wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛智'; FGDB '佛智'; SH '佛智', p. 228)	8008640
+8008641	五尘	五塵	wǔchén	objects of the five senses	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '五塵'; FGDB '五塵'; SH '五塵', p. 116)	8008641
+8008642	患	\N	huàn	distress; ādīnava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādīnava, Japanese: kan, or: gen (BCSD '患', p. 483; MW 'ādīnava'; Unihan '患')	8008642
