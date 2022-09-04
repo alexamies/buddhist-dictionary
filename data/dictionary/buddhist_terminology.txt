@@ -4026,7 +4026,7 @@
 8004026	东胜身州	東勝身州	dōng shèng shēn zhōu	Purvavideha	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvavideha; the easternmost of the Four Great Continents 四洲 (Tzu Chuang 2012, pp. 52-55)	8004026
 8004027	西牛货洲	西牛貨洲	xī niú huò zhōu	Apara-godaniya; Aparagodana; Aparagodaniya	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aparagodāna; the westernmost of the Four Great Continents 四洲 (Tzu Chuang 2012, pp. 52-55)	8004027
 8004028	北俱卢洲	北俱盧洲	běi jū Lú zhōu	Uttarakuru	proper noun	州	Continent	佛教	Buddhism	\N	\N	\N	\N	See 鬱單越 (FGDB '鬱單越')	8004028
-8004029	俱卢	俱盧	Kūlú	Kuru	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kuru; a clan of people that occupied Northern India in ancient times; see 十六大國 (FGDB '十六大國')	8004029
+8004029	俱卢	俱盧	kūlú	Kuru	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kuru; a clan of people that occupied Northern India in ancient times; see 十六大國 (FGDB '十六大國')	8004029
 8004030	五衰相现	五衰相現	wǔ shuāi xiāng xiàn	Five Signs of Decay	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five signs of decay of heavenly beings that appear as their life is about to end (Tzu Chuang 2012, pp. 56-59)	8004030
 8004031	回事向理	\N	huí shì xiàng lǐ	dedicating phenomena to the absolute	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A kind of merit transfer (Tzu Chuang 2012, pp. 59-61)	8004031
 8004032	回因向果	\N	huí yīn xiàng guǒ	dedicating cause to effect	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A kind of merit transfer (Tzu Chuang 2012, pp. 59-61)	8004032
@@ -8620,3 +8620,11 @@
 8008620	恭	\N	gōng	reverence; bhajana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhajana, Japanese: kyou, Tibetan: bsnyen pa (BCSD '恭', p. 480; Mahāvyutpatti 'bhajanam'; MW 'bhajana'; SH '恭', p. 325; Unihan '恭')	8008620
 8008621	智品	\N	zhìpǐn	teaching of the one Spirit; jñānakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'jñānakāṇḍa')	8008621
 8008622	业品	業品	yèpǐn	teachings related to ceremonial acts and sacrificial rites; karmakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'karmakāṇḍa')	8008622
+8008623	奥义书	奧義書	Àoyìshū	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Embree 1988, pp. 29-39; FGDB '奧義書')	8008623
+8008624	优波尼沙土	優波尼沙土	yōubōníshātǔ	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad; see 奧義書 (FGDB '奧義書')	8008624
+8008625	破着	破著	pòzhe	to break attachments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二種破著')	8008625
+8008626	息	\N	xī	rest; śama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śama, Japanese: soku (BCSD '息', p. 480; MW 'śama'; SH '息', p. 325; Unihan '息')	8008626
+8008627	贪着	貪著	tānzhe	attachment to desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lagna (BCSD '貪著', p. 1109; Ding '貪著'; FGDB '貪著'; Karashima 2001, p. 378; SH '貪著', p. 364)	8008627
+8008628	爱着	愛著	àizhe	attachment to desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '愛著'; FGDB '愛著'; SH '愛著', p. 401)	8008628
+8008629	悦	悅	yuè	pleased; prīti	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prīti, Japanese: etsu (BCSD '悅', p. 480; MW 'prīti'; SH '悅', p. 325; Unihan '悅')	8008629
+8008630	味着	味著	wèizhe	attachment to the taste of food	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '味著')	8008630
