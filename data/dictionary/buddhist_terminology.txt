@@ -44,7 +44,7 @@
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
 8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmarambana (BCSD '法緣', p. 718; FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
-8000047	梵	\N	fàn	Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spitit (BCSD '梵', p. 656; FGDB '梵'; Heehs, p. 58; MW 'brahman'; Unihan '梵')	8000047
+8000047	梵	\N	fàn	Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spirit (BCSD '梵', p. 656; FGDB '梵'; Heehs, p. 58; MW 'brahman'; Unihan '梵')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BL 'ārya', p. 64; BCSD '聖', p. 955; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
@@ -3615,7 +3615,7 @@
 8003615	邪	\N	xié	incorrect; improper; heterodox	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithyā, Japanese: ja (BCSD '邪', p. 1170; DJBT '邪', p. 428; MW 'mithyā'; SH '邪', p. 246)	8003615
 8003616	邪	\N	xié	evil	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māra (BCSD '邪', p. 1170; MW 'māra')	8003615
 8003617	邪魔	\N	xiémó	demon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māra (BCSD '平', p. 1170; Ding '邪魔'; FGDB '邪魔'; SH '邪魔', p. 247)	8003617
-8003618	恶	惡	è	evil	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akuśala, or: kuhanā, Tibetan: ngan pa, Japanese: aku (FGDB '惡'; DJBT '惡', p. 426;  JEBD 'aku', p. 6;  Mahāvyutpatti 'kuhanā'; MW 'akuśala'; SH '惡', p. 371)	8003234
+8003618	恶	惡	è	evil	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akuśala, or: kuhanā, Japanese: aku, Tibetan: ngan pa (BCSD '惡', p. 486; DJBT '惡', p. 426; FGDB '惡'; JEBD 'aku', p. 6;  Mahāvyutpatti 'kuhanā'; MW 'akuśala'; SH '惡', p. 371)	8003234
 8003619	恶魔	惡魔	èmó	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '惡魔'; SH '惡魔', p. 372)	8003619
 8003620	邪魔外道	\N	xiémó wài dào	evil behavior; an evil cult	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '邪魔外道'; SH '邪魔外道', p. 247)	8003620
 8003621	注	註	zhù	record; note; annotate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛtti; Japanese: chū, Tibetan: 'grel ba (DJBT '註', p. 426; Mahāvyutpatti 'vṛttiḥ'; MW 'vṛtti')	8003621
@@ -8653,3 +8653,8 @@
 8008653	杀生种	殺生種	shāshēngzhǒng	sudra	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śūdra; see 首陀羅 (FGDB '四姓')	8008653
 8008654	寸钉入木	寸釘入木	cùn dīng rù mù	with small amount of concentration, to become like a tree	set phrase	公案	Kōan	佛教	Buddhism	禅宗	Chan	\N	\N	(FGDB '寸釘入木')	8008654
 8008655	惛	\N	mèn	dull; styāna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: styāna, Japanese: kon, or: bin, or: min (BCSD '惛', p. 485; MW 'styāna'; Unihan '惛')	8008655
+8008656	祈祷主	祈禱主	qídǎozhǔ	Brhaspati	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bṛhaspati; Vedic deity that is mentioned in the Rigveda (FGDB '梵'; Wikipedia '祭主仙人')	8008656
+8008657	寸铁入木	寸鐵入木	cùn tiě rù mù	with small amount of concentration, to become like a tree	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 寸釘入木 (FGDB '寸釘入木')	8008657
+8008658	惟	\N	wéi	merely; mātra	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mātra, Japanese: i, or: yui, or: bi (BCSD '惟', p. 486; MW 'mātra'; Unihan '惟')	8008658
+8008659	梵我一如	\N	fàn wǒ yīrú	Brahma and Atma are one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the Hindu concept of the unity of Brahma and Atma as described in the Upanisads (FGDB '梵我一如')	8008659
+8008660	闪笛耳耶	閃笛耳耶	shǎndíěryé	Sāandilya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śāṇḍilya; a Brahmin lineage after the Rishi Sandilya (FGDB '梵我一如'; Wikipedia 'Shandilya')	8008660
