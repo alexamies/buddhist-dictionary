@@ -222,7 +222,7 @@
 8000222	法界	\N	fǎjiè	a dharma realm; dharmadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmadhātu, Pali: dhammadhātu, Japanese: hokkai, Tibetan: chos kyi dbyings; either a world or the entire world (BCSD '法界'; BL 'dharmadhātu', p. 244; FGDB '法界'; SH '法界', p. 271)	8000222
 8000223	人天	\N	réntiān	people and devas; all living things	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '人天'; SH '人天', p. 32)	8000223
 8000224	戒行	\N	jièxíng	to abide by precepts	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '戒行'; FGDB '戒行'; Guoyu '戒行'; Mathews 1931 '戒行', p. 85)	8000224
-8000225	愧	\N	kuì	shame; decorum; propriety	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apatrāpya, Pali: ottappa, Japanese: gi, Tibetan: khrel yod pa (BL 'apatrāpya', p. 57; FGDB '愧')	8000225
+8000225	愧	\N	kuì	shame; decorum; propriety	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apatrāpya, Pali: ottappa, Japanese: gi, Tibetan: khrel yod pa (BCSD '愧', p. 498; BL 'apatrāpya', p. 57; FGDB '愧')	8000225
 8000226	无贪	無貪	wútān	non-attachment; alobha	proper noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alobha, Pali: alobha, Japanese: muton, Tibetan: ma chags pa; one of the 三善根 three wholesome roots (BL 'alobha', p. 32; FGDB '無貪'; SH '三善根', p. 62)	8000226
 8000227	三善根	\N	sānshàngēn	three wholesome roots	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely:  無貪 no greed, 無瞋 no anger, and 無痴 no ignorance (FGDB '三善根'; SH '三善根', p. 62)	8000227
 8000228	不贪	不貪	bùtān	non-attachment; alobha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alobha; see 無貪 (FGDB '無貪')	8000228
@@ -8695,3 +8695,6 @@
 8008695	八支瑜伽	\N	bā zhī yújiā	ashtanga yoga; eight limbs of yoga	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: aṣṭāṅgayoga (FGDB '八支瑜伽')	8008695
 8008696	愚	\N	yú	folly; moha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moha, Japanese: gu (BCSD '愚', p. 494; MW 'moha'; SH '愚', p. 399; Unihan '愚')	8008696
 8008697	流转	流轉	liúzhuàn	moving onwards; pravṛtti	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravṛtti, Tibetan: 'jug pa (Mahāvyutpatti 'pravṛttiḥ'; MW 'pravṛtti')	8001056
+8008698	空门	空門	kōng mén	the teaching that everything is emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '空門'; FGDB '空門'; SH '空門', p. 278)	8008698
+8008699	亦有亦空门	亦有亦空門	yì yǒu yì kōng mén	the teaching of both the phenomenal world and of emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '亦有亦空門'; FGDB '亦有亦空門')	8008699
+8008700	非有非空门	非有非空門	fēi yǒu fēi kōng mén	the teaching that there is neither the phenomenal world or emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '非有非空門'; FGDB '非有非空門')	8008700
