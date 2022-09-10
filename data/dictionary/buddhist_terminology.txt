@@ -44,7 +44,7 @@
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
 8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmarambana (BCSD '法緣', p. 718; FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
-8000047	梵	\N	fàn	Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spirit, which cannot be described in words (BCSD '梵', p. 656; FGDB '梵'; Heehs, p. 58; MW 'brahman'; Radhakrishnan and Moore 1957, pp. 44-45; Unihan '梵')	8000047
+8000047	梵	\N	fàn	Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spirit, which cannot be described in words (BCSD '梵', p. 656; FGDB '梵'; Heehs 2002, p. 58; MW 'brahman'; Radhakrishnan and Moore 1957, pp. 44-45; Unihan '梵')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BL 'ārya', p. 64; BCSD '聖', p. 955; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
@@ -153,7 +153,7 @@
 8000153	广大圆满无碍大悲心陀罗尼	廣大圓滿無礙大悲心陀羅尼	guǎngdà yuánmǎn wú'ài dàbēixīn tuóluóní	Perfect Unhindered Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000153
 8000154	大悲心陀罗尼	大悲心陀羅尼	dàbēixīn tuóluóní	Great Compassion Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 大悲咒 (FGDB '大悲咒')	8000154
 8000155	大悲咒	\N	dà bēi zhòu	Great Compassion Dharani; Great Compassion Mantra	proper noun	咒	Dharani	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Nīlakantha dhāranī, Mahā Karuṇā Dhāranī, Japanese: Daihiju (BL'Dabei zhou', p. 205; FGDB '大悲咒'; SH '大悲咒', p. 88)	8000155
-8000156	唵	\N	ǎn	om	particle	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ, Japanese: an, or: on; ॐ used in mantras; it is adopted from Vedic tradition, for example, the Mandukya Upanisad (BCSD '唵', p. 257; Ding '唵'; FGDB '唵'; Heehs, p. 83; SH '唵', p. 343)	8000156
+8000156	唵	\N	ǎn	om	particle	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ, Japanese: an, or: on; ॐ used in mantras; it is adopted from Vedic tradition, for example, the Mandukya Upanisad (BCSD '唵', p. 257; Ding '唵'; FGDB '唵'; Heehs 2002, p. 83; SH '唵', p. 343)	8000156
 8000157	须菩提	須菩提	xūpútí	Subhuti; Subhūti	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: subhūti, Pali: subhūti, Japanese: Shubodai, Tibetan: rab 'byor; first in understanding of emptiness. Subhūti was the son of a Brahmin from Śrāvastī. He left his family to practice in the forest. After following the Buddha he became an Arhat (BL 'Subhūti', pp. 861-862; FGDB '須菩提'; Tzu Chuang 2012, p. 85; SH '須菩提', p. 394)	8000157
 8000158	灭度	滅度	mièdù	to extinguish worries and the sea of grief	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '滅度', p. 405)	8000158
 8000159	灭度	滅度	mièdù	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (SH '涅槃', p. 328)	8000158
@@ -1123,7 +1123,7 @@
 8001123	菩斯里善佩佛	\N	pú sī lǐ shàn pèi Fó	Phra Si Sanphet Buddha	proper noun	佛陀	Buddha	佛教	Buddhism	泰国	Thailand	\N	\N	(Baike '菩斯里善佩佛')	8001123
 8001124	化身	\N	huàshēn	transformation body; emanation body; nirmāṇakāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇakāya, Japanese: keshin, Tibetan: sprul pa'i sku (BL 'nirmāṇakāya'; FGDB '化身')	8001124
 8001125	如来十力	如來十力	rúlái shílì	the ten powers of the Tathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daśatathāgatabalāni, Tibetan: de bzhin gshegs pa'i stobs bcu'i ming la; see 十力 (Mahāvyutpatti 'daśatathāgatabalāni')	8001125
-8001126	湿婆天	濕婆天	shīpó tiān	Siva	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śiva; shared in the Buddhist pantheon and Vedic mythology (FGDB '濕婆天'; Heehs, pp. 77-79)	8001126
+8001126	湿婆天	濕婆天	shīpó tiān	Siva	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śiva; shared in the Buddhist pantheon and Vedic mythology (FGDB '濕婆天'; Heehs 2002, pp. 77-79)	8001126
 8001127	湿婆	濕婆	shīpó	Shiva	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śiva; see 濕婆天 (FGDB '濕婆天')	8001127
 8001128	须弥	須彌	xūmí	Mt Meru; Sumeru	proper noun	山	Mountain	佛教	Buddhism	印度	India	\N	\N	See 須彌山 (FGDB '須彌山')	8001128
 8001129	三圣圆融观	三聖圓融觀	sān shèng yuánróng guān	meditation on interdependence by the three honoured ones	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A technique from the Huayan School (FGDB '三聖圓融觀')	8001129
@@ -2560,7 +2560,7 @@
 8002560	嚩噜拏	嚩嚕拏	fúlūná	Varuna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varuṇa; deity of the sky and waters (Ding '嚩嚕拏'; SH '嚩嚕拏', p. 470)	8002560
 8002561	毘娑门	毘娑門	písuōmén	Vaiśramaṇa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Vaiśravaṇa; see 毘沙門天王 (FGDB '四方')	8002561
 8002562	伊舍尼	\N	yīshění	Isana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iśāna; See 伊賒那論師 (FGDB '四方')	8002562
-8002563	阿耆尼	\N	āqíní	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni, Japanese: Kashin, Tibetan: me lha; the Brahmanic god of fire Agni was adopted into the Buddhist pantheon of deities. Agni is mentioned Vedic texts, such as the Isa Upanisad, and described in Tantric texts as located in south of ritual mandalas (BL 'Agni', p. 20; FGDB '阿耆尼'; Heehs, p. 74; SH '阿祇儞', p. 290)	8002563
+8002563	阿耆尼	\N	āqíní	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni, Japanese: Kashin, Tibetan: me lha; the Brahmanic god of fire Agni was adopted into the Buddhist pantheon of deities. Agni is mentioned Vedic texts, such as the Isa Upanisad, and described in Tantric texts as located in south of ritual mandalas (BL 'Agni', p. 20; FGDB '阿耆尼'; Heehs 2002, p. 74; SH '阿祇儞', p. 290)	8002563
 8002564	阿祇儞	\N	āzhǐnǐ	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni; see 阿耆尼 (SH '阿祇儞', p. 290)	8002564
 8002565	阿拟尼	阿擬尼	ānǐní	Agni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni; see 阿耆尼 (SH '阿祇儞', p. 290)	8002565
 8002566	一	\N	yī	one; eka	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka, Tibetan: gcig, Japanese: ichi; for example 一乘 ekayāna 'one vehicle' (BCSD '一', p. 1; DJBT '一', p. 429; Mahāvyutpatti 'ekam'; MW 'eka'; SH '一乘', p. 1)	8002566
@@ -3198,7 +3198,7 @@
 8003198	三轮身	三輪身	sān lún shēn	three wheel bodies	set phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Three bodies of teaching, namely: 自性輪身, the wheel body of intrinsic nature, 正法輪身, the wheel body of the true dharma, and 教令輪身 the wheel body of instruction and command (Ding '三輪身'; FGDB '三輪身'; Sharf 2005, p. 269)	8003198
 8003199	三种轮身	三種輪身	sān zhǒng lún shēn	three wheel bodies	set phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 三輪身	8003199
 8003200	自性轮身	自性輪身	zìxìng lúnshēn	Wheel of Intrinsic Nature	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 三輪身 three wheel bodies (Ding '自性輪身'; FGDB '自性輪身'; Sharf 2005, p. 270)	8003200
-8003201	我	\N	wǒ	self; atman; attan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman, Pali: attan; Japanese: ga, Tibetan: nyar 'dzin pa'am nga rgyal; the agent controlling the mind and body that passes from lifetime to lifetime. The Buddhist concept of ātman is in contrast to the Hindu concept that is a permanent soul, which is one with Brahman (BCSD '我', p. 518; BL 'ātman', p. 78; FGDB '我'; Heehs, p. 59; Mahāvyutpatti 'ahaṃkāraḥ'; MW 'ahaṃkāra'; Radhakrishnan and Moore 1957, pp. 45-48; SH '我', p. 238)	8003201
+8003201	我	\N	wǒ	self; atman; attan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman, Pali: attan; Japanese: ga, Tibetan: nyar 'dzin pa'am nga rgyal; the agent controlling the mind and body that passes from lifetime to lifetime. The Buddhist concept of ātman is in contrast to the Hindu concept that is a permanent soul, which is one with Brahman (BCSD '我', p. 518; BL 'ātman', p. 78; FGDB '我'; Heehs 2002, p. 59; Mahāvyutpatti 'ahaṃkāraḥ'; MW 'ahaṃkāra'; Radhakrishnan and Moore 1957, pp. 45-48; SH '我', p. 238)	8003201
 8003202	我	\N	wǒ	ga	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ga; see 哦 (FGDB '哦')	8003201
 8003203	剃度出家	\N	tìdù chūjiā	renunciation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003203
 8003204	牧女献乳糜	牧女獻乳糜	mù nǚ xiàn rǔmí	Sujata Offering Milk Porridge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about a shepherd girl offering milk to Sidartha in the Jataka Tales (FGS Encyclopedia of Buddhist Arts)	8003204
@@ -3233,7 +3233,7 @@
 8003233	五色根	\N	wǔ sègēn	the five sense organs	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五色根')	8003233
 8003234	恶	惡	è	e	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a; see 阿 (FGDB '阿')	8003234
 8003235	遏	\N	è	e	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a; see 阿 (FGDB '阿')	8003235
-8003236	业	業	yè	karma; kamma; karmic deeds; actions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma, or: kārya, Pali: kamma, Japanese: gō, Tibetan: las; used in Buddhism, Hinduism, and Jainism to literally mean 'actions,' all of which affirm the consequences will certainly follow from all actions, either in this life or a future life (BCSD '業', p. 660; BL 'karman', pp. 420-421; FGDB '業'; JEBD 'Gō'; Heehs, p. 59-60; Mahāvyutpatti 'karma'; MW 'kārya'; SH '業', p. 403)	8003236
+8003236	业	業	yè	karma; kamma; karmic deeds; actions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma, or: kārya, Pali: kamma, Japanese: gō, Tibetan: las; used in Buddhism, Hinduism, and Jainism to literally mean 'actions,' all of which affirm the consequences will certainly follow from all actions, either in this life or a future life (BCSD '業', p. 660; BL 'karman', pp. 420-421; FGDB '業'; JEBD 'Gō'; Heehs 2002, p. 59-60; Mahāvyutpatti 'karma'; MW 'kārya'; SH '業', p. 403)	8003236
 8003237	释尊	釋尊	shì zūn	Sakyamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 釋迦牟尼 (FGDB '釋迦牟尼')	8003237
 8003238	法句经	法句經	Fǎ Jù Jīng	Fa Ju Jing; Dharmapada; Dhammapada	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmapada, Pali: dhammapada, Japanese: Hokku-kyō (Nanjio Bunyiu 1883, p. 305; FGDB '法句經'; DJBT 'Hokku-kyō'; KDC 'K 1021'; T 210)	8003238
 8003239	大藏经	大藏經	dà zàng jīng	Chinese Buddhist Canon; Dazangjing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: daizōkyō; extends the Sanskrit term tripiṭaka (Pali tipitaka), which includes the three baskets: sutras, commentaries, and regulations, to include multiple versions of these from different Indian schools and to also include Chinese commentaries, biographies, and histories (BL 'Dazangjing', pp. 225-226; FGDB '大藏經')	8003239
@@ -4902,7 +4902,7 @@
 8004902	覆莲	覆蓮	fù lián	an inverted lotus	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8004902
 8004903	斋食	齋食	zhāi shí	monastic midday meal; vegetarian food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '齋食'; SH '齋食', p. 107)	8004903
 8004904	非人	\N	fēi rén	a non-human; amanusya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amanuṣya, Pali: amanussa (FGDB '非人'; MW 'Sanskrit equivalent: ')	8004904
-8004905	阎罗	閻羅	yánluó	Yama; Yamaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: yama; Japanese: Enma ō, Tibetan: Gshin rje; the lord of death, adopted into Buddhism from Vedic teachings, for example, in the Katha Upanishad (BL 'yama'; Ding '閻羅'; FGDB '閻魔王'; Heehs, p. 71; MW 'yama')	8004905
+8004905	阎罗	閻羅	yánluó	Yama; Yamaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: yama; Japanese: Enma ō, Tibetan: Gshin rje; the lord of death, adopted into Buddhism from Vedic teachings, for example, in the Katha Upanishad (BL 'yama'; Ding '閻羅'; FGDB '閻魔王'; Heehs 2002, p. 71; MW 'yama')	8004905
 8004906	浮图	浮圖	fútú	Buddha; Buddhist stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8004906
 8004907	缁侣	緇侶	zīlǚ	monastic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧侶 (FGDB '緇門')	8004907
 8004908	宿世	\N	sù shì	former lives; former times	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva, Pali: pubba; see also 前生 (FGDB '宿世')	8004908
@@ -6284,7 +6284,7 @@
 8006284	不想天	\N	bùxiǎngtiān	nirviśaṣa-deva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirviśaṣa-deva; an expression used in the 大明度經 Da Ming Du Jing (Lancaster 1968, 376; T 225, Scroll 5, 8.0500c13)	8006284
 8006285	五空泽	五空澤	wǔ kōng zé	five signs of emptiness; pañca-kāma-guṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-kāma-guṇa; an expression used in the 道行般若經 Daoxing Bore Jing (Lancaster 1968, 376; ; T 224, Scroll 3, 8.0448b07)	8006285
 8006286	惠	\N	huì	devotion; mati	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mati (BCSD '惠', p. 486; MW 'mati'; SH '惠', p. 371)	8006286
-8006287	慎	\N	shèn	respectability; gaurava	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaurava, Tibetan: zhe sar bya ba (BCSD '慎', p. 498; Mahāvyutpatti 'gauravam'; MW 'gaurava'; SH '慎', p. 399)	8006287
+8006287	慎	\N	shèn	respectability; gaurava	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaurava, Japanese: shin, Tibetan: zhe sar bya ba (BCSD '慎', p. 498; Mahāvyutpatti 'gauravam'; MW 'gaurava'; SH '慎', p. 399; Unihan '慎')	8006287
 8006288	五旬	\N	wǔ xún	five supernatural powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcābhijñā (FGDB '般遮旬'; Lancaster 1968, 377; SH '五旬', p. 119)	8006288
 8006289	般遮旬	\N	bānzhē xún	five supernatural powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcābhijñā; see 五旬 (FGDB '般遮旬')	8006289
 8006290	劝	勸	quàn	excitation; samādāpana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādāpana (BCSD '勸', p. 211; MW 'samādāpana'; SH '勸', p. 476)	8006290
@@ -8535,24 +8535,24 @@
 8008535	法行	\N	fǎ xíng	to practice the Dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法行'; FGDB '法行')	8008535
 8008536	入涅槃	\N	rù nièpán	to enter Nirvāṇa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '入涅槃')	8008536
 8008537	严净	嚴淨	yán jìng	majestic and pure	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '嚴淨'; FGDB '嚴淨'; SH '嚴淨')	8008537
-8008538	梵书	梵書	fànshū	brahmana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brāhmaṇa; a category of vedic literature giving explanations of rituals (Embree 1988, p. 5; FGDB '梵書'; Heehs, pp. 40-41)	8008538
+8008538	梵书	梵書	fànshū	brahmana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brāhmaṇa; a category of vedic literature giving explanations of rituals (Embree 1988, p. 5; FGDB '梵書'; Heehs 2002, pp. 40-41)	8008538
 8008539	婆罗门那	婆羅門那	póluóménnà	brahmana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brāhmaṇa; see 婆羅門那 (FGDB '梵書')	8008539
-8008540	吠陀	\N	fèituó	Vedas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: veda, Pali: veda; includes many ideas and characters shared with Buddhism (Embree 1988, p. 5; FGDB '吠陀'; Heehs, pp. 39-41; SH '吠陀', p. 233)	8008540
+8008540	吠陀	\N	fèituó	Vedas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: veda, Pali: veda; includes many ideas and characters shared with Buddhism (Embree 1988, p. 5; FGDB '吠陀'; Heehs 2002, pp. 39-41; SH '吠陀', p. 233)	8008540
 8008541	能持	\N	néng chí	ability to uphold the precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '能持'; FGDB '能持'; SH '能持', p. 337)	8008541
 8008542	身命	\N	shēnmìng	body and life	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '身命'; SH '身命', p. 245)	8008542
 8008543	所缘缘	所緣緣	suǒ yuányuán	ālambanapratyaya; ārammaṇapaccaya; observed object condition	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 緣緣 (FGDB '所緣緣')	8008543
 8008544	忙	\N	máng	agitated; vyagra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyagra, Japanese: bou, or: mou (BCSD '忙', p. 468; MW 'vyagra'; SH '忙', p. 212; Unihan '忙')	8008544
-8008545	吠陀本集	\N	fèituó běnjí	Samhita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃhitā; collection of hymns in the Vedas (Embree 1988, p. 5; FGDB '梵書'; Wikipedia '吠陀'; Heehs, pp. 40-41)	8008545
+8008545	吠陀本集	\N	fèituó běnjí	Samhita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃhitā; collection of hymns in the Vedas (Embree 1988, p. 5; FGDB '梵書'; Wikipedia '吠陀'; Heehs 2002, pp. 40-41)	8008545
 8008546	舍那	\N	shènà	śāṇa; a robe; a garment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāṇa (BCSD '舍那衣'; Ding '舍那'; MW 'śāṇa')	8008546
 8008547	舍那	\N	shènà	insight; vipaśyanā; vipassanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 觀 (FGDB '觀法')	8008547
 8008548	忻	\N	xīn	joyful; rata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rata, Japanese: kin (BCSD '忻', p. 470; MW 'rata'; SH '忻', p. 237; Unihan '忻')	8008548
 8008549	梵书	梵書	fànshū	Sanskrit text	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '梵書')	8008538
-8008550	棃俱吠陀	\N	líjū fèituó	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; the first of the four Vedas and the eariest source of understanding of the Vedic religion; see also 梨俱吠陀 (Embree 1988, p. 5; FGDB '棃俱吠陀'; Heehs, pp. 40-42; MW 'ṛgveda')	8008550
+8008550	棃俱吠陀	\N	líjū fèituó	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; the first of the four Vedas and the eariest source of understanding of the Vedic religion; see also 梨俱吠陀 (Embree 1988, p. 5; FGDB '棃俱吠陀'; Heehs 2002, pp. 40-42; MW 'ṛgveda')	8008550
 8008551	赞诵明论	讚誦明論	zànsòng mínglùn	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; see 棃俱吠陀 (FGDB '棃俱吠陀')	8008551
 8008552	作明实说	作明實說	zuòmíng shíshuō	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; see 棃俱吠陀 (FGDB '棃俱吠陀')	8008552
 8008553	荷力皮陀	\N	hélìpítuó	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; see 棃俱吠陀 (FGDB '棃俱吠陀')	8008553
 8008554	亿力毘陀	億力毘陀	yìlìpítuó	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; see 棃俱吠陀 (FGDB '棃俱吠陀')	8008554
-8008555	沙摩吠陀	\N	shāmó fèituó	Samaveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāmaveda; the second of the four Vedas, contains a collection of hymns, many of which also occur in the Rigveda; see also 娑摩吠陀 (Embree 1988, p. 5; FGDB '沙摩吠陀'; Heehs, pp. 40-42; MW 'sāmaveda')	8008555
+8008555	沙摩吠陀	\N	shāmó fèituó	Samaveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāmaveda; the second of the four Vedas, contains a collection of hymns, many of which also occur in the Rigveda; see also 娑摩吠陀 (Embree 1988, p. 5; FGDB '沙摩吠陀'; Heehs 2002, pp. 40-42; MW 'sāmaveda')	8008555
 8008556	三摩吠陀	\N	sānmó fèituó	Samaveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāmaveda; see 沙摩吠陀 (FGDB '沙摩吠陀')	8008556
 8008557	忽	\N	hū	immediate; samanantaram	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanantaram, Japanese: kotsu (BCSD '忽', p. 470; MW 'samanantaram'; SH '忽', p. 258; Unihan '忽')	8008557
 8008558	娑摩薜陀	\N	suōmó shìtuó	Samaveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāmaveda; see 沙摩吠陀 (FGDB '沙摩吠陀')	8008558
@@ -8561,7 +8561,7 @@
 8008561	奢那	\N	shēnà	śāṇa; robe; garment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāṇa; see 舍那 (Ding '舍那')	8008561
 8008562	舍那衣	\N	shènàyī	śāṇa; robe; garment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāṇa; see 舍那 (Ding '舍那')	8008562
 8008563	怠	\N	dài	lazy; kusīda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kusīda, Japanese: tai (BCSD '怠', p. 474; MW 'kusīda'; Unihan '怠')	8008563
-8008564	夜柔吠陀	\N	yèróu fèituó	Yajurveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yajurveda; one of the four Vedas, includes text for sacrificial rituals (Embree 1988, p. 5; FGDB '夜柔吠陀'; Heehs, pp. 40-42; MW 'sāmaveda')	8008564
+8008564	夜柔吠陀	\N	yèróu fèituó	Yajurveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yajurveda; one of the four Vedas, includes text for sacrificial rituals (Embree 1988, p. 5; FGDB '夜柔吠陀'; Heehs 2002, pp. 40-42; MW 'sāmaveda')	8008564
 8008565	耶柔吠陀	\N	yéróu fèituó	Yajurveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yajurveda; see 夜柔吠陀 (FGDB '夜柔吠陀')	8008565
 8008566	急	\N	jí	hasty; tvarita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tvarita, Japanese: kyū (BCSD '急', p. 475; MW 'tvarita'; SH '急', p. 302; Unihan '急')	8008566
 8008567	冶受吠陀	\N	yěshòu fèituó	Yajurveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yajurveda; see 夜柔吠陀 (FGDB '夜柔吠陀')	8008567
@@ -8620,7 +8620,7 @@
 8008620	恭	\N	gōng	reverence; bhajana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhajana, Japanese: kyou, Tibetan: bsnyen pa (BCSD '恭', p. 480; Mahāvyutpatti 'bhajanam'; MW 'bhajana'; SH '恭', p. 325; Unihan '恭')	8008620
 8008621	智品	\N	zhìpǐn	teaching of the one Spirit; jñānakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'jñānakāṇḍa')	8008621
 8008622	业品	業品	yèpǐn	teachings related to ceremonial acts and sacrificial rites; karmakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'karmakāṇḍa')	8008622
-8008623	奥义书	奧義書	Àoyìshū	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Embree 1988, pp. 29-39; FGDB '奧義書'; Heehs, pp. 57-87)	8008623
+8008623	奥义书	奧義書	Àoyìshū	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Embree 1988, pp. 29-39; FGDB '奧義書'; Heehs 2002, pp. 57-87)	8008623
 8008624	优波尼沙土	優波尼沙土	yōubōníshātǔ	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad; see 奧義書 (FGDB '奧義書')	8008624
 8008625	破着	破著	pòzhe	to break attachments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二種破著')	8008625
 8008626	息	\N	xī	rest; śama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śama, Japanese: soku (BCSD '息', p. 480; MW 'śama'; SH '息', p. 325; Unihan '息')	8008626
@@ -8640,7 +8640,7 @@
 8008640	佛智	\N	fózhì	Buddha knowledge; Buddha wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛智'; FGDB '佛智'; SH '佛智', p. 228)	8008640
 8008641	五尘	五塵	wǔchén	objects of the five senses	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '五塵'; FGDB '五塵'; SH '五塵', p. 116)	8008641
 8008642	患	\N	huàn	distress; ādīnava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādīnava, Japanese: kan, or: gen (BCSD '患', p. 483; MW 'ādīnava'; Unihan '患')	8008642
-8008643	四姓	\N	sì xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	(FGDB '四姓'; Heehs, p. 57)	8008643
+8008643	四姓	\N	sì xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	(FGDB '四姓'; Heehs 2002, p. 57)	8008643
 8008644	西域四姓	\N	xīyù sì xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008644
 8008645	四种姓	四種姓	sì zhǒng xìng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008645
 8008646	四姓种	四姓種	sì xìng zhǒng	four castes	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 四姓 (FGDB '四姓')	8008646
@@ -8656,7 +8656,7 @@
 8008656	祈祷主	祈禱主	qídǎozhǔ	Brhaspati	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bṛhaspati; Vedic deity that is mentioned in the Rigveda (FGDB '梵'; Wikipedia '祭主仙人')	8008656
 8008657	寸铁入木	寸鐵入木	cùn tiě rù mù	with small amount of concentration, to become like a tree	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 寸釘入木 (FGDB '寸釘入木')	8008657
 8008658	惟	\N	wéi	merely; mātra	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mātra, Japanese: i, or: yui, or: bi (BCSD '惟', p. 486; MW 'mātra'; Unihan '惟')	8008658
-8008659	梵我一如	\N	fàn wǒ yīrú	Brahma and Atman are one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the Hindu concept of the unity of Brahma and Atma as described in the Upanisads (FGDB '梵我一如'; Heehs, p. 58)	8008659
+8008659	梵我一如	\N	fàn wǒ yīrú	Brahma and Atman are one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the Hindu concept of the unity of Brahma and Atma as described in the Upanisads (FGDB '梵我一如'; Heehs 2002, p. 58)	8008659
 8008660	惰	\N	duò	lazy; alasa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alasa, Japanese: da (BCSD '惰', p. 489; MW 'alasa'; Unihan '惰')	8008660
 8008661	阿特曼	\N	ātémàn	atman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman; see 我 (FGDB '我')	8008661
 8008662	阿坦么	阿坦麼	ātǎnma	atman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman; see 我 (FGDB '我')	8008662
@@ -8677,7 +8677,7 @@
 8008677	只树给孤独园	祇樹給孤獨園	qíshùgěi gūdú yuán	Anāthapiṇḍada’s park at Jetavana	proper noun	地名	Place Name	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	A place located near the city of Śrāvastī where the Buddha stayed and delivered discourses; FGS translation standard: Jeta Grove (BL 'Jetavana'; Ding '祇樹給孤獨園'; FGDB '祇樹給孤獨園'; Tzu Chuang 2012)	8008677
 8008678	色界系	色界繫	sèjièxì	bonds to dharmas in the Realm of Form	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '色界繫'; FGDB '色界繫')	8008678
 8008679	惹	\N	rě	injure; viheṭhaka	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viheṭhaka, Japanese: ja, or: jaku (BCSD '惹', p. 491; Mahāvyutpatti 'viheṭhakaḥ'; MW 'viheṭhaka'; SH '惹', p. 399; Unihan '惹')	8008679
-8008680	首卢迦	首盧迦	shǒulújiā	sloka; stanza	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śloka; a verse form with each sloka or stanza of four lines, 8 syllables in each line (FGDB '首盧迦'; Heehs, pp. 70-71; MW 'śloka'; SH '首盧迦', p. 318; Wikipedia 'Shloka')	8008680
+8008680	首卢迦	首盧迦	shǒulújiā	sloka; stanza	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śloka; a verse form with each sloka or stanza of four lines, 8 syllables in each line (FGDB '首盧迦'; Heehs 2002, pp. 70-71; MW 'śloka'; SH '首盧迦', p. 318; Wikipedia 'Shloka')	8008680
 8008681	阿耨窣都婆	\N	ānòusùdōupó	anuṣṭubh	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: anuṣṭubh; a form of verse found in Vedic poetry (FGDB '首盧迦'; Guoyu 'anuṣṭubh'; Wikipedia 'Anuṣṭubh')	8008681
 8008682	阿菟吒阐提首卢柯	阿菟吒闡提首盧柯	ātùzhàchǎntíshǒulúkē	anuṣṭubh	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: anuṣṭubh; see 阿耨窣都婆 (FGDB '首盧迦')	8008682
 8008683	室路迦	\N	shìlùjiā	sloka	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śloka; see 首盧迦 (FGDB '首盧迦')	8008683
@@ -8691,10 +8691,23 @@
 8008691	四门	四門	sì mén	the four schools of thought; four classifications of teaching	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four classifications of teaching of the 天台宗 Tiantai School: (1) 有門 'teaching of the phenomenal world', (2) 空門 'the teaching that everything is emptiness', (3) 亦有亦空門 'the teaching of both the phenomenal world and of emptiness', (4) 非有非空門 'the teaching that there is neither the phenomenal world or emptiness' (Ding '四門'; FGDB '四門'; SH '四門', p. 183)	8008691
 8008692	有门	有門	yǒu mén	teaching of the phenomenal world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '有門'; FGDB '有門')	8008692
 8008693	调	調	tiáo	tame; dam	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dam, Japanese: chou (BCSD '調', p. 1083; MW 'dam'; SH '調', p. 444; Unihan '調')	8008693
-8008694	制感	\N	zhìgǎn	withdrawal of the senses; pratyāhāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyāhāra (FGDB '八支瑜伽'; Guoyu 'pratyāhāra'; Heehs, p. 82)	8008694
+8008694	制感	\N	zhìgǎn	withdrawal of the senses; pratyāhāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyāhāra (FGDB '八支瑜伽'; Guoyu 'pratyāhāra'; Heehs 2002, p. 82)	8008694
 8008695	八支瑜伽	\N	bā zhī yújiā	ashtanga yoga; eight limbs of yoga	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: aṣṭāṅgayoga (FGDB '八支瑜伽')	8008695
 8008696	愚	\N	yú	folly; moha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moha, Japanese: gu (BCSD '愚', p. 494; MW 'moha'; SH '愚', p. 399; Unihan '愚')	8008696
 8008697	流转	流轉	liúzhuàn	moving onwards; pravṛtti	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravṛtti, Tibetan: 'jug pa (Mahāvyutpatti 'pravṛttiḥ'; MW 'pravṛtti')	8001056
 8008698	空门	空門	kōng mén	the teaching that everything is emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '空門'; FGDB '空門'; SH '空門', p. 278)	8008698
 8008699	亦有亦空门	亦有亦空門	yì yǒu yì kōng mén	the teaching of both the phenomenal world and of emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '亦有亦空門'; FGDB '亦有亦空門')	8008699
 8008700	非有非空门	非有非空門	fēi yǒu fēi kōng mén	the teaching that there is neither the phenomenal world or emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Tiantai 四門 'four classifications of teaching' (Ding '非有非空門'; FGDB '非有非空門')	8008700
+8008701	愼	\N	shèn	respectability; gaurava	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaurava, Japanese: shin, Tibetan: zhe sar bya ba (BCSD '愼', p. 498; Mahāvyutpatti 'gauravam'; MW 'gaurava'; Unihan '愼')	8008701
+8008702	四神足	\N	sì shénzú	the four kinds of teleportation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四神足'; FGDB '四神足'; SH '四神足', p. 179)	8008702
+8008703	四如意分	\N	sì rúyì fēn	the four kinds of teleportation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四神足 (FGDB '四神足')	8008703
+8008704	四如意足	\N	sì rúyì zú	the four kinds of teleportation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四神足 (FGDB '四神足')	8008704
+8008705	慇	\N	yīn	anxious	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: in (BCSD '慇', p. 498; SH '慇', p. 424; Unihan '慇')	8008705
+8008706	如意足	\N	rúyì zú	teleportation; ṛddyabhijṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (FGDB '如意通')	8008706
+8008707	二明	\N	èr míng	the two sciences; two kinds of wisdom; mastery of the two sciences	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two of the 五明 'five sciences' of ancient India: (1) 內明 'inner wisdom' and (2) 因明 'ability in logic' (Ding '二明'; FGDB '一印二明')	8008707
+8008708	五明	\N	wǔ míng	five sciences; mastery of the five sciences; five kinds of wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavidyā; of ancient India: (1) 聲明 mastery in grammar and composition, (2) 工巧明 mastery in manual arts, (3) 醫方明 mastery in medical science, (4) 因明 mastery in logic and, (5) 內明 inner wisdom (BL 'pañcavidyā'; Ding '五明'; Eitel 'Adyātma vidyā', p. 4; FGDB '五明'; SH '五明', p. 119)	8008708
+8008709	五事	\N	wǔ shì	five dharmas; five categories	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcadharma; the same as 五法: (1) 名 name, (2) 相 appearances, (3) 分別 mental discrimination, (4) 正智 corrective wisdom and, (5) 真如 tathatā (Ding '五事'; FGDB '五事'; SH '五事', p. 112)	8008709
+8008710	慕	\N	mù	to desire; abhilāṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhilāṣa, Japanese: bo (BCSD '慕', p. 498; MW 'abhilāṣa'; SH '慕', p. 432; Unihan '慕')	8008710
+8008711	六派哲学	六派哲學	liù pài zhéxué	six orthodox schools	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: şaddarśana; the six orthodox schools of Indian philosophy, namely: 1. 彌曼差 Mimamsa, 2. 吠檀多 Vedanta, 3. 僧佉 Samkhya, 4. 瑜伽 Yoga, 5. 衛世師 Vaisesika (FGDB '六派哲學'; Heehs 2002, pp. 131-132)	8008711
+8008712	删阇夜	刪闍夜	shānshéyè	Samkhya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 僧佉 (FGDB '六派哲學')	8008712
+8008713	卫世师	衛世師	wèishìshī	Vaisesika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśeṣika; Hindu school of philosophy (FGDB '六派哲學')	8008713
