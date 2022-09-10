@@ -5891,7 +5891,7 @@
 7005891	礼言	禮言	Lǐ Yán	Li Yan	proper noun	作者	Writer	佛教	Buddhism	中国	China	\N	\N	Tang dynasty Buddhist monastic credited with compiling 梵語雜名, included in the Chinese Buddhist canon (BSAD ID：A001880; T 2135)	7005891
 7005892	唐梵两语双对集	唐梵兩語雙對集	Táng fàn Liǎng Yǔ Shuāng Duì Jí	Tang Fan Liang Yu Shuang Dui Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (T 2136)	7005892
 7005893	六度无极集	六度無極集	liù dù wújí jí	Sutra of the Collection of the Six Perfections	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	See 六度集經 (FGDB '六度集經')	7005893
-7005894	金七十论	金七十論	jīn qī Shí lùn	sāṁkhya-kārikā; sāṁkhyakārikā; Jin Qi Shi Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṁkhyakārikā; the title of a text translated by Paramārtha included in the Chinese Buddhist canon; see 迦毘羅論 (KDC 1032; T 2137)	7005894
+7005894	金七十论	金七十論	jīn qī shí lùn	Samkhya Karika	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṁkhyakārikā; the title of a Hindu orthodox Samkhya school text translated by Paramārtha included in the Chinese Buddhist canon; see 迦毘羅論 and 僧佉頌 (FGDB '金七十論'; KDC 1032; T 2137)	7005894
 7005895	胜宗十句义论	勝宗十句義論	shèng zōng Shí Jù Yì lùn	Vaiśeṣikadaśapadārthaśāstra; Sheng Zong Shi Ju Yi Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: Vaiśeṣikadaśapadārthaśāstra; the title of a text by 慧月 Hui Yue included in the Chinese Buddhist canon (KDC 1045; T 2138)	7005895
 7005896	慧月	\N	Huì Yuè	Hui Yue	proper noun	作者	Writer	佛教	Buddhism	中国	China	\N	\N	Tang dynasty Buddhist monastic credited with compiling 勝宗十句義論, included in the Chinese Buddhist canon (FGDB '慧月'; KDC 1045; T 2138)	7005896
 7005897	老子化胡经	老子化胡經	Lǎozi Huàhú jīng	Conversion of the Barbarians	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (Bingenheimer 2016; T 2139)	7005897
@@ -6835,6 +6835,10 @@
 7006835	坎毘拉	\N	kǎnpílā	Kampilla	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kaṃpilla; capital of the ancient Indian kingdom of Souther Pancala (FGDB '般闍羅國')	7006835
 7006836	居楼	居樓	jūlóu	Kuru	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kuru; a clan of people that occupied Northern India in ancient times; see 十六大國 (FGDB '十六大國')	7006836
 7006837	闪笛耳耶	閃笛耳耶	shǎndíěryé	Sāandilya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śāṇḍilya; a Brahmin lineage after the Rishi Sandilya (FGDB '梵我一如'; Wikipedia 'Shandilya')	7006837
-7006838	耆米尼	\N	qímǐní	Jaimini	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Hindu philosopher, known as founder of the Mimamsa school (FGDB '六派哲學')	7006838
-7006839	巴达罗耶那	巴達羅耶那	bādáluóyénà	Badarayana	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Hindu philosopher, known as founder of the Vedanta school (FGDB '六派哲學')	7006839
-7006840	巴丹阇梨	巴丹闍梨	bādānshélí	Patanjali	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Hindu philosopher, known as founder of the Yoga school of philosophy (FGDB '六派哲學')	7006840
+7006838	耆米尼	\N	qímǐní	Jaimini	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jaimini; Hindu philosopher, known as founder of the Mimamsa school (FGDB '六派哲學')	7006838
+7006839	巴达罗耶那	巴達羅耶那	bādáluóyénà	Badarayana	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bādarāyaṇa; Hindu philosopher, known as founder of the Vedanta school (FGDB '六派哲學')	7006839
+7006840	巴丹阇梨	巴丹闍梨	bādānshélí	Patanjali	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patañjali; Hindu philosopher, known as founder of the Yoga school of philosophy (FGDB '六派哲學')	7006840
+7006841	大品	\N	dàpǐn	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Short for 大品般若經 (Ding '大品'; FGDB '大品'; SH '大品', p. 86)	7006841
+7006842	羯那陀	\N	jiénàtuó	Kanada	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇāda; Hindu philosopher, known as founder of the Vaiśeṣika school of philosophy (FGDB '六派哲學')	7006842
+7006843	伊湿伐罗讫哩史拏	伊濕伐羅訖哩史拏	yīshīfáluó qìlǐshǐná	Isvara Krishna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: īśvarakṛṣṇa; Indian philosopher of the Samkhya school, author of Samkhyakarika (FGDB '數論學派')	7006843
+7006844	僧佉颂	僧佉頌	sēngqū sòng	Samkhya Karika	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sāṃkhya-kārikā; a text of the orthodox Hindu Samkhya school; see also 金七十論 (FGDB '數論學派'; Heehs 2002, pp. 133-134; MW 'sāṃkhyakārikā'; T 2137)	7006844

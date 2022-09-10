@@ -2741,7 +2741,7 @@
 8002741	阿吒吒地狱	阿吒吒地獄	a zhà zhà dì yù	Atata Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From the sound that the suffering beings make when they cannot move their lips; one of the Eighteen Hells (FGDB '阿吒吒地獄'; SH '阿吒吒', p. 286; Tzu Chuang 2012)	8002741
 8002742	摩诃波头摩地狱	摩訶波頭摩地獄	mó hē bō tóu mó dì yù	Mahapadma Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '眷屬地獄'; Tzu Chuang 2012)	8002742
 8002743	頞哳吒	\N	èzhāzhà	Atata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿吒吒地獄 (FGDB '阿吒吒地獄')	8002743
-8002744	慧	\N	huì	wisdom; prajna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñā, Pali: paññā, Tibetan: shes rab; see 般若 (BCSD '慧', p. 499; Kroll 2015 '慧' 2, p. 175; Mahāvyutpatti 'prajñā'; MW 'prajñā')	8002744
+8002744	慧	\N	huì	wisdom; prajna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñā, Pali: paññā, Japanese: kei, or: e, Tibetan: shes rab; see 般若 (BCSD '慧', p. 499; Kroll 2015 '慧' 2, p. 175; Mahāvyutpatti 'prajñā'; MW 'prajñā'; SH '慧', p. 433; Unihan '慧')	8002744
 8002745	慧	\N	huì	intellect; mati	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mati (BCSD '慧', p. 499; MW 'mati')	8002744
 8002746	芬陀利	\N	fēntuólì	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002746
 8002747	奔荼利迦化	\N	bēntúlìjiāhuà	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002747
@@ -4719,7 +4719,7 @@
 8004719	声闻乘	聲聞乘	shēngwén shèng	Sravaka Vehicle; Śrāvakayāna; The Śrāvaka Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāvakayāna, Japanese: shōmonjō; 聲聞乘 literally means 'vehicle of the disciples.' It is the third of the five vehicles 五乘佛法 in a Mahāyāna classification. 聲聞乘 Śrāvakayāna is sometimes used in modern texts to refer to non-Mahāyāna schools (BL 'Śrāvakayāna', p. 851; FGDB '聲聞乘'; Tzu Chuang 2012, pp. 363-367).	8004719
 8004720	缘觉乘	緣覺乘	yuánjué shèng	Pratyekabuddha Vehicle; Pratyeka-buddha Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The forth of the five vehicles 五乘佛法 (FGDB '緣覺乘'; Tzu Chuang 2012, pp. 363-367)	8004720
 8004721	菩萨乘	菩薩乘	púsà shèng	Bodhisattva Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The fifth of the five vehicles 五乘佛法 (FGDB '菩薩乘'; Tzu Chuang 2012, pp. 363-367)	8004721
-8004722	三德	\N	sān dé	three virtues	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	the three virtues of the Buddha: (1) Wisdom 智德, (2) kindness 恩德, (3) eliminating afflictions 断德; FGS translation standard: Three Virtues of the Buddha (FGDB '三德'; Tzu Chuang 2012, pp. 370-372)	8004722
+8004722	三德	\N	sān dé	three virtues	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three virtues of the Buddha: (1) Wisdom 智德, (2) kindness 恩德, (3) eliminating afflictions 断德 (FGDB '三德'; Tzu Chuang 2012, pp. 370-372)	8004722
 8004723	智德	\N	zhì dé	the virtue of wisdom; wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the three virtues of the Buddha 三德 (FGDB '三德'; Tzu Chuang 2012, pp. 370-372)	8004723
 8004724	观想	觀想	guān xiǎng	to contemplate; to visualize	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As a Buddhist practice (Chen and Li, 2005, p. 123; FGDB '觀想'; SH '觀想', p. 490)	8004724
 8004725	禅病	禪病	chán bìng	a mental distraction in meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '禪病')	8004725
@@ -8525,7 +8525,7 @@
 8008525	苏摩	蘇摩	sūmó	Soma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A traditional Indian deity (FGDB '蘇摩')	8008524
 8008526	素摩	\N	sùmó	soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; see 蘇摩 (FGDB '素摩')	8008526
 8008527	忉	\N	dāo	grieved	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou (BCSD '忉', p. 467; SH '忉', p. 188; Unihan '忉')	8008527
-8008528	神我	\N	shénwǒ	spiritual self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa (Bak 2017, pp. 44-47; Ding '神我'; FGDB '神我'; SH '神我', p. 334)	8008528
+8008528	神我	\N	shénwǒ	spiritual self; puruṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa; a concept in Hindu philosophy (Bak 2017, pp. 44-47; Ding '神我'; FGDB '神我'; Heehs 2002, p. 132; SH '神我', p. 334)	8008528
 8008529	我知者	\N	wǒzhīzhě	Spiritual Self; Purusa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神我 (FGDB '神我')	8008529
 8008530	生主	\N	shēng zhǔ	Prajapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajāpati; lord of creatures, mentioned in Buddhist texts (FGDB '生主')	8008530
 8008531	钵钵阇钵底	鉢鉢闍鉢底	bōbōshébōdǐ	Prajapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajāpati; see 生主 (FGDB '生主')	8008531
@@ -8708,6 +8708,20 @@
 8008708	五明	\N	wǔ míng	five sciences; mastery of the five sciences; five kinds of wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavidyā; of ancient India: (1) 聲明 mastery in grammar and composition, (2) 工巧明 mastery in manual arts, (3) 醫方明 mastery in medical science, (4) 因明 mastery in logic and, (5) 內明 inner wisdom (BL 'pañcavidyā'; Ding '五明'; Eitel 'Adyātma vidyā', p. 4; FGDB '五明'; SH '五明', p. 119)	8008708
 8008709	五事	\N	wǔ shì	five dharmas; five categories	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcadharma; the same as 五法: (1) 名 name, (2) 相 appearances, (3) 分別 mental discrimination, (4) 正智 corrective wisdom and, (5) 真如 tathatā (Ding '五事'; FGDB '五事'; SH '五事', p. 112)	8008709
 8008710	慕	\N	mù	to desire; abhilāṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhilāṣa, Japanese: bo (BCSD '慕', p. 498; MW 'abhilāṣa'; SH '慕', p. 432; Unihan '慕')	8008710
-8008711	六派哲学	六派哲學	liù pài zhéxué	six orthodox schools	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: şaddarśana; the six orthodox schools of Indian philosophy, namely: 1. 彌曼差 Mimamsa, 2. 吠檀多 Vedanta, 3. 僧佉 Samkhya, 4. 瑜伽 Yoga, 5. 衛世師 Vaisesika (FGDB '六派哲學'; Heehs 2002, pp. 131-132)	8008711
-8008712	删阇夜	刪闍夜	shānshéyè	Samkhya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 僧佉 (FGDB '六派哲學')	8008712
+8008711	六派哲学	六派哲學	liù pài zhéxué	six orthodox schools	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: şaddarśana; the six orthodox schools of Indian philosophy, namely: 1. 彌曼差 Mimamsa, 2. 吠檀多 Vedanta, 3. 僧佉 Samkhya, 4. 瑜伽 Yoga, 5. 衛世師 Vaisesika, 6. 尼夜耶 Naiyayika (FGDB '六派哲學'; Heehs 2002, pp. 131-132)	8008711
+8008712	删阇夜	刪闍夜	shānshéyè	Samkhya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 數論學派 (FGDB '六派哲學')	8008712
 8008713	卫世师	衛世師	wèishìshī	Vaisesika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśeṣika; Hindu school of philosophy (FGDB '六派哲學')	8008713
+8008714	平等性	\N	píngděng xìng	universal nature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	On of the 十二真如 twelve kinds of tathatā (Ding '平等性'; FGDB '平等性'; SH '平等性', p. 187)	8008714
+8008715	论主	論主	lùnzhǔ	the composer of a treatise	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '論主'; FGDB '論主')	8008715
+8008716	惯	慣	guàn	habit; abhyāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhyāsa, Japanese: kan (BCSD '慣', p. 499; MW 'abhyāsa'; Unihan '慣')	8008716
+8008717	尼柔学派	尼柔學派	níróu xuépài	Naiyayika School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naiyāyika; see 尼夜耶學派 (FGDB '六派哲學')	8008717
+8008718	正理学派	正理學派	zhènglǐxuépài	Naiyayika School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naiyāyika; see 尼夜耶學派 (FGDB '六派哲學')	8008718
+8008719	微尘数	微塵數	wēichénshǔ	as numerous as atoms	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '微塵數'; SH '微塵數', p. 399)	8008719
+8008720	虑	慮	lǜ	imagination; manojalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manojalpa, Japanese: ryo, or: roku (BCSD '慮', p. 500; Mahāvyutpatti 'manojalpaḥ'; MW 'manojalpa'; Unihan '慮')	8008720
+8008721	数论派	數論派	shùlùnpài	Samkhya School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 數論學派 (FGDB '數論學派')	8008721
+8008722	自性	\N	zìxìng	primordial matter; nature; prakṛti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prakṛti; a fundamental concept in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 132)	8001121
+8008723	纯质	純質	chún zhì	clear mode of nature; sattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva; one of the three guṇas in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 133)	8008723
+8008724	激质	激質	jīzhì	dynamic mode of nature; rajas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rajas; one of the three guṇas in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 133)	8008724
+8008725	翳质	翳質	yìzhì	dark mode of nature; tamas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tamas; one of the three guṇas in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 133)	8008725
+8008725	三德	\N	sān dé	three modes of nature; three guṇas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Samkhya philosophy, namely: 1. 純質 sattva, 2. 激質 rajas, and 3. 翳質 tamas (FGDB '數論學派'; Heehs 2002, p. 133)	8004722
+8008726	眼根	\N	yǎn gēn	the faculty of sight	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '眼根'; FGDB '眼根'; SH '眼根', p. 361)	8008726

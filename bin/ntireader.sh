@@ -24,12 +24,13 @@ BIB=data/bibliographical_notes
 A=taisho_agama_section
 AB=taisho_abhidharma_section
 C=taisho_compilation_section
-E=taisho_agama_section
+E=taisho_esoteric_section
 H=taisho_history_bio_section
 J=taisho_jataka_avadana_section
 L=taisho_lotus_huayan_section
 M=taisho_misc_section
 MY=taisho_madhyamaka_section
+O=taisho_enc_outside_schools_section
 P=taisho_prajnaparamita_section
 R=taisho_ratnakuta_nirvana_section
 S=taisho_sastra_section
@@ -60,7 +61,8 @@ cat ${BIB}/${A}_ref2file.csv \
   ${BIB}/${SSC}_ref2file.csv \
   ${BIB}/${SCS}_ref2file.csv \
   ${BIB}/${VC}_ref2file.csv \
-  ${BIB}/${H}_ref2file.csv > ${BIB}/ref2file.csv 
+  ${BIB}/${H}_ref2file.csv \
+  ${BIB}/${O}_ref2file.csv > ${BIB}/ref2file.csv 
 cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${J}_english_translations.csv \
   ${BIB}/${P}_english_translations.csv \
@@ -80,7 +82,8 @@ cat ${BIB}/${A}_english_translations.csv \
   ${BIB}/${SSC}_english_translations.csv \
   ${BIB}/${SCS}_english_translations.csv \
   ${BIB}/${VC}_english_translations.csv \
-  ${BIB}/${H}_english_translations.csv > ${BIB}/english_translations.csv 
+  ${BIB}/${H}_english_translations.csv \
+  ${BIB}/${O}_english_translations.csv > ${BIB}/english_translations.csv 
 cat ${BIB}/${A}_parallels.csv \
   ${BIB}/${J}_parallels.csv \
   ${BIB}/${P}_parallels.csv \
@@ -97,7 +100,8 @@ cat ${BIB}/${A}_parallels.csv \
   ${BIB}/${Y}_parallels.csv \
   ${BIB}/${Y}_parallels.csv \
   ${BIB}/${SC}_parallels.csv \
-  ${BIB}/${SSC}_parallels.csv > ${BIB}/parallels.csv 
+  ${BIB}/${SSC}_parallels.csv \
+  ${BIB}/${O}_parallels.csv > ${BIB}/parallels.csv 
 
 # General HTML pages
 go install github.com/alexamies/cnreader@latest
