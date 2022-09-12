@@ -8661,7 +8661,7 @@
 8008661	阿特曼	\N	ātémàn	atman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman; see 我 (FGDB '我')	8008661
 8008662	阿坦么	阿坦麼	ātǎnma	atman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman; see 我 (FGDB '我')	8008662
 8008663	恼	惱	nǎo	distressing; viheṭhana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viheṭhana, Japanese: nou (BCSD '惰', p. 489; MW 'alasa'; Unihan '惱')	8008663
-8008664	丈夫	\N	zhàngfu	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; a cosmic being in Vedic mythology whose sacrifice led to the creation of the Universe (FGDB '丈夫'; MW 'puruṣa'; Radhakrishnan and Moore 1957, p. 21)	8008664
+8008664	丈夫	\N	zhàngfu	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; a cosmic being in Vedic mythology whose sacrifice led to the creation of the Universe and soul in Samkhya philosophy (FGDB '丈夫'; MW 'puruṣa'; Radhakrishnan and Moore 1957, pp. 21, 238-239)	8008664
 8008665	补卢沙	補盧沙	bǔlúshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008665
 8008666	富楼沙	富樓沙	fùlóushā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008666
 8008667	浮溜沙	\N	fúliūshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008667
@@ -8719,7 +8719,7 @@
 8008719	微尘数	微塵數	wēichénshǔ	as numerous as atoms	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '微塵數'; SH '微塵數', p. 399)	8008719
 8008720	虑	慮	lǜ	imagination; manojalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manojalpa, Japanese: ryo, or: roku (BCSD '慮', p. 500; Mahāvyutpatti 'manojalpaḥ'; MW 'manojalpa'; Unihan '慮')	8008720
 8008721	数论派	數論派	shùlùnpài	Samkhya School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 數論學派 (FGDB '數論學派')	8008721
-8008722	自性	\N	zìxìng	primordial matter; nature; prakṛti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prakṛti; a fundamental concept in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 132)	8001121
+8008722	自性	\N	zìxìng	primordial matter; nature; prakṛti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prakṛti; a fundamental concept in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 132; Radhakrishnan and Moore 1957, pp. 238-239)	8001121
 8008723	纯质	純質	chún zhì	clear mode of nature; sattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva; one of the three guṇas in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 133)	8008723
 8008724	激质	激質	jīzhì	dynamic mode of nature; rajas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rajas; one of the three guṇas in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 133)	8008724
 8008725	翳质	翳質	yìzhì	dark mode of nature; tamas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tamas; one of the three guṇas in Samkhya philosophy (FGDB '數論學派'; Heehs 2002, p. 133)	8008725
@@ -8752,3 +8752,4 @@
 8008752	唯量	\N	wěiliàng	five rudimentary elements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tanmātra; see 五唯 (FGDB '五唯')	8008752
 8008753	五微尘	五微塵	wǔwēichén	five rudimentary elements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-tanmātra; see 五唯 (FGDB '五唯')	8008753
 8008754	二十五谛	二十五諦	èrshíwǔ dì	twenty-five truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	of the orthodox Hindu 數論學派 Samkhya school system (FGDB '二十五諦')	8008754
+8008755	瑜伽	\N	yújiā	Yoga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yoga, Pali: yoga; orhtodox Hindu school of philosophy, especially of Patanjali (FGDB '瑜伽'; Radhakrishnan and Moore 1957, pp. 226-229)	8001575
