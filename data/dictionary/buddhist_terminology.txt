@@ -8741,7 +8741,7 @@
 8008741	相应外道	相應外道	xiāngyìng wàidào	orthodox Yoga school	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Buddhist reference to the Hindu orthodox Yoga school (FGDB '瑜伽派')	8008741
 8008742	明知	\N	míngzhī	true knowledge; viveka	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: viveka; in orthodox Hindu Yoga philosophy (FGDB '瑜伽經'; MW 'viveka')	8008742
 8008743	瑜伽八支	\N	yújiā bā zhī	eight branches of Yoga	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṣṭāṅga; in orthodox Hindu Yoga philosophy (FGDB '瑜伽經'; Heehs 2002, pp. 140-141)	8008743
-8008744	悭	慳	qiān	envy; mātsarya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mātsarya, Japanese: kan, or: ken, Tibetan: ser sna can (BCSD '慳', p. 500; Mahāvyutpatti 'matsaraḥ'; MW 'mātsarya'; SH '慳', p. 423; Unihan '慳')	8008744
+8008744	悭	慳	qiān	envy; mātsarya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mātsarya, Japanese: kan, or: ken, Tibetan: ser sna can (BCSD '慳', p. 501; Mahāvyutpatti 'matsaraḥ'; MW 'mātsarya'; SH '慳', p. 423; Unihan '慳')	8008744
 8008745	六十科论	六十科論	liùshí kēlùn	doctrine of sixty conceptions; ṣaṣṭitantra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣaṣṭitantra; enumerated in the Samkhya Karika of the orthodox Hindu Samkhya school (FGDB '數論頌'; MW 'ṣaṣṭitantra')	8008745
 8008746	作根	\N	zuògēn	an organ of action; karmendriya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmendriya; see 五作業根 (FGDB '五作業根'; MW 'karmendriya')	8008746
 8008747	五作业根	五作業根	wǔ zuòyè gēn	five organs of action	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the orthodox Hindu 數論學派 Samkhya school system; namely: hand, foot, larynx, sex organ, and excretion (FGDB '五作業根'; MW 'karmendriya')	8008747
@@ -8758,3 +8758,13 @@
 8008758	因明处	因明處	yīnmíngchù	universal rule	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nyāya; especially within the system of the orthodox Hindu Nyaya School (FGDB '尼夜耶學派'; MW 'nyāya')	8008758
 8008759	因论	因論	yīnlùn	universal rule	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nyāya; especially within the system of the orthodox Hindu Nyaya School (FGDB '尼夜耶學派'; MW 'nyāya')	8008759
 8008760	正理派	\N	zhènglǐpài	Nyaya School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nyāya; see 尼夜耶學派 (FGDB '尼夜耶學派')	8008760
+8008761	三摩𨁟	\N	sānmówǒ	samāpatti; meditative attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正受 (FGDB '正受')	62485
+8008762	正定现前	正定現前	zhèngdìng xiànqián	samāpatti; meditative attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正受 (FGDB '正受')	8008762
+8008763	摩罗	摩羅	móluó	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The full form of 魔 (Ding '摩羅'; FGDB '摩羅'; SH '摩羅', p. 436)	8008763
+8008764	庆	慶	qìng	rapture; prāmodya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prāmodya, Japanese: kei, or: kyou (BCSD '慶', p. 501; MW 'prāmodya'; SH '慶', p. 432; Unihan '慶')	8008764
+8008765	能破	\N	néngpò	refutation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūṣaṇa; one of the eight techniques in Buddhist logic (Bak 2017, p. 42; Ding '能破'; FGDB '能破')	8008765
+8008766	见谛	見諦	jiàndì	realization of the truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '見諦'; SH '見諦', p. 244)	8008766
+8008767	慼	\N	qī	to be miserable; dainya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dainya, Japanese: seki, or: shaku, or: shuku (BCSD '慼', p. 501; MW 'dainya'; Unihan '慼')	8008767
+8008768	大空	\N	dàkōng	the great void	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大空'; FGDB '大空'; SH '大空', p. 93)	8008768
+8008769	相应法	相應法	xiāngyīng fǎ	corresponding dharma; mental factor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '相應法'; FGDB '相應法'; SH '相應法', p. 310)	8008769
+8008770	忧	憂	yōu	melancholy; daurmanasya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daurmanasya, Japanese: yū, Tibetan: yid mi bde ba (BCSD '憂', p. 501, Mahāvyutpatti 'daurmanasyam'; MW 'daurmanasya'; SH '憂', p. 433, Unihan '憂')	8008770
