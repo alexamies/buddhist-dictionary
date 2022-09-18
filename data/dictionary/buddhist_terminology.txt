@@ -8609,7 +8609,7 @@
 8008609	弥曼差	彌曼差	mímànchà	Mimamsa School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mīmāṃsā; one of the three major divisions of Hindū philosophy (FGDB '彌曼差學派'; MW 'mīmāṃsā')	8008609
 8008610	弥息伽	彌息伽	míxījiā	Mimamsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mīmāṃsā; see 彌曼差 (FGDB '彌曼差學派')	8008610
 8008611	恣	\N	zì	roaming about; vaṅka	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaṅka, Japanese: shi (BCSD '恣', p. 479; MW 'vaṅka'; Unihan '恣')	8008611
-8008612	吠檀多学派	吠檀多學派	fèitánduō xuépài	Vedanta School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vedānta; a major school of Hindū philosophy (FGDB '吠檀多學派'; Wikipedia 'vedānta')	8008612
+8008612	吠檀多学派	吠檀多學派	fèitánduō xuépài	Vedanta School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vedānta; a major school of Hindū philosophy (FGDB '吠檀多學派'; Heehs 2002, pp. 233-234; Wikipedia 'vedānta')	8008612
 8008613	罗摩耶那	羅摩耶那	luómóyénà	Ramayana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāmāyaṇa; Indian epic poem (FGDB '吠檀多學派'; MW 'rāmāyaṇa')	8008613
 8008614	耻	恥	chǐ	shame; lajjā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lajjā, Japanese: chi (BCSD '恥', p. 479; Mahāvyutpatti 'lajjā'; MW 'lajjā'; Unicode '恥')	8008614
 8008615	圣传	聖傳	shèngchuán	sacred tradition; smṛti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛti; remembered and passed down by human teachers, in contrast to śruti  (FGDB '吠陀'; MW 'smṛti')	8008615
@@ -8773,3 +8773,8 @@
 8008773	心行	\N	xīnxíng	mental activity	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta-carita, Tibetan: sems kyi spyod pa (Ding '心行'; FGDB '心行'; SH '心行', p. 152)	8008773
 8008774	二智	\N	èrzhì	two kinds of knowledge; two kinds of wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are various formulations for the two kinds (Ding '二智'; FGDB '二智'; SH '二智', p. 26; Sharf 2005, p. 209)	8008774
 8008775	憍	\N	jiāo	arrogance; mada	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mada, Japanese: kyou, Tibetan: rgyags pa (BCSD '憍', p. 502, Mahāvyutpatti 'madaḥ'; MW 'mada'; SH '憍', p. 433, Unihan '憍')	8008775
+8008776	后弥曼差派	後彌曼差派	hòu mímànchà pài	Uttara-Mimamsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttara-mīmāṃsā; an alternative name for the Vedanta school; see 吠檀多學派 (FGDB '吠檀多學派')	8008776
+8008777	智弥曼蹉派	智彌曼蹉派	zhì mímàncuō pài	Jnana-Mimamsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñāna-mīmāṃsā; an alternative name for the Vedanta school; see 吠檀多學派 (FGDB '吠檀多學派')	8008777
+8008778	憎	\N	zēng	hatred; dveṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dveṣa, Japanese: zou (BCSD '憎', p. 503, MW 'dveṣa'; SH '憎', p. 371, Unihan '憎')	8008778
+8008779	不二一元论	不二一元論	bú èr yī yuán lùn	Advaita Vedanta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: advaita-vedānta; an orthodox Hindu doctrine of nondualism, influential in the Vedanta school (FGDB '吠檀多學派'; Heehs 2002, pp. 234)	8008779
+8008780	能行	\N	néngxíng	ability to act	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In contrast to 所行 'actions' (Ding '能行'; FGDB '能行')	8008780
