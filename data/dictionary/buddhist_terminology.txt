@@ -2320,7 +2320,7 @@
 8002320	商羯罗	商羯羅	shāngjiéluó	Samkara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śaṃkara; an epithet for Śiva meaning 'auspicious,' mentioned in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra (FGDB '商羯羅'; SH '商羯羅', p. 344; Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002320
 8002321	商羯罗天	商羯羅天	shāngjiéluó tiān	Samkara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śaṃkara; see 商羯羅 (FGDB '商羯羅')	8002321
 8002322	赏迦罗	賞迦羅	shǎngjiāluó	Samkara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śaṃkara; see 商羯羅 (FGDB '商羯羅')	8002322
-8002323	怜	憐	lián	kindness; preman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preman, Japanese: ren (BCSD '憐', p. 503, MW 'preman'; SH '憐', p. 432, Unihan '憐')	8002323
+8002323	怜	憐	lián	kindness; preman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preman, Japanese: ren (BCSD '憐', p. 503; MW 'preman'; SH '憐', p. 432, Unihan '憐')	8002323
 8002324	俱吠滥	俱吠濫	jūfèilàn	Kubera	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kubera; mentioned in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra (Giebel 2005, p. 9; T 848, Scroll 1, 18.0002a26)	8002324
 8002325	毘流波叉	\N	píliúbōchā	Virupaksa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: virūpākṣa; see 廣目天 (SH '毘流波叉', p. 306)	8002325
 8002326	毘流博叉	\N	píliúbóchā	Virupaksa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: virūpākṣa; see 廣目天 (SH '毘流波叉', p. 306)	8002326
@@ -3098,7 +3098,7 @@
 8003098	大悲藏	\N	dà bēi cáng	Matrix of Great Compassion	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大悲壇 (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003098
 8003099	门	門	mén	door; gate; dvara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvāra, or: mukha, Tibetan: sgo (BCSD '門', p. 1196; FGDB '門'; Mahāvyutpatti 'dvāram'; MW 'dvāra'; SH '門', p. 284)	8003099
 8003100	门户	門戶	ménhù	an arch; arched doorway; torana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: toraṇa (BCSD '門', p. 1196; MW 'toraṇa'; Giebel 2005, p. 36; T 848, Scroll 1, 18.0006b09)	8003100
-8003101	应	應	yīng	suitable; yukta	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yukta (BCSD '應', p. 504; MW 'yukta')	8003101
+8003101	应	應	yīng	suitable; yukta	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yukta, Japanese: you, or ou (BCSD '應', p. 504; Mahāvyutpatti 'yuktam'; MW 'yukta'; SH '應', p. 457; Unihan '應')	8003101
 8003102	制底	\N	zhìdǐ	caitya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitya; see 支提 (SH '支提', p. 152)	8003102
 8003103	支帝	\N	zhīdì	caitya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitya; see 支提 (SH '支提', p. 152)	8003103
 8003104	支征	支徵	zhīzhēng	caitya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitya; see 支提 (SH '支提', p. 152)	8003104
@@ -8775,11 +8775,37 @@
 8008775	憍	\N	jiāo	arrogance; mada	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mada, Japanese: kyou, Tibetan: rgyags pa (BCSD '憍', p. 502, Mahāvyutpatti 'madaḥ'; MW 'mada'; SH '憍', p. 433, Unihan '憍')	8008775
 8008776	后弥曼差派	後彌曼差派	hòu mímànchà pài	Uttara-Mimamsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttara-mīmāṃsā; an alternative name for the Vedanta school; see 吠檀多學派 (FGDB '吠檀多學派')	8008776
 8008777	智弥曼蹉派	智彌曼蹉派	zhì mímàncuō pài	Jnana-Mimamsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñāna-mīmāṃsā; an alternative name for the Vedanta school; see 吠檀多學派 (FGDB '吠檀多學派')	8008777
-8008778	憎	\N	zēng	hatred; dveṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dveṣa, Japanese: zou (BCSD '憎', p. 503, MW 'dveṣa'; SH '憎', p. 371, Unihan '憎')	8008778
+8008778	憎	\N	zēng	hatred; dveṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dveṣa, Japanese: zou (BCSD '憎', p. 503; MW 'dveṣa'; SH '憎', p. 371, Unihan '憎')	8008778
 8008779	不二一元论	不二一元論	bú èr yī yuán lùn	Advaita Vedanta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: advaita-vedānta; an orthodox Hindu doctrine of nondualism, influential in the Vedanta school (FGDB '吠檀多學派'; Heehs 2002, pp. 234)	8008779
 8008780	能行	\N	néngxíng	ability to act	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In contrast to 所行 'actions' (Ding '能行'; FGDB '能行')	8008780
 8008781	所行	\N	suǒxíng	actions; practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '所行')	8008781
-8008782	凭	憑	píng	belief; pratyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyaya, Japanese: hyuo (BCSD '憑', p. 503, MW 'pratyaya'; Unihan '憑')	8008782
+8008782	凭	憑	píng	belief; pratyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyaya, Japanese: hyuo (BCSD '憑', p. 503; MW 'pratyaya'; Unihan '憑')	8008782
 8008783	制限一元论	制限一元論	zhì xiàn yī yuán lùn	Visistadvaita	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: viśiṣṭādvaita; an orthodox Hindu philosophy (FGDB '吠檀多學派')	8008783
 8008784	二元说	二元說	èr yuán shuō	Dvaita	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: dvaita; a doctrine of the orthodox Hindu Vedanta philosophy (FGDB '吠檀多學派')	8008784
-8008785	愤	憤	fèn	angry; kupita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kupita, Japanese: fun (BCSD '憤', p. 503, MW 'kupita'; Unihan '憤')	8008785
+8008785	愤	憤	fèn	angry; kupita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kupita, Japanese: fun (BCSD '憤', p. 503; MW 'kupita'; Unihan '憤')	8008785
+8008786	群生	\N	qúnshēng	all living beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '群生'; FGDB '群生'; SH '群生', p. 410)	8008786
+8008787	道中	\N	dào zhōng	on the path	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道中')	8008787
+8008788	道后	道後	dàohòu	having completed the path to enlightenment	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道後'; FGDB '道後')	8008788
+8008789	忆	憶	yì	thinking of; smṛti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛti, Japanese: oku (BCSD '憶', p. 503; MW 'smṛti'; SH '憶', p. 447; Unihan '憶')	8008789
+8008790	偷兰	偷蘭	tōulán	great transgression; serious misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 偷蘭遮 (FGDB '偷蘭遮')	8008790
+8008791	偷兰遮	偷蘭遮	tōulánzhē	great transgression; serious misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūlātyaya, Pali: thullaccaya, Japanese: chūranga; a major misdeed that requires confession but is not sufficient for expulsion of a monastic (BL 'sthūlātyaya'; Ding '偷蘭遮'; FGDB '偷蘭遮'; SH '偷蘭遮')	8008791
+8008792	偷兰遮耶	偷蘭遮耶	tōulánzhēyé	great transgression; serious misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 偷蘭遮 (FGDB '偷蘭遮')	8008792
+8008793	偷罗遮	偷羅遮	tōuluózhē	great transgression; serious misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 偷蘭遮 (FGDB '偷蘭遮')	8008793
+8008794	萨偷罗	薩偷羅	sàtōuluó	great transgression; major misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 偷蘭遮 (FGDB '偷蘭遮')	8008794
+8008795	憾	\N	hàn	haṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: haṃ, Japanese: kan (BCSD '憾', p. 504; Unihan '憾')	8008795
+8008796	土罗遮	土羅遮	tǔluózhē	great transgression; major misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūlātyaya; see 偷蘭遮 (FGDB '偷蘭遮')	8008796
+8008797	窣吐罗	窣吐羅	sùtùluó	great transgression; major misdeed; sthūlātyaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūlātyaya; see 偷蘭遮 (FGDB '偷蘭遮')	8008797
+8008798	灭道	滅道	mièdào	extinction of suffering and the path to it	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '滅道'; SH '滅道', p. 406)	8008798
+8008799	阐提	闡提	chǎntí	icchantika; an incorrigible	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: icchantika; see 一闡提 (FGDB '一闡提')	8008799
+8008800	懃	\N	qín	to strive; ghaṭ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṭ, Japanese: kin, or: gon (BCSD '懃', p. 504; MW 'ghaṭ'; Unihan '懃')	8008800
+8008801	一阐提	一闡提	yīchǎntí	icchantika; an incorrigible	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: icchantika, Japanese: issendai, a being with no good roots, arguably having no potential for future enlightenment (BL 'icchantika'; Ding '一闡提'; FGDB '一闡提'; SH '一闡提', p. 9)	8008801
+8008802	恩爱	恩愛	ēn ài	affection	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '恩愛'; SH '恩愛')	8008802
+8008803	一阐底迦	一闡底迦	yīchǎndǐjiā	icchantika; an incorrigible	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: icchantika; see 一闡提 (FGDB '一闡提')	8008803
+8008804	懑	懣	mèn	despair; daurmanasya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daurmanasya, Japanese: mon, or: man (BCSD '懣', p. 512; MW 'daurmanasya'; Unihan '懣')	8008804
+8008805	一颠迦	一顛迦	yīdiānjiā	icchantika; an incorrigible	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: icchantika; see 一闡提 (FGDB '一闡提')	8008805
+8008806	一阐提柯	一闡提柯	yīchǎntíkē	icchantika; an incorrigible	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: icchantika; see 一闡提 (FGDB '一闡提')	8008806
+8008807	恶目鬼王	惡目鬼王	è mù guǐwáng	Ghost King Evil Eyes	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Mentioned in “Original Vows of Ksitigarbha Bodhisattva Sutra” (Tsai 2014 pp. 12-13; T 412, Scroll 1)	8008807
+8008808	摄毒鬼王	攝毒鬼王	shèdúguǐwáng	Ghost King Controlling Poisons	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Mentioned in “Original Vows of Ksitigarbha Bodhisattva Sutra” (Tsai 2014 pp. 12-13; T 412, Scroll 1)	8008808
+8008809	等流	\N	děngliú	outflow; niṣyanda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent niṣyanda (Ding '等流'; FGDB '等流'; SH '等流', p. 385)	8008809
+8008810	等流果	\N	děngliúguǒ	correlative effect; fruition of an outflow; niṣyandaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣyandaphala, Japanese: tōruka; the term represents the concept that the fruitition will correspond with the cause, one of the 五果 'five fruitions' (BL 'niṣyandaphala'; Ding '等流果'; FGDB '等流果'; SH '等流果', p. 385)	8008810
+8008811	懒	懶	lǎn	fatigued; klamatha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: klamatha, Japanese: ran, or: rai, Tibetan: snyom pa'am dub pa (BCSD '懶', p. 512; Mahāvyutpatti 'klamathaḥ'; MW 'klamatha'; SH '懶', p. 512; Unihan '懶')	8008811
