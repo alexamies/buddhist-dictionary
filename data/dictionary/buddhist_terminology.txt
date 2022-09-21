@@ -8620,7 +8620,7 @@
 8008620	恭	\N	gōng	reverence; bhajana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhajana, Japanese: kyou, Tibetan: bsnyen pa (BCSD '恭', p. 480; Mahāvyutpatti 'bhajanam'; MW 'bhajana'; SH '恭', p. 325; Unihan '恭')	8008620
 8008621	智品	\N	zhìpǐn	teaching of the one Spirit; jñānakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'jñānakāṇḍa')	8008621
 8008622	业品	業品	yèpǐn	teachings related to ceremonial acts and sacrificial rites; karmakāṇḍa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmakāṇḍa; part of the Vedas (FGDB '吠陀'; MW 'karmakāṇḍa')	8008622
-8008623	奥义书	奧義書	Àoyìshū	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Embree 1988, pp. 29-39; FGDB '奧義書'; Heehs 2002, pp. 57-87)	8008623
+8008623	奥义书	奧義書	Àoyìshū	Upanisads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad (Cohen 2018; Embree 1988, pp. 29-39; FGDB '奧義書'; Heehs 2002, pp. 57-87)	8008623
 8008624	优波尼沙土	優波尼沙土	yōubōníshātǔ	Upanishads	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upaniṣad; see 奧義書 (FGDB '奧義書')	8008624
 8008625	破着	破著	pòzhe	to break attachments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二種破著')	8008625
 8008626	息	\N	xī	rest; śama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śama, Japanese: soku (BCSD '息', p. 480; MW 'śama'; SH '息', p. 325; Unihan '息')	8008626
@@ -8808,4 +8808,22 @@
 8008808	摄毒鬼王	攝毒鬼王	shèdúguǐwáng	Ghost King Controlling Poisons	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Mentioned in “Original Vows of Ksitigarbha Bodhisattva Sutra” (Tsai 2014 pp. 12-13; T 412, Scroll 1)	8008808
 8008809	等流	\N	děngliú	outflow; niṣyanda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent niṣyanda (Ding '等流'; FGDB '等流'; SH '等流', p. 385)	8008809
 8008810	等流果	\N	děngliúguǒ	correlative effect; fruition of an outflow; niṣyandaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣyandaphala, Japanese: tōruka; the term represents the concept that the fruitition will correspond with the cause, one of the 五果 'five fruitions' (BL 'niṣyandaphala'; Ding '等流果'; FGDB '等流果'; SH '等流果', p. 385)	8008810
-8008811	懒	懶	lǎn	fatigued; klamatha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: klamatha, Japanese: ran, or: rai, Tibetan: snyom pa'am dub pa (BCSD '懶', p. 512; Mahāvyutpatti 'klamathaḥ'; MW 'klamatha'; SH '懶', p. 512; Unihan '懶')	8008811
+8008811	懒	懶	lǎn	fatigued; klamatha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: klamatha, Japanese: ran, or: rai, Tibetan: snyom pa'am dub pa (BCSD '懶', p. 512; Mahāvyutpatti 'klamathaḥ'; MW 'klamatha'; SH '懶', p. 471; Unihan '懶')	8008811
+8008812	依果	\N	yīguǒ	correlative effect; fruition of an outflow; niṣyandaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 等流果 (FGDB '等流果')	62533
+8008813	三相神	\N	sān xiāng shén	three deities; trimūrti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trimūrti; the three Hindu deities: 梵天 Brahma, 毘濕奴 Visnu, and 濕婆 Siva representing the creator, maintainer, and destroyer of the world (FGDB '三相神')	8008813
+8008814	毘湿奴	毘濕奴	píshīnú	Visnu	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣṇu; see 毘紐天 (FGDB '三相神')	8008814
+8008815	怀	懷	huái	embrace; utsaṅga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utsaṅga, Japanese: kai, Tibetan: pang pa (BCSD '懷', p. 512; Mahāvyutpatti 'utsaṅgaḥ'; MW 'utsaṅga'; SH '懷', p. 471; Unihan '懷')	8008815
+8008816	三座	\N	sān zuò	triple seat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tri-ṣadhastha (FGDB '三相神'; MW 'triṣadhastha')	8008816
+8008817	祭祀	\N	jìsì	Vedic ritual; yajña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yajña (Killingley 2018, p. 77-78; FGDB '蘇摩祭'; MW 'yajña')	8008817
+8008818	苏摩祭	蘇摩祭	sūmójì	sacrifice; somayajña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: somayajña (FGDB '蘇摩祭'; MW 'yajña')	8008818
+8008819	阿耆尼湿头摩	阿耆尼濕頭摩	āqíní shītóumó	Agnistoma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agniṣṭoma; a Vedic fire ritual (Cohen 2018, p. 396; FGDB '蘇摩祭'; MW 'agniṣṭoma')	8008819
+8008820	力饮祭	力飲祭	lìyǐnjì	Vajapeya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vājapeya; a Vedic ritual to prepare for battle (FGDB '蘇摩祭'; MW 'agniṣṭoma')	8008820
+8008821	即位礼祭	即位禮祭	jíwèilǐjì	Rajasuya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rājasūya; a Vedic ceremony for coronation (Killingley 2018, p. 74; FGDB '蘇摩祭'; MW 'rājasūya')	8008821
+8008822	悬	懸	xuán	to hang down; lamb	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lamb, Japanese: ken, or: ke (BCSD '懸', p. 513; MW 'lamb'; SH '懸', p. 478; Unihan '懸')	8008822
+8008823	马祭	馬祭	mǎjì	Asvamedha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aśvamedha; a Vedic ceremony involving sacrifice of a horse (Black 2018, p. 231; FGDB '蘇摩祭'; MW 'aśvamedha')	8008823
+8008824	奉乳祭	\N	fèngrǔjì	Pravargya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravargya; a Vedic ceremony involving soma offering (Cohen 2018, p. 398; FGDB '蘇摩祭'; MW 'pravargya')	8008824
+8008825	火坛祭	火壇祭	huǒtánjì	Agnicayana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agnicayana; a Vedic ceremony for building an alter for a fire ritual (Cohen 2018, p. 395-396; FGDB '蘇摩祭'; MW 'agnicayana')	8008825
+8008826	人祭	\N	rénjì	Purusamedha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣamedha; a Vedic ritual for sacrifing a person (FGDB '蘇摩祭'; MW 'agnicayana')	8008826
+8008827	全祭	\N	quánjì	Universal Sacrifice	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvamedha; a Vedic ritual (FGDB '蘇摩祭'; MW 'sarvamedha')	8008827
+8008828	习果	習果	xíguǒ	correlative effect; fruition of an outflow; niṣyandaphala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 等流果 (FGDB '等流果')	8008828
+8008829	惧	懼	jù	fear; bhaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaya, Japanese: ku, or: gu (BCSD '懼', p. 513; MW 'bhaya'; SH '懼', p. 483; Unihan '懼')	8008829
