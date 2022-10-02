@@ -5867,7 +5867,7 @@
 8005867	凸	\N	tū	bent upwards; unnata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: unnata (BCSD '凸', p. 178; MW 'unnata')	8005867
 8005868	好成	\N	hǎochéng	Sambhava	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃbhavā; name of a Buddha realm mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020; Hurvitz 2009, p. 130; Kern 1884, ch. 7; Karashima 2001, p. 180; T 262, Scroll 3, 9.0022a19)	8005868
 8005869	好	\N	hǎo	good; sādhu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhu, Japanese: kou (BCSD '好', p. 341; MW 'sādhu'; SH '好', p. 210; Unihan '好')	8005869
-8005870	成	\N	chéng	becoming; bhāva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāva (BCSD '成', p. 514; MW 'bhāva'; SH '成', p. 237)	8005870
+8005870	成	\N	chéng	becoming; bhāva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāva, or: nirhāra, Japanese: sei, or: jou, Tibetan: sgrub pa (BCSD '成', p. 514; Mahāvyutpatti 'nirhāra'; MW 'bhāva'; SH '成', p. 237; Unihan '成')	8005870
 8005871	大相	\N	dàxiāng	Maharupa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahārūpa; name of a kalpa mentioned in the 妙法蓮華經 “Lotus Sutra” (Braarvig 2020; Hurvitz 2009, p. 130; Kern 1884, ch. 7; Karashima 2001, p. 107; T 262, Scroll 3, 9.0022a19)	8005871
 8005872	宝藏馆	寶藏館	bǎo zàng guǎn	Buddhist museum	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教博物館')	8005872
 8005873	佛教博物馆	佛教博物館	fójiào bówùguǎn	Buddhist museum	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教博物館')	8005873
@@ -8850,3 +8850,9 @@
 8008850	犯戒	\N	fàn jiè	to break the precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '犯戒'; SH '犯戒', p. 194)	8008850
 8008851	二见	二見	èr jiàn	two views	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Several formulations (Ding '二見'; FGDB '二見'; SH '二見', p. 29)	8008851
 8008852	戎	\N	róng	weapon; āyudha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āyudha, Japanese: jū (BCSD '戎', p. 513; MW 'āyudha'; Unihan '戎')	8008852
+8008853	王法	\N	wángfǎ	duty or laws relating to kings; rāja-dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāja-dharma (BCSD '王法', p. 820; Dandekar 1988, p. 234; MW 'rājadharma'; SH '王法', p. 163)	8008853
+8008854	王种	王種	wángzhǒng	warrior or ruling caste; kṣatriya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣatriya, Tibetan: rgyal rigs (BCSD '王種', p. 820; Mahāvyutpatti 'kṣatriyaḥ'; MW 'kṣatriya')	8008854
+8008855	或	\N	huò	or; vā	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vā, or: atha, Japanese: waku, or: iki (BCSD '或', p. 521; MW 'vā'; Unihan '或')	8008855
+8008856	道法	\N	dào fǎ	the method to attain nirvāṇa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道法'; SH '道法', p. 416)	8008856
+8008856	深心	\N	shēnxīn	determination; resolution; adhyāśaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhyāśaya, Japanese: shōjiki no shin; especially, determination in seeking the Dharma or for a bodhisattva to liberate all beings (BL 'adhyāśaya'; Ding '深心'; FGDB '深心'; SH '深心', p. 356)	62555
+8008857	戟	\N	jǐ	a lance; tomara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tomara, Japanese: geki (BCSD '戟', p. 522; MW 'tomara'; Unihan '戟')	8008857
