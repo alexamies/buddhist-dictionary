@@ -6722,7 +6722,7 @@
 8006722	面	\N	miàn	face; vaktra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaktra, or: mukha, Japanese: men, or: ben (BCSD '面', p. 1257; Mahāvyutpatti 'vaktram'; MW 'vaktra'; SH '面', p. 317; Unihan '面')	8006722
 8006723	法句	\N	fǎjù	Dhammapada	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From Pali: dhammapada; part of the fifth book of the Theravadin Sutta Piṭaka the 小部 Khuddakanikāya, especially as included in the 漢譯南傳大藏經 'Chinese Translation of the Pali Tipiṭaka' (FGDB '南傳大藏經'; PPN 'Khuddaka Nikāya')	8006723
 8006724	无自性	無自性	wúzìxìng	niḥsvabhāva; no self-nature	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niḥsvabhāva, Japanese: mujishō; a concept from the Madhyamaka Indian Buddhist school(BL 'niḥsvabhāva'; FGDB '無自性')	8006724
-8006725	所	\N	suǒ	place; pradeśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pradeśa, Japanese: sho, or: so (BCSD '所', p. 1257; MW 'pradeśa'; SH '所', p. 317; Unihan '所')	8006725
+8006725	所	\N	suǒ	place; pradeśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pradeśa, Japanese: sho, or: so (BCSD '所', p. 523; MW 'pradeśa'; SH '所', p. 317; Unihan '所')	8006725
 8006726	所	\N	suǒ	that which; yad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yad (BCSD '所', p. 1257; MW 'yad'; SH '所', p. 317)	8006725
 8006727	所以	\N	suǒyǐ	cause; reason; kāraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāraṇa (BCSD '所以', p. 524; MW 'kāraṇa')	8006727
 8006728	无性	無性	wúxìng	niḥsvabhāva; no self-nature	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無自性 (FGDB '無自性')	8006728
@@ -8879,3 +8879,20 @@
 8008879	邬波婆沙	鄔波婆沙	wūbōpóshā	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008879
 8008880	戏	戲	xì	to play; krīḍ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krīḍ, Japanese: gi, or: ge, or: ki (BCSD '戲', p. 522; MW 'krīḍ'; SH '戲', p. 458; Unihan '戲')	8008880
 8008881	戏	戲	xì	curiosity; kutūhala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kutūhalam, Tibetan: dge mtshan nam ltad mo (BCSD '戲', p. 522; Mahāvyutpatti 'kutūhalam'; MW 'kutūhala')	8008880
+8008882	逋沙陀	\N	būshātuó	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008882
+8008883	褒洒陀	褒灑陀	bāosǎtuó	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008883
+8008884	乌逋沙他	烏逋沙他	wūbūshātā	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008884
+8008885	长净	長淨	chángjìng	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008885
+8008886	长养	長養	chángyǎng	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008886
+8008887	善宿	\N	shànsù	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008887
+8008888	戴	\N	dài	to carry; to support; dhara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhara, Japanese: tai (BCSD '戴', p. 523; MW 'dhara'; SH '戴', p. 464; Unihan '戴')	8008888
+8008889	净住	淨住	jìngzhù	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008889
+8008890	长住	長住	chángzhù	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008890
+8008891	戻	\N	tì	perverse; viparīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viparīta, Japanese: rei, or: rai (BCSD '戻', p. 523; MW 'viparīta'; Unihan '戻')	8008891
+8008892	近住	\N	jìnzhù	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008892
+8008893	共主	\N	gòngzhǔ	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008893
+8008894	断增长	斷增長	duànzēngzhǎng	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008894
+8008895	戾	\N	lì	perverse; viparīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viparīta, Japanese: rei, or: rai (BCSD '戾', p. 523; MW 'viparīta'; Unihan '戻')	8008895
+8008896	牟尼	\N	móuní	a saint; a sage; a seer; muni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muni, Pali: muni; in the sense of 贤人 (Ding '牟尼'; FGDB '牟尼'; MW 'muni'; SH '牟尼', p. 216)	8008896
+8008897	文尼	\N	wénní	a saint; a sage; a seer; muni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 牟尼 (FGDB '牟尼')	8008897
+8008898	扇	\N	shàn	fan; vyajana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyajana, Japanese: sen (BCSD '扇', p. 537; MW 'vyajana'; SH '扇', p. 325; Unihan '扇')	8008898
