@@ -69,5 +69,12 @@ To install the software follow instructions in the
 [INSTALL-README.md](INSTALL-README.md)
 file.
 
+## Contributors
+
+Thank you to the contributors who did not submit directly via GitHub:
+
+1. Venerable You Zai
+2. Michael Murphy
+
 -------------------------------------------------------------------------------
-Copyright Nan Tien Institute 2013-2018, http://www.nantien.edu.au.
+Copyright Nan Tien Institute 2013-2022, http://www.nantien.edu.au.
