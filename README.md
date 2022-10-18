@@ -75,6 +75,7 @@ Thank you to the contributors who did not submit directly via GitHub:
 
 1. Venerable You Zai
 2. Michael Murphy
+3. [Fo Guang Shan Institute of Humanistic Buddhism](https://www.fgsihb.org) - Glosary of Humanistic Buddhism
 
 -------------------------------------------------------------------------------
 Copyright Nan Tien Institute 2013-2022, http://www.nantien.edu.au.
