@@ -5933,7 +5933,7 @@
 8005933	成佛	\N	chéng fó	to become a Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '成佛'; FGDB '成佛'; SH '成佛', p. 237)	8005933
 8005934	圆	圓	yuán	round; parimaṇḍalam	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parimaṇḍala, Tibetan: zlum po (BCSD '圓', p. 287; Mahāvyutpatti 'parimaṇḍalam'; MW 'parimaṇḍala'; SH '圓', p. 396)	8005934
 8005935	圆光	圓光	yuánguāng	halo; prabhāmaṇḍala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhāmaṇḍala; encircling the head of a Buddha or bodhisattva (BCSD '圓光', p. 287; FGDB '圓光'; MW 'prabhāmaṇḍala'; SH '圓光', p. 396)	8005935
-8005936	公案	\N	gōng'àn	koan; kōan; gong'an	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kōan; literally 'public case,' a  riddle-like or otherwise perplexing statement or dialog in the Chan tradition (BL 'gong'an'; DJBT 'Kōan'; FGDB '公案'; Guoyu '公案' 4; SH '公案')	8005936
+8005936	公案	\N	gōng'àn	koan; gongan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kōan; literally 'public case,' a riddle-like or otherwise perplexing statement or dialog in the Chan tradition (BL 'gong'an'; DJBT 'Kōan'; FGDB '公案'; Guoyu '公案' 4; SH '公案')	8005936
 8005937	刑	\N	xíng	punishment; vadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vadha (BCSD '刑', p. 186; MW 'vadha')	8005937
 8005938	玄奘	\N	xuán zàng	Xuanzang; Hsuan-Tsang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	c. 602-664, Japanese: Genjō; Wide-Giles: Hsuan-Tsang;  Xuanzang's travel to India is recorded in the work 大唐西域記 'Tang Records of the Western Regions' (BL 'Xuanzang', pp. 1015-1016; Tzu Chuang 2012, p. 393; FGDB '玄奘'; SEEKERS 'Hsuan-Tsang'; KDC 1065; T 2087)	8005938
 8005939	奥	奧	ào	secret; mysterious; guhya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhya, Japanese: oku (BCSD '奧', p. 339; DJBT '奧', p. 423; MW 'vadha')	8005939
@@ -8836,7 +8836,7 @@
 8008836	戈	\N	gē	spear; śakti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śakti, Japanese: ka (BCSD '戈', p. 513; MW 'śakti'; SH '戈', p. 152; Unihan '戈')	8008836
 8008837	解脱果	解脫果	jiětuōguǒ	visaṃyogaphala; disconnection fruition; separation effect	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 離繫果 (FGDB '離繫果')	8008837
 8008838	士用果	\N	shìyòngguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣakāraphala, Japanese: jiyuka; one of the 五果 'five fruits' (BL 'puruṣakāraphala'; Ding '士用果'; FGDB '士用果')	8008838
-8008839	士夫果	\N	shìfūguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 士用果	 (FGDB '士用果')	8008839
+8008839	士夫果	\N	shìfūguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 士用果 (FGDB '士用果')	8008839
 8008840	功用果	\N	gōngyòngguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 士用果 (FGDB '士用果')	8008840
 8008841	增上果	\N	zēngshàngguǒ	adhipatiphala; predominant fruition	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhipatiphala, Japanese: zōjōka; one of the 五果 'five fruits' (BL 'adhipatiphala'; Ding '增上果'; FGDB '增上果'; SH '增上果')	8008841
 8008842	生生	\N	shēngshēng	the cycle of rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生生'; FGDB '生生'; SH '生生')	8008842
@@ -8909,3 +8909,10 @@
 8008909	扮	\N	bàn	arranged; racita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: racita, Japanese: fun, or: han, or: hen, Tibetan: 'dom (BCSD '扮', p. 539; Mahāvyutpatti 'racitam'; MW 'racita'; Unihan '扮')	8008909
 8008910	都史陀天	\N	dōushǐtuó tiān	Tusita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣita; see 兜率天 (FGDB '都史陀天')	8008910
 8008911	白赞	白贊	báizàn	to praise	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '白贊'; SH '白贊', p. 198)	8008911
+8008912	扶	\N	fú	grasp; grah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grah, Japanese: fu, or: ho (BCSD '扶', p. 539; MW 'grah'; SH '扶', p. 240; Unihan '扶')	8008912
+8008913	近圆戒	近圓戒	jìn yuán jiè	full ordination; upasaṃpanna; upasaṃpadā	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 具足戒 (FGDB '具足戒')	8008913
+8008914	近具戒	\N	jìn jù jiè	full ordination; upasaṃpanna; upasaṃpadā	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 具足戒 (FGDB '具足戒')	8008914
+8008915	扼	\N	è	grasp; grah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grah, Japanese: aku, or: yaku (BCSD '扼', p. 539; MW 'grah'; Unihan '扼')	8008915
+8008916	功德坟寺	功德墳寺	gōngdé fén sì	merit monastery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '功德墳寺'; journal.nantien.edu.au)	8008916
+8008917	大戒	\N	dà jiè	full ordination; upasaṃpanna; upasaṃpadā	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 具足戒 (FGDB '具足戒')	8008917
+8008918	把	\N	bǎ	clenched hand; muṣṭi	preposition	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muṣṭi, Japanese: ha (BCSD '把', p. 540; MW 'muṣṭi'; Unihan '扼')	8008918
