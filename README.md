@@ -74,7 +74,7 @@ file.
 Thank you to the contributors who did not submit directly via GitHub:
 
 1. Venerable You Zai
-2. Michael Murphy
+2. Michael Murphy - translation phrases from [Studies on Humanistic Buddhism](https://journal.nantien.edu.au/)
 3. [Fo Guang Shan Institute of Humanistic Buddhism](https://www.fgsihb.org) - Glosary of Humanistic Buddhism
 
 -------------------------------------------------------------------------------
