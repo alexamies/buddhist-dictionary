@@ -5035,7 +5035,7 @@
 8005035	四谛法轮三会十二转说	四諦法輪三會十二轉說	sì dì fǎ lún sān huì shí èr zhuǎn shuō	four noble truths, dharma wheel, three assemblies, and twelve teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三轉十二行相 (FGDB '三轉十二行相')	8005035
 8005036	击	擊	jī	strike; garjita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: garjita, or: han, Tibetan: chem chem (BCSD '擊', p. 564; Mahāvyutpatti 'garjitaḥ'; MW 'garjita')	8005036
 8005037	一一衣	\N	yī yī yī	each kind of robe; ekaika-cīvara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '一一衣', p. 1; MW 'cīvara')	8005037
-8005038	有漏	\N	yǒulòu	having flow; pain; affliction; vexation; defilement; bhavāsrava; āsrava	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	lou4.mp3	Sanskrit equivalent: bhavāsrava, Tibetan: zag pa dang bcas pa; one of the 四漏 'four āsravas' (BL 'āsrava'; Conze, 1973, p. 320; Ding '四漏'; FGDB '四漏'; Karashima 2001 '四漏'; Mahāvyutpatti 'sāśravaḥ'; SH '四漏', p. 214)	8005038
+8005038	有漏	\N	yǒulòu	having flow; tainted; affliction; vexation; defilement; āsrava	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	lou4.mp3	Sanskrit equivalent: āsrava, or: bhavāsrava, Tibetan: zag pa dang bcas pa; one of the 四漏 'four āsravas' (BL 'āsrava'; Conze, 1973, p. 320; Ding '四漏'; FGDB '四漏'; Karashima 2001 '四漏'; Mahāvyutpatti 'sāśravaḥ'; MW 'āsrava'; SH '四漏', p. 214)	8005038
 8005039	思惟	\N	sīwéi	reflection; consideration; cintana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cintana (Ding '思惟'; FGDB '思惟'; SH '思惟', p. 302)	8005039
 8005040	丈	\N	zhàng	vyama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāma, Japanese: jō; the length of two extended arms (BCSD '丈', p. 19; DJBT '丈', p. 423; MW 'vyāma'; SH '丈', p. 54)	8005040
 8005041	正志	\N	zhèng zhì	right intention	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samyak-saṃkalpa, Pali: sammā sankappa; see 正思惟 (FGDB '八正道')	8005041
@@ -8930,3 +8930,13 @@
 8008930	欢喜母	歡喜母	huānxǐ mǔ	Hariti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hārītī; Gandharan ogeress and Bactrian mythological figure (FGDB ' 擲惡人印')	8008930
 8008931	抓	\N	zhuā	to slap; capēṭa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: capēṭa, Japanese: sou (BCSD '抓', p. 540; MW 'capēṭa'; Unihan '抓')	8008931
 8008932	阎罗天子	閻羅天子	yánluó tiānzǐ	Yama; Yamaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: yama, the lord of death (FGDB '預修十王生七經')	8008932
+8008933	金刚亥母	金剛亥母	jīngāng hài mǔ	Vajravarahi; Dakini Vajravarahi; Dorje Pakmo	proper noun	\N	\N	佛教	Buddhism	西藏	Tibet	\N	\N	Sanskrit equivalent: vajravārāhī; the consort of the wrathful deity Demchok (Wikipedia '金剛亥母')	8008933
+8008934	投	\N	tóu	throw; kṣepa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣepa, Japanese: tou, Tibetan: sdod pa (BCSD '投', p. 540; Mahāvyutpatti 'kṣepaḥ'; MW 'kṣepa'; SH '投', p. 240; Unihan '投')	8008934
+8008935	妄念	\N	wàng niàn	false thoughts; deluded thoughts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '妄念'; FGDB '妄念'; SH '妄念', p. 210)	8008935
+8008936	分别心	分別心	fēnbié xīn	discriminating thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 涉境心 (FGDB '涉境心'; journal.nantien.edu.au)	8008936
+8008937	涉境心	\N	shèjìngxīn	discriminating thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '涉境心')	8008937
+8008938	分别智相应染	分別智相應染	fēnbié zhì xiāngyīng rǎn	affliction corresponding to delusion	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 六染心 'six afflicted minds' mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna” (FGDB '分別智相應染'; SH '分別智相應染', p. 140; T 1666)	8008938
+8008939	相应染	相應染	xiāngyīng rǎn	corresponding affliction	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna” (FGDB '分別智相應染'; SH '分別智相應染', p. 140; T 1666)	8008939
+8008940	执相应染	執相應染	zhí xiāngyīng rǎn	affliction corresponding to attachment	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: for example, in 起信論 “Awakening of Faith” attributed to Aśvaghoṣha (Aśvaghoṣa and Hakeda 2006, p. 55; Ding '六染心'; FGDB '六染心'; SH '六染心', p. 135; T 1666, 32.0577b24)	8008940
+8008941	抖	\N	dǒu	to shake; dhū	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhū, Japanese: tou, or: to, Tibetan: sprug pa (BCSD '抖', p. 540; Mahāvyutpatti 'ādhunāti'; MW 'dhū'; SH '抖', p. 240; Unihan '抖')	8008941
+8008942	自度	\N	zì dù	self-salvation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '自調自度'; journal.nantien.edu.au)	8008942
