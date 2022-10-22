@@ -965,7 +965,7 @@
 8000965	道业	道業	dàoyè	work to follow the teachings of the Buddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道業')	8000964
 8000966	天眼通	\N	tiānyǎn tōng	Heavenly Vision; divine sight	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (FGDB '天眼通'; SH '天眼通', p. 146; Tzu Chuang 2012)	8000966
 8000967	通	\N	tōng	a spiritual power; supernatural powers; a remarkable ability; a magical power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神通 (SH '通', p. 365)	8000967
-8000968	轻安	輕安	qīng ān	calmness; tranquillity; repose; serenity; prasrabhi; passaddhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasrabhi, Pali: passaddhi, Tibetan: shin tu spyangs pa (FGDB '輕安'; Mahāvyutpatti 'prasrabdhiḥ'; SH '輕安', p. 429)	8000968
+8000968	轻安	輕安	qīng ān	calmness; tranquillity; repose; serenity; prasrabhi; passaddhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśrabdhi, Pali: passaddhi, Tibetan: shin tu spyangs pa (FGDB '輕安'; Mahāvyutpatti 'prasrabdhiḥ'; MW 'praśrabdhi'; SH '輕安', p. 429)	8000968
 8000969	摄受	攝受	shèshòu	parigraha; to protect; to uphold; received and taken care of	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parigraha, Tibetan: byin len, or: sbyin len; for example, from the 華嚴經 ”Avataṃsaka Sūtra”, Scroll 2, 以四攝事而曾攝受 'had received them and taken care of them with the four saving practices of generosity' (BCSD '攝受'; Cleary 1993, p. 64; FGDB '四種攝受';Mahāvyutpatti 'pratigrahaḥ'; MW 'parigraha'; T 279 0005b24).	8000969
 8000970	天神	\N	tiānshén	a god; a deity; devatā	noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devatā, Pali: devatā, Japanese: tenjin, Tibetan: lha; (BL 'devatā'; SH '天神', p. 146)	8000970
 8000971	普渡	\N	pǔdù	to release all from suffering	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '普渡', p. 90)	8000971
@@ -8950,3 +8950,11 @@
 8008950	能见心不相应染	能見心不相應染	néng jiàn xīn bù xiāngyīng rǎn	affliction disunited from a perceiving mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '六染心'; FGDB '六染心'; SH '六染心', p. 135)	8008950
 8008951	东照大权现	東照大權現	dōng zhào dà quán xiàn	Great shining Bodhisattva of the East	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Tōshōdaigongen (journal.nantien.edu.au)	8008951
 8008952	披	\N	pī	to wear; nivāsayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nivāsayati, Japanese: hi (BCSD '披', p. 541; MW 'nivas'; SH '披', p. 260; Unihan '披')	8008952
+8008953	未到地定	\N	wèidàodì dìng	upacāra-samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upacāra-samādhi; see 未至定 (FGDB '未至定'; journal.nantien.edu.au)	8008953
+8008954	未至定	\N	wèizhìdìng	anāgamya-samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anāgamya-samādhi (FGDB '未至定')	8008954
+8008955	未到定	\N	wèidàodìng	anāgamya-samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anāgamya-samādhi (FGDB '未至定')	8008955
+8008956	未到地	\N	wèidàodì	anāgamya-samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anāgamya-samādhi (FGDB '未至定')	8008956
+8008957	抱	\N	bào	embrace; pariṣvajana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariṣvajana, Japanese: hou, Tibetan: 'khyud pa (BCSD '抱', p. 541; Mahāvyutpatti 'pariṣvajanam'; MW 'pariṣvajana'; SH '抱', p. 260; Unihan '抱')	8008957
+8008958	鍊禅	鍊禪	liàn chán	practiced meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also written 練禪 (FGDB '鍊禪')	8008958
+8008959	练禅	練禪	liàn chán	practiced meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鍊禪 (FGDB '鍊禪')	8008959
+8008960	九次第定	\N	jiǔ cì dì dìng	nine graduated concentrations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four dhyānas, the four formless concentrations and the concentration of extinction; see 鍊禪 (FGDB '鍊禪'; journal.nantien.edu.au)	8008960
