@@ -5360,7 +5360,7 @@
 8005360	小叁	小參	xiǎo cān	small assembly; a small group	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shōsan; Chan school usage; a small group for an impromptu Dharma talk, in contrast to 上堂 with a large audience (DDB '小參'; FGDB '小參'; Heine 2016, p. 290; JEBD 'Shōsan', p. 331; SH '小參', p. 100)	8005360
 8005361	拂子	\N	fúzi	a fly whisk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Symbolizes a senior position in a Chan temple (FGDB '拂子'; SH '拂子', p. 260)	8005360
 8005361	杖	\N	zhàng	a staff; daṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa, Japanese: jō, or: zue (BCSD '杖', p. 96; DJBT '杖', p. 423; MW 'daṇḍa')	8005361
-8005363	拂	\N	fú	a fly whisk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	fu2.mp3	See 拂子 (FGDB '拂子')	8005363
+8005363	拂	\N	fú	a fly whisk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratoda, Japanese: futsu, or: hotsu, or: hitsu; see also 拂子 (BCSD '拂', p. 541; FGDB '拂子'; Mahāvyutpatti 'pratodaḥ'; MW 'pratoda'; SH '拂', p. 260; Unihan '拂')	8005363
 8005364	秉拂	\N	bǐng fú	to hold a fly whisk	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 拂子 (FGDB '拂子')	8005364
 8005365	都寺	\N	dū sì	temple director; executive	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a Buddhist temple; see 都監 (FGDB '都監')	8005365
 8005366	付	\N	fù	brought forward; upanyasta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upanyasta (BCSD '付', p. 96; MW 'upanyasta')	8005366
@@ -8974,3 +8974,29 @@
 8008974	贤护	賢護	xiánhù	Bhadrapāla	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhadrapāla; a lay bodhisattva, one of the 八大菩薩 'eight great bodhisattvas' in one of the formulations (BL 'Bhadrapāla'; FGDB '賢護菩薩')	8008974
 8008975	海意菩萨	海意菩薩	hǎiyì púsà	sāgaramati; sāgaramati Bodhisattva; Haiyi Pusa	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: sāgaramati; the name of a bodhisattva who appears in the Chinese Buddhist text 《海意菩薩所問淨印法門經》 sāgaramatiparipṛcchāsūtra (BCSD '海意菩薩經'; KDC 1481; FGDB '海意菩薩'; T 400)	8008975
 8008976	非道	\N	fēi dào	heterodox views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '非道'; SH '非道', p. 295)	8008976
+8008977	法脉	法脈	fǎ mài	Dharma lineage	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法'; journal.nantien.edu.au)	8008977
+8008978	抽	\N	chōu	to draw out; ākarṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākarṣa, Japanese: chū (BCSD '抽', p. 541; MW 'ākarṣa'; SH '抽', p. 260; Unihan '抽')	8008978
+8008979	师承	師承	shī chéng	succeed one's teacher	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '上師'; journal.nantien.edu.au)	8008979
+8008980	四料简	四料簡	sì liàojiǎn	four explanations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As enumerated by the Linji Yixuan (FGDB '四料簡')	8008980
+8008981	四料拣	四料揀	sì liàojiǎn	four explanations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四料簡 (FGDB '四料簡')	8008981
+8008982	勒那摩提	\N	lēimàmótí	Ratnamati	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: ratnamati, Japanese: Rokunamadi; name of a bodhisattva who appears in some Mahāyāna texts (BL 'Ratnamati')	8008982
+8008983	三细	三細	sān xì	three subtle aspects	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna”, the three are: (1) 無明業相 activity of ignorance, (2) 能見相 perceiving the subject, and (3) 境界相 world of objects (Aśvaghoṣa and Hakeda, 2006, p. 49; Ding '三細'; FGDB '三細六粗'; SH '三細', p. 74)	8008983
+8008984	无明业相	無明業相	wúmíng yèxiāng	karma of ignorance	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三細 'three subtle aspects' mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna” (Aśvaghoṣa and Hakeda, 2006, p. 49; Ding '三細'; FGDB '三細六粗'; SH '三細', p. 74)	8008984
+8008985	能见相	能見相	néng jiàn xiāng	perceiving the subject	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三細 'three subtle aspects' mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna” (Aśvaghoṣa and Hakeda, 2006, p. 49; Ding '三細'; FGDB '三細六粗'; SH '三細', p. 74)	8008985
+8008986	见相	見相	jiàn xiāng	perceiving the subject	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 能見相 (FGDB '能見相')	8008986
+8008987	境界相	\N	jìng jiè xiāng	world of objects; the external phenomenal world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三細 'three subtle aspects' mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna” (Aśvaghoṣa and Hakeda, 2006, p. 49; Ding '三細'; FGDB '三細六粗'; SH '三細', p. 421)	8008987
+8008988	抛	拋	pāo	to throw away; kṣip	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣip, Japanese: hou (BCSD '拋', p. 541; MW 'kṣip'; Unihan '拋')	8008988
+8008989	阿差末	\N	achàmò	Akṣayamati (Echamo)	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Akṣayamati; the name of a bodhisattva who is central in the 阿差末菩薩經 Akṣayamatinirdeśasūtra in the Chinese Buddhist canon (BCSD '阿差末'; KDC 70; T 403)	8008989
+8008990	生死流转	生死流轉	shēngsǐ liúzhuàn	the cycle of death and rebirth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '生死流轉門')	8008990
+8008991	现相	現相	xiàn xiāng	world of objects	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 境界相 (FGDB '境界相')	8008991
+8008992	境相	\N	jìng xiāng	world of objects	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 境界相 (FGDB '境界相')	8008992
+8008993	法体	法體	fǎ tǐ	essence of all things; spiritual body	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in 降魔表 Notice on Subduing Demons in 碧巖錄 “Blue Cliff Record” (Ding '法體'; FGDB '法體'; SH '法體'; Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 67; T 2003, Scroll 1)	8008993
+8008994	拌	\N	bàn	a piece eaten with the food; utpiṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpiṇḍa, Japanese: han, Tibetan: sbags pa'am nos pa (BCSD '拌', p. 541; Mahāvyutpatti 'utpiṇḍam'; MW 'utpiṇḍa'; Unihan '拌')	8008994
+8008995	分段生死	\N	fēnduàn shēngsǐ	discontinuous birth and death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '分段生死'; journal.nantien.edu.au; SH '分段生死', p. 140)	8008995
+8008996	变易生死	變易生死	biànyì shēngsǐ	transfigurational birth and death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '變易生死'; journal.nantien.edu.au; SH '變易生死', p. 488)	8008996
+8008997	厌求	厭求	yànqiú	loathing suffering and seeking pleasure	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Short for 厭苦求樂 (Ding '厭求'; FGDB '厭求'; SH '厭求', p. 421)	8008997
+8008998	大勇菩萨	大勇菩薩	dà yǒng púsà	Da Yong Pusa	proper noun	菩萨	Bodhisattva	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The name of a bodhisattva mentioned in the colphon as having compiled the 《分別業報略經》 Fenbie Yebao Lue Jing in the Chinese Buddhist canon (T 723)	8008998
+8008999	六麁	\N	liù cū	six course aspects	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 三細六粗 (FGDB '三細六粗')	8008999
+8009000	六粗	六粗	liù cū	six coarse aspects	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Refers to concepts in the 大乘起信論 ”Awakening of Faith in the Mahāyāna”, the six are: (1) 智相 discriminating intellect, (2) 相續相 aspect of continuity, (3) 執取相 aspect of attachment, (4) 計名字相 aspect of use of names and letters, (5) 起業相 aspect of giving rise to karma, (6) 業繫苦相 aspect of suffering from karmic connections (Ding '六麤'; FGDB '三細六粗'; SH '六麤', p. 139)	8009000
+8009001	智相	\N	zhì xiāng	discriminating intellect	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Treatise on the 六粗 six coarse aspects mentioned in the 大乘起信論 ”Awakening of Faith in the Mahāyāna” (Aśvaghoṣa and Hakeda, 2006, p. 49; Ding '智相'; FGDB '三細六粗'; SH '智相', p. 375)	8009001
+8009002	相续相	相續相	xiāngxù xiāng	the aspect of continuity	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 六粗 'six coarse aspects' mentioned in the 大乘起信論 ”Awakening of Faith in the Mahāyāna” (Aśvaghoṣa and Hakeda, 2006, p. 49; Ding '相續相'; FGDB '三細六粗'; SH '相續相', p. 310)	8009002
