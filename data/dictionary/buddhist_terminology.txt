@@ -4289,7 +4289,7 @@
 8004289	悲无量心	悲無量心	bēi wúliàng xīn	immeasurable compassion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心 (Tzu Chuang 2012, p. 135)	8004289
 8004290	善无量心	善無量心	shàn wúliàng xīn	immeasurable joy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心 (Tzu Chuang 2012, p. 135)	8004290
 8004291	舍无量心	捨無量心	shě wúliàng xīn	immeasurable equanimity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心  (Tzu Chuang 2012, p. 135)	8004291
-8004292	舍	捨	shě	equanimity; upeksa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣā, Pali: upekkhā, Japanese: sha, Tibetan: btang snyoms; a state of psychological stability and composure (BL 'upekṣā', p. 943; FGDB '捨'; Tzu Chuang 2012, p. 135)	8004292
+8004292	舍	捨	shě	equanimity; upeksa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣā, Pali: upekkhā, Japanese: sha, Tibetan: btang snyoms; a state of psychological stability and composure (BCSD '捨', p. 549; BL 'upekṣā', p. 943; FGDB '捨'; Tzu Chuang 2012, p. 135)	8004292
 8004293	三阿僧祇劫	\N	sān āsēngzhǐ jié	the three asankhyeya kalpas; the three kalpas; the three asankya-kalpas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The time that it takes for a bodhisattva to become a Buddha; from the Sanskrit number asaṃkhyeya, 10<sup>140</sup> (SH '三僧祇', p. 59; Tzu Chuang 2012, pp.145-148)	8004293
 8004294	成劫	\N	chéng jié	The kalpa of formation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivartakalpa; the first of the four kalpas of the cycle of a world system (Tzu Chuang 2012, pp.145-148)	8004294
 8004295	住劫	\N	zhù jié	The kalpa of abiding	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivartasthāyikalpa; the second of the four kalpas of the cycle of a world system (Tzu Chuang 2012, pp.145-148)	8004295
@@ -9088,3 +9088,13 @@
 8009088	三摩提	\N	sānmótí	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; ee 三昧 (FGDB '三昧')	8009088
 8009089	三摩帝	\N	sānmódì	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; ee 三昧 (FGDB '三昧')	8009089
 8009090	捧	\N	pěng	embrace; śliṣṭa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śliṣṭa, Japanese: hou (BCSD '捧', p. 548; MW 'śliṣṭa'; SH '捧', p. 350; Unihan '捧')	8009090
+8009091	须陀素弥王	須陀素彌王	xūtuósùmí wáng	King Srutasoma; King Śrutasoma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The name of Śākyamuni Buddha in a former life when he sacrificed his country (FGDB '須陀素彌王'; Ichishima and Chappell 2013, p. 185; T 1931)	8009091
+8009092	修陀素弥王	修陀素彌王	xiūtuósùmí wáng	King Srutasoma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須陀素彌王 (FGDB '須陀素彌王')	8009092
+8009093	定意	\N	dìngyì	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; ee 三昧 (FGDB '三昧')	8009093
+8009094	调直定	調直定	tiáozhídìng	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; ee 三昧 (FGDB '三昧')	8009094
+8009095	正心行处	正心行處	zhèngxīnxíngchù	samādhi; concentrated meditation; mental concentration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; ee 三昧 (FGDB '三昧')	8009095
+8009096	扪	捫	mén	to wipe; pramṛj	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramṛj, Japanese: mon (BCSD '捫', p. 552; MW 'pramṛj'; Unihan '捫')	8009096
+8009097	须陀须摩王	須陀須摩王	xūtuóxūmó wáng	King Srutasoma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須陀素彌王 (FGDB '須陀素彌王')	8009097
+8009098	七谛	七諦	qī dì	seven categories of truth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Jain philosophy, namely: 命 existence of jīva ‘souls’, 非命 existence of non-sentient phenomena, 漏 inflow of karmic particles adhering to the jīva, 縛 binding of karmic particles to the jīva, 遮 preventing of karmic inflow, 滅 elimination of karmic particles, 解脫 liberation (FGDB '諦義證得經'; Umāsvāti, et. al. 1994, p. xviii-xix)	8009098
+8009099	正观	正觀	zhèng guān	right observation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '正觀'; FGDB '正觀'; SH '八不正觀', p. 33)	8009099
+8009100	捲	\N	quán	fist; muṣṭi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muṣṭi, Japanese: ken (BCSD '捲', p. 552; MW 'muṣṭi'; Unihan '捲')	8009100
