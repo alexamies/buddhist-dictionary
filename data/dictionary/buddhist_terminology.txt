@@ -9142,7 +9142,7 @@
 8009142	佉耶苏多	佉耶蘇多	qūyésūduō	Chedasūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A class of Jain texts (FGDB '耆那教聖典'; Jaini 1979, p. 48)	8009142
 8009143	下乘	\N	xià shèng	Hinayana; Hīnayāna; Lesser Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘 (FGDB '小乘')	8009143
 8009144	声闻藏	聲聞藏	shēngwén zàng	Hīnayāna canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聲聞藏'; FGDB '聲聞藏'; SH '聲聞藏', p. 462)	8009144
-8009145	接	\N	jiē	combination; saṃdhi	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃdhi, Japanese: setsu (BCSD '接', p. 553; MW 'saṃdhi'; SH '接', p. 350; Unihan '接')	8009145
+8009145	接	\N	jiē	combination; saṃdhi	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃdhi, Japanese: setsu (BCSD '接', p. 554; MW 'saṃdhi'; SH '接', p. 350; Unihan '接')	8009145
 8009146	菩萨藏	菩薩藏	púsà zàng	Mahāyāna canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '菩薩藏'; FGDB '菩薩藏'; SH '菩薩藏', p. 389)	8009146
 8009147	上乘	\N	shàngshèng	Mahāyāna; Great Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大乘 (FGDB '大乘')	8009147
 8009148	无上道	無上道	wúshàn dào	supreme path; unsurpassed way	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無上道')	8009148
@@ -9156,12 +9156,33 @@
 8009156	摩迦罗俱舍	摩迦羅俱舍	mójiāluó jūshè	mani jewel store	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意珠藏 (FGDB '如意珠藏')	8009156
 8009157	如意瓶	\N	rúyìpíng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '如意瓶'; FGDB '如意瓶'; SH '如意瓶', p. 211)	8009157
 8009158	推	\N	tuī	to urge; preraka	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preraka, Japanese: sui (BCSD '推', p. 554; MW 'preraka'; SH '推', p. 350; Unihan '推')	8009158
-8009159	萨埵那	薩埵那	Sàduǒnà	Prince Mahasattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Central character in a story about the prince giving his life to a tiger (FGDB '本生圖')	8009159
-8009160	迦毘罗仙	迦毘羅仙	jiāpíluóxiān	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; Legendary sage and mythical founder of the Hindu Sāṃkhya school of philosophy; mentioned in the 金七十論 Commentary on Samkhya Karika (FGDB '迦毘羅仙'; T 2137, Scroll 1)	8009160
-8009161	劫比罗	劫比羅	jiébìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009161
-8009162	迦毘梨	\N	jiāpílí	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009162
-8009163	紧闭罗	緊閉羅	jǐnbìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009163
-8009164	迦夷罗	迦夷羅	jiāyíluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009164
-8009165	柯箄罗	柯箄羅	kēpìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009165
-8009166	迦比罗	迦比羅	jiābìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	See 迦毘羅仙 (FGDB '迦毘羅仙')	8009166
-8009167	迦毘罗大仙	迦毘羅大仙	jiāpíluó dà xiān	Great Sage Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	See 迦毘羅仙 (FGDB '迦毘羅仙')	8009167
+8009159	善瓶	\N	shàn píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009159
+8009160	宝瓶	寶瓶	bǎo píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009160
+8009161	德瓶	\N	dé píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009161
+8009162	满瓶	滿瓶	mǎn píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009162
+8009163	贤瓶	賢瓶	xián píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009163
+8009164	吉祥瓶	\N	jíxiáng píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009164
+8009165	掩	\N	yǎn	conceal; chādayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chādayati, Japanese: en (BCSD '掩', p. 554; SH '掩', p. 350; Unihan '掩')	8009165
+8009166	能缘	能緣	néngyuán	conditioning power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '能緣'; FGDB '能緣'; SH '能緣', p. 337)	8009166
+8009167	教诫	教誡	jiāojiè	instruction; teaching	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '能緣')	8009167
+8009168	说经	說經	shuō jīng	to explain a sūtra; to expound the classics	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '說經'; FGDB '說經'; Guoyu '說經'; SH '說經', p. 429)	8009168
+8009169	一佛	\N	yī fó	one Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一佛'; FGDB '一佛')	8009169
+8009170	拣	揀	jiǎn	connected; upasaṃhita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upasaṃhita, Japanese: kan, or: ken (BCSD '揀', p. 554; MW 'upasaṃhita'; SH '揀', p. 372; Unihan '揀')	8009170
+8009171	知法	\N	zhīfǎ	to understand the Dharma; to know the teachings of the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '知法'; FGDB '知法')	8009171
+8009172	二边	二邊	èr biān	two extremes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, as discussed in the ”Fundamental Verses on the Middle Way” of 有 independent existence and 無 non-existence  (Ding '二邊'; FGDB '二邊'; SH '二邊', p. 31)	8009172
+8009173	三菩提	\N	sānpútí	saṃbodhi; complete enlightenment	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃbodhi; see 阿耨多羅三藐三菩提 (Ding '三菩提'; FGDB '三菩提'; SH '三菩提', p. 75)	8009173
+8009174	寻伺	尋伺	xúnsì	awareness and discrimination; coarse awareness and subtle perception	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '尋伺'; FGDB '尋伺'; SH '尋伺', p. 370)	8009174
+8009175	无量劫	無量劫	wúliàng jié	innumerable kalpas; uncountable eons	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無量劫'; FGDB '無量劫')	8009175
+8009176	语业	語業	yǔ yè	verbal karma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '語業'; SH '語業', p. 428)	8009176
+8009177	十法	\N	shí fǎ	ten rules; perfecting of the ten rules	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As listed in the 大乘十法經 Daśadharma: (1)成就正信 perfection of faith，(2)成就行 perfection of practice，(3)成就性 perfection of spirit，(4)樂菩提心 the joy of bodhicitta，(5)樂法 the joy of the Dharma，(6)樂觀正法 joy in meditation on the Dharma，(7)行於正法及順法 upholding the Dharma，(8)遠離慢、我慢等事 avoidance of pride，(9)善好通達諸微密語 proficiency with all mantras，(10)不樂聲聞及緣覺 no joy in Śrāvaka or Pratyekabuddha practices (Ding '十法'; FGDB '十法'; SH '十法', p. 51)	8009177
+8009178	一偈	\N	yī jì	one gatha; a single gatha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一偈')	8009178
+8009179	无为空	無為空	wúwèi kōng	emptiness of the unconditioned	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃskṛtaśūnyatā, Tibetan: 'dus ma byas stong pa nyid; one of the 十八空 eighteen kinds of emptiness (Ding '無為空'; FGDB '無為空'; Mahāvyutpatti 'asaṃskṛtaśūnyatā'; SH '無為空', p. 380)	8009179
+8009180	揉	\N	róu	rub; mardana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mardana, Japanese: jū (BCSD '揉', p. 554; MW 'upasaṃhita'; Unihan '揉')	8009180
+8009181	迦毘罗仙	迦毘羅仙	jiāpíluóxiān	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; Legendary sage and mythical founder of the Hindu Sāṃkhya school of philosophy; mentioned in the 金七十論 Commentary on Samkhya Karika (FGDB '迦毘羅仙'; T 2137, Scroll 1)	8009181
+8009182	劫比罗	劫比羅	jiébìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009182
+8009183	迦毘梨	\N	jiāpílí	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	800918
+8009184	紧闭罗	緊閉羅	jǐnbìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009184
+8009185	迦夷罗	迦夷羅	jiāyíluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009185
+8009186	柯箄罗	柯箄羅	kēpìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009186
+8009187	迦比罗	迦比羅	jiābìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	See 迦毘羅仙 (FGDB '迦毘羅仙')	8009187
+8009188	迦毘罗大仙	迦毘羅大仙	jiāpíluó dà xiān	Great Sage Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	See 迦毘羅仙 (FGDB '迦毘羅仙')	8009188
