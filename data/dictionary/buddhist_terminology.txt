@@ -9178,7 +9178,7 @@
 8009178	一偈	\N	yī jì	one gatha; a single gatha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一偈')	8009178
 8009179	无为空	無為空	wúwèi kōng	emptiness of the unconditioned	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃskṛtaśūnyatā, Tibetan: 'dus ma byas stong pa nyid; one of the 十八空 eighteen kinds of emptiness (Ding '無為空'; FGDB '無為空'; Mahāvyutpatti 'asaṃskṛtaśūnyatā'; SH '無為空', p. 380)	8009179
 8009180	揉	\N	róu	rub; mardana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mardana, Japanese: jū (BCSD '揉', p. 554; MW 'upasaṃhita'; Unihan '揉')	8009180
-8009181	迦毘罗仙	迦毘羅仙	jiāpíluóxiān	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; Legendary sage and mythical founder of the Hindu Sāṃkhya school of philosophy; mentioned in the 金七十論 Commentary on Samkhya Karika (FGDB '迦毘羅仙'; T 2137, Scroll 1)	8009181
+8009181	迦毘罗仙	迦毘羅仙	jiāpíluóxiān	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; Legendary sage and mythical founder of the Hindu Sāṃkhya school of philosophy; mentioned in the 金七十論 Commentary on Samkhya Karika (FGDB '迦毘羅仙'; Larson 1979, p. 139; MW 'kapila'; T 2137, Scroll 1)	8009181
 8009182	劫比罗	劫比羅	jiébìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009182
 8009183	迦毘梨	\N	jiāpílí	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	800918
 8009184	紧闭罗	緊閉羅	jǐnbìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009184
@@ -9186,3 +9186,13 @@
 8009186	柯箄罗	柯箄羅	kēpìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapila; see 迦毘羅仙 (FGDB '迦毘羅仙')	8009186
 8009187	迦比罗	迦比羅	jiābìluó	Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	See 迦毘羅仙 (FGDB '迦毘羅仙')	8009187
 8009188	迦毘罗大仙	迦毘羅大仙	jiāpíluó dà xiān	Great Sage Kapila	proper noun	仙	Sage	佛教	Buddhism	\N	\N	\N	\N	See 迦毘羅仙 (FGDB '迦毘羅仙')	8009188
+8009189	描	\N	miáo	painted; citrita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citrita, Japanese: byou (BCSD '描', p. 554; MW 'citrita'; Unihan '描')	8009189
+8009190	阿修利	\N	āxiūlì	Asuri	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsuri; student of the legendary sage Kapila 迦毘羅仙; mentioned in the 金七十論 Commentary on Samkhya Karika (FGDB '迦毘羅仙'; Larson 1979, p. 139; MW 'āsuri'; T 2137, Scroll 1)	8009190
+8009191	般遮尸诃	般遮尸訶	bānzhēshīhē	Pancasikha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaśikha; literally, 'five tufts of hair,' as an ascetic; name of a Hindu Sāṃkhya teacher, perhaps legendary (FGDB '迦毘羅仙'; Larson 1979, p. 139; MW 'pañcaśikha')	8009191
+8009192	提	\N	tí	to bring; cud	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cud, Japanese: tei, or: dai (BCSD '提', p. 554; MW 'cud'; SH '提', p. 372; Unihan '提')	8009192
+8009193	金胎神	\N	jīn tāi shén	Spirit Born from a Golden Egg; Hiranyagarbha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hiraṇyagarbha; a name of Brahmā (FGDB '迦毘羅仙'; MW 'hiraṇyagarbha')	8009193
+8009194	摩诃婆罗多	摩訶婆羅多	móhēpóluóduō	Mahabharata	proper noun	\N	\N	历史	History	印度	India	\N	\N	Sanskrit equivalent: mahābhārata; Indian epic poem attribute to the legendary sage Vyāsa (FGDB '罗摩衍那')	8009194
+8009195	插	\N	chā	long whip; pratoda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratoda, Japanese: sou (BCSD '插', p. 555; Mahāvyutpatti 'pratodaḥ'; MW 'pratoda'; SH '插', p. 372; Unihan '插')	8009195
+8009196	婆罗多书	婆羅多書	póluóduō shū	Mahabharata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahābhārata; see 罗摩衍那 (FGDB '罗摩衍那')	8009196
+8009197	大战诗	大戰詩	dàzhàn shī	Mahabharata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahābhārata; see 罗摩衍那 (FGDB '罗摩衍那')	8009197
+8009198	扬	揚	yáng	to cast; vikṣepa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikṣepa, Japanese: you (BCSD '揚', p. 555; MW 'vikṣepa'; Unihan '揚')	8009198
