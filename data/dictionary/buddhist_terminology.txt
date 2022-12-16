@@ -3175,7 +3175,7 @@
 8003175	葛	\N	gě	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003175
 8003176	嘎	\N	gá	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003176
 8003177	太子降生	\N	tàizǐ jiàng shēng	Birth of Prince Siddartha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003177
-8003178	揭	\N	jiē	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003178
+8003178	揭	\N	jiē	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (BCSD '揩', p. 555; FGDB '迦')	8003178
 8003179	柯	\N	kē	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003179
 8003180	羯	\N	jié	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003180
 8003181	箇	\N	gè	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003181
@@ -9202,3 +9202,14 @@
 8009202	乐欲	樂欲	lè yù	the desire for joy	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '樂欲'; FGDB '樂欲'; SH '樂欲', p. 438)	8009202
 8009203	无所有处	無所有處	wú suǒ yǒu chù	the third sphere in the formless realm; sphere of nothingness; ākiñcanyāyatana	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākiñcanyāyatana, Pali: ākiñcaññāyatana, Japanese: mushousho, Tibetan: ci yang med pa'i skye mched (BL 'ākiñcanyāyatana'; Ding '無所有處'; FGDB '無所有處'; Mahāvyutpatti 'ākiṃcanyāyatanam'; SH '無所有處', p. 379)	8009203
 8009204	揖	\N	yī	to greet by clasping hands; añjalipāta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: añjalipāta, Japanese: yū, or: shū (BCSD '揖', p. 555; Unihan '揖')	8009204
+8009205	解脱道	解脫道	jiětuō dào	the path of liberation; vimuktimārga	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimuktimārga, Japanese: gudatsudō; on of the 四道 four paths (BL 'vimuktimārga'; Ding '解脫道'; FGDB '解脫道'; SH '解脫道', p. 413)	8009205
+8009206	凡圣	凡聖	fán shèng	the ordinary and the divine	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 凡夫 ordinary people and 聖者 divine beings (Ding '凡聖'; FGDB '凡聖'; SH '凡聖', p. 81)	8009206
+8009207	揩	\N	kāi	udvartana; rubbing and cleansing the body	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udvartana, Japanese: kai, or: katsu (BCSD '揩', p. 555; MW 'udvartana'; Unihan '揩')	8009207
+8009208	道智	\N	dàozhì	knowledge of the path; mārgajñatā; margajnata	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārgajñatā, Japanese: dōchi; one of the 十智 'ten forms of understanding' and also one of the 三智 three kinds of wisdom (BL 'mārgajñatā'; Ding '道智'; FGDB '道智'; SH '道智', p. 416)	8009208
+8009209	十智	\N	shí zhì	ten forms of understanding	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One formulation of the ten is: (1) 世俗智 secular understanding, (2) 法智 understanding of the Dharma, including the four noble truths, (3) 類智 understanding of the four noble truths extended to the formless realms, (4) 苦智 understanding of the fact of suffering, (5) 集智, (6) 滅智 understanding of the extinction of suffering, (7) understanding of the path to the extinction of suffering, (8) 他心智, (9) 盡智, (10) 無生智 knowledge extended to the higher realms (Ding '十智'; FGDB '十智'; SH '十智', p. 50)	8009209
+80092010	一切种智	一切種智	yī qiē zhǒng zhì	knowledge of all aspects; all embracing wisdom; sarvākārajñatā; sarvakarajnata	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvākārajñatā; Japanese: issaishuchi (BL 'sarvākārajñatā'; Ding '一切種智'; FGDB '一切種智'; SH '一切種智', p. 3)	80092010
+8009211	三智	\N	sānzhì	three kinds of wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three kinds of wisdom are: (1) 一切智 sarvajñāta or all-knowledge, (2) 道種智 mārgajñatā knowledge of the path, (3) 一切種智 sarvākārajñatā or all embracing wisdom (Ding '三智'; FGDB '三智'; SH '三智', p. 68)	8009211
+8009212	道种智	道種智	dào zhǒng zhì	knowledge of the path; mārgajñatā; margajnata	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 道智 (FGDB '道智')	8009212
+8009213	揵	\N	qián	to carry	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ken, or: gen, or: gon (BCSD '揩', p. 555; Unihan '揵')	8009213
+8009214	深法	\N	shēn fǎ	a profound truth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '深法'; SH '深法', p. 356)	8009214
+8009215	愚夫	\N	yúfū	a fool; a simpleton; bāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (BL 'bāla'; Ding '愚夫'; FGDB '愚夫'; SH '愚夫', p. 399)	8009215
