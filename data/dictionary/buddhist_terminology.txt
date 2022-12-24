@@ -4615,7 +4615,7 @@
 8004615	阎魔	閻魔	yánmó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 閻魔 (FGDB '閻魔王')	8004615
 8004616	难	難	nán	inopportune; aksana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣaṇa (BCSD '難', p. 1238; MW 'akṣaṇa')	8004616
 8004617	天耳通	\N	tiān ěr tōng	heavenly hearing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (Tzu Chuang 2012, pp. 324-326)	8004617
-8004618	阿罗歌花	阿羅歌花	āluógē huā	arka flowers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; a white flower used in rituals, written in the 摩登伽經 Mātangīsūtra as 遏迦花 (FGDB '阿羅歌花'; MW 'arka'; Giebel 2015, p. 38; T 1300, 21.0399c28)	8004618
+8004618	阿罗歌花	阿羅歌花	āluógē huā	arka flowers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka, or: arkapuṣpa, Tibetan: ar ka'i me tog, Scientific name: Calotropis gigantea; a white flower, the leaves are used in rituals, written in the 摩登伽經 Mātangīsūtra as 遏迦花 (FGDB '阿羅歌花'; MW 'arka'; Giebel 2015, p. 38; Mahāvyutpatti 'arkapuṣpam'; MW 'arka'; Wikipedia '牛角瓜'; T 1300, 21.0399c28)	8004618
 8004619	阿罗歌	阿羅歌	āluógē	arka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; see 阿羅歌花 (FGDB '阿羅歌花')	8004619
 8004620	阿迦花	\N	ājiā huā	arka flowers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; see 阿羅歌花 (FGDB '阿羅歌花')	8004620
 8004621	阿迦	\N	ājiā	arka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; see 阿羅歌花 (FGDB '阿羅歌花')	8004621
@@ -9251,11 +9251,26 @@
 8009251	毘昙	毘曇	pítán	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 阿毘曇 (FGDB '小乘論')	8009251
 8009252	阿卢那	阿盧那	ālúnà	aruṇa; reddish-brown	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aruṇa (FGDB '阿盧那'; MW 'aruṇa'; SH '阿盧那', p. 290)	8009252
 8009253	智慧对观法	智慧對觀法	zhìhuì duìguān fǎ	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 阿毘曇 (FGDB '小乘論')	8009253
-8009254	大菩提	\N	dà pútí	great enlightenment; supreme bodhi	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The enlightenment of a Buddha, the same as 無上菩提 (Ding '大菩提'; FGDB '大菩提')	8009254
+8009254	大菩提	\N	dà pútí	great enlightenment; supreme bodhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The enlightenment of a Buddha, the same as 無上菩提 (Ding '大菩提'; FGDB '大菩提')	8009254
 8009255	佛果菩提	\N	fóguǒ pútí	great enlightenment; supreme bodhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大菩提 (FGDB '大菩提')	8009255
-8009256	正性	\N	zhèng xìng	divine nature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 聖性 (FGDB '聖性')	8009256
-8009257	圣性	聖性	shèng xìng	divine nature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聖性'; FGDB '聖性'; SH '聖性', p. 410)	8009257
+8009256	正性	\N	zhèng xìng	divine nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 聖性 (FGDB '聖性')	8009256
+8009257	圣性	聖性	shèng xìng	divine nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聖性'; FGDB '聖性'; SH '聖性', p. 410)	8009257
 8009258	抟	摶	tuán	mouthful of water; kavaḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kavaḍa, or: kavala, Japanese: tan, or: sen, Tibetan: kham (BCSD '摶', p. 562; Mahāvyutpatti 'kavalaḥ'; MW 'kavaḍa'; Unihan '摶')	8009258
 8009259	阿留那	\N	āliúnà	aruṇa; reddish-brown	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aruṇa; see 阿盧那 (FGDB '阿盧那')	8009259
 8009260	阿楼那	阿樓那	ālóunà	aruṇa; reddish-brown	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aruṇa; see 阿盧那 (FGDB '阿盧那')	8009260
-8009261	摸	\N	mō	to touch; mṛś	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kavaḍa, or: kavala, Japanese: mo, or: baku, bo (BCSD '摸', p. 562; MW 'mṛś'; Unihan '摸')	8009261
+8009261	摸	\N	mō	to touch; mṛś	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kavaḍa, or: kavala, Japanese: mo, or: baku, or: bo (BCSD '摸', p. 562; MW 'mṛś'; Unihan '摸')	8009261
+8009262	三匝	\N	sān zā	to circumambulate three times	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, around a Buddha image (Ding '三匝'; FGDB '三匝'; SH '三匝', p. 64)	8009262
+8009263	撏	\N	xián	to pull out; luñc	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: luñc, Japanese: san, or: zan, or: shin, or: jin, Tibetan: 'bal lam 'thog (BCSD '撏', p. 562; Mahāvyutpatti 'luñcate'; MW 'luñc'; Unihan '撏')	8009263
+8009264	三帀	\N	sān zā	to circumambulate three times	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三匝 (FGDB '三匝')	8009264
+8009265	撑	撐	chēng	post; pillar; sthūṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūṇā, Japanese: toru, Tibetan: ka ba'am gzu ba (BCSD '撐', p. 562; Mahāvyutpatti 'sthūṇā'; MW 'sthūṇā'; Unihan '撐')	8009265
+8009266	胜义空	勝義空	shèngyìkōng	transcendental emptiness; unsurpassed emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第一義空 (FGDB '第一義空')	8009266
+8009267	撒	\N	sǎ	fallen down; prabhraṣṭa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhraṣṭa, Japanese: san, or: satsu, Tibetan: ltung ba'am bo ba (BCSD '撒', p. 562; Mahāvyutpatti 'prabhraṣṭa'; MW 'sthūṇā'; Unihan '撒')	8009267
+8009268	右旋	\N	yòu xuán	to circumambulate in a clockwise direction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '右旋'; FGDB '右旋'; SH '右旋', p. 169)	8009268
+8009269	右迴	\N	yòu huí	to circumambulate in a clockwise direction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 右旋 (FGDB '右旋')	8009269
+8009270	右绕	右繞	yòu rào	to circumambulate in a clockwise direction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 右旋 (FGDB '右旋')	8009270
+8009271	撚	\N	niǎn	sieze by the hand; grah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grah, Japanese: nen (BCSD '撚', p. 562; MW 'grah'; Unihan '撚')	8009271
+8009272	第一义空	第一義空	dìyī yì kōng	transcendental emptiness; unsurpassed emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '第一義空'; FGDB '第一義空'; SH '第一義空', p. 362)	8009272
+8009273	后生	後生	hòu shēng	later rebirths; subsequent births	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '後生'; FGDB '後生'; SH '後生', p. 301)	8009273
+8009274	来生	來生	lái shēng	later rebirths; subsequent births	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 後生 (FGDB '後生')	8009274
+8009275	后世	後世	hòushì	later rebirths; subsequent births	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 後生 (FGDB '後生')	8009275
+8009276	㧑	撝	huī	to grasp; grah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grah, Japanese: ki, or: i (BCSD '撝', p. 563; MW 'grah'; Unihan '撝')	8009276
