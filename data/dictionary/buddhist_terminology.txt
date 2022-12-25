@@ -6044,7 +6044,7 @@
 8006044	暗冥	\N	àn míng	wrapt in darkness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: andha; for example in the 妙法蓮華經 “Lotus Sutra”  (BCSD '暗冥', p. 608; Braarvig 2020, ch. 7; Hurvitz 2009, p. 142; Kern 1884, ch. 7; ; MW 'andha'; T 262, Scroll 3, 9.0024b20)	8006044
 8006045	六念	\N	liù niàn	the six contemplations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Contemplate the Buddha, 2. contemplate the Dhárma, 3. contemplate the Sangha, 4. contemplate the precepts, 5. contemplate giving (dāna), and 6. contemplate the devas (Ding '六念'; FGDB '六念'; SH '六念', p. 135)	8006045
 8006046	削	\N	xiāo	to scrape off; apakarṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apakarṣa (BCSD '削', p. 959; DJBT '聞', p. 436; MW 'apakarṣa')	8006046
-8006047	择	擇	zhái	discrimination; pravicāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravicāra, Japanese: jaku (BCSD '擇', p. 959; DJBT '擇', p. 423; MW 'pravicāra'; SH '擇', p. 447)	8006047
+8006047	择	擇	zhái	discrimination; pravicāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravicāra, Japanese: jaku (BCSD '擇', p. 564; DJBT '擇', p. 423; MW 'pravicāra'; SH '擇', p. 447)	8006047
 8006048	充遍	\N	chōngbiàn	pervades; sphuṭa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphuṭa (BCSD '充遍', p. 152; Karashima 2001, pp. 82-83; MW 'sphuṭa')	8006048
 8006049	圆	圓	yuán	circular; parimaṇḍala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parimaṇḍala, Tibetan: zlum po (BCSD '圓', p. 287; DJBT '圓', p. 423; Mahāvyutpatti 'parimaṇḍalam'; MW 'parimaṇḍala'; SH '圓', p. 396)	8006049
 8006050	圆	圓	yuán	perfect; paripūrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrṇa (BCSD '圓', p. 287; MW 'paripūrṇa'; SH '圓', p. 396)	8006049
@@ -9306,3 +9306,37 @@
 8009306	意根	\N	yìgēn	the mind sense	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Sanskrit equivalent: mana-indriya, or: manas, Tibetan: yid gyi dbang po(BCSD '意根', p. 492; Ding '意根'; FGDB '意根'; Mahāvyutpatti 'mana indriyam'; SH '意根', p. 400)	8009306
 8009307	悲心	\N	bēixīn	a sympathetic mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '悲心'; SH '悲心', p. 371)	8009307
 8009308	中阴身	中陰身	zhōngyīnshēn	the time between death and rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '中陰身')	8009308
+8009309	撮	\N	cuō	a remedy for the eye; biḍāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: biḍāla, Japanese: satsu, or: sai (BCSD '撮', p. 563; MW 'biḍāla'; Unihan '撮')	8009309
+8009310	倒	\N	dǎo	delusion; inversion; viparyasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viparyāsa; see also 顛倒 (BCSD '倒', p. 142; MW 'viparyāsa')	8009310
+8009311	如意通	\N	rúyì tōng	teleportation; ṛddy-abhijña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛddy-abhijña; a supernatural power, one of the  六通 Buddhist six supernatural powers (BCSD '如意通'; Ding '如意通'; FGDB '如意通')	8009311
+8009312	如意足通	\N	rúyì zútōng	teleportation; ṛddy-abhijña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (FGDB '如意通')	8009312
+8009313	挝	撾	wō	to beat; tāḍana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tāḍana, Japanese: ta, or: te, or: ka (BCSD '撾', p. 563; MW 'tāḍana'; Unihan '撾')	8009313
+8009314	身如意通	\N	shēn rúyì tōng	teleportation; ṛddy-abhijña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (FGDB '如意通')	8009314
+8009315	身通	\N	shēntōng	teleportation; ṛddy-abhijña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (FGDB '如意通')	8009315
+8009316	神境智证通	神境智證通	shénjìng zhì zhèngtōng	teleportation; ṛddy-abhijña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (FGDB '如意通')	8009316
+8009317	神境智通	\N	shénjìng zhìtōng	teleportation; ṛddy-abhijña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意通 (FGDB '如意通')	8009317
+8009318	僧家	\N	sēngjiā	Saṅgha; Sangha; Buddhist monastic community	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '僧家')	8009318
+8009319	曲木据位	曲木據位	qǔ mù jù wèi	chair of rank	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, a bent piece of wood to use as a seat (T 2003.194b; Yuanwu, Cleary, and Cleary 2013, loc. 7348; FGDB '曲木據位')	8009319
+8009320	形山	\N	xíngshān	mountain of form	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '形山'; FGDB '形山'; SH '形山', p. 236; Sharf 2005, p. 188)	8009320
+8009321	心印	\N	xīnyìn	mind seal	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Direct transmission of the Dharma without the written or spoken word (Ding '心印'; FGDB '心印'; SH '心印', p. 150)	8009321
+8009322	拥	擁	yōng	press against; utpīḍa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpīḍa, Japanese: you (BCSD '擁', p. 564; MW 'utpīḍa'; Unihan '擁')	8009322
+8009323	佛心印	\N	fó xīnyìn	mind seal	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 心印 (SH '心印', p. 150)	8009323
+8009324	私通车马	私通車馬	sī tōng chē mǎ	privately, even a cart and horse can pass	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(T 2003.193c; Cleary TF, and Cleary JC 2013, loc. 7329; FGDB '官不容針私通車馬')	8009324
+8009325	官不容针	官不容針	guān bù róng zhēn	officially, not even a needle is admitted	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(T 2003.193c; Cleary TF, and Cleary JC 2013, loc. 7329; FGDB '官不容針私通車馬')	8009325
+8009326	官不容针私通车马	官不容針私通車馬	guān bù róng zhēn sī tōng chē mǎ	Officially, not even a needle is admitted; privately, even a cart and horse can pass	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(T 2003.193c; Cleary TF, and Cleary JC 2013, loc. 7329; FGDB '官不容針私通車馬')	8009326
+8009327	灵光独耀	靈光獨耀	líng guāng dú yào	the spiritual light shines alone	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(FGDB '靈光獨耀'; T 2003.194b; Yuanwu, Cleary TF, and Cleary JC 2013, loc. 7376)	8009327
+8009328	灵光	靈光	líng guāng	spiritual light; divine light	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to Buddha nature (Ding '靈光'; FGDB '靈光'; Guoyu '靈光' 2)	8009328
+8009329	佛出世	\N	fó chū shì	for a Buddha to appear in a world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛出世')	8009329
+8009330	擎	\N	qíng	supporting; saṃdhāraṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃdhāraṇa, Japanese: kei, or: gyou (BCSD '擎', p. 564; MW 'saṃdhāraṇa'; Unihan '擎')	8009330
+8009331	众生心	眾生心	zhòngshēng xīn	the minds of sentient beings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '眾生心'; FGDB '眾生心')	8009331
+8009332	离生性	離生性	lí shēng xìng	the nature of leaving the cycle of birth and death	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '離生性'; FGDB '離生性'; SH '離生性', p. 475)	8009332
+8009333	擐	\N	huàn	tied together; wearing amulets; saṃnaddha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃnaddha, Japanese: kan, or: gen, or: ken, or: sen (BCSD '擎', p. 564; MW 'saṃnaddha'; Unihan '擐')	8009333
+8009334	白莲社	白蓮社	bái lián shè	White Lotus Society	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '白蓮社'; Wikipedia '白蓮社')	8009334
+8009335	实性	實性	shíxìng	true nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A variant of 真如 tathatā (Ding '實性'; SH '實性', p. 423)	8009335
+8009336	担	擔	dān	to carry; vah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vah, Japanese: tan, or: ketsu, or: sen (BCSD '擔', p. 564; MW 'vah'; SH '擔', p. 447; Unihan '擔')	8009336
+8009337	香华	香華	xiāng huà	incense and flowers	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Offerings to the Buddha (Ding '香華'; FGDB '香華'; SH '香華', p. 319)	8009337
+8009338	华香	華香	huà xiāng	incense and flowers	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 香華 (FGDB '香華')	8009338
+8009339	一刹那	一剎那	yīshānà	one kṣaṇa; one instant	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣaṇa, Tibetan: skad cig (Ding '一剎那'; FGDB '一剎那'; Mahāvyutpatti 'kṣaṇam'; SH '一剎那', p. 4)	8009339
+8009340	万行	萬行	wànxíng	all methods for salvation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '萬行'; SH '萬行', p. 412)	8009340
+8009341	擘	\N	bò	to break; vilopita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vilopita, Japanese: haku, or: heki, or: byaku (BCSD '擘', p. 564; MW 'vilopita'; Unihan '擘')	8009341
+8009342	一门	一門	yī mén	one gate	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Leading from this world to Nirvāṇa (Ding '一門'; FGDB '一門'; SH '一門', p. 9)	8009342
