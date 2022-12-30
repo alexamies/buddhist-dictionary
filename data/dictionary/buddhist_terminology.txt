@@ -8445,7 +8445,7 @@
 8008445	四他胜法	四他勝法	sì tāshèngfǎ	four rules for expulsion from the saṃgha; four pārājikas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四波羅夷 (FGDB '四波羅夷')	8008445
 8008446	四波罗夷戒	四波羅夷戒	sì bōluóyíjiè	four rules for expulsion from the saṃgha; four pārājikas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四波羅夷 (FGDB '四波羅夷')	8008446
 8008447	四夷戒	\N	sì yíjiè	four rules for expulsion from the saṃgha; four pārājikas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四波羅夷 (FGDB '四波羅夷')	8008447
-8008448	兜	\N	dōu	Tusita	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 兜率天 (Kroll 2015 '兜' 2, pp. 91-92)	8008448
+8008448	兜	\N	dōu	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (Kroll 2015 '兜' 2, pp. 91-92)	8008448
 8008449	色处	色處	sèchù	the visible realm	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '色處'; SH '色處')	8008449
 8008450	总持	總持	zǒngchí	dharani; total retention	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇī; literally, total retention, for memorization of a longer text, see 陀羅尼 (Ding '總持'; Goble 2019, pp. 32-34; SH '總持', p. 461)	8008450
 8008451	胜解	勝解	shèngjiě	adhimokṣa; adhimoksa; adhimokkha; resolution; determination; zeal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimokṣa, Pali: adhimokkha, Japanese: shōge (Ding '勝解'; FGDB '勝解'; SH '大地法', p. 86)	8008451
@@ -9402,3 +9402,7 @@
 8009402	苦受	\N	kǔ shòu	the sensation of pain	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三受 'three sensations' and 五受 'five sensations' (Ding '苦受'; FGDB '苦受')	8009402
 8009403	三痛	\N	sāntòng	three sensations; three vedanās	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三受 (FGDB '三受')	8009403
 8009404	挛	攣	luán	stupid; kuṇṭhaka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuṇṭhaka, Japanese: ren (BCSD '攣', p. 568; MW 'kuṇṭhaka'; Unihan '攣')	8009404
+8009405	苦痛	\N	kǔtòng	the sensation of pain	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 苦受 (FGDB '苦受')	8009405
+8009406	乐痛	樂痛	lètòng	sensation of pleasure	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 樂受 (FGDB '樂受')	8009406
+8009407	搅	攪	jiǎo	harass; mathana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mathana, Japanese: kaku, or: kou (BCSD '攪', p. 569; Mahāvyutpatti 'mathanam'; MW 'mathana'; Unihan '攪')	8009407
+8009408	舍受	捨受	shěshòu	sensation of freedom from pleasure and pain; sensation of indifference to pleasure and pain	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三受 'three sensations' (Ding '捨受'; FGDB '捨受'; SH '捨受', p. 351)	8009408
