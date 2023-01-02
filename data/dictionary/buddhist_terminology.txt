@@ -3319,7 +3319,7 @@
 8003319	俄	\N	é	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003319
 8003320	誐	\N	é	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003195
 8003321	呀	\N	ya	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003321
-8003322	昂	\N	áng	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003322
+8003322	昂	\N	áng	arise; bhū	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhū, Japanese: kou, or: gou (BCSD '昂', p. 595; MW 'bhū'; Unihan '昂')	8003322
 8003323	觐	覲	jǐn	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003323
 8003324	盎	\N	àng	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003324
 8003325	拏	\N	ná	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṇa, Siddham: 𑖜; a cerebral nasal consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '拏', p. 542; MW 'ṇa'; SH '拏', p. 302; Wikipedia '悉曇文字'; Giebel 2005, p. 44; T 848, Scroll 2, 18.0010a10)	8003255
@@ -9581,5 +9581,19 @@
 8009581	次第缘	次第緣	cìdìyuán	immediately antecedent condition; samanantarapratyaya	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 等無間緣 (FGDB '等無間緣')	8009581
 8009582	增上缘	增上緣	zēng shàng yuán	predominant condition; adhipatipratyaya	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhipatipratyaya, Pali: adhipatipaccaya, Japanese: zōjōen, Tibetan: bdag po'i rkyen (BL 'adhipatipratyaya'; Ding '增上緣'; FGDB '增上緣'; Mahāvyutpatti 'adhipatipratyayaḥ'; SH '增上緣', p. 431)	8009582
 8009583	善人	\N	shànrén	a wholesome person [who believes in Buddhist values]	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, a person that believes in causes and conditions (Ding '善人'; SH '善人', p. 368)	8009583
-
-63668	欲心	\N	yùxīn	a lustful heart	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '欲心'; SH '欲心')	63668
+8009584	欲心	\N	yùxīn	a lustful heart	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '欲心'; SH '欲心', p. 355)	8009584
+8009585	昂	\N	áng	na	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṅa; see 仰 (FGDB '仰')	8003322
+8009586	昇	\N	shēng	sunrise; sūryodaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūryodaya, Japanese: shou (BCSD '昇', p. 596; Mahāvyutpatti 'sūryodayaḥ'; MW 'sūryodaya'; Unihan '昇')	8009586
+8009587	等智	\N	děngzhì	secular knowledge	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十智 'ten kinds of knowledge' (Ding '等智'; SH '等智', p. 385)	8009587
+8009588	一品	\N	yīpǐn	a chapter	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varga, Pali: vagga (Ding '一品'; FGDB '一品'; MW 'varga'; SH '一品', p. 4)	8009588
+8009589	昏	\N	hūn	stupefying; mūrchana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūrchana, Japanese: kon (BCSD '昏', p. 598; Mahāvyutpatti 'mūrcchā'; MW 'mūrchana'; SH '昏', p. 262; Unihan '昏')	8009589
+8009590	品	\N	pǐn	chapter; varga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varga, or: parivarta, or: parivarta, Pali: vagga, Japanese: hin, or: hon, Tibetan: le'u (BCSD '品', p. 254; Ding '品'; FGDB '品'; Mahāvyutpatti 'parivartaḥ'; MW 'varga'; SH '品', p. 299; Unihan '品')	8009590
+8009591	无间道	無間道	wújiān dào	uninterupted way; immediate path; ānantaryamārga	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ānantaryamārga, Japanese: mukendō, Tibetan: bar chad med pa'i lam (BL 'ānantaryamārga'; Ding '無間道'; FGDB '無間道'; Mahāvyutpatti 'ānantaryamārgaḥ')	8009591
+8009592	易	\N	yì	easy; sukara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sukara, Japanese: eki, or: i (BCSD '易', p. 598; MW 'sukara'; SH '易', p. 262; Unihan '易')	8009592
+8009593	无碍道	無礙道	wúài dào	uninterupted way; immediate path; ānantaryamārga	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無間道 (FGDB '無間道')	8009593
+8009594	修慧	\N	xiūhuì	Wisdom from Practice; wisdom acquired by cultivation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三慧 'three kinds of wisdom' (Ding '修慧')	8009594
+8009595	昔	\N	xī	former; pūrva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva, Japanese: seki, or: shaku (BCSD '昔', p. 598; MW 'pūrva'; SH '昔', p. 262; Unihan '昔')	8009595
+8009596	思慧	\N	sīhuì	wisdom from thinking; wisdom acquired by reflection	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三慧 'three kinds of wisdom' (Ding '思慧'; FGDB '思慧'; SH '思慧', p. 302)	8009596
+8009597	空性	\N	kōngxìng	śūnyatā; emptiness; emptiness of inherent existence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空 (FGDB '空')	8009597
+8009598	星	\N	xīng	a star; tāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tāra, Japanese: sei, or: shou (BCSD '星', p. 599; MW 'tāra'; SH '星', p. 303; Unihan '星')	8009598
+8009599	舜若多	\N	shùnruòduō	śūnyatā; emptiness; emptiness of inherent existence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空 (FGDB '空')	8009599
