@@ -3269,7 +3269,7 @@
 8003269	拕	\N	tuō	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003269
 8003270	达	達	dá	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003270
 8003271	娜缚罗钵逻	娜縛羅鉢邏	nàfúluóbōluó	dvarapala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvārapāla; see 守門天 (FGDB '守門天')	8003271
-8003272	昙	曇	tán	dha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha; see 馱 (FGDB '馱')	8003272
+8003272	昙	曇	tán	dha; dharma	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dha, Japanese: don, or: tan; see also 馱 (BCSD '馱', p. 610; FGDB '馱'; SH '馱', p. 447)	8003272
 8003273	波	\N	bō	pa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pa, Siddham: 𑖢; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '波', p. 719; MW 'pa'; SH '波', p. 265; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003273
 8003274	颇	頗	pǒ	pha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pha, Siddham: 𑖣; a consonant in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '頗', p. 1264; FGDB '頗'; MW 'pha'; SH '頗', p. 429; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003274
 8003275	聚沫	\N	jùmò	foam; phena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phena; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '頗'; SH '聚沫', p. 427; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003275
@@ -9642,3 +9642,19 @@
 8009642	波罗提毘木叉	波羅提毘木叉	bōluótípímùchā	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009642
 8009643	般罗底木叉	般羅底木叉	bānluódǐmùchā	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009643
 8009644	暮	\N	mù	sunset; astagamana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: astagamana, Japanese: bo (BCSD '暮', p. 609; MW 'astagamana'; Unihan '暮')	8009644
+8009645	钵喇底木叉	鉢喇底木叉	bōlǎdǐmùchā	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009645
+8009646	随顺解脱	隨順解脫	suíshùnjiětuō	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009646
+8009647	暴	\N	bào	malicious; vyāḍa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāḍa, Japanese: bou, or: baku (BCSD '暴', p. 609; Mahāvyutpatti 'vyāḍaḥ'; MW 'vyāḍa'; Unihan '暴')	8009647
+8009648	处处解脱	處處解脫	chùchùjiětuō	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009648
+8009649	别别解脱	別別解脫	biébiéjiětuō	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009649
+8009650	别解脱	別解脫	biéjiětuō	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009650
+8009651	晓	曉	xiǎo	shinging; prabhāta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhāta, Japanese: gyou, or: kyou (BCSD '曉', p. 610; MW 'prabhāta'; SH '曉', p. 447; Unihan '曉')	8009651
+8009652	无等学	無等學	wúděngxué	rules of conduct for monks; prātimokṣa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 波羅提木叉 (FGDB '波羅提木叉')	8009652
+8009653	金刚藏	金剛藏	jīngāng zàng	Vajragarbha	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 金剛藏菩薩 (FGDB '金剛藏菩薩')	8009653
+8009654	曜	\N	yào	radiant; illustrious; virāj	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: virāj, Japanese: you (BCSD '曜', p. 610; MW 'virāj'; SH '曜', p. 465; Unihan '曜')	8009654
+8009655	金刚藏菩萨	金剛藏菩薩	jīngāng zàng púsà	Vajragarbha; Diamond Matrix	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Laṅkāvatāra Sutra (Cleary 1993, p. 733; T 279, Scroll 35; Ding '金剛藏菩薩'; FGDB '金剛藏菩薩'; SH '金剛藏', p. 282)	8009655
+8009656	三部	\N	sān bù	three divisions	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	With several different formulations of what the divisions are (Ding '三部'; FGDB '三部'; SH '三部', p. 79)	8009656
+8009657	曝	\N	pù	to expose in the sun; ātape dhārita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātape dhārita, Japanese: baku (BCSD '曝', p. 610; MW 'ātapa'; Unihan '曝')	8009657
+8009658	实义	實義	shí yì	true meaning; true doctrine	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '實義'; FGDB '實義')	8009658
+8009659	随一	隨一	suí yī	mostly; most of the time	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '隨一'; FGDB '隨一')	8009659
+8009660	曝日中	\N	pù rì zhōng	to expose in the sun	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātape dhārita (BCSD '曝日中', p. 610)	8009660
