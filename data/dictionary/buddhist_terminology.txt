@@ -4300,10 +4300,10 @@
 8004300	圆满时	圓滿時	yuánmǎn shí	krtayuga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛtayuga; the first of the four ages of the world (FGDB '劫')	8004300
 8004301	象	\N	xiàng	elephant; gaja	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaja, or: hastin (BCSD '象', p. 1104; MW 'gaja'; SH '象', p. 390)	8004301
 8004302	鹿	\N	lù	deer; mrga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛga (MW 'mṛga'; SH '鹿', p. 367)	8004302
-8004303	村	\N	cūn	village; grama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grāma (BCSD '村', p. 645; MW 'grāma')	8004303
+8004303	村	\N	cūn	village; grama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grāma, Japanese: son (BCSD '村', p. 645; MW 'grāma')	8004303
 8004304	男	\N	nán	male; nara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nara (BCSD '男', p. 844; MW 'nara')	8004304
 8004305	看	\N	kàn	see	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √paś, or: √dṛś (BCSD '看', p. 875; MW 'paś')	8004305
-8004306	三分时	三分時	sānfēn shí	tretayuga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  tretāyuga; the second of the four ages of the world (FGDB '劫')	8004306
+8004306	三分时	三分時	sānfēn shí	tretayuga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tretāyuga; the second of the four ages of the world (FGDB '劫')	8004306
 8004307	二分时	二分時	èrfēn shí	dvayuga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvāyuga; the third of the four ages of the world (FGDB '劫')	8004307
 8004308	读	讀	dú	read; recite; pathati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṭha (BCSD '讀', p. 1101; MW 'pāṭha')	8004308
 8004309	书	書	shū	book; pustaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pustaka (BCSD '書', p. 613; MW 'pustaka'; SH '書', p. 326)	8004309
@@ -9740,3 +9740,17 @@
 8009740	朽	\N	xiǔ	worn out; jīrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jīrṇa, Japanese: kyū (BCSD '朽', p. 645; MW 'jīrṇa'; Unihan '朽')	8009740
 8009741	运心	運心	yùnxīn	setting the mind in motion; resolving indecision	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '運心'; FGDB '運心'; SH '運心', p. 414)	8009741
 8009742	无碍智	無礙智	wúàizhì	omniscience	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無礙智'; SH '無礙智', p. 381)	8009742
+8009743	杌	\N	wù	tree stump; sthāṇu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthāṇu, Japanese: gotsu, or: gochi, or: gutsu, or: guchi (BCSD '杌', p. 645; MW 'sthāṇu'; Unihan '杌')	8009743
+8009744	作佛事	\N	zuò fó shì	do as taught by the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '作佛事'; SH '作佛事')	8009744
+8009745	妙色	\N	miào sè	wonderful form	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '妙色'; SH '妙色', p. 235)	8009745
+8009746	李	\N	lǐ	a kind of plant; vīrasena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīrasena, Japanese: ri (BCSD '李', p. 645; MW 'vīrasena'; Unihan '李')	8009746
+8009747	道品	\N	dào pǐn	monastic grade	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道品'; FGDB '道品'; SH '道品', p. 416)	8009747
+8009748	跋提梨迦	\N	bátílíjiā	Bhadrika; Bhaddiya	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 婆提 (FGDB '婆提')	8009748
+8009749	杓	\N	sháo	ladle; darvika	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: darvika, Japanese: hyou, or: teki, or: shaku (BCSD '杓', p. 645; MW 'darvika'; Unihan '杓')	8009749
+8009750	跋提	\N	bátí	Bhadrika; Bhaddiya	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 婆提 (FGDB '婆提')	8009750
+8009751	小贤	小賢	xiǎoxián	Bhadrika; Bhaddiya	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 婆提 (FGDB '婆提')	8009751
+8009752	束	\N	shù	bundle; kalāpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalāpa, Japanese: soku (BCSD '束', p. 646; MW 'kalāpa'; Unihan '束')	8009752 
+8009753	贤善	賢善	xiánshàn	Bhadrika; Bhaddiya	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 婆提 (FGDB '婆提')	8009753
+8009754	仁贤	仁賢	rénxián	Bhadrika; Bhaddiya	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 婆提 (FGDB '婆提')	8009754
+8009755	东	東	dōng	east; pūrvā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvā, Japanese: tou, Tibetan: shar (BCSD '東', p. 646; Mahāvyutpatti 'pūrvā'; MW 'pūrvā'; SH '東', p. 263; Unihan '東')	8009755
+8009756	洪州宗	\N	hóngzhōu zōng	Hongzhou School	proper noun	宗派	School	佛教	Buddhism	禅宗	Chan	\N	\N	Associated with 馬祖道一 Mazu Daoyi (FGDB '洪州宗'; Poceski 2015, p. 1)	8009756
