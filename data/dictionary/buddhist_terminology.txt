@@ -6933,7 +6933,7 @@
 8006933	积累	積累	jīlěi	upacita; heaped up; increased	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upacita (BCSD '積累'; MW 'upacita')	8006933
 8006934	积累德本	積累德本	jīlěi déběn	sūpacita-kuśalamūla; accumulation of wholesome roots	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūpacita-kuśalamūla (BCSD '積累德本')	8006934
 8006935	积集	積集	jījí	saṃcaya; collection; gathering; accumulation; heap	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃcaya (BCSD '積集'; MW 'saMcaya')	8006935
-8006936	果	\N	guǒ	direct effect; phala; a consequence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	guo3.mp3	Sanskrit equivalent: phala, Pali: phala, Japanese: ka. In this sense, 果 is the fruit or result of an action, as in the compound 因果 'cause and effect'. 果 is similar to the general use in literary Chinese in this sense but specifically translates the Sanskrit word phala (BL 'phala'; Tzu Chuang 2012; Hirakawa 1997 '果'; Kroll 2015 '果' 2).	8006936
+8006936	果	\N	guǒ	direct effect; phala; a consequence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	guo3.mp3	Sanskrit equivalent: phala, Pali: phala, Japanese: ka. In this sense, 果 is the fruit or result of an action, as in the compound 因果 'cause and effect'. 果 is similar to the general use in literary Chinese in this sense but specifically translates the Sanskrit word phala (BCSD '果', p. 647; BL 'phala'; Tzu Chuang 2012; Hirakawa 1997 '果'; Kroll 2015 '果' 2).	8006936
 8006937	异熟果	異熟果	yìshú guǒ	vipākaphala; retributive consequence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipākaphala, Japanese: isuk kwa; one of the 五果 'five fruits' (BL 'vipākaphala'; FGDB '異熟果')	8006937
 8006938	异熟	異熟	yìshú	vipāka; the result of karma; indirect effect	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 果報 (FGDB '果報')	8006938
 8006939	异熟因	異熟因	yìshúyīn	vipākahetu; a retributive cause	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipākahetu, Pali: vipākahetu, Japanese: ijukuin (BL 'vipākahetu'; FGDB '異熟因')	8006939
@@ -9758,5 +9758,10 @@
 8009758	板	\N	bǎn	board; phalaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phalaka (BCSD '板', p. 647; MW 'phalaka')	8005398
 8009759	保唐宗	\N	bǎotáng zōng	Baotang School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	(FGDB '保唐宗'; Poceski 2015, p. 30)	8009759
 8009760	别语	別語	biéyǔ	an alternate answer	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	To give a supplementary or alternate answer in a koan commentary (FGDB '別語'; Heine 2016, p. 175)	8009760
-8009761	枉	\N	wǎng	to mock; vipralabh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipralabh, Japanese: ou (BCSD '枉', p. 647; MW 'phalaka'; Unihan '枉')	8009761
+8009761	枉	\N	wǎng	to mock; vipralabh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipralabh, Japanese: ou (BCSD '枉', p. 647; MW 'vipralabh'; Unihan '枉')	8009761
 8009762	学戒	學戒	xué jiè	study of the precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '學戒'; FGDB '學戒')	8009762
+8009763	法灭	法滅	fǎ miè	the extinction of the teachings of the Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	After the 正像末 'Three Ages of the Dharma' (Ding '法滅'; FGDB '法滅'; SH '法滅', p. 271)	8009763
+8009764	枝	\N	zhī	a branch; śākhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śākhā, Japanese: shi, or: ki (BCSD '枝', p. 649; MW 'śākhā'; SH '枝', p. 152; Unihan '枝')	8009764
+8009765	食肉	\N	shí ròu	to eat meat; meat permitted for eating	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '食肉')	8009765
+8009766	一实	一實	yīshí	suchness; inherent nature; true nature; bhūtatathatā; tathatā; tathata	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一實'; FGDB '一實'; SH '一實', p. 5)	8009766
+8009767	枯	\N	kū	parched; śuṣka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śuṣka, Japanese: sko (BCSD '枯', p. 649; MW 'śuṣka'; SH '枯', p. 304; Unihan '枯')	8009767
