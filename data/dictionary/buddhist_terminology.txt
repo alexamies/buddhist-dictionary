@@ -2985,7 +2985,7 @@
 8002985	八分斋戒	八分齋戒	bā fēn zhāijiè	the Eight Precepts	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八關齋戒 (FGDB '八關齋戒')	8002985
 8002986	得大势菩萨	得大勢菩薩	dà shìzhì púsà	Mahasthamaprapta Bodhisattva; Mahāsthāmaprāpta	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsthāmaprāpta; see 得大勢 (FGDB '得大勢')	8002986
 8002987	虚空藏菩萨	虛空藏菩薩	xūkōngzàng púsà	Akasagarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākāśagarbha, Japanese: Kokūzō bosatsu, Tibetan: nam mkha'i snying po; one of the eight great bodhisattvas (BL 'Ākāśagarbha', p. 26; FGDB '虛空藏菩薩'; SH '大莊嚴世界', p. 94)	8002987
-8002988	杵	\N	chǔ	mythical weapon; vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra; a mythical weapon resmbling a thunderbolt (BCSD '杵', p. 646; MW 'vajra')	8002988
+8002988	杵	\N	chǔ	mythical weapon; vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra, Japanese: sho; a mythical weapon resmbling a thunderbolt (BCSD '杵', p. 646; MW 'vajra'; Unihan '杵')	8002988
 8002989	杵	\N	chǔ	a wooden stake; kila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kīla, Tibetan: phur pa'am phur bu (BCSD '杵', p. 646; Mahāvyutpatti 'kīlaḥ'; MW 'kīla')	8002988
 8002990	杵	\N	chǔ	a pestle; musala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: musala; for hulling rice (BCSD '杵', p. 646; MW 'musala')	8002988
 8002991	五股杵	\N	wǔ gǔ chǔ	five pronged vajra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五股 (SH '五股', p. 121)	8002991
@@ -5395,7 +5395,7 @@
 8005395	纥伐耶	紇伐耶	gēfáyé	heart; hṛdaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hṛdaya; see 汗栗馱 (FGDB '汗栗馱')	8005395
 8005396	代	\N	dài	generation; yuga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yuga (BCSD '代', p. 97; MW 'yuga')	8005396
 8005397	三时	三時	sān shí	the three periods of the day or night	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Buddhism a 24 hour period is divied into six periods, three in the day and three in the night (FGDB '三時')	8003840
-8005398	板	\N	bǎn	board struck for sounding events in a temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Struck with a stick for morning chanting, meals, etc. These are counted, as in 二板, 三板, ... for the second striking, third striking, etc (FGDB '板'; SH '板', p. 263).	8005398
+8005398	板	\N	bǎn	board struck for sounding events in a temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: han, or: ban; a board struck with a stick for morning chanting, meals, etc. These are counted, as in 二板, 三板, ... for the second striking, third striking, etc (FGDB '板'; SH '板', p. 263; Unihan '板')	8005398
 8005399	令	\N	lìng	instruction by a teacher; adhīṣṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhīṣṭa (BCSD '令', p. 97; MW 'adhīṣṭa')	8005399
 8005400	火焰	\N	huǒyàn	blazing; jvālā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jvālā, or: saṃdhukṣaṇa, Tibetan: me spar ba (BCSD '火焰', p. 749; Mahāvyutpatti 'saṃdhukṣaṇam'; MW 'jvālā')	8005400
 8005401	钣	鈑	bǎn	board struck for sounding events in a temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ban3.mp3	See 板 (FGDB '板')	8005401
@@ -9754,3 +9754,9 @@
 8009754	仁贤	仁賢	rénxián	Bhadrika; Bhaddiya	proper noun	罗汉	Arhat	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 婆提 (FGDB '婆提')	8009754
 8009755	东	東	dōng	east; pūrvā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvā, Japanese: tou, Tibetan: shar (BCSD '東', p. 646; Mahāvyutpatti 'pūrvā'; MW 'pūrvā'; SH '東', p. 263; Unihan '東')	8009755
 8009756	洪州宗	\N	hóngzhōu zōng	Hongzhou School	proper noun	宗派	School	佛教	Buddhism	禅宗	Chan	\N	\N	Associated with 馬祖道一 Mazu Daoyi (FGDB '洪州宗'; Poceski 2015, p. 1)	8009756
+8009757	色天	\N	sètiān	realm of form	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 色界 (FGDB '色界')	8009757
+8009758	板	\N	bǎn	board; phalaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phalaka (BCSD '板', p. 647; MW 'phalaka')	8005398
+8009759	保唐宗	\N	bǎotáng zōng	Baotang School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	(FGDB '保唐宗'; Poceski 2015, p. 30)	8009759
+8009760	别语	別語	biéyǔ	an alternate answer	noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	To give a supplementary or alternate answer in a koan commentary (FGDB '別語'; Heine 2016, p. 175)	8009760
+8009761	枉	\N	wǎng	to mock; vipralabh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipralabh, Japanese: ou (BCSD '枉', p. 647; MW 'phalaka'; Unihan '枉')	8009761
+8009762	学戒	學戒	xué jiè	study of the precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '學戒'; FGDB '學戒')	8009762
