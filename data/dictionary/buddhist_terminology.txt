@@ -7898,7 +7898,7 @@
 8007898	邪执	邪執	xiézhí	unwholesome attachments; evil attachments	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 盡十方(FGDB '邪執')	8007898
 8007899	染心	\N	rǎnxīn	afflicted mind; kliṣṭa-citta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kliṣṭa-citta; a mind prone to attachment and desire (BCSD '染心'; FGDB '染心')	8007899
 8007900	染污心	\N	rǎnwūxīn	afflicted mind; kliṣṭa-citta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 染心 (FGDB '染心')	8007900
-8007901	染	\N	rǎn	tormented; afflicted; distressed; kliṣṭa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kliṣṭa (BCSD '染'; FGDB '染污'; MW 'kliṣṭa')	8007901
+8007901	染	\N	rǎn	tormented; afflicted; distressed; kliṣṭa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kliṣṭa, Japanese: sen (BCSD '染', p. 650; FGDB '染污'; Mahāvyutpatti 'āvilam'; MW 'kliṣṭa'; SH '染', p. 304; ; Unihan '染')	8007901
 8007902	孤	\N	gū	single; solitary; pratyeka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyeka, Japanese: ko (BCSD '孤', p. 370; MW 'pratyeka'; SH '孤', p. 254; Unihan '孤')	8007902
 8007903	染污	\N	rǎnwū	tormented; afflicted; distressed; kliṣṭa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kliṣṭa (BCSD '染污'; FGDB '染污'; MW 'kliṣṭa')	8007903
 8007904	三细六粗	三細六粗	sān xì liù cū	three subtle aspects and six coarse aspects	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Refers to concepts in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論, the three are: (1) 無明業相 activity of ignorance, (2) 能見相 perceiving the subject, and (3) 境界相 world of objects. The six coarse aspects are: (1) 智相 discriminating intellect, (2) 相續相 aspect of continuity, (3) 執取相 aspect of attachment, (4) 計名字相 aspect of use of names and letters, (5) 起業相 aspect of giving rise to karma, (6) 業繫苦相 aspect of suffering from karmic connections   (Ding '三細六麤'; FGDB '三細六粗')	8007904
@@ -9781,3 +9781,21 @@
 8009781	行愿	行願	xíng yuàn	cultivation and vows	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 修行 'cultivation' and 誓願 'vows' (Ding '行願'; FGDB '行願'; SH '行願', p. 222)	8009781
 8009782	柁	\N	tuó	diameter of a circle; karṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tinduka, Japanese: ta, or: da (BCSD '柁', p. 650; MW 'karṇa'; Unihan '柁')	8009782
 8009783	愿行	願行	yuàn xíng	cultivation and vows	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 行願 (FGDB '行願')	8009783
+8009784	二心	\N	èr xīn	two minds	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One formulation is: (1) 真心 original mind and (2) 妄心 deluded mind. Another formulation is: (1) 定心 concentrated mind and (2) 散心 distracted mind (Ding '二心'; FGDB '二心'; SH '二心', p. 25)	8009784
+8009785	柄	\N	bǐng	staff; daṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa, or: yaṣṭi, Japanese: hei, or: hyou (BCSD '柄', p. 650; Mahāvyutpatti 'yaṣṭiḥ'; MW 'daṇḍa'; Unihan '柄')	8009785
+8009786	散心	\N	sàn xīn	a distracted mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '散心'; FGDB '散心'; SH '散心', p. 373)	8009786
+8009787	自在王	\N	zìzài wáng	īśāna; Isana; Svāmin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: īśāna; a title for Vairocana, the Buddha of Supreme Enlightenment (BCSD '自在王'; Ding '自在王'; SH '自在王')	8009787
+8009788	某	\N	mǒu	a certain person; amuka	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amuka, Japanese: bou, or: bai (BCSD '柄', p. 650; MW 'amuka'; Unihan '某')	8009788
+8009789	证法	證法	zhèngfǎ	realization of the Dhama; practice of the Dharma; adhigamadharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhigamadharma, Japanese: shōhō; one of the two divisions of the Buddha's teachings, the other being 教法 'scriptural dharma' (BL 'adhigamadharma'; BCSD '證法'; Ding '證法'; FGDB '證法')	8009789
+8009790	境智	\N	jìng zhì	objective world and subjective mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '境智'; FGDB '境智'; SH '境智', p. 421)	8009790
+8009791	査	\N	chá	examine	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sa (BCSD '査', p. 652; Unihan '査')	8009791
+8009792	护身	護身	hù shēn	protection of the body	set phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	With a 護符 'charm' used in esoteric Buddhism (Ding '護身'; SH '護身', p. 484)	8009792
+8009793	护符	護符	hùfú	a charm	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(Ding '護符'; FGDB '護符'; SH '護符', p. 484)	8009793
+8009794	柰	\N	nài	a kind of date; pārevata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārevata, Japanese: na, or: dai (BCSD '柰', p. 652; MW 'pārevata'; SH '柰', p. 304; Unihan '柰')	8009794
+8009795	大藏经目录	大藏經目錄	dà zàng jīng mùlù	catlog of Chinese Buddhist scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A generic name for bibliographic catlogs of Chinese Buddhist scriptures (FGDB '大藏經目錄')	8009795
+8009796	一切经目录	一切經目錄	yīqiè jīng mùlù	catlog of Chinese Buddhist scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大藏經目錄 (FGDB '大藏經目錄')	8009796
+8009797	柱	\N	zhù	a pillar; stambha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stambha, Japanese: chū, Tibetan: ka ba (BCSD '柱', p. 652; Mahāvyutpatti 'stambhaḥ'; MW 'stambha'; SH '柱', p. 304; Unihan '柱')	8009797
+8009798	藏经目录	藏經目錄	zàng jīng mùlù	catlog of Chinese Buddhist scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大藏經目錄 (FGDB '大藏經目錄')	8009798
+8009799	义利	義利	yìlì	a beneficial meaning	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '義利')	8009799
+8009800	柳	\N	liǔ	aśleṣā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aśleṣā, Japanese: ryū, Tibetan: skag (BCSD '柳', p. 652; Mahāvyutpatti 'aśleṣā'; MW 'aśleṣā'; SH '柳', p. 304; Unihan '柳')	8009800
+8009801	法应	法應	fǎyīng	Dharmakāya offers all an opportunity	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法應')	8009801

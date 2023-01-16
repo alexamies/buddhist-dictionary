@@ -749,7 +749,7 @@
 7000749	开证	開證	kāi zhèng	Kai Zheng	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	1925-2001; Taiwanese monastic form Kaohsiung (FGDB '開證')	7000749
 7000750	道氤	\N	dàoyīn	Daoyin	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	668-740; Chinese monastic from 长安 (FGDB '道氤')	7000750
 7000751	安世高	\N	Ān shì gāo	An Shigao	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	c. ?-168 CE; Japanese: An Seikō; a prince from Parthia and Buddhist monk who travelled to China. An Shigao is known as an early translator of texts into Chinese (BL 'An Shigao', p. 49; FGDB '安世高')	7000751
-7000752	道安	\N	dào Ān	Dao An	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	WG: Tao An, c. 312－385; also known as 釋道安 and 印手菩薩, well known translator, compiled 《綜理眾經目錄》 'Zongli Zhong Jing Mulu' the earliest known catalog of canonical texts, which is included in T 2145 《出三藏記集》 'Compilation of Notices on the Translation of the Tripiṭaka' (BL 'Dao'an'; CBD 'Tao An'; FGDB '道安')	7000752
+7000752	道安	\N	dào Ān	Dao An	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	WG: Tao An, c. 312－385; also known as 釋道安 and 印手菩薩, well known translator, compiled 《綜理眾經目錄》 'Zongli Zhong Jing Mulu' the earliest known catalog of canonical texts, which is included in T 2145 《出三藏記集》 'Compilation of Notices on the Translation of the Tripiṭaka' (BL 'Dao'an'; CBD 'Tao An'; FGDB '道安'; Storch 2014, loc. 601)	7000752
 7000753	釋道安	釋道安	shì dào Ān	Shi Dao An	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 道安 (FGDB '道安')	7000753
 7000754	僧祐	\N	sēng Yòu	Seng You	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	445-518 CE, well known translator from Jianye, present-day Nanjing, compiled the 《出三藏記集》 'Compilation of Notices on the Translation of the Tripiṭaka,' the earliest catalog of Buddhist canonical texts still in existence (BL 'Sengyou'; FGDB '僧祐')	7000754
 7000755	道宣	\N	dào Xuān	Daoxuan	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Japanese: Dōsen; 596-667 CE, well known translator and patriarch of the Nanshan Vinaya School (BL 'Daoxuan'; FGDB '道宣')	7000755
@@ -6775,7 +6775,7 @@
 7006775	佛彻	佛徹	fóchè	Fo Che; Buttetsu	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 佛哲 (FGDB '佛哲')	7006775
 7006776	那提	\N	nàtí	nadī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 那提國 (BCSD '那提', p. 1170)	7006776
 7006777	那提国	那提國	nàtí guó	Nadi	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(BCSD '那提', p. 1170; FBDB '那提國')	7006777
-7006778	综理众经目录	綜理眾經目錄	zōnglǐ zhòng jīng mùlù	Zongli Zhong Jing Mulu	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The earliest known Chinese catalog of canonical texts, compiled by 道安 Dao'an (BL 'Dao'an'; FGDB '綜理眾經目錄')	7006778
+7006778	综理众经目录	綜理眾經目錄	zōnglǐ zhòng jīng mùlù	Catalog of all Chinese Buddhist Scriptures; Zongli Zhong Jing Mulu	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	An early known Chinese catalog of canonical texts, compiled by 道安 Dao'an (BL 'Dao'an'; FGDB '綜理眾經目錄'; Storch 2014, loc. 601-705)	7006778
 7006779	道安录	道安錄	dào ān lù	Dao An's Catalog; Zongli Zhong Jing Mulu	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 綜理眾經目錄 (FGDB '綜理眾經目錄')	7006779
 7006780	往生礼赞偈	往生禮讚偈	wǎngshēng lǐzàn jì	Wangsheng Lizan Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Compiled by 善導 Shan Dao in the Tang (T 1980)	7006780
 7006781	大智度论疏	大智度論疏	dà zhì dù lùnshū	Commentary on the Great Treatise on the Perfection of Wisdom	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	A canonical text in the Zokuzōkyō (FGDB '大智度論疏')	7006781
@@ -6935,3 +6935,15 @@
 7006935	支敏度	支敏度	zhī mǐndù	Zhi Mindu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Eastern Jin monk (BSAD '支敏度', ID：A002662; FGDB '支愍度'; Storch 2014, loc. 562)	7006935
 7006936	支敏度录	支敏度錄	zhī mǐn dù lù	Zhi Mindu's Catalog	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a catalog mentioned in 歷代三寶紀 Record of the Three Jewels throughout Successive Dynasties but no longer extant (Storch 2014, loc. 562)	7006936
 7006937	支敏度	支敏度	zhī mǐndù	Zhi Mindu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 支敏度 (FGDB '支愍度')	7006937
+7006938	苻秦沙门释道安综理众经目录	苻秦沙門釋道安綜理眾經目錄	fúqín shāmén shì dào ān zōnglǐ zhòng jīng mùlù	Former Qin Monk Shi Dao An Catalog of All Buddhist Scriptures	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 綜理眾經目錄 (FGDB '綜理眾經目錄')	7006938
+7006939	安法师所撰录	安法師所撰錄	ānfǎshīsuǒzhuànlù	Catalog Compiled by Dharma Master Dao An	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 綜理眾經目錄 (FGDB '綜理眾經目錄')	7006939
+7006940	释道录	釋道錄	shì dào lù	Dao An's Catalog	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 綜理眾經目錄 (FGDB '綜理眾經目錄')	7006940
+7006941	安公录	安公錄	ān gōng lù	Dao An's Catalog	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 綜理眾經目錄 (FGDB '綜理眾經目錄')	7006941
+7006942	安录	安錄	ān lù	Dao An's Catalog	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 綜理眾經目錄 (FGDB '綜理眾經目錄')	7006942
+7006943	二秦录	二秦錄	èrqínlù	Catalog of the Two Qin Dynasties	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Compiled by 僧叡 Sengrui, probably in the Later Qin dynasty (FGDB '僧叡'; Storch 2014, loc. 705)	7006943
+7006944	竺道祖	\N	zhú dàozǔ	Zhu Daozu	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 道祖 (FGDB '道祖')	7006944
+7006945	诸经目录	諸經目錄	zhū jīng mùlù	Catlog of All Chinese Buddhist Scriptures; Zhu Jing Mulu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An early catalog compiled by 道祖 Daozu, completed in 419 (FGDB '道祖'; Storch 2014, loc. 705)	7006945
+7006946	释王宗	釋王宗	shì wángzōng	Shi Wangzong	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	5th century monk mentioned in Scroll 15 of 歷代三寶紀 Records of the Three Treasures Throughout the Successive Dynasties (Storch 2014, loc. 705; T 2034, 49.0127c06)	7006946
+7006947	释王宗录	釋王宗錄	shì wángzōng lù	Shi Wangzong's Catalog	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Title of a catalog, no longer extant, mentioned in Scroll 15 of 歷代三寶紀 Records of the Three Treasures Throughout the Successive Dynasties (Storch 2014, loc. 705; T 2034, 49.0127c06)	7006947
+7006948	汉时佛经录	漢時佛經錄	hàn shí fó jīng lù	Han Period Catalog of Buddhist Teachings	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Title of a catalog, thought to be apocryphal, mentioned in Scroll 15 of 歷代三寶紀 Records of the Three Treasures Throughout the Successive Dynasties (Storch 2014, loc. 489; T 2034, 49.0127b25)	7006948
+7006949	众经别录	眾經別錄	zhòng jīng bié lù	Subject Catalog of Scriptures	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Title of a catalog, no longer extant, thought to be compiled in the Liu Song dynasty, mentioned in Scroll 15 of 歷代三寶紀 Records of the Three Treasures Throughout the Successive Dynasties (FGDB '眾經別錄'; Storch 2014, loc. 489; T 2034, 49.0125b24)	7006949
