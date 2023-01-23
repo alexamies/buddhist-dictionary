@@ -2161,9 +2161,9 @@
 8002161	独觉乘者	獨覺乘者	dú jué chéng zhě	Pratyeka-Buddha; Pratyekabuddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; Pali: paccekabuddha; one who has awakened the Truth through their own effort (Karashima 2010, p. 332)	8002161
 8002162	梵网戒	梵網戒	fàn wǎng jiè	Brahma Net precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 菩薩戒 (FGDB '梵網戒')	8002162
 8002163	三聚戒	\N	sān jù jiè	the Tri-Vidhani Silani; Mahayana Boddhisattva precepts	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 菩薩戒 (FGDB '梵網戒'; SH '三聚戒', p. 74)	8002163
-8002164	根	\N	gēn	an organ; a part of the body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	gen1.mp3	Sanskrit equivalent: indriya, Pali: indriya, Japanese: kon, Tibetan: dbang po (BCSD '根'; BL 'indriya', p. 373; FGDB '根'; MW 'indriya'; SH '根', p. 327)	8002164
-8002165	根	\N	gēn	a sense; a faculty	noun	\N	\N	佛教	Buddhism	\N	\N	\N	gen1.mp3	Sanskrit equivalent: indriya, Pali: indriya; includes both sensory faculties and spiritual faculties (BCSD '根'; FGDB '根'; MW 'indriya')	8002164
-8002166	根	\N	gēn	mūla; a root	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūla (BCSD '根'; MW 'mūla')	8002164
+8002164	根	\N	gēn	an organ; a part of the body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	gen1.mp3	Sanskrit equivalent: indriya, Pali: indriya, Japanese: kon, Tibetan: dbang po (BCSD '根', p. 653; BL 'indriya', p. 373; FGDB '根'; MW 'indriya'; SH '根', p. 327)	8002164
+8002165	根	\N	gēn	a sense; a faculty	noun	\N	\N	佛教	Buddhism	\N	\N	\N	gen1.mp3	Sanskrit equivalent: indriya, Pali: indriya; includes both sensory faculties and spiritual faculties (BCSD '根', p. 653; FGDB '根'; MW 'indriya')	8002164
+8002166	根	\N	gēn	mūla; a root	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūla (BCSD '根', p. 653; MW 'mūla')	8002164
 8002167	除盖障菩萨	除盖障菩薩	chúgàizhàng púsà	Sarvanivaranaviskambhin Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvanivāraṇaviṣkambhin; see 除蓋障菩薩 (Chandra and Bunce 2002, pp. 406-407; FGSB '八大明王'; SH '八大明王', p. 35; Wikipedia '除盖障菩萨')	8002167
 8002168	病苦	\N	bìngkǔ	sickness; suffering due to sickness	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the eight kinds of suffering 八苦(FGDB '八苦'; Tzu Chuang 2012, pp. 321-324)	8002168
 8002169	恶见	惡見	è jiàn	mithyadrishti; an evil view; a heterodox view	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithyadrishti, Tibetan: lta ba ngan pa; views of non_Buddhists (FGDB '惡見'; Mahāvyutpatti 'kudṛṣṭiḥ'; SH '惡見', p. 372)	8002169
@@ -9805,3 +9805,11 @@
 8009805	轻慢	輕慢	qīngmàn	to belittle others	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '輕慢'; SH '輕慢', p. 429)	8009805
 8009806	校	\N	xiào	bound; udgrāhita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udgrāhita, Japanese: kou, or: kyou (BCSD '校', p. 652; MW 'udgrāhita'; Unihan '校')	8009806
 8009807	中品	\N	zhōng pǐn	middle rank	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '中品'; SH '中品', p. 110)	8009807
+8009808	栰	\N	fá	raft	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hatsu, or: bochi (BCSD '栰', p. 652; Unihan '栰')	8009808
+8009809	止观不二	止觀不二	zhǐ guān bù èr	calming and contemplation are nondual	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '止觀不二'; FGDB '止觀不二')	8009809
+8009810	难思	難思	nán sī	hard to believe; incredible	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '難思'; SH '難思', p. 475)	8009810
+8009811	核	\N	hé	marrow; essence; sāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāra, Japanese: kaku (BCSD '核', p. 653; MW 'sāra'; Unihan '核')	8009811
+8009812	到彼岸	\N	dàobǐàn	to reach the other shore; to reach Nirvāṇa	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The literal meaning of the Sanskrit word pāramitā (Ding '到彼岸'; FGDB '到彼岸'; SH '到彼岸', p. 250)	8009812
+8009813	徒众	徒眾	tú zhòng	a group of disciples	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '徒眾'; SH '徒眾', p. 325)	8009813
+8009814	桂	\N	guì	fragrant powder; tagara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāra, Japanese: kei (BCSD '桂', p. 655; MW 'tagara'; Unihan '桂')	8009814
+8009815	爱念	愛念	àiniàn	to miss	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '愛念')	8009815
