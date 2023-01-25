@@ -1846,7 +1846,7 @@
 8001846	尸怛罗	尸怛羅	shīdáluó	sila; commitment to not doing harm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla; see 尸羅 (SH '尸羅', p. 101)	8001846
 8001847	般若佛母	\N	bōrě fómǔ	Prajna, Mother of all Buddhas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(DDB'般若佛母'; FGDB '般若佛母'; SH '般若佛母', p. 337)	8001847
 8001848	阿若憍陈如	阿若憍陳如	Aruòjiāo Chénrú	Ājñāta-kāuṇḍinya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ājñātakāuṇḍinya; see 憍陳如 (Eitel 'Ādjñāta-kāuṇḍinya', p. 4; FGDB '憍陳如'; SH '阿若多', p. 291)	8001848
-8001849	僧伽	\N	sēngqié	Samgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, Pali: saṅgha, Japanese: sōgya, Korean: sŭngga, Tibetan: dge ’dun, Khmer: preah sang; the community of monks and nuns (BL 'saṅgha', p. 768; FGDB '僧伽')	8001849
+8001849	僧伽	\N	sēngqié	Samgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, Pali: saṅgha, Japanese: sōgya, Korean: sŭngga, Tibetan: dge ’dun, Khmer: preah sang; the community of monks and nuns (BCSD '僧伽', p. 148; BL 'saṅgha', p. 768; FGDB '僧伽')	8001849
 8001850	毗奈耶	\N	pínàiyē	monastic discipline; vinaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 律 (FGDB '律')	8001850
 8001851	界	\N	jiè	dhatu; realm; field; domain	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhātu, Pali: dhātu, Japanese: kai, Tibetan: khams; in Buddhist cosmology and philosophy; for example, 欲界 'realm of desire' (BL 'dhātu', p. 254; FGDB '界'; Kroll 2015 '界' 5, p. 211; Red Pine 2012, loc. 5667; SH '界', p. 308)	8001851
 8001852	多罗菩萨	多羅菩薩	duōluó púsà	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: tārā, Japanese: Tara, Tibetan: sgrol ma; female bodhisattva, mother of liberation (Baike '多罗菩萨'; BL 'Tārā', p. 895-896; Ding '多羅菩薩'; FGDB '多羅菩薩'; FGS Encyclopedia of Buddhist Arts; Powers 2007, p. 552; SH '多羅菩薩', p. 209; Wikipedia '多羅菩薩')	8001852
@@ -9851,3 +9851,10 @@
 8009851	领得	領得	lǐngde	to understand what is taught; to receive and interpret	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 領解 (FGDB '領解')	8009851
 8009852	泥犁	\N	nílí	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niraya; same as 地獄 (Ding '泥犁'; FGDB '泥犁'; SH '泥犁', p. 265)	8009852
 8009853	械	\N	xiè	shackles; nigaḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nigaḍa, Japanese: kai (BCSD '械', p. 656; MW 'nigaḍa'; Unihan '械')	8009853
+8009854	僧行不正	\N	sēng xíng bù zhèng	splitting of the monastic order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghabheda; see 僧和合破 (BCSD '僧行不正', p. 148)	8009854
+8009855	僧佉外道	\N	sēngqū wàidào	Samkhya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 數論學派 (BCSD '僧佉外道', p. 148)	8009855
+8009856	僧佉书	僧佉書	sēngqū shū	Samkhya texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya-lipi; see 數論學派 (BCSD '僧佉書', p. 148)	8009856
+8009857	僧佉义	僧佉義	sēngqū yì	Samkhya doctrine	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya-pakṣa; see 數論學派 (BCSD '僧佉義', p. 148)	8009857
+8009858	僧和合破	\N	sēng héhé pò	splitting of the monastic order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghabheda (BCSD '僧和合破', p. 148; Williams 2009, p. 4)	8009858
+8009859	僧破	\N	sēng pò	splitting of the monastic order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghabheda; see 僧和合破 (BCSD '僧破', p. 148)	8009859
+8009860	泥黎	\N	nílí	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009860
