@@ -517,7 +517,7 @@
 8000517	善根	\N	shàngēn	virtuous roots; wholesome roots; kuśalamūla	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalamūla, Pali: kusalamūla, Japanese: zengon, Tibetan: dge ba'i rtsa ba. There are different enumerations of wholesome roots. One is (1) alobha 'nongreed,' (2) adveṣa 'nonhatred,' and (3) nondelusion 'amoha.' (BCSD '善根', p. 263; BL 'kuśalamūla', p. 457; FGDB '善根'). For example, 是菩薩有大智慧深善根 'A bodhisattva has great wisdom and deep roots of virtue (Xiaopin, scroll 7 小品般若波羅蜜經).	8000517
 8000518	福业	福業	fúyè	virtuous actions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇya-karma; those that create good karmic results (FGDB '福業'; SH '福業', p. 426)	8000518
 8000519	汉传佛教	漢傳佛教	Hàn chuán Fójiào	Han Chinese Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Buddhist tradition amongst Han Chinese (Wikipedia '汉传佛教')	8000519
-8000520	真谛	真諦	zhēndì	paramartha; paramārtha; paramārthasatya ／ absolute truth; supreme truth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paramārtha, Pali: paramattha, Japanese: shintai, or: daiichigitai, Tibetan: don dam bden pa; refers to the true reality of the secular world, as perceived according to dependent origination. As opposed to the mundane truth 俗谛; one of the 二諦 two truths (BL 'paramārthasatya', p. 623; FGDB '真諦'; Shambhala 'paramārtha'; Tzu Chuang 2012).	8000520
+8000520	真谛	真諦	zhēndì	paramartha; paramārtha; paramārthasatya; absolute truth; supreme truth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paramārtha, Pali: paramattha, Japanese: shintai, or: daiichigitai, Tibetan: don dam bden pa; refers to the true reality of the secular world, as perceived according to dependent origination. As opposed to the mundane truth 俗谛; one of the 二諦 two truths (BL 'paramārthasatya', p. 623; FGDB '真諦'; Shambhala 'paramārtha'; Tzu Chuang 2012).	8000520
 8000521	法显传	法顯傳	Fǎ Xiǎn Zhuàn	A Record of Buddhist Kingdoms; Record of the Buddhistic Kingdoms; Faxian's Pilgrimage to India	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Japanese: Hokken den; a record describing the travels to India by the monk Faxian 法顯 (BL 'Faxian zhuan', p. 298; FGDB '法顯傳')	8000521
 8000522	佛国记	佛國記	Fó Guó jì	A Record of Buddhist Kingdoms; Record of the Buddhistic Kingdoms; Fa Xian's Pilgrimage to India	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	See also 法顯傳 (BL 'Record of Buddhist Kingdoms', p. 709; Ding '佛國記'; FGDB '佛國記'; SH '佛國記'; T 2085)	8000522
 8000523	金刚牙菩萨	金剛牙菩薩	jīngāngyá púsà	Vajradaṃṣṭra Bodhisattva	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(FGDB '金剛牙菩薩')	8000523
@@ -9860,3 +9860,23 @@
 8009860	泥黎	\N	nílí	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009860
 8009861	六足论	六足論	liù zú lùn	six treatises	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣaḍpadaśāstra; a list of six treatises of the Abhidharma (Ding '六足論'; FGDB '六足論')	8009861
 8009862	梳	\N	shū	comb; prasādhayati	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasādhayati, Japanese: so (BCSD '梳', p. 656; Unihan '梳')	8009862
+8009863	泥罗耶	泥囉耶	níluōyé	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009863
+8009864	捺洛迦	\N	nàluòjiā	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009864
+8009865	梵书	梵書	fànshū	Brahmi script	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brāhmī (BCSD '梵書', p. 657; Wikipedia '婆罗米文')	8009865
+8009866	泥梨	\N	nílí	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009866
+8009867	三昧门	三昧門	sānmèimén	to be on the bodhisattva path	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '三昧門'; FGDB '三昧門'; SH '三昧門', p. 67)	8009867
+8009868	弃	棄	qì	abandon; chorita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chorita, Japanese: ki (BCSD '棄', p. 658; Mahāvyutpatti 'chorita'; MW 'chorita'; Unihan '棄')	8009868
+8009869	恶知识	惡知識	è zhīshí	a bad friend; an evil companion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '惡知識'; FGDB '惡知識'; SH '惡知識', p. 372; Sharf 2005, p. 285)	8009869
+8009870	恶友	惡友	èyǒu	a bad friend	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 惡知識 (FGDB '惡知識')	8009870
+8009871	恶师	惡師	èshī	a bad friend; a bad teacher	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 惡知識 (FGDB '惡知識')	8009871
+8009872	棍	\N	gùn	staff; daṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa, Japanese: kon (BCSD '棍', p. 659; MW 'daṇḍa'; Unihan '棍')	8009872
+8009873	恶师友	惡師友	èshīyǒu	a bad friend; a bad teacher	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 惡知識 (FGDB '惡知識')	8009873
+8009874	解行	\N	jiěxíng	to understand and practice	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 知解 and 修行 (Ding '解行'; FGDB '解行'; SH '解行', p. 413)	8009874
+8009875	棑	\N	pái	shield; phara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phara, Japanese: hai, or: bai (BCSD '棑', p. 659; MW 'phara'; Unihan '棑')	8009875
+8009876	上人	\N	shàngrén	shangren; senior monastic	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '上人'; FGDB '上人'; SH '上人', p. 56)	8009876
+8009877	受食	\N	shòushí	one who receives food	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Said of a monastic who begs for food (Ding '受食'; FGDB '受食')	8009877
+8009878	棒	\N	bàng	a stick; gadā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gadā, Japanese: bou, or: hou (BCSD '棒', p. 659; MW 'gadā'; Unihan '棒')	8009878
+8009879	方典	\N	fāng diǎn	Vaipulya scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Mahāyāna sutras (Ding '方典'; FGDB '方典'; SH '方典', p. 155)	8009879
+8009880	方等经典	方等經典	fāngděng jīngdiǎn	Vaipulya sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方典 (SH '方典', p. 155)	8009880
+8009881	枣	棗	zǎo	jujube; badara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: badara, Japanese: sou (BCSD '棗', p. 659; MW 'badara'; Unihan '棗')	8009881
+8009882	实智	實智	shí zhì	knowledge of reality	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '實智'; FGDB '實智'; SH '實智', p. 423)	8009882
