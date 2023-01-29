@@ -3253,7 +3253,7 @@
 7003253	安玄	\N	Ān Xuán	An Xuan	proper noun	居士	Layperson	佛教	Buddhism	\N	\N	\N	\N	Buddhist layperson who worked with 安世高 An Shigao in translation of Buddhist texts (BSAD '安玄', ID A000367; FGDB '安玄')	7003253
 7003254	支曜	\N	Zhī yào	Zhi Yao	proper noun	法师	Monk	佛教	Buddhism	\N	\N	\N	\N	Buddhist monk from Gandhara, disciple of Lokaksema, traveled to China in the Later Han, translated the Sutra on the Completion of Brightness into Chinese among others (FGDB '支曜')	7003254
 7003255	支谦	支謙	Zhī qiān	Zhi Qian	proper noun	居士	Layperson	佛教	Buddhism	\N	\N	\N	\N	222-252 CE; layperson from Gandhara who translated Buddhist texts to Chinese (BSAD '支謙'; FGDB '支謙'; Wikipedia '支謙')	7003255
-7003256	康僧会	康僧會	Kāng sēng Huì	Kang Seng Hui	proper noun	法师	Monk	佛教	Buddhism	\N	\N	\N	\N	?-282 CE; Sogdian monk who translated Buddhist texts to Chinese (BSAD '康僧會', ID A001046; FGDB '康僧會'; Wikipedia '康僧會')	7003256
+7003256	康僧会	康僧會	kāng sēnghuì	Kang Senghui	proper noun	法师	Monk	佛教	Buddhism	\N	\N	\N	\N	?-282 CE; Sogdian monk who translated Buddhist texts to Chinese (BSAD '康僧會', ID A001046; FGDB '康僧會'; Wikipedia '康僧會')	7003256
 7003257	竺法护	竺法護	Zhú fǎ Hù	Dharmarakṣa	proper noun	法师	Monk	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmarakṣa, Japanese: Jiku Hōgo; c. 230 CE, from Dunhuang, made the first known translation of the Lotus Sutra (BL 'Dharmarakṣa', p. 251; FGDB '竺法護')	7003257
 7003258	乌臼	烏臼	wūjiù	Wujiu	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Tang dynasty monastic (BSAD '烏臼和尚', ID A019912)	7003258
 7003259	广严	廣嚴	guǎngyán	Vesālī; Vaisali; Vaissali; Vaishali; City of Vaisali	proper noun	古城	Ancient City	佛教	Buddhism	印度	India	\N	\N	See 毘舍離 (FGDB '毘舍離')	7003259
@@ -6955,3 +6955,4 @@
 7006955	经律	經律	jīng lǜ	Collection of Discourses and Collection of Monastic Rules	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '經律'; FGDB '經律')	7006955
 7006956	金河	\N	jīn hé	Hiranyavati River	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: hiraṇyavatī (SH '金河', p. 283)	7006956
 7006957	尸赖拏伐底	尸賴拏伐底	shīlàináfádǐ	Hiraṇyavatī	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: hiraṇyavatī; see 金河 (SH '金河', p. 283)	7006957
+7006957	安远	安遠	ānyuǎn	Dao An and Huiyuan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 道安 Dao-an and 慧遠 Huiyuan (BSAD '安遠', p. 212)	7006472
