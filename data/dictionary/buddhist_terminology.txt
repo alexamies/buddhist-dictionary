@@ -1686,7 +1686,7 @@
 8001686	天界	\N	tiānjiè	heaven; devaloka	proper noun	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devaloka; the world where gods and devas exist, one of the 六趣 Six Realms in Buddhism (BCSD '天界', p. 334; FGDB '天'; SH '天界', p. 146; Tzu Chuang 2012, p. 266)	8001686
 8001687	尼庵	\N	ní ān	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001687
 8001688	比丘尼寺	\N	bǐqiūnísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001688
-8001689	有为	有為	yǒuwèi	samskrta; conditioned	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃskṛta, Japanese: ui; subject to causes and conditions; contrast with asaṃskṛta (無為) unconditioned (BL 'saṃskṛta'; FGDB '有為': MW 'saṃskṛta'; SH '有爲', p. 214)	8001689
+8001689	有为	有為	yǒuwèi	samskrta; conditioned	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃskṛta, Pali: saṅkhata, Japanese: ui, Tibetan: 'dus byas; subject to causes and conditions; contrast with asaṃskṛta 無為 unconditioned (BL 'saṃskṛta'; FGDB '有為'; Mahāvyutpatti 'saṃskṛtam': MW 'saṃskṛta'; SH '有爲', p. 214)	8001689
 8001690	那由他	\N	nàyóutā	a nayuta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ancient Indian unit of time or a large number (FGDB '姟')	8001690
 8001691	师子奋迅具足万行如来	師子奮迅具足萬行如來	Shīzǐ fèn xùn jùzú Wàn Xíng Rúlái	Swift Lion Myriad Accomplishment Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8001691
 8001692	释氏	釋氏	shì shì	Sakya clan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śākya, Pali: Sākiya, Japanese: Shaka, Tibetan: shākya; name of the Indian clan that Śākyamuni Buddha was born into (BL 'Śākya', p. 741; FGDB '釋氏'; SH '釋氏', p. 482)	8001692
@@ -6448,7 +6448,7 @@
 8006448	卑	\N	bēi	inferior; hīna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hīna (BCSD '卑', p. 220; MW 'hīna'; SH '卑', p. 251)	8006448
 8006449	锯刀喻	鋸刀喻	jùdāo yù	the knife simile	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Appears in the Madhyamāgama 中阿含經  (T 26, Scroll 50)	8006449
 8006450	椽梠	\N	chuán lǚ	rafters and eves	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, used in the 妙法蓮華經 “Lotus Sutra” (Karashima 2001, p. 87; T 262, Scroll 2, 9.0013c18)	8006450
-8006451	椽	\N	chuán	pillar; stambha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stambha (BCSD '卑', p. 220; MW 'stambha')	8006451
+8006451	椽	\N	chuán	pillar; stambha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stambha, Japanese: ten (BCSD '椽', p. 659; MW 'stambha'; Unihan '椽')	8006451
 8006452	长	長	cháng	long	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīrgha, Japanese: chō, or: jō, Tibetan: ring po (BCSD '長', p. 1195; DJBT '長', p. 423; Mahāvyutpatti 'dīrgham'; MW 'dīrgha'; SH '長', p. 284)	8006452
 8006453	静	靜	jìng	peace; śānta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śānta, Tibetan: zhi ba (BCSD '靜', p. 1244; Mahāvyutpatti 'śāntaḥ'; MW 'śānta'; SH '靜', p. 453)	8006453
 8006454	颂	頌	sòng	verse; gāthā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gāthā, or: śloka, Tibetan: tshigs su bcad pa (BCSD '頌', p. 1264; Mahāvyutpatti 'ślokaḥ'; MW 'gāthā'; SH '頌', p. 418)	8006454
@@ -9899,5 +9899,26 @@
 8009899	椄	\N	jiē	joined; sambaddha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sambaddha, Japanese: setsu, or: shou (BCSD '椄', p. 659; MW 'sambaddha'; Unihan '椄')	8009899
 8009900	对机	對機	duì jī	to respond to an opportunity	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '對機'; FGDB '對機'; SH '對機', p. 423)	8009900
 8009901	入空	\N	rù kōng	to have an experiential understanding of the truth	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Through an understanding of dependent origination (Ding '入空'; FGDB '入空')	8009901
-
-64456	摄心	攝心	shèxīn	to concentrate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '攝心'; FGDB '攝心'; SH '攝心')	64456
+8009902	摄心	攝心	shèxīn	to concentrate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '攝心'; FGDB '攝心'; SH '攝心')	8009902
+8009903	心解脱	心解脫	xīn jiětuō	to liberate the mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '心解脫'; FGDB '心解脫')	8009903
+8009904	取蕴	取蘊	qǔ yùn	aggregates of attachment; aggregates that are the objects of grasping; upādānaskandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upādānaskandha, Pali: upādānakandha, Japanese: shuun; related in meaning to 有漏 (BL 'upādānaskandha'; Ding '取蘊'; FGDB '取蘊'; SH '取蘊', p. 115)	8009904
+8009905	勤行	\N	qín xíng	diligent practice	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '勤行'; FGDB '勤行'; SH '勤行', p. 396)	8009905
+8009906	一识	一識	yī shí	one perception; one knowledge	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一識'; FGDB '一識'; SH '一識', p. 9)	8009906
+8009907	植	\N	zhí	cultivate plants; ropaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ropaṇa, Japanese: shoku, or: chi (BCSD '植', p. 659; MW 'ropaṇa'; SH '植', p. 376; Unihan '植')	8009907
+8009908	十门	十門	shí mén	ten gates	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the concept that there are many ways [at least ten] that connect 事 form and 理 substance (Ding '十門'; FGDB '十門'; SH '十門', p. 53)	8009908
+8009909	留难	留難	liú nán	the difficulty of evil spirits left behind to hinder doing of good deed	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '留難'; FGDB '留難'; SH '留難', p. 330)	8009909
+8009910	椒	\N	jiāo	coriander; tumburu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tumburu, Japanese: shou (BCSD '椒', p. 659; MW 'tumburu'; Unihan '椒')	8009910
+8009911	见分	見分	jiànfēn	vision part	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As one of the four divisions of cognition; see 四分 (FGDB '四分')	8009911
+8009912	取分	\N	qǔfēn	vision part	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四分 (FGDB '四分')	8009912
+8009913	楔	\N	xiē	a wedge; kīla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kīla, Japanese: setsu, or: ketsu (BCSD '楔', p. 659; MW 'kīla'; Unihan '楔')	8009913
+8009914	料简	料簡	liào jiǎn	to expound; to explain; to comment upon	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '料簡'; FGDB '料簡'; SH '料簡', p. 326)	8009914
+8009915	料拣	料揀	liào jiǎn	to expound; to explain; to comment upon	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 料簡 (FGDB '料簡')	8009915
+8009916	楯	\N	shǔn	a shield; phalaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phalaka, Japanese: jun (BCSD '楯', p. 661; MW 'phalaka'; Unihan '楯')	8009916
+8009917	了简	了簡	liǎo jiǎn	to expound; to explain; to comment upon	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 料簡 (FGDB '料簡')	8009917
+8009918	量简	量簡	liàngjiǎn	to expound; to explain; to comment upon	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 料簡 (FGDB '料簡')	8009918
+8009919	极	極	jí	highest point; parama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parama, Japanese: goku, or: kyoku, or: goki (BCSD '極', p. 661; MW 'parama'; SH '極', p. 403; Unihan '極')	8009919
+8009920	量见	量見	liàngjiàn	to expound; to explain; to comment upon	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 料簡 (FGDB '料簡')	8009920
+8009921	料见	料見	liàojiàn	to expound; to explain; to comment upon	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 料簡 (FGDB '料簡')	8009921
+8009922	荣	榮	róng	prosperity; sampatti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sampatti, Japanese:  (BCSD '榮', p. 665; MW 'sampatti'; SH '榮', p. 424; Unihan '榮')	8009922
+8009923	阿修罗王	阿修羅王	āxiūluó wáng	king of the asuras	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '阿修羅王'; FGDB '阿修羅王')	8009923
+8009924	僧残	僧殘	sēngcán	the sin of a monastic	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅghāvaśeṣa, Pali: saṅghādiśeṣa, Japanese: sōzanzai; sōzanhō; the second most serious category of offenses, requiring confession before the order but not expulsion (BL 'saṅghāvaśeṣa'; Ding '僧殘'; FGDB '僧殘'; SH '僧殘', p. 421)	8009924
