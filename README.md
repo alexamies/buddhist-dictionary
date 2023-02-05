@@ -32,7 +32,11 @@ There are three parts to the project:
 2. The data. This is the dictionary and text files. The data files are in UTF-8
    tab delimited text. There is also a corpus directory, which contains the
    literature to build the vocabulary and word frequency from. These are
-   Chinese texts from the Buddhist canon and related collections.
+   Chinese texts from the Buddhist canon and related collections. They include
+   [Buddhist terminology](https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/buddhist_terminology.txt),
+   [Buddhist people, places, and texts](https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/buddhist_named_entities.txt),
+   a [general Chinese-English dictionary](https://github.com/alexamies/buddhist-dictionary/blob/master/data/dictionary/cnotes_zh_en_dict.tsv),
+   and other files.
 
 3. Jupyter notebooks and other Python tools for building vocabulary.
 
@@ -45,15 +49,17 @@ is Apache 2.0.
 1. The dictionary includes many terms from the [CC-CEDICT Chinese - English 
    dictionary](http://cc-cedict.org/wiki/), shared under the 
    [Creative Commons Attribution-Share Alike 3.0
-   License](http://creativecommons.org/licenses/by-sa/3.0/).
+   License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 2. Historic Buddhist texts from the Taishō Tripiṭaka are from
-   [CBETA](http://cbeta.org).
+   [CBETA](https://cbeta.org).
 
-3. Sources listed in the [References](http://ntireader.org/references.html).
+3. Sources listed in the [References](https://ntireader.org/references.html) with
+   citations for each term using a system of 
+   [abbreviations](https://ntireader.org/abbreviations.html)
 
 Humanistic Buddhism texts are now moved to the [Humanistic Buddhism
-Reader](http://hbreader.org/).
+Reader](https://hbreader.org/).
 
 ## Getting Started
 
