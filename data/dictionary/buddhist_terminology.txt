@@ -3711,7 +3711,7 @@
 8003711	乾闼婆	乾闥婆	qiántàpó	a gandharva	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: gandharva, Pali: gandhabba, Japanese: kendatsuba, Tibetan: dri za; a kind of celestial being known for musical skills (BL 'gandharva', pp. 311-312; FGDB '乾闥婆')	8003711
 8003712	舍衞国	舍衞國	shěwèi guó	Sravasti	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 舍衛國 (FGDB '舍衛國')	8003712
 8003713	纯	純	chún	pure; only; exclusively; alone	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekānta, or: kevala (BCSD '純', p. 927; MW 'ekānta'; SH '純', p. 335)	8003713
-8003714	民	\N	mín	people	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, or: prajā (BCSD '民', p. 701; MW 'prajā')	8003714
+8003714	民	\N	mín	people	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, or: prajā, Japanese: min (BCSD '民', p. 701; MW 'prajā'; Unihan '民')	8003714
 8003715	缩刷大藏经	縮刷大藏經	suō shuā dà zàng jīng	Shukusatsu daizōkyō; Reduced Print Canon	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A modern Japanese version of the Buddhist cann (Scott 2017, p. 98)	8003715
 8003716	五部祕经	五部祕經	wǔ bù mì jīng	five esoteric sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五部祕經')	8003716
 8003717	胎藏	\N	tāicáng	womb	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: taizō (FGDB '胎藏'; JEBD 'taizōkai', p. 347)	8003717
@@ -8667,7 +8667,7 @@
 8008667	浮溜沙	\N	fúliūshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008667
 8008668	布路沙	\N	bùlùshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008668
 8008669	惶	\N	huáng	fearful; viklava	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viklava, Japanese: kou (BCSD '惶', p. 490; MW 'viklava'; Unihan '惶')	8008669
-8008670	气	氣	qì	steam; bāṣpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāṣpa, Japanese: ki, or: ke, Tibetan: rlangs pa (BCSD '氣', p. 701; Mahāvyutpatti 'vāṣpaḥ'; MW 'bāṣpa'; Unihan '氣')	8008670
+8008670	气	氣	qì	steam; bāṣpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāṣpa, Pali vappa, Japanese: ki, or: ke, Tibetan: rlangs pa (BCSD '氣', p. 701; Edgerton 1953 'vāṣpa', p. 478; Mahāvyutpatti 'vāṣpaḥ'; MW 'bāṣpa'; Unihan '氣')	8008670
 8008671	木佛	\N	mù fó	a wooden statue of a Buddha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '木佛'; FGDB '木佛'; SH '木佛', p. 157)	8008671
 8008672	木律僧	\N	mù lǜ sēng	a bureaucratic monastic	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '木律僧'; FGDB '木律僧'; SH '木律僧', p. 157)	8008672
 8008673	如意棒	\N	rúyì bàng	a rod with a mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '如意棒')	8008673
@@ -10131,3 +10131,36 @@
 8010131	正解	\N	zhèngjiě	sambodhi; saṃbodhi; enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正覺 (FGDB '正覺')	8010131
 8010132	妙乐	妙樂	miàolè	sublime joy	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 殊妙之歡樂 (Ding '妙樂')	8010132
 8010133	毡	氈	zhān	felt	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: namata, Pali namataka, Japanese: sen, Tibetan: 'phying ba (BCSD '氈', p. 700; Edgerton 1953 'namata', p. 290; Mahāvyutpatti 'namataḥ'; MW 'namata'; Unihan '氈')	8010133
+8010134	福智	\N	fúzhì	merit and wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 福德 and 智慧 (Ding '福智'; FGDB '福智'; SH '福智', p. 426)	8010134
+8010135	空三昧	\N	kōng sānmèi	the samādhi of emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三三昧 'three samādhis' (Ding '空三昧'; FGDB '空三昧'; SH '空三昧', p. 276)	8010135
+8010136	氍	\N	qú	a woolen rug	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ku, or: gu, or: kyo, or: go (BCSD '氍', p. 701; Unihan '氍')	8010136
+8010137	氍毹	\N	qúshū	a woollen rug	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varṇaka-kambala (BCSD '氍毹', p. 701)	8010137
+8010138	空三摩地	\N	kōng sānmódì	the samādhi of emptiness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空三昧 (FGDB '空三昧')	8010138
+8010139	三三昧	\N	sān sānmèi	three samādhis	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Concentration on three different subjects: (1) 空三昧 the samādhi of emptiness, (2) 無相三昧 the samādhi of no appearance, and (3) 無願三昧 samādhi of no desire (Ding '三三昧'; FGDB '三三昧'; SH '三三昧')	8010139
+8010140	三三摩地	\N	sān sānmódì	three samādhis	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三三昧 (FGDB '三三昧')	8010140
+8010141	氏	\N	shì	clan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shi, or: uji (BCSD '氏', p. 701; DJBT '氏', p. 433; Unihan '氏')	8010141
+8010142	氏族	\N	shìzú	origin; birth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upapatti, Pali: upapatti (BCSD '氏', p. 701; Edgerton 1953 'upapatti', p. 138; MW 'upapatti')	8010142
+8010143	三等持	\N	sān děngchí	three samādhis	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三三昧 (FGDB '三三昧')	8010143
+8010144	三定	\N	sān dìng	three samādhis	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三三昧 (FGDB '三三昧')	8010144
+8010145	无相三昧	無相三昧	wúxiāng sānmèi	samādhi of no appearance	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三三昧 'three samādhis' (Ding '三三昧'; FGDB '三三昧'; SH '三三昧', p. 57)	8010145
+8010146	氐	\N	dī	Visakha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśākhā, Pali: visākhā, Japanese: tei, or: tai, or: shi, or: chi, Tibetan: sa ga; name of a constellation and also of a female consort of King Śaṅkha (BCSD '氐', p. 701; Edgerton 1953 'viśākhā', p. 500; Mahāvyutpatti 'viśākhā'; MW 'viśākhā'; Unihan '氐')	8010146
+8010147	无愿三昧	無願三昧	wúyuàn sānmèi	samādhi of no desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三三昧 'three samādhis' (Ding '三三昧'; FGDB '無作三昧'; SH '三三昧', p. 57)	8010147
+8010148	无作三昧	無作三昧	wúzuò sānmèi	samādhi of no desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無願三昧 (FGDB '無作三昧')	8010148
+8010149	氷	\N	bīng	ice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hyou (BCSD '氷', p. 703; Unihan '氷')	8010149
+8010150	氷片	\N	bīngpiàn	camphor; karpūra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karpūra (BCSD '氷片', p. 703; MW 'karpūra')	8010150
+8010151	犍椎	\N	jiānzhuī	wooden fish	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṇṭā, Pali: ghaṇṭā; struck at meal times in temples (FGDB '犍椎'; Mathews 1931 '犍椎', p. 118; MW 'ghaṇṭā')	8010151
+8010152	犍迟	犍遲	jiānchí	wooden fish	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṇṭā, Pali: ghaṇṭā; see 犍椎 (FGDB '犍椎')	8010152
+8010153	汁	\N	zhī	juice; rasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rasa, Japanese: jū (BCSD '汁', p. 705; MW 'rasa'; Unihan '汁')	8010153
+8010154	汁	\N	zhī	froth; maṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍa, Tibetan: khur ba (BCSD '汁', p. 705; Mahāvyutpatti 'maṇḍaḥ'; MW 'maṇḍa'; Unihan '汁')	8010153
+8010155	犍槌	\N	jiānchuí	wooden fish	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṇṭā, Pali: ghaṇṭā; see 犍椎 (FGDB '犍椎')	8010155
+8010156	犍抵	\N	jiāndǐ	wooden fish	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṇṭā, Pali: ghaṇṭā; see 犍椎 (FGDB '犍椎')	8010156
+8010157	求	\N	qiú	to seek; kāṅkṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāṅkṣ, Japanese: kyū (BCSD '求', p. 705; MW 'kāṅkṣ'; SH '求', p. 241; Unihan '求')	8010157
+8010158	安乐国	安樂國	ānlè guó	Land of Bliss	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 極樂世界 Sukhāvatī (Ding '安樂國'; FGDB '極樂世界'; SH '安樂國', p. 212)	8010158
+8010159	教团	教團	jiāotuán	buddhist order; religious community; religious groups	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha 僧團; 僧伽 (FGDB '教團'; DDB '教團')	8010159
+8010160	汎	\N	fàn	float	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: han, or: fū, or: hou (BCSD '汎', p. 707; Unihan '汎')	8010160
+8010161	无起三昧	無起三昧	wúqǐ sānmèi	samādhi of no desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無願三昧 (FGDB '無作三昧')	8010161
+8010162	正教	\N	zhèng jiāo	correct teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '正教')	8010162
+8010163	汗	\N	hàn	sweat; sveda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sveda, Japanese: kan, Tibetan: rngul (BCSD '汗', p. 707; Mahāvyutpatti 'svedaḥ'; MW 'sveda'; SH '汗', p. 216; Unihan '汗')	8010163
+8010164	身识	身識	shēn shí	body consciousness; consciousness of touch; kāyavijñāna	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāyavijñāna, Pali: kāyaviññāṇa, Japanese: shinshiki (BL 'kāyavijñāna'; Ding '身識'; FGDB '身識'; SH '身識', p. 246)	8010164
+8010165	真解脱	真解脫	zhēn jiětuō	true liberation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '真解脫'; FGDB '真解脫'; SH '真解脫', p. 333)	8010165
+8010166	天乐	天樂	tiān yuè	heavenly music	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '天樂'; SH '天樂', p. 145)	8010166
