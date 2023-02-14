@@ -3304,7 +3304,7 @@
 8003304	寂	\N	jì	Nirvana; Nibbana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirvāṇa; see 涅槃 (FGDB '涅槃'; Kroll 2015 '寂' 1b, p. 187)	8003304
 8003305	寂	\N	jì	tranquillity; quiescence; santi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śānti, Japanese: jaku (BCSD '寂', p. 383; DJBT '寂', p. 424; MW 'śānti'; SH '寂', p. 348; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003304
 8003306	沙	\N	shā	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣa, Siddham: 𑖬; second of the three sibilants in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '沙', p. 710; MW 'ṣa'; SH '沙', p. 242; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003306
-8003307	沙	\N	shā	sand; baluka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bālukā, or: vālukā (BCSD '沙', p. 710; MW 'vālukā'; SH '沙', p. 242)	8003306
+8003307	沙	\N	shā	sand; vālukā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bālukā, or: vālukā, Japanese: sa, or: sha (BCSD '沙', p. 710; MW 'vālukā'; SH '沙', p. 242; Unihan '沙')	8003306
 8003308	钝	鈍	dùn	dull; stupid; manda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manda, or: ṣaṭha (BCSD '鈍', p. 1187; MW 'manda'; SH '鈍', p. 392; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003308
 8003309	娑	\N	suō	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa, Siddham: 𑖭; third of the three sibilants in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '娑', p. 362; FGDB '娑'; MW 'sa'; SH '娑', p. 323; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003309
 8003310	萨	薩	sà	sa; sat	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa; used for transliteration, see 娑 (BCSD '薩', p. 1026; FGDB '娑'; Guoyu '薩' 2)	8000065
@@ -10194,3 +10194,25 @@
 8010194	行蕴	行蘊	xíngyùn	the aggregate of volition	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The fourth of the 五蘊 'five aggregates' (Ding '行蘊'; FGDB '行蘊'; SH '行蘊', p. 222)	8010194
 8010195	异熟生	異熟生	yìshú shēng	objects produced as a result of karma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Mahayana and Theravada interpretations differ (Ding '異熟生'; FGDB '異熟生'; SH '異熟生', p. 361)	8010195
 8010196	四维	四維	sì wéi	the four half points of the compass	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Southeast, southwest, northeast, and northwest (Ding '四維'; FGDB '四維'; SH '四維', p. 180)	8010196
+8010197	沓	\N	tà	ta; da	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou; transliterates Sanskrit ta or da (BCSD '沓', p. 710; SH '沓', p. 265; Unihan '沓')	8010197
+8010198	异学	異學	yì xué	study of non-Buddhist worldviews	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '異學'; SH '異學', p. 361)	8010198
+8010199	护世	護世	hù shì	protectors of the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 四天王 the four deva kings; see 四天王 (Ding '護世'; FGDB '護世'; SH '護世者', p. 484)	8010199
+8010200	冲	沖	chōng	kh	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chū; transliterates Sanskrit kh (BCSD '沖', p. 710; Unihan '沖')	8010200
+8010201	护世者	護世者	hù shì zhě	protectors of the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Se 護世 (SH '護世者', p. 484)	8010201
+8010202	空行	\N	kōng xíng	practicce according to emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '空行'; SH '空行', p. 278)	8010202
+8010203	沫	\N	mò	foam; phena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phena, Japanese: matsu, or: batsu (BCSD '沫', p. 711; MW 'phena'; Unihan '沫')	8010203
+8010204	弘誓	\N	hóngshì	great vows	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The great vows of a Buddha or bodhisattva (Ding '弘誓'; FGDB '弘誓'; Karashima 2001 '弘誓'; SH '弘誓', p. 188)	8010204
+8010205	弘誓愿	弘誓願	hóng shìyuàn	great vows	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 弘誓 (FGDB '弘誓')	8010205
+8010206	大誓庄严	大誓莊嚴	dàshì zhuāngyán	great vows	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 弘誓 (FGDB '弘誓')	8010206
+8010207	道果	\N	dào guǒ	the fruit of the path	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to Nirvāṇa as the result of Buddhist practice (Ding '道果'; FGDB '道果'; SH '道果', p. 416)	8010207
+8010208	六师	六師	liù shī	the six teachers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six teachers of hterodox practices at the time of the Buddha; see also 二三 (Ding '六師'; FGDB '六師外道'; SH '六師', p. 134)	8010208
+8010209	外道六师	外道六師	wài dào liù shī	the six teachers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六師 (FGDB '六師外道')	8010209
+8010210	沮	\N	jǔ	stop	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sho, or: so (BCSD '沮', p. 711; Unihan '沮')	8010210
+8010211	念法	\N	niàn fǎ	to recollect or chant the Dharma; dharmānusmṛti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 六念 'six contemplations' (Ding '念法'; FGDB '念法')	8010211
+8010212	决择分	決擇分	jué zhái fēn	ability in judgement and selection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 順決擇分 (FGDB '順決擇分')	8010212
+8010213	河	\N	hé	river; nadī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nadī, or: ogha, Japanese: ka, Tibetan: chu bo (BCSD '河', p. 711; Mahāvyutpatti 'oghaḥ'; MW 'nadī'; SH '河', p. 265; Unihan '河')	8010213
+8010214	顺决择分	順決擇分	shùn jué zhái fēn	ability in judgement and selection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In this multiword expression 決 means to judge and 擇 means to distinguish (Ding '決擇分'; FGDB '順決擇分')	8010214
+8010215	场杖	場杖	chǎngzhàng	abbot's staff	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Mathews 1931 '場杖', p. 22)	8010215
+8010216	沸	\N	fèi	Pusya; Puṣya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṣya, Pali: Phussa, Japanese: futsu (BCSD '沸', p. 711; Edgerton 1953 'puṣya', p. 350; Karashima 1994, s.v. '沸'; MW 'puṣya'; Unihan '沸')	8010216
+8010217	常精进菩萨	常精進菩薩	chángjīngjìn púsà	Nityodyukta bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '常精進菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8010217
+8010218	四善根	\N	sì shàn gēn	ability in judgement and selection; the four wholesome roots	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catuṣkuśalamūla; see 順決擇分 (SH '四善根', p. 172)	8010218
