@@ -543,7 +543,7 @@
 8000543	摄相归性体	攝相歸性體	shè xiāng guī xìng tǐ	attributes held together are returned to their own essence	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四重出體 'four kinds of putting forth a body' as described by the Faxiang School (Ding '攝相歸性體'; FGDB '攝相歸性體')	8000543
 8000544	诸法	諸法	zhū fǎ	all things; all dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvadharma (Ding '諸法'; FGDB '諸法'; SH '諸法', p. 450; Sharf 2005, p. 169)	8000544
 8000545	慈恩宗	\N	Cí'ēn Zōng	Faxiang School; Ci'en School; Dharmalaksana School	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	See 法相宗 (FGDB '法相宗)	8000545
-8000546	妙法莲华经	妙法蓮華經	Miàofǎ Liánhuá Jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharmapuṇḍarīkasūtram, Japanese: Myōhō-renge-kyō, Tibetan: Dam pa'i chos padma dkar po'i mdo; the title of the popular version translated by Kumārajīva (BL 'Saddharmapuṇḍarīkasūtra', pp. 729-730; Daitō Shuppansha 1991 'Myōhō-renge-kyō'; FGDB '妙法蓮華經'; KDC 116; Williams 2009, pp. 149-171; T 0262)	8000546
+8000546	妙法莲华经	妙法蓮華經	Miàofǎ Liánhuá Jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharmapuṇḍarīkasūtram, Japanese: Myōhō-renge-kyō, Tibetan: Dam pa'i chos padma dkar po'i mdo; the title of the popular version translated by Kumārajīva (BL 'Saddharmapuṇḍarīkasūtra', pp. 729-730; Daitō Shuppansha 1991 'Myōhō-renge-kyō'; FGDB '妙法蓮華經'; KDC 116; Reeves 2008; Williams 2009, pp. 149-171; T 0262)	8000546
 8000547	妙法华经	妙法華經	miào fǎ huà jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000547
 8000548	莲华经	蓮華經	Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000548
 8000549	莲花经	蓮花經	Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000549
@@ -10233,3 +10233,11 @@
 8010233	宝华	寶華	bǎohuà	flowers; jeweled flowers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As an offering (Ding '寶華'; FGDB '寶華'; Karashima 2001 '寶華'; SH '寶華', p. 478)	8010233
 8010234	内法	內法	nèi fǎ	the Buddhadharma; the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '內法'; FGDB '內法'; SH '內法', p. 131)	8010234
 8010235	罗婆	羅婆	luópó	an instant; lava	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lava; an ancient Indian unit of time (Ding '羅婆'; FGDB '羅婆'; SH '羅婆', p. 472)	8010235
+8010236	沾	\N	zhān	wet	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ten (BCSD '沾', p. 712; Unihan '沾')	8010236
+8010237	罗予	羅予	luóyǔ	an instant; lava	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羅婆 (FGDB '羅婆')	8010237
+8010238	僧坊	\N	sēng fāng	monastic quarters	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '僧坊';  Karashima 2001 '僧坊'; SH '僧坊', p. 420)	8010238
+8010239	沿	\N	yán	follow	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: en (BCSD '沿', p. 712; Unihan '沿')	8010239
+8010240	户鈎	戶鈎	hùgōu	door key; door bolt	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratitālaka, or: tālaka (BCSD '戶鈎', p. 523; Edgerton 1953 'pratitālaka', p. 363; MW 'pratitālaka')	8010240
+8010241	户鈎	戶鈎	hùgōu	door ornament	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tālaka; shaped like a palm-leaf, placed on a door by a monastic after the householder has given alms (Edgerton 1953 'tālaka', p. 252; MW 'tālaka'; T 2128, 54.0611b19, Scroll 46)	8010240
+8010242	僧房	\N	sēng fáng	monastic quarters	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧坊 (Ding '僧坊')	8010242
+8010243	无漏智	無漏智	wú lòu zhì	wisdom with no outflows; wisdom with no depravity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無漏智'; FGDB '無漏智'; Karashima 2001 '無漏智')	8010243
