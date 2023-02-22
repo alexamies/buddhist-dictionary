@@ -3618,7 +3618,7 @@
 8003618	恶	惡	è	evil	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akuśala, or: kuhanā, Japanese: aku, Tibetan: ngan pa (BCSD '惡', p. 486; DJBT '惡', p. 426; FGDB '惡'; JEBD 'aku', p. 6;  Mahāvyutpatti 'kuhanā'; MW 'akuśala'; SH '惡', p. 371)	8003234
 8003619	恶魔	惡魔	èmó	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '惡魔'; SH '惡魔', p. 372)	8003619
 8003620	邪魔外道	\N	xiémó wài dào	evil behavior; an evil cult	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '邪魔外道'; SH '邪魔外道', p. 247)	8003620
-8003621	注	註	zhù	record; note; annotate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛtti; Japanese: chū, Tibetan: 'grel ba (DJBT '註', p. 426; Mahāvyutpatti 'vṛttiḥ'; MW 'vṛtti')	8003621
+8003621	注	註	zhù	record; note; annotate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛtti; Japanese: chū, Tibetan: 'grel ba (BCSD '註', p. 721; DJBT '註', p. 426; Mahāvyutpatti 'vṛttiḥ'; MW 'vṛtti')	8003621
 8003622	妄见	妄見	wàngjiàn	a delusion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '妄見'; SH '妄見', p. 210)	8003622
 8003623	永	\N	yǒng	eternal	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sadā, Japanese: ei, or: yō (BCSD '永', p. 703; DJBT '永', p. 436; MW 'sadā'; SH '永', p 194)	8003623
 8003624	倒见	倒見	dǎojiàn	a delusion where the opposite of the truth is believed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '倒見')	8003624
@@ -10276,3 +10276,26 @@
 8010276	第八识	第八識	dìbā shí	eighth consciousness; ālayavijñāna	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿賴耶識 (FGDB '阿賴耶識')	8010276
 8010277	波	\N	bō	wave; taraṅga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: taraṅga (BCSD '波', p. 719; SH '波', p. 265)	8003273
 8010278	儒童	\N	rútóng	a young boy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '儒童'; FGDB '儒童'; SH '儒童菩薩', p. 446)	8010278
+8010279	仁童子	\N	réntóngzǐ	a young boy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 儒童 (FGDB '儒童')	8010279
+8010280	泣	\N	qì	cry; rud	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rud, Japanese: kyū (BCSD '泣', p. 721; MW 'rud'; Unihan '泣')	8010280
+8010281	净持	淨持	jìngchí	a young boy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 儒童 (FGDB '儒童')	8010281
+8010282	意言	\N	yìyán	mental discussion	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '意言'; SH '意言', p. 400)	8010282
+8010283	泥	\N	ní	mud; paṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṅka, Japanese: dei (BCSD '泥', p. 721; MW 'paṅka'; Unihan '泥')	8010283
+8010284	俱夷	\N	jūyí	Kausika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kauśika; a family name (BCSD '俱夷', p. 140; Edgerton 1953 'kauśika', p. 196; MW 'kauśika')	8010284
+8010285	黑闇	\N	hēi àn	dark with no wisdom; ignorant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '黑闇'; FGDB '黑闇'; SH '黑闇', p. 395)	8010285
+8010286	泮	\N	pàn	paṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṃ, Japanese: han (BCSD '泮', p. 722; MW 'paṅka'; Unihan '泮')	8010286
+8010287	外法	\N	wài fǎ	outside teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Non-Buddhist teachings (Ding '外法'; FGDB '外法'; SH '外法', p. 184)	8010287
+8010288	缠缚	纏縛	chánfú	to bind; to bond	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '纏縛'; FGDB '纏縛'; SH '纏縛', p. 484)	8010288
+8010289	泯	\N	mǐn	ruin; apagata	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apagata, Japanese: bin, or: ben, or: min (BCSD '泯', p. 722; MW 'apagata'; SH '泯', p. 265; Unihan '泯')	8010289
+8010290	十利	\N	shí lì	ten benefits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several groups of ten (Ding '十利'; FGDB '十利'; SH '十利', p. 46)	8010290
+8010291	入室	\N	rù shì	to enter the master's study	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '入室'; FGDB '入室'; SH '入室', p. 33)	8010291
+8010292	泰	\N	tài	prosperous	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tai (BCSD '泰', p. 722; SH '泰', p. 328; Unihan '泰')	8010292
+8010293	开室	開室	kāi shì	to enter the master's study	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 入室 (FGDB '入室')	8010293
+8010294	意和同悦	意和同悅	yì hé tóng yuè	Mental harmony through shared happiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '僧伽'; Tzu Chuang 2012)	8010294
+8010295	泱	\N	yāng	great	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ou, or: ei (BCSD '泱', p. 722; Unihan '泱')	8010295
+8010296	不淫	\N	bù yín	Refrain from sexual conduct	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '戒'; Tzu Chuang 2012)	8010296
+8010297	部派佛教时期	部派佛教時期	bù pài fó jiāo shí qī	The Period of Sectarian Buddhism	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010297
+8010298	洄	\N	huí	a whirlpool	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kai, or: gai (BCSD '洄', p. 722; Unihan '洄')	8010298
+8010299	大叫换地狱	大叫換地獄	dà jiào huàn dì yù	Maharaurava Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛學'; Tzu Chuang 2012)	8010299
+8010300	缘起论	緣起論	yuánqǐ lùn	theory of dependent origination; dependent arising	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '緣起論')	8010300
+8010301	上品下生	\N	shàng pǐn xià shēng	Bottom of the Highest Grade	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '九品往生'; SH '上品上生', p. 56 Tzu Chuang 2012)	8010301
