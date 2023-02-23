@@ -543,7 +543,7 @@
 8000543	摄相归性体	攝相歸性體	shè xiāng guī xìng tǐ	attributes held together are returned to their own essence	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四重出體 'four kinds of putting forth a body' as described by the Faxiang School (Ding '攝相歸性體'; FGDB '攝相歸性體')	8000543
 8000544	诸法	諸法	zhū fǎ	all things; all dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvadharma (Ding '諸法'; FGDB '諸法'; SH '諸法', p. 450; Sharf 2005, p. 169)	8000544
 8000545	慈恩宗	\N	Cí'ēn Zōng	Faxiang School; Ci'en School; Dharmalaksana School	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	See 法相宗 (FGDB '法相宗)	8000545
-8000546	妙法莲华经	妙法蓮華經	Miàofǎ Liánhuá Jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharmapuṇḍarīkasūtram, Japanese: Myōhō-renge-kyō, Tibetan: Dam pa'i chos padma dkar po'i mdo; the title of the popular version translated by Kumārajīva (BL 'Saddharmapuṇḍarīkasūtra', pp. 729-730; Daitō Shuppansha 1991 'Myōhō-renge-kyō'; FGDB '妙法蓮華經'; KDC 116; Reeves 2008; Williams 2009, pp. 149-171; T 0262)	8000546
+8000546	妙法莲华经	妙法蓮華經	miàofǎ liánhuá jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharmapuṇḍarīkasūtram, Japanese: Myōhō-renge-kyō, Tibetan: Dam pa'i chos padma dkar po'i mdo; the title of the popular version translated by Kumārajīva (BL 'Saddharmapuṇḍarīkasūtra', pp. 729-730; Daitō Shuppansha 1991 'Myōhō-renge-kyō'; FGDB '妙法蓮華經'; KDC 116; Reeves 2008; Williams 2009, pp. 149-171; T 0262)	8000546
 8000547	妙法华经	妙法華經	miào fǎ huà jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000547
 8000548	莲华经	蓮華經	Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000548
 8000549	莲花经	蓮花經	Liánhuā Jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000549
@@ -10302,6 +10302,17 @@
 8010302	洋	\N	yáng	ocean	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: you, or: shou (BCSD '洋', p. 722; Unihan '洋')	8010302
 8010303	皆有佛性	\N	jiēyǒu fóxìng	possess the Buddha-nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一切眾生皆有佛性')	8010303
 8010304	佛陀本生故事	\N	fótuó běnshēng gùshì	jataka tales	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '本生 (佛教)')	8010304
-8010305	北俱庐洲	北俱廬洲	běi jū lú zhōu	Uttara-kuru; Uttara-kuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010305
-8010306	等活地狱	等活地獄	děng huó dì yù	Samjiva Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010306
-8010307	着境不舍	著境不捨	zhe jìng bù shě	attachment to their surroundings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010307
+8010305	北俱庐洲	北俱廬洲	běi jū lú zhōu	Uttara-kuru; Uttara-kuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 北俱盧洲 (Tzu Chuang 2012)	8010305
+8010306	等活地狱	等活地獄	děng huó dì yù	Samjiva Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjīva, Pali: saṃjīva (FGDB '等活地獄'; SH '等活地獄', p. 385; Tzu Chuang 2012)	8010306
+8010307	着境不舍	著境不捨	zhe jìng bù shě	attachment to their surroundings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天人五衰'; Tzu Chuang 2012)	8010307
+8010308	更活地狱	更活地獄	gèng huó dìyù	Samjiva Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjīva, Pali: saṃjīva; see 等活地獄 (FGDB '等活地獄')	8010308
+8010309	又活地狱	又活地獄	yòu huó dìyù	Samjiva Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjīva, Pali: saṃjīva; see 等活地獄 (FGDB '等活地獄')	8010309
+8010310	更生地狱	更生地獄	gèng shēng dìyù	Samjiva Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjīva, Pali: saṃjīva; see 等活地獄 (FGDB '等活地獄')	8010310
+8010311	想地狱	想地獄	xiǎng dìyù	Samjiva Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjīva, Pali: saṃjīva; see 等活地獄 (FGDB '等活地獄')	8010311
+8010312	叙事诗梵语	敘事詩梵語	xùshìshī fànyǔ	Epic Sanskrit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '梵語')	8010312
+8010313	断善阐提	斷善闡提	duàn shàn chǎn tí	Icchantikas of Eradicated Goodness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '斷善闡提'; Tzu Chuang 2012)	8010313
+8010314	字汇	字彙	zìhuì	glossary; nighaṇṭu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nighaṇṭu (FGDB '梵語'; MW 'nighaṇṭu')	8010314
+8010315	尼鹿多论	尼鹿多論	nílùduōlùn	nirukta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirukta; the explanation of words (FGDB '梵語'; MW 'nirukta')	8010315
+8010316	真实三宝	真實三寶	zhēn shí sān bǎo	True Triple Gem	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '別體三寶'; Tzu Chuang 2012)	8010316
+8010317	年幼沙弥	年幼沙彌	nián yòu shā mí	Small Young Novices	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010317
+8010318	有友如秤	\N	yǒu yǒu rú chèng	Friendship Like a Balance-scale	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010318
