@@ -1292,7 +1292,7 @@
 7001292	毘尼藏	\N	píní Zàng	Collection of Monastic Rules; Vinaya; Vinayapiṭaka; Vinaya Piṭaka	proper noun	\N	\N	佛教	Buddhism	南傳佛教	Theravada	\N	\N	See 律藏 (SH '律藏', p. 301)	7001292
 7001293	月称	月稱	Yuè Chēng	Candrakirti	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Candrakīrti an Indian scholar, a khenpo of Nālandā Mahāvihāra, and a disciple of Nāgārjuna (FGDB '月稱')	7001293
 7001294	那烂陀寺	那爛陀寺	Nàlàntuósì	Nālandā Temple	proper noun	寺院	Monastery	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nālandā, Japanese: Narandaji; the temple and university that was an important Buddhist center in ancient India (BL 'Nālandā'; FGDB '那爛陀寺')	7001294
-7001295	经量部	經量部	jīngliàngbù	Sautrāntika; Sautrantika	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: sautrāntika, Japanese: Kyōryōbu; literally, 'followers of the sūtras', the Sautrāntika were an early Indian Buddhist school (BL 'Sautrāntika'; FGDB '經量部')	7001295
+7001295	法华経	法華経	fǎ huá jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Japanese abbreviation; see 妙法蓮華經 (Reeves 2008, p. 1)	7001295
 7001296	法盛	\N	fǎshèng	Fasheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	A Chinese monk who lived during the Northern dynasties, translated some texts in the Chinese Buddhist canon (FGDB '法盛')	7001296
 7001297	清辩	清辯	qīng Biàn	Bhāviveka	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	See 清辨 (FGDB '清辨')	7001297
 7001298	马鸣	馬鳴	Mǎ míng	Aśvaghoṣa; Asvaghosa	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Aśvaghoṣa, c. 80-150 CE an Indian philosopher-poet, known for composition of the 佛所行讚 Buddhacarita (BL 'Aśvaghoṣa'; FGDB '馬鳴'; KDC '980'; T 192)	7001298
@@ -5052,7 +5052,7 @@
 7005052	安宅陀罗尼呪经	安宅陀羅尼呪經	ān zhái tuóluóní zhòu jīng	Peaceful Habitation Dharani Sutra; An Zhai Tuoluoni Zhou Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 438h; T 1029)	7005052
 7005053	一切如来心秘密全身舍利宝箧印陀罗尼经	一切如來心祕密全身舍利寶篋印陀羅尼經	yīqiè Rúlái xīn mìmì quánshēn shèlì bǎo qiè yìn tuóluóní jīng	The Scripture of the Mudrās and Dhāraṇīs of the Precious Repository of the Secret Whole-body Śarīra of all the Tathāgata; Yiqie Rulai Xin Mimi Quanshen Sheli Bao Qie Yin Tuoluoni Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: sarvatathāgatādhiṣṭhānahṛdayaguhyadhātukaraṇḍamudrādhāraṇī; the title of a text in the Chinese Buddhist canon (Orzech and Sørensen 2011a, p. 150; T 1022A)	7005053
 7005054	贤寂	賢寂	xián jì	Devakṣema	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 提婆設摩 (FGDB '提婆設摩')	7005054
-7005055	世友	\N	shì yǒu	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Buddhist monastic from the Sarvāstivāda school, noted in the Chinese Buddhist canon as composing 《阿毘達磨界身足論》 Abhidharmadhātukāyapādaśāśtra (BL 'Vasumitra; Shi You'; FGDB '世友'; KDC 948; T 1540)	7005055
+7005055	世友	\N	shì yǒu	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Buddhist monastic from the Sarvāstivāda school, noted in the Chinese Buddhist canon as composing 阿毘達磨界身足論 Abhidharmadhātukāyapādaśāśtra (BL 'Vasumitra; Shi You'; FGDB '世友'; KDC 948; T 1540)	7005055
 7005056	婆须蜜多	婆須蜜多	póxūmìduō	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 世友 (FGDB '世友')	7005056
 7005057	和须蜜多	和須蜜多	hé xū mì duō	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 世友 (FGDB '世友')	7005057
 7005058	筏苏蜜呾罗	筏蘇蜜呾羅	fásūmìdáluó	Vasumitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 世友 (FGDB '世友')	7005058
@@ -5733,12 +5733,12 @@
 7005733	诫初心学人文	誡初心學人文	Jiè Chū xīn Xuérén Wén	Jie Chu Xin Xueren Wen	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text composed by Chinul included in the Chinese Buddhist canon (KDC 'KS 80'; T 2019B)	7005733
 7005734	佛使比丘迦旃延说法没尽偈百二十章	佛使比丘迦旃延說法沒盡偈百二十章	fó Shǐ Bǐqiū jiāzhānyán shuōfa Méi Jìn Jì Bǎi Èrshí Zhāng	Fo Shi Biqiu Jiazhanyan Shuofa Mei Jin Ji Bai Ershi Zhang	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (KDC 993; T 2029)	7005734
 7005735	大阿罗汉难提蜜多罗所说法住记	大阿羅漢難提蜜多羅所說法住記	dà Āluóhàn nántí Mì Duōluó Suǒ shuōfa Zhù Jì	Nandimitrāvadāna; Da Aluohan Nanti Mi Duoluo Suo Shuofa Zhu Ji	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: Nandimitrāvadāna; the title of a text translated by Xuanzang included in the Chinese Buddhist canon (KDC 1046; T 2030)	7005735
-7005736	异部宗轮论	異部宗輪論	Yì bù zōng Lún lùn	Samayabhedoparacanacakra; The Cycle of the Formation of the Schismatic Doctrines	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: Samayabhedoparacanacakra; the title of a text by Vasumitra included in the Chinese Buddhist canon (KDC 977; T 2031)	7005736
+7005736	异部宗轮论	異部宗輪論	yì bù zōng lún lùn	Samayabhedoparacanacakra; The Cycle of the Formation of the Schismatic Doctrines	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: samayabhedoparacanacakra; the title of a text by 世友 Vasumitra included in the Chinese Buddhist canon describes early Indian Buddhist schools (FGDB '異部宗輪論'; Jaini 1959, p. 236 ; KDC 977; T 2031)	7005736
 7005737	十八部论	十八部論	Shíbā bù lùn	Aṣṭa daśa nikāya śāstra	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: aṣṭadaśanikāyaśāstra; the title of a text translated by Paramārtha included in the Chinese Buddhist canon (Eitel 'Achṭa daśa nikāya śāstra', p. 4; KDC 976; T 2032)	7005737
 7005738	部执异论	部執異論	bù Zhí Yì lùn	Samayabhedoparacanacakra; Bu Zhi Yi Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Sanskrit equivalent: Samayabhedoparacanacakra; the title of a text by 天友菩薩 included in the Chinese Buddhist canon (KDC 975; T 2033)	7005738
 7005739	历代三宝纪	歷代三寶紀	lìdài sān bǎo jì	Record of the Three Jewels throughout Successive Dynasties; Lidai San Bao Ji; Records of the Three Jewels during the Kaihuang Period; Fei Changfang's Record	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	A catalog of canonical texts compiled by 費長房 Fei Zhang Fang in 597 included in the Chinese Buddhist canon (BL 'Lidai Sanbao Ji', pp. 473-474; FGDB '歷代三寶紀'; KDC 1055; Storch 2014, loc. 455; Storch 2016, pp. 129-162; T 2034; Wu 2016, loc. 751)	7005739
 7005740	费长房	費長房	Fèi Zhǎng Fáng	Fei Zhang Fang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Sui dynasty Chinese Buddhist monastic credited with composing 歷代三寶紀 'Lidai San Bao Ji', included in the Chinese Buddhist canon (FGDB '費長房'; KDC 1055; T 2034)	7005740
-7005741	佛祖历代通载	佛祖歷代通載	fó Zǔ Lìdài Tōng Zài	Comprehensive History of the Buddhas and Patriarchs	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text compiled by 念常 Nian Chang included in the Chinese Buddhist canon (T 2036; Hsing Yun and Miao Guang trans. 2016, p. 371)	7005741
+7005741	佛祖历代通载	佛祖歷代通載	fó zǔ lìdài tōng zài	Comprehensive History of the Buddhas and Patriarchs	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text compiled by 念常 Nian Chang included in the Chinese Buddhist canon (T 2036; Hsing Yun and Miao Guang trans. 2016, p. 371)	7005741
 7005742	念常	\N	Niàn Cháng	Nian Chang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	1282-134, Chinese Buddhist monastic credited with composing 佛祖歷代通載 'Fo Zu Lidai Tong Zai', included in the Chinese Buddhist canon (FGDB '念常'; T 2036)	7005742
 7005743	李恒钺	李恒鉞	lǐ héngyuè	Li Hengyue	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	1910-; author of 向受過現代教育的人介紹佛教 'Introduction of Buddhism to Modern Day Intellectuals' (Baidu Baike '李恒钺')	7005743
 7005744	大涅槃经	大涅槃經	dà nièpán jīng	Mahaparinirvana Sutra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	See 大般涅槃經 (Hsing Yun and Miao Guang trans. 2016, p. 372)	7005744
@@ -6005,8 +6005,8 @@
 7006005	老迦叶	老迦葉	lǎojiāyè	Purāṇa Kāśyapa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006005
 7006006	补剌拏迦叶波	補剌拏迦葉波	bǔlánájiāyèbō	Purāṇa Kāśyapa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006006
 7006007	布剌拏迦叶波	布剌拏迦葉波	bùlánájiāyèbō	Purāṇa Kāśyapa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006007
-7006008	富兰那	富蘭那	fùlánnà	Purāṇa Kāśyapa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006008
-7006009	脯剌拏	\N	fǔláná	Purāṇa Kāśyapa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006009
+7006008	富兰那	富蘭那	fùlánnà	Purāṇa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006008
+7006009	脯剌拏	\N	fǔláná	Purāṇa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 富蘭那迦葉 (FGDB '富蘭那迦葉')	7006009
 7006010	阿市多鸡舍甘跋罗	阿市多雞舍甘跋羅	ashìduōjīshègānbáluó	Ajita Keśakambala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耆多翅舍欽婆羅 (FGDB '阿耆多翅舍欽婆羅')	7006010
 7006011	阿支罗翅舍甘婆罗	阿支羅翅舍甘婆羅	azhīluóchìshègānpóluó	Ajita Keśakambala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耆多翅舍欽婆羅 (FGDB '阿耆多翅舍欽婆羅')	7006011
 7006012	阿夷陀翅舍欣婆罗	阿夷陀翅舍欣婆羅	ayítuóchìshèxīnpóluó	Ajita Keśakambala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耆多翅舍欽婆羅 (FGDB '阿耆多翅舍欽婆羅')	7006012
@@ -6979,4 +6979,10 @@
 7006979	七十空性论	七十空性論	qīshí kōng xìng lùn	Seventy Verses on Emptiness; Nāgārjuna's Seventy Stanzas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Śūnyatāsaptatikārikā, or: Śūnyatāsaptati; Sastra by Nagarjuna (FGDB: '七十空性論')	7006979
 7006980	波尔尼	波爾尼	bōěrní	Panini	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: pāṇini; see 波儞尼  (FGDB '梵語')	7006980
 7006981	妙法莲华経	妙法蓮華経	miàofǎ liánhuá jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Japanese variant writing; see 妙法蓮華經 (Reeves 2008, p. 1)	7006981
-167368	法华経	法華経	fǎ huá jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Japanese abbreviation; see 妙法蓮華經 (Reeves 2008, p. 1)	167368
+7006982	法华経	法華経	fǎ huá jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Japanese abbreviation; see 妙法蓮華經 (Reeves 2008, p. 1)	7006982
+7006983	迦腻色迦王	迦膩色迦王	jiānìsèjiā wáng	King Kaniska	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaniṣka; ruler of the Kushan Empire, also written 迦腻色伽一世 (FGDB '迦膩色迦王')	7006983
+7006984	迦腻色迦	迦膩色迦	jiānìsèjiā	Kaniska	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaniṣka; see 迦膩色迦王 (FGDB '迦膩色迦王')	7006984
+7006985	毘舍怯	\N	píshèqiè	Visakha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	7006985
+7006986	钵颠社攞	鉢顛社攞	bōdiānshèluó	Patanjali	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patañjali; a Hindu philosopher, also written 波颠阇利 (FGDB '梵語')	7006986
+7006987	大事	\N	dàshì	Mahavastu	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: mahāvastu; title of a text in the Avadāna genre (Edgerton 1953 'mahāvastu', p. 426; FGDB '大事'; MW 'mahāvastu')	7006987
+7006988	艾吉顿	艾吉頓	àijídùn	Edgerton	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教梵語')	7006988

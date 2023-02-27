@@ -1792,7 +1792,7 @@
 8001792	三十七品	\N	sānshíqī pǐn	thirty-seven qualities [related to enlightenment]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001792
 8001793	三十七菩提分法	\N	sān shí qī pútí fēn fǎ	Bodhipakkhiyadhamma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001793
 8001794	阿毗达磨	阿毗達磨	Āpídámó	Abhidharma; Abhidhamma Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (Eitel 'Abhidharma' p. 1)	8001794
-8001795	阿毘昙	阿毘曇	Āpítán	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma, Japanese: Abidatsuma; Early Buddhist commentaries on the Buddha's teachings. The version in the Chinese Buddhist canon is a translation of the version of the Sarvāstivāda school (BCSD '阿毘曇', p. 1204; BL 'Abhidharma', p. 4; Ding '阿毘曇'; Dutt 1970, pp. 152-170; Eitel 'Abhidharma' p. 1; FGDB '小乘論'; Williams 2009, pp. 15-18).	8001795
+8001795	阿毘昙	阿毘曇	Āpítán	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma, Japanese: Abidatsuma; Early Buddhist systemization of the content of the sutras. The version in the Chinese Buddhist canon is a translation of the version of the Sarvāstivāda school (BCSD '阿毘曇', p. 1204; BL 'Abhidharma', p. 4; Ding '阿毘曇'; Dutt 1970, pp. 152-170; Eitel 'Abhidharma' p. 1; FGDB '小乘論'; Williams 2009, pp. 15-18).	8001795
 8001796	安那般那	\N	ānnàbānnà	mindfulness of breathing; anapanasati	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿那波那 (FGDB '阿那波那')	8001796
 8001797	六处	六處	liù chù	the six sense organs; sadayatana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六入 (FGDB '六入')	8001797
 8001798	正尽觉	正盡覺	zhèngjìnjué	sambodhi; saṃbodhi; enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正覺 (FGDB '正覺')	8001798
@@ -4432,7 +4432,7 @@
 8004432	十界互具	\N	shí Jiè hù jù	mutual containment of the ten dharma realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十界互具'; Tzu Chuang 2012, pp. 228-230)	8004432
 8004433	三世间	三世間	sān shìjiān	Three Continuums	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Continuum of sentience, 2. continuum of matter, 3. continuum of the five aggregates (Tzu Chuang 2012, pp. 228-230)	8004433
 8004434	法华七喻	法華七喻	Fǎ Huà qī yù	seven parables of the Lotus Sutra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) The parable of burning house 火宅喻 (2) the parable of the poor son 穷子喻 (3) the parable of medicinal herbs 药草喻 (4) the parable of the manifested city 化城喻 (5) the parable of the pearl in the clothing 衣珠喻 (6) the parable of the pearl in the topknot 髻珠喻 (7) the parable of the good doctor 医子喻 (Tzu Chuang 2012, pp. 234-238)	8004434
-8004435	火宅喻	\N	huǒ zhái yù	The parable of the burning house	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004435
+8004435	火宅喻	\N	huǒ zhái yù	parable of the burning house	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (FGDB '法華七喻'; Tzu Chuang 2012, pp. 234-238)	8004435
 8004436	穷子喻	窮子喻	qióng zǐ yù	parable of the poor son	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004436
 8004437	药草喻	藥草喻	yào cǎo yù	parable of the medicinal herbs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the seven parables of the Lotus Sutra (Tzu Chuang 2012, pp. 234-238)	8004437
 8004438	小	\N	xiǎo	small; alpa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpa, Japanese: shou, Tibetan: chung ba (BCSD '小', p. 396; Mahāvyutpatti 'alpaḥ'; MW 'alpa'; SH '小', p. 98; Unihan '小')	8004438
@@ -6961,7 +6961,7 @@
 8006961	累	\N	lěi	accumulate; saṃci	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃci, or: rāśīkṛta, Japanese: rui (BCSD '累', p. 928; MW 'saṃci'; SH '累', p. 362; Unihan '累')	8006961
 8006962	劳	勞	láo	tired; exhausted; śrānta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrānta (BCSD '勞', p. 209; MW 'śrānta')	8006240
 8006963	药山陞座	藥山陞座	yàoshān shēngzuò	Yaoshan addresses the assembly	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Title of Koan 6 in 從容錄 “Congrong Lu” (reworded from Cleary 2005, p. 28; FGDB '藥山陞座'; T 2004, Scroll 1; Wick 2005, p. 22)	8006963
-8006964	种子	種子	zhǒngzi	bīja; seed; karmic seed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zhong3zi.mp3	Sanskrit equivalent: bīja, Pali: bīja, Japanese: shuji; a metaphor for actions creating the potential for later fruition (BL 'bija'; FGDB '種子')	8006964
+8006964	种子	種子	zhǒngzi	bīja; seed; karmic seed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zhong3zi.mp3	Sanskrit equivalent: bīja, Pali: bīja, Japanese: shuji; a metaphor for actions creating the potential for later fruition (BL 'bija'; FGDB '種子'; Jaini 1959, pp. 236-249; SH '種子', p. 426)	8006964
 8006965	仰覆世界	\N	yǎng fù shìjiè	to look up at the world or to look down at the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '仰覆世界')	8006965
 8006966	心业功德	心業功德	xīnyè gōngdé	merit arising from mental karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '心業功德')	8006966
 8006967	一切智智	\N	yīqiè zhì zhì	sarvajñāta; sarvajña-jñāta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñāta, referring to the knowledge of a Buddha (BL 'sarvajñāta'; Conze, 1973, p. 303; FDC '一切智智'; FGDB '一切智智'; Hirakawa '一切智智')	8006967
@@ -10323,4 +10323,34 @@
 8010323	洗	\N	xǐ	wash; dhāv	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāv, or: snāpana, Japanese: sen, Tibetan: bkru ba (BCSD '洗', p. 722; Mahāvyutpatti 'snāpanam'; MW 'dhāv'; SH '洗', p. 308; Unihan '洗')	8010323
 8010324	头上华萎	頭上華萎	tóu shàng huà wěi	garland atop the head fades	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天人五衰'; Tzu Chuang 2012)	8010324
 8010325	不妄语	不妄語	bù wàng yǔ	refrain from lying	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: musāvādā-veramaṇī, Tibetan: brdzun du smra ba spong ba (FGDB '五戒'; Mahāvyutpatti 'mṛṣāvādaviratiḥ'; SH '不妄語', p. 106; Tzu Chuang 2012)	8010325
-8010326	洞	\N	dòng	cave; guhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhā, Japanese: dou, or: tou (BCSD '洞', p. 722; Edgerton 1953 'guhā', p. 214;MW 'guhā'; SH '洞', p. 308; Unihan '洞')	8010326
+8010326	洞	\N	dòng	cave; guhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guhā, Japanese: dou, or: tou (BCSD '洞', p. 722; Edgerton 1953 'guhā', p. 214; MW 'guhā'; SH '洞', p. 308; Unihan '洞')	8010326
+8010327	经量部	經量部	jīng liàng bù	Sautrantika	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: sautrāntika, Japanese: Kyōryōbu; literally, 'followers of the sūtras', the Sautrāntika were an Indian Buddhist school (BL 'Sautrāntika'; FGDB '經量部'; Jaini 1959, pp. 236-249; Williams and Tribe 2000, p. 87)	8010327
+8010328	施物	\N	shī wù	gift	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '布施'; Tzu Chuang 2012)	8010328
+8010329	洟	\N	yí	phlegm; kheṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kheṭa, Pali: kheḷa, Japanese: i, or: tei (BCSD '洟', p. 722; Edgerton 1953 'kheṭa', p. 206; MW 'kheṭa'; Unihan '洟')	8010329
+8010330	渐次止观	漸次止觀	jiàn cì zhǐ guān	gradual stopping and seeing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '漸次止觀'; Tzu Chuang 2012)	8010330
+8010331	下品中生	\N	xià pǐn zhōng shēng	middle of the lowest grade	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '九品往生'; Tzu Chuang 2012)	8010331
+8010332	业种子	業種子	yè zhǒngzi	karmic seed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '業種子')	8010332
+8010333	业习气	業習氣	yè xíqì	karmic predisposition	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma-vāsanā; see 業種子 (FGDB '業種子')	8010333
+8010334	异熟习气	異熟習氣	yìshú xíqì	karmic predisposition	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業種子 (FGDB '業種子')	8010334
+8010335	有支习气	有支習氣	yǒuzhī xíqì	karmic predisposition	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業種子 (FGDB '業種子')	8010335
+8010336	有分熏种子	有分熏種子	yǒufēn xūn zhǒngzi	karmic seed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業種子 (FGDB '業種子')	8010336
+8010337	有受尽相种子	有受盡相種子	yǒu shòu jìn xiāng zhǒngzi	karmic seed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業種子 (FGDB '業種子')	8010337
+8010338	业种	業種	yè zhǒng	karmic seed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業種子 (FGDB '業種子')	8010338
+8010339	津	\N	jīn	a ford; tīrtha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tīrtha, Japanese: shin (BCSD '津', p. 722; MW 'tīrtha'; SH '津', p. 308; Unihan '津')	8010339
+8010340	津	\N	jīn	shore; tīra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tīra, Tibetan: 'gram mam ngogs (BCSD '津', p. 722; Mahāvyutpatti 'tīram'; MW 'tīra')	8010339
+8010341	津	\N	jīn	canal; garta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gartaḥ, Tibetan: khung ngam dong (BCSD '津', p. 722; Mahāvyutpatti 'garta'; MW 'garta')	8010339
+8010342	眼目数瞬	眼目數瞬	yǎn mù shǔ shùn	eyes start blinking	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天人五衰'; Tzu Chuang 2012)	8010342
+8010343	四大皆空	\N	sì dà jiē kōng	four great elements are all empty of inherent existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四大皆空'; Tzu Chuang 2012)	8010343
+8010344	洪	\N	hóng	vast; bṛhat	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bṛhat, Japanese: kou (BCSD '洪', p. 723; MW 'bṛhat'; Unihan '洪')	8010344
+8010345	住持三宝	住持三寶	zhù chí sān bǎo	maintained Triple Gem	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '住持三寶'; FGDB '住持三寶'; Tzu Chuang 2012)	8010345
+8010346	依法不依人	\N	yī fǎ bù yī rén	rely on the Dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '依法不依人'; SH '依法不依人', p. 249; Tzu Chuang 2012)	8010346
+8010347	本经	本經	běnjīng	scriptural story	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '本經')	8010347
+8010348	沤波罗地狱	漚波羅地獄	ōu bō luó dì yù	Utpala Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010348
+8010349	上品上生	\N	shàng pǐn shàng shēng	The Top of the Highest Grade	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010349
+8010350	美文体	美文體	měiwéntǐ	Kavya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāvya; Indian literary style (FGDB '梵語')	8010350
+8010351	佛教梵语	佛教梵語	fójiào fànyǔ	Buddhist Sanskrit	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教梵語')	8010351
+8010352	佛教混淆梵语	佛教混淆梵語	fójiào hùnxiáo fànyǔ	Buddhist Hybrid Sanskrit	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Edgerton 1953; FGDB '梵語')	8010352
+8010353	腋下出汗	\N	yè xià chū hàn	armpits become sweaty	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五衰'; Tzu Chuang 2012)	8010353
+8010354	在长寿天难	在長壽天難	zài zhǎng shòu tiān nán	The Long-life Heaven	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八難'; Tzu Chuang 2012)	8010354
+8010355	不偷盗	不偷盜	bù tōu dào	refrain from stealing	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Eitel 'Adinnādānā veramaṇī', p. 4; Tzu Chuang 2012)	8010355
+8010356	受苦无间	受苦無間	shòu kǔ wú jiān	uninterrupted suffering	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '無間地獄'; Tzu Chuang 2012)	8010356
