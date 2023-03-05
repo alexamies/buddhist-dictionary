@@ -788,7 +788,7 @@
 7000788	百丈	\N	bǎizhàng	Baizhang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 百丈懷海 (Hsing Yun 2010)	7000788
 7000789	斋日	齋日	zhāirì	the Day of Purification	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '齋日'; Hundred Lessons, SH '齋日', p. 464)	7000789
 7000790	给孤	給孤	gěigū	Anāthapiṇḍada	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 須達 (FGDB '須達')	7000790
-7000791	龙猛	龍猛	Lóng Měng	Nagarjuna	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nāgārjuna, (c. 150 - 250 CE) founder of the Madhyamaka school of Mahāyāna Buddhism (SH '龍猛', p. 455)	7000791
+7000791	龙猛	龍猛	lóngměng	Nagarjuna	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	See 龍樹 (SH '龍猛', p. 455)	7000791
 7000792	迦叶摩腾	迦葉摩騰	jiāyèmóténg	Kāśyapa-mātaṅga; Kasyapa Matanga	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāśyapamātaṅga; one of the first Indian monks to travell to China, sometime in the Eastern Han (Ding '迦葉摩騰'; FGDB '迦葉摩騰')	7000792
 7000793	竺法兰	竺法蘭	zhúfǎlán	Dharmaratna; Gobharana	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	One of the first Indian monks to travell to China, sometime in the Eastern Han (FGDB '竺法蘭')	7000793
 7000794	大爱道	大愛道	dà'àidào	Maha-prajapti	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	(FGDB '大愛道比丘尼經')	7000794
@@ -811,8 +811,8 @@
 7000811	莲花生	蓮花生	liánhuāshēng	Padmasambhava	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Said to have transmitted Tantric Buddhism to Bhutan and Tibet (Wikipedia '蓮花生')	7000811
 7000812	智顗	\N	Zhìyǐ	Zhi Yi; Chih-i	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Wade-Giles: Chih-i 538-597, third patriarch of the Tiantai School of Buddhism (Ding '智顗'; FGDB '智顗'; SH '智顗')	7000812
 7000813	吉藏	\N	Jí Zàng	Jizang	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	549-623 CE; founder of the Sanlun School of Buddhism (BL 'Jizang'; Ding '吉藏'; FGDB '吉藏')	7000813
-7000814	龙树	龍樹	lóng shù	Nāgārjuna	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nāgārjuna (c. 150 - 250 CE) Indian monastic and philosopher, attributed with composing the 中論 'Fundamental Verses on the Middle Way' (BL 'nāgārjuna'; FGDB '龍樹')	7000814
-7000815	提婆	\N	típó	Āryadeva; Deva	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āryadeva, 3rd Century CE Indian Buddhist, a disciple of Nagarjuna (BL 'Āryadeva'; FGDB '提婆')	7000815
+7000814	龙树	龍樹	lóng shù	Nagarjuna	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nāgārjunaJ, Japanese: Ryūju, Tibetan: klu sgrub; c. 150 - 250 CE, Indian monastic and philosopher, attributed with composing the 中論 'Fundamental Verses on the Middle Way' (BL 'nāgārjuna'; FGDB '龍樹'; Warder 2000, pp. 356-367; Williams 2009, 63-83)	7000814
+7000815	提婆	\N	típó	Aryadeva; Deva	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āryadeva; 3rd Century CE Indian Buddhist, a disciple of Nagarjuna; see 迦那提婆 (BL 'Āryadeva'; FGDB '迦那提婆'; Warder 2000, p. 368)	7000815
 7000816	法藏	\N	fǎzàng	Fazang	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Japanese: Hōzō; 643-712 CE; the third patriarch of the 華嚴宗 Huayan School of Buddhism; given the title 國師 'State Preceptor'; composed 《大乘起信論義記》 “Notes on the Meaning of Treatise on the Awakening of Faith in the Mahāyāna” (BL 'Fazang'; FGDB '法藏')	7000816
 7000817	慈惠	\N	Cí Huì fǎshī	Venerable Tzu Hui	proper noun	法师	Monastic	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	(FGDB '慈惠')	7000817
 7000818	印顺法师	印順法師	yìnshùn fǎshī	Yin Shun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 印順 (Wikipedia '印顺法师')	7000818
@@ -1285,9 +1285,9 @@
 7001285	竺仙梵仙	竺仙梵僊	Zhú Xiān fàn Xiān	Jikusen Bonsen	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1292-1348; Japanese monk (Wikipedia '竺仙梵仙')	7001285
 7001286	达磨般若	達磨般若	dámóbōrě	Gautama Dharmaprajña	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 瞿昙法智 (BSAD '瞿昙法智', ID A001879)	7001286
 7001287	分别善恶报应经	分別善惡報應經	Fēnbié Shàn È Bào yīng jīng	Fenbie Shan E Bao Ying Jing; Śukasūtra	proper noun	经	Sutra	佛教	Buddhism	Theravāda	上座部佛教	\N	\N	Sanskrit equivalent: Śukasūtra; a sūtra in the Āgama section of the Chinese Buddhist Canon (T 81; KDC 'K 1098')	7001287
-7001288	沮渠京声	沮渠京聲	Jǔqú jīngshēng	Juqu Jingsheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	-464; Xiongnu Buddhist and translator who travelled to China in the Northern Liang (FGDB '沮渠京聲')	7001288
+7001288	沮渠京声	沮渠京聲	jǔqú jīngshēng	Juqu Jingsheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	-464; Xiongnu Buddhist and translator who travelled to China in the Northern Liang (FGDB '沮渠京聲')	7001288
 7001289	莲花戒	蓮花戒	liánhuā Jiè	Kamalasila	proper noun	师父	Monastic	佛教	Buddhism	西藏	Tibet	\N	\N	Sanskrit equivalent: kamalaśīla, Tibetan: Ka ma la shī la, fl. 713-763; an Indian Buddhist who travelled to Tibet, known for composing the Bhāvanākrama 'Stages of Meditation' (BL 'Kamalaśīla', pp. 411-412; Wikipedia '蓮花戒'; Powers 2007, p. 86)	7001289
-7001290	中观派	中觀派	Zhōng guān pài	Madhyamaka; Sanlun School; Three Sastra School	proper noun	宗	School	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Madhyamaka, Japanese: Chūgan; also see 三論宗 (BL 'Madhyamaka'; FGDB '中觀派')	7001290
+7001290	罗喉罗跋多罗	羅睺羅跋多羅	luóhóuluóbáduōluó	Rahulabhadra	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: rāhulabhadra; see 羅睺羅跋陀羅 (FGDG '中觀派')	7001290
 7001291	迦留陀伽	\N	jiāliútuójiā	 Kalodaka; Kālodaka	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Monastic from the Western Regions who travelled to China in the Eastern Jin; translated Shi Er You Jing 《佛說十二遊經》 (FGDB '迦留陀伽'; T 195; KDC 'K 1009')	7001291
 7001292	毘尼藏	\N	píní Zàng	Collection of Monastic Rules; Vinaya; Vinayapiṭaka; Vinaya Piṭaka	proper noun	\N	\N	佛教	Buddhism	南傳佛教	Theravada	\N	\N	See 律藏 (SH '律藏', p. 301)	7001292
 7001293	月称	月稱	Yuè Chēng	Candrakirti	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Candrakīrti an Indian scholar, a khenpo of Nālandā Mahāvihāra, and a disciple of Nāgārjuna (FGDB '月稱')	7001293
@@ -6987,3 +6987,4 @@
 7006987	大事	\N	dàshì	Mahavastu	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: mahāvastu; title of a text in the Avadāna genre (Edgerton 1953 'mahāvastu', p. 426; FGDB '大事'; MW 'mahāvastu')	7006987
 7006988	艾吉顿	艾吉頓	àijídùn	Edgerton	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教梵語')	7006988
 7006989	阿泥豆豆	阿泥盧豆	Ānílútuó	Aniruddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aniruddha, Pāli: anuruddha; a variant writing found in Scroll 1 of the 出三藏記集 Collection of Records Concerning the Chinese Buddhist Canon, see 阿尼律陀 (Link 1961, p. 91; T 2145, 55.0001b24)	7006989
+7006990	观誓	觀誓	guānshì	Avalokitavrata	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: svātantrika (FGDB '中觀派')	7006990
