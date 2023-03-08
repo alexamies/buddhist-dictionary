@@ -92,7 +92,7 @@
 8000092	布施	\N	bùshī	dana; giving; generosity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bu4shi1.mp3	Sanskrit equivalent: dāna, Pali: dāna, Japanese: fuse, Tibetan: sbyin pa; the first of the six paramitas; one of the seven kinds of spiritual wealth 七圣财 (BL 'dana', pp. 211-212; FGDB '布施'; Tzu Chuang 2012 'perfections, six', pp. 242-244)	8000092
 8000093	钵	缽	bō	a bowl; an alms bowl; patra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pātra, Pali: patta, Japanese: hachi, Tibetan: lhung bzed; see also 鉢 (BCSD '鉢', p. 1188; BL 'pātra', p. 636; Tzu Chuang 2012, pp. 283-286)	8000093
 8000094	慈悲	\N	cíbēi	compassion; loving-kindness; mettā; metta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maitrī, Pali: mettā, Japanese: ji, or: jihi, Tibetan: byams pa (BL 'maitrī', p. 518; Ding '慈悲'; FGDB '慈悲'; SH '慈悲', p. 399)	8000094
-8000095	涅	\N	niè	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	nie4.mp3	See 涅槃 (FGDB '涅槃')	8000095
+8000095	涅	\N	niè	black mud	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: netsu, or: detsu (BCSD '涅', p. 725; SH '涅', p. 327; Unihan '涅')	8000095
 8000096	涅盘	涅盤	nièpán	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (FGDB '涅槃')	8000096
 8000097	三藏	\N	sān Zàng	Tripitaka; Tripiṭaka; Tipitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tripiṭaka, Pali: tipitaka, Japanese: sanzō, Tibetan: sde snod gsum. In this sense 三藏 is synomymous with 經藏, the collection of three baskets: 1. Collection of Discourses; sūtra 经藏, 2. Collection of Monastic Rules; vinaya 律藏, and 3. Collection of Treatises; Abhidharma 论藏; FGS translation standard: Tripitaka (BL 'Tripiṭaka', p. 924; FGDB '三藏'; Hirakawa 6 '三藏' p. 28; Powers 2007, p. 57; Tzu Chuang 2012, pp. 353-356).	8000097
 8000098	心相应行	心相應行	xīn xiāng yīng xíng	actions corresponding with thoughts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '心相應行'; SH '心相應行', p. 151)	8000098
@@ -10414,5 +10414,9 @@
 8010414	波头地狱	波頭地獄	bōtóu dìyù	Padma Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鉢頭摩地獄 (FGDB '鉢頭摩地獄')	8010414
 8010415	红莲地狱	紅蓮地獄	hónglián dìyù	Padma Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鉢頭摩地獄 (FGDB '鉢頭摩地獄')	8010415
 8010416	法树	法樹	fǎ shù	Dharma tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	That bears the fruit of Nirvāṇa (SH '法樹', p. 270)	8010416
-8010417	法船	\N	fǎ chuán	Dharma ship	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Which is in danger of sinking, mentioned in Scroll 1 of 出三藏記集 “Chu San Zang Ji Ji” (FGDB '法船'; Link 1961, p. 91; T 2145 55.0001b24)	8010417
-8010418	法城	\N	fǎchéng	Dharma citadel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Which is in danger of collapse, mentioned in Scroll 1 of 出三藏記集 “Chu San Zang Ji Ji” (FGDB '法城'; Link 1961, p. 91; T 2145 55.0001b24)	8010418
+8010417	法船	\N	fǎ chuán	Dharma ship	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Which is in danger of sinking, mentioned in Scroll 1 of 出三藏記集 “Chu San Zang Ji Ji” (FGDB '法船'; Link 1961, p. 92; T 2145 55.0001b24)	8010417
+8010418	法城	\N	fǎchéng	Dharma citadel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Which is in danger of collapse, mentioned in Scroll 1 of 出三藏記集 “Chu San Zang Ji Ji” (FGDB '法城'; Link 1961, p. 92; T 2145 55.0001b24)	8010418
+8010419	浸	\N	jìn	to immerse	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shin (BCSD '浸', p. 725; Unihan '浸')	8010419
+8010420	父母恩	\N	fù mǔ ēn	kindness of parents	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010420
+8010420	涅	\N	niè	Nirvāṇa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	nie4.mp3	See 涅槃 (FGDB '涅槃')	8000095
+8010421	楗槌	\N	jiànchuí	gandi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇḍi; mentioned in Scroll 1 of 出三藏記集 “Chu San Zang Ji Ji” (Link 1961, p. 93; T 2145 55.0002a09)	8010421
