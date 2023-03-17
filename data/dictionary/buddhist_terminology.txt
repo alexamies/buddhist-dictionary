@@ -10161,7 +10161,7 @@
 8010161	无起三昧	無起三昧	wúqǐ sānmèi	samādhi of no desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無願三昧 (FGDB '無作三昧')	8010161
 8010162	正教	\N	zhèng jiāo	correct teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '正教')	8010162
 8010163	汗	\N	hàn	sweat; sveda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sveda, Japanese: kan, Tibetan: rngul (BCSD '汗', p. 707; Mahāvyutpatti 'svedaḥ'; MW 'sveda'; SH '汗', p. 216; Unihan '汗')	8010163
-8010164	身识	身識	shēn shí	body consciousness; consciousness of touch; kāyavijñāna	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāyavijñāna, Pali: kāyaviññāṇa, Japanese: shinshiki (BL 'kāyavijñāna'; Ding '身識'; FGDB '身識'; SH '身識', p. 246)	8010164
+8010164	身识	身識	shēn shí	body consciousness; sense of touch	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāyavijñāna, Pali: kāyaviññāṇa, Japanese: shinshiki, Tibetan: lus kyi rnam par shes pa, (BL 'kāyavijñāna'; Ding '身識'; FGDB '身識'; Mahāvyutpatti 'kāyavijñānam'; SH '身識', p. 246)	8010164
 8010165	真解脱	真解脫	zhēn jiětuō	true liberation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '真解脫'; FGDB '真解脫'; SH '真解脫', p. 333)	8010165
 8010166	天乐	天樂	tiān yuè	heavenly music	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '天樂'; SH '天樂', p. 145)	8010166
 8010167	汙	\N	wū	corrupting; dūṣaka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūṣaka, Japanese: o (BCSD '汙', p. 707; MW 'dūṣaka'; SH '汙', p. 216; Unihan '汙')	8010167
@@ -10459,3 +10459,5 @@
 8010459	鼻识	鼻識	bí shí	sense of smell	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghrāṇavijñāna, Pali: ghānaviññāna, Tibetan: sna'i rnam par shes pa (Ding '鼻識'; FGDB '鼻識'; Mahāvyutpatti 'ghrāṇavijñānam'; SH '鼻識', p. 430)	8010459
 8010460	舌识	舌識	shéshí	sense of taste	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jihvāvijñāna, Pali: jivhāviññāna, Tibetan: lce'i rnam par shes pa (Ding '舌識'; FGDB '舌識'; Mahāvyutpatti 'jihvāvijñānam'; SH '舌識', p. 220)	8010460
 8010461	淤	\N	yū	mud	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: yo, or: o (BCSD '淤', p. 727; Unihan '淤')	8010461
+8010462	意识	意識	yìshí	manovijñāna; thought consciousness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manovijñāna, Pali: manoviññāṇa, Japanese: ishiki, Tibetan: yid gyi rnam par shes pa; the sixth of the six consciousnesses, after the five sensory consciousnesses (BL 'manovijñāna'; FGDB '意識'; Mahāvyutpatti 'manovijñānam'; SH '意識', p. 401)	8010462
+8010463	遍行	\N	biànxíng	universally present; omnipresent	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	sarvatraga (FGDB '遍行'; SH '遍行', p. 415)	8010463
