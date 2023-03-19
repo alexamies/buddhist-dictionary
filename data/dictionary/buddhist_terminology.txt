@@ -9455,8 +9455,8 @@
 8009455	三行	\N	sān xíng	the three kinds of action	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three are: (1) 福行 action that produce merit, (2) 罪行 unwholesome actions, and (3) 不動行 non-action (Ding '三行'; FGDB '三行')	8009454
 8009456	福行	\N	fúxíng	actions that product merit	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三行 'three kinds of action' (Ding '福行'; FGDB '三行'; SH '福行', p. 426)	8009456
 8009457	罪行	\N	zuìxíng	unwholesome action	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三行 'three kinds of action' (Ding '罪行'; FGDB '三行'; SH '罪行', p. 410)	8009457
-8009458	灭定	滅定	miè dìng	the cessation of perception and sensation; nirodhasamāpatti	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 滅盡定 (BL 'nirodhasamāpatti'; Ding '滅定'; FGDB '滅定'; SH '滅定')	8009458
-8009459	灭尽定	滅盡定	miè jìn dìng	the cessation of perception and sensation; nirodhasamāpatti	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirodhasamāpatti, Pali: nirodhasamāpatti, Japanese: metsujinjō; the highest level of concentration in non-Mahāyāna schools where all physical and mental activity of the meditator stops (BL 'nirodhasamāpatti'; Ding '滅盡定'; FGDB '滅盡定'; SH '滅盡定')	8009459
+8009458	灭定	滅定	miè dìng	the cessation of perception and sensation	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 滅盡定 (BL 'nirodhasamāpatti'; Ding '滅定'; FGDB '滅定'; SH '滅定')	8009458
+8009459	灭尽定	滅盡定	miè jìn dìng	the cessation of perception and sensation; nirodhasamāpatti	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirodhasamāpatti, Pali: nirodhasamāpatti, Japanese: metsujinjō; the highest level of concentration in non-Mahāyāna schools where all physical and mental activity of the meditator stops (BL 'nirodhasamāpatti'; Ding '滅盡定'; FGDB '滅盡定'; Lusthaus 2002, p. 544; SH '滅盡定', p. 405)	8009459
 8009460	灭受想定	滅受想定	miè shòu xiǎng dìng	the cessation of perception and sensation; nirodhasamāpatti	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 滅盡定 (FGDB '滅盡定')	8009460
 8009461	灭尽三昧	滅盡三昧	miè jìn sānmèi	the cessation of perception and sensation; nirodhasamāpatti	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 滅盡定 (FGDB '滅盡定')	8009461
 8009462	分位	\N	fēnwèi	time and position	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 時分 'time' and 地位 'position' (Ding '分位'; FGDB '分位'; SH '分位', p. 139)	8009462
@@ -9938,7 +9938,7 @@
 8009938	未离欲	未離欲	wèi lí yù	not yet free from desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '未離欲'; FGDB '未離欲者')	8009938
 8009939	未离欲者	未離欲者	wèi lí yù zhě	one not yet free from desire	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 未離欲 (FGDB '未離欲者')	8009939
 8009940	枪	槍	qiāng	a spear; śakti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śakti; Japanese: sou, or: shou (BCSD '槍', p. 666; MW 'śakti'; Unihan '槍')	8009940
-8009941	无想定	無想定	wú xiǎng dìng	meditative concentration with no thinking	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無想定'; FGDB '無想定'; SH '無想定', p. 379)	8009941
+8009941	无想定	無想定	wú xiǎng dìng	meditative concentration with no thought	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃjñā-samāpatti, Tibetan: 'du shes med pa'i snyoms par 'jug pa; one of the 百法 one hundred dharmas of Yogācāra (Ding '無想定'; FGDB '無想定'; Lusthaus 2002, p. 544; Mahāvyutpatti 'asaṃjñāsamāpattiḥ'; SH '無想定', p. 379)	8009941
 8009942	千佛	\N	qiān fó	thousand Buddhas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '千佛'; FGDB '千佛'; SH '千佛', p. 81)	8009942
 8009943	槎	\N	chá	a raft	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Mathews 1931 '槎', p. 11; Unihan '槎')	8009943
 8009944	言依	\N	yán yī	dependence on words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '言依', p. 244)	8009944
@@ -10502,3 +10502,12 @@
 8010502	渡	\N	dù	to carry out; uttārayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttārayati, Japanese: to (BCSD '渡', p. 736; Edgerton 'uttārayati', p. 124; Unihan '渡')	8010502
 8010503	不乐本座	不樂本座	bù lè běn zuò	the heavenly palace appears unpleasant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '衰相'; Tzu Chuang 2012)	8010503
 8010504	衆同分	\N	zhòng tóng fēn	same class	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nikāya-sabhāga; see 眾同分 (FGDB '眾同分')	8010504
+8010505	渧	\N	dì	a drop; bindu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bindu, Japanese: tei, or: dai (BCSD '渧', p. 736; MW 'bindu'; Unihan '渧')	8010505
+8010506	异生法	異生法	yì shēng fǎ	unlike each other	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: visabhāga; one of the 百法 one hundred dharmas of Yogācāra (Lusthaus 2002, p. 544; Edgerton 1953 'visabhāga', p. 503; MW 'visabhāga')	8010506
+8010507	无想果	無想果	wú xiǎng guǒ	realm of no thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsaṃjñika; one of the 百法 one hundred dharmas of Yogācāra (Ding '無想果'; FGDB '無想果'; Lusthaus 2002, p. 544; Edgerton 1953 'āsaṃjñika', p. 110; MW 'āsaṃjñika')	8010507
+8010508	测	測	cè	to reckon; gaṇita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇita, Japanese: soku (BCSD '測', p. 737; MW 'gaṇita'; Unihan '測')	8010508
+8010509	烧炙地狱	燒炙地獄	shāozhì dìyù	Tapana Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010509
+8010510	正思	\N	zhèng sī	right thought	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七三昧具'; Tzu Chuang 2012)	8010510
+8010511	游	\N	yóu	to bathe; avagāh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avagāh, Japanese: yū, or: ryū (BCSD '游', p. 737; MW 'avagāh'; SH '游', p. 376; Unihan '游')	8010511
+8010512	戒和同修	\N	jiè hé tóng xiū	moral harmony through sharing the same precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '六和敬'; Tzu Chuang 2012)	8010512
+8010513	名身	\N	míng shēn	group of names	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nāmakāya, Tibetan: ming gi tshogs; one of the 百法 one hundred dharmas of Yogācāra (Ding '名身'; FGDB '名身'; Mahāvyutpatti 'nāmakāyaḥ'; Lusthaus 2002, p. 544; SH '名身', p. 204)	8010513
