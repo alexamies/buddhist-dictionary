@@ -6357,7 +6357,7 @@
 8006357	少	\N	shǎo	few	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpa, Japanese: shou (BCSD '少', p. 398; MW 'alpa'; SH '少', p. 148; Unihan '少')	8006357
 8006358	匙	\N	chí	spoon; kalācika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalācika (BCSD '匙', p. 214; MW 'kalācika')	8006358
 8006359	出现	出現	chūxiàn	to manifest	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udaya, Tibetan: 'char ka (BCSD '出現', p. 398; FGDB '出現'; Karashima 2001, p. 86; Mahāvyutpatti 'udayī'; MW 'udaya'; SH '出現', p. 167)	8006359
-8006360	湛	\N	zhàn	placid	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śānta, Japanese: tan (BCSD '湛', p. 504; DJBT '湛', p. 423; MW 'śānta'; SH '湛', p. 376)	8006360
+8006360	湛	\N	zhàn	placid	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śānta, Japanese: tan (BCSD '湛', p. 737; DJBT '湛', p. 423; MW 'śānta'; SH '湛', p. 376)	8006360
 8006361	自觉	自覺	zìjué	self-aware; enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyātma-vedya (BCSD '自覺', p. 992; FGDB '自覺'; SH '二覺', p. 29)	8006361
 8006362	自	\N	zì	own; one's own; oneself	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva, or: svayam Japanese: ji (BCSD '自', p. 983; DJBT '自', p. 436; MW 'sva'; SH '自', p. 218)	8006362
 8006363	自	\N	zì	self; soul; ātman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman (BCSD '自', p. 981; MW 'ātman'; SH '自', p. 218)	8006362
@@ -10522,4 +10522,13 @@
 8010522	智慧门	智慧門	zhì huì mén	Gate of Wisdom	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '三門'; Tzu Chuang 2012)	8010522
 8010523	湎	\N	miǎn	drunk	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ben, or: men (BCSD '湎', p. 737; Unihan '湎')	8010523
 8010524	句身	\N	jù shēn	group of phrases	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padakāya, Tibetan: tshig gi tshogs; one of the 百法 one hundred dharmas of Yogācāra  (Ding '句身'; FGDB '句身'; Lusthaus 2002, p. 544; Mahāvyutpatti 'padakāyaḥ'; SH '句身', p. 169)	8010524
-8010525	文身	\N	wénshēn	group of syllables	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyañjanakāyaḥ, Tibetan: yi ge'i tshogs; one of the 百法 one hundred dharmas of Yogācāra  (Ding '三種身'; FGDB '三種身'; Lusthaus 2002, p. 544; Mahāvyutpatti 'vyañjanakāyaḥ')	8010525
+8010525	文身	\N	wénshēn	group of syllables	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyañjanakāyaḥ, Tibetan: yi ge'i tshogs; one of the 百法 one hundred dharmas of Yogācāra (Ding '三種身'; FGDB '三種身'; Lusthaus 2002, p. 544; Mahāvyutpatti 'vyañjanakāyaḥ')	8010525
+8010526	湖	\N	hú	a lake; saras	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saras; Japanese: ko (BCSD '湖', p. 737; MW 'saras'; SH '湖', p. 376; Unihan '湖')	8010526
+8010527	依义不依语	依義不依語	yī yì bù yī yǔ	rely on the meaning	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四依'; Tzu Chuang 2012)	8010527
+8010528	大乘佛教时期	大乘佛教時期	dà chéng fó jiāo shí qī	period of mahayana Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教教理'; Tzu Chuang 2012)	8010528
+8010529	湧	\N	yǒng	to pour out; utsṛj	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utsṛj; Japanese: yū, or: you (BCSD '湧', p. 737; MW 'utsṛj'; Unihan '湧')	8010529
+8010530	老	\N	lǎo	old; jarā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jarā; Japanese: rou, Tibetan: rga ba (Mahāvyutpatti 'jarā'; MW 'jarā'; SH '老', p. 218; Unihan '老')	8010530
+8010531	定异	定異	dìngyì	distinction	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratiniyama, Tibetan: so sor nges pa; one of the 百法 one hundred dharmas of Yogācāra (Ding '定異'; FGDB '定異'; Lusthaus 2002, p. 544; Mahāvyutpatti 'pratiniyamaḥ'; MW 'pratiniyamaḥ')	8010531
+8010532	长跪	長跪	chángguì	to kneel in an upright posture	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '長跪'; FGDB '長跪'; SH '長跪', p. 284)	8010532
+8010533	世间眼	世間眼	shìjiān yǎn	Eyes of the World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokacakṣus; a reference to the Buddha (Ding '世間眼'; FGDB '世眼'; Link 1961, p. 99; MW 'lokacakṣus'; SH '世間眼', p. 165)	8010533
+8010534	世眼	\N	shì yǎn	Eyes of the World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokacakṣus; see 世間眼 (FGDB '世眼')	8010534
