@@ -1446,7 +1446,7 @@
 8001446	默竭提国	默竭提國	mòjiétí guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001446
 8001447	摩诃陀国	摩訶陀國	móhētuó guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001447
 8001448	摩伽国	摩伽國	mójiā guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001448
-8001449	波罗奈国	波羅奈國	bōluónài guó	Varanasi; Baranasi	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent vārāṇasī, Pali bārāṇasī; a kingdom in ancient India (FGDB '波羅奈國'; SH '波羅奈', p. 266)	8001449
+8001449	波罗奈国	波羅奈國	bōluónài guó	Varanasi; Baranasi	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: vārāṇasī, Pali bārāṇasī; a kingdom in ancient India (FGDB '波羅奈國'; SH '波羅奈', p. 266)	8001449
 8001450	波罗痆斯	波羅痆斯	bōluónàsī	Varanasi; Baranasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vārāṇasī; see 波羅奈國 (SH '波羅奈', p. 266)	8001450
 8001451	波刺那斯	\N	bōcìnàsī	Varanasi; Baranasi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent vārāṇasī; see 波羅奈國 (SH '波羅奈', p. 266)	8001451
 8001452	放光	\N	fàng guāng	to produce light	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Using supernatural powers (SH '放光', p. 262)	8001452
@@ -10538,3 +10538,9 @@
 8010538	受者	\N	shòu zhě	recipient	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四施'; Tzu Chuang 2012)	8010538
 8010539	寄存	\N	jìcún	storing up merit	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010539
 8010540	息	\N	xī	to calm oneself	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kroll 2015 '息' 3)	8010540
+8010541	禁咒	\N	jìnzhòu	vidya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyā, Tibetan: rig sngags; similar to 真言, see 明咒 (FGDB '明咒')	8010541
+8010542	明咒	\N	míngzhòu	vidya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyā, Tibetan: rig sngags (FGDB '明咒'; Mahāvyutpatti 'vidyā')	8010542
+8010543	甘露门	甘露門	gānlù mén	Ambrosia Gate	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amṛta-dvāra (FGDB '甘露門'; SH '甘露門', p. 195)	8010543
+8010544	相应阿含	相應阿含	xiāngyīng āhán	Saṃyukta Āgama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃyuktāgama; see 雜阿含經 (FGDB '雜阿含經'; T 99)	8010544
+8010545	杂部	雜部	zá bù	Miscellaneous Section	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣudrakavarga; a division of the Vinaya (Link 1961, p. 102; T 2145, Scroll 1, 55.0003c09)	8010545
+8010546	善部	\N	shàn bù	Kusalavarga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalavarga; a division of the Vinaya (Link 1961, p. 102; T 2145, Scroll 1, 55.0003c09)	8010546
