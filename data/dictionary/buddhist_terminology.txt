@@ -1017,8 +1017,8 @@
 8001017	禁戒	\N	jìnjiè	prohibition; vow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃyama, Pali: saṃyama, Tibetan: legs par sdom pa (FGDB '禁戒'; Mahāvyutpatti 'saṃyamaḥ'; SH '禁戒', p. )	8001017
 8001018	信解	\N	xìnjiě	adhimoksa; adhimokkha; resolution; determination; zeal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimokṣa; see 勝解 (FGDB '勝解')	8001018
 8001019	行脚	行腳	xíngjiǎo	travelling; wandering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of a wandering Buddhist monastic (FGDB '行腳')	8001019
-8001020	维摩诘	維摩詰	wéimójié	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 維摩 (FGDB '維摩')	8001020
-8001021	维摩	維摩	Wéimó	Vimalakirti	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Vimalakīrti, Japanese: Yuimakitsu, Tibetan: dri med grags pa; a lay Buddhist in early the Buddhist period and an early model for a lay bodhisattva (BL 'Vimalakīrti', p. 971; Ding '維摩'; Tzu Chuang 2012, p. 367; FGDB '維摩'; SH '維摩')	8001021
+8001020	维摩诘	維摩詰	wéimójié	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti; see 維摩 (FGDB '維摩')	8001020
+8001021	维摩	維摩	Wéimó	Vimalakirti	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti, Japanese: Yuimakitsu, Tibetan: dri med grags pa; a lay Buddhist in early the Buddhist period and an early model for a lay bodhisattva (BL 'Vimalakīrti', p. 971; Ding '維摩'; Tzu Chuang 2012, p. 367; FGDB '維摩'; SH '維摩')	8001021
 8001022	示现	示現	shìxiàn	to manifest; to display	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 显示 (Ding '示現'; FGDB '示現'; Karashima 2001 '示現')	8001022
 8001023	不二法门	不二法門	bù èr fǎ mén	Non-Duality; the dharma-gate of non-duality	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '不二法門'; SH '不二法門', p. 103; Tzu Chuang 2012)	8001022
 8001024	善巧	\N	shànqiǎo	virtuous and clever; skilful	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '善巧'; FGDB '善巧'; SH '善巧', p. 368)	8001024
@@ -10611,3 +10611,11 @@
 8010611	第三禅	第三禪	dìsān chán	the third dhyāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the 四禪 'four dhyānas' (Ding '第三禪'; FGDB '第三禪'; SH '第三禪', p. 362)	8010611
 8010612	圆觉	圓覺	yuán jué	complete enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '圓覺'; FGDB '圓覺'; SH '圓覺')	8010612
 8010613	助道	\N	zhù dào	auxiliary means; auxiliary aid	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '助道'; FGDB '助道'; SH '助道', p. 232)	8010613
+8010614	扶萨	扶薩	fúsà	bodhisattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhisattva; see 菩薩 (FGDB '菩薩')	8010614
+8010615	菩提索多	\N	pútísuǒduō	bodhisattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhisattva; see 菩薩 (FGDB '菩薩')	8010615
+8010616	冒地萨怛缚	冒地薩怛縛	màodìsàdáfú	bodhisattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhisattva; see 菩薩 (FGDB '菩薩')	8010616
+8010617	各佛	\N	gèfó	Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddha; see 緣覺 (FGDB '各佛')	8010617
+8010618	萨芸若	薩芸若	sàyúnruò	omniscience	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajña; see 一切智 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010618
+8010619	沟港道	溝港道	gōu gǎng dào	srotaapanna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: srotaāpanna; see 須陀洹 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010619
+8010620	道迹	道跡	dàojī	follower of the path	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: srotaāpanna; see 須陀洹 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010620
+8010621	频来果	頻來果	pínláiguǒ	sakṛdāgāmin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sakṛdāgāmin; see 斯陀含 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010621
