@@ -2400,7 +2400,7 @@
 8002400	守护心	守護心	shǒuhù xīn	a protecting mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 26th of the 六十心 sixty kinds of mind, believing one's own mind is true and others are not (FGDB '六十心'; Giebel 2005, pp. 10-11; T 848, Scroll 1, 18.0002c03)	8002400
 8002401	悭心	慳心	qiān xīn	a miserly mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 27th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, pp. 10-11; T 848, Scroll 1, 18.0002c03)	8002401
 8002402	阿遮利耶	\N	āzhēlìyē	acarya; a religious teacher	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ācārya; see 阿闍梨 (SH '阿闍黎', p. 292)	8002402
-8002403	集	\N	jí	the origin of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji2.mp3	Sanskrit equivalent: samudaya, Pali: samudaya, Japanese: jū, Tibetan: kun 'byung; the second of the Four Noble Truths (BL 'samudaya', p. 760; SH '集', p. 182)	8002403
+8002403	集	\N	jí	the origin of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji2.mp3	Sanskrit equivalent: samudaya, Pali: samudaya, Japanese: jū, Tibetan: kun 'byung; the second of the Four Noble Truths (BCSD '集', p. 1228; BL 'samudaya', p. 760; SH '集', p. 182)	8002403
 8002404	灭	滅	miè	the cessation of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	mie4.mp3	Sanskrit equivalent: nirodha, Pali: nirodha (Sharf 2005, p. 281)	8002404
 8002405	狸心	\N	lí xīn	the mind of a cat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 28th of the 六十心 sixty kinds of mind, cautious (FGDB '六十心'; Giebel 2005, pp. 10-11; T 848, Scroll 1, 18.0002c03)	8002405
 8002406	狗心	\N	gǒuxīn	the mind of a dog	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 29th of the 六十心 sixty kinds of mind, content with little (FGDB '六十心'; Giebel 2005, pp. 10-11; SH '狗心', p. 274; T 848, Scroll 1, 18.0002c03)	8002406
@@ -8497,7 +8497,7 @@
 8008497	乐受	樂受	lèshòu	sensation of pleasure; perception of pleasure	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三受 'three sensations' (Ding '樂受'; FGDB '樂受'; SH '樂受', p. 438)	8008497
 8008498	四法	\N	sì fǎ	the four aspects of the Dharma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One interpretation of the four aspects of the Dharma is: 1. 教法 the teaching of the Dharma, 2. 理法 the principles of the Dharma, 3. 行法 the practice of the Dharma, 4. 果法 the fruits of the Dharma (Ding '四法'; FGDB '四法'; SH '四法', p. 177)	8008498
 8008499	苦集	\N	kǔjí	accumulation as the cause of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: duḥkha-samudaya (BCSD '苦集', p. 1012; Ding '苦集'; SH '苦集', p. 314)	8008499
-8008500	三法	\N	sān fǎ	the three aspects of the Dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three are: 1. 教法 the teaching of the Dharma, 2. 行法 the practice of the Dharma, 3. 證法 the realization of the Dharma (Ding '三法'; FGDB '三法'; SH '三法', p. 69)	8008500
+8008500	三法	\N	sān fǎ	three dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tridharma; namely: skanda 'aggregate', dhātu 'element', and āyatana 'place' (Asaṅga, Rāhula, and Boin-Webb 2001, p. 1; T 1605, 31.0663a12)	8008500
 8008501	徧	\N	biàn	everywhere; vyāpin	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāpin, Japanese: hen, or: ben (BCSD '徧', p. 456; MW 'vyāpin'; Unihan '徧')	8008501
 8008502	陀罗	陀羅	tuóluó	Tārā	proper noun	山	Mountain	佛教	Buddhism	\N	\N	\N	\N	The name of a Mountain (Ding '陀羅')	8008502
 8008503	一劫	\N	yījié	one kalpa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A unit of time (Ding '一劫'; FGDB '一劫')	8008503
@@ -10659,3 +10659,12 @@
 8010659	不动灭无为	不動滅無為	bù dòng miè wú wèi	motionless cessation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āniñjya; one of the 百法 one hundred dharmas of Yogācāra, an unconditioned dharma (FGDB '百法'; Lusthaus 2002, p. 545; MW 'āniñjya')	8010659
 8010660	想受灭无为	想受滅無為	xiǎng shòu miè wú wèi	cessation of thinking and sensation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñā-vedayita-nirodha; one of the 百法 one hundred dharmas of Yogācāra, an unconditioned dharma (FGDB '百法'; Lusthaus 2002, p. 545)	8010660
 8010661	根本般若	\N	gēnběn bōrě	fundamental prajna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '根本般若')	8010661
+8010662	真实义	真實義	zhēnshí yì	true meaning; principle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tattvārtha (Ding '真實義'; FGDB '真實義'; FGDB '諦義證得經')	8010662
+8010663	心想	\N	xīn xiǎng	thoughts of the mind; thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 思想 (Ding '心想'; FGDB '心想'; SH '心想', p. 150)	8010663
+8010664	寺中	\N	sìzhōng	within a temple	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '寺中'; SH '寺中')	8010664
+8010665	六众	六眾	liù zhòng	group of six monastics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六群比丘 (FGDB '六群比丘')	8010665
+8010666	六群比丘	\N	liù qún bìqiū	group of six monastics	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Whose behavior lead to establishing the rules of conduct by the Buddha; one list of the six is Nanda, Upananda, Aśvaka, Punarvasu, Chanda, and Udāyin (Ding '六群比丘'; FGDB '六群比丘'; SH '六群比丘', p. 137)	8010666
+8010667	集论	集論	jí lùn	compendium	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samuccaya (FGDB '大乘阿毘達磨雜集論'; MW 'samuccaya')	8010667
+8010668	三法	\N	sān fǎ	three aspects of the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three are: 1. 教法 the teaching of the Dharma, 2. 行法 the practice of the Dharma, 3. 證法 the realization of the Dharma (Ding '三法'; FGDB '三法'; SH '三法', p. 69)	8008500
+8010669	眼界	\N	yǎn jiè	eye element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakṣurdhātu, Tibetan: mig gi khams (FGDB '眼界'; Mahāvyutpatti 'cakṣurdhātuḥ'; SH '眼界', p. 361; Asaṅga, Rāhula, and Boin-Webb 2001, p. 1; T 1605, 31.0663a12)	8010669
+8010670	眼识界	眼識界	yǎn shí jiè	visual consciousness element	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakṣurvijñānadhātu, Tibetan: mig gi rnam par shes pa'i khams (FGDB '五識'; Mahāvyutpatti 'cakṣurvijñānadhātuḥ'; SH '眼識界', p. 361; Asaṅga, Rāhula, and Boin-Webb 2001, pp. 1-2; T 1605, 31.0663a12)	8010670
