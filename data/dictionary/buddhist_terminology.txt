@@ -2401,7 +2401,7 @@
 8002401	悭心	慳心	qiān xīn	a miserly mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 27th of the 六十心 sixty kinds of mind (FGDB '六十心'; Giebel 2005, pp. 10-11; T 848, Scroll 1, 18.0002c03)	8002401
 8002402	阿遮利耶	\N	āzhēlìyē	acarya; a religious teacher	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ācārya; see 阿闍梨 (SH '阿闍黎', p. 292)	8002402
 8002403	集	\N	jí	the origin of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ji2.mp3	Sanskrit equivalent: samudaya, Pali: samudaya, Japanese: jū, Tibetan: kun 'byung; the second of the Four Noble Truths (BCSD '集', p. 1228; BL 'samudaya', p. 760; SH '集', p. 182)	8002403
-8002404	灭	滅	miè	the cessation of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	mie4.mp3	Sanskrit equivalent: nirodha, Pali: nirodha (Sharf 2005, p. 281)	8002404
+8002404	灭	滅	miè	the cessation of suffering	noun	\N	\N	佛教	Buddhism	\N	\N	\N	mie4.mp3	Sanskrit equivalent: nirodha, Pali: nirodha, Japanese: metsu, or: betsu, Tibetan: 'gags (BCSD '滅', p. 738; Mahāvyutpatti 'niruddham'; Sharf 2005, p. 281)	8002404
 8002405	狸心	\N	lí xīn	the mind of a cat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 28th of the 六十心 sixty kinds of mind, cautious (FGDB '六十心'; Giebel 2005, pp. 10-11; T 848, Scroll 1, 18.0002c03)	8002405
 8002406	狗心	\N	gǒuxīn	the mind of a dog	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 29th of the 六十心 sixty kinds of mind, content with little (FGDB '六十心'; Giebel 2005, pp. 10-11; SH '狗心', p. 274; T 848, Scroll 1, 18.0002c03)	8002406
 8002407	迦楼罗心	迦樓羅心	jiālóuluó xīn	the mind of a garuda	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 30th of the 六十心 sixty kinds of mind, relies on others (FGDB '六十心'; Giebel 2005, pp. 10-11; SH '狗心', p. 274; T 848, Scroll 1, 18.0002c03)	8002407
@@ -6596,7 +6596,7 @@
 8006596	嘴上没毛，办事不牢	嘴上沒毛，辦事不牢	zuǐ shàng méi máo bàn shì bù láo	seven places	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The arms, feet, shoulders and neck (Kieschnick and Wiles 2017, vol. 1, p. 84; T 1)	8006596
 8006597	遏罗曷帝	遏囉曷帝	Èluōhédì	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿羅漢 (FGDB '阿羅漢')	8006597
 8006598	䁥缚𠲸	䁥縛𠲸	nìfúnán	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (FGDB '涅槃')	8006598
-8006599	灭	滅	miè	nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	mie4.mp3	See 涅槃 (FGDB '涅槃')	8006599
+8006599	灭	滅	miè	nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	mie4.mp3	See 涅槃 (BCSD '滅', p. 738; FGDB '涅槃')	8006599
 8006600	祕要	\N	mì yào	secret; secret essence; rahasya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rahasya (BCSD '祕要', p. 894; MW 'rahasya'; SH '祕要', p. 335)	8006600
 8006601	寂灭	寂滅	jìmiè	calmness and extinction; Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (Ding '寂滅'; FGDB '寂滅'; SH '寂滅', p. 348)	8006601
 8006602	守	\N	shǒu	protect; gupta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gupta, Japanese: shu, or: su, Tibetan: sbas pa'am bsrungs pa (BCSD '守', p. 371; Mahāvyutpatti 'guptaḥ'; MW 'gupta'; SH '守', p. 211)	8006602
@@ -10698,3 +10698,23 @@
 8010698	四种国土	四種國土	sì zhǒng guótǔ	four kinds of realm; four Buddha realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四土 (FGDB '四土')	8010698
 8010699	沧溟	滄溟	cāngmíng	ocean; toya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: toya (BCSD '滄溟', p. 738; MW 'toya')	8010699
 8010700	便有余土	便有餘土	biàn yǒu yú tǔ	temporary realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四土'; FGDB '四土'; SH '四土', p. 172)	8010700
+8010701	实报无障碍土	實報無障礙土	shí bào wú zhàngài tǔ	a realm of permanent reward and freedom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四土'; FGDB '四土'; SH '四土', p. 172)	8010701
+8010702	滊	\N	xì	steam; bāṣpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāṣpa, Japanese: ki, or: ke (BCSD '滊', p. 741; MW 'toya'; Unihan '滊')	8010702
+8010703	常寂光土	\N	cháng jì guāng tǔ	a realm of eternal rest and light	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四土'; FGDB '四土'; SH '四土', p. 172)	8010703
+8010704	分卫	分衛	fēnwèi	alms; piṇḍapāta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piṇḍapāta (Ding '分衛'; SH '分衛', p. 140)	8010704
+8010705	滋	\N	zī	abundant; bhṛśam	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhṛśam, Japanese: ji, or: shi (BCSD '滋', p. 741; MW 'bhṛśam'; Unihan '滋')	8010705
+8010706	慈子	\N	cí zǐ	disciples of Maitreya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '慈子'; SH '慈子', p. 399)	8010706
+8010707	大姊	\N	dàzǐ	sister; nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Respectful form of address for a nun or lay female devotee (Ding '大姊'; FGDB '大姊'; SH '大姊', p. 87)	8010707
+8010708	滑	\N	huá	slippery; ślakṣṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ślakṣṇa, Japanese: katsu, or: kotsu, Tibetan: 'jam pa (BCSD '滑', p. 741; Mahāvyutpatti 'ślakṣṇatvam'; MW 'ślakṣṇa'; Unihan '滑')	8010708
+8010709	子缚	子縛	zǐfú	seed bond	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '子縛', p. 98)	8010709
+8010710	心缚	心縛	xīnfú	bondage of the mind	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '心縛'; SH '心縛', p. 151)	8010710
+8010711	滓	\N	zǐ	dirt; kiṭṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kiṭṭa, Japanese: sai, or: shi (BCSD '滓', p. 741; MW 'kiṭṭa'; Unihan '滓')	8010711
+8010712	曼殊	\N	mànshū	mañju; beautiful; lovely; charming	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '曼殊'; FGDB '曼殊'; MW 'mañju')	8010712
+8010713	曼殊	\N	mànshū	Manjusri	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mañjuśrī; see 文殊菩薩 (FGDB '文殊菩薩')	8010713
+8010714	涤	滌	dí	well cleaned; sudhauta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sudhauta, Japanese: deki, or: jou (BCSD '滌', p. 741; MW 'sudhauta'; Unihan '滌')	8010714
+8010715	满濡	滿濡	mǎnrú	mañju; beautiful; lovely; charming	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 曼殊 (FGDB '文殊菩薩')	8010715
+8010716	曼乳	\N	mànrǔ	mañju; beautiful; lovely; charming	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 曼殊 (FGDB '文殊菩薩')	8010716
+8010717	晨参暮请	晨參暮請	chén cān mù qǐng	morning and evening assemblies	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Variant of 朝参暮请 (FGDB '朝参暮请')	8010717
+8010718	界系	界繫	jiè xì	bound to the three realms	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Here 界 is used in the sense of 三界 'threee realms' of desire, form, and non-form. 繫 is used in the sense of 聯繫 'connection'. The implicit object of the phrase is 'dharmas', i.e. dharmas bound to the three realms (Ding '界繫'; FGDB '界繫'; SH '界繫', p. 309).	8010718
+8010719	识蕴	識蘊	shí yùn	consciousness aggregate; vijñānaskandha; viññāṇakhandha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijñānaskandha, Pali: 'viññāṇakhandha', Japanese: shikiun; shikion; one of the 五蘊 'five aggregates' (BL 'vijñānaskandha'; Ding '識蘊'; FGDB '識蘊'; SH '識蘊', p. 474)	8010719
+8010720	识阴	識陰	shí yīn	consciousness aggregate; vijñānaskandha; viññāṇakhandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 識蘊 (FGDB '識蘊')	8010720
