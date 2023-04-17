@@ -5028,7 +5028,7 @@
 8005028	真法性	\N	zhēnfǎxìng	inherent nature; essence; true nature; dharmatā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmatā; see 法性 (FGDB '法性')	8005028
 8005029	四恶趣	四惡趣	sìèqù	four evil destinies	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四惡道 (FGDB '四惡道'; SH '四惡趣', p. 175)	8005029
 8005030	了知	\N	liǎozhī	to understand clearly	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parijñā (SH '了知', p. 20)	8005030
-8005031	漏	\N	lòu	outflow; flow; influx; discharge; asrava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	lou4.mp3	Sanskrit equivalent: āsrava, Pali: āsava, Japanese: ro, Tibetan: zag pa; used as a synonym for vexation 煩惱, mental states that can be eliminated with cultivation. See 四漏 'the four āsravas.' (BL 'āsrava'; Conze, 1973, p. 320; FGDB '漏'; Kroll 2015 '漏' 1b, p. 281; MW 'āsrava')	8005031
+8005031	漏	\N	lòu	outflow; flow; influx; discharge; asrava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	lou4.mp3	Sanskrit equivalent: āsrava, Pali: āsava, Japanese: ro, Tibetan: zag pa; used as a synonym for vexation 煩惱, mental states that can be eliminated with cultivation. See 四漏 'the four āsravas.' (BCSD '漏', p. 743; BL 'āsrava'; Conze, 1973, p. 320; FGDB '漏'; Kroll 2015 '漏' 1b, p. 281; MW 'āsrava')	8005031
 8005032	一一而转	一一而轉	yī yī ér zhuǎn	each one turning; ekaika-vṛtti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekaika-vṛtti (BCSD '一一而轉', p. 1; FGDB '三轉十二行相'; MW 'vṛtti')	8005032
 8005033	三转十二行相	三轉十二行相	sān zhuǎn shí èr xíng xiāng	three turnings and twelve phases of action; tri-parivarta-dvādaśākāra-dharma-cakra-pravartana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tri-parivarta-dvādaśākāra-dharma-cakra-pravartana; refers to the three turnings of the Dharma Wheel and Four Noble Truths (FGDB '三轉十二行相')	8005033
 8005034	当三转四轮十二行法轮	當三轉四輪十二行法輪	dāng sān zhuǎn sì lún shí èr xíng fǎ lún	three turnings, four turnings, and twelve phases of action of the Dharma Wheel	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三轉十二行相 (FGDB '三轉十二行相')	8005034
@@ -10755,4 +10755,14 @@
 8010755	入法界	\N	rù fǎjiè	to enter in the dharma realm; to perceive the dharma realm through meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In this phrase 入 means 證入 'to perceive through meditation' (Ding '入法界'; FGDB '入法界')	8010755
 8010756	金刚种	金剛種	jīngāng zhǒng	vajra family; vajra-kula	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrakula (BCSD '金剛種', p. 1185; Davidson, R.M. 2004, p. 152)	8010756
 8010757	金刚铃	金剛鈴	jīngāng líng	vajra bell; vajra-ghaṇṭā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajraghaṇṭā (BCSD '金剛鈴', p. 1185; Davidson, R.M. 2004, p. 152)	8010757
-8010758	铃	鈴	líng	bell; ghaṇṭā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṇṭā, Japanese: rei, or: rin, or: ryou (BCSD '鈴', p. 1188; MW 'ghaṇṭā'; BCSD '鈴', p. 417; Unihan '鈴')	8010758
+8010758	铃	鈴	líng	bell; ghaṇṭā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghaṇṭā, Japanese: rei, or: rin, or: ryou (BCSD '鈴', p. 1188; MW 'ghaṇṭā'; SH '鈴', p. 417; Unihan '鈴')	8010758
+8010759	起信二门	起信二門	qǐ xìn èr mén	two gates of Awakening of Faith	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '起信二門'; FGDB '起信二門')	8010759
+8010760	真生二门	真生二門	zhēn shēng è rmén	two gates of true arising	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also written as 起信二門 (FGDB '起信二門')	8010760
+8010761	漉	\N	lù	to purify by straining; vastrapūta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vastrapūta, Japanese: roku (BCSD '漉', p. 743; MW 'vastrapūta'; SH '漉', p. 424; Unihan '漉')	8010761
+8010762	小劫	\N	xiǎojié	antarākalpa; intermediate kalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '小劫'; FGDB '小劫'; SH '小劫', p. 100)	8010762
+8010763	新佛教	\N	xīn fójiāo	new Buddhist	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reform of Chinese Buddhism proposed by 太虛 Taixu (Pittman 2001, p. 9)	8010763
+8010764	漑	\N	gài	to sprinkle; āseka	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āseka, Japanese: gai, or: kai (BCSD '漑', p. 743; MW 'āseka'; Unihan '漑')	8010764
+8010765	无相解脱门	無相解脫門	wúxiāng jiětuō mén	signless doors of deliverance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the three 解脫門 'doors of deliverance', same as 無相三昧 (BL 'vimokṣa'; Ding '無相解脫門'; FGDB '解脫門'; SH '無相解脫門', p. 381)	8010765
+8010766	萨婆若	薩婆若	sàpóruò	sarvajña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajña; see 一切智 (Ding '萨婆若'; SH '薩婆若', p. 468)	8010766
+8010767	演	\N	yǎn	to expound; udita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udita, Japanese: en (BCSD '演', p. 743; MW 'āseka'; SH '演', p. 424; Unihan '演')	8010767
+8010768	萨云然	薩云然	sàyúnrán	sarvajña	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajña; see 一切智 (Ding '萨婆若')	8010768
