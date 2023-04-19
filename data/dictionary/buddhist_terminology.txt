@@ -1251,7 +1251,7 @@
 8001251	卡尔利	卡爾利	kǎ'ěrlì	Karli; Karla Caves	proper noun	石窟	Caves	佛教	Buddhism	印度	India	\N	\N	See 卡爾拉石窟 (FGS Encyclopedia of Buddhist Arts)	8001251
 8001252	化佛	\N	huàfó	a Buddha image	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇabuddha; depicted in Buddhist art usually a small image, sometimes embedded in the crown of a larger image (FGDB '化佛'; FGS Encyclopedia of Buddhist Arts; SH '化佛', p. 141)	8001252
 8001253	手印	\N	shǒuyìn	a mudra	noun	\N	\N	佛教	Buddhism	\N	\N	abhaya_mundra.jpg	\N	Sanskrit equivalent: mudrā, Pali: muddā, Japanese: in, Tibetan: phyag rgya (BL 'mudrā'; BCSD '印'; Wikipedia '手印'; FGDB '手印')	8001253
-8001254	施无畏印	施無畏印	shī wú wèi yìn	abhaya mudra	set phrase	手印	Mudra	佛教	Buddhism	\N	\N	abhaya_mundra.jpg	\N	A mundra with hand facing outwards with five fingers pointing upwards, indicating protection and assurance or casting out fear (FGDB '施無畏印'; FGS Encyclopedia of Buddhist Arts; Wikipedia '手印')	8001254
+8001254	施无畏印	施無畏印	shī wú wèi yìn	abhaya mudra	set phrase	手印	Mudra	佛教	Buddhism	\N	\N	abhaya_mundra.jpg	\N	A mundra with hand facing outwards with five fingers pointing upwards, indicating protection and assurance or casting out fear (FGDB '施無畏印'; FGS Encyclopedia of Buddhist Arts; Huntington and Bangdel 2003, pp. 519-541; Wikipedia '手印')	8001254
 8001255	愿印	願印	yuànyìn	varada mudra; varamudra	noun	手印	Mudra	佛教	Buddhism	\N	\N	vara_mundra.jpg	\N	A mudra with hand facing outwards with five fingers pointing downwards for wish granting or indicating upholding of vows (FGS Encyclopedia of Buddhist Arts; Wikipedia '手印')	8001255
 8001256	说法印	說法印	shuōfa yìn	Dharmacakra mudra; speaking the Dharma mudra	proper noun	手印	Mudra	佛教	Buddhism	\N	\N	\N	\N	A mudra with the thumb on the middle or third finger, indicating speaking the Dharma; See also 轉法輪印 (FGDB '轉法輪印'; FGS Encyclopedia of Buddhist Arts; Wikipedia '手印')	8001256
 8001257	背光	\N	bèiguāng	a nimbus; a halo; a mandorla	noun	\N	\N	佛教	Buddhism	\N	\N	buddha_nimbus400.jpg	\N	A large nimbus or halo shown behind the Buddha in statues (FGS Encyclopedia of Buddhist Arts)	8001257
@@ -10782,3 +10782,14 @@
 8010782	自在天	\N	zìzaitiān	Paranirmita-Vasavartin Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 他化自在天 (FGDB '自在天')	8010782
 8010783	能变	能變	néng biàn	able to change	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the 八識 'eight kinds of conciousness' (Ding '能變'; FGDB '能變')	8010783
 8010784	师子王	師子王	shīzǐ wáng	Lion King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the Buddha (Ding '師子王'; FGDB '師子王'; SH '師子王', p. 324)	8010784
+8010785	狮子王	獅子王	shīzǐ wáng	Lion King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 師子王 (FGDB '師子王')	8010785
+8010786	漫	\N	màn	to roam; bhram	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhram; Japanese: man (BCSD '漫', p. 744; MW 'bhram'; SH '漫', p. 424; Unihan '漫')	8010786
+8010787	师子兽王	師子獸王	shīzi shòu wáng	Lion King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 師子王 (FGDB '師子王')	8010787
+8010788	五神通	\N	wǔ shéntōng	five supernatural powers; pañcabhijñā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五通 (Red Pine 2012, loc. 5667)	8010788
+8010789	五神变	五神變	wǔ shénbiàn	five supernatural powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五通 (FGDB '五通')	8010789
+8010790	不如法	\N	bùrú fǎ	counterto moral principles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '不如法'; FGDB '不如法')	8010790
+8010791	大沙门	大沙門	dà shāmén	great monastic	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大沙門'; FGDB '大沙門'; SH '大沙門', p. 92)	8010791
+8010792	宴坐	\N	yànzuò	sitting meditation; to meditate in seclusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 燕坐 (Ding '宴坐'; FGDB '宴坐'; SH '宴坐', p. 324)	8010792
+8010793	十善业道	十善業道	shí shàn yè dào	ten wholesome kinds of practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '十善業道')	8010793
+8010794	异门	異門	yì mén	other schools	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In this phrase 門 means 門派 'school' or 'sect' (Ding '異門')	8010794
+8010795	慧根	\N	huì gēn	root of wisdom; organ of wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '慧根'; FGDB '慧根'; SH '慧根', p. 433)	8010795
