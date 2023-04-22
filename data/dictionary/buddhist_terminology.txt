@@ -9350,7 +9350,7 @@
 8009350	离微	離微	lí wēi	transcendence and subtlety	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A dichotomy from the 寶藏論 Treasure Store Treatise (Ding '離微'; FGDB '離微'; SH '離微', p. 475; Sharf 2005, p. 3; T 1857)	8009350
 8009351	敬礼	敬禮	jìnglǐ	namo; to pay respect to; to take refuge	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南無 (FGDB '敬禮', SH '敬禮', p. 402)	8009351
 8009352	擣	\N	dǎo	to pound; piṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piṣ, Japanese: tou, or: chū (BCSD '擠', p. 565; MW 'piṣ'; Unihan '擣')	8009352
-8009353	感应	感應	gǎnyìng	sympathetic resonance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also in Taoism (FGDB '感應'; Guoyu '感應' 1; SH '感應', p. 399; Sharf 2005, p. 26)	8009353
+8009353	感应	感應	gǎnyìng	sympathetic resonance; supernatural influence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also in Taoism (FGDB '感應'; Guoyu '感應' 1; SH '感應', p. 399; Sharf 2005, p. 26; Zürcher and Silk 2013, p. 288)	8009353
 8009354	应感	應感	yīnggǎn	sympathetic resonance	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 感應 (FGDB '感應')	8009354
 8009355	见法	見法	jiànfǎ	for a Dharma to manifest in the world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 現法, a sense found in the Āgamas (FGDB '見法')	8009355
 8009356	见法	見法	jiànfǎ	to realize the impermanence and nonself of all dharmas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A sense found in the Āgamas (FGDB '見法')	8009356
@@ -9479,8 +9479,8 @@
 8009479	华严时	華嚴時	huàyán shí	Avataṃsaka period	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	The first of the 天台五時 'five periods as classified by Tiantai' during which the Buddha was awakened as in the story of the Avataṃsaka Sūtra (BL 'Tiantai wushi'; Ding '華嚴時'; FGDB '華嚴時'; SH '華嚴時', p. 387)	8009479
 8009480	整	\N	zhěng	team; yuga	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yuga, Japanese: sei, Tibetan: zung ngam phrugs (BCSD '整', p. 577; Mahāvyutpatti 'yugam'; MW 'yuga'; Unihan '整')	8009480
 8009481	天台五时	天台五時	tiāntái wǔshí	five periods as classified by Tiantai; Tiantai wushi	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	The five periods are: (1) 華嚴時 Avataṃsaka period, (2) 鹿苑時 Deer Park period, (3) 方等時 extended teachings period, (4) 般若時 Prajñāpāramitā period, and (5) the Lotus Sūtra and Nirvāṇa Sūtra period (BL 'wushi'; Ding '五時'; FGDB '天台五時'; SH '五時', p. 120)	8009481
-8009482	五时	五時	wǔshí	five periods as classified by Tiantai; Tiantai wushi	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 天台五時 (FGDB '天台五時')	8009482
-8009483	五时教	五時教	wǔshí jiào	five periods as classified by Tiantai; Tiantai wushi	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 天台五時 (FGDB '天台五時')	8009483
+8009482	五时	五時	wǔ shí	five periods	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 天台五時 (FGDB '天台五時')	8009482
+8009483	五时教	五時教	wǔ shí jiào	five periods as classified by Tiantai; Tiantai wushi	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 天台五時 (FGDB '天台五時')	8009483
 8009484	鹿苑	\N	lùyuàn	Mṛgadāva; Deer Park	proper noun	地名	Place Name	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 鹿野苑 (FGDB '鹿野苑')	8009484
 8009485	鹿野园	鹿野園	lùyěyuán	Mṛgadāva; Deer Park	proper noun	地名	Place Name	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 鹿野苑 (FGDB '鹿野苑')	8009485
 8009486	鹿苑时	鹿苑時	lùyuàn shí	Deer Park period; Āgama period	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	The second of the 天台五時 'five periods as classified by Tiantai' during which the Buddha taught the Āgamas (BL 'wushi'; Ding '鹿苑時'; FGDB '鹿苑時')	8009486
@@ -10801,3 +10801,5 @@
 8010800	汉地	漢地	hàn dì	territory of the Han dynasty; China	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A historic term for China (Zürcher and Silk 2013, p. 214)	8010800
 8010801	佛慧	\N	fó huì	Buddha's wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛慧'; FGDB '佛慧'; SH '佛慧', p. 227)	8010801
 8010802	半偈	\N	bànjì	half a verse	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '半偈'; FGDB '半偈')	8010802
+8010803	遊方	\N	yóu fāng	to travel for cultivation and to seek teachings	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Especially of a Buddhist monastic (FGDB '遊方僧'; Zürcher and Silk 2013, p. 314)	8010803
+8010804	后身	後身	hòushēn	last body; next body; last rebirth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '後身'; FGDB '後身'; Karashima 2001 '後身'; SH '後身', p. 301)	8010804
