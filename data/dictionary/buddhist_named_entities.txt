@@ -4134,7 +4134,7 @@
 7004134	不如密多	\N	bùrúmìduō	Punyamitra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian master, twenty-sixth patriarch in the Chan tradition according to the 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '不如密多'; Whitfield 2015, vol. 1, p. 131; T 2076, Scroll 2)	7004134
 7004135	般若多罗	般若多羅	bōrěduōluó	Prajñātara	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian master, twenty-seventh patriarch in the Chan tradition according to the 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '般若多羅'; Whitfield 2015, vol. 1, p. 133; T 2076, Scroll 2)	7004135
 7004136	僧那	\N	sēngnà	Sengna	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Biography included in the 景德傳燈錄 “Records of the Transmission of the Lamp” (FGDB '僧那'; Whitfield 2015, vol. 1, p. 161; T 2076, Scroll 2)	7004136
-7004137	是法非法经	是法非法經	shì fǎ Fēi fǎ jīng	Shi Fa Fei Fa Jing; Sappurisasutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: sappurisasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to Sappurisasutta in the Pāli Canon (T 48; KDC 'K 690'; Majjhima Nikāya 113)	7004137
+7004137	是法非法经	是法非法經	shì fǎ Fēi fǎ jīng	Sutra on True Dharmas and False Dharmas; Shi Fa Fei Fa Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: sappurisasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to Sappurisasutta in the Pāli Canon (T 48; KDC 'K 690'; Majjhima Nikāya 113)	7004137
 7004138	求欲经	求欲經	Qiú Yù jīng	Qiu Yu Jing; Anaṅgaṇasutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: anaṅgaṇasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to Anaṅgaṇasutta in the Pāli Canon (T 49; KDC 'K 677'; Majjhima Nikāya 5)	7004138
 7004139	受岁经	受歲經	Shòu Suì jīng	Shou Sui Jing; Anumānasutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: anumānasutta; a sūtra in the Āgama section of the Chinese Buddhist Canon, related to Anumānasutta in the Pāli Canon (T 50; KDC 'K 688'; Majjhima Nikāya 15)	7004139
 7004140	义玄	義玄	yìxuán	Yixuan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 臨濟義玄 Linji Yixuan (FGDB '臨濟義玄')	7004140
@@ -4682,7 +4682,7 @@
 7004682	佛说出家缘经	佛說出家緣經	fó shuō chūjiā yuán jīng	Fo Shuo Chujia Yuan Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 出家緣經 (T 791)	7004682
 7004683	出家缘经	出家緣經	chūjiā yuán jīng	Chujia Yuan Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 811; T 791)	7004683
 7004684	佛说法受尘经	佛說法受塵經	fó shuō fǎ shòu chén jīng	Fo Shuo Fa Shou Chen Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 法受塵經 (T 792)	7004684
-7004685	法受尘经	法受塵經	fǎ shòu chén jīng	Fa Shou Chen Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 825; T 792)	7004685
+7004685	法受尘经	法受塵經	fǎ shòu chén jīng	Sutra on Suffering from Defilements; Fa Shou Chen Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 825; T 792)	7004685
 7004686	佛说佛医经	佛說佛醫經	fó shuō fó yī jīng	Fo Shuo Fo Yi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 佛醫經 (T 793)	7004686
 7004687	佛医经	佛醫經	fó yī jīng	Fo Yi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 998; T 793)	7004687
 7004688	佛说时非时经	佛說時非時經	fó shuō shí fēishí jīng	Fo Shuo Shi Feishi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 時非時經 (T 794a)	7004688
@@ -7083,9 +7083,12 @@
 7007083	舍利弗普义经	舍利弗普義經	shělìfú pǔ yì jīng	Sariputra Teaches the Universal Meaning of the Dharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普法義經 (FGDB '廣義法門經')	7007083
 7007084	义决律	義決律	yì jué lǜ	Vinaya Decisions	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a text mentioned in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji” (T 2145, 55.0005c18)	7007084
 7007085	义决律法行经	義決律法行經	yì jué lǜ fǎ xíng jīng	Scripture on Vinaya Decisions	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 義決律 (T 2145, 55.0005c18)	7007085
-7007086	安公	安公	ān gōng	Lord An; Dao An	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	An alternate form used in 出三藏記集 “Chu San Zang Ji Ji;” see 道安 (T 2145, 55.0005b16)	7007086
+7007086	安公	安公	ān gōng	Venerable An; Dao An	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	An alternate form used in 出三藏記集 “Chu San Zang Ji Ji;” see 道安 (T 2145, 55.0005b16)	7007086
 7007087	五十校计经	五十校計經	wǔ shí xiào jì jīng	Sutra on Fifty Countings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternate title used in 出三藏記集 “Chu San Zang Ji Ji;” see 明度五十校計經 (T 2145, 55.0005b16)	7007087
 7007088	大安般经	大安般經	dà ānbān jīng	Great Sutra on the Mindfulness of Breathing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternate title used in 出三藏記集 “Chu San Zang Ji Ji;” see 大安般守意經 (T 2145, 55.0005b16)	7007088
 7007089	思惟经	思惟經	sīwéi jīng	Sutra on Contemplation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternate title used in 出三藏記集 “Chu San Zang Ji Ji;” see 思惟略要法 (T 2145, 55.0005b16)	7007089
 7007090	十二因缘经	十二因緣經	shí èr yīnyuán jīng	Sutra on the Twelve Nidanas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A title listed in 出三藏記集 “Chu San Zang Ji Ji;” see 貝多樹下思惟十二因緣經 (T 2145, 55.0005b16; FGDB '十二因緣經')	7007090
 7007091	五阴喻经	五陰喻經	wǔ yīn yù jīng	Sutra on Similes for the Five Aggregates	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A title listed in 出三藏記集 “Chu San Zang Ji Ji;” see 五陰譬喻經 (T 2145, 55.0005b16; FGDB '五陰譬喻經')	7007091
+7007092	法轮转经	法輪轉經	fǎ lún zhuǎn jīng	Sutra on Turning of the Dharma Wheel	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A title listed in 出三藏記集 “Chu San Zang Ji Ji;” see 轉法輪經 (T 2145, 55.0005b16)	7007092
+7007093	一切流摄守经	一切流攝守經	yīqiè liú shè shǒu jīng	Sutra on Protection against all the Taints	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A title listed in 出三藏記集 “Chu San Zang Ji Ji;” see 流攝經 (T 2145, 55.0005b16)	7007093
+7007094	名僧传	名僧傳	míng sēng chuán	Biographies of Famous Monks	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a text by 寶唱 Bao Chao (FGDB '名僧傳')	7007094
