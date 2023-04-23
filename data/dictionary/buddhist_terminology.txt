@@ -6349,7 +6349,7 @@
 8006349	叉手	\N	chā shǒu	hands folded	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '叉手'; FGDB '叉手'; Guoyu '叉手'; Mathews 1931 '叉手', p. 10)	8006349
 8006350	因缘觉	因緣覺	yīnyuánjué	Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 緣覺 (FGDB '緣覺')	8006350
 8006351	懈	\N	xiè	lazy; alasa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alasa, Japanese: ke (BCSD '懈', p. 504; DJBT '懈', p. 428; MW 'alasa'; SH '懈', p. 447)	8006351
-8006352	渐	漸	jiàn	gradually; anupūrva	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anupūrva, or: krama, Japanese: zen (BCSD '漸', p. 504; DJBT '漸', p. 424; MW 'anupūrva'; SH '漸', p. 424)	8006352
+8006352	渐	漸	jiàn	gradually; anupūrva	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anupūrva, or: krama, Pali: anupubba, Japanese: zen (BCSD '漸', p. 744; DJBT '漸', p. 424; Edgerton 1953 'anupūrva', p. 30; MW 'anupūrva'; SH '漸', p. 424)	8006352
 8006353	少欲知足	\N	shǎo yù zhī zú	content with few desires	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: alpeccha-saṃtuṣṭa (BCSD '少欲知足',p. 399; FGDB '少欲知足')	8006353
 8006354	喜足少欲	\N	xǐ zú shǎo yù	content with few desires	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 少欲知足 (FGDB '少欲知足')	8006354
 8006355	无欲知足	無欲知足	wú yù zhī zú	content with few desires	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 少欲知足 (FGDB '少欲知足')	8006355
@@ -10797,9 +10797,11 @@
 8010797	神授	\N	shénshòu	divine revelation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hureau 2010, p. 763)	8010797
 8010798	疑经	疑經	yí jīng	doubtful scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used by Sengyou in Scroll 5 of 出三藏記集 “Chu San Zang Ji Ji” for classification of texts of doubtful origin (FGDB '偽疑經'; Hureau 2010, p. 763; T 2145, 55.0037c01)	8010798
 8010799	伪疑经	偽疑經	wěi yí jīng	forged and doubtful scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '偽疑經')	8010799
-8010799	疑伪经	疑偽經	yí wěi jīng	doubtful and forged scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '偽疑經' )	8010799
-8010800	汉地	漢地	hàn dì	territory of the Han dynasty; China	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A historic term for China (Zürcher and Silk 2013, p. 214)	8010800
-8010801	佛慧	\N	fó huì	Buddha's wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛慧'; FGDB '佛慧'; SH '佛慧', p. 227)	8010801
-8010802	半偈	\N	bànjì	half a verse	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '半偈'; FGDB '半偈')	8010802
-8010803	遊方	\N	yóu fāng	to travel for cultivation and to seek teachings	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Especially of a Buddhist monastic (FGDB '遊方僧'; Zürcher and Silk 2013, p. 314)	8010803
-8010804	后身	後身	hòushēn	last body; next body; last rebirth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '後身'; FGDB '後身'; Karashima 2001 '後身'; SH '後身', p. 301)	8010804
+8010800	疑伪经	疑偽經	yí wěi jīng	doubtful and forged scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '偽疑經' )	8010800
+8010801	汉地	漢地	hàn dì	territory of the Han dynasty; China	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A historic term for China (Zürcher and Silk 2013, p. 214)	8010801
+8010802	佛慧	\N	fó huì	Buddha's wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛慧'; FGDB '佛慧'; SH '佛慧', p. 227)	8010802
+8010803	半偈	\N	bànjì	half a verse	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '半偈'; FGDB '半偈')	8010803
+8010804	遊方	\N	yóu fāng	to travel for cultivation and to seek teachings	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Especially of a Buddhist monastic (FGDB '遊方僧'; Zürcher and Silk 2013, p. 314)	8010804
+8010805	后身	後身	hòushēn	last body; next body; last rebirth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '後身'; FGDB '後身'; Karashima 2001 '後身'; SH '後身', p. 301)	8010805
+8010806	浆	漿	jiāng	gruel; kāñjika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāñjika; Japanese: shou (BCSD '漿', p. 744; MW 'kāñjika'; Unihan '漿')	8010806
+8010807	增一阿鋡	\N	zēngyīāhán	Ekottara Agama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekottarāgama; an alternate form used in 出三藏記集 “Chu San Zang Ji Ji;” see 增一阿含經 (T 2145, 55.0005c18)	8010807
