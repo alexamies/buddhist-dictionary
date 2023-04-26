@@ -1919,7 +1919,7 @@
 8001919	难近母	難近母	nánjìnmǔ	Durga	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: durgā; see 突迦 (FGDB '突迦')	8001919
 8001920	突迦	\N	tūjiā	Durga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durgā; an Indian diety, consort of Maheśvara (FGDB '突迦'; SH '突迦', p. 311; Wikipedia '难近母')	8001920
 8001921	地居天	\N	dì jū tiān	Dwelling Ground Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Immediately below below the 空居天 heavens (DDB '地居天'; Ding '地居天'; FGDB '地居天'; SH '地居天', p. 207)	8001921
-8001922	般舟	\N	bānzhōu	pratyutpanna; present	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '般舟'; SH '般舟', p. 337)	8001922
+8001922	般舟	\N	bānzhōu	pratyutpanna; present	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyutpanna, Pali paccuppanna (BCSD '般舟', p. 1002; Edgerton 1953 'pratyutpanna', p. 377; FGDB '般舟'; MW 'pratyutpanna'; SH '般舟', p. 337)	8001922
 8001923	般舟	\N	bānzhōu	pratyutpanna samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 般舟三昧 (Ding '般舟'; FGDB '般舟')	8001922
 8001924	般若经	般若經	bōrě jīng	Prajnaparamita Sutras	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A genre of sutras (Ding '般若經'; Hsing Yun and Miao Guang trans. 2016, p. 372; SH '般若經', p. 338)	8001924
 8001925	迴向	\N	huíxiàng	to transfer merit; to dedicate; pariṇāmanā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariṇāmanā, Japanese: ekō, Tibetan: yongs su bsngo ba; literally, meaning to turn towards but usually referring to the part of a Mahāyāna Buddhist ceremony for dedication of merit to all sentient beings (BL 'pariṇāmanā', p. 628; Ding '迴向'; FGDB '迴向'; SH '迴向', p. 384)	8001925
@@ -3288,7 +3288,7 @@
 8003288	耶	\N	yé	ya	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ya; see 野 (FGDB '野')	8003288
 8003289	乘	\N	shèng	vehicle; a school of teaching; yana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yāna, Japanese: jō, Tibetan: theg pa; 乘 is a teaching or vehicle for arriving at knowledge, such as the 大乘 mahāyāna 'great vehicle' (BCSD '乘', p. 76; BL 'yāna', p. 1020; Guoyu '乘' shèng n 3; Kroll 2015 '乘 shèng' 2, p. 48; Mathews 1931 '乘', p. 52; MW 'yāna'; SH '乘'', p. 320)	8003289
 8003290	啰	囉	luó	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra, Siddham: 𑖨; the second semivowel in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '囉', p. 277; FGDB '囉'; MW 'ra'; SH '囉', p. 486; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003290
-8003291	罗	羅	luó	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra; see 囉 (FGDB '囉')	8003291
+8003291	罗	羅	luó	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra; see 囉 (BCSD '羅', p. 945; FGDB '囉'; )	8003291
 8003292	洛	\N	luò	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra, Japanese: raku; see 囉 (BCSD '洛', p. 722; FGDB '囉'; SH '洛', p. 308; Unihan '洛')	8003292
 8003293	喇	\N	lǎ	ra	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ra; see 囉 (FGDB '囉')	8003293
 8003294	逻	邏	luó	la	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: la, Siddham: 𑖩; the third semivowel in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '邏', p. 1169; FGDB '邏'; MW 'la'; SH '邏', p. 488; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003294
@@ -10839,4 +10839,17 @@
 8010839	浇	澆	jiāo	to sprinkle; sic	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sic, Japanese: gyou (BCSD '澆', p. 746; MW 'accha'; SH '澆', p. 439; Unihan '澆')	8010839
 8010840	五净居	五淨居	wǔ jìngjū	five pure abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五淨居天 (FGDB '五淨居天')	8010840
 8010841	阿惟潘	\N	āwéipān	Avrha Heaven; The Heaven without Affliction	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無煩天 (FGDB '無煩天')	8010841
-65510	阿鞞丽舍	阿鞞麗舍	ābǐnglìshè	Avrha Heaven; The Heaven without Affliction	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無煩天 (FGDB '無煩天')	65510
+8010842	阿鞞丽舍	阿鞞麗舍	ābǐnglìshè	Avrha Heaven; The Heaven without Affliction	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無煩天 (FGDB '無煩天')	8010842
+8010843	难提迦	難提迦	nántíjiā	Nandika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nandika; one of Śiva's attendants (BCSD '難提迦', p. 1240; MW 'nandika')	8010843
+8010844	迦罗越	迦羅越	jiāluóyuè	kulapati; head of a family; householder	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulapati; see 居士 (FGDB '居士'; MW 'kulapati'; SH '居士', p. 257)	8010844
+8010845	阿浮呵那	\N	āfúhēnà	Avrha Heaven; Heaven without Affliction	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無煩天 (FGDB '無煩天')	8010845
+8010846	般舟般	\N	bānzhōubān	pratyutpanna; present	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyutpanna (BCSD '般舟般', p. 1002)	8010846
+8010847	澍	\N	shù	gushing; prasrava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasrava, Japanese: shu, or: ju (BCSD '澍', p. 746; MW 'prasrava'; Unihan '澍')	8010847
+8010848	阿答和	\N	ādáhé	Atapa Heaven; The Heaven without Heat	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無熱天 (FGDB '無熱天')	8010848
+8010849	阿陀波	\N	ātuóbō	Atapa Heaven; The Heaven without Heat	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無熱天 (FGDB '無熱天')	8010849
+8010850	伅	\N	dùn	dun	\N	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ton, or: don (BCSD '伅', p. 106; Unihan '伅')	8010850
+8010851	阿答波	\N	ādábō	Atapa Heaven; The Heaven without Heat	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 無熱天 (FGDB '無熱天')	8010851
+8010852	伅真陀罗	伅真陀羅	dùn zhēntuóluó	druma-kiṃnara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: druma-kiṃnara (Zhu 2019, pp. 30-31; BCSD '伅', p. 106)	8010852
+8010853	屯	\N	tún	village	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ton, or: chun (BCSD '屯', p. 406; Unihan '屯')	8010853
+8010854	须提舍	須提舍	xūtíshè	Sudarsana Heaven; The Heaven of Skillful Vision	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 善見天 (FGDB '善見天')	8010854
+8010855	修提舍	\N	xiūtíshè	Sudarsana Heaven; The Heaven of Skillful Vision	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 善見天 (FGDB '善見天')	8010855
