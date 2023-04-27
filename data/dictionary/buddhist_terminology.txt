@@ -4364,11 +4364,11 @@
 8004364	马首	馬首	mǎ shǒu	horse head	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hayagrīva (BCSD '馬首', p. 1281; FGDB '何耶揭唎婆像法')	8004364
 8004365	马首	馬首	mǎ shǒu	Hayagriva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 馬頭觀音 (BCSD '馬首', p. 1281; FGDB '何耶揭唎婆像法')	8004364
 8004366	马王	馬王	mǎwáng	king of horses; asvaraja	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aśvarāja, or: hayarāja (BCSD '馬王', p. 1281; MW 'aśvarāja')	8004366
-8004367	身业	身業	shēn yè	physical karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yi4.mp3	One of the Three Types of Karma 三業 (Tzu Chuang 2012, pp. 150-152)	8004367
+8004367	身业	身業	shēn yè	physical karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yi4.mp3	Sanskrit equivalent: kāya-karman，Pali: kāya-kamma; one of the 三業 Three Types of Karma  (Bayer and Asaṅga 2010, p. 132; FGDB '身業'; SH '身業', p. 245; Tzu Chuang 2012, pp. 150-152)	8004367
 8004368	马车	馬車	mǎchē	chariot; ratha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratha (BCSD '馬車', p. 1281; MW 'ratha')	8004368
 8004369	元音	\N	yuányīn	Yuanyin	proper noun	\N	\N	文学	Literature	中国	China	\N	\N	Title of a book by Ming dynasty writer 孫原理 Sun Yuanli (Guoyu '元音' 2)	8004369
 8004370	口业	口業	kǒu yè	verbal karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Three Types of Karma 三業 (Ding '口業'; FGDB '口業'; SH '口業'; Tzu Chuang 2012, pp. 150-152)	8004370
-8004371	意业	意業	yì yè	mental karma; actions; deeds	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Three Types of Karma 三業 (Ding '意業'; Tzu Chuang 2012, pp. 150-152; FGDB '意業'; SH '意業', p. 400)	8004371
+8004371	意业	意業	yì yè	mental karma; actions; deeds	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manas-karma; one of the Three Types of Karma 三業 (Ding '意業'; FGDB '意業'; Tzu Chuang 2012, pp. 150-152; SH '意業', p. 400)	8004371
 8004372	出坡	\N	chūpō	labor; communal labor; labor practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普請 (FGDB '普請'; FoguangPedia; Tzu Chuang 2012, pp. 135-137)	8004372
 8004373	普请	普請	pǔqǐng	communal labor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a temple (FGDB '普請')	8004373
 8004374	普坡劳作	普坡普請	pǔpō láozuò	communal labor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a temple (HB Glossary)	8004374
@@ -5283,7 +5283,7 @@
 8005283	佛星	\N	fóxīng	Pusya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṣya; see 沸星 (T 6, Scroll 2)	8005283
 8005284	道者	\N	dàozhě	a devotee; a practioner; a follower; a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道者'; SH '道者', p. 416)	8005284
 8005285	下生	\N	xià shēng	for a bodhisattva for descend to the human world	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '彌勒信仰')	8005285
-8005286	事	\N	shì	meaning; phenomena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: artha, Pali: attha, Japanese: gi; an object in the phenomenal world (BL '事', p. 63; BCSD '事', p. 81; FGDB '事'; Kroll 2015 '事' 5, p. 415; MW 'artha'; Sharf 2017, p. 159)	8005286
+8005286	事	\N	shì	meaning; phenomena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: artha, or: vastu, Pali: attha, Japanese: gi; an object in the phenomenal world (BCSD '事', p. 81; BL '事', p. 63; FGDB '事'; Kroll 2015 '事' 5, p. 415; MW 'artha'; Sharf 2017, p. 159)	8005286
 8005287	事	\N	shì	actions; karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma, Tibetan: las (BCSD '事', p. 81; Mahāvyutpatti 'karma')	8005286
 8005288	地藏菩萨摩诃萨	地藏菩薩摩訶薩	dìzàng Púsà móhēsà	Ksitigarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	dizang400.jpg	\N	Sanskrit equivalent: kṣitigarbha mahāsattva; see 地藏菩薩 (FGDB '地藏菩薩')	8005288
 8005289	观世音菩萨	觀世音菩薩	Guānshìyīn Púsà	Avalokiteśvara; Avalokitesvara; Guanyin	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara; the bodhisattva of great compassion (BL 'Avalokiteśvara', p. 82-83; FGDB '觀世音菩薩'; JEBD 'Kannon')	8005289
@@ -8807,7 +8807,7 @@
 8008807	恶目鬼王	惡目鬼王	è mù guǐwáng	Ghost King Evil Eyes	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Mentioned in “Original Vows of Ksitigarbha Bodhisattva Sutra” (Tsai 2014 pp. 12-13; T 412, Scroll 1)	8008807
 8008808	摄毒鬼王	攝毒鬼王	shèdúguǐwáng	Ghost King Controlling Poisons	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Mentioned in “Original Vows of Ksitigarbha Bodhisattva Sutra” (Tsai 2014 pp. 12-13; T 412, Scroll 1)	8008808
 8008809	等流	\N	děngliú	outflow; niṣyanda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent niṣyanda (Ding '等流'; FGDB '等流'; SH '等流', p. 385)	8008809
-8008810	等流果	\N	děngliúguǒ	correlative effect; fruition of an outflow; niṣyandaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣyandaphala, Japanese: tōruka; the term represents the concept that the fruitition will correspond with the cause, one of the 五果 'five fruitions' (BL 'niṣyandaphala'; Ding '等流果'; FGDB '等流果'; SH '等流果', p. 385)	8008810
+8008810	等流果	\N	děngliúguǒ	correlative effect; fruition of an outflow; niṣyandaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣyandaphala, Japanese: tōruka Tibetan: rgyu mthun pa'i 'bras bu; the term represents the concept that the fruitition will correspond with the cause, one of the 五果 'five fruitions' (Bayer and Asaṅga 2010, p. 153; BL 'niṣyandaphala'; Ding '等流果'; FGDB '等流果'; Mahāvyutpatti 'niṣyandaphalam'; SH '等流果', p. 385)	8008810
 8008811	懒	懶	lǎn	fatigued; klamatha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: klamatha, Japanese: ran, or: rai, Tibetan: snyom pa'am dub pa (BCSD '懶', p. 512; Mahāvyutpatti 'klamathaḥ'; MW 'klamatha'; SH '懶', p. 471; Unihan '懶')	8008811
 8008812	依果	\N	yīguǒ	correlative effect; fruition of an outflow; niṣyandaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 等流果 (FGDB '等流果')	62533
 8008813	三相神	\N	sān xiāng shén	three deities; trimūrti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trimūrti; the three Hindu deities: 梵天 Brahma, 毘濕奴 Visnu, and 濕婆 Siva representing the creator, maintainer, and destroyer of the world (FGDB '三相神')	8008813
@@ -8827,7 +8827,7 @@
 8008827	全祭	\N	quánjì	Universal Sacrifice	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvamedha; a Vedic ritual (FGDB '蘇摩祭'; MW 'sarvamedha')	8008827
 8008828	习果	習果	xíguǒ	correlative effect; fruition of an outflow; niṣyandaphala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 等流果 (FGDB '等流果')	8008828
 8008829	惧	懼	jù	fear; bhaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaya, Japanese: ku, or: gu (BCSD '懼', p. 513; MW 'bhaya'; SH '懼', p. 483; Unihan '懼')	8008829
-8008830	五果	\N	wǔ guǒ	five fruits; five effects	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five fruits are: (1) 等流果 niṣyandaphala 'fruition of an outflow, (2) 異熟果 vipākaphala 'retributive consequence', (3) 離繫果 visaṃyogaphala 'disconnection fruition', (4) 士用果 puruṣakāraphala 'effect caused by a person' and, (5) 增上果 adhipatiphala 'predominant fruition' (BL 'phala'; Ding '五果'; FGDB '五果'; SH '五果')	8008830
+8008830	五果	\N	wǔ guǒ	five fruits; five effects	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five fruits are: (1) 等流果 niṣyandaphala 'fruition of an outflow, (2) 異熟果 vipākaphala 'retributive consequence', (3) 離繫果 visaṃyogaphala 'disconnection fruition', (4) 士用果 puruṣakāraphala 'effect caused by a person' and, (5) 增上果 adhipatiphala 'predominant fruition' (BL 'phala'; Ding '五果'; FGDB '五果'; SH '五果')	8008830
 8008831	薄伽梵歌	\N	báojiāfàn gē	Bhagavad Gita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavad gītā (FGDB '薄伽梵歌'; Heehs 2002, p. 147-165)	8008831
 8008832	圣婆伽梵歌	聖婆伽梵歌	shèng pójiāfàn gē	Bhagavad Gita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavad gītā; see 薄伽梵歌 (FGDB '薄伽梵歌')	8008832
 8008833	恋	戀	liàn	love; sneha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sneha, Japanese: ren (BCSD '戀', p. 513; MW 'sneha'; SH '戀', p. 487; Unihan '戀')	8008833
@@ -8838,7 +8838,7 @@
 8008838	士用果	\N	shìyòngguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣakāraphala, Japanese: jiyuka; one of the 五果 'five fruits' (BL 'puruṣakāraphala'; Ding '士用果'; FGDB '士用果')	8008838
 8008839	士夫果	\N	shìfūguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 士用果 (FGDB '士用果')	8008839
 8008840	功用果	\N	gōngyòngguǒ	puruṣakāraphala; effect caused by a person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 士用果 (FGDB '士用果')	8008840
-8008841	增上果	\N	zēngshàngguǒ	adhipatiphala; predominant fruition	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhipatiphala, Japanese: zōjōka; one of the 五果 'five fruits' (BL 'adhipatiphala'; Ding '增上果'; FGDB '增上果'; SH '增上果')	8008841
+8008841	增上果	\N	zēngshàngguǒ	adhipatiphala; predominant fruition	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhipatiphala, Japanese: zōjōka; one of the 五果 'five fruits' (BL 'adhipatiphala'; Ding '增上果'; FGDB '增上果'; SH '增上果', p. 531)	8008841
 8008842	生生	\N	shēngshēng	the cycle of rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生生'; FGDB '生生'; SH '生生')	8008842
 8008843	四天下	\N	sìtiānxià	the four continents	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Making up the extent of the earth in the historic Indian world view (Ding '四天下'; SH '四天下', p. 173)	8008843
 8008844	师子吼	師子吼	shīzǐ hǒu	lion’s roar	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 獅子吼 (Ding '師子吼'; FGDB '師子吼'; SH '師子吼', p. 324)	8008844
@@ -9173,7 +9173,7 @@
 8009173	三菩提	\N	sānpútí	saṃbodhi; complete enlightenment	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃbodhi; see 阿耨多羅三藐三菩提 (Ding '三菩提'; FGDB '三菩提'; SH '三菩提', p. 75)	8009173
 8009174	寻伺	尋伺	xúnsì	awareness and discrimination; coarse awareness and subtle perception	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '尋伺'; FGDB '尋伺'; SH '尋伺', p. 370)	8009174
 8009175	无量劫	無量劫	wúliàng jié	innumerable kalpas; uncountable eons	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無量劫'; FGDB '無量劫')	8009175
-8009176	语业	語業	yǔ yè	verbal karma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '語業'; SH '語業', p. 428)	8009176
+8009176	语业	語業	yǔ yè	verbal karma	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāk-karma; see also 口業 (Bayer and Asaṅga 2010, p. 132; Ding '語業'; FGDB '口業'; SH '語業', p. 428)	8009176
 8009177	十法	\N	shí fǎ	ten rules; perfecting of the ten rules	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As listed in the 大乘十法經 Daśadharma: (1)成就正信 perfection of faith，(2)成就行 perfection of practice，(3)成就性 perfection of spirit，(4)樂菩提心 the joy of bodhicitta，(5)樂法 the joy of the Dharma，(6)樂觀正法 joy in meditation on the Dharma，(7)行於正法及順法 upholding the Dharma，(8)遠離慢、我慢等事 avoidance of pride，(9)善好通達諸微密語 proficiency with all mantras，(10)不樂聲聞及緣覺 no joy in Śrāvaka or Pratyekabuddha practices (Ding '十法'; FGDB '十法'; SH '十法', p. 51)	8009177
 8009178	一偈	\N	yī jì	one gatha; a single gatha	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一偈')	8009178
 8009179	无为空	無為空	wúwèi kōng	emptiness of the unconditioned	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃskṛtaśūnyatā, Tibetan: 'dus ma byas stong pa nyid; one of the 十八空 eighteen kinds of emptiness (Ding '無為空'; FGDB '無為空'; Mahāvyutpatti 'asaṃskṛtaśūnyatā'; SH '無為空', p. 380)	8009179
@@ -10856,3 +10856,8 @@
 8010856	澡	\N	zǎo	pour out; sic	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sic, Japanese: sou (BCSD '澡', p. 746; MW 'sic'; SH '澡', p. 448; Unihan '澡')	8010856
 8010857	须陀施尼	須陀施尼	xūtuóshīní	Sudrsa Heaven; Sudassa; The Heaven of Beautiful Devas; The Heaven of Skillful Manifestation	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 善現天 (FGDB '善現天')	8010857
 8010858	须提舍那	須提舍那	xūtíshènà	Sudrsa Heaven; Sudassa; The Heaven of Beautiful Devas; The Heaven of Skillful Manifestation	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	See 善現天 (FGDB '善現天')	8010858
+8010859	澣	\N	huàn	to remove; apahṛ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apahṛ, Japanese: kan (BCSD '澣', p. 746; MW 'apahṛ'; Unihan '澣')	8010859
+8010860	意乐	意樂	yìlè	mental disposition; āśaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āśaya, Tibetan: bsam pa (Bayer and Asaṅga 2010, p. 136; FGDB '意樂', p. 746; Edgerton 1953 'āśaya', p. 109; Mahāvyutpatti 'aśayaḥ'; MW 'āśaya')	8002554
+8010861	阿世耶	\N	āshìyé	mental disposition; āśaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 意樂 (FGDB '阿世耶')	8010861
+8010862	泽	澤	zé	valley; kandara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kandara, Japanese: taku (BCSD '澤', p. 746; MW 'kandara'; Unihan '澤')	8010862
+8010863	阿奢也	\N	āshēyě	mental disposition; āśaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 意樂 (FGDB '阿世耶')	8010863
