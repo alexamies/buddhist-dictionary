@@ -6961,7 +6961,7 @@
 8006961	累	\N	lěi	accumulate; saṃci	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃci, or: rāśīkṛta, Japanese: rui (BCSD '累', p. 928; MW 'saṃci'; SH '累', p. 362; Unihan '累')	8006961
 8006962	劳	勞	láo	tired; exhausted; śrānta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrānta (BCSD '勞', p. 209; MW 'śrānta')	8006240
 8006963	药山陞座	藥山陞座	yàoshān shēngzuò	Yaoshan addresses the assembly	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Title of Koan 6 in 從容錄 “Congrong Lu” (reworded from Cleary 2005, p. 28; FGDB '藥山陞座'; T 2004, Scroll 1; Wick 2005, p. 22)	8006963
-8006964	种子	種子	zhǒngzi	bīja; seed; karmic seed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	zhong3zi.mp3	Sanskrit equivalent: bīja, Pali: bīja, Japanese: shuji; a metaphor for actions creating the potential for later fruition (BL 'bija'; FGDB '種子'; Jaini 1959, pp. 236-249; Lusthaus 2002, p. 194; SH '種子', p. 426)	8006964
+8006964	种子	種子	zhǒngzi	bīja; seed; karmic seed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bīja, Pali: bīja, Japanese: shuji; a metaphor for actions creating the potential for later fruition (BL 'bija'; FGDB '種子'; Jaini 1959, pp. 236-249; Lamotte 1988, pp. 27-28; Lusthaus 2002, p. 194; SH '種子', p. 426)	8006964
 8006965	仰覆世界	\N	yǎng fù shìjiè	to look up at the world or to look down at the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '仰覆世界')	8006965
 8006966	心业功德	心業功德	xīnyè gōngdé	merit arising from mental karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '心業功德')	8006966
 8006967	一切智智	\N	yīqiè zhì zhì	sarvajñāta; sarvajña-jñāta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñāta, referring to the knowledge of a Buddha (BL 'sarvajñāta'; Conze, 1973, p. 303; FDC '一切智智'; FGDB '一切智智'; Hirakawa '一切智智')	8006967
@@ -10887,3 +10887,28 @@
 8010887	定众	定眾	dìng zhòng	body of meditation; aggregate of meditation; samādhi-skandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 定身 (FGDB '五分法身')	8010887
 8010888	定品	\N	dìng pǐn	body of meditation; aggregate of meditation; samādhi-skandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 定身 (FGDB '五分法身')	8010888
 8010889	慧身	\N	huì shēn	body of wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 五分法身 'five attributes of Dharmakāya' (Ding '慧身'; FGDB '五分法身'; SH '慧身', p. 434)	8010889
+8010890	浊	濁	zhuó	turbid; āvila	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āvila, Japanese: daku; a reference to the 五濁 five stages of world existence (BCSD '濁', p. 746; Mahāvyutpatti 'āvilam'; MW 'āvila'; SH '濁', p. 448; Unihan '濁')	8010890
+8010891	慧蕴	慧蘊	huì yùn	aggregate of wisdom; prajñāskandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāskandha, Tibetan: shes rab kyi phung po; see 慧身 (Mahāvyutpatti 'prajñāskandhaḥ')	8010891
+8010892	慧众	慧眾	huì zhòng	body of wisdom; aggregate of wisdom; prajñā-skandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 慧身 (FGDB '五分法身')	8010892
+8010893	慧品	\N	huì pǐn	body of wisdom; aggregate of wisdom; prajñā-skandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 慧身 (FGDB '五分法身')	8010893
+8010894	解脱知见身	解脫知見身	jiětuō zhī jiàn shēn	body of knowledge and experience of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫知見 (FGDB '五分法身')	8010894
+8010895	解脱所见身	解脫所見身	jiětuō suǒ jiàn shēn	body of knowledge and experience of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫知見 (FGDB '五分法身')	8010895
+8010896	解脱知见蕴	解脫知見蘊	jiětuō zhī jiàn yùn	aggregate of knowledge and experience of liberation; vimuktijñānadarśanaskandha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimuktijñānadarśanaskandha, Tibetan: rnam par grol ba'i ye shes mthong ba'i phung po; see 解脫知見 (Mahāvyutpatti 'vimuktijñānadarśanaskandhaḥ')	8010896
+8010897	浓	濃	nóng	thick; dark; andhakāra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: andhakāra, Japanese: nou, or: jou (BCSD '濃', p. 746; MW 'andhakāra'; Unihan '濃')	8010897
+8010898	解脱知见众	解脫知見眾	jiětuō zhī jiàn zhòng	body of knowledge and experience of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫知見 (FGDB '五分法身')	8010898
+8010899	解脱知见品	解脫知見品	jiětuō zhī jiàn pǐn	body of knowledge and experience of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫知見 (FGDB '五分法身')	8010899
+8010900	专精	專精	zhuān jīng	single-mindedly and diligently	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 專一 and 精進 (Ding '專精'; SH '專精', p. 348)	8010900
+8010901	表	\N	biǎo	designation; vijñapti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijñapti, Pali viññatti, Japanese: hyou (BCSD '表', p. 1049; Edgerton 1953 'vijñapti', p. 485; Lamotte 1988, p. 18; MW 'vijñapti'; Unihan '表')	8010901
+8010902	众圣	眾聖	zhòng shèng	all sages	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '眾聖'; SH '眾聖')	8010902
+8010903	净衣	淨衣	jìng yī	pure clothing	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Clothing that has been given or the materials from which clothing was made were donated, in contrast to clothing that has been purchased; referring to the rules for monastics to not earn money that might be used to buy clothes (Ding '淨衣'; FGDB '淨衣')	8010903
+8010904	湿	濕	shī	wet; dravatva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravatva, or: drava, Japanese: shitsu, or: shū, Tibetan: gsher ba nyid (BCSD '濕', p. 746; Mahāvyutpatti 'dravatvam'; MW 'dravatva'; SH '濕', p. 459; Unihan '濕')	8010904
+8010905	一中	\N	yīzhōng	a hall of spread tables	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一中'; SH '一中', p. 1)	8010905
+8010906	一中	\N	yīzhōng	a hall with one seat	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一中')	8010906
+8010907	济	濟	jì	rescue; paritrāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paritrāṇa, Japanese: sai, or: sei (BCSD '濟', p. 746; MW 'paritrāṇa'; SH '濟', p. 459; Unihan '濟')	8010907
+8010908	一普	\N	yīpǔ	an assembling of monastics at a monastery	hrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一普'; SH '一普', p. 7)	8010908
+8010909	多劫	\N	duōjié	many kalpas; numerous eons	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '多劫')	8010909
+8010910	濡	\N	rú	sweat; saṃsveda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃsveda, Japanese: ju, or: nyu (BCSD '濡', p. 746; MW 'saṃsveda'; SH '濡', p. 459; Unihan '濡')	8010910
+8010911	爱见	愛見	ài jiàn	attachment to meeting with people	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '愛見'; FGDB '愛見'; SH '愛見', p. 402)	8010911
+8010912	见着	見著	jiàn zhuó	attachment to meeting with people	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 愛見 (FGDB '愛見')	8010912
+8010913	斯陀含果	\N	sītuóhán guǒ	the fruit of a Sakṛdāgāmin	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四果 'four fruits' (Ding '斯陀含果')	8010913
+8010914	异义	異義	yìyì	to establish different meanings	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '異義')	8010914
