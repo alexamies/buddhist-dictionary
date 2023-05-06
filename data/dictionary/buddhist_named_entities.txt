@@ -5117,7 +5117,7 @@
 7005117	安慧菩萨	安慧菩薩	ān huì púsà	An Hui	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 安慧 (FGDB '安慧')	7005117
 7005118	提婆菩萨	提婆菩薩	Típó púsà	Āryadeva	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 提婆 (FGDB '提婆')	7005118
 7005119	婆薮开士	婆藪開士	pósǒukāishì	Vasu	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Buddhist monastic credited with explaining the 百論 Śatakaśāstra, included in the Chinese Buddhist canon (FGDB '婆藪'; KDC 581; T 1569)	7005119
-7005120	广百论本	廣百論本	guǎng Bǎi lùn běn	Catuḥśataka; Guang Bai Lun Ben	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Catuḥśataka; the title of a text in the Chinese Buddhist canon (KDC 582; T 1570)	7005120
+7005120	广百论本	廣百論本	guǎng bǎi lùn běn	Catuhsataka; Guang Bai Lun Ben	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: catuḥśataka; the title of a text in the Chinese Buddhist canon (FGDB '廣百論本'; KDC 582; T 1570)	7005120
 7005121	圣天菩萨	聖天菩薩	shèng tiān púsà	Āryadeva	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 提婆 (FGDB '提婆')	7005121
 7005122	迦那提婆	\N	jiānàtípó	Kānadeva	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	(FGDB '迦那提婆')	7005122
 7005123	圣天	聖天	shèng tiān	Āryadeva	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 提婆 (FGDB '提婆')	7005123
@@ -7117,3 +7117,9 @@
 7007117	明昱	\N	míngyù	Mingyu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Ming Dynasty monastic (FGDB '明昱')	7007117
 7007118	富娄沙富罗	富婁沙富羅	fùlóushāfùluó	Purusapura	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣapura (Dalia 2002, p. 37; FGDB '富婁沙富羅'; SH '富婁沙富羅', p. 370)	7007118
 7007119	富留沙富罗	富留沙富羅	fùliúshāfùluó	Purusapura	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣapura; see 富婁沙富羅 (SH '富婁沙富羅', p. 370)	7007119
+7007120	末笯曷剌他	\N	mònúhélátā	Manoratta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Indian monastic (FGDB '末笯曷剌他')	7007120
+7007121	摩㝹罗他	摩㝹羅他	mónóuluótā	Manoratta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 末笯曷剌他 (FGDB '末笯曷剌他')	7007121
+7007122	末笯曷利他	\N	mònúhélìtā	Manoratta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 末笯曷剌他 (FGDB '末笯曷剌他')	7007122
+7007123	摩奴罗	摩奴羅	mónúluó	Manorhita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩拏羅 (SH '摩拏羅', p. 435)	7007123
+7007124	未笯曷利他	\N	wèinúhélìtā	Manorhita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩拏羅 (SH '摩拏羅', p. 435)	7007124
+7007125	广百论本	廣百論本	guǎng bǎi lùn běn	Catuhsataka; Guang Bai Lun Ben	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: catuḥśataka; see 廣百論 (FGDB '廣百論本')	7007125
