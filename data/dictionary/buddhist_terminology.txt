@@ -10924,7 +10924,7 @@
 8010924	紱婆	\N	fúpó	Vatsa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Personal name (BCSD '紱婆', p. 929)	8010924
 8010925	萨婆多部	薩婆多部	sàpóduō bù	Sarvastivada school	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sarvāstivāda; see 說一切有部 (FGDB '說一切有部')	8010925
 8010926	根缘	根緣	gēnyuán	nature and conditioning environment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 根性 'nature' and 境遇 'circumstances' (Ding '根緣'; SH '根緣', p. 327)	8010926
-8010927	滥	濫	làn	raṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raṃ, Japanese: ran (BCSD '濫', p. 747; BCSD '濫', p. 459; Unihan '濫')	8010927
+8010927	滥	濫	làn	raṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: raṃ, Japanese: ran (BCSD '濫', p. 747; SH '濫', p. 459; Unihan '濫')	8010927
 8010928	知事	\N	zhī shì	Director of Affairs; Karmadana; Vinaya Master; Discipline Master	proper noun	职事	Post	佛教	Buddhism	禪宗	Chan School	\N	\N	An administrative position in a Chan monastery (Ding '知事'; FGDB '知事'; SH '知事', p. 275)	8010928
 8010929	营事	營事	yíng shì	Director of Affairs; Karmadana; Vinaya Master; Discipline Master	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	See 知事 (FGDB '知事')	8010929
 8010930	授事	\N	shòu shì	Director of Affairs; Karmadana; Vinaya Master; Discipline Master	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	See 知事 (FGDB '知事')	8010930
@@ -10934,5 +10934,12 @@
 8010934	知院事	\N	zhī yuàn shì	Director of Affairs; Karmadana; Vinaya Master; Discipline Master	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	See 知事 (FGDB '知事')	8010934
 8010935	意解	\N	yì jiě	liberation of thought	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '意解'; SH '意解', p. 400)	8010935
 8010936	生住灭	生住滅	shēng zhù miè	arising, duration, and cessation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as mentioned in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” (SH '生住滅', p. 224; Nāgārjuna, Siderits and Katsura 2013, p. 74; T 1564 30.0009a28)	8010936
-8010937	秘藏	\N	mì cáng	to conceal a secret; treasury of the profound mysteries	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding'秘藏'; FGDB '祕藏'; SH '祕藏', p. 335)	8010937
-8010938	风界	風界	fēng jiè	wind; wind element; wind realm	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 'four elements' (Ding '風界'; FGDB '風界'; SH '風界', p. 318)	8010938
+8010937	秘藏	\N	mì cáng	to conceal a secret; treasury of the profound mysteries	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding'秘藏'; FGDB '祕藏'; SH '祕藏', p. 335)	8010937
+8010938	风界	風界	fēng jiè	wind; wind element; wind realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 'four elements' (Ding '風界'; FGDB '風界'; SH '風界', p. 318)	8010938
+8010939	濬	\N	jùn	deep; gambhīra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gambhīra, Japanese: shun (BCSD '濬', p. 747; MW 'gambhīra'; Unihan '濬')	8010939
+8010940	通论	通論	tōng lùn	a detailed explanation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 申論 (Ding '通論')	8010940
+8010941	依他性	\N	yī tā xìng	not having a nature of its own	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: para-tantra-svabhāva; for example, as mentioned in Scroll 1 of 攝大乘論 Mahāyānasaṅgraha; see also 依他起性 (FGDB '三性'; SH '依他性', p. 249; Asaṅga and Keenan 2003, p. 10; T 1593 31.0113b13)	8010941
+8010942	濯	\N	zhuó	wash; dhāva	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāva, Japanese: taku (BCSD '濯', p. 747; MW 'dhāva'; Unihan '濯')	8010942
+8010943	因缘相	因緣相	yīnyuán xiāng	not having a nature of its own	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 依他起性 (FGDB '三性')	8010943
+8010944	首楞伽摩	\N	shǒuléngjiāmó	śūraṅgama; heroic; resolute	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṅgama; see 首楞嚴 (SH '首楞嚴', p. 318)	8010944
+8010945	首楞严	首楞嚴	shǒuléngyán	śūraṅgama; heroic; resolute	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṅgama; name of a samādhi (SH '首楞嚴', p. 318)	8010945
