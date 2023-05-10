@@ -5196,7 +5196,7 @@
 8005196	诸比丘尼	諸比丘尼	zhū bǐqiūní	nuns	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣuṇyaḥ (BCSD '諸比丘尼', p. 1088)	8005196
 8005197	截斷众流	截斷眾流	jiéduàn zhòng liú	to cut off many streams	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Quote: Chan saying from Koan 1 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 11; T 2003, Scroll 1; FGDB '雲門劍'; Guoyu '截斷眾流')	8005197
 8005198	云门剑	雲門劍	yúnmén jiàn	Yunmen's sword	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A metaphorical sword used by Chan Master Yunmen to cut off delusion (FGDB '雲門劍')	8005198
-8005199	因明	\N	yīnmíng	Buddhist logic; hetuvidyā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hetuvidyā, Japanese: inmyō, Tibetan: kye rdo rje; a branch of Buddhist philosophy centered on logical debate (BL 'hetuvidyā', p. 348; Ding '因明'; FGDB '因明'; SH '因明', p. 205)	8005199
+8005199	因明	\N	yīnmíng	Buddhist logic; hetuvidya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hetuvidyā, Japanese: inmyō, Tibetan: kye rdo rje; a branch of Buddhist philosophy centered on logical debate (BL 'hetuvidyā', p. 348; Ding '因明'; FGDB '因明'; SH '因明', p. 205)	8005199
 8005200	因明学	因明學	yīnmíng xué	Buddhist logic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hetuvidyā; see 因明 (FGDB '因明')	8005200
 8005201	诸佛	諸佛	zhū fó	Buddhas; all Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhāḥ, or: sarva-buddha (BCSD '諸佛', p. 1089)	8005201
 8005202	诸见	諸見	zhū jiàn	views; all views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva-dṛṣṭi; may refer to all heterodox opinions (BCSD '諸見', p. 1089; SH '諸見', p. 451)	8005202
@@ -8445,7 +8445,7 @@
 8008445	四他胜法	四他勝法	sì tāshèngfǎ	four rules for expulsion from the saṃgha; four pārājikas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四波羅夷 (FGDB '四波羅夷')	8008445
 8008446	四波罗夷戒	四波羅夷戒	sì bōluóyíjiè	four rules for expulsion from the saṃgha; four pārājikas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四波羅夷 (FGDB '四波羅夷')	8008446
 8008447	四夷戒	\N	sì yíjiè	four rules for expulsion from the saṃgha; four pārājikas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四波羅夷 (FGDB '四波羅夷')	8008447
-8008448	兜	\N	dōu	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (Kroll 2015 '兜' 2, pp. 91-92)	8008448
+8008448	兜	\N	dōu	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou; see 兜率天 (BCSD '兜', p. 156; Kroll 2015 '兜' 2, pp. 91-92; SH '兜', p. 343; Unihan '兜')	8008448
 8008449	色处	色處	sèchù	the visible realm	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '色處'; SH '色處')	8008449
 8008450	总持	總持	zǒngchí	dharani; total retention	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇī; literally, total retention, for memorization of a longer text, see 陀羅尼 (Ding '總持'; Goble 2019, pp. 32-34; SH '總持', p. 461)	8008450
 8008451	胜解	勝解	shèngjiě	adhimokṣa; adhimoksa; adhimokkha; resolution; determination; zeal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimokṣa, Pali: adhimokkha, Japanese: shōge (Ding '勝解'; FGDB '勝解'; SH '大地法', p. 86)	8008451
@@ -10948,3 +10948,7 @@
 8010948	性起	\N	xìng qǐ	arising from nature	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In contrast to 緣起 'arising from causes and conditions' (Ding '性起'; FGDB '性起'; SH '性起', p. 259)	8010948
 8010949	渎	瀆	dú	a stream; ogha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ogha, Japanese: toku, or: tou (BCSD '瀆', p. 747; MW 'ogha'; Unihan '瀆')	8010949
 8010950	智光	\N	zhìguāng	the light of wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñānaprabha, Tibetan: ye shes 'od; in the sense of 智慧之光 (Ding '智光'; FGDB '智光'; Mahāvyutpatti 'jñānaprabhaḥ'; SH '智光', p. 374)	8010950
+8010951	罗门	羅門	luómén	Brahman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Short for 婆羅門 (FGDB '婆羅門')	8010951
+8010952	瀑	\N	pù	torrent; ogha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ogha, Japanese: baku, or: hou, or: toku (BCSD '瀑', p. 747; MW 'ogha'; SH '瀑', p. 465; Unihan '瀑')	8010952
+8010953	方等部	\N	fāngděng bù	Saṃnipāta Division	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the five traditional divisions of the Mahayana canon (FGDB '方等部'; Li 2020, p. 69)	8010953
+8010954	兜沙	\N	dōushā	tuṣāra; frost	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣāra (SH '兜沙', p. 343; MW 'tuṣāra')	8010954
