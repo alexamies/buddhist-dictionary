@@ -10316,7 +10316,7 @@
 8010316	真实三宝	真實三寶	zhēn shí sān bǎo	True Triple Gem	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '別體三寶'; Tzu Chuang 2012)	8010316
 8010317	年幼沙弥	年幼沙彌	nián yòu shā mí	Small Young Novices	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010317
 8010318	有友如秤	\N	yǒu yǒu rú chèng	Friendship Like a Balance-scale	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012)	8010318
-8010319	洒	灑	sǎ	sprinkle	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sei, or: sen, or: sha (BCSD '洒', p. 722; Unihan '洒')	8010319
+8010319	洒	灑	sǎ	sprinkle; sic	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sic, Japanese: sei, or: sen, or: sha (BCSD '灑', p. 748; MW 'sic'; SH '灑', p. 487; Unihan '灑')	8010319
 8010320	在畜生难	在畜生難	zài xù shēng nán	Animal Realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八難'; Tzu Chuang 2012)	8010320
 8010321	一心不乱	一心不亂	yī xīn bù luàn	a steady mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一心不亂'; Tzu Chuang 2012)	8010321
 8010322	不杀生	不殺生	bù shā shēng	Refrain from killing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prāṇātipātād (FGDB '殺生'; Mahāvyutpatti 'prāṇātipātaviratiḥ'; SH '不殺生', p. 107; Tzu Chuang 2012)	8010322
@@ -10952,3 +10952,27 @@
 8010952	瀑	\N	pù	torrent; ogha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ogha, Japanese: baku, or: hou, or: toku (BCSD '瀑', p. 747; MW 'ogha'; SH '瀑', p. 465; Unihan '瀑')	8010952
 8010953	方等部	\N	fāngděng bù	Saṃnipāta Division	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the five traditional divisions of the Mahayana canon (FGDB '方等部'; Li 2020, p. 69)	8010953
 8010954	兜沙	\N	dōushā	tuṣāra; frost	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣāra (SH '兜沙', p. 343; MW 'tuṣāra')	8010954
+8010955	沥	瀝	lì	to rain upon; abhivṛṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhivṛṣ, Japanese: reki (BCSD '瀝', p. 747; MW 'abhivṛṣ'; Unihan '瀝')	8010955
+8010956	随类	隨類	suílèi	according to type	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially for a Buddhas or bodhisattvas to manifest in a form suitable to help a person of a certain type (Ding '隨類'; FGDB '隨類'; SH '隨類', p. 453)	8010956
+8010957	童真	\N	tóng zhēn	having the simplicity of a child; kumārabhūta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kumārabhūta; a historic term of address for a monastic (Ding '童真'; FGDB '童真'; SH '童真', p. 384)	8010957
+8010958	灌	\N	guàn	consecrating (by sprinkling water); abhiṣeka	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhiṣeka, Japanese: reki (BCSD '灌', p. 747; MW 'abhiṣeka'; SH '灌', p. 483; Unihan '灌')	8010958
+8010959	究摩罗浮多	究摩囉浮多	jiūmóluōfúduō	having the simplicity of a child; kumārabhūta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 童真 (FGDB '童真')	8010959
+8010960	真妄	\N	zhēnwàng	true and false; real and imaginary	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '真妄'; FGDB '真妄'; SH '真妄', p. 331)	8010960
+8010961	滩	灘	tān	beach	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: dan, or: kan (BCSD '灘', p. 747; Unihan '灘')	8010961
+8010962	第二禅	第二禪	dì èr chán	second dhyāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the 四禪 'four dhyānas' (Ding '第二禪'; FGDB '第二禪'; SH '第二禪', p. 362)	8010962
+8010963	腊次	臘次	làcì	order in years as a monastic	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '臘次'; FGDB '臘次'; SH '臘次', p. 472)	8010963
+8010964	﨟次	\N	làcì	order in years as a monastic	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 臘次 (FGDB '臘次')	8010964
+8010965	湾	灣	wān	artificial pond; khāta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: wan (BCSD '灣', p. 747; MW 'khāta'; SH '灣', p. 483; Unihan '灣')	8010965
+8010966	三苦	\N	sānkǔ	three kinds of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trayaduḥkhatā, Tibetan: sdug bsngal gsum gyi ming la; the three are: (1) 苦苦 'suffering from external circumstances', (2) 壞苦 'suffering from impermanence, and (3) 行苦 'suffering as a consequence of action' (Ding '三苦'; FGDB '三苦'; Karashima 2001 '三苦'; Mahāvyutpatti 'trayaduḥkhatā'; SH '三苦', p. 75)	8010966
+8010967	坏苦	壞苦	huài kǔ	suffering from impermanence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipariṇāmaduḥkhatā, Pali: vipariṇāmadukkhatā; Japanese: eku; one of the 三苦 'three kinds of suffering' (BL 'vipariṇāmaduḥkhatā'; Ding '壞苦'; FGDB '壞苦'; SH '壞苦', p. 471)	8010967
+8010968	灯	燈	dēng	a lamp; a lantern	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpa, Japanese: tou, or: tei, or: chou, Tibetan: mar me; a metaphor for truth (BCSD '燈', p. 797; Edgerton 1953 'dīpa', p. 265; Kroll 2015 '燈' 1a, p. 80; Mahāvyutpatti 'dīpaḥ'; MW 'dīpa'; SH '燈', p. 448; Unihan '燈')	8010968
+8010969	变异苦	變異苦	biànyì kǔ	suffering from impermanence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 壞苦 (FGDB '壞苦')	8010969
+8010970	真法	\N	zhēn fǎ	true dharma; absolute dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '真法'; SH '真法', p. 332)	8010970
+8010971	灰	\N	huī	ash; kṣāra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣāra, Japanese: kai (BCSD '灰', p. 749; MW 'kṣāra'; SH '灰', p. 216; Unihan '灰')	8010971
+8010972	和合僧	\N	héhé sēng	saṃgha; monastic gathering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha (Ding '和合僧'; FGDB '和合僧')	8010972
+8010973	和合众	和合眾	héhé zhòng	saṃgha; monastic gathering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和合僧 (FGDB '和合僧')	8010973
+8010974	灸	\N	jiǔ	heating; vitapana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitapana, Japanese: kyū (BCSD '灸', p. 749; Edgerton 1953 'vitapana', p. 487; Unihan '灸')	8010974
+8010975	偏真圆真	偏真圓真	piānzhēn yuánzhēn	partially true and completely true	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '偏真圓真')	8010975
+8010976	和僧	\N	hésēng	saṃgha; monastic gathering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和合僧 (FGDB '和合僧')	8010976
+8010977	和众	和眾	hé zhòng	saṃgha; monastic gathering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和合僧 (FGDB '和合僧')	8010977
+8010978	灼	\N	zhuó	burn	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shaku (BCSD '灼', p. 749; Unihan '灼')	8010978
