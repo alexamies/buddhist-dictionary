@@ -313,7 +313,7 @@
 8000313	空	\N	kōng	sunyata; emptiness; emptiness of inherent existence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	kong1.mp3	Sanskrit equivalent: śūnyatā, Pali: suññatā, suñña; Japanese: kū; Tibetan: stong pa nyid; śūnyatā as the concept in Buddhism that all phenomenon lack a self and are subject to dependent origination (BL 'śūnyatā', pp. 871-872; FGDB '空';  JEDB 'kū', p. 204; Kroll 2015 '空' 3, p. 241; Powers 2007, p. 103; Tzu Chuang 2012, p. 93)	8000313
 8000314	五戒	\N	wǔ jiè	the five precepts	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaśīla, Pali: pañcasīla, Japanese: gokai, Tibetan: bslab pa lnga; the five precepts are 不杀生 'no killing', 不偷盗 'no stealing', 不邪淫 'no sexual misconduct', 不妄语 'no false speech', 不饮酒 'no alchohol' (BL 'pañcaśīla', pp. 616-617; FGDB '五戒'; SH '五戒', p. 118; Tzu Chuang 2012, pp. 256-258)	8000314
 8000315	戒律	\N	jiè lǜ	śīla and vinaya; precepts and rules	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śīla, Tibetan: tshul khrims sam ngang tshul (Ding '戒律'; FGDB '戒律'; Mahāvyutpatti 'śīlam'; SH '戒律', p. 239)	8000315
-8000316	三昧地	\N	sānmèidì	samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: see 三昧 (FGDB '三昧')	8000316
+8000316	三昧地	\N	sānmèidì	samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; see 三昧 (FGDB '三昧')	8000316
 8000317	三法印	\N	sān fǎ yìn	Three Dharma Seals	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmamudrā, Pali: dhammamuddā, Japanese: hōin, Tibetan: chos rtags kyi phyag rgya; the Three Dharma Seals are 無常 anitya 'impermanence', 無我 anātman 'non-self', and 涅盘 Nirvāṇa (BL 'dharmamudrā', p. 248; FGDB '三法印'; SH '三法印', p. 69; Tzu Chuang 2012, pp. 75-77)	8000317
 8000318	菩提达磨	菩提達磨	pútídámó	Bodhidharma	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhidharma, Japanese: Bodaidaruma; often called simply 达摩, was First Patriarch of the Chan (Zen) School of Buddhism (BL 'Bodhidharma'; FGDB '菩提達磨', p. 132; SH '菩提達磨', p. 389; Wikipedia '菩提达摩')	8000318
 8000319	达磨	達磨	dámó	Bodhidharma	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 菩提達磨 (Wikipedia '菩提达摩')	8000319
@@ -11000,3 +11000,9 @@
 8011000	龙众	龍眾	lóng zhòng	dragon spirits	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 龍神 (FGDB '龍神')	8011000
 8011001	教行	\N	jiāo xíng	teaching and practice; instruction and conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '教行'; FGDB '教行'; SH '教行', p. 352)	8011001
 8011002	玄应	玄應	xuányīng	a profound response	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '玄應', p. 194)	8011002
+8011003	炭	\N	tàn	charcoal; aṅgāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgāra, Japanese: tan (BCSD '炭', p. 750; MW 'aṅgāra'; SH '炭', p. 308; Unihan '炭')	8011003
+8011004	明法	\N	míng fǎ	method of mantras; magic formule	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '明法'; SH '明法', p. 262)	8011004
+8011004	心缘	心緣	xīn yuán	cognition of the environment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '心緣'; FGDB '心緣'; SH '心緣', p. 151)	8011004
+8011005	炷	\N	zhù	wick of an oil lamp; vartikā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vartikā, or: varti, Japanese: shu (BCSD '炷', p. 750; Edgerton 1953 'varti', p. 471; MW 'vartikā'; SH '炷', p. 308; Unihan '炷')	8011005
+8011006	一智	\N	yī zhì	knowledge of all aspects; all embracing wisdom; sarvākārajñatā; sarvakarajnata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一切種智 (FGDB '一切種智')	8011006
+8011007	刹海	剎海	shāhǎi	land and sea	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 剎土大海 (Ding '剎海'; FGDB '剎海'; SH '剎海', p. 251)	8011007
