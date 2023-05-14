@@ -4561,7 +4561,7 @@
 8004561	俱	\N	jū	together; sardham	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sārdham, Tibetan: lhan cig gam thabs gcig (BCSD '俱', p. 140; Mahāvyutpatti 'sārdham'; MW 'sārdham')	8004561
 8004562	娑婆贺	娑婆賀	suōpóhè	svaha; hail	interjection	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svāhā; used in mantras, for example in 地藏菩薩儀軌 ”Ksitigarbha Bodhisattva Liturgy” (BCSD '娑婆賀', p. 363; MW 'svāhā'; Zhiru 2007, p. 253; T 1158, 20.0652a22)	8004562
 8004563	娑婆诃	娑婆訶	suōpóhē	svaha; hail	interjection	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svāhā; see 娑婆賀 (BCSD '娑婆賀', p. 363)	8004563
-8004564	炎	\N	yán	light; arcis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arcis (BCSD '炎', p. 750; MW 'arcis')	8004564
+8004564	炎	\N	yán	light; blaze; arcis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arcis, Japanese: en, or: tan (BCSD '炎', p. 750; MW 'arcis'; SH '炎', p. 274; Unihan '炎')	8004564
 8004565	居士林	\N	jūshì lín	lay Buddhist association	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教居士林')	8004565
 8004566	草菴	草庵	cǎo ān	a Buddhist hermitage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '草庵'; FGDB '庵'; SH '草庵', p. 338)	8004566
 8004567	蓬菴	蓬庵	cǎo ān	a Buddhist hermitage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 草庵 (FGDB '庵')	8004567
@@ -10976,3 +10976,14 @@
 8010976	和僧	\N	hésēng	saṃgha; monastic gathering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和合僧 (FGDB '和合僧')	8010976
 8010977	和众	和眾	hé zhòng	saṃgha; monastic gathering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和合僧 (FGDB '和合僧')	8010977
 8010978	灼	\N	zhuó	burn	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shaku (BCSD '灼', p. 749; Unihan '灼')	8010978
+8010979	戒本	\N	jiè běn	Prātimokṣasūtra; Sutra on the Code	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prātimokṣasūtra, Japanese: Kaihon, Tibetan: So sor thar pa’i mdo; the sūtra listing monastic rules; see also 戒經 (BL 'Prātimokṣasūtra', p. 667)	8010979
+8010980	利养缚	利養縛	lì yǎng fú	bond of selfish gain	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '利養縛'; SH '利養縛', p. 230)	8010980
+8010981	灾	災	zāi	disaster; vipatti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipatti, Japanese: sai (BCSD '災', p. 750; MW 'vipatti'; Unihan '災')	8010981
+8010982	释疑	釋疑	shì yí	explanation of doubts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '釋疑'; FGDB '釋疑'; SH '釋疑', p. 482)	8010982
+8010983	大般涅槃	\N	dà bānnièpán	mahāparinirvāṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大般涅槃'; FGDB '大般涅槃'; SH '大般涅槃', p. 94)	8010983
+8010984	炊	\N	chuī	cooked; decayed; pakva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pakva, Pali: pakka, Japanese: sui (BCSD '炊', p. 750; Edgerton 1953 'pakva', p. 314; MW 'pakva'; Unihan '炊')	8010984
+8010985	应法	應法	yīng fǎ	in harmony with the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '應法'; SH '應法', p. 458)	8010985
+8010986	外记	外記	wàijì	Record Keeper; Secretary	proper noun	职事	Post	佛教	Buddhism	中国	China	\N	\N	See 書記 (FGDB '書記')	8010986
+8010987	主掌经藏	主掌經藏	zhǔzhǎng jīngzàng	Librarian; Chief of Sutra Repository	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	See 藏主 (FGDB '藏主')	8010987
+8010988	闲居	閑居	xián jū	a place to rest	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '閑居')	8010988
+8010989	正意	\N	zhèngyì	wholesome thought; thought without evil	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '正意')	8010989
