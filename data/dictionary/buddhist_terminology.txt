@@ -4573,7 +4573,7 @@
 8004573	尊	\N	zūn	lord; patron; natha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nātha, Tibetan: mgon (BCSD '尊', p. 393; Mahāvyutpatti 'nāthaḥ'; MW 'nātha')	8004572
 8004574	尊那	\N	zūnnà	Cunda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cunda; personal name (BCSD '尊那'; MW 'cunda')	8004574
 8004575	现图曼荼罗	現圖曼荼羅	xiàntú màntúluó	Genzu Mandara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Genzu mandara (FGDB '曼荼羅'; Tanaka 2018, pp. 527-528)	8004575
-8004576	乌	烏	wū	crow; kaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāka (BCSD '烏', p. 751; MW '烏')	8004576
+8004576	乌	烏	wū	crow; kāka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāka, Japanese: o, or: u (BCSD '烏', p. 751; MW 'kāka'; SH '烏', p. 329; Unihan '烏')	8004576
 8004577	乌苏吒	烏蘇吒	wūsūzhà	Usota	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The name of a mantra (Baike '烏蘇吒咒'; T 1178)	8004577
 8004578	功能	\N	gōngnéng	ability; power; samartha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samartha (FGDB '功能'; MW 'samartha'; SH '功能', p. 168)	8004578
 8004579	菴室	庵室	ānshì	a Buddhist hermitage	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 草庵 (FGDB '庵')	8004579
@@ -11018,4 +11018,10 @@
 8011018	罪障	\N	zuì zhàng	the barrier of sin	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '罪障'; FGDB '罪障'; SH '罪障', p. 410)	8011018
 8011019	异生性	異生性	yìshēng xìng	the disposition of an ordinary person	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '異生性'; FGDB '異生性')	8011019
 8011020	凡夫性	\N	fánfū xìng	the disposition of an ordinary person	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 異生性 (FGDB '異生性')	8011020
-8011021	生死海	\N	shēngsǐhǎi	the ocean of Saṃsāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生死海'; FGDB '生死海')	8011021
+8011021	生死海	\N	shēngsǐ hǎi	the ocean of Saṃsāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生死海'; FGDB '生死海')	8011021
+8011022	烔	\N	tóng	heat	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou, or: zu (BCSD '烔', p. 751; Unihan '烔')	8011022
+8011023	一期	\N	yīqī	a date; a fixed time	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(GDB '一期'; SH '一期', p. 7)	8011023
+8011024	一期	\N	yīqī	a lifetime	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一期'; FGDB '一期'; SH '一期', p. 7)	8011023
+8011025	人趣	\N	rén qù	Human Realm	proper noun	趣	Realm	佛教	Buddhism	\N	\N	\N	\N	(Ding '人趣'; SH '人趣', p. 33)	8011025
+8011026	现证	現證	xiàn zhèng	immediate realization	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '現證'; SH '現證', p. 359)	8011026
+8011027	密迹	密跡	mìjì	secret tracks	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '密跡'; SH '密迹', p. 348)	8011027
