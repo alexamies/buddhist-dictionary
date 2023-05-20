@@ -2902,7 +2902,7 @@
 8002902	胜	勝	shèng	conquering; victorious; jaya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jaya, or: jina, Japanese: shō, Tibetan: rgyal ba (BCSD '胜', p. 205; DJBT '胜', p. 433; Mahāvyutpatti 'jinaḥ'; MW 'jaya'; SH '勝', p. 367)	8002902
 8002903	胜	勝	shèng	superior; agra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agra, Tibetan: mchog (BCSD '胜', p. 205; Mahāvyutpatti 'agraḥ'; MW 'agra')	8002902
 8002904	无胜	無勝	wú shèng	unsurpassed; ajita; vijaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ajita, or: vijaya; for example, in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as vijaya (MW 'vijaya'; SH '無勝', p. 378; Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002904
-8002905	无	無	wú	not; non-	prefix	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a-, or: na-, or: ni-, or: vi-; denotes negation (BCSD '無', p. 752; SH '無', p. 377)	8002905
+8002905	无	無	wú	not; non-	prefix	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: a-, or: na-, or: ni-, or: vi-, Japanese: mu, or: bu; denotes negation (BCSD '無', p. 752; SH '無', p. 377; Unihan '無')	8002905
 8002906	地神	\N	dì shén	Prthivi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthivī; see 地天 (SH '地天', p. 207)	8002906
 8002907	辩才	辯才	biàncái	eloquence; pratibhāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratibhāna (BCSD '辯才', p. 1140; Karashima 2001, p. 60; MW 'pratibhāna')	8002907
 8002908	萨啰萨伐底	薩囉薩伐底	sàluósàfádǐ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (FGDB '辯才天')	8002908
@@ -4609,7 +4609,7 @@
 8004609	大教王	\N	dà jiāo wáng	tantra	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 怛特羅 (Lü 2017, pp. 77-78)	8004609
 8004610	宝贤	寶賢	bǎo	Manibhadra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇibhadra; king of the yaksas (BCSD '寶賢', p. 390; MW 'maṇibhadra')	8004610
 8004611	六神通	\N	liù shéntōng	the six supernatural powers	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Heavenly vision 天眼通, (2) heavenly hearing 天耳通, (3) mind reading 他心通 (4) teleportation 神足通 (5) knowledge of past lives 宿命通 (6) destruction of all affliction 漏尽通; FGS translation standard: Six Supernatural Powers (Eitel 'abhijñā', p. 3; Tzu Chuang 2012, pp. 324-326)	8004611
-8004612	焰	\N	yàn	flame; blaze	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādīpta, Tibetan: 'bar (BCSD '焰', p. 791; Mahāvyutpatti 'ādīptaḥ'; MW 'ādīpta')	8004612
+8004612	焰	\N	yàn	flame; blaze	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādīpta, Japanese: en, Tibetan: 'bar (BCSD '焰', p. 791; Mahāvyutpatti 'ādīptaḥ'; MW 'ādīpta'; SH '焰', p. 377; Unihan '焰')	8004612
 8004613	焰罗	焰羅	yànluó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yama; see 閻魔 (FGDB '焰羅王供行法次第')	8004613
 8004614	十二天	\N	shí èr	twelve devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The devas of the ten directions in addition to Aditya and Candra (Abé 1999, p. 525; FGDB '十二天')	8004614
 8004615	阎魔	閻魔	yánmó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 閻魔 (FGDB '閻魔王')	8004615
@@ -11037,6 +11037,20 @@
 8011037	顶门	頂門	dǐngmén	forehead; mūrdhan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūrdhan (BCSD '頂門' 1, p. 1260)	8011037
 8011038	忍法	\N	rěn fǎ	method or stage of patience	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣānti; one of the seven stages in development of Arhatship (FGDB '忍法'; SH '忍法', p. 237)	8011038
 8011039	忍法位	\N	rěnfǎwèi	method or stage of patience	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣānti; see 忍法 (BCSD '忍法位', p. 467; SH '忍法', p. 237)	8011039
-8011039	世第一法	\N	shì dì yī fǎ	the foremost dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: laukikāgryadharma; the final of the 四加行 four prayoga (FGDB '世第一法'; Mahāvyutpatti 'laukikāgryadharmaḥ'; SH '世第一法', p. 164)	167370
-8011040	断见	斷見	duàn jiàn	view that life ends with death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uccheda-dṛṣṭi or: uccheda-darśana, Pali: uccheda-diṭṭhi; one of the two extreme views, the other being eternalism  (FGDB '斷見'; SH '斷見', p. 465)	8011040
-8011041	二惑	\N	èr huò	the two aspects of delusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二惑'; SH '二惑'p. 25)	8011041
+8011040	世第一法	\N	shì dì yī fǎ	the foremost dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: laukikāgryadharma; the final of the 四加行 four prayoga (FGDB '世第一法'; Mahāvyutpatti 'laukikāgryadharmaḥ'; SH '世第一法', p. 164)	8011040
+8011041	断见	斷見	duàn jiàn	view that life ends with death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uccheda-dṛṣṭi or: uccheda-darśana, Pali: uccheda-diṭṭhi; one of the two extreme views, the other being eternalism  (FGDB '斷見'; SH '斷見', p. 465)	8011041
+8011042	二惑	\N	èr huò	the two aspects of delusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二惑'; SH '二惑'p. 25)	8011042
+8011043	焚	\N	fén	to burn; dah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dah, Japanese: fun (BCSD '焚', p. 751; MW 'dah'; SH '焚', p. 377; Unihan '焚')	8011043
+8011044	违顺	違順	wéi shùn	resisting and complying; disobeying and obeying	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 逆順 (FGDB '違順')	8011044
+8011045	异品	異品	yìpǐn	of a different kind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '異品'; FGDB '異品'; SH '異品', p. 361)	8011045
+8011046	焦	\N	jiāo	scorched; dagdha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dagdha, Japanese: shou (BCSD '焦', p. 791; MW 'dagdha'; SH '焚', p. 377; Unihan '焦')	8011046
+8011047	红尘	紅塵	hóng chén	world of mortals; human society; worldly affairs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '紅塵'; Guoyu '紅塵'; Mathews 1931 '紅塵', p. 40)	8011047
+8011048	平等心	\N	píngděng xīn	an impartial mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '平等心'; FGDB '平等心'; SH '平等心', p. 187)	8011048
+8011049	然	\N	rán	indeed; vā	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vā, Japanese: zen, or: nen (BCSD '然', p. 792; Mahāvyutpatti 'vā'; MW 'vā'; SH '然', p. 377; Unihan '然')	8011049
+8011050	九方便	\N	jiǔ fāngbiàn	nine means	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Nine chants to in the Garbhadhatu Ritual, an Esoteric ceremony (FGDB '九方便'; SH '九方便', p. 18)	8011050
+8011051	胎藏界法	\N	tāicáng jiè fǎ	Garbhadhatu Ritual	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: taizōkai hō; an esoteric ritual (FGDB '胎藏界法'; Rambelli 2015, p. 118)	8011051
+8011052	煈	\N	fèng	a plume of hair on the top of the head	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikhā, Japanese: zen, or: nen (BCSD '煈', p. 792; MW 'śikhā'; Unihan '煈')	8011052
+8011053	身证	身證	shēn zhèng	bodily witness; one who has bodily testimony; kāyasākṣin	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāyasākṣin, Pali: kāyaskkhi, Japanese: shinshō (BL 'kāyasākṣin'; Ding '身證'; FGDB '身證')	8011053
+8011054	上根	\N	shàng gēn	a person of superior capacity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '上根'; FGDB '上根'; SH '上根', p. 56)	8011054
+8011055	炼	煉	liàn	smelt	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ren (BCSD '煉', p. 792; Unihan '煉')	8011055
+8011056	炼金匠	煉金匠	liànjīnjiàng	goldsmith; sauvarṇika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sauvarṇika (BCSD '煉金匠', p. 792; MW 'sauvarṇika')	8011056
