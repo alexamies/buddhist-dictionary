@@ -8427,10 +8427,10 @@
 8008427	修法	\N	xiūfǎ	a ritual	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '修法'; FGDB '修法')	8008427
 8008428	尘	塵	chén	an atom; aṇu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṇu (BCSD '塵'; FGDB '塵'; MW 'aṇu'; SH '塵', p. 422)	8008428
 8008429	弹	彈	tán	a boil; sphoṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphoṭaka, Japanese: dan (BCSD '彈', p. 436; MW 'sphoṭaka'; Unihan '彈')	8008429
-8008430	薰习	薰習	xūnxí	vāsanā; permeation; infusing; perfuming; predispositions; habituations; latent tendencies	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsanā, Japanese: kunjū; literally, meaning the perfuming but referring to tendencies created by repeated exposure to either positive or negative influences  (BL 'vāsanā'; Ding '薰習'; FGDB '薰習'; MW 'vāsanā';  SH '薰習', p. 467)	8008430
+8008430	薰习	薰習	xūnxí	vāsanā; permeation; infusing; perfuming; predispositions; habituations; latent tendencies	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsanā, Japanese: kunjū; literally, meaning the perfuming but referring to tendencies created by repeated exposure to either positive or negative influences  (BCSD '熏習', p. 796; BL 'vāsanā'; Ding '薰習'; FGDB '薰習'; MW 'vāsanā';  SH '薰習', p. 467)	8008430
 8008431	熏习	熏習	xūnxí	vāsanā; permeation; infusing; perfuming; predispositions; habituations; latent tendencies	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 薰習 (FGDB '薰習')	8008431
 8008432	薰	\N	xūn	vāsanā; infusing; perfuming; predispositions; habituations; latent tendencies	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 薰習 (FGDB '薰習')	8008432
-8008433	熏	\N	xūn	vāsanā; permeation; infusing; perfuming; predispositions; habituations; latent tendencies	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 薰習 (FGDB '薰習')	8008433
+8008433	熏	\N	xūn	vāsanā; permeation; infusing; perfuming; predispositions; habituations; latent tendencies	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsanā, Japanese: kun; see also 薰習 (BCSD '薰', p. 795; FGDB '薰習'; MW 'vāsanā'; SH '薰', p. 425; Unihan '薰')	8008433
 8008434	念力	\N	niànlì	the power of mindfulness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; smṛtibala; one of the 五力 'five powers' (Ding '念力'; FGDB '念力'; SH '念力', p. 258)	8008434
 8008435	圆座	圓座	yuánzuò	a meditation mat	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 蒲團 (FGDB '蒲團')	8008435
 8008436	波罗夷	波羅夷	bōluóyí	pārājika; rules for expulsion from the saṃgha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent pārājika, Pali: pārājika, Japanese: harai; literally meaning 'defeat, the first part of the Vinaya that describes the rules for expulsion from the saṃgha (BL 'pārājika'; Ding '波羅夷'; FGDB '波羅夷'; SH '波羅夷')	8008436
@@ -11104,6 +11104,48 @@
 8011104	十六行相观	十六行相觀	shíliù xíng xiāng guān	sixteen forms of practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六行相 (FGDB '十六行相')	8011104
 8011105	十六圣行	十六聖行	shíliù shèng xíng	sixteen forms of noble practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六行相 (FGDB '十六行相')	8011105
 8011106	十六谛	十六諦	shíliù dì	sixteen forms of practice of the Four Nobles Truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六行相 (FGDB '十六行相')	8011106
-8011107	烦	煩	fán	trouble	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: han, or: bon (BCSD '煩', p. 793; SH '煩', p. ; Unihan '煩')	8011107
+8011107	烦	煩	fán	trouble	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: han, or: bon (BCSD '煩', p. 793; SH '煩', p. 406; Unihan '煩')	8011107
 8011108	同品	\N	tóngpǐn	same kind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '同品'; SH '同分', p. 204)	8011108
 8011109	同品	\N	tóngpǐn	similar instance; sapakṣa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sapakṣa, Japanese: dōhon; a method of reasoning by analogy in Buddhist logic (BL 'sapakṣa', p. 775; Ding '同品'; FGDB '同品'; SH '同分', p. 204)	8011109
+8011110	煻	\N	táng	to be hot; uṣṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇa (BCSD '煩', p. 795; MW 'uṣṇa'; Unihan '煻')	8011110
+8011111	四谛十六行相	四諦十六行相	sì dì shíliù xíng xiāng	sixteen forms of practice of the Four Nobles Truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六行相 (FGDB '十六行相')	8011111
+8011112	勇猛精进	勇猛精進	yǒngměngjīngjìn	bold advance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '勇猛精進'; SH '勇猛精進', p. 297)	8011112
+8011113	熊	\N	xióng	bear; ṛkṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛkṣa, Japanese: yū (BCSD '熊', p. 795; MW 'ṛkṣa'; SH '熊', p. 425; Unihan '熊')	8011113
+8011114	熊	\N	xióng	hyena; tarakṣu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tarakṣu, Tibetan: dred (BCSD '熊', p. 795; Mahāvyutpatti 'tarakṣuḥ'; MW 'tarakṣu')	8011113
+8011115	相应心	相應心	xiāngyīng xīn	a mind associated with mental afflictions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '相應心'; FGDB '相應心')	8011115
+8011116	三识	三識	sān shí	three levels of consciousness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three are: (1) 真識 'true consciousness' or original mind, (2) 現識 'manifested consciousness' that engages with the physical world, and (3) 分別事識 'discriminating consciousness' (Ding '三識'; FGDB '三識'; SH '三識', p. 77)	8011116
+8011117	荧	熒	yíng	to shine; prabhā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhā, Japanese: kei, or: gyou, or: kou (BCSD '熒', p. 796; Edgerton 1953 'prabhā', p. 382; MW 'prabhā'; SH '熒', p. 425; Unihan '熒')	8011117
+8011118	真识	真識	zhēnshí	true consciousness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三識 'three levels of consciousness' (Ding '三識'; FGDB '三識'; SH '三識', p. 77)	8011118
+8011119	火宅	\N	huǒ zhái	the parable of the burning house	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 七喻 'severn parables' of the Lotus Sutra (Ding '火宅'; FGDB '火宅'; SH '火宅', p. 161)	8011119
+8011120	熟	\N	shú	familiarity; paricaya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paricaya, Japanese: juku, Tibetan: 'dris pa (BCSD '熟', p. 796; MW 'paricaya'; SH '熟', p. 439; Unihan '熟')	8011120
+8011121	六十二见	六十二見	liùshíèr jiàn	sixty two views	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several formulations, one of which is given in the 大品般若經 Pancavimsati Sahasrika Prajnaparamita Sutra (Ding '六十二見'; FGDB '六十二見'; SH '六十二見', p. 132)	8011121
+8011122	施食	\N	shīshí	to give food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, to hungry ghosts (Ding '施食'; FGDB '施食'; SH '施食', p. 303)	8011122
+8011123	熠	\N	yì	to shine; to glow	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: yū, or: shū, or: jū (BCSD '熠', p. 796; Unihan '熠')	8011123
+8011124	取果	\N	qǔ guǒ	a producing seed; producing fruit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '取果'; FGDB '取果與果'; SH '取與', p. 251)	8011124
+8011125	与果	與果	yǔ guǒ	fruit produced	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '與果'; FGDB '取果與果'; SH '取與', p. 251)	8011125
+8011126	熠燿	\N	yìyào	glowworm; kṛmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛmi (BCSD '熠燿', p. 796; Edgerton 'kṛmi', p. 191; MW ''kṛmi)	8011126
+8011127	取果与果	取果與果	qǔguǒ yǔguǒ	producing fruit and the fruit produced	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '取與'; FGDB '取果與果'; SH '取與', p. 251)	8011127
+8011128	取果与果	取果與果	qǔguǒ yǔguǒ	producing fruit and the fruit produced	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '取與'; FGDB '取果與果'; SH '取與', p. 251)	8011128
+8011129	熢	\N	péng	a twist of smoke	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hou (BCSD '熢', p. 796; Unihan '熢')	8011129
+8011130	取与	取與	qǔ yǔ	producing fruit and the fruit produced	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 取果與果 (FGDB '取果與果')	8011130
+8011131	二众	二眾	èrzhòng	two groups	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, monastics and laity (Ding '二眾'; SH '二眾', p. 29)	8011131
+8011132	熬	\N	áo	to boil; kvāthayitavya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kvāthayitavya, Japanese: gou, Tibetan: bskol te (BCSD '熬', p. 796; Mahāvyutpatti 'kvāthayitvā'; MW 'kvāthayitavya'; Unihan '熬')	8011132
+8011133	法想	\N	fǎxiǎng	thoughts of the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法想'; Karashima 2001 '法想')	8011133
+8011134	功德圆满	功德圓滿	gōngdé yuánmǎn	meritous achievements from long term excellent conduct	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '功德圓滿')	8011134
+8011135	燃	\N	rán	to burn; jval	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jval, Japanese: nen, or: zen (BCSD '燃', p. 797; MW 'jval'; Unihan '燃')	8011135
+8011136	尼姑	\N	nígū	Buddhist nun	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣuṇī; see 比丘尼 (Ding '尼姑'; SH '比丘尼', p. 158)	8011136
+8011137	爱河	愛河	ài hé	the river of desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A stumbling block on the path to enlightenment (Ding '愛河'; FGDB '愛河'; SH '愛河', p. 401)	8011137
+8011138	燄	\N	yàn	flame; arcis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arcis, Japanese: en (BCSD '燄', p. 797; MW 'arcis'; SH '燄', p. 448; Unihan '燄')	27401
+8011139	前尘	前塵	qián chén	past impurity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '前塵'; SH '前塵', p. 297)	8011139
+8011140	佛教历史	佛教歷史	fójiāo lìshǐ	history of Buddhism	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '佛教历史')	8011140
+8011141	燋	\N	jiāo	to heat; tap	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tap, Japanese: shou, or: jou, or: seki, or: shaku (BCSD '燋', p. 798; MW 'tap'; Unihan '燋')	8011141
+8011142	无上正等正觉	無上正等正覺	wú shàng zhèng děng zhèng jué	anuttara-samyak-sambodhi; unexcelled complete enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無上正等正覺')	8011142
+8011143	无上正等觉	無上正等覺	wúshàng zhèng děngjué	anuttara-samyak-sambodhi; unexcelled complete enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無上正等正覺 (Ding '無上正等正覺')	8011143
+8011144	燕	\N	yàn	swallow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: en (BCSD '燕', p. 798; Unihan '燕')	8011144
+8011145	杂修	雜修	zá xiū	varied methods of cultivation; mixed pracices	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In contast with 專修 'focused cultivation' (Ding '雜修'; FGDB '雜修')	8011145
+8011146	专修	專修	zhuān xiū	focused cultivation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, single-minded Pureland practice (Ding '專修'; FGDB '專修')	8011146
+8011147	营	營	yíng	business; vaiyāvṛtya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiyāvṛtya, or; kartavya, Japanese: ei (BCSD '營', p. 798; MW 'kartavya'; Unihan '營')	8011147
+8011148	根境	\N	gēn jìng	the field of a sense organ; the objects of the sense organs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根塵 (FGDB '根塵')	8011148
+8011149	持律	\N	chí lǜ	a maintainer of monastic discipline	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either in keeping discipline or observing (Ding '持律'; FGDB '持律'; SH '持律', p. 302)	8011149
+8011150	燥	\N	zào	dry; śuṣka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śuṣka, Japanese: sou (BCSD '燥', p. 798; MW 'śuṣka'; Unihan '燥')	8011150
+8011151	阿索罗	阿索羅	āsuǒluó	asura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 阿修羅 (FGDB '阿修羅')	8011151
