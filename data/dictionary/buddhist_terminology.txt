@@ -6924,7 +6924,7 @@
 8006924	佛口婆心	\N	fó kǒu pó xīn	Words of the Buddha and Heart of a Caring Mother; be patient	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FoguangPedia; Sun 2006, loc. 1332)	8006924
 8006925	业果	業果	yèguǒ	karmic retribution; cause and effect; fruit of actions; karma and results; karmaphala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmaphala, Pali: kammaphala, Japanese: gōka; a Sanskrit compound karma 'actions' + phala 'fruit', which could be the result of either good or bad karmic actions (Buddhadatta 1958, 'kamma'; JEBD 'Gōka'; FGDB '業果'; MW karmaphala)	8006925
 8006926	走	\N	zǒu	to walk; to go; to move	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāvita, Japanese: sou, or: shu, Tibetan: bang (BCSD '走', p. 1115; Mahāvyutpatti 'jāvita'; MW ''; SH '走', p. 245; Unihan '走')	8006926
-8006927	炉	爐	lú	a censer	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ro; for burning incense (SH '爐', p. 478)	8006927
+8006927	炉	爐	lú	a censer; bowl; kuṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuṇḍa, Japanese: ro; for burning incense (BCSD '爐', p. 799; MW 'kuṇḍa'; SH '爐', p. 478; Unihan '爐')	8006927
 8006928	告	\N	gào	to tell; jalp	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udīrayati, or: jalp, Japanese: koku, or: kou (BCSD '告', p. 248; MW 'jalp'; Mahāvyutpatti 'udīrayati'; SH '告', p. 233; Unihan '告')	8006928
 8006929	修	\N	xiū	pratipanna; spiritual practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratipanna; see also 修行 (BCSD '修', p. 135)	8006929
 8006930	修行	\N	xiūxíng	bhāvanā; spiritual cultivation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāvanā, Pali: bhāvanā, Japanese: shujū (BL 'bhāvanā'; BCSD '修行')	8006930
@@ -8662,7 +8662,7 @@
 8008662	阿坦么	阿坦麼	ātǎnma	atman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman; see 我 (FGDB '我')	8008662
 8008663	恼	惱	nǎo	distressing; viheṭhana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viheṭhana, Japanese: nou (BCSD '惰', p. 489; MW 'alasa'; Unihan '惱')	8008663
 8008664	丈夫	\N	zhàngfu	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; a cosmic being in Vedic mythology whose sacrifice led to the creation of the Universe and soul in Samkhya philosophy (Dasgupta 2009, pp. 21, 238-239; FGDB '丈夫'; MW 'puruṣa')	8008664
-8008665	补卢沙	補盧沙	bǔlúshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008665
+8008665	补卢沙	補盧沙	bǔlúshā	puruṣa; man	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa (BCSD '補盧沙', p. 1052; MW 'puruṣa'; SH '補盧沙', p. 412)	8008665
 8008666	富楼沙	富樓沙	fùlóushā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008666
 8008667	浮溜沙	\N	fúliūshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008667
 8008668	布路沙	\N	bùlùshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008668
@@ -11179,3 +11179,22 @@
 8011179	外稼成熟门	外稼成熟門	wài jià chéngshú mén	means of ripening of seeds that are sown externally	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bahirdhā sasya-niṣpatti-mukhena (BCSD '外稼成熟門', p. 313)	8011179
 8011180	内思	內思	nèi sī	inner thoughts; reflection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vicāra (BCSD '內思', p. 161; MW 'vicāra')	8011180
 8011181	文殊师利童真	文殊師利童真	wénshūshīlì tóngzhēn	the boy Manjusri	phrase	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mañjuśrī; see 文殊菩薩 (FGDB '文殊菩薩')	8011181
+8011182	爇	\N	ruò	to offer an oblation; hu	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hu, Japanese: zetsu, or: nechi, or: zei, or: nei, or: netsu (BCSD '爇', p. 799; MW 'hu'; Unihan '爇')	8011182
+8011183	八转声	八轉聲	bā zhuǎn shēng	eightfold declension	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The eight rules of declension of Sanskrit nouns; for example, as mentioned in Scroll 13 of 華嚴經探玄記 Exploring the Mysteries of the Avatamsaka Sutra (FGDB '八轉聲'; Gulik 1956, p. 19; T 1733 35.0149a28)	8011183
+8011184	八转	八轉	bā zhuǎn	eightfold declension	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八轉聲 (FGDB '八轉聲')	8011184
+8011185	八声	八聲	bā shēng	eight changes in sound	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八轉聲 (FGDB '八轉聲')	8011185
+8011186	八例	\N	bā lì	eight rules	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八轉聲 (FGDB '八轉聲')	8011186
+8011187	烁	爍	shuò	to shine; to glitter	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shaku (BCSD '爍', p. 799; Unihan '爇')	8011187
+8011188	孺童文殊菩萨	孺童文殊菩薩	rú tóng wénshūpúsà	Manjusri	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mañjuśrī; see 文殊菩薩 (FGDB '文殊菩薩')	8011188
+8011189	法僧	\N	fǎ sēng	a monk who recites mantras	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法僧')	8011189
+8011190	烂	爛	làn	rotten; kleda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleda, Japanese: ran (BCSD '爛', p. 799; MW 'kleda'; Unihan '爛')	8011190
+8011191	凡愚	\N	fányú	common and ignorant	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 凡夫 'ordinary person' and 愚痴 'ignorance' (Ding '凡愚'; SH '凡愚', p. 81)	8011191
+8011192	祕藏	\N	mì cáng	to conceal a secret; treasury of the profound mysteries	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 秘藏 (FGDB '祕藏')	8011192
+8011193	爪	\N	zhǎo	claw; nakha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nakha, Japanese: sou (BCSD '爪', p. 799; MW 'nakha'; SH '爪', p. 162; Unihan '爪')	8011193
+8011194	道类智	道類智	dào lèizhì	knowledge of the realms of form and formlessness	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道類智'; FGDB '道類智'; SH '道類智', p. 417)	8011194
+8011195	宝女	寶女	bǎo nǚ	a noble woman	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '寶女'; FGDB '寶女'; Karashima 2001, p. 49; SH '寶女', p. 477)	8011195
+8011196	争	爭	zhēng	dispute; vivāda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivāda, Japanese: sou, Tibetan: rtsod pa (BCSD '爭', p. 799; Mahāvyutpatti 'vādaḥ'; MW 'vivāda'; SH '爭', p. 162; Unihan '爭')	8011196
+8011197	女宝	女寶	nǚ bǎo	precious maiden	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶女 (FGDB '寶女')	8011197
+8011198	玉女	\N	yùnǚ	a female celestial diety; fairy maiden	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 仙女 (Guoyu '玉女' 1)	8011198
+8011199	补	補	bǔ	to darn; siv	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siv, Japanese: ho (BCSD '補', p. 799; MW 'siv'; SH '補', p. 412; Unihan '補')	8011199
+8011200	补卢沙	補盧沙	bǔlúshā	Primaeval Man; Supreme Man; Purusa	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puruṣa; see 丈夫 (FGDB '丈夫')	8008665
