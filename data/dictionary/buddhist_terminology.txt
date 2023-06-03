@@ -11273,7 +11273,15 @@
 8011273	犀	\N	xī	rhinoceros; khaḍga	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: khaḍga, Japanese: sei, or: sai (BCSD '犀', p. 811; MW 'khaḍga'; Unihan '犀')	8011273
 8011274	昙谟	曇謨	tánmó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011274
 8011275	昙无	曇無	tánwú	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011275
-8011276	犁	\N	lí	a plow; ṭaṅga	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭaṅga, Japanese: sei, or: sai (BCSD '犀', p. 811; MW 'khaḍga'; Unihan '犁')	8011276
-66089	四住	\N	sì zhù	four abodes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four abodes are: (1) 天住 'heavenly abodes', (2) 梵住 'abode of Brahma', (3) 聖住 'sagely abodes', and (4) 佛住 'Buddha abodes' (Ding '四住'; FGDB '四住'; SH '四住')	66089
-66090	天住	\N	tiān zhù	divine abodes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '天住'; FGDB '四住'; SH '四住')	66090
-66091	梵住	\N	Fàn zhù	Brahma's abode; divine abode	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali equivalent: brahmavihāra; Japanese: bonjū; one of the 四住 'four abodes,' see also 四無量 (BL 'brahmavihāra' ; Ding '梵住'; FGDB '四住'; SH '四住')	66091
+8011276	犁	\N	lí	a plow; lāṅgala	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lāṅgala, Japanese: ri, or: rei, Tibetan: gshol (BCSD '犁', p. 811; Mahāvyutpatti 'lāṅgalaṃ'; MW 'lāṅgala'; Unihan '犁')	8011276
+8011277	四住	\N	sì zhù	four abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four abodes are: (1) 天住 'heavenly abodes', (2) 梵住 'abode of Brahma', (3) 聖住 'sagely abodes', and (4) 佛住 'Buddha abodes' (Ding '四住'; FGDB '四住'; SH '四住', p. 170)	8011277
+8011278	天住	\N	tiān zhù	divine abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '天住'; FGDB '四住'; SH '四住', p. 170)	8011278
+8011279	梵住	\N	Fàn zhù	Brahma's abode; divine abode	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali equivalent: brahmavihāra; Japanese: bonjū; one of the 四住 'four abodes,' see also 四無量 (BL 'brahmavihāra' ; Ding '梵住'; FGDB '四住'; SH '四住', p. 170)	8011279
+8011280	犂	\N	lí	a plow; lāṅgala	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lāṅgala, Japanese: ri, or: rei, or: ryū (BCSD '犂', p. 811; Mahāvyutpatti 'lāṅgalaṃ'; MW 'lāṅgala'; Unihan '犂')	8011280
+8011281	圣住	聖住	shèng zhù	sagely abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '四住'; FGDB '四住'; SH '四住', p. 170)	8011281
+8011282	佛住	\N	fó zhù	Buddha abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '四住'; FGDB '四住'; SH '四住', p. 170)	8011282
+8011283	犇	\N	bēn	to run fast	verb	\N	\N	教	Buddhism	\N	\N	\N	\N	Japanese: hon (BCSD '犇', p. 811; Unihan '犇')	8011283
+8011284	显色	顯色	xiǎn sè	visible colors	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '顯色'; FGDB '顯色'; SH '顯色', p. 488)	8011284
+8011285	见惑	見惑	jiànhuò	misleading views	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '見思'; FGDB '見惑'; SH '見思', p. 244)	8011285
+8011286	犍	\N	jiān	a bullock	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Japanese: ken, or: kon, or: gen (BCSD '犍', p. 811; SH '犍', p. 407; Unihan '犍')	8011286
+8011287	见思	見思	jiànsī	misleading views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '見思'; FGDB '見思惑'; SH '見思', p. 244)	8011287
