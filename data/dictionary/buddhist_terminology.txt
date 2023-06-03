@@ -11255,3 +11255,25 @@
 8011255	金刚缚印	金剛縛印	jīngāng fú yìn	outer binding first; waifu fist	set phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 外縛拳 (FGDB '外縛印')	8011255
 8011256	指在外拳	\N	zhǐ zài wài quán	outer binding first; waifu fist	set phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 外縛拳 (FGDB '外縛印')	8011256
 8011257	牧牛	\N	mùniú	cowherd	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gopāla (BCSD '牧牛', p. 810; Ding '牧牛'; MW 'gopāla'; SH '牧牛', p. 274)	8011257
+8011258	向外相叉拳	\N	xiàng wài xiāng chā quán	outer binding first; waifu fist	set phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 外縛拳 (FGDB '外縛印')	8011258
+8011259	内缚拳	內縛拳	nèi fú quán	two handed fist	phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 四種拳 'four kinds of fist' (FGDB '內縛拳')	8011259
+8011260	物	\N	wù	thing; dravya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravya, Japanese: motsu, or: butsu, Tibetan: rdzas (BCSD '牧', p. 810; Mahāvyutpatti 'dravyam'; MW 'dravya'; SH '物', p. 274; Unihan '物')	8011260
+8011261	陀罗骠	陀羅驃	tuóluópiào	dravya; substance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravya (MW 'dravya'; SH '陀羅驃', p. 284)	8011261
+8011262	二手拳	\N	èr shǒu quán	two handed fist	phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 內縛拳 (FGDB '內縛拳')	8011262
+8011263	牸	\N	zì	cow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shi, or: ji (BCSD '牸', p. 811; Unihan '牸')	8011263
+8011264	牸牛	\N	zìniú	cow; gavī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gavī (BCSD '牸牛', p. 811; MW 'gavī')	8011264
+8011265	一由旬	\N	yī yóuxún	one yojana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一由旬')	8011265
+8011266	中根	\N	zhōng gēn	medium capacity of each of the six organs of sense	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '中根'; SH '中根', p. 110)	8011266
+8011267	特	\N	té	bull; gava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gava, Japanese: toku, or: doku (BCSD '特', p. 811; Edgerton 1953 'gava', p. 211; MW 'gava'; SH '特', p. 330; Unihan '特')	8011267
+8011268	毘摩	\N	pímó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011268
+8011269	驮摩	馱摩	duòmó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011269
+8011270	牵	牽	qiān	pull; ākarṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākarṣa, Japanese: ken (BCSD '牽', p. 811; MW 'ākarṣa'; SH '特', p. 358; Unihan '牽')	8011270
+8011271	陀摩	\N	tuómó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011271
+8011272	昙摩	曇摩	tánmó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011272
+8011273	犀	\N	xī	rhinoceros; khaḍga	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: khaḍga, Japanese: sei, or: sai (BCSD '犀', p. 811; MW 'khaḍga'; Unihan '犀')	8011273
+8011274	昙谟	曇謨	tánmó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011274
+8011275	昙无	曇無	tánwú	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法 (FGDB '法')	8011275
+8011276	犁	\N	lí	a plow; ṭaṅga	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṭaṅga, Japanese: sei, or: sai (BCSD '犀', p. 811; MW 'khaḍga'; Unihan '犁')	8011276
+66089	四住	\N	sì zhù	four abodes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four abodes are: (1) 天住 'heavenly abodes', (2) 梵住 'abode of Brahma', (3) 聖住 'sagely abodes', and (4) 佛住 'Buddha abodes' (Ding '四住'; FGDB '四住'; SH '四住')	66089
+66090	天住	\N	tiān zhù	divine abodes	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '天住'; FGDB '四住'; SH '四住')	66090
+66091	梵住	\N	Fàn zhù	Brahma's abode; divine abode	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali equivalent: brahmavihāra; Japanese: bonjū; one of the 四住 'four abodes,' see also 四無量 (BL 'brahmavihāra' ; Ding '梵住'; FGDB '四住'; SH '四住')	66091
