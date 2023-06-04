@@ -7642,7 +7642,7 @@
 8007642	契	\N	qì	bond; yukta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yukta, Japanese: setsu, or: kei (BCSD '契', p. 338; MW 'yukta'; SH '契', p. 299; Unihan '契')	8007642
 8007643	丹藏	\N	dān zàng	Khitan Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 契丹藏 (FGDB '中文大藏經')	8007643
 8007644	辽本	遼本	liáo běn	Khitan Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 契丹藏 (FGDB '中文大藏經')	8007644
-8007645	梵摩	\N	fànmó	Brahma	proper noun	神	Deity	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	The one self-existent Spirit (BCSD '梵摩'; MW 'brahma')	8007645
+8007645	梵摩	\N	fànmó	Brahma	proper noun	神	Deity	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	The one self-existent Spirit (BCSD '梵摩', p. 657; MW 'brahma')	8007645
 8007646	梵身	\N	fànshēn	brahmakāyika; brahmapariṣadya; the Heaven of the Followers of Brahma	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 梵眾天 (FGDB '梵眾天')	8007646
 8007647	梵众	梵眾	fànzhòng	brahmakāyika; brahmapariṣadya; the Heaven of the Followers of Brahma	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 梵眾天 (FGDB '梵眾天')	8007647
 8007648	梵众天处	梵眾天處	fànzhòngtiānchù	brahmakāyika; brahmapariṣadya; the Heaven of the Followers of Brahma	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 梵眾天 (FGDB '梵眾天')	8007648
@@ -11327,4 +11327,30 @@
 8011327	狐	\N	hú	jackal; jambūka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jambūka, Japanese: ko (BCSD '狐', p. 813; MW 'jambūka'; SH '狐', p. 274; Unihan '狐')	7174
 8011328	阿波波	\N	ābōbō	Ababa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ababa; see 阿波波地獄 (Eitel 'Ababa' p. 1; FGDB '阿波波地獄'; SH '阿波波' p. 289)	8011328
 8011329	空大	\N	kōngdà	the space element	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 五大 'five elements' (Ding '五大'; FGDB '空大'; SH '五大', p. 116)	8011329
-8011330	狗	\N	gǒu	dog; kukkura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kukkura, Japanese: ko (BCSD '狗', p. 813; MW 'kukkura'; SH '狗', p. 274; Unihan '狗')	8011330
+8011330	狗	\N	gǒu	dog; kukkura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kukkura, Japanese: ko (BCSD '狗', p. 814; MW 'kukkura'; SH '狗', p. 274; Unihan '狗')	8011330
+8011331	绳床	繩床	shéng chuáng	sitting mat; pīṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṭha, Pali: pīṭha (FGDB '繩床')	8011331
+8011332	坐床	\N	zuò chuáng	sitting mat; pitha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṭha, see 繩床 (FGDB '繩床')	8011332
+8011333	狡	\N	jiǎo	violent; rabhasa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rabhasa, Japanese: kou, or: kyou (BCSD '狡', p. 814; Mahāvyutpatti 'rabhasaḥ'; MW 'rabhasa'; Unihan '狗')	8011333
+8011334	坐禅床	坐禪床	zuòchán chuáng	meditation mat; sitting mat; pīṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṭha, see 繩床 (FGDB '繩床')	8011334
+8011335	胡床	\N	hú chuáng	sitting mat; pīṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṭha, see 繩床 (FGDB '繩床')	8011335
+8011336	狸	\N	lí	jackal; jambuka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jambuka, Japanese: ri (BCSD '狸', p. 814; MW 'jambuka'; Unihan '狸')	8011336
+8011337	梵摩渝	\N	fànmóyú	brahmāyus; Brahmā's life-time	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahmāyus (BCSD '梵摩渝', p. 657; MW 'brahmāyus')	8011337
+8011338	私	\N	sī	own; sva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva, Japanese: shi (BCSD '私', p. 814; MW 'sva'; Unihan '私')	8011338
+8011339	交床	\N	jiāo chuáng	sitting mat; pīṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṭha, see 繩床 (FGDB '繩床')	8011339
+8011340	秽刹	穢剎	huì shā	impure land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 污穢的國土, in contrast with Pure Land (Ding '穢剎'; FGDB '穢剎'; SH '穢土', p. 466)	8011340
+8011341	狭	狹	xiá	small; avipula	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avipula, Japanese: kyou, or: kou (BCSD '狹', p. 814; MW 'avipula'; Unihan '狹')	8011341
+8011342	秽土	穢土	huì tǔ	impure land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 穢剎 (FGDB '穢剎')	8011342
+8011343	秽国	穢國	huì guó	impure land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 穢剎 (FGDB '穢剎')	8011343
+8011344	狼	\N	láng	wolf; vṛka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛka, Japanese: rou, Tibetan: spyang ki (BCSD '狼', p. 814; Mahāvyutpatti 'vṛkaḥ'; MW 'vṛka'; SH '狼', p. 330; Unihan '狼')	8011344
+8011345	水界	\N	shuǐ jiè	water; water realm; water element	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 水大 (FGDB '水界')	8011345
+8011346	六大	\N	liù dà	six elements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six are: 地 earth, 水 water, 火 fire, 風 wind, 空 space, 識 consciousness (Ding '六大'; FGDB '六大'; SH '六大', p. 134)	8011346
+8011347	狷	\N	juàn	impetuous; tīvra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tīvra, Japanese: ken (BCSD '狷', p. 814; Mahāvyutpatti 'vṛkaḥ'; MW 'tīvra'; Unihan '狷')	8011347
+8011348	后五	後五	hòu wǔ	following five hundred years	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '後五'; FGDB '後五')	8011348
+8011349	行婬	\N	xíng yín	lewd desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '行婬')	8011349
+8011350	猖	\N	chāng	mad	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shou (BCSD '猖', p. 814; Unihan '猖')	8011350
+8011351	欲火	\N	yùhuǒ	the fire of desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '欲火'; FGDB '欲火'; SH '欲火', p. 356)	8011351
+8011352	真净	真淨	zhēnjìng	true and pure teaching	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Referring to Mahāyāna teachings (Ding '真淨'; SH '真淨', p. 332)	8011352
+8011353	猗	\N	yī	trust; praśrabdhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśrabdhi, Japanese: i (BCSD '猗', p. 814; MW 'praśrabdhi'; Unihan '猗')	8011353
+8011354	化城	\N	huà chéng	manifested city; illusory city	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛddhimaya-nagara; see also 化城喻 (FGDB '化城喻'; Karashima 2001, p. 187; SH '化城', p. 141)	8011354
+8011355	中食	\N	zhōng shí	midday meal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '中食'; FGDB '中食'; SH '中食', p. 112)	8011355
+8011356	猛	\N	měng	fierce; tīvra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tīvra, Japanese: mou, or: bou (BCSD '猛', p. 814; Mahāvyutpatti 'vīraḥ'; MW 'tīvra'; Unihan '猛')	8011356
