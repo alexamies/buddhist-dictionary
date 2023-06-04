@@ -4393,7 +4393,7 @@
 7004393	太子慕魄经	太子慕魄經	Tàizǐ Mùpò jīng	Taizi Mupo Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon, translated by An Shigao (T 167; KDC 'K 212')	7004393
 7004394	太子慕魄经	太子慕魄經	Tàizǐ Mùpò jīng	Taizi Mupo Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon, translated by Dharmarakṣa (T 168; KDC 'K 210')	7004394
 7004395	月明菩萨经	月明菩薩經	Yuèmíng púsà jīng	Yueming Pusa Jing; Candraprabhabodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon, translated by Dharmarakṣa (T 169; KDC 'K 466')	7004395
-7004396	德光太子经	德光太子經	Déguāng Tàizǐ jīng	Deguang Taizi Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon (T 170; KDC 'K 479')	7004396
+7004396	德光太子经	德光太子經	déguāng tàizǐ jīng	Sutra on Prince Punyarasmi; De Guang Taizi Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon (Boucher 2008, p. xviii; T 170; KDC 'K 479')	7004396
 7004397	菩萨投身饴饿虎起塔因缘经	菩薩投身飴餓虎起塔因緣經	púsà Tóushēn yí È Hǔ qǐ tǎ yīnyuán jīng	Pusa Toushen Yi E Hu Qi Ta Yinyuan Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon (T 172; KDC 'K 479')	7004397
 7004398	福力太子因缘经	福力太子因緣經	Fúlì Tàizǐ yīnyuán jīng	Fuli Taizi Yinyuan Jing; Puṇyabalāvadāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇyabalāvadāna; a text in the Chinese Buddhist Canon (T 173; KDC 'K 1467')	7004398
 7004399	福力太子	\N	Fúlì Tàizǐ	Fuli Taizi; Puṇyabala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇyabala; a character in the text Fuli Taizi Yinyuan Jing (Puṇyabalāvadāna) 《福力太子因緣經》 in the Chinese Buddhist Canon (T 173; FGDB '福力太子'; KDC 'K 1467')	7004399
@@ -7180,3 +7180,9 @@
 7007180	显宗论	顯宗論	xiǎn zōng lùn	Abhidharma prakaraṇa śāsana śāstra	proper noun	论	Treatise	佛教	Buddhism	\N	\N	\N	\N	(Eitel 'Abhidharma prakaraṇa śāsana śāstra', p. 2; FGDB '顯宗論')	7007180
 7007181	般若菩提	\N	bānruòpútí	Prajnabodhi	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	The name of a monastic mentioned in 悉曇字記 the “Notes on Siddhaṃ Script” (FGDB '悉曇字記'; Gulik 1956, p. 22; T 2132, 54.1186a06)	7007181
 7007182	般若瞿沙	\N	bānruòjùshā	Prajnaghosa	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	The name of a monastic mentioned in 悉曇字記 the “Notes on Siddhaṃ Script” (Gulik 1956, p. 22; T 2132, 54.1186a06)	7007182
+7007183	德光	\N	déguāng	Gunaprabha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: guṇaprabha; name of an early Inddian Buddhist teacher (BCSD '德光', p. 459; BSAD '德光', ID: A016733; Mahāvyutpatti 'guṇaprabhaḥ'; MW 'guṇaprabha')	7007183
+7007184	灵鸟顶山	靈鳥頂山	líng niǎo dǐng shān	Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: gṛdhrakūṭa; a variant used in 德光太子經 De Guang Taizi Jing, see 靈鷲山 (Ensink 2007, p. 1; T 170, 3.0412a06)	7007184
+7007185	赖吒和罗所问光德太子经	賴吒和羅所問光德太子經	làizhàhéluó suǒ wèn guāngdé tàizǐ jīng	Sutra on the Questions asked by Rastrapala of Prince Punyarasmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 德光太子經 (FGDB '佛說德光太子經'; T 170)	7007185
+7007186	赖吒和罗所问德光太子经	賴吒和羅所問德光太子經	làizhàhéluó suǒ wèn déguāng tàizǐ jīng	Sutra on the Questions asked by Rastrapala of Prince Punyarasmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 德光太子經 (FGDB '佛說德光太子經'; T 170)	7007186
+7007187	赖吒问德光太子经	賴吒問德光太子經	làizhà wèn déguāng tàizǐ jīng	Sutra on the Questions asked by Rastrapala of Prince Punyarasmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 德光太子經 (FGDB '佛說德光太子經'; T 170)	7007187
+7007188	光德太子经	光德太子經	guāngdé tàizǐ jīng	Sutra on Prince Punyarasmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 德光太子經 (FGDB '佛說德光太子經'; T 170)	7007188
