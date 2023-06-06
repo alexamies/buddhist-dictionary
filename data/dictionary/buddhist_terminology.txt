@@ -1203,7 +1203,7 @@
 8001203	鸯窭利摩罗	鴦窶利摩羅	yānglóulìmóluó	Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimāla, or: aṅgulimālīya, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; see also 指鬘 (BL 'Aṅgulimāla', pp. 45-46; FGDB '鴦窶利摩羅'; SH '央掘摩羅', p. 184)	8001203
 8001204	指鬘	\N	zhǐmán	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; a disciple of the Buddha, a murderer who was redeemed by conversion to Buddhism. His story is told in the Aṅgulimālasutta in the Pāli Canon and in 佛說鴦掘摩經Aṅgulimālīyasūtra in the Chinese Canon, in addition to other places (FGDB '指鬘'; BL 'Aṅgulimāla'; Majjhima Nikāya 86; T 118)	8001204
 8001205	指髻	\N	zhǐjì	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 指鬘 (FGDB '指鬘')	8001205
-8001206	狱	獄	yù	hell; naraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naraka, Pali: niraya; see 地獄 (SH '獄', p. 425)	8001206
+8001206	狱	獄	yù	hell; naraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naraka, Pali: niraya, Japanese: goku, or: kyoku; see 地獄 (BCSD '獄', p. 816; MW 'naraka'; SH '獄', p. 425; Unihan '獄')	8001206
 8001207	瑜只	瑜祇	yúzhǐ	yogi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in Buddhist writings for 瑜伽士 (Ding '瑜祇')	8001207
 8001208	瑜岐	\N	yúqí	yogi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in Buddhist writings for 瑜伽士 (Ding '瑜祇')	8001208
 8001209	舍卫	舍衛	shèwèi	Sravasti; Savatthi	proper noun	古城	Ancient City	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Śrāvastī; see 舍衛國 (FGDB '舍衛國')	8001209
@@ -11379,5 +11379,30 @@
 8011379	犹	猶	yóu	like; yathā	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yathā, Japanese: yū (BCSD '猶', p. 815; MW 'yathā'; SH '猶', p. 383; Unihan '猴')	8011379
 8011380	佛见	佛見	fó jiàn	correct views of Buddhist teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛見'; FGDB '佛見'; SH '佛見', p. 229)	8011380
 8011381	量等	\N	liàng děng	the body of the Tathāgata is equal to all conditions and unconditioned phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 量等身 (FGDB '量等身')	8011381
-8011382	猾	\N	huá	mean; dainya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dainya, Japanese: katsu (BCSD '猾', p. 815; MW 'dainya'; Unihan '猾')	8011382
+8011382	猾	\N	huá	mean; dainya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dainya, Japanese: katsu (BCSD '猾', p. 816; MW 'dainya'; Unihan '猾')	8011382
 8011383	量等身	\N	liàng děng shēn	the body of the Tathāgata is equal to all conditions and unconditioned phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '量等身'; FGDB '量等身'; SH '量等身', p. 392)	8011383
+8011384	身入	\N	shēnrù	the sense of touch	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 六入 'six senses' (Ding '身入'; FGDB '六入'; SH '身入', p. 245)	8011384
+8011385	猿	\N	yuán	ape	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: en (BCSD '猿', p. 816; Unihan '猿')	8011385
+8011386	猿猴	\N	yuán hóu	ape; kapi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kapi (BCSD '猿猴', p. 816; MW 'kapi')	8011386
+8011387	法供养	法供養	fǎ gōngyǎng	serving the Dharma; dharmapūjā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmapūjā; translation by Watson in the Vimalakirti Sutra: 'the offering of the law' (Ding '法供養'; FGDB '法供養'; SH '法供養'; Watson 1997, p. 136)	8011387
+8011388	法供	\N	fǎ gōng	serving the Dharma; dharmapūjā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法供養 (FGDB '法供養')	8011388
+8011389	狱	獄	yù	prison; cāraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cāraka (BCSD '獄', p. 816; MW 'cāraka'; SH '獄', p. 425)	8001206
+8011390	二执	二執	èr zhí	two attachments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	我執 attachment to self and 法執 attachment to things (Ding '二執'; FGDB '二執'; SH '二執', p. 23)	8011390
+8011391	我法二执	我法二執	wǒ fǎ èr zhí	two attachments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二執 (FGDB '二執')	8011391
+8011392	狮	獅	shī	lion; siṃha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siṃha, Japanese: shi (BCSD '獅', p. 816; MW 'siṃha'; SH '獅', p. 407; Unihan '獅')	8011392
+8011393	狮子	獅子	shīzi	lion; siṃha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siṃha, Tibetan: seng ge (BCSD '獅子', p. 816; Mahāvyutpatti 'siṃhaḥ'; MW 'siṃha')	8011393
+8011394	人法二执	人法二執	rén fǎ èr zhí	two attachments	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二執 (FGDB '二執')	8011394
+8011395	生法二执	生法二執	shēng fǎ èr zhí	two attachments	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二執 (FGDB '二執')	8011395
+8011396	奖	獎	jiǎng	prize	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shou, or: sou (BCSD '獎', p. 817; Unihan '獎')	8011396
+8011397	约法	約法	yuēfǎ	according to the Dharma; according to teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '約法'; SH '約法', p. 310)	8011397
+8011398	生空	\N	shēng kōng	empty of a permanent ego	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生空'; FGDB '生空'; SH '生空')	8011398
+8011399	独	獨	dú	alone; eka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka, Japanese: doku, or: toku (BCSD '獨', p. 817; MW 'eka'; SH '獨', p. 448; Unihan '獨')	8011399
+8011400	我空	\N	wǒ kōng	empty of a permanent ego; empty of self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生空 (SH '我空', p. 238)	8011400
+8011401	人空	\N	rén kōng	empty of a permanent ego	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生空	 (SH '人空', p. 32)8011401
+8011402	獮	\N	xiǎn	hunt	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '獨', p. 818; Unihan '獮')	8011402
+8011403	五取蕴	五取蘊	wǔ qǔ yùn	five aggregates of attachment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five are: (1) 色取蘊 grasping to form, (2) 受取蘊 grasping to sensation, (3) 想取蘊 grasping to perception, (4) 行取蘊 grasping to volition, and (5) 識取蘊 grasping to consciousness (BL 'upādānaskandha'; Ding '五取蘊'; FGDB '五取蘊'; SH '五取蘊', p. 115)	8011403
+8011404	五受阴	五受陰	wǔ shòu yīn	five aggregates of attachment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五取蘊 (SH '五取蘊', p. 115)	8011404
+8011405	獮猴	\N	xiànhóu	monkey; kapi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka (BCSD '獮猴', p. 818; MW 'kapi')	8011405
+8011406	等身	\N	děng shēn	a life-size image	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '等身'; FGDB '等身'; SH '等身', p. 385)	8011406
+8011407	普眼	\N	pǔyǎn	all-seeing vision	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Avalokiteśvara's compassionate vision that sees all beings (Ding '普眼')	8011407
+8011408	获	獲	huò	to take; labh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: labh, Japanese: kaku (BCSD '獲', p. 818; MW 'labh'; SH '獲', p. 459; Unihan '獲')	8011408
