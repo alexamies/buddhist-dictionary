@@ -8546,7 +8546,7 @@
 8008546	舍那	\N	shènà	śāṇa; a robe; a garment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāṇa (BCSD '舍那衣'; Ding '舍那'; MW 'śāṇa')	8008546
 8008547	舍那	\N	shènà	insight; vipaśyanā; vipassanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 觀 (FGDB '觀法')	8008547
 8008548	忻	\N	xīn	joyful; rata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rata, Japanese: kin (BCSD '忻', p. 470; MW 'rata'; SH '忻', p. 237; Unihan '忻')	8008548
-8008549	梵书	梵書	fànshū	Sanskrit text	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '梵書')	8008538
+8008549	正报	正報	zhèng bào	direct retribution	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二報 'two kinds of retribution'; in contrast with 依報 'conditional retribution' (Ding '正報'; FGDB '依正二報'; SH '正報', p. 192)	8008549
 8008550	棃俱吠陀	\N	líjū fèituó	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; the first of the four Vedas and the eariest source of understanding of the Vedic religion; see also 梨俱吠陀 (Embree 1988, p. 5; FGDB '棃俱吠陀'; Heehs 2002, pp. 40-42; MW 'ṛgveda')	8008550
 8008551	赞诵明论	讚誦明論	zànsòng mínglùn	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; see 棃俱吠陀 (FGDB '棃俱吠陀')	8008551
 8008552	作明实说	作明實說	zuòmíng shíshuō	Rigveda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛgveda; see 棃俱吠陀 (FGDB '棃俱吠陀')	8008552
@@ -9862,7 +9862,7 @@
 8009862	梳	\N	shū	comb; prasādhayati	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasādhayati, Japanese: so (BCSD '梳', p. 656; Unihan '梳')	8009862
 8009863	泥罗耶	泥囉耶	níluōyé	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009863
 8009864	捺洛迦	\N	nàluòjiā	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009864
-8009865	梵书	梵書	fànshū	Brahmi script	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brāhmī (BCSD '梵書', p. 657; Wikipedia '婆罗米文')	8009865
+8009865	梵书	梵書	fànshū	Brahmi script	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brāhmī (BCSD '梵書', p. 657; FGDB '梵書'; Wikipedia '婆罗米文')	8009865
 8009866	泥梨	\N	nílí	hell; niraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 泥犁 (FGDB '泥犁')	8009866
 8009867	三昧门	三昧門	sānmèimén	to be on the bodhisattva path	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '三昧門'; FGDB '三昧門'; SH '三昧門', p. 67)	8009867
 8009868	弃	棄	qì	abandon; chorita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chorita, Japanese: ki (BCSD '棄', p. 658; Mahāvyutpatti 'chorita'; MW 'chorita'; Unihan '棄')	8009868
@@ -11406,3 +11406,6 @@
 8011406	等身	\N	děng shēn	a life-size image	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '等身'; FGDB '等身'; SH '等身', p. 385)	8011406
 8011407	普眼	\N	pǔyǎn	all-seeing vision	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Avalokiteśvara's compassionate vision that sees all beings (Ding '普眼')	8011407
 8011408	获	獲	huò	to take; labh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: labh, Japanese: kaku (BCSD '獲', p. 818; MW 'labh'; SH '獲', p. 459; Unihan '獲')	8011408
+8011409	依正二报	依正二報	yī zhèng èr bào	direct and conditional retribution	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '依正二報'; FGDB '依正二報'; SH '依正', p. 249)	8011409
+8011410	二报	二報	èr bào	two kinds of retribution; direct and conditional retribution	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 依正二報 (FGDB '依正二報')	8011410
+8011411	猎	獵	liè	hunt; mṛgayā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛgayā, Japanese: ryou (BCSD '獵', p. 818; MW 'mṛgayā'; SH '獵', p. 465; Unihan '獵')	8011411
