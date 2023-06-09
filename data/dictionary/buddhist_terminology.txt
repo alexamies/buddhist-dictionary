@@ -3606,7 +3606,7 @@
 8003606	章	\N	zhāng	section; document	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pada, Japanese: shō (BCSD '章', p. 913; DJBT '章', p. 423; MW 'pada'; SH '章', p. 362)	8003606
 8003607	章疏	\N	zhāng shū	documents	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '章疏')	8003607
 8003608	超	\N	chāo	surpass	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikrama, or: atikrama, Japanese: chō (BCSD '超', p. 1119; DJBT '超', p. 423; MW 'vikrama'; SH '超', p. 391)	8003608
-8003609	玄	\N	xuán	mysterious; subtle	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: gen (DJBT '玄', p. 428; SH '玄', p. 194)	8003609
+8003609	玄	\N	xuán	mysterious; subtle	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: gen (BCSD '玄', p. 819; DJBT '玄', p. 428; SH '玄', p. 194)	8003609
 8003610	日	\N	rì	sun; sūrya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya, or: dinakara, Japanese: hi, or: ni, or: nichi, Tibetan: nyi ma'am nyin byed (BCSD '日', p. 594; DJBT '日', p. 428; Mahāvyutpatti 'dinakaraḥ'; SH '日', p. 155)	8003610
 8003611	安	\N	ān	an	bound form	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used in monastic names to indicate Parthian descent (Kroll 2015 '安' 5, p. 2)	8003228
 8003612	安	\N	ān	peace	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣema, Japanese: an, Tibetan: bde ba (BCSD '安', p. 372; DJBT '安', p. 423; Mahāvyutpatti 'kṣemaḥ'; MW 'kṣema'; SH '安', p. 211)	8003228
@@ -11413,7 +11413,24 @@
 8011413	明点	明點	míngdiǎn	luminous sphere; bindu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Esposito 2013, p. 166; FGDB '明點')	8011413
 8011414	依正	\N	yīz hèng	two kinds of retribution; direct and conditional retribution	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 依正二報 (FGDB '依正二報')	8011414
 8011415	犷	獷	guǎng	fierce	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kou, or: kyou, or: ku (BCSD '獷', p. 818; Unihan '獷')	8011415
-8011416	斯尼尔藏品	斯尼爾藏品	sīníěr cángpǐn	Senior Collection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A collection of manuscripts in Gāndhārī dating from the mid-second century CE, believed to be from the area around Haḍḍa in Afghanistan (Salomon 2018, pp. 96-97; Wikipedia '犍陀罗语佛教原稿')	8011416
+8011416	斯尼尔藏品	斯尼爾藏品	sīníěr cángpǐn	Senior collection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A collection of Buddhist manuscripts, some in Gāndhārī, dating from the mid-second century CE, believed to be from the area around Haḍḍa in Afghanistan (Salomon 2018, pp. 96-97; Wikipedia '犍陀罗语佛教原稿')	8011416
 8011417	于阗法句经	于闐法句經	yútián fǎ jù jīng	Yutian Dharmapada	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Gāndhārī manuscript discovered in Yutian, in present-day Xinjiang (Salomon 2018, pp. 96-97; Wikipedia '犍陀罗语佛教原稿')	8011417
 8011418	獭	獺	tǎ	otter; udra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udra, Japanese: datsu, or: tatsu (BCSD '獺', p. 818; MW 'udra'; Unihan '獺')	8011418
 8011419	三空	\N	sān kōng	three kinds of emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One formulation of the three is: (1)我空 empty of self, (2) 法空 inherent emptiness of dharmas, and (3) 俱空 emptiness of giver, receiver, and gift (Ding '三空'; FGDB '三空'; SH '三空', p. 73)	8011419
+8011420	俱空	\N	jū kōng	both self and all things are empty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三空 'three kinds of emptiness' (Ding '俱空'; FGDB '三空'; SH '俱空', p. 322)	8011420
+8011421	献	獻	xiàn	offering; arpaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arpaṇa, Japanese: ken, or: kon, Tibetan: 'bul ba'am gtod (BCSD '獻', p. 818; Mahāvyutpatti 'arpaṇā'; MW 'arpaṇa'; SH '獻', p. 478; Unihan '獻')	8011421
+8011422	圣果	聖果	shèng guǒ	sacred fruit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Nirvāṇa (Ding '聖果'; FGDB '聖果'; SH '聖果', p. 410)	8011422
+8011423	广长舌相	廣長舌相	guǎng cháng shé xiāng	the sign of a broad and long tongue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhūtatanujihva, Tibetan: ljags shin tu ring zhing srab pa; one of the thirty-two marks of a Buddha (Ding '廣長舌相'; FGDB '廣長舌相'; Mahāvyutpatti 'prabhūtatanujihvaḥ')	8011423
+8011424	玅	\N	miào	beautiful; mañju	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mañju, Japanese: myou (BCSD '玅', p. 819; MW 'mañju'; Unihan '玅')	8011424
+8011425	广长轮相	廣長輪相	guǎng cháng lún xiāng	the sign of a broad and long tongue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 廣長舌相 (FGDB '廣長舌相')	8011425
+8011426	长舌相	長舌相	cháng shé xiāng	the sign of a broad and long tongue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 廣長舌相 (FGDB '廣長舌相')	8011426
+8011427	玆	\N	zī	this; etad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: etad, Japanese: ji, or: shi, or: ken, or: gan (BCSD '玆', p. 819; MW 'etad'; Unihan '玆')	8011427
+8011428	广长舌	廣長舌	guǎng zhǎng shé	a broad and long tongue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 廣長舌相 (FGDB '廣長舌相')	8011428
+8011429	舌相	\N	shéxiāng	the sign of a broad and long tongue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 廣長舌相 (FGDB '廣長舌相')	8011429
+8011430	率	\N	lǜ	net with a handle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ritsu, or: sotsu (BCSD '率', p. 819; Unihan '率')	8011430
+8011431	金地国	金地國	jīndì guó	Suvarṇabhūmi; Suvaṇṇabhūmi	proper noun	王国	Kingdom	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Suvarṇabhūmi, Pali: Suvaṇṇabhūmi; literally, 'Golden Land', a place identified in present-day Myanmar (BL 'Suvaṇṇabhūmi'; FGDB '金地國')	8011431
+8011432	巴焦尔藏品	巴焦爾藏品	bājiāoěr cángpǐn	Bajaur collection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A collection of Buddhist manuscripts, some in Gāndhārī, found in Bajaur, Pakistan (Salomon 2018, pp. 98-99; Wikipedia '犍陀罗语佛教原稿')	8011432
+8011433	玉	\N	yù	precious stone; sphaṭika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sphaṭika, or: ratna, Japanese: gyoku, or: goku, Tibetan: shel (BCSD '玉', p. 819; Mahāvyutpatti 'sphaṭikam'; MW 'sphaṭika'; SH '玉', p. 195; Unihan '玉')	8011433
+8011434	斯柯延藏品	\N	sīkēyán cángpǐn	Schøyen collection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A collection of Buddhist manuscripts, some in Gāndhārī, found in Afghanistan (Wikipedia '犍陀罗语佛教原稿')	8011434
+8011435	罗刹女	羅剎女	luóshānǚ	female ogre; demoness; rākṣasī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BL 'rākṣasa'; Ding '羅剎女'; FGDB '十羅剎女'; SH '十羅剎女', p. 52)	8011435
+8011436	玟	\N	mín	a gemstone	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bin, or: min, or: bai, or: mai (BCSD '玟', p. 820; Unihan '玟')	8011436
