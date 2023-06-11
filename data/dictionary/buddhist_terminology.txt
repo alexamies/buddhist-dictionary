@@ -702,7 +702,7 @@
 8000702	一生补处	一生補處	yīshēng bǔ chù	ekajatipratibuddha; a being that will become a Buddha in this life	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekajātipratibaddha, Tibetan: skye ba gcig gis thogs pa (FGDB '一生補處'; Mahāvyutpatti 'ekajātipratibaddhaḥ'; SH '一生補處', p. 7)	8000702
 8000703	发愿	發願	fā yuàn	to make a vow; praṇidhānaṃ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhāna (BCSD '發願', p. 861; FGDB '發願'; MW 'praṇidhāna'; SH '發願', p. 384)	8000703
 8000704	路迦驮睹	路迦馱睹	lùjiāduòdǔ	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokadhātu; see 世界 (FGDB '世界')	8000704
-8000705	世界	\N	shìjiè	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shi4jie4.mp3	Sanskrit equivalent: lokadhātu, Pali: lokadhātu, Japanese: sekai, Tibetan: 'jig rten gyi khams; in Buddhism there are many worlds (BL 'lokadhātu'; CCD '世界' 2; FGDB '世界'; Guoyu '世界' 1; Mahāvyutpatti 'lokadhātuḥ'; SH '世界', p. 164)	8000705
+8000705	世界	\N	shìjiè	a world; lokadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shi4jie4.mp3	Sanskrit equivalent: lokadhātu, Pali: lokadhātu, Japanese: sekai, Tibetan: 'jig rten gyi khams; in Buddhism there are many worlds (BCSD '世界', p. 68; BL 'lokadhātu'; FGDB '世界'; Guoyu '世界' 1; Mahāvyutpatti 'lokadhātuḥ'; SH '世界', p. 164)	8000705
 8000706	一世界	\N	yī shìjiè	one world	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一界 (FGDB '一界')	8000706
 8000707	执持	執持	zhíchí	to hold firmly; grasp; dharana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇa, Tibetan: 'chang ba (Ding '執持'; Mahāvyutpatti 'dhāraṇam'; MW 'dhāraṇa'; SH '執持', p. 345)	8000707
 8000708	阿閦鞞	\N	Āchùbī	Aksothya; Aksobhya	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿閦佛 (FGDB '阿閦佛')	8000708
@@ -11398,7 +11398,7 @@
 8011398	生空	\N	shēng kōng	empty of a permanent ego	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生空'; FGDB '生空'; SH '生空')	8011398
 8011399	独	獨	dú	alone; eka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka, Japanese: doku, or: toku (BCSD '獨', p. 817; MW 'eka'; SH '獨', p. 448; Unihan '獨')	8011399
 8011400	我空	\N	wǒ kōng	empty of a permanent ego; empty of self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生空 (SH '我空', p. 238)	8011400
-8011401	人空	\N	rén kōng	empty of a permanent ego	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生空	 (SH '人空', p. 32)8011401
+8011401	人空	\N	rén kōng	empty of a permanent ego	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生空 (SH '人空', p. 32)	8011401
 8011402	獮	\N	xiǎn	hunt	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '獨', p. 818; Unihan '獮')	8011402
 8011403	五取蕴	五取蘊	wǔ qǔ yùn	five aggregates of attachment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five are: (1) 色取蘊 grasping to form, (2) 受取蘊 grasping to sensation, (3) 想取蘊 grasping to perception, (4) 行取蘊 grasping to volition, and (5) 識取蘊 grasping to consciousness (BL 'upādānaskandha'; Ding '五取蘊'; FGDB '五取蘊'; SH '五取蘊', p. 115)	8011403
 8011404	五受阴	五受陰	wǔ shòu yīn	five aggregates of attachment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五取蘊 (SH '五取蘊', p. 115)	8011404
@@ -11468,3 +11468,5 @@
 8011468	识心	識心	shí xīn	the controlling function of the mind	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '識心'; FGDB '識心'; SH '識心', p. 474)	8011468
 8011469	香城	\N	xiāng chéng	Fragrant City	set phrase	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	(Ding '香城'; FGDB '香城')	8011469
 8011470	色入	\N	sè rù	entrances for objects of the senses	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '色入'; SH '色入', p. 220)	8011470
+8011471	世间	世間	shìjiān	world; loka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: loka (BCSD '世間', p. 69; FGDB '世間'; MW 'loka'; SH '世間', p. 165)	8011471
+8011472	疲劳	疲勞	píláo	fatigued; śrama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrama, Tibetan: ngal ba (Mahāvyutpatti 'śramaḥ'; MW 'śrama')	8011472
