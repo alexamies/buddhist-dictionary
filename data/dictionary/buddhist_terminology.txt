@@ -1199,7 +1199,7 @@
 8001199	制多太子	\N	zhìduō tàizǐ	Prince Jeta	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 祇陀太子 (FGDB '祇陀太子')	8001199
 8001200	祇陀太子	\N	zhǐtuó tàizǐ	Prince Jeta	proper noun	太子	Prince	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: jetakumāra; the prince who sold Jetavana Park to Anathapindika, a disciple of the Buddha (BL 'Jetavana'; FGDB '祇陀太子')	8001200
 8001201	精室	\N	jīngshì	vihara	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 精舍 (SH '精室', p. 427)	8001201
-8001202	精舍	\N	jīngshè	vihara; hermitage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, Pali: vihāra, Japanese: jū, or: shōja, Tibetan: gtsug lag khang; a dwelling or refuge used by monastics in the rainy season (BL 'vihāra'; FGDB '精舍'; Kieschnick and Wiles 2017, vol. 2, p. 37; Kroll 2015 '精' 7, pp. 216-217; SH '精室', p. 427)	8001202
+8001202	精舍	\N	jīngshè	monastery; monastic lodging; vihara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, Pali: vihāra, Japanese: jū, or: shōja, Tibetan: gtsug lag khang; a dwelling or refuge used by monastics in the rainy season (BL 'vihāra'; FGDB '精舍'; Kieschnick and Wiles 2017, vol. 2, p. 37; Kroll 2015 '精' 7, pp. 216-217; SH '精室', p. 427)	8001202
 8001203	鸯窭利摩罗	鴦窶利摩羅	yānglóulìmóluó	Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimāla, or: aṅgulimālīya, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; see also 指鬘 (BL 'Aṅgulimāla', pp. 45-46; FGDB '鴦窶利摩羅'; SH '央掘摩羅', p. 184)	8001203
 8001204	指鬘	\N	zhǐmán	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; a disciple of the Buddha, a murderer who was redeemed by conversion to Buddhism. His story is told in the Aṅgulimālasutta in the Pāli Canon and in 佛說鴦掘摩經Aṅgulimālīyasūtra in the Chinese Canon, in addition to other places (FGDB '指鬘'; BL 'Aṅgulimāla'; Majjhima Nikāya 86; T 118)	8001204
 8001205	指髻	\N	zhǐjì	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 指鬘 (FGDB '指鬘')	8001205
@@ -2842,7 +2842,7 @@
 8002842	三角印	\N	sānjiǎoyìn	triangular seal	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra;” see also 一切如來智印 (FGDB '一切如來智印'; Giebel 2005, p. 33; T 848, Scroll 1, 18.0006b09)	8002842
 8002843	三恶趣	三惡趣	sān è qù	the three evil rebirths; the three evil realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, the realms of 畜生 animals, 饿鬼 hungry ghosts, and 地狱 hells (FGDB '三惡趣'; Tzu Chuang 2012)	8002843
 8002844	善趣	\N	shànqù	a benevolent rebirth; a benevolent destiny; heaven; a fortunate realm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sugati, Pali: sugati; the earthly realm, the realm of asuras, and heaven (FGDB '三法聚')	8002844
-8002845	大	\N	dà	great; mahā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahā, Tibetan: chen po, Japanese: dai, or: tai (BCSD '大', p. 317; DJBT '大', p. 434; Mahāvyutpatti 'mahān')	8002845
+8002845	大	\N	dà	great; mahā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahā, or: mahat, Tibetan: chen po, Japanese: dai, or: tai (BCSD '大', p. 317; DJBT '大', p. 434; Mahāvyutpatti 'mahān')	8002845
 8002846	坛	壇	tán	mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇḍala, Japanese: dan, or: tan; see 曼荼羅 (BCSD '壇'p. 307; FGDB '壇'; SH '壇', p. 446; Unihan '壇')	8002846
 8002847	坛场	壇場	tánchǎng	mandala	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: maṇḍala; see 曼荼羅 (FGDB '壇場'; Sharf 2017, p. 87)	8002847
 8002848	坛场	壇場	tánchǎng	place of practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '壇場')	8002847
@@ -3170,7 +3170,7 @@
 8003170	本不生	\N	běn bù shēng	originally having a state of no birth; non-arising; adyanutpada	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādyanutpāda, or: asaṃskṛta; see 本不生際 (Giebel 2005, p. 42; T 848, Scroll 2, 18.0010a10)	8003170
 8003171	本	\N	běn	root; origin; mula	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūla, Japanese: bon, or: hon, or: pon (BCSD '本', p. 642; DJBT '本', p. 432; MW 'mūla'; SH '本', p. 189)	8003171
 8003172	本	\N	běn	becoming, being, existing; bhava	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāva, Tibetan: dngos (BCSD '本', p. 642; Mahāvyutpatti 'bhāvaḥ'; MW 'bhāva')	8003171
-8003173	本	\N	běn	former; previous; pūrva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva, or: ādi (BCSD '本', p. 642; Mahāvyutpatti 'bhāvaḥ'; MW 'bhāva')	8003171
+8003173	本	\N	běn	former; previous; pūrva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva, or: pūrvā, or: ādi (BCSD '本', p. 642; MW 'pūrva')	8003171
 8003174	迦	\N	jiā	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka, Siddham: 𑖎; the first consonant of the Sanskrit alphabet, acting as an interrogative pronoun; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as symbolizing 業 kārya 'actions' (BCSD '迦', p. 1143; FGDB '迦'; MW 'ka'; SH '迦', p. 315; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003174
 8003175	葛	\N	gě	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003175
 8003176	嘎	\N	gá	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003176
@@ -4475,7 +4475,7 @@
 8004475	叶	葉	yè	leaf; petal; parna; pattra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parṇa, or: pattra (BCSD '葉', p. 1021; MW 'parṇa'; SH '葉', p. 411)	8004475
 8004476	九品往生	\N	jiǔ pǐn wǎng shēng	nine grades of rebirth in the Pure Land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012, pp. 269-273)	8004476
 8004477	四依止	\N	sì yī zhǐ	four reliances	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Rely on the Dharma, not on individual teachers 依法不依人; 2. rely on wisdom, not on knowledge 依智不依识; 3. rely on the meaning, not on the words 依意不依语; 4. rely on the ultimate truth, not on the relative truth 依了意不依不了意 (Tzu Chuang 2012, pp. 275-278)	8004477
-8004478	衣	\N	yī	robe; cīvara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cīvara; the robes of a monastic (BCSD '衣', p. 1048; MW 'cīvara')	8004478
+8004478	衣	\N	yī	robe; cīvara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cīvara, Japanese: i, or: e; the robes of a monastic (BCSD '衣', p. 1048; Dhammajoti 2013, p. 377; MW 'cīvara'; SH '衣', p. 222; Unihan '衣')	8004478
 8004479	衣	\N	yī	clothes; attire; vastra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vastra; a generic term for clothes (BCSD '衣', p. 1048; MW 'vastra')	8004478
 8004480	随心咒	隨心咒	suí xīn zhòu	Responsive Heart Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '隨心咒')	8004480
 8004481	结夏	結夏	jié xià	Varsa; Varsā; Vassa; Rains Retreat; Summer Retreat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 安居 (FGDB '安居')	8004481
@@ -11514,3 +11514,12 @@
 8011514	法要	\N	fǎ yào	the essence of a dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法要'; FGDB '法要'; Karashima 2001 '法要'; SH '法要', p. 273)	8011514
 8011515	法难	法難	fǎ nán	persecution of Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法難'; Wikipedia '法難')	8011515
 8011516	琴瑟	\N	qínsè	lute; vīṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīṇā (BCSD '琴瑟', p. 827; MW 'vīṇā')	8011516
+8011517	法要	\N	fǎ yào	a Dharma service	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法要')	8011514
+8011518	法用	\N	fǎ yòng	the essence of a dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 法要 (Ding '法用'; FGDB '法用'; SH '法要', p. 273)	8011518
+8011519	讫	訖	qì	intent on; niṣṭha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣṭha, Japanese: kitsu (BCSD '訖', p. 827; MW 'niṣṭha'; SH '訖', p. 339; Unihan '訖')	8011519
+8011520	百味	\N	bǎi wèi	a hundred flavors; many tastes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '百味'; FGDB '百味'; SH '百味', p. 217)	8011520
+8011521	难思议	難思議	nán sīyì	inconceivable	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '難思議'; FGDB '難思議')	8011521
+8011522	时	時	shí	then; atha	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atha, or: khalu, Pali: atha (BCSD '時', p. 600; Dhammajoti 2013, p. 372; Edgerton 1953 'atha', p. 565; MW 'atha')	8007010
+8011523	不思议	不思議	bù sīyì	inconceivable	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 難思議 (Karashima 2001, pp. 66-67)	8011523
+8011524	证净	證淨	zhèng jìng	attainment of pure wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Pure here refers to 無漏智 'undefiled wisdom' (Ding '證淨'; FGDB '證淨')	8011524
+8011525	处	處	chù	position; sthāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthāna, or: pada, Pali: ṭhāna, Japanese: sho (BCSD '處', p. 1032; Dhammajoti 2013, p. 405; Edgerton 1953 'sthāna', p. 610; MW 'sthāna'; SH '處', p. 363; Unihan '處')	8011525
