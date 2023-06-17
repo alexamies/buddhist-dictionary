@@ -874,7 +874,7 @@
 8000874	乌波索迦	烏波索迦	wūbōsuǒjiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000873
 8000875	乌波婆迦	烏波婆迦	wūbōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000875
 8000876	优波婆迦	優波婆迦	yōubōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000876
-8000877	居士	\N	jūshì	a lay person; a male lay Buddhist; householder	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upasaka, or: gṛha-pati, or: kulapati; Japanese: koji (BCSD '居士', p. 403; Ding '居士'; FGDB '居士'; Guoyu '居士'; Matsuo 2007, p. 11; MW 'gṛhapati'; SH '居士', p. 257)	8000877
+8000877	居士	\N	jūshì	a lay person; a male lay Buddhist; householder	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upasaka, or: gṛhapati, or: kulapati, Pali: gahapati, Japanese: koji (BCSD '居士', p. 403; Boucher 2008, p. 1; Ding '居士'; Edgerton 1953 'gṛhapati', p. 214; FGDB '居士'; Guoyu '居士'; Matsuo 2007, p. 11; MW 'gṛhapati'; SH '居士', p. 257)	8000877
 8000878	优波夷	優波夷	yōubōyí	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000878
 8000879	优婆私柯	優婆私柯	yōupósīkē	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000879
 8000880	邬婆斯迦	鄔婆斯迦	wūpósījiā	upasika; a female lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆夷 (SH '優婆夷', p. 455)	8000880
@@ -3140,7 +3140,7 @@
 8003140	十三	\N	shísān	thirteen; trayodasa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trayodaśa, Tibetan: bcu gsum (BCSD '十三', p. 216; Mahāvyutpatti 'trayodaśa'; MW 'trayodaśa'; SH '十三', p. 42)	8003140
 8003141	十四	\N	shí sì	fourteen; caturdasa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caturdaśa, Tibetan: bcu bzhi (BCSD '十四', p. 217; Mahāvyutpatti 'trayodaśa'; MW 'trayodaśa'; SH '十四', p. 47)	8003141
 8003142	十五	\N	shíwǔ	fifteen; pancadasa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcadaśa, Tibetan: bcu lnga (Mahāvyutpatti 'pañcadaśa (pañcadaśan)'; MW 'pañcadaśa'; SH '十五', p. 44)	8003142
-8003143	十六	\N	shíliù	sixteen; sodasa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣoḍaśa, Tibetan: bcu drug (BCSD '十六', p. 216; Mahāvyutpatti 'ṣoḍaśa (ṣoḍaśan. ṣoḍdaśaḥ)'; MW 'ṣoḍaśa'; SH '十六', p. 46)	8003143
+8003143	十六	\N	shíliù	sixteen; ṣoḍaśa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣoḍaśa, Tibetan: bcu drug (BCSD '十六', p. 216; Mahāvyutpatti 'ṣoḍaśa (ṣoḍaśan. ṣoḍdaśaḥ)'; MW 'ṣoḍaśa'; SH '十六', p. 46)	8003143
 8003144	十七	\N	shíqī	seventeen; saptadasa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptadaśa, Tibetan: bcu bdun (Mahāvyutpatti 'saptadaśa'; MW 'saptadaśa')	8003144
 8003145	十八	\N	shíbā	eighteen; astadasa	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṣṭādaśa (aṣṭādaśan), Tibetan: bcu brgyad (BCSD '十八', p. 216; Mahāvyutpatti 'aṣṭādaśa (aṣṭādaśan)'; MW 'aṣṭādaśa'; SH '十八', p. 45)	8003145
 8003146	十九	\N	shíjiǔ	nineteen; ekonavimsati	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekonaviṃśati, Tibetan: bcu dgu (BCSD '十九', p. 216; Mahāvyutpatti 'ekonaviṃśati'; MW 'ekonaviṃśati')	8003146
@@ -3675,7 +3675,7 @@
 8003675	诸仪轨类	諸儀軌類	zhūyíguǐlèi	wisdom king ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shomyōō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1199–1243 (Giebel 2011, p. 28)	8003675
 8003676	诸天等仪轨类	諸天等儀軌類	zhū tiān děng yíguǐ lèi	deva ritual manuals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shotentō gikirui; a group of texts in the esoteric section of the Taisho including numbers 1244–1330 (Giebel 2011, p. 28)	8003676
 8003677	诸陀罗尼经类	諸陀羅尼經類	zhū tuóluóní jīng lèi	group of dharani sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shodaranikyōrui; a group of texts in the esoteric section of the Taisho including numbers 1331–1420 (Giebel 2011, p. 28)	8003677
-8003678	瑜	\N	yú	yu	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: yu (DJBT '瑜', p. 436; SH '瑜' 2, p. 407)	8003678
+8003678	瑜	\N	yú	yu	foreign	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yu, or: yo, Japanese: yu (BCSD '瑜', p. 827; DJBT '瑜', p. 436; SH '瑜' 2, p. 407; Unihan '瑜')	8003678
 8003679	摄	攝	shè	samgraha; to hold together; to collect; to combine	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgraha, Japanese: jō, or: sesshu, or: setsu (BCSD '攝', p. 566; DJBT 'sesshu', p. 284; MW 'saṃgraha'; SH '攝', p. 483)	8003679
 8003680	伐折罗	伐折羅	fázhéluó	Vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra; see 金剛 (SH '伐折羅', p. 200)	8003680
 8003681	道场	道場	dàochǎng	place of enlightenment; bodhimanda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhimaṇḍala, or: bodhimaṇḍa, Japanese: dōjō; see 菩提道場 (FGDB '道場'; JEBD '道場', p. 52; SH '道場', p. 416)	8000051
@@ -6343,7 +6343,7 @@
 8006343	北	\N	běi	north	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttara, Japanese: hoku, Tibetan: byang (BCSD '北', p. 213; DJBT '北', p. 432; Mahāvyutpatti 'uttaraḥ'; MW 'uttara'; SH '北', p. 168)	8006343
 8006344	出入息利	\N	chūrù xīlì	to lend assets and collecting interest	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prayoga; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '出入息利', p. 179; Karashima 2001, pp. 85-86; MW 'prayoga'; T 262, Scroll 2, 9.0017b18)	8006344
 8006345	瞻	\N	zhān	observe; revere	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: darśana, Japanese: sen (BCSD '瞻', p. 883; DJBT '瞻', p. 423; MW 'darśana'; SH '瞻', p. 465)	8006345
-8006346	瑞	\N	ruì	a miracle; prātihārya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prātihārya (BCSD '瑞', p. 827; DJBT '瑞', p. 423; MW 'prātihārya'; SH '瑞', p. 407)	8006346
+8006346	瑞	\N	ruì	a miracle; prātihārya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prātihārya, Pali: pāṭihāriya, Japanese: zui (BCSD '瑞', p. 827; DJBT '瑞', p. 423; Edgerton 1931 'prātihārya', p. 392; MW 'prātihārya'; SH '瑞', p. 407; Unihan '瑞')	8006346
 8006347	毕勒支底迦佛	畢勒支底迦佛	bìlēizhīdǐjiā fó	Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 緣覺 (FGDB '緣覺')	8006347
 8006348	辟支迦佛	\N	pìzhījiāfó	Pratyekabuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 緣覺 (FGDB '緣覺')	8006348
 8006349	叉手	\N	chā shǒu	hands folded	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '叉手'; FGDB '叉手'; Guoyu '叉手'; Mathews 1931 '叉手', p. 10)	8006349
@@ -6671,7 +6671,7 @@
 8006671	三结	三結	sān jié	the three fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Śrāvakas break these three fetters to become Srotaāpannas. The three fetters are: 1. 有身見 satkāyadṛṣṭi 'deluded belief in a self', 2. 戒禁取見 śilavrataparāmarśa 'attachment to rites and rituals', and 3. 疑 vicikitsā 'doubt about the path' (BL 'saṃyojana'; FGDB '三結')	8006671
 8006672	初果三结	初果三結	chū guǒ sān jié	the three fetters	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三結 (FGDB '三結')	8006672
 8006673	璎珞	瓔珞	yīngluò	jade necklace; muktāhāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muktāhāra, or: hāra, or: mālya (BCSD '瓔珞', p. 828; FGDB '瓔珞'; MW 'muktāhāra'; SH '瓔珞', p. 484)	8006673
-8006674	璎	瓔	yīng	a garland of pearls, necklace; hāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hāra, Japanese: ei, or: you (BCSD '瓔', p. 828; MW 'hāra'; Unihan '瓔')	8006674
+8006674	璎	瓔	yīng	a garland of pearls, necklace; hāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hāra, Japanese: ei, or: you (BCSD '瓔', p. 828; MW 'hāra'; SH '瓔', p. 484; Unihan '瓔')	8006674
 8006675	璎珞	瓔珞	yīngluò	arm bracelet; keyūra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: keyūra, Tibetan: dpung rgyan (BCSD '瓔珞', p. 828; Mahāvyutpatti 'keyūram'; MW 'keyūra')	8006673
 8006676	叔	\N	shū	father's younger brother; pitṛvya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pitṛvya, Japanese: shuku (BCSD '叔', p. 226; MW 'pitṛvya'; SH '叔', p. 251; Unihan '叔')	8006676
 8006677	身见结	身見結	shēnjiàn jié	the view or belief that there is a real self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有身見 (FGDB '有身見')	8006677
@@ -6961,7 +6961,7 @@
 8006961	累	\N	lěi	accumulate; saṃci	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃci, or: rāśīkṛta, Japanese: rui (BCSD '累', p. 928; MW 'saṃci'; SH '累', p. 362; Unihan '累')	8006961
 8006962	劳	勞	láo	tired; exhausted; śrānta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrānta (BCSD '勞', p. 209; MW 'śrānta')	8006240
 8006963	药山陞座	藥山陞座	yàoshān shēngzuò	Yaoshan addresses the assembly	set phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Title of Koan 6 in 從容錄 “Congrong Lu” (reworded from Cleary 2005, p. 28; FGDB '藥山陞座'; T 2004, Scroll 1; Wick 2005, p. 22)	8006963
-8006964	种子	種子	zhǒngzi	bīja; seed; karmic seed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bīja, Pali: bīja, Japanese: shuji; a metaphor for actions creating the potential for later fruition (BL 'bija'; FGDB '種子'; Jaini 1959, pp. 236-249; Lamotte 1988, pp. 27-28; Lusthaus 2002, p. 194; SH '種子', p. 426)	8006964
+8006964	种子	種子	zhǒngzi	bīja; seed; karmic seed	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bīja, Pali: bīja, Japanese: shuji; a metaphor for actions creating the potential for later fruition (BL 'bija'; FGDB '種子'; Jaini 1959, pp. 236-249; Lamotte 1988a, pp. 27-28; Lusthaus 2002, p. 194; SH '種子', p. 426)	8006964
 8006965	仰覆世界	\N	yǎng fù shìjiè	to look up at the world or to look down at the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '仰覆世界')	8006965
 8006966	心业功德	心業功德	xīnyè gōngdé	merit arising from mental karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '心業功德')	8006966
 8006967	一切智智	\N	yīqiè zhì zhì	sarvajñāta; sarvajña-jñāta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñāta, referring to the knowledge of a Buddha (BL 'sarvajñāta'; Conze, 1973, p. 303; FDC '一切智智'; FGDB '一切智智'; Hirakawa '一切智智')	8006967
@@ -7033,8 +7033,8 @@
 8007033	优陀延	優陀延	yōutuóyán	udāna; inspired thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優陀那 (FGDB '優陀那')	8007033
 8007034	净信	淨信	jìngxìn	prasāda; pure faith	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasāda (BCSD '淨信'; MW 'prasāda')	8007034
 8007035	居家	\N	jūjiā	householder; gṛhastha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha, Tibetan: khyim na gnas pa (BCSD '居家', p. 403; Mahāvyutpatti 'gārhasthyam'; MW 'gṛhastha')	8007035
-8007036	居家人	\N	jūjiā rén	householder; gṛhastha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha (BCSD '居家人', p. 403; MW 'gṛhastha')	8007036
-8007037	居家者	\N	jūjiāzhě	householder; gṛhastha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha (BCSD '居家者', p. 403; MW 'gṛhastha')	8007037
+8007036	居家人	\N	jūjiā rén	householder; gṛhastha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha, or: gṛhapati; see 居士 (BCSD '居家人', p. 403; MW 'gṛhastha')	8007036
+8007037	居家者	\N	jūjiāzhě	householder; gṛhastha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhastha, or: gṛhapati; see 居士 (BCSD '居家者', p. 403; MW 'gṛhastha')	8007037
 8007038	居处	居處	jūchù	dwelling; vāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāsa (BCSD '居处', p. 403; MW 'vāsa')	8007038
 8007039	净	淨	jìng	vyavadāna; purification; cleansing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyavadāna; the Buddhist concept of purification (BCSD '淨', p. 727; BL 'vyavadāna'; MW 'vyavadāna')	8007039
 8007040	锅	鍋	guō	pot; kaṭāhaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṭāhaka, Japanese: ka, Tibetan: zangs sam rdza bo (BCSD '鍋, p. 1191; Mahāvyutpatti 'kaṭāhakam'; MW 'kaṭāhaka'; SH '鍋', p. 463; Unihan '鍋')	8007040
@@ -8752,7 +8752,7 @@
 8008752	唯量	\N	wěiliàng	five rudimentary elements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tanmātra; see 五唯 (FGDB '五唯')	8008752
 8008753	五微尘	五微塵	wǔwēichén	five rudimentary elements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañca-tanmātra; see 五唯 (FGDB '五唯')	8008753
 8008754	二十五谛	二十五諦	èrshíwǔ dì	twenty-five truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	of the orthodox Hindu 數論學派 Samkhya school system (FGDB '二十五諦')	8008754
-8008755	瑜伽	\N	yújiā	Yoga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yoga, Pali: yoga; orhtodox Hindu school of philosophy, especially of Patanjali (Dasgupta 2009, pp. 226-229; FGDB '瑜伽')	8001575
+8008755	瑜伽	\N	yújiā	Yoga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yoga, Pali: yoga, Tibetan: rnal 'byor; orhtodox Hindu school of philosophy, especially of Patanjali (BCSD '瑜伽', p. 827; Dasgupta 2009, pp. 226-229; FGDB '瑜伽'; Mahāvyutpatti '瑜伽'; SH '瑜伽', p. 407)	8001575
 8008756	尼夜耶	\N	níyèyé	universal rule; nyāya	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nyāya (FGDB '尼夜耶學派'; MW 'nyāya')	8008756
 8008757	尼夜耶	\N	níyèyé	Nyaya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nyāya; see 尼夜耶學派 (FGDB '尼夜耶學派')	8008756
 8008758	因明处	因明處	yīnmíngchù	universal rule	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nyāya; especially within the system of the orthodox Hindu Nyaya School (FGDB '尼夜耶學派'; MW 'nyāya')	8008758
@@ -10898,7 +10898,7 @@
 8010898	解脱知见众	解脫知見眾	jiětuō zhī jiàn zhòng	body of knowledge and experience of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫知見 (FGDB '五分法身')	8010898
 8010899	解脱知见品	解脫知見品	jiětuō zhī jiàn pǐn	body of knowledge and experience of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 解脫知見 (FGDB '五分法身')	8010899
 8010900	专精	專精	zhuān jīng	single-mindedly and diligently	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 專一 and 精進 (Ding '專精'; SH '專精', p. 348)	8010900
-8010901	表	\N	biǎo	designation; vijñapti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijñapti, Pali viññatti, Japanese: hyou (BCSD '表', p. 1049; Edgerton 1953 'vijñapti', p. 485; Lamotte 1988, p. 18; MW 'vijñapti'; Unihan '表')	8010901
+8010901	表	\N	biǎo	designation; vijñapti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijñapti, Pali viññatti, Japanese: hyou (BCSD '表', p. 1049; Edgerton 1953 'vijñapti', p. 485; Lamotte 1988a, p. 18; MW 'vijñapti'; Unihan '表')	8010901
 8010902	众圣	眾聖	zhòng shèng	all sages	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '眾聖'; SH '眾聖')	8010902
 8010903	净衣	淨衣	jìng yī	pure clothing	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Clothing that has been given or the materials from which clothing was made were donated, in contrast to clothing that has been purchased; referring to the rules for monastics to not earn money that might be used to buy clothes (Ding '淨衣'; FGDB '淨衣')	8010903
 8010904	湿	濕	shī	wet; dravatva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravatva, or: drava, Japanese: shitsu, or: shū, Tibetan: gsher ba nyid (BCSD '濕', p. 746; Mahāvyutpatti 'dravatvam'; MW 'dravatva'; SH '濕', p. 459; Unihan '濕')	8010904
@@ -11530,7 +11530,7 @@
 8011530	萨婆阿私底婆地	薩婆阿私底婆地	sàpóasīdǐpódì	Sarvastivada	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvāstivāda; see 說一切有部 (FGDB '說一切有部')	8011530
 8011531	妙理	\N	miào lǐ	a suble principle; a wonderous principle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '妙理'; Sharf 2005, p. 185)	8011531
 8011532	计度	計度	jìdù	conjecture; reckon; calculate; differentiate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '計度'; SH '計度')	8011532
-8011533	瑟	\N	sè	lute	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīṇā, Japanese: shitsu (BCSD '瑟', p. 827; MW 'vīṇā'; SH '瑟', p. 407; Unihan '瑟')	8011533
+8011533	瑟	\N	sè	harp	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shitsu (BCSD '瑟', p. 827; SH '瑟', p. 407; Unihan '瑟')	8011533
 8011534	四佛	\N	sì fó	four Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either four of the past Buddhas or the Buddhas of the four directions. The four past Buddhas referred to are: (1) 拘留孫佛 Krakucchanda, (2) 拘那含佛 Kanakamuni, (3) 迦葉波佛  Kāśyapa, and (4)釋迦牟尼佛 Śākyamuni. The Buddhas of the four directions referred to are: (1) 妙喜國之阿閦佛 Akṣobhya in the east, (2)歡喜國之寶相佛 Ratnaketu in the south, (3) 極樂國之無量壽佛 Amitāyus in the west, and (4) 蓮華莊嚴國之微妙聲佛 Dundubhisvara in the north (Ding '四佛'; FGDB '四佛'; SH '四佛').	8011534
 8011535	若	\N	ruò	if; yadi	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yadi (BCSD '若', p. 1009; MW 'yadi'; SH '若', p. 313)	8003242
 8011536	膝	\N	xī	knee; jānu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jānu, or: jānumaṇḍala, Japanese: shitsu, Tibetan: pus mo (BCSD '膝', p. 981; Dhammajoti 2013, p. 382; Mahāvyutpatti 'jānuḥ'; MW 'jānu'; Unihan '膝')	8011536
@@ -11538,3 +11538,43 @@
 8011538	善护	善護	shànhù	protector; tāyin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tāyin, Pali: tādi, Tibetan: skyob pa (BCSD '善護', p. 266; Edgerton 1953 'tāyin', p. 251; Mahāvyutpatti 'trāyī'; MW 'tāyin')	8011538
 8011539	云何	\N	yúnhé	how; katham	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: katham, or: yathā (Mahāvyutpatti 'yathā'; SH '善護', p. 112; MW 'katham')	8011539
 8011540	如是	\N	rúshì	thus; evam	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: evam (Mahāvyutpatti 'evam'; MW 'evam'; SH '如是', p. 211)	8011540
+8011541	瑕	\N	xiá	defect; chidra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chidra, Japanese: ka (BCSD '瑕', p. 827; MW 'chidra'; Unihan '瑕')	8011541
+8011542	金刚总持	金剛總持	jīngāngzǒngchí	Vajradhara	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 金剛持 (Wikipedia '執金剛神')	8011542
+8011543	迦罗鸠孙陀佛	迦羅鳩孫陀佛	jiāluójiūsūntuó fó	Krakucchanda Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011543
+8011544	琵	\N	pí	lute; vīṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīṇā (BCSD '琵', p. 827; MW 'vīṇā'; Unihan '瑟')	8011544
+8011545	瑜誐	\N	yúé	yoga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瑜伽 (SH '瑜伽', p. 407)	8011545
+8011546	遊迦	\N	yóujiā	yoga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瑜伽 (SH '瑜伽', p. 407)	8011546
+8011547	琵琶	\N	pípá	lute; vīṇā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīṇā, Tibetan: pi wang, or: pi bang (BCSD '琵琶', p. 827; Mahāvyutpatti 'vīṇā'; MW 'vīṇā'; SH '琵琶', p. 383)	8011547
+8011548	迦罗鸠孙陀	迦羅鳩孫陀	jiāluójiūsūntuó	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011548
+8011549	谤佛	謗佛	bàng fó	persecution of Buddhism	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法難 (FGDB '法難')	8011549
+8011550	瑠	\N	liú	a precious stone	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ryū, or: ru (BCSD '瑠', p. 828; Unihan '瑠')	8011550
+8011551	羯洛迦孙驮佛	羯洛迦孫馱佛	jiéluòjiāsūnduò fó	Krakucchanda Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011551
+8011552	阿閦婆	\N	āchùpó	Akṣobhya	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (Eitel 'akchobhya', p. 7)	8011552
+8011553	瑠璃	\N	liúlí	cat's-eye gem; vaiḍūrya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiḍūrya (BCSD '瑠璃', p. 828; MW 'vaiḍūrya')	8011553
+8011554	十六大国	十六大國	shíliù dàguó	sixteen great states	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: ṣoḍaśa mahājanapada, or: ṣoḍaśajanapada, Japanese equivalent: jūroku-daikoku; the sixteen great kingdoms of India at the time of the Buddha (BCSD '十六大國', p. 216; DDB '十六大國'; FGDB '十六大國'; Lamotte 1988, p. 7; Soka Gakkai 'sixteen great states')	8011554
+8011555	鸯伽	鴦伽	yāngjiā	Anga	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: aṅga; one of the sixteen great states of ancient India, see 十六大國 (FGDB '十六大國'; Lamotte 1988, p. 7; SH '十六大國', p. 454)	8011555
+8011556	莹	瑩	yíng	polished; mṛṣṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛṣṭa, Japanese: ei (BCSD '瑩', p. 828; MW 'mṛṣṭa'; Unihan '瑩')	8011556
+8011557	羯洛迦孙驮	羯洛迦孫馱	jiéluòjiāsūnduò	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011557
+8011558	迦罗迦村驮佛	迦羅迦村馱佛	jiāluójiācūnduò fó	Krakucchanda Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011558
+8011559	玛	瑪	mǎ	agate	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ba, or: me (BCSD '瑪', p. 828; SH '瑪', p. 425; Unihan '瑪')	8011559
+8011560	赖吒和罗	賴吒和羅	làizhàhéluó	rāṣṭrapāla; protector of a kingdom; king	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāṣṭrapāla; character in 德光太子經 Sutra on Prince Punyarasmi (FGDB '賴吒和羅'; T 170, 3.0412a07)	8010676
+8011561	迦罗迦村驮	迦羅迦村馱	jiāluójiācūnduò	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011561
+8011562	瑿	\N	yī	black gem	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '瑿', p. 828; Unihan '瑿')	8011562
+8011563	拘楼孙	拘樓孫	jūlóusūn	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; same as 拘留孫佛 (FGDB '拘留孫佛'; Kieschnick and Wiles 2017, vol. 1, p. 61)	8011563
+8011564	拘楼秦	拘樓秦	jūlóuqín	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011564
+8011565	璭	\N	gùn	\N	\N	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '璭', p. 828; Unihan '璭')	8011565
+8011566	俱留孙佛	俱留孫佛	jūliúsūn fó	Krakucchanda Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011566
+8011567	俱留孙	俱留孫	jūliúsūn	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011567
+8011568	璧	\N	bì	a jade bi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: heki (BCSD '璧', p. 828; Unihan '璧')	8011568
+8011569	迦鸠留佛	迦鳩留佛	jiājiūliú fó	Krakucchanda Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011569
+8011570	迦鸠留	迦鳩留	jiājiūliú	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011570
+8011571	璧玉	\N	bìyù	a precious stone; śilā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śilā, Pali silā (BCSD '璧玉', p. 828; Edgerton 1953 'śilā', p. 528; MW 'śilā')	8011571
+8011572	鸠留秦佛	鳩留秦佛	jiūliúqín fó	Krakucchanda Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011572
+8011573	鸠留秦	鳩留秦	jiūliúqín	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krakucchanda; see 拘留孫佛 (FGDB '拘留孫佛')	8011573
+8011574	璩	\N	qú	a jade ring	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyo, or: go (BCSD '璩', p. 828; Unihan '璩')	8011574
+8011575	拘那含佛	\N	jūnàhán fó	Kanakamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kanakamuni, Pali: konāgamana; the fifth of the 過去七佛 Past Seven Buddhas (Ding '拘那含牟尼'; FGDB '拘那含佛'; SH '拘那牟尼', p. 261)	8011575
+8011576	拘那含	\N	jūnàhán	Kanakamuni	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 拘那含佛 (FGDB '拘那含佛')	8011576
+8011577	璫	\N	dāng	earring; karṇikā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karṇikā, Japanese: tou (BCSD '璫', p. 828; MW 'karṇikā'; Unihan '璫')	8011577
+8011578	狗那含佛	\N	gǒunàhán fó	Kanakamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 拘那含佛 (FGDB '拘那含佛')	8011578
+8011579	狗那含	\N	gǒunàhán	Kanakamuni	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 拘那含佛 (FGDB '拘那含佛')	8011579
+8011580	环	環	huán	ring; bracelet; kaṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṭaka, Japanese: kan (BCSD '環', p. 828; MW 'kaṭaka'; Unihan '環')	8011580
