@@ -1,4 +1,5 @@
 dataflow-service-account.json
 .vscode/
+*.code-workspace
 web/
 web-staging/
