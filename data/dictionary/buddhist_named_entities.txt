@@ -2727,7 +2727,7 @@
 7002727	五母子经	五母子經	wǔ mǔ zǐ jīng	Wu Mu Zi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 555a)	7002727
 7002728	五母子经	五母子經	wǔ mǔ zǐ jīng	Wu Mu Zi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 555b)	7002728
 7002729	佛说七女经	佛說七女經	fó shuō qī nǚ jīng	Fo Shuo Qi Nu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 七女經 (T 556)	7002729
-7002730	七女经	七女經	qī nǚ jīng	Qi Nu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 784; T 556)	7002730
+7002730	七女经	七女經	qī nǚ jīng	Sutra on Seven Daughters; Qi Nu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '七女經'; Nanjio 1883, p. 168; KDC 784; T 556)	7002730
 7002731	佛说龙施女经	佛說龍施女經	fó shuō lóng shī nǚ jīng	Fo Shuo Long Shi Nu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 龍施女經 (T 557)	7002731
 7002732	龙施女经	龍施女經	lóng shī nǚ jīng	Long Shi Nu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 270; T 557)	7002732
 7002733	佛说龙施菩萨本起经	佛說龍施菩薩本起經	fó shuō lóng shī púsà běnqǐ jīng	Fo Shuo Long Shi Pusa Benqi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 龍施菩薩本起經 (T 558)	7002733
@@ -7212,3 +7212,6 @@
 7007212	月明菩萨三昧经	月明菩薩三昧經	yuèmíng púsà sānmèi jīng	Candraprabha Bodhisattva Samadhi Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A form used in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji,” see 月光童子經 (T 534; T 2145, 55.0006c11)	7007212
 7007213	能断金刚般若波罗蜜多经	能斷金剛般若波羅蜜多經	néng duàn jīngāng bānruòbōluómìduō jīng	Prajnaparamita Diamond Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajracchedikāprajñāpāramitāsūtra, or: vajracchedikā; the version translated by 義淨 Yijing (FGDB '金剛般若波羅蜜經'; T 239)	7007213
 7007214	能断金刚经	能斷金剛經	néng duàn jīngāng jīng	Diamond Cutter Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajracchedikā; see 能斷金剛般若波羅蜜多經 (FGDB '金剛般若波羅蜜經'; T 239)	7007214
+7002730	七女本经	七女本經	qī nǚ běn jīng	Sutra on Seven Daughters; Qi Nu Ben Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 七女經 (FGDB '七女經'; T 556)	7002730
+7002731	拘留	\N	jūliú	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(BCSD '拘留', p. 543; FGDB '斑足王'; Lamotte 1988, p. 8)	7002731
+7002732	拘留国	拘留國	jūliú guó	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 拘留 (FGDB '斑足王')	7002732

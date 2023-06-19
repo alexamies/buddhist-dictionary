@@ -4301,7 +4301,7 @@
 8004301	象	\N	xiàng	elephant; gaja	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaja, or: hastin (BCSD '象', p. 1104; MW 'gaja'; SH '象', p. 390)	8004301
 8004302	鹿	\N	lù	deer; mrga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛga (MW 'mṛga'; SH '鹿', p. 367)	8004302
 8004303	村	\N	cūn	village; grama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grāma, Japanese: son (BCSD '村', p. 645; MW 'grāma')	8004303
-8004304	男	\N	nán	male; nara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nara (BCSD '男', p. 844; MW 'nara')	8004304
+8004304	男	\N	nán	male; nara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nara, Japanese: dan, or: nan (BCSD '男', p. 844; MW 'nara'; SH '男', p. 243; Unihan '男')	8004304
 8004305	看	\N	kàn	see	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √paś, or: √dṛś (BCSD '看', p. 875; MW 'paś')	8004305
 8004306	三分时	三分時	sānfēn shí	tretayuga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tretāyuga; the second of the four ages of the world (FGDB '劫')	8004306
 8004307	二分时	二分時	èrfēn shí	dvayuga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvāyuga; the third of the four ages of the world (FGDB '劫')	8004307
@@ -11649,3 +11649,7 @@
 8011649	恒河沙	恆河沙	hénghé shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṅgānadīvāluka, Pali: gaṅgānadīvāluka, Japanese: Gōgasha; an incalculable number (BL 'gaṅgānadīvāluka'; Ding '河沙'; FGDB '恆河沙'; SH '河沙', p. 265)	8011649
 8011650	申	\N	shēn	raised; utkṣipta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utkṣipta, Japanese: shin (BCSD '申', p. 844; MW 'utkṣipta'; SH '申', p. 197; Unihan '申')	8011650
 8011651	恒边沙	恆邊沙	héng biān shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011651
+8011652	恒水边流沙	恆水邊流沙	héngshuǐ biān liú shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011652
+8011653	畆	\N	mǔ	field	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ho, or: bou (BCSD '畆', p. 845; Unihan '畆')	8011653
+8011654	江河沙	\N	jiānghé shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011654
+8011655	兢伽沙	\N	jīngjiā shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011655
