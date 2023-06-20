@@ -1848,7 +1848,7 @@
 8001848	阿若憍陈如	阿若憍陳如	Aruòjiāo Chénrú	Ājñāta-kāuṇḍinya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ājñātakāuṇḍinya; see 憍陳如 (Eitel 'Ādjñāta-kāuṇḍinya', p. 4; FGDB '憍陳如'; SH '阿若多', p. 291)	8001848
 8001849	僧伽	\N	sēngqié	Samgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, Pali: saṅgha, Japanese: sōgya, Korean: sŭngga, Tibetan: dge ’dun, Khmer: preah sang; the community of monks and nuns (BCSD '僧伽', p. 148; BL 'saṅgha', p. 768; FGDB '僧伽')	8001849
 8001850	毗奈耶	\N	pínàiyē	monastic discipline; vinaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 律 (FGDB '律')	8001850
-8001851	界	\N	jiè	dhatu; realm; field; domain	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhātu, Pali: dhātu, Japanese: kai, Tibetan: khams; in Buddhist cosmology and philosophy; for example, 欲界 'realm of desire' (BL 'dhātu', p. 254; FGDB '界'; Kroll 2015 '界' 5, p. 211; Red Pine 2012, loc. 5667; SH '界', p. 308)	8001851
+8001851	界	\N	jiè	dhatu; realm; field; domain	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhātu, Pali: dhātu, Japanese: kai, Tibetan: khams; in Buddhist cosmology and philosophy; for example, 欲界 'realm of desire' (BCSD '界', p. 845; BL 'dhātu', p. 254; FGDB '界'; Kroll 2015 '界' 5, p. 211; Red Pine 2012, loc. 5667; SH '界', p. 308)	8001851
 8001852	多罗菩萨	多羅菩薩	duōluó púsà	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: tārā, Japanese: Tara, Tibetan: sgrol ma; female bodhisattva, mother of liberation (Baike '多罗菩萨'; BL 'Tārā', p. 895-896; Ding '多羅菩薩'; FGDB '多羅菩薩'; FGS Encyclopedia of Buddhist Arts; Powers 2007, p. 552; SH '多羅菩薩', p. 209; Wikipedia '多羅菩薩')	8001852
 8001853	驮都	馱都	duòdōu	dhatu; realm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhātu; see 界 (FGDB '界')	8001853
 8001854	多罗母	多羅母	duōluó mǔ	Tara	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	tara400.jpg	\N	See 多羅菩薩 (FGDB '多羅菩薩')	8001854
@@ -6332,7 +6332,7 @@
 8006332	二十四愿	二十四願	èr shí sì yuàn	twenty-four vows	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Amitabha Buddha (FGDB '二十四願')	8006332
 8006333	善学	善學	shàn xué	well trained	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: suśikṣita; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '善學', p. 212; Braarvig 2020, ch. 8; Hurvitz 2009, p. 159; Kern tr. 1884, ch. 8; MW 'suśikṣita'; Vaidya 1960, p. 129; T 262, Scroll 4, 9.0028a07)	8006333
 8006334	小法	\N	xiǎo fǎ	lesser teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hīnayāna; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '小法', p. 397; Braarvig 2020, ch. 8; Hurvitz 2009, p. 160; Kern tr. 1884, ch. 8; MW 'hīnayāna'; SH '小法', p. 100; Vaidya 1960, p. 129; T 262, Scroll 4, 9.0028a07)	8006334
-8006335	畏	\N	wèi	fear; frightened; bhaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaya, or: uttrasta (BCSD '畏', p. 845; MW 'bhaya')	8006335
+8006335	畏	\N	wèi	fear; bhaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaya, or: uttrasta, Japanese: i (BCSD '畏', p. 845; MW 'bhaya'; Unihan '畏')	8006335
 8006336	舍家	捨家	shějiā	to become a monk or nun	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pravrajita, Pali: pabbajjā; used in the context of leaving home to become a Buddhist monk or nun (BL 'pravrajita'; FGDB '捨家棄欲')	8006336
 8006337	勿	\N	wù	do not	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: na (BCSD '勿', p. 212; MW 'na'; SH '勿', p. 140)	8006337
 8006338	什	甚	shén	very; bhṛśam	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhṛśam, Tibetan: rab tu te bor rab tu (BCSD '甚', p. 830; Mahāvyutpatti 'bhṛśam'; MW 'bhṛśam'; SH '甚', p. 308)	8006338
@@ -11653,3 +11653,20 @@
 8011653	畆	\N	mǔ	field	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ho, or: bou (BCSD '畆', p. 845; Unihan '畆')	8011653
 8011654	江河沙	\N	jiānghé shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011654
 8011655	兢伽沙	\N	jīngjiā shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011655
+8011656	畋	\N	tián	to cultivate land	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ten, or: den (BCSD '畋', p. 845; Unihan '畋')	8011656
+8011657	恒沙	恆沙	héng shā	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011657
+8011658	恒河沙数	恆河沙數	hénghé shā shǔ	the sand of the River Ganges; as numerous as grains of sand in the River Ganges	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 恆河沙 (FGDB '恆河沙')	8011658
+8011659	畜	\N	xù	keeping; dhāraṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇa, Japanese: chiku, or: kiku, or: kyū (BCSD '畋', p. 846; MW 'dhāraṇa'; Unihan '畜')	8011659
+8011660	智行	\N	zhìxíng	wisdom and cultivation; wisdom and practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 智慧 'wisdom' and 修行 'cultivation' (Ding '智行')	8011660
+8011661	白月	\N	bái yuè	first half of the month; śuklapakṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śuklapakṣa; in contrast with 黑月 'second half of the month' in the Indian traditional calendar (Ding '白月'; FGDB '白月'; SH '白月', p. 198)	8011661
+8011662	亩	畝	mǔ	field; kṣetra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra, Pali: khetta, Japanese: ho, or: bou (BCSD '畝', p. 846; Edgerton 1953 'kṣetra', p. 201; MW 'kṣetra'; Unihan '畝')	8011662
+8011663	畞	\N	mǔ	field	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣetra, Pali: khetta, Japanese: ho, or: bou; see 畝 (BCSD '畞', p. 846; Unihan '畞')	48052
+8011664	戍迦罗博乞史	戍迦羅博乞史	shùjiāluóbóqǐshǐ	first half of the month; śuklapakṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白月 (FGDB '白月')	8011664
+8011665	白半	\N	báibàn	first half of the month; śuklapakṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白月 (FGDB '白月')	8011665
+8011666	畟	\N	cè	plough	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Japanese: shoku, or: shiki, or: soku (BCSD '畟', p. 846; Unihan '畟')	8011666
+8011667	白月分	\N	báiyuèfēn	first half of the month; śuklapakṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白月 (FGDB '白月')	8011667
+8011668	白分	\N	báifēn	first half of the month; śuklapakṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白月 (FGDB '白月')	8011668
+8011669	毕	畢	bì	fixed; niyata	verb	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niyata, Japanese: hitsu (BCSD '畢', p. 846; MW 'niyata'; SH '畢', p. 361; Unihan '畢')	8011669
+8011670	理事	\N	lǐshì	noumena and phenomena; principle and manifestation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '理事' 4; SH '理事', p. 360)	8011670
+8011671	黑白月	\N	hēi bái yuè	first and second half of the month	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the Indian traditional calendar (FGDB '黑白月')	8011671
+8011672	略	\N	lüè	concisely; samāsatas	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samāsatas, Japanese: ryaku (BCSD '略', p. 847; MW 'samāsatas'; SH '略', p. 360; Unihan '略')	8011672

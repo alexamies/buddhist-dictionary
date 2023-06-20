@@ -753,8 +753,8 @@
 7000753	釋道安	釋道安	shì dào Ān	Shi Dao An	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 道安 (FGDB '道安')	7000753
 7000754	僧祐	\N	sēng Yòu	Seng You	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	445-518 CE, Japanese: Sōyū; well known translator from Jianye, present-day Nanjing, compiled the 出三藏記集 'Compilation of Notices on the Translation of the Tripiṭaka,' the earliest catalog of Buddhist canonical texts still in existence (BL 'Sengyou'; JEBD 'Sōyū', p. 344; FGDB '僧祐'; Hujiao and Yang tr. 2022, p. 536-537)	7000754
 7000755	道宣	\N	dào Xuān	Daoxuan	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	Japanese: Dōsen; 596-667 CE, well known translator and patriarch of the Nanshan Vinaya School (BL 'Daoxuan'; FGDB '道宣')	7000755
-7000756	支娄迦谶	\N	zhīlóujiāchèn	Lokaksema	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	C. 147-? CE, well known translator (Wikipedia '支娄迦谶')	7000756
-7000757	鸠摩罗什	鳩摩羅什	Jiūmóluóshí	Kumarajiva; Kumārajīva	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	C. 334-413; Kumārajīva was born in Kucha 库车 (formerly Kezil 龟茲), according to hagiography. He was well known translator and credited with founding the 三論宗 San Lun Zong 'Three Treatises School'; FGS translation standard: Kumarajiva (BL 'Kumārajīva'; Faxiang; FGDB '鳩摩羅什')	7000757
+7000756	支娄迦谶	支婁迦讖	zhīlóujiāchèn	Lokakṣema; Lokaksema	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokakṣema; c. 147 CE, monk from Gandhara, travelled to China and translated sutras; first to translate Prajñāpāramitā sutras to Chinese (FGDB '支婁迦讖'; Wikipedia '支娄迦谶')	7000756
+7000757	鸠摩罗什	鳩摩羅什	jiūmóluóshí	Kumarajiva; Kumārajīva	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	C. 334-413; Kumārajīva was born in Kucha 库车 (formerly Kezil 龟茲), according to hagiography. He was well known translator and credited with founding the 三論宗 San Lun Zong 'Three Treatises School'; FGS translation standard: Kumarajiva (BL 'Kumārajīva'; Faxiang; FGDB '鳩摩羅什')	7000757
 7000758	三藏鸠摩罗什	三藏鳩摩羅什	sān Zàng Jiūmóluóshí	Kumārajīva	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	三藏 'Tripiṭaka' was a title deferred on Kumārajīva (FGDB '鳩摩羅什')	7000758
 7000759	天竺三藏求那跋陀罗	天竺三藏求那跋陀羅	Tiānzhú sān Zàng Qiúnàbátuóluó	Guṇabhadra; Gunabhadra	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 求那跋陀羅 (FGDB '求那跋陀羅')	7000759
 7000760	毘尼多流支	\N	píníduōliúzhī	Vinītaruci	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	?-594, monastic and translator of Buddhist texts from Sanskrit to Chinese  (FGDB '毘尼多流支'; KDC 148)	7000760
@@ -1296,7 +1296,7 @@
 7001296	法盛	\N	fǎshèng	Fasheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	A Chinese monk who lived during the Northern dynasties, translated some texts in the Chinese Buddhist canon (FGDB '法盛')	7001296
 7001297	清辩	清辯	qīng Biàn	Bhāviveka	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	See 清辨 (FGDB '清辨')	7001297
 7001298	马鸣	馬鳴	Mǎ míng	Aśvaghoṣa; Asvaghosa	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Aśvaghoṣa, c. 80-150 CE an Indian philosopher-poet, known for composition of the 佛所行讚 Buddhacarita (BL 'Aśvaghoṣa'; FGDB '馬鳴'; KDC '980'; T 192)	7001298
-7001299	支娄迦谶	支婁迦讖	Zhīlóujiāchèn	Lokakṣema; Lokaksema	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras (Wikipedia '支娄迦谶')	7001299
+7001299	大明度无极经	大明度無極經	dà míng dù wú jí jīng	Da Ming Du Wu Ji Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大明度經 (FGDB '明度經'; T 225)	7001299
 7001300	提云般若	提雲般若	tíyúnbōrě	Devaprajñā	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	A monastic from Yutian who  translated 《大方廣佛華嚴經不思議佛境界分》'Dafangguang Fo Huayan Jing Bu Siyi Fo Jingjie Fen' (FGDB '提雲般若'; KDC 88; T 300)	7001300
 7001301	提云陀若	提雲陀若	Tíyúntuórě	Devaprajñā	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 提雲般若 (FGDB '提雲般若')	7001301
 7001302	鹅湖	鵝湖	éhú	Ehu	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 鵝湖大義 (FGDB '鵝湖大義')	7001302
@@ -2771,7 +2771,7 @@
 7002771	佛说长者女菴提遮师子吼了义经	佛說長者女菴提遮師子吼了義經	fó shuō zhǎngzhě nǚ ān tí zhē shīzi hǒu liǎoyì jīng	Fo Shuo Zhangzhe Nu An Ti Zhe Shizi Hou Liaoyi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 長者女菴提遮師子吼了義經 (T 580)	7002771
 7002772	长者女菴提遮师子吼了义经	長者女菴提遮師子吼了義經	zhǎngzhě nǚ ān tí zhē shīzi hǒu liǎoyì jīng	Zhangzhe Nu An Ti Zhe Shizi Hou Liaoyi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 514; T 580)	7002772
 7002773	佛说八师经	佛說八師經	fó shuō bā shī jīng	Fo Shuo Ba Shi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 八師經 (T 581)	7002773
-7002774	八师经	八師經	bā shī jīng	Ba Shi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 786; T 581)	7002774
+7002774	八师经	八師經	bā shī jīng	Sutra on Eight Teachers; Ba Shi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '八師經'; Nanjio 1883, p. 169; KDC 786; T 581)	7002774
 7002775	佛说孙多耶致经	佛說孫多耶致經	fó shuō sūn duō yé zhì jīng	Fo Shuo Sun Duo Ye Zhi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 孫多耶致經 (T 582)	7002775
 7002776	孙多耶致经	孫多耶致經	sūn duō yé zhì jīng	Sun Duo Ye Zhi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 884; T 582)	7002776
 7002777	佛说黑氏梵志经	佛說黑氏梵志經	fó shuō hēi shì fànzhì jīng	Fo Shuo Hei Shi Fanzhi Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 黑氏梵志經 (T 583)	7002777
@@ -7212,6 +7212,9 @@
 7007212	月明菩萨三昧经	月明菩薩三昧經	yuèmíng púsà sānmèi jīng	Candraprabha Bodhisattva Samadhi Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A form used in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji,” see 月光童子經 (T 534; T 2145, 55.0006c11)	7007212
 7007213	能断金刚般若波罗蜜多经	能斷金剛般若波羅蜜多經	néng duàn jīngāng bānruòbōluómìduō jīng	Prajnaparamita Diamond Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajracchedikāprajñāpāramitāsūtra, or: vajracchedikā; the version translated by 義淨 Yijing (FGDB '金剛般若波羅蜜經'; T 239)	7007213
 7007214	能断金刚经	能斷金剛經	néng duàn jīngāng jīng	Diamond Cutter Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajracchedikā; see 能斷金剛般若波羅蜜多經 (FGDB '金剛般若波羅蜜經'; T 239)	7007214
-7002730	七女本经	七女本經	qī nǚ běn jīng	Sutra on Seven Daughters; Qi Nu Ben Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 七女經 (FGDB '七女經'; T 556)	7002730
-7002731	拘留	\N	jūliú	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(BCSD '拘留', p. 543; FGDB '斑足王'; Lamotte 1988, p. 8)	7002731
-7002732	拘留国	拘留國	jūliú guó	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 拘留 (FGDB '斑足王')	7002732
+7007215	七女本经	七女本經	qī nǚ běn jīng	Sutra on Seven Daughters; Qi Nu Ben Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 七女經 (FGDB '七女經'; T 556)	7007215
+7007216	拘留	\N	jūliú	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(BCSD '拘留', p. 543; FGDB '斑足王'; Lamotte 1988, p. 8)	7007216
+7007217	拘留国	拘留國	jūliú guó	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 拘留 (FGDB '斑足王')	7007217
+7007218	释摩男	釋摩男	shìmónán	Mahānāma	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 摩訶男 (FGDB '摩訶男')	7007218
+7007219	孛抄经	孛抄經	bèichāo jīng	Bei Chao Scripture	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 孛經抄 (CFGDB '佛說孛經抄')	7007219
+7007220	明度经	明度經	míngdùjīng	Ming Du Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大明度經 (FGDB '明度經'; T 225)	7007220
