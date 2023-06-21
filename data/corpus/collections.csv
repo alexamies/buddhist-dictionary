@@ -574,9 +574,9 @@ taisho/t0555b.csv	taisho/t0555b.html	Wu Mu Zi Jing 五母子經	Translated by Zh
 taisho/t0556.csv	taisho/t0556.html	Sutra on Seven Daughters (Fo Shuo Qi Nu Jing) 佛說七女經	Translated by Zhi Qian	taisho/t0556_00.txt	Taishō	Sūtra	223-253	jingji
 taisho/t0557.csv	taisho/t0557.html	Fo Shuo Long Shi Nu Jing 佛說龍施女經	Translated by Zhi Qian	taisho/t0557_00.txt	Taishō	Sūtra	222-229	jingji
 taisho/t0558.csv	taisho/t0558.html	Fo Shuo Long Shi Pusa Benqi Jing 佛說龍施菩薩本起經	Translated by Dharmarakṣa	taisho/t0558_00.txt	Taishō	Sūtra	266-313	jingji
-taisho/t0559.csv	taisho/t0559.html	Mahālalikāparipṛcchā (Fo Shuo Lao Nuren Jing) 佛說老女人經	Translated by Zhi Qian	taisho/t0559_00.txt	Taishō	Sūtra	223-253	jingji
-taisho/t0560.csv	taisho/t0560.html	Mahālalikāparipṛcchā (Fo Shuo Lao Mu Nu Liu Ying Jing) 佛說老母女六英經	Translated by Guṇabhadra	taisho/t0560_00.txt	Taishō	Sūtra	435-443	jingji
-taisho/t0561.csv	taisho/t0561.html	Mahālalikāparipṛcchā (Fo Shuo Lao Mu Jing) 佛說老母經	Translated by Unknown	taisho/t0561_00.txt	Taishō	Sūtra	420-479	jingji
+taisho/t0559.csv	taisho/t0559.html	Sūtra Spoken at the Request of an Old Woman (Fo Shuo Lao Nuren Jing) 佛說老女人經	Translated by Zhi Qian	taisho/t0559_00.txt	Taishō	Sūtra	223-253	jingji
+taisho/t0560.csv	taisho/t0560.html	Sūtra Spoken at the Request of an Old Woman (Fo Shuo Lao Mu Nu Liu Ying Jing) 佛說老母女六英經	Translated by Guṇabhadra	taisho/t0560_00.txt	Taishō	Sūtra	435-443	jingji
+taisho/t0561.csv	taisho/t0561.html	Sūtra Spoken at the Request of an Old Woman (Fo Shuo Lao Mu Jing) 佛說老母經	Translated by Unknown	taisho/t0561_00.txt	Taishō	Sūtra	420-479	jingji
 taisho/t0562.csv	taisho/t0562.html	Strīvivartavyākaraṇa (Fo Shuo Wugou Xian Nu Jing) 佛說無垢賢女經	Translated by Dharmarakṣa	taisho/t0562_00.txt	Taishō	Sūtra	280-289	jingji
 taisho/t0563.csv	taisho/t0563.html	Strīvivartavyākaraṇa (Fo Shuo Fu Zhong Nu Ting Jing) 佛說腹中女聽經	Translated by Dharmakṣema	taisho/t0563_00.txt	Taishō	Sūtra	414-426	jingji
 taisho/t0564.csv	taisho/t0564.html	Strīvivartavyākaraṇa (Fo Shuo Zhuan Nu Shen Jing) 佛說轉女身經	Translated by 曇摩蜜多	taisho/t0564_00.txt	Taishō	Sūtra	424	jingji
@@ -750,7 +750,7 @@ taisho/t0731.csv	taisho/t0731.html	Fo Shuo Shiba Nili Jing 佛說十八泥犁經
 taisho/t0732.csv	taisho/t0732.html	Fo Shuo Ma Yi Jing 佛說罵意經	Translated by An Shigao	taisho/t0732_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0733.csv	taisho/t0733.html	Fo Shuo Jian Yi Jing 佛說堅意經	Translated by An Shigao	taisho/t0733_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0734.csv	taisho/t0734.html	Fo Shuo Gui Wen Mulian Jing 佛說鬼問目連經	Translated by An Shigao	taisho/t0734_00.txt	Taishō	Sūtra	148-170	jingji
-taisho/t0735.csv	taisho/t0735.html	Fo Shuo Si Yuan Jing 佛說四願經	Translated by Zhi Qian	taisho/t0735_00.txt	Taishō	Sūtra	222-229	jingji
+taisho/t0735.csv	taisho/t0735.html	Sutra on Four Wishes (Fo Shuo Si Yuan Jing) 佛說四願經	Translated by Zhi Qian	taisho/t0735_00.txt	Taishō	Sūtra	222-229	jingji
 taisho/t0736.csv	taisho/t0736.html	Fo Shuo Si Zi Qin Jing 佛說四自侵經	Translated by Dharmarakṣa	taisho/t0736_00.txt	Taishō	Sūtra	265-313	jingji
 taisho/t0737.csv	taisho/t0737.html	Suo Yu Zhi Huan Jing 所欲致患經	Translated by Dharmarakṣa	taisho/t0737_00.txt	Taishō	Sūtra	304	jingji
 taisho/t0738.csv	taisho/t0738.html	Fo Shuo Fenbie Jing 佛說分別經	Translated by Dharmarakṣa	taisho/t0738_00.txt	Taishō	Sūtra	265-313	jingji
@@ -1555,7 +1555,7 @@ taisho/t1488.csv	taisho/t1488.html	Upāsakāśīlasūtra (Youposai Jie Jing) 優
 taisho/t1489.csv	taisho/t1489.html	Paramārthasaṃvṛtisatyanirdeśa (Qing Jing Pi Ni Fangguang Jing) 清淨毘尼方廣經	Translated by Kumārajīva	taisho/t1489_00.txt	Taishō	Vinaya	402-412	vinaya
 taisho/t1490.csv	taisho/t1490.html	Paramārthasaṃvṛtisatyanirdeśa (Ji Tiao Yin Suo Wen Jing) 寂調音所問經	Translated by Fa Hai	taisho/t1490_00.txt	Taishō	Vinaya	420-479	vinaya
 taisho/t1491.csv	taisho/t1491.html	Karmāvaraṇapratipraśrabdhi (Pusa Cang Jing) 菩薩藏經	Translated by Saṅghabhara	taisho/t1491_00.txt	Taishō	Vinaya	517	vinaya
-taisho/t1492.csv	taisho/t1492.html	Triskandhaka (Fo Shuo Shelifu Huiguo Jing) 佛說舍利弗悔過經	Translated by An Shigao	taisho/t1492_00.txt	Taishō	Vinaya	148-170	vinaya
+taisho/t1492.csv	taisho/t1492.html	Sariputra Repentance Sūtra (Fo Shuo Shelifu Huiguo Jing) 佛說舍利弗悔過經	Translated by An Shigao	taisho/t1492_00.txt	Taishō	Vinaya	148-170	vinaya
 taisho/t1493.csv	taisho/t1493.html	Karmāvaraṇapratipraśrabdhi (Dasheng San Ju Chanhui Jing) 大乘三聚懺悔經	Translated by Jñānagupta and Dharmagupta	taisho/t1493_00.txt	Taishō	Vinaya	585-600	vinaya
 taisho/t1494.csv	taisho/t1494.html	Karmāvaraṇaviśuddhisūtra (Fo Shuo Jing Yezhang Jing) 佛說淨業障經	Translated by Unknown	taisho/t1494_00.txt	Taishō	Vinaya	350-431	vinaya
 taisho/t1495.csv	taisho/t1495.html	Shan Gongjing Jing 善恭敬經	Translated by Jñānagupta	taisho/t1495_00.txt	Taishō	Vinaya	586	vinaya
