@@ -4977,7 +4977,7 @@
 8004977	恶作	惡作	è zuò	evil doing; remorse; kaukritya; kukkucca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaukṛtya, Pali: kukkucca (FGDB '惡作'; MW 'kaukṛtya'; SH '惡作', p. 371)	8004977
 8004978	睡眠	\N	shuìmián	torpor; drowsiness; middha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: middha, Pali: middha, Tibetan: gnyid (FGDB '睡眠'; Mahāvyutpatti 'middham'; MW 'middha'; SH '睡眠', p. 408)	8004978
 8004979	眠	\N	mián	torpor; drowsiness; middha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: middha, Pali: middha; see 睡眠 (FGDB '睡眠')	8004979
-8004980	疑	\N	yí	doubt; uncertainty; skepticism; vicikitsā; vicikicchā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yi2.mp3	Sanskrit equivalent: vicikitsā, Pali: vicikicchā, Japanese: gi, Tibetan: the tshom; one of the lower five fetters 五下分結 (BL 'vicikitsā'; FGDB '疑'; Mahāvyutpatti 'vicikitsā'; MW 'vicikitsā')	8004980
+8004980	疑	\N	yí	doubt; uncertainty; skepticism; vicikitsā; vicikicchā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yi2.mp3	Sanskrit equivalent: vicikitsā, Pali: vicikicchā, Japanese: gi, Tibetan: the tshom; one of the lower five fetters 五下分結 (BCSD '疑', p. 853; BL 'vicikitsā'; FGDB '疑'; Mahāvyutpatti 'vicikitsā'; MW 'vicikitsā')	8004980
 8004981	惭	慚	cán	hri; hrī; hiri; self-respect; conscientiousness; dignity	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	can2.mp3	Sanskrit equivalent: hrī, Pali: hiri, Japanese: zan, Tibetan: ngo tsha shes pa (BCSD '慚', p. 499; BL 'hrī'; FGDB '無慚'; Mahāvyutpatti 'hrīḥ'; MW 'hrīḥ'; SH '慚', p. 423)	8004981
 8004982	变像	變像	biànxiàng	a sutra illustration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 變相 (FGDB '變相')	8004982
 8004983	变谋	變謀	biàn móu	expedient means	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方便 (FGDB '方便')	8004983
@@ -11688,3 +11688,21 @@
 8011688	出世间智	出世間智	chū shìjiān zhì	transcending knowledge; spiritual wisdom; lokottarajñāna	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In constrast with 世智 'worldly knowledge', one of the 三智 'three kinds of wisdom' (Ding '出世間智'; FGDB '出世間智'; Sharf 2005, p. 331)	8011688
 8011689	面门	面門	miànmén	forehead	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '面門'; FGDB '面門'; SH '面門', p. 317)	8011689
 8011690	面门	面門	miànmén	mouth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '面門'; FGDB '面門'; SH '面門', p. 317)	8011690
+8011691	疆	\N	jiāng	boundary; sīmā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sīmā, Japanese: kyou (BCSD '疆', p. 853; MW 'sīmā'; Unihan '疆')	8011691
+8011692	面门	面門	miànmén	line across the upper lip	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '面門'; FGDB '面門'; SH '面門', p. 317)	8011692
+8011693	天尊	\N	tiān zūn	most honoured among devas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An epithet for a Buddha (Ding '天尊'; SH '天尊', p. 145)	8011693
+8011694	叠	疊	dié	cloth; paṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṭa, Japanese: jou, or: chou (BCSD '疊', p. 853; MW 'paṭa'; Unihan '疊')	8011694
+8011695	真身	\N	zhēn shēn	true body	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 法身 Dharmakāya (Ding '真身'; FGDB '真身'; SH '眞身', p. 333)	8011695
+8011696	济度	濟度	jì dù	to ferry across	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	To lead to liberation (Ding '濟度'; FGDB '濟度'; Guoyu '濟度'; Mathews 1931 '濟度', p. 60; SH '濟度', p. 459)	8011696
+8011697	疋	\N	pǐ	a bolt	measure word	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: so, or: sho, or: ga (BCSD '疊', p. 853; Unihan '疋')	8011697
+8011698	来迎	來迎	lái yíng	coming to greet	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, Buddhas and bodhisattvas coming to great believers to enter the Pure Land (Ding '來迎'; FGDB '來迎'; SH '來迎', p. 249)	8011698
+8011699	十度	\N	shí dù	ten pāramitās; ten perfections	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十波羅蜜 (FGDB '十波羅蜜')	8011699
+8011700	疏	\N	shū	commentary; vṛtti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛtti, Japanese: so, or: sho, Tibetan: 'grel ba (BCSD '疏', p. 853; Mahāvyutpatti 'vṛttiḥ'; MW 'vṛtti'; SH '疏', p. 383; Unihan '疏')	8011700
+8011701	疎	\N	shū	commentary; vṛtti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛtti; see 疏 (BCSD '疏', p. 853; Unihan '疎')	8011701
+8011702	十胜行	十勝行	shí shèngxíng	ten pāramitās; ten perfections	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十波羅蜜 (FGDB '十波羅蜜')	8011702
+8011703	十波罗蜜多	十波羅蜜多	shíbōluómìduō	ten pāramitās; ten perfections	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十波羅蜜 (FGDB '十波羅蜜')	8011703
+8011704	疔	\N	dīng	ulcer	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chou (BCSD '疔', p. 854; Unihan '疔')	8011704
+8011705	十到彼岸	\N	shí dàobǐàn	ten pāramitās; ten perfections	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十波羅蜜 (FGDB '十波羅蜜')	8011705
+8011706	经教	經教	jīng jiāo	teaching of the sūtras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '經教'; FGDB '經教'; SH '經教', p. 409)	8011706
+8011707	疥	\N	jiè	itch; kacchū	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kacchū, Japanese: kai, Tibetan: khyi rngo (BCSD '疥', p. 854; Mahāvyutpatti 'kacchuḥ'; MW 'kacchū'; SH '疥', p. 309; Unihan '疥')	8011707
+8011708	一谛	一諦	yīdì	one truth; suchness; inherent nature; true nature; bhūtatathatā; tathatā; tathata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一實諦 (FGDB '一實')	8011708
