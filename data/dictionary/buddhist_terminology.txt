@@ -85,7 +85,7 @@
 8000085	假	\N	jiǎ	provisional; conventional; temporary; designated	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñapti, or: saṃketa, Japanese: ke; for example, 假名 designation (BSD '假', p. 143; DJBT '假', p. 424; FGDB '假名'; JEBD 'ke', p. 184; MW 'saṃketa')	8000085
 8000086	达磨廓然	達磨廓然	dámó kuòrán	Bodhidharma says, “Empty. There is nothing holy.”	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 達磨廓然 (FGDB '達磨廓然')	8000086
 8000087	闪电光	閃電光	shǎndiàn guāng	a flash of lightening	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: a a metaphor on rapid change, from Koan 1 of 碧巖錄 “Blue Cliff Record” and other canonical sources (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 16; T 2003, Scroll 1; FGDB '閃電光')	8000087
-8000088	癡	\N	chī	confusion; stupidity; naivety; delusion; moha	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moha, Pali: moha, variant of 痴, Japanese: chi, Tibetan: gti mug; one of the 三毒 'three poisons' and 六大煩惱地法 'six root unwholesome mental factors' (BL 'moha', p. 546; FGDB '癡'; SH '癡', p. 471)	8000088
+8000088	癡	\N	chī	delusion; moha	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moha, Pali: moha, Japanese: chi, Tibetan: gti mug; variant of 痴, Japanese: chi, Tibetan: gti mug; one of the 三毒 'three poisons' and 六大煩惱地法 'six root unwholesome mental factors' (BCSD '癡', p. 858; BL 'moha', p. 546; FGDB '癡'; MW 'moha'; SH '癡', p. 471)	8000088
 8000089	施	\N	shī	the practice of selfless giving; dāna	noun	波罗蜜	Paramita	佛教	Buddhism	\N	\N	\N	shi1.mp3	Sanskrit equivalent: dāna, Pali: dāna, Japanese: se, Tibetan: sbyin pa; the first of the 六度 'six paramitas,' an abbreviation of 布施 (ABCE '施'; BCSD '施', p. 590; FGDB '布施'; JEBD 'se'; Unihan '施')	8000089
 8000090	佛刹	佛剎	fó shā	Buddhakṣetra; a Buddha field; a Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Buddhakṣetra, Japanese: bussetsu; a realm established by a Buddha, the best known of which is sukhāvatī 極樂世界 established by Amitābha 阿彌陀佛. See 佛土 (BL 'buddhakṣetra', p. 153; FGDB '佛剎' 1)	8000090
 8000091	相应	相應	xiāngyìng	concomitant	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	xiang1ying4.mp3	Sanskrit equivalent: saṃprayukta, or: yoga, Pali: yoga, Tibetan: rnal 'byor; literally meaning 'joined together' in Sanskrit; one of the 百法 one hundred dharmas of Yogācāra (BL 'saṃprayukta', p. 757; FGDB '相應'; Edgerton 1953 'yoga', p. 448; Lusthaus 2002, p. 544; Mahāvyutpatti 'yogaḥ'; SH '相應', p. 310)	8000091
@@ -11798,3 +11798,34 @@
 8011798	瘶	\N	sòu	leprousy; kilāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kilāsa (BCSD '瘶', p. 857; MW 'kilāsa')	8011798
 8011799	天冠	\N	tiān guān	deva crown	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also called 寶冠 (Ding '天冠'; FGDB '天冠')	8011799
 8011800	新译	新譯	xīn yì	new translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Following translation terminology standards introduced by 玄奘 Xuan Zang in the Tang, in contrast to 舊譯 'old translation' (Ding '新譯'; FGDB '新譯')	8011800
+8011801	癀	\N	huáng	bile; pitta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pitta, Japanese: kou, or: ou (BCSD '癀', p. 857; MW 'pitta'; Unihan '癀')	8011801
+8011802	旧译	舊譯	jiù yì	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A translated term prior to translation terminology standards introduced by 玄奘 Xuan Zang in the Tang, in contast to 新譯 'new translation' (Ding '舊譯'; FGDB '舊譯'; SH ' (FGDB '舊譯', p. 467)	8011802
+8011803	旧翻	舊翻	jiù fān	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 舊譯 (FGDB '舊譯')	8011803
+8011804	疗	療	liáo	heal; praśamana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśamana, Japanese: ryou (BCSD '療', p. 857; MW 'praśamana'; SH '療', p. 459; Unihan '療')	8011804
+8011805	古翻	\N	gǔ fān	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 舊譯 (FGDB '舊譯')	8011805
+8011806	大菩提心	\N	dà pútí xīn	great bodhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大菩提心'; SH '大菩提心', p. 94)	8011806
+8011807	痨	癆	láo	tuberculosis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: rou (BCSD '癆', p. 857; Unihan '癆')	8011807
+8011808	古译	古譯	gǔ yì	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 舊譯 (FGDB '舊譯')	8011808
+8011809	大阿罗汉	大阿羅漢	dà aluóhàn	great Arhat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大阿羅漢'; Karashima 2001, p. 94)	8011809
+8011810	癈	\N	fèi	obstacle; antarāya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: antarāya, Japanese: hai (BCSD '癈', p. 857; MW 'antarāya'; Unihan '癈')	8011810
+8011811	心观	心觀	xīnguān	contemplation on the mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A concept from the Tiantai school (Ding '心觀'; FGDB '心觀'; SH '心觀', p. 152)	8011811
+8011812	增上心	\N	zēng shàng xīn	unsurpassed mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '增上心'; FGDB '增上心'; SH '增上心', p. 431)	8011812
+8011813	癡	\N	chī	unintelligent; jaḍa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jaḍa, Tibetan: glan pa (BCSD '癡', p. 858; Mahāvyutpatti 'jaḍaḥ'; MW 'jaḍa')	8000088
+8011814	增上心	\N	zēng shàng xīn	meditative mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '增上心')	8011814
+8011815	增上心	\N	zēng shàng xīn	improving the mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 增上心學 (FGDB '增上心')	8011814
+8011816	疖	癤	jiē	a pimple; gaṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇḍa, Japanese: setsu, or: sechi, Tibetan: 'bras (BCSD '癤', p. 858; Mahāvyutpatti 'gaṇḍaḥ'; MW 'gaṇḍa'; Unihan '癤')	8011816
+8011817	牛王	\N	niú wáng	king of bulls	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛṣabha, Tibetan: khyu mchog; maybe used as a reference to the Buddha or a bodhisattva (Ding '牛王'; Mahāvyutpatti 'ṛṣabhaḥ'; FGDB '牛王'; SH '牛王', p. 163)	8011817
+8011818	破法	\N	pò fǎ	to go against the Dharma; to act contrary to the Buddha's teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, by adopting other teachings (Ding '破法'; FGDB '破法'; SH '破法', p. 334)	8011818
+8011819	癨	\N	huò	quickly; suddenly	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kaku (BCSD '癨', p. 858; Unihan '癨')	8011819
+8011820	戍陀罗	戍陀羅	shùtuóluó	sudra; shudra; slave class	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śūdra; see 首陀羅 (FGDB '四姓')	8011820
+8011821	戍达罗	戍達羅	shùdáluó	sudra; shudra; slave class	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śūdra; see 首陀羅 (FGDB '四姓')	8011821
+8011822	癞	癩	lài	leprosy; kuṣṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuṣṭha, Japanese: rai, Tibetan: mdze (BCSD '癩', p. 858; Mahāvyutpatti 'kuṣṭham'; MW 'kuṣṭha'; Unihan '癩')	8011822
+8011823	首陀	\N	shǒutuó	sudra; shudra; slave class	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śūdra; see 首陀羅 (FGDB '四姓')	8011823
+8011824	佛化	\N	fóhuà	conversion through the Buddha's teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛化')	8011824
+8011825	癣	癬	xuǎn	white leprosy; śvitra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śvitra, Japanese: sen, Tibetan: sha mtshan (BCSD '癬', p. 858; Mahāvyutpatti 'śvitram'; MW 'śvitra'; Unihan '癬')	8011825
+8011826	香象	\N	xiāng xiàng	Gandhahastī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The name of an elephant mentioned in Buddhist texts (Ding '香象'; FGDB '香象'; SH '香象', p. 319)	8011826
+8011827	法座	\N	fǎ zuò	Dharma seat	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法座'; FGDB '法座'; Karashima 2001 '法座')	8011827
+8011828	瘿	癭	yǐng	swelling	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ei, or: you (BCSD '癭', p. 858; Unihan '癭')	8011828
+8011829	法坐	\N	fǎ zuò	Dharma seat	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法座 (FGDB '法座')	8011829
+8011830	薄福	\N	báofú	little merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '薄福'; FGDB '薄福'; SH '薄福', p. 462)	8011830
+8011831	痈	癰	yōng	carbuncle; gaṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇḍa, Japanese: you (BCSD '癰', p. 858; MW 'gaṇḍa'; SH '癰', p. 487; Unihan '癰')	8011831
