@@ -407,7 +407,7 @@
 8000407	楞伽经	楞伽經	léngjiā jīng	Lankavatara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: laṅkāvatārasūtra, Japanese: Nyū Ryōgakyō, Tibetan: Lang kar gshegs pa'i mdo; (BL 'Laṅkāvatārasūtra', pp. 466-467; FGDB '楞伽經'; T 670)	8000407
 8000408	楞伽	楞伽	léngjiā	Lankavatara	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: laṅkāvatāra; see 楞伽經 (FGDB '楞伽經')	8000408
 8000409	菩提树	菩提樹	pútí shù	bodhi tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhidruma, Pali: bodhirukkha, Japanese: bodaiju, Tibetan: byang chub shing; the tree under which the Buddha achieved enlightenment; species: Ficus religiosa, also commonly known as the pippala tree (BL 'Bodhi tree', p. 138; FGDB '菩提樹'; Wikipedia '天竺菩提树')	8000409
-8000410	三恶道	三惡道	sān è dào	three lower realms; three evil destinites	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: try-apāya, or: naraka-tiryak-preta; the lower three of the 六道 six realms, that is 地 狱道 Hell Realm, 饿鬼道 Hungry Ghost Realm, and 畜生道 Animal Realm (BL, p. 1076; FGDB '六道'; SH '三惡', p. 65)	8000410
+8000410	三恶道	三惡道	sān è dào	three lower realms; three evil destinies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: try-apāya, or: naraka-tiryak-preta; the lower three of the 六道 six realms, that is 地 狱道 Hell Realm, 饿鬼道 Hungry Ghost Realm, and 畜生道 Animal Realm (BL, p. 1076; FGDB '六道'; SH '三惡', p. 65)	8000410
 8000411	六道	\N	liù dào	six realms; six realms of existence; six destinies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six plans of sentient existence: (1) Heavenly Realm 天道, (2) Human Realm 人道, (3) Asura Realm 阿修罗道 (4) Animal Realm 畜生道, (5) Hungry Realm 饿鬼道, (6) Hell Realm 地狱道 (BL, p. 1076; FGDB '六道'; SH '六道', p. 139; Sharf 2005, p. 205)	8000411
 8000412	地狱道	地獄道	dì yù dào	Hell; Hell Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	The lowest of the 六道 Six Realms (BL, p. 1076; FGDB '六道'; SH '地獄道', p. 208; Tzu Chuang 2012, p. 268)	8000412
 8000413	地狱趣	地獄趣	dìyùqù	Hell Realm; Hell Destiny	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地獄道 (SH '地獄道', p. 208)	8000413
@@ -12002,3 +12002,29 @@
 8012002	尸毘	\N	shīpí	Sibi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śibi; character mentioned in the 賢愚經 “Sutra on the Wise and Foolish” (Boucher 2008, p. 31; T 202, 4.0351c0)	8012002
 8012003	提婆拔提	\N	típóbátí	Dipavati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpavatī; name of a city mentioned in the 賢愚經 “Sutra on the Wise and Foolish” (Boucher 2008, p. 31; T 202, 4.0351c0)	8012003
 8012004	毘首羯摩	\N	píshǒujiémó	Visvakarman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viśvakarman; name of a god mentioned in the 賢愚經 “Sutra on the Wise and Foolish” (Boucher 2008, p. 31; T 202, 4.0351c0)	8012004
+8012005	燃灯节	燃燈節	rándēng jié	Tibetan Light Festival; Butter Lamp Festival	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 噶登阿曲 (Wikipedia '燃灯节')	8012005
+8012006	噶登阿曲	\N	gédēn gāqǔ	Ganden Ngacho Chenmo	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Festival in honor of 宗喀巴 Tsongkhapa (FGDB '噶登阿曲'; Jinpa 2019, pp. xiii-xvii; Wikipedia '燃灯节')	8012006
+8012007	矛	\N	máo	lance; tomara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tomara, Japanese: mu, or: bo (BCSD '矛', p. 884; Edgerton 1953 'tomara', p. 257; MW 'tomara'; SH '瞿', p. 465; Unihan '矛')	8012007
+8012008	利人	\N	lì rén	to benefit people	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arthacaryā, Tibetan: don spyod pa (Ding '利人'; Mahāvyutpatti 'arthacaryā'; MW 'arthacaryā'; SH '利人', p. 230)	8012008
+8012009	解脱味	解脫味	jiětuō wèi	the flavor of liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '解脫味'; FGDB '解脫味'; SH '解脫味', p. 413)	8012009
+8012010	矜	\N	jīn	to feel sympathy for; kāruṇya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāruṇya, Japanese: kin, or: kei, or: kan (BCSD '矜', p. 884; MW 'kāruṇya'; SH '矜', p. 310; Unihan '矜')	8012010
+8012011	肉食	\N	ròushí	meat eating	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māṃsabhakṣaṇa (Ding '肉食'; MW 'māṃsabhakṣaṇa'; SH '肉食', p. 218)	8012011
+8012012	利喜	\N	lì xǐ	to bring profit and joy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '利喜'; Karashima 2001 '利喜')	8012012
+8012013	矟	\N	shuò	a short javelin; bhindipāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhindipāla, Japanese: saku (BCSD '矟', p. 884; MW 'bhindipāla'; Unihan '矟')	8012013
+8012014	教体	教體	jiāotǐ	body of teachings; corpus	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '教體'; FGDB '教體'; SH '教體', p. 352)	8012014
+8012015	衲子	\N	nàzǐ	Saṅgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽 (Ding '衲子'; Guoyu '衲子'; SH '衲子', p. 339)	8012015
+8012016	写经	寫經	xiě jīng	to copy sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '寫經'; FGDB '寫經'; SH '寫經', p. 431)	8012016
+8012017	神境	\N	shén jìng	teleportation; supernormal powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神境智證通 (Ding '神境')	8012017
+8012018	败种	敗種	bàizhǒng	seeds of defeat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 敗根 (Ding '敗種')	8012018
+8012019	迷途	\N	mítú	confused with the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '迷途'; FGDB '迷途')	8012019
+8012020	顺世	順世	shùnshì	to die (of a monastic)	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 順化 (Ding '順世')	8012020
+8012021	宗风	宗風	zōngfēng	the customs and traditions of one of the schools of Chan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Specifically, the customs and traditions of one of the 禪宗五家 'five schools of Chan' (Ding '宗風'; FGDB '宗風'; Guoyu '宗風'; SH '宗風', p. 257)	8012021
+8012022	海螺	\N	hǎiluó	conch shell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śaṅkha, Pali: saṅkha, Tibetan: dung (FGDB '藏式吹奏樂器'; Edgerton 1953 'śaṅkha', p. 521; Mahāvyutpatti 'śaṅkhaḥ'; MW 'śaṅkha')	8012022
+8012023	空闲处	空閑處	kōngxiánchù	araṇya; secluded place	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿蘭若 (Ding '空閑處'; SH '空閑處')	8012023
+8012024	铜	銅	tóng	copper; tāmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tāmra, Japanese: dou, or: tou, Tibetan: zangs (Mahāvyutpatti 'tāmram'; MW 'tāmra'; SH '銅', p. 429; Unihan '銅')	8012024
+8012025	长号	長號	chánghào	a long horn	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Tibetan: dung chen, or: rag dung; a Tibetan musical instrument used in Buddhist rituals, one to five meters in length (Beer 1999, p. 229; FGDB '藏式吹奏樂器'; Lodoe 2019, p. 33)	8012025
+8012026	角	\N	jiǎo	horn; tusk; viṣāṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viṣāṇa, or: śṛṅga, Japanese: kaku, or: roku, or: koku, Tibetan: rwa (Mahāvyutpatti 'viṣāṇam'; MW 'viṣāṇa'; SH '角', p. 429; Unihan '角')	8012026
+8012027	角号	角號	jiǎohào	short horn	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Tibetan: rkang gling; a Tibetan musical instrument used in Buddhist rituals, in the shape of a goat's horn (Beer 1999, p. 229; FGDB '藏式吹奏樂器'; Lodoe 2019, p. 33)	8012027
+8012028	生佛一如	\N	shēng fó yī rú	sentient beings and the Buddha are one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '生佛一如'; FGDB '生佛一如'; SH '生佛一如', p. 196)	8012028
+8012029	禅教	禪教	chánjiāo	the teachings of the Chan sect	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '禪教'; FGDB '禪教' 1; SH '禪教', p. 460)	8012029
+8012030	念佛往生	\N	niàn fó wǎng shēng	reciting the name of the Buddha for a future life	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '念佛往生')	8012030
