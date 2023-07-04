@@ -214,7 +214,7 @@
 8000214	僧衹	\N	sēngzhǐ	asamkhyeya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '僧衹'; Guoyu '僧衹'; Wikipedia '僧衹')	8000214
 8000215	比丘尼	\N	bǐqiūní	bhiksuni; nun; bhikkhuni	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣuṇī, Pali: bhikkhunī, Japanese: bikuni, Tibetan: dge slong ma (BL 'bhikṣuṇī', pp. 115-116; Ding '比丘尼'; FGDB '比丘尼'; Matsuo 2007, p. 23; SH '比丘尼', p. 159; Tzu Chuang 2012, p. 19)	8000215
 8000216	南无	南無	nánmó	namo; to pay respect to; to take refuge	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: namo, or: namas, Pali: namo, Japanese: namu (FGDB '南無'; JEBD 'Namu'; SH '南無', p. 298; Tzu Chuang 2012, p. 205)	8000216
-8000217	合掌	\N	hézhǎng	to join palms	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: añjali, Pali: añjali (BCSD '合掌', p. 239; FGDB '合掌'; SH '合掌', p. 204)	8000217
+8000217	合掌	\N	hézhǎng	to join palms	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: añjali, Pali: añjali, Tibetan: thal mo sbyar ba (BCSD '合掌', p. 239; Mahāvyutpatti 'añjalikarma'; FGDB '合掌'; SH '合掌', p. 204)	8000217
 8000218	合爪	\N	hézhǎo	to join palms	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '合掌', p. 204)	8000218
 8000219	经藏	經藏	jīngzàng	Collection of Discourses; Buddhist scriptures; Sūtra Piṭaka ／ sūtrapiṭaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtrapiṭaka, Pali: suttapiṭaka, Japanese: kyōzō; Tibetan: mdo sde'i sde snod; the first part of the 三藏 Tripitaka, containing the discourses of the Buddha and immediate disciples (BL 'sūtrapiṭaka', pp. 875-876; FGDB '經藏'; SH '經藏', p. 409)	8000219
 8000220	回向	\N	huíxiàng	to transfer merit; to dedicate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pariṇāmanā; see 迴向 (FGDB '迴向'; SH '回向', p. 205)	8000220
@@ -1028,8 +1028,8 @@
 8001028	杜茶	\N	dùchá	elimination of defilements through ascetic practice; dhutanga	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhutaṅga; see 頭陀 (FGDB '頭陀')	8001028
 8001029	杜多	\N	dùduō	elimination of defilements through ascetic practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 頭陀 (Ding '杜多'; FGDB '杜多'; SH '杜多', p. 241)	8001029
 8001030	体空	體空	tǐkōng	the emptiness of substance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '體空', p. 488)	8001030
-8001031	衣钵	衣鉢	yībō	robe and bowl; the cassock and alms bowl of a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '衣鉢'; SH '衣鉢', p. 222)	8001031
-8001032	衣钵	衣缽	yībō	robe and bowl; the cassock and alms bowl of a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 衣鉢 (Ding '衣缽'; SH '衣鉢', p. 222)	8001032
+8001031	衣钵	衣鉢	yī bō	robe and bowl; the cassock and alms bowl of a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pātracīvara (BCSD '衣鉢', p. 1048; FGDB '衣鉢'; SH '衣鉢', p. 222)	8001031
+8001032	衣钵	衣缽	yī bō	robe and bowl; the cassock and alms bowl of a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pātracīvara; see 衣鉢 (Ding '衣缽'; SH '衣鉢', p. 222)	8001032
 8001033	达兜	達兜	dádōu	Devadatta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 提婆達多 (SH '提婆達多', p. 373)	8001033
 8001034	提婆达多	提婆達多	típódáduō	Devadatta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devadatta, Pali: devadatta; lived at the time of the Buddha and treated the Buddha as an enemy but the Buddha treated him with tolerance (BL 'devadatta'; Ding '提婆達多'; FGDB '提婆達多'; SH '提婆達多', p. 373)	8001034
 8001035	娑婆世界	\N	suōpó shìjiè	Saha World; the World of Suffering	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sahāloka, Japanese: shaba sekai, Tibetan: mi mjed kyi 'jig rten (BL 'sahāloka'; FGDB '娑婆'; SH '娑婆', p. 323)	8001035
@@ -1058,7 +1058,7 @@
 8001058	僧众	僧眾	sēngzhòng	the monastic community; the sangha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '僧眾'; FGDB '僧眾'; SH '僧眾')	8001058
 8001059	三衣	\N	sān yī	the three robes of monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '三衣')	8001059
 8001060	府君	\N	fǔjūn	senior monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term of address for a senior monastic by more junior monastics (Guoyu '府君' 3)	8001060
-8001061	瓦钵	瓦鉢	wǎbō	an alms bowl; a small pottery bowl; patra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patra (FGDB '瓦鉢'; SH '瓦鉢', p. 195)	8001061
+8001061	瓦钵	瓦鉢	wǎbō	an alms bowl; a small pottery bowl; patra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pātra (FGDB '瓦鉢'; SH '瓦鉢', p. 195)	8001061
 8001062	法器	\N	fǎqì	a Dharma instrument	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A musical instrument used in Buddhist ceremonies (CCD '法器'; FE '法器'; FGDB '法器'; SH '法器', p. 268)	8001062
 8001063	僧伽黎	\N	sēngjiālí	samghati; monastic outer robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghāṭī; see 僧伽梨 (SH '僧伽梨', p. 420)	8001063
 8001064	僧伽胝	\N	sēngjiāzhī	samghati; monastic outer robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghāṭī; see 僧伽梨 (SH '僧伽梨', p. 420)	8001064
@@ -3876,7 +3876,7 @@
 8003876	在阿兰若处	在阿蘭若處	zài ālánruò chù	living in the wilderness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003876
 8003877	续	續	xù	same; also	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kroll 2015 '續' 3, p. 517)	8003877
 8003878	常行乞食	\N	cháng xíng qǐshí	only eating what is given as alms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003878
-8003879	次第乞食	\N	cìdì qǐshí	collecting alms in order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāvadāna-paiṇḍa-pātika; Taking alms from one house to the next, one of the Twelve Ascetic Practices 十二头陀行 (BCSD '次第乞食', p. 672; FGDB '次第乞食'; Tzu Chuang 2012, pp. 15-18)	8003879
+8003879	次第乞食	\N	cìdì qǐshí	collecting alms in order	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāvadāna-paiṇḍa-pātika, or: paiṇḍapātika, Tibetan: bsod snyoms pa; taking alms from one house to the next, one of the Twelve Ascetic Practices 十二头陀行 (BCSD '次第乞食', p. 672; Edgerton 1953 'paiṇḍapātika', p. 354; FGDB '次第乞食'; Mahāvyutpatti 'paiṇḍapātikaḥ'; MW 'paiṇḍapātika'; Tzu Chuang 2012, pp. 15-18)	8003879
 8003880	受一食法	\N	shòu yī shí fǎ	receiving one meal per day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Twelve Ascetic Practices 十二头陀行 (Tzu Chuang 2012, pp. 15-18)	8003880
 8003881	金刚部	金剛部	jīngāng bù	vajra group; vajra division; vajrakula	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajrakula, Japanese: kongōbu, Tibetan: rdo rje rigs; one of the 金剛界五部 five divisions of vajradhatu (BL 'vajrakula', p. 955; Ding '金剛部'; FGDB '金剛部'; SH '金剛部', p. 283; Sharf 2005, p. 342)	8003881
 8003882	三昧耶萨埵	三昧耶薩埵	sānmèiyés àduǒ	samayasattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samayasattva, Japanese: sanmay asatta, Tibetan: dam tshig sems dpa'; a form of a deity related to visualization in tantric rituals (BL 'samayasattva', p. 748; FGDB '大悲空智金剛大教王儀軌經')	8003882
@@ -5085,7 +5085,7 @@
 8005085	十遍处	十遍處	shí biàn chù	Ten Kasinas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Ten basic visual objects of meditation (BL 'kasiṇa'; FGDB '十遍處')	8005085
 8005086	十一切入	\N	shí yīqiē rù	Ten Kasinas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十遍處 (FGDB '十遍處')	8005086
 8005087	十一切处	十一切處	shí yīqiē rù	Ten Kasinas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十遍處 (FGDB '十遍處')	8005087
-8005088	中	\N	zhōng	middle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhya, Tibetan: bar ma (BCSD '中', p. 71; Mahāvyutpatti 'madhyaḥ'; MW 'madhya'; SH '中', p. 110)	8005088
+8005088	中	\N	zhōng	middle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhya, Japanese: chū, Tibetan: bar ma (BCSD '中', p. 71; Mahāvyutpatti 'madhyaḥ'; MW 'madhya'; SH '中', p. 110; Unihan '中')	8005088
 8005089	十遍入	\N	shí biànrù	Ten Kasinas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十遍處 (FGDB '十遍處')	8005089
 8005090	十遍处定	十遍處定	shí biànchù dìng	Ten Kasinas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十遍處 (FGDB '十遍處')	8005090
 8005091	遍处	遍處	biànchù	kasina	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛtsna, Pali: kasiṇa; a class of ten basic visual objects of meditation (BL 'kasiṇa'; FGDB '十遍處')	8005091
@@ -5126,7 +5126,7 @@
 8005126	肃众	肅眾	sùzhòng	to reprimand	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As mentioned in the 百丈清規 “Baizhang Zen Monastic Regulations (Ichimura 2006, p. 75; T 2025, Scroll 2, 48.1121e03; FGDB '肅眾')	8005126
 8005127	乃至	\N	nǎizhì	as much as; yavat	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yāvat, Tibetan: ji srid (BCSD '乃至', p. 74; Mahāvyutpatti 'yāvat'; MW 'yāvat'; SW '乃至', p. 15)	8005127
 8005128	迴祭	\N	huíjì	compensation for an offering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also written 回祭; for example, in the 百丈清規 “Baizhang Zen Monastic Regulations” (FGDB '迴祭'; Ichimura 2006, p. 301; T 2025, Scroll 6, 48.1148a25)	8005128
-8005129	善男子	\N	shàn nánzi	a good man; a son of a noble family	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulaputra (SH '善男子', p. 369)	8005129
+8005129	善男子	\N	shàn nánzi	a good man; a son of a noble family	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kulaputra (MW 'kulaputra'; SH '善男子', p. 369)	8005129
 8005130	善女人	\N	shàn nǚrén	a good woman; a daughter of a noble family	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuladuhitā (Karashima 2001, p. 585)	8005130
 8005131	久	\N	jiǔ	extending; ayata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āyata (BCSD '久', p. 75; Mahāvyutpatti 'āyataḥ'; MW 'āyata')	8005131
 8005132	久	\N	jiǔ	lasting a long time; cira	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cira (BCSD '久', p. 75; MW 'cira')	8005131
@@ -7908,7 +7908,7 @@
 8007908	出世间	出世間	chūshìjiān	transcendental world; lokottara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokottara, Pali: lokuttara, Japanese: shusseken (BL 'chūshìjiān'; FGDB '出世間')	8007908
 8007909	沙弥戒	沙彌戒	shāmíjiè	the novice precepts; Sramanera Precepts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '沙彌戒'; FGDB '沙彌戒'; Hsing Yun 2010, p. 6; SH '沙彌戒')	8007909
 8007910	孩	\N	hái	child; kumāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kumāra, Japanese: kai, or: gai (BCSD '孩', p. 370; MW 'kumāra'; Unihan '孩')	8007910
-8007911	鉢	\N	bō	an alms bowl; patra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patra; variant of 钵 (Unihan '鉢')	8007911
+8007911	鉢	\N	bō	an alms bowl; patra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pātra; variant of 钵 (Unihan '鉢')	8007911
 8007912	善授	\N	shànshòu	sudatta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '善授', p. 264)	8007912
 8007913	海单	海單	hǎidān	multiple lodging	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hundred Lessons)	8007913
 8007914	破见	破見	pòjiàn	to break the precepts; to break away from righteous view; to deviate from righteous views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Hundred Lessons)	8007914
@@ -10801,7 +10801,7 @@
 8010801	汉地	漢地	hàn dì	territory of the Han dynasty; China	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A historic term for China (Zürcher and Silk 2013, p. 214)	8010801
 8010802	佛慧	\N	fó huì	Buddha's wisdom	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '佛慧'; FGDB '佛慧'; SH '佛慧', p. 227)	8010802
 8010803	半偈	\N	bànjì	half a verse	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '半偈'; FGDB '半偈')	8010803
-8010804	遊方	\N	yóu fāng	to travel for cultivation and to seek teachings	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Especially of a Buddhist monastic (FGDB '遊方僧'; Zürcher and Silk 2013, p. 314)	8010804
+8010804	遊方	\N	yóu fāng	to travel for cultivation and to seek teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially of a Buddhist monastic (FGDB '遊方僧'; Zürcher and Silk 2013, p. 314)	8010804
 8010805	后身	後身	hòushēn	last body; next body; last rebirth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '後身'; FGDB '後身'; Karashima 2001 '後身'; SH '後身', p. 301)	8010805
 8010806	浆	漿	jiāng	gruel; kāñjika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāñjika; Japanese: shou (BCSD '漿', p. 745; MW 'kāñjika'; Unihan '漿')	8010806
 8010807	增一阿鋡	\N	zēngyīāhán	Ekottara Agama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekottarāgama; an alternate form used in 出三藏記集 “Chu San Zang Ji Ji;” see 增一阿含經 (T 2145, 55.0005c18)	8010807
@@ -12059,3 +12059,42 @@
 8012059	行一	\N	xíng yī	equivalence of all forms of practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四一 'four ones' of the Tiantai School (Ding '行一')	8012059
 8012060	内院	內院	nèi yuàn	inner court	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Tusita Heaven (Ding '內院'; FGDB '內院'; SH '內院', p. 132)	8012060
 8012061	衲衣	\N	nà yī	monastic robes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '衲衣'; FGDB '衲衣'; SH '衲衣', p. 339)	8012061
+8012062	研	\N	yán	to grind; pīṣayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṣayati, or: pīṣati, or: piṣ, Pali: piṃsati, Japanese: ken; forms derived from the Sanskrit root piṣ (BCSD '研', p. 890; Edgerton 'pīṣati', p. 346; MW 'piṣ'; Unihan '研')	8012062
+8012063	不休息菩萨	不休息菩薩	bùxiūxī púsà	Anikṣiptadhura bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '不休息菩薩'; Karashima 2001, pp. 68-69; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8012063
+8012064	宝掌菩萨	寶掌菩薩	bǎozhǎng púsà	Ratnapāni bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Same as 寶手菩薩; mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8012064
+8012065	砗	硨	chē	giant clam	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sha (BCSD '硨', p. 890; Unihan '硨')	8012065
+8012066	世论	世論	shì lùn	worldly discussions; hedonistic teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '世論'; FGDB '世論'; SH '世論', p. 165)	8012066
+8012067	行解	\N	xíngjiě	control of the mind and mental factors	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 心王 'controlling of the mind' and 心所 'mental factor' (Ding '行解'; FGDB '行解' 1)	8012067
+8012068	硬	\N	yìng	hard; khara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: khara, Japanese: kou, or: gou, Tibetan: mkhrang ba (BCSD '硬', p. 891; Mahāvyutpatti 'kharaḥ'; MW 'khara'; SH '硬', p. 384; Unihan '硬')	8012068
+8012069	唐捐	\N	táng juān	in vain	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '唐捐'; Karashima 2001 '唐捐')	8012069
+8012070	一解脱	一解脫	yī jiětuō	one liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一解脫'; FGDB '一解脫')	8012070
+8012071	硼	\N	péng	boron	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hou (BCSD '硼', p. 891; Unihan '硼')	8012071
+8012072	归戒	歸戒	guījiè	to take refuge in the Triple Gem	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三歸依 (Ding '歸戒')	8012072
+8012073	教益	\N	jiāoyì	the benefits of instruction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '教益'; Guoyu '教益')	8012073
+8012074	碎	\N	suì	crush; pramṛd	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramṛd, Japanese: sai (BCSD '碎', p. 891; MW 'pramṛd'; SH '碎', p. 408; Unihan '碎')	8012074
+8012075	行解	\N	xíngjiě	practice and understanding	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 修行 practice and 知解 'understanding' (FGDB '行解' 2)	8012075
+8012076	平等法	\N	píngděng fǎ	the truth that all can become a Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '平等法'; SH '平等法')	8012076
+8012077	与	與	yǔ	and; ca	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Japanese: yo (BCSD '與', p. 996; Edgerton 1953 'ca', p. 220; Mahāvyutpatti 'ca'; MW 'ca'; SH '與', p. 428; Unihan '與')	8012077
+8012078	部派	\N	bùpài	schools; branches	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, the early Buddhist schools (FGDB '部派佛教'; Wikipedia '部派佛教')	8012078
+8012079	寺僧	\N	sìsēng	Saṅgha; Saṃgha; Sangha; Buddhist monastic community	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See  (FGDB '僧伽')	8012079
+8012080	食时	食時	shí shí	mealtime	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paribhujyamāna (BCSD '食時', p. 1275; MW 'paribhuj'; SH '食時', p. 318)	8012080
+8012081	食时	食時	shí shí	forenoon; pūrvāhṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvāhṇa (BCSD '食時', p. 1275; Karashima 2010, p. 453; MW 'pūrvāhṇa')	8012080
+8012082	慈悲喜舍	慈悲喜捨	cí bēi xǐ shě	loving kindness, compassion, joy, and equanimity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four the four brahmavihāras; see 四梵住 (FGDB '四梵住')	8012082
+8012083	寺塔处	寺塔處	sìtǎchù	suitable place for a temple	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '寺塔處'; FGDB '寺塔處')	8012083
+8012084	着衣	著衣	zhuóyī	put on clothes	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nivāsayati, Pali: nivāseti (BCSD '著衣', p. 1021; Edgerton 1953 '著衣', p. 306; SH '著衣', p. 387)	8012084
+8012085	入世佛教	\N	rùshì fójiāo	Engaged Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 左翼佛教 (Wikipedia '左翼佛教')	8012085
+8012086	左翼佛教	\N	zuǒyì fójiāo	Engaged Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '左翼佛教')	8012086
+8012087	还	還	hái	to return; pratyāgam	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyāgam (BCSD '還', p. 1168; MW 'pratyāgam'; SH '還', p. 463)	8012087
+8012088	还	還	hái	again; further; punar	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: punar (BCSD '還', p. 1168; MW 'punar'; SH '還', p. 463)	8012087
+8012089	至	\N	zhì	approach; upagama	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upagama, Japanese: shi, Tibetan: rmos yal (BCSD '至', p. 1168; Mahāvyutpatti 'upagamaḥ'; MW 'upagama'; SH '至', p. 219; Unihan '至')	8012089
+8012090	饭食	飯食	fànshí	food; āmiṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmiṣa, Pali: āmisa (BCSD '飯食', p. 1276; Edgerton 1953 'āmiṣa', p. 100; MW 'āmiṣa')	8012090
+8012091	而	\N	ér	and; ca	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Japanese: ji, or: ni (BCSD '而', p. 953; Karashima 2010, p. 161; MW 'ca'; Unihan '而')	8012091
+8012092	大众	大眾	dàzhòng	assembly; saṃgha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, or: sabhā, or: mahāsaṅgha, Pali: mahāsaṅgha, Tibetan: 'dus ba (BCSD '大眾', p. 328; FGDB '大眾'; MW 'sabhā'; SH '大眾', p. 95)	8012092
+8012093	恭敬	\N	gōngjìng	honor; satkāra	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: satkāra, or: arcana, Pali: sakkāra, Tibetan: bkur stir byed pa (FGDB '恭敬'; Mahāvyutpatti 'arcanā'; MW 'arcana'; SH '恭敬', p. 325)	8012093
+8012094	碓	\N	duì	a pestle; musala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: musala, Japanese: tai, Tibetan: gtun (BCSD '碓', p. 891; Mahāvyutpatti 'musalaḥ'; MW 'musala'; Unihan '碓')	8012094
+8012095	歌偈	\N	gē jì	to sing verses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '歌偈'; SH '歌偈', p. 424)	8012095
+8012096	法布施	\N	fǎ bùshī	the gift of teaching the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法施 (Ding '法布施')	8012096
+8012097	碗	\N	wǎn	a drinking vessel; saraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saraka, Japanese: wan, Tibetan: gtun (BCSD '碗', p. 891; Mahāvyutpatti 'sarakam'; MW 'saraka'; Unihan '碗')	8012097
+8012098	要门	要門	yào mén	essential way; sacred tradition	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmnāyaḥ, Tibetan: man ngag (Ding '要門'; FGDB '要門'; Mahāvyutpatti 'āmnāyaḥ'; MW 'āmnāya'; SH '要門', p. 314)	8012098
+8012099	海会	海會	hǎi huì	assembly of monastics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '海會' 1)	8012099
+8012100	碧	\N	bì	sky blue; ākāśavarṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākāśavarṇa, Japanese:  (BCSD '碧', p. 891; SH '碧', p. 426; Unihan '碧')	8012100
