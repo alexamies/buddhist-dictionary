@@ -1,7 +1,7 @@
 # Configuration file for web application
 
 # Extract terms from notes field into reverse index
-NotesExtractorPattern: "Sanskrit equivalent: (.*?)[\(,\,,\;]","Pali: (.*?)[\(,\,,\;]"
+NotesExtractorPattern: "Sanskrit equivalent: (.*?)[\(,\,,\;]","Pali: (.*?)[\(,\,,\;]","or: (.*?)[\(,\,,\;]"
 
 # gets whether to add a directory prefix to collection names in full text search
 AddDirectoryToCol: True
