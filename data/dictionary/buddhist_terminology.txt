@@ -4118,7 +4118,7 @@
 8004118	遍净天	遍淨天	biàn jìng tiān	Subhakrtsna Heaven; The Heaven of Pervasive Purity	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	From the Sanskrit names kṛtsna (pervasive) and śubha (pure). One of the heavens of the third dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004118
 8004119	福生天	\N	fú shēng tiān	Punyaprasava Heaven; The Heaven Produced by Virtue	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	From the Sanskrit names puṇya (merit) and prasava (birth). One of the heavens of the forth dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004119
 8004120	福爱天	福愛天	fú ài tiān	Anabhraka Heaven; The Heaven of Lovers of Virtue	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	One of the heavens of the forth dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004120
-8004121	福	\N	fú	merit; blessing; punya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	fu2.mp3	Sanskrit equivalent: puṇya, Pali: puñña; synonymous with 功德 and 福德; puṇya is accumulated for wholesome conduct (BCSD '福', p. 896; BL 'puṇya'; FGDB '福'; Kroll 2015 '福' 1a; MW 'puNya')	8004121
+8004121	福	\N	fú	merit; blessing; punya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇya, Pali: puñña, Japanese: fuku; synonymous with 功德 and 福德; puṇya is accumulated for wholesome conduct (BCSD '福', p. 896; BL 'puṇya'; FGDB '福'; Kroll 2015 '福' 1a; MW 'puṇya'; Unihan '福')	8004121
 8004122	广果天	廣果天	guǎng guǒ tiān	Brhatphala Heaven; The Heaven of Bountiful Fruits	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	From the Sanskrit names bṛhat (vast) and phala (abundant); one of the heavens of the forth dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004122
 8004123	无想天	無想天	wú xiǎng tiān	Asamjnisattvah Heaven; The Heaven without Thought	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	One of the heavens of the forth dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004123
 8004124	无烦天	無煩天	wú fán tiān	Avrha Heaven; The Heaven without Affliction	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	One of the heavens of the forth dhyana of the 色界十八天 'Eighteen Heavens of the Form Realm' and one of the 五淨居天 'five pure abodes' (Ding '無煩天'; FGDB '五淨居天'; Tzu Chuang 2012, pp. 112-116)	8004124
@@ -12193,3 +12193,16 @@
 8012193	落发	落髮	luò fà	to shave the head	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	To become a monastic (Ding '落髮'; SH '落髮', P. 411)	8012193
 8012194	祸	禍	huò	misfortune; ādinava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādinava, Japanese: ka (BCSD '禍', p. 896; MW 'ādinava'; SH '禍', p. 426; Unihan '禍')	8012194
 8012195	船筏	\N	chuánfá	a raft	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to Buddhism as a reference for crossing to the other shore (Ding '船筏'; SH '船筏', p. 363)	8012195
+8012196	死海	\N	sǐ hǎi	the endless sea of Saṃsāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '死海'; FGDB '死海'; SH '死海', p. 216)	8012196
+8012197	福	\N	fú	fortune; blessing; svasti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svasti, Tibetan: bde legs sam dge ba (BCSD '福', p. 896; Mahāvyutpatti 'svasti'; MW 'svasti')	8004121
+8012198	二十部	\N	èrshí bù	the twenty sects of Hīnayāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The eighteen sects and the two assemblies of elders (Ding '二十部'; FGDB '二十部'; SH '二十部', p. 23)	8012198
+8012199	山家	\N	shān jiā	mountain school	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of 四明 Siming of the Tiantai sect (Ding '山家'; FGDB '山家'; SH '山家', p. 102)	8012199
+8012200	礼	禮	lǐ	reverential salutation; namas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: namas, Japanese: rei, or: rai (BCSD '禮', p. 898; MW 'namas'; SH '禮', p. 466; Unihan '禮')	8012200
+8012201	敬田	\N	jìng tián	field of reverence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Reverence towards three of the 八福田 'eight fields of merit': 佛田 Buddha field, 聖人田 field of sages and, 僧田 field of monastics (Ding '敬田'; FGDB '敬田'; SH '敬田', p. 402)	8012201
+8012202	幖帜	幖幟	biāozhì	a symbol	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '幖', p. 423)	8012202
+8012203	祢	禰	nǐ	deḥ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: deḥ, Japanese: dei, or: nai, or: ne (BCSD '禰', p. 899; Unihan '禰')	8012203
+8012204	偈语	偈語	jì yǔ	the words of a chant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '偈語')	8012204
+8012205	历劫	歷劫	lì jié	to pass through a kalpa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '歷劫'; FGDB '歷劫'; SH '歷劫', p. 448)	8012205
+8012206	祷	禱	dǎo	pray	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou (BCSD '禱', p. 899; Unihan '禱')	8012206
+8012207	标帜	標幟	biāozhì	a symbol	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, secret symbols used in Esoteric Buddhism (Ding '標幟'; FGDB '標幟'; SH '標幟', p. 438)	8012207
+8012208	生变	生變	shēng biàn	to change; to transform	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Able to change based on one's own volition, in contrast to 緣變 'predestined change' (Ding '生變'; FGDB '生變')	8012208
