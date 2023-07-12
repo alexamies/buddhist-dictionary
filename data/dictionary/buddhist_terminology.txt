@@ -2745,7 +2745,7 @@
 8002745	慧	\N	huì	intellect; mati	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mati (BCSD '慧', p. 499; MW 'mati')	8002744
 8002746	芬陀利	\N	fēntuólì	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002746
 8002747	奔荼利迦化	\N	bēntúlìjiāhuà	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002747
-8002748	眼	\N	yǎn	eye; cakṣu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: locana, or: cakṣu, Japanese: gen; for example, 遍知眼 Buddhalocanā 'omnicient eye' (BCSD '眼', p. 879; DJBT '眼', p. 436; MW 'locana'; Giebel 2005, p. 32; SH '眼', p. 361; T 848, Scroll 1, 18.0006b09)	8002748
+8002748	眼	\N	yǎn	eye; cakṣus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakṣus, or: cakṣu, or: locana, Pali: cakkhu, Japanese: gen; for example, 遍知眼 Buddhalocanā 'omnicient eye' (BCSD '眼', p. 879; Dhammajoti 2013, p. 29; DJBT '眼', p. 436; Edgerton 'cakṣus', p. 221; MW 'locana'; Giebel 2005, p. 32; SH '眼', p. 361; T 848, Scroll 1, 18.0006b09)	8002748
 8002749	遍知眼	\N	biàn zhī yǎn	Buddhalocanā; omnicient eye	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002749
 8002750	分荼利花	\N	fēntúlì huā	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002750
 8002751	分荼利	\N	fēntúlì	pundarika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇḍarīka; see 蓮華 white lotus flower (FGDB '芬陀利華')	8002751
@@ -12211,3 +12211,9 @@
 8012211	知世间	知世間	zhī shìjiān	one who knows the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokavid; one of the 如來十號 'ten epithets of the Buddha'; see 世間解 (Ding '知世間'; SH '知世間', p. 275)	8012211
 8012212	禽	\N	qín	bird; pakṣin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pakṣin, Japanese: kin, Tibetan: bya (BCSD '禽', p. 899; Mahāvyutpatti 'pakṣī'; MW 'pakṣin'; Unihan '禽')	8012212
 8012213	解惑	\N	jiě huò	understanding and confusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '解惑')	8012213
+8012214	十一位	\N	shíyī wèi	eleven stages	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	十地 'ten grounds' and 妙覺位 'positon of enlightenment' (Ding '十一位')	8012214
+8012215	禿	\N	tū	shaved; muṇḍaka	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: muṇḍaka, Japanese: toku (BCSD '禿', p. 899; MW 'muṇḍaka'; Unihan '禿')	8012215
+8012216	去行	\N	qù xíng	pure practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '去行'; FGDB '去行')	8012216
+8012217	寺印	\N	sì yìn	monastery seal	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '寺印'; FGDB '寺印')	8012217
+8012218	秉	\N	bǐng	grasping; graha	verb	\N	\N	Sanskrit equivalent: graha, Japanese: hei (BCSD '秉', p. 900; MW 'graha'; Unihan '秉')	8012218
+8012219	二序	\N	èr xù	two kinds of introduction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The two kinds of introduction to a sutra: (1) 如是我聞 'Thus have I heard' and (2) an introduction describing the specific circumstances of a sutra (Ding '二序'; FGDB '二種序'; SH '二序', p. 24)	8012218
