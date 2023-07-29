@@ -423,7 +423,7 @@
 8000423	修罗道	修羅道	xiūluó dào	Asura Realm	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Of the 六道 Six Realms (SH '修羅道', p. 321; Tzu Chuang 2012, p. 267)	8000423
 8000424	修罗	修羅	xiūluó	Asura	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 阿修羅 (FGDB '阿修羅')	8000424
 8000425	人道	\N	Rén dào	Human Realm; Saha World	proper noun	道	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mānuṣa; of the 六道 Six Realms  Superior to the other worlds in three ways: (1) Superior bravery 勇猛胜 (2) superior recollection 忆念 (3) superior pure practices 梵行胜 (FCSD '人道'; FGDB '六道'; MW 'mānuṣa'; SH '人趣', p. 33)	8000425
-8000426	舍利	\N	shèlì	ashes or relics after cremation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra (Ding '舍利'; FGDB '舍利'; SH '舍利', p. 278)	8000426
+8000426	舍利	\N	shèlì	ashes or relics after cremation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra, Pali: sarīra (Ding '舍利'; FGDB '舍利'; SH '舍利', p. 278)	8000426
 8000427	大意	\N	dàyì	Dayi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a person who as a former incarnation of the Buddha (FGDB '大意'; SH '大意', p. 89)	8000427
 8000428	劫波	\N	jiébō	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8000428
 8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to Indian tradition (BCSD '劫', p. 202; BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; Kroll 2015 '劫' 3, p. 208; MW 'kalpa'; SH '劫', p. 232)	8000429
@@ -966,7 +966,7 @@
 8000966	天眼通	\N	tiānyǎn tōng	Heavenly Vision; divine sight	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (FGDB '天眼通'; SH '天眼通', p. 146; Tzu Chuang 2012)	8000966
 8000967	通	\N	tōng	a spiritual power; supernatural powers; a remarkable ability; a magical power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神通 (SH '通', p. 365)	8000967
 8000968	轻安	輕安	qīng ān	calmness; tranquillity; repose; serenity; prasrabhi; passaddhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśrabdhi, Pali: passaddhi, Tibetan: shin tu spyangs pa (FGDB '輕安'; Mahāvyutpatti 'prasrabdhiḥ'; MW 'praśrabdhi'; SH '輕安', p. 429)	8000968
-8000969	摄受	攝受	shèshòu	parigraha; to protect; to uphold; received and taken care of	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parigraha, Tibetan: byin len, or: sbyin len; for example, from the 華嚴經 ”Avataṃsaka Sūtra”, Scroll 2, 以四攝事而曾攝受 'had received them and taken care of them with the four saving practices of generosity' (BCSD '攝受'; Cleary 1993, p. 64; FGDB '四種攝受';Mahāvyutpatti 'pratigrahaḥ'; MW 'parigraha'; T 279 0005b24).	8000969
+8000969	摄受	攝受	shèshòu	to protect; to uphold; received and taken care of; kindness	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parigraha, or: anugraha, Tibetan: byin len, or: sbyin len; for example, from the 華嚴經 ”Avataṃsaka Sūtra”, Scroll 2, 以四攝事而曾攝受 'had received them and taken care of them with the four saving practices of generosity' (BCSD '攝受'; Dhammajoti 2013, p. 57; Cleary 1993, p. 64; FGDB '四種攝受';Mahāvyutpatti 'pratigrahaḥ'; MW 'parigraha'; T 279 0005b24).	8000969
 8000970	天神	\N	tiānshén	a god; a deity; devatā	noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devatā, Pali: devatā, Japanese: tenjin, Tibetan: lha; (BL 'devatā'; SH '天神', p. 146)	8000970
 8000971	普渡	\N	pǔdù	to release all from suffering	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '普渡', p. 90)	8000971
 8000972	普度	\N	pǔdù	to release all from suffering	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '普度')	8000972
@@ -1206,7 +1206,7 @@
 8001206	狱	獄	yù	hell; naraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naraka, Pali: niraya, Japanese: goku, or: kyoku; see 地獄 (BCSD '獄', p. 816; MW 'naraka'; SH '獄', p. 425; Unihan '獄')	8001206
 8001207	瑜只	瑜祇	yúzhǐ	yogi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in Buddhist writings for 瑜伽士 (Ding '瑜祇')	8001207
 8001208	瑜岐	\N	yúqí	yogi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in Buddhist writings for 瑜伽士 (Ding '瑜祇')	8001208
-8001209	舍卫	舍衛	shèwèi	Sravasti; Savatthi	proper noun	古城	Ancient City	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Śrāvastī; see 舍衛國 (FGDB '舍衛國')	8001209
+8001209	舍卫	舍衛	shèwèi	Sravasti; Savatthi	proper noun	古城	Ancient City	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śrāvastī; see 舍衛國 (FGDB '舍衛國')	8001209
 8001210	拘赏波俱提精舍	拘賞波俱提精舍	Jūshǎngbōjūtí Jīngshè	Kosamba Kuti	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	Located in Sravasti, India (FGS Encyclopedia of Buddhist Arts)	8001210
 8001211	犍陀俱提精舍	\N	jiāntuójūtí Jīngshè	Gandha Kuti	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	Located in Sravasti, India (FGS Encyclopedia of Buddhist Arts)	8001211
 8001212	帕耆俱提	\N	pàqí jūtí	Pakki Kuti	proper noun	精舍	Vihara	佛教	Buddhism	古印度	Ancient India	\N	\N	Located in Sravasti, India (FGS Encyclopedia of Buddhist Arts)	8001212
@@ -1424,11 +1424,11 @@
 8001424	星宿劫	\N	xīngxiù jié	Naksatra kalpa; the future kalpa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nakṣatrakalpa; refers to the future kalpa (FGDB '星宿劫'; SH '星宿劫', p. 303)	8001424
 8001425	梵志	\N	fànzhì	Brahmin; Brahman; brahmacārin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 婆羅門 (SH '梵志', p. 354)	8001425
 8001426	鸟瑟尼沙	鳥瑟尼沙	niǎosèníshā	usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 肉髻 (SH '肉髻', p. 218)	8001426
-8001427	鹫峰	鷲峰	Jiù Fēng	Gṛdhrakūtaparvata; Grdhrakuta; Gṛdhrakūṭa; Gijjha-kūta; Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '耆闍崛山')	8001427
-8001428	灵鹫山	靈鷲山	Língjiù shān	Gṛdhrakūtaparvata; Grdhrakuta; Gṛdhrakūṭa; Gijjha-kūta; Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit gṛdhrakūṭa, or: gṛdhrakūtaparvata, Pali Gijjhakūṭa, or: gijjhakūṭapabbata, Japanese: Ryōjusen, Tibetan: bya rgod phung po'i ri; literally gṛdhra 'vulture' + kūṭa 'peak'. A mountain range in Central India northeast of Rajgir, the capital of Magadha, mentioned in many Buddhist texts (BL, 'Gṛdhrakūtaparvata', p. 327; FGDB '靈鷲山'; FGDB '耆闍崛山'; MW 'gṛdhrakūṭa').	8001428
-8001429	耆阇崛山	耆闍崛山	qíshéjué shān	Gṛdhrakūtaparvata; Grdhrakuta; Gṛdhrakūṭa; Gijjha-kūta; Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001429
-8001430	祇阇崛山	祇闍崛山	zhǐshéjué shān	Grdhrakuta Mountains; Grdhrakūta; Gijjha-kūta	proper noun	\N	\N	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001430
-8001431	耆阇多山	耆闍多山	Qíshéduō shān	Grdhrakuta Mountains; Grdhrakūta; Gijjha-kūta	proper noun	\N	\N	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001431
+8001427	鹫峰	鷲峰	Jiù Fēng	Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūta, or: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '耆闍崛山')	8001427
+8001428	灵鹫山	靈鷲山	língjiù shān	Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit gṛdhrakūṭa, or: gṛdhrakūtaparvata, Pali: gijjhakūṭa, or: gijjhakūṭapabbata, Japanese: Ryōjusen, Tibetan: bya rgod phung po'i ri; literally gṛdhra 'vulture' + kūṭa 'peak'. A mountain range in Central India northeast of Rajgir, the capital of Magadha, mentioned in many Buddhist texts (BL, 'Gṛdhrakūtaparvata', p. 327; FGDB '靈鷲山'; FGDB '耆闍崛山'; MW 'gṛdhrakūṭa').	8001428
+8001429	耆阇崛山	耆闍崛山	qíshéjué shān	Vulture Peak	proper noun	地名	Place Name	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001429
+8001430	祇阇崛山	祇闍崛山	zhǐshéjué shān	Grdhrakūta; Vulture Peak	proper noun	\N	\N	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001430
+8001431	耆阇多山	耆闍多山	qíshéduō shān	Grdhrakūta; Vulture Peak	proper noun	\N	\N	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001431
 8001432	崛山	\N	Jué shān	Grdhrakuta Mountains; Grdhrakūta; Gijjha-kūta	proper noun	\N	\N	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: gṛdhrakūtaparvata; see 靈鷲山 (FGDB '靈鷲山')	8001432
 8001433	瑞像	\N	ruìxiàng	an auspicious image	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, the satisfied image of a Buddha or bodhisattva (FGDB '瑞像'; SH '瑞像', p. 407)	8001433
 8001434	鸟瑟	鳥瑟	niǎosè	usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 肉髻 (SH '肉髻', p. 218)	8001434
@@ -3050,7 +3050,7 @@
 8003050	悲念具慧者	\N	bēi niàn jù huì zhě	Karunamrdita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karuṇāmṛḍita; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003050
 8003051	悲念	\N	bēi niàn	compassion; karuna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karuṇā (BCSD '悲念', p. 484; MW 'karuṇā')	8003051
 8003052	慈起大众生	慈起大眾生	cí qǐ dàzhòng shēng	Mahamaitryabhyudgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Mahāmaitryabhyudgata; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003052
-8003053	悲	\N	bēi	compassion; empathy; karuna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bei1.mp3	Sanskrit equivalent: karuṇā, Pali: karuṇā, Japanese: hi, Tibetan: snying rje; one of the 四無量心 'four immeasurables' (ABC 'bēi' bf; BCSD '悲', p. 483; BL 'karuṇā'; Ci Yuan '悲' 3; FGDB '悲'; Kroll 2015 '悲' 4, p. 12; Mahāvyutpatti 'karuṇā'; MW 'karuṇā'; SH '悲', p. 371)	8003053
+8003053	悲	\N	bēi	compassion; empathy; karuna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	bei1.mp3	Sanskrit equivalent: karuṇā, or: kāruṇya, Pali: karuṇā, Japanese: hi, Tibetan: snying rje; one of the 四無量心 'four immeasurables' (ABC 'bēi' bf; BCSD '悲', p. 483; BL 'karuṇā'; Ci Yuan '悲' 3; FGDB '悲'; Kroll 2015 '悲' 4, p. 12; Mahāvyutpatti 'karuṇā'; MW 'karuṇā'; SH '悲', p. 371)	8003053
 8003054	慈	\N	cí	loving-kindness; maitri	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maitrī, Pali: mettā, Japanese: ji, Tibetan: byams pa (BCSD '慈', p. 497; BL 'maitrī'; Kroll 2015 '慈' 1, p. 64; Mahāvyutpatti 'maitrī'; MW 'maitrī'; SH '慈', p. 399; Tzu Chuang 2012)	8003054
 8003055	除一切热恼	除一切熱惱	chú yīqiè rènǎo	Sarvadahaprasamin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvadāhapraśāmin; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra;” see 除一切熱惱菩薩 (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003055
 8003056	不可思议慧	不可思議慧	bù kě sīyì huì	Acintyamati	proper noun	\N	\N	成语	Idiom	\N	\N	\N	\N	Sanskrit equivalent: acintyamati; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 35; T 848, Scroll 1, 18.0006b09)	8003056
@@ -4811,7 +4811,7 @@
 8004811	无间狱	無間獄	wú jiān yù	Avici Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿鼻地獄 (FGDB '無間地獄')	8004811
 8004812	业感	業感	yè gǎn	karma and the result of karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '業感'; FGDB '業感'; SH '業感')	8004812
 8004813	尘劫	塵劫	chén jié	kalpas as numerous as grains of dust	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '塵劫', p. 422)	8004813
-8004814	付嘱	付囑	chóuyōu	to entrust to	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parītta, or: parīndita (BCSD '付囑', p. 96; Dhammajoti 2013, p. 391; Edgerton 'parītta', p. 333; FGDB '付囑'; MW 'parītta'; SH '付囑', p. 165)	8004814
+8004814	付嘱	付囑	chóuyōu	to entrust; to empower	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parītta, or: parīndita (BCSD '付囑', p. 96; Dhammajoti 2013, p. 391; Edgerton 'parītta', p. 333; FGDB '付囑'; MW 'parītta'; SH '付囑', p. 165)	8004814
 8004815	定自在王	\N	dìng zìzai wáng	Samadhisvararaja; Samadhi Self-Mastery King	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Kṣitigarbha Sūtra (t 412, Scroll 1)	8004815
 8004816	五道	\N	wǔ dào	Five Realms	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Hell 地狱道, 2. Hungry Ghost Realm 饿鬼道, 3. Animal Realm 畜生道, 4 Human Realm 人道, 5. Heavenly Realm 天道; similar to the Six Realms but does not include an Asura Realm (FGDB '五道六道'; SH '五道', p. 128)	8004816
 8004817	北方多闻天王	北方多聞天王	běi fāng duōwén tiānwáng	Vaisravana Deva King of the North	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 多聞天 (FGDB '多聞天')	8004817
@@ -5283,7 +5283,7 @@
 8005283	佛星	\N	fóxīng	Pusya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṣya; see 沸星 (T 6, Scroll 2)	8005283
 8005284	道者	\N	dàozhě	a devotee; a practioner; a follower; a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道者'; SH '道者', p. 416)	8005284
 8005285	下生	\N	xià shēng	for a bodhisattva for descend to the human world	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '彌勒信仰')	8005285
-8005286	事	\N	shì	meaning; phenomena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: artha, or: vastu, Pali: attha, Japanese: gi; an object in the phenomenal world (BCSD '事', p. 81; BL '事', p. 63; FGDB '事'; Kroll 2015 '事' 5, p. 415; MW 'artha'; Sharf 2017, p. 159)	8005286
+8005286	事	\N	shì	thing; phenomena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: artha, or: vastu, Pali: attha, Japanese: gi; an object in the phenomenal world (BCSD '事', p. 81; BL '事', p. 63; FGDB '事'; Kroll 2015 '事' 5, p. 415; MW 'artha'; Sharf 2017, p. 159)	8005286
 8005287	事	\N	shì	actions; karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma, Tibetan: las (BCSD '事', p. 81; Mahāvyutpatti 'karma')	8005286
 8005288	地藏菩萨摩诃萨	地藏菩薩摩訶薩	dìzàng Púsà móhēsà	Ksitigarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	dizang400.jpg	\N	Sanskrit equivalent: kṣitigarbha mahāsattva; see 地藏菩薩 (FGDB '地藏菩薩')	8005288
 8005289	观世音菩萨	觀世音菩薩	Guānshìyīn Púsà	Avalokiteśvara; Avalokitesvara; Guanyin	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara; the bodhisattva of great compassion (BL 'Avalokiteśvara', p. 82-83; FGDB '觀世音菩薩'; JEBD 'Kannon')	8005289
@@ -7574,7 +7574,7 @@
 8007574	三际	三際	sānjì	past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三世 (FGDB '三際')	8007574
 8007575	去来现	去來現	qù lái xiàn	past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三世 (FGDB '去來現')	8007575
 8007576	已今当	已今當	yǐjīndāng	past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三世 (FGDB '已今當')	8007576
-8007577	预流果	預流果	yùliúguǒ	srotāpanna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須陀洹 (FGDB '預流果')	8007577
+8007577	预流果	預流果	yùliúguǒ	fruit of stream entry	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: srotaāpattiphala; see also 須陀洹 (Dhammajoti 2013, p. 58; FGDB '預流果')	8007577
 8007578	夏	\N	xià	summer; varṣā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varṣā, or: grīṣma, Japanese: ka, or: ge, Tibetan: dbyar (BCSD '夏', p. 311; Mahāvyutpatti 'varṣā'; MW 'varṣā'; SH '夏', p. 323; Unihan '夏')	8007578
 8007579	一来向	一來向	yīláixiàng	the fruit of sakṛdāgāmin	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 斯陀含 (FGDB '一來向')	8007579
 8007580	一来果	一來果	yīláiguǒ	the fruit of sakṛdāgāmin	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一來向 (FGDB '一來向')	8007580
@@ -9164,7 +9164,7 @@
 8009164	吉祥瓶	\N	jíxiáng píng	mani vase	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意瓶 (FGDB '如意瓶')	8009164
 8009165	掩	\N	yǎn	conceal; chādayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chādayati, Japanese: en (BCSD '掩', p. 554; SH '掩', p. 350; Unihan '掩')	8009165
 8009166	能缘	能緣	néngyuán	conditioning power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '能緣'; FGDB '能緣'; SH '能緣', p. 337)	8009166
-8009167	教诫	教誡	jiāojiè	instruction; teaching	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '能緣')	8009167
+8009167	教诫	教誡	jiāojiè	instruction; teaching	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāsana, or: anuśāsana, Tibetan: rjes su bstan pa (Dhammajoti 2013, p. 58; Ding '能緣'; Mahāvyutpatti 'anuśāsanā'; MW 'śāsana')	8009167
 8009168	说经	說經	shuō jīng	to explain a sūtra; to expound the classics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '說經'; FGDB '說經'; Guoyu '說經'; SH '說經', p. 429)	8009168
 8009169	一佛	\N	yī fó	one Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一佛'; FGDB '一佛')	8009169
 8009170	拣	揀	jiǎn	connected; upasaṃhita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upasaṃhita, Japanese: kan, or: ken (BCSD '揀', p. 554; MW 'upasaṃhita'; SH '揀', p. 372; Unihan '揀')	8009170
@@ -9219,7 +9219,7 @@
 8009219	利乐	利樂	lì lè	blessing and joy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 利益 benefit and 安樂 joy (Ding '利樂'; FGDB '利樂'; SH '利樂', p. 230)	8009219
 8009220	损	損	sǔn	decrease; apacaya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apacaya; Japanese: son, Tibetan: 'grib pa'am 'bri ba (BCSD '損', p. 556; Mahāvyutpatti 'apacayaḥ'; MW 'apacaya'; SH '損', p. 402; Unihan '揵')	8009220
 8009221	四行	\N	sì xíng	four practices	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four practices are: (1) 菩提 awakening, (2) 福德 merit, (3) 智慧 wisdom, and (4) 羯磨 karma (Ding '四行'; FGDB '四行'; SH '四行', p. 181)	8009221
-8009222	愿力	願力	yuànlì	the power of a vow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '願力'; FGDB '願力'; SH '願力', p. 476)	8009222
+8009222	愿力	願力	yuànlì	the power of a vow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇidhānabala, Tibetan: smon lam gyi stobs (Ding '願力'; FGDB '願力'; Mahāvyutpatti 'praṇidhānabalam'; SH '願力', p. 476)	8009222
 8009223	本愿力	本願力	běnyuàn lì	the power of a vow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 願力 (FGDB '願力')	8009223
 8009224	搏	\N	bó	strike; prahāra	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prahāra; Japanese: haku (BCSD '損', p. 556; MW 'prahāra'; Unihan '搏')	8009224
 8009225	大愿业力	大願業力	dàyuàn yèlì	the power of a vow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 願力 (FGDB '願力')	8009225
@@ -9303,8 +9303,8 @@
 8009303	空处	空處	kōngchù	ākāśānantyāyatana; akasanantyayatana; sphere of infinite space; abode of infinite space	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空無邊處 (SH '空處', p. 278)	8009303
 8009304	知根	\N	zhī gēn	organs of perception	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of which there are five: ears, skin, eyes, tongue, and nose (Ding '知根'; FGDB '五知根'; SH '知根', p. 275)	8009304
 8009305	五知根	\N	wǔzhīgēn	the five organs of perception	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five are: ears, skin, eyes, tongue, and nose (Ding '五知根'; FGDB '五知根'; SH '五知根', p. 123)	8009305
-8009306	意根	\N	yìgēn	the mind sense	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Sanskrit equivalent: mana-indriya, or: manas, Tibetan: yid gyi dbang po(BCSD '意根', p. 492; Ding '意根'; FGDB '意根'; Mahāvyutpatti 'mana indriyam'; SH '意根', p. 400)	8009306
-8009307	悲心	\N	bēixīn	a sympathetic mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '悲心'; SH '悲心', p. 371)	8009307
+8009306	意根	\N	yìgēn	the mind sense	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mana-indriya, or: manas, Tibetan: yid gyi dbang po(BCSD '意根', p. 492; Ding '意根'; FGDB '意根'; Mahāvyutpatti 'mana indriyam'; SH '意根', p. 400)	8009306
+8009307	悲心	\N	bēixīn	compassion; a sympathetic mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāruṇya (Ding '悲心'; MW 'kāruṇya'; SH '悲心', p. 371)	8009307
 8009308	中阴身	中陰身	zhōngyīnshēn	the time between death and rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '中陰身')	8009308
 8009309	撮	\N	cuō	a remedy for the eye; biḍāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: biḍāla, Japanese: satsu, or: sai (BCSD '撮', p. 563; MW 'biḍāla'; Unihan '撮')	8009309
 8009310	倒	\N	dǎo	delusion; inversion; viparyasa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viparyāsa; see also 顛倒 (BCSD '倒', p. 142; MW 'viparyāsa')	8009310
@@ -10593,7 +10593,7 @@
 8010593	芝麻	\N	zhīma	sesame; a small particle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tila, Tibetan: ti la (BCSD '芝麻', p. 1007; Mahāvyutpatti 'tilaḥ'; MW 'tila')	8010593
 8010594	观智	觀智	guānzhì	wisdom from contemplation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '觀智'; FGDB '觀智'; SH '觀智', p. 490)	8010594
 8010595	世间天	世間天	shìjiān tiān	world-devas; earthly kings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '世間天'; FGDB '世間天'; SH '世間天', p. 165)	8010595
-8010596	意趣	\N	yì qù	direction of the will	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '意趣'; FGDB '意趣'; Karashima 2001 '意趣'; SH '意趣', p. 400)	8010596
+8010596	意趣	\N	yì qù	direction of the will; principle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naya (Dhammajoti 2013, p. 57; Ding '意趣'; FGDB '意趣'; Karashima 2001 '意趣'; SH '意趣', p. 400)	8010596
 8010597	多生	\N	duō shēng	many births; many rebirths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '多生'; FGDB '多生'; SH '多生', p. 209)	8010597
 8010598	心地	\N	xīn dì	mind; mental ground	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '心地'; FGDB '心地'; SH '心地', p. 150)	8010598
 8010599	大教	\N	dàjiāo	great teaching; Buddhadharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大教'; SH '大教', p. 89)	8010599
@@ -11257,7 +11257,7 @@
 8011257	牧牛	\N	mùniú	cowherd	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gopāla (BCSD '牧牛', p. 810; Ding '牧牛'; MW 'gopāla'; SH '牧牛', p. 274)	8011257
 8011258	向外相叉拳	\N	xiàng wài xiāng chā quán	outer binding first; waifu fist	phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 外縛拳 (FGDB '外縛印')	8011258
 8011259	内缚拳	內縛拳	nèi fú quán	two handed fist	phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	One of the 四種拳 'four kinds of fist' (FGDB '內縛拳')	8011259
-8011260	物	\N	wù	thing; dravya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravya, Japanese: motsu, or: butsu, Tibetan: rdzas (BCSD '牧', p. 810; Mahāvyutpatti 'dravyam'; MW 'dravya'; SH '物', p. 274; Unihan '物')	8011260
+8011260	物	\N	wù	thing; vastu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vastu, or: dravya, Japanese: motsu, or: butsu, Tibetan: rdzas (BCSD '物', p. 810; Dhammajoti 2013, p. 58; Mahāvyutpatti 'dravyam'; MW 'dravya'; SH '物', p. 274; Unihan '物')	8011260
 8011261	陀罗骠	陀羅驃	tuóluópiào	dravya; substance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravya (MW 'dravya'; SH '陀羅驃', p. 284)	8011261
 8011262	二手拳	\N	èr shǒu quán	two handed fist	phrase	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 內縛拳 (FGDB '內縛拳')	8011262
 8011263	牸	\N	zì	cow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shi, or: ji (BCSD '牸', p. 811; Unihan '牸')	8011263
@@ -11490,7 +11490,7 @@
 8011490	球	\N	qiú	sphere; parimaṇḍala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parimaṇḍala; Japanese: kyū, or: gu (BCSD '球', p. 826; MW 'parimaṇḍala'; Unihan '球')	8011490
 8011491	普观观想	普觀觀想	pǔ guān guānxiǎng	contemplation of oneself reborn in the Pure Land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The twelfth of the 十六觀 sixteen contemplations from the 觀無量壽經 “Sutra on the Visualization of Immeasurable Life” (BL 'Guan Wuliangshou jing'; Ding '普觀'; FGDB '普觀觀想'; SH '十六觀', p. 46)	8011491
 8011492	普观	普觀	pǔ guān	beheld	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ālokita; may refer to contemplation of oneself reborn in the Pure Land, see 普觀觀想 (FGDB '普觀觀想'; Mahāvyutpatti 'ālokitaḥ'; MW 'ālokita')	8011492
-8011493	理	\N	lǐ	principle; naya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naya; Japanese: ri (BCSD '理', p. 826; MW 'naya'; SH '理', p. 359; Unihan '理')	8011493
+8011493	理	\N	lǐ	principle; naya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naya; Japanese: ri (BCSD '理', p. 826; Dhammajoti 2013, p. 57; MW 'naya'; SH '理', p. 359; Unihan '理')	8011493
 8011494	自往生观	自往生觀	zì wǎngshēng guān	contemplation of oneself reborn in the Pure Land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普觀觀想 (FGDB '普觀觀想')	8011494
 8011495	普往生观	普往生觀	pǔ wǎngshēng guān	contemplation of oneself reborn in the Pure Land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普觀觀想 (FGDB '普觀觀想')	8011495
 8011496	月明	\N	yuèmíng	moonlight; candra-prabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: candra-prabha (BCSD '月明', p. 620; MW 'candraprabha')	8011496
@@ -12364,3 +12364,34 @@
 8012364	十宗	\N	shí zōng	ten schools	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(Ding '十宗'; FGDB '十宗'; SH '十宗', p. 48)	8012364
 8012365	讽读	諷讀	fěngdú	to recite	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 諷誦 (FGDB '諷誦')	8012365
 8012366	不了义经	不了義經	bù liǎo yì jīng	texts that do not explain the meaning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Texts that do not explain the full meaning of the Buddha's teachings, a reference to Hīnayāna texts (Ding '不了義經'; SH '不了義經', p. 103)	8012366
+8012367	窟	\N	kū	cave; gūha	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gūha, Japanese: kutsu, or: kotsu (BCSD '窟', p. 910; MW 'gūha'; SH '窟', p. 408; Unihan '窟')	8012367
+8012368	苦业	苦業	kǔ yè	karma of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '苦業'; SH '苦業', p. 313)	8012368
+8012369	依止处	依止處	yī zhǐ chù	basis; standing; resolution; blessing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiṣṭhāna, Pali: adhiṭṭhāna; see 依持 (Dhammajoti 2013, p. 57; Edgerton 1953 'adhiṣṭhāna', p. 15; MW 'adhiṣṭhāna')	8012369
+8012370	窣	\N	sù	su	phonetic	\N	\N	教	Buddhism	\N	\N	\N	\N	Used in Sanskrit transliterations (BCSD '窣', p. 911; SH '窣', p. 408; Unihan '窣')	8012370
+8012371	依持	\N	yīchí	basis; support	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhiṣṭhāna, Pali: adhiṭṭhāna (Dhammajoti 2013, p. 57; Ding '依持'; FGDB '依持'; Edgerton 1953 'adhiṣṭhāna', p. 15; MW 'adhiṣṭhāna')	8012371
+8012372	少善根	\N	shǎo shàngēn	few good roots; little virtue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '少善根'; FGDB '少善根')	8012372
+8012373	度僧	\N	dù sēng	to lead to become a monastic	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '度僧'; FGDB '度僧')	8012373
+8012374	加被	\N	jiābèi	blessing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Dhammajoti 2013, p. 57; Ding '加被'; FGDB '加被'; Mahāvyutpatti 'udyojitaḥ'; SH '加被', p. 167)	8012374
+8012375	加备	加備	jiābèi	blessing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 加被 (FGDB '加被')	8012375
+8012376	威力	\N	wēilì	might; formidable power	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sanskrit equivalent: anubhāva, Pali: anubhāva; see 威神 (Dhammajoti 2013, p. 57)	8012376
+8012377	威神之力	\N	wēishénzhīlì	might; formidable power	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anubhāva, Pali: anubhāva; see 威神 (Dhammajoti 2013, p. 57)	8012377
+8012378	加祐	\N	jiāyòu	blessing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 加被 (FGDB '加被')	8012378
+8012379	饶益	饒益	ráoyì	favor; anugraha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anugraha (Dhammajoti 2013, p. 57; SH '饒益', p. 485)	8012379
+8012380	加威	\N	jiāwēi	blessing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 加被 (FGDB '加被')	8012380
+8012381	悲悯	悲憫	bēimǐn	compassionate	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāruṇya (Dhammajoti 2013, p. 57; MW 'kāruṇya')	8012381
+8012382	加被力	\N	jiābèilì	power to bless	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 加被 (FGDB '加被')	8012382
+8012383	愚人	\N	yúrén	foolish person; mohapuruṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mohapuruṣa (Dhammajoti 2013, p. 57)	8012383
+8012384	加威力	\N	jiāwēilì	power to bless	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 加被 (FGDB '加被')	8012384
+8012385	理趣	\N	lǐqù	thought; mata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: matam, or: naya, Tibetan: lugs (Dhammajoti 2013, p. 57; Mahāvyutpatti 'matam'; MW 'mata')	8012385
+8012386	禅学	禪學	chán xué	to study the Chan School	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '禪學'; FGDB '禪學')	8012386
+8012387	道理	\N	dàolǐ	principle; naya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naya, or: siddhānta, Tibetan: grub pa'i mtha' (Dhammajoti 2013, p. 57; Mahāvyutpatti 'siddhāntaḥ'; MW 'naya')	8012387
+8012388	头陀行	頭陀行	tóutuó xíng	an ascetic practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '頭陀行'; FGDB '十二頭陀行')	8012388
+8012389	相想	\N	xiāngxiǎng	concept of a sign	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nimittasaṃjñā (Dhammajoti 2013, p. 57)	8012389
+8012390	承事	\N	chéngshì	to entrust with duty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paryupāsana, Tibetan: bsnyen bkur (Dhammajoti 2013, p. 58; Mahāvyutpatti 'paryupāsanam'; MW 'paryupāsana'; SH '承事', p. 260)	8012390
+8012391	亲承	親承	qīnchéng	to entrust with duty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paryupāsana; see 承事 (Dhammajoti 2013, p. 58)	8012391
+8012392	医方明	醫方明	yīfāng míng	knowledge of medicine	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 五明 'five kinds of wisdom' (Ding '醫方明'; FGDB '醫方明')	8012392
+8012393	触	觸	chù	tangible; spraṣṭavya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	chu4.mp3	Sanskrit equivalent: spraṣṭavya, Pali: phoṭṭhabba, Tibetan: reg bya (Dhammajoti, K. L. 2013, p. 58; Edgerton 1953 'spraṣṭavya', p. 612; Mahāvyutpatti 'spraṣṭavyam'; MW 'spraṣṭavya')	8005002
+8012394	主事	\N	zhǔshì	heads of affairs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers collectively to the four positions of 監寺 'temple director', 維那 'vinaya master', 典座 'chief of kitchen and storage' and, 直歲 'head of assignments' (Ding '主事'; FGDB '主事'; SH '主事', p. 165)	8012394
+8012395	入流果	\N	rùliúguǒ	fruit of stream entry	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: srotaāpattiphala; see 預流果 (Dhammajoti 2013, p. 58)	8012395
+8012396	身骨	\N	shēngǔ	relics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra; see 舍利 (FGDB '身骨')	8012396
+8012397	遗身	遺身	yíshēn	relics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra; see 舍利 (FGDB '身骨')	8012397
