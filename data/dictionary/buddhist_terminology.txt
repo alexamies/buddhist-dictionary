@@ -5776,7 +5776,7 @@
 8005776	大通智胜如来	大通智勝如來	dàtōn	Mahabhijna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大通智勝佛 (SH '大通', p. 96)	8005776
 8005777	大通众慧	大通眾慧	dà tōng zhòng huì	Mahabhijna-jnanabhibhu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大通智勝佛 (FGDB '大通智勝佛')	8005777
 8005778	大通慧	\N	dà tōng huì	Mahabhijna-jnanabhibhu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大通智勝佛 (FGDB '大通智勝佛')	8005778
-8005779	入	\N	rù	entering; praveśa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praveśa (BCSD '入', p. 156; Edgerton 1953 'praveśa', p. 387; MW 'praveśa'; SH '入', p. 32)	8005779
+8005779	入	\N	rù	entering; praveśa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praveśa, Japanese: nyū, or: ju, or: jū (BCSD '入', p. 156; Edgerton 1953 'praveśa', p. 387; MW 'praveśa'; SH '入', p. 32; Unihan '入')	8005779
 8005780	刹	剎	shā	canopy; chattra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chattra (Karashima 2001, p. 70; MW 'chattra')	8000237
 8005781	德山三世心不可得	\N	déshān sān shì xīn bù kě dé	Deshan cannot obtain the mind of the past, present, or future	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Refers to a story about the monk Deshan in Koan 4 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 30; T 2003, Scroll 1; FGDB '德山三世心不可得')	8005781
 8005782	优波离	優波離	yōubōlí	Upāli; Upali	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Upāli, Pali: Upāli, Japanese: Upari; first in upholding the precepts (BL 'Upāli'; FGDB '優波離')	8005782
@@ -12460,3 +12460,14 @@
 8012460	八大灵塔	八大靈塔	bā tǎ líng tǎ	eight great stupas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The eight are at: (1) 迦毘羅城 Kapilavastu, (2) 摩伽陀國 Magadha, (3) 鹿野苑 Deer-Park, (4) 舍衛國之祇陀園 Jetavana at Śrāvastī, (5) 曲女城 Kanyākubja, (6) 王舍城 Rājagṛha, (7) 廣嚴城 Vaiśāli, and (8) 拘尸那城沙羅林內 Kuśinagara (Ding '八大靈塔'; FGDB '八大靈塔'; SH '八大靈塔', p. 35)	8012460
 8012461	笙	\N	shēng	a musical instrument; sughoṣaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sughoṣaka, Japanese: sou, or: shou (BCSD '笙', p. 915; MW 'sughoṣaka'; Unihan '笙')	8012461
 8012462	获得	獲得	huòdé	obtain; pratilabhate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avakalpayati (Dhammajoti 2013, p. 87)	8012462
+8012463	领受	領受	lǐngshòu	perceives; pratisaṃvedayate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avakalpayati (Dhammajoti 2013, p. 87)	8012463
+8012464	笛	\N	dí	a reed flute; vaṃśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaṃśa, Pali: vaṃsa, Japanese: teki, or: jaku, Tibetan: gling bu (BCSD '笛', p. 915; Edgerton 1953 'vaṃśa', p. 466; Mahāvyutpatti 'vaṃśaḥ'; MW 'vaṃśa'; Unihan '笛')	8012464
+8012465	窣堵婆	\N	sùdǔpó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012465
+8012466	观察	觀察	guānchá	treflect; pratyavekṣate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyavekṣate (Dhammajoti 2013, p. 88)	8012466
+8012467	笞	\N	chī	a vine; a whip; latā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: latā, Japanese: chi (BCSD '笞', p. 915; Edgerton 1953 'latā', p. 460; MW 'latā'; Unihan '笞')	8012467
+8012468	窣都婆	\N	sùdūpó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012468
+8012469	入	\N	rù	entered; attained; āpanna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āpanna, Pali; āpanna (Dhammajoti 2013, p. 88; Edgerton 1953 'āpanna', p. 97' MW 'āpanna')	8005779
+8012470	符	\N	fú	protected; pālita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pālita, Japanese: fu, or: bu (BCSD '符', p. 915; Edgerton 1953 'pālita', p. 344; MW 'pālita'; Unihan '符')	8012470
+8012471	薮斗婆	藪斗婆	sǒudòupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012471
+8012472	发趣	發趣	fāqù	to set out	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃprasthita, or: prasthāna (Dhammajoti 2013, p. 88; Mahāvyutpatti 'prasthānam'; MW 'saṃprasthita')	8012472
+8012473	若尔	若爾	ruò ěr	then; tarhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tarhi (Dhammajoti 2013, p. 88; MW 'tarhi')	8012473
