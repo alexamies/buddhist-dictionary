@@ -232,7 +232,7 @@
 8000232	驮嚩若	馱嚩若	duòfúruò	a pillar with a Buddhist inscription; dhvaja	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhvaja (FGDB '幢')	8000232
 8000233	脱阇	脫闍	tuōshé	a pillar with a Buddhist inscription; dhvaja	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhvaja (FGDB '馱縛若')	8000233
 8000234	计都	計都	jìdōu	a banner; ketu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ketu; see 幢 (FGDB '幢')	8000234
-8000235	幢	\N	chuáng	a banner; ketu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ketu, or: dhvaja, Japanese: dō, Tibetan: rgyal mtshan (BCSD '幢', p. 423; BL 'Ketu', p. 431; FGDB '幢')	8000230
+8000235	幢	\N	chuáng	a banner; ketu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ketu, or: dhvaja, Japanese: dō, Tibetan: rgyal mtshan (BCSD '幢', p. 423; BL 'Ketu', p. 431; Dhammajoti 2013, p 131; FGDB '幢'; Mahāvyutpatti 'dhvajaḥ'; MW 'dhvaja')	8000230
 8000236	天幢	\N	tiānchuáng	a banner; ketu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ketu; see 幢 (FGDB '幢')	8000236
 8000237	刹	剎	chà	sign; mark; symbol	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣatā (FGDB '剎')	8000237
 8000238	剌瑟胝	\N	lásèzhī	sign; mark; symbol	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣatā; see 剎 (FGDB '剎')	8000238
@@ -5253,7 +5253,7 @@
 8005253	摩瞪	\N	módèng	untouchable; dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 摩登伽 (FGDB '摩登伽')	8005253
 8005254	摩登祇	\N	módēngqí	a female untouchable; a female dalit	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 摩登伽 (FGDB '摩登伽')	8005254
 8005255	也他	\N	yětā	as; for instance; yathā	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yathā; a Sanskrit indeclinable (BCSD '也他', p. 78; MW 'yathā')	8005255
-8005256	燃灯佛	燃燈佛	rándēng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpaṃkara, Pali: dīpaṃkar; see 然燈佛 (FGDB '然燈佛')	8005256
+8005256	燃灯佛	燃燈佛	rándēng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpaṃkara, Pali: dīpaṃkar, Tibetan: mar me mdzad; see 然燈佛 (FGDB '然燈佛'; Mahāvyutpatti 'dīpaṃkaraḥ')	8005256
 8005257	憍昙弥	憍曇彌	jiāotánmí	Gautamī; Mahāprajāpatī Gautamī; Mahāpajāpatī Gotamī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gautamī, Pali: gotamī. Full name Mahāprajāpatī Gautamī (Sanskrit), Mahāpajāpatī Gotamī (Pali), was the Buddha's aunt and foster mother. She was the first woman to be ordained into the Sangha (FGDB '憍曇彌')	8005257
 8005258	灌腊	灌臘	guànlà	to bathe a Buddha statue with water	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '灌臘')	8005258
 8005259	我有	\N	wǒ yǒu	the illusion of the existence of self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '我有', p. 238)	8005259
@@ -12479,3 +12479,8 @@
 8012479	有为无为	有為無為	yǒu wèi wú wèi	conditioned and unconditioned	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃskṛtāsaṃskṛta (Dhammajoti 2013, p. 125; SH '有為無為', p. 383)	8012479
 8012480	笔	筆	bǐ	a reed for writing with; kalama	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalama, Japanese: hitsu, Tibetan: smyig gu (BCSD '筆', p. 918; Edgerton 1953 'kalama', p. 171; Mahāvyutpatti 'kalamaḥ'; MW 'kalama'; SH '筆', p. 384; Unihan '筆')	8012480
 8012481	薮斗婆	藪斗婆	sǒudòupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012481
+8012482	说法者	說法者	shuōfǎzhě	expounder of the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmabhāṇaka, Tibetan: chos smra ba; see 法師 (Dhammajoti 2013, p. 130; Edgerton 1953 'dharmabhāṇaka', p. 280; Mahāvyutpatti 'dharmabhāṇakaḥ'; MW 'dharmabhāṇaka')	8012482
+8012483	等	\N	děng	same; equal; sama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sama, Japanese: tou (BCSD '等', p. 918; Edgerton 1953 'sama', p. 171; MW 'sama'; SH '等', p. 384; Unihan '等')	8012483
+8012484	数斗波	數斗波	shǔdòubō	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012484
+8012485	说法师	說法師	shuōfǎshī	expounder of the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmabhāṇaka; see 法師 (Dhammajoti 2013, p. 130)	8012485
+8012486	筋	\N	jīn	sinew; muscle; snāyu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: snāyu, Japanese: kni, or: kon, Tibetan: rgyus pa (BCSD '筋', p. 920; Mahāvyutpatti 'snāyuḥ'; MW 'snāyu'; Unihan '筋')	8012486
