@@ -4613,7 +4613,7 @@
 8004613	焰罗	焰羅	yànluó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yama; see 閻魔 (FGDB '焰羅王供行法次第')	8004613
 8004614	十二天	\N	shí èr	twelve devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The devas of the ten directions in addition to Aditya and Candra (Abé 1999, p. 525; FGDB '十二天')	8004614
 8004615	阎魔	閻魔	yánmó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 閻魔 (FGDB '閻魔王')	8004615
-8004616	难	難	nán	inopportune; aksana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣaṇa (BCSD '難', p. 1238; MW 'akṣaṇa')	8004616
+8004616	难	難	nán	inopportune; aksana	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣaṇa, or: pratibandha, Japanese: nan (BCSD '難', p. 1238; Mahāvyutpatti 'pratibandhaḥ'; MW 'akṣaṇa'; Unihan '難')	8004616
 8004617	天耳通	\N	tiān ěr tōng	heavenly hearing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (Tzu Chuang 2012, pp. 324-326)	8004617
 8004618	阿罗歌花	阿羅歌花	āluógē huā	arka flowers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka, or: arkapuṣpa, Tibetan: ar ka'i me tog, Scientific name: Calotropis gigantea; a white flower, the leaves are used in rituals, written in the 摩登伽經 Mātangīsūtra as 遏迦花 (FGDB '阿羅歌花'; MW 'arka'; Giebel 2015, p. 38; Mahāvyutpatti 'arkapuṣpam'; MW 'arka'; Wikipedia '牛角瓜'; T 1300, 21.0399c28)	8004618
 8004619	阿罗歌	阿羅歌	āluógē	arka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arka; see 阿羅歌花 (FGDB '阿羅歌花')	8004619
@@ -12483,4 +12483,16 @@
 8012483	等	\N	děng	same; equal; sama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sama, Japanese: tou (BCSD '等', p. 918; Edgerton 1953 'sama', p. 171; MW 'sama'; SH '等', p. 384; Unihan '等')	8012483
 8012484	数斗波	數斗波	shǔdòubō	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012484
 8012485	说法师	說法師	shuōfǎshī	expounder of the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmabhāṇaka; see 法師 (Dhammajoti 2013, p. 130)	8012485
-8012486	筋	\N	jīn	sinew; muscle; snāyu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: snāyu, Japanese: kni, or: kon, Tibetan: rgyus pa (BCSD '筋', p. 920; Mahāvyutpatti 'snāyuḥ'; MW 'snāyu'; Unihan '筋')	8012486
+8012486	筋	\N	jīn	sinew; muscle; snāyu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: snāyu, Japanese: kin, or: kon, Tibetan: rgyus pa (BCSD '筋', p. 920; Mahāvyutpatti 'snāyuḥ'; MW 'snāyu'; Unihan '筋')	8012486
+8012487	苏偷婆	蘇偷婆	sūtōupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012487
+8012488	下劣有情	\N	xiàliè yǒuqíng	inferior beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hīnasattva (Dhammajoti 2013, p. 131)	8012488
+8012489	筌	\N	quán	a bamboo fish trap	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '筌', p. 920; SH '筌', p. 384; Unihan '筌')	8012489
+8012490	素覩波	\N	sùdǔbō	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012490
+8012491	强化学习	強化學習	qiánghuà xuéxí	reinforcement learning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '強化學習')	8012491
+8012492	筏	\N	fá	raft; kola	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kolaḥ, or: kaula, Pali: kulla, Japanese: batsu, or: hatsu, Tibetan: gzings (BCSD '筏', p. 920; Edgerton 1953 'kola', p. 194; Mahāvyutpatti 'kaulaḥ'; MW 'kola'; SH '筏', p. 384; Unihan '筏')	8012492
+8012493	险难	險難	xiǎnnán	difficulty	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāntāra, or: pratibandha (Dhammajoti 2013, p. 131; Mahāvyutpatti 'pratibandhaḥ'; MW 'kāntāra')	8012493
+8012494	私鍮簸	\N	sītōubǒ	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012494
+8012495	筒	\N	tǒng	a hut; gṛhaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gṛhaka, Japanese: tou (BCSD '筒', p. 920; MW 'gṛhaka'; Unihan '筒')	8012495
+8012496	魔民	\N	mó mín	Mara's retinue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārakāyika (Dhammajoti 2013, p. 131; Ding '魔民'; FGDB '十種魔民'; SH '魔民', p. 486)	8012496
+8012497	十种魔民	十種魔民	shí zhǒng mó mín	ten kinds of follower of Mara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 魔民 (Ding '魔民'; FGDB '十種魔民')	8012497
+8012498	答	\N	dá	to answer; pratyukta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyukta, Japanese: tou (BCSD '答', p. 920; MW 'pratyukta'; SH '答', p. 384; Unihan '答')	8012498
