@@ -5303,7 +5303,7 @@
 8005303	无诤三昧	無諍三昧	wú zhèng sānmèi	Samādhi of Non-contention	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: araṇa-samādhi (FGDB '無諍三昧'; SH '無諍三昧', p. 382)	8005303
 8005304	五百	\N	wǔ bǎi	five hundred; pañcaśata	number	\N	\N	佛教	Buddhism	数量	Quantity	\N	\N	Sanskrit equivalent: pañcaśata (BCSD '五百', p. 88; MW 'pañcaśata'; SH '五百', p. 122)	8005304
 8005305	无诤	無諍	wú zhèng	non-contention; nirdvandva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirdvandva, Tibetan: rtsod med (Ding '無諍'; Mahāvyutpatti 'nirdvandvah'; FGDB '無諍'; SH '無諍', p. 382)	8005305
-8005306	经典	經典	jīngdiǎn	the collection of sutras; the sūtrapiṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing1dian3.mp3	(Ding '經典'; FGDB '經典'; SH '經典', p. 409)	8005306
+8005306	经典	經典	jīngdiǎn	sutra; discourse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtrānta, Pali: suttanta (Dhammajoti 2013, pp. 131-132; Edgerton 1953 'sūtrānta', p. 604; MW 'sūtrānta')	8005306
 8005307	不住	\N	bùzhù	not dwelling	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Sharf 2005, p. 330)	8005307
 8005308	受记	受記	shòu jì	a prediction; vyakarana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text containing predictions of when the Buddha's disciples will attain awakening; one of the twelve divisions of the sutras 十二部經, also written 授記 (FGDB '記')	8005308
 8005309	记	記	jì	a prediction; a prophecy; vyakarana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyākaraṇa; an abbreviation for 授記, a text containing predictions of when the Buddha's disciples will attain awakening; one of the twelve divisions of the sutras 十二部经 (Ding '記'; FGDB '記'; SH '受記', p. 252)	8005309
@@ -12496,3 +12496,6 @@
 8012496	魔民	\N	mó mín	Mara's retinue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārakāyika (Dhammajoti 2013, p. 131; Ding '魔民'; FGDB '十種魔民'; SH '魔民', p. 486)	8012496
 8012497	十种魔民	十種魔民	shí zhǒng mó mín	ten kinds of follower of Mara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 魔民 (Ding '魔民'; FGDB '十種魔民')	8012497
 8012498	答	\N	dá	to answer; pratyukta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyukta, Japanese: tou (BCSD '答', p. 920; MW 'pratyukta'; SH '答', p. 384; Unihan '答')	8012498
+8012499	经典	經典	jīngdiǎn	the collection of sutras; the sūtrapiṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing1dian3.mp3	(Ding '經典'; FGDB '經典'; SH '經典', p. 409)	8005306
+8012500	率都婆	\N	lǜdōupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012500
+8012501	策	\N	cè	draw up; pragrah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pragrah, Japanese: saku (BCSD '策', p. 921; MW 'pragrah'; SH '策', p. 384; Unihan '策')	8012501
