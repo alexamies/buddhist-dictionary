@@ -8392,7 +8392,7 @@
 8008392	内空	內空	nèikōng	empty within	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十八空 'eighteen kinds of emptiness' (Ding '內空'; FGDB '內空'; SH '內空', p. 131)	8008392
 8008393	十八空	\N	shíbākōng	eighteen kinds of emptiness; eighteen aspects of emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '十八空'; FGDB '十八空')	8008393
 8008394	等正觉	等正覺	děng zhèngjué	samyaksaṃbodhi; perfect enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿耨多羅三藐三菩提 (FGDB '阿耨多羅三藐三菩提')	8008394
-8008395	具寿	具壽	jùshòu	friend; brother; āyuṣman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āyuṣman, Japanese: guju; literally, meaning 'full of life', this is a term by which equals may be addressed in a Buddhist community (BL 'āyuṣman'; Ding '具壽'; FGDB '具壽'; SH '具壽')	8008395
+8008395	具寿	具壽	jùshòu	friend; brother; āyuṣman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āyuṣman, or: āyuṣmānt, Japanese: guju, Tibetan: tshe dang ldan pa; literally, meaning 'full of life', this is a term by which equals may be addressed in a Buddhist community (BL 'āyuṣman'; Dhammajoti, K. L. 2013, p. 132; Ding '具壽'; FGDB '具壽'; Mahāvyutpatti 'āyuṣmān'; SH '具壽')	8008395
 8008396	贤者	賢者	xiánzhě	a wise man; a worthy person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '賢者')	8008396
 8008397	弭	\N	mǐ	mi	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bi, or: mi; used in Sanskrit transliterations (BCSD '弭', p. 436; SH '弭', p. 301; Unihan '弭')	8008397
 8008398	净命	淨命	jìngmìng	friend; brother; āyuṣman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 具壽 (FGDB '具壽')	8008398
@@ -12499,3 +12499,32 @@
 8012499	经典	經典	jīngdiǎn	the collection of sutras; the sūtrapiṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jing1dian3.mp3	(Ding '經典'; FGDB '經典'; SH '經典', p. 409)	8005306
 8012500	率都婆	\N	lǜdōupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012500
 8012501	策	\N	cè	draw up; pragrah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pragrah, Japanese: saku (BCSD '策', p. 921; MW 'pragrah'; SH '策', p. 384; Unihan '策')	8012501
+8012502	四法印	\N	sì fǎ yìn	four dharma seals	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 三法印 three dharma seals in addition to suffering (Ding '四法印'; FGDB '四法印'; SH '四法印', p. p. 177)	8012502
+8012503	一切行苦	\N	yīqiè xíng kǔ	all conditioned phenomena include suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四法印 four dharma seals (FGDB '四法印')	8012503
+8012504	筭	\N	suàn	to count	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: san (BCSD '筭', p. 921; Unihan '筭')	8012504
+8012505	四法本末	\N	sì fǎ běn mò	the roots and branches of the four Dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also known as the 四法印 four dharma seals (FGDB '三法印'; SH '四法本末', p. 177)	8012505
+8012506	四忧檀那	四憂檀那	sì yōutánnà	the four udāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also known as the 四法印 four dharma seals (FGDB '四法印')	8012506
+8012507	筵	\N	yán	a mat; saṃstaraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃstaraka, Japanese: en (BCSD '筵', p. 921; Unihan '筵')	8012507
+8012508	卒都婆	\N	cùdūpó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012508
+8012509	近	\N	jìn	near; āsanna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsanna, or: āsannībhūta, Japanese: kin, or: kon, Tibetan: nye bar gyur ram bsten (Dhammajoti 2013, p. 132; Mahāvyutpatti 'āsannībhūtaḥ'; MW 'āsanna'; SH '近', p. 280; Unihan '近')	8012509
+8012510	箄	\N	pái	a raft	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hai, or: bai (BCSD '箄', p. 921; Unihan '箄')	8012510
+8012511	塔婆	\N	tǎpó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012511
+8012512	邻近	鄰近	línjìn	approach; āsannībhūta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsannībhūta (Dhammajoti 2013, p. 132)	8012512
+8012513	箕	\N	jī	winnowing basket; śūrpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūrpa, Japanese: ki (BCSD '箕', p. 921; MW 'śūrpa'; Unihan '箕')	8012513
+8012514	箕	\N	jī	Purvasadha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvāṣāḍhā; name of a constellation (BCSD '箕', p. 921; Mahāvyutpatti 'pūrvāṣāḍhā'; MW 'pūrvāṣāḍhā')	8012513
+8012515	偷婆	\N	tōupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012515
+8012516	得近	\N	dé jìn	approached; āsannībhūta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsannībhūta (Dhammajoti 2013, p. 132)	8012516
+8012517	算	\N	suàn	calculation; gaṇana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇana, or: gaṇanā, Japanese: san, Tibetan: rtsis (BCSD '算', p. 921; Mahāvyutpatti 'gaṇanā'; MW 'gaṇana'; SH '算', p. 427; Unihan '算')	8012517
+8012518	兜婆	\N	dōupó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012518
+8012519	已近	\N	yǐ jìn	having approached; āsannībhūta	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsannībhūta (Dhammajoti 2013, p. 132)	8012519
+8012520	佛图	佛圖	fó tú	Buddha land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012520
+8012521	方坟	方墳	fāngfén	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012521
+8012522	圆冢	圓塚	yuánzhǒng	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012522
+8012523	大冢	大塚	dàzhǒng	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012523
+8012524	坟陵	墳陵	fénlíng	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012524
+8012525	灵庙	靈廟	líng miào	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012525
+8012526	般陀	\N	bāntuó	a unit of length equal to twenty eight elbow lengths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 槃陀 (FGDB '槃陀')	8012526
+8012527	神道	\N	shéndào	the realms of devas, asuras, and, ghosts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Three of the six realms: 天道 'Heavenly Realm', 阿修羅道 'Asura Realm' and, 鬼道 'Hungry Ghost Realm' (Ding '神道' 1; FGDB '神道' 2; SH '神道', p. 335)	8012527
+8012528	鬼道	\N	guǐ dào	Hungry Ghost Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '鬼道'; SH '鬼道', p. 342)	8012528
+8012529	海众	海眾	hǎi zhòng	Saṅgha; Saṃgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽 (FGDB '僧伽')	8012529
+8012530	僧伍	\N	sēng wǔ	Saṅgha; Saṃgha; Sangha; Buddhist monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽 (FGDB '僧伽')	8012530
