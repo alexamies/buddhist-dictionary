@@ -869,7 +869,7 @@
 8000869	序分	\N	xù fēn	the first of three parts of a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '序分'; SH '三分科經', p. 60)	8000869
 8000870	正宗分	\N	zhèngzōng fēn	the second of three parts of a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '正宗分')	8000870
 8000871	流通分	\N	liútōng fēn	the third of three parts of a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '流通分'; SH '三分科經', p. 60)	8000871
-8000872	相续	相續	xiāngxù	causal connection; continuity of cause and effect	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃtati, Pali: saṃtati (BCSD '相續'; FGDB '相續'; MW 'saṃtati'; SH '相續', p. 310)	8000872
+8000872	相续	相續	xiāngxù	causal connection; continuity of cause and effect	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃtati, or: prabandha, Pali: saṃtati, Tibetan: rgyun (BCSD '相續'; FGDB '相續'; Mahāvyutpatti 'prabandhaḥ'; MW 'saṃtati'; SH '相續', p. 310)	8000872
 8000873	优婆塞	優婆塞	yōupósāi	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upāsaka, Pali: upāsaka, Japanese: ubasoku, Tibetan: dge bsnyen (BL 'upāsaka'; FGDB '優婆塞'; SH '烏波索迦', p. 330; Tzu Chuang 2012 'Upasaka')	8000873
 8000874	乌波索迦	烏波索迦	wūbōsuǒjiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000873
 8000875	乌波婆迦	烏波婆迦	wūbōpójiā	upasaka; a male lay Buddhist	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 優婆塞 (SH '烏波索迦', p. 330)	8000875
@@ -4289,7 +4289,7 @@
 8004289	悲无量心	悲無量心	bēi wúliàng xīn	immeasurable compassion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心 (Tzu Chuang 2012, p. 135)	8004289
 8004290	善无量心	善無量心	shàn wúliàng xīn	immeasurable joy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心 (Tzu Chuang 2012, p. 135)	8004290
 8004291	舍无量心	捨無量心	shě wúliàng xīn	immeasurable equanimity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four immeasurable minds 四无量心  (Tzu Chuang 2012, p. 135)	8004291
-8004292	舍	捨	shě	equanimity; upeksa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣā, Pali: upekkhā, Japanese: sha, Tibetan: btang snyoms; a state of psychological stability and composure (BCSD '捨', p. 549; BL 'upekṣā', p. 943; FGDB '捨'; Tzu Chuang 2012, p. 135)	8004292
+8004292	舍	捨	shě	abandoning; prahāṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prahāṇa, Pali: padhāna, Japanese: sha (Dhammajoti 2013, p. 155; Edgerton 1953 'prahāṇa', p. 389; MW 'prahāṇa')	8004292
 8004293	三阿僧祇劫	\N	sān āsēngzhǐ jié	the three asankhyeya kalpas; the three kalpas; the three asankya-kalpas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The time that it takes for a bodhisattva to become a Buddha; from the Sanskrit number asaṃkhyeya, 10<sup>140</sup> (SH '三僧祇', p. 59; Tzu Chuang 2012, pp.145-148)	8004293
 8004294	成劫	\N	chéng jié	The kalpa of formation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivartakalpa; the first of the four kalpas of the cycle of a world system (Tzu Chuang 2012, pp.145-148)	8004294
 8004295	住劫	\N	zhù jié	The kalpa of abiding	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivartasthāyikalpa; the second of the four kalpas of the cycle of a world system (Tzu Chuang 2012, pp.145-148)	8004295
@@ -4779,7 +4779,7 @@
 8004779	退转	退轉	tuìzhuàn	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parihāṇi, Pali: parihāni; to loose bodhicitta and regress in level of cultivation or no longer practice Buddhism. From the Sanskrit word parihāṇi feminine noun meaning 'decrease, loss, deficiency'. Abbreviated to 退 in Chinese texts (BL 'parihāṇi'; FGDB '退轉'; BCSD '退轉'; MW 'parihANi').	8004779
 8004780	退堕	退墮	tuìduò	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 退轉 (FGDB '退轉')	8004780
 8004781	退失	\N	tuìshī	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 退轉 (FGDB '退轉')	8004781
-8004782	凡夫	\N	fánfū	an ordinary person; prthagjana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthagjana, Pali: puthujjana, Japanese: bonbu; a person that has not studied or practiced Buddhism to the level of a noble person (BL 'pṛthagjana'; FGDB '凡夫')	8004782
+8004782	凡夫	\N	fánfū	an ordinary person; pṛthagjana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthagjana, or: bālapṛthagjana, Pali: puthujjana, Japanese: bonbu; a person that has not studied or practiced Buddhism to the level of a noble person (BL 'pṛthagjana'; Dhammajoti 2013, p. 154; Ding '凡夫'; FGDB '凡夫')	8004782
 8004783	凡	\N	fán	an ordinary person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Abbreviation for 凡夫 (FGDB '凡夫')	8004783
 8004784	二乘	\N	èr shèng	the two vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either 1. Mahayana and Theravada or 2. the Sravaka Vehicle and the Pratyeka-buddha Vehicle (Ding '大小二乘'; SH '大小二乘', p. 88)	8004784
 8004785	果证	果證	guǒzhèng	realized attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '果證')	8004785
@@ -5021,7 +5021,7 @@
 8005021	谛见	諦見	dì jiàn	right understanding; right view	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正見 (FGDB '八正道')	8005021
 8005022	般舟三昧	\N	bānzhōu sānmèi	pratyutpannasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also called 常行三昧 'long practice samādhi' (Ding '般舟三昧'; FGDB '般舟三昧'; SH '般舟三昧')	8005022
 8005023	一一各有	\N	yīyīgèyǒu	each one has; pratyeka	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyeka (BCSD '一一各有', p. 1; MW 'pratyeka')	8005023
-8005024	如实	如實	rúshí	tathatā; suchness; inherent nature; true nature; tathata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 真如 (FGDB '真如')	8005024
+8005024	如实	如實	rúshí	in accordance with fact; truly; yathābhūtam	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yathābhūtam (Dhammajoti 2013, p. 154; MW 'yathābhūtam'; SH '如實', p. 211)	8005024
 8005025	法性	\N	fǎxìng	dharma nature; inherent nature; essence; true nature; dharmata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmatā, Pali: dhammatā, Japanese: hosshō, Tibetan: chos nyid; similar to 真如 and 實相 (BL 'dharmatā', pp. 252-253; Edgerton 1953 'dharmatā', p. 278; FGDB '法性'; Powers 2007, p. 369; SH '法性', p. 269; Sharf 2005, p. 157)	8005025
 8005026	真如法性	\N	zhēnrú fǎxìng	inherent nature; essence; true nature; dharmatā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  dharmatā; see 法性 (FGDB '法性')	8005026
 8005027	一一如法	\N	yī yī rú fǎ	each one in accordance with the dharma; anyatarānyatareṇa dharmeṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anyatarānyatareṇa dharmeṇa (BCSD '一一如法', p. 1)	8005027
@@ -9212,7 +9212,7 @@
 8009212	道种智	道種智	dào zhǒng zhì	knowledge of the path; mārgajñatā; margajnata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 道智 (FGDB '道智')	8009212
 8009213	揵	\N	qián	to carry	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ken, or: gen, or: gon (BCSD '揵', p. 555; Unihan '揵')	8009213
 8009214	深法	\N	shēn fǎ	a profound truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '深法'; SH '深法', p. 356)	8009214
-8009215	愚夫	\N	yúfū	a fool; a simpleton; bāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (BL 'bāla'; Ding '愚夫'; FGDB '愚夫'; SH '愚夫', p. 399)	8009215
+8009215	愚夫	\N	yúfū	a fool; a simpleton; bāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla, or: bālapṛthagjana (BL 'bāla'; Dhammajoti 2013, p. 154; Ding '愚夫'; FGDB '愚夫'; SH '愚夫', p. 399)	8009215
 8009216	愚童	\N	yútóng	childish; foolish; bāla	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BL 'bāla'; Ding '愚童')	8009216
 8009217	妙行	\N	miào xíng	a profound act	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '妙行'; SH '妙行', p. 235)	8009217
 8009218	观行	觀行	guān xíng	contemplation and action	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '觀行'; FGDB '觀行'; SH '觀行', p. 490)	8009218
@@ -11188,7 +11188,7 @@
 8011188	孺童文殊菩萨	孺童文殊菩薩	rú tóng wénshūpúsà	Manjusri	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mañjuśrī; see 文殊菩薩 (FGDB '文殊菩薩')	8011188
 8011189	法僧	\N	fǎ sēng	a monk who recites mantras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法僧')	8011189
 8011190	烂	爛	làn	rotten; kleda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleda, Japanese: ran (BCSD '爛', p. 799; MW 'kleda'; Unihan '爛')	8011190
-8011191	凡愚	\N	fányú	common and ignorant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 凡夫 'ordinary person' and 愚痴 'ignorance' (Ding '凡愚'; SH '凡愚', p. 81)	8011191
+8011191	凡愚	\N	fányú	common and ignorant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bālapṛthagjana; in the sense of 凡夫 'ordinary person' and 愚痴 'ignorance' (Dhammajoti 2013, p. 154; Ding '凡愚'; SH '凡愚', p. 81)	8011191
 8011192	祕藏	\N	mì cáng	to conceal a secret; treasury of the profound mysteries	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 秘藏 (FGDB '祕藏')	8011192
 8011193	爪	\N	zhǎo	claw; nakha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nakha, Japanese: sou (BCSD '爪', p. 799; MW 'nakha'; SH '爪', p. 162; Unihan '爪')	8011193
 8011194	道类智	道類智	dào lèizhì	knowledge of the realms of form and formlessness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道類智'; FGDB '道類智'; SH '道類智', p. 417)	8011194
@@ -12535,3 +12535,16 @@
 8012535	荷法	\N	hé fǎ	to protect and uphold the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '荷擔')	8012535
 8012536	生佛不二	\N	shēng fó bù èr	sentient beings and the Buddha are one; nonduality between sentient beings and the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生佛一如 (FGDB '生佛一如')	8012536
 8012537	箱	\N	xiāng	a casket; puṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṭa, Japanese: shou, or: sou (BCSD '箱', p. 922; MW 'puṭa'; Unihan '箱')	8012537
+8012538	如实	如實	rúshí	suchness; inherent nature; true nature; tathata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tathatā, Pali: tathatā; see 真如 (Edgerton 1953, p. 248; FGDB '真如')	8005024
+8012539	如其所应	如其所應	rú qí suǒ yīng	in order; successively	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yathākramam (Dhammajoti 2013, p. 154; MW 'yathākramam')	8012539
+8012540	箴	\N	zhēn	reproach; garhaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: garhaṇa, Japanese: shin (BCSD '箴', p. 922; MW 'garhaṇa'; Unihan '箴')	8012540
+8012541	生佛平等	\N	shēng fó píng děng	equality between sentient beings and the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生佛一如 (FGDB '生佛一如')	8012541
+8012542	相和	\N	xiānghé	connection; anusaṃdhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anusaṃdhi, Pali: anusaṃdhi (Dhammajoti 2013, p. 154; Edgerton 1953 'anusaṃdhi', p. 36; MW 'anusaṃdhi')	8012542
+8012543	箸	\N	zhù	small stick or rod; śalākā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śalākā, Japanese: cho, or: chaku, Tibetan: thur ma (BCSD '箸', p. 922; Edgerton 1953 'śalākā', p. 524; Mahāvyutpatti 'śalākā'; MW 'śalākā'; Unihan '箸')	8012543
+8012544	舍	捨	shě	equanimity; upeksa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣā, Pali: upekkhā, Tibetan: btang snyoms; a state of psychological stability and composure (BCSD '捨', p. 549; BL 'upekṣā', p. 943; FGDB '捨'; Tzu Chuang 2012, p. 135)	8004292
+8012545	迷悟不二	\N	mí wù bù èr	nonduality between delusion and awareness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生佛一如 (FGDB '生佛一如')	8012545
+8012546	佛凡一体	佛凡一體	fó fán yī tǐ	the Buddha and the mundane are one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生佛一如 (FGDB '生佛一如')	8012546
+8012547	节	節	jié	division; aṅga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅga, Pali: aṅga, Japanese: setsu, or: sechi, Tibetan: yan lag (BCSD '節', p. 922; Edgerton 1953 'aṅga', p. 5; Mahāvyutpatti 'aṅgam'; MW 'aṅga'; Unihan '節')	8012547
+8012548	凡圣一如	凡聖一如	fán shèng yī rú	the mundane and the divine are one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生佛一如 (FGDB '生佛一如')	8012548
+8012549	凡圣不二	凡聖不二	fán shèng bù èr	nonduality between the mundane and the divine	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生佛一如 (FGDB '生佛一如')	8012549
+8012550	范	範	fàn	pattern	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: han (BCSD '範', p. 922; SH '範', p. 440; Unihan '範')	8012550
