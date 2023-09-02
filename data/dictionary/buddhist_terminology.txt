@@ -3389,7 +3389,7 @@
 8003389	天众	天眾	tiān zhòng	devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天')	8003389
 8003390	佛法僧	\N	Fó Fǎ Sēng	the Buddha, the Dharma, and the Sangha; the Triple Gem; the three treasures of Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FE '佛法僧'; FGDB '三寶')	8003390
 8003391	十戒	\N	shí jiè	ten precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For Buddhist novice monks and nuns (Ding '十戒'; FGDB '十戒'; SH '十戒')	8003391
-8003392	具足	\N	jùzú	complete; accomplished	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrita, or: upasaṃpat; see also 具備滿足 (BCSD '具足', p. 141; Dhammajoti 2013, p. 38; Ding '具足'; FGDB '具足'; Karashima 2001 '具足'; SH '具足', p. 250)	8003392
+8003392	具足	\N	jùzú	complete; accomplished	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sampad, or: paripūrita, or: upasaṃpat; see also 具備滿足 (BCSD '具足', p. 141; Dhammajoti 2013, p. 38; Ding '具足'; FGDB '具足'; Karashima 2001 '具足'; SH '具足', p. 250)	8003392
 8003393	四执金刚	四執金剛	sì zhíjīngāng	four vajradharas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Deities occupying positions in the mandala descried in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '四執金剛'; SH '四執金剛', p. 173; Giebel 2005, p. 49; T 848, Scroll 2, 18.0011c12)	8003393
 8003394	总持自在	總持自在	zǒngchízìzài	Dharanisvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇīśvara; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 49; T 848, Scroll 2, 18.0011c12)	8003394
 8003395	悲者	\N	bēizhě	Karunya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāruṇya; a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 49; T 848, Scroll 2, 18.0011c12)	8003395
@@ -6381,7 +6381,7 @@
 8006381	匮	匱	kuì	deficient; parihīṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parihīṇa (BCSD '匱', p. 214; MW 'parihīṇa')	8006381
 8006382	除疑意	\N	chúyíyì	Vimatisamudghati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimatisamudghāṭī; name of a prince mentioned in the 妙法蓮華經 “Lotus Sutra” (FGDB '八王子'; Karashima 2001, p. 86; T 262, Scroll 1, 9.0003c26)	8006382
 8006383	阐	闡	chǎn	explain; deśayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: deśayati, Japanese: sen (BCSD '闡', p. 1201; DJBT '闡', p. 423; Edgerton 1953 'deśayati', p. 272; MW 'diś'; SH '闡', p. 483)	8006383
-8006384	笃	篤	dǔ	sincere	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BCSD '篤', p. 922; SH '篤', p. 449)	8006384
+8006384	笃	篤	dǔ	sincere	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: toku (BCSD '篤', p. 922; SH '篤', p. 449; Unihan '篤')	8006384
 8006385	瞋不受悔戒	\N	chēn bù shòu huǐ jiè	precept against refusing to accept the repentance of others because of anger	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瞋心不受悔戒 (FGDB '瞋心不受悔戒')	8006385
 8006386	西来意	西來意	xīlái yì	the purpose of coming from the West	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 祖師西來意 (FGDB '祖師西來意')	8006386
 8006387	祖意	\N	zǔyì	the patriarch's purpose	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 祖師西來意 (FGDB '祖師西來意')	8006387
@@ -12557,3 +12557,10 @@
 8012557	十方丛林	十方叢林	shí fāng cónglín	for all senior monks to be abbot	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十方剎 (FGDB '十方剎')	8012557
 8012558	五群比丘	\N	wǔ qún bìqiū	group of five monastics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五比丘 (SH '五比丘', p. 121)	8012558
 8012559	篙	\N	gāo	a pole; vāhana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāhana, Japanese: kou (BCSD '篙', p. 922; MW 'vāhana'; Unihan '篙')	8012559
+8012560	摄事	攝事	shè shì	means of embracing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgrahavastu, Pali saṃgahavatthu; see 四攝法 (Dhammajoti 2013, p. 177; Edgerton 1953 'saṃgrahavastu', p. 548)	8012560
+8012561	恨恼	恨惱	hènnǎo	resentment; upānaha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upānaha (Dhammajoti 2013, p. 177)	8012561
+8012562	筛	篩	shāi	a sieve; a filter; a screen	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shi, or: sai (BCSD '篩', p. 922;Unihan '篩')	8012562
+8012563	西方极乐净土	西方極樂淨土	xīfāng jílè jìngtǔ	Western Pureland	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 西方淨土 (FGDB '西方淨土')	8012563
+8012564	真修缘修	真修緣修	zhēn xiū yuán xiū	cultivation in accordance with reason and cultivation in accordance with tathata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '真修緣修')	8012564
+8012565	四一	\N	sì yī	four ones	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Tiantai teaching: (1) 教一 one teaching, (2) 行一 one practice, (3) 人一 one person and, (4) 理一 one truth (Ding '四一'; FGDB '四一'; SH '四一', p. 169)	8012565
+8012566	纳衣	納衣	nà yī	monastic robes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 衲衣 (FGDB '衲衣')	8012566
