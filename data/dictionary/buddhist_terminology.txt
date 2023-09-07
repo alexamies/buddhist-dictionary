@@ -158,7 +158,7 @@
 8000158	灭度	滅度	mièdù	to extinguish worries and the sea of grief	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '滅度', p. 405)	8000158
 8000159	灭度	滅度	mièdù	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (SH '涅槃', p. 328)	8000158
 8000160	比丘	\N	bǐqiū	bhiksu; a monk; bhikkhu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣu, Pali: Bhikkhu, Japanese: biku, Tibetan: dge slong (BL 'bhikṣu', p. 115; Tzu Chuang 2012, p. 30; FGDB '比丘')	8000160
-8000161	世尊	\N	shìzūn	World-Honored One; Bhagavat; Bhagavān; Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavat, Pali: bhagavat, Japanese: seson, Tibetan: bcom ldan 'das; one of the ten epithets of a Buddha 佛陀十号, means that the Buddha is honored throughout the world and that he is the most senior monk (BL 'bhagavat', p. 108; Tzu Chuang 2012, p. 205; Mahāvyutpatti 'bhagavān'; FGDB '世尊'; Giles 1892 '世'; Red Pine 2012, loc. 5605; SH '世尊', p. 164)	8000161
+8000161	世尊	\N	shìzūn	World-Honored One; Bhagavat; lokanātha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhagavat, or: lokanātha, or: lokajyeṣṭha, Pali: bhagavat, Japanese: seson, Tibetan: bcom ldan 'das; one of the ten epithets of a Buddha 佛陀十号, means that the Buddha is honored throughout the world and that he is the most senior monk (BL 'bhagavat', p. 108; Edgerton 1953 'lokanātha', p. 464; FGDB '世尊'; Giles 1892 '世'; Mahāvyutpatti 'bhagavān'; MW 'lokanātha'; Red Pine 2012, loc. 5605; SH '世尊', p. 164; Tzu Chuang 2012, p. 205)	8000161
 8000162	白佛	\N	bái fó	to address the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '白佛', p. 198)	8000162
 8000163	破邪显正	破邪顯正	pòx ié xiǎn zhèng	to destroy evil and manifest righteousness	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '破邪顯正'; Guoyu '破邪顯正')	8000163
 8000164	破邪申正	\N	pò xié shēn zhèng	to destroy evil and manifest righteousness	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 破邪顯正 (FGDB '破邪顯正')	8000164
@@ -12650,3 +12650,15 @@
 8012650	糁	糝	sǎn	saṃ	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃ, Japanese: san, or: shin; transliteration (BCSD '糝', p. 925; Unihan '糝')	8012650
 8012651	十二誓行	\N	shíèr shì xíng	twelve ascetic practices	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 十二頭陀行 (FGDB '十二頭陀行')	8012651
 8012652	十二杜多功德	\N	shíèr dùduō gōngdé	twelve ascetic practices	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 十二頭陀行 (FGDB '十二頭陀行')	8012651
+8012653	粪	糞	fèn	excrement; mīḍha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mīḍha, or: pāṣī, Pali: mīḷha, Japanese: fun, Tibetan: lud (BCSD '糞', p. 925; Edgerton 1953 'mīḍha', p. 433; Mahāvyutpatti 'pāṣī'; MW 'mīḍha'; SH '糞', p. 461; Unihan '糞')	8012653
+8012654	头陀十二法行	頭陀十二法行	tóutuó shíèr fǎxíng	twelve ascetic practices	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 十二頭陀行 (FGDB '十二頭陀行')	8012654
+8012655	医明	醫明	yī míng	knowledge of medicine	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 醫方明 (FGDB '醫方明')	8012655
+8012656	糟	\N	zāo	dregs	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sou (BCSD '糟', p. 925; Unihan '糟')	8012656
+8012657	医方论	醫方論	yīfāng lùn	knowledge of medicine	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 醫方明 (FGDB '醫方明')	8012657
+8012658	直岁	直歲	zhí suì	head of assignments	phrase	\N	\N	佛教	Buddhism	印度	India	\N	\N	Monastic in Chan temples in charge of assignment to different temple positions (Ding '直歲'; FGDB '直歲')	8012658
+8012659	糠	\N	kāng	chaff; busa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: busa, Japanese: kou, Tibetan: sbun pa (BCSD '糠', p. 926; Mahāvyutpatti 'busaḥ'; MW 'busa'; Unihan '糟')	8012659
+8012660	迦摩病	\N	jiāmó bìng	jaundice; kāmalā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '迦摩羅'; FGDB '迦摩羅病'; SH '迦摩羅', p. 141)	8012660
+8012661	偷多	\N	tōuduō	elimination of defilements through ascetic practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 頭陀 (FGDB '頭陀')	8012661
+8012662	糩	\N	kuài	chaff; tuṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuṣa, Japanese: kai, or: ke (BCSD '糩', p. 926; MW 'tuṣa'; Unihan '糩')	8012662
+8012663	杜荼	\N	dùtú	elimination of defilements through ascetic practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 頭陀 (FGDB '頭陀')	8012663
+8012664	投多	\N	tóuduō	elimination of defilements through ascetic practice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 頭陀 (FGDB '頭陀')	8012664
