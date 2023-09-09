@@ -3710,7 +3710,7 @@
 8003710	揵达缚	揵達縛	qiándáfú	a gandharva	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: gandharva, Pali: gandhabba; see 乾闥婆 (FGDB '乾闥婆')	8003710
 8003711	乾闼婆	乾闥婆	qiántàpó	a gandharva	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: gandharva, Pali: gandhabba, Japanese: kendatsuba, Tibetan: dri za; a kind of celestial being known for musical skills (BL 'gandharva', pp. 311-312; FGDB '乾闥婆')	8003711
 8003712	舍衞国	舍衞國	shěwèi guó	Sravasti	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 舍衛國 (FGDB '舍衛國')	8003712
-8003713	纯	純	chún	pure; only; exclusively; alone	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekānta, or: kevala (BCSD '純', p. 927; MW 'ekānta'; SH '純', p. 335)	8003713
+8003713	纯	純	chún	pure; only; exclusively; ekānta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekānta, or: kevala, Japanese: shun, or: jun, or: ton (BCSD '純', p. 927; MW 'ekānta'; SH '純', p. 335; Unihan '純')	8003713
 8003714	民	\N	mín	people	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, or: prajā, Japanese: min (BCSD '民', p. 701; MW 'prajā'; Unihan '民')	8003714
 8003715	缩刷大藏经	縮刷大藏經	suō shuā dà zàng jīng	Shukusatsu daizōkyō; Reduced Print Canon	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A modern Japanese version of the Buddhist cann (Scott 2017, p. 98)	8003715
 8003716	五部祕经	五部祕經	wǔ bù mì jīng	five esoteric sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五部祕經')	8003716
@@ -12682,3 +12682,24 @@
 8012682	督监	督監	dūjiàn	Dujian; Provost	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	One of the Forty-Eight Positions in a Chan monastery (Welch 1967, p. 421)	8012682
 8012683	库头	庫頭	kù tóu	Head of Stores	proper noun	职事	Post	佛教	Buddhism	中国	China	\N	\N	A Positions in a Chinese Buddhist monastery (Ding '庫頭'; FGDB '庫頭')	8012683
 8012684	柜头	櫃頭	guì tóu	Head of Stores	proper noun	职事	Post	佛教	Buddhism	中国	China	\N	\N	See 櫃頭 (FGDB '庫頭')	8012684
+8012685	纳	納	nà	to receive; pratīṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratīṣ, Japanese: tou, or: nou, or: na (BCSD '納', p. 927; MW 'pratīṣ'; SH '納', p. 336; Unihan '納')	8012685
+8012686	财帛	財帛	cáibó	Head of Stores	proper noun	职事	Post	佛教	Buddhism	中国	China	\N	\N	See 櫃頭 (FGDB '庫頭')	8012686
+8012687	水看	\N	shuǐ kàn	Water Steward	proper noun	职事	Post	佛教	Buddhism	中国	China	\N	\N	See 水頭 (FGDB '水頭')	8012687
+8012688	素	\N	sù	white; śveta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śveta, or: avādata, Japanese: so, or: su (BCSD '素', p. 928; MW 'śveta'; SH '素', p. 336; Unihan '素')	8012688
+8012689	磨主	\N	mó zhǔ	Head of the Mill	proper noun	职事	Post	佛教	Buddhism	中国	China	\N	\N	See 磨頭 (FGDB '磨頭')	8012689
+8012690	行堂师	行堂師	xíngtángshī	waiter	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 行堂 (FGDB '行堂')	8012690
+8012691	纺	紡	fǎng	weaving; tantukaraṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tantukaraṇa, Japanese: bou, or: hou (BCSD '紡', p. 928; MW 'śveta'; Unihan '紡')	8012691
+8012692	碗头	碗頭	wǎntóu	waiter	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 行堂 (FGDB '行堂')	8012692
+8012693	头首	頭首	tóu shǒu	group of head monastics in a monastery	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(Ding '頭首'; FGDB '頭首'; SH '頭首', p. 454)	8012693
+8012694	索	\N	suǒ	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa, Japanese: saku (BCSD '索', p. 928; Kroll 2015 '索' 6, p. 438; SH '索', p. 336; Unihan '索')	8012694
+8012695	索	\N	suǒ	cord; noose; pāśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāśa (BCSD '索', p. 928; MW 'pāśa'; SH '索', p. 336)	8012695
+8012696	浴主	\N	yùzhǔ	bath administrator	set phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	As a work assignment in a Chinese monastery (Ding '浴主'; SH '浴主', p. 328)	8012696
+8012697	殿司	\N	diànsī	Senior Verger; Shrine Warden	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	See 殿主 (FGDB '殿主')	8012697
+8012698	紫	\N	zǐ	purple; violet	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: shi (BCSD '索', p. 928; Unihan '紫')	8012698
+8012699	鼓头	鼓頭	gǔ tóu	Drum Striker	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(Welch 1967, p. 421)	8012699
+8012700	四阿含	\N	sì āhán	four Agamas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四阿含'; Ichishima and Chappell 2013, p. 163; SH '四阿含', p. 183; T 1931)	8012700
+8012701	䌷	紬	chóu	silk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chū (BCSD '紬', p. 928; Unihan '紬')	8012701
+8012702	活菩萨	活菩薩	huó púsà	a living bodhisattva; a compassionate person	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '活菩薩')	8012702
+8012703	作愿	作願	zuòyuàn	Head Rector	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery (Ding '作願門'; FGDB '作願'; Welch 1967, p. 422)	8012703
+8012704	作愿门	作願門	zuòyuànmén	Head Rector	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	See 作願 (FGDB '作願')	8012704
+8012705	五念门	五念門	wǔ niàn mén	five devotional gates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Pureland Buddhism (Ding '五念門'; FGDB '五念門'; SH '五念門', p. 118)	8012705
