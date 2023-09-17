@@ -3180,7 +3180,7 @@
 8003180	羯	\N	jié	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003180
 8003181	箇	\N	gè	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003181
 8003182	各	\N	gè	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003182
-8003183	绀	紺	gàn	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003183
+8003183	绀	紺	gàn	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦, Japanese: kon, or: kan (BCSD '紺', p. 929; FGDB '迦'; SH '紺', p. 362; Unihan '紺')	8003183
 8003184	脚	腳	jiǎo	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003184
 8003185	仙人观相	仙人觀相	xiānrén guān xiāng	Asita's Prediction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003185
 8003186	娱乐太子	娛樂太子	yúlè tàizǐ	Palace Life	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about entertaining Prince Sidartha in the Jataka Tales (FGS Encyclopedia of Buddhist Arts)	8003186
@@ -12703,4 +12703,18 @@
 8012703	作愿	作願	zuòyuàn	Head Rector	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery (Ding '作願門'; FGDB '作願'; Welch 1967, p. 422)	8012703
 8012704	作愿门	作願門	zuòyuànmén	Head Rector	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	See 作願 (FGDB '作願')	8012704
 8012705	五念门	五念門	wǔ niàn mén	five devotional gates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Pureland Buddhism (Ding '五念門'; FGDB '五念門'; SH '五念門', p. 118)	8012705
-8012706	五念	\N	wǔniàn	five devotional gates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五念門 (FGDB '五念門')	8012706
+8012706	五念	\N	wǔ niàn	five devotional gates	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五念門 (FGDB '五念門')	8012706
+8012707	细	細	xì	minute, small; sūkṣma	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūkṣma, or: viśāta, Japanese: sei, or: sai (BCSD '紬', p. 928; Mahāvyutpatti 'viśātam'; MW 'sūkṣma'; SH '紬', p. 362; Unihan '細')	8012707
+8012708	修净土五念门	修淨土五念門	xiū jìngtǔ wǔ niàn mén	five devotional gates of Pureland practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五念門 (FGDB '五念門')	8012708
+8012709	羯磨陀那	\N	jiémótuónà	Director of Affairs; Karmadana; Vinaya Master; Discipline Master	proper noun	职事	Post	佛教	Buddhism	\N	\N	\N	\N	See 悅眾 (FGDB '悅眾')	8012709
+8012710	纻	紵	zhù	sack cloth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: cho (BCSD '紵', p. 929; SH '獨孤洛加', p. 448; Unihan '紵')	8012710
+8012711	西堂	\N	xī táng	Senior Instructor	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery (Ding '西堂'; FGDB '西堂'; Welch 1967, p. 422)	8012711
+8012712	西庵	\N	xī'ān	Senior Instructor	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	See 西堂 (FGDB '西堂')	8012712
+8012713	绍	紹	shào	followed by; anugata	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anugata, Japanese: sou, or: jou (BCSD '紹', p. 929; SH '紹', p. 362; Unihan '紹')	8012713
+8012714	祖仕	\N	zǔshì	Deacon	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery (Welch 1967, p. 422)	8012714
+8012715	后堂	後堂	hòu táng	Associate Instructor	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery; an abbreviation for 後僧堂 (Ding '後堂'; FGDB '後堂'; Welch 1967, p. 422)	8012715
+8012716	絁	\N	shī	rough silk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shi (BCSD '絁', p. 929; Unihan '絁')	8012716
+8012717	后僧堂	後僧堂	hòu sēngtáng	Associate Instructor	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	See 後堂 (FGDB '後堂')	8012717
+8012718	前堂	\N	qián táng	Front Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '前堂'; FGDB '前堂'; SH '前堂', p. 297)	8012718
+8012719	终	終	zhōng	end; anta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anta, Pali: anta, Japanese: shū, or: shu, Tibetan: mjug (BCSD '終', p. 929; Edgerton 1953 'anta', p. 37; Mahāvyutpatti 'pṛṣṭham'; MW 'anta'; SH '終', p. 362; Unihan '終')	8012719
+8012720	捻香	\N	niǎn xiāng	to burn incense	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 燒香 (FGDB '燒香')	8012720
