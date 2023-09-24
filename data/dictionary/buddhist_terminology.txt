@@ -6086,7 +6086,7 @@
 8006086	菴罗女	菴羅女	ānluónǚ	Āmrapālī; Ambapālī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āmrapālī; see 菴婆羅婆利 (FGDB '菴婆羅婆利')	8006086
 8006087	菴树女	菴樹女	ānshùnǚ	Āmrapālī; Ambapālī	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āmrapālī; see 菴婆羅婆利 (FGDB '菴婆羅婆利')	8006087
 8006088	㮈女	\N	nàinǚ	āmrapālī; Ambapālī	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āmrapālī; see 菴婆羅婆利 (FGDB '菴婆羅婆利')	8006088
-8006089	缘	緣	yuán	conditions; pratyaya; paccaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yuan2.mp3	Sanskrit equivalent: pratyaya; Pali: paccaya, Japanese: en; in Buddhist teachings all conditioned phenomena arise from 因 hetu 'causes' and 緣 pratyaya 'conditions' (BCSD '緣', p. 935; BL 'pratyaya'; Tzu Chuang 2012; FGDB '緣')	8006089
+8006089	缘	緣	yuán	conditions; pratyaya; paccaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yuan2.mp3	Sanskrit equivalent: pratyaya; Pali: paccaya, Japanese: en, Tibetan: rkyen; in Buddhist teachings all conditioned phenomena arise from 因 hetu 'causes' and 緣 pratyaya 'conditions' (BCSD '緣', p. 935; BL 'pratyaya'; Mahāvyutpatti 'pratyayaḥ'; Tzu Chuang 2012; FGDB '緣')	8006089
 8006090	奈女	\N	nàinǚ	Āmrapālī; Ambapālī	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: āmrapālī; see 菴婆羅婆利 (FGDB '菴婆羅婆利')	8006090
 8006091	哑密哩达	啞密哩達	yǎmìlǐdá	ambrosia	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amṛta; sweet dew, the food of immortals (Eitel 1904, pp. 10-11; SH '啞密哩達', p. 344)	8006091
 8006092	哑眯哩打	啞瞇哩打	yǎmīlǐdǎ	ambrosia	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amṛta; see 啞密哩達 (Eitel 1904, pp. 10-11)	8006092
@@ -12783,3 +12783,13 @@
 8012783	有情众生	有情眾生	yǒuqíng zhòngshēng	sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有情 (Wikipedia '有情')	8012783
 8012784	释迦如来	釋迦如來	shìjiā rúlái	Sakyamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 釋迦牟尼 (FGBD '釋迦牟尼')	8012784
 8012785	紧	緊	jǐn	urgent; excited; udīrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udīrṇa (BCSD '緊', p. 934; Mahāvyutpatti 'udīrṇaḥ'; MW 'udīrṇa'; SH '緊', p. 427)	8003486
+8012786	东南亚佛教	東南亞佛教	dōngnán yàfójiāo	Buddhism in Southeast Asia	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '東南亞佛教'; Wikipedia '东南亚佛教')	8012786
+8012787	佛教艺术	佛教藝術	fójiāo yìshù	Buddhist art	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教藝術'; Wikipedia '佛教藝術')	8012787
+8012788	线	線	xiàn	thread; sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, Japanese: sen, Tibetan: skud pa (BCSD '線', p. 935; Mahāvyutpatti 'sūtra'; MW 'sūtram'; SH '線', p. 440; Unihan '線')	8012788
+8012789	初期佛教	\N	chūqī fójiāo	early Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 原始佛教 (FGDB '原始佛教')	8012789
+8012790	在家僧伽	\N	zài jiā sēngjiā	lay Buddhist community	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 在家眾 (Wikipedia '在家众')	8012790
+8012791	编	編	biān	to compile	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hen (BCSD '編', p. 937; SH '編', p. 440; Unihan '編')	8012791
+8012792	曲工	\N	qǔgōng	a ritual lamp	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used in Tibetan Buddhism(FGDB '曲工')	8012792
+8012793	曲木	\N	qǔmù	a wooden temple chair	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 曲彔 (FGDB '曲彔')	8012793
+8012794	缓	緩	huǎn	relaxed; ślatha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ślatha, Japanese: kan (BCSD '緩', p. 937; MW 'ślatha'; Unihan '緩')	8012794
+8012795	历事观	歷事觀	lì shì guān	an object thought to have been observed	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 托事觀 (FGDB '托事觀')	8012795
