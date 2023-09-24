@@ -3483,7 +3483,7 @@
 8003483	转读	轉讀	zhuǎndú	to recite a Buddhist sutra	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '轉讀')	8003483
 8003484	救脱菩萨	救脫菩薩	jiùtuō púsà	Salvation Bodhisattva; Rescuing Aid Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Sutra of the Medicine Buddha (FGDB '救脫菩薩')	8003484
 8003485	六时	六時	liù shí	the six four hour periods of the day	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	According to the traditional time system: 初夜 early evening 6:00 - 10:00 pm, 中夜 late evening 10:00 pm - 2:00 am, 后夜 early hours of the morning 2:00 am - 6:00 am, 晨朝 early morning 6:00 am - 10:00 am, 日中 midday 10:00 am - 2:00 pm, 日末 late afternoon 2:00 pm - 6:00 pm (FGDB '六時'; SH '六時', p. 135)	8003485
-8003486	紧	緊	jǐn	kim	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kim; or: kiṃ; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '緊', p. 934; MW 'kim'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c10)	8003486
+8003486	紧	緊	jǐn	kim	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kim; or: kiṃ, Japanese: kin; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '緊', p. 934; MW 'kim'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c10; Unihan '緊')	8003486
 8003487	吃丽奢	吃麗奢	chīlìshē	kleśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleśa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'kleśa'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003487
 8003488	素捺那	\N	sùnànà	sudana; destroy	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūdana; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'sūdana'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003488
 8003489	嚩始多	\N	fúshǐduō	vasita; subduing to one's own will	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśitā; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'vaśitā'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003489
@@ -12771,3 +12771,15 @@
 8012771	小乘佛法	\N	Xiǎoshèng fófǎ	Hinayana; Hīnayāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘 (FGDB '小乘')	8012771
 8012772	佛教居士林	\N	fójiào jūshìlín	place of practice for lay people	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教居士林')	8012772
 8012773	綵	\N	cǎi	bright colored; citra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citra, Japanese: sai (BCSD '綵', p. 934; MW 'citra'; Unihan '綵')	8012773
+8012774	谈经	談經	tán jīng	to explain a sutra; to expound the classics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '談經')	8012774
+8012775	中观学派	中觀學派	zhōngguān xuépài	Madhyamaka	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	See 中觀派 (Wikipedia '中觀學派')	8012775
+8012776	绮	綺	qǐ	cloth; caila	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caila, Japanese: ki (BCSD '綺', p. 934; MW 'caila'; SH '綺', p. 427; Unihan '綺')	8012776
+8012777	破地狱	破地獄	pò dìyù	to be liberated from hell; break open the gates of hell	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '破地獄'; FGDB '破地獄'; SH '破地獄', p. 334)	8012777
+8012778	维摩诘居士	維摩詰居士	wéimójié jūshì	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 維摩 (FGDB '維摩')	8012778
+8012779	绵	綿	mián	cotton; raw silk; kaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaca, Japanese: men, or: ben, Tibetan: srin bal (BCSD '綿', p. 934; Edgerton 1953 'kaca', p. 163; Mahāvyutpatti 'kacaḥ'; MW 'kaca'; Unihan '綿')	8012779
+8012780	观音像	觀音像	guānyīn xiàng	statue or image of Avalokitesvara	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '观音像')	8012780
+8012781	根本佛教	\N	gēnběn fójiāo	early Buddhism; fundamental Buddhism	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Kompon-bukkyo(JEBD '根本佛教', p. 198; Wikipedia '根本佛教')	8012781
+8012782	缁	緇	zī	black robes; śyāma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śyāma, Japanese: men, or: ben, Tibetan: srin bal (BCSD '緇', p. 934; MW 'kaśyāmaca'; SH '緇', p. 427; Unihan '緇')	8012782
+8012783	有情众生	有情眾生	yǒuqíng zhòngshēng	sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 有情 (Wikipedia '有情')	8012783
+8012784	释迦如来	釋迦如來	shìjiā rúlái	Sakyamuni Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 釋迦牟尼 (FGBD '釋迦牟尼')	8012784
+8012785	紧	緊	jǐn	urgent; excited; udīrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udīrṇa (BCSD '緊', p. 934; Mahāvyutpatti 'udīrṇaḥ'; MW 'udīrṇa'; SH '緊', p. 427)	8003486
