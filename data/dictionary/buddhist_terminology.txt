@@ -3177,7 +3177,7 @@
 8003177	太子降生	\N	tàizǐ jiàng shēng	Birth of Prince Siddartha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003177
 8003178	揭	\N	jiē	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (BCSD '揩', p. 555; FGDB '迦')	8003178
 8003179	柯	\N	kē	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003179
-8003180	羯	\N	jié	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003180
+8003180	羯	\N	jié	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka, or: gha; in transliterations, see also 迦 (BCSD '羯', p. 949; FGDB '迦'; SH '羯', p. 441; Unihan '羯')	8003180
 8003181	箇	\N	gè	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003181
 8003182	各	\N	gè	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦 (FGDB '迦')	8003182
 8003183	绀	紺	gàn	ka	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ka; see 迦, Japanese: kon, or: kan (BCSD '紺', p. 929; FGDB '迦'; SH '紺', p. 362; Unihan '紺')	8003183
@@ -12966,3 +12966,18 @@
 8012966	臂奢柘鬼	\N	bìshēzhèguǐ	piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; a flesh-eating class of demons with yellowish appearance (BCSD '臂舍柘'; FGDB '毘舍遮鬼'; MW 'piśāca'; SH '毘舍支', p. 307)	8012966
 8012967	毕舍遮鬼	畢舍遮鬼	bìshèzhē guǐ	piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012967
 8012968	毘舍阇鬼	毘舍闍鬼	píshèshé guǐ	piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012968
+8012969	羡	羨	xiàn	to envy; admire; spṛhaṇīya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: spṛhaṇīya, Japanese: sen, or: en (BCSD '羨', p. 948; MW 'spṛhaṇīya'; SH '羨', p. 387; Unihan '羡')	8012969
+8012970	臂舍柘鬼	\N	bìshèzhè guǐ	piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012970
+8012971	臂舍柘	\N	bìshèzhè	piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012971
+8012972	羶	\N	shān	a rank odor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '羶', p. 950; Unihan '羶')	8012972
+8012973	食血肉鬼	\N	shíxuèròuguǐ	flesh eating ghost; piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012973
+8012974	噉人精气鬼	噉人精氣鬼	dànrénjīngqìguǐ	spirit eating ghost; piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012974
+8012975	羸	\N	léi	weak; durbala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: durbala, Japanese: rui (BCSD '羸', p. 950; MW 'durbala'; Unihan '羸')	8012975
+8012976	癫狂鬼	癲狂鬼	diānkuángguǐ	mad ghost; piśāca; pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '臂奢柘鬼')	8012976
+8012977	摄受奇特	攝受奇特	shèshòu qíté	to receive and protect in a special way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '攝受奇特'; FGDB '攝受奇特')	8012977
+8012978	羹	\N	gēng	soup; sūpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūpa, Japanese: kou, or: kan (BCSD '羹', p. 950; MW 'sūpa'; Unihan '羹')	8012978
+8012979	四恶	四惡	sì è	four evil destinies	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四惡道 (FGDB '四惡道')	8012979
+8012980	怀胎喻	懷胎喻	huáitāi yù	the simile of conception	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '懷胎喻')	8012980
+8012981	羺	\N	nóu	a sort of blanket; kutapa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kutapa (BCSD '羺', p. 950; MW 'kutapa')	8012981
+8012982	阿脩罗	阿脩羅	āxiūluó	asura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿修羅 (FGDB '阿修羅')	8012982
+8012983	办事明王	辦事明王	bànshì míngwáng	Vidyarāja, Accomplisher of Work	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(Ding '辦事明王'; FGDB '辦事明王')	8012983
