@@ -10527,7 +10527,7 @@
 8010527	依义不依语	依義不依語	yī yì bù yī yǔ	rely on the meaning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四依'; Tzu Chuang 2012)	8010527
 8010528	大乘佛教时期	大乘佛教時期	dà chéng fó jiāo shí qī	period of mahayana Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛教教理'; Tzu Chuang 2012)	8010528
 8010529	湧	\N	yǒng	to pour out; utsṛj	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utsṛj; Japanese: yū, or: you (BCSD '湧', p. 737; MW 'utsṛj'; Unihan '湧')	8010529
-8010530	老	\N	lǎo	old; jarā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jarā; Japanese: rou, Tibetan: rga ba (Mahāvyutpatti 'jarā'; MW 'jarā'; Lusthaus 2002, p. 544; SH '老', p. 218; Unihan '老')	8010530
+8010530	老	\N	lǎo	old; jarā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jarā; Japanese: rou, Tibetan: rga ba (BCSD '老', p. 952; Mahāvyutpatti 'jarā'; MW 'jarā'; Lusthaus 2002, p. 544; SH '老', p. 218; Unihan '老')	8010530
 8010531	定异	定異	dìngyì	distinction	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratiniyama, Tibetan: so sor nges pa; one of the 百法 one hundred dharmas of Yogācāra (Ding '定異'; FGDB '定異'; Lusthaus 2002, p. 544; Mahāvyutpatti 'pratiniyamaḥ'; MW 'pratiniyamaḥ')	8010531
 8010532	长跪	長跪	chángguì	to kneel in an upright posture	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '長跪'; FGDB '長跪'; SH '長跪', p. 284)	8010532
 8010533	世间眼	世間眼	shìjiān yǎn	Eyes of the World	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lokacakṣus; a reference to the Buddha (Ding '世間眼'; FGDB '世眼'; Link 1961, p. 99; MW 'lokacakṣus'; SH '世間眼', p. 165)	8010533
@@ -13027,3 +13027,19 @@
 8013027	东密	東密	dōngmì	Shingon	proper noun	宗派	School	佛教	Buddhism	日本	Japan	\N	\N	Japanese Esoteric Buddhism, established by Kukai (FGDB '東密'; Matsuo 2007, p. 37)	8013027
 8013028	施论	施論	shī lùn	discourse on generosity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dānakathā (FGDB '施論')	8013028
 8013029	论	論	lùn	discussion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāda, Tibetan: smra ba (Mahāvyutpatti 'vādaḥ'; MW 'vāda'; SH '論', p. 444)	8005118
+8013030	翻	\N	fān	turned over; viparyaya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viparyaya, or: viparīta, Japanese: hon, or: han (BCSD '翻', p. 952; MW 'viparyaya'; SH '翻', p. 461; Unihan '翻')	8013030
+8013031	初禅天	初禪天	chū chán tiān	First Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '初禪天'; SH '四禪', p. 179)	8013031
+8013032	第二禅天	第二禪天	dì èr chán tiān	Second Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四禪天'; SH '四禪', p. 179)	8013032
+8013033	翼	\N	yì	wing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pakṣa, Japanese: hon, or: han (BCSD '翼', p. 952; MW 'pakṣa'; SH '二翼', p. 29; Unihan '翼')	8013033
+8013034	二禅天	二禪天	èr chán tiān	Second Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第二禪天 (SH '四禪', p. 179)	8013034
+8013035	第三禅天	第三禪天	dì sān chán tiān	Third Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四禪天'; SH '四禪', p. 179)	8013035
+8013036	三禅天	三禪天	sān chán tiān	Third Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第三禪天 (SH '四禪', p. 179)	8013036
+8013037	耀	\N	yào	splendour; avabhāsa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avabhāsa, Japanese: yoku (BCSD '耀', p. 952; Edgerton 1953 'avabhāsa', p. 73; MW 'avabhāsa'; Unihan '耀')	8013037
+8013038	第四禅天	第四禪天	dì sì chán tiān	Fourth Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四禪天'; SH '四禪', p. 179)	8013038
+8013039	四禅天	四禪天	sì chán tiān	Fourth Dhyāna Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第四禪天 (SH '四禪', p. 179)	8013039
+8013040	傍生趣	\N	pángshēngqù	animal rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 畜生 (FGDB '畜生')	8013040
+8013041	龟毛	龜毛	guīmáo	tortoise hair	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Something that does not exist (SH '龜毛', p. 455)	8013041
+8013042	广目天	廣目天	guǎngmùtiān	Virupaksa; Virupaksa Deva King of the West	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	See 廣目天王 (FGDB '四王天')	8013042
+8013043	办事	辦事	bànshì	temple administrator; temple staff	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Generic term for staff at a temple (Ding '辦事'; FGDB '辦事'; SH '辦事', p. 451)	8013043
+8013044	名天	\N	míng tiān	famous ruler	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 世間天 (FGDB '世間天'; SH '四種天', p. 143)	8013044
+8013045	欲天五婬	\N	yùtiānwǔyín	five methods of physical interaction in the heavens of desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '欲天五婬'; FGDB '天'; SH '欲天五婬', p. 355)	8013045
