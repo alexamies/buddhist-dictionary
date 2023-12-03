@@ -3214,8 +3214,8 @@
 8003214	哈	\N	hā	ha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ha, Japanese: gou, or: sou (BCSD '㖸', p. 254)	8003214
 8003215	遮	\N	zhē	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Siddham: 𑖓; a consonant of the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '遮'; MW 'ca'; SH '遮', p. 445; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003215
 8003216	嗟	\N	jiē	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Japanese: sa, or: sha; see also 遮 (BCSD '嗟', p. 270; FGDB '遮'; SH '嗟', p. 396; Unihan '嗟')	8003216
-8003217	左	\N	zuǒ	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003217
-8003218	者	\N	zhě	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003218
+8003217	左	\N	zuǒ	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; used in transliterations, see 遮 (FGDB '遮')	8003217
+8003218	者	\N	zhě	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca, Japanese: sha; used in transliterations, see also 遮 (BCSD '者', p. 953; FGDB '遮'; Unihan '者')	8003218
 8003219	酌	\N	zhuó	ca	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ca; see 遮 (FGDB '遮')	8003219
 8003220	车	車	chē	cha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cha, Siddham: 𑖔; 7th consonant of the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '車', p. 1132; MW 'cha'; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003220
 8003221	坐姿菩萨	坐姿菩薩	zuò zī púsà	a seated Bodhisattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8003221
@@ -13056,6 +13056,8 @@
 8013056	制教	\N	zhìjiāo	teaching of rules	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '制教'; FGDB '制教'; SH '化行', p. 142)	8013056
 8013057	化行二教	\N	huà xíng èr jiāo	teachings for conversion and teachings for practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '化行二教'; FGDB '化行二教'; SH '化行', p. 142)	8013057
 8013058	化行	\N	huà xíng	conversion and practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化行二教 (SH '化行', p. 142)	8013058
-8013059	耆	\N	qí	old; jarā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jarā, Japanese: ki, or: gi, or: shi (BCSD '耆', p. 952; MW 'jarā'; SH '耆', p. 336; Unihan '耆')	8013059
+8013059	耆	\N	qí	old; jarā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jarā, Japanese: ki, or: gi, or: shi (BCSD '耆', p. 953; MW 'jarā'; SH '耆', p. 336; Unihan '耆')	8013059
 8013060	屈曲教	\N	qūqǔ jiāo	indirect teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of the Lotus and Nirvāṇa sūtras, in contrast to 平道教 level teaching (FGDB '平道教'; SH '二教', p. 25)	8013060
 8013061	平道教	\N	píng dào jiāo	level teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of the Huayan sūtra, in contrast to 屈曲教 indirect teaching (FGDB '平道教'; SH '二教', p. 25)	8013061
+8013062	耎	\N	ruǎn	soft; mṛdu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛdu, Japanese: zen, or: nen (BCSD '耎', p. 954; MW 'mṛdu'; Unihan '耎')	8013062
+8013063	镇西	鎮西	zhènxī	Chinzei	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A sect of the Japanese Pureland school (Dobbins, 2002, p. 162)	8013063
