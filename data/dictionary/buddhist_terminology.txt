@@ -10484,7 +10484,7 @@
 8010484	淹	\N	yān	cessation; praśamayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśamayati, Japanese: en, or: you (BCSD '淹', p. 736; MW 'praśama'; Unihan '淹')	8010484
 8010485	不正知	\N	bù zhèng zhī	lack of knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asamprajñānam, Tibetan: shes bzhin ma yin pa (Ding '不正知'; FGDB '不正知'; Mahāvyutpatti 'asamprajñānam'; MW 'asamprajñāna')	8010485
 8010486	耳	\N	ěr	ear; śrotra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrotra, Japanese: ji, or: jou (BCSD '耳', p. 954; MW 'śrotra'; SH '耳', p. 218; Unihan '耳')	8010486
-8010487	声	聲	shēng	sound	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śabdaḥ, Japanese: sei, or: shou, Tibetan: sgra (Edgerton 1953 'śabda', p. 523; Mahāvyutpatti 'śabdaḥ'; MW 'śabda'; SH '聲', p. 461; Unihan '聲')	8010487
+8010487	声	聲	shēng	sound	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śabdaḥ, Japanese: sei, or: shou, Tibetan: sgra (BCSD '聲', p. 960; Edgerton 1953 'śabda', p. 523; Mahāvyutpatti 'śabdaḥ'; MW 'śabda'; SH '聲', p. 461; Unihan '聲')	8010487
 8010488	浅	淺	qiǎn	shallow; uttāna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttāna, Pali: uttāna, Japanese: sen (BCSD '淺', p. 736; Edgerton 1953 'uttāna', p. 124; MW 'uttāna'; SH '淺', p. 356; Unihan '淺')	8010488
 8010489	法处所摄色	法處所攝色	fǎ chù suǒ shè sè	objects of thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmāyatana-paryāpanna-rūpa; one of the 百法 one hundred dharmas of Yogācāra  (BCSD '法處所攝色', p. 716; Ding '法處所攝色'; FGDB '法處所攝色')	8010489
 8010490	法处所摄	法處所攝	fǎ chù suǒ shè	objects of thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmāyatana-paryāpanna; see 法處所攝色 (BCSD '法處所攝色', p. 716)	8010490
@@ -13074,3 +13074,16 @@
 8013074	四阿笈摩	\N	sì ājímó	four Agamas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿含 (SH '四阿笈摩', p. 183)	8013074
 8013075	毘噜陀迦	毘嚕陀迦	pílūtuójiā	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013075
 8013076	聆	\N	líng	to listen	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: rei, or: ryou (BCSD '聆', p. 955; Unihan '聆')	8013076
+8013077	毘留多天	\N	píliúduōtiān	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013077
+8013078	毘流离天	毘流離天	píliúlítiān	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013078
+8013079	聊	\N	liáo	momentary; transient; kṣaṇika	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣaṇika, Japanese: ryou (BCSD '聊', p. 955; Edgerton 1953 'kṣaṇika', p. 198; MW 'kṣaṇika'; Unihan '聊')	8013079
+8013080	鼻溜荼迦天	\N	bíliūtújiātiān	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013080
+8013081	毘楼勒天	毘樓勒天	pílóulēitiān	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013081
+8013082	聚	\N	jù	aggregation; samāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samāsa, or: saṃgha, Japanese: ryou (BCSD '聚', p. 958; Edgerton 1953 'samāsa', p. 570; Mahāvyutpatti 'saṃghaḥ'; MW 'samāsa'; SH '聚', p. 427; Unihan '聚')	8013082
+8013083	聚	\N	jù	a group of people; gaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇa, Tibetan: tshogs (BCSD '聚', p. 958; Mahāvyutpatti 'gaṇaḥ'; MW 'gaṇa'; Unihan '聚')	8013082
+8013084	毘楼勒迦天	毘樓勒迦天	pílóulēijiātiān	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013084
+8013085	毘楼勒叉天	毘樓勒叉天	pílóulēichātiān	Virudhaka; Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent; virūḍhaka; see 增長天 (FGDB '增長天')	8013085
+8013086	联	聯	lián	consisting of parts; padya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padya (BCSD '聯', p. 960; MW 'padya'; Unihan '聯')	8013086
+8013087	提头赖吒	提頭賴吒	títóulàizhà	Dhrtarastra; Dhṛtarāṣṭra; Dhataraṭṭha; Deva King of the East	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	See 持國天 (FGDB '持國天')	8013087
+8013088	持梨哆阿罗哆	持梨哆阿囉哆	chílíduōaluōduō	Dhrtarastra; Dhṛtarāṣṭra; Dhataraṭṭha; Deva King of the East	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	See 持國天 (FGDB '持國天')	8013088
+8013089	提多罗吒	提多羅吒	tíduōluózhà	Dhrtarastra; Dhṛtarāṣṭra; Dhataraṭṭha; Deva King of the East	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	See 持國天 (FGDB '持國天')	8013089
