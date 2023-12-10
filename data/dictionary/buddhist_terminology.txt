@@ -1663,7 +1663,7 @@
 8001663	马头大士	馬頭大士	mǎtóudàshì	Hayagrīva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hayagrīva; see 馬頭觀音 (SH '馬頭觀音', p. 341)	8001663
 8001664	马头观世音	馬頭觀世音	mǎtóu guānshìyīn	Hayagrīva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hayagrīva; see 馬頭觀音 (SH '馬頭觀音', p. 341)	8001664
 8001665	清净国土	清淨國土	qīngjìng guótǔ	pure land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 淨土 (FGDB '淨土')	8001665
-8001666	肘	\N	zhǒu	hasta; forearm length	measure word	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '肘', p. 243; Shinohara, 2014, pp. 71-72)	8001666
+8001666	肘	\N	zhǒu	forearm length; hasta	measure word	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hasta, Pali: hattha, Japanese: chū, Tibetan: khru (BCSH '肘', p. 962; Mahāvyutpatti 'hastaḥ'; MW 'hasta'; SH '肘', p. 243; Shinohara, 2014, pp. 71-72; Unihan '肘')	8001666
 8001667	毘倶胝	\N	píjùzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhṛkutī, Japanese: Bikutei, Tibetan: khro gnyer can; a form of Avalokitesvara with knitted eyebrows (BL 'Bhṛkutī'; SH '毘倶胝', p. 305)	8001667
 8001668	毘倶知	\N	píjùzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhrūkuti; see 毘倶胝 (SH '毘倶胝', p. 305)	8001668
 8001669	毘俱知	\N	píjūzhī	Bhrkuti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhrūkuti; see 毘倶胝 (SH '毘倶胝', p. 305)	8001669
@@ -13098,3 +13098,26 @@
 8013098	迦吒布单那鬼	迦吒布單那鬼	jiāzhàbùdānnàguǐ	kaṭapūtana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羯吒布怛那鬼 (FGDB '羯吒布怛那鬼')	8013098
 8013099	听	聽	tīng	to listen; śru	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śru, Japanese: chou, or: tei (BCSD '聽', p. 961; MW 'śru'; SH '聽', p. 487; Unihan '聽')	8013099
 8013100	奇臭鬼	\N	qíchòuguǐ	kaṭapūtana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羯吒布怛那鬼 (FGDB '羯吒布怛那鬼')	8013100
+8013101	极丑鬼	極醜鬼	jíchǒuguǐ	kaṭapūtana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 羯吒布怛那鬼 (FGDB '羯吒布怛那鬼')	8013101
+8013102	聋	聾	lóng	deaf; eḍa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eḍa, Japanese: rou (BCSD '聽', p. 962; MW 'eḍa'; Unihan '聾')	8013102
+8013103	瞋不受谢戒	瞋不受謝戒	chēn bù shòu xiè jiè	precept against refusing to accept the repentance of others because of anger	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瞋心不受悔戒 (FGDB '瞋心不受悔戒')	8013103
+8013104	故瞋戒	\N	gù chēn jiè	precept against refusing to accept the repentance of others because of anger	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瞋心不受悔戒 (FGDB '瞋心不受悔戒')	8013104
+8013105	肆	\N	sì	a shop; āpaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āpaṇa, Japanese: shi (BCSD '肆', p. 962; MW 'āpaṇa'; Unihan '肆')	8013105
+8013106	韦陀罗鬼	韋陀羅鬼	wéituóluó guǐ	vetāla; vetāḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 毘陀羅鬼 (FGDB '毘陀羅鬼')	8013106
+8013107	迷怛罗鬼	迷怛羅鬼	mídáluó guǐ	vetāla; vetāḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 毘陀羅鬼 (FGDB '毘陀羅鬼')	8013107
+8013108	肉	\N	ròu	flesh; māṃsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māṃsa, Japanese: niku, or: jū, Tibetan: sha (BCSD '肉', p. 962; Mahāvyutpatti 'māṃsam'; MW 'māṃsa'; SH '肉', p. 218; Unihan '肉')	8013108
+8013109	鞞陀路婆鬼	\N	bǐngtuólùpó guǐ	vetāla; vetāḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 毘陀羅鬼 (FGDB '毘陀羅鬼')	8013109
+8013110	起尸	起屍	qǐshī	vetāla; vetāḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 毘陀羅鬼 (FGDB '毘陀羅鬼')	8013110
+8013111	肋	\N	lèi	region of the ribs; flank; pārśva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārśva, Japanese: roku (BCSD '肋', p. 962; MW 'pārśva'; Unihan '肋')	8013111
+8013112	施饿鬼会	施餓鬼會	shī èguǐ huì	Hungry Ghost Offering Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '施餓鬼會')	8013112
+8013113	施饿鬼食	施餓鬼食	shī èguǐ shí	Hungry Ghost Offering Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 施餓鬼會 (FGDB '施餓鬼會')	8013113
+8013114	肌	\N	jī	skin; chavi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chavi, Japanese: ki (BCSD '肌', p. 962; MW 'chavi'; Unihan '肌')	8013114
+8013115	施食会	施食會	shī shí huì	Hungry Ghost Offering Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 施餓鬼會 (FGDB '施餓鬼會')	8013115
+8013116	冥阳会	冥陽會	míng yáng huì	Hungry Ghost Offering Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 施餓鬼會 (FGDB '施餓鬼會')	8013116
+8013117	肚	\N	dù	belly; udara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udara, Japanese: to (BCSD '肚', p. 963; MW 'udara'; Unihan '肚')	8013117
+8013118	眉山水陆	眉山水陸	méi shān shuǐ lù	Hungry Ghost Offering Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 施餓鬼會 (FGDB '施餓鬼會')	8013118
+8013119	施饿鬼	施餓鬼	shī èguǐ	Hungry Ghost Offering Ceremony	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 施餓鬼會 (FGDB '施餓鬼會')	8013119
+8013120	肛	\N	gāng	anus; intestinal tract; antraguṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: antraguṇa, Pali: antaguṇa, Japanese: kou, Tibetan: gnye ma (BCSD '肚', p. 963; Edgerton 1953 'antraguṇa', p. 40; Mahāvyutpatti 'antraguṇaḥ'; Unihan '肛')	8013120
+8013121	水陆斋	水陸齋	shuǐ lù zhāi	Water and Land Service	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 水陸會 (FGDB '水陸會')	8013121
+8013122	水陆道场	水陸道場	shuǐ lù dàochǎng	Water and Land Service	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 水陸會 (FGDB '水陸會')	8013122
+8013123	肝	\N	gān	spleen; plīha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: plīha, or; plīhan, Pali: antaguṇa, Japanese: kan, Tibetan: mchin pa (BCSD '肝', p. 963; Edgerton 1953 'plīha', p. 395; Mahāvyutpatti 'plīhaḥ'; MW 'plīhan'; Unihan '肝')	8013123
