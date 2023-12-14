@@ -9603,7 +9603,7 @@
 8009603	猊座	\N	nízuò	lion's throne	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 師子座 (FGDB '師子座')	8009603
 8009604	春	\N	chūn	spring; vasanta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vasanta, Japanese: shun, Tibetan: dpyid (BCSD '春', p. 599; Mahāvyutpatti 'vasantaḥ'; MW 'vasanta'; Unihan '春')	8009604
 8009605	傍生	\N	pángshēng	[rebirth as an] animal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tiryagyoni, Tibetan: dud 'gro; same as 畜生 (Ding '傍生'; Mahāvyutpatti 'tiryañcaḥ'; MW 'tiryagyoni'; SH '傍生', p. 367)	8009605
-8009606	天中天	\N	tiān zhōng tiān	god of the gods /devātideva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devātideva, Pali: devātideva, Japanese: tenchūten, Tibetan: lha'i yang lha; an epithet given to the Buddha (BL 'devātideva', p. 235; Ding '天中天'; FGDB '天中天'; Mahāvyutpatti 'devātidevaḥ'; SH '天中天', p. 143)	8009606
+8009606	天中天	\N	tiān zhōng tiān	god of the gods	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devātideva, Pali: devātideva, Japanese: tenchūten, Tibetan: lha'i yang lha; an epithet given to the Buddha (BL 'devātideva', p. 235; Ding '天中天'; FGDB '天中天'; Mahāvyutpatti 'devātidevaḥ'; SH '天中天', p. 143)	8009606
 8009607	昧	\N	mèi	sluggish; manda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manda, Japanese: mai (BCSD '昧', p. 599; MW 'manda'; Unihan '昧')	8009607
 8009608	入藏	\N	rù zàng	to be included in the canon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '入藏')	8009608
 8009609	入藏	\N	rù zàng	to enter Tibet	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '入藏')	8009608
@@ -13126,3 +13126,10 @@
 8013126	肢	\N	zhī	limb; pratyaṅgam	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyaṅga, Japanese: shi, Tibetan: nying lag (BCSD '肢', p. 963; Mahāvyutpatti 'pratyaṅgam'; MW 'pratyaṅga'; Unihan '肢')	8013126
 8013127	卑帝黎	\N	bēidìlí	preta; hungry ghost	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 餓鬼 (FGDB '餓鬼')	8013127
 8013128	四种资粮	四種資糧	sì zhǒng zīliáng	four kinds of sambhāra; four kinds of supplies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四種資糧'; FGDB '四種資糧')	8013128
+8013129	肥	\N	féi	fat; stout; sthūla	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūla, or: sthūlatā, Japanese: hi (BCSD '肥', p. 963; Edgerton 1953 'sthūla', p. 611; MW 'sthūla'; SH '肥', p. 276; Unihan '肥')	8013129
+8013130	地饼	地餅	dì bǐng	earth cake	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '地皮餅'; FGDB '地餅')	8013130
+8013131	地薄饼	地薄餅	dì báobǐng	earth cake	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地餅 (FGDB '地餅')	8013131
+8013132	地皮饼	地皮餅	dì píbǐng	earth cake	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地餅 (FGDB '地餅')	8013132
+8013133	地味	\N	dì wèi	earth cake	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地餅 (FGDB '地餅')	8013133
+8013134	地肥	\N	dì féi	earth cake	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 地餅 (FGDB '地餅')	8013134
+8013135	地客	\N	dì kè	land tenant; peasant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially workers on temple farm land (Ding '地客'; FGDB '地客')	8013135
