@@ -4071,7 +4071,7 @@
 8004071	随求	隨求	suíqiú	wish-fulfillment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Genre of dharani (Copp 2011, p. 177)	8004071
 8004072	四天王天	\N	sì tiānwáng tiān	Caturmaharajika Heaven; Heaven of the Four Kings	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	The first of the Six Heavens of the Desire Realm (Tzu Chuang 2012, pp. 112-116)	8004072
 8004073	四王天	\N	sì wáng tiān	Caturmaharajika Heaven; Heaven of the Four Kings	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	The first of the Six Heavens of the Desire Realm (Tzu Chuang 2012, pp. 112-116)	8004073
-8004074	夜摩天	\N	yèmó tiān	Yama Heaven; Yamadeva	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yamadeva; the third of the Six Heavens of the Desire Realm (FGDB '夜摩天'; SH '夜摩天', p. 253; Tzu Chuang 2012, pp. 112-116)	8004074
+8004074	夜摩天	\N	yèmó tiān	Yama Heaven; Yamadeva	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yāma, Pali: yāma, Japanese: yamaten, Tibetan: 'thab bral; the third of the Six Heavens of the Desire Realm (BL 'yāma', pp. 1018-1019; FGDB '夜摩天'; SH '夜摩天', p. 253; Tzu Chuang 2012, pp. 112-116)	8004074
 8004075	化乐天	化樂天	huà lè tiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇaratideva, Pali: nimmāṇarati; the fifth of the Six Heavens of the Desire Realm, named after the Sanskrit word nirmāṇa 'creating' + rati 'pleasure' (FGDB '化樂天'; MW 'nirmāṇa'; Nyanatiloka 1980 'nimmāṇa-rati'; Tzu Chuang 2012, pp. 112-116)	8004075
 8004076	水大	\N	shuǐdà	element of water	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abdhātu, or: āpas, Pali: āpo, Japanese: suidai; Tibetan: chu'i khams; one of the 四大 four great elements (BCSD '水大', p. 70; BL 'āpas', p. 57; Ding '水大'; FGDB '水大'; Mahāvyutpatti 'abdhātuḥ'; MW 'āpas'; SH '水大', p. 159)	8004076
 8004077	水	\N	shuǐ	water	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jala; Japanese: mizu, or: sui (BCSD '水', p. 702; DJBT '水', p. 433; MW 'jala'; SH '水', p. 159)	8004077
@@ -13250,3 +13250,15 @@
 8013250	肠	腸	cháng	intestines; antra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: antra, Japanese: chou, Tibetan: rgyu ma (BCSD '腸', p. 980; Mahāvyutpatti 'antram'; MW 'antra'; Unihan '腸')	8013250
 8013251	噁乞蒭毘也	\N	ěqǐchúpíyě	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8013251
 8013252	不动佛	不動佛	bùdòng fó	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8013252
+8013253	腹	\N	fù	stomach; udara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udara, Japanese: fuku, Tibetan: lto ba (BCSD '腹', p. 980; Mahāvyutpatti 'udaram'; MW 'udara'; SH '腹', p. 411; Unihan '腹')	8013253
+8013254	妙善	\N	miàoshàn	wholesome; kuśala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśala, Pali: kusala (BCSD '妙善', p. 358; Edgerton 1953 'kuśala'; MW 'kuśala')	8013254
+8013255	腿	\N	tuǐ	leg; thigh; ūru	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūru, Japanese: fuku, Tibetan: brla (BCSD '腿', p. 980; Mahāvyutpatti 'ūruḥ'; MW 'ūru'; Unihan '腿')	8013255
+8013256	无动佛	無動佛	wúdòngfó	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8013256
+8013257	无怒佛	無怒佛	wúnù fó	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8013257
+8013258	无瞋恚佛	無瞋恚佛	wúchēnhuì fó	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8013258
+8013259	炎摩天	\N	yánmótiān	Yama Heaven; Yamadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: suyāma; see 夜摩天 (FGDB '夜摩天')	8013259
+8013260	波吒厘树	波吒釐樹	bōzhàlí shù	pāṭali tree	noun	树	Tree	佛教	Buddhism	印度	India	\N	\N	The tree that the city of 華氏城 Pāṭaliputra was named after (FGDB '波吒釐樹')	8013260
+8013261	婆吒罗树	婆吒羅樹	pózhàluó shù	pāṭali tree	noun	树	Tree	佛教	Buddhism	印度	India	\N	\N	See 波吒釐樹 (FGDB '波吒釐樹')	8013261
+8013262	善分	\N	shàn fēn	good morals; kuśala-pakṣa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalapakṣa (BCSD '善分', p. 260; Edgerton 1953 'kuśalapakṣa', p. 188)	8013262
+8013263	波罗罗树	波羅羅樹	bōluóluó shù	pāṭali tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 波吒釐樹 (FGDB '波吒釐樹')	8013263
+8013264	波罗利树	波羅利樹	bōluólì shù	pāṭali tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 波吒釐樹 (FGDB '波吒釐樹')	8013264
