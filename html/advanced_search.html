@@ -33,14 +33,6 @@
             in either the title or body.
           </span>
         </p>
-        <!--Decomposition of query terms entered by the user -->
-        <div id="queryTerms">
-          <h4 id="queryTermsTitle">Query Decomposition</h4>
-          <p id="queryTermsP">
-            <span id="queryTermsBody">
-            </span>
-          </p>
-        </div> <!--queryTerms-->
 
         <div id="findResults">
           <div id="docResultsDiv">
@@ -58,3 +50,13 @@
           </div> <!-- docResultsDiv -->
         </div> <!--findResults-->
         <p id="findError"></p>
+
+        <!--Decomposition of query terms entered by the user -->
+        <details id="queryTerms">
+          <summary id="queryTermsTitle">Query Decomposition</summary>
+          The search query was performed using the query decomposition below.
+          <p id="queryTermsP">
+            <span id="queryTermsBody">
+            </span>
+          </p>
+      </details>
