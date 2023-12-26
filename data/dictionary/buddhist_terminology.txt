@@ -125,7 +125,7 @@
 8000125	我从来疑着这汉	我從來疑著這漢	wǒ cónglái yí zhe zhè hàn	I was always suspicious about that fellow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Chan expression from the 臨濟錄 Record of Linji (FGDB '我從來疑著這漢')	8000125
 8000126	北洲	\N	běi zhōu	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 鬱單越 (FGDB '鬱單越')	8000126
 8000127	五蕴	五蘊	wǔ yùn	five aggregates; five skandhas; five groups of existence; five groups of clinging	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaskandha, Pali: pañcakhandhā, Japanese: goun; the five skandhas are form 色, sensation 受, perception 想, volition 行, and consciousness 识 (BL 'skandha', p. 828; DJBT 'goun'; FGDB '五蘊'; Tzu Chuang 2012, pp. 7-9; Nyanatiloka Thera 1980, 'khandha')	8000127
-8000128	色	\N	sè	form; rupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	se4.mp3	Sanskrit equivalent: rūpa, Pali: rūpa, Japanese: shiki, Tibetan: gzugs; first of the 五蘊 five aggregates (BL 'rūpa', pp. 721-722; FGDB '色'; SH '色', p. 220; Tzu Chuang 2012, p. 8)	8000128
+8000128	色	\N	sè	form; rupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	se4.mp3	Sanskrit equivalent: rūpa, Pali: rūpa, Japanese: shiki, Tibetan: gzugs; first of the 五蘊 five aggregates (BCSD '色', p. 1005; BL 'rūpa', pp. 721-722; FGDB '色'; SH '色', p. 220; Tzu Chuang 2012, p. 8)	8000128
 8000129	无明	無明	wúmíng	ignorance; avidyā; avijjā	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avidyā, Pali: avijjā; Japanese: mumyō, Tibetan: ma rig pa; one of the five upper fetters 五上分結 (BL 'avidyā', p. 86; FGDB '無明'; Tzu Chuang 2012, pp. 133-135)	8000129
 8000130	苦集灭道	苦集滅道	kǔ jí miè dào	the fourfold noble truth; four noble truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cattāri ariyasaccāni, Pali: ariya-sacca, Japanese: shishōtai; namely: (1) all life is suffering 苦諦, (2) the cause of suffering is desire 集諦, (3) emancipation comes only by eliminating passions 滅諦, (4) the way 道諦 to emancipation is the Eight-fold Noble Way 八正道. The four noble truths are also abbreviated in Chinese as 苦集灭道. The four noble truths are explained in the 分別聖諦經 Saccavibhaṅgasutta in the Madhyamāgama 中阿含經, which is equivalent to the Majjhima Nikāya 141 in the Pāli Canon (DJBT 'Shishōtai'; Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '四諦').	8000130
 8000131	四谛	四諦	sì dì	the fourfold noble truth; four noble truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cattāri ariyasaccāni, Pali: ariya-sacca, Japanese: shishōtai, Tibetan: 'phags pa'i bden pa bzhi; namely: (1) all life is suffering 苦諦, (2) the cause of suffering is desire 集諦, (3) emancipation comes only by eliminating passions 滅諦, (4) the way 道諦 to emancipation is the Eight-fold Noble Way 八正道. The four noble truths are also abbreviated in Chinese as 苦集灭道. The four noble truths are explained in the 分別聖諦經 Saccavibhaṅgasutta in the Madhyamāgama 中阿含經, which is equivalent to the Majjhima Nikāya 141 in the Pāli Canon (BL 'four noble truths', p. 304-305; DJBT 'Shishōtai'; Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '四諦').	8000131
@@ -13378,3 +13378,81 @@
 8013378	釈尼	\N	shìní	shaku ni	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese abbreviation for Sakyamuni, used in Dharma names for women (Matsuo 2007, p. 12)	8013378
 8013379	良	\N	liáng	best; udāra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udāra, Japanese: ryou (BCSD '良', p. 1004; MW 'udāra'; SH '良', p. 243; Unihan '良')	8013379
 8013380	延喜式	\N	yánxǐshì	Engi-shiki	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Regulations concerning Japanese monastics (Matsuo 2007, p. 20)	8013380
+8013381	须炎天	須炎天	xūyántiān	Yama Heaven; Yamadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 夜摩天 (FGDB '夜摩天')	8013381
+8013382	艰	艱	jiān	difficult; hard	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kan, or: ken (BCSD '艱', p. 1004; Unihan '艱')	8013382
+8013383	离诤天	離諍天	lízhèngtiān	Yama Heaven; Yamadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 夜摩天 (FGDB '夜摩天')	8013383
+8013384	知足天	\N	zhīzútiān	Tuṣita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (FGDB '兜率天')	8013384
+8013385	艸	\N	cǎo	stalk; palāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: palāla, Japanese: kan, or: ken (BCSD '艸', p. 1007; MW 'palāla'; Unihan '艸')	8013385
+8013386	妙足天	\N	miàozútiān	Tuṣita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (FGDB '兜率天')	8013386
+8013387	喜足天	\N	xǐzútiān	Tuṣita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (FGDB '兜率天')	8013387
+8013388	艾	\N	ài	mugwort	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: gai, or: gei (BCSD '艾', p. 1007; Unihan '艾')	8013388
+8013389	喜乐天	喜樂天	xǐlètiān	Tuṣita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (FGDB '兜率天')	8013389
+8013390	尼摩罗天	尼摩羅天	nímóluótiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013390
+8013391	芋	\N	yù	taro	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stamba, Japanese: u (BCSD '艾', p. 1007; MW 'stamba'; Unihan '芋')	8013391
+8013392	维那罗泥天	維那羅泥天	wéinàluónítiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013392
+8013393	化自在天	\N	huàzìzàitiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013393
+8013394	芎	\N	xiōng	chuanxiong rhizome	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyū, or: ku (BCSD '芎', p. 1007; Unihan '芎')	8013394
+8013395	化自乐天	化自樂天	huàzìlètiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013395
+8013396	伝灯大法师	伝灯大法師	yúndēngdàfǎshī	dentō dai-hoshi	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013396
+8013397	芒	\N	máng	Chinese silver grass	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bou, or: mou, or: kou (BCSD '芒', p. 1007; Unihan '芒')	8013397
+8013398	法桥	法橋	fǎqiáo	hokkyō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013398
+8013399	国师	国師	guóshī	kokushi	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title; variant of 國師 'State Preceptor' (Matsuo 2007, p. 20)	8013399
+8013400	芙	\N	fú	hibiscus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: fu (BCSD '芙', p. 1007; Unihan '芙')	8013400
+8013401	芙蓉	\N	fúróng	flower; kesara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kesara (BCSD '芙蓉', p. 1007; MW 'kesara')	8013401
+8013402	僧都	\N	sēngdōu	sōzu	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013402
+8013403	僧正	\N	sēngzhèng	sōjō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013403
+8013404	芟	\N	shān	to cut off; lūna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lūna, Japanese: san, or: sen (BCSD '芟', p. 1007; MW 'lūna'; Unihan '芟')	8013404
+8013405	大僧都	\N	dàsēngdōu	dai sōzu	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title; awarded to Kūkai in 830 (Matsuo 2007, p. 20)	8013405
+8013406	大觉世尊	大覺世尊	dàjués hìzūn	World-honored One of the great enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A combination of 大覺 'great enlightenment' and 世尊 'World-honored One' (Ding '大覺世尊'; FGDB '大覺世尊'; SH '大覺世尊', p. 95)	8013406
+8013407	芥	\N	jiè	mustard; sarṣapa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarṣapa, Japanese: kai, or: ke (BCSD '芥', p. 1007; MW 'sarṣapa'; Unihan '芥')	8013407
+8013408	大觉尊	大覺尊	dàjué zūn	World-honored One of the great enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大覺世尊 (FGDB '大覺世尊')	8013408
+8013409	知正觉世间	知正覺世間	zhī zhèng jué shìjiān	to have an enlightened view of the world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '知正覺世間'; FGDB '知正覺世間')	8013409
+8013410	芬	\N	fēn	fragrance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: fun (BCSD '芬', p. 1008; SH '芬', p. 280; Unihan '芬')	8013410
+8013411	觉世旬刊	覺世旬刊	jué shì xúnkān	Awakening the World	proper noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	The name of a Fo Guang Shan publication (FGDB '覺世旬刊'; Travagnin, Stefania 2016, ”Religion and Media in China: Insights and Case Studies from the Mainland”, Taiwan and Hong Kong: Taylor & Francis, p. 66)	8013411
+8013412	佛生日	\N	fó shēngrì	Buddha's Birthday; Vesak	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛誕日 (FGDB '佛誕日')	8013412
+8013413	芭	\N	bā	banana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ba, or: ha (BCSD '芭', p. 1008; Unihan '芭')	8013413
+8013414	往生咒	\N	wǎngshēngzhòu	The Pure Land Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '往生咒'; Wikipedia '往生咒')	8013414
+8013415	四甘露咒	\N	sì gānlù zhòu	The Pure Land Dharani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 往生咒 (FGDB '往生咒')	8013415
+8013416	芳	\N	fāng	excellent; praṇīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇīta, Pali: paṇīta, Japanese: hou (BCSD '芳', p. 1008; Edgerton 1953 'praṇīta', p. 360; MW 'praṇīta'; Unihan '芳')	8013416
+8013417	具寿命	具壽命	jùshòumìng	friend; brother	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 慧命 (FGDB '慧命')	8013417
+8013418	法印	\N	fǎyìn	hōin	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A Japanese monastic position (FGDB '法印'; Matsuo 2007, p. 20)	8013418
+8013419	芽	\N	yá	a sprout; aṅkura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅkura, Japanese: ga, or: ge (BCSD '芽', p. 1008; MW 'aṅkura'; Unihan '芽')	8013419
+8013420	卖俏	賣俏	màiqiào	to show off good looks	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '賣俏'; Mathews 1931 '賣俏', p. 103)	8013420
+8013421	洁斋	潔齋	jiézhāi	to purify through abstinence	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '潔齋'; SH '潔齋', p. 439)	8013421
+8013422	芿	\N	rèng	wild grass	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: jou, or: nyou (BCSD '芿', p. 1009; Unihan '芿')	8013422
+8013423	监斋使者	監齋使者	jiànzhāi shǐzhě	to protect vegetarian food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '監齋使者')	8013423
+8013424	罢讲斋	罷講齋	bà jiǎng zhāi	to finish teaching and provide food for the monastic community	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '罷講齋')	8013424
+8013425	苑	\N	yuàn	park; udyāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udyānam, Japanese: en, or: utsu, Tibetan: skyed mo'i tshal (BCSD '苑', p. 1009; Mahāvyutpatti 'udyānam'; MW 'udyāna'; SH '苑', p. 313; Unihan '苑')	8013425
+8013426	临斋	臨齋	lín zhāi	time for midday meal	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '臨齋'; SH '臨齋', p. 462)	8013426
+8013427	绣佛	繡佛	xiù fó	embroidered images of the Buddha or a mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '繡佛'; FGDB '繡佛'; SH '繡佛', p. 466)	8013427
+8013428	苗	\N	miáo	a sprout; aṅkura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅkura, Japanese: myou (BCSD '苗', p. 1009; MW 'aṅkura'; Unihan '苗')	8013428
+8013429	九十七种圆相	九十七種圓相	jiǔshíqī zhǒng yuán xiāng	ninety seven attributes of perfection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '九十七種圓相')	8013429
+8013430	十圆满	十圓滿	shí yuánmǎn	ten perfect teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十圓滿')	8013430
+8013431	苞	\N	bāo	a flower bud; mañjarī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mañjarī, Japanese: myou (BCSD '苞', p. 1009; Mahāvyutpatti 'mañjarī'; MW 'mañjarī'; Unihan '苞')	8013431
+8013432	绣像	繡像	xiù xiàng	embroidered images of the Buddha or a mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 繡佛 (FGDB '繡佛')	8013432
+8013433	绣帐	繡帳	xiù zhàng	embroidered images of the Buddha or a mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 繡佛 (FGDB '繡佛')	8013433
+8013434	苟	\N	gǒu	a kind of grass	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kou, or: ku (BCSD '苟', p. 1009; Unihan '苟')	8013434
+8013435	缝佛	縫佛	fèng fó	embroidered images of the Buddha or a mandala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 繡佛 (FGDB '繡佛')	8013435
+8013436	见地	見地	jiàndì	stage of insight; darśanabhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: darśanabhūmi; fourth of the 十地 ten stages according to the Tiantai classification (BL 'daśabhūmi', p. 219; FGDB '見地'; Ichishima and Chappell 2013, p. 187; SH '十地', p. 47; T 1931)	8013436
+8013437	苣	\N	qǔ	a kind of lettuce	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyo, or: go (BCSD '苣', p. 1009; Unihan '苣')	8013437
+8013438	薄地	\N	báodì	stage of diminished [defilements]; tanūbhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tanūbhūmi; fifth of the 十地 ten stages according to the Tiantai classification (BL 'daśabhūmi', p. 219; FGDB '薄地'; Ichishima and Chappell 2013, p. 187; SH '十地', p. 47; T 1931)	8013438
+8013439	微欲地	\N	wēiyùdì	stage of less desire	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 薄地 (FGDB '十地')	8013439
+8013440	苫	\N	shān	thatch	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '苫', p. 1013; Unihan '苫')	8013440
+8013441	种地	種地	zhòngdì	lineage stage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 性地 (FGDB '種性地')	8013441
+8013442	八人地	\N	bāréndì	stage of eight acquiescences; aṣṭamakabhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṣṭamakabhūmi; third of the 十地 ten stages according to the Tiantai classification (BL 'daśabhūmi', p. 219; FGDB '八人地'; Ichishima and Chappell 2013, p. 186; SH '十地', p. 47; T 1931)	8013442
+8013443	英	\N	yīng	a learned man; medhāvin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ei (BCSD '苫', p. 1013; Unihan '英')	8013443
+8013444	离贪地	離貪地	lítāndì	stage of freedom from desire	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 離欲地 (FGDB '十地')	8013444
+8013445	已办地	已辦地	yǐbàndì	stage of complete discrimination; kṛtāvibhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛtāvibhūmi; the seventh of the 十地 ten stages according to the Tiantai classification (BL 'daśabhūmi', p. 219; FGDB '已作地'; Ichishima and Chappell 2013, p. 186; SH '十地', p. 47; T 1931)	8013445
+8013446	苷	\N	gān	licorice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kan, or: kon (BCSD '苫', p. 1013; Unihan '苷')	8013446
+8013447	已作地	\N	yǐzuòdì	stage of complete discrimination; kṛtāvibhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 已辦地 (FGDB '已作地')	8013447
+8013448	作辨地	\N	zuòbiàndì	stage of complete discrimination; kṛtāvibhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 已辦地 (FGDB '已作地')	8013448
+8013449	苽	\N	gū	a kind of plant; bilva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bilva, Japanese: ko (BCSD '苽', p. 1013; MW 'bilva'; Unihan '苽')	8013449
+8013450	辟支佛地	\N	pìzhīfódì	stage of pratyekabuddha; pratyekabuddhabhūmi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyekabuddhabhūmi; the eighth of the 十地 ten stages according to the Tiantai classification (BL 'daśabhūmi', p. 219; FGDB '十地'; Ichishima and Chappell 2013, p. 187; SH '十地', p. 47; T 1931)	8013450
+8013451	起行	\N	qǐ xíng	to start out	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For a future life (Ding '起行'; FGDB '起行'; SH '起行', p. 339)	8013451
+8013452	苾	\N	bì	fragrant; aromatic	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hitsu, or: bichi, or: hetsu (BCSD '苾', p. 1013; Unihan '苾')	8013452
+8013453	铁眼藏	鐵眼藏	tiěyǎn zàng	Tegen Canon	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	An early Japanese Canon printed in the period 1669-1681 (FGDB '鐵眼藏'; Hsing Yun and Miao Guang trans. 2016, p. 374)	8013453
+8013454	三惑	\N	sān huò	three delusions	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the Tiantai classification, namely, 1. 見思惑 delusion from imperfect perception, 2. 塵沙惑 delusion from temptation, and 3. 無明惑 delusion from failure to understand (FGDB '三惑'; SH '三惑', p. 65)	8013454
+8013455	茂	\N	mào	to flourish; ruh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ruh, Japanese: mo, or: bou (BCSD '茂', p. 1014; MW 'ruh'; Unihan '茂')	8013455
+8013456	尘沙惑	塵沙惑	chén shā huò	delusion from temptation	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	One of the 三惑 three delusions (FGDB '塵沙惑'; SH '三惑', p. 65)	8013456
+8013457	谑谑婆地狱	謔謔婆地獄	xuèxuèpó dìyù	Ababa Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波波地獄 (FGDB '阿波波地獄')	8013457
+8013458	谑谑婆	謔謔婆	xuèxuèpó	Ababa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波波地獄 (FGDB '阿波波地獄')	8013458

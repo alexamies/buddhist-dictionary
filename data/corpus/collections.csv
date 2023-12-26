@@ -170,8 +170,8 @@ taisho/t0163.csv	taisho/t0163.html	Miao Se Wang Yinyuan Jing妙色王因緣經	T
 taisho/t0164.csv	taisho/t0164.html	Shizi Su Duo Wang Duan Rou Jing師子素馱娑王斷肉經	Translated by Zhiyan in 1 scroll	taisho/t0164_00.txt	Taishō	Sūtra	721	jātaka
 taisho/t0165.csv	taisho/t0165.html	Ding Sheng Wang Yinyuan Jing (Mandhātāvadāna) 頂生王因緣經	Translated by Dānapāla in 6 scrolls	taisho/t0165_00.txt	Taishō	Sūtra	1016-1017	avadāna
 taisho/t0166.csv	taisho/t0166.html	Candraprabhabodhisattvacaryāvadāna 月光菩薩經	Translated by Faxian in 1 scroll	taisho/t0166_00.txt	Taishō	Sūtra	989-999	avadāna
-taisho/t0167.csv	taisho/t0167.html	Taizi Mupo Jing 太子慕魄經	Translated by An Shigao in 1 scroll	taisho/t0167_00.txt	Taishō	Sūtra	148-170	avadāna
-taisho/t0168.csv	taisho/t0168.html	Taizi Mupo Jing 太子慕魄經	Translated by Dharmarakṣa in 1 scroll	taisho/t0168_00.txt	Taishō	Sūtra	265-313	avadāna
+taisho/t0167.csv	taisho/t0167.html	Prince Mūka Sūtra (Taizi Mupo Jing) 太子慕魄經	Translated by An Shigao in 1 scroll	taisho/t0167_00.txt	Taishō	Sūtra	148-170	avadāna
+taisho/t0168.csv	taisho/t0168.html	Prince Mūka Sūtra (Taizi Mupo Jing) 太子慕魄經	Translated by Dharmarakṣa in 1 scroll	taisho/t0168_00.txt	Taishō	Sūtra	265-313	avadāna
 taisho/t0169.csv	taisho/t0169.html	Yueming Pusa Jing (Candraprabhabodhisattva) 月明菩薩經	Translated by Zhi Qian in 1 scroll	taisho/t0169_00.txt	Taishō	Sūtra	223-253	avadāna
 taisho/t0170.csv	taisho/t0170.html	Sutra on Prince Punyarasmi (De Guang Taizi Jing) 德光太子經	Translated by Dharmarakṣa in 1 scroll	taisho/t0170_00.txt	Taishō	Sūtra	270	jātaka
 taisho/t0171.csv	taisho/t0171.html	Prince Sudana Sutra 太子須大拏經	Translated by Shengjian in 1 scroll	taisho/t0171_00.txt	Taishō	Sūtra	388-409	jātaka
@@ -206,7 +206,7 @@ taisho/t0195.csv	taisho/t0195.html	Shi Er You Jing 佛說十二遊經	Translated
 taisho/t0196.csv	taisho/t0196.html	Sutra on the Life of Śākyamuni (Zhong Benqi Jing) 中本起經	Translated by Tan Guo and Kang Meng Xiang in 2 scrolls	taisho/t0196_00.txt	Taishō	Sūtra	207	jātaka
 taisho/t0197.csv	taisho/t0197.html	Xingqi Xing Jing 佛說興起行經	Translated by Kang Meng Xiang in 2 scrolls	taisho/t0197_00.txt	Taishō	Sūtra	194-199	jātaka
 taisho/t0198.csv	taisho/t0198.html	Yi Zu Jing (Arthavargīyasūtra) 佛說義足經	Translated by Zhi Qian in 2 scrolls	taisho/t0198_00.txt	Taishō	Sūtra	223-253	jātaka
-taisho/t0199.csv	taisho/t0199.html	Fo Wu Bai Dizi Zi Shuo Benqi Jing 佛五百弟子自說本起經	Translated by Dharmarakṣa in 1 scroll	taisho/t0199_00.txt	Taishō	Sūtra	303	jātaka
+taisho/t0199.csv	taisho/t0199.html	Story about Five Hundred Buddha Disciples (Fo Wu Bai Dizi Zi Shuo Benqi Jing) 佛五百弟子自說本起經	Translated by Dharmarakṣa in 1 scroll	taisho/t0199_00.txt	Taishō	Sūtra	303	jātaka
 taisho/t0200.csv	taisho/t0200.html	Zhuanji Bai Yuan Jing (Avadānaśataka) 撰集百緣經	Translated by Zhi Qian in 10 scrolls	taisho/t0200_00.txt	Taishō	Sūtra	223-253	avadāna
 taisho/t0201.csv	taisho/t0201.html	Da Zhuangyan Lun Jing (Kalpanāmaṇḍitikā) 大莊嚴論經	Translated by Kumārajīva in 15 scrolls	taisho/t0201_00.txt	Taishō	Sūtra	402-412	avadāna
 taisho/t0202.csv	taisho/t0202.html	Sutra on the Wise and Foolish (Damamūka) 賢愚經	Translated by Hui Jue in 13 scrolls	taisho/t0202_00.txt	Taishō	Sūtra	445	-
@@ -351,14 +351,14 @@ taisho/t0338.csv	taisho/t0338.html	Vimaladattāparipṛcchā (Li Gou Shi Nu Jing
 taisho/t0339.csv	taisho/t0339.html	Vimaladattāparipṛcchā (De Wu Gou Nu Jing) 得無垢女經	Translated by Gautama Prajñāruci	taisho/t0339_00.txt	Taishō	Sūtra	541	ratnakūṭa
 taisho/t0340.csv	taisho/t0340.html	Acintyabuddhaviṣayanirdeśa (Mañjuśrī speaks the Inconceivable State of Buddhahood Sutra) 文殊師利所說不思議佛境界經	Translated by Bodhiruci	taisho/t0340_00.txt	Taishō	Sūtra	693	ratnakūṭa
 taisho/t0341.csv	taisho/t0341.html	Suṣṭhitamatidevaputraparipṛcchā (Sheng Shan Zhu Yi Tianzi Suo Wen Jing) 聖善住意天子所問經	Translated by Vimokṣaprajñā-ṛṣi and Prajñāruci	taisho/t0341_00.txt	Taishō	Sūtra	541	ratnakūṭa
-taisho/t0342.csv	taisho/t0342.html	Suṣṭhitamatidevaputraparipṛcchā (Ru Huan Sanmei Jing) 如幻三昧經	Translated by Dharmarakṣa	taisho/t0342_00.txt	Taishō	Sūtra	265-313	ratnakūṭa
+taisho/t0342.csv	taisho/t0342.html	Sūtra on Samādhi Like a Dream (Suṣṭhitamatidevaputraparipṛcchā) 如幻三昧經	Translated by Dharmarakṣa	taisho/t0342_00.txt	Taishō	Sūtra	265-313	ratnakūṭa
 taisho/t0343.csv	taisho/t0343.html	Siṃhaparipṛcchā (Taizi Shua Hu Jing) 太子刷護經	Translated by Dharmarakṣa	taisho/t0343_00.txt	Taishō	Sūtra	265-313	ratnakūṭa
 taisho/t0344.csv	taisho/t0344.html	Siṃhaparipṛcchā (Taizi He Xiu Jing) 太子和休經	Translated by Unknown	taisho/t0344_00.txt	Taishō	Sūtra	265-316	ratnakūṭa
 taisho/t0345.csv	taisho/t0345.html	Sūtra on the Questions by Jñānottara Bodhisattva on the Means for Great Good (Jñānottarabodhisattvaparipṛcchā) 慧上菩薩問大善權經	Translated by Dharmarakṣa	taisho/t0345_00.txt	Taishō	Sūtra	285	ratnakūṭa
 taisho/t0346.csv	taisho/t0346.html	Jñānottarabodhisattvaparipṛcchā (Dafangguang Shanqiao Fangbian Jing) 大方廣善巧方便經	Translated by Dānapāla	taisho/t0346_00.txt	Taishō	Sūtra	1005	ratnakūṭa
 taisho/t0347.csv	taisho/t0347.html	Dasheng Xian Shi Jing 大乘顯識經	Translated by Divākara	taisho/t0347_00.txt	Taishō	Sūtra	618-907	ratnakūṭa
 taisho/t0348.csv	taisho/t0348.html	Maitreyaparipṛcchādharmāṣṭa (Dasheng Fangdeng Yao Hui Jing) 大乘方等要慧經	Translated by An Shigao	taisho/t0348_00.txt	Taishō	Sūtra	148-170	ratnakūṭa
-taisho/t0349.csv	taisho/t0349.html	Maitreyaparipṛcchā (Mile Pusa Suo Wen Benyuan Jing) 彌勒菩薩所問本願經	Translated by Dharmarakṣa	taisho/t0349_00.txt	Taishō	Sūtra	303	ratnakūṭa
+taisho/t0349.csv	taisho/t0349.html	Questions of Maitreya (Maitreyaparipṛcchā) 彌勒菩薩所問本願經	Translated by Dharmarakṣa	taisho/t0349_00.txt	Taishō	Sūtra	303	ratnakūṭa
 taisho/t0350.csv	taisho/t0350.html	Kāśyapaparivarta (Yi Ri Monibao Jing) 遺日摩尼寶經	Translated by Lokakṣema	taisho/t0350_00.txt	Taishō	Sūtra	179	ratnakūṭa
 taisho/t0351.csv	taisho/t0351.html	Kāśyapaparivarta (Moheyan Bao Yan Jing) 摩訶衍寶嚴經	Translated by Unknown	taisho/t0351_00.txt	Taishō	Sūtra	265-420	ratnakūṭa
 taisho/t0352.csv	taisho/t0352.html	Kāśyapaparivarta (Dajiaye Wen Dabao Ji Zhengfa Jing) 大迦葉問大寶積正法經	Translated by Dānapāla	taisho/t0352_00.txt	Taishō	Sūtra	985	ratnakūṭa
@@ -787,7 +787,7 @@ taisho/t0766.csv	taisho/t0766.html	Dharmaśarīrasūtra (Fo Shuo Fashen Jing) �
 taisho/t0767.csv	taisho/t0767.html	Fo Shuo San Pin Dizi Jing 佛說三品弟子經	Translated by Zhi Qian	taisho/t0767_00.txt	Taishō	Sūtra	223-253	jingji
 taisho/t0768.csv	taisho/t0768.html	San Hui Jing 三慧經	Translated by Unknown	taisho/t0768_00.txt	Taishō	Sūtra	397-439	jingji
 taisho/t0769.csv	taisho/t0769.html	Fo Shuo Si Bei Jing 佛說四輩經	Translated by Dharmarakṣa	taisho/t0769_00.txt	Taishō	Sūtra	266-313	jingji
-taisho/t0770.csv	taisho/t0770.html	Fo Shuo Si Bu Ke De Jing 佛說四不可得經	Translated by Dharmarakṣa	taisho/t0770_00.txt	Taishō	Sūtra	266-313	jingji
+taisho/t0770.csv	taisho/t0770.html	Sūtra on the Four Unattainable Things (Fo Shuo Si Bu Ke De Jing) 佛說四不可得經	Translated by Dharmarakṣa	taisho/t0770_00.txt	Taishō	Sūtra	266-313	jingji
 taisho/t0771.csv	taisho/t0771.html	Si Pin Xue Fa Jing 四品學法經	Translated by Guṇabhadra	taisho/t0771_00.txt	Taishō	Sūtra	435-443	jingji
 taisho/t0772.csv	taisho/t0772.html	Caturdharmakasūtra (Dasheng Si Fa Jing) 大乘四法經	Translated by Divākara	taisho/t0772_00.txt	Taishō	Sūtra	680	jingji
 taisho/t0773.csv	taisho/t0773.html	Caturdharmakasūtra (Fo Shuo Pusa Xiuxing Si Fa Jing) 佛說菩薩修行四法經	Translated by Divākara	taisho/t0773_00.txt	Taishō	Sūtra	681	jingji
