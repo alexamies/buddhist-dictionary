@@ -13387,12 +13387,12 @@
 8013387	喜足天	\N	xǐzútiān	Tuṣita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (FGDB '兜率天')	8013387
 8013388	艾	\N	ài	mugwort	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: gai, or: gei (BCSD '艾', p. 1007; Unihan '艾')	8013388
 8013389	喜乐天	喜樂天	xǐlètiān	Tuṣita Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 兜率天 (FGDB '兜率天')	8013389
-8013390	尼摩罗天	尼摩羅天	nímóluótiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013390
+8013390	尼摩罗天	尼摩羅天	nímóluótiān	Nirmanarati heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇarati; see 化樂天 (FGDB '化樂天')	8013390
 8013391	芋	\N	yù	taro	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stamba, Japanese: u (BCSD '艾', p. 1007; MW 'stamba'; Unihan '芋')	8013391
-8013392	维那罗泥天	維那羅泥天	wéinàluónítiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013392
-8013393	化自在天	\N	huàzìzàitiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013393
+8013392	维那罗泥天	維那羅泥天	wéinàluónítiān	Nirmanarati heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇarati; see 化樂天 (FGDB '化樂天')	8013392
+8013393	化自在天	\N	huàzìzàitiān	Nirmanarati heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇarati; see 化樂天 (BCSD '化自在天', p. 213; FGDB '化樂天')	8013393
 8013394	芎	\N	xiōng	chuanxiong rhizome	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyū, or: ku (BCSD '芎', p. 1007; Unihan '芎')	8013394
-8013395	化自乐天	化自樂天	huàzìlètiān	Nirmanarati Heaven; Nirmāṇarati Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '化樂天')	8013395
+8013395	化自乐天	化自樂天	huàzìlètiān	Nirmanarati heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirmāṇarati; see 化樂天 (BCSD '化自樂天', p. 213; FGDB '化樂天')	8013395
 8013396	伝灯大法师	伝灯大法師	yúndēngdàfǎshī	dentō dai-hoshi	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013396
 8013397	芒	\N	máng	Chinese silver grass	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bou, or: mou, or: kou (BCSD '芒', p. 1007; Unihan '芒')	8013397
 8013398	法桥	法橋	fǎqiáo	hokkyō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013398
@@ -13456,3 +13456,16 @@
 8013456	尘沙惑	塵沙惑	chén shā huò	delusion from temptation	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	One of the 三惑 three delusions (FGDB '塵沙惑'; SH '三惑', p. 65)	8013456
 8013457	谑谑婆地狱	謔謔婆地獄	xuèxuèpó dìyù	Ababa Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波波地獄 (FGDB '阿波波地獄')	8013457
 8013458	谑谑婆	謔謔婆	xuèxuèpó	Ababa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波波地獄 (FGDB '阿波波地獄')	8013458
+8013459	茅	\N	máo	thatch; kuśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśa, Japanese: bou, or: myou (BCSD '茅', p. 1014; MW 'kuśa'; Unihan '茅')	8013459
+8013460	无明惑	無明惑	wú míng huò	delusion from failure to understand	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三惑 three delusions (FGDB '無明惑'; SH '三惑', p. 65)	8013460
+8013461	通惑	\N	tōng huò	common delusions; all-pervading delusions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '通惑'; Ichishima and Chappell 2013, p. 176; SH '通惑', p. 365; T 1931)	8013461
+8013462	茲	\N	cí	this; etad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: etad, Japanese: ji, or: shi (BCSD '茲', p. 1014; MW 'etad'; Unihan '茲')	8013462
+8013463	界内惑	界內惑	jiènèi huò	delusion within the three realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '界內惑'; Ichishima and Chappell 2013, p. 176; SH '界內惑', p. 309; T 1931)	8013463
+8013464	十使	\N	shí shǐ	ten messengers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十隨眠 (BL, p. 1084; FGDB '十隨眠'; SH '十使', p. 45)	8013464
+8013465	茵	\N	yīn	a cushion; a mattress	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: in (BCSD '茵', p. 1014; Unihan '茵')	8013465
+8013466	十随眠	十隨眠	shí suímián	ten unwholesome mental states	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 1. desire, 2. hate, 3. stupidity, 4. pride, 5. doubt, 6. view of a self, 7. extreme views, 8. heterodox views, 9. rigid views, 10. attachment to rituals (BL, p. 1084; FGDB '十隨眠'; SH '十使', p. 45)	8013466
+8013467	根本烦恼	根本煩惱	gēnběn fánnǎo	basic afflictions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūlakleśa, Japanese: konpon bonnō; see 十隨眠 ten unwholesome mental states (BL 'mūlakleśa', p. 553; FGDB '根本煩惱'; SH '根本煩惱', p. 51)	8013467
+8013468	茶	\N	chá	tea	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: cha, or: sa, or: ta (BCSD '茶', p. 1014; SH '茶', p. 338; Unihan '茶')	8013468
+8013469	思惑	\N	sīhuò	a delusion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shiwaku (BL 'sihuo', p. 818; FGDB '思惑'; SH '思惑', p. 302)	8013469
+8013470	八十一品思惑	\N	bāshíyī pǐn sīhuò	eighty-one kinds of delusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Desire, anger, etc with nine degress in each of nine realms - 欲界 realm of desire, etc (BL 'sihuo', p. 818; FGDB ' 九地九品思惑'; SH '八十一品思惑', p. 34)	8013470
+8013471	荆	荊	jīng	thorn; kaṇṭaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇṭaka, Japanese: cha, or: sa, or: ta (BCSD '荊', p. 1014; Edgerton 1953 'kaṇṭaka', p. 165; MW 'kaṇṭaka'; SH '荆', p. 338; Unihan '荊')	8013471
