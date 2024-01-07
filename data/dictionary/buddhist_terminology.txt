@@ -3081,7 +3081,7 @@
 8003081	六字真言	\N	liù Zì Zhēnyán	Mantra of Six Syllables; Om mani padme hum	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: oṃ maṇi padme hūṃ, Chinese transliteration: 嗡嘛呢叭咩吽, also known as the six syllabled mantra (FGDB '轉經筒'; Tzu Chuang 2012)	8003081
 8003082	毫相	\N	háoxiāng	urna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūrṇā; see 白毫相 (FGDB '白毫相')	8003082
 8003083	虚	虛	xū	false; mithya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithyā (BCSD '虛', p. 1034; MW 'mithyā')	8003083
-8003084	虚	虛	xū	empty; in vain; tuccha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuccha, Tibetan: gsog (BCSD '虛', p. 1034; MW 'mithyā')	8003083
+8003084	虚	虛	xū	empty; in vain; tuccha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tuccha (BCSD '虛', p. 1034; MW 'tuccha')	8003083
 8003085	虚空	虛空	xūkōng	the sky; gagana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gagana, Tibetan: nam mkha' (BCSD '虛空', p. 1034; Mahāvyutpatti 'gaganam'; MW 'gagana')	8003085
 8003086	虚空	虛空	xūkōng	space; ākāśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākāśa, Tibetan: nam mkha;'; as in empty space or spatiality, an unconditioned dharma and one of the 百法 one hundred dharmas of Yogācāra (BCSD '虛空', p. 1034; Edgerton 1953 'ākāśa', p. 87; FGDB '虛空';  Lusthaus 2002, p. 545; Mahāvyutpatti 'ākāśam'; MW 'ākāśa'; SH '虛空', p. 389)	8003085
 8003087	清净	清淨	qīngjìng	pure; cleansed; purified of defiling illusion; visuddhi	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śuddha, or: viśuddhi, or: pariśuddha, Pali: suddha, or: visuddha, or: parisuddha, Japanese: shōjō, Tibetan: rnam par dag pa (BCSD '清淨', p. 734; BL 'viśuddhi', p. 982; FGDB '清淨'; Guoyu '清淨' 3; MW 'śuddha')	8003087
@@ -7200,7 +7200,7 @@
 8007200	成就法	\N	chéngjiù fǎ	sadhana; sādhana	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: sādhana, Japanese: jōjuhō, Tibetan: sgrub thabs; a tantric ritual technique (BL 'sādhana', p. 732; FGDB '成就法'; SH '四種檀法', p. 180)	8007200
 8007201	咳	\N	ké	to cough； utkāsana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utkāsana, Japanese: gai (BCSD '咳', p. 253; MW 'utkāsana'; Unihan '咳')	8007201
 8007202	眞言	\N	zhēnyán	mantra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 真言 (BL 'mantra', p. 529)	8007202
-8007203	咸	\N	xián	full; bharita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bharita, Japanese: kan, or: gen (BCSD '咸', p. 253; MW 'bharita'; Unihan '咸')	8007203
+8007203	咸	鹹	xián	full; bharita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bharita,, or: lavaṇa Japanese: kan, or: gen (BCSD '咸', p. 253; BCSD '鹹', p. 1295; MW 'bharita'; Unihan '咸')	8007203
 8007204	唵嘛呢叭弥吽	唵嘛呢叭彌吽	ǎn ma ne bā mí hōng	oṃ maṇ i padme hūṃ	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit eqiuvalent: oṃ maṇ i padme hūṃ, Japanese: on mani padomei un; a mantra with superficial meaning 'homage to the jewel in the lotus,'' but also with deeper levels of meaning (BL 'oṃ maṇ i padme hūṃ', p. 603; FGDB '唵嘛呢叭彌吽'; Powell 2007, p. 265)	8007204
 8007205	三昧耶	\N	sānmèiyé	samaya; vow	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: samaya; see 三摩耶 (FGDB '三昧耶')	8007205
 8007206	縒么野	縒麼野	cīmayě	samaya; vow	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: samaya; see 三摩耶 (FGDB '三昧耶')	8007206
@@ -13728,5 +13728,19 @@
 8013728	虎	\N	hǔ	tiger; vyāghra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāghra, or: śārdūla, Japanese: ko, Tibetan: stag (BCSD '虎', p. 1032; Mahāvyutpatti 'śārdūlaḥ'; MW 'vyāghra'; SH '虎', p. 280; Unihan '虎')	8013728
 8013729	摩诃室利	摩訶室利	móhēshìlì	Mahādevī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahādevī; see 吉祥天女 (FGDB '吉祥天')	8013729
 8013730	室唎天女	\N	shìlì tiānnǚ	Śrīmahādevī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīmahādevī; see 吉祥天女 (FGDB '吉祥天')	8013730
-8013731	吉祥功德天	\N	jíxiánggōngdétiān	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; see 吉祥天女 (FGDB '吉祥天')	8013731
+8013731	吉祥功德天	\N	jíxiáng gōngdé tiān	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; see 吉祥天女 (FGDB '吉祥天')	8013731
 8013732	弭也竭罗	弭也竭羅	mǐyějiéluó	tiger; vyāghra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāghra; see 虎 (SH '虎', p. 280)	8013732
+8013733	虐	\N	nüè	gaḥ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaḥ, Japanese: gyaku (BCSD '虐', p. 1032; Unihan '虐')	8013733
+8013734	迦絺吉夜	\N	jiāchījíyè	Kārttikeya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kārttikeya; also known as 韋馱天 Skanda (FGDB '韋馱天'; MW 'kārttikeya')	8013734
+8013735	咸海	鹹海	xián hǎi	the ocean; lavaṇodaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lavaṇodaka, Tibetan: tshwa mtsho , or: rgya mtsho (BCSD '鹹海', p. 1296; Mahāvyutpatti 'lavaṇodakaḥ'; MW 'lavaṇodaka')	8013735
+8013736	虔	\N	qián	devout	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ken (BCSD '虔', p. 1032; Unihan '虔')	8013736
+8013737	戒﨟	\N	jièlà	Dharma year; years since ordination	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法臘 (FGDB '法臘')	8013737
+8013738	龟藏六	龜藏六	guī cáng liù	a turtle has six hiding places	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to a simile in the Dharmapada comparing the six sense organs to the turte's retraction of head, legs, and tail within its shell (Ding '藏六'; FGDB '龜藏六')	8013738
+8013739	虞	\N	yú	anxious	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: gu (BCSD '虞', p. 1035; Unihan '虞')	8013739
+8013740	金地	\N	jīndì	Buddhist temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '金地'; SH '金地')	8013740
+8013741	金田	\N	jīntián	Buddhist temple	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金地 (Ding '金地')	8013741
+8013742	号	號	hào	named; nāma	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nāma, Japanese: gou, or: kou (BCSD '號', p. 1035; MW 'nāma'; Unihan '號')	8013742
+8013743	摩诃卢	摩訶盧	móhēlú	Mahāroṣaṇa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 大日經疏 'Commentary on the Vairocana Sutra' (Ding '摩訶盧')	8013743
+8013744	金刚女	金剛女	jīngāngnǚ	vajra-devī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajradevī (BCSD '金剛女', p. 1181)	8013744
+8013745	亏	虧	kuī	to lose	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ki (BCSD '虧', p. 1035; Unihan '虧')	8013745
+8013746	金身	\N	jīnshēn	golden body	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially a gold statue of the Buddha (Ding '金身'; Guoyu '金身'; SH '金身', p. 284)	8013746
