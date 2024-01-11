@@ -5152,7 +5152,7 @@
 8005152	眞性	\N	zhēnxìng	true nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 真性 (FGDB '真性')	8005152
 8005153	德本	\N	déběn	virtuous roots; wholesome roots; kuśalamūla	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalamūla, Pali: kusalamūla. There are different enumerations of wholesome roots. One is (1) alobha 'nongreed,' (2) adveṣa 'nonhatred,' and (3) nondelusion 'amoha.' (BL 'kuśalamūla'; FGDB '善根')	8005153
 8005154	投地礼	投地禮	tóu dì lǐ	to prostrate oneself on the ground	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 五體投地 (FGDB '五體投地')	8005154
-8005155	中论	中論	zhōng lùn	Mūlamadhyamakakārikā; Fundamental Verses on the Middle Way; Knowledge of the Middle Way; Mulamadhyamakakarika; madhyamakasastra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūlamadhyamakakārikā, or madhyamakaśāstra, Japanese: Chūron; the Mūlamadhyamakakārikā is a key text in Mahāyāna Buddhism attributed to 龍樹 Nāgārjuna. The Chinese version includes Piṅgala's commentary (BL 'Mūlamadhyamakakārikā'; FGDB '中論'; KDC 577; T 1564).	8005155
+8005155	中论	中論	zhōng lùn	Mūlamadhyamakakārikā; Fundamental Verses on the Middle Way; Knowledge of the Middle Way; Mulamadhyamakakarika; madhyamakasastra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūlamadhyamakakārikā, or madhyamakaśāstra, Japanese: Chūron; the Mūlamadhyamakakārikā is a key text in Mahāyāna Buddhism attributed to 龍樹 Nāgārjuna. The Chinese version includes Piṅgala's commentary. (BL 'Mūlamadhyamakakārikā'; FGDB '中論'; Siderits and Shōryū 2013, p. 1; KDC 577; T 1564)	8005155
 8005156	嚫金	\N	chènjīn	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From practicing charity (SH '嚫', p. 470)	8005156
 8005157	本文	\N	běnwén	textual composition; grantha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: grantha (BCSD '本文', p. 643; Mahāvyutpatti 'granthaḥ'; MW 'grantha')	8005157
 8005158	嚫钱	嚫錢	chènqián	a gift; a donation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	From practicing charity (SH '嚫', p. 470)	8005158
@@ -13755,3 +13755,7 @@
 8013755	三等	\N	sān děng	three equals	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Namely, (a) 身 body, (b) 語 discourse, and (c) 意 mind (Ding '三等'; FGDB '三等'; SH '三等', p. 74)	8013755
 8013756	三平等	\N	sān píngděng	three equals	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 三等 (FGDB '三等')	8013756
 8013757	蚋	\N	ruì	a mosquito; maśaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maśaka, Japanese: zei (BCSD '蚋', p. 1036; MW 'maśaka'; Unihan '蚋')	8013757
+8013758	他化自转天	他化自轉天	tāhuàzìzhuǎntiān	Paranirmita-Vasavartin Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他化自在天 (FGDB '他化自在天')	8013758
+8013759	化应声天	化應聲天	huàyīngshēngtiān	Paranirmita-Vasavartin Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他化自在天 (FGDB '他化自在天')	8013759
+8013760	蚌	\N	bàng	oyster; śukti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śukti, Japanese: hou, or: bou, Tibetan: nya phyis (BCSD '蚌', p. 1036; Mahāvyutpatti 'śuktiḥ'; MW 'śukti'; Unihan '蚌')	8013760
+8013761	他化天	\N	tāhuàtiān	Paranirmita-Vasavartin Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他化自在天 (FGDB '他化自在天')	8013761
