@@ -993,7 +993,7 @@
 8000993	起信	\N	qǐ xìn	the awakening of faith	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As in 起信論 Awakening of Faith; see 大乘起信論 (FGDB '大乘起信論'; T 1666; T 1667)	8000993
 8000994	大乘起信论	大乘起信論	dàshèng qǐxìn lùn	Treatise on the Awakening of Faith in the Mahāyāna; Dasheng Qixin Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Reconstructed Sanskrit equivalent: Mahāyānaśraddhotpādaśāstra; Japanese: Daijō kishiron; the title of a text in the Chinese Buddhist canon, attributed to 馬鳴 Aśvaghoṣa but now thought to be composed in China. There are two Chinese translations in the Chinese Buddhist canon, T 1666 by 真諦 Paramārtha in the Liang and T 1667 by Śiksānanda in the Tang (BL 'Dasheng qixin lun'; FGDB '大乘起信論'; KDC 616; T 1666; T 1667)	8000994
 8000995	折伏	\N	zhéfú	to refute	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in the 折伏有因論 'to refute doctrines of causation' (Red Pine 2012, loc. 4299; T 670.0507b26)	8000995
-8000996	色界	\N	sè jiè	realm of form; rupadhatu	phrase	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rūpadhātu, Pali: rūpadhātu, Japanese: shikikai, Tibetan: gzugs kyi khams; one of the three realms 三界之一 (BL 'rūpadhātu'; Ding '色界'; FGDB '色界'; Mahāvyutpatti 'rūpadhātuḥ'; SH '色界', p. 220)	8000996
+8000996	色界	\N	sè jiè	realm of form; rupadhatu	phrase	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rūpadhātu, Pali: rūpadhātu, Japanese: shikikai, Tibetan: gzugs kyi khams; one of the three realms 三界之一 (BCSD '色界', p. 1006; BL 'rūpadhātu'; Ding '色界'; FGDB '色界'; Mahāvyutpatti 'rūpadhātuḥ'; SH '色界', p. 220)	8000996
 8000997	无色界	無色界	wúsè jiè	formless realm; arupyadhatu	phrase	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārūpyadhātu [alternate: ārūpadhātu], Pali: ārūpyadhātu, Japanese: mushikikai, Tibetan: gzugs med pa'i khams; one of the three realms 三界之一 (BL 'ārūpyadhātu'; Ding '無色界'; FGDB '無色界'; SH '無色界', p. 382; Mahāvyutpatti 'arūpadhātuḥ'; Sharf 2005, p. 186)	8000997
 8000998	有身见	有身見	yǒushēnjiàn	the view or belief in a true self; satkāyadṛṣṭi; sakkāyadiṭṭhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: satkāyadṛṣṭi, Pali: sakkāyadiṭṭhi, Japanese: ushinken, Tibetan: 'jig tshogs la lta ba; one of the 五下分結 'five lower fetters' and 五見 'five wrong views' (BL 'satkāyadṛṣti', p. 787; FGDB '有身見'; Powers 2007, p. 69)	8000998
 8000999	边见	邊見	biānjiàn	extreme views; antagrahadrsti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: antagrāhadṛṣṭi; Japanese: henken, Tibetan: mthar 'dzin gyi lta ba (BL 'antagrāhadṛṣṭi'; SH '邊見', p. 474)	8000999
@@ -3386,7 +3386,7 @@
 8003386	五转与四重圆坛	五轉與四重圓壇	wǔ zhuǎn yǔ sì zhòng yuán tán	five turnings and Garbhadhātu maṇḍala	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A teaching in Esoteric Buddhism (FGDB '五轉與四重圓壇')	8003386
 8003387	净眼	淨眼	jìng yǎn	pure eyes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Eyes that understand with enlightened wisdom (Ding '淨眼'; SH '淨眼', p. 349)	8003387
 8003388	净眼	淨眼	jìng yǎn	Vimalanetra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無垢眼 (Ding '淨眼'; SH '淨眼', p. 349)	8003387
-8003389	天众	天眾	tiān zhòng	devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天')	8003389
+8003389	天众	天眾	tiān zhòng	devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '天眾'; FGDB '天'; SH '天眾', p. 147)	8003389
 8003390	佛法僧	\N	Fó Fǎ Sēng	the Buddha, the Dharma, and the Sangha; the Triple Gem; the three treasures of Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FE '佛法僧'; FGDB '三寶')	8003390
 8003391	十戒	\N	shí jiè	ten precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For Buddhist novice monks and nuns (Ding '十戒'; FGDB '十戒'; SH '十戒')	8003391
 8003392	具足	\N	jùzú	complete; accomplished	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sampad, or: paripūrita, or: upasaṃpat, or: samagra, Tibetan: mthun pa; see also 具備滿足 (BCSD '具足', p. 141; Dhammajoti 2013, p. 38; Ding '具足'; FGDB '具足'; Karashima 2001 '具足'; Mahāvyutpatti 'samagraḥ'; MW 'samagra'; SH '具足', p. 250)	8003392
@@ -8354,7 +8354,7 @@
 8008354	弄	\N	nòng	to jest; bhaṇḍ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parivarta, Japanese: rou (BCSD '弄', p. 433; MW 'bhaṇḍ'; Unihan '弄')	8008354
 8008355	八除入	\N	bāchúrù	eight abodes of superiority; eight stations of mastery; eight abhibhāyatana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八勝處 (FGDB '八勝處')	8008355
 8008356	八除处	八除處	bāchúchù	eight abodes of superiority; eight stations of mastery; eight abhibhāyatana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八勝處 (FGDB '八勝處')	8008356
-8008357	戏论	戲論	xì lùn	meaningless talk; frivolous discourse; mutual false praise; inflated conceptualization; prapañca; prapanca; papañca	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prapañca, Pali: papañca, Japanese: keron (BL 'prapañca'; Ding '戲論'; FGDB '戲論'; MW 'prapañca'; SH '戲論')	8008357
+8008357	戏论	戲論	xì lùn	meaningless talk; frivolous discourse; mutual false praise; inflated conceptualization; hypostatization; prapañca	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prapañca, Pali: papañca, Japanese: keron (BL 'prapañca'; Ding '戲論'; FGDB '戲論'; MW 'prapañca'; SH '戲論'; Siderits and Katsura 2013, pp. 13-15)	8008357
 8008358	知见	知見	zhījiàn	to know by seeing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '知見'; FGDB '知見'; SH '知見')	8008358
 8008359	圣人	聖人	shèngrén	sage; ārya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārya, or: āryapudgala (Dhammajoti 2013, p. 8; FGDB '聖人'; Guoyu '聖人' 4; MW 'ārya'; SH '聖人', p. 410)	8008359
 8008360	如实知	如實知	rúshízhī	understanding of thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '如實知'; SH '如實知者', p. 221)	8008360
@@ -9575,7 +9575,7 @@
 8009575	早	\N	zǎo	morning; pūrvāhṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrvāhṇa, Japanese: sou, or: satsu, Tibetan: snga dro (BCSD '早', p. 595; Mahāvyutpatti 'pūrvāhṇaḥ'; MW 'pūrvāhṇa'; SH '早', p. 213; Unihan '早')	8009575
 8009576	色声	色聲	sè shēng	the visible and the audible	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two of the 五塵 'objects of the five senses' (Ding '色聲'; SH '色聲', p. 221)	8009576
 8009577	体用	體用	tǐyòng	the substance of an entity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In contrast with 作用 its use (Ding '體用'; FGDB '體用'; SH '體用', p. 488)	8009577
-8009578	四缘	四緣	sìyuán	the four conditions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāra pratyayā, Tibetan: rkyen bzhi'i ming la; these are different in the Pali and Mahayana canons. In the Pali canon the four conditions are: (1) 因緣 hetupratyaya 'causal condition', (2) 等無間緣 samanantarapratyaya 'immediately antecedent condition', (3) 所緣緣 ālambanapratyaya ''observed object condition, and (4) 增上緣 adhipatipratyaya 'predominant condition' (BL 'pratyaya'; Ding '四緣'; FGDB '四緣'; Mahāvyutpatti 'catvāraḥ pratyayāḥ')	8009578
+8009578	四缘	四緣	sì yuán	the four conditions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāra pratyayā, Tibetan: rkyen bzhi'i ming la; these are different in the Pali and Mahayana canons. In the Pali canon the four conditions are: (1) 因緣 hetupratyaya 'causal condition', (2) 等無間緣 samanantarapratyaya 'immediately antecedent condition', (3) 所緣緣 ālambanapratyaya ''observed object condition, and (4) 增上緣 adhipatipratyaya 'predominant condition' (BL 'pratyaya'; Ding '四緣'; FGDB '四緣'; Mahāvyutpatti 'catvāraḥ pratyayāḥ'; Siderits and Katsura 2013, p. 20)	8009578
 8009579	旬	\N	xún	knowing; abhijñā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhijñā, Japanese: jun, or: shun (BCSD '旬', p. 595; MW 'abhijñā'; SH '旬', p. 213; Unihan '旬')	8009579
 8009580	等无间缘	等無間緣	děngwújiānyuán	immediately antecedent condition; samanantarapratyaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanantarapratyaya (BL 'pratyaya'; Ding '等無間緣'; FGDB '等無間緣'; SH '等無間緣', p. 385)	8009580
 8009581	次第缘	次第緣	cìdìyuán	immediately antecedent condition; samanantarapratyaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 等無間緣 (FGDB '等無間緣')	8009581
@@ -10933,7 +10933,7 @@
 8010933	十七地	\N	shíqī dì	seventeen stages of practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十七地')	8010933
 8010934	知院事	\N	zhī yuàn shì	Director of Affairs; Karmadana; Vinaya Master; Discipline Master	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	See 知事 (FGDB '知事')	8010934
 8010935	意解	\N	yì jiě	liberation of thought	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '意解'; SH '意解', p. 400)	8010935
-8010936	生住灭	生住滅	shēng zhù miè	arising, duration, and cessation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as mentioned in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” (SH '生住滅', p. 224; Nāgārjuna, Siderits and Katsura 2013, p. 74; T 1564 30.0009a28)	8010936
+8010936	生住灭	生住滅	shēng zhù miè	arising, duration, and cessation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, as mentioned in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” (SH '生住滅', p. 224; Siderits and Katsura 2013, p. 74; T 1564 30.0009a28)	8010936
 8010937	秘藏	\N	mì cáng	to conceal a secret; treasury of the profound mysteries	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding'秘藏'; FGDB '祕藏'; SH '祕藏', p. 335)	8010937
 8010938	风界	風界	fēng jiè	wind; wind element; wind realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 'four elements' (Ding '風界'; FGDB '風界'; SH '風界', p. 318)	8010938
 8010939	濬	\N	jùn	deep; gambhīra	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gambhīra, Japanese: shun (BCSD '濬', p. 747; MW 'gambhīra'; Unihan '濬')	8010939
@@ -13772,3 +13772,34 @@
 8013772	蛇	\N	shé	snake; sarpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarpa, Japanese: ja, or: i, or: da, Tibetan: sbrul (BCSD '蛇', p. 1036; Mahāvyutpatti 'sarpaḥ'; MW 'sarpa'; Unihan '蛇')	8013772
 8013773	化他天	\N	huàtātiān	Paranirmita-Vasavartin Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他化自在天 (FGDB '他化自在天')	8013773
 8013774	摩诃梵	摩訶梵	móhēfàn	Mahābrahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大梵天 (FGDB '大梵天')	8013774
+8013775	蛉	\N	líng	insect; kīṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kīṭa, Japanese: rei, or: ryou (BCSD '蛉', p. 1036; MW 'kīṭa'; Unihan '蛉')	8013775
+8013776	七方便位	\N	qī fāngbiàn wèi	seven expedient means	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 七方便 (FGDB '七方便位')	8013776
+8013777	梵摩三钵	梵摩三鉢	fànmósānbō	Mahābrahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大梵天 (FGDB '大梵天')	8013777
+8013778	蛘	\N	yáng	a weevil; kaṇḍū	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇḍū (BCSD '蛘', p. 1036)	8013778
+8013779	三禅定	三禪定	sān chán dìng	third dhyāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三禪 (FGDB '三禪')	8013779
+8013780	阿竭禅天	阿竭禪天	ājiéchántiān	Ākāśānantyāyatana Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空無邊處 (FGDB '空無邊處')	8013780
+8013781	蛟	\N	jiāo	Kumbhīra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kumbhīra; name of a naga (BCSD '蛟', p. 1037; Edgerton 1953 'kumbhīra', p. 187; Mahāvyutpatti 'kumbhīraḥ'; Unihan '蛟')	8013781
+8013782	虚空知天	虛空知天	xūkōngzhītiān	Ākāśānantyāyatana Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空無邊處 (FGDB '空無邊處')	8013782
+8013783	空知天	\N	kōngzhītiān	Ākāśānantyāyatana Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 空無邊處 (FGDB '空無邊處')	8013783
+8013784	蛩	\N	qióng	ghu	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ghu, Japanese: kyou (BCSD '蛩', p. 1037; Unihan '蛩')	8013784
+8013785	他性	\N	tāxìng	extrinsic nature; parabhāva	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: parabhāva (BCSD '他性', p. 95; MW 'parabhāva'; Siderits and Katsura 2013, p. 6)	8013785
+8013786	色界天	\N	sèjiètiān	Form Realm heaven	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reward for those that have cultivated the 四禪定 four dhyānas (FGDB '色界天')	8013786
+8013787	蛤	\N	gé	a clam; śukti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śukti, Japanese: kyou (BCSD '蛤', p. 1037; MW 'śukti'; SH '蛤', p. 390; Unihan '蛤')	8013787
+8013788	色界	\N	sè jiè	dwelling in the realm of form; rūpāvacara	phrase	界	Realm	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rūpāvacara, Pali: rūpāvacara, Tibetan: gzugs na spyod pa; a group of 18 kinds of gods (BCSD '色界', p. 1006; Edgerton 1953 'rūpāvacara', p. 456; Mahāvyutpatti 'rūpāvacaraḥ'; MW 'rūpāvacara')	8000996
+8013789	色界天众	色界天眾	sèjiè tiān zhòng	Form Realm devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rūpāvacara devāḥ; devas dwelling in the 色界 Realm of Form (BCSD '色界天眾', p. 1006; Edgerton 1953 'rūpāvacara', p. 456; Mahāvyutpatti 'rūpāvacaraḥ'; MW 'rūpāvacara')	8013789
+8013790	蛭	\N	zhì	leech; jalūkā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jalūkā, or: jalūka, or: jalaukas, Pali: jalūka, Japanese: shitsu, or: chitsu, Tibetan: srin bu pad ma (BCSD '蛭', p. 1037; Edgerton 1953 'jalūka', p. 239; Mahāvyutpatti 'jalūkaḥ'; MW 'jalūkā'; SH '蛭', p. 390; Unihan '蛭')	8013790
+8013791	七贤	七賢	qī xián	seven stages to Arhatship	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See also 七方便 (FGDB '七方便位'; SH '七賢', p. 15)	8013791
+8013792	识处	識處	shí chù	Limitless Consciousness	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 識無邊處天 (FGDB '識無邊處天')	8013792
+8013793	蛾	\N	é	moth; pataṃga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pataṃga, Japanese: ga, or: gi (BCSD '蛾', p. 1037; MW 'pataṃga'; SH '蛾', p. 412; Unihan '蛾')	8013793
+8013794	七贤位	七賢位	qī xiánwèi	seven expedient means	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 七方便 (FGDB '七方便位')	8013794
+8013795	非非想天	\N	fēi fēi xiǎng tiān	Heaven of Neither Thought nor Non-Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 非想非非想處天 (FGDB '非想非非想處天')	8013795
+8013796	蜂	\N	fēng	bee; bhramara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhramara, Japanese: hou (BCSD '蜂', p. 1037; MW 'bhramara'; Unihan '蜂')	8013796
+8013797	无思想亦无无想天	無思想亦無無想天	wú sīxiǎng yì wú wúxiǎng tiān	Heaven of Neither Thought nor Non-Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 非想非非想處天 (FGDB '非想非非想處天')	8013797
+8013798	有想无想智天	有想無想智天	yǒuxiǎng wú xiǎngzhì tiān	Heaven of Neither Thought nor Non-Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 非想非非想處天 (FGDB '非想非非想處天')	8013798
+8013799	蜃	\N	shèn	a sea-serpent	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shin, or: jin (BCSD '蜃', p. 1037; SH '蜃', p. 412; Unihan '蜃')	8013799
+8013800	蜃龙	蜃龍	shènlóng	a sea-serpent	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarpa (BCSD '蜃龍', p. 1037; MW 'sarpa')	8013800
+8013801	非想非非想天	\N	fēi xiǎng fēi fēixiǎng tiān	Heaven of Neither Thought nor Non-Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 非想非非想處天 (FGDB '非想非非想處天')	8013801
+8013802	非有想非无想处天	非有想非無想處天	fēi yǒuxiǎng fēi wúxiǎng chù tiān	Heaven of Neither Thought nor Non-Thought	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 非想非非想處天 (FGDB '非想非非想處天')	8013802
+8013803	蜈	\N	wú	a centipede	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: go (BCSD '蜈', p. 1037; Unihan '蜈')	8013803
+8013804	蜈蚣	\N	wúgōng	centipede	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śatapada (BCSD '蜈蚣', p. 1037)	8013804
+8013805	圣位	聖位	shèngwèi	sagehood stage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Another name for 須陀洹 Srotaāpanna (FGDB '聖位'; Ichishima and Chappell 2013, p. 1791; SH '聖位', p. 410; T 193)	8013805
