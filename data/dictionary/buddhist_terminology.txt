@@ -13,7 +13,7 @@
 8000013	黑沉香	\N	hēichénxiāng	agarwood incense	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沉香 (FGDB '沉香')	8000013
 8000014	蜜香	\N	mìxiāng	agarwood incense	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沉香 (FGDB '沉香')	8000014
 8000015	示众	示眾	shìzhòng	to teach; to instruct the Sangha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in the ”The Chan Whip Anthology” (Broughton, 2014, p. 67; Ding '示眾'; FGDB '示眾'; T 2024)	8000015
-8000016	袈裟	\N	jiāshā	kasaya; kaṣāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṣāya, Pali: kasāya, Japanese: kesa, Tibetan: ngur smrig; an outer vestment worn by a Buddhist monk (BL 'kaṣāya', p. 424; Ding '袈裟'; FGDB '袈裟'; Matsuo 2007, p. 12; SH '袈裟', p. 363)	8000016
+8000016	袈裟	\N	jiāshā	kasaya; kaṣāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṣāya, Pali: kasāya, Japanese: kesa, Tibetan: ngur smrig; an outer vestment worn by a Buddhist monk (BCSD '袈裟', p. 1049; BL 'kaṣāya', p. 424; Ding '袈裟'; FGDB '袈裟'; Matsuo 2007, p. 12; SH '袈裟', p. 363)	8000016
 8000017	莲华衣	蓮華衣	liánhuāyī	kasaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 袈裟 (Guoyu '蓮華衣')	8000017
 8000018	水田衣	\N	shuǐtiányī	kasaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '水田衣')	8000018
 8000019	无垢衣	無垢衣	wúgòuyī	kasaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '無垢衣')	8000019
@@ -5259,7 +5259,7 @@
 8005259	我有	\N	wǒ yǒu	the illusion of the existence of self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '我有', p. 238)	8005259
 8005260	普光佛	\N	pǔguāng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	see 然燈佛 (FGDB '然燈佛')	8005260
 8005261	锭光佛	錠光佛	dìngguāng fó	Dipankara Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīpaṃkara, Pali: dīpaṃkara; see 然燈佛 (FGDB '然燈佛')	8005261
-8005262	乳	\N	rǔ	breast; stana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stanaḥ, Tibetan: nu ma (BCSD '乳', p. 78; Mahāvyutpatti 'stanaḥ'; MW 'stana')	8005262
+8005262	乳	\N	rǔ	milk; kṣīra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣīra, Japanese: nyū, Tibetan: 'o ma (BCSD '乳', p. 78; Mahāvyutpatti 'kṣīram'; MW 'kṣīra'; SH '乳', p. 248; Unihan '乳')	8005262
 8005263	三劫阿僧企耶	\N	sān jié āsēngqǐyē	three Asankhyeya kalpas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三阿僧祇劫 (FGDB '三阿僧祇劫')	8005263
 8005264	萨埵那太子舍身饲虎	薩埵那太子捨身飼虎	sàduǒnà tàizǐ shěshēn sì hǔ	Prince Mahasattva Jataka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Story about the prince giving his life to a tiger (FGS Encyclopedia of Buddhist Arts)	8005264
 8005265	迦罗	迦羅	jiāluó	kala; a very short unit of time	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāla, Pali: kāla; a unit of time approximately 1600 kṣaṇa or 48 seconds (FGDB '迦羅'; SH '迦羅', p. 316)	8005265
@@ -6725,7 +6725,7 @@
 8006725	所	\N	suǒ	place; pradeśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pradeśa, Japanese: sho, or: so (BCSD '所', p. 523; Edgerton 1953 'pradeśa', p. 380; MW 'pradeśa'; SH '所', p. 317; Unihan '所')	8006725
 8006726	所	\N	suǒ	that which; yad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yad (BCSD '所', p. 523; MW 'yad'; SH '所', p. 317)	8006725
 8006727	所以	\N	suǒyǐ	cause; reason; kāraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāraṇa (BCSD '所以', p. 524; MW 'kāraṇa')	8006727
-8006728	无性	無性	wúxìng	niḥsvabhāva; no self-nature	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無自性 (FGDB '無自性')	8006728
+8006728	无性	無性	wúxìng	niḥsvabhāva; no self-nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無自性 (FGDB '無自性')	8006728
 8006729	瑜伽派	\N	yújiā pài	Yogācāra School	proper noun	派	School	佛教	Buddhism	\N	\N	\N	\N	See 瑜伽宗 (FGDB '瑜伽宗')	8006729
 8006730	喝	\N	hē	to shout	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: katsu, or: ai (BCSD '喝', p. 268; SH '喝', p. 368; Unihan '喝')	8006730
 8006731	饮	飲	yǐn	to drink; pāna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāna, or: pibati, Japanese: in, or: on (BCSD '飲', p. 1275; MW 'pāna'; SH '飲', p. 419; Unihan '飲')	8006731
@@ -12058,7 +12058,7 @@
 8012058	破	\N	pò	break; bheda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bheda, Japanese: ha (BCSD '破', p. 888; Mahāvyutpatti 'bhedaḥ'; MW 'bheda'; Unihan '破')	8012058
 8012059	行一	\N	xíng yī	equivalence of all forms of practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四一 'four ones' of the Tiantai School (Ding '行一')	8012059
 8012060	内院	內院	nèi yuàn	inner court	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of Tusita Heaven (Ding '內院'; FGDB '內院'; SH '內院', p. 132)	8012060
-8012061	衲衣	\N	nà yī	monastic robes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '衲衣'; FGDB '衲衣'; SH '衲衣', p. 339)	8012061
+8012061	衲衣	\N	nà yī	monastic robes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kanthā (BCSD '衲衣', p. 1049; Ding '衲衣'; FGDB '衲衣'; MW 'kanthā'; SH '衲衣', p. 339)	8012061
 8012062	研	\N	yán	to grind; pīṣayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīṣayati, or: pīṣati, or: piṣ, Pali: piṃsati, Japanese: ken; forms derived from the Sanskrit root piṣ (BCSD '研', p. 890; Edgerton 'pīṣati', p. 346; MW 'piṣ'; Unihan '研')	8012062
 8012063	不休息菩萨	不休息菩薩	bùxiūxī púsà	Anikṣiptadhura bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '不休息菩薩'; Karashima 2001, pp. 68-69; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8012063
 8012064	宝掌菩萨	寶掌菩薩	bǎozhǎng púsà	Ratnapāni bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Same as 寶手菩薩; mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8012064
@@ -13980,3 +13980,27 @@
 8013980	衢	\N	qú	crossroads; catvara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvara, Japanese: ku (BCSD '衢', p. 1048; MW 'catvara'; SH '衢', p. 489; Unihan '衢')	8013980
 8013981	过木桥	過木橋	guò mù qiáo	crossing a wooden bridge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '過木橋'; FGDB '過木橋'; SH '過木橋', p. 414)	8013981
 8013982	万僧供养	萬僧供養	wàn sēng gōngyǎng	offerings to all monastics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '萬僧供養')	8013982
+8013983	衲	\N	nà	to mend; to patch	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: dou, or: nou (BCSD '衲', p. 1049; SH '衲', p. 489; Unihan '衲')	8013983
+8013984	虚诳	虛誑	xūkuáng	in vain; mṛṣā	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛṣā; for example, in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (BCSD '虛誑', p. 1035; MW 'mṛṣā'; Siderits and Katsura 2013, p. 138; T 1564, 30.0017a26)	8013984
+8013985	妄取	\N	wàngqǔ	stealing; moṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moṣa, or: manyanā, Tibetan: rlom sems; for example, in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (BCSD '妄取', p. 1035; Mahāvyutpatti 'manyanā'; MW 'moṣa'; Siderits and Katsura 2013, p. 138; T 1564, 30.0017a26)	8013985
+8013986	袈	\N	jiā	kasaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ka, or: ke (BCSD '袈', p. 1049; Unihan '袈')	8013986
+8013987	金刚网	金剛網	jīngāng wǎng	vajra net	noun	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	A mudra used in esoteric Buddhism (Ding '金剛網'; FGDB '金剛網')	8013987
+8013988	老年	\N	lǎonián	old age; jīrṇaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jīrṇaka; for example, in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (BCSD '老年', p. 952; MW 'jīrṇaka'; Siderits and Katsura 2013, p. 143; T 1564, 30.0018a29)	8013988
+8013989	袋	\N	dài	leather bag; bhastrā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhastrā, Japanese: tai (BCSD '袈', p. 1049; MW 'bhastrā'; Unihan '袋')	8013989
+8013990	乳	\N	rǔ	breast; stana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: stanaḥ, Tibetan: nu ma (BCSD '乳', p. 78; Mahāvyutpatti 'stanaḥ'; MW 'stana')	8013990
+8013991	上方金刚网	上方金剛網	shàngfāng jīngāngwǎng	vajra net	noun	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 金剛網 (FGDB '金剛網')	8013991
+8013992	袍	\N	páo	jacket; cola	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cola, Japanese: hou, or: bou, Tibetan: ber ram ral gu (BCSD '袍', p. 1049; Mahāvyutpatti 'colaḥ'; MW 'cola'; SH '袍', p. 364; Unihan '袍')	8013992
+8013993	酪	\N	lào	curds; dadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dadhi, Japanese: raku, Tibetan: zho; for example, in Scroll 2 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (BCSD '酪', p. 1175; Mahāvyutpatti 'dadhi'; MW 'dadhi'; Siderits and Katsura 2013, p. 143; T 1564, 30.0018b21)	8013993
+8013994	虚空网	虛空網	xūkōngwǎng	emptiness net	noun	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 金剛網 (FGDB '金剛網')	8013994
+8013995	袨	\N	xuàn	black clothes	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ken, or: gen (BCSD '袨', p. 1050; Unihan '袨')	8013995
+8013996	袨服	\N	xuànfú	unclothed; vigalita-vasana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vigalitavasana (BCSD '袨服', p. 1050; MW 'vigalitavasana')	8013996
+8013997	虚空结	虛空結	xūkōngjié	emptiness net	noun	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 金剛網 (FGDB '金剛網')	8013997
+8013998	天网	天網	tiānwǎng	sky net mudra	noun	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 金剛網 (FGDB '金剛網')	8013998
+8013999	袪	\N	qū	lead away; apanaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	apanaya, Japanese: kyo, or: ko (BCSD '袪', p. 1050; MW 'apanaya'; Unihan '袪')	8013999
+8014000	天结	天結	tiānjié	emptiness net	noun	手印	mudrā	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 金剛網 (FGDB '金剛網')	8014000
+8014001	教令轮	教令輪	jiāo lìng lún	Wheel of Instruction and Command	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	A class of esoteric teachings (Ding '教令輪'; FGDB '教令輪'; Sharf 2005, p. 269)	8014001
+8014002	自性轮	自性輪	zìxìng lún	Wheel of Intrinsic Nature	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 自性輪身 (FGDB '自性輪身')	8014002
+8014003	正法轮身	正法輪身	zhèngfǎ lún shēn	Wheel of the True Dharma	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(Ding '正法輪身'; FGDB '正法輪身'; Sharf 2005, p. 270)	8014003
+8014004	正法轮	正法輪	zhèngfǎ lún	Wheel of the True Dharma	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 正法輪身 (FGDB '正法輪身')	8014004
+8014005	赖耶缘起	賴耶緣起	làiyé yuánqǐ	alaya dependent origination	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四種緣起之一 'four kinds of dependent origination' (FGDB '賴耶緣起')	8014005
+8014006	阿赖耶缘起	阿賴耶緣起	alàiyé yuánqǐ	alaya dependent origination	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 賴耶緣起 (FGDB '賴耶緣起')	8014006
