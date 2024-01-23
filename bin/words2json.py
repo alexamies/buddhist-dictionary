@@ -8,6 +8,7 @@ HTML pages in looking up Chinese Words. There are two environment file used:
   JS_FILE_NAME - file name of the JavaScript file to write to
 """
 import codecs
+import json
 import os
 import sys
 
