@@ -97,7 +97,7 @@ def main():
   print("Writing to ", jsfile)
   WriteJS(words, jsfile)
   print("Done")
-  ValidateJS()
+  ValidateJS(jsfile)
 
 
 if __name__ == "__main__":
