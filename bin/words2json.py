@@ -41,6 +41,13 @@ def OpenDictionary(filenames):
   return words
 
 
+def ValidateJS(jsfile):
+  """Validate the JSON file created"""
+  with codecs.open(jsfile, 'r', "utf-8") as f:
+    json.load(f)
+  print("Done validating JSON file")
+
+
 def WriteJS(words, jsfile):
   """Write the words to a JSON file
      Parameters:
@@ -80,16 +87,17 @@ def main():
     filenames = sys.argv[1]
   elif os.environ.get("DICT_FILE_NAMES") is not None:
     filenames = os.environ["DICT_FILE_NAMES"]
-  print("Reading from ", filenames);
+  print("Reading from ", filenames)
   words = OpenDictionary(filenames)
   jsfile = JSON_FILE_NAME
   if len(sys.argv[0]) > 2:
     jsfile = sys.argv[2]
   elif os.environ.get("JSON_FILE_NAME") is not None:
     jsfile = os.environ["JSON_FILE_NAME"]
-  print("Writing to ", jsfile);
+  print("Writing to ", jsfile)
   WriteJS(words, jsfile)
-  print("Done");
+  print("Done")
+  ValidateJS()
 
 
 if __name__ == "__main__":
