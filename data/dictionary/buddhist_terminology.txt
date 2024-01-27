@@ -4492,7 +4492,7 @@
 8004492	半行半坐三昧	\N	bàn xíng bàn zuò sānmèi	Half Walking; half walking, half sitting samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four kinds of samadhi (Tzu Chuang 2012, pp. 290-294)	8004492
 8004493	非行非坐三昧	\N	fēi xíng fēi zuò sānmèi	Non-Walking and Non-Sitting Samadhi; non-walking, non-sitting samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the four kinds of samadhi (Tzu Chuang 2012, pp. 290-294)	8004493
 8004494	八大宗派	\N	bā dà zōngpài	eight schools of Chinese Buddhism	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(1) Tiantai School 天台宗 (2) Huayan School 华严宗 (3) Faxiang School 法相宗 (4) San Lun Zong 三论宗 (5) Chan Zong 禅宗 (6) Pure Lang School 净土宗 (7) Vinaya School 律宗 (8) Esoteric School 密宗 (Tzu Chuang 2012, pp. 294-301)	8004494
-8004495	六尘	六塵	liù Chén	six sense objects; Six Dusts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Sight 色尘 (2) sound 声尘 (3) smell 香尘 (4) taste 味尘 (5) touch 触尘 (6) dharmas 法尘; FGS translation standard: Sense Objects (Tzu Chuang 2012, pp. 301-304)	8004495
+8004495	六尘	六塵	liù chén	six sense objects; six dusts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Sight 色, 2. sound 声, 3. smell 香, 4. taste 味, 5. touch 触, 6. dharmas 法 (FGDB '六塵'; SH '六塵', p. 134; Tzu Chuang 2012, pp. 301-304)	8004495
 8004496	金刚喻定	金剛喻定	jīngāng yùdìng	adamantine-like concentration; vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi, Japanese: kongōyujō or kongōzanmai (BL ‘vajropamasamādhi', pp. 967-958; FGDB '金剛喻定')	8004496
 8004497	色尘	色塵	sè chén	sight; sight sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the eyes can see; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004497
 8004498	声尘	聲塵	shēng chén	Sound; hearing; hearing sense objects	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Everything the ears can hear; one of the six sense objects 六尘 (Tzu Chuang 2012, pp. 301-304)	8004498
@@ -9556,8 +9556,8 @@
 8009556	金刚手药叉将	金剛手藥叉將	jīngāng shǒu yàochājiāng	Vajrapāṇi; Vajrapani Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 金剛手菩薩 (FGDB '金剛手菩薩')	8009556
 8009557	结界	結界	jiéjiè	boundary; temple boundary; sīmā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sīmā, Pali: sīmā, Japanese: kekkai (BL 'sīmā'; FGDB '結界')	8009557
 8009558	族	\N	zú	lineage; gotra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gotra, or: kula, Japanese: zoku, or: sou (BCSD '族', p. 593; MW 'gotra'; Unihan '族')	8009558
-8009559	中阴	中陰	zhōngyīn	an intermediate existence between death and rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '中陰'; FGDB '中陰'; SH '中陰', p. 112)	8009559
-8009560	中有	\N	zhōngyǒu	an intermediate existence between death and rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 中陰 (FGDB '中陰')	8009560
+8009559	中阴	中陰	zhōngyīn	an intermediate existence between death and rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: antarābhava, Japanese: chūin, Tibetan: bar ma do'i srid pa (BL 'antarābhava'; Ding '中陰'; Edgerton 1953 'antarābhava', p. 39; FGDB '中陰'; Mahāvyutpatti 'antarābhavaḥ'; SH '中陰', p. 112; Siderits and Katsura 2013, p. 166)	8009559
+8009560	中有	\N	zhōngyǒu	an intermediate existence between death and rebirth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: antarābhava, Japanese: chūin, Tibetan: bar ma do'i srid pa; see 中陰 (FGDB '中陰'; Mahāvyutpatti 'antarābhavaḥ')	8009560
 8009561	旙	\N	fān	a banner; patākā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patākā; variant of 旛  (BCSD '旙', p. 593; MW 'patākā')	8009561
 8009562	旛	\N	fān	a banner; patākā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patākā, Japanese: han, Tibetan: ba dan (BCSD '旛', p. 593; Mahāvyutpatti 'patākā'; MW 'patākā'; SH '旛', p. 465; Unihan '旛')	8009562
 8009563	界内	界內	jiènèi	within a region; within the confines	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, within the 三界 Three Realms of desiire, form, and formlessness (Ding '界內'; FGDB '界內'; SH '界內', p. 309)	8009563
@@ -14033,8 +14033,23 @@
 8014033	鬻度	\N	yùdù	ordination license	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(Ding ' 鬻度'; FGDB ' 鬻度')	8014033
 8014034	八种善巧	八種善巧	bā zhǒng shànqiǎo	eight kinds of skill	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八種善巧')	8014034
 8014035	裸	\N	luǒ	naked; nagna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nagna, Japanese: ra (BCSD '裸', p. 1052; MW 'nagna'; SH '裸', p. 428; Unihan '裸')	8014035
-8014036	成身会	成身會	chéng shēn huì	Complete Body Assembly	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the nine Vajradhātu groups (Ding '成身會'; FGDB '成身會'; SH '成身會', p. 238)	8014036
-8014037	成身	成身	chéng shēn	habitation; samāśraya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	samāśraya (BCSD '成身', p. 515; MW 'samāśraya')	8014037
+8014036	成身会	成身會	chéng shēn huì	Complete Body Assembly	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the nine groups in the Vajradhātu Mandala (Ding '成身會'; FGDB '成身會'; Proffitt 2023, p. 262; SH '成身會', p. 238)	8014036
+8014037	成身	成身	chéng shēn	habitation; samāśraya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samāśraya (BCSD '成身', p. 515; MW 'samāśraya')	8014037
 8014038	裹	\N	guǒ	wrapped; veṣṭita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: veṣṭita, Japanese: ka (BCSD '裹', p. 1052; MW 'veṣṭita'; Unihan '裹')	8014038
 8014039	匮正法	匱正法	kuìzhèngfǎ	destruction of the dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmavyasana (BCSD '匱法', p. 214; Dhammajoti 2013, p. 201)	8014039
 8014040	匮法	匱法	kuìfǎ	destruction of the dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmavyasana; see also 匱正法 (BCSD '匱法', p. 214)	8014040
+8014041	褁	\N	guǒ	rolled up; saṃvartita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃvartita, Japanese: seki, or: shaku (BCSD '褁', p. 1052; MW 'saṃvartita'; Unihan '褁')	8014041
+8014042	八学处	八學處	bā xuéchù	eight rules of conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(BL 'śikṣāpada'; FGDB '八學處')	8014042
+8014043	学	學	xué	a learner	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '學'; Kroll 2015 '學' 4, p. 521)	8007929
+8014044	褂	\N	guà	a coat; an overcoat	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kai, or: ke (BCSD '褂', p. 1052; Unihan '褂')	8014044
+8014045	八贤圣	八賢聖	bāxiánshèng	eight stages of a saint	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四向四果 (FGDB '八賢聖')	8014045
+8014046	四向四果	\N	sì xiàng sì guǒ	four directions and four fruits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The eight stages of cultivation of the āryapudgala or 'noble person'; for example, 1a. 預流向 srotaāpanna practice, 1b. 預流果 fruit of srotaāpanna (FGDB '四向四果')	8014046
+8014047	褌	\N	kūn	pants; kaupīna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaupīna, Japanese: kai, or: ke (BCSD '褌', p. 1052; MW 'kaupīna'; Unihan '褌')	8014047
+8014048	四向四得	\N	sì xiàng sì dé	four directions and four attainments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四向四果 (FGDB '四向四果')	8014048
+8014049	微细	微細	wēixì	subtle; sūkṣma	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūkṣma, Tibetan: phra mo'am zhib mo (Mahāvyutpatti 'sūkṣmam'; MW 'sūkṣma'; SH '微細', p. 399)	8014049
+8014050	褐	\N	hè	woollen blanket; kambala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kambala, Japanese: katsu, or: cachi (BCSD '褐', p. 1052; MW 'kambala'; Unihan '褐')	8014050
+8014051	微细会	微細會	wēixì huì	Subtle Assembly	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the nine groups in the Vajradhātu Mandala (FGDB '金剛界曼荼羅'; Proffitt 2023, p. 262)	8014051
+8014052	四果向	\N	sì guǒ xiàng	four fruits and four directions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四向四果 (FGDB '四向四果')	8014052
+8014053	褒	\N	bāo	a fasting day; poṣadha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: poṣadha, Japanese: hou (BCSD '褒', p. 1052; MW 'poṣadha'; Unihan '褒')	8014053
+8014054	四双八辈	四雙八輩	sì shuāng bā bèi	four pairs in eight classes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四向四果 (FGDB '四向四果')	8014054
+8014055	供养会	供養會	gòngyǎng huì	Offering Assembly	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the nine groups in the Vajradhātu Mandala (FGDB '金剛界曼荼羅'; Proffitt 2023, p. 262)	8014055
