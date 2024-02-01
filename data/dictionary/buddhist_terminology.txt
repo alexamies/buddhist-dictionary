@@ -10473,7 +10473,7 @@
 8010473	无癡	無癡	wúchī	without delusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amoha (Ding '無癡'; FGDB '無癡')	8010473
 8010474	渊	淵	yuān	flood; ogha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ogha, Pali: ogha, Japanese: en (BCSD '淵', p. 731; Edgerton 1953 'ogha', p. 158; MW 'ogha'; Unihan '淵')	8010474
 8010475	行舍	行捨	xíngshě	equanimity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣa (BCSD '行捨'; Dhammajoti 2013, p. 87; Ding '行捨'; FGDB '行捨')	8010475
-8010476	覆	\N	fù	disparage; mrakṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mrakṣa, Pali: makkha, Japanese: fuku, or: fū (BCSD '覆', p. 1054; Edgerton 1953 'mrakṣa', p. 441; MW 'mrakṣa'; Unihan '覆')	8010476
+8010476	覆	\N	fù	disparage; mrakṣa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mrakṣa, Pali: makkha, Japanese: fuku, or: fū, Tibetan: 'chab pa (BCSD '覆', p. 1054; Edgerton 1953 'mrakṣa', p. 441; Mahāvyutpatti 'mrakṣaḥ'; MW 'mrakṣa'; Unihan '覆')	8010476
 8010477	诳	誑	kuáng	deceive; vipravādana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipravādana, or: visaṃvādana, Japanese: kyou, Tibetan: slu ba (BCSD '誑', p. 813; Edgerton 1953 'vipravādana', p. 493; Mahāvyutpatti 'vipravādanam'; MW 'visaṃvādana'; Unihan '誑')	8010477
 8010478	掉举	掉擧	diàojǔ	restlessness; frivolity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: auddhatya (BCSD '掉擧', p. 553; CC-CEDICT '掉擧'; Edgerton 1953 'auddhatya', p. 161; MW 'auddhatya'; SH '掉擧', p. 350)	8010478
 8010479	散乱	散亂	sànluàn	inattention; vikṣepa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikṣepa, Tibetan: gyeng ba (Ding '散亂'; Edgerton 1953 'vikṣepa', p. 482; FGDB '散亂'; Mahāvyutpatti 'vikṣepaḥ'; MW 'vikṣepa')	8010479
@@ -14099,4 +14099,17 @@
 8014099	新瑜伽	\N	xīn yújiā	new yoga	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	An alternative name for 密教 esoterism (Sharf 2005, p. 271)	8014099
 8014100	心轮	心輪	xīn lún	Wheel of Mind	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The unceasing movements of the mind (Ding '九心輪'; FGDB '九心輪'; SH '九心輪'; Sharf 2005, p. 271)	8014100
 8014101	二世	\N	èr shì	this life and after death	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Ding '二世'; FGDB '二世'; SH '二世', p. 21)	8014101
-8014101	七法	\N	qī fǎ	seven types of action	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As listed in Scroll 3 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna, namely: bodily and verbal action with and without intention, meritorious giving, unmeritorious giving, and mental action (Siderits and Katsura 2013, pp. 174-175; T 1564, 30.0021c09)	8011620
+8014102	七法	\N	qī fǎ	seven types of action	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As listed in Scroll 3 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna, namely: bodily and verbal action with and without intention, meritorious giving, unmeritorious giving, and mental action (Siderits and Katsura 2013, pp. 174-175; T 1564, 30.0021c09)	8011620
+8014103	西	\N	xī	west; paścima	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paścima, Japanese: sei, or: sai, Tibetan: nub (BCSD '西', p. 1053; Mahāvyutpatti 'paścimaḥ'; MW 'paścima'; SH '西', p. 222; Unihan '西')	8014103
+8014104	无生无灭	無生無滅	wú shēng wú miè	without origination or cessation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in Scroll 3 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (FGDB '無生無滅'; Siderits and Katsura 2013, p. 200; T 1564, 30.0023c16)	8014104
+8014105	无分别	無分別	wú fēnbié	without false conceptualization	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nirvikalpa, or: avikalpam, Tibetan: rnam par mi rtog pa; for example, in Scroll 3 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (Mahāvyutpatti 'avikalpam'; MW 'nirvikalpa'; SH '無分別', p. 378; Siderits and Katsura 2013, p. 202; T 1564, 30.0023c16)	8014105
+8014106	要	\N	yào	necessarily; avaśyam	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaśyam, Japanese: you (BCSD '要', p. 1054; MW 'avaśyam'; SH '要', p. 314; Unihan '要')	8014106
+8014107	不断不常	不斷不常	bù duàn bù cháng	neither destroyed nor eternal	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in Scroll 3 of 中論 “Fundamental Verses on the Middle Way” by Nāgārjuna (FGDB '不斷不常'; Siderits and Katsura 2013, p. 203; T 1564, 30.0023c16)	8014107
+8014108	不常不断	不常不斷	bù cháng bù duàn	neither eternal nor destroyed	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 不斷不常 (FGDB '不斷不常')	8014108
+8014109	规	規	guī	standard; pramāṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramāṇa, Japanese: ki (BCSD '規', p. 1060; MW 'pramāṇa'; Unihan '規')	8014109
+8014110	西方	\N	xīfāng	west; paścima	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paścima; especially referring Amitābha's Western Pure Land (BCSD '西', p. 1053; MW 'paścima'; SH '西', p. 223)	8014110
+8014111	九心轮	九心輪	jiǔ xīn lún	nine wheels of the mind	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(Ding '九心輪'; FGDB '九心輪'; SH '九心輪'; Sharf 2005, p. 271)	8014111
+8014112	觅	覓	mì	search; paryeṣaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paryeṣaṇa, Japanese: beki (BCSD '覓', p. 1060; MW 'paryeṣaṇa'; Unihan '覓')	8014112
+8014113	十慧观	十慧觀	shí huìguān	ten practices	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十行 (FGDB '十行')	8014113
+8014114	粉坛	粉壇	fěntán	a posder altar	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(Sharf 2005, p. 272)	8014114
+8014115	视	視	shì	observing; darśana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: darśana, Japanese: shi (BCSD '視', p. 1060; MW 'darśana'; SH '視', p. 390; Unihan '視')	8014115
