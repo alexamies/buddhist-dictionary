@@ -1594,7 +1594,7 @@
 8001594	四天王法	\N	sì tiān wáng fǎ	the teaching of the four heavenly kings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四天王法')	8001594
 8001595	四天王合行	\N	sì tiān wáng hé xíng	the practices of the four heavenly kings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四天王法 (FGDB '四天王法')	8001595
 8001596	四天法	\N	sì tiān fǎ	the teaching of the four heavenly kings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四天王法 (FGDB '四天王法')	8001596
-8001597	四天王	\N	sì tiānwáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cātur-mahārāja-kāyika; nameley: Dhrtarastra, Virudhaka, Virupaksa, and Vaisravaṇa, who each watch over one of the cardinal directions of the world (BCSD '四天王', p. 278; MW 'cāturmahārājakāyika'; SH '四天王', p. 173)	8001597
+8001597	四天王	\N	sì tiānwáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cāturmahārājakāyika, Pali: cātummahārājikā, Japanese: shitennōten, Tibetan: rgy al chen rigs bzhi; nameley: 持國天 Dhrtarastra, 增長天 Virudhaka, 廣目天 Virupaksa, and 多聞天 Vaisravaṇa, who each watch over one of the cardinal directions of the world (BCSD '四天王', p. 278; BL 'cāturmahārājakāyika', p. 171; Ding '四天王'; FGDB '四王天'; MW 'cāturmahārājakāyika'; SH '四天王', p. 173)	8001597
 8001598	持国	持國	chí guó	Dhrtarastra; Deva King of the East	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhṛtarāṣṭra; see 持國天 (FGDB '持國天')	8001598
 8001599	持国天王	持國天王	chí guó tiānwáng	Dhrtarastra; Deva King of the East	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhṛtarāṣṭra; see 持國天 (FGDB '持國天')	8001599
 8001600	多罗吒天	多羅吒天	duōluózhà yiān	Dhrtarastra; Deva King of the East	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhṛtarāṣṭra; see 持國天 (FGDB '持國天')	8001600
@@ -2825,7 +2825,7 @@
 8002825	转识	轉識	zhuǎn shí	evolving mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the 五意 five kinds of consciousness in the 大乘起信論 Treatise on the Awakening of Faith in the Mahāyāna (Aśvaghoṣa and Hakeda 2006, p. 52; FGDB '轉識'; T 1666)	8002825
 8002826	远闻天子	遠聞天子	yuǎnwén tiānzǐ	Svaravisruti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svaraviśruti; name of a deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 遠聞 (FGDB '五淨居天'; Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002826
 8002827	远闻	遠聞	yuǎnwén	Svaravisruti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svaraviśruti; see 遠聞天子 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002827
-8002828	远	遠	yuǎn	distant; dura	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūra, or: viprakṛṣṭa, Tibetan: rgyang ring ba, Japanese: on (BCSD '远', p. 1163; DJBT '遠', p. 437; Mahāvyutpatti 'viprakṛṣṭaḥ'; MW 'dūra')	8002828
+8002828	远	遠	yuǎn	distant; dura	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūra, or: viprakṛṣṭa, Tibetan: rgyang ring ba, Japanese: on (BCSD '遠', p. 1163; DJBT '遠', p. 437; Mahāvyutpatti 'viprakṛṣṭaḥ'; MW 'dūra')	8002828
 8002829	广大顶	廣大頂	guǎng dà dǐng	Mahodgatosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahodgatoṣṇīṣa; see 廣大佛頂 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002829
 8002830	广	廣	guǎng	vaipulya; vast; extended	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaipulya, Japanese: kō, Tibetan: rgyas pa'am yangs pa; especially referring to Mahayana sutras with extended dialogs, see also 方等 (BCSD '廣', p. 429; BL 'vaipulya'; DJBT '廣', p. 430; FGDB '方等'; Mahāvyutpatti 'vipulam'; DJBT '廣', p. 430; MW 'vaipulya')	8002830
 8002831	极广大	極廣大	jí guǎng dà	Abhyudgatosnisa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhyudgatoṣṇīṣa; see 極廣大佛頂 (Giebel 2005, p. 32; T 848, Scroll 1, 18.0006b09)	8002831
@@ -4901,7 +4901,7 @@
 8004901	邪婬	\N	xiéyín	to commit sexual misconduct	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '邪婬', p. 246)	8004901
 8004902	覆莲	覆蓮	fù lián	an inverted lotus	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8004902
 8004903	斋食	齋食	zhāi shí	monastic midday meal; vegetarian food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '齋食'; SH '齋食', p. 107)	8004903
-8004904	非人	\N	fēi rén	a non-human; amanusya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amanuṣya, Pali: amanussa (FGDB '非人'; MW 'Sanskrit equivalent: ')	8004904
+8004904	非人	\N	fēi rén	a non-human; amanusya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amanuṣya, Pali: amanussa (FGDB '非人'; MW 'amanuṣya'; SH '非人', p. 294)	8004904
 8004905	阎罗	閻羅	yánluó	Yama; Yamaraja	proper noun	神	Deity	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: yama; Japanese: Enma ō, Tibetan: Gshin rje; the lord of death, adopted into Buddhism from Vedic teachings, for example, in the Katha Upanishad (BL 'yama'; Ding '閻羅'; FGDB '閻魔王'; Heehs 2002, p. 71; MW 'yama')	8004905
 8004906	浮图	浮圖	fútú	Buddha; Buddhist stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8004906
 8004907	缁侣	緇侶	zīlǚ	monastic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧侶 (FGDB '緇門')	8004907
@@ -6654,7 +6654,7 @@
 8006654	麁弊	\N	cū bì	coarse; shoddy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lūha; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '麁弊', p. 1297; Karashima 2001, p. 92; MW 'lūha'; T 262, Scroll 6, 9.0084b09)	8006654
 8006655	麁	\N	cū	coarse; sthūla	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūla, Japanese: so (BCSD '麁', p. 1297; MW 'sthūla'; Unihan '麁')	8006655
 8006656	海潮	\N	hǎicháo	tide; vega	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vega (BCSD '海潮', p. 725; MW 'vega')	8006656
-8006657	诵	誦	sòng	recite; priase; pāṭha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṭha, or; varṇa, Japanese: shou, or: ju, Tibetan: brjod pa (BCSD '誦', p. 1297; Mahāvyutpatti 'varṇaḥ'; MW 'pāṭha'; SH '誦', p. 428; Unihan '誦')	8006657
+8006657	诵	誦	sòng	recite; priase; pāṭha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṭha, or; varṇa, Japanese: shou, or: ju, Tibetan: brjod pa (BCSD '誦', p. 1078; Mahāvyutpatti 'varṇaḥ'; MW 'pāṭha'; SH '誦', p. 428; Unihan '誦')	8006657
 8006658	戒盗见	戒盜見	jiè dào jiàn	śilavrataparāmarśa; rigid ascetic views; attachment to rites and rituals	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 戒禁取見 (FGDB '戒禁取見')	8006658
 8006659	欲贪	欲貪	yùtān	kāmarāga; sensual craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāmarāga, Pali: kāmarāga, Japanese: yokuton (BL 'kāmarāga'; FGDB '欲貪')	8006659
 8006660	欲贪随眠	欲貪隨眠	yùtān suí mián	kāmarāga; sensual craving	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See  (FGDB '欲貪')	8006660
@@ -12399,7 +12399,7 @@
 8012399	明术	明術	míng shù	learning; magical skill	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyā (Dhammajoti 2013, p. 58; MW 'vidyā')	8012399
 8012400	众生世间	眾生世間	zhòngshēng shìjiān	the world of living beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattvaloka (Ding '眾生世間'; FGDB '眾生世間'; SH '眾生世間', p. 390)	8012400
 8012401	窭	窶	jù	having no possessions; adravya	adjective	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adravya, Japanese: ku, or: rou, or: ru (BCSD '窶', p. 911; MW 'adravya'; SH '窶', p. 449; Unihan '窶')	8012401
-8012402	远离	遠離	yuǎnlí	to avoid; to abstain from; viramaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viramaṇa (Dhammajoti 2013, p. 58; Ding '遠離'; FGDB '遠離'; MW 'viramaṇa'; SH '遠離', p. 429)	8012402
+8012402	远离	遠離	yuǎnlí	to avoid; to abstain from; viramaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viramaṇa, or: vivarjana (BCSD '遠離', p. 1163; Dhammajoti 2013, p. 58; Ding '遠離'; Edgerton 1953 'viramaṇa', p. 495; FGDB '遠離'; MW 'viramaṇa'; SH '遠離', p. 429)	8012402
 8012403	离	離	lí	to avoid; to abstain from; viramaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viramaṇa; see 遠離 (Dhammajoti 2013, p. 58)	8009347
 8012404	要行	\N	yào xíng	essential conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '要行'; SH '要行', p. 314)	8012404
 8012405	德号	德號	dé hào	an epithet	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '德號')	8012405
@@ -14231,3 +14231,13 @@
 8014231	普贤行	普賢行	pǔxiánxíng	the practice of Samantabhadra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a chapter in the Avataṃsaka Sūtra (Cleary 1993, p. 952; Karashima 2001 '普賢行'; T 279, Scroll 49)	8014231
 8014232	信受	\N	xìn shò fèngxíng	to believe and accept	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2001 '信受'; SH '信受', p. 296)	8014232
 8014233	误	誤	wù	to make a mistake; vibhrama	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vibhrama, Japanese: go (BCSD '誤', p. 1078; MW 'vibhrama'; Unihan '誤')	8014233
+8014234	工射之人	\N	gōng shè zhī rén	a master of archery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: iṣvastrācārya, for example, in Scroll 7 of 小品般若波羅蜜經 “Sutra of Perfection of Wisdom in Eight Thousand Lines” (BCSD '工射之人', p. 409; Conze 1973, p. 224; T 227, 8.0569a11)	8014234
+8014235	四禁	\N	sì jìn	four unforgivable offenses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四重禁; for example, in Scroll 7 of 小品般若波羅蜜經 “Sutra of Perfection of Wisdom in Eight Thousand Lines” (Conze 1973, p. 232; T 227, 8.0570c05)	8014235
+8014236	诲	誨	huì	to instruct; bhaṇ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaṇ, Japanese: kai (BCSD '誨', p. 1079; MW 'bhaṇ'; Unihan '誨')	8014236
+8014237	远离	遠離	yuǎnlí	detached; vivikta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivikta (BCSD '遠離', p. 1163; FGDB '遠離'; MW 'vivikta'; SH '遠離', p. 429)	8012402
+8014238	旃陀罗	旃陀羅	zhāntuóluó	caṇḍāla; untouchable caste	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caṇḍāla (Ding '旃陀羅'; FGDB '旃陀羅'; MW 'caṇḍāla'; SH '旃陀羅', p. 326)	8014238
+8014239	诽	誹	fěi	slander	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hi (BCSD '誹', p. 1083; SH '誹', p. 444; Unihan '誹')	8014239
+8014240	诽谤	誹謗	fěibàng	slander; apavāda	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apavāda (BCSD '誹謗', p. 1083; MW 'apavāda'; SH '誹謗', p. 444)	8014240
+8014241	栴荼罗	栴荼羅	zhāntúluó	caṇḍāla; untouchable caste	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caṇḍāla; see 旃陀羅 (FGDB '旃陀羅')	8014241
+8014242	上界天	\N	shàngjiètiān	devas of the upper realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Devas of the realms of form and formlessness (SH '上界天', p. 56)	8014242
+8014243	虚空天	虛空天	xūkōngtiān	devas of the sky	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '虛空天', p. 389)	8014243
