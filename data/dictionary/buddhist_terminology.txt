@@ -1137,7 +1137,7 @@
 8001137	金刚座床	金剛座床	jīngāng zuòchuáng	vajrasana; diamond throne	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛座 (SH '金剛座', p. 281)	8001137
 8001138	刹座	剎座	chàzuò	finial base	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '塔剎')	8001138
 8001139	共许	共許	gòngxǔ	commonly admitted; commonly agreed upon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term in Buddhist logic (FGDB '共許法'; SH '共許', p. 203)	8001139
-8001140	嚩日啰	嚩日囉	fúrìluó	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛杵 (FGDB '金剛杵')	8001140
+8001140	嚩日啰	嚩日囉	fúrìluó	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛杵 (BCSD '嚩日囉', p. 273; FGDB '金剛杵')	8001140
 8001141	伐折啰	伐折囉	fázhéluó	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛杵 (FGDB '金剛杵')	8001141
 8001142	跋折罗	跋折羅	bázhéluó	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛杵 (FGDB '金剛杵')	8001142
 8001143	伐阇罗	伐闍羅	fáshéluó	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛杵 (FGDB '金剛杵')	8001143
@@ -3497,7 +3497,7 @@
 8003497	死王	\N	sǐ wáng	Lord of Death; Mrtyu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛtyu (FGDB '死王'; MW 'mṛtyu'; SH '死王', p. 216; Giebel 2005, p. 62; T 848, Scroll 2, 18.0015a23)	8003497
 8003498	阿儞怛夜	\N	ānǐdáyè	Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āditya; see 日天 (Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b06)	8003498
 8003499	伽伽那	\N	jiājiānà	gagana; sky	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gagana; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'gagana'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003499
-8003500	嚩啰	嚩囉	fúluó	vara; enclosing	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vara; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'vara'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003500
+8003500	嚩啰	嚩囉	fúluó	vara; enclosing	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vara, or: bala; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '嚩囉', p. 276; MW 'vara'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003500
 8003501	落吃洒	落吃灑	luòchīsǎ	laksana; sign; characteristic	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣaṇa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra,” see 相 (MW 'lakṣaṇa'; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b15)	8003501
 8003502	火界三昧	\N	huǒjiè sānmèi	Realm of Fire Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agni-dhātu-samādhi; a samadhi with the power to radiate flames, mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 火生三昧 (FGDB '火界三昧'; SH '火生三昧', p. 161; Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b20)	8003502
 8003503	火生三昧	\N	huǒshēng sānmèi	Born of Fire Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 火界三昧 (Giebel 2005, p. 63; T 848, Scroll 2, 18.0015b20)	8003503
@@ -14254,4 +14254,13 @@
 8014254	请问	請問	qǐngwèn	question; paripṛcchā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripṛcchā, Pali: paripucchā, or: paṭipucchā  (BCSD '請問', p. 1085; Edgerton 1953 'paripṛcchā', p. 327; MW 'paripṛcchā')	8014254
 8014255	鹘社	鶻社	húshè	an abbot; a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和尚 (FGDB '和尚')	8014255
 8014256	十八会	十八會	shíbā huì	eighteen assemblies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A group of esoteric deities and verses about them (Ding '十八會'; FGDB '十八會'; Goble 2019, pp. 54-56; Orzech 2011a, p. 284)	8014256
-8014257	魔王	\N	mó wáng	king of māras	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: māra (BCSD '魔王', p. 1291; Ding '魔王'; FGDB '魔王'; SH '魔王', p. 486)	8014257
+8014257	魔王	\N	mó wáng	king of māras	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māra (BCSD '魔王', p. 1291; Ding '魔王'; FGDB '魔王'; SH '魔王', p. 486)	8014257
+8014258	诤	諍	zhèng	quarrel; vigraha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vigraha, Japanese: sou, or: shou (BCSD '諍', p. 1085; MW 'vigraha'; SH '諍', p. 443; Unihan '諍')	8014258
+8014259	嚩啰呬	嚩囉呬	fúluóxì	vārāhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A class of deva dwelling underground (FGDB '五類天'; Giebel 1995, p. 143)	8014259
+8014260	不可称	不可稱	bù kě chēng	inconceivable	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atulyam, Tibetan: gzhal du med pa (Mahāvyutpatti 'atulyam'; MW 'atulya')	8014260
+8014261	諕	\N	háo	intimidate; tarjanīya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tarjanīyam, Japanese: kou, or: gou, Tibetan: bsdigs pa (BCSD '諕', p. 1085; Edgerton 1953 'tarjanīya', p. 250; Mahāvyutpatti 'tarjanīyam'; MW 'tarjanīya'; Unihan '諕')	8014261
+8014262	乌社	烏社	wūshè	an abbot; a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和尚 (FGDB '和尚')	8014262
+8014263	邬波驮耶	鄔波馱耶	wūbōduòyé	upādhyāya; a preceptor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent upādhyāya, Pali: upajjhāya; related to the generic Chinese term for a monk 和尚 (BL 'upādhyāya'; FGDB '和尚')	8014263
+8014264	谀	諛	yú	creating illusions; māyāvin	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māyāvin, Japanese: yu (BCSD '諛', p. 1086; MW 'māyāvin'; Unihan '諛')	8014264
+8014265	优婆陀诃	優婆陀訶	yōupótuóhē	upādhyāya; a preceptor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鄔波馱耶 (FGDB '和尚')	8014265
+8014266	郁波第耶夜	\N	yùbōdìyéyè	upādhyāya; a preceptor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鄔波馱耶 (FGDB '和尚')	8014266
