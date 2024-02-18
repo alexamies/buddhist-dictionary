@@ -4210,7 +4210,7 @@
 8004210	长物	長物	zhǎngwù	more than the permitted number of items	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Describes a monastic keeping more than the number of items permitted by monastic regulations (FGDB '長物'; SH '長衣', p. 284)	8004210
 8004211	非想非非想处天	非想非非想處天	fēi xiǎng fēi fēi xiǎng chù tiān	Naiva-samjnanasamjnayatana Heaven; Naiva-sajjnanasajjnayatana; The Heaven of Neither Thought nor Non-Thought	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naivasaṃjñānāsaṃjñāyatana, Pali: nevasaññānāsaññāyatana, Japanese: hisōhihisōjo; the forth of the Four Heavens of the Formless Realm (BL 'naivasaṃjñānāsaṃjñāyatana', p. 564; FGDB '非想非非想處天'; Tzu Chuang 2012)	8004211
 8004212	三十三天	\N	sān shí sān tiān	Heaven of the Thirty-Three Gods; The Heaven of Thirty-Three Gods; Trāyastriṃśa Heaven; Tāvatiṃsa Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trāyastriṃśatdeva, Pali: tāvatiṃsa; one of the Six Heavens of the Desire Realm 六欲天 (FGDB '三十三天'; Nyanatiloka 1980 'Tāvatiṃsa'; Tzu Chuang 2012, pp. 116-119)	8004212
-8004213	六欲天	\N	liù yù tiān	Six Heavens of the Desire Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Caturmaharajika Heaven 四天王天; 四王天 (2) Trayastrimsa Heaven 忉利天 (3) Yama Heaven 夜摩天 (4) Tusita Heaven 兜率天 (5) Nirmanarati Heaven 化乐天 (6) Paranirmita-Vasavartin Heaven 他化自在天 (Tzu Chuang 2012, pp. 116-119)	8004213
+8004213	六欲天	\N	liù yù tiān	Six Heavens of the Desire Realm	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Caturmaharajika Heaven 四天王天; 四王天 (2) Trayastrimsa Heaven 忉利天 (3) Yama Heaven 夜摩天 (4) Tusita Heaven 兜率天 (5) Nirmanarati Heaven 化乐天 (6) Paranirmita-Vasavartin Heaven 他化自在天 (Ding '六欲天'; FGDB '六欲天'; SH '六欲天', p. 136; Tzu Chuang 2012, pp. 116-119)	8004213
 8004214	四大王天	\N	sì dà wáng tiān	Caturmaharajika Heaven; Heaven of the Four Kings	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	The first of the Six Heavens of the Desire Realm (Tzu Chuang 2012, pp. 116-119)	8004214
 8004215	大王天	\N	dà wáng tiān	Caturmaharajika Heaven; Heaven of the Four Kings	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	The first of the Six Heavens of the Desire Realm (Tzu Chuang 2012, pp. 116-119)	8004215
 8004216	十八地狱	十八地獄	shí bā dì yù	The Eighteen Hells	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Arbuda Hell 頞浮陀 (2) Nirarbuda Hell 尼罗浮陀 (3) Atata Hell 阿吒吒 (4) Apapa Hell 阿婆婆 (5) Huhuva Hell 喉喉婆 (6) Utpala Hell 沤波罗 (7) Padma Hell 波头摩 (8) Mahapadma Hell 摩诃波头摩 (9) Samjiva Hell 等活 (10) Kalasutra Hell 黑绳 (11) Samghata Hell 堆压 (12) Raurava Hell 叫唤 (13) Maharaurava Hell 大叫唤 (14) Tapana Hell 烧炙 (15) Mahatapana Hell 大烧炙 (16) Avici Hell 无间地狱 (17) the Isolated Hells 孤独地狱 (18) the Adjacent Hells 近边地狱 (Tzu Chuang 2012, pp. 116-119)	8004216
@@ -14315,3 +14315,13 @@
 8014315	㗌摩那拏	\N	zhìmónàná	a wandering monk; śramaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (FGDB '沙門')	8014315
 8014316	沙迦懑囊	沙迦懣囊	shājiāmènnáng	a wandering monk; śramaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (FGDB '沙門')	8014316
 8014317	谢	謝	xiè	to thank	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sha, or: ja (BCSD '謝', p. 1094; SH '謝', p. 462; Unihan '謝')	8014317
+8014318	拘卢舍	拘盧舍	jūlúshě	krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; the distance that the bellow of a bull can be heard, one quarter of a yojana (Ding '拘盧舍'; FGDB '拘盧舍'; MW 'krośa'; SH '拘盧舍', p. 261)	8014318
+8014319	俱卢舍	俱盧舍	jūlúshě	krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; see 拘盧舍 (FGDB '拘盧舍')	8014319
+8014320	謟	\N	tāo	to flatter	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou (BCSD '謟', p. 1094; Unihan '謟')	8014320
+8014321	拘搂赊	拘摟賒	jūlǒushē	krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; see 拘盧舍 (FGDB '拘盧舍')	8014321
+8014322	拘楼赊	拘樓賒	jūlóushē	krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; see 拘盧舍 (SH '拘盧舍', p. 261)	8014322
+8014323	謦	\N	qì	to cough slightly	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kei (BCSD '謦', p. 1095; Unihan '謦')	8014323
+8014324	拘屡	拘屢	jūlǚ	krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; see 拘盧舍 (SH '拘盧舍', p. 261)	8014324
+8014325	倶卢舍	倶盧舍	jùlúshě	krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; see 拘盧舍 (SH '拘盧舍', p. 261)	8014325
+8014326	谟	謨	mó	a scheme; a plan	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bo, or: mo (BCSD '謨', p. 1095; Unihan '謨')	8014326
+8014327	鸣唤	鳴喚	mínghuàn	shriek; bellow; krośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krośa, Pali: kosa; see 拘盧舍 (FGDB '拘盧舍')	8014327
