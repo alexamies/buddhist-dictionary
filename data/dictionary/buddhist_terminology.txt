@@ -11370,7 +11370,7 @@
 8011370	猪	豬	zhū	pig; varāha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varāha, Japanese: cho (BCSD '豬', p. 815; MW 'varāha'; Unihan '豬')	8011370
 8011371	同法	\N	tóng fǎ	same dharma; same dharma analogy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 同法喻 (Bak 2017, p. 44)	8011371
 8011372	同法喻	\N	tóng fǎ yù	same dharma analogy	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A method used in Buddhist logic (Bak 2017, p. 44-47; FGDB '同法喻')	8011372
-8011373	猫	貓	māo	cat; mārjāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārjāra, Japanese: byou, or: bou, or: myou (BCSD '豬', p. 815; MW 'mārjāra'; Unihan '貓')	8011373
+8011373	猫	貓	māo	cat; mārjāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mārjāra, or: biḍāla, Japanese: byou, or: bou, or: myou, Tibetan: byi la (BCSD '猫', p. 815; BCSD '貓', p. 1106; Mahāvyutpatti 'viḍālaḥ'; MW 'mārjāra'; Unihan '貓')	8011373
 8011374	同喻	\N	tóng yù	same dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 同法喻 (FGDB '同法喻')	8011374
 8011375	空见	空見	kōng jiàn	view of emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '空見'; FGDB '空見'; SH '空見', p. 278)	8011375
 8011376	猴	\N	hóu	monkey; vānara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vānara, Japanese: kou, or: go, Tibetan: spre'u (BCSD '猴', p. 815; Mahāvyutpatti 'vānaraḥ'; MW 'vānara'; SH '猴', p. 383; Unihan '猴')	8011376
@@ -13355,7 +13355,7 @@
 8013355	摩奴法论	摩奴法論	mónú fǎ lùn	Manusmrti; Laws of Manu; Manava-Dharmasastra	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: manusmṛti; the most important work of the Dharmasastra textual tradition of Hinduism (FGDB '摩奴法典'; Wikipedia '摩奴法論')	8013355
 8013356	旧	舊	jiù	old; jīrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jīrṇa, Japanese: kyū (BCSD '舊', p. 999; Mahāvyutpatti 'jīrṇaḥ'; MW 'jīrṇa'; SH '舊', p. 467; Unihan '舊')	8013356
 8013357	旧	舊	jiù	former; pūrva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva (BCSD '舊', p. 999; MW 'pūrva')	8013356
-8013358	须夜摩天	須夜摩天	xūyèmótiān	Yama Heaven; Yamadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 夜摩天 (FGDB '夜摩天')	8013358
+8013358	须夜摩天	須夜摩天	xūyèmótiān	Suyāma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: suyāma; see 夜摩天 (FGDB '夜摩天')	8013358
 8013359	院号	\N	yuànhào	in-gō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: in-gō; a title in Japanese Buddhism  (Matsuo 2007, p. 10)	8013359
 8013360	舐	\N	shì	to lick; lih	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lih, Japanese: shi, or: ji (BCSD '舐', p. 1001; MW 'lih'; Unihan '舐')	8013360
 8013361	舓	\N	shì	to lick	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lih, Japanese: shi, or: ji; variant of 舐 (BCSD '舐', p. 1001; MW 'lih'; Unihan '舓')	8013361
@@ -14415,3 +14415,27 @@
 8014415	豺	\N	chái	jackal; śṛgāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śṛgāla, Japanese: sai (BCSD '豺', p. 1105; MW 'śṛgāla'; Unihan '豺')	8014415
 8014416	毘舍婆佛	\N	píshèpó fó	Visvabhu Buddha; Viśvabhu Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 毘舍浮佛 (FGDB '毘舍浮佛')	8014416
 8014417	随叶佛	隨葉佛	suíyè fó	Visvabhu Buddha; Viśvabhu Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 毘舍浮佛 (FGDB '毘舍浮佛')	8014417
+8014418	贝	貝	bèi	shell; conch; cowry; śaṅkhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śaṅkhā, or: kapardaka, Japanese: bai, or: hai, Tibetan: mgron bu (BCSD '貝', p. 1106; Mahāvyutpatti 'kapardakaḥ'; MW 'śaṅkhā'; Unihan '貝')	8014418
+8014419	删兜率陀天王	刪兜率陀天王	shāndōulǜtuó tiānwáng	Samtusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃtuṣita; ruler of Tuṣita Heaven (Ding '珊兜史多'; Edgerton 1953 'saṃtuṣita', p. 556; FGDB '六欲天')	8014419
+8014420	删兜率陀	刪兜率陀	shāndōulǜtuó	Samtusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃtuṣita; see 刪兜率陀天王 (FGDB '六欲天')	8014420
+8014421	贞	貞	zhēn	chaste; pure	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tei, or: jou (BCSD '貞', p. 1106; SH '貞', p. 314; Unihan '貞')	8014421
+8014422	五妙欲	\N	wǔmiàoyù	objects of the five senses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五妙欲')	8014422
+8014423	珊兜史多	\N	shāndōushǐduō	Samtusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃtuṣita; see 刪兜率陀天王 (Ding '珊兜史多')	8014423
+8014424	负	負	fù	to carry; vah	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vah, Japanese: fu, or: bu (BCSD '負', p. 1106; MW 'vah'; SH '負', p. 314; Unihan '負')	8014424
+8014425	无憍乐天	無憍樂天	wú jiāo lè tiān	Heaven of Joy with No Arrogance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 化樂天 (FGDB '六欲天')	8014425
+8014426	善化天王	\N	shànhuà tiān wáng	Sunirmita Deva King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sunirmita, Pali: Sunimmita; chief of Nirmāṇarati Heaven (Edgerton 1953 'sunirmita', p. 599; FGDB '六欲天')	8014426
+8014427	贡	貢	gòng	tribute; pratyāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyāya, Japanese: fu, or: bu (BCSD '貢', p. 1107; Mahāvyutpatti 'kuntam'; MW 'pratyāya'; SH '貢', p. 314; Unihan '貢')	8014427
+8014428	善化	\N	shànhuà	Sunirmita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sunirmita, Pali: Sunimmita; see 善化天王 (Edgerton 1953 'sunirmita', p. 599; FGDB '六欲天')	8014428
+8014429	欲境	\N	yù jìng	object of desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kāmabhoga (BCSD '欲境', p. 679; MW '欲境')	8014429
+8014430	货	貨	huò	goods; dravya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dravya, Japanese: ka (BCSD '貨', p. 1107; MW 'dravya'; SH '貢', p. 364; Unihan '貨')	8014430
+8014431	空居天	\N	kōng jū tiān	devas dwelling in the sky	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āntarikṣavāsin; a class of devas (Ding '空居天'; FGDB '空居天'; Edgerton 1953 'āntarikṣavāsin', p. 709)	8014431
+8014432	欲生	\N	yù shēng	arising from desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpitsu (BCSD '欲生', p. 674; FGDB '欲生'; MW 'utpitsu')	8014432
+8014433	贩	販	fàn	peddler; vikraya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikraya, Japanese: han (BCSD '販', p. 1107; MW 'vikraya'; Unihan '販')	8014433
+8014434	随叶	隨葉	suíyè	Visvabhu; Viśvabhu	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 毘舍浮佛 (FGDB '毘舍浮佛')	8014434
+8014435	颰陀劫	\N	bátuójié	bhadrakalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 賢劫 (FGDB '賢劫')	8014435
+8014436	贯	貫	guàn	to pierce; āviddha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āviddha, Japanese: han (BCSD '貫', p. 1110; MW 'āviddha'; SH '貫', p. 364; Unihan '貫')	8014436
+8014437	陂陀劫	\N	pítuójié	bhadrakalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 賢劫 (FGDB '賢劫')	8014437
+8014438	波陀劫	\N	bōtuójié	bhadrakalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 賢劫 (FGDB '賢劫')	8014438
+8014439	责	責	zé	blame; paribhāṣā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paribhāṣā, Japanese: seki, or: sai Tibetan: spyo ba (BCSD '責', p. 1110; Mahāvyutpatti 'paribhāṣā'; MW 'paribhāṣā'; Unihan '責')	8014439
+8014440	作时分	作時分	zuòshífēn	bhadrakalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 賢劫 (FGDB '賢劫')	8014440
+8014441	领持	領持	lǐngchí	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 拘留孫佛 (FGDB '拘留孫佛')	8014441
