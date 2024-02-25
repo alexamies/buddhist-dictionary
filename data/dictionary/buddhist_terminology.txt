@@ -14257,7 +14257,7 @@
 8014257	魔王	\N	mó wáng	king of māras	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māra (BCSD '魔王', p. 1291; Ding '魔王'; FGDB '魔王'; SH '魔王', p. 486)	8014257
 8014258	诤	諍	zhèng	quarrel; vigraha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vigraha, Japanese: sou, or: shou (BCSD '諍', p. 1085; MW 'vigraha'; SH '諍', p. 443; Unihan '諍')	8014258
 8014259	嚩啰呬	嚩囉呬	fúluóxì	vārāhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A class of deva dwelling underground (FGDB '五類天'; Giebel 1995, p. 143)	8014259
-8014260	不可称	不可稱	bù kě chēng	inconceivable	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atulyam, Tibetan: gzhal du med pa (Mahāvyutpatti 'atulyam'; MW 'atulya')	8014260
+8014260	不可称	不可稱	bù kě chēng	unequalled	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atulyam, Tibetan: gzhal du med pa (Mahāvyutpatti 'atulyam'; MW 'atulya')	8014260
 8014261	諕	\N	háo	intimidate; tarjanīya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tarjanīyam, Japanese: kou, or: gou, Tibetan: bsdigs pa (BCSD '諕', p. 1085; Edgerton 1953 'tarjanīya', p. 250; Mahāvyutpatti 'tarjanīyam'; MW 'tarjanīya'; Unihan '諕')	8014261
 8014262	乌社	烏社	wūshè	an abbot; a monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 和尚 (FGDB '和尚')	8014262
 8014263	邬波驮耶	鄔波馱耶	wūbōduòyé	upādhyāya; a preceptor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent upādhyāya, Pali: upajjhāya; related to the generic Chinese term for a monk 和尚 (BL 'upādhyāya'; FGDB '和尚')	8014263
@@ -14449,3 +14449,39 @@
 8014449	灭累	滅累	mièlèi	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 拘留孫佛 (FGDB '拘留孫佛')	8014449
 8014450	思量	\N	sīliáng	consider; manasikāra	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manasikāra, Pali: manasikāra (BCSD '思量', p. 474; Edgerton 1953 'manasikāra', p. 418; MW 'manasikāra'; SH '思量', p. 302)	8014450
 8014451	贬	貶	biǎn	diminish	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hen (BCSD '貶', p. 1110; Unihan '貶')	8014451
+8014452	不可思	\N	bù kě sī	inconceivable; unthinkable; unimaginable	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: acintya, Tibetan: bsam gyis mi khyab pa (Mahāvyutpatti 'acintyam'; MW 'acintya')	8014452
+8014453	所应断已断	所應斷已斷	suǒyīngduànyǐduàn	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 拘留孫佛 (FGDB '拘留孫佛')	8014453
+8014454	买	買	mǎi	buy; kraya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kraya, Japanese: bai (BCSD '買', p. 1110; MW 'kraya'; SH '買', p. 391; Unihan '買')	8014454
+8014455	成就美妙	\N	chéngjiùměimiào	Krakucchanda	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Same as 拘留孫佛 (FGDB '拘留孫佛')	8014455
+8014456	纥差呾罗	紇差呾羅	gēchàdáluó	kṣetra; homeland; country; land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 剎土 (FGDB '剎土')	8014456
+8014457	贷	貸	dài	to borrow	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tai, or: toku (BCSD '貸', p. 1110; SH '貸', p. 391; Unihan '貸')	8014457
+8014458	土田	\N	tǔtián	kṣetra; homeland; country; land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 剎土 (FGDB '剎土')	8014458
+8014459	作裘昙	作裘曇	zuòqiútán	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 瞿曇 (FGDB '瞿曇')	8014459
+8014460	费	費	fèi	consume; bhojin	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhojin, Japanese: ti, or: futsu; transliterates Sanskrit vi (BCSD '費', p. 1110; MW 'bhojin'; SH '費', p. 391; Unihan '費')	8014460
+8014461	什多	甚多	shén duō	numerous; bahutaram	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bahutaram, Tibetan: ches mang ba (Mahāvyutpatti 'bahutaram'; MW 'bahutaram')	8014461
+8014462	当来	當來	dānglái	future; anāgata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anāgata (BCSD '當來', p. 851; MW 'anāgata'; SH '當來', p. 27)	8014462
+8014463	贴	貼	tiē	to stick to; saṃśliṣyamāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃśliṣyamāṇa, Tibetan: 'byar ba, Japanese: ten, or: chou (BCSD '貼', p. 1111; Mahāvyutpatti 'saṃśliṣyamāṇaḥ'; SH '貼', p. 391; Unihan '貼')	8014463
+8014464	过去	過去	guòqù	past; previous; former	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: purāṇa, Tibetan: gna' rabs (Mahāvyutpatti 'purāṇam'; MW 'purāṇa'; SH '過去', p. 414)	8014464
+8014465	忍辱仙人	\N	rěnrǔ xiānrén	Ksantivadin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣāntivādin, or: kṣāntyṛṣi, Pali: Khantivādin; name of a previous incarnation of Śākyamuni Buddha, for example, mentioned in 金剛般若波羅蜜經 the “Diamond Sūtra” (Edgerton 1953 'kṣāntivādin', p. 199; FGDB '歌利王'; Harrison 2006, p. 150; MW 'kṣāntivādin'; SH '忍辱仙', p. 237; T 235, 8.0750b09)	8014465
+8014466	贸	貿	mào	trade	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: bou, or: mou (BCSD '貿', p. 1111; Unihan '貿')	8014466
+8014467	忍辱仙	\N	rěnrǔxiān	Ksantivadin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣāntivādin, or: kṣāntyṛṣi, Pali: Khantivādin; see 忍辱仙人 (SH '忍辱仙', p. 237)	8014467
+8014468	瞿答摩	\N	jùdámó	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 瞿曇 (FGDB '瞿曇')	8014468
+8014469	贺	賀	hè	ha	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ha, Japanese: ga, or: ka; used in Sanskrit transliteration (BCSD '賀', p. 1111; SH '賀', p. 391; Unihan '賀')	8014469
+8014470	俱谭	俱譚	jūtán	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 瞿曇 (FGDB '瞿曇')	8014470
+8014471	具谭	具譚	jùtán	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 瞿曇 (FGDB '瞿曇')	8014471
+8014472	赁	賃	lìn	rent	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chin, or: jin (BCSD '賃', p. 1111; Unihan '賃')	8014472
+8014473	最上	\N	zuìshàng	supreme	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uttama, Tibetan: dam pa (Edgerton 1953 'uttama', p. 122; Mahāvyutpatti 'uttamaḥ'; MW 'uttama'; SH '最上', p.376)	8014473
+8014474	地最胜	地最勝	dìzuìshèng	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 瞿曇 (FGDB '瞿曇')	8014474
+8014475	资	資	zī	funds	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shi (BCSD '資', p. 1111; SH '資', p. 413; Unihan '資')	8014475
+8014476	波波罗树	波波羅樹	bōbōluóshù	pāṭalī; trumpet-flower tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: pāṭalī (Kieschnick and Wiles 2017, vol. 1, p. 63; T 1)	8014476
+8014477	日光	\N	rìguāng	sunlight; sūryaprabha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūryaprabha, Tibetan: nyi ma'i 'od; also the name of a bodhisattva Sūryaprabha 日光菩薩 (Edgerton 1953 'sūryaprabha', p. 605; Mahāvyutpatti 'sūryaprabhaḥ'; MW 'sūryaprabha'; SH '日光', p. 155)	8014477
+8014478	贾	賈	gǔ	travelling merchants; sārtha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sārtha, Japanese: ko (BCSD '賈', p. 1112; MW 'sārtha'; Unihan '賈')	8014478
+8014479	中日分	\N	zhōng rì fēn	middle of the day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the three divisions of a day; for example, in 金剛般若波羅蜜經 the “Diamond Sūtra” (Harrison 2006, p. 150; SH '初日分', p. 251; T 235, 8.0750c07)	8014479
+8014480	初中后	初中後	chū zhōng hòu	the three divisions of a day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '初日分', p. 251)	8014480
+8014481	贼	賊	zéi	thief; caura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caura, Japanese: zoku (BCSD '賊', p. 1112; MW 'caura'; SH '賊', p. 413; Unihan '賊')	8014481
+8014482	后日分	後日分	hòu rì fēn	evening	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the three divisions of a day; for example, in 金剛般若波羅蜜經 the “Diamond Sūtra” (Harrison 2006, p. 150; SH '初日分', p. 251; T 235, 8.0750c07)	8014482
+8014483	分陀利树	分陀利樹	fēntuólìshù	puṇḍarī; lotus tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: puṇḍarī (Kieschnick and Wiles 2017, vol. 1, p. 63; T 1)	8014483
+8014484	宾	賓	bīn	guest	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hin (BCSD '賓', p. 1112; SH '賓', p. 429; Unihan '賓')	8014484
+8014485	不可称量	不可稱量	bù kě chēngliàng	incomparable	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in 金剛般若波羅蜜經 the “Diamond Sūtra” (Harrison 2006, p. 150; T 235, 8.0750c12)	8014485
+8014486	最上乘	\N	zuì shàng shèng	the supreme vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the supreme teaching of the Mahayana (Ding '最上乘'; SH '最上乘', p. 376)	8014486
+8014487	赋	賦	fù	bestow on	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: fu (BCSD '賦', p. 1112; SH '賦', p. 429; Unihan '賦')	8014487
