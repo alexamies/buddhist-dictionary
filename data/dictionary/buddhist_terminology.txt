@@ -964,7 +964,7 @@
 8000964	对治	對治	duì zhì	an equal to; an opposite; an antidote	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratipakṣa, Pali: paṭipakkha, Japanese: taiji, Tibetan: gnyen po; opposites to remedy mental afflictions; for example hatred is countered by loving kindness (BL 'pratipakṣa'; Ding '對治'; FGDB '對治'; SH '對治', p. 423)	8000964
 8000965	道业	道業	dàoyè	work to follow the teachings of the Buddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '道業')	8000964
 8000966	天眼通	\N	tiānyǎn tōng	Heavenly Vision; divine sight	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the six supernatural powers in Buddhism 六神通 (FGDB '天眼通'; SH '天眼通', p. 146; Tzu Chuang 2012)	8000966
-8000967	通	\N	tōng	a spiritual power; supernatural powers; a remarkable ability; a magical power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神通 (SH '通', p. 365)	8000967
+8000967	通	\N	tōng	a spiritual power; supernatural powers; a remarkable ability; ṛddhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṛddhi, Pali: iddhi; see 神通 (BCSD '通', p. 1149; Edgerton 1953 'ṛddhi', p. 151; MW 'ṛddhi'; SH '通', p. 365)	8000967
 8000968	轻安	輕安	qīng ān	calmness; tranquillity; repose; serenity; prasrabhi; passaddhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśrabdhi, Pali: passaddhi, Tibetan: shin tu spyangs pa (FGDB '輕安'; Mahāvyutpatti 'prasrabdhiḥ'; MW 'praśrabdhi'; SH '輕安', p. 429)	8000968
 8000969	摄受	攝受	shèshòu	to protect; to uphold; received and taken care of; kindness	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parigraha, or: anugraha, Tibetan: byin len, or: sbyin len; for example, from the 華嚴經 ”Avataṃsaka Sūtra”, Scroll 2, 以四攝事而曾攝受 'had received them and taken care of them with the four saving practices of generosity' (BCSD '攝受'; Dhammajoti 2013, p. 57; Cleary 1993, p. 64; FGDB '四種攝受';Mahāvyutpatti 'pratigrahaḥ'; MW 'parigraha'; T 279 0005b24).	8000969
 8000970	天神	\N	tiānshén	a god; a deity; devatā	noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devatā, Pali: devatā, Japanese: tenjin, Tibetan: lha; (BL 'devatā'; SH '天神', p. 146)	8000970
@@ -3471,7 +3471,7 @@
 8003471	若衍底	\N	ruòyǎndǐ	jayanti; victorious	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jayanta; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'jayanta'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014b24)	8003471
 8003472	金刚锁	金剛鎖	jīngāngsuǒ	Vajrasrnkhala	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	anskrit equivalent: vajraśṛṅkhalā; see 金剛鏁菩薩 (MW 'vajraśṛṅkhalā'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014b27)	1678003472367
 8003473	满陀	滿陀	mǎntuó	mota; bundle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: moṭa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'moṭa'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014b27)	8003473
-8003474	赧	\N	nǎn	maṅku; shaking	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṅku (BCSD '赧', p. 1115; MW 'maṅku')	8003474
+8003474	赧	\N	nǎn	maṅku; shaking	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṅku, Japanese: tan, or: dan (BCSD '赧', p. 1115; MW 'maṅku'; Unihan '赧')	8003474
 8003475	发吒	發吒	fāzhà	to wreck; to break; to destroy	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 破壞 (Ding '發吒')	8003475
 8003476	发吒	發吒	fāzhà	phat	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: phaṭ; a mystical Sanskrit letter used in a matra in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '八大童子印言'; MW 'phaṭ'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c07)	8003475
 8003477	八大童子印言	\N	bā dà tóngzi yìn yán	Eight Boy Attendants Mudra Mantra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八大童子印言')	8003477
@@ -14485,3 +14485,55 @@
 8014485	不可称量	不可稱量	bù kě chēngliàng	incomparable	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in 金剛般若波羅蜜經 the “Diamond Sūtra” (Harrison 2006, p. 150; T 235, 8.0750c12)	8014485
 8014486	最上乘	\N	zuì shàng shèng	the supreme vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the supreme teaching of the Mahayana (Ding '最上乘'; SH '最上乘', p. 376)	8014486
 8014487	赋	賦	fù	bestow on	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: fu (BCSD '賦', p. 1112; SH '賦', p. 429; Unihan '賦')	8014487
+8014488	此处	此處	cǐ chù	here; atra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atra, Tibetan: 'dir (Mahāvyutpatti 'atra'; MW 'atra')	8014488
+8014489	作礼	作禮	zuòlǐ	bow; praṇāma	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇāma (BCSD '作禮', p. 124; MW 'praṇāma'; SH '作禮', p. 224)	8014489
+8014490	賖	\N	shē	buy on credit	\N	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sha (BCSD '賖', p. 1112; Unihan '賖')	8014490
+8014491	沙罗树	沙羅樹	shāluóshù	sala tree; sal tree; shala tree; śāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 娑羅樹 (FGDB '娑羅樹')	8014491
+8014492	萨罗树	薩羅樹	sàluóshù	sala tree; sal tree; shala tree; śāla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 娑羅樹 (FGDB '娑羅樹')	8014492
+8014493	赐	賜	cì	offer; anuprayam	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anuprayam, Japanese: sha (BCSD '賜', p. 1112; MW 'anuprayam'; Unihan '賜')	8014493
+8014494	尸利沙树	尸利沙樹	shīlìshā shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa (Ding '尸利沙'; FGDB '尸利沙樹'; SH '尸利沙', p. 101)	8014494
+8014495	尸利沙	\N	shīlìshā	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (Ding '尸利沙'; SH '尸利沙', p. 101)	8014495
+8014496	赏	賞	shǎng	reward; dāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dāya, Japanese: shou (BCSD '賞', p. 1112; MW 'dāya'; Unihan '賞')	8014496
+8014497	尸利洒树	尸利灑樹	shīlìsǎ shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014497
+8014498	尸利洒	尸利灑	shīlìsǎ	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014498
+8014499	卖	賣	mài	sell; vikraya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikraya, Japanese: bai, or: mai (BCSD '賣', p. 1113; MW 'vikraya'; SH '賣', p. 444; Unihan '賣')	8014499
+8014500	初日分	\N	chū rì fēn	morning	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first of the three parts of a day (SH '初日分', p. 251)	8014500
+8014501	师利沙树	師利沙樹	shīlìshā shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014501
+8014502	贱	賤	jiàn	base; nīca	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nīca, Japanese: sen, or: zen (BCSD '賤', p. 1113; MW 'nīca'; Unihan '賤')	8014502
+8014503	师利沙	師利沙	shīlìshā	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014503
+8014504	舍离沙树	舍離沙樹	shèlíshā shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014504
+8014505	质	質	zhì	body; śarīra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śarīra, Japanese: shitsu, or: shichi (BCSD '質', p. 1114; MW 'śarīra'; Unihan '質')	8014505
+8014506	舍离沙	舍離沙	shèlíshā	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014506
+8014507	合欢树	合歡樹	héhuān shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014507
+8014508	赌	賭	dǔ	gamble	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: to (BCSD '賭', p. 1114; Unihan '賭')	8014508
+8014509	围绕	圍繞	wéirǎo	surround; parivṛta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parivṛta, Tibetan: yongs su bskor ba (BCSD '圍繞', p. 287; Mahāvyutpatti 'parivṛtaḥ'; MW 'parivṛta'; SH '圍繞', p. 369)	8014509
+8014510	今世	\N	jīnshì	in this world	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ihatra, Tibetan: 'di la (Mahāvyutpatti 'ihatra'; MW 'ihatra')	8014510
+8014511	赖	賴	lài	rely on	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: rai (BCSD '賴', p. 1114; SH '賴', p. 451; Unihan '賴')	8014511
+8014512	算数	算數	suànshù	to count	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gaṇana (BCSD '算數', p. 921; MW 'gaṇana'; SH '算數', p. 427)	8014512
+8014513	后末世	後末世	hòu mò shì	last age	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in 金剛般若波羅蜜經 the “Diamond Sūtra” (Harrison 2006, p. 151; Karashima 2001; T 235, 8.0750c27)	8014513
+8014514	赛	賽	sài	money offerings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sai (BCSD '賽', p. 1114; SH '賽', p. 463; Unihan '賽')	8014514
+8014515	通	\N	tōng	intellectual) penetration; prativedha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prativedha, Pali: paṭivedha (BCSD '通', p. 1149; Edgerton 1953 'prativedha', p. 369)	8000967
+8014516	通达	通達	tōngdá	intellectual) penetration; prativedha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prativedha, Pali: paṭivedha (BCSD '通達', p. 1149; Edgerton 1953 'prativedha', p. 369; SH '通達', p. 365)	8014516
+8014517	无人	無人	wú rén	without existence; not substantial; niḥsattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niḥsattva (BCSD '無人', p. 1149; MW 'niḥsattva')	8014517
+8014518	赞	贊	zàn	assist	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: san (BCSD '贊', p. 1114; SH '贊', p. 474; Unihan '贊')	8014518
+8014519	无寿	無壽	wú shòu	no life	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 1998)	8014519
+8014520	夜合树	夜合樹	yèhé shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014520
+8014521	赡	贍	shàn	assist	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen, or: zen; transliterates Sanskrit jam (BCSD '贍', p. 1114; SH '贍', p. 481; Unihan '贍')	8014521
+8014522	合昏树	合昏樹	héhūn shù	acacia tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śirīṣa; see 尸利沙樹 (FGDB '尸利沙樹')	8014522
+8014523	黄教	黃教	huángjiāo	Yellow Hat Tibetan Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also known as the 格魯派 Geluk School (CC-CEDICT '黃教'; Guoyu '黃教'; Mathews 1931 '黃教', p. 99; SH '黃教', p. 395; Wikipedia '黃教')	8014523
+8014524	赎	贖	shú	to redeem	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shoku (BCSD '贖', p. 1114; SH '贖', p. 487; Unihan '贖')	8014524
+8014525	钵多树	鉢多樹	bōduōshù	pippala; sacred fig tree; bodhi tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 菩提樹 (FGDB '菩提樹')	8014525
+8014526	道分	\N	dào fēn	destiny to become a Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '道分')	8014526
+8014527	赤	\N	chì	red; lohita	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lohita, Japanese: seki, or: shaku, Tibetan: dmar po (BCSD '赤', p. 1115; Mahāvyutpatti 'lohitam'; MW 'lohita'; SH '赤', p. 245; Unihan '赤')	8014527
+8014528	天竺菩提树	天竺菩提樹	tiānzhúpútíshù	bodhi tree; pippala; Indian sacred fig tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 菩提樹 (FGDB '菩提樹')	8014528
+8014529	阿婆嘬罗	阿婆嘬羅	āpóchuàiluó	ābhāsvara; abhasvara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ābhāsvara, Pali: abhassara; literally, all brightness; explained by light and sound (FGDB '光音天'; Eitel 'abhasvara' p. 1; SH '阿波會', p. 289)	8014529
+8014530	赫	\N	hè	radiant	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: seki, or:  (BCSD '赫', p. 1115; Unihan '赫')	8014530
+8014531	觉树	覺樹	juéshù	bodhi tree; pippala; sacred fig tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 菩提樹 (FGDB '菩提樹')	8014531
+8014532	道树	道樹	dàoshù	bodhi tree; pippala; sacred fig tree	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 菩提樹 (FGDB '菩提樹')	8014532
+8014533	赭	\N	zhě	ocher	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sha (BCSD '赭', p. 1115; Unihan '赭')	8014533
+8014534	道场树	道場樹	dàochǎngshù	bodhi tree; pippala; sacred fig tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 菩提樹 (FGDB '菩提樹')	8014534
+8014535	思惟树	思惟樹	sīwéishù	bodhi tree; pippala; sacred fig tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 菩提樹 (FGDB '菩提樹')	8014535
+8014536	赴	\N	fù	to go; to enter; praveśa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praveśa, Japanese: fu (BCSD '赴', p. 1115; MW 'praveśa'; SH '赴', p. 314; Unihan '赴')	8014536
+8014537	一身	\N	yī shēn	one body; dharma body	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Ding '一身'; FGDB '一身')	8014537
+8014538	断惑	斷惑	duàn huò	to end delusion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '斷惑'; FGDB '斷惑'; SH '斷惑', p. 465)	8014538
+8014539	趁	\N	chèn	to follow after; samanubandha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanubandha, Japanese: chin (BCSD '趁', p. 1118; Edgerton 1953 'samanubandha', p. 562; Unihan '趁')	8014539
