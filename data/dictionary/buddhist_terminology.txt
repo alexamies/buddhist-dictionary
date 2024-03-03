@@ -6468,7 +6468,7 @@
 8006468	苦谛	苦諦	kǔ dì	the truth of suffering; the noble truth of the existence of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first of 四聖諦 the four noble truths; (DJBT 'Shishōtai'; Tzu Chuang 2012, pp. 356-358; Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '四諦')	8006468
 8006469	集谛	集諦	jí dì	the truth of the cause of suffering; the noble truth of the cause of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of 四聖諦 the four noble truths that craving is the cause of suffering (DJBT 'Shishōtai'; Tzu Chuang 2012 Nyanatiloka Thera 1980, 'sacca'; T 26, Scroll 7; FGDB '集諦')	8006469
 8006470	蹈七寳华	蹈七寳華	dǎoqībǎohuá	Saptaratnapadmavikrāmin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptaratnapadmavikrāntagāmin; name of a future Buddha that Rahula will become, predicted in the 妙法蓮華經 “Lotus Sutra” (BCSD '蹈七寳華', p. 1125; Braarvig 2020, ch. 9; Hurvitz 2009, p. 171; Kern tr. 1884, ch. 9; Vaidya 1960, p. 139; T 262, Scroll 4, 9.0030a07)	8006470
-8006471	蹈	\N	dǎo	to tread	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikrāntagāmin (BCSD '蹈', p. 1125; SH '蹈', p. 463)	8006471
+8006471	蹈	\N	dǎo	to tread	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikrāntagāmin, Japanese: tou, or: dou (BCSD '蹈', p. 1125; SH '蹈', p. 463; Unihan '蹈')	8006471
 8006472	博	\N	bó	broad; extensive; vipula	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipula (BCSD '博', p. 220; MW 'vipula'; SH '博', p. 368)	8006472
 8006473	疮癣	瘡癬	chuāng xuǎn	ulcers and ringworms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An expresson used the 妙法蓮華經 “Lotus Sutra”  (Karashima 2001, p. 88; T 262, Scroll 2, 9.0017b18)	8006473
 8006474	安住	\N	ānzhù	standing firm; supratiṣṭhita	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthiti, or: supratiṣṭhita, Tibetan: shin tu gnas pa (BCSD '安住', p. 373; Mahāvyutpatti 'supratiṣṭhitaḥ'; MW 'supratiṣṭhita')	8006474
@@ -14590,3 +14590,23 @@
 8014590	阿支罗	阿支羅	azhīluó	acela; naked	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '阿支羅迦葉'; SN 12.17; T 499)	8014590
 8014591	露形外道	\N	lùxíng wàidào	acelaka; Digambara	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	A clothless ascetic school; see 裸形外道 and 天衣派 (FGDB '裸形外道')	8014591
 8014592	踰	\N	yú	exceed; anuttara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anuttara, Pali: anuttara, Japanese: yu, or: you (BCSD '踰', p. 1125; MW 'ākuñcana'; SH '踰', p. 451; Unihan '踰')	8014592
+8014593	无衣外道	無衣外道	wúyīwàidào	acelaka; Digambara	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	A clothless ascetic school; see 裸形外道 and 天衣派 (FGDB '裸形外道')	8014593
+8014594	紫磨金	\N	zǐmójīn	polished rose gold	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '紫磨金'; Kieschnick and Wiles 2017, vol. 1, p. 74)	8014594
+8014595	踵	\N	zhǒng	heel; pārṣṇi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārṣṇi, Japanese: shou (BCSD '踵', p. 1125; MW 'pārṣṇi'; Unihan '踵')	8014595
+8014596	紫磨黄金	紫磨黃金	zǐmó huángjīn	polished rose gold	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 紫磨金 (FGDB '紫磨金')	8014596
+8014597	紫金	\N	zǐjīn	polished rose gold	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 紫磨金 (FGDB '紫磨金')	8014597
+8014598	踹	\N	chuài	heel; jaṅgha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jaṅgha, or: jaṅghā, Japanese: sen, or: zen, or: tan (BCSD '踹', p. 1125; MW 'jaṅgha'; Unihan '踹')	8014598
+8014599	怛唎耶怛唎奢天	\N	dálìyédálìshē tiān	Trāyastriṃśa Heaven; Tavatimsa; The Heaven of Thirty-Three Gods	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 忉利天 (Ding '忉利天')	8014599
+8014600	多罗夜登陵舍天	多羅夜登陵舍天	duōluóyèdēnglíngshè tiān	Trāyastriṃśa Heaven; Tavatimsa; The Heaven of Thirty-Three Gods	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 忉利天 (Ding '忉利天')	8014600
+8014601	蹂	\N	róu	tread; mṛd	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛd, Japanese: jū (BCSD '蹂', p. 1125; MW 'mṛd'; Unihan '蹂')	8014601
+8014602	道术	道術	dào shù	skills of the path	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '道術'; FGDB '道術'; SH '道術', p. 417)	8014602
+8014603	道术	道術	dào shù	magician; soothsayer	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, a Taoist magician (FGDB '道術')	8014602
+8014604	蹄	\N	tí	hoof; khura	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: khura, Japanese: tei, Tibetan: rmig pa (BCSD '蹄', p. 1125; Mahāvyutpatti 'khuram'; MW 'khura'; Unihan '蹄')	8014604
+8014605	承露盘	承露盤	chénglùpán	stacked rings; wheel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 相輪 (FGDB '相輪')	8014605
+8014606	得究竟	\N	dé jiūjìng	attain; prāpnoti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prāpnoti (Dhammajoti 2013, p. 204)	8014606
+8014607	蹉	\N	cuō	to make an error	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sa (BCSD '蹉', p. 1125; Unihan '蹉')	8014607
+8014608	存念	\N	cún niàn	focus the mind on; samanvāharati	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanvāharati (Dhammajoti 2013, p. 204; Edgerton 1953 'samanvāharati', p. 204)	8014608
+8014609	一心念	\N	yī xīn niàn	focus the mind on; samanvāharati	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanvāharati; see 存念 (Dhammajoti 2013, p. 204)	8014609
+8014610	护念	護念	hù niàn	focus the mind on; samanvāharati	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanvāharati; see 存念 (Dhammajoti 2013, p. 204)	8004947
+8014611	专志	專志	zhuān zhì	focus the mind on; samanvāharati	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samanvāharati; see 存念 (Dhammajoti 2013, p. 204)	8014611
+8014612	会入	會入	huì rù	cause to flow together; harmonizes with	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃsyandayati (Dhammajoti 2013, p. 204)	8014612
