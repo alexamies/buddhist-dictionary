@@ -903,7 +903,7 @@
 8000903	迷津	\N	míjīn	the crossing of delusion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Referring to the 三界六道眾生 three realms and six destinies of sentient beings (FGDB '迷津'; SH '迷津', p. 340)	8000902
 8000904	八苦	\N	bākǔ	eight kinds of suffering; the eight distresses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṣṭaduḥkha; Tibetan: sdug bsngal rgyad; namely: 1. birth 生苦, 2. old age 老苦, 3. sickness 病苦, 4. death 死苦, 5. parting with what we love 爱别离苦, 6. meeting with what we hate 怨憎会苦, 7. not getting what we want 求不得苦, and 8. all the ills of the five skandhas 五蕴熾盛苦 (BL 'eight sufferings'; FGDB '八苦'; SH '八苦', p. 39; Tzu Chuang 2012)	8000904
 8000905	领纳	領納	lǐngnà	to accept; to receive	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '領納'; SH '領納', p. 429)	8000905
-8000906	了别	了別	lebié	to distinguish; to discern	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '識', p. 473)	8000906
+8000906	了别	了別	liǎo bié	to distinguish; to discern	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vijānāti (Dhammajoti 2013, p. 205; SH '識', p. 473)	8000906
 8000907	音声	音聲	yīnshēng	sound; noise	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kolāhala, Tibetan: ku co (Ding '音聲'; Mahāvyutpatti 'kolāhalaḥ'; SH '音聲', p. 318)	8000907
 8000908	果报	果報	guǒbào	fruition; the result of karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vipāka, Pali: vipāka, Japanese: kahō, Tibetan: rnam par smin pa; literaly meaning 'ripening' or 'maturing' in Sanskrit (Bareau 2013, p. 187; BCSD '果報'; BL 'vipāka'; FGDB '果報'; MW 'vipAka'; FGDB '果報', p. 264)	8000908
 8000909	业因	業因	yèyīn	karmic conditions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmahetu (Ding '業因'; FGDB '業因'; MW 'karmahetu'; SH '業因', p. 403; Sharf 2005, p. 282)	8000909
@@ -14627,3 +14627,7 @@
 8014627	乌瑟尼沙	烏瑟尼沙	wūsèníshā	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛頂 (FGDB '佛頂')	8014627
 8014628	蹬	\N	dèng	step	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou, or: dou (BCSD '蹬', p. 1125; Unihan '蹬')	8014628
 8014629	郁瑟尼沙	鬱瑟尼沙	yùsèníshā	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛頂 (FGDB '佛頂')	8014629
+8014630	意愿	意願	yìyuàn	intention; abhiprāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhiprāya, Pali: adhippāya (Dhammajoti 2013, p. 226; Edgerton 1953 'abhiprāya', p. 54; MW 'abhiprāya')	8014630
+8014631	蹲	\N	dūn	squat	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utkuṭuka, Japanese: son, or: shun (BCSD '蹲', p. 1125; Edgerton 1953 'utkuṭuka', p. 121; Unihan '蹲')	8014631
+8014632	无情	無情	wúqíng	relating to non-sentient beings	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Like plants, rocks, etc; in contrast to 有情 'sentient beings' that have cognition (Guoyu '無情' 4)	8014632
+8014633	愿求	願求	yuàn qiú	aspires	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhiprāya, Pali: adhippāya (Dhammajoti 2013, p. 226; Edgerton 1953 'abhiprāya', p. 54; MW 'abhiprāya')	8014633
