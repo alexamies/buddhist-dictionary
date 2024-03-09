@@ -4966,7 +4966,7 @@
 8004966	想蕴	想蘊	xiǎngyùn	perception; cognition; conceptualization; saṃjñā; samjna	noun	蕴	Aggregate	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñā, Pali: saññā; one of the five aggregates (SH '想蘊', p. 399)	8004966
 8004967	想	\N	xiǎng	notion; perception; cognition; conceptualization; saṃjñā; samjna	noun	蕴	Aggregate	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñā, Pali: saññā, Japanese: sou, or: so, Tibetan: 'du shes; one of the five aggregates (BCSD '想', p. 490; BL 'saṃjñā'; Mahāvyutpatti 'saṃjñā'; Tzu Chuang 2012; Kroll 2015 '想' 1c; Unihan '想')	8004967
 8004968	作意	\N	zuò yì	attention; engagement	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manasikāra, Pali: manasikāra (FGDB '作意'; SH '作意', p. 224)	8004968
-8004969	寻	尋	xún	vitarka; vitarkah; vitakka; conception; gross detection; examination; application of thought	noun	\N	\N	佛教	Buddhism	\N	\N	\N	xun2.mp3	Sanskrit equivalent: vitarka, Pali: vitakka, Japanese: jin, Tibetan: rtog pa; one of the four changeable mental factors of the Mahayana teachings (BCSD '尋', p. 394; Ding '尋'; FGDB '尋'; Mahāvyutpatti 'vitarkaḥ'; MW 'vitarka'; SH '尋', p. 370; Unihan '尋')	8004969
+8004969	寻	尋	xún	conception; gross detection; examination; vitarka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitarka, Pali: vitakka, Japanese: jin, Tibetan: rtog pa; one of the four changeable mental factors of the Mahayana teachings (BCSD '尋', p. 394; Ding '尋'; FGDB '尋'; Mahāvyutpatti 'vitarkaḥ'; MW 'vitarka'; SH '尋', p. 370; Unihan '尋')	8004969
 8004970	欲	\N	yù	desire; intention; wish; kāma	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	yu4.mp3	Sanskrit equivalent: chanda, or: kāma, Pali: canda, Japanese: yoku, Tibetan: 'dun pa; one of the five object-determining mental factors in the Mahayana teachings (BCSD '欲', p. 673; DJBT '欲', p. 436; FGDB '欲'; Mahāvyutpatti 'chandaḥ'; MW 'chanda'; SH '欲', p. 355)	8004970
 8004971	伺	\N	sì	vicāra; vicara; sustained application; sustained thinking; selectiveness; subtle discernment; discernment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	si4.mp3	Sanskrit equivalent: vicāra, Pali: vicāra, Japanese shi, Tibetan: dpyod pa; one of the four changeable mental factors in the Mahayana teachings (BCSD '伺', p. 107; BL 'vicāra'; Ding '伺'; FGDB '伺'; Mahāvyutpatti 'vicāraḥ'; SH '伺')	8004971
 8004972	四禅	四禪	sì chán	the four meditations; the four dhyānas; the four jhānas	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāri dhyānāni, Pali: cattāri jhānāni; they are the first dhyāna 初禪、second dhyāna 二禪、third dhyāna 三禪、and fourth dhyāna 四禪 (FGDB '四禪'; Guoyu '四禪', p. 179)	8004972
@@ -14668,3 +14668,37 @@
 8014668	羯脾鸟	羯脾鳥	jiépíniǎo	kalavinka bird; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014668
 8014669	羯脾	\N	jiépí	kalavinka; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014669
 8014670	频伽鸟	頻伽鳥	pínjiā niǎo	kalavinka bird; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014670
+8014671	轩	軒	xuān	raise; ucchrāpita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ucchrāpita, Japanese: ken (BCSD '軒', p. 1133; Unihan '軒')	8014671
+8014672	频伽	頻伽	pínjiā	kalavinka; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014672
+8014673	好声鸟	好聲鳥	hǎoshēng niǎo	kalavinka bird; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014673
+8014674	轭	軛	è	yoke; yoga	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yoga, Pali: yoga, Japanese: aku, or: yaku, Tibetan: sbyor ba (BCSD '軛', p. 1133; Edgerton 1953 'yoga', p. 448; Mahāvyutpatti 'yogaḥ'; MW 'yoga'; Unihan '軛')	8014674
+8014675	勇施菩萨	勇施菩薩	yǒngshī púsà	Pradānaśūra bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1; SH '勇施菩薩', p. 297)	8014675
+8014676	满月菩萨	滿月菩薩	mǎnyuè púsà	Pūrṇacandra bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8014676
+8014677	大力菩萨	大力菩薩	dàlì púsà	Mahāvikramin bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8014677
+8014678	无量力菩萨	無量力菩薩	wúliànglì púsà	Anantavikramin bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8014678
+8014679	跋陀婆罗菩萨	跋陀婆羅菩薩	bátuópóluó púsà	Bhadrapāla bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8014679
+8014680	宝积菩萨	寶積菩薩	bǎojī púsà	Ratnākara bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus Sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8014680
+8014681	导师菩萨	導師菩薩	dǎoshī púsà	Susāthavāha bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus sūtra” (FGDB '寶手菩薩'; Kumārajīva, Kubo, and Yuyama 2007, p. 3; T 262, Scroll 1)	8014681
+8014682	梵娑婆主	\N	fàn suōpó zhǔ	Brahma Sahaṃpati; Chief of the Vedic Gods	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahmā sahāṃpati, Tibetan: mi mjed kyi bdag po tshangs pa (Dhammajoti 2013, p. 227; Mahāvyutpatti 'brahmā sahāṃpatiḥ')	8014682
+8014683	娑婆梵主	\N	suōpó fàn zhǔ	Brahma Sahaṃpati; Chief of the Vedic Gods	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahmā sahāṃpati, Tibetan: mi mjed kyi bdag po tshangs pa; see 梵娑婆主 (Mahāvyutpatti 'brahmā sahāṃpatiḥ')	8014683
+8014684	软	軟	ruǎn	soft; mṛdu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mṛdu, , or: ślakṣṇa, Japanese: nan, or: zen, or: nen, Tibetan: 'jam pa (BCSD '軟', p. 1133; Mahāvyutpatti 'ślakṣṇatvam'; MW 'mṛdu'; Unihan '軟')	8014684
+8014685	美音鸟	美音鳥	měiyīnniǎo	kalavinka bird; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014685
+8014686	妙声鸟	妙聲鳥	miàoshēng niǎo	kalavinka bird; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (FGDB '迦陵頻伽鳥')	8014686
+8014687	轸	軫	zhěn	Hasta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hastā, Japanese: shin, Tibetan: me bzhi; the 11th lunar asterism, represented by a hand (BCSD '軟', p. 1133; Mahāvyutpatti 'ślakṣṇatvam'; MW 'hastā'; Unihan '軫')	8014687
+8014688	迦陆频伽鸟	迦陸頻伽鳥	jiālùpínjiāniǎo	kalavinka bird; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivaent: kalaviṅka; see 迦陵頻伽鳥 (BL 'kalaviṅka', p. 408)	8014688
+8014689	迦陆频伽	迦陸頻伽	jiālùpínjiā	kalavinka; kalaviṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦陵頻伽鳥 (BL 'kalaviṅka')	8014689
+8014690	軷	\N	bá	sacrifice	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hatsu, or: bachi (BCSD '軷', p. 1134; Unihan '軷')	8014690
+8014691	踰阇那	踰闍那	yúshénà	yojana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 由旬 (FGDB '由旬')	8014691
+8014692	佛事	\N	fó shì	the work of the Buddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhakṛtya (Dhammajoti 2013, p. 227; Ding '佛事'; FGDB '佛事'; SH '佛事', p. 225)	8014692
+8014693	轴	軸	zhóu	axle; akṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣa, Japanese: hatsu, or: bachi (BCSD '軸', p. 1134; MW 'akṣa'; Unihan '軸')	8014693
+8014694	阿波会	阿波會	ābōhuì	ābhāsvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ābhāsvara, Pali: abhassara; the sixth of the Brahma worlds or its inhabitants; seee also 阿婆嘬羅 (Eitel 'abhasvaras' p. 1; FGDB '光音天'; SH '阿波會' p. 289)	8014694
+8014695	正觉理趣	正覺理趣	zhèng jué lǐ qù	guidance of the Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhanetrī, Tibetan: sangs rgyas kyi tshul lam lugs (Dhammajoti 2013, p. 227; Mahāvyutpatti 'buddhanetrī')	8014695
+8014696	轲	軻	kē	ke	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ka (BCSD '軻', p. 1134; Unihan '軻')	8014696
+8014697	净信心	淨信心	jìng xìnxīn	serene faith	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cittaprasāda (Dhammajoti 2013, p. 227; MW 'cittaprasāda')	8014697
+8014698	胜军	勝軍	shèng jūn	conquering army	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '勝軍', p. 367)	8014698
+8014699	较	較	jiào	compare	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kaku, or: kou (BCSD '較', p. 1134; Unihan '較')	8014699
+8014700	西儞迦外道	\N	xīnǐjiāwàidào	Senika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 先尼外道 (FGDB '先尼外道')	8014700
+8014701	先尼外道	\N	xiānní wàidào	Srenika	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	A group of wandering mendicants at the time of the Buddha (FGDB '先尼外道')	8014701
+8014702	辂	輅	lù	chariot; ratha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratha, Japanese: ro, or: raku, or: kaku (BCSD '輅', p. 1134; MW 'ratha'; Unihan '輅')	8014702
+8014703	霰尼外道	\N	xiànníwàidào	Senika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 先尼外道 (FGDB '先尼外道')	8014703
+8014704	寻	尋	xún	fathom; vyāma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāma, Tibetan: 'dom; a measure of the two extended arms (Dhammajoti 2013, p. 227; Mahāvyutpatti 'vyāmaḥ'; MW 'vyāma'; SH '尋', p. 370)	8004969
