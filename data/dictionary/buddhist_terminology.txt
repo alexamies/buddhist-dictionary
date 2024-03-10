@@ -1015,7 +1015,7 @@
 8001015	教化	\N	jiāohuà	teach and convert; instruct and transform	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avavāda, Pali: ovāda, Japanese: kyōdōron, Tibetan: gdams pa (BL 'avavāda'; FGDB '教化'; Mahāvyutpatti 'avavādaḥ'; SH '教化', p. 351)	8001015
 8001016	三无漏学	三無漏學	sān wúlòu xué	the three studies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Or the three passionless studies: 1. 戒 discipline, 2. 定 meditation, 3. 慧 wisdom (SH '三無漏學', p. 70; FHDB '三無漏學')	8001016
 8001017	禁戒	\N	jìnjiè	prohibition; vow	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃyama, Pali: saṃyama, Tibetan: legs par sdom pa (FGDB '禁戒'; Mahāvyutpatti 'saṃyamaḥ'; SH '禁戒', p. )	8001017
-8001018	信解	\N	xìnjiě	resolution; determination; zeal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimokṣa, or: adhimucyate; see 勝解 (Dhammajoti 2013, p. 87; FGDB '勝解')	8001018
+8001018	信解	\N	xìnjiě	resolution; determination; adhimukti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimukti, or: adhimokṣa, or: adhimucyate, Pali: adhimutti, Tibetan: dad pas mos pa; see also 勝解 adhimoksa (BL 'adhimukti', p. 16; Dhammajoti 2013, p. 87; Ding '信解', FGDB '勝解'; Mahāvyutpatti 'śraddhādhimuktaḥ'; SH '信解', p. 297)	8001018
 8001019	行脚	行腳	xíngjiǎo	travelling; wandering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of a wandering Buddhist monastic (FGDB '行腳')	8001019
 8001020	维摩诘	維摩詰	wéimójié	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti; see 維摩 (FGDB '維摩')	8001020
 8001021	维摩	維摩	Wéimó	Vimalakirti	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti, Japanese: Yuimakitsu, Tibetan: dri med grags pa; a lay Buddhist in early the Buddhist period and an early model for a lay bodhisattva (BL 'Vimalakīrti', p. 971; Ding '維摩'; Tzu Chuang 2012, p. 367; FGDB '維摩'; SH '維摩')	8001021
@@ -8448,7 +8448,7 @@
 8008448	兜	\N	dōu	Tusita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou; see 兜率天 (BCSD '兜', p. 156; Kroll 2015 '兜' 2, pp. 91-92; SH '兜', p. 343; Unihan '兜')	8008448
 8008449	色处	色處	sèchù	the visible realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '色處'; SH '色處')	8008449
 8008450	总持	總持	zǒngchí	dharani; total retention	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇī; literally, total retention, for memorization of a longer text, see 陀羅尼 (Ding '總持'; Goble 2019, pp. 32-34; SH '總持', p. 461)	8008450
-8008451	胜解	勝解	shèngjiě	adhimokṣa; adhimoksa; adhimokkha; resolution; determination; zeal	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimokṣa, Pali: adhimokkha, Japanese: shōge (Ding '勝解'; FGDB '勝解'; SH '大地法', p. 86)	8008451
+8008451	胜解	勝解	shèngjiě	resolution; determination; adhimokṣa; adhimoksa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimokṣa, Pali: adhimokkha, Japanese: shōge, Tibetan mos pa; resolution towards a spiritual goal (BL 'adhimokṣa', p. 16; Ding '勝解'; FGDB '勝解'; SH '大地法', p. 86)	8008451
 8008452	念言	\N	niànyán	words from memory	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, [as] remembered, [thus] speak (Ding '念言'; FGDB '念言'; SH '念言', p. 258)	8008452
 8008453	围遶	圍遶	wéirào	to circumambulate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An archaic variant of 圍繞 (Ding '圍遶'; FGDB '圍遶')	8008453
 8008454	生起	\N	shēngqǐ	cause; arising	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 因 (Ding '生起'; FGDB '生起'; SH '生起', p. 197)	8008454
@@ -14376,7 +14376,7 @@
 8014376	息心	\N	xīxīn	a wandering monk; śramaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (Ding '息心'; FGDB '沙門')	8014376
 8014377	谶	讖	chèn	prophecy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shin (BCSD '讖', p. 1102; Unihan '讖')	8014377
 8014378	息恶	息惡	xīè	a wandering monk; śramaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (FGDB '沙門')	8014378
-8014379	轮	輪	lún	cakra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakra, Pali: cakka, Japanese: rin, Tibetan: rtsa 'khor (BL 'cakra', p. 162; Ding '輪'; Kroll 2015 '輪' 5, p. 289; Powell 2007, p. 284)	8014379
+8014379	轮	輪	lún	wheel; cakra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: cakra, Pali: cakka, Japanese: rin, Tibetan: rtsa 'khor (BL 'cakra', p. 162; BCSD '輪', p. 1135; Ding '輪'; Kroll 2015 '輪' 5, p. 289; Powell 2007, p. 284)	8014379
 8014380	赞	讚	zàn	praise; varṇita	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varṇita, Japanese: san, Tibetan: bsngags pa (BCSD '讚', p. 1103; Edgerton 1953 'varṇita', p. 471; Mahāvyutpatti 'varṇitaḥ'; MW 'varṇita'; Unihan '讚')	8014380
 8014381	遮迦越罗	遮迦越羅	zhējiāyuèluó	cakravartin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 轉輪王 (Ding '轉輪王')	8014381
 8014382	转轮圣帝	轉輪聖帝	zhuǎnlúnshèng dì	a wheel turning king	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 轉輪王 (Ding '轉輪王')	8014382
@@ -14717,3 +14717,11 @@
 8014718	右遶	\N	yòu rào	moving to the right	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pradakṣiṇa (Dhammajoti 2013, p. 228)	8014718
 8014719	辋	輞	wǎng	exterior rim of wheel; nemi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nemi, Japanese: bou, or: mou (BCSD '輞', p. 1135; MW 'nemi'; Unihan '輞')	8014719
 8014720	随信心	隨信心	suí xìnxīn	pursuing through faith	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śradhānusārī, Tibetan: dad pas rjes su 'brang ba (Dhammajoti 2013, p. 228; Wikipedia '隨信心')	8014720
+8014721	阿毘目底	\N	āpímùdǐ	resolution; adhimukti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimukti, Pali: adhimutti; see 信解 and 勝解 adhimokṣa (FGDB '信解')	8014721
+8014722	辇	輦	niǎn	sedan-chair	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ren (BCSD '輦', p. 1135; Unihan '輦')	8014722
+8014723	信胜解	信勝解	xìnshèngjiě	resolution; adhimukti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimukti, Pali: adhimutti; see 信解 and 勝解 adhimokṣa (FGDB '信解')	8014723
+8014724	上堂	\N	shàng táng	superior rooms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 上間 (FGDB '上堂')	8014724
+8014725	辈	輩	bèi	kind of; bhāgīya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāgīya, Pali: bhāgiya, Japanese: hai (BCSD '輩', p. 1135; Edgerton 1953 'bhāgīya', p. 408; MW 'bhāgīya'; Unihan '輩')	8014725
+8014726	上间	上間	shàng jiān	superior rooms	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a monastery (SH '上間', p. 57)	8014726
+8014727	下间	下間	xià jiān	inferior rooms	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '下間', p. 55)	8014727
+8014728	辐	輻	fú	spoke; ara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ara, Japanese: fuku (BCSD '輩', p. 1135; MW 'ara'; Unihan '輻')	8014728
