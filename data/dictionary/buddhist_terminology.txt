@@ -3714,7 +3714,7 @@
 8003714	民	\N	mín	people	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, or: prajā, Japanese: min (BCSD '民', p. 701; MW 'prajā'; Unihan '民')	8003714
 8003715	缩刷大藏经	縮刷大藏經	suō shuā dà zàng jīng	Shukusatsu daizōkyō; Reduced Print Canon	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A modern Japanese version of the Buddhist cann (Scott 2017, p. 98)	8003715
 8003716	五部祕经	五部祕經	wǔ bù mì jīng	five esoteric sutras	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五部祕經')	8003716
-8003717	胎藏	\N	tāicáng	womb	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: taizō (FGDB '胎藏'; JEBD 'taizōkai', p. 347)	8003717
+8003717	胎藏	\N	tāicáng	womb	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: garbha, Japanese: taizō (BCSD '胎藏', p. 964; FGDB '胎藏'; JEBD 'taizōkai', p. 347)	8003717
 8003718	胎藏界	\N	tāicáng jiè	matrix realm; womb world; taizōkai	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: *garbhadhātu; Japanese: taizōkai; literally 'womb realm', one of the two principal maṇḍalas, the other being 金剛界 'kongōkai' (BL 'taizōkai', p. 890-891; FGDB '胎藏界'; JEBD 'taizōkai', p. 347; Sharf 2005, p. 265)	8003718
 8003719	阿素洛	\N	āsùluò	an asura	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: asura; see 阿修羅 (FGDB '阿修羅')	8003719
 8003720	揭路荼	\N	jiēlùtú	garuda	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: garuḍa; see 迦樓羅 (FGDB '迦樓羅鳥')	8003720
@@ -14702,3 +14702,14 @@
 8014702	辂	輅	lù	chariot; ratha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratha, Japanese: ro, or: raku, or: kaku (BCSD '輅', p. 1134; MW 'ratha'; Unihan '輅')	8014702
 8014703	霰尼外道	\N	xiànníwàidào	Senika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 先尼外道 (FGDB '先尼外道')	8014703
 8014704	寻	尋	xún	fathom; vyāma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāma, Tibetan: 'dom; a measure of the two extended arms (Dhammajoti 2013, p. 227; Mahāvyutpatti 'vyāmaḥ'; MW 'vyāma'; SH '尋', p. 370)	8004969
+8014705	八方天	\N	bā fāng tiān	devas of the eight directions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	At the eight points of the compass (Ding '八方天'; FGDB '八方天'; SH '八方天', p. 37)	8014705
+8014706	辄	輒	zhé	rack on a chariot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chou (BCSD '輒', p. 1134; Unihan '輒')	8014706
+8014707	常光	\N	chángguāng	unceasing radiance; halo	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Dhammajoti 2013, p. 227; Ding '常光'; FGDB '常光'; SH '常光', p. 349)	8014707
+8014708	常光一寻	常光一尋	cháng guāng yī xún	halo extending one fathom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāmaprabhā, Pali: byāmappabhā; around a Buddha's body (Dhammajoti 2013, p. 227; Edgerton 1953 'vyāmaprabhā', p. 518; FGDB '常光')	8014708
+8014709	辅	輔	fǔ	cheek; hanu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hanu, Japanese: fu, or: bu, or: ho (BCSD '輔', p. 1134; MW 'hanu'; Unihan '輔')	8014709
+8014710	圆光一寻	圓光一尋	yuán guāng yī xún	halo extending one fathom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāmaprabhā; see 常光一尋 (Dhammajoti 2013, p. 227; Edgerton 1953 'vyāmaprabhā', p. 518)	8014710
+8014711	明眼士夫	\N	míng yǎn shìfú	a man possessing clear sight	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Dhammajoti 2013, p. 227)	8014711
+8014712	轻	輕	qīng	light; laghu	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: laghu, Japanese: kei, or: kyou, Tibetan: yang ba (BCSD '輕', p. 1134; Mahāvyutpatti 'laghutvam'; MW 'laghu'; Unihan '輕')	8014712
+8014714	士夫	\N	shìfú	man; puruṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa, Tibetan: skyes bu (Mahāvyutpatti 'puruṣaḥ'; SH '士夫', p. 82)	8014714
+8014715	踰缮那	踰繕那	yúshànnà	yojana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 由旬 (FGDB '由旬')	8014715
+8014716	辉	輝	huī	shining; dyotin	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dyotin, Japanese: ki, or: kun (BCSD '輝', p. 1135; MW 'dyotin'; Unihan '輝')	8014716
