@@ -8715,7 +8715,7 @@
 8008715	论主	論主	lùnzhǔ	the composer of a treatise	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '論主'; FGDB '論主')	8008715
 8008716	惯	慣	guàn	habit; abhyāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhyāsa, Japanese: kan (BCSD '慣', p. 499; MW 'abhyāsa'; Unihan '慣')	8008716
 8008717	尼柔学派	尼柔學派	níróu xuépài	Naiyayika School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naiyāyika; see 尼夜耶學派 (FGDB '六派哲學')	8008717
-8008718	正理学派	正理學派	zhènglǐxuépài	Naiyayika School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naiyāyika; see 尼夜耶學派 (FGDB '六派哲學')	8008718
+8008718	正理学派	正理學派	zhènglǐxuépài	Naiyayika School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naiyāyika; see 尼夜耶學派 (FGDB '正理學派')	8008718
 8008719	微尘数	微塵數	wēichénshǔ	as numerous as atoms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '微塵數'; SH '微塵數', p. 399)	8008719
 8008720	虑	慮	lǜ	imagination; manojalpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manojalpa, Japanese: ryo, or: roku (BCSD '慮', p. 500; Mahāvyutpatti 'manojalpaḥ'; MW 'manojalpa'; Unihan '慮')	8008720
 8008721	数论派	數論派	shùlùnpài	Samkhya School	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṃkhya; see 數論學派 (FGDB '數論學派')	8008721
@@ -12506,7 +12506,7 @@
 8012506	四忧檀那	四憂檀那	sì yōutánnà	the four udāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also known as the 四法印 four dharma seals (FGDB '四法印')	8012506
 8012507	筵	\N	yán	a mat; saṃstaraka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃstaraka, Japanese: en (BCSD '筵', p. 921; Unihan '筵')	8012507
 8012508	卒都婆	\N	cùdūpó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012508
-8012509	近	\N	jìn	near; āsanna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsanna, or: āsannībhūta, Japanese: kin, or: kon, Tibetan: nye bar gyur ram bsten (Dhammajoti 2013, p. 132; Mahāvyutpatti 'āsannībhūtaḥ'; MW 'āsanna'; SH '近', p. 280; Unihan '近')	8012509
+8012509	近	\N	jìn	near; āsanna	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsanna, or: āsannībhūta, Japanese: kin, or: kon, Tibetan: nye bar gyur ram bsten (BCSD '近', p. 1141; Dhammajoti 2013, p. 132; Mahāvyutpatti 'āsannībhūtaḥ'; MW 'āsanna'; SH '近', p. 280; Unihan '近')	8012509
 8012510	箄	\N	pái	a raft	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hai, or: bai (BCSD '箄', p. 921; Unihan '箄')	8012510
 8012511	塔婆	\N	tǎpó	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8012511
 8012512	邻近	鄰近	línjìn	approach; āsannībhūta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āsannībhūta (Dhammajoti 2013, p. 132)	8012512
@@ -14782,3 +14782,13 @@
 8014782	梵历	梵曆	fàn lì	Indian calendar	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '梵曆')	8014782
 8014783	农	農	nóng	agriculture; kṛṣi	noun	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛṣi, Japanese: nou, or: dou (BCSD '農', p. 1141; MW 'kṛṣi'; SH '農', p. 414; Unihan '農')	8014783
 8014784	日曜	\N	rìyào	sun; sūrya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; one of the 九曜 nine luminous objects in the sky (Ding '日曜'; FGDB '日曜'; MW 'sūrya')	8014784
+8014785	阿毘昙人	阿毘曇人	āpítánrén	Abhidharmika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ābhidharmika; for example, in Scroll 1 of 般若燈論釋 the “Prajñāpradīpa” (Ames 2019, p. 32; T 1566, 30.0053a03)	8014785
+8014786	迅	\N	xùn	quick; javana	adjective	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: javana, Japanese: jin, or: shin, or: shun (BCSD '迅', p. 1141; MW 'javana'; Unihan '迅')	8014786
+8014787	日天曜	\N	rìtiānyào	sun; sūrya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; see 日曜 (FGDB '日曜')	8014787
+8014788	日星	\N	rìxīng	sun; sūrya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; see 日曜 (FGDB '日曜')	8014788
+8014789	迎	\N	yíng	meet; pratyudgamana	verb	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratyudgamana, Japanese: gei, Tibetan: bsu ba (BCSD '迎', p. 1141; Mahāvyutpatti 'pratyudgamanam'; MW 'pratyudgamana'; SH '迎', p. 280; Unihan '迎')	8014789
+8014790	日精	\N	rìjīng	sun; sūrya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrya; see 日曜 (FGDB '日曜')	8014790
+8014791	月曜	\N	yuèyào	moon; soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma (Ding '月曜'; FGDB '月曜'; MW 'soma'; SH '月曜', p. 157)	8014791
+8014792	返	\N	fǎn	return; nivṛt	verb	\N	\N	教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nivṛt, Japanese: hen, or: han, or: hon (BCSD '返', p. 1143; MW 'nivṛt'; Unihan '返')	8014792
+8014793	月星	\N	yuèxīng	moon; soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; see 月曜 (FGDB '月曜')	8014793
+8014794	月精	\N	yuèjīng	moon; soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; see 月曜 (FGDB '月曜')	8014794
