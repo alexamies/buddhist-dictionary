@@ -263,6 +263,10 @@ th {
   font-weight: bold;
 }
 
+tr {
+  padding: 10 px;
+}
+
 /* Index page*/
 #FullTextSearch {
   color: inherit;
@@ -271,4 +275,8 @@ th {
 
 #loadingStatus {
     font-size: smaller;
+}
+
+#PopoverBody {
+  padding: 5 px;
 }
