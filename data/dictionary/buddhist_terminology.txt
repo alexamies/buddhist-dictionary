@@ -2754,7 +2754,7 @@
 8002754	佛眼尊	\N	fóyǎn zūn	Buddhalocani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhalocani-vidyārājñī; see 佛眼佛母 (FGDB '佛眼佛母')	8002754
 8002755	虚空眼明妃	虛空眼明妃	xūkōng yǎn míngfēi	Wisdom Consort Sky Eye	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002755
 8002756	能寂母	\N	néng jì mǔ	Mother of Sakyamuni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002756
-8002757	吉祥	\N	jíxiáng	auspicious; mangala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṅgala (BCSD '吉祥', p. 240; MW 'maṅgala')	8002757
+8002757	吉祥	\N	jíxiáng	auspicious; mangala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṅgala, or: lakṣmī (BCSD '吉祥', p. 240; MW 'maṅgala')	8002757
 8002758	金刚吉祥眼	金剛吉祥眼	jīngāng jíxiáng yǎn	Auspicious Vajra Eye	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛眼佛母 (FGDB '佛眼佛母')	8002758
 8002759	一切	\N	yīqiè	all; sarva	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarva (BCSD '一切', p. 2; Dhammajoti 2013, p. 39; MW 'sarva'; SH '一切', p. 2)	8002759
 8002760	一切如来	一切如來	yīqiè rúlái	all Tathagatas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvatathāgata (BCSD '一切如來', p. 3; SH '一切如來', p. 2)	8002760
@@ -13720,10 +13720,10 @@
 8013720	事业	事業	shìyè	action; karma; karman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\n	Sanskrit equivalent: karman (BCSD '事業', p. 82; Dhammajoti 2013, p. 201; MW 'karman')	8013720
 8013721	无碍辩	無礙辯	wú ài biàn	unhindered eloquence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 辯才無礙 (FGDB '辯才無礙')	8013721
 8013722	蘘	\N	ráng	myoga ginger	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: jou, or: nyou (BCSD '蘘', p. 1032; Unihan '蘘')	8013722
-8013723	吉祥天	\N	jíxiáng tiān	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; see 吉祥天女 (FGDB '吉祥天')	8013723
+8013723	吉祥天	\N	jíxiáng tiān	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; see 吉祥天女 (BCSD '吉祥天女', p. 240; FGDB '吉祥天')	8013723
 8013724	室利摩诃提毘	室利摩訶提毘	shìlìmóhētípí	Śrīmahādevī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīmahādevī; see 吉祥天女 (FGDB '吉祥天')	8013724
 8013725	兰	蘭	lán	orchid; arjaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arjaka, Japanese: jou, or: nyou (BCSD '蘭', p. 1032; MW 'arjaka'; SH '蘭', p. 484; Unihan '蘭')	8013725
-8013726	吉祥天女	\N	jíxiáng tiānnǚ	Laksmi	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; goddess of fortune and beauty, consort of Śrī, also known as Śrīmahādevī (FGDB '吉祥天'; MW 'lakṣmī'; SH '落吃澁弭', p. 411)	8013726
+8013726	吉祥天女	\N	jíxiáng tiānnǚ	Laksmi	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; goddess of fortune and beauty, consort of Śrī, also known as Śrīmahādevī (BCSD '吉祥天女', p. 240; FGDB '吉祥天'; MW 'lakṣmī'; SH '落吃澁弭', p. 411)	8013726
 8013727	落吃澁弭	\N	luòchīsèmǐ	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lakṣmī; see 吉祥天女 (SH '落吃澁弭', p. 411)	8013727
 8013728	虎	\N	hǔ	tiger; vyāghra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyāghra, or: śārdūla, Japanese: ko, Tibetan: stag (BCSD '虎', p. 1032; Mahāvyutpatti 'śārdūlaḥ'; MW 'vyāghra'; SH '虎', p. 280; Unihan '虎')	8013728
 8013729	摩诃室利	摩訶室利	móhēshìlì	Mahādevī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahādevī; see 吉祥天女 (FGDB '吉祥天')	8013729
