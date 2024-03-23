@@ -11276,7 +11276,7 @@
 8011276	犁	\N	lí	a plow; lāṅgala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lāṅgala, Japanese: ri, or: rei, Tibetan: gshol (BCSD '犁', p. 811; Mahāvyutpatti 'lāṅgalaṃ'; MW 'lāṅgala'; Unihan '犁')	8011276
 8011277	四住	\N	sì zhù	four abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four abodes are: (1) 天住 'heavenly abodes', (2) 梵住 'abode of Brahma', (3) 聖住 'sagely abodes', and (4) 佛住 'Buddha abodes' (Ding '四住'; FGDB '四住'; SH '四住', p. 170)	8011277
 8011278	天住	\N	tiān zhù	divine abodes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '天住'; FGDB '四住'; SH '四住', p. 170)	8011278
-8011279	梵住	\N	Fàn zhù	Brahma's abode; divine abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali equivalent: brahmavihāra; Japanese: bonjū; one of the 四住 'four abodes,' see also 四無量 (BL 'brahmavihāra' ; Ding '梵住'; FGDB '四住'; SH '四住', p. 170)	8011279
+8011279	梵住	\N	fàn zhù	Brahma's abode; divine abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit and Pali equivalent: brahmavihāra; Japanese: bonjū; one of the 四住 'four abodes,' see also 四無量 (BL 'brahmavihāra' ; Ding '梵住'; FGDB '四住'; SH '四住', p. 170)	8011279
 8011280	犂	\N	lí	a plow; lāṅgala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lāṅgala, Japanese: ri, or: rei, or: ryū (BCSD '犂', p. 811; Mahāvyutpatti 'lāṅgalaṃ'; MW 'lāṅgala'; Unihan '犂')	8011280
 8011281	圣住	聖住	shèng zhù	sagely abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '四住'; FGDB '四住'; SH '四住', p. 170)	8011281
 8011282	佛住	\N	fó zhù	Buddha abode	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四住 'four abodes' (Ding '四住'; FGDB '四住'; SH '四住', p. 170)	8011282
@@ -14280,7 +14280,7 @@
 8014280	众香	眾香	zhòngxiāng	Gandhavati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gandhavatī (BCSD '眾香', p. 1042; Edgerton 1953 'gandhavatī', p. 209)	8014279
 8014281	火首	\N	huǒshǒu	Sikhin Buddha; Śikhin Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 尸棄佛 (FGDB '尸棄佛')	8014281
 8014282	谐	諧	xié	to couple with	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kai (BCSD '諧', p. 1087; Unihan '諧')	8014282
-8014283	净饭	淨飯	jìng Fàn	Shuddhodana; Suddhodana	proper noun	王	King	佛教	Buddhism	\N	\N	\N	\N	See 淨飯王 (Ding '淨飯王'; FGDB '淨飯王'; SH '淨飯王', p. 358)	8014283
+8014283	净饭	淨飯	jìng fàn	Shuddhodana; Suddhodana	proper noun	王	King	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śuddhodana, Pāli: suddhodana; see 淨飯王 (Ding '淨飯王'; FGDB '淨飯王'; SH '淨飯王', p. 358)	8014283
 8014284	无上尊	無上尊	wúshàngzūn	without superior; peerless; exalted one	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無上尊'; FGDB '無上尊'; Kieschnick and Wiles 2017, vol. 1, p. 7; SH '無上尊', p. 377)	8014284
 8014285	最正觉	最正覺	zuìzhèngjué	abhisaṃbuddha; supreme perfect enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhisaṃbuddha; literally, 'most correct awakening' (Ding '最正覺'; FGDB '最正覺'; Kieschnick and Wiles 2017, vol. 1, p. 9; SH '最正覺', p. 376)	8014285
 8014286	谏	諫	jiàn	admonishing; avavādaka	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avavādaka, Japanese: kan (BCSD '諫', p. 1087; MW 'avavādaka'; SH '諫', p. 450; Unihan '諫')	8014286
@@ -14918,9 +14918,17 @@
 8014918	婆娑婆陀	\N	pósuōpótuó	Vasanti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 婆珊婆演底 (FGDB '婆珊婆演底主夜神')	8014918
 8014919	跋僧多神	\N	básēngduō shén	Vasanti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 婆珊婆演底 (FGDB '婆珊婆演底主夜神')	8014919
 8014920	递	遞	dì	mutually; paraspara	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paraspara, Japanese: son (BCSD '遞', p. 1163; MW 'paraspara'; Unihan '遞')	8014920
-8014922	跋僧多	\N	básēngduō	Vasanti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 婆珊婆演底 (FGDB '婆珊婆演底主夜神')	8014922
-8014923	春和神	\N	chūnhéshén	Vasanti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 婆珊婆演底 (FGDB '婆珊婆演底主夜神')	8014923
-8014924	遣	\N	qiǎn	dispatch; preṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preṣ, Japanese: ken (BCSD '遣', p. 1165; MW 'preṣ'; Unihan '遣')	8014924
-8014925	西方	\N	xīfāng	the Western [Pureland]	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the 西方极乐世界 Western Pureland (Guoyu '西方' 3)	8014925
-8014926	师子游戏三昧	師子遊戲三昧	shīzi yóuxì sānmèi	Lion's Play Samadi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siṃhavikrīḍita nāma samādhi, Tibetan: seng ge rnam par rtse ba zhes bya ba'i ting nge 'dzin (Dhammajoti 2013, p. 253; Ding '師子遊戲三昧'; FGDB '師子遊戲三昧'; Mahāvyutpatti 'siṃhavikrīḍito nāma samādhiḥ'; SH '師子遊戲三昧')	8014926
+8014921	跋僧多	\N	básēngduō	Vasanti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 婆珊婆演底 (FGDB '婆珊婆演底主夜神')	8014921
+8014922	春和神	\N	chūnhéshén	Vasanti	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 婆珊婆演底 (FGDB '婆珊婆演底主夜神')	8014922
+8014923	遣	\N	qiǎn	dispatch; preṣ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: preṣ, Japanese: ken (BCSD '遣', p. 1165; MW 'preṣ'; Unihan '遣')	8014923
+8014924	西方	\N	xīfāng	the Western [Pureland]	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the 西方极乐世界 Western Pureland (Guoyu '西方' 3)	8014924
+8014925	师子游戏三昧	師子遊戲三昧	shīzi yóuxì sānmèi	Lion's Play Samadi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siṃhavikrīḍita nāma samādhi, Tibetan: seng ge rnam par rtse ba zhes bya ba'i ting nge 'dzin (Dhammajoti 2013, p. 253; Ding '師子遊戲三昧'; FGDB '師子遊戲三昧'; Mahāvyutpatti 'siṃhavikrīḍito nāma samādhiḥ'; SH '師子遊戲三昧', p. 324)	8014925
 8014926	师子游戏	師子遊戲	shīzi yóuxì	Lion's Play	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siṃhavikrīḍita; see 師子遊戲三昧 (Dhammajoti 2013, p. 253)	8014926
+8014927	遭	\N	zāo	encounter; prāp	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prāp, Japanese: sou (BCSD '遭', p. 1165; MW 'prāp'; Unihan '遭')	8014927
+8014928	善能占相算数	善能占相算數	shàn néng zhān xiāng suàn shù	skilled at reading signs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Dhammajoti 2013, p. 254)	8014928
+8014929	一切义成	一切義成	yīqiè yì chéng	Sarvārthasiddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvārthasiddha, Tibetan: don thams cad grub pa; literally, having all aims accomplished, the name of the Buddha when he was a prince (Dhammajoti 2013, p. 254; FGDB '釋迦異名'; Mahāvyutpatti 'sarvārthasiddhaḥ'; SH '一切義成', p. 3)	8014929
+8014930	迟	遲	chí	slow; dhandha	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhandha, Pali: dandha, Japanese: chi (BCSD '遲', p. 1167; Edgerton 1953 'dhandha', p. 275; MW 'dhandha'; Unihan '遲')	8014930
+8014931	阿婆譮	\N	āpóhuà	ābhāsvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波會 (SH '阿波會' p. 289)	8014931
+8014932	阿会亘修	阿會亙修	āhuìgènxiū	ābhāsvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波會 (SH '阿波會' p. 289)	8014932
+8014933	阿会亘差	阿會亙差	āhuìgènchà	ābhāsvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波會 (SH '阿波會' p. 289)	8014933
+8014934	阿衞货罗	阿衞貨羅	āwèihuòluó	ābhāsvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿波會 (SH '阿波會' p. 289)	8014934
