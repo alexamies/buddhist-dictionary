@@ -5826,7 +5826,7 @@
 8005826	九十	\N	jiǔshí	ninety; navati	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: navati, Tibetan: dgu bcu (Mahāvyutpatti 'navatiḥ'; MW 'navati')	8005826
 8005827	兼	\N	jiān	together; saha	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saha (BCSD '兼', p. 175; MW 'saha'; SH '兼', p. 322)	8005827
 8005828	长夜	長夜	chángyè	long dark night; dīrgharātram	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīrgharātram, Tibetan: yun ring po; for example, as used in the Lotus Sutra (Karashima 2001, p. 75; Mahāvyutpatti 'dīrgharātram'; MW 'dīrgharātram'; SH '長夜', p. 284; T 262, Scroll 1, 9.0006c21)	8005828
-8005829	再	\N	zài	again; punar	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: punar (BCSD '再', p. 176; MW 'punar'; SH '再', p. 203)	8005829
+8005829	再	\N	zài	again; punar	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: punar (BCSD '再', p. 176; MW 'punar'; SH '再', p. 203; Shan and Lian 2013, p. 11)	8005829
 8005830	二百	\N	èr bǎi	two hundred; dviśata	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dviśata (MW 'dviśata')	8005830
 8005831	冤	\N	yuān	enemy; śatru	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śatru, Tibetan: dgra (BCSD '冤', p. 176; Mahāvyutpatti 'śatruḥ'; MW 'śatru'; SH '冤', p. 347)	8005831
 8005832	第一	\N	dì yī	first; prathama	ordinal	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prathama (MW 'prathama'; SH '第一', p. 362)	8005832
@@ -8464,7 +8464,7 @@
 8008464	四无碍智	四無礙智	sì wúàizhì	the four unhindered powers of understanding	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四無礙解 (FGDB '四無礙解')	8008464
 8008465	四无碍辩	四無礙辯	sì wúàibiàn	the four unhindered powers of understanding	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四無礙解 (FGDB '四無礙解')	8008465
 8008466	五识	五識	wǔshí	five kinds of cognition; five kinds of perception	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five are: 1. 眼識 'visual perception', 2. 耳識 'auditory perception', 3. 鼻識 'sense of smell', 4. 舌識 'taste', and 5. 身識 'touch' (Ding '五識'; FGDB '五識'; SH '五識')	8008466
-8008467	彼	\N	bǐ	that; tad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tad, Japanese: hi (BCSD '彼', p. 440; MW 'tad'; SH '彼', p. 257; Unihan '彼')	8008467
+8008467	彼	\N	bǐ	that; tad	pronoun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tad, or: tena, Japanese: hi (BCSD '彼', p. 440; MW 'tad'; SH '彼', p. 257; Shan and Lian 2013, pp. 11-12; Unihan '彼')	8008467
 8008468	五识	五識	wǔshí	five steps of cognition; five kinds of mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five steps of cognition are mentioned in the 大乘起信論 ”Treatise on the Awakening of Faith in the Mahāyāna”, the five are: 1. 業識 'activating mind', 2. 轉識 'evolving mind', 3. 現識 'reproducing mind', 4. 智識 'analytical mind', and 5. 相續識 'continuing mind' (Ding '五識'; FGDB '五識'; SH '五識', p. 127)	8008468
 8008469	佛语	佛語	fó yǔ	buddhavacana; the words of the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhavacana, Pali: buddhavacana, Japanese: butsogu, Tibetan: sangs rgyas kyi bka' (BL 'buddhavacana', pp. 155-156; Ding '佛語'; FGDB '佛語'; SH '佛語', p. 229)	8008469
 8008470	杂染	雜染	zárǎn	an affliction; a defilement	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '雜染'; FGDB '雜染'; SH '雜染', p. 470)	8008470
@@ -15028,3 +15028,6 @@
 8015028	焰地	\N	yàn dì	stage of flaming wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 焰慧地 (FGDB '焰慧地')	8015028
 8015029	增曜地	\N	zēngyào dì	even brighter stage	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 焰慧地 'stage of flaming wisdom' (FGDB '焰慧地')	8015029
 8015030	酥	\N	sū	ghee; sarpis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarpis, Japanese: so (BCSD '酥', p. 1175; MW 'sarpis'; SH '酥', p. 392; Unihan '酥')	8015030
+8015031	集	\N	jí	assembled; saṃnipatita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃnipatita (Shan and Lian 2013, p. 12)	8002403
+8015032	一肩	\N	yī jiān	one shoulder; ekāṃsam	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ekāṃsam (Shan and Lian 2013, p. 12)	8015032
+8015033	膝盖	膝蓋	xīgài	knee; jānumaṇḍalam	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jānumaṇḍalam, Tibetan: pus mo'i lha nga (Mahāvyutpatti 'jānumaṇḍalam'; Shan and Lian 2013, p. 12)	8015033
