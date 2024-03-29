@@ -938,7 +938,7 @@
 8000938	智慧	\N	zhìhuì	knowledge; jñāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñāna, Pali: ñāṇa, Tibetan: blo gros (Ding '智慧'; Edgerton 1953 'jñāna', p. 244; FGDB '智慧'; SH '智慧', p. 134; Mahāvyutpatti 'matiḥ'; MW 'jñāna')	8000938
 8000939	蒲团	蒲團	pútuán	meditation mat; rush cushion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '蒲團'; FGDB '蒲團', p. 428; SH '蒲團')	8000939
 8000940	中道	\N	zhōng dào	the middle way	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhyamāpratipad, Pali: majjhimāpaṭipadā, Japanese: chūdō, Tibetan: dbu ma'i lam; the middle way is a view that avoids the extremes of permanence and annihilation (BL 'madhyamāpratipad'; FGDB '中道'; SH '中道', p. 111)	8000940
-8000941	根本说一切有部毗奈耶	根本說一切有部毗奈耶	Gēnběn Shuō Yīqiè Yǒu Bù Pínàiyē	Mula-sarvastivada-vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根本說一切有部戒經 (FGDB '根本說一切有部戒經')	8000941
+8000941	根本说一切有部毗奈耶	根本說一切有部毗奈耶	Gēnběn Shuō Yīqiè Yǒu bù Pínàiyē	Mula-sarvastivada-vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根本說一切有部戒經 (FGDB '根本說一切有部戒經')	8000941
 8000942	根尘	根塵	gēnchén	the six roots and the six dusts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six roots are eyes, ears, nose, tongue, body, and mind.  The six dusts are form, sound, scent, taste, tangibles, and actions (FGDB '根塵'; SH '根塵', p. 327).	8000942
 8000943	杀生戒	殺生戒	shāshēng jiè	precept against killing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '殺生戒'; FGDB '殺生戒'; SH '不殺生', p. 107)	8000943
 8000944	尘劳	塵勞	chénláo	afflictions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '塵勞')	8000944
@@ -1237,8 +1237,8 @@
 8001237	八吉祥	\N	bā jíxiáng	eight auspicious signs; ashtamangala	phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	Sanskrit equivalent: aṣṭamaṅgala, Japanese: hachikichijō, Tibetan: bkra shis rtags brgyad; namely: 1. Wheel 轮, 2. conch shell 螺, 3. umbrella 伞, 4. canopy; flag 盖, 5. lotus 花, 6. jar 罐, 7. fish 鱼, and 8. mystic knot 长 (BL 'aṣṭamaṅgala'; FGDB '八吉祥')	8001237
 8001238	佛教八宝	佛教八寶	fójiào bābǎo	eight Buddhist treasures	phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	See 八吉祥 (FGDB '八吉祥')	8001238
 8001239	八宝	八寶	bābǎo	eight Buddhist treasures; ashtamangala	phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	See 八吉祥 (FGDB '八吉祥')	8001239
-8001240	五分律	\N	Wǔ Fēn Lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Mahīśāsakavinaya; precepts for monastics (FGDB '五分律'; Hsing Yun 2010, p. 3; KDC 895; SH '五分律', p. 114; T 1421)	8001240
-8001241	弥沙塞部五分律	彌沙塞部和醯五分律	Míshāsāibù Wǔ Fēn Lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 五分律 (KDC 895; T 1421)	8001241
+8001240	五分律	\N	Wǔ Fēn lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Mahīśāsakavinaya; precepts for monastics (FGDB '五分律'; Hsing Yun 2010, p. 3; KDC 895; SH '五分律', p. 114; T 1421)	8001240
+8001241	弥沙塞部五分律	彌沙塞部和醯五分律	Míshāsāibù Wǔ Fēn lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 五分律 (KDC 895; T 1421)	8001241
 8001242	四分律	\N	sì fēn lǜ	Dharmaguputakavinaya; Four Part Vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shibunritsu; a text in the Chinese Buddhist canon, a Chinese translation of the 法藏部 Dharmaguptaka (BL 'Sifen lü'; FGDB '四分律'; KDC 896; T 1428)	8001242
 8001243	宗法	\N	zōngfǎ	property of the position; pakṣadharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pakṣadharma, Japanese: shūhō, Tibetan: phyogs chos; a term in Buddhist logic (BL 'pakṣadharma'; FGDB '宗法')	8001243
 8001244	所立	\N	suǒlì	thesis; property being proven; sādhyadharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhyadharma, Japanese: shoryū, Tibetan: sgrub bya'i chos; a term in Buddhist logic describing the object that is to be established (BL 'sādhyadharma', p. 732-733; FGDB '所立'; SH '所立', p. 260)	8001244
@@ -1691,7 +1691,7 @@
 8001691	师子奋迅具足万行如来	師子奮迅具足萬行如來	Shīzǐ fèn xùn jùzú Wàn Xíng Rúlái	Swift Lion Myriad Accomplishment Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8001691
 8001692	释氏	釋氏	shì shì	Sakya clan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śākya, Pali: sākiya, Japanese: Shaka, Tibetan: shākya; name of the Indian clan that Śākyamuni Buddha was born into (BCSD '釋氏', p. 1177; BL 'Śākya', p. 741; FGDB '釋氏'; SH '釋氏', p. 482)	8001692
 8001693	倒退三千	\N	dào tuì sān qiān	fall back three thousand li	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Quote: a Chan saying referring to retreat in battle, for example in Koan 2 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 19; T 2003, Scroll 1; FGDB '倒退三千')	8001693
-8001694	南方宝生部主宝生佛	南方寶生部主寶生佛	Nánfāng Bǎo Shēng Bù Zhǔ Bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 寶生 (FGDB '寶生佛')	8001694
+8001694	南方宝生部主宝生佛	南方寶生部主寶生佛	Nánfāng Bǎo Shēng bù Zhǔ Bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 寶生 (FGDB '寶生佛')	8001694
 8001695	妙音乐天	妙音樂天	miào yīn lè tiān	Sarasvati Devi; Saraswati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙音天 (SH '妙音天', p. 236)	8001695
 8001696	阿迦尼吒天	\N	ājiānízhà tiān	Akanistha Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha, Pali: akaniṭṭha, Japanese: shikikukyōten, Tibetan: 'og min; the highest, or eighteenth of the heavens of form (BL 'Akaniṣṭha', p. 25; Eitel 'Akaniṣṭha', p. 6; FGDB '阿迦尼吒天'; SH '阿迦尼吒', p. 292)	8001696
 8001697	阿迦尼瑟吒	\N	ājiānísèzhà	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (Eitel 'Akanichṭha', p. 6)	8001697
@@ -5339,8 +5339,8 @@
 8005339	线经	線經	xiànjīng	sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 綖經 (SH '綖經', p. 409)	8005339
 8005340	无为法	無為法	wúwèi fǎ	an unconditioned dhárma; asaṃskṛta-dhárma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṁskṛtaprabhāvitā; a category of dhárma that does not arise from causes and conditions. The Sanskrit term used in the Diamond Sutra is asaṁskṛtaprabhāvitā, which literally means unconditioned things. Nirvana is an unconditioned dhárma (FGDB '一切法').	8005340
 8005341	缘起相由	緣起相由	yuán qǐ xiāng yóu	with dependent origination, phenomena give rise to other phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '緣起相由')	8005341
-8005342	律部	\N	Lǜ Bù	Vinaya Piṭaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A section of the Tripiṭaka describing monastic rules (FGDB '佛教教典')	8005342
-8005343	無想	\N	wú xiǎng	no notion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃjñā (FGDB '無想'; SH '無想', p. 379)	8005343
+8005342	律部	\N	lǜ bù	Vinaya Piṭaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A section of the Tripiṭaka describing monastic rules (FGDB '佛教教典')	8005342
+8005343	無想	\N	wú xiǎng	no notion; without perception	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃjñā (FGDB '無想'; SH '無想', p. 379; Shan and Lian 2013, p. 21)	8005343
 8005344	摩	\N	mó	Māyā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 1994)	8003280
 8005345	观照	觀照	guānzhào	to observe with wisdom	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '觀照')	8005345
 8005346	人王	\N	rénwáng	king; nṛpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nṛpa (BCSD '人王', p. 92; MW 'nṛpa')	8005346
@@ -15040,4 +15040,6 @@
 8015040	酸	\N	suān	sour; amlaḥ	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: amla, Japanese: san (BCSD '酸', p. 1175; Mahāvyutpatti 'amlaḥ'; MW 'amla'; Unihan '酸')	8015040
 8015041	无体	無體	wútǐ	without essence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無體'; FGDB '有體無體')	8015041
 8015042	自摄	自攝	zìshè	to act for oneself	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially in relation to upholding the precepts, relying on 自力 'one's own power'; in contrast to 他攝 'to aid another' (Ding '自攝'; FGDB '自攝')	8015042
-8015043	最胜希有	最勝希有	zuì shèng xīyǒu	exceedingly wonderful	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Shan and Lian 2013, p. 14)	8015043
+8015043	最胜希有	最勝希有	zuì shèng xīyǒu	exceedingly wonderful	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paramaāścarya (Shan and Lian 2013, p. 14)	8015043
+8015044	有情界	\N	yǒuqíng jiè	the universe of beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattvadhātu (MW 'sattvadhātu'; Shan and Lian 2013, p. 20)	8015044
+8015045	无余依	無餘依	wú yú yī	without remainder	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anupadhiśeṣa, Pali: an-upādi-sesa (Edgerton 1953 'anupadhiśeṣa', p. 28; MW 'anupadhiśeṣa'; Shan and Lian 2013, p. 21)	8015045
