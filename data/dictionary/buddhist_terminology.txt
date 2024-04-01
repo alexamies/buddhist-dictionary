@@ -4634,7 +4634,7 @@
 8004634	十二部经	十二部經	shí èr bù jīng	Twelve Divisions of Sutras; dvādaśaṅga; the twelve divisions of Buddhist literature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśaṅga. Sanskrit includes three more divisions than the Pali 九部經 navaṅga 'nine part teachines' of the Pali canon. They are: (1) sūtra 长行 'discourses', (2) geya 重颂, (3) gatha 孤起 'verses', (4) avadāna 譬喻 'narratives', (5) Nidana 因缘, (6) Udana 无问自说, (7) Jātaka 本生 'birth stories', (8) Itivrttaka 本事, (9) Abdutadharma 未曾有, (10) Vaipulya 方广, (11) Upadesa 论识, (12) Vyakarana 授记 (BL 'dvādaśaṅga'; Tzu Chuang 2012, pp. 329-332; FGDB '十二部經')	8004634
 8004635	长行	長行	cháng háng	Sutra (discourses); a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, Pali: sutta; a prose narrative that records the teachings of the Buddha; one of the 十二部经 'twelve divisions of the sutras' (discourses) (Tzu Chuang 2012, p. 329)	8004635
 8004636	重颂	重頌	chóng sòng	geya; repeated verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A verse section that repeats the prose narrative immediately before it; one of the 十二部经 'twelve divisions of the sutras' (Giles 1892 '頌'; SH '重頌', p. 225; Tzu Chuang 2012, pp. 329-332)	8004636
-8004637	人执	人執	rénzhí	delusive grasphing to the concept of ego or a permanent person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '人執', p. 32)	8004637
+8004637	人执	人執	rén zhí	grasphing to the concept of a permanent person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pudgalagrāha (SH '人執', p. 32; Shan and Lian 2013, p. 67)	8004637
 8004638	法我执	法我執	fǎwǒzhí	grasping to the concept that object have a self	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmātmagraha, Japanese: hōgashū (BL 'dharmātmagraha', p. 253)	8004638
 8004639	固执	固執	gùzhí	to hold fast	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '固執' 1)	8004639
 8004640	执见	執見	zhíjiàn	attachment to [delusive] views	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '執見', p. 345)	8004640
@@ -15092,3 +15092,10 @@
 8015092	头面礼	頭面禮	tóu miàn lǐ	to prostrate	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śiras vanditvā; for example, in the Lotus Sutra; see also 五體投地 (BCSD '頭面禮', p. 1266; Braarvig 2020, ch. 7; FGDB '五體投地'; Hurvitz 2009, p. 135; Kern 1884, ch. 7; T 262, Scroll 3, 9.0023c04)	8015092
 8015093	非聚	\N	fēi jù	non-aggregate	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: askandha (Shan and Lian 2013, p. 59)	8015093
 8015094	釜	\N	fǔ	cauldron; sthālī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthālī, Japanese: fu (BCSD '釜', p. 1187; MW 'sthālī'; Unihan '釜')	8015094
+8015095	一来	一來	yī lái	Once Returner; Sakrdagamin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sakṛdāgāmin, or: sakṛdāgāmī, Tibetan: lan cig phyir 'ong ba; see 斯陀含 (FGDB '一往一來'; Mahāvyutpatti 'sakṛdāgāmī'; SH '一來', p. 1)	8015095
+8015096	鬼黏五处	鬼黏五處	guǐ nián wǔ chù	the five locations that ghosts cling to	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, the four limbs an the head (Ding '鬼黏五處'; FGDB '鬼黏五處')	8015096
+8015097	钏	釧	chuàn	armlet; keyūra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: keyūra, Japanese: sen (BCSD '釧', p. 1187; MW 'keyūra'; Unihan '釧')	8015097
+8015098	一来性	一來性	yī lái xìng	nature of a once-returner	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sakṛdāgāmitva (Shan and Lian 2013, p. 69)	8015098
+8015099	能别不极成	能別不極成	néng bié bù jíchéng	non-approval of the qualifier	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 能別不極成過 (Bak 2017, p. 44-47; FGDB '能別不極成')	8015099
+8015100	钴	鈷	gǔ	cobalt	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ko: or: ku, or: gu (BCSD '鈷', p. 1187; Unihan '鈷')	8015100
+8015101	能别不极成过	能別不極成過	néng bié bù jí chéngguò	the error of non-approval of the qualifier	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the 因明三十三過 thirty three errors in Buddhist logic and 宗九過 nine errors in a pseudo thesis (Bak 2017, p. 108; Ding '能別不極成過'; FGDB '能別不極成過')	8015101
