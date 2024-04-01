@@ -4609,7 +4609,7 @@
 8004609	大教王	\N	dà jiāo wáng	tantra	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 怛特羅 (Lü 2017, pp. 77-78)	8004609
 8004610	宝贤	寶賢	bǎo	Manibhadra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇibhadra; king of the yaksas (BCSD '寶賢', p. 390; MW 'maṇibhadra')	8004610
 8004611	六神通	\N	liù shéntōng	the six supernatural powers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Heavenly vision 天眼通, (2) heavenly hearing 天耳通, (3) mind reading 他心通 (4) teleportation 神足通 (5) knowledge of past lives 宿命通 (6) destruction of all affliction 漏尽通; FGS translation standard: Six Supernatural Powers (Eitel 'abhijñā', p. 3; Tzu Chuang 2012, pp. 324-326)	8004611
-8004612	焰	\N	yàn	flame; blaze	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādīpta, Japanese: en, Tibetan: 'bar (BCSD '焰', p. 791; Mahāvyutpatti 'ādīptaḥ'; MW 'ādīpta'; SH '焰', p. 377; Unihan '焰')	8004612
+8004612	焰	\N	yàn	flame; ādīpta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arcis, or: ādīpta, Japanese: en, Tibetan: 'bar (BCSD '焰', p. 791; Mahāvyutpatti 'ādīptaḥ'; MW 'ādīpta'; SH '焰', p. 377; Unihan '焰')	8004612
 8004613	焰罗	焰羅	yànluó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yama; see 閻魔 (FGDB '焰羅王供行法次第')	8004613
 8004614	十二天	\N	shí èr	twelve devas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The devas of the ten directions in addition to Aditya and Candra (Abé 1999, p. 525; FGDB '十二天')	8004614
 8004615	阎魔	閻魔	yánmó	Yama	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	See 閻魔 (FGDB '閻魔王')	8004615
@@ -13686,7 +13686,7 @@
 8013686	猪头天	豬頭天	zhūtóutiān	Vajrāṅkuśa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrāṅkuśa; see 金剛面天 (FGDB '金剛面天')	8013686
 8013687	焰魔	\N	yànmó	Yama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yama; see 閻羅 (SH '死王', p. 216)	8013687
 8013688	金刚调伏天	金剛調伏天	jīngāngtiáofútiān	Vajrajaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrajaya, or: vinītadeva, Tibetan: dul ba lha; name of an esoteric Buddhist deity (Ding '調伏天'; FGDB '金剛調伏天'; Mahāvyutpatti 'vinītadevaḥ')	8013688
-8013689	调伏天	調伏天	tiáofútiān	Vajrajaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vinītadeva, Tibetan: dul ba lha; see 金剛調伏天 (Ding '調伏天'; Mahāvyutpatti 'vinītadevaḥ')	8013689
+8013689	调伏天	調伏天	tiáofútiān	Vinītadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vinītadeva, Tibetan: dul ba lha; see 金剛調伏天 (Ding '調伏天'; Mahāvyutpatti 'vinītadevaḥ')	8013689
 8013690	波罗维摩婆奢	波羅維摩婆奢	bōluówéimópóshē	Paranirmita-Vasavartin Heaven; paranirmitavaśavartin	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 他化自在天 (FGDB '他化自在天')	8013690
 8013691	钵盂	鉢盂	bōyú	alms bowl	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '鉢盂'; FGDB '鉢盂')	8013691
 8013692	盋盂	\N	bōyú	alms bowl	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鉢盂 (FGDB '鉢盂')	8013692
@@ -15099,3 +15099,6 @@
 8015099	能别不极成	能別不極成	néng bié bù jíchéng	non-approval of the qualifier	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 能別不極成過 (Bak 2017, p. 44-47; FGDB '能別不極成')	8015099
 8015100	钴	鈷	gǔ	cobalt	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ko: or: ku, or: gu (BCSD '鈷', p. 1187; Unihan '鈷')	8015100
 8015101	能别不极成过	能別不極成過	néng bié bù jí chéngguò	the error of non-approval of the qualifier	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the 因明三十三過 thirty three errors in Buddhist logic and 宗九過 nine errors in a pseudo thesis (Bak 2017, p. 108; Ding '能別不極成過'; FGDB '能別不極成過')	8015101
+8015102	彗星	\N	huìxīng	comet; ulkā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ulkā; see 天狗 (BCSD '彗星', p. 438; MW 'ulkā')	8015102
+8015103	天狗	\N	tiāngǒu	comet; meteor	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ulkā (FGDB '天狗'; MW 'ulkā'; SH '天狗', p. 145)	8015103
+8015104	忧流迦	憂流迦	yōuliújiā	comet; ulkā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ulkā see 天狗 (FGDB '天狗')	8015104
