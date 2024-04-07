@@ -8529,7 +8529,7 @@
 8008529	我知者	\N	wǒzhīzhě	Spiritual Self; Purusa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 神我 (FGDB '神我')	8008529
 8008530	生主	\N	shēng zhǔ	Prajapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajāpati; lord of creatures, mentioned in Buddhist texts (FGDB '生主')	8008530
 8008531	钵钵阇钵底	鉢鉢闍鉢底	bōbōshébōdǐ	Prajapati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajāpati; see 生主 (FGDB '生主')	8008531
-8008532	生天	\N	shēng tiān	highest rebirth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四種天 'four kinds of heaven' (Ding '生天'; FGDB '生天'; SH '生天', p. 196)	8008532
+8008532	生天	\N	shēng tiān	celestial birth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四種天 'four kinds of devas' (Ding '生天'; FGDB '生天'; SH '生天', p. 196)	8008532
 8008533	句义	句義	jù yì	the meaning of a word; the meaning of a sentence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padārtha (Ding '句義'; FGDB '句義'; MW 'padārtha')	8008533
 8008534	忘	\N	wàng	forget; vismṛ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vismṛ, Japanese: bou (BCSD '忘', p. 467; MW 'vismṛ'; Unihan '忘')	8008534
 8008535	法行	\N	fǎ xíng	to practice the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法行'; FGDB '法行')	8008535
@@ -15155,3 +15155,14 @@
 8015155	自语相违过	自語相違過	zì yǔ xiāngwéi guò	the error of contradicting one's own words	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the 因明三十三過 thirty three errors in Buddhist logic and 宗九過 nine errors in a pseudo thesis (Bak 2017, pp. 44-47; Ding '自語相違'; FGDB '自語相違過'; SH '自語相違', p. 219)	8015155
 8015156	自语相违	自語相違	zì yǔ xiāngwéi	contradicting one's own words	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 自語相違過 (Ding '自語相違'; SH '自語相違', p. 219)	8015156
 8015157	所别不极成	所別不極成	suǒ bié bù jí chéng	using an assumption that has not been agreed upon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 所別不極成過 (Ding '所別不極')	8015157
+8015158	销	銷	xiāo	to dissolve; parikṣaya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parikṣaya, Japanese: shou (BCSD '銷', p. 1190; MW 'parikṣaya'; SH '銷', p. 445; Unihan '銷')	8015158
+8015159	胜论派	勝論派	shènglùnpài	Vaisesika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaiśeṣika; see 衞世師 (FGDB '全哲學綱要')	8015159
+8015160	俱不极成过	俱不極成過	jū bù jíchéng guò	the error of non-approval of both sides	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	(Ding '俱不極成'; FGDB '俱不極成過')	8015160
+8015167	鋋	\N	chán	a trident; triśūla	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: triśūla, Japanese: sen, or: zen, or: en (BCSD '鋋', p. 1191; MW 'triśūla'; Unihan '鋋')	8015167
+8015168	俱不极成	俱不極成	jūbùjí chéng	non-approval of both sides	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 俱不極成過 (Bak 2017, pp. 44-47; Ding '俱不極成')	8015168
+8015169	相符极成过	相符極成過	xiāngfú jíchéng guò	the error of an already mutually acknowledged position	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	(Bak 2017, pp. 44-47; Ding '相符極成'; FGDB '相符極成過')	8015169
+8015170	相符极成	相符極成	xiāngfú jíchéng	an already mutually acknowledged position	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 相符極成過 (Bak 2017, pp. 44-47; Ding '相符極成')	8015170
+8015171	似因	\N	sìyīn	pseudo reason	noun	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	(Bak 2017, pp. 44-47; Ding '似因'; FGDB '似因')	8015171
+8015172	似喻	\N	sìyù	pseudo example	noun	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	There are five kinds of positive pseudo examples: 1. 能立法不成 what establishes does not exist, 2. 所立法不成 what is established does not exist, 3. 俱不成, 4. 無合 the statement of the combination is absent, 5. 倒合 and five kinds of negative pseudo examples: 1. 所立不遣, 2. 能立不遣, 3. 俱不遣, 4. 不離, 5. 倒離 (Bak 2017, pp. 44-47; FGDB '似喻')	8015172
+8015173	两俱不成过	兩俱不成過	liǎng jū bùchéng guò	the error related to something not established by both parties	set phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the 因明三十三過 thirty three errors in Buddhist logic; one of the 四不證過 four errors related to unproved reasons (Bak 2017, pp. 44-47; Ding '兩俱不成'; FGDB '兩俱不成過')	8015173
+8015174	两俱不成	兩俱不成	liǎng jū bùchéng	unestablished by both parties	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 兩俱不成過 (Ding '兩俱不成')	8015174
