@@ -2724,8 +2724,8 @@
 8002724	优钵剌	優鉢剌	yōubōlá	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002724
 8002725	殟钵罗花	殟鉢羅花	wēnbōluóhuā	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002725
 8002726	殟钵罗	殟鉢羅	wēnbōluó	utpala; blue lotus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: utpala; see 青蓮 (FGDB '優鉢羅華')	8002726
-8002727	锁	鎖	suǒ	shackles; srnkhala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: śṛṅkhalā (BCSD '鎖', p. 1192; MW 'śṛṅkhalā')	8002727
-8002728	鏁	\N	suǒ	shackles; srnkhala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: śṛṅkhalā; for example, in the name 金剛鏁菩薩 Vajraśṛṅkhalā Bodhisattva (BCSD '鎖', p. 1192; MW 'śṛṅkhalā')	8002728
+8002727	锁	鎖	suǒ	shackles; śṛṅkhalā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: śṛṅkhalā, Japanese: sa (BCSD '鎖', p. 1192; MW 'śṛṅkhalā'; Unihan '鎖')	8002727
+8002728	鏁	\N	suǒ	shackles; śṛṅkhalā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: śṛṅkhalā; for example, in the name 金剛鏁菩薩 Vajraśṛṅkhalā Bodhisattva (BCSD '鎖', p. 1192; MW 'śṛṅkhalā')	8002728
 8002729	降三世明王	\N	jiàng sān shì míngwáng	Wisdom King Conqueror of the Three Worlds; Trailokyavijaya Vidyaraja	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; a tantric deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 月黶尊 Candratilaka (FGDB '降三世明王'; SH '降三世', p. 317; Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002729
 8002730	降三世	\N	jiàng sān shì	Conqueror of the Three Worlds; Trailokyavijaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trailokyavijaya; see 降三世明王 (SH '降三世', p. 317)	8002730
 8002731	月黡尊	月黶尊	yuèyǎnzūn	Candratilaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sansrkit equivalent: candratilaka; see 降三世明王 (Giebel 2005, p. 30; T 848, Scroll 1, 18.0006b09)	8002731
@@ -3547,7 +3547,7 @@
 8003547	毘舍支	\N	píshězhī	pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (SH '毘舍支', p. 307)	8003547
 8003548	毘舍遮	\N	píshězhē	pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (SH '毘舍支', p. 307)	8003548
 8003549	毘舍遮鬼	\N	píshězhē guǐ	pisaca	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piśāca; see 臂奢柘鬼 (FGDB '毘舍遮鬼')	8003549
-8003550	大师	大師	dàshī	venerable master	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: daishi (DJBT '大師', p. 34; FGDB '大師'; SH '大師', p. 88)	8003550
+8003550	大师	大師	dàshī	venerable master	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: daishi (DJBT '大師', p. 34; FGDB '大師')	8003550
 8003551	天台法华宗	天台法華宗	tiāntái fǎhuá zōng	Tendai Lotus school	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese: Tendai-hokke-shū; a school founded by 最澄 Saichō (FGDB '最澄')	8003551
 8003552	根本	\N	gēnběn	mūla; root	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūla, Tibetan: dngos gzhi (BCSD '根本', p. 653; Mahāvyutpatti 'maulam'; MW 'mūla'; SH '根本', p. 327)	8003552
 8003553	大和尚	\N	dà héshang	a senior monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: daiwajō (Abé 1999, p. 557; SH '大和尚', p. 86)	8003553
@@ -9141,7 +9141,7 @@
 8009141	未来记	未來記	wèilái jì	to prophesize; to predict	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 懸記 (FGDB '未來記')	8009141
 8009142	佉耶苏多	佉耶蘇多	qūyésūduō	Chedasūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A class of Jain texts (FGDB '耆那教聖典'; Jaini 1979, p. 48)	8009142
 8009143	下乘	\N	xià shèng	Hinayana; Hīnayāna; Lesser Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘 (FGDB '小乘')	8009143
-8009144	声闻藏	聲聞藏	shēngwén zàng	Hīnayāna canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聲聞藏'; FGDB '聲聞藏'; SH '聲聞藏', p. 462)	8009144
+8009144	声闻藏	聲聞藏	shēngwén zàng	Śrāvaka canon; Hīnayāna canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聲聞藏'; FGDB '聲聞藏'; SH '聲聞藏', p. 462)	8009144
 8009145	接	\N	jiē	combination; saṃdhi	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃdhi, Japanese: setsu (BCSD '接', p. 554; MW 'saṃdhi'; SH '接', p. 350; Unihan '接')	8009145
 8009146	菩萨藏	菩薩藏	púsà zàng	Mahāyāna canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '菩薩藏'; FGDB '菩薩藏'; SH '菩薩藏', p. 389)	8009146
 8009147	上乘	\N	shàngshèng	Mahāyāna; Great Vehicle	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大乘 (FGDB '大乘')	8009147
@@ -11222,7 +11222,7 @@
 8011222	补卢杀娑	補盧殺娑	bǔlúshāsuō	puruṣasya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣasya; for example, used in Scroll 3 of 華嚴經探玄記 Exploring the Mysteries of the Avatamsaka Sutra; see 補盧殺沙 (BCSD '補盧殺娑', p. 1052; Gulik 1956, p. 20; T 1733 35.0149a28)	8011222
 8011223	所属声	所屬聲	suǒshǔ shēng	genitive case	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, used in Scroll 3 of 華嚴經探玄記 Exploring the Mysteries of the Avatamsaka Sutra; see 屬格 (Goldman and Goldman 2011, p. 61; Gulik 1956, p. 20; T 1733 35.0149a28)	8011223
 8011224	补卢铩	補盧鎩	bǔlúshā	puruṣe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣe; locative case for puruṣa 'man', for example, used in Scroll 3 of 華嚴經探玄記 Exploring the Mysteries of the Avatamsaka Sutra (BCSD '補盧鎩', p. 1052; Goldman and Goldman 2011, p. 62; Gulik 1956, p. 20; T 1733 35.0149a28)	8011224
-8011225	于格	於格	yúgé	locative case	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Sanskrit, marks location; see 方位格 (FGDB '八轉聲')	8011225
+8011225	于格	於格	yúgé	locative case	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Marks location of Sanskrit nouns; see 方位格 (FGDB '八轉聲')	8011225
 8011226	所依声	所依聲	suǒyī shēng	locative case	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 方位格 (FGDB '八轉聲')	8011226
 8011227	牀	\N	chuáng	bed; paryaṅka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paryaṅka, Japanese: sou, or: shou (BCSD '牀', p. 808; MW 'paryaṅka'; Unihan '牀')	8011227
 8011228	清净土	清淨土	qīngjìngtǔ	pure land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 淨土(FGDB '淨土')	8011228
@@ -15228,3 +15228,28 @@
 8015228	能立法不成	能立法不成	nénglì fǎ bùchéng	what establishes does not exist	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 能立法不成過 (Ding '能立法不成'; FGDB '能立法不成過')	8015228
 8015229	所立法不成过	所立法不成過	suǒ lì fǎ bùchéng guò	an error because the dharma established does not exist	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example (Bak 2017, pp. 44-47; Ding '所立法不成'; FGDB '所立法不成過')	8015229
 8015230	鎋	\N	xiá	hard iron; vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra, Japanese: katsu (BCSD '鎋', p. 1192; MW 'vajra'; Unihan '鎋')	8015230
+8015231	所立法不成	所立法不成	suǒ lì fǎ bùchéng	the dharma established does not exist	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 所立法不成過 (Ding '所立法不成')	8015231
+8015232	俱不成过	俱不成過	jū bùchéng guò	an error because both [what establishes and the established] do not exist	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example (Bak 2017, pp. 44-47; Ding '俱不成'; FGDB '俱不成過'; SH '俱不成', p. 321)	8015232
+8015233	鎌	\N	lián	sickle; dātra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dātra, Japanese: ren (BCSD '鎌', p. 1192; MW 'dātra'; SH '鎌', p. 470; Unihan '鎌')	8015233
+8015234	俱不成	俱不成	jū bùchéng	both [what establishes and the established] do not exist	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 俱不成過 (Ding '俱不成'; SH '俱不成', p. 321)	8015234
+8015235	无合过	無合過	wúhé guò	an error because the statement of combination is absent	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example (Bak 2017, pp. 44-47; FGDB '無合過')	8015235
+8015236	镕	鎔	róng	fuse; tapta	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tapta, Japanese: you (BCSD '鎔', p. 1192; MW 'tapta'; Unihan '鎔')	8015236
+8015237	依格	\N	yīgé	locative case	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 於格 (FGDB '八轉聲')	8015237
+8015238	从此	從此	cóngcǐ	from this; henceforth; itas	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: itas (MW 'itas'; Shan and Lian 2013, p. 94)	8015238
+8015239	𬬰	鎗	qiāng	spear; kunta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kunta, Japanese: sou, or: shou, Tibetan: mdung (BCSD '鎗', p. 1192; Mahāvyutpatti 'kuntaḥ'; MW 'kunta'; Unihan '鎗')	8015239
+8015240	何况	何況	hékuàng	needless to say; punarvāda	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: punarvāda (MW 'punarvāda'; Shan and Lian 2013, p. 95)	8015240
+8015241	大师	大師	dàshī	great teacher	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāstṛ; one of the ten epithets of the Buddha (MW 'śāstṛ'; SH '大師', p. 88; Shan and Lian 2013, p. 97)	8003550
+8015242	鎚	\N	chuí	hammer; ārā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ārā, Japanese: tsui, or: tai (BCSD '鎚', p. 1192; MW 'ārā'; Unihan '鎚')	8015242
+8015243	倒合过	倒合過	dǎohé guò	an error because the statement of combination is reversed	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example (Bak 2017, pp. 44-47; Ding '倒合'; FGDB '倒合過'; SH '倒合', p. 320)	8015243
+8015244	倒合	倒合	dǎohé	the statement of combination is reversed	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 倒合過 (Ding '倒合')	8015244
+8015245	铠	鎧	kǎi	armor; saṃnāha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃnāha, Japanese: gai, or: kai, Tibetan: go cha (BCSD '鎧', p. 1192; Mahāvyutpatti 'varmasaṃnāhaḥ'; MW 'saṃnāha'; SH '鎧', p. 469; Unihan '鎧')	8015245
+8015246	所立不遣过	所立不遣過	suǒ lì bùqiǎn guò	an error because what is to be established is not withdrawn	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example, in this case the pseudo example is a counter example (Bak 2017, pp. 44-47; Ding '所立不遣'; FGDB '所立不遣過')	8015246
+8015247	所立不遣	所立不遣	suǒ lì bùqiǎn	what is to be established is not withdrawn	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 所立不遣過 (Ding '所立不遣')	8015247
+8015248	镇	鎮	zhèn	subduing; ākramaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākramaṇa, Japanese: chin, or: ten (BCSD '鎮', p. 1192; MW 'ākramaṇa'; SH '鎮', p. 469; Unihan '鎮')	8015248
+8015249	能立不遣过	能立不遣過	nénglì bùqiǎn guò	an error because what establishes is not withdrawn	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example, in this case the pseudo example is a counter example (Bak 2017, pp. 44-47; Ding '能立不遣'; FGDB '能立不遣過')	8015249
+8015250	能立不遣	能立不遣	nénglì bùqiǎn	what establishes is not withdrawn	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	See 能立不遣過 (Ding '能立不遣')	8015250
+8015251	鎭	\N	zhèn	subduing; ākramaṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākramaṇa, Japanese: chin, or: ten (BCSD '鎭', p. 1192; MW 'ākramaṇa'; Unihan '鎭')	8015251
+8015252	千字文帙号法	千字文帙號法	qiān zì wén zhì hào fǎ	Thousand Character Classic Indexing Method	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Method for indexing wood block printed versions of the Chinese Buddhist canon (Wu, Jiang 2016, p. 30)	8015252
+8015253	题记	題記	tíjì	colophon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used for pages at the start of individual texts in the Chinese Buddhist canon (Wu, Jiang 2016, p. 31)	8015253
+8015254	镞	鏃	zú	arrowhead	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: zoku, or: soku (BCSD '鏃', p. 1192; Unihan '鏃')	8015254
+8015255	俱不遣过	俱不遣過	jū bùqiǎn guò	an error because both are not withdrawn	phrase	\N	\N	佛教	Buddhism	因明	Buddhist Logic	\N	\N	One of the ten kinds of 似喻 pseudo example, in this case the pseudo example is a counter example where both what is to be established and what establishes are not withdrawn (Bak 2017, pp. 44-47; Ding '俱不遣'; FGDB '俱不遣過'; SH '俱不遣', p. 321)	8015255
