@@ -3487,7 +3487,7 @@
 8003487	吃丽奢	吃麗奢	chīlìshē	kleśa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kleśa; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'kleśa'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003487
 8003488	素捺那	\N	sùnànà	sudana; destroy	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūdana; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'sūdana'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003488
 8003489	嚩始多	\N	fúshǐduō	vasita; subduing to one's own will	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaśitā; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (MW 'vaśitā'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0014c16)	8003489
-8003490	鑁	\N	zōng	vaṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaṃ; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (FGDB '鑁'; Giebel 2005, p. 61; T 848, Scroll 2, 18.0015a01)	8003490
+8003490	鑁	\N	zōng	vaṃ	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vaṃ; a transliteration used in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '鑁', p. 1194; Giebel 2005, p. 61; SH '鑁', p. 485; T 848, Scroll 2, 18.0015a01)	8003490
 8003491	鲁达罗	魯達羅	lǔdáluó	Rudra; Roarer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; god of tempests, another name for 自在天 Mahesvara; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as 嚕捺囉 (FGDB '魯達羅'; SW 'rudra'; SH '樓陀羅', p. 438; Wikipedia '樓陀羅'; Giebel 2005, p. 62; T 848, Scroll 2, 18.0015a13)	8003491
 8003492	噜捺啰	嚕捺囉	lūnàluó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (Giebel 2005, p. 62; T 848, Scroll 2, 18.0015a13)	8003492
 8003493	楼陀	樓陀	lóutuó	Rudra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rudra; see 魯達羅 (SH '樓陀羅', p. 438)	8003493
@@ -15284,3 +15284,8 @@
 8015284	铛	鐺	chēng	warming vessel; sthālī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthālī, Japanese: tou, or: sou (BCSD '鐺', p. 1194; MW 'sthālī'; Unihan '鐺')	8015284
 8015285	空魔	\N	kōng mó	demon of emtiness	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '空魔'; FGDB '空魔'; SH '空魔', p. 278)	8015285
 8015286	思惟正受	\N	sīwéi zhèngshòu	reflection and meditative attainment	phrase	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	(FGDB '思惟正受')	8015286
+8015287	铸	鑄	zhù	cast	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chū (BCSD '鑄', p. 1194; Unihan '鑄')	8015287
+8015288	修性不二门	修性不二門	xiūxìng bùèr mén	cultivation and innate [awareness] are not two different methods	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '修性不二門'; SH '修性不二門', p. 320)	8015288
+8015289	修性	\N	xiū xìng	cultivation and innate nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '修性'; FGDB '修性'; SH '修性', p. 320)	8015289
+8015290	修得性得	\N	xiū dé xìng dé	cultivated attainment and innate attainment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '修得性得')	8015290
+8015291	修德性德	\N	xiū dé xìng dé	cultivated attainment and innate attainment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 修得性得 (FGDB '修德性德')	8015291
