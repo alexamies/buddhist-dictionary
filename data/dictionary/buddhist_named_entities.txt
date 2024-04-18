@@ -3980,8 +3980,8 @@
 7003980	三藏瞿昙僧伽提婆	三藏瞿曇僧伽提婆	sān zàng qútán sēngjiātípó	Gautama Saṅghadeva; Saṃghadeva; Sajghadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽提婆 (FGDB '僧伽提婆')	7003980
 7003981	罽賓三藏瞿昙僧伽提婆	罽賓三藏瞿曇僧伽提婆	jìbīn sān zàng qútán sēngjiātípó	Gautama Saṅghadeva; Saṃghadeva; Sajghadeva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽提婆 (FGDB '僧伽提婆')	7003981
 7003982	东亭寺	東亭寺	dōngtíng sì	Dongting Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	The name of a historic temple in Luoyang (AS 2002 '東亭')	7003982
-7003983	城喩经	城喩經	chéng yù jīng	Nagara Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: nagara; the Chinese as written in the Korean Canon (KDC 'K 648'; T 26, Scroll 1; Aṅguttara Nikāya 7.63)	7003983
-7003984	城喻经	城喻經	chéng yù jīng	Nagara Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Title of a text included in the 中阿含經 Madhyamāgama, parallel to the Nagara Sutta: “The Fortress,” in the Pali canon (KDC 'K 648'; T 26, Scroll 1; Aṅguttara Nikāya 7.63)	7003984
+7003983	城喩经	城喩經	chéng yù jīng	Nagara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: nagara; the Chinese as written in the Korean Canon (KDC 'K 648'; T 26, Scroll 1; Aṅguttara Nikāya 7.63)	7003983
+7003984	城喻经	城喻經	chéng yù jīng	Nagara Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Title of a text included in the 中阿含經 Madhyamāgama, parallel to the Nagara Sutta: “The Fortress,” in the Pali canon (KDC 'K 648'; T 26, Scroll 1; Aṅguttara Nikāya 7.63)	7003984
 7003985	波罗牢经	波羅牢經	bōluóláo jīng	Pāṭali Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: pāṭali (KDC 'K 648'; T 26, Scroll 4; FGDB '波羅牢經'; Saṃyutta Nikāya 42.13)	7003985
 7003986	波罗牢	波羅牢	bōluóláo	Pāṭali	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	From Pāli: pāṭali (KDC 'K 648'; T 26, Scroll 3; FGDB '波羅牢經'; Saṃyutta Nikāya 42.13)	7003986
 7003987	等心经	等心經	děng xīn jīng	Saññojana and Samacittā Sutta	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(KDC 'K 648'; T 26, Scroll 5; FGDB '波羅牢經'; Aṅguttara Nikāya II.4.5-6)	7003987
@@ -7522,3 +7522,9 @@
 7007522	别录	別錄	biélù	Subject Catalog; Bie Lu	proper noun	书名	Book Title	佛教	Buddhism	中国	China	\N	\N	See 眾經別錄 (FGDB '眾經別錄')	7007522
 7007523	龙施经	龍施經	lóng shī jīng	Nāgadattā Sūtra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 龍施菩薩本起經 (FGDB '龍施菩薩本起經'; T 558)	7007523
 7007524	龙施本起经	龍施本起經	lóngshī běnqǐ jīng	Sūtra on the Story of Nāgadattā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 龍施菩薩本起經 (FGDB '龍施菩薩本起經'; T 558)	7007524
+7007525	阿阇贳	阿闍貰	āshéshì	Ajātaśatru	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: ajātaśatru; see 阿闍世王 (SH '阿闍世', p. 293)	7007525
+7007526	淫薄健国	淫薄健國	yínbáojiàn guó	Inkavan	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 淫薄健 (FGDB '淫薄健'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7007526
+7007527	佛栗持萨傥那	佛栗持薩儻那	fólìchísàtǎngnà	Vṛjisthāna	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	A country located in the Pamirs, visited by Xuan Zang on his return to China (SH '佛栗持薩儻那'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7007527
+7007528	弗栗恃萨傥那	弗栗恃薩儻那	fúlìshìsàtǎngnà	Vṛjisthāna	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 佛栗持薩儻那 (SH '佛栗持薩儻那'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7007528
+7007529	弗栗恃萨傥那国	弗栗恃薩儻那國	fúlìshìsàtǎngnàguó	Vṛjisthāna	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 佛栗持薩儻那 (SH '佛栗持薩儻那'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7007529
+7007530	安呾罗缚国	安呾羅縛國	āndáluófúguó	Andarab	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	A country visited by Xuan Zang on his return to China, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions” (FGDB '安呾羅縛國'; SH '安呾羅縛國'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7007530
