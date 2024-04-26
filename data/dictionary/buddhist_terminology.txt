@@ -4631,7 +4631,7 @@
 8004631	劫波	\N	jiébō	a ritual; kalpa	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: kalpa; one of the six disciplines associated with the study of the Vedas (MW 'kalpa'; Wikipedia '仪轨经')	8000428
 8004632	焦芽败种	焦芽敗種	jiāo yá bài zhǒng	withered spouts are the seeds of defeat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference for the inability of some beings to become Buddhas (Ding '焦芽敗種'; FGDB '焦芽敗種'; Hsing Yun 2016, p. xvi)	8004632
 8004633	三资粮	三資糧	sān zīliáng	the three supports	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Faith 信, 2. vows 愿, 3. practice 行 (Tzu Chuang 2012, pp. 327-329)	8004633
-8004634	十二部经	十二部經	shí èr bù jīng	Twelve Divisions of Sutras; dvādaśaṅga; the twelve divisions of Buddhist literature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśaṅga. Sanskrit includes three more divisions than the Pali 九部經 navaṅga 'nine part teachines' of the Pali canon. They are: (1) sūtra 长行 'discourses', (2) geya 重颂, (3) gatha 孤起 'verses', (4) avadāna 譬喻 'narratives', (5) Nidana 因缘, (6) Udana 无问自说, (7) Jātaka 本生 'birth stories', (8) Itivrttaka 本事, (9) Abdutadharma 未曾有, (10) Vaipulya 方广, (11) Upadesa 论识, (12) Vyakarana 授记 (BL 'dvādaśaṅga'; Tzu Chuang 2012, pp. 329-332; FGDB '十二部經')	8004634
+8004634	十二部经	十二部經	shí èr bù jīng	twelve divisions of Buddhist literature; dvādaśaṅga	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśaṅga. Sanskrit includes three more divisions than the Pali 九部經 navaṅga 'nine part teachines' of the Pali canon. They are: (1) sūtra 长行 'discourses', (2) geya 重颂 'mixed prose and verse', (3) gatha 孤起 'verses', (4) avadāna 譬喻 'narratives', (5) Nidana 因缘 'stories', (6) Udana 无问自说 'expositions', (7) Jātaka 本生 'birth stories', (8) Itivrttaka 本事 'fables', (9) Abdutadharma 未曾有 'marvelous events', (10) Vaipulya 方广 'works of great extent', (11) Upadesa 论识 'instructions', (12) Vyakarana 授记 'prophetic teachings' (BL 'dvādaśaṅga'; Tzu Chuang 2012, pp. 329-332; FGDB '十二部經')	8004634
 8004635	长行	長行	cháng háng	Sutra (discourses); a sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, Pali: sutta; a prose narrative that records the teachings of the Buddha; one of the 十二部经 'twelve divisions of the sutras' (discourses) (Tzu Chuang 2012, p. 329)	8004635
 8004636	重颂	重頌	chóng sòng	geya; repeated verses	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A verse section that repeats the prose narrative immediately before it; one of the 十二部经 'twelve divisions of the sutras' (Giles 1892 '頌'; SH '重頌', p. 225; Tzu Chuang 2012, pp. 329-332)	8004636
 8004637	人执	人執	rén zhí	grasphing to the concept of a permanent person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pudgalagrāha (SH '人執', p. 32; Shan and Lian 2013, p. 67)	8004637
@@ -15314,3 +15314,25 @@
 8015314	缚日罗	縛日羅	fúrìluó	vajra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajra; see 金剛 (FGDB '金剛摧碎天')	8015314
 8015315	正藏	\N	zhèng zàng	main canon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Zacchetti 2016, p. 81)	8007753
 8015316	镶	鑲	xiāng	inlay	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: jou, or: shou, or: nyou, or: sou (BCSD '鑲', p. 1194; Unihan '鑲')	8015316
+8015317	应颂	應頌	yīngsòng	geya; mixed verses and prose	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: geya; see 祇夜 (FGDB '十二部經')	8015317
+8015318	记别	記別	jìbié	vyākaraṇa; prophetic teachings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyākaraṇa; see 授記 (FGDB '十二部經')	8015318
+8015319	镊	鑷	niè	tweezers	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: jou (BCSD '鑷', p. 1194; Unihan '鑷')	8015319
+8015320	和伽罗那	和伽羅那	héjiāluónà	vyākaraṇa; prophetic teachings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vyākaraṇa; see 授記 (FGDB '十二部經')	8015320
+8015321	自说	自說	zìshuō	udāna; expressions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: udāna; see 優陀那 (FGDB '十二部經')	8015321
+8015322	锣	鑼	luó	cymbal; paṇava	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṇava, Japanese: ra (BCSD '鑼', p. 1194; MW 'paṇava'; Unihan '鑼')	8015322
+8015323	优波提舍	優波提舍	yōubōtíshě	upadeśa; instructions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upadeśa; see 論議 (FGDB '十二部經')	8015323
+8015324	蜀藏	\N	shǔ zàng	Shu Canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative name for the 開寶藏 Kaibao Canon (FGDB '開寶藏')	8015324
+8015325	钻	鑽	zuān	bore; math	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: math, Japanese: san (BCSD '鑽', p. 1194; Mahāvyutpatti 'mathanam'; MW 'math'; SH '鑽', p. 491; Unihan '鑽')	8015325
+8015326	开宝藏	開寶藏	kāi bǎo zàng	Kaibao Canon; Kaibaozang	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first version of the Chinese Buddhist Canon, printed in 971-983 (FGDB '開寶藏'; Li 2020, p. 62; Wu, Chia, and Chen 2016, pp. 165-200)	8015326
+8015327	初刻南藏	\N	chū kè nán zàng	Hong Wu Southern Canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Completed in 1399, a version of the Chinese Buddhist Canon (Li 2020, p. 62)	8015327
+8015328	凿	鑿	záo	bore; khan	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: khan, Japanese: saku, or: sou (BCSD '鑿', p. 1194; MW 'khan'; Unihan '鑿')	8015328
+8015329	南藏	\N	nán zàng	Southern Canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A version of the Chinese Buddhist Canon, either the 洪武南藏 Hongwu Southern Canon or the 永樂南藏 Yong Le Southern Canon (FGDB '中文大藏經')	8015329
+8015330	再刻南藏	\N	zài kè nán zàng	Yong Le Southern Canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Completed in 1417, a version of the Chinese Buddhist Canon (Fang 2020, pp. 93-94)	8015330
+8015331	闩	閂	shuān	bolt; argala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: argala, Japanese: san, or: sen (BCSD '閂', p. 1197; MW 'argala'; Unihan '閂')	8015331
+8015332	洪武南藏	\N	hóng wǔ nán zàng	Hong Wu Southern Canon	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Completed in 1399, a version of the Chinese Buddhist Canon (Fang 2020, p. 93; FGDB '中文大藏經')	8015332
+8015333	龙藏经	龍藏經	lóng zàng jīng	Qian Long Tripitaka; Lung Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	Completed in 1738, a version of the Chinese Buddhist Canon (Kida 2017, pp. 67-94; Long 2016, pp. 243-244; Wikipedia '龍藏經')	8015333
+8015334	闪	閃	shǎn	flash	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '閃', p. 1197; Unihan '閃')	8015334
+8015335	清藏	\N	qīng jīng	Qian Long Tripitaka; Lung Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	See 龍藏經 (Wikipedia '龍藏經')	8015335
+8015336	乾隆大藏经	乾隆大藏經	qián lóng dà zàng jīng	Qian Long Tripitaka; Lung Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	See 龍藏經 (Wikipedia '龍藏經')	8015336
+8015337	閇	\N	bì	pi	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hei (BCSD '閇', p. 1197; Unihan '閇')	8015337
+8015338	径山藏	徑山藏	jìn shān zàng	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中華大藏經')	8015338
