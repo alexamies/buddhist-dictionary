@@ -2087,7 +2087,7 @@
 8002087	大威德金刚	大威德金剛	dà wēi dé jīngāng	Yamantaka	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	tibetan_lacquer_mask400.jpg	\N	Sanskrit equivalent: yamāntaka, Japanese: Enmantokuka, Tibean: gshin rje gshed; a Tantric diety, well known in Tibetan Buddhism; literally 'Destroy er of Death' (BL 'Yamāntaka', p. 1020; Bunce and Capdi 1994, p. 623; FGDB '閻曼德迦明王'; FGS Encyclopedia of Buddhist Arts; Wikipedia '大威德金剛')	8002087
 8002088	大威德	\N	dà Wēi Dé	Yamantaka	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	tibetan_lacquer_mask400.jpg	\N	Sanskrit equivalent: yamāntaka; see 大威德金剛 (Wikipedia '大威德金剛')	8002088
 8002089	时轮	時輪	shí lún	Kalacakra	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: kālacakra; literally, time wheel or cycle of time (BCSD '時輪', p. 601; Goble 2019, pp. 86-88; Wikipedia '时轮')	8002089
-8002090	胜乐金刚	勝樂金剛	Shèng Lè jīngāng	Supreme Pleasure Vajra; Cakrasamvara; Chakrasamvara	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: cakrasaṃvara (FGDB '諦洛巴'; Wikipedia '勝樂金剛')	8002090
+8002090	胜乐金刚	勝樂金剛	Shèng lè jīngāng	Supreme Pleasure Vajra; Cakrasamvara; Chakrasamvara	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: cakrasaṃvara (FGDB '諦洛巴'; Wikipedia '勝樂金剛')	8002090
 8002091	阎曼德迦明王	閻曼德迦明王	yánmàndéjiā míngwáng	Yamantaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yamāntaka; see 大威德金剛 (FGDB '閻曼德迦明王')	8002091
 8002092	持明金刚	持明金剛	chímíngjīngāng	Yamantaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大威德金剛 (FGDB '閻曼德迦明王')	8002092
 8002093	圣焰曼德迦威怒王	聖焰曼德迦威怒王	shèngyànmàndéjiāwēi nùwáng	Yamantaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大威德金剛 (FGDB '閻曼德迦明王')	8002093
@@ -15336,3 +15336,13 @@
 8015336	乾隆大藏经	乾隆大藏經	qián lóng dà zàng jīng	Qian Long Tripitaka; Lung Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	See 龍藏經 (Wikipedia '龍藏經')	8015336
 8015337	閇	\N	bì	pi	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hei (BCSD '閇', p. 1197; Unihan '閇')	8015337
 8015338	径山藏	徑山藏	jìn shān zàng	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中華大藏經')	8015338
+8015339	佛教大藏经	佛教大藏經	fójiào dà zàng jīng	Fojian Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	Literally meaning 'Buddhist Canon', this is the name of a version of the Chinese Buddhist canon compiled over the period 1977-1983 in Taiwan (FGDB '佛教大藏經')	8015339
+8015340	闭	閉	bì	shut; pithaya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pithaya, Japanese: hei, or: hetsu (BCSD '閉', p. 1197; MW 'pithaya'; SH '閉', p. 366; Unihan '閉')	8015340
+8015341	日本大藏经	日本大藏經	rìběn dà zàng jīng	Japanese Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	日本	Japan	\N	\N	The name of a specific edition of the Japanese Buddhist canon, produced in the period 1919-1921 (FGDB '中文大藏經')	8015341
+8015342	频伽大藏经	頻伽大藏經	pínjiā dà zàng jīng	The Pinjia Canon	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(Baidu Baike '频伽大藏经'; Hsing Yun and Miao Guang trans. 2016, p. 374)	8015342
+8015343	闲	閑	xián	separated; vivikta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vivikta, Japanese: kan, or: ken (BCSD '閑', p. 1198; MW 'vivikta'; SH '閑', p. 393; Unihan '閑')	8015343
+8015344	嘉兴藏	嘉興藏	jiāxīng zàng	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (Hsing Yun and Miao Guang trans. 2016, p. 372)	8015344
+8015345	方册藏	方冊藏	fāng cè zàng	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中華大藏經')	8015345
+8015346	阂	閡	hé	hinder; pratigha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratigha, Japanese: gai, or: kai, or: koku (BCSD '閡', p. 1199; MW 'pratigha'; Unihan '閡')	8015346
+8015347	永乐北藏	永樂北藏	yǒng lè běi zàng	Yong Le Northern Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	Completed in 1440, a version of the Chinese Buddhist Canon (FGDB '永樂萬曆藏'; Long 2020, p. 135; Wikipedia '永樂北藏')	8015347
+8015348	北藏	\N	běi zàng	Yong Le Northern Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	Completed in 1440, a version of the Chinese Buddhist Canon (FGDB '中文大藏經')	8015348

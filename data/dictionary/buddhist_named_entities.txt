@@ -270,7 +270,7 @@
 7000270	欧阳竟无	歐陽竟無	Ōuyáng jìnwú	Ou Yangjian ; Ouyang Jingwu	proper noun	学者	Scholar	佛教	Buddhism	中国	China	\N	\N	See 歐陽漸 (FGDB '歐陽漸')	7000270
 7000271	本朝高僧传	本朝高僧傳	běncháo gāosēng  zhuàn	Honchō kōsō den	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Title of a Japanese text compiled circa 1702 (FGDB '本朝高僧傳'; Fogel 2013, p. 68)	7000271
 7000272	善邻国宝记	善鄰國寶記	shàn lín guó bǎojì	Zenrin kokuhō ki	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese text describing cultural exchange between Japan, China, and Korea, compiled c. 1392 (FGDB '善鄰國寶記'; Fogel 2013, p. 68; Wikipedia '善邻国宝记')	7000272
-7000273	佛教大藏经	佛教大藏經	fójiào dà zàng jīng	Fojian Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	Literally meaning 'Buddhist Canon', this is the name of a version of the Chinese Buddhist canon compiled over the period 1977-1983 in Taiwan (FGDB '佛教大藏經')	7000273
+7000273	诸福田经	諸福田經	zhū fútián jīng	Field of Merit Sutra; Zhu Fu Tian Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 諸德福田經 (FGDB '諸德福田經'; T 683)	7000273
 7000274	望月信亨	\N	wàngyuè xìnhēng	Shinkō Mochizuki	proper noun	学者	Scholar	佛教	Buddhism	日本	Japan	\N	\N	1869-1948; Japanese Buddhist scholar (FGDB '望月信亨'; Worldcat Identities '望月信亨')	7000274
 7000275	善妙	\N	shànmiào	Zenmyō	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	Japanese monk who travelled to China in the Ming dynasty (Fogel 2013, p. 68)	7000275
 7000276	善妙	\N	shànmiào	Shan Miao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Tang dynasty monk (BSPAD '善妙', ID A009227)	7000275
@@ -282,8 +282,8 @@
 7000282	龙山德见	龍山德見	lóngshān déjiàn	Ryūzan Tokken	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1284-1358; Japanese monk who travelled to China (BSPAD '龍山德見', ID A021408; Fogel 2013, p. 71)	7000282
 7000283	无梦一清	無夢一清	wúmèng yīqīng	Mubō Issei	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1294-1368; Japanese monk who travelled to China (BSPAD '無夢一清', ID A027874; Fogel 2013, p. 71)	7000283
 7000284	愚中周及	\N	yúzhōng zhōují	Guchū shūkyū	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1323-1409; Japanese monk who travelled to China (BSPAD '愚中周及', ID A001426; DDB '愚中周及'; FGDB '愚中周及'; Fogel 2013, p. 71)	7000284
-7000285	日本大藏经	日本大藏經	Rìběn dà zàng jīng	Japanese Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	日本	Japan	\N	\N	The name of a specific edition of the Japanese Buddhist canon, produced in the period 1919-1921 (FGDB '中文大藏經')	7000285
-7000286	丁福保	\N	Dīng fúbǎo	Ding Fubao	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	1874-1952, a lay Chinese Buddhist, compiled 《佛學大辭典》 Foxue Da Cidian 'Comprehensive Buddhist Dictionary' (FGDB '丁福保')	7000286
+7000285	福田经	福田經	fú tián jīng	Field of Merit Sutra; Fu Tian Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 諸德福田經 (FGDB '諸德福田經'; T 683)	7000285
+7000286	丁福保	\N	dīng fúbǎo	Ding Fubao	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	1874-1952, a lay Chinese Buddhist, compiled 《佛學大辭典》 Foxue Da Cidian 'Comprehensive Buddhist Dictionary' (FGDB '丁福保')	7000286
 7000287	雪舟	\N	xuězhōu	Sesshū	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1420-1506; Japanese monk who travelled to China (BSPAD '雪舟等揚', ID A021481; Fogel 2013, p. 71; Wikipedia '雪舟')	7000287
 7000288	雪舟等扬	雪舟等揚	xuězhōu děngyáng	Sesshū Tōyō	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	See 雪舟 (BSPAD '雪舟等揚', ID A021481)	7000288
 7000289	修慧	\N	xiūhuì	Xiuhui	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	1908-1999 Monastic from Taiwan (FGDB '修慧')	7000289
@@ -529,8 +529,8 @@
 7000529	西瞿耶尼	\N	xī jùyéní	Aparagodānīya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瞿陀尼; used in 天台四教儀 “A Guide to the Tiantai Fourfold Teachings,” by 諦觀 Chegwan in the Tang (Ichishima and Chappell 2013, p. 174; T 1931)	7000529
 7000530	北欝单越	北欝單越	běiyùdānyuè	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鬱單越; used in 天台四教儀 “A Guide to the Tiantai Fourfold Teachings,” by 諦觀 Chegwan in the Tang (Ichishima and Chappell 2013, p. 174; T 1931)	7000530
 7000531	归元镜	歸元鏡	guī yuán jìn	The Mirror of Origin	proper noun	戏曲	Opera	佛教	Buddhism	中国	China	\N	\N	A Buddhist opera (Baidu Baike '归元镜'; Hsing Yun and Miao Guang trans. 2016, p. 374)	7000531
-7000532	频伽大藏经	頻伽大藏經	pínjiā dà zàng jīng	The Pinjia Canon	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(Baidu Baike '频伽大藏经'; Hsing Yun and Miao Guang trans. 2016, p. 374)	7000532
-7000533	佛教科学观	佛教科學觀	fójiāo kēxué guān	The Science of Buddhism	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Book by 尢智表 Wang Zhibiao (Hsing Yun and Miao Guang trans. 2016, p. 374; SH '佛教科學觀')	7000533
+7000532	俱兰弩国	俱蘭弩國	jūlánnǔguó	Kurāṇa	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 屈浪拏國 (FGDB '屈浪拏國')	7000532
+7000533	佛教科学观	佛教科學觀	fójiāo kēxué guān	The Science of Buddhism	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Book by 尢智表 Wang Zhibiao (Hsing Yun and Miao Guang trans. 2016, p. 374; SH '佛教科學觀')	7000533
 7000534	尢智表	\N	wāng zhìbiǎo	Wang Zhibiao	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	1901-; Known for writing 佛教科學觀 'The Science of Buddhism' (Baidu '尢智表')	7000534
 7000535	世界佛教居士林林刊	\N	shìjiè fójiào jūshìlín línkān	The World Buddhist Lay Association Magazine	proper noun	佛教期刊	Buddhist Periodical	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun and Miao Guang trans. 2016, p. 374)	7000535
 7000536	虚云和尚年谱	虛雲和尚年譜	xūyún héshàng niánpǔ	The Xuyun Almanac	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	(Baidu Baike '虚云和尚年谱'; Hsing Yun and Miao Guang trans. 2016, p. 374)	7000536
@@ -637,7 +637,7 @@
 7000637	龙门石窟	龍門石窟	lóngmén shíkū	Longmen Grottoes	proper noun	石窟	Grottoes	佛教	Buddhism	中国	China	\N	\N	Well known site with Buddhist carvings located near Luoyang (BL 'Longmen')	7000637
 7000638	大足石窟	\N	dàzú shíkū	Dazu Grottoes	proper noun	石窟	Grottoes	佛教	Buddhism	中国	China	\N	\N	(Wikipedia '大足石刻')	7000638
 7000639	九华山	九華山	jiǔhuà shān	Mount Jiuhua; Jiuhuashan	proper noun	佛教名山	Sacred Buddhist Mountain	佛教	Buddhism	安徽	Anhui	\N	\N	One of the four sacred Buddhist mountains in China, the home of Kṣitigarbha; FGS translation standard: Mount Jiuhua (BL 'Jiuhuashan'; Faxiang; FGDB '九華山')	7000639
-7000640	嘉兴藏	嘉興藏	jiāxīng zàng	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (Hsing Yun and Miao Guang trans. 2016, p. 372)	7000640
+7000640	达摩悉铁帝国	達摩悉鐵帝國	dámóxītiědìguó	Dharmasthiti	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	A historic country in the Western Regions visited by Xuan Zang on his return to China, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions” (T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7000640
 7000641	多闻部	多聞部	duōwénbù	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bahuśrutīya, Pali: bahussutaka or bahulika, Japanese: Tamonbu; one of the 小乘二十部 twenty (or eighteen) schools of mainstream Indian Buddhism (BL 'Bahuśrutīya', p. 90; DDB '多聞部'; FGDB '多聞部'; SH '多聞部', p. 99)	7000641
 7000642	得多闻部	得多聞部	deduōwénbù	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 多聞部 (FGDB '多聞部')	7000642
 7000643	波收娄多柯	波收婁多柯	bōshōulóuduōkē	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 多聞部 (FGDB '多聞部')	7000643
@@ -877,7 +877,7 @@
 7000877	宝志	寶誌	bǎozhì	Baozhi; Pao-chih	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Chinese monk (418–514), also known as 保誌 or 志公; mentioned in the Liang Biographies of Eminent Monks, Scroll 10 梁高僧傳卷第十 (Ding '寶誌'; FGDB '寶誌'; Wikipedia '寶誌)	7000877
 7000878	唐三藏	\N	táng sān zàng	Tang Tripitaka; Xuanzang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 玄奘 (CC-CEDICT '唐三藏')	7000878
 7000879	云居寺	雲居寺	yún jū sì	Yunju Temple	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	Located in the Beijing Fangshan District (Wikipedia '房山云居寺')	7000879
-7000880	白马寺	白馬寺	báimǎ sì	White Horse Temple	proper noun	寺院	Monastery	佛教	Buddhism	洛阳	Luoyang	\N	\N	A historic temple in Luoyang (Ding '白馬寺'; FGDB '白馬寺'; SH '白馬寺')	7000880
+7000880	白马寺	白馬寺	báimǎ sì	White Horse Temple	proper noun	寺院	Monastery	佛教	Buddhism	洛阳	Luoyang	\N	\N	A historic temple in Luoyang, possibly the first Buddhist temple in China, built in the Later Han in 68 CE with the patronage of 明帝 Emperor Ming (Ding '白馬寺'; FGDB '白馬寺'; SH '白馬寺', p. 198; Wikipedia '白马寺')	7000880
 7000881	大法王寺	\N	dà fǎ wáng sì	Da Fa Wang Temple	proper noun	寺院	Monastery	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '法王寺')	7000881
 7000882	那烂陀	那爛陀	nàlàntuó	Nālandā Temple	proper noun	寺院	Monastery	佛教	Buddhism	印度	India	\N	\N	See 那爛陀寺 (FGDB '那爛陀寺')	7000882
 7000883	大昭寺	\N	dàzhāo sì	Jokhang Temple; Jokhang Monastery	proper noun	寺院	Monastery	佛教	Buddhism	西藏	Tibet	\N	\N	Tibetan pinyin: Qokang; Wylie: Jo-khang; Tibetan: ཇོ་ཁང།; temple in Lhasa (Wikipedia '大昭寺')	7000883
@@ -1397,7 +1397,7 @@
 7001397	竺道生	\N	zhú dàoshēng	Zhu Daosheng; Daosheng	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	355-434, Japanese: Dōshō; Eastern Jin monk mentioned in the Liang Biographies of Eminent Monks, Scroll 7 梁高僧傳卷第七; known for his study of the Nirvana Sutra (BL 'Daosheng', p. 214; FGDB '竺道生'; KDC 895; T 1421)	7001397
 7001398	慧叡	\N	huì Ruì	Hui Rui	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	355-439; Liu Song dynasty monk from Hebei mentioned in the Liang Biographies of Eminent Monks, Scroll 7 梁高僧傳卷第七 (FGDB '慧叡')	7001398
 7001399	慧严	慧嚴	huì yán	Hui Yan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	363 - 443 Liu Song dynasty monk from Anhui mentioned in the Liang Biographies of Eminent Monks, Scroll 7 梁高僧傳卷第七 (FGDB '慧嚴')	7001399
-7001400	日称	日稱	Rì chēng	Ri Cheng	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Indian monastic who travelled to China in the Northern Song, translated Pitāputrasamāgama; Fu Zi He Ji Jing 《父子合集經》 (FGDB '日稱'; T 320; KDC 1496)	7001400
+7001400	日称	日稱	rì chēng	Ri Cheng	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Indian monastic who travelled to China in the Northern Song, translated Pitāputrasamāgama; Fu Zi He Ji Jing 《父子合集經》 (FGDB '日稱'; T 320; KDC 1496)	7001400
 7001401	求那毘地	\N	Qiúnàpídì	Guṇavṛddhi; Gunavrddhi	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	? - 502, Monk from India who travelled to China, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三 (FGDB '求那毘地')	7001401
 7001402	释慧皎	釋慧皎	shì huìjiǎo	Hui Jiao	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 慧皎 (FGDB '慧皎')	7001402
 7001403	慧皎	\N	huìjiǎo	Hui Jiao	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	497-554; Liang Monk from Shangyu (in present-day Zhejiang) who compiled the Biographies of Eminent Monks 高僧傳 (FGDB '慧皎')	7001403
@@ -1925,7 +1925,7 @@
 7001925	地藏菩萨仪轨	地藏菩薩儀軌	dìzàng púsà yí guǐ	Ksitigarbha Bodhisattva Liturgy; Dizang Pusa Yi Gui	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 1158)	7001925
 7001926	佛说地藏菩萨陀罗尼经	佛說地藏菩薩陀羅尼經	fó shuō dìzàng púsà tuóluóní jīng	Fo Shuo Dizang Pusa Tuoluoni Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 地藏菩薩陀羅尼經 (T 1159B)	7001926
 7001927	地藏菩萨陀罗尼经	地藏菩薩陀羅尼經	dìzàng púsà tuóluóní jīng	Ksitigarbha Bodhisattva Dharani Sutra; Dizang Pusa Tuoluoni Jing	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 1159B)	7001927
-7001928	日光菩萨月光菩萨陀罗尼	日光菩薩月光菩薩陀羅尼	Rìguāng púsà yuèguāng púsà tuóluóní	Suryaprabha Bodhisattva and Candraprabha Bodhisattva Dharanis; Riguang Pusa Yueguang Pusa Tuoluoni	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 1160)	7001928
+7001928	日光菩萨月光菩萨陀罗尼	日光菩薩月光菩薩陀羅尼	rìguāng púsà yuèguāng púsà tuóluóní	Suryaprabha Bodhisattva and Candraprabha Bodhisattva Dharanis; Riguang Pusa Yueguang Pusa Tuoluoni	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 1160)	7001928
 7001929	佛说观药王药上二菩萨经	佛說觀藥王藥上二菩薩經	fó shuō guān yào wáng yào shàng èr púsà jīng	Sutra on the Contemplation of the Two Bodhisattvas Medicine King and Superior Medicine; Bhaiṣajyarājabhaiṣajyasamudagatabodhisattvasūtra	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 觀藥王藥上二菩薩經 (T 1161)	7001929
 7001930	观药王药上二菩萨经	觀藥王藥上二菩薩經	guān yào wáng yào shàng èr púsà jīng	Sutra on the Contemplation of the Two Bodhisattvas Medicine King and Superior Medicine	proper noun	经	Sutra	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: bhaiṣajyarājabhaiṣajyasamudagatabodhisattvasūtra; the title of a text in the Chinese Buddhist canon (FGDB '觀藥王藥上二菩薩經'; Sharf 2005, p. 337; KDC 379; T 1161)	7001930
 7001931	畺良耶舍	\N	jiāng liáng yéshè	Kālayaśas	proper noun	法师	Monastic	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	383-442, Buddhist monastic who translated texts in the Liu Song included in the Chinese Buddhist canon (FGDB '畺良耶舍'; KDC 379; T 1161)	7001931
@@ -2910,7 +2910,7 @@
 7002910	大乘密严经	大乘密嚴經	dàshèng mì yán jīng	Ghanavyūhasūtra; Dasheng Mi Yan Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Ghanavyūhasūtra; the title of a text in the Chinese Buddhist canon (KDC 417; T 681)	7002910
 7002911	大乘密严经	大乘密嚴經	dàshèng mì yán jīng	Ghanavyūhasūtra; Dasheng Mi Yan Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: Ghanavyūhasūtra; the title of a text in the Chinese Buddhist canon (KDC 1344; T 682)	7002911
 7002912	佛说诸德福田经	佛說諸德福田經	fó shuō zhū dé fútián jīng	Fo Shuo Zhu De Futian Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 諸德福田經 (T 683)	7002912
-7002913	诸德福田经	諸德福田經	zhū dé fútián jīng	Zhu De Futian Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 366; T 683)	7002913
+7002913	诸德福田经	諸德福田經	zhū dé fútián jīng	Field of Merit Sutra; Zhu De Futian Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '諸德福田經'; Nanjio 1883, p. 95; KDC 366; T 683)	7002913
 7002914	佛说父母恩难报经	佛說父母恩難報經	fó shuō fùmǔ ēn nán bào jīng	Fo Shuo Fumu En Nan Bao Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 父母恩難報經 (T 684)	7002914
 7002915	父母恩难报经	父母恩難報經	fùmǔ ēn nán bào jīng	Fumu En Nan Bao Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 883; T 684)	7002915
 7002916	佛说盂兰盆经	佛說盂蘭盆經	fó shuō yú lán pén jīng	Yulan Bowl sūtra	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 盂蘭盆經 (T 685)	7002916
@@ -3297,9 +3297,9 @@
 7003297	屈浪拏	\N	qūlàngná	Kurāṇa	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 屈浪拏國 (FGDB '屈浪拏國')	7003297
 7003298	屈浪那国	屈浪那國	qūlàngnàguó	Kurāṇa	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 屈浪拏國 (FGDB '屈浪拏國')	7003298
 7003299	俱兰国	俱蘭國	jūlánguó	Kurāṇa	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Same as 屈浪拏國 (FGDB '屈浪拏國')	7003299
-7003300	方册藏	方冊藏	fāng cè zàng	Lengyan Temple Canon; Jiaxing Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 楞嚴寺版 (FGDB '中華大藏經')	7003300
-7003301	永乐北藏	永樂北藏	yǒng Lè běi zàng	Yong Le Northern Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	Completed in 1440, a version of the Chinese Buddhist Canon (FGDB '永樂萬曆藏'; Long 2020, p. 135; Wikipedia '永樂北藏')	7003301
-7003302	北藏	\N	běi zàng	Yong Le Northern Tripitaka	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	Completed in 1440, a version of the Chinese Buddhist Canon (FGDB '中文大藏經')	7003302
+7003300	尸弃尼国	尸棄尼國	shīqìníguó	Śikni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	A historic country in the Western Regions visited by Xuan Zang on his return to China, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions” (SH '尸棄尼'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7003300
+7003301	尸弃尼	尸棄尼	shīqìníguó	Śikni	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 尸棄尼國 (SH '尸棄尼')	7003301
+7003302	商弥国	商彌國	shāngmíguó	Shangmi	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	A historic country in the Western Regions visited by Xuan Zang on his return to China, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions” (FGDB '商彌國'; T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7003302
 7003303	金藏	\N	jīn zàng	Jin Canon; Zhao Cheng Jin Canon	proper noun	大藏经	Tripitaka	佛教	Buddhism	中国	China	\N	\N	Completed in 1173, a version of the Chinese Buddhist canon (FGDB '中文大藏經')	7003303
 7003304	赵城金藏	趙城金藏	zhào chéng jīn zàng	Zhaocheng Canon; Jin Canon; Zhaocheng Jin Zang	proper noun	大藏经	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	Completed in 1173, a version of the Chinese Buddhist Canon (FGDB '趙城金藏')	7003304
 7003305	高丽藏	高麗藏	gāolì zàng	Korean Canon; Tripitaka Koreana	proper noun	大藏经	Tripitaka	佛教	Buddhism	\N	\N	\N	\N	See 高麗大藏經 (Wikipedia '高丽大藏经')	7003305
@@ -4384,7 +4384,7 @@
 7004384	一切施品	\N	yīqiè shī pǐn	Vessantara Jātaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 須大拏經 (FGDB '須大拏太子')	7004384
 7004385	撰集三藏及杂藏传	撰集三藏及雜藏傳	zhuànjí sān zàng jí zá zàng chuán	Zhuanji San Zang Ji Za Zang Chuan	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (KDC 1022; T 2026)	7004385
 7004386	迦叶结经	迦葉結經	jiāyè jié jīng	Kāśyapa’s Collection; Jiaye Jie Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text translated by An Shigao included in the Chinese Buddhist canon (Nanjio 1883, p. 304; KDC 1027; T 2027)	7004386
-7004387	迦丁比丘说当来变经	迦丁比丘說當來變經	jiā Dīng bǐqiū shuō Dāng Lái biàn jīng	Jia Ding Biqiu Shuo Dang Lai Bian Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (KDC 1034; T 2028)	7004387
+7004387	迦丁比丘说当来变经	迦丁比丘說當來變經	jiā dīng bǐqiū shuō Dāng Lái biàn jīng	Jia Ding Biqiu Shuo Dang Lai Bian Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	The title of a text included in the Chinese Buddhist canon (KDC 1034; T 2028)	7004387
 7004388	金色王经	金色王經	jīnsè wáng jīng	Jinse Wang Jing; Kanakavarṇapūrvayoga	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kanakavarṇapūrvayoga. A text in the Chinese Buddhist Canon (T 162; KDC 'K 370')	7004388
 7004389	妙色王因缘经	妙色王因緣經	miào sè wáng yīnyuán jīng	Miao Se Wang Yinyuan Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Jātaka section of the Chinese Buddhist Canon (T 163; KDC 'K 496')	7004389
 7004390	师子素驮娑王斷肉经	師子素馱娑王斷肉經	shīzi sù Duò Suō wáng duàn Ròu jīng	Shizi Su Duo Wang Duan Rou Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A text in the Chinese Buddhist Canon (T 164; KDC 'K 488')	7004390
@@ -5348,7 +5348,7 @@
 7005348	大方广佛华严经中卷卷大意略叙	大方廣佛華嚴經中卷卷大意略敘	dàfang guǎng fó huáyán jīng zhōng Juǎn Juǎn dàyì lüè xù	Dafang Guang Fo Huayan Jing Zhong Juan Juan Dayi Lue Xu	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a summary on the the Avataṃsaka sūtra (T 1740)	7005348
 7005349	略释新华严经修行次第决疑论	略釋新華嚴經修行次第決疑論	lüè shì xīn huáyán jīng xiūxíng Cìdì jué yí lùn	Lue Shi Xin Huayan Jing Xiuxing Cidi Jue Yi Lun	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a summary on the the Avataṃsaka sūtra (T 1741)	7005349
 7005350	大方广佛华严经愿行观门骨目	大方廣佛華嚴經願行觀門骨目	dàfang guǎng fó huáyán jīng yuàn xíng guān mén gǔ mù	Dafang Guang Fo Huayan Jing Yuan Xing Guan Men Gu Mu	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a summary on the the Avataṃsaka sūtra (T 1742)	7005350
-7005351	皇帝降诞日于麟德殿讲大方广佛华严经玄义一部	皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部	huángdì jiàng dàn Rì yú lín dé diàn Jiǎng dàfang guǎng fó huáyán jīng xuán yì yī bù	Huangdi Jiang Dan Ri Yu Lin De Dian Jiang Dafang Guang Fo Huayan Jing Xuan Yi Yi Bu	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a summary on the the Avataṃsaka sūtra (T 1743)	7005351
+7005351	皇帝降诞日于麟德殿讲大方广佛华严经玄义一部	皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部	huángdì jiàng dàn rì yú lín dé diàn Jiǎng dàfang guǎng fó huáyán jīng xuán yì yī bù	Huangdi Jiang Dan Ri Yu Lin De Dian Jiang Dafang Guang Fo Huayan Jing Xuan Yi Yi Bu	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a summary on the the Avataṃsaka sūtra (T 1743)	7005351
 7005352	静居	靜居	jìn jū	Jing Ju	proper noun	作者	Writer	佛教	Buddhism	中国	China	\N	\N	Chinesse Buddhist writer, credited with composing the 皇帝降誕日於麟德殿講大方廣佛華嚴經玄義一部 Huangdi Jiang Dan Ri Yu Lin De Dian Jiang Dafang Guang Fo Huayan Jing Xuan Yi Yi Bu, included in the Chinese Buddhist canon (T 1743)	7005352
 7005353	胜鬘宝窟	勝鬘寶窟	shèngmán bǎo Kū	Shengman Bao Ku	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a commentary on the Śrīmālā sūtra (T 1744)	7005353
 7005354	无量寿经义疏	無量壽經義疏	wú liàng shòu jīng yì shū	Wu Liang Shou Jing Yi Shu	proper noun	经疏	sūtra Commentary	佛教	Buddhism	中国	China	\N	\N	The title of a text in the Chinese Buddhist canon, a commentary on the Infinite Life sūtra (T 1745)	7005354
@@ -5492,7 +5492,7 @@
 7005492	文才	\N	wén cái	Wen Cai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	1241-1302, Chinese Buddhist monastic (T 1860)	7005492
 7005493	大乘法苑义林章	大乘法苑義林章	dàshèng fǎ yuàn yì lín zhāng	Dasheng Fa Yuan Yi Lin Zhang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	The title of a text by 窺基 Kui Ji included in the Chinese Buddhist canon (T 1861)	7005493
 7005494	劝发菩提心集	勸發菩提心集	Quàn fā pú tí xīn jí	Collection of Advise to Initiate the Bodhi Mind	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	The title of a text by 慧沼 Hui Zhao included in the Chinese Buddhist canon (T 1862)	7005494
-7005495	能显中边慧日论	能顯中邊慧日論	néng xiǎn zhōng biān huì Rì lùn	Neng Xian Zhong Bian Hui Ri Lun	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	The title of a text by 慧沼 Hui Zhao included in the Chinese Buddhist canon (T 1863)	7005495
+7005495	能显中边慧日论	能顯中邊慧日論	néng xiǎn zhōng biān huì rì lùn	Neng Xian Zhong Bian Hui Ri Lun	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	The title of a text by 慧沼 Hui Zhao included in the Chinese Buddhist canon (T 1863)	7005495
 7005496	人海灯	人海燈	rénhǎidēng	Lamp in the Ocean of People Monthly	proper noun	佛教期刊	Buddhist Periodical	佛教	Buddhism	中国	China	\N	\N	(Hsing Yun and Miao Guang trans. 2016, p. 372)	7005496
 7005497	大乘入道次第	\N	dàshèng rù dào Cìdì	Dasheng Ru Dao Cidi	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	The title of a text by 智周 Zhi Zhou included in the Chinese Buddhist canon (T 1864)	7005497
 7005498	八识规矩补注	八識規矩補註	bā shí guīju bǔ zhù	Ba Shi Guiju Bu Zhu	proper noun	论	Treatise	佛教	Buddhism	中国	China	\N	\N	The title of a text by 普泰 Pu Tai included in the Chinese Buddhist canon (T 1865)	7005498
@@ -5982,7 +5982,7 @@
 7005982	赵朴老	趙樸老	zhào pǔlǎo	Zhao Pulao; Zhao Puchu	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 趙樸初 (FGDB '趙樸初')	7005982
 7005983	嘉真觉禅师证道歌	嘉真覺禪師證道歌	jiāzhēn jué chánshī zhèng dào gē	Yongjia's Song for the Path to Enlightenment	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 永嘉證道歌 (FGDB '永嘉證道歌')	7005983
 7005984	一行佛学辞典	一行佛學辭典	yìxíng fóxué cídiǎn	Yixing Buddhist Dictionary	proper noun	词典	Dictionary	佛教	Buddhism	中国	China	\N	\N	(viewed 15 March 2017, http://buddhaspace.org/dict/index.php)	7005984
-7005985	丁福保佛学大辞典	丁福保佛學大辭典	Dīng fúbǎo fóxué dà cídiǎn	Foxue Da Cidian; Ding Fubao Buddhist Dictionary	proper noun	词典	Dictionary	佛教	Buddhism	中国	China	\N	\N	See 佛學大辭典 (FGDB '丁福保')	7005985
+7005985	丁福保佛学大辞典	丁福保佛學大辭典	dīng fúbǎo fóxué dà cídiǎn	Foxue Da Cidian; Ding Fubao Buddhist Dictionary	proper noun	词典	Dictionary	佛教	Buddhism	中国	China	\N	\N	See 佛學大辭典 (FGDB '丁福保')	7005985
 7005986	婆沙	\N	póshā	Abhidharmamahāvibhāṣaśāstra; Apidamo Dapiposha Lun; Vibhāṣā	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	See 阿毘達磨大毘婆沙論 (FGDB '大毘婆沙論')	7005986
 7005987	十地论	十地論	shí dì lùn	Daśabhūmikasūtraśāstra; Shi Di Jinglun	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 十地經論	7005987
 7005988	庄严论	莊嚴論	zhuāngyán lùn	Mahāyānasūtralāṃkāraśāstra; The Adornment of Mahāyāna sūtras	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 大乘莊嚴經論 (T 1604)	7005988
