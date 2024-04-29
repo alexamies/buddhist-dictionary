@@ -2532,7 +2532,7 @@
 8002532	阏说他	閼說他	èshuōtā	asvattha; bodhi tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aśvattha; see 阿說他樹 (FGDB '阿說他樹')	8002532
 8002533	吉祥树	吉祥樹	jíxiángshù	asvattha; bodhi tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿說他樹 (FGDB '阿說他樹')	8002533
 8002534	无罪树	無罪樹	wúzuì shù	asvattha; bodhi tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿說他樹 (FGDB '阿說他樹')	8002534
-8002535	生	\N	shēng	birth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	sheng1.mp3	Sanskrit equivalent: jāti, Pali: jāti, Japanese: shō, Tibetan: skye ba (BCSD '生', p. 832; BL 'jāti', p. 382; FGDB '生'; Mahāvyutpatti 'jātiḥ'; MW 'jāti'; SH '生', p. 195)	8002535
+8002535	生	\N	shēng	birth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāti, Pali: jāti, Japanese: shō, Tibetan: skye ba (BCSD '生', p. 832; BL 'jāti', p. 382; FGDB '生'; Mahāvyutpatti 'jātiḥ'; MW 'jāti'; SH '生', p. 195)	8002535
 8002536	老死	\N	lǎo sǐ	old age and death; jaramarana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jarāmaraṇa, Pali: jarāmaraṇa, Japanese: rōshi, Tibetan: rga shi; the last of the 十二因緣 twelve links of dependent origination (BL 'jarāmaraṇa', p. 381; FGDB '老死'; SH '老死', p. 218; Tzu Chuang 2012, p. 64)	8002536
 8002537	妙乐世界	妙樂世界	miào lè shìjiè	Abhirati; the Eastern Buddhafield	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhirati; see 阿維羅提世界 (FGDB '阿維羅提世界')	8002537
 8002538	老死支	\N	lǎo sǐ zhī	the link of old age and death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 老死 (FGDB '老死')	8002538
@@ -14714,7 +14714,7 @@
 8014714	士夫	\N	shìfú	man; puruṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puruṣa, Tibetan: skyes bu (Mahāvyutpatti 'puruṣaḥ'; SH '士夫', p. 82)	8014714
 8014715	踰缮那	踰繕那	yúshànnà	yojana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 由旬 (FGDB '由旬')	8014715
 8014716	辉	輝	huī	shining; dyotin	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dyotin, Japanese: ki, or: kun (BCSD '輝', p. 1135; MW 'dyotin'; Unihan '輝')	8014716
-8014717	种种	種種	zhǒng zhǒng	various forms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīpsā, or: nānavidha, Tibetan: zlos pa (Dhammajoti 2013, p. 228; Mahāvyutpatti 'vīpsā'; MW 'vīpsā')	8014717
+8014717	种种	種種	zhǒng zhǒng	various forms; manifold	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīpsā, or: nānavidha, Tibetan: zlos pa (Dhammajoti 2013, p. 228; Mahāvyutpatti 'vīpsā'; MW 'vīpsā')	8014717
 8014718	右遶	\N	yòu rào	moving to the right	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pradakṣiṇa (Dhammajoti 2013, p. 228)	8014718
 8014719	辋	輞	wǎng	exterior rim of wheel; nemi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nemi, Japanese: bou, or: mou (BCSD '輞', p. 1135; MW 'nemi'; Unihan '輞')	8014719
 8014720	随信心	隨信心	suí xìnxīn	pursuing through faith	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śradhānusārī, Tibetan: dad pas rjes su 'brang ba (Dhammajoti 2013, p. 228; Wikipedia '隨信心')	8014720
@@ -15384,3 +15384,12 @@
 8015384	非真实	非真實	fēi zhēnshí	untrue; vitatha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitatha (MW 'vitatha'; Shan and Lian 2013, p. 173)	8015384
 8015385	阙	闕	què	deficient; vikala	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikala, Japanese: kai (BCSD '闕', p. 1201; MW 'vikala'; SH '闕', p. 470; Unihan '闕')	8015385
 8015386	非身	\N	fēishēn	no-body; akāya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akāya (Shan and Lian 2013, p. 177)	8006898
+8015387	生	\N	shēng	arise; produce; utpad	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: utpad, or: utpanna (BCSD '生', p. 832; MW 'utpad'; SH '生', p. 195)	8002535
+8015388	闚	\N	kuī	peek	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ki (BCSD '闚', p. 1201; Unihan '闚')	8015388
+8015389	大孔雀王	\N	dàkǒngquèwáng	peacock; mayūra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mayūra (MW 'mayūra'; SH '大孔雀王', p. 87)	8015389
+8015390	无补特伽罗	無補特伽羅	wúbǔtéjiāluó	without a person; niṣpudgala	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: niṣpudgala (Shan and Lian 2013, p. 181)	8015390
+8015391	关	關	guān	close; pidhāna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pidhāna, Japanese: ki (BCSD '關', p. 1201; MW 'pidhāna'; Unihan '關')	8015391
+8015392	非流转	非流轉	fēiliúzhuǎn	non-streams	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhārā (Shan and Lian 2013, p. 194)	8015392
+8015393	此等	\N	cǐ děng	they; eṣā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eṣā (Shan and Lian 2013, p. 194)	8015393
+8015394	闢	\N	pì	settle	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vi, Japanese: heki, or: byaku; used in transliteration (BCSD '闢', p. 1201; SH '闢', p. 485; Unihan '闢')	8015394
+8015395	非成就	\N	fēichéngjiù	non-accomplishment; apariniṣpatti	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apariniṣpatti (Shan and Lian 2013, p. 201)	8015395
