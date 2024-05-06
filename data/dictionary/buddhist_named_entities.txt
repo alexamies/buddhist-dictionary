@@ -827,7 +827,7 @@
 7000827	康僧铠	康僧鎧	kāng sēng Kǎi	Saṅghavarman; Sajghavarman; Saņghavarman	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	An Indian monk from the Kushan kingdom who travelled to China and lived at the White Horse Temple in Luoyang.  He translated the Infinite Life Sutra c. 252 CE. (FGDB '康僧鎧')	7000827
 7000828	摄摩腾	攝摩騰	shèmóténg	Kasyapamatanga	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	One of the first Indian monks to travell to China, sometime in the Eastern Han (Wikipedia '迦叶摩腾')	7000828
 7000829	支楼迦谶	支樓迦讖	zhīlóujiāchèn	Lokaksema	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras (Wikipedia '支娄迦谶')	7000829
-7000830	维祇难	維祇難	wéizhǐnán	Vighna	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that travelled to China circa 224, translated the Dharmapada 《法句經》to Chinese (FGDB '維祇難'; KDC 'K 1021'; T 210)	7000830
+7000830	维祇难	維祇難	wéi qínán	Wei Qinian	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that travelled to China circa 224, translated the Dharmapada 《法句經》to Chinese (FGDB '維祇難'; Nattier 2008, p. 113; KDC 'K 1021'; T 210)	7000830
 7000831	帛远	帛遠	bó yuǎn	Bo Yuan	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that stayed in China during the Wei and Jin dynasties (BSAD '帛遠', ID A000305; FGDB '帛遠'; Wikipedia '帛遠')	7000831
 7000832	帛尸梨密	\N	bóshīlímì	 Śrīmitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 帛尸棃密多羅 (FGDB '帛尸棃密多羅')	7000832
 7000833	帛尸梨密多罗	帛尸棃密多羅	bóshīlímìduōluó	 Śrīmitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Buddhist monastic who translated texts in the Tang included in the Chinese Buddhist canon (FGDB '帛尸棃密多羅'; Sharf 2005, p. 272； KDC 174; T 1331)	7000833
@@ -7638,3 +7638,6 @@
 7007638	分那婆陀那国	分那婆陀那國	fēnnàpótuónàguó	Puṇḍravardhana	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Same as 奔那伐彈那國 (FGDB '奔那伐彈那國')	7007638
 7007639	奔陀林国	奔陀林國	bēntuólínguó	Puṇḍravardhana	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Same as 奔那伐彈那國 (FGDB '奔那伐彈那國')	7007639
 7007640	迦摩缕波国	迦摩縷波國	jiāmólǚbōguó	Kāmarūpa	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	A historic country visited by Xuan Zang, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions”, located in India (Ding '迦摩縷波'; FGDB '迦摩縷波國'; SH '迦摩縷波'; T 2087, Scroll 10; Xuanzang and Rongxi Li trans. 1996, p. 259)	7007640
+7007641	迦摩缕波	迦摩縷波	jiāmólǚbō	Kāmarūpa	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Same as 迦摩縷波國 (FGDB '迦摩縷波國')	7007641
+7007642	迦摩波国	迦摩波國	jiāmóbōguó	Kāmarūpa	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Same as 迦摩縷波國 (FGDB '迦摩縷波國')	7007642
+7007643	三摩呾吒国	三摩呾吒國	sānmódázhàguó	Samataṭa	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	A historic country visited by Xuan Zang, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions”, located in India (Ding '三摩呾吒'; FGDB '戒賢'; T 2087, Scroll 10; Xuanzang and Rongxi Li trans. 1996, p. 259)	7007643
