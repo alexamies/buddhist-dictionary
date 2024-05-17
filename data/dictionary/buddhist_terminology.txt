@@ -9344,7 +9344,7 @@
 8009344	一异	一異	yī yì	one and many	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一異'; FGDB '一異'; SH '一異', p. 7)	8009344
 8009345	结戒	結戒	jié jiè	bound by precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '結戒'; FGDB '結戒'; SH '結戒', p. 386)	8009345
 8009346	据	據	jù	regarding; adhikṛtya	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhikṛtya, Japanese: kyo, or: ko, or: keki (BCSD '據', p. 564; MW 'adhikṛtya'; SH '據', p. 447; Unihan '據')	8009346
-8009347	离	離	lí	transcendence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viyoga, Japanese: ri, Tibetan: bral ba (FGDB '離微'; Mahāvyutpatti 'viyogaḥ'; MW 'viyoga'; SH '離', p. 475; Sharf 2005, p. 3)	8009347
+8009347	离	離	lí	transcendence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: viyoga, Japanese: ri, Tibetan: bral ba (BCSD '離', p. 1231; FGDB '離微'; Mahāvyutpatti 'viyogaḥ'; MW 'viyoga'; SH '離', p. 475; Sharf 2005, p. 3)	8009347
 8009348	微	\N	wēi	subtlety	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '離微'; SH '離', p. 399; Sharf 2005, p. 3)	8008507
 8009349	挤	擠	jǐ	to squeeze; to push; to press	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pīḍayati, Japanese: osu (BCSD '擠', p. 565; Mahāvyutpatti 'pīḍayati'; Unihan '擠')	8009349
 8009350	离微	離微	lí wēi	transcendence and subtlety	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A dichotomy from the 寶藏論 Treasure Store Treatise (Ding '離微'; FGDB '離微'; SH '離微', p. 475; Sharf 2005, p. 3; T 1857)	8009350
@@ -15543,3 +15543,13 @@
 8015543	圆伏	圓伏	yuán fú	complete acceptance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A Tiantai school teaching (FGDB '圓伏')	8015543
 8015544	虽	雖	suī	although; api	conjunction	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: api, Japanese: sui (BCSD '雖', p. 1229; MW 'api'; Unihan '雖')	8015544
 8015545	纯圆独妙	純圓獨妙	chúnyuándúmiào	the pure, perfect, unique, and profound [Lotus Sutra]	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A Tiantai school reference to the teachings of the Lotus Sutra (FGDB '純圓獨妙')	8015545
+8015546	圆接通	圓接通	yuán jiē tōng	complete interdependence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 接入圓 (FGDB '接入圓')	8015546
+8015547	雏	雛	chú	fledgling; pota	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pota, Japanese: sū (BCSD '雛', p. 1229; MW 'pota'; MW 'api'; SH '雛', p. 470; Unihan '雛')	8015547
+8015548	圆入通	圓入通	yuán rù tōng	complete interdependence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 接入圓 (FGDB '接入圓')	8015548
+8015549	尔前	爾前	ěr qián	before this	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A Tiantai school reference to teachings before the Lotus Sutra (SH '爾前', p. 425)	8015549
+8015550	杂	雜	zá	mixed; saṃkara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃkara, Japanese: zatsu, or: zou (BCSD '雜', pp. 1229-1230; Mahāvyutpatti 'saṃkāryam'; MW 'saṃkara'; SH '雜', p. 470; Unihan '雜')	8015550
+8015551	威势圆德	威勢圓德	wēishì yuándé	virtue of spiritual power	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '威勢圓德')	8015551
+8015552	醍鞞沙	\N	tíbǐngshā	dveṣa; hatred	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dveṣa; see 瞋 (FGDB '瞋')	8015552
+8015553	雨	\N	yǔ	rain; varṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varṣa, Japanese: u (BCSD '雨', p. 1240; MW 'varṣa'; SH '雨', p. 294; Unihan '雨')	8015553
+8015554	扶律谈常	扶律談常	fú lǜ tán cháng	promotes rules of discipline and discusses the eternal	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A term contained in 天台四教儀 “A Guide to the Tiantai Fourfold Teachings,” by 諦觀 Chegwan in the Tang (FGDB '扶律談常'; Ichishima and Chappell 2013, p. 171; T 1931)	8015554
+8015555	七种圆满	七種圓滿	qī zhǒng yuán mǎn	seven types of perfection	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七種圓滿')	8015555
