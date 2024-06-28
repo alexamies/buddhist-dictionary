@@ -4098,7 +4098,7 @@
 8004098	事密理密	\N	shì mì lǐ mì	esoteric practice and doctrine	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二密 (FGDB '事密理密')	8004098
 8004099	事理俱密	\N	shì lǐ jū mì	esoteric practice and doctrine	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二密 (FGDB '事密理密')	8004099
 8004100	少光天	\N	shǎo guāng tiān	Parittabha Heaven; The Heaven of Limited Radiance	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	From the Sanskrit word parītta, meaning limited (少).  One of the heavens of the second dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004100
-8004101	无量光天	無量光天	wúliàng guāng tiān	Apramanabha Heaven; The Heaven of Infinite Radiance	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	One of the heavens of the second dhyana of the Eighteen Heavens of the Form Realm (Tzu Chuang 2012, pp. 112-116)	8004101
+8004101	无量光天	無量光天	wúliàng guāng tiān	Apramanabha Heaven; The Heaven of Infinite Radiance	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apramāṇābha, Pali: appamāṇābha, Tibetan: tshad med 'od; one of the heavens of the second dhyana of the Eighteen Heavens of the Form Realm (FGDB '無量光天'; Mahāvyutpatti 'apramāṇābhāḥ'; Tzu Chuang 2012, pp. 112-116)	8004101
 8004102	国分寺	國分寺	guófēnsì	kokubunniji	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Provincial temples established in Japan under Emperor Shōmu, r. 724-749 (Beghi 2011, p. 663; FGDB '國分寺')	8004102
 8004103	阿支罗迦叶	阿支羅迦葉	azhīluó jiāyè	Acela Kasyapa	proper noun	人	Person	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Jain ascetic mentioned in 佛為阿支羅迦葉自化作苦經 ”Acela Sutra: Naked Kasyapa”  (Ding '阿支羅迦葉'; SN 12.17; T 499)	8004103
 8004104	光音天	\N	wúliàng guāng tiān	Abhasvara Heaven; The Heaven of Radiant Sound	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	From the Sanskrit names ābhā 'radiance' and svara 'sound.'' One of the heavens of the second dhyana of the Eighteen Heavens of the Form Realm (FGDB '光音天'; SH '阿波會', p. 289; Tzu Chuang 2012, pp. 112-116)	8004104
@@ -15683,4 +15683,6 @@
 8015683	领	領	lǐng	chief; kakuda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kakuda, Japanese: ryou, or: rei (BCSD '領', p. 1265; MW 'kakuda'; SH '領', p. 429; Unihan '領')	8015683
 8015684	碎身舍利	\N	suìshēn shělì	partial-body relics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: saishinshari; remains of a holy person after cremation (BL 'suishen sheli'; Ding '碎身舍利'; FGDB '碎身舍利')	8015684
 8015685	栴檀树耳	栴檀樹耳	zhāntánshùěr	sūkaramārdava	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūkaramaddava, Japanese: sendanjuni; literally, 'soft pig', refers to the meal of the Buddha related to his passing (BL 'sūkaramaddava')	8015685
-8015686	颉	頡	xié	to contest	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '頡')	8015686
+8015686	颉	頡	xié	to contest	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kitsu, or: katsu, or: ketsu (BCSD '頡', p. 1265; Unihan '頡')	8015686
+8015687	阿波摩那阿婆	\N	ābōmónàāpó	Apramāṇābha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apramāṇābha; see 無量光天 (FGDB '無量光天')	8015687
+8015688	𤸱波摩那	\N	èbōmónà	Apramāṇābha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apramāṇābha; see 無量光天 (FGDB '無量光天')	8015688
