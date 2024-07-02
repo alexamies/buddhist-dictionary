@@ -1437,7 +1437,7 @@
 8001437	婆罗欱末拏	婆羅欱末拏	póluóhēmòná	Brahmin	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 婆羅門 (FGDB '婆羅門')	8001437
 8001438	没啰憾摩	沒啰憾摩	méiluōhànmó	Brahmin	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 婆羅門 (FGDB '婆羅門')	8001438
 8001439	没罗憾摩	沒囉憾摩	méiluōhànmó	Brahmin	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 婆羅門 (FGDB '婆羅門')	8001439
-8001440	摩揭陀国	摩揭陀國	mójiētuó guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: magadha, Pāli: magadha, Japanese: Makatsuda, Tibetan: Yul ma ga dha; a kingdom in ancient India where Buddhism originated, ruled by 頻婆娑羅 Bimbisāra and later by his son 阿闍世王 Ajātaśatru at the time of the Buddha; capital 王舍城 Rājagṛha (BL 'Magadha', p. 491; FGDB '摩揭陀國'; SH '摩竭陀', p. 436)	8001440
+8001440	摩揭陀国	摩揭陀國	mójiētuó guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: magadha, Pāli: magadha, Japanese: Makatsuda, Tibetan: Yul ma ga dha; a kingdom in ancient India where Buddhism originated, ruled by 頻婆娑羅 Bimbisāra and later by his son 阿闍世王 Ajātaśatru at the time of the Buddha; capital 王舍城 Rājagṛha (BL 'Magadha', p. 491; FGDB '摩揭陀國'; Lamotte 1988, pp. 85-100; SH '摩竭陀', p. 436)	8001440
 8001441	摩伽陀国	摩伽陀國	mójiātuó guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001441
 8001442	摩竭陀国	摩竭陀國	mójiétuó guó	Magadha	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (FGDB '摩揭陀國')	8001442
 8001443	用	\N	yòng	yong; function; application	noun	\N	\N	佛教	Buddhism	\N	\N	\N	yong4.mp3	Sanskrit equivalent: prayojana, Japanese: jū; in the sense of 作用, 功用, or 目的 (BL 'Yong'; FGDB '用'; Mahāvyutpatti 'prayojanam'; MW 'prayojana'; SH '用', p. 197)	8001443
@@ -15717,3 +15717,10 @@
 8015717	法紧那罗王	法緊那羅王	fǎ jǐnnàluó wáng	Dharma kiṃnara king	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus sūtra” (Kumārajīva, Kubo, and Yuyama 2007, p. 4; T 262, Scroll 1)	8015717
 8015718	沤钵罗龙王	漚鉢羅龍王	ōubōluó lóngwáng	Utpalaka	proper noun	龙王	Dragon King	佛教	Buddhism	\N	\N	\N	\N	Same as 優鉢羅龍王(FGDB '優鉢羅龍王')	8015718
 8015719	优波陀龙王	優波陀龍王	yōubōtuó lóngwáng	Utpalaka	proper noun	龙王	Dragon King	佛教	Buddhism	\N	\N	\N	\N	Same as 優鉢羅龍王(FGDB '優鉢羅龍王')	8015719
+8015720	颡	顙	sǎng	forehead; lalāṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lalāṭa, Japanese: sou (BCSD '顙', p. 1269; Unihan '顙')	8015720
+8015721	优婆罗龙王	優婆羅龍王	yōupóluó lóngwáng	Utpalaka	proper noun	龙王	Dragon King	佛教	Buddhism	\N	\N	\N	\N	See 優鉢羅龍王 (FGDB '八大龍王')	8015721
+8015722	佛足石	\N	fó zú shí	Buddha footprint	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhapada (Ding '佛足石'; FDGB '佛足石'; Wikipedia '佛足石')	8015722
+8015723	顚	\N	diān	top; apex	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ten (BCSD '顚', p. 1269; SH '顚', p. 475; Unihan '顚')	8015723
+8015724	佛足迹	佛足跡	fózújī	Buddha footprint	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛足石 (FDGB '佛足石')	8015724
+8015725	佛脚石	佛腳石	fójiǎoshí	Buddha footprint	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛足石 (FDGB '佛足石')	8015725
+8015726	类	類	lèi	species; jāti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāti, Japanese: rui, or: rai (BCSD '顚', p. 1269; SH '顚', p. 475; Unihan '類')	8015726
