@@ -3309,7 +3309,7 @@
 8003309	娑	\N	suō	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa, Siddham: 𑖭; third of the three sibilants in the Sanskrit alphabet; a special character in esoteric chanting described in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (BCSD '娑', p. 362; FGDB '娑'; MW 'sa'; SH '娑', p. 323; Wikipedia '悉曇文字'; Giebel 2005, p. 43; T 848, Scroll 2, 18.0010a10)	8003309
 8003310	萨	薩	sà	sa; sat	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa; used for transliteration, see 娑 (BCSD '薩', p. 1026; FGDB '娑'; Guoyu '薩' 2; SH '薩', p. 467)	8000065
 8003311	縒	\N	cī	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa, Japanese: sa, or: shi; see also 娑 (BCSD '縒', p. 938; FGDB '娑')	8003311
-8003312	飒	颯	sà	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa; see 娑 (FGDB '娑')	8003312
+8003312	飒	颯	sà	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa, Japanese: satsu, or: sou; see also 娑 (BCSD '颯', p. 1273; FGDB '娑'; SH '颯', p. 430; Unihan '颯')	8003312
 8003313	拶	\N	zǎn	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa, or: ca; see 娑 (BCSD '拶', p. 544; FGDB '娑')	8003313
 8003314	三	\N	sān	sa	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sa; see 娑 (FGDB '娑')	8002568
 8003315	散	\N	sàn	scatter; vikiraṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vikiraṇa, Japanese: san, Tibetan: 'thor (BCSD '散', p. 574; Mahāvyutpatti 'vikiraṇam'; MW 'vikiraṇa'; SH '散', p. 373; Unihan '散')	8003315
@@ -15724,3 +15724,19 @@
 8015724	佛足迹	佛足跡	fózújī	Buddha footprint	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛足石 (FDGB '佛足石')	8015724
 8015725	佛脚石	佛腳石	fójiǎoshí	Buddha footprint	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛足石 (FDGB '佛足石')	8015725
 8015726	类	類	lèi	species; jāti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jāti, Japanese: rui, or: rai (BCSD '顚', p. 1269; SH '顚', p. 475; Unihan '類')	8015726
+8015727	大涅盘	大涅槃	dà nièpán	Great Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大寂定 (FGDB '大涅槃')	8015727
+8015728	大寂定	\N	dà jìdìng	Great Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The samādhi into which the Buddha enters (Ding '大寂定'; FGDB '大寂定'; SH '大寂定', p. 87)	8015728
+8015729	顾	顧	gù	look after	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: ko (BCSD '顧', p. 1270; Unihan '顧')	8015729
+8015730	大灭度	大滅度	dà mièdù	Great Extinguishing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大寂定 (FGDB '大寂定')	8015730
+8015731	优钵罗龙王	優鉢羅龍王	yōubōluó lóngwáng	Utpalaka	proper noun	龙王	Dragon King	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the ”Lotus sūtra”; one of the 八大龍王 eight great nāga kings (Kumārajīva, Kubo, and Yuyama 2007, p. 4; T 262, Scroll 1; FGDB '優鉢羅龍王'; SH '優鉢羅', p. 456)	8015731
+8015732	颤	顫	zhàn	tremble	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sen (BCSD '顫', p. 1270; Unihan '顫')	8015732
+8015733	都牟卢天	都牟盧天	dōumóulú tiān	Tumburu	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tumburu, Pali: timbaru; name of a deity (FGDB '都牟盧天')	8015733
+8015734	兜牟卢天	兜牟盧天	dōumóulú tiān	Tumburu	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tumburu; see 都牟盧天 (FGDB '都牟盧天')	8015734
+8015735	显	顯	xiǎn	manifest; darśayati	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: darśayati, Japanese: ken, or: gen (BCSD '顯', p. 1270; SH '顯', p. 488; Unihan '顯')	8015735
+8015736	显	顯	xiǎn	miracle	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kroll 2015 '顯' 3, pp. 495-496)	8015735
+8015737	冻母啰天	凍母囉天	dòngmǔluó tiān	Tumburu	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tumburu; see 都牟盧天 (FGDB '都牟盧天')	8015737
+8015738	耽浮楼天	耽浮樓天	dānfúlóu tiān	Tumburu	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tumburu; see 都牟盧天 (FGDB '都牟盧天')	8015738
+8015739	颦	顰	pín	frown	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: krūra, Japanese: hin, or: bin (BCSD '顰', p. 1272; Unihan '顰')	8015739
+8015740	珍浮楼天	珍浮樓天	zhēnfúlóu tiān	Tumburu	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tumburu; see 都牟盧天 (FGDB '都牟盧天')	8015740
+8015741	那乞叉多罗	那乞叉多羅	nàqǐchāduōluó	lunar mansion; nakṣatra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nakṣatra; in traditional Indian astronomy (FGDB '間錯天'; Wikipedia '二十七宿')	8015741
+8015742	颰	\N	bá	gale	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bha, Japanese: hatsu, or hochi (BCSD '颰', p. 1273; SH '颰', p. 446; Unihan '颰')	8015742
