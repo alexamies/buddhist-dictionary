@@ -8521,7 +8521,7 @@
 8008521	因抵	\N	yīndǐ	Indra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; see 因陀羅 (FGDB '因陀羅')	8008521
 8008522	必	\N	bì	certainly; avaśyam	adverb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaśyam, Japanese: hitsu (BCSD '必', p. 466; MW 'avaśyam'; SH '必', p. 188; Unihan '必')	8008522
 8008523	心法	\N	xīn fǎ	mental objects	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: citta-dharma, Pali: citta-dhamma (Ding '心法'; FGDB '心法'; SH '心法', p. 151)	8008523
-8008524	苏摩	蘇摩	sūmó	soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; an Indian ritual drink mentioned in Buddhist texts (FGDB '蘇摩'; MW 'soma'; SH '蘇摩', p. 479)	8008524
+8008524	苏摩	蘇摩	sūmó	soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; an Indian ritual drink mentioned in Buddhist texts (BCSD '蘇摩', p. 1031; FGDB '蘇摩'; MW 'soma'; SH '蘇摩', p. 479)	8008524
 8008525	苏摩	蘇摩	sūmó	Soma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A traditional Indian deity (FGDB '蘇摩')	8008524
 8008526	素摩	\N	sùmó	soma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: soma; see 蘇摩 (FGDB '素摩')	8008526
 8008527	忉	\N	dāo	grieved	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tou (BCSD '忉', p. 467; SH '忉', p. 188; Unihan '忉')	8008527
@@ -15970,3 +15970,10 @@
 8015970	鲜	鮮	xiān	fresh; caukṣa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caukṣa, Japanese: sen (BCSD '鮮', p. 1292; MW 'caukṣa'; Unihan '鮮')	8015970
 8015971	圣僧堂	聖僧堂	shèngsēng táng	monastic hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 僧堂 (FGDB '僧堂')	8015971
 8015972	坐堂	\N	zuòtáng	monastic hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 僧堂 (FGDB '僧堂')	8015972\
+8015973	鲸	鯨	jīng	whale	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: gei (BCSD '鯨', p. 1292; SH '鯨', p. 476; Unihan '鯨')	8015973
+8015974	宝吉祥天	寶吉祥天	bǎojí xiáng tiān	Candradeva; Candra	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	(Ding '寶吉祥天'; FGDB '寶吉祥天'; SH '寶吉祥天', p. 476)	8015974
+8015975	势志菩萨	勢志菩薩	shìzhì púsà	Mahāsthāmaprāpta Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大勢至菩薩 (FGDB '大勢至菩薩')	8015975
+8015976	鳀	鯷	tí	anchovy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: tei, or: dai (BCSD '鯷', p. 1292; Unihan '鯷')	8015976
+8015977	势至菩萨	勢至菩薩	shìzhì púsà	Mahāsthāmaprāpta Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大勢至菩薩 (FGDB '大勢至菩薩')	8015977
+8015978	云堂	雲堂	yúntáng	assembly hall of a monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Same as 僧堂 (FGDB '雲堂')	8015978
+8015979	鳄	鱷	è	crocodile; nakra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nakra, Japanese: gaku, Tibetan: chu srin na kra (BCSD '鱷', p. 1292 ; Mahāvyutpatti 'nakraḥ'; MW 'nakra'; Unihan '鱷')	8015979
