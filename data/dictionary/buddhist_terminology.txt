@@ -2041,7 +2041,7 @@
 8002041	大众部	大眾部	dàzhòng bù	Mahasamghika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsāṃghika, or: mahāsaṅghika, Japanese: Daishubu, Tibetan: dge 'dun phal chen pa'i sde; an early Buddhist school, important for the early development of Mahayana (BL 'Mahāsāṃghika', p. 507; Ding '大眾部'; Dutt 1970, p. 126; FGDB '大眾部'; Mahāvyutpatti 'mahāsāṃghikāḥ'; Powers 2007, p. 102; SH '大衆部', p. 95)	8002041
 8002042	东山部	東山部	dōngshānbù	Purvasaila	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Pūrvaśailā; one of the divisions of the 大眾部 Mahasamghika (SH '東山部', p. 263)	8002042
 8002043	大衆部	\N	dàzhòngbù	Mahāsāṅghika	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: mahāsāṅghika; Japanese variant writing, see 大眾部 (DDB '大衆部', p. 507; SH '大衆部', p. 95)	8002043
-8002044	第二次结集	第二次結集	dì Èr Cì Jiéjí	Second Buddhist Council	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大乘結集'; FGDB '結集史'; SH '結集', p. 386; Wikipedia '第二次结集')	8002044
+8002044	第二次结集	第二次結集	dì Èr Cì Jiéjí	Second Buddhist Council	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大乘結集'; FGDB '結集'; Lamotte 1988, p. 124-125; SH '結集', p. 386; Wikipedia '第二次结集')	8002044
 8002045	分别说部	分別說部	fēnbié shuō bù	Vibhajyavada	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 說假部 (FGDB '說假部')	8002045
 8002046	闇夜天	\N	ànyètiān	Kālarātri	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kālarātri; see 黑夜神 (SH '黑夜神', p. 395)	8002046
 8002047	苾刍	苾蒭	bìchú	a monk; a bhikkhu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhikṣu, Pali: bhikkhu; see 比丘 (FGDB '比丘')	8002047
@@ -12898,8 +12898,8 @@
 8012898	妙焰海天王	\N	miào yàn hǎi tiān wáng	King Ocean of Subtle Flames	proper noun	人物	Character	佛教	Buddhism	\N	\N	\N	\N	Character mention in the 華嚴經 ”Avataṃsaka Sūtra” (Cleary 1993, p. 65; T 279, Scroll 2)	8012898
 8012899	三藐三佛陀	\N	sānmiǎo sānfótuó	samyaksaṃbuddha; a perfectly enlightened one	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samyaksaṃbuddha (Ding '三藐三佛陀'; FGDB '三藐三佛陀'; Karashima 2001 '三藐三佛陀'; ; SH '三藐三佛陀', p. 75)	8012899
 8012900	纤	纖	xiān	minute; kṛśa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṛśa, Japanese: sen (BCSD '纖', p. 943; MW 'kṛśa'; Unihan '纖')	8012900
-8012901	尼柯耶	\N	níkēyé	Nikāya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nikāya, Pali: nikāya (FGDB '尼柯耶')	8012901
-8012902	尼迦耶	\N	níjiāyé	Nikāya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼柯耶 (FGDB '尼柯耶')	8012902
+8012901	尼柯耶	\N	níkēyé	Nikaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nikāya, Pali: nikāya (FGDB '尼柯耶'; Lamotte 1988, p. 143)	8012901
+8012902	尼迦耶	\N	níjiāyé	Nikaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼柯耶 (FGDB '尼柯耶')	8012902
 8012903	缸	\N	gāng	a caldron; kaṭāhaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṭāhaka, Japanese: kou, Tibetan: zangs sam rdza bo (BCSD '缸', p. 943; Mahāvyutpatti 'kaṭāhakam'; MW 'kaṭāhaka'; Unihan '缸')	8012903
 8012904	南传	南傳	nán chuán	Theravāda Buddhism; South Asian Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南傳佛教 (FGDB '南傳佛教')	8012904
 8012905	南方佛教	\N	nánfāng fójiāo	Theravāda Buddhism; South Asian Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南傳佛教 (FGDB '南傳佛教')	8012905
@@ -16116,3 +16116,15 @@
 8016116	阿迦贰吒	阿迦貳吒	ājiāèrzhà	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (SH '阿迦尼吒', p. 292)	8016116
 8016117	丽	麗	lì	beautiful	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: rei, or: ri (BCSD '麗', p. 1296; Unihan '麗')	8016117
 8016118	阿迦尼	\N	ājiāní	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (SH '阿迦尼吒', p. 292)	8016118
+8016119	七百结集	七百結集	qī bǎi jié jí	recital by seven hundred	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第二次結集 Second Buddhist Council (FGDB '結集')	8016119
+8016120	麝	\N	shè	musk deer; kastūrikā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kastūrikā, Japanese: sha, or: ja, or: seki, Tibetan: gla rtsi (BCSD '麝', p. 1296, Mahāvyutpatti 'kastūrikāṇḍam'; MW 'kastūrikā'; Unihan '麝')	8016120
+8016121	七百集法	\N	qī bǎi jí fǎ	recital of the Dharma by seven hundred	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第二次結集 Second Buddhist Council (FGDB '結集')	8016121
+8016122	第二集法藏	\N	dì èr jí fǎ zàng	second recital of the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第二次結集 Second Buddhist Council (FGDB '結集')	8016122
+8016123	麞	\N	zhāng	water deer; hariṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hariṇa, Japanese: shou (BCSD '麞', p. 1297, MW 'hariṇa'; Unihan '麞')	8016123
+8016124	第二集	\N	dì èr jí	second recital	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 第二次結集 Second Buddhist Council (FGDB '結集')	8016124
+8016125	阿迦瑟	\N	ājiāsè	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (SH '阿迦尼吒', p. 292)	8016125
+8016126	麟	\N	lín	female unicorn	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: rin (BCSD '麟', p. 1297, Unihan '麟')	8016126
+8016127	长尼柯耶	長尼柯耶	cháng níkēyé	Dīgha-nikāya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '尼柯耶')	8016127
+8016128	中尼柯耶	\N	zhōng níkēyé	Majjhima-nikāya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '尼柯耶')	8016128
+8016129	麤	\N	cū	coarse; sthūla	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sthūla, Japanese: so, or: zo (BCSD '麤', p. 1297; MW 'sthūla'; SH '麤', p. 491; Unihan '麤')	8016129
+8016130	阿迦尼师讬	阿迦尼師託	ājiāníshītuō	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (SH '阿迦尼吒', p. 292)	8016130
