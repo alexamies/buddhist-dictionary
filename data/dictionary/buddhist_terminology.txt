@@ -7453,7 +7453,7 @@
 8007453	四种中道	四種中道	sì zhǒng zhōng dào	four kinds of middle way	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Mentioned in the 三論玄義 Profound Meaning of the Three Treatises (FGDB '四種中道')	8007453
 8007454	垢	\N	gòu	filth; mala	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mala, Japanese: kou, or: ku, or: kiku, Tibetan: dri ma (BCSD '垢', p. 294; Mahāvyutpatti 'malam'; MW 'mala'; Unihan '垢')	8007454
 8007455	尽偏中	盡偏中	jìn piān zhōng	to treat the absolute as the middle way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 三論玄義 Profound Meaning of the Three Treatises, Scroll 1:  盡偏中。絕待中。成假中也。 'Jin pian zhong: to treat the absolute as the middle [way], thus creating a false [understanding] of the middle [way]'. (FGDB '盡偏中'; T 1852)	8007455
-8007456	一丈六像	\N	yī zhàng liù xiàng	sixteen zhang form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The height of the Buddha's transformation body (SH '一丈六像', p. 1)	8007456
+8007456	一丈六像	\N	yī zhàng liù xiàng	sixteen zhang form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The height of the Buddha's transformation body (FGDB '丈六像'; SH '一丈六像', p. 1)	8007456
 8007457	埋	\N	mái	bury; nikhan	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nikhan, Japanese: mai, or: bai (BCSD '埋', p. 294; MW 'nikhan'; Unihan '埋')	8007457
 8007458	一三昧	\N	yīsānmèi	single-minded samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一三昧', p. 1)	8007458
 8007459	一佛乘	\N	yī fó shèng	one Buddha-vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一乘 (FGDB '一佛乘'; SH '一佛乘', p. 1)	8007459
@@ -16221,5 +16221,8 @@
 8016221	奇特法	\N	qíté fǎ	special dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 未曾有 (FGDB '未曾有')	8016221
 8016222	腭	齶	è	palate; tālu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tālu, Japanese: gaku (BCSD '齶', p. 1305; MW 'tālu'; Unihan '齶')	8016222
 8016223	大天五事	\N	dàtiān wǔ shì	five theses of Mahādeva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavastu, or: pañcavastūni ; enumerating five faults of Arhats (BL 'Mahādeva'; FGDB '大天五事'; Lamotte 1988, pp. 274-275)	8016223
-8016224	五事非法	\N	wǔshìfēifǎ	the crime of the five theses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大天五事 (FGDB '大天五事')	8016224
-8016225	五事妄语	五事妄語	wǔshìwàngyǔ	the slander of the five theses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大天五事 (FGDB '大天五事')	8016225
+8016224	五事非法	\N	wǔ shì fēi fǎ	the crime of the five theses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大天五事 (FGDB '大天五事')	8016224
+8016225	五事妄语	五事妄語	wǔ shì wàngyǔ	the slander of the five theses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大天五事 (FGDB '大天五事')	8016225
+8016226	丈六像	\N	zhàng liù xiàng	sixteen zhang form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一丈六像 (FGDB '丈六像')	8016225
+8016227	丈六佛	\N	zhàng liù fó	sixteen zhang Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一丈六像 (FGDB '丈六像')	8016227
+8016228	等身像	\N	děng shēn xiàng	life-size image	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一丈六像 (FGDB '丈六像')	8016228
