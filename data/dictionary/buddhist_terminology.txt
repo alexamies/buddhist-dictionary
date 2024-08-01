@@ -2038,7 +2038,7 @@
 8002038	萨婆帝婆	薩婆帝婆	sàpódìpó	Sarvāstivāda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 說一切有部 (FGDB '說一切有部')	8002038
 8002039	萨卫	薩衛	sàwèi	Sarvāstivāda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 說一切有部 (FGDB '說一切有部')	8002039
 8002040	根本说一切有部	根本說一切有部	gēnběn shuō yīqiè yǒu bù	Mūlasarvāstivāda	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mūlasarvāstivāda, Japanese: Konpon Setsuissaiubu; a subset of the Sarvāstivāda school in Indian Buddhism (BL 'Mūlasarvāstivāda', pp. 554-555; FGS '根本說一切有部')	8002040
-8002041	大众部	大眾部	dàzhòng bù	Mahasamghika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsāṃghika, or: mahāsaṅghika, Japanese: Daishubu, Tibetan: dge 'dun phal chen pa'i sde; an early Buddhist school, important for the early development of Mahayana (BL 'Mahāsāṃghika', p. 507; Ding '大眾部'; Dutt 1970, p. 126; FGDB '大眾部'; Mahāvyutpatti 'mahāsāṃghikāḥ'; Powers 2007, p. 102; SH '大衆部', p. 95)	8002041
+8002041	大众部	大眾部	dàzhòng bù	Mahasamghika	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsāṃghika, or: mahāsaṅghika, Japanese: Daishubu, Tibetan: dge 'dun phal chen pa'i sde; an early Indian Buddhist school that came into existence around the time of the Second Council (BL 'Mahāsāṃghika', p. 507; Ding '大眾部'; Dutt 1970, p. 126; FGDB '大眾部'; Mahāvyutpatti 'mahāsāṃghikāḥ'; Powers 2007, p. 102; SH '大衆部', p. 95)	8002041
 8002042	东山部	東山部	dōngshānbù	Purvasaila	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Pūrvaśailā; one of the divisions of the 大眾部 Mahasamghika (SH '東山部', p. 263)	8002042
 8002043	大衆部	\N	dàzhòngbù	Mahāsāṅghika	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: mahāsāṅghika; Japanese variant writing, see 大眾部 (DDB '大衆部', p. 507; SH '大衆部', p. 95)	8002043
 8002044	第二次结集	第二次結集	dì Èr Cì Jiéjí	Second Buddhist Council	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大乘結集'; FGDB '結集'; Lamotte 1988, p. 124-125; SH '結集', p. 386; Wikipedia '第二次结集')	8002044
@@ -7455,7 +7455,7 @@
 8007455	尽偏中	盡偏中	jìn piān zhōng	to treat the absolute as the middle way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the 三論玄義 Profound Meaning of the Three Treatises, Scroll 1:  盡偏中。絕待中。成假中也。 'Jin pian zhong: to treat the absolute as the middle [way], thus creating a false [understanding] of the middle [way]'. (FGDB '盡偏中'; T 1852)	8007455
 8007456	一丈六像	\N	yī zhàng liù xiàng	sixteen zhang form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The height of the Buddha's transformation body (FGDB '丈六像'; SH '一丈六像', p. 1)	8007456
 8007457	埋	\N	mái	bury; nikhan	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nikhan, Japanese: mai, or: bai (BCSD '埋', p. 294; MW 'nikhan'; Unihan '埋')	8007457
-8007458	一三昧	\N	yīsānmèi	single-minded samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一三昧', p. 1)	8007458
+8007458	一三昧	\N	yī sānmèi	single-minded samādhi	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一行三昧'; SH '一三昧', p. 1)	8007458
 8007459	一佛乘	\N	yī fó shèng	one Buddha-vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一乘 (FGDB '一佛乘'; SH '一佛乘', p. 1)	8007459
 8007460	一佛之珠	\N	yī fó zhī zhū	the pearl of the one Buddha-vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the The Lotus Sutra (SH '一佛之珠', p. 1)	8007460
 8007461	一子地	\N	yī zǐ dì	the bhumi of an only son	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An abbreviation for 極愛一子地 (FGDB '一子地'; Yamamoto 1974, p. 217; T 374 Scroll 16)	8007461
@@ -16226,3 +16226,16 @@
 8016226	丈六像	\N	zhàng liù xiàng	sixteen zhang form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一丈六像 (FGDB '丈六像')	8016225
 8016227	丈六佛	\N	zhàng liù fó	sixteen zhang Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一丈六像 (FGDB '丈六像')	8016227
 8016228	等身像	\N	děng shēn xiàng	life-size image	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一丈六像 (FGDB '丈六像')	8016228
+8016229	说出世部	說出世部	shuō chū shì bù	Lokottaravāda	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit equivalent: lokottaravāda, or: lokottaravādin, Pali: lokuttaravāda, Japanese: Setsushussebu, Tibetan: 'Jig rten 'das par smra ba; an early Indian Buddhist school (BL 'Lokottaravāda', pp. 481-482; FGDB '說出世部'; SH '說出世部', p. 429)	8016229
+8016230	卢俱多罗婆拖	盧俱多羅婆拖	lújūduōluópótuō	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016230
+8016231	真如三昧	\N	zhēnrúsānmèi	True Samadi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一三昧 (FGDB '一行三昧')	8016231
+8016232	卢迦尉多罗	盧迦尉多羅	lújiāwèiduōluó	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016232
+8016233	卢俱多罗婆地	盧俱多羅婆地	lújūduōluópódì	Lokottara-vādin	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravādin; see 說出世部 (FGDB '說出世部')	8016233
+8016234	一中一切中	\N	yī zhōng yīqiè zhōng	one being recognized as middle then all is of the middle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the Tiantai teaching of the three aspects of reality (FGDB '一中一切中'; SH '一中一切中', p. 1)	8016234
+8016235	出世说部	出世說部	chū shì shuō bù	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016235
+8016236	出世间语言部	出世間語言部	chūshìjiānyǔyánbù	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016236
+8016237	一乘教	\N	yī shèng jiāo	the teaching of the one vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一佛乘 (FGDB '一佛乘')	8016237
+8016238	出世间说部	出世間說部	chū shìjiān shuō bù	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016238
+8016239	超出世间家	超出世間家	chāo chū shìjiān jiā	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016239
+8016240	一乘之珠	\N	yī shèng zhī zhū	the pearl of the one vehicle	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the Lotus Sutra (SH '一乘之珠', p. 1)	8016240
+8016241	出世部	\N	chūshìbù	Lokottara-vāda	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokottaravāda; see 說出世部 (FGDB '說出世部')	8016241
