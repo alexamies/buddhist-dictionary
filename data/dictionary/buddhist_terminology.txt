@@ -5167,7 +5167,7 @@
 8005167	本部印	\N	běn bù yìn	mudra of one's own group; kulamudra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kula-mudra (BCSD '本部印', p. 644)	8005167
 8005168	显明	顯明	xiǎnmíng	pure; without defilements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '顯明')	8005168
 8005169	觉	覺	jué	enlightenment; awakening; bodhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	jue2.mp3	Sanskrit equivalent: bodhi, or: bodha, Pali: bodhi, Japanese: kaku, or: kou; literally meaning 'awakened', similar in meaning to 覺. Bodhi is the all-knowledge of a Buddha 佛, pratyekabuddha 獨覺, or śrāvaka 聲聞. In Theravāda Buddhism bodhi refers to perfect insight into the Four Noble Truths 四聖諦 (BCSD '覺', p. 1062; BL 'bodhi'; Dhammajoti 2013, p. 37; FGDB '菩提'; Shambhala 'bodhi'; SH '覺', p. 480)	8005169
-8005170	一切智	\N	yīqiè zhì	sarvajñatā; all-knowledge; omniscience	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñatā, Pali: sabbaññu, Japanese: issai-chi, Tibetan: kun shes, or: thams cad mkhy en pa; referring to the knowledge of a Buddha (BL 'sarvajñatā', p. 779; Conze, 1973, p. 303; Ding '萨婆若'; FGDB '一切智'; JEBD 'issai-chi'; SH '薩婆若').	8005170
+8005170	一切智	\N	yīqiè zhì	sarvajñatā; all-knowledge; omniscience	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñatā, Pali: sabbaññu, Japanese: issai-chi, Tibetan: kun shes, or: thams cad mkhy en pa; referring to the knowledge of a Buddha (BL 'sarvajñatā', p. 779; Conze, 1973, p. 303; Ding '萨婆若'; FGDB '一切智'; JEBD 'issai-chi'; SH '一切智', p. 2)	8005170
 8005171	觉真	覺真	juézhēn	prabuddha-tattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabuddha-tattva (BCSD '覺眞', p. 1063)	8005171
 8005172	觉眞	覺眞	juézhēn	prabuddha-tattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabuddha-tattva; variant of 覺真 (BCSD '覺眞', p. 1063)	8005172
 8005173	觉悟	覺悟	juéwù	to awaken to the truth of reality; to become enlightened	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhi, or: saṃprajñā (BCSD '覺悟', p. 1063; Edgerton 1953 'saṃprajñā', p. 577; FGDB '覺悟'; SH '覺悟', p. 480)	8005173
@@ -16329,3 +16329,14 @@
 8016329	带数释	帶數釋	dàishǔshì	dvigu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvigu; a Sanskrit compound where the first member is a numeral, for example 五蘊 pañcaskandha (FGDB '六合釋'; MW 'dvigu'; SH '六離合釋', p. 139)	8016329
 8016330	一切如来必定印	一切如來必定印	yīqiè rúlái bìdìng yìn	the sign of the certainty of attaining Buddhahood	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切如來必定印', p. 2)	8016330
 8016331	青颈观音	青頸觀音	qīng jǐng guānyīn	Nīlakaṇṭha Avalokiteśvara	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	An 化身 emanation body of Avalokitesvara Bodhisattva (Ding '青頸觀音'; FGDB '青頸觀音')	8016331
+8016332	抳罗健詑	抳羅健詑	nǐluójiàntuó	Nīlakaṇṭha	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 青頸觀音 (FGDB '青頸觀音')	8016332
+8016333	一切如来眼色如明照三摩地	一切如來眼色如明照三摩地	yīqiè rúlái yǎn sè rú míng zhào sānmódì	Tathāgata-Eye Streams Radiance Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一切如來眼色如明照三摩地'; SH '一切如來眼色如明照三摩地', p. 2)	8016333
+8016334	儞攞建制	\N	nǐluójiànzhì	Nīlakaṇṭha	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 青頸觀音 (FGDB '青頸觀音')	8016334
+8016335	青颈观自在菩萨	青頸觀自在菩薩	qīngjǐng guānzìzài púsà	Nīlakaṇṭha Avalokiteśvara Bodhisattva	proper noun	神	Deity	佛教	Buddhism	\N	\N	\N	\N	Same as 青頸觀音 (FGDB '青頸觀音')	8016335
+8016336	一切如来诸法本性淸净莲华三昧	一切如來諸法本性淸淨蓮華三昧	yīqiè rúlái zhū fǎ běnxìng qīng jìng liánhuá sānmèi	Tathāgata Fundamental Nature of all Existence is Pure like the Lotus Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切如來諸法本性淸淨蓮華三昧', p. 2)	8016336
+8016337	灭罪	滅罪	mièzuì	erase karma from sins	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanksrit equivalent: aghahantā, Tibetan: sdig 'joms (Mahāvyutpatti 'aghahantā'; FGDB '滅罪')	8016337
+8016338	延命	\N	yánmìng	to prolong life	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 延人之命 (Ding '延命')	8016338
+8016339	一切如来金刚誓诫	一切如來金剛誓誡	yīqièrúláijīngāngshìjiè	Vajra Vow of all Tathagatas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一切如來金剛誓誡'; SH '一切如來金剛誓誡', p. 2)	8016339
+8016340	空性无境心	空性無境心	kōng xìng wú jìng xīn	empty nature is not the limit of the mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A saying by 空海 Kūkai; same as 一道無為心 (FGDB '空性無境心')	8016340
+8016341	一道无为心	一道無為心	yīdào wúwèi xīn	the one path of the unconditioned mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一道無為心'; FGDB '一道無為心'; SH '一道無為心')	8016341
+8016342	一切智地	\N	yīqiè zhì dì	the state of all knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvajñabhūmi (FGDB '一切智地'; SH '一切智地', p. 2)	8016342
