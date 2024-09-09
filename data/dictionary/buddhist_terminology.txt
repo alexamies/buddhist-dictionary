@@ -29,7 +29,7 @@
 8000029	大医王佛	大醫王佛	dàyī wáng fó	Great Healing King Buddha [Medicine Buddha]	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 藥師佛 (FGDB '藥師佛')	8000029
 8000030	医王善逝	醫王善逝	yīwáng shàn shì	Great Healing King	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 藥師佛 (FGDB '藥師佛')	8000030
 8000031	佛经	佛經	fójīng	sutra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūtra, Pali: sutta, Japanese: kyō, Tibetan: mdo; a prose narrative that records the teachings of the Buddha; one of the twelve divisions of the sutras 十二部经 (BL 'sūtra', p. 875; FGDB '佛经'; SH '佛經', p. 229)	8000031
-8000032	佛光山	\N	fó Guāng shān	Fo Guang Shan	proper noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	Chan Buddhisht School based in Taiwan, literally, the Buddha's Light Mountain (Wikipedia '佛光山')	8000032
+8000032	佛光山	\N	fó guāng shān	Fo Guang Shan	proper noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	Chan Buddhisht School based in Taiwan, literally, the Buddha's Light Mountain (Wikipedia '佛光山')	8000032
 8000033	无我	無我	wúwǒ	non-self; anātman; anattā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anātman, or: niratma, or: niratmaka, Pali: anattā, Japanese: muga; Tibetan: bdag med; anātman is the concept that there is no independent and enduring self, in contrast to 我 ātman 'self' that there is a controller of the mind and body that passes between lifetimes. It is the third of the 三法印 trilakṣaṇa 'three marks of existence' (BL 'anātman', p. 42-43; Dhammajoti 2013, p. 87; Eitel, p. 12; FGDB '無我'; Powers 2007, p. 71; Tzu Chuang 2012, p. 218).	8000033
 8000034	佛法	\N	fófǎ	Dharma; Buddha-Dhárma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhadharma, Pali: buddhadhamma, Japanese: buppō, Tibetan: sangs rgyas pa'i chos; the teachings of the Buddha (BL 'buddhadharma', p. 151; Ding '佛法'; FGDB '佛法'; SH '佛法', p. 228)	8000034
 8000035	菩萨	菩薩	púsà	bodhisattva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	pu2sa4.mp3	Sanskrit equivalent: bodhisattva, Pali: bodhisatta, Japanese: bosatsu; Tibetan: byang chub sems dpa'; literally meaning 'enlightenment being' in Sanskrit and understood to mean a being who has determined to achieve enlightenment. The Chinese term 菩薩 is an abbreviation of 菩提薩埵, which transliterates the Sanskrit term. In Theravāda Buddhism the term bodhisattva is used exclusively to refer to Śākyamuni  buddha in his past lifetimes. In Mahāyāna Buddhism the term is used much more widely (BL 'bodhisattva', p. 134; Drewes 2010b, pp. 66-74; FGDB '菩薩'; Powers 2007, p.521; SH '菩薩', p. 389; Tzu Chuang 2012, p. 31).	8000035
@@ -94,7 +94,7 @@
 8000094	慈悲	\N	cíbēi	compassion; loving-kindness; mettā; metta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maitrī, Pali: mettā, Japanese: ji, or: jihi, Tibetan: byams pa (BL 'maitrī', p. 518; Ding '慈悲'; FGDB '慈悲'; SH '慈悲', p. 399)	8000094
 8000095	涅	\N	niè	black mud	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: netsu, or: detsu (BCSD '涅', p. 725; SH '涅', p. 327; Unihan '涅')	8000095
 8000096	涅盘	涅盤	nièpán	Nirvāṇa; Nibbāna; Nirvana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 涅槃 (FGDB '涅槃')	8000096
-8000097	三藏	\N	sān Zàng	Tripitaka; Tripiṭaka; Tipitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tripiṭaka, Pali: tipitaka, Japanese: sanzō, Tibetan: sde snod gsum. In this sense 三藏 is synomymous with 經藏, the collection of three baskets: 1. Collection of Discourses; sūtra 经藏, 2. Collection of Monastic Rules; vinaya 律藏, and 3. Collection of Treatises; Abhidharma 论藏; FGS translation standard: Tripitaka (BL 'Tripiṭaka', p. 924; FGDB '三藏'; Hirakawa 6 '三藏' p. 28; Powers 2007, p. 57; Tzu Chuang 2012, pp. 353-356).	8000097
+8000097	三藏	\N	sān zàng	Tripitaka; Tripiṭaka; Tipitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tripiṭaka, Pali: tipitaka, Japanese: sanzō, Tibetan: sde snod gsum. In this sense 三藏 is synomymous with 經藏, the collection of three baskets: 1. Collection of Discourses; sūtra 经藏, 2. Collection of Monastic Rules; vinaya 律藏, and 3. Collection of Treatises; Abhidharma 论藏; FGS translation standard: Tripitaka (BL 'Tripiṭaka', p. 924; FGDB '三藏'; Hirakawa 6 '三藏' p. 28; Powers 2007, p. 57; Tzu Chuang 2012, pp. 353-356).	8000097
 8000098	心相应行	心相應行	xīn xiāng yīng xíng	actions corresponding with thoughts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '心相應行'; SH '心相應行', p. 151)	8000098
 8000099	达赖喇嘛	達賴喇嘛	dálài lǎma	Dalai Lama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Tibetan: dā la'i bla ma; title for incarnation in a Tibetan lineage in the 格鲁派 Geluk sect (BL 'Dali Lama', pp. 209-210; FGDB '達賴喇嘛'; Powers 2007, p. 164)	8000099
 8000100	假名	\N	jiàmíng	designation; provisional term; conventional term	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñapti, Japanese: kenyō, Tibetan: gdags pa, or: btags pa (BL 'prajñapti'; FGDB '假名')	8000100
@@ -121,7 +121,7 @@
 8000121	达摩	達摩	Dámó	Bodhidharma	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 菩提達磨 (FGDB '菩提達磨')	8000121
 8000122	声明	聲明	shēngmíng	the science of language	noun	\N	\N	佛教	Buddhism	\N	\N	\N	sheng1ming2.mp3	Sanskrit equivalent: śabdavidyā; one of the 五明 five sciences (Ding '聲明'; FGDB '聲明'; Guoyu '聲明' 1; SH '聲明', p. 461)	8000122
 8000123	五法	\N	wǔfǎ	five dharmas; five categories	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcadharma; the same as 五事 in this sense: (1) 名 name, (2) 相 appearances, (3) 分別 mental discrimination, (4) 正智 corrective wisdom and, (5) 真如 tathatā (Ding '五法'; FGDB '五法'; Red Pine 2012, loc. 5667; SH '五法', p. 121)	8000123
-8000124	观音菩萨	觀音菩薩	Guānyīn Púsà	Avalokitesvara Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara, see 觀世音菩薩 (FGDB 觀世音菩薩''; SH '千手', p. 81)	8000124
+8000124	观音菩萨	觀音菩薩	guānyīn Púsà	Avalokitesvara Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara, see 觀世音菩薩 (FGDB 觀世音菩薩''; SH '千手', p. 81)	8000124
 8000125	我从来疑着这汉	我從來疑著這漢	wǒ cónglái yí zhe zhè hàn	I was always suspicious about that fellow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Chan expression from the 臨濟錄 Record of Linji (FGDB '我從來疑著這漢')	8000125
 8000126	北洲	\N	běi zhōu	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 鬱單越 (FGDB '鬱單越')	8000126
 8000127	五蕴	五蘊	wǔ yùn	five aggregates; five skandhas; five groups of existence; five groups of clinging	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaskandha, Pali: pañcakhandhā, Japanese: goun; the five skandhas are form 色, sensation 受, perception 想, volition 行, and consciousness 识 (BL 'skandha', p. 828; DJBT 'goun'; FGDB '五蘊'; Tzu Chuang 2012, pp. 7-9; Nyanatiloka Thera 1980, 'khandha')	8000127
@@ -208,7 +208,7 @@
 8000208	药师璢璃光如来	藥師璢璃光如來	yàoshī liúlí guāng rúlái	Medicine Tathāgata of Lapis Lazuli Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant writing of 藥師琉璃光如來; see 藥師佛 (SH '藥師', p. 473)	8000208
 8000209	浮世	\N	fú shì	the world of the living; the impermanent world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '浮世'; FGDB '浮世')	8000209
 8000210	忧世	憂世	yōu shì	the world of the living; the impermanent world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 浮世 (FGDB '浮世')	8000210
-8000211	转轮圣王	轉輪聖王	Zhuànlún Shèng wáng	Chakravarti raja; an emperor in Hindu mythology	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	A wheel turning king; see 轉輪王 (Ding '轉輪王')	8000211
+8000211	转轮圣王	轉輪聖王	zhuànlún Shèng wáng	Chakravarti raja; an emperor in Hindu mythology	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	A wheel turning king; see 轉輪王 (Ding '轉輪王')	8000211
 8000212	阿僧祗	\N	āsēngzhī	asamkhyeya	number	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃkhyeya; see 阿僧祇 (FGDB '阿僧祇')	8000212
 8000213	阿僧	\N	āsēng	asamkhyeya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃkhyeya; see 阿僧祇 (FGDB '阿僧祇')	8000213
 8000214	僧衹	\N	sēngzhǐ	asamkhyeya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '僧衹'; Guoyu '僧衹'; Wikipedia '僧衹')	8000214
@@ -244,7 +244,7 @@
 8000244	结集	結集	jiéjí	Buddhist council; saṃgīti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgīti, Pali: saṅgīti, Japanese: ketsujū, Tibetan: bka’ bsdu; at Buddhist councils communal recitation of teachings was performed and agreed upon (BL 'saṃgīti', p. 753; FGDB '結集史'; SH '結集', p. 386)	8000243
 8000245	舍卫大城	舍衛大城	shèwèi dà dhéng	Sravasti; Savatthi	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śrāvastī; see 舍衛國 (FGDB '舍衛國')	8000245
 8000246	八功德水	\N	bā gōngdé shuǐ	water with eight merits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mention in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life” (retranslated from Inagaki and Stewart 1995, p. 72; T 365; FGDB '八功德水')	8000246
-8000247	经录	經錄	jīng Lù	a catalog of sūtras; jinglu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyōroku; a collection of sūtras, in particular, in the Chinese Buddhist tradition (BL 'jinglu', pp. 389-390)	8000247
+8000247	经录	經錄	jīng lù	a catalog of sūtras; jinglu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: kyōroku; a collection of sūtras, in particular, in the Chinese Buddhist tradition (BL 'jinglu', pp. 389-390)	8000247
 8000248	八支德水	\N	bā zhī dé shuǐ	water with eight kinds of merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八功德水 (FGDB '八功德水')	8000248
 8000249	宝楼观	寶樓觀	bǎo lóu guān	visualization of jewelled towers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Pureland meditation technique described in 觀無量壽佛經 “Sutra on the Visualization of Immeasurable Life,” the sixth of the 十六觀 sixteen contemplations (FGDB '寶樓觀'; Inagaki and Stewart 1995, p. 72; T 365)	8000249
 8000250	法界身	\N	fǎjièshēn	dharmakaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法身 (FGDB '法界身'; SH '法界身', p. 271)	8000250
@@ -269,7 +269,7 @@
 8000269	无住	無住	wúzhù	non-attachment; non-abiding	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apratiṣṭhita; negates the Sanskrit adjective pratiṣṭhita, meaning 'standing, stationed, placed, situated in or on.' (FGDB '無住'; MW 'apratiṣṭhita'; SH '無住', p. 377)	8000269
 8000270	五体投地	五體投地	wǔ tǐ tóu dì	to prostrate oneself on the ground	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	wu3ti3tou2di4.mp3	(FGDB '五體投地'; SH '五體', p. 129)	8000270
 8000271	正位	\N	zhèng wèi	place of awakening	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '正位'; FGDB '正位')	8000271
-8000272	大智度论	大智度論	dà Zhì Dù Lùn	Treatise on the Perfection of Great Wisdom;  Dazhidu Lun; Mahāprajñāpāramitaśastra; Māhaprajñāparamitopadeśa	proper noun	典籍	Canonical Text	佛教	Buddhism	印度	India	\N	da4zhi4du4lun4.mp3	Japanese: Daichidoron; attributed to Nāgārjuna, translated in the Later Qin by Kumārajīva (BL 'Dazhidu lun', p. 227; FGDB '大智度論'; T 1509)	8000272
+8000272	大智度论	大智度論	dà Zhì Dù lùn	Treatise on the Perfection of Great Wisdom;  Dazhidu Lun; Mahāprajñāpāramitaśastra; Māhaprajñāparamitopadeśa	proper noun	典籍	Canonical Text	佛教	Buddhism	印度	India	\N	da4zhi4du4lun4.mp3	Japanese: Daichidoron; attributed to Nāgārjuna, translated in the Later Qin by Kumārajīva (BL 'Dazhidu lun', p. 227; FGDB '大智度論'; T 1509)	8000272
 8000273	禅那	禪那	chánnà	meditation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyāna, Pali: jhāna, original form of 禅 Chan (SH '禪那', p. 461)	8000273
 8000274	空虚	空虛	kōngxū	emptiness; emptiness of inherent existence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: svabhāvaśūnya, or: śūnyatā; see 空 (FGDB '空'; Westerhoff 2009, p. 10)	8000274
 8000275	佛光	\N	fó guāng	Fo Guang	proper noun	\N	\N	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	Short for 佛光山 (Fo Guang Shan) a Buddhist temple and school based in Taiwan (<a href='https://www.fgs.org.tw/en/'>https://www.fgs.org.tw/en/</a>)	8000275
@@ -282,7 +282,7 @@
 8000282	般若	\N	bōrě	prajna; prajñā; paññā; great wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñā, Pali: paññā; Japanese: Hannya; Tibetan: shes rab. Prajñā is an understanding that transcends ordinary wisdom. Prajñā is the sixth pāramitā and includes the three kinds of prajna: 1. prajna of true reality 实相般若, 2. prajna of contemplation 观照般若, and 3. prajna of skillfull means 方便般若 (BCSD '般若', p. 1002; BL 'prajñā', pp. 655-656; FGDB '般若' 1; Powers 2007, p. 68; SEEKERS 'prajna'; Tzu Chuang 2012, pp. 250-253)	8000282
 8000283	大般若经	大般若經	dà bōrě jīng	Mahaprajnaparamita Sutra; Sutra on the Perfection of Great Wisdom	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	(Hsing Yun and Miao Guang trans. 2016, p. 374)	8000283
 8000284	小乘经	小乘經	xiǎoshèng jīng	Agamas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿含經 (SH '小乘經', p. 100)	8000284
-8000285	大乘玄论	大乘玄論	dàchéng Xuán Lùn	Treatise on the Mystery of the Mahāyāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The title of a text by 吉藏 Ji Zang included in the Chinese Buddhist canon (T 1853)	8000285
+8000285	大乘玄论	大乘玄論	dàchéng Xuán lùn	Treatise on the Mystery of the Mahāyāna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The title of a text by 吉藏 Ji Zang included in the Chinese Buddhist canon (T 1853)	8000285
 8000286	地藏	\N	dìzàng	Ksitigarbha; Kṣitigarbha	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣitigarbha, Japanese: Jizō, Tibetan: sa yi snying po; see also 地藏菩薩 (BL 'Kṣitigarbha', p. 448; Tzu Chuang 2012; p. 198)	8000286
 8000287	顶	頂	dǐng	usnisa; uṣṇīṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, or: śekhara; see 佛頂 (BCSD '頂', p. 1260; BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; Kroll 2015 '頂' 1a; MW 'śekhara')	8000287
 8000288	佛顶	佛頂	fódǐng	Buddha crown; usnisa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: uṣṇīṣa, Pali: uṇhīsa, Japanese: butchō, or: nikukei, Tibetan: gtsug tor; a protuberance of the crown of the Buddha's head; one of the 佛三十二相 'thirty-two marks of the Buddha' (BCSD '佛頂', p. 118; BL 'uṣṇīṣa', p. 945; FGDB '佛頂'; SH '佛頂', p. 230)	8000288
@@ -307,7 +307,7 @@
 8000307	念珠	唸珠	niàn zhū	prayer beads; rosary	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 數珠 (FGDB '數珠')	8000307
 8000308	圆觉经	圓覺經	Yuán Jué jīng	Sutra of Perfect Enlightenment	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 大方廣圓覺修多羅了義經 (FGDB '圓覺經'; SH '五性', p. 118)	8000308
 8000309	毘卢如来	毘盧如來	Pílú rúlái	Vairocana Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana; see 大日如來 (SH '大日', p. 90)	8000309
-8000310	弥陀如来	彌陀如來	Mítuó Rúlái	Amitabha; Amithaba	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿弥陀佛 (SH '彌陀', p. 457)	8000310
+8000310	弥陀如来	彌陀如來	mítuó rúlái	Amitabha; Amithaba	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿弥陀佛 (SH '彌陀', p. 457)	8000310
 8000311	顿教	頓教	dùn jiāo	sudden teachings; dunjiao	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Japanese: tongyō; a 南宗 Southern School Chan teaching about sudden enlightenment in contrast to the gradual enlightenment teaching of the Northern School (BL 'dunjiao', p. 273; FGDB '頓教'; SH '頓教', p. 419)	8000311
 8000312	缘起	緣起	yuánqǐ	dependent origination; conditioned origination; dependent arising	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratītyasamutpāda, Pali: paticcasamuppāda, Japanese: engi, Tibetan: rten cing 'brel bar 'byung ba, Vietnamese: duyên khởi; a fundamental Buddhist principle (BL 'pratītyasamutpāda', pp. 669-670; FGDB '緣起'; Powers 2007, p. 75)	8000312
 8000313	空	\N	kōng	emptiness; emptiness of inherent existence; sunyata	noun	\N	\N	佛教	Buddhism	\N	\N	\N	kong1.mp3	Sanskrit equivalent: śūnyatā, or: śūnya, or: svabhāvaśūnya, Pali: suññatā, suñña; Japanese: kū; Tibetan: stong pa nyid; śūnyatā as the concept in Buddhism that all phenomenon lack a self and are subject to dependent origination (BCSD '空', p. 908; BL 'śūnyatā', pp. 871-872; Dhammajoti 2013, p. 9; FGDB '空';  JEDB 'kū', p. 204; Kroll 2015 '空' 3, p. 241; Lopez 1988, p. 53; Powers 2007, p. 103; Tzu Chuang 2012, p. 93)	8000313
@@ -357,7 +357,7 @@
 8000357	四静虑	四靜慮	sì jìnglǜ	four jhanas; four stages of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: catvāri dhyānāni, Tibetan: bsams gtan bzhi la sogs pa'i ming la (FGDB '四禪八定'; Mahāvyutpatti 'catvāri dhyānāni'; SH '四靜慮', p. 183)	8000357
 8000358	静虑	靜慮	jìnglǜ	dhyana; calm contemplation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyāna (BL 'dhyānapāramitā', p. 257; Ding '靜慮'; FGDB '靜慮'; SH '靜慮', p. 453)	8000358
 8000359	金刚乘	金剛乘	jīngāng shèng	Vajrayāna; Tantric Buddhism; Esoteric Buddhism	proper noun	\N	\N	佛教	Buddhism	密宗	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajrayāna, Japanese: kongōjō, Tibetan: rdo rje'i theg pa; a form of Mahāyāna Buddhism 大乘佛教 (BL 'Vajrayāna', p. 957; FGDB '金剛乘教'; Powers 2007, p. 249)	8000359
-8000360	净土宗	淨土宗	jìng Tǔ Zōng	Pure Land School; Jingtu Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: jōdoshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'jingtu zong', p. 391; FGDB '淨土宗'; SH '淨土宗', p. 357; Wikipedia '淨土宗')	8000360
+8000360	净土宗	淨土宗	jìng Tǔ zōng	Pure Land School; Jingtu Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: jōdoshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'jingtu zong', p. 391; FGDB '淨土宗'; SH '淨土宗', p. 357; Wikipedia '淨土宗')	8000360
 8000361	禅宗	禪宗	chán zōng	Chan School of Buddhism; Zen	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	One of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'chan zong', p. 179; FE '禪宗'; SH '禪宗', p. 460; Wikipedia '禅宗')	8000361
 8000362	宝生佛	寶生佛	bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnasambhava; see 寶生 (BL 'Ratnasambhava', pp. 703-704; FGDB '寶生佛'; SH '寶生', p. 477)	8000362
 8000363	大日如来	大日如來	dàrì rúlái	Vairocana Tathagata; Mahavairocana	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vairocana, or: mahāvairocana, Japanese: Dainichi nyorai, Tibetan: rnam par snang mdzad. Literally meaning 'of the sun' in Sanskrit, Vairocana is the central of the 五佛 'five Buddhas.' Vairocana appears in the 大毘盧遮那成佛神變加持經 Vairocana Sūtra and is a figure in the Avataṃsakasūtra 華嚴經 (BL 'Vairocana', p. 949-950; Chandra and Bunce 2002, pp. 262-163; Mahāvyutpatti 'vairocanaḥ'; FGDB '大日如來'; MW 'vairocana'; SH '大日', p. 90; T 848).	8000363
@@ -375,7 +375,7 @@
 8000375	班禅頞尔德尼	班禪頞爾德尼	bānchán è'ěrdéní	Panchen Lama	proper noun	\N	\N	佛教	Buddhism	西藏	Tibet	\N	\N	See 班禪喇嘛 (SH '班禪喇嘛', p. 330)	8000375
 8000376	裘夷	\N	qiúyí	Gautami; Gotami	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Same as 瞿曇彌 (FGDB '瞿曇彌')	8000376
 8000377	瞿夷	\N	jùyí	Gautami; Gautamī; Gotami; Gotamī	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Same as 瞿曇彌 (FGDB '瞿曇彌')	8000377
-8000378	藏传佛教顿渐之争	藏傳佛教頓漸之爭	Zàngchuán fójiào dùn jiàn zhī zhēng	the debate over sudden and gradual in Tibetan Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(DDB '藏傳佛教頓漸之爭')	8000378
+8000378	藏传佛教顿渐之争	藏傳佛教頓漸之爭	zàngchuán fójiào dùn jiàn zhī zhēng	the debate over sudden and gradual in Tibetan Buddhism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(DDB '藏傳佛教頓漸之爭')	8000378
 8000379	六祖坛经	六祖壇經	liù Zǔ Tán jīng	Platform Sutra of the Sixth Patriarch; Platform Sutra; Liuzu Tan Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	As taught by 六祖慧能 the Sixth Patriarch Huineng (BL 'Liuzu Tan Jing', p. 478; FGDB '六祖壇經'; T 2008)	8000379
 8000380	念佛	\N	niàn fó	to recollect the Buddha; to chant the name of the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, to chant the name of Amitābha Buddha 阿弥陀佛 (Ding '念佛'; FGDB '念佛'; SH '念佛', p. 258)	8000380
 8000381	杀生	殺生	shā shēng	to kill	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prāṇātipāta, Tibetan: srog bcod pa; one of the ten 惡業道 unwholesome courses of action (BL, p. 1086; Ding '殺生'; FGDB '殺生'; Guoyu '殺生'; SH '殺生', p.327)	8000381
@@ -384,7 +384,7 @@
 8000384	乔答弥	喬答彌	qiáodámí	Gautami; Gautamī; Gotami; Gotamī	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Same as 瞿曇彌 (FGDB '瞿曇彌')	8000384
 8000385	南宗禅	南宗禪	nán zōng chán	Southern School of Chan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南宗 (FGDB '南宗禪')	8000385
 8000386	南禅	南禪	nán chán	Southern Chan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 南宗 (FGDB '南宗禪')	8000386
-8000387	南宗	\N	Nán Zōng	Southern School; Nan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	A Chan school, including followers and disciples of 慧能 Hui Neng, in contrast to the 北宗 Northern School (BL 'Nan Zong', pp. 573-574; FGDB '南宗禪'; SH '南宗', p. 297)	8000387
+8000387	南宗	\N	nán zōng	Southern School; Nan Zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	A Chan school, including followers and disciples of 慧能 Hui Neng, in contrast to the 北宗 Northern School (BL 'Nan Zong', pp. 573-574; FGDB '南宗禪'; SH '南宗', p. 297)	8000387
 8000388	坛经	壇經	tán jīng	Platform Sutra	proper noun	经	Sutra	佛教	Buddhism	中国	China	\N	\N	See 六祖壇經 (FGDB '六祖壇經')	8000388
 8000389	离相戒	離相戒	líxiāngjiè	formless precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無相戒 (FGDB '離相戒'; SH '離相戒', p. 475)	8000389
 8000390	随相戒	隨相戒	suí xiāng jiè	to follow the prescribed discipline [of a monastic]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CFGDB '隨相戒'; SH '隨相戒', p. 454)	8000390
@@ -427,7 +427,7 @@
 8000427	大意	\N	dàyì	Dayi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a person who as a former incarnation of the Buddha (FGDB '大意'; SH '大意', p. 89)	8000427
 8000428	劫波	\N	jiébō	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 劫 (FGDB '劫')	8000428
 8000429	劫	\N	jié	a kalpa; an eon	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalpa, Pali: kappa, Japanese: kō; Tibetan: bskal pa; a very long unit of time, equal to 4.32 billion years according to Indian tradition (BCSD '劫', p. 202; BL 'kalpa', p. 409; FGDB '劫'; JEBD 'Kō'; Kroll 2015 '劫' 3, p. 208; MW 'kalpa'; SH '劫', p. 232)	8000429
-8000430	净名经	淨名經	jìng Míng jīng	Vimalakīrti Sūtra; Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti nirdeśa sūtra; another name for 維摩詰經; see 維摩詰經 (FGDB '淨名經')	8000430
+8000430	净名经	淨名經	jìng míng jīng	Vimalakīrti Sūtra; Vimalakīrti Nirdeśa Sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti nirdeśa sūtra; another name for 維摩詰經; see 維摩詰經 (FGDB '淨名經')	8000430
 8000431	舍利弗	\N	shèlìfú	Sariputra; Sariputta	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śāriputra, Pali: sāriputta, Japanese: Sharihotsu, Tibetan: shā ri bu; one of the ten great disciples of the Buddha 十大弟子, first in wisdom (BL 'Śariputra', pp. 777-778; FGDB '舍利弗'; Tzu Chuang 2012, pp. 84-85)	8000431
 8000432	阿难	阿難	Ānán	Ānanda; Ananda	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ānanda, Pali: ānanda, Japanese: Anan, Tibetan: Kun dga' bo; a direct disciple of the Buddha (BL 'Ānanda', pp. 38-39; Eitel, p. 11; FGDB '阿難'; SH '阿難陀', p. 249)	8000432
 8000433	大迦叶	大迦葉	dà Jiāyè	Mahakasyapa; Mahākāśyapa; Mahākassapa; kasyapa	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	See 迦葉 (FGDB '迦葉')	8000433
@@ -500,7 +500,7 @@
 8000500	说师子	說師子	shuō shī zǐ	vādisiṃha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vādisiṃha, Tibetan: smra ba'i seng ge; refers to the Buddha (Mahāvyutpatti 'vādisiṃhaḥ'; MW 'vādisiṃha')	8000500
 8000501	法师子	法師子	fǎshīzǐ	vādisiṃha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vādisiṃha, Tibetan: smra ba'i seng ge; see 說師子 (Mahāvyutpatti 'vādisiṃhaḥ')	8000501
 8000502	粱皇宝忏	粱皇寶懺	liáng huáng bǎo chàn	Emperor Liang Repentance Service	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 梁皇懺 (FGDB '梁皇懺')	8000502
-8000503	粱皇宝忏	梁皇寶懺	Liáng Huáng Bǎo Chàn	Emperor Liang Repentance Service	proper noun	法会	Dharma Service	佛教	Buddhism	中国	China	\N	\N	See 梁皇懺 (FGDB '梁皇懺')	8000503
+8000503	粱皇宝忏	梁皇寶懺	liáng Huáng bǎo Chàn	Emperor Liang Repentance Service	proper noun	法会	Dharma Service	佛教	Buddhism	中国	China	\N	\N	See 梁皇懺 (FGDB '梁皇懺')	8000503
 8000504	呗	唄	bài	a chant; pāṭha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāṭha; as in 梵呗 (FGDB '唄'; Guoyu '唄' n; SH '唄', p. 323)	8000504
 8000505	忏悔	懺悔	chànhuǐ	repentance; pāpadeśanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāpadeśanā, Pali: pāpadesanā, Japanese: sange, Tibetan: sdig pa bshags pa (BL 'pāpadeśanā', p. 621; FGDB '懺悔'; Guoyu '懺悔' 2; SH '懺悔', p. 478)	8000505
 8000506	塔刹	塔剎	tǎchà	spire; pagoda finial; finial	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ornamented pointed top which crowns a pagoda (Wikipedia '塔刹')	8000506
@@ -516,18 +516,18 @@
 8000516	废三显一	廢三顯一	fèi sān xiǎn yī	to set aside the three and establish the One [vehicle]	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Referring to a parable in the Lotus Sutra; closely related to the Tiantai expression 廢權立實 'set aside the provisional [teaching] and establish the real' (FGDB '廢權立實')	8000516
 8000517	善根	\N	shàngēn	virtuous roots; wholesome roots; kuśalamūla	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kuśalamūla, Pali: kusalamūla, Japanese: zengon, Tibetan: dge ba'i rtsa ba. There are different enumerations of wholesome roots. One is (1) alobha 'nongreed,' (2) adveṣa 'nonhatred,' and (3) nondelusion 'amoha.' (BCSD '善根', p. 263; BL 'kuśalamūla', p. 457; FGDB '善根'). For example, 是菩薩有大智慧深善根 'A bodhisattva has great wisdom and deep roots of virtue (Xiaopin, scroll 7 小品般若波羅蜜經).	8000517
 8000518	福业	福業	fúyè	virtuous actions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇya-karma; those that create good karmic results (FGDB '福業'; SH '福業', p. 426)	8000518
-8000519	汉传佛教	漢傳佛教	Hàn chuán fójiào	Han Chinese Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Buddhist tradition amongst Han Chinese (Wikipedia '汉传佛教')	8000519
+8000519	汉传佛教	漢傳佛教	hàn chuán fójiào	Han Chinese Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Buddhist tradition amongst Han Chinese (Wikipedia '汉传佛教')	8000519
 8000520	真谛	真諦	zhēndì	paramartha; paramārtha; paramārthasatya; absolute truth; supreme truth	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paramārtha, Pali: paramattha, Japanese: shintai, or: daiichigitai, Tibetan: don dam bden pa; refers to the true reality of the secular world, as perceived according to dependent origination. As opposed to the mundane truth 俗谛; one of the 二諦 two truths (BL 'paramārthasatya', p. 623; FGDB '真諦'; Shambhala 'paramārtha'; Tzu Chuang 2012).	8000520
-8000521	法显传	法顯傳	fǎ Xiǎn Zhuàn	A Record of Buddhist Kingdoms; Record of the Buddhistic Kingdoms; Faxian's Pilgrimage to India	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Japanese: Hokken den; a record describing the travels to India by the monk Faxian 法顯 (BL 'Faxian zhuan', p. 298; FGDB '法顯傳')	8000521
-8000522	佛国记	佛國記	fó Guó jì	A Record of Buddhist Kingdoms; Record of the Buddhistic Kingdoms; Fa Xian's Pilgrimage to India	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	See also 法顯傳 (BL 'Record of Buddhist Kingdoms', p. 709; Ding '佛國記'; FGDB '佛國記'; SH '佛國記'; T 2085)	8000522
+8000521	法显传	法顯傳	fǎ xiǎn zhuàn	A Record of Buddhist Kingdoms; Record of the Buddhistic Kingdoms; Faxian's Pilgrimage to India	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	Japanese: Hokken den; a record describing the travels to India by the monk Faxian 法顯 (BL 'Faxian zhuan', p. 298; FGDB '法顯傳')	8000521
+8000522	佛国记	佛國記	fó guó jì	A Record of Buddhist Kingdoms; Fa Xian's Pilgrimage to India	proper noun	书	Book	佛教	Buddhism	中国	China	\N	\N	See also 法顯傳 (BL 'Record of Buddhist Kingdoms', p. 709; Ding '佛國記'; FGDB '佛國記'; SH '佛國記'; T 2085)	8000522
 8000523	金刚牙菩萨	金剛牙菩薩	jīngāngyá púsà	Vajradaṃṣṭra Bodhisattva	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	(FGDB '金剛牙菩薩')	8000523
 8000524	金刚牙	金剛牙	jīngāngyá	Vajradaṃṣṭra	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajradaṃṣṭra; see 金剛牙菩薩 Vajradaṃṣṭra Bodhisattva (FGDB '金剛牙菩薩')	8000524
 8000525	嚩日啰能瑟吒罗	嚩日囉能瑟吒羅	fúrìluónéngsèzhàluó	Vajradaṃṣṭra	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajradaṃṣṭra; see 金剛牙菩薩 Vajradaṃṣṭra Bodhisattva (FGDB '金剛牙菩薩')	8000525
 8000526	宿住	\N	sùzhù	former abidings; past lives	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '宿住', p. 348)	8000526
 8000527	金刚药叉	金剛藥叉	jīngāngyàochā	Vajra-yaksa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternate name for 金剛牙菩薩 Vajradaṃṣṭra Bodhisattva (FGDB '金剛牙菩薩')	8000527
 8000528	曲彔木	\N	qǔlùmù	a wooden temple chair	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 曲彔 (FGDB '曲彔')	8000528
-8000529	南传佛教	南傳佛教	Nán Chuán fójiào	Theravāda Buddhism; South Asian Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 上座部佛教 (FGDB '上座部佛教')	8000529
-8000530	藏语系佛教	藏語系佛教	Zàngyǔ Xì fójiào	Tibetan Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 藏传佛教 (Wikipedia '藏傳佛教')	8000530
+8000529	南传佛教	南傳佛教	nán chuán fójiào	Theravāda Buddhism; South Asian Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 上座部佛教 (FGDB '上座部佛教')	8000529
+8000530	藏语系佛教	藏語系佛教	zàngyǔ Xì fójiào	Tibetan Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 藏传佛教 (Wikipedia '藏傳佛教')	8000530
 8000531	上座部佛教	\N	shàngzuòbù fójiào	Theravāda Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '上座部佛教')	8000531
 8000532	解脱	解脫	jiětuō	liberation; emancipation; vimokṣa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimokṣa, or: mokṣa, or: mukti, Pali: vimokkha, Japanese: gedatsu; Tibetan: thar pa. This word is used in Buddhism, Hinduism, and Jainism. In Hinduism it means to be literated from bondage in the physical world (BCSD '解脫', p. 1068; BL 'vimokṣa', p. 972; Dasgupta 2009, pp. 58-59; Ding '解脫'; FGDB '解脫'; Mittal and Thursby 2006, p. 19; MW 'mukti'; Powers 2007, p. 64)	8000532
 8000533	巴利语系佛教	巴利語系佛教	bālì Yǔ xì fójiào	Theravāda Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 上座部佛教 (Wikipedia '上座部佛教')	8000533
@@ -536,32 +536,32 @@
 8000536	福德	\N	fúdé	merit earned; reward; good fortune and good moral conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇya, Pali: puñña, Japanese: fuku, Tibetan: bsod nams (BL 'puṇya', p. 681; FGDB '福德'; SH '福德', p. 426)	8000536
 8000537	天台宗	\N	tiāntái zōng	Tiantai School; T'ien-tai School	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: Tendaishū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'tiantai zong', pp. 912-913; FGDB '天台宗'; SH '天台宗', p. 144; Tzu Chuang 2012, p. 295)	8000537
 8000538	三论宗	三論宗	sānlùn zōng	Three Treatise School; Three Treatise School; Sanlun School	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	Japanese: Sanronshū; the school was a Buddhist philosophical school proposing the 中觀 'Middle Way' between the two extremes of eternalism and annihilationism, closely related to the 中觀派 Madhyamaka. The main treatises defining the philosophy of the school are 中論 mūlamadhyamakakārikā ”Fundamental Verses on the Middle Way”, 百論 ”Sata-sastra”, and 十二門論 ”Twelve Gate Treatise”. It is also one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'San Lun Zong', p. 772; FGDB '三論宗'; SH '三論宗', p. 76; Tzu Chuang 2012, p. 297; Warder 2000, pp. 354-400; Williams 2009, 63-83)	8000538
-8000539	华严宗	華嚴宗	huàyán Zōng	Huayan School; Huayan zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: Kegonshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'Huayan zong', p. 362; FGDB '華嚴宗'; Tzu Chuang 2012, p. 296)	8000539
+8000539	华严宗	華嚴宗	huàyán zōng	Huayan School; Huayan zong	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	Japanese: Kegonshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'Huayan zong', p. 362; FGDB '華嚴宗'; Tzu Chuang 2012, p. 296)	8000539
 8000540	出体	出體	chūtǐ	to put forth a body	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '出體'; SH '出體', p. 167)	8000540
 8000541	出体	出體	chūtǐ	external	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '出體', p. 167)	8000540
 8000542	出体	出體	chūtǐ	to explain a dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '出體'; FGDB '出體')	8000540
 8000543	摄相归性体	攝相歸性體	shè xiāng guī xìng tǐ	attributes held together are returned to their own essence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四重出體 'four kinds of putting forth a body' as described by the Faxiang School (Ding '攝相歸性體'; FGDB '攝相歸性體')	8000543
 8000544	诸法	諸法	zhū fǎ	all things; all dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvadharma (Ding '諸法'; FGDB '諸法'; SH '諸法', p. 450; Sharf 2005, p. 169)	8000544
-8000545	慈恩宗	\N	Cí'ēn Zōng	Faxiang School; Ci'en School; Dharmalaksana School	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	See 法相宗 (FGDB '法相宗)	8000545
+8000545	慈恩宗	\N	cí'ēn zōng	Faxiang School; Ci'en School; Dharmalaksana School	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	See 法相宗 (FGDB '法相宗)	8000545
 8000546	妙法莲华经	妙法蓮華經	miàofǎ liánhuá jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saddharmapuṇḍarīkasūtram, Japanese: Myōhō-renge-kyō, Tibetan: Dam pa'i chos padma dkar po'i mdo; the title of the popular version translated by Kumārajīva (BL 'Saddharmapuṇḍarīkasūtra', pp. 729-730; Daitō Shuppansha 1991 'Myōhō-renge-kyō'; FGDB '妙法蓮華經'; KDC 116; Reeves 2008; Williams 2009, pp. 149-171; T 0262)	8000546
 8000547	妙法华经	妙法華經	miào fǎ huà jīng	Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000547
-8000548	莲华经	蓮華經	Liánhuā jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000548
-8000549	莲花经	蓮花經	Liánhuā jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000549
+8000548	莲华经	蓮華經	liánhuā jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000548
+8000549	莲花经	蓮花經	liánhuā jīng	The Lotus Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 妙法蓮華經 (FGDB '妙法蓮華經')	8000549
 8000550	释迦文	釋迦文	shìjiāwén	Sakyamuni Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 釋迦牟尼 (FGDB '釋迦文')	8000550
 8000551	转依	轉依	zhuǎnyī	āśrayaparāvṛtti; transformation basis	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āśrayaparāvṛtti, or: āśrayaparivṛtti, Japanese: ten'e, Tibetan: gnas yongs su 'gyur pa; transmutation from an ordinary person into a noble person (BL 'āśrayaparāvṛtti', p. 72; FGDB '轉依'; Red Pine 2012, loc. 5605)	8000551
 8000552	实相	實相	shíxiàng	dharmata; true appearance; the nature of things; the ultimate essence of things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmatā, Japanese: hosshō, Tibetan: chos nyid; similar to 真如 and 法性 (BL 'dharmatā', pp. 252-253; FGDB '實相')	8000552
-8000553	十二门论	十二門論	shí'èr Mén Lùn	Twelve Gate Treatise	proper noun	论	Treatise	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśanikāyaśāstra, Japanese: Jūnimonron; a key text in Mahāyāna Buddhism attributed to Nāgārjuna and included in the Chinese Buddhist canon; one of the three treatises of the 三論宗 Sanlun School (BL 'Shi'ermen lun', p. 803; FGDB '十二門論'; KDC 579; SH '十二門論', p. 44; T 1568)	8000553
-8000554	百论	百論	Bǎi Lùn	Śataśāstra; Hundred Treatise	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śataśāstra; A key text in Mahāyāna Buddhism by Āryadeva (BL '*Śataśāstra', p. 786; FGDB '百論'; KDC 581; T 1569)	8000554
-8000555	唯识宗	唯識宗	Wěi shí Zōng	Vigñānavāda; Dharmalaksana School	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	An alternative name for 瑜伽宗 Yogācāra School (BL 'Vijñānavāda', p. 969; Ding '唯識宗'; SH '唯識宗')	8000555
+8000553	十二门论	十二門論	shí'èr mén lùn	Twelve Gate Treatise	proper noun	论	Treatise	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dvādaśanikāyaśāstra, Japanese: Jūnimonron; a key text in Mahāyāna Buddhism attributed to Nāgārjuna and included in the Chinese Buddhist canon; one of the three treatises of the 三論宗 Sanlun School (BL 'Shi'ermen lun', p. 803; FGDB '十二門論'; KDC 579; SH '十二門論', p. 44; T 1568)	8000553
+8000554	百论	百論	bǎi lùn	Śataśāstra; Hundred Treatise	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śataśāstra; A key text in Mahāyāna Buddhism by Āryadeva (BL '*Śataśāstra', p. 786; FGDB '百論'; KDC 581; T 1569)	8000554
+8000555	唯识宗	唯識宗	wěi shí zōng	Vigñānavāda; Dharmalaksana School	proper noun	宗	School	佛教	Buddhism	中国	China	\N	\N	An alternative name for 瑜伽宗 Yogācāra School (BL 'Vijñānavāda', p. 969; Ding '唯識宗'; SH '唯識宗')	8000555
 8000556	法相宗	\N	fǎxiāng zōng	Faxiang School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	Japanese: Hossōshū; school founded by 玄奘 Xuan Zang; one of the 八大宗派 Eight Schools of Chinese Buddhism (BL 'Faxiang Zong', pp. 297-298; Ding '法相宗'; Tzu Chuang 2012, p. 94; FGDB '法相宗')	8000556
 8000557	禅定	禪定	chándìng	meditative concentration; meditation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyāna, Pali: jhāna, Japanese: zen, or: zenjō, Tibetan: bsam gtan; the fifth of the six paramitas (BL 'dhyāna', pp. 256-257; FGDB '禪定'; Karashima 2001 '禪定'; SH '禪定', p. 459; Tzu Chuang 2012, p. 241)	8000557
 8000558	佛性	\N	fó xìng	Buddha-nature; buddhadhatu	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: buddhatva, or: buddhatā, Japanese: busshō, Tibetan: sangs rgy as kyi khams; the potential to become a Buddha (BL 'buddhadhātu', pp. 151-152; Dhammajoti 2013, p. 33; FGDB '佛性'; MW 'buddhatva'; SH '佛性', p. 228)	8000558
 8000559	往生	\N	wǎng shēng	a future life	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '往生'; SH '往生', p. 257)	8000559
-8000560	弥陀	彌陀	Mítuó	Amitābha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿彌陀佛 (Eitel 'Amitābha', pp. 7-8)	8000560
+8000560	弥陀	彌陀	mítuó	Amitābha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿彌陀佛 (Eitel 'Amitābha', pp. 7-8)	8000560
 8000561	北单越	北單越	běi dānyuè	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 鬱單越 (FGDB '鬱單越')	8000561
 8000562	北郁单越	北鬱單越	běi yùdānyuè	Uttarakuru	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 鬱單越 (FGDB '鬱單越')	8000562
 8000563	极乐世界	極樂世界	jílè shìjiè	Western Pure Land; Sukhāvatī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sukhāvatī, Japanese: gokurakujōdo, Tibetan: bde ba can; a 佛刹 'Buddha field' or 淨土 'pure land' established by Amitābha 阿彌陀佛 (BL 'sukhāvatī', p. 867; FGDB '極樂世界')	8000563
-8000564	观无量寿经	觀無量壽經	Guān wú Liàng Shòu jīng	Contemplation Sutra; Sutra on the Visualization of Immeasurable Life; Guan Wuliangshou jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: *Amitāyurdhyānasūtra; Japanese: Kan Muryōjukyō; Known by the title 觀無量壽佛經 in the Taisho (BL 'Guan Wuliangshou jing'; Ding '觀無量壽經', FGDB '觀無量壽經', SH '觀無量壽經', p. 490; KDC 191; T 365)	8000564
+8000564	观无量寿经	觀無量壽經	guān wú liàng shòu jīng	Contemplation Sutra; Sutra on the Visualization of Immeasurable Life; Guan Wuliangshou jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: *Amitāyurdhyānasūtra; Japanese: Kan Muryōjukyō; Known by the title 觀無量壽佛經 in the Taisho (BL 'Guan Wuliangshou jing'; Ding '觀無量壽經', FGDB '觀無量壽經', SH '觀無量壽經', p. 490; KDC 191; T 365)	8000564
 8000565	无量寿佛观经	無量壽佛觀經	wúliàngshòu fó guān jīng	Contemplation Sutra; Sutra on the Visualization of Immeasurable Life; Guan Wuliangshou jing	phrase	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 觀無量壽經 (FGDB '觀無量壽經')	8000565
 8000566	山门	山門	shānmén	temple main gate; mountain gate	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Tzu Chuang 2012; FoguangPedia)	8000566
 8000567	四大天王	\N	sì dà tiān wáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caturmahārāja, the four guardians or warrior attendants of Buddha (SH '四大天王', p. 173)	8000567
@@ -577,9 +577,9 @@
 8000577	虛空库菩萨	虛空庫菩薩	xūkōng kù púsà	Gaganaganja Bodhisattva	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Name of a deity mentioned in the 金剛頂一切如來真實攝大乘現證大教王經 “Adamantine Pinnacle Sutra” (Giebel 2001, p. 20; T 865, Scroll 1, 18.0207a10)	8000577
 8000578	摧一切魔力菩萨	摧一切魔力菩薩	cuī yīqiè mólì púsà	Sarvamarabalapramardin Bodhisattva	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Name of a deity mentioned in the 金剛頂一切如來真實攝大乘現證大教王經 “Adamantine Pinnacle Sutra” (Giebel 2001, p. 20; T 865, Scroll 1, 18.0207a10)	8000578
 8000579	忿怒军荼利菩萨	忿怒軍荼利菩薩	fènnù jūntúlì púsà	Wrathful Kundalin Bodhisattva	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Name of a deity mentioned in the 蘇悉地羯羅經 “Susiddhikaramahātantrasādhanopāyikapaṭala” (Giebel 2001, p. 125; T 893a, Scroll 1, 18.0603a07)	8000579
-8000580	天王殿	\N	tiānwáng Diàn	Temple of Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '天王殿')	8000580
+8000580	天王殿	\N	tiānwáng diàn	Temple of Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '天王殿')	8000580
 8000581	韦驮天	韋馱天	wéituó tiān	Weituo tian; Weituo; Skanda	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	A guardian deity (BL 'Weituo tian'; FGDB '韋馱天')	8000581
-8000582	大雄宝殿	大雄寶殿	dà Xióng Bǎo Diàn	Main Shrine; Hall of the Great Heros; Mahavira Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	大雄宝殿 is the main hall in a Chinese temple, housing Sakyamuni Buddha and other statues. FGS translation standard: Great Hero Shrine or Main Shrine (FGDB '佛堂'; FoguangPedia; Tzu Chuang 2012)	8000582
+8000582	大雄宝殿	大雄寶殿	dà Xióng bǎo diàn	Main Shrine; Hall of the Great Heros; Mahavira Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	大雄宝殿 is the main hall in a Chinese temple, housing Sakyamuni Buddha and other statues. FGS translation standard: Great Hero Shrine or Main Shrine (FGDB '佛堂'; FoguangPedia; Tzu Chuang 2012)	8000582
 8000583	药师净土	藥師淨土	yàoshī jìngtǔ	Pureland of the Medicine Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 淨琉璃世界 (FGDB '淨琉璃世界')	8000583
 8000584	东方净琉璃世界	東方淨琉璃世界	Dōngfāng jìng Liúlí shìjiè	the Eastern Realm of Pure Lapis Lazuli	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 淨琉璃世界 (FGDB '淨琉璃世界'; Wikipedia '淨琉璃世界')	8000584
 8000585	五智佛	\N	wǔzhìfó	five Wisdom Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五佛 (FGDB '五智佛')	167366
@@ -599,9 +599,9 @@
 8000599	早课	早課	zǎo kè	morning chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means morning class but, in fact, it is chanting (DDB '早課'; Guoyu '早課')	8000599
 8000600	禅堂	禪堂	chán táng	meditation hall	noun	建筑物	Building	佛教	Buddhism	\N	\N	\N	\N	(Ding '禪堂'; FE '禪堂'; FGDB '禪堂'; SH '禪堂', p. 459)	8000600
 8000601	晚课	晚課	wǎn kè	evening chanting	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Literally, this means evening class but, in fact, it is chanting (Guoyu ''晚課)	8000601
-8000602	水陆法会	水陸法會	Shuǐ Lù fǎhuì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	See 水陸會 (FGDB '水陸會')	8000602
+8000602	水陆法会	水陸法會	shuǐ lù fǎhuì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	See 水陸會 (FGDB '水陸會')	8000602
 8000603	木鱼	木魚	mù yú	a wooden fish	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Used in Dharma services and in decorating temples (SH '木魚', p. 158)	8000604
-8000604	水陆会	水陸會	Shuǐ Lù Huì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	(Ding '水陸會'; FGDB '水陸會'; SH '水陸會', p. 160)	8000604
+8000604	水陆会	水陸會	shuǐ lù Huì	Water and Land Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	(Ding '水陸會'; FGDB '水陸會'; SH '水陸會', p. 160)	8000604
 8000605	悲济会	悲濟會	Bēi jì Huì	Bei Ji Service	proper noun	法会	Dharma Service	佛教	Buddhism	\N	\N	\N	\N	Alternate name for 水陸會 Water and Land Service; see 水陸會 (FGDB '水陸會')	8000605
 8000606	法事	\N	fǎ shì	a Dharma event	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '法事'; SH '法事', p. 268)	8000606
 8000607	密教	\N	mìjiào	esoteric teachings; esoteric Buddhism	noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Japanese: mikkyō; a tradition based on a fusion of Mahāyāna and Vedic beliefs and practice; a lower case ‘esoteric Buddhism’ represents the general movement and the debated upper case ‘Esoteric Buddhism’ represents a distinct school (BL 'Mikkyō', pp. 540-541; FGDB '中國密教'; Lü 2017, pp. 72-80; Orzech, Payne, and Sørensen 2011, pp. 3-18; Sharf 2005, p. 264)	8000607
@@ -610,7 +610,7 @@
 8000610	开元三大士	開元三大士	kāiyuán sān dà shì	three great sages of Kaiyuan	phrase	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Namely, 善無畏 Śubhakarasiṃha, 金剛智 Vajrabodhi, and 不空 Amoghavajra; known for the introduction of Esoteric Buddhism into China in the Kaiyuan reign of the Tang dynasty (FGDB '開元三大士'; Goble 2019, p. 25)	8000610
 8000611	冥道	\N	míngdào	the gateway to the ghost world	proper noun	\N	\N	佛教	Buddhism	密宗	Esoteric Buddhism	\N	\N	(SH '冥道', p. 322)	8000611
 8000612	焰口	\N	yàn kǒu	Flaming Mouth	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Name of a Hungry Ghost (FGDB '焰口')	8000612
-8000613	打七	\N	Dǎ Qī	Forty Nine Day Period of Self Cultivation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '打七')	8000613
+8000613	打七	\N	dǎ qī	Forty Nine Day Period of Self Cultivation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '打七')	8000613
 8000614	礼忏	禮懺	lǐ chàn	liturgy for confession	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '禮懺')	8000614
 8000615	盂兰盆会	盂蘭盆會	yúlánpén huì	Ullambana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Festival in memory of ancestry; see 盂蘭盆 (SH '盂蘭盆', p. 274)	8000615
 8000616	放生	\N	fàng shēng	to release living creatures; fangsheng	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: hōjō, Tibetan: srog blu, or: tshe thar; in a Buddhist ceremony (BL 'fangsheng', p. 293-294; FGDB '放生會'; SH '放生', p. 262)	8000616
@@ -664,7 +664,7 @@
 8000664	阿尼卢豆	阿尼盧豆	ānílúdòu	Aniruddha	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 阿那律 (SH '阿那律', p. 293)	8000664
 8000665	阿莬卢豆	阿莬盧豆	āwènlúdòu	Aniruddha	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 阿那律 (SH '阿那律', p. 293)	8000665
 8000666	阿楼驮	阿樓馱	Ālóuduò	Aniruddha	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: aniruddha, Pali: anuruddha, Japanese: Anaritsu, Tibetan: ma 'gags pa; Aniruddha was one of the ten great disciples of the Buddha 十大弟子 and the Buddha's first cousin. He is known for his attainment of the 天眼 divyacākṣus 'divine eye.' (BL 'Aniruddha'; FGDB '阿那律'; SH '阿那律', p. 293)	8000666
-8000667	文殊师利法王子	文殊師利法王子	Wénshū Shī lì fǎ wángzǐ	Dharma Prince Manjusri	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 文殊菩薩 (FGDB '文殊菩薩')	8000667
+8000667	文殊师利法王子	文殊師利法王子	wénshū shī lì fǎ wángzǐ	Dharma Prince Manjusri	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 文殊菩薩 (FGDB '文殊菩薩')	8000667
 8000668	阿恃多	\N	āshìduō	Ajita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿逸多 (FGDB '阿逸多')	8000668
 8000669	阿嗜多	\N	āshìduō	Ajita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿逸多 (FGDB '阿逸多')	8000669
 8000670	阿夷多	\N	āyíduō	Ajita	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '阿夷多'; Guoyu '阿夷多'; Wikipedia '阿夷多')	8000670
@@ -711,21 +711,21 @@
 8000711	须弥光	須彌光	xūmíguāng	Meruprabhasa; Sumeru Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; FGDB '須彌光'; T 366)	8000711
 8000712	妙音佛	\N	miàoyīn fó	Manjughosa; Wonderful Sound Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000712
 8000713	日月灯明佛	日月燈明佛	rì yuè dēngmíng fó	Candrasuryapradipa; Sun Moon Lamp Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '日月燈明佛'; Inagaki and Stewart 1995, p. 101; SH '燈明佛', p. 448)	8000713
-8000714	名闻光	名聞光	Míng Wén Guāng	Yashprabha; Well-Known Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; T 366)	8000714
+8000714	名闻光	名聞光	míng wén guāng	Yashprabha; Well-Known Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; T 366)	8000714
 8000715	大焰肩	大焰肩	dà yàn jiān	Mahārciskandha; Great Blazing Shoulders Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; T 366)	8000715
 8000716	须弥灯	須彌燈	xū mí dēng	Merupradipa; Sumeru Lamp Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; T 366)	8000716
 8000717	无量精进	無量精進	wúliàng jīngjìn	Anantavīrya; Measureless Vigor Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 101; T 366)	8000717
 8000718	无量寿佛	無量壽佛	wúliàng shòu fó	Amitayus Buddha; Measureless Life Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Another name for Amitābha; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 105; T 366)	8000718
-8000719	无量相佛	無量相佛	wúliàng Xiāng fó	Amitaskmdha Buddha; Measureless Appearance Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000719
+8000719	无量相佛	無量相佛	wúliàng xiāng fó	Amitaskmdha Buddha; Measureless Appearance Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000719
 8000720	此岸	\N	cǐàn	this shore; this world; Saṃsāra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '此岸'; Guoyu '此岸')	8000720
 8000721	瞿昙弥	瞿曇彌	qútánmí	Gautami; Gautamī; Gotami	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gautamī, Pali: gotamī; the Buddha, Siddhartha Gautama's maternal aunt (Ding '瞿曇彌'; FGDB '瞿曇彌'; SH '瞿曇彌')	8000721
-8000722	无量幢佛	無量幢佛	wúliàng Chuáng fó	Amitadhvaja Buddha; Measureless Curtain Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 106; T 366)	8000722
+8000722	无量幢佛	無量幢佛	wúliàng chuáng fó	Amitadhvaja Buddha; Measureless Curtain Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 106; T 366)	8000722
 8000723	地界	\N	dìjiè	earth element	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四大 'four elements' (Ding '地界'; SH '地界')	8000723
-8000724	大光佛	\N	dà Guāng fó	Mahaprabha Buddha; Great Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 115; T 366)	8000724
+8000724	大光佛	\N	dà guāng fó	Mahaprabha Buddha; Great Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 115; T 366)	8000724
 8000725	大明佛	\N	dà míng fó	Maharasmiprabha Buddha; Great Brightness Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000725
 8000726	界外	\N	jiè wài	outside of the realms of desire, form, and formlessness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '界外'; FGDB '界外'; SH '界外')	8000726
-8000727	宝相佛	寶相佛	Bǎo Xiāng fó	Maharatnaketu Buddha; Jewelled Appearance Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000727
-8000728	净光佛	淨光佛	jìng Guāng fó	Suddharasmi Buddha; Pure Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 123; T 366)	8000728
+8000727	宝相佛	寶相佛	bǎo xiāng fó	Maharatnaketu Buddha; Jewelled Appearance Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000727
+8000728	净光佛	淨光佛	jìng guāng fó	Suddharasmi Buddha; Pure Light Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 123; T 366)	8000728
 8000729	焰肩佛	\N	yàn jiān fó	Maharcislamdha Buddha; Blazing Shoulders Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000729
 8000730	不生	\N	bùshēng	nonarising; not produced; without origination; anutpada	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anutpāda, Japanese: mushō, Tibetan: skye med (Ames 2019, p. 5; BCSD '不生', p. 35; BL 'anutpāda'; Ding '不生'; FGDB '不生'; SH '不生', p. 107; Sharf 2005, p. 283)	8000730
 8000731	最胜音佛	最勝音佛	zuì shèng yīn fó	Dumdubhisvaranirghosa Buddha; Most Victorious Sound Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000731
@@ -748,9 +748,9 @@
 8000748	杂色宝华严身佛	雜色寶華嚴身佛	zásè bǎo huà yán shēn fó	Ratnakusumasampuspitagatra Buddha; Multi-colored Jewel and Flower Adornmed Body Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 119; T 366)	8000748
 8000749	娑罗树王佛	娑羅樹王佛	suō luó shù wáng fó	Salendraraja Buddha; Sala Tree King Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 120; T 366)	8000749
 8000750	宝华德佛	寶華德佛	bǎo huà dé fó	Ratnorpalasri Buddha; Jewelled Flower Virtue Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; T 366)	8000750
-8000751	见一切义佛	見一切義佛	jiàn Yīqiè yì fó	Sarvarthadarsa Buddha; Vision of all Meaning Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 121; T 366)	8000750
-8000752	如须弥山佛	如須彌山佛	Rú xūmí shān fó	Sumerukalpa Buddha; Such as Mount Sumeru Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 123; T 366)	8000752
-8000753	娑婆国土	娑婆國土	Suōpó Guótǔ	Saha Lokadhatu; Saha Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (FGDB '娑婆')	8000753
+8000751	见一切义佛	見一切義佛	jiàn yīqiè yì fó	Sarvarthadarsa Buddha; Vision of all Meaning Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 121; T 366)	8000750
+8000752	如须弥山佛	如須彌山佛	rú xūmí shān fó	Sumerukalpa Buddha; Such as Mount Sumeru Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Amitabha Sutra; one of the 六方諸佛 Buddhas of the six directions (FGDB '六方諸佛'; Inagaki and Stewart 1995, p. 123; T 366)	8000752
+8000753	娑婆国土	娑婆國土	suōpó guótǔ	Saha Lokadhatu; Saha Land	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 娑婆 (FGDB '娑婆')	8000753
 8000754	缦衣	縵衣	mànyī	five precepts robe	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paṭṭa (FGDB '縵衣')	8000754
 8000755	六度	\N	liù dù	Six Pāramitās; Six Perfections	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: satpāramitā; (1) Dāna or generosity 布施 (2) Sīla or proper conduct 持戒 (3) Kṣānti or tolerance 忍辱 (4) Vīrya or diligence 精進 (5) Dhyāna or concentration 禪定 (6) Prajñā or wisdom 智慧 (BL 'pāramitā'; FGDB '六度')	8000755
 8000756	浮陀	\N	fútuó	Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Old writing of 佛陀 (FGDB '佛陀'; Kroll 2015 '浮' 6, p. 120)	8000756
@@ -820,7 +820,7 @@
 8000820	偈子	\N	jìzi	a stanza; a hymn; a gatha; a verse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Records the teachings of the Buddha in verse form; one of the twelve divisions of the sutras 十二部经 (FGDB '偈'; Guoyu '偈子')	8000820
 8000821	业识	業識	yèshí	activating mind; a delusion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first of the 五意 five kinds of consciousness in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論; also, a variant form of 業相 karma-lakṣaṇa (Aśvaghoṣa and Hakeda 2006, p. 52; BCSD '業相'; FGDB '業識'; T 1666)	8000821
 8000822	碧岩录	碧巖錄	bì yán lù	Blue Cliff Record	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛果圜悟禪師碧巖錄 (FGDB '碧巖錄')	8000822
-8000823	文字禅	文字禪	Wén Zì Chán	wenzi Chan; lettered Chan	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Wenzi Chan was a style of Chan Buddhist that arose amongst educated monastics and literati of the Northern Song. The style emphasized literary exegesis (BL 'wenzi Chan'; FGDB '文字禪')	8000823
+8000823	文字禅	文字禪	wén Zì Chán	wenzi Chan; lettered Chan	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Wenzi Chan was a style of Chan Buddhist that arose amongst educated monastics and literati of the Northern Song. The style emphasized literary exegesis (BL 'wenzi Chan'; FGDB '文字禪')	8000823
 8000824	业力	業力	yè lì	the power of karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The power of karma to produce effects (Ding '業力'; FGDB '業力'; SH '業力', p. 403)	8000824
 8000825	三学	三學	sān xué	threefold training; triśikṣā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: triśikṣā, Pali: tisikkhā, Japanese: sangaku, Tibetan: bslab pa gsum; the three trainings are: (1) Precepts 戒学, (2) meditation 定学, and (3) wisdom 慧学 (BL'triśikṣā'; FGDB '三學'; Tzu Chuang 2012 'Training, Threefold')	8000825
 8000826	三业	三業	sān yè	three types of karma; three actions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Physical karma 身业, 2. verbal karma 口业, 3. mental karma 意业 (FGDB '三業'; SH '三業', p. 68; Tzu Chuang 2012)	8000826
@@ -925,7 +925,7 @@
 8000925	根本不觉	根本不覺	gēnběn bùjué	innate nonenlightenment; basic ignorance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 根本無明 (FGDB '根本無明')	8000925
 8000926	无始无明	無始無明	wúshǐ wúmíng	innate nonenlightenment; basic ignorance	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 根本無明 (FGDB '根本無明')	8000926
 8000927	大悲忏	大悲懺	dà bēi chàn	Great Compassion Repentance Ceremony	proper noun	忏法	Repentance Ceremony	佛教	Buddhism	\N	\N	\N	\N	See 大悲懺法會 (FoguangPedia; Sheng 2020, p. 326)	8000927
-8000928	千手千眼观世音菩萨	千手千眼觀世音菩薩	iān Shǒu Qiān Yǎn Guānshìyīn Púsà	Thousand Hand Thousand Eye Avalokitesvara Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音'; SH '千手', p. 81)	8000928
+8000928	千手千眼观世音菩萨	千手千眼觀世音菩薩	iān Shǒu Qiān Yǎn guānshìyīn Púsà	Thousand Hand Thousand Eye Avalokitesvara Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音'; SH '千手', p. 81)	8000928
 8000929	千手	\N	qiānshǒu	Thousand Hand [Avalokitesvara]	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (SH '千手', p. 81)	8000928
 8000930	千手观音	千手觀音	qiān shǒu guānyīn	Thousand-Hand Guanyin; Thousand-Hand Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(FGDB '千手觀音'; Hsing Yun and Miao Guang trans. 2016, p. 374)	8000930
 8000931	千手千眼观音	千手千眼觀音	qiān shǒu qiān yǎn guānyīn	Thousand-Hand Thousand-Eye Guanyin; Thousand-Hand Thousand-Eye Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 千手觀音 (FGDB '千手觀音')	8000931
@@ -938,7 +938,7 @@
 8000938	智慧	\N	zhìhuì	knowledge; jñāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jñāna, Pali: ñāṇa, Tibetan: blo gros (Ding '智慧'; Edgerton 1953 'jñāna', p. 244; FGDB '智慧'; SH '智慧', p. 134; Mahāvyutpatti 'matiḥ'; MW 'jñāna')	8000938
 8000939	蒲团	蒲團	pútuán	meditation mat; rush cushion	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '蒲團'; FGDB '蒲團', p. 428; SH '蒲團')	8000939
 8000940	中道	\N	zhōng dào	the middle way	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: madhyamāpratipad, Pali: majjhimāpaṭipadā, Japanese: chūdō, Tibetan: dbu ma'i lam; the middle way is a view that avoids the extremes of permanence and annihilation (BL 'madhyamāpratipad'; FGDB '中道'; SH '中道', p. 111)	8000940
-8000941	根本说一切有部毗奈耶	根本說一切有部毗奈耶	Gēnběn Shuō Yīqiè Yǒu bù Pínàiyē	Mula-sarvastivada-vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根本說一切有部戒經 (FGDB '根本說一切有部戒經')	8000941
+8000941	根本说一切有部毗奈耶	根本說一切有部毗奈耶	Gēnběn Shuō yīqiè Yǒu bù Pínàiyē	Mula-sarvastivada-vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 根本說一切有部戒經 (FGDB '根本說一切有部戒經')	8000941
 8000942	根尘	根塵	gēnchén	the six roots and the six dusts	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The six roots are eyes, ears, nose, tongue, body, and mind.  The six dusts are form, sound, scent, taste, tangibles, and actions (FGDB '根塵'; SH '根塵', p. 327).	8000942
 8000943	杀生戒	殺生戒	shāshēng jiè	precept against killing	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '殺生戒'; FGDB '殺生戒'; SH '不殺生', p. 107)	8000943
 8000944	尘劳	塵勞	chénláo	afflictions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '塵勞')	8000944
@@ -989,7 +989,7 @@
 8000989	坐禅法要	坐禪法要	zuòchán fǎyào	Essential Methods of Meditation	proper noun	书	Book	佛教	Buddhism	\N	\N	\N	\N	A text attributed to Zhi Yi; abbreviation for 修習止觀坐禪法要 (FGDB '小止觀'; T 1915)	8000989
 8000990	斋教	齋教	zhāijiāo	Zhaijiao sect of Buddhism	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '齋教'; Wikipedia '齋教')	8000990
 8000991	童蒙止观	童蒙止觀	tóngmēng zhǐ guān	Shamatha-Vipashyana for Beginners	proper noun	书	Book	佛教	Buddhism	禅宗	Chan	\N	\N	A text attributed to Zhi Yi; abbreviation for 修習止觀坐禪法要 (FGDB '小止觀'; T 1915)	8000991
-8000992	起信论	起信論	Qǐ Xìn Lùn	Treatise on the Awakening of Faith in the Mahāyāna; Dasheng Qixin Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 大乘起信論 (FGDB '大乘起信論'; T 1666; T 1667)	8000992
+8000992	起信论	起信論	Qǐ Xìn lùn	Treatise on the Awakening of Faith in the Mahāyāna; Dasheng Qixin Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	See 大乘起信論 (FGDB '大乘起信論'; T 1666; T 1667)	8000992
 8000993	起信	\N	qǐ xìn	the awakening of faith	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As in 起信論 Awakening of Faith; see 大乘起信論 (FGDB '大乘起信論'; T 1666; T 1667)	8000993
 8000994	大乘起信论	大乘起信論	dàshèng qǐxìn lùn	Treatise on the Awakening of Faith in the Mahāyāna; Dasheng Qixin Lun	proper noun	典籍	Canonical Text	佛教	Buddhism	中国	China	\N	\N	Reconstructed Sanskrit equivalent: Mahāyānaśraddhotpādaśāstra; Japanese: Daijō kishiron; the title of a text in the Chinese Buddhist canon, attributed to 馬鳴 Aśvaghoṣa but now thought to be composed in China. There are two Chinese translations in the Chinese Buddhist canon, T 1666 by 真諦 Paramārtha in the Liang and T 1667 by Śiksānanda in the Tang (BL 'Dasheng qixin lun'; FGDB '大乘起信論'; KDC 616; T 1666; T 1667)	8000994
 8000995	折伏	\N	zhéfú	to refute	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, in the 折伏有因論 'to refute doctrines of causation' (Red Pine 2012, loc. 4299; T 670.0507b26)	8000995
@@ -1149,7 +1149,7 @@
 8001149	共许法	共許法	gòng xǔ fǎ	commonly admitted dharma; commonly agreed upon object	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An item that both parties in a debate agree to, in Buddhist logic (FGDB '共許法')	8001149
 8001150	立敌共许法	立敵共許法	lì dí gòng xǔ fǎ	commonly admitted dharma, as established with the opponent	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 共許法 (FGDB '共許法')	8001150
 8001151	本生经	本生經	běn shēng jīng	Jātaka Story; Jātaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 本生 (FGDB '本生經')	8001151
-8001152	七佛	\N	Qī fó	Seven Buddhas; Seven Past Buddhas; Seven Manushi Buddhas ／ saptatathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptatathāgata; Pali: sattatathāgata; Japanese: shichibutsu, or: kako shichibutsu; Tibetan: de bzhin gshegs pa bdun. Sakyamuni and the previous six Buddhas.  They are: 毗卢尸佛 Vipasyin, 尸棄佛 Sikhin, 毗舍浮佛 Visvabhu, 拘留孫佛 Krakucchanda, 拘那含牟尼佛 Kanakamuni, 迦葉佛 Kasyapa, 釋迦牟尼 Sakyamuni (BL 'saptatathāgata', p. 776; FGDB '七佛')	8001152
+8001152	七佛	\N	qī fó	Seven Buddhas; Seven Past Buddhas; Seven Manushi Buddhas ／ saptatathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptatathāgata; Pali: sattatathāgata; Japanese: shichibutsu, or: kako shichibutsu; Tibetan: de bzhin gshegs pa bdun. Sakyamuni and the previous six Buddhas.  They are: 毗卢尸佛 Vipasyin, 尸棄佛 Sikhin, 毗舍浮佛 Visvabhu, 拘留孫佛 Krakucchanda, 拘那含牟尼佛 Kanakamuni, 迦葉佛 Kasyapa, 釋迦牟尼 Sakyamuni (BL 'saptatathāgata', p. 776; FGDB '七佛')	8001152
 8001153	同许	同許	tóngxǔ	commonly admitted [dharma]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 共許法 (FGDB '共許法')	8001153
 8001154	伽蓝	伽藍	qiēlán	sangharama; samgharama; temple; monastery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghārāma (BL 'ārāma', p. 61; FGDB '伽藍'; SH '伽藍', p. 225)	8001154
 8001155	僧伽蓝摩	僧伽藍摩	sēngjiālánmó	sangharama; samgharama; samghārama; temple; monastery	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃghārāma; see 伽藍 (FGDB '伽藍')	8001155
@@ -1224,7 +1224,7 @@
 8001224	毗诃罗窟	毗訶羅窟	píhēluókū	a vihara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra; see 精舍 (FGDB '精舍')	8001224
 8001225	支提	\N	zhītí	a caitya; a chaitya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: caitya, Pali: cetiya, Japanese: shidai, Tibetan: mchod rten; a cave or shrine including or housing a stupa (BL 'caitya'; FGDB '支提'; SH '支提', p. 152)	8001225
 8001226	密特那	\N	mìténà	Mithuna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithuna; used in Tantra for ritual intercourse (FGS Encyclopedia of Buddhist Arts; Wikipedia 'Maithuna')	8001226
-8001227	七叶窟	七葉窟	Qīyè kū	Saptaparni Cave	proper noun	石窟	Cave	佛教	Buddhism	印度	India	\N	\N	A cave in Bihar, India (FGS Encyclopedia of Buddhist Arts)	8001227
+8001227	七叶窟	七葉窟	qīyè kū	Saptaparni Cave	proper noun	石窟	Cave	佛教	Buddhism	印度	India	\N	\N	A cave in Bihar, India (FGS Encyclopedia of Buddhist Arts)	8001227
 8001228	调伏	調伏	tiáofú	tame; to mediate between physical, verbal, and mental karma and overcome evil	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	To lead people away from evil (Ding '調伏'; FGDB '調伏'; SH '調伏'; Karashima 2001 '調伏'; Kieschnick and Wiles 2017, vol. 1, p. 41; T 1)	8001228
 8001229	刹帝山窟	剎帝山窟	shādìshān kū	Saptaparni Cave	proper noun	石窟	Cave	佛教	Buddhism	印度	India	\N	\N	A cave in Bihar, India (FGS Encyclopedia of Buddhist Arts)	8001229
 8001230	七叶岩	七葉巖	qīyè yán	Saptaparni Cave	proper noun	石窟	Cave	佛教	Buddhism	印度	India	\N	\N	A cave in Bihar, India (FGS Encyclopedia of Buddhist Arts)	8001230
@@ -1238,7 +1238,7 @@
 8001238	佛教八宝	佛教八寶	fójiào bābǎo	eight Buddhist treasures	phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	See 八吉祥 (FGDB '八吉祥')	8001238
 8001239	八宝	八寶	bābǎo	eight Buddhist treasures; ashtamangala	phrase	\N	\N	佛教	Buddhism	\N	\N	bajixiangwen_baoyueping400.jpg	\N	See 八吉祥 (FGDB '八吉祥')	8001239
 8001240	五分律	\N	Wǔ Fēn lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Mahīśāsakavinaya; precepts for monastics (FGDB '五分律'; Hsing Yun 2010, p. 3; KDC 895; SH '五分律', p. 114; T 1421)	8001240
-8001241	弥沙塞部五分律	彌沙塞部和醯五分律	Míshāsāibù Wǔ Fēn lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 五分律 (KDC 895; T 1421)	8001241
+8001241	弥沙塞部五分律	彌沙塞部和醯五分律	míshāsāibù Wǔ Fēn lǜ	Five Part Vinaya; Mahīśāsakavinaya	proper noun	典籍	Canonical Text	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 五分律 (KDC 895; T 1421)	8001241
 8001242	四分律	\N	sì fēn lǜ	Dharmaguputakavinaya; Four Part Vinaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Shibunritsu; a text in the Chinese Buddhist canon, a Chinese translation of the 法藏部 Dharmaguptaka (BL 'Sifen lü'; FGDB '四分律'; KDC 896; T 1428)	8001242
 8001243	宗法	\N	zōngfǎ	property of the position; pakṣadharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pakṣadharma, Japanese: shūhō, Tibetan: phyogs chos; a term in Buddhist logic (BL 'pakṣadharma'; FGDB '宗法')	8001243
 8001244	所立	\N	suǒlì	thesis; property being proven; sādhyadharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhyadharma, Japanese: shoryū, Tibetan: sgrub bya'i chos; a term in Buddhist logic describing the object that is to be established (BL 'sādhyadharma', p. 732-733; FGDB '所立'; SH '所立', p. 260)	8001244
@@ -1321,7 +1321,7 @@
 8001321	因缘故事	因緣故事	yīnyuán gùshi	a Jataka Story	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 本生 (FGDB '本生經')	8001321
 8001322	端坐	\N	duānzuò	to sit in a posture for meditation	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '端坐')	8001322
 8001323	大势至	大勢至	dàshìzhì	Mahasthamaprapta Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsthāmaprāpta; see 大勢至菩薩 (Tzu Chuang 2012)	8001323
-8001324	四大佛教名山	\N	sìdà fójiào Míng shān	Four Sacred Mountains of Buddhism	phrase	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mount Putuo 普陀山, Mount Wutai 五台山, Mount Emei 峨眉山, and Mount Jiuhua 九华山 (Wikipedia '四大佛教名山')	8001324
+8001324	四大佛教名山	\N	sìdà fójiào míng shān	Four Sacred Mountains of Buddhism	phrase	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Mount Putuo 普陀山, Mount Wutai 五台山, Mount Emei 峨眉山, and Mount Jiuhua 九华山 (Wikipedia '四大佛教名山')	8001324
 8001325	宝树	寶樹	bǎoshù	jeweled trees; forest of treasues	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnavṛkṣa; refers to trees in Buddha lands (FGDB '寶樹'; Inagaki and Stewart 1995, p. 70; Karashima 2001, p. 50; SH '寶樹', p. 477; T 365)	8001325
 8001326	宝树	寶樹	bǎoshù	a kalpa tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A tree that lives for a very long time and can grow clothes and jewellery (FGDB '寶樹')	8001326
 8001327	劫波树	劫波樹	jiébō shù	a kalpa tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 寶樹 (FGDB '寶樹')	8001327
@@ -1336,7 +1336,7 @@
 8001336	末尼	\N	mòní	mani; jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇi; see 摩尼 (FGDB '摩尼')	8001336
 8001337	摩尼	\N	móní	mani; jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: maṇi, Japnese: mani, Tibetan: nor bu; term for jewel or gem; part of the chant 'Om mani padme hum' (BL 'maṇi'; FGDB '摩尼'; SH '摩尼', p. 435)	8001337
 8001338	一柱门	一柱門	yī zhù mén	iljumun	noun	\N	\N	佛教	Buddhism	韩国	South Korea	\N	\N	Hangul: 일주문; Revised Romanization: Iljumun; the first entrance to many Korean Buddhist temples (FGS Encyclopedia of Buddhist Arts)	8001338
-8001339	三宝寺刹	三寶寺刹	sān Bǎo sì shā	Three Jewel Temples of Korea	proper noun	\N	\N	佛教	Buddhism	韩国	South Korea	\N	\N	Hangul: 삼보사찰; Revised Romanization: Sambosachal; 1. Tongdosa, 2. Haeinsa, 3. Songgwangsa (Wikipedia 'Three Jewels Temples')	8001339
+8001339	三宝寺刹	三寶寺刹	sān bǎo sì shā	Three Jewel Temples of Korea	proper noun	\N	\N	佛教	Buddhism	韩国	South Korea	\N	\N	Hangul: 삼보사찰; Revised Romanization: Sambosachal; 1. Tongdosa, 2. Haeinsa, 3. Songgwangsa (Wikipedia 'Three Jewels Temples')	8001339
 8001340	摩尼宝珠	摩尼寶珠	móní bǎozhū	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意寶珠 (FGDB '如意寶珠')	8001340
 8001341	如意珠	\N	rúyì zhū	mani jewel	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 如意寶珠 (FGDB '如意寶珠')	8001341
 8001342	取相惑	\N	qǔ xiāng huò	the delusion of being attached to forms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三惑 (FGDB '取相惑'; Ichishima and Chappell 2013, p. 176; SH '三惑', p. 65; T 1931)	8001342
@@ -1688,10 +1688,10 @@
 8001688	比丘尼寺	\N	bǐqiūnísì	nunnery	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼寺 (FGDB '尼寺')	8001688
 8001689	有为	有為	yǒuwèi	conditioned; samskrta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃskṛta, Pali: saṅkhata, or: saṃkhata, Japanese: ui, Tibetan: 'dus byas; subject to causes and conditions; contrast with asaṃskṛta 無為 unconditioned (BL 'saṃskṛta'; Dhammajoti 2013, p. 9; Edgerton 1953 'samskrta', p. 543; FGDB '有為'; Mahāvyutpatti 'saṃskṛtam': MW 'saṃskṛta'; SH '有爲', p. 214)	8001689
 8001690	那由他	\N	nàyóutā	a nayuta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ancient Indian unit of time or a large number (FGDB '姟')	8001690
-8001691	师子奋迅具足万行如来	師子奮迅具足萬行如來	Shīzǐ fèn xùn jùzú Wàn Xíng Rúlái	Swift Lion Myriad Accomplishment Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8001691
+8001691	师子奋迅具足万行如来	師子奮迅具足萬行如來	shīzǐ fèn xùn jùzú Wàn Xíng rúlái	Swift Lion Myriad Accomplishment Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Mentioned in the Ksitigarbha Bodhisattva Sutra (T 412, Scroll 1)	8001691
 8001692	释氏	釋氏	shì shì	Sakya clan	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śākya, Pali: sākiya, Japanese: Shaka, Tibetan: shākya; name of the Indian clan that Śākyamuni Buddha was born into (BCSD '釋氏', p. 1177; BL 'Śākya', p. 741; FGDB '釋氏'; SH '釋氏', p. 482)	8001692
 8001693	倒退三千	\N	dào tuì sān qiān	fall back three thousand li	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Quote: a Chan saying referring to retreat in battle, for example in Koan 2 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 19; T 2003, Scroll 1; FGDB '倒退三千')	8001693
-8001694	南方宝生部主宝生佛	南方寶生部主寶生佛	Nánfāng Bǎo Shēng bù Zhǔ Bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 寶生 (FGDB '寶生佛')	8001694
+8001694	南方宝生部主宝生佛	南方寶生部主寶生佛	nánfāng bǎo Shēng bù Zhǔ bǎoshēng fó	Ratnasambhava Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 寶生 (FGDB '寶生佛')	8001694
 8001695	妙音乐天	妙音樂天	miào yīn lè tiān	Sarasvati Devi; Saraswati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙音天 (SH '妙音天', p. 236)	8001695
 8001696	阿迦尼吒天	\N	ājiānízhà tiān	Akanistha Heaven	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha, Pali: akaniṭṭha, Japanese: shikikukyōten, Tibetan: 'og min; the highest, or eighteenth of the heavens of form (BL 'Akaniṣṭha', p. 25; Eitel 'Akaniṣṭha', p. 6; FGDB '阿迦尼吒天'; SH '阿迦尼吒', p. 292)	8001696
 8001697	阿迦尼瑟吒	\N	ājiānísèzhà	Akanistha	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akaniṣṭha; see 阿迦尼吒天 (Eitel 'Akanichṭha', p. 6)	8001697
@@ -1700,11 +1700,11 @@
 8001700	虚空孕	虛空孕	xūkōngyùn	akasagarbha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ākāśagarbha, Japanese: Kokūzō bosatsu, Tibetan: Nam mkha'i snying po; the name of a bodhisattva, literally meaning the 'womb of space' (BL 'Ākāśagarbha', p. 26; SH '虛空孕')	8001700
 8001701	妙音天	\N	miào yīn tiān	Sarasvati Devi; Saraswati	proper noun	女神	Goddess	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Sarasvatī-devī; the goddess of knowledge, music, arts and science (SH '妙音天', p. 236)	8001701
 8001702	护世四天王	護世四天王	hù shì sì tiānwáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四天王 (FGDB '護世四天王')	8001702
-8001703	护国四王	護國四王	Hù Guó sì wáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四天王 (FGDB '護世四天王')	8001703
+8001703	护国四王	護國四王	Hù guó sì wáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四天王 (FGDB '護世四天王')	8001703
 8001704	四王	\N	sì wáng	Four Deva Kings; Four Heavenly Kings	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四天王 (FGDB '護世四天王')	8001704
 8001705	圆满	圓滿	yuánmǎn	perfect; complete; paripūrṇa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: paripūrṇa (FGDB '圓滿')	8001705
 8001706	宝幢	寶幢	bǎochuáng	a Buddhist ensign or banner	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnaketu; see 幢 (FGDB '幢')	8001706
-8001707	大光明殿	\N	dà Guāng Míng Diàn	Myeongbu-jeon; Myeongbu Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A common structure in Korean Buddhist temples (FGS Encyclopedia of Buddhist Arts)	8001707
+8001707	大光明殿	\N	dà guāng míng diàn	Myeongbu-jeon; Myeongbu Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A common structure in Korean Buddhist temples (FGS Encyclopedia of Buddhist Arts)	8001707
 8001708	随喜	隨喜	suíxǐ	anumodana; admiration	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anumodana, Pali: same; taking delight in other people's virtuous acts (BL 'anumodana', p. 52; FGDB '隨喜')	8001708
 8001709	梵天王	\N	fàntiān wáng	Brahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahmā, or: brahman, or: prajāpati, Japanese: Bonten, Tibetan: tshangs pa; Indian god who appears in both Brahmanic and Buddhist texts (BCSD '梵天王', p. 656; BL 'Brahmā', pp. 141-142; FGDB '梵天王'; MW 'prajāpati'; SH '梵天王', p. 353)	8001709
 8001710	持午	\N	chí wǔ	no eating after noontime	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '持午')	8001710
@@ -1738,7 +1738,7 @@
 8001738	曷怙罗	曷怙羅	héhùluó	Rahula	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 羅睺羅 (SH '羅睺羅', p. 472)	8001738
 8001739	何怙罗	何怙羅	héhùluó	Rahula	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 羅睺羅 (SH '羅睺羅', p. 472)	8001739
 8001740	经堂	經堂	jīng táng	sūtra repository; sūtra hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 經藏 (FGDB '經藏')	8001740
-8001741	毗沙门	毗沙門	Pí shā Mén	Vaisramana; Vaisravana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Vaiśravaṇa; see 多聞天 (FGDB '毘沙門天王')	8001741
+8001741	毗沙门	毗沙門	Pí shā mén	Vaisramana; Vaisravana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Vaiśravaṇa; see 多聞天 (FGDB '毘沙門天王')	8001741
 8001742	加沙	\N	jiāshā	kasaya; kaṣāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṣāya; see 袈裟 (FGDB '袈裟')	8001742
 8001743	金刚舞菩萨	金剛舞菩薩	jīngāng Wǔ Púsà	Vajranrti Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	(FGDB '金剛舞菩薩')	8001743
 8001744	悉昙	悉曇	xītán	an adept; a scholar-monk; siddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: siddha, Tibetan: grub thob (BL 'siddha', p. 816; Powers 2007, p. 255; SH '悉曇', p. 350)	8001744
@@ -1748,7 +1748,7 @@
 8001748	佛母	\N	fómǔ	Prajñāpāramitā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛母' 2; SH '佛母', p. 228)	8001746
 8001749	佛母	\N	fómǔ	Dharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛母' 3; SH '佛母', p. 228)	8001746
 8001750	妙音佛母	\N	Miàoyīn fómǔ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001750
-8001751	叶衣佛母	葉衣佛母	Yè Yī fómǔ	Parnashavari	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8001751
+8001751	叶衣佛母	葉衣佛母	Yè yī fómǔ	Parnashavari	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGS Encyclopedia of Buddhist Arts)	8001751
 8001752	莲台	蓮台	lián tái	lotus throne	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also written 蓮臺 (FGDB '蓮臺')	8001752
 8001753	大梵天	\N	dà fàntiān	Mahabrahma; Mahābrahmā; Brahmā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahābrahmā, Japanese: Daibonten (BL 'mahābrahmā', p. 494; Ding '大梵天'; Tzu Chuang 2012; FGDB '大梵天'; SH '大梵天', p. 91)	8001753
 8001754	大辩才女	大辯才女	dàbiàn cáinǚ	Sarasvati	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarasvatī; see 辯才天 (SH '大辯天', p. 95)	8001754
@@ -1787,7 +1787,7 @@
 8001787	大成就	\N	dà chéngjiù	dzogchen; great perfection	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Tibetan: rdzogs chen; see 大圆满 (Wikipedia '大圆满')	8001787
 8001788	贪瞋痴	貪瞋癡	tān chēn chī	desire, anger, and ignorance; three poisons	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三毒 (FGDB '三毒')	8001788
 8001789	回互不回互	\N	huí hù bù huí hù	interacting with one another yet not interacting	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mixture of Chan ideas from different schools (Guoyu '回互不回互'; Daoyuan and Whitfield, R tr. 2020, vol. 8, p. 103; T 2076, Scroll 30)	8001789
-8001790	三十七道品	\N	sān shí Qī dào pǐn	bodhipakkhiyadhamma; thirty-seven qualities related to enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Bodhipakkhiyādhammā, or: bodhipākṣikadharma; qualities (dhammā) conducive or related to enlightenment (BL 'bodhipākṣikadharma', p. 133; FGDB '三十七道品'; SH '三十七道品', p. 61)	8001790
+8001790	三十七道品	\N	sān shí qī dào pǐn	bodhipakkhiyadhamma; thirty-seven qualities related to enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Bodhipakkhiyādhammā, or: bodhipākṣikadharma; qualities (dhammā) conducive or related to enlightenment (BL 'bodhipākṣikadharma', p. 133; FGDB '三十七道品'; SH '三十七道品', p. 61)	8001790
 8001791	三十七分法	\N	sānshíqī fēn fǎ	thirty-seven qualities [related to enlightenment]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001791
 8001792	三十七品	\N	sānshíqī pǐn	thirty-seven qualities [related to enlightenment]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001792
 8001793	三十七菩提分法	\N	sān shí qī pútí fēn fǎ	Bodhipakkhiyadhamma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001793
@@ -1943,7 +1943,7 @@
 8001943	具三真实母	具三真實母	Jù sān Zhēnshí Mǔ	De-ñid gsum-rnam bkod-pa	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Tibetan: De-ñid gsum-rnam bkod-pa; one of the 21 forms of Tara, see 多羅菩薩 (FGDB '多羅菩薩')	8001943
 8001944	观顶遵胜救度	觀頂遵勝救度	guān dǐng zūn shèng jiùdù	Usnisa Tara	proper noun	度母	Tara	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: uṣṇīṣatārā; see 觀頂遵勝救度度母 (Chandra and Bunce 2002, pp. 428-429; T 1108A, Scroll 1)	8001944
 8001945	药师琉璃光佛	藥師琉璃光佛	yàoshī liúlí guāng fó	Medicine Buddha; the Medicine Buddha of Pure Crystal Radiance	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	duobaota_buddha_east400.jpg	\N	Sanskrit equivalent: bhaiṣajyaguruvaiḍūryaprabhārāja; see 藥師佛 (FGDB '藥師佛')	8001945
-8001946	药师琉璃光如来	藥師琉璃光如來	Yàoshī Liúlí Guāng Rúlái	Medicine Buddha; the Medicine Buddha of Pure Crystal Radiance	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	duobaota_buddha_east400.jpg	\N	Sanskrit equivalent: bhaiṣajyaguruvaiḍūryaprabhārāja; see 藥師佛 (FGDB '藥師佛')	8001946
+8001946	药师琉璃光如来	藥師琉璃光如來	Yàoshī Liúlí guāng rúlái	Medicine Buddha; the Medicine Buddha of Pure Crystal Radiance	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	duobaota_buddha_east400.jpg	\N	Sanskrit equivalent: bhaiṣajyaguruvaiḍūryaprabhārāja; see 藥師佛 (FGDB '藥師佛')	8001946
 8001947	日光菩萨	日光菩薩	rìguāng púsà	Suryaprabha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūryaprabha; one of the Medicine Buddha's two attendants (BL 'Bhaiṣajyaguru', pp. 108-109; FGDB '日光菩薩'; SH '日光', p. 155; Wikipedia '日光菩薩')	8001947
 8001948	日曜菩萨	日曜菩薩	rìyào púsà	Suryaprabha Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūryaprabha; see 日光菩薩 (FGDB '日光菩薩')	8001948
 8001949	月光菩萨	月光菩薩	yuèguāng púsà	Candraprabha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: candraprabha; one of the Medicine Buddha's two attendants (BL 'Bhaiṣajyaguru', pp. 108-109; FGDB '月光菩薩'; SH '月光菩薩', p. 156; Wikipedia '月光菩薩')	8001949
@@ -2007,7 +2007,7 @@
 8002007	金刚界	金剛界	jīngāng jiè	kongōkai; vajradhatu; diamond realm	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajradhātu, Japanese: kongōkai, Tibetan: rdo rje dby ings; one of the two maṇḍalas used in Esoteric Buddhism, the other being 胎藏界 'taizōkai' (BL 'kongōkai', pp. 441-442; FGDB '金剛界'; SH '金剛界', p. 282; Sharf 2005, p. 265)	8002007
 8002008	金刚界五智如来	金剛界五智如來	jīngāng jiè wǔ zhì rúlái	Five Wisdom Buddhas of the Diamond Realm	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 五智如來 (FGDB '五智如來')	8002008
 8002009	五方佛	\N	Wǔ Fāng fó	Buddhas of the Five Directions	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 五智如來 (FGDB '五智如來')	8002009
-8002010	阿閦如来	阿閦如來	āchù Rúlái	Aksobhya Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8002010
+8002010	阿閦如来	阿閦如來	āchù rúlái	Aksobhya Tathagata	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: akṣobhya; see 阿閦佛 (FGDB '阿閦佛')	8002010
 8002011	五佛	\N	wǔ fó	Five Dhyani Buddhas; Five Wisdom Buddhas	proper noun	\N	\N	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	See 五智如來 (BL 'five buddhas'; FGDB '五佛')	8002011
 8002012	摩伽罗	摩伽羅	mójiāluó	makara	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: makara; see 摩竭魚 (SH '摩竭', p. 436)	8002012
 8002013	金刚菩萨	金剛菩薩	jīngāng púsà	Vajrasattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	密教	Esoteric Buddhism	\N	\N	Sanskrit equivalent: vajrasattva; see 金剛薩埵 (FGDB '金剛薩埵')	8002013
@@ -2070,8 +2070,8 @@
 8002070	三达	三達	sān dá	three insights; trividya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trividyā; see 三明 (FGDB '三明')	8002070
 8002071	三证法	三證法	sān zhèngfǎ	three insights; trividya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trividyā; see 三明 (FGDB '三明')	8002071
 8002072	三慧	\N	sān huì	three kinds of wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tisrah prajñā, Tibetan: shes rab rnam pa gsum gyi ming la; 1. 聞慧 wisdom acquired from listening, 2. 思慧 wisdom acquired from reflection, and 3. 修慧 wisdom acquired from cultivation (BL, p. 1068; Ding '三慧'; Tzu Chuang 2012, pp. 388-390; FGDB '三慧'; Mahāvyutpatti 'trividhāḥ prajñāḥ'; SH '三慧', p. 65)	8002072
-8002073	明慧	\N	Míng Huì	the three insights and the three enlightenments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	三明與三慧 (Ding '明慧'; FGDB '明慧'; SH '明慧', p. 262)	8002073
-8002074	明慧菩萨	明慧菩薩	Míng Huì Púsà	Ming Hui Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(T 1177A, Scroll 6)	8002074
+8002073	明慧	\N	míng Huì	the three insights and the three enlightenments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	三明與三慧 (Ding '明慧'; FGDB '明慧'; SH '明慧', p. 262)	8002073
+8002074	明慧菩萨	明慧菩薩	míng Huì Púsà	Ming Hui Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(T 1177A, Scroll 6)	8002074
 8002075	阿僧祇	\N	āsēngzhǐ	asamkhyeya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃkhyeya, Pali: asaṅkheyyakappa, Japanese: asōgikō, Tibetan: bskal pa grangs med pa; an incalculablly long kalpa, mentioned in the Avatamsaka Sutra (BL 'asaṃkhyeyakalpa', p. 68; Ding '阿僧祇'; FGDB '阿僧祇'; SH '阿僧祇', p. 265)	8002075
 8002076	胜义	勝義	shèngyì	beyond description; surpassing worldy ideas; superlative; inscrutable	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Impossible to understand or interpret; impenetrable (FGDB '勝義'; SH '勝義', . 367)	8002076
 8002077	善行步执金刚	善行步執金剛	shànxíngbù zhíjīngāng	Vicitracārin vajradhara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A deity mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” (Giebel 2005, p. 3; T 848, Scroll 1, 18.0001a09)	8002077
@@ -3815,7 +3815,7 @@
 8003815	入胎	\N	rùtāi	Entry into the womb; to be conceived from Heaven	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: garbhāvakrānti; see 托胎 (BCSD '入胎')	8003815
 8003816	法起菩萨	法起菩薩	fǎqǐ púsà	Dharmodgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmodgata, Japanese: Hōki bosatsu; a bodhisattva mentioned in the Avataṃsaka sūtra (BL 'Dharmodgata', p. 254)	8003816
 8003817	回峰行	\N	huífēng xíng	kaihōgyō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	An ascetic practice associated with Shugendō (BL 'kaihōgyō', p. 403; FGDB '回峰'; Wikipedia 'Kaihōgyō')	8003817
-8003818	如来藏	如來藏	Rúlái Zàng	Buddha-nature; Buddha-dhatu; Buddha Principle; Tathāgatagarbha	noun	\N	\N	佛教	Buddhism	Mahāyāna Buddhism	大乘佛教	\N	\N	Sanskrit equivalent: tathāgatagarbha; Japanese: nyoraizō (BL 'tathāgatagarbha', pp. 897-898; FGDB '如來藏')	8003818
+8003818	如来藏	如來藏	rúlái zàng	Buddha-nature; Buddha-dhatu; Buddha Principle; Tathāgatagarbha	noun	\N	\N	佛教	Buddhism	Mahāyāna Buddhism	大乘佛教	\N	\N	Sanskrit equivalent: tathāgatagarbha; Japanese: nyoraizō (BL 'tathāgatagarbha', pp. 897-898; FGDB '如來藏')	8003818
 8003819	回峰	\N	huífēng	kaihōgyō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 回峰行 (FGDB '回峰')	8003819
 8003820	日莲宗	日蓮宗	rìliánzōng	Nichiren sect	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	School of Japanese Buddhism (FGDB '日蓮宗'; Wikipedia '日蓮宗'; Williams 2009, pp. 165-171)	8003820
 8003821	增壹阿含经	增壹阿含經	zēng yī āhán jīng	Ekottara Āgama; Ekottarāgama	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 增一阿含經 (Wikipedia '增一阿含經')	8003821
@@ -4411,14 +4411,14 @@
 8004411	四果	\N	sìguǒ	four fruits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The four fruits of being a śrāvaka: 1. 預流果 srotāpanna, 2. 一來果 sakṛdāgāmi, 3. 不還果 anāgāmin, and 4. 阿羅漢 Arhat (FGDB '四果')	8004411
 8004412	佛陀十号	佛陀十號	fótuó shí hào	the ten epithets of the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十號 (Tzu Chuang 2012, p. 201)	8004412
 8004413	十号	十號	shí hào	the ten names of the Tathāgata; the ten epithets of the Tathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are eleven commonly used epithets (1) Thus-Come One; Tathagata 如来 (2) Worthy One 应供 (3) Truly All-Knowing 正遍知 (4) Perfect in Knowledge and Conduct 明行足 (5) Well-Gone 善逝 (6) Knower of the World 世间解 (7) Unsurpassed 无上士 (8) Tamer 调御丈夫 (9) Teacher of Heavenly and Human Beings 天人师 (10) Buddha; Awakened One 佛 (11) World-Honored One 世尊 (Ding '十號'; FGDB '十號'; SH '十號'; Tzu Chuang 2012, p. 201)	8004413
-8004414	如來十号	如來十號	Rúlái shí hào	the ten names of the Tathāgata; the ten epithets of the Tathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十號 (FGDB '十號')	8004414
+8004414	如來十号	如來十號	rúlái shí hào	the ten names of the Tathāgata; the ten epithets of the Tathāgata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十號 (FGDB '十號')	8004414
 8004415	十种通号	十種通號	shí zhǒng tōng hào	the ten names of the Buddha; the ten epithets of the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十號 (FGDB '十號')	8004415
 8004416	正遍知	\N	zhèng biàn zhī	Truly All-Knowing; Knower of the world; the Buddha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the ten epithets of the Buddha 佛陀十号; FGS translation standard: Truly All-Knowing (Tzu Chuang 2012, p. 203)	8004416
 8004417	明行足	\N	míng xíng zú	Perfect in Knowledge and Conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vidyācaraṇasaṃpanna, Tibetan: rig pa dang zhabs su ldan pa; one of the ten epithets of the Buddha 佛陀十号 (Mahāvyutpatti 'vidyācaraṇasaṃpannaḥ'; SH '明行足', p. 263; Tzu Chuang 2012, p. 203)	8004417
 8004418	无上士	無上士	wúshàng shì	unsurpassed one	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anuttara, Tibetan: bla na med pa; one of the ten epithets of the Buddha 佛陀十号 (Mahāvyutpatti 'anuttaraḥ'; FGDB '無上士'; SH '無上士', p. 377; Tzu Chuang 2012, p. 204)	8004418
 8004419	调御丈夫	調禦丈夫	tiáo yù zhàngfu	Tamer	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the ten epithets of the Buddha 佛陀十号 (Tzu Chuang 2012, p. 204)	8004419
 8004420	六字陀罗尼	六字陀羅尼	liù zì tuóluóní	Mantra of Six Syllables; Om mani padme hum	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: Oṃ maṇi padme hūṃ, Chinese transliteration: 嗡嘛呢叭咩吽, also known as the six syllabled mantra (FGDB '六字陀羅尼')	8004420
-8004421	六字洪名	\N	liù zì hóng Míng	Namo Amitofo	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '六字名號'; Tzu Chuang 2012, pp. 205-206)	8004421
+8004421	六字洪名	\N	liù zì hóng míng	Namo Amitofo	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '六字名號'; Tzu Chuang 2012, pp. 205-206)	8004421
 8004422	六师外道	六師外道	liù shī wài dào	Six Non-Buddhist schools	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二三 (Tzu Chuang 2012, pp. 212-215)	8004422
 8004423	四事供养	四事供養	sì shì gōngyǎng	the four offerings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(1) Food and drink 饮食 (2) clothing 衣服 (3) bedding 卧具 (4) medicine 汤药 (Tzu Chuang 2012, pp. 219-221)	8004423
 8004424	如意	\N	rúyì	pleasing; at will	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: manojñā, Tibetan: yid du 'ong ba (BCSD '如意', p. 352; FGDB '如意'; Mahāvyutpatti 'manojñā'; MW 'manojñā')	8004424
@@ -4841,7 +4841,7 @@
 8004841	开祖	開祖	kāizǔ	founder of a school	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '開祖', p. 393)	8004841
 8004842	大雄殿	\N	dà xióng diàn	Main Shrine; Hall of the Great Heros; Mahavira Hall	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大雄寶殿 (FGDB '大雄寶殿')	8004842
 8004843	大地狱	大地獄	dà dìyù	great hell; Avici Hell	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '八大地獄', p. 35)	8004843
-8004844	光目	\N	Guāng Mù	Bright Eyes	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Character in the Kṣitigarbha Sutra (T 412, Scroll 1)	8004844
+8004844	光目	\N	guāng Mù	Bright Eyes	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Character in the Kṣitigarbha Sutra (T 412, Scroll 1)	8004844
 8004845	六时礼拜	六時禮拜	liùshí lǐbài	to worship all day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '六時禮拜')	8004845
 8004846	三涂	三塗	sān tú	the three evil rebirths; the three evil realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三惡趣 (FGDB '三惡趣')	8004846
 8004847	永劫	\N	yǒngjié	eternity	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '永劫'; SH '永劫', p. 194)	8004847
@@ -5109,7 +5109,7 @@
 8005109	丸	\N	wán	ball; pinda	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: piṇḍa (BCSD '丸', p. 74; MW 'piṇḍa')	8005109
 8005110	盘长	盤長	páncháng	endless knot; eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīvatsa; one of the Eight Auspicious Symbols 吉祥八宝 (Wikipedia '盤長')	8005110
 8005111	西藏结	西藏結	xīzàng jié	endless knot; eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīvatsa; see 盤長 (Wikipedia '盤長')	8005111
-8005112	藏结	藏結	Zàng jié	endless knot; eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīvatsa; see 盤長 (Wikipedia '盤長')	8005112
+8005112	藏结	藏結	zàng jié	endless knot; eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīvatsa; see 盤長 (Wikipedia '盤長')	8005112
 8005113	身	\N	shēn	body; kāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shen1.mp3	Sanskrit equivalent: kāya, Japanese: shin, or: ken, Tibetan: lus (BL 'kāya'; BCSD '身', p. 1126; Edgerton 1953 'kāya', p. 177; FGDB '身'; Mahāvyutpatti 'kāyaḥ'; MW 'kāya'; Unihan '身')	8005113
 8005114	大身	\N	dà shēn	great body; mahakaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahākāya (Ding '大身'; MW 'mahākāya'; SH '大身', p. 95; Sharf 2005, p. 281)	8005114
 8005115	四句偈	\N	sì jù jì	a four line gatha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An especially common form in Buddhist texts (FGDB '四句偈'; SH '一四句偈', p. 50)	8005115
@@ -5286,7 +5286,7 @@
 8005286	事	\N	shì	thing; phenomena	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: artha, or: vastu, Pali: attha, Japanese: gi; an object in the phenomenal world (BCSD '事', p. 81; BL '事', p. 63; FGDB '事'; Kroll 2015 '事' 5, p. 415; MW 'artha'; Sharf 2017, p. 159)	8005286
 8005287	事	\N	shì	actions; karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma, Tibetan: las (BCSD '事', p. 81; Mahāvyutpatti 'karma')	8005286
 8005288	地藏菩萨摩诃萨	地藏菩薩摩訶薩	dìzàng Púsà móhēsà	Ksitigarbha Bodhisattva	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	dizang400.jpg	\N	Sanskrit equivalent: kṣitigarbha mahāsattva; see 地藏菩薩 (FGDB '地藏菩薩')	8005288
-8005289	观世音菩萨	觀世音菩薩	Guānshìyīn Púsà	Avalokiteśvara; Avalokitesvara; Guanyin	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara; the bodhisattva of great compassion (BL 'Avalokiteśvara', p. 82-83; FGDB '觀世音菩薩'; JEBD 'Kannon')	8005289
+8005289	观世音菩萨	觀世音菩薩	guānshìyīn Púsà	Avalokiteśvara; Avalokitesvara; Guanyin	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara; the bodhisattva of great compassion (BL 'Avalokiteśvara', p. 82-83; FGDB '觀世音菩薩'; JEBD 'Kannon')	8005289
 8005290	阿罗诃	阿羅訶	Āluóhē	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿羅漢 (FGDB '阿羅漢')	8005290
 8005291	阿罗呵	阿囉呵	Āluóhē	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿羅漢 (FGDB '阿羅漢')	8005291
 8005292	出三有	\N	chūsānyǒu	overcoming worldly existence; bhavāntakṛt	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhavāntakṛt, Tibetan: srid mthar phyin; see 能出三有 (Mahāvyutpatti 'bhavāntakṛt')	8005292
@@ -6419,7 +6419,7 @@
 8006419	谦	謙	qiān	humble; praṇata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praṇata, Japanese: ken (BCSD '謙', p. 1094; Edgerton 1953 'praṇata', p. 359; MW 'praṇata'; Unihan '謙')	8006419
 8006420	乐苦	樂苦	lè kǔ	happiness and suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sukha-duḥkha (BCSD '樂苦', p. 667; MW 'sukhaduḥkha')	8006420
 8006421	金刚三摩地	金剛喻三摩地	jīngāng sānmódì	vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi; adamantine-like concentration (BL ‘vajropamasamādhi; FGDB '金剛喻定')	8006421
-8006422	水喻	\N	shuǐ yù	the water simile	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Appears in 水喻經 Shuǐ yù jīng 'Water Simile Sutta' (T 26, Scroll 1; Aṅguttara Nikāya 7.15)	8006422
+8006422	水喻	\N	shuǐ yù	the water simile	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Appears in 水喻經 shuǐ yù jīng 'Water Simile Sutta' (T 26, Scroll 1; Aṅguttara Nikāya 7.15)	8006422
 8006423	金刚滅定	金剛滅定	jīngāngmièdìng	vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi; adamantine-like concentration (BL ‘vajropamasamādhi; FGDB '金剛喻定')	8006423
 8006424	顶三昧	頂三昧	dǐngsānmèi	vajropamasamādhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajropamasamādhi; adamantine-like concentration (BL ‘vajropamasamādhi; FGDB '金剛喻定')	8006424
 8006425	他国	他國	tāguó	other land; para-cakra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: para-cakra; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '他國', p. 96; Hurvitz 2009, p. 164; Kern tr. 1884, ch. 8; Vaidya 1960, p. 134; T 262, Scroll 4, 9.0029a05)	8006425
@@ -6585,7 +6585,7 @@
 8006585	十一种月喻	十一種月喻	shí yī zhǒng yuè yù	eleven similes about the moon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十一種月喻')	8006585
 8006586	净行	淨行	jìngxíng	Brahmin; Brahman	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 婆羅門 (FGDB '婆羅門')	8006586
 8006587	承习	承習	chéngxí	Brahmin; Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 婆羅門 (FGDB '婆羅門')	8006587
-8006588	阿毘达磨俱舍论	阿毘達磨俱舍論	āpídámó jūshè Lùn	Abhidharmakosabhasya; Abhidharmakośaśastra; Discourse on the Repository of Abhidharma Discussions	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharmakośabhāṣya or abhidharmakośaśastra, Japanese: Abidatsuma-kusha-ron; a śastra on the Abhidharma by Vasubandhu (T 1558; T 1559; Lancaster 2004 'K 955'; DJBT 'Abidatsuma-kusha-ron'; Eitel 'Abhidharma kocha śastra', p. 2; FGDB '阿毘達磨俱舍論')	8006588
+8006588	阿毘达磨俱舍论	阿毘達磨俱舍論	āpídámó jūshè lùn	Abhidharmakosabhasya; Abhidharmakośaśastra; Discourse on the Repository of Abhidharma Discussions	proper noun	论	Sastra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharmakośabhāṣya or abhidharmakośaśastra, Japanese: Abidatsuma-kusha-ron; a śastra on the Abhidharma by Vasubandhu (T 1558; T 1559; Lancaster 2004 'K 955'; DJBT 'Abidatsuma-kusha-ron'; Eitel 'Abhidharma kocha śastra', p. 2; FGDB '阿毘達磨俱舍論')	8006588
 8006589	阿黎呵	\N	Ālíhē	Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿羅漢 (FGDB '阿羅漢')	8006589
 8006590	淳	\N	chún	pure; prasāda	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prasāda; Japanese: shun, or: jun (BCSD '淳', p. 733; MW 'prasāda'; Unihan '淳'; Wikipedia '淳')	8006590
 8006591	淳善	\N	chún shàn	well disposed towards; sūrata	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sūrata (BCSD '淳善', p. 733; MW 'prasāda')	8006591
@@ -7540,7 +7540,7 @@
 8007540	洞家	\N	dòng jiā	Caodong school; Caodong zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 曹洞宗 (FGDB '曹洞宗')	8007540
 8007541	壍	\N	qiàn	moat; parikhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: parikhā, Japanese: zan (BCSD '壍', p. 307; MW 'parikhā'; Unihan '壍')	8007541
 8007542	看话禅	看話禪	kànhuà chán	to meditate on a kōan; kanhua chan; phrase-observing meditation; Chan of investigating the topic of inquiry; keyword meditation; questioning meditation	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A style of meditation proposed by 大慧宗杲 Dahui Zonggao of the 臨濟宗 Linji sect (BL 'kanhua chan'; FGDB '看話禪')	8007542
-8007543	济宗	濟宗	jì Zōng	Linji School; Linji zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 臨濟宗 (FGDB '臨濟宗')	8007543
+8007543	济宗	濟宗	jì zōng	Linji School; Linji zong	proper noun	宗	School	佛教	Buddhism	禅宗	Chan	\N	\N	See 臨濟宗 (FGDB '臨濟宗')	8007543
 8007544	云门一字关	雲門一字關	yúnmén yīzì guān	one-word checkpoint; one-word barrier; yizi guan	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A method by Tang Chan master 雲門文偃 Yunmen Wenyan to answer questions with a single word (BL 'yizi guan'; FGDB '雲門一字關')	8007544
 8007545	压	壓	yā	squeeze; prapīḍ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prapīḍ, Japanese: atsu, or: ou, or: en (BCSD '壓', p. 307; MW 'prapīḍ'; SH '壓', p. 456; Unihan '壓')	8007545
 8007546	一字关	一字關	yīzì guān	one-word checkpoint; one-word barrier; yizi guan	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	See 雲門一字關 (FGDB '雲門一字關')	8007546
@@ -16348,3 +16348,6 @@
 8016348	不定性	\N	bùdìngxìng	an indeterminate nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '不定性'; SH '不定性', p. 106)	8016348
 8016349	一切智人	\N	yīqiè zhì rén	a person with all-knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to a Buddha; see also 一切智者 (FGDB '一切智者'; SH '一切智人', p. 2)	8016349
 8016350	定性声闻	定性聲聞	dìngxìng shēngwén	a fixed Sravaka nature	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '定性聲聞'; FGDB '定性聲聞')	8016350
+8016351	五姓	\N	wǔ xìng	five natures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 1. 菩薩定姓 bodhisattva fixed nature, 2. 獨覺定姓 Pratyekabuddha fixed nature, 3. 聲聞定姓 Pratyekabuddha fixed nature，4. 三乘不定姓 indeterminate nature of the three vehicles, 5. 無姓有情 sentient beings with no nature (Ding '五姓'; FGDB '五姓')	8016351
+8016352	一切智舟	\N	yīqiè zhì zhōu	the vehicle of all-knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切智舟', p. 2)	8016352
+8016353	有爱住地	有愛住地	yǒuài zhùdì	abode of desire	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	愛 is used in the sene of 貪愛 (FGDB '有愛住地')	8016353
