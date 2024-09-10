@@ -2447,7 +2447,7 @@
 7002447	菩萨戒本	菩薩戒本	púsà jiè běn	Pusa Jie Ben	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 531; T 1500)	7002447
 7002448	菩萨戒本	菩薩戒本	púsà jiè běn	Pusa Jie Ben	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 533; T 1501)	7002448
 7002449	菩萨五法忏悔文	菩薩五法懺悔文	púsà wǔ fǎ chànhuǐ wén	Pusa Wu Fa Chanhui Wen	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 542; T 1504)	7002449
-7002450	四阿鋡暮抄解	\N	sì āhán mù chāo jiě	Si Ahan Mu Chao Jie	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 1019; T 1505)	7002450
+7002450	四阿鋡暮抄解	\N	sì āhán mù chāo jiě	Digest of the Four Āgamas; Si Ahan Mu Chao Jie	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '四阿含暮抄解'; Hurvitz 1967, pp. 434-486; KDC 1019; T 1505)	7002450
 7002451	分别功德论	分別功德論	fēnbié gōngdé lùn	Fenbie Gongde Lun	proper noun	论	Treatise	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '分別功德論'; Lancaster 2012, p. 228; KDC 973; T 1507)	7002451
 7002452	阿含口解十二因缘经	阿含口解十二因緣經	āhán kǒu jiě shí èr yīnyuán jīng	Discourse of the Explanation of the Twelve Nidanas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 1023; T 1508)	7002452
 7002453	天亲菩萨	天親菩薩	tiān qīn púsà	Vasubandhu	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 世親 (FGDB '世親')	7002453
@@ -7893,3 +7893,8 @@
 7007893	僧伽罗刹所集佛行经	僧伽羅剎所集佛行經	sēngjiāluóshā suǒ jí fó xíng jīng	Scriptures Compiled by Saṃgharakṣa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽羅剎所集經 (FGDB '僧伽羅剎所集經')	7007893
 7007894	僧伽罗刹集经	僧伽羅剎集經	sēngjiāluóshā jí jīng	Scriptures Compiled by Saṃgharakṣa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽羅剎所集經 (FGDB '僧伽羅剎所集經')	7007894
 7007895	僧伽罗刹集	僧伽羅剎集	sēngjiāluóshā jí	Scriptures Compiled by Saṃgharakṣa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽羅剎所集經 (FGDB '僧伽羅剎所集經')	7007895
+7007896	跋澄	\N	báchéng	  Sajghabhūti	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 僧伽跋澄 (T 2145 55.0010b09)	7007896
+7007897	四阿含暮抄解	\N	sì āhán mù chāo jiě	Digest of the Four Āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7007897
+7007898	四阿含暮抄	\N	sì āhán mù chāo	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7007898
+7007899	四阿鋡暮抄经	四阿鋡暮抄經	sì āhán mù chāo jīng	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7007899
+7007900	四阿暮抄解	\N	sì ā mù chāo jiě	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7007900
