@@ -638,10 +638,10 @@
 7000638	大足石窟	\N	dàzú shíkū	Dazu Grottoes	proper noun	石窟	Grottoes	佛教	Buddhism	中国	China	\N	\N	(Wikipedia '大足石刻')	7000638
 7000639	九华山	九華山	jiǔhuà shān	Mount Jiuhua; Jiuhuashan	proper noun	佛教名山	Sacred Buddhist Mountain	佛教	Buddhism	安徽	Anhui	\N	\N	One of the four sacred Buddhist mountains in China, the home of Kṣitigarbha; FGS translation standard: Mount Jiuhua (BL 'Jiuhuashan'; Faxiang; FGDB '九華山')	7000639
 7000640	达摩悉铁帝国	達摩悉鐵帝國	dámóxītiědìguó	Dharmasthiti	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	A historic country in the Western Regions visited by Xuan Zang on his return to China, mentioned in the 大唐西域記 ”The Great T'ang Dynasty Record of the Western Regions” (T 2087, Scroll 12; Xuanzang and Rongxi Li trans. 1996, p. 315)	7000640
-7000641	多闻部	多聞部	duōwénbù	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: bahuśrutīya, Pali: bahussutaka or bahulika, Japanese: Tamonbu; one of the 小乘二十部 twenty (or eighteen) schools of mainstream Indian Buddhism (BL 'Bahuśrutīya', p. 90; DDB '多聞部'; FGDB '多聞部'; SH '多聞部', p. 99)	7000641
-7000642	得多闻部	得多聞部	deduōwénbù	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 多聞部 (FGDB '多聞部')	7000642
-7000643	波收娄多柯	波收婁多柯	bōshōulóuduōkē	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 多聞部 (FGDB '多聞部')	7000643
-7000644	婆吼输底柯	婆吼輸底柯	póhǒushūdǐkē	Bahuśrutīya	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 多聞部 (FGDB '多聞部')	7000644
+7000641	僧导	僧導	sēngdǎo	Sengdao	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	362～457; a monastic from the Eastern Jin, mentioned as a scribe in sutra translation (FGDB '僧導'; T 2145 55.0010b14)	7000641
+7000642	二谛章	二諦章	èr dì zhāng	Essay on the Two Truths	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a work by 吉藏 Jizang, included in volume 97 of the 卍續藏 Zokuzōkyō (FGDB '二諦章')	7000642
+7000643	一切智经	一切智經	yīqiè zhì jīng	Sutra on Omniscience	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A sutra contained in scroll 59 of the 中阿含經 Madhyama Āgama (FGDB '一切智經'; SH '一切智經', p. 2; T 26, 1.0795b16)	7000643
+7000644	养楼山	養樓山	yǎnglóu shān	Mount Yanglou	proper noun	山	Mountain	佛教	Buddhism	\N	\N	\N	\N	A mountain mentioned in scroll 1 of Record of Buddhistic Kingdoms 佛國記, on the way from Chang'an to Dunhuang (T 2085, 51.0857a06)	7000644
 7000645	静命	靜命	jìn mìng	Shantarakshita; Santaraksita	proper noun	论师	Pandit	佛教	Buddhism	印度	India	\N	\N	See 寂護 (Wikipedia '寂護')	7000645
 7000646	禅怛罗乞答	禪怛羅乞答	chán dá luó qǐ dá	Shantarakshita; Santaraksita	proper noun	论师	Pandit	佛教	Buddhism	印度	India	\N	\N	See 寂護 (FGDB ' 七覺士')	7000646
 7000647	西来大学	西來大學	xīlái dàxué	University of the West	proper noun	大学	University	佛教	Buddhism	佛光山	Fo Guang Shan	\N	\N	A university in the Fo Guang Shan group located in California, USA (Wikipedia '西來大學')	7000647
@@ -7899,6 +7899,14 @@
 7007899	四阿鋡暮抄经	四阿鋡暮抄經	sì āhán mù chāo jīng	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7007899
 7007900	四阿暮抄解	\N	sì ā mù chāo jiě	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7007900
 7007901	佛提	\N	fótí	Kumārabuddhi	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩羅佛提 (T 2145 55.0010b14)	7007901
-7007902	僧导	僧導	sēngdǎo	Sengdao	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	362～457; a monastic from the Eastern Jin, mentioned as a scribe in sutra translation (FGDB '僧導'; T 2145 55.0010b14)	7007902
-7007903	二谛章	二諦章	èr dì zhāng	Essay on the Two Truths	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a work by 吉藏 Jizang, included in volume 97 of the 卍續藏 Zokuzōkyō (FGDB '二諦章')	7007903
-7007904	一切智经	一切智經	yīqiè zhì jīng	Sutra on Omniscience	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A sutra contained in scroll 59 of the 中阿含經 Madhyama Āgama (FGDB '一切智經'; SH '一切智經', p. 2; T 26, 1.0795b16)	7007904
+7007902	宿呵多国	宿呵多國	sùhēduō guó	Swat	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: Soo-Ho-To. Mentioned in Record of Buddhistic Kingdoms 佛國記 (FGDB '宿呵多國'; T 2085 51.0858a11)	7007902
+7007903	宿呵多	\N	sùhēduō	Swat	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	See 宿呵多國 (FGDB '宿呵多國')	7007903
+7007904	弗楼沙国	弗樓沙國	fúlóushā guó	Peshawar; Purušapura	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	A historic name for the present-day city of Peshawar; visited by 法顯 Faxian 佛國記 Record of Buddhist Kingdoms (Yuan Weixue 2021, p. 348; T 2085, 51.0857a06)	7007904
+7007905	跋那国	跋那國	bánà guó	Bannu; Poh-na	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: Poh-na. Mentioned in Record of Buddhistic Kingdoms 佛國記, in the present-day Punjab (Yuan Weixue 2021, p. 348; T 2085, 51.0858a11)	7007905
+7007906	毗荼	\N	pítú	Punjab; Pe-t’oo	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: Pe-t’oo. Mentioned in Record of Buddhistic Kingdoms 佛國記 (Yuan Weixue 2021, p. 348; T 2085, 51.0858a11)	7007906
+7007907	捕那河	\N	bǔnà hé	P’oo-na River	proper noun	水名	River	佛教	Buddhism	印度	India	\N	\N	Wade-Giles: P’oo-na. Mentioned in Record of Buddhistic Kingdoms 佛國記, possibly Jumna, or Yamuna (Yuan Weixue 2021, p. 348; T 2085, 51.0858a11)	7007907
+7007908	僧伽施	\N	sēngjiāshī	Sankasya	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṅkāśya; a place in India, mentioned in Record of Buddhistic Kingdoms 佛國記 (FGDB '僧伽施國'; SH '僧迦舍', p. 421)	7007908
+7007909	僧伽施国	僧伽施國	sēngjiāshīguó	Sankasya	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṅkāśya; see 僧伽施 (FGDB '僧伽施國')	7007909
+7007910	僧迦舍	\N	sēngjiāshě	Sankasya	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sāṅkāśya; see 僧伽施 (SH '僧迦舍', p. 421)	7007910
+7007911	拘睒弥国	拘睒彌國	jūshǎnmí guó	Kausambi; Kaushambi; Kosambi	proper noun	国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 拘睒彌 (Wikipedia '拘睒彌')	7007911
+7007912	拘睒弥	拘睒彌	jūshǎnmí	Kausambi; Kaushambi; Kosambi	proper noun	国	Kingdom	佛教	Buddhism	印度	India	\N	\N	Kingdom visited by Fa Xian, mentioned in the Record of Buddhistic Kingdoms 佛國記, in the present-day state of Uttar Pradesh (Wikipedia '拘睒彌')	7007912
