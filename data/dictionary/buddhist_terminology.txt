@@ -16440,7 +16440,7 @@
 8016440	一切皆空宗	\N	yīqiè jiē kōng zōng	school which teach of the unreality of all things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一切皆空宗'; SH '一切皆空宗', p. 3)	8016440
 8016441	破性宗	\N	pò xìng zōng	school teaching that nothing has its own nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四宗 four schools of thought of Buddhist logic (FGDB '四宗'; SH '四宗', p. 174)	8016441
 8016442	愿实宗	願實宗	yuàn shí zōng	school teaching of manifestation of reality	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 四宗 four schools of thought of Buddhist logic (FGDB '四宗'; SH '四宗', p. 174)	8016442
-8016443	一切眞言王	\N	yīqièzhēnyánwáng	King of All Mantras	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切眞言王', p. 3)	8016443
+8016443	一切眞言王	\N	yīqiè zhēnyán wáng	King of All Mantras	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切眞言王', p. 3)	8016443
 8016444	琰摩逻阇	琰摩邏闍	yǎnmóluóshé	Yama	proper noun	神	Deity	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 琰魔 (Ding '琰魔')	8016444
 8016445	七种二谛	七種二諦	qī zhǒng èr dì	the seven types of two truths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七種二諦')	8016445
 8016446	译出	譯出	yì chū	translate	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Chen 2005, p. 603)	8016446
@@ -16451,3 +16451,10 @@
 8016451	演出	\N	yǎnchū	to expound	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Chen 2005, p. 603)	8016451
 8016452	瞋恚	\N	chēnhuì	wrath; dveṣa; dosa	noun	心所	Mental Factor	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dveṣa, Pali: dosa, or: krodha; one of the 三毒 'three poisons' (Ding '瞋恚'; Karashima 2001 '瞋恚', p. 77)	8016452
 8016453	经师	經師	jīng shī	sutra master	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '經師'; Haar 2023, p. 188; SH '經師', p. 409)	8016453
+8016454	无间业	無間業	wújiān yè	unremitting karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無間業'; FGDB '無間業'; Kieschnick and Wiles 2017, vol. 2, p. 31; SH '無間業', p. 383)	8016454
+8016455	圣语	聖語	shèngyǔ	sacred language; āryabhāṣā; Sanskrit	noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: āryabhāṣā (Ding '聖語'; FGDB '聖語'; SH '聖語', p. 411)	8016455
+8016456	不与取	不與取	bù yǔ qǔ	taking what is not given; adattādāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adattādāna; Pali: adinnādāna; one of the 不善十業 'ten types of unwholesome behavior'; violates the second of the 五戒 'five precepts' (BL 'armapatha'; Ding '不與取'; FGDB '不與取'; SH '不與取', p. 109)	8016456
+8016457	十善十恶	十善十惡	shí shàn shí è	the ten wholesome and ten unwholesome	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daśakuśala-karma; The ten wholesome actions and the ten wholesome actions; for example, as listed in Scroll 4 of 大乘阿毘達磨集論 “Abhidharmasamuccaya” (Bayer and Asaṅga 2010, p. 133; Ding '十善十惡'; FGDB '十善十惡'; T 1605, 31.0679a06)	8016457
+8016458	一切真言心	\N	yīqiè zhēnyán xīn	all mantra rulers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Depicted in the Garbhadhātu and Vajradhātu groups (FGDB '一切真言心'; SH '一切真言心', p. 2)	8016458
+8016459	一切眞言心	\N	yīqiè zhēnyán xīn	all mantra rulers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 一切真言心 (SH '一切真言心', p. 2)	8016459
+8016460	十善业	十善業	shí shàn yè	ten wholesome kinds of karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十善 (Ding '十善業'; FGDB '十善十惡'; SH '十善業', p. 47)	8016460
