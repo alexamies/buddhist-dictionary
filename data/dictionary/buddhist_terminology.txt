@@ -7621,7 +7621,7 @@
 8007621	奈	\N	nài	yellow plum; āmalaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmalaka, Japanese: na, or: dai (BCSD '奈', p. 338; MW 'āmalaka'; SH '奈', p. 253; Unihan '奈')	8007621
 8007622	内教	內教	nèijiāo	Neidian; Internal Classics	proper noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 內典 (FGDB '內典')	8007622
 8007623	众经	眾經	zhòngjīng	myriad of scriptures	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Refers to the Chinese Buddhist canon (Wu 2016, loc. 566)	8007623
-8007624	一切经	一切經	yīqièjīng	all scriptures	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Refers to the Chinese Buddhist canon (Wu 2016, loc. 566)	8007624
+8007624	一切经	一切經	yīqièjīng	all scriptures; the Buddhist canon	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	(SH '一切經', p. 3; Wu 2016, loc. 566)	8007624
 8007625	奉	\N	fèng	offer; upanī	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upanī, Japanese: hou, or: bu (BCSD '奉', p. 338; MW 'upanī'; SH '奉', p. 253; Unihan '奉')	8007625
 8007626	崇宁藏	崇寧藏	chóngníng zàng	Chongning Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	Chongning edition of the Chinese Buddhist canon, completed in Fuzhou in 1112 (FGDB '中文大藏經'; Wu 2016, loc. 666)	8007626
 8007627	毗卢藏	毗盧藏	pílú zàng	Pilu Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	Pilu edition of the Chinese Buddhist canon (Wu 2016, loc. 672)	8007627
@@ -16506,3 +16506,53 @@
 8016506	摩那埵	\N	mónàduǒ	mānatva; confession; period of penance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mānatva, Pali: mānatta, manata; confession or period of penance for a minor offense (BL 'mānatva'; Ding '摩那埵'; FGDB '摩那埵'; Kieschnick and Wiles 2017, vol. 2, p. 47; SH '摩那埵', p. 437)	8016506
 8016507	摩那垛	\N	mónàduǒ	mānatva; confession	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩那埵 (FGDB '摩那埵')	8016507
 8016508	六夜摩那埵	\N	liù yè mónàduǒ	six night period of penance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩那埵 (FGDB '摩那埵')	8016508
+8016509	経录	経錄	jīnglù	catalog	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese variant (Kawaguchi 2000)	8016509
+8016510	一切种妙三昧	一切種妙三昧	yīqiè zhǒng miào sānmèi	samādhi which brings every kind of merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切種妙三昧', p. 3)	8016510
+8016511	摩那埵羯磨	\N	mónàduǒ jiémó	period of penance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩那埵 (FGDB '摩那埵')	8016511
+8016512	三事	\N	sānshì	three things	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Different formulations; for example, 三公 'Three Ducal Ministers' 太師 'Grand Master', 太傅 'Grand Mentor', and 太保 Grand Protector  (Guoyu '三事')	8016512
+8016513	一切种识	一切種識	yīqiè zhǒng shí	all consciousness; the eighth of the eight kinds of consciousness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切種識', p. 3)	8016513
+8016514	见闻疑	見聞疑	jiàn wén yí	[what is] seen, heard, and suspected	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '見聞疑'; FGDB '見聞疑'; Kieschnick and Wiles 2017, vol. 2, p. 47)	8016514
+8016515	净洁	淨潔	jìngjié	pure	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kieschnick and Wiles 2017, vol. 2, p. 49)	8016515
+8016516	一切万	一切萬	yīqiè wàn	all phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切萬', p. 3)	8016516
+8016517	一切诸法	一切諸法	yīqiè zhū fǎ	all phenomena	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切萬', p. 3)	8016517
+8016518	阿希物多	\N	axīwùduō	atimuktaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿提目多迦花 (FGDB '阿提目多迦花')	8016518
+8016519	苏曼那	蘇曼那	sūmànnà	sumanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sumanā, scientific name: Chrysanthemum Indicum; a flower (Ding '蘇曼那'; Kieschnick and Wiles 2017, vol. 2, p. 49)	8016519
+8016520	一切处无不相应真言	一切處無不相應真言	yīqiè chù wú bù xiāngyīng zhēnyán	the mantra that resonates everywhere	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切處無不相應真言', p. 3)	8016520
+8016521	一切处无不相应眞言	一切處無不相應眞言	yīqiè chù wú bù xiāngyīng zhēnyán	the mantra that resonates everywhere	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一切處無不相應真言 (SH '一切處無不相應真言', p. 3)	8016521
+8016522	婆师	婆師	póshī	vārṣika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vārṣika; a variety of jasmine (Ding '婆師'; FGDB '婆師'; SH '婆師', p. 346)	8016522
+8016523	婆利师迦花	婆利師迦花	pólìshījiāhuā	vārṣika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 婆師 (FGDB '婆師')	8016523
+8016524	一切众生之父	一切眾生之父	yīqiè zhòngshēng zhī fù	the father of all living things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Brahmā (SH '一切眾生之父', p. 3)	8016524
+8016525	一切衆生之父	\N	yīqiè zhòngshēng zhī fù	the father of all living things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一切眾生之父 (SH '一切眾生之父', p. 3)	8016525
+8016526	二戒	\N	èr jiè	two kinds of precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are different formulations for the two kinds, one is 性戒 'natural prcepts' and 遮戒 'preclusive precepts' (Ding '二戒'; FGDB '二戒'; SH '二戒', p. 25)	8016526
+8016527	性罪	\N	xìngzuì	natural sin	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Such as killing, stealing, and lying; in contrast with 遮罪 'proscribed misconduct' (Ding '性罪'; FGDB '性罪'; SH '性罪', p. 259)	8016527
+8016528	一切众生喜见佛	一切眾生喜見佛	yīqiè zhòngshēng xǐ jiàn fó	Sarvasattva-priya-darśana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvasattvapriyadarśana; name of a bodhisattva (SH '一切眾生喜見佛', p. 3)	8016528
+8016529	一切衆生喜见佛	一切衆生喜見佛	yīqiè zhòngshēng xǐ jiàn fó	Sarvasattva-priya-darśana	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvasattvapriyadarśana; see 一切眾生喜見佛 (SH '一切眾生喜見佛', p. 3)	8016529
+8016530	遮罪	\N	zhēzuì	proscribed misconduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Conduct that is intentially forbidden but not obviously unwholesome, generally lighter and in contrast to 性罪 'natural sin' (Ding '遮罪'; FGDB '遮罪'; SH '遮惡', p. 445)	8016530
+8016531	闭关	閉關	bìguān	isolate oneself for meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '閉關'; FGDB '閉關'; Hundred Lessons; SH '閉關', p. 366)	8016531
+8016532	一切众生精气	一切眾生精氣	yīqiè zhòngshēng jīng qì	quintessential energy of all living beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sarvasattvāujohārī; also the name of a rākṣasī (SH '一切眾生精氣', p. 3)	8016532
+8016533	一切衆生精气	一切衆生精氣	yīqiè zhòngshēng jīng qì	quintessential energy of all living beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sarvasattvāujohārī; see 一切眾生精氣 (SH '一切眾生精氣', p. 3)	8016533
+8016534	人天乘	\N	rén tiān shèng	human and heavenly vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the practice of the 五戒十善 'five precepts and ten virtues' (Ding '人天乘'; FGDB '人天乘'; SH '人天乘', p. 32)	8016534
+8016535	四乘	\N	sì shèng	four vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the simile of the 四車 'four carts' in the Lotus Sutra; namely the 羊鹿牛及大白牛車 goat, deer, ox, and great ox carts (Ding '四乘'; FGDB '四乘'; SH '四乘', p. 170)	8016535
+8016536	一切众生离诸恶趣	一切眾生離諸惡趣	yīqiè zhòngshēng lí zhū è qù	a world with all living beings free from evil destinies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvasattvapāpaprahāṇa; name of a samādhi (SH '一切眾生離諸惡趣', p. 4)	8016536
+8016537	一切衆生离诸恶趣	一切衆生離諸惡趣	yīqiè zhòngshēng lí zhū è qù	a world with all living beings free from evil destinies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarvasattvapāpaprahāṇa; see 一切眾生離諸惡趣 (SH '一切眾生離諸惡趣', p. 4)	8016537
+8016538	四车	四車	sì chē	four carts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四乘 (Ding '四車'; FGDB '四車'; SH '四車', p. 182)	8016538
+8016539	三车四车	三車四車	sān chē sì chē	three carts and four carts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to a simile in the Lotus Sutra. the three are 羊、鹿、牛車 'goat, deer, ox carts.' The fourth is the 大白牛車 'great ox cart' of the Mahāyāna (FGDB '三車四車')	8016539
+8016540	一切佛心印	\N	yīqiè fó xīn yìn	the seal of the minds of all Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一切遍智印 (SH '一切遍智印', p. 4)	8016540
+8016541	大白牛车	大白牛車	dà bái niú chē	the great ox cart	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to Mahāyāna, according to a simile in the Lotus Sutra (Ding '大白牛車'; FGDB '大白牛車'; SH '大白牛車', p. 93)	8016541
+8016542	息虑凝心	息慮凝心	xī lǜ níng xīn	focus on breathing to control your mind; to meditate	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '息慮凝心')	8016542
+8016543	一刹	\N	yī shā	a kṣetra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A land or a Buddha-realm (SH '一刹', p. 4)	8016543
+8016544	别戒	別戒	bié jiè	specific precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘戒 (Hsing Yun 2010, p. 3)	8016544
+8016545	声闻戒	聲聞戒	shēngwén jiè	śrāvaka precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Specific to each group of the seven-fold assembly (DDB '聲聞戒'; FGDB '小乘戒'; Hsing Yun 2010, p. 3)	8016545
+8016546	一化	\N	yī huà	the influence of a Buddha in one Buddha-period	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一化', p. 4)	8016546
+8016547	小乘戒	\N	xiǎochéng jiè	Hīnayāna precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The different sets of precepts 五戒 'five precepts', 八戒 'eight precepts', 十戒 'ten precepts,' etc, specific to each group of the seven-fold assembly (Ding '小乘戒'; FGDB '小乘戒'; Hsing Yun 2010, p. 3; SH '小乘戒', p. 99)	8016547
+8016548	小戒	\N	xiǎo jiè	Hīnayāna precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 小乘戒 (FGDB '小乘戒')	8016548
+8016549	一化五味之教	\N	yī huà wǔ wèi zhī jiāo	the five tastes of the Buddha's teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	As defined by the Tiantai School (SH '一化五味之教', p. 5)	8016549
+8016550	菩萨三聚戒	菩薩三聚戒	púsà sān jùjiè	the three categories of bodhisattva precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三聚淨戒 (FGDB '三聚淨戒')	8016550
+8016551	三聚清净戒	三聚清淨戒	sān jù qīng jìng jiè	the three categories of pure precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三聚淨戒 (FGDB '三聚淨戒')	8016551
+8016552	一千二百功德	\N	yī qiān èr bǎi gōngdé	1,200 merits	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The merits predicted to the six organs (FGDB '一千二百功德', p. 4)	8016552
+8016553	三聚圆戒	三聚圓戒	sān jù yuán jiè	the three categories of perfect precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三聚淨戒 (FGDB '三聚淨戒')	8016553
+8016554	律仪戒	律儀戒	lǜ yí jiè	the precepts for proper conduct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 攝律儀戒 (FGDB '攝律儀戒')	8016554
+8016555	一即一切一切即一	\N	yī jí yīqiè yīqiè jí yī	one is all and all is one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Expresses the unity of all things (SH '一即一切一切即一', p. 4)	8016555
+8016556	一卽一切一切卽一	\N	yī jí yīqiè yīqiè jí yī	one is all and all is one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一即一切一切即一 (SH '一即一切一切即一', p. 4)	8016556
+8016557	自性戒	\N	zì xìng jiè	precepts of self control	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 攝律儀戒 (FGDB '攝律儀戒')	8016557
+8016558	一切菩萨戒	一切菩薩戒	yīqiē púsà jiè	all inclusive bodhisattva precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 攝律儀戒 (FGDB '攝律儀戒')	8016558
