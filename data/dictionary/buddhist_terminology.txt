@@ -5112,7 +5112,7 @@
 8005112	藏结	藏結	zàng jié	endless knot; eternal knot	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrīvatsa; see 盤長 (Wikipedia '盤長')	8005112
 8005113	身	\N	shēn	body; kāya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	shen1.mp3	Sanskrit equivalent: kāya, Japanese: shin, or: ken, Tibetan: lus (BL 'kāya'; BCSD '身', p. 1126; Edgerton 1953 'kāya', p. 177; FGDB '身'; Mahāvyutpatti 'kāyaḥ'; MW 'kāya'; Unihan '身')	8005113
 8005114	大身	\N	dà shēn	great body; mahakaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahākāya (Ding '大身'; MW 'mahākāya'; SH '大身', p. 95; Sharf 2005, p. 281)	8005114
-8005115	四句偈	\N	sì jù jì	a four line gatha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An especially common form in Buddhist texts (FGDB '四句偈'; SH '一四句偈', p. 50)	8005115
+8005115	四句偈	\N	sì jù jì	a four line gatha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An especially common form in Buddhist texts (FGDB '四句偈'; SH '一四句偈', p. 4)	8005115
 8005116	丹	\N	dān	pill; bhaiṣajya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhaiṣajya, Tibetan: rtsi (BCSD '丹', p. 74; Mahāvyutpatti 'bhaiṣajyam'; MW 'bhaiṣajya')	8005116
 8005117	丹	\N	dān	red; lohita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lohita, or: tāmra (BCSD '丹', p. 74; MW 'lohita')	8005116
 8005118	论	論	lùn	a treatise; sastra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	lun4.mp3	Sanskrit equivalent: śastra, Japanese: ron, Tibetan: bstan bcos; a Buddhist treatise attributed to an Indian master (BCSD '論', p. 1085; BL 'śastra'; FGDB '論'; Mahāvyutpatti 'śāstram'; SH '論', p. 444)	8005118
@@ -6363,7 +6363,7 @@
 8006363	自	\N	zì	self; soul; ātman	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātman (BCSD '自', p. 983; MW 'ātman'; SH '自', p. 218)	8006362
 8006364	自悟	\N	zìwù	self realization	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva-buddha; for example, in 因明入正理論 “Nyāyapraveśa (Primer on Logic)” by śamkarasvāmin translated to Chinese by Xuanzang in the Tang dynasty (BCSD '自悟', p. 989; Bak 2017, p. 42; T 1630)	8006364
 8006365	燕坐	\N	yān zuò	to meditate in seclusion; pratisaṃlayana; patisallāṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pratisaṃlayana, Pali: patisallāṇa (FGDB '燕坐'; BL 'pratisaṃlayana')	8006365
-8006366	一地	\N	yīdì	one ground	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Buddha nature of all living beings (Ding '一地'; FGDB '一地'; SH '一地')	8006366
+8006366	一地	\N	yīdì	one ground; same ground	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Buddha nature of all living beings (Ding '一地'; FGDB '一地'; SH '一地', p. 4)	8006366
 8006367	鏌鎁剑	鏌鎁劍	mòyé jiàn	Moye sword; a sharp sword	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Metaphor from koan 9 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 58; T 2003, Scroll 1; FGDB '鏌鎁劍')	8006367
 8006368	匠	\N	jiàng	artisan; karmāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karmāra (BCSD '匠', p. 214; MW 'karmāra')	8006368
 8006369	除断	除斷	chú duàn	removing; abstaining; chedana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chedana, or: vigata; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '除斷', p. 179; Karashima 2001, p. 86; MW 'chedana'; SH '除斷', p. 340; T 262, Scroll 1, 9.0004b18)	8006368
@@ -16589,3 +16589,38 @@
 8016589	一向大乘寺	\N	yì xiàng dàshèng sì	A wholly Mahāyāna monastery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一向大乘寺', p. 4)	8016589
 8016590	无生性	無生性	wú shēng xìng	non-nature of dependent arising	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生無性 (FGDB '生無性')	8016590
 8016591	诸法无生体性	諸法無生體性	zhū fǎ wúshēng tǐxìng	the arising of all dharmas has no nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生無性 (FGDB '生無性')	8016591
+8016592	跋渠	\N	báqú	chapter	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: varga; see 品 (FGDB '品'; SH '跋渠', p. 391)	8016592
+8016593	生无自性性	生無自性性	shēng wú zì xìng xìng	arising has no self and no nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 生無性 (FGDB '生無性')	8016593
+8016594	三无性	三無性	sān wú xìng	the three phenomena without nature; the three non-natures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 1. 相無性 'non-nature of appearances', 2. 生無性 'non-nature of dependent arising', 3. 勝義無性 'the non-nature of transcending worldly concepts' (Ding '三無性'; FGDB '三無性'; SH '三無性', p. 70)	8016594
+8016595	一周忌	\N	yī zhōu jì	anniversary of a death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一周忌', p. 4)	8016595
+8016596	一周关	一周關	yī zhōu guān	anniversary of a death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一周忌 (SH '一周忌', p. 4)	8016596
+8016597	一囘忌	\N	yī huí jì	anniversary of a death	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一周忌 (SH '一周忌', p. 4)	8016597
+8016598	三种无自性性	三種無自性性	sān zhǒng wú zìxìng xìng	three kinds of phenomena without their own nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三無性 (FGDB '三無性')	8016598
+8016599	三无自性	三無自性	sān wú zìxìng	three phenomena without their own nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三無性 (FGDB '三無性')	8016599
+8016600	一唾一吹	\N	yī tuò yī chuī	a spit and a puff	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一唾一吹', p. 4)	8016600
+8016601	三种无性	三種無性	sān zhǒng wúxìng	three phenomena without their own nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三無性 (FGDB '三無性')	8016601
+8016602	相无性	相無性	xiāng wú xìng	the non-nature of appearances	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三無性 'three kinds of non-nature' (Ding '相無性'; FGDB '相無性')	8016602
+8016603	一坐食	\N	yī zuò shí	one meal a day eaten without rising from the seat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一坐食'; SH '一坐食', p. 4)	8016603
+8016604	一坐食戒	\N	yī zuò shí jiè	precept to eat only one meal a day without rising from the seat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一坐食'; SH '一坐食', p. 5)	8016604
+8016605	胜义无性	勝義無性	shèngyì wúxìng	the non-nature of transcending worldly concepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 三無性 'the three phenomena without nature' (Ding '勝義無性'; FGDB '三無性')	8016605
+8016606	断人命学处	斷人命學處	duàn rénmìng xuéchù	precept against killing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 殺生戒 (FGDB '殺生戒')	8016606
+8016607	一境三谛	一境三諦	yī jìng sān dì	the three principles of each realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 空, 假, and 中; a Tiantai concept (FGDB '一境三諦'; SH '一境三諦', p. 5)	8016607
+8016608	杀人戒	殺人戒	shārén jiè	precept against killing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 殺生戒 (FGDB '殺生戒')	8016608
+8016609	杀戒	殺戒	shājiè	precept against killing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 殺生戒 (FGDB '殺生戒')	8016609
+8016610	一境四心	\N	yī jìng sì xīn	four views of the same thing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一境四心'; SH '一境四心', p. 5)	8016610
+8016611	戒四别	戒四別	jiè sì bié	four differences in precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 戒法 'rules of the precepts, 戒體 'essence of the precepts, 戒行 'abide by precepts' and, 戒相 'characteristics of precepts' (Ding '戒四別'; FGDB '戒四別')	8016611
+8016612	戒体三种	戒體三種	jiè tǐ sān zhǒng	three kinds of essence in precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 色法 'physical objects', 心法 'mental objects, and 非色非心法 'objects that are neither physical or mental' (Ding '戒體三種'; FGDB '戒體三種')	8016612
+8016613	一尘法界	一塵法界	yī chén fǎ jiè	the universe in a grain of dust	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一塵法界'; SH '一塵法界', p. 5)	8016613
+8016614	无作戒	無作戒	wú zuò jiè	intangible influence of precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '無作戒'; FGDB '無作戒'; SH '無作戒', p. 377)	8016614
+8016615	作戒	\N	zuò jiè	taking of precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '作戒'; FGDB '作戒'; SH '作戒', p. 224)	8016615
+8016616	一增一减	一增一減	yī zēng yī jiǎn	increasing then decreasing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to a kalpa during when lifespans increase from ten to 80,000 years and then decrease back to ten years (FGDB '一增一減'; SH '一增一減', p. 5)	8016616
+8016617	表色	\N	biǎosè	active expression	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	All kinds of movement and expression (Ding '表色'; FGDB '表色'; SH '表色', p. 280)	8016617
+8016618	僧衣	\N	sēng yī	monastic robes	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Han Dian '僧衣'; Guoyu '僧衣')	8016618
+8016619	一坛构	一壇構	yī tán gòu	setting up of altars	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Before the Vajradhātu and Garbhadhātu maṇḍalas in Esoteric Buddhism (FGDB '一壇構'; SH '一壇構', p. 5)	8016619
+8016620	麻三斤	\N	má sān jīn	three jin of flax	set phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: title of the No. 12 Koan in 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 76; Ding '麻三斤'; FGDB '麻三斤'; T 2003, Scroll 2)	8016620
+8016621	一口吞尽	一口吞盡	yī kǒu tūn jìn	swallow all in one gulp	set phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: title of the No. 11 Koan in the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 69; FGDB '一口吞盡'; T 2003, Scroll 2)	8016621
+8016622	一大宅	\N	yī dà zhái	the great house	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the burning house, a metaphor for the world, in the Lotus Sutra (SH '一大宅', p. 5)	8016622
+8016623	至道无难	至道無難	zhì dào wú nán	the Ultimate Way is not difficult	set phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: title of the No. 2 Koan in 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 19; FGDB '趙州至道無難'; T 2003, Scroll 1)	8016623
+8016624	赵州至道无难	趙州至道無難	zhàozhōu zhì dào wúnán	Zhao Zhou says the Ultimate Way is without difficulty	set phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	See 至道無難 (FGDB '趙州至道無難')	8016624
+8016625	担板汉	擔板漢	dān bǎn hàn	a man carrying a bundle	set phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: title of the No. 4 Koan in 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 28; Ding '擔板漢'; FGDB '擔板漢'; T 2003, Scroll 1)	8016625
+8016626	举	舉	jǔ	to raise an example	verb	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	ju3.mp3	举 introduces koans in Chan texts, such as  碧巖錄 ”The Blue Cliff Record” (FGDB '舉'; T 2003, Scroll 1)	8016626
