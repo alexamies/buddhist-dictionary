@@ -200,7 +200,7 @@ taisho/t0189.csv	taisho/t0189.html	Guoqu Xianzai Yinguo Jing (Sūtra on Past and
 taisho/t0190.csv	taisho/t0190.html	Fo Ben Xing Ji Jing (Abhiniṣkramaṇasūtra) 佛本行集經	Translated by Jñānagupta in 60 scrolls	taisho/t0190_00.txt	Taishō	Sūtra	587-595	jātaka
 taisho/t0191.csv	taisho/t0191.html	Zhong Xu Mohe Di Jing 佛本行集經	Translated by Faxian in 13 scrolls	taisho/t0191_00.txt	Taishō	Sūtra	989-999	jātaka
 taisho/t0192.csv	taisho/t0192.html	Fo Suo Xing Zan (Buddhacarita) 佛所行讚	Translated by Dharmakṣema in 5 scrolls	taisho/t0192_00.txt	Taishō	Sūtra	414-426	jātaka
-taisho/t0193.csv	taisho/t0193.html	Fo Ben Xing Jing 佛本行經	Translated by Bao Yun in 7 scrolls	taisho/t0193_00.txt	Taishō	Sūtra	424-453	jātaka
+taisho/t0193.csv	taisho/t0193.html	Fo Ben Xing Jing (Buddhacarita) 佛本行經	Translated by Bao Yun in 7 scrolls	taisho/t0193_00.txt	Taishō	Sūtra	424-453	jātaka
 taisho/t0194.csv	taisho/t0194.html	Scriptures Compiled by Saṃgharakṣa (Sengjialuocha Suo Ji Jing) 僧伽羅剎所集經	Translated by Saṅghabhuti in 3 scrolls	taisho/t0194_00.txt	Taishō	Sūtra	385	jātaka
 taisho/t0195.csv	taisho/t0195.html	Shi Er You Jing 佛說十二遊經	Translated by Kālodaka in 1 scroll	taisho/t0195_00.txt	Taishō	Sūtra	392	jātaka
 taisho/t0196.csv	taisho/t0196.html	Sutra on the Life of Śākyamuni (Zhong Benqi Jing) 中本起經	Translated by Tan Guo and Kang Meng Xiang in 2 scrolls	taisho/t0196_00.txt	Taishō	Sūtra	207	jātaka
@@ -380,7 +380,7 @@ taisho/t0367.csv	taisho/t0367.html	Sukhāvatīvyūha (Chengzan Jing Tu Fo Shesho
 taisho/t0368.csv	taisho/t0368.html	Ba Yiqie Yezhang Genben De Sheng Jingtu Shen Zhou 拔一切業障根本得生淨土神呪	Translated by Guṇabhadra	taisho/t0368_00.txt	Taishō	Sūtra	420-479	pureland
 taisho/t0369.csv	taisho/t0369.html	Emituofo Shuo Zhou 阿彌陀佛說呪	Translated by Unknown	taisho/t0369_00.txt	Taishō	Sūtra		pureland
 taisho/t0370.csv	taisho/t0370.html	Aparimitāyurjñānahṛdayadhāraṇī / Emituo Gu Yinsheng Wang Tuoluoni Jing 阿彌陀鼓音聲王陀羅尼經	Translated by Unknown	taisho/t0370_00.txt	Taishō	Sūtra	502-557	pureland
-taisho/t0371.csv	taisho/t0371.html	Māyopamasamādhisūtra (Guanyinshiyin Pusa Shouji Jing) 觀世音菩薩授記經	Translated by Dharmodgata	taisho/t0371_00.txt	Taishō	Sūtra	420	pureland
+taisho/t0371.csv	taisho/t0371.html	Sūtra on Avalokiteśvara Bodhisattva's Prediction (Guanyinshiyin Pusa Shouji Jing) 觀世音菩薩授記經	Translated by Dharmodgata	taisho/t0371_00.txt	Taishō	Sūtra	420	pureland
 taisho/t0372.csv	taisho/t0372.html	Māyopamasamādhisūtra (Ru Huan Sanmodi Wuliang Yin Famen Jing) 如幻三摩地無量印法門經	Translated by Dānapāla	taisho/t0372_00.txt	Taishō	Sūtra	1009	pureland
 taisho/t0373.csv	taisho/t0373.html	Hou Chu Emituo Fo Ji 後出阿彌陀佛偈	Translated by Unknown	taisho/t0373_00.txt	Taishō	Sūtra	25-220	pureland
 taisho/t0374.csv	taisho/t0374.html	Mahāparinirvāṇasūtra (Mahaparinirvana Sutra) 大般涅槃經	Translated by Dharmakṣema	taisho/t0374_00.txt	Taishō	Sūtra	414-421	nirvāṇa
@@ -1482,7 +1482,7 @@ taisho/t1418.csv	taisho/t1418.html	Sutra for the All Tathagatas Peaceful Images 
 taisho/t1419.csv	taisho/t1419.html	Defining the Image - Measurements in Image-Making (Fo Shuo Zaoxiang Liangdu Jing Jie) 佛說造像量度經解	Translated by Gongbuchabu	taisho/t1419_00.txt	Taishō	Sūtra	1644-1911	esoteric
 taisho/t1420.csv	taisho/t1420.html	Nāgārjuna’s Treatise of the Five Sciences (Long Shu Wu Ming Lun) 龍樹五明論		taisho/t1420_00.txt	Taishō	Sūtra		esoteric
 taisho/t1421.csv	taisho/t1421.html	Mahīśāsakavinaya 彌沙塞部和醯五分律	Translated by Buddhajīva and Zhu Daosheng	taisho/t1421_00.txt	Taishō	Vinaya	423-424	vinaya
-taisho/t1422a.csv	taisho/t1422a.html	Mi Sha Sai Wu Fen Jie Ben 彌沙塞五分戒本	Translated by Buddhajīva and others	taisho/t1422a_00.txt	Taishō	Vinaya	423-424	vinaya
+taisho/t1422a.csv	taisho/t1422a.html	(Mi Sha Sai Wu Fen Jie Ben) 彌沙塞五分戒本	Translated by Buddhajīva and others	taisho/t1422a_00.txt	Taishō	Vinaya	423-424	vinaya
 taisho/t1422b.csv	taisho/t1422b.html	Wu Fen Jie Ben 五分戒本	Translated by Buddhajīva and others	taisho/t1422b_00.txt	Taishō	Sūtra	420-479	vinaya
 taisho/t1423.csv	taisho/t1423.html	Wu Fen Biqiuni Jie Ben 五分比丘尼戒本	Compiled by Ming Hui	taisho/t1423_00.txt	Taishō	Vinaya	522	vinaya
 taisho/t1424.csv	taisho/t1424.html	Mahīśāsakakarman (Mi Sha Sai Jiemo Ben) 彌沙塞羯磨本	Recorded by Ai Tong	taisho/t1424_00.txt	Taishō	Vinaya	705-706	vinaya
