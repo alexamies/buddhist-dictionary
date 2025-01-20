@@ -415,10 +415,10 @@ taisho/t0402.csv	taisho/t0402.html	Ratnaketudhāraṇī (Bao Xing Tuoluoni Jing)
 taisho/t0403.csv	taisho/t0403.html	Akṣayamatinirdeśasūtra (Echamo Pusa Jing) 阿差末菩薩經	Translated by Dharmarakṣa	taisho/t0403_00.txt	Taishō	Sūtra	308	mahāsaṃnipāta
 taisho/t0404.csv	taisho/t0404.html	Gagaṇagañjaparipṛcchā (Da Ji Da Xukongzang Pusa Suo Wen Jing) 大集大虛空藏菩薩所問經	Translated by Amoghavajra	taisho/t0404_00.txt	Taishō	Sūtra	720-774	mahāsaṃnipāta
 taisho/t0405.csv	taisho/t0405.html	Ākāśagarbhasūtra (Xukong Zang Pusa Jing) 虛空藏菩薩經	Translated by Buddhayaśas	taisho/t0405_00.txt	Taishō	Sūtra	408-413	mahāsaṃnipāta
-taisho/t0406.csv	taisho/t0406.html	Xukong Zang Pusa Shen Zhou Jing 虛空藏菩薩神呪經	Translated by Unknown	taisho/t0406_00.txt	Taishō	Sūtra		mahāsaṃnipāta
-taisho/t0407.csv	taisho/t0407.html	Ākāśagarbhasūtra (Xukong Zang Pusa Shen Zhou Jing) 虛空藏菩薩神呪經	Translated by Dharmamitra	taisho/t0407_00.txt	Taishō	Sūtra	424-441	mahāsaṃnipāta
-taisho/t0408.csv	taisho/t0408.html	Ākāśagarbhasūtra (Xukong Zang Pusa Shen Zhou Jing) 虛空孕菩薩經	Translated by Jñānagupta	taisho/t0408_00.txt	Taishō	Sūtra	589-618	mahāsaṃnipāta
-taisho/t0409.csv	taisho/t0409.html	Guan Xukong Pusa Jing 觀虛空藏菩薩經	Translated by Dharmamitra	taisho/t0409_00.txt	Taishō	Sūtra	424-441	mahāsaṃnipāta
+taisho/t0406.csv	taisho/t0406.html	Sutra on the Sacred Mantra of Akasagarbha Bodhisattva (Xukong Zang Pusa Shen Zhou Jing) 虛空藏菩薩神呪經	Translated by Unknown	taisho/t0406_00.txt	Taishō	Sūtra		mahāsaṃnipāta
+taisho/t0407.csv	taisho/t0407.html	Ākāśagarbha Sūtra (Xukong Zang Pusa Shen Zhou Jing) 虛空藏菩薩神呪經	Translated by Dharmamitra	taisho/t0407_00.txt	Taishō	Sūtra	424-441	mahāsaṃnipāta
+taisho/t0408.csv	taisho/t0408.html	Ākāśagarbha Sūtra (Xukong Zang Pusa Shen Zhou Jing) 虛空孕菩薩經	Translated by Jñānagupta	taisho/t0408_00.txt	Taishō	Sūtra	589-618	mahāsaṃnipāta
+taisho/t0409.csv	taisho/t0409.html	Sutra on the Contemplation of Akasagarbha Bodhisattva (Guan Xukong Pusa Jing) 觀虛空藏菩薩經	Translated by Dharmamitra	taisho/t0409_00.txt	Taishō	Sūtra	424-441	mahāsaṃnipāta
 taisho/t0410.csv	taisho/t0410.html	Daśacakrakṣitigarbha (Dafangguang Shi Lun Jing) 大方廣十輪經	Translated by Unknown	taisho/t0410_00.txt	Taishō	Sūtra	397-439	mahāsaṃnipāta
 taisho/t0411.csv	taisho/t0411.html	Daśacakrakṣitigarbha (Dasheng Da Ji Dizang Shi Lun Jing) 大乘大集地藏十輪經	Translated by Xuan Zang	taisho/t0411_00.txt	Taishō	Sūtra	651-652	mahāsaṃnipāta
 taisho/t0412.csv	taisho/t0412.html	Sūtra of the Great Vows of Kṣitigarbha Bodhisattva 地藏菩薩本願經	Translated by Śikṣānanda	taisho/t0412_00.txt	Taishō	Sūtra	618-907	mahāsaṃnipāta
@@ -738,7 +738,7 @@ taisho/t0719.csv	taisho/t0719.html	Shi Er Yuan Sheng Xiangrui Jing 十二緣生�
 taisho/t0720.csv	taisho/t0720.html	Wuming Luocha Ji 無明羅剎集	Translated by Unknown	taisho/t0720_00.txt	Taishō	Sūtra	351-431	jingji
 taisho/t0721.csv	taisho/t0721.html	Saddharmasmṛtyupasthānasūtra (Sutra of the Right Mindfulness of Dharma) 正法念處經	Translated by Gautama Prajñāruci	taisho/t0721_00.txt	Taishō	Sūtra	538-541	jingji
 taisho/t0722.csv	taisho/t0722.html	Saddharmasmṛtyupasthānasūtra (Miao Fa Sheng Nian Chu Jing) 妙法聖念處經	Translated by Fa Tian	taisho/t0722_00.txt	Taishō	Sūtra	985	jingji
-taisho/t0723.csv	taisho/t0723.html	Fenbie Yebao Lue Jing 分別業報略經	Translated by Saṅghavarman	taisho/t0723_00.txt	Taishō	Sūtra	434-442	jingji
+taisho/t0723.csv	taisho/t0723.html	Summary of the Different Types of Karmic Retribution (Fenbie Yebao Lue Jing) 分別業報略經	Translated by Saṅghavarman	taisho/t0723_00.txt	Taishō	Sūtra	434-442	jingji
 taisho/t0724.csv	taisho/t0724.html	Fo Shuo Zuiye Ying Bao Jiaohua Diyu Jing 佛說罪業應報教化地獄經	Translated by An Shigao	taisho/t0724_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0725.csv	taisho/t0725.html	Fo Shuo Liu Dao Jiatuo Jing 佛說六道伽陀經	Translated by Fa Tian	taisho/t0725_00.txt	Taishō	Sūtra	984	jingji
 taisho/t0726.csv	taisho/t0726.html	Liu Qu Lunhui Jing 六趣輪迴經	Translated by Ri Cheng and others	taisho/t0726_00.txt	Taishō	Sūtra	1058-1072	jingji
@@ -1566,7 +1566,7 @@ taisho/t1499.csv	taisho/t1499.html	Pusa Jie Jiemo Wen 菩薩戒羯磨文	Spoken 
 taisho/t1500.csv	taisho/t1500.html	Pusa Jie Ben 菩薩戒本	Translated by Dharmakṣema	taisho/t1500_00.txt	Taishō	Vinaya	 414-426	vinaya
 taisho/t1501.csv	taisho/t1501.html	Pusa Jie Ben 菩薩戒本	Translated by Xuan Zang	taisho/t1501_00.txt	Taishō	Vinaya	647-649	vinaya
 taisho/t1502.csv	taisho/t1502.html	Pusa Shou Zhai Jing 菩薩受齋經	Translated by Nie Dao Zhen	taisho/t1502_00.txt	Taishō	Vinaya	280-313	vinaya
-taisho/t1503.csv	taisho/t1503.html	Youposai Wu Jie Weiyi Jing 優婆塞五戒威儀經	Translated by Guṇaśāla	taisho/t1503_00.txt	Taishō	Vinaya	431	vinaya
+taisho/t1503.csv	taisho/t1503.html	Scripture on the Solemn Ritual for the Five Precepts for Lay People (Youposai Wu Jie Weiyi Jing) 優婆塞五戒威儀經	Translated by Guṇaśāla	taisho/t1503_00.txt	Taishō	Vinaya	431	vinaya
 taisho/t1504.csv	taisho/t1504.html	Pusa Wu Fa Chanhui Wen 菩薩五法懺悔文	Translated by Unknown	taisho/t1504_00.txt	Taishō	Vinaya	502-557	vinaya
 taisho/t1505.csv	taisho/t1505.html	Digest of the Four Āgamas (Si Ahan Mu Chao Jie) 四阿鋡暮抄解	Written by Vasubhadra, translated by Kumārabuddhi and others	taisho/t1505_00.txt	Taishō	śastra	382	śastra
 taisho/t1506.csv	taisho/t1506.html	Treatise on the Three Laws 三法度論	Translated by Saṅghadeva	taisho/t1506_00.txt	Taishō	śastra	391	śastra
@@ -1646,8 +1646,8 @@ taisho/t1578.csv	taisho/t1578.html	Karatalaratna (Dasheng Zhang Zhen Lun) 大乘
 taisho/t1579.csv	taisho/t1579.html	Yogācāryabhūmiśāstra (Yujia Shi Di Lun) 瑜伽師地論	Spoken by Maitreya Bodhisattva, translated by Xuanzang	taisho/t1579_00.txt	Taishō	śastra	646-648	yogācāra
 taisho/t1580.csv	taisho/t1580.html	Yogācāryabhūmiśāstrakārikā (Yujia Shi Di Lun Shi) 瑜伽師地論釋	Composed by Jinaputra, translated by Xuanzang	taisho/t1580_00.txt	Taishō	śastra	650	yogācāra
 taisho/t1581.csv	taisho/t1581.html	Bodhisattvabhūmi (Pusa Xing Chi Jing) 菩薩地持經	Translated by Dharmakṣema	taisho/t1581_00.txt	Taishō	śastra	414-426	yogācāra
-taisho/t1582.csv	taisho/t1582.html	Bodhisattvabhūmi (Pusa Shan Jie Jing) 菩薩善戒經	Translated by Guṇaśāla	taisho/t1582_00.txt	Taishō	śastra	431	yogācāra
-taisho/t1583.csv	taisho/t1583.html	Bodhisattvacāryanirdeśa (Pusa Shan Jie Jing) 菩薩善戒經	Translated by Guṇaśāla	taisho/t1583_00.txt	Taishō	śastra	431	yogācāra
+taisho/t1582.csv	taisho/t1582.html	Sūtra on the Virtuous Precepts of the Bodhisattvas (Pusa Shan Jie Jing) 菩薩善戒經	Translated by Guṇavarman	taisho/t1582_00.txt	Taishō	śastra	431	yogācāra
+taisho/t1583.csv	taisho/t1583.html	Bodhisattvacāryanirdeśa (Pusa Shan Jie Jing) 菩薩善戒經	Translated by Guṇavarman	taisho/t1583_00.txt	Taishō	śastra	431	yogācāra
 taisho/t1584.csv	taisho/t1584.html	Jueding Cang Lun 決定藏論	Translated by paramārtha	taisho/t1584_00.txt	Taishō	śastra	548-557	yogācāra
 taisho/t1585.csv	taisho/t1585.html	Vijñaptimātratāsiddhiśāstra (Cheng Weishi Lun) 成唯識論	Composed by Dharmapāla, translated by Xuanzang	taisho/t1585_00.txt	Taishō	śastra	659	yogācāra
 taisho/t1586.csv	taisho/t1586.html	Thirty Verses on Consciousness Only  (Xuan Zang) 唯識三十論頌	Composed by Vasubandhu, translated by Xuanzang	taisho/t1586_00.txt	Taishō	śastra	648	yogācāra
@@ -1738,7 +1738,7 @@ taisho/t1670A.csv	taisho/t1670A.html	Miliṇḍapañha (Questions of Miliṇḍa
 taisho/t1670B.csv	taisho/t1670B.html	Miliṇḍapañha (Questions of Miliṇḍa) 那先比丘經	Translated by Unknown	taisho/t1670B_00.txt	Taishō	śastra	317-420	śastra
 taisho/t1671.csv	taisho/t1671.html	Fu Gai Zheng Xing Suo Ji Jing 福蓋正行所集經	Compiled by Nāgārjuna, translated by Ri Cheng and others	taisho/t1671_00.txt	Taishō	śastra	1058-1072	śastra
 taisho/t1672.csv	taisho/t1672.html	Suhṛllekha (Long Shu Pusa Wei Chan Tuo Jia Wang Shuofa Yao Ji) 龍樹菩薩為禪陀迦王說法要偈	Translated by Guṇaśāla	taisho/t1672_00.txt	Taishō	śastra	431	śastra
-taisho/t1673.csv	taisho/t1673.html	Suhṛllekha (Quan Fa Zhu Wang Yao Ji) 勸發諸王要偈	Compiled by Nāgārjuna, translated by Saṅghavarman	taisho/t1673_00.txt	Taishō	śastra	434-442	śastra
+taisho/t1673.csv	taisho/t1673.html	Dharma Essentials Verses for the Exhortation of Kings (Suhṛllekha) 勸發諸王要偈	Compiled by Nāgārjuna, translated by Saṅghavarman	taisho/t1673_00.txt	Taishō	śastra	434-442	śastra
 taisho/t1674.csv	taisho/t1674.html	Suhṛllekha (In Praise of Nagarjuna Admonishing the King) 龍樹菩薩勸誡王頌	Translated by Yijing	taisho/t1674_00.txt	Taishō	śastra	700-711	śastra
 taisho/t1675.csv	taisho/t1675.html	Dharmadhātustotra (Zan Fajie Song) 讚法界頌	Composed by Nāgārjuna, translated by Dānapāla	taisho/t1675_00.txt	Taishō	śastra	984	śastra
 taisho/t1676.csv	taisho/t1676.html	Guangda Fa Yuan Song 廣大發願頌	Composed by Nāgārjuna, translated by Dānapāla and others	taisho/t1676_00.txt	Taishō	śastra	1010	śastra
