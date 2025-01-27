@@ -10099,7 +10099,7 @@
 8010099	毗	\N	pí	vai	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vai (BCSD '毗', p. 697)	8010099
 8010100	毘	\N	pí	vai	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vai, Japanese: hi, or: bi (BCSD '毘', p. 697; Unihan '毘')	8010100
 8010101	缘中	緣中	yuánzhōng	the place at which the mind is centered	phrase	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	(Ding '緣中'; FGDB '緣中'; SH '緣中', p. 440)	8010101
-8010102	一食	\N	yī shí	one meal	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一食'; FGDB '一食'; SH '一食', p. 10)	8010102
+8010102	一食	\N	yī shí	one meal per day	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '一食'; FGDB '一食'; SH '一食', p. 10)	8010102
 8010103	众生说	眾生說	zhòngshēng shuō	to explain a sūtra to many people	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of 說經 teaching the sūtras (Ding '眾生說')	8010103
 8010104	毛	\N	máo	hair; roma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: roma, Japanese: mou, or: bou, Tibetan: spu (BCSD '毘', p. 700; Edgerton 1953 'roma', p. 457; Mahāvyutpatti 'roma'; MW 'roma'; Unihan '毛')	8010104
 8010105	无畏施	無畏施	wúwèishī	the gift of non-fear or confidence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhayapradāna (Ding '三施'; FGDB '無畏施'; SH '無畏施', p. 381)	8010105
@@ -16931,3 +16931,27 @@
 8016931	一际	一際	yī jì	same realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一際'; SH '一際', p. 9)	8016931
 8016932	持信	\N	chí xìn	grasp the truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Apple 2012, p. 101)	8016932
 8016933	邬波陀耶	鄔波陀耶	wūbōtuóyé	upādhyāya; a preceptor	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upādhyāya; see 鄔波馱耶 (Mair 2012, p. 150)	8016933
+8016934	一雨	\N	yī yǔ	a rain	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to a teaching by the Buddha (FGDB '一雨'; SH '一雨', p. 9)	8016934
+8016935	般遮于瑟会	般遮于瑟會	bānzhēyúsè huì	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; an assembly instituted by Asoka for repentance, teaching of morality, and charity (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016935
+8016936	般遮于瑟	般遮于瑟	bānzhēyúsè	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016936
+8016937	一音教	\N	yī yīn jiāo	one-sound teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The who of the Buddha's teachings; a school founded by Kumārajīva and Bodhiruci (FGDB '一音教'; SH '一音教', p. 9)	8016937
+8016938	一圆音教	一圓音教	yī yuányīn jiāo	perfect-voice teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一音教 (FGDB '一圓音教')	8016938
+8016939	一音说法	一音說法	yī yīn shuōfǎ	one-voice Dharma teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一音教 (FGDB '一圓音教')	8016939
+8016940	无遮大会	無遮大會	wúzhēdàhuì	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016940
+8016941	般阇于瑟会	般闍于瑟會	bānshéyúsè huì	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016941
+8016942	一愿建立	一願建立	yī yuàn jiànlì	the vows to establish the sect of Amitābha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Japanese Buddhism concept (FGDB '一願建立'; SH '一願建立', p. 10)	8016942
+8016943	般阇于瑟	般闍于瑟	bānshéyúsè	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016943
+8016944	般遮跋利沙会	般遮跋利沙會	bānzhēbálìshā huì	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016944
+8016945	一体三分	一體三分	yī tǐ sān fēn	one body, three manifestations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Maheśvara (Śiva), Nārāyaṇa (Viṣṇu), and Brahmā (FGDB '一體三分'; SH '一體三分', p. 10)	8016945
+8016946	般遮跋利沙	般遮跋利沙	bānzhēbálìshā	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016946
+8016947	般遮婆栗迦史会	般遮婆栗迦史會	bānzhēpólìjiāshǐ huì	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016947
+8016948	一体三宝	一體三寶	yī tǐ sān bǎo	one body, three treasures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The one body of the Saṅgha is the triple gem of the Buddha, Dharma, and Saṅgha (FGDB '一體三寶'; SH '一體三寶', p. 10)	8016948
+8016949	同体三宝	同體三寶	tóng tǐ sān bǎo	one body, three treasures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一體三寶 (FGDB '一體三寶')	8016949
+8016950	同相三宝	同相三寶	tóng xiāng sān bǎo	one body, three treasures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一體三寶 (FGDB '一體三寶')	8016950
+8016951	般遮婆栗迦史	般遮婆栗迦史	bānzhēpólìjiāshǐ	Quinquennial Meeting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcavārṣika; see 般遮于瑟會 (FGDB '般遮于瑟會'; Mair 2012, p. 152)	8016951
+8016952	奉法	\N	fèng fǎ	to uphold the Dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Apple 2012, p. 101)	8016952
+8016953	一体三身自性佛	一體三身自性佛	yī tǐ sān shēn zì xìng fó	to have the three bodies of the self-natured Buddha in oneself	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一體三身自性佛'; SH '一體三身自性佛', p. 10)	8016953
+8016954	野狐禅	野狐禪	yěhú chán	wild fox Chan	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Seemlingly so but not truly Buddhist (Ding '野狐禪'; FGDB '野狐禪'; SH '野狐禪', p. 366)	8016954
+8016955	野狐精	\N	yěhú jīng	a fox spirit	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Chan literature, for example, in the No. 15 koan in 碧巖錄 ”The Blue Cliff Record”; refers to people who cheat others by claiming something imaginary (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 91; Ding '野狐精'; FGDB '野狐精'; T 2003, Scroll 2)	8016955
+8016956	一体速疾力三昧	一體速疾力三昧	yī tǐ sù jí lì sānmèi	Samadi of Instantaneous Power	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '一體速疾力三昧'; SH '一體速疾力三昧', p. 10)	8016956
+8016957	一切如来一体速疾力三昧	一切如來一體速疾力三昧	yīqiè rúlái yī tǐ sù jí lì sānmèi	Samadi of Instantaneous Power of all the Tathagatas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 一體速疾力三昧 (FGDB '一體速疾力三昧')	8016957
