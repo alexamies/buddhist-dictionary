@@ -10,7 +10,7 @@
 7000010	西本愿寺	西本願寺	xīběnyuànsì	Nishi Hongan-ji	proper noun	寺院	Monastery	佛教	Buddhism	日本	Japan	\N	\N	Temple in in Kyoto (Wikipedia '西本願寺')	7000010
 7000011	东本愿寺	東本願寺	dōngběnyuànsì	Higashi Hongan-ji	proper noun	寺院	Monastery	佛教	Buddhism	日本	Japan	\N	\N	(Wikipedia '東本願寺')	7000011
 7000012	石山本愿寺	石山本願寺	shíshān běnyuànsì	Ishiyama Hongan-ji	proper noun	寺院	Monastery	佛教	Buddhism	日本	Japan	\N	\N	(Wikipedia '石山本願寺')	7000012
-7000013	净土真宗	淨土真宗	jìntǔ zhēnzōng	Jōdo Shinshū	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	A Japanese school of Pure Land Buddhism (Wikipedia '淨土真宗')	7000013
+7000013	井上圆了	井上圓了	jǐngshàng yuánle	Inoue Enryō	proper noun	人	Person	佛教	Buddhism	日本	Japan	\N	\N	1858 – 1919; Japanese philosopher and Shin Buddhist priest (Wikipedia '井上圓了')	7000013
 7000014	大谷光瑞	\N	dàgǔ guāngruì	ōtani Kōzui	proper noun	人	Person	佛教	Buddhism	日本	Japan	\N	\N	(Wikipedia '大谷光瑞')	7000014
 7000015	橘瑞超	\N	júruìchāo	Zuicho Tachibana	proper noun	人	Person	佛教	Buddhism	日本	Japan	\N	\N	(Wikipedia '橘瑞超')	7000015
 7000016	金南泉	\N	jīn nánquán	Kim Namcheon	proper noun	法师	Monastic	佛教	Buddhism	韩国	Korea	\N	\N	1868-1936; Korean monastic (FGDB '金南泉')	7000016
@@ -700,9 +700,9 @@
 7000700	菩萨本业经	菩薩本業經	púsà běn yè jīng	Sutra on Stories of the Former Karma of the Bodhisattva; Pusa Ben Ye Jing	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '菩薩本業經'; Nanjio 1883, p. 36; T 281; KDC 94)	7000700
 7000701	菩萨十住经	菩薩十住經	púsà shí zhù jīng	Sutra on the Ten Abodes of the Bodhisattva; Pusa Shi Zhu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 284; KDC 97)	7000701
 7000702	祇多蜜	\N	zhǐduōmì	Gītamitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	A monastic from the Western Regions who travelled to China in the Eastern Jin, translated 《菩薩十住經》'Pusa Shi Zhu Jing' (FGDB '祇多蜜'; KDC 97; T 284)	7000702
-7000703	渐備一切智德经	漸備一切智德經	jiàn Bèi yīqiè zhì dé jīng	Daśabhūmikasūtra; Jian Bei Yiqie Zhi De Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 285; KDC 89)	7000703
-7000704	十住经	十住經	shí zhù jīng	Daśabhūmikasūtra; Shi Zhu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (FGDB '十住經'; KDC 98; T 286)	7000704
-7000705	佛说十住经	佛說十地經	fóshuō shí zhù jīng	Daśabhūmikasūtra; Foshuo Shi Zhu Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The title of a text in the Chinese Buddhist canon (T 287; KDC 1388)	7000705
+7000703	渐備一切智德经	漸備一切智德經	jiàn Bèi yīqiè zhì dé jīng	Daśabhūmika Sūtra; Jian Bei Yiqie Zhi De Jing	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit: daśabhūmikasūtra; the title of a text in the Chinese Buddhist canon (T 285; KDC 89)	7000703
+7000704	十住经	十住經	shí zhù jīng	Ten Stages Sutra; Daśabhūmika; Daśabhūmika Sūtra	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit: daśabhūmikasūtra; the title of a text in the Chinese Buddhist canon (FGDB '十住經'; Wikipedia '十地經'; KDC 98; T 286)	7000704
+7000705	佛说十住经	佛說十地經	fóshuō shí zhù jīng	Ten Stages Sutra; Daśabhūmika Sūtra	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	Sanskrit: daśabhūmikasūtra; the title of a text in the Chinese Buddhist canon (T 287; KDC 1388)	7000705
 7000706	执金刚神	執金剛神	zhíjīngāngshén	Vajradhara	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	The name of a Buddha in the Tibetan tradition (Wikipedia '執金剛神')	7000706
 7000707	慈恩寺	\N	cí ēn sì	Ci En Temple	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	Birthplace of the Ci'en School (Wikipedia '大慈恩寺')	7000707
 7000708	大慈恩寺	\N	dà cí ēn sì	Ci En Temple	proper noun	寺院	Monastery	佛教	Buddhism	中国	China	\N	\N	Birthplace of the Ci'en School (Wikipedia '大慈恩寺')	7000708
@@ -818,7 +818,7 @@
 7000818	印顺法师	印順法師	yìnshùn fǎshī	Yin Shun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 印順 (Wikipedia '印顺法师')	7000818
 7000819	袾宏	\N	zhū hóng	Zhu Hong; Master of Yunqi	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	1535–1615 Chinese monastic and critic of the Jesuits (Ding '雲棲'; FGDB '袾宏'; Wikipedia '蓮池祩宏')	7000819
 7000820	金善宗	\N	jīn shàn zōng	Kim Seonjong	proper noun	师父	Monastic	佛教	Buddhism	韩国	South Korea	\N	mian4.mp3	Hangul: 김선종; 590-658, given name of Korean monk Jajang (Wikipedia 'Jajang')	7000820
-7000821	寂天	\N	jìtiān	Santideva	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śāntideva, Tibetan: zhi ba lha; an 8th-century Indian Buddhist scholar (BL 'Śāntideva'p. 774; BSAD '寂天', ID: A017001; FGDB '寂天'; Wikipedia '寂天')	7000821
+7000821	寂天	\N	jìtiān	Santideva	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: śāntideva, Tibetan: zhi ba lha; an 8th-century Indian Buddhist scholar; known for works, including 菩提行經 A Guide to the Bodhisattva Way of Life (BL 'Śāntideva'p. 774; BSAD '寂天', ID: A017001; FGDB '寂天'; Wikipedia '寂天')	7000821
 7000822	僧肇	\N	 sēng zhào	Seng Zhao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Japanese: Sōjō; 384-414; Eastern Jin monastic based in Chang'an, working under Kumārajīva. Seng Zhao is attributed with composing the 寶藏論 “Treasure Store Treatise” and 金剛經註 “Jingang Jing Zhu” (BL 'Sengzhao', p. 794; Ding '因緣生'; FGDB '因緣生'; Sharf 2005, p. 31; T 1857; X 454)	7000822
 7000823	达磨笈多	達磨笈多	dámó jíduō	Dharmagupta	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 達摩笈多 (FGDB '達摩笈多')	7000823
 7000824	陈那	陳那	chénnà	Dignaga; Dignāga	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dignāga, Japanese: Jinna;; 480 – c. 540 Indian monk and scholar important in the study of Buddhist Logics (BL 'Dignāga', p. 259; Edelglass and Garfield 2009, p. 107; FGDB '陳那')	7000824
@@ -7108,9 +7108,9 @@
 7007108	难提迦	難提迦	nántíjiā	Nandika	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: nandika, Tibetan: dga' yod; a disciple of Śākyamuni, brother of Devadatta (BCSD '難提迦', p. 1240; Edgerton 1953 'nandika', p. 290; Mahāvyutpatti 'nandikaḥ'; MW 'nandika'; SH '難提迦', p. 475)	7007108
 7007109	罗越	羅越	luóyuè	Rājagṛha; Rajgir; Rajagrha; Rājagaha	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	See 王舍城 (SH '羅越', p. 472)	7007109
 7007110	道行经	道行經	dàoxíngjīng	Sutra on the Practice of the Way	proper noun	典籍	Canonical Text	佛教	Buddhism	印度	India	\N	\N	The title of a summary work listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji” (T 2145, 55.0006b04)	7007110
-7007111	般若道行品经	般若道行品經	bōrě dào xíng pǐn jīng	sūtra on the Prajñāpāramitā Practice of the Way	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	An alternative title listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji;” see 道行般若經 (T 2145, 55.0006b08)	7007111
-7007112	摩诃般若波罗经	摩訶般若波羅經	móhē bōrě bōluó jīng	Greater sūtra on the Prajñāpāramitā Practice of the Way	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji;” see 道行般若經 (T 2145, 55.0006b08)	7007112
-7007113	道行般若波罗蜜经	道行般若波羅蜜經	dào xíng bōrě bōluómì jīng	Sūtra on the Prajñāpāramitā Practice of the Way	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title for 道行般若經 (FGDB '道行般若經')	7007113
+7007111	般若道行品经	般若道行品經	bōrě dào xíng pǐn jīng	sūtra on the Prajñāpāramitā Practice of the Way	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	An alternative title of 道行般若經 listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji;” see 道行般若經 (T 224)	7007111
+7007112	摩诃般若波罗经	摩訶般若波羅經	móhē bōrě bōluó jīng	Greater sūtra on the Prajñāpāramitā Practice of the Way	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji;” see 道行般若經 (T 224)	7007112
+7007113	道行般若波罗蜜经	道行般若波羅蜜經	dào xíng bōrě bōluómì jīng	Sūtra on the Prajñāpāramitā Practice of the Way	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title for 道行般若經 (FGDB '道行般若經'; T 224)	7007113
 7007114	般舟般三昧经	般舟般三昧經	bānzhōubān sānmèi jīng	Pratyutpanna-Samādhi sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A canonical title listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji;” see 般舟三昧經 (T 2145, 55.0006b08)	7007114
 7007115	大般舟三昧经	大般舟三昧經	dà bānzhōu sānmèi jīng	Great Pratyutpanna-Samādhi sūtra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A canonical title listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji;” see 般舟三昧經 (T 2145, 55.0006b08)	7007115
 7007116	伅真陀罗经	伅真陀羅經	dùn zhēntuóluó jīng	Druma-Kiṃnara Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A canonical title listed in Scroll 2 of 出三藏記集 “Chu San Zang Ji Ji”; see 佛說伅真陀羅所問如來三昧經 (Nattier 2008, p. 77; Zhu 2019, pp. 30-31; T 624)	7007116
@@ -8154,3 +8154,12 @@
 7008154	释僧祐	釋僧祐	shì sēngyòu	Shi Sengyou	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 僧祐 (FGDB '僧祐')	7008154
 7008155	相续解脱经	相續解脫經	xiāngxù jiětuō jīng	Sutra on Liberation from the Continuity of Causal Connections	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 相續解脫地波羅蜜了義經 (FGDB '相續解脫經'; T 678)	7008155
 7008156	法勇	\N	fǎyǒng	Fayong; Dharmodgata	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Liu Song dynasty monastic (BSAD '法勇'; FGDB '法勇')	7008156
+7008157	镜清道怤	鏡清道怤	jìngqīng dàofū	Jingqing Daofu	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 道怤 (FGDB '鏡清道怤')	7008157
+7008158	道怤	\N	dàofū	Daofu	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	868-937 (FGDB '道怤')	7008158
+7008159	镜清	鏡清	jìngqīng	Jingqing	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 道怤 (FGDB '鏡清道怤')	7008159
+7008160	前田慧云	前田慧雲	qiántián huìyún	Maeda Eun	person noun	人	Person	佛教	Buddhism	日本	Japan	\N	\N	Nineteenth century Japanese Buddhist scholar and associate of Nanjo Bunyu (Wilkinson 2016, p. 312-316)	7008160
+7008161	佛教圣典	佛教聖典	fójiào shèngdiǎn	Bukkyō Seiten	person noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Also known as the 'Buddhist Bible,' the title of a book by Maeda Eun and Nanjo Bunyu published in 1905 (Wilkinson 2016, p. 312)	7008161
+7008162	仏教圣典	仏教聖典	fójiāo shèngdiǎn	Bukkyō Seiten	person noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 佛教聖典 (Wilkinson 2016, p. 312)	7008162
+7008163	雪峰义存	雪峰義存	xuěfēng yìcún	Xuefeng Yicun	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 義存 (FGDB '雪峰義存')	7008163
+7008164	南院	\N	nányuàn	Nanyuan	proper noun	师父	Monastic	佛教	Buddhism	禅宗	Chan School	\N	\N	See 南院慧顒 (FGDB '南院慧顒')	7008164
+7008165	风穴延昭	風穴延昭	fēngxué yánzhāo	Fengxue Yanzhao	proper noun	师父	Monastic	佛教	Buddhism	禅宗	Chan School	\N	\N	See 延昭 (FGDB '風穴延昭')	7008165
