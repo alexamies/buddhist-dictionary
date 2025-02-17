@@ -210,7 +210,7 @@ taisho/t0199.csv	taisho/t0199.html	Story about Five Hundred Buddha Disciples (Fo
 taisho/t0200.csv	taisho/t0200.html	Zhuanji Bai Yuan Jing (Avadānaśataka) 撰集百緣經	Translated by Zhi Qian in 10 scrolls	taisho/t0200_00.txt	Taishō	Sūtra	223-253	avadāna
 taisho/t0201.csv	taisho/t0201.html	Da Zhuangyan Lun Jing (Kalpanāmaṇḍitikā) 大莊嚴論經	Translated by Kumārajīva in 15 scrolls	taisho/t0201_00.txt	Taishō	Sūtra	402-412	avadāna
 taisho/t0202.csv	taisho/t0202.html	Sutra on the Wise and Foolish (Damamūka) 賢愚經	Translated by Hui Jue in 13 scrolls	taisho/t0202_00.txt	Taishō	Sūtra	445	-
-taisho/t0203.csv	taisho/t0203.html	Za Baozang Jing 雜寶藏經	Translated by Kekaya and Tan Yao in 10 scrolls	taisho/t0203_00.txt	Taishō	Sūtra	472	-
+taisho/t0203.csv	taisho/t0203.html	The Storehouse of Sundry Valuables (Za Baozang Jing) 雜寶藏經	Translated by Kiṅkara and Tan Yao in 10 scrolls	taisho/t0203_00.txt	Taishō	Sūtra	472	-
 taisho/t0204.csv	taisho/t0204.html	Za Piyu Jing 雜譬喻經	Translated by Lokakṣema in 1 scroll	taisho/t0204_00.txt	Taishō	Sūtra	147-186	-
 taisho/t0205.csv	taisho/t0205.html	Za Piyu Jing 雜譬喻經	Translated by an unknown translator in 2 scrolls	taisho/t0205_00.txt	Taishō	Sūtra	25-220	-
 taisho/t0206.csv	taisho/t0206.html	Older Sutra of Parables 舊雜譬喻經	Translated by Kang Seng Hui in 2 scrolls	taisho/t0206_00.txt	Taishō	Sūtra	251	-
@@ -635,7 +635,7 @@ taisho/t0616.csv	taisho/t0616.html	The Essential Explanation of the Method of Dh
 taisho/t0617.csv	taisho/t0617.html	Essence of Contemplation (Siwei Lue Yao Fa) 思惟略要法	Translated by Kumārajīva	taisho/t0617_00.txt	Taishō	Sūtra	402-412	jingji
 taisho/t0618.csv	taisho/t0618.html	Dharmatrāta-Dhyāna Sūtra (Damoduoluo Chan Jing) 達摩多羅禪經	Translated by Buddhabhadra	taisho/t0618_00.txt	Taishō	Sūtra	398-421	jingji
 taisho/t0619.csv	taisho/t0619.html	Scripture on the The Five Gates of Chan - Essential Methods (Wu Men Chan Jing Yao Yongfa) 五門禪經要用法	Translated by 佛陀蜜多撰 劉宋 曇摩蜜多	taisho/t0619_00.txt	Taishō	Sūtra	441	jingji
-taisho/t0620.csv	taisho/t0620.html	Essential Methods for Curing Chan Sickness (Zhi Chan Bing Mi Yao Fa) 治禪病祕要法	Translated by Juqu Jingsheng	taisho/t0620_00.txt	Taishō	Sūtra	455	jingji
+taisho/t0620.csv	taisho/t0620.html	Essential Chan Methods for Curing Sickness (Zhi Chan Bing Mi Yao Fa) 治禪病祕要法	Translated by Juqu Jingsheng	taisho/t0620_00.txt	Taishō	Sūtra	455	jingji
 taisho/t0621.csv	taisho/t0621.html	Fo Shuo Fo Yin Sanmei Jing 佛說佛印三昧經	Translated by An Shigao	taisho/t0621_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0622.csv	taisho/t0622.html	Fo Shuo Zi Shi Sanmei Jing 佛說自誓三昧經	Translated by An Shigao	taisho/t0622_00.txt	Taishō	Sūtra	148‐170	jingji
 taisho/t0623.csv	taisho/t0623.html	Fo Shuo Rulai Du Zheng Zi Shi Sanmei Jing 佛說如來獨證自誓三昧經	Translated by Dharmarakṣa	taisho/t0623_00.txt	Taishō	Sūtra	266-313	jingji
@@ -1082,7 +1082,7 @@ taisho/t1039.csv	taisho/t1039.html	Arya-Tara Dharani Sutra (Ali Duoluo Tuoluoni 
 taisho/t1040.csv	taisho/t1040.html	Vajra Pinnacle Trailokyavijaya Ritual Manual Great Dharma Teacher Avalokitesvara Bodhisattva Heart Mantra All Tathagatas Lotus Mandala Chapter (Jingang Ding Jiang San Shi Da Yi Gui Fa Wang Jiao Zhong Guanzizai Pusa Xin Zhenyan Yiqie Rulai Lianhua Da Mantuluo Pin) 金剛頂降三世大儀軌法王教中觀自在菩薩心真言一切如來蓮華大曼荼羅品	Translated by Amoghavajra	taisho/t1040_00.txt	Taishō	Sūtra	746-774	esoteric
 taisho/t1041.csv	taisho/t1041.html	Guanzizai Pusa Xin Zhenyan Yi Yin Niansong Fa (Avalokitesvara Bodhisattva Heart Mantra and Mudra Liturgy) 觀自在菩薩心真言一印念誦法	Translated by Amoghavajra	taisho/t1041_00.txt	Taishō	Sūtra	618-907	esoteric
 taisho/t1042.csv	taisho/t1042.html	Avalokitesvara Bodhisattva Great Compassion Wisdom Mudra to Help Sentient Beings throgughout the Dharma Realm Tathata Ritual (Guanzizai Pusa Dabei Zhi Yin Zhou Bian Fajie Liyi Zhongsheng Xun Zhenru Fa) 觀自在菩薩大悲智印周遍法界利益眾生薰真如法	Translated by Amoghavajra	taisho/t1042_00.txt	Taishō	Sūtra	618-907	esoteric
-taisho/t1043.csv	taisho/t1043.html	Saḍakṣaravidyāmantrasūtra (Qing Guanshiyin Pusa Xiao Fu Duhai Tuoluoni Zhou Jing) 請觀世音菩薩消伏毒害陀羅尼呪經	Translated by Nandi	taisho/t1043_00.txt	Taishō	Sūtra	419	esoteric
+taisho/t1043.csv	taisho/t1043.html	Scripture for Invocation of Avalokiteśvara and Dharani for Overcoming Evil (Saḍakṣaravidyāmantrasūtra) 請觀世音菩薩消伏毒害陀羅尼呪經	Translated by Nandi	taisho/t1043_00.txt	Taishō	Sūtra	419	esoteric
 taisho/t1044.csv	taisho/t1044.html	Saḍakṣaravidyāmantrasūtra (Fo Shuo Liu Zi Zhou Wang Jing) 佛說六字呪王經	Translated by Unknown	taisho/t1044_00.txt	Taishō	Sūtra	317-420	esoteric
 taisho/t1045a.csv	taisho/t1045a.html	Saḍakṣaravidyāmantrasūtra (Fo Shuo Liu Zi Shen Zhou Wang Jing) 佛說六字神呪王經	Translated by Unknown	taisho/t1045a_00.txt	Taishō	Sūtra		esoteric
 taisho/t1045b.csv	taisho/t1045b.html	Saḍakṣaravidyāmantrasūtra (Liu Zi Shen Zhou Wang Jing) 六字神呪王經	Translated by Unknown	taisho/t1045b_00.txt	Taishō	Sūtra	502-557	esoteric
@@ -1498,7 +1498,7 @@ taisho/t1433.csv	taisho/t1433.html	Jiemo 羯磨	Translated by Tan Di	taisho/t143
 taisho/t1434.csv	taisho/t1434.html	Dharmaguptabhikṣuṇīkarman (Si Fen Biqiuni Jiemo Fa) 四分比丘尼羯磨法	Translated by Guṇaśāla	taisho/t1434_00.txt	Taishō	Vinaya	431	vinaya
 taisho/t1435.csv	taisho/t1435.html	Sarvāstivādavinaya (Shi Song Lu) 十誦律	Translated by Puṇyatara and Kumārajīva	taisho/t1435_00.txt	Taishō	Vinaya	399-413	vinaya
 taisho/t1436.csv	taisho/t1436.html	Sarvāstivādaprātimokṣasūtra (Shi Song Biqiu Boluo Ti Mu Cha Jie Ben) 十誦比丘波羅提木叉戒本	Translated by Kumārajīva	taisho/t1436_00.txt	Taishō	Vinaya	402-412	vinaya
-taisho/t1437.csv	taisho/t1437.html	SarvāstivādaBhikṣunīprātimokṣasūtra (Shi Song Biqiuni Boluo Ti Mu Cha Jie Ben) 十誦比丘尼波羅提木叉戒本	Compiled by Faxian	taisho/t1437_00.txt	Taishō	Vinaya	465-471	vinaya
+taisho/t1437.csv	taisho/t1437.html	Rules of Conduct for Sarvastivada Nuns (Sarvāstivāda Bhikṣunīprātimokṣasūtra) 十誦比丘尼波羅提木叉戒本	Compiled by Faxian	taisho/t1437_00.txt	Taishō	Vinaya	465-471	vinaya
 taisho/t1438.csv	taisho/t1438.html	Da Shamen Bai Yi Jiemo Fa 大沙門百一羯磨法		taisho/t1438_00.txt	Taishō	Vinaya	420-479	vinaya
 taisho/t1439.csv	taisho/t1439.html	Shi Song Jiemo Biqiu Yao Yong 十誦羯磨比丘要用	Composed by Seng Qu	taisho/t1439_00.txt	Taishō	Vinaya	463	vinaya
 taisho/t1440.csv	taisho/t1440.html	Sarvāstivādavinayavibhāṣā (Sapoduopinipiposha) 薩婆多毘尼毘婆沙	Translated by Unknown	taisho/t1440_00.txt	Taishō	Vinaya	350-431	vinaya
@@ -2134,7 +2134,7 @@ taisho/t2054.csv	taisho/t2054.html	Tang Da Jian Fu Si Gu Si Zhu Fan Jing Dade Fa
 taisho/t2055.csv	taisho/t2055.html	Xuan Zong Chao Fan Jing San Zang Shan Wu Wei Zeng Hong Lu Qing Xing Zhuang 玄宗朝翻經三藏善無畏贈鴻臚卿行狀	Composed by 李華	taisho/t2055_00.txt	Taishō	text	618-907	history
 taisho/t2056.csv	taisho/t2056.html	Da Tang Gu Dade Zeng Sikong Da Bian Zheng Guang Zhi Bu Kong San Zang Xing Zhuang 大唐故大德贈司空大辨正廣智不空三藏行狀	Composed by Zhao Qian	taisho/t2056_00.txt	Taishō	text	618-907	history
 taisho/t2057.csv	taisho/t2057.html	Da Tang Qing Long Si San Chao Gongfeng Dade Xing Zhuang 大唐青龍寺三朝供奉大德行狀		taisho/t2057_00.txt	Taishō	text		history
-taisho/t2058.csv	taisho/t2058.html	Fu Fa Zang Yinyuan Zhuan 付法藏因緣傳	Translated by Kekaya and Tan Yao	taisho/t2058_00.txt	Taishō	text	472	history
+taisho/t2058.csv	taisho/t2058.html	The History of the Transmission of the Dharma Treasury (Fu Fa Zang Yinyuan Zhuan) 付法藏因緣傳	Translated by Kiṅkara and Tan Yao	taisho/t2058_00.txt	Taishō	text	472	history
 taisho/t2059.csv	taisho/t2059.html	Biographies of Eminent Monks 高僧傳	Composed by Hui Jiao	taisho/t2059_00.txt	Taishō	text	519	history
 taisho/t2060.csv	taisho/t2060.html	Supplement to the Biographies of Eminent Monks 續高僧傳	Composed by Dao Xuan	taisho/t2060_00.txt	Taishō	text	649	history
 taisho/t2061.csv	taisho/t2061.html	Song Biographies of Eminent Monks 宋高僧傳	Composed by Zan Ning and others	taisho/t2061_00.txt	Taishō	text	960-1279	history
