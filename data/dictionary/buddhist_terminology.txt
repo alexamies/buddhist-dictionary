@@ -13400,7 +13400,7 @@
 8013400	芙	\N	fú	hibiscus	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: fu (BCSD '芙', p. 1007; Unihan '芙')	8013400
 8013401	芙蓉	\N	fúróng	flower; kesara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kesara (BCSD '芙蓉', p. 1007; MW 'kesara')	8013401
 8013402	僧都	\N	sēngdōu	sōzu	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013402
-8013403	僧正	\N	sēngzhèng	sōjō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title (Matsuo 2007, p. 20)	8013403
+8013403	僧正	\N	sēng zhèng	Monastic Director	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: sōjō; the most senior position in the administration of monastic affairs in historic East Asian Buddhism (FGDB '僧正'; Hong 2023, p. 71; Matsuo 2007, p. 20; SH '僧正', p. 85)	8013403
 8013404	芟	\N	shān	to cut off; lūna	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: lūna, Japanese: san, or: sen (BCSD '芟', p. 1007; MW 'lūna'; Unihan '芟')	8013404
 8013405	大僧都	\N	dàsēngdōu	dai sōzu	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	Japanese monastic title; awarded to Kūkai in 830 (Matsuo 2007, p. 20)	8013405
 8013406	大觉世尊	大覺世尊	dàjués hìzūn	World-honored One of the great enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A combination of 大覺 'great enlightenment' and 世尊 'World-honored One' (Ding '大覺世尊'; FGDB '大覺世尊'; SH '大覺世尊', p. 95)	8013406
@@ -17055,3 +17055,19 @@
 8017055	一箇棺材两箇死汉	一箇棺材兩箇死漢	yī gè guāncái liǎng gè sǐhàn	one coffin, two corpses	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in the No. 20 koan in 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 117; FGDB '一箇棺材兩箇死漢'; T 2003, Scroll 2)	8017055
 8017056	七十五法	\N	qīshíwǔ fǎ	seventy-five dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七十五法'; SH '七十五法', p. 11)	8017056
 8017057	宝顶	寶頂	bǎodǐng	Ratnaketu	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnaketu; name of a Buddha, Tibetan: rin po che'i tog (Mahāvyutpatti 'ratnaketuḥ'; MW 'ratnaketu')	8017057
+8017058	智门莲华荷叶	智門蓮華荷葉	zhìmén liánhuá héyè	Zhimen says, Lotus Flowers and Lotus Leaves	phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: title of No. 21 koan in 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 117; FGDB '智門蓮華荷葉'; T 2003, Scroll 3)	8017058
+8017059	七喻	\N	qī yù	seven parables	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法華七喻 (SH '七喻', p. 11)	8017059
+8017060	七喩	\N	qī yù	seven parables	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 法華七喻 (SH '七喻', p. 11)	8017060
+8017061	智门莲华	智門蓮華	zhìmén liánhuá	Zhimen says, Lotus Flower	phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	See 智門蓮華荷葉 (FGDB '智門蓮華荷葉')	8017061
+8017062	莲华荷叶	蓮華荷葉	liánhuá héyè	Lotus Flower, Lotus Leaves	phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	See 智門蓮華荷葉 (FGDB '智門蓮華荷葉')	8017062
+8017063	七垢	\N	qī gòu	seven defilements	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 欲 desire, 見 false views, 疑 doubt, 慢 pride, 憍 arrogance 隨眠 torpor, and 慳 stinginess (FGDB '七垢'; SH '七垢', p. 11)	8017063
+8017064	圆顿菩萨戒	圓頓菩薩戒	yuán dùn púsà jiè	perfect and sudden bodhisattva precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 圓頓戒 (FGDB '圓頓戒')	8017064
+8017065	一乘圆顿戒	一乘圓頓戒	yī shèng yuán dùn jiè	one vehicle perfect and sudden precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Variant of 圓頓戒 (FGDB '圓頓戒')	8017065
+8017066	七梦	七夢	qī mèng	seven dreams	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '夢經'; SH '七夢', p. 11)	8017066
+8017067	一段事	\N	yī duàn shì	one object	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in No. 21 koan in 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 123; Ding '一段事'; FGDB '一段事'; SH '一段事', p. 7; T 2003, Scroll 3)	8017067
+8017068	语表业	語表業	yǔ biǎo yè	the karma of speech	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '語表業'; FGDB '語表業')	8017068
+8017069	七如来	七如來	qī rúlái	seven Tathagatas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saptatathāgatā; 1,寶勝如來 Jeweled Victory Tathāgata, 2. 多寶如來 Prabhutaratna Tathāgata, 3. 妙色身如來 Surūpakāya Tathāgata, 4. 廣博身如來 Vipulakāya Tathāgata, 5. 離怖畏如來 Abhayaṃkara Tathāgata, 6. 甘露王如來 Amṛtarāja Tathāgata, 7. 阿彌陀如來 Amitābha Tathāgata (FGDB '七如來'; SH '七如來', p. 11)	8017069
+8017070	妙色身如来	妙色身如來	miàosèshēn rúlái	Surūpakāya Tathāgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Akṣobhya (SH '妙色身如來', p. 235)	8017070
+8017071	广博身如来	廣博身如來	guǎngbóshēn rúlái	Vipulakāya Tathāgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '廣博身如來')	8017071
+8017072	离怖畏如来	離怖畏如來	líbùwèi rúlái	Abhayaṃkara Tathāgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '離怖畏如來')	8017072
+8017073	离怖畏如来	離怖畏如來	líbùwèi rúlái	Amṛtarāja Tathāgata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '離怖畏如來')	8017073
