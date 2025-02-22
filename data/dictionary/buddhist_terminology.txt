@@ -9245,7 +9245,7 @@
 8009245	搥	\N	chuí	strike; taḍ	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: taḍ, Japanese: tai, or: tsui, or: zui (BCSD '搥', p. 557; MW 'taḍ'; Unihan '搥')	8009245
 8009246	鸯耆罗	鴦耆羅	yāngqíluó	Angiras	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgiras; see 阿詣羅仙 (FGDB '阿詣羅仙')	8009246
 8009247	鸯祇剌四	鴦祇剌四	yāngzhǐlásì	Angiras	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgiras; see 阿詣羅仙 (FGDB '阿詣羅仙')	8009247
-8009248	增上慢	\N	zēngshàngmàn	conceit; abhimāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimāna, Japanese: man (Ding '增上慢'; FGDB '增上慢'; SH '增上慢', p. 431)	8009248
+8009248	增上慢	\N	zēngshàngmàn	conceit; abhimāna	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimāna, Japanese: man, Tibetan: lhag pa'i nga rgyal (Ding '增上慢'; FGDB '增上慢'; Mahāvyutpatti 'adhimānaḥ'; SH '增上慢', p. 431)	8009248
 8009249	灭后	滅後	mièhòu	after the Buddhas's Nirvāṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '滅後'; SH '滅後', p. 405)	8009249
 8009250	搦	\N	nuò	to suppress; gras	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gras, Japanese: jaku, or: daku, or: nyaku (BCSD '搦', p. 557; MW 'gras'; Unihan '搦')	8009250
 8009251	毘昙	毘曇	pítán	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 阿毘曇 (FGDB '小乘論')	8009251
@@ -17085,3 +17085,25 @@
 8017085	体露金风	體露金風	tǐ lù jīn fēng	the body exposed in the fall wind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Quote: title of Koan 27 in the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 151; T 2003, scroll 3; Ding '體露金風'; FGDB '體露金風')	8017085
 8017086	七微	\N	qī wēi	seven atoms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Composing an aṇu, the smallest aggregate of matter (SH '七微', p. 12)	8017086
 8017087	麻谷振锡	麻谷振錫	mágǔ zhènxī	Magu with his ringed staff	phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: title of Koan 31 in the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 165; T 2003, scroll 4; FGDB '麻谷振錫')	8017087
+8017088	麻谷持锡	麻谷持錫	mágǔ chíxī	Magu carrying his ringed staff	phrase	公案	Koan	佛教	Buddhism	禅宗	Chan School	\N	\N	See 麻谷振錫 (FGDB '麻谷振錫')	8017088
+8017089	七心界	\N	qī xīn jiè	the seven realms of the mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: eye, ear, nose, tongue, body, mind, and thought (FGDB '七界'; SH '七心界', p. 12)	8017089
+8017090	七界	\N	qī jiè	the seven realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 七心界 (FGDB '七界')	8017090
+8017091	七识界	七識界	qī shí jiè	the seven realms of consciousness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 七心界 (FGDB '七界')	8017091
+8017092	首楞严三昧	首楞嚴三昧	shǒuléngyán sānmèi	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; the samadhi of firmly upholding all dharmas, It is one of the 百八三昧 one hundred and eight samadhis, a meditative concentration acquired by all Buddhas and the bodhisattvas of the 十地 Ten Grounds (FGDB '首楞嚴三昧')	8017092
+8017093	首楞伽摩三摩提	\N	shǒuléngjiāmó sānmótí	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017093
+8017094	七慢	\N	qī màn	seven pretensions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. 慢 Towards those inferior to ourselves we assert being extraordinary and towards those equal to ourselves we claim equality, 2. 過慢 arrogance that sees itself as superior among peers and as equal among superiors, 3. 慢過慢 asserting oneself as superior to superiors, 4. 我慢 egoism, 5. 增上慢 conceit, 6. 卑慢 false humility, and 7. 邪慢 sinister indulgence  (FGDB '慢'; SH '七慢', p. 12)	8017094
+8017095	过慢	過慢	guò màn	arrogance that sees itself as superior among peers and as equal among superiors	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhimāna, Tibetan: lhag pa'i nga rgyal; one of the 七慢 seven pretensions (FGDB '過慢'; Mahāvyutpatti 'adhimānaḥ'; SH '過慢', p. 414)	8017095
+8017096	慢过慢	慢過慢	màn guò màn	asserting oneself as superior to superiors	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mānātimāna, Tibetan: nga rgyal las kyang nga rgyal; one of the 七慢 seven pretensions (FGDB '慢'; Mahāvyutpatti 'mānātimānaḥ'; SH '慢過慢', p. 424)	8017096
+8017097	卑慢	\N	bēi màn	false humility	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ūnamāna, Tibetan: cung zad snyam pa'i nga rgyal (FGDB '慢'; Mahāvyutpatti 'ūnamānaḥ'; SH '卑慢', p. 251)	8017097
+8017098	首楞严定	首楞嚴定	shǒuléngyánd ìng	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017098
+8017099	健相三昧	\N	jiànxiāng sānmèi	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017099
+8017100	七支念诵	七支念誦	qī zhī niàn sòng	seven kinds of signs and magical words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A method of invocation described in the the Vairocana Sutra (SH '七支念誦', p. 12)	8017100
+8017101	健行定	\N	jiàn xíng dìng	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017101
+8017102	勇健定	\N	yǒng jiàn dìng	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017102
+8017103	七支业	七支業	qī zhī yè	karma from the seven branches	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '七支業', p. 12)	8017103
+8017104	勇伏定	\N	yǒng fú dìng	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017104
+8017105	大根本定	\N	dà gēnběn dìng	Suramgama Samadhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śūraṃgamasamādhi; see 首楞嚴三昧 (FGDB '首楞嚴三昧')	8017105
+8017106	妙见菩萨	妙見菩薩	miào jiàn púsà	Wonderful Sight Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Related to the Big Dipper (FGDB '妙見菩薩'; Wikipedia '七星')	8017106
+8017107	尊星王	\N	zūn xīng wáng	Zun Xing Wang	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙見菩薩 (FGDB '妙見菩薩')	8017107
+8017108	妙见尊星王	妙見尊星王	miào jiàn zūn xīng wáng	Miao Jian Zun Xing Wang	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙見菩薩 (FGDB '妙見菩薩')	8017108
+8017109	北辰菩萨	北辰菩薩	běi chén púsà	Bei Chen Pusa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙見菩薩 (FGDB '妙見菩薩')	8017109
