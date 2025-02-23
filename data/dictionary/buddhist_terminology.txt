@@ -12697,7 +12697,7 @@
 8012697	殿司	\N	diànsī	Senior Verger; Shrine Warden	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan	\N	\N	See 殿主 (FGDB '殿主')	8012697
 8012698	紫	\N	zǐ	purple; violet	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: shi (BCSD '索', p. 928; Unihan '紫')	8012698
 8012699	鼓头	鼓頭	gǔ tóu	Drum Striker	proper noun	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	(Welch 1967, p. 421)	8012699
-8012700	四阿含	\N	sì āhán	four Agamas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四阿含'; Ichishima and Chappell 2013, p. 163; SH '四阿含', p. 183; T 1931)	8012700
+8012700	四阿含	\N	sì āhán	four Agamas	set phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四阿含經'; Ichishima and Chappell 2013, p. 163; SH '四阿含', p. 183; T 1931)	8012700
 8012701	䌷	紬	chóu	silk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: chū (BCSD '紬', p. 928; Unihan '紬')	8012701
 8012702	活菩萨	活菩薩	huó púsà	a living bodhisattva; a compassionate person	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '活菩薩')	8012702
 8012703	作愿	作願	zuòyuàn	Head Rector	proper noun	职事	Post	佛教	Buddhism	禅宗	Chan School	\N	\N	One of the Forty-Eight Positions in a Chan monastery (Ding '作願門'; FGDB '作願'; Welch 1967, p. 422)	8012703
@@ -17107,3 +17107,14 @@
 8017107	尊星王	\N	zūn xīng wáng	Zun Xing Wang	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙見菩薩 (FGDB '妙見菩薩')	8017107
 8017108	妙见尊星王	妙見尊星王	miào jiàn zūn xīng wáng	Miao Jian Zun Xing Wang	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙見菩薩 (FGDB '妙見菩薩')	8017108
 8017109	北辰菩萨	北辰菩薩	běi chén púsà	Bei Chen Pusa	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 妙見菩薩 (FGDB '妙見菩薩')	8017109
+8017110	阿鋡暮	\N	āhánmù	Agama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āgama; see 阿含 (FGDB '阿含經')	8017110
+8017111	四鋡	\N	sì hán	four Agama	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿含 (FGDB '四阿含經')	8017111
+8017112	阿弥底耶	阿彌底耶	āmídǐyé	Aditya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aditya (SH '七曜', p. 12)	8017112
+8017113	势惑劳	勢惑勞	shìhuòláo	Mars	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '七曜', p. 12)	8017113
+8017114	盎哦啰迦	盎哦囉迦	àngóluójiā	Mars; Angaraka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgāraka; see 火星 (SH '盎哦囉迦', p. 331)	8017114
+8017115	部陀	\N	bùtuó	Mercury; Budha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: budha; see 水星 (SH '七曜', p. 12)	8017115
+8017116	歳星	\N	suìxīng	Jupiter	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 木星 (SH '七曜', p. 12)	8017116
+8017117	戌羯罗	戌羯羅	xūjiéluó	Venus; Sukra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śukra; see 金星 (SH '七曜', p. 12)	8017117
+8017118	鎭星	\N	zhènxīng	Saturn	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 土星 (SH '七曜', p. 12)	8017118
+8017119	賖乃以室折罗	賖乃以室折羅	shēnǎiyǐshìzhéluó	Saturn; Sanaiscara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śanaiścara; see 土星 (SH '七曜', p. 12)	8017119
+8017120	四阿含经	四阿含經	sì āhán jīng	four Agamas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿含 (FGDB '四阿含經')	8017120

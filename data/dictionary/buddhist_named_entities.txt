@@ -6153,7 +6153,7 @@
 7006153	支那内学院	支那內學院	zhīnànèi xuéyuàn	Chinese Inner Studies Institute	proper noun	佛學院	Buddhist College	佛教	Buddhism	中国	China	\N	\N	Established in 1922 by Ouyang Jian in Nanjing	7006153
 7006154	观弥勒菩萨下生经	觀彌勒菩薩下生經	guān mílè púsà xià shēng jīng	Sutra on Maitreya's Descent	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7006154
 7006155	观弥勒下生经	觀彌勒下生經	guān mílè xià shēng jīng	Sutra on Maitreya's Descent	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7006155
-7006156	弥勒成佛经	彌勒成佛經	mílè chéng fó jīng	Sutra on Maitreya's Descent	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7006156
+7006156	弥勒成佛经	彌勒成佛經	mílè chéng fó jīng	Sutra on the Enlightenment of Maitreya	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7006156
 7006157	弥勒当来下生经	彌勒當來下生經	mílè dāng lái xià shēng jīng	Sutra on Maitreya's Descent	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7006157
 7006158	下生经	下生經	xià shēng jīng	Sutra on Maitreya's Descent	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7006158
 7006159	邓子美	鄧子美	dèng zǐměi	Deng Zimei	proper noun	学者	Scholar	佛教	Buddhism	中国	China	\N	\N	1951 - ; Chinese Buddhist scholar from Jiangsu (FGDB '鄧子美')	7006159
@@ -8226,3 +8226,18 @@
 7008226	菩萨十住	菩薩十住	púsà shí zhù	Ten Abodes of the Bodhisattva	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 菩薩十住經 (T 284; KDC 97)	7008226
 7008227	超日明	超日明	chāo rì míng	Surpassing the Brightness of the Sun	proper noun	经	Sutra	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 超日明三昧經 (T 638)	7008227
 7008228	护公	護公	hùgōng	Dharmarakṣa	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 竺法護 (FGDB '竺法護')	7008228
+7008229	弥勒成佛	彌勒成佛	mílè chéng fó	The Enlightenment of Maitreya	proper noun	典籍	Canonical Text	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 彌勒下生經 (FGDB '彌勒下生經')	7008229
+7008230	观世音受决经	觀世音受決經	guānshìyīn shòujué jīng	Sutra on the Prophecy of Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title used in Scroll 2 of the Chu San Zang Ji Ji; see 觀世音菩薩授記經 (T 371)	7008230
+7008231	光世音大势至受决经	光世音大勢至受決經	guāngshìyīn dàshìzhì shòujué jīng	Sutra on the Prophecy of Avalokiteśvara Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title used in Scroll 2 of the Chu San Zang Ji Ji; see 觀世音菩薩授記經 (T 371)	7008231
+7008232	佛说普门品经	佛說普門品經	fó shuō pǔ mén pǐn jīng	Universal Gate Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普門品經 (T 315a)	7008232
+7008233	普门经	普門經	pǔ mén jīng	Universal Gate Sutra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 普門品經 (T 315a)	7008233
+7008234	鸯掘魔经	鴦掘魔經	yāngjuémó jīng	Aṅgulimālīya Sūtra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title used in Scroll 2 of the Chu San Zang Ji Ji; see 鴦掘摩經 (T 118)	7008234
+7008235	虚空藏观	虛空藏觀	xūkōng zàng guān	Contemplation of Akasagarbha	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title used in Scroll 2 of the Chu San Zang Ji Ji; see 觀虛空藏菩薩經 (T 409)	7008235
+7008236	五阴譬喻	五陰譬喻	wǔyīn pìyù	Similes for the Five Aggregates	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 五陰譬喻經 (T 105)	7008236
+7008237	百句譬喻经	百句譬喻經	bǎi jù pìyù jīng	Sūtra of One Hundred Parables	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title used in Scroll 2 of the Chu San Zang Ji Ji; see 百喻經 (T 209)	7008237
+7008238	百句譬喻	百句譬喻	bǎi jù pìyù	One Hundred Parables	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative title used in Scroll 2 of the Chu San Zang Ji Ji; see 百喻經 (T 209)	7008238
+7008239	求那毘陀	\N	qiúnàpítuó	Gunavaddhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative writing used in Scroll 2 of the Chu San Zang Ji Ji (T 2145, 55.0014c18)	7008239
+7008240	康法邃	\N	kāng fǎsuì	Kang Fasui	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	A translator mentioned in Scroll 2 of the Chu San Zang Ji Ji (T 2145, 55.0014c18)	7008240
+7008241	菩萨地持	菩薩地持	púsà xíng chí	Bodhisattva Stages; Bodhisattvabhūmi	proper noun	论	Treatise	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	See 菩薩地持經 (BL 'Bodhisattvabhūmi'; FGDB '菩薩地持經'; Hsing Yun 2010; KDC 523; T 1581)	7008241
+7008242	觅历	覓歷	mìlì	Mili	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Eastern Jin dynasty monk (BSAD '覓歷')	7008242
+7008243	定上座	\N	dìng shàngzuò	Elder Ding	proper noun	师父	Monastic	佛教	Buddhism	禅宗	Chan School	\N	\N	Tang monastic from the Linji school (FGDB '定上座')	7008243
