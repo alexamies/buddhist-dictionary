@@ -104,9 +104,9 @@ taisho/t0101.csv	taisho/t0101.html	Saṃyukta Āgama (Saṁyukatāgamasūtra) �
 taisho/t0102.csv	taisho/t0102.html	Foshuo Wu Yun Jie King Jing別譯雜阿含經	Translated by Yijing in 1 scroll	taisho/t0102_00.txt	Taishō	Sūtra	710	āgama
 taisho/t0103.csv	taisho/t0103.html	Sutra on the Sacred Seal of the Dharma (Foshuo Sheng Fa Yin Jing) 佛說聖法印經	Translated by Dharmarakṣa in 1 scroll	taisho/t0103_00.txt	Taishō	Sūtra	295	āgama
 taisho/t0104.csv	taisho/t0104.html	Sutra on the Seal of the Dharma (Foshuo Fa Yin Jing) 佛說法印經	Translated by Dānapāla in 1 scroll	taisho/t0104_00.txt	Taishō	Sūtra	1001	āgama
-taisho/t0105.csv	taisho/t0105.html	Sūtra on Similes for the Five Aggregates (Wuyin Piyu Jing) 五陰譬喻經	Translated by An Shigao in 1 scroll	taisho/t0105_00.txt	Taishō	Sūtra	148-170	āgama
-taisho/t0106.csv	taisho/t0106.html	Fo Shuo Shui Mo Suo Piao Jing (Phena Sutta) 佛說水沫所漂經	Translated by Tan Wulan in 1 scroll	taisho/t0106_00.txt	Taishō	Sūtra	381-395	āgama
-taisho/t0107.csv	taisho/t0107.html	Fo Shuo Bu Zi Shou Yi Jing (Pamādavihārī) 佛說不自守意經	Translated by Zhi Qian in 1 scroll	taisho/t0107_00.txt	Taishō	Sūtra	223-253	āgama
+taisho/t0105.csv	taisho/t0105.html	Sutra on Similes for the Five Aggregates (Wuyin Piyu Jing) 五陰譬喻經	Translated by An Shigao in 1 scroll	taisho/t0105_00.txt	Taishō	Sūtra	148-170	āgama
+taisho/t0106.csv	taisho/t0106.html	Sutra on Foam Floating in the Water (Phena Sutta) 佛說水沫所漂經	Translated by Tan Wulan in 1 scroll	taisho/t0106_00.txt	Taishō	Sūtra	381-395	āgama
+taisho/t0107.csv	taisho/t0107.html	Sutra on Heedlessness (Pamādavihārī) 佛說不自守意經	Translated by Zhi Qian in 1 scroll	taisho/t0107_00.txt	Taishō	Sūtra	223-253	āgama
 taisho/t0108.csv	taisho/t0108.html	Fo Shuo Man Yuan Zi Jing (Puṇṇa Sutta) 佛說滿願子經	By an unknown translator in 1 scroll	taisho/t0108_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0109.csv	taisho/t0109.html	Zhuan Falun Jing (Dharmacakrapravartanasūtra) 佛說轉法輪經	Translated by An Shigao in 1 scroll	taisho/t0109_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0110.csv	taisho/t0110.html	San Zhuan Falun Jing (Dharmacakrapravartanasūtra) 佛說三轉法輪經	Translated by Yijing in 1 scroll	taisho/t0110_00.txt	Taishō	Sūtra	710	āgama
@@ -728,7 +728,7 @@ taisho/t0709.csv	taisho/t0709.html	Śālistambhakasūtra (Fo Shuo Dao Gan Jing) 
 taisho/t0710.csv	taisho/t0710.html	Śālistambhakasūtra (Cishi Pusa Suo Shuo Dasheng Yuan Sheng Dao Nian Gan Yu Jing) 慈氏菩薩所說大乘緣生稻卄幹喻經	Translated by Amoghavajra	taisho/t0710_00.txt	Taishō	Sūtra	720-774	jingji
 taisho/t0711.csv	taisho/t0711.html	Śālistambhakasūtra (Dasheng She Li Suo Dan Mo Jing) 大乘舍黎娑擔摩經	Translated by Dānapāla	taisho/t0711_00.txt	Taishō	Sūtra	991	jingji
 taisho/t0712.csv	taisho/t0712.html	Śālistambhakasūtra (Fo Shuo Dasheng Dao Gan Jing) 佛說大乘稻芉經	Translated by Unknown	taisho/t0712_00.txt	Taishō	Sūtra		jingji
-taisho/t0713.csv	taisho/t0713.html	Nidānasūtra (Beiduo Shu Xia Siwei Shi Er Yinyuan Jing) 貝多樹下思惟十二因緣經	Translated by Zhi Qian	taisho/t0713_00.txt	Taishō	Sūtra	222-229	jingji
+taisho/t0713.csv	taisho/t0713.html	Reflecting on the twelve Nidānas under a Patra Palm (Nidānasūtra) 貝多樹下思惟十二因緣經	Translated by Zhi Qian	taisho/t0713_00.txt	Taishō	Sūtra	222-229	jingji
 taisho/t0714.csv	taisho/t0714.html	Nidānasūtra (Yuanqi Sheng Dao Jing) 緣起聖道經	Translated by Xuanzang	taisho/t0714_00.txt	Taishō	Sūtra	649	jingji
 taisho/t0715.csv	taisho/t0715.html	Nidānasūtra (Fo Shuo Jiu Cheng Yu Jing) 佛說舊城喻經	Translated by Faxian	taisho/t0715_00.txt	Taishō	Sūtra	998	jingji
 taisho/t0716.csv	taisho/t0716.html	Yuan Sheng Chu Sheng Fen Fa Ben Jing 緣生初勝分法本經	Translated by Dharmagupta	taisho/t0716_00.txt	Taishō	Sūtra	616-617	jingji
