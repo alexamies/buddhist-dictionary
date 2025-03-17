@@ -3335,7 +3335,7 @@
 8003335	末利	\N	mòlì	jasmine; mallika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mallikā; mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as an offering to deities (MW 'mallikā'; SH '末利', p. 191; Giebel 2005, p. 44; T 848, Scroll 2, 18.0010c02)	8003335
 8003336	摩利	\N	mólì	jasmine; mallika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mallikā; see 末利 (SH '末利', p. 191)	8003336
 8003337	末罗	末羅	mòluó	jasmine; mallika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mallikā; see 末利 (SH '末利', p. 191)	8003337
-8003338	末罗	末羅	mòluó	Malla	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 十六大國 (FGDB '十六大國')	8003337
+8003338	末罗	末羅	mòluó	Malla	proper noun	王国	Kingdom	佛教	Buddhism	印度	India	\N	\N	See 十六大國 (BCSD '末羅', p. 642; FGDB '十六大國')	8003337
 8003339	得蘗蓝	得蘗藍	debòlán	tagara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tagara; a kind of flower or fragrant powder mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as an offering to deities (MW 'tagara'; Giebel 2005, p. 44; T 848, Scroll 2, 18.0010c02)	8003339
 8003340	瞻蔔树	瞻蔔樹	zhānbó shù	campaka tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: campaka; a kind of tree with yellow flowers mentioned in the 大毘盧遮那成佛神變加持經 “Vairocana Sūtra” as an offering to deities (FGDB '瞻蔔樹'; Kieschnick and Wiles 2017, vol. 2, p. 49; MW 'campaka' SH '旃簸迦', p. 326; Giebel 2005, p. 44; T 848, Scroll 2, 18.0010c02)	8003340
 8003341	瞻蔔	\N	zhānbó	campaka	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: campaka; see 瞻蔔樹 (FGDB '瞻蔔樹')	8003341
@@ -11797,9 +11797,9 @@
 8011797	法化	\N	fǎ huà	conversion through teaching of the Dharma	phrase	天	Deva	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	(Ding '法化'; Karashima 2001 '法化'; SH '法化', p. 268)	8011797
 8011798	瘶	\N	sòu	leprousy; kilāsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kilāsa (BCSD '瘶', p. 857; MW 'kilāsa')	8011798
 8011799	天冠	\N	tiān guān	deva crown	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Also called 寶冠 (Ding '天冠'; FGDB '天冠')	8011799
-8011800	新译	新譯	xīn yì	new translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Following translation terminology standards introduced by 玄奘 Xuan Zang in the Tang, in contrast to 舊譯 'old translation' (Ding '新譯'; FGDB '新譯')	8011800
+8011800	新译	新譯	xīn yì	new translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Following translation terminology standards introduced by 玄奘 Xuan Zang in the Tang, in contrast to 舊譯 'old translation' (Ding '新譯'; FGDB '新譯'; Funayama 2013, p. 21)	8011800
 8011801	癀	\N	huáng	bile; pitta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pitta, Japanese: kou, or: ou (BCSD '癀', p. 857; MW 'pitta'; Unihan '癀')	8011801
-8011802	旧译	舊譯	jiù yì	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A translated term prior to translation terminology standards introduced by 玄奘 Xuan Zang in the Tang, in contast to 新譯 'new translation' (Ding '舊譯'; FGDB '舊譯'; SH ' (FGDB '舊譯', p. 467)	8011802
+8011802	旧译	舊譯	jiù yì	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A translated term prior to translation terminology standards introduced by 玄奘 Xuan Zang in the Tang, in contast to 新譯 'new translation' (Ding '舊譯'; FGDB '舊譯'; SH '舊譯', p. 467; Funayama 2013, p. 21)	8011802
 8011803	旧翻	舊翻	jiù fān	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 舊譯 (FGDB '舊譯')	8011803
 8011804	疗	療	liáo	heal; praśamana	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praśamana, Japanese: ryou (BCSD '療', p. 857; MW 'praśamana'; SH '療', p. 459; Unihan '療')	8011804
 8011805	古翻	\N	gǔ fān	old translation	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	See 舊譯 (FGDB '舊譯')	8011805
@@ -17196,3 +17196,28 @@
 8017196	七祖	\N	qī zǔ	seven patriarchs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Of one of the Huayan school, the Chan school, or the Pureland school (SH '七祖', p. 13)	8017196
 8017197	教网	教網	jiāo wǎng	the net of the teaching	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 78 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 347; T 2003, scroll 8; FGDB '教網')	8017197
 8017198	坚固法身	堅固法身	jiāngù fǎshēn	the solid Dharma body	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 82 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 362; T 2003, scroll 9; FGDB '堅固法身')	8017198
+8017199	七种不净	七種不淨	qī zhǒng bù jìng	seven kinds of impurity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七種不淨'; SH '七種不淨', p. 13)	8017199
+8017200	弄物不知名	\N	nòng wù bù zhī míng	playing with something without knowing its name	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 82 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 363; T 2003, scroll 9; FGDB '弄物不知名')	8017200
+8017201	目的格	\N	mùdì gé	accusative case	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Referring to Sanskrit grammar (Funayama, Toru 船山徹 2013, p. 2)	8017201
+8017202	七种布施	七種布施	qī zhǒng bùshī	seven kinds of giving	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. to callers, 2. travelers, 3. the sick, 4. nurses, 5. monasteries, 6. regular food (to monks), 7. general alms (FGDB '布施'; SH '七種布施', p. 13)	8017202
+8017203	玄沙三种病人	玄沙三種病人	xuánshā sān zhǒng bìngrén	Xuansha on three kinds of sick people	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 88 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 386; T 2003, scroll 9; FGDB '玄沙三種病人')	8017203
+8017204	三种病人	三種病人	sān zhǒng bìngrén	three kinds of invalids	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 88 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 386; T 2003, scroll 9; FGDB '玄沙三種病人')	8017204
+8017205	七种忏悔心	七種懺悔心	qī zhǒng chànhuǐ xīn	the seven mental attitudes of repentance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七種懺悔心'; SH '七種懺悔心', p. 13)	8017205
+8017206	宣译	宣譯	xuān yì	orating and translating	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Referring to a group translation activity (Funayama 2013, p. 20)	8017206
+8017207	旧訳	\N	jiù yì	old translation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese variant; see 舊譯 (Funayama 2013, p. 21)	8017207
+8017208	七种舍	七種捨	qī zhǒng shě	seven kinds of abandonment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. no attachment to emotions, 2. letting go of enmity, 3. abandonment of greed, 4. seeing beings attain liberation, one no longer worries, 5. realizing equality beyond appearances, 6. renouncing personal happiness and giving to others, 7. benefiting others without expectation of anything in return (FGDB '七種捨'; SH '七種捨', p. 14)	8017208
+8017209	新訳	\N	xīn yì	new translation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese variant; see 新譯 (Funayama 2013, p. 21)	8017209
+8017210	古訳	\N	gǔ yì	ancient translation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese scholars divide 舊譯 'old translations' into 旧訳 'old translations' and 古訳 'ancient translations'; see 舊譯 (Funayama 2013, p. 21)	8017210
+8017211	七种无常	七種無常	qī zhǒng wú cháng	seven forms of impermanence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A a non-Buddhist doctrine (FGDB '七種無常'; SH '七種無常', p. 14)	8017211
+8017212	旧经	舊經	jiù jīng	old scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A distinction made in contrast with 新經 'new scriptures,' which used more recent terminology, in Scroll 1 of the Chu San Zang Ji Ji (Funayama 2013, p. 22; SH '舊經', p. 467; T 2145, 55.0004b02)	8017212
+8017213	新经	新經	xīn jīng	new scriptures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A distinction made in contrast with 舊經 'old scriptures,' which used more archaic terminology, in Scroll 1 of the Chu San Zang Ji Ji (Funayama 2013, p. 22; SH '舊經', p. 467; T 2145, 55.0004b02)	8017213
+8017214	七种生死	七種生死	qī zhǒng shēng sǐ	seven forms of mortality	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Related to the particular realm of rebirth (FGDB '七種生死'; Wikipedia '七種生死', p. 14)	8017214
+8017215	接物利生	\N	jiē wù lì shēng	guiding and helping people	phrase	\N	\N	佛教	Buddhism	禅宗	Chan School	\N	\N	Quote: a phrase used in Koan 88 of the 碧巖錄 ”The Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 386; T 2003, scroll 9; FGDB '接物利生')	8017215
+8017216	灭诤法	滅諍法	miè zhèng fǎ	regulations to stop quarrels	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Nakamura 1987, p. 77)	8017216
+8017217	七种礼佛	七種禮佛	qī zhǒng lǐ fó	seven ways to pay reverence to the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七種禮佛'; SH '七種禮佛', p. 14)	8017217
+8017218	末世	\N	mò shì	the Kali age	phrases	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaliyuga (BCSD '末世', p. 641; MW 'kaliyuga')	8017218
+8017219	末世时	末世時	mò shì shí	the Kali age	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaliyuga; see 末世 (BCSD '末世時', p. 642)	8017219
+8017220	七种自性	七種自性	qī zhǒng zì xìng	the seven characteristics　of Buddha nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGEB '七種自性'; SH '七種自性', p. 14)	8017220
+8017221	音吼	\N	yīnhǒu	scream	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: rāvaṇa (BCSD '音吼', p. 1259; MW 'rāvaṇa')	8017221
+8017222	音乐	音樂	yīnyuè	music	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vādya, Tibetan: rol mo'i sgra (BCSD '音吼', p. 1259; Mahāvyutpatti 'vādyam'; MW 'vādya')	8017222
+8017223	七种般	七種般	qī zhǒng bān	seven kinds [of fruit of non-returning]	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '七種般', p. 14)	8017223
