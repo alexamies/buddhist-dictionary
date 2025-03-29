@@ -104,32 +104,7 @@
         <div class="mdc-top-app-bar--fixed-adjust">
       <h2>{{.Data.Title}}</h2>
       <p>{{.Data.Summary}}</p>
-      <p>
-        <form name="findAdvancedForm" id="findAdvancedForm"
-              action="/advanced_search.html#">
-          <div class="mdc-text-field">
-            <label class="mdc-floating-label" for="findInput"
-              >Search within collection for</label>
-            <input type="text" id="findInput" name="text"
-                   size="40" class="mdc-text-field__input">
-            <div class="mdc-line-ripple"></div>
-            <input type="hidden" name="collection" id="findInCollection"
-                   value="{{.Data.GlossFile}}"/>
-          </div>
-          <button class="mdc-button" type="submit" id="findSubmit">
-            <span class="mdc-button__label">Find Documents</span>
-          </button>
-        </form>
-      </p>
 
-      <ul class="mdc-deprecated-list">
-        {{ range $element := .Data.CorpusEntries }}
-        <li class="mdc-deprecated-list-item">
-          <span class="mdc-deprecated-list-item__text"><a
-                href='/{{$element.GlossFile}}'>{{ $element.Title }}</a></span>
-        </li>
-        {{ end }}
-      </ul>
       {{.Data.Intro}}
 
       <p>
