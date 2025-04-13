@@ -612,7 +612,7 @@ taisho/t0593.csv	taisho/t0593.html	Rājāvavādaka (Fo Wei Sheng Guang Tianzi Sh
 taisho/t0594.csv	taisho/t0594.html	Fo Shuo Dazizaitian Zi Yin Di Jing 佛說大自在天子因地經	Translated by Dānapāla	taisho/t0594_00.txt	Taishō	Sūtra	983	jingji
 taisho/t0595.csv	taisho/t0595.html	Sūkarikāvadāna (Fo Shuo Jie Wa Nang Fa Tian Zi Shou San Guiyi Huo Mian E Dao Jing) 佛說嗟韈曩法天子受三歸依獲免惡道經	Translated by Fa Tian	taisho/t0595_00.txt	Taishō	Sūtra	984	jingji
 taisho/t0596.csv	taisho/t0596.html	Fo Shuo Tianwang Taizi Pi Luo Jing 佛說天王太子辟羅經	Translated by Unknown	taisho/t0596_00.txt	Taishō	Sūtra	350-431	jingji
-taisho/t0597.csv	taisho/t0597.html	Nandopanandanāgarājadamanasūtra (Long Wang Xiongdi Jing) 龍王兄弟經	Translated by Zhi Qian	taisho/t0597_00.txt	Taishō	Sūtra	223-253	jingji
+taisho/t0597.csv	taisho/t0597.html	Sūtra of the Taming of the Nāga King Nandopananda (Nandopanandanāgarājadamanasūtra) 龍王兄弟經	Translated by Zhi Qian	taisho/t0597_00.txt	Taishō	Sūtra	223-253	jingji
 taisho/t0598.csv	taisho/t0598.html	Sāgaranāgarājaparipṛcchā (Fo Shuo Hai Long Wang Jing) 佛說海龍王經	Translated by Dharmarakṣa	taisho/t0598_00.txt	Taishō	Sūtra	285	jingji
 taisho/t0599.csv	taisho/t0599.html	Sāgaranāgarājaparipṛcchā (Fo Wei Hai Long Wang Shuofa Yin Jing) 佛為海龍王說法印經	Translated by Yijing	taisho/t0599_00.txt	Taishō	Sūtra	711	jingji
 taisho/t0600.csv	taisho/t0600.html	Shi Shan Ye Dao Jing 十善業道經	Translated by Siksananda	taisho/t0600_00.txt	Taishō	Sūtra	695-700	jingji
@@ -785,7 +785,7 @@ taisho/t0764.csv	taisho/t0764.html	Dharmasangraha (Fo Shuo Fa Ji Ming Shu Jing) 
 taisho/t0765.csv	taisho/t0765.html	Itivṛttakasūtra (Benshi Jing) 本事經	Translated by Xuanzang	taisho/t0765_00.txt	Taishō	Sūtra	650	jingji
 taisho/t0766.csv	taisho/t0766.html	Dharmaśarīrasūtra (Fo Shuo Fashen Jing) 佛說法身經	Translated by Faxian	taisho/t0766_00.txt	Taishō	Sūtra	998	jingji
 taisho/t0767.csv	taisho/t0767.html	Fo Shuo San Pin Dizi Jing 佛說三品弟子經	Translated by Zhi Qian	taisho/t0767_00.txt	Taishō	Sūtra	223-253	jingji
-taisho/t0768.csv	taisho/t0768.html	San Hui Jing 三慧經	Translated by Unknown	taisho/t0768_00.txt	Taishō	Sūtra	397-439	jingji
+taisho/t0768.csv	taisho/t0768.html	Sutra on the Three Kinds of Wisdom (San Hui Jing) 三慧經	Translated by Unknown	taisho/t0768_00.txt	Taishō	Sūtra	397-439	jingji
 taisho/t0769.csv	taisho/t0769.html	Fo Shuo Si Bei Jing 佛說四輩經	Translated by Dharmarakṣa	taisho/t0769_00.txt	Taishō	Sūtra	266-313	jingji
 taisho/t0770.csv	taisho/t0770.html	Sūtra on the Four Unattainable Things (Fo Shuo Si Bu Ke De Jing) 佛說四不可得經	Translated by Dharmarakṣa	taisho/t0770_00.txt	Taishō	Sūtra	266-313	jingji
 taisho/t0771.csv	taisho/t0771.html	Si Pin Xue Fa Jing 四品學法經	Translated by Guṇabhadra	taisho/t0771_00.txt	Taishō	Sūtra	435-443	jingji
@@ -1540,7 +1540,7 @@ taisho/t1474.csv	taisho/t1474.html	Shamini Jie Jing 沙彌尼戒經	Translated b
 taisho/t1475.csv	taisho/t1475.html	Shamini Li Jie Wen 沙彌尼離戒文	Translated by Unknown	taisho/t1475_00.txt	Taishō	Vinaya	317-420	vinaya
 taisho/t1476.csv	taisho/t1476.html	Fo Shuo Youposai Wu Jie Xiang Jing 佛說優婆塞五戒相經	Translated by Guṇaśāla	taisho/t1476_00.txt	Taishō	Vinaya	431	vinaya
 taisho/t1477.csv	taisho/t1477.html	Fo Shuo Jie Xiao Zai Jing 佛說戒消災經	Translated by Zhi Qian	taisho/t1477_00.txt	Taishō	Vinaya	223-253	vinaya
-taisho/t1478.csv	taisho/t1478.html	Da'aidao Biqiuni Jing 大愛道比丘尼經	Translated by Unknown	taisho/t1478_00.txt	Taishō	Vinaya	397-439	vinaya
+taisho/t1478.csv	taisho/t1478.html	Bhikṣuṇī Mahāprajāpatī Sūtra (Da'aidao Biqiuni Jing) 大愛道比丘尼經	Translated by Unknown	taisho/t1478_00.txt	Taishō	Vinaya	397-439	vinaya
 taisho/t1479.csv	taisho/t1479.html	Fo Shuo Bi Chu Wu Fa Jing 佛說苾芻五法經	Translated by Fa Tian	taisho/t1479_00.txt	Taishō	Vinaya	973-988	vinaya
 taisho/t1480.csv	taisho/t1480.html	Fo Shuo Bi Chu Jiashi Jia Shi Fa Jing 佛說苾芻迦尸迦十法經	Translated by Fa Tian	taisho/t1480_00.txt	Taishō	Vinaya	973-988	vinaya
 taisho/t1481.csv	taisho/t1481.html	Sutra of the Five Fears (Fo Shuo Wu Kongbu Shi Jing) 佛說五恐怖世經	Translated by Juqu Jingsheng	taisho/t1481_00.txt	Taishō	Vinaya	455-	vinaya
