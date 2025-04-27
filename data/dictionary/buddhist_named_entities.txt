@@ -2402,7 +2402,7 @@
 7002402	目连所问经	目連所問經	mùlián suǒ wèn jīng	Mulian Suo Wen Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 1133; T 1468)	7002402
 7002403	佛说迦叶禁戒经	佛說迦葉禁戒經	fó shuō jiāyè jìnjiè jīng	Fo Shuo Jiaye Jinjie Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	See 迦葉禁戒經 (T 1469)	7002403
 7002404	迦叶禁戒经	迦葉禁戒經	jiāyè jìnjiè jīng	Jiaye Jinjie Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 931; T 1469)	7002404
-7002405	大比丘三千威仪	大比丘三千威儀	dà bǐqiū sān qiān wēiyí	Da Biqiu San Qian Weiyi	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 940; T 1470)	7002405
+7002405	大比丘三千威仪	大比丘三千威儀	dà bǐqiū sān qiān wēiyí	The Great Collection of Three Thousand Deportment Rules for Bhikṣus; Da Biqiu San Qian Weiyi	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 940; T 1470)	7002405
 7002406	沙弥十戒法并威仪	沙彌十戒法并威儀	shāmí shí jiè fǎ bìng wēiyí	Shami Shi Jie Fa Bing Weiyi	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 906; T 1471)	7002406
 7002407	沙弥威仪	沙彌威儀	shāmí wēiyí	Shami Weiyi	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	The title of a text in the Chinese Buddhist canon (KDC 911; T 1472)	7002407
 7002408	佛说沙弥十戒仪则经	佛說沙彌十戒儀則經	fó shuō shāmí shí jiè yí zé jīng	Fo Shuo Shami Shi Jie Yi Ze Jing	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	See 沙彌十戒儀則經 (T 1473)	7002408
@@ -8399,3 +8399,8 @@
 7008399	十缘经	十緣經	shí yuán jīng	Ten Stories on Causes and Conditions	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 興起行經 (FGDB '興起行經')	7008399
 7008400	严诫宿缘经	嚴誡宿緣經	yán jiè sù yuán jīng	Yan Jie Su Yuan Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 興起行經 (FGDB '興起行經')	7008400
 7008401	那伽斯那	\N	nàjiāsīnà	Nāgasena	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 挖耳羅漢 (FGDB '那先比丘經')	7008401
+7008402	大比丘三千威仪经	大比丘三千威儀經	dà bìqiū sān qiān wēi yí jīng	The Great Collection of Three Thousand Deportment Rules for Bhikṣus	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大比丘三千威儀 (FGDB '大比丘三千威儀'; T 1470)	7008402
+7008403	大比丘威仪经	大比丘威儀經	dà bìqiū wēiyí jīng	The Great Collection of Deportment Rules for Bhikṣus	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大比丘三千威儀 (FGDB '大比丘三千威儀'; T 1470)	7008403
+7008404	大僧威仪经	大僧威儀經	dà sēng wēi yí jīng	The Great Collection of Deportment Rules for Monastics	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大比丘三千威儀 (FGDB '大比丘三千威儀'; T 1470)	7008404
+7008405	僧威仪经	僧威儀經	sēngwēiyíjīng	Deportment Rules for Monastics	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大比丘三千威儀 (FGDB '大比丘三千威儀'; T 1470)	7008405
+7008406	三千威仪	三千威儀	sān qiān wēi yí	Collection of Three Thousand Deportment Rules	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 大比丘三千威儀 (FGDB '大比丘三千威儀'; T 1470)	7008406
