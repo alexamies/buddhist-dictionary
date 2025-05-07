@@ -3818,7 +3818,7 @@
 8003818	如来藏	如來藏	rúlái zàng	Buddha-nature; Buddha-dhatu; Buddha Principle; Tathāgatagarbha	noun	\N	\N	佛教	Buddhism	Mahāyāna Buddhism	大乘佛教	\N	\N	Sanskrit equivalent: tathāgatagarbha; Japanese: nyoraizō (BL 'tathāgatagarbha', pp. 897-898; FGDB '如來藏')	8003818
 8003819	回峰	\N	huífēng	kaihōgyō	noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	See 回峰行 (FGDB '回峰')	8003819
 8003820	日莲宗	日蓮宗	rìliánzōng	Nichiren sect	proper noun	\N	\N	佛教	Buddhism	日本	Japan	\N	\N	School of Japanese Buddhism (FGDB '日蓮宗'; Wikipedia '日蓮宗'; Williams 2009, pp. 165-171)	8003820
-8003821	增壹阿含经	增壹阿含經	zēng yī āhán jīng	Ekottara Āgama; Ekottarāgama	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 增一阿含經 (Wikipedia '增一阿含經')	8003821
+8003821	增壹阿含经	增壹阿含經	zēng yī āhán jīng	Ekottara Āgama; Ekottarāgama	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 增一阿含經 (Wikipedia '增一阿含經'; T 125)	8003821
 8003822	长阿含经	長阿含經	cháng āhán jīng	Dīrgha Āgama; Dīrghāgama; Collection of Long Discourses	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dīrghāgama, Pali: dīghanikāya, the equivalent in the Chinese Buddhist canon of the Pali Digha Nikaya (FGDB '長阿含經'; Kieschnick and Wiles 2017, vol. 1, p. 1; Lancaster 2004 'K 647'; T 1)	8003822
 8003823	六成就	\N	liù chéngjiù	six accomplishments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The conditions that must be in place for the Buddhist teachings to take place: faith 信成就, hearing 闻成就, time 时成就, teacher 主成就, location 处成就, and assembly 众成就 (Ding '六成就'; FGDB '六成就'; SH '六成就', p. 135)	8003823
 8003824	信成就	\N	xìn chéngjiù	the accomplishment of faith	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the Six Accomplishments (六成就), accepting on faith that what is written in the sutras was spoken by the Buddha (Tzu Chuang 2012, pp. 1-3)	8003824
@@ -17447,3 +17447,19 @@
 8017447	方等大集	\N	fāngděng dà jí	Mahāsaṃnipātasūtra; Great Compilation	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāsaṃnipātasūtra; see 大方等大集經 (T 397)	8017447
 8017448	九界	\N	jiǔ jiè	the nine realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Hell, 2. Hungry Ghosts, 3. Asuras, 4. Animals, 5. Humans, 6. Devas, 7. Śrāvaka, 8. Pratyekabuddha, 9. bodhisattva (FGDB '九界'; SH '九界', p. 18)	8017448
 8017449	九界情执	九界情執	jiǔ jiè qíng zhí	the nine realms of sentient beings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 九界 (SH '九界', p. 18)	8017449
+8017450	二严	二嚴	èr yán	two adornments	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One formulation for the two is 智慧 wisdom and 福德 good conduct (FGDB '二嚴'; SH '二嚴', p. 23)	8017450
+8017451	阿摩勒果	\N	āmólēi guǒ	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra (BCSD '阿摩勒果', p. 1207; MW 'āmra')	8017451
+8017452	九祖	\N	jiǔ zǔ	nine founders	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 天台九祖 (SH '九祖', p. 19)	8017452
+8017453	天台九祖	\N	tiāntái jiǔ zǔ	the nine founders of the Tiantai school	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '天台九祖'; SH '九祖', p. 19)	8017453
+8017454	阿摩勒	\N	āmólēi	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 阿摩勒果 (BCSD '阿摩勒果', p. 1207)	8017454
+8017455	镜面	鏡面	jìngmiàn	face of a mirror; ādraśatala	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādraśatala, or: ādraśamukha (BCSD '鏡面', p. 1192)	8017455
+8017456	九种大禅	九種大禪	jiǔ zhǒng dà chán	nine kinds of Mahāyāna dhyāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Listed in the 菩薩地持經 Sutra on Bodhisattva Stages: 1. 自性禪 meditation on the original nature of things, 2. 一切禪 meditation on the attainment of self and all others, 3. 難禪 meditation on the difficulties of certain conditions, 4. 一切門禪 meditation on the entrance to the dhyāna conditions, 5. 善人禪 meditation on the good, 6. 一切行禪 meditation on all practices, 7. 除煩惱禪 meditation on eliminating affliction, 8. 此世他世樂禪 meditation on bringing joy in this and later lifetimes, 9. 淸淨淨禪 meditation on perfect purity (FGDB '九種大禪'; SH '九種大禪', p. 19)	8017456
+8017457	自性禅	自性禪	zì xìng chán	meditation on the original nature of things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017457
+8017458	一切禅	一切禪	yīqiè chán	meditation on the attainment of self and all others	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017458
+8017459	难禅	難禪	nán chán	meditation on the difficulties of certain conditions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017459
+8017460	一切门禅	一切門禪	yīqiè mén chán	meditation on the entrance to the dhyāna conditions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017460
+8017461	善人禅	善人禪	shàn rén chán	meditation on the good	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017461
+8017462	一切行禅	一切行禪	yīqiè xíng chán	meditation on all practices	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017462
+8017463	除烦恼禅	除煩惱禪	chú fánnǎo chán	meditation on eliminating affliction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017463
+8017464	此世他世乐禅	此世他世樂禪	cǐ shì tā shì lè chán	meditation on bringing joy in this and later lifetimes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017464
+8017465	淸净净禅	淸淨淨禪	qīng jìng jìng chán	meditation on perfect purity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 九種大禪 nine kinds of Mahāyāna dhyāna (SH '九種大禪', p. 19)	8017465
