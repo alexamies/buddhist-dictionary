@@ -90,8 +90,8 @@ taisho/t0087.csv	taisho/t0087.html	Sutra on Fasting (Zhai Jing) 齋經	Translate
 taisho/t0088.csv	taisho/t0088.html	Youpiyiduoshejia Jing (Visākhā) 優陂夷墮舍迦經	By an unknown translator in 1 scroll	taisho/t0088_00.txt	Taishō	Sūtra	420-479	āgama
 taisho/t0089.csv	taisho/t0089.html	Sutra on the Eight Purification Precepts 八關齋經	Translated by Juqu Jingsheng in 1 scroll	taisho/t0089_00.txt	Taishō	Sūtra	455	āgama
 taisho/t0090.csv	taisho/t0090.html	Bimosu Jing (Vekhaṇasasutta) 鞞摩肅經	Translated by Guṇabhadra in 1 scroll	taisho/t0090_00.txt	Taishō	Sūtra	435-443	āgama
-taisho/t0091.csv	taisho/t0091.html	Boluomen Zi Ming Zhong Ai Nian Bu Li Jing (Piyajātikasutta) 婆羅門子命終愛念不離經	Translated by An Shigao in 1 scroll	taisho/t0091_00.txt	Taishō	Sūtra	148-170	āgama
-taisho/t0092.csv	taisho/t0092.html	Shi Zhi Jushi Ba Cheng Ren Jing (Aṭṭhakanagarasutta) 十支居士八城人經	Translated by An Shigao in 1 scroll	taisho/t0092_00.txt	Taishō	Sūtra	148-170	āgama
+taisho/t0091.csv	taisho/t0091.html	Sūtra on a Brahmin’s Grieving on the Loss of His Son (Boluomen Zi Ming Zhong Ai Nian Bu Li Jing) 婆羅門子命終愛念不離經	Translated by An Shigao in 1 scroll	taisho/t0091_00.txt	Taishō	Sūtra	148-170	āgama
+taisho/t0092.csv	taisho/t0092.html	Shi Zhi Jushi Ba Cheng Ren Jing 十支居士八城人經	Translated by An Shigao in 1 scroll	taisho/t0092_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0093.csv	taisho/t0093.html	Xiejian Jing (Avyākata) 邪見經	By an unknown translator in 1 scroll	taisho/t0093_00.txt	Taishō	Sūtra	420-479	āgama
 taisho/t0094.csv	taisho/t0094.html	Sutra on the Parable of the Arrow (Cūlamāluṅkyasutta) 箭喻經	By an unknown translator in 1 scroll	taisho/t0094_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0095.csv	taisho/t0095.html	Yi Yu Jing (Vammikasutta) 蟻喻經	Translated by Dānapāla in 1 scroll	taisho/t0095_00.txt	Taishō	Sūtra	1009	āgama
@@ -145,7 +145,7 @@ taisho/t0140.csv	taisho/t0140.html	Enabindi Hua Qi Zi Jing 阿那邠邸化七子
 taisho/t0141.csv	taisho/t0141.html	Esuda Jing 佛說阿遬達經	Translated by Guṇabhadra in 1 scroll	taisho/t0141_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0142a.csv	taisho/t0142a.html	Sujata Sutra 佛說玉耶女經	By an unknown translator in 1 scroll	taisho/t0142a_00.txt	Taishō	Sūtra	265-317	āgama
 taisho/t0142b.csv	taisho/t0142b.html	Sujata Sutra 玉耶女經	By an unknown translator in 1 scroll	taisho/t0142b_00.txt	Taishō	Sūtra	265-317	āgama
-taisho/t0143.csv	taisho/t0143.html	Yuye Jing 玉耶經	Translated by Tan Wulan in 1 scroll	taisho/t0143_00.txt	Taishō	Sūtra	381-395	āgama
+taisho/t0143.csv	taisho/t0143.html	Sujātā Sūtra (Yuye Jing) 玉耶經	Translated by Tan Wulan in 1 scroll	taisho/t0143_00.txt	Taishō	Sūtra	381-395	āgama
 taisho/t0144.csv	taisho/t0144.html	Sūtra on the Nirvāṇa of Mahāprajāpatī (Da'aidao Bannihuan Jing) 大愛道般泥洹經	Translated by Bai Fa Zu in 1 scroll	taisho/t0144_00.txt	Taishō	Sūtra	290-307	āgama
 taisho/t0145.csv	taisho/t0145.html	Sūtra on the Nirvāṇa of the Buddha’s Mother (Fo Mu Bannihuan Jing) 佛母般泥洹經	Translated by Hui Jian in 1 scroll	taisho/t0145_00.txt	Taishō	Sūtra	457	āgama
 taisho/t0146.csv	taisho/t0146.html	Shiwei Guo Wang Mengjian Shi Shi Jing 舍衛國王夢見十事經	By an unknown translator in 1 scroll	taisho/t0146_00.txt	Taishō	Sūtra	265-317	āgama
@@ -538,7 +538,7 @@ taisho/t0521.csv	taisho/t0521.html	Fo Shuo Fan Mo Nan Guowang Jing 佛說梵摩�
 taisho/t0522.csv	taisho/t0522.html	Pu Da Wang Jing 普達王經	Translated by Unknown	taisho/t0522_00.txt	Taishō	Sūtra	265-317	jingji
 taisho/t0523.csv	taisho/t0523.html	Fo Shuo Wu Wang Jing 佛說五王經	Translated by Unknown	taisho/t0523_00.txt	Taishō	Sūtra	317-420	jingji
 taisho/t0524.csv	taisho/t0524.html	Fo Wei Youtian Wang Shuo Wangfa Zheng Lun Jing 佛為優填王說王法政論經	Translated by Amoghavajra	taisho/t0524_00.txt	Taishō	Sūtra	72-774	jingji
-taisho/t0525.csv	taisho/t0525.html	Fo Shuo Zhangzhe Zi Ao Nao San Chu Jing 佛說長者子懊惱三處經	Translated by An Shigao	taisho/t0525_00.txt	Taishō	Sūtra	148-170	jingji
+taisho/t0525.csv	taisho/t0525.html	Weeping in Three Places after the Death of an Elder’s Son (Fo Shuo Zhangzhe Zi Ao Nao San Chu Jing) 佛說長者子懊惱三處經	Translated by An Shigao	taisho/t0525_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0526.csv	taisho/t0526.html	Fo Shuo Zhangzhe Zi Zhi Jing 佛說長者子制經	Translated by An Shigao	taisho/t0526_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0527.csv	taisho/t0527.html	Fo Shuo Shi Tongzi Jing 佛說逝童子經	Translated by Zhi Fadu	taisho/t0527_00.txt	Taishō	Sūtra	301	jingji
 taisho/t0528.csv	taisho/t0528.html	Sutra on the Bodhisattva Shi (Fo Shuo Pusa Shi Jing) 佛說菩薩逝經	Translated by Bai Fa Zu	taisho/t0528_00.txt	Taishō	Sūtra	290-306	jingji
