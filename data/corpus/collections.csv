@@ -50,7 +50,7 @@ taisho/t0047.csv	taisho/t0047.html	Li Shui Jing (Pacalā Sutta) 離睡經	Transl
 taisho/t0048.csv	taisho/t0048.html	Sutra on True Dharmas and False Dharmas (Shi Fa Fei Fa Jing) 是法非法經	Translated by An Shigao in 1 scroll.	taisho/t0048_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0049.csv	taisho/t0049.html	Qiu Yu Jing (Anaṅgaṇasutta) 求欲經	Translated by Fa Ju in 1 scroll.	taisho/t0049_00.txt	Taishō	Sūtra	290-307	āgama
 taisho/t0050.csv	taisho/t0050.html	Shou Sui Jing (Anumānasutta) 受歲經	Translated by Dharmarakṣa in 1 scroll.	taisho/t0050_00.txt	Taishō	Sūtra	265-313	āgama
-taisho/t0051.csv	taisho/t0051.html	Fanzhi Ji Shui Jing Jing (Vatthūpamasūtta) 梵志計水淨經	By an unknown translator in 2 scrolls.	taisho/t0051_00.txt	Taishō	Sūtra	317-420	āgama
+taisho/t0051.csv	taisho/t0051.html	A Brahmin’s Checks the Purity of Water (Fanzhi Ji Shui Jing Jing) 梵志計水淨經	By an unknown translator in 1 scroll.	taisho/t0051_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0052.csv	taisho/t0052.html	Da Sheng Yi Jing (Mahānidānasūtra) 大生義經	Translated by Dānapāla in 1 scroll	taisho/t0052_00.txt	Taishō	Sūtra	1001	āgama
 taisho/t0053.csv	taisho/t0053.html	Ku Yin Jing (Mahādukkhakāhandhasutta) 苦陰經	By an unknown translator in 1 scroll	taisho/t0053_00.txt	Taishō	Sūtra	25-220	āgama
 taisho/t0054.csv	taisho/t0054.html	Shimonan Ben Si Zi Jing 釋摩男本四子經	Translated by Zhi Qian in 1 scroll	taisho/t0054_00.txt	Taishō	Sūtra	223-253	āgama
@@ -142,7 +142,7 @@ taisho/t0137.csv	taisho/t0137.html	Shelifu Mohe Mulian You Si Qu Jing 舍利弗�
 taisho/t0138.csv	taisho/t0138.html	Shiyi Xiang Sinian Rulai Jing (Maitrībhāvanāsūtra / Mettā Sutta) 十一想思念如來經	Translated by Guṇabhadra in 1 scroll	taisho/t0138_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0139.csv	taisho/t0139.html	Si Nili Jing 四泥犁經	Translated by Tan Wulan in 1 scroll	taisho/t0139_00.txt	Taishō	Sūtra	381-395	āgama
 taisho/t0140.csv	taisho/t0140.html	Enabindi Hua Qi Zi Jing 阿那邠邸化七子經	Translated by An Shigao in 1 scroll	taisho/t0140_00.txt	Taishō	Sūtra	148-170	āgama
-taisho/t0141.csv	taisho/t0141.html	Esuda Jing 佛說阿遬達經	Translated by Guṇabhadra in 1 scroll	taisho/t0141_00.txt	Taishō	Sūtra	435-443	āgama
+taisho/t0141.csv	taisho/t0141.html	Aśuddha Sūtra (Esuda Jing) 佛說阿遬達經	Translated by Guṇabhadra in 1 scroll	taisho/t0141_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0142a.csv	taisho/t0142a.html	Sujata Sutra 佛說玉耶女經	By an unknown translator in 1 scroll	taisho/t0142a_00.txt	Taishō	Sūtra	265-317	āgama
 taisho/t0142b.csv	taisho/t0142b.html	Sujata Sutra 玉耶女經	By an unknown translator in 1 scroll	taisho/t0142b_00.txt	Taishō	Sūtra	265-317	āgama
 taisho/t0143.csv	taisho/t0143.html	Sujātā Sūtra (Yuye Jing) 玉耶經	Translated by Tan Wulan in 1 scroll	taisho/t0143_00.txt	Taishō	Sūtra	381-395	āgama
@@ -815,8 +815,8 @@ taisho/t0794a.csv	taisho/t0794a.html	Fo Shuo Shi Feishi Jing 佛說時非時經	
 taisho/t0794b.csv	taisho/t0794b.html	Fo Shuo Shi Feishi Jing 佛說時非時經	Translated by 若羅嚴	taisho/t0794b_00.txt	Taishō	Sūtra	265-317	jingji
 taisho/t0795.csv	taisho/t0795.html	The Buddha Teaches Self-Restraint (Fo Zhi Shen Jing) 佛治身經	Translated by Unknown	taisho/t0795_00.txt	Taishō	Sūtra	265-317	jingji
 taisho/t0796.csv	taisho/t0796.html	Sutra on Right View (Fo Shuo Jian Zhengjing) 佛說見正經	Translated by Tan Wulan	taisho/t0796_00.txt	Taishō	Sūtra	381-395	jingji
-taisho/t0797a.csv	taisho/t0797a.html	Fo Shuo Pinqiong Lao Gong Jing 佛說貧窮老公經	Translated by Hui Jian	taisho/t0797a_00.txt	Taishō	Sūtra	457	jingji
-taisho/t0797b.csv	taisho/t0797b.html	Fo Shuo Pinqiong Lao Gong Jing 佛說貧窮老公經	Translated by Hui Jian	taisho/t0797b_00.txt	Taishō	Sūtra	457	jingji
+taisho/t0797a.csv	taisho/t0797a.html	Poor Old Man Sutra (Fo Shuo Pinqiong Lao Gong Jing) 佛說貧窮老公經	Translated by Hui Jian	taisho/t0797a_00.txt	Taishō	Sūtra	457	jingji
+taisho/t0797b.csv	taisho/t0797b.html	Poor Old Man Sutra (Fo Shuo Pinqiong Lao Gong Jing) 佛說貧窮老公經	Translated by Hui Jian	taisho/t0797b_00.txt	Taishō	Sūtra	457	jingji
 taisho/t0798.csv	taisho/t0798.html	Sutra on Acquiring Knowledge (Fo Shuo Jin Xue Jing) 佛說進學經	Translated by Juqu Jingsheng	taisho/t0798_00.txt	Taishō	Sūtra	455	jingji
 taisho/t0799.csv	taisho/t0799.html	Fo Shuo Lue Jiao Jie Jing 佛說略教誡經	Translated by Yijing	taisho/t0799_00.txt	Taishō	Sūtra	711	jingji
 taisho/t0800.csv	taisho/t0800.html	Fo Shuo Wushang Chu Jing 佛說無上處經	Translated by Unknown	taisho/t0800_00.txt	Taishō	Sūtra	317-420	jingji
@@ -846,7 +846,7 @@ taisho/t0823.csv	taisho/t0823.html	Fo Shuo Yiqie Fa Gao Wang Jing 佛說一切�
 taisho/t0824.csv	taisho/t0824.html	Zhu Fa Zuishang Wang Jing 諸法最上王經	Translated by Jñānagupta	taisho/t0824_00.txt	Taishō	Sūtra	595	jingji
 taisho/t0825.csv	taisho/t0825.html	Fo Shuo Shen Shen Da Huixiang Jing 佛說甚深大迴向經	Translated by Unknown	taisho/t0825_00.txt	Taishō	Sūtra	420-479	jingji
 taisho/t0826.csv	taisho/t0826.html	Sūtra on the Disciple who Died and Returned to Life (Dizi Si Fu Sheng Jing) 弟子死復生經	Translated by Juqu Jingsheng	taisho/t0826_00.txt	Taishō	Sūtra	455-	jingji
-taisho/t0827.csv	taisho/t0827.html	Fo Shuo Xiedai Geng Zhe Jing 佛說懈怠耕者經	Translated by 惠簡	taisho/t0827_00.txt	Taishō	Sūtra	457-	jingji
+taisho/t0827.csv	taisho/t0827.html	Sūtra on the Lazy Ploughman (Fo Shuo Xiedai Geng Zhe Jing) 佛說懈怠耕者經	Translated by Huijian	taisho/t0827_00.txt	Taishō	Sūtra	457-	jingji
 taisho/t0828.csv	taisho/t0828.html	Anakṣarakaraṇḍakavairocanagarbha (Wu Zi Bao Qie Jing) 無字寶篋經	Translated by Bodhiruci	taisho/t0828_00.txt	Taishō	Sūtra	508-535	jingji
 taisho/t0829.csv	taisho/t0829.html	Anakṣarakaraṇḍakavairocanagarbha (Dasheng Li Wenzi Pu Guangming Cang Jing) 大乘離文字普光明藏經	Translated by Divākara	taisho/t0829_00.txt	Taishō	Sūtra	683	jingji
 taisho/t0830.csv	taisho/t0830.html	Anakṣarakaraṇḍakavairocanagarbha (Dasheng Bian Zhao Guangming Cang Wu Zi Famen Jing) 大乘遍照光明藏無字法門經	Translated by 地婆訶羅再	taisho/t0830_00.txt	Taishō	Sūtra	676-688	jingji
