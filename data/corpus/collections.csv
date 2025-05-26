@@ -46,9 +46,9 @@ taisho/t0043.csv	taisho/t0043.html	Sūtra on the Five Heavenly Messengers of Yam
 taisho/t0044.csv	taisho/t0044.html	Sutra on the Words and Eras of the Past and Future (Gu Lai Shi Shi Jing) 古來世時經	By an unknown translator in 1 scroll.	taisho/t0044_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0045.csv	taisho/t0045.html	Dazhengju Wang Jing (Pāyāsisuttanta) 大正句王經	Translated by Faxian in the Song in 1 scroll.	taisho/t0045_00.txt	Taishō	Sūtra	995-997	āgama
 taisho/t0046.csv	taisho/t0046.html	Analu Ba Nian Jing (Anurudda Sutta) 阿那律八念經	Translated by Zhi Yao in 1 scroll.	taisho/t0046_00.txt	Taishō	Sūtra	185	āgama
-taisho/t0047.csv	taisho/t0047.html	Li Shui Jing (Pacalā Sutta) 離睡經	Translated by Dharmarakṣa in 1 scroll.	taisho/t0047_00.txt	Taishō	Sūtra	265-313	āgama
+taisho/t0047.csv	taisho/t0047.html	Sūtra on Overcoming Sleepiness (Li Shui Jing) 離睡經	Translated by Dharmarakṣa in 1 scroll.	taisho/t0047_00.txt	Taishō	Sūtra	265-313	āgama
 taisho/t0048.csv	taisho/t0048.html	Sutra on True Dharmas and False Dharmas (Shi Fa Fei Fa Jing) 是法非法經	Translated by An Shigao in 1 scroll.	taisho/t0048_00.txt	Taishō	Sūtra	148-170	āgama
-taisho/t0049.csv	taisho/t0049.html	Qiu Yu Jing (Anaṅgaṇasutta) 求欲經	Translated by Fa Ju in 1 scroll.	taisho/t0049_00.txt	Taishō	Sūtra	290-307	āgama
+taisho/t0049.csv	taisho/t0049.html	Sūtra on Desire (Qiu Yu Jing) 求欲經	Translated by Fa Ju in 1 scroll.	taisho/t0049_00.txt	Taishō	Sūtra	290-307	āgama
 taisho/t0050.csv	taisho/t0050.html	Shou Sui Jing (Anumānasutta) 受歲經	Translated by Dharmarakṣa in 1 scroll.	taisho/t0050_00.txt	Taishō	Sūtra	265-313	āgama
 taisho/t0051.csv	taisho/t0051.html	A Brahmin’s Checks the Purity of Water (Fanzhi Ji Shui Jing Jing) 梵志計水淨經	By an unknown translator in 1 scroll.	taisho/t0051_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0052.csv	taisho/t0052.html	Da Sheng Yi Jing (Mahānidānasūtra) 大生義經	Translated by Dānapāla in 1 scroll	taisho/t0052_00.txt	Taishō	Sūtra	1001	āgama
@@ -92,7 +92,7 @@ taisho/t0089.csv	taisho/t0089.html	Sutra on the Eight Purification Precepts 八�
 taisho/t0090.csv	taisho/t0090.html	Bimosu Jing (Vekhaṇasasutta) 鞞摩肅經	Translated by Guṇabhadra in 1 scroll	taisho/t0090_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0091.csv	taisho/t0091.html	Sūtra on a Brahmin’s Grieving on the Loss of His Son (Boluomen Zi Ming Zhong Ai Nian Bu Li Jing) 婆羅門子命終愛念不離經	Translated by An Shigao in 1 scroll	taisho/t0091_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0092.csv	taisho/t0092.html	Shi Zhi Jushi Ba Cheng Ren Jing 十支居士八城人經	Translated by An Shigao in 1 scroll	taisho/t0092_00.txt	Taishō	Sūtra	148-170	āgama
-taisho/t0093.csv	taisho/t0093.html	Xiejian Jing (Avyākata) 邪見經	By an unknown translator in 1 scroll	taisho/t0093_00.txt	Taishō	Sūtra	420-479	āgama
+taisho/t0093.csv	taisho/t0093.html	Sūtra on Wrong Views (Xie Jian Jing) 邪見經	By an unknown translator in 1 scroll	taisho/t0093_00.txt	Taishō	Sūtra	420-479	āgama
 taisho/t0094.csv	taisho/t0094.html	Sutra on the Parable of the Arrow (Cūlamāluṅkyasutta) 箭喻經	By an unknown translator in 1 scroll	taisho/t0094_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0095.csv	taisho/t0095.html	Yi Yu Jing (Vammikasutta) 蟻喻經	Translated by Dānapāla in 1 scroll	taisho/t0095_00.txt	Taishō	Sūtra	1009	āgama
 taisho/t0096.csv	taisho/t0096.html	Sutra on Maintaining Focus (Zhi Yi Jing) 治意經	By an unknown translator in 1 scroll	taisho/t0096_00.txt	Taishō	Sūtra	265-317	āgama
@@ -626,8 +626,8 @@ taisho/t0607.csv	taisho/t0607.html	Sutra on the Grounds of the Way (Dao Di Jing)
 taisho/t0608.csv	taisho/t0608.html	Lesser Sutra on the Grounds of the Way (Xiao Dao Di Jing) 小道地經	Translated by Zhi Yao	taisho/t0608_00.txt	Taishō	Sūtra	185	jingji
 taisho/t0609.csv	taisho/t0609.html	Chan Yao Jing 禪要經	Translated by Unknown	taisho/t0609_00.txt	Taishō	Sūtra	25-220	jingji
 taisho/t0610.csv	taisho/t0610.html	Fo Shuo Nei Shen Guan Zhang Ju Jing 佛說內身觀章句經	Translated by Unknown	taisho/t0610_00.txt	Taishō	Sūtra	25-220	jingji
-taisho/t0611.csv	taisho/t0611.html	Fa Guan Jing 法觀經	Translated by Dharmarakṣa	taisho/t0611_00.txt	Taishō	Sūtra	265-313	jingji
-taisho/t0612.csv	taisho/t0612.html	Shen Guan Jing 身觀經	Translated by Dharmarakṣa	taisho/t0612_00.txt	Taishō	Sūtra	265-313	jingji
+taisho/t0611.csv	taisho/t0611.html	Sūtra on Contemplation on the Dharma (Fa Guan Jing) 法觀經	Translated by Dharmarakṣa	taisho/t0611_00.txt	Taishō	Sūtra	265-313	jingji
+taisho/t0612.csv	taisho/t0612.html	Sūtra on Contemplation of the Body (Shen Guan Jing) 身觀經	Translated by Dharmarakṣa	taisho/t0612_00.txt	Taishō	Sūtra	265-313	jingji
 taisho/t0613.csv	taisho/t0613.html	Scripture on the Secret Essential Methods of Chan (Chan Mi Yao Fa Jing) 禪祕要法經	Translated by Kumārajīva and others	taisho/t0613_00.txt	Taishō	Sūtra	402-412	jingji
 taisho/t0614.csv	taisho/t0614.html	The Sutra on the Concentration of Sitting Meditation (Zuochan Sanmei Jing) 坐禪三昧經	Translated by Kumārajīva	taisho/t0614_00.txt	Taishō	Sūtra	402-407	jingji
 taisho/t0615.csv	taisho/t0615.html	Sūtra of the Bodhisattva's Rule Condemning Sexual Desires (Pusa He Se Yu Fa Jing) 菩薩訶色欲法經	Translated by Kumārajīva	taisho/t0615_00.txt	Taishō	Sūtra	402-412	jingji
@@ -753,7 +753,7 @@ taisho/t0734.csv	taisho/t0734.html	Sūtra on Ghosts’ Questions of Maudgalyāya
 taisho/t0735.csv	taisho/t0735.html	Sutra on Four Wishes (Fo Shuo Si Yuan Jing) 佛說四願經	Translated by Zhi Qian	taisho/t0735_00.txt	Taishō	Sūtra	222-229	jingji
 taisho/t0736.csv	taisho/t0736.html	Sutra on the Four Articles of Self-Injury (Fo Shuo Si Zi Qin Jing) 佛說四自侵經	Translated by Dharmarakṣa	taisho/t0736_00.txt	Taishō	Sūtra	265-313	jingji
 taisho/t0737.csv	taisho/t0737.html	Sutra on the Desires that Lead to Suffering (Suo Yu Zhi Huan Jing) 所欲致患經	Translated by Dharmarakṣa	taisho/t0737_00.txt	Taishō	Sūtra	304	jingji
-taisho/t0738.csv	taisho/t0738.html	Fo Shuo Fenbie Jing 佛說分別經	Translated by Dharmarakṣa	taisho/t0738_00.txt	Taishō	Sūtra	265-313	jingji
+taisho/t0738.csv	taisho/t0738.html	Sūtra on Discrimination (Fo Shuo Fenbie Jing) 佛說分別經	Translated by Dharmarakṣa	taisho/t0738_00.txt	Taishō	Sūtra	265-313	jingji
 taisho/t0739.csv	taisho/t0739.html	Fo Shuo Man Fa Jing 佛說慢法經	Translated by Fa Ju	taisho/t0739_00.txt	Taishō	Sūtra	290-307	jingji
 taisho/t0740.csv	taisho/t0740.html	Fo Shuo E Duo He Duo Qi Jing 佛說頞多和多耆經	Translated by Unknown	taisho/t0740_00.txt	Taishō	Sūtra	265-317	jingji
 taisho/t0741.csv	taisho/t0741.html	Suffering in the Five Realms (Wu Ku Zhang Ju Jing) 五苦章句經	Translated by Tan Wulan	taisho/t0741_00.txt	Taishō	Sūtra	381-395	jingji
