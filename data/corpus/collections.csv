@@ -122,7 +122,7 @@ taisho/t0119.csv	taisho/t0119.html	Yangjueji Jing (Aṅgulimālīyasūtra) 佛�
 taisho/t0120.csv	taisho/t0120.html	Yangjuemoluo Jing (Aṅgulimālīyasūtra) 央掘魔羅經	Translated by Guṇabhadra in 1 scroll	taisho/t0120_00.txt	Taishō	Sūtra	435-443	āgama
 taisho/t0121.csv	taisho/t0121.html	Yue Yu Jing (Candropamasūtra) 月喻經	Translated by Dānapāla in 1 scroll	taisho/t0121_00.txt	Taishō	Sūtra	1008	āgama
 taisho/t0122.csv	taisho/t0122.html	Sutra on King Prasenajit Covered in Dust After His Mother Passed Away 佛說波斯匿王太后崩塵土坌身經	Translated by Fa Ju in 1 scroll	taisho/t0122_00.txt	Taishō	Sūtra	290-307	āgama
-taisho/t0123.csv	taisho/t0123.html	Fang Niu Jing (Pratītyasamutpādādivibhaṅganirdeśa Sūtra) 放牛經	Translated by Kumārajīva in 1 scroll	taisho/t0123_00.txt	Taishō	Sūtra	402-412	āgama
+taisho/t0123.csv	taisho/t0123.html	Sūtra on Herding Cows (Fang Niu Jing) 放牛經	Translated by Kumārajīva in 1 scroll	taisho/t0123_00.txt	Taishō	Sūtra	402-412	āgama
 taisho/t0124.csv	taisho/t0124.html	Analysis of Dependent Co-arising (Pratītyasamutpādādivibhaṅganirdeśa Sūtra) 緣起經	Translated by Xuan Zang in 1 scroll	taisho/t0124_00.txt	Taishō	Sūtra	661	āgama
 taisho/t0125.csv	taisho/t0125.html	Ekottarāgama 增壹阿含經	Translated by Saṅghadeva in the Eastern Jin in 51 scrolls.	taisho/t0125_00.txt	Taishō	Sūtra	397	āgama
 taisho/t0126.csv	taisho/t0126.html	Aluohan Ju De Jing 佛說阿羅漢具德經	Translated by Faxian in the Song in 1 scroll.	taisho/t0126_00.txt	Taishō	Sūtra	989	āgama
@@ -132,8 +132,8 @@ taisho/t0128b.csv	taisho/t0128b.html	Xumoti Nu Jing (Sumāgadhāvadānasūtra) �
 taisho/t0129.csv	taisho/t0129.html	Sanmojie Jing (Sumāgadhāvadānasūtra) 佛說三摩竭經	Translated by Zhu Luyan in 1 scroll.	taisho/t0129_00.txt	Taishō	Sūtra	230	āgama
 taisho/t0130.csv	taisho/t0130.html	Geigu Zhangzhe Nu De Du Jing (Sumāgadhavadānasūtra) 佛說給孤長者女得度因緣經	Translated by Dānapāla in 3 scrolls.	taisho/t0130_00.txt	Taishō	Sūtra	1006	āgama
 taisho/t0131.csv	taisho/t0131.html	Sūtra on Brahmins Attempting to Escape Death (Poluomen Bi Si Jing) 佛說婆羅門避死經	Translated by An Shigao in 1 scroll	taisho/t0131_00.txt	Taishō	Sūtra	148-170	āgama
-taisho/t0132a.csv	taisho/t0132a.html	Shi Shi Huo Wu Fu Bao Jing 佛說食施獲五福報經	By an unknown translator in 1 scroll	taisho/t0132a_00.txt	Taishō	Sūtra	317-420	āgama
-taisho/t0132b.csv	taisho/t0132b.html	Shi Shi Huo Wu Fu Bao Jing 佛說食施獲五福報經	By an unknown translator in 1 scroll	taisho/t0132b_00.txt	Taishō	Sūtra	317-420	āgama
+taisho/t0132a.csv	taisho/t0132a.html	Sūtra on the Five Blessings of Giving of Food (Shi Shi Huo Wu Fu Bao Jing) 佛說食施獲五福報經	By an unknown translator in 1 scroll	taisho/t0132a_00.txt	Taishō	Sūtra	317-420	āgama
+taisho/t0132b.csv	taisho/t0132b.html	Sūtra on the Five Blessings of Giving of Food (Shi Shi Huo Wu Fu Bao Jing) 佛說食施獲五福報經	By an unknown translator in 1 scroll	taisho/t0132b_00.txt	Taishō	Sūtra	317-420	āgama
 taisho/t0133.csv	taisho/t0133.html	Pinpi Suoluo Wang Yi Fo Gongyang Jing 頻毘娑羅王詣佛供養經	Translated by Fa Ju in 1 scroll	taisho/t0133_00.txt	Taishō	Sūtra	290-307	āgama
 taisho/t0134.csv	taisho/t0134.html	Zhangzhe Zi Liu Guo Chujia Jing 佛說長者子六過出家經	Translated by Hui Jian in 1 scroll	taisho/t0134_00.txt	Taishō	Sūtra	457	āgama
 taisho/t0135.csv	taisho/t0135.html	Sutra on Strong Men Trying to Move a Mountain (Lishi Yi Shan Jing) 佛說力士移山經	Translated by Dharmarakṣa in 1 scroll	taisho/t0135_00.txt	Taishō	Sūtra	265-313	āgama
@@ -2223,7 +2223,7 @@ taisho/t2141B.csv	taisho/t2141B.html	Bosi Jiao Can Jing 波斯教殘經		taisho/
 taisho/t2142.csv	taisho/t2142.html	Xu Ting Mi Shi Suo Jing 序聽迷詩所經		taisho/t2142_00.txt	Taishō	text		outside_teachers
 taisho/t2143.csv	taisho/t2143.html	Jingjiao San Wei Meng Du Zan 景教三威蒙度讚		taisho/t2143_00.txt	Taishō	text		outside_teachers
 taisho/t2144.csv	taisho/t2144.html	Da Qin Jingjiao Liuxing Zhongguo Bei Song 大秦景教流行中國碑頌	Narrated by Jing Jing	taisho/t2144_00.txt	Taishō	text	618-907	outside_teachers
-taisho/t2145.csv	taisho/t2145.html	Collection of records concerning the Chinese Buddhist Canon (Chu San Zang Ji Ji) 出三藏記集	Compiled by Seng You	taisho/t2145_00.txt	Taishō	text	502-557	catalog
+taisho/t2145.csv	taisho/t2145.html	Collection of Records Concerning the Chinese Buddhist Canon (Chu San Zang Ji Ji) 出三藏記集	Compiled by Seng You	taisho/t2145_00.txt	Taishō	text	502-557	catalog
 taisho/t2146.csv	taisho/t2146.html	Sui Catalog of Scriptures by Fa Jing (Zhong Jing Mulu) 眾經目錄	Compiled by Fa Jing and others	taisho/t2146_00.txt	Taishō	text	594	catalog
 taisho/t2147.csv	taisho/t2147.html	Sui Dynasty Renshou Era Catalog of Scriptures (Zhong Jing Mulu) 眾經目錄	Compiled by Yan Cong	taisho/t2147_00.txt	Taishō	text	589-618	catalog
 taisho/t2148.csv	taisho/t2148.html	Tang Catalog of Sutras and Sastras from Eastern Capital Da Jing Ai Monastery (Zhong Jing Mulu) 眾經目錄	Compiled by Jing Tai	taisho/t2148_00.txt	Taishō	text	663-665	catalog
