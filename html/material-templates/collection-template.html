@@ -105,6 +105,14 @@
       <h2>{{.Data.Title}}</h2>
       <p>{{.Data.Summary}}</p>
 
+      <ul class="mdc-deprecated-list">Add commentMore actions
+        {{ range $element := .Data.CorpusEntries }}
+        <li class="mdc-deprecated-list-item">
+          <span class="mdc-deprecated-list-item__text"><a
+                href='/{{$element.GlossFile}}'>{{ $element.Title }}</a></span>
+        </li>
+        {{ end }}
+      </ul>
       {{.Data.Intro}}
 
       <p>
