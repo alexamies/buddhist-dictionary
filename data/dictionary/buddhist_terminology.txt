@@ -10622,7 +10622,7 @@
 8010622	无着果	無著果	wú zhāo guǒ	[having attained the] Fruit of Non-Attachment; Arhat	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation listed by Sengyou in 出三藏記集 Collection of records concerning the Chinese Buddhist Canon; see 阿羅漢 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010622
 8010623	应仪	應儀	yīng yí	worthy of admiration; Arhat	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation listed by Sengyou in 出三藏記集 Collection of records concerning the Chinese Buddhist Canon; see 阿羅漢 (Link 1961b, p. 289; Nattier 2023, p. 116; T 2145, Scroll 1, 55.0004b02)	8010623
 8010624	长者	長者	zhǎngzhě	elder; chief; householder	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śreṣṭhin, Pali: seṭṭhin, Tibetan: tshong dpon (Edgerton 1953 'seṭṭhin', p. 536; FGDB '長者' 1; Mahāvyutpatti 'śreṣṭhī'; MW 'śreṣṭhin'; SH '長者', p. 284)	8010624
-8010625	濡首	\N	rú shǒu	Glossy Head; Manjusri	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation listed by Sengyou in 出三藏記集 Collection of records concerning the Chinese Buddhist Canon; see 文殊 (SH '濡首', p. 459; Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010625
+8010625	濡首	\N	rú shǒu	Foremost of the Gentle; Manjusri	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation introduced by Zhu Fonian; see 文殊 (SH '濡首', p. 459; Link 1961b, p. 289; Nattier 2010, p. 236)	8010625
 8010626	光世音	\N	guāng shì yīn	Avalokitesvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation listed by Sengyou in 出三藏記集 Collection of records concerning the Chinese Buddhist Canon; see 觀世音 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010626
 8010627	除入	\N	chú rù	abhibhāyatana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation listed by Sengyou in 出三藏記集 Collection of records concerning the Chinese Buddhist Canon; see 勝處 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010627
 8010628	正断	正斷	zhèng duàn	letting go	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An old translation listed by Sengyou in 出三藏記集 Collection of records concerning the Chinese Buddhist Canon; see 正勤 (Link 1961b, p. 289; T 2145, Scroll 1, 55.0004b02)	8010628
@@ -17504,3 +17504,29 @@
 8017504	金刚身	金剛身	jīngāng shēn	vajrakāya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrakāya (FGDB '金剛身'; Radich and Norrish 2025, p. 15; SH '金剛身', p. 282)	8017504
 8017505	金刚之身	金剛之身	jīngāng zhī shēn	vajrakāya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vajrakāya; see 金剛身 (Radich and Norrish 2025, p. 15)	8017505
 8017506	二因	\N	èr yīn	two kinds of cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. 生因 cause that gives rise to an effect and 2. 了因 a cause leading to knowledge (FGDB '二因'; SH '二因', p. 23)	8017506
+8017507	记莂	記莂	jì bié	prediction of enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 授記 (Radich and Norrish 2025, p. 15; SH '記別', p. 339)	8017507
+8017508	了因佛性	\N	liǎo yīn fó xìng	revealing cause of Buddha nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the 三因佛性 three causes of Buddha-nature (FGDB '了因佛性'; SH '了因佛性', p. 20)	8017508
+8017509	正因佛性	\N	zhèng yīn fó xìng	direct cause of Buddha nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first of the 三因佛性 three causes of Buddha-nature (FGDB '三因佛性'; SH '了因佛性', p. 20)	8017509
+8017510	缘因佛性	緣因佛性	yuán yīn fó xìng	affinity cause of Buddha nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the 三因佛性 three causes of Buddha-nature (FGDB '三因佛性'; SH '了因佛性', p. 20)	8017510
+8017511	授别	授別	shòu bié	prediction of enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 授記 (Radich and Norrish 2025, p. 15; SH '記別', p. 339)	8017511
+8017512	三因佛性	\N	sān yīn fó xìng	the three causes of Buddha nature	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. 正因佛性 direct cause of Buddha nature, 2. 了因佛性 revealing cause of Buddha nature, 3. 緣因佛性 affinity cause of Buddha nature (FGDB '三因佛性')	8017512
+8017513	了彻禅定	了徹禪定	liǎo chè chán dìng	mastery of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '了徹禪定', p. 20)	8017513
+8017514	迦旃邻提鸟	迦旃鄰提鳥	jiāzhānlíntíniǎo	kācalindikāka; kācilindi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦遮鄰地 (FGDB '迦旃鄰提鳥')	8017514
+8017515	迦旃邻提	迦旃鄰提	jiāzhānlíntí	kācalindikāka; kācilindi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦遮鄰地 (FGDB '迦旃鄰提鳥')	8017515
+8017516	了悟	\N	liǎo wù	to attain complete enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '了悟' 2; Guoyu '了悟', p. 20)	8017516
+8017517	迦旃邻陀	迦旃鄰陀	jiāzhānlíntuó	kācalindikāka; kācilindi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 迦遮鄰地 (FGDB '迦旃鄰提鳥')	8017517
+8017518	廅楼亘	廅樓亘	èlóugèn	Avalokiteśvara	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avalokiteśvara; a form used by Lokakṣema, see 觀世音菩薩 (Nattier 2010, p. 238)	8017518
+8017519	了义教	了義教	liǎo yì jiāo	teaching of the complete truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '了義'; SH '了義教', p. 20)	8017519
+8017520	陀邻尼	陀鄰尼	tuólínní	dharani	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhāraṇī; see 陀羅尼 (Nattier 2010, p. 241)	8017520
+8017521	欢喜国	歡喜國	huānxǐ guó	Abhirati	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: abhirati; literally 'happy land,' the paradise of Akṣobhya (Eitel 'Abhirati', p. 3; SH '歡喜國', p. 487)	8017521
+8017522	了达	了達	liǎo dá	thorough understanding	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '了達', p. 20)	8017522
+8017523	妙喜国	妙喜國	miàoxǐ guó	Abhirati	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 歡喜國 (SH '歡喜國', p. 487)	8017523
+8017524	色力	\N	sèlì	physical effort	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '十六大力')	8017524
+8017525	二三邪徒	\N	èr sān xié tú	the six non-Buddhist philosophers	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二三 (SH '二三', p. 20)	8017525
+8017526	哑撇释该而	啞撇釋該而	yǎpiěshìgāiér	abhiseka; consecrate by sprinkling	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Eitel 'abhisekair', p. 3)	8017526
+8017527	大高王	\N	dàgāo wáng	Abhyudgata-rāja	proper noun	\N	\N	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Name of a kalpa (Eitel 'Abhyutgata-rādja', p. 3; Karashima 2001, p. 99; SH '大高王', p. 97)	8017527
+8017528	二世尊	\N	èr shì zūn	Buddhas of the two ages	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to 釋迦如來 Śākyamuni and 多寶如來 Prabhūtaratna in the eleventh chapter of the Lotus Sūtra (FGDB '二世尊'; SH '二世尊', p. 20)	8017528
+8017529	法华二圣	法華二聖	fǎ huá èr shèng	the two sages of the Lotus Sūtra	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二世尊 (FGDB '二世尊')	8017529
+8017530	不淫慾	\N	bù yín yù	no debauchery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Eitel 'Abida', p. 3)	8017530
+8017531	阿沙陀	\N	āshātuó	āṣāḍha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṣāḍha; first month of summer (Eitel 'āchāḍha', p. 3; SH '阿沙陀', p. 288)	8017531
+8017532	二世间	二世間	èr shìjiān	the two realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the realms of sentient beings and the material world (FGDB '二世間'; SH '二世間', p. 20)	8017532
