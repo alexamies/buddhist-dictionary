@@ -4781,7 +4781,7 @@
 8004781	退失	\N	tuìshī	parihāṇi; to regress; to degenerate	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 退轉 (FGDB '退轉')	8004781
 8004782	凡夫	\N	fánfū	an ordinary person; pṛthagjana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pṛthagjana, or: bālapṛthagjana, Pali: puthujjana, Japanese: bonbu; a person that has not studied or practiced Buddhism to the level of a noble person (BL 'pṛthagjana'; Dhammajoti 2013, p. 154; Ding '凡夫'; FGDB '凡夫')	8004782
 8004783	凡	\N	fán	an ordinary person	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Abbreviation for 凡夫 (FGDB '凡夫')	8004783
-8004784	二乘	\N	èr shèng	the two vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either 1. Mahayana and Theravada or 2. the Sravaka Vehicle and the Pratyeka-buddha Vehicle (Ding '大小二乘'; SH '大小二乘', p. 88)	8004784
+8004784	二乘	\N	èr shèng	the two vehicles	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Either 1. Mahayana and Theravada or 2. the Sravaka Vehicle and the Pratyeka-buddha Vehicle (Ding '大小二乘'; SH '二乘', p. 20)	8004784
 8004785	果证	果證	guǒzhèng	realized attainment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '果證')	8004785
 8004786	忉利	\N	dāolì	Trayastrimsa Heaven; Tavatimsa; The Heaven of Thirty-Three Gods	proper noun	天	Heaven	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trāyastriṃśa, Pali: tāvatiṃsa; see 忉利天 (FGDB '忉利天')	8004786
 8004787	分身	\N	fēnshēn	a division body; emanation	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ātmabhāvavigraha; a skillful means used by Buddhas and bodhisattvas, such as the many division bodies of Ksitigarbha described in the Kṣitigarbha Sūtra and Lotus Sutra (FGDB '分身'; Braarvig 2020, ch. 11; Hurvitz 2009, p. 185; Kern tr. 1884, ch. 11; Vaidya 1960, p. 149; T 262, Scroll 4, 9.0032c22)	8004787
@@ -17530,3 +17530,8 @@
 8017530	不淫慾	\N	bù yín yù	no debauchery	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Eitel 'Abida', p. 3)	8017530
 8017531	阿沙陀	\N	āshātuó	āṣāḍha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āṣāḍha; first month of summer (Eitel 'āchāḍha', p. 3; SH '阿沙陀', p. 288)	8017531
 8017532	二世间	二世間	èr shìjiān	the two realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the realms of sentient beings and the material world (FGDB '二世間'; SH '二世間', p. 20)	8017532
+8017533	阿沙荼	\N	āshātú	āṣāḍha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿沙陀 (SH '阿沙陀', p. 288)	8017533
+8017534	頞沙荼	\N	èshātú	āṣāḍha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿沙陀 (Eitel 'āchāḍha', p. 3; SH '阿沙陀', p. 288)	8017534
+8017535	二乘作佛	\N	èr shèng zuò fó	those of the two vechicles will become Buddhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '作佛'; SH '二乘', p. 20)	167371
+8017536	三一二乘	\N	sān yī èr shèng	two vehicles of three and one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The three vehicles refers to the pre-Lotus concept of śrāvaka, pratyeka, and bodhsattva; the one vehicles refers to the Lotus Sūtra concept combining all three (FGDB '三一二乘'; SH '三一二乘', p. 20)	8017536
+8017537	阿萨多	阿薩多	āsàduō	aṣāḍhā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two lunar mansions associated with stars in Sagittarius (SH '阿薩多', p. 291)	8017537
