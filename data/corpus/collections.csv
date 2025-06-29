@@ -151,7 +151,7 @@ taisho/t0145.csv	taisho/t0145.html	Sūtra on the Nirvāṇa of the Buddha’s Mo
 taisho/t0146.csv	taisho/t0146.html	Shiwei Guo Wang Mengjian Shi Shi Jing 舍衛國王夢見十事經	By an unknown translator in 1 scroll	taisho/t0146_00.txt	Taishō	Sūtra	265-317	āgama
 taisho/t0147.csv	taisho/t0147.html	Sūtra on the King of Śrāvastī’s Dream with Ten Omens (Shewei Guo Wang Shi Meng Jing) 佛說舍衛國王十夢經	By an unknown translator in 1 scroll	taisho/t0147_00.txt	Taishō	Sūtra	265-317	āgama
 taisho/t0148.csv	taisho/t0148.html	Guowang Bu Li Xianni Meng Jing 國王不梨先泥十夢經	Translated by Tan Wulan in 1 scroll	taisho/t0148_00.txt	Taishō	Sūtra	381-395	āgama
-taisho/t0149.csv	taisho/t0149.html	Anan Tongxue Jing 阿難同學經	Translated by An Shigao in 1 scroll	taisho/t0149_00.txt	Taishō	Sūtra	148-170	āgama
+taisho/t0149.csv	taisho/t0149.html	Sūtra on Ānanda’s Childhood Companion (Anan Tongxue Jing) 阿難同學經	Translated by An Shigao in 1 scroll	taisho/t0149_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0150a.csv	taisho/t0150a.html	Sutra on Seven Places and Three Subjects for Contemplation (Qi Chu San Guan Jing) 七處三觀經	Translated by An Shigao in 1 scroll	taisho/t0150a_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0150b.csv	taisho/t0150b.html	Sutra on the Nine Causes of Untimely Death (Jiu Heng Jing) 九橫經	Translated by An Shigao in 1 scroll	taisho/t0150b_00.txt	Taishō	Sūtra	148-170	āgama
 taisho/t0151.csv	taisho/t0151.html	Āgama on Right Action (Ahan Zheng Xing Jing) 佛說阿含正行經	Translated by An Shigao in 1 scroll	taisho/t0151_00.txt	Taishō	Sūtra	148-170	āgama
@@ -402,7 +402,7 @@ taisho/t0389.csv	taisho/t0389.html	Sutra of Teachings Spoken Briefly by the Budd
 taisho/t0390.csv	taisho/t0390.html	Mahāparinirvāṇasūtra (Fo Lin Niepan Ji Fa Zhu Jing) 佛臨涅槃記法住經	Translated by Xuan Zang	taisho/t0390_00.txt	Taishō	Sūtra	652	nirvāṇa
 taisho/t0391.csv	taisho/t0391.html	Bannihuan Hou Guanla Jing 般泥洹後灌臘經	Translated by Dharmarakṣa	taisho/t0391_00.txt	Taishō	Sūtra	266-270	nirvāṇa
 taisho/t0392.csv	taisho/t0392.html	Sūtra on Burial Rites After the Buddha’s Nirvāṇa (Fo Miedu Hou Guan Lian Zansong Jing) 佛滅度後棺斂葬送經	Translated by Unknown	taisho/t0392_00.txt	Taishō	Sūtra	265-317	nirvāṇa
-taisho/t0393.csv	taisho/t0393.html	Jiaye Fu Fo Banniepan Jing 迦葉赴佛般涅槃經	Translated by Tan Wulan	taisho/t0393_00.txt	Taishō	Sūtra	381-395	nirvāṇa
+taisho/t0393.csv	taisho/t0393.html	Sūtra on Kāśyapa Attending the Buddha at his Nirvāṇa (Jiaye Fu Fo Banniepan Jing) 迦葉赴佛般涅槃經	Translated by Tan Wulan	taisho/t0393_00.txt	Taishō	Sūtra	381-395	nirvāṇa
 taisho/t0394.csv	taisho/t0394.html	Fo Ru Niepan Mi Ji Jingang Lishi Ailian Jing 佛入涅槃密迹金剛力士哀戀經	Translated by Unknown	taisho/t0394_00.txt	Taishō	Sūtra	350-431	nirvāṇa
 taisho/t0395.csv	taisho/t0395.html	Foshuo Dang Lai Bian Jing 佛說當來變經	Translated by Dharmarakṣa	taisho/t0395_00.txt	Taishō	Sūtra	266-313	nirvāṇa
 taisho/t0396.csv	taisho/t0396.html	Sūtra on the Total Destruction of the Dharma (Foshuo Fa Mie Jin Jing) 佛說法滅盡經	Translated by Unknown	taisho/t0396_00.txt	Taishō	Sūtra	420-479	nirvāṇa
@@ -504,13 +504,13 @@ taisho/t0488.csv	taisho/t0488.html	Bodhisattvacaryānirdeśa (Bao Shou Pusa Puti
 taisho/t0489.csv	taisho/t0489.html	Ratnameghasūtra (Chu Gai Zhang Pusa Suo Wen Jing) 佛說除蓋障菩薩所問經	Translated by Dharmarakṣa	taisho/t0489_00.txt	Taishō	Sūtra	1019-1023	jingji
 taisho/t0490.csv	taisho/t0490.html	Fo Shuo Ba Da Pusa Jing 佛說八大菩薩經	Translated by Faxian	taisho/t0490_00.txt	Taishō	Sūtra	989-999	jingji
 taisho/t0491.csv	taisho/t0491.html	Liu Pusa Yi Dang Song Chi Jing 六菩薩亦當誦持經	Translated by Unknown	taisho/t0491_00.txt	Taishō	Sūtra	25-220	jingji
-taisho/t0492a.csv	taisho/t0492a.html	Fo Shuo Anan Wen Shi Fo Jixiong Jing 佛說阿難問事佛吉凶經	Translated by An Shigao	taisho/t0492a_00.txt	Taishō	Sūtra	148-170	jingji
-taisho/t0492b.csv	taisho/t0492b.html	Anan Wen Shi Fo Jixiong Jing 阿難問事佛吉凶經	Translated by An Shigao	taisho/t0492b_00.txt	Taishō	Sūtra	148-170	jingji
+taisho/t0492a.csv	taisho/t0492a.html	Sūtra on Ānanda’s Questions about Good and Bad Destinies (Fo Shuo Anan Wen Shi Fo Jixiong Jing) 佛說阿難問事佛吉凶經	Translated by An Shigao	taisho/t0492a_00.txt	Taishō	Sūtra	148-170	jingji
+taisho/t0492b.csv	taisho/t0492b.html	Sūtra on Ānanda’s Questions to the Buddha about Good and Bad Destinies (Anan Wen Shi Fo Jixiong Jing) 阿難問事佛吉凶經	Translated by An Shigao	taisho/t0492b_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0493.csv	taisho/t0493.html	Sutra Spoken by Ananda on Four Matters (Fo Shuo Anan Si Shi Jing) 佛說阿難四事經	Translated by Zhi Qian	taisho/t0493_00.txt	Taishō	Sūtra	223-253	jingji
 taisho/t0494.csv	taisho/t0494.html	Sutra on Ānanda's Seven Dreams (Anan Qi Meng Jing) 阿難七夢經	Translated by Tan Wulan	taisho/t0494_00.txt	Taishō	Sūtra	381-395	jingji
 taisho/t0495.csv	taisho/t0495.html	Fo Shuo Anan Fenbie Jing 佛說阿難分別經	Translated by 法堅	taisho/t0495_00.txt	Taishō	Sūtra	388-409	jingji
 taisho/t0496.csv	taisho/t0496.html	Sūtra Addressed to Mahākāśyapa (Fo Shuo Da Jiaye Ben Jing) 佛說大迦葉本經	Translated by Dharmarakṣa	taisho/t0496_00.txt	Taishō	Sūtra	265-313	jingji
-taisho/t0497.csv	taisho/t0497.html	Fo Shuo Mohe Jiaye Du Pin Mu Jing 佛說摩訶迦葉度貧母經	Translated by Guṇabhadra	taisho/t0497_00.txt	Taishō	Sūtra		jingji
+taisho/t0497.csv	taisho/t0497.html	Sūtra on Mahākāśyapa Crossing Over a Poor Woman (Fo Shuo Mohe Jiaye Du Pin Mu Jing) 佛說摩訶迦葉度貧母經	Translated by Guṇabhadra	taisho/t0497_00.txt	Taishō	Sūtra		jingji
 taisho/t0498.csv	taisho/t0498.html	Fo Shuo Chu Fenshuo Jing 佛說初分說經	Translated by Dānapāla	taisho/t0498_00.txt	Taishō	Sūtra		jingji
 taisho/t0499.csv	taisho/t0499.html	Acela Sutra: Naked Kasyapa 佛為阿支羅迦葉自化作苦經	Translated by Unknown	taisho/t0499_00.txt	Taishō	Sūtra		jingji
 taisho/t0500.csv	taisho/t0500.html	Sūtra on Rāhula’s Forbearance (Luo Yun Renru Jing) 羅云忍辱經	Translated by Fa Ju	taisho/t0500_00.txt	Taishō	Sūtra	290-307	jingji
@@ -1565,7 +1565,7 @@ taisho/t1498.csv	taisho/t1498.html	Fo Shuo Ba Zhong Zhang Yang Gongde Jing 佛�
 taisho/t1499.csv	taisho/t1499.html	Pusa Jie Jiemo Wen 菩薩戒羯磨文	Spoken by Maitreya Bodhisattva	taisho/t1499_00.txt	Taishō	Vinaya	649	vinaya
 taisho/t1500.csv	taisho/t1500.html	Pusa Jie Ben 菩薩戒本	Translated by Dharmakṣema	taisho/t1500_00.txt	Taishō	Vinaya	 414-426	vinaya
 taisho/t1501.csv	taisho/t1501.html	Pusa Jie Ben 菩薩戒本	Translated by Xuan Zang	taisho/t1501_00.txt	Taishō	Vinaya	647-649	vinaya
-taisho/t1502.csv	taisho/t1502.html	Pusa Shou Zhai Jing 菩薩受齋經	Translated by Nie Dao Zhen	taisho/t1502_00.txt	Taishō	Vinaya	280-313	vinaya
+taisho/t1502.csv	taisho/t1502.html	Bodhisattva Fasting Sūtra (Pusa Shou Zhai Jing) 菩薩受齋經	Translated by Nie Dao Zhen	taisho/t1502_00.txt	Taishō	Vinaya	280-313	vinaya
 taisho/t1503.csv	taisho/t1503.html	Scripture on the Solemn Ritual for the Five Precepts for Lay People (Youposai Wu Jie Weiyi Jing) 優婆塞五戒威儀經	Translated by Guṇaśāla	taisho/t1503_00.txt	Taishō	Vinaya	431	vinaya
 taisho/t1504.csv	taisho/t1504.html	Pusa Wu Fa Chanhui Wen 菩薩五法懺悔文	Translated by Unknown	taisho/t1504_00.txt	Taishō	Vinaya	502-557	vinaya
 taisho/t1505.csv	taisho/t1505.html	Digest of the Four Āgamas (Si Ahan Mu Chao Jie) 四阿鋡暮抄解	Written by Vasubhadra, translated by Kumārabuddhi and others	taisho/t1505_00.txt	Taishō	śastra	382	śastra
@@ -1754,7 +1754,7 @@ taisho/t1685.csv	taisho/t1685.html	Aṣṭamahāsthānacaityastotra (Fo Shuo Ba 
 taisho/t1686.csv	taisho/t1686.html	Xian Sheng Ji Jiatuo Yibai Song 賢聖集伽陀一百頌	Translated by Tian Xi Zai	taisho/t1686_00.txt	Taishō	śastra	986-987	śastra
 taisho/t1687.csv	taisho/t1687.html	Gurupañcāśikā (Shi Shifa Wushi Song) 事師法五十頌	Compiled by Aśvaghoṣa, translated by Ri Cheng and others	taisho/t1687_00.txt	Taishō	śastra	1058-1072	śastra
 taisho/t1688.csv	taisho/t1688.html	Mi Ji Lishi Da Quan Shen Wang Jing Ji Song 密跡力士大權神王經偈頌	Composed by Guan Zhu Ba	taisho/t1688_00.txt	Taishō	śastra	1058-1072	śastra
-taisho/t1689.csv	taisho/t1689.html	Qing Bintoulu Fa 請賓頭盧法	Translated by Hui Jian	taisho/t1689_00.txt	Taishō	śastra	457	śastra
+taisho/t1689.csv	taisho/t1689.html	Ritual for Inviting Pindola (Qing Bintoulu Fa) 請賓頭盧法	Translated by Hui Jian	taisho/t1689_00.txt	Taishō	śastra	457	śastra
 taisho/t1690.csv	taisho/t1690.html	Bintoulu Tu Luo She Wei Youtuoyan Wang Shuofa Jing 賓頭盧突羅闍為優陀延王說法經	Translated by Guṇabhadra	taisho/t1690_00.txt	Taishō	śastra	435-443	śastra
 taisho/t1691.csv	taisho/t1691.html	Jiaye Xianren Shuo Yi Nuren Jing 迦葉仙人說醫女人經	Translated by Faxian	taisho/t1691_00.txt	Taishō	śastra	989-999	śastra
 taisho/t1692.csv	taisho/t1692.html	Sheng Jun Hua Shi Bai Yu Jia Ta Jing 勝軍化世百喻伽他經	Translated by Tian Xi Zai	taisho/t1692_00.txt	Taishō	śastra	985	śastra
