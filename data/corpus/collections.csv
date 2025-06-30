@@ -515,8 +515,8 @@ taisho/t0498.csv	taisho/t0498.html	Fo Shuo Chu Fenshuo Jing 佛說初分說經	T
 taisho/t0499.csv	taisho/t0499.html	Acela Sutra: Naked Kasyapa 佛為阿支羅迦葉自化作苦經	Translated by Unknown	taisho/t0499_00.txt	Taishō	Sūtra		jingji
 taisho/t0500.csv	taisho/t0500.html	Sūtra on Rāhula’s Forbearance (Luo Yun Renru Jing) 羅云忍辱經	Translated by Fa Ju	taisho/t0500_00.txt	Taishō	Sūtra	290-307	jingji
 taisho/t0501.csv	taisho/t0501.html	Fo Shuo Sha He Biqiu Gongde Jing 佛說沙曷比丘功德經	Translated by Fa Ju	taisho/t0501_00.txt	Taishō	Sūtra	290-307	jingji
-taisho/t0502.csv	taisho/t0502.html	Fo Wei Nianshao Biqiu Shuo Zhengshi Jing 佛為年少比丘說正事經	Translated by Fa Ju	taisho/t0502_00.txt	Taishō	Sūtra	290-307	jingji
-taisho/t0503.csv	taisho/t0503.html	Biqiu Bi Nu E Ming Yu Zisha Jing 比丘避女惡名欲自殺經	Translated by Fa Ju	taisho/t0503_00.txt	Taishō	Sūtra	290-307	jingji
+taisho/t0502.csv	taisho/t0502.html	Sūtra on the Buddha Speaking to Young Bhikṣus on Proper Practice (Fo Wei Nianshao Biqiu Shuo Zhengshi Jing) 佛為年少比丘說正事經	Translated by Fa Ju	taisho/t0502_00.txt	Taishō	Sūtra	290-307	jingji
+taisho/t0503.csv	taisho/t0503.html	A Monk Wants to Commit Suicide after being Accused of Relations with a Woman (Biqiu Bi Nu E Ming Yu Zisha Jing) 比丘避女惡名欲自殺經	Translated by Fa Ju	taisho/t0503_00.txt	Taishō	Sūtra	290-307	jingji
 taisho/t0504.csv	taisho/t0504.html	Biqiu Ting Shi Jing 比丘聽施經	Translated by Tan Wulan	taisho/t0504_00.txt	Taishō	Sūtra	265-313	jingji
 taisho/t0505.csv	taisho/t0505.html	Fo Shuo Sui Yong Zunzhe Jing 佛說隨勇尊者經	Translated by Dānapāla and others	taisho/t0505_00.txt	Taishō	Sūtra	1017	jingji
 taisho/t0506.csv	taisho/t0506.html	Jian Tuo Guowang Jing 犍陀國王經	Translated by An Shigao	taisho/t0506_00.txt	Taishō	Sūtra	148-170	jingji
@@ -808,7 +808,7 @@ taisho/t0787.csv	taisho/t0787.html	Manshushili Zhou Cang Zhong Xiaoliang Shu Zhu
 taisho/t0788.csv	taisho/t0788.html	Fo Shuo Xiaoliang Shu Zhu Gongde Jing 佛說校量數珠功德經	Translated by 寶思惟	taisho/t0788_00.txt	Taishō	Sūtra	705	jingji
 taisho/t0789.csv	taisho/t0789.html	Jingang Ding Yujia Nian Zhu Jing 金剛頂瑜伽念珠經	Translated by Amoghavajra	taisho/t0789_00.txt	Taishō	Sūtra	746-774	jingji
 taisho/t0790.csv	taisho/t0790.html	Commentary on the Fo Shuo Bei Sutra 佛說孛經抄	Translated by Zhi Qian	taisho/t0790_00.txt	Taishō	Sūtra	223-253	jingji
-taisho/t0791.csv	taisho/t0791.html	Fo Shuo Chujia Yuan Jing 佛說出家緣經	Translated by An Shigao	taisho/t0791_00.txt	Taishō	Sūtra	148-170	jingji
+taisho/t0791.csv	taisho/t0791.html	Sūtra on the Conditions for Becoming a Monastic (Fo Shuo Chujia Yuan Jing) 佛說出家緣經	Translated by An Shigao	taisho/t0791_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0792.csv	taisho/t0792.html	Sutra on Suffering from Defilements (Fo Shuo Fa Shou Chen Jing) 佛說法受塵經	Translated by An Shigao	taisho/t0792_00.txt	Taishō	Sūtra	148-170	jingji
 taisho/t0793.csv	taisho/t0793.html	Fo Shuo Fo Yi Jing 佛說佛醫經	Translated by 竺律炎共支越	taisho/t0793_00.txt	Taishō	Sūtra	230	jingji
 taisho/t0794a.csv	taisho/t0794a.html	Sūtra on Proper and Improper Times (Fo Shuo Shi Feishi Jing) 佛說時非時經	Translated by 若羅嚴	taisho/t0794a_00.txt	Taishō	Sūtra	265-317	jingji
@@ -1527,7 +1527,7 @@ taisho/t1462.csv	taisho/t1462.html	Samantapāsādikā (Shan Jian Lu Pi Po Sha) �
 taisho/t1463.csv	taisho/t1463.html	Pi Ni Mu Jing 毘尼母經	Translated by Unknown	taisho/t1463_00.txt	Taishō	Vinaya	350-431	vinaya
 taisho/t1464.csv	taisho/t1464.html	Bi Nai Ye 鼻奈耶	Translated by Fo Nian	taisho/t1464_00.txt	Taishō	Vinaya	378	vinaya
 taisho/t1465.csv	taisho/t1465.html	Śariputraparipṛcchā (Shelifu Wen Jing) 舍利弗問經	Translated by Unknown	taisho/t1465_00.txt	Taishō	Vinaya	317- 420	vinaya
-taisho/t1466.csv	taisho/t1466.html	Upālipariprcchā (Youboli Wen Fojing) 優波離問佛經	Translated by Guṇaśāla	taisho/t1466_00.txt	Taishō	Vinaya	431-?	vinaya
+taisho/t1466.csv	taisho/t1466.html	Sūtra on the Questions of Upāli (Youboli Wen Fojing) 優波離問佛經	Translated by Guṇaśāla	taisho/t1466_00.txt	Taishō	Vinaya	431-?	vinaya
 taisho/t1467a.csv	taisho/t1467a.html	Sūtra on the severity of Retribution for Violation of Precepts (Fo Shuo Fan Jie Zuibao Qing Zhong Jing) 佛說犯戒罪報輕重經	Translated by An Shigao	taisho/t1467a_00.txt	Taishō	Vinaya	148-170	vinaya
 taisho/t1467b.csv	taisho/t1467b.html	Sūtra on the severity of Retribution for Violation of Precepts (Fo Shuo Fan Jie Zuibao Qing Zhong Jing) 佛說犯戒罪報輕重經		taisho/t1467b_00.txt	Taishō	Vinaya		vinaya
 taisho/t1468.csv	taisho/t1468.html	Fo Shuo Mulian Suo Wen Jing 佛說目連所問經	Translated by Fa Tian	taisho/t1468_00.txt	Taishō	Vinaya	973-988	vinaya
@@ -1536,7 +1536,7 @@ taisho/t1470.csv	taisho/t1470.html	The Great Collection of Three Thousand Deport
 taisho/t1471.csv	taisho/t1471.html	Shami Shi Jie Fa Bing Weiyi 沙彌十戒法并威儀	Translated by Unknown	taisho/t1471_00.txt	Taishō	Vinaya	317-420	vinaya
 taisho/t1472.csv	taisho/t1472.html	Shami Weiyi 沙彌威儀	Translated by Guṇaśāla	taisho/t1472_00.txt	Taishō	Vinaya	431	vinaya
 taisho/t1473.csv	taisho/t1473.html	Fo Shuo Shami Shi Jie Yi Ze Jing 佛說沙彌十戒儀則經	Translated by Dānapāla	taisho/t1473_00.txt	Taishō	Vinaya	985	vinaya
-taisho/t1474.csv	taisho/t1474.html	Shamini Jie Jing 沙彌尼戒經	Translated by Unknown	taisho/t1474_00.txt	Taishō	Vinaya	25-220	vinaya
+taisho/t1474.csv	taisho/t1474.html	Śrāmaṇerikā Precepts (Shamini Jie Jing) 沙彌尼戒經	Translated by Unknown	taisho/t1474_00.txt	Taishō	Vinaya	25-220	vinaya
 taisho/t1475.csv	taisho/t1475.html	Shamini Li Jie Wen 沙彌尼離戒文	Translated by Unknown	taisho/t1475_00.txt	Taishō	Vinaya	317-420	vinaya
 taisho/t1476.csv	taisho/t1476.html	Fo Shuo Youposai Wu Jie Xiang Jing 佛說優婆塞五戒相經	Translated by Guṇaśāla	taisho/t1476_00.txt	Taishō	Vinaya	431	vinaya
 taisho/t1477.csv	taisho/t1477.html	Fo Shuo Jie Xiao Zai Jing 佛說戒消災經	Translated by Zhi Qian	taisho/t1477_00.txt	Taishō	Vinaya	223-253	vinaya
