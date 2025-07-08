@@ -66,7 +66,7 @@ Reader](https://hbreader.org/).
 ### Adding new vocabulary
 
 To get started adding new vocabulary navigate to the 
-[Add Entry Colab Sheet](https://github.com/alexamies/chinesenotes.com/blob/master/python/add_mod_entry.ipynb)
+[Add Entry Colab Sheet](https://colab.research.google.com/github/alexamies/chinesenotes.com/blob/master/python/add_mod_entry.ipynb)
 and click Open in Colab. Colab works best with Chrome.
 
 ### Installing
