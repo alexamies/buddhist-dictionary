@@ -1,4 +1,5 @@
 dataflow-service-account.json
+.DS_Store
 .vscode/
 *.code-workspace
 web/
