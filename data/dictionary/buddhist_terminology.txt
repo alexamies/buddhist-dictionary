@@ -44,7 +44,7 @@
 8000044	夺命	奪命	duómìng	Māra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 魔 (FGDB '魔')	8000044
 8000045	法缘	法緣	fǎyuán	conditions leading to dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmarambana (BCSD '法緣', p. 718; FGDB '法緣'; SH '法緣', p. 272)	8000045
 8000046	法缘	法緣	fǎyuán	affinity with the Buddhadharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '法緣'; FGDB '法緣'; SH '法緣', p. 272)	8000045
-8000047	梵	\N	fàn	Brahman	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spirit, which cannot be described in words (BCSD '梵', p. 656; Dasgupta 2009, pp. 44-45; FGDB '梵'; Heehs 2002, p. 58; MW 'brahman'; Unihan '梵')	8000047
+8000047	梵	\N	fàn	Brahma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: brahman, Japanese: fū; the one universal spirit, which cannot be described in words; 梵 is short for 梵摩 (BCSD '梵', p. 656; Dasgupta 2009, pp. 44-45; FGDB '梵'; Heehs 2002, p. 58; MW 'brahman'; Xiang 2023b, p. 43; Unihan '梵')	8000047
 8000048	众生	眾生	zhòngshēng	beings; all living things; all sentient beings	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sattva, Pali: satta, Japanese: ujō, or: shujō, Tibetan: sems can; (BL 'sattva', p. 787; FGDB '眾生'; MW 'sattva')	8000048
 8000049	圣	聖	shèng	noble; sacred; ārya	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	sheng4.mp3	Sanskrit equivalent: ārya, Pali: ariya; Japanese: shō; Tibetan: 'phags pa; in a Buddhist context translates Sanskrit ārya (BCSD '聖', p. 955; BL 'ārya', p. 64; Giles 1892 '聖')	8000049
 8000050	四有	\N	sì yǒu	four states of existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 生 birth, 住 dwelling, 異 changing, and 滅 extinction (FGDB '四有'; SH '四有爲相', p. 176)	8000050
@@ -7642,7 +7642,7 @@
 8007642	契	\N	qì	bond; yukta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yukta, Japanese: setsu, or: kei (BCSD '契', p. 338; MW 'yukta'; SH '契', p. 299; Unihan '契')	8007642
 8007643	丹藏	\N	dān zàng	Khitan Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 契丹藏 (FGDB '中文大藏經')	8007643
 8007644	辽本	遼本	liáo běn	Khitan Canon	proper noun	大藏經	Buddhist Canon	佛教	Buddhism	中国	China	\N	\N	See 契丹藏 (FGDB '中文大藏經')	8007644
-8007645	梵摩	\N	fànmó	Brahma	proper noun	神	Deity	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	The one self-existent Spirit (BCSD '梵摩', p. 657; MW 'brahma')	8007645
+8007645	梵摩	\N	fànmó	Brahma	proper noun	神	Deity	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: brahma; the one self-existent Spirit (BCSD '梵摩', p. 657; MW 'brahma')	8007645
 8007646	梵身	\N	fànshēn	brahmakāyika; brahmapariṣadya; the Heaven of the Followers of Brahma	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 梵眾天 (FGDB '梵眾天')	8007646
 8007647	梵众	梵眾	fànzhòng	brahmakāyika; brahmapariṣadya; the Heaven of the Followers of Brahma	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: brahmapārṣadya; see 梵眾天 (BCSD '梵眾', p. 657; FGDB '梵眾天')	8007647
 8007648	梵众天处	梵眾天處	fànzhòng tiānchù	brahmakāyika; brahmapariṣadya; the Heaven of the Followers of Brahma	proper noun	天	Heaven	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: brahmakāyika; see also 梵眾天 (BCSD '梵眾天處', p. 657; FGDB '梵眾天')	8007648
