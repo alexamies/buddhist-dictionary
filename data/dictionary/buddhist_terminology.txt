@@ -3587,7 +3587,7 @@
 8003587	毘梨耶波罗蜜	毘梨耶波羅蜜	pílíyē bōluómì	virya-paramita; the paramita of diligence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīryapāramitā (Tzu Chuang 2012, pp. 242-244)	8003587
 8003588	精进度无极	精進度無極	jīngjìn dù wú jí	virya-paramita; the paramita of diligence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīryapāramitā (Tzu Chuang 2012, pp. 242-244)	8003588
 8003589	不屈不挠	不屈不撓	bù qū bù náo	unyielding; indomitable	phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '不屈不撓'; CCI '不屈不挠', pp. 80-81; Guoyu '不屈不撓')	8003589
-8003590	禅定波罗蜜	禪定波羅蜜	chándìng bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā (Tzu Chuang 2012, pp. 242-244)	8003590
+8003590	禅定波罗蜜	禪定波羅蜜	chándìng bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā (FGDB '六波羅蜜'; Tzu Chuang 2012, pp. 242-244)	8003590
 8003591	禅波罗蜜	禪波羅蜜	chán bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā (Karashima 2001, p. 71; Tzu Chuang 2012, pp. 242-244)	8003591
 8003592	禅那波罗蜜	禪那波羅蜜	chánnà bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā (Tzu Chuang 2012, pp. 242-244)	8003592
 8003593	禅度无极	禪度無極	chán dù wú jí	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā (Tzu Chuang 2012, pp. 242-244)	8003593
@@ -17668,6 +17668,21 @@
 8017668	知净语	知淨語	zhī jìng yǔ	pure words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '知淨語')	8017668
 8017669	知净	知淨	zhī jìng	pure words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Short for 知淨語 (FGDB '知淨語')	8017669
 8017670	二受	\N	èr shòu	dual receptivity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Relating to both physical and mental karma (FGDB '二受'; SH '二受', p. 23)	8017670
-8017671	圣胎	聖胎	shèng tāi	sacred womb	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	That carries the bodhisattva (FGDB '聖胎'; SH '聖胎', p. 411)	8017671
+8017671	圣胎	聖胎	shèng tāi	sacred womb	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	That carried the Bodhisattva (FGDB '聖胎'; SH '聖胎', p. 411)	8017671
 8017672	七日药	七日藥	qī rì yào	seven day medicine	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '七日藥')	8017672
-8017673	二吉罗	二吉羅	èr jíluó	the two kinds of wrongdoing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二吉羅'; SH '二吉羅', p. 23)	8017673
+8017673	二吉罗	二吉羅	èr jíluó	the two kinds of wrongdoing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Speaking and actual doing (FGDB '二吉羅'; SH '二吉羅', p. 23)	8017673
+8017674	取相	\N	qǔxiāng	attachment to forms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '取相惑'; SH '取相', p. 251)	8017674
+8017675	无边明三昧	無邊明三昧	wú biān míng sānmèi	Limitless Light Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anantaprabha samādhi; mentioned in fascicle 3 of 摩訶般若波羅蜜經 The Perfection of Wisdom in 25,000 Lines (FGDB '百八三昧'; T 223, 8.0237c20)	8017675
+8017675	二和	\N	èr hé	dual harmony	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	United in doctrine and practice (FGDB '二和'; SH '二和', p. 23)	8017675
+8017676	无边光三昧	無邊光三昧	wú biān guāng sānmèi	Limitless Light Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無邊明三昧 (FGDB '百八三昧')	8017676
+8017677	定波罗蜜	定波羅蜜	dìng bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā; see 禪定波羅蜜, a form used in fascicle 12 of the 摩訶般若波羅蜜經 Perfection of Wisdom in 25,000 Lines (T 223, 8.0313a05)	8003590
+8017678	二善	\N	èr shàn	two wholesome things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 定善 good character arising from meditation and 散善 good character developed when one controls one's thoughts, words, and actions (FGDB '二善'; SH '二善', p. 23)	8017678
+8017679	定善	\N	dìng shàn	good character arising from meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二善'; SH '二善', p. 23)	8017679
+8017680	事理善	\N	shì lǐ shàn	goodness in practice and in theory	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二善', p. 23)	8017680
+8017681	实法	實法	shí fǎ	true dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A phenomenon with an inherent and substantial reality (FGDB '假實二法')	8015024
+8017682	假实二法	假實二法	jià shí èr fǎ	true and false dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '假實二法')	8017682
+8017683	二因	\N	èr yīn	two causes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several definitions; one is: 1. 生因 producing cause and 2. 了因 illuminating cause (FGDB '二因'; SH '二因', p. 23)	8017683
+8017684	生因	\N	shēng yīn	producing cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017684
+8017685	了因	\N	liǎo yīn	illuminating cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017685
+8017686	能生因	\N	néng shēng yīn	a cause that is able to produce perceptions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017686
+8017687	假法	\N	jià fǎ	false dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A phenomenon without inherent and substantial reality (FGDB '假實二法')	8017687
