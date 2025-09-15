@@ -8325,7 +8325,7 @@
 8008325	延	\N	yán	delay	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: en (SH '延', p. 257; Unihan '延')	8008324
 8008326	本相	\N	běnxiāng	original state of existence; having its own specific characteristics	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sva-lakṣaṇa, or: maula-lakṣaṇa, or: pūrva-nimitta (BCSD '本相', p. 644; FGDB '本相'; MW 'svalakṣaṇa')	8008326
 8008327	本相	\N	běnxiāng	an omen	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrva-nimitta (BCSD '本相', p. 644; MW 'pūrvanimitta')	8008326
-8008328	施设	施設	shīshè	to establish; to set up	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '施設'; SH '施設')	8008328
+8008328	施设	施設	shīshè	to establish; to set up	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '施設'; SH '施設', p. 303)	8008328
 8008329	见佛	見佛	jiànfó	to see the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '見佛'; FGDB '見佛'; SH '見佛')	8008329
 8008330	一句	\N	yījù	a single verse; a single word	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: eka-pada; for example, in the 妙法蓮華經 “Lotus Sutra” (BCSD '一句', p. 12; Ding '一句'; FGDB '一句'; Hurvitz 2009, p. 174; MW 'ekapada'; SH '一句', p. 4; T 262, Scroll 4, 9.0030b29)	8008330
 8008331	言说	言說	yán shuō	to teach through speaking	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 五種說法 'five ways of teaching the Dharma ' (Ding '言說'; FGDB '五種說法')	8008331
@@ -11297,7 +11297,7 @@
 8011297	部多	\N	bùduō	bhūta; become	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhūta (Ding '部多'; SH '部多', p. 365)	8011297
 8011298	犛牛	\N	líniú	yak; camara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: camara (BCSD '犛牛', p. 812; MW 'camara'; SH '犛', p. 439)	8011298
 8011299	过未	過未	guò wèi	past and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In the sense of 過去 and 未來 (Ding '過未')	8011299
-8011300	正士	\N	zhèng shì	correct scholar; bodhisattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '正士'; FGDB '正士'; SH '正士', p. 192)	8011300
+8011300	正士	\N	zhèng shì	bodhisattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative term introduced by Mokṣala used, for example, in fascicle 15 of the 放光般若經 Radiant Light Prajnaparamita Sutra (Ding '正士'; FGDB '正士'; SH '正士', p. 192; T 221, 8.0103b05)	8011300
 8011301	犊	犢	dú	calf; vatsa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vatsa, Japanese: toku (BCSD '犢', p. 812; MW 'vatsa'; SH '犢', p. 471; Unihan '犢')	8011301
 8011302	舌根	\N	shé gēn	organ of taste; tongue	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '舌根'; FGDB '舌根'; SH '舌根', p. 220)	8011302
 8011303	恶世	惡世	è shì	an evil age	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '惡世'; FGDB '惡世'; Karashima 2001 '惡世')	8011303
@@ -17673,16 +17673,52 @@
 8017673	二吉罗	二吉羅	èr jíluó	the two kinds of wrongdoing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Speaking and actual doing (FGDB '二吉羅'; SH '二吉羅', p. 23)	8017673
 8017674	取相	\N	qǔxiāng	attachment to forms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '取相惑'; SH '取相', p. 251)	8017674
 8017675	无边明三昧	無邊明三昧	wú biān míng sānmèi	Limitless Light Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anantaprabha samādhi; mentioned in fascicle 3 of 摩訶般若波羅蜜經 The Perfection of Wisdom in 25,000 Lines (FGDB '百八三昧'; T 223, 8.0237c20)	8017675
-8017675	二和	\N	èr hé	dual harmony	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	United in doctrine and practice (FGDB '二和'; SH '二和', p. 23)	8017675
-8017676	无边光三昧	無邊光三昧	wú biān guāng sānmèi	Limitless Light Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無邊明三昧 (FGDB '百八三昧')	8017676
-8017677	定波罗蜜	定波羅蜜	dìng bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā; see 禪定波羅蜜, a form used in fascicle 12 of the 摩訶般若波羅蜜經 Perfection of Wisdom in 25,000 Lines (T 223, 8.0313a05)	8003590
-8017678	二善	\N	èr shàn	two wholesome things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 定善 good character arising from meditation and 散善 good character developed when one controls one's thoughts, words, and actions (FGDB '二善'; SH '二善', p. 23)	8017678
-8017679	定善	\N	dìng shàn	good character arising from meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二善'; SH '二善', p. 23)	8017679
-8017680	事理善	\N	shì lǐ shàn	goodness in practice and in theory	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二善', p. 23)	8017680
-8017681	实法	實法	shí fǎ	true dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A phenomenon with an inherent and substantial reality (FGDB '假實二法')	8015024
-8017682	假实二法	假實二法	jià shí èr fǎ	true and false dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '假實二法')	8017682
-8017683	二因	\N	èr yīn	two causes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several definitions; one is: 1. 生因 producing cause and 2. 了因 illuminating cause (FGDB '二因'; SH '二因', p. 23)	8017683
-8017684	生因	\N	shēng yīn	producing cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017684
-8017685	了因	\N	liǎo yīn	illuminating cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017685
-8017686	能生因	\N	néng shēng yīn	a cause that is able to produce perceptions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017686
-8017687	假法	\N	jià fǎ	false dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A phenomenon without inherent and substantial reality (FGDB '假實二法')	8017687
+8017676	二和	\N	èr hé	dual harmony	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	United in doctrine and practice (FGDB '二和'; SH '二和', p. 23)	8017676
+8017677	无边光三昧	無邊光三昧	wú biān guāng sānmèi	Limitless Light Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無邊明三昧 (FGDB '百八三昧')	8017677
+8017678	定波罗蜜	定波羅蜜	dìng bōluómì	dhyana-paramita; the paramita of meditative concentration	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dhyānapāramitā; see 禪定波羅蜜, a form used in fascicle 12 of the 摩訶般若波羅蜜經 Perfection of Wisdom in 25,000 Lines (T 223, 8.0313a05)	8017678
+8017679	二善	\N	èr shàn	two wholesome things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 定善 good character arising from meditation and 散善 good character developed when one controls one's thoughts, words, and actions (FGDB '二善'; SH '二善', p. 23)	8017679
+8017680	定善	\N	dìng shàn	good character arising from meditation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二善'; SH '二善', p. 23)	8017680
+8017681	事理善	\N	shì lǐ shàn	goodness in practice and in theory	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二善', p. 23)	8017681
+8017682	实法	實法	shí fǎ	true dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A phenomenon with an inherent and substantial reality (FGDB '假實二法')	8015024
+8017683	假实二法	假實二法	jià shí èr fǎ	true and false dharmas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '假實二法')	8017683
+8017684	二因	\N	èr yīn	two causes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several definitions; one is: 1. 生因 producing cause and 2. 了因 illuminating cause (FGDB '二因'; SH '二因', p. 23)	8017684
+8017685	生因	\N	shēng yīn	producing cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017685
+8017686	了因	\N	liǎo yīn	illuminating cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017686
+8017687	能生因	\N	néng shēng yīn	a cause that is able to produce perceptions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二因 two causes (FGDB '二因'; SH '二因', p. 23)	8017687
+8017688	假法	\N	jià fǎ	false dharma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A phenomenon without inherent and substantial reality (FGDB '假實二法')	8017688
+8017689	方便因	\N	fāngbiàn yīn	adaptive cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二因'; SH '二因', p. 23)	8017689
+8017690	习因	習因	xí yīn	habit as cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二因'; SH '二因', p. 23)	8017690
+8017691	同类因	同類因	tóng lèi yīn	habit as cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 習因 (SH '二因', p. 23)	8017691
+8017692	报因	報因	bào yīn	rewarding cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二因'; SH '二因', p. 23)	8017692
+8017693	果熟因	\N	guǒ shú yīn	fruition as cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 報因 (SH '二因', p. 23)	8017693
+8017694	缘因	緣因	yuán yīn	contributory cause	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二因'; SH '二因', p. 23)	8017694
+8017695	义无碍解	義無礙解	yì wú ài jiě	unimpeded understanding of meaning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '四無礙解')	8017695
+8017696	义无碍智	義無礙智	yì wú ài zhì	unimpeded understanding of meaning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 義無礙解 (FGDB '四無礙解')	8017696
+8017697	开显圆	開顯圓	kāi xiǎn yuán	perfect revealed teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 今圓 (SH '二圓', p. 23)	8017697
+8017698	絶待圆	絶待圓	jué dài yuán	absolute perfect teaching	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 今圓 (SH '二圓', p. 23)	8017698
+8017699	相待圆	相待圓	xiāng dài yuán	perfect teaching on mutual dependence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 昔圓 (SH '二圓', p. 23)	8017699
+8017700	义无碍辩	義無礙辯	yì wú ài biàn	unimpeded explanation of meaning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 義無礙解 (FGDB '四無礙解')	8017700
+8017701	佛智	\N	fó zhì	Buddha wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛慧 (FGDB '佛慧')	8017701
+8017702	二土	\N	èr tǔ	two lands	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are multiple formulations, one is: 淨土 pureland and 穢土 impure land (FGDB '二土'; SH '二土', p. 23)	8017702
+8017703	报土	報土	bàotǔ	reward land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Where the Buddha resides (SH '二土', p. 23)	8017703
+8017704	化土	\N	huà tǔ	transformation land	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Where beings are transformed (SH '二土', p. 23)	8017704
+8017705	佛知见	佛知見	fó zhī jiàn	Buddha wisdom and vision	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛慧 (FGDB '佛慧')	8017705
+8017706	佛智慧	\N	fó zhì huì	Buddha wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛慧 (FGDB '佛慧')	8017706
+8017707	二增菩萨	二增菩薩	èr zēng púsà	two superior kinds of bodhisattvas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 智增菩薩 bodhisattva superior in wisdom and 悲增菩薩 bodhisattva superior in compassion for others (FGDB '智增悲增'; SH '二增菩薩', p. 24)	8017707
+8017708	智增菩萨	智增菩薩	zhì zēng púsà	bodhisattva superior in wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二增菩薩 two superior kinds of bodhisattvas (FGDB '智增悲增'; SH '二增菩薩', p. 24)	8017708
+8017709	悲增菩萨	悲增菩薩	bēi zēng púsà	bodhisattva superior in compassion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二增菩薩 two superior kinds of bodhisattvas (FGDB '增悲'; SH '二增菩薩', p. 24)	8017709
+8017710	悲增	\N	bēi zēng	superior in compassion	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 悲增菩薩 (FGDB '增悲'; SH '二增菩薩', p. 24)	8017710
+8017711	华盖	華蓋	huàgài	decorated canopy	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '華蓋'; SH '華蓋', p. 388)	8017711
+8017712	贤圣八品道	賢聖八品道	xiánshèng bā pǐn dào	Eightfold Noble Path	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternative form used by Mokṣala fascicle 1 of the Radiant Light Sutra 放光經; see 八正道 (T 221, 8.0002c07)	8017712
+8017713	同生天	\N	tóng shēng tiān	a deva born at the same time as somebody	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二天', p. 24)	8017713
+8017714	同名天	\N	tóng míng tiān	a deva with the same name as somebody	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二天', p. 24)	8017714
+8017715	阿閦佛国	阿閦佛國	āchù fó guó	Akṣobhya Buddha-Field	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '阿閦佛國經')	8017715
+8017716	无诳三昧	無誑三昧	wú kuáng sānmèi	Asaṃpramoṣa Samādhi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: asaṃpramoṣa samādhi (FGDB '百八三昧')	8017716
+8017717	二天三仙	\N	èr tiān sān xiān	the two devas and the three ṛṣis	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The two devas: 大自在天 Maheśvara and 毘紐天 Viṣṇu; the three ṛṣi: 迦毘羅 Kapila, 優樓僧佉 Ulūka, and 勒沙婆 Ṛṣabha (FGDB '二天三仙'; SH '二天三仙', p. 24)	8017717
+8017718	优楼僧佉	優樓僧佉	yōulóusēngqū	Ulūka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二天三仙')	8017718
+8017719	不忘三昧	\N	bù wàng sānmèi	Samādhi of not Forgetting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無誑三昧 (FGDB '百八三昧')	8017719
+8017720	无忘失三昧	無忘失三昧	wú wàngshī sānmèi	Samādhi of not Forgetting	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無誑三昧 (FGDB '百八三昧')	8017720
+8017721	功德天女	\N	gōngdé tiān nǚ	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 功德天 (FGDB '二女'; SH '二女', p. 24)	8017721
+8017722	功德女	\N	gōngdé nǚ	Laksmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 功德天 (FGDB '二女'; SH '二女', p. 24)	8017722
+8017723	黑闇女	\N	hēi àn nǚ	Dark Sister	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Causes people to spend and waste (FGDB '二女'; SH '二女', p. 24)	8017723
+8017724	苦缚	苦縛	kǔ fú	shackles of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '苦縛', p. 313)	8017724
