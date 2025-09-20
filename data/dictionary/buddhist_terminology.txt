@@ -7760,7 +7760,7 @@
 8007760	十八界	\N	shíbājiè	eighteen realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The 六根 six senses, 六境 the objects of the senses, and 六識 the mental constructions formed (FGDB '十八界')	8007760
 8007761	姝	\N	shū	beautiful; sarūpa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sarūpa, Japanese: su, or: shu (BCSD '姝', p. 361; MW 'sarūpa'; Unihan '姝')	8007761
 8007762	体	體	tǐ	ti; essence	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	(BL 'ti'; FGDB '體')	8007115
-8007763	离言真如	離言真如	líyán zhēnrú	to describe Suchness without words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '離言真如')	8007763
+8007763	离言真如	離言真如	líyán zhēnrú	inexpressible thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '離言真如'; SH '二如', p. 24)	8007763
 8007764	姥	\N	lǎo	old woman; vṛddha-yoṣit	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vṛddha-yoṣit, Japanese: bo, or: mo (BCSD '姥', p. 361; MW 'vṛddha-yoṣit'; Unihan '姥')	8007764
 8007765	绝言真如	絕言真如	juéyán zhēnrú	to describe Suchness without words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 離言真如 (FGDB '離言真如')	8007765
 8007766	五十二位	\N	wǔ shí èr wèi	fifty two stages of bodhisattva practice	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '五十二位')	8007766
@@ -16509,7 +16509,7 @@
 8016509	経录	経錄	jīnglù	catalog	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese variant (Kawaguchi 2000)	8016509
 8016510	一切种妙三昧	一切種妙三昧	yīqiè zhǒng miào sānmèi	samādhi which brings every kind of merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切種妙三昧', p. 3)	8016510
 8016511	摩那埵羯磨	\N	mónàduǒ jiémó	period of penance	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩那埵 (FGDB '摩那埵')	8016511
-8016512	三事	\N	sānshì	three things	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Different formulations; for example, 三公 'Three Ducal Ministers' 太師 'Grand Master', 太傅 'Grand Mentor', and 太保 Grand Protector  (Guoyu '三事')	8016512
+8016512	三事	\N	sān shì	three things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are different formulations, one is: 1. to generate the bodhi mind; 2. to protect and support the Righteous Dharma; and 3. to cultivate according to the teachings (FGDB '三事')	8016512
 8016513	一切种识	一切種識	yīqiè zhǒng shí	all consciousness; the eighth of the eight kinds of consciousness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '一切種識', p. 3)	8016513
 8016514	见闻疑	見聞疑	jiàn wén yí	[what is] seen, heard, and suspected	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '見聞疑'; FGDB '見聞疑'; Kieschnick and Wiles 2017, vol. 2, p. 47)	8016514
 8016515	净洁	淨潔	jìngjié	pure	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Kieschnick and Wiles 2017, vol. 2, p. 49)	8016515
@@ -17733,10 +17733,19 @@
 8017733	业镜轮	業鏡輪	yè jìng lún	revolving karma mirror	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 業鏡 (FGDB '業鏡')	8017733
 8017734	精进根	精進根	jīngjìn gēn	zeal	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vīryendriya, Tibetan: brtson 'grus kyi dbang po; see 精進 (Mahāvyutpatti 'vīryendriyam'; SH '二十二根', p. 22)	8017734
 8017735	耳根	\N	ěr gēn	faculty of hearing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrotrendriyam, Tibetan: rna ba'i dbang po (FGDB '耳根'; Mahāvyutpatti '耳根'; SH '二十二根', p. 22)	8017735
-8017736	苦根	\N	kǔgēn	suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dukhendriyam, Tibetan: sdug bsngal gyi dbang po (FGDB '根'; Mahāvyutpatti 'dukhendriyam'; SH '二十二根', p. 22)	8017736
+8017736	苦根	\N	kǔ gēn	suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dukhendriyam, Tibetan: sdug bsngal gyi dbang po (FGDB '根'; Mahāvyutpatti 'dukhendriyam'; SH '二十二根', p. 22)	8017736
 8017737	忧根	憂根	yōu gēn	capacity for grief	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daurmanasyendriya, Tibetan: yid mi bde ba'i dbang po (FGDB '根'; Mahāvyutpatti 'daurmanasyendriyam'; SH '二十二根', p. 22)	8017737
 8017738	喜根	\N	xǐ gēn	Saumanasya; Prīti; Joy	proper noun	菩萨	Bodhisattva	佛教	Buddhism	\N	\N	\N	\N	The name of a bodhisattva (BCSD '喜根'; Ding '喜根'; MW 'prīti')	8009772
-8017739	舍根	捨根	shěgēn	capacity for abandoning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣendriya, Tibetan: btang snyoms kyi dbang po (FGDB '根'; Mahāvyutpatti 'upekṣendriyam'; SH '二十二根', p. 22)	8017739
+8017739	舍根	捨根	shě gēn	capacity for abandoning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upekṣendriya, Tibetan: btang snyoms kyi dbang po (FGDB '根'; Mahāvyutpatti 'upekṣendriyam'; SH '二十二根', p. 22)	8017739
 8017740	念根	\N	niàngēn	capacity for remembering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: smṛtīndriya, Tibetan: dran pa'i dbang po (FGDB '根'; Mahāvyutpatti 'smṛtīndriyam'; Wikipedia '念根'; SH '二十二根', p. 22)	8017740
-8017741	未知当知根	未知當知根	wèizhīdāngzhīgēn	capacity for learning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anājñāta-ājñāsyāmīndriya, Tibetan: mi shes pa kun shes par byed pa'i dbang po (FGDB '根'; Mahāvyutpatti 'anājñātam ājñāsyāmīndriyam'; SH '二十二根', p. 22)	8017741
+8017741	未知当知根	未知當知根	wèi zhī dāng zhī gēn	capacity for learning	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anājñāta-ājñāsyāmīndriya, Tibetan: mi shes pa kun shes par byed pa'i dbang po (FGDB '根'; Mahāvyutpatti 'anājñātam ājñāsyāmīndriyam'; SH '二十二根', p. 22)	8017741
 8017742	具知根	\N	jù zhī gēn	the roots of perfect knowledge	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ājñātāvīndriya, Tibetan: kun shes pa dang ldan pa'i dbang po (FGDB '根'; Mahāvyutpatti 'ājñātāvīndriyam'; SH '二十二根', p. 22)	8017742
+8017743	二如	\N	èr rú	two kinds of thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several formulations; one is: a. 不變眞如 unchanging thusness and b. 隨緣真如 conditioned thusness (FGDB '二如'; SH '二如', p. 24)	8017743
+8017744	不变真如	不變真如	bù biàn zhēnrú	unchanging thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017744
+8017745	随缘真如	隨緣真如	suí yuán zhēnrú	conditioned thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017745
+8017746	依言真如	\N	yī yán zhēnrú	thusness described in words	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017746
+8017747	在缠真如	在纏真如	zài chán zhēnrú	thusness in bonds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017747
+8017748	出缠真如	出纏真如	chū chán zhēnrú	thusness freed from bonds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017748
+8017749	有垢真如	\N	yǒu gòu zhēnrú	defiled thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017749
+8017750	无垢真如	無垢真如	wú gòu zhēnrú	undefiled thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二如 two kinds of thusness (FGDB '二如'; SH '二如', p. 24)	8017750
+8017751	搩手	\N	jiéshǒu	handspan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vitasti; a measure of length - the span between the extended thumb and little finger (FGDB '搩手'; MW 'vitasti')	8017751
