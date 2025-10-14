@@ -1791,8 +1791,8 @@
 8001791	三十七分法	\N	sānshíqī fēn fǎ	thirty-seven qualities [related to enlightenment]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001791
 8001792	三十七品	\N	sānshíqī pǐn	thirty-seven qualities [related to enlightenment]	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001792
 8001793	三十七菩提分法	\N	sān shí qī pútí fēn fǎ	Bodhipakkhiyadhamma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 三十七道品 (SH '三十七道品', p. 61)	8001793
-8001794	阿毗达磨	阿毗達磨	Āpídámó	Abhidharma; Abhidhamma Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (Eitel 'Abhidharma' p. 1)	8001794
-8001795	阿毘昙	阿毘曇	Āpítán	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma, Japanese: Abidatsuma; Early Buddhist systemization of the content of the sutras. The version in the Chinese Buddhist canon is a translation of the version of the Sarvāstivāda school (BCSD '阿毘曇', p. 1204; BL 'Abhidharma', p. 4; Ding '阿毘曇'; Dutt 1970, pp. 152-170; Eitel 'Abhidharma' p. 1; FGDB '小乘論'; Williams 2009, pp. 15-18).	8001795
+8001794	阿毗达磨	阿毗達磨	āpídámó	Abhidharma; Abhidhamma Pitaka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (Eitel 'Abhidharma' p. 1)	8001794
+8001795	阿毘昙	阿毘曇	āpítán	Abhidharma; Abhidhamma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma, Japanese: Abidatsuma; Early Buddhist systemization of the content of the sutras. The version in the Chinese Buddhist canon is a translation of the version of the Sarvāstivāda school (BCSD '阿毘曇', p. 1204; BL 'Abhidharma', p. 4; Ding '阿毘曇'; Dutt 1970, pp. 152-170; Eitel 'Abhidharma' p. 1; FGDB '小乘論'; Williams 2009, pp. 15-18).	8001795
 8001796	安那般那	\N	ānnàbānnà	mindfulness of breathing; anapanasati	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿那波那 (FGDB '阿那波那')	8001796
 8001797	六处	六處	liù chù	the six sense organs; sadayatana	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六入 (FGDB '六入')	8001797
 8001798	正尽觉	正盡覺	zhèngjìnjué	sambodhi; saṃbodhi; enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 正覺 (FGDB '正覺')	8001798
@@ -17852,3 +17852,9 @@
 8017852	畔惮南	畔憚南	pàndànnán	vandana; showing reverence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vandana; see 和南 (FGDB '和南')	8017852
 8017853	末捺南	\N	mònànán	vandana; showing reverence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vandana; see 和南 (FGDB '和南')	8017853
 8017854	归礼	歸禮	guī lǐ	to show reverence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vandana; see 和南 (FGDB '和南')	8017854
+8017855	正根	\N	zhèng gēn	the ability of the sense organs to discern the truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 勝義根 (FGDB '勝義根'; SH '二根', p. 26)	8017855
+8017856	胜义根	勝義根	shèngyì gēn	the supior ability of the sense organs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '勝義根'; SH '二根', p. 26)	8017856
+8017857	扶根	\N	fú gēn	use of the sense organs as aids	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二根', p. 26)	8017857
+8017858	扶尘根	扶塵根	fú chén gēn	use of the sense organs as aids	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 扶根 (SH '二根', p. 26)	8017858
+8017859	节译	節譯	jié yì	abbreviated translation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Applied to transliterations, for example 阿耨多罗三藐 as an abbreviation for 阿耨多羅三藐三菩提 unsurpassed complete perfect enlightenment (Liang 1994, p. 3)	8017859
+8017860	阿毗昙	\N	āpítán	Abhidharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿毘曇 (Liang 1994, p. 6)	8017860
