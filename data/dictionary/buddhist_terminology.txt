@@ -5346,7 +5346,7 @@
 8005346	人王	\N	rénwáng	king; nṛpa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nṛpa (BCSD '人王', p. 92; MW 'nṛpa')	8005346
 8005347	寮舍	\N	liáoshè	a monastic residence	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '學寮')	8005347
 8005348	学寮	學寮	xuéliáo	monastic college; Buddhist seminary	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A term used in Japanese Buddhism (FGDB '學寮')	8005348
-8005349	顶礼膜拜	頂禮膜拜	dǐnglǐ mó bài	bowing in a kneeling position with head touching the ground	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	\N	8005349
+8005349	顶礼膜拜	頂禮膜拜	dǐng lǐ mó bài	bowing in a kneeling position with head touching the ground	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '頂禮膜拜'; Guoyu '頂禮膜拜')	8005349
 8005350	什物	\N	shénwù	miscellaneous items; upakaraṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upakaraṇa (BCSD '什物', p. 94; MW 'upakaraṇa')	8005350
 8005351	佛殿	\N	fó diàn	a Buddhist shrine; a Buddha hall	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 佛堂 (FGDB '佛堂')	8005351
 8005352	圣教	聖教	shèngjiāo	sacred teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '聖教'; FGDB '聖教'; SH '聖教', p. 410)	8005352
@@ -17868,3 +17868,9 @@
 8017868	二檀	\N	èr tán	two kinds of dāna	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. 世間檀 Worldly giving and 2. 出世間檀 spiritual giving (FGDB '二檀'; SH '二檀', p. 26)	8017868
 8017869	世间檀	世間檀	shìjiān tán	worldly giving	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二檀 two kinds of dāna (FGDB '二檀'; SH '二檀', p. 26)	8017869
 8017870	出世间檀	出世間檀	chū shìjiān tán	spiritual giving	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二檀 two kinds of dāna (FGDB '二檀'; SH '二檀', p. 26)	8017870
+8017871	白二羯磨	\N	bái èr jiémó	proclamation and two karma procedure	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An announcement of a decision of importance by a group of senior monastics (FGDB '白二羯磨'; SH '白二羯磨', p. 197)	8017871
+8017872	白一羯磨	\N	bái yī jiémó	proclamation and one karma procedure	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白二羯磨 (FGDB '白二羯磨')	8017872
+8017873	白二法	\N	bái èr fǎ	proclamation and two procedures	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 白二羯磨 (FGDB '白二羯磨')	8017873
+8017874	二求	\N	èr qiú	two kinds of seeking	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	得求 seeking for pleasure and 命求 seeking for long life (SH '二求', p. 26)	8017874
+8017875	得求	\N	dé qiú	seeking for pleasure	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二求 two kinds of seeking (SH '二求', p. 26)	8017875
+8017876	命求	\N	mìng qiú	seeking for long life	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二求 two kinds of seeking (SH '二求', p. 26)	8017876
