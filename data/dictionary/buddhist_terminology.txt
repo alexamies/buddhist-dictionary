@@ -54,7 +54,7 @@
 8000054	飞行	飛行	fēixíng	travel through the air with supernatural powers; to fly	verb	\N	\N	佛教	Buddhism	\N	\N	\N	fei1xing2.mp3	(FGDB '飛行'; SH '飛行', p. 318)	8000054
 8000055	僧	\N	sēng	Sangha; monastic community	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃgha, Pali: saṅgha, Japanese: sōgya, Tibetan: dge 'dun; an abbreviation of 僧伽 (BCSD '僧', p. 148; BL 'saṃgha', pp. 750-751; Ding '僧'; Karashima 2001 '僧'; SH '僧', p. 85; Tzu Chuang 2012, p. 294)	8000055
 8000056	僧侣	僧侶	sēnglǚ	Saṅgha; Sangha; Buddhist monastic community	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 僧伽 (FGDB '僧伽')	8000056
-8000057	五阴	五陰	wǔyīn	five aggregates; five skandhas; five groups of existence; five groups of clinging	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaskandha, Pali: pañca khandhā, Japanese: goun, Tibetan: phung po lnga; the five skandhas are form 色, sensation 受, perception 想, volition 行, and consciousness 识.(BL 'pañcaskandha', p. 617; DJBT 'goun'; FGDB '五蘊'; Nyanatiloka Thera 1980, 'khandha')	8000057
+8000057	五阴	五陰	wǔ yīn	five aggregates; five skandhas; five groups of existence; five groups of clinging	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaskandha, Pali: pañca khandhā, Japanese: goun, Tibetan: phung po lnga; see 五蘊 (BL 'pañcaskandha', p. 617; DJBT 'goun'; FGDB '五蘊'; Nyanatiloka Thera 1980, 'khandha')	8000057
 8000058	塔	\N	tǎ	a pagoda; a stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ta3.mp3	Sanskrit equivalent: stūpa, or: caitya, Pali: thūpa, Japanese: tō, Tibetan: mchod rten; the most appropriate English term can be used depending on the shape of the tower or stupa.  Pagodas are taller and thinner and are common in China.  Stupas shorter and bowl shaped and are more common in South Asia and Southeast Asia (BCSD '塔', p. 301; BL 'stūpa', pp. 859-860; Ding '塔'; FGDB '塔'; SH '寶塔', p. 477).	8000058
 8000059	功德聚	\N	gōngdé jù	stupa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 塔 (FGDB '塔')	8000059
 8000060	法会	法會	fǎhuì	a Dharma service; an assembly; dharma-saṃgīti	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharma-saṃgīti (FGDB '法會'; BCSD '法會')	8000060
@@ -3595,7 +3595,7 @@
 8003595	巖	\N	yán	cliff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prapāta, or: śaila (BCSD '巖', p. 409; MW 'prapāta'; SH '巖', p. 487)	8003595
 8003596	寺	\N	sì	Buddhist temple; vihāra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, or: saṅghārāma, Pali: vihāra, Tibetan: gtsug lag khang, Japanese: ji, or: tera (BCSD '寺', p. 391; Davidson 2004, p. 140; DJBT '寺', p. 434; FGDB '寺院'; Mahāvyutpatti 'vihāraḥ'; MW 'vihāra' 1, p. 429; SH '寺', p. 212)	8003596
 8003597	慧波罗蜜	慧波羅蜜	huì bōluómì	prajna-paramita; perfection of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī (Tzu Chuang 2012, pp. 242-244)	8003597
-8003598	明度无极	明度無極	míng dù wú jí	prajna-paramita; perfection of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī (Tzu Chuang 2012, pp. 242-244)	8003598
+8003598	明度无极	明度無極	míng dù wú jí	prajna-paramita; perfection of wisdom	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā, Pali: paññāpāramī; see 般若波羅蜜 (Tzu Chuang 2012, pp. 242-244)	8003598
 8003599	密教部	\N	mìjiào bù	Esoteric Section	proper noun	\N	\N	佛教	Buddhism	大乘佛教	Mahāyāna Buddhism	\N	\N	The Esoteric Section of the Taishō shinshū daizōkyō volumes 18-21 (BL 'Taishō shinshū daizōkyō', pp. 888-889; Giebel 2011, p. 27)	8003599
 8003600	大日经类	大日經類	dàrì jīng lèi	Mahāvairocana sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Dainichikyōrui; a group of texts in the esoteric section of the Taisho including numbers 848–864 (Giebel 2011, p. 28)	8003600
 8003601	金刚顶经类	金剛頂經類	jīngāng dǐng jīng lèi	Vajraśekhara sūtra and related texts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: Kongōchōkyōrui; a group of texts in the esoteric section of the Taisho including numbers 865–892 (Giebel 2011, p. 28)	8003601
@@ -17883,3 +17883,15 @@
 8017883	寂灭为乐	寂滅為樂	jì miè wèi lè	tranquility is bliss	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '寂滅為樂')	8017883
 8017884	二法身	\N	èr fǎshēn	two types of dharmakāya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二法身', p. 26)	8017884
 8017885	诸法皆空	諸法皆空	zhū fǎ jiē kōng	all phenomena are empty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '諸法皆空')	8017885
+8017886	智度无极	智度無極	zhì dù wú jí	perfection of wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prajñāpāramitā; see 般若波羅蜜 (Lancaster 1969, p. 248)	8017886
+8017887	二河白道	\N	èr hé bái dào	the two rivers and the white path	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the path between the rivers of desire and hatred (FGDB '二河白道'; SH '二河白道', p. 26)	8017887
+8017888	能儒	\N	néngrú	Sakyamuni; Śākyamuni	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śākyamuni; see 釋迦牟尼 (Lancaster 1969, p. 248)	8017888
+8017889	昇于大乘	昇於大乘	shēng yú dàshèng	set out on the Great Vehicle; mahāyāna-sampraṣṭhita	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāyānasampraṣṭhita (Lancaster 1969, p. 248)	8017889
+8017890	二流	\N	èr liú	the two currents	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to transmigration (FGDB '二流'; SH '二流', p. 26)	8017890
+8017891	五种	五種	wǔ zhǒng	the five skandhas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pañcaskandha; an archaic form used by An Shigao, for example, in the Sūtra on the Grounds of the Way 道地經; see 五蘊 (Boucher 1996, p. 184; T 607, 15.0231b29)	8017891
+8017892	痛	\N	tòng	sensations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vēdanā; one of the 五蘊 five skandas, an archaic form used by Dharmarakṣa, see 受 (Boucher 1996, p. 184)	8011755
+8017893	二种涅槃	二種涅槃	èr zhǒng nièpán	two kinds of Nirvāṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	With and without remainder (FGDB '二種涅槃'; SH '二種涅槃', p. 28)	8017893
+8017894	二涅槃	\N	èr nièpán	two kinds of Nirvāṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二種涅槃 (SH '二涅槃', p. 26)	8017893
+8017895	痛痒	痛癢	tòngyǎng	sensations	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vēdanā; one of the 五蘊 five skandas, an archaic form used by An Shigao, see 受 (Boucher 1996, p. 184)	8017895
+8017896	思想	\N	sīxiǎng	perception	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃjñā; one of the 五蘊 five skandas, an archaic form used by An Shigao, see 想 (Boucher 1996, p. 184)	8017896
+8017897	二漏	\N	èr lòu	two conditions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely, 有漏 with outflows and 無漏 without outflows (FGDB '二漏'; SH '二漏', p. 26)	8017897
