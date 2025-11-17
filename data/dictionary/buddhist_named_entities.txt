@@ -827,11 +827,11 @@
 7000827	康僧铠	康僧鎧	kāng sēng Kǎi	Saṅghavarman; Sajghavarman; Saņghavarman	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	An Indian monk from the Kushan kingdom who travelled to China and lived at the White Horse Temple in Luoyang.  He translated the Infinite Life Sutra c. 252 CE. (FGDB '康僧鎧')	7000827
 7000828	摄摩腾	攝摩騰	shèmóténg	Kasyapamatanga	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	One of the first Indian monks to travell to China, sometime in the Eastern Han (Wikipedia '迦叶摩腾')	7000828
 7000829	支楼迦谶	支樓迦讖	zhīlóujiāchèn	Lokaksema	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: lokakṣema, c. 147 CE, monk from Gandhara, travelled to China and translated sutras (Wikipedia '支娄迦谶')	7000829
-7000830	维祇难	維祇難	wéi qínán	Wei Qinian	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that travelled to China circa 224, translated the Dharmapada 《法句經》to Chinese (FGDB '維祇難'; Nattier 2008, p. 113; KDC 'K 1021'; T 210)	7000830
+7000830	维祇难	維祇難	wéi qínán	Vighna; Wei Qinian	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that travelled to China circa 224, translated the Dharmapada 《法句經》to Chinese (FGDB '維祇難'; Nattier 2008, p. 113; KDC 'K 1021'; T 210)	7000830
 7000831	帛远	帛遠	bó yuǎn	Bo Yuan	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that stayed in China during the Wei and Jin dynasties (BSAD '帛遠', ID A000305; FGDB '帛遠'; Wikipedia '帛遠')	7000831
 7000832	帛尸梨密	\N	bóshīlímì	 Śrīmitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 帛尸棃密多羅 (FGDB '帛尸棃密多羅')	7000832
 7000833	帛尸梨密多罗	帛尸棃密多羅	bóshīlímìduōluó	 Śrīmitra	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Buddhist monastic who translated texts in the Tang included in the Chinese Buddhist canon (FGDB '帛尸棃密多羅'; Sharf 2005, p. 272； KDC 174; T 1331)	7000833
-7000834	僧伽跋澄	\N	sēngjiābáchéng	  Sajghabhūti	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that stayed in China during the Eastern Jin dynasty 317-420, translated Sengjia Luocha Suo Ji Jing 《僧伽羅剎所集經》 (FGDB '僧伽跋澄'; T 194; KDC 'K 985').	7000834
+7000834	僧伽跋澄	\N	sēngjiābáchéng	  Saṃghabhūti	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Indian monk that stayed in China during the Eastern Jin dynasty 317-420, translated Sengjia Luocha Suo Ji Jing 僧伽羅剎所集經 (BSAD '僧伽跋澄'; FGDB '僧伽跋澄'; T 194; KDC 'K 985').	7000834
 7000835	支昙籥	支曇籥	zhī tányuè	 Zhi Tanyue	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	A Tokharian monk who lived in Nanjing during the Jin dynasty, mentioned in Biographies of Eminent Monks, Scroll 13 (FGDB '支曇籥'; Haar 2023, p. 188)	7000835
 7000836	恒景	\N	héng jǐng	Master Heng Jing	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	634-712; Tang dynasty monk (DDB '恒景')	7000836
 7000837	良价	\N	liángjià	Dongshan Liangjia	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	807-869 Chan Master, founder of the Caodong School (DDB '良价')	7000837
@@ -8671,3 +8671,21 @@
 7008671	可洪音义	可洪音義	kěhóng yīnyì	Kehong’s Glossary	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Compiled by Kehong in the Later Jin dynasty (FGDB '可洪音義')	7008671
 7008672	佛调	佛調	fótiáo	 Yan Fotiao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 嚴佛調 (Ding '嚴佛調'; FGDB '嚴佛調')	7008672
 7008673	阿育	\N	āyù	King Aśoka; Asoka; Ashoka	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: aśoka, Pali: asoka; see 阿育王 (FGDB '阿育王')	7008673
+7008674	维秖难	維秖難	wéi qínán	Vighna; Wei Qinian	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 維祇難 (FGDB '維祇難')	7008674
+7008675	沮渠安阳侯	沮渠安陽侯	jǔqú ānyáng hóu	Juqu, the Marquis of Angyang	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沮渠京聲 (BSAD '沮渠京聲')	7008675
+7008676	鸠摩炎	鳩摩炎	jiūmóyán	Kumārayāna	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Kumārajīva’s father (BSAD '鳩摩炎')	7008676
+7008677	雀梨大寺	\N	quèlí dà sì	Great Temple of Queli	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Historic temple in Kucha mentioned in Kumārajīva’s biography (BSPAD '雀梨大寺'; T 2145, 55.0100a24)	7008677
+7008678	达摩瞿沙	達摩瞿沙	dámójùshā	Dharmaghoṣa	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Person mentioned in Kumārajīva’s biography (BSAD '達摩瞿沙'; T 2145, 55.0100a24)	7008678
+7008679	槃头达多	槃頭達多	pántóudáduō	Bandhudatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Kashmiri monk mentioned in Kumārajīva’s biography (BSAD '槃頭達多'; T 2145, 55.0100a24)	7008679
+7008680	沤波掬多	漚波掬多	ōubōjúduō	Upagupta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Person mentioned in Kumārajīva’s biography (BSAD '漚波掬多'; T 2145, 55.0100a24)	7008680
+7008681	沙勒国	沙勒國	shālè guó	Kingdom of Shule; Kashgar	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 疏勒 (BSPAD '疏勒國')	7008681
+7008682	沙勒	\N	shālè	Shule; Kashgar	proper noun	王国	Kingdom	佛教	Buddhism	中国	China	\N	\N	See 疏勒 (BSPAD '疏勒國')	7008682
+7008683	伽沙	\N	jiāshā	Shule; Kashgar	proper noun	王国	Kingdom	佛教	Buddhism	中国	China	\N	\N	See 疏勒 (BSPAD '疏勒國')	7008683
+7008684	佉沙	\N	qūshā	Shule; Kashgar	proper noun	王国	Kingdom	佛教	Buddhism	中国	China	\N	\N	See 疏勒 (BSPAD '疏勒國')	7008684
+7008685	奇沙	\N	qíshā	Shule; Kashgar	proper noun	王国	Kingdom	佛教	Buddhism	中国	China	\N	\N	See 疏勒 (BSPAD '疏勒國')	7008685
+7008686	可失哈耳	\N	kěshīhāěr	Shule; Kashgar	proper noun	王国	Kingdom	佛教	Buddhism	中国	China	\N	\N	See 疏勒 (BSPAD '疏勒國')	7008686
+7008687	须利耶苏摩	須利耶蘇摩	xūlìyésūmó	Śūryasoma	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	A monk from the Western Regions at the time of Kumārajīva (FGDB '須利耶蘇摩')	7008687
+7008688	僧䂮	\N	sēng lüè	Seng Lue	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Monk from Chang'an who assisted Kumārajīva in translation work (BSAD '僧䂮'; FGDB '僧䂮')	7008688
+7008689	僧略	\N	sēng lüè	Seng Lue	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 僧䂮 (BSAD '僧䂮')	7008689
+7008690	僧邈	\N	sēng miǎo	Seng Miao	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Monk who assisted Kumārajīva in translation work in Chang'an (BSAD '僧邈')	7008690
+7008691	昙无发	曇無發	tánwúfā	Tanwufa	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Northern Wei monastic (BSAD '曇無發')	7008691
