@@ -16,3 +16,6 @@ gsutil -m -h "Cache-Control:public,max-age=3600" \
 gsutil -m -h "Cache-Control:public,max-age=3600" \
   cp -a public-read -r $WEB_DIR/dist/cnotes-compiled.js \
   gs://${CBUCKET}/cached/cnotes-compiled.js
+gsutil -m -h "Cache-Control:public,max-age=3600" \
+  cp -a public-read -r web-resources/robots.txt \
+  gs://${BUCKET}/robots.txt
