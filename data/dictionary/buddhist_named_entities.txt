@@ -1285,7 +1285,7 @@
 7001285	竺仙梵仙	竺仙梵僊	zhú xiān fàn xiān	Jikusen Bonsen	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	1292-1348; Japanese monk (Wikipedia '竺仙梵仙')	7001285
 7001286	达磨般若	達磨般若	dámóbōrě	Gautama Dharmaprajña	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 瞿昙法智 (BSAD '瞿昙法智', ID A001879)	7001286
 7001287	分别善恶报应经	分別善惡報應經	fēnbié shàn è bào yīng jīng	Fenbie Shan E Bao Ying Jing; Śukasūtra	proper noun	经	Sutra	佛教	Buddhism	Theravāda	上座部佛教	\N	\N	Sanskrit equivalent: Śukasūtra; a sūtra in the āgama section of the Chinese Buddhist Canon (T 81; KDC 'K 1098')	7001287
-7001288	沮渠京声	沮渠京聲	jǔqú jīngshēng	Juqu Jingsheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	-464; Xiongnu Buddhist and translator who travelled to China in the Northern Liang (FGDB '沮渠京聲')	7001288
+7001288	沮渠京声	沮渠京聲	jǔqú jīngshēng	Juqu Jingsheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	-464; Xiongnu Buddhist and translator who travelled to China in the Northern Liang (FGDB '沮渠京聲'; BSAD '沮渠京聲')	7001288
 7001289	莲花戒	蓮花戒	liánhuā jiè	Kamalasila	proper noun	师父	Monastic	佛教	Buddhism	西藏	Tibet	\N	\N	Sanskrit equivalent: kamalaśīla, Tibetan: Ka ma la shī la, fl. 713-763; see 蓮華戒 (Wikipedia '蓮花戒')	7001289
 7001290	罗喉罗跋多罗	羅睺羅跋多羅	luóhóuluóbáduōluó	Rahulabhadra	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: rāhulabhadra; see 羅睺羅跋陀羅 (FGDG '中觀派')	7001290
 7001291	迦留陀伽	\N	jiāliútuójiā	 Kalodaka; Kālodaka	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Monastic from the Western Regions who travelled to China in the Eastern Jin; translated Shi Er You Jing 《佛說十二遊經》 (FGDB '迦留陀伽'; T 195; KDC 'K 1009')	7001291
@@ -8689,3 +8689,12 @@
 7008689	僧略	\N	sēng lüè	Seng Lue	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 僧䂮 (BSAD '僧䂮')	7008689
 7008690	僧邈	\N	sēng miǎo	Seng Miao	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Monk who assisted Kumārajīva in translation work in Chang'an (BSAD '僧邈')	7008690
 7008691	昙无发	曇無發	tánwúfā	Tanwufa	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Northern Wei monastic (BSAD '曇無發')	7008691
+7008692	佛贤	佛賢	fóxián	Buddhabhadra	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 佛馱跋陀羅 (FGDB '佛馱跋陀羅')	7008692
+7008693	僧伽达多	僧伽達多	sēngjiādáduō	Saṃghadatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	An associate of Buddhabhadra (BSAD '僧伽達多'; FGDB '佛馱跋陀羅')	7008693
+7008694	阇婆国	闍婆國	shépó guó	Java	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Historic name for the Indonesian island of Java (FGDB '求那跋摩')	7008694
+7008695	阇婆	闍婆	shépó	Java	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 闍婆國 (FGDB '求那跋摩')	7008694
+7008696	王珣	\N	wáng xún	Wang Xun	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	349-400 CE; Chinese monk (BSAD '王珣')	7008696
+7008697	沮渠安阳侯	沮渠安陽侯	jǔqú ānyáng hóu	Juqu Marquis of Anyang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 沮渠京聲 (BSAD '沮渠京聲')	7008697
+7008698	瞿摩帝大寺	\N	jùmódì dà sì	Great Monastery of Gumati	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	See 瞿摩帝 (BSPAD '瞿摩帝大寺')	7008698
+7008699	衢摩帝大寺	\N	qúmódì dà sì	Great Monastery of Gumati	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	See 瞿摩帝 (BSPAD '瞿摩帝大寺')	7008699
+7008700	佛陀斯那	\N	fótuósīnà	Buddhasena	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	(BSAD '佛陀斯那')	7008700
