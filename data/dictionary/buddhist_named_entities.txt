@@ -6115,7 +6115,7 @@
 7006115	云居	雲居	yúnjū	Yunju	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	D. 902 Tang dynasty monastic from 幽州 Youzhou in present-day Hebei (Ding '雲居'; FGDB '雲居')	7006115
 7006116	云居	雲居	yúnjū	Yunju	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	929-997 Early Song dynasty monastic from 洪州 Hongzhou in present-day Jiangxi (Ding '雲居'; FGDB '雲居')	7006116
 7006117	梦参	夢參	mèng cān	Meng Can	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	1915-, a Chinese chán monastic (FGDB '夢參')	7006117
-7006118	西明	\N	xīmíng	Ximing; Daoxuan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 道宣 (Ding '西明'; FGDB '西明')	7006118
+7006118	西明	\N	xīmíng	Ximing; Daoxuan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 道宣 (Ding '西明'; SH '西明', p. 223)	7006118
 7006119	大日经	大日經	dàrì jīng	Vairocana Sutra; Vairocanāsaṃbodhi sūtra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mahāvairocanābhisaṃbodhisūtra, Japanese: Daibirushana jōbutsu jinben kajikyō, Tibetan: rnam par snang mdzad chen po mngon par rdzogs par byang chub pa rnam par sprul ba byin gyis rlob pa shin tu rgyas pa mdo; translated in the Tang by Śubhakarasiṃha (BL 'Mahāvairocanābhisaṃbodhisūtra', pp. 511-512; Ding '大日經'; FGDB '大日經'; SH '大日經', p. 90; T 848)	7006119
 7006120	神变经	神變經	shén biàn jīng	Vairocana Sutra	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 大日經 (Ding '神變經')	7006120
 7006121	大悲经	大悲經	dàbēi jīng	Mahā-karuṇā-puṇḍarīka	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Title of a text in the Chinese Buddhist Canon, translated by Narendrayaśas (Ding '大悲經'; FGDB '大悲經'; SH '大悲經'; T 380)	7006121
@@ -8717,3 +8717,12 @@
 7008717	阿群	\N	āqún	Aṅgulimāla	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 央掘摩羅 (BSAD '央掘摩羅')	7008717
 7008718	辩意经	辯意經	biànyì jīng	Prātibhāna Sūtra	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An alternate title used in Scroll 15 of the Chu San Zang Ji Ji; see 辯意長者子經 (T 544; T 2154, 55.0108a01)	7008718
 7008719	罽昵吒王	\N	jìnìzhà wáng	Kanishka I; Kanishka the Great	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaniṣka; Scroll Five of the History of the Transmission of the Dharma Treasury 付法藏因緣傳, see 迦膩色迦王 (T 2058, 50.0313b09))	7008719
+7008720	西明	\N	xīmíng	Ximing; Woncheuk	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 圓測 (SH '西明', p. 223)	7006118
+7008721	释慧恭	釋慧恭	shì huìgōng	Shi Huigong	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 慧恭 (BSAD '慧恭')	7008721
+7008722	慧恭	釋慧	huìgōng	Huigong	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Name of a Southern Liang dynasty monk (BSAD '慧恭')	7008722
+7008723	僧迁	僧遷	sēngqiān	Sengqian	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	An Eastern Jin - Later Qin dynasty monk (BSAD '僧遷')	7008723
+7008724	宝度	寶度	bǎodù	Baodu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	A Tang dynasty monk (BSAD '寶度')	7008724
+7008725	慧精	\N	huìjīng	Huijing	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	An Eastern Jin dynasty monk (BSAD '慧精')	7008725
+7008726	法钦	法欽	fǎqīn	Faqin	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	A Later Qin dynasty monk (BSAD '法欽')	7008726
+7008727	道流	\N	dào liú	Daoliu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	A Later Qin dynasty monk (BSAD '道流')	7008727
+7008728	道恢	\N	dàohuī	Daohui	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	A Southern Qi dynasty monk (BSAD '道流')	7008728
