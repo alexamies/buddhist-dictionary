@@ -1199,7 +1199,7 @@
 8001199	制多太子	\N	zhìduō tàizǐ	Prince Jeta	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 祇陀太子 (FGDB '祇陀太子')	8001199
 8001200	祇陀太子	\N	zhǐtuó tàizǐ	Prince Jeta	proper noun	太子	Prince	佛教	Buddhism	古印度	Ancient India	\N	\N	Sanskrit equivalent: jetakumāra; the prince who sold Jetavana Park to Anathapindika, a disciple of the Buddha (BL 'Jetavana'; FGDB '祇陀太子')	8001200
 8001201	精室	\N	jīngshì	vihara	noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	See 精舍 (SH '精室', p. 427)	8001201
-8001202	精舍	\N	jīngshè	monastery; monastic lodging; vihara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, Pali: vihāra, Japanese: jū, or: shōja, Tibetan: gtsug lag khang; a dwelling or refuge used by monastics in the rainy season (BL 'vihāra'; FGDB '精舍'; Kieschnick and Wiles 2017, vol. 2, p. 37; Kroll 2015 '精' 7, pp. 216-217; SH '精室', p. 427)	8001202
+8001202	精舍	\N	jīngshè	vihara; monastery; monastic lodging	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vihāra, Pali: vihāra, Japanese: jū, or: shōja, Tibetan: gtsug lag khang; a dwelling or refuge used by monastics in the rainy season (BL 'vihāra'; FGDB '精舍'; Kieschnick and Wiles 2017, vol. 2, p. 37; Kroll 2015 '精' 7, pp. 216-217; SH '精室', p. 427)	8001202
 8001203	鸯窭利摩罗	鴦窶利摩羅	yānglóulìmóluó	Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimāla, or: aṅgulimālīya, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; see also 指鬘 (BL 'Aṅgulimāla', pp. 45-46; FGDB '鴦窶利摩羅'; SH '央掘摩羅', p. 184)	8001203
 8001204	指鬘	\N	zhǐmán	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; a disciple of the Buddha, a murderer who was redeemed by conversion to Buddhism. His story is told in the Aṅgulimālasutta in the Pāli Canon and in 佛說鴦掘摩經Aṅgulimālīyasūtra in the Chinese Canon, in addition to other places (FGDB '指鬘'; BL 'Aṅgulimāla'; Majjhima Nikāya 86; T 118)	8001204
 8001205	指髻	\N	zhǐjì	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 指鬘 (FGDB '指鬘')	8001205
@@ -6909,7 +6909,7 @@
 8006909	三摩咀吒国	三摩咀吒國	sānmójǔzhà guó	Samatata	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samataṭa; see 三摩呾吒國 (FGDB '伊賞那補羅國')	8006909
 8006910	三摩咀吒	三摩咀吒	sānmójǔzhà	Samatata	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samataṭa; see 三摩呾吒國 (FGDB '伊賞那補羅國')	8006910
 8006911	恼害	惱害	nǎohài	malicious feeling	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āghāta, or: viheṭhakaḥ, Tibetan: 'tshe ba'am co 'dri ba (Edgerton 1953, p. 89; Dhammajoti 2013, p. 7; Mahāvyutpatti 'viheṭhakaḥ'; MW 'āghāta')	8006911
-8006912	天王	\N	tiānwáng	a deva king; a lokapala; a heavenly king; a guardian of the directions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devarājan, an epithet for Śakra (BL 'devarājan')	8006912
+8006912	天王	\N	tiānwáng	a deva king; a lokapala; a heavenly king; a guardian of the directions	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: devarāja, an epithet for Śakra (BCSD '天王', p. 334; BL 'devarājan')	8006912
 8006913	句	\N	jù	verse; pada; gāthā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	ju4.mp3	Sanskrit equivalent: pada, or: gāthā, Japanese: ku, or: kou, Tibetan: tshigs su bcad pa (BCSD '句', p. 233; FGDB '句'; Mahāvyutpatti 'gāthā'; MW 'pada'; SH '句', p. 169; Unihan '句')	8006913
 8006914	福德资粮	福德資糧	fúdé zīliáng	puṇyasaṃbhāra; merit accumulated	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: puṇyasaṃbhāra, Japanese: fukotoku; merit accumulated by cultivation along the bodhisattva path (BL puṇyasaṃbhāra; FGDB '福德資糧')	8006914
 8006915	资粮	資糧	zīliáng	saṃbhāra; something accumulated	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃbhāra, Pali: saṃbhāra, Japanese: shiryō (BL 'saṃbhāra'; FGDB '資糧'; BCSD '資糧')	8006915
@@ -8335,7 +8335,7 @@
 8008335	随宜	隨宜	suíyí	acting according to people's needs; acting in accordance with the circumstances	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '隨宜'; FGDB '隨宜'; SH '隨宜', p. 452; Sharf 2005, p. 280)	8008335
 8008336	契经	契經	qìjīng	a sutra; a sūtra; a scripture; a discourse	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '契經'; FGDB '契經'; SH '契線', p. 299)	8008336
 8008337	法空	\N	fǎ kōng	inherent emptiness of dharmas; dharmanairātmya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmanairātmya, Japanese: hōmuga ; referring to the fact that all things are created from causes and conditions and do not exist independently (BL 'dharmanairātmya'; Ding '法空'; FGDB '法空'; SH '法空')	8008337
-8008338	伽罗	伽羅	jiāluó	a kind of wood used for incense	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '伽羅'; FGDB '伽羅'; SH '伽羅')	8008338
+8008338	伽罗	伽羅	jiāluó	tagara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tagara; a kind of wood used for incense (Ding '伽羅'; FGDB '伽羅'; SH '伽羅')	8008338
 8008339	多伽罗	多伽羅	duōjiāluó	a kind of wood for incense	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 伽羅 (FGDB '伽羅')	8008339
 8008340	致	\N	zhì	to become; nigam	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nigam, Japanese: chi (BCSD '致', p. 996; MW 'nigam'; Unihan '致')	8008340
 8008341	致	\N	zhì	motive; reason; artha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: artha (BCSD '致', p. 996; MW 'artha')	8008340
@@ -18008,3 +18008,8 @@
 8018008	全身舍利	\N	quán shēn shělì	whole-body relics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二種舍利 two kinds of relics (FGDB '二種舍利')	8018008
 8018009	身骨舍利	\N	shēn gǔ shělì	relics of the physical body	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二種舍利 two kinds of relics (FGDB '二種舍利')	8018008
 8018010	法颂舍利	法頌舍利	fǎ sòng shělì	relics of the Dharma verses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to the bequeathed teachings; one of the 二種舍利 two kinds of relics (FGDB '二種舍利')	8018010
+8018011	天人	\N	tiānrén	celestial beings and people	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dēvamanuṣya (BCSD '天人')	8018011
+8018012	二种菩萨	二種菩薩	èr zhǒng púsà	two kinds of bodhisattvas	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Monastics and lay bodhisattvas (Guoyu '二種菩薩'; SH '二種菩薩', p. 28)	8018012
+8018013	伽罗	伽羅	jiāluó	kālāguru	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kālāguru; another kind of wood used for incense (FGDB '伽羅')	8008338
+8018014	伽罗	伽羅	jiāluó	Kalā	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kalā; a personal name (FGDB '伽羅')	8008338
+8018015	二种菩萨身	二種菩薩身	èr zhǒng púsà shēn	two kinds of bodies of a bodhisattva	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Physical and dharma bodies (Guoyu '二種菩薩身'; SH '二種菩薩身', p. 28)	8018015
