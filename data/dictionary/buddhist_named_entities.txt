@@ -6602,7 +6602,7 @@
 7006602	元兴寺	元興寺	yuánxīng sì	Yuan Xing Temple	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Located in Zhejiang (BSPAD '西天元興寺', ID PL000000011835; FGDB '元興寺')	7006601
 7006603	道昭	\N	dàozhāo	Dōshō	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	629–700; Japanese monk (Beghi 2011, p. 661; FGDB '道昭'; Wikipedia '道昭')	7006603
 7006604	道照	\N	dàozhào	Dōshō	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	See 道昭 (Beghi 2011, p. 661)	7006604
-7006605	道慈	\N	dàocí	Dōji	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	D. 744; Japanese monk who travelled to China (Beghi 2011, p. 661; FGDB '道慈')	7006605
+7006605	道慈	\N	dàocí	Daoci	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Liu Song dynasty monk from 豫州 Yuzhou (BSAD '道慈', Authority ID：A003014)	7006605
 7006606	虚空藏菩萨诸问七佛陀罗尼呪经	虚空藏菩薩諸問七佛陀羅尼呪經	xūkōng cáng púsà zhū wèn qī fó tuóluóní zhòu jīng	Dharani of the Space-Store Bodhisattva’s Questions to Seven Buddhas	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Japanese: Kokūzō-bosatsu-shomon-shichibutsu-darani-kyō; an alternative title for 虛空藏菩薩問七佛陀羅尼呪經 (Beghi 2011, pp. 661-662; T 1333)	7006606
 7006607	玄昉	\N	xuánfǎng	Gembō	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	D. 746; Japanese monk who travelled to China and returned to Japan with texts (Beghi 2011, p. 662; FGDB '玄昉')	7006607
 7006608	菩提僊那	\N	pútíxiānnà	Bodhisena	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	704-760; Sanskrit equivalent: bodhisena, Japanese: Bodaisenna; only pre-modern Indian monk to travel to Japan (Beghi 2011, p. 662; FGDB '菩提僊那')	7006608
@@ -8753,3 +8753,26 @@
 7008753	叔兰	叔蘭	shū lán	Zhu Shulan	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 竺叔蘭 (BSAD '竺叔蘭'; FGDB '竺叔蘭')	7008753
 7008754	毘摩诘	毘摩詰	pímójié	Vimalakirti	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalakīrti; see 维摩 (FGDB '維摩')	7008754
 7008755	华氏	華氏	huáshì	Pāṭaliputra	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: pāṭaliputra, Pāli: pāṭaliputta; see 華氏城 (FGDB '華氏城')	7004260
+7008756	释僧卫	釋僧衛	shì sēngwèi	Shi Sengwei	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Eastern Jin dynsty monk, wrote a preface included in Fascicle 9 of the 出三藏記集 Chu san zang ji ji (BSAD '僧衛', Authority ID：A002786)	7008756
+7008757	僧卫	僧衛	sēngwèi	Sengwei	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 釋僧衛 (BSAD '僧衛', Authority ID：A002786)	7008757
+7008758	渐备经	漸備經	jiàn bèi jīng	Jian Bei Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a text included as no. 1941 in the Chu san zang ji ji catalog with prefact in Fascicle 9; the text is otherwise lost (T 2145, 55.0061a10)	7008758
+7008759	道慈	\N	dàocí	Dōji	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	D. 744; Japanese monk who travelled to China (Beghi 2011, p. 661; FGDB '道慈')	7006605
+7008760	四阿鋡暮抄	四阿鋡暮抄	sì āhán mù chāo	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7008760
+7008761	僧馥	\N	sēngfù	Sengfu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	(BSAD '僧馥', Authority ID：A002896)	7008761
+7008762	盎窭利魔罗	盎窶利魔羅	àngjùlìmóluó	Angulimala; Aṅgulimālīya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla; see 指鬘 (Eitel 1904 'Aṅgulimālīya', p. 13)	7008762
+7008763	鸯窭利摩罗	鴦窶利摩羅	yānglóulìmóluó	Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimāla, or: aṅgulimālīya, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; see also 指鬘 (BL 'Aṅgulimāla', pp. 45-46; FGDB '鴦窶利摩羅'; SH '央掘摩羅', p. 184)	7008763
+7008764	鸯掘衡	鴦掘衡	yāngjuéhéng	Angulimala; aṅgulimālīya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla; see 指鬘 (Eitel 1904 'Aṅgulimālīya', p. 13)	7008764
+7008765	指髻	\N	zhǐjì	Angulimala	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 指鬘 (FGDB '指鬘')	7008765
+7008766	指鬘	\N	zhǐmán	Angulimala; Aṅgulimālīya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: aṅgulimālīya, Pali: aṅgulimāla, Japanese: Ōkutsumara, Tibetan: sor mo phreng ba; a disciple of the Buddha, a murderer who was redeemed by conversion to Buddhism. His story is told in the Aṅgulimālasutta in the Pāli Canon and in 佛說鴦掘摩經Aṅgulimālīyasūtra in the Chinese Canon, in addition to other places (BL 'Aṅgulimāla'; Eitel 1904 'Aṅgulimālīya', p. 13; FGDB '指鬘'; Majjhima Nikāya 86; T 118)	7008766
+7008767	鸯崛利摩罗	鴦崛利摩羅	yāngjuélìmóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指鬘 (FGDB '鴦窶利摩羅')	7008767
+7008768	央掘摩罗	央掘摩羅	yāngjuémóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指鬘 (FGDB '鴦窶利摩羅')	7008768
+7008769	法慈法师	法慈法師	fǎcífǎshī	Master Faci	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 法慈 (BSAD '法慈法師', Authority ID：A003506)	7008769
+7008770	法慈	\N	fǎcí	Faci	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Southern Qi monastic (BSAD '法慈法師', Authority ID：A003506)	7008770
+7008771	法慈	\N	fǎcí	Faci	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Southern Song monastic (BSAD '法慈法師', Authority ID：A014841)	7008770
+7008772	支法领	支法領	zhī fǎlǐng	Zhi Faling	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Eastern Jin figure mentioned in Scroll 9 of the Chu san zang ji ji (BSAD '支法領', Authority ID：A002586)	7008772
+7008773	释法业	釋法業	shì fǎyè	Shi Faye	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 法業 (FGDB '法業')	7008773
+7008774	法业	法業	fǎyè	Faye	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Monastic of the Liu Song dynasty from Chang'an (BSAD '法業', Authority ID：A002589; FGDB '法業')	7008774
+7008775	鸯崛利摩罗	鴦崛利摩羅	yāngjuélìmóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指鬘 (FGDB '鴦窶利摩羅')	7008775
+7008776	央掘摩罗	央掘摩羅	yāngjuémóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指鬘 (FGDB '鴦窶利摩羅')	7008776
+7008777	鸯掘摩罗	鴦掘摩羅	yāngjuémóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指髻 (FGDB '鴦窶利摩羅')	7008777
+7008778	央仇魔罗	央仇魔羅	yāngchóumóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指髻 (FGDB '鴦窶利摩羅')	7008778
