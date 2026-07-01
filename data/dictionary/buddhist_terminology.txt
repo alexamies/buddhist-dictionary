@@ -14302,7 +14302,7 @@
 8014302	邪慢	\N	xiémàn	sinister indulgence; arrogance	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mithyāmāna, Tibetan: log pa'i nga rgyal (SH '邪慢', p. 246; Edgerton 1953 'mithyāmāna', p. 432; Mahāvyutpatti 'mithyāmānaḥ'; MW 'mithyāmāna')	8014302
 8014303	安和	\N	ānhé	Sotthi; Svāstika	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: svāstika, Pali: sotthi; literally Peaceful Harmony (Kieschnick and Wiles 2017, vol. 1, p. 33; T 1)	8014303
 8014304	谒	謁	yè	to visit	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: etsu (BCSD '謁', p. 1093; Unihan '謁')	8014304
-8014305	波牟提陀	\N	bōmóutítuó	joyful	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '歡喜')	8014305
+8014305	波牟提陀	\N	bōmóutítuó	joyful	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramudita (FGDB '歡喜')	8014305
 8014306	家	\N	jiā	school; sect; lineage	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	For example, 五家 five Chan schools of Buddhism (FGDB '五家'; Kroll 2015 '家' 6a, p. 191)	8006400
 8014307	谜	謎	mí	riddle; prahelikā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prahelikā, Japanese: etsu (BCSD '謎', p. 1094; MW 'prahelikā'; Unihan '謎')	8014307
 8014308	室罗末拏	室羅末拏	shìluómòná	a wandering monk; śramaṇa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙門 (FGDB '沙門')	8014308
@@ -18020,3 +18020,18 @@
 8018020	二答	\N	èr dá	to types of rely	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	By words and by signs (FGDB '二答'; SH '二答', p. 29)	8018020
 8018021	六天	\N	liù tiān	six heavens	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六欲天 (SH '六天', p. 134)	8018021
 8018022	二经体	二經體	èr jīng tǐ	the two elements in a sūtra	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Words and meaning (FGDB '二經體'; SH '二經體', p. 29)	8018022
+8018023	波牟提陀步弭	\N	bōmóutítuó bùmǐ	Pramuditā-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pramuditābhūmi; see 歡喜地 (FGDB '歡喜地')	8018023
+8018024	二罪	\N	èr zuì	two kinds of transgression	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. 性罪 natural sin and 2. 遮罪 proscribed misconduct (FGDB '二罪'; SH '二罪', p. 29)	8018024
+8018025	维摩罗普	維摩羅普	wéimóluópǔ	Vimalā-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vimalābhūmi; see 離垢地 (FGDB '離垢地')	8018025
+8018026	无垢地	無垢地	wú gòu dì	Ground of Freedom from Defilement	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 離垢地 (FGDB '離垢地')	8018026
+8018027	二美	\N	èr měi	two excellent things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Meditation and wisdom (FGDB '二美'; SH '二美', p. 29)	8018027
+8018028	波慕	\N	bōmù	padma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: padma (BCSD '波慕', p. 720)	8018028
+8018029	二翼	\N	èr yì	two wings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '二翼'; SH '二翼', p. 29)	8018029
+8018030	阿至摸	\N	āzhìmō	Arciṣmatī	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: arciṣmatī; one of the one of the ten bodhisattva grounds (BCSD '阿至摸', p. 1202; MW 'arciṣmatī')	8018030
+8018031	极喜地	極喜地	jíxǐ dì	Ground of Joy	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 歡喜地 (FGDB '十地')	8018031
+8018032	喜地	\N	xǐ dì	Ground of Joy	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 歡喜地 (FGDB '十地')	8018032
+8018033	悦豫地	悅豫地	yuèyù dì	Ground of Joy	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 歡喜地 (FGDB '十地')	8018033
+8018034	波披迦罗晋	波披迦羅晉	bōpījiāluójìn	Prabhākarī-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhākarī-bhūmi; an alternative form, used in Scroll 9 of the Chu san zang ji ji, see 發光地 (FGDB '十地'; T 2145, 55.0062a10)	8018034
+8018035	明地	\N	míng dì	Ground of Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 發光地 (FGDB '十地')	8018035
+8018036	有明地	\N	yǒumíng dì	Ground of Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 發光地 (FGDB '十地')	8018036
+8018037	兴光地	興光地	xīng guāng dì	Ground of Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 發光地 (FGDB '十地')	8018037
