@@ -3969,7 +3969,7 @@
 8003969	脇侍	\N	xiéshì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士')	8003969
 8003970	脇立	\N	xiélì	attendant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 脇士 (FGDB '脇士')	8003970
 8003971	二胁士	二脅士	èr xiéshì	two attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two attendants either side of a Buddha or bodhisattva (FGDB '脇士')	8003971
-8003972	二挟侍	二挾侍	èr xiéshì	two attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two attendants either side of a Buddha or bodhisattva (FGDB '脇士')	8003972
+8003972	二挟侍	二挾侍	èr xiéshì	two attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Two attendants either side of a Buddha or bodhisattva (FGDB '脇士'; SH '二挾侍', p. 29)	8003972
 8003973	阿鞞拔致	\N	ābībázhì	avaivartika; non-retrogression	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿惟越致 (Tzu Chuang 2012)	8003973
 8003974	阿惟越致	\N	āwéiyuèzhì	avaivartika; non-retrogression	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avaivartika, Japanese: futaiten, Tibetan: phy ir mi ldog; especially applying to a bodhisattva who will not regress on the path to Buddhahood. From the Sanskrit word avaivartika, which means non-returning (BCSD '阿惟越致', p. 1206; BL 'avaivartika', p. 82; FGDB '阿惟越致'; MW 'avaivartika')	8003974
 8003975	无间地狱	無間地獄	wú jiān dìyù	Avici Hell	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 阿鼻地獄 (Tzu Chuang 2012; FGDB '無間地獄')	8003975
@@ -3982,7 +3982,7 @@
 8003982	难胜地	難勝地	nán shèng dì	the ground of mastery of final difficulties	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sudurjayābhūmi; the fifth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003982
 8003983	共有法	\N	gòngyǒu fǎ	common assumption; agreed upon assumption	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In Buddhist logic, an agreed upon assumption that is shared between both parties in a debate (FGDB '共有法')	8003983
 8003984	现前地	現前地	xiàn qián dì	the ground of manifesting prajna-wisdom	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukhībhūmi; the sixth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003984
-8003985	远行地	遠行地	yuǎn xíng dì	the ground of proceeding afar	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūrajgamābhūmi; the seventh of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003985
+8003985	远行地	遠行地	yuǎn xíng dì	the ground of proceeding afar	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūrajgamābhūmi; the seventh of the ten grounds of bodhisattva development into a Buddha 十地 (FGDB '十地'; Tzu Chuang 2012, pp. 31-34)	8003985
 8003986	不动地	不動地	bùdòng dì	the ground of attaining calm	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: acalābhūmi; the eighth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003986
 8003987	善慧地	\N	shàn huì dì	the ground of finest discriminatory wisdom	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhumatībhūmi; the ninth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, pp. 31-34)	8003987
 8003988	法云地	法雲地	fǎ yún dì	Ground of the Dharma Cloud	phrase	地	bhumi	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent:  dharmameghābhūmi; the tenth of the ten grounds of bodhisattva development into a Buddha 十地 (Tzu Chuang 2012, p. 34; Red Pine 2012, loc. 5667, pp. 31-34)	8003988
@@ -18035,3 +18035,29 @@
 8018035	明地	\N	míng dì	Ground of Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 發光地 (FGDB '十地')	8018035
 8018036	有明地	\N	yǒumíng dì	Ground of Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 發光地 (FGDB '十地')	8018036
 8018037	兴光地	興光地	xīng guāng dì	Ground of Radiance	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 發光地 (FGDB '十地')	8018037
+8018038	极难胜地	極難勝地	jínánshèng dì	Ground of Mastery of Final Difficulties	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 難勝地 (FGDB '十地')	8018038
+8018039	头阇耶晋	頭闍耶晉	tóushéyéjìn	Sudurjayā-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sudurjayā-bhūmi; see 難勝地 (FGDB '十地')	8018039
+8018040	二圣	二聖	èr shèng	two sages	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Śākyamuni and Prabhūtaratna (SH '二聖', p. 29)	8018040
+8018041	现在地	現在地	xiànzài dì	Ground of Manifesting Prajna-Wisdom	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 現前地 (FGDB '十地')	8018041
+8018042	目见地	目見地	mùjiàn dì	Ground of Manifesting Prajna-Wisdom	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 現前地 (FGDB '十地')	8018042
+8018043	目前地	\N	mùqián dì	Ground of Manifesting Prajna-Wisdom	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 現前地 (FGDB '十地')	8018043
+8018044	阿比目佉晋	阿比目佉晉	ābǐmùqū jìn	Abhimukhī-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhimukhī-bhūmi; an alternative form, used in Scroll 9 of the Chu san zang ji ji, see 現前地 (FGDB '十地'; T 2145, 55.0062a10)	8018044
+8018045	二脇士	\N	èr xiéshì	two attendants	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二挾侍 (SH '二脇士', p. 29)	8018045
+8018046	深行地	\N	shēnxíng dì	Ground of Proceeding Afar	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 遠行地 (FGDB '十地')	8018046
+8018047	深入地	\N	shēnrù dì	Ground of Proceeding Afar	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 遠行地 (FGDB '十地')	8018047
+8018048	深远地	深遠地	shēnyuǎn dì	Ground of Proceeding Afar	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 遠行地 (FGDB '十地')	8018048
+8018049	玄妙地	\N	xuánmiàodì	Xuan Mi Di	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 遠行地 (FGDB '十地')	8018049
+8018050	头罗迦摩晋	頭羅迦摩晉	tóuluójiāmó jìn	Dūraṃgamā-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dūraṃgamā-bhūmi; an alternative form, used in Scroll 9 of the Chu san zang ji ji, see 現前地 (FGDB '十地'; T 2145, 55.0062a10)	8018050
+8018051	二般若	\N	èr bānruò	two kinds of prajñā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A Tiantai classification is 共般若 shared prajñā and 不共般若 distinctive prajñā (FGDB '二般若'; SH '二般若', p. 29)	8018051
+8018052	共般若	\N	gòng bānruò	shared prajñā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二般若 two kinds of prajñā according to a Tiantai classification (FGDB '二般若'; SH '二般若', p. 29)	8018052
+8018053	不共般若	\N	bùgòng bānruò	distinctive prajñā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二般若 two kinds of prajñā according to a Tiantai classification (FGDB '二般若'; SH '二般若', p. 29)	8018053
+8018054	世间般若	世間般若	shìjiān bānruò	worldly prajñā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二般若 two kinds of prajñā (FGDB '二般若'; SH '二般若', p. 29)	8018054
+8018055	出世般若	\N	chū shì bānruò	supernatural prajñā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二般若 two kinds of prajñā (FGDB '二般若'; SH '二般若', p. 29)	8018055
+8018056	阿遮罗晋	阿遮羅晉	āzhēluó jìn	Acalā-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: acalā-bhūmi; an alternative form, used in Scroll 9 of the Chu san zang ji ji, see 不動地 (FGDB '十地'; T 2145, 55.0062a10)	8018056
+8018057	二色身	\N	èr sè shēn	the two rūpakāya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	報身 saṁbhogakāya and 應身 and nirmāṇakāya (SH '二色身', p. 29)	8018057
+8018058	善哉意地	\N	shànzāi yì dì	Ground of Finest Discriminatory Wisdom	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 善慧地 (FGDB '十地')	8018058
+8018059	善根地	\N	shàn gēn dì	Ground of Virtuous Roots	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 善慧地 (FGDB '十地')	8018059
+8018060	抄头摩提晋	抄頭摩提晉	chāotóumótí jìn	Sādhumatī-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sādhumatī-bhūmi; an alternative form, used in Scroll 9 of the Chu san zang ji ji, see 善慧地 (FGDB '十地'; T 2145, 55.0062a10)	8018060
+8018061	二处三会	二處三會	èr chù sān huì	the two places and the three assemblies	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Where the Buddha taught the Lotus Sūtra (FGDB '二處三會'; SH '二處三會', p. 29)	8018061
+8018062	法雨地	\N	fǎyǔdì	Ground of Dharma Rain	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 善慧地 (FGDB '十地')	8018062
+8018063	昙摩弥迦晋	曇摩彌迦晉	tánmómíjiā jìn	Dharmameghā-bhūmi	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmameghā-bhūmi; an alternative form, used in Scroll 9 of the Chu san zang ji ji, see 善慧地 (FGDB '十地'; T 2145, 55.0062a10)	8018063
