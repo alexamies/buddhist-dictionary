@@ -6838,7 +6838,7 @@
 7006838	耆米尼	\N	qímǐní	Jaimini	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: jaimini; Hindu philosopher, known as founder of the Mimamsa school (FGDB '六派哲學')	7006838
 7006839	巴达罗耶那	巴達羅耶那	bādáluóyénà	Badarayana	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bādarāyaṇa; Hindu philosopher, known as founder of the Vedanta school (FGDB '六派哲學')	7006839
 7006840	巴丹阇梨	巴丹闍梨	bādānshélí	Patanjali	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: patañjali; Hindu philosopher, known as founder of the Yoga school of philosophy (FGDB '六派哲學')	7006840
-7006841	大品	\N	dàpǐn	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Short for 大品般若經 (Ding '大品'; FGDB '大品'; SH '大品', p. 86)	7006841
+7006841	大品	\N	dà pǐn	Pancavimsati Sahasrika Prajnaparamita Sutra	proper noun	典籍	Canonical Text	佛教	Buddhism	\N	\N	\N	\N	Short for 大品般若經 (Ding '大品'; FGDB '大品'; SH '大品', p. 86)	7006841
 7006842	羯那陀	\N	jiénàtuó	Kanada	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kaṇāda; Hindu philosopher, known as founder of the Vaiśeṣika school of philosophy (FGDB '六派哲學')	7006842
 7006843	伊湿伐罗讫哩史拏	伊濕伐羅訖哩史拏	yīshīfáluó qìlǐshǐná	Isvara Krishna	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: īśvarakṛṣṇa; Indian philosopher of the Samkhya school, author of Samkhyakarika (FGDB '數論學派')	7006843
 7006844	僧佉颂	僧佉頌	sēngqū sòng	Samkhya Karika	proper noun	\N	\N	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: sāṃkhya-kārikā; see 數論頌 (FGDB '數論學派'; T 2137)	7006844
@@ -8755,7 +8755,7 @@
 7008755	华氏	華氏	huáshì	Pāṭaliputra	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: pāṭaliputra, Pāli: pāṭaliputta; see 華氏城 (FGDB '華氏城')	7004260
 7008756	释僧卫	釋僧衛	shì sēngwèi	Shi Sengwei	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Eastern Jin dynsty monk, wrote a preface included in Fascicle 9 of the 出三藏記集 Chu san zang ji ji (BSAD '僧衛', Authority ID：A002786)	7008756
 7008757	僧卫	僧衛	sēngwèi	Sengwei	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 釋僧衛 (BSAD '僧衛', Authority ID：A002786)	7008757
-7008758	渐备经	漸備經	jiàn bèi jīng	Jian Bei Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Title of a text included as no. 1941 in the Chu san zang ji ji catalog with prefact in Fascicle 9; the text is otherwise lost (T 2145, 55.0061a10)	7008758
+7008758	渐备经	漸備經	jiàn bèi jīng	Jian Bei Jing	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 漸備一切智德經 Daśabhūmikasūtra (T 285)	7008758
 7008759	道慈	\N	dàocí	Dōji	proper noun	法师	Monastic	佛教	Buddhism	日本	Japan	\N	\N	D. 744; Japanese monk who travelled to China (Beghi 2011, p. 661; FGDB '道慈')	7006605
 7008760	四阿鋡暮抄	四阿鋡暮抄	sì āhán mù chāo	Digest of the Four āgamas	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四阿鋡暮抄解 (FGDB '四阿含暮抄解')	7008760
 7008761	僧馥	\N	sēngfù	Sengfu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	(BSAD '僧馥', Authority ID：A002896)	7008761
@@ -8776,3 +8776,5 @@
 7008776	央掘摩罗	央掘摩羅	yāngjuémóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指鬘 (FGDB '鴦窶利摩羅')	7008776
 7008777	鸯掘摩罗	鴦掘摩羅	yāngjuémóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指髻 (FGDB '鴦窶利摩羅')	7008777
 7008778	央仇魔罗	央仇魔羅	yāngchóumóluó	Aṅgulimāla; Angulimalya	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鴦窶利摩羅 and 指髻 (FGDB '鴦窶利摩羅')	7008778
+7008779	法彦	法彥	fǎyàn	Fayan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Sui dynasty monk from Luoyang (BSAD '法彥', Authority ID：A005383)	7008779
+7008780	张天锡	張天錫	zhāng tiānxī	Zhang Tianxi	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	Lived during the Former Liang dynasty (BSAD '張天錫', Authority ID：A006533; Wikipedia '张天锡 (前凉)')	7008780
