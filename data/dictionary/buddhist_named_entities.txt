@@ -1138,7 +1138,7 @@
 7001138	希沙华寺	希沙華寺	xī shā huà sì	Wat Si Sawai	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	Located in Sukhothai Historical Park, Thailand (FGS Encyclopedia of Buddhist Arts)	7001138
 7001139	苏提普山舍利寺	蘇提普山舍利寺	sū tí pǔ shān shèlì sì	Wat Phra That Doi Suthep	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	Located in Chiang Mai, Thailand (FGS Encyclopedia of Buddhist Arts)	7001139
 7001140	玉佛寺	\N	yùfó sì	Wat Phra Kaeo	proper noun	寺院	Monastery	佛教	Buddhism	泰国	Thailand	\N	\N	Located in the Bangkok, Thailand (FGS Encyclopedia of Buddhist Arts)	7001140
-7001141	昙摩难提	曇摩難提	tánmónántí	  Dharma-nandi	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Monk from the Western Regions that stayed in China circa 384 (FGDB '曇摩難提')	7001141
+7001141	昙摩难提	曇摩難提	tánmónántí	  Dharmanandi	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Monk from the Western Regions that stayed in China circa 384 (FGDB '曇摩難提')	7001141
 7001142	竺佛念	\N	zhú fóniàn	  Zhu Fonian; Fo Nian	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	317 - 420; Monk from 涼州 Liangzhou in present-day Gansu who stayed in China during the Eastern Jin and translated texts included in the Chinese Buddhist canon, including parts of the 阿含經 Āgama (BL 'Zhu Fonian'; FGDB '竺佛念'; Kieschnick and Wiles 2017, vol. 1, p. 1)	7001142
 7001143	昙摩耶舍	曇摩耶舍	tánmóyēshè	  Dharmayaśas	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Monk from Kashmir that stayed in China during the Eastern Jin and translated texts included in the Chinese Buddhist canon (FGDB '曇摩耶舍'; KDC 205; T 566).	7001143
 7001144	释印光	\N	shìyìnguāng	Yingguang	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 印光 (Wikipedia '释印光')	7001144
@@ -8693,7 +8693,7 @@
 7008693	僧伽达多	僧伽達多	sēngjiādáduō	Saṃghadatta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	An associate of Buddhabhadra (BSAD '僧伽達多'; FGDB '佛馱跋陀羅')	7008693
 7008694	阇婆国	闍婆國	shépó guó	Java	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Historic name for the Indonesian island of Java (FGDB '求那跋摩')	7008694
 7008695	阇婆	闍婆	shépó	Java	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	See 闍婆國 (FGDB '求那跋摩')	7008694
-7008696	增一	\N	zēng yī	Ekottara Āgama	proper noun	经	Sutra	佛教	Buddhism	\N	\N	\N	\N	See 增一阿含經 (T 125)	7008696
+7008696	增一	\N	zēng yī	ekottara; increasing by one	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 增一阿含經 (T 125)	7008696
 7008697	沮渠安阳侯	沮渠安陽侯	jǔqú ānyáng hóu	Juqu Marquis of Anyang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 沮渠京聲 (BSAD '沮渠京聲')	7008697
 7008698	瞿摩帝大寺	\N	jùmódì dà sì	Great Monastery of Gumati	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	See 瞿摩帝 (BSPAD '瞿摩帝大寺')	7008698
 7008699	衢摩帝大寺	\N	qúmódì dà sì	Great Monastery of Gumati	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	See 瞿摩帝 (BSPAD '瞿摩帝大寺')	7008699
@@ -8782,3 +8782,7 @@
 7008782	宝髻菩萨所问经	寶髻菩薩所問經	bǎojì púsà suǒ wèn jīng	Ratnacūḍaparipṛcchā; Sūtra on the Questions Asked by Ratnacūḍa Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnacūḍaparipṛcchā, Tibetan: gtsug na rin po ches zhus pa (BCSD '寶髻菩薩所問經', p. 391; Mahāvyutpatti 'ratnacūḍaparipṛcchā')	7008782
 7008783	宝髻菩萨所问	寶髻菩薩所問	bǎojì púsà suǒ wèn	Ratnacūḍaparipṛcchā; Questions Asked by Ratnacūḍa Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnacūḍaparipṛcchā, Tibetan: gtsug na rin po ches zhus pa; see 寶髻菩薩所問經 (Mahāvyutpatti 'ratnacūḍaparipṛcchā')	7008782
 7008784	宝髻经	寶髻經	bǎojì jīng	Ratnacūḍa Sūtra; Sūtra on the Questions Asked by Ratnacūḍa Bodhisattva	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ratnacūḍaparipṛcchā, Tibetan: gtsug na rin po ches zhus pa (BCSD '寶髻經', p. 391; Mahāvyutpatti 'ratnacūḍaparipṛcchā')	7008784
+7008785	佛念	\N	fóniàn	  Fonian	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺佛念 (FGDB '竺佛念')	7008785
+7008786	康孟祥	\N	kāng mèngxiáng	Kang Mengxiang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 康孟詳 (FGDB '康孟詳')	7008786
+7008787	僧茂	\N	sēngmào	Sengmao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Southern Qi dynasty monastic (BSAD '僧茂', Authority ID：A016035)	7008787
+7008788	僧茂	\N	sēngmào	Sengmao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Yuan dynasty monastic (BSAD '僧茂', Authority A015527)	7008787
