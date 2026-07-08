@@ -4768,7 +4768,7 @@
 7004768	婆鸡帝	婆雞帝	pójīdì	sāketa	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	A place in Kosala mentioned in the 七車經 “Relay Chariots Sutra” (Thanissaro Bhikkhu tr. 1999 by CCANC; MN 24; T 26, Scroll 2, 1.0431a04; DDB '婆雞帝')	7004768
 7004769	满祝子	滿祝子	mǎnzhùzǐ	[Purna] Maitrāyaṇīputra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 富樓那 (SH '富樓那', p. 370)	7004769
 7004770	满见子	滿見子	mǎnjiànzǐ	[Purna] Maitrāyaṇīputra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 富樓那 (SH '富樓那', p. 370)	7004770
-7004771	满愿子	滿願子	mǎnyuànzǐ	[Purna] Maitrāyaṇīputra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 富樓那 (SH '富樓那', p. 370)	7004771
+7004771	满愿子	滿願子	mǎnyuànzǐ	[Purna] Maitrāyaṇīputra; Pūrṇa-maitrāyaṇīputra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: pūrṇamaitrāyaṇīputra; see 富樓那 (BCSE '滿願子', p. ; SH '富樓那', p. 370)	7004771
 7004772	优波鞮舍	優波鞮舍	yōubōdīshě	[Sariputta] Upatissa	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	(Thanissaro Bhikkhu tr. 1999 by CCANC; MN 24; T 26, Scroll 2, 1.0431b24)	7004772
 7004773	拘楼瘦	拘樓瘦	jūlóushòu	Kuru	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	(DDB '拘樓瘦'; T 26, Scroll 2, 1.0431c14)	7004773
 7004774	劒磨瑟昙	劒磨瑟曇	jiànmósètán	Kammāsadhamma	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	Capital of Kuru (DDB '劒磨瑟曇'; T 26, Scroll 2, 1.0431c14)	7004774
@@ -8697,7 +8697,7 @@
 7008697	沮渠安阳侯	沮渠安陽侯	jǔqú ānyáng hóu	Juqu Marquis of Anyang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 沮渠京聲 (BSAD '沮渠京聲')	7008697
 7008698	瞿摩帝大寺	\N	jùmódì dà sì	Great Monastery of Gumati	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	See 瞿摩帝 (BSPAD '瞿摩帝大寺')	7008698
 7008699	衢摩帝大寺	\N	qúmódì dà sì	Great Monastery of Gumati	proper noun	寺院	Temple	佛教	Buddhism	\N	\N	\N	\N	See 瞿摩帝 (BSPAD '瞿摩帝大寺')	7008699
-7008700	佛陀斯那	\N	fótuósīnà	Buddhasena	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	(BSAD '佛陀斯那')	7008700
+7008700	佛陀斯那	\N	fótuósīnà	Buddhasena	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 佛大先 (BSAD '佛陀斯那')	7008700
 7008701	僧伽斯	\N	sēngjiāsī	Saṅghasena	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	(BSAD '僧伽斯')	7008701
 7008702	阿私陀	\N	āsītuó	Asita	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	The name of the sage who identified the signs on Buddha's body at birth (BSAD '阿私陀'; FGDB '阿私陀'; SH '阿私陀', p. 290)	7008702
 7008703	阿私多	\N	āsīduō	Asita	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 阿私陀 (FGDB '阿私陀')	7008703
@@ -8786,17 +8786,19 @@
 7008786	康孟祥	\N	kāng mèngxiáng	Kang Mengxiang	proper noun	人	Person	佛教	Buddhism	中国	China	\N	\N	See 康孟詳 (FGDB '康孟詳')	7008786
 7008787	僧茂	\N	sēngmào	Sengmao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Southern Qi dynasty monastic (BSAD '僧茂', Authority ID：A016035)	7008787
 7008788	僧茂	\N	sēngmào	Sengmao	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Yuan dynasty monastic (BSAD '僧茂', Authority A015527)	7008787
-7008789	童受论师	童受論師	tóngshòu lùnshī	Kumāralāta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008789
-7008790	童受	童受	tóngshòu lùnshī	Kumāralāta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008790
-7008791	鸠摩罗罗陀	鳩摩羅羅陀	jiūmóluóluótuó	Kumāralāta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008791
-7008792	鸠摩罗陀	鳩摩羅陀	jiūmóluótuó	Kumāralāta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008792
-7008793	究摩罗罗陀	究摩羅羅陀	jiūmóluóluótuó	Kumāralāta	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008793
-7008794	优波毱多	優波毱多	yōubōjúduō	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008794
-7008795	忧波鞠多	憂波鞠多	yōubōjūduō	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008795
-7008796	忧波笈多	憂波笈多	yōubōjíduō	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008796
-7008797	忧波崛多	憂波崛多	yōubōjuéduō	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008797
-7008798	邬波鞠多	鄔波鞠多	wūbōjūduō	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008798
-7008799	邬波笈多	鄔波笈多	wūbōjíduō	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008799
-7008800	优波鞠提	優波鞠提	yōubōjūtí	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008800
-7008801	优波鞠	優波鞠	yōubōjū	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008801
-168001	沤波崛	漚波崛	ōubōjué	Upagupta	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	168001
+7008789	童受论师	童受論師	tóngshòu lùnshī	Kumāralāta	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008789
+7008790	童受	童受	tóngshòu lùnshī	Kumāralāta	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008790
+7008791	鸠摩罗罗陀	鳩摩羅羅陀	jiūmóluóluótuó	Kumāralāta	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008791
+7008792	鸠摩罗陀	鳩摩羅陀	jiūmóluótuó	Kumāralāta	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008792
+7008793	究摩罗罗陀	究摩羅羅陀	jiūmóluóluótuó	Kumāralāta	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 鳩摩邏多 (Wikipedia '童受')	7008793
+7008794	优波毱多	優波毱多	yōubōjúduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008794
+7008795	忧波鞠多	憂波鞠多	yōubōjūduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008795
+7008796	忧波笈多	憂波笈多	yōubōjíduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008796
+7008797	忧波崛多	憂波崛多	yōubōjuéduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008797
+7008798	邬波鞠多	鄔波鞠多	wūbōjūduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008798
+7008799	邬波笈多	鄔波笈多	wūbōjíduō	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008799
+7008800	优波鞠提	優波鞠提	yōubōjūtí	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008800
+7008801	优波鞠	優波鞠	yōubōjū	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	7008801
+7008802	沤波崛	漚波崛	ōubōjué	Upagupta	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	See 優婆毱多 (Wikipedia '优波毱多')	168001
+7008803	佛大先	\N	fódàxiān	Buddhasena	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Monastic from Northern Liang (BSAD '佛大先', Authority ID：A002065; FGDB '佛大先')	7008803
+7008804	佛驮先	佛馱先	fóduòxiān	Buddhasena	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 佛大先 (FGDB '佛大先')	7008804
