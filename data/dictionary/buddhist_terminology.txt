@@ -13591,7 +13591,7 @@
 8013591	无罣碍天	無罣礙天	wúguààitiān	Unimpeded Heaven	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 無雲天 (FGDB '無雲天')	8013591
 8013592	蓄	\N	xù	to gather; upasthāpayitavya	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upasthāpayitavya, Japanese: chiku, or: kiku (BCSD '蓄' p. 1023; MW 'upasthāpayitavya'; Unihan '蓄')	8013592
 8013593	无阴行天	無陰行天	wúyīnxíngtiān	Cloudless Heaven; Anabhraka	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: anabhraka; see 無雲天 (FGDB '無雲天')	8013593
-8013594	唯识宗	唯識宗	wěishí zōng	Faxiang School; Ci'en School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	See 法相宗 (FGDB '法相宗')	8013594
+8013594	唯识宗	唯識宗	wěishí zōng	Consciousness-Only School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	See 法相宗 (FGDB '法相宗')	8013594
 8013595	蓐	\N	rú	a straw mat; saṃstara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṃstara, Japanese: joku, or: niku (BCSD '蓐' p. 1023; MW 'saṃstara'; Unihan '蓐')	8013595
 8013596	有相宗	\N	yǒuxiāng zōng	Faxiang School; Ci'en School; Dharmalaksana School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	See 法相宗 (FGDB '法相宗')	8013596
 8013597	相宗	\N	xiāng zōng	Faxiang School; Ci'en School; Dharmalaksana School	proper noun	宗派	School	佛教	Buddhism	中国	China	\N	\N	See 法相宗 (FGDB '法相宗')	8013597
@@ -18093,4 +18093,11 @@
 8018093	性净解脱	性淨解脫	xìng jìng jiětuō	pure-nature liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二解脫 two kinds of liberation (FGDB '二解脫'; SH '二解脫', p. 30)	8018093
 8018094	障尽解脱	障盡解脫	zhàng jìn jiětuō	liberation attained by ending all obstructions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二解脫 two kinds of liberation (FGDB '二解脫'; SH '二解脫', p. 30)	8018094
 8018095	一时解脱	一時解脫	yī shí jiětuō	liberation over a period of time	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 時解脫 (FGDB '二解脫')	8018095
-8018096	四变	四變	sìbiàn	four transformations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(CC-CEDICT '四變'; Guoyu '四變'; Wikipedia '四變')	168001
+8018096	四变	四變	sì biàn	four transformations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	According to the Consciousness-Only School four transformations are illusions conjured up by the ālaya consciousness: 1. 共中共 common among the common, 2. 共中不共 common among the uncommon, 3. 不共中不共 uncommon among the uncommon, and 4. 不共中共 uncommon among the common (FGDB '四變')	168001
+8018097	共中共	\N	gòng zhōng gòng	common among the common	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Phenomena like mountains, rivers, and the earth, which all sentient beings share; one of the 四變 four transformations (FGDB '四變')	8018097
+8018098	共中不共	\N	gòng zhōng bù gòng	common among the uncommon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Phenomena like one’s own house and personal belongings, which are not shared with others; one of the 四變 four transformations (FGDB '四變')	8018098
+8018099	不共中不共	\N	bù gòng zhōng bù gòng	uncommon among the uncommon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Such as the sense organs, which are used only by oneself; one of the 四變 four transformations (FGDB '四變')	8018099
+8018100	不共中共	\N	bù gòng zhōng gòng	uncommon among the common	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Such as the supportive organs (such as the eyeball) of the five sense organs; one of the 四變 four transformations (FGDB '四變')	8018100
+8018101	二诠	二詮	èr quán	two kinds of explanation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. 遮詮 negative explanation and 2. 表詮 positive explanation (FGDB '二詮'; SH '二詮', p. 30)	8018101
+8018102	遮诠	遮詮	zhē quán	a negative explanation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二詮 two kinds of explanation (FGDB '二詮'; SH '二詮', p. 30)	8018102
+8018103	表诠	表詮	biǎo quán	a positive explanation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二詮 two kinds of explanation (FGDB '二詮'; SH '二詮', p. 30)	8018103
