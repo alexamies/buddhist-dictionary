@@ -5957,7 +5957,7 @@
 8005957	菴摩勒	\N	ānmólēi	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005957
 8005958	菴摩落迦果	\N	ānmóluòjiā guǒ	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005958
 8005959	初	\N	chū	foremost, first; prathama	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prathama, Japanese: sho, Tibetan: dang po (BCSD '初', p. 186; DJBT '差', p. 426; Mahāvyutpatti 'prathamam'; MW 'prathama'; SH '初', p. 251)	8005959
-8005960	过	過	guò	gone by, past; atīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atīta, Japanese: ka (BCSD '過', p. 1156; DJBT '過', p. 430; MW 'atīta'; SH '過', p. 414)	8005960
+8005960	过	過	guò	gone by; past; atīta	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: atīta, Japanese: ka (BCSD '過', p. 1156; DJBT '過', p. 430; MW 'atīta'; SH '過', p. 414)	8005960
 8005961	增	\N	zēng	to increase; vṛdh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: √vṛdh, or: vṛddhi, Japanese: sō, or: zō (BCSD '增', p. 303; DJBT '增', p. 435; MW 'vṛdh'; SH '增', p. 431)	8005961
 8005962	增	\N	zēng	accumulation; upacaya	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upacaya, or: ācaya, Tibetan: bsags pa (BCSD '增', p. 303; Mahāvyutpatti 'ācayaḥ'; MW 'upacaya')	8005961
 8005963	增长	增長	zēngzhǎng	Virudhaka; Virudhaka Deva King of the South	proper noun	天王	Heavenly King	佛教	Buddhism	\N	\N	\N	\N	See 增長天 (FGDB '增長天')	8000651
@@ -18128,3 +18128,9 @@
 8018128	二贫	二貧	èr pín	two kinds of poverty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	財貧 Material poverty and 法貧 spiritual poverty (FGDB '二貧'; SH '二貧', p. 30)	8018128
 8018129	财贫	財貧	cái pín	material poverty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二貧 two kinds of poverty (FGDB '二貧'; SH '二貧', p. 30)	8018129
 8018130	法贫	法貧	fǎ pín	spiritual poverty	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二貧 two kinds of poverty (FGDB '二貧'; SH '二貧', p. 30)	8018130
+8018131	树王	樹王	shù wáng	king of trees	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are two explanations: 1. 菩提樹 Bodhi Tree and 2. 天樹王 pārijātaka tree (FGDB '樹王')	8018131
+8018132	天树王	天樹王	tiānshù wáng	pārijāta tree; coral tree	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārijāta; king among heavenly trees, it grows in front of Indra's palace, see also 波利質多 (FGDB '樹王'; MW 'pārijāta'; SH '天樹王', p. 145)	8018132
+8018133	二超	\N	èr chāo	two ways of crossing over	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	豎超 Crossing over lengthwise and 橫超 crossing over sideways (FGDB '二雙四重'; SH '二超', p. 135)	8018133
+8018134	竖超	豎超	shù chāo	crossing over lengthwise	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The long way of Hīnayāna, one of the 二超 two ways of crossing over (FGDB '二雙四重'; SH '二超', p. 135)	8018134
+8018135	横超	橫超	héng chāo	crossing over sideways	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The short way of Mahāyāna, one of the 二超 two ways of crossing over (FGDB '二雙四重'; SH '二超', p. 135)	8018135
+8018136	四说	四說	sì shuō	four kinds of explaination; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (Ding '四種廣說'; FGDB '四種廣說')	8018136
