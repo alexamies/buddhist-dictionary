@@ -9894,7 +9894,7 @@
 8009894	象王	\N	xiàngwáng	elephant king; noble elephant	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: gajarāja; also, a simile referring to the Buddha (Ding '象王'; FGDB '象王'; MW 'gajarāja'; SH '象王', p. 391)	8009894
 8009895	大悟	\N	dàwù	great awakening; great enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '大悟')	8009895
 8009896	椀	\N	wǎn	bowl; bhāṇḍa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhāṇḍa, Japanese: wan (BCSD '椀', p. 659; MW 'bhāṇḍa'; Unihan '椀')	8009896
-8009897	二道	\N	èrdào	the two paths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several formulations for what the two paths are (Ding '二道'; FGDB '二道')	8009897
+8009897	二道	\N	èr dào	the two paths	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are several formulations for what the two paths are, one formulation is: 無礙道 uninterupted way and 解脫道 the path of liberation (Ding '二道'; FGDB '二道'; SH '二道', p. 30)	8009897
 8009898	八戒	\N	bājiè	eight precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The five precepts in addition to not using cosmetics  and not indulging in dancing and music, not sleepign in high beds, and not eating after noon (Ding '八戒'; SH '八戒', p. 36)	8009898
 8009899	椄	\N	jiē	joined; sambaddha	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: sambaddha, Japanese: setsu, or: shou (BCSD '椄', p. 659; MW 'sambaddha'; Unihan '椄')	8009899
 8009900	对机	對機	duì jī	to respond to an opportunity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '對機'; FGDB '對機'; SH '對機', p. 423)	8009900
@@ -18137,4 +18137,22 @@
 8018137	二足	\N	èr zú	two legs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Virtue and wisdom (FGDB '二足'; SH '二足', p. 30)	8018137
 8018138	四非常	\N	sì fēicháng	four kinds of impermanence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四無常偈 (FGDB '四無常偈')	8018138
 8018139	四无常偈	四無常偈	sì wúcháng jì	Gatha on the Four Kinds of Impermanence	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A gatha about 無常 impermanence, 苦 suffering, 空 emptiness, and無我 non-self (FGDB '四無常偈')	8018139
-8018140	二轮	二輪	èr lún	two wheels	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	定 meditation and 慧 wisdom (FGDB '二輪'; SH '二輪', p. 30)	8018140
+8018140	二轮	二輪	èr lún	two wheels	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	定 Meditation and 慧 wisdom (FGDB '二輪'; SH '二輪', p. 30)	8018140
+8018141	邻极亚圣	鄰極亞聖	línjí yà shèng	second sage	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to Śāriputrā (FGDB '鄰極')	8018141
+8018142	亚圣	亞聖	yà shèng	second sage; Śāriputrā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 鄰極亞聖 (FGDB '鄰極')	8018142
+8018143	有漏道	\N	yǒu lòu dào	the way of rebirth with outflows	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二道 two paths (SH '二道', p. 30)	8018143
+8018144	教道	\N	jiāo dào	the way of following instruction	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二道 two paths (SH '二道', p. 30)	8018144
+8018145	八音	\N	bā yīn	eight sounds	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	The eight sounds of a Buddha's voice: beautiful, flexible, harmonious, respect-producing, masculine, unerring, deep and resonant (FGDB '八音'; SH '音', p. 41)	8018145
+8018146	八种清净音	八種清淨音	bā zhǒng qīngjìng yīn	eight pure sounds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八音 (FGDB '八音')	8018146
+8018147	八种梵音声	八種梵音聲	bā zhǒng fànyīn shēng	eight heavenly sounds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八音 (FGDB '八音')	8018147
+8018148	八梵	\N	bā fàn	eight heavenly sounds	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八音 (FGDB '八音')	8018148
+8018149	有边	有邊	yǒu biān	the extreme view of permanent existence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二邊 two extremes (SH '二邊', p. 31)	8018149
+8018150	无边	無邊	wú biān	the extreme view of no existence	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二邊 two extremes (SH '二邊', p. 31)	8004298
+8018151	增益边	增益邊	zēng yì biān	the extreme view of a soul and permanence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二邊 two extremes (SH '二邊', p. 31)	8018151
+8018152	损减边	損減邊	sǔn jiǎn biān	the extreme view that nothing exists, even karma	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二邊 two extremes (SH '二邊', p. 31)	8018152
+8018153	断边见	斷邊見	duàn biān jiàn	the extreme view of Nihilism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二邊 two extremes (SH '二邊', p. 31)	8018153
+8018154	常边见	常邊見	cháng biān jiàn	the extreme view of Eternalism	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二邊 two extremes (SH '二邊', p. 31)	8018154
+8018155	十六知见	十六知見	shíliù zhī jiàn	the sixteen understandings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The sixteen views of a devine self: 1. 我 self, 2. 眾生 beings, 3. 壽者 concept of a lifespan, 4. 命者 concept of life,  5. 生者 concept of birth, 6. 養育 nurturing, 7. 眾數 possession of objects, 8. 人 concept of a person, 9. 作者 concept of a doer, 10. 使作者 concept of an agent, 11. 起者 concept of creation, 12. 使起者 concept of causing creation, 13. 受者 concept of receiving, 14. 使受者 concept of giving, 15. 知者 concept of a knower, and 16. 見者 concept of seeing (FGDB '十六知見')	8018155
+8018156	十六神我	\N	shíliù shén wǒ	the sixteen views of a divine self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六知見 (FGDB '十六知見')	8018156
+8018157	有我	\N	yǒu wǒ	the existence of a permanent self	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十六知見 (FGDB '十六知見')	8018157
+8018158	二部五部	\N	èr bù wǔ bù	the two divisions and the five divisions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The two divisions are the 上座 Sthavira and the 大眾二部 Mahāsāṃghika (FGDB '二部五部'; SH '二部五部', p. 31)	8018158
