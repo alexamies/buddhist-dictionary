@@ -1723,8 +1723,8 @@
 8001723	六字大明咒	\N	liù zì dà míng zhòu	Mantra of Six Syllables; Om mani padme hum	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ṣaḍakṣarī, Japanese: rokujidaimyō, Tibetan: yi ge drug pa'i rig sngags; refers to the mantra 嗡嘛呢叭咩吽 Oṃ maṇi padme hūṃ, also known as the six syllabled mantra (BL 'ṣaḍakṣarī'; FGDB '六字大明咒')	8001723
 8001724	嘛呢石	\N	māní shí	mani stone	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	With Six syllabled mantra written on it (Wikipedia '嘛呢石')	8001724
 8001725	佛教四大圣地	佛教四大聖地	fójiào sì dà shèngdì	Four sacred Buddhist pilgrimage sites	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Lumbini 蓝毗尼, Bodh Gaya 菩提伽耶, Sarnath 鹿野苑, and Kusinara 拘尸那揭罗 (Wikipedia '八大圣地')	8001725
-8001726	拘尸那揭罗	拘尸那揭羅	jūshīnàjiēluó	Kuśinagara; Kusināra; Kushinagar; Kusinagar; Kusinara	proper noun	城市	City	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: Kuśinagara, Pali: Kusināra; the place where the Buddha passed away and attained Nirvāṇa (FGDB '拘尸那揭羅')	8001726
-8001727	乔达摩	喬達摩	Qiáodámó	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瞿曇 (FGDB '瞿曇')	8001727
+8001726	二顿	二頓	èr dùn	the two immediate ways to enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Defined by 荊溪 Jingxi: 1. 頓頓頓圓 The immediate way to enlightenment of the Huayan and 2. 漸頓漸圓 the immediate way to enlightenment of the Lotus (FGDB '二頓'; SH '二頓', p. 31)	8001726
+8001727	乔达摩	喬達摩	qiáodámó	Gautama; Gotama	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 瞿曇 (FGDB '瞿曇')	8001727
 8001728	摩诃摩耶王后	摩訶摩耶王后	móhē móyē wánghòu	Maya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩耶夫人 Queen Maya of Sakya (FGDB '摩耶夫人')	8001728
 8001729	摩耶夫人	\N	móyē fūren	Queen Maya	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: māyā, Pali: māyā, Japanese: Maya, Tibetan: sgyu 'phrul ma; Queen Maya of Sakya, Sakyamuni Buddha's mother (B 'Māyā', pp. 535-536; Ding '摩耶夫人'; FGDB '摩耶夫人'; SH '摩耶', p. 436)	8001729
 8001730	摩耶	\N	móyē	Maya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 摩耶夫人 Queen Maya of Sakya (FGDB '摩耶夫人')	8001730
@@ -18167,3 +18167,7 @@
 8018167	解脱障	\N	jiětuō zhàng	obstacles to liberation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二障', p. 31)	8018167
 8018168	理障	\N	lǐ zhàng	obstacles to truth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二障', p. 31)	8018168
 8018169	事障	\N	shì zhàng	obstacles of the passions	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '二障', p. 31)	8018169
+8018170	顿顿顿圆	頓頓頓圓	dùn dùn dùn yuán	the immediate way to enlightenment of the Huayan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二頓 the two immediate ways to enlightenment (SH '二頓', p. 31)	8018170
+8018171	顿顿与顿圆	頓頓與頓圓	dùn dùn yǔ dùn yuán	the immediate way to enlightenment of the Huayan	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 頓頓頓圓 (FGDB '二頓')	8018171
+8018172	渐顿渐圆	漸頓漸圓	jiàn dùn jiàn yuán	the immediate way to enlightenment of the Lotus	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二頓 the two immediate ways to enlightenment (SH '二頓', p. 31)	8018172
+8018173	渐顿与渐圆	漸頓與漸圓	jiàn dùn yǔ jiàn yuán	the immediate way to enlightenment of the Lotus	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	漸頓漸圓 (FGDB '二頓')	8018173
