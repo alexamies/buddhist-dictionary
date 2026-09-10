@@ -1054,7 +1054,7 @@
 7001054	天保寺	\N	tiānbǎo sì	 Tianbao Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	The name of a historic temple in Nanjing (BSPAD '天保寺', ID PL000000008805)	7001054
 7001055	法和	\N	fǎhé	Fahe	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Monk from Henan who lived in the Former Qin Kingdom, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (FGDB '法和')	7001055
 7001056	竺僧朗	\N	zhú fǎlǎng	Zhu Falang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Jin dynasty monk from Jingtao 京兆, present-day Xi'an, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (FGDB '竺僧朗')	7001056
-7001057	竺法汰	\N	zhú fǎtài	Zhu Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	320 - 387, Eastern Jin dynasty monk from Shandong, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (FGDB '竺法汰')	7001057
+7001057	竺法汰	\N	zhú fǎtài	Zhu Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	320 - 387, Eastern Jin dynasty monk from Shandong, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (BSAD '竺法汰', Authority ID：A002193; FGDB '竺法汰')	7001057
 7001058	阿若憍怜	阿若憍憐	āruò jiāolián	ājñāta Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (FGDB '憍陳如')	7001058
 7001059	居邻	居鄰	jūlín	Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (FGDB '憍陳如')	7001059
 7001060	居伦	居倫	jūlún	Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (FGDB '憍陳如')	7001060
@@ -8922,7 +8922,6 @@
 7008922	不恶处国	不惡處國	bùèchù guó	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008922
 7008923	致甘露处国	致甘露處國	zhìgānlùchù guó	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008923
 7008924	善胜国	善勝國	shànshèng guó	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008924
-7008924	默竭提	\N	mòjiétí	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008924
 7008925	摩竭揭	\N	mójiéjiē	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008925
 7008926	聪惠国	聰惠國	cōnghuì guó	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008926
 7008927	优楼佉	優樓佉	yōulóuqū	Ulūka	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	Indian orthodox master, patriarch of the Vaisesika school (FGDB '優樓佉')	7008927
@@ -8935,3 +8934,8 @@
 7008934	蹇拏仆	蹇拏僕	jiǎnnápú	Kaṇāda	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優樓佉 (FGDB '優樓佉')	7008934
 7008935	蹇尼陀	\N	jiǎnnítuó	Kaṇāda	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優樓佉 (FGDB '優樓佉')	7008935
 7008936	迦那陀	\N	jiānàtuó	Kaṇāda	proper noun	人	Person	佛教	Buddhism	印度	India	\N	\N	See 優樓佉 (FGDB '優樓佉')	7008936
+7008937	法汰	\N	fǎtài	Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺法汰 (BSAD '竺法汰', Authority ID：A002193; FGDB '竺法汰')	7008937
+7008938	汰公	\N	tài gōng	Master Tai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺法汰 (BSAD '竺法汰', Authority ID：A002193)	7008938
+7008939	默竭提	\N	mòjiétí	Magadha	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 摩揭陀國 (BSPAD '摩揭陀國', ID: PL000000048266)	7008939
+7008940	汰	\N	tài	Tai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺法汰 (BSAD '竺法汰', Authority ID：A002193)	7008940
+7008941	汰法师	汰法師	tài fǎshī	Master Tai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺法汰 (BSAD '竺法汰', Authority ID：A002193)	7008941
