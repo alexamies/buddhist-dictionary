@@ -8313,7 +8313,7 @@
 8008313	不可见有对色	不可見有對色	bù kějiàn yǒu duì sè	imperceptible material things	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '不可見有對色', p. 105)	8008313
 8008314	突瑟几理多	\N	tūsèjǐlǐduō	wrongdoing; misdeed; minor misdeed; duṣkṛta; dukkaṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 突吉羅 (FGDB '突吉羅')	8008314
 8008315	独柯多	獨柯多	dúkēduō	wrongdoing; misdeed; minor misdeed; duṣkṛta; dukkaṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 突吉羅 (FGDB '突吉羅')	8008315
-8008316	式叉迦罗尼	式叉迦羅尼	shìchājiāluóní	wrongdoing; misdeed; minor misdeed; duṣkṛta; dukkaṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 突吉羅 (FGDB '突吉羅')	8008316
+8008316	式叉迦罗尼	式叉迦羅尼	shìchājiāluóní	śikṣākaraṇīya; guidelines for monastics to follow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣākaraṇīya (FGDB '眾學')	8008316
 8008317	库	庫	kù	store; kośa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kośa, Japanese: ko, or: ku (BCSD '庫', p. 428; MW 'kośa'; Unihan '庫')	8008317
 8008318	应当学	應當學	yīngdāngxué	wrongdoing; misdeed; minor misdeed; duṣkṛta; dukkaṭa	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 突吉羅 (FGDB '突吉羅')	8008318
 8008319	心戒	\N	xīn jiè	precepts to prevent evil arising in the mind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the 大乘戒 Mahayana precepts (DDB '心戒'; FGDB '心戒')	8008319
@@ -18254,7 +18254,11 @@
 8018254	十重禁	\N	shí zhòng jìn	ten grave precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十重禁戒 (FGDB '十重禁戒')	8018254
 8018255	十重戒	\N	shí zhòng jiè	ten grave precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十重禁戒 (FGDB '十重禁戒')	8018255
 8018256	十无尽戒	十無盡戒	shí wú jìn jiè	ten grave precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十重禁戒 (FGDB '十重禁戒')	8018256
-8018255	十重	\N	shí zhòng	ten grave precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十重禁戒 (FGDB '十重禁戒')	8018255
-8018256	净智相	淨智相	jìng zhì xiāng	the attribute of pure wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二相 two attributes described in the 起信論 Treatise on the Awakening of Faith in the Mahāyāna (FGDB '二相'; SH '二相', p. 27)	8018256
-8018257	不思议业相	不思議業相	bù sī yì yè xiāng	inconceivably beneficial attributes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二相 two attributes described in the 起信論 Treatise on the Awakening of Faith in the Mahāyāna (FGDB '二相'; SH '二相', p. 27)	8018257
-8018257	不思议用相	不思議用相	bù sī yì yòng xiāng	inconceivably beneficial attributes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 不思議業相 (FGDB '二相'; SH '二相', p. 27)	8018257
+8018257	十重	\N	shí zhòng	ten grave precepts	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 十重禁戒 (FGDB '十重禁戒')	8018257
+8018258	净智相	淨智相	jìng zhì xiāng	the attribute of pure wisdom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二相 two attributes described in the 起信論 Treatise on the Awakening of Faith in the Mahāyāna (FGDB '二相'; SH '二相', p. 27)	8018258
+8018259	不思议业相	不思議業相	bù sī yì yè xiāng	inconceivably beneficial attributes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二相 two attributes described in the 起信論 Treatise on the Awakening of Faith in the Mahāyāna (FGDB '二相'; SH '二相', p. 27)	8018259
+8018260	不思议用相	不思議用相	bù sī yì yòng xiāng	inconceivably beneficial attributes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 不思議業相 (FGDB '二相'; SH '二相', p. 27)	8018260
+8018261	尸沙迦罗尼	尸沙迦羅尼	shīshājiāluóní	śikṣākaraṇīya; guidelines for monastics to follow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣākaraṇīya; see 式叉迦羅尼 (FGDB '眾學')	8018261
+8018262	尸叉罽赖尼	尸叉罽賴尼	shīchājìlàiní	śikṣākaraṇīya; guidelines for monastics to follow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣākaraṇīya; see 式叉迦羅尼 (FGDB '眾學')	8018262
+8018263	式叉羯阑尼	式叉羯闌尼	shìchājiélánní	śikṣākaraṇīya; guidelines for monastics to follow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣākaraṇīya; see 式叉迦羅尼 (FGDB '眾學')	8018263
+8018264	尸叉吉利	\N	shīchājílì	śikṣākaraṇīya; guidelines for monastics to follow	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śikṣākaraṇīya; see 式叉迦羅尼 (FGDB '眾學')	8018264
