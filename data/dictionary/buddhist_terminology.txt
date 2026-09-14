@@ -5652,7 +5652,7 @@
 8005652	游化	遊化	yóuhuà	to travel and teach	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '遊化'; SH '遊化', p. 414)	8005652
 8005653	罽賓人	\N	jìbīnrén	a Kashmiri	noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	(SH '罽賓', p. 461)	8005653
 8005654	行道	\N	xíng dào	to practice the Way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: adhvamarga (BCSD '行道'; FGDB '行道')	8005654
-8005655	羯磨	\N	jiémó	karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma; see 業 (FGDB '業')	8005655
+8005655	羯磨	\N	jiémó	karma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: karma, or: karman; see 業 (BCSD '羯磨', p. 949; FGDB '業')	8005655
 8005656	三世	\N	sān shì	three time periods; past, present, and future	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: tryadhva, or: tryadhvan, Tibetan: dus gsum (FGDB '三世'; Edgerton 1953 'tryadhva', p. 260; MM 'tryadhva')	8005656
 8005657	辞	辭	cí	words; phrase; vāc	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vāc (BCSD '辭', p. 1140; MW 'vāc'; SH '辭', p. 474)	8005657
 8005658	伤	傷	shāng	injured; upahata	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upahata (BCSD '傷', p. 147; MW 'upahata'; SH '傷', p. 395)	8005658
@@ -8870,7 +8870,7 @@
 8008870	火供竈边	火供竈邊	huǒ gōng zào biān	altar for fire rituals; vedikā	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vedikā, Tibetan: kha ran nam kha khyer (BCSD '火供竈邊', p. 748; Mahāvyutpatti 'vedikā'; MW 'vedikā')	8008870
 8008871	火坛	火壇	huǒtán	altar for fire rituals; agnicaya	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: agnikuṇḍa, or: agnicaya (BCSD '火壇', p. 749; FGDB '火壇'; MW 'agnicaya'; SH '火壇', p. 160)	8008871
 8008872	战	戰	zhàn	to battle; yudh	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: yudh, Japanese: sen (BCSD '戰', p. 522; MW 'yudh'; SH '戰', p. 447; Unihan '戰')	8008872
-8008873	布萨	布薩	bùsà	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upoṣadha, Pali: uposatha, Japanese: fusatsu; a fortnightly tradition by the monastic community (BL 'upoṣadha'; Ding '布薩'; FGDB '布薩'; SH '布薩', p. 187)	8008873
+8008873	布萨	布薩	bùsà	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: upoṣadha, or: poṣadha, Pali: uposatha, Japanese: fusatsu, Tibetan: gso sbyong; a fortnightly tradition by the monastic community (BCSD '布薩', p. 417; BL 'upoṣadha'; Ding '布薩'; FGDB '布薩'; Mahāvyutpatti 'poṣadhaḥ'; SH '布薩', p. 187)	8008873
 8008874	优波婆素陀	優波婆素陀	yōubōpósùtuó	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008874
 8008875	优婆娑	優婆娑	yōupósuō	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008875
 8008876	布萨陀婆	布薩陀婆	bùsàtuópó	fortnightly recital of monastic rules and confession; upoṣadha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 布薩 (FGDB '布薩')	8008876
@@ -18266,3 +18266,13 @@
 8018266	异相	異相	yì xiāng	distinct characteristics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the kinds of characteristics in a formulation of 二相 two kinds of characteristics (SH '二相', p. 27)	8018266
 8018267	总相	總相	zǒng xiāng	universal characteristics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the kinds of characteristics in a formulation of 二相 two kinds of characteristics (SH '二相', p. 27)	8018267
 8018268	别相	別相	bié xiāng	particular characteristics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the kinds of characteristics in a formulation of 二相 two kinds of characteristics (SH '二相', p. 27)	8018268
+8018269	五缀钵	五綴鉢	wǔ zhuì bō	bowl with five patches	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	There are three references associated with this: 1. It refers to a bowl repaired at five damaged locations, 2. A monastic precept where a monastic’s bowl is damaged to an extent less than five patches and he seeks a new bowl, he commits an offense. 3. Five methods for fixing leaky iron bowls (FGDB '五綴鉢')	8018269
+8018270	二真如	\N	èr zhēnrú	two kinds of thusness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 二如 (SH '二真如', p. 27)	8018270
+8018271	长食	長食	cháng shí	excessive supllies of food	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The Vinaya forbids monastics keeping excessive supplies of food (FGDB '長食'; SH '長食', p. 264)	8018271
+8018272	二祖断臂	二祖斷臂	èr zǔ duàn bì	the second patriarch cuts off his arm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Huike, the second patriarch of Chan school, famously severed his left arm to demonstrate his unyielding resolve and convince Bodhidharma to accept him as a disciple (SH '二祖斷臂', p. 27)	8018272
+8018273	别请	別請	bié qǐng	special invitation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Refers to a lay person inviting a monastic to receive an offering or a meal, acceptance of which is a transgression (FGDB '別請'; SH '別請', p. 231)	8018273
+8018274	二福	\N	èr fú	two kinds of merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The merit of the heavenly realm and the merit of acting in accordance with the Dharma (FGDB '二福'; SH '二福', p. 27)	8018274
+8018275	恐怖	\N	kǒngbù	fear; bhaya	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: bhaya, Tibetan: 'jigs ['jigs lta] (FGDB '恐怖'; Mahāvyutpatti 'bhairavam'; MW 'bhaya')	8018275
+8018276	二福田	\N	èr fú tián	two fields for the cultivation of merit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One formulation is: 1. 學人田 the field of the student of the way and 2. the field of the adept who has nothing more to learn (FGDB '二福田'; SH '二福田', p. 27)	8018276
+8018277	学人田	學人田	xué rén tián	the field of the student of the way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二福田 two fields for the cultivation of merit (FGDB '二福田'; SH '二福田', p. 27)	8018277
+8018278	无学人田	無學人田	wú xué rén tián	the field of the adept who has nothing more to learn	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 二福田 two fields for the cultivation of merit (FGDB '二福田'; SH '二福田', p. 27)	8018278
