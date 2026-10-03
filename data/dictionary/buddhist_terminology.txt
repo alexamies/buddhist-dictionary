@@ -5985,7 +5985,7 @@
 8005985	庵摩罗果	庵摩羅果	ānmóluóguǒ	mango; āmra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: āmra; see 菴摩羅 (FGDB '菴摩羅果')	8005985
 8005986	经幢	經幢	jīngchuáng	inscription pillar	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '經幢')	8005986
 8005987	莲座	蓮座	liánzuò	lotus throne	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Guoyu '蓮座')	8005987
-8005988	人非人	\N	rén fēi rén	kijnara; human or non-human being	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mythical being in Hindu and Buddhist mythology (FGDB '人非人'; SH '人非人', p. 32)	8005988
+8005988	人非人	\N	rén fēi rén	kiṃnara; human or non-human being	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A mythical being in Hindu and Buddhist mythology (FGDB '人非人'; SH '人非人', p. 32)	8005988
 8005989	浊世	濁世	zhuó shì	the world in chaos	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	During the period of declining Dharma (FGDB '濁世'; SH '濁世', p. 448)	8005989
 8005990	宛	\N	wǎn	crooked; valita	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: valita, Japanese: en (BCSD '宛', p. 378; MW 'valita'; Unihan '宛')	8005990
 8005991	金山	\N	jīnshān	golden mountain	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A reference to the Buddha's body (Guoyu '金山' 3)	8005991
@@ -18295,6 +18295,23 @@
 8018295	摩娑	\N	mósuō	flesh	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māṃsa (MW 'māṃsa'; SH '人莽娑', p. 32)	8018295
 8018296	师资	師資	shī zī	master and disciple	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '師資')	8018296
 8018297	人药王子	人藥王子	rén yào wángzǐ	Medicine Prince	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A previous life of Śākyamuni (FGDB '人藥王子'; SH '人藥王', p. 140)	8018297
-8018298	人药王	人藥王	rén yào wáng	Medicine Prince	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 人藥王子 (SH '人藥王', p. 140)	8018298
+8018298	人药王	人藥王	rén yào wáng	Medicine Prince	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 人藥王子 (SH '人藥王', p. 32)	8018298
 8018299	法苑	\N	fǎ yuàn	Dharma garden	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '法苑', p. 272)	8018299
 8018300	人身牛	\N	rén shēn niú	cattle in human form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '人身牛'; SH '人身牛', p. 32)	8018300
+8018301	分破空	\N	fēn pò kōng	emptiness through analysis of phenomena	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	A Tiantai topic of discussion (FGDB '分破空')	8018301
+8018302	人头幢	人頭幢	rén tóu chuáng	a staff with a human head	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; one of Yama's symbols, see also 檀拏 (FGDB '檀拏'; SH '人頭幢', p. 32)	8018302
+8018303	檀拏	\N	tánná	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa, Pali: daṇḍa; one of Yama's symbols, often with a human head at the top (FGDB '檀拏'; MW 'daṇḍa'; SH '人頭幢', p. 32)	8018303
+8018304	檀荼	\N	tántú	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018304
+8018305	檀陀	\N	tántuó	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018305
+8018306	但荼	\N	dàntú	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018306
+8018307	单驮	單馱	dānduò	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018307
+8018308	单拏	單拏	dānná	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018308
+8018309	娜拏	\N	nàná	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018309
+8018310	难拏	難拏	nánná	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018310
+8018311	檀拏幢	\N	tánná chuáng	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018311
+8018312	檀拏棓	\N	tánná bàng	daṇḍa; staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018312
+8018313	宝杖	寶杖	bǎozhàng	staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018313
+8018314	策杖	\N	cèzhàng	staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018314
+8018315	棒棓	\N	bàngbàng	staff	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018315
+8018316	人头棒	人頭棒	rén tóu bàng	a staff with a human head	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018316
+8018317	骷髅杖	骷髏杖	kūlóu zhàng	a staff with a human skull	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: daṇḍa; see 檀拏 (FGDB '檀拏')	8018317
