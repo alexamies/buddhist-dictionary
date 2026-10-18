@@ -10139,7 +10139,7 @@
 10139	钞票	鈔票	chāopiào	a bank note; paper money	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '钞票'; CCD '钞票'; FE '鈔票'; Guoyu '钞票'; Mathews 1931 '钞票', p. 31)	10139
 10140	车票	車票	chēpiào	ticket; bus ticket; train ticket	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '車票'; Guoyu '車票'; Mathews 1931 '車票', p. 34)	10140
 10141	影碟	\N	yǐngdié	CD; DVD	noun	\N	\N	计算机科学	Computer Science	存储	Storage	\N	\N	(CC-CEDICT '影碟'; Guoyu '影碟')	10141
-10142	章	\N	zhāng	clause	measure word	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zhang1.mp3	(CCD 1 '章' 3, p. 2416; Guoyu '章' n 3; Mathews 1931 '章', p. 19)	6709
+10142	章	\N	zhāng	clause	measure word	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zhang1.mp3	(CCD 1 '章' 3, p. 2416; Guoyu '章' n 3; Hanyu Dacidian '章' 8, vol. 8, pp. 380-381; Mathews 1931 '章', p. 19)	6709
 10143	枪声	槍聲	qiāngshēng	gunshot	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '槍聲')	10143
 10144	哭声	哭聲	kūshēng	sound of weeping	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '哭聲')	10144
 10145	笛子	\N	dízi	flute	noun	\N	\N	现代汉语	Modern Chinese	音乐	Music	\N	\N	(CC-CEDICT '笛子'; Guoyu '笛子')	10145
@@ -13866,7 +13866,7 @@
 13866	自信	\N	zìxìn	confident	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zi4xin4.mp3	(CC-CEDICT '自信'; Guoyu '自信')	4951
 13867	自言自语	自言自語	zì yán zì yǔ	talk to oneself; to think aloud; to soliloquize	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '自言自語'; CCI p. 24; Guoyu '自言自語')	13867
 13868	自愿	自願	zìyuàn	voluntary	adjective	\N	\N	现代汉语	Modern Chinese	慈善会	Charity	\N	\N	(CC-CEDICT '自願'; Guoyu '自願')	13868
-13869	自治	\N	zìzhì	to be autonomous	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '自治'; Guoyu '自治' 1)	13869
+13869	自治	\N	zìzhì	autonomous	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '自治'; Guoyu '自治' 1; Mathews 1931 '自治', p. 141)	13869
 13870	宗派	\N	zōngpài	sect; faction; school	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '宗派')	13870
 13871	总	總	zǒng	to sum up	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zong3.mp3	In the sense of 总括 (CCD '总' 1)	874
 13872	总	總	zǒng	in general	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zong3.mp3	In the sense of 概括 (CCD '总' 3; GHDC '总' 2). For example in literary Chinese, 總說有二種 'Generally speaking, there are two kinds' (T 1666, Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論).	874
@@ -33193,19 +33193,19 @@
 33193	颇	頗	pǒ	very; extremely	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 甚 or 很 (Guoyu '頗' pǒ adv 2)	6708
 33194	颇	頗	pǒ	should not	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 不可 (Guoyu '頗' pǒ adv 4)	6708
 33195	叵	\N	pǒ	not; is not possible	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	An uncommon contraction of 不可; for example, 子盍為我言之？'Had you not better tell him this for me?' (Pulleyblank 1995, p. 106; Unihan '叵'; Mengzi: 4.10/23/23, translation by Legge)	33195
-33196	章	\N	zhāng	a stanza; a song	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	zhang1.mp3	(Mathews 1931 '章', p. 18)	6709
-33197	章	\N	zhāng	a decorative pattern; an embroidered pattern; an ornament	noun	\N	\N	艺术	Art	\N	\N	\N	zhang1.mp3	(FE '章' 5, p. 1007; Mathews 1931 '章', p. 19)	6709
-33198	章	\N	zhāng	a rule; a regulation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zhang1.mp3	Synonymous with 规章 (CCD 1 '章' 4, p. 2416; FE '章' 2, p. 1007; Guoyu '章' n 6; Mathews 1931 '章', p. 19; XHZD '章' 3, p. 955)	6709
-33199	章	\N	zhāng	a seal; a stamp	noun	\N	\N	艺术	Art	\N	\N	\N	zhang1.mp3	Synonymous with 印章 (CCD 2 '章' 1, p. 2416; FE '章' 3, p. 1007; Guoyu '章' n 7; Mathews 1931 '章', p. 19; XHZD '章' 4, p. 955)	6709
-33200	章	\N	zhāng	a badge; an emblem; an insignia	noun	\N	\N	艺术	Art	\N	\N	\N	zhang1.mp3	Synonymous with 标识; as in 徽章 (CCD 2 '章' 2, p. 2416; FE '章' 3, p. 1007; Guoyu '章' n 8; Mathews 1931 '章', p. 19; XHZD '章' 5, p. 955)	6709
-33201	章	\N	zhāng	a memorial presented to the emperor	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	zhang1.mp3	Synonymous with 徽章 (CCD 1 '章' 5, p. 2416; Guoyu '章' n 2; Mathews 1931 '章', p. 19; XHZD '章' 2, p. 955)	6709
+33196	章	\N	zhāng	a stanza; a song	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Dacidian '章' 6, vol. 8, pp. 380-381; Mathews 1931 '章', p. 18)	6709
+33197	章	\N	zhāng	a decorative pattern; an embroidered pattern; an ornament	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 花纹 (FE '章' 5, p. 1007; Hanyu Dacidian '章' 2, vol. 8, p. 380; Mathews 1931 '章', p. 19)	6709
+33198	章	\N	zhāng	a rule; a regulation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Synonymous with 规章 (CCD 1 '章' 4, p. 2416; FE '章' 2, p. 1007; Guoyu '章' n 6; Mathews 1931 '章', p. 19; XHZD '章' 3, p. 955)	6709
+33199	章	\N	zhāng	a seal; a stamp	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Synonymous with 印章 (CCD 2 '章' 1, p. 2416; FE '章' 3, p. 1007; Guoyu '章' n 7; Hanyu Dacidian '章' 18, vol. 8, pp. 380-381; Mathews 1931 '章', p. 19; XHZD '章' 4, p. 955)	6709
+33200	章	\N	zhāng	a badge; an emblem; an insignia	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Synonymous with 标识; as in 徽章 (CCD 2 '章' 2, p. 2416; FE '章' 3, p. 1007; Guoyu '章' n 8; Hanyu Dacidian '章' 4, vol. 8, pp. 380-381; Mathews 1931 '章', p. 19; XHZD '章' 5, p. 955)	6709
+33201	章	\N	zhāng	a memorial presented to the emperor	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CCD 1 '章' 5, p. 2416; Guoyu '章' n 2; Hanyu Dacidian '章' 15, vol. 8, pp. 380-381; Mathews 1931 '章', p. 19; XHZD '章' 2, p. 955)	6709
 33202	奏章	\N	zòuzhāng	a memorial	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A report presented by an official to the emperor (Guoyu '奏章'; Mathews 1931 '奏章', p. 19)	33202
 33203	臣下	\N	chénxià	an official in feudal court	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Used by the offiical when addressing the ruler (CC-CEDICT '臣下'; Mathews 1931 '臣下', p. 40)	33203
 33204	呈给	呈給	chénggěi	to give; to hand	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	33204
 33205	章	\N	zhāng	literary talent	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	zhang1.mp3	In the sense of 文采 (Guoyu '章' n 4)	6709
 33206	彰明	\N	zhāngmíng	to show clearly; to make public	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '彰明', p. 19)	33206
 33207	昭彰	\N	zhāozhāng	to make known; to reveal	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 显著 (Guoyu '昭彰' 1; Mathews 1931 '昭彰', p. 28)	33207
-33208	章	\N	zhāng	to commend; to praise	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	zhang1.mp3	(Guoyu '章' v)	6709
+33208	章	\N	zhāng	to commend; to praise	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 表彰 (Guoyu '章' v; Hanyu Dacidian '章' 12, vol. 8, pp. 380-381)	6709
 33209	条理化	條理化	tiáolǐhuà	to make systematic	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	33209
 33210	臂章	\N	bìzhāng	a shoulder emblem	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '臂章')	33210
 33211	句	\N	gōu	to bend; to strike; to catch	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 勾 (Kroll 2015 '句')	6711
@@ -42928,7 +42928,7 @@
 42928	繖	\N	sǎn	a parachute	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Variant of 傘 (Unihan '繖')	42927
 42929	磉	\N	sǎng	the stone base or plinth of a pillar	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '磉')	42929
 42930	椑	\N	bēi	an oval	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '椑')	42930
-42931	嫜	\N	zhāng	zhang	phonetic	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '嫜')	42931
+42931	嫜	\N	zhāng	husband's father	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 姑嫜 (CC-CEDICT '嫜'; Guoyu '嫜'; Unihan '嫜')	42931
 42932	𣎑	臗	kuān	thigh bone	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '臗' n; Unihan '臗')	42932
 42933	蘅	\N	héng	a fragrant plant the root is medicinal	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '蘅')	42933
 42934	曒	\N	jiǎo	jiao	phonetic	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '曒')	42934
@@ -62283,11 +62283,11 @@
 62283	湛	\N	zhàn	Zhan	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(CCD '湛' 2, p. 2414; FE '湛' 3, p. 795; Guoyu '湛' n)	18211
 62284	湛	\N	dān	happy; joyful	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 快乐 (Guoyu '湛' dān)	18211
 62285	泉	\N	quán	wealth; money	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '泉')	8783
-62286	盈	\N	yíng	to be full	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 满 (Guoyu '盈' v 2; Unihan '盈')	6368
-62287	盈	\N	yíng	to add	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 增加 (Guoyu '盈' v 1)	6368
-62288	盈	\N	yíng	overflowing	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 过多 (Guoyu '盈' adj 1; Unihan '盈')	6368
-62289	盈	\N	yíng	proud; arrogant	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 骄傲 (Guoyu '盈' adj 2)	6368
-62290	盈	\N	yíng	rich; plentiful	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 丰富 (Guoyu '盈' adj 3)	6368
+62286	盈	\N	yíng	to be full	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 满 (Guoyu '盈' v 2; Hanyu Dacidian '盈' 1, vol. 7, p. 1417; Unihan '盈')	6368
+62287	盈	\N	yíng	to add	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 增加 (Guoyu '盈' v 1; Hanyu Dacidian '盈' 6, vol. 7, p. 1417)	6368
+62288	盈	\N	yíng	to overflow; to exceed	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 过多 (Guoyu '盈' adj 1; Hanyu Dacidian '盈' 8, vol. 7, p. 1417; Unihan '盈')	6368
+62289	盈	\N	yíng	proud; arrogant	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 骄傲 (Guoyu '盈' adj 2; Hanyu Dacidian '盈' 11, vol. 7, p. 1417)	6368
+62290	盈	\N	yíng	rich; plentiful	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 丰富 (Guoyu '盈' adj 3; Hanyu Dacidian '盈' 3, vol. 7, p. 1417)	6368
 62291	湛湛	\N	zhànzhàn	dense and deep; important	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As in 浓重 (Guoyu '湛湛' 1; Mathews 1931 '湛湛', p. 15)	62291
 62292	流出	\N	liúchū	to flow out	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '流出'; Guoyu '流出')	62292
 62293	体悟	體悟	tǐwù	to experience; to realize; to comprehend	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '體悟'; Guoyu '體悟')	62293
@@ -71837,7 +71837,7 @@
 71837	大帝	\N	dàdì	heavenly emperor; the Great (title)	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '大帝')	71837
 71838	麦秋	麥秋	mài qiū	harvest season	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '麥秋')	71838
 71839	看热闹	看熱鬧	kàn rènào	to enjoy watching a bustling scene; to go where the crowds are	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '看熱鬧')	71839
-71840	治罪	\N	zhìzuì	to punish for a crime	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '治罪')	71840
+71840	治罪	\N	zhì zuì	to punish for a crime	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '治罪'; Guoyu '治罪'; Mathews 1931 '治罪', p. 141)	71840
 71841	孑遗	孑遺	jiéyí	remnants; relics	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '孑遺'; Guoyu '孑遺'; Mathews 1931 '孑遺', p. 106)	71841
 71842	塞耳	\N	sāi'ěr	earplug; earwax	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '塞耳')	71842
 71843	危迫	\N	wēipò	urgent; pressing danger	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '危迫')	71843
@@ -77263,7 +77263,7 @@
 77263	公权利	公權利	gōng quánlì	public rights	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '公權利')	77263
 77264	改革运动	改革運動	gǎigé yùndòng	reform movement	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '改革')	77264
 77265	治世	\N	zhìshì	Taiping period	proper noun	时代	Period	历史	History	中国	China	\N	\N	In the sense of 太平時代 (Guoyu '治世' 1)	77265
-77266	治世	\N	zhìshì	administration of state affairs	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '治世' 2)	77265
+77266	治世	\N	zhì shì	peaceful administration of state affairs	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '治世' 2; Mathews 1931 '治世', p. 141)	77265
 77267	搴	\N	qiān	to extract; to pull; to select	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '搴'; Guoyu '搴' v 1; Kroll 2015 '搴' 1, p. 359; Unihan '搴')	36200
 77268	搴	\N	qiān	to gather up; to hold up the hem of clothes	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 褰 (CC-CEDICT '搴'; Guoyu '搴' v 3; Kroll 2015 '搴' 2, p. 359; Unihan '搴')	36200
 77269	搴	\N	qiān	Qian	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(Guoyu '搴' n)	36200
@@ -90603,7 +90603,7 @@
 90603	五凉	五涼	wǔliáng	the five Liang	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Of the Sixteen Kingdoms, namely: Former Liang 前凉 314-376, Later Liang 後凉 386-403, Northern Liang 北凉 398-439, Southern Liang 南涼 397-414, Western Liang 西凉 400-421 (CC-CEDICT '五涼')	90603
 90604	荫蔽	蔭蔽	yìnbì	to be shaded or concealed by foliage; to conceal; hidden; covert; shade (of a tree)	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '蔭蔽')	90604
 90605	葱翠	蔥翠	cōngcuì	fresh green	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '蔥翠')	90605
-90606	处治	處治	chùzhì	to punish; to handle; to deal with	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '處治')	90606
+90606	处治	處治	chù zhì	to punish	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '處治'; Guoyu '處治' 1; Mathews 1931 '處治', p. 141)	90606
 90607	雅爱	雅愛	yǎài	your great kindness	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '雅愛')	90607
 90608	媒合	\N	méihé	to match up	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Employers and jobseekers, men and women seeking a partner, blind people and guide dogs etc (CC-CEDICT '媒合')	90608
 90609	商贩	商販	shāngfàn	trader; peddler	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '商販')	90609
@@ -92992,7 +92992,7 @@
 92992	粮行	糧行	liángxíng	grain retailer (in former times)	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '糧行')	92992
 92993	宜君县	宜君縣	yíjūn xiàn	Yijun County	proper noun	县	County	地方	Places	中国	China	\N	\N	In Tongchuan 铜川, Shaanxi (CC-CEDICT '宜君縣')	92993
 92994	脚夫	腳夫	jiǎofū	porter; bearer	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '腳夫')	92994
-92995	治死	\N	zhìsǐ	to put to death	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '治死')	92995
+92995	治死	\N	zhì sǐ	to put to death	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '治死'; Guoyu '治死'; Mathews 1931 '治死', p. 141)	92995
 92996	太湖县	太湖縣	tàihú xiàn	Taihu county	proper noun	县	County	地方	Places	中国	China	\N	\N	In Anqing 安庆, Anhui (CC-CEDICT '太湖縣')	92996
 92997	雀子	\N	quèzǐ	a freckle; lentigo	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '雀子')	92997
 92998	茹荤饮酒	茹葷飲酒	rúhūnyǐnjiǔ	to eat meat and drink wine	verb	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '茹葷飲酒')	92998
@@ -112753,7 +112753,7 @@
 112753	风角	風角	fēngjiǎo	the sound of a flute	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '風角' 2)	112752
 112754	笛	\N	dí	a whistle	noun	\N	\N	文言文	Literary Chinese	音乐	Music	\N	\N	(Unihan '笛')	8328
 112755	章	\N	zhāng	order	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	zhang1.mp3	(CCD 1 '章' 3, p. 2416; Guoyu '章' n 5)	6709
-112756	章	\N	zhāng	to make known; to display	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(FE '章' 4, p. 1007; Mathews 1931 '章', p. 19)	6709
+112756	章	\N	zhāng	to make known; to display	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 显示 (FE '章' 4, p. 1007; Hanyu Dacidian '章' 11, vol. 8, pp. 380-381; Mathews 1931 '章', p. 19)	6709
 112757	下笔成章	下筆成章	xià bǐ chéng zhāng	to put a pen to paper and immediately produce a composition	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	Of somebody very good at creative writing (Guoyu '下筆成章')	112757
 112758	下笔成篇	下筆成篇	xiàbǐchéngpiān	to put a pen to paper and immediately produce a composition	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	A variant of 下笔成章 (Guoyu '下筆成篇')	112758
 112759	走笔成章	走筆成章	zǒubǐchéngzhāng	to rapidly write a composition	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	A variant of 下笔成章 (Guoyu '走筆成章')	112759
@@ -128255,7 +128255,7 @@
 128255	油麦	油麥	yóumài	naked oat	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '油麥')	128255
 128256	油麦菜	油麥菜	yóumàicài	Indian lettuce	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '油麥菜')	128256
 128257	油黑	\N	yóuhēi	glossy black	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '油黑')	128257
-128258	治下	\N	zhìxià	under the jurisdiction of	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '治下')	128258
+128258	治下	\N	zhì xià	under the jurisdiction of	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '治下'; Guoyu '治下'; Mathews '治下')	128258
 128259	治疗炎症	治療炎症	zhìliáo yánzhèng	anti-inflammatory	set phrase	\N	\N	现代汉语	Modern Chinese	医学	Medicine	\N	\N	(CC-CEDICT '治療炎症')	128259
 128260	沼泽地带	沼澤地帶	zhǎozédì dài	marsh; swamp; everglade	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '沼澤地帶')	128260
 128261	沾染控制	\N	zhānrǎn kòngzhì	contamination control	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '沾染控制')	128261
@@ -169216,4 +169216,44 @@
 169216	数	數	shǔ	to enumerate	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 数说 (Hanyu Dacidian '數' shǔ 5, vol. 5, p. 506-507)	2818
 169217	数	數	shǔ	to distinguish	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 分辨 (Hanyu Dacidian '數' shǔ 8, vol. 5, p. 506-507)	2818
 169218	数	數	shuò	to be close to	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 亲近 (Hanyu Dacidian '數' shuò 2, vol. 5, p. 506-507)	2818
-169219	数	數	shuò	fast	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 速 (Hanyu Dacidian '數' shuò 3, vol. 5, p. 506-507)	2818
+169219	数	數	shuò	fast; quick	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 速 (Hanyu Dacidian '數' shuò 3, vol. 5, p. 506-507)	2818
+169220	治经	治經	zhì jīng	to study the classics	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '治經', p. 141)	169220
+169221	盈	\N	yíng	enough; sufficient	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 足够 (Hanyu Dacidian '盈' 2, vol. 7, p. 1417)	6368
+169222	盈	\N	yíng	perfect	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 圆满 (Hanyu Dacidian '盈' 4, vol. 7, p. 1417)	6368
+169223	盈	\N	yíng	prosperous	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 旺盛 (Hanyu Dacidian '盈' 5, vol. 7, p. 1417)	6368
+169224	盈	\N	yíng	many	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 众多 (Hanyu Dacidian '盈' 7, vol. 7, p. 1417)	6368
+169225	盈	\N	yíng	to rise	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 上涨 (Hanyu Dacidian '盈' 9, vol. 7, p. 1417)	6368
+169226	盈	\N	yíng	to be excessive	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 过分 (Hanyu Dacidian '盈' 10, vol. 7, p. 1417)	6368
+169227	盈	\N	yíng	Ying	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(Hanyu Dacidian '盈' 13, vol. 7, p. 1417)	6368
+169228	治县	治縣	zhì xiàn	to administer a county	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '治縣', p. 141)	169228
+169229	盈数	盈數	yíng shù	a round number; ten, one hundred, or ten thousand	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Dacidian '盈數', vol. 7, p. 1420)	169229
+169230	治行装	治行裝	zhì xíngzhuāng	to pack luggage	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '治行裝', p. 141)	169230
+169231	八维	八維	bā wéi	eight cardinal directions	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '八維')	169231
+169232	八维	八維	bā wéi	eight dimensions	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '八维空间')	169231
+169233	治身	\N	zhì shēn	physical training	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '治身', p. 141)	169233
+169234	治躬	\N	zhì gōng	physical training	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '治躬'; Mathews 1931 '治躬', p. 141)	169234
+169235	迂诞	迂誕	yū dàn	exaggeration beyond belief	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '迂誕')	169235
+169236	治狱	治獄	zhì yù	to punish in a criminal case	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '治獄', p. 141)	169236
+169237	章	\N	zhāng	an institution	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 典章 (Hanyu Dacidian '章' 1, vol. 8, p. 380)	6709
+169238	章	\N	zhāng	a banner	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 旌旗 (Hanyu Dacidian '章' 5, vol. 8, pp. 380-381)	6709
+169239	章	\N	zhāng	a stage of development	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Dacidian '章' 7, vol. 8, pp. 380-381)	6709
+169240	章	\N	zhāng	an impressive achievement	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Dacidian '章' 9, vol. 8, pp. 380-381)	6709
+169241	章	\N	zhāng	to contain	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 盛 (Hanyu Dacidian '章' 10, vol. 8, pp. 380-381)	6709
+169242	章	\N	zhāng	clear; obvious	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 明显 (Hanyu Dacidian '章' 13, vol. 8, pp. 380-381)	6709
+169243	章	\N	zhāng	to distinguish	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 区分 (Hanyu Dacidian '章' 14, vol. 8, pp. 380-381)	6709
+169244	章	\N	zhāng	timber; lumber	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 大木材 (Hanyu Dacidian '章' 19, vol. 8, pp. 380-381)	6709
+169245	章	\N	zhāng	a ritual cap	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	An abbreviation for 章甫 (Hanyu Dacidian '章' 20, vol. 8, pp. 380-381)	6709
+169246	章	\N	zhāng	ritual dress	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	An abbreviation for 章服 (Hanyu Dacidian '章' 21, vol. 8, pp. 380-381)	6709
+169247	章	\N	zhāng	memorial script	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	An abbreviation for 章草 (Hanyu Dacidian '章' 22, vol. 8, pp. 380-381)	6709
+169248	章	\N	zhāng	a river deer	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 獐 (Hanyu Dacidian '章' 23, vol. 8, pp. 380-381)	6709
+169249	章	\N	zhāng	camphor tree	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 樟 (Hanyu Dacidian '章' 24, vol. 8, pp. 380-381)	6709
+169250	章	\N	zhāng	husband's father	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 嫜 (Hanyu Dacidian '章' 25, vol. 8, pp. 380-381)	6709
+169251	章	\N	zhāng	an obstruction	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 障 (Hanyu Dacidian '章' zhàng, vol. 8, pp. 380-381)	6709
+169252	治辩	\N	zhì biàn	to argue a case in court	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Mathews 1931 '治辩', p. 141)	169252
+169253	章亥	\N	zhāng hài	Dazhang and Shuhai	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Refers to the legendary figures 大章 and 竖亥 (Hanyu Dacidian '章亥', vol. 8, p. 382)	169253
+169254	处治	處治	chù zhì	to handle; to deal with	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '處治'; Guoyu '處治' 2)	90606
+169255	大咸	\N	dàxián	Daxian	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A legendary musician (Wikipedia '大咸')	169255
+169256	咸池	\N	xiánchí	Xianchi	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 大咸 (Wikipedia '大咸')	169256
+169257	大章	\N	dàzhāng	Dazhang	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 大咸 (Wikipedia '大咸')	169257
+169258	治功	\N	zhì gōng	meritorious service to the state	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '治功'; Mathews 1931 '治功', p. 141)	169258
+169259	竖亥	豎亥	shùhài	Shuhai	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A legendary character mentioned in the 山海经 Classic of Mountains and Seas (Wikipedia '海外东经')	169259
