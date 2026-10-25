@@ -316,7 +316,7 @@
 8000316	三昧地	\N	sānmèidì	samadhi	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: samādhi; see 三昧 (FGDB '三昧')	8000316
 8000317	三法印	\N	sān fǎ yìn	Three Dharma Seals	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmamudrā, Pali: dhammamuddā, Japanese: hōin, Tibetan: chos rtags kyi phyag rgya; the Three Dharma Seals are 無常 anitya 'impermanence', 無我 anātman 'non-self', and 涅盘 Nirvāṇa (BL 'dharmamudrā', p. 248; FGDB '三法印'; SH '三法印', p. 69; Tzu Chuang 2012, pp. 75-77)	8000317
 8000318	菩提达磨	菩提達磨	pútídámó	Bodhidharma	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bodhidharma, Japanese: Bodaidaruma; often called simply 达摩, was First Patriarch of the Chan (Zen) School of Buddhism (BL 'Bodhidharma'; FGDB '菩提達磨', p. 132; SH '菩提達磨', p. 389; Wikipedia '菩提达摩')	8000318
-8000319	达磨	達磨	dámó	Bodhidharma	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	See 菩提達磨 (Wikipedia '菩提达摩')	8000319
+8000319	达磨	達磨	dámó	dharma	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharma(BCSD '達磨')	8000319
 8000320	佛学	佛學	fóxué	study from the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Especially, to study the 八正道 noble eightfold path (FGDB '佛學' 2)	8000320
 8000321	法身	\N	fǎshēn	Dharma Body	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dharmakāya, Japanese: hosshin, Tibetan: chos kyi sku; Truth body is the unmanifested, inconceivable aspect of a Buddha, as opposed to the Buddha's historic form as a person (BL 'dharmakāya', p. 246; FGDB '法身'; NW 'dharmakāya'; Powers 2007, p. 130; Shambhala 'trikāya')	8000321
 8000322	三身	\N	sān shēn	Trikaya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: trikāya, Japanese: sanshin, Tibetan: sku gsum; the doctrine teaches that a Buddha has three bodies: the nirmanakaya, which manifests in time and space, the sambhogakaya or body of bliss or clear light, and the Dharmakaya or Truth body (BL 'trikāya', p. 923; FGDB '三身', SH '三身', p. 77; Shambhala 'trikāya')	8000322
@@ -439,7 +439,7 @@
 8000439	沙弥	沙彌	shāmí	Sramanera; a novice Buddhist monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: śrāmaṇera, Pali: sāmaṇera, Japanese: shami, Tibetan: dge tshul (BCSD '沙彌', p. 711; BL 'śrāmaṇera'; FGDB '沙彌'; Matsuo 2007, p. 23; SH '沙彌', p. 242; Tzu Chuang 2012, p. 314)	8000439
 8000440	室末那伊洛迦	\N	shìmònàyīluòjiā	sramanera	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙彌 (SH '沙彌', p. 242)	8000440
 8000441	室罗摩尼罗	室羅摩尼羅	shìluómóníluó	sramanera	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 沙彌 (SH '沙彌', p. 242)	8000441
-8000442	富楼那	富樓那	fùlóunà	Purna; Punna	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrna, Pali: punna, Japanese: Furuna; one of the ten great disciples of the Buddha (Tzu Chuang 2012; FGDB '富樓那'; JEBD 'Furuna')	8000442
+8000442	富楼那	富樓那	fùlóunà	Purna; Pūrṇa; Punna	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pūrṇa, Pali: puṇṇa, Japanese: Furuna; one of the ten great disciples of the Buddha (Tzu Chuang 2012; FGDB '富樓那'; JEBD 'Furuna')	8000442
 8000443	神通	\N	shéntōng	a spiritual power; a supernatural power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhiññā, Pali: abhiññā, J. jinzū, Tibetan: mngon shes (BL 'abhijñā'; FGDB '神通'; SH '神通', p .335; Tzu Chuang 2012, pp. 324-326)	8000443
 8000444	阿难陀	阿難陀	Ānántuó	Ananda; Ānanda	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ānanda; see 阿難 (BCSD, p. 1209; FGDB '阿難')	8000444
 8000445	本初佛	\N	běnchū fó	primordial buddha; adibuddha	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ādibuddha, Japanese: honshobutsu, Tibetan: dang po'i sangs rgy as, or: ye nas sangs rgy as (BL 'ādibuddha', pp. 17-18; FGDB '本初佛'; Powell 2007, p. 367)	8000445
@@ -8284,10 +8284,10 @@
 8008284	侍者巡铺	侍者巡鋪	shìzhě xúnpū	daizhi xun pu; the attendant and the hut	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	A Chan koan (FGDB '侍者巡鋪')	8008284
 8008285	广说	廣說	guǎngshuō	to explain; to teach	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: vistara; in the sense of 宣說 (BCSD '廣說', p. 431; Ding '廣說'; Ding '四種廣說'; MW 'vistara')	8008285
 8008286	幻	\N	huàn	illusion; māyā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: māyā, Pali: māyā, Japanese: gen (BCSD '幻', p. 425; Edgerton 1953 'māyā', p. 430; MW 'māyā'; SH '幻', p. 149; Unihan '幻')	8008286
-8008287	四种广说	四種廣說	sì zhǒng guǎngshuō	four kinds of explaination; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四種廣說'; FGDB '四種廣說')	8008287
-8008288	四种墨印	四種墨印	sì zhǒng mòyìn	four kinds of explaination; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (FGDB '四種廣說')	8008288
-8008289	四大广说	四大廣說	sì dà guǎngshuō	four kinds of explaination; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (FGDB '四種廣說')	8008289
-8008290	四大教法	\N	sì dà jiāofǎ	four kinds of explaination; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (FGDB '四種廣說')	8008290
+8008287	四种广说	四種廣說	sì zhǒng guǎngshuō	four kinds of explanation; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '四種廣說'; FGDB '四種廣說')	8008287
+8008288	四种墨印	四種墨印	sì zhǒng mòyìn	four kinds of explanation; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (FGDB '四種廣說')	8008288
+8008289	四大广说	四大廣說	sì dà guǎngshuō	four kinds of explanation; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (FGDB '四種廣說')	8008289
+8008290	四大教法	\N	sì dà jiāofǎ	four kinds of explanation; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (FGDB '四種廣說')	8008290
 8008291	幼	\N	yòu	young; dahara	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: dahara, Japanese: you, or: yū (BCSD '幼', p. 426; MW 'dahara'; Unihan '幼')	8008291
 8008292	增上	\N	zēngshàng	additional; increased; superior	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '增上'; FGDB '增上'; SH '增上')	8008292
 8008293	东方阿閦佛	東方阿閦佛	dōngfāng achù fó	Akṣobhya; Aksobhya Buddha	proper noun	佛	Buddha	佛教	Buddhism	\N	\N	\N	\N	See 阿閦佛 (FGDB '阿閦佛')	8008293
@@ -8471,7 +8471,7 @@
 8008471	意处	意處	yìchù	mental basis of cognition	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 十二處 'twelve bases of cognition' (Ding '意處'; SH '意處', p. 400)	8008471
 8008472	待	\N	dài	dependence on; apekṣā	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: apekṣā, Japanese: tai, or: dai (BCSD '待', p. 443; MW 'apekṣā'; SH '待', p. 301; Unihan '待')	8008472
 8008473	婆罗	婆羅	póluó	pāla; warden; keeper; guardian	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāla (Ding '婆羅'; FGDB '婆羅'; SH '婆羅', p. 346)	8008473
-8008474	婆罗	婆羅	póluó	bāla; power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla (Ding '婆羅'; FGDB '婆羅'; SH '婆羅', p. 346)	8008473
+8008474	婆罗	婆羅	póluó	bāla; power	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bāla, or: bala (BCSD '婆羅', p. 365; Ding '婆羅'; FGDB '婆羅'; SH '婆羅', p. 346)	8008473
 8008475	欲界系	欲界繫	yùjièxì	bonds of the desire realm	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	繫 is used in the sense of 繫縛 'fetter' (Ding '欲界繫'; FGDB '欲界繫')	8008475
 8008476	后	後	hòu	rear; paścāt	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Traditional: 後, Sanskrit equivalent: paścāt, Japanese: go, or: kou (BCSD '後', p. 443; Dhammajoti 2013, p. 392; MW 'paścāt'; SH '後', p. 301; )	8006848
 8008477	外空	\N	wàikōng	emptiness external to the body	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bahirdhā śūnyatā, Tibetan: phyi stong pa nyid; one of the 十八空 'eighteen kinds of emptiness' or 二十空 'twenty kinds of emptiness' (Ding '外空'; FGDB '外空'; Mahāvyutpatti 'bahirdhā śūnyatā')	8008477
@@ -18133,7 +18133,7 @@
 8018133	二超	\N	èr chāo	two ways of crossing over	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	豎超 Crossing over lengthwise and 橫超 crossing over sideways (FGDB '二雙四重'; SH '二超', p. 135)	8018133
 8018134	竖超	豎超	shù chāo	crossing over lengthwise	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The long way of Hīnayāna, one of the 二超 two ways of crossing over (FGDB '二雙四重'; SH '二超', p. 135)	8018134
 8018135	横超	橫超	héng chāo	crossing over sideways	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The short way of Mahāyāna, one of the 二超 two ways of crossing over (FGDB '二雙四重'; SH '二超', p. 135)	8018135
-8018136	四说	四說	sì shuō	four kinds of explaination; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (Ding '四種廣說'; FGDB '四種廣說')	8018136
+8018136	四说	四說	sì shuō	four kinds of explanation; the four teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四種廣說 (Ding '四種廣說'; FGDB '四種廣說')	8018136
 8018137	二足	\N	èr zú	two legs	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Virtue and wisdom (FGDB '二足'; SH '二足', p. 30)	8018137
 8018138	四非常	\N	sì fēicháng	four kinds of impermanence	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 四無常偈 (FGDB '四無常偈')	8018138
 8018139	四无常偈	四無常偈	sì wúcháng jì	Gatha on the Four Kinds of Impermanence	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A gatha about 無常 impermanence, 苦 suffering, 空 emptiness, and無我 non-self (FGDB '四無常偈')	8018139
@@ -18356,3 +18356,19 @@
 8018356	六欲	\N	liù yù	the six heavens of the Desire Realm	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 六欲天 (FGDB '六欲天')	8018352
 8018357	甄那罗	甄那羅	zhēnnàluó	kiṃnara	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kiṃnara; see 緊那羅 (BCSD '甄陀羅')	8018357
 8018358	入坛	入壇	rù tán	to enter the altar	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '入壇'; SH '入壇', p. 33)	8018358
+8018359	五顶	五頂	wǔ dǐng	five crowns	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 五佛頂 (FGDB '五頂')	8018359
+8018360	因陀罗	因陀羅	yīntuóluó	Indra	proper noun	神	Diety	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: indra; see 因陀羅 (BCSD '因陀', p. 284)	8018360
+8018361	入寂灭	入寂滅	rù jìmiè	to enter into Nirvāṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 入寂 (SH '入寂', p. 33)	8018361
+8018362	那伽	\N	nàjiā	nāga; naga	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Sanskrit equivalent: nāga (BCSD '那伽', p. 1170; FGDB '那伽'; MW 'nāga')	8018362
+8018363	入住出	\N	rù zhù chū	entry, dwelling, and exit	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '入心', p. 33)	8018363
+8018364	破坏	破壞	pòhuài	broken; avadīrṇa	verb	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: avadīrṇa, Tibetan: nyen kha (BCSD '破壞', p. 889; Mahāvyutpatti 'avadīrṇaḥ'; MW 'avadīrṇa')	8018364
+8018365	入我我入	\N	rù wǒ wǒ rù	Buddha in me and I in the Buddha	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The indwelling of the Buddha in Esoteric contemplation (FGDB '入我我入'; SH '入我我入', p. 33)	8018365
+8018366	摩帝	\N	módì	mati; devotion; worship	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: mati (BCSD '摩帝', p. 559; MW 'mati')	8018366
+8018367	摩帝	\N	módì	earthy; pārthiva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pārthiva, Tibetan: sa bdag gam rgyal po (Mahāvyutpatti 'pārthivaḥ'; MW 'pārthiva')	8018366
+8018368	入文解释	入文解釋	rù wén jiěshì	method of exegetical explanation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛典釋例'; SH '入文解釋', p. 33)	8018368
+8018369	佛典释例	佛典釋例	fó diǎn shì lì	exegetical explanation of the Buddhist canon	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '佛典釋例')	8018369
+8018370	婆罗多	婆羅多	póluóduō	Bhārata	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: bhārata; descended from Bharata (FGDB '婆羅多'; MW 'bhārata')	8018370
+8018371	入王宫聚落衣	入王宮聚落衣	rùwánggōngjùluòyī	the robe is worn equally for a palace or for begging in town	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '僧伽棃'; SH '入王宮聚落衣', p. 33)	8018371
+8018372	僧伽棃	\N	sēngjiālí	saṅghāṭī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅghāṭī; the outer of the three monastic robes (FGDB '僧伽棃')	8018372
+8018373	僧伽致	\N	sēngjiāzhì	saṅghāṭī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅghāṭī; 僧伽棃 (FGDB '僧伽棃')	8018373
+8018374	伽胝	\N	jiāzhī	saṅghāṭī	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: saṅghāṭī; 僧伽棃 (FGDB '僧伽棃')	8018374
