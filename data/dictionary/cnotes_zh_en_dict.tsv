@@ -23194,7 +23194,7 @@
 23194	菲	\N	fěi	a radish	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '菲'; Guoyu '菲' fěi n; Kroll 2015 '菲' fěi 1, p. 111)	23190
 23195	菲特烈一世	\N	fēitéliè yīshì	Friedrich I; Frederick I Barbarossa	proper noun	皇帝	Emperor	历史	History	欧洲	Europe	\N	\N	Lived 1122－1190, reigned as King of Germany 1152－1190, Holy Roman Emperor 1155－1190	23195
 23196	菲特烈	\N	fēitéliè	Friedrich	proper noun	姓名	Given Name	现代汉语	Modern Chinese	名字	Names	\N	\N	\N	23196
-23197	哈布斯堡	\N	hābùsībǎo	Hapsburg; Habsburg	proper noun	王朝	Dynasty	历史	History	欧洲	Europe	\N	\N	European dynasty	23197
+23197	哈布斯堡	\N	hābùsī bǎo	Hapsburg; Habsburg	proper noun	王朝	Dynasty	历史	History	欧洲	Europe	\N	\N	European dynasty (Wikipedia '哈布斯堡王朝')	23197
 23198	汉萨同盟	漢薩同盟	hànsà tóngméng	Hanseatic League	proper noun	同盟	League	历史	History	欧洲	Europe	\N	\N	An economic alliance of trading cities	23198
 23199	媛	\N	yuán	a beauty	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	yuan2.mp3	\N	23199
 23200	媛	\N	yuàn	a beauty	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	yuan4.mp3	\N	23199
@@ -87195,7 +87195,7 @@
 87195	粗大	\N	cūdà	thick; bulky; loud	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '粗大')	87195
 87196	情资	情資	qíngzī	intelligence; information	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '情資')	87196
 87197	床边	床邊	chuángbiān	bedside	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '床邊')	87197
-87198	纤维素	纖維素	xiānwéisù	cellulose	noun	\N	\N	现代汉语	Modern Chinese	生物学	Biology	\N	\N	(CC-CEDICT '纖維素')	87198
+87198	纤维素	纖維素	xiānwéisù	cellulose	noun	\N	\N	现代汉语	Modern Chinese	生物学	Biology	\N	\N	(CC-CEDICT '纖維素'; Wikipedia '纤维素')	87198
 87199	恋家	戀家	liànjiā	home-loving; to feel a strong attachment to home life; to begrudge being away from home	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '戀家')	87199
 87200	沦陷区	淪陷區	lúnxiànqū	enemy-held territory	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '淪陷區')	87200
 87201	花童	\N	huātóng	page boy; flower girl (at a wedding)	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '花童')	87201
@@ -169271,3 +169271,5 @@
 169271	笞杖	\N	chī zhàng	to beat with a cane	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '笞杖'; Guoyu '笞杖' 1; Mathews 1931 '笞杖', p. 141)	91576
 169272	逵路	\N	kuí lù	crossroads	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '逵路')	169272
 169273	堦墀	\N	ji chí	a palace courtyard	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '堦墀', p. 141)	169273
+169274	吉美国立亚洲艺术博物馆	吉美國立亞洲藝術博物館	jíměi guólì yàzhōu yìshù bówùguǎn	Guimet Museum; Musée national des arts asiatiques-Guimet	proper noun	地名	Place Name	地方	Places	欧洲	Europe	\N	\N	Museum of Asian art located in Paris (Wikipedia '吉美国立亚洲艺术博物馆')	169273
+169275	丹墀	\N	dān chí	dan chi	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '丹墀', p. 141)	169275

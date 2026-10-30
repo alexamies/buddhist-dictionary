@@ -505,7 +505,7 @@
 8000505	忏悔	懺悔	chànhuǐ	repentance; pāpadeśanā	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: pāpadeśanā, Pali: pāpadesanā, Japanese: sange, Tibetan: sdig pa bshags pa (BL 'pāpadeśanā', p. 621; FGDB '懺悔'; Guoyu '懺悔' 2; SH '懺悔', p. 478)	8000505
 8000506	塔刹	塔剎	tǎchà	spire; pagoda finial; finial	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	An ornamented pointed top which crowns a pagoda (Wikipedia '塔刹')	8000506
 8000507	朝圣参道	朝聖參道	cháoshèng cāndào	a processional way	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Wikipedia '神道 (道路)')	8000507
-8000508	结缘	結緣	jiéyuán	to form affinities; karmic affinity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '結緣'; Pinte 2014, p. 4; SH '結緣', p. 386)	8000508
+8000508	结缘	結緣	jiéyuán	to form affinities; karmic affinity; Dharma affinity	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '結緣'; Pinte 2014, p. 4; SH '結緣', p. 386)	8000508
 8000509	化缘	化緣	huàyuán	the reason of a Buddha's or bodhisattva's coming to the world to teach	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '化緣'; SH '化緣', p. 142)	8000509
 8000510	浮生	\N	fú shēng	the world of the living; the impermanent world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 浮世 (FGDB '浮世')	8000510
 8000511	阿毘达摩	阿毘達摩	Āpídámó	Abhidharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma; see 阿毘曇 (BL 'abhidharma', p. 4; SH '十二部經', p. 44; FGDB '阿毘曇')	8000511
@@ -7773,10 +7773,10 @@
 8007773	二空	\N	èr kōng	two types of emptiness	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	1. Emptiness of self 人空 and 2. emptiness of dharmas 法空; there are several other formulations (FGDB '二空'; SH '二空', p. 29)	8007773
 8007774	四法界	\N	sì fǎjiè	four dharma realms	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A 華嚴宗 Huayan School view of comsmology (FGDB '四法界')	8007774
 8007775	八不	\N	bābù	eight negations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8007775
-8007776	八不中道	\N	bābùzhōngdào	eight negations of the middle path	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八不中道')	8007776
+8007776	八不中道	\N	bā bù zhōng dào	eight negations of the middle way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '八不中道'; SH '八不', p. 33)	8007776
 8007777	叉拏	\N	chāná	an instant	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: kṣaṇa; see 剎那 (FGDB '剎那')	8007777
-8007778	本觉	本覺	běnjué	original enlightenment; intrinsic enlightenment; inherent enlightenment	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Japanese: hongaku; in contrast to 始覺 'acquired enlightenment,' a term used in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論 (BL 'benjue'; FGDB '本覺'; Matsuo 2007, p. 37; T 1666)	8007778
-8007779	不觉	不覺	bùjué	non-enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The opposite of enlightenment (FGDB '不覺')	8007779
+8007778	本觉	本覺	běn jué	original enlightenment; intrinsic enlightenment; inherent enlightenment	noun	\N	\N	佛教	Buddhism	中国	China	\N	\N	Japanese: hongaku; in contrast to 始覺 'acquired enlightenment,' a term used in the Treatise on the Awakening of Faith in the Mahāyāna 大乘起信論 (BL 'benjue'; FGDB '本覺'; Matsuo 2007, p. 37; T 1666)	8007778
+8007779	不觉	不覺	bù jué	non-enlightenment	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The opposite of enlightenment (FGDB '不覺')	8007779
 8007780	始觉	始覺	shǐ jué	acquired enlightenment; shijue; actualization of enlightenment	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Japanese: shigaku; in contrast to 本覺 'original enlightenment'; mentioned in the Treatise on the Awakening of Faith in the Mahāyāna) 大乘起信論 (BL 'shijue'; FGDB '始覺'; Matsuo 2007, p. 37)	8007780
 8007781	生灭门	生滅門	shēng miè mén	The door of arising and ceasing	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 心生滅門 (FGDB '心生滅門')	8007781
 8007782	威	\N	wēi	majesty; prabhāva	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: prabhāva, Japanese: i, Tibetan: mthu stobs (BCSD '威', p. 361; Mahāvyutpatti 'prabhāvaḥ'; MW 'prabhāva'; SH '威', p. 299; Unihan '威')	8007782
@@ -12036,7 +12036,7 @@
 8012036	苦际	苦際	kǔjì	limit of suffering	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '苦際'; FGDB '苦際'; SH '苦際', p. 314)	8012036
 8012037	矩	\N	jǔ	ku	phonetic	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: ku, Japanese: ku (BCSD '矩', p. 885; SH '矩', p. 333; Unihan '矩')	8012037
 8012038	入般涅槃	\N	rù bānnièpán	to enter Parinirvāṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '入般涅槃')	8012038
-8012039	五比丘	\N	wǔ bìqiū	five monastics	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first five monastics: Ājñāta-Kauṇḍinya, Aśvajit, Bhadrika, Daśabala-Kāśyapa, and Mahānāma-Kulika (Ding '五比丘'; FGDB '五比丘'; SH '五比丘', p. 121)	8012039
+8012039	五比丘	\N	wǔ bìqiū	five bhikṣus	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The first five monastics: Ājñāta-Kauṇḍinya, Aśvajit, Bhadrika, Daśabala-Kāśyapa, and Mahānāma-Kulika (Ding '五比丘'; FGDB '五比丘'; SH '五比丘', p. 121)	8012039
 8012040	短	\N	duǎn	short; hrasva	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: hrasva, Japanese: tan, Tibetan: thung ngu (BCSD '短', p. 887; Mahāvyutpatti 'hrasvam'; MW 'hrasva'; Unihan '短')	8012040
 8012041	示教	\N	shì jiāo	to point and instruct	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Ding '示教'; SH '示教', p. 199)	8012041
 8012042	道风	道風	dào fēng	the truth of the way is like the wind	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	A simile comparing the truth of the Buddha's teachings to the nature of the wind (Ding '道風'; FGDB '道風'; SH '道風', p. 417)	8012042
@@ -18390,3 +18390,13 @@
 8018390	盂兰瓫	盂蘭瓫	yúlánpén	ullambana	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 盂蘭盆 (FGDB '盂蘭盆';)	8018390
 8018391	入骨	\N	rù gǔ	interment of bones	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	In a stūpa or grave (FGDB '納骨'; SH '入骨', p. 33)	8018391
 8018392	纳骨	納骨	nà gǔ	interment of bones	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 入骨 (FGDB '納骨')	8018392
+8018393	缘	緣	yuán	mark; appearance; cause; reason; nimitta	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: nimitta, Tibetan: mtshan ma'am rgyu (BCSD '緣', p. 935; Edgerton 1953 'nimitta'; Mahāvyutpatti 'nimittam'; MW 'nimitta')	8006089
+8018394	入龛	入龕	rù kān	to place in a coffin	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '龕'; SH '入龕', p. 33)	8018394
+8018395	呪愿	呪願	zhòu yuàn	prayers and wishes	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2010, pp. 672-673)	8018395
+8018396	八不中观	八不中觀	bā bù zhōng guān	eight negations of the middle way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018396
+8018397	八不正观	八不正觀	bā bù zhèng guān	eight negations of right observation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018397
+8018398	八不缘起	八不緣起	bā bù yuán qǐ	eight negations of dependent origination	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018398
+8018399	无得中道	無得中道	wú dé zhōng dào	non-attainment of the middle way	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018399
+8018400	无得正观	無得正觀	wú dé zhèng guān	non-attainment of right observation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018400
+8018401	不二正观	不二正觀	bù èr zhèng guān	nonduality of right observation	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018401
+8018402	八遮	\N	bā zhē	eight negations	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八不中道 (FGDB '八不中道')	8018402
