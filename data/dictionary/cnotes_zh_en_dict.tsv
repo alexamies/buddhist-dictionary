@@ -14713,7 +14713,7 @@
 14713	可缩放矢量图形	可縮放矢量圖形	kěsuōfàngshǐliàngtúxíng	Scalable Vector Graphics (SVG)	proper noun	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '可缩放矢量图形')	14713
 14714	小型计算机系统接口	小型計算機系統接口	xiǎoxíng jìsuànjī xìtǒng jiēkǒu	Small Computer System Interface (SCSI)	proper noun	接口	Interface	计算机科学	Computer Science	硬件	Hardware	\N	\N	(Wikipedia '小型计算机系统接口')	14714
 14715	网络搜索引擎	網絡搜索引擎	wǎngluò sōusuǒ yǐnqíng	search engine	set phrase	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '网络搜索引擎')	14715
-14716	安全超文本传输协议	安全超文本傳輸協議	ānquán Chāowénběn Chuánshū Xiéyì	Secure Hypertext Transfer Protocol (HTTPS)	proper noun	协议	Protocol	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '安全超文本传输协议')	14716
+14716	安全超文本传输协议	安全超文本傳輸協議	ānquán Chāowénběn Chuánshū xiéyì	Secure Hypertext Transfer Protocol (HTTPS)	proper noun	协议	Protocol	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '安全超文本传输协议')	14716
 14717	传输层安全性协议	傳輸層安全性協議	chuánshūcéngānquánxìngxiéyì	Transport Layer Security (TLS)	proper noun	协议	Protocol	计算机科学	Computer Science	安全	Security	\N	\N	(Wikipedia '传输层安全性协议')	14717
 14718	伺服器	伺服器	sìfúqì	server (computer)	noun	\N	\N	计算机科学	Computer Science	硬件	Hardware	\N	\N	(Wikipedia '伺服器')	14718
 14719	数字视频转换盒	數字視頻轉換盒	shùzìshìpínzhuǎnhuànhé	set top box	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '数字视频转换盒')	14719
@@ -14721,8 +14721,8 @@
 14721	标准通用标记语言	標準通用標記語言	biāozhǔn tōngyòng biāojì yǔyán	Standard Generalized Markup Language (SGML)	proper noun	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '标准通用标记语言')	14721
 14722	共享软件	共享軟件	gòngxiǎng ruǎnjiàn	shareware	set phrase	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '共享软件')	14722
 14723	简单邮递发送协议	簡單郵遞發送協議	jiǎndān yóudì fāsòng xiéyì	Simple Mail Transfer Protocol (SMTP)	proper noun	协议	Protocol	计算机科学	Computer Science	网络	Networking	\N	\N	(Wikipedia '简单邮递发送协议')	14723
-14724	简单网络管理协议	簡單網絡管理協議	jiǎndān wǎngluò guǎnlǐ Xiéyì	Simple Network Management Protocol (SNMP)	proper noun	协议	Protocol	计算机科学	Computer Science	网络	Networking	\N	\N	(Wikipedia '简单网络管理协议')	14724
-14725	简单对象访问协议	簡單對象訪問協議	jiǎndān Duìxiàng fǎngwèn Xiéyì	Simple Object Access Protocol (SOAP)	proper noun	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '简单对象访问协议')	14725
+14724	简单网络管理协议	簡單網絡管理協議	jiǎndān wǎngluò guǎnlǐ xiéyì	Simple Network Management Protocol (SNMP)	proper noun	协议	Protocol	计算机科学	Computer Science	网络	Networking	\N	\N	(Wikipedia '简单网络管理协议')	14724
+14725	简单对象访问协议	簡單對象訪問協議	jiǎndān Duìxiàng fǎngwèn xiéyì	Simple Object Access Protocol (SOAP)	proper noun	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '简单对象访问协议')	14725
 14726	网址	網址	wǎngzhǐ	universal resource locator (URL)	noun	\N	\N	计算机科学	Computer Science	网络	Networking	\N	\N	(CC-CEDICT '網址'; Guoyu '網址'; Wikipedia '统一资源定位符')	14726
 14727	网站地图	網站地圖	wǎngzhàn dìtú	site map	set phrase	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '网站地图')	14727
 14728	软件工程	軟件工程	ruǎnjiàn gōngchéng	software engineering	set phrase	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '软件工程')	14728
@@ -15030,7 +15030,7 @@
 15030	平板电脑	平板電腦	píngbǎn diànnǎo	a tablet PC	set phrase	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Wikipedia '平板電腦')	15030
 15031	万亿字节	萬億字節	wàn yì zìjié	terabyte (TB)	set phrase	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Baike '字节')	15031
 15032	传输控制协议	傳輸控制協議	chuánshū kòngzhì xiéyì	Transmission Control Protocol (TCP)	proper noun	协议	Protocol	计算机科学	Computer Science	网络	Networking	\N	\N	(Wikipedia '传输控制协议')	15032
-15033	传输控制协议和互联网协议	傳輸控制協議和互聯網協議	Chuánshū Kòngzhì Xiéyì hé hùliánwǎng Xiéyì	Transmission Control Protocol / Internet Protocol (TCP/IP)	proper noun	协议	Protocol	计算机科学	Computer Science	网络	Networking	\N	\N	(Wikipedia '传输控制协议')	15033
+15033	传输控制协议和互联网协议	傳輸控制協議和互聯網協議	Chuánshū Kòngzhì xiéyì hé hùliánwǎng xiéyì	Transmission Control Protocol / Internet Protocol (TCP/IP)	proper noun	协议	Protocol	计算机科学	Computer Science	网络	Networking	\N	\N	(Wikipedia '传输控制协议')	15033
 15034	时分	時分	shífēn	time; a period during the day	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	One of the 12 two-hour periods enumerated by the earthly branches (CC-CEDICT '時分'; Guoyu '時分' 2)	15034
 15035	时分多路复用技术	時分多路復用技術	shífēn duō lù fù yòng jìshù	time division multiplexing (TDM)	noun	\N	\N	计算机科学	Computer Science	\N	\N	\N	\N	(Baike '时分多路复用')	15035
 15036	远距离医疗	遠距离醫療	yuǎn jùlí yīliáo	telemedicine	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	See 远距医疗 (Wikipedia '遠距醫療')	15036
@@ -22561,7 +22561,7 @@
 22561	汉少帝	漢少帝	hàn shǎo dì	Emperor Shao of Han	proper noun	皇帝	Emperor	历史	History	中国	China	\N	\N	Lived 176-190, ruled 189; posthumous name of the twelfth Eastern Han Emperor	22561
 22562	刘辩	劉辯	liú biàn	Liu Bian; Emperor Shao of Han	proper noun	皇帝	Emperor	历史	History	中国	China	\N	\N	Lived 176-190, ruled 189; personal name of the twelfth Eastern Han Emperor	22562
 22563	汉献帝	漢獻帝	hàn xiàn dì	Emperor Xian of Han	proper noun	皇帝	Emperor	历史	History	中国	China	\N	\N	(Lived 181-234, ruled 189-220), posthumous name of the last Eastern Han Emperor	22563
-22564	刘协	劉協	liú Xié	Liu Xie; Emperor Xian of Han	proper noun	皇帝	Emperor	历史	History	中国	China	\N	\N	(Lived 181-234, ruled 189-220), personal name of the last Eastern Han Emperor	22564
+22564	刘协	劉協	liú xié	Liu Xie; Emperor Xian of Han	proper noun	皇帝	Emperor	历史	History	中国	China	\N	\N	(Lived 181-234, ruled 189-220), personal name of the last Eastern Han Emperor	22564
 22565	黄巾之乱	黃巾之亂	huáng jīn zhī luàn	Yellow Turban Rebellion; Yellow Scarves Rebellion	proper noun	起义	Rebellion	历史	History	中国	China	\N	\N	(184 CE) a peasant uprising	22565
 22566	曹魏	\N	cáo wèi	Cao Wei	proper noun	国	State	历史	History	中国	China	\N	\N	220-265; One of the states of the Three Kingdoms Period (Wikipedia '曹魏')	22566
 22567	魏	\N	wèi	Cao Wei	proper noun	国	State	历史	History	中国	China	\N	wei4.mp3	220-265; One of the states of the Three Kingdoms Period (CC-CEDICT '魏'; Guoyu '魏' n 2; Kroll 2015 '魏' 3, p. 476; XHZD '魏' 1, p. 787)	17064
@@ -23248,7 +23248,7 @@
 23248	谢灵运	謝靈運	xiè líng yùn	Xie Lingyun	proper noun	诗人	Poet	文学	Literature	中国	China	\N	\N	385－433 C.E.; courtesy name 康乐 Kangle, first to use the Landscape Style Poem (Idema and Haft 1997, pp. 119-120; Wikipedia '谢灵运')	23248
 23249	勃兴	勃興	bóxīng	to rise suddenly; to grow vigorously	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '勃興'; Guoyu '勃興')	23249
 23250	耳目	\N	ěrmù	eyes and ears; attention; information; knowledge; spies	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '耳目')	23250
-23251	刘勰	劉勰	liú Xié	Liu Xie	proper noun	文学理论家	Literature Critic	文学	Literature	南北朝	Northern and Southern Dynasties	\N	\N	C. 466－539; well known literature critic from the Liang dynasty, author of 文心雕龙 (Durrant 2017, p. 195; Idema and Haft 1997, p. 108; Liu and Shi 2015, loc 488)	23251
+23251	刘勰	劉勰	liú xié	Liu Xie	proper noun	文学理论家	Literature Critic	文学	Literature	南北朝	Northern and Southern Dynasties	\N	\N	C. 466－539; well known literature critic from the Liang dynasty, author of 文心雕龙 (Durrant 2017, p. 195; Idema and Haft 1997, p. 108; Liu and Shi 2015, loc 488; Wikipedia '刘勰')	23251
 23252	文学理论家	文學理論家	wénxué lǐlùnjiā	literature critic	noun	\N	\N	文学	Literature	文学理论	Literary Theory	\N	\N	\N	23252
 23253	理论家	理論家	lǐlùnjiā	theorist; theoretician; critic	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	23253
 23254	文心雕龙	文心雕龍	wén xīn Diāo lóng	The Literary Mind and the Carving of Dragons; Wen Xin Diao Long	proper noun	书	Book	文学	Literature	南北朝	Northern and Southern Dynasties	\N	\N	c. 302 Literature theory book written by Liu Xie 刘勰 c. 465－520 (Durrant 2017, p. 195; Idema and Haft 1997, p. 108; Liu and Shi 2015)	23254
@@ -24258,7 +24258,7 @@
 24258	儡	\N	lěi	tired; weak; ruined	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	lei3.mp3	\N	24258
 24259	满洲	滿洲	mǎnzhōu	Manchuria	proper noun	\N	\N	历史	History	中国	China	\N	\N	A historic name for 中国东北 the Chinese Northeast, including present-day 黑龙江 Heilongjiang, 吉林 Jilin, 辽宁 Liaoning, and parts of 内蒙古 Inner Mongolia (Sullivan and Hearst 1997, 'MANCHURIA')	24259
 24260	满洲国	滿洲國	mǎnzhōuguó	Manchu State; Manchuria	proper noun	国家	Country	历史	History	中国	China	\N	\N	1934－1945； name of the puppet state established by Japan in Northeast China (Wikipedia '满洲国')	24260
-24261	双十协定	雙十協定	Shuāng shí Xiédìng	Double Tenth Agreement	proper noun	协定	Agreement	历史	History	中国	China	\N	\N	(October 10, 1945) agreement between the Nationalist government and the Communist Party bringing the Battle of Shandang to an end	24261
+24261	双十协定	雙十協定	Shuāng shí xiédìng	Double Tenth Agreement	proper noun	协定	Agreement	历史	History	中国	China	\N	\N	(October 10, 1945) agreement between the Nationalist government and the Communist Party bringing the Battle of Shandang to an end	24261
 24262	政府与中共代表会谈纪要	政府與中共代表會談紀要	zhèngfǔ yǔ zhōnggòng dàibiǎo huìtán jìyào	Double Tenth Agreement	proper noun	协定	Agreement	历史	History	中国	China	\N	\N	(October 10, 1945) agreement between the Nationalist government and the Communist Party bringing the Battle of Shandang to an end	24262
 24263	辽沈战役	遼瀋戰役	liáo shěn zhànyì	Liaoning-Shenyang Campaign	proper noun	战役	Campaign	历史	History	中国	China	\N	\N	(September 12, 1948－November 12,1948) campaign during the Chinese Civil War	24263
 24264	平津战役	平津戰役	píngjīn zhànyì	Pingjin Campaign; Battle of Pingjin	proper noun	战役	Campaign	历史	History	中国	China	\N	\N	(November 29, 1948－January 31, 1949) a decisive battle in Communist victory of the Chinese Civil War	24264
@@ -64797,7 +64797,7 @@
 64797	字顺主题	字順主題	zìshùnzhǔtí	alphabetical subject index	noun	\N	\N	现代汉语	Modern Chinese	图书馆学	Library Science	\N	\N	(GLSIB, p. 5)	64797
 64798	副标题	副標題	fù biāotí	alternative title	noun	\N	\N	现代汉语	Modern Chinese	图书馆学	Library Science	\N	\N	(GLSIB, p. 5)	64798
 64799	交替书名	交替書名	jiāotì shūmíng	subtitle; alternative title	noun	\N	\N	现代汉语	Modern Chinese	图书馆学	Library Science	\N	\N	(GLSIB, p. 5)	64799
-64800	美国图书馆协会	美國圖書館協會	Měiguó Túshūguǎn Xiéhuì	American Library Association	proper noun	协会	Association	现代汉语	Modern Chinese	\N	\N	\N	\N	(GLSIB, p. 5)	64800
+64800	美国图书馆协会	美國圖書館協會	Měiguó Túshūguǎn xiéhuì	American Library Association	proper noun	协会	Association	现代汉语	Modern Chinese	\N	\N	\N	\N	(GLSIB, p. 5)	64800
 64801	轶事	軼事	yìshì	an anecdote	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '軼事'; GLSIB, p. 6; Guoyu '軼事')	64801
 64802	逸事	\N	yìshì	an anecdote	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '逸事'; Guoyu '逸事')	64802
 64803	批注	\N	pīzhù	annotation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '批注'; GLSIB, p. 6; Guoyu '批注')	64803
@@ -64810,7 +64810,7 @@
 64810	集刊	\N	jíkān	archives; collection of papers	noun	\N	\N	现代汉语	Modern Chinese	图书馆学	Library Science	\N	\N	(CC-CEDICT '集刊'; GLSIB, p. 7; Guoyu '集刊')	64810
 64811	升序	\N	shēngxù	ascending order	noun	\N	\N	计算机科学	Computer Science	信息学	Information Science	\N	\N	(CC-CEDICT '升序')	64811
 64812	升序排列	\N	shēngxù páiliè	ascending order	noun	\N	\N	计算机科学	Computer Science	信息学	Information Science	\N	\N	(GLSIB, p. 8)	64812
-64813	美国出版商协会	美國出版商協會	Měiguó Chūbǎnshāng Xiéhuì	Association of American Publishers	proper noun	协会	Association	现代汉语	Modern Chinese	出版	Publishing	\N	\N	(GLSIB, p. 8)	64813
+64813	美国出版商协会	美國出版商協會	Měiguó Chūbǎnshāng xiéhuì	Association of American Publishers	proper noun	协会	Association	现代汉语	Modern Chinese	出版	Publishing	\N	\N	(GLSIB, p. 8)	64813
 64814	音像	\N	yīnxiàng	audiovisual	adjective	\N	\N	计算机科学	Computer Science	信息学	Information Science	\N	\N	(CC-CEDICT '音像')	64814
 64815	音像档案	音像檔案	yīnxiàng dàngàn	audiovisual archive	set phrase	\N	\N	现代汉语	Modern Chinese	图书馆学	Library Science	\N	\N	(GLSIB, p. 9)	64815
 64816	音像消息	\N	yīnxiàng xiāoxi	audiovisual information	noun	\N	\N	现代汉语	Modern Chinese	图书馆学	Library Science	\N	\N	(GLSIB, p. 9)	64816
@@ -80344,7 +80344,7 @@
 80344	老伴	\N	lǎobàn	husband or wife	proper noun	人	Person	历史	History	中国	China	\N	\N	Of an elderly couple  (CC-CEDICT '老伴')	80344
 80345	客店	\N	kèdiàn	small hotel; inn	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '客店')	80345
 80346	盛宴	\N	chéngyàn	feast	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '盛宴')	80346
-80347	痴心	\N	chīxīn	infatuation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '痴心')	80347
+80347	痴心	\N	chī xīn	infatuation	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '痴心'; Guoyu '痴心')	80347
 80348	云龙	雲龍	yúnlóng	Yunlong	proper noun	地区	District	地方	Places	中国	China	\N	\N	District Of Xuzhou City 徐州市, Jiangsu (CC-CEDICT '雲龍')	80348
 80349	镇远	鎮遠	zhènyuǎn	Zhenyuan	proper noun	县	County	地方	Places	中国	China	\N	\N	County In Qiandongnan Miao And Dong Autonomous Prefecture 黔东南州, Guizhou (CC-CEDICT '鎮遠')	80349
 80350	配音	\N	pèiyīn	dubbing	noun	\N	\N	现代汉语	Modern Chinese	戏剧	Drama	\N	\N	In  filmmaking (CC-CEDICT '配音')	80350
@@ -169342,3 +169342,6 @@
 169342	痴子	\N	chīzi	a fool; an idiot	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '痴子')	169342
 169343	癡子	\N	chīzǐ	a fool; an idiot	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Variant of 痴子 (Mathews 1931 '癡子', p. 142)	169343
 169344	铜版纸	銅版紙	tóng bǎn zhǐ	coated paper	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '铜版纸')	169344
+169345	癡心	\N	chī xīn	infatuated with	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	See 痴心 (Mathews 1931 '癡心', p. 142)	169345
+169346	孙盛	孫盛	sūn shèng	Sun Sheng	proper noun	人	Person	历史	History	中国	China	\N	\N	302-373; Eastern Jin historian (Wikipedia '孙盛')	169346
+169347	癡心妄想的人	\N	chīxīn wàngxiǎng de rén	a person infatuated with delusions	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '癡心妄想的人', p. 142)	169347
