@@ -488,7 +488,7 @@
 488	栗色	\N	lìsè	chestnut	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '栗色'; Guoyu '栗色')	488
 489	猩红	猩紅	xīnghóng	scarlet	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '猩紅'; Guoyu '猩紅' 1)	489
 490	猩红色	猩紅色	xīnghóngsè	scarlet (color)	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '猩紅色')	490
-491	白	\N	bái	white	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	White in color, in the sense of 白色 (CCD 1 '白' 1; FE '白' 1; GHDC '白' 1). For example, 白云 'white clouds.' (XHW 2016-02-04)	491
+491	白	\N	bái	white	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	White in color, in the sense of 白色 (CC-CEDICT '白'; CCD 1 '白' 1; FE '白' 1; GHDC '白' 1; Guoyu '白' n 1; Kroll 2015 '白' 1, p. 7). For example, 白云 'white clouds.' (XHW 2016-02-04)	491
 492	白色	\N	báisè	white	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '白色'; Guoyu '白色' 1)	492
 493	黑	\N	hēi	black	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	hei1.mp3	For example, 白纸写黑字 'to write black characters on white paper [to clearly document the matter]' (Suyu. p. 22; Guoyu '黑' n 1; Kroll 2015 '黑' 1, p. 159; Unihan '黑')	493
 494	黑色	\N	hēisè	black	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	hei1se4.mp3	(C-CEDICT '黑色'; Guoyu '黑色' 1)	494
@@ -6923,7 +6923,7 @@
 6923	疒	\N	nì	sickness	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 疾病 (Guoyu '疒' n 1)	6922
 6924	疒	\N	nì	Kangxi radical 104	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	\N	(ABC back cover; GHC p. 7; Guoyu '疒' n 2; Unihan '疒')	6922
 6925	癶	\N	bō	Kangxi radical 105	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	bo1.mp3	(ABC back cover; GHC p. 7)	6925
-6926	白	\N	bái	Kangxi radical 106	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	bai2.mp3	(ABC back cover; GHC p. 7)	491
+6926	白	\N	bái	Kangxi radical 106	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	bai2.mp3	(ABC back cover; GHC p. 7; Guoyu '白' n 6)	491
 6927	皮	\N	pí	Kangxi radical 107	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	\N	(ABC back cover; GHC p. 7; CC-CEDICT '皿'; Guoyu '皿' n 1; Guoyu '皮' n 6)	5972
 6928	皿	\N	mǐn	a dish; a vessel; a shallow container	noun	餐具	Tableware	文言文	Literary Chinese	\N	\N	\N	\N	皿：飯食之用器也。 'mǐn: a container used for holding food.' (Shuo Wen Jie Zi, Scroll 6 說文解字‧卷六; Unihan '皿')	6928
 6929	皿	\N	mǐn	Kangxi radical 108	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	\N	Dish (ABC back cover; GHC p. 7; CC-CEDICT '皿'; Guoyu '皿' n 2; Unihan '皿')	6928
@@ -10461,8 +10461,8 @@
 10461	安心	\N	ānxīn	with a compose mind; to be deliberate	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '安心'; Guoyu '安心' 4; Mathews 1931 '安心' p. 4)	10461
 10462	安心	\N	ānxīn	to be at ease; to feel relieved	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '安心'; Guoyu '安心' 1)	10461
 10463	按时	按時	ànshí	on time; before deadline; on schedule	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '按時'; Guoyu '按時')	10463
-10464	白	\N	bái	plain	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	(CCD 1 '白' 1; FE '白' 2). For example, 白文 (plain text)	491
-10465	白	\N	bái	to make clear; to state; to explain; to say; to address	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 说明 (CCD 3 '白' 1; FE '白' 6)	491
+10464	白	\N	bái	plain	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	For example, 白衣 plain clothes (CC-CEDICT '白'; CCD 1 '白' 1; FE '白' 2; Guoyu '白' adj 3; Kroll 2015 '白' 2, p. 7)	491
+10465	白	\N	bái	to make clear; to state; to explain; to say; to address	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 说明 (CC-CEDICT '白'; CCD 3 '白' 1; FE '白' 6; Guoyu '白' v 1; Kroll 2015 '白' 3a, p. 7)	491
 10466	白天	\N	báitiān	daytime	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	An example of an endocentric Chinese word where the first morpheme 白 modifies the second 天 (Shei 2014, loc. 314)	10466
 10467	班长	班長	bānzhǎng	class monitor	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '班長'; Guoyu '班長' 1)	10467
 10468	半导体	半導體	bàndǎotǐ	semiconductor	noun	\N	\N	现代汉语	Modern Chinese	电机工程学	Electrical Engineering	\N	\N	(Wikipedia '半導體')	10468
@@ -17448,7 +17448,7 @@
 17448	成玄英	\N	chéng xuányīng	Cheng Xuanying	proper noun	人	Person	历史	History	中国	China	\N	\N	An early Tang scholar	17448
 17449	武挺绪	武挺緒	wǔ Tǐngxù	Wu Tingxu	proper noun	人	Person	历史	History	中国	China	\N	\N	A Qing scholar	17449
 17450	楝	\N	liàn	chinaberry tree; Melia japonica	noun	树	Tree	现代汉语	Modern Chinese	植物学	Botany	\N	lian4.mp3	\N	17450
-17451	鸱	鴟	chī	owl; scops owl	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '鴟'; Guoyu '鴟' 1; Unihan '鴟')	17451
+17451	鸱	鴟	chī	owl; scops owl	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '鴟'; Guoyu '鴟' 1; Kroll 2015 '鴟' 1, p. 50; Mathews 1931 '鴟', p. 142; Unihan '鴟')	17451
 17452	吓	嚇	hè	to intimidate	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	he4.mp3	(Unihan '嚇')	8876
 17453	姚	\N	yáo	handsome; elegant	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '姚')	17453
 17454	鼐	\N	nài	an incense tripod	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	nai4.mp3	(Unihan '鼐')	17454
@@ -19445,7 +19445,7 @@
 19445	印刷术	印刷術	yìnshuāshù	printing; printing technology	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19445
 19446	胜似	勝似	shèngsì	to surpass; to be better than; to be superior to	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19446
 19447	陇	隴	lǒng	Gansu	proper noun	\N	\N	地方	Places	中国	China	\N	\N	An abbreviation	19447
-19448	仪陇县	儀隴縣	yílǒng Xxiàn	Yilong County	proper noun	县	County	地方	Places	中国	China	\N	\N	\N	19448
+19448	仪陇县	儀隴縣	yílǒng xiàn	Yilong County	proper noun	县	County	地方	Places	中国	China	\N	\N	\N	19448
 19449	见谅	見諒	jiàn liàng	to forgive; to excuse	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '見諒'; Guoyu '見諒' 1; Mathews 1931 '見諒', p. 119)	19449
 19450	歌喉	歌睺	gēhóu	a singing voice	noun	\N	\N	现代汉语	Modern Chinese	音乐	Music	\N	\N	\N	19450
 19451	竹管	\N	zhúguǎn	a bamboo pipe	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19451
@@ -25494,7 +25494,7 @@
 25494	琮	\N	cóng	a cong; a jade artifact with a round hole	noun	\N	\N	艺术	Art	\N	\N	cong_liangzhu400.jpg	cong2.mp3	An Late Neolithic Chinese religious artifact made from jade (AAT '300265725')	25494
 25495	鸟纹	鳥紋	niǎo wén	bird design	noun	花纹	Decorative Design	现代汉语	Modern Chinese	艺术	Art	fengniaowen400.jpg	\N	\N	25495
 25496	凤纹	鳳紋	fèng wén	phoenix design	noun	花纹	Decorative Design	现代汉语	Modern Chinese	艺术	Art	blue_white_phoenix_ming1400.jpg	\N	\N	25496
-25497	鸱	鴟	chī	a kite	noun	鸟	Bird	现代汉语	Modern Chinese	\N	\N	\N	\N	(Unihan '鴟')	17451
+25497	鸱	鴟	chī	a kite	noun	鸟	Bird	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '鴟', p. 142; Unihan '鴟')	17451
 25498	鸱枭	鴟梟	chīxiāo	an owl	noun	鸟	Bird	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	25498
 25499	鸱枭纹	鴟梟紋	chīxiāo wén	owl design	noun	花纹	Decorative Design	现代汉语	Modern Chinese	艺术	Art	\N	\N	In Shang and Zhou dynasty art	25499
 25500	鸾	鸞	luán	luan	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	luan2.mp3	A mythical bird related to phoenix (CC-CEDICT '鸞'; Guoyu '鸞' n 1; Unihan '鸞')	25500
@@ -30800,23 +30800,23 @@
 30800	哀恋	哀戀	āiliàn	to yearn with great distress	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	\N	30800
 30801	哀伤	哀傷	āishāng	grief; distress; bereavement	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '哀傷'; Guoyu '哀傷'; Mathews 1931 '哀傷' p. 1)	30801
 30802	眷恋	眷戀	juànliàn	to long for; to yearn	verb	\N	\N	文言文	Literary Chinese	感情	Emotion	\N	\N	(CC-CEDICT '眷戀'; Guoyu '眷戀' 1)	30802
-30803	白	\N	bái	pure; clean; stainless	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 纯洁 (FE '白' 1; GHDC '白' 4)	491
+30803	白	\N	bái	pure; clean; stainless	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 纯洁 (CC-CEDICT '白'; FE '白' 1; GHDC '白' 4; Guoyu '白' adj 2)	491
 30804	白	\N	bái	bright	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 明亮 (CCD 1 '白' 2; FE '白' 1; GHDC '白' 5).	491
-30805	白	\N	bái	a wrongly written character	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	bai2.mp3	(CCD 2 '白'; GHDC '白' 9)	491
-30806	白	\N	bái	clear	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 清楚 (GHDC '白' 6)	491
-30807	白	\N	bái	true; sincere; genuine	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 真诚.	491
+30805	白	\N	bái	wrongly written [character]	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	bai2.mp3	(CC-CEDICT '白'; CCD 2 '白'; GHDC '白' 9; Guoyu '白' adj 6)	491
+30806	白	\N	bái	clear	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 清楚 (GHDC '白' 6; Kroll 2015 '白' 3, p. 7)	491
+30807	白	\N	bái	true; sincere; genuine	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 真诚 (Guoyu '白' adj 4)	491
 30808	白	\N	bái	reactionary	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	For example, 白军 (CCD 1 '白' 7)	491
-30809	白	\N	bái	a wine cup	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	bai2.mp3	For drinking illegal alcohol in historic times (GHDC '白' 10)	491
-30810	白	\N	bái	a spoken part in an opera	noun	\N	\N	现代汉语	Modern Chinese	戏剧	Drama	\N	bai2.mp3	(CCD 3 '白' 2; FE '白' 5)	491
+30809	白	\N	bái	a wine cup	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	bai2.mp3	For drinking illegal alcohol in historic times (GHDC '白' 10; Guoyu '白' n 3)	491
+30810	白	\N	bái	a spoken part in an opera	noun	\N	\N	现代汉语	Modern Chinese	戏剧	Drama	\N	bai2.mp3	(CC-CEDICT '白'; CCD 3 '白' 2; FE '白' 5; Guoyu '白' n 4)	491
 30811	白	\N	bái	a dialect	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 方言 (CCD 3 '白' 3)	491
 30812	白	\N	bái	to understand	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 清楚 or 明白.	491
 30813	白	\N	bái	to report	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 报告.	491
 30814	控告	\N	kònggào	to accuse; to charge; to sue; to indict	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	\N	30814
-30815	白	\N	bái	to accuse; to charge; to sue; to indict	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 控告 (GHDC '白' 7)	491
+30815	白	\N	bái	to accuse; to charge; to sue; to indict	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 控告 (GHDC '白' 7; Guoyu '白' v 5)	491
 30816	平白	\N	píngbái	in vain; to no purpose; for nothing	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	30816
-30817	白	\N	bái	in vain; to no purpose; for nothing	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 平白 or 白白 (CCD 1 '白' 5; FE '白' 3)	491
+30817	白	\N	bái	in vain; to no purpose; for nothing	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 平白 or 白白 (CC-CEDICT '白'; CCD 1 '白' 5; FE '白' 3; Guoyu '白' adv 1; Kroll 2015 '白' 4a, p. 7)	491
 30818	单单	單單	zhǐshì	merely; simply; only	adverb	\N	\N	现代汉语	Modern Chinese	虚词	Function Words	\N	\N	\N	30818
-30819	白	\N	bái	merely; simply; only	adverb	\N	\N	现代汉语	Modern Chinese	虚词	Function Words	\N	bai2.mp3	In this sense 白 has a similar meaning to 单单 or 只是.	491
+30819	白	\N	bái	merely; simply; only	adverb	\N	\N	现代汉语	Modern Chinese	虚词	Function Words	\N	\N	In this sense 白 has a similar meaning to 单单 or 只是 (Guoyu '白' adv 3)	491
 30820	揣测	揣測	chuāicè	to guess; to conjecture	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	30820
 30821	反诘	反詰	fǎnjié	to ask a question in reply; to answer a question with a question	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	30821
 30822	其	\N	qí	used when asking a question in reply to a question	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '其' adv 3; Mathews 1931 '其', p. 69)	1574
@@ -33558,7 +33558,7 @@
 33558	兰	蘭	lán	thoroughwort	noun	\N	\N	现代汉语	Modern Chinese	植物学	Botany	\N	lan2.mp3	(Guoyu '蘭' n 1; Kroll 2015 '蘭' 1)	3477
 33559	他	\N	tā	other	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 另外 (Guoyu '他' tā adj)	518
 33560	打乱	打亂	dǎluàn	to disturb; to upset	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	33560
-33561	白	\N	bái	empty; blank	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 一无所有 (CCD 1 '白' 4; FE '白' 2; GHDC '白' 8)	491
+33561	白	\N	bái	empty; blank	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	bai2.mp3	In this sense 白 has a similar meaning to 一无所有 (CCD 1 '白' 4; FE '白' 2; GHDC '白' 8; Kroll 2015 '白' 4, p. 7)	491
 33562	落	\N	luò	to degenerate; to decline	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	luo4.mp3	In the sense of 衰败 (CC-CEDICT '落'; Guoyu '落' v 6; Kroll 2015 '落' 2, p. 291; XHZD '落' 2, p. 478)	1264
 33563	慈和	\N	cíhé	kindly; amiable	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	33563
 33564	劝化	勸化	quànhuà	to persuade; to urge virtue	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '劝化'; GHDC '劝化' 1; Guoyu '劝化' 1)	33564
@@ -45150,7 +45150,7 @@
 45150	斒	\N	bān	variegated	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '斒')	45150
 45151	斒	\N	bān	striped	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '斒')	45150
 45152	斒	\N	bān	marbled	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '斒')	45150
-45153	蚳	\N	chí	ant eggs	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '蚳')	45153
+45153	蚳	\N	chí	ant eggs	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '蚳'; Guoyu '蚳' n 1; Mathews 1931 '蚳', p. 142; Unihan '蚳')	45153
 45154	齆	\N	wèng	a stuffed nose	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '齆')	45154
 45155	鍊	\N	liàn	to smelt metals; to forge	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Compatibility variant of 鍊 (Unihan '鍊')	45155
 45156	也不见得	也不見得	yě bù jiàn dé	unlikely	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '也不見得')	45156
@@ -52094,12 +52094,12 @@
 52094	核裂变	核裂變	hé lièbiàn	nuclear fission	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '核裂變'; Wikipedia '核裂变')	52094
 52095	伤亡	\N	shāngwáng	casualties; injuries and deaths	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '伤亡')	52095
 52096	市中心	\N	shìzhōngxīn	city center; downtown	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '市中心')	52096
-52097	白	\N	bái	free	adjective	\N	\N	现代汉语	Modern Chinese	口语	Spoken Language	\N	\N	In this sense 白 has a similar meaning to 免费 (CCD 1 '白' 6; FE '白' 4)	491
-52098	白	\N	bái	to stare coldly; a scornful look	bound form	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As in 白眼 (CCD 1 '白' 9)	491
+52097	白	\N	bái	free	adjective	\N	\N	现代汉语	Modern Chinese	口语	Spoken Language	\N	\N	In this sense 白 has a similar meaning to 免费 (CC-CEDICT '白'; CCD 1 '白' 6; FE '白' 4; Guoyu '白' adv 2)	491
+52098	白	\N	bái	to stare coldly; to give a scornful look	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As in 白眼 (CC-CEDICT '白'; CCD 1 '白' 9; Guoyu '白' v 6)	491
 52099	白	\N	bái	relating to funerals	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As in 红白事 'weddings and funerals' (CCD 1 '白' 8; GHDC '白' 2)	491
-52100	白	\N	bái	Bai	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(CCD 1 '白' 10; FE '白' 7)	491
+52100	白	\N	bái	Bai	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(CC-CEDICT '白'; CCD 1 '白' 10; FE '白' 7; Guoyu '白' n 5)	491
 52101	白	\N	bái	vernacular; spoken language	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In this sense 白 has a similar meaning to 白话 (CCD 3 '白' 4)	491
-52102	白	\N	bái	a symbol for silver	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(GHDC '白' 11)	491
+52102	白	\N	bái	a symbol for silver	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(GHDC '白' 11; Kroll 2015 '白' 6, p. 7)	491
 52103	雄豪	\N	xióngháo	a hero	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '雄豪')	52103
 52104	拜佛	\N	bàifó	to bow to the Buddha; to pay respect to the Buddha	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CCD '拜佛'; FE '拜佛')	52104
 52105	拜拜	\N	bàibài	to join palms and bow	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(FE '拜拜' 1)	52105
@@ -147681,7 +147681,7 @@
 147681	隐情不报	隱情不報	yǐnqíng bù bào	not to report something; to keep something secret	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '隱情不報')	147681
 147682	隐颧	隱顴	yǐnquán	a skull with sunken cheek bone; cryptozygous	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '隱顴')	147682
 147683	陇南市	隴南市	lǒngnánshì	Longnan	proper noun	城市	City	地方	Places	中国	China	\N	\N	Prefecture-level city in south Gansu (CC-CEDICT '隴南市')	147683
-147684	陇县	隴縣	lǒngxiàn	Long	proper noun	县	County	地方	Places	中国	China	\N	\N	County in Baoji 宝鸡, Shaanxi (CC-CEDICT '隴縣')	147684
+147684	陇县	隴縣	lǒngxiàn	Long county	proper noun	县	County	地方	Places	中国	China	\N	\N	County in Baoji 宝鸡, Shaanxi (CC-CEDICT '隴縣'; Wikipedia '陇县')	147684
 147685	雄心勃勃	\N	xióngxīn bóbó	aggressive and grand; ambitious; pushy	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '雄心勃勃')	147685
 147686	雄县	雄縣	xióngxiàn	Xiong	proper noun	县	County	地方	Places	中国	China	\N	\N	County in Baoding 保定, Hebei (CC-CEDICT '雄縣')	147686
 147687	雅各书	雅各書	yǎgèshū	Epistle of St James (in New Testament)	proper noun	\N	\N	现代汉语	Modern Chinese	基督教	Christianity	\N	\N	(CC-CEDICT '雅各書'; Wikipedia '雅各書')	147687
@@ -169390,3 +169390,24 @@
 169390	姚略	\N	yáo lüè	Yao Lue	proper noun	人	Person	历史	History	中国	China	\N	\N	See 姚兴 (Wikipedia '姚兴')	169390
 169391	坻伏	\N	zhǐ fú	stop and hide	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '坻伏', p. 142)	169391
 169392	刘善明	劉善明	liú shànmíng	Liu Shanming	proper noun	人	Person	历史	History	中国	China	\N	\N	432-480 C.E.; Liu Song and Southern Qi official (Wikipedia '刘善明')	169392
+169393	白	\N	bó	white	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same meanings as bái (Guoyu '白' bó)	491
+169394	白	\N	bái	a color representing the metal element	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A color representing the metal element of the five elements and west among the four directions (Guoyu '白' n 2; Kroll 2015 '白' 1, p. 7)	491
+169395	白	\N	bái	symbolizing decline	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '白' 1a, p. 7)	491
+169396	白	\N	bái	frank; candid	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '白' 3b, p. 7)	491
+169397	白	\N	bái	suddenly; abruptly	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '白' 5, p. 7)	491
+169398	白	\N	bái	best regards	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Used at the end of a letter (Guoyu '白' v 2)	491
+169399	白	\N	bái	to break day; to send the first light of day	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '白' v 3)	491
+169400	坻伏郁堙	坻伏鬱堙	chí fú yù yīn	protruding but semi-concealed by mounds	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '坻伏鬱堙', p. 142)	169400
+169401	张辅	張輔	zhāng fǔ	Zhang Fu	proper noun	人	Person	历史	History	中国	China	\N	\N	3rd century - 305 C.E.; Western Jin official from Nanyang Commandery in present-day Henan (Wikipedia '张辅 (西晋)')	169401
+169402	坡坻	\N	pōchí	a dike; a slope	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '坡坻', p. 142)	169402
+169403	汧县	汧縣	qiān xiàn	Qian county	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	A historic name for 陇县 (Wikipedia '陇县')	169403
+169404	蚳	\N	chí	Chi	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(Guoyu '蚳' n 2)	45153
+169405	对当	對當	duì dāng	to reply	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '對當' 1)	169405
+169406	对当	對當	duì dāng	to be equal to; to be similar to	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '對當' 2)	169405
+169407	对当	對當	duì dāng	to arrange	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '對當' 3)	169405
+169408	蚳醢	\N	chí hǎi	pickled larvae	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '蚳醢', p. 142)	169408
+169409	王浮	\N	wáng fú	Wang Fu	proper noun	人	Person	历史	History	中国	China	\N	\N	265-313 C.E.; Taoist monk (Wikipedia '王浮')	169409
+169410	鸱尾	鴟尾	chī wěi	owl's tail	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Ridge ornaments on palace roofs (Guoyu '鴟尾'; Kroll 2015 '鴟' 2, p. 50)	169410
+169411	角鸱	角鴟	jiǎo chī	horned owl	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '鴟' 1a, p. 50)	169411
+169412	鸱吻	鴟吻	chī wěn	an ornament on palace roof	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '鴟吻'; Mathews 1931 '鴟吻', p. 142)	169412
+169413	张光	張光	zhāngguāng	Zhang Guang	proper noun	人	Person	历史	History	中国	China	\N	\N	259-313 C.E.; Courtesy name 景武 Jingwu, Western Jin official (Wikipedia '张光 (西晋)')	169413
