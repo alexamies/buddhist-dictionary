@@ -37264,7 +37264,7 @@
 37264	嘉平	\N	jiāpíng	the twelfth month	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '嘉平'; Mathews 1931 '嘉平月', p. 78)	37264
 37265	蒙逊	蒙遜	mēng xùn	Meng Sun	proper noun	人	Person	历史	History	中国	China	\N	\N	Lived 368-433, Xiongnu monarch of the Northern Liang Kingdom	37265
 37266	弘始	\N	hóngshǐ	Hongshi	proper noun	年号	Era name	历史	History	中国	China	\N	\N	399-416, era of Emperor Wen Huan, also known as Yao Xing, 文桓帝姚兴 of Later Qin (Wikipedia '弘始')	37266
-37267	姚兴	\N	yáo xīng	Yao Xing	proper noun	人	Person	历史	History	中国	China	\N	\N	Lived 366-416, ruled 394-416; also known as Emperor Wen Huan 文桓帝 of Later Qin; Qiang ethnic origin	37267
+37267	姚兴	\N	yáo xīng	Yao Xing	proper noun	人	Person	历史	History	中国	China	\N	\N	Lived 366-416 C.E., ruled 394-416 C.E.; courtesy name 子略 Zilue, also known as Emperor Wen Huan 文桓帝 of Later Qin; Qiang ethnic origin (Wikipedia '姚兴')	37267
 37268	菩萨戒	菩薩戒	púsà jiè	the bodhisattva precepts	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(FGDB '菩薩戒'; Hsing Yun 2010)	37268
 37269	河西	\N	héxī	Hexi	proper noun	地区	Area	地方	Places	中国	China	\N	\N	Land west of the Yellow river; Shaanxi, Qinghai and Gansu provinces (Wikipedia '河西走廊')	37269
 37270	三万	三萬	sān wàn	thirty thousand	number	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	37270
@@ -40836,9 +40836,9 @@
 40836	幖	\N	biāo	biao	foreign	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '幖')	40836
 40837	綘	\N	féng	to sew; to stitch	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Variant of 縫 (Unihan '縫')	40837
 40838	楴	\N	tì	ti	foreign	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '楴')	40838
-40839	坻	\N	chí	an islet; a rock in a river	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '坻'; Kroll 2015 '坻' chí 1)	40839
-40840	坻	\N	chí	an embankment	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '坻'; Kroll 2015 '坻' chí 2)	40839
-40841	坻	\N	zhǐ	to stop	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '坻'; Kroll 2015 '坻' zhǐ 1)	40839
+40839	坻	\N	chí	an islet; a rock in a river	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '坻'; Guoyu '坻' n 1; Kroll 2015 '坻' chí 1; Mathews 1931 '坻', p. 142; Unihan '坻')	40839
+40840	坻	\N	chí	an embankment	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '坻' chí 2; Mathews 1931 '坻', p. 142; Unihan '坻')	40839
+40841	坻	\N	zhǐ	to stop	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '坻' zhǐ 1; Mathews 1931 '坻', p. 142; Unihan '坻')	40839
 40842	坻	\N	zhǐ	a molehill	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '坻' zhǐ 2)	40839
 40843	坻	\N	zhǐ	foundation	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '坻' zhǐ 3)	40839
 40844	坻	\N	dǐ	a slope	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Variant of 阺 (Kroll 2015 '坻' dǐ)	40839
@@ -169383,3 +169383,10 @@
 169383	牙结石	牙結石	yá jiéshí	dental calculus; tartar	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '牙結石'; Guoyu '牙結石'; Wikipedia '齿石')	169383
 169384	褫脱	褫脫	chǐ tuō	to strip off	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '褫脫', p. 142)	169384
 169385	试验设计	試驗設計	shìyàn shèjì	experimental design	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '试验设计')	169385
+169386	褫革	\N	chǐ gé	to strip of rank and privileges	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '褫革')	169386
+169387	褫革顶翎	褫革頂翎	chǐ gé dǐng líng	to strip the button and feather; to strip of rank and privileges	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '褫革頂翎', p. 142)	169387
+169388	承建商	\N	chéng jiàn shāng	general contractor	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '承建商')	169388
+169389	褫魄	\N	chǐ pò	to be disheartened	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '褫魄'; Mathews 1931 '褫魄', p. 142)	169389
+169390	姚略	\N	yáo lüè	Yao Lue	proper noun	人	Person	历史	History	中国	China	\N	\N	See 姚兴 (Wikipedia '姚兴')	169390
+169391	坻伏	\N	zhǐ fú	stop and hide	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '坻伏', p. 142)	169391
+169392	刘善明	劉善明	liú shànmíng	Liu Shanming	proper noun	人	Person	历史	History	中国	China	\N	\N	432-480 C.E.; Liu Song and Southern Qi official (Wikipedia '刘善明')	169392

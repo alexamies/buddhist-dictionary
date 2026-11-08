@@ -5779,7 +5779,7 @@
 8005779	入	\N	rù	entering; praveśa	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: praveśa, Japanese: nyū, or: ju, or: jū, Tibetan: zhugs (BCSD '入', p. 156; Edgerton 1953 'praveśa', p. 387; MW 'praveśa'; SH '入', p. 32; Shan and Lian 2013, p. 8; Unihan '入')	8005779
 8005780	刹	剎	shā	canopy; chattra	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: chattra (Karashima 2001, p. 70; MW 'chattra')	8000237
 8005781	德山三世心不可得	\N	déshān sān shì xīn bù kě dé	Deshan cannot obtain the mind of the past, present, or future	phrase	\N	\N	佛教	Buddhism	禅宗	Chan	\N	\N	Refers to a story about the monk Deshan in Koan 4 of 碧巖錄 “Blue Cliff Record” (retranslated from Ch’ung-hsien, K’o-ch’in, and Thomas F. Cleary trans. 1998, p. 30; T 2003, Scroll 1; FGDB '德山三世心不可得')	8005781
-8005782	优波离	優波離	yōubōlí	Upāli; Upali	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: Upāli, Pali: Upāli, Japanese: Upari; first in upholding the precepts (BL 'Upāli'; FGDB '優波離')	8005782
+8005782	优波离	優波離	yōubōlí	Upāli; Upali	proper noun	十大弟子	One of the Buddha's ten great disciples	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Sanskrit equivalent: upāli, Pali: upāli, Japanese: Upari; first in upholding the precepts (BL 'Upāli'; FGDB '優波離')	8005782
 8005783	净刹	淨剎	jìngshā	pure land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 淨土 (FGDB '淨土')	8005783
 8005784	金刚力士	金剛力士	jīngāng lìshì	Vajrapāṇi; Vajrapani	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 金剛手菩薩 (FGDB '金剛手菩薩')	8005784
 8005785	净国	淨國	jìngguó	pure land	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 淨土 (FGDB '淨土')	8005785
@@ -18488,3 +18488,13 @@
 8018488	发毛爪位	髮毛爪位	fà máo zhǎo wèi	the embryo after the end of the sixth week	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The sixth of the 八位胎藏 eight stages of development of a fetus (FGDB '八位胎藏'; SH '八位胎藏', p. 34)	8018488
 8018489	根位	\N	gēn wèi	the embryo after the end of the seventh week	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The seventh of the 八位胎藏 eight stages of development of a fetus (FGDB '八位胎藏'; SH '八位胎藏', p. 34)	8018489
 8018490	形位	\N	xíng wèi	the embryo after the end of the eighth week	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The eighth of the 八位胎藏 eight stages of development of a fetus (FGDB '八位胎藏'; SH '八位胎藏', p. 34)	8018490
+8018491	尼萨耆波逸提	尼薩耆波逸提	nísàqí bōyìtí	naiḥsargika-prāyaścittika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: naiḥsargika-prāyaścittika; a class of offense involving property that should be forfeited (FGDB '尼薩耆波逸提'; SH '尼薩耆波逸提', p. 185)	8018491
+8018492	泥萨祇波逸底迦	泥薩祇波逸底迦	nísàzhǐ bōyìdǐjiā	naiḥsargika-prāyaścittika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (FGDB '尼薩耆波逸提')	8018492
+8018493	尼萨耆波夜提	尼薩耆波夜提	nísàqí bōyètí	naiḥsargika-prāyaścittika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (FGDB '尼薩耆波逸提')	8018493
+8018494	尼萨祇贝逸提	尼薩祇貝逸提	nísàzhǐ bèiyìtí	naiḥsargika-prāyaścittika	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (FGDB '尼薩耆波逸提')	8018494
+8018495	尼萨耆	尼薩耆	nísàqí	naiḥsargika	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (FGDB '尼薩耆波逸提')	8018495
+8018496	尽舍堕	盡捨墮	jìn shě duò	forfeiture offense	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (FGDB '尼薩耆波逸提')	8018496
+8018497	弃堕	棄墮	qì duò	forfeiture offense	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (FGDB '尼薩耆波逸提')	8018497
+8018498	三十舍堕	三十捨墮	sānshí shě duò	thirty forfeiture offenses	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 尼薩耆波逸提 (SH '三十捨墮', p. 61)	8018498
+8018499	八倒	\N	bā dǎo	the eight inverted views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 八顛倒 (FGDB '八顛倒'; SH '八倒', p. 34)	8018499
+8018500	八颠倒	八顛倒	bā diāndǎo	the eight inverted views	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The conditioned phenomena of arising and ceasing as being permanent that ordinary beings cling to (FGDB '八顛倒'; SH '八顛倒', p. 41)	8018500
