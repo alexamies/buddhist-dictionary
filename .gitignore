@@ -4,3 +4,5 @@ dataflow-service-account.json
 *.code-workspace
 web/
 web-staging/
+# Python virtual environment
+.venv/
