@@ -1150,8 +1150,8 @@
 1150	后	後	hòu	empress; queen	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	hou4.mp3	Traditional: 后, in the sense of 王后 or 皇后; modern traditional sources use 后, however, some historic sources use 後 for this sense (FE '后' 1; Guoyu '后' n 3; Hucker 1985 '后', p. 225; Kroll 2015 '后' 2a, p. 163; XHZD '后' 2)	1149
 1151	一直	\N	yīzhí	straight (in a straight line); continuously	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	yi1zhi2.mp3	(CC-CEDICT '一直')	1129
 1152	零星	\N	língxīng	partial; fragmentary; scattered and few	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	ling2xing1.mp3	(CC-CEDICT '零星')	1152
-1153	打工	\N	dǎgōng	to work in a temporary or part time job	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	da3gong1.mp3	(CC-CEDICT '打工')	1153
-1154	维持	維持	wéichí	to keep; to maintain; to preserve	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	wei2chi2.mp3	(CC-CEDICT '維持')	1154
+1153	打工	\N	dǎ gōng	to work in a temporary or part time job	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	da3gong1.mp3	(CC-CEDICT '打工')	1153
+1154	维持	維持	wéichí	to keep; to maintain; to preserve	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	wei2chi2.mp3	(CC-CEDICT '維持'; Guoyu '維持'; Mathews 1931 '維持', p. 143)	1154
 1155	生计	生計	shēngjì	livelihood	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	sheng1ji4.mp3	(CC-CEDICT '生計')	1155
 1156	社	\N	shè	society; group; community	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	she4.mp3	(Unihan '社')	1020
 1157	所	\N	suǒ	an office; an institute	suffix	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	suo3.mp3	(ABC 'suǒ' 所 suf 2; NCCED '所' 5; XHZD '所' 2, p. 718)	383
@@ -1796,7 +1796,7 @@
 1796	甘肃	甘肅	gānsù	Gansu	proper noun	省	Province	地方	Places	中国	China	\N	gan1su4.mp3	Abbreviation 甘 or 陇 (CC-CEDICT '甘肅省'; Guoyu '甘肅省'; Wikipedia '甘肃省')	1796
 1797	兰州	蘭州	lánzhōu	Lanzhou	proper noun	城市	City	地方	Places	中国	China	\N	lan2zhou1.mp3	Capital of Gansu province	1797
 1798	地主	\N	dìzhǔ	landlord; land-owner	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Sun 2006, loc. 1540)	1798
-1799	持	\N	chí	to grasp; to hold	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	chi2.mp3	In the sense of 拿着 (CCD '持' 1; FE '持' 1; Guoyu '持' v 1; Kroll 2015 '持' 1, p. 51; Unihan '持')	1799
+1799	持	\N	chí	to grasp; to hold	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	chi2.mp3	In the sense of 拿着 (CCD '持' 1; FE '持' 1; Guoyu '持' v 1; Kroll 2015 '持' 1, p. 51; Mathews 1931 '持', p. 143; Unihan '持')	1799
 1800	医疗保险	醫療保險	yīliáo bǎoxiǎn	medical insurance	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	yi1liao2bao3xian3.mp3	(CC-CEDICT '醫療保險')	1800
 1801	东	東	dōng	east	noun	方向	Direction	现代汉语	Modern Chinese	\N	\N	\N	dong1.mp3	(Guoyu '東' n 1; Unihan '東')	1801
 1802	西	\N	xī	The West	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	xi1.mp3	America and Europe (CC-CEDICT '西'; Guoyu '西' n 2; Unihan '西')	1802
@@ -16925,7 +16925,7 @@
 16925	紧接	緊接	jǐnjiē	immediately adjacent	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '緊接'; Guoyu '緊接')	16925
 16926	原点	原點	yuándiǎn	the origin	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(FE '原點')	16926
 16927	民政部	\N	mínzhèng Bù	Department of Civil Affairs	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	16927
-16928	马鞍山市	馬鞍山市	mǎ ān shān shì	Ma'anshan	proper noun	城市	City	地方	Places	中国	China	\N	\N	\N	16928
+16928	马鞍山市	馬鞍山市	mǎ'ānshān shì	Ma'anshan	proper noun	城市	City	地方	Places	中国	China	\N	\N	(Wikipedia '马鞍山市')	16928
 16929	麻将	麻將	májiàng	mahjong	noun	爱好	Hobby	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	16929
 16930	找遍	\N	zhǎobiàn	to search everywhere	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	16930
 16931	钢铁	鋼鐵	gāngtiě	steel	noun	\N	\N	现代汉语	Modern Chinese	冶金	Metallurgy	\N	\N	\N	16931
@@ -19252,7 +19252,7 @@
 19252	念诵	念誦	niànsòng	to read out; to recite	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '念誦'; Guoyu '念誦' 1)	19252
 19253	创会	創會	chuànghuì	a founder	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19253
 19254	共事	\N	gòngshì	to work together	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19254
-19255	踢踏舞	\N	tītàwǔ	tap dance	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19255
+19255	踢踏舞	\N	tītà wǔ	tap dance	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '踢踏舞')	19255
 19256	卑微	\N	bēiwēi	petty and low	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19256
 19257	务实	務實	wùshí	to be pragmatic; to be practical	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	19257
 19258	行之有效	\N	xíng zhī yǒu xiào	effective in practice	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '行之有效'; CCI p. 16;  Guoyu '行之有效')	19258
@@ -23101,7 +23101,7 @@
 23101	罗马帝国	羅馬帝國	luómǎ dìguó	Roman Empire	proper noun	帝国	Empire	历史	History	欧洲	Europe	\N	\N	(27 BCE－476 CE) evolved from the Roman Republic	23101
 23102	屋大维	屋大維	wūdàwéi	Julius Caesar	proper noun	执政官	Statesman	历史	History	欧洲	Europe	\N	\N	(100－44 BCE) Roman military and and political leader, key figure in the transition from Republic to Empire	23102
 23103	君士坦丁大帝	君士坦丁大帝	jūnshìtǎndīng dàdì	Constantine I; Constantine the Great	proper noun	皇帝	Emperor	历史	History	欧洲	Europe	\N	\N	(Lived 272－337 CE, reigned 306－337 CE) first Christian Roman emperor	23103
-23104	扶持	\N	fúchí	to help; to assist	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Same as 搀扶 (CC-CEDICT '扶持'; Guoyu '扶持' 1)	23104
+23104	扶持	\N	fúchí	to help; to assist	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Same as 搀扶 (CC-CEDICT '扶持'; Guoyu '扶持' 1; Mathews 1931 '扶持', p. 143)	23104
 23105	马克西穆斯	馬克西穆斯	mǎkèsī mùsī	Maximus the Confessor	proper noun	人	Person	现代汉语	Modern Chinese	\N	\N	\N	\N	(c. 580－662) Christian monk and writer	23105
 23106	蛮族	蠻族	mánzú	barbarian	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '蠻族')	23106
 23107	法学	法學	fǎxué	law; legal studies	noun	学科	Discipline	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	23107
@@ -29891,7 +29891,7 @@
 29891	慾	\N	yù	lust; desire; passion	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	yu4.mp3	In the sense of 情慾 (Guoyu '慾' n 1; Unihan '慾')	29891
 29892	峭拔	\N	qiàobá	high and steep [mountain]	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '峭拔' 1)	29892
 29893	持笔	持筆	chíbǐ	to hold a pen	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持筆')	29893
-29894	持	\N	chí	to uphold	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 支持 (Guoyu '持' v 4; Kroll 2015 '持' 1a, p. 51)	1799
+29894	持	\N	chí	to uphold; to support	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 支持 (Guoyu '持' v 4; Kroll 2015 '持' 1a, p. 51; Mathews 1931 '持', p. 143)	1799
 29895	続	\N	xù	to continue	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Variant of simplified 续, traditional 續 (Unihan '続')	29895
 29896	燋夭	\N	jiāo yāo	to die prematurely	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '燋夭', p. 100)	29896
 29897	燋木	\N	jiāo mù	to burn wood	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '燋木', p. 100)	29897
@@ -56918,9 +56918,9 @@
 56918	加	\N	jiā	to be appointed [to a position]; to grant	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 任 (GHDC '加' 6; Guoyu '加' v 5; Kroll 2015 '加' 1a, p. 190; Mathews 1931 '加', p. 77)	367
 56919	加	\N	jiā	to pass	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 超过 (GHDC '加' 7)	367
 56920	加	\N	jiā	to place above	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 凌驾 (GHDC '加' 7; Guoyu '加' v 2; Kroll 2015 '加' 1, p. 190)	367
-56921	持	\N	chí	to sustain; to keep; to uphold	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	chi2.mp3	(CCD '持' 2; FE '持' 2; Guoyu '持' v 2; Kroll 2015 '持' 2, p. 51;Unihan '持')	1799
-56922	持	\N	chí	to administer; to manage	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	chi2.mp3	In the sense of 主管 (CCD '持' 3; FE '持' 3; Guoyu '持' v 6; Kroll 2015 '持' 3, p. 51)	1799
-56923	持	\N	chí	to control	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	chi2.mp3	In the sense of 控制 (CCD '持' 4; Kroll 2015 '持' 4, p. 51)	1799
+56921	持	\N	chí	to sustain; to keep	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	chi2.mp3	(CCD '持' 2; FE '持' 2; Guoyu '持' v 2; Kroll 2015 '持' 2, p. 51;Unihan '持')	1799
+56922	持	\N	chí	to administer; to manage	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	chi2.mp3	In the sense of 主管 (CCD '持' 3; FE '持' 3; Guoyu '持' v 6; Kroll 2015 '持' 3, p. 51; Mathews 1931 '持', p. 143)	1799
+56923	持	\N	chí	to control; to restrain	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	chi2.mp3	In the sense of 控制 (CCD '持' 4; Kroll 2015 '持' 4, p. 51; Mathews 1931 '持', p. 143)	1799
 56924	持	\N	chí	to be cautious	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '持' 4a, p. 51)	1799
 56925	持	\N	chí	to remember	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '持' 5, p. 51)	1799
 56926	持	\N	chí	to assist	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持' v 5)	1799
@@ -105652,7 +105652,7 @@
 105652	军国	軍國	jūnguó	military affairs and civilian administration	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '軍國' 1)	105652
 105653	军国	軍國	jūnguó	military dictatorship	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '軍國' 2)	105652
 105654	军务	軍務	jūnwù	military affairs	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Same as 军事 (CC-CEDICT '軍務'; Guoyu '軍務')	105654
-105655	扶持	\N	fúchí	to support	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Same as 支持 (Guoyu '扶持' 2)	23104
+105655	扶持	\N	fúchí	to support	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Same as 支持 (Guoyu '扶持' 2; Mathews 1931 '扶持', p. 143)	23104
 105656	新京	\N	xīnjīng	Hsinking	proper noun	城市	City	历史	History	中国	China	\N	\N	Historic name for Changchun when it was the capital of 满洲国 Manchukuo (Wikipedia '新京')	105656
 105657	关东州	關東州	guāndōngzhōu	Kwantung Leased Territory	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	(Wikipedia '关东州')	105657
 105658	不出	\N	bù chū	not transcending	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 不超越 (Guoyu '不出')	105658
@@ -123999,7 +123999,7 @@
 123999	心律不齐	心律不齊	xīn lǜ bù qí	arrhythmia	set phrase	\N	\N	现代汉语	Modern Chinese	医学	Medicine	\N	\N	(CC-CEDICT '心律不齊')	123999
 124000	心律失常	\N	xīn lǜ shīcháng	arrhythmia	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '心律失常')	124000
 124001	心急火燎	\N	xīnjí huǒ liào	to burn with anxiety	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '心急火燎')	124001
-124002	心房颤动	心房顫動	xīnfáng chàndòng	atrial fibrillation	set phrase	\N	\N	现代汉语	Modern Chinese	医学	Medicine	\N	\N	(CC-CEDICT '心房顫動')	124002
+124002	心房颤动	心房顫動	xīnfáng chàndòng	atrial fibrillation	set phrase	\N	\N	现代汉语	Modern Chinese	医学	Medicine	\N	\N	(CC-CEDICT '心房顫動'; Wikipedia '心房颤动')	124002
 124003	心拙口笨	\N	xīn zhuō kǒu bèn	dull-witted and tongue-tied	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '心拙口笨')	124003
 124004	心材	\N	xīncái	pith; central core (of tree)	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '心材')	124004
 124005	心毒手辣	\N	xīndú shǒu là	vicious and ruthless	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '心毒手辣')	124005
@@ -169498,3 +169498,17 @@
 169498	字首语	字首語	zì shǒu yǔ	acronym	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	See 首字母缩略字 (Wikipedia '首字母缩略字')	169498
 169499	年与时驰	年與時馳	nián yǔ shí chí	the years pass as swiftly as hours	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '年與時馳', p. 143)	169499
 169500	缩写字	縮寫字	suōxiě zì	acronym	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	See 首字母缩略字 (Wikipedia '首字母缩略字')	169500
+169501	持危扶颠	持危扶顛	chí wéi fú diān	hold steady what is in danger and prop up what is about to fall	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Guoyu '持危扶顛'; Mathews 1931 '持危扶顛', p. 143)	169501
+169502	成帝	\N	chéng dì	Emperor Cheng [of Han]	proper noun	人	Person	历史	History	中国	China	\N	\N	See 汉成帝 (Wikipedia '汉成帝')	169502
+169503	成帝	\N	chéng dì	Emperor Cheng [of Northern Wei]	proper noun	人	Person	历史	History	中国	China	\N	\N	See 拓跋毛 (Wikipedia '拓跋毛')	169502
+169504	成帝	\N	chéng dì	Emperor Cheng [of Jin]	proper noun	人	Person	历史	History	中国	China	\N	\N	See 晋成帝 (Wikipedia '晋成帝')	169502
+169505	扶持到底	\N	fúchí dàodǐ	to support until the end	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '扶持到底', p. 143)	169505
+169506	拓跋毛	\N	tuòbá máo	Tuoba Mao	proper noun	人	Person	历史	History	中国	China	\N	\N	D. 204 C.E.; Tuoba ruler (Wikipedia '拓跋毛')	169506
+169507	持不逮之资	持不逮之資	chí bù dài zhī zī	possessing abilities that are unapproachable	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持不逮之資', p. 143)	169507
+169508	庾氷	\N	yǔ bīng	Yu Bing	proper noun	人	Person	历史	History	中国	China	\N	\N	296-344 C.E.; Courtesy name 季坚 Jijian, Eastern Jin official (Wikipedia '庾氷')	169508
+169509	持久力	\N	chí jiǔ lì	endurance	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持久力', p. 143)	169509
+169510	姑孰	\N	gūshú	Gushu	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	In present-day Anhui (Wikipedia '姑孰')	169510
+169511	持两端	持兩端	chí liǎng duān	ambivalent	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持兩端', p. 143)	169511
+169512	虎溪街道	\N	hǔxī jiēdào	Huxi Avenue	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	Located in Chongqing (Wikipedia '虎溪街道')	169512
+169513	虎溪	\N	hǔxī	Huxi	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	See 虎溪街道 (Wikipedia '虎溪街道')	169513
+169514	持其志无暴其气	持其志無暴其氣	chí qí zhì wú bào qí qì	hold firmly to your will, and do violate your qi	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A line from 孟子 Mengzi (Mathews 1931 '持其志無暴其氣', p. 143)	169514
