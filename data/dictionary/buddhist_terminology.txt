@@ -510,7 +510,7 @@
 8000510	浮生	\N	fú shēng	the world of the living; the impermanent world	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 浮世 (FGDB '浮世')	8000510
 8000511	阿毘达摩	阿毘達摩	Āpídámó	Abhidharma	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit equivalent: abhidharma, Pali: abhidhamma; see 阿毘曇 (BL 'abhidharma', p. 4; SH '十二部經', p. 44; FGDB '阿毘曇')	8000511
 8000512	不动	不動	bùdòng	Akshobya	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Sanskrit for 'Immovable One,' refers to 不動佛 Akshobya Buddha; see 阿閦佛 (SH '不動佛', p. 104)	8000512
-8000513	不动	不動	bùdòng	acala; niścala; dhruva; unmoved	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '不動', p. 104)	8000512
+8000513	不动	不動	bùdòng	acala; niścala; dhruva; unmoved; imperturbility	adjective	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(SH '不動', p. 104)	8000512
 8000514	高僧	\N	gāosēng	an eminent monk; a senior monk	noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(FGDB '高僧'; SH '高僧', p. 341s)	8000514
 8000515	律宗	\N	lǜ zōng	Vinaya School	proper noun	宗	School	佛教	Buddhism	\N	\N	\N	\N	Japanese: Risshū; one of the Eight Schools of Chinese Buddhism 八大宗派 (BL 'Lü zong', p. 485; Ding '律宗'; FGDB '律宗'; SH '律宗', p. 301; Tzu Chuang 2012, pp. 299-300)	8000515
 8000516	废三显一	廢三顯一	fèi sān xiǎn yī	to set aside the three and establish the One [vehicle]	phrase	\N	\N	佛教	Buddhism	中国	China	\N	\N	Referring to a parable in the Lotus Sutra; closely related to the Tiantai expression 廢權立實 'set aside the provisional [teaching] and establish the real' (FGDB '廢權立實')	8000516
@@ -18509,3 +18509,7 @@
 8018509	涅槃妙心	\N	nièpán miào xīn	the wondrous mind of Nirvāṇa	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The second of the 八句義 meanings of the eight phrases (SH '八句義', p. 34)	8018509
 8018510	实相无情	實相無情	shí xiāng wú qíng	true reality without form	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The third of the 八句義 meanings of the eight phrases (SH '八句義', p. 34)	8018510
 8018511	微妙法门	微妙法門	wēi miào fǎ mén	the subtle Dharma gate	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	The fourth of the 八句義 meanings of the eight phrases (SH '八句義', p. 34)	8018511
+8018512	小道	\N	xiǎo dào	lesser teachings	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	(Karashima 2010, p. 561)	8018512
+8018513	八味	\N	bā wèi	eight flavors	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Namely: 1. 常住 perpetual abode, 2. 寂滅 extinction, 3. 不老 eternal youth, 4. 不死 immortality, 5. 清淨 purity, 6. 虛通 absolute freedom, 7. 不動 imperturbility, and 8. 快樂 joy (FGDB '八味'; SH '八味', p. 35)	8018513
+8018514	不老	\N	bù lǎo	eternal youth	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 八味 eight flavors (SH '八味', p. 35)	8018514
+8018515	虚通	虛通	xū tōng	absolute freedom	phrase	\N	\N	佛教	Buddhism	\N	\N	\N	\N	One of the 八味 eight flavors (SH '八味', p. 35)	8018515

@@ -3038,9 +3038,9 @@
 3038	成竹在胸	\N	chéng zhú zài xiōng	imagine a complete image of bamboo [before drawing it]	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	Variant of 胸有成竹 (Guoyu '成竹在胸')	3038
 3039	胸有定见	胸有定見	xiōng yǒu dìng jiàn	imagine a complete image in your mind [before doing something]	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Guoyu '胸有定見')	3039
 3040	禁止	\N	jìnzhǐ	to prohibit	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	jin4zhi3.mp3	In the sense of 制止 (CC-CEDICT '禁止'; Guoyu '禁止' 1; Mathews 1931 '禁止', p. 131)	3040
-3041	校	\N	xiào	school	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	xiao4.mp3	In this sense 校 is synonymous with 学堂 (Han Dian '校' xiào n 2; Guoyu '校' xiào n 1; Kroll 2015 '校' xiào 1, p. 206)	3041
-3042	校	\N	jiào	to compare; to collate; to proofread	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	xiao4.mp3	(Guoyu '校' jiào v 3; Han Dian '校' jiào v 1; Kroll 2015 '校' jiào 1, p. 206; Mathews 1931 '校', p. 96)	3041
-3043	校	\N	jiào	fetters	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	A kind of instrument for punishment (Guoyu '校' jiào n 1; Han Dian '校' jiào n 1; Kroll 2015 '校' jiào 4a, p. 206)	3041
+3041	校	\N	xiào	school	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	xiao4.mp3	In this sense 校 is synonymous with 学堂 (Han Dian '校' xiào n 2; Hanyu Da Cidian '校' xiào 1, vol. 4, pp. 999; Guoyu '校' xiào n 1; Kroll 2015 '校' xiào 1, p. 206)	3041
+3042	校	\N	jiào	to compare	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In the sense of 比较 (Guoyu '校' jiào v 3; Han Dian '校' jiào v 1; Hanyu Da Cidian '校' jiào 12, vol. 4, pp. 998-999; Kroll 2015 '校' jiào 1, p. 206; Mathews 1931 '校', p. 96)	3041
+3043	校	\N	jiào	fetters	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A kind of instrument for punishment (Guoyu '校' jiào n 1; Han Dian '校' jiào n 1; Hanyu Da Cidian '校' jiào 1, vol. 4, p. 998; Kroll 2015 '校' jiào 4a, p. 206)	3041
 3044	外	\N	wài	outside	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	wai4.mp3	(Kroll 2015 '外' 1; Unihan '外')	3044
 3045	习	習	xí	to fly	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	xi2.mp3	In the sense of 飞 (Guoyu '習' v 1)	3045
 3046	惹	\N	rě	to vex; to offend; to incite	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	re3.mp3	(CC-CEDICT '惹'; Guoyu '惹' v 4; Unihan '惹')	3046
@@ -26287,7 +26287,7 @@
 26287	滑坡	\N	huápō	a rockslide; a landslip; a landslide; a mudslide	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	26286
 26288	宫廷	宮廷	gōngtíng	imperial court	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	\N	26288
 26289	木器	\N	mùqì	a wooden article	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	26289
-26290	仿效	仿傚	fǎngxiào	to copy; to imitate	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	26290
+26290	仿效	仿傚	fǎngxiào	to copy; to imitate	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '仿傚')	26290
 26291	睐	睞	lài	to squint at; to glance at sideways	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	lai4.mp3	\N	26291
 26292	青睐	青睞	qīnglài	to favor; to think highly of	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	26292
 26293	博得	\N	bódé	to win; to gain	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	26293
@@ -29498,7 +29498,7 @@
 29498	画帖	畫帖	huàtiè	drawing copybook	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '畫帖')	29498
 29499	试帖	試帖	shìtiè	examination notice	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	A notice for official examinations, posted in imperial China (Guoyu '試帖')	29499
 29500	帖	\N	tiě	an announcement notice	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	tie3.mp3	(Guoyu '帖' tiè n 1)	7797
-29501	持守	\N	chíshǒu	to maintain; to guard	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '持守')	29501
+29501	持守	\N	chíshǒu	to maintain; to guard	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '持守'; Mathews 1931 '持守', p. 143)	29501
 29502	自省	\N	zì xǐng	to examine oneself; to reflect on one's shortcomings	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	to evaluate, introspect, criticize, control, and educate oneself	29502
 29503	词义	詞義	cíyì	word meaning	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	The potential meaning of a word as a lexical unit in isolation from other text (CCD '词义'; Chan 2004, 'word meaning'; FE '詞義')	29503
 29504	省察	\N	shěngchá	to examine oneself; to reflect on one's shortcomings	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	to evaluate, introspect, criticize, control, and educate oneself	29504
@@ -31849,24 +31849,24 @@
 31849	军衔	軍銜	jūnxián	a military rank	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	31849
 31850	校	\N	jiào	to consider	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 考虑 (Han Dian '校' jiào v 8)	3041
 31851	校尉	\N	xiàowèi	commandant; a military officer	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '校尉'; Guoyu '校尉'; Hucker 1985 , p. 14; Xie 2013, p. 101)	31851
-31852	校	\N	jiào	railing; an enclosure for animals	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 栅栏 (Han Dian '校' jiào n 2; Kroll 2015 '校' jiào 4, p. 206)	3041
+31852	校	\N	jiào	railing; an enclosure for animals	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 栅栏 (Han Dian '校' jiào n 2; Hanyu Da Cidian '校' jiào 2, vol. 4, p. 998; Kroll 2015 '校' jiào 4, p. 206)	3041
 31853	订正	訂正	dìngzhèng	to make corrections	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	31853
 31854	校订	校訂	jiàodìng	to revise	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '校訂'; Guoyu '校訂'; Mathews 1931 '校訂', p. 96)	31854
 31855	校对	校對	jiàoduì	to proofread	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '校對'; Guoyu '校對' 1; Mathews 1931 '校對', p. 96; Wikipedia '校對')	31855
 31856	刑具	\N	xíngjù	punishment equipment; torture instrument	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	\N	31856
-31857	校	\N	jiào	a proof	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校 is synonymous with 养马官 (Han Dian '校' jiào n 4)	3041
-31858	校	\N	jiào	a horsekeeper	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校 is synonymous with 栅栏 (Han Dian '校' jiào n 5)	3041
+31857	校	\N	jiào	a stable	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校 is synonymous with 养马官 (Han Dian '校' jiào n 4)	3041
+31858	校	\N	jiào	a stable manager; a horsekeeper	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校 is an abbreviation for 校人, may also be pronounced jiào (Han Dian '校' jiào n 5; Hanyu Da Cidian '校' jiào 6, vol. 4, p. 998)	3041
 31859	校样	校樣	xiàoyàng	a proof	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In publishing	31859
-31860	校	\N	jiào	a barrack; a military camp	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In this sense 校 is synonymous with 军营 (Han Dian '校' jiào n 7)	3041
+31860	校	\N	jiào	barracks; a military camp	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In this sense 校 is synonymous with 军营 (Han Dian '校' jiào n 7; Hanyu Da Cidian '校' jiào 4, vol. 4, p. 998)	3041
 31861	省称	省稱	shěngchēng	an abbreviation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	31861
-31862	军营	軍營	jūnyíng	a barracks; an army camp	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	31862
+31862	军营	軍營	jūnyíng	a barracks; an army camp	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '軍營'; Guoyu '軍營')	31862
 31863	建制	\N	jiànzhì	an organizational structure	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	31863
-31864	校	\N	jiào	to check; to inspect	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 考核 or 考察 (Guoyu '校' jiào v 4; Han Dian '校' jiào v 3; Kroll 2015 '校' jiào 1, p. 206)	3041
-31865	校	\N	jiào	to compete with; to haggle; to quibble	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 较量 (Han Dian '校' jiào v 5; Kroll 2015 '校' jiào 2, p. 206)	3041
-31866	抗衡	\N	kànghéng	to contend against	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	31866
-31867	校	\N	jiào	to oppose; to criticize	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 对抗 (Guoyu '校' jiào v 2; Han Dian '校' jiào v 7; Kroll 2015 '校' jiào 2, p. 206; Mathews 1931 '校', p. 96)	3041
-31868	校	\N	jiào	to decorate	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 装饰 (Han Dian '校' jiào v 10)	3041
-31869	校	\N	jiào	to count; to calculate; to compute	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 计算 (Guoyu '校' jiào v 5; Han Dian '校' jiào v 11; Kroll 2015 '校' jiào 3, p. 206)	3041
+31864	校	\N	jiào	to check; to inspect	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 考核 or 考察 (Guoyu '校' jiào v 4; Han Dian '校' jiào v 3; Hanyu Da Cidian '校' jiào 10, vol. 4, pp. 998-999; Kroll 2015 '校' jiào 1, p. 206)	3041
+31865	校	\N	jiào	to compete with; to haggle; to quibble	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校 is synonymous with 较量 or 计较 (Han Dian '校' jiào v 5; Hanyu Da Cidian '校' jiào 7, vol. 4, pp. 998-999; Kroll 2015 '校' jiào 2, p. 206)	3041
+31866	抗衡	\N	kànghéng	to contend against	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '抗衡'; Guoyu '抗衡')	31866
+31867	校	\N	jiào	to oppose; to resist; to criticize	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 对抗 or 抵抗 (Guoyu '校' jiào v 2; Han Dian '校' jiào v 7; Hanyu Da Cidian '校' jiào 8, vol. 4, pp. 998-999; Kroll 2015 '校' jiào 2, p. 206; Mathews 1931 '校', p. 96)	3041
+31868	校	\N	jiào	to decorate	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 装饰 (Han Dian '校' jiào v 10; Hanyu Da Cidian '校' jiào 17, vol. 4, pp. 998-999)	3041
+31869	校	\N	jiào	to count; to calculate; to tally	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	jiao4.mp3	In this sense 校 is synonymous with 计算 (Guoyu '校' jiào v 5; Han Dian '校' jiào v 11; Hanyu Da Cidian '校' jiào 11, vol. 4, pp. 998-999; Kroll 2015 '校' jiào 3, p. 206)	3041
 31870	校量	\N	xiàoliàng	to compare; to measure	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校量 is synonymous with 衡量	31870
 31871	校量	\N	xiàoliàng	to haggle; to bicker; to argue	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In this sense 校量 is synonymous with 计较	31870
 31872	贫贱	貧賤	pínjiàn	poor and humble	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '貧賤'; Guoyu '貧賤'; Mathews 1931 '貧賤', p. 120)	31872
@@ -32186,7 +32186,7 @@
 32186	撰述	\N	zhuànshù	to write	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '撰述'; Guoyu '撰述')	32186
 32187	忠悃	\N	zhōngkǔn	sincere	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '忠悃')	32186
 32188	讲室	講室	jiǎngshì	a lecture hall	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	32188
-32189	病愈	\N	bìngyù	to recover from an illness	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	32189
+32189	校	\N	jiào	to collate	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 校勘 (Hanyu Da Cidian '校' jiào 13, vol. 4, pp. 998-999)	3041
 32190	南北	\N	nán běi	north and south	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '南北'; Guoyu '南北' 1)	32190
 32191	死难	死難	sǐnán	to die in an accident; to die for a just cause	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '死難'; Guoyu '死難')	32191
 32192	超度	\N	chāodù	to surpass; to transcend	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	32192
@@ -37280,7 +37280,7 @@
 37280	着笔	著筆	zhāo bǐ	to put pen to paper	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	\N	37280
 37281	姚苌	姚萇	yáo cháng	Yao Chang	proper noun	人	Person	历史	History	中国	China	\N	\N	Lived 330-394, ruled 384-394; ruler of the Later Qin 后秦 (Wikipedia '姚萇')	37281
 37282	舶主	\N	bó zhǔ	the captain or owner of a sea-going ship	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	\N	37282
-37283	义熙	義熙	yìxī	Yixi reign	proper noun	年号	Era name	历史	History	中国	China	\N	\N	405-418; Reign of Emperor An of Jin (Wikipedia '义熙')	37283
+37283	义熙	義熙	yìxī	Yixi era	proper noun	年号	Era name	历史	History	中国	China	\N	\N	405-418 C.E.; Era name of Emperor An of Jin (Wikipedia '义熙')	37283
 37284	竭诚	竭誠	jiéchéng	wholeheartedly	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '竭誠'; Guoyu '竭誠'; Mathews 1931 '竭誠', p. 105)	37284
 37285	国师	國師	guóshī	the army of a state	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '國師' 1)	37285
 37286	独步	獨步	dúbù	to walk alone	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '獨步'; Guoyu '獨步' 2)	37286
@@ -52215,7 +52215,7 @@
 52215	融汇	融匯	rónghuì	to fuse; to combine as one	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '融匯')	52215
 52216	美不胜收	美不勝收	měibùshèngshōu	nothing more beautiful can be imagined	set phrase	\N	\N	成语	Idiom	中国	China	\N	\N	(CC-CEDICT '美不勝收')	52216
 52217	敜	\N	niè	fill up	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '敜')	52217
-52218	骹	\N	qiāo	a joint	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Cantonese (Unihan '骹')	52218
+52218	骹	\N	qiāo	lower leg	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '骹'; Guoyu '骹' n 1)	52218
 52219	蒀	\N	yūn	\N	\N	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '蒀')	52219
 52220	孎	\N	zhú	\N	\N	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '孎')	52220
 52221	恖	\N	sī	\N	\N	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '恖')	52221
@@ -63346,8 +63346,8 @@
 63346	余地	餘地	yúdì	unused land outside a tomb	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '餘地' 2)	63344
 63347	华灯初上	華燈初上	huà dēng chū shàng	early evening when lanterns are first lit	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '華燈初上'; Guoyu '華燈初上')	63347
 63348	武断	武斷	wǔduàn	dogmatic	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '武斷'; Guoyu '武斷' 1)	63348
-63349	持平	\N	chípíng	to stay level	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Of exchange rate, market share, etc (CC-CEDICT '持平'; Guoyu '持平')	63349
-63350	持平	\N	chípíng	fair; unbiased	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '持平'; Guoyu '持平')	63349
+63349	持平	\N	chípíng	to stay level; to be equal	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Of exchange rate, market share, etc (CC-CEDICT '持平'; Guoyu '持平' 1)	63349
+63350	持平	\N	chípíng	fair; unbiased	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '持平'; Guoyu '持平' 1; Mathews 1931 '持平', p. 143)	63349
 63351	是非曲直	\N	shì fēi qǔ zhí	right and wrong, crooked and straight	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	Figuratively, merit and demerit (CC-CEDICT '是非曲直'; Guoyu '是非曲直')	63351
 63352	武断	武斷	wǔduàn	arbitrary; subjective	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '武斷'; Guoyu '武斷' 2)	63348
 63353	星期	\N	xīngqī	week	measure word	\N	\N	现代汉语	Modern Chinese	时间	time	\N	\N	(CC-CEDICT '星期'; Guoyu '星期' 2)	436
@@ -70058,7 +70058,7 @@
 70058	新造	\N	xīnzào	newly made	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '新造')	70058
 70059	二老	\N	èr lǎo	mother and father; parents	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '二老'; Guoyu '二老' 2)	70059
 70060	朝日	\N	zhāorì	morning sun	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '朝日'; Guoyu '朝日' zhāorì)	70060
-70061	小道	\N	xiǎo dào	bypath; trail	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '小道')	70061
+70061	小道	\N	xiǎo dào	bypath; trail	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '小道')	70061
 70062	未熟	\N	wèishú	unripe	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '未熟')	70062
 70063	谋食	謀食	móushí	to make a living; to strive to earn a living	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '謀食')	70063
 70064	骄矜	驕矜	jiāojīn	haughty; arrogant	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '驕矜'; Guoyu 1931 '驕矜'; Mathews 1931 '驕矜', p. 94)	70064
@@ -72544,12 +72544,12 @@
 72544	燕赵	燕趙	yān zhào	beautiful women; women dancers and singers	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '燕趙')	69985
 72545	博文	\N	bówén	to write a blog article	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '博文')	69997
 72546	大作	\N	dàzuò	to erupt; to begin abruptly	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '大作')	70027
-72547	菜色	\N	càisè	lean and hungry look; emaciated look (from malnutrition)	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '菜色')	70054
+72547	菜色	\N	cài sè	lean and hungry look; emaciated look (from malnutrition)	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '菜色')	70054
 72548	音律	\N	yīnlǜ	temperament	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '音律')	70057
-72549	小道	\N	xiǎo dào	bribery as a means of achieving a goal	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '小道')	70061
-72550	小道	\N	xiǎo dào	minor arts	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Confucian reference to agriculture, medicine, divination, and other professions unworthy of a gentleman (CC-CEDICT '小道')	70061
-72551	食道	\N	shídào	the proper way to eat	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '食道')	70067
-72552	食道	\N	shídào	food transportation route	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '食道')	70067
+72549	小道	\N	xiǎo dào	bribery as a means of achieving a goal	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '小道')	70061
+72550	小道	\N	xiǎo dào	minor arts	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Confucian reference to agriculture, medicine, divination, and other professions unworthy of a gentleman (CC-CEDICT '小道')	70061
+72551	食道	\N	shídào	the proper way to eat	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '食道')	70067
+72552	食道	\N	shídào	food transportation route	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '食道')	70067
 72553	殊死	\N	shūsǐ	capital punishment	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '殊死')	70071
 72554	殊死	\N	shūsǐ	desperate struggle; life-and-death	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '殊死')	70071
 72555	僬侥	僬僥	jiāoyáo	Jiao Yao [tribe]	proper noun	\N	\N	历史	History	中国	China	\N	\N	A historic southwestern non-Han tribe (CC-CEDICT '僬僥'; Guoyu '僬僥' 1)	70113
@@ -73490,7 +73490,7 @@
 73490	贵宾室	貴賓室	guìbīn shì	VIP lounge	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '貴賓室')	73490
 73491	顽劣	頑劣	wánliè	stubborn and obstreperous; naughty and mischievous	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '頑劣')	73491
 73492	课余	課餘	kèyú	after school; extracurricular	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '課餘')	73492
-73493	持家	\N	chíjiā	to housekeep; housekeeping	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '持家')	73493
+73493	持家	\N	chí jiā	to manage family affairs	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '持家'; Guoyu '持家'; Mathews 1931 '持家', p. 143)	73493
 73494	泪水	淚水	lèishuǐ	teardrop; tears	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '淚水')	73494
 73495	社会团体	社會團體	shèhuì tuántǐ	social group; community organization	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '社會團體')	73495
 73496	琐碎	瑣碎	suǒsuì	trifling; trivial; tedious; inconsequential	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '瑣碎')	73496
@@ -78111,7 +78111,7 @@
 78111	工业园区	工業園區	gōngyè yuánqū	industrial park	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '工業園區')	78111
 78112	硫磺	\N	liúhuáng	sulfur	noun	元素	Chemical Element	现代汉语	Modern Chinese	化学	Chemistry	\N	\N	(CC-CEDICT '硫磺')	78112
 78113	六龟	六龜	liùguī	Liugui; Liukuei	proper noun	地名	Place Name	地方	Places	\N	\N	\N	\N	Township In Kaohsiung County 高雄县, Southwest Taiwan (CC-CEDICT '六龜')	78113
-78114	病愈	病癒	bìngyù	to recover (from an illness)	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '病癒')	78114
+78114	病愈	病癒	bìngyù	to recover from an illness	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '病癒'; Guoyu '病癒')	78114
 78115	败光	敗光	bàiguāng	to squander one's fortune; to dissipate one's wealth	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '敗光')	78115
 78116	短浅	短淺	duǎnqiǎn	narrow and shallow	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '短淺')	78116
 78117	芋头	芋頭	yùtóu	taro	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '芋頭')	78117
@@ -108010,7 +108010,7 @@
 108010	噯	\N	ài	expressing lament	interjection	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '噯' ài 1)	48987
 108011	噯	\N	ài	expressing surprise	interjection	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '噯' ài 2)	48987
 108012	噯呀	\N	àiya	oh	interjection	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Expressing surprise (Guoyu '噯呀'; Mathews 1931 '噯呀' p. 3)	108012
-108013	校	\N	xiào	lieutenant; mid-ranking officer	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	xiao4.mp3	In the sense 校 of 中级軍官 (Guoyu '校' xiào n 2; Hucker 1985, p. 234; Kroll 2015 '校' xiào 2a, p. 206)	3041
+108013	校	\N	xiào	lieutenant; mid-ranking officer	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	xiao4.mp3	In the sense 校 of 中级軍官, may be pronounced jiào (Guoyu '校' xiào n 2; Hanyu Da Cidian '校' xiào 3, vol. 4, p. 999; Hucker 1985, p. 234; Kroll 2015 '校' xiào 2a, p. 206)	3041
 108014	校	\N	xiào	Xiao	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(Guoyu '校' xiào n 3)	3041
 108015	令嬡	\N	lìngài	(your) daughter	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '令嬡'; Mathews 1931 '令嬡' p. 3)	108015
 108016	光明磊落	\N	guāngmíng lěiluò	open and candid	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '光明磊落'; Guoyu '光明磊落')	108016
@@ -108364,7 +108364,7 @@
 108364	仅有	僅有	jǐnyǒu	to only have	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '僅有')	108364
 108365	换言之	換言之	huàn yán zhī	in other words	set phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '換言之'; Guoyu '換言之')	108365
 108366	校	\N	xiào	a military unit of 500 men	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '校' xiào 2, p. 206)	3041
-108366	校	\N	xiào	to recover; to heal	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '校' xiào 3, p. 206)	3041
+108366	校	\N	xiào	to recover; to heal	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 病愈, may also be pronounced jiào (Hanyu Da Cidian '校' jiào 16, vol. 4, pp. 998-999; Kroll 2015 '校' xiào 3, p. 206)	3041
 108368	接	\N	jiē	to catch	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As in a bird catching insects (Kroll 2015 '接' 5, p. 207)	2924
 108369	坟	墳	fén	ancient texts	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Especially texts in the group 三坟五典 attributed to legendary figures, such as Fuxi, Shennong, and Huangdi (Guoyu '墳' n 3; Kroll 2015 '墳' 2, p. 113)	12059
 108370	坟	墳	fén	riverbank	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 濆 (Kroll 2015 '墳' 3, p. 113)	12059
@@ -169512,3 +169512,53 @@
 169512	虎溪街道	\N	hǔxī jiēdào	Huxi Avenue	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	Located in Chongqing (Wikipedia '虎溪街道')	169512
 169513	虎溪	\N	hǔxī	Huxi	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	See 虎溪街道 (Wikipedia '虎溪街道')	169513
 169514	持其志无暴其气	持其志無暴其氣	chí qí zhì wú bào qí qì	hold firmly to your will, and do violate your qi	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A line from 孟子 Mengzi (Mathews 1931 '持其志無暴其氣', p. 143)	169514
+169515	田巴	\N	tián bā	Tian Ba	proper noun	人	Person	历史	History	中国	China	\N	\N	Warring States period philosopher (Wikipedia '田巴')	169515
+169516	持咒	\N	chí zhòu	to recite a charm	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持咒', p. 143)	169516
+169517	鲁仲连	魯仲連	lǔ zhònglián	Lu Zhonglian	proper noun	人	Person	历史	History	中国	China	\N	\N	305-245 B.C.E; Warring States period scholar (Wikipedia '鲁仲连')	169517
+169518	鲁连	魯連	lǔ lián	Lu Lian	proper noun	人	Person	历史	History	中国	China	\N	\N	See 鲁仲连 (Wikipedia '鲁仲连')	169518
+169519	持执	持執	chí zhí	to grant; to hold	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持執', p. 143)	169519
+169520	下帷	\N	xiàwéi	to lower the curtain	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	May refer to starting school or to start to receive instruction (Guoyu '下帷')	169520
+169521	持定	\N	chí dìng	to hold fast to	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持定', p. 143)	169521
+169522	幽栖巖谷	幽棲巖谷	yōu qī yán gǔ	to live in seclusion in the deep wilderness	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Guoyu '幽棲巖谷')	169522
+169523	持帖	\N	chí tiè	to hold a card; to present a card	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持帖', p. 143)	169523
+169524	校	\N	jiào	to trap a bird or an animal	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Da Cidian '校' jiào 3, vol. 4, p. 998; Kroll 2015 '校' jiào 4, p. 206)	3041
+169525	校	\N	jiào	to differ	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 相差 (Hanyu Da Cidian '校' jiào 14, vol. 4, pp. 998-999)	3041
+169526	校	\N	jiào	to associate with	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 交, in the sense of 交往 (Hanyu Da Cidian '校' jiào 15, vol. 4, pp. 998-999)	3041
+169527	校	\N	xiào	to teach	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 教 (Hanyu Da Cidian '校' xiào 2, vol. 4, p. 999)	3041
+169528	校	\N	xiào	to appear	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 呈现 (Hanyu Da Cidian '校' xiào 4, vol. 4, p. 999)	3041
+169529	校	\N	xiào	to copy; to imitate	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 仿效 (Hanyu Da Cidian '校' xiào 5, vol. 4, p. 999)	3041
+169530	校	\N	xiào	to happy; to be joyful	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 喜悦 (Hanyu Da Cidian '校' xiào 6, vol. 4, p. 999)	3041
+169531	校	\N	jiǎo	firm	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 牢固 (Hanyu Da Cidian '校' jiǎo 1, vol. 4, p. 999)	3041
+169532	校	\N	jiǎo	hurried; rapid	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 急速 (Hanyu Da Cidian '校' jiǎo 2, vol. 4, p. 999)	3041
+169533	校	\N	jiǎo	a dark green color	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 暗绿色 (Hanyu Da Cidian '校' jiǎo 3, vol. 4, p. 999)	3041
+169534	校	\N	qiāo	the foot of a vessel	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 骹 (Hanyu Da Cidian '校' qiāo, vol. 4, p. 999)	3041
+169535	校练	校練	jiào liàn	to examine; to assess	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 考核 (Hanyu Da Cidian '校練', vol. 4, p. 1004)	169535
+169536	持循	\N	chí xún	to obey; to follow rules	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持循'; Mathews 1931 '持循', p. 143)	169536
+169537	马棚	馬棚	mǎpéng	a stable	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '馬棚'; Wikipedia '马棚')	169537
+169538	持意	\N	chí yì	to hold to one's own opinions	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持意', p. 143)	169538
+169539	骹	\N	qiāo	a whistling arrow	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 响箭 (Guoyu '骹' n  3)	52218
+169540	骹	\N	qiāo	a joint	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Cantonese (Unihan '骹')	52218
+169541	持戟	\N	chí jǐ	to hold a halberd; to hold weapons	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持戟' 1; Mathews 1931 '持戟', p. 143)	169541
+169542	持戟	\N	chí jǐ	a warrior	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持戟' 2)	169541
+169543	持戟	\N	chí jǐ	an attendant	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持戟' 3)	169541
+169544	响箭	響箭	xiǎng jiàn	a whistling arrow	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Used as a signal in ancient times (CC-CEDICT '響箭'; Guoyu '響箭')	169544
+169545	持拿	\N	chí ná	to take control	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '持拿', p. 143)	169545
+169546	研思	\N	yán sī	to ponder deeply	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '研思')	169546
+169547	持服	\N	chí fú	to mourn for one's parents	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持服'; Mathews 1931 '持服', p. 143)	169547
+169548	纷然	紛然	fēn rán	chaotic	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '紛然')	169548
+169549	持正	\N	chí zhèng	to maintain upright conduct	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持正' 1; Mathews 1931 '持正', p. 143)	169549
+169550	正容	\N	zhèng róng	a dignified countenance; a solemn demeanor	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '正容')	169550
+169551	持法	\N	chí fǎ	to uphold the law	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持法', p. 143)	169551
+169552	厉疾	厲疾	lì jí	a rapidly spreading illness; an epidemic	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '厲疾' 1)	169552
+169553	厉疾	厲疾	lì jí	fast and fierce	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '厲疾' 2)	169552
+169554	持照	\N	chí zhào	to hold a pass	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '持照', p. 143)	169554
+169555	星行	\N	xīng xíng	to travel by night	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '星行')	169555
+169556	持狭欲奢	\N	chí xiá yù shē	to offer little but expect a lot	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Mathews 1931 '持狭欲奢', p. 143)	169556
+169557	投迹	投跡	tóu jī	to cast one's steps	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '投跡')	169557
+169558	持盈	\N	chí yíng	to preserve achievements	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持盈'; Mathews 1931 '持盈', p. 143)	169558
+169559	庐岳	廬岳	lúyuè	Mount Lu	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	See 庐山 (Wikipedia '庐山')	169559
+169560	持盈保泰	\N	chí yíng bǎo tài	to preserve achievements and maintain an advantage	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Guoyu '持盈保泰'; Mathews 1931 '持盈保泰', p. 143)	169560
+169561	观听	觀聽	guān tīng	to observe and listen	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '观听')	169561
+169562	持节使	持節使	chí jié shǐ	a messenger with imperial commission	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持節使', p. 143)	169562
+169563	嗟骇	嗟駭	jiē hài	to be alarmed	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '嗟骇')	169563
+169564	持索捕风	持索捕風	chí suǒ bǔ fēng	to use a rope to catch the wind; to attempt the impossible	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Mathews 1931 '持索捕風', p. 143)	169564

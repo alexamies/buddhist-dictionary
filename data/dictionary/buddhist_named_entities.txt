@@ -1054,7 +1054,7 @@
 7001054	天保寺	\N	tiānbǎo sì	 Tianbao Temple	proper noun	寺	Temple	佛教	Buddhism	中国	China	\N	\N	The name of a historic temple in Nanjing (BSPAD '天保寺', ID PL000000008805)	7001054
 7001055	法和	\N	fǎhé	Fahe	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Monk from Henan who lived in the Former Qin Kingdom, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (FGDB '法和')	7001055
 7001056	竺僧朗	\N	zhú fǎlǎng	Zhu Falang	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Jin dynasty monk from Jingtao 京兆, present-day Xi'an, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (FGDB '竺僧朗')	7001056
-7001057	竺法汰	\N	zhú fǎtài	Zhu Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	320 - 387, Eastern Jin dynasty monk from Shandong, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (BSAD '竺法汰', Authority ID：A002193; FGDB '竺法汰')	7001057
+7001057	竺法汰	\N	zhú fǎtài	Zhu Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	320 - 387. C.E.; Eastern Jin monk from Shandong, mentioned in the Liang Biographies of Eminent Monks, Scroll 5 梁高僧傳卷第五 (BSAD '竺法汰', Authority ID：A002193; FGDB '竺法汰')	7001057
 7001058	阿若憍怜	阿若憍憐	āruò jiāolián	ājñāta Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (FGDB '憍陳如')	7001058
 7001059	居邻	居鄰	jūlín	Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (FGDB '憍陳如')	7001059
 7001060	居伦	居倫	jūlún	Kauṇḍinya	proper noun	法师	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	See 憍陳如 (FGDB '憍陳如')	7001060
@@ -9068,3 +9068,5 @@
 7009068	虎溪	\N	hǔxī	Huxi	proper noun	地名	Place Name	佛教	Buddhism	中国	China	\N	\N	Name of a river in Zhejiang (BSPAD '虎溪', PL000000018788)	7009068
 7009069	龙泉精舍	龍泉精舍	lóngquán jīngshě	Longquan Vihara	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	Historic temple located on Mount Lu in Zhejiang (BSPAD '龍泉精舍', PL000000018767)	7009069
 7009070	庐山精舍	廬山精舍	lúshān jīngshě	Mount Lu Vihara	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	An alternative name for 龍泉精舍 (BSPAD '龍泉精舍', PL000000018767)	169445
+7009071	法汰	\N	fǎtài	Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺法汰 (BSAD '竺法汰', Authority ID：A002193; FGDB '竺法汰')	7009071
+7009072	智胜	智勝	zhìshèng	Zhisheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Khotanese monastic in the Liu Song dynasty (BSAD '智勝', ID：A002612)	7009072
