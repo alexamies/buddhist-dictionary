@@ -1366,7 +1366,7 @@
 7001366	施护	施護	shī hù	 Danapala	proper noun	师父	Monastic	佛教	Buddhism	印度	India	\N	\N	Sanskrit equivalent: dānapāla, Japanese: Sego; d. 1018; Indian Buddhist monk who travelled to China during the Northern Song, one of the most prolific translators of sutras into Chinese (BL 'Dānapāla', p. 212; FGDB '施護')	7001366
 7001367	瞿摩帝	\N	qúmódì	Gomati Monastery	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	Mentioned in Records of Buddhistic Kingdoms (BSPAD '瞿摩帝大寺', ID PL000000047980)	7001367
 7001368	佛馱跋陀罗	佛馱跋陀羅	fóduòbátuóluó	   Buddhabhadra	proper noun	法师	Monastic	佛教	Buddhism	印度	India	\N	\N	Monk from India that stayed in China during the fourth century (FGDB '佛馱跋陀羅')	7001368
-7001369	释法显	釋法顯	shì fǎ xiǎn	Fa Xian	proper noun	师父	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 法顯 (Wikipedia '法显')	7001369
+7001369	释法显	釋法顯	shì fǎ xiǎn	Shi Faxian	proper noun	师父	Monastic	佛教	Buddhism	中国	China	\N	\N	See 法顯 (Wikipedia '法显')	7001369
 7001370	毕邻陀婆蹉	畢鄰陀婆蹉	bìlíntuópócuō	Pilindavatsa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 畢陵伽婆蹉 (FGDB '畢陵伽婆蹉')	7001370
 7001371	毕兰陀筏蹉	畢蘭陀筏蹉	bìlántuófácuō	Pilindavatsa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 畢陵伽婆蹉 (FGDB '畢陵伽婆蹉')	7001371
 7001372	比利陀婆遮	\N	bìlìtuópózhē	Pilindavatsa	proper noun	师父	Monastic	佛教	Buddhism	印度佛教	Indian Buddhism	\N	\N	Same as 畢陵伽婆蹉 (FGDB '畢陵伽婆蹉')	7001372
@@ -3806,7 +3806,7 @@
 7003806	大慧书	大慧書	dàhuì shū	Dahui's Correspondence	proper noun	典籍	Canonical Text	佛教	Buddhism	禅宗	Chan	\N	\N	Short name for 大慧普覺禪師語錄 (FGDB '大慧書'; Heine 2016, p. 145)	7003806
 7003807	正法眼藏	\N	zhèng fǎ yǎn zàng	Treasury of the True Dharma Eye	proper noun	典籍	Canonical Text	佛教	Buddhism	禅宗	Chan	\N	\N	Japanese: Shōbōgenzō; title of a work by Song dynasty Chan master 大慧 Dahui containing 661 koans (FGDB '正法眼藏'; Heine 2016, p. 145; X 1309)	7003807
 7003808	慧景	\N	huì jǐng	Hui Jing	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	zuo4.mp3	Wade-Giles: Hwuy-king, a travelling companion of Faxian, in Record of Buddhistic Kingdoms 佛國記 (T 2085)	7003808
-7003809	道整	\N	dào Zhěng	Dao Zheng	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: Tao-ching, a travelling companion of Faxian, in Record of Buddhistic Kingdoms 佛國記 (T 2085)	7003809
+7003809	道整	\N	dào zhěng	Daozheng	proper noun	人	Person	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: Tao-ching, a travelling companion of Faxian, in Record of Buddhistic Kingdoms 佛國記 (T 2085)	7003809
 7003810	焉夷国	焉夷國	yānyí	Yanyi; Woo-e	proper noun	国	Country	佛教	Buddhism	\N	\N	\N	\N	Wade-Giles: Woo-e, a country that Faxian travelled to, mentioned in Record of Buddhistic Kingdoms 佛國記 (T 2085)	7003810
 7003811	梨车	梨車	líchē	Licchavi; Lecchavi	proper noun	民族	Ethnic Group	佛教	Buddhism	印度	India	\N	\N	See 離車毘 (FGDB '離車毘')	7003811
 7003812	大沩秀	大溈秀	dàwéi xiù	Dagui Xiu	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Song dynasty monastic belonging to the Linji School (FGDB '大溈秀')	7003812
@@ -9070,3 +9070,5 @@
 7009070	庐山精舍	廬山精舍	lúshān jīngshě	Mount Lu Vihara	proper noun	寺院	Temple	佛教	Buddhism	中国	China	\N	\N	An alternative name for 龍泉精舍 (BSPAD '龍泉精舍', PL000000018767)	169445
 7009071	法汰	\N	fǎtài	Fatai	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	See 竺法汰 (BSAD '竺法汰', Authority ID：A002193; FGDB '竺法汰')	7009071
 7009072	智胜	智勝	zhìshèng	Zhisheng	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Khotanese monastic in the Liu Song dynasty (BSAD '智勝', ID：A002612)	7009072
+7009073	小雪山	\N	xiǎoxuěshān	Sulaiman Mountains	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 蘇萊曼山脈 (BSPAD '小雪山', PL000000049249)	7009073
+7009074	耶婆提国	耶婆提國	yépótí guó	Yāva-dvīpa	proper noun	王国	Kingdom	佛教	Buddhism	亚洲	Asia	\N	\N	Historic kingdom in Indonesia visited by Faxian (BSPAD '耶婆提國', PL000000048200)	7009074

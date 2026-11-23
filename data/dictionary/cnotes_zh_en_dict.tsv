@@ -16302,7 +16302,7 @@
 16302	瘟疫	\N	wēnyì	a pestilence; a plague	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '瘟疫'; Guoyu '瘟疫')	16302
 16303	伪	偽	wěi	false; fake; forged; bogus	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	wei3.mp3	(NCCED '伪' 1; Unihan '偽')	16303
 16304	伪造	偽造	wěizào	to forge; to fake; to counterfeit	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '偽造')	16304
-16305	耻	恥	chǐ	shame; a sense of shame	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '恥' 1; Unicode '恥')	16305
+16305	耻	恥	chǐ	shame; a sense of shame	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '恥' 1; Kroll 2015 '恥' 1, p. 52; Mathews 1931 '恥', p. 143; Unicode '恥')	16305
 16306	无耻	無恥	wúchǐ	shameless	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '無恥'; Guoyu '無恥')	16306
 16307	无从	無從	wú cóng	to have no way	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '無從'; Guoyu '無從')	16307
 16308	无非	無非	wúfēi	nothing but	adverb	\N	\N	现代汉语	Modern Chinese	虚词	Function Words	\N	\N	(CC-CEDICT '無非'; Guoyu '無非')	16308
@@ -16397,7 +16397,7 @@
 16397	协议	協議	xiéyì	protocol	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC_CEDICT '協議'; Guoyu '協議' 2)	4396
 16398	挟	挾	xié	to clasp under the arm	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	xie2.mp3	(Guoyu '挾' v 1; Unihan '挾')	16398
 16399	挟	挾	xié	to hold hold between	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '挾'; Guoyu '挾' v 2)	16398
-16400	挟持	挾持	xiéchí	to grasp a person on both sides by their arms	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	16400
+16400	挟持	挾持	xié chí	to grasp a person on both sides by their arms	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '挾持')	16400
 16401	泄	\N	xiè	to let out; to leak	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	xie4.mp3	To leak gas or fluid (CC-CEDICT '泄'; Guoyu '泄' v 1; Kroll 2015 '泄' 1, p. 506; Unihan '泄'; XHZD '泄' 1, p. 829)	16401
 16402	泄露	\N	xièlù	to divulge	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	16402
 16403	泄气	泄氣	xièqì	to feel discouraged	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	16403
@@ -33940,8 +33940,8 @@
 33940	缄	緘	jiān	letter	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '緘'; Guoyu '緘' n 2; Kroll 2015 '緘' 4, p. 195; Unihan '緘')	33940
 33941	缄	緘	jiān	to close; to seal	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '緘'; Guoyu '緘' v 2; Kroll 2015 '緘' 3, p. 195; Mathews 1931 '緘', p. 113; Unihan '緘')	33940
 33942	怼	懟	duì	to dislike; to hate	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '懟'; Guoyu '懟'; Unihan '懟')	33942
-33943	龆	齠	duì	to shed milk teeth	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '齠'; Guoyu '齠' v; Unihan '齠')	33943
-33944	龆	齠	duì	young	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '齠'; Guoyu '齠' adj)	33943
+33943	龆	齠	tiáo	to shed milk teeth	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '齠'; Guoyu '齠' v; Hanyu Da Cidian '齠' 1, vo. 12, p. 1452; Unihan '齠')	33943
+33944	龆	齠	tiáo	young	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '齠'; Guoyu '齠' adj; Hanyu Da Cidian '齠' 3, vo. 12, p. 1452)	33943
 33945	汧	\N	qiān	a marsh	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '汧')	33945
 33946	浔	潯	xún	a steep bank	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '潯' n 1; Unihan '潯')	33946
 33947	玟	\N	mín	a jade-like stone	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '玟'; Guoyu '玟' mín; Unihan '玟')	33947
@@ -35449,7 +35449,7 @@
 35449	签	籤	qiān	an inscribed bamboo stick	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Traditional: 籤; used in divination, gambling, drawing lots etc (CCD 2 '签' 1, p. 1532; Guoyu '籤' n 1; Kroll 2015 '簽' 1, p. 360; Mathews 1931 '籤', p. 126; XHZD '签' 6, p. 596)	35449
 35450	签	簽	qiān	to note	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Traditional: 簽 (CCD 1 '签' 2, p. 1532; XHZD '签' 2, p. 592)	35449
 35451	抽签	抽籤	chōu qiān	to draw lots	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '抽籤'; Guoyu '抽籤' 3; Mathews 1931 '抽籤', p. 126)	35451
-35452	相持不下	\N	xiàng chí bù xià	at a stalemate; deadlocked; in unrelenting mutual opposition	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	\N	35452
+35452	相持不下	\N	xiàng chí bù xià	at a stalemate; deadlocked; in unrelenting mutual opposition	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '相持不下'; Guoyu '相持不下'; Mathews 1931 '相持不下', p. 143)	35452
 35453	看一看	\N	kàn yī kàn	to have a look	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	35453
 35454	机警	機警	jījǐng	perceptive; astute; sharp; sharp-witted; vigilant; alert	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '機警'; Guoyu '機警'; Mathews 1931 '機警', p. 55)	35454
 35455	动态主机设定协定	動態主機設定協定	dòngtài zhǔjī shèdìng xiédìng	Dynamic Host Configuration Protocol (DHCP)	proper noun	\N	\N	计算机学	Computer Science	\N	\N	\N	\N	(Wikipedia '動態主機設定協定')	35455
@@ -36440,7 +36440,7 @@
 36440	元嘉	\N	yuánjiā	Yuanjia era	proper noun	年号	Era name	历史	History	中国	China	\N	\N	145; Era name for Emperor Chong of Han; see 永嘉 (Wikipedia '永嘉 (東漢)')	36440
 36441	宋文帝	\N	sòng wéndì	Emperor Wen of Liu Song	proper noun	皇帝	Emperor	历史	History	中国	China	\N	\N	Lived 407-453, reigned 424-453 (Wikipedia '宋文帝')	36441
 36442	牢固	\N	láogù	resolute; certain	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	Describing an idea or frame of mind (Guoyu '牢固' 2)	12765
-36443	耶婆提国	耶婆提國	yépótí guó	Yāva—dvīpa	proper noun	王国	Kingdom	历史	History	亚洲	Asia	\N	\N	Historic kingdom in Indonesia visited by Faxian	36443
+36443	持验	持驗	chí yàn	to give evidence	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持驗', p. 143)	36443
 36444	当面	當面	dāngmiàn	face to face	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '當面'; Guoyu '當面' 2)	11819
 36445	逍遥	逍遙	xiāo yáo	free and unfettered	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	This is an example of a rhyming semi-reduplicate in Literary Chinese (Norman 1988p. 87).	36445
 36446	谢安	謝安	xiè ān	Xie An	proper noun	政治家	Politician	历史	History	中国	China	\N	\N	320-385	36446
@@ -37517,7 +37517,7 @@
 37517	严丽	嚴麗	yánlì	stately and gorgeous	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '嚴麗')	37517
 37518	弓仗	\N	gōngzhàng	bows, arrows, swords, and halberds; weapons	set phrase	武器	Weapon	文言文	Literary Chinese	\N	\N	\N	gong1.mp3	\N	37518
 37519	闷	悶	mēn	taciturn	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '悶' mēn adj 3; Kroll 2015 '悶' mén 2)	12898
-37520	长广	長廣	chángguǎng	Changguang	proper noun	县	County	历史	History	中国	China	\N	\N	Wade-Giles: Ch’ang-kwang, a historic place in Shandong	37520
+37520	长广	長廣	chángguǎng	Changguang	proper noun	县	County	历史	History	中国	China	\N	\N	Wade-Giles: Ch’ang-kwang, a historic place in Shandong; see 长广郡 (Wikipedia '长广郡')	37520
 37521	八十	\N	bāshí	eighty	number	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '80')	37521
 37522	斥	\N	chì	to dismiss; to reject	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '斥'; Guoyu '斥' v 1; Kroll 2015 '斥' 1a, p. 52; XHZD '斥' 2, p. 91)	12979
 37523	沙河	\N	shāhé	Shahe	proper noun	县	County	地方	Places	中国	China	\N	\N	A county in Hebei	37523
@@ -62038,8 +62038,8 @@
 62038	信用	\N	xìnyòng	to believe	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	What one hears (CC-CEDICT '信用'; Guoyu '信用' 2)	1649
 62039	信用	\N	xìnyòng	the virtual of trustworthiness	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '信用' 3)	1649
 62040	知耻	知恥	zhīchǐ	to have a sense of shame	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '知恥'; Guoyu '知恥'; Mathews 1931 '知恥', p. 129)	62040
-62041	耻	恥	chǐ	a disgrace; something humiliatiing	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '恥' 2; Unicode '恥')	16305
-62042	耻	恥	chǐ	humiliation	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '恥' 3; Unicode '恥')	16305
+62041	耻	恥	chǐ	a disgrace; something shameful; something humiliatiing	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '恥' 2; Mathews 1931 '恥', p. 143; Kroll 2015 '恥' 1, p. 52; Unicode '恥')	16305
+62042	耻	恥	chǐ	humiliation	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '恥' 3; Kroll 2015 '恥' 1a, p. 52; Unicode '恥')	16305
 62043	羞辱	\N	xiūrǔ	shame; dishonor; humiliation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '羞辱'; Guoyu '羞辱')	62043
 62044	雅量	\N	yǎliàng	a calm and forgiving manner; magnanimity	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '雅量'; Guoyu '雅量' 1)	62044
 62045	雅量	\N	yǎliàng	high capacity for drinking	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '雅量'; Guoyu '雅量' 2)	62044
@@ -64516,8 +64516,8 @@
 64516	健全	\N	jiànquán	to be perfect	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '健全' 2)	12603
 64517	自律	\N	zìlǜ	self-discipline; self-regulation	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '自律'; Guoyu '自律')	64517
 64518	自律	\N	zìlǜ	autonomic	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '自律')	64517
-64519	自持	\N	zìchí	to maintain self respect	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '自持' 1)	64519
-64520	自持	\N	zìchí	self control	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '自持' 1)	64519
+64519	自持	\N	zì chí	to maintain self respect	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '自持'; Guoyu '自持' 1)	64519
+64520	自持	\N	zì chí	self control	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '自持'; Guoyu '自持' 2; Mathews 1931 '自持', p. 143)	64519
 64521	御	\N	yù	to govern; to administer	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the self of 治理 (Guoyu '御' yù v 2)	9051
 64522	御	\N	yù	to attend	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the self of 侍奉 (Guoyu '御' yù v 3)	9051
 64523	御	\N	yù	to offer	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the self of 进献 (Guoyu '御' yù v 4)	9051
@@ -69667,7 +69667,7 @@
 69667	两句	兩句	liǎngjù	(say) a few words	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '兩句')	69667
 69668	季冬	\N	jìdōng	final month of winter	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	i.e. twelfth month of lunar calendar (CC-CEDICT '季冬'; Guoyu '季冬'; Mathews 1931 '季冬', p. 58)	69668
 69669	结交	結交	jiéjiāo	to make friends with	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '結交'; Guoyu '結交'; Mathews 1931 '結交', p. 105)	69669
-69670	持重	\N	chízhòng	prudent; cautious	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '持重')	69670
+69670	持重	\N	chízhòng	prudent; cautious	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '持重'; Guoyu '持重' 3; Mathews 1931 '持重', p. 143)	69670
 69671	佯狂	\N	yángkuáng	to feign madness	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '佯狂')	69671
 69672	眇眇	\N	miǎomiǎo	sublime	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '眇眇'; Guoyu '眇眇' 1)	69672
 69673	烝民	\N	zhēngmín	people; the masses	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '烝民')	69673
@@ -72513,8 +72513,8 @@
 72513	燕雀	\N	yānquè	small fry	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '燕雀')	69652
 72514	浮游	\N	fúyóu	mayfly	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A variant of 蜉蝣 (CC-CEDICT '浮游')	69654
 72515	近人	\N	jìnrén	close friend; associate; intimate	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '近人')	69664
-72516	持重	\N	chízhòng	to be in charge of ritual ceremonies	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '持重')	69670
-72517	持重	\N	chízhòng	to hold an important office	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '持重')	69670
+72516	持重	\N	chízhòng	to be in charge of ritual ceremonies	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '持重'; Guoyu '持重' 1)	69670
+72517	持重	\N	chízhòng	to hold an important office; to bear a heavy responsibility	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '持重'; Guoyu '持重' 2)	69670
 72518	肥肉	\N	féiròu	fatty meat	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '肥肉')	69679
 72519	肥肉	\N	féiròu	a gold mine; cash cow	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '肥肉')	69679
 72520	寿星	壽星	shòuxing	elderly person whose birthday is being celebrated	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '壽星'; Guoyu '壽星' shòuxing)	69692
@@ -105799,8 +105799,8 @@
 105799	劉	\N	liú	to kill; to destroy	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '謡')	105797
 105800	奥玛亚哈里发国	奧瑪亞哈里發國	àomǎyà hālǐfàguó	Umayyad Caliphate	proper noun	\N	\N	历史	History	\N	\N	\N	\N	(Wikipedia '奧瑪亞哈里發國')	167370
 105801	少时	少時	shǎoshí	when young; in a small amount of time	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '少時')	105801
-105802	把持	\N	bǎchí	to monopolize	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	ba3chi2.mp3	In the sense of 独揽 (CC-CEDICT '把持'; Guoyu '把持' 2)	8942
-105803	把持	\N	bǎchí	to control	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	ba3chi2.mp3	In the sense of 控制 (CC-CEDICT '把持'; Guoyu '把持' 3)	8942
+105802	把持	\N	bǎchí	to monopolize	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	ba3chi2.mp3	In the sense of 独揽 (CC-CEDICT '把持'; Guoyu '把持' 2; Mathews 1931 '把持', p. 143)	8942
+105803	把持	\N	bǎchí	to control; to manage	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	ba3chi2.mp3	In the sense of 控制 (CC-CEDICT '把持'; Guoyu '把持' 3; Mathews 1931 '把持', p. 143)	8942
 105804	罗致	羅致	luó zhì	to foster talent; to recruit talent	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '羅致')	105804
 105805	丹霄	\N	dānxiāo	a red sky	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '丹霄'; Han Dian '丹霄')	105805
 105806	红霞	紅霞	hóngxiá	red clouds	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '紅霞' 1)	105806
@@ -110255,15 +110255,15 @@
 110255	盛意	\N	chéngyì	substantial implications	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '盛意')	110255
 110256	盛	\N	shèng	large scale	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 大规模的 (Guoyu '盛' shèng adj 3)	3496
 110257	盛	\N	shèng	extremely	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 极 (Guoyu '盛' shèng adv)	3496
-110258	茶盘	茶盤	chápán	a tea tray	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '茶盤'; Mathews 1931 '茶盤', p. 10)	110258
-110259	枝水	\N	zhīshuǐ	tributary	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '枝水', p. 130)	110259
+110258	茶盘	茶盤	chá pán	a tea tray	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '茶盤'; Mathews 1931 '茶盤', p. 10)	110258
+110259	枝水	\N	zhīshuǐ	tributary stream	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '枝水', p. 130)	110259
 110260	鸠	鳩	jiū	to collect; to assemble	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '鳩'; Guoyu '鳩' v 1; Unihan '鳩')	19438
-110261	持论	持論	chílùn	a proposition; an argument	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '持論')	110261
-110262	茶礼	茶禮	chálǐ	engagement gifts	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 聘礼 (Guoyu '茶禮' 1; Mathews 1931 '茶禮', p. 10)	110262
-110263	代茶	\N	dàichá	a betrothal gift	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 聘礼 (Guoyu '代茶')	110263
-110264	茶金	\N	chájīn	a betrothal gift	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 聘礼 (Guoyu '茶金')	110264
-110265	茶礼	茶禮	chálǐ	a gift of tea	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '茶禮' 2)	110262
-110266	受茶	\N	shòuchá	a betrothal gift	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '茶禮', p. 10)	110266
+110261	持论	持論	chí lùn	to argue	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持論'; Mathews 1931 '持論', p. 143)	110261
+110262	茶礼	茶禮	chá lǐ	engagement gifts	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 聘礼 (Guoyu '茶禮' 1; Mathews 1931 '茶禮', p. 10)	110262
+110263	代茶	\N	dài chá	a betrothal gift	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 聘礼 (Guoyu '代茶')	110263
+110264	茶金	\N	chá jīn	a betrothal gift	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 聘礼 (Guoyu '茶金')	110264
+110265	茶礼	茶禮	chálǐ	a gift of tea	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '茶禮' 2)	110262
+110266	受茶	\N	shòu chá	a betrothal gift	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '茶禮', p. 10)	110266
 110267	始终不渝	始終不渝	shǐ zhōng bù yú	from beginning to end with no change; unflinching	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(CC-CEDICT '始終不渝'; CCI '始终不渝', pp. 96-97; Guoyu '始終不渝')	110267
 110268	渝	\N	yú	Chongqing	proper noun	城市	City	地方	Places	重庆	Chongqing	\N	yu2.mp3	Abbreviation for 重庆 Chongqing (Unihan '渝')	4272
 110269	贞固	貞固	zhēngù	to not change; unswerving	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '貞固'; Mathews 1931 '貞固', p. 42)	110269
@@ -167397,9 +167397,9 @@
 167397	首尾	\N	shǒu wěi	responsibility	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '首尾' 3)	36698
 167398	孝灵	孝靈	xiàolíng	Xiaoling	proper noun	人	Person	历史	History	中国	China	\N	\N	See 汉灵帝 (Wikipedia '汉灵帝')	167398
 167399	中兴	中興	zhōngxīng	Zhongxing reign	proper noun	年号	Era name	历史	History	中国	China	\N	\N	501-502; era name in the Southern Qi (Wikipedia '中兴 (南齐)')	23002
-167400	龆	齠	duì	fringe on a young person	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Hair across the forehead (Guoyu '齠' n)	33943
-167401	龆龀	齠齔	duì chèn	for a child to loose its baby teeth and grow adult teeth	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '齠齔' 1)	167401
-167402	龆龀	齠齔	duì chèn	a young child	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '齠齔' 2)	167401
+167400	龆	齠	tiáo	fringe on a young person	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Hair across the forehead (Guoyu '齠' n; Hanyu Da Cidian '齠' 2, vo. 12, p. 1452)	33943
+167401	龆龀	齠齔	tiáo chèn	for a child to loose its baby teeth and grow adult teeth	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '齠齔' 1; Hanyu Da Cidian '齠齔' 1, vo. 12, p. 1452)	167401
+167402	龆龀	齠齔	tiáo chèn	a young child	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '齠齔' 2; Hanyu Da Cidian '齠齔' 1, vo. 12, p. 1452)	167401
 167403	郢州	\N	yǐngzhōu	Yingzhou	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	A historic administrative established in the Liu Song dynasty in the vicinity of present-day Wuhan (Wikipedia '郢州 (刘宋)')	167403
 167404	润色	潤色	rùnsè	to decorate	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '潤色' 2)	19393
 167405	事事	\N	shìshì	to handle a matter	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '事事' 1)	33711
@@ -169562,3 +169562,24 @@
 169562	持节使	持節使	chí jié shǐ	a messenger with imperial commission	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持節使', p. 143)	169562
 169563	嗟骇	嗟駭	jiē hài	to be alarmed	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '嗟骇')	169563
 169564	持索捕风	持索捕風	chí suǒ bǔ fēng	to use a rope to catch the wind; to attempt the impossible	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	(Mathews 1931 '持索捕風', p. 143)	169564
+169565	魏州	\N	wèizhōu	Weizhou	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	A historic province in the vicinity of present-day Hebei (Wikipedia '魏州')	169565
+169566	持衡	\N	chí héng	to assess	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持衡', p. 143)	169566
+169567	武阳郡	武陽郡	wǔyáng jùn	Wuyang commandery	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	An alternate name for 魏州 (Wikipedia '魏州')	169567
+169568	武阳	武陽	wǔyáng	Wuyang	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	See 武陽郡 (Wikipedia '魏州')	169568
+169569	持赠	持贈	chí zèng	to present a gift	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持贈', p. 143)	169569
+169570	龆齓	齠齓	tiáo chèn	for a child to loose its baby teeth; a young child	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Same as 齠齔 (Hanyu Da Cidian '齠齓' 1, vo. 12, p. 1452)	169570
+169571	持身	\N	chí shēn	to cultivate	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '持身'; Mathews 1931 '持身', p. 143)	169571
+169572	歎服	\N	tàn fú	to praise; to admire	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '歎服')	169572
+169573	持身涉世	\N	chí shēn shè shì	to conduct oneself with restraint when dealing with the world	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持身涉世', p. 143)	169573
+169574	黑豹	\N	hēi bào	black panther	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '黑豹')	169574
+169575	持躬	\N	chí gōng	to conduct oneself with dignity	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持躬', p. 143)	169575
+169576	沥青瓦	瀝青瓦	lìqīng wǎ	asphalt shingle	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Wikipedia '沥青瓦')	169576
+169577	持重	\N	chízhòng	solemn; grave	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '持重', p. 143)	69670
+169578	交横	交橫	jiāo héng	crossing paths; vertical and horizontal	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '交橫')	169578
+169579	把持	\N	bǎchí	to boycott	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '把持', p. 143)	8942
+169580	长广郡	長廣郡	chángguǎng jùn	Changguang commandery	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	Historic administrative area in the vicinity of present-day Shandong (Wikipedia '长广郡')	169580
+169581	挟持	挾持	xié chí	administrative ability	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '挾持', p. 143)	16400
+169582	躬自	\N	gōngzì	oneself	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '躬自')	169582
+169583	耻其言而过期行	恥其言而過期行	chǐ qí yán ér guò qī xíng	sparing in words and excelling in action	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '恥其言而過期行', p. 143)	169583
+169584	朱雀门	朱雀門	zhūquèmén	Zhuquemen	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	Historic place in Xi'an (Wikipedia '朱雀门')	169584
+169585	耻心	恥心	chǐ xīn	sense of shame	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '恥心', p. 143)	169445
