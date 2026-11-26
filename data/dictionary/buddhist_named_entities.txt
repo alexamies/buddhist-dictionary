@@ -1376,7 +1376,7 @@
 7001376	漆间势至丸	漆間勢至丸	qījiānshìzhìwán	Uruma Seishimaru	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	Secular name for 法然 Hōnen (Matsuo 2007, p. 9)	7001376
 7001377	源空	\N	yuánkōng	Genkū	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	Formal monastic name for 法然 Hōnen (Matsuo 2007, p. 9)	7001377
 7001378	行基	\N	xíngjī	Gyōki	proper noun	师父	Monastic	佛教	Buddhism	日本	Japan	\N	\N	668–749; Japanese monk (Matsuo 2007, p. 21)	7001378
-7001379	释昙无竭	釋曇無竭	shì tánwújié	   Dharmodgata	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Monk from Youzhou mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三 (FGDB '曇無竭菩薩')	7001379
+7001379	释昙无竭	釋曇無竭	shì tánmójié	   Dharmodgata	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Monk from Youzhou mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三 (FGDB '曇無竭菩薩')	7001379
 7001380	昙无竭	曇無竭	tánwújié	Dharmodgata	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	Monk from Youzhou mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三 (T 2059; FGDB '曇無竭')	7001380
 7001381	浮陀跋摩	\N	fútuóbámó	Buddhavarman	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	Monk from the Western Regions who travelled to China c 437, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三, translated 《阿毘曇毘婆沙論》 Abhidharmavibhāṣāśāstra, which is included in the Chinese Buddhist canon (FGDB '浮陀跋摩'; KDC 951; T 1546)	7001381
 7001382	智严	智嚴	zhì yán	Zhi Yan	proper noun	法师	Monastic	佛教	Buddhism	中国	China	\N	\N	350-427; Monk from Gansu who travelled to China in the Eastern Jin, mentioned in the Liang Biographies of Eminent Monks, Scroll 3 梁高僧傳卷第三 (FGDB '智嚴')	7001382
@@ -9073,4 +9073,11 @@
 7009073	小雪山	\N	xiǎoxuěshān	Sulaiman Mountains	proper noun	\N	\N	佛教	Buddhism	\N	\N	\N	\N	See 蘇萊曼山脈 (BSPAD '小雪山', PL000000049249)	7009073
 7009074	耶婆提国	耶婆提國	yépótí guó	Yāva-dvīpa	proper noun	王国	Kingdom	佛教	Buddhism	亚洲	Asia	\N	\N	Historic kingdom in Indonesia visited by Faxian (BSPAD '耶婆提國', PL000000048200)	7009074
 7009075	波伦国	波倫國	bōlún guó	Baltistan	proper noun	地名	Place Name	佛教	Buddhism	\N	\N	\N	\N	Historic Kingdom in present-day Pakistan mentioned in Fascicle 15 of the Chu san zang ji ji(BSPAD '波倫國', PL000000049215; T 2145, 55.0113b04)	7009075
-s7009076	迦罗卫国	迦羅衛國	jiāluówèiguó	Kapilavastu	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 迦毘羅衛 (BSPAD '迦毘羅衛國', PL000000049201)	7009076
+7009076	迦罗卫国	迦羅衛國	jiāluówèiguó	Kapilavastu	proper noun	地名	Place Name	佛教	Buddhism	印度	India	\N	\N	See 迦毘羅衛 (BSPAD '迦毘羅衛國', PL000000049201)	7009076
+7009077	森格藏布	\N	sēngé cángbù	Sindhu-nadī; Sindhu River	proper noun	地方	Places	佛教	Buddhism	\N	\N	\N	\N	(BSPAD '森格藏布', PL000000041898)	7009077
+7009078	新头那提	新頭那提	xīntóu nàtí	Sindhu-nadī; Sindhu River	proper noun	地方	Places	佛教	Buddhism	\N	\N	\N	\N	See 森格藏布 (BSPAD '森格藏布', PL000000041898)	7009078
+7009079	师子口河	師子口河	shīzǐkǒu hé	Sindhu-nadī; Sindhu River	proper noun	地方	Places	佛教	Buddhism	\N	\N	\N	\N	See 森格藏布 (BSPAD '森格藏布', PL000000041898)	7009079
+7009080	辛头那提河	辛頭那提河	xīntóunàtí hé	Sindhu-nadī; Sindhu River	proper noun	地方	Places	佛教	Buddhism	\N	\N	\N	\N	See 森格藏布 (BSPAD '森格藏布', PL000000041898)	7009080
+7009081	辛头那提	辛頭那提	xīntóunàtí	Sindhu-nadī; Sindhu River	proper noun	地方	Places	佛教	Buddhism	\N	\N	\N	\N	See 森格藏布 (BSPAD '森格藏布', PL000000041898)	7009081
+7009082	月氏国	月氏國	yuèzhìguó	Gandhāra	proper noun	地方	Places	佛教	Buddhism	\N	\N	\N	\N	See 健馱邏國 (BSPAD '健馱邏國', PL000000049232)	7009082
+7009083	无竭	無竭	mójié	   Dharmodgata	proper noun	法师	Monastic	佛教	Buddhism	\N	\N	\N	\N	See 曇無竭菩薩 (FGDB '曇無竭菩薩')	7009083

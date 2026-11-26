@@ -1641,7 +1641,7 @@
 1641	经常	經常	jīngcháng	frequently; constantly; regularly; often	adverb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	jing1chang2.mp3	In the sense of 常常 (CC-CEDICT '經常'; Guoyu '經常' 3)	1641
 1642	凌晨	\N	língchén	early in the morning	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	ling2chen2.mp3	(CC-CEDICT '凌晨')	1642
 1643	起来	起來	qǐlai	to stand up	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	qi3lai2.mp3	(CC-CEDICT '起來'; Guoyu '起來' 1; Mathews 1931 '起來', p. 71)	1643
-1644	进	進	jìn	to enter	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	jin4.mp3	For example, 进屋，把笤帚放在原处 'He entered the room and placed the broom in its original position'（Lao She, 2003, p. 173; Unihan '進').	1644
+1644	进	進	jìn	to enter	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	jin4.mp3	For example, 进屋，把笤帚放在原处 'He entered the room and placed the broom in its original position'（Lao She, 2003, p. 173; CC-CEDICT '進'; Guoyu '進' v 2; Kroll 2015 '進' 3, p. 216; Unihan '進')	1644
 1645	卖	賣	mài	to sell	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	mai4.mp3	(CC-CEDICT '賣'; Guoyu '賣' v 1; Kroll 2015 '賣' 1, p. 293; Unihan '賣')	1645
 1646	柴	\N	chái	firewood; faggots; fuel	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	chai2.mp3	In the sense of 柴火 or 木柴 (ABC 'chái' 柴 n 1, p. 89; Guoyu '柴' n 1; Kroll 2015 '柴' 1, p. 38; Mathews 1931 '柴', p. 13; NCCED '柴' 1, p. 166; Unihan '柴')	1646
 1647	温州	溫州	Wēnzhōu	Wenzhou	proper noun	城市	City	地方	Places	中国	China	\N	wen1zhou1.mp3	City in Zhejiang (CC-CEDICT '溫州')	1647
@@ -3859,7 +3859,7 @@
 3859	常	\N	cháng	Chang	proper noun	名字	Name	现代汉语	Modern Chinese	名字	Names	\N	chang2.mp3	(CCD '常' 5; FE '常' 6; Guoyu '常' n 2)	3858
 3860	昼	晝	zhòu	daytime	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	zhou4.mp3	(CCD '昼' 1; FE '晝' 1; GHDC '昼' 1)	3860
 3861	觉悟	覺悟	juéwù	to become aware; to realize	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '覺悟'; Guoyu '覺悟' 1)	3861
-3862	危	\N	wéi	dangerous; precarious	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	wei1.mp3	(Unihan '危')	3862
+3862	危	\N	wéi	dangerous; not safe; precarious	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	wei1.mp3	In the sense of 不安全 (CC-CEDICT '危'; Guoyu '危' adj 1; Hanyu Da Cidian '危' 1, vol. 2, p. 520; Unihan '危')	3862
 3863	脆	\N	cuì	crisp; fragile; frail; brittle	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	cui4.mp3	(Unihan '脆')	3863
 3864	苦	\N	kǔ	bitterness; bitter flavor	noun	味道	Flavor	现代汉语	Modern Chinese	\N	\N	\N	\N	One of the 五味 'five flavors', the opposite of 甜 'sweetness' (Guoyu '苦' n 1)	3864
 3865	苦	\N	kǔ	hardship; suffering	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	For example, the idiom 苦中作乐 'to enjoy in spite of hardship' (Guoyu '苦' n 2; Unihan '苦')	3864
@@ -10000,7 +10000,7 @@
 10000	痰	\N	tán	phlegm; mucus; spittle	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	tan2.mp3	(CC-CEDICT '痰'; Guoyu '痰' n 1; Unihan '痰'; Wikipedia '痰')	10000
 10001	唾	\N	tuò	spittle; saliva	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 口水 (Guoyu '唾' n; Unihan '唾')	10001
 10002	唾沫	\N	tuòmò	spittle; saliva	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '唾沫'; Guoyu '唾沫')	10002
-10003	牙齿	牙齒	yáchǐ	tooth	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '牙齒'; Guoyu '牙齒'; Wikipedia '牙齿')	10003
+10003	牙齿	牙齒	yáchǐ	tooth	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '牙齒'; Guoyu '牙齒'; Mathews 1931 '牙齒', p. 143; Wikipedia '牙齿')	10003
 10004	锅	鍋	guō	cooking-pot; saucepan	noun	烹调	Cooking	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '鍋'; Guoyu '鍋' n; Unihan '鍋')	10004
 10005	香皂	\N	xiāngzào	perfumed soap; toilet soap	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '香皂'; Guoyu '香皂')	10005
 10006	豆腐	\N	dòufu	tofu; bean curd	noun	中餐	Chinese Food	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '豆腐'; Guoyu '豆腐')	10006
@@ -25137,7 +25137,7 @@
 25137	浑邪王	渾邪王	húnxié wáng	King Hunye	proper noun	人	Person	历史	History	\N	\N	\N	\N	A Xiongnu king (Wikipedia '渾邪王')	25137
 25138	呾	\N	dá	laugh	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	da2.mp3	(Guoyu '呾' 1)	25138
 25139	呾叉始罗	呾叉始羅	dáchāshǐluó	Taxila; Takshasila	proper noun	城市	City	历史	History	印度	India	\N	\N	See 塔克西拉 (Wikipedia '塔克西拉')	25139
-25140	犍陀罗	犍陀羅	jiāntuóluó	Gandhara	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	Kingdom in northwest India, c. 600 BCE-11 CE, on Kabul River in present day Peshawar (Wikipedia '健馱邏國')	25140
+25140	犍陀罗	犍陀羅	jiāntuóluó	Gandhara	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	Kingdom in northwest India, c. 600 BCE-11 CE, on Kabul River in present day Peshawar (Wikipedia '健驮逻国')	25140
 25141	大夏	\N	dàxià	Bactria	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	See 巴克特里亚 (Wikipedia '巴克特里亚')	25141
 25142	大夏希腊	大夏希臘	dàxià xīlà	Greco-Bactrian Kingdom	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	The eastern most part of the ancient Greek world, including Bactria and Sogdiana in Central Asia from 250 to 125 BCE	25142
 25143	塞	\N	sè	to fill	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 充满, as in 充塞 (Guoyu '塞' sè v 2; Kroll 2015 '塞' sāi 1b, p. 395)	3557
@@ -26934,7 +26934,7 @@
 26934	长安城	長安城	cháng'ān chéng	City of Chang'an	proper noun	古城	Historic City	历史	History	中国	China	\N	\N	See 长安 (CC-CEDICT '長安')	26934
 26935	诏	詔	zhào	an imperial decree	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	zhao4.mp3	(Guoyu '詔' v; Mathews 1931 '詔', p. 29; Unihan '詔')	26935
 26936	颡	顙	sǎng	forehead	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '顙'; Guoyu '顙' 1; Unihan '顙')	26936
-26937	赆	贐	jìn	farewell presents	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	jin4.mp3	\N	26937
+26937	赆	贐	jìn	a farewell present	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	jin4.mp3	(Unihan '贐')	26937
 26938	抃	\N	biàn	to applaud	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	bian4.mp3	\N	26938
 26939	风土	風土	fēngtǔ	natural conditions and social customs of a place; local conditions	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	\N	26939
 26940	邈	\N	miǎo	far; distant; remote	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '邈')	26940
@@ -35731,7 +35731,7 @@
 35731	期	\N	jī	a month	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '期' jī 1, p. 352; Mathews 1931 '期', p. 69)	1311
 35732	他	\N	tuō	other; another; some other	pronoun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Used as an indefinite pronoun (Guoyu '他' tuō; Pulleyblank 1995, p. 78, 97)	518
 35733	微	\N	wéi	if it had not been for	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Sometimes used as a negating word, tone is Middle Chinese pronunciation (Guoyu '微' v 2; Pulleyblank 1995, p. 110)	3232
-35734	危	\N	wéi	high	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '危')	3862
+35734	危	\N	wéi	high	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 高耸 (Guoyu '危' adj 3; Hanyu Da Cidian '危' 3, vol. 2, p. 520; Unihan '危')	3862
 35735	曳	\N	yì	to flutter; to sway	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 飘摇; as in 摇曳 (Guoyu '曳' yì v 2)	6567
 35736	橐驼	橐駝	tuótuó	camel	noun	动物	Animal	文言文	Literary Chinese	\N	\N	\N	\N	\N	35736
 35737	盍	\N	hé	why not？	pronoun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A contraction of 何不 used in Literary Chinese (Pulleyblank 1995, p. 95)	35737
@@ -72668,7 +72668,7 @@
 72668	难解	難解	nánjiě	hard to undo	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '難解'; Guoyu '難解' 3)	70135
 72669	耿介	\N	gěngjiè	upright	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '耿介'; Guoyu '耿介' 2; ; Mathews 1931 '耿介')	72346
 72670	江东	江東	jiāngdōng	Jiangdong	proper noun	地区	District	地方	Places	中国	China	\N	\N	District Of Ningbo City 寧波市|宁波市, Zhejiang (CC-CEDICT '江東')	68889
-72671	健驮逻国	健馱邏國	jiàntuóluó guó	Gandhāra; Gandhara	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	See 犍陀羅	72671
+72671	健驮逻国	健馱邏國	jiàntuóluó guó	Gandhāra; Gandhara	proper noun	王国	Kingdom	历史	History	印度	India	\N	\N	See 犍陀羅 (Wikipedia '健驮逻国')	72671
 72672	讲学	講學	jiǎngxué	to explain  and study	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '講學' 1)	69807
 72673	降旗	\N	xiángqí	flag of surrender	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '降旗' jiàngqí; Mathews 1931 '降旗', p. 89)	71763
 72674	假途	\N	jià tú	to provisionally take a route through another state's territory	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '假途', p. 81)	72674
@@ -84870,7 +84870,7 @@
 84870	多头	多頭	duōtóu	number of animals	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '多頭')	84821
 84871	多头	多頭	duōtóu	long term (finance); long (investment)	adjective	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '多頭')	84821
 84872	适	適	shì	just	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '適')	1607
-84873	进	進	jìn	to advance	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Unihan '進')	1644
+84873	进	進	jìn	to advance	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 前进 (CC-CEDICT '進'; Guoyu '進' v 1; Hanyu Da Cidian '進' 1, vol. 10, p. 978; Kroll 2015 '進' 1, p. 216; Unihan '進')	1644
 84874	卖	賣	mài	to betray	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '賣'; Guoyu '賣' v 2; Unihan '賣')	1645
 84875	卖	賣	mài	to show off	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '賣'; Guoyu '賣' v 3; Kroll 2015 '賣' 2, p. 293; Unihan '賣')	1645
 84876	浙	\N	zhè	Zhe River	proper noun	水名	River	地方	Places	\N	\N	\N	\N	(Guoyu '浙' n 1; Mathews 1931 '浙', p. 33; Unihan '浙')	1665
@@ -89440,7 +89440,7 @@
 89440	后付	後付	hòufù	payment made afterwards; postpaid	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '後付')	89440
 89441	双生	雙生	shuāngshēng	twins	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '雙生')	89441
 89442	摄食	攝食	shèshí	to consume	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '攝食')	89442
-89443	齿根	齒根	chǐgēn	root of tooth	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '齒根')	89443
+89443	齿根	齒根	chǐ gēn	root of tooth	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齒根'; Guoyu '齒根'; Mathews 1931 '齒根', p. 143)	89443
 89444	香叶	香葉	xiāngyè	bay leaf; laurel leaf	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '香葉')	89444
 89445	劈面	\N	pīmiàn	right in the face	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '劈面')	89445
 89446	去岁	去歲	qùsuì	last year	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '去歲')	89446
@@ -142661,7 +142661,7 @@
 142661	齐聚一堂	齊聚一堂	qí jù yī táng	to get together all at once	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齊聚一堂')	142661
 142662	齌怒	\N	jìnù	to suddenly become extremely angry	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齌怒')	142662
 142663	赍恨	齎恨	jīhèn	to harbor malice	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '齎恨'; Guoyu '齎恨'; Mathews 1931 '齎恨', p. 61)	142663
-142664	齿冠	齒冠	chǐguān	crown of tooth	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齒冠'; Wikipedia '齿冠')	142664
+142664	齿冠	齒冠	chǐguān	crown of the tooth	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齒冠'; Mathews 1931 '齒冠', p. 143; Wikipedia '齿冠')	142664
 142665	齿列矫正	齒列矯正	chǐ liè jiǎozhèng	orthodontic treatment; orthodontics	set phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齒列矯正')	142665
 142666	齿孔	齒孔	chǐkǒng	perforations (on a postage stamp)	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齒孔')	142666
 142667	齿嵴	齒嵴	chǐjí	alveolar ridge	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '齒嵴')	142667
@@ -169596,3 +169596,35 @@
 169596	龙池	龍池	lóng chí	Dragon Pool; Long Chi	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	(Guoyu '龍池' 1)	169596
 169597	龙池	龍池	lóng chí	chamber in a Chinese lute	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '龍池' 2)	169596
 169598	齿亡舌存	齒亡舌存	chǐ wáng shé cún	the teeth are gone but tongue remains	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	The tough are lost and the weak remain (Guoyu '齒亡舌存'; Mathews 1931 '齒亡舌存', p. 143)	169598
+169599	同侣	同侶	tónglǚ	companion	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Baike '同侣')	169599
+169600	齿危	齒危	chǐ wéi	a tooth about to fall out	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '齒危', p. 143)	169600
+169601	危	\N	wéi	seriously ill	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 病重 (Guoyu '危' adj 2)	3862
+169602	危	\N	wéi	upright	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 正直 (Guoyu '危' adj 4; Hanyu Da Cidian '危' 6, vol. 2, p. 520)	3862
+169603	危	\N	wéi	leaning	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 不正 (Guoyu '危' adj 5; Hanyu Da Cidian '危' 7, vol. 2, p. 520)	3862
+169604	危	\N	wéi	difficult; distressed	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 艰困 (Guoyu '危' adj 6)	3862
+169605	危	\N	wéi	to fear	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 恐惧 (Guoyu '危' v 1; Hanyu Da Cidian '危' 4, vol. 2, p. 520)	3862
+169606	危	\N	wéi	to harm	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 伤害 (Guoyu '危' v 2; Hanyu Da Cidian '危' 2, vol. 2, p. 520)	3862
+169607	危	\N	wéi	ridge of a roof	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 屋脊 (Guoyu '危' n 1; Hanyu Da Cidian '危' 5, vol. 2, p. 520)	3862
+169608	危	\N	wéi	Wei	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(CC-CEDICT '危'; Guoyu '危' n 2; Hanyu Da Cidian '危' 12, vol. 2, p. 520)	3862
+169609	齿吻	齒吻	chǐ wěn	teeth and lips	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '齒吻'; Mathews 1931 '齒吻', p. 143)	169609
+169610	危	\N	wéi	powerful	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 强劲 (Hanyu Da Cidian '危' 8, vol. 2, p. 520)	3862
+169611	危	\N	wéi	almost; about to	adverb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 几乎 (Hanyu Da Cidian '危' 9, vol. 2, p. 520)	3862
+169612	危	\N	wéi	Wei constellation	proper noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Da Cidian '危' 10, vol. 2, p. 520)	3862
+169613	危	\N	wéi	to cheat	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 诡 (Hanyu Da Cidian '危' 11, vol. 2, p. 520)	3862
+169614	齿垢	齒垢	chǐgòu	dental plaque	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	See 牙菌斑 (Mathews 1931 '齒垢', p. 143)	169614
+169615	危棘	\N	wéi jí	desperate; critical	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Hanyu Da Cidian '危棘', vol. 2, p. 525)	169615
+169616	齿状	齒狀	chǐ zhuàng	dentation	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '齒狀', p. 143)	169616
+169617	进	進	jìn	to improve; to go further	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '進' 1a, p. 216)	1644
+169618	进	進	jìn	movement of a planet	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '進' 1b, p. 216)	1644
+169619	进	進	jìn	to present; to bring forward	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '進' 2, p. 216)	1644
+169620	进	進	jìn	to recommend; to advocate for	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 推荐 (Guoyu '進' v 4; Hanyu Da Cidian '進' 4, vol. 10, p. 978; Kroll 2015 '進' 2a, p. 216)	1644
+169621	进	進	jìn	to earn revenue; to earn income	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 收入 (Guoyu '進' v 7; Kroll 2015 '進' 4, p. 216)	1644
+169622	进	進	jìn	a farewell present	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	As a variant of 赆 (Kroll 2015 '進' 5, p. 216)	1644
+169623	齿状装	齒狀裝	chǐ zhuàng zhuāng	tooth pattern decoration	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Mathews 1931 '齒狀裝', p. 143)	169623
+169624	进	進	jìn	to take up an official post	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 做官 (Guoyu '進' v 3; Hanyu Da Cidian '進' 2, vol. 10, p. 978)	1644
+169619	进	進	jìn	to offer a present	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 奉上 (Guoyu '進' v 5)	1644
+169620	进	進	jìn	to strive	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 努力 (Guoyu '進' v 6)	1644
+169621	进	進	jìn	arrangement of a courtyard	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '進' n 1)	1644
+169622	进	進	jìn	Jin	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(Guoyu '進' n 2)	1644
+169623	齿牙	齒牙	chǐyá	tooth	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	See 牙齿 (Mathews 1931 '齒牙', p. 143)	169623
+169621	进	進	jìn	to promote	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 提拔 (Hanyu Da Cidian '進' 3, vol. 10, p. 978)	1644
