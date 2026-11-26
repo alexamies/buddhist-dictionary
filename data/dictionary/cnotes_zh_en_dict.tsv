@@ -7103,9 +7103,9 @@
 7103	鼠	\N	shǔ	Kangxi radical 208	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	shu3.mp3	Rat (ABC back cover; GHC p. 7)	2354
 7104	鼻	\N	bí	Kangxi radical 209	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	bi2.mp3	Nose (ABC back cover; GHC p. 7; Guoyu '鼻' n 5; Mathews 1931 '齊', p. 74)	5064
 7105	齐	齊	qí	Kangxi radical 210	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	qi2.mp3	Together; even (ABC back cover; GHC p. 7)	2223
-7106	齿	齒	chǐ	tooth; teeth	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 牙齿 (CCD '齿' 1; FE '齒' 1; GHDC '齿' 1)	7106
+7106	齿	齒	chǐ	tooth; teeth; upper incisors	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 牙齿 (CC-CEDICT '齒' 1; CCD '齿' 1; FE '齒' 1; GHDC '齿' 1; Guoyu '齒' n 1; Kroll 2015 '齒' 1, p. 52; Mathews 1931 '齒', p. 143)	7106
 7107	齿	齒	chǐ	gears; cogs	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CCD '齿' 3)	7106
-7108	齿	齒	chǐ	Kangxi radical 211	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	\N	Tooth (ABC back cover; GHC p. 7)	7106
+7108	齿	齒	chǐ	Kangxi radical 211	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	\N	Tooth (ABC back cover; GHC p. 7; Guoyu '齒' n 4; Mathews 1931 '齒', p. 143)	7106
 7109	龙	龍	lóng	Kangxi radical 212	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	long2.mp3	Dragon (ABC back cover; GHC p. 7)	1818
 7110	龟	龜	guī	turtle; tortoise	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	gui1.mp3	(Guoyu '龜' n 1; Kroll 2015 '龜' 1, p. 146; Unihan '龜')	7110
 7111	龟	龜	guī	Kangxi radical 213	noun	\N	\N	现代汉语	Modern Chinese	部首	Radicals	\N	gui1.mp3	Turtle (ABC back cover; GHC p. 7; Guoyu '龜' n 3)	7110
@@ -18824,7 +18824,7 @@
 18824	咧	\N	liē	to draw back corners of mouth	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	18823
 18825	假话	假話	jiǎhuà	a lie	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	For example, 闭拢眼睛说假话 'to close one's eyes and tell a lie [about something inconvenient]' (CC-CEDICT '假話'; Guoyu '假話'; Mathews 1931 '假話', p. 80; Suyu, p. 45; CC-CEDICT '假話')	18825
 18826	征地	\N	zhēngdì	to requisition land	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	18826
-18827	耻笑	恥笑	chǐxiào	to sneer; to ridicule	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	\N	18827
+18827	耻笑	恥笑	chǐxiào	to sneer; to ridicule	verb	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '恥笑'; Guoyu '恥笑'; Mathews 1931 '恥笑', p. 143)	18827
 18828	小两口儿	小兩口兒	xiǎo liǎng kǒur	young married couple	phrase	\N	\N	现代汉语	Modern Chinese	口语	Spoken Language	\N	\N	\N	18828
 18829	拉倒	\N	lādǎo	the deal is off; forget about it	phrase	\N	\N	现代汉语	Modern Chinese	口语	Spoken Language	\N	\N	\N	18829
 18830	念经	念經	niàn jīng	to chant a scripture	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '念經')	18830
@@ -33593,7 +33593,7 @@
 33593	落	\N	luò	a settlement	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	For example, 村落 village (CC-CEDICT '落'; Guoyu '落' n 1; Kroll 2015 '落' 6, p. 291; XHZD '落' 5, p. 478)	1264
 33594	缅甸蟒	緬甸蟒	miǎndiàn mǎng	Burmese python	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '緬甸蟒')	33594
 33595	晧	\N	hào	daybreak	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '晧')	33595
-33596	晧	\N	hào	bright and brilliant	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Unihan '晧')	33595
+33596	晧	\N	hào	bright; brilliant	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	A variant of 皓 (Guoyu '晧'; Unihan '晧')	33595
 33597	瘳	\N	chōu	to convalesce; to recover; to heal	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '瘳'; Guoyu '瘳' v; Unihan '瘳')	33597
 33598	落	\N	luò	to belong to; to be subordinate to	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 归属 (CC-CEDICT '落'; Guoyu '落' v 10; XHZD '落' 6, p. 478)	1264
 33599	苍梧	蒼梧	cāngwú	Cangwu	proper noun	县	County	地方	Places	中国	China	\N	\N	A county in Wuzhou, Guangxi (CC-CEDICT '蒼梧'; Guoyu '蒼梧')	33599
@@ -45559,7 +45559,7 @@
 45559	垃圾分类	垃圾分類	lājī fēnlèi	waste sorting	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '垃圾分類'; Wikipedia '垃圾分類')	45559
 45560	垃圾回收	\N	lājī huíshōu	waste recycling	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '垃圾回收')	45560
 45561	垃圾场	垃圾場	lājī chǎng	waste disposal site; landfill	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '垃圾場')	45561
-45562	耻辱	恥辱	chǐrǔ	disgrace; shame; humiliation	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '耻辱')	45562
+45562	耻辱	恥辱	chǐrǔ	disgrace; shame; humiliation	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '耻辱'; Guoyu '耻辱'; Mathews 1931 '耻辱', p. 143)	45562
 45563	垢	\N	gòu	messy; disorderly	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	gou4.mp3	In the sense of 浊乱 (GHDC '垢' 4)	5061
 45564	施	\N	shī	to exert	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	shi1.mp3	(CCD '施' 2; GDHC '施' 2; Kroll 2015 '施' 1, p. 411)	3935
 45565	施	\N	shī	to apply; to spread	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	shi1.mp3	In the sense of apply a powder or a cream (CCD '施' 4; FE '施' 3; Kroll 2015 '施' 4, p. 411)	3935
@@ -51984,10 +51984,10 @@
 51984	轴心	軸心	zhóuxīn	central element; key element; axis	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '軸心')	51984
 51985	西奈山	\N	xīnàishān	Mount Sinai	proper noun	山	Mountain	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '西奈山')	51985
 51986	耶和华	耶和華	yéhéhuà	Jehovah	proper noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(CC-CEDICT '耶和華')	51986
-51987	齿	齒	chǐ	a tooth-shaped part of an object	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 齿轮 (CCD '齿' 2; FE '齒' 4; GHDC '齿' 2)	7106
-51988	齿	齒	chǐ	to stand side-by-side	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CCD '齿' 4; GHDC '齿' 4)	7106
-51989	齿	齒	chǐ	age	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 年龄 (CCD '齿' 4; FE '齒' 2; GHDC '齿' 3)	7106
-51990	齿	齒	chǐ	to speak of	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 说到 (CCD '齿' 4; FE '齒' 3; GHDC '齿' 5)	7106
+51987	齿	齒	chǐ	a tooth-shaped part of an object	noun	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	In the sense of 齿轮 (CCD '齿' 2; FE '齒' 4; Guoyu '齒' n 2; GHDC '齿' 2)	7106
+51988	齿	齒	chǐ	to stand side-by-side	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(CCD '齿' 4; GHDC '齿' 4; Guoyu '齒' v 1; Kroll 2015 '齒' 2, p. 52)	7106
+51989	齿	齒	chǐ	age	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 年龄, especially the age of an ox or horse (CCD '齿' 4; FE '齒' 2; GHDC '齿' 3; Guoyu '齒' n 3; Kroll 2015 '齒' 3, p. 52)	7106
+51990	齿	齒	chǐ	to speak of	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	In the sense of 说到 (CC-CEDICT '齒'; CCD '齿' 4; FE '齒' 3; GHDC '齿' 5; Guoyu '齒' v 2)	7106
 51991	腊	臘	là	a sacrifice at the end of the year	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(FE '臘' 1; Guoyu '臘' n 1; Kroll 2015 '臘' 1)	5946
 51992	腊	臘	là	a monastic year	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(FE '臘' 1; FGDB '臘'; GHDC 1 '腊' 4; Guoyu '臘' n 3; SH '腊')	5946
 51993	腊	臘	là	La	proper noun	姓氏	Surname	现代汉语	Modern Chinese	名字	Names	\N	\N	(CCD '腊' 3)	5946
@@ -169583,3 +169583,16 @@
 169583	耻其言而过期行	恥其言而過期行	chǐ qí yán ér guò qī xíng	sparing in words and excelling in action	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '恥其言而過期行', p. 143)	169583
 169584	朱雀门	朱雀門	zhūquèmén	Zhuquemen	proper noun	地名	Place Name	历史	History	中国	China	\N	\N	Historic place in Xi'an (Wikipedia '朱雀门')	169584
 169585	耻心	恥心	chǐ xīn	sense of shame	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '恥心', p. 143)	169445
+169586	惨酷	慘酷	cǎn kù	cruel; savage; merciless	phrase	地名	Place Name	文言文	Literary Chinese	\N	\N	\N	\N	(CC-CEDICT '慘酷'; Guoyu '慘酷')	169586
+169587	耻躬之不逮也	\N	chǐ gōng zhī bù dài yě	ashamed to speak in case their actions did not live up to their words	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	From 《里仁》 Li Ren in the Analects of Confucius 論語 (Mathews 1931 '耻躬之不逮也', p. 143)	169587
+169588	甘英	\N	gān yīng	Gan Ying	proper noun	人	Person	历史	History	中国	China	\N	\N	Explorer in the Later Han dynasty (Wikipedia '甘英')	169588
+169589	不知耻	不知恥	bù zhī chǐ	no sense of shame	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '不知恥', p. 143)	169589
+169590	方土	\N	fāng tǔ	local area	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '方土')	169590
+169591	无耻之行	無恥之行	wú chǐ zhī xíng	shameless conduct	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Mathews 1931 '無恥之行', p. 143)	169591
+169592	灿然	燦然	càn rán	brilliant	phrase	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Guoyu '燦然')	169592
+169593	齿	齒	chǐ	seniority; rank	adjective	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '齒' 3b, p. 52)	7106
+169594	齿	齒	chǐ	to engage; to employ	verb	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	(Kroll 2015 '齒' 4, p. 52)	7106
+169595	齿	齒	chǐ	dice	noun	\N	\N	文言文	Literary Chinese	\N	\N	\N	\N	Beginning in the Tang (Kroll 2015 '齒' 5, p. 52)	7106
+169596	龙池	龍池	lóng chí	Dragon Pool; Long Chi	proper noun	地名	Place Name	地方	Places	中国	China	\N	\N	(Guoyu '龍池' 1)	169596
+169597	龙池	龍池	lóng chí	chamber in a Chinese lute	phrase	\N	\N	现代汉语	Modern Chinese	\N	\N	\N	\N	(Guoyu '龍池' 2)	169596
+169598	齿亡舌存	齒亡舌存	chǐ wáng shé cún	the teeth are gone but tongue remains	set phrase	\N	\N	成语	Idiom	\N	\N	\N	\N	The tough are lost and the weak remain (Guoyu '齒亡舌存'; Mathews 1931 '齒亡舌存', p. 143)	169598
